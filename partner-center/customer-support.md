@@ -4,13 +4,17 @@ description: "貴社はお客様にとって最初の連絡ポイントであり
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 8be0016bb5a2d3c383e58847f60762933b382bc4
-ms.openlocfilehash: 69e9c76355c5e94509abe2dc689025b943d8d719
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
 
 ---
 
 # カスタマー サポート
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 貴社はお客様にとって最初の連絡ポイントであり、次のような技術的なサポート サービスやアカウントのサポート サービスをお客様に提供することが求められています。
 
@@ -53,6 +57,6 @@ ms.openlocfilehash: 69e9c76355c5e94509abe2dc689025b943d8d719
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

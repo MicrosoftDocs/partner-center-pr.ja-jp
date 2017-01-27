@@ -4,15 +4,18 @@ description: "パートナーは、パートナー センターからお客様�
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bf3ed3ab9e44253e4e46db3c331d14b11b33cfa4
+ms.sourcegitcommit: 9048ae0f6c43e678cd1acb8829453ecb3e04d31c
+ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
 
 ---
 
 # お客様のサブスクリプション
 
+**適用対象**
 
-パートナーは、パートナー センターからお客様にサブスクリプションを販売し、お客様を管理できます。
+-  パートナー センター
+
+パートナー センターからお客様にサブスクリプションを販売し、お客様を管理できます。 
 
 [新しいサブスクリプションを作成する](create-a-new-subscription.md)
 
@@ -43,6 +46,6 @@ ms.openlocfilehash: bf3ed3ab9e44253e4e46db3c331d14b11b33cfa4
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

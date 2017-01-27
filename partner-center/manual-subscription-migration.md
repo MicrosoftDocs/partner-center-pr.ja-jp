@@ -4,13 +4,16 @@ description: "Microsoft では、次世代のインテリジェント ビジネ�
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1d17213d3b591056d6af2dd1855d6c52a17801f5
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
 
 ---
 
 # Dynamics AX のサブスクリプションを Dynamics 365 に移行する
 
+**適用対象**
+
+-  パートナー センター
 
 Microsoft では、次世代のインテリジェント ビジネス アプリケーションである Dynamics 365 を公開しました。これにより、お客様の組織を成長、進化、および変化させ、顧客のニーズに合わせて、新しいビジネスの機会を捕らえることができます。 新製品の一部として、Microsoft では、2016 年 11 月 1 日にお客様向けの新しい Microsoft Dynamics サブスクリプション プランを導入しました。このプランは現行のプランと類似していますが、まったく同じものではありません。
 
@@ -118,6 +121,6 @@ Microsoft では、新しい製品やサービスをリセラーとプロバイ�
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

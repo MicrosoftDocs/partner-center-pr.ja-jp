@@ -1,16 +1,20 @@
 ---
 title: "請求書を読み取る | パートナー センター"
 description: "請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 請求書は、パートナー センターのダッシュボードで利用できます。"
-ms.assetid: 
+ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 472bdfc06bc531d70c97e5192658fb6fd41990e3
-ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
 ---
 
 # 請求書を読み取る
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 請求書は、パートナー センターのダッシュボードで利用できます。
 
@@ -39,7 +43,7 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 </tr>
 <tr class="even">
 <td>請求先</td>
-<td>請求書の送付先となる住所  (これは、会社の審査に関連付けられている会社の正式な住所です。変更することはできません)。</td>
+<td>請求書の送付先となる住所。 この住所を変更するには、パートナー センターのアカウント プロファイルを編集します。</td>
 </tr>
 <tr class="odd">
 <td>当月サービス利用料金</td>
@@ -98,8 +102,8 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 <td>カスタマー サービスにアクセスするための Web サイトのアドレス。</td>
 </tr>
 <tr class="even">
-<td>サービス利用者の住所</td>
-<td>サービスが使われる住所。 この住所を変更するには、パートナー センターのアカウント プロファイルを編集します。</td>
+<td>サービス利用者</td>
+<td>サービスが使われる住所。 (これは、会社の審査に関連付けられている会社の正式な住所です。変更することはできません)。</td>
 </tr>
 </tbody>
 </table>
@@ -115,6 +119,6 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ description: "パートナー センターで、顧客の課金情報とその�
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 7fa9220ee66fc207f34dbcc4782247ba88701232
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 7150ff922dd87b50dc67d8c00ebc6db1c4036b6d
 
 ---
 
 # 顧客アカウントの情報を更新する
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 パートナー センターで、顧客の課金情報とその他の会社の詳細情報を更新することができます。
 
@@ -19,7 +23,7 @@ ms.openlocfilehash: 7fa9220ee66fc207f34dbcc4782247ba88701232
 1.  
           **[ダッシュボード]** メニューの **[顧客]** を選びます。 次に一覧から顧客を選びます。
 2.  顧客メニューの **[アカウント]** を選び、**[編集]** を選びます。
-3.  変更を行った後、**提出**します。
+3.  変更を行った後、**提出**を選びます。
 
  
 
@@ -30,6 +34,6 @@ ms.openlocfilehash: 7fa9220ee66fc207f34dbcc4782247ba88701232
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ Description: "貴社は、クラウド ソリューション プロバイダー 
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a13018b21665f0dccb88bc462d535d4f4547c978
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 ---
 
 # 請求
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 貴社は、クラウド ソリューション プロバイダー パートナーとして、顧客のライセンス ベースおよび使用量ベースのサブスクリプションの料金を 60 日後に Microsoft に支払います。
 
@@ -197,6 +201,6 @@ Azure は "従量" モデルで運用され、使用した Azure サービスに
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

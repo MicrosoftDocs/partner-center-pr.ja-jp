@@ -4,13 +4,16 @@ description: "顧客は、Microsoft Azure サービスに使う、クラウド �
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
 
 ---
 
 # Azure サブスクリプションを別のパートナーに切り替える
 
+**適用対象**
+
+-  パートナー センター
 
 顧客は、Microsoft Azure サービスに使う、クラウド ソリューション プロバイダー プログラムのパートナーを変更できます。 ただし、これは手動で行うプロセスであり、パートナーと顧客の両方の操作が必要となります。
 
@@ -80,6 +83,6 @@ ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

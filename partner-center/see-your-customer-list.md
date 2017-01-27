@@ -4,13 +4,17 @@ description: "顧客の記録は、パートナー センターでの最も重�
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a947ffb17f490a3ec195cb33000c84c1e1070459
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
 ---
 
 # 顧客一覧を管理する
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 顧客の記録は、パートナー センターでの最も重要な情報資産の 1 つです。 顧客アカウントのデータベースを検索したり、顧客データベース全体またはサブセットを Excel 互換のコンマ区切り値ファイル形式 (.csv) でエクスポートしたりすることができます。 また、顧客のサブスクリプション情報を .csv ファイルにエクスポートすることもできます。
 
@@ -72,6 +76,6 @@ ms.openlocfilehash: a947ffb17f490a3ec195cb33000c84c1e1070459
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

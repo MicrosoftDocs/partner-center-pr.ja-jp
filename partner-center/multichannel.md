@@ -4,13 +4,17 @@ description: "クラウド ソリューション プロバイダー プログラ
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 226e0e53f85528f1daa50639d22deb6be30f35c1
-ms.openlocfilehash: 20cc074152cb8b2bdbb6a2b055f144d0b20927de
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
 
 ---
 
 # マルチチャネル
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 クラウド ソリューション プロバイダー プログラムには、パートナーが顧客のサブスクリプションのライフサイクル全体 (販売、プロビジョニング、サポート、および更新など) を処理できるオプションがあります。 しかし多くの場合、顧客には既に以前に別のチャネルから購入した、プロビジョニングおよびサポートが必要なサブスクリプションが存在します。
 
@@ -61,6 +65,6 @@ ms.openlocfilehash: 20cc074152cb8b2bdbb6a2b055f144d0b20927de
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

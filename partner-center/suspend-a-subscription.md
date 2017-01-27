@@ -4,13 +4,17 @@ description: "顧客から要請があった場合や、未払いや詐欺が発
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a8987c51c4abff165a5fd7fb529fb9066ce48bdd
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: c77f1fb97f3951182e3bf50fd9b037603e6106b8
 
 ---
 
 # サブスクリプションを中断する
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 顧客から要請があった場合や、未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断またはキャンセルできます。
 
@@ -27,6 +31,6 @@ ms.openlocfilehash: a8987c51c4abff165a5fd7fb529fb9066ce48bdd
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

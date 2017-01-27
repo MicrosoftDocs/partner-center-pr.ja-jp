@@ -4,15 +4,20 @@ description: "ユーザーがパスワードを忘れた場合、新しい一時
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 6b62003ef9ca7c8d40141a3adaaca5f704eb7fa6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
 
 ---
 
 # ユーザー パスワードをリセットする
 
+**適用対象**
 
-ユーザーがパスワードを忘れた場合、新しい一時的なパスワードを割り当てることができます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
+-  パートナー センター
+   
+>**注意** Microsoft Cloud ドイツのクラウド ソリューション プロバイダー (CSP) プログラムに登録している場合、ユーザー パスワードのリセットについて詳しくは、[Microsoft Cloud ドイツのパートナー センターでのユーザーの管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)に関する記事をご覧ください。
+
+ユーザーがパスワードを忘れた場合、一時的なパスワードを割り当てます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
 
 **管理者としてユーザーのパスワードをリセットする**
 
@@ -26,6 +31,7 @@ ms.openlocfilehash: 6b62003ef9ca7c8d40141a3adaaca5f704eb7fa6
 **管理者自身のパスワードをリセットする**
 
 1.  パートナー センターにサインインします。 次に、画面上部の自分の名前を選び、**[マイ プロフィール]** を選択します。
+
 2.  自分のロールを確認し、パスワードを変更するための手順を表示できます。
 
  
@@ -37,6 +43,6 @@ ms.openlocfilehash: 6b62003ef9ca7c8d40141a3adaaca5f704eb7fa6
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
