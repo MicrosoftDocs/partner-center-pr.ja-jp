@@ -4,13 +4,17 @@ description: "別の国/地域のテナントを統合するには、次の手�
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 5d4b1acaa23f37df8fe66166f932956526e75271
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
 ---
 
 # CSP の地域的承認によるテナント統合
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 \[一部の情報はリリース前の製品に関することであり、正式版がリリースされるまでに大幅に変更される可能性があります。 ここに記載された情報について、Microsoft は明示または黙示を問わずいかなる保証をするものでもありません。\]
 
@@ -159,6 +163,6 @@ Azure の使用量ベースの CSP サブスクリプションは、Office 365 �
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

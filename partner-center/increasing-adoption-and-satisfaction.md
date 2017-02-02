@@ -4,13 +4,16 @@ description: "弊社のパートナーは、多くの指標を使用してビジ
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: b1c82f315a00ac275af576d084fca1b43e666716
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
 ---
 
 # 導入実績を高めて満足度を向上させる
 
+**適用対象**
+
+-  パートナー センター
 
 弊社のパートナーは、多くの指標を使用してビジネスが拡大しているかどうか、重点的に投資する分野はどこであるかを測ります。 パートナー センターは、顧客が購入したライセンスの使用の有無や活用方法に関するデータを提供することでそれをサポートします。 この情報は Office 製品 (SharePoint に含まれる OneDrive for Business を含む) について提供されます。
 
@@ -84,6 +87,6 @@ ms.openlocfilehash: b1c82f315a00ac275af576d084fca1b43e666716
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

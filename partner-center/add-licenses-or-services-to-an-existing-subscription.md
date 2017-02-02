@@ -4,13 +4,16 @@ description: "顧客が現在提供されているサブスクリプションよ
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d1aabc63e68b01f997345b13f2cb615904a027be
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
 
 ---
 
 # 既存のサブスクリプションにライセンスまたはサービスを追加する
 
+**適用対象**
+
+-  パートナー センター
 
 顧客が現在提供されているサブスクリプションよりも多くのシートを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。 詳しくは、「[別の一般法人向け Office 365 プランに切り替える](http://go.microsoft.com/fwlink/p/?LinkId=723577)」をご覧ください。
 
@@ -95,6 +98,6 @@ ms.openlocfilehash: d1aabc63e68b01f997345b13f2cb615904a027be
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

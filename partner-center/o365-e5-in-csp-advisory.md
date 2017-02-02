@@ -4,13 +4,16 @@ description: "Office 365 Enterprise E5 の単一の SKU は CSP で利用する�
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: fcf1f8e1b783291658ec6e0b43e6d3ced9dca63e
-ms.openlocfilehash: e29ac5ae1cb977b64f863b33f4cc67ff7b8ea2c2
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
 
 ---
 
 # Office 365 パートナー アドバイザリ: CSP で Office 365 E5 の単一の SKU を利用する
 
+**適用対象**
+
+-  パートナー センター
 
 2016 年 10 月 5 日以降、Office 365 Enterprise E5 の単一の SKU は CSP で利用することができます。 この変更の一環として、Office 365 Enterprise E5 の SKU では PSTN 会議も対象となりました (PSTN 会議サービスが利用可能な場合)。
 
@@ -213,6 +216,6 @@ CSP 照合ファイルと CSP 請求書では、Office 365 Enterprise E5 の単�
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

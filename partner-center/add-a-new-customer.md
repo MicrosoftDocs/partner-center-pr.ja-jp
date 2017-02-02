@@ -4,13 +4,17 @@ description: "サブスクリプションの販売や、課金の管理、サポ
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bae4e34ebed7511c13848826a3059b308abe0388
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
 
 ---
 
 # 新しい顧客を追加する
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 サブスクリプションの販売や、課金の管理、サポートの提供を行うには、パートナー センターで顧客の記録を作成する必要があります。 これには、顧客の連絡先情報と Azure AD ドメインが含まれます。
 
@@ -37,6 +41,6 @@ ms.openlocfilehash: bae4e34ebed7511c13848826a3059b308abe0388
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,20 +4,23 @@ Description: "貴社で解決できないサービスに関する問題が顧客
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9182649a217783303f743fdca96789d6e0f0d8ae
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
 
 ---
 
 # 顧客の代理で問題を報告する
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 貴社で解決できないサービスに関する問題が顧客側で発生し、「[Microsoft に問題をエスカレートする](escalate-problems-to-microsoft.md)」に記載されている条件に一致する場合は、サポート チケットを発行します。 このプロセスは、請求に関する問題や紛争をエスカレートする場合や、不正行為が疑われる場合にも役に立ちます。
 
 **顧客のサービス リクエストを提出する**
 
-1.  
-          **[ダッシュボード]** メニューの **[顧客]** を選びます。 一覧から顧客を選びます。
+1.  **[ダッシュボード]** メニューの **[顧客]** を選びます。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[サービス管理]** を選びます。
 
@@ -91,6 +94,6 @@ Office 365 管理センターに直接サインインすると、顧客のコン
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

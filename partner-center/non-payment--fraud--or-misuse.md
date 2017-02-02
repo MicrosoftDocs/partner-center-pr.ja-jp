@@ -4,13 +4,17 @@ description: "貴社は、顧客の詐欺的な購入、または購入したサ
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: f54d9f51b8aa61ebc2207d43857143eb42d54eb6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
 
 ---
 
 # 未払い、詐欺、または誤用
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 貴社は、顧客の詐欺的な購入、または購入したサービスに対する顧客の未払いについて、金銭的な責任を負うものとします。したがって、詐欺の防止と検出およびリスク軽減の管理を実装することをお勧めします。 顧客への請求を延期するかどうかは貴社の判断に委ねられます。
 
@@ -62,6 +66,6 @@ ms.openlocfilehash: f54d9f51b8aa61ebc2207d43857143eb42d54eb6
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

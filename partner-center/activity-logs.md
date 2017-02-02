@@ -4,13 +4,17 @@ description: "アクティビティ ログは、顧客の取引やパートナ�
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
 ---
 
 # 顧客のアクティビティ ログを表示する
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 アクティビティ ログは、顧客の取引やパートナーによる顧客の管理アクションに関する情報を提供します。 取引のログは、サブスクリプションの購入など、取引に関する詳細情報を提供します。 Excel 互換のコンマ区切り値ファイル形式 (.csv) でアクティビティ ログをエクスポートすることもできます。
 
@@ -42,6 +46,6 @@ ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

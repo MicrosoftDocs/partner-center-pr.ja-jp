@@ -4,15 +4,19 @@ description: "カタログは、パートナーが販売可能なすべての Mi
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 4484ae1e2c38f1e41aecde5e9e261b9f32997ae1
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: c4e1f1813add283f67669cc8ea0cc88fb0bb4610
 
 ---
 
 # カタログをカスタマイズする
 
+**適用対象**
 
-カタログは、パートナーが販売可能なすべての Microsoft 製品とアドオンの一覧です。 これらの製品は、客層 (大企業、中小企業、政府機関など) ごとにグループ化されます。 組織で最も利用している製品を販売エージェントが選びやすいように、管理者は、選択した製品を一覧の上部に置いて、強調表示できます。 この機能は、特定のインセンティブに向けて作業しているときや、エージェントに新しい製品を紹介するときにも役立ちます。
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
+
+カタログは、顧客に提供する目的で利用できる Microsoft 製品とアドオンの一覧です。 これらの製品は、大企業、中小企業、政府機関など、客層ごとにグループ化されます。 組織で最も利用されている製品に簡単にアクセスできるようにしたり、販売エージェントに新しい製品を紹介しやすくしたりするために、最大 5 つの製品をカタログ リストの先頭に固定できます。
 
 **カタログをカスタマイズする**
 
@@ -28,6 +32,6 @@ ms.openlocfilehash: 4484ae1e2c38f1e41aecde5e9e261b9f32997ae1
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ description: "貴社は、お客様との課金関係を維持し、お客様か
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a442cb3b47303fd5a03999b9a22f4ab33aa8a15b
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
 
 ---
 
 # 課金のサポートを提供する
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 貴社は、お客様との課金関係を維持し、お客様からの課金関連の質問をすべてサポートします。
 
@@ -49,6 +53,6 @@ ms.openlocfilehash: a442cb3b47303fd5a03999b9a22f4ab33aa8a15b
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

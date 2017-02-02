@@ -4,13 +4,17 @@ description: "Microsoft は、プログラムに登録するかどうかの決�
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 739f93ca5b2752196247554d7a0b593e895a6f89
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 ---
 
 # CSP 契約、価格表、およびキャンペーン
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 Microsoft は、プログラムに登録するかどうかの決定、新しい顧客の登録、Microsoft 製品およびサービスの顧客への販売、請求書の調整など、CSP パートナーが必要とする多くのドキュメントを公開しています。
 
@@ -51,12 +55,14 @@ Microsoft では、クラウド ソリューション プロバイダー プロ�
 
 [Microsoft クラウド リセラー契約 - 台湾](http://go.microsoft.com/fwlink/p/?LinkId=617099)
 
+[Microsoft クラウド リセラー契約 - Microsoft Cloud ドイツ](https://go.microsoft.com/fwlink/p/?linkid=831385)
+
 ## <a href="" id="customeragreementtemplate"></a>顧客契約テンプレート
 
 
 パートナーは、Microsoft 製品とサービスの利用規約を含めて、顧客が Microsoft の条件を理解し、同意する責任を負うものとします。 パートナーが新しい顧客を登録するときに扱う必要がある資料のテンプレートが用意されています。
 
-[顧客契約テンプレート](http://go.microsoft.com/fwlink/p/?LinkId=617101)
+[顧客契約テンプレート](agreements.md)
 
 ## 価格設定
 
@@ -83,6 +89,6 @@ Crest Usage Record API を使う CSP パートナー向けに、**販売**ペー
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

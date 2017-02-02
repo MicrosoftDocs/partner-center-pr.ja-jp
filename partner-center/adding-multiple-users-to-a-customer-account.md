@@ -4,13 +4,16 @@ description: "顧客のアカウントに一度に複数のユーザーを追加
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
 
 ---
 
-# 顧客のアカウントに複数のユーザーを作成する
+# 顧客アカウントに複数のユーザーを追加する
 
+**適用対象**
+
+-  パートナー センター
 
 顧客のアカウントに一度に複数のユーザーを追加できます。そのためには、コンマ区切り値ファイル形式 (.csv) のデータ ファイルをパートナー センターにアップロードします。 パートナー センターからサンプル データ ファイルをダウンロードし、それを編集して使用することも、以下に定義するデータ モデルを使用して新しいデータ ファイルを作成することもできます。
 
@@ -69,6 +72,6 @@ ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

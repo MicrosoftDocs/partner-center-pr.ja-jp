@@ -4,13 +4,17 @@ description: "一般的に、お客様とのすべての通信は、クラウド
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: da25e037b1eaebc4327eb643a7b5717ae1301a41
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 2f30083f5acf278a651baaae5318938fe72cadaa
 
 ---
 
-# Microsoft からお客様への通信
+# Microsoft から顧客への通信
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 一般的に、お客様とのすべての通信は、クラウド ソリューション プロバイダー パートナーから行われることが求められます。 貴社はお客様と課金の関係を維持しているため、Microsoft は、サブスクリプションに関連する通信をお客様に直接送ることはありません。
 
@@ -27,6 +31,6 @@ Microsoft がお客様と直接通信する可能性があるのは、サービ�
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

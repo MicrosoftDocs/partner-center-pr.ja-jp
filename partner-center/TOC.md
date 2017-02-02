@@ -1,15 +1,14 @@
-
 # [CSP プログラムに登録する](enrolling-in-the-csp-program.md)
-## [Pinpoint からパートナー センターへの移行](importing-pinpoint-profiles-into-partner-center.md)
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
 # [パートナー センターのアカウントを管理する](partner-center-account-setup.md)
 ## [パートナー プロファイルを更新する](update-your-partner-profile.md)
+## [Pinpoint からパートナー センターへの移行](importing-pinpoint-profiles-into-partner-center.md)
+## [マーケティング プロファイルを作成する](create-a-marketing-profile.md)
 ## [ユーザー アカウントを作成しアクセス許可を設定する](create-user-accounts-and-set-permissions.md)
 ## [一時停止されているパートナー センターのアカウントを復元する](suspended-partner-center-account.md)
 ## [ユーザー パスワードをリセットする](reset-a-user-password.md)
-## [マーケティング プロファイルを作成する](create-a-marketing-profile.md)
 ## [プランと価格を確認する](see-offers-and-pricing.md)
-## [カタログのカスタマイズ](customize-the-catalog.md)
+## [カタログをカスタマイズする](customize-the-catalog.md)
 # [請求](billing.md)
 ## [請求書を読み取る](read-your-bill.md)
 ## [調整ファイルを使う](use-the-reconciliation-files.md)
@@ -50,8 +49,12 @@
 ## [顧客によるセルフ サポート](customer-self-support.md)
 ## [Microsoft に問題をエスカレートする](escalate-problems-to-microsoft.md)
 # [顧客契約テンプレート](agreements.md)
+# [Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)
+## [Microsoft Cloud ドイツのパートナー センターに登録する](enroll-in-csp-for-microsoft-cloud-germany.md)
+## [Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 
 
-<!--HONumber=Nov16_HO4-->
+
+<!--HONumber=Jan17_HO2-->
 
 

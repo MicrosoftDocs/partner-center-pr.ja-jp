@@ -4,13 +4,16 @@ Description: "Microsoft は、教育、非営利、行政目的での使用や�
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8dba4037c4d9703922b05a9d52eef93c914f49bc
+ms.sourcegitcommit: f5fcec2df909ef089846cd7b443a890c7ac2f067
+ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
 
 ---
 
 # 特別価格の適用を受ける
 
+**適用対象**
+
+-  パートナー センター
 
 Microsoft は、教育、非営利、行政目的での使用や、非常に大規模なお客様など、特定のお客様に対して特別割引価格をご用意しています。 リセラーがこの価格を利用するには、事前に認定を受ける必要があります。 お客様も、特別価格の適用条件を満たす必要があります。
 
@@ -62,6 +65,6 @@ Microsoft は、教育、非営利、行政目的での使用や、非常に大�
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

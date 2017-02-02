@@ -4,13 +4,17 @@ description: "貴社には、クラウド ソリューション プロバイダ�
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 07af266cb0433d57edc4dd0f2b757b8ed80f006e
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
 
 ---
 
 # テクニカル サポートを提供する
 
+**適用対象**
+
+-  パートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
 貴社には、クラウド ソリューション プロバイダー パートナーとして、お客様の環境にアクセスできる委任された管理者権限があります。 これらの特権により、お客様のサブスクリプションを直接サポート、構成、管理することができます。
 
@@ -24,8 +28,7 @@ ms.openlocfilehash: 07af266cb0433d57edc4dd0f2b757b8ed80f006e
 
 **顧客向けの管理タスクの実行**
 
-1.  
-          **[ダッシュボード]** メニューの **[顧客]** を選びます。 一覧から顧客を選びます。
+1.  **[ダッシュボード]** メニューの **[顧客]** を選びます。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[サービス管理]** を選びます。
 
@@ -44,6 +47,6 @@ ms.openlocfilehash: 07af266cb0433d57edc4dd0f2b757b8ed80f006e
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
