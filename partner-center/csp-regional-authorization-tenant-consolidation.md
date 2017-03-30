@@ -3,13 +3,11 @@ title: "CSP の地域的承認によるテナント統合 | パートナー セ�
 description: "別の国/地域のテナントを統合するには、次の手順を使用します。"
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# CSP の地域的承認によるテナント統合
+# <a name="csp-regional-authorization-tenant-consolidation"></a>CSP の地域的承認によるテナント統合
 
 **適用対象**
 
@@ -24,14 +22,14 @@ ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
  
 
-## 移行を準備する
+## <a name="prepare-for-migration"></a>移行を準備する
 
 
 -   移行中の (既存の) アカウントで <https://partnercenter.microsoft.com> にログオンし、すべての顧客と、それらの顧客にプロビジョニングされているすべてのサービスをメモします。
 
 ![地域の顧客の一覧](images/regionalcustomer1.png)
 
-## 顧客アカウントを移行する
+## <a name="migrate-customer-accounts"></a>顧客アカウントを移行する
 
 
 1.  移行中の (新規) アカウントで <https://partnercenter.microsoft.com> にログオンし、パートナー センター ダッシュボードから [顧客] 一覧に移動します。
@@ -46,7 +44,7 @@ ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
 顧客が契約書を送信すると、パートナーの顧客の一覧に、1 つずつ表示されます。
 
-## Office 365 および Azure 以外の使用量ベースのサブスクリプションを移行する
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Office 365 および Azure 以外の使用量ベースのサブスクリプションを移行する
 
 
 1.  顧客が契約書に署名すると、パートナーは、一元化されたパートナー テナントでサブスクリプションを再作成できます。
@@ -73,7 +71,7 @@ ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
  
 
-## 移行元のパートナー アカウントで Office 365 のサブスクリプションを無効にする
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>移行元のパートナー アカウントで Office 365 のサブスクリプションを無効にする
 
 
 **移行元**のパートナー アカウントで CSP サブスクリプションを無効にすると、それ以降の請求は停止されます。 Azure サブスクリプションを手動で無効にする必要はありません。移行処理中に、Azure サブスクリプションは自動的に無効になっているためです。
@@ -93,7 +91,7 @@ ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
 5.  一覧で次の顧客を選び、すべてのサブスクリプションを無効にするプロセスを繰り返します。
 
-## Azure の使用量ベースのサブスクリプションを移行する
+## <a name="migrating-azure-usage-based-subscriptions"></a>Azure の使用量ベースのサブスクリプションを移行する
 
 
 Azure の使用量ベースの CSP サブスクリプションは、Office 365 の CSP サブスクリプションの場合とは異なり、手動で移行する必要がないことに注意してください。 Microsoft Azure サポートは、Azureサブスクリプションと展開されたすべてのサービスやリソースを、**移行元**の CSP リセラー アカウントから**移行先**の CSP リセラー アカウントに移行できます。 この移行中に、顧客へのサービスが中断されることはありません。
@@ -110,7 +108,7 @@ Azure の使用量ベースの CSP サブスクリプションは、Office 365 �
 
 6.  今後、**移行元**アカウントでの課金を停止するために、すべての顧客のすべてのサブスクリプションについて、この手順を繰り返します。 パートナーは、取り消し日から課金期間の最終日までの未使用の日数のクレジットについて最終的な請求書を受け取ります。 最後の課金期間以降、請求書は生成されません。
 
-### 注意事項
+### <a name="notes"></a>注意事項
 
 -   サービスを無効にする前に**移行先**の CSP アカウントからサービスがプロビジョニングされている場合、**移行元**の CSP アカウントからのサブスクリプションを無効にしても、顧客のサービスには影響しません。
 
@@ -122,7 +120,7 @@ Azure の使用量ベースの CSP サブスクリプションは、Office 365 �
 
      
 
-### エクスポートを使用して移行を簡素化する
+### <a name="simplify-migration-using-export"></a>エクスポートを使用して移行を簡素化する
 
 **エクスポート機能**を使用して、新しい統合後の構造で使用する必要があるサブスクリプションをキャプチャすることができます。
 
@@ -134,11 +132,11 @@ Azure の使用量ベースの CSP サブスクリプションは、Office 365 �
 
 4.  この一覧を使用して、新しい統合テナント内でサブスクリプションを再作成します。
 
-### API 登録
+### <a name="api-registration"></a>API 登録
 
 この API 登録について詳しくは、[このページ](https://msdn.microsoft.com/en-us/library/partnercenter/mt267552.aspx)をご覧ください。
 
-## パートナー センターのアクティビティ ログ
+## <a name="partner-center-activity-log"></a>パートナー センターのアクティビティ ログ
 
 
 パートナーは、アクティビティ ログを使用して、テナントに加えられたすべての顧客に影響を与える変更の記録を表示できます。 これにより、パートナーは、顧客のテナントでの変更を追跡できます。
@@ -158,11 +156,5 @@ Azure の使用量ベースの CSP サブスクリプションは、Office 365 �
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

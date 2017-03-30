@@ -3,13 +3,11 @@ title: "請求書を読み取る | パートナー センター"
 description: "請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 請求書は、パートナー センターのダッシュボードで利用できます。"
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 請求書を読み取る
+# <a name="read-your-bill"></a>請求書を読み取る
 
 **適用対象**
 
@@ -20,7 +18,7 @@ ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
 料金の項目別明細については、関連する調整ファイルを使用します。 調整ファイルには、顧客への請求書の作成に使用される顧客 ID とサブスクリプション ID が含まれます。 詳しくは、「[調整ファイルの使用方法](use-the-reconciliation-files.md)」をご覧ください。
 
-## 請求書ファイルの定義
+## <a name="invoice-file-definitions"></a>請求書ファイルの定義
 
 
 <table>
@@ -114,11 +112,5 @@ ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "一般的な課金シナリオ | パートナー センター"
 description: "このトピックでは、新しいサブスクリプションの追加、サブスクリプションのシート数の調整、サブスクリプションの取り消しを行った後、請求書がどのように表示されるかを説明します。 使用量ベースのサブスクリプションとライセンス ベースのサブスクリプションでは影響が異なります。"
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 一般的な課金シナリオ
+# <a name="common-billing-scenarios"></a>一般的な課金シナリオ
 
 **適用対象**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
 このトピックでは、新しいサブスクリプションの追加、サブスクリプションのシート数の調整、サブスクリプションの取り消しを行った後、請求書がどのように表示されるかを説明します。 使用量ベースのサブスクリプションとライセンス ベースのサブスクリプションでは影響が異なります。
 
-## このセクションの内容
+## <a name="in-this-section"></a>このセクションの内容
 
 
 -   [使用量ベースの課金](#usagebased)
@@ -138,11 +136,5 @@ ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

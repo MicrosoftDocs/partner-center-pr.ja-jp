@@ -3,13 +3,11 @@ title: "顧客向けに Azure の支出の予算を設定する | パートナ�
 description: "月末の Azure の請求金額が顧客にとって予期しない金額にならないように、パートナー センターで顧客ごとの月額予算を設定できます。"
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: a4afd889720acdfcb280486a3c05195aa7778674
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 顧客向けに Azure の支出の予算を設定する
+# <a name="set-an-azure-spending-budget-for-your-customers"></a>顧客向けに Azure の支出の予算を設定する
 
 **適用対象**
 
@@ -63,11 +61,5 @@ Azure の支出データは推定値であり、実際の請求金額は異な�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

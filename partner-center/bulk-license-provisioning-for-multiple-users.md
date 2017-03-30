@@ -3,13 +3,11 @@ title: "複数のユーザーにライセンスを割り当てる、または取
 description: "ライセンスやサービスを 1 人のユーザーに割り当てたり、顧客アカウント内の複数のユーザーに同時に割り当てたり、ユーザーへのライセンスの割り当てを取り消したりすることができます。"
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 複数のユーザーにライセンスを割り当てる、または取り消す
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>複数のユーザーにライセンスを割り当てる、または取り消す
 
 **適用対象**
 
@@ -19,7 +17,7 @@ ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
 
 パートナー センターでは、すべての顧客が所有するライセンスの権利を追跡し、表示します。
 
-## このセクションの内容
+## <a name="in-this-section"></a>このセクションの内容
 
 
 -   [複数のユーザーにライセンスを割り当てる](#assign-licenses-to-groups)
@@ -74,7 +72,7 @@ ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
 6.  **[ライセンスを割り当てと失効]** で、ユーザーに割り当てられている製品のチェック ボックスをオフにします。 たとえば、選択したすべてのユーザーが Office 365 Enterprise のライセンスを持っている場合に、それらを取り消すには、チェック ボックスをオフにします。
 7.  **[保存]** を選びます。
 
-## 関連トピック
+## <a name="related-topics"></a>関連トピック
 
 
 [ユーザーにライセンスを割り当てる](assign-licenses-to-users.md)
@@ -83,11 +81,5 @@ ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

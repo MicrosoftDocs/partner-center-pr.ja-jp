@@ -3,13 +3,11 @@ title: "パートナー センターのアカウントを管理する | パー�
 description: "クラウド ソリューション プロバイダー プログラムへの参加を承認されたら、ユーザーまたは管理者は、パートナー センターで会社のアカウントを設定する必要があります。"
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 04f7b861800653c0a8948432a9e1323a1acb169a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# パートナー センターのアカウントを管理する
+# <a name="manage-your-partner-center-account"></a>パートナー センターのアカウントを管理する
 
 **適用対象**
 
@@ -35,11 +33,5 @@ ms.openlocfilehash: 04f7b861800653c0a8948432a9e1323a1acb169a
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -2,19 +2,17 @@
 title: "Microsoft Cloud ドイツのパートナー センター | Microsoft Cloud ドイツのパートナー センター"
 description: "Microsoft Cloud ドイツのパートナー センターは、EU および EFTA の加盟国の顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。 Microsoft Cloud ドイツでは、顧客データがドイツ内に存在し、指定されたドイツ データ トラスティによって顧客データへのアクセスが管理されることを保証します。 欧州連合 (EU) と欧州自由貿易連合 (EFTA) の企業顧客は、適用されるドイツの法律と規制、および主要な国際基準に従って顧客データを保存および管理することが可能になります。 Microsoft は、ドイツ データ トラスティか顧客による承認と監督がない限り、顧客のデータにアクセスできません。"
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: c17bf920fe54dab315be695baa3090f71c210e8e
-ms.openlocfilehash: fe907be4e313c0302707576417220c18557bfbf2
-
+ms.openlocfilehash: a959cf7af53eca8416714f347348f3605f652918
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Microsoft Cloud ドイツのパートナー センター
+# <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センター
 
 **適用対象**
 
 -  Microsoft Cloud ドイツのパートナー センター
 
-## Microsoft Cloud ドイツ: ドイツのデータ保護要件を満たす 
+## <a name="microsoft-cloud-germany-meeting-german-data-protection-requirements"></a>Microsoft Cloud ドイツ: ドイツのデータ保護要件を満たす 
 
 Microsoft Cloud ドイツは、厳密なドイツのデータ保護要件を満たすように設計されています。また、ドイツ法に基づいて顧客データへの物理的および論理的アクセスを管理するドイツ データ トラスティを含みます。 すべての顧客データと、顧客データへのアクセスを処理または管理するシステムは、ドイツのデータセンター内に存在します。 これらのデータセンター間のネットワークはドイツ内で隔離され、データセンター専用で使用されます。
 
@@ -22,7 +20,7 @@ Microsoft Cloud ドイツは、ドイツのデータセンターから提供さ�
 
 詳細については、[Microsoft Cloud ドイツ データシート](http://download.microsoft.com/download/6/1/3/613C9ECB-9167-4EF5-B131-3BAD8D8A126C/Microsoft_Cloud_Germany_Datasheet.pdf)を参照してください。
 
-## Microsoft Cloud ドイツのパートナー センター: EU と EFTA でドイツのクラウド ソリューションを販売する
+## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Microsoft Cloud ドイツのパートナー センター: EU と EFTA でドイツのクラウド ソリューションを販売する
 
 Microsoft Cloud ドイツ プログラムのクラウド ソリューション プロバイダー (CSP) に登録した後は、パートナー センターを使用して、ドイツのクラウド固有のソリューションおよびサービスを EU と EFTA の加盟国/地域の顧客に販売します。 
 
@@ -52,9 +50,3 @@ Microsoft Cloud ドイツ プログラムのクラウド ソリューション �
 ユーザーとライセンスの管理の詳細については、「[Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)」を参照してください。
 
 Microsoft Cloud ドイツの CSP への登録の詳細については、「[Microsoft Cloud ドイツの CSP への登録](enroll-in-csp-for-microsoft-cloud-germany.md)」を参照してください。
-
-
-
-<!--HONumber=Jan17_HO2-->
-
-

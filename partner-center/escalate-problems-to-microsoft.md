@@ -3,13 +3,11 @@ title: "Microsoft に問題をエスカレートする | パートナー セン�
 description: "貴社は、お客様に代わって問題を解決することが求められます。"
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 51e095c5f0b7c0c8c1305905ccdb4b20683d386b
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Microsoft に問題をエスカレートする
+# <a name="escalate-problems-to-microsoft"></a>Microsoft に問題をエスカレートする
 
 **適用対象**
 
@@ -36,11 +34,5 @@ Microsoft からヘルプを受けるには、サポート要求をパートナ�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "お客様のサブスクリプション | パートナー センター"
 description: "パートナーは、パートナー センターからお客様にサブスクリプションを販売し、お客様を管理できます。"
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 9048ae0f6c43e678cd1acb8829453ecb3e04d31c
 ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# お客様のサブスクリプション
+# <a name="customer-subscriptions"></a>お客様のサブスクリプション
 
 **適用対象**
 
@@ -41,11 +39,5 @@ ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "サブスクリプションを中断する | パートナー センタ�
 description: "顧客から要請があった場合や、未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断またはキャンセルできます。"
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: c77f1fb97f3951182e3bf50fd9b037603e6106b8
-
+ms.openlocfilehash: e0911a3dbc43cf7797e1626e6924a2fedbddb3f0
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# サブスクリプションを中断する
+# <a name="suspend-a-subscription"></a>サブスクリプションを中断する
 
 **適用対象**
 
@@ -25,12 +23,5 @@ ms.openlocfilehash: c77f1fb97f3951182e3bf50fd9b037603e6106b8
 1.  
           **[ダッシュボード]** メニューの **[顧客]** を選び、一覧から顧客を選びます。
 2.  管理対象のサブスクリプションを選びます。
-3.  
-          **[状態]** セクションで、**[中断]** を選びます。 次に、変更を**提出**します。
-4.  サブスクリプションが 60 日以内に再度アクティブ化されない場合、すべてのデータが削除されます。
-
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+3.  **[状態]** セクションで、**[中断]** を選びます。 次に、変更を**提出**します。
+4.  90 日以内、または 90 日にアカウントが開かれた時点から最初の課金までの日数を加えた期間 (最大 120 日) 以内にサブスクリプションを再アクティブ化しない限り、すべてのデータは削除されます。

@@ -3,13 +3,11 @@ title: "新しい顧客を追加する | パートナー センター"
 description: "サブスクリプションの販売や、課金の管理、サポートの提供を行うには、パートナー センターで顧客の記録を作成する必要があります。 これには、顧客の連絡先情報と Azure AD ドメインが含まれます。"
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 新しい顧客を追加する
+# <a name="add-a-new-customer"></a>新しい顧客を追加する
 
 **適用対象**
 
@@ -36,11 +34,5 @@ ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

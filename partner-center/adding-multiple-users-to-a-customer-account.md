@@ -3,13 +3,11 @@ title: "顧客アカウントに複数のユーザーを作成する | パート
 description: "顧客のアカウントに一度に複数のユーザーを追加できます。そのためには、コンマ区切り値ファイル形式 (.csv) のデータ ファイルをパートナー センターにアップロードします。"
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 顧客アカウントに複数のユーザーを追加する
+# <a name="add-multiple-users-to-a-customer-account"></a>顧客アカウントに複数のユーザーを追加する
 
 **適用対象**
 
@@ -67,11 +65,5 @@ ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

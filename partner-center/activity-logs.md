@@ -3,13 +3,11 @@ title: "顧客のアクティビティ ログを表示する | パートナー �
 description: "アクティビティ ログは、顧客の取引やパートナーによる顧客の管理アクションに関する情報を提供します。"
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
-ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
-
+ms.openlocfilehash: 5f6c4eb0574bbe73a41a38a1312f0da4240d531e
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 顧客のアクティビティ ログを表示する
+# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログを表示する
 
 **適用対象**
 
@@ -18,7 +16,6 @@ ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
 アクティビティ ログは、顧客の取引やパートナーによる顧客の管理アクションに関する情報を提供します。 取引のログは、サブスクリプションの購入など、取引に関する詳細情報を提供します。 Excel 互換のコンマ区切り値ファイル形式 (.csv) でアクティビティ ログをエクスポートすることもできます。
 
-<a href="" id="activitylogs"></a>
 アクティビティ ログは、顧客アカウントや製品の取引に対するパートナーのアクションのレコードを提供します。 アクティビティ ログを .csv ファイルにエクスポートすることもできます。
 
 **アクティビティ ログを表示およびエクスポートする**
@@ -41,11 +38,5 @@ ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

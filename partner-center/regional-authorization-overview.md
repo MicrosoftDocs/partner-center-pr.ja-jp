@@ -3,13 +3,11 @@ title: "CSP の地域承認 | パートナー センター"
 description: "地域承認によって、国際的なビジネスを行っているパートナーは、世界中のさまざまな地域や国の顧客をより簡単に管理することができます。"
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# CSP の地域承認
+# <a name="csp-regional-authorization"></a>CSP の地域承認
 
 
 \[一部の情報はリリース前の製品に関することであり、正式版がリリースされるまでに大幅に変更される可能性があります。 ここに記載された情報について、Microsoft は明示または黙示を問わずいかなる保証をするものでもありません。\]
@@ -20,11 +18,11 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
 >**注**<br> [Microsoft Cloud ドイツの CSP](partner-center-for-microsoft-cloud-germany.md) に登録していて、EU と EFTA の国/地域の顧客に販売している場合、Microsoft Cloud ドイツのパートナー センターのテナントを他のテナントと統合することはできません。  
 
-## 計画
+## <a name="planning"></a>計画
 
 以下に示すように、パートナーは複数のオプションを利用して、各地域のテナントを統合することができます。
 
-### 1 つの地域または国で個別のテナントを使用
+### <a name="separate-tenants-for-single-regions-or-countries"></a>1 つの地域または国で個別のテナントを使用
 
 テナントの統合はオプションです。 次の表に示すように、パートナーは引き続き個別のテナントで他国の顧客を管理できます。
 
@@ -67,7 +65,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## 複数の地域または国で 1 つのテナントを使用
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>複数の地域または国で 1 つのテナントを使用
 
 
 パートナーは、複数の CSP テナントの業務を 1 つの CSP テナントに統合することができます。
@@ -99,7 +97,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## 一部の地域または国でいくつかのテナントを使用
+## <a name="some-tenants-for-some-regions-or-countries"></a>一部の地域または国でいくつかのテナントを使用
 
 
 パートナーは、複数の CSP テナントの業務をいくつかの CSP テナントに統合することができます。
@@ -135,7 +133,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## テナントの統合
+## <a name="consolidating-tenants"></a>テナントの統合
 
 
 テナントを統合する場合は、以下のことをお勧めします。
@@ -145,7 +143,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 -   **複数の国/地域で取引を行っているが、取引は 1 つ国/地域だけで行う。** 多数の国/地域で取引を行っている場合、最大数のシートを保持するテナントに一元化することをお勧めします。 シートの数が少ない国/地域のサブスクリプションは、取り消す必要があります。
 
 
-## 国/地域の情報
+## <a name="countryregion-information"></a>国/地域の情報
 
 
 テナントの統合を始める前に、次の点を考慮してください。
@@ -187,11 +185,5 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "顧客一覧を管理する |パートナー センター"
 description: "顧客の記録は、パートナー センターでの最も重要な情報資産の 1 つです。"
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
-
+ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 顧客一覧を管理する
+# <a name="manage-your-customer-list"></a>顧客一覧を管理する
 
 **適用対象**
 
@@ -18,23 +16,17 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
 顧客の記録は、パートナー センターでの最も重要な情報資産の 1 つです。 顧客アカウントのデータベースを検索したり、顧客データベース全体またはサブセットを Excel 互換のコンマ区切り値ファイル形式 (.csv) でエクスポートしたりすることができます。 また、顧客のサブスクリプション情報を .csv ファイルにエクスポートすることもできます。
 
-アクティビティ ログでは、顧客の取引や管理操作に関するエクスポート可能なデータも提供されます。 詳しくは、「[顧客のアクティビティ ログを表示する](#pc-cloud-sltn-provider-activity-logs)」をご覧ください。
+アクティビティ ログでは、顧客の取引や管理操作に関するエクスポート可能なデータも提供されます。 詳しくは、「[顧客のアクティビティ ログを表示する](activity-logs.md)」をご覧ください。
 
-以下のセクションには、詳しい説明が記載されています。
 
--   [顧客を検索する](#see-your-customer-list-viewcustomerlist)
--   [顧客一覧をエクスポートする](#see-your-customer-list-exportcustomerlist)
--   [顧客のサブスクリプションの一覧をエクスポートする](#see-your-customer-list-exportsubscriptions)
-
-<a href="" id="viewcustomerlist"></a>
-**顧客を検索する**
+## <a name="search-for-a-customer"></a>顧客を検索する
 
 1.  **[ダッシュボード]** メニューの **[顧客]** を選びます。
 2.  顧客を検索するには、検索ボックスに顧客の名前またはドメイン名を入力します。
 3.  顧客行の末尾にある**下向き矢印**を選ぶと、顧客の Microsoft ID、および関連するサブスクリプションとサービスへのクイック リンクが表示されます。
 
-<a href="" id="exportcustomerlist"></a>
-**顧客一覧をエクスポートする**
+
+## <a name="export-your-customer-list"></a>顧客一覧をエクスポートする
 
 1.  **[ダッシュボード]** メニューの **[顧客]** を選びます。
 2.  **[顧客のエクスポート]** を選びます。
@@ -48,10 +40,10 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
     既定では、パートナー センターによって、長さに関係なく顧客一覧全体がエクスポートされます。 会社名やドメインで顧客一覧を検索し、データのサブセットをエクスポートすることもできます。
 
-3.  お客様が間接プロバイダーである場合は、顧客一覧を間接リセラーでフィルター処理できます。 **[間接リセラーで絞り込む]** ドロップダウンを選び、一覧からリセラーを選びます。
+3.  お客様が間接プロバイダーである場合は、顧客一覧を間接リセラーでフィルター処理できます。 一覧から **[間接リセラーで絞り込む]** を選び、リセラーを選びます。
 
-<a href="" id="exportsubscriptions"></a>
-**顧客のサブスクリプションをエクスポートする**
+
+## <a name="export-customer-subscription-information"></a>顧客のサブスクリプション情報のエクスポート
 
 1.  **[ダッシュボード]** メニューの **[顧客]** を選びます。
 2.  顧客の **[会社名]** を選びます。 顧客の **[サブスクリプション]** ページが開き、製品サブスクリプションの完全な一覧が表示されます。
@@ -62,8 +54,8 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
     -   **状態**
     -   **リセラー** - サブスクリプションを所有し管理するリセラーの ID
 
-    **注**  
-    サブスクリプションの管理について詳しくは、「[顧客のサブスクリプションを管理する](#pc-cloud-sltn-provider-adding-and-managing-customers--subscriptions)」をご覧ください。
+>**注**<br>
+サブスクリプションの管理について詳しくは、「[顧客のサブスクリプション](customer-subscriptions.md)」をご覧ください。
 
      
 
@@ -71,11 +63,5 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

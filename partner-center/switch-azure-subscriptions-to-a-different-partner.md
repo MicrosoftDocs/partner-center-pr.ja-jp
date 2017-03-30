@@ -3,13 +3,11 @@ title: "Azure サブスクリプションを別のパートナーに切り替え
 description: "顧客は、Microsoft Azure サービスに使う、クラウド ソリューション プロバイダー プログラムのパートナーを変更できます。 ただし、これは手動で行うプロセスであり、パートナーと顧客の両方の操作が必要となります。"
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Azure サブスクリプションを別のパートナーに切り替える
+# <a name="switch-azure-subscriptions-to-a-different-partner"></a>Azure サブスクリプションを別のパートナーに切り替える
 
 **適用対象**
 
@@ -78,11 +76,5 @@ ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "顧客アカウントの情報を更新する | パートナー セン�
 description: "パートナー センターで、顧客の課金情報とその他の会社の詳細情報を更新することができます。"
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 7150ff922dd87b50dc67d8c00ebc6db1c4036b6d
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 顧客アカウントの情報を更新する
+# <a name="update-customer-account-info"></a>顧客アカウントの情報を更新する
 
 **適用対象**
 
@@ -29,11 +27,5 @@ ms.openlocfilehash: 7150ff922dd87b50dc67d8c00ebc6db1c4036b6d
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -1,17 +1,10 @@
 ---
 title: "Microsoft パートナー センター"
 description: "Microsoft パートナー センター"
-translationtype: Human Translation
-ms.sourcegitcommit: 72647ea8df54fbdf56996b282bdfad5090f9a90f
-ms.openlocfilehash: 67afc2db429a533aee249cca954a45743cfecbde
-
+ms.openlocfilehash: 29030feb75f946d641ebdadddf3067ea0f043838
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Microsoft パートナー センター
+# <a name="microsoft-partner-center"></a>Microsoft パートナー センター
 
 Microsoft パートナー センターへようこそ。
-
-
-<!--HONumber=Nov16_HO4-->
-
-

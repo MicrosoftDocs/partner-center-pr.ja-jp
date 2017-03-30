@@ -3,13 +3,11 @@ title: "Microsoft から顧客への通信 |パートナー センター"
 description: "一般的に、お客様とのすべての通信は、クラウド ソリューション プロバイダー パートナーから行われることが求められます。"
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 2f30083f5acf278a651baaae5318938fe72cadaa
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Microsoft から顧客への通信
+# <a name="customer-communication-from-microsoft"></a>Microsoft から顧客への通信
 
 **適用対象**
 
@@ -26,11 +24,5 @@ Microsoft がお客様と直接通信する可能性があるのは、サービ�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

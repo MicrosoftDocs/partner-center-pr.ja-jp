@@ -3,13 +3,11 @@ title: "CSP プログラムに登録する | パートナー センター"
 description: "クラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細を確認してください。"
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
-ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
-
+ms.openlocfilehash: 88fd35cea2e44d905bec63a7963c886dbd27c07f
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# クラウド ソリューション プロバイダー プログラムに登録する
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
 **適用対象**
 
@@ -18,9 +16,10 @@ ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 >**注**<br>
 Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムへの登録について詳しくは、「[Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムに登録する](enroll-in-csp-for-microsoft-cloud-germany.md)」と「[Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)」をご覧ください。
 
-クラウド ソリューション プロバイダー (CSP) プログラムに登録する前に、[CSP プログラムの要件]( http://go.microsoft.com/fwlink/p/?LinkId=617116)について詳細を確認してください。
+クラウド ソリューション プロバイダー (CSP) プログラムに登録する前に、[CSP プログラムの要件]( http://go.microsoft.com/fwlink/p/?LinkId=617116)について詳細を確認してください。 パートナー契約およびその他のプログラム要件について詳しくは、「[CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)」をご覧ください。 
 
-パートナー契約およびその他のプログラム要件について詳しくは、「[CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)」をご覧ください。
+>**重要**<br>
+現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 Microsoft では、継続的にすべてのプログラムのポリシーと機能をレビューしています。 機能のリリースに関するすべてのお知らせは、パートナー センターなど、通常の通信チャネルを通じて発表されます。  
 
 CSP プログラム インセンティブの資格を得るための要件および方法、インセンティブ プラットフォームの導入方法、およびインセンティブ資金の獲得方法についてご説明します。 「[プログラムの詳細](https://go.microsoft.com/fwlink/?linkid=831533)」をご覧ください。
 
@@ -49,7 +48,7 @@ CSP プログラム インセンティブの資格を得るための要件およ
 
  
 
-## パートナー センター アカウント
+## <a name="partner-center-account"></a>パートナー センター アカウント
 
 
 パートナー センターでは、貴社の管理者に、Azure AD で認証されているメール アドレスが必要です。 管理者は、Office 365、Azure AD、Microsoft Intune、Enterprise Mobility Services など、Microsoft クラウド サービスの既存の任意の作業メール アカウントを使うことができます。リセラーとなるためのこのプロセスで、このメール アドレスがリセラー アカウント用の管理者のメールになります。
@@ -60,11 +59,5 @@ CSP プログラム インセンティブの資格を得るための要件およ
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

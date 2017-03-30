@@ -3,13 +3,11 @@ title: "調整ファイルを使う | パートナー センター"
 description: "課金サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。"
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
-
+ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 調整ファイルを使う
+# <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
 **適用対象**
 
@@ -17,13 +15,6 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 -  Microsoft Cloud ドイツのパートナー センター
 
 課金サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。 詳細には、各顧客のサブスクリプションの料金や、詳細なイベント (期間途中でのサブスクリプションへのシートの追加など) が含まれます。
-
-## このセクションの内容
-
-
--   [パートナーごとに明細を示す](#itemizebypartner)
--   [ライセンス ベースの調整ファイル](#licencebasedfiles)
--   [使用量ベースの調整ファイル](#usagebasedfiles)
 
 ## <a href="" id="itemizebypartner"></a>パートナーごとに明細を示す
 
@@ -44,7 +35,7 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <tbody>
 <tr class="odd">
 <td>MPN ID</td>
-<td><p>CSP パートナーの MPN ID (ダイレクトまたはインダイレクト)。</p></td>
+<td><p>CSP パートナー (直接または間接) の Microsoft Partner Network (MPN) IDです。</p></td>
 </tr>
 <tr class="even">
 <td>リセラーの MPN ID</td>
@@ -84,9 +75,9 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
-<td>CustomerNumber</td>
-<td><p>Microsoft 課金プラットフォームでの顧客の一意の識別子。 サポートに問い合わせる際に、お客様の識別に有効な場合がありますが、調整には有用ではありません。</p></td>
-<td>123456789</td>
+<td>CustomerID</td>
+<td><p>顧客を識別するために使用される、GUID 形式の一意の Microsoft ID。</p></td>
+<td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
@@ -107,12 +98,14 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>一意のプラン ID。 価格表に従った標準のプラン ID。</p></td>
-<td>306855</td>
+<td><p>一意のプラン ID。 価格表に従った標準のプラン ID。</p>
+<p><b>注</b>: この値は、価格表のプラン ID とは一致しません。 以下の DurableOfferID を参照してください。</p></td>
+<td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>価格表で定義されている一意の継続的なプラン ID。</p></td>
+<td><p>価格表で定義されている一意の継続的なプラン ID。</p>
+<p><b>注</b>: この値は価格表のプラン ID と一致します。</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -149,70 +142,8 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>課金または調整の種類。</p>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Charges:</td>
-<td><ul>
-<li>PURCHASE_FEE: サブスクリプションの最初の課金</li>
-<li>CYCLE_FEE: サブスクリプションの定期的な課金</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>ConvertResources</td>
-<td><ul>
-<li>CANCEL_USAGEFEE: 現在の課金期間中に未払いの使用を取り消したときのアクセス利用料</li>
-<li>CYCLE_USAGEFEE: 現在の課金期間のアクセス利用料</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Prorations:</td>
-<td><ul>
-<li>PURCHASE_PRORATE: 購入時の日割り料金</li>
-<li>CANCEL_PRORATE: 取り消し時のサービスの未使用部分に対する日割りの払戻し額</li>
-<li>ACTIVATION_PRORATE: アクティブ化から課金期間の終了までの日割り料金</li>
-<li>RENEW_PRORATE: サブスクリプションの更新時の日割り料金</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>InstanceProrates:</td>
-<td><ul>
-<li>CANCEL_INSTANCEPRORATE: 関連付けられているシートが変更されたときに顧客に払い戻される日割り料金</li>
-<li>CYCLE_INSTANCEPRORATE: 関連付けられているシートが変更されたときに顧客から評価される日割り料金</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Credits:</td>
-<td><ul>
-<li>CREDIT: 支払方法に適用されるクレジット</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Offsets:</td>
-<td><ul>
-<li>OFFSET_LINEITEM: 行項目への一部または全部の払戻し</li>
-<li>ONE_TIME_REFUND: 顧客向けに処理される 1 回限りの払戻し</li>
-<li>TAX_REFUND: 税の除外証明書の検証による払戻し</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Discounts:</td>
-<td><ul>
-<li>ACTIVATION_DISCOUNT: サブスクリプションがアクティブ化されたときに適用される割引</li>
-<li>CYCLE_DISCOUNT: 定期的な課金に適用される割引</li>
-<li>RENEW_DISCOUNT: サブスクリプションの更新時に適用される割引</li>
-<li>CANCEL_DISCOUNT: 割引が取り消されたときに適用される料金</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p> </p></td>
-<td></td>
+<td><p>課金または調整の種類。 「<a href="#charge_types">請求書と調整ファイルの間の課金のマッピング</a>」を参照してください。</p></td>
+<td><p>「<a href="#charge_types">請求書と調整ファイルの間の課金のマッピング</a>」を参照してください。</p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
@@ -269,10 +200,24 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td><p>サブスクリプションの登録のあるリセラーの MPN ID。 「[パートナーごとに明細を示す](#itemizebypartner)」をご覧ください。</p></td>
 <td>4390934</td>
 </tr>
+<tr class="even">
+<td>DomainName</td>
+<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。</p></td>
+<td>example.onmicrosoft.com</td>
+</tr>
+<tr class="odd">
+<td>SubscriptionName</td>
+<td><p>サブスクリプションのニックネーム。 ニックネームが指定されていない場合、パートナー センターでは OfferName を使用します。</p></td>
+<td>PROJECT ONLINE</td>
+</tr>
+<tr class="even">
+<td>SubscriptionDescription</td>
+<td><p>価格表で定義されている、顧客が購入したサービス プランの名前  (これはプラン名と同一のフィールドです)。</p></td>
+<td>PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT</td>
+</tr>
 </tbody>
 </table>
 
- 
 
 ## <a href="" id="usagebasedfiles"></a>使用量ベースのファイルのフィールド
 
@@ -348,7 +293,7 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>サービス プランの名前</p></td>
+<td><p>サービス プランのニックネーム。</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
@@ -451,13 +396,13 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="odd">
 <td>PostTaxEffectiveRate</td>
-<td><p>単位あたりの税引き後の価格。 PostTaxTotal / OverageQuantity、または PretaxEffectiveRate + 単位額あたりの税率と同じで、最も近いセント丸められます。</p></td>
+<td><p>単位あたりの税引き後の価格。 PostTaxTotal / OverageQuantity、または PretaxEffectiveRate + 単位額あたりの税率と同じで、最も近いセントに丸められます。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>行項目の種類の説明</p></td>
-<td>ACCESS USAGE FEE FOR CURRENT CYCLE</td>
+<td><p>課金または調整の種類。 「<a href="#charge_types">請求書と調整ファイルの間の課金のマッピング</a>」を参照してください。</p></td>
+<td><p>「<a href="#charge_types">請求書と調整ファイルの間の課金のマッピング</a>」を参照してください。</p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
@@ -494,20 +439,235 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td><p>特定の日にプロビジョニングされ、利用された ServiceBus 接続の数。</p></td>
 <td>例: 1 か月 30 日間の中に、個別にプロビジョニングされた接続がある場合、Service Info 1 は "1.000000 Connections / 30 days" と表示されます。 プロビジョニングされた ServiceBus 接続が 25 パックあり、その日に 1 つを利用した場合、その日の 1 日の使用量の計算書には、"25 Connections / 30 Days – Used: 1.000000" と表示されます。</td>
 </tr>
+<tr class="even">
+<td>CustomerID</td>
+<td><p>顧客を識別するために使用される、GUID 形式の一意の Microsoft ID。</p></td>
+<td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
+</tr>
+<tr class="odd">
+<td>DomainName</td>
+<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。</p></td>
+<td>example.onmicrosoft.com</td></tr>
 </tbody>
 </table>
 
- 
-
- 
-
- 
 
 
+## <a href="" id="charge_types"></a>請求書と調整ファイルの間の課金のマッピング
+
+請求書は料金の概要を示し、調整ファイルは、課金の種類を含め、行項目のトランザクションの詳細な内訳を示します。
+
+請求書と調整ファイルの間で請求金額を相互参照するには、Microsoft Excel のフィルター オプションを使用して、調整ファイルの課金の種類でフィルター処理し、請求書の課金を調整ファイルの一連の課金の内訳にマップします。
+
+次の表に、請求書のセクションと、調整ファイルに表示される関連付けられた課金の種類とのマッピングを示します。 
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>請求書の課金の説明</strong></p>
+</td>
+<td>
+<p><strong>調整ファイルの課金の説明 (ChargeType 列)</strong></p>
+</td>
+<td>
+<p><strong>この課金の意味</strong></p>
+</td>
+<td>
+<p><strong>これらの ChargeTypes を請求書にマップする方法</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p><strong>当月のサービス利用料金</strong></p>
+</td>
+<td>
+<p>Cancel instance prorate</p>
+</td>
+<td>
+<p>関連付けられているシートが変更されたときに顧客に払い戻される日割り料金</p>
+</td>
+<td rowspan="8">
+<p>ライセンス ベースのファイルから、<strong>Amount</strong> 列を合計する</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cycle fee</p>
+</td>
+<td>
+<p>サブスクリプションの定期的な課金</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cycle instance prorate</p>
+</td>
+<td>
+<p>関連付けられているシートが変更されたときに顧客から評価される日割り料金</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Prorate fees when cancel</p>
+</td>
+<td>
+<p>取り消し時のサービスの未使用部分に対する日割りの払戻し額</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Prorate fees when purchase</p>
+</td>
+<td>
+<p>購入時の日割りの料金</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Purchase fee</p>
+</td>
+<td>
+<p>サブスクリプションの最初の課金</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Prorate fee when renew</p>
+</td>
+<td>
+<p>サブスクリプションの更新時の日割り料金</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Renew fee</p>
+</td>
+<td>
+<p>サブスクリプションの更新時の課金</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>その他の製品とサービス</strong></p>
+</td>
+<td>
+<p>Prorate fees when activate</p>
+</td>
+<td>
+<p>アクティブ化から課金期間の終了までの日割り料金</p>
+</td>
+<td>
+<p>ライセンス ベースのファイルから、<strong>Amount</strong> 列を合計する</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><strong>利用料金</strong></p>
+</td>
+<td>
+<p>Assess usage fee when cancel</p>
+</td>
+<td>
+<p>現在の課金期間中に未払いの使用を取り消したときのアクセス利用料</p>
+</td>
+<td rowspan="2">
+<p>使用量ベースのファイルから、<strong>PretaxCharges</strong> 列を合計する</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Assess usage fee for current cycle</p>
+</td>
+<td>
+<p>現在の課金期間のアクセス利用料</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>調整額</strong></p>
+</td>
+<td>
+<p>Offset a line item</p>
+</td>
+<td>
+<p>税金を含む、行項目への一部または全部の払戻し</p>
+</td>
+<td>
+<p>ライセンス ベースのファイルから、<strong>TotalForCustomer</strong> 列を合計する</p>
+<p>使用量ベースのファイルから、<strong>PostTaxTotal</strong> 列を合計する</p>
+</td>
+</tr>
 
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<tr>
+<td rowspan="4">
+<p><strong>その他の割引</strong></br>
+<em>(使用量ベース)</em></p>
+</td>
+<td>
+<p>Activation discount</p>
+</td>
+<td>
+<p>サブスクリプションがアクティブ化されたときに適用される割引</p>
+</td>
+<td rowspan="4">
+<p>使用量ベースのファイルから、<strong>PretaxCharges</strong> 列を合計する</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cycle discount</p>
+</td>
+<td>
+<p>定期的な課金に適用される割引</p>
+</td>
+</tr><tr>
+<td>
+<p>Renew discount</p>
+</td>
+<td>
+<p>サブスクリプションの更新時に適用される割引</p>
+</td>
+</tr><tr>
+<td>
+<p>Cancel discount</p>
+</td>
+<td>
+<p>割引が取り消されたときに適用される料金</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>その他の割引</strong></br>
+<em>(ライセンス ベース)</em></p>
+</td>
+<td>
+<p><em>複数の種類の料金に適用される場合がある</em></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>ライセンス ベースのファイルから、<strong>TotalOtherDiscount</strong> 列を合計する</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>税</strong>&nbsp;または&nbsp;<strong>VAT</strong></p>
+</td>
+<td>
+<p><em>複数の種類の料金に適用される場合がある</em></p>
+<p><em>例外: "Offset a line item" には既に税が含まれます。 前の「調整額」を参照してください。</em></p>
+</td>
+<td>
+<p>税または付加価値税 (VAT)</p>
+</td>
+<td>
+<p>ライセンス ベースのファイルから、<strong>Tax</strong> 列を合計する</p>
+<p>使用量ベースのファイルから、<strong>TaxAmount</strong> 列を合計する</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

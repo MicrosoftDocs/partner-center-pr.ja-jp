@@ -3,13 +3,11 @@ title: "CSP 契約、価格表、およびキャンペーン | パートナー �
 description: "Microsoft は、プログラムに登録するかどうかの決定、新しい顧客の登録、Microsoft 製品およびサービスの顧客への販売、請求書の調整など、CSP パートナーが必要とする多くのドキュメントを公開しています。"
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# CSP 契約、価格表、およびキャンペーン
+# <a name="csp-agreements-price-lists-and-offers"></a>CSP 契約、価格表、およびキャンペーン
 
 **適用対象**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 Microsoft は、プログラムに登録するかどうかの決定、新しい顧客の登録、Microsoft 製品およびサービスの顧客への販売、請求書の調整など、CSP パートナーが必要とする多くのドキュメントを公開しています。
 
-## このセクションの内容
+## <a name="in-this-section"></a>このセクションの内容
 
 
 -   [プログラム ガイド](#programguide)
@@ -64,7 +62,7 @@ Microsoft では、クラウド ソリューション プロバイダー プロ�
 
 [顧客契約テンプレート](agreements.md)
 
-## 価格設定
+## <a name="pricing"></a>価格設定
 
 
 パートナー向けの価格設定は、**販売**ページでダウンロードできます。 2 つの別の価格表があります。1 つは Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM を含むライセンス ベースのサービス用で、もう 1 つは Microsoft Azure を含む使用量ベースのサービス用です。
@@ -73,7 +71,7 @@ Microsoft では、クラウド ソリューション プロバイダー プロ�
 
 使用量ベースの価格は動的であり、絶えず変更されています。
 
-## サービス
+## <a name="offers"></a>サービス
 
 
 CSP パートナーは、Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM、Microsoft Azure を販売できます。 これらの製品ファミリ内で販売できる SKU と製品バンドルについて詳しくは、**販売**ページでクラウド リセラーの製品マトリックスをご覧ください。 このドキュメントは毎月更新されます。
@@ -84,11 +82,5 @@ Crest Usage Record API を使う CSP パートナー向けに、**販売**ペー
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

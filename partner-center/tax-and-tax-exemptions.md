@@ -3,13 +3,11 @@ title: "税金と税金の除外 | パートナー センター"
 description: "クラウド ソリューション プロバイダーはパートナーによる製品の再販に焦点を当てた販売チャネルであるため、マイクロソフトはパートナーの請求書に常に売上税を課す必要はありません。"
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 税金と税金の除外
+# <a name="tax-and-tax-exemptions"></a>税金と税金の除外
 
 **適用対象**
 
@@ -26,7 +24,7 @@ ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 4.  フォームに記入します。 **[問題の種類]** で、**[Cannot manage my profile]** (プロファイルを管理できない) を選びます。 説明の中に貴社の MPN ID と Microsoft ID を記入します。
 5.  チケットを提出すると、マイクロソフトが詳細情報をメールで送ります。 返信する際に、貴社の税金除外証明書の適切な関連書類を添付します。
 
-## 国/地域ごとの詳細
+## <a name="details-by-countryregion"></a>国/地域ごとの詳細
 
 
 <table>
@@ -75,11 +73,5 @@ ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

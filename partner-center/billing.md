@@ -3,13 +3,11 @@ title: "請求 | パートナー センター"
 Description: "貴社は、クラウド ソリューション プロバイダー パートナーとして、顧客のライセンス ベースおよび使用量ベースのサブスクリプションの料金を 60 日後に Microsoft に支払います。"
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 請求
+# <a name="billing"></a>請求
 
 **適用対象**
 
@@ -25,7 +23,7 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 -   貴社が提供するサービスと製品に対して、独自の料金や手数料を追加します。
 -   すべての料金について単一の請求書を顧客に送ります。
 
-## 請求
+## <a name="billing"></a>請求
 
 
 [請求書を読み取る](read-your-bill.md)
@@ -42,7 +40,7 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 [PSTN サービス](o365-e5-in-csp-advisory.md)
 
-## このセクションの内容
+## <a name="in-this-section"></a>このセクションの内容
 
 
 -   [課金の基本](#billingbasics)
@@ -196,11 +194,5 @@ Azure は "従量" モデルで運用され、使用した Azure サービスに
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

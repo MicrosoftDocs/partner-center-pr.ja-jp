@@ -3,13 +3,11 @@ title: "Pinpoint からパートナー センターへの移行 | パートナ�
 Description: "このページに記載されている情報は、Pinpoint からパートナー センターへ移行する方法を説明しています。"
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: c604ab4f027119d10c4903431455c97c484eb831
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Pinpoint からパートナー センターへの移行
+# <a name="transition-from-pinpoint-to-partner-center"></a>Pinpoint からパートナー センターへの移行
 
 **適用対象**
 
@@ -46,7 +44,7 @@ Microsoft では、パートナー様がプロファイルを公開および管�
 
 パートナー センターのマーケティング プロファイルの詳しい情報、および Pinpoint のプロファイルをインポートした結果を確認するには、[パートナー センターのプロファイルのメイン ページにアクセスしてください](https://partnercenter.microsoft.com/pcv/publishing)。 Pinpoint でのマーケティング プロファイルの作成方法について詳しくは、「[会社のマーケティング プロファイルを作成する](create-a-marketing-profile.md)」をご覧ください。
 
-## 関連トピック
+## <a name="related-topics"></a>関連トピック
 
 
 [会社のマーケティング プロファイルを作成する](create-a-marketing-profile.md)
@@ -57,11 +55,5 @@ Microsoft では、パートナー様がプロファイルを公開および管�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

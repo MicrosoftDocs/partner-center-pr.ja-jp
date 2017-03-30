@@ -37,7 +37,7 @@
 ## [マルチチャネル](multichannel.md)
 ## [マルチパートナー](multipartner.md)
 ## [顧客との関係を要求する](request-a-relationship-with-a-customer.md)
-# [マイクロソフトによるサポート](support-from-microsoft--.md)
+# [Microsoft によるサポート](support-from-microsoft--.md)
 ## [サービスの正常性の確認](check-service-health.md)
 ## [パートナー センターに関する問題の報告](report-problems-with-partner-center.md)
 ## [顧客の代理で問題を報告する](report-problems-on-behalf-of-a-customer.md)
@@ -52,9 +52,4 @@
 # [Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)
 ## [Microsoft Cloud ドイツのパートナー センターに登録する](enroll-in-csp-for-microsoft-cloud-germany.md)
 ## [Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)
-
-
-
-<!--HONumber=Jan17_HO2-->
-
 

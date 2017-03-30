@@ -3,13 +3,11 @@ title: "顧客アカウントのユーザー管理タスク | パートナー �
 description: "顧客の新しいサブスクリプションを購入した後、特定のユーザーにライセンスを割り当てることができます。"
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 顧客アカウントのユーザー管理タスク
+# <a name="user-management-tasks-for-customer-accounts"></a>顧客アカウントのユーザー管理タスク
 
 **適用対象**
 
@@ -75,7 +73,7 @@ ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
 
     選択したすべてのユーザー アカウントが、**[ユーザーとライセンス]** ページに再び表示されます。
 
-## 関連トピック
+## <a name="related-topics"></a>関連トピック
 
 
 [複数のユーザーにライセンスを割り当てる、または取り消す](bulk-license-provisioning-for-multiple-users.md)
@@ -86,11 +84,5 @@ ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

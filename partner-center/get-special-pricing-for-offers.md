@@ -3,13 +3,11 @@ title: "特別価格の適用を受ける | パートナー センター"
 Description: "Microsoft は、教育、非営利、行政目的での使用や、非常に大規模なお客様など、特定のお客様に対して特別割引価格をご用意しています。"
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: f5fcec2df909ef089846cd7b443a890c7ac2f067
 ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 特別価格の適用を受ける
+# <a name="get-special-pricing-for-offers"></a>特別価格の適用を受ける
 
 **適用対象**
 
@@ -60,11 +58,5 @@ Microsoft は、教育、非営利、行政目的での使用や、非常に大�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

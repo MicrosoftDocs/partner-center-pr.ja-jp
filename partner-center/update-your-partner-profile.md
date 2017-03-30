@@ -3,13 +3,11 @@ title: "パートナー プロファイルを更新する | パートナー セ�
 description: "最初に管理者としてパートナー センターにログインするときに、サポートの詳細が正しいことを確認し、適切な場合は税金の除外を申告して、貴社のプロファイルの連絡先情報を見直してください。"
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# パートナー プロファイルを更新する
+# <a name="update-your-partner-profile"></a>パートナー プロファイルを更新する
 
 **適用対象**
 
@@ -37,11 +35,5 @@ ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

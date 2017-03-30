@@ -3,13 +3,11 @@ title: "既存のサブスクリプションにライセンスまたはサービ
 description: "顧客が現在提供されているサブスクリプションよりも多くのシートを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。"
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 既存のサブスクリプションにライセンスまたはサービスを追加する
+# <a name="add-licenses-or-services-to-an-existing-subscription"></a>既存のサブスクリプションにライセンスまたはサービスを追加する
 
 **適用対象**
 
@@ -93,11 +91,5 @@ ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "テクニカル サポートを提供する | パートナー センタ�
 description: "貴社には、クラウド ソリューション プロバイダー パートナーとして、お客様の環境にアクセスできる委任された管理者権限があります。"
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# テクニカル サポートを提供する
+# <a name="provide-technical-support"></a>テクニカル サポートを提供する
 
 **適用対象**
 
@@ -42,11 +40,5 @@ ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

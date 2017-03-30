@@ -3,13 +3,11 @@ title: "ユーザー アカウントを作成しアクセス許可を設定す�
 description: "管理者は、パートナー センターにアクセスする必要のあるパートナーの各従業員用にユーザー アカウントを作成します。"
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: a755c9375c7bd5e61345d7d7e1ab27e00af3fe4d
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# ユーザー アカウントを作成しアクセス許可を設定する
+# <a name="create-user-accounts-and-set-permissions"></a>ユーザー アカウントを作成しアクセス許可を設定する
 
 **適用対象**
 
@@ -148,11 +146,5 @@ ms.openlocfilehash: a755c9375c7bd5e61345d7d7e1ab27e00af3fe4d
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

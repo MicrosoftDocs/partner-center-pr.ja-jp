@@ -3,13 +3,11 @@ title: "顧客の代理で問題を報告する | パートナー センター"
 Description: "貴社で解決できないサービスに関する問題が顧客側で発生し、「Microsoft に問題をエスカレートする」に記載されている条件に一致する場合は、サポート チケットを発行します。"
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 顧客の代理で問題を報告する
+# <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理で問題を報告する
 
 **適用対象**
 
@@ -47,7 +45,7 @@ ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
 
     3.  後で、Office 365 管理センターにアクセスし、**[すべてのサポート チケットを表示する]** を選んで顧客のサービス リクエストを見直します。
 
-## FAQ
+## <a name="faq"></a>FAQ
 
 
 **サポートの権利には何が含まれていますか?**
@@ -89,11 +87,5 @@ Office 365 管理センターに直接サインインすると、顧客のコン
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
