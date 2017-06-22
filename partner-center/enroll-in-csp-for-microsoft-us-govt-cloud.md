@@ -1,12 +1,14 @@
 ---
-title: "米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する | 米国政府機関向け Microsoft Cloud のパートナー センター"
+title: "米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録 | 米国政府機関向け Microsoft Cloud のパートナー センター"
 description: "米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。"
 author: MaggiePucciEvans
-ms.openlocfilehash: fec9ea2ddebda84d2110d34313cfdc8492727fee
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 152634d9aca087396c46d841b085b0231c5498c8
+ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/06/2017
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する
+# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録
 
 **適用対象**
 
@@ -18,7 +20,7 @@ translationtype: HT
 
 詳細については、「[米国政府機関向け Microsoft Cloud のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)」を参照してください。
 
-クラウド ソリューション プロバイダー (CSP) プログラムに登録する前に、新しい Microsoft Azure Government アカウントを作成する必要があります。 このアカウントを作成するには、[Microsoft Government Cloud Validation Form](https://aka.ms/azgovcspreq) に必要事項を記入して、<azgovcsp@microsoft.com> までメールで送信してください。
+クラウド ソリューション プロバイダー (CSP) プログラムに登録する前に、新しい Microsoft Azure Government アカウントを作成する必要があります。 このアカウントを作成するには、[Microsoft Government Cloud Validation Form](http://azuregov.microsoft.com/csp) に必要事項を記入して、<azgovcsp@microsoft.com> までメールで送信してください。
 
 >**重要**<br>
 既にパートナー センターにアカウントをお持ちで、米国政府機関<Government></Government>向け Microsoft Cloud の CSP に登録をご希望の場合は、米国政府機関向け Microsoft Cloud のパートナー センター用に別のアカウントを作成する必要があります。
@@ -35,14 +37,14 @@ translationtype: HT
 
 1.  登録プロセスを開始します。 
 
-2.  組織の Microsoft Azure 用の米国政府機関向け Microsoft Cloud アカウントのグローバル管理者の資格情報を使ってサインインします。 組織でこのポータルのアカウントを持っていない場合、[Microsoft Government Cloud Validation Form](https://aka.ms/azgovcspreq) に必要事項を記入し、<azgovcsp@microsoft.com> までメールで送信することによりアカウントを作成できます。
+2.  組織の Microsoft Azure 用の米国政府機関向け Microsoft Cloud アカウントのグローバル管理者の資格情報を使ってサインインします。 組織がこのポータルのアカウントを持っていない場合、[Microsoft Government Cloud Validation Form](http://azuregov.microsoft.com/csp) に必要事項を記入してアカウントを作成できます。
 
 
 ### <a name="step-2---apply-to-become-a-cloud-solution-provider-partner-within-microsoft-cloud-for-us-government"></a>手順2 - 米国政府機関向け Microsoft Cloud 内のクラウド ソリューション プロバイダー パートナーとして申し込む
 
 1.  Microsoft Partner Network ID や組織のカスタマー サポートに関する情報など、不足している情報を登録フォームに入力します。 
 
-2.  **[同意して続行する]** を選択します。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
+2.  **[同意して続行する]** を選びます。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
 
     >**重要**<br>
     **[同意して続行する]** を選択することにより、組織の代理として行為する権限が認められていることを確認するもの、そして Microsoft が組織のクラウド ソリューション プロバイダーの申し込みを確認する前に与信審査を実行することを許可するものと見なされます。

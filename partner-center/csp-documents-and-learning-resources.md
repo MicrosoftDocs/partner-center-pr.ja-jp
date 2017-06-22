@@ -1,86 +1,75 @@
 ---
-title: "CSP 契約、価格表、およびキャンペーン | パートナー センター"
-description: "Microsoft は、プログラムに登録するかどうかの決定、新しい顧客の登録、Microsoft 製品およびサービスの顧客への販売、請求書の調整など、CSP パートナーが必要とする多くのドキュメントを公開しています。"
+title: "CSP 契約、料金表、キャンペーン | パートナー センター"
+description: "この記事では、クラウド ソリューション プロバイダーのプログラム ガイド、パートナー契約、顧客契約、料金表、提供できる製品とサービスへのリンクを示します。"
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 17e792f550f54a74e29c82f8eee4fbd58311d362
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/09/2017
 ---
-# <a name="csp-agreements-price-lists-and-offers"></a>CSP 契約、価格表、およびキャンペーン
+# <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー契約、料金表、キャンペーン
 
 **適用対象**
 
 -  パートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-Microsoft は、プログラムに登録するかどうかの決定、新しい顧客の登録、Microsoft 製品およびサービスの顧客への販売、請求書の調整など、CSP パートナーが必要とする多くのドキュメントを公開しています。
 
-## <a name="in-this-section"></a>このセクションの内容
+この記事では、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに参加するための要件を示します。 
 
-
--   [プログラム ガイド](#programguide)
-
--   [クラウド ソリューション プロバイダー - パートナー契約](#partneragreement)
-
--   [顧客契約テンプレート](#customeragreementtemplate)
-
--   [価格設定](#pricing)
-
--   [プラン](#offers)
-
-## <a href="" id="programguide"></a>プログラム ガイド
+## <a href="" id="programguide"></a>クラウド ソリューション プロバイダー プログラム ガイド
 
 
-このガイドでは、クラウド ソリューション プロバイダー パートナーとして製品を顧客に再販するための要件を定義します。
+クラウド ソリューション プロバイダー プログラムのパートナーとなるための要件が記載されています。
 
 [クラウド ソリューション プロバイダー パートナー向けプログラム ガイド](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
-## <a href="" id="partneragreement"></a>クラウド ソリューション - プロバイダー契約
+## <a href="" id="partneragreement"></a>クラウド ソリューション プロバイダー パートナー契約
 
 
-Microsoft では、クラウド ソリューション プロバイダー プログラムに参加するには、この契約への署名をパートナーに求めています。 販売する計画の市場向けの適切なガイドを選ぶ必要があります。
+マイクロソフトのクラウド ソリューション プロバイダー プログラムへの参加を希望するパートナーは、この契約書に署名する必要があります。 販売を計画している市場のクラウドまたはナショナル クラウドに関するガイドを確認してください。
 
-[Microsoft クラウド リセラー契約 - 北米、中央アメリカ、南アメリカ、カリブ](http://go.microsoft.com/fwlink/p/?LinkId=617094)
+[Microsoft Cloud リセラー契約 - 北米、中米、南米、カリブ諸国](http://go.microsoft.com/fwlink/p/?LinkId=617094)
 
-[Microsoft クラウド リセラー契約 - アジア、オーストラリア、太平洋](http://go.microsoft.com/fwlink/p/?LinkId=617095)
+[Microsoft Cloud リセラー契約 - アジア、オーストラリア、太平洋諸国](http://go.microsoft.com/fwlink/p/?LinkId=617095)
 
-[Microsoft クラウド リセラー契約 - ヨーロッパ、中東、アフリカ](http://go.microsoft.com/fwlink/p/?LinkId=617096)
+[Microsoft Cloud リセラー契約 - ヨーロッパ、中東、アフリカ](http://go.microsoft.com/fwlink/p/?LinkId=617096)
 
-[Microsoft クラウド リセラー契約 - 日本](http://go.microsoft.com/fwlink/p/?LinkId=617097)
+[Microsoft Cloud リセラー契約 - 日本](http://go.microsoft.com/fwlink/p/?LinkId=617097)
 
-[Microsoft クラウド リセラー契約 - 韓国](http://go.microsoft.com/fwlink/p/?LinkId=617098)
+[Microsoft Cloud リセラー契約 - 韓国](http://go.microsoft.com/fwlink/p/?LinkId=617098)
 
-[Microsoft クラウド リセラー契約 - 台湾](http://go.microsoft.com/fwlink/p/?LinkId=617099)
+[Microsoft Cloud リセラー契約 - 台湾](http://go.microsoft.com/fwlink/p/?LinkId=617099)
 
-[Microsoft クラウド リセラー契約 - Microsoft Cloud ドイツ](https://go.microsoft.com/fwlink/p/?linkid=831385)
+[Microsoft Cloud リセラー契約 - Microsoft Cloud ドイツ](https://go.microsoft.com/fwlink/p/?linkid=831385)
+
+[Microsoft Cloud リセラー契約 - 米国政府機関向け Microsoft Cloud](https://go.microsoft.com/fwlink/p/?linkid=843364)
 
 ## <a href="" id="customeragreementtemplate"></a>顧客契約テンプレート
 
 
-パートナーは、Microsoft 製品とサービスの利用規約を含めて、顧客が Microsoft の条件を理解し、同意する責任を負うものとします。 パートナーが新しい顧客を登録するときに扱う必要がある資料のテンプレートが用意されています。
+CSP のパートナーは、マイクロソフトによる契約条件 (マイクロソフト製品およびサービスの利用規約を含む) を顧客との間で確認する責任があります。 新規顧客との間で確認が必要な顧客契約は、以下のリンクからアクセスしてください。 
 
 [顧客契約テンプレート](agreements.md)
 
-## <a name="pricing"></a>価格設定
+## <a name="pricing"></a>料金設定
 
 
-パートナー向けの価格設定は、**販売**ページでダウンロードできます。 2 つの別の価格表があります。1 つは Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM を含むライセンス ベースのサービス用で、もう 1 つは Microsoft Azure を含む使用量ベースのサービス用です。
+ライセンスベースのサービスと使用量ベースのサービスの料金設定は、いずれも **[ダッシュボード]** メニューから **[料金とプラン]** ページを表示してダウンロードできます。 
 
-ライセンス ベースの価格表は毎月更新され、新しい価格は、有効になる 30 日前に発表されます。
+ライセンスベースの料金表は毎月改訂されており、新しい料金は発効日の 30 日前に公開されます。 ライセンスベースのサービスには、たとえば Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM があります。 
 
-使用量ベースの価格は動的であり、絶えず変更されています。
-
-## <a name="offers"></a>サービス
+使用量ベースの価格は変動的であり、頻繁に変更されています。 使用量ベースのサービスには、たとえば Microsoft Azure があります。
 
 
-CSP パートナーは、Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM、Microsoft Azure を販売できます。 これらの製品ファミリ内で販売できる SKU と製品バンドルについて詳しくは、**販売**ページでクラウド リセラーの製品マトリックスをご覧ください。 このドキュメントは毎月更新されます。
+## <a name="offers"></a>プラン
 
-Crest Usage Record API を使う CSP パートナー向けに、**販売**ページでは CSP での Azure サービスの一覧も公開されています。
 
- 
+CSP パートナーは、Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM、Microsoft Azure をお客様に販売できます。 これらの製品ファミリで販売可能な製品やサービスおよび製品バンドルについて詳しくは、**[ダッシュボード]** メニューから **[料金とプラン]** ページにアクセスして、CSP のプランのマトリックスをご覧ください。 このドキュメントは毎月更新されます。
 
- 
-
+Crest Usage Record API を使用している CSP パートナーは、**[料金とプラン]**ページで CSP での Azure サービスの一覧を利用することもできます。
 
 

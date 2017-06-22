@@ -1,22 +1,28 @@
 ---
 title: "パートナー センター顧客契約テンプレート | パートナー センター"
 description: "市場固有の顧客契約テンプレートをパートナー センターからダウンロードする"
-author: John Miller
-ms.openlocfilehash: 7b48417afec9a83edcb194fb9c53d112de882cf7
-ms.sourcegitcommit: 23c0c3f85ef98e810cd0b9d953d3215f87daedbb
-translationtype: HT
+author: Maggie Evans
+ms.openlocfilehash: f366505ef884239d5f646a469f4d95b63222b391
+ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/07/2017
 ---
-#<a name="partner-center-customer-agreement-templates"></a>パートナー センター顧客契約テンプレート
-パートナー センター顧客契約テンプレート リポジトリへようこそ。  ここには、該当するすべての顧客契約書があります。  それらは、簡単に参照できるよう、地域と国ごとに掲載されています。  顧客には、顧客の所在地に応じた適切な契約書を提供することが重要です。  一部の場所では、顧客の言語の好みに応じて、言語の異なる複数バージョンの契約書が利用できます。
+# <a name="partner-center-customer-agreement-templates"></a>パートナー センター顧客契約テンプレート
+パートナー センター顧客契約テンプレート リポジトリへようこそ。 ここでは、適用可能なすべての顧客契約を地域別、国別の一覧の中から簡単に見つけることができます。 顧客には、顧客の所在地に応じた適切な契約書を提供することが重要です。 一部の国や地域では、言語の異なる複数バージョンの契約書が用意されており、お客様に適した言語を選択できます。
 
-##<a name="north-america-central-america-south-america-and-the-caribbean"></a>北米、中央アメリカ、南アメリカ、カリブ
+## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北米、中米、南米、カリブ諸国
 
+- アンギラ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
+- アンティグア・バーブーダ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
 - アルゼンチン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
+- アルバ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
 - バハマ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
 - バルバドス: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_BRA_ENG_Jul2016_CR_.pdf)
 - ベリーズ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - バミューダ諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
 - ボリビア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
+- ボネール島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
 - ブラジル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_BRA_ENG_Jul2016_CR_.pdf)、[ポルトガル語 (ブラジル)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_BRA_PTB_Jul2016_CR.pdf)
 - カナダ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_NA_ENG_Jul2016_CR_.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_NA_FRE_Jul2016_CR_.pdf)
 - ケイマン諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_BRA_ENG_Jul2016_CR_.pdf)
@@ -26,23 +32,36 @@ translationtype: HT
 - ドミニカ共和国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - エクアドル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - エルサルバドル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
+- フランス領ギアナ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
+- グアドループ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
 - グアテマラ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - ホンジュラス: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - ジャマイカ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
+- マルチニーク島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
 - メキシコ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - ニカラグア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - パナマ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - パラグアイ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - ペルー: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - プエルトリコ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_BRA_ENG_Jul2016_CR_.pdf)
+- セントルシア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
+- サンマルタン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
+- セントビンセントおよびグレナディーン諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
+- シント・マールテン島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
+- スリナム: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
 - トリニダード・トバゴ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf) 
+- タークス・カイコス諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
 - 米国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_NA_ENG_Jul2016_CR_.pdf)
 - ウルグアイ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - ベネズエラ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - 米領バージン諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_NA_ENG_Jul2016_CR_.pdf)
 
-##<a name="europe"></a>ヨーロッパ
+## <a name="microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud
+ - 米国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Mar2017.pdf)
+
+## <a name="europe"></a>ヨーロッパ
 - アルバニア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
+- アンドラ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - アルメニア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - オーストリア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ドイツ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_GER_Jul2016_CR_.pdf)
 - アゼルバイジャン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
@@ -56,48 +75,63 @@ translationtype: HT
 - デンマーク: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[デンマーク語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_DAN_Jul2016_CR_.pdf)
 - エストニア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[エストニア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_EST_Jul2016_CR_.pdf)
 - フィンランド: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フィンランド語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FIN_Jul2016_CR_.pdf)
-- フランス: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フランス](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf)
+- フランス: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf)
 - ジョージア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - ドイツ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ドイツ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_GER_Jul2016_CR_.pdf)
 - ギリシャ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ギリシャ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_GRE_Jul2016_CR_.pdf)
+- グリーンランド: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - ハンガリー: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ハンガリー語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_HUN_Jul2016_CR_.pdf)
 - アイスランド: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - アイルランド: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
-- イタリア:[英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[イタリア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ITA_Jul2016_CR_.pdf)
+- マン島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
+- イタリア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[イタリア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ITA_Jul2016_CR_.pdf)
+- ジャージー島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - ラトビア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ラトビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_LAV_Jul2016_CR_.pdf)
 - リヒテンシュタイン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ドイツ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_GER_Jul2016_CR_.pdf)
 - リトアニア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[リトアニア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_LIT_Jul2016_CR_.pdf)
 - ルクセンブルク: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf)
-- マケドニア共和国、FYRO: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
+- マケドニア、旧ユーゴスラビア共和国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
+- マダガスカル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
+- マラウイ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
+- マリ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - マルタ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
+- マイヨット島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - モルドバ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ルーマニア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_RON_Jul2016_CR_.pdf)
 - モンテネグロ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - オランダ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[オランダ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_DUT_Jul2016_CR_.pdf)
+- ニューカレドニア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - ノルウェー: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ノルウェー語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_NOR_Jul2016_CR_.pdf)
 - ポーランド: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ポーランド語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_POL_Jul2016_CR_.pdf)
 - ポルトガル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ポルトガル語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_PTE_Jul2016_CR_.pdf)
 - ルーマニア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ルーマニア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_RON_Jul2016_CR_.pdf)
 - ロシア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ロシア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_RUS_Jul2016_CR_.pdf)
+- サンマリノ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - セルビア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[セルビア語 (ラテン)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_SLN_Jul2016_CR_.pdf)
 - スロバキア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[スロバキア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_SLK_Jul2016_CR_.pdf)
 - スロベニア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[スロベニア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_SLN_Jul2016_CR_.pdf)
 - スペイン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[スペイン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_SPA_Jul2016_CR_.pdf)、[バスク語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_EUQ_Jul2016_CR_.pdf)、[ガリシア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_GLC_Jul2016_CR_.pdf)
 - スウェーデン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[スウェーデン語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_SWE_Jul2016_CR_.pdf)
+- スイス: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フランス](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf)、[ドイツ](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_GER_Jul2016_CR_.pdf)、[イタリア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ITA_Jul2016_CR_.pdf)
 - ウクライナ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ウクライナ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_UKR_Jul2016_CR_.pdf) 
 - 英国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
+- バチカン市国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 
-##<a name="microsoft-cloud-germany"></a>Microsoft Cloud ドイツ
+## <a name="microsoft-cloud-germany"></a>Microsoft Cloud ドイツ
 - EU/EFTA 全域: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_ENG_Mar2017_CR_for_German_Cloud.pdf)
 - EU/EFTA 全域: [ドイツ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_GER_Mar2017_CR_for_German_Cloud.pdf)
 
-##<a name="middle-east-and-africa"></a>中東およびアフリカ
+## <a name="middle-east-and-africa"></a>中東およびアフリカ
 - アルジェリア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
 - アンゴラ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ポルトガル語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_PTE_Jul2016_CR_.pdf)     
 - バーレーン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
+- ベナン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
+- ブルンジ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - カメルーン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf)    
 - カーボベルデ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ポルトガル語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_PTE_Jul2016_CR_.pdf)   
+- コモロ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - コートジボワール: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf)    
 - エジプト: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)
+- フランス領ポリネシア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - ガーナ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)     
 - イラク: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
 - イスラエル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[ヘブライ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_HEB_Jul2016_CR_.pdf)  
@@ -109,43 +143,54 @@ translationtype: HT
 - モーリシャス: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)
 - モンゴル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)     
 - モロッコ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
+- モザンビーク: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - ナイジェリア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)     
 - オマーン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
 - パキスタン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)     
 - カタール: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
+- レユニオン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - ルワンダ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf)     
 - サウジアラビア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)     
 - セネガル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf)     
+- セーシェル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - 南アフリカ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)     
+- トーゴ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - チュニジア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)          
 - トルコ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[トルコ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_TUR_Jul2016_CR_.pdf)
 - アラブ首長国連邦: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)
 - イエメン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)
 - ジンバブエ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 
-##<a name="asia-and-pacific"></a>アジア太平洋
-- オーストラリア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
+## <a name="asia-and-pacific"></a>アジア太平洋
+- オーストラリア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - バングラデシュ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
 - ブルネイ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[マレー語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_MSL_Jul2016_CR_.pdf)  
+- ブータン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
+- カンボジア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - フィジー: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
 - 香港特別行政区: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[繁体字中国語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_CHT_Jul2016_CR_.pdf)     
 - インド: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[ヒンディー語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_HIN_Jul2016_CR_.pdf)    
 - インドネシア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[インドネシア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_IND_Jul2016_CR_.pdf)  
 - 日本: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_JPN_ENG_Jul2016_CR_.pdf)、[日本語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_JPN_JPN_Jul2016_CR_.pdf)    
 - カザフスタン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[カザフ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_KAZ_Jul2016_CR_.pdf)  
-- キルギスタン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[ロシア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_RUS_Jul2016_CR_.pdf)     
+- キルギス: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[ロシア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_RUS_Jul2016_CR_.pdf)  
+- ラオス: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - マカオ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[繁体字中国語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_CHT_Jul2016_CR_.pdf)  
-- マレーシア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[マレー語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_MSL_Jul2016_CR_.pdf)    
+- マレーシア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[マレー語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_MSL_Jul2016_CR_.pdf) 
+- マーシャル諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
+- モルディブ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
+- ミャンマー: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - ネパール: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
 - ニュージーランド: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf) 
-- フィリピン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
+- パプアニューギニア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
+- フィリピン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)   
 - シンガポール: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[簡体字中国語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_CHS_Jul2016_CR_.pdf)    
 - 韓国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_KOR_ENG_Jul2016_CR_.pdf)、[韓国語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_KOR_KOR_Jul2016_CR_.pdf)    
 - スリランカ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
 - 台湾: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_TAI_ENG_Jul2016_CR_.pdf)、[繁体字中国語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_TAI_CHT_Jul2016_CR_.pdf)    
 - タイ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[タイ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_THA_Jul2016_CR_.pdf)  
+- ティモール・レステ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
+- トンガ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)
 - ウズベキスタン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[ロシア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_RUS_Jul2016_CR_.pdf) 
 - ベトナム: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)、[ベトナム語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_VIT_Jul2016_CR_.pdf) 
-
-
 

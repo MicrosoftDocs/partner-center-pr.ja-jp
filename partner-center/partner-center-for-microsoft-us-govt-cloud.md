@@ -2,9 +2,11 @@
 title: "米国政府機関向け Microsoft Cloud のパートナー センター | 米国政府機関向け Microsoft Cloud のパートナー センター"
 description: "米国政府機関向け Microsoft Cloud のパートナー センターは、米国内で政府機関とのビジネスを行う顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。"
 author: MaggiePucciEvans
-ms.openlocfilehash: 38bdfa4ca862dc2cfb6854505c43d83cc4a252bd
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 2eac70334691c353310d21168c2f48e3bea452c5
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センター
 
@@ -29,12 +31,12 @@ translationtype: HT
 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー (CSP) プログラムに登録した後は、パートナー センターを使用して、クラウド固有のソリューションおよびサービスを米国政府機関の顧客に販売します。 
 
 >**注**<br>
-本記事の公開時点では、米国政府機関向け Microsoft Cloud のパートナー センターで、以下の機能をまだご利用いただけません (本記事の公開以降、パートナー センターに機能が追加される場合があるため、この一覧が最新ではなくなっている可能性があります)。
+本記事の公開時点では、米国政府機関向け Microsoft Cloud のパートナー センターで、以下の機能が提供されていません (本記事の公開後、パートナー センターに機能が追加されて、この一覧の情報が最新ではなくなる可能性があります)。
 
 - パートナーの検索
-- マーケティング プロフィール
+- マーケティング プロファイル
 - 紹介
-- 既存の顧客との関係の要求 (マルチチャネル、マルチ パートナー)
+- 顧客と再販業者関係の要求 (マルチチャンネル、マルチパートナー)
 - ライセンス分析
 - 顧客の分析
 - 間接リセラー/プロバイダー モデルと設定

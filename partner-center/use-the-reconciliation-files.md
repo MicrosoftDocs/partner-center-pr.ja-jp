@@ -1,25 +1,27 @@
 ---
-title: "調整ファイルを使う | パートナー センター"
-description: "課金サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。"
+title: "調整ファイルの使用 | パートナー センター"
+description: "請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。"
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 7a059bfa12655334b02a76af17608569e4f42a41
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
-# <a name="use-the-reconciliation-files"></a>調整ファイルを使う
+# <a name="use-the-reconciliation-files"></a>調整ファイルの使用
 
 **適用対象**
 
 -  パートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-課金サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。 詳細には、各顧客のサブスクリプションの料金や、詳細なイベント (期間途中でのサブスクリプションへのシートの追加など) が含まれます。
+請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。 詳細には、各顧客のサブスクリプションの料金や、詳細なイベント (期間途中でのサブスクリプションへのシートの追加など) が含まれます。
 
 ## <a href="" id="itemizebypartner"></a>パートナーごとに明細を示す
 
 
-インダイレクト モデルのパートナーは、ライセンス ベースの調整ファイルと使用量ベースの調整ファイルの両方で、これらの追加フィールドを使用してリセラーごとに明細を記載できます。
+インダイレクト モデルのパートナーは、ライセンスベースの調整ファイルと使用量ベースの調整ファイルの両方で、これらの追加フィールドを使用してリセラーごとに明細を記載できます。
 
 <table>
 <colgroup>
@@ -41,8 +43,7 @@ translationtype: HT
 <td>リセラーの MPN ID</td>
 <td><p>インダイレクト モデルのパートナーの調整ファイルにのみ表示されます。</p>
 <p>サブスクリプションの登録のあるリセラーの MPN ID。 これは、パートナー センターで特定のサブスクリプションについて示されるリセラー ID に対応します。</p>
-<p>リセラーを表示または更新するには、パートナー センター メニューで <strong>[顧客]</strong> を選び、一覧から顧客を選択します。 顧客メニューの <strong>[サブスクリプション]</strong> を選び、一覧からサブスクリプションを選びます。 
-          <strong>[更新]</strong> を選んで、<strong>[再販業者 (MPN ID)]</strong> を変更します。</p>
+<p>リセラーを表示または更新するには、パートナー センター メニューで <strong>[顧客]</strong> を選び、一覧から顧客を選びます。 顧客メニューで <strong>[サブスクリプション]</strong> を選び、一覧からサブスクリプションを選びます。 <strong>[更新]</strong> を選んで、<strong>[再販業者 (MPN ID)]</strong> を変更します。</p>
 <p>CSP パートナーがお客様に直接サブスクリプションを販売した場合、パートナーの MPN ID が MPN ID とリセラーの MPN ID として 2 か所に表示されます。</p>
 <p>CSP パートナーのリセラーに MPN ID がない場合は、代わりに CSP パートナーの MPN ID がこの値に設定されます。</p>
 <p>CSP パートナーがリセラー ID を削除した場合、この値は -1 に設定されます。</p></td>
@@ -52,7 +53,7 @@ translationtype: HT
 
  
 
-## <a href="" id="licencebasedfiles"></a> ライセンス ベースのファイルのフィールド
+## <a href="" id="licencebasedfiles"></a> ライセンスベースのファイルのフィールド
 
 
 顧客の注文に対する料金を調整するには、調整ファイルの Syndication\_Partner\_Subscription\_Number とパートナー センターのサブスクリプション ID を比較します。
@@ -488,7 +489,7 @@ translationtype: HT
 <p>関連付けられているシートが変更されたときに顧客に払い戻される日割り料金</p>
 </td>
 <td rowspan="8">
-<p>ライセンス ベースのファイルから、<strong>Amount</strong> 列を合計する</p>
+<p>ライセンスベースのファイルから、<strong>Amount</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
@@ -558,7 +559,7 @@ translationtype: HT
 <p>アクティブ化から課金期間の終了までの日割り料金</p>
 </td>
 <td>
-<p>ライセンス ベースのファイルから、<strong>Amount</strong> 列を合計する</p>
+<p>ライセンスベースのファイルから、<strong>Amount</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
@@ -594,7 +595,7 @@ translationtype: HT
 <p>税金を含む、行項目への一部または全部の払戻し</p>
 </td>
 <td>
-<p>ライセンス ベースのファイルから、<strong>TotalForCustomer</strong> 列を合計する</p>
+<p>ライセンスベースのファイルから、<strong>TotalForCustomer</strong> 列を合計する</p>
 <p>使用量ベースのファイルから、<strong>PostTaxTotal</strong> 列を合計する</p>
 </td>
 </tr>
@@ -640,7 +641,7 @@ translationtype: HT
 <tr>
 <td>
 <p><strong>その他の割引</strong></br>
-<em>(ライセンス ベース)</em></p>
+<em>(ライセンスベース)</em></p>
 </td>
 <td>
 <p><em>複数の種類の料金に適用される場合がある</em></p>
@@ -649,7 +650,7 @@ translationtype: HT
 <p>&nbsp;</p>
 </td>
 <td>
-<p>ライセンス ベースのファイルから、<strong>TotalOtherDiscount</strong> 列を合計する</p>
+<p>ライセンスベースのファイルから、<strong>TotalOtherDiscount</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
@@ -664,7 +665,7 @@ translationtype: HT
 <p>税または付加価値税 (VAT)</p>
 </td>
 <td>
-<p>ライセンス ベースのファイルから、<strong>Tax</strong> 列を合計する</p>
+<p>ライセンスベースのファイルから、<strong>Tax</strong> 列を合計する</p>
 <p>使用量ベースのファイルから、<strong>TaxAmount</strong> 列を合計する</p>
 </td>
 </tr>

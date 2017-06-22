@@ -1,29 +1,31 @@
 ---
-title: "プランと価格を確認する | パートナー センター"
-description: "クラウド ソリューション プロバイダー プログラムで利用できるプラン一覧とパートナー向けの価格設定を確認するには、[ダッシュボード] メニューに移動して [料金とプラン] を選びます。"
+title: "プランと料金の確認 | パートナー センター"
+description: "クラウド ソリューション プロバイダー プログラムで利用できるプランの一覧とパートナー向けの料金設定を確認するには、[ダッシュボード] メニューに移動して [料金とプラン] を選びます。"
 ms.assetid: 09521B01-BFDF-42B4-A4C0-039D3AFFF994
 author: MaggiePucciEvans
-ms.openlocfilehash: 683a2e17425b08aa13aebf4a81eaaf10eef0eb97
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: e4217e8cef7067a6917beb86299f9eee9ea6490c
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
-# <a name="see-offers-and-pricing"></a>プランと価格を確認する
+# <a name="see-offers-and-pricing"></a>プランと料金の確認
 
 **適用対象**
 
 -  パートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-クラウド ソリューション プロバイダー プログラムで利用できるプラン一覧とパートナー向けの価格設定を確認するには、[ダッシュボード] メニューに移動して **[料金とプラン]** を選びます。
+クラウド ソリューション プロバイダー プログラムで利用できるプランの一覧とパートナー向けの料金設定を確認するには、[ダッシュボード] メニューに移動して **[料金とプラン]** を選びます。
 
-## <a name="pricing"></a>価格設定
+## <a name="pricing"></a>料金設定
 
 
-価格表は 2 つに分けられています。1 つは Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM を含むライセンス ベースのサービス用で、もう 1 つは Microsoft Azure を含む使用量ベースのサービス用です。
+価格表は 2 つに分けられています。1 つは Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM を含むライセンスベースのサービス用で、もう 1 つは Microsoft Azure を含む使用量ベースのサービス用です。
 
-ライセンス ベースの価格表は毎月更新され、新しい価格は、有効になる 30 日前に発表されます。
+ライセンスベースの料金表は毎月改訂されており、新しい料金は発効日の 30 日前に公開されます。
 
-使用量ベースの価格は動的であり、頻繁に変更されます。
+使用量ベースの価格は変動的であり、頻繁に変更されています。
 
 ## <a name="offers"></a>プラン
 

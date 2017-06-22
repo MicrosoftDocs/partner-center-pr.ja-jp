@@ -1,18 +1,21 @@
 ---
-title: "顧客のアクティビティ ログを表示する | パートナー センター"
+title: "顧客のアクティビティ ログの表示 | パートナー センター"
 description: "アクティビティ ログは、顧客の取引やパートナーによる顧客の管理アクションに関する情報を提供します。"
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-ms.openlocfilehash: 5f6c4eb0574bbe73a41a38a1312f0da4240d531e
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 6033b58f52889f8656b3827a0aaef5525abd3c9d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
-# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログを表示する
+# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログの表示
 
 **適用対象**
 
 -  パートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
+
 
 アクティビティ ログは、顧客の取引やパートナーによる顧客の管理アクションに関する情報を提供します。 取引のログは、サブスクリプションの購入など、取引に関する詳細情報を提供します。 Excel 互換のコンマ区切り値ファイル形式 (.csv) でアクティビティ ログをエクスポートすることもできます。
 
@@ -20,7 +23,7 @@ translationtype: HT
 
 **アクティビティ ログを表示およびエクスポートする**
 
-1.  **[ダッシュ ボード]**メニューの **[アクティビティ ログ]** を選びます。
+1.  **[ダッシュボード]**メニューで **[アクティビティ ログ]** を選びます。
 2.  **[開始]** フィールドと **[終了]** フィールドで、アクティビティ ログの期間を選びます。 アクティビティ ログの既定の設定では、最近 1 か月間のログがエクスポートされます。
 
     各アクティビティ ログには、一覧に表示されている顧客の **[サブスクリプション]** ページへのリンクが示されます。

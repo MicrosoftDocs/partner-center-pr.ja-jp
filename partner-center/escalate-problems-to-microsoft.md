@@ -1,20 +1,22 @@
 ---
-title: "Microsoft に問題をエスカレートする | パートナー センター"
+title: "マイクロソフトへの問題のエスカレート | パートナー センター"
 description: "貴社は、お客様に代わって問題を解決することが求められます。"
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-ms.openlocfilehash: 51e095c5f0b7c0c8c1305905ccdb4b20683d386b
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 1875758bbaeb1b19efe0132d7b4157586479a81d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
-# <a name="escalate-problems-to-microsoft"></a>Microsoft に問題をエスカレートする
+# <a name="escalate-problems-to-microsoft"></a>マイクロソフトへの問題のエスカレート
 
 **適用対象**
 
 -  パートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-貴社は、お客様に代わって問題を解決することが求められます。 最初に、[サービスの状態を確認](check-service-health.md)して、既存の記録済みの問題に該当するものがないか確認します。 これによってお客様の問題に対応できない場合、管理者特権を使ってソフトウェア、設定、構成のトラブルシューティングを行うことができます。
+貴社は、お客様に代わって問題を解決することが求められます。 最初に、[サービスの正常性を確認](check-service-health.md)して、既存の記録済みの問題に該当するものがないか確認します。 これによってお客様の問題に対応できない場合、管理者特権を使ってソフトウェア、設定、構成のトラブルシューティングを行うことができます。
 
 ただし、修正のために Microsoft に渡す必要があるいくつかの問題のカテゴリがあります。
 
@@ -28,7 +30,7 @@ translationtype: HT
 
 -   マルチテナントの影響を持つ地域の問題
 
-Microsoft からヘルプを受けるには、サポート要求をパートナー センターに送信します。 問題が解決したら、お客様に連絡してループを閉じる必要があります。 「[お客様の代理で問題を報告する](report-problems-on-behalf-of-a-customer.md)」をご覧ください。
+Microsoft からヘルプを受けるには、サポート要求をパートナー センターに送信します。 問題が解決したら、お客様に連絡してループを閉じる必要があります。 「[顧客の代理としての問題の報告](report-problems-on-behalf-of-a-customer.md)」をご覧ください。
 
  
 

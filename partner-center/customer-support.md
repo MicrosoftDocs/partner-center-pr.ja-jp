@@ -3,18 +3,20 @@ title: "カスタマー サポート | パートナー センター"
 description: "貴社はお客様にとって最初の連絡ポイントであり、次のような技術的なサポート サービスやアカウントのサポート サービスをお客様に提供することが求められています。課金とサブスクリプションのサポート。プロビジョニング/展開のヘルプ、およびソフトウェアの構成。パフォーマンスの問題、サービスの可用性の問題、クライアント接続の問題、不足しているか不適切に構成されている設定によるクライアント デスクトップの問題、不完全なソフトウェア統合、アクセス許可の問題、またはその他の展開の問題の解決。サービスとソフトウェアの更新プログラムの管理。利用に関する質問への回答。クラウド ソリューション プロバイダーは、お客様がサポートを受けるための明確な説明を提供する必要があります。 24 時間体制の電話サポートを提供しない場合は、お客様へのオプションを説明するためのサービス レベル アグリーメントを提供する必要があります。 Microsoft は、CSP のお客様に課金のサポートを提供いたしません。"
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
 # <a name="customer-support"></a>カスタマー サポート
 
 **適用対象**
 
 -  パートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-貴社はお客様にとって最初の連絡ポイントであり、次のような技術的なサポート サービスやアカウントのサポート サービスをお客様に提供することが求められています。
+パートナーはお客様にとって最初の連絡ポイントであり、次のような技術的なサポート サービスやアカウントのサポート サービスをお客様に提供することが求められています。
 
 -   課金とサブスクリプションのサポート
 
@@ -36,15 +38,15 @@ translationtype: HT
 ## <a name="customer-support"></a>カスタマー サポート
 
 
-[課金のサポートを提供する](provide-billing-support.md)
+[請求に関するサポートの提供](provide-billing-support.md)
 
-[テクニカル サポートを提供する](provide-technical-support.md)
+[テクニカル サポートの提供](provide-technical-support.md)
 
-[Microsoft からお客様への通信](customer-communication-from-microsoft.md)
+[マイクロソフトから顧客への連絡](customer-communication-from-microsoft.md)
 
-[お客様のセルフ サポート](customer-self-support.md)
+[顧客によるセルフ サポート](customer-self-support.md)
 
-[Microsoft に問題をエスカレートする](escalate-problems-to-microsoft.md)
+[マイクロソフトへの問題のエスカレート](escalate-problems-to-microsoft.md)
 
  
 

@@ -1,28 +1,30 @@
 ---
-title: "Microsoft によるサポート | パートナー センター"
-description: "Microsoft サービスやパートナー センターに関する問題が発生した場合は、Microsoft にエスカレートしてサポートを依頼し、問題が解決されるまで追跡できます。"
+title: "マイクロソフトによるサポート | パートナー センター"
+description: "Microsoft サービスやパートナー センターで問題が発生した場合は、マイクロソフトにエスカレートしてサポートを依頼し、解決まで問題を追跡できます。"
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 66bb02c8ef2677c8f962785f415739c0ea3c9311
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
-# <a name="support-from-microsoft"></a>Microsoft によるサポート
+# <a name="support-from-microsoft"></a>マイクロソフトによるサポート
 
 **適用対象**
 
 -  パートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-Microsoft サービスやパートナー センターに関する問題が発生した場合は、Microsoft にエスカレートしてサポートを依頼し、問題が解決されるまで追跡できます。
+Microsoft サービスやパートナー センターで問題が発生した場合は、マイクロソフトにエスカレートしてサポートを依頼し、解決まで問題を追跡できます。
 
 [サービスの正常性の確認](check-service-health.md)
 
 [パートナー センターに関する問題の報告](report-problems-with-partner-center.md)
 
-[顧客の代理で問題を報告する](report-problems-on-behalf-of-a-customer.md)
+[顧客の代理としての問題の報告](report-problems-on-behalf-of-a-customer.md)
 
-[Microsoft の API で自動サービス通知を取得する](get-automated-service-notifications-with-our-apis.md)
+[マイクロソフトウェアの API による自動サービス通知の取得](get-automated-service-notifications-with-our-apis.md)
 
  
 

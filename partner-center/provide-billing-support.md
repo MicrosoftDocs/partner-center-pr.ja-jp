@@ -1,20 +1,22 @@
 ---
-title: "課金のサポートを提供する | パートナー センター"
-description: "貴社は、お客様との課金関係を維持し、お客様からの課金関連の質問をすべてサポートします。"
+title: "請求に関するサポートの提供 | パートナー センター"
+description: "パートナーは、顧客との請求関係に責任を負い、請求に関する顧客からのすべての質問に十分に対応する必要があります。"
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
-# <a name="provide-billing-support"></a>課金のサポートを提供する
+# <a name="provide-billing-support"></a>請求に関するサポートの提供
 
 **適用対象**
 
 -  パートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-貴社は、お客様との課金関係を維持し、お客様からの課金関連の質問をすべてサポートします。
+パートナーは、顧客との請求関係に責任を負い、請求に関する顧客からのすべての質問に十分に対応する必要があります。
 
 ## <a href="" id="microsoftresources"></a>Microsoft のリソース
 
@@ -34,12 +36,12 @@ translationtype: HT
 ## <a href="" id="billingdisputes"></a>課金の係争
 
 
--   [お客様の代理で問題を報告し](report-problems-on-behalf-of-a-customer.md)、請求に関する疑問を提起するか、係争を起こします。
+-   [お客様の代理で問題を報告](report-problems-on-behalf-of-a-customer.md)し、請求に関する疑問を提起するか、係争を起こします。
 
 ## <a href="" id="escalatingissues"></a>問題のエスカレート
 
 
--   Microsoft のサポートが必要な場合は、お客様に代わってパートナー サポート チャネルを通じて [Microsoft に問題をエスカレートします](escalate-problems-to-microsoft.md)。
+-   Microsoft のサポートが必要な場合は、お客様に代わってパートナー サポート チャネルを通じて [マイクロソフトに問題をエスカレート](escalate-problems-to-microsoft.md)します。
 -   問題が解決したら、お客様に連絡してループを閉じる必要があります。
 
  

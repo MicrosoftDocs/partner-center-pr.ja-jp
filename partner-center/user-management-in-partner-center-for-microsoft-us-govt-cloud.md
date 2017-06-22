@@ -2,9 +2,10 @@
 title: "米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理 | 米国政府機関向け Microsoft Cloud のパートナー センター"
 description: "個人データの収集と使用に適用される国、地域、および業界固有の要件に準拠するためのユーザー管理機能が、米国政府機関向け Microsoft Cloud のパートナー センターでは利用できません。 代わりに、米国政府機関向け Microsoft Cloud の Azure Portal でユーザーを追加および管理します。"
 author: MaggiePucciEvans
-ms.openlocfilehash: 656f670433207aefc0762db6fd968c4423bb56c2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 03941b023a59a004589854fdde63070971a89d3d
+ms.sourcegitcommit: f5cd8c7b90920ca30be0a16bbe008fbf499a79c7
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理
 
@@ -14,11 +15,12 @@ translationtype: HT
 
 次に示すパートナー センターのタスクは、米国政府機関向け Microsoft Cloud の Azure 管理ポータルを使って管理されます。
 
-パートナー ユーザーの管理
+- パートナー ユーザーの管理
 
-顧客のユーザーとライセンスの管理
+- 顧客のユーザーとライセンスの管理
 
-ユーザー パスワードのリセット
+- ユーザー パスワードのリセット
+
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud の Azure Portal でユーザーを管理する方法
 
@@ -39,4 +41,4 @@ translationtype: HT
 
 -  [**米国政府機関向け Microsoft Cloud のパートナー センター**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

@@ -1,22 +1,24 @@
 ---
-title: "請求書を読み取る | パートナー センター"
-description: "請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 請求書は、パートナー センターのダッシュボードで利用できます。"
+title: "請求書の記載事項 | パートナー センター"
+description: "請求書には、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されます。 請求書は、パートナー センターのダッシュボードで利用できます。"
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d51bb3d8cf637e50e47c211c00d90b14e55a1c6d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
-# <a name="read-your-bill"></a>請求書を読み取る
+# <a name="read-your-bill"></a>請求書の記載事項
 
 **適用対象**
 
 -  パートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 請求書は、パートナー センターのダッシュボードで利用できます。
+請求書には、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されます。 請求書は、パートナー センターのダッシュボードで利用できます。
 
-料金の項目別明細については、関連する調整ファイルを使用します。 調整ファイルには、顧客への請求書の作成に使用される顧客 ID とサブスクリプション ID が含まれます。 詳しくは、「[調整ファイルの使用方法](use-the-reconciliation-files.md)」をご覧ください。
+料金の項目別明細については、関連する調整ファイルを使用します。 調整ファイルには、顧客への請求書の作成に使用される顧客 ID とサブスクリプション ID が含まれます。 詳しくは、「[調整ファイルの使用](use-the-reconciliation-files.md)」をご覧ください。
 
 ## <a name="invoice-file-definitions"></a>請求書ファイルの定義
 
@@ -45,7 +47,7 @@ translationtype: HT
 </tr>
 <tr class="odd">
 <td>当月サービス利用料金</td>
-<td>購入した使用量ベースのライセンスに対する定額の月額 (または年額) 料金で、サービスの前に課金されます。 この数値は、ライセンス ベースの調整ファイルの &quot;Subtotal&quot; 列 (T 列) にあるすべての料金の合計です。</td>
+<td>購入した使用量ベースのライセンスに対する定額の月額 (または年額) 料金で、サービスの前に課金されます。 この数値は、ライセンスベースの調整ファイルの &quot;Subtotal&quot; 列 (T 列) にあるすべての料金の合計です。</td>
 </tr>
 <tr class="even">
 <td>利用料金</td>
@@ -64,7 +66,7 @@ translationtype: HT
 <td>請求書の 2 ページ目から始まる明細セクションに示される、現在の合計料金に対する税金の合計。 この数値は、以下の列にあるすべての料金の合計です。
 <ul>
 <li>使用量ベースの調整ファイルの &quot;TaxAmount&quot; 列 (AA 列)、および</li>
-<li>ライセンス ベースのファイルの &quot;Tax&quot; 列 (U 列)。</li>
+<li>ライセンスベースのファイルの &quot;Tax&quot; 列 (U 列)。</li>
 </ul></td>
 </tr>
 <tr class="even">

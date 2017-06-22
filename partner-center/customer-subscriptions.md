@@ -1,13 +1,14 @@
 ---
-title: "お客様のサブスクリプション | パートナー センター"
-description: "パートナーは、パートナー センターからお客様にサブスクリプションを販売し、お客様を管理できます。"
+title: "顧客のサブスクリプション | パートナー センター"
+description: "パートナーは、パートナー センターから顧客にサブスクリプションを販売し、販売したサブスクリプションを管理できます。"
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 63a4b666447d3775d9e5943419e236201f097a22
+ms.sourcegitcommit: dab14e98f39e14025625a366ffcdd34c8c744376
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
-# <a name="customer-subscriptions"></a>お客様のサブスクリプション
+# <a name="customer-subscriptions"></a>顧客のサブスクリプション
 
 **適用対象**
 
@@ -15,21 +16,23 @@ translationtype: HT
 
 パートナー センターからお客様にサブスクリプションを販売し、お客様を管理できます。 
 
-[新しいサブスクリプションを作成する](create-a-new-subscription.md)
+[新しいサブスクリプションの作成](create-a-new-subscription.md)
 
-[ユーザーにライセンスを割り当てる](assign-licenses-to-users.md)
+[ユーザーへのライセンスの割り当て](assign-licenses-to-users.md)
 
-[複数のユーザーにライセンスを割り当てる、または取り消す](bulk-license-provisioning-for-multiple-users.md)
+[複数ユーザーへのライセンスの割り当てまたは取り消し](bulk-license-provisioning-for-multiple-users.md)
 
-[サブスクリプションを中断する](suspend-a-subscription.md)
+[サブスクリプションの中断](suspend-a-subscription.md)
 
-[既存のサブスクリプションにライセンスまたはサービスを追加する](add-licenses-or-services-to-an-existing-subscription.md)
+[既存のサブスクリプションへのライセンスまたはサービスの追加](add-licenses-or-services-to-an-existing-subscription.md)
 
-[Dynamics AX のサブスクリプションを Dynamics 365 に移行する](manual-subscription-migration.md)
+[Dynamics AX サブスクリプションの Dynamics 365 への移行](manual-subscription-migration.md)
 
-[特別価格の適用を受ける](get-special-pricing-for-offers.md)
+[Office 365 Enterprise E4 サブスクリプションの Office 365 の新しいバージョンへの移行](migrate-office365-e4-subscriptions-to-newer-versions.md)
 
-[導入実績を高めて満足度を向上させる](increasing-adoption-and-satisfaction.md)
+[特別価格の利用](get-special-pricing-for-offers.md)
+
+[導入実績と満足度の向上](increasing-adoption-and-satisfaction.md)
 
 [CSP の地域的承認の概要](regional-authorization-overview.md)
 
