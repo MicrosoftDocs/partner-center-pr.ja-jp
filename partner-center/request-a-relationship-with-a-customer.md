@@ -3,11 +3,11 @@ title: "顧客との再販業者関係の要求 | パートナー センター"
 description: "関係の要求は、マルチパートナー シナリオとマルチチャンネル シナリオで使用されます。 また、パートナーの代理管理者特権が顧客によって削除され、パートナーがプロビジョニングやサポートを提供するために、管理者特権を復元する必要がある場合にも使用できます。"
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 4497163d59cce019936ce054eb3e3911ea44ce96
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 06/14/2017
 ---
 # <a name="connect-with-customers-in-partner-center"></a>パートナー センターでの顧客との連携
 
@@ -40,13 +40,6 @@ ms.lasthandoff: 06/09/2017
 >**重要**<br>
 顧客は、サービスの管理者ポータルで、管理者のアクセス許可の割り当てを変更したり、削除したりすることができます。 ただし顧客が管理者のアクセス許可の割り当てを変更したり、削除したりした後も、パートナーが顧客との契約について再交渉しない限り、また再交渉するまで、パートナーは引き続きカスタマー サポートを提供し、クラウド リセラー契約の条項を遵守する責任を負います。 この状況で顧客にサポートが必要となった場合、パートナーは顧客に代わって Microsoft サポートにサービス要求を求めることができます。
 
+## <a name="related-topics"></a>関連トピック
 
-
-
-
- 
-
- 
-
-
-
+[関係の削除](remove-a-relationship.md)

@@ -3,10 +3,11 @@ title: "顧客のサブスクリプション | パートナー センター"
 description: "パートナーは、パートナー センターから顧客にサブスクリプションを販売し、販売したサブスクリプションを管理できます。"
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-ms.openlocfilehash: 63a4b666447d3775d9e5943419e236201f097a22
-ms.sourcegitcommit: dab14e98f39e14025625a366ffcdd34c8c744376
+ms.openlocfilehash: ffc2189f9c5a8d5df3b07707c23f540142917499
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
 ms.translationtype: HT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 06/14/2017
 ---
 # <a name="customer-subscriptions"></a>顧客のサブスクリプション
 
@@ -23,6 +24,8 @@ ms.contentlocale: ja-JP
 [複数ユーザーへのライセンスの割り当てまたは取り消し](bulk-license-provisioning-for-multiple-users.md)
 
 [サブスクリプションの中断](suspend-a-subscription.md)
+
+[再販業者または顧客との関係の削除](remove-a-relationship.md)
 
 [既存のサブスクリプションへのライセンスまたはサービスの追加](add-licenses-or-services-to-an-existing-subscription.md)
 

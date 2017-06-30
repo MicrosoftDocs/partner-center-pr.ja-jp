@@ -2,10 +2,11 @@
 title: "米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理 | 米国政府機関向け Microsoft Cloud のパートナー センター"
 description: "個人データの収集と使用に適用される国、地域、および業界固有の要件に準拠するためのユーザー管理機能が、米国政府機関向け Microsoft Cloud のパートナー センターでは利用できません。 代わりに、米国政府機関向け Microsoft Cloud の Azure Portal でユーザーを追加および管理します。"
 author: MaggiePucciEvans
-ms.openlocfilehash: 03941b023a59a004589854fdde63070971a89d3d
-ms.sourcegitcommit: f5cd8c7b90920ca30be0a16bbe008fbf499a79c7
+ms.openlocfilehash: 96b6bc85a1b6d136814792a2cf138d51a263ef0a
+ms.sourcegitcommit: 22ec01fc379e4c98189f5e1ebf5437b5b16d05de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 06/15/2017
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理
 
@@ -13,18 +14,18 @@ ms.contentlocale: ja-JP
 
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
-次に示すパートナー センターのタスクは、米国政府機関向け Microsoft Cloud の Azure 管理ポータルを使って管理されます。
+次に示すタスクは、米国政府機関向け Microsoft Cloud の Azure 管理ポータルで管理されます。
 
 - パートナー ユーザーの管理
 
 - 顧客のユーザーとライセンスの管理
 
-- ユーザー パスワードのリセット
+- ユーザーのパスワードのリセット
 
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud の Azure Portal でユーザーを管理する方法
 
-米国政府機関向け Microsoft Cloud のパートナー センターにサインインしている場合は、サインインし直さなくても米国政府機関向け Microsoft Cloud の Azure Portal を開くことができます。 ただし、米国政府機関向け Microsoft Cloud の Azure Portal に直接サインインする必要がある場合は、https://portal.azure.us/ に移動します。 
+米国政府機関向け Microsoft Cloud のパートナー センターにサインインしている場合は、サインインし直さなくても米国政府機関向け Microsoft Cloud の Azure Portal を開くことができます。 ただし、米国政府機関向け Microsoft Cloud の Azure Portal に直接サインインする必要がある場合は、https://portal.azure.us/ に移動し、米国政府機関向け Microsoft Cloud アカウントの Azure AD テナントで使用するグローバル管理者の資格情報を使ってサインインします。
 
 米国政府機関向け Microsoft Cloud の Azure Portal に正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
 
