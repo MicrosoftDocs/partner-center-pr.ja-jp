@@ -3,11 +3,11 @@ title: "紹介案件への対応 | パートナー センター"
 description: "パートナー センターを通じて、紹介案件を評価し、交渉して、対応します。"
 author: KPacquer
 keywords: "紹介, RFI, パートナーの検索"
-ms.openlocfilehash: ec859a9cac94b3e4b3571ba95e2acc0de9a842b1
-ms.sourcegitcommit: 5216c9d8a5aa1cbe825cefe27d35e3f380fa90b4
+ms.openlocfilehash: 4172cc60825d445aa9b119780d22002c6c2ea189
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2017
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>パートナー センターでの紹介案件への対応
 
@@ -23,7 +23,7 @@ ms.lasthandoff: 05/19/2017
 
 *  マイクロソフトのマーケティング活動
 *  マイクロソフト社内の販売/サービス担当者
-*  お客様による**[パートナーの検索]**ツールを使った検索
+*  お客様は、**[パートナーの検索](https://partnercenter.microsoft.com/pcv/search)**ツールを使って検索します。
 
 お客様は興味のあるパートナーに関する情報請求 (RFI) を提出します。 
 

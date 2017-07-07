@@ -1,30 +1,30 @@
 ---
-title: "Windows Autopilot でデバイスのセットアップを効率化するためのゼロタッチ展開プロファイルの追加 |パートナー センター"
-description: "Windows Autopilot でデバイスのセットアップを効率化するためのパートナー センターのゼロタッチ展開プロファイルの追加 |パートナー センター"
+title: "Windows Autopilot でデバイスのセットアップを効率化する | パートナー センター"
+description: "Windows Autopilot でデバイスのセットアップを効率化するためにパートナー センターの Windows AutoPilot プロファイルを追加する"
 author: KPacquer
-keywords: "autopilot、windows autopilot、microsoft autopilot、ztd、ゼロタッチ展開、oobe、ログイン画面"
+keywords: "autopilot、windows autopilot、microsoft autopilot、ゼロタッチ展開、oobe、ログイン画面"
 robots: NOINDEX,NOFOLLOW
-ms.openlocfilehash: c51d9204b352b548a4095e96944aacdbcde97fa2
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.openlocfilehash: aa650ee5f2848694fe44d4751d52f8014e0d22a8
+ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 07/01/2017
 ---
-# <a name="add-a-zero-touch-deployment-profile-to-simplify-device-setup-with-windows-autopilot"></a>Windows Autopilot でデバイスのセットアップを効率化するためのゼロタッチ展開プロファイルの追加
+# <a name="simplify-device-setup-with-windows-autopilot"></a>Windows Autopilot でデバイスのセットアップを効率化する 
 
-Windows Autopilot によって、新しい Windows 10 Pro デバイスのセットアップを、最初のブートからほんの数ステップで効率的に実行し、セキュリティで保護することができます。 
+Windows Autopilot によって、新しい Windows 10 Pro デバイスのセットアップを、最初のブートからほんの数ステップで効率的に実行し、セキュリティで保護することができます。 詳しくは、[Windows AutoPilot の概要に関するページ](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)ご覧ください。
 
 ## <a name="features"></a>機能
 
 *  デバイスをセットアップするエンド ユーザーの**ローカル管理者のアクセス許可を無効にします**。
 *  **組織のログイン ページを表示します**。 組織では、デバイスを作業デバイスとして追加し、デバイスを Azure Active Directory に追加するログオン ページがあらかじめ定義できます。
-*  **デバイスを MDM に登録します**。たとえば、OOBE が完了した後の Microsoft Intune。
-*  ゼロタッチ展開 (ZTD) プロフィルを使用して、必要なステップと意思決定のみが実行されるように **out-of-box experience (OOBE) を効率化します**。 
+*  **デバイスを Mobile Device Manager (MDM) に登録します**。たとえば、OOBE が完了した後の Microsoft Intune。
+*  Windows AutoPilot 展開プロフィルを使用して、必要なステップと意思決定のみが実行されるように **out-of-box experience (OOBE) を効率化します**。 
 
 ## <a name="requirements"></a>要件
 
 *  Windows 10 Pro Creators Update (バージョン 1703 以降) と共にプリインストールされているデバイス
-*  ハードウェア ハッシュと呼ばれるデバイス識別子 (128 HWH または 4 k HWH)。通常、OEM によって提供されます。 識別子を使用して、パートナー センターで組織プロファイルを割り当てます。
+*  ハードウェア ハッシュと呼ばれるデバイス識別子 (128 HWH または 4 k HWH)。通常、OEM によって提供されます。 識別子を使用して、パートナー センターで組織プロファイルを割り当てます。 2017 年 8 月以降、ハードウェア ハッシュは必要なくなります。 
 *  デバイスは、インターネットにアクセスできる必要があります。 デバイスが接続できない場合、既定の Windows の out-of-box experience (OOBE) 画面が表示されます。
 *  デバイスを MDM に登録するには、Azure Active Directory Premium が必要です。
 
@@ -33,9 +33,9 @@ Windows Autopilot によって、新しい Windows 10 Pro デバイスのセッ�
 組織固有のページを追加するには、組織の [Azure AD ディレクトリ](https://go.microsoft.com/fwlink/?linkid=848958)にデバイスを追加し、ログイン ページを作成します。
 
 
-## <a name="remove--windows-pages-from-oobe-with-a-zero-touch-deployment-ztd-profile"></a>ゼロタッチ導入 (ZTD) プロファイルを使用して OOBE から Windows のページを削除する
+## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 展開プロファイルを使用して OOBE から Windows のページを削除する
 
-### <a name="examples-of-settings-in-a-ztd-profile"></a>ZTD プロファイルの設定の例
+### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 展開プロファイルの設定の例
 *  セットアップでプライバシー設定をスキップする
 *  セットアップでローカル管理者アカウントを無効にする
 *  セットアップで自動的にページをスキップする
@@ -44,21 +44,23 @@ Windows Autopilot によって、新しい Windows 10 Pro デバイスのセッ�
 
 ### <a name="add-devices-and-apply-a-profile"></a>デバイスを追加し、プロファイルを適用する
 
-パートナー センターで、ZTD プロファイルを作成し、デバイスの一覧にプロファイルを適用できます。
+パートナー センターで、Windows AutoPilot 展開プロファイルを作成し、デバイスの一覧にプロファイルを適用できます。
 
 デバイスを構成するには、パートナー センターにデバイスの一覧をアップロードし、デバイスに適用するプロファイルを作成して適用します。
 
 1.  パートナー センターにデバイスの一覧を追加します  (販売エージェントと管理エージェントが、パートナー センターにデバイスの一覧を追加するアクセス権を持っています)。
 
-    a.   新しいデバイスの一覧を含む .csv ファイルを OEM に要求します。 このファイルには、シリアル番号、製品 ID、OEM Activation 3.0 ツールから生成されたデバイス識別子が含まれています。 
+    a.  [Windows AutoPilot の概要に関するページ](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)にあるトピックから、PowerShell スクリプトを使って .csv ファイルを作成します。 この .csv ファイルには、シリアル番号、OEM 名、モデル名、製品 ID、デバイス識別子などのデバイス情報が含まれています。 
 
-    b.   パートナー センターのダッシュボードから、**[顧客]** に移動してデバイスを受け取る顧客を選択し、**[デバイス]、[デバイスの追加]** を選択します。
+    b.  パートナー センターのダッシュボードから、**[顧客]** に移動してデバイスを受け取る顧客を選択し、**[デバイス]、[デバイスの追加]** を選択します。
 
     c.   デバイスのバッチに名前を付けます (例: "Contoso Sales Department PCs – April 2017 order")。 
 
     d.   **[参照]** をクリックし、デバイス情報ファイルを選択して **[検証]** をクリックします。
 
-2.  デバイスに適用できるプロファイルを作成します  (パートナー センターで、プロファイルを作成して適用するアクセス権を持つのは管理エージェントのみです)。
+    **注:** .csv ファイルをアップロードしようとした後にエラー メッセージが表示される場合は、ファイルの形式を確認します。 8 月以降は、ハードウェア ハッシュのみを使う、OEM 名、シリアル番号、モデルを列の順序で使う、または Windows 製品 ID を使うことができます。 **[デバイスの追加]** の横のリンクから入手できる .csv ファイルを使うこともできます。
+
+2.  デバイスに適用できるプロファイルを作成します。 (パートナー センターで、プロファイルを作成して適用するアクセス権を持つのは管理エージェントのみです)。
 
     a.   **[デバイス]** で、**[新しいプロファイルの追加]** をクリックします。
 
@@ -94,6 +96,4 @@ Windows Autopilot によって、新しい Windows 10 Pro デバイスのセッ�
 
 3. 削除するプロファイルに移動し、プロファイルを削除します。 プロファイルは、すべてのデバイスから削除されます。
 
-
 **[デバイス]** で、プロファイルを選択します。 ここから、既存の設定を変更することができます。
-

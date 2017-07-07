@@ -37,7 +37,6 @@
 ## [ユーザーへのライセンスの割り当て](assign-licenses-to-users.md)
 ## [複数ユーザーへのライセンスの割り当てまたは取り消し](bulk-license-provisioning-for-multiple-users.md)
 ## [サブスクリプションの中断](suspend-a-subscription.md)
-## [再販業者または顧客との関係の削除](remove-a-relationship.md)
 ## [既存のサブスクリプションへのライセンスまたはサービスの追加](add-licenses-or-services-to-an-existing-subscription.md)
 ## [Dynamics AX サブスクリプションの Dynamics 365 への移行](manual-subscription-migration.md)
 ## [Office 365 Enterprise E4 サブスクリプションの Office 365 の新しいバージョンへの移行](migrate-office365-e4-subscriptions-to-newer-versions.md)

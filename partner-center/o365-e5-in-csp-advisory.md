@@ -3,9 +3,11 @@ title: "CSP で Office 365 E5 の単一の SKU を利用する | パートナー
 description: "Office 365 Enterprise E5 の単一の SKU は CSP で利用することができ、この SKU では PSTN 会議も対象となります。"
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 76ca9b8599862c0b17a1281aa3e420ecb3c26ea2
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 パートナー アドバイザリ: CSP で Office 365 E5 の単一の SKU を利用する
 
@@ -27,15 +29,15 @@ translationtype: HT
 
 お客様の税務部門や法務部門に対して、PSTN サービスの規制、税金、手数料などの義務に関する組織の責任を理解するように指示してください。
 
-## <a name="details"></a>詳細
+## <a name="details"></a>詳細情報
 
 
-米国およびプエルトリコでは、Skype for Business PSTN サービスは、特別な税金や法的要件の対象となっています。 Microsoft では、PSTN サービスを税込みで価格設定しています。 PSTN に適用される税金や規制は、Office 365 パートナーが新しく統合された Office 365 E5 プランを扱う場合に影響します。 パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。
+米国、プエルトリコ、カナダでは、Skype for Business PSTN サービスは、特別な税金や法的要件の対象となっています。 Microsoft では、PSTN サービスを税込みで価格設定しています。 PSTN に適用される税金や規制は、Office 365 パートナーが新しく統合された Office 365 E5 プランを扱う場合に影響します。 パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。
 
 ## <a name="price-list-and-catalog-availability"></a>価格表とカタログの利用
 
 
-多くのパートナーは、自社の発注管理システムを API を使用して Microsoft Commerce Platform と統合するために、長いリード タイムが必要になります。 Office 365 Enterprise E5 の単一の SKU をシステムで処理する準備が整う前に、パートナーが E5 に関する営業案件を確実にクローズできるようにするために、2017 年 7 月 1 日まで次の SKU が CSP の価格表に残ります。
+多くのパートナーは、自社の発注管理システムを API を使用して Microsoft Commerce Platform と統合するために、長いリード タイムが必要になります。 Office 365 Enterprise E5 の単一の SKU をシステムで処理する準備が整う前に、パートナーが E5 に関する営業案件を確実にクローズできるようにするために、2017 年 7 月 1 日まで次の SKU が CSP の価格表に残ります。 
 
 -   [Office 365 Enterprise E5 (PSTN 会議なし)]
 -   [PSTN 会議アドオンの SKU (PSTN に対応した市場の場合)]
@@ -53,6 +55,7 @@ translationtype: HT
 **プラン ID**
 
 **単価**
+
 
 **ERP**
 

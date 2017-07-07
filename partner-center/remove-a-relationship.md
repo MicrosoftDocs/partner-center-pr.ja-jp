@@ -2,11 +2,12 @@
 title: "再販業者または顧客との関係の削除 | パートナー センター"
 description: "関係を削除すると、パートナー センターのビューから終了したすべてのビジネス関係が削除されます。"
 author: KPacquer
-ms.openlocfilehash: d6528a2910de0400a70f43ea1a02a79e32467fa8
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+robots: noindex,nofollow
+ms.openlocfilehash: 979491e1c2cf90d2e7ca5c02d2bc497675c53dba
+ms.sourcegitcommit: 50faeddcd65ae8aa7f9212bbf134b9fbece41c8c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 06/27/2017
 ---
 # <a name="remove-a-relationship-with-a-reseller-or-a-customer"></a>再販業者または顧客との関係の削除
 

@@ -3,10 +3,11 @@ title: "請求書の記載事項 | パートナー センター"
 description: "請求書には、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されます。 請求書は、パートナー センターのダッシュボードで利用できます。"
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: d51bb3d8cf637e50e47c211c00d90b14e55a1c6d
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 65c3777c0bd35933f2622fc0de105c051001974e
+ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
 ms.translationtype: HT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 07/01/2017
 ---
 # <a name="read-your-bill"></a>請求書の記載事項
 
@@ -83,7 +84,7 @@ ms.contentlocale: ja-JP
 </tr>
 <tr class="odd">
 <td>課金期間</td>
-<td>CSP パートナーは月ごとに請求されます。</td>
+<td>CSP パートナー様は、月 1 回または年 1 回請求されます。</td>
 </tr>
 <tr class="even">
 <td>請求書作成日</td>
