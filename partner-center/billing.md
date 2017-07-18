@@ -1,57 +1,58 @@
 ---
 title: "請求 | パートナー センター"
-Description: "貴社は、クラウド ソリューション プロバイダー パートナーとして、顧客のライセンス ベースおよび使用量ベースのサブスクリプションの料金を 60 日後に Microsoft に支払います。"
+Description: "クラウド ソリューション プロバイダー パートナーは、顧客のライセンスベースおよび使用量ベースのサブスクリプション料金を 60 日後にマイクロソフトに支払います。"
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
-ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-
+ms.openlocfilehash: 5ff67803ae0e8e18dad7ea41ec37cfd008a6554d
+ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/01/2017
 ---
+# <a name="billing"></a><span data-ttu-id="7efd4-103">請求</span><span class="sxs-lookup"><span data-stu-id="7efd4-103">Billing</span></span>
 
-# 請求
+**<span data-ttu-id="7efd4-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="7efd4-104">Applies to</span></span>**
 
-**適用対象**
+-  <span data-ttu-id="7efd4-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="7efd4-105">Partner Center</span></span>
+-  <span data-ttu-id="7efd4-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="7efd4-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="7efd4-107">Microsoft Cloud ドイツのパートナー センター</span><span class="sxs-lookup"><span data-stu-id="7efd4-107">Partner Center for Microsoft Cloud Germany</span></span>
 
--  パートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+<span data-ttu-id="7efd4-108">クラウド ソリューション プロバイダー パートナーは、顧客のライセンスベースおよび使用量ベースのサブスクリプション料金を 60 日後にマイクロソフトに支払います。</span><span class="sxs-lookup"><span data-stu-id="7efd4-108">As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.</span></span>
 
-貴社は、クラウド ソリューション プロバイダー パートナーとして、顧客のライセンス ベースおよび使用量ベースのサブスクリプションの料金を 60 日後に Microsoft に支払います。
+<span data-ttu-id="7efd4-109">請求書については、**[ダッシュボード]** メニューで **[請求]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-109">For your bill, go to the **Dashboard** menu, then select **Billing**.</span></span> <span data-ttu-id="7efd4-110">この請求ページには、請求の履歴と傾向、当月の支払い残高、請求書や調整ファイルへのリンク、前回のお支払いが表示されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-110">This billing page shows your billing history and trend, the balance due for the current month, links to your invoice and reconciliation files, and your most recent payment.</span></span>
 
-請求書については、**[ダッシュボード]** メニューの **[請求]** を選びます。 この請求ページには、請求の履歴と傾向、当月の支払い残高、請求書や調整ファイルへのリンク、前回のお支払いが表示されます。
+-   <span data-ttu-id="7efd4-111">Microsoft では、貴社独自の請求方法に関する要件や条件を定めていません。</span><span class="sxs-lookup"><span data-stu-id="7efd4-111">Microsoft doesn't have any requirements or conditions about how you handle your own invoicing.</span></span>
+-   <span data-ttu-id="7efd4-112">顧客の使用量を判断するには、調整ファイル内で顧客 ID/顧客名とその他の該当するフィールドを使います。</span><span class="sxs-lookup"><span data-stu-id="7efd4-112">To determine customers' usage, use the customer ID/name and other relevant fields within the reconciliation files.</span></span>
+-   <span data-ttu-id="7efd4-113">貴社が提供するサービスと製品に対して、独自の料金や手数料を追加します。</span><span class="sxs-lookup"><span data-stu-id="7efd4-113">Add your own fees and charges for services and products that you provide.</span></span>
+-   <span data-ttu-id="7efd4-114">すべての料金について単一の請求書を顧客に送ります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-114">Send a single bill for all charges to your customer.</span></span>
 
--   Microsoft では、貴社独自の請求方法に関する要件や条件を定めていません。
--   顧客の使用量を判断するには、調整ファイル内で顧客 ID/顧客名とその他の該当するフィールドを使います。
--   貴社が提供するサービスと製品に対して、独自の料金や手数料を追加します。
--   すべての料金について単一の請求書を顧客に送ります。
-
-## 請求
-
-
-[請求書を読み取る](read-your-bill.md)
-
-[調整ファイルを使う](use-the-reconciliation-files.md)
-
-[税金と税金の除外](tax-and-tax-exemptions.md)
-
-[顧客向けに Azure の支出の予算を設定する](set-an-azure-spending-budget-for-your-customers.md)
-
-[一般的な課金シナリオ](common-billing-scenarios.md)
-
-[未払い、詐欺、または誤用](non-payment--fraud--or-misuse.md)
-
-[PSTN サービス](o365-e5-in-csp-advisory.md)
-
-## このセクションの内容
+## <a name="billing"></a><span data-ttu-id="7efd4-115">請求</span><span class="sxs-lookup"><span data-stu-id="7efd4-115">Billing</span></span>
 
 
--   [課金の基本](#billingbasics)
+[<span data-ttu-id="7efd4-116">請求書の記載事項</span><span class="sxs-lookup"><span data-stu-id="7efd4-116">Read your bill</span></span>](read-your-bill.md)
 
--   [ライセンス ベースの課金](#licensebasedbilling)
+[<span data-ttu-id="7efd4-117">調整ファイルの使用</span><span class="sxs-lookup"><span data-stu-id="7efd4-117">Use the reconciliation files</span></span>](use-the-reconciliation-files.md)
 
--   [使用量ベースの課金](#usagebasedbilling)
+[<span data-ttu-id="7efd4-118">税金と税金の除外</span><span class="sxs-lookup"><span data-stu-id="7efd4-118">Tax and tax exemptions</span></span>](tax-and-tax-exemptions.md)
 
-## <a href="" id="billingbasics"></a>課金の基本
+[<span data-ttu-id="7efd4-119">顧客向けの Azure 支出の予算の設定</span><span class="sxs-lookup"><span data-stu-id="7efd4-119">Set an Azure spending budget for your customers</span></span>](set-an-azure-spending-budget-for-your-customers.md)
+
+[<span data-ttu-id="7efd4-120">一般的な課金シナリオ</span><span class="sxs-lookup"><span data-stu-id="7efd4-120">Common billing scenarios</span></span>](common-billing-scenarios.md)
+
+[<span data-ttu-id="7efd4-121">未払い、詐欺、不正使用</span><span class="sxs-lookup"><span data-stu-id="7efd4-121">Non-payment, fraud, or misuse</span></span>](non-payment--fraud--or-misuse.md)
+
+[<span data-ttu-id="7efd4-122">PSTN サービス</span><span class="sxs-lookup"><span data-stu-id="7efd4-122">PSTN services</span></span>](o365-e5-in-csp-advisory.md)
+
+## <a name="in-this-section"></a><span data-ttu-id="7efd4-123">このセクションの内容</span><span class="sxs-lookup"><span data-stu-id="7efd4-123">In this section</span></span>
+
+
+-   [<span data-ttu-id="7efd4-124">課金の基本</span><span class="sxs-lookup"><span data-stu-id="7efd4-124">Billing basics</span></span>](#billingbasics)
+
+-   [<span data-ttu-id="7efd4-125">ライセンスベースの課金</span><span class="sxs-lookup"><span data-stu-id="7efd4-125">License-based billing</span></span>](#licensebasedbilling)
+
+-   [<span data-ttu-id="7efd4-126">使用量ベースの課金</span><span class="sxs-lookup"><span data-stu-id="7efd4-126">Usage-based billing</span></span>](#usagebasedbilling)
+
+## <span data-ttu-id="7efd4-127"><a href="" id="billingbasics"></a>課金の基本</span><span class="sxs-lookup"><span data-stu-id="7efd4-127"><a href="" id="billingbasics"></a>Billing basics</span></span>
 
 
 <table>
@@ -61,52 +62,50 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>日付</td>
+<td><span data-ttu-id="7efd4-128">日付</span><span class="sxs-lookup"><span data-stu-id="7efd4-128">Dates</span></span></td>
 <td><ul>
-<li>毎月の請求日は、登録時に選んだ日付です。 Microsoft は、請求日が記載された確認の電子メールを送信します。</li>
-<li>価格表は毎月更新されるため、1 か月に事前に知ることができます。 ライセンス ベースの価格は、サブスクリプションの有効期間 (通常は購入日から 12 か月間) にわたって保証されます。 使用量ベースの価格は、毎月変わる場合があります。 価格の変更については、パートナーの価格表を発行して、30 日前に通知します。</li>
+<li><span data-ttu-id="7efd4-129">毎月の請求日は、登録時に選んだ日付です。</span><span class="sxs-lookup"><span data-stu-id="7efd4-129">Your monthly billing date is the day of the month you selected during enrollment.</span></span> <span data-ttu-id="7efd4-130">Microsoft は、請求日が記載された確認の電子メールを送信します。</span><span class="sxs-lookup"><span data-stu-id="7efd4-130">Microsoft will send a confirmation email that includes your billing date.</span></span></li>
+<li><span data-ttu-id="7efd4-131">価格表は毎月更新されるため、1 か月に事前に知ることができます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-131">You can find price lists 1 month in advance, as they're updated monthly.</span></span> <span data-ttu-id="7efd4-132">ライセンスベースの価格は、サブスクリプションの有効期間 (通常は購入日から 12 か月間) にわたって保証されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-132">License-based prices are guaranteed for the term of the subscription, usually 12 months from the purchase date.</span></span> <span data-ttu-id="7efd4-133">使用量ベースの価格は、毎月変わる場合があります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-133">Usage-based prices can change on a monthly basis.</span></span> <span data-ttu-id="7efd4-134">価格の変更については、パートナーの価格表を発行して、30 日前に通知します。</span><span class="sxs-lookup"><span data-stu-id="7efd4-134">We will provide 30 days’ notice for any price change through the publication of our Partner Price List.</span></span></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>支払条件</td>
+<td><span data-ttu-id="7efd4-135">支払条件</span><span class="sxs-lookup"><span data-stu-id="7efd4-135">Payment terms</span></span></td>
 <td><ul>
-<li>支払条件 - 60 日以内に支払い。</li>
-<li>支払いは、請求書の期限 (請求日から 60 日後) までに行う必要があります。そうしないと、そのアカウントは延滞していることになります。</li>
-<li>延滞のあるアカウントは、クラウド ソリューション プロバイダー プログラムからの中断または終了の対象となる場合があります。 中断されているアカウントは、新しい顧客や注文の作成、再販業者関係の要求、サブスクリプションの数量の増減、アドオン サブスクリプションの注文、サブスクリプションの変換や移行を行うことができません。アカウントが復帰するまでは、既存の顧客、サブスクリプション、リソースを管理することだけが許可されます。 パートナーは、未払いの請求の支払いが完了したときに、中断されたアカウントのすべての機能を取り戻すことができます。</li>
+<li><span data-ttu-id="7efd4-136">支払条件 - 60 日以内に支払い。</span><span class="sxs-lookup"><span data-stu-id="7efd4-136">Payment terms - net 60 days.</span></span></li>
+<li><span data-ttu-id="7efd4-137">支払いは、請求書の期限 (請求日から 60 日後) までに行う必要があります。そうしないと、そのアカウントは延滞していることになります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-137">Payments must be made by the invoice due date (60 days after the billing date), or the account will be delinquent.</span></span></li>
+<li><span data-ttu-id="7efd4-138">延滞のあるアカウントは、クラウド ソリューション プロバイダー プログラムからの中断または終了の対象となる場合があります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-138">Delinquent accounts are subject to suspension and/or termination from the Cloud Solution Provider program.</span></span> <span data-ttu-id="7efd4-139">中断されているアカウントは、新しい顧客や注文の作成、再販業者関係の要求、サブスクリプションの数量の増減、アドオン サブスクリプションの注文、サブスクリプションの変換や移行を行うことができません。アカウントが復帰するまでは、既存の顧客、サブスクリプション、リソースを管理することだけが許可されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-139">Suspended accounts can't create a new customer or order, request a reseller relationship, increase or decrease quantities of subscriptions, order add-on subscriptions, convert or transition a subscription and will be limited to managing existing customers, subscriptions and resources until the account is brought current.</span></span> <span data-ttu-id="7efd4-140">パートナーが未払いの請求金額をすべて支払うと、中断されたアカウントのすべての機能が回復します。</span><span class="sxs-lookup"><span data-stu-id="7efd4-140">Partners can regain full functionality of their suspended accounts when they pay their outstanding bills.</span></span></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>課金の規則</td>
+<td><span data-ttu-id="7efd4-141">課金の規則</span><span class="sxs-lookup"><span data-stu-id="7efd4-141">Billing rules</span></span></td>
 <td><ul>
-<li>CSP プログラムについて、毎月単一の請求書が送られます。</li>
-<li>サブスクリプション ベースのライセンスは、使ったライセンスではなく購入したライセンスに基づいて課金されます。</li>
-<li>Azure (使用量ベースのサブスクリプション) も、使用に基づいて従量制で課金されます。</li>
-<li>価格は、サブスクリプションの有効期間を通じて保証されます。 価格は、サブスクリプションの更新時に変更される場合があります。</li>
+<li><span data-ttu-id="7efd4-142">CSP プログラムについて、毎月単一の請求書が送られます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-142">You will receive one invoice each month for the CSP program.</span></span></li>
+<li><span data-ttu-id="7efd4-143">サブスクリプション ベースのライセンスは、使ったライセンスではなく購入したライセンスに基づいて課金されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-143">License-based subscriptions are billed based on licenses purchased, not licenses used.</span></span></li>
+<li><span data-ttu-id="7efd4-144">Azure (使用量ベースのサブスクリプション) も、使用に基づいて従量制で課金されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-144">Azure (usage-based subscriptions) are billed according to metered rates, based on consumption.</span></span></li>
+<li><span data-ttu-id="7efd4-145">価格は、サブスクリプションの有効期間を通じて保証されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-145">Price is guaranteed through the term of the subscription.</span></span> <span data-ttu-id="7efd4-146">価格は、サブスクリプションの更新時に変更される場合があります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-146">Prices may change at subscription renewal.</span></span></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>請求書の可用性</td>
+<td><span data-ttu-id="7efd4-147">請求書の可用性</span><span class="sxs-lookup"><span data-stu-id="7efd4-147">Invoice availability</span></span></td>
 <td><ul>
-<li>請求書と調整ファイルは、パートナー センターの課金ページで表示およびダウンロードできます。</li>
+<li><span data-ttu-id="7efd4-148">請求書と調整ファイルは、パートナー センターの [請求書作成] ページで表示およびダウンロードできます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-148">You can view and download your invoices and reconciliation files from the Billing page in the Partner Center.</span></span></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>調整/クレジット/取り消し</td>
+<td><span data-ttu-id="7efd4-149">調整/クレジット/取り消し</span><span class="sxs-lookup"><span data-stu-id="7efd4-149">Adjustments/Credits/Cancellations</span></span></td>
 <td><ul>
-<li>テスト アカウントのクレジットと統合テストは承認されていません。 テストの実行中に、サブスクリプション料金または早期終了の手数料を回避するには、"無料期間" 中にサブスクリプションを取り消すことができます。 Azure サービスのすべての消費量に対する料金は、貴社が支払うものとします。</li>
-<li>調整とクレジットは、翌月の請求書で、クレジットまたは調整の適用後に遅れて表示されます。</li>
+<li><span data-ttu-id="7efd4-150">テスト アカウントのクレジットと統合テストは承認されていません。</span><span class="sxs-lookup"><span data-stu-id="7efd4-150">Credits for test accounts and integration testing are not authorized.</span></span> <span data-ttu-id="7efd4-151">テストの実行中に、サブスクリプション料金または早期終了の手数料を回避するには、"無料期間" 中にサブスクリプションを取り消すことができます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-151">To avoid subscription charges or early termination fee charges when you are performing testing, you can cancel the subscription during the “free period”.</span></span> <span data-ttu-id="7efd4-152">Azure サービスのすべての消費量に対する料金は、貴社が支払うものとします。</span><span class="sxs-lookup"><span data-stu-id="7efd4-152">All consumption usage charges for Azure services are your responsibility.</span></span></li>
+<li><span data-ttu-id="7efd4-153">調整とクレジットは、翌月の請求書で、クレジットまたは調整の適用後に遅れて表示されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-153">You'll see adjustments and credits in arrears on your next monthly billing invoice after the credit or adjustment is applied.</span></span></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>税金</td>
+<td><span data-ttu-id="7efd4-154">税金</span><span class="sxs-lookup"><span data-stu-id="7efd4-154">Tax</span></span></td>
 <td><ul>
-<li>課金契約は Microsoft と貴社の間で交わされるため、(顧客ではなく) 貴社の詳細に基づいて課税されます。</li>
-<li>配布準備中に、またはサービス要求を通じて、税金 ID を提出できます。 料金は次の課金サイクルに反映されます。</li>
-<li>
-          <strong>源泉徴収と売上税の除外</strong>については、サービス要求を通じて税金のドキュメントを提出する必要があります。 料金と適切な返金は次の課金サイクルに反映されます。</li>
-<li>
-          <strong>付加価値税 (VAT) の免除</strong>については、サービス要求を通じて (Microsoft によって確認済みの)、VAT ID を提出する必要があります。 料金と適切な返金は次の課金サイクルに反映されます。</li>
-<li>さらに詳しい税金の詳細については、地域の税務署または税金アドバイザーにお問い合わせください。</li>
+<li><span data-ttu-id="7efd4-155">課金契約は Microsoft と貴社の間で交わされるため、(顧客ではなく) 貴社の詳細に基づいて課税されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-155">You will be taxed based on your details, (not your customers') as the billing relationship is between Microsoft and you.</span></span></li>
+<li><span data-ttu-id="7efd4-156">配布準備中に、またはサービス要求を通じて、税金 ID を提出できます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-156">You can submit your tax ID during onboarding or via a service request.</span></span> <span data-ttu-id="7efd4-157">料金は次の課金サイクルに反映されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-157">You'll see the changes reflected on your next billing cycle.</span></span></li>
+<li><span data-ttu-id="7efd4-158"><strong>源泉徴収と売上税の除外</strong>については、サービス要求を通じて税金のドキュメントを提出する必要があります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-158">For <strong>withholding and sales tax exemption</strong>, you must submit tax documentation via a service request.</span></span> <span data-ttu-id="7efd4-159">料金と適切な返金は次の課金サイクルに反映されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-159">You'll see the changes and appropriate refunds on your next billing cycle.</span></span></li>
+<li><span data-ttu-id="7efd4-160"><strong>付加価値税 (VAT) の免除</strong>については、サービス要求を通じて (Microsoft によって確認済みの)、VAT ID を提出する必要があります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-160">For <strong>value added tax (VAT) exemption</strong>, you must submit your VAT ID (validated by Microsoft) via a service request.</span></span> <span data-ttu-id="7efd4-161">料金と適切な返金は次の課金サイクルに反映されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-161">You'll see the changes and appropriate refunds on your next billing cycle.</span></span></li>
+<li><span data-ttu-id="7efd4-162">さらに詳しい税金の詳細については、地域の税務署または税務アドバイザーにお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="7efd4-162">Find further tax details from your local tax office or tax advisor.</span></span></li>
 </ul></td>
 </tr>
 </tbody>
@@ -114,7 +113,7 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
  
 
-## <a href="" id="licensebasedbilling"></a>ライセンス ベースの課金
+## <span data-ttu-id="7efd4-163"><a href="" id="licensebasedbilling"></a>ライセンス ベースの課金</span><span class="sxs-lookup"><span data-stu-id="7efd4-163"><a href="" id="licensebasedbilling"></a>License-based billing</span></span>
 
 
 <table>
@@ -124,29 +123,29 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>最大 1 か月の無料インセンティブ</td>
+<td><span data-ttu-id="7efd4-164">最大 1 か月の無料インセンティブ</span><span class="sxs-lookup"><span data-stu-id="7efd4-164">Up to one free month incentive</span></span></td>
 <td><ul>
-<li>シート数にかかわらず、サブスクリプションの開始日から、次回の統合請求書までのサブスクリプションの初期段階中 (最大 1 か月) に、料金は一切課金されません。</li>
-<li>このため、課金調整が簡単になります。</li>
-<li>適切な契約に従ってサブスクリプションが取り消されない場合、新しい 12 か月の期間は、12 か月の前払い料金ですべてのサブスクリプションが自動更新されます。</li>
-<li>使用量ベースのサービスには、無料の期間は適用されません。</li>
+<li><span data-ttu-id="7efd4-165">シート数にかかわらず、サブスクリプションの開始日から、次回の統合請求書までのサブスクリプションの初期段階中 (最大 1 か月) は、料金が一切請求されません。</span><span class="sxs-lookup"><span data-stu-id="7efd4-165">You are not billed for any charges during the initial period from the subscription start date to the date of your next consolidate bill (up to one full month), regardless of the seat count.</span></span></li>
+<li><span data-ttu-id="7efd4-166">このため、課金調整が簡単になります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-166">This results in simpler billing reconciliation.</span></span></li>
+<li><span data-ttu-id="7efd4-167">適切な契約に従ってサブスクリプションが取り消されない場合、新しい 12 か月の期間は、12 か月の前払い料金ですべてのサブスクリプションが自動更新されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-167">All subscriptions auto-renew for a new 12 month period with 12 monthly advanced charges if the subscription is not cancelled in line with the appropriate agreements.</span></span></li>
+<li><span data-ttu-id="7efd4-168">使用量ベースのサービスには、無料の期間は適用されません。</span><span class="sxs-lookup"><span data-stu-id="7efd4-168">The free period does not apply to usage-based services.</span></span></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>課金の規則</td>
+<td><span data-ttu-id="7efd4-169">課金の規則</span><span class="sxs-lookup"><span data-stu-id="7efd4-169">Billing rules</span></span></td>
 <td><ul>
-<li>サブスクリプションは毎年自動更新されます。</li>
-<li>課金は、年間サブスクリプションごとに 12 か月の支払いなります。</li>
-<li>以前の課金期間の終了時のライセンス数に基づいて、ライセンス ベースのサービスの次の課金期間について前払いで課金されます。</li>
-<li>ライセンス数の変更 (ライセンスの日数に基づく日割り計算) で、後で課金/クレジットが行われます。 日割り計算では、次の式を使用します。[ROUND((ROUND(単価 * 数量 / 日割り計算の月の日数, 2) * 日割り計算の日数) / 数量, 2) * 数量]</li>
-<li>支払いは、(プロビジョニングされたシートではなく) 販売されたシートに対して課金されます。</li>
+<li><span data-ttu-id="7efd4-170">サブスクリプションは毎年自動更新されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-170">Subscriptions are annual and auto-renewed.</span></span></li>
+<li><span data-ttu-id="7efd4-171">課金は、年間サブスクリプションごとに 12 か月の支払いなります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-171">Billing is in 12 monthly payments per annual subscription.</span></span></li>
+<li><span data-ttu-id="7efd4-172">前回の請求期間の終了時のライセンス数に基づき、ライセンスベースのサービスの次の請求期間分が前払いで請求されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-172">You are billed in advance for the next billing period for license-based services, based on number of licenses at the end of the prior billing period.</span></span></li>
+<li><span data-ttu-id="7efd4-173">ライセンス数の変更 (ライセンスの日数に基づく日割り計算) で、後で課金/クレジットが行われます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-173">You are billed/credited in arrears for any changes in the number of licenses(pro-rata calculation based on license-days).</span></span> <span data-ttu-id="7efd4-174">日割り計算では、次の式を使用します。[ROUND((ROUND(単価 * 数量 / 日割り計算の月の日数, 2) * 日割り計算の日数) / 数量, 2) * 数量]</span><span class="sxs-lookup"><span data-stu-id="7efd4-174">Pro-rata calculation uses the following formula: [ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]</span></span></li>
+<li><span data-ttu-id="7efd4-175">支払いは、(プロビジョニングされたシートではなく) 販売されたシートに対して課金されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-175">Payments are billed for seats sold (not seats provisioned).</span></span></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>調整/クレジット/取り消し</td>
+<td><span data-ttu-id="7efd4-176">調整/クレジット/取り消し</span><span class="sxs-lookup"><span data-stu-id="7efd4-176">Adjustments/Credits/Cancellations</span></span></td>
 <td><ul>
-<li>現在、ライセンス ベースのサービスの取り消しに対して終了早期料金は課金されません。</li>
-<li>ライセンス ベースのサービスに対する取り消しのクレジットは、期間途中の取り消しについては未使用の日について日割り計算されます (前の式に従ったライセンスの減少も同様です)。</li>
+<li><span data-ttu-id="7efd4-177">現在、ライセンスベースのサービスの取り消しに対して終了早期料金は課金されません。</span><span class="sxs-lookup"><span data-stu-id="7efd4-177">Early termination fees are currently not charged for the cancellation of license-based services.</span></span></li>
+<li><span data-ttu-id="7efd4-178">ライセンス ベースのサービスに対する取り消しのクレジットは、期間途中の取り消しについては未使用の日について日割り計算されます (前の式に従ったライセンスの減少も同様です)。</span><span class="sxs-lookup"><span data-stu-id="7efd4-178">Cancellation credits for licensed based services are pro-rated for unused days for mid-cycle cancellations (as well as license decreases per the formula above).</span></span></li>
 </ul></td>
 </tr>
 </tbody>
@@ -154,10 +153,10 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
  
 
-## <a href="" id="usagebasedbilling"></a>使用量ベースの課金
+## <span data-ttu-id="7efd4-179"><a href="" id="usagebasedbilling"></a>使用量ベースの課金</span><span class="sxs-lookup"><span data-stu-id="7efd4-179"><a href="" id="usagebasedbilling"></a>Usage-based billing</span></span>
 
 
-Azure は "従量" モデルで運用され、使用した Azure サービスに対してのみ課金されます。
+<span data-ttu-id="7efd4-180">Azure は "従量" モデルで運用され、使用した Azure サービスに対してのみ課金されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-180">Azure operates in the "pay as you go" model, in which you are only billed for Azure services used.</span></span>
 
 <table>
 <colgroup>
@@ -166,41 +165,27 @@ Azure は "従量" モデルで運用され、使用した Azure サービスに
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>課金の規則</td>
+<td><span data-ttu-id="7efd4-181">課金の規則</span><span class="sxs-lookup"><span data-stu-id="7efd4-181">Billing rules</span></span></td>
 <td><ul>
-<li>課金は、サブスクリプションの開始日から始まります。 使用量ベースの課金には、"無料の期間" はありません。</li>
-<li>サブスクリプションは新しい従量制サービスの料金で、月単位で、自動更新されます。 課金は、使用量に基づき、月次で後払いとなります。</li>
-<li>従量制サービスの料金は、請求サイクル内で変更される場合があります。
+<li><span data-ttu-id="7efd4-182">課金は、サブスクリプションの開始日から始まります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-182">Billing starts on the subscription start date.</span></span> <span data-ttu-id="7efd4-183">使用量ベースの課金には、"無料の期間" はありません。</span><span class="sxs-lookup"><span data-stu-id="7efd4-183">There is no “free period” for usage-based billing.</span></span></li>
+<li><span data-ttu-id="7efd4-184">サブスクリプションは新しい従量制サービスの料金で、月単位で、自動更新されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-184">Subscriptions are month-to-month and auto-renew at the new metered service rates.</span></span> <span data-ttu-id="7efd4-185">課金は、使用量に基づき、月次で後払いとなります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-185">Billing is monthly in arrears, based on usage.</span></span></li>
+<li><span data-ttu-id="7efd4-186">従量制サービスの料金は、請求サイクル内で変更される場合があります。</span><span class="sxs-lookup"><span data-stu-id="7efd4-186">Metered service rates can change within the invoice cycle.</span></span>
 <ul>
-<li>価格の増加: 30 日前に通知されます。</li>
-<li>価格の低下: 変更日を反映します。</li>
-<li>既存のサブスクリプションでは、課金サイクルの開始時点で有効な料金が使われます。</li>
-<li>新しいサブスクリプション (課金サイクル内で作成したもの) では、現在の日付で有効な料金が使われます。</li>
+<li><span data-ttu-id="7efd4-187">価格の増加: 30 日前に通知されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-187">Price increases: 30 days notice is provided.</span></span></li>
+<li><span data-ttu-id="7efd4-188">価格の低下: 変更日を反映します。</span><span class="sxs-lookup"><span data-stu-id="7efd4-188">Price decreases: reflected day of change.</span></span></li>
+<li><span data-ttu-id="7efd4-189">既存のサブスクリプションでは、課金サイクルの開始時点で有効な料金が使われます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-189">Existing subscriptions use the rate in effect at the beginning of the bill cycle.</span></span></li>
+<li><span data-ttu-id="7efd4-190">新しいサブスクリプション (課金サイクル内で作成したもの) では、現在の日付で有効な料金が使われます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-190">New subscriptions (created within bill cycle) use the rate in effect at the create date.</span></span></li>
 </ul></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>調整/クレジット/取り消し</td>
+<td><span data-ttu-id="7efd4-191">調整/クレジット/取り消し</span><span class="sxs-lookup"><span data-stu-id="7efd4-191">Adjustments/Credits/Cancellations</span></span></td>
 <td><ul>
-<li>支払いの調整は、次の月次請求書に表示されます。</li>
-<li>現在、使用量ベースのサービスの取り消しに対して終了早期料金は課金されません。</li>
-<li>SLA のクレジットを含むあらゆる種類のクレジットが、次の月次請求書に表示されます。</li>
+<li><span data-ttu-id="7efd4-192">支払いの調整は、次の月次請求書に表示されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-192">You'll see payments with adjustments on your next monthly billing invoice.</span></span></li>
+<li><span data-ttu-id="7efd4-193">現在、使用量ベースのサービスの取り消しに対して終了早期料金は課金されません。</span><span class="sxs-lookup"><span data-stu-id="7efd4-193">Early termination fees are currently not charged for the cancellation of usage-based services.</span></span></li>
+<li><span data-ttu-id="7efd4-194">SLA のクレジットを含むあらゆる種類のクレジットが、次の月次請求書に表示されます。</span><span class="sxs-lookup"><span data-stu-id="7efd4-194">You'll see credits of any type, including SLA credits, on your next monthly billing invoice.</span></span></li>
 </ul></td>
 </tr>
 </tbody>
 </table>
-
- 
-
- 
-
- 
-
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
-
 

@@ -1,50 +1,45 @@
 ---
-title: "顧客との関係を要求する | パートナー センター"
-description: "関係の要求は、マルチパートナー シナリオとマルチチャネル シナリオ用です。 また、顧客が委任された管理者特権を削除していて、プロビジョニングまたはサポートを提供するためにそれらを復元する必要がある場合にも便利です。"
+title: "顧客との再販業者関係の要求 | パートナー センター"
+description: "関係の要求は、マルチパートナー シナリオとマルチチャンネル シナリオで使用されます。 また、パートナーの代理管理者特権が顧客によって削除され、パートナーがプロビジョニングやサポートを提供するために、管理者特権を復元する必要がある場合にも使用できます。"
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
-
+ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 06/14/2017
 ---
+# <a name="connect-with-customers-in-partner-center"></a><span data-ttu-id="301cb-104">パートナー センターでの顧客との連携</span><span class="sxs-lookup"><span data-stu-id="301cb-104">Connect with customers in Partner Center</span></span>
 
-# 顧客との関係を要求する
+**<span data-ttu-id="301cb-105">適用対象</span><span class="sxs-lookup"><span data-stu-id="301cb-105">Applies to</span></span>**
 
-**適用対象**
+-  <span data-ttu-id="301cb-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="301cb-106">Partner Center</span></span>
+-  <span data-ttu-id="301cb-107">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="301cb-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="301cb-108">Microsoft Cloud ドイツのパートナー センター</span><span class="sxs-lookup"><span data-stu-id="301cb-108">Partner Center for Microsoft Cloud Germany</span></span>
 
--  パートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+<span data-ttu-id="301cb-109">顧客のサービスやをサブスクリプションを顧客に代わって管理するには、顧客からそのサービスについて管理者のアクセス許可を取得する必要があります。</span><span class="sxs-lookup"><span data-stu-id="301cb-109">To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service.</span></span> <span data-ttu-id="301cb-110">顧客から管理者のアクセス許可を取得するには、再販業者関係の要求を顧客にメール送信します。</span><span class="sxs-lookup"><span data-stu-id="301cb-110">To get administrator permissions from a customer, email them a reseller relationship request.</span></span> <span data-ttu-id="301cb-111">顧客が要求を承認すると、パートナーはサービスの管理ポータルにログオンして、顧客の代わりにサービスを管理することができます。</span><span class="sxs-lookup"><span data-stu-id="301cb-111">After the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf.</span></span> 
 
-関係の要求は、[マルチパートナー](multipartner.md) シナリオと[マルチチャネル](multichannel.md) シナリオ用です。 また、顧客が委任された管理者特権を削除していて、プロビジョニングまたはサポートを提供するためにそれらを復元する必要がある場合にも便利です。
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a><span data-ttu-id="301cb-112">貴社との再販業者関係を確立するために顧客を招待する</span><span class="sxs-lookup"><span data-stu-id="301cb-112">Invite a customer to establish a reseller relationship with you</span></span>
 
-このプロセスでは、委任された管理者特権が追加されるだけです。 パートナーがサブスクリプションの元々の CSP リセラーであった場合以外は、パートナーはこれらのサブスクリプションの請求書を受け取らず、シートを追加または削除することもできません。アドオンを注文することも、サブスクリプションを移行することも、指名パートナーを変更することもできません。
+1.  <span data-ttu-id="301cb-113">**[ダッシュボード]** メニューで **[顧客]** を選択し、**[再販業者関係の要求]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="301cb-113">Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.</span></span>
 
-<a href="" id="requestarelationship"></a>
-**関係を要求する**
+2.  <span data-ttu-id="301cb-114">次のページで、メール メッセージの下書きを確認します。</span><span class="sxs-lookup"><span data-stu-id="301cb-114">On the next page, review the draft email message.</span></span> <span data-ttu-id="301cb-115">既定のメール アプリケーションで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。</span><span class="sxs-lookup"><span data-stu-id="301cb-115">You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email.</span></span> 
 
-1.  パートナー センターで、[ダッシュボード] メニュー &gt; **[顧客]** &gt; **[再販業者関係の要求]** の順に移動します。
-2.  メールのテキストをコピーします。 最初の 2 つの段落を編集または削除することはできますが、リンクはそのままにする必要があります。 このリンクの URL はリセラー アカウントに適用され、これには顧客情報は含まれていません。 関係を要求するたびに同じリンクを再利用できます。
-3.  それを顧客に送信します。 顧客は招待リンクをクリックしてそれを受け入れ、管理者アカウントを使用してサインインできます。
-4.  その後、顧客は **[Partner Relationships]** (パートナー関係) ページで、各サービスの委任された管理者特権をどのパートナーが持っているかなど、さまざまなサービスのパートナーをすべて確認できます。
+    <span data-ttu-id="301cb-116">メールのテキストを編集することはできますが、リンクを必ず含めてください。このリンクは、顧客が貴社のアカウントに直接アクセスできるようにカスタマイズされています。</span><span class="sxs-lookup"><span data-stu-id="301cb-116">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account.</span></span> <span data-ttu-id="301cb-117">この手順を完了したら、**[完了]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="301cb-117">Select **Done** when you’ve completed this step.</span></span>
 
-    マルチ チャンネル モデルでは、顧客は委任された管理者特権がある CSP 処理パートナーをサービスごとに 1 つだけ持つことができます。 顧客は、CSP プログラムに含まれない他のパートナーにもアクセス許可を付与していることがあります。
+3.  <span data-ttu-id="301cb-118">顧客にメールを送信します。</span><span class="sxs-lookup"><span data-stu-id="301cb-118">Send the email to your customer.</span></span>
 
-5.  パートナー センターのパートナーの顧客一覧に顧客が表示されたとき、パートナーは顧客が招待を受け入れたことがわかります。 その後、パートナーは顧客の CSP サブスクリプションをプロビジョニングし、管理します。
+4.  <span data-ttu-id="301cb-119">顧客が招待を承諾すると、**[顧客]** ページに顧客が表示され、そこから顧客のサービスのプロビジョニングと管理を実行できるようになります。</span><span class="sxs-lookup"><span data-stu-id="301cb-119">After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.</span></span>
 
-顧客には、CSP プログラムのパートナーを含めて、いずれかまたはすべてのパートナーから委任された管理者特権を削除するオプションがあります。 顧客はそれぞれの管理ポータル内でこれを行うことができます。 顧客とパートナーによって再ネゴシエートされない限り、顧客のアカウントと商用関係は引き続き適用されます。 顧客がパートナーから委任された管理者のアクセス許可を削除した後も、顧客にサポートを提供し、クラウド リセラー契約の条項に従い続ける責任はパートナーにあります。 この状況で顧客にヘルプが必要な場合、パートナーは顧客に代わってサービス要求を開くために Microsoft サポートを呼び出す必要があります。
+ >**<span data-ttu-id="301cb-120">注</span><span class="sxs-lookup"><span data-stu-id="301cb-120">Note</span></span>**<br>
+    <span data-ttu-id="301cb-121">マルチチャンネル シナリオでは、1 社のパートナーのみが管理者のアクセス許可を取得し、顧客に代わってサービスを管理することができます。</span><span class="sxs-lookup"><span data-stu-id="301cb-121">In a multi-channel scenario, only one partner can have administrator permissions to manage a service on the customer's behalf.</span></span> 
 
-顧客が削除した委任された管理者特権を再確立するには、関係を要求するプロセスを繰り返します。
-
- 
-
- 
+5.  <span data-ttu-id="301cb-122">顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、顧客の名前の下矢印を選んで、顧客のレコードを展開します。</span><span class="sxs-lookup"><span data-stu-id="301cb-122">To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.</span></span>
 
 
+>**<span data-ttu-id="301cb-123">重要</span><span class="sxs-lookup"><span data-stu-id="301cb-123">Important</span></span>**<br>
+<span data-ttu-id="301cb-124">顧客は、サービスの管理者ポータルで、管理者のアクセス許可の割り当てを変更したり、削除したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="301cb-124">Customers can reassign or remove administrator permisions in a service's admin portal.</span></span> <span data-ttu-id="301cb-125">ただし顧客が管理者のアクセス許可の割り当てを変更したり、削除したりした後も、パートナーが顧客との契約について再交渉しない限り、また再交渉するまで、パートナーは引き続きカスタマー サポートを提供し、クラウド リセラー契約の条項を遵守する責任を負います。</span><span class="sxs-lookup"><span data-stu-id="301cb-125">However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions.</span></span> <span data-ttu-id="301cb-126">この状況で顧客にサポートが必要となった場合、パートナーは顧客に代わって Microsoft サポートにサービス要求を求めることができます。</span><span class="sxs-lookup"><span data-stu-id="301cb-126">In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.</span></span>
 
+## <a name="related-topics"></a><span data-ttu-id="301cb-127">関連トピック</span><span class="sxs-lookup"><span data-stu-id="301cb-127">Related topics</span></span>
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+[<span data-ttu-id="301cb-128">関係の削除</span><span class="sxs-lookup"><span data-stu-id="301cb-128">Remove a relationship</span></span>](remove-a-relationship.md)

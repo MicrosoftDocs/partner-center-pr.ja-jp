@@ -1,47 +1,41 @@
 ---
-title: "パートナー プロファイルを更新する | パートナー センター"
-description: "最初に管理者としてパートナー センターにログインするときに、サポートの詳細が正しいことを確認し、適切な場合は税金の除外を申告して、貴社のプロファイルの連絡先情報を見直してください。"
+title: "パートナー プロファイルの更新 | パートナー センター"
+description: "管理者として初めてパートナー センターにログインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。"
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
-
+ms.openlocfilehash: 007401c88d64c7201c23c0c64bb84a9c47dcdf92
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
+# <a name="update-your-partner-profile"></a><span data-ttu-id="01bcf-103">パートナー プロファイルの更新</span><span class="sxs-lookup"><span data-stu-id="01bcf-103">Update your partner profile</span></span>
 
-# パートナー プロファイルを更新する
+**<span data-ttu-id="01bcf-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="01bcf-104">Applies to</span></span>**
 
-**適用対象**
+-  <span data-ttu-id="01bcf-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="01bcf-105">Partner Center</span></span>
+-  <span data-ttu-id="01bcf-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="01bcf-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="01bcf-107">Microsoft Cloud ドイツのパートナー センター</span><span class="sxs-lookup"><span data-stu-id="01bcf-107">Partner Center for Microsoft Cloud Germany</span></span>
 
--  パートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+<span data-ttu-id="01bcf-108">管理者として初めてパートナー センターにログインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。</span><span class="sxs-lookup"><span data-stu-id="01bcf-108">The first time you sign into Partner Center as an admin, make sure your support details are correct, file tax exemptions if appropriate, and review the contact information in your profiles.</span></span>
 
-最初に管理者としてパートナー センターにログインするときに、サポートの詳細が正しいことを確認し、適切な場合は税金の除外を申告して、貴社のプロファイルの連絡先情報を見直してください。
+**<span data-ttu-id="01bcf-109">サポートの詳細を更新する</span><span class="sxs-lookup"><span data-stu-id="01bcf-109">Update your support details</span></span>**
 
-**サポートの詳細を更新する**
+1.  <span data-ttu-id="01bcf-110">パートナー センターで、[ダッシュボード] メニュー &gt; **[アカウント設定]** &gt; **[パートナー プロファイル]** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="01bcf-110">In Partner Center, go to the Dashboard menu &gt; **Account settings** &gt; **Partner profile**.</span></span>
+2.  <span data-ttu-id="01bcf-111">**[サポート]** セクションで、**[更新]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="01bcf-111">In the **Support** section, select **Update**.</span></span>
+3.  <span data-ttu-id="01bcf-112">サポートが必要な顧客が Microsoft に連絡してきた場合、Microsoft は貴社のサポート プロファイルに記載の Web サイト、メール アドレス、および電話番号を伝えます。</span><span class="sxs-lookup"><span data-stu-id="01bcf-112">If any of your customers call Microsoft looking for support, Microsoft will point them back to the website, email, and phone contact info that you list in your support profile.</span></span>
 
-1.  パートナー センターで、[ダッシュボード] メニュー &gt; **[アカウント設定]** &gt; **[パートナー プロファイル]** の順に移動します。
-2.  **[サポート]** セクションで、**[更新]** を選びます。
-3.  サポートが必要な顧客が Microsoft に連絡してきた場合、Microsoft は貴社のサポート プロファイルに記載の Web サイト、メール アドレス、および電話番号を伝えます。
+**<span data-ttu-id="01bcf-113">税金の除外を申告する</span><span class="sxs-lookup"><span data-stu-id="01bcf-113">File tax exemptions</span></span>**
 
-**税金の除外を申告する**
+-   <span data-ttu-id="01bcf-114">税金の除外が貴社に適用されるかどうかを判断し、適用される場合は顧客やサブスクリプションを追加する前に申告してください。</span><span class="sxs-lookup"><span data-stu-id="01bcf-114">Decide whether tax exemptions apply to you, and if so file them before you add any customers or subscriptions.</span></span> <span data-ttu-id="01bcf-115">「[税金と税金の除外](tax-and-tax-exemptions.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="01bcf-115">See [Tax and tax exemptions](tax-and-tax-exemptions.md).</span></span>
 
--   税金の除外が貴社に適用されるかどうかを判断し、適用される場合は顧客やサブスクリプションを追加する前に申告してください。 「[税金と税金の除外](tax-and-tax-exemptions.md)」をご覧ください。
+**<span data-ttu-id="01bcf-116">プロファイル情報を確認する</span><span class="sxs-lookup"><span data-stu-id="01bcf-116">Verify your profile information</span></span>**
 
-**プロファイル情報を確認する**
-
-1.  パートナー センターで、[ダッシュボード] メニュー &gt; **[アカウント設定]** の順に移動します。
-2.  **[パートナー プロファイル]**、**[パートナー課金プロファイル]**、および **[組織プロファイル]** を確認します。
-
- 
+1.  <span data-ttu-id="01bcf-117">パートナー センターで、[ダッシュボード] メニュー &gt; **[アカウント設定]** の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="01bcf-117">In Partner Center, go to the Dashboard menu &gt; **Account settings** .</span></span>
+2.  <span data-ttu-id="01bcf-118">**[パートナー プロファイル]**、**[課金プロファイル]**、および **[組織プロファイル]** を確認します。</span><span class="sxs-lookup"><span data-stu-id="01bcf-118">Review your **Partner profile**, **Partner billing profile**, and **Organizational profile**.</span></span>
 
  
 
+ 
 
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

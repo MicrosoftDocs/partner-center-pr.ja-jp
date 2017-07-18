@@ -1,40 +1,34 @@
 ---
-title: "Microsoft によるサポート | パートナー センター"
-description: "Microsoft サービスやパートナー センターに関する問題が発生した場合は、Microsoft にエスカレートしてサポートを依頼し、問題が解決されるまで追跡できます。"
+title: "マイクロソフトによるサポート | パートナー センター"
+description: "Microsoft サービスやパートナー センターで問題が発生した場合は、マイクロソフトにエスカレートしてサポートを依頼し、解決まで問題を追跡できます。"
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
-
+ms.openlocfilehash: 66bb02c8ef2677c8f962785f415739c0ea3c9311
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
+# <a name="support-from-microsoft"></a><span data-ttu-id="e0205-103">マイクロソフトによるサポート</span><span class="sxs-lookup"><span data-stu-id="e0205-103">Support from Microsoft</span></span>
 
-# Microsoft によるサポート
+**<span data-ttu-id="e0205-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="e0205-104">Applies to</span></span>**
 
-**適用対象**
+-  <span data-ttu-id="e0205-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="e0205-105">Partner Center</span></span>
+-  <span data-ttu-id="e0205-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="e0205-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="e0205-107">Microsoft Cloud ドイツのパートナー センター</span><span class="sxs-lookup"><span data-stu-id="e0205-107">Partner Center for Microsoft Cloud Germany</span></span>
 
--  パートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+<span data-ttu-id="e0205-108">Microsoft サービスやパートナー センターで問題が発生した場合は、マイクロソフトにエスカレートしてサポートを依頼し、解決まで問題を追跡できます。</span><span class="sxs-lookup"><span data-stu-id="e0205-108">When you encounter problems with a Microsoft service or with Partner Center, you can escalate to Microsoft for help, and track the issue until it's resolved.</span></span>
 
-Microsoft サービスやパートナー センターに関する問題が発生した場合は、Microsoft にエスカレートしてサポートを依頼し、問題が解決されるまで追跡できます。
+[<span data-ttu-id="e0205-109">サービスの正常性の確認</span><span class="sxs-lookup"><span data-stu-id="e0205-109">Check service health</span></span>](check-service-health.md)
 
-[サービスの正常性の確認](check-service-health.md)
+[<span data-ttu-id="e0205-110">パートナー センターに関する問題の報告</span><span class="sxs-lookup"><span data-stu-id="e0205-110">Report problems with Partner Center</span></span>](report-problems-with-partner-center.md)
 
-[パートナー センターに関する問題の報告](report-problems-with-partner-center.md)
+[<span data-ttu-id="e0205-111">顧客の代理としての問題の報告</span><span class="sxs-lookup"><span data-stu-id="e0205-111">Report problems on behalf of a customer</span></span>](report-problems-on-behalf-of-a-customer.md)
 
-[顧客の代理で問題を報告する](report-problems-on-behalf-of-a-customer.md)
-
-[Microsoft の API で自動サービス通知を取得する](get-automated-service-notifications-with-our-apis.md)
-
- 
+[<span data-ttu-id="e0205-112">マイクロソフトウェアの API による自動サービス通知の取得</span><span class="sxs-lookup"><span data-stu-id="e0205-112">Get automated service notifications with our APIs</span></span>](get-automated-service-notifications-with-our-apis.md)
 
  
 
+ 
 
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

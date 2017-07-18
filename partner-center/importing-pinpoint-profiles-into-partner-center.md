@@ -3,65 +3,19 @@ title: "Pinpoint からパートナー センターへの移行 | パートナ�
 Description: "このページに記載されている情報は、Pinpoint からパートナー センターへ移行する方法を説明しています。"
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
-ms.openlocfilehash: c604ab4f027119d10c4903431455c97c484eb831
-
+ms.openlocfilehash: 0e1b12ea8068c08711658d7748f84e1a14da3bfe
+ms.sourcegitcommit: 4db073829bc4143974f4551e1ea27ef35209bd9f
+ms.translationtype: HT
+ms.contentlocale: ja-JP
 ---
+# <a name="transition-from-pinpoint-to-partner-center"></a><span data-ttu-id="5c97f-103">Pinpoint からパートナー センターへの移行</span><span class="sxs-lookup"><span data-stu-id="5c97f-103">Transition from Pinpoint to Partner Center</span></span>
 
-# Pinpoint からパートナー センターへの移行
+**<span data-ttu-id="5c97f-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="5c97f-104">Applies to</span></span>**
 
-**適用対象**
+-  <span data-ttu-id="5c97f-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="5c97f-105">Partner Center</span></span>
 
--  パートナー センター
+<span data-ttu-id="5c97f-106">すべての Microsoft Pinpoint パートナー プロファイルは、最終的にパートナー センターに移行され、Pinpoint は 2017 年後半にオフラインになります。</span><span class="sxs-lookup"><span data-stu-id="5c97f-106">All Microsoft Pinpoint partner profiles will eventually be migrated to Partner Center, and Pinpoint will be taken offline later in 2017.</span></span> 
 
-このページに記載されている情報は、Pinpoint からパートナー センターへ移行する方法を説明しています。 Pinpoint のプロファイルをインポートすることが、パートナー センターを使用するための主要な移行手順です。 パートナー センターのマーケティング プロファイルとして使用するために、Pinpoint のマーケティング プロファイルをインポートします。
+<span data-ttu-id="5c97f-107">既存の Pinpoint マーケティング プロファイルがある場合は、まずパートナー センターで[新しいマーケティング プロファイルを作成](create-a-marketing-profile.md)してください。</span><span class="sxs-lookup"><span data-stu-id="5c97f-107">If you have an existing Pinpoint marketing profile, you can get started right away by [creating a new marketing profile](create-a-marketing-profile.md) in Partner Center.</span></span>
 
-Pinpoint にアプリケーションやサービスのプロファイルが個別に存在する場合、これらのプロファイルもインポートされ、パートナー センターのマーケティング プロファイルでは、ソリューションとして自動的に表示されます。
-
-Pinpoint のプロファイルをインポートすると、Pinpoint アカウントが廃止され、マーケティング プロファイルや顧客紹介を管理する場合は、パートナー センターだけを使用することになります。
-
-**注**  Pinpoint アカウントにある顧客紹介をすべてメモしてください。 顧客紹介に関する情報は、Pinpoint からパートナー センターにインポートすることはできません。
-
- **Pinpoint でプロファイルを管理するパートナー様向けの重要情報**
-
-Microsoft では、パートナー様がプロファイルを公開および管理する際の新たなエクスペリエンスの創出やエクスペリエンスの改善に努めています。 最終的に、すべてのパートナー プロファイルがこの新しいエクスペリエンスに移行され、Pinpoint は 2017 年後半にオフラインになります。
-
-このアップグレードが完了するまでお待ちいただき、ありがとうございます。 プロセスの進行に伴って最新情報とガイダンスをお知らせします。 それまでの間、次の点に注意してください。
-
--   プロファイルが [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) に掲載されており、変更をご希望の場合は、このツールに[ログイン](https://go.microsoft.com/fwlink/?linkid=838394)してください。
--   Microsoft の[クラウド サービス プロバイダー](https://go.microsoft.com/fwlink/?linkid=838395) (CSP) プログラムに登録済みの場合、[パートナー センター](https://go.microsoft.com/fwlink/?linkid=838396)にログオンしてください。 新しいプロファイルを作成するか、既存の Pinpoint プロファイルをインポートすることができます。 プロファイルの変更はすべて、インポート前に行う必要がある点に注意してください。 詳細については、以下の情報を参照してください。
--   プロファイルを変更できない場合は、[地域サービス センター](https://go.microsoft.com/fwlink/?linkid=838398)にお問い合わせください。 
-
-**カスタマー レビュー:** Pinpoint からパートナー センターへの計画された移行の一環として、これまでのカスタマー レビュー一覧機能は終了されたため、パートナー様がカスタマー レビューにアクセスすることはできなくなりました。 関係するパートナー様には、この機能と関連するレビューが削除される前にご指定のメール アドレス宛てにお知らせが送信されました。 現在の計画では、より堅牢で信頼できるシステムに置き換えられる予定です。
-
-**Pinpoint のプロファイル情報のインポート**
-
-1.  マーケティング プロファイルや顧客紹介を管理するには、[パートナー センター](https://partnercenter.microsoft.com/)にログインします。
-2.  パートナー センターの **[ダッシュボード]** メニューで、**[アカウント設定] &gt; [マーケティング プロファイル]** の順に選びます。
-
-3.  **[プロファイル]** タブで **[Pinpoint からインポート]** を選びます。 インポートが完了したら、パートナー プロファイルの作成ページで、情報のコピー元となる Pinpoint のプロファイルを選び、**[ソリューション]** を選ぶことで、各場所から市場に導入することができます。 自動的にインポートされた Pinpoint のアプリケーションやサービスのプロファイルは、パートナー センターのマーケティング プロファイルでは、ソリューションとして表示されます。
-
-パートナーのマーケティング プロファイルにインポートした**ソリューション**の一覧に対しては、**編集**および**削除**のみを実行できます。パートナー センターで新しいソリューションをプロファイルに追加することはできません。
-
-パートナー センターのマーケティング プロファイルの詳しい情報、および Pinpoint のプロファイルをインポートした結果を確認するには、[パートナー センターのプロファイルのメイン ページにアクセスしてください](https://partnercenter.microsoft.com/pcv/publishing)。 Pinpoint でのマーケティング プロファイルの作成方法について詳しくは、「[会社のマーケティング プロファイルを作成する](create-a-marketing-profile.md)」をご覧ください。
-
-## 関連トピック
-
-
-[会社のマーケティング プロファイルを作成する](create-a-marketing-profile.md)
-
-[パートナー センターのマーケティング プロファイル](https://partnercenter.microsoft.com/pcv/publishing)
-
- 
-
- 
-
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<span data-ttu-id="5c97f-108">パートナー センターのプロファイルを作成すると、Pinpoint アカウントが廃止され、マーケティング プロファイルや顧客紹介の管理には、パートナー センターのみを使用します。</span><span class="sxs-lookup"><span data-stu-id="5c97f-108">When you create your Partner Center profile, your Pinpoint account will be retired and you will exclusively use Partner Center for managing your marketing profiles and customer referrals.</span></span>
