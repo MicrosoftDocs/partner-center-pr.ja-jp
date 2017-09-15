@@ -1,56 +1,56 @@
 ---
-title: "ユーザー アカウントの作成とアクセス許可の設定 | パートナー センター"
-description: "管理者は、パートナー センターへのアクセスを必要とするパートナーの各従業員に対してユーザー アカウントを作成します。"
+title: Create user accounts and set permissions | Partner Center
+description: The admin creates a user account for each partner employee who needs access to Partner Center.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: bc699214c7919c7cff9788144d472063ba60ad10
-ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
+ms.openlocfilehash: 6a54dd2a221f38edb2439596ba2637907dad73de
+ms.sourcegitcommit: f62ea44fb20c2ada21154e254984413ee2a685f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 08/18/2017
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>ユーザー アカウントの作成とアクセス許可の設定
+# <a name="create-user-accounts-and-assign-permissions"></a>Create user accounts and assign permissions
 
-**適用対象**
+**Applies to**
 
--  パートナー センター
+-  Partner Center
 
-パートナー センターへのアクセスを必要とする従業員に対してユーザー アカウントを作成します。 これらのタスクは、ユーザー管理の管理者アクセス許可を持つ管理者が実行する必要があります。 
+Create user accounts for employees who need access to Partner Center. These tasks must be done by an admin with user management admin permissions. 
 
-## <a name="add-a-new-user"></a>新しいユーザーを追加する
+## <a name="add-a-new-user"></a>Add a new user
 
-1. **[ダッシュボード]**メニューで、**[アカウント設定] > [ユーザー管理]** を選びます。
+1. On the **Dashboard** menu, select **Account settings > User management**.
 
-2.  **[ユーザーの追加]** を選びます。
+2.  Select **Add user**.
 
-3.  ユーザーのフル ネームと一意のメール アドレスを入力します。
+3.  Enter the user’s full name and unique email address.
 
-4.  エージェントと管理者の種類を選びます。 パートナー センターへのアクセスは役割ベースであるため、アクセス許可を割り当てることで、ユーザーのビューをカスタマイズして特定のタスクに必要な機能のみを表示できます。 各役割で実行できる機能について詳しくは、「[ユーザーのアクセス許可を割り当てる](#assignuserpermissions)」をご覧ください。
+4.  Select the type of agent and the type of admin. Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. For more information about what each role can do, see [Assign user permissions](#assignuserpermissions).
 
-5.  **[追加]** を選んでユーザー アカウントを作成します。 次のページで、ユーザーの詳細を確認します。
+5.  Select **Add** to create the user account. Confirm the user's details on the next page.
 
->**重要**<br>
-このページに表示される、新しいユーザーのサインイン情報を書き留めます。 この情報は後から確認できないため、必ず書き留めて新しいユーザーに送信してください。 <br>
+>**Important**<br>
+Make a note of the new user's sign-in information displayed on this page. Be sure to copy and send this information to the new user as you will not be able to access it again later. <br>
 
->ユーザーは、ユーザー名と一時パスワードを使ってパートナー センターにサインインする必要があります。 ユーザーがパートナーセンターに初めてサインインすると、パスワードの変更を求めるメッセージが表示されます。    
+>The user will need to sign in to Partner Center with their user name and temporary password. When the user signs in to Partner Center for the first time, they are prompted to change their password.    
 
 
-### <a href="" id="assignuserpermissions"></a>ユーザーのアクセス許可を割り当てる
+### <a href="" id="assignuserpermissions"></a>Assign user permissions
 
-パートナー センターへのアクセスは役割ベースであるため、アクセス許可を割り当てることで、ユーザーのビューをカスタマイズして特定のタスクに必要な機能のみを表示できます。 
+Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. 
 
-ユーザーごとに、次の 2 つのアクセス許可レベルを選ぶ必要があります。
+For each user, you must select two permission levels:
 
--   エージェントのアクセス許可では、ユーザーが表示および変更できる顧客データとアカウント情報の種類を制御します。
+-   Agent permissions control what kind of customer data and account information the user can see and change.
 
--   管理者のアクセス許可では、パートナー センターの各機能に対するユーザーのアクセス レベルを制御します。 この設定は、パートナー センターを超えた外部システムにも影響を与えます。請求管理者は、すべての Microsoft サービスの請求書 (CSP と無関係の請求書を含む) にアクセスでき、全体管理者は CSP 以外のユーザー アカウントと顧客アカウントにもアクセスできます。
+-   Admin permissions control the level of access the user has to Partner Center features. This setting has impact outside of Partner Center -- a billing admin can access bills for all Microsoft services (even those unrelated to CSP), and a global admin can access user accounts and customer accounts beyond CSP as well.
 
-##<a name="assign-permissions-for-incentives-users"></a>インセンティブ ユーザーにアクセス許可を割り当てる
-インセンティブ ユーザーをセットアップするとき、インセンティブ管理者の役割またはインセンティブ ユーザーの役割を付与できます。  インセンティブ管理者は、銀行および税情報の編集、マイクロソフトへの支払い申請、インセンティブ ユーザーの管理を行うことができます。 インセンティブ ユーザーは、プログラム、銀行、および税情報を確認できますが編集はできません。 多くの場合、実際のインセンティブ プログラムを顧客に提供します。 インセンティブ管理者とインセンティブ ユーザーには、組織のパートナー センターで他の役割を付与できますが、インセンティブ プログラムで作業するにはインセンティブ管理者またはインセンティブ ユーザーでなければなりません。
+## <a name="assign-permissions-for-incentives-users"></a>Assign permissions for Incentives users
+When you set up your incentives users, you can give them either the incentive admin role or incentive user role.  インセンティブ管理者は、インセンティブ登録とその移行、銀行および税プロファイルの編集、すべてのレポートの表示を行うことができます。 インセンティブ ユーザーは、プログラムの登録を確認し、レポートを表示できます。 Incentives admins and users can have other roles in Partner Center for your organization but to work on Incentives programs a user must be either incentives admin or user.
 
->**重要** 既定の設定は、ユーザーがその役割に求められるタスクを完了し、お客様をサポートするために追加のアクセス許可が必要な場合を除き、常に **[管理者なし]** です。
+>**Important** The default setting should always be **No admin**, unless the user's role requires additional access to complete tasks and support customers.
 
-次の表では、パートナー センターで各役割が実行できる機能を示します。
+The following table explains what each role can do in Partner Center.
 
 <table>
 <colgroup>
@@ -60,114 +60,117 @@ ms.lasthandoff: 06/26/2017
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>パートナー センターでの役割</strong></p></td>
-<td><p><strong>実行できる可能</strong></p></td>
-<td><p><strong>実行できない機能</strong></p></td>
+<td><p><strong>Role in Partner Center</strong></p></td>
+<td><p><strong>What they can do</strong></p></td>
+<td><p><strong>What they can't do</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>管理エージェント</strong></p></td>
+<td><p><strong>Admin agent</strong></p></td>
 <td><ul>
-<li><p>顧客の管理</p></li>
-<li><p>パートナー センターへのデバイスの一覧の追加</p></li>
-<p><li>プロファイルの作成とデバイスへの適用</p></li>
-<li><p>サブスクリプションの管理</p></li>
-<li><p>顧客のためのサービスの正常性の確認とサービス要求</p></li>
-<li><p>代理管理者特権の要求</p></li>
-<li><p>価格とプランの表示</p></li>
-<li><p>請求</p></li>
-<li><p>顧客の代理としての管理</p></li>
-<li><p>付加価値リセラーの登録</p></li>
+<li><p>Customer management</p></li>
+<li><p>Add device list to Partner Center</p></li>
+<p><li>Create and apply profiles to devices</p></li>
+<li><p>Subscription management</p></li>
+<li><p>Service health and service requests for customers</p></li>
+<li><p>Request delegated administrator privileges</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>Administer on behalf of a customer</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 <td><ul>
-<li><p>ユーザー管理</p></li>
-<li><p>パートナー センターのサービス要求</p></li>
+<li><p>User management</p></li>
+<li><p>Service requests for Partner Center</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>販売代理店</strong></p></td>
+<td><p><strong>Sales agent</strong></p></td>
 <td><ul>
-<li><p>顧客の管理</p></li>
-<li><p>パートナー センターへのデバイスの一覧の追加</p></li>
-<li><p>サブスクリプションの管理</p></li>
-<li><p>サポート チケットの表示</p></li>
-<li><p>顧客との再販業者関係の要求</p></li>
-<li><p>見込み客の管理</p></li>
-<li><p>顧客契約の表示</p></li>
-<li><p>付加価値リセラーの登録</p></li>
+<li><p>Customer management</p></li>
+<li><p>Add device list to Partner Center</p></li>
+<li><p>Subscription management</p></li>
+<li><p>View support tickets</p></li>
+<li><p>Request a relationship with a customer</p></li>
+<li><p>Manage customer leads</p></li>
+<li><p>View the customer agreement</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 <td><ul>
-<li><p>パートナー センターの問題に関するサービス要求の作成</p></li>
-<li><p>サポート チケットの解決</p></li>
-<li><p>サービスの正常性の表示</p></li>
-<li><p>価格とプランの表示</p></li>
-<li><p>請求</p></li>
-<li><p>顧客の代理としての管理</p></li>
+<li><p>Create service requests for problems with Partner Center</p></li>
+<li><p>Resolve support tickets</p></li>
+<li><p>View service health</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>Administer on behalf of a customer</p></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>ヘルプデスク エージェント</strong></p></td>
+<td><p><strong>Helpdesk agent</strong></p></td>
 <td><ul>
-<li><p>顧客の検索と表示</p></li>
+<li><p>Search for and view a customer</p></li>
 <li><p>顧客の詳細の編集</p></li>
-<li><p>サービスの正常性</p></li>
+<li><p>請求やサブスクリプション管理に関する顧客の問題の解決サポート</p></li>
 <li><p>顧客の代理としてのサポート要求 (注: Office 365 サブスクリプションの場合、このタスクを完了するには管理者エージェントの役割が必要です)</p></li>
 <li><p>顧客の代理としてのサブスクリプションとサービスの管理 (注: Office 365 サブスクリプションの場合、このタスクを完了するには管理者エージェントの役割が必要です)</p></li>
 </ul></td>
 <td><ul>
 <li><p>パートナー プロファイルの表示</p></li>
-<li><p>新しい顧客アカウントの作成</p></li>
+<li><p>Create a new customer account</p></li>
 <li><p>顧客の請求情報の編集</p></li>
-<li><p>サブスクリプションの管理</p></li>
-<li><p>顧客との再販業者関係の要求</p></li>
-<li><p>見込み客の管理</p></li>
-<li><p>価格とプランの表示</p></li>
-<li><p>顧客契約の表示</p></li>
-<li><p>請求</p></li>
-<li><p>付加価値リセラーの登録</p></li>
+<li><p>Azure のテクニカル サポートの要求</p></li>
+<li><p>Manage subscriptions</p></li>
+<li><p>Request a relationship with a customer</p></li>
+<li><p>Manage customer leads</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>View the customer agreement</p></li>
+<li><p>Billing</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>グローバル管理</strong></p></td>
+<td><p><strong>Global admin</strong></p></td>
 <td><ul>
-<li><p>完全な権限を使ったすべての Microsoft アカウント/サービスへのアクセス</p></li>
-<li><p>パートナー センターへのサポート チケットの作成</p></li>
-<li><p>契約、価格表、キャンペーンの表示</p></li>
-<li><p>請求</p></li>
-<li><p>パートナー ユーザーの表示、作成、管理</p></li>
+<li><p>Can access all Microsoft account/services with full privileges</p></li>
+<li><p>Create support tickets for Partner Center</p></li>
+<li><p>View agreements, price lists, and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>View, create, and manage partner users</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>課金の管理</strong></p></td>
+<td><p><strong>Billing admin</strong></p></td>
 <td><ul>
-<li><p>完全な権限を使った、Microsoft からのすべての請求書へのアクセス</p></li>
-<li><p>契約、価格表、キャンペーンの表示</p></li>
-<li><p>請求</p></li>
+<li><p>Can access all bills from Microsoft with full privileges</p></li>
+<li><p>View agreements, price lists, and offers</p></li>
+<li><p>Billing</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>ユーザー管理者</strong></p></td>
+<td><p><strong>User management admin</strong></p></td>
 <td><ul>
-<li><p>ユーザーの表示、作成、管理</p></li>
-<li><p>すべてのパートナー プロファイルの表示</p></li>
+<li><p>View, create, and manage users</p></li>
+<li><p>View all partner profiles</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>インセンティブ管理者</strong></p></td>
 <td><ul>
-<li><p>すべてのインセンティブ プログラムを表示および管理する</p></li>
-<li><p>インセンティブ プログラムの銀行と税プロファイルを編集する</p></li>
-<LI><p>インセンティブ ユーザーを管理する</p></li>
+<li><p>インセンティブ プログラムへの登録</p></li>
+<li><p>パートナー センターへのインセンティブ登録の移行</p></li>
+<li><p>すべてのインセンティブ プログラムの表示と管理</p></li>
+<li><p>インセンティブ プログラムの銀行と税プロファイルの編集</p></li>
+<li><p>すべてのインセンティブ レポートの表示</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>インセンティブ ユーザー</strong></p></td>
 <td><ul>
-<li><p>インセンティブ プログラムを表示する</p></li>
-<li><p>銀行および税プロファイルを表示する</p></li>
+<li><p>登録の表示</p></li>
+<li><p>レポートの表示</p></li>
 </ul></td>
 <td></td>
 </tr>

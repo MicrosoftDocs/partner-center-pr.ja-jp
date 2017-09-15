@@ -1,99 +1,103 @@
 ---
-title: "Windows Autopilot でデバイスのセットアップを効率化する | パートナー センター"
-description: "Windows Autopilot でデバイスのセットアップを効率化するためにパートナー センターの Windows AutoPilot プロファイルを追加する"
+title: Simplify device setup with Windows Autopilot | Partner Center
+description: Add a Windows AutoPilot deployment profile in Partner Center to simplify device setup with Windows Autopilot
 author: KPacquer
-keywords: "autopilot、windows autopilot、microsoft autopilot、ゼロタッチ展開、oobe、ログイン画面"
-robots: NOINDEX,NOFOLLOW
-ms.openlocfilehash: aa650ee5f2848694fe44d4751d52f8014e0d22a8
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+keywords: autopilot, windows autopilot, microsoft autopilot, zero-touch deployment, oobe, login screens
+ms.openlocfilehash: a307a1e8f46137ba0f796b2ad2fb059c1d602eac
+ms.sourcegitcommit: 493122887ab9a5524590be12f5e1fedf4a004682
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/28/2017
 ---
-# <a name="simplify-device-setup-with-windows-autopilot"></a>Windows Autopilot でデバイスのセットアップを効率化する 
+# <a name="simplify-device-setup-with-windows-autopilot"></a>Simplify device setup with Windows Autopilot 
 
-Windows Autopilot によって、新しい Windows 10 Pro デバイスのセットアップを、最初のブートからほんの数ステップで効率的に実行し、セキュリティで保護することができます。 詳しくは、[Windows AutoPilot の概要に関するページ](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)ご覧ください。
+Windows Autopilot streamlines and secures device setup for new Windows 10 Pro devices from first boot in only a few steps. To learn more, see [Overview of Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot).
 
-## <a name="features"></a>機能
+## <a name="features"></a>Features
 
-*  デバイスをセットアップするエンド ユーザーの**ローカル管理者のアクセス許可を無効にします**。
-*  **組織のログイン ページを表示します**。 組織では、デバイスを作業デバイスとして追加し、デバイスを Azure Active Directory に追加するログオン ページがあらかじめ定義できます。
-*  **デバイスを Mobile Device Manager (MDM) に登録します**。たとえば、OOBE が完了した後の Microsoft Intune。
-*  Windows AutoPilot 展開プロフィルを使用して、必要なステップと意思決定のみが実行されるように **out-of-box experience (OOBE) を効率化します**。 
+*  **Disable local administrator permissions** for the end users setting up devices
+*  **Show an organization's login page**. The organization can predefine a logon page that adds the device as a work device, and joins the device with Azure Active Directory.
+*  **Enroll the device into a Mobile Device Manager (MDM)**, for example: Microsoft Intune, after OOBE is complete.
+*  **Streamline the out-of-box experience (OOBE)** to use just the steps and decisions required, using a Windows AutoPilot Deployment profile. 
 
-## <a name="requirements"></a>要件
+## <a name="requirements"></a>Requirements
 
-*  Windows 10 Pro Creators Update (バージョン 1703 以降) と共にプリインストールされているデバイス
-*  ハードウェア ハッシュと呼ばれるデバイス識別子 (128 HWH または 4 k HWH)。通常、OEM によって提供されます。 識別子を使用して、パートナー センターで組織プロファイルを割り当てます。 2017 年 8 月以降、ハードウェア ハッシュは必要なくなります。 
-*  デバイスは、インターネットにアクセスできる必要があります。 デバイスが接続できない場合、既定の Windows の out-of-box experience (OOBE) 画面が表示されます。
-*  デバイスを MDM に登録するには、Azure Active Directory Premium が必要です。
+*  Windows 10 Pro Creators Update (バージョン 1703 以降) または Windows 10 Pro for Advanced PC がプリインストールされているデバイス
+*  Device identifier known as a hardware hash (128 HWH or 4k HWH), which is typically provided by an OEM. You'll use identifiers to assign organization profiles in Partner Center. 2017 年 10 月以降、ハードウェア ハッシュが不要になります。 
+*  The devices must have access to the internet. When the device can’t connect, it shows the default Windows out-of-box experience (OOBE) screens.
+*  Enrolling the device into an MDM requires Azure Active Directory Premium.
 
-## <a name="add-organization-login-pages-to-oobe"></a>組織のログイン ページを OOBE に追加する
+## <a name="add-organization-login-pages-to-oobe"></a>Add organization login pages to OOBE
 
-組織固有のページを追加するには、組織の [Azure AD ディレクトリ](https://go.microsoft.com/fwlink/?linkid=848958)にデバイスを追加し、ログイン ページを作成します。
-
-
-## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 展開プロファイルを使用して OOBE から Windows のページを削除する
-
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 展開プロファイルの設定の例
-*  セットアップでプライバシー設定をスキップする
-*  セットアップでローカル管理者アカウントを無効にする
-*  セットアップで自動的にページをスキップする
-   *  職場または学校用のセットアップを自動的に選択する
-   *  Cortana、OneDrive、OEM 登録のセットアップのページをスキップする
-
-### <a name="add-devices-and-apply-a-profile"></a>デバイスを追加し、プロファイルを適用する
-
-パートナー センターで、Windows AutoPilot 展開プロファイルを作成し、デバイスの一覧にプロファイルを適用できます。
-
-デバイスを構成するには、パートナー センターにデバイスの一覧をアップロードし、デバイスに適用するプロファイルを作成して適用します。
-
-1.  パートナー センターにデバイスの一覧を追加します  (販売エージェントと管理エージェントが、パートナー センターにデバイスの一覧を追加するアクセス権を持っています)。
-
-    a.  [Windows AutoPilot の概要に関するページ](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)にあるトピックから、PowerShell スクリプトを使って .csv ファイルを作成します。 この .csv ファイルには、シリアル番号、OEM 名、モデル名、製品 ID、デバイス識別子などのデバイス情報が含まれています。 
-
-    b.  パートナー センターのダッシュボードから、**[顧客]** に移動してデバイスを受け取る顧客を選択し、**[デバイス]、[デバイスの追加]** を選択します。
-
-    c.   デバイスのバッチに名前を付けます (例: "Contoso Sales Department PCs – April 2017 order")。 
-
-    d.   **[参照]** をクリックし、デバイス情報ファイルを選択して **[検証]** をクリックします。
-
-    **注:** .csv ファイルをアップロードしようとした後にエラー メッセージが表示される場合は、ファイルの形式を確認します。 8 月以降は、ハードウェア ハッシュのみを使う、OEM 名、シリアル番号、モデルを列の順序で使う、または Windows 製品 ID を使うことができます。 **[デバイスの追加]** の横のリンクから入手できる .csv ファイルを使うこともできます。
-
-2.  デバイスに適用できるプロファイルを作成します。 (パートナー センターで、プロファイルを作成して適用するアクセス権を持つのは管理エージェントのみです)。
-
-    a.   **[デバイス]** で、**[新しいプロファイルの追加]** をクリックします。
-
-    b.   プロファイルに名前を付けます (例: "Contoso Desktop Profile – Skip All OOBE")。
-
-    c.   OOBE の設定を構成します。 たとえば、**[セットアップで簡単設定をスキップする]** をオンにします。
-
-    d.   **[送信]** をクリックします。
-
-3.  プロファイルを適用します。
-
-    a.   **[デバイス]** の **[デバイスの割り当てと削除]** ウィンドウで、構成するデバイスを選択します。 バッチ全体を選択するには、バッチ名 (例: "Contoso Sales Department PCs – March 2017 order") の横にあるチェック ボックスをオンにします。
-
-    b.   **[プロファイルの適用]** をクリックし、プロファイル (例: "Contoso Desktop Profile – Skip All OOBE") を選択します。 デバイスの [プロファイル] 列にプロファイルが表示されます。
-
-4.  省略可能: テストしてプロファイルが動作することを確認します。
-
-    a.   デバイスをネットワークに接続し、電源をオンにします。
-
-    b.   適切な OOBE 画面 (存在する場合) が表示されることを確認します。
-
-    c.   新しいユーザー用のデバイスを準備するには、OOBE エクスペリエンスを完了し、デバイスを工場出荷時の既定の設定にリセットします。
+To add organization-specific pages, add the devices into your organization’s [Azure AD directory](https://go.microsoft.com/fwlink/?linkid=848958) and create login pages.
 
 
-## <a name="to-update-or-delete-a-profile"></a>プロファイルを更新または削除するには 
+## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Remove Windows pages from OOBE with a Windows AutoPilot deployment profile
 
-デバイスにプロファイルを割り当てた後、既にデバイスを顧客に付与した場合でも、プロファイルを更新できます。 デバイスがインターネットに接続されたときに、OOBE プロセスでプロファイルの最新バージョンがダウンロードされます。 顧客がデバイスで工場出荷時の既定の設定を復元した場合も、デバイスはプロファイルの最新の更新プログラムをダウンロードします。 
+### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Examples of settings in a Windows AutoPilot deployment profile
+*  Skip Privacy Settings in setup
+*  Disable local admin account in setup
+*  Automatically skip pages in setup
+   *  Automatically select setup for work or school
+   *  Skip Cortana, OneDrive, and OEM registration setup pages
 
-###<a name="you-can-remove-a-profile-from-a-device"></a>デバイスからプロファイルを削除することができます。
-1. プロファイルを削除するデバイス (またはデバイスのバッチ) を選択します。 
+### <a name="add-devices-and-apply-a-profile"></a>Add devices and apply a profile
 
-2. **[デバイスの割り当てと削除]** ウィンドウで、**[プロファイルの削除]** を選択します。
+In Partner Center, you can create a Windows AutoPilot deployment profile and apply it to a list of the devices.
 
-3. 削除するプロファイルに移動し、プロファイルを削除します。 プロファイルは、すべてのデバイスから削除されます。
+To configure devices, upload a list of the devices into Partner Center, create a profile that applies to the devices, and apply it.
 
-**[デバイス]** で、プロファイルを選択します。 ここから、既存の設定を変更することができます。
+1.  Add the list of devices into Partner Center.
+
+    (販売エージェントと管理エージェントが、パートナー センターにデバイスの一覧を追加するアクセス権を持っています)。
+    
+    間接リセラーは、間接プロバイダーと協力してこれを追加することができます。
+
+    a.  Create a .csv file using the PowerShell script from the topic: [Overview of Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). This .csv file contains device info including the serial number, OEM name, model name, product ID and device identifier. 
+
+    b.  From the Partner Center dashboard, go to **Customers** > select the customer that’s receiving the devices > **Devices > Add devices**.
+
+    c.  Name the batch of devices, for example, “Contoso Sales Department PCs – April 2017 order.” 
+
+    d.  Click **Browse** > select the device info file > **Validate**.
+
+    **Note:** If you get an error message after trying to upload the .csv file, check the format of the file. After August, you can use the Hardware Hash only, or the OEM name, serial number, and model in that column order, or the Windows Product ID. You can also use the sample .csv file provided from the link next to **Add devices**.
+
+2.  Create a profile that you can apply to the devices. (Only admin agents have access to create and apply profiles in Partner Center.)
+
+    a.  From **Devices**, click **Add new profile**.
+
+    b.  Name the profile, for example, “Contoso Desktop Profile – Skip All OOBE”.
+
+    c.  Configure the OOBE settings. For example, check **Skip Express Settings in setup**.
+
+    d.  Click **Submit**.
+
+3.  Apply the profile.
+
+    a.  From **Devices**, in the **Assign and delete devices** pane, select the devices that you want to configure. To select an entire batch, click the checkbox next to the batch name (for example, “Contoso Sales Department PCs – March 2017 order”).
+
+    b.  Click **Apply profile**, and select the profile (for example, “Contoso Desktop Profile – Skip All OOBE”). The devices will show the profile in the Profile column.
+
+4.  Optional: Test to see that your profile works.
+
+    a.  Connect a device to the network, and turn it on.
+
+    b.  Verify that the appropriate OOBE screens (if any) appear.
+
+    c.  To prepare the device for a new user, complete the OOBE experience, then reset the device to its factory default settings.
+
+
+## <a name="to-update-or-delete-a-profile"></a>To update or delete a profile 
+
+Once you’ve assigned a profile to a device, you can update it, even if you’ve already given the device to your customer. When the device connects to the internet, it downloads the latest version of your profile during the OOBE process. If your customer restores their device to its factory default settings, the device will again download the latest updates to your profile. 
+
+### <a name="you-can-remove-a-profile-from-a-device"></a>You can remove a profile from a device
+1. Select the device (or batch of devices) you want to remove the profile from. 
+
+2. In **Assign and delete devices** pane, select **Remove profile**.
+
+3. Go to the profile you want to remove and delete it. The profile will be deleted from all devices.
+
+From **Devices**, select the profile. From here, you can modify the existing settings.
+

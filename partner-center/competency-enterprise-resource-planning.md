@@ -1,86 +1,93 @@
 ---
-title: "Enterprise Resource Planning コンピテンシー"
-description: "エンタープライズ リソース プランニングのニーズに合った Dynamics ソリューションを開発および展開する点で組織の能力を生かすことにより、Microsoft パートナーとなりましょう。"
+title: Enterprise Resource Planning Competency
+description: "Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs."
 author: Daniel Simpson
-keywords: "コンピテンシー,コンピテンシー,Enterprise Resource Planning"
-robots: noindex,nofollow
-ms.openlocfilehash: d4bf2ab195776dfafea9f6e69db0667df28a5816
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Enterprise Resource Planning
+ms.openlocfilehash: 7608e8bb44134fde6ff05db360db9fd2ccb04d7d
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 #<a name="enterprise-resource-planning"></a>Enterprise Resource Planning 
-エンタープライズ リソース プランニングのニーズに合った Dynamics ソリューションを開発および展開する点で組織の能力を生かすことにより、Microsoft パートナーとなりましょう。
+Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs.
 
-##<a name="erp-reseller-option"></a>ERP リセラー オプション
-エンタープライズ リソース プランニング (ERP) リセラー オプションは、収益のしきい値と試験の要件を満たすことによって能力を証明するパートナー様に最適です。 Enterprise Resource Planning コンピテンシーを取得するオプション内のすべての手順を完了します。
+##<a name="erp-reseller-option"></a>ERP Reseller option
+The Enterprise Resource Planning (ERP) Reseller option is ideal for partners who want to prove their capability by meeting revenue thresholds and exam requirements. Complete all the steps within the option to attain the Enterprise Resource Planning competency.
 
 ###<a name="silver"></a>Silver
 
-1. 組織がパフォーマンスしきい値を満たす必要があります。
+1. Your organization must meet the performance thresholds.
 
-    **成熟した市場**
-    - パートナー様は、ライセンスにより年間合計 75,000 ドルの粗利益を上げる必要があります。
-    - Microsoft Dynamics AX オンプレミスおよび Dynamics AX オンライン、Dynamics GP、Dynamics SL、Dynamics NAV、Dynamics 365 プラン 2 の収益要件を満たす。  
-  
-2. 試験要件に合格した従業員が組織に **5** 人必要です。
+    - **Developed Markets**
+        - Partner must have earned a total annual gross license revenue of US$75,000
+       
+    - **発展途上市場**
+        - パートナー様は、ライセンスにより年間合計 40,000 ドルの粗利益を上げる必要があります。
+ 
+    - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan 2.  
 
-    - **1** 人の従業員が次の試験に合格する必要があります。
-        - 試験 [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX 開発の概要
+2. Your organization must have **5** individuals pass the exam requirements.
 
-    **および**
+    - **1** individual must pass the following exam:
+        - Exam [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction
 
-    - 別の従業員が次の試験に合格する必要があります。
-        - [試験 MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX の配布および取引
+    **AND**
 
-    **および**
+    - Another individual must pass the following exam:
+        - [Exam MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade
 
-    - 別の従業員が次の試験に合格する必要があります。
-        - [試験 MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX の財務
+    **AND**
 
-    **および**
+    - Another individual must pass the following exam:
+        - [Exam MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials
 
-    - 別の従業員が次の試験に合格する必要があります。
-        - [試験 MB6-705](https://www.microsoft.com/en-us/learning/exam-mb6-705.aspx): Microsoft Dynamics AX 2012 R3 CU8 のインストールと構成
+    **AND**
 
-    **および**
+    - Another individual must pass the following exam:
+        - [Exam MB6-705](https://www.microsoft.com/en-us/learning/exam-mb6-705.aspx): Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration
 
-    - 別の従業員が次の試験に合格する必要があります。
-        - [試験 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Microsoft SQL Server 2012 データベースの管理
+    **AND**
+
+    - Another individual must pass the following exam:
+        - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
 
 ###<a name="gold"></a>Gold
 
-1. 組織がパフォーマンスしきい値を満たす必要があります。
+1. Your organization must meet the performance thresholds.
 
-    **成熟した市場**
-    - パートナー様は、ライセンスにより年間合計 175,000 ドルの粗利益を上げる必要があります。
-    - Microsoft Dynamics AX オンプレミスおよび Dynamics AX オンライン、Dynamics GP、Dynamics SL、Dynamics NAV、Dynamics 365 プラン 2 の収益要件を満たす。  
+    - **Developed Markets**
+    -   パートナー様は、ライセンスにより年間合計 175,000 ドルの粗利益を上げる必要があります。
   
-2. 試験要件に合格した従業員が組織に **5** 人必要です。
+    - **発展途上市場**
+        - パートナー様は、ライセンスにより年間合計 75,000 ドルの粗利益を上げる必要があります。 
 
-    - **1** 人の従業員が次の試験に合格する必要があります。
-        - [試験 MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX 開発の概要
+    - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan 2.  
 
-    **および**
+2. Your organization must have **5** individuals pass the exam requirements.
 
-    - 別の従業員が次の試験に合格する必要があります。
-        - [試験 MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX の配布および取引
+    - **1** individual must pass the following exam:
+        - [Exam MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction
 
-    **および**
+    **AND**
 
-    - 別の従業員が次の試験に合格する必要があります。
-        - [試験 MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX の財務
+    - Another individual must pass the following exam:
+        - [Exam MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade
 
-    **および**
+    **AND**
 
-    - 別の従業員が次の試験に合格する必要があります。
-        - [試験 MB6-705](https://www.microsoft.com/en-us/learning/exam-mb6-705.aspx): Microsoft Dynamics AX 2012 R3 CU8 のインストールと構成
+    - Another individual must pass the following exam:
+        - [Exam MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials
 
-    **および**
+    **AND**
 
-    - 別の従業員が次の試験に合格する必要があります。
-        - [試験 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Microsoft SQL Server 2012 データベースの管理
+    - Another individual must pass the following exam:
+        - [Exam MB6-705](https://www.microsoft.com/en-us/learning/exam-mb6-705.aspx): Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration
+
+    **AND**
+
+    - Another individual must pass the following exam:
+        - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
 
 
 

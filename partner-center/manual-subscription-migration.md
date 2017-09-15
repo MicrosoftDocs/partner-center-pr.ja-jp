@@ -1,61 +1,63 @@
 ---
-title: "Dynamics AX のサブスクリプションを Dynamics 365 に移行する | パートナー センター"
-description: "Microsoft では、次世代のインテリジェント ビジネス アプリケーションである Dynamics 365 を公開しました。これにより、お客様の組織を成長、進化、および変化させ、顧客のニーズに合わせて、新しいビジネスの機会を捕らえることができます。"
+title: "Dynamics AX サブスクリプションを Dynamics 365 に移行する | パートナー センター"
+description: "Microsoft では、次世代のインテリジェント ビジネス アプリケーションである Dynamics 365 を公開しました。これにより、パートナー様は、お客様のニーズに対応して、新しいビジネス チャンスを獲得できるように、貴社の成長、進化、変革を図ることができます。"
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 39f254488dab4335a24a5a36fc593d2e281adbf8
+ms.sourcegitcommit: 2c948321945d0e61153f7d766a1a669782df4a54
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 07/24/2017
 ---
-# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Dynamics AX のサブスクリプションを Dynamics 365 に移行する
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Dynamics AX サブスクリプションを Dynamics 365 に移行する
 
 **適用対象**
 
 -  パートナー センター
 
-Microsoft では、次世代のインテリジェント ビジネス アプリケーションである Dynamics 365 を公開しました。これにより、お客様の組織を成長、進化、および変化させ、顧客のニーズに合わせて、新しいビジネスの機会を捕らえることができます。 新製品の一部として、Microsoft では、2016 年 11 月 1 日にお客様向けの新しい Microsoft Dynamics サブスクリプション プランを導入しました。このプランは現行のプランと類似していますが、まったく同じものではありません。
+Microsoft では、次世代のインテリジェント ビジネス アプリケーションである Dynamics 365 を公開しました。これにより、パートナー様は、お客様のニーズに対応して、新しいビジネス チャンスを獲得できるように、貴社の成長、進化、変革を図ることができます。 新製品の一部として、マイクロソフトでは、2016 年 11 月 1 日に顧客向けの新しい Microsoft Dynamics サブスクリプション プランを導入しました。このプランは現行のプランと類似していますが、若干の違いがあります。
 
-このドキュメントに示されている手順では、間接プロバイダーが顧客の既存の Microsoft Dynamics AX サブスクリプションを新しい Microsoft Dynamics 365 に切り替える方法を説明しています。 この手順は、他の Microsoft 製品が新しいバージョンに更新されるとき、プロバイダーが顧客のサブスクリプションを新しい SKU に移行する必要がある場合にも適用されます。
+このドキュメントに示されている手順では、間接プロバイダーが顧客の既存の Microsoft Dynamics AX サブスクリプションと Microsoft Dymanics CRM Online サブスクリプションを Microsoft Dynamics 365 に切り替える方法を説明しています。 この手順は、他の Microsoft 製品を新しいバージョンに更新する場合や、プロバイダーが顧客のサブスクリプションを新しい SKU に移行する必要がある場合にも適用されます。
+
+Microsoft Dynamics CRM Online および AX プランは廃止されます。  2017 年 7 月 1 日以降は、レガシ プランへの更新ができなくなり、既存の E4 サブスクリプションも有効期限満了時に自動更新されません。
+
+CRM Online と AX のサブスクリプションは終了した時点で取り消されます。 お客様への継続的なサービス提供を保証するには、有効期限が迫っているサブスクリプションのお客様を、サポートされている以下の SKU オプションに移行する必要があります。 お客様のサービスが中断することを避けるため、サブスクリプションの年間終了日前に新しいサブスクリプションにお客様を移行することをお勧めします。 
+
+サブスクリプションの詳細ページでは、有効期限の近づいたサブスクリプションに対して、サブスクリプションの状態が "自動更新: [日付]" から "有効期限: [日付]" に変更されています。 
+
+API (CREST またはパートナー センターのいずれか) を使用している場合は、サブスクリプションの終了日と auto renew = False プロパティを評価して、有効期限が迫っているサブスクリプションを検出できます。サブスクリプションは、2017 年 7 月 1 日に ”auto renew=False” に設定されています。 パートナー様は顧客をいつでも新しいプランに移動することができます。 
 
 **Microsoft Dynamics AX ライセンスの変更**
 
-Microsoft Dynamics AX 製品ラインは廃止されます。2016 年 11 月 1 日以降はご利用できません。 Dynamics 365 の新しいライセンス オプションについて詳しくは、間もなく公開される次のライセンス ガイドをご覧ください。 ライセンスの関連について詳しくは、次の表をご覧ください。
+Microsoft Dynamics AX 製品ラインは廃止されました。2016 年 11 月 1 日以降は利用できません。 Dynamics 365 の新しいライセンス オプションについて詳しくは、[ライセンス ガイド](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)をご覧ください。
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>廃止される Dynamics AX ライセンス</strong></p></td>
-<td><p><strong>Dynamics 365 ライセンス</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Dynamics AX エンタープライズ</p></td>
-<td><p>Dynamics 365 Enterprise エディション プラン 2</p>
-<p>または、業務向け Dynamics 365</p></td>
-</tr>
-<tr class="odd">
-<td><p>Dynamics AX タスク</p></td>
-<td><p>チーム メンバー向け Dynamics 365</p></td>
-</tr>
-<tr class="even">
-<td><p>Dynamics AX 機能</p></td>
-<td><p>チーム メンバー向け Dynamics 365</p></td>
-</tr>
-<tr class="odd">
-<td><p>Dynamics AX デバイス</p></td>
-<td><p>業務デバイス向け Dynamics 365</p></td>
-</tr>
-</tbody>
-</table>
+ ライセンスの関連について詳しくは、次の表をご覧ください。
 
- 
+|**廃止された SKU**   |**Dynamics 365 SKU**   |
+|-------------------|:----------------------|
+|Enterprise SKU|Microsoft Dynamics 365 for Unified Operations または Microsoft Dynamics 365 プラン |
+|タスク|Microsoft Dynamics 365 for Activity
+|タスク/セルフサービス|Microsoft Dynamics 365 for Team Members|
+|デバイス|Microsoft Dynamics 365 for Operations デバイス|
+
+## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Microsoft Dynamics CRM Online ライセンスの変更 
 
 **Microsoft Dynamics CRM Online**
 
-現在の Microsoft Dynamics CRM Online プランは廃止されます。2016 年 11 月 1 日以降はご利用できません。 新しいライセンス オプションについて詳しくは、[CRM Online のお客様向けの重要なお知らせ](https://go.microsoft.com/fwlink/?linkid=831667)をご覧ください。
+現在の Microsoft Dynamics CRM Online プランは廃止されました。2016 年 11 月 1 日以降は利用できません。 Microsoft Dynamics 365 の新しいライセンス オプションについて詳しくは、[ライセンス ガイド](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)をご覧ください。 新しいライセンス オプションについて詳しくは、[CRM Online のお客様向けの重要なお知らせ](https://go.microsoft.com/fwlink/?linkid=831667)をご覧ください。
+
+ライセンスの関連について詳しくは、次の表をご覧ください。
+
+|**廃止された SKU**   |**Dynamics 365 SKU**   |
+|-------------------|:----------------------|
+|Enterprise|Dynamics 365 Enterprise Customer Engagement プラン |
+|Professional|Dynamics 365 Enterprise Customer Engagement プラン、Dynamics 365 for Sales、Dynamics 365 for Customer Service|
+|Basic|Dynamics 365 for Team Members、Dynamics 365 for Sales、Dynamics 365 for Customer Service、Dynamics 365 Enterprise Customer Engagement プラン|
+|Essential|Dynamics 365 for Team Members|
+|フィールド サービスアドオン|Dynamics 365 Enterprise Customer Engagement プランまたは Dynamics 365 for Field Service|
+|プロジェクト サービス オートメーション アドオン|Dynamics 365 Customer Engagement プランまたは Dynamics 365 for Project Service Automation|
+
+
 
 ## <a name="transition-customers-to-new-product-plans"></a>顧客を新しい製品プランに移行する
 
@@ -66,13 +68,15 @@ Microsoft では、新しい製品やサービスをリセラーとプロバイ�
 -   [現在のユーザー ライセンスをもう一度割り当てる](#manual-subscription-migration-reassignlicenses)。
 -   [以前のサブスクリプションを取り消す](#manual-subscription-migration-cancelsubscriptions)。
 
-次の手順では、Dynamics AX7 エンタープライズから業務向け Dynamics 365 に顧客を移行します。
+次の手順では、Microsoft Dynamics AX または CRM Online から Dynamics 365 に顧客を移行します。
 
-<a href="" id="purchasenewsubsc"></a>リセラーは、Dynamics AX エンタープライズの既存のサブスクリプションを持つユーザーを業務向け Dynamics 365 に移行する必要があります。 最初の手順では、業務向け Dynamics 365 を購入します。
+この例では、リセラーは、Dynamics AX Enterprise の既存のサブスクリプションを持つユーザーを Dynamics 365 for Operations に移行する必要があります。 まず、Dynamics 365 for Operations を購入します。  CRM Online を使っている顧客を Microsoft Dynamics 365 へ移行する場合は、次の手順を繰り返します。
+
+<a href="" id="purchasenewsubsc"></a>
 
 **新しいサブスクリプションを購入する**
 
-1.  **[ダッシュボード]** メニューで **[顧客]** を選び、移行する顧客を選んでから **[サブスクリプションの追加]** を選びます。
+1.  **[ダッシュボード]** メニューで **[顧客]** を選び、移行する顧客を選び、**[サブスクリプションの追加]** を選びます。
 2.  カタログから購入するサブスクリプション (この場合は、"業務向け Dynamics 365、Enterprise エディション") を選び、ライセンスの数を入力して、**[送信]** を選びます。
 
     この時点では、顧客は以前のサブスクリプションと新しいサブスクリプションの両方を保持することになります。この例では、以前の "Dynamics AX エンタープライズ" と、新しい "対象の" サブスクリプションである "業務向け Dynamics 365、Enterprise エディション" です。
@@ -84,8 +88,8 @@ Microsoft では、新しい製品やサービスをリセラーとプロバイ�
 1.  **[ダッシュボード]** メニューで **[顧客]** を選び、移行する顧客を選んでから **[ユーザーとライセンス]** を選びます。 顧客の [ユーザーとライセンス] ページが開きます。
 2.  ユーザー ライセンスをもう一度割り当てるには、割り当てるユーザーを選んでから **[ライセンスの管理]** を選びます。
 3.  **[ライセンスの管理]** ページで、**[Dynamics AX エンタープライズ]** ライセンスのチェック ボックスをオフにして、**[業務向け Dynamics 365]** ライセンスを選びます。
-4.  **[送信]** を選びます。 確認ページに新しいライセンスの割り当てが一覧表示されます。
-5.  ライセンスをもう一度割り当てる必要がある他の顧客ユーザーについて、同じ手順を繰り返します。
+4.  **[送信]** を選びます。 A confirmation page lists the new license assignments.
+5.  ライセンスをもう一度割り当てる必要がある他のお客様ユーザーについて、同じ手順を繰り返します。
 
 <a href="" id="cancelsubscriptions"></a>ユーザー ライセンスを新しいサービスに移行すると、メニューの最上位にある [顧客] から以前のサブスクリプションを安全に取り消すことができます。
 

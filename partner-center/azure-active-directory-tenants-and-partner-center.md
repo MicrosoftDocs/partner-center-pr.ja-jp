@@ -1,53 +1,52 @@
 ---
-title: "Azure Active Directory テナントとパートナー センター | パートナー センター"
-description: "パートナー センター アカウントを作成するには、Azure Active Directory (Azure AD) テナントが会社に必要です。 Azure AD は、マイクロソフトのクラウド ベース ディレクトリおよび ID 管理サービスです。"
+title: Azure Active Directory tenants and Partner Center | Partner Center
+description: "To create a Partner Center account, your company must have an Azure Active Directory (Azure AD) tenant. Azure AD is Microsoft’s cloud-based directory and identity management service."
 author: labrenne
 robots: 
-ms.openlocfilehash: 9a9a3c3aa239017fe8ecf655f79acbfab6ff8a0b
-ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+ms.openlocfilehash: ab16d167fc978d76c96fc6ef7c1b8eabe26a1ad5
+ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="azure-active-directory-tenants-and-partner-center"></a>Azure Active Directory テナントとパートナー センター  
+# <a name="azure-active-directory-tenants-and-partner-center"></a>Azure Active Directory tenants and Partner Center  
 
-**適用対象**
+**Applies to**
 
--  パートナー センター
+-  Partner Center
 
-## <a name="why-you-need-an-azure-ad-tenant"></a>Azure AD テナントが必要な理由
+#<a name="why-you-need-an-azure-ad-tenant"></a>Why you need an Azure AD tenant
 
-テナント ユーザーが Azure AD (Microsoft アカウント) のユーザー名とパスワードを使ってパートナー センターにサインインできるように、組織の Azure AD テナントを新しいパートナー センター アカウントにリンクする必要があります。
+We need to link your organization’s Azure AD tenant to your new Partner Center account, so your tenant users can sign in to Partner Center with their Azure AD (Microsoft account) user names and passwords.
 
-会社に Azure AD テナントが既にある場合は、そのテナントをパートナー センター アカウントにリンクできます。 
+If your company already has an Azure AD tenant, you can link it to your Partner Center account. 
 
->**注**<br> 既存の Azure AD テナントの使用を決める前に、パートナー センターで作業する必要があるテナント内のユーザーの数について考慮してください。 パートナー センターで作業する必要がないユーザーがテナントにいる場合、パートナー センターで作業する必要があるユーザーだけの新しいテナントを作成することを検討してください。
+**注** 既存の Azure AD テナントの使用を決める前に、パートナー センターでの作業を必要とするテナント内のユーザーの数を考慮してください。 If you have users in the tenant who won’t need to work in Partner Center, consider creating a new tenant for only those users who will need to work in Partner Center.
 
-Azure AD テナントが会社にまだない場合は、登録プロセスを通じて無料で作成できます。 **[Azure Active Directory にサインインします]** ページで **[新しいテナントを作成する]** を選択します。 
+If your company doesn’t already have an Azure AD tenant, you can create one for free during the enrollment process. Select **Create new tenant** on the **Sign in to Azure Active Directory** page. 
 
-### <a name="not-sure-if-your-company-already-has-an-azure-ad-tenant"></a>Azure AD テナントが会社に既にあるかどうかわからない場合
 
-Azure AD テナントが会社にあるかどうかわからない場合、次の手順に従って確認します。 Microsoft Azure または Office 365 のアクティブなサブスクリプションがある場合、既に Azure AD テナントがある点に注意してください。
-1.  Azure 管理ポータル (https://ms.portal.azure.com) にサインインする
-2.  メニューから Azure Active Directory を選択し、ドメイン名を選択します。
+## <a name="not-sure-if-your-company-already-has-an-azure-ad-tenant"></a>Not sure if your company already has an Azure AD tenant?
+
+If you’re not sure whether your company has an Azure AD tenant, follow these steps to check. Note that If you have an active subscription to Microsoft Azure or Office 365, you already have an Azure AD tenant.
+1.  Sign in to the Azure admin portal at https://ms.portal.azure.com
+2.  Select Azure Active Directory from the menu and then select Domain Names.
 3.  既にテナントがある場合、ドメイン名が表示されます。
 
-### <a name="using-an-existing-tenant"></a>既存のテナントを使う場合
+##<a name="using-an-existing-tenant"></a>既存のテナントを使う場合
 
-既存の Azure AD テナントを使おうとしてもサインインで問題が発生する場合、状況に最も合うシナリオを次の図から探し、推奨される手順に従います。 
+If you want to use an existing Azure AD tenant but you’re having trouble signing in, find the scenario on the diagram below that best matches your situation and follow the recommended steps. 
 
-![Azure AD テナントがあるか、もう 1 つ作成する必要がある場合](images/onboardingAADFlow.png)
+![Do you have an Azure AD tenant or do you need to create one?](images/onboardingAADFlow.png)
 
-Azure AD でドメインを追加する方法について詳しくは、[Azure AD でのドメインの追加または関連付けに関するページ](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)をご覧ください。
+For more information about adding domains in Azure AD, see [Add or associate a domain in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
-## <a name="about-microsoft-azure"></a>Microsoft Azure について
+# <a name="about-microsoft-azure"></a>About Microsoft Azure
 
-Microsoft Azure は、マイクロソフトが管理するデータセンターのグローバル ネットワークで企業がアプリケーションの構築、展開、管理に使うことができるパブリック クラウド プラットフォームです。 企業は、Azure を使って、物理的なコンピューターではなく仮想的な機能やサービスを提供する仮想 IT インフラストラクチャを構築します。 
+Microsoft Azure is a public cloud platform that companies can use to build, deploy, and manage applications across a global network of Microsoft-managed datacenters. Companies use Azure to build a virtual IT infrastructure with virtual functions, or services, instead of physical machines. 
 
-Azure サブスクリプションを購入すると、実質的にはセキュリティで保護された専用のペースを Azure パブリック クラウド内に借りることになります。会社の物理的なビジネスを行うためにオフィス ビルのフロアを借りるのと大きな違いはありません。 オフィス ビルの所有者に対して、企業はテナントです。 
+When you purchase an Azure subscription, you’re essentially renting a dedicated, secure space in the Azure public cloud, not too different from renting a floor in an office building to house your company’s physical business. To the office building’s owner, your company is a tenant. 
 
-Azure AD テナントは、Azure パブリック クラウドにおける企業の分離された専用の仮想表現です。Azure、Microsoft Intune、Office 365などの Microsoft クラウド サービスにサブスクライブすると作成されます。 
+An Azure AD tenant is a dedicated and isolated virtual representation of your company in the Azure public cloud, created for you when you subscribe to a Microsoft cloud service such as Azure, Microsoft Intune, or Office 365. 
 
 テナントには、Azure AD ユーザーとユーザーに関する情報 (パスワード、プロフィール データ、アクセス許可など) がホストされます。 テナントには、グループ、アプリケーション、および会社とそのセキュリティに関連する他の情報も含まれています。 
-
-Azure AD について詳しくは、[Azure Active Directory のドキュメント](https://docs.microsoft.com/ azure/active-directory/)をご覧ください。 

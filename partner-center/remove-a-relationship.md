@@ -1,30 +1,35 @@
 ---
-title: "再販業者または顧客との関係の削除 | パートナー センター"
-description: "関係を削除すると、パートナー センターのビューから終了したすべてのビジネス関係が削除されます。"
+title: "顧客との再販業者関係の削除 | パートナー センター"
+description: Removing a relationship removes any closed business relationships from your view in Partner Center.
 author: KPacquer
-robots: noindex,nofollow
-ms.openlocfilehash: 979491e1c2cf90d2e7ca5c02d2bc497675c53dba
-ms.sourcegitcommit: 50faeddcd65ae8aa7f9212bbf134b9fbece41c8c
+ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
+ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/19/2017
 ---
-# <a name="remove-a-relationship-with-a-reseller-or-a-customer"></a>再販業者または顧客との関係の削除
+# <a name="remove-a-reseller-relationship-with-a-customer"></a>顧客との再販業者関係の削除
 
-**適用対象**
+**Applies to**
 
--   パートナー センター
+-   Partner Center
 
-直接パートナー: パートナー センターのビューからすべての終了したビジネス関係を削除できます。
+直接パートナーは、それ以降、取引を行わない顧客との再販業者関係をパートナーセンターで削除できます。 
 
-## <a name="remove-a-relationship-in-partner-center"></a>パートナー センターでの関係の削除
+この機能によって、次の処理が実行されます。
+*  パートナー様のパートナー センターの顧客の一覧から顧客が削除されます。
+*  顧客の[利用可能なサポート連絡先の一覧](assign-support-contacts.md)からパートナー様が削除されます。
+*  顧客に対するパートナー様の代理管理者権限が削除されます。
+*  パートナー様は顧客の代理として製品やサービスを購入できなくなります。
 
-1.  すべてのアクティブなサブスクリプションを中断します。 ダッシュボードで、**[顧客]** で顧客を選択し、**[サブスクリプション]** でサブスクリプションを選択して、**[中断]** を選択します。 
+関係を削除するには、まず、その時点で残っているアクティブなサブスクリプションをいったん中断する必要があります。
 
-   アクティブなサブスクリプションごとに、この手順を繰り返します。
+1.  すべてのアクティブなサブスクリプションを中断します。 From the Dashboard, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**. 
 
-2.  パートナー センターでの関係を削除する: ダッシュボードから、**[顧客]** で顧客を選択し、**[アカウント]** > **[再販業者関係の削除]** を選択します。
+   Repeat this for each active subscription.
 
-    ただし、いずれかのサブスクリプションがアクティブなままである場合、**[再販業者関係の削除]** リンクはアクティブになりません。 
+2.  Remove the relationship in Partner Center: From the Dashboard, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.
 
-関係を再確立するには、[関係の要求](request-a-relationship-with-a-customer.md)のプロセスを繰り返します。
+    Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive. 
+
+To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).

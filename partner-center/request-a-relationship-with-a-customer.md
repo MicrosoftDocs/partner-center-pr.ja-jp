@@ -1,45 +1,46 @@
 ---
-title: "顧客との再販業者関係の要求 | パートナー センター"
-description: "関係の要求は、マルチパートナー シナリオとマルチチャンネル シナリオで使用されます。 また、パートナーの代理管理者特権が顧客によって削除され、パートナーがプロビジョニングやサポートを提供するために、管理者特権を復元する必要がある場合にも使用できます。"
+title: Request a relationship with a customer | Partner Center
+description: Requesting a relationship is used for multi-partner and multi-channel scenarios. It's also useful if a customer removes your delegated admin privileges and you need to restore them to provide provisioning or support.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
+ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 07/19/2017
 ---
-# <a name="connect-with-customers-in-partner-center"></a>パートナー センターでの顧客との連携
+# <a name="connect-with-customers-in-partner-center"></a>Connect with customers in Partner Center
 
-**適用対象**
+**Applies to**
 
--  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+-  Partner Center
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
-顧客のサービスやをサブスクリプションを顧客に代わって管理するには、顧客からそのサービスについて管理者のアクセス許可を取得する必要があります。 顧客から管理者のアクセス許可を取得するには、再販業者関係の要求を顧客にメール送信します。 顧客が要求を承認すると、パートナーはサービスの管理ポータルにログオンして、顧客の代わりにサービスを管理することができます。 
+To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service. To get administrator permissions from a customer, email them a reseller relationship request. After the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf. 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>貴社との再販業者関係を確立するために顧客を招待する
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invite a customer to establish a reseller relationship with you
 
-1.  **[ダッシュボード]** メニューで **[顧客]** を選択し、**[再販業者関係の要求]** を選びます。
+1.  Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.
 
-2.  次のページで、メール メッセージの下書きを確認します。 既定のメール アプリケーションで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。 
+2.  On the next page, review the draft email message. You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email. 
 
-    メールのテキストを編集することはできますが、リンクを必ず含めてください。このリンクは、顧客が貴社のアカウントに直接アクセスできるようにカスタマイズされています。 この手順を完了したら、**[完了]** を選びます。
+    You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account. Select **Done** when you’ve completed this step.
 
-3.  顧客にメールを送信します。
+3.  Send the email to your customer.
 
-4.  顧客が招待を承諾すると、**[顧客]** ページに顧客が表示され、そこから顧客のサービスのプロビジョニングと管理を実行できるようになります。
+4.  After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.
 
- >**注**<br>
-    マルチチャンネル シナリオでは、1 社のパートナーのみが管理者のアクセス許可を取得し、顧客に代わってサービスを管理することができます。 
+ >**Note**<br>
+    In a multi-channel scenario, only one partner can have administrator permissions to manage a service on the customer's behalf. 
 
-5.  顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、顧客の名前の下矢印を選んで、顧客のレコードを展開します。
+5.  To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.
 
 
->**重要**<br>
-顧客は、サービスの管理者ポータルで、管理者のアクセス許可の割り当てを変更したり、削除したりすることができます。 ただし顧客が管理者のアクセス許可の割り当てを変更したり、削除したりした後も、パートナーが顧客との契約について再交渉しない限り、また再交渉するまで、パートナーは引き続きカスタマー サポートを提供し、クラウド リセラー契約の条項を遵守する責任を負います。 この状況で顧客にサポートが必要となった場合、パートナーは顧客に代わって Microsoft サポートにサービス要求を求めることができます。
+>**Important**<br>
+Customers can reassign or remove administrator permisions in a service's admin portal. However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions. In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.
 
-## <a name="related-topics"></a>関連トピック
+## <a name="related-topics"></a>Related topics
 
-[関係の削除](remove-a-relationship.md)
+[サポート連絡先の指定](assign-support-contacts.md)
+[顧客との再販業者関係の削除](remove-a-relationship.md)

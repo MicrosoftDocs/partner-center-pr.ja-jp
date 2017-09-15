@@ -1,39 +1,38 @@
 ---
-title: "Project and Portfolio Management コンピテンシー"
-description: "Project and Portfolio Management コンピテンシーは、顧客にエンタープライズ プロジェクト管理ソリューションを提供する能力を実証しているパートナー様を認識します。"
+title: Project and Portfolio Management Competency
+description: The Project and Portfolio Management competency recognizes partners who demonstrate the ability to deliver enterprise project management solutions to customers.
 author: Daniel Simpson
-keywords: "コンピテンシー, コンピテンシー"
-robots: noindex,nofollow
-ms.openlocfilehash: 4ce3dbcc308f7542dcab5e780bd222eb9a63e146
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency, competencies
+ms.openlocfilehash: 489825fd6d16c8fa275fdc89691bb9f5ebb4f83b
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 # <a name="project-and-portfolio-management"></a>Project and Portfolio Management 
-Project and Portfolio Management コンピテンシーは、顧客にエンタープライズ プロジェクト管理ソリューションを提供する能力を実証しているパートナー様を認識します。
+The Project and Portfolio Management competency recognizes partners who demonstrate the ability to deliver enterprise project management solutions to customers.
 
-## <a name="project-and-portfolio-partner-option"></a>プロジェクトとポートフォリオ パートナー オプション
-プロジェクトとポートフォリオ パートナー オプションは、オンプレミスとクラウド環境の両用でエンタープライズ規模のプロジェクトおよびポートフォリオ管理を提供しているパートナー様に最適です。 Project and Portfolio Management コンピテンシーを取得するためのオプション内のすべての手順を完了します。
+## <a name="project-and-portfolio-partner-option"></a>Project and Portfolio Partner option
+The Project and Portfolio Partner Option is ideal for partners that deliver enterprise-wide project and portfolio management in both on-premises and cloud environments. Complete all the steps within the option to attain the Project and Portfolio Management competency.
 
 ###<a name="silver"></a>Silver
-1. 試験要件に合格した従業員が組織に **2** 人必要です。
+1. Your organization must have **2** individuals pass the exam requirements.
 
-    - **2** 人の従業員がそれぞれ次のすべての試験に合格する必要があります。
+    - **2** individuals must each pass all the following exams:
 
-        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Microsoft Project によるプロジェクトの管理
-        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Microsoft PPM によるプロジェクトとポートフォリオの管理
+        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
+        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
 
 ###<a name="gold"></a>Gold
-1. 試験要件に合格した従業員が組織に **4** 人必要です。
+1. Your organization must have **4** individuals pass the exam requirements.
 
-    - **4** 人の従業員がそれぞれ次のすべての試験に合格する必要があります。
+    - **4** individuals must each pass all the following exams:
 
-        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Microsoft Project によるプロジェクトの管理
-        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Microsoft PPM によるプロジェクトとポートフォリオの管理
+        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
+        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
 
-    **および** 
+    **AND** 
 
-    - 同じ従業員 **4** 人のうち **2** 人がそれぞれ次の試験に合格する必要があります。
+    - **2** of the same **4** individuals must each pass the following exam:
 
-        *  [70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Microsoft SharePoint Server 2016 の管理
+        *  [70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016

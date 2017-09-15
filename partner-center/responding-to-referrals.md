@@ -1,72 +1,72 @@
 ---
-title: "紹介案件への対応 | パートナー センター"
-description: "パートナー センターを通じて、紹介案件を評価し、交渉して、対応します。"
+title: Responding to referrals | Partner Center
+description: Evaluate, negotiate, and respond to referrals through Partner Center.
 author: KPacquer
-keywords: "紹介, RFI, パートナーの検索"
-ms.openlocfilehash: 4172cc60825d445aa9b119780d22002c6c2ea189
-ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+keywords: referral, RFI, Find a Partner
+ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="responding-to-referrals-in-partner-center"></a>パートナー センターでの紹介案件への対応
+# <a name="responding-to-referrals-in-partner-center"></a>Responding to referrals in Partner Center
 
-**適用対象**
+**Applies to**
 
--  パートナー センター
+-  Partner Center
 
-認定マイクロソフト パートナーは、パートナー センターの紹介機能を通じて、見込み客情報を受け取ることができます。 受け取った見込み客情報を管理して、自社に適した案件に迅速に対応し、自社に適さない案件をスキップするか辞退します。 これには、受け取った見込み客情報の種類を確認する必要があります。 
+As a qualified Microsoft partner, you can receive potential business leads through Partner Center referrals. Manage your incoming leads, respond quickly to those that are a good fit, and skip or decline those that aren’t. Review the types of leads that come in. 
 
-## <a name="referral-management"></a>紹介案件の管理
+## <a name="referral-management"></a>Referral management
 
-まず、ビジネスを行っている地域ごとに、[マーケティング プロファイル](create-a-marketing-profile.md)を設定します。 プロファイルをアクティブにすると、マイクロソフトは、以下を通じてお客様をパートナーに紹介できるようになります。
+Start by setting up a [marketing profile](create-a-marketing-profile.md) for each region where you do business. Once your profile is active, we’ll be able to direct customers to your business, through:
 
-*  マイクロソフトのマーケティング活動
-*  マイクロソフト社内の販売/サービス担当者
-*  お客様は、**[パートナーの検索](https://partnercenter.microsoft.com/pcv/search)**ツールを使って検索します。
+*  Microsoft marketing activities
+*  Internal Microsoft sales and service agents
+*  Customer searches, using the **[Find a partner](https://partnercenter.microsoft.com/pcv/search)** tool.
 
-お客様は興味のあるパートナーに関する情報請求 (RFI) を提出します。 
+When a customer is interested in contacting you, they’ll submit a request for information (RFI). 
 
-マイクロソフトは、お客様からの情報請求を受け取ると、パートナーの[マーケティング プロファイル](create-a-marketing-profile.md)に基づき、お客様が選択した特定の地域と場所にある連絡先にメールを送信します。 着信 RFI は、**[ダッシュボード] > [Referrals] (紹介) > [顧客の紹介]** を選んで参照することもできます。
+When that happens, we’ll send email to the contact listed in your [marketing profile](create-a-marketing-profile.md) specific to the region and location selected. You can also see incoming RFIs in Partner Center: go to **Dashboard > Referrals > Customer referrals**.
 
-お客様は、多くの場合、同時に複数の企業に同じ RFI を送信します。 受注の可能性を高めるために、紹介に対して 24 時間以内に応答し、承諾または辞退することをお勧めします。
+Customers often choose to send the same RFI to multiple companies at the same time. To increase your chance of success, we recommend responding to and accepting or declining new referrals within 24 hours or less.
 
-### <a name="new-referrals"></a>新しい紹介案件
+### <a name="new-referrals"></a>New referrals
 
-RFI の概要が表示されます。 ここでは、紹介の詳細情報を表示するかどうかを決定することができます。 
+We’ll show you an overview of the RFI. From here, you can decide whether you’re interested in learning more about the referral. 
 
-*  **[興味あり]**: 紹介が **[評価中]** に移動し、お客様とオファーに関する完全な詳細情報が表示されます。 
-*  **[興味なし]**: 紹介が **[スキップしました]** としてアーカイブされます。 マイクロソフトは、別のパートナーを選択するようにお客様に通知します。
-*  パートナーが 72 時間以内に応答しない場合、その紹介は**[失敗]** としてアーカイブされます。 マイクロソフトは、別のパートナーを選択するようにお客様に通知します。
+*  **I’m interested**: We’ll move the referral to **Evaluating**, and you’ll see the full details about the customer and the offer. 
+*  **No thanks**: We’ll archive it as **Skipped**. We’ll notify the customer to choose a different partner.
+*  If you don’t respond within 72 hours, we’ll archive it as **Missed**. We’ll notify the customer to choose a different partner.
 
-### <a name="evaluating-referrals"></a>紹介案件の評価
+### <a name="evaluating-referrals"></a>Evaluating referrals
 
-詳細を確認し、お客様に連絡します。 ビジネス ニーズについて確認し、それに対応する提案ができるかどうかを判断します。 紹介案件の承諾または辞退: 
+Review the details, and contact the customer. Talk to them about their business needs, and determine if you have an offer that can help them. Accept or decline the referral: 
 
-*  **[承諾]**: 取引の見積金額と予定終了日を入力して **[承諾]** を選びます。 マイクロソフトは、入力された情報を使って、それ以降、同様の取引を紹介します。 紹介案件が **[交渉中]** に移動します。 これによりマイクロソフトは、パートナーがこのお客様に対応し、そのニーズに積極的に取り組もうとしていることを把握します。
-*  **[辞退]**: 紹介案件が **[辞退済み]** としてアーカイブされます。 マイクロソフトは、別のパートナーを選択するようにお客様に通知します。
-*  パートナーが 7 日以内に応答しない場合、その紹介案件は**[有効期限切れ]** としてアーカイブされます。 マイクロソフトは、別のパートナーを選択するようにお客様に通知します。
+*  **Accept**: Enter the estimated deal value, the estimated closing date, and select **Accept**. We’ll use this information to help you find similar deals. We’ll move the referral to **Negotiating**. This tells us that you plan to actively engage with the customer to address their need.
+*  **Decline**: We’ll archive it as **Declined**. We’ll notify the customer to choose a different partner.
+*  If you don’t respond within 7 days, we’ll archive it as **Expired**. We’ll notify the customer to choose a different partner.
 
-### <a name="negotiating-referrals"></a>紹介の交渉
+### <a name="negotiating-referrals"></a>Negotiating referrals
 
-お客様との取引の成約に向けて作業します。 商談の成否をマイクロソフトに連絡し、紹介案件を **[受注]**または**[失注]** としてアーカイブします。 
+Work to close the deal with the customer. Let us know if you won or lost the deal, and archive it as **Won** or **Lost**. 
 
-### <a name="archived-referrals"></a>アーカイブされた紹介案件
+### <a name="archived-referrals"></a>Archived referrals
 
-過去の紹介の結果 (**受注、切断、スキップ、失敗、辞退、**または**有効期限切れ**) はいつでも参照できます。 
+Review your past referrals (**won, lost, skipped, missed, declined** or **expired**) at any time. 
 
-## <a name="getting-more-referrals"></a>より多くの紹介案件を獲得するためのヒント
+## <a name="getting-more-referrals"></a>Getting more referrals
 
-以下に、ビジネスに適したより多くの紹介案件を獲得するためのヒントを示します。
+Here’s some tips to help make sure you’re getting more referrals that are appropriate to your business:
 
-*  チームが着信通知を確実に受け取ることができるように、**各拠点の[マーケティング プロファイル](create-a-marketing-profile.md) の連絡先情報を確認**します。
+*  **Review your contact information in your [marketing profile](create-a-marketing-profile.md)** for each location to make sure that your team gets incoming alerts.
 
-*  [マーケティング プロファイル](create-a-marketing-profile.md)で、**独自の専門分野やビジネス モデルを反映したキーワードと設定を選択**します。 興味のない紹介が発生しないように、キーワードを削除します。 特定規模の企業との取引に興味がない場合は、この設定を更新します。
+*  **Choose keywords and preferences that represent your unique expertise and business model** in your [marketing profile](create-a-marketing-profile.md). Remove keywords that would generate referrals for you’re not interested in. If you’re not interested in dealing with businesses of a certain size, update this preference.
 
-*  **紹介案件に迅速に応答**します。 着信の要求に迅速に応答すると、それ以降、お客様の検索結果でお客様の目に留まる可能性が高まります。 チームが意向を迅速に応答できるように体制を整えてください。
+*  **Respond quickly to referrals**. When you respond in a timely fashion to incoming requests, we’ll increase your visibility in future customer search results. Make sure your team responds quickly with your intent.
 
-*  **承諾する取引を慎重に選び**ます。 マイクロソフトは、パートナーが承諾する取引や辞退する取引を把握し、この情報を使って同様の取引を紹介します。 
+*  **Be choosy with the deals you accept**. We monitor the types of deals that you accept and decline, and use this information to help find you similar deals. 
 
-   自社に適さない取引を承諾すると、検索結果の向上に役立たないうえ、受け取る見込み客情報の質に影響が及ぶ可能性があります。
+   Accepting deals that aren’t a good fit won’t improve your search results and could impact the quality of the leads you receive.
 
-*  **取引規模の見積もり、予定終了日、最終的な契約の成否 (受注または失注) をマイクロソフトに報告してください**。 マイクロソフトはこの情報を使って、引き続き質の高い案件をご紹介します。
+*  **Report back the estimated deal sizes, closing dates, and the final status of your deals** (won or lost). We’ll use this info to continue to provide you with quality referrals.

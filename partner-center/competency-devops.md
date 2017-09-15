@@ -1,52 +1,51 @@
 ---
-title: "DevOps コンピテンシー"
-description: "Microsoft の開発プラットフォームの DevOps 機能を活用することによりソフトウェア ライフサイクルを管理できるようにする点で企業と連携する経験が豊富にある場合、DevOps コンピテンシーはマイクロソフトのパートナーとしての地位を確立するために適切な選択肢です。"
+title: DevOps Competency
+description: "If you have deep experience working with businesses helping them manage software lifecycles by leveraging the DevOps features of Microsoft’s development platform, then DevOps competency is the right choice to establish your organization as Microsoft's partner."
 author: Daniel Simpson
-keywords: "コンピテンシー, コンピテンシー, DevOps"
-robots: noindex,nofollow
-ms.openlocfilehash: 0af79ae10ef678fe79e93dac9fe1514daebe10fa
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency, competencies, DevOps
+ms.openlocfilehash: a50b05f815f9eacfb52600b923dc53ff7c1fb8f6
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 # <a name="devops"></a>DevOps
- Microsoft の開発プラットフォームの DevOps 機能を活用することによりソフトウェア ライフサイクルを管理できるようにする点で企業と連携する経験が豊富にある場合、DevOps コンピテンシーはマイクロソフトのパートナーとしての地位を確立するために適切な選択肢です。
+ If you have deep experience working with businesses helping them manage software lifecycles by leveraging the DevOps features of Microsoft’s development platform, then DevOps competency is the right choice to establish your organization as Microsoft's partner.
 
-## <a name="devops-partner-option"></a>DevOps パートナー オプション
-DevOps パートナー オプションは、顧客にソフトウェア ライフサイクル管理を提供するために Microsoft Visual Studio を使っているパートナー様に最適です。 DevOps コンピテンシーを取得するためのオプション内のすべての手順を完了します。
+## <a name="devops-partner-option"></a>DevOps Partner option
+The DevOps Partner option is ideal for partners who use Microsoft Visual Studio to deliver software lifecycle management for their customers. Complete all the steps within the option to attain the DevOps competency.
 
 ###<a name="silver"></a>Silver
-1. 試験要件に合格した従業員が組織に **2** 人必要です。
+1. Your organization must have **2** individuals pass the exam requirements.
 
-    - **2** 人の従業員がそれぞれ次のすべての試験に合格する必要があります。
+    - **2** individuals must each pass all the following exams:
 
-        - [試験 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012、管理
-        - [試験 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Visual Studio アプリケーション ライフサイクル管理による継続的な価値の提供
+        - [Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
+        - [Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-    **および**
+    **AND**
 
-    - 同じ従業員 **2** 人のうち **1** 人の従業員が次のいずれかの試験に合格している必要があります。
+    - **1** of the same **2** individuals must pass one of the following exams:
 
-        * [試験 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Visual Studio 2012 によるソフトウェアのテスト
+        * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
         * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
-        * [Professional Scrum Master レベル 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
+        * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
         * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
     
 ###<a name="gold"></a>Gold
-1. 試験要件に合格した従業員が組織に **4** 人必要です。
+1. Your organization must have **4** individuals pass the exam requirements.
 
-    - **4** 人の従業員がそれぞれ次のすべての試験に合格する必要があります。
+    - **4** individuals must each pass all the following exams:
 
-        - [試験 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012、管理
-        - [試験 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Visual Studio アプリケーション ライフサイクル管理による継続的な価値の提供
+        - [Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
+        - [Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-    **および**
+    **AND**
 
-    - 同じ従業員 **4** 人のうち **2** 人の従業員が次のいずれかの試験に合格している必要があります。
+    - **2** of the same **4** individuals must pass one of the following exams:
 
-        * [試験 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Visual Studio 2012 によるソフトウェアのテスト
+        * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
         * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
-        * [Professional Scrum Master レベル 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
+        * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
         * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
         
