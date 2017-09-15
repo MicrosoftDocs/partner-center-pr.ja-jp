@@ -1,26 +1,32 @@
 ---
-title: "マイクロソフトからの紹介案件の獲得によるビジネスの拡大 | パートナー センター"
-description: "お客様がマイクロソフトの製品やソリューションの導入に際して支援を必要とする場合に、パートナーは見込み客情報を取得し、商談を始めることができます。"
+title: Grow your business with referrals from Microsoft | Partner Center
+description: Generate business leads and get connected to customers who need help implementing Microsoft products and solutions.
 author: KPacquer
-keywords: "紹介, マーケティング プロファイル, パートナーの検索"
-ms.openlocfilehash: 1903b08af0dadbf4fc639c06fc95d2734b13ee11
-ms.sourcegitcommit: 5216c9d8a5aa1cbe825cefe27d35e3f380fa90b4
+keywords: referrals, marketing profile, find a partner
+ms.openlocfilehash: f694f846187b99b79e461b0e4d631157f9536087
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2017
+ms.lasthandoff: 09/01/2017
 ---
-# <a name="grow-your-business-with-referrals-from-microsoft"></a>マイクロソフトからの紹介案件の獲得によるビジネスの拡大
+<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
-**適用対象**
+# <a name="grow-your-business-with-referrals-from-microsoft"></a>Grow your business with referrals from Microsoft
 
--  パートナー センター
+**Applies to**
 
-お客様はマイクロソフトの製品やテクノロジの導入に際して、パートナーが持つ専門知識を必要としています。 マイクロソフトは、お客様に適切なパートナーをご紹介したいと考えています。
+-  Partner Center
 
-多くのお客様が、当社のマーケティング活動や社内のマイクロソフト販売担当者を通じて、マイクロソフトに直接、パートナーの紹介を求めます。 またお客様がパートナー センターで**パートナーの検索**ツールを使って、マイクロソフト認定パートナーを検索することもあります。 
+Customers need expertise like yours to help implement solutions with Microsoft products and technologies. We’d like to get you connected.
 
-パートナーは、このような潜在顧客に自社のビジネスを広く告知し、お客様の成功を支援することで、ビジネスの成長を図ることができます。
+We often get direct requests for help from customers through our marketing activities and from our internal Microsoft sales agents. Customers also use the **Find a Partner** tool in Partner Center to search for qualified Microsoft partners. 
 
-*  [マーケティング プロファイルの作成](create-a-marketing-profile.md)。 マイクロソフトのセールス担当者や検索ツールは、マーケティング プロファイルを使って、関連業務の経験を備えた適切な顧客支援パートナー企業を検索します。
+Grow your business by showcasing your business to these potential customers, and working with them to help them be successful.
 
-*  [紹介案件への対応](responding-to-referrals.md)。お客様は興味を持ったパートナーに対し、マーケティング プロファイルに記載された連絡先に問い合わせます。 これらのお客様を管理し、迅速に対応する方法を確認してください。
+*  [Create a marketing profile](create-a-marketing-profile.md). Our sales agents and search tools use these profiles to find appropriate partner businesses with the relevant experience to help our customers.
+
+*  [Respond to referrals](responding-to-referrals.md) When customers express an interest in the contacts you have included in your marketing profile. Learn how to track and quickly respond to these customers.
+
+<!-- 
+*  [Analyze your marketing profile](analyze-your-marketing-profile.md) Regularly review and optimize your marketing profile to make sure you’re getting in front of your target customers.
+-->

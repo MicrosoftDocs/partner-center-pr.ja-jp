@@ -1,13 +1,13 @@
 ---
-title: "マーケティング プロファイルの作成 | パートナー センター"
-description: "パートナー センターでマーケティング プロファイルを作成することで、より多くの見込み顧客にアピールできます。"
+title: Create a marketing profile | Partner Center
+description: Attract more prospective customers by creating a marketing profile in Partner Center.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
-ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
+ms.openlocfilehash: b4ff498f7c44e4f2fcb49cb5e4c1d659175ac60a
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 09/01/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -18,107 +18,115 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
  -->
 
 
-# <a name="create-a-marketing-profile"></a>マーケティング プロファイルの作成
+# <a name="create-a-marketing-profile"></a>Create a marketing profile
 
-**適用対象**
+**Applies to**
 
--  パートナー センター
+-  Partner Center
 
-認定マイクロソフト パートナーは、マーケティング プロファイルを作成して自社のビジネスを広く告知することで、その独自のソリューションや専門知識を活用してビジネス ニーズを解決したいと考えるお客様にアピールできます。
+As a qualified Microsoft partner, you can create a marketing profile to showcase your business to customers who are looking for your unique solutions and expertise to address their business needs.
 
-マイクロソフトは、マーケティング、販売、サービスの業務を通じて、毎年何百万人ものお客様と取引しています。 そのような取引のほとんどで紹介案件が発生し、見込み客情報がパートナーに提供されます。 
+Microsoft engages millions of customers every year through marketing, sales and service efforts. Most of these engagements create opportunities for us to provide referrals to our partners in the form of sales leads. 
 
-パートナーが、これらの見込み客情報を受け取るには、まずマーケティング プロファイルを作成する必要があります。 作成されたプロファイルは、マイクロソフトの製品やソリューションの導入にあたって支援するパートナーを求めているお客様に、以下のようなルートを通じて提供されます。
+As the first step to getting these leads, create a marketing profile. We'll show your profile to customers who are searching for partners who can help them implement Microsoft products and solutions, through:
 
-*  **[パートナーの検索](https://partnercenter.microsoft.com/pcv/search)を使った検索**。 お客様は、パートナーの一覧をセルフサービスで検索し、検索条件を使ってパートナーを絞り込むことができます。 
-*  **マイクロソフトの販売およびサービス担当者からの紹介**。 クラウドベースのテクノロジ ソリューションの展開を検討している潜在顧客が、マイクロソフトに連絡して、ビジネス ニーズを満たすことができるプロフェッショナルの紹介を依頼します。 これを受けてマイクロソフトの担当者は、お客様にパートナーをご紹介します。
+*  **The [Find a partner](https://partnercenter.microsoft.com/pcv/search) search experience**. Potential customers can search partner listings on their own to locate partners who meet their search criteria. 
+*  **Referrals from Microsoft sales and service employees**. Potential customers interested in deploying cloud-based technology solutions contact Microsoft for help finding professionals who can meet their business needs. These Microsoft professionals can then refer potential customers to your company.
 
-**Pinpoint、C2PC、Sales Connect のユーザー**: これらのツールはパートナー センターに統合されます。 過去にこれらのツールを使ったことがある場合、引き続き見込み客を生成および管理するにはパートナー センターで新しいマーケティング プロファイルを作成します。 現在のところ、以前のサイトからのプロファイルのインポートはサポートされていないことに注意してください。 
+**Pinpoint と C2PC**: これらのツールはパートナー センターに統合されます。 If you’ve used these tools in the past, create a new marketing profile in Partner Center to continue to generate and manage your sales leads. Note, we don’t currently support importing profiles from the previous sites. 
 
-## <a name="create-a-profile"></a>プロファイルを作成する
+## <a name="create-a-profile"></a>Create a profile
 
-プロファイルは、ビジネスの許可を得ている地域ごとに作成してください。 
+Create profiles for each region you are authorized to do business in. 
 
-1.  [グローバル管理者または管理エージェント アカウント](create-user-accounts-and-set-permissions.md)を使って、[パートナー センター](http://go.microsoft.com/fwlink/p/?LinkId=808956)にログインします。
+1.  Log into [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) using a [global admin or admin agent account](create-user-accounts-and-set-permissions.md).
 
-2.  **[ダッシュボード]** メニューで、**[Referrals]** (紹介) &gt; **[マーケティング プロファイル]** &gt; **[[マーケティング プロフィールの追加]](https://partnercenter.microsoft.com/pcv/publishing)** を選びます。
+2.  **[ダッシュボード]** メニューで、**[紹介]** &gt; **[マーケティング プロフィールの表示]** &gt; [国/地域を選択] > **[マーケティング プロファイルの作成](https://partnercenter.microsoft.com/pcv/publishing)** を選びます。
 
 3.  **[マーケティング プロファイルの作成]** ページで、地域を選択した後、[パートナー情報] や [パートナーの専門分野] などのセクションにプロファイル情報を入力します。
     
-    パートナー センターでは複数の言語がサポートされますが、説明や自由形式のタグなどの一部の要素には、このトピックで説明しているように複数の言語のテキストを含める必要があります。
+    Note, while Partner Center supports multiple languages, some elements such as the description and free-form tags may need to include text from different languages, as noted in this topic.
 
-### <a href="" id="partner_info"></a>パートナー情報
+### <a href="" id="partner_info"></a>Partner information
 
-会社を紹介するセクションです。自社のロゴや簡単な説明、Web サイトへのリンクを追加してください。 
+Introduce your company, adding a logo and a brief description, and a link to your website. 
 
-ロゴには GIF、JPG、PNG のいずれかのファイルを指定できます。最大幅は 300 ピクセルです。 正方形または横長の縦横比の使用をお勧めします。 縦長の縦横比はお勧めできません。
+The logo can be a GIF, JPG, or PNG file, with a maximum width of 300 pixels. We recommend using square or long aspect ratios. Tall aspect ratios are not recommended.
 
-説明は、最大 1,000 文字まで入力できます。 お客様に好印象を与える説明文のヒント 
+Your description can be up to 1000 characters. Tips for a great description: 
 
-*  **簡潔**に記述する。最も重要なことを冒頭の 1 ～2 文で表現します。 この部分は、お客様の興味を喚起するキャッチ コピーとなります。 お客様が [パートナーの検索] 機能を使って検索する場合、最初の 1 ～ 2 行が検索結果として表示されます。
-*  **マイクロソフト固有の製品やサービスに関する実績を中心に**記述します。 紹介先パートナーを検索するお客様は、一般に、マイクロソフト固有の製品やサービスに実績のあるパートナーを求めています。
-*  **箇条書きを使う**。 情報を分割して箇条書きにし、ひと目で把握できるように記述してください。
-*  **専門的な用語を使わない**。 わかりやすい日常的な言葉で記述してください。サービスの名前には、サービスの内容 (お客様が抱えるビジネス ニーズ、お客様が達成できるタスクや目標) を表す表現を選びます。
-*  **説明には、無理に検索キーワードを含める必要はありません**。 お客様向けの検索ツールで検索に使用されるキーワードは、[パートナー情報] からではなく [パートナーの専門分野] のセクションから生成されます。
-*  **プロファイルを最新に保つ**。 ソフトウェアやサービスのリリース時には、プロファイルを更新して、企業 Web サイトとの一貫性を保ちます。
-*  **他のマイクロソフト パートナーの企業名に言及しない**。ただし、そのパートナー企業が子会社やその他なんらかの関連のある企業である場合、またはそのパートナー企業と契約上の提携関係にある場合や、協業の機会を獲得するために相互に宣伝する場合を除きます。
-*  **複数の言語が使用されている地域の場合**、説明に複数の言語のテキストを含めることを検討してください。
+*  **Be brief**, leading with what’s important in the first sentence or two. This should be the headline that catches customers’ attention. In the Find a partner search experience, we show the first line or two in the search results preview.
+*  **Focus on your company’s experiences with Microsoft-specific offerings**. Customers searching for referrals are generally looking for partners with Microsoft-specific experience.
+*  **Use bullets**. Break up information into bulleted lists to make it easier to scan.
+*  **Avoid jargon**. Use simple, everyday language, naming your offerings for what they do: the business needs they address, or task or objective they help customers accomplish.
+*  **Don’t worry about filling the description with search keywords**. The customer search tools search for keywords generated in the Partner Expertise section, not the description.
+*  **Keep your profile current**. With each software or service release, update your profile, keeping it in sync with your company's website.
+*  **Do not refer to another Microsoft partner company by name**, unless it is a subsidiary or is otherwise affiliated with your company, or you have a current agreement with that partner company to act in partnership and/or promote each other for shared work opportunities.
+*  **For regions with multiple languages**, consider including text from multiple languages in the description.
 
-#### <a href="" id="linkedin"></a>LinkedIn 会社ページでさらにお客様とつながる
+#### <a href="" id="linkedin"></a> LinkedIn company page: more ways to connect
 
-LinkedIn 会社ページを追加すると、潜在顧客とのつながりを強化することができます。 
+Add your LinkedIn company page to strengthen your connections to potential customers. 
 
-このリンクを含めることで、ユーザーが LinkedIn プラットフォームを通じてパートナー組織の情報をすばやく参照できます。
+When you include this link, customers will be able to quickly view more about your organization through the LinkedIn platform.
 
-まだ LinkedIn 会社ページをお持ちでない場合は、[今すぐ作成](https://www.linkedin.com/company-beta/setup/new/)してください。
+If you don't already have a LinkedIn company page, you can [create one now](https://www.linkedin.com/company-beta/setup/new/).
 
-### <a name="partner-expertise"></a>パートナーの専門分野
+### <a name="partner-expertise"></a>Partner expertise
 
-お客様向けの検索ツールでは、専門分野のタグに基づいて検索が実行されます。 お客様の目に留まる可能性が向上するようにプロファイルを調整する場合は、このセクションに時間をかけて、タグを最適化することをお勧めします。
+"パートナーの検索" の検索ツールでは、専門分野のタグに基づいて検索が実行されます。 これらのタグを最適化して、プロファイルが検索結果に表示される可能性を高めることができます。
 
-まず、独自のタグを [パートナーの専門分野] セクションに追加します。 追加できるタグは次のとおりです。 
+Start by adding your own tags into the Partner Expertise section. Tags you can add: 
 
-*  **業種別タグ**。 最大 5 つの業種を追加できます。
-*  **製品**。 マイクロソフト製品のタグのみ追加できます。
-*  **サービスの種類** 
-*  **ソリューション、スキル、能力**。 これらのタグは自由形式です。自社の能力に応じた固有の検索キーワードを追加することができます。
+*  **Industry focus tags**. Up to 5 industries
+*  **Products**. Limited to Microsoft products
+*  **Service type** 
+*  **Solutions, skills, and capabilities**. These tags are free-form, and provide you the ability to add search keywords that are unique to your capabilities.
 
-検索で使用されるその他のタグ:
-*  **コンピテンシー タグ**は、自社の能力を証明する認定資格です。
-*  **推薦タグ**は、マイクロソフトによる認定または既存のお客様からの推薦によって取得できます。
+Other tags used in search:
+*  **Competency tags** are an earned designation showcasing your company’s capabilities.
+*  **Endorsement tags** are earned when Microsoft or your customers who have worked with you endorse your work.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>自社の専門分野についてマイクロソフトの推薦を得る
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise
+
+この設定を有効にしておくことをお勧めします。 
 
 パートナー センター経由でお客様と取引して優れた成果を挙げた場合、またはその他のマイクロソフト認定資格やプログラムに参加して能力を実証した場合は、その成果や能力に寄与した特定の製品、サービス、業界に、自動的に推薦が追加されます。 推薦は検索結果における重要な要素です。
 
-この設定を有効にしておくことをお勧めします。 ただし、サービスを提供する製品との関係で、プロファイルに推薦を表示しない方が望ましい場合は、このボックスをオフにすればプロファイルを手動で管理できます。 ボックスをオフにすると、推薦がお客様のビューには表示されなくなりますが、後からいつでもプロファイルに追加できます。
+ただし、サービスを提供する製品との関係で、プロファイルに推薦を表示しない方が有利な場合は、このボックスをオフにすればプロファイルを手動で管理できます。 These endorsements will be hidden from your customers view, but you can add them back to your profile later at any time.
 
-### <a name="customer-preferences"></a>顧客の嗜好
+### <a name="customer-preferences"></a>Customer preferences
 
-#### <a href="" id="#target_size"></a>ターゲット サイズ
+#### <a href="" id="#target_size"></a>Target size
 
-ターゲット以外の顧客規模の企業を紹介対象から除外することができます。
+You can opt out of referrals from businesses that don’t meet your target customer size.
 
-対象を絞り込むことによって、連携を希望する企業の条件に合った企業により多くの時間をかけることができます。
+By opting out, you’ll have more time to spend on businesses that are a match for the businesses that you prefer to work with.
 
-### <a href="" id="#locations"></a>場所
+### <a href="" id="#locations"></a> Locations
 
-場所は、地域ごとに 5 つまで追加できます。 追加した場所は、お客様が近隣でパートナーを検索したときに表示されます。 
+場所は、地域ごとに 5 つまで追加できます。 These locations appear when customers search for partners by proximity. 
 
-会社の公式の拠点であって、確認可能な場所を指定してください。 サービス提供が可能かどうかをお客様が的確に判断できるように、サービスを提供する市場での中心的な拠点を選んでください。
+Indicate locations that are official company locations and can be validated. Pick locations that are central to the markets you serve, and best represent your company’s ability to fulfill.
+
+位置情報の更新が完了したら、**[Save this location]** (この場所を保存) または **[この場所を保存して、別の場所を追加]** のいずれかを選びます。
 
 追加した場所ごとに別個のプロファイル ページになります。 プロファイル ページを更新するときは、必ず場所ごとに更新してください。
 
+場所の住所を更新するには、**[削除]** を使って場所を削除し、最初からもう一度追加します。
+
+5 つの場所を登録済みで、1 つを変更する必要がある場合は、まず **[削除]** を使って既存の場所を 1 つ削除した後、新しい場所を追加します。
+
 ## <a name="review-your-profile"></a>プロファイルを確認する
 
-プロファイルを公開すると、24 時間内に [[パートナーの検索]](https://partnercenter.microsoft.com/pcv/search) に更新情報が表示されます。 
+After you publish your profile, updates appear in the [Find a partner](https://partnercenter.microsoft.com/pcv/search) searches within 24 hours. 
 
-## <a name="improve-the-visibility-of-your-profile"></a>プロファイルがお客様の目に留まる可能性を高めるには 
+## <a name="improve-the-visibility-of-your-profile"></a>Improve the visibility of your profile 
 
-*  **[要求に迅速に応答する](responding-to-referrals.md)**。 紹介案件についての問い合わせに迅速に対応すると、それ以降、顧客向け検索ページの検索結果表示で有利になります。
-*  **タグを使って紹介案件を限定する**。  提供する製品やサービス、ソリューション、価値提案、確実に成果を上げられる独自の位置付けを正確に反映するタグを必要最小限に絞って使うことをお勧めします。  このように手間をかけることで、将来にわたる検索結果の向上につながります。
-*  **マイクロソフト経由でコンピテンシー タグを獲得する**。マイクロソフト製品に関する自社の技能を示すことができます。
-*  **推薦タグを獲得**する。貴社の業績を高く評価する既存のお客様から獲得できます。
+*  **[Respond quickly to requests](responding-to-referrals.md)**. When you receive a customer referral, a faster response can lead to better results on the search pages for future customers.
+*  **Be selective with your tags**.  It’s better to have fewer tags that best represent your company’s offers, solutions, value propositions, and unique position where you can consistently demonstrate success.  That will pay dividends in future search results.
+*  **Earn competency tags** through Microsoft to demonstrate your proficiency in our products.
+*  **Earn endorsement tags** from customers who appreciate your work.
 
-## <a name="related-topics"></a>関連トピック
-[紹介案件への対応](responding-to-referrals.md)
+## <a name="related-topics"></a>Related topics
+[Responding to referrals](responding-to-referrals.md)
