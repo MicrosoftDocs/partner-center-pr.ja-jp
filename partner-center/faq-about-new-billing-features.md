@@ -3,18 +3,18 @@ title: "新しい請求機能についてのよく寄せられる質問 | パー
 Description: "パートナー センターの年次請求、無料試用版、請求スケジュールの各機能に関してよく寄せられる質問を以下に示します。"
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: a0ed40409cfb7ea92713e89a3fea39c4b3f836b6
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+ms.openlocfilehash: ce871392c529cdfc7b11eddcad92f04b7e3054c2
+ms.sourcegitcommit: bf2476ae1163f5b486d7ba12e784904e47e0b85a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 09/29/2017
 ---
 # <a name="faq-about-new-billing-features"></a>新しい請求機能についてのよく寄せられる質問
 
 **適用対象**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  パートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
 パートナー センターの年次請求、無料試用版、請求スケジュールの各機能に関してよく寄せられる質問を以下に示します。 
@@ -247,7 +247,7 @@ https://msdn.microsoft.com/en-us/library/partnercenter/microsoft.store.partnerce
 
 **Q: **いつから利用できるようになりますか?
 
-**A:** 2018 年 9 月に提供を開始する予定です。
+**A:** 2017 年 10 月 17 日に提供を開始する予定です。
 
 **Q: **対象者となるのはどのパートナーですか?
 

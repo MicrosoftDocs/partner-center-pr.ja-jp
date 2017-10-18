@@ -1,51 +1,50 @@
 ---
-title: Data Center Competency
-description: The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
+title: "Data Center コンピテンシー"
+description: "Datacenter コンピテンシーは、より柔軟で拡張性とコスト効果が高いソリューションにデータ センターを移行するパートナー様を認識します。"
 author: Daniel Simpson
-keywords: competency, competencies, Datacenter
-ms.openlocfilehash: fd24df57e7bf18764e4281947443b37dc7f49713
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+keywords: "コンピテンシー, コンピテンシー, Datacenter"
+ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
+ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 09/29/2017
 ---
 #<a name="datacenter"></a>Datacenter
-The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
-##<a name="datacenter-solutions-option"></a>Datacenter Solutions option
-The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice to attain the Datacenter competency.
+Datacenter コンピテンシーは、より柔軟で拡張性とコスト効果が高いソリューションにデータ センターを移行するパートナー様を認識します。
+##<a name="datacenter-solutions-option"></a>データセンター ソリューション オプション
+データセンター ソリューション オプションは、試験や認定に合格することによってスキルを証明することを希望する場合に最適です。 Datacenter コンピテンシーを取得するために選択したフォーカス分野から試験を選択します。
 ###<a name="silver"></a>Silver
-1. Your organization must have **2** individuals pass any one of the exams.
+1. いずれかの試験に合格した従業員が組織に **2** 人必要です。
 
-    - **System Center** 2012 focus area
+    - **System Center** 2012 フォーカス分野
 
-        - [Exam 70-243](https://www.microsoft.com/en-us/learning/exam-70-243.aspx): Administering and Deploying System Center 2012 Configuration Manager
-        - [Exam 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoring and Operating a Private Cloud with System Center 2012
-        - [Exam 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuring and Deploying a Private Cloud with System Center 2012
+        - [試験 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): System Center 2012 によるプライベート クラウドの監視と運用
+        - [試験 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): System Center 2012 によるプライベート クラウドの構成と運用
 
-    - **Virtualization** focus area
+    - **仮想化**フォーカス分野
 
-        - [Exam 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Server Virtualization with Windows Server Hyper-V and System Center
+        - [試験 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Windows Server Hyper-V および System Center によるサーバー仮想化
 
-    - **Windows Server 2012** focus area
+    - **Windows Server 2012** フォーカス分野
 
-        - [Exam 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012
-        - [Exam 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Administering Windows Server 2012
-        - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
-        - [Exam 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): Designing and Implementing a Server Infrastructure
-        - [Exam 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure
-        - [Exam 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012
+        - [試験 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Windows Server 2012 のインストールおよび構成
+        - [試験 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Windows Server 2012 の管理
+        - [試験 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): 高度な Windows Server 2012 サービスの構成
+        - [試験 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): サーバー インフラストラクチャの設計と実装
+        - [試験 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): 高度なサーバー インフラストラクチャの実装
+        - [試験 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): MCSA Windows Server 2012 にスキルを上げる
 
-    - **Windows Server** 2016 focus area
-        - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016
-        - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
-        - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
-        - [Exam 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): Upgrading Your Skills to MCSA: Windows Server 2016
-        - [Exam 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): Securing Windows Server 2016
+    - **Windows Server** 2016 フォーカス分野
+        - [試験 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Windows Server 2016 のインストール、ストレージ、コンピューティング
+        - [試験 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Windows Server 2016 のネットワーキング
+        - [試験 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Windows Server 2016 での ID
+        - [試験 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): MCSA: Windows Server 2016 にスキルを上げる
+        - [試験 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): Windows Server 2016 のセキュリティ保護
 
 ###<a name="gold"></a>Gold
-1. Your organization must have **4** individuals pass the required certification.
+1. 必要な認定試験に合格した従業員が組織に **4** 人必要です。
 
-    - **4** individuals must pass one of the following exams:
+    - **4** 人の従業員が次のいずれかの試験に合格する必要があります。
 
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx): Windows Server 2012
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-2016-certification.aspx): Windows Server 2016
