@@ -4,11 +4,11 @@ description: "10 億台のデバイスに Windows 10 を展開するというマ
 author: Daniel Simpson
 robots: noindex,nofollow
 keywords: "コンピテンシー,コンピテンシー,Windows and Devices"
-ms.openlocfilehash: cb41a30e8a578471fd0866cfe343a9b8dd11978b
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 #<a name="windows-and-devices"></a>Windows and Devices 
 10 億台のデバイスに Windows 10 を展開するというマイクロソフトの目標を共有しましょう。 機会はサービス、アプリケーション、デバイスに潜んでいます。 このコンピテンシーでは、収益性の高い Windows 10 のプラクティスを構築および拡大するのに役立つツール、コンテンツ、リソースが提供されます。
@@ -87,7 +87,7 @@ ms.lasthandoff: 09/29/2017
 
         - **システム ビルダー** フォーカス分野
 
-            - [試験 70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx): Windows 10 の OEM プレインストール
+            - [試験 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): Windows 10 の OEM 製造と展開
 
     **または**
 

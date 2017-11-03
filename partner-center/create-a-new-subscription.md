@@ -3,10 +3,11 @@ title: "新しいサブスクリプションの作成 | パートナー セン�
 description: "パートナー センターで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。"
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: 7573af36bfe8c1c0a0840bee6840cd4e58610625
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 4bb9bfe2d620ba6a82d1f4960b8bdc497c6fdf16
+ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 10/17/2017
 ---
 # <a name="create-a-new-subscription"></a>新しいサブスクリプションの作成
 
@@ -18,7 +19,10 @@ ms.contentlocale: ja-JP
 
 パートナー センターで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。
 
-**新しいサブスクリプションの作成**
+一部のプランでは、顧客ごとに保有できるサブスクリプションが 1 つに限られていることに注意してください。 制限のあるオファーの一覧を確認するには、パートナー センターの [料金とプラン] ページで製品マトリックスを開き、Office_Dynamics_Windows_Intune タブの列 I を選択してください。 
+
+
+**新しいサブスクリプションを作成する**
 
 1.  **[ダッシュボード]** メニューで **[顧客]** を選び、一覧から顧客を選びます。
 2.   **[サブスクリプションの追加]** を選びます。
