@@ -3,59 +3,61 @@ title: "導入実績を高めて満足度を向上させる | パートナー �
 description: "弊社のパートナーは、多くの指標を使用してビジネスが拡大しているかどうか、重点的に投資する分野はどこであるかを測ります。 パートナー センターは、顧客が購入したライセンスの使用の有無や活用方法に関するデータを提供することでそれをサポートします。"
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-
+ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
+ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 11/21/2017
 ---
+# <a name="increase-adoption-and-satisfaction"></a><span data-ttu-id="93b05-104">導入実績を高めて満足度を向上させる</span><span class="sxs-lookup"><span data-stu-id="93b05-104">Increase adoption and satisfaction</span></span>
 
-# 導入実績を高めて満足度を向上させる
+**<span data-ttu-id="93b05-105">適用対象</span><span class="sxs-lookup"><span data-stu-id="93b05-105">Applies to</span></span>**
 
-**適用対象**
+-  <span data-ttu-id="93b05-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="93b05-106">Partner Center</span></span>
 
--  パートナー センター
+<span data-ttu-id="93b05-107">弊社のパートナーは、多くの指標を使用してビジネスが拡大しているかどうか、重点的に投資する分野はどこであるかを測ります。</span><span class="sxs-lookup"><span data-stu-id="93b05-107">Our partners use many metrics to gauge whether their business is growing and where to focus investment.</span></span> <span data-ttu-id="93b05-108">パートナー センターは、顧客が購入したライセンスの使用の有無や活用方法に関するデータを提供することでそれをサポートします。</span><span class="sxs-lookup"><span data-stu-id="93b05-108">Partner Center can help by providing data about if and how your customers are using the licenses that they've purchased.</span></span> <span data-ttu-id="93b05-109">この情報は Office 製品 (SharePoint に含まれる OneDrive for Business を含む) について提供されます。</span><span class="sxs-lookup"><span data-stu-id="93b05-109">This information is available for Office products (including OneDrive for Business, which is counted together with SharePoint).</span></span>
 
-弊社のパートナーは、多くの指標を使用してビジネスが拡大しているかどうか、重点的に投資する分野はどこであるかを測ります。 パートナー センターは、顧客が購入したライセンスの使用の有無や活用方法に関するデータを提供することでそれをサポートします。 この情報は Office 製品 (SharePoint に含まれる OneDrive for Business を含む) について提供されます。
+<span data-ttu-id="93b05-110">すべての顧客のデータはクラウド ソリューション プロバイダー プログラムを通じて確認できます。</span><span class="sxs-lookup"><span data-stu-id="93b05-110">You can see data for all of your customers through the Cloud Solution Provider program.</span></span> <span data-ttu-id="93b05-111">顧客によっては、ライセンスを別のパートナーから購入することも、マイクロソフトから直接購入することもあります。その場合、全パートナーのすべてのライセンスが表示されます。</span><span class="sxs-lookup"><span data-stu-id="93b05-111">Note that some customers may buy licenses from other partners or directly from Microsoft—in that case, you will see the total licenses across all partners.</span></span> <span data-ttu-id="93b05-112">貴社が販売したライセンスのみを表示するには、代わりに顧客のサブスクリプションに移動します。</span><span class="sxs-lookup"><span data-stu-id="93b05-112">To see only your own licenses, go to the customer's subscriptions instead.</span></span>
 
-すべての顧客のデータはクラウド ソリューション プロバイダー プログラムを通じて確認できます。 顧客によっては、ライセンスを別のパートナーから購入することも、マイクロソフトから直接購入することもあります。その場合、全パートナーのすべてのライセンスが表示されます。 貴社が販売したライセンスのみを表示するには、代わりに顧客のサブスクリプションに移動します。
+>**<span data-ttu-id="93b05-113">注</span><span class="sxs-lookup"><span data-stu-id="93b05-113">Note</span></span>**<br> <span data-ttu-id="93b05-114">現時点では、Office 365 および Dynamics 365 のデータのみが表示されます。</span><span class="sxs-lookup"><span data-stu-id="93b05-114">Currently, we only show data for Office 365 and Dynamics 365.</span></span> <span data-ttu-id="93b05-115">今後は、より多くの製品のデータが表示されるようになります。</span><span class="sxs-lookup"><span data-stu-id="93b05-115">We will be enabling data for additional products in the future.</span></span>
 
-## ライセンスとユーザー データを検索する
-
-
-**単一の顧客の場合**
-
--   パートナー センターのメニューから **[顧客]** を選んで顧客を選び、**[顧客の分析]** を選びます。
-
-**ポートフォリオ全体の場合**
-
-1.  パートナー センターの **[ダッシュボード]** で、**[Office ライセンス分析]** セクションまで下にスクロールします。
-2.  
-          **[エクスポート]** のオプションを選択して、全顧客の展開および使用状況のデータをダウンロードします。
-
-用語:
-
--   **権利:** ユーザーが使用する権利を持っているライセンス (詐欺や未払いにより停止されていないライセンス、別のライセンスにアップグレードされていないライセンス、ユーザーによって取り消されていないライセンスなど)
-
--   **アクティブ:** サブスクライブしているユーザーが過去 28 日間にあるタスクについて権利を使用している場合
-
--   **展開率** = 割り当てられているライセンス数/販売したライセンス数
-
--   **使用率** = アクティブな権利の数/権利の合計数
-
-    使用率は 100% を超えることがあります。 これにはいくつかの理由があります。
-
-    -   顧客の従業員が退職し、ライセンスが新しいユーザーに転送された場合。
-
-    -   顧客がある SKU について 2 つのサブスクリプションを持っており、一方が猶予期間中、無効、またはプロビジョニングが解除されている場合。両方のサブスクリプションの権利は 28 日間のアクティブな権利の数としてカウントされますが、そのうちの一方のみが合計権利数にカウントされます。
-
-    -   顧客が試用版のサブスクリプションを持っている場合。そのサブスクリプションはアクティビティにはカウントされますが合計権利数にはカウントされません。
-
-    -   一部の顧客がライセンスで付与されている権利の数を大幅に超える Yammer を使用している場合。データが大幅に歪められることがあります。
-
-## 次のステップ
+## <a name="find-license-and-user-data"></a><span data-ttu-id="93b05-116">ライセンスとユーザー データを検索する</span><span class="sxs-lookup"><span data-stu-id="93b05-116">Find license and user data</span></span>
 
 
-多くのヘルプと使い方に関する質問を担当している、アカウントでの導入数が低い、またはアップセルの機会をねらっている場合、トレーニング コースの提供を検討することをお勧めします。 購入したクラウド ソリューション ソフトウェアをより良く使用できるように顧客に教えることで、生産性や満足度が向上し、サポート ニーズが低くなる可能性が高まります。
+**<span data-ttu-id="93b05-117">単一の顧客の場合</span><span class="sxs-lookup"><span data-stu-id="93b05-117">For a single customer</span></span>**
+
+-   <span data-ttu-id="93b05-118">パートナー センターのメニューから **[顧客]** を選んで顧客を選び、**[顧客の分析]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="93b05-118">Select **Customers** from the Partner Center menu, choose a customer, then select **Customer insights**.</span></span>
+
+**<span data-ttu-id="93b05-119">ポートフォリオ全体の場合</span><span class="sxs-lookup"><span data-stu-id="93b05-119">Across your portfolio</span></span>**
+
+1.  <span data-ttu-id="93b05-120">パートナー センターの **[ダッシュボード]** で、**[Office ライセンス分析]** セクションまで下にスクロールします。</span><span class="sxs-lookup"><span data-stu-id="93b05-120">On the Partner Center **Dashboard**, scroll down to the **Office license analytics** section.</span></span>
+2.  <span data-ttu-id="93b05-121">
+          **[エクスポート]** のオプションを選択して、全顧客の展開および使用状況のデータをダウンロードします。</span><span class="sxs-lookup"><span data-stu-id="93b05-121">Download deployment and usage data across your entire customer set by selecting the **export** options.</span></span>
+
+<span data-ttu-id="93b05-122">用語:</span><span class="sxs-lookup"><span data-stu-id="93b05-122">Terminology:</span></span>
+
+-   <span data-ttu-id="93b05-123">**権利:** ユーザーが使用する権利を持っているライセンス (詐欺や未払いにより停止されていないライセンス、別のライセンスにアップグレードされていないライセンス、ユーザーによって取り消されていないライセンスなど)</span><span class="sxs-lookup"><span data-stu-id="93b05-123">**Entitlement:** a license that the user is entitled to use (it is not suspended for fraud or non-payment, it hasn't been upgraded to a different license, it hasn't been cancelled by the user, etc.)</span></span>
+
+-   <span data-ttu-id="93b05-124">**アクティブ:** サブスクライブしているユーザーが過去 28 日間にあるタスクについて権利を使用している場合</span><span class="sxs-lookup"><span data-stu-id="93b05-124">**Active:** if the subscribed user has used the entitlement for a task in the last 28 calendar days.</span></span>
+
+-   <span data-ttu-id="93b05-125">**展開率** = 割り当てられているライセンス数/販売したライセンス数</span><span class="sxs-lookup"><span data-stu-id="93b05-125">**Deployment %** = assigned licenses/sold licenses</span></span>
+
+-   <span data-ttu-id="93b05-126">**使用率** = アクティブな権利の数/権利の合計数</span><span class="sxs-lookup"><span data-stu-id="93b05-126">**Usage %** = active entitlements/total entitlements</span></span>
+
+    <span data-ttu-id="93b05-127">使用率は 100% を超えることがあります。</span><span class="sxs-lookup"><span data-stu-id="93b05-127">Sometimes the usage % is inflated, or greater than 100%.</span></span> <span data-ttu-id="93b05-128">これにはいくつかの理由があります。</span><span class="sxs-lookup"><span data-stu-id="93b05-128">This can happen for several reasons:</span></span>
+
+    -   <span data-ttu-id="93b05-129">顧客の従業員が退職し、ライセンスが新しいユーザーに転送された場合。</span><span class="sxs-lookup"><span data-stu-id="93b05-129">If the customer had employee turnover and the license was transferred to a new user.</span></span>
+
+    -   <span data-ttu-id="93b05-130">顧客がある SKU について 2 つのサブスクリプションを持っており、一方が猶予期間中、無効、またはプロビジョニングが解除されている場合。両方のサブスクリプションの権利は 28 日間のアクティブな権利の数としてカウントされますが、そのうちの一方のみが合計権利数にカウントされます。</span><span class="sxs-lookup"><span data-stu-id="93b05-130">If the customer has two subscriptions for a SKU, but one is In Grace Period, Disabled or De-provisioned, entitlements in both subscriptions may register active usage during the 28-day period but only one is counted in the total.</span></span>
+
+    -   <span data-ttu-id="93b05-131">顧客が試用版のサブスクリプションを持っている場合。そのサブスクリプションはアクティビティにはカウントされますが合計権利数にはカウントされません。</span><span class="sxs-lookup"><span data-stu-id="93b05-131">If the customer has a trial subscription, activity is counted but the subscription isn't counted towards the total entitlements.</span></span>
+
+    -   <span data-ttu-id="93b05-132">一部の顧客がライセンスで付与されている権利の数を大幅に超える Yammer を使用している場合。データが大幅に歪められることがあります。</span><span class="sxs-lookup"><span data-stu-id="93b05-132">If some customers are using Yammer significantly more than they are entitled to by their license it can skew the data dramatically.</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="93b05-133">次のステップ</span><span class="sxs-lookup"><span data-stu-id="93b05-133">Next steps</span></span>
+
+
+<span data-ttu-id="93b05-134">多くのヘルプと使い方に関する質問を担当している、アカウントでの導入数が低い、またはアップセルの機会をねらっている場合、トレーニング コースの提供を検討することをお勧めします。</span><span class="sxs-lookup"><span data-stu-id="93b05-134">If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you’re looking for upsell opportunities, you may want to consider offering training courses.</span></span> <span data-ttu-id="93b05-135">購入したクラウド ソリューション ソフトウェアをより良く使用できるようにお客様に教えることで、生産性や満足度が向上し、サポート ニーズが低くなる可能性が高まります。</span><span class="sxs-lookup"><span data-stu-id="93b05-135">By teaching your customers how to better use the cloud solution software they have purchased, you’re more likely to see an increase in productivity and satisfaction, and a decrease in support needs.</span></span>
 
 <table>
 <colgroup>
@@ -63,15 +65,15 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>問題:</strong> ユーザーの導入率は低く、多くのライセンスが使われていない。</p>
-<p><strong>考慮事項:</strong> お客様は、ソフトウェアが提供できる価値について理解していない可能性がある。 お客様は、既に行っているタスクを簡略化するため、または新しい種類の生産性を実現するために、そのソフトウェアを日常業務に組み込むことができる方法を計画するための支援を必要としている。</p>
-<p><strong>試すこと:</strong> ケース スタディ、特定のシナリオに関するユーザーの証言、チュートリアルのブログ、ビデオ。</p></td>
+<td><p><span data-ttu-id="93b05-136"><strong>問題:</strong> ユーザーの導入率は低く、多くのライセンスが使われていない。</span><span class="sxs-lookup"><span data-stu-id="93b05-136"><strong>Problem:</strong> The user adoption rate is low, and many licenses aren't being used.</span></span></p>
+<p><span data-ttu-id="93b05-137"><strong>考慮事項:</strong> お客様は、ソフトウェアが提供できる価値について理解していない可能性がある。</span><span class="sxs-lookup"><span data-stu-id="93b05-137"><strong>What to consider:</strong> Customers might not understand the value that the software could provide.</span></span> <span data-ttu-id="93b05-138">お客様は、既に行っているタスクを簡略化するため、または新しい種類の生産性を実現するために、そのソフトウェアを日常業務に組み込むことができる方法を計画するための支援を必要としている。</span><span class="sxs-lookup"><span data-stu-id="93b05-138">They need help envisioning the ways they could incorporate it into their day to simplify tasks that they’re already doing, or to enable new kinds of productivity.</span></span></p>
+<p><span data-ttu-id="93b05-139"><strong>試すこと:</strong> ケース スタディ、特定のシナリオに関するユーザーの証言、チュートリアルのブログ、ビデオ。</span><span class="sxs-lookup"><span data-stu-id="93b05-139"><strong>What to try:</strong> Case studies, user testimonials about specific scenarios, tutorial blogs, or videos.</span></span></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>問題:</strong> ヘルプと使い方に関してサポートへの大量の問い合わせがある。</p>
-<p><strong>考慮事項:</strong> お客様はそのソフトウェア、製品バージョン、タスクを初めて扱う可能性がある。</p>
-<p><strong>試すこと:</strong> 2 つのサービス トレーニング戦略 (対面またはオンライン) で、お客様の全体的な専門知識を増やしつつ、お客様が利用できるいくつかのセルフサービス オプションを伝える。</p>
-<p>サポート サイトを再設計し、サポートの連絡先情報に加えて、「[お客様のセルフ サポート](customer-self-support.md)」というトピックで説明しているセルフサービス オプションも含めることをお勧めします。</p></td>
+<td><p><span data-ttu-id="93b05-140"><strong>問題:</strong> ヘルプと使い方に関してサポートへの大量の問い合わせがある。</span><span class="sxs-lookup"><span data-stu-id="93b05-140"><strong>Problem:</strong> There is a high volume of support calls for help and how-to questions.</span></span></p>
+<p><span data-ttu-id="93b05-141"><strong>考慮事項:</strong> お客様はそのソフトウェア、製品バージョン、タスクを初めて扱う可能性がある。</span><span class="sxs-lookup"><span data-stu-id="93b05-141"><strong>What to consider:</strong> Customers may be new to the software, to the product version, or to their task.</span></span></p>
+<p><span data-ttu-id="93b05-142"><strong>試すこと:</strong> 2 つのサービス トレーニング戦略 (対面またはオンライン) で、お客様の全体的な専門知識を増やしつつ、お客様が利用できるいくつかのセルフサービス オプションを伝える。</span><span class="sxs-lookup"><span data-stu-id="93b05-142"><strong>What to try:</strong> You can use a dual strategy of offering training (in person or online) to increase customer's overall expertise, while also promoting some of the self-service options available to customers.</span></span></p>
+<p><span data-ttu-id="93b05-143">サポート サイトを再設計し、サポートの連絡先情報に加えて、「[お客様のセルフ サポート](customer-self-support.md)」というトピックで説明しているセルフサービス オプションも含めることをお勧めします。</span><span class="sxs-lookup"><span data-stu-id="93b05-143">You may want to redesign your support site to also include the self-service options described in the topic [Customer self-support](customer-self-support.md) in addition to your support contact information.</span></span></p></td>
 </tr>
 </tbody>
 </table>
@@ -82,11 +84,5 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

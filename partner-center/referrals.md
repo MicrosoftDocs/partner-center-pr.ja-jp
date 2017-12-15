@@ -1,32 +1,30 @@
 ---
-title: Grow your business with referrals from Microsoft | Partner Center
-description: Generate business leads and get connected to customers who need help implementing Microsoft products and solutions.
+title: "Microsoft からの紹介案件の獲得によるビジネスの拡大 | パートナー センター"
+description: "お客様が Microsoft の製品やソリューションの導入に際して支援を必要とする場合に、パートナーは見込み客情報を取得し、商談を始めることができます。"
 author: KPacquer
-keywords: referrals, marketing profile, find a partner
-ms.openlocfilehash: f694f846187b99b79e461b0e4d631157f9536087
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+keywords: "紹介, ビジネス プロファイル, パートナーの検索"
+ms.openlocfilehash: a654991846cddb86d936b2f79fa1eccb9c6a3d38
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/16/2017
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
-# <a name="grow-your-business-with-referrals-from-microsoft"></a><span data-ttu-id="1f49b-104">Grow your business with referrals from Microsoft</span><span class="sxs-lookup"><span data-stu-id="1f49b-104">Grow your business with referrals from Microsoft</span></span>
+# <a name="grow-your-business-with-referrals-from-microsoft"></a><span data-ttu-id="6b6ce-104">Microsoft からの紹介案件の獲得によるビジネスの拡大</span><span class="sxs-lookup"><span data-stu-id="6b6ce-104">Grow your business with referrals from Microsoft</span></span>
 
-**<span data-ttu-id="1f49b-105">Applies to</span><span class="sxs-lookup"><span data-stu-id="1f49b-105">Applies to</span></span>**
+**<span data-ttu-id="6b6ce-105">適用対象</span><span class="sxs-lookup"><span data-stu-id="6b6ce-105">Applies to</span></span>**
 
--  <span data-ttu-id="1f49b-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="1f49b-106">Partner Center</span></span>
+-  <span data-ttu-id="6b6ce-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="6b6ce-106">Partner Center</span></span>
 
-<span data-ttu-id="1f49b-107">Customers need expertise like yours to help implement solutions with Microsoft products and technologies.</span><span class="sxs-lookup"><span data-stu-id="1f49b-107">Customers need expertise like yours to help implement solutions with Microsoft products and technologies.</span></span> <span data-ttu-id="1f49b-108">We’d like to get you connected.</span><span class="sxs-lookup"><span data-stu-id="1f49b-108">We’d like to get you connected.</span></span>
+<span data-ttu-id="6b6ce-107">多くのお客様は、Microsoft のテクノロジおよびビジネス ソリューションの実装を依頼できるような、条件に合ったエキスパートを求めています。</span><span class="sxs-lookup"><span data-stu-id="6b6ce-107">Many customers are looking for qualified experts to help implement Microsoft technology and business solutions.</span></span> <span data-ttu-id="6b6ce-108">Microsoft には、当社のマーケティング活動や社内の Microsoft 販売担当者を通じて、サポートを求める声が多くのお客様から寄せられます。</span><span class="sxs-lookup"><span data-stu-id="6b6ce-108">Here at Microsoft, we often get direct requests for help from customers through our marketing activities and from our internal Microsoft sales agents.</span></span> <span data-ttu-id="6b6ce-109">また、お客様は、[**[ソリューション プロバイダーを見つける]** 機能](https://www.microsoft.com/solution-providers/search)を使用して、ビジネス ニーズを満たすためのサポートを得ることのできる会社を検索します。</span><span class="sxs-lookup"><span data-stu-id="6b6ce-109">Customers also use the [**Find a solution provider** experience](https://www.microsoft.com/solution-providers/search) to find companies that can help them meet their business needs.</span></span> 
 
-<span data-ttu-id="1f49b-109">We often get direct requests for help from customers through our marketing activities and from our internal Microsoft sales agents.</span><span class="sxs-lookup"><span data-stu-id="1f49b-109">We often get direct requests for help from customers through our marketing activities and from our internal Microsoft sales agents.</span></span> <span data-ttu-id="1f49b-110">Customers also use the **Find a Partner** tool in Partner Center to search for qualified Microsoft partners.</span><span class="sxs-lookup"><span data-stu-id="1f49b-110">Customers also use the **Find a Partner** tool in Partner Center to search for qualified Microsoft partners.</span></span> 
+<span data-ttu-id="6b6ce-110">Microsoft では、ソリューションと専門分野に応じてパートナー様とお客様のマッチングを行います。</span><span class="sxs-lookup"><span data-stu-id="6b6ce-110">We want to connect you with customers who need your solutions and expertise.</span></span> <span data-ttu-id="6b6ce-111">Microsoft から見込み情報を獲得するために最も重要な手順は、[ビジネス プロファイルを作成](create-a-marketing-profile.md)して、貴社の製品、ソリューション、専門分野を公開することです。</span><span class="sxs-lookup"><span data-stu-id="6b6ce-111">The most important step you can take to start getting sales leads from us is to [create a business profile](create-a-marketing-profile.md) that showcases your company's offerings, solutions, and expertise.</span></span> <span data-ttu-id="6b6ce-112">このビジネス プロファイルは、お客様や社内の Microsoft 販売担当者が条件に合うパートナーを検索するすべての場所に表示されます。</span><span class="sxs-lookup"><span data-stu-id="6b6ce-112">Your business profile will be listed in all the places customers and internal Microsoft sales agents search for qualified partners.</span></span> 
 
-<span data-ttu-id="1f49b-111">Grow your business by showcasing your business to these potential customers, and working with them to help them be successful.</span><span class="sxs-lookup"><span data-stu-id="1f49b-111">Grow your business by showcasing your business to these potential customers, and working with them to help them be successful.</span></span>
+ <span data-ttu-id="6b6ce-113">ビジネス プロファイルを公開すると、パートナー センターの紹介機能から見込み情報が送られてきます。</span><span class="sxs-lookup"><span data-stu-id="6b6ce-113">After you publish your business profile, you'll start to receive sales leads through the Referrals feature in Partner Center.</span></span> <span data-ttu-id="6b6ce-114">見込み情報を継続的に受信するには、決められた期限内に紹介案件に対応する必要があります。さらに重要になるのが、案件を獲得することです。</span><span class="sxs-lookup"><span data-stu-id="6b6ce-114">It's important to respond to referrals within the required time frames to continue to receive these leads and, most importantly, to win deals.</span></span> <span data-ttu-id="6b6ce-115">パートナー センターで潜在顧客を管理する方法については、「[紹介案件への対応](responding-to-referrals.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="6b6ce-115">See [Respond to referrals](responding-to-referrals.md) for details about how to manage sales leads in Partner Center.</span></span>  
 
-*  <span data-ttu-id="1f49b-112">[Create a marketing profile](create-a-marketing-profile.md).</span><span class="sxs-lookup"><span data-stu-id="1f49b-112">[Create a marketing profile](create-a-marketing-profile.md).</span></span> <span data-ttu-id="1f49b-113">Our sales agents and search tools use these profiles to find appropriate partner businesses with the relevant experience to help our customers.</span><span class="sxs-lookup"><span data-stu-id="1f49b-113">Our sales agents and search tools use these profiles to find appropriate partner businesses with the relevant experience to help our customers.</span></span>
-
-*  <span data-ttu-id="1f49b-114">[Respond to referrals](responding-to-referrals.md) When customers express an interest in the contacts you have included in your marketing profile.</span><span class="sxs-lookup"><span data-stu-id="1f49b-114">[Respond to referrals](responding-to-referrals.md) When customers express an interest in the contacts you have included in your marketing profile.</span></span> <span data-ttu-id="1f49b-115">Learn how to track and quickly respond to these customers.</span><span class="sxs-lookup"><span data-stu-id="1f49b-115">Learn how to track and quickly respond to these customers.</span></span>
+<span data-ttu-id="6b6ce-116">幸運をお祈りします!</span><span class="sxs-lookup"><span data-stu-id="6b6ce-116">Good luck!</span></span>
 
 <!-- 
-*  [Analyze your marketing profile](analyze-your-marketing-profile.md) Regularly review and optimize your marketing profile to make sure you’re getting in front of your target customers.
+*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.
 -->
