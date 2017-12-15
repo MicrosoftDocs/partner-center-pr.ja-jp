@@ -1,32 +1,42 @@
 ---
-title: "Microsoft パートナー センター"
+title: "Microsoft パートナー センターへようこそ"
 description: "Microsoft パートナー センター"
 author: labrenne
-ms.openlocfilehash: 85c1c7670e52cec5cdce03d7092eae22c0b0ef09
-ms.sourcegitcommit: ed19af64e654c8d7c672c29dff1929c6dc7f8a7a
+ms.openlocfilehash: 049fe3790b02a2755fe493c4eb611f7c0f99d699
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/21/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="increase-your-productivity-with-partner-center"></a>パートナー センターを活用して生産性を高める
+# <a name="welcome-to-the-microsoft-partner-center"></a>Microsoft パートナー センターへようこそ
 
-Microsoft パートナー センターへようこそ。 新しいお客様の獲得と既存のお客様のサポートを通じて、ビジネスを拡大するために必要な主な作業手順について説明します。
+Microsoft パートナー センター (このサイト) は、Microsoft のパートナー企業がビジネスの構築、管理、拡大に利用できる場所です  (このページに記載されているすべての説明が、すべてのパートナーに適用されるわけではありません。 一部の機能は段階的にロールアウトされます)。
 
-**適用対象**
+## <a name="create-an-account-on-partner-center-to"></a>パートナー センターのアカウントを作成する目的
 
--  パートナー センター 
+-   Microsoft とのメンバーシップを管理する
+    -   Microsoft Action Pack やその他の内部使用権メンバー特典を購入する 
+    -   Microsoft の製品およびサービスに関する自社スキルを構築する
+    -   Silver および Gold のメンバーシップ資格を満たす
 
+-   自社アカウントに従業員を追加し、適切なアクセス レベルを割り当てる
 
-## <a name="whats-new"></a>新着情報
+-   Microsoft から条件に合った見込み情報を受け取る 
+    -   無数の潜在顧客に対して、自社の製品やサービスを提示する
+    -   初回連絡から契約の締結まで、見込み客を管理する 
 
- 次の新機能について確認してください。 
+-   クラウド ソリューション プロバイダー プログラムに参加する
+    -   Microsoft クラウド サービスおよびソリューションのサブスクリプションを販売/管理する       
+    -   顧客との関係を確立/管理する
+    -   間接プロバイダー - リセラーとの関係を確立/管理する    
+    -   専用のプライベートな Microsoft ナショナル クラウドで顧客に販売する 
+    -   Microsoft からの請求と Microsoft への支払いを管理する
+    -   請求を調整して顧客への請求額を決定する
+   
 
-- [Action Pack サブスクリプションの購入と更新](mpn-get-action-pack.md)
-- [マーケティング プロファイルの作成とマイクロソフトからの潜在顧客の獲得](referrals.md)
-- [インセンティブ プログラムの管理](manage-your-incentives-in-partner-center.md)
-- [顧客へのサブスクリプション割引の提供](promotions.md)
-- [Windows AutoPilot](autopilot.md)
-- [Power BI 用パートナー センター分析アプリ](power-bi-app-for-direct-partners.md)
+>**重要**<br>
+パートナー センターには、次々と新しい機能が追加されています。 [新機能](whats-new-in-pc.md)に関する情報をご確認ください。
+
 
 ## <a name="get-started"></a>作業の開始
 
@@ -34,11 +44,11 @@ Microsoft パートナー センターへようこそ。 新しいお客様の�
 
 | **参照先**  | **説明**  |
 |------------|:-------------|
-|[パートナー プログラムへの登録](enrolling-in-the-csp-program.md)|複数の地域と専用のナショナル クラウドに設置されているクラウド ソリューション プロバイダー (CSP) プログラムに登録する方法について説明します。|
-|[Azure Active Directory テナントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)|Azure AD テナントが必要な理由と、テナントの管理方法について説明します。|
-|[パートナー センターのアカウントの設定](partner-center-account-setup.md)|ユーザー アカウントの作成、プロファイルの管理、パスワードの管理、製品カタログのカスタマイズについて説明します。|
-|[顧客アカウントの設定](customer-accounts.md)|ユーザーの追加、新しいアカウントの作成、顧客一覧の参照について説明します。|
-|[他のパートナーとの連携](work-with-other-partners.md)|貴社が必要とする知識を提供できる適切なパートナーを検索する方法について説明します。|
+|[Microsoft Partner Network に参加する](mpn-overview.md)|Microsoft のパートナーになると、内部使用権ソフトウェア/サービスおよび Microsoft Action Pack にアクセスし、Silver および Gold コンピテンシーを獲得できます。 |
+|[クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売](csp-overview.md) | 貴社に適した CSP モデル、CSP を通じて販売できる国または地域、CSP を通じて販売できる製品またはサービスについてご確認ください。 |
+|[パートナー センターのアカウントの設定](partner-center-account-setup.md)|ユーザー アカウントの作成、プロファイルの管理、パスワードの管理、製品カタログのカスタマイズについて説明します。 |
+|[顧客アカウントの設定](customer-accounts.md)|ユーザーの追加、新しいアカウントの作成、顧客一覧の参照について説明します。 |
+|[他のパートナーとの連携](work-with-other-partners.md)|貴社が必要とする知識を提供できる適切なパートナーを検索する方法について説明します。 |
 
 ## <a name="manage-your-reseller-business"></a>リセラー ビジネスの管理
 
@@ -46,12 +56,11 @@ Microsoft パートナー センターへようこそ。 新しいお客様の�
 
 | **参照先**  |**説明**   |
 |------------|:-------------|
-|[マイクロソフトからの紹介案件の獲得によるビジネスの拡大](referrals.md)|顧客向けのマーケティング プロファイルを作成し、紹介案件を受け取って対応する方法について説明します。|
+|[Microsoft からの紹介案件の獲得によるビジネスの拡大](referrals.md)|顧客向けのビジネス プロファイルを作成し、紹介案件を受け取って対応する方法について説明します。|
 |[Power BI 用パートナー センター分析アプリ](power-bi-app-for-direct-partners.md)| 使い慣れた Microsoft Power BI ダッシュボードを使って、自社の業績を分析する方法について説明します。|
-|[インセンティブ プログラムの管理](manage-your-incentives-in-partner-center.md)|インセンティブ ユーザーの管理、登録作業、収益と支払いの確認について説明します。|
 |[顧客のサブスクリプションの管理](customer-subscriptions.md)|新しいサブスクリプション、試用版サブスクリプション、ライセンスの割り当て、プロモーション、割引について説明します。|
-|[マーケティング プロファイルへのコンピテンシーの追加](learn-about-competencies.md)|専門知識の周知、コンピテンシーのオプションの理解について説明します。|
-|[請求](billing.md)|請求のシナリオ、各種の税金、Azure 支出の予算について説明します。|
+|[ビジネス プロファイルへのコンピテンシーの追加](learn-about-competencies.md)|専門知識の周知、コンピテンシーのオプションの理解について説明します。|
+|[請求](billing.md)|請求のシナリオ、各種の税金、Azure 支出の予算について説明します。 |
 
 ## <a name="understand-your-support-options"></a>サポート オプション
 
@@ -61,5 +70,5 @@ Microsoft サービスやパートナー センターについてのヘルプが
 
 | **参照先**  | **説明**  |
 |------------|:-------------|
-|[カスタマー サポート](customer-support.md)|テクニカル サポートの提供、請求に関するサポート、エスカレーション、ユーザーのセルフ サポートの支援について説明します。|
-|[マイクロソフトによるサポート](support-from-microsoft--.md)|パートナー センターに関する問題の報告、顧客の代理としての問題の報告について説明します。|
+|[カスタマー サポート](customer-support.md)|テクニカル サポートの提供、請求に関するサポート、エスカレーションの処理、顧客のセルフ サポートの支援について説明します。|
+|[Microsoft によるサポート](support-from-microsoft.md)|パートナー センターに関する問題の報告、顧客の代理としての問題の報告について説明します。|

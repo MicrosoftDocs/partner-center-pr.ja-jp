@@ -1,27 +1,27 @@
 ---
-title: Partner with indirect providers in CSP | Partner Center
-description: "As an indirect reseller in CSP, you work with indirect providers (also known as distributors) who have a direct relationship with Microsoft and can provide customer support and billing. This means you don’t have to begin on your own but can instead work with an experienced technology provider to help ensure your success. In the provider-reseller (two-tier) model, the provider buys cloud solutions and services from Microsoft that you resell to customers."
+title: "CSP での間接プロバイダーとの連携 | パートナー センター"
+description: "CSP の間接リセラーは、間接プロバイダー (ディストリビューターとも呼ばれます) に協力を提供するパートナーです。これに対して、間接プロバイダーはマイクロソフトと直接の取引関係を持ち、間接リセラーにカスタマー サポートと請求処理の機能を提供できるパートナーです。 そのため間接リセラーは、自社にすべての機能がそろっていなくてもビジネスを開始でき、経験豊富なテクノロジ プロバイダーと協力して、より確実に成功に近づくことができます。 プロバイダー/リセラー (2 層) モデルでは、プロバイダーがマイクロソフトからクラウド ソリューションとサービスを購入し、リセラーがそれを顧客に販売します。"
 ms.prod: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 2b2b8fc3a58a3ff67c1a96558df49a594fe8e74f
-ms.sourcegitcommit: e79f756c7203751b8fd6ad26883a0568c91a6c8b
+ms.openlocfilehash: 1ee00b2fae46c49eaf7df2b0f2d6329231f2e4ab
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/16/2017
+ms.lasthandoff: 11/10/2017
 ---
-# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Partner with indirect providers in the Cloud Solution Provider program
+# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携
 
-The rapidly growing demand for cloud-based solutions and services provides many opportunities for Microsoft partners of all sizes to build profitable cloud solution businesses. 市場へは参入したいが、複数ベンダーの管理は避けたいと考えるパートナーや、包括的な顧客関係管理の基盤を持たないパートナーは、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに間接リセラーとして登録することができます。
+クラウドベースのソリューションとサービスの需要は急速に拡大しており、あらゆる規模のマイクロソフト パートナーが、収益性の高いクラウド ソリューション ビジネスを構築する多くの機会を手にしています。 市場へは参入したいが、複数ベンダーの管理は避けたいと考えるパートナーや、包括的な顧客関係管理の基盤を持たないパートナーは、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに間接リセラーとして登録することができます。
 
-CSP の間接リセラーは、間接プロバイダー (ディストリビューターとも呼ばれます) に協力を提供するパートナーです。これに対して、間接プロバイダーはマイクロソフトと直接の取引関係を持ち、間接リセラーにカスタマー サポートと請求処理の機能を提供できるパートナーです。 This means you don’t have to begin on your own but can instead work with an experienced technology provider to help ensure your success. In the provider-reseller (two-tier) model, the provider buys cloud solutions and services from Microsoft that you resell to customers.
+CSP の間接リセラーは、間接プロバイダー (ディストリビューターとも呼ばれます) に協力を提供するパートナーです。これに対して、間接プロバイダーはマイクロソフトと直接の取引関係を持ち、間接リセラーにカスタマー サポートと請求処理の機能を提供できるパートナーです。 そのため間接リセラーは、自社にすべての機能がそろっていなくてもビジネスを開始でき、経験豊富なテクノロジ プロバイダーと協力して、より確実に成功に近づくことができます。 プロバイダー/リセラー (2 層) モデルでは、プロバイダーがマイクロソフトからクラウド ソリューションとサービスを購入し、リセラーがそれを顧客に販売します。
 
-Different indirect providers offer different support and services, so you should evaluate the providers in your area to determine which ones best meet your needs. Generally, most providers will: 
+提供されるサポートやサービスは間接プロバイダーによって異なるため、リセラーは対象地域の複数のプロバイダーを評価して、自社のニーズに最も適したプロバイダーを判断する必要があります。 一般に、ほとんどのプロバイダーが提供している機能は次のとおりです。 
 
 -   リセラーへのテクニカル サポートの提供
 -   リセラーの製品やサービスのマーケティング支援 
 -   リセラーの資金調達や与信に関する支援
 
-If you’re not already working with a provider (also known as a distributor), you can [search the list of official Microsoft providers](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) to find one.
+まだプロバイダー (ディストリビューター) と連携していない場合は、[認定間接プロバイダーを検索](https://partnercenter.microsoft.com/en-us/partner/find-a-provider)して、連携先を見つけることができます。
 
 
 CSP プログラムで間接リセラーとして販売を行うために必要な手順について詳しくは、[Microsoft Partner Network Web サイト](https://partner.microsoft.com/)の「[インダイレクト リセラーになる](https://partner.microsoft.com/cloud-solution-provider/whats-required)」をご覧ください。 
@@ -29,27 +29,27 @@ CSP プログラムで間接リセラーとして販売を行うために必要�
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムで間接リセラーとして登録する
 
->**Note**  If you are already enrolled in CSP, you may need to provide only customer support contact information to create a reseller account on Partner Center. 
+>**注**  既に CSP に登録しているリセラーは、場合によっては、カスタマー サポートの連絡先情報のみを入力して、パートナー センターにリセラー アカウントを作成できます。 
 
-### <a name="before-you-begin"></a>Before you begin
+### <a name="before-you-begin"></a>開始する前に
 
-If you are new to CSP, you’ll need to enroll in the program as an indirect reseller and create an account on Partner Center. To do so, you’ll need to provide the following information during the enrollment process. You may want to take a few minutes to gather these items before you get started:
+初めて CSP を使用する場合、間接リセラーとしてプログラムに登録し、パートナー センターでアカウントを作成する必要があります。 登録プロセスでは、次の情報の入力が必要になります。 作業を開始する前に、これらの情報を手元に準備してください。
 
 -   **職場アカウントの全体管理者の資格情報**<br>
 Office 365、Microsoft Azure、または Microsoft Dynamics CRM のログインに使うユーザー名とパスワードの入力を求められます。 職場アカウントをお持ちでない場合は、登録プロセスの中で作成できます。 職場アカウントの有無が不明な場合は、「[Azure Active Directory テナントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」をご覧ください。
 
 
 -   **Partner Membership Center サイトへのサインインに使うユーザー名とパスワード**<br>
-We use this information to link your organization's Microsoft Partner Network ID (MPN ID) with your new Partner Center account so that you can manage your membership benefits and data in Partner Center.
+この情報は、リセラーの Microsoft Partner Network ID (MPN ID) と新しいパートナー センター アカウントを関連付けるために使用されます。この関連付けにより、リセラーはパートナー センターでメンバーシップ特典とデータを管理できるようになります。
 
--   **Your organization’s legal business name, address, primary contact, and support details**<br>
-We need this information to confirm that your organization has an established profile with Microsoft and that you are authorized to act on its behalf.
+-   **組織の法人名、住所、第一連絡先担当者、およびサポートの詳細**<br>
+この情報は、組織がマイクロソフトに関する十分な経歴を持つこと、また申請者に組織の代表としての権限が与えられていること確認する際に必要となります。
  
-Please note that it can take us several days to review and verify the information you’ve provided. We’ll email your primary contact when we’ve completed our review.
+提供された情報の審査と検証に数日かかることがあります。 審査が完了すると、第一連絡先担当者にメールで通知されます。
 
-### <a name="get-started"></a>Get started
+### <a name="get-started"></a>作業の開始
 
-1.  Kick off the enrollment process [here](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
+1.  [ここをクリック](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)して登録プロセスを開始します。
 
 2.  **[ようこそ]**ページを読み、登録に必要な情報が手元に揃っていることを確認して **[次へ]** を選びます。
 
@@ -57,47 +57,47 @@ Please note that it can take us several days to review and verify the informatio
 
     職場アカウントをお持ちでない場合は、**[作成する]** をクリックして作成します。 作業アカウントを作成した後、新しいアカウントの全体管理者の資格情報を使ってサインインします。
 
-4.  Microsoft Partner Network ID (MPN ID) を新しいパートナー センター アカウントに関連付ける方法を確認します。 We need to link your organization's MPN ID with your new Partner Center account so that you can manage your membership benefits and incentives on Partner Center. Select **Sign in**.
+4.  Microsoft Partner Network ID (MPN ID) を新しいパートナー センター アカウントに関連付ける方法を確認します。 マイクロソフトはリセラーの MPN ID と新しいパートナー センター アカウントを関連付ける必要があります。この関連付けにより、リセラーはパートナーセンターでメンバーシップ特典やインセンティブを管理できるようになります。 **[サインイン]** を選びます。
 
-5.  Enter the user name you use to sign in to the Partner Membership Center (PMC) site. The Partner Membership Center site is where you currently manage your Microsoft partner account. Signing in to Partner Membership Center allows us to retrieve your MPN ID and associate it to your new Partner Center account. Select **Next**. 
+5.  Partner Membership Center (PMC) サイトへのサインインに使用するユーザー名を入力します。 Partner Membership Center サイトは、現在、貴社がマイクロソフト パートナー アカウントを管理しているサイトです。 リセラーが Partner Membership Center にサインインすると、マイクロソフトはリセラーの MPN ID を取得して、新しいパートナー センター アカウントに関連付けることができます。 **[次へ]** を選びます。 
 
-6.  Enter the password for your Partner Membership Center account and then select **Sign in**.
+6.  Partner Membership Center アカウントのパスワードを入力し、**[サインイン]**を選びます。
 
-7.  Select the organization profile with the MPN ID that’s linked to your incentives, membership benefits, and competencies so we can move this information to your Partner Center account. Select **Continue**.
+7.  インセンティブ、メンバーシップ特典、コンピテンシーがリンクされた組織プロファイルを MPN ID によって選びます。選んだ組織プロファイルは、マイクロソフトによってリセラーのパートナー センター アカウントに移動されます。 **[続行]** を選びます。
 
-    If the MPN ID you want to use is not listed on this page, select **Cancel** and sign in again with the user name and password for the organization profile you want to use. 
+    使用する MPN ID がこのページに表示されていない場合は、**[キャンセル]** を選び、使用する組織プロファイルのユーザー名とパスワードを使ってサインインし直します。 
 
-    >**Important**  Select the MPN ID associated with an active organization profile that’s located in the same country/region as your Azure AD tenant.
+    >**重要**  Azure AD テナントと同じ国/地域にある、有効な組織プロファイルの MPN ID を選択してください。
 
-8.  Provide or update your organization’s legal business profile, primary contact information, and customer support information. Select **Enroll now**.
+8.  組織の法人プロフィール、第一連絡先担当者情報、カスタマー サポートに関する情報を入力または更新します。 **[今すぐ登録する]** を選びます。
 
-    The primary contact should be the person in your organization we can contact about your application (this can be you or another person in your organization). Web ベースの電子メール サービスで取得したメール アドレスは使用できません (Gmail、Yahoo!  メール、iCloud メール、AOL メール、Outlook メールなど)。 
+    第一連絡先担当者には、貴社の登録申請について連絡できる社内の担当者 (申請者本人または社内の他の担当者) を指定してください。 Web ベースの電子メール サービスで取得したメール アドレスは使用できません (Gmail、Yahoo!  メール、iCloud メール、AOL メール、Outlook メールなど)。 
 
-    >**Important** To help ensure your organization’s security and privacy, we’ll email your primary contact to verify that (1) he or she signed up for a Partner Center account, and (2) that this email address belongs to your organization. After the primary contact verifies his or her email address, we’ll continue our review of the information you provided. We’ll email enrollment status updates to the primary contact.
+    >**重要** マイクロソフトは貴社のセキュリティとプライバシーを確保するため、第一連絡先担当者に、(1) このメール アドレスの持ち主がパートナー センター アカウントに登録した本人であること、および (2) このメール アドレスが貴社に属していることをメールで確認します。 第一連絡先担当者と連絡が取れ、そのメール アドレスの正当性が確認された後、提供された情報が引き続き審査されます。 登録状態の更新は、第一連絡先担当者にメールで通知されます。
 
-9.  When your Partner Center account is ready to use, verify that you’ve been added to the admin agent group. To finish setting up your account, including adding other users, you must have admin agent permissions. Follow these steps to view or update your permissions:
+9.  パートナー センター アカウントが使用可能になったら、貴社が管理エージェント グループに追加されていることを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
-    a.  On the **Dashboard** menu, select **Account settings > User management** and select your name from the users list. 
+    a.   **[ダッシュボード]**メニューで、**[アカウントの設定] > [ユーザー管理]** を選び、ユーザーの一覧から貴社名を選びます。 
 
-    b.  **[管理エージェント]** が選択されていない場合は選択して **[更新]** を選びます。   
+    b.   **[管理エージェント]** が選択されていない場合は選択して **[更新]** を選びます。   
 
 ## <a name="add-a-new-user"></a>新しいユーザーを追加する
 
-1. On the **Dashboard** menu, select **Account settings > User management**.
+1. **[ダッシュボード]**メニューで、**[アカウント設定] > [ユーザー管理]** を選びます。
 
-2. Select **Add user**.
+2. **[ユーザーの追加]** を選びます。
 
-3. Enter the user’s full name and unique email address.
+3. ユーザーのフル ネームと一意のメール アドレスを入力します。
 
-4. Select the type of agent and the type of admin. Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. For more information about what each role can do, see [Assign user permissions](#assignuserpermissions).
+4. エージェントと管理者の種類を選びます。パートナー センターへのアクセスは役割ベースであるため、アクセス許可を割り当てることで、ユーザーのビューをカスタマイズして特定のタスクに必要な機能のみを表示できます。 各役割で実行できる機能について詳しくは、「[ユーザーのアクセス許可を割り当てる](#assignuserpermissions)」をご覧ください。
 
-5. Select **Add** to create the user account. Confirm the user's details on the next page.
+5. **[追加]** を選んでユーザー アカウントを作成します。 次のページで、ユーザーの詳細を確認します。
 
 
->**Important**<br>
-Make a note of the new user's sign-in information displayed on this page. Be sure to copy and send this information to the new user as you will not be able to access it again later. <br>
+>**重要**<br>
+このページに表示される、新しいユーザーのサインイン情報を書き留めます。 この情報は後から確認できないため、必ず書き留めて新しいユーザーに送信してください。 <br>
 
->The user will need to sign in to Partner Center with their user name and temporary password. ユーザーがパートナーセンターに初めてサインインすると、パスワードの変更を求めるメッセージが表示されます。        
+>ユーザーは、ユーザー名と一時パスワードを使ってパートナー センターにサインインする必要があります。 ユーザーがパートナーセンターに初めてサインインすると、パスワードの変更を求めるメッセージが表示されます。        
 
 ## <a name="assign-user-permissions"></a>ユーザーのアクセス許可を割り当てる
 
@@ -119,9 +119,9 @@ Make a note of the new user's sign-in information displayed on this page. Be sur
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Role in Partner Center</strong></p></td>
-<td><p><strong>What they can do</strong></p></td>
-<td><p><strong>What they can't do</strong></p></td>
+<td><p><strong>パートナー センターでの役割</strong></p></td>
+<td><p><strong>実行できる可能</strong></p></td>
+<td><p><strong>実行できない機能</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>管理エージェント</strong></p></td>
@@ -140,8 +140,8 @@ Make a note of the new user's sign-in information displayed on this page. Be sur
 <td><ul>
 <li><p>顧客の検索と表示</p></li>
 <li><p>サービスの正常性</p></li>
-<li><p>Request support on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</p></li>
-<li><p>Manage subscriptions and services on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</p></li>
+<li><p>顧客の代理としてのサポート要求 (注: Office 365 サブスクリプションの場合、このタスクを完了するには管理者エージェントの役割が必要です)</p></li>
+<li><p>顧客の代理としてのサブスクリプションとサービスの管理 (注: Office 365 サブスクリプションの場合、このタスクを完了するには管理者エージェントの役割が必要です)</p></li>
 </ul></td>
 <td><ul>
 <li><p>パートナー プロファイルの表示</p></li>
@@ -152,7 +152,7 @@ Make a note of the new user's sign-in information displayed on this page. Be sur
 <tr class="even">
 <td><p><strong>グローバル管理</strong></p></td>
 <td><ul>
-<li><p>Can access all Microsoft account/services with full privileges</p></li>
+<li><p>完全な権限を使ったすべての Microsoft アカウント/サービスへのアクセス</p></li>
 <li><p>パートナー センターへのサポート チケットの作成</p></li>
 <li><p>パートナー ユーザーの表示、作成、管理</p></li>
 <li><p>間接プロバイダーからのパートナーシップ要求の承認</p></li>
@@ -162,7 +162,7 @@ Make a note of the new user's sign-in information displayed on this page. Be sur
 <tr class="odd">
 <td><p><strong>ユーザー管理者</strong></p></td>
 <td><ul>
-<li><p>View, create, and manage users</p></li>
+<li><p>ユーザーの表示、作成、管理</p></li>
 <li><p>すべてのパートナー プロファイルの表示</p></li>
 </ul></td>
 <td></td>
@@ -174,25 +174,25 @@ Make a note of the new user's sign-in information displayed on this page. Be sur
 
 間接プロバイダーと連携すると、間接リセラーの顧客は、多様な選択肢の中からマイクロソフトのクラウドベースのサービスとソリューションを選べるようになります。 間接プロバイダーは、顧客への請求処理とカスタマー サポートを安定的に提供できるシステムとインフラストラクチャーを備えているため、間接リセラーはテクノロジ ソリューションと顧客対応に集中できます。 
 
-If you’re not already working with a provider (also known as a distributor), you can [search the list of official Microsoft providers](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) to find one. When you find a provider you want to partner with, contact them directly to discuss their reseller programs, level of support, and terms. If both you and the provider want to work together, you’ll need to connect your accounts on Partner Center. 
+まだプロバイダー (ディストリビューター) と連携していない場合は、[認定間接プロバイダーを検索](https://partnercenter.microsoft.com/en-us/partner/find-a-provider)して、連携先を見つけることができます。 連携候補のプロバイダーが見つかったら、直接そのプロバイダーに連絡して、提供されているリセラー プログラム、サポートのレベル、契約条件などについて協議してください。 貴社とプロバイダーの両方が連携に合意した場合、貴社のアカウントをパートナー センターで連携する必要があります。 
 
-If an indirect provider wants to connect with you on Partner Center, they’ll kick off the following workflow:
+間接プロバイダーがパートナー センターで貴社と連携を希望する場合、次のワークフローが開始されます。
 
-1.  The indirect provider emails you an invitation to authorize them to be your indirect provider. The email includes a link to Partner Center and will associate your account to the provider’s account.
+1.  間接プロバイダーから、貴社の間接プロバイダーとして承認を求める招待がメールで届きます。 メールには、パートナー センターへのリンクが含まれており、このリンクによって、貴社のアカウントがプロバイダーのアカウントと関連付けられます。
 
-2.  To accept the invitation, follow the link in the provider’s email. You may need to sign in to Partner Center again.
+2.  招待を承諾するには、プロバイダーのメールのリンクをクリックし、説明に従います。 場合によっては、パートナー センターにもう一度ログインする必要があります。
 
-3.  To confirm the partnership with the provider, check the box and then select **Authorize indirect provider**. The provider is now listed on your **Indirect providers** page and your company is now listed on the provider's **Indirect resellers** page.
+3.  プロバイダーとのパートナーシップを確認するには、チェックボックスをオンにし、**[間接プロバイダーを承認する]** を選びます。 プロバイダーが貴社の **[間接プロバイダー]** ページに表示され、貴社がプロバイダーの **[間接リセラー]** ページに表示されます。
 
-    >**Note**  When you establish a partnership with an indirect provider, you’re authorizing them to submit orders and add subscriptions on behalf of your customers, and you’re granting them administrator access to your Azure AD tenant.
+    >**注**  間接プロバイダーとパートナーシップを確立した場合、間接プロバイダーに対し、貴社の顧客に代わって注文とサブスクリプションを送信する権限を認め、貴社の Azure AD テナントへの管理者アクセス権を付与したものと見なされます。
 
-4.  Select **Indirect providers** from your **Dashboard** menu to see a list of the providers you have a partnership with. 
+4.  パートナーシップを結んだプロバイダーの一覧を表示するには、**[ダッシュ ボード]**メニューで **[間接プロバイダー]** を選びます。 
 
 5.  貴社とプロバイダーが共有している顧客の一覧を表示するには、**[顧客を表示する]** を選びます。
 
 6.  新しい顧客に対し、貴社と間接プロバイダーの両方について再販業者関係の承認を求めるには、**[新しい顧客を招待する]** を選びます。 顧客のメールアドレスを手元に置いて、招待をメールで送信できるように準備してください。  
 
-    >**Important**  Your indirect provider needs to have a reseller relationship with your customers to submit orders on their behalf. 
+    >**重要**  間接プロバイダーは、貴社の顧客と再販業者関係を結び、顧客に代わって注文を送信できる必要があります。 
  
 ## <a name="connect-with-customers"></a>顧客との再販業者関係の確立
 
@@ -206,11 +206,11 @@ Office 365 パートナー管理センターや Microsoft Azure 管理ポータ�
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>貴社との再販業者関係を確立するために顧客を招待する
 
-1.  Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.
+1.  **[ダッシュボード]** メニューで **[顧客]** を選択し、**[再販業者関係の要求]** を選びます。
 
-2.  On the next page, review the draft email message. You can open the draft message in email or you can copy the message to your clipboard and paste it into an email. 
+2.  次のページで、メール メッセージの下書きを確認します。 メールで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。 
 
-    You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account. Select **Done** when you’ve completed this step.
+    メールのテキストを編集することはできますが、リンクを必ず含めてください。このリンクは、顧客が貴社のアカウントに直接アクセスできるようにカスタマイズされています。 この手順を完了したら、**[完了]** を選びます。
 
 3.  顧客にメールを送信します。
 
@@ -221,13 +221,13 @@ Office 365 パートナー管理センターや Microsoft Azure 管理ポータ�
 
 ### <a name="connect-with-new-customers"></a>新規顧客と再販業者関係を確立する
 
-新しい顧客を獲得した場合、パートナー センターで顧客との間に再販業者関係を確立する必要があります。 You may get new customers through multiple channels, including:
+新しい顧客を獲得した場合、パートナー センターで顧客との間に再販業者関係を確立する必要があります。 新しい顧客は、次のような複数のチャネルから獲得されます。
 
--   Your own marketing activities
--   Microsoft referrals
--   Indirect providers
+-   独自のマーケティング活動
+-   マイクロソフトによる紹介
+-   間接プロバイダー
 
-To manage a customer’s subscriptions and services on their behalf, you need to have a reseller relationship with them. 間接プロバイダーが顧客の代理として注文を送信する場合は、間接プロバイダーと顧客の間にも再販業者関係が必要です。
+顧客のサブスクリプションとサービスを代理で管理するには、顧客との再販業者関係が必要です。 間接プロバイダーが顧客の代理として注文を送信する場合は、間接プロバイダーと顧客の間にも再販業者関係が必要です。
 
 貴社が新しい顧客から管理者アクセス権を取得してサブスクリプションとサービスを管理し、**かつ**、間接プロバイダーが顧客の代理として新しい注文を提出する場合、貴社は顧客に招待を送信して、貴社とプロバイダーの両方との間で再販業者関係を確立するように求めることができます。 
 
@@ -241,18 +241,18 @@ To manage a customer’s subscriptions and services on their behalf, you need to
 
     メールのテキストを編集することはできますが、リンクを必ず含めてください。このリンクは、顧客が貴社のアカウントとプロバイダのアカウントに直接アクセスできるようにカスタマイズされています。 この手順を完了したら、**[完了]** を選びます。
 
-4.  After the customer authorizes you and your provider to be their resellers of record, you’ll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.
+4.  顧客が貴社とプロバイダーを指名リセラーとして承認すると、貴社には顧客のサブスクリプション、ライセンス、ユーザーを管理するための管理者のアクセス許可が付与され、間接プロバイダーは、顧客に代わって注文を送信できるようになります。
 
-5.  To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.
+5.  顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、顧客の名前の下矢印を選んで、顧客のレコードを展開します。
 
 
-## <a name="next-steps"></a>Next steps
+## <a name="next-steps"></a>次のステップ
 
-[Manage your Partner Center account](partner-center-account-setup.md)
+[パートナー センター アカウントの管理](partner-center-account-setup.md)
 
 [顧客とそのサブスクリプションの管理](customer-accounts.md)
 
-[マーケティング プロファイルの作成](create-a-marketing-profile.md)
+[ビジネス プロファイルの作成](create-a-marketing-profile.md)
 
 [パートナー センターのパートナー インセンティブ](manage-your-incentives-in-partner-center.md)
 

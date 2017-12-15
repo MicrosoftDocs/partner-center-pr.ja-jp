@@ -2,11 +2,11 @@
 title: "Action Pack を購入または更新する | Partner Center"
 description: "Microsoft Action Pack サブスクリプションを購入または更新する方法を説明します。"
 author: MaggiePucciEvans
-ms.openlocfilehash: 6302cb1322933d7d35ac9ceba9cbbf642ba8a2c6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/22/2017
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入または更新する
 
@@ -44,7 +44,7 @@ Microsoft Action Pack に含まれる特典について詳しくは、「[Micros
 
 7. 注文が確認されます。 **[閉じる]** を選びます。
 
-購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。 You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。 自動更新は、購入したプランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 
 
 
 ## <a name="renew-your-action-pack-subscription"></a>Action Pack サブスクリプションを更新する
@@ -67,7 +67,7 @@ Microsoft Action Pack に含まれる特典について詳しくは、「[Micros
 
 9. 注文が確認されます。 **[閉じる]** を選びます。
 
-購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。 You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。 自動更新は、購入したプランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 
 
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack サブスクリプションの自動更新を無効にする
@@ -79,12 +79,12 @@ Microsoft Action Pack に含まれる特典について詳しくは、「[Micros
 3. Action Pack サブスクリプションを毎年自動的に更新しない場合は、**[自動更新を無効にする]** を選びます。 
 
     >**注**<br>
-    If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again. サブスクリプションの有効期限が切れる前に、更新についてお知らせします。
+    サブスクリプションの自動更新を無効にすると、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 サブスクリプションの有効期限が切れる前に、更新についてお知らせします。
 
 
 ## <a name="cancel-your-action-pack-subscription"></a>Action Pack サブスクリプションを取り消す
 
-To cancel your Microsoft Action Pack subscription, you must contact Partner Center Support.
+Microsoft Action Pack サブスクリプションを取り消す場合は、パートナー センターのサポートにご連絡ください。
 
 1. https://partnercenter.microsoft.com/ja-jp/partner/support にアクセスします。
 
@@ -106,9 +106,7 @@ To cancel your Microsoft Action Pack subscription, you must contact Partner Cent
 
 [ユーザーの追加とアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)
 
-[Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](learn-about-competencies.md)
-
-[マーケティング プロファイルの作成とマイクロソフトからの潜在顧客の獲得](create-a-marketing-profile.md)
+[ビジネス プロファイルの作成と Microsoft からの潜在顧客の獲得](create-a-marketing-profile.md)
 
 
 

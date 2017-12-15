@@ -2,11 +2,11 @@
 title: "パートナー センター アカウントを作成する | パートナー センター"
 description: "ここではパートナーセンターで、Microsoft Partner Network メンバーシップ、プラン、特典を管理する方法を説明します。"
 author: MaggiePucciEvans
-ms.openlocfilehash: a69cee525d9abdde2b02f6fac3353415a699f3d5
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 819570228cb86157915bfc00c67e45615bd44ca7
+ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/01/2017
 ---
 # <a name="create-a-partner-center-account"></a>パートナー センター アカウントを作成する
 
@@ -25,15 +25,15 @@ ms.lasthandoff: 07/08/2017
 
 -   メンバーシップ特典の購入 (Microsoft Action Pack など) 
 
--   Activate and manage your network membership benefits
+-   ネットワーク メンバーシップ特典のアクティブ化と管理
 
 ## <a name="before-you-begin"></a>開始する前に
 
 パートナー センターでアカウントを作成するには、次の情報を入力する必要があります。 作業を開始する前に、これらの情報を手元に準備してください。
 
--   企業の Microsoft Azure Active Directory (Azure AD) テナントを管理する全体管理者の資格情報 Azure AD テナントが会社で既にあるかどうか不明な場合は、「[Azure Active Directory テナントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」を参照してください。
+-   全体管理者の職場メール アドレス。 職場アカウントについて詳しくは、「[Azure Active Directory テナントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」をご覧ください。
 
-    Azure AD テナントが会社にまだない場合は、登録プロセスを通じて無料で作成できます。 
+    会社に職場アカウントがない場合は、登録プロセスを通じて無料で作成できます。 
 
 -   組織の法人名、住所、第一連絡先担当者。 この情報は、組織が十分な経歴を持つこと、また申請者に組織の代表としての権限が与えられていること確認する際に必要となります。 
 
@@ -41,17 +41,17 @@ ms.lasthandoff: 07/08/2017
 
 -   第一連絡先担当者の氏名と会社の電子メール アドレス。 マイクロソフトは貴社のセキュリティとプライバシーを確保するため、第一連絡先担当者に、(1) このメール アドレスの持ち主がパートナー センター アカウントに登録した本人であること、および (2) このメール アドレスが貴社に属していることをメールで確認します。 第一連絡先担当者と連絡が取れ、そのメール アドレスの正当性が確認された後、提供された情報が引き続き審査されます。
 
-We’ll verify this information during the account creation process. 
+この情報は、アカウント作成プロセスで確認されます。 
  
 ## <a name="create-a-partner-center-account"></a>パートナー センター アカウントを作成する
 
 1.  **[ようこそ]** ページの情報を確認して **[次へ]** を選びます。
 
-2.  貴社の Azure AD テナントの全体管理者としてサインインします。 Azure AD テナントが会社で既にあるかどうか不明な場合は、「[Azure Active Directory テナントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」を参照してください。
+2.  全体管理者として、職場メールでサインインします。 職場アカウントについて詳しくは、「[Azure Active Directory テナントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」をご覧ください。
 
-    Azure AD テナントがある場合は、**Azure AD** にサインインしてください。 次のページで、テナントの全体管理者の資格情報を入力します。 
+    会社に職場メール アカウントがある場合は、**Azure AD** にサインインします。 次のページで、テナントの全体管理者の資格情報を入力します。 
 
-    Azure AD テナントがない場合は、ここで **[新しいテナントを作成する]** を選んで作成します。 Azure AD テナントを設定した後、新しいテナントの全体管理者の資格情報を使ってサインインします。
+    会社に職場アカウントがない場合は、ここで **[新しいテナントを作成する]** を選んで作成します。 Azure AD テナント (職場アカウント) を設定した後、全体管理者の資格情報を使って新しい職場メール アカウントにサインインします。
 
 3.  組織の法人プロフィールと第一連絡先担当者情報を入力または更新し、**[今すぐ登録する]** を選びます。 
 
@@ -59,9 +59,9 @@ We’ll verify this information during the account creation process.
 
     >**重要**<br> マイクロソフトは貴社のセキュリティとプライバシーを確保するため、第一連絡先担当者に、(1) このメール アドレスの持ち主がパートナー センター アカウントに登録した本人であること、および (2) このメール アドレスが貴社に属していることをメールで確認します。 第一連絡先担当者と連絡が取れ、そのメール アドレスの正当性が確認された後、提供された情報が引き続き審査されます。
 
-4.  Read and accept the terms and conditions in the Microsoft Partner Network agreement. 
+4.  Microsoft Partner Network 契約の諸条件を読んで同意します。 
 
-5.  Verify that you’ve been added to the admin agent group. To finish setting up your account, including adding other users, you must have admin agent permissions. Follow these steps to view or update your permissions:
+5.  管理エージェント グループに追加されたことを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
     a.  **[ダッシュボード]**メニューで、**[アカウントの設定] > [ユーザー管理]** を選び、ユーザーの一覧から貴社名を選びます。 
 

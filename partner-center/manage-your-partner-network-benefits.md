@@ -1,22 +1,22 @@
 ---
-title: Manage your Microsoft Partner Network benefits | Partner Center
-description: As a Microsoft Partner Network member, you're entitled to certain membership benefits. Explains how to activate and manage your membership benefits on Partner Center.
+title: "Microsoft Partner Network の特典の管理 | パートナー センター"
+description: "Microsoft Partner Network のメンバーには、特定のメンバーシップ特典が付与されます。 ここではパートナーセンターでメンバーシップ特典を有効にして管理する方法を説明します。"
 author: MaggiePucciEvans
-ms.openlocfilehash: c74c00c06c02be98cd07ea639d38526f534f629c
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
+ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/03/2017
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Manage your Microsoft Partner Network membership benefits
+# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 
-**Applies to**
+**適用対象**
 
--  Partner Center
+-  パートナー センター
 
 Microsoft Partner Network メンバーシップを持つパートナーには、特定の特典が付与されます。 メンバーシップ特典を購入および有効化するには、Microsoft Partner Network のメンバーである必要があります。 メンバーでない場合は、[https://partner.microsoft.com](https://partner.microsoft.com) から登録できます。
 
->**注** このリンクをクリックすると、別の Web サイトにアクセスします。 Return to this site, Partner Center, to renew and upgrade your network membership.
+>**注** このリンクをクリックすると、別の Web サイトにアクセスします。 ネットワーク メンバーシップを更新してアップグレードするには、このパートナー センター サイトに戻る必要があります。
 
 Microsoft Partner Network でメンバーシップを登録または更新した後は、特典を購入できます。
 
@@ -39,11 +39,11 @@ Action Pack サブスクリプションでは、内部使用権ソフトウェ�
 
     a.  **[キーの取得]** を選んで、製品ライセンスキーを取得します。 記載されている特別な指示に必ず従ってください。
 
-    b. Select the language you want the product to be displayed in.
+    b.  製品を表示する言語を選びます。
 
-    c. Select the operating system (OS) type of the computers you plan to install the software on.
+    c.  ソフトウェアをインストールするコンピューターのオペレーティング システム (OS) の種類を選びます。
 
-    d. Follow the links to download and install the software installation packages.
+    d.  ダウンロードのリンクをクリックして、ソフトウェア インストール パッケージをインストールします。
 
 
 #### <a name="manage-cloud-services-benefits"></a>クラウド サービス特典を管理する
@@ -68,9 +68,9 @@ Action Pack サブスクリプションでは、内部使用権ソフトウェ�
     >**重要**<br>
 割り当てるユーザーが一覧に表示されない場合は、**[アカウント設定]** で[新しいユーザーを追加](create-user-accounts-and-set-permissions.md)します。
 
-3. 割り当てる各サブスクリプションについて、この手順を繰り返します。 Users can manage their subscriptions in the Visual Studio portal. 
+3. 割り当てる各サブスクリプションについて、この手順を繰り返します。 ユーザーは、Visual Studio ポータルでサブスクリプションを管理できます。 
 
-    You can reassign subscriptions any time by removing an assigned user and then assigning a different user. 
+    サブスクリプションはいつでも、割り当てられているユーザーを削除し、別のユーザーを割り当てて再割り当てできます。 
 
 
 #### <a name="manage-support-benefits"></a>サポート特典を管理する
@@ -85,7 +85,7 @@ Action Pack サブスクリプションでは、内部使用権ソフトウェ�
 
     b.   パートナーセンターアカウントに関連付けられたメール アドレスとは異なるユーザー メール アドレスを入力します。 
     
-    As a safeguard, we'll email instructions for accessing Microsoft Product Support to this email address in addition to the user's Partner Center account email. Note that it can take several days to activate this benefit and email instructions to the assigned user.    
+    安全を期して、ユーザーのパートナー センター アカウントのメール アドレスに加え、このメール アドレスにもマイクロソフト製品サポートの利用手順を説明したメールが送信されます。 この特典を有効にし、割り当てられたユーザーに手順を記載したメールで届くまで数日かかることがあります。    
     
     c.   別のメールアドレスの入力が完了したら、**[ユーザーの割り当て]** を選びます。 
 

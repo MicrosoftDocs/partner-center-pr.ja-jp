@@ -1,28 +1,28 @@
 ---
-title: Use the reconciliation files | Partner Center
-description: For a detailed line-item view of each charge in a billing cycle, download the reconciliation files from the Partner Center dashboard.
+title: "調整ファイルの使用 | パートナー センター"
+description: "請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。"
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 551afa2468e2bd79f1779a82e6ece3725b33237b
-ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
+ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
+ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2017
+ms.lasthandoff: 11/04/2017
 ---
-# <a name="use-the-reconciliation-files"></a>Use the reconciliation files
+# <a name="use-the-reconciliation-files"></a>調整ファイルの使用
 
-**Applies to**
+**適用対象**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+-  パートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
+-  Microsoft Cloud ドイツのパートナー センター
 
-For a detailed line-item view of each charge in a billing cycle, download the reconciliation files from the Partner Center dashboard. The details include charges for each customer's subscriptions, and detailed events (such as a mid-term addition of seats to a subscription).
+請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。 詳細には、各顧客のサブスクリプションの料金や、詳細なイベント (期間途中でのサブスクリプションへのシートの追加など) が含まれます。
 
-## <a href="" id="itemizebypartner"></a>Itemize by partner
+## <a href="" id="itemizebypartner"></a>パートナーごとに明細を示す
 
 
-Partners in the indirect model can use these additional fields in both license-based and usage-based reconciliation files to itemize by reseller.
+インダイレクト モデルのパートナーは、ライセンスベースの調整ファイルと使用量ベースの調整ファイルの両方で、これらの追加フィールドを使用してリセラーごとに明細を記載できます。
 
 <table>
 <colgroup>
@@ -32,32 +32,32 @@ Partners in the indirect model can use these additional fields in both license-b
 <thead>
 <tr class="header">
 <th>MPN ID</th>
-<th>Description</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>MPN ID</td>
-<td><p>The Microsoft Partner Network (MPN) ID of the CSP partner (direct or indirect).</p></td>
+<td><p>CSP パートナー (直接または間接) の Microsoft Partner Network (MPN) IDです。</p></td>
 </tr>
 <tr class="even">
-<td>Reseller MPN ID</td>
-<td><p>Only appears on reconciliation files for partners in the indirect model.</p>
-<p>The MPN ID of the reseller of record for the subscription. This corresponds to the reseller ID listed for the specific subscription in Partner Center.</p>
-<p>eTo view or update the reseller, in the Partner Center menu, select <strong>Customers</strong>, then choose the customer from the list. In the customer menu, select <strong>Subscriptions</strong>, choose the subscription from the list. Select <strong>update</strong> to change the <strong>Reseller (MPN ID)</strong>.</p>
-<p>If a CSP partner sold the subscription directly to the customer, their MPN ID is listed twice, as both the MPN ID and the Reseller MPN ID.</p>
-<p>If a CSP partner has a reseller with no MPN ID, this value is set to the partner’s MPN ID instead.</p>
-<p>If the CSP partner removes a reseller ID, this value will be set to -1.</p></td>
+<td>リセラーの MPN ID</td>
+<td><p>インダイレクト モデルのパートナーの調整ファイルにのみ表示されます。</p>
+<p>サブスクリプションの登録のあるリセラーの MPN ID。 これは、パートナー センターで特定のサブスクリプションについて示されるリセラー ID に対応します。</p>
+<p>リセラーを表示または更新するには、パートナー センター メニューで <strong>[顧客]</strong> を選び、一覧から顧客を選びます。 顧客メニューで <strong>[サブスクリプション]</strong> を選び、一覧からサブスクリプションを選びます。 <strong>[更新]</strong> を選んで、<strong>[再販業者 (MPN ID)]</strong> を変更します。</p>
+<p>CSP パートナーがお客様に直接サブスクリプションを販売した場合、パートナーの MPN ID が MPN ID とリセラーの MPN ID として 2 か所に表示されます。</p>
+<p>CSP パートナーのリセラーに MPN ID がない場合は、代わりに CSP パートナーの MPN ID がこの値に設定されます。</p>
+<p>CSP パートナーがリセラー ID を削除した場合、この値は -1 に設定されます。</p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a href="" id="licensebasedfiles"></a> License-based file fields
+## <a href="" id="licensebasedfiles"></a> ライセンスベースのファイルのフィールド
 
 
-To reconcile your charges against your customer's orders, compare the Syndication\_Partner\_Subscription\_Number from the reconciliation file against the Subscription ID from Partner Center.
+顧客の注文に対する料金を調整するには、調整ファイルの Syndication\_Partner\_Subscription\_Number とパートナー センターのサブスクリプション ID を比較します。
 
 <table>
 <colgroup>
@@ -67,166 +67,166 @@ To reconcile your charges against your customer's orders, compare the Syndicatio
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
-<td><strong>Description</strong></td>
-<td><strong>Sample Value</strong></td>
+<td><strong>列</strong></td>
+<td><strong>説明</strong></td>
+<td><strong>サンプル値</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerId</td>
-<td><p>Unique identifier for a specific billing entity, in GUID format. Not required for reconciliation, however may be useful information. Same in all rows.</p></td>
+<td><p>特定の課金エンティティの一意の識別子 (GUID 形式)。 調整には必要ありませんが、有用な情報である場合があります。 すべての行で同じです。</p></td>
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
 <td>CustomerID</td>
-<td><p>Unique Microsoft ID, in GUID format, used to identify the customer.</p></td>
+<td><p>顧客を識別するために使用される、GUID 形式の一意の Microsoft ID。</p></td>
 <td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Unique identifier for an order in the Microsoft billing platform. May be useful to identify the order when contacting support but not for reconciliation.</p></td>
+<td><p>Microsoft 課金プラットフォームでの注文の一意の識別子。 サポートに問い合わせる際に、注文の識別に有効な場合がありますが、調整には有用ではありません。</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionID</td>
-<td><p>Unique identifier for a subscription in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p>
-<p>This is not the same as the Subscription ID on the Partner Admin Console. Please see Syndication_Partner_Subscription_Number.</p></td>
+<td><p>Microsoft 課金プラットフォームでのサブスクリプションの一意の識別子。 サポートに問い合わせる際に、サブスクリプションの識別に有効な場合がありますが、調整には有用ではありません。</p>
+<p>これは、パートナー管理コンソールのサブスクリプション ID と同じではありません。 「Syndication_Partner_Subscription_Number」をご覧ください。</p></td>
 <td>usCBMgAAAAAAAAIA</td>
 </tr>
 <tr class="even">
 <td>SyndicationPartnerSubscriptionNumber</td>
-<td><p>Unique identifier for subscriptions. A customer can have multiple subscriptions for the same plan, so this is important for reconciliation file analysis.</p>
-<p>This field maps to the Subscription ID in the Partner Admin Console.</p></td>
+<td><p>サブスクリプションの一意の識別子。 お客様は同じプランで複数のサブスクリプションを持つことができるため、これは調整ファイルの分析で重要です。</p>
+<p>このフィールドは、パートナー管理コンソールのサブスクリプション ID にマップされます。</p></td>
 <td>fb977ab5-test-test-test-24c8d9591708</td>
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>Unique offer ID. Standard offer ID as per price list.</p>
-<p><b>Note</b>: This value does not match Offer ID from the price list. See DurableOfferID below.</p></td>
+<td><p>一意のプラン ID。 価格表に従った標準のプラン ID。</p>
+<p><b>注</b>: この値は、価格表のプラン ID とは一致しません。 以下の DurableOfferID を参照してください。</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>Unique durable offer ID, as defined in the price list.</p>
-<p><b>Note</b>: This value matches the Offer ID from the price list.</p></td>
+<td><p>価格表で定義されている一意の継続的なプラン ID。</p>
+<p><b>注</b>: この値は価格表のプラン ID と一致します。</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
 <td>OfferName</td>
-<td><p>The name of the service offering purchased by the customer, as defined in the price list.</p></td>
-<td>Microsoft Office 365 (Plan E3)</td>
+<td><p>価格表で定義されている、顧客が購入したサービス プランの名前。</p></td>
+<td>Microsoft Office 365 (プラン E3)</td>
 </tr>
 <tr class="even">
 <td>SubscriptionStartDate</td>
-<td><p>The subscription start date, set to the day after the order is submitted. By looking at the subscription start date in conjunction with the end date, you can determine if the customer is still within the first year of the subscription or if the subscription has been renewed for the following year.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>サブスクリプションの開始日。注文が送信された日に設定されます。 サブスクリプションの開始日を終了日と共に確認することにより、顧客がサブスクリプションの最初の 1 年以内であるか、サブスクリプションが次の 1 年間更新されたかを確認できます。</p>
+<p>時刻は常に、その日の始まりの時刻 (0:00) になります。</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>The subscription end date: 12 months + x days after start date (to align with partner billing date) or 12 months from renewal date.</p>
-<p>At renewal, prices are updated to the current price list. Customer communication may be required in advance of automated renewal.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>サブスクリプション終了日: 開始日から 12 か月 + x 日後 (パートナーの請求日と合わせる) または更新日から 12 か月</p>
+<p>更新時に、価格は最新の価格表に更新されます。 自動更新の前に、顧客とのやり取りが必要になる場合があります。</p>
+<p>時刻は常に、その日の始まりの時刻 (0:00) になります。</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="even">
 <td>ChargeStartDate</td>
-<td><p>Start day of the charges.</p>
-<p>When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>課金の開始日。</p>
+<p>顧客がシート数を変更するときに、この数値を使用して 1 日あたり (日割り) の料金を計算します。</p>
+<p>時刻は常に、その日の始まりの時刻 (0:00) になります。</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="odd">
 <td>ChargeEndDate</td>
-<td><p>End day of the charges.</p>
-<p>When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</p>
-<p>The time is always the end of the day, 23:59.</p></td>
+<td><p>課金の終了日。</p>
+<p>顧客がシート数を変更するときに、この数値を使用して 1 日あたり (日割り) の料金を計算します。</p>
+<p>時刻は常に、その日の終わりの時刻 (23:59) になります。</p></td>
 <td>2/28/2015 23:59</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>The type of charge or adjustment. See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
-<td><p>See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
+<td><p>課金または調整の種類。 「<a href="#charge_types">請求書と調整ファイルの間の課金のマッピング</a>」を参照してください。</p></td>
+<td><p>「<a href="#charge_types">請求書と調整ファイルの間の課金のマッピング</a>」を参照してください。</p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>Price per seat. Ensure this matches the information stored in your billing system during reconciliation.</p></td>
+<td><p>シートごとの価格。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
 <td>Quantity</td>
-<td><p>Number of seats. Ensure this matches the information stored in your billing system during reconciliation.</p></td>
+<td><p>シート数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 <td>2</td>
 </tr>
 <tr class="odd">
 <td>Amount</td>
-<td><p>Total of price for quantity. Useful to check that the amount calculation matches how you calculate this for your customers.</p></td>
+<td><p>数量に対する合計価格。 金額の計算が、この顧客用の計算方法に一致することを確認するために役立ちます。</p></td>
 <td>13.32</td>
 </tr>
 <tr class="even">
 <td>TotalOtherDiscount</td>
-<td><p>Amount of discount applied to these charges. IUR or new subscriptions eligible for an incentive will also contain a discount amount in this column.</p></td>
+<td><p>これらの料金に適用される割引額。 インセンティブの対象となる IUR または新しいサブスクリプションの場合も、この列に割引額が含まれます。</p></td>
 <td>2.32</td>
 </tr>
 <tr class="odd">
 <td>Subtotal</td>
-<td><p>Total before tax. Checks that your subtotal matches your expected total, in case of a discount.</p></td>
+<td><p>合計額 (税抜)。 割引の場合、小計が、予想される合計と一致することを確認します。</p></td>
 <td>11</td>
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>Tax amount charge, based on your market's tax rules and specific circumstances.</p></td>
+<td><p>市場の税関連の規則や特定の状況に基づく税金の額。</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
 <td>TotalForCustomer</td>
-<td><p>Total after tax. Checks if you are charged tax in the invoice.</p></td>
+<td><p>合計額 (税込)。 請求書に課税されるかどうかを確認します。</p></td>
 <td>11</td>
 </tr>
 <tr class="even">
 <td>Currency</td>
-<td><p>Currency type. Each billing entity has only one currency. Check that it matches your first invoice and then after any major billing platform update.</p></td>
+<td><p>通貨の種類。 各課金エンティティの通貨は 1 つのみです。 最初の請求書と一致し、その後で、主要な課金プラットフォームの更新と一致することを確認します。</p></td>
 <td>EUR</td>
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer's organization name as reported in Partner Center. This is very important for reconciling the invoice with your system information.</p></td>
+<td><p>パートナー センターで報告される顧客の組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。</p></td>
 <td>Test Customer A</td>
 </tr>
 <tr class="even">
 <td>MPNID</td>
-<td><p>MPN ID of the CSP partner</p></td>
+<td><p>CSP パートナーの MPN ID</p></td>
 <td>4390934</td>
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>MPN ID of the reseller of record for the subscription. See [Itemize by partner](#itemizebypartner).</p></td>
+<td><p>サブスクリプションの登録のあるリセラーの MPN ID。 「[パートナーごとに明細を示す](#itemizebypartner)」をご覧ください。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Customer's domain name, used to help identify the customer.</p></td>
+<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionName</td>
-<td><p>Subscription nickname. If no nickname is specified, Partner Center uses the OfferName.</p></td>
+<td><p>サブスクリプションのニックネーム。 ニックネームが指定されていない場合、パートナー センターでは OfferName を使用します。</p></td>
 <td>PROJECT ONLINE</td>
 </tr>
 <tr class="even">
 <td>SubscriptionDescription</td>
-<td><p>The name of the service offering purchased by the customer, as defined in the price list. (This is an identical field to Offer name).</p></td>
+<td><p>価格表で定義されている、顧客が購入したサービス プランの名前  (これはプラン名と同一のフィールドです)。</p></td>
 <td>PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT</td>
 </tr>
 </tbody>
 </table>
 
 
-## <a href="" id="usagebasedfiles"></a>Usage-based file fields
+## <a href="" id="usagebasedfiles"></a>使用量ベースのファイルのフィールド
 
 
-To reconcile your charges against your customer's usage, compare the ResellerID/ResellerName/ResellerBillableAccount from the reconciliation file, the customer name, and the Subscription ID from Partner Center.
+顧客の使用量に対する料金を調整するには、調整ファイルの ResellerID/ResellerName/ResellerBillableAccount、顧客名、およびパートナー センターのサブスクリプション ID を比較します。
 
-The following fields explain which services were used and the rate.
+次のフィールドで、どのサービスが使用されるか、およびレートについて説明します。
 
 <table>
 <colgroup>
@@ -236,86 +236,86 @@ The following fields explain which services were used and the rate.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
-<td><strong>Description</strong></td>
-<td><strong>Sample value</strong></td>
+<td><strong>列</strong></td>
+<td><strong>説明</strong></td>
+<td><strong>サンプル値</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerID</td>
-<td><p>Partner ID, in GUID format.</p></td>
+<td><p>GUID 形式のパートナー ID。</p></td>
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="odd">
 <td>PartnerName</td>
-<td><p>Partner Name.</p></td>
+<td><p>パートナー名。</p></td>
 <td>Acme Incorporated</td>
 </tr>
 <tr class="even">
 <td>PartnerBillableAccountID</td>
-<td><p>Partner Account ID.</p></td>
+<td><p>パートナーのアカウント ID。</p></td>
 <td>1010578050</td>
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer's organization name as reported in Partner Center. This is very important for reconciling the invoice with your system information.</p></td>
+<td><p>パートナー センターで報告される顧客の組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。</p></td>
 <td>Test Customer A</td>
 </tr>
 <tr class="even">
 <td>MPNID</td>
-<td><p>MPN ID of the CSP partner.</p></td>
+<td><p>CSP パートナーの MPN ID。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>MPN ID of the reseller of record for the subscription. See [Itemize by partner](#itemizebypartner).</p></td>
+<td><p>サブスクリプションの登録のあるリセラーの MPN ID。 「[パートナーごとに明細を示す](#itemizebypartner)」をご覧ください。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>InvoiceNumber</td>
-<td><p>Invoice number where the specified transaction appears.</p></td>
+<td><p>指定されたトランザクションが含まれる請求書番号。</p></td>
 <td>D020001IVK</td>
 </tr>
 <tr class="odd">
 <td>ChargeStartDate</td>
-<td><p>Start date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>前の課金サイクルからの潜在的な未請求の使用状況データの日付を提示するときを除く、課金サイクルの開始日。</p>
+<p>時刻は常に、その日の始まりの時刻 (0:00) になります。</p></td>
 <td>2/1/2014 0:00</td>
 </tr>
 <tr class="even">
 <td>ChargeEndDate</td>
-<td><p>End date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</p>
-<p>The time is always the end of the day, 23:59.</p></td>
+<td><p>前の課金サイクルからの潜在的な未請求の使用状況データの日付を提示するときを除く、課金サイクルの終了日。</p>
+<p>時刻は常に、その日の終わりの時刻 (23:59) になります。</p></td>
 <td>2/28/2014 23:59</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionID</td>
-<td><p>Unique identifier for a subscription in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p>
-<p>This is not the same as the Subscription ID on the Partner Admin Console.</p></td>
+<td><p>Microsoft 課金プラットフォームでのサブスクリプションの一意の識別子。 サポートに問い合わせる際に、サブスクリプションの識別に有効な場合がありますが、調整には有用ではありません。</p>
+<p>これは、パートナー管理コンソールのサブスクリプション ID と同じではありません。</p></td>
 <td>usCBMgAAAAAAAAIA</td>
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>Nickname of the service offering.</p></td>
+<td><p>サービス プランのニックネーム。</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionDescription</td>
-<td><p>Line of business of the service offering</p></td>
+<td><p>サービス プランの基幹業務</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Unique identifier for an order in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p></td>
+<td><p>Microsoft 課金プラットフォームでの注文の一意の識別子。 サポートに問い合わせる際に、サブスクリプションの識別に有効な場合がありますが、調整には有用ではありません。</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
 <td>ServiceName</td>
-<td><p>The name of the Azure service in question.</p></td>
+<td><p>対象の Azure サービスの名前。</p></td>
 <td>VIRTUAL MACHINES</td>
 </tr>
 <tr class="even">
 <td>ServiceType</td>
-<td><p>The specific type of Windows Azure service.</p></td>
+<td><p>Windows Azure サービスの特定の種類。</p></td>
 <td><ul>
 <li>Service Bus – Individual or Pack</li>
 <li>SQL Azure database – Business or Web Edition</li>
@@ -323,12 +323,12 @@ The following fields explain which services were used and the rate.
 </tr>
 <tr class="odd">
 <td>ResourceGUID</td>
-<td><p>Specific unique identifier for all the service data and pricing structure.</p></td>
+<td><p>すべてのサービス データおよび価格設定構造の特定の一意の識別子。</p></td>
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="even">
-<td>Resource Name</td>
-<td><p>The name of the Azure resource.</p></td>
+<td>リソース名</td>
+<td><p>Azure リソースの名前。</p></td>
 <td><ul>
 <li>Data Transfer In (GB)</li>
 <li>Data Transfer Out (GB)</li>
@@ -336,119 +336,119 @@ The following fields explain which services were used and the rate.
 </tr>
 <tr class="odd">
 <td>Region</td>
-<td><p>The region the usage applies to. Primarily used to assign rates to data transfers, as rates vary by region.</p></td>
-<td>Asia Pacific, Europe, Latin America, North America</td>
+<td><p>使用量が適用される地域。 料金は地域によって異なるため、主にデータ転送に料金を割り当てるために使われます。</p></td>
+<td>Asia Pacific、Europe、Latin America、North America</td>
 </tr>
 <tr class="even">
 <td>SKU</td>
-<td><p>MSFT unique identifier for offer</p></td>
-<td>7UD-00001</td>
+<td><p>プランについての MSFT の一意の識別子</p></td>
+<td>7UD 00001</td>
 </tr>
 <tr class="odd">
 <td><p>DetailLineItemId</p></td>
-<td><p>An ID and quantity for itemizing the different rates for a service or resource in a given billing period. For Azure tiered rating, there may be one rate up to a certain quantity of billable units, then a different rate after that.</p></td>
+<td><p>特定の課金期間のサービスまたはリソースに対してさまざまなレートの明細を設定するための ID と数量。 Azure の階層化されたレーティングの場合は、一定数量の課金可能単位までは 1 つのレートがあり、その後に別のレートがあることがあります。</p></td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>ConsumedQuantity</td>
-<td><p>The amount of service consumed (hours, GB, etc.) during the reporting period.</p>
-<p>Also includes any unbilled usage from previous reporting periods.</p></td>
+<td><p>レポート期間のサービスの使用量 (時間、GB など)。</p>
+<p>前のレポート期間から課金していない使用も含まれます。</p></td>
 <td>11</td>
 </tr>
 <tr class="odd">
 <td>IncludedQuantity</td>
-<td><p>Units included as part of the offer. Not typically present in CSP.</p></td>
+<td><p>単位数はプランの一部として含まれます。 通常、CSP には含まれません。</p></td>
 <td>0</td>
 </tr>
 <tr class="even">
 <td><p>OverageQuantity</p></td>
-<td><p>Units not included as part of the offer, that must be paid for by the partner.</p>
-<p>Equal to the ConsumedQuantity - IncludedQuantity.</p></td>
+<td><p>単位数はプランの一部として含まれず、パートナーが支払う必要があります。</p>
+<p>ConsumedQuantity - IncludedQuantity と同じです。</p></td>
 <td>11</td>
 </tr>
 <tr class="odd">
 <td>ListPrice</td>
-<td><p>Offer price in effect at subscription start date.</p></td>
+<td><p>サブスクリプションの開始日に有効な価格を提供します。</p></td>
 <td>$0.0808</td>
 </tr>
 <tr class="even">
 <td>PretaxCharges</td>
-<td><p>ListPrist times OverageQuantity, rounded to the nearest cent.</p></td>
+<td><p>ListPrist と OverageQuantity を掛けて、最も近いセントに丸めます。</p></td>
 <td>$0.085</td>
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Tax amount charge, based on your market's tax rules and specific circumstances.</p></td>
+<td><p>市場の税関連の規則や特定の状況に基づく税金の額。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
 <td>PostTaxTotal</td>
-<td><p>Total after tax, when tax is applicable.</p></td>
+<td><p>税が適用されるときの税引き後の合計額。</p></td>
 <td>$0.93</td>
 </tr>
 <tr class="odd">
 <td>Currency</td>
-<td><p>Currency type. Each billing entity has only one currency. Check that it matches your first invoice and then after any major billing platform update.</p></td>
+<td><p>通貨の種類。 各課金エンティティの通貨は 1 つのみです。 最初の請求書と一致し、その後で、主要な課金プラットフォームの更新と一致することを確認します。</p></td>
 <td>EUR</td>
 </tr>
 <tr class="even">
 <td>PretaxEffectiveRate</td>
-<td><p>Pretax price per unit. Equal to PretaxCharges / OverageQuantity, rounded to the nearest cent.</p></td>
+<td><p>単位あたりの税込み価格。 PretaxCharges / OverageQuantity と同じで、最も近いセントに丸められます。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="odd">
 <td>PostTaxEffectiveRate</td>
-<td><p>Post tax price per unit. Equal to PostTaxTotal / OverageQuantity, or PretaxEffectiveRate + tax rate per unit amoun, rounded to the nearest cent.</p></td>
+<td><p>単位あたりの税引き後の価格。 PostTaxTotal / OverageQuantity、または PretaxEffectiveRate + 単位額あたりの税率と同じで、最も近いセントに丸められます。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>The type of charge or adjustment. See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
-<td><p>See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
+<td><p>課金または調整の種類。 「<a href="#charge_types">請求書と調整ファイルの間の課金のマッピング</a>」を参照してください。</p></td>
+<td><p>「<a href="#charge_types">請求書と調整ファイルの間の課金のマッピング</a>」を参照してください。</p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
-<td><p>Unique account ID in the MSFT billing platform.</p></td>
+<td><p>MSFT 課金プラットフォームの一意のアカウント ID。</p></td>
 <td>1280018095</td>
 </tr>
 <tr class="even">
 <td>UsageDate</td>
-<td><p>Date of service deployment.</p></td>
+<td><p>サービスの展開の日付。</p></td>
 <td>2/1/2014 0:00</td>
 </tr>
 <tr class="odd">
 <td>MeteredRegion</td>
-<td><p>This column identifies the location of a data center within the region for services where this is applicable and populated.</p></td>
-<td>East Asia, South East Asia, North Europe, West Europe, North Central US, South Central US</td>
+<td><p>この列は、これが該当し、設定されている場合に、サービスの領域内でのデータ センターの場所を識別します。</p></td>
+<td>East Asia、South East Asia、North Europe、West Europe、North Central US、South Central US</td>
 </tr>
 <tr class="even">
 <td>MeteredService</td>
-<td><p>This column is utilized to track the individual Microsoft Azure service that may not be specifically identified in the Service Name column. For example, data transfers are reported as &quot;Microsoft Azure - All Services&quot; in the Service Name column. This MeteredService column will indicate to which specific service the usage pertains.</p></td>
-<td>AccessControl, CDN, Compute, Database, ServiceBus, Storage</td>
+<td><p>この列は、[Service Name] 列で特に識別されない可能性のある、個別の Microsoft Azure サービスの追跡に利用されます。 たとえば、データ転送は、[Service Name] 列で &quot;Microsoft Azure - All Services&quot; と報告されます。 この [MeteredService] 列は、利用に関連する特定のサービスを示します。</p></td>
+<td>AccessControl、CDN、Compute、Database、ServiceBus、Storage</td>
 </tr>
 <tr class="odd">
 <td>MeteredServiceType</td>
-<td><p>A subheading that further clarifies the individual Microsoft Azure service beyond the level provided by the MeteredService field.</p></td>
+<td><p>個々の Microsoft Azure サービスの内容を、MeteredService フィールドで提供されるレベルよりも明確にする小見出し。</p></td>
 <td>EXTERNAL</td>
 </tr>
 <tr class="even">
 <td>Project</td>
-<td><p>Customer-defined name for their service instance</p></td>
+<td><p>サービス インスタンスの顧客定義の名前</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>ServiceInfo</td>
-<td><p>The number of ServiceBus connections that were provisioned and utilized on a given day.</p></td>
-<td>For example: if you had an individually provisioned connection during a 30 day month, Service Info 1 would read “1.000000 Connections / 30 days”. If you had a 25 pack of ServiceBus connections provisioned and you had utilized 1 during that day, your daily usage statement for that day would indicate “25 Connections / 30 Days – Used: 1.000000”.</td>
+<td><p>特定の日にプロビジョニングされ、利用された ServiceBus 接続の数。</p></td>
+<td>例: 1 か月 30 日間の中に、個別にプロビジョニングされた接続がある場合、Service Info 1 は "1.000000 Connections / 30 days" と表示されます。 プロビジョニングされた ServiceBus 接続が 25 パックあり、その日に 1 つを利用した場合、その日の 1 日の使用量の計算書には、"25 Connections / 30 Days – Used: 1.000000" と表示されます。</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
-<td><p>Unique Microsoft ID, in GUID format, used to identify the customer.</p></td>
+<td><p>顧客を識別するために使用される、GUID 形式の一意の Microsoft ID。</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Customer's domain name, used to help identify the customer.</p></td>
+<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -463,40 +463,42 @@ The following fields explain which services were used and the rate.
 
 ## <a href="" id="charge_types"></a>請求書と調整ファイルの間の課金のマッピング
 
-Your invoice provides a summary of charges, while your reconciliation file provides a detailed breakdown of line-item transactions, including charge types.
+請求書は料金の概要を示し、調整ファイルは、課金の種類を含め、行項目のトランザクションの詳細な内訳を示します。
 
-To cross-reference charge amounts between the invoice and reconciliation file, you can use Microsoft Excel's filter options to filter by charge types on the reconciliation file to map the invoice charges to a set of charge breakdowns on reconciliation file.
+請求書と調整ファイルの間で請求金額を相互参照するには、Microsoft Excel のフィルター オプションを使用して、調整ファイルの課金の種類でフィルター処理し、請求書の課金を調整ファイルの一連の課金の内訳にマップします。
 
-The table below shows the mappings between an invoice section and associated charge types that might show up on the reconciliation files. 
+使用量ベースとライセンス ベースの調整ファイルには、使用量関連のトランザクションと料金 (消費された単位量および関連する料金) のみが表示されます。 請求書に “調整” として表示される単発のクレジット、割引、払い戻し金額は、調整ファイルに表示されません。
+
+次の表に、請求書のセクションと、調整ファイルに表示される関連付けられた課金の種類とのマッピングを示します。 
 
 <table>
 <tbody>
 <tr>
 <td>
-<p><strong>Invoice charge description</strong></p>
+<p><strong>請求書の課金の説明</strong></p>
 </td>
 <td>
-<p><strong>Reconciliation file charge description (ChargeType column)</strong></p>
+<p><strong>調整ファイルの課金の説明 (ChargeType 列)</strong></p>
 </td>
 <td>
-<p><strong>What is this charge?</strong></p>
+<p><strong>この課金の意味</strong></p>
 </td>
 <td>
-<p><strong>How do I map these ChargeTypes to the invoice?</strong></p>
+<p><strong>これらの ChargeTypes を請求書にマップする方法</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="8">
-<p><strong>Recurring Charges</strong></p>
+<p><strong>当月のサービス利用料金</strong></p>
 </td>
 <td>
 <p>Cancel instance prorate</p>
 </td>
 <td>
-<p>Prorated charges refunded to the customer when associated seats are changed</p>
+<p>関連付けられているシートが変更されたときに顧客に払い戻される日割り料金</p>
 </td>
 <td rowspan="8">
-<p>From license-based file, sum the <strong>Amount</strong> column</p>
+<p>ライセンスベースのファイルから、<strong>Amount</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
@@ -504,7 +506,7 @@ The table below shows the mappings between an invoice section and associated cha
 <p>Cycle fee</p>
 </td>
 <td>
-<p>Periodic charges for a subscription</p>
+<p>サブスクリプションの定期的な課金</p>
 </td>
 </tr>
 <tr>
@@ -512,7 +514,7 @@ The table below shows the mappings between an invoice section and associated cha
 <p>Cycle instance prorate</p>
 </td>
 <td>
-<p>Prorated charges assessed from the customer when associated seats are changed</p>
+<p>関連付けられているシートが変更されたときに顧客から評価される日割り料金</p>
 </td>
 </tr>
 <tr>
@@ -520,7 +522,7 @@ The table below shows the mappings between an invoice section and associated cha
 <p>Prorate fees when cancel</p>
 </td>
 <td>
-<p>Prorated refund for unused portion of service upon cancellation</p>
+<p>取り消し時のサービスの未使用部分に対する日割りの払戻し額</p>
 </td>
 </tr>
 <tr>
@@ -528,7 +530,7 @@ The table below shows the mappings between an invoice section and associated cha
 <p>Prorate fees when purchase</p>
 </td>
 <td>
-<p>Prorated fees upon purchase</p>
+<p>購入時の日割りの料金</p>
 </td>
 </tr>
 <tr>
@@ -536,7 +538,7 @@ The table below shows the mappings between an invoice section and associated cha
 <p>Purchase fee</p>
 </td>
 <td>
-<p>Initial charge for a subscription</p>
+<p>サブスクリプションの最初の課金</p>
 </td>
 </tr>
 <tr>
@@ -544,7 +546,7 @@ The table below shows the mappings between an invoice section and associated cha
 <p>Prorate fee when renew</p>
 </td>
 <td>
-<p>Prorated fees upon subscription renewal</p>
+<p>サブスクリプションの更新時の日割り料金</p>
 </td>
 </tr>
 <tr>
@@ -552,35 +554,35 @@ The table below shows the mappings between an invoice section and associated cha
 <p>Renew fee</p>
 </td>
 <td>
-<p>Charge for renewing a subscription</p>
+<p>サブスクリプションの更新時の課金</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Other Products and Services</strong></p>
+<p><strong>その他の製品とサービス</strong></p>
 </td>
 <td>
 <p>Prorate fees when activate</p>
 </td>
 <td>
-<p>Prorated fees from activation until end of billing period</p>
+<p>アクティブ化から課金期間の終了までの日割り料金</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>Amount</strong> column</p>
+<p>ライセンスベースのファイルから、<strong>Amount</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p><strong>Usage Charges</strong></p>
+<p><strong>利用料金</strong></p>
 </td>
 <td>
 <p>Assess usage fee when cancel</p>
 </td>
 <td>
-<p>Access usage fee upon cancellation for unpaid usage during the current billing period</p>
+<p>現在の課金期間中に未払いの使用を取り消したときのアクセス利用料</p>
 </td>
 <td rowspan="2">
-<p>From usage-based file, sum the <strong>PretaxCharges</strong> column</p>
+<p>使用量ベースのファイルから、<strong>PretaxCharges</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
@@ -588,39 +590,39 @@ The table below shows the mappings between an invoice section and associated cha
 <p>Assess usage fee for current cycle</p>
 </td>
 <td>
-<p>Access usage fee for the current billing period</p>
+<p>現在の課金期間のアクセス利用料</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Credits &amp; Adjustments</strong></p>
+<p><strong>調整額</strong></p>
 </td>
 <td>
 <p>Offset a line item</p>
 </td>
 <td>
-<p>Partial or whole refund to a line item, including taxes</p>
+<p>税金を含む、行項目への一部または全部の払戻し</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>TotalForCustomer</strong> column</p>
-<p>From usage-based file, sum the <strong>PostTaxTotal</strong> column</p>
+<p>ライセンスベースのファイルから、<strong>TotalForCustomer</strong> 列を合計する</p>
+<p>使用量ベースのファイルから、<strong>PostTaxTotal</strong> 列を合計する</p>
 </td>
 </tr>
 
 
 <tr>
 <td rowspan="4">
-<p><strong>Other Discounts</strong></br>
-<em>(usage-based)</em></p>
+<p><strong>その他の割引</strong></br>
+<em>(使用量ベース)</em></p>
 </td>
 <td>
 <p>Activation discount</p>
 </td>
 <td>
-<p>Discount applied when subscription activated</p>
+<p>サブスクリプションがアクティブ化されたときに適用される割引</p>
 </td>
 <td rowspan="4">
-<p>From usage-based file, sum the <strong>PretaxCharges</strong> column</p>
+<p>使用量ベースのファイルから、<strong>PretaxCharges</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
@@ -628,52 +630,52 @@ The table below shows the mappings between an invoice section and associated cha
 <p>Cycle discount</p>
 </td>
 <td>
-<p>Discount applied on periodic charges</p>
+<p>定期的な課金に適用される割引</p>
 </td>
 </tr><tr>
 <td>
 <p>Renew discount</p>
 </td>
 <td>
-<p>Discount applied when subscription renewed</p>
+<p>サブスクリプションの更新時に適用される割引</p>
 </td>
 </tr><tr>
 <td>
 <p>Cancel discount</p>
 </td>
 <td>
-<p>Charges applied when discounts cancelled</p>
+<p>割引が取り消されたときに適用される料金</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Other Discounts</strong></br>
-<em>(license-based)</em></p>
+<p><strong>その他の割引</strong></br>
+<em>(ライセンスベース)</em></p>
 </td>
 <td>
-<p><em>May be applied to multiple charge types</em></p>
+<p><em>複数の種類の料金に適用される場合がある</em></p>
 </td>
 <td>
 <p>&nbsp;</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>TotalOtherDiscount</strong> column</p>
+<p>ライセンスベースのファイルから、<strong>TotalOtherDiscount</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Taxes</strong>&nbsp;or&nbsp;<strong>VAT</strong></p>
+<p><strong>税</strong>&nbsp;または&nbsp;<strong>VAT</strong></p>
 </td>
 <td>
-<p><em>May be applied to multiple charge types</em></p>
-<p><em>Exception: "Offset a line item" already includes taxes. See Credits &amp; Adjustments, above.</em></p>
+<p><em>複数の種類の料金に適用される場合がある</em></p>
+<p><em>例外: "Offset a line item" には既に税が含まれます。 前の「調整額」を参照してください。</em></p>
 </td>
 <td>
-<p>Taxes or value-added taxes (VAT)</p>
+<p>税または付加価値税 (VAT)</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>Tax</strong> column</p>
-<p>From usage-based file, sum the <strong>TaxAmount</strong> column</p>
+<p>ライセンスベースのファイルから、<strong>Tax</strong> 列を合計する</p>
+<p>使用量ベースのファイルから、<strong>TaxAmount</strong> 列を合計する</p>
 </td>
 </tr>
 </tbody>

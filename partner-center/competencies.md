@@ -1,14 +1,14 @@
 ---
-title: Earn Microsoft Competencies | Partner Center
-description: Earn Silver and Gold Microsoft competencies to demonstrate your proven expertise in delivering quality solutions in a specialized area of business
+title: "Microsoft コンピテンシーを獲得する | パートナー センター"
+description: "Silver と Gold の Microsoft コンピテンシーを獲得すると、専門のビジネス分野での質の高いソリューション提供の実績と専門知識を証明できます。"
 author: KPacquer
-keywords: competencies, silver membership, gold membership, mpn, MAPS, proficiency
+keywords: "コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn,MAPS, 技能"
 robots: noindex,nofollow
-ms.openlocfilehash: 849b6355c9e838ccf29c95c18e8720c496828738
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+ms.openlocfilehash: 6323613d785958db9bd511f10ca03988681f1867
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/10/2017
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -22,74 +22,74 @@ ms.lasthandoff: 09/01/2017
 
  -->
 
-# <a name="competencies"></a>Competencies
+# <a name="competencies"></a>コンピテンシー
 
-**Applies to**
--  Partner Center
+**適用対象**
+-  パートナー センター
 
-Microsoft competency achievements show your proven experience in delivering quality solutions. Join the elite tier of Microsoft Partners and stand out from your peers. Use them to: 
+Microsoft コンピテンシーの成績は、高品質なソリューションを提供する実証済みのエクスペリエンスを示しています。 優良なマイクロソフト パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。 使用目的: 
 
-*  **Earn offers and benefit packs** such as discounts to the Microsoft Action Pack. Benefits vary by competency and level. 
+*  Microsoft Action Pack の割引など、**オファーと特典パックを獲得する**。 特定は、コンピテンシーとレベルによって異なります。 
 
-*  **Demonstrate your proven expertise**. [Earn more business referrals](referrals.md) by showing prospective customers that you're able to meet their needs for a specific line of business.
+*  **実証済みの専門知識をデモンストレーションする**。 特定の基幹業務のニーズを満たすことができることを見込み客に示すことで、[多くのビジネスを獲得する](referrals.md)。
 
-## <a href="" id="attainment_paths"></a> Competency paths
+## <a href="" id="attainment_paths"></a>コンピテンシー パス
 
 [Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](learn-about-competencies.md)
 
 ## <a name="earn-competencies"></a>コンピテンシーを獲得する
 
-After you [join the Microsoft Partner Network](mpn-overview.md), you can meet either performance-based or skill-based goals to earn Microsoft competencies. 
+[Microsoft Partner Network に参加](mpn-overview.md)したら、パフォーマンス ベースまたはスキル ベースの目標を達成して Microsoft コンピテンシーを獲得できます。 
 
-**Performance-based goals** include: 
-* Revenue goals
-* Active usage
-* Deployed seat count
-* New customer additions
+**パフォーマンス ベースの目標**には、以下のものが含まれます。 
+* 収益目標
+* アクティブな使用
+* 展開済みのシート数
+* 新しい顧客の追加
 
-**Skill-based goals** include: 
-* Microsoft certifications
-* Online assessments 
+**スキル ベースの目標**には、以下のものが含まれます。 
+* マイクロソフトの資格認定
+* オンライン評価 
 
-Some competencies have multiple ways to achieve the Silver or Gold level.
+コンピテンシーによっては、Silver または Gold レベルに到達する方法がいくつかあります。
 
-To check your progress in a competency, from the Partner Center dashboard, go to the **Partnership > Competencies**. 
+コンピテンシーの進行状況を確認するには、パートナー センター ダッシュ ボードから **[パートナーシップ] > [コンピテンシー]** の順に移動します。 
 
-### <a href="" id="associating_achievements"></a>Get your employees connected to complete skill-based goals
+### <a href="" id="associating_achievements"></a>従業員をつなげてスキル ベースの目標を達成する
 
-1.  Add user accounts for the employees in your organization. From the [Partner Center](http://partnercenter.microsoft.com) dashboard, go to **Account settings > Add user**. (PMC users can add multiple users at a time by selecting **Add users using PMC data**.)
+1.  組織の従業員のユーザー アカウントを追加します。 [パートナー センター](http://partnercenter.microsoft.com) ダッシュ ボードから、**[アカウント設定] > [ユーザーの追加]** の順に移動します。 (PMC ユーザーは、**[PMC データを使ってユーザーを追加する]** を選択することで一度に複数のユーザーを追加することができます)。
 
-    After the user accounts are created, we'll send them a new user name and password, and will prompt you to download a log file which contains info to help reset the user name and password as needed. You can also [set up the user accounts so they can reset the passwords by themselves](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
+    ユーザー アカウントが作成されたら、新しいユーザー名とパスワードが送信され、ユーザー名とパスワードのリセットに関する情報を含むログ ファイルをダウンロードするように求められます。 [ユーザー アカウントをセットアップして、自分でパスワードをリセットできるように](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)することもできます。
 
-2. Ask the employees in your organization to sign in and associate their Microsoft account (MSA) to their user account. (From the [Partner Center](http://partnercenter.microsoft.com) dashboard, go to **Account settings**.) Employees can use the same or different MSAs to associate their Microsoft technical exams and certifications and their accounts through Microsoft Partner University.
+2. 組織の従業員に、サインインして自分のユーザー アカウントに Microsoft アカウント (MSA) を関連付けるように求めます  ([パートナー センター](http://partnercenter.microsoft.com) ダッシュボードから、**[アカウント設定]** に移動します)。従業員は、同じ MSA または別の MSA を使い、Microsoft Partner University を通じて Microsoft 技術試験および認定資格と自分のアカウントを関連付けることができます。
 
-3.  **Wait 24 hours** after an employee has associated their account or completed a skill-based goal. After this time, the progress displays in the **Competencies** section.
+3.  従業員が自分のアカウントを関連付けるか、スキル ベースの目標を完了してから、**24 時間待ちます**。 その後、進行状況が **[コンピテンシー]** セクションに表示されます。
 
-Note, employees can only associate these to one organization at a time. Once they associate achievements to your organization, they’ll sever any previous organization account associations.
+従業員は、一度に 1 つの組織にのみこれらを関連付けることができる点を注意してください。 結果を組織に関連付けると、それまでに他の組織アカウントで行った関連付けがすべて切断されます。
 
-Likewise, when employees leave your organization, you may need other employees to achieve the skill-based goals in order to [maintain your membership](#maintaining_membership) at the same level.
+同様に、従業員が退職したら、同じレベルの[メンバーシップを維持する](#maintaining_membership)ために他の従業員がスキルベースの目標を達成する必要が生じることがあります。
 
-## <a name="display-your-competency-awards"></a>Display your competency awards
+## <a name="display-your-competency-awards"></a>コンピテンシーの特典を表示する
 
-Once you've met these goals for a single competency, you'll be able to upgrade your membership.
+1 つコンピテンシーでこれらの目標を達成すると、メンバーシップをアップグレードすることができます。
 
-### <a name="upgrade-your-membership"></a>Upgrade your membership
+### <a name="upgrade-your-membership"></a>メンバーシップをアップグレードする
 
-To buy the Silver benefit pack, you only need to demonstrate silver-level proficiency in one path. Once you upgrade to Silver, we display all of the Silver-level competencies you’ve achieved in your marketing profile. 
+Silver 特典パックを購入するには、1 つのパスで Silver レベルの能力を証明するだけで実行できます。 Silver にアップグレードすると、それまでに達成したすべての Silver レベルのコンピテンシーがビジネス プロファイルに表示されます。 
 
-To buy the Gold benefit pack, you only need to demonstrate gold-level proficiency in one path. Once you upgrade to Gold, we display both the Silver-level and Gold-level competencies you’ve achieved in your marketing profile. 
+Gold 特典パックを購入するには、1 つのパスで Gold レベルの能力を証明するだけで実行できます。 Gold にアップグレードすると、それまでに達成したすべての Silver レベルと Gold レベルの両方のコンピテンシーがビジネス プロファイルに表示されます。 
 
-### <a href="" id="maintain_membership"></a> Maintain and renew membership
+### <a href="" id="maintain_membership"></a>メンバーシップを維持および更新する
 
-To renew your membership, you’ll need to continue to demonstrate proficiency in Microsoft products and services. Your subscription status remains until the end of the year that you purchased it.
+メンバーシップを更新するには、マイクロソフト製品とサービスの能力要件を充足し続ける必要があります。 サブスクリプションのステータスは、購入した年の年末まで維持されます。
 
-Expired achievements may make you ineligible for upgrading or renewing your partner memberships at the same level. 
+要件が充足されないままサブスクリプションが終了すると、同じレベルのパートナー メンバーシップをアップグレードまたは更新できなくなる可能性があります。 
 
-If you receive the alert: **“A recent change to your competency achievement has put your membership renewal eligibility at risk”**, this means one or more of your competency achievements is at risk of expiring. 
+**"A recent change to your competency achievement has put your membership renewal eligibility at risk"** (コンピテンシーの達成状況が最近変化したため、メンバーシップの更新資格を失う危険性があります) という警告は、1 つ以上のコンピテンシー要件が充足されておらず、期限切れになる危険がある場合に表示されます。 
 
-This often happens when an employee who helped your organization meet exam or certification requirements for a competency achievement leaves your organization. 
+この状況は、組織のコンピテンシー達成時に試験要件や認定要件の充足に寄与した従業員が、組織を離れた場合によく起こります。 
 
-Even though your membership renewal is at risk, your organization’s proficiency status continues to display until the one-year subscription has elapsed.
+メンバーシップが更新できない可能性がある場合でも、組織の技能ステータスは、1 年間のサブスクリプションが終了するまで引き続き表示されます。
 
 同じレベルでメンバーシップを更新またはアップグレードするには、コンピテンシー要件を再度充足しなければなりません。
 

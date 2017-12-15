@@ -1,32 +1,30 @@
 ---
-title: Grow your business with referrals from Microsoft | Partner Center
-description: Generate business leads and get connected to customers who need help implementing Microsoft products and solutions.
+title: "Microsoft からの紹介案件の獲得によるビジネスの拡大 | パートナー センター"
+description: "お客様が Microsoft の製品やソリューションの導入に際して支援を必要とする場合に、パートナーは見込み客情報を取得し、商談を始めることができます。"
 author: KPacquer
-keywords: referrals, marketing profile, find a partner
-ms.openlocfilehash: f694f846187b99b79e461b0e4d631157f9536087
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+keywords: "紹介, ビジネス プロファイル, パートナーの検索"
+ms.openlocfilehash: a654991846cddb86d936b2f79fa1eccb9c6a3d38
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/16/2017
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
-# <a name="grow-your-business-with-referrals-from-microsoft"></a>Grow your business with referrals from Microsoft
+# <a name="grow-your-business-with-referrals-from-microsoft"></a>Microsoft からの紹介案件の獲得によるビジネスの拡大
 
-**Applies to**
+**適用対象**
 
--  Partner Center
+-  パートナー センター
 
-Customers need expertise like yours to help implement solutions with Microsoft products and technologies. We’d like to get you connected.
+多くのお客様は、Microsoft のテクノロジおよびビジネス ソリューションの実装を依頼できるような、条件に合ったエキスパートを求めています。 Microsoft には、当社のマーケティング活動や社内の Microsoft 販売担当者を通じて、サポートを求める声が多くのお客様から寄せられます。 また、お客様は、[**[ソリューション プロバイダーを見つける]** 機能](https://www.microsoft.com/solution-providers/search)を使用して、ビジネス ニーズを満たすためのサポートを得ることのできる会社を検索します。 
 
-We often get direct requests for help from customers through our marketing activities and from our internal Microsoft sales agents. Customers also use the **Find a Partner** tool in Partner Center to search for qualified Microsoft partners. 
+Microsoft では、ソリューションと専門分野に応じてパートナー様とお客様のマッチングを行います。 Microsoft から見込み情報を獲得するために最も重要な手順は、[ビジネス プロファイルを作成](create-a-marketing-profile.md)して、貴社の製品、ソリューション、専門分野を公開することです。 このビジネス プロファイルは、お客様や社内の Microsoft 販売担当者が条件に合うパートナーを検索するすべての場所に表示されます。 
 
-Grow your business by showcasing your business to these potential customers, and working with them to help them be successful.
+ ビジネス プロファイルを公開すると、パートナー センターの紹介機能から見込み情報が送られてきます。 見込み情報を継続的に受信するには、決められた期限内に紹介案件に対応する必要があります。さらに重要になるのが、案件を獲得することです。 パートナー センターで潜在顧客を管理する方法については、「[紹介案件への対応](responding-to-referrals.md)」をご覧ください。  
 
-*  [Create a marketing profile](create-a-marketing-profile.md). Our sales agents and search tools use these profiles to find appropriate partner businesses with the relevant experience to help our customers.
-
-*  [Respond to referrals](responding-to-referrals.md) When customers express an interest in the contacts you have included in your marketing profile. Learn how to track and quickly respond to these customers.
+幸運をお祈りします!
 
 <!-- 
-*  [Analyze your marketing profile](analyze-your-marketing-profile.md) Regularly review and optimize your marketing profile to make sure you’re getting in front of your target customers.
+*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.
 -->

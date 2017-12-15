@@ -2,11 +2,11 @@
 title: "Microsoft Cloud ドイツのパートナー センター | Microsoft Cloud ドイツのパートナー センター"
 description: "Microsoft Cloud ドイツのパートナー センターは、EU および EFTA の加盟国の顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。 Microsoft Cloud ドイツでは、顧客データがドイツ内に存在し、指定されたドイツ データ トラスティによって顧客データへのアクセスが管理されることを保証します。 欧州連合 (EU) と欧州自由貿易連合 (EFTA) の企業顧客は、適用されるドイツの法律と規制、および主要な国際基準に従って顧客データを保存および管理することが可能になります。 Microsoft は、ドイツ データ トラスティか顧客による承認と監督がない限り、顧客のデータにアクセスできません。"
 author: MaggiePucciEvans
-ms.openlocfilehash: ffdc34a15896f63f838159eeb0328255e4ba810d
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+ms.openlocfilehash: 7411e8df770d460650d3e90d6cb7d0f686f32070
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センター
 
@@ -30,14 +30,14 @@ Microsoft Cloud ドイツ プログラムのクラウド ソリューション �
 本記事の公開時点では、Microsoft Cloud ドイツのパートナー センターで、以下の機能をまだご利用いただけません (本記事の公開以降、パートナー センターに機能が追加される場合があるため、この一覧が最新ではなくなっている可能性があります)。
 
 - パートナーの検索
-- Marketing profiles
+- ビジネス プロファイル
 - 紹介
 - ライセンス分析
 - 顧客の分析
 - 通知センター
 - Indirect reseller/provider model and settings (間接的リセラー/プロバイダー モデルと設定)
-- Check service health
-- Independent Software Vendor (ISV) enrollment
+- サービスの正常性の確認
+- 独立ソフトウェア ベンダー (ISV) の登録
 - Customer special qualification (顧客の特別な資格)
 
 個人情報の収集と使用について定めるドイツの法律と規制、および主要な国際基準に準拠するために、特定のサービス ポータルを使用して次のパートナー センター タスクが管理されます。 

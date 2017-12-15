@@ -3,13 +3,14 @@ title: "クラウド ビジネス アプリケーション コンピテンシー
 description: "クラウド ビジネス アプリケーション コンピテンシーは、顧客の Microsoft Dynamics 365 の展開と管理を専門とするパートナー様向けのコンピテンシーです。"
 author: Daniel Simpson
 keywords: "コンピテンシー,コンピテンシー,クラウド ビジネス アプリケーション"
-ms.openlocfilehash: d38847cf292c15334bc850e0782a1af9842f3d33
-ms.sourcegitcommit: 581682c6f2098dc4cf19ca82fcdec90bc6bfe975
+ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2017
+ms.lasthandoff: 11/16/2017
 ---
-#<a name="cloud-business-applications"></a>クラウド ビジネス アプリケーション 
+# <a name="cloud-business-applications"></a>クラウド ビジネス アプリケーション 
+
 クラウド ビジネス アプリケーション コンピテンシーは、顧客の Microsoft Dynamics 365 の展開と管理を専門とするパートナー様向けのコンピテンシーです。
 
 - [エンタープライズ顧客エンゲージメント オプション](#enterprise-customer-engagement-option)
@@ -24,10 +25,10 @@ ms.lasthandoff: 10/13/2017
 また、実績をリアルタイムで認識して識別するデジタル バッジにより、各従業員が達成してきた成果を称えることもできます。 [詳しくはこちらをご覧ください](https://www.microsoft.com/en-us/learning/badges.aspx)。  
 
 
-##<a name="enterprise-customer-engagement-option"></a>エンタープライズ顧客エンゲージメント オプション
+## <a name="enterprise-customer-engagement-option"></a>エンタープライズ顧客エンゲージメント オプション
 エンタープライズ顧客エンゲージメント オプションは、エンタープライズの顧客と取引しているパートナー様に最適です。 クラウド ビジネス アプリケーション コンピテンシーを取得するには、すべての手順を完了します。
 
-###<a name="silver"></a>Silver
+### <a name="silver"></a>Silver
 1. パートナー様は、次のパフォーマンスのしきい値を満たす必要があります。
 
     - **成熟市場**
@@ -50,13 +51,12 @@ ms.lasthandoff: 10/13/2017
     
     **かつ**
     
-    - 同じまたは別の **5** 人の従業員が、次の試験のいずれかに合格する必要があります。
+    - 同じ **5** 人の従業員が次のいずれかの機能試験に合格している必要があります。
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
-        - MB2-877: Microsoft Dynamics 365 for Field Service (2017 年 12 月に提供開始)
-        
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service *2017 年 12 月から実施される新しい試験
 
-###<a name="gold"></a>Gold
+### <a name="gold"></a>Gold
 1. パートナー様は、次のパフォーマンスのしきい値を満たす必要があります。
 
     - **成熟市場**
@@ -82,13 +82,13 @@ ms.lasthandoff: 10/13/2017
     - 同じまたは別の **15** 人の従業員が、次の試験のいずれかに合格する必要があります。
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
-        - MB2-877: Microsoft Dynamics 365 for Field Service (2017 年 12 月に提供開始)
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service 
 
-##<a name="enterprise-operations-option"></a>エンタープライズ運用オプション
+## <a name="enterprise-operations-option"></a>エンタープライズ運用オプション
 
 エンタープライズ運用オプションは、特に Dynamics 365 Unified Operations プランを利用しているエンタープライズ顧客と取引しているパートナー様に最適です。 クラウド ビジネス アプリケーション コンピテンシーを取得するには、すべての手順を完了します。
 
-###<a name="silver"></a>Silver
+### <a name="silver"></a>Silver
 1. パートナー様は、次のパフォーマンスのしきい値を満たす必要があります。
 
     - **成熟市場**
@@ -107,35 +107,21 @@ ms.lasthandoff: 10/13/2017
     - これらの関連付けに関する[詳細をご覧ください](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)。  
 
 2. 試験要件に合格した従業員が組織に **5** 人必要です。
-
-    - **5** 人の従業員が、次の技術試験のすべてに合格する必要があります。 
-
-        - MB6-894: Dynamics 365 Finance and Operations, Enterprise Edition の開発、拡張、展開 (2017 年 11 月に提供開始)
-
-        - 70-534: Microsoft Azure ソリューションの設計 (2017 年 11 月に提供開始)
-
-    **かつ**
+ 
+    - **5** 人の従業員が、次の技術試験のすべてに合格する必要があります。
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx): Microsoft Dynamics 365 for Finance and Operations の開発、拡張、展開* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Microsoft Azure ソリューションの設計
     
-    - 同じまたは別の **5** 人の従業員が、次の機能試験のいずれか (2017 年 11 月に提供開始) に合格する必要があります。
+    **かつ**
+
+    - 同じまたは別の **5** 人の従業員が、次の機能試験のいずれかに合格する必要があります。 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx): Microsoft Dynamics 365 for Finance and Operations での財務管理
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx): Microsoft Dynamics 365 for Finance and Operations での流通と取引
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail 
         
-        - MB6-895: Microsoft Dynamics 365 for Finance and Operations, Enterprise Edition での財務管理 (2017 年 11 月に提供開始)
-        
-        - MB6-896: Microsoft Dynamics 365 for Finance and Operations, Enterprise Edition での流通と取引 (2017 年 11 月に提供開始)
-        
-        - MB6-897: Microsoft Dynamics 365 for Retail (2017 年 11 月に提供開始)
+* 2017 年 12 月から実施される新しい試験
 
-    **または**
-
-    - **5** 人の従業員が、次の機能試験と技術試験のすべてに合格する必要があります。
-        - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX の財務*
-        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX の配布および取引*
-        - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX 開発の概要*
-        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Microsoft SQL データベース インフラストラクチャの管理*
-
-\* 2017 年 12 月 31 日に廃止されます。 これらの試験は、2018 年 12 月 31 日まで引き続きコンピテンシーの資格として認められます。
-
-###<a name="gold"></a>Gold
+### <a name="gold"></a>Gold
 
 1. パートナー様は、次のパフォーマンスのしきい値を満たす必要があります。
 
@@ -161,22 +147,15 @@ ms.lasthandoff: 10/13/2017
 
         - MB6-894: Dynamics 365 Finance and Operations, Enterprise Edition の開発、拡張、展開 (2017 年 11 月に提供開始)
 
-        - 70-534: Microsoft Azure ソリューションの設計 (2017 年 11 月に提供開始)
+    - **15** 人の従業員が次のすべての試験に合格する必要があります。
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx): Microsoft Dynamics 365 for Finance and Operations の開発、拡張、展開* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Microsoft Azure ソリューションの設計 
 
-   **かつ**
-    
-    - 同じまたは別の **15** 人の従業員が、次の機能試験のいずれかに合格する必要があります。
-        
-        - MB6-895: Microsoft Dynamics 365 for Finance and Operations, Enterprise Edition での財務管理 (2017 年 11 月に提供開始)
-        - MB6-896: Microsoft Dynamics 365 for Finance and Operations, Enterprise Edition での流通と取引 (2017 年 11 月に提供開始)
-        - MB6-897: Microsoft Dynamics 365 for Retail (2017 年 11 月に提供開始)
+    **かつ** 
 
-    **または**
-    - **15** 人の従業員が、次の機能試験と技術試験のすべてに合格する必要があります。
-       - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-       - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX の財務*
-       - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX の配布および取引*
-       - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX 開発の概要*
-       - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Microsoft SQL データベース インフラストラクチャの管理*
- 
-\* 2017 年 12 月 31 日に廃止されます。 これらは、2018 年 12 月 31 日まで引き続きコンピテンシーの資格として認められます。
+    - 同じまたは別の **15** 人の従業員が、次の機能試験のいずれかに合格する必要があります。 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx): Microsoft Dynamics 365 for Finance and Operations での財務管理
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx): Microsoft Dynamics 365 for Finance and Operations での流通と取引
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail
+
+* 2017 年 12 月から実施される新しい試験

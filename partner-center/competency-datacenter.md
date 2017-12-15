@@ -3,11 +3,11 @@ title: "Data Center コンピテンシー"
 description: "Datacenter コンピテンシーは、より柔軟で拡張性とコスト効果が高いソリューションにデータ センターを移行するパートナー様を認識します。"
 author: Daniel Simpson
 keywords: "コンピテンシー, コンピテンシー, Datacenter"
-ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
+ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 11/21/2017
 ---
 #<a name="datacenter"></a>Datacenter
 Datacenter コンピテンシーは、より柔軟で拡張性とコスト効果が高いソリューションにデータ センターを移行するパートナー様を認識します。
@@ -18,14 +18,16 @@ Datacenter コンピテンシーは、より柔軟で拡張性とコスト効果
 
     - **System Center** 2012 フォーカス分野
 
-        - [試験 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): System Center 2012 によるプライベート クラウドの監視と運用
-        - [試験 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): System Center 2012 によるプライベート クラウドの構成と運用
+        - [試験 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): System Center 2012 によるプライベート クラウドの監視と運用*
+        - [試験 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): System Center 2012 によるプライベート クラウドの構成と運用*
 
-    - **仮想化**フォーカス分野
+\* 2017 年 12 月 31 日に廃止されます。 この試験は、2018 年 12 月 31 日まで引き続きコンピテンシーの資格として認められます。 この試験には、2017 年 11 月 30 日まで登録できます。
+
+   - **仮想化**フォーカス分野
 
         - [試験 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Windows Server Hyper-V および System Center によるサーバー仮想化
 
-    - **Windows Server 2012** フォーカス分野
+   - **Windows Server 2012** フォーカス分野
 
         - [試験 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Windows Server 2012 のインストールおよび構成
         - [試験 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Windows Server 2012 の管理
@@ -34,7 +36,7 @@ Datacenter コンピテンシーは、より柔軟で拡張性とコスト効果
         - [試験 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): 高度なサーバー インフラストラクチャの実装
         - [試験 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): MCSA Windows Server 2012 にスキルを上げる
 
-    - **Windows Server** 2016 フォーカス分野
+   - **Windows Server** 2016 フォーカス分野
         - [試験 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Windows Server 2016 のインストール、ストレージ、コンピューティング
         - [試験 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Windows Server 2016 のネットワーキング
         - [試験 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Windows Server 2016 での ID
