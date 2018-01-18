@@ -18,11 +18,13 @@
 ## [職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)
 ## [パートナー プロファイルを更新する](update-your-partner-profile.md)
 ## [中断されたパートナー センター アカウントの復元](suspended-partner-center-account.md)
-## [ユーザー パスワードのリセット](reset-a-user-password.md)
 ## [ユーザー アカウントの作成とアクセス許可の設定](create-user-accounts-and-set-permissions.md)
+## [ユーザー パスワードをリセットする](reset-a-user-password.md)
 ## [Azure Partner Shared Services の追加](shared-services.md)
 ## [料金とプラン](pricing-and-offers.md)
 ## [カタログをカスタマイズする](customize-the-catalog.md)
+
+# [ビジネスを拡大する](grow-your-business.md)
 
 # [紹介](referrals.md)
 ## [ビジネス プロファイルの作成](create-a-marketing-profile.md)
@@ -76,13 +78,13 @@
 ## [マルチチャンネル](multichannel.md)
 ## [マルチパートナー](multipartner.md)
 
-# [Microsoft によるサポート](support-from-microsoft.md)
-## [サービスの正常性の確認](check-service-health.md)
+# [Microsoft のサポートを受ける](support-from-microsoft.md)
 ## [パートナー センターに関する問題の報告](report-problems-with-partner-center.md)
 ## [顧客の代理としての問題の報告](report-problems-on-behalf-of-a-customer.md)
 ## [マイクロソフトウェアの API による自動サービス通知の取得](get-automated-service-notifications-with-our-apis.md)
 
-# [カスタマー サポート](customer-support.md)
+# [顧客へのサポート提供](customer-support.md)
+## [サービスの正常性の確認](check-service-health.md)
 ## [請求に関するサポートの提供](provide-billing-support.md)
 ## [テクニカル サポートの提供](provide-technical-support.md)
 ## [マイクロソフトから顧客への連絡](customer-communication-from-microsoft.md)
