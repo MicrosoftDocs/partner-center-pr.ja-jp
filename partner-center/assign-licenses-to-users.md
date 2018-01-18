@@ -3,11 +3,12 @@ title: "顧客アカウントのユーザー管理タスク | パートナー �
 description: "顧客の新しいサブスクリプションを購入した後、特定のユーザーにライセンスを割り当てることができます。"
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-ms.openlocfilehash: 9bd854b4abd8c916e98cc0e771c711e40a9d71ff
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+ms.openlocfilehash: e1ac2234dfb0b6da431fe79c00dee4653b48a12a
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>顧客アカウントのユーザー管理タスク
 
@@ -79,7 +80,7 @@ ms.lasthandoff: 07/07/2017
 
 2.  **[ユーザーとライセンス]** を選びます。
 
-3.  **[削除したユーザー ( 人)]** タブを選びます。 復元できる削除済みユーザーが存在する場合は、**(1)** 以上の数値が表示されます。
+3.  **[削除したユーザー ( 人)]** タブを選びます。復元できる削除済みユーザーが存在する場合は、**(1)** 以上の数値が表示されます。
 
 4.  削除されたユーザーのチェック ボックスを 1 つ以上を選択し、**[復元]** を選びます。
 

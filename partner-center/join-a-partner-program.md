@@ -2,11 +2,11 @@
 title: "Microsoft Partner Network に参加する | パートナー センター"
 description: "パートナー センターで Microsoft Action Pack を購入し、コンピテンシーを獲得しましょう"
 author: labrenne
-ms.openlocfilehash: 7ac5c9fc7b66adf7796c23e97be994bffd751799
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: cf9ac91a4d8ad7a642863693c5db2193e12f25d9
+ms.sourcegitcommit: eca4ff8ce011fb5c687b333e5d08d085df2f5dcb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/12/2017
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft Partner Network (MPN) に参加する
 
@@ -18,6 +18,8 @@ ms.lasthandoff: 11/22/2017
 ## <a name="new-to-partner-center"></a>パートナー センターを初めて使用する場合
 
  Microsoft のパートナーになると、ビジネスを変換するための新しいビジネス チャンスにアクセスできます。 パートナー センターでは、Microsoft Action Pack を購入および更新し、コンピテンシーの内容や獲得方法に関する情報に簡単にアクセスできます。
+
+ MAPS またはコンピテンシーの契約応当日や、パートナー センターの主要な機能が使用可能になりパートナーのビジネス ニーズに対応できるようになった際に、徐々にパートナー センターでのメンバーシップ管理をパートナーの皆様にご案内しています。  現時点では、移行の案内を受け取るまで、Partner Membership Center (PMC) でのメンバーシップの更新および管理をご計画ください。
 
 ## <a name="get-your-mpn-id"></a>MPN ID を取得する
 

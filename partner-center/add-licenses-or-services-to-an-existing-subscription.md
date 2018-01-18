@@ -1,13 +1,14 @@
 ---
 title: "既存のサブスクリプションへのライセンスまたはサービスの追加 | パートナー センター"
-description: "顧客が現在提供されているサブスクリプションよりも多くのシートを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。"
+description: "顧客が現在提供されているサブスクリプションよりも多くのライセンスを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。"
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-ms.openlocfilehash: f33841361b10a4fb2358aafc13342689ec0780ef
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: "既存のサブスクリプションにライセンスを追加する, 既存のサブスクリプションにシートを追加する, サブスクリプションを変更する, サブスクリプションの変更, 顧客のライセンスを追加購入する"
+ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>既存のサブスクリプションへのライセンスまたはサービスの追加
 

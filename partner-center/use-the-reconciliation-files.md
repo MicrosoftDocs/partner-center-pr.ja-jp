@@ -3,11 +3,11 @@ title: "調整ファイルの使用 | パートナー センター"
 description: "請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。"
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
-ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
+ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
+ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2017
+ms.lasthandoff: 12/15/2017
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルの使用
 
@@ -149,7 +149,7 @@ ms.lasthandoff: 11/04/2017
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>シートごとの価格。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
+<td><p>シート単価 (購入時に価格表に公開されていた価格)。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
@@ -492,13 +492,21 @@ ms.lasthandoff: 11/04/2017
 <p><strong>当月のサービス利用料金</strong></p>
 </td>
 <td>
+<p>Activation fee</p>
+</td>
+<td>
+<p>購入したサブスクリプションを顧客が使用したときに顧客に課金される金額</p>
+</td>
+<td rowspan="8">
+<p>ライセンスベースのファイルから、<strong>Amount</strong> 列を合計する</p>
+</td>
+</tr>
+<tr>
+<td>
 <p>Cancel instance prorate</p>
 </td>
 <td>
 <p>関連付けられているシートが変更されたときに顧客に払い戻される日割り料金</p>
-</td>
-<td rowspan="8">
-<p>ライセンスベースのファイルから、<strong>Amount</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>

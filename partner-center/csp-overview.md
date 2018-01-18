@@ -2,11 +2,11 @@
 title: "クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 | パートナー センター"
 description: "クラウド ソリューション プロバイダー プログラムは、新規顧客および新しい専門分野の追加によってビジネスの拡大に役立ちます。"
 author: labrenne
-ms.openlocfilehash: f6b2b3ea1e42f82b8e391c4a65a86a314e7f4c40
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: c3fe4a3dfc80f17eda3c87548d30417ecdd9527a
+ms.sourcegitcommit: 71fcb32b5c5636db5fdeea72ba9ea96a3cd49328
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/07/2017
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 
 

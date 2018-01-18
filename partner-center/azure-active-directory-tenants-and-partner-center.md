@@ -1,13 +1,14 @@
 ---
 title: "職場アカウントとパートナー センター | パートナー センター"
-description: "パートナー センター アカウントを作成するには、お客様の会社の職場アカウントが必要です。"
+description: "パートナー センター アカウントを作成するには、会社の職場アカウントが必要です。"
 author: labrenne
+Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: 
-ms.openlocfilehash: 8885f20d2f5975da8e4585e1bc314697fa04ad6d
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 91ee16676e6525180c5ed4351ca502914d98b65b
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="your-company-work-account-and-partner-center"></a>会社の職場アカウントとパートナー センター  
 
@@ -15,15 +16,15 @@ ms.lasthandoff: 11/22/2017
 
 -  パートナー センター
 
-# <a name="why-you-need-a-work-account"></a>職場アカウントが必要な理由
+## <a name="why-you-need-a-work-account"></a>職場アカウントが必要な理由
 
 アカウント ユーザーが職場アカウントのユーザー名とパスワードを使ってパートナー センターにサインインできるように、会社の職場アカウントを新しいパートナー センター アカウントにリンクする必要があります。
 
 会社に職場アカウントが既にある場合は、そのアカウントをパートナー センター アカウントにリンクできます。 
 
-**注** 既存の職場アカウントの使用を決める前に、パートナー センターでの作業を必要とするアカウント内のユーザーの数を考慮してください。 パートナー センターで作業する必要がないユーザーがアカウントにいる場合、パートナー センターで作業する必要があるユーザーだけの新しいアカウントを作成することを検討してください。
+>**注** 既存の職場アカウントの使用を決める前に、パートナー センターでの作業を必要とするアカウント内のユーザーの数を考慮してください。 パートナー センターで作業する必要がないユーザーがアカウントにいる場合、パートナー センターで作業する必要があるユーザーだけの新しいアカウントを作成することを検討してください。
 
-職場アカウントが会社にまだない場合は、登録プロセスを通じて無料で作成できます。 **[Azure Active Directory にサインインします]** ページで **[新しいテナントを作成する]** を選択します。 新しい Azure Active Directory テナントを作成するときに、新しい職場アカウントを作成します。 Azure Active Directory は、Microsoft のシングル サインオンの ID 管理ソリューションです。
+職場アカウントが会社にまだない場合は、登録プロセスを通じて無料で作成できます。 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>職場アカウントが会社に既にあるかどうかわからない場合
 

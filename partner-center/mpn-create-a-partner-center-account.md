@@ -1,37 +1,38 @@
 ---
 title: "パートナー センター アカウントを作成する | パートナー センター"
-description: "ここではパートナーセンターで、Microsoft Partner Network メンバーシップ、プラン、特典を管理する方法を説明します。"
+description: "Microsoft Partner Network メンバーがネットワークの利点とコンピテンシーを管理してビジネス プロファイルを作成するには、パートナー センター アカウントを作成する必要があります。"
 author: MaggiePucciEvans
-ms.openlocfilehash: 819570228cb86157915bfc00c67e45615bd44ca7
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 3020524ba6f41af31001a808af1d7a1aa394592a
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 11/28/2017
 ---
 # <a name="create-a-partner-center-account"></a>パートナー センター アカウントを作成する
 
 **適用対象**
 
 -   パートナー センター
+-   Microsoft Partner Network メンバー
 
 
 この記事では、パートナー様がパートナー センターのアカウントを作成する方法を説明します。ここでは、自社のパートナー ネットワーク メンバーシップ情報を Partner Membership Center からパートナー センターへ移行するパートナー様を想定します。 
 
 パートナー センターでアカウントを作成するには、貴社が Microsoft Partner Network のメンバーである必要があります。 メンバーでない場合は、[今すぐ登録](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)できます。 Microsoft Partner Network のメンバーシップについて詳しくは、[こちら](https://partner.microsoft.com/membership)をご覧ください。  
 
->**注**<br> これらのリンクをクリックすると Microsoft Partner Network Web サイトに移動します。 Action Pack サブスクリプションを更新するには、この[パートナー センター](https://partnercenter.microsoft.com/partner/home)に戻る必要があります。
-
 パートナー センター アカウントを作成すると、次のことができるようになります。
 
--   メンバーシップ特典の購入 (Microsoft Action Pack など) 
+-   [Microsoft Action Pack サブスクリプションを購入または更新する](mpn-get-action-pack.md)
 
--   ネットワーク メンバーシップ特典のアクティブ化と管理
+-   [ビジネス プロファイルを作成して Microsoft から見込み情報を受け取る](create-a-marketing-profile.md)
 
-## <a name="before-you-begin"></a>開始する前に
+-   [Microsoft から見込み情報を受け取って管理する](responding-to-referrals.md)
+
+## <a name="before-you-begin"></a>始める前に
 
 パートナー センターでアカウントを作成するには、次の情報を入力する必要があります。 作業を開始する前に、これらの情報を手元に準備してください。
 
--   全体管理者の職場メール アドレス。 職場アカウントについて詳しくは、「[Azure Active Directory テナントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」をご覧ください。
+-   全体管理者の職場メール アドレス。 職場アカウントについて詳しくは、「[会社の職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」をご覧ください。
 
     会社に職場アカウントがない場合は、登録プロセスを通じて無料で作成できます。 
 
@@ -47,11 +48,11 @@ ms.lasthandoff: 11/01/2017
 
 1.  **[ようこそ]** ページの情報を確認して **[次へ]** を選びます。
 
-2.  全体管理者として、職場メールでサインインします。 職場アカウントについて詳しくは、「[Azure Active Directory テナントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」をご覧ください。
+2.  職場アカウントに、全体管理者としてサインインします。 職場アカウントについて詳しくは、「[会社の職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」をご覧ください。
 
-    会社に職場メール アカウントがある場合は、**Azure AD** にサインインします。 次のページで、テナントの全体管理者の資格情報を入力します。 
+    会社に職場メール アカウントがある場合は、**[サインイン]** を選択します。 次のページで、職場アカウントの全体管理者の資格情報を入力します。 
 
-    会社に職場アカウントがない場合は、ここで **[新しいテナントを作成する]** を選んで作成します。 Azure AD テナント (職場アカウント) を設定した後、全体管理者の資格情報を使って新しい職場メール アカウントにサインインします。
+    会社に職場アカウントがない場合は、ここで **[作成する]** を選んで作成します。 職場アカウントを作成した後、その職場アカウントの全体管理者の資格情報を使ってサインインします。
 
 3.  組織の法人プロフィールと第一連絡先担当者情報を入力または更新し、**[今すぐ登録する]** を選びます。 
 
@@ -69,12 +70,12 @@ ms.lasthandoff: 11/01/2017
 
 ## <a name="next-steps"></a>次のステップ
 
-[ユーザーの追加とアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)
+-   [ユーザーの追加とアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)
 
-[Microsoft Action Pack サブスクリプションの購入と更新](mpn-get-action-pack.md)
+-   [Microsoft Action Pack サブスクリプションの購入と更新](mpn-get-action-pack.md)
 
-[メンバーシップ特典を管理する](manage-your-partner-network-benefits.md)
+-   [メンバーシップ特典を管理する](manage-your-partner-network-benefits.md)
 
-[Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](learn-about-competencies.md)
+-   [Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](learn-about-competencies.md)
 
-[マーケティング プロファイルの作成とマイクロソフトからの潜在顧客の獲得](create-a-marketing-profile.md)
+-   [ビジネス プロファイルを作成して Microsoft から見込み情報を受け取る](create-a-marketing-profile.md)

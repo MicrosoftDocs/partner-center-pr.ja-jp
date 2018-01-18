@@ -3,11 +3,11 @@ title: "教育機関のお客様に Minecraft: Education Edition サブスクリ
 description: "教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する"
 author: KPacquer
 keywords: "認定教育パートナー"
-ms.openlocfilehash: e5d9b276e89e9a506948a4cb1f905d53fca57e25
-ms.sourcegitcommit: db945c0cf04f675c4cb71ae3dd1d1737d086e7e2
+ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
+ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 12/02/2017
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 
@@ -20,15 +20,15 @@ ms.lasthandoff: 08/23/2017
 ## <a name="purchase-through-partner-center-portal"></a>パートナー センター ポータルを通じて購入する 
 パートナー センター ポータルを通じて、教育機関のお客様用の Minecraft: Education Edition を購入します。 
 
-  1.  パートナー センターで、教育機関のお客様のアカウントを作成または選択した後、[教育] タブに移動して新しいサブスクリプションを追加します。  Minecraft: Education Edition サブスクリプションを選択し、お客様が必要とするライセンスの数を購入します。 Minecraft: Education Edition サブスクリプションは、現在 CSP にある他の教育機関向け特価プランと同じように表示されます。 サブスクリプションを追加する手順については、「[新しいサブスクリプションを作成する](create-a-new-subscription.md)」をご覧ください。 これらのライセンスはパートナー センターに表示されると共に、教育機関のお客様の[ビジネス向け Microsoft ストア](https://www.microsoft.com/business-store)インベントリの、[Minecraft の詳細ページ](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online)の下にも表示されます (詳細ページを表示するには、ビジネス向けストアにログインする必要があります)。 
+  1.  パートナー センターで、教育機関のお客様のアカウントを作成または選択した後、[教育] タブに移動して新しいサブスクリプションを追加します。  Minecraft: Education Edition サブスクリプションを選択し、お客様が必要とするライセンスの数を購入します。 Minecraft: Education Edition サブスクリプションは、現在 CSP にある他の教育機関向け特価プランと同じように表示されます。 サブスクリプションを追加する手順については、「[新しいサブスクリプションを作成する](create-a-new-subscription.md)」をご覧ください。 これらのライセンスはパートナー センターに表示されると共に、お客様の[教育機関向け Microsoft Store](https://educationstore.microsoft.com/en-us/store) インベントリの、[Minecraft の詳細ページ](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)の下にも表示されます (詳細ページを表示するには、教育機関向け Store にログインする必要があります)。 
 
-  2.  教育機関のお客様は Minecraft アプリをインストールし、他のユーザーにアプリを割り当てるだけでなく、アプリをダウンロードしてビジネス向け Microsoft ストアの [Minecraft の詳細ページ](https://businessstore.microsoft. com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online)を介して配布することができます  (現在のところ、パートナー センターではこれらのタスクはサポートされていません)。
+  2.  教育機関のお客様は Minecraft アプリをインストールし、他のユーザーにアプリを割り当てるだけでなく、アプリをダウンロードして教育機関向け Microsoft Store の [Minecraft の詳細ページ](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)を介して配布できます。 
 
-      a. 教育機関の IT 管理者が、ビジネス向け Microsoft ストア サービス契約に同意します (まだ同意していない場合)。 
+      a.  教育機関の IT 管理者が、ビジネス向け Microsoft ストア サービス契約に同意します (まだ同意していない場合)。 
 
-      b.  管理者が [Minecraft の詳細ページ](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online)にアクセスし、アプリをダウンロードしてユーザーにアプリを配布します。 手順について詳しくは、「[IT 管理者向け: Minecraft: Education Edition を入手する: Minecraft を配布する](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)」をご覧ください。
+      b.  管理者が [Minecraft の詳細ページ](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)にアクセスし、アプリをダウンロードしてユーザーにアプリを配布します。 手順について詳しくは、「[IT 管理者向け: Minecraft: Education Edition を入手する: Minecraft を配布する](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)」をご覧ください。
     
-  教育機関の IT 管理者がビジネス向け Windows ストアを使い慣れていない場合は、「[ビジネス向け Windows ストアの概要](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)を案内します。 
+  教育機関の IT 管理者がビジネス向け Microsoft Store を使い慣れていない場合は、「[ビジネス向け Microsoft Store と教育機関向け Microsoft Store の概要](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)」を案内します。 
 
 <!-- ## Purchase through Partner Center API 
 

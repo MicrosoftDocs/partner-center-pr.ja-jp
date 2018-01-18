@@ -3,11 +3,11 @@ title: "Microsoft Partner Network メンバーシップ | パートナー セン
 description: "Microsoft Partner Network に参加するメリットについて説明します。"
 author: MaggiePucciEvans
 keywords: "パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ"
-ms.openlocfilehash: f429908c69f154e9a25af3c2688011491d7b4125
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
+ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/07/2017
 ---
 # <a name="partner-with-microsoft"></a>Microsoft との連携
 
@@ -17,15 +17,15 @@ Microsoft Partner Network メンバーシップには、3 種類のメンバー�
 
 -   **ネットワーク メンバー**: この無料の基本レベルに参加すると、時間とコストを節約しながら、能力の向上、お客様へのより良いサービスの提供、関係の構築を通じて、ビジネスの可能性を最大限に引き出すことができる一連の[基本内部使用権特典](https://partner.microsoft.com/membership/core-benefits)を利用することができます。
 
-    [Microsoft Partner Network について詳しく知る](https://partner.microsoft.com/membership/how-it-works)
+    -   [Microsoft Partner Network について詳しく知る](https://partner.microsoft.com/membership/how-it-works)
 
-    [Microsoft Partner Network に今すぐ参加する](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+    -   [Microsoft Partner Network に今すぐ参加する](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
 
 -   **Action Pack**: Action Pack は、開発者ツール、サポート、トレーニング、ソフトウェアの利用など、追加のネットワーク特典を手頃な価格で提供する年間サブスクリプションです。 このレベルでは、専門分野を強化すると共に、新しいスキルも開発できます。
 
-    [Microsoft Action Pack について詳しく知る](https://partner.microsoft.com/membership/action-pack)
+    -   [Microsoft Action Pack について詳しく知る](https://partner.microsoft.com/membership/action-pack)
 
-    [Action Pack を今すぐサブスクライブする](mpn-get-action-pack.md)
+    -   [Action Pack を今すぐサブスクライブする](mpn-get-action-pack.md)
 
 -   **コンピテンシー**: Microsoft コンピテンシーを獲得すると、1 つまたは複数の専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft コンピテンシーは、顧客のニーズに対応できるように準備を整え、見込み顧客からの認知度を高めることを目的としています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
 

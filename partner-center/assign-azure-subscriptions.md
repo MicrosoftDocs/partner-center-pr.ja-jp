@@ -2,12 +2,12 @@
 title: "パートナー センターでの Azure サブスクリプションの割り当て | パートナー センター"
 description: "パートナー センターで、顧客に Azure サブスクリプションを割り当てることができるようになりました。"
 author: Labrenne
-keywords: "Azure, Azure サブスクリプション"
-ms.openlocfilehash: b5a2e1afbd0d0fe5941c22cf67d192cec004559e
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+keywords: "Azure, Azure サブスクリプション, サブスクリプション, 月額プラン, サブスクリプションの割り当て"
+ms.openlocfilehash: bdd8973809f01de002f45dd33ade48be0b70ddb3
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>パートナー センターでの Azure サブスクリプションの割り当て
 
@@ -33,6 +33,6 @@ Azure のプロビジョニングは、ライセンス ベースのサブスク�
 
 7. **[追加]** を選択して、サブスクリプションにユーザーを追加します。 
 
-8. ユーザーをサブスクリプションに追加したら、そのユーザーに対して、役割と、そのユーザーからアクセスできるようにする特定のアカウントを割り当てることができます。 
+8. ユーザーをサブスクリプションに追加したら、そのユーザーに対して、ロールと、そのユーザーからアクセスできるようにする特定のアカウントを割り当てることができます。 
 
 
