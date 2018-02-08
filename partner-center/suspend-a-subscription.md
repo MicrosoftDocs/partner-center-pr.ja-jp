@@ -3,10 +3,11 @@ title: "サブスクリプションの中断 | パートナー センター"
 description: "顧客から要請があった場合や、未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断またはキャンセルできます。"
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-ms.openlocfilehash: 6252a494e69c2a2d2b33a0896092b064b52c1881
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: d5f0c3d4e424980a3e39ca0d798097b517e7c9f7
+ms.sourcegitcommit: d75170bb6b14aeee1a5d33dd8a36cc3cd7e9dfd2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 01/04/2018
 ---
 # <a name="suspend-a-subscription"></a>サブスクリプションの中断
 
@@ -26,3 +27,5 @@ ms.contentlocale: ja-JP
 2.  管理対象のサブスクリプションを選びます。
 3.  **[状態]** セクションで、**[中断]** を選びます。 次に、変更を**提出**します。
 4.  90 日以内、または 90 日にアカウントが開かれた時点から最初の課金までの日数を加えた期間 (最大 120 日) 以内にサブスクリプションを再アクティブ化しない限り、すべてのデータは削除されます。
+
+サブスクリプションを中断するときに、**[中断]** ボタンの下に表示される日付は、サブスクリプションを再アクティブ化しない場合に自動的に期限切れになる日付です。 

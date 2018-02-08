@@ -3,11 +3,12 @@ title: "CSP の地域的承認によるテナント統合 | パートナー セ�
 description: "別の国/地域のテナントを統合するには、次の手順を使用します。"
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-ms.openlocfilehash: 655bcee32824f0a2a8859951edea35b2d56922a8
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+keywords: "顧客の移行, プロビジョニング, テナントのアカウント, テナントの統合"
+ms.openlocfilehash: e895fd049211a3dfcb4db930b75d94906563b700
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>CSP の地域的承認によるテナント統合
 

@@ -3,11 +3,11 @@ title: "パートナー センターのアカウントを管理する | パー�
 description: "クラウド ソリューション プロバイダー プログラムへの参加を承認されたら、ユーザーまたは管理者は、パートナー センターで会社のアカウントを設定する必要があります。"
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-ms.openlocfilehash: 28740a44a3ad61244e135122ebb603d2495fbb21
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 3935f3a0727e7215d66b3e9403d200bc3c470573
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="manage-your-partner-center-account"></a>パートナー センター アカウントの管理
 
@@ -15,21 +15,33 @@ ms.lasthandoff: 11/22/2017
 
 -  パートナー センター
 
-パートナー センターでアカウントを作成した後、自身または管理者が会社アカウントの設定を完了する必要があります。 また、管理者は、顧客の追加または管理、サブスクリプションの販売、課金や請求の操作、サポートの提供に関してパートナー センターを使うすべてのユーザー用にユーザー アカウントを作成する必要があります。
+登録時にパートナー センターで作成するアカウントは、仕事用のメールとビジネス情報です。 パートナー センターでアカウントを作成した後、ユーザーまたは管理者は、サポートの詳細、税金の除外の申告 (該当する場合)、第一連絡先情報など、貴社の完全なプロファイルの設定を完了する必要があります。 
 
-[パートナー プロファイルを更新する](update-your-partner-profile.md)
+また、管理者は、顧客の追加または管理、サブスクリプションの販売、課金や請求の操作、ビジネス プロファイルの作成、紹介の管理、サポートの提供に関してパートナー センターを使うすべてのユーザー用にユーザー アカウントを作成する必要があります。
 
-[ユーザー アカウントの作成とアクセス許可の設定](create-user-accounts-and-set-permissions.md)
 
-[中断されたパートナー センター アカウントの復元](suspended-partner-center-account.md)
+## <a name="resources-to-help-you-manage-your-partner-center-account"></a>パートナー センターのアカウントを管理するのに役立つリソース
 
-[ユーザー パスワードをリセットする](reset-a-user-password.md)
+|**目的**   |**参照先**   |
+|-----------------------|:-----------------------|
+|自社のプロファイルが最新であることを確認する   |[パートナー プロファイルの更新](update-your-partner-profile.md)|
+|パートナー センターで作業する必要がある貴社のすべてのユーザーにロールを割り当てる必要がある。 各ロールには、特定のアクセス許可と、そのロールで利用可能なタスクがある。|[ユーザー アカウントの作成とアクセス許可の設定](create-user-accounts-and-set-permissions.md)|
+|パスワードを忘れた従業員のためにパスワードをリセットする必要がある  |[ユーザー パスワードをリセットする](reset-a-user-password.md)|
+|市場で顧客が自社を検索できるようにマーケティングする   |[ビジネス プロファイルの作成](create-a-marketing-profile.md)|
+|最も重要な製品が一覧の先頭になるようにカタログを整理する   |[カタログのカスタマイズ](customize-the-catalog.md)|
+|料金とプランを常に最新の状態に維持する   |[料金とプラン](pricing-and-offers.md)|
 
-[ビジネス プロファイルの作成](create-a-marketing-profile.md)
 
-[料金とプラン](pricing-and-offers.md)
 
-[カタログをカスタマイズする](customize-the-catalog.md)
+
+
+
+
+
+
+
+
+
 
  
 

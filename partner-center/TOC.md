@@ -70,6 +70,7 @@
 ## [Windows Autopilot でデバイスのセットアップを効率化する](autopilot.md)
 
 # パートナー センターのデータと分析
+## [データの取得とビジネスの分析](data-analysis-lp.md)
 ## [Microsoft Power BI 用パートナー センター分析アプリの概要](power-bi-app-for-direct-partners.md)
 
 # [他のパートナーとの連携](work-with-other-partners.md)

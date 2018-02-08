@@ -4,11 +4,11 @@ description: "管理者は、パートナー センターへのアクセスを�
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
-ms.openlocfilehash: 4345db8cf8e383edbb58c269a3b0a948eade9d65
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 809641e488595e59beb63b0867b4758f3912106e
+ms.sourcegitcommit: fc49a5e334ed37db4ff4c594ecf89a1527a3bd1d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 01/18/2018
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>ユーザー アカウントの作成とアクセス許可の設定
 
@@ -38,7 +38,7 @@ ms.lasthandoff: 12/21/2017
 
 ユーザーは、ユーザー名と一時パスワードを使ってパートナー センターにサインインする必要があります。 ユーザーがパートナーセンターに初めてサインインすると、パスワードの変更を求めるメッセージが表示されます。 
 
-
+>**注**<br> グローバル管理者が組織を去ったり、別のロールに移動したりしたために、新しいグローバル管理者を追加する必要がある場合は、[MPN ポータル](https://partner.microsoft.com/support)でサービス リクエストをログに記録します。 サポート エージェントは、要求元が必須の個人識別情報を提供でき、組織に関する追加情報を提供できる場合、ユーザーをグローバル管理者に昇格することを要求できます。
 
 ## <a name="assign-user-permissions"></a>ユーザーのアクセス許可を割り当てる
 
@@ -61,7 +61,7 @@ ms.lasthandoff: 12/21/2017
 
 >**重要** ユーザーに特定のロールを設定する必要がない場合は、既定の設定である **[Manages your organization's account as]** (組織のアカウントを管理) のままにしておきます。 ユーザーがパートナー センターの機能を使用するには、1 つ以上のロールを割り当てる必要があります。
 
-次の表では、パートナー センターで各ロールが実行できる機能を示します。 ロールの割り当て方法を検討する際には、組織内でユーザーが行う作業内容を考慮してください。 たとえば、全体管理者を管理者エージェントに設定することができます。 また、マーケティングの担当者がビジネス プロファイルを管理する場合もあります。
+次の表では、パートナー センターで各ロールが実行できる機能を示します。 ロールの割り当て方法を検討する際には、組織内でユーザーが行う作業内容を考慮してください。 たとえば、全体管理者を管理者エージェントに設定することもできます。 また、マーケティングの担当者がビジネス プロファイルを管理する場合もあります。
 
 <table>
 <colgroup>
@@ -122,13 +122,6 @@ ms.lasthandoff: 12/21/2017
 <li><p>特典の表示と管理</p></li>
 <li><p>MPN プランの表示と購入</p></li>
 <li><p>MPN プランの注文履歴と請求書の表示</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>ユーザー管理者</strong></p></td>
-<td><ul>
-<li><p>ユーザーの表示、作成、管理</p></li>
-<li><p>すべてのパートナー プロファイルの表示</p></li>
 </ul></td>
 </tr>
 <tr class="even">
