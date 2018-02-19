@@ -2,11 +2,11 @@
 title: "クラウド ソリューション プロバイダー プログラムに登録する | パートナー センター"
 description: "CSP のさまざまな販売モデルについて理解し、貴社に最適なモデルを決定してください"
 author: labrenne
-ms.openlocfilehash: 648be8e9df0c72096278c3b8881cf986721293ab
-ms.sourcegitcommit: 9952a3abf59a561a650d56ee23aed1ef1b94a50c
+ms.openlocfilehash: 198e2189d7346849be67f4a93515a9da8a4deb4f
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2017
+ms.lasthandoff: 01/24/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
@@ -38,6 +38,8 @@ CSP の登録フォームに入力する際には、MPN ID、会社の正確な�
 4. ビジネス プロファイル管理者の役割が割り当てられている従業員は、顧客紹介を受け取ることができるように、ビジネス プロファイルをセットアップする必要があります。
 
 ### <a name="enroll-as-a-direct-partner"></a>直接パートナーとして登録する
+
+>**注**<br> 現在、直接パートナー登録の要件を更新するための作業中であり、新しいアプリケーションは受け付けていません。 暦年 2018 年第 2 四半期から、アプリケーション プロセスの再開を計画しています。 間接リセラーとしての登録を検討してください。
 
 直接パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。
 

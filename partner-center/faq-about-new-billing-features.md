@@ -1,13 +1,12 @@
 ---
 title: "新しい請求機能についてよく寄せられる質問 | パートナー センター"
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
-ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 0c468df2176160ca5a1fdf8b90ce5b6f9b669cc2
-ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
+ms.openlocfilehash: 503a1fac539b2cd40e8b95ab458143801c5d0134
+ms.sourcegitcommit: 4964383ea9dcd51d27256a2969a453d67c5ebf0c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 02/03/2018
 ---
 # <a name="faq-about-new-billing-features"></a>新しい請求機能についてよく寄せられる質問
 
@@ -578,7 +577,7 @@ Microsoft 課金システムでは、サブスクリプションの締日であ�
 
 ### <a name="scenario-new-purchase-on-the-29th-30th-or-31st"></a>シナリオ: 29 日、30 日、または 31 日の新規購入 
 
-パートナーの請求日は毎月 15 日です。 このパートナーが、月次請求の新しいサブスクリプション ($30/月で 1 ライセンス) を 5 月 29 日に購入しました。 29 日、30 日、31 日に購入されたサブスクリプションの締日は、既定では 1 日に設定されます。 このシナリオでは、サブスクリプションの無料期間は 5 月 29 日から 5 月 31 日までとなり、6 月 1 日 に 1 か月の前払い料金を示す請求行が表示されます。
+パートナーの請求日は毎月 15 日です。 このパートナーが、月次請求の新しいサブスクリプション (1 ライセンスあたり $30/月) を 5 月 29 日に購入しました。 29 日、30 日、31 日に購入されたサブスクリプションの締日は、既定では 1 日に設定されます。 このシナリオでは、サブスクリプションの無料期間は 5 月 29 日から 5 月 31 日までとなり、6 月 1 日 に 1 か月の前払い料金を示す請求行が表示されます。
 
 6 月 15 日の調整ファイルには、次の内容が記述されます。
 

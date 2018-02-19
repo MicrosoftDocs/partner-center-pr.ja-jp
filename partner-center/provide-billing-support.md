@@ -3,10 +3,11 @@ title: "請求に関するサポートの提供 | パートナー センター"
 description: "パートナーは、顧客との請求関係に責任を負い、請求に関する顧客からのすべての質問に十分に対応する必要があります。"
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
+ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
 ms.translationtype: HT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="provide-billing-support"></a>請求に関するサポートの提供
 
@@ -36,17 +37,15 @@ ms.contentlocale: ja-JP
 ## <a href="" id="billingdisputes"></a>課金の係争
 
 
--   [お客様の代理で問題を報告](report-problems-on-behalf-of-a-customer.md)し、請求に関する疑問を提起するか、係争を起こします。
+-   請求に関する問題があれば、[問題を報告](report-problems-with-partner-center.md)して、疑問を提起するか係争を起こすものとします。
 
 ## <a href="" id="escalatingissues"></a>問題のエスカレート
 
 
 -   Microsoft のサポートが必要な場合は、お客様に代わってパートナー サポート チャネルを通じて [マイクロソフトに問題をエスカレート](escalate-problems-to-microsoft.md)します。
--   問題が解決したら、お客様に連絡してループを閉じる必要があります。
+-   問題が解決したら、お客様に連絡してループを閉じる必要があります。 
 
  
-
- 
-
+課金の係争: 請求に関する問題があれば、問題を報告 (https://msdn.microsoft.com/ja-jp/partner-center/report-problems-with-partner-center) して、疑問を提起するか係争を起こすものとします。
 
 

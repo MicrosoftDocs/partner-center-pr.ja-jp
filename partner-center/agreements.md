@@ -3,11 +3,11 @@ title: "Microsoft クラウド ソリューション プロバイダーの利用
 description: "市場固有の顧客契約テンプレートをパートナー センターからダウンロードする"
 author: Maggie Evans
 keywords: "Microsoft Cloud 契約, 顧客契約テンプレート, CSP 顧客契約, MCA, Microsoft Cloud 契約 (MCA), CSP, CSP で販売できる国または地域, CSP の国または地域, CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南米, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA"
-ms.openlocfilehash: 76d14f29db45d59bab06d094aeb2c7cf213533ad
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+ms.openlocfilehash: 6ed6c017eaea2607c930e403fbca71b49516d265
+ms.sourcegitcommit: 4964383ea9dcd51d27256a2969a453d67c5ebf0c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 02/03/2018
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Microsoft クラウド ソリューション プロバイダーの市場および顧客契約
 
@@ -142,7 +142,7 @@ ms.lasthandoff: 12/08/2017
 - バチカン市国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 
 ## <a name="microsoft-cloud-germany"></a>Microsoft Cloud ドイツ
-- EU/EFTA 全域: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20172_GermanCloud.pdf)、[ドイツ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_GER_Sep20172_GermanCloud.pdf)
+- EU/EFTA 全域: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20173_GermanCloud.pdf)、[ドイツ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_GER_Sep20173_GermanCloud.pdf)
 
 ## <a name="middle-east-and-africa"></a>中東およびアフリカ
 - アルジェリア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     

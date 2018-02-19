@@ -1,12 +1,14 @@
 ---
 title: "顧客の代理としての問題の報告 | パートナー センター"
-Description: "お客様に発生したサービス関連の問題がパートナーによって解決できず、その問題が「マイクロソフトへの問題のエスカレート」に記載されている条件に一致する場合は、サポート チケットを発行します。"
+Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-ms.openlocfilehash: 8c59c9d67ab06bd515945e613b14b79d21d318b8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+ms.openlocfilehash: af69b2fd3ad63e9b926afbb6ffef3cf575c5e997
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理としての問題の報告
 
@@ -26,24 +28,25 @@ ms.contentlocale: ja-JP
 
 3.  問題が発生しているサービスで、**[サービス リクエストの作成または表示]** を選びます。 Microsoft Azure ポータルまたは Office 365 管理センターにリダイレクトされます。
 
-    **Microsoft Azure**
+**Microsoft Azure**
 
-    1.  **[新しいサポート要求]** を選びます。
-    2.  次のようにサポート要求に適切な情報を入力し、**[作成]** を選びます。
+**注:** Azure で顧客用のサービス要求を作成するには、顧客の Azure アカウントへのアクセスが間接プロバイダーから許可される必要があります。 これは、Office 365 ユーザーに代わって管理を行うこととは異なります。   
+
+1.  **[新しいサポート要求]** を選びます。
+2.  次のようにサポート要求に適切な情報を入力し、**[作成]** を選びます。
         -   サポート要求の **[基本]** セクションで、必ず **[サポート プラン]** フィールドの **[クラウド ソリューション プロバイダー]** を選びます。
         -   サポート要求の **[連絡先]** 情報セクションに、顧客の情報ではなく貴社の情報を入力します。
 
-    3.  後で、Microsoft Azure ポータル内で顧客のサービス リクエストを表示する場合は、**[サポートの要求の管理]** を選びます。
+3.  後で、Microsoft Azure ポータル内で顧客のサービス リクエストを表示する場合は、**[サポートの要求の管理]** を選びます。
 
-    **Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite**
 
-    1.  **[サービス リクエストの作成]** セクションで、適切なサポート トピックのカテゴリを選びます。 トピックをさらに表示するには、**[その他]** を 選びます。
-    2.  サービス リクエスト フォームに記入し、**[送信]** を選びます。
-        **注**  顧客ではなく、必ず貴社の連絡先情報を記入してください。
 
-         
+**Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite**
 
-    3.  後で、Office 365 管理センターにアクセスし、**[すべてのサポート チケットを表示する]** を選んで顧客のサービス リクエストを見直します。
+1. **[サービス リクエストの作成]** セクションで、適切なサポート トピックのカテゴリを選びます。 トピックをさらに表示するには、**[その他]** を 選びます。    
+2. サービス リクエスト フォームに記入し、**[送信]** を選びます。
+    **注**  顧客ではなく、必ず貴社の連絡先情報を記入してください。
+3. 後で、Office 365 管理センターにアクセスし、**[すべてのサポート チケットを表示する]** を選んで顧客のサービス リクエストを見直します。
 
 ## <a name="faq"></a>FAQ
 
