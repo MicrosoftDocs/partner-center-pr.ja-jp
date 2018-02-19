@@ -3,11 +3,11 @@ title: "パートナー管理センターからパートナー センターへ�
 description: "パートナー管理センターで使用していた機能がパートナー センターで見つかります"
 author: labrenne
 keywords: "PAC, Office 365 管理, PAC 機能"
-ms.openlocfilehash: 8ce09467e6b6ae469423c4dacdd24cb57e16119f
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 043cb0118653c36b3bcabb6d0267d7d06bcd151a
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="moving-from-partner-admin-center-pac-to-partner-center"></a>パートナー管理センター (PAC) からパートナー センターへの移行
 
