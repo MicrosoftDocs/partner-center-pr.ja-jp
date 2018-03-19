@@ -10,7 +10,7 @@ ms.lasthandoff: 08/24/2017
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>プロモーションを使用して、新しい顧客の関心を引く  
 
-**Applies to: Partner Center**
+**適用対象: パートナー センター**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
@@ -32,18 +32,18 @@ ms.lasthandoff: 08/24/2017
 
 利用できるプロモーションがある場合は、**[プロモーション]** ページで確認できます。 **[ダッシュボード]** メニューから **[プロモーション]** を選択し、現在のプロモーションと共に割引、プロモーションの種類、サブスクリプションの開始日と終了日が記載された一覧を表示します。 利用できるプロモーションがない場合は、そのことを示すメッセージが表示されます。 
 
->**Note**<br>
-You can also see promotions when making a purchase. サブスクリプションを選択すると、割引率が **[確認]** ページに表示されます。
+>**注**<br>
+購入時にプロモーションを確認することもできます。 サブスクリプションを選択すると、割引率が **[確認]** ページに表示されます。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>割引価格でサブスクリプションを購入する
 
-1. On your **Dashboard** menu, select **Customers** and then select the customer who’s buying the subscription. 
+1. **[ダッシュボード]** メニューで、**[顧客]** を選択し、サブスクリプションを購入する顧客を選択します。 
 
-2. Select **Add subscription**.
+2.  **[サブスクリプションの追加]** を選びます。
 
 3. **[新しいサブスクリプション]** ページで、プロモーション対象のサブスクリプションを選択します。
 
-4. Enter the number of licenses the customer needs. 
+4. 顧客が必要としているライセンスの数を入力します。 
 
 5. 注文を確認します。 適用されるプロモーション価格が、**[割引]** 列に表示されます。  
 

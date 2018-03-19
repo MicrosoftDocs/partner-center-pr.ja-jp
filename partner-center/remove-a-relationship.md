@@ -1,6 +1,6 @@
 ---
 title: "顧客との再販業者関係の削除 | パートナー センター"
-description: Removing a relationship removes any closed business relationships from your view in Partner Center.
+description: "関係を削除すると、終了したすべてのビジネス関係がパートナー センターのビューから削除されます。"
 author: KPacquer
 ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
 ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
@@ -10,9 +10,9 @@ ms.lasthandoff: 07/19/2017
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>顧客との再販業者関係の削除
 
-**Applies to**
+**適用対象**
 
--   Partner Center
+-   パートナー センター
 
 直接パートナーは、それ以降、取引を行わない顧客との再販業者関係をパートナーセンターで削除できます。 
 
@@ -24,12 +24,12 @@ ms.lasthandoff: 07/19/2017
 
 関係を削除するには、まず、その時点で残っているアクティブなサブスクリプションをいったん中断する必要があります。
 
-1.  すべてのアクティブなサブスクリプションを中断します。 From the Dashboard, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**. 
+1.  すべてのアクティブなサブスクリプションを中断します。 ダッシュボードで、**[顧客]** で顧客を選択し、**[サブスクリプション]** でサブスクリプションを選択して、**[中断]** を選択します。 
 
-   Repeat this for each active subscription.
+   アクティブなサブスクリプションごとに、この手順を繰り返します。
 
-2.  Remove the relationship in Partner Center: From the Dashboard, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.
+2.  パートナー センターでの関係を削除する: ダッシュボードから、**[顧客]** で顧客を選択し、**[アカウント]** > **[再販業者関係の削除]** を選択します。
 
-    Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive. 
+    ただし、いずれかのサブスクリプションがアクティブなままである場合、**[再販業者関係の削除]** リンクはアクティブになりません。 
 
-To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).
+関係を再確立するには、[関係の要求](request-a-relationship-with-a-customer.md)のプロセスを繰り返します。

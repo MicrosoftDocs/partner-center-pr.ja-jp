@@ -1,5 +1,5 @@
 ---
-title: Understand your incentive payouts | Partner Center
+title: "インセンティブの支払いについて | パートナー センター"
 description: "インセンティブ プログラムの収益と支払いを表示することができます。"
 author: labrenne
 ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
@@ -10,13 +10,13 @@ ms.lasthandoff: 07/10/2017
 ---
 #<a name="understand-your-incentive-payouts"></a>インセンティブの支払いについて
 
-**Applies to**
+**適用対象**
 
 -  パートナー センター
 
 インセンティブ管理者とユーザーは、インセンティブ プログラムから受け取った、またはまもなく受け取る収益と支払いの概要を確認することができます。   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Summary information on earnings and payout
+##<a name="summary-information-on-earnings-and-payout"></a>収益と支払いの概要情報
 
 インセンティブ ユーザーおよびインセンティブ管理者は、参加しているインセンティブ プログラムの資金状態を **[入金状況]** で確認できます。 必要に応じて、概要情報の各領域を詳しく分析できます。 
 
@@ -49,7 +49,7 @@ ms.lasthandoff: 07/10/2017
 
 ## <a name="analyze-incentives-earnings"></a>インセンティブの収益の分析
 
-パートナー様の組織がインセンティブ プログラムからさらに収益を得る余地がある領域と、既に十分に収益を上げている領域を調べます。 This data makes it clear where you have earned but have not yet been paid.  Understand which programs and activities have been most successful as well as find out which of your locations is earning. By program you can see what the total earnings potential is, the time during which you can participate in the program and when it expires. プログラムと収益の種類ごとに、要件と開始日および終了日が異なります。 
+パートナー様の組織がインセンティブ プログラムからさらに収益を得る余地がある領域と、既に十分に収益を上げている領域を調べます。 このデータにより、収益を上げているがまだ支払わされていない場所が明らかになります。  最も成功を収めているプログラムとアクティビティについて理解し、収益を上げている場所を調べます。 プログラムごとに、推定合計収益額、プログラムに参加可能な期間と有効期限を確認します。 プログラムと収益の種類ごとに、要件と開始日および終了日が異なります。 
 
 ## <a name="earning-trends"></a>収益の傾向 
 
@@ -96,12 +96,12 @@ ms.lasthandoff: 07/10/2017
 
 ## <a name="downloading-earnings-transactions"></a>収益取引のダウンロード 
 
-|**フィールド**        |**Definition**     |
+|**フィールド**        |**定義**     |
 |--------------------|:-------------------------------------------------|                                                 
 |EarningID      |収益の行項目ごとに作成される一意識別子 |               
 |パートナー名   | パートナー センターにおけるパートナーの登録名                    |
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | パートナーの MPN V-Org ID の国/地域|
+|MPN/PCN        |MPN ID (パートナーの Microsoft Partner Network ID)/パブリック カスタマー番号|
+|場所       | パートナーの MPN V-Org ID の国/地域|
 |プログラム名   |インセンティブ プログラムの名前 |
 |顧客名  |   サブスクリプションを購入した顧客の名前 |
 |顧客の場所  | 顧客の在住国  |
@@ -113,11 +113,11 @@ ms.lasthandoff: 07/10/2017
 |契約終了日 |更新と延長を含む、ライセンス契約の終了日 |
 |サブスクリプション開始日    |サブスクリプションの開始日|
 |サブスクリプション終了日  |サブスクリプションの終了日|
-|Product SKU    |製品の SKU 番号|
+|製品 SKU    |製品の SKU 番号|
 |製品名   |Microsoft 製品の名前|
 |取引日   |取引が行われた日時 (UTC)。|
 |ライセンス数  |販売済みライセンス数 |
-|Quantity   |販売済みユニット数| 
+|数量   |販売済みユニット数| 
 |Prior quantity (前回の数量) |前回の収益期間のユニットの数量 |
 |単価 |ユニットあたりの販売価格| 
 |取引金額 |計算レートにこの金額を乗じてインセンティブ収益額を算出します。|
@@ -128,7 +128,7 @@ ms.lasthandoff: 07/10/2017
 |収益期間     |プログラムに基づく収益期間 |
 |収益期間の開始   |プログラムの収益期間の開始 (UTC) |
 |収益期間の終了 |プログラムの収益期間の終了 (UTC)|
-|Calculation Date   |収益の計算時 (UTC)|
+|計算日   |収益の計算時 (UTC)|
 |収益通貨   |収益額の通貨 |
 |Earning FX rate (収益外国為替レート)|取引通貨を収益通貨に換算するために使われた外国為替レート|
 |レポートの通貨|レポートに使用する通貨|
@@ -145,8 +145,8 @@ ms.lasthandoff: 07/10/2017
 |**列名**   |**説明**   |
 |-------------------|:--------------------|
 |パートナー名|パートナー センターにおけるパートナーの登録名|
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Country/Region of Partner's MPN V-Org ID|
+|MPN/PCN        |MPN ID (パートナーの Microsoft Partner Network ID)/パブリック カスタマー番号|
+|場所       | パートナーの MPN V-Org ID の国/地域|
 |プログラム名   |インセンティブ プログラムの名前 |
 |収益の種類   |収益の種類 (リベート、調整) |
 |Payment amount currency (支払い額の通貨)|   支払いに使用される通貨の種類|

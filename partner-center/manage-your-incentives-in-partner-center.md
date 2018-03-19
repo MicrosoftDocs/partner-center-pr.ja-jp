@@ -10,43 +10,43 @@ ms.lasthandoff: 07/07/2017
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>パートナー センターでインセンティブを管理する 
 
-**Applies to**
+**適用対象**
 
--  Partner Center
+-  パートナー センター
 
-## <a name="partner-incentives"></a>Partner Incentives 
+## <a name="partner-incentives"></a>パートナー インセンティブ 
 
-Whether you are doing business in the cloud, on-premises, or somewhere in between, Partner Incentives support your profitability and growth.
+クラウド、オンプレミス、またはその間のどの場所でビジネスを行っているかにかかわらず、パートナー インセンティブは収益性と成長をサポートします。
 
-## <a name="qualify-for-the-partner-incentives-program"></a>Qualify for the Partner Incentives program
+## <a name="qualify-for-the-partner-incentives-program"></a>パートナー インセンティブ プログラムの参加資格を得る
 
-You're eligible for the CSP Incentives Program when you meet the following criteria:
+次の条件を満たす場合、CSP インセンティブ プログラムの参加資格を満たしています。
 
--   Have an active Microsoft Partner Network (MPN) agreement 
--   A valid Cloud Distributor agreement (indirect providers only)
--   A Reseller agreement (direct sellers only)
--   Meet the competency requirement
+-   アクティブな Microsoft Partner Network (MPN) 契約を結んでいる 
+-   有効なクラウド ディストリビューター契約 (間接プロバイダーのみ)
+-   リセラー契約 (直接ベンダーのみ)
+-   コンピテンシー要件を満たす
 
-As soon as you become eligible, you will be invited to join the program.
+資格を得るとすぐに、プログラムへの参加が招待されます。
 
-## <a name="one-site-one-sign-in"></a>One site, one sign in
+## <a name="one-site-one-sign-in"></a>1 つのサイト、1 回のサインイン
 
-Now that Partner incentives management is available in Partner Center, you can sign up for incentives, access your tax and payment profiles, access your earnings and payment statements, and manage users – all here in Partner Center. 
+パートナー センターでパートナー インセンティブを管理できるようになりました。インセンティブへのサインアップ、税金と支払いプロファイルへのアクセス、収益と支払い明細へのアクセス、ユーザーの管理をすべてパートナー センターで行うことができます。 
 
-Beginning with already enrolled Partners, we are enabling partners to manage incentives in Partner Center in phases starting in July. Look out for an email from us letting you know that it is time to set up your organization for incentives in Partner Center. 
+7 月以降、既に登録済みのパートナー様から順番にパートナー センターでインセンティブを管理できるようになります。 パートナー センターで組織がインセンティブをセットアップできる時期をお知らせするメールをお待ちください。 
 
-Admins, if you have received the email, follow these three easy steps today:
+メールを受け取っている場合、管理者は今すぐ次の 3 つの簡単な手順に従います。
 
 1.  パートナー センターにサインインする 
 2.  メールに指示に従って、インセンティブ ユーザーをセットアップする 
 3.  新しくセットアップしたインセンティブ ユーザーにパートナー センターのログイン資格情報を付与する
 
-When the Incentive Admin has received credentials, they can complete the migration of your organization which will enable your organization to manage your incentives here – in Partner center.
+インセンティブ管理者が資格情報を受け取ったら、組織がインセンティブをパートナー センターで管理できるように組織の移行を完了できます。
 
 
-[Create user accounts and assign permissions](create-user-accounts-and-set-permissions.md)
+[ユーザー アカウントの作成とアクセス許可の設定](create-user-accounts-and-set-permissions.md)
 
-[Reset a user password](reset-a-user-password.md)
+[ユーザー パスワードをリセットする](reset-a-user-password.md)
 
-[Understand your Incentive payouts](understand-incentive-payouts.md)
+[インセンティブの支払いについて](understand-incentive-payouts.md)
 

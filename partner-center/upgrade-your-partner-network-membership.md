@@ -1,6 +1,6 @@
 ---
-title: Upgrade your Microsoft Partner Network membership | Partner Center
-description: When you upgrade your Microsoft Partner Network membership, you're eligible for exclusive membership benefits. Learn how to find and purchase available offers.
+title: "Microsoft Partner Network メンバーシップのアップグレード | パートナー センター"
+description: "Microsoft Partner Network メンバーシップをアップグレードすると、限定のメンバーシップ特典を利用できるようになります。 ここでは、提供されている特典を確認および購入する方法について説明します。"
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
@@ -9,42 +9,42 @@ ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/08/2017
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>Upgrade your Microsoft Partner Network membership
+# <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 
-**Applies to**
+**適用対象**
 
--  Partner Center
+-  パートナー センター
 
-Microsoft’s partner program offers the following three membership options, with incremental benefits to help you achieve your business goals.
+マイクロソフトのパートナー プログラムには、次の 3 種類のメンバーシップがあり、レベルに応じて、ビジネス目標を達成するための特典が用意されています。
 
-- **Network membership.** The core membership level, offering entry-level benefits for training, support, and customer connections. You must be a network member to upgrade your membership.
+- **ネットワーク メンバーシップ。** 基本のメンバーシップ レベルです。トレーニング、サポート、顧客との関係構築のための基本レベルの特典が提供されます。 メンバーシップをアップグレードするには、ネットワーク メンバーである必要があります。
 
-- **Microsoft Action Pack subscription membership.** An affordable annual subscription, serving small and mid-sized partner companies. Includes the entry-level benefits that come with basic network membership plus allocations of internal-use rights service subscriptions, software licenses, and support.
+- **Microsoft Action Pack サブスクリプション メンバーシップ。** 中小規模のパートナー企業向けの手頃な価格の年間サブスクリプションです。 基本のネットワーク メンバーシップで付与される基本レベルの特典に加え、内部使用権サービスのサブスクリプション、ソフトウェアライセンス、サポートが割り当てられます。
 
-- **Microsoft competencies.** An earned designation showcasing your company’s capabilities. Includes entry-level benefits, additional internal-use rights, eligibility for partner incentives, and additional support and advisory hours.
+- **Microsoft コンピテンシー。** 自社の能力を証明する認定資格です。 エントリ レベルの特典、追加の内部使用権、パートナー インセンティブの獲得資格、追加のサポート インシデントとアドバイザリー時間が付与されます。
 
-  - Silver competency – consistent capability, expertise, and commitment
+  - Silver コンピテンシー – 一貫した能力、専門知識、取り組みを備えたパートナーに与えられます
 
-  - Gold competency – best-in-class capability within a specific Microsoft solution area
+  - Gold コンピテンシー – 特定のマイクロソフト ソリューション分野におけるクラス最高の能力を備えたパートナーに与えられます
 
-After you join the Microsoft Partner Network, you’re eligible to upgrade your membership and purchase exclusive membership benefit offers. Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com)をご覧ください。
+Microsoft Partner Network メンバーシップに参加すると、メンバーシップをアップグレードし、限定のメンバーシップ特典を購入できるようになります。 Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com)をご覧ください。
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入する
 
-Action Pack is an affordable yearly subscription to services, software, and support for businesses that want to grow their Microsoft practice in the cloud-first, mobile-first world. Subscribe to Action Pack to:
+Action Pack は、クラウドファースト、モバイルファーストの世界でマイクロソフト プラクティスの拡大を図ろうとしている企業向けに、サービス、ソフトウェア、サポートを手頃な価格で提供する年間サブスクリプションです。 Action Pack サブスクリプションには、以下が含まれています。
 
-- Use world-class developer tools to create applications and solutions for your customers on iOS, Android, Linux, and Windows 
+- iOS、Android、Linux、Windows でお客様向けのアプリケーションやソリューションを作成できる世界最高クラスの開発者ツールの利用 
 
-- Get ten Windows 10 Enterprise (upgrade) licenses, three Visual Studio Professional licenses, and a no-cost Visual Studio Team Services account 
+- 10 個の Windows 10 Enterprise (アップグレード) ライセンス、3 個の Visual Studio Professional ライセンス、1 個の無料の Visual Studio Team Services アカウントの利用 
 
-- Get up to ten Office 365 (E3) seats, plus five seats of Enterprise Mobility Suite and Microsoft Dynamics CRM Online Professional
+- 最大 10 シートの Office 365 (E3)、5 シートの Enterprise Mobility Suite と Microsoft Dynamics CRM Online Professional の利用
 
-- Receive US$100 of Microsoft Azure credits every month
+- 毎月 100 米ドルの Microsoft Azure クレジットの付与
 
 Microsoft Action Pack について詳しくは、[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack) をご覧ください。 
 
->**注** このリンクをクリックすると、別の Web サイトにアクセスします。 Return to this site, Partner Center, to subscribe to Action Pack.
+>**注** このリンクをクリックすると、別の Web サイトにアクセスします。 Action Pack をサブスクライブするには、このパートナー センター サイトに戻る必要があります。
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Microsoft Action Pack をサブスクライブする
@@ -59,13 +59,13 @@ Microsoft Action Pack について詳しくは、[https://partner.microsoft.com/
 
 5. 支払い情報を入力し、**[次へ]** を選びます。
 
-6. 注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。 Your credit card will be charged immediately.
+6. 注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。 料金は、指定したクレジットカードに即座に請求されます。
 
-7. Your order is confirmed. **[閉じる]** を選びます。
+7. 注文が確認されます。 **[閉じる]** を選びます。
 
-Your Action Pack subscription will renew automatically each year on this date. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。 自動更新は、購入したプランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 
 
-### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Turn off automatic Action Pack subscription renewal
+### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack サブスクリプションの自動更新を無効にする
 
 1. **[ダッシュボード]** メニューで、**[パートナーシップ] > [プラン]** を選びます。 **[購入したプラン]** で Microsoft Action Pack を選びます。
 
@@ -73,11 +73,11 @@ Your Action Pack subscription will renew automatically each year on this date. Y
 
 3. Action Pack サブスクリプションを毎年自動的に更新しない場合は、**[自動更新を無効にする]** を選びます。 
 
-    >**Note**<br>
-If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again. We’ll remind you to renew before your subscription expires.
+    >**注**<br>
+サブスクリプションの自動更新を無効にすると、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 サブスクリプションの有効期限が切れる前に、更新についてお知らせします。
 
 
-### <a name="renew-your-action-pack-subscription"></a>Renew your Action Pack subscription
+### <a name="renew-your-action-pack-subscription"></a>Action Pack サブスクリプションを更新する
 
 1. **[ダッシュボード]** メニューで、**[パートナーシップ] > [プラン]** を選びます。 **[購入したプラン]** で Microsoft Action Pack を選びます。
 
@@ -93,34 +93,34 @@ If you turn off automatic subscription renewal, you won’t be able to turn it b
 
 7. 支払い情報を入力し、**[次へ]** を選びます。
 
-8. 注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。 Your credit card will be charged immediately.
+8. 注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。 料金は、指定したクレジットカードに即座に請求されます。
 
-9. Your order is confirmed. **[閉じる]** を選びます。
+9. 注文が確認されます。 **[閉じる]** を選びます。
 
-    Your Action Pack subscription will renew automatically each year on this date. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+    購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。 自動更新は、購入したプランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 
 
 
-### <a name="cancel-your-action-pack-subscription"></a>Cancel your Action Pack subscription
+### <a name="cancel-your-action-pack-subscription"></a>Action Pack サブスクリプションを取り消す
 
-To cancel your Microsoft Action Pack subscription, you must contact Partner Center Support.
+Microsoft Action Pack サブスクリプションを取り消す場合は、パートナー センターのサポートにご連絡ください。
 
-1. Go to https://partnercenter.microsoft.com/partner/support.
+1. https://partnercenter.microsoft.com/ja-jp/partner/support にアクセスします。
 
 2. **[パートナー センターに関する問題の報告]** を選び、次のページで **[New request]** (新しい要求) を選びます。
 
 3. **[問題点の種類]** の一覧を展開し、**[Help with partner invoice, payment, or reconciliation file]** (パートナーの請求書や支払、調整ファイルに関するヘルプ) を選びます。 
 
-4. 必要な情報を入力して **[送信]** を選びます。 The Partner Center Support team will contact you to help you cancel your subscription.
+4. 必要な情報を入力して **[送信]** を選びます。 パートナー センターのサポート チームが、サブスクリプションの取り消しについてご連絡します。
 
-    サービス要求の状態を確認するには、**[サービス要求] > [パートナー センターの要求]** を選び、**[開く]** を選びます。 Choose the appropriate service request from the list.  
+    サービス要求の状態を確認するには、**[サービス要求] > [パートナー センターの要求]** を選び、**[開く]** を選びます。 一覧から該当するサービス要求を選びます。  
 
  
-### <a name="next-steps"></a>Next steps
+### <a name="next-steps"></a>次のステップ
 
-[Activate your Action Pack subscription](manage-your-partner-network-benefits.md)
+[Action Pack サブスクリプションのアクティブ化](manage-your-partner-network-benefits.md)
 
 
-### <a name="related-topics"></a>Related topics
+### <a name="related-topics"></a>関連トピック
 
 [ユーザーの追加とアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)
 
