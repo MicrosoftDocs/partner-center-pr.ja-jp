@@ -1,13 +1,13 @@
 ---
-title: "調整ファイルの使用 | パートナー センター"
-description: "請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。"
+title: 調整ファイルの使用 | パートナー センター
+description: 請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
-ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
+ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2017
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルの使用
 
@@ -503,7 +503,7 @@ ms.lasthandoff: 12/15/2017
 </tr>
 <tr>
 <td>
-<p>Cancel instance prorate</p>
+<p>取り消し料金</p>
 </td>
 <td>
 <p>関連付けられているシートが変更されたときに顧客に払い戻される日割り料金</p>

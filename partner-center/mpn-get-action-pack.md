@@ -1,12 +1,12 @@
 ---
-title: "Action Pack を購入または更新する | Partner Center"
-description: "Microsoft Action Pack サブスクリプションを購入または更新する方法を説明します。"
+title: Action Pack を購入または更新する | Partner Center
+description: Microsoft Action Pack サブスクリプションを購入または更新する方法を説明します。
 author: MaggiePucciEvans
-ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 9213901def90384076102655a2df1c0605455d7a
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 03/09/2018
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入または更新する
 
@@ -96,6 +96,14 @@ Microsoft Action Pack サブスクリプションを取り消す場合は、パ�
 
 サービス要求の状態を確認するには、**[サービス要求] > [パートナー センターの要求]** を選び、**[開く]** を選びます。 一覧から該当するサービス要求を選びます。  
 
+## <a name="how-to-get-your-maps-invoice"></a>MAPS 請求書の取得方法
+
+Microsoft Action Pack サブスクリプションの請求書のコピーをダウンロードするには、次に示す手順に従う必要があります。
+
+1. [partnercenter.microsoft.com](https://partnercenter.microsoft.com) にログインします。 
+2. [パートナーシップ] をクリックします。 
+3. [プラン] を選び、[購入済み] をクリックします。 
+4. [請求書のダウンロード] をクリックします。
  
 ## <a name="next-steps"></a>次のステップ
 

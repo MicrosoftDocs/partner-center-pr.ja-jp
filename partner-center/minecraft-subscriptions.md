@@ -1,13 +1,13 @@
 ---
-title: "教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する"
-description: "教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する"
+title: '教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する'
+description: '教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する'
 author: KPacquer
-keywords: "認定教育パートナー"
-ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+keywords: 認定教育パートナー
+ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
+ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 02/21/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 
@@ -29,6 +29,43 @@ ms.lasthandoff: 12/02/2017
       b.  管理者が [Minecraft の詳細ページ](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)にアクセスし、アプリをダウンロードしてユーザーにアプリを配布します。 手順について詳しくは、「[IT 管理者向け: Minecraft: Education Edition を入手する: Minecraft を配布する](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)」をご覧ください。
     
   教育機関の IT 管理者がビジネス向け Microsoft Store を使い慣れていない場合は、「[ビジネス向け Microsoft Store と教育機関向け Microsoft Store の概要](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)」を案内します。 
+
+## <a name="special-pricing-for-education-offers"></a>教育機関向けプランの特別価格
+
+Microsoft は、教育、非営利、行政目的での使用や、非常に大規模なお客様など、特定のお客様に対して特別割引価格をご用意しています。 リセラーがこの価格を利用するには、事前に認定を受ける必要があります。 お客様も、特別価格の適用条件を満たす必要があります。
+
+**リセラーの認定状態を確認する**
+
+1.  
+          **[ダッシュボード]** メニューの **[アカウント設定]** を選びます。
+2.  
+          **[パートナー プロファイル]** の **[CSP プログラム情報]** セクションで **[リセラーの資格]** を参照します。
+3.  
+          **[リセラーの資格]** が表示されていない場合は、特価プランの購入が認められていません。
+
+**お客様の認定状態を確認する**
+
+1.  
+          **[ダッシュボード]** メニューの **[顧客]** を選びます。 一覧から顧客を選びます。
+2.  顧客メニューの **[アカウント]** を選びます。 
+          **[会社情報]** セクションの **[Special qualifications]** を参照します。
+3.  **[特別な資格]** が **[なし]** に設定されていても、お客様が資格条件を満たしている場合は、顧客情報を**更新**して、そのお客様を対象に含めることができます。
+
+## <a name="access-education-offers"></a>教育機関向け特価プランにアクセスする 
+
+CSP の教育機関向け特価プランを利用するには、[認定教育パートナー (AEP) になる](http://go.microsoft.com/fwlink/p/?LinkId=808781)必要があります。
+
+### <a name="purchase-offers-at-education-pricing"></a>教育機関向け価格で特価プランを購入する
+
+1. 
+          [認定教育パートナー](http://go.microsoft.com/fwlink/p/?LinkId=808781)である必要があります。
+お客様は、該当市場の[認定教育機関ユーザー](http://go.microsoft.com/fwlink/p/?LinkId=808795)の定義を満たしている必要があります。
+2. 標準の手順に従って、[新しいサブスクリプションを作成](create-a-new-subscription.md)します。 ただし、カタログから特価プランを選択するときに、[教育] タブを選択します。
+
+
+
+
+
 
 <!-- ## Purchase through Partner Center API 
 

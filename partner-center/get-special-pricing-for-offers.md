@@ -1,24 +1,32 @@
 ---
-title: "特別価格の適用を受ける | パートナー センター"
-Description: "Microsoft は、教育、非営利、行政目的での使用や、非常に大規模なお客様など、特定のお客様に対して特別割引価格をご用意しています。"
+title: 特別価格の対象となる業界への販売 | パートナー センター
+Description: Microsoft provides special, reduced pricing for select groups of customers, such as for education, non-profit, and government uses, or for very large customer sets.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 02eb734789fa27e08c5e2a42cc0f5b57428f7c06
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/09/2018
 ---
-# <a name="get-special-pricing-for-offers"></a>特別価格の適用を受ける
+# <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 
 **適用対象**
 
 -  パートナー センター
 
-Microsoft は、教育、非営利、行政目的での使用や、非常に大規模なお客様など、特定のお客様に対して特別割引価格をご用意しています。 リセラーがこの価格を利用するには、事前に認定を受ける必要があります。 お客様も、特別価格の適用条件を満たす必要があります。
+Microsoft は、教育、非営利、行政目的での使用や、非常に大規模なお客様など、特定のお客様に対して特別割引価格をご用意しています。 リセラーがこの価格で販売するには、事前に認定を受ける必要があります。 お客様も、特別価格の適用条件を満たす必要があります。
+
+|**特別価格**   |**リセラーに求められる条件**   |**顧客に求められる条件**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|教育期間向け   |[認定教育パートナー](https://www.mepn.com/MEPN/AEPHome.aspx)になる   | [認定教育機関ユーザー](https://www.microsoft.com/Licensing/licensing-programs/licensing-for-industries.aspx#tab=2)になる   |
+|政府機関向け   |[Microsoft Government Cloud Validation Form](http://azuregov.microsoft.com/csp) を使って登録|   なし|
+|非営利団体向け  |なし   |[Microsoft 非営利団体向けプログラム](https://nonprofit.microsoft.com/#/register)を通じてサインアップ   |
+
 
 **リセラーの認定状態を確認する**
 
-1.  
-          **[ダッシュボード]** メニューの **[アカウント設定]** を選びます。
+1.  **[ダッシュボード]** メニューの **[アカウント設定]** を選びます。
 2.  
           **[パートナー プロファイル]** の **[CSP プログラム情報]** セクションで **[リセラーの資格]** を参照します。
 3.  
@@ -32,25 +40,10 @@ Microsoft は、教育、非営利、行政目的での使用や、非常に大�
           **[会社情報]** セクションの **[Special qualifications]** を参照します。
 3.  **[特別な資格]** が **[なし]** に設定されていても、お客様が資格条件を満たしている場合は、顧客情報を**更新**して、そのお客様を対象に含めることができます。
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>教育機関向け特価プラン</p></td>
-<td><p>CSP の教育機関向け特価プランを利用するには、[認定教育パートナー (AEP) になる](http://go.microsoft.com/fwlink/p/?LinkId=808781)必要があります。</p>
-<p>教育機関向け価格で特価プランを購入する</strong></p>
-<ol>
-<li>
-          [認定教育パートナー](http://go.microsoft.com/fwlink/p/?LinkId=808781)である必要があります。</li>
-<li>お客様は、該当市場の[認定教育機関ユーザー](http://go.microsoft.com/fwlink/p/?LinkId=808795)の定義を満たしている必要があります。</li>
-<li>標準の手順に従って、[新しいサブスクリプションを作成](create-a-new-subscription.md)します。 ただし、カタログから特価プランを選択するときに、<strong>[教育]</strong> タブを選択します。</li>
-</ol></td>
-</tr>
-</tbody>
-</table>
+**特価プランの利用方法**
+
+リセラーとお客様の両方が特価プラン プログラムの資格条件を満たしている場合は、標準の手順に従って[新しいサブスクリプションを作成](create-a-new-subscription.md)します。 カタログに、販売できる特価プランのタブ (**[教育]** など) が表示されます。 
+
 
  
 

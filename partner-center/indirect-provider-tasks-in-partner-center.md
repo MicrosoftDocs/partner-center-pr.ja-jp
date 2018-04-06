@@ -1,12 +1,12 @@
 ---
-title: "CSP での間接リセラーとの連携 | パートナー センター"
-description: "間接プロバイダー (ディストリビューター) は、間接リセラーと連携してリーチを拡大することができます。"
+title: CSP での間接リセラーとの連携 | パートナー センター
+description: 間接プロバイダー (ディストリビューター) は、間接リセラーと連携してリーチを拡大することができます。
 author: MaggiePucciEvans
-ms.openlocfilehash: a06ba13e11ce640ca7985090125270b4b62fb447
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
+ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 03/12/2018
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携
 
@@ -72,6 +72,7 @@ CSP での間接モデルについて詳しくは、[Microsoft Partner Network W
 | **目的** | **操作** | **場所** |
 |   ------------------   |   -------   |   -----   |
 | リセラーが顧客アカウントを管理できるように設定し、サブスクリプションの管理に必要な管理者のアクセス許可をリセラーに与える | 新しい顧客を追加するときに、リセラーを顧客アカウントに関連付けます | **[新しい顧客]** ページ |
+|リセラーが Azure 顧客アカウントを管理できるようにする|新しい顧客を追加するときに、リセラーを Azure 顧客アカウントに関連付けます|**Azure サービス ポータル**で、[[ユーザー設定](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)] を選択して、間接リセラーに**テナント所有者**のアクセス許可を与えます。|
 | リセラーにインセンティブとしてクレジットを与える | リセラーを新規または既存のサブスクリプションに関連付けます | **[新しいサブスクリプション]** ページ |
 | 特定のサブスクリプションに関するカスタマー サポートをリセラーに委任する | **[指定のサポート連絡先]** の一覧からリセラーを選びます | サブスクリプションの詳細ページ: **[顧客]** ページで対象の顧客を選び、顧客の **[サブスクリプション]** ページで対象のサブスクリプションを選びます。 |
 
