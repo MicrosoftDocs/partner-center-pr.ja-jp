@@ -1,12 +1,12 @@
 ---
-title: "Microsoft Partner Network の特典の管理 | パートナー センター"
-description: "Microsoft Partner Network のメンバーには、特定のメンバーシップ特典が付与されます。 ここではパートナーセンターでメンバーシップ特典を有効にして管理する方法を説明します。"
+title: Microsoft Partner Network の特典の管理 | パートナー センター
+description: Microsoft Partner Network のメンバーには、特定のメンバーシップ特典が付与されます。 ここではパートナーセンターでメンバーシップ特典を有効にして管理する方法を説明します。
 author: MaggiePucciEvans
-ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 
@@ -14,7 +14,7 @@ ms.lasthandoff: 11/03/2017
 
 -  パートナー センター
 
-Microsoft Partner Network メンバーシップを持つパートナーには、特定の特典が付与されます。 メンバーシップ特典を購入および有効化するには、Microsoft Partner Network のメンバーである必要があります。 メンバーでない場合は、[https://partner.microsoft.com](https://partner.microsoft.com) から登録できます。
+Microsoft Partner Network メンバーシップを持つパートナーには、特定の特典が付与されます。 メンバーシップ特典を購入および有効化するには、Microsoft Partner Network のメンバーである必要があります。 ネットワークのメンバーでない場合は、[https://partner.microsoft.com](https://partner.microsoft.com) で登録できます。
 
 >**注** このリンクをクリックすると、別の Web サイトにアクセスします。 ネットワーク メンバーシップを更新してアップグレードするには、このパートナー センター サイトに戻る必要があります。
 
@@ -23,11 +23,11 @@ Microsoft Partner Network でメンバーシップを登録または更新した
 
 ## <a name="manage-your-membership-benefits"></a>メンバーシップ特典を管理する
 
-特典パッケージを購入した後は、従業員にライセンス、サブスクリプション、その他の特典を割り当てて使い始めます。 
+特典パッケージを購入した後は、使用を開始できるように、従業員にライセンス、サブスクリプション、その他の特典を割り当てる必要があります。 
 
 Action Pack サブスクリプションでは、内部使用権ソフトウェア ライセンス、クラウド サービス、Visual Studio サブスクリプション、サポートが割り当てられます。 
 
-受け取ったすべてのメンバーシップ特典を表示して管理するには、**[ダッシュ ボード]** メニューで、**[パートナーシップ] > [特典]** を選びます。 **[特典]** ページが開きます。 
+メンバーシップ特典を表示および管理するには、**[ダッシュ ボード]** メニューから **[特典]** を選択します。 **[特典]** ページが開きます。 
 
 #### <a name="manage-software-benefits"></a>ソフトウェア特典を管理する
 

@@ -1,12 +1,12 @@
 ---
-title: "パートナー センター アカウントを作成する | パートナー センター"
-description: "Microsoft Partner Network メンバーがネットワークの利点とコンピテンシーを管理してビジネス プロファイルを作成するには、パートナー センター アカウントを作成する必要があります。"
+title: パートナー センター アカウントを作成する | パートナー センター
+description: Microsoft Partner Network メンバーがネットワークの利点とコンピテンシーを管理してビジネス プロファイルを作成するには、パートナー センター アカウントを作成する必要があります。
 author: MaggiePucciEvans
-ms.openlocfilehash: 3020524ba6f41af31001a808af1d7a1aa394592a
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-a-partner-center-account"></a>パートナー センター アカウントを作成する
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 11/28/2017
 
 この記事では、パートナー様がパートナー センターのアカウントを作成する方法を説明します。ここでは、自社のパートナー ネットワーク メンバーシップ情報を Partner Membership Center からパートナー センターへ移行するパートナー様を想定します。 
 
-パートナー センターでアカウントを作成するには、貴社が Microsoft Partner Network のメンバーである必要があります。 メンバーでない場合は、[今すぐ登録](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)できます。 Microsoft Partner Network のメンバーシップについて詳しくは、[こちら](https://partner.microsoft.com/membership)をご覧ください。  
+パートナー センターでアカウントを作成するには、貴社が Microsoft Partner Network のメンバーである必要があります。 メンバーでない場合は、[今すぐ登録](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)できます。  Microsoft Partner Network のメンバーシップについて詳しくは、[こちら](https://partner.microsoft.com/membership)をご覧ください。  
 
 パートナー センター アカウントを作成すると、次のことができるようになります。
 
@@ -64,9 +64,9 @@ ms.lasthandoff: 11/28/2017
 
 5.  管理エージェント グループに追加されたことを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
-    a.  **[ダッシュボード]**メニューで、**[アカウントの設定] > [ユーザー管理]** を選び、ユーザーの一覧から貴社名を選びます。 
+    a.  **ダッシュボード**の **[設定]** アイコンを選択し、**[ユーザー管理]** を選択します。  
 
-    b.  **[管理エージェント]** が選択されていない場合は選択して **[更新]** を選びます。 
+    b.  ユーザーの一覧から自分の名前を選び、**[管理エージェント]** を選択します (まだ選択されていない場合)。 **[更新]** を選択します。  
 
 ## <a name="next-steps"></a>次のステップ
 

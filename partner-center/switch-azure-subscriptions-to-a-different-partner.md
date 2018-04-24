@@ -4,11 +4,11 @@ description: 顧客は、Microsoft Azure サービスに使う、クラウド �
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: azure サブスクリプション, パートナーの切り替え, パートナーの変更, 新しいパートナーの獲得, 別のパートナー
-ms.openlocfilehash: fa4e7128a052c291f26f9ff47101c85bcd764bc1
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
+ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 03/30/2018
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure サブスクリプションの譲渡 
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 02/21/2018
 
     パートナー センターから Azure サービス チケットを作成して、サブスクリプションの切り替えを要求します。
 
-    -   パートナー センターの [ダッシュボード] メニューで **[顧客]** を選び、一覧から顧客を選んで **[サービス管理]** を選びます。 **[サポート チケット]** セクションで **[新しいチケット]** ドロップダウン リストを選び、**[Microsoft Azure]** を選びます。
+    -   [ダッシュボード] メニューで **[顧客]** を選び、一覧から顧客を選んで **[サービス管理]** を選びます。 **[サポート チケット]** セクションで **[新しいチケット]** ドロップダウン リストを選び、**[Microsoft Azure]** を選びます。
 
     -   Azure ポータルから、**[新しいサポート要求]** を選びます。
 
@@ -57,7 +57,7 @@ ms.lasthandoff: 02/21/2018
 
     フォームを確認し、新しいパートナーに関する情報を入力して署名します。 新しい顧客が適切な契約書を持っていることを確認します。 フォームを現在の指名パートナーに送信します。
 
-    *重要*: 新しい CSP パートナーが、顧客との間に再販業者関係を持っていない場合は、サブスクリプションの切り替え前に再販業者関係を確立しておく必要があります。 [これを行う方法については、こちらをご覧ください](https://int.msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx)。
+    *重要*: 新しい CSP パートナーが、顧客との間に再販業者関係を持っていない場合は、サブスクリプションの切り替え前に再販業者関係を確立しておく必要があります。 [これを行う方法については、こちらをご覧ください](request-a-relationship-with-a-customer.md)。
 
 5.  現在のパートナーが次の操作を行います。
 

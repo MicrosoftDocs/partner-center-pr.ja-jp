@@ -1,13 +1,13 @@
 ---
-title: "Windows Autopilot でデバイスのセットアップを効率化する | パートナー センター"
-description: "Windows Autopilot でデバイスのセットアップを効率化するためにパートナー センターの Windows AutoPilot プロファイルを追加する"
+title: Windows Autopilot でデバイスのセットアップを効率化する | パートナー センター
+description: Windows Autopilot でデバイスのセットアップを効率化するためにパートナー センターの Windows AutoPilot プロファイルを追加する
 author: KPacquer
-keywords: "autopilot、windows autopilot、microsoft autopilot、ゼロタッチ展開、oobe、ログイン画面"
-ms.openlocfilehash: 061ee1cedbd3bc849419044bad022ccb12ef9b9f
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+keywords: autopilot、windows autopilot、microsoft autopilot、ゼロタッチ展開、oobe、ログイン画面
+ms.openlocfilehash: b106577ef60dba6535f89d2ef4bce4a5d19bedd9
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Windows Autopilot でデバイスのセットアップを効率化する 
 
@@ -23,7 +23,7 @@ Windows Autopilot によって、新しい Windows 10 Pro デバイスのセッ�
 ## <a name="requirements"></a>要件
 
 *  Windows 10 Pro Creators Update (バージョン 1703 以降) または Windows 10 Pro for Advanced PC がプリインストールされているデバイス
-*  ハードウェア ハッシュと呼ばれるデバイス識別子 (128 HWH または 4 k HWH)。通常、OEM によって提供されます。 識別子を使用して、パートナー センターで組織プロファイルを割り当てます。 2017 年 10 月以降、ハードウェア ハッシュが不要になります。 
+*  ハードウェア ハッシュと呼ばれるデバイス識別子 (128 HWH または 4 k HWH)。通常、OEM によって提供されます。 識別子を使用して、パートナー ダッシュボードで組織プロファイルを割り当てます。 
 *  デバイスは、インターネットにアクセスできる必要があります。 デバイスが接続できない場合、既定の Windows の out-of-box experience (OOBE) 画面が表示されます。
 *  デバイスを MDM に登録するには、Azure Active Directory Premium が必要です。
 
@@ -34,7 +34,7 @@ Windows Autopilot によって、新しい Windows 10 Pro デバイスのセッ�
 
 ## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 展開プロファイルを使用して OOBE から Windows のページを削除する
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 展開プロファイルの設定の例
+**Windows AutoPilot 展開プロファイルの設定の例**
 *  セットアップでプライバシー設定をスキップする
 *  セットアップでローカル管理者アカウントを無効にする
 *  セットアップで自動的にページをスキップする
@@ -43,19 +43,19 @@ Windows Autopilot によって、新しい Windows 10 Pro デバイスのセッ�
 
 ### <a name="add-devices-and-apply-a-profile"></a>デバイスを追加し、プロファイルを適用する
 
-パートナー センターで、Windows AutoPilot 展開プロファイルを作成し、デバイスの一覧にプロファイルを適用できます。
+ダッシュボードで、Windows AutoPilot 展開プロファイルを作成し、デバイスの一覧にプロファイルを適用できます。
 
-デバイスを構成するには、パートナー センターにデバイスの一覧をアップロードし、デバイスに適用するプロファイルを作成して適用します。
+デバイスを構成するには、デバイスの一覧をアップロードし、デバイスに適用するプロファイルを作成して適用します。
 
-1.  パートナー センターにデバイスの一覧を追加します 
+1.  デバイスの一覧を追加します。
 
-    (販売エージェントと管理エージェントが、パートナー センターにデバイスの一覧を追加するアクセス権を持っています)。
+    (販売エージェントと管理エージェントが、パートナー ダッシュボードにデバイスの一覧を追加するアクセス権を持っています)。
     
     間接リセラーは、間接プロバイダーと協力してこれを追加することができます。
 
     a.  [Windows AutoPilot の概要に関するページ](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)にあるトピックから、PowerShell スクリプトを使って .csv ファイルを作成します。 この .csv ファイルには、シリアル番号、OEM 名、モデル名、製品 ID、デバイス識別子などのデバイス情報が含まれています。 
 
-    b.  パートナー センターのダッシュボードから、**[顧客]** に移動してデバイスを受け取る顧客を選択し、**[デバイス]、[デバイスの追加]** を選択します。
+    b.   ダッシュボードから、**[顧客]** に移動してデバイスを受け取る顧客を選択し、**[デバイス] > [デバイスの追加]** を選択します。
 
     c.   デバイスのバッチに名前を付けます (例: "Contoso Sales Department PCs – April 2017 order")。 
 
@@ -63,7 +63,7 @@ Windows Autopilot によって、新しい Windows 10 Pro デバイスのセッ�
 
     **注:** .csv ファイルをアップロードしようとした後にエラー メッセージが表示される場合は、ファイルの形式を確認します。 8 月以降は、ハードウェア ハッシュのみを使う、OEM 名、シリアル番号、モデルを列の順序で使う、または Windows 製品 ID を使うことができます。 **[デバイスの追加]** の横のリンクから入手できる .csv ファイルを使うこともできます。
 
-2.  デバイスに適用できるプロファイルを作成します。 (パートナー センターで、プロファイルを作成して適用するアクセス権を持つのは管理エージェントのみです)。
+2.  デバイスに適用できるプロファイルを作成します。 (パートナー ダッシュボードで、プロファイルを作成して適用するアクセス権を持つのは管理エージェントのみです)。
 
     a.   **[デバイス]** で、**[新しいプロファイルの追加]** をクリックします。
 

@@ -1,13 +1,13 @@
 ---
-title: "パートナー センターで利用可能なサード パーティ製ソフトウェア |パートナー センター"
-description: "サード パーティ製ソフトウェアを検索して購入し、顧客に提供するポートフォリオに追加することができます。"
+title: パートナー センターで利用可能なサード パーティ製ソフトウェア |パートナー センター
+description: サード パーティ製ソフトウェアを検索して購入し、顧客に提供するポートフォリオに追加することができます。
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
-ms.openlocfilehash: ebf84fa0851bd1255a770a8ce00be3d06d45bca5
-ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
+ms.openlocfilehash: 78e586321305422d7e03153127b833b477491bf6
+ms.sourcegitcommit: 07bb4ad82a7f431ae4f04bcd488fa72e49b6ae7c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2018
+ms.lasthandoff: 03/28/2018
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>ポートフォリオにサード パーティ製ソフトウェアを追加する
 

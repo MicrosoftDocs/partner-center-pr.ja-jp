@@ -1,12 +1,13 @@
 ---
-title: "カタログのカスタマイズ | パートナー センター"
-description: "カタログは、パートナーが販売可能なすべての Microsoft 製品とアドオンの一覧です。"
+title: カタログのカスタマイズ | パートナー センター
+description: カタログは、パートナーが販売可能なすべての Microsoft 製品とアドオンの一覧です。
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
-ms.openlocfilehash: 3599d41e754e5602fbd2d82bf2c47f6e1964160a
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: a0a8cf983abdbcd08f0c7f75307ea265092182d8
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="customize-the-catalog"></a>カタログのカスタマイズ
 
@@ -20,7 +21,7 @@ ms.contentlocale: ja-JP
 
 **カタログのカスタマイズ**
 
-1.  パートナー センターで、[ダッシュボード] メニュー &gt; **[アカウント設定]** &gt; **[カタログ]** の順に移動します。
+1.  [ダッシュボード] メニュー &gt; **[販売]** &gt; **[カタログ]** に移動します。
 2.  カタログの最上部に表示されている製品を最大 5 つまで選びます。
 
  

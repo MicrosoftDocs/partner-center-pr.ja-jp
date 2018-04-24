@@ -1,18 +1,18 @@
 ---
-title: "Microsoft パートナー センターへようこそ"
-description: "Microsoft パートナー センター"
+title: Microsoft パートナー センターへようこそ
+description: Microsoft パートナー センター
 author: labrenne
-ms.openlocfilehash: 049fe3790b02a2755fe493c4eb611f7c0f99d699
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: e1161f019d6cdd5ef5d72e3006f029c60f0f7413
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="welcome-to-the-microsoft-partner-center"></a>Microsoft パートナー センターへようこそ
+# <a name="welcome-to-your-partner-dashboard"></a>パートナー ダッシュボードへようこそ
 
-Microsoft パートナー センター (このサイト) は、Microsoft のパートナー企業がビジネスの構築、管理、拡大に利用できる場所です  (このページに記載されているすべての説明が、すべてのパートナーに適用されるわけではありません。 一部の機能は段階的にロールアウトされます)。
+Microsoft パートナー ダッシュボード (このサイト) は、Microsoft のパートナー企業がビジネスの構築、管理、拡大に利用できる場所です  (このページに記載されているすべての説明が、すべてのパートナーに適用されるわけではありません。 一部の機能は段階的にロールアウトされます)。
 
-## <a name="create-an-account-on-partner-center-to"></a>パートナー センターのアカウントを作成する目的
+## <a name="create-a-partner-dashboard-account-to"></a>パートナー ダッシュボード アカウントを作成すると、次の作業が可能になります。
 
 -   Microsoft とのメンバーシップを管理する
     -   Microsoft Action Pack やその他の内部使用権メンバー特典を購入する 
@@ -35,7 +35,7 @@ Microsoft パートナー センター (このサイト) は、Microsoft のパ�
    
 
 >**重要**<br>
-パートナー センターには、次々と新しい機能が追加されています。 [新機能](whats-new-in-pc.md)に関する情報をご確認ください。
+パートナー ダッシュボードには、次々と新しい機能が追加されています。 [新機能](whats-new-in-pc.md)に関する情報をご確認ください。
 
 
 ## <a name="get-started"></a>作業の開始
@@ -46,7 +46,7 @@ Microsoft パートナー センター (このサイト) は、Microsoft のパ�
 |------------|:-------------|
 |[Microsoft Partner Network に参加する](mpn-overview.md)|Microsoft のパートナーになると、内部使用権ソフトウェア/サービスおよび Microsoft Action Pack にアクセスし、Silver および Gold コンピテンシーを獲得できます。 |
 |[クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売](csp-overview.md) | 貴社に適した CSP モデル、CSP を通じて販売できる国または地域、CSP を通じて販売できる製品またはサービスについてご確認ください。 |
-|[パートナー センターのアカウントの設定](partner-center-account-setup.md)|ユーザー アカウントの作成、プロファイルの管理、パスワードの管理、製品カタログのカスタマイズについて説明します。 |
+|[パートナー ダッシュボード アカウントの設定](partner-center-account-setup.md)|ユーザー アカウントの作成、プロファイルの管理、パスワードの管理、製品カタログのカスタマイズについて説明します。 |
 |[顧客アカウントの設定](customer-accounts.md)|ユーザーの追加、新しいアカウントの作成、顧客一覧の参照について説明します。 |
 |[他のパートナーとの連携](work-with-other-partners.md)|貴社が必要とする知識を提供できる適切なパートナーを検索する方法について説明します。 |
 
@@ -57,7 +57,7 @@ Microsoft パートナー センター (このサイト) は、Microsoft のパ�
 | **参照先**  |**説明**   |
 |------------|:-------------|
 |[Microsoft からの紹介案件の獲得によるビジネスの拡大](referrals.md)|顧客向けのビジネス プロファイルを作成し、紹介案件を受け取って対応する方法について説明します。|
-|[Power BI 用パートナー センター分析アプリ](power-bi-app-for-direct-partners.md)| 使い慣れた Microsoft Power BI ダッシュボードを使って、自社の業績を分析する方法について説明します。|
+|[Power BI 用パートナー分析アプリ](power-bi-app-for-direct-partners.md)| 使い慣れた Microsoft Power BI ダッシュボードを使って、自社の業績を分析する方法について説明します。|
 |[顧客のサブスクリプションの管理](customer-subscriptions.md)|新しいサブスクリプション、試用版サブスクリプション、ライセンスの割り当て、プロモーション、割引について説明します。|
 |[ビジネス プロファイルへのコンピテンシーの追加](learn-about-competencies.md)|専門知識の周知、コンピテンシーのオプションの理解について説明します。|
 |[請求](billing.md)|請求のシナリオ、各種の税金、Azure 支出の予算について説明します。 |

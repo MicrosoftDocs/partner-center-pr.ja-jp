@@ -1,13 +1,13 @@
 ---
-title: "Microsoft Partner Network メンバーシップ | パートナー センター"
-description: "Microsoft Partner Network に参加するメリットについて説明します。"
+title: Microsoft Partner Network メンバーシップ | パートナー センター
+description: Microsoft Partner Network に参加するメリットについて説明します。
 author: MaggiePucciEvans
-keywords: "パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ"
-ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
+keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ
+ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-microsoft"></a>Microsoft との連携
 
@@ -36,15 +36,15 @@ Microsoft Partner Network メンバーシップには、3 種類のメンバー�
     [Silver および Gold コンピテンシーの獲得について詳しく知る](https://partner.microsoft.com/membership/competencies)
 
    
-## <a name="get-started-with-partner-center"></a>パートナー センターの使用を開始する
+## <a name="get-started-with-the-partner-dashboard"></a>パートナー ダッシュボードの概要
 
-パートナー様が Microsoft との提携を簡単に行い、時間とコストを節約できるように、Microsoft では、現在複数の Web サイトやツールに分散している機能や作業フローをパートナー センター (このサイト) に移行する作業を進めています。 
+パートナー様が Microsoft との提携を簡単に行い、時間とコストを節約できるように、Microsoft では、現在複数の Web サイトやツールに分散している機能や作業フローをパートナー ダッシュボード (このサイト) に移行する作業を進めています。 
 
-特定の機能をパートナー センターに移動するプロセスで、その機能が提供されていた従来のサイトが廃止となります。 これらの機能を引き続き利用するには、パートナー センター (このサイト) でアカウントを作成する必要があります。 
+特定の機能をパートナー ダッシュボードに移動するプロセスで、その機能が提供されていた従来のサイトが廃止となります。 これらの機能を引き続き利用するには、パートナー ダッシュボード (このサイト) でアカウントを作成する必要があります。 
 
-たとえば、Pinpoint で紹介案件を受け取り、管理していた場合、Pinpoint のサイトは廃止されているため、紹介案件に関連する機能はすべて、パートナー センターに移行されています。 パートナー センターの使用を開始するには、次の手順を実行します。   
+たとえば、Pinpoint で紹介案件を受け取り、管理していた場合、Pinpoint のサイトは廃止されているため、紹介案件に関連する機能はすべて、パートナー ダッシュボードに移行されています。 パートナー ダッシュボードの使用を開始するには、次の手順を実行します。   
 
--   [パートナー センター アカウントを作成する](mpn-create-a-partner-center-account.md)
+-   [パートナー ダッシュボード アカウントを作成すると、次の作業が可能になります。](mpn-create-a-partner-center-account.md)
 
 -   [ビジネス プロファイルを作成して顧客紹介を受け取る](create-a-marketing-profile.md)
 

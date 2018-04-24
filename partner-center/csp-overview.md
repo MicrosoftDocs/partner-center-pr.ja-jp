@@ -1,13 +1,13 @@
 ---
-title: "クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 | パートナー センター"
-description: "クラウド ソリューション プロバイダー プログラムは、新規顧客および新しい専門分野の追加によってビジネスの拡大に役立ちます。"
+title: クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 | パートナー センター
+description: クラウド ソリューション プロバイダー プログラムは、新規顧客および新しい専門分野の追加によってビジネスの拡大に役立ちます。
 author: labrenne
-keywords: "クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナ, CSP での販売, 直接パートナー, CSP 直接パートナー, CSP 間接リセラー, 直接 CSP, 間接 CSP, 直接モデル, 間接モデル, 間接リセラー, 間接プロバイダー, プロバイダー, ディストリビューター, クラウド ソリューション プロバイダー プログラム"
-ms.openlocfilehash: 1096e07df5f60c25a0e7b52ba1a2ded5cf8a4a56
-ms.sourcegitcommit: 083ac574b9e30a7b28c86a261f33d7976a4afea5
+keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナ, CSP での販売, 直接パートナー, CSP 直接パートナー, CSP 間接リセラー, 直接 CSP, 間接 CSP, 直接モデル, 間接モデル, 間接リセラー, 間接プロバイダー, プロバイダー, ディストリビューター, クラウド ソリューション プロバイダー プログラム
+ms.openlocfilehash: 1e23de4014e9d3dd85134c17e60dfeacc8acf9d7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 
 
@@ -24,9 +24,9 @@ ms.lasthandoff: 02/01/2018
 
 ## <a name="which-csp-model-is-best-for-me"></a>貴社に適した CSP モデル
 
-### <a name="direct-model"></a>直接モデル
+### <a name="direct-bill-model"></a>直接請求モデル
 
- 直接モデルでは、パートナーが Microsoft 製品およびサブスクリプションを直接 Microsoft から購入し、自社の営業担当者が直接、顧客に販売します。 適切な販売インフラストラクチャ、請求インフラストラクチャ、およびサポート インフラストラクチャを既に使用している場合や、これらの構築を予定している場合は、CSP 直接モデルの方が適しています。 CSP 直接モデルに最適なパートナーは、以下の前提条件を満たす必要があります。
+ 直接請求モデルでは、パートナーが Microsoft 製品およびサブスクリプションを直接 Microsoft から購入し、自社の営業担当者が直接、顧客に販売します。 適切な販売インフラストラクチャ、請求インフラストラクチャ、およびサポート インフラストラクチャを既に使用している場合や、これらの構築を予定している場合は、CSP 直接モデルの方が適しています。 CSP 直接モデルに最適なパートナーは、以下の前提条件を満たす必要があります。
 - 販売活動を行う国または地域で有効な Microsoft Partner Network (MPN) ID
 - 既存の顧客サポート インフラストラクチャ
 - 既存の顧客請求インフラストラクチャ
@@ -48,7 +48,7 @@ ms.lasthandoff: 02/01/2018
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>CSP プログラムで販売できる製品またはサービス
 
-すべての [Microsoft クラウド サービス](https://partner.microsoft.com/cloud-solution-provider/products-and-services)と、その他のさまざまな製品またはサービス (頻繁に変更あり) を販売できます。 当月 CSP で販売可能な製品またはサービスを確認するには、パートナー センターにサインインし、「[**料金とプラン**](https://partnercenter.microsoft.com/pcv/sales)」のページをご覧ください。
+すべての [Microsoft クラウド サービス](https://partner.microsoft.com/cloud-solution-provider/products-and-services)と、その他のさまざまな製品またはサービス (頻繁に変更あり) を販売できます。 当月 CSP で販売可能な製品またはサービスを確認するには、パートナー ダッシュボードにサインインし、「[**料金とプラン**](https://partnercenter.microsoft.com/pcv/sales)」のページをご覧ください。
 
 ## <a name="see-also"></a>関連項目 
 
@@ -59,5 +59,5 @@ ms.lasthandoff: 02/01/2018
 |Microsoft ナショナル クラウドでの販売   | [Microsoft ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)|
 |販売できる製品と場所   |[Microsoft クラウド ソリューション プロバイダーの市場および顧客契約](agreements.md)|
 |  | [CSP でのテナント戦略](regional-authorization-overview.md)
-|パートナー センターでの間接プロバイダーの作業  |[クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携](indirect-provider-tasks-in-partner-center.md)|
-|パートナー センターでの間接リセラーの作業   |[クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携](indirect-reseller-tasks-in-partner-center.md)|
+|パートナー ダッシュボードでの間接プロバイダーの作業  |[クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携](indirect-provider-tasks-in-partner-center.md)|
+|パートナー ダッシュボードでの間接リセラーの作業   |[クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携](indirect-reseller-tasks-in-partner-center.md)|

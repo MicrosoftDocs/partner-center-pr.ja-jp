@@ -1,14 +1,14 @@
 ---
-title: "CSP パートナー向けの Cloudyn 製 Azure Cost Management |パートナー センター"
-description: "Cloudyn が提供する Azure Cost Management を使用するには、パートナー センター API へのアクセスをプロビジョニングする必要があります。"
+title: CSP パートナー向けの Cloudyn 製 Azure Cost Management |パートナー センター
+description: Cloudyn が提供する Azure Cost Management を使用するには、パートナー センター API へのアクセスをプロビジョニングする必要があります。
 author: Janet
 Keywords: Azure cost management app, manage costs, web apps
-robots: 
-ms.openlocfilehash: 3d122e0f88867d16df3713f79e735126b7f40dd4
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+robots: ''
+ms.openlocfilehash: 01553b850d5839d721de5406c3f1c63094f76bd6
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure を販売する CSP パートナー様向けの Azure コスト管理アプリ  
 
@@ -21,15 +21,15 @@ ms.lasthandoff: 12/21/2017
 ## <a name="before-you-begin"></a>前提条件
 Azure Cost Management を使用する前に、次の要件を満たしていることを確認してください。
 - クラウド ソリューション プロバイダー プログラムのパートナー様であること。
-- パートナー センター API Web アプリを作成できること。
+- パートナー ダッシュボード API Web アプリを作成できること。
 
 ## <a name="overview"></a>概要
 
-Cloudyn が提供する Azure cost management は、お客様による Azure の使用量とその使用量に対応するコストを追跡、管理できる Web アプリです。 このアプリは、パートナー センター API 経由で使用します。
+Cloudyn が提供する Azure cost management は、お客様による Azure の使用量とその使用量に対応するコストを追跡、管理できる Web アプリです。 このアプリは、パートナー ダッシュボード API 経由で使用します。
 
-## <a name="register-your-web-app-in-partner-center"></a>パートナー センターで Web アプリを登録する
-パートナー センターで Azure Active Directory Web アプリを登録すると、アプリがパートナー センター API にアクセスできるようになります。 
-1.  [グローバル管理者または管理エージェント アカウント](create-user-accounts-and-set-permissions.md)を使って、[パートナー センター](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)にサインインします。
+## <a name="register-your-web-app-in-the-partner-dashboard"></a>パートナー ダッシュボード Web アプリを登録する
+パートナー ダッシュボードで Azure Active Directory Web アプリを登録すると、アプリがパートナー ダッシュボード API にアクセスできるようになります。 
+1.  [全体管理者または管理エージェント アカウント](create-user-accounts-and-set-permissions.md)を使って、[パートナー ダッシュボード](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)にサインインします。
 2.  **[ダッシュボード]** で、**[アカウント設定]** &gt; **[[アプリ管理]](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** を選びます。
 3.  **[Web アプリ]** セクションで、**[新しいアプリの追加]** をクリックします。
 <br> **注**: 既にアプリを作成済みの場合は、手順 3 を省略することができます。
@@ -44,7 +44,7 @@ Cloudyn が提供する Azure cost management は、お客様による Azure の
 ## <a name="next-steps"></a>次のステップ
 [30 日間無料試用版](https://go.microsoft.com/fwlink/?linkid=857895) をご利用ください。
 試用を開始するには、次の情報が必要です。
-- パートナー センターのログイン資格情報
+- パートナー ダッシュボードのサインイン資格情報
 - 商取引 ID GUID
 - アプリ ID GUID
 - アプリケーションの秘密キーの値

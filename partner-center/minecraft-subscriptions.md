@@ -3,11 +3,11 @@ title: '教育機関のお客様に Minecraft: Education Edition サブスクリ
 description: '教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する'
 author: KPacquer
 keywords: 認定教育パートナー
-ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 276e5365eec99468becf9522284c6048f3750011
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 
@@ -36,8 +36,7 @@ Microsoft は、教育、非営利、行政目的での使用や、非常に大�
 
 **リセラーの認定状態を確認する**
 
-1.  
-          **[ダッシュボード]** メニューの **[アカウント設定]** を選びます。
+1.  **[ダッシュボード]** の右上から **[設定]** を選択し、**[View all settings]** (すべての設定を表示) を選択します。
 2.  
           **[パートナー プロファイル]** の **[CSP プログラム情報]** セクションで **[リセラーの資格]** を参照します。
 3.  

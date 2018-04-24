@@ -1,12 +1,13 @@
 ---
-title: "パートナー プロファイルの更新 | パートナー センター"
-description: "管理者として初めてパートナー センターにログインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。"
+title: パートナー プロファイルの更新 | パートナー センター
+description: 管理者として初めてサインインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.openlocfilehash: 007401c88d64c7201c23c0c64bb84a9c47dcdf92
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 4e6f1fb61d48c6fa73bfa5966c53a72fc2cfe38f
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="update-your-partner-profile"></a>パートナー プロファイルの更新
 
@@ -20,7 +21,7 @@ ms.contentlocale: ja-JP
 
 **サポートの詳細を更新する**
 
-1.  パートナー センターで、[ダッシュボード] メニュー &gt; **[アカウント設定]** &gt; **[パートナー プロファイル]** の順に移動します。
+1.  **[設定]** &gt; **[View all settings]** (すべての設定を表示) &gt; **[パートナー プロファイル]** に移動します。
 2.  **[サポート]** セクションで、**[更新]** を選びます。
 3.  サポートが必要な顧客が Microsoft に連絡してきた場合、Microsoft は貴社のサポート プロファイルに記載の Web サイト、メール アドレス、および電話番号を伝えます。
 
@@ -30,7 +31,7 @@ ms.contentlocale: ja-JP
 
 **プロファイル情報を確認する**
 
-1.  パートナー センターで、[ダッシュボード] メニュー &gt; **[アカウント設定]** の順に移動します。
+1.  **[設定]** &gt; **[View all settings]** (すべての設定を表示) に移動します。 
 2.  **[パートナー プロファイル]**、**[課金プロファイル]**、および **[組織プロファイル]** を確認します。
 
  

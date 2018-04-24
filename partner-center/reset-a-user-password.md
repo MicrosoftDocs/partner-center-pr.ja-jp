@@ -1,11 +1,13 @@
 ---
-title: "ユーザー パスワードをリセットする |パートナー センター"
-description: "ユーザーがパスワードを忘れた場合、新しい一時的なパスワードを割り当てることができます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。"
+title: ユーザー パスワードをリセットする |パートナー センター
+description: ユーザーがパスワードを忘れた場合、新しい一時的なパスワードを割り当てることができます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 5f0c1914bf1627f8175f2db9a31469a08159fce7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="reset-a-user-password"></a>ユーザー パスワードをリセットする
 
@@ -19,7 +21,7 @@ translationtype: HT
 
 **管理者としてユーザーのパスワードをリセットする**
 
-1.  パートナー センターで、[ダッシュボード] メニュー &gt; **[アカウント設定]** &gt; **[ユーザー管理]** の順に移動します。
+1.  **[設定]** &gt; **[ユーザー管理]** に移動します。
 2.  ユーザーを一覧から選びます。
 
 3.  ページの下部にある **[パスワードのリセット]** を選びます。

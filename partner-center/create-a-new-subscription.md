@@ -4,11 +4,11 @@ description: パートナー センターで顧客のレコードを作成した
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
-ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
+ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
@@ -18,9 +18,9 @@ ms.lasthandoff: 03/01/2018
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-パートナー センターで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。
+パートナー ダッシュボードで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。
 
-一部のプランでは、顧客ごとに保有できるサブスクリプションが 1 つに限られていることに注意してください。 制限のあるオファーの一覧を確認するには、パートナー センターの [料金とプラン] ページをご覧ください。 
+一部のプランでは、顧客ごとに保有できるサブスクリプションが 1 つに限られていることに注意してください。 制限のあるオファーの一覧を確認するには、パートナー ダッシュボードの [料金とプラン] ページをご覧ください。 
 
 
 **新しいサブスクリプションを作成する**

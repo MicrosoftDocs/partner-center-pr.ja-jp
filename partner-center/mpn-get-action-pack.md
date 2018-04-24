@@ -2,11 +2,11 @@
 title: Action Pack を購入または更新する | Partner Center
 description: Microsoft Action Pack サブスクリプションを購入または更新する方法を説明します。
 author: MaggiePucciEvans
-ms.openlocfilehash: 9213901def90384076102655a2df1c0605455d7a
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.openlocfilehash: 07a5591b154d77542a97a93ea2e99741542f2ec6
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入または更新する
 
@@ -25,54 +25,56 @@ Action Pack は、サービス、ソフトウェア、サポートを手頃な�
 
 - 毎月、Microsoft Azure クレジットを付与
 
-Microsoft Action Pack に含まれる特典について詳しくは、「[Microsoft Action Pack サブスクリプション特典](mpn-action-pack-subscription-benefits.md)」をご覧ください。 
+Action Pack については、Microsoft Partner Network サイトで以下のページをご覧ください。 
+
+-   [Microsoft Action Pack とは](https://partner.microsoft.com/membership/action-pack)
+
+-   [Action Pack に含まれる特典](https://partner.microsoft.com/membership/core-benefits)
+
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入する
 
-1. **[ダッシュボード]** メニューで、**[パートナーシップ] > [プラン]** を選びます。 **[利用可能なプラン]** で Microsoft Action Pack を選びます。 **[今すぐ登録]** を選びます。 
+1. **[ダッシュボード]** メニューで、**[Membership offers]** (メンバーシップ特典) を選びます。 **[利用可能なプラン]** で Microsoft Action Pack を選びます。 
 
-2. **[次へ]** を選んで、Microsoft Partner Network で付与される内部使用権の[諸条件](https://go.microsoft.com/fwlink/?linkid=842232)に同意します。  
+2. **[今すぐ登録]** を選び、お支払い方法を選びます。 お支払いにはクレジット カードまたは電信振替を使用できます。 
 
-3. **[次へ]** を選んで、支払い情報を追加します。 
+    >**重要**<br> お支払いの際には、Microsoft から許諾される内部使用権の[諸条件](https://go.microsoft.com/fwlink/?linkid=842232)への同意が必要になります。 
 
-4. 支払情報の入力が必要な場合は、**[開始するにあたり、支払方法を追加してください。]** を選びます。 
+3. クレジット カードによるお支払いの場合は、クレジット カード情報を追加するための手順に従ってください。 
 
-5. 支払い情報を入力し、**[次へ]** を選びます。
+    電信振替によるお支払いの場合は、連絡先名、電話番号、メール アドレスを指定して **[送信]** を選びます。  
+4. 注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。 料金は、指定したクレジットカードに即座に請求されます。
 
-6. 注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。 料金は、指定したクレジットカードに即座に請求されます。
-
-7. 注文が確認されます。 **[閉じる]** を選びます。
+5. 注文が確認されます。 **[閉じる]** を選びます。
 
 購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。 自動更新は、購入したプランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 
 
 
 ## <a name="renew-your-action-pack-subscription"></a>Action Pack サブスクリプションを更新する
 
-1. **[ダッシュボード]** メニューで、**[パートナーシップ] > [プラン]** を選びます。  
+1. **[ダッシュボード]** メニューで、**[Membership offers]** (メンバーシップ特典) を選びます。  
 
-2. **[購入済み]** を選び、Action Pack のタイルを探します。 **[操作]** の下で **[サブスクリプションの更新]** を選びます。  
+2. **[購入済み]** を選び、Action Pack のタイルを探します。  
 
-3. 注文の詳細を確認し、**[次へ]** を選びます。
+3. **[サブスクリプションの更新]** を選び、お支払い方法を選びます。 お支払いにはクレジット カードまたは電信振替を使用できます。 
 
-4. **[次へ]** を選んで、Microsoft Partner Network で付与される内部使用権の諸条件に同意します。  
+    >**重要**<br> お支払いの際には、Microsoft から許諾される内部使用権の[諸条件](https://go.microsoft.com/fwlink/?linkid=842232)への同意が必要になります。 
 
-5. **[次へ]** を選んで、支払い情報を追加します。 
+3. クレジット カードによるお支払いの場合は、クレジット カード情報を追加するための手順に従ってください。 
 
-6. 支払情報の入力が必要な場合は、**[開始するにあたり、支払方法を追加してください。]** を選びます。 
+    電信振替によるお支払いの場合は、連絡先名、電話番号、メール アドレスを指定して **[送信]** を選びます。 
 
-7. 支払い情報を入力し、**[次へ]** を選びます。
+ 4. 注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。 料金は、指定したクレジットカードに即座に請求されます。
 
-8. 注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。 料金は、指定したクレジットカードに即座に請求されます。
-
-9. 注文が確認されます。 **[閉じる]** を選びます。
+5. 注文が確認されます。 **[閉じる]** を選びます。
 
 購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。 自動更新は、購入したプランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 
 
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack サブスクリプションの自動更新を無効にする
 
-1. **[ダッシュボード]** メニューで、**[パートナーシップ] > [プラン]** を選びます。 
+1. **[ダッシュボード]** メニューで、**[Membership offers]** (メンバーシップ特典) を選びます。 
 
 2. **[購入済み]** を選び、**[Microsoft Action Pack サブスクリプション]** を選んでサブスクリプションの詳細を表示します。 
 
@@ -84,26 +86,31 @@ Microsoft Action Pack に含まれる特典について詳しくは、「[Micros
 
 ## <a name="cancel-your-action-pack-subscription"></a>Action Pack サブスクリプションを取り消す
 
-Microsoft Action Pack サブスクリプションを取り消す場合は、パートナー センターのサポートにご連絡ください。
+Microsoft Action Pack サブスクリプションを取り消すには、パートナー サポートへのご連絡が必要になる場合があります。
 
-1. https://partnercenter.microsoft.com/ja-jp/partner/support にアクセスします。
+1. **[ダッシュボード]** メニューで、**[Membership offers]** (メンバーシップ特典) を選びます。 
 
-2. **[パートナー センターに関する問題の報告]** を選び、次のページで **[New request]** (新しい要求) を選びます。
+2. **[購入済み]** を選び、Action Pack のタイルを見つけます。
 
-3. **[問題点の種類]** の一覧を展開し、**[Help with partner invoice, payment, or reconciliation file]** (パートナーの請求書や支払、調整ファイルに関するヘルプ) を選びます。 
+3. **[サブスクリプションのキャンセル]** を選びます。 サポート要求を作成するための手順に従います。 
 
-4. 必要な情報を入力して **[送信]** を選びます。 パートナー センターのサポート チームが、サブスクリプションの取り消しについてご連絡します。
+4. サポート要求フォームで、要求を適切にルーティングするための値を次のように選択します。
 
-サービス要求の状態を確認するには、**[サービス要求] > [パートナー センターの要求]** を選び、**[開く]** を選びます。 一覧から該当するサービス要求を選びます。  
+    -  **[パートナー ダッシュボードに関する問題を報告する]** を選び、次のページで **[新しい要求]** を選びます。
 
-## <a name="how-to-get-your-maps-invoice"></a>MAPS 請求書の取得方法
+    -  **[問題点の種類]** の一覧を展開し、**[Help with partner invoice, payment, or reconciliation file]** (パートナーの請求書や支払、調整ファイルに関するヘルプ) を選びます。 
 
-Microsoft Action Pack サブスクリプションの請求書のコピーをダウンロードするには、次に示す手順に従う必要があります。
+5. 必要な情報を入力して **[送信]** を選びます。 パートナー ダッシュボードのサポート チームから、サブスクリプションの取り消しについて連絡があります。
 
-1. [partnercenter.microsoft.com](https://partnercenter.microsoft.com) にログインします。 
-2. [パートナーシップ] をクリックします。 
-3. [プラン] を選び、[購入済み] をクリックします。 
-4. [請求書のダウンロード] をクリックします。
+サービス要求の状態を確認するには、**[アカウント設定]** メニューの **[パートナー センターの要求]** を選び、**[開く]** を選びます。 一覧から該当するサービス要求を選びます。  
+
+## <a name="download-your-action-pack-invoice"></a>Action Pack 請求書のダウンロード
+
+1. **[ダッシュボード]** メニューで、**[Membership offers]** (メンバーシップ特典) を選びます。  
+
+2. **[購入済み]** を選び、Action Pack のタイルを見つけます。 
+
+3. **[請求書のダウンロード]** を選択します。
  
 ## <a name="next-steps"></a>次のステップ
 

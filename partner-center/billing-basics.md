@@ -3,11 +3,11 @@ title: 課金の基本 | パートナー センター
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
-ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="billing-basics"></a>課金の基本
 
@@ -53,7 +53,7 @@ ms.lasthandoff: 02/28/2018
 <tr class="even">
 <td>請求書の可用性</td>
 <td><ul>
-<li>請求書と調整ファイルは、パートナー センターの [請求書作成] ページで表示およびダウンロードできます。 パートナー センターでは、選択した請求日の 4 日以内であれば、毎月の請求書を確認できます。</li>
+<li>請求書と調整ファイルは、パートナー ダッシュボードの [請求書作成] ページで表示およびダウンロードできます。 パートナー ダッシュボードでは、選択した請求日の 4 日以内であれば、毎月の請求書を確認できます。</li>
 </ul></td>
 </tr>
 <tr class="odd">
