@@ -1,8 +1,8 @@
 ---
-title: "Azure Partner Shared Services の追加 | パートナー センター"
-description: "CSP パートナー様が、自身で使用するための Azure サブスクリプションを購入できるようになりました。"
+title: Azure Partner Shared Services の追加 | パートナー センター
+description: CSP パートナー様が、自身で使用するための Azure サブスクリプションを購入できるようになりました。
 author: labrenne
-Keywords: "Azure, Shared Services, テナント"
+Keywords: Azure, Shared Services, テナント
 ms.openlocfilehash: 859e4a1b08e26f2370493ad611a6126b74aeaf64
 ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
