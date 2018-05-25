@@ -3,11 +3,11 @@ title: 調整ファイルの使用 | パートナー センター
 description: 請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルの使用
 
@@ -204,7 +204,7 @@ ms.lasthandoff: 02/28/2018
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。</p></td>
+<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -448,7 +448,7 @@ ms.lasthandoff: 02/28/2018
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。</p></td>
+<td><p>顧客のドメイン名。顧客を特定するために使用します。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -458,6 +458,34 @@ ms.lasthandoff: 02/28/2018
 </tr>
 </tbody>
 </table>
+
+## <a href="" id="onetimefiles"></a>1 回限りの購入ファイルのフィールド
+
+|**フィールド** |**説明**|
+|:----------------|:-----------------------------|
+|PartnerId |GUID 形式のパートナー ID。 |
+|CustomerId |顧客を識別するために使用される、GUID 形式の一意の Microsoft ID。 |
+|CustomerName |パートナー センターで報告される顧客の組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。 |
+|CustomerDomainName |顧客のドメイン名。 |
+|CustomerCountry |顧客の在住国。 |
+|InvoiceNumber |指定されたトランザクションが含まれる請求書番号。 |
+|MpnId |CSP パートナー (直接または間接) の MPN ID。 |
+|Reseller MPN ID |間接モデルのパートナーの調整ファイルにのみ表示されます。 予約に対する登録リセラーの MPN ID。 これは、パートナー センターで特定の予約について示されるリセラー ID に対応します。 CSP パートナーが直接お客様に予約を販売した場合、パートナーの MPN ID が MPN ID とリセラーの MPN ID として 2 か所に表示されます。 CSP パートナーのリセラーに MPN ID がない場合は、代わりに CSP パートナーの MPN ID がこの値に設定されます。 CSP パートナーがリセラー ID を削除した場合、この値は -1 に設定されます。 |
+|OrderId |Microsoft 請求プラットフォームでの注文の一意の識別子。 サポートに問い合わせる際に、Azure 予約の識別に有効な場合がありますが、調整用ではありません。 |
+|OrderDate |注文が作成された日付。 |
+|ProductId |製品の ID。 |
+|SkuId  |特定 SKU の ID。 |
+|AvailabilityId |特定の可用性 の ID。 "可用性" とは、特定の国、通貨、業界などで特定の SKU を購入可能かどうかを指します。 |
+|SkuName  |特定 SKU のタイトル。 |
+|ProductName |製品の名前。 |
+|ChargeType |課金または調整の種類。 |
+|UnitPrice |注文された製品ごとの価格。 |
+|Quantity |注文された製品の数。 |
+|Subtotal |合計額 (税抜)。 割引の場合、小計が、予想される合計と一致することを確認します。 |
+|TaxTotal |該当するすべての税額の合計。 |
+|Total |この購入の合計金額。 |
+|Currency |通貨の種類。 各課金エンティティの通貨は 1 つのみです。 最初の請求書と一致し、その後で、主要な課金プラットフォームの更新と一致することを確認します。 |
+|DiscountDetails |関連する割引の詳細を示す一覧。 |
 
 
 

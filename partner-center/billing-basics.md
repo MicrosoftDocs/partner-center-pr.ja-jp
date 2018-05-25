@@ -3,11 +3,11 @@ title: 課金の基本 | パートナー センター
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
-ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="billing-basics"></a>課金の基本
 
@@ -144,3 +144,32 @@ Azure は "従量" モデルで運用され、使用した Azure サービスに
 </tbody>
 </table>
 
+## <a name="one-time-billing"></a>1 回限りの請求
+
+クラウド ソリューション プロバイダー (CSP) プログラムのパートナーは、Microsoft Azure Virtual Machines 上の予約インスタンスを顧客に提供できます。 顧客は、事前に仮想マシンを (1 年または 3 年の期間で) 予約して、Azure の使用料を大きく節約できます。   
+
+顧客は、Azure Reserved VM Instances の支払いを事前に行います。 顧客の代わりに Azure Reserved VM Instances を購入した場合は、このような 1 回限りの料金に対する請求書と調整ファイルが届きます。 
+
+>[!IMPORTANT]
+>通貨が異なる市場の顧客用に Azure Reserved VM Instances を購入する場合、既定の請求通貨はパートナーではなく顧客の市場がベースになります。 顧客が複数の市場に存在する場合は、顧客への請求が必要な各通貨について、個別の請求書と調整ファイルが届き、適切な通貨で顧客に請求できます。 
+
+1 回限りの料金の請求書と調整ファイルにアクセスするには、パートナー ダッシュボードから **[請求]**、**[1 回]** の順に選択します。 
+
+### <a name="manage-your-one-time-billing"></a>1 回限りの請求を管理する
+
+#### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>現在の請求の状態、請求書、調整ファイルを表示する
+
+1.  パートナー ダッシュ ボードで **[請求]**、**[1 回]** の順に選択して、請求の状態を表示します。 
+2.  請求書または調整ファイルを選択して、詳細な情報を確認します。 
+
+#### <a name="view-a-customers-order-history"></a>顧客の注文履歴を表示する
+
+1.  [ダッシュボード] メニューで **[顧客]** を選択します。
+2.  **[顧客]** ページで、注文履歴を表示する対象の顧客を見つけ、下矢印を選択して顧客レコードを展開します。 
+3.  **[View orders]** (注文の表示) を選択して注文履歴を表示します。
+
+#### <a name="create-a-credit-or-void-note"></a>クレジット ノートまたは取り消し票を作成する
+
+必要に応じて、請求書を無効にして新しい請求書を発行することがあります。 たとえば、顧客が会社の名前を変更した後で、以前の名前で請求書を受け取った場合などです。 
+
+請求書を無効にし、新しい請求書を発行するには、請求ページの調整欄からフォームをダウンロードします。

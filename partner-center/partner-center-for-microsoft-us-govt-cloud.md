@@ -1,12 +1,12 @@
 ---
-title: "米国政府機関向け Microsoft Cloud のパートナー センター | 米国政府機関向け Microsoft Cloud のパートナー センター"
-description: "米国政府機関向け Microsoft Cloud のパートナー センターは、米国内で政府機関とのビジネスを行う顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。"
+title: 米国政府機関向け Microsoft Cloud のパートナー センター | 米国政府機関向け Microsoft Cloud のパートナー センター
+description: 米国政府機関向け Microsoft Cloud のパートナー センターは、米国内で政府機関とのビジネスを行う顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。
 author: MaggiePucciEvans
-ms.openlocfilehash: 829c1cdc6568c1bde2e2fff594632acd90a4ee16
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+ms.openlocfilehash: 4f2fb444b3d0fe47b53b58429f5afb14bf00ed3b
+ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 04/18/2018
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センター
 
@@ -51,3 +51,5 @@ ms.lasthandoff: 11/10/2017
 ユーザーとライセンスの管理の詳細については、「[米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)」を参照してください。
 
 米国政府機関向け Microsoft Cloud の CSP への登録の詳細については、「[米国政府機関向け Microsoft Cloud の CSP への登録](enroll-in-csp-for-microsoft-us-govt-cloud.md)」を参照してください。
+
+よく寄せられる質問については、「[Microsoft Cloud for US Government の CSP プログラムについてよく寄せられる質問](faq-for-us-govt-cloud.md)」をご覧ください。
