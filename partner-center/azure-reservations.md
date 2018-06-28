@@ -3,11 +3,12 @@ title: Microsoft Azure VM 予約の概要 | パートナー センター
 Description: Overview of selling Microsoft Azure Reserved VM Instances in CSP.
 author: v-petand
 keywords: Azure, 予約, VM, 管理, 請求, 購入, Azure RI, Azure Reserved VM Instances
-ms.openlocfilehash: 9fac5749fda6106772d8fed28a320432206d528c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 65306d265c88769c83a948a192bc96b2a0a76294
+ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 06/05/2018
+ms.locfileid: "1978569"
 ---
 # <a name="sell-microsoft-azure-reserved-vm-instances"></a>Microsoft Azure Reserved VM Instances の販売 
 
@@ -25,6 +26,15 @@ ms.lasthandoff: 05/11/2018
 -   組織レベルまたは個々の部署レベルで予約インスタンスの使用状況を管理できます。 
 
 Azure Reserved VM Instances について詳しくは、Microsoft Azure Web サイトの [Azure Reserved VM Instances 製品のページ](https://azure.microsoft.com/pricing/reserved-vm-instances/)と「[Better together: Azure Reserved VM Instances and server subscriptions](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/)」(Azure Reserved VM Instances とサーバー サブスクリプションの相乗効果) をご覧ください。
+
+> [!NOTE]  
+> 次の市場では Azure Reserved VM Instances は使用できません。  
+> * ブラジル  
+> * 中国  
+> * インド  
+> * ロシア  
+> * 韓国  
+> * 台湾  
 
 Azure Reserved VM Instances には、顧客から見て以下のようなメリットがあります。
 

@@ -4,11 +4,12 @@ description: 発生している可能性があるクリプトマイニングに�
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
-ms.openlocfilehash: 1e7e695ec19600fd1f32138982c8f609db168cc7
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
+ms.openlocfilehash: 5b96f3d5adf717eae6d4dc739e9678b69300a4b4
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936201"
 ---
 # <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>クリプトマイニング (仮想通貨の採掘) アクティビティに関するパートナー ダッシュボード通知
 
@@ -44,6 +45,16 @@ ms.lasthandoff: 05/10/2018
 
 クリプトマイニング アクティビティの検出はヒューリスティックに基づいたものであり、100% 正確ではない可能性があります。 不正行為やその他の許可されていないアクティビティに対する保護を行うには、ガバナンスと監視のシステムを備えてください。 詳しくは、「[未払い、詐欺、不正使用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)」をご覧ください。
 
+通知に関してご質問や懸念がある場合、次の手順でサポート要求を開くことができます。
+
+1.  ダッシュボードで、**[サポート]** を選択し、**[パートナー センターの要求]** を選択します。
+3.  **[新しい要求]** を選びます。 
+4.  **[問題の種類]** ドロップダウン メニューで、**[顧客の追加または管理]** を選択します。
+5.  **[影響]** ドロップダウンで、**[標準]** を選択します。
+6.  **[タイトル]** フィールドに、**クリプトマイニング通知**と入力します。
+7.  **[説明]** フィールドに、影響するサブスクリプション名と、他の質問や懸念点を入力します。 
+8.  ご自身の連絡先情報を入力します。
+9.  **[送信]** を選びます。
 
 
 

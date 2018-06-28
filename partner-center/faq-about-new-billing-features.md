@@ -3,11 +3,12 @@ title: 新しい請求機能についてよく寄せられる質問 | パート�
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
-ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
+ms.openlocfilehash: 9cb79ba60c06d273bcf2d6435d9146c4920b3ace
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2018
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936231"
 ---
 # <a name="faq-about-new-billing-features"></a>新しい請求機能についてよく寄せられる質問
 
@@ -661,6 +662,6 @@ Microsoft 請求システムでは、サブスクリプションの締日であ�
 
 |**課金開始**   |**課金終了**   |**単価**   |**数量**   |**金額**   |**請求の種類** |
 |-----------------|:-------------|:----------------|:------------|:------|------|
-|2018/6/1   | 2018/6/30   |$30   |1   |$30  |購入時の日割り料金 |
+|2018 年 5 月 29 日   | 2018 年 6 月 30 日   |$30   |1   |$30  |購入時の日割り料金 |
 
 サブスクリプションは 2019 年 6 月 1日に自動更新されます。
