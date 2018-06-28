@@ -4,6 +4,7 @@
 ## [Microsoft Action Pack を購入する](mpn-get-action-pack.md)
 ## [Silver または Gold メンバーシップを取得する](learn-about-competencies.md)
 ## [メンバーシップ特典を取得する](manage-your-partner-network-benefits.md)
+## [MPN プランを更新する](renew-mpn-offers.md)
 
 
 # [クラウド ソリューション プロバイダー](csp-overview.md)
