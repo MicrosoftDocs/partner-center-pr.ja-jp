@@ -1,127 +1,119 @@
 ---
-title: Action Pack を購入または更新する | Partner Center
-description: Microsoft Action Pack サブスクリプションを購入または更新する方法を説明します。
+title: Microsoft Action Pack を購入または更新する | パートナー センター
+description: Microsoft Action Pack を初めて購入する方法または更新する方法を説明します。
 author: MaggiePucciEvans
-ms.openlocfilehash: 07a5591b154d77542a97a93ea2e99741542f2ec6
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: Action Pack、MAPS、MAPS の更新、Action Pack の更新、Action Pack の購入
+ms.openlocfilehash: 709966b80a0e8f39c3dbc70da16c9928df43f6cc
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207262"
 ---
-# <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a><span data-ttu-id="ce89c-103">Microsoft Action Pack サブスクリプションを購入または更新する</span><span class="sxs-lookup"><span data-stu-id="ce89c-103">Purchase or renew a Microsoft Action Pack subscription</span></span>
+# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a><span data-ttu-id="eecbb-104">Microsoft Action Pack サブスクリプションを初めて購入する、または更新する</span><span class="sxs-lookup"><span data-stu-id="eecbb-104">Buy for the first time or renew a Microsoft Action Pack subscription</span></span>
 
-**<span data-ttu-id="ce89c-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="ce89c-104">Applies to</span></span>**
+**<span data-ttu-id="eecbb-105">適用対象</span><span class="sxs-lookup"><span data-stu-id="eecbb-105">Applies to</span></span>**
 
--  <span data-ttu-id="ce89c-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="ce89c-105">Partner Center</span></span>
+-  <span data-ttu-id="eecbb-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="eecbb-106">Partner Center</span></span>
+-  <span data-ttu-id="eecbb-107">Partner Membership Center</span><span class="sxs-lookup"><span data-stu-id="eecbb-107">Partner Membership Center</span></span>
 
+<span data-ttu-id="eecbb-108">Action Pack は、クラウドファースト、モバイルファーストの世界でマイクロソフト プラクティスの拡大を図ろうとしている企業向けに、ソフトウェア、サポート、特典を提供します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-108">Action Pack offers software, support, and benefits for businesses that want to build and grow their Microsoft practice in a cloud-first, mobile-first world.</span></span> <span data-ttu-id="eecbb-109">Action Pack を購入すると、次のような内容を提供する、信頼性の高いソフトウェア セットを活用できます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-109">When you buy Action Pack, you get a robust set of software that offers:</span></span> 
 
-<span data-ttu-id="ce89c-106">Action Pack は、サービス、ソフトウェア、サポートを手頃な価格で提供する年間サブスクリプションです。</span><span class="sxs-lookup"><span data-stu-id="ce89c-106">Action Pack is an affordable yearly subscription to services, software, and support.</span></span> <span data-ttu-id="ce89c-107">Action Pack サブスクリプションでは、以下のことができます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-107">Subscribe to Action Pack to:</span></span>
+- <span data-ttu-id="eecbb-110">顧客のニーズに自信を持って対応できる、専用サポート</span><span class="sxs-lookup"><span data-stu-id="eecbb-110">Dedicated support so you can confidently serve your customers’ needs</span></span> 
+- <span data-ttu-id="eecbb-111">すぐに使えるキャンペーンとガイダンスを提供するマーケティング リソース</span><span class="sxs-lookup"><span data-stu-id="eecbb-111">Marketing resources that provide ready-to-go campaigns and guidance</span></span> 
+- <span data-ttu-id="eecbb-112">包括的なインサイトとビジネス プランニング ツール</span><span class="sxs-lookup"><span data-stu-id="eecbb-112">Comprehensive insights and business planning tools</span></span> 
+- <span data-ttu-id="eecbb-113">クラウドに重点を置いたトレーニング</span><span class="sxs-lookup"><span data-stu-id="eecbb-113">Cloud-focused training</span></span> 
 
-- <span data-ttu-id="ce89c-108">世界最高クラスの開発者ツールを使ってお客様向けのアプリケーションやソリューションを作成できます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-108">Create applications and solutions for your customers using world-class developer tools.</span></span> <span data-ttu-id="ce89c-109">iOS、Android、Linux、Windows でお客様向けのアプリケーションやソリューションを作成できます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-109">Create applications and solutions on iOS, Android, Linux, and Windows</span></span> 
+<span data-ttu-id="eecbb-114">Action Pack について詳しくは、[Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) サイトをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="eecbb-114">You can find more details about Action Pack on the [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) site.</span></span>
 
-- <span data-ttu-id="ce89c-110">Windows 10 Enterprise (アップグレード) ライセンス、Visual Studio Professional ライセンス、無料の Visual Studio Team Services アカウントの利用</span><span class="sxs-lookup"><span data-stu-id="ce89c-110">Get Windows 10 Enterprise (upgrade) licenses, Visual Studio Professional licenses, and a no-cost Visual Studio Team Services account</span></span> 
+## <a name="buy-microsoft-action-pack-for-the-first-time"></a><span data-ttu-id="eecbb-115">初めて Microsoft Action Pack を購入する</span><span class="sxs-lookup"><span data-stu-id="eecbb-115">Buy Microsoft Action Pack for the first time</span></span>
 
-- <span data-ttu-id="ce89c-111">Office 365 (E3) ライセンスに加え、Enterprise Mobility Suite と Microsoft Dynamics のライセンスの利用</span><span class="sxs-lookup"><span data-stu-id="ce89c-111">Get Office 365 (E3) licenses, plus licenses for Enterprise Mobility Suite and Microsoft Dynamics</span></span> 
+<span data-ttu-id="eecbb-116">初めてマイクロソフトのパートナーになる場合は、Microsoft Partner Network への参加が最初のステップです。</span><span class="sxs-lookup"><span data-stu-id="eecbb-116">If you're new to partnering with Microsoft, the first step is to join the Microsoft Partner Network.</span></span> <span data-ttu-id="eecbb-117">Partner Network のメンバーでない場合、Partner Network サイトの[メンバーシップ ページ](https://partner.microsoft.com/membership)にアクセスして、サインアップの準備ができたら、**[今すぐ登録する]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-117">If you're not already a member of the partner network, go to [the membership page](https://partner.microsoft.com/membership) on the partner network site and select **Enroll now** when you're ready to sign up.</span></span> 
 
-- <span data-ttu-id="ce89c-112">毎月、Microsoft Azure クレジットを付与</span><span class="sxs-lookup"><span data-stu-id="ce89c-112">Receive Microsoft Azure usage credits every month</span></span>
+<span data-ttu-id="eecbb-118">Partner Network に参加したら、[Partner Network サイトの手順](https://partner.microsoft.com/membership/action-pack)に従って、Action Pack サブスクリプションを購入します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-118">After you've successfully joined the partner network, follow the [instructions on the partner network site](https://partner.microsoft.com/membership/action-pack) to buy your first Action Pack subscription.</span></span> 
 
-<span data-ttu-id="ce89c-113">Action Pack については、Microsoft Partner Network サイトで以下のページをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="ce89c-113">For information about Action Pack, visit these pages on the Microsoft Partner Network site:</span></span> 
+## <a name="renew-a-microsoft-action-pack-subscription"></a><span data-ttu-id="eecbb-119">Microsoft Action Pack サブスクリプションを更新する</span><span class="sxs-lookup"><span data-stu-id="eecbb-119">Renew a Microsoft Action Pack subscription</span></span>
 
--   [<span data-ttu-id="ce89c-114">Microsoft Action Pack とは</span><span class="sxs-lookup"><span data-stu-id="ce89c-114">What is the Microsoft Action Pack?</span></span>](https://partner.microsoft.com/membership/action-pack)
+>[!IMPORTANT]
+><span data-ttu-id="eecbb-120">現在から今年の 12 月にかけて、Action Pack サブスクリプション管理を Partner Membership Center (PMC) からパートナー ダッシュボード (本サイト) に移行します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-120">Between now and the end of the calendar year, we're moving Action Pack subscription management from Partner Membership Center (PMC) to the partner dashboard - this site.</span></span> <span data-ttu-id="eecbb-121">この期間は Action Pack サブスクリプションの更新方法が変更になる場合がありますので、下記の情報をよくご確認ください。</span><span class="sxs-lookup"><span data-stu-id="eecbb-121">Renewing your Action Pack subscription may vary between now and then, so please review the information below carefully.</span></span>  
 
--   [<span data-ttu-id="ce89c-115">Action Pack に含まれる特典</span><span class="sxs-lookup"><span data-stu-id="ce89c-115">Benefits included with Action Pack</span></span>](https://partner.microsoft.com/membership/core-benefits)
+### <a name="check-your-renewal-eligibility"></a><span data-ttu-id="eecbb-122">更新資格の確認</span><span class="sxs-lookup"><span data-stu-id="eecbb-122">Check your renewal eligibility</span></span>
 
+1. <span data-ttu-id="eecbb-123">[Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect) にサインインします。</span><span class="sxs-lookup"><span data-stu-id="eecbb-123">Sign in to the [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect).</span></span>
 
+2. <span data-ttu-id="eecbb-124">正常にサインインしたら、次のいずれかを行います。</span><span class="sxs-lookup"><span data-stu-id="eecbb-124">After you sign in successfully, you will either:</span></span>
 
-## <a name="purchase-a-microsoft-action-pack-subscription"></a><span data-ttu-id="ce89c-116">Microsoft Action Pack サブスクリプションを購入する</span><span class="sxs-lookup"><span data-stu-id="ce89c-116">Purchase a Microsoft Action Pack subscription</span></span>
+    - <span data-ttu-id="eecbb-125">PMC でサブスクリプションを更新する手順に従います。または</span><span class="sxs-lookup"><span data-stu-id="eecbb-125">Be able to follow the steps to renew your subscription in PMC, or</span></span>
 
-1. <span data-ttu-id="ce89c-117">**[ダッシュボード]** メニューで、**[Membership offers]** (メンバーシップ特典) を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-117">On the **Dashboard** menu, select **Membership offers**.</span></span> <span data-ttu-id="ce89c-118">**[利用可能なプラン]** で Microsoft Action Pack を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-118">Microsoft Action Pack is listed under **Available offers**.</span></span> 
+    - <span data-ttu-id="eecbb-126">パートナー ダッシュボード (本サイト) でサブスクリプションを更新する招待メッセージを受け取ります。</span><span class="sxs-lookup"><span data-stu-id="eecbb-126">Get a message inviting you to renew your subscription in the partner dashboard - this site</span></span>
 
-2. <span data-ttu-id="ce89c-119">**[今すぐ登録]** を選び、お支払い方法を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-119">Select **Subscribe now** and then select your payment method.</span></span> <span data-ttu-id="ce89c-120">お支払いにはクレジット カードまたは電信振替を使用できます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-120">You can pay using a credit card or an electronic bank transfer.</span></span> 
-
-    >**<span data-ttu-id="ce89c-121">重要</span><span class="sxs-lookup"><span data-stu-id="ce89c-121">Important</span></span>**<br> <span data-ttu-id="ce89c-122">お支払いの際には、Microsoft から許諾される内部使用権の[諸条件](https://go.microsoft.com/fwlink/?linkid=842232)への同意が必要になります。</span><span class="sxs-lookup"><span data-stu-id="ce89c-122">When you submit your payment, you are also agreeing to the [Terms and Conditions](https://go.microsoft.com/fwlink/?linkid=842232) for internal use rights granted by Microsoft.</span></span> 
-
-3. <span data-ttu-id="ce89c-123">クレジット カードによるお支払いの場合は、クレジット カード情報を追加するための手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="ce89c-123">If paying by credit card, follow the instructinos for adding your credit card information.</span></span> 
-
-    <span data-ttu-id="ce89c-124">電信振替によるお支払いの場合は、連絡先名、電話番号、メール アドレスを指定して **[送信]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-124">If paying by electronic bank transfer, provide a contact name, phone number, and email address and then select **Submit**.</span></span>  
-4. <span data-ttu-id="ce89c-125">注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。</span><span class="sxs-lookup"><span data-stu-id="ce89c-125">Review your order details and then select **Buy** when you’re ready to purchase Action Pack.</span></span> <span data-ttu-id="ce89c-126">料金は、指定したクレジットカードに即座に請求されます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-126">Your credit card will be charged immediately.</span></span>
-
-5. <span data-ttu-id="ce89c-127">注文が確認されます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-127">Your order is confirmed.</span></span> <span data-ttu-id="ce89c-128">**[閉じる]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-128">Select **Close**.</span></span>
-
-<span data-ttu-id="ce89c-129">購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-129">Your Action Pack subscription will renew automatically each year on this date.</span></span> <span data-ttu-id="ce89c-130">自動更新は、購入したプランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。</span><span class="sxs-lookup"><span data-stu-id="ce89c-130">You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again.</span></span> 
-
-
-## <a name="renew-your-action-pack-subscription"></a><span data-ttu-id="ce89c-131">Action Pack サブスクリプションを更新する</span><span class="sxs-lookup"><span data-stu-id="ce89c-131">Renew your Action Pack subscription</span></span>
-
-1. <span data-ttu-id="ce89c-132">**[ダッシュボード]** メニューで、**[Membership offers]** (メンバーシップ特典) を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-132">On the **Dashboard** menu, select **Membership offers**.</span></span>  
-
-2. <span data-ttu-id="ce89c-133">**[購入済み]** を選び、Action Pack のタイルを探します。</span><span class="sxs-lookup"><span data-stu-id="ce89c-133">Select **Purchased** and locate the Action Pack tile.</span></span>  
-
-3. <span data-ttu-id="ce89c-134">**[サブスクリプションの更新]** を選び、お支払い方法を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-134">Select **Renew subscription** and then select your payment method.</span></span> <span data-ttu-id="ce89c-135">お支払いにはクレジット カードまたは電信振替を使用できます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-135">You can pay using a credit card or an electronic bank transfer.</span></span> 
-
-    >**<span data-ttu-id="ce89c-136">重要</span><span class="sxs-lookup"><span data-stu-id="ce89c-136">Important</span></span>**<br> <span data-ttu-id="ce89c-137">お支払いの際には、Microsoft から許諾される内部使用権の[諸条件](https://go.microsoft.com/fwlink/?linkid=842232)への同意が必要になります。</span><span class="sxs-lookup"><span data-stu-id="ce89c-137">When you submit your payment, you are also agreeing to the [Terms and Conditions](https://go.microsoft.com/fwlink/?linkid=842232) for internal use rights granted by Microsoft.</span></span> 
-
-3. <span data-ttu-id="ce89c-138">クレジット カードによるお支払いの場合は、クレジット カード情報を追加するための手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="ce89c-138">If paying by credit card, follow the instructions for adding your credit card information.</span></span> 
-
-    <span data-ttu-id="ce89c-139">電信振替によるお支払いの場合は、連絡先名、電話番号、メール アドレスを指定して **[送信]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-139">If paying by electronic bank transfer, provide a contact name, phone number, and email address and then select **Submit**.</span></span> 
-
- 4. <span data-ttu-id="ce89c-140">注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。</span><span class="sxs-lookup"><span data-stu-id="ce89c-140">Review your order details and then select **Buy** when you’re ready to purchase Action Pack.</span></span> <span data-ttu-id="ce89c-141">料金は、指定したクレジットカードに即座に請求されます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-141">Your credit card will be charged immediately.</span></span>
-
-5. <span data-ttu-id="ce89c-142">注文が確認されます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-142">Your order is confirmed.</span></span> <span data-ttu-id="ce89c-143">**[閉じる]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-143">Select **Close**.</span></span>
-
-<span data-ttu-id="ce89c-144">購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-144">Your Action Pack subscription will renew automatically each year on this date.</span></span> <span data-ttu-id="ce89c-145">自動更新は、購入したプランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。</span><span class="sxs-lookup"><span data-stu-id="ce89c-145">You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again.</span></span> 
+>[!IMPORTANT]
+><span data-ttu-id="eecbb-127">パートナー ダッシュボードでサブスクリプションを更新する招待メッセージを受け取った場合は、更新期間のポリシーが変更されたことに注意してください。有効期限が切れた後のみにサブスクリプションを更新することができます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-127">If you are invited to renew your subscription in the partner dashboard, please note that we've changed our renewal window policy and you can renew your subscription only after it expires.</span></span> <span data-ttu-id="eecbb-128">たとえば、サブスクリプションの期限が 6 月 22 日である場合、6 月 23 日以降、30 日以内に更新を行うことができます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-128">For example, if your subscription expires on June 22, you can renew it starting June 23 and for 30 days after.</span></span>       
+><span data-ttu-id="eecbb-129">サブスクリプションの有効期限は、[**[Membership offers]**](https://partnercenter.microsoft.com/pcv/partnership/offers) (メンバーシップ特典) ページ (サインインが必要) で確認できます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-129">You can find your subscription's expiration date on your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page (sign-in required).</span></span> <span data-ttu-id="eecbb-130">パートナー ダッシュボードで更新を行うことができる場合は、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-130">If or when you are eligible to renew in the partner dashboard, follow the steps below.</span></span>  
 
 
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a><span data-ttu-id="ce89c-146">Action Pack サブスクリプションの自動更新を無効にする</span><span class="sxs-lookup"><span data-stu-id="ce89c-146">Turn off automatic Action Pack subscription renewal</span></span>
 
-1. <span data-ttu-id="ce89c-147">**[ダッシュボード]** メニューで、**[Membership offers]** (メンバーシップ特典) を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-147">On the **Dashboard** menu, select **Membership offers**.</span></span> 
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a><span data-ttu-id="eecbb-131">パートナー ダッシュボードで Microsoft Action Pack サブスクリプションを更新する方法</span><span class="sxs-lookup"><span data-stu-id="eecbb-131">To renew a Microsoft Action Pack subscription in the partner dashboard</span></span>
 
-2. <span data-ttu-id="ce89c-148">**[購入済み]** を選び、**[Microsoft Action Pack サブスクリプション]** を選んでサブスクリプションの詳細を表示します。</span><span class="sxs-lookup"><span data-stu-id="ce89c-148">Select **Purchased** and then select **Microsoft Action Pack subscription** to view the subscription details.</span></span> 
+1. <span data-ttu-id="eecbb-132">[**[Membership offers]**](https://partnercenter.microsoft.com/pcv/partnership/offers) (メンバーシップ特典) ページに移動して、**[購入済み]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-132">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="eecbb-133">**[Microsost Action Pack サブスクリプション]** タイルを探します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-133">Locate the **Microsost Action Pack Subscription** tile.</span></span>  
 
-3. <span data-ttu-id="ce89c-149">Action Pack サブスクリプションを毎年自動的に更新しない場合は、**[自動更新を無効にする]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-149">Select **Turn off automatic renewal** if you don't want your Action Pack subscription to renew automatically each year.</span></span> 
+2. <span data-ttu-id="eecbb-134">**[サブスクリプションの更新]** を選び、お支払い方法を選びます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-134">Select **Renew subscription** and then select your payment method.</span></span> <span data-ttu-id="eecbb-135">お支払いにはクレジット カードまたは電信振替を使用できます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-135">You can pay using a credit card or an electronic bank transfer.</span></span>
 
-    >**<span data-ttu-id="ce89c-150">注</span><span class="sxs-lookup"><span data-stu-id="ce89c-150">Note</span></span>**<br>
-    <span data-ttu-id="ce89c-151">サブスクリプションの自動更新を無効にすると、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。</span><span class="sxs-lookup"><span data-stu-id="ce89c-151">If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again.</span></span> <span data-ttu-id="ce89c-152">サブスクリプションの有効期限が切れる前に、更新についてお知らせします。</span><span class="sxs-lookup"><span data-stu-id="ce89c-152">We’ll remind you to renew before your subscription expires.</span></span>
+    >[!NOTE]
+    ><span data-ttu-id="eecbb-136">**[サブスクリプションの更新]** が表示されない場合、または灰色表示されている場合には、Action Pack サブスクリプションの更新資格がありません。</span><span class="sxs-lookup"><span data-stu-id="eecbb-136">If **Renew subscription** isn't displayed or is greyed out, you're not yet eligible to renew your Action Pack subscription.</span></span> <span data-ttu-id="eecbb-137">更新期間のポリシーが変更され、有効期限が切れた後のみにサブスクリプションを更新することができます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-137">We've changed our renewal window policy and you can renew your subscription only after it expires.</span></span> <span data-ttu-id="eecbb-138">たとえば、サブスクリプションの期限が 6 月 22 日である場合、6 月 23 日以降、30 日以内に更新を行うことができます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-138">For example, if your subscription expires on June 22, you can renew it starting June 23 and for 30 days after.</span></span>  
+
+3. <span data-ttu-id="eecbb-139">クレジット カードによるお支払いの場合は、クレジット カード情報を追加するための手順に従ってください。</span><span class="sxs-lookup"><span data-stu-id="eecbb-139">If paying by credit card, follow the instructions for adding your credit card information.</span></span> <span data-ttu-id="eecbb-140">電信振替によるお支払いの場合は、連絡先名、電話番号、メール アドレスを指定して **[送信]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-140">If paying by electronic bank transfer, provide a contact name, phone number, and email address and then select **Submit**.</span></span> 
+     
+4. <span data-ttu-id="eecbb-141">注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-141">Review your order details and then select **Buy** when you’re ready to buy Action Pack.</span></span> <span data-ttu-id="eecbb-142">料金は、指定したクレジットカードに即座に請求されます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-142">Your credit card is charged immediately.</span></span>
+
+5. <span data-ttu-id="eecbb-143">注文が確認されます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-143">Your order is confirmed.</span></span> <span data-ttu-id="eecbb-144">**[閉じる]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-144">Select **Close**.</span></span>
+
+<span data-ttu-id="eecbb-145">購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-145">Your Action Pack subscription will renew automatically each year on this date.</span></span> <span data-ttu-id="eecbb-146">自動更新は、**購入した**プランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。</span><span class="sxs-lookup"><span data-stu-id="eecbb-146">You can turn off automatic renewal at any time from your **Purchased** offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again.</span></span> 
 
 
-## <a name="cancel-your-action-pack-subscription"></a><span data-ttu-id="ce89c-153">Action Pack サブスクリプションを取り消す</span><span class="sxs-lookup"><span data-stu-id="ce89c-153">Cancel your Action Pack subscription</span></span>
+## <a name="turn-off-automatic-action-pack-subscription-renewal"></a><span data-ttu-id="eecbb-147">Action Pack サブスクリプションの自動更新を無効にする</span><span class="sxs-lookup"><span data-stu-id="eecbb-147">Turn off automatic Action Pack subscription renewal</span></span>
 
-<span data-ttu-id="ce89c-154">Microsoft Action Pack サブスクリプションを取り消すには、パートナー サポートへのご連絡が必要になる場合があります。</span><span class="sxs-lookup"><span data-stu-id="ce89c-154">To cancel your Microsoft Action Pack subscription, you may need to contact Partner Support.</span></span>
+1. <span data-ttu-id="eecbb-148">[**[Membership offers]**](https://partnercenter.microsoft.com/pcv/partnership/offers) (メンバーシップ特典) ページに移動して、**[購入済み]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-148">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="eecbb-149">**[Microsoft Action Pack サブスクリプション]** を選んで、サブスクリプションの詳細を表示します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-149">Select **Microsoft Action Pack Subscription** to view your subscription details.</span></span> 
 
-1. <span data-ttu-id="ce89c-155">**[ダッシュボード]** メニューで、**[Membership offers]** (メンバーシップ特典) を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-155">On the **Dashboard** menu, select **Membership offers**.</span></span> 
+2. <span data-ttu-id="eecbb-150">Action Pack サブスクリプションを毎年自動的に更新しない場合は、**[自動更新を無効にする]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-150">Select **Turn off automatic renewal** if you don't want your Action Pack subscription to renew automatically each year.</span></span> 
 
-2. <span data-ttu-id="ce89c-156">**[購入済み]** を選び、Action Pack のタイルを見つけます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-156">Select **Purchased** and then find the Action Pack tile.</span></span>
+    >[!NOTE]
+    ><span data-ttu-id="eecbb-151">サブスクリプションの自動更新を無効にすると、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。</span><span class="sxs-lookup"><span data-stu-id="eecbb-151">If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again.</span></span> <span data-ttu-id="eecbb-152">サブスクリプションの有効期限が切れる前に、更新についてお知らせします。</span><span class="sxs-lookup"><span data-stu-id="eecbb-152">We’ll remind you to renew before your subscription expires.</span></span>
 
-3. <span data-ttu-id="ce89c-157">**[サブスクリプションのキャンセル]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-157">Select **Cancel subscription**.</span></span> <span data-ttu-id="ce89c-158">サポート要求を作成するための手順に従います。</span><span class="sxs-lookup"><span data-stu-id="ce89c-158">Follow the instructions for creating a support request.</span></span> 
 
-4. <span data-ttu-id="ce89c-159">サポート要求フォームで、要求を適切にルーティングするための値を次のように選択します。</span><span class="sxs-lookup"><span data-stu-id="ce89c-159">On the support request form, select the following values to properly route your request:</span></span>
+## <a name="cancel-your-action-pack-subscription"></a><span data-ttu-id="eecbb-153">Action Pack サブスクリプションを取り消す</span><span class="sxs-lookup"><span data-stu-id="eecbb-153">Cancel your Action Pack subscription</span></span>
 
-    -  <span data-ttu-id="ce89c-160">**[パートナー ダッシュボードに関する問題を報告する]** を選び、次のページで **[新しい要求]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-160">Select **Report problems with the Partner Dashboard**, and then select **New request** on the next page.</span></span>
+<span data-ttu-id="eecbb-154">Microsoft Action Pack サブスクリプションを取り消すには、パートナー サポートへのご連絡が必要になる場合があります。</span><span class="sxs-lookup"><span data-stu-id="eecbb-154">To cancel your Microsoft Action Pack subscription, you may need to contact Partner Support.</span></span>
 
-    -  <span data-ttu-id="ce89c-161">**[問題点の種類]** の一覧を展開し、**[Help with partner invoice, payment, or reconciliation file]** (パートナーの請求書や支払、調整ファイルに関するヘルプ) を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-161">Expand the **Type of problem** list and select **Help with partner invoice, payment, or reconciliation file**.</span></span> 
+1. <span data-ttu-id="eecbb-155">[**[Membership offers]**](https://partnercenter.microsoft.com/pcv/partnership/offers) (メンバーシップ特典) ページに移動して、**[購入済み]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-155">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="eecbb-156">**[Microsoft Action Pack サブスクリプション]** を選んで、サブスクリプションの詳細を表示します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-156">Select **Microsoft Action Pack Subscription** to view your subscription details.</span></span> 
 
-5. <span data-ttu-id="ce89c-162">必要な情報を入力して **[送信]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-162">Finish filling in the required information and then select **Submit**.</span></span> <span data-ttu-id="ce89c-163">パートナー ダッシュボードのサポート チームから、サブスクリプションの取り消しについて連絡があります。</span><span class="sxs-lookup"><span data-stu-id="ce89c-163">The Partner Dashboard Support team will contact you to help you cancel your subscription.</span></span>
+3. <span data-ttu-id="eecbb-157">**[サブスクリプションのキャンセル]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-157">Select **Cancel subscription**.</span></span> <span data-ttu-id="eecbb-158">サポート要求を作成するための手順に従います。</span><span class="sxs-lookup"><span data-stu-id="eecbb-158">Follow the instructions for creating a support request.</span></span> 
 
-<span data-ttu-id="ce89c-164">サービス要求の状態を確認するには、**[アカウント設定]** メニューの **[パートナー センターの要求]** を選び、**[開く]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-164">To check on the status of your service request, select **Partner Center requests** from your **Account settings** menu, and then select **Open**.</span></span> <span data-ttu-id="ce89c-165">一覧から該当するサービス要求を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-165">Choose the appropriate service request from the list.</span></span>  
+4. <span data-ttu-id="eecbb-159">サポート要求フォームで、要求を適切にルーティングするための値を次のように選択します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-159">On the support request form, select the following values to properly route your request:</span></span>
 
-## <a name="download-your-action-pack-invoice"></a><span data-ttu-id="ce89c-166">Action Pack 請求書のダウンロード</span><span class="sxs-lookup"><span data-stu-id="ce89c-166">Download your Action Pack invoice</span></span>
+    -  <span data-ttu-id="eecbb-160">**[パートナー センターに関する問題の報告]** を選び、次のページで **[New request]** (新しい要求) を選びます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-160">Select **Report problems with Partner Center**, and then select **New request** on the next page.</span></span>
 
-1. <span data-ttu-id="ce89c-167">**[ダッシュボード]** メニューで、**[Membership offers]** (メンバーシップ特典) を選びます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-167">On the **Dashboard** menu, select **Membership offers**.</span></span>  
+    -  <span data-ttu-id="eecbb-161">**[問題点の種類]** の一覧を展開し、**[Help with partner invoice, payment, or reconciliation file]** (パートナーの請求書や支払、調整ファイルに関するヘルプ) を選びます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-161">Expand the **Type of problem** list and select **Help with partner invoice, payment, or reconciliation file**.</span></span> 
 
-2. <span data-ttu-id="ce89c-168">**[購入済み]** を選び、Action Pack のタイルを見つけます。</span><span class="sxs-lookup"><span data-stu-id="ce89c-168">Select **Purchased** and then find the Action Pack tile.</span></span> 
+5. <span data-ttu-id="eecbb-162">必要な情報を入力して **[送信]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-162">Finish filling in the required information and then select **Submit**.</span></span> <span data-ttu-id="eecbb-163">パートナー センターのサポート チームが、サブスクリプションの取り消しについてご連絡します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-163">The Partner Center Support team will contact you to help you cancel your subscription.</span></span>
 
-3. <span data-ttu-id="ce89c-169">**[請求書のダウンロード]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="ce89c-169">Select **Download invoice**.</span></span>
+<span data-ttu-id="eecbb-164">サービス要求の状態を確認するには、**[サポート]**、**[パートナー センターの要求]** の順に選び、**[開く]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-164">To check on the status of your service request, select **Partner Center requests** from **Support**, and then select **Open**.</span></span> <span data-ttu-id="eecbb-165">一覧から該当するサービス要求を選びます。</span><span class="sxs-lookup"><span data-stu-id="eecbb-165">Choose the appropriate service request from the list.</span></span>  
+
+## <a name="download-your-action-pack-invoice"></a><span data-ttu-id="eecbb-166">Action Pack 請求書のダウンロード</span><span class="sxs-lookup"><span data-stu-id="eecbb-166">Download your Action Pack invoice</span></span>
+
+1. <span data-ttu-id="eecbb-167">[**[Membership offers]**](https://partnercenter.microsoft.com/pcv/partnership/offers) (メンバーシップ特典) ページに移動して、**[購入済み]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-167">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="eecbb-168">**[Microsoft Action Pack サブスクリプション]** を選んで、サブスクリプションの詳細を表示します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-168">Select **Microsoft Action Pack Subscription** to view your subscription details.</span></span> 
+
+3. <span data-ttu-id="eecbb-169">**[請求書のダウンロード]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="eecbb-169">Select **Download invoice**.</span></span>
  
-## <a name="next-steps"></a><span data-ttu-id="ce89c-170">次のステップ</span><span class="sxs-lookup"><span data-stu-id="ce89c-170">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="eecbb-170">次のステップ</span><span class="sxs-lookup"><span data-stu-id="eecbb-170">Next steps</span></span>
 
-[<span data-ttu-id="ce89c-171">Action Pack サブスクリプション特典を使い始める</span><span class="sxs-lookup"><span data-stu-id="ce89c-171">Start using your Action Pack benefits</span></span>](manage-your-partner-network-benefits.md)
+-   [<span data-ttu-id="eecbb-171">Action Pack サブスクリプション特典を使い始める</span><span class="sxs-lookup"><span data-stu-id="eecbb-171">Start using your Action Pack benefits</span></span>](manage-your-partner-network-benefits.md)
 
+-   [<span data-ttu-id="eecbb-172">Silver および Gold コンピテンシーのメンバーシップ レベルの説明</span><span class="sxs-lookup"><span data-stu-id="eecbb-172">Learn about Silver and Gold competency membership levels</span></span>](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
-## <a name="see-also"></a><span data-ttu-id="ce89c-172">関連項目</span><span class="sxs-lookup"><span data-stu-id="ce89c-172">See also</span></span>
+-   [<span data-ttu-id="eecbb-173">ユーザーの追加とアクセス許可の割り当て</span><span class="sxs-lookup"><span data-stu-id="eecbb-173">Add users and assign permissions to them</span></span>](create-user-accounts-and-set-permissions.md)
 
-[<span data-ttu-id="ce89c-173">ユーザーの追加とアクセス許可の割り当て</span><span class="sxs-lookup"><span data-stu-id="ce89c-173">Add users and assign permissions to them</span></span>](create-user-accounts-and-set-permissions.md)
-
-[<span data-ttu-id="ce89c-174">ビジネス プロファイルの作成と Microsoft からの潜在顧客の獲得</span><span class="sxs-lookup"><span data-stu-id="ce89c-174">Create a business profile to get sales leads from Microsoft</span></span>](create-a-marketing-profile.md)
+-   [<span data-ttu-id="eecbb-174">ビジネス プロファイルの作成と Microsoft からの潜在顧客の獲得</span><span class="sxs-lookup"><span data-stu-id="eecbb-174">Create a business profile to get sales leads from Microsoft</span></span>](create-a-marketing-profile.md)
 
 
 

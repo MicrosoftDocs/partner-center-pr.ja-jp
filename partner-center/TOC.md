@@ -4,7 +4,7 @@
 ## [Microsoft Action Pack を購入する](mpn-get-action-pack.md)
 ## [Silver または Gold メンバーシップを取得する](learn-about-competencies.md)
 ## [メンバーシップ特典を取得する](manage-your-partner-network-benefits.md)
-## [MPN プランを更新する](renew-mpn-offers.md)
+
 
 
 # [クラウド ソリューション プロバイダー](csp-overview.md)
@@ -15,7 +15,7 @@
 ## [顧客契約テンプレート](agreements.md)
 
 ## [ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)
-### [米国政府機関向け Microsoft Cloud のパートナー ダッシュボード](partner-center-for-microsoft-us-govt-cloud.md)
+### [Microsoft Cloud for US Government のパートナー ダッシュボード](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Microsoft Cloud ドイツのパートナー ダッシュボード](partner-center-for-microsoft-cloud-germany.md)
 
 # [パートナー ダッシュボード アカウントの管理](partner-center-account-setup.md)
@@ -71,14 +71,17 @@
 ### [ライセンスベース サービスの顧客をクラウド サービス プロバイダー プログラムに移動する](transition-seat-based-services.md)
 ### [Dynamics AX サブスクリプションを Dynamics 365 にアップグレードする](manual-subscription-migration.md)
 ### [Office 365 Enterprise E4 サブスクリプションの Office 365 の新しいバージョンへの移行](migrate-office365-e4-subscriptions-to-newer-versions.md)
+### [Skype for Business Online プラン 1 の新しい Office 365 バージョンへの移行](skype-retiring.md)
 ### [Azure サブスクリプションの譲渡](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Minecraft: Education Edition のサブスクリプションの販売](minecraft-subscriptions.md)
+### [特別価格の対象となる業界への販売](Get-special-pricing-for-offers.md)
 ### [導入実績と満足度の向上](increasing-adoption-and-satisfaction.md)
 ### [Windows Autopilot でデバイスのセットアップを効率化する](autopilot.md)
 
 # パートナー ダッシュボードのデータと分析
 ## [ビジネス データの取得と分析](data-analysis-lp.md)
 ## [Microsoft Power BI 用パートナー分析アプリ](power-bi-app-for-direct-partners.md)
+## [CSP ビジネスを他のパートナーと比較する](partner-contributions.md)
 
 # [他のパートナーとの連携](work-with-other-partners.md)
 ## [パートナー ダッシュボードでの間接プロバイダーの作業](indirect-provider-tasks-in-partner-center.md)
