@@ -3,11 +3,12 @@ title: Azure Reserved VM Instances (RI) + Server Subscriptions for Azure | パ�
 description: 今日、十分な予測が可能で持続的なクラウド ワークロードはコスト効率の高いソリューションでサポートしたいという需要が急速に高まっています。Azure RI と Server Subscriptions が CSP プログラムに含まれることで、パートナーはこのような顧客の需要に対応できます。 CSP プログラムでは、パートナーが企業顧客に代わり、Microsoft パートナー センターと Azure portal を通じて Azure RI と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。
 author: v-petand
 keywords: Azure, サブスクリプション, VM, 予約, 予約インスタンス
-ms.openlocfilehash: 92b9bc437f383574527a9357239ee2460ebe4f46
-ms.sourcegitcommit: 933caff79bc4bf8855de4347f0bfde11662840f2
+ms.openlocfilehash: a86274f22c2c2cc8c24105e3b8937e6e297bae9d
+ms.sourcegitcommit: 2ce27f09e77eb1f6d7a33e7b154fec3b80ae36d1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 06/19/2018
+ms.locfileid: "2076042"
 ---
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure Reserved VM Instances (RI) + Server Subscriptions for Azure
 
@@ -74,6 +75,7 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 -   [Azure Reservations 概要ウェビナー](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
 -   [Modern Commerce Operations Guide](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx): ポリシーおよび業務に関する主な内容を網羅したガイド。契約、パートナー センター経由の注文、請求、価格表の詳細、インセンティブ、調整ファイル、API/SDK、サンドボックス、Azure Partner Shared Services などの項目が含まれています。
 -   [販売シート](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+-   [モダン オファーの提供国と顧客の通貨の対応表](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 -   [Azure ライセンス モジュール (Partner University)](https://aka.ms/azure_partner_licensing)
 -   [Azure RI FAQ](https://www.yammer.com/cloudpartnercommunity/#/files/133462302)
 -   [Azure の料金概要](https://azure.microsoft.com/en-us/pricing/#explore-cost)
@@ -90,7 +92,7 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 [Azure ハイブリッド特典](https://azure.microsoft.com/en-us/pricing/hybrid-benefit)を利用すると、Windows Server ライセンスから得られる価値を拡大し、仮想マシンのコストを最大で 40% 節約できます*。 この特典はソフトウェア アシュアランスに含まれており、Windows Server Datacenter および Standard エディションのライセンスで利用できます。 エディションによっては、ライセンスを変換または再利用して、低いベース コンピューティング レート (Linux 仮想マシン レート) で Windows Server 仮想マシンを Azure で実行できます。
 
 Azure ハイブリッド特典により、Windows Server または SQL Server の移行のための、最もコスト効率の高いクラウド ソリューションが実現します。
--   Windows Server に Azure ハイブリッド特典と Reserved Instances を組み合わせて、最大 82% を節約できます。
+-   Windows Server に Azure ハイブリッド特典と Reserved Instances を組み合わせて、最大 80% を節約できます。
 -   Azure ハイブリッド特典で、Azure SQL Database2 への移行を最大 30%* 節約できます。
 -   ニーズに応じたペースで展開できます。ワークロードをいくつか移行するのも、データセンター全体の移行も自由です。
 -   ソフトウェア アシュアランスへの現在への投資を最大限に活用できます。

@@ -1,74 +1,179 @@
 ---
-title: Microsoft パートナー センターへようこそ
-description: Microsoft パートナー センター
-author: labrenne
-ms.openlocfilehash: e1161f019d6cdd5ef5d72e3006f029c60f0f7413
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+layout: LandingPage
+hide_bc: true
+title: パートナー ダッシュボードのヘルプはこちらから
+description: アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 パートナー ダッシュボード ヘルプ ライブラリをご活用ください。
+author: v-chmccl
+ms.topic: landing-page
+searchScope: []
+ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1919902"
 ---
-# <a name="welcome-to-your-partner-dashboard"></a>パートナー ダッシュボードへようこそ
+# <a name="start-here-for-help-with-partner-center-dashboard"></a>パートナー センター ダッシュボードのヘルプはこちらから
 
-Microsoft パートナー ダッシュボード (このサイト) は、Microsoft のパートナー企業がビジネスの構築、管理、拡大に利用できる場所です  (このページに記載されているすべての説明が、すべてのパートナーに適用されるわけではありません。 一部の機能は段階的にロールアウトされます)。
+アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 パートナー センター ダッシュボード ヘルプ ライブラリをご活用ください。
 
-## <a name="create-a-partner-dashboard-account-to"></a>パートナー ダッシュボード アカウントを作成すると、次の作業が可能になります。
+ダッシュボードを既によくご存知の場合は、[新着情報](/partner-center/whats-new-in-pc)をご覧ください。
 
--   Microsoft とのメンバーシップを管理する
-    -   Microsoft Action Pack やその他の内部使用権メンバー特典を購入する 
-    -   Microsoft の製品およびサービスに関する自社スキルを構築する
-    -   Silver および Gold のメンバーシップ資格を満たす
+<ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>サインアップ</h3>
+                        <p><a href="/partner-center/mpn-create-a-partner-center-account">アカウントを作成する</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">テナントと場所の管理</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>顧客との関係の確立</h3>
+                        <p><a href="/partner-center/customer-accounts">顧客アカウント</a><br /><a href="/partner-center/customer-subscriptions">サブスクリプションの販売</a><br /><a href="/partner-center/assign-licenses-to-users">ライセンスを管理する</a><br /><a href="/partner-center/billing">請求</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>ビジネスを拡大する</h3>
+                        <p><a href="/partner-center/referrals">ビジネス プロファイル/紹介</a><br /><a href="/partner-center/promotions">プロモーション</a><br /><a href="/partner-center/get-special-pricing-for-offers">特別価格の対象となる業界への販売</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
 
--   自社アカウントに従業員を追加し、適切なアクセス レベルを割り当てる
+<ul id="products2" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_portal.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">パートナー ダッシュボードのツアー</a> (サインインが必要)</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_vmm-cloud.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>新機能 <a href="/partner-center/azure-ri-server-subscriptions">CSP から Azure Reservations を販売する</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_form.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="/partner-center/">すべてのヘルプ記事を参照して検索する</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="/partner-center/mpn-get-action-pack">Microsoft Action Pack (MAPS) を取得する</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="/partner-center/partner-center-account-setup">アカウントの管理</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/announcements">お知らせ</a> (サインインが必要)</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+<hr />
 
--   Microsoft から条件に合った見込み情報を受け取る 
-    -   無数の潜在顧客に対して、自社の製品やサービスを提示する
-    -   初回連絡から契約の締結まで、見込み客を管理する 
-
--   クラウド ソリューション プロバイダー プログラムに参加する
-    -   Microsoft クラウド サービスおよびソリューションのサブスクリプションを販売/管理する       
-    -   顧客との関係を確立/管理する
-    -   間接プロバイダー - リセラーとの関係を確立/管理する    
-    -   専用のプライベートな Microsoft ナショナル クラウドで顧客に販売する 
-    -   Microsoft からの請求と Microsoft への支払いを管理する
-    -   請求を調整して顧客への請求額を決定する
-   
-
->**重要**<br>
-パートナー ダッシュボードには、次々と新しい機能が追加されています。 [新機能](whats-new-in-pc.md)に関する情報をご確認ください。
-
-
-## <a name="get-started"></a>作業の開始
-
-目標に応じて適切なパートナー プログラムに登録し、アカウントを設定した後、顧客との連携による作業を開始します。
-
-| **参照先**  | **説明**  |
-|------------|:-------------|
-|[Microsoft Partner Network に参加する](mpn-overview.md)|Microsoft のパートナーになると、内部使用権ソフトウェア/サービスおよび Microsoft Action Pack にアクセスし、Silver および Gold コンピテンシーを獲得できます。 |
-|[クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売](csp-overview.md) | 貴社に適した CSP モデル、CSP を通じて販売できる国または地域、CSP を通じて販売できる製品またはサービスについてご確認ください。 |
-|[パートナー ダッシュボード アカウントの設定](partner-center-account-setup.md)|ユーザー アカウントの作成、プロファイルの管理、パスワードの管理、製品カタログのカスタマイズについて説明します。 |
-|[顧客アカウントの設定](customer-accounts.md)|ユーザーの追加、新しいアカウントの作成、顧客一覧の参照について説明します。 |
-|[他のパートナーとの連携](work-with-other-partners.md)|貴社が必要とする知識を提供できる適切なパートナーを検索する方法について説明します。 |
-
-## <a name="manage-your-reseller-business"></a>リセラー ビジネスの管理
-
-以下の機会を活用して、ビジネスを拡大することができます。
-
-| **参照先**  |**説明**   |
-|------------|:-------------|
-|[Microsoft からの紹介案件の獲得によるビジネスの拡大](referrals.md)|顧客向けのビジネス プロファイルを作成し、紹介案件を受け取って対応する方法について説明します。|
-|[Power BI 用パートナー分析アプリ](power-bi-app-for-direct-partners.md)| 使い慣れた Microsoft Power BI ダッシュボードを使って、自社の業績を分析する方法について説明します。|
-|[顧客のサブスクリプションの管理](customer-subscriptions.md)|新しいサブスクリプション、試用版サブスクリプション、ライセンスの割り当て、プロモーション、割引について説明します。|
-|[ビジネス プロファイルへのコンピテンシーの追加](learn-about-competencies.md)|専門知識の周知、コンピテンシーのオプションの理解について説明します。|
-|[請求](billing.md)|請求のシナリオ、各種の税金、Azure 支出の予算について説明します。 |
-
-## <a name="understand-your-support-options"></a>サポート オプション
-
-テクニカルおよびアカウントのサポート サービスを必要とする場合、貴社がその窓口となります。
-
-Microsoft サービスやパートナー センターについてのヘルプが必要な場合、マイクロソフトがいつでもお手伝いします。 
-
-| **参照先**  | **説明**  |
-|------------|:-------------|
-|[カスタマー サポート](customer-support.md)|テクニカル サポートの提供、請求に関するサポート、エスカレーションの処理、顧客のセルフ サポートの支援について説明します。|
-|[Microsoft によるサポート](support-from-microsoft.md)|パートナー センターに関する問題の報告、顧客の代理としての問題の報告について説明します。|
+<ul id="products3" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img class="x-hidden-focus" alt="" src="https://docs.microsoft.com/media/common/i_support.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>サポート</h3>
+                        <p>製品サポート、チャット、トレーニング、フォーラム、ブログ、yammer など、サポート リソースを活用します。<br /><br /><a href="/partner-center/customer-support">顧客をサポートする</a><br /><a href="/partner-center/support-from-microsoft">マイクロソフトのサポートを受ける</a><br /><a href="https://partnercenter.microsoft.com/partner/support">その他の資料</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>

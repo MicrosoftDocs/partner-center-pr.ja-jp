@@ -3,11 +3,12 @@ title: パートナー管理センターからパートナー センターに移
 description: Office 365 パートナー管理センターの機能は、パートナー センターに移行されます。
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
-ms.openlocfilehash: 5167ed6c6f29cccc5d9bee41c7cd7b97e9d90257
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: a72b35ef214b84a876c1dc6783009e284baee996
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1911296"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>パートナー管理センターからパートナー ダッシュボードへの移行
 
@@ -27,7 +28,7 @@ Microsoft パートナー ダッシュボードは、1 か所で Microsoft お�
 
 **クラウド ソリューション プロバイダー パートナー** CSP パートナーは、2018 年 4 月からパートナー ダッシュボードへ自動的にリダイレクトされます。 
 
-**アドバイザー パートナー:** アドバイザー パートナーは、2018 年 5 月にパートナー ダッシュボードへ自動的にリダイレクトされます。
+**アドバイザー パートナー** (CSP 経由で取引を行わず、PAC を使用して顧客に試用版や見積もりを提供する場合) パートナー センターへの自動リダイレクトのスケジュールが決定しだい、ここで発表します。 
 
 
 ## <a name="start-using-the-microsoft-partner-dashboard-now"></a>Microsoft パートナー ダッシュボードを今すぐ使い始めましょう

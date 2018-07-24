@@ -3,12 +3,12 @@ title: 販売するサード パーティ製品を見つける | パートナー
 description: 自社のポートフォリオに最適な種類のサード パーティ製品を検索して見つけることができます。
 author: labrenne
 keywords: サード パーティ製品、購入するソフトウェア、サード パーティの検索
-ms.openlocfilehash: d328ec6594d7cd71b373f7cbec3620951c6858df
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: f924bc4d38c764ca571148943d287318edb46987
+ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991711"
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2204956"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>販売するサード パーティ製品を見つける
 
@@ -31,7 +31,7 @@ ms.locfileid: "1991711"
 
 詳細を確認するには、製品を選択します。 これにより、製品に関する詳しい情報を提供する詳細ページが表示されます。詳細ページには、製品が実行する処理、マイクロソフト製品との連携の方法、販売担当者のトレーニングの方法、効果的なマーケティングを実施するためのヒントなどが表示されます。 
 
-ISV の Web サイトへのリンク、連絡先情報、多くの場合、製品のビデオ デモが含まれます。 
+さらに ISV の Web サイトへのリンク、連絡先情報、多くの場合、製品のビデオ デモが含まれます。 
 
 ## <a name="add-the-product-to-your-portfolio"></a>ポートフォリオに製品を追加する
 

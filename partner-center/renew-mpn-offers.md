@@ -3,12 +3,12 @@ title: MPN プランを更新する | パートナー センター
 description: パートナー ダッシュボードから MPN プランを更新する
 author: labrenne
 keywords: MPN、マイクロソフト アクション パック、MAPS、コンピテンシーの更新、更新日
-ms.openlocfilehash: ed037f6445d18a57033da51bc87d8f61d58370c3
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: 5b5009006ec6e4052e564e0c23deb2511485025e
+ms.sourcegitcommit: e84af3f0fd7683b83d0e15ad880aa92ee5efb0c7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991710"
+ms.lasthandoff: 06/11/2018
+ms.locfileid: "2018223"
 ---
 # <a name="renew-your-mpn-offers"></a>MPN プランを更新する
 
@@ -31,7 +31,7 @@ ms.locfileid: "1991710"
 
 購入後 1 年経過した日から 30 日の間に更新することができます。 その間は、特典を引き続け受けられます。 購入後 1 年が経過する 15 日前に、まもなく 1 年が経過することをお知らせします。 1 年が経過してから 23 日後にも別のリマインダーが送られます。 1 年経過してから 30 日間のうちに更新すると、特典が継続されます。 この更新期間中に更新しないと、特典とコンピテンシーは失われます。
 
-更新期間中に更新した場合、更新日から 365 日後が次の 1 周年経過日になります。
+更新期間中に更新した場合、現在の締日から 365 日後が次の締め日(更新期限) になります。
 
 ## <a name="manage-auto-renewal"></a>自動更新を管理する
 

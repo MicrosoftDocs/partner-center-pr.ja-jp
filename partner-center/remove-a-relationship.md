@@ -1,12 +1,13 @@
 ---
-title: "顧客との再販業者関係の削除 | パートナー センター"
-description: "関係を削除すると、終了したすべてのビジネス関係がパートナー センターのビューから削除されます。"
+title: 顧客との再販業者関係の削除 | パートナー センター
+description: 関係を削除すると、終了したすべてのビジネス関係がパートナー センターのビューから削除されます。
 author: KPacquer
-ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
-ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
+ms.openlocfilehash: eb48bb660fbd6acac91426eff5c0b9f4c8c45729
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2088969"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>顧客との再販業者関係の削除
 
@@ -22,7 +23,7 @@ ms.lasthandoff: 07/19/2017
 *  顧客に対するパートナー様の代理管理者権限が削除されます。
 *  パートナー様は顧客の代理として製品やサービスを購入できなくなります。
 
-関係を削除するには、まず、その時点で残っているアクティブなサブスクリプションをいったん中断する必要があります。
+関係を削除するには、Azure RI 予約をキャンセルし、ソフトウェアの購入をキャンセルして、残りのアクティブなサブスクリプションをまず中断する必要があります。
 
 1.  すべてのアクティブなサブスクリプションを中断します。 ダッシュボードで、**[顧客]** で顧客を選択し、**[サブスクリプション]** でサブスクリプションを選択して、**[中断]** を選択します。 
 

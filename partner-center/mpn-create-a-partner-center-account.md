@@ -2,11 +2,12 @@
 title: パートナー センター アカウントを作成する | パートナー センター
 description: Microsoft Partner Network メンバーがネットワークの利点とコンピテンシーを管理してビジネス プロファイルを作成するには、パートナー センター アカウントを作成する必要があります。
 author: MaggiePucciEvans
-ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 27b0915cdd199e479371864dfba2879eadeaea0d
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207272"
 ---
 # <a name="create-a-partner-center-account"></a>パートナー センター アカウントを作成する
 
@@ -76,6 +77,6 @@ ms.lasthandoff: 04/08/2018
 
 -   [メンバーシップ特典を管理する](manage-your-partner-network-benefits.md)
 
--   [Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](learn-about-competencies.md)
+-   [Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](https://partner.microsoft.com/membership/competencies)
 
 -   [ビジネス プロファイルを作成して Microsoft から見込み情報を受け取る](create-a-marketing-profile.md)

@@ -1,12 +1,14 @@
 ---
 title: Microsoft Partner Network の特典の管理 | パートナー センター
-description: Microsoft Partner Network のメンバーには、特定のメンバーシップ特典が付与されます。 ここではパートナーセンターでメンバーシップ特典を有効にして管理する方法を説明します。
+description: Microsoft Partner Network のメンバーは、特定のメンバーシップ特典を購入することができます。 ここではパートナー ダッシュボードでメンバーシップ特典を有効にして管理する方法を説明します。
 author: MaggiePucciEvans
-ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: MPN、メンバーシップ特典、メンバーシップ
+ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207282"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 
@@ -14,20 +16,19 @@ ms.lasthandoff: 04/08/2018
 
 -  パートナー センター
 
-Microsoft Partner Network メンバーシップを持つパートナーには、特定の特典が付与されます。 メンバーシップ特典を購入および有効化するには、Microsoft Partner Network のメンバーである必要があります。 ネットワークのメンバーでない場合は、[https://partner.microsoft.com](https://partner.microsoft.com) で登録できます。
+>[!IMPORTANT]
+>この記事では、本サイト、パートナーダッシュボード (以前はパートナー センターと呼ばれていました) で、Microsoft Partner Network (MPN) のメンバーシップ特典を使い始める方法について説明します。 パートナーの企業情報の Partner Membership Center (PMC) からパートナー ダッシュボードへの移行の招待を受け取っていない場合は、引き続き MPN メンバーシップの特典を PMC で管理する必要があります。 PMC に[サインイン](https://partner.microsoft.com/_login?authType=OpenIdConnect)します。   
 
->**注** このリンクをクリックすると、別の Web サイトにアクセスします。 ネットワーク メンバーシップを更新してアップグレードするには、このパートナー センター サイトに戻る必要があります。
-
-Microsoft Partner Network でメンバーシップを登録または更新した後は、特典を購入できます。
+Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成長に役立つメンバーシップ特典にアクセスできます。 まだ MPN のメンバーでない場合は、[MPN サイト](https://partner.microsoft.com/membership)から登録できます。
 
 
-## <a name="manage-your-membership-benefits"></a>メンバーシップ特典を管理する
+## <a name="manage-your-membership-benefits-in-the-dashboard"></a>ダッシュボードでメンバーシップ特典を管理する
 
-特典パッケージを購入した後は、使用を開始できるように、従業員にライセンス、サブスクリプション、その他の特典を割り当てる必要があります。 
+メンバーシップ特典パッケージを購入した後は、使用を開始できるように、ソフトウェア キーを入手して、従業員にライセンス、サブスクリプション、その他の特典を割り当てる必要があります。 
 
-Action Pack サブスクリプションでは、内部使用権ソフトウェア ライセンス、クラウド サービス、Visual Studio サブスクリプション、サポートが割り当てられます。 
+Action Pack サブスクリプションでは、社内使用ライセンスのソフトウェア、クラウド サービス、Visual Studio サブスクリプション、サポートが割り当てられます。 [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) サイトで Action Pack サブスクリプションの詳細を確認できます。  
 
-メンバーシップ特典を表示および管理するには、**[ダッシュ ボード]** メニューから **[特典]** を選択します。 **[特典]** ページが開きます。 
+メンバーシップ特典を表示および管理するには、[**[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) にアクセスします。
 
 #### <a name="manage-software-benefits"></a>ソフトウェア特典を管理する
 
@@ -72,10 +73,11 @@ Action Pack サブスクリプションでは、内部使用権ソフトウェ�
 
     サブスクリプションはいつでも、割り当てられているユーザーを削除し、別のユーザーを割り当てて再割り当てできます。 
 
+#### <a name="manage-technical-benefits"></a>技術特典の管理
 
-#### <a name="manage-support-benefits"></a>サポート特典を管理する
+1. **[技術特典]** を選び、マイクロソフトの技術特典の一覧を表示します。
 
-1. **[サポート]** をえらび、Microsoft サポートに関連する特典の一覧を表示します。 
+    技術特典には、マイクロソフト製品サポート インシデント、パートナー相談時間、テクニカル プリセールス、デプロイメント サービスなどがあります。   
 
 2. 使い始めるサポート特典を見つけ、行の右端にある下向き矢印を選んで特典の詳細を展開します。 
 
@@ -83,11 +85,14 @@ Action Pack サブスクリプションでは、内部使用権ソフトウェ�
    
     a .  一覧からユーザーを選びます。 割り当てるユーザーが一覧に表示されない場合は、**[アカウント設定]** で[新しいユーザーを追加](create-user-accounts-and-set-permissions.md)します。
 
-    b.   パートナーセンターアカウントに関連付けられたメール アドレスとは異なるユーザー メール アドレスを入力します。 
+    b.   企業のダッシュボード アカウントに関連付けられたメール アドレスとは異なるユーザー メール アドレスを入力します。 
     
-    安全を期して、ユーザーのパートナー センター アカウントのメール アドレスに加え、このメール アドレスにもマイクロソフト製品サポートの利用手順を説明したメールが送信されます。 この特典を有効にし、割り当てられたユーザーに手順を記載したメールで届くまで数日かかることがあります。    
+    安全を期して、ユーザーのダッシュボード アカウントのメール アドレスに加え、このメール アドレスにもマイクロソフト製品サポートの利用手順を説明したメールが送信されます。 この特典を有効にし、割り当てられたユーザーに手順を記載したメールで届くまで数日かかることがあります。    
     
-    c.   別のメールアドレスの入力が完了したら、**[ユーザーの割り当て]** を選びます。 
+    c.  別のメールアドレスの入力が完了したら、**[ユーザーの割り当て]** を選びます。 
+
+4. テクニカル プリセールス支援や相談時間の特典を使用して、クラウドおよびハイブリッド ソリューションのプリセールス、設計、デプロイメント、アプリケーション開発の各局面で技術支援をリクエストすることができます。 支援をリクエストするには、[リクエスト フォーム](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
+)に記入して、**[リクエストの送信]** を選択します。
 
 
 #### <a name="see-also"></a>関連項目

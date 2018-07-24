@@ -1,52 +1,52 @@
 ---
 title: Microsoft Partner Network メンバーシップ | パートナー センター
-description: Microsoft Partner Network に参加するメリットについて説明します。
+description: マイクロソフトのパートナーとなるメリットについて説明します。
 author: MaggiePucciEvans
-keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ
-ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
+ms.openlocfilehash: 23ae139d9f03b74c71f1c64cc298a0600a65f4da
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207222"
 ---
-# <a name="partner-with-microsoft"></a>Microsoft との連携
+# <a name="partner-with-microsoft"></a>マイクロソフトとの連携
 
-## <a name="join-the-microsoft-partner-network"></a>Microsoft Partner Network に参加する
+マイクロソフトのパートナー プログラムに参加すると、顧客の満足度を高め、ビジネスを成長させるために必要な、関係、インサイト、ツール、リソース、プログラムを活用できる、グローバル コミュニティの一員となります。 
 
-Microsoft Partner Network メンバーシップには、3 種類のメンバーシップが用意されています。 それぞれのメンバーシップは、種類ごとに異なる一連のメリットを提供してパートナー様のビジネス拡大を支援します。 パートナー様が一定の目標を達したときは、ビジネス ニーズに適したレベルでプログラムにご参加ください。さらに多くの特典を利用し、Microsoft やネットワーク内の他のパートナーとの関係を構築することができます。
+マイクロソフトのパートナーとなるメリットについて詳しくは、[マイクロソフトを選ぶ理由](https://partner.microsoft.com/business-opportunities/why-microsoft)をご覧ください。 
 
--   **ネットワーク メンバー**: この無料の基本レベルに参加すると、時間とコストを節約しながら、能力の向上、お客様へのより良いサービスの提供、関係の構築を通じて、ビジネスの可能性を最大限に引き出すことができる一連の[基本内部使用権特典](https://partner.microsoft.com/membership/core-benefits)を利用することができます。
 
-    -   [Microsoft Partner Network について詳しく知る](https://partner.microsoft.com/membership/how-it-works)
+## <a name="the-microsoft-partner-program-works-for-you"></a>マイクロソフト パートナー プログラムはメリットをもたらす
 
-    -   [Microsoft Partner Network に今すぐ参加する](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+Microsoft Partner Network メンバーシップには、3 つのレベルのメンバーシップが用意されています。 各レベルのメンバーシップは、種類ごとに異なる一連のメリットを提供してパートナー様のビジネス拡大を支援します。 パートナー様が一定の目標を達したときは、ニーズに適したレベルでプログラムにご参加ください。さらに多くの特典を利用し、マイクロソフトやネットワーク内の他のパートナーとの関係を構築することができます。 
 
--   **Action Pack**: Action Pack は、開発者ツール、サポート、トレーニング、ソフトウェアの利用など、追加のネットワーク特典を手頃な価格で提供する年間サブスクリプションです。 このレベルでは、専門分野を強化すると共に、新しいスキルも開発できます。
+パートナー ネットワークについて詳しくは、[パートナー ネットワーク サイト](https://partner.microsoft.com)の[メンバーシップ概要](https://partner.microsoft.com/membership)をご覧ください。 
 
-    -   [Microsoft Action Pack について詳しく知る](https://partner.microsoft.com/membership/action-pack)
+[パートナー ネットワーク サイト](https://partner.microsoft.com)でメンバーシップのレベルと[ソフトウェアの社内使用ライセンス特典](https://partner.microsoft.com/membership/internal-use-software)の詳細をご確認ください。 
 
-    -   [Action Pack を今すぐサブスクライブする](mpn-get-action-pack.md)
+### <a name="level-1---get-started-with-the-action-pack"></a>レベル 1 - Action Pack を利用する 
 
--   **コンピテンシー**: Microsoft コンピテンシーを獲得すると、1 つまたは複数の専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft コンピテンシーは、顧客のニーズに対応できるように準備を整え、見込み顧客からの認知度を高めることを目的としています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
+Microsoft Action Pack の年間サブスクリプションを購入すると、クラウド ファーストの世界でマイクロソフトの実践を構築するのに役立つ、開発者ツール、サポート、トレーニング、ソフトウェアにアクセスできます。 このレベルのメンバーシップを使うと、専門分野を強化すると共に、新しいスキルも開発できます。
 
-    -   Silver コンピテンシーを獲得すると、一貫した能力、専門知識、業務への取り組み姿勢を証明できます。
+このメンバーシップの特典を初めて購入する方法や更新する方法について詳しくは、[Action Pack を購入する](mpn-get-action-pack.md)をご覧ください。  
 
-    -   Gold コンピテンシーを獲得すると、Microsoft ソリューションの特定の領域内で、クラス最高の能力を備えていることを証明できます。
+>[!IMPORTANT]
+>現在から今年の 12 月にかけて、Action Pack サブスクリプション管理を Partner Membership Center (PMC) からパートナー ダッシュボードに移行します。 この期間は Action Pack サブスクリプションの更新方法が変更になる場合がありますので、[Action Pack を購入する](mpn-get-action-pack.md)の情報をよくご確認ください。  
 
-    [Silver および Gold コンピテンシーの獲得について詳しく知る](https://partner.microsoft.com/membership/competencies)
 
-   
-## <a name="get-started-with-the-partner-dashboard"></a>パートナー ダッシュボードの概要
+### <a name="level-2---take-the-next-step"></a>レベル 2 - 次のステップに進む
 
-パートナー様が Microsoft との提携を簡単に行い、時間とコストを節約できるように、Microsoft では、現在複数の Web サイトやツールに分散している機能や作業フローをパートナー ダッシュボード (このサイト) に移行する作業を進めています。 
+**Silver コンピテンシー**を獲得して、自社の専門性、スキル、戦略的思考を広く紹介します。 
+    
+これにより、1 つまたは複数の専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft コンピテンシーは、顧客のニーズに対応できるように準備を整え、見込み顧客からの認知度を高めることを目的としています。 
 
-特定の機能をパートナー ダッシュボードに移動するプロセスで、その機能が提供されていた従来のサイトが廃止となります。 これらの機能を引き続き利用するには、パートナー ダッシュボード (このサイト) でアカウントを作成する必要があります。 
+[Silver コンピテンシーの獲得について詳しく知る](https://partner.microsoft.com/membership/competencies)
 
-たとえば、Pinpoint で紹介案件を受け取り、管理していた場合、Pinpoint のサイトは廃止されているため、紹介案件に関連する機能はすべて、パートナー ダッシュボードに移行されています。 パートナー ダッシュボードの使用を開始するには、次の手順を実行します。   
 
--   [パートナー ダッシュボード アカウントを作成すると、次の作業が可能になります。](mpn-create-a-partner-center-account.md)
+### <a name="level-3---join-the-elite-tier"></a>レベル 3 - さらに上位レベルに進む
 
--   [ビジネス プロファイルを作成して顧客紹介を受け取る](create-a-marketing-profile.md)
+**Gold コンピテンシー**を獲得して、顧客のニーズに合った、より高い専門知識を実証します。 
 
--   [Microsoft Partner Network メンバーシップ特典を管理する](manage-your-partner-network-benefits.md)
+[Gold コンピテンシーの獲得について詳しく知る](https://partner.microsoft.com/membership/competencies)
 

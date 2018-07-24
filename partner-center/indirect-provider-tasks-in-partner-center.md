@@ -2,11 +2,12 @@
 title: CSP での間接リセラーとの連携 | パートナー センター
 description: 間接プロバイダー (ディストリビューター) は、間接リセラーと連携してリーチを拡大することができます。
 author: MaggiePucciEvans
-ms.openlocfilehash: 9b0d644698676a28236c37b3cef5f5fbd905b602
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 295dfa22feb6864697d8ffd94708f0868479b52a
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1919892"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携
 
@@ -125,6 +126,9 @@ CSP での間接モデルについて詳しくは、[Microsoft Partner Network W
 [顧客アカウント](customer-accounts.md)
 
 [顧客のサブスクリプション](customer-subscriptions.md)
+
+
+
 
 
 
