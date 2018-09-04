@@ -1,51 +1,59 @@
 ---
-title: "DevOps コンピテンシー"
-description: "Microsoft の開発プラットフォームの DevOps 機能を活用することによりソフトウェア ライフサイクルを管理できるようにする点で企業と連携する経験が豊富にある場合、DevOps コンピテンシーはマイクロソフトのパートナーとしての地位を確立するために適切な選択肢です。"
+title: DevOps コンピテンシー
+description: Microsoft の開発プラットフォームの DevOps 機能を活用することによりソフトウェア ライフサイクルを管理できるようにする点で企業と連携する経験が豊富にある場合、DevOps コンピテンシーはマイクロソフトのパートナーとしての地位を確立するために適切な選択肢です。
 author: Daniel Simpson
-keywords: "コンピテンシー, コンピテンシー, DevOps"
-ms.openlocfilehash: a50b05f815f9eacfb52600b923dc53ff7c1fb8f6
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: コンピテンシー, コンピテンシー, DevOps
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 575027d70b033085db21a30b7e703df53790f996
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875722"
 ---
-# <a name="devops"></a><span data-ttu-id="6dab9-104">DevOps</span><span class="sxs-lookup"><span data-stu-id="6dab9-104">DevOps</span></span>
- <span data-ttu-id="6dab9-105">Microsoft の開発プラットフォームの DevOps 機能を活用することによりソフトウェア ライフサイクルを管理できるようにする点で企業と連携する経験が豊富にある場合、DevOps コンピテンシーはマイクロソフトのパートナーとしての地位を確立するために適切な選択肢です。</span><span class="sxs-lookup"><span data-stu-id="6dab9-105">If you have deep experience working with businesses helping them manage software lifecycles by leveraging the DevOps features of Microsoft’s development platform, then DevOps competency is the right choice to establish your organization as Microsoft's partner.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="196e8-104">このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスしてください。</span><span class="sxs-lookup"><span data-stu-id="196e8-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
-## <a name="devops-partner-option"></a><span data-ttu-id="6dab9-106">DevOps パートナー オプション</span><span class="sxs-lookup"><span data-stu-id="6dab9-106">DevOps Partner option</span></span>
-<span data-ttu-id="6dab9-107">DevOps パートナー オプションは、顧客にソフトウェア ライフサイクル管理を提供するために Microsoft Visual Studio を使っているパートナー様に最適です。</span><span class="sxs-lookup"><span data-stu-id="6dab9-107">The DevOps Partner option is ideal for partners who use Microsoft Visual Studio to deliver software lifecycle management for their customers.</span></span> <span data-ttu-id="6dab9-108">DevOps コンピテンシーを取得するためのオプション内のすべての手順を完了します。</span><span class="sxs-lookup"><span data-stu-id="6dab9-108">Complete all the steps within the option to attain the DevOps competency.</span></span>
+<!--
 
-###<a name="silver"></a><span data-ttu-id="6dab9-109">Silver</span><span class="sxs-lookup"><span data-stu-id="6dab9-109">Silver</span></span>
-1. <span data-ttu-id="6dab9-110">試験要件に合格した従業員が組織に **2** 人必要です。</span><span class="sxs-lookup"><span data-stu-id="6dab9-110">Your organization must have **2** individuals pass the exam requirements.</span></span>
+# DevOps
+ If you have deep experience working with businesses helping them manage software lifecycles by leveraging the DevOps features of Microsoft’s development platform, then DevOps competency is the right choice to establish your organization as Microsoft's partner.
 
-    - <span data-ttu-id="6dab9-111">**2** 人の従業員がそれぞれ次のすべての試験に合格する必要があります。</span><span class="sxs-lookup"><span data-stu-id="6dab9-111">**2** individuals must each pass all the following exams:</span></span>
+## DevOps Partner option
+The DevOps Partner option is ideal for partners who use Microsoft Visual Studio to deliver software lifecycle management for their customers. Complete all the steps within the option to attain the DevOps competency.
 
-        - <span data-ttu-id="6dab9-112">[試験 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012、管理</span><span class="sxs-lookup"><span data-stu-id="6dab9-112">[Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration</span></span>
-        - <span data-ttu-id="6dab9-113">[試験 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Visual Studio アプリケーション ライフサイクル管理による継続的な価値の提供</span><span class="sxs-lookup"><span data-stu-id="6dab9-113">[Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management</span></span>
+###Silver
+1. Your organization must have **2** individuals pass the exam requirements.
 
-    **<span data-ttu-id="6dab9-114">および</span><span class="sxs-lookup"><span data-stu-id="6dab9-114">AND</span></span>**
+    - **2** individuals must each pass all the following exams:
 
-    - <span data-ttu-id="6dab9-115">同じ従業員 **2** 人のうち **1** 人の従業員が次のいずれかの試験に合格している必要があります。</span><span class="sxs-lookup"><span data-stu-id="6dab9-115">**1** of the same **2** individuals must pass one of the following exams:</span></span>
+        - [Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
+        - [Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-        * <span data-ttu-id="6dab9-116">[試験 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Visual Studio 2012 によるソフトウェアのテスト</span><span class="sxs-lookup"><span data-stu-id="6dab9-116">[Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012</span></span>
-        * [<span data-ttu-id="6dab9-117">PMI Agile Certified Practitioner (PMI-ACP)</span><span class="sxs-lookup"><span data-stu-id="6dab9-117">PMI Agile Certified Practitioner (PMI-ACP)</span></span>](http://www.pmi.org/certifications/types/agile-acp)
-        * [<span data-ttu-id="6dab9-118">Professional Scrum Master レベル 1 (PSM I)</span><span class="sxs-lookup"><span data-stu-id="6dab9-118">Professional Scrum Master level 1 (PSM I)</span></span>](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
-        * [<span data-ttu-id="6dab9-119">Scrum Alliance Certified Scrum Master</span><span class="sxs-lookup"><span data-stu-id="6dab9-119">Scrum Alliance Certified Scrum Master</span></span>](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
+    **AND**
+
+    - **1** of the same **2** individuals must pass one of the following exams:
+
+        * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
+        * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
+        * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
+        * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
     
-###<a name="gold"></a><span data-ttu-id="6dab9-120">Gold</span><span class="sxs-lookup"><span data-stu-id="6dab9-120">Gold</span></span>
-1. <span data-ttu-id="6dab9-121">試験要件に合格した従業員が組織に **4** 人必要です。</span><span class="sxs-lookup"><span data-stu-id="6dab9-121">Your organization must have **4** individuals pass the exam requirements.</span></span>
+###Gold
+1. Your organization must have **4** individuals pass the exam requirements.
 
-    - <span data-ttu-id="6dab9-122">**4** 人の従業員がそれぞれ次のすべての試験に合格する必要があります。</span><span class="sxs-lookup"><span data-stu-id="6dab9-122">**4** individuals must each pass all the following exams:</span></span>
+    - **4** individuals must each pass all the following exams:
 
-        - <span data-ttu-id="6dab9-123">[試験 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012、管理</span><span class="sxs-lookup"><span data-stu-id="6dab9-123">[Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration</span></span>
-        - <span data-ttu-id="6dab9-124">[試験 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Visual Studio アプリケーション ライフサイクル管理による継続的な価値の提供</span><span class="sxs-lookup"><span data-stu-id="6dab9-124">[Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management</span></span>
+        - [Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
+        - [Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-    **<span data-ttu-id="6dab9-125">および</span><span class="sxs-lookup"><span data-stu-id="6dab9-125">AND</span></span>**
+    **AND**
 
-    - <span data-ttu-id="6dab9-126">同じ従業員 **4** 人のうち **2** 人の従業員が次のいずれかの試験に合格している必要があります。</span><span class="sxs-lookup"><span data-stu-id="6dab9-126">**2** of the same **4** individuals must pass one of the following exams:</span></span>
+    - **2** of the same **4** individuals must pass one of the following exams:
 
-        * <span data-ttu-id="6dab9-127">[試験 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Visual Studio 2012 によるソフトウェアのテスト</span><span class="sxs-lookup"><span data-stu-id="6dab9-127">[Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012</span></span>
-        * [<span data-ttu-id="6dab9-128">PMI Agile Certified Practitioner (PMI-ACP)</span><span class="sxs-lookup"><span data-stu-id="6dab9-128">PMI Agile Certified Practitioner (PMI-ACP)</span></span>](http://www.pmi.org/certifications/types/agile-acp)
-        * [<span data-ttu-id="6dab9-129">Professional Scrum Master レベル 1 (PSM I)</span><span class="sxs-lookup"><span data-stu-id="6dab9-129">Professional Scrum Master level 1 (PSM I)</span></span>](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
-        * [<span data-ttu-id="6dab9-130">Scrum Alliance Certified Scrum Master</span><span class="sxs-lookup"><span data-stu-id="6dab9-130">Scrum Alliance Certified Scrum Master</span></span>](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
-        
+        * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
+        * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
+        * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
+        * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
+-->        

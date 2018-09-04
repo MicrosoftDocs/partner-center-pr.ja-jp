@@ -1,42 +1,49 @@
 ---
-title: "Messaging コンピテンシー"
-description: "Messaging コンピテンシーは、資格のある Microsoft Exchange ソリューション プロバイダーとしてのスキルを示すことにより、競争上の優位性の向上、販売サイクルの短縮、ビジネスの成長を実現しているパートナー様を認識します。"
+title: Messaging コンピテンシー
+description: Messaging コンピテンシーは、資格のある Microsoft Exchange ソリューション プロバイダーとしてのスキルを示すことにより、競争上の優位性の向上、販売サイクルの短縮、ビジネスの成長を実現しているパートナー様を認識します。
 author: Daniel Simpson
-keywords: "コンピテンシー,コンピテンシー,メッセージング"
-ms.openlocfilehash: 41a8bd44f5a0dacf49554907dd381e1ec7140a21
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: コンピテンシー,コンピテンシー,メッセージング
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 0675b73fa5fa6fb6967734645ad298d500bb1f87
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875682"
 ---
-#<a name="messaging"></a><span data-ttu-id="3da9a-104">メッセージング</span><span class="sxs-lookup"><span data-stu-id="3da9a-104">Messaging</span></span>
-<span data-ttu-id="3da9a-105">Messaging コンピテンシーは、資格のある Microsoft Exchange ソリューション プロバイダーとしてのスキルを示すことにより、競争上の優位性の向上、販売サイクルの短縮、ビジネスの成長を実現しているパートナー様を認識します。</span><span class="sxs-lookup"><span data-stu-id="3da9a-105">The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="c1184-104">このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスしてください。</span><span class="sxs-lookup"><span data-stu-id="c1184-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
-##<a name="hybrid-services-partner-option"></a><span data-ttu-id="3da9a-106">ハイブリッド サービス パートナー オプション</span><span class="sxs-lookup"><span data-stu-id="3da9a-106">Hybrid Services Partner option</span></span>
-<span data-ttu-id="3da9a-107">試験や認定に合格することによって、製品に関する知識を試しましょう。</span><span class="sxs-lookup"><span data-stu-id="3da9a-107">Put your product knowledge to the test by passing exams or certifications.</span></span>
+<!--
+#Messaging
+The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
 
-###<a name="silver"></a><span data-ttu-id="3da9a-108">Silver</span><span class="sxs-lookup"><span data-stu-id="3da9a-108">Silver</span></span>
-1. <span data-ttu-id="3da9a-109">試験または認定要件に合格した従業員が組織 **2** 人必要です。</span><span class="sxs-lookup"><span data-stu-id="3da9a-109">Your organization must have **2** individuals pass the exam or certification requirements.</span></span>
+##Hybrid Services Partner option
+Put your product knowledge to the test by passing exams or certifications.
+
+###Silver
+1. Your organization must have **2** individuals pass the exam or certification requirements.
     
-    - <span data-ttu-id="3da9a-110">**2** 人の従業員がそれぞれ次のすべての試験に合格する必要があります。</span><span class="sxs-lookup"><span data-stu-id="3da9a-110">**2** individuals must each pass all the following exams:</span></span>
-        - <span data-ttu-id="3da9a-111">[試験 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Microsoft Office 365 のサービスの有効化</span><span class="sxs-lookup"><span data-stu-id="3da9a-111">[Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365</span></span>
-        - <span data-ttu-id="3da9a-112">[試験 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Microsoft Exchange Server 2016 の設計と展開</span><span class="sxs-lookup"><span data-stu-id="3da9a-112">[Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016</span></span>
+    - **2** individuals must each pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **<span data-ttu-id="3da9a-113">または</span><span class="sxs-lookup"><span data-stu-id="3da9a-113">OR</span></span>**
+    **OR**
 
-     - <span data-ttu-id="3da9a-114">**2** 人の従業員が次の認定に合格する必要があります。</span><span class="sxs-lookup"><span data-stu-id="3da9a-114">**2** individuals must pass the following certification:</span></span>
-        - <span data-ttu-id="3da9a-115">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): 生産性</span><span class="sxs-lookup"><span data-stu-id="3da9a-115">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity</span></span>
+     - **2** individuals must pass the following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
 
-###<a name="gold"></a><span data-ttu-id="3da9a-116">Gold</span><span class="sxs-lookup"><span data-stu-id="3da9a-116">Gold</span></span>
-1. <span data-ttu-id="3da9a-117">試験または認定要件に合格した従業員が組織 **4** 人必要です。</span><span class="sxs-lookup"><span data-stu-id="3da9a-117">Your organization must have **4** individuals pass the exam or certification requirements.</span></span>
+###Gold
+1. Your organization must have **4** individuals pass the exam or certification requirements.
 
-    - <span data-ttu-id="3da9a-118">**4** 人の従業員がそれぞれ次のすべての試験に合格する必要があります。</span><span class="sxs-lookup"><span data-stu-id="3da9a-118">**4** individuals must each pass all the following exams:</span></span>
-        - <span data-ttu-id="3da9a-119">[試験 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Microsoft Office 365 のサービスの有効化</span><span class="sxs-lookup"><span data-stu-id="3da9a-119">[Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365</span></span>
-        - <span data-ttu-id="3da9a-120">[試験 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Microsoft Exchange Server 2016 の設計と展開</span><span class="sxs-lookup"><span data-stu-id="3da9a-120">[Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016</span></span>
+    - **4** individuals must each pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **<span data-ttu-id="3da9a-121">または</span><span class="sxs-lookup"><span data-stu-id="3da9a-121">OR</span></span>**
+    **OR**
 
-    - <span data-ttu-id="3da9a-122">**4** 人の従業員が次の認定に合格する必要があります。</span><span class="sxs-lookup"><span data-stu-id="3da9a-122">**4** individuals must pass the following certification:</span></span>
-        - <span data-ttu-id="3da9a-123">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): 生産性</span><span class="sxs-lookup"><span data-stu-id="3da9a-123">[MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity</span></span>
-
+    - **4** individuals must pass the following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+-->
 

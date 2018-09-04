@@ -2,20 +2,21 @@
 layout: LandingPage
 hide_bc: true
 title: パートナー ダッシュボードのヘルプはこちらから
-description: アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 パートナー ダッシュボード ヘルプ ライブラリをご活用ください。
+description: アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このダッシュ ボード ヘルプ ライブラリを具体的には、CSP および MPN プログラムのパートナー用に作成されたの回答を検索します。
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
-ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919902"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876372"
 ---
-# <a name="start-here-for-help-with-partner-center-dashboard"></a>パートナー センター ダッシュボードのヘルプはこちらから
+# <a name="start-here-for-help-with-partner-dashboard"></a>パートナー ダッシュボードのヘルプはこちらから
 
-アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 パートナー センター ダッシュボード ヘルプ ライブラリをご活用ください。
+アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このダッシュ ボード ヘルプ ライブラリを具体的には、CSP および MPN プログラムのパートナー用に作成されたの回答を検索します。
 
 ダッシュボードを既によくご存知の場合は、[新着情報](/partner-center/whats-new-in-pc)をご覧ください。
 

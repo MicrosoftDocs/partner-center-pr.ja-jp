@@ -3,36 +3,38 @@ title: マルチパートナーのサポート | パートナー センター
 description: 顧客が、クラウド ソリューション プロバイダー プログラムで、サービス専門分野の異なる複数のパートナーとの連携を求める場合があります。
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
-ms.openlocfilehash: e6d6b8d6c2c65738fb1fa5a1c84b523fb28257fe
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 60a925536bd377c010aeca2b8f2f8bbeb6b7f0a6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874832"
 ---
-# <a name="multi-partner-support"></a><span data-ttu-id="5b5cb-103">マルチパートナーのサポート</span><span class="sxs-lookup"><span data-stu-id="5b5cb-103">Multi-partner support</span></span>
+# <a name="multi-partner-support"></a><span data-ttu-id="43153-103">マルチパートナーのサポート</span><span class="sxs-lookup"><span data-stu-id="43153-103">Multi-partner support</span></span>
 
-**<span data-ttu-id="5b5cb-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="5b5cb-104">Applies to</span></span>**
+**<span data-ttu-id="43153-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="43153-104">Applies to</span></span>**
 
--  <span data-ttu-id="5b5cb-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="5b5cb-105">Partner Center</span></span>
--  <span data-ttu-id="5b5cb-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="5b5cb-106">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="5b5cb-107">Microsoft Cloud ドイツのパートナー センター</span><span class="sxs-lookup"><span data-stu-id="5b5cb-107">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="43153-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="43153-105">Partner Center</span></span>
+-  <span data-ttu-id="43153-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="43153-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="43153-107">Microsoft Cloud ドイツのパートナー センター</span><span class="sxs-lookup"><span data-stu-id="43153-107">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="5b5cb-108">パートナー ダッシュボードのマルチパートナー機能は、お客様が複数のパートナーとの連携を必要とする場合のシナリオに対応します。</span><span class="sxs-lookup"><span data-stu-id="5b5cb-108">The Partner Dashboard’s multi-partner feature supports scenarios when a customer wants to work with more than one partner.</span></span> <span data-ttu-id="5b5cb-109">たとえば、お客様は Office 365 の専門知識を持つパートナーに依頼し、さらに Microsoft Azure を専門とする別のパートナーに依頼することができます。</span><span class="sxs-lookup"><span data-stu-id="5b5cb-109">For example, a customer may want to hire one partner for their expertise in Office 365, but hire a different partner who specializes in Microsoft Azure.</span></span>
+<span data-ttu-id="43153-108">パートナー ダッシュボードのマルチパートナー機能は、お客様が複数のパートナーとの連携を必要とする場合のシナリオに対応します。</span><span class="sxs-lookup"><span data-stu-id="43153-108">The Partner Dashboard’s multi-partner feature supports scenarios when a customer wants to work with more than one partner.</span></span> <span data-ttu-id="43153-109">たとえば、お客様は Office 365 の専門知識を持つパートナーに依頼し、さらに Microsoft Azure を専門とする別のパートナーに依頼することができます。</span><span class="sxs-lookup"><span data-stu-id="43153-109">For example, a customer may want to hire one partner for their expertise in Office 365, but hire a different partner who specializes in Microsoft Azure.</span></span>
 
-<span data-ttu-id="5b5cb-110">パートナー ダッシュボードでマルチパートナー機能を使用するには、顧客を招待して代理管理者特権を顧客に要求します。</span><span class="sxs-lookup"><span data-stu-id="5b5cb-110">To use the multi-partner feature in the Partner Dashboard, invite the customer to give you delegated admininstrative privileges.</span></span> <span data-ttu-id="5b5cb-111">既にパートナーと連携している顧客との関係付けを確立する方法については、「[顧客との再販業者関係の要求](request-a-relationship-with-a-customer.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="5b5cb-111">See [Request a relationship with a customer](request-a-relationship-with-a-customer.md) for information about how to establish a relationship with a customer who is already working with a partner.</span></span>
+<span data-ttu-id="43153-110">パートナー ダッシュボードでマルチパートナー機能を使用するには、顧客を招待して代理管理者特権を顧客に要求します。</span><span class="sxs-lookup"><span data-stu-id="43153-110">To use the multi-partner feature in the Partner Dashboard, invite the customer to give you delegated admininstrative privileges.</span></span> <span data-ttu-id="43153-111">既にパートナーと連携している顧客との関係を確立する方法については、「[顧客との関係を要求する](request-a-relationship-with-a-customer.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="43153-111">See [Request a relationship with a customer](request-a-relationship-with-a-customer.md) for information about how to establish a relationship with a customer who is already working with a partner.</span></span>
 
-<span data-ttu-id="5b5cb-112">マルチパートナー機能では、次のことは行われません。</span><span class="sxs-lookup"><span data-stu-id="5b5cb-112">Multi-partner functionality does not:</span></span>
+<span data-ttu-id="43153-112">マルチパートナー機能では、次のことは行われません。</span><span class="sxs-lookup"><span data-stu-id="43153-112">Multi-partner functionality does not:</span></span>
 
--   <span data-ttu-id="5b5cb-113">顧客の既存のサブスクリプションの変更</span><span class="sxs-lookup"><span data-stu-id="5b5cb-113">Change any of the customer’s existing subscriptions</span></span>
+-   <span data-ttu-id="43153-113">顧客の既存のサブスクリプションの変更</span><span class="sxs-lookup"><span data-stu-id="43153-113">Change any of the customer’s existing subscriptions</span></span>
 
--   <span data-ttu-id="5b5cb-114">顧客の既存のサブスクリプションまたはアカウント所有権の移行</span><span class="sxs-lookup"><span data-stu-id="5b5cb-114">Transition the customer’s existing subscriptions or account ownership</span></span>
+-   <span data-ttu-id="43153-114">顧客の既存のサブスクリプションまたはアカウント所有権の移行</span><span class="sxs-lookup"><span data-stu-id="43153-114">Transition the customer’s existing subscriptions or account ownership</span></span>
 
--   <span data-ttu-id="5b5cb-115">顧客の既存のサブスクリプションの条件または顧客の義務の変更</span><span class="sxs-lookup"><span data-stu-id="5b5cb-115">Change the terms or customer’s obligations for any of their existing subscriptions</span></span>
+-   <span data-ttu-id="43153-115">顧客の既存のサブスクリプションの条件または顧客の義務の変更</span><span class="sxs-lookup"><span data-stu-id="43153-115">Change the terms or customer’s obligations for any of their existing subscriptions</span></span>
 
--   <span data-ttu-id="5b5cb-116">サブスクリプションの指名パートナーの変更</span><span class="sxs-lookup"><span data-stu-id="5b5cb-116">Change the partner of record for a subscription</span></span>
+-   <span data-ttu-id="43153-116">サブスクリプションの指名パートナーの変更</span><span class="sxs-lookup"><span data-stu-id="43153-116">Change the partner of record for a subscription</span></span>
 
->**<span data-ttu-id="5b5cb-117">重要</span><span class="sxs-lookup"><span data-stu-id="5b5cb-117">Important</span></span>**<br>
-<span data-ttu-id="5b5cb-118">現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。</span><span class="sxs-lookup"><span data-stu-id="5b5cb-118">A CSP partner cannot resell online services to another CSP partner currently.</span></span> <span data-ttu-id="5b5cb-119">マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。</span><span class="sxs-lookup"><span data-stu-id="5b5cb-119">Microsoft continuously reviews policies and capabilities of all programs.</span></span> <span data-ttu-id="5b5cb-120">機能のリリースに関するすべての情報は、パートナー ダッシュボードなど、通常の伝達方法でお知らせします。</span><span class="sxs-lookup"><span data-stu-id="5b5cb-120">Any announcements about feature releases will be announced through the usual communication channels, including the Partner Dashboard.</span></span>  
+>**<span data-ttu-id="43153-117">重要</span><span class="sxs-lookup"><span data-stu-id="43153-117">Important</span></span>**<br>
+<span data-ttu-id="43153-118">現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。</span><span class="sxs-lookup"><span data-stu-id="43153-118">A CSP partner cannot resell online services to another CSP partner currently.</span></span> <span data-ttu-id="43153-119">マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。</span><span class="sxs-lookup"><span data-stu-id="43153-119">Microsoft continuously reviews policies and capabilities of all programs.</span></span> <span data-ttu-id="43153-120">機能のリリースに関するすべての情報は、パートナー ダッシュボードなど、通常の伝達方法でお知らせします。</span><span class="sxs-lookup"><span data-stu-id="43153-120">Any announcements about feature releases will be announced through the usual communication channels, including the Partner Dashboard.</span></span>  
 
  
 
