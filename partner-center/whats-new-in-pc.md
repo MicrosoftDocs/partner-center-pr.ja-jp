@@ -1,14 +1,16 @@
 ---
-title: "パートナー センターの新機能 | パートナー センター"
-description: "新機能をご紹介します。"
+title: パートナー ダッシュ ボードでの最新情報 |パートナー センター
+description: 新機能をご紹介します。
 author: labrenne
-ms.openlocfilehash: 4c64544f6707ce40cd05257817e3292d9af57055
-ms.sourcegitcommit: 73e4360c89adb0e2787b60fb839dec9a9f60e9fd
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4b30b80779754596d2be566fd0afda26631b5d4b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/21/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874742"
 ---
-# <a name="whats-new-in-partner-center"></a>パートナー センターの新機能
+# <a name="whats-new-in-partner-dashboard"></a>パートナー ダッシュ ボードでの最新情報
 
 **適用対象**
 
@@ -16,14 +18,16 @@ ms.lasthandoff: 11/21/2017
 
 ## <a name="check-out-new-features-and-capabilities"></a>新機能をご確認ください 
 
-パートナー センターには、パートナーによるビジネスの管理と拡大に役立つ新機能が定期的に追加されます。
+パートナー ダッシュ ボードは、定期的にパートナーの管理し、ビジネスの成長に役立つ新機能を追加します。
 
 
 |**新機能**   |**詳細情報**   |
 |----------------------|:-----------------|
-|MPN パートナーは、パートナー センターで Action Pack サブスクリプションを購入または更新できるようになりました。   | [Action Pack サブスクリプションの購入と更新](mpn-get-action-pack.md)|
-|ビジネス プロファイルを作成または更新し、新規取引のための紹介案件を増やします。   | [ビジネス プロファイルの作成と Microsoft からの潜在顧客の獲得](referrals.md)|
-|直接パートナー - Power BI 用パートナー センター分析アプリでは、ビジネス データのビジュアル表示を利用できます。   | [Power BI 用パートナー センター分析アプリ](power-bi-app-for-direct-partners.md)   |
-|Windows Autopilot では、新しい Windows 10 Pro デバイスのセットアップを、初回起動からわずか数ステップで効率的に実行し、セキュリティで保護することができます。   |[Windows AutoPilot](autopilot.md)   |
-|すべてのパートナーが、特定の CSP サブスクリプションで、年次請求と月次請求のいずれかの支払い方法を選択できるようになります。   |[新しい請求機能についてのよく寄せられる質問](faq-about-new-billing-features.md)   |
-|顧客に、顧客が興味を持ったサブスクリプションの 30 日間試用版を提供します。   |[顧客を試用版にサインアップする](offer-your-customers-trials-of-microsoft-products.md)   
+|既にを販売する Microsoft 製品と連携するサード パーティ製ソフトウェア製品を顧客に提供します。   | [サード パーティ製品](third-party-offers.md)|
+|CSP プログラムでは、パートナーが企業顧客に代わり、Microsoft パートナー センターと Azure portal を通じて Azure RI と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。|[Azure Reserved VM Instances (RI) + Server Subscriptions for Azure](azure-ri-server-subscriptions.md)|
+|パートナー ダッシュ ボードのツアー (サインインが必要)|[パートナー ダッシュ ボードのツアー](https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview)|
+|インセンティブ協力プレイのプログラムに参加している CSP パートナーの作成および、ダッシュ ボード内の要求を管理できるようになりました|[作成およびインセンティブ要求の管理](create-incentives-claims.md)|
+|Microsoft の CSP プログラムを通じて Azure 予約インスタンスと Windows Server and SQL Server Subscriptions を販売することで、高度に予測可能な永続的なクラウド ワークロードをサポートするために複数のパフォーマンスに優れたソリューション高まっての顧客の需要に対応します。 取得、プロビジョニング、および Azure ハイブリッド特典を利用して Azure reserved instances と Server subscriptions を Microsoft パートナー センターと Azure Portal を通じて企業顧客の代理としての管理できるようになりましたことができます。|[CSP でのソフトウェア サブスクリプションを販売します。](csp-software-subscriptions.md)|
+|新しいデータ分析が向上するためのツールは、ビジネスの成長とニーズを追跡の検出します。| [パートナーの貢献度のパフォーマンス インジケーターの上の最新](partner-contributions.md)|
+|CSP パートナー Azure の使用、間接リセラーの作業をおよびライセンスとサブスクリプションの導入実績を使用率を分析できますできるようになりました|[Azure の分析の使用状況](analyze-azure-usage.md)  [間接リセラーのパフォーマンスを分析](Analyze-indirect-resellers.md)    [分析サブスクリプションとライセンス](analyze-subscriptions-licenses.md)|
+

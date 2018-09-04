@@ -4,11 +4,13 @@ Description: If your customer is experiencing a service problem that you can''t 
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
-ms.openlocfilehash: 5e1cbd1a6db707ddb2cecb7c9e8d59bfa828f6be
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 25f57a2ddc16ebb1f98d6f2f083fca870b74fdff
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876272"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理としての問題の報告
 
@@ -18,7 +20,7 @@ ms.lasthandoff: 04/08/2018
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-お客様に発生したサービス関連の問題がパートナーによって解決できず、その問題が「[マイクロソフトへの問題のエスカレート](escalate-problems-to-microsoft.md)」に記載されている条件に一致する場合は、サポート チケットを発行します。 このプロセスは、請求に関する問題や紛争をエスカレートする場合や、不正行為が疑われる場合にも役に立ちます。
+貴社で解決できないサービスに関する問題が顧客側で発生し、「[Microsoft に問題をエスカレートする](escalate-problems-to-microsoft.md)」に記載されている条件に一致する場合は、サポート チケットを発行します。 このプロセスは、請求に関する問題や紛争をエスカレートする場合や、不正行為が疑われる場合にも役に立ちます。
 
 **顧客のサービス リクエストを提出する**
 
@@ -43,7 +45,8 @@ ms.lasthandoff: 04/08/2018
 
 **Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite**
 
-1. **[サービス リクエストの作成]** セクションで、適切なサポート トピックのカテゴリを選びます。 トピックをさらに表示するには、**[その他]** を 選びます。    
+1. 
+          **[サービス リクエストの作成]** セクションで、適切なサポート トピックのカテゴリを選択します。 トピックをさらに表示するには、**[その他]** を 選びます。    
 2. サービス リクエスト フォームに記入し、**[送信]** を選びます。
     **注**  顧客ではなく、必ず貴社の連絡先情報を記入してください。
 3. 後で、Office 365 管理センターにアクセスし、**[すべてのサポート チケットを表示する]** を選んで顧客のサービス リクエストを見直します。
@@ -80,15 +83,19 @@ ms.lasthandoff: 04/08/2018
 
 Microsoft Azure ポータルに直接サインインすると、顧客のコンテキストではなく、貴社のコンテキストでポータルが表示されます。 このため、Microsoft Azure ポータルに直接サインインするのは、貴社のサブスクリプションに関するサービス リクエストを作成するときだけにしてください。
 
-CSP サポートの権利では、貴社のパートナー サブスクリプションに関するサポートは提供されないため、貴社のパートナー サブスクリプションに関係するサービス リクエストを作成するときは、有効なサポート プランの権利を提示する必要があります。 たとえば、MPN コントラクト ID、プレミア、Azure サポート プランです。 「[Azure サポートに関する FAQ](http://go.microsoft.com/fwlink/?LinkId=717532)」をご覧ください。
+CSP サポートの権利では、貴社のパートナー サブスクリプションに関するサポートは提供されないため、貴社のパートナー サブスクリプションに関係するサービス リクエストを作成するときは、有効なサポート プランの権利を提示する必要があります。 たとえば、MPN コントラクト ID、プレミア、または Azure サポート プランです。 「[Azure サポートに関する FAQ](http://go.microsoft.com/fwlink/?LinkId=717532)」をご覧ください。
 
 **Office 365 管理センター ポータルにサインインし、パートナー センターをバイパスした場合はどうなりますか?**
 
 Office 365 管理センターに直接サインインすると、顧客のコンテキストではなく、貴社のコンテキストでセンターが表示されます。 このため、Office 365 管理センターに直接サインインするのは、貴社のサブスクリプションに関するサービス リクエストを作成するときだけにしてください。
 
- 
+**Dynamics 365 の追加のサポートを取得する方法**
 
+ 関連する問題が発生した場合: Dynamics 365 プラン サブスクリプション、ライセンス、請求、ファイナンス & 操作や IURs がさらにテクニカル サポートが必要です。
  
+[Dynamics のサポート](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)にお問い合わせ
+
+[Microsoft Dynamics のサポート](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)を読み取る
 
 
 

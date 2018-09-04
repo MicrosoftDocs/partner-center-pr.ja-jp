@@ -3,11 +3,13 @@ title: マルチパートナーのサポート | パートナー センター
 description: 顧客が、クラウド ソリューション プロバイダー プログラムで、サービス専門分野の異なる複数のパートナーとの連携を求める場合があります。
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
-ms.openlocfilehash: e6d6b8d6c2c65738fb1fa5a1c84b523fb28257fe
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 60a925536bd377c010aeca2b8f2f8bbeb6b7f0a6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874832"
 ---
 # <a name="multi-partner-support"></a>マルチパートナーのサポート
 
@@ -19,7 +21,7 @@ ms.lasthandoff: 04/08/2018
 
 パートナー ダッシュボードのマルチパートナー機能は、お客様が複数のパートナーとの連携を必要とする場合のシナリオに対応します。 たとえば、お客様は Office 365 の専門知識を持つパートナーに依頼し、さらに Microsoft Azure を専門とする別のパートナーに依頼することができます。
 
-パートナー ダッシュボードでマルチパートナー機能を使用するには、顧客を招待して代理管理者特権を顧客に要求します。 既にパートナーと連携している顧客との関係付けを確立する方法については、「[顧客との再販業者関係の要求](request-a-relationship-with-a-customer.md)」を参照してください。
+パートナー ダッシュボードでマルチパートナー機能を使用するには、顧客を招待して代理管理者特権を顧客に要求します。 既にパートナーと連携している顧客との関係を確立する方法については、「[顧客との関係を要求する](request-a-relationship-with-a-customer.md)」を参照してください。
 
 マルチパートナー機能では、次のことは行われません。
 

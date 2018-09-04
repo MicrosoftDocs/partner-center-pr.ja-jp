@@ -3,11 +3,13 @@ title: マルチチャンネル | パートナー センター
 description: 状況によっては、顧客が他から購入したサブスクリプションのプロビジョニングやサポートをパートナーに依頼する場合があります。
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-ms.openlocfilehash: bbba14ec95a99ad2f36cf9173d43fb244d3ca677
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4fcb572f7afc9d7f75b8330a23b45eb5696c30e3
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875842"
 ---
 # <a name="multi-channel-support"></a>マルチチャンネルのサポート
 
@@ -21,7 +23,7 @@ ms.lasthandoff: 04/08/2018
 
 -   顧客が既にマイクロソフトから直接サブスクリプションを購入した場合、または Advisor プログラム、Open プログラム、EA プログラムを通じて購入した場合。
 
--   顧客がクラウド ソリューション プロバイダー プログラムに参加していないまたは Microsoft Syndication パートナーでないサード パーティからサブスクリプションを購入した場合。 顧客は既存のライセンスベースのサブスクリプションを、クラウド ソリューション プロバイダー プログラムに参加していない別のパートナーに切り替えることはできません。サブスクリプションの期間が終了するまで待つか、移行する前にサブスクリプションをキャンセルする必要があります。
+-   顧客がクラウド ソリューション プロバイダー プログラムに参加していないまたは Microsoft Syndication パートナーでないサード パーティからサブスクリプションを購入した場合。 顧客は既存のライセンス ベースのサブスクリプションを、クラウド ソリューション プロバイダー プログラムに参加していない別のパートナーに切り替えることはできません。サブスクリプションの期間が終了するまで待つか、移行する前にサブスクリプションをキャンセルする必要があります。
 
 
 <table>

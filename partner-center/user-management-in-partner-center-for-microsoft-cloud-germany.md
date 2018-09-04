@@ -1,10 +1,14 @@
 ---
-title: "Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理 | Microsoft Cloud ドイツのパートナー センター"
-description: "個人データの収集と使用に適用される国、地域、および業界固有の要件に準拠するためのユーザー管理機能が、Microsoft Cloud ドイツのパートナー センターでは利用できません。 代わりに、Microsoft Cloud ドイツの Azure ポータルでユーザーを追加および管理します。"
+title: Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理 | Microsoft Cloud ドイツのパートナー センター
+description: 個人データの収集と使用に適用される国、地域、および業界固有の要件に準拠するためのユーザー管理機能が、Microsoft Cloud ドイツのパートナー センターでは利用できません。 代わりに、Microsoft Cloud ドイツの Azure ポータルでユーザーを追加および管理します。
 author: MaggiePucciEvans
-ms.openlocfilehash: 94e8caf84dc0ba52f231f03c7e4a9475fce075a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4e354fd3f5bf20ef10600a454a94704fe2db0700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875772"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
 
@@ -26,12 +30,11 @@ translationtype: HT
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツの Azure ポータルでユーザーを管理する方法 
 
-Microsoft Cloud ドイツのパートナー センターにサインインしている場合は、サインインし直さなくても Microsoft Cloud ドイツの Azure ポータルを開くことができます。 ただし、Microsoft Cloud ドイツの Azure ポータルに直接サインインする必要がある場合は、[https://portal.microsoftazure.de](https://portal.microsoftazure.de) に移動します。 
+Microsoft Cloud ドイツのパートナー センターにサインインしている場合は、サインインし直さなくても Microsoft Cloud ドイツの Azure ポータルを開くことができます。 ただし、Microsoft Cloud ドイツの Azure ポータルに直接サインインする必要がある場合に、[https://portal.microsoftazure.de](https://portal.microsoftazure.de)します。 
 
 Microsoft Cloud ドイツの Azure ポータルに正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
 
->**注**
- 下記のリンクを選択すると、別の Web サイトが開きます。 
+>**注** 下記のリンクを選択すると、別の Web サイトが開きます。 
 
 -  [**Azure Active Directory に新しいユーザーを追加する**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

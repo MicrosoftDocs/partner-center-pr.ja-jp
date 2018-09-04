@@ -3,12 +3,13 @@ title: Skype for Business Online プラン 1 サブスクリプションの新�
 Description: Skype for Business Online Plan 1 subscriptions is retiring.
 Author: labrenne
 keywords: Skype for Business の計画、Skype の提供終了、Office 365
-ms.openlocfilehash: 7f728f3173095e3391f9cacea6378bdfcceb2d2a
-ms.sourcegitcommit: e6de41b2cc8b2307eae2ddb1a3c51a56653b5463
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 82bafe918ba56fd834b1b468d6b787d52d2b90cd
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/26/2018
-ms.locfileid: "2186714"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875462"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行
 
@@ -35,10 +36,10 @@ API (CREST またはパートナー センターのいずれか) を使用して
 
 |**機能**    |**オプション 1**   |**オプション 2**   |**オプション 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Skype for Business Online プラン 1 に含まれるすべての機能の利用|〇   |要   |〇   |
-|IM とプレゼンス |〇   |要   |〇   |
-|IP を経由したピアツーピア オーディオとビデオ|〇   |要   |〇   
-|認証ユーザーとして会議に参加| 〇   |要   |〇   |
+|Skype for Business Online プラン 1 に含まれるすべての機能の利用|はい   |はい   |はい   |
+|IM とプレゼンス |はい   |はい   |はい   |
+|IP を経由したピアツーピア オーディオとビデオ|はい   |はい   |はい   
+|認証ユーザーとして会議に参加| はい   |はい   |はい   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>お客様を新しい製品プランに移行する
 

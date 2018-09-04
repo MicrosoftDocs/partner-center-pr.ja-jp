@@ -1,12 +1,14 @@
 ---
-title: "プロモーションを使用して、新しい顧客の関心を引く |パートナー センター"
-description: "クラウド ソリューション プロバイダー プログラムの Microsoft パートナーは、プロモーション価格でサブスクリプションを購入し、顧客に割引価格で販売することができます。"
+title: プロモーションを使用して、新しい顧客の関心を引く |パートナー センター
+description: クラウド ソリューション プロバイダー プログラムの Microsoft パートナーは、プロモーション価格でサブスクリプションを購入し、顧客に割引価格で販売することができます。
 author: MaggiePucciEvans
-ms.openlocfilehash: ee86b07deee9fa62ce40d9926b98d7c80f48c7a6
-ms.sourcegitcommit: d4a055eb0a910911f6cf1618cf6f20ff3405a41c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 36d48757940aa3659d3513133afe2c0d98bbd3bb
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/24/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875382"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>プロモーションを使用して、新しい顧客の関心を引く  
 
@@ -47,7 +49,7 @@ ms.lasthandoff: 08/24/2017
 
 5. 注文を確認します。 適用されるプロモーション価格が、**[割引]** 列に表示されます。  
 
-6.  **[送信]**をクリックして購入します。 顧客の次回の請求書に割引価格が表示されます。  
+6.  **[送信]** をクリックして購入します。 顧客の次回の請求書に割引価格が表示されます。  
 
 
 

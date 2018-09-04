@@ -4,11 +4,13 @@ description: 顧客が現在提供されているサブスクリプションよ�
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 keywords: 既存のサブスクリプションにライセンスを追加する, 既存のサブスクリプションにシートを追加する, サブスクリプションを変更する, サブスクリプションの変更, 顧客のライセンスを追加購入する
-ms.openlocfilehash: 1f23892efab9e00fa492eb96d894763276bf673a
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 089baed41e278dff269c622641fa685d684ea4fe
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874872"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>既存のサブスクリプションへのライセンスまたはサービスの追加
 
@@ -73,15 +75,15 @@ ms.lasthandoff: 04/08/2018
 
 -   サブスクリプションがアクティブである (中断またはキャンセルされていない)。
 
--   その顧客とサービスに対する委任された管理者特権を持っている。 [代理管理者特権を要求する方法](request-a-relationship-with-a-customer.md)を確認してください。
+-   その顧客とサービスに対する委任された管理者特権を持っている。 「[委任された管理者特権の要求](request-a-relationship-with-a-customer.md)」を確認してください。
 
 -   顧客がその追加サービスを含むサブスクリプションをまだ持っていない。
 
 -   顧客がアップグレード先のサブスクリプションをまだ持っていない。
 
-後半の 2 つの場合、顧客が別のパートナーまたはチャンネルからそれらのサブスクリプションまたはサービスを既に購入済みであり、まず既存のものをキャンセルしなければ購入できない可能性があります。 詳しくは、「[マルチチャンネル](multichannel.md)」をご覧ください。
+後ろの 2 つの状況では、顧客が別のパートナーまたはチャネルからそれらのサブスクリプションまたはサービスを購入している可能性があります。その場合は、まず既存のものをキャンセルしないと購入してもらうことはできません。 詳しくは、「[マルチチャンネル](multichannel.md)」をご覧ください。
 
-これが請求に及ぼす影響については、「[一般的な課金シナリオ](common-billing-scenarios.md)」で、サブスクリプションをキャンセルして新しいサブスクリプションを追加する方法を確認してください。
+これが課金に及ぼす影響については、「[一般的な課金シナリオ](common-billing-scenarios.md)」で、サブスクリプションをキャンセルして新しいサブスクリプションを追加する方法を確認してください。
 
 **サブスクリプションをアップグレードする**
 

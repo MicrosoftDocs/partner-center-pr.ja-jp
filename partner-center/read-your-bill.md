@@ -1,14 +1,16 @@
 ---
-title: 請求書の記載事項 | パートナー センター
-description: 請求書には、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されます。 請求書は、パートナー センターのダッシュボードで利用できます。
+title: 請求書を読み取る | パートナー センター
+description: 請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 請求書は、パートナー センターのダッシュボードで利用できます。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
-ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875182"
 ---
 # <a name="read-your-bill"></a>請求書の記載事項
 
@@ -25,8 +27,9 @@ ms.lasthandoff: 05/10/2018
 >**注**<br>
 請求書は、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されたものであり、指定の請求日から 4 日以内に表示可能になります。
 
+ライセンス ベース (Office365) と (Azure) 料金の使用量ベースの 1 つの請求書と 1 回限り (Azure reserved VM instances の) 別の請求書を受け取ったら料金。
 
-料金の項目別明細については、関連する調整ファイルを使用します。 調整ファイルには、顧客への請求書の作成に使用される顧客 ID とサブスクリプション ID が含まれます。 詳しくは、「[調整ファイルの使用](use-the-reconciliation-files.md)」をご覧ください。
+料金の項目別明細については、関連する調整ファイルを使用します。 調整ファイルには、顧客への請求書の作成に使用される顧客 ID とサブスクリプション ID が含まれます。 詳しくは、「[調整ファイルの使用方法](use-the-reconciliation-files.md)」をご覧ください。
 
 ## <a name="invoice-file-definitions"></a>請求書ファイルの定義
 
@@ -54,28 +57,36 @@ ms.lasthandoff: 05/10/2018
 <td>請求書の送付先となる住所。 この住所を変更するには、[アカウント設定] > [パートナー課金プロファイル] に移動します。 </td>
 </tr>
 <tr class="odd">
-<td>当月サービス利用料金</td>
+<td>ライセンス ベースの課金</td>
 <td>購入した使用量ベースのライセンスに対する定額の月額 (または年額) 料金で、サービスの前に課金されます。 この数値は、ライセンスベースの調整ファイルの &quot;Subtotal&quot; 列 (T 列) にあるすべての料金の合計です。</td>
 </tr>
 <tr class="even">
-<td>利用料金</td>
+<td>使用量ベースの課金</td>
 <td>請求月の間に有効にした、または使用された Azure の利用料金 (新しいサービスやアプリケーションが含まれます)。 この数値は、使用量ベースの調整ファイルの &quot;PretaxCharges&quot; 列 (Z 列) にあるすべての料金の合計です。</td>
 </tr>
 <tr class="odd">
-<td>調整額</td>
-<td>サブスクリプションに加えられた変更内容 (シートの増減など) に対するクレジットまたは調整の金額。</td>
-</tr>
-<tr class="even">
-<td>その他の割引</td>
+<td>割引</td>
 <td>たとえば、サブスクリプションの通常価格に対してお客様が受け取る割引です。 これは単価やライセンスではなく、定額で表示されます。</td>
 </tr>
 <tr class="odd">
-<td>税</td>
+<td>クレジット</td>
+<td>サブスクリプションに加えられた変更内容 (シートの増減など) に対するクレジットまたは調整の金額。</td>
+</tr>
+<tr class="even">
+<tr class="even">
+<td>Subtotal</td>
+<td>税金と税金排他的料金とクレジット前に、の合計です。</td>
+</tr>
+<td>税金</td>
 <td>請求書の 2 ページ目から始まる明細セクションに示される、現在の合計料金に対する税金の合計。 この数値は、以下の列にあるすべての料金の合計です。
 <ul>
 <li>使用量ベースの調整ファイルの &quot;TaxAmount&quot; 列 (AA 列)、および</li>
-<li>ライセンスベースのファイルの &quot;Tax&quot; 列 (U 列)。</li>
+<li>ライセンス ベースのファイルの &quot;Tax&quot; 列 (U 列)。</li>
 </ul></td>
+</tr>
+<tr class="odd">
+<td>その他のクレジット</td>
+<td>税排他的クレジット。</td>
 </tr>
 <tr class="even">
 <td>当月の請求額合計</td>
@@ -97,13 +108,10 @@ ms.lasthandoff: 05/10/2018
 <td>請求書作成日</td>
 <td>請求書を受け取る日付。</td>
 </tr>
-
 <tr class="odd">
 <td>支払条件</td>
 <td>1 回限りの購入の場合は、常に 60 日間になります。</td>
 </tr>
-
-
 <tr class="even">
 <td>支払期日</td>
 <td>この日付までに、お客様からの支払いが受領される必要があります。</td>

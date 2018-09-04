@@ -1,14 +1,16 @@
 ---
-title: "未払い、詐欺、不正使用 | パートナー センター"
-description: "商品やサービスに対する顧客の未払い、不正行為、不正使用などのオンライン トランザクション リスクを管理するための戦略。"
+title: 未払い、詐欺、不正使用 | パートナー センター
+description: 商品やサービスに対する顧客の未払い、不正行為、不正使用などのオンライン トランザクション リスクを管理するための戦略。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: "詐欺, 不正使用, 使用条件, 利用規約, 未払い, 顧客が料金を支払わない, オンライン リスク, サービスの盗用, サービスの不正使用, サブスクリプションの一時停止,"
+keywords: 詐欺, 不正使用, 使用条件, 利用規約, 未払い, 顧客が料金を支払わない, オンライン リスク, サービスの盗用, サービスの不正使用, サブスクリプションの一時停止,
 author: MaggiePucciEvans
-ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876282"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未払い、詐欺、不正使用
 

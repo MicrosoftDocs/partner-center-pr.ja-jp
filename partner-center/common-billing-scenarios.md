@@ -4,11 +4,13 @@ description: このトピックでは、新しいサブスクリプションの�
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
-ms.openlocfilehash: 3cb6ca72b9337d384e8537e155a455fba80eb6d6
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: ff329480cec68e45c809016da64f6604c9837bb6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876592"
 ---
 # <a name="common-billing-scenarios"></a>一般的な課金シナリオ
 
@@ -24,7 +26,7 @@ ms.lasthandoff: 05/10/2018
 
 -   [使用量ベースの課金](#usagebased)
 
--   [ライセンスベースの課金](#licensebased)
+-   [ライセンス ベースの課金](#licensebased)
 
 ## <a href="" id="usagebased"></a>使用量ベースの課金
 

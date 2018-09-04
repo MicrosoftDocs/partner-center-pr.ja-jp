@@ -3,12 +3,13 @@ title: ポートフォリオにサード パーティ製ソフトウェアを追
 description: マイクロソフト製品と連動するサード パーティ製ソフトウェアを購入する
 author: labrenne
 keywords: 購入するサード パーティ製製品、ソフトウェア
-ms.openlocfilehash: 5b2e06b026f1ab9c9e1dfbe14d22aef9af83fa7d
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991714"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875522"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>ポートフォリオにサード パーティ製ソフトウェアを追加する
 

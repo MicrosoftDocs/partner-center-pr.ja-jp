@@ -1,12 +1,14 @@
 ---
-title: "パートナー センターにパートナー インセンティブ | パートナー センター"
-description: "インセンティブ プログラムでは、新しいマーケティング手法を開発するための支援、トレーニングの提供などを通じてパートナーを支援します。"
+title: パートナー センターにパートナー インセンティブ | パートナー センター
+description: インセンティブ プログラムでは、新しいマーケティング手法を開発するための支援、トレーニングの提供などを通じてパートナーを支援します。
 author: labrenne
-ms.openlocfilehash: df329e690c839a8763268479fd52b5797fcc4a4c
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 086f81a07aa4f12f40c7f7d1ca47dc6051cd4e59
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875672"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>パートナー センターにパートナー インセンティブ 
 

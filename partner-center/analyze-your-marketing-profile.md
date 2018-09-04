@@ -3,11 +3,13 @@ title: ビジネス プロファイルの効果を分析する | パートナー
 description: パートナー センターを通じて、紹介案件を評価し、交渉して、対応します。
 author: KPacquer
 robots: noindex,nofollow
-ms.openlocfilehash: 15050124e65f7740a4f76eb075ad7701ed918154
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: def007588180904b929cd568b43a04548e574cd6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875362"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>ビジネス プロファイルの効果を分析する
 <!-- 

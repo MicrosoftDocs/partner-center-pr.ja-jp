@@ -1,13 +1,15 @@
 ---
-title: "Power BI 用パートナー センター分析アプリ | パートナー センター"
-description: "Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け) の使用方法を説明します。"
+title: Power BI 用パートナー センター分析アプリ | パートナー センター
+description: Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け) の使用方法を説明します。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: labrenne
-ms.openlocfilehash: 3eadf41093f6d3d2ad42fecae856384800676b1a
-ms.sourcegitcommit: 9183f596e81595496ae49375c116ea0f772babac
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 3e356b860b0975960939838203981c054a89289e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876164"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI 用パートナー センター分析アプリでビジネス データを表示する
 

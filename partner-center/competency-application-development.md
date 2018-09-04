@@ -1,43 +1,53 @@
 ---
-title: "アプリケーション開発コンピテンシー"
-description: "すばやいソフトウェア配信と継続的な機能強化を可能にします。 6 万を超えるアプリケーション ビルダー パートナーに加わってビジネスを差別化し、アプリケーション開発コンピテンシーを取得することで Microsoft パートナーとしての地位を確立しましょう。"
+title: アプリケーション開発コンピテンシー
+description: すばやいソフトウェア配信と継続的な機能強化を可能にします。 6 万を超えるアプリケーション ビルダー パートナーに加わってビジネスを差別化し、アプリケーション開発コンピテンシーを取得することで Microsoft パートナーとしての地位を確立しましょう。
 author: Daniel Simpson
-keywords: "コンピテンシー,コンピテンシー,クラウド ビジネス アプリケーション,アプリケーション開発"
-ms.openlocfilehash: 153a40815f99950fa379f9bf35e55151fb159c96
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: コンピテンシー,コンピテンシー,クラウド ビジネス アプリケーション,アプリケーション開発
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 3b23ced367061546cd0a48467d68e6a07db0d2c6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876682"
 ---
-# <a name="application-development"></a>アプリケーションの開発 
+>[!IMPORTANT]
+>このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスしてください。
 
-すばやいソフトウェア配信と継続的な機能強化を可能にします。 6 万を超えるアプリケーション ビルダー パートナーに加わってビジネスを差別化し、アプリケーション開発コンピテンシーを取得することで Microsoft パートナーとしての地位を確立しましょう。
+<!--
 
-## <a name="application-builder-option"></a>アプリケーション ビルダー オプション
-アプリケーション インテグレーター オプションは、試験や認定資格の合格を通じてスキルを証明しようとする場合に最適です。  Application Development コンピテンシーの取得時に選択したフォーカス分野から試験を選択してください。
+# Application Development 
 
+Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
 
-### <a name="silver"></a>Silver
-1. 以下のいずれかの試験に合格したか、または評価要件を満たす従業員が組織に **2** 人以上必要です。
-
-    - **Web アプリの開発**フォーカス分野
-        - [試験 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx): JavaScript と CSS3 を使った HTML5 のプログラミング  
-        - [試験 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): C# のプログラミニング 
-        - [試験 70-486](https://www.microsoft.com/en-us/learning/exam-70-486.aspx): ASP.NET MVC Web アプリケーションの開発  
-
-    - **ユニバーサル Windows プラットフォーム** フォーカス分野
-        - [試験 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): モバイル アプリの開発 
-        - [試験 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): ユニバーサル Windows プラットフォーム - アプリ アーキテクチャおよび UX/UI *  
-        - [試験 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): ユニバーサル Windows プラットフォーム – アプリ データ、サービス、コーディング パターン*  
-
-    - **Azure アプリの開発**フォーカス分野
-        - [試験 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Microsoft Azure ソリューションの開発 
-        - [試験 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Windows Azure および Web サービスの開発
-        - [試験 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Microsoft Azure インフラストラクチャ ソリューションの実装   
+## Application Builder option
+The Application Builder option is ideal if you prefer to prove your skills by passing exams or certifications.  Choose exams from the focus area of your choice to attain the Application Development competency.
 
 
-### <a name="gold"></a>Gold
-1. 必要な認定試験に合格した従業員が組織に **4** 人必要です。
-    - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): アプリ ビルダー 
+### Silver
+1. Your organization must have **2** individuals pass one of the following exams, or the assessment requirements.
 
-*2017 年 9 月 30 日に廃止
+    - **Web App Dev** focus area
+        - [Exam 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx): Programming in HTML5 with JavaScript and CSS3  
+        - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C# 
+        - [Exam 70-486](https://www.microsoft.com/en-us/learning/exam-70-486.aspx): Developing ASP.NET MVC Web Applications  
+
+    - **Universal Windows Platform** focus area
+        - [Exam 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Developing Mobile Apps 
+        - [Exam 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Universal Windows Platform – App Architecture and UX/UI *  
+        - [Exam 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Universal Windows Platform – App Data, Services, and Coding Patterns *  
+
+    - **Azure App Dev** focus area
+        - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions 
+        - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+        - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions   
+
+
+### Gold
+1. Your organization must have **4** individuals pass the required certification.
+    - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder 
+
+*Retiring September 30, 2017
+
+-->

@@ -1,85 +1,93 @@
 ---
-title: "アプリケーション統合コンピテンシー"
-description: "アプリケーション統合コンピテンシーは、独自のアプリケーションを Microsoft エコシステム全体のさまざまな製品に統合するパートナーや開発者を認識します。"
+title: アプリケーション統合コンピテンシー
+description: アプリケーション統合コンピテンシーは、独自のアプリケーションを Microsoft エコシステム全体のさまざまな製品に統合するパートナーや開発者を認識します。
 author: Daniel Simpson
-keywords: "コンピテンシー,コンピテンシー,アプリケーション統合"
-ms.openlocfilehash: 968cf5bdbe4e6c78ad330d94ad618a821927483a
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: コンピテンシー,コンピテンシー,アプリケーション統合
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: a5c69706898ff791f56a86a4c0f2f32dfb2199d4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876692"
 ---
-# <a name="application-integration"></a>アプリケーション統合 
-アプリケーション統合コンピテンシーは、独自のアプリケーションを Microsoft エコシステム全体のさまざまな製品に統合するパートナーや開発者を認識します。 
+>[!IMPORTANT]
+>このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスしてください。
 
-## <a name="application-integrator-option"></a>アプリケーション インテグレーター オプション
+<!--
 
-アプリケーション インテグレーター オプションは、試験や認定に合格することによってスキルを証明することを希望する場合に最適です。 希望するフォーカス分野から試験を選択します。 アプリケーション開発コンピテンシーを取得するには、すべての手順を完了します。
+# Application Integration 
+The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem. 
 
-###<a name="silver"></a>Silver
-1. 試験と評価の両方に合格した従業員が組織に **2** 人必要です。
+## Application Integrator option
 
-    - **2** 人の従業員が次のいずれかの試験に合格する必要があります。
+The Application Integrator option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice. Complete all the steps within to attain the Application Integration competency.
 
-        - **Windows Server** フォーカス分野
-            - [試験 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): 高度な Windows Server 2012 サービスの構成
-            - [試験 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Windows Server 2016 のインストール、ストレージ、コンピューティング
-            - [試験 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Windows Server 2016 のネットワーキング
-            - [試験 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Windows Server 2016 での ID
+###Silver
+1. Your organization must have **2** individuals pass both exams and assessments.
 
-        - **SQL Server** フォーカス分野
+    - **2** individuals must pass any one of the following exams:
 
-            - [試験 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Microsoft SQL Server 2012 データベースの管理
-            - [試験 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Microsoft SQL Server 2012 データベースの開発
-            - [試験 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): SQL データベースの開発
-            - [試験 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): SQL データベース インフラストラクチャの管理
+        - **Windows Server** focus area
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
 
-        - **C#** フォーカス分野 
+        - **SQL Server** focus area
 
-            - [試験 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): C# のプログラミニング
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
 
-        - **Azure** フォーカス分野
+        - **C#** focus area 
 
-            - [試験 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Windows Azure および Web サービスの開発
-            - [試験 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Microsoft Azure ソリューションの開発
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
 
-        **および**
+        - **Azure** focus area
 
-    - **2** 人の従業員が次の評価に合格する必要があります。
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        - [アプリケーション統合のための BizTalk 技術コンピテンシー評価 (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+        **AND**
 
-###<a name="gold"></a>Gold
-1. 試験と評価の両方に合格した従業員が組織に **4** 人必要です。
+    - **2** individuals must pass the following assessment:
 
-    - **4** 人の従業員が次のいずれかの試験に合格する必要があります。
+        - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
 
-        - **Windows Server** フォーカス分野
+###Gold
+1. Your organization must have **4** individuals pass both exams and assessments.
 
-            - [試験 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): 高度な Windows Server 2012 サービスの構成
-            - [試験 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Windows Server 2016 のインストール、ストレージ、コンピューティング
-            - [試験 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Windows Server 2016 のネットワーキング
-            - [試験 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Windows Server 2016 での ID
+    - **4** individuals must pass any one of the following exams:
 
-        - **SQL Server** フォーカス分野
+        - **Windows Server** focus area
 
-            - [試験 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Microsoft SQL Server 2012 データベースの管理
-            - [試験 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Microsoft SQL Server 2012 データベースの開発
-            - [試験 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): SQL データベースの開発
-            - [試験 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): SQL データベース インフラストラクチャの管理
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
 
-        - **C#** フォーカス分野 
+        - **SQL Server** focus area
 
-            - [試験 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): C# のプログラミニング
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
 
-        - **Azure** フォーカス分野
+        - **C#** focus area 
 
-            - [試験 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Windows Azure および Web サービスの開発
-            - [試験 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Microsoft Azure ソリューションの開発
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
 
-        **および**
+        - **Azure** focus area
 
-    - **4** 人の従業員が次の評価に合格する必要があります。 同じ 4 人が上記の試験に合格して要件を満たすこともできます。 :
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        - [アプリケーション統合のための BizTalk 技術コンピテンシー評価 (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+        **AND**
 
+    - **4** individuals must pass the following assessment. This may be completed by the same 4 individuals who passed the exam above. :
+
+        - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+-->

@@ -3,11 +3,13 @@ title: 導入実績を高めて満足度を向上させる | パートナー セ
 description: 弊社のパートナーは、多くの指標を使用してビジネスが拡大しているかどうか、重点的に投資する分野はどこであるかを測ります。 パートナー センターは、顧客が購入したライセンスの使用の有無や活用方法に関するデータを提供することでそれをサポートします。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 1273572052afb076cf34a090f32ba7aca72d6d85
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 3b08e68a9c158d024a885521dbac8beaab5323d4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875612"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>導入実績を高めて満足度を向上させる
 
@@ -57,7 +59,7 @@ ms.lasthandoff: 04/08/2018
 ## <a name="next-steps"></a>次のステップ
 
 
-多くのヘルプと使い方に関する質問を担当している、アカウントでの導入数が低い、またはアップセルの機会をねらっている場合、トレーニング コースの提供を検討することをお勧めします。 購入したクラウド ソリューション ソフトウェアをより良く使用できるようにお客様に教えることで、生産性や満足度が向上し、サポート ニーズが低くなる可能性が高まります。
+多くのヘルプと使い方に関する質問を担当している、アカウントでの導入数が低い、またはアップセルの機会をねらっている場合、トレーニング コースの提供を検討することをお勧めします。 購入したクラウド ソリューション ソフトウェアをより良く使用できるように顧客に教えることで、生産性や満足度が向上し、サポート ニーズが低くなる可能性が高まります。
 
 <table>
 <colgroup>

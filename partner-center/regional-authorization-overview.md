@@ -4,11 +4,13 @@ description: 地域承認によって、国際的なビジネスを行ってい�
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 keywords: Azure AD テナント, テナントの統合, テナント戦略, CSP のテナント, CSP のパートナー アカウント, CSP の市場と対象地域, CSP で販売できる国または地域
-ms.openlocfilehash: 45d9c6730cf3274d68915a453b1a33ed5239f68d
-ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 59c9e17d3238afd775c08513f9ef39cb3fd6d7d7
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/19/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876382"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>CSP でのテナント統合戦略
 

@@ -2,11 +2,13 @@
 title: 米国政府機関向け Microsoft Cloud のパートナー センター | 米国政府機関向け Microsoft Cloud のパートナー センター
 description: 米国政府機関向け Microsoft Cloud のパートナー センターは、米国内で政府機関とのビジネスを行う顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。
 author: MaggiePucciEvans
-ms.openlocfilehash: 4f2fb444b3d0fe47b53b58429f5afb14bf00ed3b
-ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e17f2211e72501fdc72fe077b53d855fc2119759
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875642"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センター
 
@@ -29,7 +31,7 @@ ms.lasthandoff: 04/18/2018
 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー (CSP) プログラムに登録した後は、パートナー センターを使用して、クラウド固有のソリューションおよびサービスを米国政府機関の顧客に販売します。 
 
 >**注**<br>
-本記事の公開時点では、米国政府機関向け Microsoft Cloud のパートナー センターで、以下の機能が提供されていません (本記事の公開後、パートナー センターに機能が追加されて、この一覧の情報が最新ではなくなる可能性があります)。
+本記事の公開時点では、米国政府機関向け Microsoft Cloud のパートナー センターで、以下の機能をまだご利用いただけません (本記事の公開以降、パートナー センターに機能が追加される場合があるため、この一覧が最新ではなくなっている可能性があります)。
 
 - パートナーの検索
 - ビジネス プロファイル

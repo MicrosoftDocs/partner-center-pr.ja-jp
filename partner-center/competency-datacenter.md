@@ -1,52 +1,60 @@
 ---
-title: "Data Center コンピテンシー"
-description: "Datacenter コンピテンシーは、より柔軟で拡張性とコスト効果が高いソリューションにデータ センターを移行するパートナー様を認識します。"
+title: Data Center コンピテンシー
+description: Datacenter コンピテンシーは、より柔軟で拡張性とコスト効果が高いソリューションにデータ センターを移行するパートナー様を認識します。
 author: Daniel Simpson
-keywords: "コンピテンシー, コンピテンシー, Datacenter"
-ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
-ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
-ms.translationtype: HT
+keywords: コンピテンシー, コンピテンシー, Datacenter
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 28dc7d87b4ce203c423b9f23a006d75d3de638c0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/21/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876242"
 ---
-#<a name="datacenter"></a>Datacenter
-Datacenter コンピテンシーは、より柔軟で拡張性とコスト効果が高いソリューションにデータ センターを移行するパートナー様を認識します。
-##<a name="datacenter-solutions-option"></a>データセンター ソリューション オプション
-データセンター ソリューション オプションは、試験や認定に合格することによってスキルを証明することを希望する場合に最適です。 Datacenter コンピテンシーを取得するために選択したフォーカス分野から試験を選択します。
-###<a name="silver"></a>Silver
-1. いずれかの試験に合格した従業員が組織に **2** 人必要です。
+>[!IMPORTANT]
+>このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスしてください。
 
-    - **System Center** 2012 フォーカス分野
+<!--
+#Datacenter
+The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
+##Datacenter Solutions option
+The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice to attain the Datacenter competency.
+###Silver
+1. Your organization must have **2** individuals pass any one of the exams.
 
-        - [試験 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): System Center 2012 によるプライベート クラウドの監視と運用*
-        - [試験 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): System Center 2012 によるプライベート クラウドの構成と運用*
+    - **System Center** 2012 focus area
 
-\* 2017 年 12 月 31 日に廃止されます。 この試験は、2018 年 12 月 31 日まで引き続きコンピテンシーの資格として認められます。 この試験には、2017 年 11 月 30 日まで登録できます。
+        - [Exam 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoring and Operating a Private Cloud with System Center 2012*
+        - [Exam 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuring and Deploying a Private Cloud with System Center 2012*
 
-   - **仮想化**フォーカス分野
+\* Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-        - [試験 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Windows Server Hyper-V および System Center によるサーバー仮想化
+   - **Virtualization** focus area
 
-   - **Windows Server 2012** フォーカス分野
+        - [Exam 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Server Virtualization with Windows Server Hyper-V and System Center
 
-        - [試験 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Windows Server 2012 のインストールおよび構成
-        - [試験 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Windows Server 2012 の管理
-        - [試験 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): 高度な Windows Server 2012 サービスの構成
-        - [試験 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): サーバー インフラストラクチャの設計と実装
-        - [試験 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): 高度なサーバー インフラストラクチャの実装
-        - [試験 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): MCSA Windows Server 2012 にスキルを上げる
+   - **Windows Server 2012** focus area
 
-   - **Windows Server** 2016 フォーカス分野
-        - [試験 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Windows Server 2016 のインストール、ストレージ、コンピューティング
-        - [試験 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Windows Server 2016 のネットワーキング
-        - [試験 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Windows Server 2016 での ID
-        - [試験 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): MCSA: Windows Server 2016 にスキルを上げる
-        - [試験 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): Windows Server 2016 のセキュリティ保護
+        - [Exam 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012
+        - [Exam 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Administering Windows Server 2012
+        - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+        - [Exam 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): Designing and Implementing a Server Infrastructure
+        - [Exam 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure
+        - [Exam 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012
 
-###<a name="gold"></a>Gold
-1. 必要な認定試験に合格した従業員が組織に **4** 人必要です。
+   - **Windows Server** 2016 focus area
+        - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016
+        - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+        - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
+        - [Exam 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): Upgrading Your Skills to MCSA: Windows Server 2016
+        - [Exam 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): Securing Windows Server 2016
 
-    - **4** 人の従業員が次のいずれかの試験に合格する必要があります。
+###Gold
+1. Your organization must have **4** individuals pass the required certification.
+
+    - **4** individuals must pass one of the following exams:
 
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx): Windows Server 2012
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-2016-certification.aspx): Windows Server 2016
+-->

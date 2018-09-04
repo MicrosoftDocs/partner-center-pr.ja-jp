@@ -1,16 +1,18 @@
 ---
-title: 顧客のアクティビティ ログの表示 | パートナー センター
+title: 顧客のアクティビティ ログを表示する | パートナー センター
 description: アクティビティ ログは、顧客の取引やパートナーによる顧客の管理アクションに関する情報を提供します。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
-ms.openlocfilehash: ae5ac419d505984f5f955ddaad62acbf19d16dfa
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875902"
 ---
-# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログの表示
+# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログを表示する
 
 **適用対象**
 
@@ -25,7 +27,7 @@ ms.lasthandoff: 04/08/2018
 
 **アクティビティ ログを表示およびエクスポートする**
 
-1.  **[ダッシュボード]** メニューで **[アクティビティ ログ]** を選びます。
+1.  **[ダッシュ ボード]** メニューの **[アクティビティ ログ]** を選びます。
 2.  **[開始]** フィールドと **[終了]** フィールドで、アクティビティ ログの期間を選びます。 アクティビティ ログの既定の設定では、最近 1 か月間のログがエクスポートされます。
 
     各アクティビティ ログには、一覧に表示されている顧客の **[サブスクリプション]** ページへのリンクが示されます。

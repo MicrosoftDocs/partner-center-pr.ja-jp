@@ -1,15 +1,17 @@
 ---
-title: "サブスクリプションの中断 | パートナー センター"
-description: "顧客から要請があった場合や、未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断またはキャンセルできます。"
+title: サブスクリプションを中断する | パートナー センター
+description: 顧客から要請があった場合や、未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断またはキャンセルできます。
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-ms.openlocfilehash: d5f0c3d4e424980a3e39ca0d798097b517e7c9f7
-ms.sourcegitcommit: d75170bb6b14aeee1a5d33dd8a36cc3cd7e9dfd2
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 74d36922aad39cb78d959b91109194730fa28cec
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/04/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875222"
 ---
-# <a name="suspend-a-subscription"></a>サブスクリプションの中断
+# <a name="suspend-a-subscription"></a>サブスクリプションを中断する
 
 **適用対象**
 
@@ -21,9 +23,10 @@ ms.lasthandoff: 01/04/2018
 
 サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。 管理者は、引き続きサインインしてデータにアクセスできます。
 
-**サブスクリプションの中断**
+**サブスクリプションを中断する**
 
-1.  **[ダッシュボード]** メニューで **[顧客]** を選び、一覧から顧客を選びます。
+1.  
+          **[ダッシュボード]** メニューの **[顧客]** を選び、一覧から顧客を選びます。
 2.  管理対象のサブスクリプションを選びます。
 3.  **[状態]** セクションで、**[中断]** を選びます。 次に、変更を**提出**します。
 4.  90 日以内、または 90 日にアカウントが開かれた時点から最初の課金までの日数を加えた期間 (最大 120 日) 以内にサブスクリプションを再アクティブ化しない限り、すべてのデータは削除されます。

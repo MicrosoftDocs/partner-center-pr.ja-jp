@@ -1,13 +1,15 @@
 ---
-title: "Microsoft パートナー ビジネスの拡大 | パートナー センター"
-description: "Microsoft パートナー ビジネスを拡大するためのリソース。 Microsoft から見込み情報 (紹介案件) を受け取る方法が含まれています。"
-keywords: "紹介案件, 紹介案件への対応, 潜在顧客, 見込み情報, マーケティング プロファイル, ビジネス プロファイル, ビジネスの拡大, ビジネス チャンス, コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, 試用版, 市場の拡大, ナショナル クラウド"
+title: Microsoft パートナー ビジネスの拡大 | パートナー センター
+description: Microsoft パートナー ビジネスを拡大するためのリソース。 Microsoft から見込み情報 (紹介案件) を受け取る方法が含まれています。
+keywords: 紹介案件, 紹介案件への対応, 潜在顧客, 見込み情報, マーケティング プロファイル, ビジネス プロファイル, ビジネスの拡大, ビジネス チャンス, コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, 試用版, 市場の拡大, ナショナル クラウド
 author: MaggiePucciEvans
-ms.openlocfilehash: f12f529765ce0b6c6d9b5c69ee84be2fddf0525e
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: cf1244e7671b53c3aa813f493cd7b9bdf90c24d5
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876452"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft パートナー ビジネスの拡大 
 
@@ -32,6 +34,9 @@ Microsoft では、パートナー ビジネスを拡大するために役立つ
 | Microsoft の製品の試用版サブスクリプションを顧客に提供する | 「[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)」で、試用版サブスクリプションを使用して顧客基盤を拡大する方法を確認します。| CSP パートナー |
 | Microsoft サブスクリプションのプロモーション価格を顧客に提供する | マイクロソフトは、ライセンス ベースのサブスクリプションのプロモーションを随時実施しており、パートナー様はこれを活用して顧客に割引価格でサブスクリプションを提供し、ビジネスの拡大を図ることができます。 [Microsoft サブスクリプションのプロモーション価格を顧客に提供する方法](promotions.md)をご覧ください。 | CSP パートナー |
 | 販売対象市場を追加する | クラウド ソリューション プロバイダー販売チャネルは、多数の国や地域で利用可能です。 一覧については、[クラウド ソリューション プロバイダーの市場](agreements.md)のページをご覧ください。 クラウド ソリューション プロバイダー チャネルの概要については、[クラウド ソリューション プロバイダーの概要](csp-overview.md)ページをご覧ください。  | CSP パートナー |
+非営利組織や教育機関などの特殊な業界への販売します。|[特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)|CSP パートナー|
+|インセンティブ協力プレイのプログラムで利用可能な多くのアクティビティによってビジネスの拡大します。 ダッシュ ボードからアクティビティ ファイル要求します。| [作成およびインセンティブ要求の管理](create-incentives-claims.md)|CSP パートナー|
+|ソフトウェアの新しいバンドルを既に販売するマイクロソフトのソフトウェアと連携するサード パーティ製品を含めることによってビルドします。|[サード パーティ製品を見つける](third-party-offers.md)|CSP パートナー|
 
 ## <a name="see-also"></a>関連項目
 

@@ -1,16 +1,18 @@
 ---
-title: "MPN メンバーシップを Partner Membership Center からパートナー センターに移行する"
-description: "PMC ユーザー - パートナー センターを通じて MPN メンバーシップを管理できるようになりました。 次の手順に従ってください。"
+title: MPN メンバーシップを Partner Membership Center からパートナー センターに移行する
+description: PMC ユーザー - パートナー センターを通じて MPN メンバーシップを管理できるようになりました。 次の手順に従ってください。
 author: KPacquer
-keywords: "mpn メンバーシップ, コンピテンシー, pmc からパートナー センター"
+keywords: mpn メンバーシップ, コンピテンシー, pmc からパートナー センター
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
-ms.openlocfilehash: 2349ee30aa54a756e7fdc49c24917807a7443425
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875862"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>MPN メンバーシップを Partner Membership Center からパートナー センターに移行する
 
@@ -43,7 +45,7 @@ Partner University に引き続きアクセスし、組織が技術試験と認�
 
 ## <a href="" id="nonadmin_tasks"></a>従業員のタスク: アカウントを更新する
 
-1.  Microsoft パートナー センターまたは管理者からサインイン情報を取得します。 サインイン情報を受け取っていない場合、組織の管理者に問い合わせ、直接再送信してもらってください。 
+1.  Microsoft パートナー センターとは、管理者からサインイン情報を取得します。サインイン情報を受信しない場合、組織の管理者にするには、直接再送信してもらって。 にお問い合わせください。 
 
 2.  Microsoft Partner University アカウントに接続します。 パートナー センター ダッシュボードから、**[プロファイルの更新]** > **[Get Partner University access]** (Partner University へのアクセスを取得する) を選択します。  このアカウントを接続すると、Partner University に再度アクセスすることができます。
 

@@ -1,13 +1,15 @@
 ---
-title: "Microsoft Partner Network メンバーシップのアップグレード | パートナー センター"
-description: "Microsoft Partner Network メンバーシップをアップグレードすると、限定のメンバーシップ特典を利用できるようになります。 ここでは、提供されている特典を確認および購入する方法について説明します。"
+title: Microsoft Partner Network メンバーシップのアップグレード | パートナー センター
+description: Microsoft Partner Network メンバーシップをアップグレードすると、限定のメンバーシップ特典を利用できるようになります。 ここでは、提供されている特典を確認および購入する方法について説明します。
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875712"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 
@@ -27,7 +29,7 @@ ms.lasthandoff: 07/08/2017
 
   - Gold コンピテンシー – 特定のマイクロソフト ソリューション分野におけるクラス最高の能力を備えたパートナーに与えられます
 
-Microsoft Partner Network メンバーシップに参加すると、メンバーシップをアップグレードし、限定のメンバーシップ特典を購入できるようになります。 Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com)をご覧ください。
+Microsoft Partner Network メンバーシップに参加すると、メンバーシップをアップグレードし、限定のメンバーシップ特典を購入できるようになります。 移動するのには、Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com)します。
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入する
@@ -42,7 +44,7 @@ Action Pack は、クラウドファースト、モバイルファーストの�
 
 - 毎月 100 米ドルの Microsoft Azure クレジットの付与
 
-Microsoft Action Pack について詳しくは、[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack) をご覧ください。 
+Microsoft Action Pack について詳しくに移動します。[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)します。 
 
 >**注** このリンクをクリックすると、別の Web サイトにアクセスします。 Action Pack をサブスクライブするには、このパートナー センター サイトに戻る必要があります。
 
@@ -104,7 +106,7 @@ Microsoft Action Pack について詳しくは、[https://partner.microsoft.com/
 
 Microsoft Action Pack サブスクリプションを取り消す場合は、パートナー センターのサポートにご連絡ください。
 
-1. https://partnercenter.microsoft.com/ja-jp/partner/support にアクセスします。
+1. 移動https://partnercenter.microsoft.com/partner/supportします。
 
 2. **[パートナー センターに関する問題の報告]** を選び、次のページで **[New request]** (新しい要求) を選びます。
 

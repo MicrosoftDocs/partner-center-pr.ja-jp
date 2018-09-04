@@ -2,11 +2,13 @@
 title: Microsoft 製品の試用版を顧客に提供する | パートナー センター
 description: 顧客は、Microsoft サブスクリプション製品を 30 日間テストすることができます。
 author: labrenne
-ms.openlocfilehash: 238681a6b19fa4f021ef9882aa477a1a8937d462
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 0babc2c529008d7b76250323b5c4ab5f2f18ada1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875312"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Microsoft 製品の試用版を顧客に提供する
 

@@ -1,13 +1,15 @@
 ---
-title: "Microsoft ナショナル クラウドでの販売の申請 | パートナー センター"
-description: "クラウド ソリューション プロバイダー プログラムに参加している Microsoft パートナーは、サポートされているナショナル クラウドに登録された顧客に販売できます。"
+title: Microsoft ナショナル クラウドでの販売の申請 | パートナー センター
+description: クラウド ソリューション プロバイダー プログラムに参加している Microsoft パートナーは、サポートされているナショナル クラウドに登録された顧客に販売できます。
 author: MaggiePucciEvans
-keywords: "ナショナル クラウド, Microsoft Cloud ドイツ, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud 中国"
-ms.openlocfilehash: b900715218818d7e007360fcdcde707f7288049e
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+keywords: ナショナル クラウド, Microsoft Cloud ドイツ, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud 中国
+ms.localizationpriority: medium
+ms.openlocfilehash: 1650183fd51f1fdc933456fffdf0ef8c3e53b1ed
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875892"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Microsoft ナショナル クラウドでの販売の申請
 
@@ -25,7 +27,7 @@ Microsoft では、以下のサービスをナショナル クラウドで提供
 
 認定パートナーは、以下のナショナル クラウドの顧客に Microsoft クラウド ソリューションを販売できます。
 
--   [**Microsoft Cloud for US Government**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US): 米国政府機関向けに一から設計された Microsoft Cloud for US Government では、大規模な連邦機関から小さな町の行政機関まで、米国公共部門の顧客はさまざまなクラウド コンピューティング サービスを選択できます。 顧客固有のニーズに適切に対応するため、Microsoft はデータセンターに多額の投資を行い、米国連邦政府や州政府の政策、規制、要件に関するコンプライアンスの達成に取り組んでいます。 
+-   [**Microsoft Cloud for US Government**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US): 米国政府機関向けに一から設計された Microsoft Cloud for US Government では、大規模な連邦機関から小さな町の行政機関まで、米国公共部門の顧客はさまざまなクラウド コンピューティング サービスを選択できます。 顧客の特定のニーズを適切に満たすために、Microsoft はデータセンターに多大な投資を行い、米国連邦政府や州政府の政策、規制、要件に対するコンプライアンスを達成することに専念しています。 
 
     Microsoft Cloud for US Government に登録して顧客への販売を行う方法については、「[Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)」をご覧ください。
 

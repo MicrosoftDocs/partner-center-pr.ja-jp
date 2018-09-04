@@ -1,13 +1,15 @@
 ---
-title: "Power BI 用パートナー センター分析アプリをインストールしてプレビューする | パートナー センター"
-description: "Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け) をプレビューするには、次の手順に従います。"
+title: Power BI 用パートナー センター分析アプリをインストールしてプレビューする | パートナー センター
+description: Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け) をプレビューするには、次の手順に従います。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
-ms.openlocfilehash: 6888cfe815b4e3235442d9a1ce242c37d44a62ad
-ms.sourcegitcommit: 9183f596e81595496ae49375c116ea0f772babac
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 0164a650fb92e4a445b195f3e7b34f1359759a8c
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874762"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Power BI 用パートナー センター分析アプリをインストールしてプレビューする
 
@@ -33,7 +35,7 @@ ms.lasthandoff: 08/23/2017
 
 2. **[アカウントを既にお持ちの場合]** の下で **[サインイン]** を選びます。 
 
-3.  次のページで Power BI のユーザー名とパスワードを入力し、**[サインイン]**を選びます。 
+3.  次のページで Power BI のユーザー名とパスワードを入力し、**[サインイン]** を選びます。 
 
 4.  **[Connect to Partner Center Analytics]** (パートナー センター分析に接続) ポップアップ ウィンドウで、**[認証方法]** が **[oAuth2]** に設定されていることを確認し、設定されていない場合は一覧から **[oAuth2]** を選びます。 
 

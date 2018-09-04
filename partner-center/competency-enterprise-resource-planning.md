@@ -1,32 +1,39 @@
 ---
-title: "Enterprise Resource Planning コンピテンシー"
-description: "エンタープライズ リソース プランニングのニーズに合った Dynamics ソリューションを開発および展開する点で組織の能力を生かすことにより、Microsoft パートナーとなりましょう。"
+title: Enterprise Resource Planning コンピテンシー
+description: エンタープライズ リソース プランニングのニーズに合った Dynamics ソリューションを開発および展開する点で組織の能力を生かすことにより、Microsoft パートナーとなりましょう。
 author: Daniel Simpson
-keywords: "コンピテンシー,コンピテンシー,Enterprise Resource Planning"
-ms.openlocfilehash: f9aa424e4bbc6e0cce3e9abdd4a284183675c6cf
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+keywords: コンピテンシー,コンピテンシー,Enterprise Resource Planning
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 581dbe631117776c9f437a1d23d70f1a983c1a3d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875662"
 ---
-#<a name="enterprise-resource-planning"></a>Enterprise Resource Planning 
-エンタープライズ リソース プランニングのニーズに合った Dynamics ソリューションを開発および展開する点で組織の能力を生かすことにより、Microsoft パートナーとなりましょう。
+>[!IMPORTANT]
+>このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスしてください。
 
-##<a name="erp-reseller-option"></a>ERP リセラー オプション
-エンタープライズ リソース プランニング (ERP) リセラー オプションは、収益要件を満たすことによって能力を証明するパートナー様に最適です。 Enterprise Resource Planning コンピテンシーを取得するオプション内のすべての手順を完了します。
+<!--
+#Enterprise Resource Planning 
+Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs.
 
-###<a name="gold"></a>Gold
+##ERP Reseller option
+The Enterprise Resource Planning (ERP) Reseller option is ideal for partners who want to prove their capability by meeting revenue thresholds. Complete all the steps within the option to attain the Enterprise Resource Planning competency.
 
-組織がパフォーマンスしきい値を満たす必要があります。
+###Gold
 
-    - **成熟市場**
-    -   パートナー様は、ライセンスにより年間合計 175,000 ドルの粗利益を上げる必要があります。
+Your organization must meet the performance thresholds.
+
+    - **Developed Markets**
+    -   Partner must have earned a total annual gross license revenue of US$175,000
   
-    - **発展途上市場**
-        - パートナー様は、ライセンスにより年間合計 75,000 ドルの粗利益を上げる必要があります。 
+    - **Developing Markets**
+        - Partner must have earned  a total annual gross license revenue of US$75,000 
 
-        - Microsoft Dynamics AX オンプレミスおよび Dynamics AX オンライン、Dynamics GP、Dynamics SL、Dynamics NAV、Dynamics 365 プラン、または Unified Operations プランの収益要件を満たすこと。  
-
+        - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan or Unified Operations Plan.  
+-->
 
 
 

@@ -1,15 +1,17 @@
 ---
-title: "顧客の Azure 支出の予算の設定 | パートナー センター"
-description: "月末の Azure の請求金額が顧客にとって予期しない金額にならないように、パートナー センターで顧客ごとの月額予算を設定できます。"
+title: 顧客向けに Azure の支出の予算を設定する | パートナー センター
+description: 月末の Azure の請求金額が顧客にとって予期しない金額にならないように、パートナー センターで顧客ごとの月額予算を設定できます。
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
-ms.openlocfilehash: 5e6b34031f9bdd5a3532a7f1a8b862a4f0618ad7
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: adea2e44dcde77ae8f6c020407cd65957fdfd5cd
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875372"
 ---
-# <a name="set-an-azure-spending-budget-for-your-customers"></a>顧客の Azure 支出の予算の設定
+# <a name="set-an-azure-spending-budget-for-your-customers"></a>顧客向けに Azure の支出の予算を設定する
 
 **適用対象**
 
@@ -17,7 +19,7 @@ ms.lasthandoff: 02/01/2018
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-顧客の Azure の支出を予算内に収めるため、月額支出予算を設定して Azure の請求金額が予算を超えないように制限できます。 Azure の支出予算を設定すると、月の途中に顧客の Azure 関連の支出を予算と比較できます。 この機能を使うと、次のことができます。 
+顧客が Azure の支出を予算内に収めることができるようにするため、月額支出予算を設定して Azure の請求が予想より高くならないようにすることができます。 Azure の支出予算を設定すると、月の途中に顧客の Azure 関連の支出を予算と比較できます。 この機能を使うと、次のことができます。 
 
 -   顧客の支出が予算限度に近づいた場合にメールで通知を受け取ります。
 -   顧客の毎月の Azure コストの見込みを確認します。

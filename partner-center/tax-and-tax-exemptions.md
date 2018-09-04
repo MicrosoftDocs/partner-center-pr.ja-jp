@@ -1,13 +1,15 @@
 ---
 title: 税金と税金の除外 | パートナー センター
-description: クラウド ソリューション プロバイダーはパートナーによる製品の再販を中心とした販売チャネルであるため、マイクロソフトがパートナーの請求書に売上税を加算しなくてもよい場合があります。
+description: クラウド ソリューション プロバイダーはパートナーによる製品の再販に焦点を当てた販売チャネルであるため、マイクロソフトはパートナーの請求書に常に売上税を課す必要はありません。
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-ms.openlocfilehash: bc1bee6104c5eb7f540e9379305764d9b040fb6b
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: ae366ba7275eb9192aee1afc44acdf4e8351b55e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874892"
 ---
 # <a name="tax-and-tax-exemptions"></a>税金と税金の除外
 
@@ -17,7 +19,7 @@ ms.lasthandoff: 04/08/2018
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-クラウド ソリューション プロバイダーはパートナーによる製品の再販を中心とした販売チャネルであるため、マイクロソフトがパートナーの請求書に売上税を加算しなくてもよい場合があります。 規則は、国/地域によって異なります。 パートナーは自身の拠点と顧客の拠点に基づいて、税アドバイザーと協力して適切な税金の除外を申告する必要があります。 Microsoft リセラー アカウントを非課税対象としてマークするには、パートナーはマイクロソフトに除外証明書を送付する必要があります。
+クラウド ソリューション プロバイダーはパートナーによる製品の再販に焦点を当てた販売チャネルであるため、マイクロソフトはパートナーの請求書に常に売上税を課す必要はありません。 規則は、国/地域によって異なります。 パートナーは自身の拠点と顧客の拠点に基づいて、税アドバイザーと協力して適切な税金の除外を申告する必要があります。 Microsoft リセラー アカウントを非課税対処としてマークするには、パートナーはマイクロソフトに除外証明書を送付する必要があります。
 
 **税金の除外を申告する**
 
@@ -47,9 +49,10 @@ ms.lasthandoff: 04/08/2018
 <p>マイクロソフトはクレジットや自動課金に対応していないため、サブスクリプションを販売する前にパートナー センターで貴社の VAT ID 番号を登録する必要があります。</p>
 <p>VAT ID 番号をマイクロソフトに送信する</strong></p>
 <ol>
-<li>パートナー センターで、[ダッシュボード] メニュー &gt; <strong>[アカウント設定]</strong> &gt; <strong>[課金プロファイル]</strong> の順に移動します。</li>
+<li>パートナー センターで、[ダッシュボード] メニュー &gt; <strong>[アカウント設定]</strong> &gt; <strong>[パートナー課金プロファイル]</strong> の順に移動します。</li>
 <li><strong>[財務データ]</strong> セクションで、<strong>[更新]</strong> を選びます。</li>
-<li><strong>[会社の税金 ID]</strong> で、貴社の VAT ID 番号を指定します。</li>
+<li>
+          <strong>[会社の税金 ID]</strong> で、貴社の VAT ID 番号を指定します。</li>
 </ol></td>
 </tr>
 <tr class="odd">
