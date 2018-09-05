@@ -4,11 +4,13 @@ description: パートナー センターでビジネス プロファイルを�
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: Pinpoint, 紹介案件, 見込み客情報, C2PC, 会社のプロファイル, 会社のマーケティング, パートナーの検索, ソリューション プロバイダーの検索, ビジネス プロファイル, マーケティング プロファイル
-ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877627"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -16,7 +18,7 @@ FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
 FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
 FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
 FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
- -->
+-->
 
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>ビジネス プロファイルを作成して Microsoft から見込み情報を受け取る
@@ -58,7 +60,7 @@ Microsoft は、マーケティング、販売、サービスの業務を通じ�
 
 ロゴには GIF、JPG、PNG のいずれかのファイルを指定できます。最大幅は 300 ピクセルです。 正方形または横長の縦横比の使用をお勧めします。 縦長の縦横比はお勧めできません。
 
-説明は、最大 1,000 文字まで入力できます。 お客様に好印象を与える説明文のヒント 
+説明は最大 2500 文字はことができます。 お客様に好印象を与える説明文のヒント 
 
 *  **簡潔**に記述する。最も重要なことを冒頭の 1 ～2 文で表現します。 この部分は、お客様の興味を喚起するキャッチ コピーとなります。 お客様が [パートナーの検索] 機能を使って検索する場合、最初の 1 ～ 2 行が検索結果として表示されます。
 *  **Microsoft 固有の製品やサービスに関する実績を中心に**記述します。 紹介先パートナーを検索するお客様は、一般に、Microsoft 固有の製品やサービスに実績のあるパートナーを求めています。

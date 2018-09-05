@@ -3,11 +3,13 @@ title: パートナー センターで利用可能なサード パーティ製�
 description: サード パーティ製ソフトウェアを検索して購入し、顧客に提供するポートフォリオに追加することができます。
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
-ms.openlocfilehash: 78e586321305422d7e03153127b833b477491bf6
-ms.sourcegitcommit: 07bb4ad82a7f431ae4f04bcd488fa72e49b6ae7c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/28/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877442"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>ポートフォリオにサード パーティ製ソフトウェアを追加する
 
@@ -50,7 +52,8 @@ ISV の Web サイトへのリンク、連絡先情報、多くの場合、製�
 2.  **[新しいサブスクリプション]** を選びます。
 3.  サード パーティ製ソフトウェアの月次請求を選択します。 年次請求と試用版は、現在サード パーティについては利用できません。
 4.  **[サード パーティ]** タブで購入する製品を選びます。
-5.  追加するサブスクリプションをオンにして、ライセンス数を入力します。 **[送信]** を選んで注文を送信します。
+5.  追加するサブスクリプションをオンにして、ライセンス数を入力します。 
+          **[送信]** を選んで注文を送信します。
 6.  サブスクリプションが追加されたら、サブスクリプションの一覧でサブスクリプション名をクリックして開きます。 
 7.  編集ページでは、ライセンス数の変更や、サブスクリプションの中断を行うことができます。
 

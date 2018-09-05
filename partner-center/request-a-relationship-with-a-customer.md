@@ -1,13 +1,15 @@
 ---
-title: "顧客との再販業者関係の要求 | パートナー センター"
-description: "関係の要求は、マルチパートナー シナリオとマルチチャンネル シナリオで使用されます。 また、パートナーの代理管理者特権が顧客によって削除され、パートナーがプロビジョニングやサポートを提供するために、管理者特権を復元する必要がある場合にも使用できます。"
+title: 顧客との関係を要求する | パートナー センター
+description: 関係の要求は、マルチパートナー シナリオとマルチチャネル シナリオ用です。 また、パートナーの代理管理者特権が顧客によって削除され、パートナーがプロビジョニングやサポートを提供するために、管理者特権を復元する必要がある場合にも使用できます。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
-ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877222"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>パートナー センターでの顧客との連携
 
@@ -31,9 +33,7 @@ ms.lasthandoff: 07/19/2017
 
 4.  顧客が招待を承諾すると、**[顧客]** ページに顧客が表示され、そこから顧客のサービスのプロビジョニングと管理を実行できるようになります。
 
- >**注**<br>
-    マルチチャンネル シナリオでは、1 社のパートナーのみが管理者のアクセス許可を取得し、顧客に代わってサービスを管理することができます。 
-
+ 
 5.  顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、顧客の名前の下矢印を選んで、顧客のレコードを展開します。
 
 

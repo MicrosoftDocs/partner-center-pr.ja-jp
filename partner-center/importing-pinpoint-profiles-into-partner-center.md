@@ -1,13 +1,15 @@
 ---
-title: "Pinpoint からパートナー センターへの移行 | パートナー センター"
-Description: "このページに記載されている情報は、Pinpoint からパートナー センターへ移行する方法を説明しています。"
+title: Pinpoint からパートナー センターへの移行 | パートナー センター
+Description: If you see this page, the information here describes how to transition from Pinpoint to Partner Center.
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-ms.openlocfilehash: fce2dda35269a0071fd03317d111e769c26204fc
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: b4250f0a1e8cc438bf4b61bfec5d0661511aef86
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877392"
 ---
 # <a name="transition-from-pinpoint-to-partner-center"></a>Pinpoint からパートナー センターへの移行
 

@@ -1,11 +1,14 @@
 ---
-title: "Office 365 E4 サブスクリプションの Office 365 の新しいバージョンへの移行 | パートナー センター"
-description: "Microsoft Office 365 Enterprise E4 エディションは、2017 年 4 月 7 日に廃止されました。 Office 365 の新しいバージョンに、お客様のサブスクリプションを移行する方法について説明します。"
+title: Office 365 E4 サブスクリプションの Office 365 の新しいバージョンへの移行 | パートナー センター
+description: Microsoft Office 365 Enterprise E4 エディションは、2017 年 4 月 7 日に廃止されました。 Office 365 の新しいバージョンに、お客様のサブスクリプションを移行する方法について説明します。
 author: MaggiePucciEvans
-ms.openlocfilehash: aa8bc051b85f60242b1cc08e05b8c2b2d22ac413
-ms.sourcegitcommit: dab14e98f39e14025625a366ffcdd34c8c744376
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 545cfa5c635c9093cd0261bf35e01ba2823571ef
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876932"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 サブスクリプションの Office 365 の新しいバージョンへの移行
 
@@ -40,14 +43,14 @@ E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Bus
 
 | 機能 | オプション 1 | オプション 2 | オプション 3 | オプション 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Office 365 Enterprise E4 に含まれるすべての機能に対応 | 〇 | 〇 | 〇 | × |
-| Office 365 での電話番号の管理 | 〇 | 〇 | × | × |
-| オンプレミスと Office 365 の両方による電話番号の管理 (ハイブリッド展開) | 〇 | 〇 | × | × |
-| PSTN 音声通話プランの追加オプション | 〇 | 〇 | × | × |
-| PSTN 会議機能 | 〇 | × | × | × |
-| コラボレーション、分析、セキュリティの高度なツール | 〇 | × | × | × |
-| 対話型のレポート、ダッシュ ボード、データのビジュアル化 | 〇 | × | × | × | 
-| データ セキュリティとコンプライアンスを詳細に制御するための組み込みのプライバシー機能、透過性、洗練されたユーザー コントロール | 〇 | × | × | × | 
+| Office 365 Enterprise E4 に含まれるすべての機能に対応 | はい | はい | はい | × |
+| Office 365 での電話番号の管理 | はい | はい | いいえ | × |
+| オンプレミスと Office 365 の両方による電話番号の管理 (ハイブリッド展開) | はい | はい | いいえ | × |
+| PSTN 音声通話プランの追加オプション | はい | はい | いいえ | × |
+| PSTN 会議機能 | はい | いいえ | いいえ | × |
+| コラボレーション、分析、セキュリティの高度なツール | はい | いいえ | いいえ | × |
+| 対話型のレポート、ダッシュ ボード、データのビジュアル化 | はい | いいえ | いいえ | × | 
+| データ セキュリティとコンプライアンスを詳細に制御するための組み込みのプライバシー機能、透過性、洗練されたユーザー コントロール | はい | いいえ | いいえ | × | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>お客様を新しい製品プランに移行する
 

@@ -3,11 +3,13 @@ title: パートナー プロファイルの更新 | パートナー センタ�
 description: 管理者として初めてサインインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.openlocfilehash: 4e6f1fb61d48c6fa73bfa5966c53a72fc2cfe38f
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 739def78e0b6893fe71b754277d97f63684789c2
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877352"
 ---
 # <a name="update-your-partner-profile"></a>パートナー プロファイルの更新
 
@@ -17,7 +19,7 @@ ms.lasthandoff: 04/08/2018
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-管理者として初めてパートナー センターにログインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。
+最初に管理者としてパートナー センターにログインするときに、サポートの詳細が正しいことを確認し、適切な場合は税金の除外を申告して、貴社のプロファイルの連絡先情報を見直してください。
 
 **サポートの詳細を更新する**
 
@@ -29,10 +31,11 @@ ms.lasthandoff: 04/08/2018
 
 -   税金の除外が貴社に適用されるかどうかを判断し、適用される場合は顧客やサブスクリプションを追加する前に申告してください。 「[税金と税金の除外](tax-and-tax-exemptions.md)」をご覧ください。
 
-**プロファイル情報を確認する**
+**確認し、プロファイル情報を更新します。**
 
 1.  **[設定]** &gt; **[View all settings]** (すべての設定を表示) に移動します。 
-2.  **[パートナー プロファイル]**、**[課金プロファイル]**、および **[組織プロファイル]** を確認します。
+2.  **[パートナー プロファイル]**、**[パートナー課金プロファイル]**、および **[組織プロファイル]** を確認します。
+3.  法的アドレスの詳細を変更する必要がある場合、検証のため、会社を接続可能性があります。 法的の詳細を変更したとき、税情報、効果の可能性があります。 税情報が正しいことを確認します。 [サポート](https://partner.microsoft.com/support/contact-support)に関する質問にお問い合わせください。
 
  
 

@@ -3,12 +3,13 @@ title: Microsoft Action Pack を購入または更新する | パートナー �
 description: Microsoft Action Pack を初めて購入する方法または更新する方法を説明します。
 author: MaggiePucciEvans
 keywords: Action Pack、MAPS、MAPS の更新、Action Pack の更新、Action Pack の購入
-ms.openlocfilehash: 709966b80a0e8f39c3dbc70da16c9928df43f6cc
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 9fab4b0abe282e12a505c242597345717fad22b6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207262"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876712"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを初めて購入する、または更新する
 
@@ -55,7 +56,7 @@ Partner Network に参加したら、[Partner Network サイトの手順](https:
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>パートナー ダッシュボードで Microsoft Action Pack サブスクリプションを更新する方法
 
-1. [**[Membership offers]**](https://partnercenter.microsoft.com/pcv/partnership/offers) (メンバーシップ特典) ページに移動して、**[購入済み]** を選択します。 **[Microsost Action Pack サブスクリプション]** タイルを探します。  
+1. [**[Membership offers]**](https://partnercenter.microsoft.com/pcv/partnership/offers) (メンバーシップ特典) ページに移動して、**[購入済み]** を選択します。 **Microsoft Action Pack サブスクリプション**のタイルを探します。  
 
 2. **[サブスクリプションの更新]** を選び、お支払い方法を選びます。 お支払いにはクレジット カードまたは電信振替を使用できます。
 

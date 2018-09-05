@@ -3,12 +3,13 @@ title: Microsoft Partner Network の特典の管理 | パートナー センタ�
 description: Microsoft Partner Network のメンバーは、特定のメンバーシップ特典を購入することができます。 ここではパートナー ダッシュボードでメンバーシップ特典を有効にして管理する方法を説明します。
 author: MaggiePucciEvans
 keywords: MPN、メンバーシップ特典、メンバーシップ
-ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207282"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876912"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 
@@ -25,6 +26,9 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
 ## <a name="manage-your-membership-benefits-in-the-dashboard"></a>ダッシュボードでメンバーシップ特典を管理する
 
 メンバーシップ特典パッケージを購入した後は、使用を開始できるように、ソフトウェア キーを入手して、従業員にライセンス、サブスクリプション、その他の特典を割り当てる必要があります。 
+
+>[!IMPORTANT]
+>特典の購入、組織のグローバル管理者である必要はありません中、は、特典を従業員に割り当てるグローバル管理者であることを必要があります。  [[**特典**] ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits)の手順に従って、グローバル管理者する場合は、なることができます (サインインが必要)。 また、組織は、チームを確認することを確認するための全体管理者を既にがあります。
 
 Action Pack サブスクリプションでは、社内使用ライセンスのソフトウェア、クラウド サービス、Visual Studio サブスクリプション、サポートが割り当てられます。 [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) サイトで Action Pack サブスクリプションの詳細を確認できます。  
 

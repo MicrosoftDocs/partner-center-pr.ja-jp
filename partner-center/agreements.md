@@ -3,11 +3,13 @@ title: Microsoft クラウド ソリューション プロバイダーの利用�
 description: 市場固有の顧客契約テンプレートをパートナー センターからダウンロードする
 author: Maggie Evans
 keywords: Microsoft Cloud 契約, 顧客契約テンプレート, CSP 顧客契約, MCA, Microsoft Cloud 契約 (MCA), CSP, CSP で販売できる国または地域, CSP の国または地域, CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南米, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
-ms.openlocfilehash: 5dbf1003967cbc9895eb89e81371f8f230dedc68
-ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 3cd5615693a7cea51dfc11f1b6039c3a333e979b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/19/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877512"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Microsoft クラウド ソリューション プロバイダーの市場および顧客契約
 
@@ -80,7 +82,7 @@ ms.lasthandoff: 02/19/2018
 - 米領ヴァージン諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_NA_ENG_Sep20172_CR.pdf)
 
 ## <a name="microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud
- - 米国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Sep20172_CR.pdf)
+ - 米国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Mar2018_CR.pdf)
 
 ## <a name="europe"></a>ヨーロッパ
 - オーランド諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
@@ -146,7 +148,7 @@ ms.lasthandoff: 02/19/2018
 - バチカン市国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 
 ## <a name="microsoft-cloud-germany"></a>Microsoft Cloud ドイツ
-- EU/EFTA 全域: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20173_GermanCloud.pdf)、[ドイツ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_GER_Sep20173_GermanCloud.pdf)
+- EU/EFTA 全域: [英語](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_ENG_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863183184&sdata=FF2w1Zx1MhkKliW25tsvegd67%2FZy2VwE7QsRPEIkb9U%3D&reserved=0)、[ドイツ語](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_GER_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863193193&sdata=bnijpI%2Fw442YANA8y2wVHKfg5gbqYp8WTS1dfGhBIxQ%3D&reserved=0)
 
 ## <a name="middle-east-and-africa"></a>中東およびアフリカ
 - アルジェリア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     

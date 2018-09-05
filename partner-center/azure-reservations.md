@@ -1,16 +1,17 @@
 ---
-title: Microsoft Azure VM 予約の概要 | パートナー センター
-Description: Overview of selling Microsoft Azure Reserved VM Instances in CSP.
+title: Microsoft Azure reservations の概要 |パートナー センター
+Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
-keywords: Azure, 予約, VM, 管理, 請求, 購入, Azure RI, Azure Reserved VM Instances
-ms.openlocfilehash: 65306d265c88769c83a948a192bc96b2a0a76294
-ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
-ms.translationtype: HT
+keywords: azure 予約の管理, 請求, 購入, Azure RI, Azure Reserved Instances
+ms.localizationpriority: medium
+ms.openlocfilehash: 3f5073bfd82d16485e3f0d5f4c9f79b1d5b5e7c7
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2018
-ms.locfileid: "1978569"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876962"
 ---
-# <a name="sell-microsoft-azure-reserved-vm-instances"></a>Microsoft Azure Reserved VM Instances の販売 
+# <a name="sell-microsoft-azure-reserved-instances"></a>販売 Microsoft Azure 予約インスタンス 
 
 **適用対象**
 
@@ -18,34 +19,42 @@ ms.locfileid: "1978569"
 -  Microsoft Azure portal
 -  CSP のパートナー
 
-クラウド ソリューション プロバイダー (CSP) プログラムのパートナーは、Microsoft Azure Virtual Machines 上の予約インスタンスを顧客に提供できるようになりました。 事前に Azure Virtual Machines で領域を予約できると、顧客はコストを大幅に節約できます。 Azure Reserved VM Instances では、以下の点で簡潔さと柔軟性が顧客に提供されます。
+クラウド ソリューション プロバイダー (CSP) プログラムのパートナーが顧客に提供できる Microsoft Azure のインスタンスが予約されています。 事前に予約できると、ユーザーは大幅な削減を実現できます。 Azure Reserved Instances で顧客に提供簡潔さと柔軟性、次の方法。
 
 -   1 ～ 3 年の予約期間。 
--   簡単に開始。仮想マシンを数秒でセットアップできます。 
+-   簡単に作成します。セットアップを秒単位で完了 
 -   予約インスタンスはいつでも取り消しまたは交換でき、払い戻しが調整されます。 
 -   組織レベルまたは個々の部署レベルで予約インスタンスの使用状況を管理できます。 
 
-Azure Reserved VM Instances について詳しくは、Microsoft Azure Web サイトの [Azure Reserved VM Instances 製品のページ](https://azure.microsoft.com/pricing/reserved-vm-instances/)と「[Better together: Azure Reserved VM Instances and server subscriptions](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/)」(Azure Reserved VM Instances とサーバー サブスクリプションの相乗効果) をご覧ください。
-
 > [!NOTE]  
-> 次の市場では Azure Reserved VM Instances は使用できません。  
-> * ブラジル  
-> * 中国  
-> * インド  
-> * ロシア  
-> * 韓国  
-> * 台湾  
+> 次の市場では azure Reserved Instances を利用可能なしません。  
+> * アルゼンチン
+> * アゼルバイジャン
+> * ベラルーシ
+> * ブラジル
+> * 中国
+> * インド
+> * インドネシア
+> * カザフスタン
+> * リヒテンシュタイン
+> * マレーシア
+> * メキシコ
+> * ロシア連邦
+> * サウジアラビア
+> * 南アフリカ
+> * 韓国
+> * 台湾
+> * トルコ
+> * ウクライナ
 
-Azure Reserved VM Instances には、顧客から見て以下のようなメリットがあります。
+Azure Reserved Instances の可用性は、次の方法でユーザーに魅力的します。
 
 -   予約インスタンスでは、従量課金制 (PAYG) の価格設定で大幅にコストを節約できます。
 -   1 年間または 3 年間の前払いにより、予算編成と支払い計画が容易になります。 
 -   オフィスに近い Azure リージョンでコンピューティング処理能力を優先させることができます。  
--   Azure Reservations を Microsoft Windows Server や Azure SQL Database (パートナー ダッシュボードに近日追加予定) などのソフトウェアと組み合わせることで、エンド ツー エンドのインフラストラクチャ ソリューション基盤が提供されます。   
+-   Azure reservations の Microsoft Windows Server や Azure SQL Database などのソフトウェアと組み合わせると、エンド ツー エンドのインフラストラクチャ ソリューション基盤を提供します。   
 
-Azure Virtual Machines のインスタンスを事前購入することによる顧客側のメリットについて詳しくは、Azure ヘルプの「[Save money on virtual machines with Reserved Virtual Machine Instances](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)」 (Reserved Virtual Machine Instances で仮想マシンのコストを節約する) をご覧ください。
-
-## <a name="before-you-begin"></a>始める前に
+## <a name="before-you-begin"></a>開始する前に
 
 顧客に代わって Azure Reservations の購入を行う前に、以下の情報をご確認ください。 現時点では次のような注意点があります。
 
@@ -57,18 +66,15 @@ Azure Virtual Machines のインスタンスを事前購入することによる
 -   顧客が Azure サブスクリプションを直接サブスクリプションまたは EA サブスクリプションから CSP に移行した場合、予約は移行されません。 
 
 >[!NOTE]
-> Azure 予約インスタンスは、パートナー ダッシュボード、Azure portal、およびパートナー ダッシュボード API を使用して購入、販売、管理できます。 方法については、各リンク先をご覧ください。 
+> 購入、販売、およびパートナー ダッシュ ボードと Azure portal、およびパートナー センター API を使用して Azure reservations を管理することができます。 方法については、各リンク先をご覧ください。 
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
 |**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |パートナー ダッシュボードで顧客の Azure Reservations を購入する   |[Azure Reservations の購入](azure-reservations-buying.md)
-|Azure Reservations の請求   |[Azure Reservations の請求](azure-reservations-billing.md)   |
 |パートナー ダッシュボードで Azure Reservations を管理する | [パートナー ダッシュボードで Azure Reservations を管理する](azure-reservations-manage.md)
 |適切な VM サイズの判断と顧客による VM 使用状況の確認   |[最大限の Azure 予約使用に備えた VM サイズ](azure-usage.md)   |
-|Azure portal で Azure Reservations を購入する | [Azure Reserved VM Instances による仮想マシン料金の前払い](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) (Azure ヘルプ) |
-|Azure portal で Azure Reservations を管理する   |[予約済み VM インスタンスの管理](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) (Azure ヘルプ)  |
-|パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) (パートナー センター開発者向けドキュメント)
+|パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)
 
  
 

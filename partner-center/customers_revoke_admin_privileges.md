@@ -3,12 +3,13 @@ title: 顧客がパートナーに管理特権を委任する | パートナー 
 description: リセラー パートナーの顧客は、リセラー パートナーに管理者を委任できます。また、特権を削除することもできます。
 author: labrenne
 keywords: 代理管理特権、管理者の代理、特権の削除
-ms.openlocfilehash: 7f1bd81f40892f851e1582a7a842a64c55e4ff63
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7209917a92eb2cd9ae86c31f3126bdbac402a04e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1913951"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877172"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>顧客がパートナーに管理特権を委任する
 
@@ -75,13 +76,13 @@ CSP パートナーは、代理管理特権がなくても、パートナー ダ
 
 |**操作**   |**直接リセラーまたは間接リセラー**   |**間接リセラー**   |
 |-----------------|-----------------------------------| -----------------------------|
-|デバイスの追加 (csv ファイルを使用)  |〇      |X|
-|デバイスの削除   |〇   |X|
-|プロファイルの追加   |〇   | 〇   |
-|プロファイルの更新   |〇    |〇   |
-|プロファイルの削除   |〇   |〇   |
-|プロファイルのデバイスへの適用   |〇   |〇   |
-|プロファイルのデバイスからの削除   |〇   |〇   | 
+|デバイスの追加 (csv ファイルを使用)  |はい      |X|
+|デバイスの削除   |はい   |X|
+|プロファイルの追加   |はい   | はい   |
+|プロファイルの更新   |はい    |はい   |
+|プロファイルの削除   |はい   |はい   |
+|プロファイルのデバイスへの適用   |はい   |はい   |
+|プロファイルのデバイスからの削除   |はい   |はい   | 
 
 - CSP パートナーは、顧客がパートナーの代理管理特権を削除した場合でも、リセラー関係のある既存の顧客の AutoPilot 構成を、引き続き管理できます。
 

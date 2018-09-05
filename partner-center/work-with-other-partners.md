@@ -1,14 +1,16 @@
 ---
-title: "他のパートナーとの連携 | パートナー センター"
-description: "CSP で他のパートナーと連携して、共有するユーザーのニーズを満たすことができます。"
+title: 他のパートナーと連携する | パートナー センター
+description: 共有するユーザーのニーズを満たすために CSP の他のパートナーと連携します。
 author: MaggiePucciEvans
-ms.openlocfilehash: 04c5c4c9c9add663865add92bbcc527169ec44a8
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: bab729b1a9021d095566395048a4eb7fa3c8d7f8
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877102"
 ---
-# <a name="work-with-other-partners"></a>他のパートナーとの連携
+# <a name="work-with-other-partners"></a>他のパートナーと連携する
 
 **適用対象**
 
@@ -47,5 +49,5 @@ CSP で間接リセラーと間接パートナーのどちらで登録するか�
 マルチチャンネルのサポートは、マイクロソフトのナショナル クラウド サービスでも利用できます。
 
 >**重要**<br>
-現在、CSP パートナーは別の CSP パートナーにオンライン サービスを再販することはできません。 マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースに関するすべての情報は、パートナー センターなど、通常の伝達方法でお知らせします。 
+現在、CSP パートナーは別の CSP パートナーにオンライン サービスを再販することはできません。 マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースに関するすべてのお知らせは、パートナー センターなど、通常の通信チャネルを通じて発表されます。 
 

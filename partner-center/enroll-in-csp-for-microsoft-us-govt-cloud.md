@@ -1,14 +1,16 @@
 ---
-title: "米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録 | 米国政府機関向け Microsoft Cloud のパートナー センター"
-description: "米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。"
+title: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する | 米国政府機関向け Microsoft Cloud のパートナー センター
+description: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。
 author: MaggiePucciEvans
-ms.openlocfilehash: 69e50e7b16c7b39eef68b0e841f21414c1923f14
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877202"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録
+# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する
 
 **適用対象**
 
@@ -44,7 +46,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 1.  Microsoft Partner Network ID や組織のカスタマー サポートに関する情報など、不足している情報を登録フォームに入力します。 
 
-2.  **[同意して続行する]** を選びます。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
+2.  **[同意して続行する]** を選択します。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
 
     >**重要**<br>
     **[同意して続行する]** を選択することにより、組織の代理として行為する権限が認められていることを確認するもの、そして Microsoft が組織のクラウド ソリューション プロバイダーの申し込みを確認する前に与信審査を実行することを許可するものと見なされます。
@@ -64,7 +66,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 >**注意**<br>
 ユーザーを管理エージェント ロールに割り当てると、**[顧客]** ページで顧客の一覧にアクセスし、[新しい顧客を追加](add-a-new-customer.md)できるようになります。   
 
-1.  Microsoft Azure 管理ポータル (https://portal.azure.us/) にサインインします。
+1.  Microsoft Azure 管理ポータルにサインインhttps://portal.azure.us/します。
 
 2.  管理エージェント ロールを組織内の適切なユーザーに割り当てます。 これを行うには、組み込みの **AdminAgent** グループにこれらのユーザーを追加する必要があります。 これを行う方法については、「[Azure Active Directory テナントでユーザーのグループ メンバーシップを管理する](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)」を参照してください。
  

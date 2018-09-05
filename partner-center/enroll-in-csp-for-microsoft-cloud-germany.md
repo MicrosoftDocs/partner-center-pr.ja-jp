@@ -1,13 +1,16 @@
 ---
-title: "Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムへの登録 | Microsoft Cloud ドイツのパートナー センター"
-description: "Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。"
+title: Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムに登録する | Microsoft Cloud ドイツのパートナー センター
+description: Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。
 author: MaggiePucciEvans
-ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
-ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877502"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムへの登録
+# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムに登録する
 
 **適用対象**
 
@@ -33,25 +36,25 @@ CSP プログラムに登録済みで、Microsoft Cloud ドイツの加盟国/�
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>手順 1 - Microsoft Cloud ドイツ用にパートナー センターのアカウントを作成する 
 
-1.  Microsoft Cloud ドイツの CSP に登録するには、[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) にアクセスして **[サインイン]** を選びます。 
+1.  Microsoft Cloud ドイツの csp に登録するには[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)し、**サインイン**を選択します。 
 
-2.  全体管理者の資格情報を使用して、貴社の Office 365、Microsoft Azure、Microsoft Dynamics の Microsoft Cloud ドイツ アカウントにサインインします。 これらのポータルのアカウントをお勤め先がお持ちでない場合は、**[1 つ作成]** を選択してサインアップしてください。
+2.  グローバル管理者の資格情報を使用して、お勤め先がお持ちの Office 365、Microsoft Azure、または Microsoft Dynamics の Microsoft Cloud ドイツ アカウントにサインインします。 これらのポータルのアカウントをお勤め先がお持ちでない場合は、**[1 つ作成]** を選択してサインアップしてください。
 
-3.  以下の情報を参考にパートナー センター アカウント作成フォームに入力し、**[続行]** を選びます。   
+3.  以下の情報を参考にパートナー センター アカウント作成フォームに入力し、**[続行]** を選択します。   
 
-    **市場**| お勤め先企業の所在国/地域を選びます。 EU または EFTA の加盟国/地域に事務所を持つ企業のみが、Microsoft Cloud ドイツ プログラムに参加して、対象市場の顧客に販売を行うことができます。 アカウントの作成後に市場を変更することはできません。 複数の市場で販売を行うには、販売を行う市場ごとにアカウントを作成します。
+    **市場**| お勤め先企業の所在国/地域を選択します。 EU または EFTA の加盟国/地域に事務所を持つ企業のみが、Microsoft Cloud ドイツ プログラムに参加して、対象市場の顧客に販売を行うことができます。 アカウントの作成後に市場を変更することはできません。 複数の市場で販売を行うには、販売を行う市場ごとにアカウントを作成します。
 
     **Office location (事務所所在地)** | Microsoft Cloud ドイツの対象市場内にある、お勤め先企業の代表事務所の住所と電話番号を入力します。
 
     **パートナー センター管理者** | Microsoft に対応するプライマリ管理者アカウントとして指定でき、契約に署名することが可能な従業員の連絡先情報を入力します。 
 
-4.  ロボットでないことを証明するために、電話/SMS での認証が求められる場合があります。 電話番号は、前の画面で使用したものを入力します。 認証が終わったら **[Create account] (アカウントの作成)** を選びます。 アカウントの確認画面が表示されます。 この画面の情報は後から必要になるので、保存またはメモしておきます。 **[続行]** を選びます。
+4.  ロボットでないことを証明するために、電話/SMS での認証が求められる場合があります。 電話番号は、前の画面で使用したものを入力します。 認証が終わったら **[Create account] (アカウントの作成)** を選択します。 アカウントの確認画面が表示されます。 この画面の情報は後から必要になるので、保存またはメモしておきます。 **[続行]** を選択します。
 
 ### <a name="step-2---apply-to-become-a-cloud-solution-provider-partner-in-markets-served-by-microsoft-cloud-germany"></a>手順 2 - Microsoft Cloud ドイツの対象市場でクラウド ソリューション プロバイダー パートナーとして申し込む 
 
 1.  Microsoft Partner Network ID やお勤め先のカスタマー サポートに関する情報など、不足している情報を登録フォームに入力します。 
 
-2.  **[Accept and continue] (同意して続ける)** を選びます。 アプリケーションの確認には数日かかる場合があります。 完了後、メールでお知らせします。
+2.  **[Accept and continue] (同意して続ける)** を選択します。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
 
     >**重要**<br>
     **[Accept and continue] (同意して続ける)** を選択することにより、お勤め先の代理として行為する権限が認められていることを確認するもの、そして Microsoft がお勤め先のクラウド ソリューション プロバイダー アプリケーションを確認する前に与信審査を実行することを許可するものと見なされます。
@@ -69,7 +72,7 @@ Microsoft Cloud ドイツでは、ドイツ国内で運用される専用ネッ�
 >**注**<br>
 ユーザーを管理エージェント ロールに割り当てると、ダッシュボード メニューに **[顧客]** メニューが表示され、顧客の一覧にアクセスし、[新しい顧客を追加](add-a-new-customer.md)できるようになります。   
 
-1.  ドイツの Azure Portal (https://portal.microsoftazure.de/) にサインインします。
+1.  ドイツの Azure ポータルにサインインhttps://portal.microsoftazure.de/します。
 
 2.  管理エージェント ロールを組織内の適切なユーザーに割り当てます。 これを行うには、組み込みの **AdminAgent** グループにこれらのユーザーを追加する必要があります。 これを行う方法については、「[Azure Active Directory テナントでユーザーのグループ メンバーシップを管理する](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)」を参照してください。
  

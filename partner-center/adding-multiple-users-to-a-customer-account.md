@@ -4,11 +4,13 @@ description: 顧客のアカウントに一度に複数のユーザーを追加�
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 keywords: 一括アップロード, 顧客アカウントへの複数ユーザーの追加, 顧客のユーザーの追加, 顧客のユーザーの一括アップロード, 顧客アカウント, 顧客のユーザー, ユーザー
-ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e7a5e7f9c0cebf81373c500dd3a552710fcf845a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876972"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>顧客アカウントへの複数ユーザーの追加
 
@@ -54,15 +56,13 @@ ms.lasthandoff: 04/08/2018
 
     **注:** ほとんどのアカウント作成エラーは、データ ファイルの問題が原因です。情報が不足している、メール アドレスの形式が正しくないか、重複している、ファイル内のレコードが多すぎるなどです。
 
-     
-
 7.  パートナー ダッシュボードでファイルが検証された後、新しいユーザーの地理的な**場所**を選びます。
 8.  **[保存]** を選びます。
 9.  ユーザーの一時的なパスワードの情報をダウンロードします。
 
 **重要:** 一時的なパスワードを含むファイルは必ずこのときにダウンロードしてください。後でこの操作をすることはできません。 新しいユーザーは、新しいアカウントの一時的なパスワードを使用して、新しいアカウントにログインする必要があります。
 
-パートナー ダッシュボードから、新しいユーザーに**ライセンスとサービスを使用できる**アクセス許可が自動的に割り当てられます。
+10. 新しいユーザーには、**ライセンスとサービスを使用できる**アクセス許可が自動的に割り当てられます。 
 
  
 

@@ -3,11 +3,14 @@ title: Azure Reservations の請求 | パートナー センター
 Description: Information about billing for Azure reservations.
 author: v-petand
 keywords: Azure RI, Azure 予約インスタンス, 予約, VM, 管理, 請求, 購入
-ms.openlocfilehash: c7d18770499b134b59630a33b945f39bf4e741de
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
-ms.translationtype: HT
+robots: noindex, nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 1f29c884d155a64ba4d592466a87682313ce9610
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877412"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure Reserved VM Instances の請求
 
@@ -118,6 +121,6 @@ ms.lasthandoff: 05/11/2018
 | パートナー ダッシュボードで Azure Reservations を管理する | [パートナー ダッシュボードで Azure Reservations を管理する](azure-reservations-manage.md)
 |Azure portal で Azure Reservations を購入する | [Azure Reserved VM Instances による仮想マシン料金の前払い](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) (Azure ヘルプ) |
 |Azure portal で Azure Reservations を管理する   |[予約済み VM インスタンスの管理](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) (Azure ヘルプ)  |
-|パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) (パートナー センター開発者向けドキュメント)
+|パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)
 
  

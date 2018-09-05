@@ -1,15 +1,17 @@
 ---
-title: 調整ファイルの使用 | パートナー センター
-description: 請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。
+title: 調整ファイルを使う | パートナー センター
+description: 課金サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877552"
 ---
-# <a name="use-the-reconciliation-files"></a>調整ファイルの使用
+# <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
 **適用対象**
 
@@ -17,12 +19,12 @@ ms.lasthandoff: 05/10/2018
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。 詳細には、各顧客のサブスクリプションの料金や、詳細なイベント (期間途中でのサブスクリプションへのシートの追加など) が含まれます。
+課金サイクルの各料金の詳しい行項目ビューについては、パートナー センターのダッシュボードから調整ファイルをダウンロードします。 詳細には、各顧客のサブスクリプションの料金や、詳細なイベント (期間途中でのサブスクリプションへのシートの追加など) が含まれます。
 
 ## <a href="" id="itemizebypartner"></a>パートナーごとに明細を示す
 
 
-インダイレクト モデルのパートナーは、ライセンスベースの調整ファイルと使用量ベースの調整ファイルの両方で、これらの追加フィールドを使用してリセラーごとに明細を記載できます。
+インダイレクト モデルのパートナーは、ライセンス ベースの調整ファイルと使用量ベースの調整ファイルの両方で、これらの追加フィールドを使用してリセラーごとに明細を記載できます。
 
 <table>
 <colgroup>
@@ -44,7 +46,8 @@ ms.lasthandoff: 05/10/2018
 <td>リセラーの MPN ID</td>
 <td><p>インダイレクト モデルのパートナーの調整ファイルにのみ表示されます。</p>
 <p>サブスクリプションの登録のあるリセラーの MPN ID。 これは、パートナー センターで特定のサブスクリプションについて示されるリセラー ID に対応します。</p>
-<p>リセラーを表示または更新するには、パートナー センター メニューで <strong>[顧客]</strong> を選び、一覧から顧客を選びます。 顧客メニューで <strong>[サブスクリプション]</strong> を選び、一覧からサブスクリプションを選びます。 <strong>[更新]</strong> を選んで、<strong>[再販業者 (MPN ID)]</strong> を変更します。</p>
+<p>リセラーを表示または更新するには、パートナー センター メニューで <strong>[顧客]</strong> を選び、一覧から顧客を選択します。 顧客メニューの <strong>[サブスクリプション]</strong> を選び、一覧からサブスクリプションを選びます。 
+          <strong>[更新]</strong> を選んで、<strong>[再販業者 (MPN ID)]</strong> を変更します。</p>
 <p>CSP パートナーがお客様に直接サブスクリプションを販売した場合、パートナーの MPN ID が MPN ID とリセラーの MPN ID として 2 か所に表示されます。</p>
 <p>CSP パートナーのリセラーに MPN ID がない場合は、代わりに CSP パートナーの MPN ID がこの値に設定されます。</p>
 <p>CSP パートナーがリセラー ID を削除した場合、この値は -1 に設定されます。</p></td>
@@ -54,7 +57,7 @@ ms.lasthandoff: 05/10/2018
 
  
 
-## <a href="" id="licensebasedfiles"></a> ライセンスベースのファイルのフィールド
+## <a href="" id="licensebasedfiles"></a> ライセンス ベースのファイルのフィールド
 
 
 顧客の注文に対する料金を調整するには、調整ファイルの Syndication\_Partner\_Subscription\_Number とパートナー センターのサブスクリプション ID を比較します。
@@ -204,7 +207,7 @@ ms.lasthandoff: 05/10/2018
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
+<td><p>顧客のドメイン名。顧客を特定するために使用します。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -516,8 +519,8 @@ ms.lasthandoff: 05/10/2018
 </td>
 </tr>
 <tr>
-<td rowspan="8">
-<p><strong>当月のサービス利用料金</strong></p>
+<td rowspan="10">
+<p><strong>ライセンス ベースの課金</strong></p>
 </td>
 <td>
 <p>Activation fee</p>
@@ -525,7 +528,7 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>購入したサブスクリプションを顧客が使用したときに顧客に課金される金額</p>
 </td>
-<td rowspan="8">
+<td rowspan="10">
 <p>ライセンスベースのファイルから、<strong>Amount</strong> 列を合計する</p>
 </td>
 </tr>
@@ -586,6 +589,7 @@ ms.lasthandoff: 05/10/2018
 </td>
 </tr>
 <tr>
+
 <td>
 <p>Renew fee</p>
 </td>
@@ -595,16 +599,10 @@ ms.lasthandoff: 05/10/2018
 </tr>
 <tr>
 <td>
-<p><strong>その他の製品とサービス</strong></p>
-</td>
-<td>
 <p>Prorate fees when activate</p>
 </td>
 <td>
 <p>アクティブ化から課金期間の終了までの日割り料金</p>
-</td>
-<td>
-<p>ライセンスベースのファイルから、<strong>Amount</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
@@ -631,7 +629,7 @@ ms.lasthandoff: 05/10/2018
 </tr>
 <tr>
 <td>
-<p><strong>調整額</strong></p>
+<p><strong>クレジット</strong></p>
 </td>
 <td>
 <p>Offset a line item</p>
@@ -640,16 +638,13 @@ ms.lasthandoff: 05/10/2018
 <p>税金を含む、行項目への一部または全部の払戻し</p>
 </td>
 <td>
-<p>ライセンスベースのファイルから、<strong>TotalForCustomer</strong> 列を合計する</p>
+<p>ライセンス ベースのファイルから、<strong>TotalForCustomer</strong> 列を合計する</p>
 <p>使用量ベースのファイルから、<strong>PostTaxTotal</strong> 列を合計する</p>
 </td>
 </tr>
-
-
 <tr>
 <td rowspan="4">
-<p><strong>その他の割引</strong></br>
-<em>(使用量ベース)</em></p>
+<p><strong>使用量ベースの割引</strong></p>
 </td>
 <td>
 <p>Activation discount</p>
@@ -657,6 +652,7 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>サブスクリプションがアクティブ化されたときに適用される割引</p>
 </td>
+
 <td rowspan="4">
 <p>使用量ベースのファイルから、<strong>PretaxCharges</strong> 列を合計する</p>
 </td>
@@ -668,14 +664,16 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>定期的な課金に適用される割引</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Renew discount</p>
 </td>
 <td>
 <p>サブスクリプションの更新時に適用される割引</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Cancel discount</p>
 </td>
@@ -683,19 +681,20 @@ ms.lasthandoff: 05/10/2018
 <p>割引が取り消されたときに適用される料金</p>
 </td>
 </tr>
+
+
 <tr>
 <td>
-<p><strong>その他の割引</strong></br>
-<em>(ライセンスベース)</em></p>
+<p><strong>ライセンス ベースの割引</strong></p>
 </td>
 <td>
 <p><em>複数の種類の料金に適用される場合がある</em></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td>
-<p>ライセンスベースのファイルから、<strong>TotalOtherDiscount</strong> 列を合計する</p>
+<p>ライセンス ベースのファイルから、<strong>TotalOtherDiscount</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
@@ -704,13 +703,13 @@ ms.lasthandoff: 05/10/2018
 </td>
 <td>
 <p><em>複数の種類の料金に適用される場合がある</em></p>
-<p><em>例外: "Offset a line item" には既に税が含まれます。 前の「調整額」を参照してください。</em></p>
+<p><em>例外: "Offset a line item" には既に税が含まれます。 上記のクレジットを参照してください。</em></p>
 </td>
 <td>
 <p>税または付加価値税 (VAT)</p>
 </td>
 <td>
-<p>ライセンスベースのファイルから、<strong>Tax</strong> 列を合計する</p>
+<p>ライセンス ベースのファイルから、<strong>Tax</strong> 列を合計する</p>
 <p>使用量ベースのファイルから、<strong>TaxAmount</strong> 列を合計する</p>
 </td>
 </tr>

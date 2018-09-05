@@ -3,12 +3,13 @@ title: 販売するサード パーティ製品を見つける | パートナー
 description: 自社のポートフォリオに最適な種類のサード パーティ製品を検索して見つけることができます。
 author: labrenne
 keywords: サード パーティ製品、購入するソフトウェア、サード パーティの検索
-ms.openlocfilehash: f924bc4d38c764ca571148943d287318edb46987
-ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2204956"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876722"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>販売するサード パーティ製品を見つける
 
@@ -46,7 +47,8 @@ ms.locfileid: "2204956"
 3. 詳細な手順については、「[顧客のサブスクリプションの作成、中断、取り消し](create-a-new-subscription.md)」を参照してください。
 4.  サード パーティ製ソフトウェアの、月次請求を選択します。 年次請求と試用版は、現在サード パーティについては利用できません。
 5.  **[サード パーティ]** タブで購入する製品を選びます。
-6.  追加するサブスクリプションをオンにして、ライセンス数を入力します。 **[送信]** を選んで注文を送信します。
+6.  追加するサブスクリプションをオンにして、ライセンス数を入力します。 
+          **[送信]** を選んで注文を送信します。
 7.  サブスクリプションが追加されたら、サブスクリプションの一覧でサブスクリプション名をクリックして開きます。 
 8.  **[サブスクリプションの編集]** ページでは、ライセンス数の変更や、サブスクリプションの中断を行うことができます。
 

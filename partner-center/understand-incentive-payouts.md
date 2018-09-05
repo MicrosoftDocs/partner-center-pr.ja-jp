@@ -1,12 +1,14 @@
 ---
-title: "インセンティブの支払いについて | パートナー センター"
-description: "インセンティブ プログラムの収益と支払いを表示することができます。"
+title: インセンティブの支払いについて | パートナー センター
+description: インセンティブ プログラムの収益と支払いを表示することができます。
 author: labrenne
-ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
-ms.sourcegitcommit: e5fd98695ed481a46de6c7bc5b06625036a30f84
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: fb41598dfb79b8bbaee593aaffbd0cd79efbdd2c
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877432"
 ---
 #<a name="understand-your-incentive-payouts"></a>インセンティブの支払いについて
 
