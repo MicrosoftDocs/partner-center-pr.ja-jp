@@ -1,52 +1,49 @@
 ---
-title: "カスタマー サポート | パートナー センター"
-description: "貴社はお客様にとって最初の連絡ポイントであり、次のような技術的なサポート サービスやアカウントのサポート サービスをお客様に提供することが求められています。課金とサブスクリプションのサポート。プロビジョニング/展開のヘルプ、およびソフトウェアの構成。パフォーマンスの問題、サービスの可用性の問題、クライアント接続の問題、不足しているか不適切に構成されている設定によるクライアント デスクトップの問題、不完全なソフトウェア統合、アクセス許可の問題、またはその他の展開の問題の解決。サービスとソフトウェアの更新プログラムの管理。利用に関する質問への回答。クラウド ソリューション プロバイダーは、お客様がサポートを受けるための明確な説明を提供する必要があります。 24 時間体制の電話サポートを提供しない場合は、お客様へのオプションを説明するためのサービス レベル アグリーメントを提供する必要があります。 Microsoft は、CSP のお客様に課金のサポートを提供いたしません。"
+title: サポートを顧客に提供する |パートナー センター
+description: パートナーは、顧客から受信したサポート要求を受け取ります、パートナーの機能の最適なに問題を診断およびベースライン サポートの範囲内にある問題を解決して必要があります。
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 62a3a469180b084123f409e97f093056d36bfdd9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877272"
 ---
-# <a name="customer-support"></a><span data-ttu-id="4036b-105">カスタマー サポート</span><span class="sxs-lookup"><span data-stu-id="4036b-105">Customer support</span></span>
+# <a name="providing-support-to-your-customers"></a><span data-ttu-id="caca3-103">サポートを顧客に提供します。</span><span class="sxs-lookup"><span data-stu-id="caca3-103">Providing support to your customers</span></span>
 
-**<span data-ttu-id="4036b-106">適用対象</span><span class="sxs-lookup"><span data-stu-id="4036b-106">Applies to</span></span>**
+**<span data-ttu-id="caca3-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="caca3-104">Applies to</span></span>**
 
--  <span data-ttu-id="4036b-107">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="4036b-107">Partner Center</span></span>
--  <span data-ttu-id="4036b-108">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="4036b-108">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="4036b-109">Microsoft Cloud ドイツのパートナー センター</span><span class="sxs-lookup"><span data-stu-id="4036b-109">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="caca3-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="caca3-105">Partner Center</span></span>
+-  <span data-ttu-id="caca3-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="caca3-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="caca3-107">Microsoft Cloud ドイツのパートナー センター</span><span class="sxs-lookup"><span data-stu-id="caca3-107">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="4036b-110">パートナーはお客様にとって最初の連絡ポイントであり、次のような技術的なサポート サービスやアカウントのサポート サービスをお客様に提供することが求められています。</span><span class="sxs-lookup"><span data-stu-id="4036b-110">You are the first point of contact for your customers, and you are expected to provide technical and account support services such as the following to your customers:</span></span>
+## <a name="microsoft-partner-support-guidance"></a><span data-ttu-id="caca3-108">Microsoft パートナー サポートのガイダンス</span><span class="sxs-lookup"><span data-stu-id="caca3-108">Microsoft partner support guidance</span></span>
 
--   <span data-ttu-id="4036b-111">課金とサブスクリプションのサポート</span><span class="sxs-lookup"><span data-stu-id="4036b-111">Billing and subscription support</span></span>
+<span data-ttu-id="caca3-109">CSP モデルのパートナーには、顧客に信頼できるアドバイザーがあり、関係エンド ツー エンド、それぞれの顧客に質問や問題がある場合は、サポートを含むを所有します。</span><span class="sxs-lookup"><span data-stu-id="caca3-109">Partners transacting in the CSP model are the trusted advisor to their customers and own the relationship end-to-end, including support when their customer has a question or issue.</span></span> <span data-ttu-id="caca3-110">タッチのサポートを通じてポイント パートナーの詳細については、顧客と企業は、新しいサービスや値のドライブのソリューションを識別します。</span><span class="sxs-lookup"><span data-stu-id="caca3-110">Through support touch points partners can learn more about the customer, and their business, to identify new services and solutions that drive value.</span></span>
 
--   <span data-ttu-id="4036b-112">プロビジョニング/展開のヘルプ、およびソフトウェアの構成</span><span class="sxs-lookup"><span data-stu-id="4036b-112">Provisioning/deployment help, and software configuration</span></span>
+<span data-ttu-id="caca3-111">サポート要件を満たすために、パートナーが別のエンティティのサポートを再販するやにサポート構造のすべてまたは一部に委託可能性がありますが、直接サポートを提供する構造体を設定する場合があります。</span><span class="sxs-lookup"><span data-stu-id="caca3-111">To fulfill the support requirement, the partner may resell support from another entity, they may outsource all or part of their support structure and/or they may set up a structure to provide support directly.</span></span>  <span data-ttu-id="caca3-112">パートナーは、ユーザーに提供するサポートの一部またはすべての課金可能性があります。</span><span class="sxs-lookup"><span data-stu-id="caca3-112">The partner may charge for all or part of the support provided to customers.</span></span> <span data-ttu-id="caca3-113">パートナーは、サービスの時間を提供し、(サポートの充電) 場合は、価格ほか、メソッドにお問い合わせくださいはサポート、顧客に明確する必要があります。</span><span class="sxs-lookup"><span data-stu-id="caca3-113">The partner should articulate to their customers the support they will provide, the service hours and contact method, as well as the pricing (if charging for support).</span></span> 
 
--   <span data-ttu-id="4036b-113">パフォーマンスの問題、サービスの可用性の問題、クライアント接続の問題、不足しているか不適切に構成されている設定によるクライアント デスクトップの問題、不完全なソフトウェア統合、アクセス許可の問題、またはその他の展開の問題の解決。</span><span class="sxs-lookup"><span data-stu-id="4036b-113">Resolving performance issues, service availability issues, client connectivity problems, and client desktop problems due to missing or mis-configured settings, incomplete software integration, permissions problems, or other deployment issues.</span></span>
+<span data-ttu-id="caca3-114">パートナーは、顧客から受信したサポート要求を受け取ります、パートナーの機能の最適なに問題を診断およびベースライン サポートの範囲内にある問題を解決して必要があります。</span><span class="sxs-lookup"><span data-stu-id="caca3-114">Partners are required to receive incoming support requests from customers, diagnose issues to the best of the partner’s ability and then resolve issues that are within scope of the baseline support boundaries.</span></span> <span data-ttu-id="caca3-115">パートナーは、問題を解決できない場合は、次のサポート車両経由でマイクロソフトに問題をエスカレートことができます。</span><span class="sxs-lookup"><span data-stu-id="caca3-115">If the partner is unable to resolve an issue, they can escalate issues to Microsoft via the following support vehicles:</span></span>
 
--   <span data-ttu-id="4036b-114">サービスとソフトウェアの更新プログラムの管理</span><span class="sxs-lookup"><span data-stu-id="4036b-114">Managing updates for services and software</span></span>
+- <span data-ttu-id="caca3-116">**商用**の問題のサポートは、CSP プログラムでのすべてのパートナーが利用できます。</span><span class="sxs-lookup"><span data-stu-id="caca3-116">**Commercial** issue support is available to all partners in the CSP program</span></span>
+-   <span data-ttu-id="caca3-117">問題の**テクニカル**サポートは利用できます。</span><span class="sxs-lookup"><span data-stu-id="caca3-117">**Technical** issue support is available through:</span></span>
+    -   <span data-ttu-id="caca3-118">パートナー (基本手数料) プレミア サポート</span><span class="sxs-lookup"><span data-stu-id="caca3-118">Premier Support for Partners (fee base)</span></span>
+    -   <span data-ttu-id="caca3-119">高度なパートナー (基本料金) のサポート</span><span class="sxs-lookup"><span data-stu-id="caca3-119">Advanced Support for Partners (fee base)</span></span>
+    -   <span data-ttu-id="caca3-120">署名クラウドのサポート (Gold/Silver コンピテンシーに付属)</span><span class="sxs-lookup"><span data-stu-id="caca3-120">Signature Cloud Support (included with Gold/Silver competency)</span></span>
 
--   <span data-ttu-id="4036b-115">利用に関する質問への回答</span><span class="sxs-lookup"><span data-stu-id="4036b-115">Answers to usage questions</span></span>
+## <a name="providing-billing-subscription-management-and-technical-support"></a><span data-ttu-id="caca3-121">請求、サブスクリプションの管理、テクニカル サポートの提供</span><span class="sxs-lookup"><span data-stu-id="caca3-121">Providing billing, subscription management, and technical support</span></span> 
 
-<span data-ttu-id="4036b-116">クラウド ソリューション プロバイダーは、お客様がサポートを受けるための明確な説明を提供する必要があります。</span><span class="sxs-lookup"><span data-stu-id="4036b-116">Cloud Solution Providers must provide a clear description to customers of how they will receive support.</span></span> <span data-ttu-id="4036b-117">24 時間体制の電話サポートを提供しない場合は、お客様へのオプションを説明するためのサービス レベル アグリーメントを提供する必要があります。</span><span class="sxs-lookup"><span data-stu-id="4036b-117">If you do not provide round-the-clock phone support, you must provide a service level agreement to explain the options to your customers.</span></span> <span data-ttu-id="4036b-118">Microsoft は、CSP のお客様に課金のサポートを提供いたしません。</span><span class="sxs-lookup"><span data-stu-id="4036b-118">Microsoft does not provide support to CSP customers.</span></span>
+<span data-ttu-id="caca3-122">各オンライン サービスには、請求、サブスクリプションの管理、およびテクニカル サポートを提供するユーザーに特定し、詳細な要件があります。</span><span class="sxs-lookup"><span data-stu-id="caca3-122">Each online service has specific and detailed requirements for providing billing, subscription management, and technical support to customers.</span></span> <span data-ttu-id="caca3-123">詳しくは、次のドキュメントをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="caca3-123">Refer to the following documents for more information.</span></span>
 
-## <span data-ttu-id="4036b-119"><a href="" id="supportingtrainingcustomers"></a>お客様のサポートとトレーニング</span><span class="sxs-lookup"><span data-stu-id="4036b-119"><a href="" id="supportingtrainingcustomers"></a>Supporting and training your customers</span></span>
+-   [<span data-ttu-id="caca3-124">Dynamics 365 のサブスクリプションは、CSP を通じて販売</span><span class="sxs-lookup"><span data-stu-id="caca3-124">Dynamics 365 subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+
+-   [<span data-ttu-id="caca3-125">Azure サブスクリプションを CSP を通じて販売</span><span class="sxs-lookup"><span data-stu-id="caca3-125">Azure subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+
+-   [<span data-ttu-id="caca3-126">CSP で office 365 サブスクリプションの販売</span><span class="sxs-lookup"><span data-stu-id="caca3-126">Office 365 subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
-<span data-ttu-id="4036b-120">多くのヘルプと使い方に関する質問を担当している、アカウントでの導入数が低い、またはアップセルの機会をねらっている場合、トレーニング コースを検討することをお勧めします。</span><span class="sxs-lookup"><span data-stu-id="4036b-120">If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you’re looking for upsell opportunities, you may want to consider training courses.</span></span> <span data-ttu-id="4036b-121">購入したクラウド ソリューション ソフトウェアをより良く使用できるようにお客様に教えることで、生産性や満足度が向上し、サポート ニーズが低くなる可能性が高まります。</span><span class="sxs-lookup"><span data-stu-id="4036b-121">By teaching your customers how to better use the cloud solution software they have purchased, you’re more likely to see an increase in productivity and satisfaction, and a decrease in support needs.</span></span> <span data-ttu-id="4036b-122">候補とヒントについては、「[導入実績を高めて満足度を向上させる](increasing-adoption-and-satisfaction.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="4036b-122">For suggestions and tips, see [Increase adoption and satisfaction](increasing-adoption-and-satisfaction.md).</span></span>
-
-## <a name="customer-support"></a><span data-ttu-id="4036b-123">カスタマー サポート</span><span class="sxs-lookup"><span data-stu-id="4036b-123">Customer support</span></span>
-
-
-[<span data-ttu-id="4036b-124">請求に関するサポートの提供</span><span class="sxs-lookup"><span data-stu-id="4036b-124">Provide billing support</span></span>](provide-billing-support.md)
-
-[<span data-ttu-id="4036b-125">テクニカル サポートの提供</span><span class="sxs-lookup"><span data-stu-id="4036b-125">Provide technical support</span></span>](provide-technical-support.md)
-
-[<span data-ttu-id="4036b-126">マイクロソフトから顧客への連絡</span><span class="sxs-lookup"><span data-stu-id="4036b-126">Customer communication from Microsoft</span></span>](customer-communication-from-microsoft.md)
-
-[<span data-ttu-id="4036b-127">顧客によるセルフ サポート</span><span class="sxs-lookup"><span data-stu-id="4036b-127">Customer self-support</span></span>](customer-self-support.md)
-
-[<span data-ttu-id="4036b-128">マイクロソフトへの問題のエスカレート</span><span class="sxs-lookup"><span data-stu-id="4036b-128">Escalate problems to Microsoft</span></span>](escalate-problems-to-microsoft.md)
 
  
 

@@ -4,41 +4,43 @@ description: リセラー パートナーは、リセラーをサポート連絡
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 keywords: ヘルプ エージェント, サポート, サポート連絡先の指定, 指定のサポート連絡先
-ms.openlocfilehash: f67d314ca0e6fe70cdaba70395f1e80a7e049b88
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2a1ae3f22193f2d59266c289c4c2a924c323b86a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877542"
 ---
-# <a name="assign-support-contacts"></a><span data-ttu-id="26ee8-104">サポート連絡先の指定</span><span class="sxs-lookup"><span data-stu-id="26ee8-104">Assign support contacts</span></span>
+# <a name="assign-support-contacts"></a><span data-ttu-id="54198-104">サポート連絡先の指定</span><span class="sxs-lookup"><span data-stu-id="54198-104">Assign support contacts</span></span>
 
-**<span data-ttu-id="26ee8-105">適用対象</span><span class="sxs-lookup"><span data-stu-id="26ee8-105">Applies to</span></span>**
+**<span data-ttu-id="54198-105">適用対象</span><span class="sxs-lookup"><span data-stu-id="54198-105">Applies to</span></span>**
 
--  <span data-ttu-id="26ee8-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="26ee8-106">Partner Center</span></span>
+-  <span data-ttu-id="54198-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="54198-106">Partner Center</span></span>
 
-<span data-ttu-id="26ee8-107">顧客に対して Microsoft サービスのサブスクリプションを設定するとき、自社でサポートを提供するのではなく、指定リセラーを対象製品のテクニカル サポートとして割り当てることができます。</span><span class="sxs-lookup"><span data-stu-id="26ee8-107">When you set up subscriptions for Microsoft services for your customers, you may want to assign the technical support for these products to a designated reseller, rather than providing the support yourself.</span></span>
+<span data-ttu-id="54198-107">顧客に対して Microsoft サービスのサブスクリプションを設定するとき、自社でサポートを提供するのではなく、指定リセラーを対象製品のテクニカル サポートとして割り当てることができます。</span><span class="sxs-lookup"><span data-stu-id="54198-107">When you set up subscriptions for Microsoft services for your customers, you may want to assign the technical support for these products to a designated reseller, rather than providing the support yourself.</span></span>
 
-<span data-ttu-id="26ee8-108">サポート連絡先を設定すると、指定したサポート連絡先の情報が、顧客の製品サポート ページに表示されます。</span><span class="sxs-lookup"><span data-stu-id="26ee8-108">After you set up support contacts, customers see your assigned support contact's information on the product support pages.</span></span> <span data-ttu-id="26ee8-109">たとえば、Office 365 の顧客がサポートを必要とする場合、Office.com ページにアクセスして管理者の資格情報でログインし、**[管理者]** タイルを選ぶと、**[サポート]** セクションの下に指定のサポート連絡先が表示されます。</span><span class="sxs-lookup"><span data-stu-id="26ee8-109">For example, when Office 365 customers need support, they can go into the Office.com page, log in with their admin credentials, select the **Admin** tile, and under the **Support** section, see the assigned support contact information.</span></span>
+<span data-ttu-id="54198-108">サポート連絡先を設定すると、指定したサポート連絡先の情報が、顧客の製品サポート ページに表示されます。</span><span class="sxs-lookup"><span data-stu-id="54198-108">After you set up support contacts, customers see your assigned support contact's information on the product support pages.</span></span> <span data-ttu-id="54198-109">たとえば、Office 365 の顧客がサポートを必要とする場合、Office.com ページにアクセスして管理者の資格情報でログインし、**[管理者]** タイルを選ぶと、**[サポート]** セクションの下に指定のサポート連絡先が表示されます。</span><span class="sxs-lookup"><span data-stu-id="54198-109">For example, when Office 365 customers need support, they can go into the Office.com page, log in with their admin credentials, select the **Admin** tile, and under the **Support** section, see the assigned support contact information.</span></span>
 
-<span data-ttu-id="26ee8-110">これは、[マルチパートナー](multipartner.md) シナリオと[マルチチャンネル](multichannel.md) シナリオで使用できます。</span><span class="sxs-lookup"><span data-stu-id="26ee8-110">This can be used for [multi-partner](multipartner.md) and [multi-channel](multichannel.md) scenarios.</span></span> 
+<span data-ttu-id="54198-110">これは、[マルチパートナー](multipartner.md) シナリオと[マルチチャンネル](multichannel.md) シナリオで使用できます。</span><span class="sxs-lookup"><span data-stu-id="54198-110">This can be used for [multi-partner](multipartner.md) and [multi-channel](multichannel.md) scenarios.</span></span> 
 
 <a href="" id="assigncontacts"></a>
-## <a name="assign-contacts"></a><span data-ttu-id="26ee8-111">連絡先を指定する</span><span class="sxs-lookup"><span data-stu-id="26ee8-111">Assign contacts</span></span>
+## <a name="assign-contacts"></a><span data-ttu-id="54198-111">連絡先を指定する</span><span class="sxs-lookup"><span data-stu-id="54198-111">Assign contacts</span></span>
 
-1.  <span data-ttu-id="26ee8-112">まず、指定する製品リセラーとの[関係を要求](request-a-relationship-with-a-customer.md)します。</span><span class="sxs-lookup"><span data-stu-id="26ee8-112">Start by [requesting a relationship](request-a-relationship-with-a-customer.md) with your designated product reseller.</span></span> <span data-ttu-id="26ee8-113">テクニカル サポートの代行を依頼するサポート契約について協議します。</span><span class="sxs-lookup"><span data-stu-id="26ee8-113">Negotiate a support agreement with them for handling technical support.</span></span>
+1.  <span data-ttu-id="54198-112">まず、指定する製品リセラーとの[関係を要求](request-a-relationship-with-a-customer.md)します。</span><span class="sxs-lookup"><span data-stu-id="54198-112">Start by [requesting a relationship](request-a-relationship-with-a-customer.md) with your designated product reseller.</span></span> <span data-ttu-id="54198-113">テクニカル サポートの代行を依頼するサポート契約について協議します。</span><span class="sxs-lookup"><span data-stu-id="54198-113">Negotiate a support agreement with them for handling technical support.</span></span>
 
-2.  <span data-ttu-id="26ee8-114">パートナー ダッシュボードで **[顧客]** を選択して顧客を選んだ後、Office 365 Business Premium などのサブスクリプションを選びます。</span><span class="sxs-lookup"><span data-stu-id="26ee8-114">From the Partner Dashboard, select **Customers**, then select a customer, then select a subscription, for example, Office 365 Business Premium.</span></span>
+2.  <span data-ttu-id="54198-114">パートナー ダッシュボードで **[顧客]** を選択して顧客を選んだ後、Office 365 Business Premium などのサブスクリプションを選びます。</span><span class="sxs-lookup"><span data-stu-id="54198-114">From the Partner Dashboard, select **Customers**, then select a customer, then select a subscription, for example, Office 365 Business Premium.</span></span>
 
-3.  <span data-ttu-id="26ee8-115">**[指定のサポート連絡先]** で、指定する製品リセラーを選び、**[送信]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="26ee8-115">In  **Designated support contact**, select the designated product reseller, and then click **Submit**.</span></span> 
+3.  <span data-ttu-id="54198-115">**[指定のサポート連絡先]** で、指定する製品リセラーを選び、**[送信]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="54198-115">In  **Designated support contact**, select the designated product reseller, and then click **Submit**.</span></span> 
 
-    <span data-ttu-id="26ee8-116">注:</span><span class="sxs-lookup"><span data-stu-id="26ee8-116">Notes:</span></span> 
+    <span data-ttu-id="54198-116">注:</span><span class="sxs-lookup"><span data-stu-id="54198-116">Notes:</span></span> 
     
-    *  <span data-ttu-id="26ee8-117">サブスクリプションを新しく作成した時点では、指定のサポート連絡先は、既定で間接プロバイダーに設定されています。</span><span class="sxs-lookup"><span data-stu-id="26ee8-117">For new subscriptions, the designated support contact defaults to the indirect provider.</span></span> <span data-ttu-id="26ee8-118">これを、代理管理者特権を持つ間接リセラーに変更することもできます。</span><span class="sxs-lookup"><span data-stu-id="26ee8-118">You can also change this to an indirect reseller that has delegation admin privileges.</span></span>
+    *  <span data-ttu-id="54198-117">サブスクリプションを新しく作成した時点では、指定のサポート連絡先は、既定で間接プロバイダーに設定されています。</span><span class="sxs-lookup"><span data-stu-id="54198-117">For new subscriptions, the designated support contact defaults to the indirect provider.</span></span> <span data-ttu-id="54198-118">これを、代理管理者特権を持つ間接リセラーに変更することもできます。</span><span class="sxs-lookup"><span data-stu-id="54198-118">You can also change this to an indirect reseller that has delegation admin privileges.</span></span>
     
-    *  <span data-ttu-id="26ee8-119">リセラーの名前が利用可能なサポート連絡先の一覧に表示されない場合は、[関係を要求](request-a-relationship-with-a-customer.md)してそれらのリセラーを追加します。</span><span class="sxs-lookup"><span data-stu-id="26ee8-119">If your reseller's name doesn't appear in the list of available support contacts, add them in by [requesting a relationship](request-a-relationship-with-a-customer.md).</span></span> <span data-ttu-id="26ee8-120">関係が確立されると、それらのリセラーが一覧に表示されます。</span><span class="sxs-lookup"><span data-stu-id="26ee8-120">After the relationship is established, they should appear in the list.</span></span>  
+    *  <span data-ttu-id="54198-119">リセラーの名前が利用可能なサポート連絡先の一覧に表示されない場合は、[関係を要求](request-a-relationship-with-a-customer.md)してそれらのリセラーを追加します。</span><span class="sxs-lookup"><span data-stu-id="54198-119">If your reseller's name doesn't appear in the list of available support contacts, add them in by [requesting a relationship](request-a-relationship-with-a-customer.md).</span></span> <span data-ttu-id="54198-120">関係が確立されると、それらのリセラーが一覧に表示されます。</span><span class="sxs-lookup"><span data-stu-id="54198-120">After the relationship is established, they should appear in the list.</span></span>  
 
-4.  <span data-ttu-id="26ee8-121">変更内容が正しいことを確認した後、**[閉じる]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="26ee8-121">Review that the changes are correct, and then select **Close**.</span></span>
+4.  <span data-ttu-id="54198-121">変更内容が正しいことを確認した後、**[閉じる]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="54198-121">Review that the changes are correct, and then select **Close**.</span></span>
 
-## <a name="related-topics"></a><span data-ttu-id="26ee8-122">関連トピック</span><span class="sxs-lookup"><span data-stu-id="26ee8-122">Related topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="54198-122">関連トピック</span><span class="sxs-lookup"><span data-stu-id="54198-122">Related topics</span></span>
 
-[<span data-ttu-id="26ee8-123">顧客との再販業者関係の削除</span><span class="sxs-lookup"><span data-stu-id="26ee8-123">Remove a relationship with a customer</span></span>](remove-a-relationship.md)
+[<span data-ttu-id="54198-123">顧客との再販業者関係の削除</span><span class="sxs-lookup"><span data-stu-id="54198-123">Remove a relationship with a customer</span></span>](remove-a-relationship.md)
