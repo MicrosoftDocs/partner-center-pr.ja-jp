@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c5735a61a867c06268bb2257f3295d49bbe83f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874572"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405434"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>ユーザー アカウントの作成とアクセス許可の設定
 
@@ -61,6 +61,12 @@ ms.locfileid: "2874572"
 
 >[!Important]
 >ユーザーがパートナー ダッシュボードの機能を使用するには、1 つ以上のロールを割り当てる必要があります。
+
+
+### <a name="find-your-global-admin"></a>グローバル管理者を検索します。
+
+場合によっては、ユーザーが自分の役割が変更する必要がありますれた新しいユーザーが特定の役割の割り当てをする場合があります。  
+役割の変更や割り当てる役割をできる新しいユーザーの上部にある**設定アイコン**から、ダッシュ ボードの右全体管理者を検索するには、**ユーザーの管理**とグローバル管理者でフィルターを選択します。 
 
 ロールと各役割で実行できる機能の詳細については、[ユーザーのアクセス許可を割り当てる](permissions-overview.md)をご覧ください。
 
