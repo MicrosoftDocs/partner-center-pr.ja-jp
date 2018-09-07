@@ -4,12 +4,12 @@ description: パートナー ダッシュ ボードで作業する必要があ�
 author: labrenne
 keywords: 役割、アクセス許可、管理エージェント
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6e32b5e65d2d1dc52a5703fc405a14f9d5bc3e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
+ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875992"
+ms.lasthandoff: 09/07/2018
+ms.locfileid: "3630613"
 ---
 # <a name="assign-users-roles-and-permissions"></a>ユーザーのロールとアクセス許可を割り当てる
 
@@ -62,6 +62,7 @@ ms.locfileid: "2875992"
 <td><ul>
 <li><p>ユーザーの表示、作成、管理</p></li>
 <li><p>すべてのパートナー プロファイルの表示</p></li>
+<li><p>パートナー ユーザーの表示、作成、管理</p></li>
 </ul></td>
 </tr>
 <tr class="even">
