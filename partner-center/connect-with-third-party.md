@@ -4,12 +4,12 @@ description: マイクロソフト製品と連動するサード パーティ製
 author: labrenne
 keywords: 購入するサード パーティ製製品、ソフトウェア
 ms.localizationpriority: medium
-ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
+ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875522"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "4062164"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>ポートフォリオにサード パーティ製ソフトウェアを追加する
 
@@ -21,7 +21,7 @@ ms.locfileid: "2875522"
 
 現在、パートナー センターには、Azure、Office 365、Dynamics と統合されるサード パーティ製品が用意されています。 
 
-## <a name="connecting-with-third-party-partners"></a>サード パーティ パートナーとつながる
+## <a name="connect-with-third-party-partners"></a>サード パーティのパートナーとの連携します。
  
 CSP パートナーとして、サード パーティ製ソフトウェアを検索することができます。 ISV パートナーと連携して、製品のカタログを構築できます。 ISV パートナーも、連携する CSP パートナーを検索することもできます。 CSP パートナーが販売している マイクロソフト製品の種類で検索を掛け、そのビジネス プロファイルを閲覧することができます。 ビジネス プロファイルを最新の状態に保つことは重要です。 ISV パートナーの製品に関心がある場合は、そのことを知らせるために、商品 ID にある [興味あり] ボタンをクリックし、ポップアップ表示されるフォームに記入します。 マイクロソフトが、その内容を ISV パートナーに送信します。 ISV パートナーからの応答はパートナー センターで保持されます。 同様に、ISV パートナーが CSP パートナーとの連携に関心を表す場合、CSP パートナーはパートナー センター経由で通知を受けます。 48 時間以内に応答するようにしてください。
 
