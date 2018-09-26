@@ -5,12 +5,12 @@ ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 25f57a2ddc16ebb1f98d6f2f083fca870b74fdff
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dadd034214edabcea3d96c7e86f9c1de609dd3d3
+ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876272"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "4197690"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理としての問題の報告
 
@@ -32,9 +32,14 @@ ms.locfileid: "2876272"
 
 **Microsoft Azure**
 
-**注:** Azure で顧客用のサービス要求を作成するには、顧客の Azure アカウントへのアクセスが間接プロバイダーから許可される必要があります。 これは、Office 365 ユーザーに代わって管理を行うこととは異なります。   
+**注:** Azure で顧客のサービス リクエストを作成する必要がある場合に、次の注意してください。
 
-1.  **[新しいサポート要求]** を選びます。
+- Azure で顧客のサービス要求を作成するためには、間接プロバイダーが、顧客の Azure アカウントへのアクセスを許可する必要があります。 これは、Office 365 ユーザーに代わって管理を行うこととは異なります。 
+
+- パートナー センターでのヘルプデスク管理者は、Azure サービス ポータルでサービス リクエストを作成することはできません、実行できる機能は Azure サービス ポータルでサポート グループを作成し、サポート要求を記録するには、そのグループ アクセスを許可を付与します。
+
+1.  
+          **[新しいサポート要求]** を選びます。
 2.  次のようにサポート要求に適切な情報を入力し、**[作成]** を選びます。
         -   サポート要求の **[基本]** セクションで、必ず **[サポート プラン]** フィールドの **[クラウド ソリューション プロバイダー]** を選びます。
         -   サポート要求の **[連絡先]** 情報セクションに、顧客の情報ではなく貴社の情報を入力します。
@@ -93,7 +98,7 @@ Office 365 管理センターに直接サインインすると、顧客のコン
 
  関連する問題が発生した場合: Dynamics 365 プラン サブスクリプション、ライセンス、請求、ファイナンス & 操作や IURs がさらにテクニカル サポートが必要です。
  
-[Dynamics のサポート](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)にお問い合わせ
+[Dynamics サポート](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)にお問い合わせ
 
 [Microsoft Dynamics のサポート](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)を読み取る
 
