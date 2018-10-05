@@ -3,12 +3,12 @@ title: 米国政府機関向け Microsoft Cloud のクラウド ソリューシ�
 description: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2b4aff04574a4c16fbfe0ba28e1e7603857d3796
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877202"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377664"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する
 
@@ -30,8 +30,8 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 -  組織の Microsoft Partner Network (MPN) ID 
 -  米国内での会社の住所
 
->**重要**<br>
-既にパートナー センターにアカウントをお持ちで、米国政府機関向け Microsoft Cloud の CSP に登録をご希望の場合は、米国政府機関市場専用の別のアカウントを作成する必要があります。
+> [!IMPORTANT]  
+> 既にパートナー センターにアカウントをお持ちで、米国政府機関向け Microsoft Cloud の CSP に登録をご希望の場合は、米国政府機関市場専用の別のアカウントを作成する必要があります。
 
 ## <a name="how-to-enroll"></a>登録方法 
 
@@ -48,8 +48,8 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 2.  **[同意して続行する]** を選択します。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
 
-    >**重要**<br>
-    **[同意して続行する]** を選択することにより、組織の代理として行為する権限が認められていることを確認するもの、そして Microsoft が組織のクラウド ソリューション プロバイダーの申し込みを確認する前に与信審査を実行することを許可するものと見なされます。
+    > [!IMPORTANT]  
+    > **[同意して続行する]** を選択することにより、組織の代理として行為する権限が認められていることを確認するもの、そして Microsoft が組織のクラウド ソリューション プロバイダーの申し込みを確認する前に与信審査を実行することを許可するものと見なされます。
 
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>手順 3 - 米国政府機関向け Microsoft Cloud のリセラー契約に署名する
@@ -63,8 +63,8 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 米国政府機関向け Microsoft Cloud では、政府機関のコンプライアンス、セキュリティ、プライバシーの標準を満たす、独立した Microsoft Azure のインスタンスを提供します。 管理者が Microsoft Azure Portal でユーザーとライセンスを管理することを許可するには、手動で管理エージェントのロールを管理者に割り当てる必要があります。
 
->**注意**<br>
-ユーザーを管理エージェント ロールに割り当てると、**[顧客]** ページで顧客の一覧にアクセスし、[新しい顧客を追加](add-a-new-customer.md)できるようになります。   
+> [!NOTE]  
+> ユーザーを管理エージェント ロールに割り当てると、**[顧客]** ページで顧客の一覧にアクセスし、[新しい顧客を追加](add-a-new-customer.md)できるようになります。   
 
 1.  Microsoft Azure 管理ポータルにサインインhttps://portal.azure.us/します。
 

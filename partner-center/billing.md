@@ -5,12 +5,12 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: 2bf56f90a6a49184ea2992adf534fde3d2043e7b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9e66f9c4060a155f4099f28ef29559d5a6f628ba
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876362"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377744"
 ---
 # <a name="billing"></a>請求
 
@@ -24,8 +24,8 @@ ms.locfileid: "2876362"
 
 クラウド ソリューション プロバイダー プログラムに参加中で月次請求を選択した場合は、顧客 (ライセンスベースおよび使用量ベース) のサブスクリプション料金を 60 日以内に Microsoft にお支払いください。
 
->**注**<br>
-請求書は、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されたものであり、指定の請求日から 4 日以内に表示可能になります。
+> [!NOTE]  
+> 請求書は、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されたものであり、指定の請求日から 4 日以内に表示可能になります。
 
 顧客への請求に関する重要な情報:
 

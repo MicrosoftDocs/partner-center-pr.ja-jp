@@ -4,12 +4,12 @@ description: Microsoft Partner Network メンバーシップをアップグレ�
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875712"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377784"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 
@@ -46,7 +46,8 @@ Action Pack は、クラウドファースト、モバイルファーストの�
 
 Microsoft Action Pack について詳しくに移動します。[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)します。 
 
->**注** このリンクをクリックすると、別の Web サイトにアクセスします。 Action Pack をサブスクライブするには、このパートナー センター サイトに戻る必要があります。
+> [!NOTE]  
+> このリンクに移動する別の web サイトにします。 Action Pack をサブスクライブするには、このパートナー センター サイトに戻る必要があります。
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Microsoft Action Pack をサブスクライブする
@@ -75,8 +76,8 @@ Microsoft Action Pack について詳しくに移動します。[https://partner
 
 3. Action Pack サブスクリプションを毎年自動的に更新しない場合は、**[自動更新を無効にする]** を選びます。 
 
-    >**注**<br>
-サブスクリプションの自動更新を無効にすると、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 サブスクリプションの有効期限が切れる前に、更新についてお知らせします。
+   > [!NOTE]  
+> サブスクリプションの自動更新を無効にすると、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 サブスクリプションの有効期限が切れる前に、更新についてお知らせします。
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Action Pack サブスクリプションを更新する

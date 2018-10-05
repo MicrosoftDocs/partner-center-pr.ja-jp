@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ab388f9a178a0bfd3b3d3133da855bcddee9d4f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877452"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377804"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure を販売する CSP パートナー様向けの Azure コスト管理アプリ  
 
@@ -41,8 +41,9 @@ Cloudyn が提供する Azure cost management は、お客様による Azure の
 ## <a name="add-a-secret-key-to-your-app"></a>アプリへの秘密鍵の追加
 1.  **[キーの追加]** ボタンの横のドロップ ダウンで、1 年間または 2 年間の期間を選択します。
 2.  **[キーの追加]** をクリックします。 
-3.  秘密キーの値を書き留めて保存します。 この値は、30 日間無料試用版の利用に必要です。
-<br>**注**: アプリケーションの秘密キーは、有効期限の長いパスワードのようなものです。 後日使用できるように、安全な場所にキーの値を保存してください。
+3.  秘密キーの値を書き留めて保存します。 この値は、30 日間無料試用版の利用に必要です。<br>
+> [!NOTE]  
+> アプリケーションの秘密キーは、期限の長いパスワードに似ています。 後日使用できるように、安全な場所にキーの値を保存してください。
 
 ## <a name="next-steps"></a>次のステップ
 [30 日間無料試用版](https://go.microsoft.com/fwlink/?linkid=857895) をご利用ください。

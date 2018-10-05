@@ -4,12 +4,12 @@ description: 市場固有の顧客契約テンプレートをパートナー セ
 author: Maggie Evans
 keywords: Microsoft Cloud 契約, 顧客契約テンプレート, CSP 顧客契約, MCA, Microsoft Cloud 契約 (MCA), CSP, CSP で販売できる国または地域, CSP の国または地域, CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南米, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cd5615693a7cea51dfc11f1b6039c3a333e979b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877512"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377814"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Microsoft クラウド ソリューション プロバイダーの市場および顧客契約
 
@@ -17,8 +17,8 @@ ms.locfileid: "2877512"
 
 一部の国や地域では、言語の異なる複数バージョンの契約書が用意されており、顧客に適した言語を選択できます。 顧客が希望する言語のバージョンを提供してください。
 
->**注**<br>
-以下に示す Microsoft Cloud 契約顧客テンプレートは、2017 年 9 月 1 日以降、すべての地域と言語で有効となります。
+> [!NOTE]  
+> 以下に示す Microsoft Cloud 契約顧客テンプレートは、2017 年 9 月 1 日以降、すべての地域と言語で有効となります。
 
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北米、中米、南米、カリブ諸国

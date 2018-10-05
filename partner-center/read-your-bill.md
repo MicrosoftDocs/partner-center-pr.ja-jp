@@ -5,12 +5,12 @@ ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875182"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377544"
 ---
 # <a name="read-your-bill"></a>請求書の記載事項
 
@@ -24,8 +24,8 @@ ms.locfileid: "2875182"
 
 クラウド ソリューション プロバイダー プログラムに参加中で月次請求を選択した場合は、顧客 (ライセンスベースおよび使用量ベース) のサブスクリプション料金を 60 日以内に Microsoft にお支払いください。
 
->**注**<br>
-請求書は、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されたものであり、指定の請求日から 4 日以内に表示可能になります。
+> [!NOTE]  
+> 請求書は、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されたものであり、指定の請求日から 4 日以内に表示可能になります。
 
 ライセンス ベース (Office365) と (Azure) 料金の使用量ベースの 1 つの請求書と 1 回限り (Azure reserved VM instances の) 別の請求書を受け取ったら料金。
 

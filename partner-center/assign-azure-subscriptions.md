@@ -4,12 +4,12 @@ description: パートナー センターで、顧客に Azure サブスクリ�
 author: Labrenne
 keywords: Azure, Azure サブスクリプション, サブスクリプション, 月額プラン, サブスクリプションの割り当て, Azure サブスクリプションの管理
 ms.localizationpriority: medium
-ms.openlocfilehash: cc847b9a0cab253c911141c26c4ab457ad0d98cc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875012"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377564"
 ---
 # <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>パートナー ダッシュボードでの Azure サブスクリプションの割り当て
 
@@ -37,7 +37,8 @@ ms.locfileid: "2875012"
 
 1.  顧客の Azure Portal を開くには、顧客一覧でその顧客の一覧を展開するか、**[Microsoft Azure の管理ポータル]** を選びます。
     
- >**注意** <br> Azure Portal にログインするよう求められた場合、代理管理者権限がない可能性があります。 **[関係を要求する]** を選択し、指名パートナーとして指定するよう顧客を招待します。 顧客が招待を受け入れると、代理管理者権限が自動的に付与されます。 
+> [!NOTE]  
+> Azure Portal にログインするよう求められた場合、代理管理者権限がない可能性があります。 **[関係を要求する]** を選択し、指名パートナーとして指定するよう顧客を招待します。 顧客が招待を受け入れると、代理管理者権限が自動的に付与されます。 
 
 2.  Azure Portal で、顧客のサブスクリプションの一覧を開き、顧客の Azure サブスクリプションを選びます。
 

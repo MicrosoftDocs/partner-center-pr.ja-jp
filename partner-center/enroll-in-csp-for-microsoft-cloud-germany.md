@@ -3,12 +3,12 @@ title: Microsoft Cloud ドイツのクラウド ソリューション プロバ�
 description: Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: db996ad4fdfda05f190abdfe2028d5c8b023e40b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877502"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377654"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムに登録する
 
@@ -24,8 +24,8 @@ ms.locfileid: "2877502"
 
 既にパートナー センターにアカウントをお持ちで、Microsoft Cloud ドイツの CSP に登録をご希望の場合は、Microsoft Cloud ドイツのパートナー センター用に別のアカウントを作成する必要があります。
 
->**重要**<br>
-CSP プログラムに登録済みで、Microsoft Cloud ドイツの加盟国/地域内の顧客とパートナーにも販売を行うには、その特定の市場用に新しいパートナー センター アカウントを作成する必要があります。  
+> [!IMPORTANT]  
+> CSP プログラムに登録済みで、Microsoft Cloud ドイツの加盟国/地域内の顧客とパートナーにも販売を行うには、その特定の市場用に新しいパートナー センター アカウントを作成する必要があります。  
 
 パートナー センター アカウントを作成して Microsoft Cloud ドイツの CSP に登録するには、次の情報を入力する必要があります (登録プロセスを開始する前にあらかじめこの情報を調べておくことをお勧めします)。
 
@@ -36,7 +36,7 @@ CSP プログラムに登録済みで、Microsoft Cloud ドイツの加盟国/�
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>手順 1 - Microsoft Cloud ドイツ用にパートナー センターのアカウントを作成する 
 
-1.  Microsoft Cloud ドイツの csp に登録するには[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)し、**サインイン**を選択します。 
+1.  Microsoft Cloud ドイツの CSP への登録をするには[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)**サインイン**を選択します。 
 
 2.  グローバル管理者の資格情報を使用して、お勤め先がお持ちの Office 365、Microsoft Azure、または Microsoft Dynamics の Microsoft Cloud ドイツ アカウントにサインインします。 これらのポータルのアカウントをお勤め先がお持ちでない場合は、**[1 つ作成]** を選択してサインアップしてください。
 
@@ -56,8 +56,8 @@ CSP プログラムに登録済みで、Microsoft Cloud ドイツの加盟国/�
 
 2.  **[Accept and continue] (同意して続ける)** を選択します。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
 
-    >**重要**<br>
-    **[Accept and continue] (同意して続ける)** を選択することにより、お勤め先の代理として行為する権限が認められていることを確認するもの、そして Microsoft がお勤め先のクラウド ソリューション プロバイダー アプリケーションを確認する前に与信審査を実行することを許可するものと見なされます。
+> [!IMPORTANT]  
+> **[Accept and continue] (同意して続ける)** を選択することにより、お勤め先の代理として行為する権限が認められていることを確認するもの、そして Microsoft がお勤め先のクラウド ソリューション プロバイダー アプリケーションを確認する前に与信審査を実行することを許可するものと見なされます。
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-germany"></a>手順 3 - Microsoft Cloud ドイツのリセラー契約に署名する 
 
@@ -69,8 +69,8 @@ CSP プログラムに登録済みで、Microsoft Cloud ドイツの加盟国/�
 
 Microsoft Cloud ドイツでは、ドイツ国内で運用される専用ネットワークを使用して、ドイツのデータ センターから Microsoft Azure の独立したインスタンスを提供しています。 管理者がドイツの Azure Portal でユーザーとライセンスを管理することを許可するには、手動で管理エージェントのロールを管理者に割り当てる必要があります。
 
->**注**<br>
-ユーザーを管理エージェント ロールに割り当てると、ダッシュボード メニューに **[顧客]** メニューが表示され、顧客の一覧にアクセスし、[新しい顧客を追加](add-a-new-customer.md)できるようになります。   
+> [!NOTE]  
+> ユーザーを管理エージェント ロールに割り当てると、ダッシュボード メニューに **[顧客]** メニューが表示され、顧客の一覧にアクセスし、[新しい顧客を追加](add-a-new-customer.md)できるようになります。   
 
 1.  ドイツの Azure ポータルにサインインhttps://portal.microsoftazure.de/します。
 

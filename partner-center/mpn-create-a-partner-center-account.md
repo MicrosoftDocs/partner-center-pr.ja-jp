@@ -3,12 +3,12 @@ title: パートナー センター アカウントを作成する | パート�
 description: Microsoft Partner Network メンバーがネットワークの利点とコンピテンシーを管理してビジネス プロファイルを作成するには、パートナー センター アカウントを作成する必要があります。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5687b933923da3e554924e14cfd0dca88a64243e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876782"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377774"
 ---
 # <a name="create-a-partner-center-account"></a>パートナー センター アカウントを作成する
 
@@ -60,7 +60,8 @@ ms.locfileid: "2876782"
 
     第一連絡先担当者には、貴社の登録申請について連絡できる社内の担当者 (申請者本人または社内の他の担当者) を指定してください。 この情報は、この担当者が貴社に勤務し、パートナーセンターアカウントに登録した本人であることを確認するためにも使われます。
 
-    >**重要**<br> マイクロソフトは貴社のセキュリティとプライバシーを確保するため、第一連絡先担当者に、(1) このメール アドレスの持ち主がパートナー センター アカウントに登録した本人であること、および (2) このメール アドレスが貴社に属していることをメールで確認します。 第一連絡先担当者と連絡が取れ、そのメール アドレスの正当性が確認された後、提供された情報が引き続き審査されます。
+    > [!IMPORTANT]  
+    > マイクロソフトは貴社のセキュリティとプライバシーを確保するため、第一連絡先担当者に、(1) このメール アドレスの持ち主がパートナー センター アカウントに登録した本人であること、および (2) このメール アドレスが貴社に属していることをメールで確認します。 第一連絡先担当者と連絡が取れ、そのメール アドレスの正当性が確認された後、提供された情報が引き続き審査されます。
 
 4.  Microsoft Partner Network 契約の諸条件を読んで同意します。 
 

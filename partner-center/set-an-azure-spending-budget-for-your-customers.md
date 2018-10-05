@@ -4,12 +4,12 @@ description: 月末の Azure の請求金額が顧客にとって予期しない
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: adea2e44dcde77ae8f6c020407cd65957fdfd5cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875372"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377474"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>顧客向けに Azure の支出の予算を設定する
 
@@ -29,7 +29,8 @@ ms.locfileid: "2875372"
 
 Azure の支出データは推定値であり、実際の請求金額は異なることがあります。また、税、クレジット、調整額、または適用されることがあるその他の料金は値に反映されていません。 支出データは 1 日 1 回更新されます。 Azure ポータルでアカウント設定を変更しない限り、顧客の Azure サービスおよびリソースの使用は継続され、顧客に課金されます。 
 
->**注**   この機能は、サンドボックスまたは Test in Production (TIP) アカウントでは使用できません。
+> [!NOTE]  
+> この機能はサンド ボックスまたは Test in Production (TIP) アカウントです。
 
 **メール通知を有効にする**
 1.  [ダッシュボード] メニューの **[Microsoft Azure のご利用状況]** を選びます。

@@ -5,12 +5,12 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ebc5490d724b49836b0051802038c4ba4c86e20
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876082"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377494"
 ---
 # <a name="your-company-work-account-and-the-partner-dashboard"></a>会社の職場アカウントとパートナー ダッシュボード  
 
@@ -24,7 +24,8 @@ ms.locfileid: "2876082"
 
 会社に職場アカウントが既にある場合は、そのアカウントをパートナー ダッシュボード アカウントにリンクできます。 
 
->**注意:** 既存の職場アカウントの使用を決める前に、パートナー ダッシュボードでの作業を必要とするアカウント内のユーザーの数を考慮してください。 パートナー ダッシュボードで作業する必要がないユーザーがアカウントに含まれている場合、パートナー ダッシュボードで作業する必要があるユーザーだけの新しいアカウントを作成することを検討してください。
+> [!NOTE]  
+>  既存の職場アカウントを使用する前に、アカウント内のユーザーの数を必要とするパートナー ダッシュ ボードで作業を考えてみてください。 パートナー ダッシュボードで作業する必要がないユーザーがアカウントに含まれている場合、パートナー ダッシュボードで作業する必要があるユーザーだけの新しいアカウントを作成することを検討してください。
 
 職場アカウントが会社にまだない場合は、登録プロセスを通じて無料で作成できます。 
 

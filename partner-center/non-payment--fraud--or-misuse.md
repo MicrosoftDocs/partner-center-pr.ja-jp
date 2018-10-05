@@ -5,12 +5,12 @@ ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐欺, 不正使用, 使用条件, 利用規約, 未払い, 顧客が料金を支払わない, オンライン リスク, サービスの盗用, サービスの不正使用, サブスクリプションの一時停止,
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876282"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377704"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未払い、詐欺、不正使用
 
@@ -61,7 +61,8 @@ ms.locfileid: "2876282"
 
 #### <a name="post-purchase-customer-account-management"></a>購入後の顧客アカウント管理
 - 顧客と連携して、クラウド利用のビジネス ニーズを理解し、適切な監視しきい値を設定します。
-    >**注:** パートナー センターで [Azure の月額支出予算を設定](set-an-azure-spending-budget-for-your-customers.md)すると、顧客による月間使用量を監視し、顧客の支出が予算の上限に近づいた場合にメールで通知を受け取ることができます。
+    > [!NOTE]  
+    >  月に顧客の使用状況を監視し、ユーザーは、支出が予算ときに通知されるパートナー センターでの[Azure の月額支出予算を設定](set-an-azure-spending-budget-for-your-customers.md)できます。
 - [顧客のアクティビティ ログ](activity-logs.md)を定期的に監視することにより、詐欺を早い段階で検出します。
 - 疑わしい活動が検出されたら、迅速にアクションを実行します。
 - リスク軽減コントロールを実装する前に、サブスクリプションへの完全な管理アクセス権を顧客に設定しないでください。
@@ -74,8 +75,8 @@ ms.locfileid: "2876282"
 
 オンライン リスクを軽減するための詳しい方法については、[オンライン トランザクション リスクの管理ガイド](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)をご覧ください。
 
->**重要**<br>
-パートナーまたは顧客の活動が利用規約に違反していると Microsoft によって確認された場合または違反の疑いが検出された場合は、強制手順が実施されます。 顧客のアカウントは直ちに停止され、強制措置について Microsoft から通知されるか、要求に応じて最新情報が提供されます。
+> [!IMPORTANT]  
+> パートナーまたは顧客の活動が利用規約に違反していると Microsoft によって確認された場合または違反の疑いが検出された場合は、強制手順が実施されます。 顧客のアカウントは直ちに停止され、強制措置について Microsoft から通知されるか、要求に応じて最新情報が提供されます。
 
  
 

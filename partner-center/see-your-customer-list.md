@@ -4,12 +4,12 @@ description: 顧客の記録は、パートナー センターでの最も重要
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8242a5b00af5517aa9b480077201b32bae7b251e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8eeaff75547426440a0a303423cf62444362035a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876822"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377464"
 ---
 # <a name="manage-your-customer-list"></a>顧客一覧を管理する
 
@@ -35,7 +35,7 @@ ms.locfileid: "2876822"
 **[ダッシュボード]** メニューの **[顧客]** を選びます。
 2.  顧客を検索するには、検索ボックスに顧客の名前またはドメイン名を入力します。
 3.  顧客行の末尾にある**下向き矢印**を選ぶと、顧客の Microsoft ID、および関連するサブスクリプションとサービスへのクイック リンクが表示されます。
-4.  顧客の**請求書に**は、下には、会社名を更新します。 新しい値を保存するときは、顧客一覧に反映されます。 これは、請求書を会社名と、顧客一覧の値にのみ変更されます。 これは反映されません任意の場所それ以外の場合。
+4.  顧客の**請求書に**は、下には、会社名を更新します。 新しい値を保存するときは、顧客一覧に反映されます。 これは、請求書を会社名と顧客一覧の値にのみ変更されます。 これは反映されません任意の場所それ以外の場合。
 
 ## <a name="export-your-customer-list"></a>顧客一覧をエクスポートする
 
@@ -65,8 +65,8 @@ ms.locfileid: "2876822"
     -   **状態**
     -   **リセラー** - サブスクリプションを所有し管理するリセラーの ID
 
->**注**<br>
-サブスクリプションの管理について詳しくは、「[顧客のサブスクリプション](customer-subscriptions.md)」をご覧ください。
+> [!NOTE]  
+> サブスクリプションの管理について詳しくは、「[顧客のサブスクリプション](customer-subscriptions.md)」をご覧ください。
 
      
 

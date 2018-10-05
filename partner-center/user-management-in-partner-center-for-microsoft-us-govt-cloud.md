@@ -3,12 +3,12 @@ title: 米国政府機関向け Microsoft Cloud のパートナー センター�
 description: 個人データの収集と使用に適用される国、地域、および業界固有の要件に準拠するためのユーザー管理機能が、米国政府機関向け Microsoft Cloud のパートナー センターでは利用できません。 代わりに、米国政府機関向け Microsoft Cloud の Azure Portal でユーザーを追加および管理します。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5cf8f4f33043f6130789ea2402067f759fa98343
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7fc99106d522fc8b7c36a36267873a65826b9f68
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876212"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377734"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理
 
@@ -31,7 +31,8 @@ ms.locfileid: "2876212"
 
 米国政府機関向け Microsoft Cloud の Azure Portal に正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
 
->**注** 下記のリンクを選択すると、別の Web サイトが開きます。 
+> [!NOTE]  
+> 以下のリンクを選択するかかる別の web サイトにします。 
 
 -  [**Azure Active Directory に新しいユーザーを追加する**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

@@ -4,12 +4,12 @@ description: 自社のポートフォリオに最適な種類のサード パー
 author: labrenne
 keywords: サード パーティ製品、購入するソフトウェア、サード パーティの検索
 ms.localizationpriority: medium
-ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876722"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377504"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>販売するサード パーティ製品を見つける
 
@@ -52,7 +52,8 @@ ms.locfileid: "2876722"
 7.  サブスクリプションが追加されたら、サブスクリプションの一覧でサブスクリプション名をクリックして開きます。 
 8.  **[サブスクリプションの編集]** ページでは、ライセンス数の変更や、サブスクリプションの中断を行うことができます。
 
->**注意: **<br> 顧客へのライセンスの割り当ては、サード パーティの管理サイトで行います。
+> [!NOTE]  
+>  顧客へのライセンスの割り当ては、サード パーティの管理サイトで行います。
 
     
 

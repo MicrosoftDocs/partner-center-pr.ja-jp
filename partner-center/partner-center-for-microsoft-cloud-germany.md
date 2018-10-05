@@ -3,12 +3,12 @@ title: Microsoft Cloud ドイツのパートナー センター | Microsoft Clou
 description: Microsoft Cloud ドイツのパートナー センターは、EU および EFTA の加盟国の顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。 Microsoft Cloud ドイツでは、顧客データがドイツ内に存在し、指定されたドイツ データ トラスティによって顧客データへのアクセスが管理されることを保証します。 欧州連合 (EU) と欧州自由貿易連合 (EFTA) の企業顧客は、適用されるドイツの法律と規制、および主要な国際基準に従って顧客データを保存および管理することが可能になります。 Microsoft は、ドイツ データ トラスティか顧客による承認と監督がない限り、顧客のデータにアクセスできません。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f1640281ee3f14c266d33da54a17aa1968d3fbc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 53d0b70d8123369f631dc03e139a58432a455528
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876342"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377584"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センター
 
@@ -28,8 +28,8 @@ Microsoft Cloud ドイツは、ドイツのデータセンターから提供さ�
 
 Microsoft Cloud ドイツ プログラムのクラウド ソリューション プロバイダー (CSP) に登録した後は、パートナー センターを使用して、ドイツのクラウド固有のソリューションおよびサービスを EU と EFTA の加盟国/地域の顧客に販売します。 
 
->**注**<br>
-本記事の公開時点では、Microsoft Cloud ドイツのパートナー センターで、以下の機能をまだご利用いただけません (本記事の公開以降、パートナー センターに機能が追加される場合があるため、この一覧が最新ではなくなっている可能性があります)。
+> [!NOTE]  
+> 本記事の公開時点では、Microsoft Cloud ドイツのパートナー センターで、以下の機能をまだご利用いただけません (本記事の公開以降、パートナー センターに機能が追加される場合があるため、この一覧が最新ではなくなっている可能性があります)。
 
 - パートナーの検索
 - ビジネス プロファイル

@@ -3,12 +3,12 @@ title: プロモーションを使用して、新しい顧客の関心を引く 
 description: クラウド ソリューション プロバイダー プログラムの Microsoft パートナーは、プロモーション価格でサブスクリプションを購入し、顧客に割引価格で販売することができます。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 36d48757940aa3659d3513133afe2c0d98bbd3bb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 17317d8d458601bc8b148f5a13ea3e317b77af47
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875382"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377684"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>プロモーションを使用して、新しい顧客の関心を引く  
 
@@ -34,8 +34,8 @@ ms.locfileid: "2875382"
 
 利用できるプロモーションがある場合は、**[プロモーション]** ページで確認できます。 **[ダッシュボード]** メニューから **[プロモーション]** を選択し、現在のプロモーションと共に割引、プロモーションの種類、サブスクリプションの開始日と終了日が記載された一覧を表示します。 利用できるプロモーションがない場合は、そのことを示すメッセージが表示されます。 
 
->**注**<br>
-購入時にプロモーションを確認することもできます。 サブスクリプションを選択すると、割引率が **[確認]** ページに表示されます。
+> [!NOTE]  
+> 購入時にプロモーションを確認することもできます。 サブスクリプションを選択すると、割引率が **[確認]** ページに表示されます。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>割引価格でサブスクリプションを購入する
 
