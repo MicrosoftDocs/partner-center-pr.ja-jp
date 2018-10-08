@@ -3,12 +3,12 @@ title: CSP での間接リセラーとの連携 | パートナー センター
 description: 間接プロバイダー (ディストリビューター) は、間接リセラーと連携してリーチを拡大することができます。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f5c5a745ba3ea8f57353529a90d09ee4fae17ccd
+ms.sourcegitcommit: 4175a0670df8c52ae5214fd0672c3fe33071210b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377764"
+ms.lasthandoff: 10/08/2018
+ms.locfileid: "4445464"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携
 
@@ -33,7 +33,7 @@ CSP での間接モデルについて詳しくは、[Microsoft Partner Network W
 
 1.  [マイクロソフトの公式な間接プロバイダーの一覧](https://partnercenter.microsoft.com/partner/find-a-provider)で、貴社のプロファイルを確認します。 
 
-    -   貴社の間接プロバイダーのプロファイルを変更するには、会社名、ロゴ、ターゲット URL を記載したサポート要求を貴社の拠点ごとに作成して、パートナー ダッシュボードに提出してください。 プロファイルは、2 ～ 3 週間以内に更新されます。<br>
+    -   会社の間接プロバイダーのプロファイルを変更するには、Microsoft の担当者に問い合わせてください。<br>
 
 2.  間接リセラーと連携する
 
@@ -99,7 +99,7 @@ CSP での間接モデルについて詳しくは、[Microsoft Partner Network W
 
 6.  注文を送信すると、**[確認]** ページが表示されます。 **[セットアップ情報]** に、管理者ユーザーのアカウント名と一時パスワードが表示されます。 ユーザー アカウント名とパスワードの情報を書き留めます。この情報は、新しい顧客に送信します。 
     > [!IMPORTANT]  
-    > 必ずユーザー アカウント名とパスワードの注: このページを閉じると、この情報にアクセスすることはできません。
+    > 必ずユーザー アカウント名とパスワードの注: このページを閉じると、この情報をもう一度にアクセスすることはできません。
 
 7.  **[完了]** を選びます。 新しい顧客が、顧客一覧に表示され、間接リセラーに関連付けられます。 これでリセラーが、顧客のアカウント情報とサブスクリプションへの管理者権限を持ち、顧客に代わってサブスクリプションを管理できるようになりました。
 
