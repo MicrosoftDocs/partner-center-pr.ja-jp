@@ -7,12 +7,12 @@ robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875862"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490078"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>MPN メンバーシップを Partner Membership Center からパートナー センターに移行する
 
@@ -31,7 +31,7 @@ Partner University に引き続きアクセスし、組織が技術試験と認�
 
 組織の管理者は、従業員を個別に追加するか、PMC データを使って複数のユーザーを一度に作成することにより、パートナー センター アカウントに従業員を追加します。
 
-1.  パートナー センター ダッシュボードから **[新しいユーザーの追加]** を選択して個人を追加するか、**[Set up your team]** (チームのセットアップ) (または PMC を使ったユーザーの追加) を選択して複数のユーザーを一度に追加します。
+1.  パートナー センターでは、**新しいユーザーの追加**を個人や**チームのセットアップ**を追加する (または PMC データを使ってユーザーの追加) を選択する複数のユーザーを一度に追加します。
     
     画面の指示に従ってセットアップを完了します。
 
@@ -45,16 +45,16 @@ Partner University に引き続きアクセスし、組織が技術試験と認�
 
 ## <a href="" id="nonadmin_tasks"></a>従業員のタスク: アカウントを更新する
 
-1.  Microsoft パートナー センターとは、管理者からサインイン情報を取得します。サインイン情報を受信しない場合、組織の管理者にするには、直接再送信してもらって。 にお問い合わせください。 
+1.  Microsoft パートナー センターとは、管理者からサインイン情報を取得します。サインイン情報を受信しない場合は、組織の管理者にするには、直接再送信してもらって。 にお問い合わせください。 
 
-2.  Microsoft Partner University アカウントに接続します。 パートナー センター ダッシュボードから、**[プロファイルの更新]** > **[Get Partner University access]** (Partner University へのアクセスを取得する) を選択します。  このアカウントを接続すると、Partner University に再度アクセスすることができます。
+2.  Microsoft Partner University アカウントに接続します。 パートナー センターでは、選択**プロファイルの更新** > **Get Partner University へのアクセス**。  このアカウントを接続すると、Partner University に再度アクセスすることができます。
 
-3.  Microsoft 技術試験および認定を関連付けます。 パートナー センター ダッシュボードから **[Update your profile]** (プロファイルの更新) > **[Associate exams and certifications]** (試験および認定を関連付ける) を選択します。 
+3.  Microsoft 技術試験および認定を関連付けます。 パートナー センターでは、選択**プロファイルの更新** > **試験および認定を関連付けます**。 
 
 4.  オプション: [パスワード リセット セルフサービスをセットアップします](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password)。
 
 ## <a name="checking-team-status-and-receiving-competency-achievements"></a>チームのステータスを確認してコンピテンシー実績を受け取る
 
-1.  Microsoft Partner University アカウントを接続して試験および認定を関連付けた従業員を調べます。パートナー センター ダッシュボードから **[Check your team’s status]** (チームのステータスを確認する) を選択します。
+1.  組織の従業員が Microsoft Partner University アカウントを接続し、関連して試験および認定を参照してください: パートナー センターでは、選択 **、チームの状態を確認**します。
 
 2.  従業員が自分のアカウントを関連付けるか、スキル ベースの目標を完了してから、**24 時間待ちます**。 その後、進行状況が **[パートナーシップ] > [コンピテンシー]** セクションに表示されます。

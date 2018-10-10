@@ -4,12 +4,12 @@ description: パートナー センターを通じて、紹介案件を評価し
 author: KPacquer
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: def007588180904b929cd568b43a04548e574cd6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2eae340cdd0b2418b8498f69ea4fd17d76a30b58
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875362"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489338"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>ビジネス プロファイルの効果を分析する
 <!-- 
@@ -26,7 +26,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 また[これらの紹介案件への応答](responding-to-referrals.md)を行ったことがある場合、受け取った RFI のうち成約に至った件数についてのデータを取得できます。
 
-これらのレポートを活用してビジネス プロファイルを調整することで、より多くの潜在顧客、より有望な潜在顧客を獲得できるようになります。 データは、プロファイルのパフォーマンスを表示できるほか、傾向を分析し、対応が必要な領域を特定できます。 パートナー ダッシュボードで、**[紹介] > [マーケティング ページ]** の順に移動します。
+これらのレポートを活用してビジネス プロファイルを調整することで、より多くの潜在顧客、より有望な潜在顧客を獲得できるようになります。 データは、プロファイルのパフォーマンスを表示できるほか、傾向を分析し、対応が必要な領域を特定できます。 パートナー センター メニューに移動します。**紹介 > マーケティング ページ**します。
 
 これらのレポートには、すべての地域のビジネス プロファイルのパフォーマンスが表示されます。 レポートでは、過去 90 日間のデータが週ごとに表示されます。
 

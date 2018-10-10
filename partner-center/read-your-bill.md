@@ -1,16 +1,16 @@
 ---
 title: 請求書を読み取る | パートナー センター
-description: 請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 請求書は、パートナー センターのダッシュボードで利用できます。
+description: 請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 パートナー センターでは利用できます。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377544"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489408"
 ---
 # <a name="read-your-bill"></a>請求書の記載事項
 
@@ -20,7 +20,7 @@ ms.locfileid: "4377544"
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-請求書を確認するには、**[ダッシュボード]** メニューで **[請求]** を選びます。請求の履歴と傾向、請求書や調整ファイルへのリンク、前回のお支払いが表示されます。
+請求書の**パートナー センター**メニューに移動します選び、**請求**に請求の履歴と傾向、請求書と調整ファイル、前回のお支払いへのリンクを参照してください。
 
 クラウド ソリューション プロバイダー プログラムに参加中で月次請求を選択した場合は、顧客 (ライセンスベースおよび使用量ベース) のサブスクリプション料金を 60 日以内に Microsoft にお支払いください。
 

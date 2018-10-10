@@ -5,12 +5,12 @@ ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 keywords: 既存のサブスクリプションにライセンスを追加する, 既存のサブスクリプションにシートを追加する, サブスクリプションを変更する, サブスクリプションの変更, 顧客のライセンスを追加購入する
 ms.localizationpriority: medium
-ms.openlocfilehash: 089baed41e278dff269c622641fa685d684ea4fe
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874872"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489728"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>既存のサブスクリプションへのライセンスまたはサービスの追加
 
@@ -90,7 +90,7 @@ ms.locfileid: "2874872"
 1.  サブスクリプションがアップグレードの対象かどうかを調べるには、顧客を選択し、顧客のサブスクリプションの一覧を開きます。
 2.  サブスクリプションがアップグレード可能な場合、サブスクリプション名の直後に情報アイコンが表示されます。 そのアイコンの上をホバーし、**[今すぐアップグレード]** を選びます。
 3.  新しいプランを選択し、**[送信]** を選びます。
-4.  一部のユーザー アカウントを特定のサービス向けに切り替えるための追加作業が必要な場合があります。 その場合は、影響を受けるアカウントとサービスの一覧がパートナー ダッシュボードから提供されます。 ヘルプが必要な場合は、サポート技術情報の記事「[Office 365 でプランを切り替える際に発生するライセンスの再アサイン問題](http://go.microsoft.com/fwlink/p/?LinkId=723576)」をご覧ください。
+4.  一部のユーザー アカウントを特定のサービス向けに切り替えるための追加作業が必要な場合があります。 その場合は、パートナー センターは、アカウントとが影響を受けたサービスの一覧を示します。 ヘルプが必要な場合は、サポート技術情報の記事「[Office 365 でプランを切り替える際に発生するライセンスの再アサイン問題](http://go.microsoft.com/fwlink/p/?LinkId=723576)」をご覧ください。
 
  
 

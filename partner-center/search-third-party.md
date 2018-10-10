@@ -4,12 +4,12 @@ description: 自社のポートフォリオに最適な種類のサード パー
 author: labrenne
 keywords: サード パーティ製品、購入するソフトウェア、サード パーティの検索
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: e156f6d473517b36db3d48072a112f11e83817d9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377504"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488588"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>販売するサード パーティ製品を見つける
 
@@ -42,7 +42,7 @@ ms.locfileid: "4377504"
 
 サード パーティ製ソフトウェアを購入する方法は、ファースト パーティ製ソフトウェアを購入する場合と同じです。 
 
-1. **[ダッシュボード]** で **[顧客]** を選択します。
+1. **パートナー センター**から**顧客**を選択します。
 2. **[新しいサブスクリプション]** を選びます。
 3. 詳細な手順については、「[顧客のサブスクリプションの作成、中断、取り消し](create-a-new-subscription.md)」を参照してください。
 4.  サード パーティ製ソフトウェアの、月次請求を選択します。 年次請求と試用版は、現在サード パーティについては利用できません。

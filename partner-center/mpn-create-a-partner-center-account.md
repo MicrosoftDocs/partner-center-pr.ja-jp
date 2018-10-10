@@ -3,12 +3,12 @@ title: パートナー センター アカウントを作成する | パート�
 description: Microsoft Partner Network メンバーがネットワークの利点とコンピテンシーを管理してビジネス プロファイルを作成するには、パートナー センター アカウントを作成する必要があります。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a12b65369d1d82fdf94a4312feb8acd8892f29bb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377774"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488948"
 ---
 # <a name="create-a-partner-center-account"></a>パートナー センター アカウントを作成する
 
@@ -67,7 +67,7 @@ ms.locfileid: "4377774"
 
 5.  管理エージェント グループに追加されたことを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
-    a.  **ダッシュボード**の **[設定]** アイコンを選択し、**[ユーザー管理]** を選択します。  
+    a.  **パートナー センター**で**の設定**アイコンを選択し、**ユーザーの管理**を選択します。  
 
     b.  ユーザーの一覧から自分の名前を選び、**[管理エージェント]** を選択します (まだ選択されていない場合)。 **[更新]** を選択します。  
 

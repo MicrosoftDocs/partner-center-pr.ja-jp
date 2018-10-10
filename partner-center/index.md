@@ -1,24 +1,24 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: パートナー ダッシュボードのヘルプはこちらから
-description: アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このダッシュ ボード ヘルプ ライブラリを具体的には、CSP および MPN プログラムのパートナー用に作成されたの回答を検索します。
+title: ここから開始すると、パートナー センター ヘルプ
+description: アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このパートナー センターで回答具体的には、プログラムと CSP と MPN パートナー用に作成されたライブラリのヘルプを検索します。
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876372"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489678"
 ---
-# <a name="start-here-for-help-with-partner-dashboard"></a>パートナー ダッシュボードのヘルプはこちらから
+# <a name="start-here-for-help-with-partner-center"></a>ここから開始すると、パートナー センター ヘルプ
 
-アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このダッシュ ボード ヘルプ ライブラリを具体的には、CSP および MPN プログラムのパートナー用に作成されたの回答を検索します。
+アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このパートナー センターで回答具体的には、プログラムと CSP と MPN パートナー用に作成されたライブラリのヘルプを検索します。
 
-ダッシュボードを既によくご存知の場合は、[新着情報](/partner-center/whats-new-in-pc)をご覧ください。
+パートナー センターに慣れている場合は、[新機能](/partner-center/whats-new-in-pc)を参照してください。
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -85,7 +85,7 @@ ms.locfileid: "2876372"
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">パートナー ダッシュボードのツアー</a> (サインインが必要)</h3>
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">パートナー センターのツアーを実行</a>(サインインが必要)</h3>
                     </div>
                 </div>
             </div>

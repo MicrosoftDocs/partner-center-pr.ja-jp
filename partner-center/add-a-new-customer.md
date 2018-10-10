@@ -5,12 +5,12 @@ ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 keywords: 顧客, 顧客の追加, 顧客アカウント, パートナー センターの顧客アカウント, お客様, お客様の追加, 顧客アカウントの作成
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c157074bc2d64a1f25f27455e0d362c8050d5fe
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: abe2e5f39718ddebb69d875febe3d06637b7ebc2
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876862"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490208"
 ---
 # <a name="add-a-new-customer"></a>新しい顧客の追加
 
@@ -21,13 +21,13 @@ ms.locfileid: "2876862"
 -  Microsoft Cloud ドイツのパートナー センター
 
 
-サブスクリプションの販売や、課金の管理、サポートの提供を行うには、パートナー ダッシュボードで顧客のアカウントを作成する必要があります。 これには、顧客の連絡先情報と Azure AD ドメインが含まれます。
+サブスクリプションの販売、課金の管理、またはサポートを提供できる、前に、パートナー センターで顧客のアカウントを作成する必要があります。 これには、顧客の連絡先情報と Azure AD ドメインが含まれます。
 
 顧客が[マルチチャンネル](multichannel.md) シナリオまたは[マルチパートナー](multipartner.md) シナリオを通じて顧客アカウントとサブスクリプションを既に持っている場合は、ここに示す手順に従う代わりに、[顧客との再販業者関係を要求](request-a-relationship-with-a-customer.md)できます。
 
-**新しい顧客の追加**
+**新しい顧客を追加する**
 
-1.  **[ダッシュボード]** メニューの **[顧客]** を選びます。 
+1.  **パートナー センター**メニューで、**顧客**を選択します。 
           **[顧客の追加]** を選びます。
 
 2.  

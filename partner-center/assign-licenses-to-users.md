@@ -5,12 +5,12 @@ ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ae156f50adf64ebb18b7cddb79ff6415e9c2714
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 153ed656ff217241079439e8b48c46c8d18ba144
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877002"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489818"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>顧客アカウントのユーザー管理タスク
 
@@ -29,7 +29,7 @@ ms.locfileid: "2877002"
 <a href="" id="createuseraccounts"></a>
 **顧客のユーザー アカウントを作成する**
 
-1.  **[ダッシュボード]** メニューの **[顧客]** を選びます。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選択します。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。
 
@@ -44,7 +44,7 @@ ms.locfileid: "2877002"
 <a href="" id="userlicensing"></a>
 **顧客のユーザー ライセンスを追加または削除する**
 
-1.  **[ダッシュボード]** メニューの **[顧客]** を選びます。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選択します。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。
 
@@ -55,7 +55,7 @@ ms.locfileid: "2877002"
 <a href="" id="resetpassword"></a>
 **顧客のユーザー パスワードをリセットする**
 
-1.  **[ダッシュボード]** メニューの **[顧客]** を選びます。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選択します。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。 一覧からユーザーを選びます。
 
@@ -66,8 +66,7 @@ ms.locfileid: "2877002"
 <a href="" id="deleteuseraccounts"></a>
 **顧客のユーザー アカウントを削除する**
 
-1.  
-          **[ダッシュボード]** メニューの **[顧客]** を選びます。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選択します。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。 一覧からユーザーを選びます。
 
@@ -78,7 +77,7 @@ ms.locfileid: "2877002"
 <a href="" id="restoreuseraccounts"></a>
 **削除されたユーザー アカウントを復元する**
 
-1.  **[ダッシュボード]** メニューの **[顧客]** を選び、一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選択します。
 
 2.  **[ユーザーとライセンス]** を選びます。
 

@@ -4,12 +4,12 @@ description: クラウド ソリューション プロバイダーはパート�
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: ae366ba7275eb9192aee1afc44acdf4e8351b55e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 13bacb79b210050b2392d40c6fa77cb0fe22235d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874892"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489608"
 ---
 # <a name="tax-and-tax-exemptions"></a>税金と税金の除外
 
@@ -23,9 +23,9 @@ ms.locfileid: "2874892"
 
 **税金の除外を申告する**
 
-1.  [ダッシュボード] メニュー &gt; **[アカウント設定]** &gt; **[組織プロファイル]** の順に選び、貴社の **Microsoft ID** を探します。
-2.  [ダッシュボード] メニュー &gt; **[アカウント設定]** &gt; **[パートナー プロファイル]** の順に選び、貴社の **MPN ID** を探します。
-3.  新しいサポート チケットを作成します。 [ダッシュボード] メニューで、**[サービス要求]** &gt; **[パートナー センターの要求]** &gt; **[新しい要求]** の順に選びます。
+1.  パートナー センターでは、 **Microsoft ID**をルックアップ&gt;**アカウントの設定** &gt; **組織プロファイル**です。
+2.  パートナー センターでは、 **MPN ID**をルックアップ&gt;**アカウントの設定** &gt; **パートナー プロファイル**です。
+3.  新しいサポート チケットを作成します。 パートナー センター メニューで、**サービス要求**を選択&gt;**パートナー センターの要求** &gt; **新しい要求**します。
 4.  フォームに記入します。 **[問題の種類]** で、**[Cannot manage my profile]** (プロファイルを管理できない) を選びます。 説明の中に貴社の MPN ID と Microsoft ID を記入します。
 5.  チケットを提出すると、マイクロソフトが詳細情報をメールで送ります。 返信する際に、貴社の税金除外証明書の適切な関連書類を添付します。
 
@@ -49,7 +49,7 @@ ms.locfileid: "2874892"
 <p>マイクロソフトはクレジットや自動課金に対応していないため、サブスクリプションを販売する前にパートナー センターで貴社の VAT ID 番号を登録する必要があります。</p>
 <p>VAT ID 番号をマイクロソフトに送信する</strong></p>
 <ol>
-<li>パートナー センターで、[ダッシュボード] メニュー &gt; <strong>[アカウント設定]</strong> &gt; <strong>[パートナー課金プロファイル]</strong> の順に移動します。</li>
+<li>パートナー センターで、パートナー センター メニューに移動します。 &gt; <strong>アカウントの設定</strong> &gt; <strong>パートナー課金プロファイル</strong>です。</li>
 <li><strong>[財務データ]</strong> セクションで、<strong>[更新]</strong> を選びます。</li>
 <li>
           <strong>[会社の税金 ID]</strong> で、貴社の VAT ID 番号を指定します。</li>

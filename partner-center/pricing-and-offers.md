@@ -3,12 +3,12 @@ title: 料金とプラン | パートナー センター
 description: ''
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f64114cfcce49bac9958cddb8e0f3663a1e49203
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2a971f5d4ac812ff6067be2dcab9f533282d4ebf
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875082"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490198"
 ---
 # <a name="pricing-and-offers"></a>料金とプラン
 
@@ -18,7 +18,7 @@ ms.locfileid: "2875082"
 
 クラウド ソリューション プロバイダー プログラムの最新の価格表とプランを確認するには、**[販売] > [料金とプラン]** に移動します。 価格表は 2 つに分けられています。1 つは Office 365、Microsoft Dynamics CRM、Enterprise Mobility Suite などライセンスベースのサービス用で、もう 1 つは Azure など使用量ベースのサービス用です。 
 
-プランの一覧には、パートナー ダッシュボードを通じて購入できるさまざまな製品グループが含まれています。 現在、これには Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM、Microsoft Azure が含まれています。 今後は、さらに多くの製品またはサービスが追加されます。
+プランの一覧には、パートナー センターを通じて購入できるさまざまな製品ファミリが含まれています。 現在、これには Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM、Microsoft Azure が含まれています。 今後は、さらに多くの製品またはサービスが追加されます。
 
 各製品グループ内には、ビジネスのタイプによって販売可能なさまざまな SKU や製品バンドルがあります。 それぞれの詳しい最新情報には、「製品とプラン」のページにあるクラウド リセラー製品マトリックスを使用してアクセスできます。
 
@@ -47,8 +47,8 @@ ms.locfileid: "2875082"
 
 販売できるさまざまな SKU と製品バンドルについては、料金とプランに関するページのクラウド リセラー製品マトリックスをご覧ください。 製品マトリックスには、ロケールごとに販売可能なプランの情報が含まれています。 価格表にある項目が製品マトリックスに含まれていない場合、その製品はまだ注文できません。 製品が注文可能になると、製品マトリックスが更新されます。
 
-パートナー ダッシュボード ソフトウェア開発キット (SDK) を使用する CSP パートナー向け。 [料金とプラン] ページには、CSP の Azure サービスの一覧も公開されています。
+CSP パートナー向けを使用して、パートナー センター ソフトウェア開発キット (Sdk)。 [料金とプラン] ページには、CSP の Azure サービスの一覧も公開されています。
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>製品マトリックスと価格表に関する質問
 
-価格表または製品マトリックスについて質問がある場合は、パートナー ダッシュボードからサービス リクエストを送信します。
+価格表または製品マトリックスについて質問がある場合は、パートナー センターからサービス リクエストを送信します。

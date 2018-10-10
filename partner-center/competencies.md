@@ -5,12 +5,12 @@ author: KPacquer
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 技能, 利点, パフォーマンス目標, スキル目標
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1702a5ebca4ee33a32d2a30bb55c9a4b6520b8e2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 858321809e311cc8be83967ceebd5c71fe82c48c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876652"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490158"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -55,15 +55,15 @@ Microsoft コンピテンシーの成績は、高品質なソリューション�
 
 コンピテンシーによっては、Silver または Gold レベルに到達する方法がいくつかあります。
 
-コンピテンシーの進行状況を確認するには、パートナー センター ダッシュボードから **[パートナーシップ] > [コンピテンシー]** の順に移動します。 
+パートナー センターのパートナー センターからのコンピテンシーの進行状況を確認するには、**パートナーシップ > コンピテンシー**します。 
 
 ### <a href="" id="associating_achievements"></a>従業員をつなげてスキル ベースの目標を達成する
 
-1.  組織の従業員のユーザー アカウントを追加します。 [パートナー ダッシュボード](http://partnercenter.microsoft.com)から、**[アカウント設定] > [ユーザーの追加]** の順に移動します。 (PMC ユーザーは、**[PMC データを使ってユーザーを追加する]** を選択することで一度に複数のユーザーを追加することができます)。
+1.  組織の従業員のユーザー アカウントを追加します。 [パートナー センター](http://partnercenter.microsoft.com)に移動します。**アカウント設定] > ユーザーの追加**します。 (PMC ユーザーは、**[PMC データを使ってユーザーを追加する]** を選択することで一度に複数のユーザーを追加することができます)。
 
     ユーザー アカウントが作成されたら、新しいユーザー名とパスワードが送信され、ユーザー名とパスワードのリセットに関する情報を含むログ ファイルをダウンロードするように求められます。 [ユーザー アカウントをセットアップして、自分でパスワードをリセットできるように](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)することもできます。
 
-2. 組織の従業員に、サインインして自分のユーザー アカウントに Microsoft アカウント (MSA) を関連付けるように求めます  ([パートナー ダッシュボード](http://partnercenter.microsoft.com)から、**[アカウント設定]** に移動します)。従業員は、同じ MSA または別の MSA を使い、Microsoft Partner University を通じて Microsoft 技術試験および認定資格と自分のアカウントを関連付けることができます。
+2. 組織の従業員に、サインインして自分のユーザー アカウントに Microsoft アカウント (MSA) を関連付けるように求めます  (から、[パートナー センター](http://partnercenter.microsoft.com)に移動する**アカウントの設定**。従業員は、同じまたは別の Msa を使用して、Microsoft 技術試験および認定資格と自分の Microsoft Partner University を通じてアカウントに関連付けます。
 
 3.  従業員が自分のアカウントを関連付けるか、スキル ベースの目標を完了してから、**24 時間待ちます**。 その後、進行状況が **[コンピテンシー]** セクションに表示されます。
 

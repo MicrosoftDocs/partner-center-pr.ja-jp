@@ -4,12 +4,12 @@ description: 月末の Azure の請求金額が顧客にとって予期しない
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6f6e0e733aed13174dcf4d318b522723bb425b30
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377474"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488958"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>顧客向けに Azure の支出の予算を設定する
 
@@ -33,23 +33,23 @@ Azure の支出データは推定値であり、実際の請求金額は異な�
 > この機能はサンド ボックスまたは Test in Production (TIP) アカウントです。
 
 **メール通知を有効にする**
-1.  [ダッシュボード] メニューの **[Microsoft Azure のご利用状況]** を選びます。
+1.  パートナー センター メニューで、 **Azure の支出**を選択します。
 2.  顧客の使用量が予算の 80% に達した場合に通知を受け取るには、**[メールの取得]** オプションをオンにします。 これにより、Azure の請求を監視できます。 通知を受け取る既定のメール アドレスを個人のアドレスなどに変更できます。
 
 **予算を設定する**
-1.  [ダッシュボード] メニューの **[Microsoft Azure のご利用状況]** を選びます。
+1.  パートナー センター メニューで、 **Azure の支出**を選択します。
 2.  予算を設定する顧客を選択します。 
 3. **[毎月の予算]** ボックスに値を入力し、**[適用]** を選びます。
 4.  現在の支出を確認するには、このページに戻ります。
 5.  個々の予算は、お客様の管理ページの **[Usage-based subscriptions]** (使用量ベースのサブスクリプション) で設定することもできます。
 
 **予算を削除する**
-1.  [ダッシュボード] メニューの **[Microsoft Azure のご利用状況]** を選びます。
+1.  パートナー センター メニューで、 **Azure の支出**を選択します。
 2.  一覧から顧客を選びます。
 3.  **[予算の削除]** を選びます。
 
 **明細コストを確認する**
-1.  [ダッシュボード] メニューで **[顧客]** を選びます。
+1.  パートナー センター メニューで、**顧客**を選択します。
 2.  顧客の一覧からお客様を選びます。
 3.  お客様の管理ページで、**[Usage-based subscriptions]** (使用量ベースのサブスクリプション) からサブスクリプションを選びます。 そのサブスクリプションの現在の推定使用量とサービスごとの明細コストの一覧を表示します。
 

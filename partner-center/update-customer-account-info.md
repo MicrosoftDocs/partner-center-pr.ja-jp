@@ -4,12 +4,12 @@ description: パートナー センターで、顧客の課金情報とその他
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: b63201b10942453662895fdd1d55147fc84a1185
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8cb75e8fbfd4ba8119cd5a01f3ad8766d1296618
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876482"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488758"
 ---
 # <a name="update-customer-account-info"></a>顧客アカウントの情報を更新する
 
@@ -23,8 +23,7 @@ ms.locfileid: "2876482"
 
 **顧客の詳細を更新する**
 
-1.  
-          **[ダッシュボード]** メニューの **[顧客]** を選びます。 次に一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選択します。 次に一覧から顧客を選びます。
 2.  顧客メニューで **[アカウント]**、**[更新]** の順に選びます。
 3.  変更を行った後、**[送信]** を選びます。
 

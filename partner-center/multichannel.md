@@ -4,12 +4,12 @@ description: 状況によっては、顧客が他から購入したサブスク�
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377484"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489418"
 ---
 # <a name="multi-channel-support"></a>マルチチャンネルのサポート
 
@@ -19,7 +19,7 @@ ms.locfileid: "4377484"
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-パートナー ダッシュボードのマルチチャンネル機能は、顧客が他から購入したサブスクリプションの管理やサポートをパートナーに依頼する場合のシナリオに対応します。 マルチチャンネルのサポートは次の場合に適用されます。
+パートナー センターのマルチ チャンネル機能は、顧客の管理や、別の場所に購入したサブスクリプションのサポートをパートナーに依頼する場合のシナリオをサポートします。 マルチチャンネルのサポートは次の場合に適用されます。
 
 -   顧客が既にマイクロソフトから直接サブスクリプションを購入した場合、または Advisor プログラム、Open プログラム、EA プログラムを通じて購入した場合。
 
@@ -47,7 +47,7 @@ ms.locfileid: "4377484"
 </table>
 
 > [!IMPORTANT]  
-> 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースに関するすべての情報は、パートナー ダッシュボードなど、通常の伝達方法でお知らせします。 
+> 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 Microsoft では、継続的にすべてのプログラムのポリシーと機能をレビューしています。 任意のお知らせ機能のリリースに関する情報は、パートナー センターなどの一般的な通信チャネルを通じて伝達方法します。 
 
 ## <a name="see-also"></a>関連項目
 

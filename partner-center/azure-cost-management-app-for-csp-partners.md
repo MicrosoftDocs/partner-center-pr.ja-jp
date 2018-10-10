@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 9f5439f47dbc99421e493c9f84f8ea2469ba6525
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377804"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489388"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure を販売する CSP パートナー様向けの Azure コスト管理アプリ  
 
@@ -33,7 +33,7 @@ Cloudyn が提供する Azure cost management は、お客様による Azure の
 ## <a name="register-your-web-app-in-the-partner-center"></a>パートナー センターで Web アプリを登録する
 パートナー センターで Azure Active Directory Web アプリを登録すると、アプリがパートナー センター API にアクセスできるようになります。 
 1.  [全体管理者または管理エージェント アカウント](create-user-accounts-and-set-permissions.md)を使って、[パートナー センター](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)にサインインします。
-2.  **[ダッシュボード]** で、**[アカウント設定]** &gt; **[[アプリ管理]](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** を選びます。
+2.  **パートナー センター**で、**アカウントの設定**を選択&gt;**[アプリ管理](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** します。
 3.  **[Web アプリ]** セクションで、**[新しいアプリの追加]** をクリックします。
 <br> **注**: 既にアプリを作成済みの場合は、手順 3 を省略することができます。
 4.  登録する Web アプリの **商取引 ID** GUID と **アプリ ID** GUID をコピーして保存します。 Azure cost management アプリの 30 日間無料試用版を利用するには、両方の ID が必要です。

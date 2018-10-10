@@ -4,12 +4,12 @@ description: Windows Autopilot でデバイスのセットアップを効率化�
 author: KPacquer
 keywords: autopilot、windows autopilot、microsoft autopilot、ゼロタッチ展開、oobe、ログイン画面
 ms.localizationpriority: medium
-ms.openlocfilehash: b9fc13accd5d229f66ed425ace68e0df00e14016
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877582"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489398"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Windows Autopilot でデバイスのセットアップを効率化する 
 
@@ -25,7 +25,7 @@ Windows Autopilot によって、新しい Windows 10 Pro デバイスのセッ�
 ## <a name="requirements"></a>要件
 
 *  Windows 10 Pro Creators Update (バージョン 1703 以降) または Windows 10 Pro for Advanced PC がプリインストールされているデバイス
-*  ハードウェア ハッシュと呼ばれるデバイス識別子 (128 HWH または 4 k HWH)。通常、OEM によって提供されます。 識別子を使用して、パートナー ダッシュボードで組織プロファイルを割り当てます。 
+*  ハードウェア ハッシュと呼ばれるデバイス識別子 (128 HWH または 4 k HWH)。通常、OEM によって提供されます。 識別子を使用して、パートナー センターで組織プロファイルを割り当てます。 
 *  デバイスは、インターネットにアクセスできる必要があります。 デバイスが接続できない場合、既定の Windows の out-of-box experience (OOBE) 画面が表示されます。
 *  デバイスを MDM に登録するには、Azure Active Directory Premium が必要です。
 
@@ -45,27 +45,27 @@ Windows Autopilot によって、新しい Windows 10 Pro デバイスのセッ�
 
 ### <a name="add-devices-and-apply-a-profile"></a>デバイスを追加し、プロファイルを適用する
 
-ダッシュボードで、Windows AutoPilot 展開プロファイルを作成し、デバイスの一覧にプロファイルを適用できます。
+パートナー センターは、Windows AutoPilot 展開プロファイルを作成し、デバイスの一覧に適用します。
 
 デバイスを構成するには、デバイスの一覧をアップロードし、デバイスに適用するプロファイルを作成して適用します。
 
 1.  デバイスの一覧を追加します。
 
-    (販売エージェントと管理エージェントが、パートナー ダッシュボードにデバイスの一覧を追加するアクセス権を持っています)。
+    (販売エージェントと管理エージェントが、パートナー センターにデバイスの一覧を追加するアクセス権を持っています)。
     
     間接リセラーは、間接プロバイダーと協力してこれを追加することができます。
 
     a.  [Windows AutoPilot の概要に関するページ](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)にあるトピックから、PowerShell スクリプトを使って .csv ファイルを作成します。 この .csv ファイルには、シリアル番号、OEM 名、モデル名、製品 ID、デバイス識別子などのデバイス情報が含まれています。 
 
-    b.   ダッシュボードから、**[顧客]** に移動してデバイスを受け取る顧客を選択し、**[デバイス] > [デバイスの追加]** を選択します。
+    b.   パートナー センターから**お客様**に移動します。 >、デバイスを受け取る顧客を選択 >**デバイス > デバイスの追加**します。
 
-    c.   デバイスのバッチに名前を付けます (例: "Contoso Sales Department PCs – April 2017 order")。 
+    c.  デバイスのバッチに名前を付けます (例: "Contoso Sales Department PCs – April 2017 order")。 
 
     d.   **[参照]** をクリックし、デバイス情報ファイルを選択して **[検証]** をクリックします。
 
     **注:** .csv ファイルをアップロードしようとした後にエラー メッセージが表示される場合は、ファイルの形式を確認します。 8 月以降は、ハードウェア ハッシュのみを使う、OEM 名、シリアル番号、モデルを列の順序で使う、または Windows 製品 ID を使うことができます。 **[デバイスの追加]** の横のリンクから入手できる .csv ファイルを使うこともできます。
 
-2.  デバイスに適用できるプロファイルを作成します。 (パートナー ダッシュボードで、プロファイルを作成して適用するアクセス権を持つのは管理エージェントのみです)。
+2.  デバイスに適用できるプロファイルを作成します。 (管理エージェントのみは、作成し、パートナー センターで、プロファイルを適用するアクセス権を持ちます)。
 
     a.   **[デバイス]** で、**[新しいプロファイルの追加]** をクリックします。
 

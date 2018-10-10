@@ -2,24 +2,24 @@
 title: Microsoft Azure reservations の概要 |パートナー センター
 Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
-keywords: azure 予約の管理, 請求, 購入, Azure RI, Azure Reserved Instances
+keywords: azure reservations を管理, 請求, 購入, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f5073bfd82d16485e3f0d5f4c9f79b1d5b5e7c7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: c580553aa484611790b2c83bab968025c0bb1379
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876962"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489758"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>販売 Microsoft Azure 予約インスタンス 
 
 **適用対象**
 
--  パートナー ダッシュボード
+-  パートナー センター
 -  Microsoft Azure portal
 -  CSP のパートナー
 
-クラウド ソリューション プロバイダー (CSP) プログラムのパートナーが顧客に提供できる Microsoft Azure のインスタンスが予約されています。 事前に予約できると、ユーザーは大幅な削減を実現できます。 Azure Reserved Instances で顧客に提供簡潔さと柔軟性、次の方法。
+クラウド ソリューション プロバイダー (CSP) プログラムのパートナーが顧客に提供できる Microsoft Azure のインスタンスが予約されています。 お客様は、事前に予約できると、大幅な削減を実現できます。 Azure Reserved Instances で顧客に提供簡潔さと柔軟性、次の方法。
 
 -   1 ～ 3 年の予約期間。 
 -   簡単に作成します。セットアップを秒単位で完了 
@@ -27,7 +27,7 @@ ms.locfileid: "2876962"
 -   組織レベルまたは個々の部署レベルで予約インスタンスの使用状況を管理できます。 
 
 > [!NOTE]  
-> 次の市場では azure Reserved Instances を利用可能なしません。  
+> Azure Reserved Instances は、次の市場で利用可能なしません。  
 > * アルゼンチン
 > * アゼルバイジャン
 > * ベラルーシ
@@ -66,13 +66,13 @@ Azure Reserved Instances の可用性は、次の方法でユーザーに魅力�
 -   顧客が Azure サブスクリプションを直接サブスクリプションまたは EA サブスクリプションから CSP に移行した場合、予約は移行されません。 
 
 >[!NOTE]
-> 購入、販売、およびパートナー ダッシュ ボードと Azure portal、およびパートナー センター API を使用して Azure reservations を管理することができます。 方法については、各リンク先をご覧ください。 
+> 購入、販売、およびパートナー センターと Azure portal、およびパートナー センター API を使用して Azure reservations を管理することができます。 方法については、各リンク先をご覧ください。 
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
 |**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
-|パートナー ダッシュボードで顧客の Azure Reservations を購入する   |[Azure Reservations の購入](azure-reservations-buying.md)
-|パートナー ダッシュボードで Azure Reservations を管理する | [パートナー ダッシュボードで Azure Reservations を管理する](azure-reservations-manage.md)
+|パートナー センターで顧客の Azure reservations を購入します。   |[Azure Reservations の購入](azure-reservations-buying.md)
+|パートナー センターで Azure reservations を管理します。 | [パートナー センターで Azure reservations を管理します。](azure-reservations-manage.md)
 |適切な VM サイズの判断と顧客による VM 使用状況の確認   |[最大限の Azure 予約使用に備えた VM サイズ](azure-usage.md)   |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)
 

@@ -4,12 +4,12 @@ description: 顧客から要請があった場合や、未払いや詐欺が発�
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 74d36922aad39cb78d959b91109194730fa28cec
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f01e9dc05366376946e7aff256bd643810c6fa59
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875222"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488878"
 ---
 # <a name="suspend-a-subscription"></a>サブスクリプションを中断する
 
@@ -25,8 +25,7 @@ ms.locfileid: "2875222"
 
 **サブスクリプションを中断する**
 
-1.  
-          **[ダッシュボード]** メニューの **[顧客]** を選び、一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選択します。
 2.  管理対象のサブスクリプションを選びます。
 3.  **[状態]** セクションで、**[中断]** を選びます。 次に、変更を**提出**します。
 4.  90 日以内、または 90 日にアカウントが開かれた時点から最初の課金までの日数を加えた期間 (最大 120 日) 以内にサブスクリプションを再アクティブ化しない限り、すべてのデータは削除されます。

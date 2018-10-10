@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: azure サブスクリプション, パートナーの切り替え, パートナーの変更, 新しいパートナーの獲得, 別のパートナー
 ms.localizationpriority: medium
-ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
-ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
+ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "3966159"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488968"
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure サブスクリプションの譲渡 
 
@@ -37,9 +37,9 @@ ms.locfileid: "3966159"
 
 2.  サブスクリプションのパートナーは、次のタスクを実行する必要があります。
 
-    パートナー センターから Azure サービス チケットを作成して、サブスクリプションの切り替えを要求します。
+    パートナー センターから Azure サービス チケットを作成して、サブスクリプションの譲渡を要求します。
 
-    -   [ダッシュボード] メニューで **[顧客]** を選び、一覧から顧客を選んで **[サービス管理]** を選びます。 **[サポート チケット]** セクションで **[新しいチケット]** ドロップダウン リストを選び、**[Microsoft Azure]** を選びます。
+    -   パートナー センター メニューで、**顧客**を選びます、一覧から顧客を選択および**サービスの管理**を選択します。 **[サポート チケット]** セクションで **[新しいチケット]** ドロップダウン リストを選び、**[Microsoft Azure]** を選びます。
 
     -   Azure ポータルから、**[新しいサポート要求]** を選びます。
 

@@ -3,12 +3,12 @@ title: Microsoft Partner Network に参加する | パートナー センター
 description: パートナー センターで Microsoft Action Pack を購入し、コンピテンシーを獲得しましょう
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377794"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489718"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft Partner Network (MPN) に参加する
 
@@ -17,11 +17,11 @@ ms.locfileid: "4377794"
 -  パートナー センター
 -  Microsoft Partner Network
 
-## <a name="new-to-the-partner-dashboard"></a>パートナー ダッシュボードを初めて使用する場合
+## <a name="new-to-the-partner-center"></a>パートナー センターに新しい
 
- Microsoft のパートナーになると、ビジネスを変換するための新しいビジネス チャンスにアクセスできます。 パートナー ダッシュボードでは、Microsoft Action Pack を購入および更新し、コンピテンシーの内容や獲得方法に関する情報に簡単にアクセスできます。
+ Microsoft のパートナーになると、ビジネスを変換するための新しいビジネス チャンスにアクセスできます。 パートナー センターで購入および Microsoft Action Pack の更新し、コンピテンシーとそれらを実現する方法についての情報に簡単にアクセスがあります。
 
- MAPS またはコンピテンシーの契約応当日や、パートナー ダッシュボードの主要な機能が使用可能になりパートナーのビジネス ニーズに対応できるようになった際に、徐々にパートナー ダッシュボードでのメンバーシップ管理をパートナーの皆様にご案内しています。  現時点では、移行の案内を受け取るまで、Partner Membership Center (PMC) でのメンバーシップの更新および管理をご計画ください。
+ MAPS またはコンピテンシー パートナー センターでのメンバーシップを管理するパートナーを段階的に招待しますしている契約応当日、パートナー センターの主要な機能が利用可能であり、ビジネスのニーズに合わせて実証済みの場合。  現時点では、移行の案内を受け取るまで、Partner Membership Center (PMC) でのメンバーシップの更新および管理をご計画ください。
 
 ## <a name="get-your-mpn-id"></a>MPN ID を取得する
 
@@ -54,7 +54,7 @@ Microsoft パートナーとしてビジネスを行うには、MPN ID 番号が
 |**目的**   |**参照先**   |
 |------------------|:---------------|
 |Microsoft パートナーになる|[メンバーシップ: しくみ](https://partner.microsoft.com/membership/how-it-works)|
-パートナー ダッシュボードでの Microsoft Partner Network メンバーシップを管理する   |[Microsoft Partner Network メンバーシップの管理](mpn-overview.md)
+パートナー センターで Microsoft Partner Network メンバーシップを管理します。   |[Microsoft Partner Network メンバーシップの管理](mpn-overview.md)
 |Action Pack を購入する   |[Microsoft Action Pack を購入または更新する](https://msdn.microsoft.com/partner-center/mpn-get-action-pack)|
 |Silver または Gold コンピテンシーを獲得する   |[Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](https://msdn.microsoft.com/en-us/partner-center/learn-about-competencies)|
 |クラウド ソリューション プロバイダー プログラムへの参加を検討する|[クラウド ソリューション プロバイダー - 需要に基づくクラウド ソリューションの販売](csp-overview.md)|

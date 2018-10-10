@@ -3,12 +3,12 @@ title: パートナー センターの新機能のテスト
 description: リリース前のパートナー センターの新機能をお試しになり、ご意見をお聞かせください。 パートナー センターの将来像を形作るためにご協力ください。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 38b6652275106dd7258e264f84a9d45259ffab5d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377574"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489468"
 ---
 # <a name="test-drive-new-partner-center-features"></a>パートナー センターの新機能のテスト
 
@@ -49,7 +49,7 @@ ms.locfileid: "4377574"
 
 -   パートナー センター ウィンドウの右下隅にあるフィードバック フォームを使用して、直接フィードバックを送信します。 
 
--   機能のプレビューに関する問題が発生した場合は、サポートを要求します。 サポート要求を作成するには、**[ダッシュボード]** メニューで **[サポート要求]、[パートナー センターの要求]** の順に選び、**[パートナー センターの要求]** ページで **[新しい要求]** を選びます。
+-   機能のプレビューに関する問題が発生した場合は、サポートを要求します。 サポート要求を作成するには、選択**サポート要求 > パートナー センターの要求**の**パートナー センター**メニューから [**新規作成を要求****パートナー センターの要求**] ページでします。
 
 皆様のご意見、ご感想をお待ちしております。
 

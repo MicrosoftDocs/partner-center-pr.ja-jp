@@ -4,12 +4,12 @@ Description: Microsoft provides special, reduced pricing for select groups of cu
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e60dd18ff9066efa72a4a290150faa6b1e7e8252
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877492"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489588"
 ---
 # <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 
@@ -36,8 +36,7 @@ ms.locfileid: "2877492"
 
 ## <a name="check-the-customer-qualifications"></a>お客様の認定状態を確認する
 
-1.  
-          **[ダッシュボード]** メニューの **[顧客]** を選びます。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選択します。 一覧から顧客を選びます。
 2.  顧客メニューの **[アカウント]** を選びます。 
           **[会社情報]** セクションの **[Special qualifications]** を参照します。
 3.  **[特別な資格]** が **[なし]** に設定されていても、お客様が資格条件を満たしている場合は、顧客情報を**更新**して、そのお客様を対象に含めることができます。

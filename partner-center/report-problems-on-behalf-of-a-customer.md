@@ -5,12 +5,12 @@ ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: dadd034214edabcea3d96c7e86f9c1de609dd3d3
-ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
+ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "4197690"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490048"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理としての問題の報告
 
@@ -24,7 +24,7 @@ ms.locfileid: "4197690"
 
 **顧客のサービス リクエストを提出する**
 
-1.  **[ダッシュボード]** メニューの **[サービス要求]** を選択し、**[ユーザーの要求]** を選択します。 
+1.  **パートナー センター**メニューで、**サービス要求**し、**ユーザーの要求**を選択します。 
 
 2.  [ユーザーの要求] ページで、対象の顧客を検索します。
 
@@ -36,7 +36,7 @@ ms.locfileid: "4197690"
 
 - Azure で顧客のサービス要求を作成するためには、間接プロバイダーが、顧客の Azure アカウントへのアクセスを許可する必要があります。 これは、Office 365 ユーザーに代わって管理を行うこととは異なります。 
 
-- パートナー センターでのヘルプデスク管理者は、Azure サービス ポータルでサービス リクエストを作成することはできません、実行できる機能は Azure サービス ポータルでサポート グループを作成し、サポート要求を記録するには、そのグループ アクセスを許可を付与します。
+- パートナー センターでのヘルプデスク管理者は、Azure サービス ポータルでサービス リクエストを作成することはできません、実行できる機能は、Azure サービス ポータルでサポート グループを作成し、サポート要求を記録するには、そのグループ アクセスを許可を付与します。
 
 1.  
           **[新しいサポート要求]** を選びます。
@@ -96,7 +96,7 @@ Office 365 管理センターに直接サインインすると、顧客のコン
 
 **Dynamics 365 の追加のサポートを取得する方法**
 
- 関連する問題が発生した場合: Dynamics 365 プラン サブスクリプション、ライセンス、請求、ファイナンス & 操作や IURs がさらにテクニカル サポートが必要です。
+ 関連する問題が発生した場合: Dynamics 365 プラン サブスクリプション、ライセンス、請求、財務 & 操作、IURs か、または、さらに技術的なサポートを必要とします。
  
 [Dynamics サポート](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)にお問い合わせ
 

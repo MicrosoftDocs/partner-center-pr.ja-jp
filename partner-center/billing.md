@@ -5,12 +5,12 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e66f9c4060a155f4099f28ef29559d5a6f628ba
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0407d176dcf7b7cc7f33403c4575a8a59b15b02d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377744"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489298"
 ---
 # <a name="billing"></a>請求
 
@@ -20,7 +20,7 @@ ms.locfileid: "4377744"
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 -  Microsoft Cloud ドイツのパートナー センター
 
-請求書を確認するには、**[ダッシュボード]** メニューで **[請求]** を選びます。請求の履歴と傾向、請求書や調整ファイルへのリンク、前回のお支払いが表示されます。
+請求書の**パートナー センター**メニューに移動します選び、**請求**に請求の履歴と傾向、請求書と調整ファイル、前回のお支払いへのリンクを参照してください。
 
 クラウド ソリューション プロバイダー プログラムに参加中で月次請求を選択した場合は、顧客 (ライセンスベースおよび使用量ベース) のサブスクリプション料金を 60 日以内に Microsoft にお支払いください。
 

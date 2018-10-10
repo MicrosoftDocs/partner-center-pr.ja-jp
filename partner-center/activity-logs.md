@@ -5,12 +5,12 @@ ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875902"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488648"
 ---
 # <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログを表示する
 
@@ -27,7 +27,7 @@ ms.locfileid: "2875902"
 
 **アクティビティ ログを表示およびエクスポートする**
 
-1.  **[ダッシュ ボード]** メニューの **[アクティビティ ログ]** を選びます。
+1.  **パートナー センター**メニューで、**アクティビティ ログ**を選択します。
 2.  **[開始]** フィールドと **[終了]** フィールドで、アクティビティ ログの期間を選びます。 アクティビティ ログの既定の設定では、最近 1 か月間のログがエクスポートされます。
 
     各アクティビティ ログには、一覧に表示されている顧客の **[サブスクリプション]** ページへのリンクが示されます。

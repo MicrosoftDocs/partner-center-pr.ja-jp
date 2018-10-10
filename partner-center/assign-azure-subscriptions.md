@@ -4,22 +4,22 @@ description: パートナー センターで、顧客に Azure サブスクリ�
 author: Labrenne
 keywords: Azure, Azure サブスクリプション, サブスクリプション, 月額プラン, サブスクリプションの割り当て, Azure サブスクリプションの管理
 ms.localizationpriority: medium
-ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377564"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489028"
 ---
-# <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>パートナー ダッシュボードでの Azure サブスクリプションの割り当て
+# <a name="assign-azure-subscriptions-in-partner-center"></a>パートナー センターでの Azure サブスクリプションの割り当て
 
 **適用対象**
 
 -  パートナー センター
  
-## <a name="assign-azure-subcriptions-to-your-customers-in-the-partner-dashboard"></a>パートナー ダッシュボードで顧客に Azure サブスクリプションを割り当てる
+## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>パートナー センターで顧客に Azure サブスクリプションを割り当てる
 
-1. **[ダッシュボード]** メニューから **[顧客]** を選択し、管理対象の顧客を見つけます。
+1. **パートナー センター** ] メニューから**顧客**を選択し、管理対象の顧客を見つけます。
 
 2.  行の末尾にある下向き矢印を選択して顧客レコードを展開し、**[Microsoft Azure の管理ポータル]** を選択します。 Azure Portal が開き、顧客のサブスクリプションを管理できます。 
 

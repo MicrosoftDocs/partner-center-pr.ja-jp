@@ -5,14 +5,14 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6a9187e62d29409ad44dcc58c2da7f54a3c0fc69
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377494"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489748"
 ---
-# <a name="your-company-work-account-and-the-partner-dashboard"></a>会社の職場アカウントとパートナー ダッシュボード  
+# <a name="your-company-work-account-and-the-partner-center"></a>会社の職場アカウントとパートナー センター  
 
 **適用対象**
 
@@ -20,12 +20,12 @@ ms.locfileid: "4377494"
 
 ## <a name="why-you-need-a-work-account"></a>職場アカウントが必要な理由
 
-アカウント ユーザーが職場アカウントのユーザー名とパスワードを使ってパートナー ダッシュボードにサインインできるように、会社の職場アカウントを新しいパートナー ダッシュボード アカウントにリンクする必要があります。
+アカウント ユーザーが自分の職場アカウントのユーザー名とパスワードを使ってパートナー センターにサインインできるように、新しいパートナー センター アカウントに会社の職場アカウントをリンクする必要があります。
 
-会社に職場アカウントが既にある場合は、そのアカウントをパートナー ダッシュボード アカウントにリンクできます。 
+会社に職場アカウントが既にある場合は、そのアカウントをパートナー センター アカウントにリンクできます。 
 
 > [!NOTE]  
->  既存の職場アカウントを使用する前に、アカウント内のユーザーの数を必要とするパートナー ダッシュ ボードで作業を考えてみてください。 パートナー ダッシュボードで作業する必要がないユーザーがアカウントに含まれている場合、パートナー ダッシュボードで作業する必要があるユーザーだけの新しいアカウントを作成することを検討してください。
+>  既存の職場アカウントを使用する前に、アカウント内のユーザーの数を必要とするパートナー センターで作業を考えてみてください。 パートナー センターで作業する必要があるアカウントでユーザーが存在する場合は、パートナー センターで作業する必要があるユーザーだけの新しいアカウントの作成を検討してください。
 
 職場アカウントが会社にまだない場合は、登録プロセスを通じて無料で作成できます。 
 

@@ -4,12 +4,12 @@ description: パートナー センターを通じて、紹介案件を評価し
 author: KPacquer
 keywords: 紹介, RFI, パートナーの検索
 ms.localizationpriority: medium
-ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4467a6404718a21d206980e77a9a84d7f77432dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875422"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489458"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>パートナー センターでの紹介案件への対応
 
@@ -29,7 +29,7 @@ ms.locfileid: "2875422"
 
 お客様は興味のあるパートナーに関する情報請求 (RFI) を提出します。 
 
-Microsoft は、お客様からの情報請求を受け取ると、パートナーの[ビジネス プロファイル](create-a-marketing-profile.md)に基づき、お客様が選択した特定の地域と場所にある連絡先にメールを送信します。 着信 RFI は、**[ダッシュボード] > [Referrals] (紹介) > [顧客の紹介]** を選んで参照することもできます。
+Microsoft は、お客様からの情報請求を受け取ると、パートナーの[ビジネス プロファイル](create-a-marketing-profile.md)に基づき、お客様が選択した特定の地域と場所にある連絡先にメールを送信します。 パートナー センターでの着信 Rfi を確認することもできます: に移動**パートナー センター > 紹介 > 顧客紹介**します。
 
 お客様は、多くの場合、同時に複数の企業に同じ RFI を送信します。 受注の可能性を高めるために、紹介に対して 24 時間以内に応答し、承諾または辞退することをお勧めします。
 

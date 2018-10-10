@@ -1,21 +1,21 @@
 ---
-title: 最大限の予約使用に Microsoft Azure VM サイズ |パートナー ダッシュ ボード
+title: 最大限の予約使用に Microsoft Azure VM サイズ |パートナー センター
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: Azure, 予約, VM, 管理, 請求, 使用, サイズ
 ms.localizationpriority: medium
-ms.openlocfilehash: bb7d022ba45462db313a9f4e16cc47e4550dbef6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6279ff9e6ecd66af9eb320b2d72a1cdfaad4ccb4
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875782"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489618"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ 
 
 **適用対象**
 
--  パートナー ダッシュ ボード
+-  パートナー センター
 -  Azure portal
 -  CSP のパートナー
 
@@ -41,11 +41,11 @@ ms.locfileid: "2875782"
 
 1.  API の応答に含まれる additionalInfo の ServiceType 属性の値を使用して、購入する VM サイズ を特定します。 
 
-2.  詳しくは、[パートナー ダッシュ ボード API](https://docs.microsoft.com/partner-center/develop/)での[Azure の顧客の使用率レコードを取得する](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)をご覧ください。 
+2.  詳しくは、[パートナー センター API](https://docs.microsoft.com/partner-center/develop/) の「[Get a customer’s utilization records for Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)」 (顧客の Azure 使用率レコードを取得する) をご覧ください。 
 
 **Microsoft Azure portal を使用して VM サイズ情報を取得する**
 
-1.  パートナー ダッシュ ボードは、 **[顧客**] ページに移動します。
+1.  パートナー センターで、**顧客**ページに移動します。
 
 2.  Azure VM 予約を購入する顧客を見つけ、下矢印を選択して顧客情報を展開します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。 
 
@@ -89,7 +89,7 @@ ms.locfileid: "2875782"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Microsoft Azure portal で顧客の予約の使用状況を確認する
 
-1.  パートナー ダッシュ ボードは、 **[顧客**] ページに移動します。
+1.  パートナー センターで、**顧客**ページに移動します。
 
 2.  予約割引と使用状況を確認する対象の顧客を見つけ、下矢印を選択して顧客情報を展開します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。 
 
@@ -130,8 +130,8 @@ Azure Utilization API を使用すると、予約の使用状況データを取�
 |**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved VM Instances の販売](azure-reservations.md)
-|パートナー ダッシュ ボードで顧客の Azure reservations を購入します。   |[Azure Reservations の購入](azure-reservations-buying.md)
-| パートナー ダッシュ ボードで Azure reservations を管理します。 | [パートナー ダッシュ ボードで Azure reservations を管理します。](azure-reservations-manage.md)
+|パートナー センターで顧客の Azure reservations を購入します。   |[Azure Reservations の購入](azure-reservations-buying.md)
+| パートナー センターで Azure reservations を管理します。 | [パートナー センターで Azure reservations を管理します。](azure-reservations-manage.md)
 |Azure portal で Azure Reservations を購入する | [Azure Reserved VM Instances による仮想マシン料金の前払い](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) (Azure ヘルプ) |
 |Azure portal で Azure Reservations を管理する   |[予約済み VM インスタンスの管理](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) (Azure ヘルプ)  |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)

@@ -1,25 +1,25 @@
 ---
-title: クリプトマイニング アクティビティに関するパートナー ダッシュボード通知 | パートナー ダッシュボード
+title: クリプトマイニング アクティビティの通知をパートナー センター |パートナー センター
 description: 発生している可能性があるクリプトマイニングに関する通知です。
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8dec91ae62b27c031739e59848118395ab52f7f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 93f4031d8e084c206ee21ff96b6c16a4c0d2ea0e
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876232"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488928"
 ---
-# <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>クリプトマイニング (仮想通貨の採掘) アクティビティに関するパートナー ダッシュボード通知
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>ものでクリプトマイニング アクティビティに関するパートナー センターの通知
 
 **適用対象**
 
--  パートナー ダッシュボード
+-  パートナー センター
 -  CSP パートナー
 
-パートナー ダッシュボードに、クリプトマイニングに関する次のような通知が届くことがあります。
+クリプトマイニングに関する次のパートナー センターの通知を受信したことがあります。
  
 ![](images/crypto1.png)
 
@@ -42,13 +42,13 @@ ms.locfileid: "2876232"
 
 2.  そもそも、そのリソースがどのように作成されたものであるのかを把握します。 これには、Azure Resource Management ログによるリソース プロビジョニング アクティビティの確認が必要になることがあります。
 
-3.  サブスクリプションを作成したユーザーを確認する必要がある場合は、パートナー ダッシュボードのアクティビティ ログを確認します。
+3.  確認する必要がある場合は、サブスクリプションを作成している、パートナー センターのアクティビティ ログを確認します。
 
 クリプトマイニング アクティビティの検出はヒューリスティックに基づいたものであり、100% 正確ではない可能性があります。 不正行為やその他の許可されていないアクティビティに対する保護を行うには、ガバナンスと監視のシステムを備えてください。 詳しくは、「[未払い、詐欺、不正使用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)」をご覧ください。
 
 通知に関してご質問や懸念がある場合、次の手順でサポート要求を開くことができます。
 
-1.  ダッシュボードで、**[サポート]** を選択し、**[パートナー センターの要求]** を選択します。
+1.  パートナー センターで、**サポート**を選択し、**パートナー センターの要求**を選択します。
 3.  **[新しい要求]** を選びます。 
 4.  **[問題の種類]** ドロップダウン メニューで、**[顧客の追加または管理]** を選択します。
 5.  **[影響]** ドロップダウンで、**[標準]** を選択します。

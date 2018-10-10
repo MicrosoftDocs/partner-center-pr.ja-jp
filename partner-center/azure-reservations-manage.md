@@ -4,26 +4,26 @@ Description: Purchasing and managing Azure reservations on behalf of your custom
 author: v-petand
 keywords: azure reservations を管理, 請求, 購入
 ms.localizationpriority: medium
-ms.openlocfilehash: 5025c32da86944f65c548a7e3ef6e61f7275522e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877402"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489778"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>顧客に代わって Microsoft Azure Reservations を管理する
 
 **適用対象**
 
--  パートナー ダッシュ ボード
+-  パートナー センター
 -  Microsoft Azure portal
 -  CSP のパートナー
 
-顧客の Azure reservations を購入後で管理するには、顧客と予約は、パートナー ダッシュ ボードで管理するを選択し、Azure portal で予約を変更することがします。 
+顧客の Azure reservations を購入後、管理をするには、顧客とパートナー センターで、管理対象の予約を選択し、Azure portal で予約を変更します。 
 
-1. まずダッシュボード メニューから **[顧客]** を選択し、予約を管理する対象の顧客を選択します。 
+1. 開始するには、パートナー センター メニューから**顧客**を選びます、し、予約を管理する対象の顧客を選択します。 
 
-2. 顧客の詳細ページ メニューで、 **Azure 予約**を選択し、[し管理する特定の予約を選択します。  
+2. 顧客の詳細ページ メニューで、 **Azure reservations**を選択し、管理する特定の予約を選択します。  
 
 3. **[アクション]** の **[管理]** を選択し、顧客の予約レコード (Azure portal) に移動します。 予約の詳細ページで、次の手順に従ってタスクを完了します。  
 
@@ -48,16 +48,16 @@ ms.locfileid: "2877402"
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>顧客に代わって払い戻しまたは交換を申請する 
 
-顧客に代わって払い戻しまたは交換のサポート要求を登録するには、パートナー ダッシュボードで顧客と予約を選択し、Azure portal でサポート要求を作成します。 
+顧客に代わって払い戻しまたは交換のサポート要求をファイルにをパートナー センターで、顧客と予約を選択し、Azure portal でサポート要求を作成します。 
 
 >[!NOTE]
 >Microsoft サポート担当者から、予約 ID と予約注文 ID が求められることがあります。 この情報は、Azure portal で予約の **[プロパティ]** ページを開くと確認できます。 
 
-1. まずダッシュボード メニューから **[顧客]** を選択し、払い戻しを受ける顧客を選択します。 
+1. 最初から**顧客**を選択して、パートナー センター メニューとし払い戻し顧客を選択します。 
 
 2. 顧客の詳細ページで **[Azure Reservations]** を選択し、顧客が払い戻しを受ける特定の予約を選択します。  
 
-3. [**操作**] には、Azure portal で顧客の予約レコードに移動し、サポート要求を開始する**払い戻し**をを選択します。  
+3. [**操作**]**の払い戻し**の Azure portal で顧客の予約レコードに移動し、サポート要求が開始を選択します。  
 
 4. **[新しいサポート要求]** ページで、次の手順に従って払い戻しを申請します。 各手順の後には、**[次へ]** を選択します。 
 
@@ -71,7 +71,7 @@ ms.locfileid: "2877402"
 |**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [販売 Microsoft Azure 予約インスタンス](azure-reservations.md) |
-|パートナー ダッシュボードで顧客の Azure Reservations を購入する   |[Azure Reservations の購入](azure-reservations-buying.md) |
+|パートナー センターで顧客の Azure reservations を購入します。   |[Azure Reservations の購入](azure-reservations-buying.md) |
 |適切な VM サイズの判断と顧客による VM 使用状況の確認   |[最大限の Azure 予約使用に備えた VM サイズ](azure-usage.md)   |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)
 

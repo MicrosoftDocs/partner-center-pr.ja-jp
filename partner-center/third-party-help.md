@@ -4,12 +4,12 @@ description: サード パーティ製ソフトウェアを検索して購入し
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b98707f1d14ea689f718f386c09e0f3ebbc558c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877442"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489998"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>ポートフォリオにサード パーティ製ソフトウェアを追加する
 
@@ -48,7 +48,7 @@ ISV の Web サイトへのリンク、連絡先情報、多くの場合、製�
 
 サード パーティ製ソフトウェアを購入する方法は、ファースト パーティ製ソフトウェアを購入する場合と同じです。 
 
-1.  **[ダッシュボード]** で **[顧客]** を選びます。
+1.  **パートナー センター**から**顧客**を選びます。
 2.  **[新しいサブスクリプション]** を選びます。
 3.  サード パーティ製ソフトウェアの月次請求を選択します。 年次請求と試用版は、現在サード パーティについては利用できません。
 4.  **[サード パーティ]** タブで購入する製品を選びます。

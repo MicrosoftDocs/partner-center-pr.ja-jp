@@ -1,15 +1,15 @@
 ---
 title: MPN プランを更新する | パートナー センター
-description: パートナー ダッシュボードから MPN プランを更新する
+description: パートナー センターから、MPN プランを更新します。
 author: labrenne
 keywords: MPN、マイクロソフト アクション パック、MAPS、コンピテンシーの更新、更新日
 ms.localizationpriority: medium
-ms.openlocfilehash: 6347536a0b2dfd4af682ef98d1c130f65a68410e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b31a73706c6f88d67aabc8ec4bf0e79297de2978
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875482"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489348"
 ---
 # <a name="renew-your-mpn-offers"></a>MPN プランを更新する
 
@@ -17,9 +17,9 @@ ms.locfileid: "2875482"
 
 - パートナー センター
 
-購入後 1 年経過した翌日から、MPN プラン サブスクリプションの更新期間が始まります。 たとえば、2018 年 9 月 1 日に マイクロソフト アクション パックを購入された場合、2019 年 9 月 2 日から更新期間が始まります。 パートナー ダッシュボードでサブスクリプションを更新できます。
+購入後 1 年経過した翌日から、MPN プラン サブスクリプションの更新期間が始まります。 たとえば、2018 年 9 月 1 日に マイクロソフト アクション パックを購入された場合、2019 年 9 月 2 日から更新期間が始まります。 パートナー センターでサブスクリプションを更新することができます。
 
-**[ダッシュボード]** で、**[メンバーシップ プラン]** を選びます。
+**パートナー センター**では、**メンバーシップ プラン**を選択します。
 **[購入済み]** タブで、購入済みの各プランについて以下を確認できます。
 
 - 有効期限

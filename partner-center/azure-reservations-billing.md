@@ -5,18 +5,18 @@ author: v-petand
 keywords: Azure RI, Azure 予約インスタンス, 予約, VM, 管理, 請求, 購入
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f29c884d155a64ba4d592466a87682313ce9610
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 846f2863e9c4dc9967b8c337bcab40f153b99eb6
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877412"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489438"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure Reserved VM Instances の請求
 
 **適用対象**
 
--  パートナー ダッシュボード
+-  パートナー センター
 -  Microsoft Azure portal
 -  CSP のパートナー
 
@@ -27,7 +27,7 @@ ms.locfileid: "2877412"
 >[!IMPORTANT]
 >通貨が異なる市場の顧客用に Azure Reserved VM Instances を購入する場合、既定の請求通貨はパートナーではなく顧客の市場がベースになります。 顧客が複数の市場に存在する場合は、顧客への請求が必要な各通貨について、個別の請求書と調整ファイルが届き、適切な通貨で顧客に請求できます。 
 
-1 回限りの料金の請求書と調整ファイルにアクセスするには、パートナー ダッシュボードから **[請求]**、**[1 回]** の順に選択します。 
+1 回限りの料金の請求書と調整ファイルにアクセスするには、パートナー センターから**請求**を選択しを**1 つの時刻**を選択します。 
 
 クラウド ソリューション プロバイダー プログラムでの請求について詳しくは、「[課金の基本](billing-basics.md)」をご覧ください。
 
@@ -98,12 +98,12 @@ ms.locfileid: "2877412"
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>現在の請求の状態、請求書、調整ファイルを表示する
 
-1.  パートナー ダッシュ ボードで **[請求]**、**[1 回]** の順に選択して、請求の状態を表示します。 
+1.  パートナー センターで、**請求**とを選択し、 **1 回**して請求の状態を表示します。 
 2.  請求書または調整ファイルを選択して、詳細な情報を確認します。 
 
 ### <a name="view-a-customers-order-history"></a>顧客の注文履歴を表示する
 
-1.  [ダッシュボード] メニューで **[顧客]** を選択します。
+1.  パートナー センター メニューから**顧客**を選択します。
 2.  **[顧客]** ページで、注文履歴を表示する対象の顧客を見つけ、下矢印を選択して顧客レコードを展開します。 
 3.  **[View orders]** (注文の表示) を選択して注文履歴を表示します。
 
@@ -117,8 +117,8 @@ ms.locfileid: "2877412"
 |**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved VM Instances の販売](azure-reservations.md)
-|パートナー ダッシュボードで顧客の Azure Reservations を購入する   |[Azure Reservations の購入](azure-reservations-buying.md)
-| パートナー ダッシュボードで Azure Reservations を管理する | [パートナー ダッシュボードで Azure Reservations を管理する](azure-reservations-manage.md)
+|パートナー センターで顧客の Azure reservations を購入します。   |[Azure Reservations の購入](azure-reservations-buying.md)
+| パートナー センターで Azure reservations を管理します。 | [パートナー センターで Azure reservations を管理します。](azure-reservations-manage.md)
 |Azure portal で Azure Reservations を購入する | [Azure Reserved VM Instances による仮想マシン料金の前払い](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) (Azure ヘルプ) |
 |Azure portal で Azure Reservations を管理する   |[予約済み VM インスタンスの管理](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) (Azure ヘルプ)  |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)

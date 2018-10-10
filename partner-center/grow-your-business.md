@@ -4,12 +4,12 @@ description: Microsoft パートナー ビジネスを拡大するためのリ�
 keywords: 紹介案件, 紹介案件への対応, 潜在顧客, 見込み情報, マーケティング プロファイル, ビジネス プロファイル, ビジネスの拡大, ビジネス チャンス, コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, 試用版, 市場の拡大, ナショナル クラウド
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e84d24f398fb63e6fe8749ff4112866c4cf75b26
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 19a518e32ed352adf4363fc6a7ae84fb5a00e5ca
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377444"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489658"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft パートナー ビジネスの拡大 
 
@@ -24,7 +24,7 @@ Microsoft では、パートナー ビジネスを拡大するために役立つ
 -   販売市場の追加 (CSP パートナー)
 
 > [!NOTE]  
->  会社では、Microsoft Partner Network に登録する必要があり、これらの機能を活用するためにパートナー センター アカウントを持っています。 ネットワークへの参加については、「[Microsoft Partner Network に参加する](mpn-overview.md)」をご覧ください。 機能によっては、クラウド ソリューション プロバイダー (CSP) プログラムのリセラーでなければ使用できないものもあります。 クラウド ソリューション プロバイダー プログラムでの販売については、[クラウド ソリューション プロバイダーの概要](csp-overview.md)をご覧ください。
+>  貴社は、Microsoft Partner Network に登録する必要があり、これらの機能を活用するためにパートナー センター アカウントを持っています。 ネットワークへの参加については、「[Microsoft Partner Network に参加する](mpn-overview.md)」をご覧ください。 機能によっては、クラウド ソリューション プロバイダー (CSP) プログラムのリセラーでなければ使用できないものもあります。 クラウド ソリューション プロバイダー プログラムでの販売については、[クラウド ソリューション プロバイダーの概要](csp-overview.md)をご覧ください。
 
 ## <a name="resources-to-help-your-business-grow"></a>ビジネスを拡大するためのリソース
 
@@ -35,9 +35,9 @@ Microsoft では、パートナー ビジネスを拡大するために役立つ
 | Microsoft の製品の試用版サブスクリプションを顧客に提供する | 「[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)」で、試用版サブスクリプションを使用して顧客基盤を拡大する方法を確認します。| CSP パートナー |
 | Microsoft サブスクリプションのプロモーション価格を顧客に提供する | マイクロソフトは、ライセンス ベースのサブスクリプションのプロモーションを随時実施しており、パートナー様はこれを活用して顧客に割引価格でサブスクリプションを提供し、ビジネスの拡大を図ることができます。 [Microsoft サブスクリプションのプロモーション価格を顧客に提供する方法](promotions.md)をご覧ください。 | CSP パートナー |
 | 販売対象市場を追加する | クラウド ソリューション プロバイダー販売チャネルは、多数の国や地域で利用可能です。 一覧については、[クラウド ソリューション プロバイダーの市場](agreements.md)のページをご覧ください。 クラウド ソリューション プロバイダー チャネルの概要については、[クラウド ソリューション プロバイダーの概要](csp-overview.md)ページをご覧ください。  | CSP パートナー |
-非営利組織や教育機関などの特殊な業界への販売します。|[特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)|CSP パートナー|
-|インセンティブ協力プレイのプログラムで利用可能な多くのアクティビティを通じて、ビジネスを拡大します。 ダッシュ ボードからアクティビティのファイル要求します。| [作成およびインセンティブ要求の管理](create-incentives-claims.md)|CSP パートナー|
-|ソフトウェアの新しいバンドルを既に販売しているマイクロソフトのソフトウェアと連携するサード パーティ製品を含めることによってビルドします。|[サード パーティ製品を見つける](third-party-offers.md)|CSP パートナー|
+非営利組織および教育機関などの特殊な業界への販売します。|[特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)|CSP パートナー|
+|インセンティブ協力プログラムで利用可能な多くのアクティビティを通じて、ビジネスを拡大します。 パートナー センターを通じてアクティビティのファイルの要求します。| [作成およびインセンティブの要求の管理](create-incentives-claims.md)|CSP パートナー|
+|既にを販売するマイクロソフトのソフトウェアと連携するサード パーティ製品を含めることによってソフトウェアの新しいバンドルを作成します。|[サード パーティ製品を見つける](third-party-offers.md)|CSP パートナー|
 
 ## <a name="see-also"></a>関連項目
 

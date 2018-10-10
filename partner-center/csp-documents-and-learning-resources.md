@@ -5,12 +5,12 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: 792eea1f482eb539aef84b2b3a2c79f7c33d508a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 06fa6178b5d0c1f655ba412c75ec8b950430b812
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876432"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489638"
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー契約、料金表、キャンペーン
 
@@ -61,19 +61,19 @@ CSP のパートナーは、マイクロソフトによる契約条件 (マイ�
 ## <a name="pricing"></a>価格設定
 
 
-価格のライセンス ベース、使用量ベースと 1 回限りの購入**料金とプラン**] ページで、**ダッシュ**ボード] メニューから利用可能な詳細をダウンロードします。 
+価格のライセンス ベース、使用量ベースと 1 回限りの購入**料金とプラン**] ページで、**パートナー センター**メニューから利用可能な詳細をダウンロードします。 
 
 ライセンス ベースの価格表は毎月更新され、新しい価格は、有効になる 30 日前に発表されます。 ライセンスベースのサービスには、たとえば Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM があります。 
 
 使用量ベースの価格は変動的であり、頻繁に変更されています。 使用量ベースのサービスには、たとえば Microsoft Azure があります。
 
-1 回限りの購入価格も動的できます。 1 回限りの購入の例は、たとえば Microsoft Azure VM instances に予約されています。 
+1 回限りの購入価格は動的なもです。 1 回限りの購入の例は、Microsoft Azure VM instances 予約されています。 
 
 
 ## <a name="offers"></a>サービス
 
 
-CSP パートナーは、Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM、Microsoft Azure をお客様に販売できます。 これらの製品ファミリで販売可能な製品やサービスおよび製品バンドルについて詳しくは、**[ダッシュボード]** メニューから **[料金とプラン]** ページにアクセスして、CSP のプランのマトリックスをご覧ください。 このドキュメントは毎月更新されます。
+CSP パートナーは、Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM、Microsoft Azure をお客様に販売できます。 これらの製品ファミリ内で販売できるバンドルについてサービスおよび製品の詳細については、[**料金とプラン**] ページで、**パートナー センター**メニューから利用可能なプランのマトリックスの CSP を参照してください。 このドキュメントは毎月更新されます。
 
 Crest Usage Record API を使用している CSP パートナーは、**[料金とプラン]** ページで CSP での Azure サービスの一覧を利用することもできます。
 

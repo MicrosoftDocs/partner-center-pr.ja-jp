@@ -4,12 +4,12 @@ description: Microsoft Partner Network メンバーシップをアップグレ�
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377784"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489708"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 
@@ -29,7 +29,7 @@ ms.locfileid: "4377784"
 
   - Gold コンピテンシー – 特定のマイクロソフト ソリューション分野におけるクラス最高の能力を備えたパートナーに与えられます
 
-Microsoft Partner Network メンバーシップに参加すると、メンバーシップをアップグレードし、限定のメンバーシップ特典を購入できるようになります。 移動するのには、Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com)します。
+Microsoft Partner Network メンバーシップに参加すると、メンバーシップをアップグレードし、限定のメンバーシップ特典を購入できるようになります。 Microsoft Partner Network でメンバーシップについて詳しくに移動します。[https://partner.microsoft.com](https://partner.microsoft.com)します。
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入する
@@ -47,12 +47,12 @@ Action Pack は、クラウドファースト、モバイルファーストの�
 Microsoft Action Pack について詳しくに移動します。[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)します。 
 
 > [!NOTE]  
-> このリンクに移動する別の web サイトにします。 Action Pack をサブスクライブするには、このパートナー センター サイトに戻る必要があります。
+> このリンクに移動する別の web サイトにします。 このサイトで Action Pack をサブスクライブする、パートナー センター サイトに戻ります。
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Microsoft Action Pack をサブスクライブする
 
-1. **[ダッシュボード]** メニューで、**[パートナーシップ] > [プラン]** を選びます。 **[利用可能なプラン]** で Microsoft Action Pack を選びます。 **[今すぐ登録]** を選びます。 
+1. **パートナー センター**メニューで、選択**パートナーシップ > 提供**します。 **[利用可能なプラン]** で Microsoft Action Pack を選びます。 **[今すぐ登録]** を選びます。 
 
 2. **[次へ]** を選んで、Microsoft Partner Network で付与される内部使用権の[諸条件](https://go.microsoft.com/fwlink/?linkid=842232)に同意します。  
 
@@ -70,7 +70,7 @@ Microsoft Action Pack について詳しくに移動します。[https://partner
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack サブスクリプションの自動更新を無効にする
 
-1. **[ダッシュボード]** メニューで、**[パートナーシップ] > [プラン]** を選びます。 **[購入したプラン]** で Microsoft Action Pack を選びます。
+1. **パートナー センター**メニューで、選択**パートナーシップ > 提供**します。 **[購入したプラン]** で Microsoft Action Pack を選びます。
 
 2. **Microsoft Action Pack サブスクリプション** を選んで、サブスクリプションの詳細を表示します。 
 
@@ -82,7 +82,7 @@ Microsoft Action Pack について詳しくに移動します。[https://partner
 
 ### <a name="renew-your-action-pack-subscription"></a>Action Pack サブスクリプションを更新する
 
-1. **[ダッシュボード]** メニューで、**[パートナーシップ] > [プラン]** を選びます。 **[購入したプラン]** で Microsoft Action Pack を選びます。
+1. **パートナー センター**メニューで、選択**パートナーシップ > 提供**します。 **[購入したプラン]** で Microsoft Action Pack を選びます。
 
 2. **Microsoft Action Pack サブスクリプション**を選んで、サブスクリプションの詳細を表示し、**[操作]** の下で **[サブスクリプションの更新]** を選びます。  
 
