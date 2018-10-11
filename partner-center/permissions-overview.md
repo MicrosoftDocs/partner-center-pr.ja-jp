@@ -4,12 +4,12 @@ description: パートナー センターで作業する必要があるすべて
 author: labrenne
 keywords: 役割、アクセス許可、管理エージェント
 ms.localizationpriority: medium
-ms.openlocfilehash: 31ee676b9025edb82b155f64b9b2f44a3873c38c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
+ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489488"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "4528369"
 ---
 # <a name="assign-users-roles-and-permissions"></a>ユーザーのロールとアクセス許可を割り当てる
 
@@ -108,7 +108,7 @@ ms.locfileid: "4489488"
 <li><p>インセンティブ ロールを割り当てることができます。</p></li>
 <li><p>開始し、インセンティブの要求を管理します。</p></li>
 <li><p>表示し、インセンティブ プログラムのすべての側面を編集</p></li>
-<li><p>銀行および税の詳細を表示できます。</p></li>
+<li><p>表示し、銀行および税の詳細の編集ができます。</p></li>
 <LI><p>ビュー リベートや共同収益</p></li>
 <LI><p>アクセスのサポート</p></li>
 <LI><p>紛争インセンティブ支払い</p></li>
