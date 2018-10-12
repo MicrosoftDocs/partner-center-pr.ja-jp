@@ -4,12 +4,12 @@ Description: Purchasing and managing Azure reservations on behalf of your custom
 author: v-petand
 keywords: azure reservations を管理, 請求, 購入
 ms.localizationpriority: medium
-ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
+ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489778"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "4562274"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>顧客に代わって Microsoft Azure Reservations を管理する
 
@@ -42,6 +42,16 @@ ms.locfileid: "4489778"
 
 顧客は、予約をいつでも取り消すことができます (1 年に $50,000 まで)。 予約を取り消すと、Azure 予約の期間のうち、残りの月を Microsoft に返すことができます (早期解約手数料が発生します)。 顧客の元の購入に対して、日割り残高から手数料を差し引いた額が払い戻されます。 
 
+取り消しの詳細と料金以下をご覧ください。
+
+|**取り消し日**<br> (日)   |**使用方法**    |**クレジット**  |**早期終了**<br> 料金    |**上限を払い戻し** | 
+|:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
+|5 よりも少ない場合                       | いいえ          | 100%       | いいえ                              | 50,000 米ドル   |
+|5 よりも少ない場合                       | はい         | 日割り  | いいえ                              | 50,000 米ドル   |
+|複数の 5                        | いいえ          | 日割り  | 12%                             | 50,000 米ドル   |
+|複数の 5                        | はい         | 日割り  | 12%                             | 50,000 米ドル   |
+
+
 **交換のしくみ** 
 
 交換では、予約で残っている期間の長さに基づいて日割り計算の払い戻し額を顧客が受け取り、その金額を新しい予約に充当できます。   
@@ -53,7 +63,7 @@ ms.locfileid: "4489778"
 >[!NOTE]
 >Microsoft サポート担当者から、予約 ID と予約注文 ID が求められることがあります。 この情報は、Azure portal で予約の **[プロパティ]** ページを開くと確認できます。 
 
-1. 最初から**顧客**を選択して、パートナー センター メニューとし払い戻し顧客を選択します。 
+1. 最初に、パートナー センター メニューから**顧客**を選択し、払い戻しの顧客を選択し、します。 
 
 2. 顧客の詳細ページで **[Azure Reservations]** を選択し、顧客が払い戻しを受ける特定の予約を選択します。  
 
