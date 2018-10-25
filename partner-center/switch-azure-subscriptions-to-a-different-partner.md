@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: azure サブスクリプション, パートナーの切り替え, パートナーの変更, 新しいパートナーの獲得, 別のパートナー
 ms.localizationpriority: medium
-ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
+ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488968"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5511393"
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure サブスクリプションの譲渡 
 
@@ -23,8 +23,7 @@ ms.locfileid: "4488968"
 >[!Note]  
 >この時点で、直接または間接プロバイダーのみが、サブスクリプションの譲渡ことができます。
 
->[!Note] 
->現在では、Office 365、Enterprise Mobility Suite、または Microsoft Dynamics CRM のサブスクリプションのクラウド ソリューション プロバイダー サブスクリプションのパートナーを変更することはできません。
+>[!Note]現在では、Office 365、Enterprise Mobility Suite、または Microsoft Dynamics CRM のサブスクリプションのクラウド ソリューション プロバイダー サブスクリプションのパートナーを変更することはできません。
 
 
 
@@ -68,7 +67,7 @@ ms.locfileid: "4488968"
     *重要*: 新しい CSP パートナーが、顧客との間に再販業者関係を持っていない場合は、サブスクリプションが譲渡される前に再販業者関係を確立しておく必要があります。 [これを行う方法については、こちらをご覧ください](request-a-relationship-with-a-customer.md)。
 
     >[!Note]
-    >新しい CSP パートナーと顧客のテナントが同じ地域である必要があります。 
+    >新しい CSP パートナー、顧客テナントのと同じ国である必要があります。 
 
 5.  現在のパートナーが次の操作を行います。
 
@@ -96,9 +95,9 @@ ms.locfileid: "4488968"
     -  
           **[Microsoft Azure]** で、リンクをクリックして **[Microsoft Azure の管理ポータル]** に移動します。
 
- 
+ 
 
- 
+ 
 
 
 
