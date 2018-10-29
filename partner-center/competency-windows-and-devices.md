@@ -1,19 +1,22 @@
 ---
 title: Windows and Devices コンピテンシー
+ms.topic: article
+ms.date: 10/29/2018
 description: 10 億台のデバイスに Windows 10 を展開するというマイクロソフトの目標を共有しましょう。 機会はサービス、アプリケーション、デバイスに潜んでいます。 このコンピテンシーでは、収益性の高い Windows 10 のプラクティスを構築および拡大するのに役立つツール、コンテンツ、リソースが提供されます。
 author: Daniel Simpson
+ms.author: dansimp
 robots: noindex,nofollow
 keywords: コンピテンシー,コンピテンシー,Windows and Devices
 ms.localizationpriority: medium
-ms.openlocfilehash: eee91d5908726893cf8b5f4a0d01d99b5ac442c1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875742"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795585"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="8620c-106">このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスしてください。</span><span class="sxs-lookup"><span data-stu-id="8620c-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="7c5e4-106">このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。</span><span class="sxs-lookup"><span data-stu-id="7c5e4-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 
@@ -135,7 +138,7 @@ The Surface Hub option is ideal if you are an authorized Surface Hub ADR and pre
     - **All** individuals must each pass one of the following exams:
 
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 services
-        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
         - [Exam 70-398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): Planning for and Managing Devices in the Enterprise
         - [Exam 70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): Configuring Windows Devices 
 -->

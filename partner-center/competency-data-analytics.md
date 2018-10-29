@@ -1,19 +1,22 @@
 ---
 title: Data Analytics コンピテンシー
+ms.topic: article
+ms.date: 10/29/2018
 description: 顧客が詳しいインサイトの取得、予測、推奨事項の生成を行うことができるようにデータを調査するビジネスを行っている場合、Data Analytics コンピテンシーは能力を築いて証明するプラットフォームとなります。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: コンピテンシー,コンピテンシー,data Analytics
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875302"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796225"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="a2888-104">このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスしてください。</span><span class="sxs-lookup"><span data-stu-id="a2888-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="27b49-104">このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。</span><span class="sxs-lookup"><span data-stu-id="27b49-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Data Analytics
