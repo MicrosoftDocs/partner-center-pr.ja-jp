@@ -1,15 +1,18 @@
 ---
 title: '教育機関の顧客に Minecraft: Education Edition サブスクリプションを販売する'
+ms.topic: article
+ms.date: 10/29/2018
 description: '適格教育機関の顧客に Minecraft: Education Edition サブスクリプションを販売します。'
 author: KPacquer
+ms.author: kenpacq
 keywords: 認定教育パートナー
 ms.localizationpriority: medium
-ms.openlocfilehash: cb968300a2254aac6c56b3ecdfc8ac32eb7345a8
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aa86e62d19d3f83ad828afbc8cd1c9880a6c93c3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489688"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796585"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 

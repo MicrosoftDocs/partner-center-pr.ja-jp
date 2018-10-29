@@ -1,16 +1,19 @@
 ---
 title: 顧客の代理としての問題の報告 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490048"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795615"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理としての問題の報告
 
@@ -32,11 +35,11 @@ ms.locfileid: "4490048"
 
 **Microsoft Azure**
 
-**注:** Azure で顧客のサービス リクエストを作成する必要がある場合に、次の注意してください。
+**注:** Azure で顧客のサービス要求を作成する必要がある場合に、次の注意してください。
 
 - Azure で顧客のサービス要求を作成するためには、間接プロバイダーが、顧客の Azure アカウントへのアクセスを許可する必要があります。 これは、Office 365 ユーザーに代わって管理を行うこととは異なります。 
 
-- パートナー センターでのヘルプデスク管理者は、Azure サービス ポータルでサービス リクエストを作成することはできません、実行できる機能は、Azure サービス ポータルでサポート グループを作成し、サポート要求を記録するには、そのグループ アクセスを許可を付与します。
+- パートナー センターでのヘルプデスク管理者は、Azure サービス ポータルでサービス リクエストを作成することはできません、実行できる機能は、Azure サービス ポータルにサポート グループを作成し、サポート要求を記録するには、そのグループ アクセスを許可を付与します。
 
 1.  
           **[新しいサポート要求]** を選びます。
@@ -96,9 +99,9 @@ Office 365 管理センターに直接サインインすると、顧客のコン
 
 **Dynamics 365 の追加のサポートを取得する方法**
 
- 関連する問題が発生した場合: Dynamics 365 プラン サブスクリプション、ライセンス、請求、財務 & 操作、IURs か、または、さらに技術的なサポートを必要とします。
+ 関連する問題が発生した場合: Dynamics 365 プラン サブスクリプション、ライセンス、請求、財務 & 操作、IURs か、またはそれ以上のテクニカル サポートを必要とします。
  
-[Dynamics サポート](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)にお問い合わせ
+[Dynamics のサポート](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)にお問い合わせ
 
 [Microsoft Dynamics のサポート](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)を読み取る
 

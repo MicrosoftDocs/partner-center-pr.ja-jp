@@ -1,15 +1,18 @@
 ---
 title: Microsoft Action Pack サブスクリプション特典 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: このページの情報は https://partner.microsoft.com/membership/internal-use-software に移動されました。
 author: MaggiePucciEvans
+ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0c1f62b1980601bb6c97b9075689638ad9e350f3
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: bd5b12c4cf8eaa24cd322f98ab1054e6786a42a3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489228"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795485"
 ---
 # <a name="get-action-pack-subscription-details-on-the-microsoft-partner-networkhttpspartnermicrosoftcommembershipinternal-use-software-site"></a>[Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) サイトで Action Pack サブスクリプションの詳細をご確認ください。 
 
@@ -17,6 +20,6 @@ Microsoft Action Pack サブスクリプション特典には、パートナー�
 
 Action Pack のサブスクリプションに含まれる特典について詳しくは、Microsoft Partner Network サイトの[ビジネスを加速する](https://partner.microsoft.com/membership/internal-use-software)をご覧ください。   
 
-Action Pack サブスクリプションの購入、初めてまたはに関する情報、Action Pack サブスクリプションを更新する以前に購入したは、パートナー センター サイト - ヘルプ ライブラリこのサイトの -[アクション パックの取得](mpn-get-action-pack.md)を参照してください。
+情報や Action Pack サブスクリプションの更新、Action Pack サブスクリプションを初めて購入に関する以前に購入したは、パートナー センター サイト - ヘルプ ライブラリでは、このサイトの -[アクション パックの取得](mpn-get-action-pack.md)を参照してください。
 
 

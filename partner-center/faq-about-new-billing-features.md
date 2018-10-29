@@ -1,15 +1,18 @@
 ---
 title: 新しい請求機能についてよく寄せられる質問 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: ''
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: d24baa9a177ff985c89bd4c48b007f9d043f007a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5bdf937ee55a52c9a0e5c88f3e6006204c71ece8
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877572"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795595"
 ---
 # <a name="faq-about-new-billing-features"></a>新しい請求機能についてよく寄せられる質問
 

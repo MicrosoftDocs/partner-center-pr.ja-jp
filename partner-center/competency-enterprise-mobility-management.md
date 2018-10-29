@@ -1,19 +1,22 @@
 ---
 title: Enterprise Mobility Management コンピテンシー
+ms.topic: article
+ms.date: 10/29/2018
 description: Enterprise Mobility Management コンピテンシーは、大企業向けの強力で安全なモビリティ管理ソリューションのエキスパートとして傑出しているパートナー様向けのコンピテンシーです。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: コンピテンシー,コンピテンシー,Enterprise Mobility Management
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e6c5fd30a82992d41a22b4892d27ec4709b4b931
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e41399862cc725b15853f365e96c2f8f715c88b
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876072"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796245"
 ---
 >[!IMPORTANT]
->このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスしてください。
+>このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。
 
 <!--
 

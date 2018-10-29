@@ -1,15 +1,18 @@
 ---
 title: Microsoft Partner Network の特典の管理 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft Partner Network のメンバーは、特定のメンバーシップ特典を購入することができます。 ライセンス認証を実行し、パートナー センターでメンバーシップ特典を管理する方法について説明します。
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: MPN、メンバーシップ特典、メンバーシップ
 ms.localizationpriority: medium
-ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489798"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796385"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 
@@ -18,7 +21,7 @@ ms.locfileid: "4489798"
 -  パートナー センター
 
 >[!IMPORTANT]
->この記事では、Microsoft Partner Network (MPN) の使用を開始する方法を説明します。 このサイト (旧称パートナー センター) - パートナー センターでメンバーシップ特典します。 情報に移動する会社 Partner Membership Center (PMC) からパートナー センターへの招待を受信していない場合は、MPN メンバーシップの特典を PMC で管理を続けることする必要があります。 PMC に[サインイン](https://partner.microsoft.com/_login?authType=OpenIdConnect)します。   
+>この記事では、Microsoft Partner Network (MPN) の使用を開始する方法を説明します。 このサイト (旧称パートナー センター) - パートナー センターでメンバーシップ特典します。 情報に移動する会社 Partner Membership Center (PMC) からパートナー センターへの招待を受け取っていない場合、は、MPN メンバーシップの特典を PMC で管理が引き続きにする必要があります。 PMC に[サインイン](https://partner.microsoft.com/_login?authType=OpenIdConnect)します。   
 
 Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成長に役立つメンバーシップ特典にアクセスできます。 まだ MPN のメンバーでない場合は、[MPN サイト](https://partner.microsoft.com/membership)から登録できます。
 
@@ -28,7 +31,7 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
 メンバーシップ特典パッケージを購入した後は、使用を開始できるように、ソフトウェア キーを入手して、従業員にライセンス、サブスクリプション、その他の特典を割り当てる必要があります。 
 
 >[!IMPORTANT]
->特典を購入する組織のグローバル管理者であるがないときに、上のメリットを従業員に割り当てるグローバル管理者であることを必要があります。  [**特典**のページ](https://partnercenter.microsoft.com/pcv/partnership/benefits)上の手順に従って、全体管理者する場合は、なることができます (サインインが必要)。 また、組織は、チームを確認することを確認するための全体管理者を既にがあります。
+>特典を購入する組織のグローバル管理者であるがないときにを従業員に特典を割り当てるには、グローバル管理者であることを必要があります。  [**特典**のページ](https://partnercenter.microsoft.com/pcv/partnership/benefits)上の手順に従って、グローバル管理者する場合は、なることができます (サインインが必要)。 また、組織は、チームを確認することを確認するための全体管理者を既にがあります。
 
 Action Pack サブスクリプションでは、社内使用ライセンスのソフトウェア、クラウド サービス、Visual Studio サブスクリプション、サポートが割り当てられます。 [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) サイトで Action Pack サブスクリプションの詳細を確認できます。  
 

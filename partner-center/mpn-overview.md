@@ -1,15 +1,18 @@
 ---
 title: Microsoft Partner Network メンバーシップ | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: マイクロソフトのパートナーとなるメリットについて説明します。
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
 ms.localizationpriority: medium
-ms.openlocfilehash: 43302afc456f810a310ed0751eccb44fcb9a64b5
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9726297ff1a6b921ec848778f41df701afb8c49a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489648"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797085"
 ---
 # <a name="partner-with-microsoft"></a>マイクロソフトとの連携
 
@@ -22,7 +25,7 @@ ms.locfileid: "4489648"
 [パートナー ネットワーク サイト](https://partner.microsoft.com)でメンバーシップのレベルと[ソフトウェアの社内使用ライセンス特典](https://partner.microsoft.com/membership/internal-use-software)の詳細をご確認ください。 
 
 >[!IMPORTANT]
->パートナー センターへ、Action Pack サブスクリプション管理 Partner Membership Center (PMC) からを移行しますされます。 この移行は、次のいくつか月間に作業を行います。 [Action pack を購入](mpn-get-action-pack.md)の情報をよくご確認方法と場所がわかるようにを更新します。  
+>パートナー センターへ、Action Pack サブスクリプション管理 Partner Membership Center (PMC) からを移行しますされます。 この移行は、次のいくつか月間に作業を行います。 [Action pack を購入](mpn-get-action-pack.md)の情報をよくご確認する方法と場所がわかるようにを更新します。  
 
 |**これを行うには**   |**参照先**   |
 |-----------------|:---------------------------|

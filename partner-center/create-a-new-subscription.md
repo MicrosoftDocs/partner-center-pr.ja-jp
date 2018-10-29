@@ -1,16 +1,19 @@
 ---
 title: 顧客のサブスクリプションの作成、中断、取り消し | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: パートナー センターで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489108"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796405"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
@@ -26,7 +29,7 @@ ms.locfileid: "4489108"
 一部のプランでは、顧客ごとに保有できるサブスクリプションが 1 つに限られていることに注意してください。 制限のあるオファーの一覧を確認するには、パートナー センターの [料金とプラン] ページをご覧ください。 
 
 
-**新しいサブスクリプションを作成する**
+**新しいサブスクリプションの作成**
 
 1.  **パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選択します。
 
@@ -38,7 +41,7 @@ ms.locfileid: "4489108"
  >試用版サブスクリプションを顧客に提供することができます。 試用版の利用可能な製品は、カタログ内の試用版] タブ中です。 [Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)を参照してください。
 
  
-4. 請求頻度を選択したら、カタログ内のサブスクリプションが必要な製品を選択します。 製品の可用性は、顧客の種類 (教育機関、政府機関など) と選んだ請求頻度によって異なります。 製品が利用できない場合、顧客がその製品のサブスクリプションを既に保有しており、1 つのみが許可されている可能性があります。 または、サブスクリプションが中断されている可能性があり、その場合は、新しいものを購入する代わりに再アクティブ化することができます。
+4. 請求頻度を選択したら、カタログ内のサブスクリプションが必要な製品を選びます。 製品の可用性は、顧客の種類 (教育機関、政府機関など) と選んだ請求頻度によって異なります。 製品が利用できない場合、顧客がその製品のサブスクリプションを既に保有しており、1 つのみが許可されている可能性があります。 または、サブスクリプションが中断されている可能性があり、その場合は、新しいものを購入する代わりに再アクティブ化することができます。
 
 5. 追加するサブスクリプションをオンにして、ライセンス数を入力します。 
           **[送信]** を選んで注文を送信します。
@@ -65,7 +68,7 @@ ms.locfileid: "4489108"
 
 
 
- 
+ 
 
 
 

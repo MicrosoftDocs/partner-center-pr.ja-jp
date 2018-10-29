@@ -1,16 +1,19 @@
 ---
 title: 顧客アカウントのユーザー管理タスク | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: 顧客の新しいサブスクリプションを購入した後、特定のユーザーにライセンスを割り当てることができます。
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
 ms.localizationpriority: medium
-ms.openlocfilehash: 153ed656ff217241079439e8b48c46c8d18ba144
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489818"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797245"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>顧客アカウントのユーザー管理タスク
 
@@ -29,7 +32,7 @@ ms.locfileid: "4489818"
 <a href="" id="createuseraccounts"></a>
 **顧客のユーザー アカウントを作成する**
 
-1.  **パートナー センター**メニューで、**顧客**を選択します。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選びます。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。
 
@@ -44,7 +47,7 @@ ms.locfileid: "4489818"
 <a href="" id="userlicensing"></a>
 **顧客のユーザー ライセンスを追加または削除する**
 
-1.  **パートナー センター**メニューで、**顧客**を選択します。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選びます。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。
 
@@ -55,7 +58,7 @@ ms.locfileid: "4489818"
 <a href="" id="resetpassword"></a>
 **顧客のユーザー パスワードをリセットする**
 
-1.  **パートナー センター**メニューで、**顧客**を選択します。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選びます。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。 一覧からユーザーを選びます。
 
@@ -66,7 +69,7 @@ ms.locfileid: "4489818"
 <a href="" id="deleteuseraccounts"></a>
 **顧客のユーザー アカウントを削除する**
 
-1.  **パートナー センター**メニューで、**顧客**を選択します。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選びます。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。 一覧からユーザーを選びます。
 
@@ -77,7 +80,7 @@ ms.locfileid: "4489818"
 <a href="" id="restoreuseraccounts"></a>
 **削除されたユーザー アカウントを復元する**
 
-1.  **パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選択します。
+1.  **パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選びます。
 
 2.  **[ユーザーとライセンス]** を選びます。
 
@@ -94,9 +97,9 @@ ms.locfileid: "4489818"
 
 [顧客のアカウントに複数のユーザーを作成する](adding-multiple-users-to-a-customer-account.md)
 
- 
+ 
 
- 
+ 
 
 
 

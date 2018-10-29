@@ -1,15 +1,18 @@
 ---
 title: 最大限の予約使用に Microsoft Azure VM サイズ |パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
+ms.author: v-petand
 keywords: Azure, 予約, VM, 管理, 請求, 使用, サイズ
 ms.localizationpriority: medium
-ms.openlocfilehash: 6279ff9e6ecd66af9eb320b2d72a1cdfaad4ccb4
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 00978e8e000dded2e4f7bb5d5d6506711e521c86
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489618"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795925"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ 
 
@@ -45,7 +48,7 @@ ms.locfileid: "4489618"
 
 **Microsoft Azure portal を使用して VM サイズ情報を取得する**
 
-1.  パートナー センターで、**顧客**ページに移動します。
+1.  パートナー センターで、[**顧客**] ページに移動します。
 
 2.  Azure VM 予約を購入する顧客を見つけ、下矢印を選択して顧客情報を展開します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。 
 
@@ -89,7 +92,7 @@ ms.locfileid: "4489618"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Microsoft Azure portal で顧客の予約の使用状況を確認する
 
-1.  パートナー センターで、**顧客**ページに移動します。
+1.  パートナー センターで、[**顧客**] ページに移動します。
 
 2.  予約割引と使用状況を確認する対象の顧客を見つけ、下矢印を選択して顧客情報を展開します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。 
 

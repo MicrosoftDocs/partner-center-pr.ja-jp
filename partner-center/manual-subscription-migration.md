@@ -1,15 +1,18 @@
 ---
 title: Dynamics AX のサブスクリプションを Dynamics 365 に移行する | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft では、次世代のインテリジェント ビジネス アプリケーションである Dynamics 365 を公開しました。これにより、お客様の組織を成長、進化、および変化させ、顧客のニーズに合わせて、新しいビジネスの機会を捕らえることができます。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489788"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797135"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Dynamics AX のサブスクリプションを Dynamics 365 に移行する
 
@@ -42,7 +45,7 @@ Microsoft Dynamics AX 製品ラインは廃止されました。2016 年 11 月 
 |タスク/セルフサービス|Microsoft Dynamics 365 for Team Members|
 |デバイス|Microsoft Dynamics 365 for Operations デバイス|
 
-## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Microsoft Dynamics CRM Online ライセンスの変更 
+## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Microsoft Dynamics CRM Online ライセンスの変更 
 
 **Microsoft Dynamics CRM Online**
 
@@ -113,9 +116,9 @@ Microsoft では、新しい製品やサービスをリセラーとプロバイ�
 
 顧客がお客様を間接プロバイダーとして承認すると、プロビジョニングの手順は上記の手順とほとんど同じになります。新しいサブスクリプションを購入して、ユーザー ライセンスを割り当てます。 以前のサブスクリプションの取り消しだけが、異なる手順となります。 新しいプロバイダーは、他のチャネルを通じて取得されたサブスクリプションの中断や取り消しを行うことができません。 顧客が他の販売ルート (オープン チャネルなど) で以前にサブスクリプションを取得している場合、顧客自身がその販売ルートを通じてサブスクリプションを取り消す必要があります。
 
- 
+ 
 
- 
+ 
 
 
 

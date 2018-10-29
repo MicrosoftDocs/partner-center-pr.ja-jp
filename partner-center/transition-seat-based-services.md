@@ -1,14 +1,17 @@
 ---
 title: ライセンスベース サービスの顧客をパートナー センターのクラウド ソリューション プロバイダー プログラムに移動する | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: 別のチャネルとは別のパートナーから顧客とそのサブスクリプションを CSP プログラムに移動します。
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1fd2b98de57be3ddbc56c1e96d7a37fa81d5f7b0
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 62c85a7ff33e9dd11fa867074c53cd19b4015139
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488608"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795315"
 ---
 # <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>別のチャネルとは別のパートナーから、ライセンス ベース サービスの顧客をクラウド ソリューション プロバイダー プログラムに転送します。
 
@@ -16,13 +19,13 @@ ms.locfileid: "4488608"
 
 -  パートナー センター
 
-顧客が複数のパートナーと携わったり、サブスクリプションを別のパートナーに移管したり、別途購入したサブスクリプションを管理したりする場合には、手動で移行することができます。 別のチャンネルからパートナー センターにお客様を移動することもできます。
+顧客が複数のパートナーと携わったり、サブスクリプションを別のパートナーに移管したり、別途購入したサブスクリプションを管理したりする場合には、手動で移行することができます。 別のチャンネルからパートナー センターにユーザーを移動することもできます。
 
 ## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>顧客のライセンスベース サブスクリプションをクラウド ソリューション プロバイダー プログラム (CSP) に移動する
 
-1. パートナー センター メニューから**顧客**を選択し、**再販業者関係の要求**を選択します。 マルチ チャンネル アカウントのサポートを提供するには、同じ操作を行います。
+1. パートナー センター メニューから**顧客**を選択して、**再販業者関係の要求**を選択してください。 マルチ チャンネル アカウントのサポートを提供するには、同じ操作を行います。
 
-2.  顧客が招待を承認、(たとえば、同じ Office 365 プランを顧客が以前に購入した) ユーザーのサブスクリプションとシートをプロビジョニングすることができます。
+2.  顧客が招待を承認、顧客 (たとえば、同じ Office 365 プランを顧客が以前に購入した) の対象のサブスクリプションとシートをプロビジョニングすることができます。
 
 3. 顧客は、その元のサブスクリプションの期限が切れるのを待つか、それを取り消すことができます。 ただし、サブスクリプションを取り消しても払い戻しはされないため、顧客のサブスクリプションの有効期限が近づくまで、そのまま待つことをお勧めします。
 

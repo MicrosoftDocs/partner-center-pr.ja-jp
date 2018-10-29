@@ -1,16 +1,19 @@
 ---
 title: 複数のユーザーにライセンスを割り当てる、または取り消す | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: ライセンスやサービスを 1 人のユーザーに割り当てたり、顧客アカウント内の複数のユーザーに同時に割り当てたり、ユーザーへのライセンスの割り当てを取り消したりすることができます。
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490008"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795355"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>複数のユーザーにライセンスを割り当てる、または取り消す
 
@@ -57,11 +60,11 @@ ms.locfileid: "4490008"
 7.  各製品のチェック ボックスをオンにして、ユーザーに対して複数の製品を選びます。
     -   任意の製品について **[サービス プランを表示する]** を選ぶと、ユーザーに必要なサービス プランを表示して選択できます。
 
-8.  **[保存]** を選びます。 パートナー センターでは、ユーザーとその新しいライセンスが一覧**のライセンスの更新**の確認ページが開きます。
+8.  **[保存]** を選びます。 パートナー センターでは、ユーザーとその新しいライセンスが一覧の**ライセンスの更新**の確認ページを開きます。
 
-**注:** 一部の Microsoft 製品は、特定の場所では利用できません。 また、他の製品やサービスに依存する製品や、同じユーザーに一緒に割り当てることができない製品もあります。 保存すると、確認ページに、成功したライセンス割り当てに関するすべてのユーザーの結果と、ライセンス割り当てのエラーの一覧が表示されます。
+**注:** 一部の Microsoft 製品が特定の場所では利用できません。 また、他の製品やサービスに依存する製品や、同じユーザーに一緒に割り当てることができない製品もあります。 保存すると、確認ページに、成功したライセンス割り当てに関するすべてのユーザーの結果と、ライセンス割り当てのエラーの一覧が表示されます。
 
- 
+ 
 
 <a href="" id="revoking-licenses"></a>
 **ユーザーのライセンスの割り当てを取り消す**
@@ -82,9 +85,9 @@ ms.locfileid: "4490008"
 
 [ユーザーにライセンスを割り当てる](assign-licenses-to-users.md)
 
- 
+ 
 
- 
+ 
 
 
 

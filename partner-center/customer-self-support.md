@@ -1,16 +1,19 @@
 ---
 title: お客様のセルフ サポート | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: 顧客によるセルフ サポート
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 顧客によるセルフ サポート, セルフ サポート,
 ms.localizationpriority: medium
-ms.openlocfilehash: 7bfc4a75d384e5691763a6adca24f619bdee0a3b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874582"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794775"
 ---
 # <a name="customer-self-support"></a>顧客によるセルフ サポート
 
@@ -30,9 +33,9 @@ ms.locfileid: "2874582"
 
 ユーザーには、製品のヘルプが必要があります、[サポート](https://partnercenter.microsoft.com/partner/support)の製品のリソースを検索することができます。 パートナーは、これらのリソースを最初の手順としてお客様に示すことをお勧めします。
 
- 
+ 
 
- 
+ 
 
 
 

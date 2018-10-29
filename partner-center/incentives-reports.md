@@ -1,14 +1,17 @@
 ---
 title: 一部のインセンティブ プログラムにおける月次レポートからライブ データ レポートへの移行 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: OSA 販売およびオンライン サービスの使用量のインセンティブ プログラムで、ライブ データ レポートを利用できるようになりました。
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ae842761eb1de3c0c75c951033e128691e5029a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877132"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796185"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>一部のインセンティブ プログラムにおける月次レポートからライブ データ レポートへの移行
 
@@ -45,9 +48,9 @@ ms.locfileid: "2877132"
 6. 既定のビューである **[調整額]** にはデータが存在しない場合があります。  その場合は、**[収益]** または **[支払い]** ビューを選択します。
 
 
- 
+ 
 
- 
+ 
 
 
 

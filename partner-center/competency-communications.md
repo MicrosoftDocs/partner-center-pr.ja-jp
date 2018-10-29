@@ -1,19 +1,22 @@
 ---
 title: Communications コンピテンシー
+ms.topic: article
+ms.date: 10/29/2018
 description: Communications コンピテンシーは、革新的でカスタマイズされた Skype for Business ソリューションを提供しているパートナー様を認識します。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: コンピテンシー,コンピテンシー,Communications
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b202d8a1f134748f18b66edae1bae4b44e00aaef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0b52e39fee9abfe8e869d48c073ac42cb69637c1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877232"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794635"
 ---
 >[!IMPORTANT]
->このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスしてください。
+>このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。
 
 <!--
 #Communications

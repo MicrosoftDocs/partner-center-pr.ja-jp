@@ -1,14 +1,17 @@
 ---
 title: Office 365 E4 サブスクリプションの Office 365 の新しいバージョンへの移行 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft Office 365 Enterprise E4 エディションは、2017 年 4 月 7 日に廃止されました。 Office 365 の新しいバージョンに、お客様のサブスクリプションを移行する方法について説明します。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1dc3957d6abe4069f3868d49e92a458d20e7fbec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490178"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796105"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 サブスクリプションの Office 365 の新しいバージョンへの移行
 
@@ -21,7 +24,7 @@ Office 365 Enterprise E4 プランは、2017 年 4 月 7 日に廃止されま�
 E4 サブスクリプションは終了した時点で取り消されます。 お客様への継続的なサービス提供を保証するには、有効期限が迫っている E4 サブスクリプションのお客様を、サポートされている以下の SKU オプションに移行する必要があります。 お客様のサービスが中断することを避けるため、サブスクリプションの年間終了日前に新しいサブスクリプションにお客様を移行することをお勧めします。 
 
 > [!NOTE]  
->  Office 365 Enterprise E4 商用と行政機関用 Sku の両方が廃止されます。
+>  Office 365 Enterprise E4 商用と行政機関用 Sku の両方が廃止されました。
  
 サブスクリプションの詳細ページでは、E4 サブスクリプションの状態が、"自動更新: [日付]" から "有効期限: [date]" に変更されています。 
 
@@ -65,7 +68,7 @@ E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Bus
 
 ### <a name="step-1---purchase-the-new-subscription"></a>手順 1 - 新しいサブスクリプションを購入する
 
-1. **パートナー センター**メニューで、**顧客**を選びます、移行する顧客を選択し、**追加のサブスクリプション**を選択します。
+1. **パートナー センター**メニューで、**顧客**を選びますや、移行する顧客を選択し、**追加のサブスクリプション**を選択します。
 
 2. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、**[送信]** を選びます。
 
@@ -87,7 +90,7 @@ E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Bus
 
 ### <a name="step-3---cancel-the-old-subscription"></a>手順 3 - 以前のサブスクリプションを取り消す
 
-1. **パートナー センター**メニューで、**顧客**を選択します。 移行するお客様を選び、取り消すサブスクリプションを選びます。
+1. **パートナー センター**メニューで、**顧客**を選びます。 移行するお客様を選び、取り消すサブスクリプションを選びます。
 
 2. サブスクリプションの詳細ページで、サブスクリプションの状態を **[中断]** に設定します。
 
@@ -97,7 +100,7 @@ E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Bus
 
 
 
- 
+ 
 
 
 

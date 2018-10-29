@@ -1,15 +1,18 @@
 ---
 title: パートナー センターに関する問題の報告 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: パートナー センターに関する問題を報告する方法と、Microsoft のサポート チーム向けの診断情報を収集する方法について説明します。
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c7010f70ae6af549aab1a8f1affb926cf261d534
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 85e7f076cbb9b3a1b082edb020cf8134a844a733
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489278"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795325"
 ---
 # <a name="report-problems-with-partner-center"></a>パートナー センターに関する問題の報告
 
@@ -21,13 +24,13 @@ ms.locfileid: "4489278"
 
 パートナー センターの連絡先のサポートのバグを含む、パートナー センターに関する問題やサービスが停止した場合。
 
-**パートナー センターで問題を報告します。**
+**パートナー センターに関する問題を報告します。**
 
 1.  **パートナー センター**で**サポート**のアイコンを選択し、**パートナー センターの要求**を選択します。
 
 2.  **[新しい要求]** を選びます。
 
-3.  フォームに記入し、**[提出]** を選びます。 パートナーのサポート担当者が改めています。
+3.  フォームに記入し、**[提出]** を選びます。 パートナーのサポート担当者が改めてごします。
 
 **診断を送る**
 
@@ -51,5 +54,5 @@ ms.locfileid: "4489278"
 
 5.  ファイルをサポート要求に添付します。
 
-パートナー サポートでは、最新の情報を取得できるように、このツールを複数回実行することから求められる可能性があります。
+パートナーのサポートは、最新の情報を取得できるように、このツールを複数回実行要求可能性があります。
 

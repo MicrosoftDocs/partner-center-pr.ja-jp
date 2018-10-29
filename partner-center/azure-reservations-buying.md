@@ -1,15 +1,18 @@
 ---
 title: 顧客に代わって Microsoft Azure Reservations を購入する | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 Description: Buy Azure reservations on behalf of customers in Partner Center.
 author: v-petand
+ms.author: v-petand
 keywords: azure reservations を管理, 請求, 購入
 ms.localizationpriority: medium
-ms.openlocfilehash: 79c6fcfea47787165e958096f23bc14a97b9b85c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: 0cc6c3632b16af99c3becb9d00a81a283ab2ab5c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658108"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797195"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure reservations を購入します。 
 
@@ -21,7 +24,7 @@ ms.locfileid: "4658108"
 
 パートナー センターで顧客に代わって Microsoft Azure reservations を購入するのには、次の手順に従います。
 
-1. パートナー センター メニューから**顧客**を選択します。  
+1. パートナー センター メニューから**顧客**を選びます。  
 
 2. **[顧客]** ページで、Azure Reservations を購入する顧客を見つけ、下矢印を選択して顧客行を展開します。  
 
@@ -51,16 +54,16 @@ ms.locfileid: "4658108"
     b.  予約の範囲を選択します。 予約の範囲には、1 つのサブスクリプションまたは複数のサブスクリプション (共有範囲) を指定できます。 1 つのサブスクリプションを予約の範囲を指定する場合は、このサブスクリプションのみに予約割引が適用されます。 選択した場合、顧客の請求コンテキスト内のすべてのサブスクリプションに共有、予約割引が適用されます。 
 
      >[!NOTE]
-    >予約の範囲は 1 つの Azure サブスクリプションに限定することを選択する場合は、サブスクリプションの vCPU クォータを大きく必要があります。 サブスクリプションの vCPU クォータを強化するには、Azure portal でサポート要求を作成する必要があります。 次の手順は、[このトピックで](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)要求を作成します。    
+    >予約の範囲は 1 つの Azure サブスクリプションに限定する場合は、サブスクリプションの vCPU クォータを大きく必要があります。 サブスクリプションの vCPU クォータを強化するには、Azure portal でサポート要求を作成する必要があります。 次の手順は、[このトピックで](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)要求を作成します。    
 
-    c. プロバイダー パートナーがいる場合は、製品に関連付けるリセラーを選択します。
+    c. プロバイダー パートナーにいる場合は、製品に関連付けるリセラーを選択します。
 
 9. **[購入]** を選択して注文内容を購入します。 **[確認]** ページでは、お客様の注文番号を含む注文の詳細が表示されます。    
      
      **[完了]** を選択して **[注文履歴]** ページに移動します。 
 
 >[!IMPORTANT]
->これをまだ**顧客**] ページで、顧客を見つけ、下矢印を顧客の行を展開を選択しています。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。
+>これをまだ下矢印を顧客の行を展開を選択して、[**顧客**] ページで顧客を検索します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
 |**情報**   |**参照先**    |

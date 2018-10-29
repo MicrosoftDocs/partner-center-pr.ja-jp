@@ -2,17 +2,18 @@
 layout: LandingPage
 hide_bc: true
 title: ここから開始すると、パートナー センター ヘルプ
-description: アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このパートナー センターで回答具体的には、プログラムと CSP と MPN パートナー用に作成されたライブラリのヘルプを検索します。
-author: v-chmccl
 ms.topic: landing-page
+ms.date: 10/29/2018
+description: アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このパートナー センターで回答具体的には、プログラムと CSP と MPN パートナー用に作成されたライブラリのヘルプを検索します。 
+author: v-chmccl
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489678"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795915"
 ---
 # <a name="start-here-for-help-with-partner-center"></a>ここから開始すると、パートナー センター ヘルプ
 
@@ -85,7 +86,7 @@ ms.locfileid: "4489678"
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">パートナー センターのツアーを実行</a>(サインインが必要)</h3>
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">パートナー センターのツアー</a>(サインインが必要)</h3>
                     </div>
                 </div>
             </div>

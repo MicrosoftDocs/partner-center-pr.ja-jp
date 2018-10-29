@@ -1,15 +1,18 @@
 ---
 title: 特別価格の対象となる業界への販売 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 Description: Microsoft provides special, reduced pricing for select groups of customers, including education customers, non-profit customers, and government users.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: d252af955ea82d42ebd8196ad020088edee43dfb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489588"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795015"
 ---
 # <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 
@@ -36,7 +39,7 @@ ms.locfileid: "4489588"
 
 ## <a name="check-the-customer-qualifications"></a>お客様の認定状態を確認する
 
-1.  **パートナー センター**メニューで、**顧客**を選択します。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューで、**顧客**を選びます。 一覧から顧客を選びます。
 2.  顧客メニューの **[アカウント]** を選びます。 
           **[会社情報]** セクションの **[Special qualifications]** を参照します。
 3.  **[特別な資格]** が **[なし]** に設定されていても、お客様が資格条件を満たしている場合は、顧客情報を**更新**して、そのお客様を対象に含めることができます。
@@ -50,11 +53,11 @@ ms.locfileid: "4489588"
 [教育機関の顧客に Minecraft: Education Edition サブスクリプションを販売する](minecraft-subscriptions.md)
 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

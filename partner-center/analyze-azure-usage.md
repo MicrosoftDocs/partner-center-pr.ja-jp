@@ -1,21 +1,21 @@
 ---
-title: Azure の使用量を分析 |パートナー センター
+title: Azure 使用率の分析 |パートナー センター
+ms.date: 07/12/2018
 Description: Get data about the usage of your customers' Azure subscriptions.
 Author: Xansky
 ms.author: mhopkins
-ms.date: 07/12/2018
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
-ms.openlocfilehash: 08ff3c7b4e00c46365713df4ea927ba716a41c0e
-ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
+ms.openlocfilehash: e5ed6ce99a8319ce2e86b8522f1bdf40ccf5b2f9
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "3405414"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795665"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>顧客の Azure サブスクリプションの使用状況に関するデータを取得します。 
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>顧客の Azure サブスクリプションの利用状況に関するデータの取得 
 
 **適用対象**
 - パートナー センター
@@ -27,19 +27,19 @@ ms.locfileid: "3405414"
 
 次のメトリックを追跡しています。
 
-**要約**  
- - **合計 Azure サブスクリプションの販売**: サブスクリプションの数が指定した期間内で販売  
- - **顧客の使用方法**: 指定した期間での Azure の使用状況とユーザーの数  
+**まとめ**  
+ - **販売の合計 Azure サブスクリプション**: サブスクリプションの数が指定した期間内で販売  
+ - **顧客の使用方法**: 指定された期間での Azure の使用状況とユーザーの数  
  - **使用することがなく顧客**: 指定された期間での Azure の使用することがなく、ユーザーの数  
 
-**上のカテゴリで 5 つのユーザー**  
+**カテゴリの上位 5 顧客**  
  -  指定されたカテゴリの上位 5 顧客  
 
 **使用することがなくサブスクリプション**  
  -  指定した期間での Azure の使用することがなく割り当ててサブスクリプションの一覧  
 
 **Azure サブスクリプションのチャーン**  
- - **アクティブなサブスクリプション**: 日付でアクティブなサブスクリプションの数。  
+ - **アクティブなサブスクリプション**: 日付でアクティブなサブスクリプション数  
  - **Deprovisioned サブスクリプション**: サブスクリプションの数のプロビジョニングを解除または日付によって中断  
 
 **顧客数**

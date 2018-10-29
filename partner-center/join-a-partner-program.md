@@ -1,14 +1,17 @@
 ---
 title: Microsoft Partner Network に参加する | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: パートナー センターで Microsoft Action Pack を購入し、コンピテンシーを獲得しましょう
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489718"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796995"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft Partner Network (MPN) に参加する
 
@@ -19,9 +22,9 @@ ms.locfileid: "4489718"
 
 ## <a name="new-to-the-partner-center"></a>パートナー センターに新しい
 
- Microsoft のパートナーになると、ビジネスを変換するための新しいビジネス チャンスにアクセスできます。 パートナー センターで購入および Microsoft Action Pack の更新し、コンピテンシーとそれらを実現する方法についての情報に簡単にアクセスがあります。
+ Microsoft のパートナーになると、ビジネスを変換するための新しいビジネス チャンスにアクセスできます。 パートナー センターで購入および Microsoft Action Pack を更新し、コンピテンシーとそれらを実現する方法についての情報に簡単にアクセスがあります。
 
- MAPS またはコンピテンシー パートナー センターでのメンバーシップを管理するパートナーを段階的に招待しますしている契約応当日、パートナー センターの主要な機能が利用可能であり、ビジネスのニーズに合わせて実証済みの場合。  現時点では、移行の案内を受け取るまで、Partner Membership Center (PMC) でのメンバーシップの更新および管理をご計画ください。
+ MAPS またはコンピテンシーのパートナー センターでのメンバーシップ管理をパートナーを徐々 に招待しますしている契約応当日、パートナー センターの主要な機能が利用可能であり、ビジネスのニーズに合わせて実証済みの場合。  現時点では、移行の案内を受け取るまで、Partner Membership Center (PMC) でのメンバーシップの更新および管理をご計画ください。
 
 ## <a name="get-your-mpn-id"></a>MPN ID を取得する
 

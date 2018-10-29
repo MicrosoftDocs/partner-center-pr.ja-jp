@@ -1,16 +1,19 @@
 ---
 title: 既存のサブスクリプションへのライセンスまたはサービスの追加 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: 顧客が現在提供されているサブスクリプションよりも多くのライセンスを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 既存のサブスクリプションにライセンスを追加する, 既存のサブスクリプションにシートを追加する, サブスクリプションを変更する, サブスクリプションの変更, 顧客のライセンスを追加購入する
 ms.localizationpriority: medium
-ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489728"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795975"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>既存のサブスクリプションへのライセンスまたはサービスの追加
 
@@ -38,7 +41,7 @@ ms.locfileid: "4489728"
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Business</td>
+<td>Office365Business</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 ProPlus</li>
@@ -47,14 +50,14 @@ ms.locfileid: "4489728"
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Business Premium</td>
+<td>Office365BusinessPremium</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Business Essentials</td>
+<td>Office365BusinessEssentials</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 Enterprise E1</li>
@@ -64,12 +67,12 @@ ms.locfileid: "4489728"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Business India と Office 365 Business Essentials India は、Office 365 Business Premium ではなく Office 365 Business Premium India にアップグレードできます。</p></td>
+<td><p>¹ Office365BusinessIndia と Office365BusinessEssentialsIndia Office365BusinessPremium しないように、Office365BusinessPremiumIndia にアップグレードできます。</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
 次の条件が満たされた場合に、サブスクリプションをアップグレードできます。
 
@@ -90,11 +93,11 @@ ms.locfileid: "4489728"
 1.  サブスクリプションがアップグレードの対象かどうかを調べるには、顧客を選択し、顧客のサブスクリプションの一覧を開きます。
 2.  サブスクリプションがアップグレード可能な場合、サブスクリプション名の直後に情報アイコンが表示されます。 そのアイコンの上をホバーし、**[今すぐアップグレード]** を選びます。
 3.  新しいプランを選択し、**[送信]** を選びます。
-4.  一部のユーザー アカウントを特定のサービス向けに切り替えるための追加作業が必要な場合があります。 その場合は、パートナー センターは、アカウントとが影響を受けたサービスの一覧を示します。 ヘルプが必要な場合は、サポート技術情報の記事「[Office 365 でプランを切り替える際に発生するライセンスの再アサイン問題](http://go.microsoft.com/fwlink/p/?LinkId=723576)」をご覧ください。
+4.  一部のユーザー アカウントを特定のサービス向けに切り替えるための追加作業が必要な場合があります。 その場合は、パートナー センターは、アカウントとサービスを受けるの一覧を示します。 ヘルプが必要な場合は、サポート技術情報の記事「[Office 365 でプランを切り替える際に発生するライセンスの再アサイン問題](http://go.microsoft.com/fwlink/p/?LinkId=723576)」をご覧ください。
 
- 
+ 
 
- 
+ 
 
 
 

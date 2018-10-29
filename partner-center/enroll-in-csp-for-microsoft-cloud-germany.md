@@ -1,14 +1,17 @@
 ---
 title: Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムに登録する | Microsoft Cloud ドイツのパートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ff6e0c0ecbf6ef67ae22f21dca25a0026ae0b59
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7ed0b90395e3a15dd03963891dbadc9b1feebeec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489628"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796975"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムに登録する
 
@@ -36,7 +39,7 @@ ms.locfileid: "4489628"
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>手順 1 - Microsoft Cloud ドイツ用にパートナー センターのアカウントを作成する 
 
-1.  Microsoft Cloud ドイツの CSP への登録をするには[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)**サインイン**を選択します。 
+1.  Microsoft Cloud ドイツの CSP への登録するには[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)**サインイン**を選択します。 
 
 2.  グローバル管理者の資格情報を使用して、お勤め先がお持ちの Office 365、Microsoft Azure、または Microsoft Dynamics の Microsoft Cloud ドイツ アカウントにサインインします。 これらのポータルのアカウントをお勤め先がお持ちでない場合は、**[1 つ作成]** を選択してサインアップしてください。
 

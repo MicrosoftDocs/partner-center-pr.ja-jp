@@ -1,15 +1,18 @@
 ---
 title: Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 Description: Skype for Business Online Plan 1 subscriptions is retiring.
-Author: labrenne
+author: labrenne
+ms.author: labrenne
 keywords: Skype for Business の計画、Skype の提供終了、Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489808"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797165"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行
 
@@ -51,13 +54,13 @@ API (CREST またはパートナー センターのいずれか) を使用して
 
 ### <a name="migrate-your-customers-to-new-plans"></a>新しいプランにお客様を移行する
 
-1. **パートナー センター メニュー**から、新しいサブスクリプションを購入するには、**顧客**を選びます、移動する顧客を選択し、**追加のサブスクリプション**を選択します。
+1. **パートナー センター メニュー**から、新しいサブスクリプションを購入するには、**顧客**を選びますを**追加のサブスクリプション**を選択して、移動する顧客を選択します。
 
 2. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、**[送信]** を選びます。 
 
 この時点で、お客様には以前のサブスクリプションと新しいサブスクリプションの両方が割り当てられることになります。この例では、以前の Skype for Business Online プラン 1 サブスクリプションと、新しい移行先のサブスクリプション (オプション1 の Office 365 Enterprise F1 など) です。
 
-3. **パートナー センター**メニューで、顧客のユーザーのライセンスをもう一度割り当てる**顧客**を選択して、移動して、**ユーザーとライセンス**を選択して、顧客をオンにします。 顧客の [ユーザーとライセンス] ページが開きます。
+3. **パートナー センター**メニューで、顧客のユーザーのライセンスをもう一度割り当てる**ユーザー**を選択して、移動して、**ユーザーとライセンス**を選択して、顧客をオンにします。 顧客の [ユーザーとライセンス] ページが開きます。
 
 4. ユーザー ライセンスをもう一度割り当てるには、割り当てるユーザーを選んで **[ライセンスの管理]** を選びます。
 
@@ -67,7 +70,7 @@ API (CREST またはパートナー センターのいずれか) を使用して
 
 ユーザー ライセンスを新しいサービスに移行した後は、顧客レベルで廃止されたサブスクリプションを安全に取り消すことができます。
 
-7. **パートナー センター**メニューで、**顧客**を選択します。 サブスクリプションをキャンセルする顧客を選択します。
+7. **パートナー センター**メニューで、**顧客**を選びます。 サブスクリプションをキャンセルする顧客を選択します。
 
 8. サブスクリプションの詳細ページで、サブスクリプションを **[中断]** に設定します。
 

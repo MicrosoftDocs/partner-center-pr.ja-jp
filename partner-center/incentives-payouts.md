@@ -1,14 +1,17 @@
 ---
 title: インセンティブの支払いについて | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: インセンティブの収益と支払いスケジュールは、将来の計画に役立ちます。
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fcfed49df579ef952fa152b14645c09f8766c84
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 74811348b14ecad7afc214337fae760c43e4de63
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876792"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796355"
 ---
 #<a name="understand-your-incentives-payouts"></a>インセンティブの支払いについて
 

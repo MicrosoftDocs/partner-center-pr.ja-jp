@@ -1,16 +1,19 @@
 ---
 title: CSP の地域承認 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: 地域承認によって、国際的なビジネスを行っているパートナーは、世界中のさまざまな地域や国の顧客をより簡単に管理することができます。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: Azure AD テナント, テナントの統合, テナント戦略, CSP のテナント, CSP のパートナー アカウント, CSP の市場と対象地域, CSP で販売できる国または地域
 ms.localizationpriority: medium
-ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 351fbad0bfc818b16ca7a40eccedefb4dfea9307
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377634"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796635"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>CSP でのテナント統合戦略
 
@@ -69,7 +72,7 @@ ms.locfileid: "4377634"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="one-tenant-for-multiple-regions-or-countries"></a>複数の地域または国で 1 つのテナントを使用
 
@@ -101,7 +104,7 @@ ms.locfileid: "4377634"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="some-tenants-for-some-regions-or-countries"></a>一部の地域または国でいくつかのテナントを使用
 
@@ -137,7 +140,7 @@ ms.locfileid: "4377634"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="consolidating-tenants"></a>テナントの統合
 
@@ -211,7 +214,7 @@ ms.locfileid: "4377634"
 | AUD | オーストラリア、クリスマス島、ココス (キーリング) 諸島、クック諸島、フィジー、ハード島・マクドナルド諸島、キリバス、マーシャル諸島、ナウル、ニウエ、ノーフォーク島、北マリアナ諸島、パラオ、パプアニューギニア、ピトケアン諸島、ソロモン諸島、トケラウ、トンガ、ツバル、ウォリス・フツナ。 |
 
 
- 
+ 
 
 
 

@@ -1,14 +1,17 @@
 ---
 title: Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理 | Microsoft Cloud ドイツのパートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: 個人データの収集と使用に適用される国、地域、および業界固有の要件に準拠するためのユーザー管理機能が、Microsoft Cloud ドイツのパートナー センターでは利用できません。 代わりに、Microsoft Cloud ドイツの Azure ポータルでユーザーを追加および管理します。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ee4215c106076d3bc548efa50dd921ae3d5987a
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: ae81568aeeb703470549d08b0e39b6ec07e0ba6e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377414"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797025"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
 
@@ -35,7 +38,7 @@ Microsoft Cloud ドイツのパートナー センターにサインインして
 Microsoft Cloud ドイツの Azure ポータルに正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
 
 > [!NOTE]  
-> 以下のリンクを選択するかかる別の web サイトにします。 
+> 以下のリンクを選択するは、さまざまなの web サイトにします。 
 
 -  [**Azure Active Directory に新しいユーザーを追加する**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

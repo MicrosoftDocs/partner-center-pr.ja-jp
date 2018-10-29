@@ -1,15 +1,18 @@
 ---
 title: 顧客向けに Azure の支出の予算を設定する | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: 月末の Azure の請求金額が顧客にとって予期しない金額にならないように、パートナー センターで顧客ごとの月額予算を設定できます。
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f6e0e733aed13174dcf4d318b522723bb425b30
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 98b6a4839b599a43ba6c10506468be7dbd064d43
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488958"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794985"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>顧客向けに Azure の支出の予算を設定する
 
@@ -30,7 +33,7 @@ ms.locfileid: "4488958"
 Azure の支出データは推定値であり、実際の請求金額は異なることがあります。また、税、クレジット、調整額、または適用されることがあるその他の料金は値に反映されていません。 支出データは 1 日 1 回更新されます。 Azure ポータルでアカウント設定を変更しない限り、顧客の Azure サービスおよびリソースの使用は継続され、顧客に課金されます。 
 
 > [!NOTE]  
-> この機能はサンド ボックスまたは Test in Production (TIP) アカウントです。
+> この機能はでサンド ボックスまたは Test in Production (TIP) アカウントで利用可能ではありません。
 
 **メール通知を有効にする**
 1.  パートナー センター メニューで、 **Azure の支出**を選択します。
@@ -49,14 +52,14 @@ Azure の支出データは推定値であり、実際の請求金額は異な�
 3.  **[予算の削除]** を選びます。
 
 **明細コストを確認する**
-1.  パートナー センター メニューで、**顧客**を選択します。
+1.  パートナー センター メニューで、**顧客**を選びます。
 2.  顧客の一覧からお客様を選びます。
 3.  お客様の管理ページで、**[Usage-based subscriptions]** (使用量ベースのサブスクリプション) からサブスクリプションを選びます。 そのサブスクリプションの現在の推定使用量とサービスごとの明細コストの一覧を表示します。
 
 
- 
+ 
 
- 
+ 
 
 
 

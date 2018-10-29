@@ -1,14 +1,17 @@
 ---
 title: プロモーションを使用して、新しい顧客の関心を引く |パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: クラウド ソリューション プロバイダー プログラムの Microsoft パートナーは、プロモーション価格でサブスクリプションを購入し、顧客に割引価格で販売することができます。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fa719f0824e525a2c63b58970b3385c63056a135
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488988"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795055"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>プロモーションを使用して、新しい顧客の関心を引く  
 
@@ -32,14 +35,14 @@ ms.locfileid: "4488988"
 
 ## <a name="see-available-promotions"></a>利用可能なプロモーションを確認する
 
-利用できるプロモーションがある場合は、**[プロモーション]** ページで確認できます。 現在のプロモーションと共に割引、プロモーションの種類、および開始日と終了日、サブスクリプションの一覧を表示する、**パートナー センター**メニューから**の昇格**を選択します。 利用できるプロモーションがない場合は、そのことを示すメッセージが表示されます。 
+利用できるプロモーションがある場合は、**[プロモーション]** ページで確認できます。 **プロモーション**を現在のプロモーションと共に割引、プロモーションの種類、および開始日と終了日、サブスクリプションの一覧を表示する、**パートナー センター**メニューから選択します。 利用できるプロモーションがない場合は、そのことを示すメッセージが表示されます。 
 
 > [!NOTE]  
 > 購入時にプロモーションを確認することもできます。 サブスクリプションを選択すると、割引率が **[確認]** ページに表示されます。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>割引価格でサブスクリプションを購入する
 
-1. **パートナー センター**メニューでは、**顧客**を選択し、その後、サブスクリプションを購入した顧客を選択します。 
+1. **パートナー センター**メニューでは、**顧客**を選択し、サブスクリプションを購入する顧客を選択します。 
 
 2. 
           **[サブスクリプションの追加]** を選びます。

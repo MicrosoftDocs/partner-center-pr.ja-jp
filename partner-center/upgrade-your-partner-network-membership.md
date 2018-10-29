@@ -1,15 +1,18 @@
 ---
 title: Microsoft Partner Network メンバーシップのアップグレード | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft Partner Network メンバーシップをアップグレードすると、限定のメンバーシップ特典を利用できるようになります。 ここでは、提供されている特典を確認および購入する方法について説明します。
 author: MaggiePucciEvans
+ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489708"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795715"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 
@@ -29,7 +32,7 @@ ms.locfileid: "4489708"
 
   - Gold コンピテンシー – 特定のマイクロソフト ソリューション分野におけるクラス最高の能力を備えたパートナーに与えられます
 
-Microsoft Partner Network メンバーシップに参加すると、メンバーシップをアップグレードし、限定のメンバーシップ特典を購入できるようになります。 Microsoft Partner Network でメンバーシップについて詳しくに移動します。[https://partner.microsoft.com](https://partner.microsoft.com)します。
+Microsoft Partner Network メンバーシップに参加すると、メンバーシップをアップグレードし、限定のメンバーシップ特典を購入できるようになります。 移動するのには、Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com)します。
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入する

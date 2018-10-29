@@ -1,16 +1,19 @@
 ---
 title: Azure Reservations の請求 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information about billing for Azure reservations.
 author: v-petand
+ms.author: v-petand
 keywords: Azure RI, Azure 予約インスタンス, 予約, VM, 管理, 請求, 購入
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 846f2863e9c4dc9967b8c337bcab40f153b99eb6
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7aec5102d2ff76d321474e6e580acde6a854a9b5
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489438"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796725"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure Reserved VM Instances の請求
 
@@ -27,7 +30,7 @@ ms.locfileid: "4489438"
 >[!IMPORTANT]
 >通貨が異なる市場の顧客用に Azure Reserved VM Instances を購入する場合、既定の請求通貨はパートナーではなく顧客の市場がベースになります。 顧客が複数の市場に存在する場合は、顧客への請求が必要な各通貨について、個別の請求書と調整ファイルが届き、適切な通貨で顧客に請求できます。 
 
-1 回限りの料金の請求書と調整ファイルにアクセスするには、パートナー センターから**請求**を選択しを**1 つの時刻**を選択します。 
+1 回限りの料金の請求書と調整ファイルにアクセスするには、パートナー センターから**請求**を選択しをし、 **1 つの時刻**を選択します。 
 
 クラウド ソリューション プロバイダー プログラムでの請求について詳しくは、「[課金の基本](billing-basics.md)」をご覧ください。
 
@@ -103,7 +106,7 @@ ms.locfileid: "4489438"
 
 ### <a name="view-a-customers-order-history"></a>顧客の注文履歴を表示する
 
-1.  パートナー センター メニューから**顧客**を選択します。
+1.  パートナー センター メニューから**顧客**を選びます。
 2.  **[顧客]** ページで、注文履歴を表示する対象の顧客を見つけ、下矢印を選択して顧客レコードを展開します。 
 3.  **[View orders]** (注文の表示) を選択して注文履歴を表示します。
 

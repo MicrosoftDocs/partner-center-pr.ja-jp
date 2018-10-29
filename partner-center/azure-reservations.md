@@ -1,15 +1,18 @@
 ---
-title: Microsoft Azure reservations 概要 |パートナー センター
+title: Microsoft Azure reservations の概要 |パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
-keywords: azure reservations を管理, 請求, 購入, Azure RI, Azure Reserved Instances
+ms.author: v-petand
+keywords: azure 予約の管理, 請求, 購入, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658118"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797235"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>販売 Microsoft Azure 予約インスタンス 
 
@@ -19,10 +22,10 @@ ms.locfileid: "4658118"
 -  Microsoft Azure portal
 -  CSP のパートナー
 
-クラウド ソリューション プロバイダー (CSP) プログラムのパートナーが顧客に提供できる Microsoft Azure のインスタンスを予約します。 お客様は、事前に予約できると、大幅に削減を実現できます。 Azure Reserved Instances で顧客に提供簡潔さと柔軟性、次の方法。
+クラウド ソリューション プロバイダー (CSP) プログラムのパートナーが顧客に提供できる Microsoft Azure のインスタンスが予約されています。 お客様は、事前に予約できると、大幅な削減を実現できます。 Azure Reserved Instances で顧客に提供簡潔さと柔軟性、次の方法。
 
 -   1 ～ 3 年の予約期間。 
--   簡単に作成します。秒で完了のセットアップ 
+-   簡単に作成します。セットアップを秒単位で完了 
 -   予約インスタンスはいつでも取り消しまたは交換でき、払い戻しが調整されます。 
 -   組織レベルまたは個々の部署レベルで予約インスタンスの使用状況を管理できます。 
 

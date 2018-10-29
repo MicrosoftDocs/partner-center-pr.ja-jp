@@ -1,15 +1,18 @@
 ---
 title: 課金の基本 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
+ms.author: labrenne
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ebab84673a5651cb40223ef9d1483eb1d0322e51
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490068"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797105"
 ---
 # <a name="billing-basics"></a>課金の基本
 
@@ -79,7 +82,7 @@ ms.locfileid: "4490068"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="license-based-billing"></a>ライセンスベースの課金
 
@@ -111,7 +114,7 @@ ms.locfileid: "4490068"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="usage-based-billing"></a>使用量ベースの課金
 
@@ -157,7 +160,7 @@ Azure は "従量" モデルで運用され、使用した Azure サービスに
 >[!IMPORTANT]
 >通貨が異なる市場の顧客用に Azure Reserved VM Instances を購入する場合、既定の請求通貨はパートナーではなく顧客の市場がベースになります。 顧客が複数の市場に存在する場合は、顧客への請求が必要な各通貨について、個別の請求書と調整ファイルが届き、適切な通貨で顧客に請求できます。 
 
-1 回限りの料金の請求書と調整ファイルにアクセスするには、パートナー センターから**請求**を選択しを**1 つの時刻**を選択します。 
+1 回限りの料金の請求書と調整ファイルにアクセスするには、パートナー センターから**請求**を選択しをし、 **1 つの時刻**を選択します。 
 
 ### <a name="manage-your-one-time-billing"></a>1 回限りの請求を管理する
 
@@ -168,12 +171,12 @@ Azure は "従量" モデルで運用され、使用した Azure サービスに
 
 #### <a name="view-a-customers-order-history"></a>顧客の注文履歴を表示する
 
-1.  パートナー センター メニューから**顧客**を選択します。
+1.  パートナー センター メニューから**顧客**を選びます。
 2.  **[顧客]** ページで、注文履歴を表示する対象の顧客を見つけ、下矢印を選択して顧客レコードを展開します。 
 3.  **[View orders]** (注文の表示) を選択して注文履歴を表示します。
 
 #### <a name="download-a-credit-note"></a>クレジット メモをダウンロードします。
 
-完全な返金額 (Void 請求書) と再請求額を実行することを付けてする元の請求書とも新しいドキュメントをキャンセルするクレジット メモします。 次の理由でクレジット/再請求額を要求することができます。
+完全な返金額 (Void 請求書) と再請求額を実行することを付けてしたクレジット メモを元の請求書とも新しいドキュメントを取り消します。 次の理由でクレジット/再請求額を要求することができます。
 -   アドレスまたは購入順序の修正
--   請求書が生成され、税払い戻しの適用されます。 元の請求書に課税払い戻しを取得するクレジット/再請求を要求することができます。 これは返金を true に設定を元の請求書とし、払い戻しのプルのクレジット/再請求を要求することができます。
+-   請求書が生成され、税払い戻しの適用されます。 クレジット/した再請求額を取得元の請求書に課税払い戻しを要求できます。 これは返金を true に設定を元の請求書とし、払い戻しでプルのクレジット/再請求を要求することができます。

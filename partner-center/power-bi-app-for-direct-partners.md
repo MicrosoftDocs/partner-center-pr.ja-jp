@@ -1,15 +1,18 @@
 ---
 title: Power BI 用パートナー センター分析アプリ | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: Power BI 用パートナー センターアプリをインストールします。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cba33fde9095850af24f857e4bec84abb83607df
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 7da056ed927c511de37d853f481c5a898d417dcc
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377644"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796155"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け)
 
@@ -43,11 +46,11 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 | アプリの価格を教えてください。 | アプリ自体は無償です。 アプリをプレビューするには[無償の Power BI サービスにサインアップ](https://go.microsoft.com/fwlink/p/?linkid=845347)し、それを使用してダッシュ ボードとレポートをカスタマイズします。 社内の他のユーザーがアプリを使用できる環境に設定するには、Microsoft Power BI Professional または Microsoft Power BI Premium のアクティブなサブスクリプションが必要です。 |
 | パートナー センターの分析アプリに接続できるのは、どのようなユーザーですか? | このバージョンのアプリは、クラウド ソリューション プロバイダー プログラムの直接パートナー (階層 1) を対象としています。 直接パートナーとは、マイクロソフトおよび顧客と直接取引するパートナーを指します。 このアプリは、企業アカウントの全体管理者、管理エージェント、請求管理者のいずれかの権限を持つユーザーのみがインストールできます。 |
 | 間接プロバイダーは、アプリを使用できますか? | はい、ご利用いただけます。 全体管理者、管理エージェント、請求管理者は、アプリをインストールし、直接ユーザーに関するデータを表示できます。 今後のリリースでは、間接リセラーに関するデータを表示できる機能が追加される可能性があります。 |
-| 今後のリリースについての情報は、どのように入手できますか? | お知らせとプレビュー リリースは、パートナー センターの早期導入者プログラムを通じて提供されます。 プログラムに参加されていない場合は、サインアップしてですぐに[https://partnercenter.microsoft.com/en-us/partner/early-adopter-program](https://partnercenter.microsoft.com/en-us/partner/early-adopter-program)します。 早期導入者プログラムに参加すると、フィードバックを共有することもできます。 |
+| 今後のリリースについての情報は、どのように入手できますか? | お知らせとプレビュー リリースは、パートナー センターの早期導入者プログラムを通じて提供されます。 プログラムにご参加しているされていない場合はへのサインアップですぐに、[https://partnercenter.microsoft.com/en-us/partner/early-adopter-program](https://partnercenter.microsoft.com/en-us/partner/early-adopter-program)します。 早期導入者プログラムに参加すると、フィードバックを共有することもできます。 |
 | アプリのダッシュボードやレポートをカスタマイズできるのは、どのようなユーザーですか? | アプリをインストールした全体管理者、管理エージェント、請求管理者のみが、Power BI の Web インターフェイスでダッシュ ボードをカスタマイズし、新しいレポートを作成できます。 |
 | アプリのダッシュボードやレポートを表示できるのは、どのようなユーザーですか? | アプリをインストールした全体管理者、管理エージェント、課金管理者は、Microsoft Power BI Professional または Microsoft Power BI Premium のアクティブなサブスクリプションを持つすべてのユーザーとアプリのデータを共有できます。 |
 | アプリを使用して、複数の場所にある複数の Azure AD テナントのデータを表示できますか? | このリリースでは、管理エージェントまたはグローバル管理者がログインしている Azure AD のデータのみを表示できます。 | 
-| このアプリでは、いつ頃、英語以外の言語が使用できるようになりますか? | ロードマップのお知らせは、パートナー センターの早期導入者プログラムを通じてリリースされます。 プログラムに参加されていない場合は、サインアップしてですぐに[https://partnercenter.microsoft.com/en-us/partner/early-adopter-program](https://partnercenter.microsoft.com/en-us/partner/early-adopter-program)します。 早期導入者プログラムに参加すると、フィードバックを共有することもできます。 | 
+| このアプリでは、いつ頃、英語以外の言語が使用できるようになりますか? | ロードマップのお知らせは、パートナー センターの早期導入者プログラムを通じてリリースされます。 プログラムにご参加しているされていない場合はへのサインアップですぐに、[https://partnercenter.microsoft.com/en-us/partner/early-adopter-program](https://partnercenter.microsoft.com/en-us/partner/early-adopter-program)します。 早期導入者プログラムに参加すると、フィードバックを共有することもできます。 | 
 
 
 

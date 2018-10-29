@@ -1,15 +1,18 @@
 ---
 title: Silver および Gold メンバーシップ獲得のための Microsoft コンピテンシー要件について | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: Silver および Gold メンバーシップ レベルを獲得するためのコンピテンシー要件について説明します。
-author: Maggiepuccievans
+author: MaggiePucciEvans
+ms.author: evansma
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ
 ms.localizationpriority: medium
-ms.openlocfilehash: 705a9037282a77d33dd356e8d49fe855b5521a9a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: c4546c8e7675f2d25cd29da765c1320531c8c11f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875732"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796825"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Silver および Gold メンバーシップ獲得のための Microsoft コンピテンシー要件
 

@@ -1,16 +1,19 @@
 ---
 title: 職場アカウントとパートナー センター | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: パートナー センター アカウントを作成するには、会社の職場アカウントが必要です。
 author: labrenne
+ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a9187e62d29409ad44dcc58c2da7f54a3c0fc69
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489748"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796395"
 ---
 # <a name="your-company-work-account-and-the-partner-center"></a>会社の職場アカウントとパートナー センター  
 
@@ -25,7 +28,7 @@ ms.locfileid: "4489748"
 会社に職場アカウントが既にある場合は、そのアカウントをパートナー センター アカウントにリンクできます。 
 
 > [!NOTE]  
->  既存の職場アカウントを使用する前に、アカウント内のユーザーの数を必要とするパートナー センターで作業を考えてみてください。 パートナー センターで作業する必要があるアカウントでユーザーが存在する場合は、パートナー センターで作業する必要があるユーザーだけの新しいアカウントの作成を検討してください。
+>  既存の職場アカウントを使用する前に、アカウント内のユーザーの数は、パートナー センターで作業する必要があります考えてみてください。 パートナー センターで作業する必要があるアカウントでユーザーが存在する場合は、パートナー センターで作業する必要があるユーザーだけの新しいアカウントの作成を検討してください。
 
 職場アカウントが会社にまだない場合は、登録プロセスを通じて無料で作成できます。 
 

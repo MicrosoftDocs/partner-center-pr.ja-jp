@@ -1,15 +1,17 @@
 ---
 title: Microsoft クラウド ソリューション プロバイダーの利用可能な市場および顧客契約 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: 市場固有の顧客契約テンプレートをパートナー センターからダウンロードする
 author: Maggie Evans
 keywords: Microsoft Cloud 契約, 顧客契約テンプレート, CSP 顧客契約, MCA, Microsoft Cloud 契約 (MCA), CSP, CSP で販売できる国または地域, CSP の国または地域, CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南米, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 629d15b8a233168420147b8324d85bbee385b170
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377814"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797325"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Microsoft クラウド ソリューション プロバイダーの市場および顧客契約
 

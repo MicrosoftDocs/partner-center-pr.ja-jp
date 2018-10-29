@@ -1,14 +1,17 @@
 ---
 title: 顧客との再販業者関係の削除 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: 関係を削除すると、終了したすべてのビジネス関係がパートナー センターのビューから削除されます。
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: a647178ae75b52930cc8eab5258179ed27696912
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 61f2435d7e310623338444524ae5382c6e69fa00
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489738"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797075"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>顧客との再販業者関係の削除
 

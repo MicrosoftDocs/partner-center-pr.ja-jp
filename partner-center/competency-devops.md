@@ -1,19 +1,22 @@
 ---
 title: DevOps コンピテンシー
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft の開発プラットフォームの DevOps 機能を活用することによりソフトウェア ライフサイクルを管理できるようにする点で企業と連携する経験が豊富にある場合、DevOps コンピテンシーはマイクロソフトのパートナーとしての地位を確立するために適切な選択肢です。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: コンピテンシー, コンピテンシー, DevOps
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 575027d70b033085db21a30b7e703df53790f996
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 893022074c375c51e7fa21c17cc2e4fab888b132
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875722"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794805"
 ---
 >[!IMPORTANT]
->このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスしてください。
+>このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。
 
 <!--
 

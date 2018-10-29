@@ -1,15 +1,18 @@
 ---
 title: マルチチャンネル | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: 状況によっては、顧客が他から購入したサブスクリプションのプロビジョニングやサポートをパートナーに依頼する場合があります。
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489418"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795745"
 ---
 # <a name="multi-channel-support"></a>マルチチャンネルのサポート
 
@@ -47,7 +50,7 @@ ms.locfileid: "4489418"
 </table>
 
 > [!IMPORTANT]  
-> 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 Microsoft では、継続的にすべてのプログラムのポリシーと機能をレビューしています。 任意のお知らせ機能のリリースに関する情報は、パートナー センターなどの一般的な通信チャネルを通じて伝達方法します。 
+> 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 Microsoft では、継続的にすべてのプログラムのポリシーと機能をレビューしています。 パートナー センターなど、通常の通信チャネルを通じて、機能のリリースに関するすべてのお知らせが発表されます。 
 
 ## <a name="see-also"></a>関連項目
 
@@ -55,11 +58,11 @@ ms.locfileid: "4489418"
 
 間接のリセラー向け: 「[間接プロバイダーとの提携](indirect-reseller-tasks-in-partner-center.md)」
 
-間接プロバイダー向け: 「[間接リセラーとの提携](indirect-provider-tasks-in-partner-center.md)」 
+間接プロバイダー向け: 「[間接リセラーとの提携](indirect-provider-tasks-in-partner-center.md)」 
 
- 
+ 
 
- 
+ 
 
 
 

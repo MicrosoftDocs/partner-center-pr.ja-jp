@@ -1,14 +1,17 @@
 ---
 title: Microsoft Cloud ドイツのパートナー センター | Microsoft Cloud ドイツのパートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft Cloud ドイツのパートナー センターは、EU および EFTA の加盟国の顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。 Microsoft Cloud ドイツでは、顧客データがドイツ内に存在し、指定されたドイツ データ トラスティによって顧客データへのアクセスが管理されることを保証します。 欧州連合 (EU) と欧州自由貿易連合 (EFTA) の企業顧客は、適用されるドイツの法律と規制、および主要な国際基準に従って顧客データを保存および管理することが可能になります。 Microsoft は、ドイツ データ トラスティか顧客による承認と監督がない限り、顧客のデータにアクセスできません。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 53d0b70d8123369f631dc03e139a58432a455528
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0e7ae56351ab68a6883bdc647851e7e30ecec611
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377584"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797265"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センター
 

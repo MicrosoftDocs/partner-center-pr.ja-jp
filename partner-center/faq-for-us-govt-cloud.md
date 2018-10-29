@@ -1,14 +1,17 @@
 ---
 title: Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問 | Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft Cloud for US Government のクラウド ソリューション プロバイダー (CSP) プログラムの詳細を確認するには、このよく寄せられる質問をご覧ください。 ここに記載されていない情報については、アカウント マネージャーにお問い合わせください。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 917731fa0cc8148e3c542d612776b18507e6b11d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e51866d5207335ed9391fea08b1f5df2780b05c4
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490218"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797185"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のよく寄せられる質問のパートナー センター
 
@@ -23,7 +26,7 @@ Microsoft Cloud for US Government のクラウド ソリューション プロ�
 ### <a name="common"></a>共通
 **米国政府機関向け Microsoft Cloud とは何ですか?**
 
-一から米国政府機関向けに設計された、政府機関向け Microsoft Cloud により、米国公共部門の顧客-小さな町の行政機関まで大規模な連邦機関から-クラウド コンピューティング サービスの範囲から選択します。 顧客の特定のニーズを適切に満たすために、Microsoft はデータセンターに多大な投資を行い、米国連邦政府や州政府の政策、規制、要件に対するコンプライアンスを達成することに専念しています。 
+一から米国政府機関向けに設計されており、米国公共部門の顧客は、政府機関向け Microsoft Cloud: 小さな町の行政機関まで大規模な連邦機関から: さまざまなクラウド コンピューティング サービスを選択します。 顧客の特定のニーズを適切に満たすために、Microsoft はデータセンターに多大な投資を行い、米国連邦政府や州政府の政策、規制、要件に対するコンプライアンスを達成することに専念しています。 
 
 **米国政府機関向け Microsoft Cloud の CSP プログラムには、だれが参加できますか?**
 
@@ -41,7 +44,7 @@ Microsoft Cloud for US Government のクラウド ソリューション プロ�
 
 米国政府機関向け Microsoft Cloud の CSP プログラムは、以下の点で商用 CSP と異なります。
 
--   参加資格: Microsoft 政府機関向けクラウドの CSP プログラムは米国の連邦、州、提供する米国内のパートナーと地方自治体の行政エンティティにのみ利用できます。 マイクロソフトは、パートナーが米国政府機関向け Microsoft Cloud にアクセスする前に、参加資格の決定について検証プログラムを実施しています。
+-   参加資格: Microsoft Government cloud の CSP プログラムは米国の連邦、州、提供する米国内のパートナーおよび地方自治体の行政エンティティにのみ利用できます。 マイクロソフトは、パートナーが米国政府機関向け Microsoft Cloud にアクセスする前に、参加資格の決定について検証プログラムを実施しています。
 
 -   オンボード: 米国政府機関向け Microsoft Cloud の CSP プログラムには、商用 CSP とは別のオンボードが必要です。
 
@@ -105,7 +108,7 @@ Microsoft Cloud ディストリビューター契約 (MCDA) は、販売代理�
 
 **商用のデータセンターでホストされているデータについて、米国政府機関向け Microsoft Cloud に変更できますか?**
 
-容易にし、米国政府機関向け Microsoft Cloud の分離の整合性を維持するためには、米国政府機関向け Microsoft Cloud に顧客の既存のサービスを移行するメカニズムはありません。 顧客やパートナーが Azure を使用している場合、米国政府機関向け Microsoft Cloud 内の新しい環境へのデータの移行は自己責任になります。
+容易に、米国政府機関向け Microsoft Cloud の分離の整合性を維持するのには、米国政府機関向け Microsoft Cloud に顧客の既存のサービスを移行するメカニズムはありません。 顧客やパートナーが Azure を使用している場合、米国政府機関向け Microsoft Cloud 内の新しい環境へのデータの移行は自己責任になります。
 
 
 ### <a name="microsoft-cloud-for-us-government-for-azure"></a>Azure 用の米国政府機関向け Microsoft Cloud
@@ -127,7 +130,7 @@ Azure Government クラウドは、セキュリティ、プライバシーと管
 米国政府機関向け Microsoft Cloud の CSP プログラムにおける API および統合要件は、商用 CSP の場合と同じです。 米国政府機関向け Microsoft Cloud 内のエンドポイントの詳細については、「[パートナー センター REST の URL](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx)」を参照してください。
 
 >[!NOTE]
->CREST Api は、米国政府機関向け Microsoft Cloud の CSP プログラムで利用できるできなくなります。 これらの API は CSP で廃止に向けて処理中であるため、米国政府機関向け Microsoft Cloud でも使用できません。 法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムでは、次の API は利用できません。
+>CREST Api は、米国政府機関向け Microsoft Cloud の CSP プログラムで利用できるされません。 これらの API は CSP で廃止に向けて処理中であるため、米国政府機関向け Microsoft Cloud でも使用できません。 法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムでは、次の API は利用できません。
 
 **ユーザー アカウントの管理** 
 

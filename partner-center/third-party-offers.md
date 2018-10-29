@@ -1,14 +1,17 @@
 ---
 title: サード パーティ製品 | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: お客様のビジネスの成長に合わせて、製品バンドルにサード パーティ製品を含めることによって、製品のポートフォリオを拡大し、層を厚くすることができます。
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 087154d9e1729eb80273094edba285ce83cc4b4c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9cc92120866502244f73efd8de6874b5d3d8428a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490118"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796945"
 ---
 # <a name="third-party-offers"></a>サード パーティ製品 
 
@@ -24,10 +27,10 @@ ms.locfileid: "4490118"
 
 ## <a name="microsoft-partners-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの Microsoft パートナー
 
-サード パーティ製品は、管理と取引が容易になるように設計されています。 顧客との最適なエクスペリエンスを確保するには、次のチェックリストを使用して、サード パーティ製品を使ってみるにお勧めします。
+サード パーティ製品は、管理と取引が容易になるように設計されています。 顧客との最適なエクスペリエンスを確実は、次のチェックリストを使用して、サード パーティ製品の概要をお勧めします。
 
 1. 以降のウェビナーと FAQ オンボードでは、以下のすべての資料を確認します。
-2. パートナー センター カタログにサード パーティ製品を理解します。
+2. パートナー センターのカタログでのサード パーティ製品を理解します。
 3. 関心のあるサード パーティ製品の ISV と連絡を取ります。
 4. 自社の営業担当者にクォータとターゲットを設定します。
 5. 営業担当者のトレーニングを行います。

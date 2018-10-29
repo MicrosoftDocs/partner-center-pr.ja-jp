@@ -1,15 +1,18 @@
 ---
 title: ユーザー パスワードをリセットする |パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: ユーザーがパスワードを忘れた場合、新しい一時的なパスワードを割り当てることができます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 02c45caba9b1a3c5452626d728359eaa300f93b8
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a7643907f809fdb1fcfe58199ae98c32272416dd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377424"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794895"
 ---
 # <a name="reset-a-user-password"></a>ユーザー パスワードをリセットする
 
@@ -18,7 +21,7 @@ ms.locfileid: "4377424"
 -  パートナー センター
    
 > [!NOTE]  
->  Microsoft Cloud ドイツのクラウド ソリューション プロバイダー (CSP) プログラムに登録したしている場合は、ユーザーのパスワードをリセットする方法について[Microsoft Cloud ドイツのパートナー センターでのユーザーの管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)を参照してください。
+>  、Microsoft Cloud ドイツのクラウド ソリューション プロバイダー (CSP) プログラムに登録している場合は、 [Microsoft Cloud ドイツのパートナー センターでユーザーの管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)ユーザーのパスワードのリセットに関する情報をご覧ください。
 
 ユーザーがパスワードを忘れた場合、一時的なパスワードを割り当てます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
 
@@ -37,9 +40,9 @@ ms.locfileid: "4377424"
 
 2.  自分のロールを確認し、パスワードを変更するための手順を表示できます。
 
- 
+ 
 
- 
+ 
 
 
 

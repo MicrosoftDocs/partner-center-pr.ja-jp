@@ -1,15 +1,18 @@
 ---
 title: Windows Autopilot でデバイスのセットアップを効率化する | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: Windows Autopilot でデバイスのセットアップを効率化するためにパートナー センターの Windows AutoPilot プロファイルを追加する
 author: KPacquer
+ms.author: kenpacq
 keywords: autopilot、windows autopilot、microsoft autopilot、ゼロタッチ展開、oobe、ログイン画面
 ms.localizationpriority: medium
-ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2c8e8953fbb79493a3704c9c8ea6982928c3fe92
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489398"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796655"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Windows Autopilot でデバイスのセットアップを効率化する 
 
@@ -45,7 +48,7 @@ Windows Autopilot によって、新しい Windows 10 Pro デバイスのセッ�
 
 ### <a name="add-devices-and-apply-a-profile"></a>デバイスを追加し、プロファイルを適用する
 
-パートナー センターは、Windows AutoPilot 展開プロファイルを作成し、デバイスの一覧に適用します。
+パートナー センターでは、Windows AutoPilot 展開プロファイルを作成して、デバイスの一覧に適用します。
 
 デバイスを構成するには、デバイスの一覧をアップロードし、デバイスに適用するプロファイルを作成して適用します。
 

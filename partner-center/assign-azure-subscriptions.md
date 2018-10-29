@@ -1,22 +1,25 @@
 ---
 title: パートナー センターでの Azure サブスクリプションの割り当て | パートナー センター
+ms.topic: article
+ms.date: 10/29/2018
 description: パートナー センターで、顧客に Azure サブスクリプションを割り当てることができるようになりました。顧客自身によるサブスクリプションの管理を有効にすることもできます
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 keywords: Azure, Azure サブスクリプション, サブスクリプション, 月額プラン, サブスクリプションの割り当て, Azure サブスクリプションの管理
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5438803bf25fb40267cbecbdcbe25ed6e6a44cfa
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489028"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796045"
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>パートナー センターでの Azure サブスクリプションの割り当て
 
 **適用対象**
 
 -  パートナー センター
- 
+ 
 ## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>パートナー センターで顧客に Azure サブスクリプションを割り当てる
 
 1. **パートナー センター** ] メニューから**顧客**を選択し、管理対象の顧客を見つけます。
