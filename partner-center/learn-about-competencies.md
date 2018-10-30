@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ
 ms.localizationpriority: medium
-ms.openlocfilehash: c4546c8e7675f2d25cd29da765c1320531c8c11f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 7c739e3e7142eee7dcc0ec4906e2dbc89fc671d4
+ms.sourcegitcommit: bf952686358864cb268f71d039c682ee2a50ba68
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796825"
+ms.locfileid: "5797390"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Silver および Gold メンバーシップ獲得のための Microsoft コンピテンシー要件
 
@@ -45,6 +45,7 @@ Microsoft コンピテンシーを獲得すると、1 つまたは複数の専�
 | [DevOps コンピテンシー](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio、Visual Studio Team Foundation Server (TFS) 2012、ソフトウェア ライフサイクル、スクラム認定 |
 | [Enterprise Mobility Management コンピテンシー](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS)、Microsoft Intune、Azure Information Protection、Azure Active Directory Premium (AADP)、Mobile Device Management、ID およびアクセス管理、情報保護、Cloud App Security |
 | [Enterprise Resource Planning コンピテンシー](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365、Enterprise Resource Planning (ERP)、SQL Server 2012 データベース  |
+|[ISV コンピテンシー](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure SQL Server 2016、Dynamics 365、Office 365、Windows Server 2019、System Center 2016| 
 | [Messaging コンピテンシー](https://partner.microsoft.com/membership/messaging-competency)| Office 365、Exchange Server 2016 |
 | [プロジェクトおよびポートフォリオ管理コンピテンシー](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft プロジェクト、プロジェクトおよびポートフォリオ管理 (PPM)、SharePoint Server 2016|
 | [Small and Midmarket Cloud Solutions コンピテンシー](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
