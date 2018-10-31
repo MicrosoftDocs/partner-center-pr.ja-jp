@@ -1,7 +1,7 @@
-# [Microsoft パートナー ダッシュボードについて](index.md)
+# [Microsoft パートナー センターについて](index.md)
 
 # [Partner Network メンバーシップ](mpn-overview.md)
-## [パートナー ダッシュボード アカウントの作成](mpn-create-a-partner-center-account.md)
+## [パートナー センター アカウントを作成する](mpn-create-a-partner-center-account.md)
 ## メンバーシップの提供
 ### [Action Pack](mpn-get-action-pack.md)
 ### [プランの更新](renew-mpn-offers.md)
@@ -18,13 +18,13 @@
 ## [顧客契約テンプレート](agreements.md)
 
 ## [ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)
-### [Microsoft Cloud for US Government のパートナー ダッシュボード](partner-center-for-microsoft-us-govt-cloud.md)
-### [Microsoft Cloud ドイツのパートナー ダッシュボード](partner-center-for-microsoft-cloud-germany.md)
+### [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
+### [Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)
 
-# [パートナー ダッシュボード アカウントの管理](partner-center-account-setup.md)
-## [職場アカウントとパートナー ダッシュボード](azure-active-directory-tenants-and-partner-center.md)
+# [パートナー センター アカウントの管理](partner-center-account-setup.md)
+## [職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)
 ## [パートナー プロファイルを更新する](update-your-partner-profile.md)
-## [中断されたパートナー ダッシュボード アカウントの復元](suspended-partner-center-account.md)
+## [中断されたパートナー センター アカウントの復元](suspended-partner-center-account.md)
 ## [ユーザー アカウントの作成](create-user-accounts-and-set-permissions.md)
 ## [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
 ## [ドメインの所有者の確認](become-global-admin.md)
@@ -73,7 +73,7 @@
 ## [オンライン サービス (サブスクリプション)](customer-subscriptions.md)
 ### [顧客のサブスクリプションの作成、中断、取り消し](create-a-new-subscription.md)
 ### [Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)
-### [パートナー ダッシュボードでの Azure サブスクリプションの割り当て](assign-azure-subscriptions.md)
+### [パートナー センターでの Azure サブスクリプションの割り当て](assign-azure-subscriptions.md)
 ### [ユーザーへのライセンスの割り当て](assign-licenses-to-users.md)
 ### [既存のサブスクリプションへのライセンスまたはサービスの追加](add-licenses-or-services-to-an-existing-subscription.md)
 ### [複数のユーザーへのライセンスの割り当てまたは取り消し](bulk-license-provisioning-for-multiple-users.md)
@@ -88,7 +88,7 @@
 ### [Skype for Business Online プラン 1 の新しい Office 365 バージョンへの移行](skype-retiring.md)
 ### [Azure サブスクリプションの譲渡](switch-azure-subscriptions-to-a-different-partner.md)
 
-# パートナー ダッシュボードのデータと分析
+# パートナー センターのデータと分析
 ## [ビジネス データの取得と分析](data-analysis-lp.md)
 ## [Microsoft Power BI 用パートナー分析アプリ](power-bi-app-for-direct-partners.md)
 ## [パートナーの貢献度: パフォーマンス インジケーターの詳細を把握する](partner-contributions.md)
@@ -97,13 +97,13 @@
 ## [サブスクリプションとライセンスの分析](analyze-subscriptions-licenses.md)
 
 # [他のパートナーとの連携](work-with-other-partners.md)
-## [パートナー ダッシュボードでの間接プロバイダーの作業](indirect-provider-tasks-in-partner-center.md)
-## [パートナー ダッシュボードでの間接リセラーの作業](indirect-reseller-tasks-in-partner-center.md)
+## [パートナー センターでの間接プロバイダーの作業](indirect-provider-tasks-in-partner-center.md)
+## [パートナー センターでの間接リセラーの作業](indirect-reseller-tasks-in-partner-center.md)
 
 
 # [マイクロソフトのサポートを受ける](support-from-microsoft.md)
-## [パートナー ダッシュボードに関する問題を報告する](report-problems-with-partner-center.md)
-## [顧客の代理としての問題の報告](report-problems-on-behalf-of-a-customer.md)
+## [パートナー センターに関する問題の報告](report-problems-with-partner-center.md)
+## [顧客の代理で問題を報告する](report-problems-on-behalf-of-a-customer.md)
 ## [マイクロソフトウェアの API による自動サービス通知の取得](get-automated-service-notifications-with-our-apis.md)
 
 # [顧客へのサポート提供](customer-support.md)
