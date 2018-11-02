@@ -7,20 +7,18 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 118094c56549306b6ec659c6827362c07d6bd750
-ms.sourcegitcommit: 917e4b1ff2f8ae0d12e581dc2d098151eda7b8c0
+ms.openlocfilehash: 5211d68b79a1a67cd17c8974edd360999c10fb8d
+ms.sourcegitcommit: 6b781672d91f7ede942a9044a41e785dcf63f807
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/01/2018
-ms.locfileid: "5917982"
+ms.locfileid: "5962395"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>パートナー センターでの顧客との連携
 
 **適用対象**
 
 -  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
--  Microsoft Cloud ドイツのパートナー センター
 
 顧客のサービスまたはサブスクリプションを顧客に代わって管理する場合は、顧客する必要がありますを取得するサービスまたはサブスクリプションの管理者アクセス許可。 次の手順では、メールでこのアクセス許可を要求する方法を示します。 お客様は、要求を承認すると、サービスの管理ポータルにログオンし、顧客の代わりにサービスを管理することができます。 
 
