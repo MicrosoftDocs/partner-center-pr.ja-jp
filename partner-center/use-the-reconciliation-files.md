@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 021b968f6dad4a47db712f0f0090edb082770000
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4b5fbab84c30743e4d91b32bf4cbd2bb8b950992
+ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797295"
+ms.lasthandoff: 11/04/2018
+ms.locfileid: "6022235"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -210,7 +210,7 @@ ms.locfileid: "5797295"
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>顧客のドメイン名。顧客を特定するために使用します。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
+<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。 これは、顧客/パートナーが、O365 ポータル経由でバニティ/既定のドメインを更新すると、顧客を一意に識別していない使用する必要があります。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">

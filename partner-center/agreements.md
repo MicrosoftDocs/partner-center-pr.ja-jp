@@ -1,29 +1,40 @@
 ---
-title: Microsoft クラウド ソリューション プロバイダーの利用可能な市場および顧客契約 | パートナー センター
+title: Microsoft Cloud 契約顧客テンプレート |パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
-description: 市場固有の顧客契約テンプレートをパートナー センターからダウンロードする
+ms.date: 11/03/2018
+description: 検索し、顧客を確認する Microsoft Cloud 契約の地域と言語固有のバージョンをダウンロードします。
 author: Maggie Evans
 keywords: Microsoft Cloud 契約, 顧客契約テンプレート, CSP 顧客契約, MCA, Microsoft Cloud 契約 (MCA), CSP, CSP で販売できる国または地域, CSP の国または地域, CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南米, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 629d15b8a233168420147b8324d85bbee385b170
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d43afff6f759ccdbdfddc94e354b990009d2f044
+ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797325"
+ms.lasthandoff: 11/04/2018
+ms.locfileid: "6022247"
 ---
-# <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Microsoft クラウド ソリューション プロバイダーの市場および顧客契約
+# <a name="microsoft-cloud-agreements-by-region-and-language"></a>地域と言語での Microsoft Cloud 契約
 
-この記事では、Microsoft クラウド ソリューション プロバイダー (CSP) の販売チャネルで現在利用可能な市場の一覧を示し、利用可能なそれぞれの国または地域の顧客契約テンプレートへのリンクを掲載しています。 特定の国や地域の顧客と取引する準備ができたら、その場所に基づいて適切な契約書を提供します。 
+**適用対象**
 
-一部の国や地域では、言語の異なる複数バージョンの契約書が用意されており、顧客に適した言語を選択できます。 顧客が希望する言語のバージョンを提供してください。
+- CSP パートナー
+
+注文を配置するには、顧客の代わりに、前に、顧客が読んで同意し、Microsoft Cloud 契約に署名する必要があります。
+
+>[!IMPORTANT]
+> 、2018 年 11 月 7日を開始する必要があります、顧客が署名したユーザーに関する情報を提供することで、Microsoft Cloud 契約を受け入れることを確認します。 詳細については[、Microsoft Cloud 契約のユーザーの同意](confirm-consent.md)を参照してください。
+
+Microsoft Cloud 契約とは、地域固有と複数の言語で利用可能です。 適切な契約書をダウンロードする、下の一覧のいずれかで、顧客の場所と優先する言語を検索します。
+
+かどうかわからないどの地域や市場で販売できるは、[クラウド ソリューション プロバイダー プログラムの地域市場と通貨](regional-authorization-overview.md)をご覧ください。
+
+<!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
 > [!NOTE]  
-> 以下に示す Microsoft Cloud 契約顧客テンプレートは、2017 年 9 月 1 日以降、すべての地域と言語で有効となります。
+> The Microsoft Cloud Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
+-->
 
-
-## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北米、中米、南米、カリブ諸国
+## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北米、中央アメリカ、南アメリカ、カリブ
 
 - 米領サモア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - アンギラ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
@@ -233,24 +244,24 @@ ms.locfileid: "5797325"
 - キリバス: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - キルギス: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[ロシア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_RUS_Sep20172_CR.pdf)  
 - ラオス: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- マカオ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[繁体字中国語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)  
+- マカオ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[繁体字中国語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)
 - マレーシア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[マレー語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_MSL_Sep20172_CR.pdf)  
 - モルディブ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - マーシャル諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - ミクロネシア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - ミャンマー: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - ナウル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
-- ネパール: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)    
-- ニュージーランド: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf) 
+- ネパール: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
+- ニュージーランド: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - ニウエ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - ノーフォーク島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - 北マリアナ諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - パラオ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - パプアニューギニア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- フィリピン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)   
+- フィリピン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - ピトケアン諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - サモア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- シンガポール: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[簡体字中国語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)    
+- シンガポール: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[簡体字中国語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)
 - ソロモン諸島: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - 韓国: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_KOR_ENG_Sep20172_CR.pdf)、[韓国語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_KOR_KOR_Sep20172_CR.pdf)    
 - スリランカ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)    
