@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナ, CSP での販売, 直接パートナー, CSP 直接パートナー, CSP 間接リセラー, 直接 CSP, 間接 CSP, 直接モデル, 間接モデル, 間接リセラー, 間接プロバイダー, プロバイダー, ディストリビューター, クラウド ソリューション プロバイダー プログラム
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e8f55bc76d8bda8494b83794184f928d680f68f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ddeaecdca6fe918d6b3d581befa295c66b80a705
+ms.sourcegitcommit: 0c7018284e589f3ab9cf97c741b07f1947f30e65
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795215"
+ms.lasthandoff: 11/05/2018
+ms.locfileid: "6066694"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 
 
@@ -60,7 +60,9 @@ ms.locfileid: "5795215"
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>CSP プログラムで販売できる国または地域
 
-クラウド ソリューション プロバイダー プログラムは、[Microsoft クラウド ソリューション プロバイダーの市場および顧客契約のページ](agreements.md)に記載されている国または地域で利用可能です。  
+会社の場所は、市場を決定します。 市場には、地域や国の CSP のプランを販売することができますが含まれています。 CSP の市場と通貨の完全な一覧については、[クラウド ソリューション プロバイダー プログラムの地域市場と通貨](regional-authorization-overview.md)を参照してください。
+
+CSP は、顧客の代理としてプランを注文する前に、顧客は、Microsoft Cloud 契約に署名する必要があります。 顧客の場所に適用可能な Microsoft Cloud 契約を見つけることができます[次に](agreements.md)します。  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>CSP プログラムで販売できる製品またはサービス
 
@@ -73,7 +75,6 @@ ms.locfileid: "5795215"
 |:---------------------------|:--------------------|
 |各 CSP モデルの要件   | [クラウド ソリューション プロバイダー プログラム](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Microsoft ナショナル クラウドでの販売   | [Microsoft ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)|
-|販売できる製品と場所   |[Microsoft クラウド ソリューション プロバイダーの市場および顧客契約](agreements.md)|
-|  | [CSP でのテナント戦略](regional-authorization-overview.md)
+|Microsoft Cloud 契約顧客テンプレート   |[地域と言語での Microsoft Cloud 契約](agreements.md)|
 |パートナー センターでの間接プロバイダーの作業  |[クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携](indirect-provider-tasks-in-partner-center.md)|
 |パートナー センターで間接リセラーの作業   |[クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携](indirect-reseller-tasks-in-partner-center.md)|
