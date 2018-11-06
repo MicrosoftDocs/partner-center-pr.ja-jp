@@ -1,20 +1,20 @@
 ---
 title: Microsoft Azure reservations の概要 |パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
-Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
+ms.date: 11/05/2018
+Description: Overview of selling Microsoft Azure Reservations through CSP.
 author: v-petand
 ms.author: v-petand
 keywords: azure 予約の管理, 請求, 購入, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
-ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 34b5460ca97b03d05758202912882c313c042427
+ms.sourcegitcommit: 282861f9063fe525bc54f8bbab96656563491b26
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797235"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "6075273"
 ---
-# <a name="sell-microsoft-azure-reserved-instances"></a>販売 Microsoft Azure 予約インスタンス 
+# <a name="sell-microsoft-azure-reservations"></a>Microsoft Azure reservations を販売します。
 
 **適用対象**
 
@@ -22,63 +22,34 @@ ms.locfileid: "5797235"
 -  Microsoft Azure portal
 -  CSP のパートナー
 
-クラウド ソリューション プロバイダー (CSP) プログラムのパートナーが顧客に提供できる Microsoft Azure のインスタンスが予約されています。 お客様は、事前に予約できると、大幅な削減を実現できます。 Azure Reserved Instances で顧客に提供簡潔さと柔軟性、次の方法。
+クラウド ソリューション プロバイダー (CSP) プログラムのパートナーは、Microsoft Azure reservations を顧客に提供できます。 お客様は、事前に予約できると、大幅な削減を実現できます。 Azure reservations を顧客に提供する簡潔さと柔軟性次のようにします。
 
--   1 ～ 3 年の予約期間。 
+-   1 ～ 3 年の予約期間。
+ 
 -   簡単に作成します。セットアップを秒単位で完了 
+
 -   予約インスタンスはいつでも取り消しまたは交換でき、払い戻しが調整されます。 
+
 -   組織レベルまたは個々の部署レベルで予約インスタンスの使用状況を管理できます。 
 
-> [!NOTE]  
-> 次の市場で azure reservations を現在利用可能なすることはできません。
-  
-> * アルゼンチン
-> * アゼルバイジャン
-> * ベラルーシ
-> * ブラジル
-> * 中国
-> * インド
-> * インドネシア
-> * カザフスタン
-> * リヒテンシュタイン
-> * マレーシア
-> * メキシコ
-> * ロシア連邦
-> * サウジアラビア
-> * 南アフリカ
-> * 韓国
-> * 台湾
-> * トルコ
-> * ウクライナ
+Azure reservations は、次の方法で顧客にアピールことができます。
 
-Azure Reserved Instances の可用性は、次の方法でユーザーに魅力的します。
+-   予約は従量課金制 (PAYG) の価格を大幅に節約できます。 を提供することができます。
 
--   予約インスタンスでは、従量課金制 (PAYG) の価格設定で大幅にコストを節約できます。
 -   1 年間または 3 年間の前払いにより、予算編成と支払い計画が容易になります。 
+
 -   オフィスに近い Azure リージョンでコンピューティング処理能力を優先させることができます。  
--   Azure reservations は、Microsoft Windows Server や Azure SQL Database などのソフトウェアと組み合わせると、エンド ツー エンドのインフラストラクチャ ソリューションの基盤を提供します。   
 
-## <a name="before-you-begin"></a>開始する前に
-
-顧客に代わって Azure Reservations の購入を行う前に、以下の情報をご確認ください。 現時点では次のような注意点があります。
-
--   顧客に代わって予約を購入するには、あらかじめ顧客がアクティブな Azure サブスクリプションを持っている必要があります。  
--   Azure 予約の価格に、ソフトウェアのコストは含まれていません。 
--   販売担当者およびヘルプ デスク担当者は、顧客に代わって Azure portal で Azure サブスクリプションの購入または管理を行い、サポート要求 (交換や返金を含む) を登録できるように、Azure サブスクリプションへの明示的なアクセス許可を持っている必要があります。  
--   間接プロバイダーが Azure portal で Azure Reservations を購入する場合は、選択した Azure CSP サブスクリプションから指名パートナー (間接リセラー) が継承されます。 
--   Azure Reservations の指名パートナーを購入後に変更することはできません。 既存の予約を取り消して、新しい指名パートナーで新しい予約を購入することもできます。 
--   顧客が Azure サブスクリプションを直接サブスクリプションまたは EA サブスクリプションから CSP に移行した場合、予約は移行されません。 
+-   Azure reservations の Microsoft Windows Server や Azure SQL Database などのソフトウェアと組み合わせると、エンド ツー エンドのインフラストラクチャ ソリューション基盤を提供します。   
 
 >[!NOTE]
-> 購入、販売、およびパートナー センターと Azure portal、およびパートナー センター API を使用して Azure reservations を管理することができます。 方法については、各リンク先をご覧ください。 
+> 購入、販売、およびパートナー センターと Azure portal、およびパートナー センター API を使用して Azure reservations を管理することができます。 方法については、各リンク先をご覧ください。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
 |**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
+| 顧客の azure reservations に関するドキュメント | [Azure reservations を教えてください。](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |パートナー センターで顧客の Azure reservations を購入します。   |[Azure Reservations の購入](azure-reservations-buying.md)
 |パートナー センターで Azure reservations を管理します。 | [パートナー センターで Azure reservations を管理します。](azure-reservations-manage.md)
-|適切な VM サイズの判断と顧客による VM 使用状況の確認   |[最大限の Azure 予約使用に備えた VM サイズ](azure-usage.md)   |
+|適切な VM サイズを特定し、顧客による VM 使用状況を確認します。   |[最大限の Azure 予約使用に備えた VM サイズ](azure-usage.md)   |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)
-
- 
-
