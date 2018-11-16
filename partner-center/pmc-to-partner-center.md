@@ -1,63 +1,76 @@
 ---
-title: MPN メンバーシップを Partner Membership Center からパートナー センターに移行する
+title: ネットワーク メンバーシップを Partner Membership Center からパートナー センターに移行します。
 ms.topic: article
-ms.date: 10/29/2018
-description: PMC ユーザー - パートナー センターを通じて MPN メンバーシップを管理できるようになりました。 次の手順に従ってください。
-author: KPacquer
-ms.author: kenpacq
+ms.date: 11/14/2018
+description: Partner Membership Center からパートナー センターへのメンバーシップ アカウントを移行する方法。
+author: maggiepuccievans
+ms.author: maggiepuccievans
 keywords: mpn メンバーシップ, コンピテンシー, pmc からパートナー センター
-robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
+ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794955"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "7011402"
 ---
-# <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a><span data-ttu-id="58add-105">MPN メンバーシップを Partner Membership Center からパートナー センターに移行する</span><span class="sxs-lookup"><span data-stu-id="58add-105">Transition your MPN membership from Partner Membership Center to Partner Center</span></span>
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a><span data-ttu-id="18852-104">Partner Membership Center からパートナー メンバーシップ アカウント パートナー センターへの移行します。</span><span class="sxs-lookup"><span data-stu-id="18852-104">Transition your partner membership account from Partner Membership Center to Partner Center</span></span>
 
-**<span data-ttu-id="58add-106">適用対象</span><span class="sxs-lookup"><span data-stu-id="58add-106">Applies to</span></span>**
--  <span data-ttu-id="58add-107">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="58add-107">Partner Center</span></span>
+**<span data-ttu-id="18852-105">適用対象</span><span class="sxs-lookup"><span data-stu-id="18852-105">Applies to</span></span>**
 
-<span data-ttu-id="58add-108">Partner Membership Center ユーザー: Microsoft Partner Network (MPN) の新しいメンバーシップを管理して、パートナー センターを通じて更新できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="58add-108">Partner Membership Center users: We're now managing Microsoft Partner Network (MPN) new memberships and renewals through Partner Center.</span></span>  
+- <span data-ttu-id="18852-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="18852-106">Partner Center</span></span>
+- <span data-ttu-id="18852-107">MPN パートナー</span><span class="sxs-lookup"><span data-stu-id="18852-107">MPN partners</span></span>
 
-<span data-ttu-id="58add-109">Partner Membership Center を通じて MPN を購読している場合、既に更新した場合でも現在の年のメンバーシップが終了するまで PMC で現在の特典を確認することができます。</span><span class="sxs-lookup"><span data-stu-id="58add-109">If you've subscribed to MPN through Partner Membership Center, you'll be able to review your current benefits in PMC until the current year’s membership ends, even if you’ve already renewed.</span></span> 
+## <a name="partner-membership-center-being-retired"></a><span data-ttu-id="18852-108">Partner Membership Center が廃止されます。</span><span class="sxs-lookup"><span data-stu-id="18852-108">Partner Membership Center being retired</span></span>
 
-<span data-ttu-id="58add-110">MPN に再登録すると、新しいメンバーシップがすぐに開始されますが、MPN メンバーシップの終了日が、現在の MPN メンバーシップの期限が切れてから 1 年後に延長されます。</span><span class="sxs-lookup"><span data-stu-id="58add-110">When you re-enroll in MPN, your new membership will begin immediately, but your end date of your MPN membership will be pushed forward to be one year after your current MPN membership is due to expire.</span></span> <span data-ttu-id="58add-111">これにより、両方のシステムにアクセスできる期間が重複します。</span><span class="sxs-lookup"><span data-stu-id="58add-111">This will give you a period of overlap where you can access both systems.</span></span>
+<span data-ttu-id="18852-109">数か月中にしますされますがフレンドの新しいプラットフォーム、パートナー センターに Partner Membership Center (PMC) から、パートナー メンバーシップ アカウントを移行するパートナーです。</span><span class="sxs-lookup"><span data-stu-id="18852-109">During the next several months, we'll be inviting partners to move their partner membership accounts from the Partner Membership Center (PMC) to a new platform, the Partner Center.</span></span> <span data-ttu-id="18852-110">パートナー センターとは、Microsoft との関係を管理する 1 つの目的地です。</span><span class="sxs-lookup"><span data-stu-id="18852-110">Partner Center is the single destination to manage your business relationship with Microsoft.</span></span> <span data-ttu-id="18852-111">詳細については、[パートナーの web サイト](https://partner.microsoft.com/commercial)の[メンバーシップ管理の準備](https://partner.microsoft.com/support/partner-center-help)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="18852-111">See [Membership management readiness](https://partner.microsoft.com/support/partner-center-help) on the [Partner website](https://partner.microsoft.com/commercial) for more information.</span></span>
 
-<span data-ttu-id="58add-112">Partner University に引き続きアクセスし、組織が技術試験と認定のクレジットを受け取って [Microsoft コンピテンシーの成果](competencies.md)を受け取ることができるように、ユーザーのセットアップをすぐに始めましょう。</span><span class="sxs-lookup"><span data-stu-id="58add-112">Start setting up your users right away so that they can continue to access Partner University, and so that your organization can receive credit for technical exams and certifications to help [earn Microsoft Competency achievements](competencies.md).</span></span> 
+<span data-ttu-id="18852-112">(該当する場合) を含む、アカウントの詳細を管理するが、メンバーシップ アカウントが正常に遷移した後の特典、コンピテンシー、インセンティブ、プラン、およびパートナー センターでのプログラム。</span><span class="sxs-lookup"><span data-stu-id="18852-112">After your membership account is successfully transitioned, you'll manage your account details, including (where applicable) benefits, competencies, incentives, offers, and programs in Partner Center.</span></span> <span data-ttu-id="18852-113">取得して Microsoft から見込み客情報を管理し、パートナー センターでのクラウド ソリューション プロバイダー プログラムに登録できるされます。</span><span class="sxs-lookup"><span data-stu-id="18852-113">You'll also be able to get and manage sales leads from Microsoft and enroll in the Cloud Solution Provider program in Partner Center.</span></span>
 
-## <a name="admin-tasks-add-employee-accounts"></a><span data-ttu-id="58add-113">管理タスク: 従業員アカウントを追加する</span><span class="sxs-lookup"><span data-stu-id="58add-113">Admin tasks: add employee accounts</span></span>
+## <a name="prepare-now-for-a-smooth-transition"></a><span data-ttu-id="18852-114">スムーズな移行を準備できるようになりました</span><span class="sxs-lookup"><span data-stu-id="18852-114">Prepare now for a smooth transition</span></span>
 
-<span data-ttu-id="58add-114">組織の管理者は、従業員を個別に追加するか、PMC データを使って複数のユーザーを一度に作成することにより、パートナー センター アカウントに従業員を追加します。</span><span class="sxs-lookup"><span data-stu-id="58add-114">The organization's admin adds employees into the Partner Center account, either by adding them individually, or by using PMC data to create multiple users at once:</span></span>
+<span data-ttu-id="18852-115">パートナーは、必要な機能があるし、確認スムーズに移行する準備が機能をパートナー センターに移動する招待されます。</span><span class="sxs-lookup"><span data-stu-id="18852-115">Partners will be invited to move to Partner Center when we have the necessary features and capabilities ready to ensure a smooth transition.</span></span> <span data-ttu-id="18852-116">強くお勧めする時間を今すぐ PMC で会社の情報を確認し、アカウントのスムーズな移行を確保するために、推奨される手順に従います。</span><span class="sxs-lookup"><span data-stu-id="18852-116">We strongly encourage you to take the time now to review your company's information in PMC and follow our recommended steps to help ensure a smooth account transition.</span></span>
 
-1.  <span data-ttu-id="58add-115">パートナー センターでは、**新しいユーザーの追加**、個人や**チームのセットアップ**を追加する (または PMC データを使ってユーザーを追加する) を選択する複数のユーザーを一度に追加します。</span><span class="sxs-lookup"><span data-stu-id="58add-115">From Partner Center, select **Add new user** to add an individual, or **Set up your team** (or Add users using PMC data) to add multiple users at once.</span></span>
-    
-    <span data-ttu-id="58add-116">画面の指示に従ってセットアップを完了します。</span><span class="sxs-lookup"><span data-stu-id="58add-116">Follow the on-screen instructions to complete setup.</span></span>
+### <a name="pmc-to-partner-center-step-by-step-guide"></a><span data-ttu-id="18852-117">Pmc からパートナー センターのステップ バイ ステップ ガイド</span><span class="sxs-lookup"><span data-stu-id="18852-117">PMC to Partner Center step-by-step guide</span></span>
 
-2.  <span data-ttu-id="58add-117">個々のアカウントを作成する場合、サインオン情報 (ユーザー名と一時パスワード) をユーザーに直接送信します。</span><span class="sxs-lookup"><span data-stu-id="58add-117">If you're creating an individual account, send the sign-on info (username and temporary password) directly to the user.</span></span>
+<span data-ttu-id="18852-118">包括的なを準備して、成功したアカウントの移行する方法のすべての手順を説明する[pmc からパートナー センターの移行ガイド](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)に関する詳細なしますがあります。</span><span class="sxs-lookup"><span data-stu-id="18852-118">We've prepared the comprehensive and detailed [PMC to Partner Center transition guide](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) to walk you through every step of the way to a successful account transition.</span></span>
 
-    <span data-ttu-id="58add-118">PMC からのデータに基づいて複数のアカウントをセットアップする場合、サインオン情報が含まれるメールが各ユーザーに自動的に送信されます。</span><span class="sxs-lookup"><span data-stu-id="58add-118">If you're setting up multiple accounts based on data from PMC, we'll automatically send each user an email that includes their sign-on info.</span></span> <span data-ttu-id="58add-119">これと同じ情報を含むファイルをダウンロードし、後でこの情報を必要とする従業員がいる場合に使うこともできます。</span><span class="sxs-lookup"><span data-stu-id="58add-119">You'll also be able to download a file that contains this same information, which you can use in case one of your employees needs this information again.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="18852-119">このガイドを完了する時間がかかるに含まれているキーいくつかの前提条件があります。</span><span class="sxs-lookup"><span data-stu-id="18852-119">There are several key prerequisites included in this guide that will take time to complete.</span></span> <span data-ttu-id="18852-120">それらを確認し、できるだけ早く完了するための作業を開始することをお勧めします。</span><span class="sxs-lookup"><span data-stu-id="18852-120">We encourage you to review them and start the work to complete them as soon as possible.</span></span>
 
-    <span data-ttu-id="58add-120">一時パスワードは 90 日間有効です。</span><span class="sxs-lookup"><span data-stu-id="58add-120">The temporary password is good for 90 days.</span></span> <span data-ttu-id="58add-121">ユーザーがログインしない場合、アカウントを削除してもう一度追加します。</span><span class="sxs-lookup"><span data-stu-id="58add-121">If the user doesn't log in, remove the account and add them in again.</span></span>
+### <a name="video-resources"></a><span data-ttu-id="18852-121">ビデオのリソース</span><span class="sxs-lookup"><span data-stu-id="18852-121">Video resources</span></span>
 
-3.  <span data-ttu-id="58add-122">オプション: 個々のアカウントをセットアップして[パスワード セルフ サービスを有効します](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)。ユーザーが答える必要があるセキュリティの質問の種類も選択する必要があります。</span><span class="sxs-lookup"><span data-stu-id="58add-122">Optional: Set up the individual accounts to [enable password self-service](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started), including choosing what types of security questions the users should answer.</span></span> 
+<span data-ttu-id="18852-122">[Pmc からパートナー センターの移行ガイド](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)だけでなく、アカウントの移行のさまざまなフェーズについて、以下のショート ビデオ作成しました。</span><span class="sxs-lookup"><span data-stu-id="18852-122">In addition to the [PMC to Partner Center transition guide](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf), we've created these short videos about the different phases of transitioning your account.</span></span> 
 
-## <a href="" id="nonadmin_tasks"></a><span data-ttu-id="58add-123">従業員のタスク: アカウントを更新する</span><span class="sxs-lookup"><span data-stu-id="58add-123">Employees tasks: Update accounts</span></span>
+- [<span data-ttu-id="18852-123">パートナー センター ダッシュ ボードの検出します。</span><span class="sxs-lookup"><span data-stu-id="18852-123">Discover your Partner Center dashboard</span></span>](https://partner.microsoft.com/support/partner-center-help)
+ 
+  <span data-ttu-id="18852-124">リソースとのパートナーシップを最大限に活用するパートナー センターで利用可能なツールについて説明します。</span><span class="sxs-lookup"><span data-stu-id="18852-124">Learn about the resources and tools available in Partner Center to make the most of your partnership.</span></span>
 
-1.  <span data-ttu-id="58add-124">Microsoft パートナー センターとは、管理者からサインイン情報を取得します。サインイン情報を受信しない場合は、組織の管理者にするには、直接再送信してもらって。 にお問い合わせください。</span><span class="sxs-lookup"><span data-stu-id="58add-124">Get your sign-in info, either from Microsoft Partner Center or from your admin. If you don't receive the sign-in info, contact your organization's admin to ask them to resend it directly to you.</span></span> 
+- [<span data-ttu-id="18852-125">複数の場所のアカウントを簡単に行う</span><span class="sxs-lookup"><span data-stu-id="18852-125">Multi-location accounts made easy</span></span>](https://partner.microsoft.com/support/partner-center-help)
+ 
+  <span data-ttu-id="18852-126">複数の地域にオフィスを管理する場合は、複数の場所アカウントを設定し、使いやすい 1 つのサイトからのすべての情報を制御する方法を次に示します。</span><span class="sxs-lookup"><span data-stu-id="18852-126">If you manage offices across multiple geographies, here’s how to set up your multi-location account and control everything from one easy-to-use site.</span></span>
 
-2.  <span data-ttu-id="58add-125">Microsoft Partner University アカウントに接続します。</span><span class="sxs-lookup"><span data-stu-id="58add-125">Connect your Microsoft Partner University account.</span></span> <span data-ttu-id="58add-126">パートナー センターでは、選択**プロファイルを更新** > **Get Partner University へのアクセス**します。</span><span class="sxs-lookup"><span data-stu-id="58add-126">From Partner Center, select **Update your profile** > **Get Partner University access**.</span></span>  <span data-ttu-id="58add-127">このアカウントを接続すると、Partner University に再度アクセスすることができます。</span><span class="sxs-lookup"><span data-stu-id="58add-127">After you've connected this account, you'll be able to access Partner University again.</span></span>
+- [<span data-ttu-id="18852-127">トレーニングを行い、試験カウント</span><span class="sxs-lookup"><span data-stu-id="18852-127">Make your training and exams count</span></span>](https://partner.microsoft.com/support/partner-center-help)
 
-3.  <span data-ttu-id="58add-128">Microsoft 技術試験および認定を関連付けます。</span><span class="sxs-lookup"><span data-stu-id="58add-128">Associate Microsoft technical exams and certifications.</span></span> <span data-ttu-id="58add-129">パートナー センターでは、選択**プロファイルを更新** > **試験および認定を関連付けます**。</span><span class="sxs-lookup"><span data-stu-id="58add-129">From Partner Center, select **Update your profile** > **Associate exams and certifications**.</span></span> 
+  <span data-ttu-id="18852-128">従業員の学習の資格情報を Partner University に引き続きアクセスできるようにして、資格を得るためのコンピテンシーは、ビジネス プロファイルに接続します。</span><span class="sxs-lookup"><span data-stu-id="18852-128">Connect your employees' learning credentials to your business profile to ensure continued access to Partner University and to qualify for competencies.</span></span>
 
-4.  <span data-ttu-id="58add-130">オプション: [パスワード リセット セルフサービスをセットアップします](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password)。</span><span class="sxs-lookup"><span data-stu-id="58add-130">Optional: [Set up password reset self-service](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).</span></span>
+## <a name="see-also"></a><span data-ttu-id="18852-129">関連項目</span><span class="sxs-lookup"><span data-stu-id="18852-129">See also</span></span>
 
-## <a name="checking-team-status-and-receiving-competency-achievements"></a><span data-ttu-id="58add-131">チームのステータスを確認してコンピテンシー実績を受け取る</span><span class="sxs-lookup"><span data-stu-id="58add-131">Checking team status and receiving competency achievements</span></span>
+<span data-ttu-id="18852-130">PMC からアカウントを正常に移行した後、は、パートナー センターに慣れてを取得するのに、次の記事を確認します。</span><span class="sxs-lookup"><span data-stu-id="18852-130">After you've successfully transitioned your account from PMC, review these articles to get more familiar with Partner Center.</span></span>
 
-1.  <span data-ttu-id="58add-132">組織の従業員が Microsoft Partner University アカウントを接続し、関連して試験および認定を参照してください: パートナー センターでは、選択 **、チームの状態を確認**します。</span><span class="sxs-lookup"><span data-stu-id="58add-132">See which employees from your organization have connected their Microsoft Partner University accounts and associated their exams and certifications: From Partner Center, select **Check your team’s status**.</span></span>
+-   [<span data-ttu-id="18852-131">ビジネス プロファイルを作成して Microsoft から見込み情報を受け取る</span><span class="sxs-lookup"><span data-stu-id="18852-131">Create a business profile to get sales leads from Microsoft</span></span>](create-a-marketing-profile.md)
 
-2.  <span data-ttu-id="58add-133">従業員が自分のアカウントを関連付けるか、スキル ベースの目標を完了してから、**24 時間待ちます**。</span><span class="sxs-lookup"><span data-stu-id="58add-133">**Wait 24 hours** after an employee has associated their account or completed a skill-based goal.</span></span> <span data-ttu-id="58add-134">その後、進行状況が **[パートナーシップ] > [コンピテンシー]** セクションに表示されます。</span><span class="sxs-lookup"><span data-stu-id="58add-134">After this time, the progress displays in the  **Partnership > Competencies** section.</span></span>
+-   [<span data-ttu-id="18852-132">新しいアカウントのユーザーを追加し、アクセス許可を割り当てる</span><span class="sxs-lookup"><span data-stu-id="18852-132">Add new account users and assign permissions to them</span></span>](create-user-accounts-and-set-permissions.md)
+
+-   [<span data-ttu-id="18852-133">Microsoft Action Pack サブスクリプションの購入と更新</span><span class="sxs-lookup"><span data-stu-id="18852-133">Purchase or renew a subscription to Microsoft Action Pack</span></span>](mpn-get-action-pack.md)
+
+-   [<span data-ttu-id="18852-134">メンバーシップ特典を管理する</span><span class="sxs-lookup"><span data-stu-id="18852-134">Manage your membership benefits</span></span>](manage-your-partner-network-benefits.md)
+
+-   [<span data-ttu-id="18852-135">Silver および Gold メンバーシップ獲得のためのコンピテンシー要件</span><span class="sxs-lookup"><span data-stu-id="18852-135">Learn about competency requirements for Gold and Silver membership</span></span>](https://partner.microsoft.com/membership/competencies)
+
+
+
+
+
