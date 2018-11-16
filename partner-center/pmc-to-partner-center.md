@@ -1,63 +1,76 @@
 ---
-title: MPN メンバーシップを Partner Membership Center からパートナー センターに移行する
+title: ネットワーク メンバーシップを Partner Membership Center からパートナー センターに移行します。
 ms.topic: article
-ms.date: 10/29/2018
-description: PMC ユーザー - パートナー センターを通じて MPN メンバーシップを管理できるようになりました。 次の手順に従ってください。
-author: KPacquer
-ms.author: kenpacq
+ms.date: 11/14/2018
+description: Partner Membership Center からパートナー センターへのメンバーシップ アカウントを移行する方法。
+author: maggiepuccievans
+ms.author: maggiepuccievans
 keywords: mpn メンバーシップ, コンピテンシー, pmc からパートナー センター
-robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
+ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794955"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "7011402"
 ---
-# <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>MPN メンバーシップを Partner Membership Center からパートナー センターに移行する
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>Partner Membership Center からパートナー メンバーシップ アカウント パートナー センターへの移行します。
 
 **適用対象**
--  パートナー センター
 
-Partner Membership Center ユーザー: Microsoft Partner Network (MPN) の新しいメンバーシップを管理して、パートナー センターを通じて更新できるようになりました。  
+- パートナー センター
+- MPN パートナー
 
-Partner Membership Center を通じて MPN を購読している場合、既に更新した場合でも現在の年のメンバーシップが終了するまで PMC で現在の特典を確認することができます。 
+## <a name="partner-membership-center-being-retired"></a>Partner Membership Center が廃止されます。
 
-MPN に再登録すると、新しいメンバーシップがすぐに開始されますが、MPN メンバーシップの終了日が、現在の MPN メンバーシップの期限が切れてから 1 年後に延長されます。 これにより、両方のシステムにアクセスできる期間が重複します。
+数か月中にしますされますがフレンドの新しいプラットフォーム、パートナー センターに Partner Membership Center (PMC) から、パートナー メンバーシップ アカウントを移行するパートナーです。 パートナー センターとは、Microsoft との関係を管理する 1 つの目的地です。 詳細については、[パートナーの web サイト](https://partner.microsoft.com/commercial)の[メンバーシップ管理の準備](https://partner.microsoft.com/support/partner-center-help)を参照してください。
 
-Partner University に引き続きアクセスし、組織が技術試験と認定のクレジットを受け取って [Microsoft コンピテンシーの成果](competencies.md)を受け取ることができるように、ユーザーのセットアップをすぐに始めましょう。 
+(該当する場合) を含む、アカウントの詳細を管理するが、メンバーシップ アカウントが正常に遷移した後の特典、コンピテンシー、インセンティブ、プラン、およびパートナー センターでのプログラム。 取得して Microsoft から見込み客情報を管理し、パートナー センターでのクラウド ソリューション プロバイダー プログラムに登録できるされます。
 
-## <a name="admin-tasks-add-employee-accounts"></a>管理タスク: 従業員アカウントを追加する
+## <a name="prepare-now-for-a-smooth-transition"></a>スムーズな移行を準備できるようになりました
 
-組織の管理者は、従業員を個別に追加するか、PMC データを使って複数のユーザーを一度に作成することにより、パートナー センター アカウントに従業員を追加します。
+パートナーは、必要な機能があるし、確認スムーズに移行する準備が機能をパートナー センターに移動する招待されます。 強くお勧めする時間を今すぐ PMC で会社の情報を確認し、アカウントのスムーズな移行を確保するために、推奨される手順に従います。
 
-1.  パートナー センターでは、**新しいユーザーの追加**、個人や**チームのセットアップ**を追加する (または PMC データを使ってユーザーを追加する) を選択する複数のユーザーを一度に追加します。
-    
-    画面の指示に従ってセットアップを完了します。
+### <a name="pmc-to-partner-center-step-by-step-guide"></a>Pmc からパートナー センターのステップ バイ ステップ ガイド
 
-2.  個々のアカウントを作成する場合、サインオン情報 (ユーザー名と一時パスワード) をユーザーに直接送信します。
+包括的なを準備して、成功したアカウントの移行する方法のすべての手順を説明する[pmc からパートナー センターの移行ガイド](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)に関する詳細なしますがあります。
 
-    PMC からのデータに基づいて複数のアカウントをセットアップする場合、サインオン情報が含まれるメールが各ユーザーに自動的に送信されます。 これと同じ情報を含むファイルをダウンロードし、後でこの情報を必要とする従業員がいる場合に使うこともできます。
+>[!IMPORTANT]
+>このガイドを完了する時間がかかるに含まれているキーいくつかの前提条件があります。 それらを確認し、できるだけ早く完了するための作業を開始することをお勧めします。
 
-    一時パスワードは 90 日間有効です。 ユーザーがログインしない場合、アカウントを削除してもう一度追加します。
+### <a name="video-resources"></a>ビデオのリソース
 
-3.  オプション: 個々のアカウントをセットアップして[パスワード セルフ サービスを有効します](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)。ユーザーが答える必要があるセキュリティの質問の種類も選択する必要があります。 
+[Pmc からパートナー センターの移行ガイド](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)だけでなく、アカウントの移行のさまざまなフェーズについて、以下のショート ビデオ作成しました。 
 
-## <a href="" id="nonadmin_tasks"></a>従業員のタスク: アカウントを更新する
+- [パートナー センター ダッシュ ボードの検出します。](https://partner.microsoft.com/support/partner-center-help)
+ 
+  リソースとのパートナーシップを最大限に活用するパートナー センターで利用可能なツールについて説明します。
 
-1.  Microsoft パートナー センターとは、管理者からサインイン情報を取得します。サインイン情報を受信しない場合は、組織の管理者にするには、直接再送信してもらって。 にお問い合わせください。 
+- [複数の場所のアカウントを簡単に行う](https://partner.microsoft.com/support/partner-center-help)
+ 
+  複数の地域にオフィスを管理する場合は、複数の場所アカウントを設定し、使いやすい 1 つのサイトからのすべての情報を制御する方法を次に示します。
 
-2.  Microsoft Partner University アカウントに接続します。 パートナー センターでは、選択**プロファイルを更新** > **Get Partner University へのアクセス**します。  このアカウントを接続すると、Partner University に再度アクセスすることができます。
+- [トレーニングを行い、試験カウント](https://partner.microsoft.com/support/partner-center-help)
 
-3.  Microsoft 技術試験および認定を関連付けます。 パートナー センターでは、選択**プロファイルを更新** > **試験および認定を関連付けます**。 
+  従業員の学習の資格情報を Partner University に引き続きアクセスできるようにして、資格を得るためのコンピテンシーは、ビジネス プロファイルに接続します。
 
-4.  オプション: [パスワード リセット セルフサービスをセットアップします](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password)。
+## <a name="see-also"></a>関連項目
 
-## <a name="checking-team-status-and-receiving-competency-achievements"></a>チームのステータスを確認してコンピテンシー実績を受け取る
+PMC からアカウントを正常に移行した後、は、パートナー センターに慣れてを取得するのに、次の記事を確認します。
 
-1.  組織の従業員が Microsoft Partner University アカウントを接続し、関連して試験および認定を参照してください: パートナー センターでは、選択 **、チームの状態を確認**します。
+-   [ビジネス プロファイルを作成して Microsoft から見込み情報を受け取る](create-a-marketing-profile.md)
 
-2.  従業員が自分のアカウントを関連付けるか、スキル ベースの目標を完了してから、**24 時間待ちます**。 その後、進行状況が **[パートナーシップ] > [コンピテンシー]** セクションに表示されます。
+-   [新しいアカウントのユーザーを追加し、アクセス許可を割り当てる](create-user-accounts-and-set-permissions.md)
+
+-   [Microsoft Action Pack サブスクリプションの購入と更新](mpn-get-action-pack.md)
+
+-   [メンバーシップ特典を管理する](manage-your-partner-network-benefits.md)
+
+-   [Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](https://partner.microsoft.com/membership/competencies)
+
+
+
+
+

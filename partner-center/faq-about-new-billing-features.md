@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5bdf937ee55a52c9a0e5c88f3e6006204c71ece8
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
+ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795595"
+ms.lasthandoff: 11/16/2018
+ms.locfileid: "7012605"
 ---
 # <a name="faq-about-new-billing-features"></a>新しい請求機能についてよく寄せられる質問
 
@@ -144,7 +144,7 @@ ms.locfileid: "5795595"
 
 **Q:** サブスクリプションの請求頻度を月次から年次または年次から月次に変更できますか? 
 
--   **A:** いいえ。 いったん選択した請求頻度は変更できません。 
+-   **A:** はい。 **オンライン サービスの請求頻度を変更する**には[課金の基本](https://docs.microsoft.com/en-us/partner-center/billing-basics)を参照してください。
 
 **Q:** アドオン プランでは年次請求を使用できますか?   
 
