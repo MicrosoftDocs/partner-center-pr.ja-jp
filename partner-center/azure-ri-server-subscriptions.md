@@ -7,12 +7,12 @@ author: v-petand
 ms.author: v-petand
 keywords: Azure, サブスクリプション, VM, 予約インスタンスの予約
 ms.localizationpriority: medium
-ms.openlocfilehash: cc33e605af7930484b196051565781f4d4c3f17e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 40df0686cc0a7227360d8f77f09a30d9d6520d45
+ms.sourcegitcommit: ecee11d731f3d47f2513839a4b2b98011eb95f55
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797035"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "7331034"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,23 +24,23 @@ ms.locfileid: "5797035"
  
 ## <a name="what-are-azure-reservations"></a>Azure Reservations を教えてください。
 
-Azure Reservations を使用して、前払いを 1 年または 3 年間の仮想マシン、処理能力の SQL データベース、Azure Cosmos DB スループット、またはその他の Azure リソースでコストを節約できます。 前払いをするには、使用するリソースの割引を取得することができます。 予約が仮想マシン、SQL データベースのコンピューティング、Azure Cosmos DB を大幅に削減し、その他のリソースの費用がかかる従量課金制の価格と比較して 72% までします。 予約は請求割引を提供し、リソースの実行時の状態には影響しません。詳しくは、以下を参照してください[Azure Reservations をは何ですか?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations) 。
+Azure Reservations を使用して、前払いを 1 年または 3 年間の仮想マシン、SQL データベースの処理能力、Azure Cosmos DB スループット、またはその他の Azure リソースのコストを削減できます。 前払いをするには、割引を使用するリソースを取得することができます。 予約が仮想マシン、SQL データベースのコンピューティング、Azure Cosmos DB を大幅に削減し、その他のリソースの費用がかかる従量課金制の価格と比較して 72% までします。 予約は請求割引を提供し、リソースの実行時の状態には影響しません。詳しくは、以下を参照してください[Azure Reservations をは何ですか?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations) 。
 
 ## <a name="why-should-customers-buy-a-reservation"></a>ユーザーは理由、予約を購入する必要がありますか。
 
-仮想マシン、Azure Cosmos DB または長期間に実行される SQL データベースをユーザーがいる場合、予約を購入することを伝える優れたします。 たとえば、顧客は、継続的に、予約なしで、サービスの 4 つのインスタンスを実行する場合は、請求されることは従量課金制の料金でします。 これらのリソースを予約を購入する場合がすぐに予約割引を取得します。 リソースは、従量課金制の料金でしなくなった課金されます。
+仮想マシン、Azure Cosmos DB または長期間に実行される SQL データベースをユーザーがいる場合、予約を購入することを伝える最も高い。 たとえば、顧客は、継続的に、予約なしで、サービスの 4 つのインスタンスを実行する場合は、請求されることは従量課金制の料金でします。 これらのリソースの予約を購入する場合がすぐに予約割引を取得します。 リソースは、従量課金制の料金でしなくなった課金されます。
 
  
 ### <a name="compelling-new-azure-offer-in-csp"></a>CSP での魅力的な新しい Azure プラン 
 
-で Azure Reservations と Server Subscriptions が CSP プログラム、Microsoft は、急成長する顧客の需要高いソリューションで高い予測可能な永続的なクラウド ワークロードをサポートし、パートナーを有効に向上します。 CSP プログラムは、取得、プロビジョニング、Microsoft パートナー センターと Azure Portal を通じて企業顧客に代わって Azure Reservations と Server Subscriptions を管理するパートナーを支援できます。 Azure Reservations は、顧客のコンピューティング ソリューション開発など、アプリケーションを実行するテスト、およびデータ センターの拡張、さまざまなに対する仮想化の柔軟性を提供します。 
+で Azure Reservations と Server Subscriptions が CSP プログラム、Microsoft は、パートナーは、高度に予測可能な永続的なクラウド ワークロードをサポートするためにより優れたソリューションの急成長する顧客の需要を有効が向上します。 CSP プログラムは、取得、プロビジョニング、Microsoft パートナー センターと Azure Portal を通じて企業顧客に代わって Azure Reservations と Server Subscriptions を管理するパートナーを支援できます。 Azure Reservations は、顧客のコンピューティング ソリューション開発など、テスト、アプリケーションを実行して、データ センターの拡張、さまざまなに対する仮想化の柔軟性を提供します。 
 
-[Azure Reserved VM Instances](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/)によるなど、企業顧客できます最大 72% を節約購入 – または「予約」– 1 年または 3 年の期間中の仮想マシンだけで、従量課金制の Azure VM 価格と比較します。 ソフトウェア アシュアランスに含まれている、Azure ハイブリッド特典で Windows Server のユーザーは従量課金制の価格と比較して最大 80% を保存することになります。 
+[Azure Reserved VM Instances](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/)によるなど、企業顧客できます最大 72% を節約購入 – または「予約」– 1 年または 3 年の期間中の仮想マシンだけで、従量課金制の Azure VM 価格と比較します。 Azure ハイブリッド特典、ソフトウェア アシュアランスに含まれている Windows Server のユーザーは従量課金制の価格と比較して最大 80% を保存することになります。 
 
 説得力のある価格設定と一致しない展開の柔軟性の無比の組み合わせで Azure Reservations を選択したとき、ユーザーは最適な全体的な値を表示します。 
 
 - [Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [サーバーのサブスクリプション](https://www.microsoft.com/Licensing/news/windows-sql-server-through-csp) 
+- [サーバーのサブスクリプション](https://www.microsoft.com/en-us/Licensing/news/windows-sql-server-through-csp) 
 - [リモート デスクトップ サービス (RDS) Cal](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) – 近日公開予定です。
 - [SQL DB の予約](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [SUSE Linux](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
@@ -50,7 +50,7 @@ Azure Reservations を使用して、前払いを 1 年または 3 年間の仮�
 
 
 
-## <a name="getting-started"></a>開始するには
+## <a name="getting-started"></a>概要
 
 顧客に対する Azure Reservations の位置付けを理解し、できる限り早く営業活動を開始するには、次に示すアプローチで準備資料を確認することをお勧めします。
 
@@ -60,7 +60,7 @@ Azure Reservations を使用して、前払いを 1 年または 3 年間の仮�
 
 5.  Azure RI と Server Subscriptions FAQ を確認します。
 
-6.  Azure Reservations と、[パートナー センター API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)サーバー サブスクリプションの更新プログラムを理解します。
+6.  Azure Reservations と[パートナー センター API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)サーバー サブスクリプションの更新プログラムを理解します。
 
 ## <a name="resources"></a>参考資料: 
 
@@ -71,24 +71,24 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 - [Azure Reservations と Server Subscriptions と Azure ハイブリッド特典の概要 (更新)](http://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
 - [販売シート](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 - [Azure Reservations の (更新) のパートナーはよく寄せられる質問](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Azure Reservations および SQL DB のパートナーはよく寄せられる質問](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [Azure Reservations および SQL DB パートナーよく寄せられる質問](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Azure の概要 (新規) での SQL DB](http://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Azure の料金概要](https://azure.microsoft.com/pricing/#explore-cost)
 - [Azure 料金計算ツール](https://azure.microsoft.com/pricing/calculator/)
-- Azure 予約の価格 list – パートナー センター[料金とプラン](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)] ページで、Microsoft Azure Reserved Instances 価格表を参照してください。
-- サーバーのサブスクリプションの価格 list – パートナー センター[料金とプラン](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)] ページで、ソフトウェア サブスクリプションの価格表を参照してください。
+- Azure 予約の価格 list – パートナー センター[料金とプラン](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)] ページで、Microsoft Azure Reserved Instances 価格表をご覧ください。
+- サーバーのサブスクリプションの価格 list – パートナー センター[料金とプラン](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)] ページで、ソフトウェア サブスクリプションの価格表をご覧ください。
 
 **トレーニング**
 
-- [年 2018年 11 月商用ライセンス準備ウェビナー](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommercial-licensing.eventbuilder.com%2F%3Flandingpageid%3DV0Bx6L&data=02%7C01%7Cv-oumaki%40microsoft.com%7C96e24687952242e1ff0c08d62ada13f3%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636743513471330495&sdata=DjPAKnW%2BpVekRS3Zngy2uwAkTpU4z1O%2Fh56NuTOmCzM%3D&reserved=0) CSP のオンライン サービス、CSP の Azure (Azure を含む) 全般的なライセンスの更新プログラムを網羅します。
+- [年 2018年 11 月商用ライセンス Readiness ウェビナー](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommercial-licensing.eventbuilder.com%2F%3Flandingpageid%3DV0Bx6L&data=02%7C01%7Cv-oumaki%40microsoft.com%7C96e24687952242e1ff0c08d62ada13f3%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636743513471330495&sdata=DjPAKnW%2BpVekRS3Zngy2uwAkTpU4z1O%2Fh56NuTOmCzM%3D&reserved=0) CSP のオンライン サービス、CSP の Azure (Azure を含む) 全般的なライセンスの更新プログラムを網羅します。
 - [8 月 SQL DB には、容量とインスタンスのサイズの柔軟性 - ウェビナーのライセンスが予約されています](https://commercial-licensing.eventbuilder.com/view?eventid=d0t9g4)
-- [2018年 7 月 Server Subscriptions CSP ウェビナー](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July)
+- [CSP ウェビナーでサーバー サブスクリプションを 2018 7 月](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July)
 - [2018 年 5 月の Azure Reservations 概要ウェビナー](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
 - [Azure ライセンス モジュール (Partner University)](https://aka.ms/azure_partner_licensing)
 
 **運用**
 
-- [最新の Commerce Operations Guide](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)(更新): 包括的なガイド覆わないキーのポリシーおよび運用側面契約、パートナー センター経由の注文、請求、価格などリストの詳細、インセンティブ、調整ファイル、API/SDK、サンド ボックス、および Azure Partner Shared Services します。
+- [最新の Commerce Operations Guide](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)(更新): 包括的なガイド覆わないキーのポリシーと運用側面契約、パートナー センター経由の注文、請求、価格などの一覧の詳細、インセンティブ、調整ファイル、API/SDK、サンド ボックス、および Azure Partner Shared Services します。
 - [モダン オファーの提供国と顧客の通貨の対応表](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [販売 Microsoft Azure 予約インスタンス](https://go.microsoft.com/fwlink/?linkid=872806)
 - [顧客に代わって Microsoft Azure Reservations を購入する](https://go.microsoft.com/fwlink/?linkid=872807)
