@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: a03d8b1a5cdf734831278984a6127951e7d664de
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: be48f5c91d146b0906b3c5927f74531b84bfc14c
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796065"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460959"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、およびキャンペーン
 
@@ -49,8 +49,6 @@ Microsoft では、クラウド ソリューション プロバイダー プロ�
 
 [Microsoft Cloud リセラー契約 - 台湾](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft Cloud リセラー契約 - Microsoft Cloud ドイツ](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_GER_ENG_Sep2018_GermanCloud_CR.pdf)
-
 [Microsoft Cloud リセラー契約 - 米国政府機関向け Microsoft Cloud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
 
@@ -62,7 +60,7 @@ Microsoft Cloud 契約[顧客テンプレート](agreements.md)
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 契約 (ドイツ) Professional 機密性修正
 
-ドイツでは、Criminal コード (セクション 203) と倫理規定プロフェッショナル向けのコードを必要としておく、たとえば、患者の医学博士間の関係との間の関係の特定のクライアントの関係が弁護士とそのクライアントです。 これらの労働グループは、プロフェッショナル向けの機密性を確保する必要があります。 これらと他の職務でもクラウド ソリューション プロバイダーからクラウド ベースのサービスを購入するのには、クラウド サービス プロバイダーはプロフェッショナル向けの機密性をにより、顧客との契約書を判断する必要があります。 
+ドイツでは、Criminal コード (セクション 203) と倫理規定プロフェッショナル向けのコードを必要としておく、たとえば、患者の医学博士間の関係との間の関係の特定のクライアントの関係が弁護士とそのクライアントです。 これらの労働グループは、プロフェッショナル向けの機密性を確保する必要があります。 これらと他の職務でもクラウド ソリューション プロバイダーからクラウド ベースのサービスを購入するのには、クラウド サービス プロバイダーは、プロフェッショナル向けの機密性をにより、顧客との契約書を判断する必要があります。 
 
 ドイツでビジネスを行う場合は、この professional 機密性修正があるだけでなく、Microsoft Cloud 契約顧客に提供する必要があります。
 
@@ -80,7 +78,7 @@ Microsoft Cloud 契約[顧客テンプレート](agreements.md)
 
 使用量ベースの価格は変動的であり、頻繁に変更されています。 使用量ベースのサービスには、たとえば Microsoft Azure があります。
 
-1 回限りの購入価格は動的もです。 1 回限りの購入の例には、Microsoft Azure reservations および Windows Server および SQL ソフトウェアの対応するサブスクリプションが含まれます。 
+1 回限りの購入価格は動的もです。 1 回限りの購入の例には、Microsoft Azure reservations と Windows Server および SQL ソフトウェアに対応するサブスクリプションが含まれます。 
 
 
 ## <a name="offers"></a>サービス

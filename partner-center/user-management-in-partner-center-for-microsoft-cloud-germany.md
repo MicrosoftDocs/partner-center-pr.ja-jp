@@ -6,18 +6,22 @@ description: 個人データの収集と使用に適用される国、地域、�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ae81568aeeb703470549d08b0e39b6ec07e0ba6e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 63c6def58f32dbac2d7b997ae9b165a9fe16cdd4
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797025"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460949"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
 
 **適用対象**
 
 -  Microsoft Cloud ドイツのパートナー センター
+
+>[!IMPORTANT] 顧客のニーズに進化したものに基づき、ドイツ、クラウド戦略に焦点を当てます、グローバルなクラウドと一貫性のある、ドイツのクラウドの新しい領域の配信を提供します。 このフォーカスのあるしますはしなくなった新しい顧客を受け入れるか、現在利用可能な Microsoft Cloud ドイツから、新しいサービスの展開。 既存のお客様は、現在のクラウド サービス現在では、利用可能なために必要なセキュリティ更新プログラムが維持します。 これを使用する続行できます。
+
+>新しい顧客に進むには、使用可能になったときに、現在利用可能なヨーロッパの地域またはドイツ内の新しい領域を使用するオプションがあります。 詳細については、[ドイツの新しいデータ センターからのクラウド サービスを提供する Microsoft](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)を参照してください。
 
 個人データの使用と収集に適用されるドイツの法律と規制および主要な国際基準に準拠するための、次に挙げるユーザーおよびライセンス管理機能が、Microsoft Cloud ドイツのパートナー センターでは利用できません。 代わりに、Microsoft Cloud ドイツの Azure ポータルまたは Office 365 管理センターでユーザーとライセンスを追加して管理します。
 
@@ -28,9 +32,6 @@ ms.locfileid: "5797025"
 ユーザー パスワードのリセット | Microsoft Cloud ドイツの Azure 管理ポータル
 ライセンスの管理 | Office 365 管理センターまたは Microsoft Cloud ドイツ Azure Active Directory ライセンス ポータル
 
-> [!NOTE]  
-> この記事が公開された時点では、Azure 管理ポータルまたは Office 365 管理ポータルで顧客のユーザー ライセンスを管理する方法に関するドキュメントはまだ用意されていません。
-
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツの Azure ポータルでユーザーを管理する方法 
 
 Microsoft Cloud ドイツのパートナー センターにサインインしている場合は、サインインし直さなくても Microsoft Cloud ドイツの Azure ポータルを開くことができます。 ただし、Microsoft Cloud ドイツの Azure ポータルに直接サインインする必要がある場合に、[https://portal.microsoftazure.de](https://portal.microsoftazure.de)します。 
@@ -38,16 +39,18 @@ Microsoft Cloud ドイツのパートナー センターにサインインして
 Microsoft Cloud ドイツの Azure ポータルに正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
 
 > [!NOTE]  
-> 以下のリンクを選択するは、さまざまなの web サイトにします。 
+> 以下のリンクを選んでかかる別の web サイトにします。 
 
--  [**Azure Active Directory に新しいユーザーを追加する**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Azure Active Directory に新しいユーザーを追加する](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Azure Active Directory でユーザーを管理者ロールに割り当てる**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Azure Active Directory でユーザーを管理者ロールに割り当てる](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**Azure Active Directory でのユーザー パスワードのリセット**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Azure Active Directory でのユーザー パスワードのリセット](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **関連トピック**
 
--  [**Microsoft Cloud ドイツのパートナー センター**](partner-center-for-microsoft-cloud-germany.md)
+-  [Microsoft Azure ドイツ](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
 
--  [**Microsoft Cloud ドイツのクラウド ソリューション プロバイダー プログラムに登録する**](enroll-in-csp-for-microsoft-cloud-germany.md)
+-  [Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)
+
+

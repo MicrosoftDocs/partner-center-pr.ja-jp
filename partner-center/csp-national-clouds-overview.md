@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: ナショナル クラウド, Microsoft Cloud ドイツ, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud 中国
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f56912c872e3eb02ceb13ee00ba9fe13998ef33
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cf2d126fa7d9c5e62313309b8ff89c7abaa2887b
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795245"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460919"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Microsoft ナショナル クラウドでの販売の申請
 
@@ -36,7 +36,10 @@ Microsoft では、以下のサービスをナショナル クラウドで提供
 
 -   [**Microsoft Cloud ドイツ**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany): Microsoft Cloud ドイツでは、独自のモデルを使用してドイツのデータセンターから Azure、Office 365、Dynamics 365 を提供しています。 このモデルでは、顧客データへのアクセスは、独立したドイツ データ トラスティによってドイツ法に基づいて制御されます。 Deutsche Telecom の子会社である T-Systems International GmbH は、Microsoft Cloud ドイツの独立したデータ トラスティとして機能します。 
 
-    Microsoft Cloud ドイツに登録して顧客への販売を行う方法については、「[Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)」をご覧ください。 
+    >[!IMPORTANT] 顧客のニーズに進化したものに基づき、ドイツ、クラウド戦略に焦点を当てます、グローバルなクラウドと一貫性のある、ドイツのクラウドの新しい領域の配信を提供します。 このフォーカスのあるしますはしなくなった新しい顧客を受け入れるか、現在利用可能な Microsoft Cloud ドイツから、新しいサービスの展開。 既存のお客様は、現在のクラウド サービス現在では、利用可能なために必要なセキュリティ更新プログラムが維持します。 これを使用する続行できます。
+
+    >新しい顧客に進むには、使用可能になったときに、現在利用可能なヨーロッパの地域またはドイツ内の新しい領域を使用するオプションがあります。 詳細については、[ドイツの新しいデータ センターからのクラウド サービスを提供する Microsoft](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)を参照してください。
+
     
 -   [**中国の 21Vianet で運営されている Azure および Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China): Microsoft は、Beijing 21Vianet Broadband Data Center Co., Ltd の完全子会社である Shanghai Blue Cloud Technology Co., Ltd. (21Vianet) との特別なパートナーシップによって中国でのクラウド サービスを提供しています。21Vianet は通信会社に依存しない中国最大のインターネット プロバイダーで、データセンター、ホスティング、マネージド ネットワーク、クラウド コンピューティング インフラストラクチャ サービスを提供しています。 
 
