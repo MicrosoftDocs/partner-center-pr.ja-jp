@@ -1,4 +1,4 @@
-# [Microsoft パートナー センターについて](index.md)
+# [Microsoft パートナー センターの詳細](index.md)
 
 # [Partner Network メンバーシップ](mpn-overview.md)
 ## [パートナー センター アカウントを作成する](mpn-create-a-partner-center-account.md)
@@ -13,11 +13,10 @@
 ## [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
 ## [CSP の直接パートナーの新しい要件](direct-partner-new-requirements.md) 
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
-## [CSP の地域承認の概要](regional-authorization-overview.md)
-## [CSP の地域的承認によるテナント統合](csp-regional-authorization-tenant-consolidation.md)
-## [顧客契約テンプレート](agreements.md)
+## [CSP の地域市場と通貨](regional-authorization-overview.md)
+## [地域と言語別の Microsoft Cloud 契約](agreements.md)
 
-## [ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)
+## [ナショナル クラウド](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)
 
@@ -44,6 +43,7 @@
 
 
 # [請求と税金](billing.md)
+## [CSP の請求の概要](billing-basics.md)
 ## [新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)
 ## [請求書の記載事項](read-your-bill.md)
 ## [調整ファイルを使う](use-the-reconciliation-files.md)
@@ -80,6 +80,7 @@
 ### [ライセンスベース サービスの顧客をクラウド サービス プロバイダー プログラムに移動する](transition-seat-based-services.md)
 ### [Minecraft: Education Edition のサブスクリプションの販売](minecraft-subscriptions.md)
 ### [特別価格の対象となる業界への販売](Get-special-pricing-for-offers.md)
+### [適格な政府機関の顧客への Office 365 Government GCC の販売](csp-gcc-overview.md)
 ### [導入実績と満足度の向上](increasing-adoption-and-satisfaction.md)
 ### [Windows Autopilot でデバイスのセットアップを効率化する](autopilot.md)
 ##  製品を新しいバージョンにアップグレードまたは転送する
