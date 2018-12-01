@@ -7,12 +7,12 @@ author: v-petand
 ms.author: v-petand
 keywords: azure reservations を管理, 請求, 購入
 ms.localizationpriority: medium
-ms.openlocfilehash: 2022018629bd54140a3d9aeca93a4523102c366e
-ms.sourcegitcommit: 282861f9063fe525bc54f8bbab96656563491b26
+ms.openlocfilehash: 75e1afefbd2b411e5e1778e04e01781ac7bbe080
+ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "6075263"
+ms.lasthandoff: 12/01/2018
+ms.locfileid: "8382948"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure reservations を購入します。 
 
@@ -30,7 +30,7 @@ ms.locfileid: "6075263"
   
 -   SQL データベースまたは SUSE Linux ソフトウェアなどのソフトウェア サブスクリプション コストは Azure 予約の価格に含まれていません
 
--   Microsoft の商用の価格は含まれません税金の場所がオーストラリアまたはブラジルしない限り。 商用価格には場所は、オーストラリアまたはブラジルが、適切な税金が含まれます 
+-   Microsoft の商用の価格は含まれません税金の場所がブラジルしない限り。 商用価格にはの場所がブラジルである場合は、適切な税が含まれています 
  
 -   販売担当者およびヘルプ デスク担当者は、顧客に代わって Azure portal で Azure サブスクリプションの購入または管理を行い、サポート要求 (交換や返金を含む) を登録できるように、Azure サブスクリプションへの明示的なアクセス許可を持っている必要があります。  
 
@@ -92,22 +92,22 @@ ms.locfileid: "6075263"
 
 パートナー センターで顧客に代わって Microsoft Azure reservations を購入するのには、次の手順に従います。
 
-1. パートナー センター メニューから**顧客**を選びます。  
+1. パートナー センター メニューから**顧客**を選択します。  
 
 2. **[顧客]** ページで、Azure Reservations を購入する顧客を見つけ、下矢印を選択して顧客行を展開します。  
 
 3. **追加の製品**を選択し、 **Azure**を選択します。 
 
-    a.  **セグメント**の一覧から顧客の市場を選択します。
+    a. **セグメント**の一覧から顧客の市場を選択します。
 
-    b.  製品**の種類**の一覧から、**予約**を選択します。
+    b. 製品**の種類**の一覧から、**予約**を選択します。
 
     c. **予約の種類**の一覧から、顧客が予約の種類を選択します。
 
 4. Azure Reservations をアクティブな Azure サブスクリプションに関連付ける必要があります。 **顧客のサブスクリプション**の一覧から Azure reservations を追加する対象の顧客のサブスクリプションを選択します。 
 
    >[!IMPORTANT]
-   >顧客があるまだアクティブな Azure サブスクリプションしていない場合は、ここで追加の**オンライン サービス**を選択します。 
+   >顧客がアクティブな Azure サブスクリプションを持っていない既に場合は、ここで追加の**オンライン サービス**を選択します。 
 
 5. 顧客の要件を満たしている仮想マシン上の Azure reservations の検索フィルターを使用します。  
 
@@ -126,9 +126,9 @@ ms.locfileid: "6075263"
 
     - プロバイダー パートナーにいる場合は、製品に関連付けるリセラーを選択します。
 
-9. **[購入]** を選択して注文内容を購入します。 **[確認]** ページでは、お客様の注文番号を含む注文の詳細が表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
+9. **[購入]** を選択して注文内容を購入します。 **[確認]** ページでは、注文番号を含む、注文の詳細が表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
 
-10. Azure portal で顧客の予約を管理するため、[**顧客**] ページで、顧客を見つけし、顧客の行を展開する下矢印を選択します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。
+10. Azure portal で顧客の予約を管理、**顧客**ページに顧客を検索し、顧客の行を展開する下矢印を選択します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
 |**情報**   |**参照先**    |
