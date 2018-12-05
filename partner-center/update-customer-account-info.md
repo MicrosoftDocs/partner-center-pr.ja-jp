@@ -7,20 +7,20 @@ ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 54dda52acddff804c2bd3b4017d6041aa0a34720
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5ba40901453620d98fad2195fad3bb8f6dd4773c
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795085"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683661"
 ---
 # <a name="update-customer-account-info"></a>顧客アカウントの情報を更新する
 
 **適用対象**
 
 -  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+-  Microsoft Cloud for US Government のパートナー センター
+
 
 パートナー センターで、顧客の課金情報とその他の会社の詳細情報を更新することができます。
 

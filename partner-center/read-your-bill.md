@@ -8,22 +8,22 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795695"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683791"
 ---
 # <a name="read-your-bill"></a>請求書の記載事項
 
 **適用対象**
 
 -  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+-  Microsoft Cloud for US Government のパートナー センター
 
-請求書の**パートナー センター**メニューに移動します選び、**請求**に請求の履歴と傾向、請求書と調整ファイルの場合は、前回のお支払いへのリンクを参照してください。
+
+請求書、**パートナー センター**メニューに移動し、選び、**請求**請求の履歴と傾向、請求書と調整ファイル、前回のお支払いへのリンクを確認する。
 
 クラウド ソリューション プロバイダー プログラムに参加中で月次請求を選択した場合は、顧客 (ライセンスベースおよび使用量ベース) のサブスクリプション料金を 60 日以内に Microsoft にお支払いください。
 

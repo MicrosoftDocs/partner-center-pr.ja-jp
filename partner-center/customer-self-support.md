@@ -8,20 +8,20 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 顧客によるセルフ サポート, セルフ サポート,
 ms.localizationpriority: medium
-ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794775"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683481"
 ---
 # <a name="customer-self-support"></a>顧客によるセルフ サポート
 
 **適用対象**
 
 -  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+-  Microsoft Cloud for US Government のパートナー センター
+
 
 お客様は各自の Microsoft Office 365 管理センターまたは Azure の管理ポータルにサインインし、各自のアカウントを管理できます。
 

@@ -7,20 +7,20 @@ ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d759001b2cbaf8cab5f5b6e501dd0635b7adb11b
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797225"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683551"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Microsoft に問題をエスカレートする
 
 **適用対象**
 
 -  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+-  Microsoft Cloud for US Government のパートナー センター
+
 
 貴社は、お客様に代わって問題を解決することが求められます。 最初に、[サービスの状態を確認](check-service-health.md)して、既存の記録済みの問題に該当するものがないか確認します。 これによってお客様の問題に対応できない場合、管理者特権を使ってソフトウェア、設定、構成のトラブルシューティングを行うことができます。
 
@@ -44,7 +44,7 @@ ms.locfileid: "5797225"
 4. **新しい要求**を選択し、 **Microsoft Office 365**を選択します。
 5. 表示されます、Office 365 ポータルに、パートナー センターの資格情報を使用してサインインする必要があります。
 6. **サポート**左側のメニューから**新しいサービス要求**を選択します。
-7. サポート」のトピックを選択します。
+7. このトピックでのサポートを選択します。
 
 >[!NOTE]
 >パートナーと顧客の間の関係を維持するために、パートナー センターから開始する重要です。 

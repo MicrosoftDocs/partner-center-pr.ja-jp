@@ -7,20 +7,20 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795745"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683671"
 ---
 # <a name="multi-channel-support"></a>マルチチャンネルのサポート
 
 **適用対象**
 
 -  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+-  Microsoft Cloud for US Government のパートナー センター
+
 
 パートナー センターのマルチ チャンネル機能は、顧客の管理や、別の場所に購入したサブスクリプションのサポートをパートナーに依頼する場合のシナリオをサポートします。 マルチチャンネルのサポートは次の場合に適用されます。
 
@@ -50,7 +50,7 @@ ms.locfileid: "5795745"
 </table>
 
 > [!IMPORTANT]  
-> 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 Microsoft では、継続的にすべてのプログラムのポリシーと機能をレビューしています。 パートナー センターなど、通常の通信チャネルを通じて、機能のリリースに関するすべてのお知らせが発表されます。 
+> 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 Microsoft では、継続的にすべてのプログラムのポリシーと機能をレビューしています。 パートナー センターなど、一般的な通信チャネルを通じて、機能のリリースに関するすべてのお知らせが発表されます。 
 
 ## <a name="see-also"></a>関連項目
 

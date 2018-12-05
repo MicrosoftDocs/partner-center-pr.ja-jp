@@ -7,20 +7,20 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796115"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683701"
 ---
 # <a name="manage-your-customer-list"></a>顧客一覧を管理する
 
 **適用対象**
 
 -  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+-  Microsoft Cloud for US Government のパートナー センター
+
 
 顧客の記録は、パートナー センターでの最も重要な情報資産の 1 つです。 顧客アカウントのデータベースを検索したり、顧客データベース全体またはサブセットを Excel 互換のコンマ区切り値ファイル形式 (.csv) でエクスポートしたりすることができます。 また、顧客のサブスクリプション情報を .csv ファイルにエクスポートすることもできます。
 

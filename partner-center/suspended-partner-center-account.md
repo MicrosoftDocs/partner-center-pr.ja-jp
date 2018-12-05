@@ -7,12 +7,12 @@ ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c0d55c0b8400c011b77c2be030e12686a0eadd6b
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ae2ce5ec0ac117d0adcb9e9b0f63e2c43e906bb7
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796195"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683471"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>一時停止されているパートナー センターのアカウントを復元する
 
@@ -21,8 +21,8 @@ ms.locfileid: "5796195"
 **適用対象**
 
 -  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+-  Microsoft Cloud for US Government のパートナー センター
+
 
 > [!IMPORTANT]  
 > パートナー センターのアカウントが一時停止された場合でも、既存の展開、ライセンス、およびサービスは引き続き管理できます。 ただし、お使いのアカウントが再び良好な状態になるまで、新しいライセンスやサービスを承認したり、再販売したりすることはできません。

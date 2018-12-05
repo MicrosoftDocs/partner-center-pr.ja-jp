@@ -8,20 +8,19 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: be48f5c91d146b0906b3c5927f74531b84bfc14c
-ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
+ms.openlocfilehash: 9318834c508629285265a4c2267e8ada10896db8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/21/2018
-ms.locfileid: "7460959"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683781"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、およびキャンペーン
 
 **適用対象**
 
 -  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+-  Microsoft Cloud for US Government のパートナー センター
 
 
 この記事では、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに参加するための要件を示します。 
@@ -58,15 +57,15 @@ CSP のパートナーは、マイクロソフトによる契約条件 (マイ�
 
 Microsoft Cloud 契約[顧客テンプレート](agreements.md)
 
-### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 契約 (ドイツ) Professional 機密性修正
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 契約 (ドイツ) プロフェッショナル向けの機密性修正
 
-ドイツでは、Criminal コード (セクション 203) と倫理規定プロフェッショナル向けのコードを必要としておく、たとえば、患者の医学博士間の関係との間の関係の特定のクライアントの関係が弁護士とそのクライアントです。 これらの労働グループは、プロフェッショナル向けの機密性を確保する必要があります。 これらと他の職務でもクラウド ソリューション プロバイダーからクラウド ベースのサービスを購入するのには、クラウド サービス プロバイダーは、プロフェッショナル向けの機密性をにより、顧客との契約書を判断する必要があります。 
+ドイツでは、犯罪コード (セクション 203) と倫理規定プロフェッショナル向けのコードを必要としておく、たとえば、患者の医学博士間の関係との間の関係クライアントの関係が弁護士とそのクライアントです。 これらの労働グループは、プロフェッショナル向けの機密性を確保する必要があります。 これらと他の職務でもクラウド ソリューション プロバイダーからクラウド ベースのサービスを購入するのには、クラウド サービス プロバイダーは、プロフェッショナル向けの機密性をにより、顧客との契約書を判断する必要があります。 
 
 ドイツでビジネスを行う場合は、この professional 機密性修正があるだけでなく、Microsoft Cloud 契約顧客に提供する必要があります。
 
-[Microsoft Cloud 契約のプロフェッショナル向けの機密性修正ドイツ (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[Microsoft Cloud 契約 Professional 機密性修正ドイツ (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[Microsoft Cloud 契約のプロフェッショナル向けの機密性修正ドイツ (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[Microsoft Cloud 契約 Professional 機密性修正ドイツ (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 
 ## <a name="pricing"></a>価格設定
@@ -78,13 +77,13 @@ Microsoft Cloud 契約[顧客テンプレート](agreements.md)
 
 使用量ベースの価格は変動的であり、頻繁に変更されています。 使用量ベースのサービスには、たとえば Microsoft Azure があります。
 
-1 回限りの購入価格は動的もです。 1 回限りの購入の例には、Microsoft Azure reservations と Windows Server および SQL ソフトウェアに対応するサブスクリプションが含まれます。 
+1 回限りの購入価格は動的もです。 1 回限りの購入の例には、Microsoft Azure reservations および Windows Server および SQL ソフトウェアの対応するサブスクリプションが含まれます。 
 
 
 ## <a name="offers"></a>サービス
 
 
-Csp パートナーは、さまざまな Microsoft 製品、サービス、および Office 365、Enterprise Mobility Suite、Microsoft Dynamics、および Microsoft Azure を含むソリューションを販売できます。 プランとこれらの製品ファミリ内で販売するために利用可能なについて詳しくは、[**料金とプラン**] ページで、**パートナー センター**メニューから利用可能なプランのマトリックスの CSP を参照してください。 このドキュメントは毎月更新されます。
+Csp パートナーは、さまざまな Microsoft 製品、サービス、および Office 365、Enterprise Mobility Suite、Microsoft Dynamics、および Microsoft Azure を含むソリューションを販売できます。 プランと、これらの製品ファミリ内で販売できるについて詳しくは、[**料金とプラン**] ページで、**パートナー センター**メニューから利用可能なプランのマトリックスの CSP を参照してください。 このドキュメントは毎月更新されます。
 
 Crest Usage Record API を使用している CSP パートナーは、**[料金とプラン]** ページで CSP での Azure サービスの一覧を利用することもできます。
 
