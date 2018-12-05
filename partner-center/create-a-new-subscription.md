@@ -8,62 +8,61 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796405"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683721"
 ---
-# <a name="create-suspend-or-cancel-customer-subscriptions"></a><span data-ttu-id="f3dfd-103">顧客のサブスクリプションの作成、中断、取り消し</span><span class="sxs-lookup"><span data-stu-id="f3dfd-103">Create, suspend, or cancel customer subscriptions</span></span>
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a><span data-ttu-id="d4e47-103">顧客のサブスクリプションの作成、中断、取り消し</span><span class="sxs-lookup"><span data-stu-id="d4e47-103">Create, suspend, or cancel customer subscriptions</span></span>
 
-**<span data-ttu-id="f3dfd-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="f3dfd-104">Applies to</span></span>**
+**<span data-ttu-id="d4e47-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="d4e47-104">Applies to</span></span>**
 
--  <span data-ttu-id="f3dfd-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="f3dfd-105">Partner Center</span></span>
--  <span data-ttu-id="f3dfd-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="f3dfd-106">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="f3dfd-107">Microsoft Cloud ドイツのパートナー センター</span><span class="sxs-lookup"><span data-stu-id="f3dfd-107">Partner Center for Microsoft Cloud Germany</span></span>
--  <span data-ttu-id="f3dfd-108">CSP パートナー</span><span class="sxs-lookup"><span data-stu-id="f3dfd-108">CSP partners</span></span>
+-  <span data-ttu-id="d4e47-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="d4e47-105">Partner Center</span></span>
+-  <span data-ttu-id="d4e47-106">Microsoft Cloud for US Government のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="d4e47-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="d4e47-107">CSP パートナー</span><span class="sxs-lookup"><span data-stu-id="d4e47-107">CSP partners</span></span>
 
-<span data-ttu-id="f3dfd-109">パートナー センターで顧客のレコードを作成したら、するサブスクリプションを販売できます、カタログ内の製品にします。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-109">After you've created a record of your customer in the Partner Center, you can sell them subscriptions to products in the catalog.</span></span>
+<span data-ttu-id="d4e47-108">パートナー センターで顧客のレコードを作成したら、するサブスクリプションを販売できます、カタログ内の製品にします。</span><span class="sxs-lookup"><span data-stu-id="d4e47-108">After you've created a record of your customer in the Partner Center, you can sell them subscriptions to products in the catalog.</span></span>
 
-<span data-ttu-id="f3dfd-110">一部のプランでは、顧客ごとに保有できるサブスクリプションが 1 つに限られていることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-110">Note that some offers are limited to one subscription per customer.</span></span> <span data-ttu-id="f3dfd-111">制限のあるオファーの一覧を確認するには、パートナー センターの [料金とプラン] ページをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-111">To see a list of which offers are restricted, visit the Partner Center Pricing and Offers page.</span></span> 
+<span data-ttu-id="d4e47-109">一部のプランでは、顧客ごとに保有できるサブスクリプションが 1 つに限られていることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="d4e47-109">Note that some offers are limited to one subscription per customer.</span></span> <span data-ttu-id="d4e47-110">制限のあるオファーの一覧を確認するには、パートナー センターの [料金とプラン] ページをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="d4e47-110">To see a list of which offers are restricted, visit the Partner Center Pricing and Offers page.</span></span> 
 
 
-**<span data-ttu-id="f3dfd-112">新しいサブスクリプションの作成</span><span class="sxs-lookup"><span data-stu-id="f3dfd-112">Create a new subscription</span></span>**
+**<span data-ttu-id="d4e47-111">新しいサブスクリプションの作成</span><span class="sxs-lookup"><span data-stu-id="d4e47-111">Create a new subscription</span></span>**
 
-1.  <span data-ttu-id="f3dfd-113">**パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選択します。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-113">From the **Partner Center** menu, select **Customers**, then choose a customer from the list.</span></span>
+1.  <span data-ttu-id="d4e47-112">**パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選択します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-112">From the **Partner Center** menu, select **Customers**, then choose a customer from the list.</span></span>
 
-2.  <span data-ttu-id="f3dfd-114">**[新しいサブスクリプション]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-114">Select **New subscription**.</span></span>
+2.  <span data-ttu-id="d4e47-113">**[新しいサブスクリプション]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-113">Select **New subscription**.</span></span>
 
-3.  <span data-ttu-id="f3dfd-115">使用するサブスクリプションの請求の種類を選択します。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-115">Select the type of subscription billing you want to use.</span></span>  <span data-ttu-id="f3dfd-116">請求頻度を月次と年次のいずれかに決定するのに役立つ情報については、[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-116">See [FAQ about new billing features](faq-about-new-billing-features.md) for information that will help you decide between the monthly and annual billing frequency.</span></span>
+3.  <span data-ttu-id="d4e47-114">使用するサブスクリプションの請求の種類を選択します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-114">Select the type of subscription billing you want to use.</span></span>  <span data-ttu-id="d4e47-115">請求頻度を月次と年次のいずれかに決定するのに役立つ情報については、[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d4e47-115">See [FAQ about new billing features](faq-about-new-billing-features.md) for information that will help you decide between the monthly and annual billing frequency.</span></span>
  
  >[!Note]
- ><span data-ttu-id="f3dfd-117">試用版サブスクリプションを顧客に提供することができます。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-117">You can offer customers trial subscriptions.</span></span> <span data-ttu-id="f3dfd-118">試用版の利用可能な製品は、カタログ内の試用版] タブ中です。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-118">Products available for trial are under the trial tab in the catalog.</span></span> <span data-ttu-id="f3dfd-119">[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-119">See [Offer your customers trials of Microsoft products](offer-your-customers-trials-of-microsoft-products.md).</span></span>
+ ><span data-ttu-id="d4e47-116">試用版サブスクリプションを顧客に提供することができます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-116">You can offer customers trial subscriptions.</span></span> <span data-ttu-id="d4e47-117">試用版の利用可能な製品は、カタログ内の試用版] タブ中です。</span><span class="sxs-lookup"><span data-stu-id="d4e47-117">Products available for trial are under the trial tab in the catalog.</span></span> <span data-ttu-id="d4e47-118">[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d4e47-118">See [Offer your customers trials of Microsoft products](offer-your-customers-trials-of-microsoft-products.md).</span></span>
 
  
-4. <span data-ttu-id="f3dfd-120">請求頻度を選択したら、カタログ内のサブスクリプションが必要な製品を選びます。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-120">After selecting the billing frequency, select the products you want subscriptions for in the catalog.</span></span> <span data-ttu-id="f3dfd-121">製品の可用性は、顧客の種類 (教育機関、政府機関など) と選んだ請求頻度によって異なります。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-121">The availability of products depends on the type of customer (education, government, etc.) and the billing frequency you have selected.</span></span> <span data-ttu-id="f3dfd-122">製品が利用できない場合、顧客がその製品のサブスクリプションを既に保有しており、1 つのみが許可されている可能性があります。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-122">If a product is not available, the customer may already have a subscription to that product and is only allowed one.</span></span> <span data-ttu-id="f3dfd-123">または、サブスクリプションが中断されている可能性があり、その場合は、新しいものを購入する代わりに再アクティブ化することができます。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-123">Or, you may have suspended the subscription in which case, you can reactivate it rather than purchasing a new one.</span></span>
+4. <span data-ttu-id="d4e47-119">請求頻度を選択したら、カタログ内のサブスクリプションが必要な製品を選択します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-119">After selecting the billing frequency, select the products you want subscriptions for in the catalog.</span></span> <span data-ttu-id="d4e47-120">製品の可用性は、顧客の種類 (教育機関、政府機関など) と選んだ請求頻度によって異なります。</span><span class="sxs-lookup"><span data-stu-id="d4e47-120">The availability of products depends on the type of customer (education, government, etc.) and the billing frequency you have selected.</span></span> <span data-ttu-id="d4e47-121">製品が利用できない場合、顧客がその製品のサブスクリプションを既に保有しており、1 つのみが許可されている可能性があります。</span><span class="sxs-lookup"><span data-stu-id="d4e47-121">If a product is not available, the customer may already have a subscription to that product and is only allowed one.</span></span> <span data-ttu-id="d4e47-122">または、サブスクリプションが中断されている可能性があり、その場合は、新しいものを購入する代わりに再アクティブ化することができます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-122">Or, you may have suspended the subscription in which case, you can reactivate it rather than purchasing a new one.</span></span>
 
-5. <span data-ttu-id="f3dfd-124">追加するサブスクリプションをオンにして、ライセンス数を入力します。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-124">Check the subscription you want to add and enter the number of licenses.</span></span> <span data-ttu-id="f3dfd-125">
-          \*\*[送信]\*\* を選んで注文を送信します。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-125">Then **Submit** the order.</span></span>
+5. <span data-ttu-id="d4e47-123">追加するサブスクリプションをオンにして、ライセンス数を入力します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-123">Check the subscription you want to add and enter the number of licenses.</span></span> <span data-ttu-id="d4e47-124">
+          \*\*[送信]\*\* を選んで注文を送信します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-124">Then **Submit** the order.</span></span>
 
-6.  <span data-ttu-id="f3dfd-126">サブスクリプションが追加されたら、サブスクリプションの一覧でサブスクリプション名をクリックして開きます。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-126">After the subscription is added, open it by clicking the subscription name in the subscriptions list.</span></span> <span data-ttu-id="f3dfd-127">この編集ページでは、アドオン ライセンスを選ぶことができます (利用可能な場合)。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-127">On this edit page, you can select add-on licenses, if any are available.</span></span>
+6.  <span data-ttu-id="d4e47-125">サブスクリプションが追加されたら、サブスクリプションの一覧でサブスクリプション名をクリックして開きます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-125">After the subscription is added, open it by clicking the subscription name in the subscriptions list.</span></span> <span data-ttu-id="d4e47-126">この編集ページでは、アドオン ライセンスを選ぶことができます (利用可能な場合)。</span><span class="sxs-lookup"><span data-stu-id="d4e47-126">On this edit page, you can select add-on licenses, if any are available.</span></span>
 
-7.  <span data-ttu-id="f3dfd-128">編集ページでは、ライセンス数の変更や、サブスクリプションの中断を行うこともできます。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-128">On the edit page you can also change the quantity of licenses, or suspend the subscription.</span></span>
+7.  <span data-ttu-id="d4e47-127">編集ページでは、ライセンス数の変更や、サブスクリプションの中断を行うこともできます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-127">On the edit page you can also change the quantity of licenses, or suspend the subscription.</span></span>
 
-## <a name="suspend-or-cancel-a-subscription"></a><span data-ttu-id="f3dfd-129">サブスクリプションを中断または取り消す</span><span class="sxs-lookup"><span data-stu-id="f3dfd-129">Suspend or cancel a subscription</span></span>
+## <a name="suspend-or-cancel-a-subscription"></a><span data-ttu-id="d4e47-128">サブスクリプションを中断または取り消す</span><span class="sxs-lookup"><span data-stu-id="d4e47-128">Suspend or cancel a subscription</span></span>
 
-<span data-ttu-id="f3dfd-130">顧客から要請があった場合、または未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断するか取り消すことができます。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-130">Partners can suspend or cancel a subscription if requested by the customer, or in cases of nonpayment or fraud.</span></span>
+<span data-ttu-id="d4e47-129">顧客から要請があった場合、または未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断するか取り消すことができます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-129">Partners can suspend or cancel a subscription if requested by the customer, or in cases of nonpayment or fraud.</span></span>
 
-<span data-ttu-id="f3dfd-131">サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-131">When you change the status of a subscription to **Suspended**, users are not able to sign in or access services.</span></span> <span data-ttu-id="f3dfd-132">管理者は、引き続きサインインしてデータにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-132">Administrators can still sign in and access data.</span></span>
+<span data-ttu-id="d4e47-130">サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。</span><span class="sxs-lookup"><span data-stu-id="d4e47-130">When you change the status of a subscription to **Suspended**, users are not able to sign in or access services.</span></span> <span data-ttu-id="d4e47-131">管理者は、引き続きサインインしてデータにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-131">Administrators can still sign in and access data.</span></span>
 
-**<span data-ttu-id="f3dfd-133">サブスクリプションを中断する</span><span class="sxs-lookup"><span data-stu-id="f3dfd-133">Suspend a subscription</span></span>**
+**<span data-ttu-id="d4e47-132">サブスクリプションを中断する</span><span class="sxs-lookup"><span data-stu-id="d4e47-132">Suspend a subscription</span></span>**
 
-1.  <span data-ttu-id="f3dfd-134">**パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選択します。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-134">From the **Partner Center** menu, select **Customers**, then choose a customer from the list.</span></span>
-2.  <span data-ttu-id="f3dfd-135">管理対象のサブスクリプションを選びます。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-135">Choose the subscription you want to manage.</span></span>
-3.  <span data-ttu-id="f3dfd-136">**[状態]** セクションで、**[中断]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-136">In the **Status** section, choose **Suspended**.</span></span> <span data-ttu-id="f3dfd-137">次に、変更を**提出**します。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-137">Then **Submit** your changes.</span></span>
-4.  <span data-ttu-id="f3dfd-138">90 日以内、または 90 日にアカウントが開かれた時点から最初の課金までの日数を加えた期間 (最大 120 日) 以内にサブスクリプションを再アクティブ化しない限り、すべてのデータは削除されます。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-138">All data will be deleted unless the subscription is reactivated within 90 days, or 90 days plus the number of days between the time the account was opened and the first billing period (maximum 120 days).</span></span>
+1.  <span data-ttu-id="d4e47-133">**パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選択します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-133">From the **Partner Center** menu, select **Customers**, then choose a customer from the list.</span></span>
+2.  <span data-ttu-id="d4e47-134">管理対象のサブスクリプションを選びます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-134">Choose the subscription you want to manage.</span></span>
+3.  <span data-ttu-id="d4e47-135">**[状態]** セクションで、**[中断]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-135">In the **Status** section, choose **Suspended**.</span></span> <span data-ttu-id="d4e47-136">次に、変更を**提出**します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-136">Then **Submit** your changes.</span></span>
+4.  <span data-ttu-id="d4e47-137">90 日以内、または 90 日にアカウントが開かれた時点から最初の課金までの日数を加えた期間 (最大 120 日) 以内にサブスクリプションを再アクティブ化しない限り、すべてのデータは削除されます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-137">All data will be deleted unless the subscription is reactivated within 90 days, or 90 days plus the number of days between the time the account was opened and the first billing period (maximum 120 days).</span></span>
 
-<span data-ttu-id="f3dfd-139">サブスクリプションを中断するときに、**[中断]** ボタンの下に表示される日付は、サブスクリプションを再アクティブ化しない場合に自動的に期限切れになる日付です。</span><span class="sxs-lookup"><span data-stu-id="f3dfd-139">When you suspend a subscription, the date you see below the **Suspended** button indicates when the subscription would automatically expire if you don't reactivate it.</span></span> 
+<span data-ttu-id="d4e47-138">サブスクリプションを中断するときに、**[中断]** ボタンの下に表示される日付は、サブスクリプションを再アクティブ化しない場合に自動的に期限切れになる日付です。</span><span class="sxs-lookup"><span data-stu-id="d4e47-138">When you suspend a subscription, the date you see below the **Suspended** button indicates when the subscription would automatically expire if you don't reactivate it.</span></span> 
 
 
 
