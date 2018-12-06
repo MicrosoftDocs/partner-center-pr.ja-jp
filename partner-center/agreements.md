@@ -2,18 +2,19 @@
 title: Microsoft Cloud 契約顧客テンプレート |パートナー センター
 ms.topic: article
 ms.date: 11/03/2018
-description: 検索し、Microsoft Cloud 契約顧客を確認するの地域と言語固有のバージョンをダウンロードします。
+description: 検索し、お客様に確認する Microsoft Cloud 契約の地域と言語固有のバージョンをダウンロードします。
 author: Maggie Evans
+ms.author: evensma
 keywords: Microsoft Cloud 契約, 顧客契約テンプレート, CSP 顧客契約, MCA, Microsoft Cloud 契約 (MCA), CSP, CSP で販売できる国または地域, CSP の国または地域, CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南米, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 670c3657b3865eac97eff4b07b1a333d119b382e
-ms.sourcegitcommit: deea6667687f1c15b1f56ae71c0600533ad63c77
+ms.openlocfilehash: a664c2bd9486f2f3b32dc09a7d47d32eb9913ed0
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2018
-ms.locfileid: "6715283"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776536"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>地域と言語での Microsoft Cloud 契約
+# <a name="microsoft-cloud-agreements-by-region-and-language"></a>地域と言語別の Microsoft Cloud 契約
 
 **適用対象**
 
@@ -22,11 +23,11 @@ ms.locfileid: "6715283"
 注文を配置するには、顧客の代わりに、前に、顧客が読んで同意し、Microsoft Cloud 契約に署名する必要があります。
 
 >[!IMPORTANT]
-> 2018 年 11 月 7日を開始する必要があります、顧客が署名したユーザーに関する情報を提供することで、Microsoft Cloud 契約を受け入れることを確認します。 詳細については[、Microsoft Cloud 契約の顧客の同意](confirm-consent.md)を参照してください。
+> 2018 年 11 月 7日を開始する必要があります顧客が署名したユーザーに関する情報を提供することで、Microsoft Cloud 契約を受け入れることを確認します。 詳細については[、Microsoft Cloud 契約の顧客の同意](confirm-consent.md)を参照してください。
 
-Microsoft Cloud 契約とは、特定の地域と複数の言語で利用可能です。 適切な契約書をダウンロードする、下の一覧のいずれかで、顧客の場所と優先する言語を検索します。
+Microsoft Cloud 契約は、地域固有および複数の言語で利用可能です。 適切な契約書をダウンロードする、下の一覧のいずれかで、顧客の場所と優先する言語を検索します。
 
-わからないどの地域や市場で販売できるは、この一覧で会社の場所を検索する場合:[クラウド ソリューション プロバイダー プログラムの地域市場と通貨](regional-authorization-overview.md)。
+わからないどの地域や市場で販売できるは、この一覧に会社の場所を検索する場合:[クラウド ソリューション プロバイダー プログラムの地域市場と通貨](regional-authorization-overview.md)。
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
@@ -119,13 +120,13 @@ Microsoft Cloud 契約とは、特定の地域と複数の言語で利用可能�
 - ジョージア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - ドイツ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[ドイツ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
     
-    ドイツでは、Criminal コード (セクション 203) と倫理規定プロフェッショナル向けのコードを必要としておく、たとえば、患者の医学博士間の関係との間の関係の特定のクライアントの関係が弁護士とそのクライアントです。 これらの労働グループは、プロフェッショナル向けの機密性を確保する必要があります。 これらと他の職務でもクラウド ソリューション プロバイダーからクラウド ベースのサービスを購入するのには、クラウド サービス プロバイダーは、プロフェッショナル向けの機密性をにより、顧客との契約書を判断する必要があります。
+    ドイツでは、犯罪コード (セクション 203) と倫理規定プロフェッショナル向けのコードを必要としておく、たとえば、患者の医学博士間の関係との間の関係クライアントの関係が弁護士とそのクライアントです。 これらの労働グループは、プロフェッショナル向けの機密性を確保する必要があります。 これらと他の職務でもクラウド ソリューション プロバイダーからクラウド ベースのサービスを購入するのには、クラウド サービス プロバイダーは、プロフェッショナル向けの機密性をにより、顧客との契約書を判断する必要があります。
 
     ドイツでビジネスを行う場合は、この professional 機密性修正があるだけでなく、Microsoft Cloud 契約顧客に提供する必要があります。
 
-    - [Microsoft Cloud 契約のプロフェッショナル向けの機密性修正ドイツ (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+    - [Microsoft Cloud 契約 Professional 機密性修正ドイツ (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-     - [Microsoft Cloud 契約のプロフェッショナル向けの機密性修正ドイツ (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+     - [Microsoft Cloud 契約 Professional 機密性修正ドイツ (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 - ジブラルタル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - ギリシャ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[ギリシャ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)

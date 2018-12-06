@@ -1,63 +1,78 @@
 ---
 title: Microsoft Partner Network に参加する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/5/2018
 description: パートナー センターで Microsoft Action Pack を購入し、コンピテンシーを獲得しましょう
-author: labrenne
-ms.author: labrenne
+author: maggiepuccievans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: a6989957b3c4e3cf0c0c63d5297a9c04371c0a81
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796995"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776446"
 ---
-# <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft Partner Network (MPN) に参加する
+<!-- Note from Maggie on Dec 5, 2018: I can no longer tell what purpose this article serves. I'm going to redirect it to the mpn-overview.md topic and move the relevant information there. In the interim, I've copied and pasted the content from the MPN overview topic into this one in case anyone out there has it bookmarked.
+-->
 
-**適用対象**
+# <a name="partner-with-microsoft"></a>マイクロソフトとの連携
 
--  パートナー センター
--  Microsoft Partner Network
+マイクロソフトのパートナー プログラムに参加すると、顧客の満足度を高め、ビジネスを成長させるために必要な、関係、インサイト、ツール、リソース、プログラムを活用できる、グローバル コミュニティの一員となります。
 
-## <a name="new-to-the-partner-center"></a>パートナー センターに新しい
+マイクロソフトのパートナーとなるメリットについて詳しくは、[マイクロソフトを選ぶ理由](https://partner.microsoft.com/business-opportunities/why-microsoft)をご覧ください。 
 
- Microsoft のパートナーになると、ビジネスを変換するための新しいビジネス チャンスにアクセスできます。 パートナー センターで購入および Microsoft Action Pack を更新し、コンピテンシーとそれらを実現する方法についての情報に簡単にアクセスがあります。
+## <a name="join-the-microsoft-partner-network"></a>Microsoft Partner Network に参加する
 
- MAPS またはコンピテンシーのパートナー センターでのメンバーシップ管理をパートナーを徐々 に招待しますしている契約応当日、パートナー センターの主要な機能が利用可能であり、ビジネスのニーズに合わせて実証済みの場合。  現時点では、移行の案内を受け取るまで、Partner Membership Center (PMC) でのメンバーシップの更新および管理をご計画ください。
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-## <a name="get-your-mpn-id"></a>MPN ID を取得する
+ビジネスを区別するためにオプション業界とプログラムの製品の多様な Microsoft Partner Network によりは、市場に移動し、ソリューションの販売します。 無償では、参加し、Microsoft action pack、スターター キット、コンピテンシーとのパートナーシップを投資する方法を選択します。
 
-Microsoft パートナーとしてビジネスを行うには、MPN ID 番号が必要になります。 これは、Microsoft Partner Network で Microsoft に正式に登録されていることを示します。 また、クラウド ソリューション プロバイダー プログラムおよびその他のパートナー プログラムに登録する際にも、MPN ID を使用します。  
+Action pack またはスターター キットは、ソフトウェア、および Microsoft ベースのソリューションをビルドするためのサポートを提供し、コンピテンシーは、お客様やその他のパートナー実証済みの専門知識を示しています。
 
-## <a name="become-a-microsoft-partner"></a>Microsoft パートナーになる
+Microsoft Partner Network (MPN) の詳細については、 [MPN web サイト](https://partner.microsoft.com/commercial)を参照してください。
 
-1.  [Microsoft Partner Network](https://partner.microsoft.com/en-us/membership) サイトの **[メンバーシップ]** タブで、**[登録]** を選択します。 
+### <a name="how-to-join"></a>参加する方法
 
-2.  新しい組織として登録するか、既存の組織に参加します。
+Microsoft Partner Network に参加するには、MPN web サイトの[**メンバーシップ**ページ](https://partner.microsoft.com/membership)に移動し、 **[登録**] または [**今すぐ参加**を選択します。
 
-3.  新しい組織として登録する場合は、組織に関する情報や業務の内容をフォームに入力します。
+## <a name="microsoft-partner-network-membership-types"></a>Microsoft Partner Network メンバーシップの種類
 
-4.  既存の組織として登録する場合は、組織の名前と住所を入力します。
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-> [!NOTE]  
->  それぞれの販売場所について、組織の本社の住所を登録する必要があります。
+Microsoft Partner Network は、以下のように、3 種類のメンバーシップを提供します。 それぞれのメンバーシップは、種類ごとに異なる一連のメリットを提供してパートナー様のビジネス拡大を支援します。 パートナー様が一定の目標を達したときは、ニーズに適したレベルでプログラムにご参加ください。さらに多くの特典を利用し、マイクロソフトやネットワーク内の他のパートナーとの関係を構築することができます。
 
-この無料の基本レベルでは、ビジネスを構築して次のステップを踏み出すうえで役立つ一連の[基本内部使用権特典](https://partner.microsoft.com/membership/core-benefits)が Network メンバーに付与されます。 
+### <a name="action-pack"></a>Action Pack
 
-### <a name="add-additional-benefits-to-your-business"></a>ビジネスに特典を追加する: 
+Action Pack は、ソフトウェア、サポート、およびを開始するには、企業向けの利点は、ビルド、およびクラウド ファースト クラウドファースト、モバイルファーストの世界でマイクロソフト プラクティスの拡大を提供します。 
 
-**Action Pack**:  開発者ツール、サポート、トレーニング、ソフトウェアの利用など、追加のメリットを手頃な価格で提供する年間サブスクリプションです。
+Action Pack について詳しくは、以下のリソースを確認します。
 
-**コンピテンシー**:  Microsoft コンピテンシーを獲得すると、1 つまたは複数の専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft コンピテンシーは、パートナーが顧客のニーズに対応した能力を備え、マイクロソフト認定のソリューション プロバイダーを求める新規顧客にアピールするように支援することを目的としています。 
+- [Microsoft Action pack クラウド ビジネスを推進](https://partner.microsoft.com/membership/action-pack)
+- [Action pack を購入します。](mpn-get-action-pack.md)
+  
+    >[!IMPORTANT]
+    >パートナー センターに Action Pack サブスクリプション管理 Partner Membership Center (PMC) からします移行されます。 この移行は、次のいくつか月間に作業を行います。 [Action pack を購入](mpn-get-action-pack.md)の情報をよくご確認する方法と場所がわかるようにを更新します。  
 
-- Silver メンバーシップ を獲得すると、一貫した能力、専門知識、業務への取り組みを証明できます。
-- Gold メンバーシップを獲得すると、Microsoft ソリューションの特定の領域内で、クラス最高の能力を備えていることを証明できます。
+- [MPN プランを更新する](renew-mpn-offers.md)
 
-|**目的**   |**参照先**   |
-|------------------|:---------------|
-|Microsoft パートナーになる|[メンバーシップ: しくみ](https://partner.microsoft.com/membership/how-it-works)|
-パートナー センターで Microsoft Partner Network メンバーシップを管理します。   |[Microsoft Partner Network メンバーシップの管理](mpn-overview.md)
-|Action Pack を購入する   |[Microsoft Action Pack を購入または更新する](https://msdn.microsoft.com/partner-center/mpn-get-action-pack)|
-|Silver または Gold コンピテンシーを獲得する   |[Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](https://msdn.microsoft.com/en-us/partner-center/learn-about-competencies)|
-|クラウド ソリューション プロバイダー プログラムへの参加を検討する|[クラウド ソリューション プロバイダー - 需要に基づくクラウド ソリューションの販売](csp-overview.md)|
+### <a name="competencies"></a>コンピテンシー
+
+ビジネス分野での品質のソリューションを提供する実証済みの専門知識をデモンストレーションします。 Microsoft コンピテンシーは、現在、顧客のニーズを満たしていると、見込みに認識できる設計されています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
+
+コンピテンシーについて詳しくは、以下のリソースを確認します。
+
+- [コンピテンシー パートナー](https://partner.microsoft.com/membership/competencies)
+
+## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft Partner Network メンバーシップ特典と要件
+
+Microsoft Partner Network に参加すると、時間とコストを節約しながら、能力の向上、お客様へのより良いサービスの提供、関係の構築を通じて、ビジネスの可能性を最大限に引き出すことができる一連の基本特典を利用することができます。
+
+ネットワークの利点と要件について詳しくは、以下のリソースを確認します。
+
+- [コア上のメリット](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
+- [パートナー センターで、MPN 特典を管理します。](manage-your-partner-network-benefits.md)
+- [コアの要件](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
+
+## <a name="see-also"></a>関連項目
+- [Microsoft パートナー ビジネスの拡大](grow-your-business.md)

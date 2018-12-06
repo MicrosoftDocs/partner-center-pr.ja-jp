@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 800e816ad882b11721f26f7c219997de7a33e416
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795715"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776476"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 
@@ -32,7 +32,7 @@ ms.locfileid: "5795715"
 
   - Gold コンピテンシー – 特定のマイクロソフト ソリューション分野におけるクラス最高の能力を備えたパートナーに与えられます
 
-Microsoft Partner Network メンバーシップに参加すると、メンバーシップをアップグレードし、限定のメンバーシップ特典を購入できるようになります。 移動するのには、Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com)します。
+Microsoft Partner Network メンバーシップに参加すると、メンバーシップをアップグレードし、限定のメンバーシップ特典を購入できるようになります。 Microsoft Partner Network でメンバーシップについて詳しくに移動します。[https://partner.microsoft.com](https://partner.microsoft.com)します。
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入する
@@ -79,7 +79,7 @@ Microsoft Action Pack について詳しくに移動します。[https://partner
 
 3. Action Pack サブスクリプションを毎年自動的に更新しない場合は、**[自動更新を無効にする]** を選びます。 
 
-   > [!NOTE]  
+> [!NOTE]  
 > サブスクリプションの自動更新を無効にすると、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 サブスクリプションの有効期限が切れる前に、更新についてお知らせします。
 
 

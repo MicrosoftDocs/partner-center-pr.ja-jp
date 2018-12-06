@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5211d68b79a1a67cd17c8974edd360999c10fb8d
-ms.sourcegitcommit: 6b781672d91f7ede942a9044a41e785dcf63f807
+ms.openlocfilehash: 21f94c78227c75124a1835b463aac3ad8fc38eb5
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "5962395"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776546"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>パートナー センターでの顧客との連携
 
@@ -20,18 +20,18 @@ ms.locfileid: "5962395"
 
 -  パートナー センター
 
-顧客のサービスまたはサブスクリプションを顧客に代わって管理する場合は、顧客する必要がありますを取得するサービスまたはサブスクリプションの管理者アクセス許可。 次の手順では、メールでこのアクセス許可を要求する方法を示します。 お客様は、要求を承認すると、サービスの管理ポータルにログオンし、顧客の代わりにサービスを管理することができます。 
+顧客のサービスまたはサブスクリプションを顧客に代わって管理する場合は、顧客する必要がありますを取得するサービスまたはサブスクリプションの管理者アクセス許可。 次の手順は、メールでこのアクセス許可を要求する方法を示しています。 顧客が要求を承認すると、パートナーはサービスの管理ポータルにログオンして、顧客の代わりにサービスを管理することができます。
 
-顧客と再販業者関係を確立し、プロビジョニングする CSP の Azure サブスクリプションを管理する場合は、管理者のアクセス許可を取得する必要はありません。
+顧客と再販業者関係を確立し、プロビジョニングした Azure サブスクリプションを管理する場合は、管理者のアクセス許可を取得する必要はありません。
 
-アクセス許可を要求するためのオプションで Microsoft クラウドで動作して米国政府機関向け Microsoft Cloud ドイツのパートナーが利用できるないことに注意してください。 詳細についてはを[顧客がパートナーに管理特権を委任](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)を参照してください。
+アクセス許可を要求するためのオプションの Microsoft クラウドで動作して米国政府機関向け Microsoft Cloud ドイツのパートナーが利用できるがないことに注意してください。 詳細についてはを[顧客がパートナーに管理特権を委任](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)を参照してください。
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>貴社との再販業者関係を確立するために顧客を招待する
 
-1.  **パートナー センター**メニューから**顧客**を選択し、**再販業者関係の要求**を選択します。
+1.  **パートナー センター** ] メニューから**顧客**を選択して、**再販業者関係の要求**を選択してください。
 
-2.  この顧客から管理者アクセス許可を要求するには、**インクルードが Azure Active Directory と Office 365 管理特権を委任**を選択します。 関係を確立すると、管理者のアクセス許可を要求せず、このオプションをオフにします。 
+2.  この顧客から管理者アクセス許可を要求するには、**含めるが Azure Active Directory と Office 365 管理特権を委任**を選択します。 関係を確立すると、管理者のアクセス許可を要求することがなく、このオプションをオフにします。 
 
 3.  次のページで、メール メッセージの下書きを確認します。 既定のメール アプリケーションで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。 
 
@@ -46,19 +46,20 @@ ms.locfileid: "5962395"
 
 
 > [!IMPORTANT]  
-> 顧客は、サービスの管理者ポータルで、管理者のアクセス許可の割り当てを変更したり、削除したりすることができます。 ただし顧客が管理者のアクセス許可の割り当てを変更したり、削除したりした後も、パートナーが顧客との契約について再交渉しない限り、また再交渉するまで、パートナーは引き続きカスタマー サポートを提供し、クラウド リセラー契約の条項を遵守する責任を負います。 この状況で顧客にサポートが必要となった場合、パートナーは顧客に代わって Microsoft サポートにサービス要求を求めることができます。
+> 顧客では、もう一度割り当てるしたり、サービスの管理ポータルで管理者のアクセス許可を削除することができます。 ただし顧客が管理者のアクセス許可の割り当てを変更したり、削除したりした後も、パートナーが顧客との契約について再交渉しない限り、また再交渉するまで、パートナーは引き続きカスタマー サポートを提供し、クラウド リセラー契約の条項を遵守する責任を負います。 この状況で顧客にサポートが必要となった場合、パートナーは顧客に代わって Microsoft サポートにサービス要求を求めることができます。
 
-## <a name="changes-to-the-customer-invitation-experience"></a>顧客への招待のエクスペリエンスへの変更
-クラウド ソリューション プロバイダー パートナーからの再販業者関係の招待を受け入れるためカスタマー エクスペリエンスは、2018 年 11 月 1 日に変更します。 変更について詳しくは、次の表を参照してください。 ビジネス向け Microsoft ストアでの新しいエクスペリエンスについて詳しくは、[ビジネス向け Microsoft ストアでのソリューション プロバイダーの操作](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business)を参照してください。
+## <a name="changes-to-the-customer-invitation-experience"></a>顧客への招待エクスペリエンスへの変更
 
-|  | 顧客は、2018 年 11 月 1 日前に作成されたリセラーの招待同意する場所 | 顧客は、2018 年 11 月 1 日前に作成されたリセラーの招待同意する場所 |
+クラウド ソリューション プロバイダー パートナーからの再販業者関係の招待を受け入れるためカスタマー エクスペリエンスは、2018 年 11 月 1 日に変更します。 変更の詳細については、次の表を参照してください。 ビジネス向け Microsoft ストアでの新しいエクスペリエンスについて詳しくは、[ビジネス向け Microsoft ストアでのソリューション プロバイダーの操作](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business)を参照してください。
+
+|  | 顧客が、2018 年 11 月 1 日前に送信されるリセラーの招待を受け入れる場所 | 顧客が、2018 年 11 月 1 日の後に送信リセラーの招待を受け入れる場所 |
 |---------|---------|---------
 | パブリック クラウドで顧客 | Microsoft Office の管理ポータル | ビジネス向け Microsoft Store |
 | Microsoft パートナー センターで顧客ドイツをクラウドします。 | Microsoft Office の管理ポータル | Microsoft Office の管理ポータル |
 | 米国政府機関向け Microsoft Cloud のパートナー センターで顧客 | Microsoft Office の管理ポータル | Microsoft Office の管理ポータル |
+|
 
+## <a name="see-also"></a>関連項目
 
-## <a name="related-topics"></a>関連トピック
-
-[サポート連絡先の指定](assign-support-contacts.md)
-[顧客との再販業者関係の削除](remove-a-relationship.md)
+- [サポート連絡先の指定](assign-support-contacts.md)
+- [顧客との再販業者関係の削除](remove-a-relationship.md)
