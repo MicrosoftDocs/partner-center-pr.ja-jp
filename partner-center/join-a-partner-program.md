@@ -1,63 +1,78 @@
 ---
 title: Microsoft Partner Network に参加する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/5/2018
 description: パートナー センターで Microsoft Action Pack を購入し、コンピテンシーを獲得しましょう
-author: labrenne
-ms.author: labrenne
+author: maggiepuccievans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: a6989957b3c4e3cf0c0c63d5297a9c04371c0a81
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796995"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776446"
 ---
-# <a name="join-the-microsoft-partner-network-mpn"></a><span data-ttu-id="7de79-103">Microsoft Partner Network (MPN) に参加する</span><span class="sxs-lookup"><span data-stu-id="7de79-103">Join the Microsoft Partner Network (MPN)</span></span>
+<!-- Note from Maggie on Dec 5, 2018: I can no longer tell what purpose this article serves. I'm going to redirect it to the mpn-overview.md topic and move the relevant information there. In the interim, I've copied and pasted the content from the MPN overview topic into this one in case anyone out there has it bookmarked.
+-->
 
-**<span data-ttu-id="7de79-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="7de79-104">Applies to</span></span>**
+# <a name="partner-with-microsoft"></a><span data-ttu-id="f913c-103">マイクロソフトとの連携</span><span class="sxs-lookup"><span data-stu-id="f913c-103">Partner with Microsoft</span></span>
 
--  <span data-ttu-id="7de79-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="7de79-105">Partner Center</span></span>
--  <span data-ttu-id="7de79-106">Microsoft Partner Network</span><span class="sxs-lookup"><span data-stu-id="7de79-106">Microsoft Partner Network</span></span>
+<span data-ttu-id="f913c-104">マイクロソフトのパートナー プログラムに参加すると、顧客の満足度を高め、ビジネスを成長させるために必要な、関係、インサイト、ツール、リソース、プログラムを活用できる、グローバル コミュニティの一員となります。</span><span class="sxs-lookup"><span data-stu-id="f913c-104">When you join a Microsoft partner program, you become part of a global community that connects you to the relationships, insights, tools, resources, and programs you need to amaze your customers and drive business growth.</span></span>
 
-## <a name="new-to-the-partner-center"></a><span data-ttu-id="7de79-107">パートナー センターに新しい</span><span class="sxs-lookup"><span data-stu-id="7de79-107">New to the Partner Center</span></span>
+<span data-ttu-id="f913c-105">マイクロソフトのパートナーとなるメリットについて詳しくは、[マイクロソフトを選ぶ理由](https://partner.microsoft.com/business-opportunities/why-microsoft)をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f913c-105">See [Why Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft) for more information about the benefits of partnering with Microsoft.</span></span> 
 
- <span data-ttu-id="7de79-108">Microsoft のパートナーになると、ビジネスを変換するための新しいビジネス チャンスにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="7de79-108">Partnering with Microsoft gives you access to new opportunities to transform your business.</span></span> <span data-ttu-id="7de79-109">パートナー センターで購入および Microsoft Action Pack を更新し、コンピテンシーとそれらを実現する方法についての情報に簡単にアクセスがあります。</span><span class="sxs-lookup"><span data-stu-id="7de79-109">On the Partner Center you can purchase and renew the Microsoft Action Pack and you have easy access to information about competencies and how to achieve them.</span></span>
+## <a name="join-the-microsoft-partner-network"></a><span data-ttu-id="f913c-106">Microsoft Partner Network に参加する</span><span class="sxs-lookup"><span data-stu-id="f913c-106">Join the Microsoft Partner Network</span></span>
 
- <span data-ttu-id="7de79-110">MAPS またはコンピテンシーのパートナー センターでのメンバーシップ管理をパートナーを徐々 に招待しますしている契約応当日、パートナー センターの主要な機能が利用可能であり、ビジネスのニーズに合わせて実証済みの場合。</span><span class="sxs-lookup"><span data-stu-id="7de79-110">We're gradually inviting partners to manage their membership in the Partner Center at their MAPS or Competency anniversary date, as well as when key Partner Center capabilities are available and proven to meet the needs of their business.</span></span>  <span data-ttu-id="7de79-111">現時点では、移行の案内を受け取るまで、Partner Membership Center (PMC) でのメンバーシップの更新および管理をご計画ください。</span><span class="sxs-lookup"><span data-stu-id="7de79-111">For now, plan to renew and manage your membership in Partner Membership Center (PMC) until you receive an invitation to move.</span></span>
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-## <a name="get-your-mpn-id"></a><span data-ttu-id="7de79-112">MPN ID を取得する</span><span class="sxs-lookup"><span data-stu-id="7de79-112">Get your MPN ID</span></span>
+<span data-ttu-id="f913c-107">ビジネスを区別するためにオプション業界とプログラムの製品の多様な Microsoft Partner Network によりは、市場に移動し、ソリューションの販売します。</span><span class="sxs-lookup"><span data-stu-id="f913c-107">The Microsoft Partner Network gives you the widest range of products in the industry as well as program options to differentiate your business, go to market, and sell your solutions.</span></span> <span data-ttu-id="f913c-108">無償では、参加し、Microsoft action pack、スターター キット、コンピテンシーとのパートナーシップを投資する方法を選択します。</span><span class="sxs-lookup"><span data-stu-id="f913c-108">Join at no cost, then choose how to invest in your partnership with a Microsoft action pack, starter kit, or competency.</span></span>
 
-<span data-ttu-id="7de79-113">Microsoft パートナーとしてビジネスを行うには、MPN ID 番号が必要になります。</span><span class="sxs-lookup"><span data-stu-id="7de79-113">To do business as a Microsoft partner, you need an MPN ID number.</span></span> <span data-ttu-id="7de79-114">これは、Microsoft Partner Network で Microsoft に正式に登録されていることを示します。</span><span class="sxs-lookup"><span data-stu-id="7de79-114">This indicates that you have formally enrolled with Microsoft in the Microsoft Partner Network.</span></span> <span data-ttu-id="7de79-115">また、クラウド ソリューション プロバイダー プログラムおよびその他のパートナー プログラムに登録する際にも、MPN ID を使用します。</span><span class="sxs-lookup"><span data-stu-id="7de79-115">Also, you use your MPN ID to enroll in the Cloud Solution Provider program and other partner programs as well.</span></span>  
+<span data-ttu-id="f913c-109">Action pack またはスターター キットは、ソフトウェア、および Microsoft ベースのソリューションをビルドするためのサポートを提供し、コンピテンシーは、お客様やその他のパートナー実証済みの専門知識を示しています。</span><span class="sxs-lookup"><span data-stu-id="f913c-109">An action pack or starter kit provides software and support to build Microsoft-based solutions and a competency demonstrates your proven expertise to customers and other partners.</span></span>
 
-## <a name="become-a-microsoft-partner"></a><span data-ttu-id="7de79-116">Microsoft パートナーになる</span><span class="sxs-lookup"><span data-stu-id="7de79-116">Become a Microsoft partner</span></span>
+<span data-ttu-id="f913c-110">Microsoft Partner Network (MPN) の詳細については、 [MPN web サイト](https://partner.microsoft.com/commercial)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="f913c-110">For more information about the Microsoft Partner Network (MPN), visit the [MPN website](https://partner.microsoft.com/commercial).</span></span>
 
-1.  <span data-ttu-id="7de79-117">[Microsoft Partner Network](https://partner.microsoft.com/en-us/membership) サイトの **[メンバーシップ]** タブで、**[登録]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="7de79-117">On the [Microsoft Partner Network](https://partner.microsoft.com/en-us/membership) site, on the **Membership** tab, select **Enroll**.</span></span> 
+### <a name="how-to-join"></a><span data-ttu-id="f913c-111">参加する方法</span><span class="sxs-lookup"><span data-stu-id="f913c-111">How to join</span></span>
 
-2.  <span data-ttu-id="7de79-118">新しい組織として登録するか、既存の組織に参加します。</span><span class="sxs-lookup"><span data-stu-id="7de79-118">Enroll either as a new organization or join an existing organization.</span></span>
+<span data-ttu-id="f913c-112">Microsoft Partner Network に参加するには、MPN web サイトの[**メンバーシップ**ページ](https://partner.microsoft.com/membership)に移動し、 **[登録**] または [**今すぐ参加**を選択します。</span><span class="sxs-lookup"><span data-stu-id="f913c-112">To join the Microsoft Partner Network, go to the [**Membership** page](https://partner.microsoft.com/membership) on the MPN website and select **Enroll** or **Join now**.</span></span>
 
-3.  <span data-ttu-id="7de79-119">新しい組織として登録する場合は、組織に関する情報や業務の内容をフォームに入力します。</span><span class="sxs-lookup"><span data-stu-id="7de79-119">As a new organization, fill out the form that will ask you about your organization and the type of business you do.</span></span>
+## <a name="microsoft-partner-network-membership-types"></a><span data-ttu-id="f913c-113">Microsoft Partner Network メンバーシップの種類</span><span class="sxs-lookup"><span data-stu-id="f913c-113">Microsoft Partner Network membership types</span></span>
 
-4.  <span data-ttu-id="7de79-120">既存の組織として登録する場合は、組織の名前と住所を入力します。</span><span class="sxs-lookup"><span data-stu-id="7de79-120">If you are enrolling through an existing organization, you will be asked for the name and address of the organization.</span></span>
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-> [!NOTE]  
->  <span data-ttu-id="7de79-121">それぞれの販売場所について、組織の本社の住所を登録する必要があります。</span><span class="sxs-lookup"><span data-stu-id="7de79-121">You will need to provide the address for your organization's headquarters for each location where you sell.</span></span>
+<span data-ttu-id="f913c-114">Microsoft Partner Network は、以下のように、3 種類のメンバーシップを提供します。</span><span class="sxs-lookup"><span data-stu-id="f913c-114">The Microsoft Partner Network provides three types of memberships, as described below.</span></span> <span data-ttu-id="f913c-115">それぞれのメンバーシップは、種類ごとに異なる一連のメリットを提供してパートナー様のビジネス拡大を支援します。</span><span class="sxs-lookup"><span data-stu-id="f913c-115">Each type provides a set of benefits to help your business grow.</span></span> <span data-ttu-id="f913c-116">パートナー様が一定の目標を達したときは、ニーズに適したレベルでプログラムにご参加ください。さらに多くの特典を利用し、マイクロソフトやネットワーク内の他のパートナーとの関係を構築することができます。</span><span class="sxs-lookup"><span data-stu-id="f913c-116">As you achieve your goals, participate in the program at the level that suits your unique needs to access more benefits and develop your relationship with us and other partners in the network.</span></span>
 
-<span data-ttu-id="7de79-122">この無料の基本レベルでは、ビジネスを構築して次のステップを踏み出すうえで役立つ一連の[基本内部使用権特典](https://partner.microsoft.com/membership/core-benefits)が Network メンバーに付与されます。</span><span class="sxs-lookup"><span data-stu-id="7de79-122">As a Network member at this no-cost, basic level, you receive a set of [core internal-use rights benefits](https://partner.microsoft.com/membership/core-benefits) to help you build your business and take the next step.</span></span> 
+### <a name="action-pack"></a><span data-ttu-id="f913c-117">Action Pack</span><span class="sxs-lookup"><span data-stu-id="f913c-117">Action Pack</span></span>
 
-### <a name="add-additional-benefits-to-your-business"></a><span data-ttu-id="7de79-123">ビジネスに特典を追加する:</span><span class="sxs-lookup"><span data-stu-id="7de79-123">Add additional benefits to your business:</span></span> 
+<span data-ttu-id="f913c-118">Action Pack は、ソフトウェア、サポート、およびを開始するには、企業向けの利点は、ビルド、およびクラウド ファースト クラウドファースト、モバイルファーストの世界でマイクロソフト プラクティスの拡大を提供します。</span><span class="sxs-lookup"><span data-stu-id="f913c-118">Action Pack offers software, support, and benefits for businesses that want to begin, build, and grow their Microsoft practice in a cloud-first, mobile-first world.</span></span> 
 
-<span data-ttu-id="7de79-124">**Action Pack**: </span><span class="sxs-lookup"><span data-stu-id="7de79-124">**Action Pack**.</span></span> <span data-ttu-id="7de79-125">開発者ツール、サポート、トレーニング、ソフトウェアの利用など、追加のメリットを手頃な価格で提供する年間サブスクリプションです。</span><span class="sxs-lookup"><span data-stu-id="7de79-125">Purchase this affordable yearly subscription, for additional benefits, including access to developer tools, support, training, and software.</span></span>
+<span data-ttu-id="f913c-119">Action Pack について詳しくは、以下のリソースを確認します。</span><span class="sxs-lookup"><span data-stu-id="f913c-119">Review the resources below to learn more about Action Pack:</span></span>
 
-<span data-ttu-id="7de79-126">**コンピテンシー**: </span><span class="sxs-lookup"><span data-stu-id="7de79-126">**Competency**.</span></span> <span data-ttu-id="7de79-127">Microsoft コンピテンシーを獲得すると、1 つまたは複数の専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。</span><span class="sxs-lookup"><span data-stu-id="7de79-127">Demonstrate your proven expertise in delivering quality solutions in one or more specialized areas of business.</span></span> <span data-ttu-id="7de79-128">Microsoft コンピテンシーは、パートナーが顧客のニーズに対応した能力を備え、マイクロソフト認定のソリューション プロバイダーを求める新規顧客にアピールするように支援することを目的としています。</span><span class="sxs-lookup"><span data-stu-id="7de79-128">Microsoft competencies are designed to prepare you to meet your customers’ needs, and to help you attract new customers who are looking for Microsoft-certified solution providers.</span></span> 
+- [<span data-ttu-id="f913c-120">Microsoft Action pack クラウド ビジネスを推進</span><span class="sxs-lookup"><span data-stu-id="f913c-120">Move your cloud business forward with Microsoft Action Pack</span></span>](https://partner.microsoft.com/membership/action-pack)
+- [<span data-ttu-id="f913c-121">Action pack を購入します。</span><span class="sxs-lookup"><span data-stu-id="f913c-121">Get the Action Pack</span></span>](mpn-get-action-pack.md)
+  
+    >[!IMPORTANT]
+    ><span data-ttu-id="f913c-122">パートナー センターに Action Pack サブスクリプション管理 Partner Membership Center (PMC) からします移行されます。</span><span class="sxs-lookup"><span data-stu-id="f913c-122">We are moving Action Pack subscription management from Partner Membership Center (PMC) to Partner Center.</span></span> <span data-ttu-id="f913c-123">この移行は、次のいくつか月間に作業を行います。</span><span class="sxs-lookup"><span data-stu-id="f913c-123">This move will take place over the next several months.</span></span> <span data-ttu-id="f913c-124">[Action pack を購入](mpn-get-action-pack.md)の情報をよくご確認する方法と場所がわかるようにを更新します。</span><span class="sxs-lookup"><span data-stu-id="f913c-124">Please review the information in [Get the Action Pack](mpn-get-action-pack.md) carefully so that you know how and where to renew.</span></span>  
 
-- <span data-ttu-id="7de79-129">Silver メンバーシップ を獲得すると、一貫した能力、専門知識、業務への取り組みを証明できます。</span><span class="sxs-lookup"><span data-stu-id="7de79-129">Earn Silver membership to demonstrate your consistent capability, expertise, and commitment</span></span>
-- <span data-ttu-id="7de79-130">Gold メンバーシップを獲得すると、Microsoft ソリューションの特定の領域内で、クラス最高の能力を備えていることを証明できます。</span><span class="sxs-lookup"><span data-stu-id="7de79-130">Earn Gold membership to demonstrate your best-in-class capability within a specific Microsoft solution area</span></span>
+- [<span data-ttu-id="f913c-125">MPN プランを更新する</span><span class="sxs-lookup"><span data-stu-id="f913c-125">Renew your MPN offers</span></span>](renew-mpn-offers.md)
 
-|**<span data-ttu-id="7de79-131">目的</span><span class="sxs-lookup"><span data-stu-id="7de79-131">To do this</span></span>**   |**<span data-ttu-id="7de79-132">参照先</span><span class="sxs-lookup"><span data-stu-id="7de79-132">Read this</span></span>**   |
-|------------------|:---------------|
-|<span data-ttu-id="7de79-133">Microsoft パートナーになる</span><span class="sxs-lookup"><span data-stu-id="7de79-133">Become a Microsoft Partner</span></span>|[<span data-ttu-id="7de79-134">メンバーシップ: しくみ</span><span class="sxs-lookup"><span data-stu-id="7de79-134">Membership: How it works</span></span>](https://partner.microsoft.com/membership/how-it-works)|
-<span data-ttu-id="7de79-135">パートナー センターで Microsoft Partner Network メンバーシップを管理します。</span><span class="sxs-lookup"><span data-stu-id="7de79-135">Manage your Microsoft Partner Network membership on the Partner Center</span></span>   |[<span data-ttu-id="7de79-136">Microsoft Partner Network メンバーシップの管理</span><span class="sxs-lookup"><span data-stu-id="7de79-136">Manage your Microsoft Partner Network membership</span></span>](mpn-overview.md)
-|<span data-ttu-id="7de79-137">Action Pack を購入する</span><span class="sxs-lookup"><span data-stu-id="7de79-137">Purchase the Action Pack</span></span>   |[<span data-ttu-id="7de79-138">Microsoft Action Pack を購入または更新する</span><span class="sxs-lookup"><span data-stu-id="7de79-138">Purchase or renew the Microsoft Action Pack</span></span>](https://msdn.microsoft.com/partner-center/mpn-get-action-pack)|
-|<span data-ttu-id="7de79-139">Silver または Gold コンピテンシーを獲得する</span><span class="sxs-lookup"><span data-stu-id="7de79-139">Earn silver or gold competencies</span></span>   |[<span data-ttu-id="7de79-140">Silver および Gold メンバーシップ獲得のためのコンピテンシー要件</span><span class="sxs-lookup"><span data-stu-id="7de79-140">Competency requirements for silver and gold membership</span></span>](https://msdn.microsoft.com/en-us/partner-center/learn-about-competencies)|
-|<span data-ttu-id="7de79-141">クラウド ソリューション プロバイダー プログラムへの参加を検討する</span><span class="sxs-lookup"><span data-stu-id="7de79-141">Consider joining the Cloud Solution Provider program</span></span>|[<span data-ttu-id="7de79-142">クラウド ソリューション プロバイダー - 需要に基づくクラウド ソリューションの販売</span><span class="sxs-lookup"><span data-stu-id="7de79-142">Cloud Solution Provider - selling in-demand cloud solutions</span></span>](csp-overview.md)|
+### <a name="competencies"></a><span data-ttu-id="f913c-126">コンピテンシー</span><span class="sxs-lookup"><span data-stu-id="f913c-126">Competencies</span></span>
+
+<span data-ttu-id="f913c-127">ビジネス分野での品質のソリューションを提供する実証済みの専門知識をデモンストレーションします。</span><span class="sxs-lookup"><span data-stu-id="f913c-127">Demonstrate your proven expertise in delivering quality solutions in a specialized area of business.</span></span> <span data-ttu-id="f913c-128">Microsoft コンピテンシーは、現在、顧客のニーズを満たしていると、見込みに認識できる設計されています。</span><span class="sxs-lookup"><span data-stu-id="f913c-128">Microsoft competencies are designed to meet your current customers’ needs and be recognizable to prospective ones.</span></span> <span data-ttu-id="f913c-129">優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。</span><span class="sxs-lookup"><span data-stu-id="f913c-129">Join the elite tier of Microsoft partners and stand out from your peers.</span></span>
+
+<span data-ttu-id="f913c-130">コンピテンシーについて詳しくは、以下のリソースを確認します。</span><span class="sxs-lookup"><span data-stu-id="f913c-130">Review the resources below to learn more about competencies:</span></span>
+
+- [<span data-ttu-id="f913c-131">コンピテンシー パートナー</span><span class="sxs-lookup"><span data-stu-id="f913c-131">Competency partners</span></span>](https://partner.microsoft.com/membership/competencies)
+
+## <a name="microsoft-partner-network-benefits-and-requirements"></a><span data-ttu-id="f913c-132">Microsoft Partner Network メンバーシップ特典と要件</span><span class="sxs-lookup"><span data-stu-id="f913c-132">Microsoft Partner Network benefits and requirements</span></span>
+
+<span data-ttu-id="f913c-133">Microsoft Partner Network に参加すると、時間とコストを節約しながら、能力の向上、お客様へのより良いサービスの提供、関係の構築を通じて、ビジネスの可能性を最大限に引き出すことができる一連の基本特典を利用することができます。</span><span class="sxs-lookup"><span data-stu-id="f913c-133">When you join the Microsoft Partner Network, you receive a set of core benefits that can help you save time and money while you strengthen your capabilities, better serve customers, and build connections to reach your full business potential.</span></span>
+
+<span data-ttu-id="f913c-134">ネットワークの利点と要件について詳しくは、以下のリソースを確認します。</span><span class="sxs-lookup"><span data-stu-id="f913c-134">Review the resources below to learn more about network benefits and requirements:</span></span>
+
+- [<span data-ttu-id="f913c-135">コア上のメリット</span><span class="sxs-lookup"><span data-stu-id="f913c-135">Core benefits</span></span>](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
+- [<span data-ttu-id="f913c-136">パートナー センターで、MPN 特典を管理します。</span><span class="sxs-lookup"><span data-stu-id="f913c-136">Manage your MPN benefits on Partner Center</span></span>](manage-your-partner-network-benefits.md)
+- [<span data-ttu-id="f913c-137">コアの要件</span><span class="sxs-lookup"><span data-stu-id="f913c-137">Core requirements</span></span>](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
+
+## <a name="see-also"></a><span data-ttu-id="f913c-138">関連項目</span><span class="sxs-lookup"><span data-stu-id="f913c-138">See also</span></span>
+- [<span data-ttu-id="f913c-139">Microsoft パートナー ビジネスの拡大</span><span class="sxs-lookup"><span data-stu-id="f913c-139">Grow your Microsoft partner business</span></span>](grow-your-business.md)

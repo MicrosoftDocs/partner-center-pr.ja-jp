@@ -4,20 +4,21 @@ hide_bc: true
 title: ここから開始すると、パートナー センター ヘルプ
 ms.topic: landing-page
 ms.date: 10/29/2018
-description: アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このパートナー センターで回答具体的には、プログラムと CSP と MPN パートナー用に作成されたライブラリのヘルプを検索します。 
-author: v-chmccl
+description: アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このパートナー センターでの回答具体的には、プログラムと CSP と MPN パートナー用に作成されたライブラリのヘルプを検索します。 
+author: labrenne
+ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: afd4421e000081864394995d75e4671d711825ef
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795915"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776526"
 ---
 # <a name="start-here-for-help-with-partner-center"></a>ここから開始すると、パートナー センター ヘルプ
 
-アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このパートナー センターで回答具体的には、プログラムと CSP と MPN パートナー用に作成されたライブラリのヘルプを検索します。
+アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このパートナー センターでの回答具体的には、プログラムと CSP と MPN パートナー用に作成されたライブラリのヘルプを検索します。
 
 パートナー センターに慣れている場合は、[新機能](/partner-center/whats-new-in-pc)を参照してください。
 
