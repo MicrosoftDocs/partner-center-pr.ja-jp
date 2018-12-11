@@ -7,12 +7,13 @@ ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 276fe6a9b560df49fa255c7d2c6ff698152162c2
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797135"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917294"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Dynamics AX のサブスクリプションを Dynamics 365 に移行する
 
@@ -69,9 +70,9 @@ Microsoft Dynamics AX 製品ラインは廃止されました。2016 年 11 月 
 
 Microsoft では、新しい製品やサービスをリセラーとプロバイダー向けに継続的に提供します。 このような場合、リセラーは、顧客を新しいサービスにアップグレードしたり、顧客のサブスクリプションを最終的には廃止される SKU から移行する必要があります。 以前の SKU から新しい SKU に顧客を移行するには、次の手順に従う必要があります。
 
--   [新しいサブスクリプションを購入する](#manual-subscription-migration-purchasenewsubsc)。
--   [現在のユーザー ライセンスをもう一度割り当てる](#manual-subscription-migration-reassignlicenses)。
--   [以前のサブスクリプションを取り消す](#manual-subscription-migration-cancelsubscriptions)。
+-   [新しいサブスクリプションを購入する](#purchase-the-new-subscription)。
+-   [現在のユーザー ライセンスをもう一度割り当てる](#reassign-user-license)。
+-   [以前のサブスクリプションを取り消す](#cancel-the-old-subscription)。
 
 次の手順では、Microsoft Dynamics AX または CRM Online から Dynamics 365 に顧客を移行します。
 
@@ -79,7 +80,7 @@ Microsoft では、新しい製品やサービスをリセラーとプロバイ�
 
 <a href="" id="purchasenewsubsc"></a>
 
-**新しいサブスクリプションを購入する**
+### <a name="purchase-the-new-subscription"></a>新しいサブスクリプションを購入する
 
 1.  **パートナー センター**メニューで、**顧客**を選びます、移行する顧客を選択し、**サブスクリプションの追加**] を選択します。
 2.  カタログから購入するサブスクリプション (この場合は、"業務向け Dynamics 365、Enterprise エディション") を選び、ライセンスの数を入力して、**[送信]** を選びます。
@@ -88,9 +89,9 @@ Microsoft では、新しい製品やサービスをリセラーとプロバイ�
 
 <a href="" id="reassignlicenses"></a>次の手順では、既存のすべてのユーザー ライセンスを新しいサブスクリプションにもう一度割り当てます。
 
-**ユーザー ライセンスをもう一度割り当てる**
+### <a name="reassign-user-licenses"></a>ユーザー ライセンスをもう一度割り当てる
 
-1.  **パートナー センター**メニューで、**顧客**を選びます、移行する顧客を選択し、**ユーザーとライセンス**を選択します。 顧客の [ユーザーとライセンス] ページが開きます。
+1.  **パートナー センター**メニューで、**顧客**を選びます、移行する顧客を選択して、**ユーザーとライセンス**を選択します。 顧客の [ユーザーとライセンス] ページが開きます。
 2.  ユーザー ライセンスをもう一度割り当てるには、割り当てるユーザーを選んでから **[ライセンスの管理]** を選びます。
 3.  **[ライセンスの管理]** ページで、**[Dynamics AX エンタープライズ]** ライセンスのチェック ボックスをオフにして、**[業務向け Dynamics 365]** ライセンスを選びます。
 4.  **[送信]** を選びます。 確認ページに新しいライセンスの割り当てが一覧表示されます。
@@ -98,9 +99,9 @@ Microsoft では、新しい製品やサービスをリセラーとプロバイ�
 
 <a href="" id="cancelsubscriptions"></a>ユーザー ライセンスを新しいサービスに移行すると、メニューの最上位にある [顧客] から以前のサブスクリプションを安全に取り消すことができます。
 
-**以前のサブスクリプションを取り消す**
+### <a name="cancel-the-old-subscription"></a>以前のサブスクリプションを取り消す
 
-1.  **パートナー センター**メニューで、**顧客**を選択し、移行する顧客を選択して、サブスクリプションをキャンセルするを選択します。
+1.  **パートナー センター**メニューで、**顧客**を選びます、移行する顧客を選択して、キャンセルするサブスクリプションを選択します。
 2.  サブスクリプションの詳細ページで、サブスクリプションの **[状態]** を **[中断]** に設定します。
 3.  **[送信]** を選びます。
 

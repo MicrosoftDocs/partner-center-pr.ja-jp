@@ -2,17 +2,18 @@
 title: Microsoft に問題をエスカレートする | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: 貴社は、お客様に代わって問題を解決することが求められます。
+description: 貴社は、お客様に代わって問題を解決することが求められます。 ただし、これにはいくつかのカテゴリを修正する Microsoft に渡す必要がある問題があります。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: d759001b2cbaf8cab5f5b6e501dd0635b7adb11b
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.custom: seodec18
+ms.openlocfilehash: 0c1fc091212d70bf18337a9e17cc8f83cb61d4ae
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683551"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917354"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Microsoft に問題をエスカレートする
 
@@ -44,7 +45,7 @@ ms.locfileid: "8683551"
 4. **新しい要求**を選択し、 **Microsoft Office 365**を選択します。
 5. 表示されます、Office 365 ポータルに、パートナー センターの資格情報を使用してサインインする必要があります。
 6. **サポート**左側のメニューから**新しいサービス要求**を選択します。
-7. このトピックでのサポートを選択します。
+7. サポート トピックを選択します。
 
 >[!NOTE]
 >パートナーと顧客の間の関係を維持するために、パートナー センターから開始する重要です。 

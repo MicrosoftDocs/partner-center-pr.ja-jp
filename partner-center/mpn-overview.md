@@ -2,17 +2,18 @@
 title: Microsoft Partner Network メンバーシップ | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: マイクロソフトのパートナーとなるメリットについて説明します。
+description: マイクロソフトのパートナーとなるメリットについて説明します。 ビジネスを区別するためにオプション業界にプログラムで製品の多様な Microsoft Partner Network によりでは、市場に移動し、ソリューション販売。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
 ms.localizationpriority: medium
-ms.openlocfilehash: 06a8460e2703bffccd4a214fdd3256e859c31937
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.custom: seodec18
+ms.openlocfilehash: 8c07ad4d91e74599e65ab2478de481ef6ca212d6
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776466"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917574"
 ---
 # <a name="partner-with-microsoft"></a>マイクロソフトとの連携
 
@@ -24,9 +25,9 @@ ms.locfileid: "8776466"
 
 <!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-ビジネスを区別するためにオプション業界とプログラムの製品の多様な Microsoft Partner Network によりは、市場に移動し、ソリューションの販売します。 無償では、参加し、Microsoft action pack、スターター キット、コンピテンシーとのパートナーシップを投資する方法を選択します。
+ビジネスを区別するためにオプション業界にプログラムで製品の多様な Microsoft Partner Network によりでは、市場に移動し、ソリューション販売。 無償では、参加し、Microsoft action pack、スターター キット、コンピテンシーとのパートナーシップを投資する方法を選択します。
 
-Action pack またはスターター キットは、ソフトウェア、および Microsoft ベースのソリューションをビルドするためのサポートを提供し、コンピテンシーは、お客様やその他のパートナー実証済みの専門知識を示しています。
+Action pack またはスターター キットは、ソフトウェア、および Microsoft ベースのソリューションをビルドするためのサポートを提供し、コンピテンシーは、顧客とその他のパートナーに実証済みの専門知識を示します。
 
 Microsoft Partner Network (MPN) の詳細については、 [MPN web サイト](https://partner.microsoft.com/commercial)を参照してください。
 
@@ -56,9 +57,9 @@ Action Pack について詳しくは、以下のリソースを確認します�
 
 ### <a name="competencies"></a>コンピテンシー
 
-ビジネス分野での品質のソリューションを提供する実証済みの専門知識をデモンストレーションします。 Microsoft コンピテンシーは、現在、顧客のニーズを満たしていると、見込みに認識できる設計されています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
+ビジネス分野での品質のソリューションを提供する実証済みの専門知識をデモンストレーションします。 Microsoft コンピテンシーは、現在の顧客のニーズを満たしていると、見込みに認識できる設計されています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
 
-コンピテンシーについて詳しくは、以下のリソースを確認します。
+コンピテンシーについて詳しく知るには、次のリソースを確認します。
 
 - [コンピテンシー パートナー](https://partner.microsoft.com/membership/competencies)
 
@@ -66,7 +67,7 @@ Action Pack について詳しくは、以下のリソースを確認します�
 
 Microsoft Partner Network に参加すると、時間とコストを節約しながら、能力の向上、お客様へのより良いサービスの提供、関係の構築を通じて、ビジネスの可能性を最大限に引き出すことができる一連の基本特典を利用することができます。
 
-ネットワークの利点と要件について詳しくは、以下のリソースを確認します。
+ネットワークの利点と要件について詳しく知るには、次のリソースを確認します。
 
 - [コア上のメリット](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
 - [パートナー センターで、MPN 特典を管理します。](manage-your-partner-network-benefits.md)

@@ -2,17 +2,18 @@
 title: 顧客に代わって Microsoft Azure Reservations を購入する | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-Description: Buy Azure reservations on behalf of customers in Partner Center.
+Description: You can buy Azure reservations on behalf of your customers in Partner Center.
 author: v-petand
 ms.author: v-petand
 keywords: azure reservations を管理, 請求, 購入
 ms.localizationpriority: medium
-ms.openlocfilehash: 75e1afefbd2b411e5e1778e04e01781ac7bbe080
-ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
+ms.custom: seodec18
+ms.openlocfilehash: 6ce50f5269c95ba923b81a062c6f43a94bbff945
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "8382948"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917554"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure reservations を購入します。 
 
@@ -122,13 +123,13 @@ ms.locfileid: "8382948"
     - 予約の範囲を選択します。 予約の範囲には、1 つのサブスクリプションまたは複数のサブスクリプション (共有範囲) を指定できます。 1 つのサブスクリプションを予約の範囲を指定する場合は、このサブスクリプションのみに予約割引が適用されます。 選択した場合、顧客の請求コンテキスト内のすべてのサブスクリプションに共有、予約割引が適用されます。 
 
       >[!NOTE] 
-      >予約の範囲は 1 つの Azure サブスクリプションに限定する場合は、サブスクリプションの vCPU クォータを大きく必要があります。 サブスクリプションの vCPU クォータを強化するには、Azure portal でサポート要求を作成する必要があります。 次の手順は、[このトピックで](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)要求を作成します。    
+      >予約の範囲は 1 つの Azure サブスクリプションに限定することを選択する場合は、サブスクリプションの vCPU クォータを大きく必要があります。 サブスクリプションの vCPU クォータを強化するには、Azure portal でサポート要求を作成する必要があります。 次の手順は、[このトピックで](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)要求を作成します。    
 
-    - プロバイダー パートナーにいる場合は、製品に関連付けるリセラーを選択します。
+    - プロバイダー パートナーがいる場合は、製品と関連付けるリセラーを選択します。
 
-9. **[購入]** を選択して注文内容を購入します。 **[確認]** ページでは、注文番号を含む、注文の詳細が表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
+9. **[購入]** を選択して注文内容を購入します。 **[確認]** ページでは、お客様の注文番号を含む注文の詳細が表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
 
-10. Azure portal で顧客の予約を管理、**顧客**ページに顧客を検索し、顧客の行を展開する下矢印を選択します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。
+10. Azure portal で顧客の予約を管理するため、[**顧客**] ページで、顧客を見つけし、し、顧客の行を展開する下矢印を選択します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
 |**情報**   |**参照先**    |

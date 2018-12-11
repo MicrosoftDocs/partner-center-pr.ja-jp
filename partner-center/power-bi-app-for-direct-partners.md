@@ -2,17 +2,18 @@
 title: Power BI 用パートナー センター分析アプリ | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: Power BI 用パートナー センターアプリをインストールします。
+description: Power BI 用パートナー センター分析アプリでは、ビジネス データの視覚表現を作成できます。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7da056ed927c511de37d853f481c5a898d417dcc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: fe82e88bab3c654cbdc5d7b704dc2a9526ba38cb
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796155"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917454"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け)
 

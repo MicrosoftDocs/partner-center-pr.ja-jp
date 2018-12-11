@@ -8,20 +8,22 @@ keywords: 詐欺, 不正使用, 使用条件, 利用規約, 未払い, 顧客が
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795425"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917594"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未払い、詐欺、不正使用
 
 **適用対象**
 
 -  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
--  Microsoft Cloud ドイツのパートナー センター
+-  Microsoft Cloud for US Government のパートナー センター
+
+
 
 パートナーは、顧客による不正購入や、購入サービスの料金未払いについて、金銭的な責任を負います。 このため、詐欺の防止と発見およびリスク軽減に向けた対策を講じることをお勧めします。
 

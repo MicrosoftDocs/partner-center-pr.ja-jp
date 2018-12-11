@@ -2,17 +2,18 @@
 title: MPN プランを更新する | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: パートナー センターから、MPN プランを更新します。
+description: 購入後 1 年経過した翌日から、MPN プラン サブスクリプションの更新期間が始まります。
 author: labrenne
 ms.author: labrenne
 keywords: MPN、マイクロソフト アクション パック、MAPS、コンピテンシーの更新、更新日
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f611a01118449a1247764d0dcee0de8ba820c00
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 3fb82e65d6ae4d3caa3f4574015f6ee980bc309a
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796145"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917404"
 ---
 # <a name="renew-your-mpn-offers"></a>MPN プランを更新する
 

@@ -1,19 +1,20 @@
 ---
 title: サブスクリプションとライセンス分析 |パートナー センター
 ms.date: 07/12/2018
-Description: Get data about your subscriptions and licenses.
+Description: Use the metrics in the Subscription and license analytics page to identify your successes and areas that need more attention.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
-ms.openlocfilehash: 048cbe3384d1721136afe6d6f165e8e408b6d25a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 60ab45e6c50e7e3b6ab312c4c64dfeb3aacb53d9
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795185"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917464"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>サブスクリプションとライセンスの分析 
 
@@ -37,16 +38,16 @@ ms.locfileid: "5795185"
 
 次のメトリックを追跡しています。
 
-**まとめ**  
- - **サブスクリプションの販売**: 指定された期間用に作成されたサブスクリプションの数  
+**概要**  
+ - **サブスクリプションの販売**: 指定された期間内に作成されたサブスクリプションの数  
  - **ライセンスを購入**: ライセンスの数が指定した期間内で販売   
  - **30 日以内にサブスクリプションを更新する**: サブスクリプションの状態がアクティブな時間を指定**Autorenew**が true と期間の数
  - **アクティブなサブスクリプション**: サブスクリプションの状態が**アクティブになって**います。  
- - **サブスクリプションの中断**: 数の中断されたサブスクリプションは、日付フィルターはありません  
+ - **サブスクリプションの中断**: 数の中断されたサブスクリプションは、日付のフィルターはありません  
 
 **製品の詳細**  
  - **サブスクリプション数**: 上位 5 製品を販売したサブスクリプションに並べ替えた  
- - **ライセンス数**: 販売された並べ替えられたライセンスを上位 5 製品
+ - **ライセンス数**: 上位 5 製品で並べ替えられたライセンスの販売
 
 **サブスクリプションの保存**
  - **Renewed サブスクリプション**: 過去 30 日以内に更新サブスクリプション  
@@ -62,7 +63,7 @@ ms.locfileid: "5795185"
  - すべてのアクティブなサブスクリプションの一覧  
 
 **試用版サブスクリプションの変換**  
- - **試用版の変換**: 指定された期間中に試用版が変換を銀行、すべての**アクティブな**サブスクリプション数が発生しました  
+ - **試用版の変換**: 指定した期間中に発生する変換に試用版が支払われたすべての**アクティブな**サブスクリプション数  
 
 **試用版サブスクリプションの 30 日以内に終了**  
  - 一覧では、30 日以内の終了日があり、サブスクリプションに関連付けられている有料の開始日はありませんが、開始された試用版の提供  

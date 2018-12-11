@@ -2,17 +2,18 @@
 title: Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行 | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-Description: Skype for Business Online Plan 1 subscriptions is retiring.
+Description: Transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option. We recommend moving customers to new subscriptions before the subscription’s yearly end date.
 author: labrenne
 ms.author: labrenne
 keywords: Skype for Business の計画、Skype の提供終了、Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1e4f4611c6fe3c317339af1a036194031f3d095
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797165"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917624"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行
 
@@ -54,7 +55,7 @@ API (CREST またはパートナー センターのいずれか) を使用して
 
 ### <a name="migrate-your-customers-to-new-plans"></a>新しいプランにお客様を移行する
 
-1. **パートナー センター メニュー**から、新しいサブスクリプションを購入するには、**顧客**を選びますを**追加のサブスクリプション**を選択して、移動する顧客を選択します。
+1. **パートナー センター メニュー**から、新しいサブスクリプションを購入するには、**顧客**を選びます、移動する顧客を選択し、**追加のサブスクリプション**を選択します。
 
 2. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、**[送信]** を選びます。 
 

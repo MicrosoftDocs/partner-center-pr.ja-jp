@@ -2,18 +2,19 @@
 title: お客様のセルフ サポート | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: 顧客によるセルフ サポート
+description: 顧客は、独自の Microsoft Office 365 管理センターまたは Azure 管理ポータルにサインインし、自分のアカウントを管理できます。 追加のサブスクリプションを購入したり、サブスクリプションを取り消したりするには、お客様は取引先のクラウド ソリューション プロバイダー パートナーに連絡する必要があります。
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 顧客によるセルフ サポート, セルフ サポート,
 ms.localizationpriority: medium
-ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.custom: seodec18
+ms.openlocfilehash: 62a4486419183544ba6720c6e23a096fe4dd3841
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683481"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917584"
 ---
 # <a name="customer-self-support"></a>顧客によるセルフ サポート
 
@@ -31,7 +32,7 @@ ms.locfileid: "8683481"
 
 追加のサブスクリプションを購入したり、サブスクリプションを取り消したりするには、お客様は取引先のクラウド ソリューション プロバイダー パートナーに連絡する必要があります。 Microsoft との間で直接サブスクリプションを変更することはできません。
 
-ユーザーには、製品のヘルプが必要があります、[サポート](https://partnercenter.microsoft.com/partner/support)の製品のリソースを検索することができます。 パートナーは、これらのリソースを最初の手順としてお客様に示すことをお勧めします。
+顧客には、製品のヘルプが必要な[サポート](https://partnercenter.microsoft.com/partner/support)の製品のリソースを検索することができます。 パートナーは、これらのリソースを最初の手順としてお客様に示すことをお勧めします。
 
  
 

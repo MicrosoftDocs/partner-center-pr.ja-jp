@@ -2,20 +2,21 @@
 title: 職場アカウントとパートナー センター | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: パートナー センター アカウントを作成するには、会社の職場アカウントが必要です。
+description: パートナー センター アカウントを作成するには、会社の職場アカウントが必要です。 Microsoft Azure または Office 365 のアクティブなサブスクリプションがある場合は、職場アカウントが既にあります。
 author: labrenne
 ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796395"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917524"
 ---
-# <a name="your-company-work-account-and-the-partner-center"></a>会社の職場アカウントとパートナー センター  
+# <a name="your-company-work-account-and-partner-center"></a>会社の職場アカウントとパートナー センター  
 
 **適用対象**
 
@@ -23,12 +24,12 @@ ms.locfileid: "5796395"
 
 ## <a name="why-you-need-a-work-account"></a>職場アカウントが必要な理由
 
-アカウント ユーザーが自分の職場アカウントのユーザー名とパスワードを使ってパートナー センターにサインインできるように、新しいパートナー センター アカウントに会社の職場アカウントをリンクする必要があります。
+アカウント ユーザーが職場アカウントのユーザー名とパスワードを使ってパートナー センターにサインインできるように、会社の職場アカウントを新しいパートナー センター アカウントにリンクする必要があります。
 
 会社に職場アカウントが既にある場合は、そのアカウントをパートナー センター アカウントにリンクできます。 
 
 > [!NOTE]  
->  既存の職場アカウントを使用する前に、アカウント内のユーザーの数は、パートナー センターで作業する必要があります考えてみてください。 パートナー センターで作業する必要があるアカウントでユーザーが存在する場合は、パートナー センターで作業する必要があるユーザーだけの新しいアカウントの作成を検討してください。
+>  既存の職場アカウントを使用する前に、アカウント内のユーザーの数はパートナー センターで作業する必要があります考えてみてください。 パートナー センターで作業する必要があるアカウントでユーザーが存在する場合は、パートナー センターで作業する必要があるユーザーだけの新しいアカウントの作成を検討してください。
 
 職場アカウントが会社にまだない場合は、登録プロセスを通じて無料で作成できます。 
 
@@ -47,7 +48,7 @@ ms.locfileid: "5796395"
 
 Azure AD でドメインを追加する方法について詳しくは、[Azure AD でのドメインの追加または関連付けに関するページ](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)をご覧ください。
 
-# <a name="about-microsoft-azure"></a>Microsoft Azure について
+## <a name="about-microsoft-azure"></a>Microsoft Azure について
 
 Microsoft Azure は、マイクロソフトが管理するデータセンターのグローバル ネットワークで企業がアプリケーションの構築、展開、管理に使うことができるパブリック クラウド プラットフォームです。 企業は、Azure を使って、物理的なコンピューターではなく仮想的な機能やサービスを提供する仮想 IT インフラストラクチャを構築します。 
 
