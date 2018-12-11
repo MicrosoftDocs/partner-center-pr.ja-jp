@@ -1,6 +1,7 @@
 # [Microsoft パートナー センターの詳細](index.md)
 
 # [Partner Network メンバーシップ](mpn-overview.md)
+## [PMC からパートナー センターへの移行](pmc-to-partner-center.md)
 ## [パートナー センター アカウントを作成する](mpn-create-a-partner-center-account.md)
 ## メンバーシップの提供
 ### [Action Pack](mpn-get-action-pack.md)
