@@ -1,122 +1,107 @@
 ---
-title: Dynamics AX のサブスクリプションを Dynamics 365 に移行する | パートナー センター
+title: Basic (修飾プラン) から新しいバージョンへし、Dynamics 365 Customer Engagement プランの移行 |パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
-description: Microsoft では、次世代のインテリジェント ビジネス アプリケーションである Dynamics 365 を公開しました。これにより、お客様の組織を成長、進化、および変化させ、顧客のニーズに合わせて、新しいビジネスの機会を捕らえることができます。
+ms.date: 12/12/2018
+description: Dynamics 365 for Sales/Basic (修飾を提供) サブスクリプションから Customer Engagement プランは更新されなくなったことができます。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
-author: MaggiePucciEvans
-ms.author: evansma
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 276fe6a9b560df49fa255c7d2c6ff698152162c2
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+Keywords: Dynamics 365 offers, renew offers, new Dynamics 365 SKUs
+ms.openlocfilehash: b4b25dd80a684c9060b28461a9e6f594651ae224
+ms.sourcegitcommit: 23adf424dd43ed0281473f97d535d73c59c92b01
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917294"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "8968272"
 ---
-# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Dynamics AX のサブスクリプションを Dynamics 365 に移行する
+# <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Basic (修飾プラン) から新しいバージョンにし、Dynamics 365 Customer Engagement プランを移行します。
 
 **適用対象**
 
 -  パートナー センター
 
-Microsoft では、次世代のインテリジェント ビジネス アプリケーションである Dynamics 365 を公開しました。これにより、お客様の組織を成長、進化、および変化させ、顧客のニーズに合わせて、新しいビジネスの機会を捕らえることができます。 新製品の一部として、マイクロソフトでは、2016 年 11 月 1 日に顧客向けの新しい Microsoft Dynamics サブスクリプション プランを導入しました。このプランは現行のプランと類似していますが、若干の違いがあります。
+Dynamics 365 for Sales を 2019 年 1 月 1 日、ユーザーに効果的な Basic (修飾を提供) サブスクリプションから Customer Engagement プランことができますこれらのレガシ プランの更新できなく/。期限が切れたとき、既存のサブスクリプションは自動的に更新されません。 サブスクリプションの詳細ページで、サブスクリプションの状態は、「自動更新 [日付]」から「有効期限 [日付]」に変更されます。 
 
-このドキュメントに示されている手順では、間接プロバイダーが顧客の既存の Microsoft Dynamics AX サブスクリプションと Microsoft Dymanics CRM Online サブスクリプションを Microsoft Dynamics 365 に切り替える方法を説明しています。 この手順は、他の Microsoft 製品を新しいバージョンに更新する場合や、プロバイダーが顧客のサブスクリプションを新しい SKU に移行する必要がある場合にも適用されます。
 
-Microsoft Dynamics CRM Online および AX プランは廃止されます。  2017 年 7 月 1 日以降は、レガシ プランへの更新ができなくなり、既存の E4 サブスクリプションも有効期限満了時に自動更新されません。
+顧客の継続性を確認するを以下に、サポートされているオプション近づいたサブスクリプションを持つを移行する必要があります。 お客様のサービスが中断することを避けるため、サブスクリプションの年間終了日前に新しいサブスクリプションにお客様を移行することをお勧めします。
 
-CRM Online と AX のサブスクリプションは終了した時点で取り消されます。 お客様への継続的なサービス提供を保証するには、有効期限が迫っているサブスクリプションのお客様を、サポートされている以下の SKU オプションに移行する必要があります。 お客様のサービスが中断することを避けるため、サブスクリプションの年間終了日前に新しいサブスクリプションにお客様を移行することをお勧めします。 
+API (CREST またはパートナー センター) を使用する場合、自動と共に、サブスクリプションの終了日を評価することによって有効期限が切れるサブスクリプションの更新を検索できます = False プロパティ。 対象のサブスクリプションは自動的に設定されます renew = False 2019 年 1 月 1 日にします。 パートナー様はお客様をいつでも新しいプランに移行することができます。 
 
-サブスクリプションの詳細ページでは、有効期限の近づいたサブスクリプションに対して、サブスクリプションの状態が "自動更新: [日付]" から "有効期限: [日付]" に変更されています。 
+### <a name="the-dynamics-365-offers-being-retired"></a>廃止される Dynamics 365 をプランします。
 
-API (CREST またはパートナー センターのいずれか) を使用している場合は、サブスクリプションの終了日と auto renew = False プロパティを評価して、有効期限が迫っているサブスクリプションを検出できます。サブスクリプションは、2017 年 7 月 1 日に ”auto renew=False” に設定されています。 パートナー様は顧客をいつでも新しいプランに移動することができます。 
+- Dynamics 365 販売 Enterprise Edition CRMOL basic (修飾プラン)
+- Dynamics 365 for Faculty 販売 Enterprise エディション CRMOL basic (修飾プラン)
+- Dynamics 365 for Students 販売 Enterprise エディション CRMOL basic (修飾プラン)
+- Dynamics 365 販売 Enterprise Edition (政府機関向け価格) CRMOL basic (修飾プラン)
+- CRM Basic (修飾プラン) 用の SA から Dynamics 365 を販売 Enterprise エディション
+- 教職員用の CRM Basic (修飾プラン) 用の SA から Dynamics 365 を販売 Enterprise エディション
+- 学生用の CRM Basic (修飾プラン) 用の SA から Dynamics 365 を販売 Enterprise エディション
+- CRM Basic (修飾プラン) 用の SA から Dynamics 365 を販売 Enterprise エディションの (政府機関向け価格)
+- Dynamics 365 販売 Enterprise エディションのアドオンの CRM basic (修飾プラン)
+- Dynamics 365 販売 Enterprise エディションのアドオンの教職員用の CRM basic (修飾プラン)
+- Dynamics 365 販売 Enterprise エディションのアドオンの学生用の CRM basic (修飾プラン)
+- Dynamics 365 販売 Enterprise Edition (政府機関向け価格) アドオンの CRM basic (修飾プラン)
+- Dynamics 365 顧客契約計画 Enterprise Edition CRMOL Basic (修飾プラン)
+- Dynamics 365 顧客契約計画 Enterprise Edition (政府機関向け価格) CRMOL Basic (修飾プラン)
+- Dynamics 365 顧客エンゲージメント計画 Enterprise Edition CRMOL Basic (修飾プラン) for Students
+- Dynamics 365 顧客エンゲージメント計画 Enterprise Edition CRMOL Basic (修飾プラン) for Faculty
+- CRM Basic (修飾プラン) 用の SA から Dynamics 365 顧客契約計画 Enterprise エディション
+- Dynamics 365 顧客契約計画 Enterprise エディション (政府機関向け価格) CRM Basic (修飾プラン) 用の SA から
+- 学生用の CRM Basic (修飾プラン) 用の SA から Dynamics 365 顧客契約計画 Enterprise エディション
+- 教職員用の CRM Basic (修飾プラン) 用の SA から Dynamics 365 顧客契約計画 Enterprise エディション
+- Dynamics 365 顧客契約計画 Enterprise エディションのアドオン CRM Basic (修飾プラン)
+- Dynamics 365 顧客契約計画 Enterprise Edition (政府機関向け価格) のアドオン CRM Basic (修飾プラン)
+- Dynamics 365 顧客契約計画 Enterprise エディションのアドオン学生用の CRM Basic (修飾プラン)
+- Dynamics 365 顧客契約計画 Enterprise エディションのアドオン教職員用の CRM Basic (修飾プラン)
 
-**Microsoft Dynamics AX ライセンスの変更**
 
-Microsoft Dynamics AX 製品ラインは廃止されました。2016 年 11 月 1 日以降は利用できません。 Dynamics 365 の新しいライセンス オプションについて詳しくは、[ライセンス ガイド](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)をご覧ください。
 
- ライセンスの関連について詳しくは、次の表をご覧ください。
+## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Dynamics 365 for Sales/計画 (修飾を提供) Basic 代替から Customer Engagement プラン
 
-|**廃止された SKU**   |**Dynamics 365 SKU**   |
-|-------------------|:----------------------|
-|Enterprise SKU|Microsoft Dynamics 365 for Unified Operations または Microsoft Dynamics 365 プラン |
-|タスク|Microsoft Dynamics 365 for Activity
-|タスク/セルフサービス|Microsoft Dynamics 365 for Team Members|
-|デバイス|Microsoft Dynamics 365 for Operations デバイス|
+**廃止されたプラン**   
 
-## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Microsoft Dynamics CRM Online ライセンスの変更 
+- Dynamics 365 for Sales から CRM Basic または CRMOL (修飾プラン)
+- CRM Basic または CRMOL (修飾プラン) から Dynamics 365 Customer Engagement プラン
 
-**Microsoft Dynamics CRM Online**
-
-現在の Microsoft Dynamics CRM Online プランは廃止されました。2016 年 11 月 1 日以降は利用できません。 Microsoft Dynamics 365 の新しいライセンス オプションについて詳しくは、[ライセンス ガイド](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)をご覧ください。 新しいライセンス オプションについて詳しくは、[CRM Online のお客様向けの重要なお知らせ](https://go.microsoft.com/fwlink/?linkid=831667)をご覧ください。
-
-ライセンスの関連について詳しくは、次の表をご覧ください。
-
-|**廃止された SKU**   |**Dynamics 365 SKU**   |
-|-------------------|:----------------------|
-|Enterprise|Dynamics 365 Enterprise Customer Engagement プラン |
-|Professional|Dynamics 365 Enterprise Customer Engagement プラン、Dynamics 365 for Sales、Dynamics 365 for Customer Service|
-|Basic|Dynamics 365 for Team Members、Dynamics 365 for Sales、Dynamics 365 for Customer Service、Dynamics 365 Enterprise Customer Engagement プラン|
-|Essential|Dynamics 365 for Team Members|
-|フィールド サービスアドオン|Dynamics 365 Enterprise Customer Engagement プランまたは Dynamics 365 for Field Service|
-|プロジェクト サービス オートメーション アドオン|Dynamics 365 Customer Engagement プランまたは Dynamics 365 for Project Service Automation|
+**代替オプション**
+- Dynamics 365 の販売 Professional (新機能)
+- Dynamics 365 の販売 Professional (新機能)
+- Dynamics 365 for Customer Service
+- Dynamics 365 Customer Engagement プランまたは
+- Dynamics 365 チームのメンバー
 
 
 
 ## <a name="transition-customers-to-new-product-plans"></a>顧客を新しい製品プランに移行する
 
+廃止された Sku から顧客を新しいものを移動するには、この順序で、次の手順が必要です。
 
-Microsoft では、新しい製品やサービスをリセラーとプロバイダー向けに継続的に提供します。 このような場合、リセラーは、顧客を新しいサービスにアップグレードしたり、顧客のサブスクリプションを最終的には廃止される SKU から移行する必要があります。 以前の SKU から新しい SKU に顧客を移行するには、次の手順に従う必要があります。
+- 新しいサブスクリプションを購入する
+- 現在のユーザー ライセンスをもう一度割り当てる
+- 以前のサブスクリプションを取り消す
 
--   [新しいサブスクリプションを購入する](#purchase-the-new-subscription)。
--   [現在のユーザー ライセンスをもう一度割り当てる](#reassign-user-license)。
--   [以前のサブスクリプションを取り消す](#cancel-the-old-subscription)。
+## <a name="purchase-the-new-plan-for-your-customer"></a>顧客の新しいプランを購入します。
 
-次の手順では、Microsoft Dynamics AX または CRM Online から Dynamics 365 に顧客を移行します。
+1. 左側のナビゲーションから**顧客**を選択し、新しいサブスクリプションを移行する顧客を選択します。
+2. **[サブスクリプションの追加**を選択します。
+3. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、**[送信]** を選びます。 
 
-この例では、リセラーは、Dynamics AX Enterprise の既存のサブスクリプションを持つユーザーを Dynamics 365 for Operations に移行する必要があります。 まず、Dynamics 365 for Operations を購入します。  CRM Online を使っている顧客を Microsoft Dynamics 365 へ移行する場合は、次の手順を繰り返します。
+顧客以前のサブスクリプションと新しいの 1 つの両方がされます。 次の手順では、顧客のユーザーへのライセンスをもう一度割り当てます。
 
-<a href="" id="purchasenewsubsc"></a>
+1. 左側のナビゲーションから**顧客**を選択し、移動する顧客を選択します。
+2. **[ユーザーとライセンス]** を選びます。
+3. ユーザーにライセンスを再割り当てするには、ユーザーを選択し、**ライセンスの管理**を選択します。 
+4. **ライセンスの管理**] ページで、クリア for Sales、Dynamics 365/Basic (修飾提供) から Customer Engagement プランのライセンスのチェック ボックスと、お客様の移行先サブスクリプションの新しいサービス プランを選択します。 
+5. **[送信]** を選びます。 これは、新しいライセンスを必要とする各ユーザーの行います。 
 
-### <a name="purchase-the-new-subscription"></a>新しいサブスクリプションを購入する
+新しいサブスクリプションを経由でライセンスを移動した後は、以前のサブスクリプションを取り消すことができます。 
 
-1.  **パートナー センター**メニューで、**顧客**を選びます、移行する顧客を選択し、**サブスクリプションの追加**] を選択します。
-2.  カタログから購入するサブスクリプション (この場合は、"業務向け Dynamics 365、Enterprise エディション") を選び、ライセンスの数を入力して、**[送信]** を選びます。
+1. 左側のナビゲーションから**顧客**を選択し、移動する顧客を選択します。
+2. サブスクリプションの詳細ページでは、以前のサブスクリプションを**中断**に設定し、**送信**を選択します。
 
-    この時点では、顧客は以前のサブスクリプションと新しいサブスクリプションの両方を保持することになります。この例では、以前の "Dynamics AX エンタープライズ" と、新しい "対象の" サブスクリプションである "業務向け Dynamics 365、Enterprise エディション" です。
-
-<a href="" id="reassignlicenses"></a>次の手順では、既存のすべてのユーザー ライセンスを新しいサブスクリプションにもう一度割り当てます。
-
-### <a name="reassign-user-licenses"></a>ユーザー ライセンスをもう一度割り当てる
-
-1.  **パートナー センター**メニューで、**顧客**を選びます、移行する顧客を選択して、**ユーザーとライセンス**を選択します。 顧客の [ユーザーとライセンス] ページが開きます。
-2.  ユーザー ライセンスをもう一度割り当てるには、割り当てるユーザーを選んでから **[ライセンスの管理]** を選びます。
-3.  **[ライセンスの管理]** ページで、**[Dynamics AX エンタープライズ]** ライセンスのチェック ボックスをオフにして、**[業務向け Dynamics 365]** ライセンスを選びます。
-4.  **[送信]** を選びます。 確認ページに新しいライセンスの割り当てが一覧表示されます。
-5.  ライセンスをもう一度割り当てる必要がある他の顧客ユーザーについて、同じ手順を繰り返します。
-
-<a href="" id="cancelsubscriptions"></a>ユーザー ライセンスを新しいサービスに移行すると、メニューの最上位にある [顧客] から以前のサブスクリプションを安全に取り消すことができます。
-
-### <a name="cancel-the-old-subscription"></a>以前のサブスクリプションを取り消す
-
-1.  **パートナー センター**メニューで、**顧客**を選びます、移行する顧客を選択して、キャンセルするサブスクリプションを選択します。
-2.  サブスクリプションの詳細ページで、サブスクリプションの **[状態]** を **[中断]** に設定します。
-3.  **[送信]** を選びます。
-
-以前のサブスクリプションが中断され、新しいサブスクリプションがアクティブになります。 中断されたサブスクリプションは、120 日後に自動的にプロビジョニングが解除されます。 顧客に対しては、以前のサブスクリプションの追加コストは発生しません。
-
-## <a name="additional-considerations"></a>その他の考慮事項
-
-
-さらにサブスクリプションをプロビジョニングするために、顧客をオープン チャネルからクラウド サービス プログラムに移行する場合は、それらの既存のサブスクリプションも移行する必要があります。
-
--   顧客がオープン チャネルを通じて以前のサブスクリプションを受け取る場合、新しい SKU での CSP への移行は簡単です。
--   ユーザーがまだ顧客として確立されていない場合は、それらのユーザーを招待することができます。 詳しくは、「[Request a relationship with a customer](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx)」(顧客との関係を要求する) ヘルプ トピックをご覧ください。
-
-顧客がお客様を間接プロバイダーとして承認すると、プロビジョニングの手順は上記の手順とほとんど同じになります。新しいサブスクリプションを購入して、ユーザー ライセンスを割り当てます。 以前のサブスクリプションの取り消しだけが、異なる手順となります。 新しいプロバイダーは、他のチャネルを通じて取得されたサブスクリプションの中断や取り消しを行うことができません。 顧客が他の販売ルート (オープン チャネルなど) で以前にサブスクリプションを取得している場合、顧客自身がその販売ルートを通じてサブスクリプションを取り消す必要があります。
-
+以前のサブスクリプションが一時停止できるようになりましたと新しいサブスクリプションがアクティブになっています。 中断されたサブスクリプションは、120 日後に自動的にプロビジョニングが解除されます。 顧客が以前のサブスクリプションの追加コストが発生しません。
  
 
  
