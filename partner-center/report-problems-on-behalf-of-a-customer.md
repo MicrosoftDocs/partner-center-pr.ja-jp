@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
+ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683771"
+ms.lasthandoff: 12/18/2018
+ms.locfileid: "8973902"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理としての問題の報告
 
@@ -49,8 +49,22 @@ ms.locfileid: "8683771"
 
 3.  後で、Microsoft Azure ポータル内で顧客のサービス リクエストを表示する場合は、**[サポートの要求の管理]** を選びます。
 
+その顧客の管理者のアクセス許可があるない場合は、顧客のサポート要求を作成する必要があります。 これは、2 つのシナリオのいずれかで発生する可能性があります。 
+ 
+-   最初の関係を確立するときは、管理者特権を要求しなかった。
+-   顧客の Azure サブスクリプションといいえを管理する他のユーザー、管理者権限を持っている必要がありません。
+ 
+このような場合のどちらでも、サポート要求を作成するのに次の手順を使用することができます。 
 
+1.  パートナー センターで、[アカウント] ページから顧客のドメイン名をコピーします。
 
+2.  移動https://portal.azure.com/[customerdomainname]。 
+
+3.  サポートが必要な Azure サブスクリプションを選択します。
+
+4.  **新しいサポート要求**をを選択し、要求を作成し、画面の指示に従います。 
+
+ 
 **Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite**
 
 1. 
@@ -99,7 +113,7 @@ Office 365 管理センターに直接サインインすると、顧客のコン
 
 **Dynamics 365 の追加のサポートを取得する方法**
 
- 関連する問題が発生した場合: Dynamics 365 プラン サブスクリプション、ライセンス、請求、財務 & 操作や IURs がさらにテクニカル サポートが必要です。
+ 関連する問題が発生した場合: Dynamics 365 プラン サブスクリプション、ライセンス、請求、ファイナンス & 操作、IURs か、またはそれ以上のテクニカル サポートを必要とします。
  
 [Dynamics サポート](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)にお問い合わせ
 
