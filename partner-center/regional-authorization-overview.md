@@ -6,32 +6,32 @@ description: 国と地域の会社の場所に基づく、CSP のプランを販
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: CSP の市場、担当地域、場所できます i を通じて販売を行う CSP, CSP 提供しますが、地域、グローバル CSP、クラウド ソリューションを販売します。
+keywords: CSP の市場、担当地域、場所できます i を通じて販売を行う CSP, CSP のプラン、地域、グローバル CSP、クラウド ソリューションを販売します。
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 19a48a5ffc0ab9a3d2555c47cbf67c0376d771bf
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917674"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980626"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>クラウド ソリューション プロバイダー プログラムの地域市場と通貨
 
 会社の場所は、市場を決定します。 市場には、地域や国の CSP のプランを販売することができますが含まれています。
 
-たとえば、会社が米国である、ユーザーとその他の米国諸島、米国で CSP のプランを販売できます。 ブラジルでは、会社が存在する場合は、ブラジルでのみのユーザーに CSP のプランを販売できます。 アフリカの地域では、会社が存在する場合は、アフリカ領域内のすべての 18 国の顧客に CSP のプランを販売できます。
+たとえば、会社が米国である、米国の他の諸島で、米国内のユーザー CSP のプランを販売できます。 ブラジルでは、会社が存在する場合は、ブラジルでのみのユーザーに CSP のプランを販売できます。 アフリカの地域では、会社が存在する場合は、アフリカ領域内のすべての 18 国の顧客に CSP のプランを販売できます。
 
-CSP は、顧客の代理としてプランを注文する前に、顧客は、Microsoft Cloud 契約に署名する必要があります。 国/地域に適用可能な Microsoft Cloud 契約を見つけることができます[次に](agreements.md)します。
+顧客の代理として CSP のプランを注文するには、前に、顧客は、Microsoft Cloud 契約に署名する必要があります。 国/地域に適用可能な Microsoft Cloud 契約を見つけることができます[次に](agreements.md)します。
 
 >[!IMPORTANT]
-> 2018 年 11 月 7 日以降する必要があります、顧客が署名したユーザーに関する情報を提供することで、Microsoft Cloud 契約を受け入れることを確認します。 詳細については[、Microsoft Cloud 契約のユーザーの同意](confirm-consent.md)を参照してください。
+> 2018 年 11 月 7 日以降する必要があります、顧客が署名したユーザーに関する情報を提供することで、Microsoft Cloud 契約を受け入れることを確認します。 詳細については[、Microsoft Cloud 契約の顧客の同意](confirm-consent.md)を参照してください。
 
-CSP のプランを販売することを確認するのには、下の一覧のいずれかで会社の場所を検索します。
+CSP のプランを販売することを確認するのには、下の一覧のいずれかで会社の場所を検索します。 販売先のアクティブな Microsoft Partner Network (MPN) ID が必要です。  
 
 ## <a name="africa-region-and-market"></a>アフリカの地域設定と市場設定
 
-会社の場所が次の一覧である場合は、CSP のプランをリスト内のすべての場所で顧客に販売できます。
+会社の場所が次の一覧である場合は、CSP のプランを一覧のすべての場所で顧客に販売できます。
 
 | 国/地域           | Currency |
 | ------------------------ |:--------:|
@@ -86,7 +86,7 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 
 ## <a name="asia-and-pacific-region-and-market"></a>アジア太平洋地域設定と市場設定
 
-会社の場所が次の一覧である場合は、CSP のプランをリスト内のすべての場所で顧客に販売できます。
+会社の場所が次の一覧である場合は、CSP のプランを一覧のすべての場所で顧客に販売できます。
 
 | 国/地域     | Currency |
 | --------------     |:--------:|
@@ -112,7 +112,7 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 
 ## <a name="australia-region-and-market"></a>オーストラリア地域設定と市場設定
 
-会社の場所が次の一覧である場合は、CSP のプランをリスト内のすべての場所で顧客に販売できます。
+会社の場所が次の一覧である場合は、CSP のプランを一覧のすべての場所で顧客に販売できます。
 
 |  国/地域        | Currency |
 |  --------------        |:--------:|
@@ -152,7 +152,7 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 
 ## <a name="canada-region-and-market"></a>カナダの地域設定と市場設定
 
-会社の場所が次の一覧である場合は、CSP のプランをリスト内のすべての場所で顧客に販売できます。
+会社の場所が次の一覧である場合は、CSP のプランを一覧のすべての場所で顧客に販売できます。
 
 |  国/地域 | Currency |
 |  -------------- |:--------:|
@@ -162,7 +162,7 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 
 ## <a name="europe-region-and-market"></a>ヨーロッパの地域設定と市場設定
 
-会社の場所が次の一覧である場合は、CSP のプランをリスト内のすべての場所で顧客に販売できます。
+会社の場所が次の一覧である場合は、CSP のプランを一覧のすべての場所で顧客に販売できます。
 
 |  国/地域 | Currency  |
 |  -------------- |:--------:|
@@ -242,7 +242,7 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 
 ## <a name="latin-america-and-the-caribbean-region-and-market"></a>ラテン アメリカ、カリブ地域や市場
 
-会社の場所が次の一覧である場合は、CSP のプランをリスト内のすべての場所で顧客に販売できます。
+会社の場所が次の一覧である場合は、CSP のプランを一覧のすべての場所で顧客に販売できます。
 
 |  国/地域 | Currency |
 |  -------------- |:--------:|
@@ -303,7 +303,7 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 
 ## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>中東、中央のヨーロッパおよび東ヨーロッパの地域設定と市場設定
 
-会社の場所が次の一覧である場合は、CSP のプランをリスト内のすべての場所で顧客に販売できます。
+会社の場所が次の一覧である場合は、CSP のプランを一覧のすべての場所で顧客に販売できます。
 
 |  国/地域 | Currency |
 |  -------------- |:--------:|
@@ -337,7 +337,7 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 |  モザンビーク     |          |
 |  オマーン           |   USD    |
 |  パキスタン       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  占有パレスチナ |        |
 |  カタール          |   USD    |
 |  サウジアラビア   |   USD    |
 |  セルビア         |   USD    |
@@ -356,7 +356,7 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 
 ## <a name="new-zealand-region-and-market"></a>ニュージーランド地域設定と市場設定
 
-会社の場所が次の一覧である場合は、CSP のプランをリスト内のすべての場所で顧客に販売できます。
+会社の場所が次の一覧である場合は、CSP のプランを一覧のすべての場所で顧客に販売できます。
 
 |  国/地域 | Currency |
 |  -------------- |:--------:|
@@ -375,9 +375,9 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 |  ロシア連邦         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>台湾地域設定と市場設定
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+会社の場所が台湾である場合は、CSP のプランを台湾で顧客に販売できます。
 
 |  国/地域 | Currency |
 |  -------------- |:--------:|
@@ -386,7 +386,7 @@ If your company's location is Taiwan, you can sell CSP offers to customers in Ta
 
 ## <a name="united-states-region-and-market"></a>米国の地域設定と市場設定
 
-会社の場所が次の一覧である場合は、CSP のプランをリスト内のすべての場所で顧客に販売できます。
+会社の場所が次の一覧である場合は、CSP のプランを一覧のすべての場所で顧客に販売できます。
 
 |  国/地域       | Currency |
 |  -------------        |:--------:|
