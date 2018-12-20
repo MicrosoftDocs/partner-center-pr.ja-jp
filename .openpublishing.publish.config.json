@@ -9,6 +9,11 @@
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
       "build_entry_point": "docs",
       "version": 0
     },
@@ -18,6 +23,11 @@
       "build_output_subfolder": "partner-china-dynamic",
       "locale": "ja-jp",
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
       "build_entry_point": "op"
     }
   ],
@@ -35,7 +45,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes.MSDN.PartnerCenter",
-      "url": "https://github.com/Microsoft/templates.msdn.partnercenter",
+      "url": "https://github.com/Microsoft/templates.msdn.partnercenter.ja-jp",
       "branch": "master",
       "branch_mapping": {}
     },
