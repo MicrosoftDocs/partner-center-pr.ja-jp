@@ -13,6 +13,7 @@
 # [クラウド ソリューション プロバイダー](csp-overview.md)
 ## [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
 ## [CSP の直接パートナーの新しい要件](direct-partner-new-requirements.md) 
+## [コントロール パネル ベンダーとして登録する](enroll-as-cpv.md)
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
 ## [CSP の地域市場と通貨](regional-authorization-overview.md)
 ## [地域と言語別の Microsoft Cloud 契約](agreements.md)
@@ -85,7 +86,8 @@
 ### [導入実績と満足度の向上](increasing-adoption-and-satisfaction.md)
 ### [Windows Autopilot でデバイスのセットアップを効率化する](autopilot.md)
 ##  製品を新しいバージョンにアップグレードまたは転送する
-### [Dynamics AX サブスクリプションを Dynamics 365 にアップグレードする](manual-subscription-migration.md)
+### [Dynamics 365 および Customer Engagement プランの Basic (対象プラン) から新しいバージョンへの移行](manual-subscription-migration.md)
+### [Dynamics 365 Business Edition プランの新しいバージョンへの移行](migrate-dynamics-365-to-new.md)
 ### [Office 365 Enterprise E4 サブスクリプションの Office 365 の新しいバージョンへの移行](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Skype for Business Online プラン 1 の新しい Office 365 バージョンへの移行](skype-retiring.md)
 ### [Azure サブスクリプションの譲渡](switch-azure-subscriptions-to-a-different-partner.md)
