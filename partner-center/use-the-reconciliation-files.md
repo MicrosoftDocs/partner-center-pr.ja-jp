@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 188f6fe28277cfab624d407bb47157f2dce7e854
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683821"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990994"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -49,7 +49,7 @@ ms.locfileid: "8683821"
 <td>リセラーの MPN ID</td>
 <td><p>インダイレクト モデルのパートナーの調整ファイルにのみ表示されます。</p>
 <p>サブスクリプションの登録のあるリセラーの MPN ID。 これは、パートナー センターで特定のサブスクリプションについて示されるリセラー ID に対応します。</p>
-<p>リセラーを表示または更新するにはパートナー センター メニューで、<strong>顧客</strong>を選択し、一覧から顧客を選択します。 顧客メニューの <strong>[サブスクリプション]</strong> を選び、一覧からサブスクリプションを選びます。 
+<p>リセラーを表示または更新プログラム、パートナー センター メニューから、リセラーは、<strong>顧客</strong>を選択し、一覧から顧客を選びます。 顧客メニューの <strong>[サブスクリプション]</strong> を選び、一覧からサブスクリプションを選びます。 
           <strong>[更新]</strong> を選んで、<strong>[再販業者 (MPN ID)]</strong> を変更します。</p>
 <p>CSP パートナーがお客様に直接サブスクリプションを販売した場合、パートナーの MPN ID が MPN ID とリセラーの MPN ID として 2 か所に表示されます。</p>
 <p>CSP パートナーのリセラーに MPN ID がない場合は、代わりに CSP パートナーの MPN ID がこの値に設定されます。</p>
@@ -572,7 +572,7 @@ ms.locfileid: "8683821"
 <p>Prorate fees when purchase</p>
 </td>
 <td>
-<p>購入時の日割りの料金</p>
+<p>年次請求を使用する場合、サブスクリプションの請求の種類</p>
 </td>
 </tr>
 <tr>
@@ -580,7 +580,7 @@ ms.locfileid: "8683821"
 <p>Purchase fee</p>
 </td>
 <td>
-<p>サブスクリプションの最初の課金</p>
+<p>月次請求を使用する場合、サブスクリプションの請求の種類</p>
 </td>
 </tr>
 <tr>

@@ -2,18 +2,18 @@
 title: 請求書を読み取る | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: 請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 これは、パートナー センターで利用できます。
+description: 請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 パートナー センターでは利用できます。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683791"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990934"
 ---
 # <a name="read-your-bill"></a>請求書の記載事項
 
@@ -23,7 +23,7 @@ ms.locfileid: "8683791"
 -  Microsoft Cloud for US Government のパートナー センター
 
 
-請求書、**パートナー センター**メニューに移動し、選び、**請求**請求の履歴と傾向、請求書と調整ファイル、前回のお支払いへのリンクを確認する。
+請求書の**パートナー センター**メニューに移動します選び、**請求**に請求の履歴と傾向、請求書と調整ファイル、および、最近の入金へのリンクを参照してください。
 
 クラウド ソリューション プロバイダー プログラムに参加中で月次請求を選択した場合は、顧客 (ライセンスベースおよび使用量ベース) のサブスクリプション料金を 60 日以内に Microsoft にお支払いください。
 
@@ -57,7 +57,7 @@ ms.locfileid: "8683791"
 </tr>
 <tr class="even">
 <td>請求先</td>
-<td>請求書の送付先となる住所。 この住所を変更するには、[アカウント設定] > [パートナー課金プロファイル] に移動します。 </td>
+<td>請求書の送付先となる住所。 会社名またはアドレスを変更するには、プロファイルを請求、パートナー センターを編集します。 </td>
 </tr>
 <tr class="odd">
 <td>ライセンス ベースの課金</td>
@@ -105,11 +105,11 @@ ms.locfileid: "8683791"
 </tr>
 <tr class="odd">
 <td>課金期間</td>
-<td>CSP パートナー様は、月 1 回または年 1 回請求されます。</td>
+<td>請求日に至るまで月単位の期間です。 これは、使用量ベースのサービスは、消費し、ライセンス ベースのサービスは、クレジット調整やライセンス数の変更の調整期間です。</td>
 </tr>
 <tr class="even">
 <td>請求書作成日</td>
-<td>請求書を受け取る日付。</td>
+<td>請求日または締日が、請求書で毎月が生成されます。</td>
 </tr>
 <tr class="odd">
 <td>支払条件</td>
@@ -129,7 +129,7 @@ ms.locfileid: "8683791"
 </tr>
 <tr class="odd">
 <td>サービス利用者</td>
-<td>サービスが使われる住所。 (これは、会社の審査に関連付けられている会社の正式な住所です。変更することはできません。)</td>
+<td>サービスが使われる住所。 (これは、会社の審査に関連付けられている会社の正式アドレスです)。</td>
 </tr>
 </tbody>
 </table>

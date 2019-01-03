@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b4dbfe0b325f4ab9741ae4510fa8e651d7216ac9
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795635"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990964"
 ---
 # <a name="common-billing-scenarios"></a>一般的な課金シナリオ
 
@@ -33,7 +33,9 @@ ms.locfileid: "5795635"
 
 使用量ベースのサブスクリプションは、月次後払いでサブスクリプション締日にご請求となります。 たとえば、サブスクリプション締日が 15 日の場合、12 月 15 日～ 1 月 14 日のサービス期間に対するご請求日は1 月 15 日になります。 以降同様に、たとえば 1 月 15 日～ 2 月 14 日のサービス期間に対するご請求日は 2 月 15 日になります。サブスクリプション締日に発生した料金は、次の請求書と調整ファイルに反映されます。
 
-使用量ベースのサブスクリプションはいつでも停止できます。 
+いくつかの使用料金は、請求書に表示されないことや、前の月からその使用方法は、現在の月の請求書の課金ときどきあります。 これは、エラーではありません。単に、サービスが発生した後、サービスがタイムスタンプをされたことを意味します。 請求サイクルの最後の 24 時間以内に報告された使用量は、翌月の請求書に表示されます。 
+
+使用量ベースのサブスクリプションはいつでもでも停止できます。 
 
 Azure CSP 価格表は毎月発行され、パートナー センターの [販売] > [料金とプラン] ページに掲載されます。 価格は毎日のように変化し、価格表の [変更履歴] タブに表示されますのでご注意ください。
 

@@ -7,12 +7,12 @@ author: Maggie Evans
 ms.author: evensma
 keywords: Microsoft Cloud 契約, 顧客契約テンプレート, CSP 顧客契約, MCA, Microsoft Cloud 契約 (MCA), CSP, CSP で販売できる国または地域, CSP の国または地域, CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南米, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: a664c2bd9486f2f3b32dc09a7d47d32eb9913ed0
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: c3afd36ff14f40ec293ff8dcbda1833d56265c0b
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776536"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990984"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>地域と言語別の Microsoft Cloud 契約
 
@@ -20,14 +20,14 @@ ms.locfileid: "8776536"
 
 - CSP パートナー
 
-注文を配置するには、顧客の代わりに、前に、顧客が読んで同意し、Microsoft Cloud 契約に署名する必要があります。
+注文を配置するには、顧客の代わりに、前に、顧客は読んで同意し、Microsoft Cloud 契約に署名する必要があります。
 
 >[!IMPORTANT]
-> 2018 年 11 月 7日を開始する必要があります顧客が署名したユーザーに関する情報を提供することで、Microsoft Cloud 契約を受け入れることを確認します。 詳細については[、Microsoft Cloud 契約の顧客の同意](confirm-consent.md)を参照してください。
+> 、2018 年 11 月 7日を開始する必要があります、顧客が署名したユーザーに関する情報を提供することで、Microsoft Cloud 契約を受け入れることを確認します。 詳細については[、Microsoft Cloud 契約の顧客の同意](confirm-consent.md)を参照してください。
 
-Microsoft Cloud 契約は、地域固有および複数の言語で利用可能です。 適切な契約書をダウンロードする、下の一覧のいずれかで、顧客の場所と優先する言語を検索します。
+Microsoft Cloud 契約とは、地域固有と複数の言語で利用可能です。 適切な契約書をダウンロードする、下の一覧のいずれかで、顧客の場所と優先する言語を検索します。
 
-わからないどの地域や市場で販売できるは、この一覧に会社の場所を検索する場合:[クラウド ソリューション プロバイダー プログラムの地域市場と通貨](regional-authorization-overview.md)。
+わからないどの地域や市場で販売できるは、このリストで会社の場所を検索する場合:[クラウド ソリューション プロバイダー プログラムの地域市場と通貨](regional-authorization-overview.md)。
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
@@ -120,7 +120,7 @@ Microsoft Cloud 契約は、地域固有および複数の言語で利用可能�
 - ジョージア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - ドイツ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[ドイツ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
     
-    ドイツでは、犯罪コード (セクション 203) と倫理規定プロフェッショナル向けのコードを必要としておく、たとえば、患者の医学博士間の関係との間の関係クライアントの関係が弁護士とそのクライアントです。 これらの労働グループは、プロフェッショナル向けの機密性を確保する必要があります。 これらと他の職務でもクラウド ソリューション プロバイダーからクラウド ベースのサービスを購入するのには、クラウド サービス プロバイダーは、プロフェッショナル向けの機密性をにより、顧客との契約書を判断する必要があります。
+    ドイツでは、犯罪コード (セクション 203) と倫理規定プロフェッショナル向けのコードを必要とクライアントの関係がおく、たとえば、患者の医学博士間の関係との間の関係としていること弁護士とそのクライアントです。 これらの労働グループは、プロフェッショナル向けの機密性を確保する必要があります。 これらと他の職務でもクラウド ソリューション プロバイダーからクラウド ベースのサービスを購入するのには、クラウド サービス プロバイダーは、プロフェッショナル向けの機密性をにより、顧客との契約書を判断する必要があります。
 
     ドイツでビジネスを行う場合は、この professional 機密性修正があるだけでなく、Microsoft Cloud 契約顧客に提供する必要があります。
 
@@ -205,7 +205,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - ギニア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[フランス語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf)    
 - ギニアビサウ: [ポルトガル語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_PTE_Sep20172_CR.pdf)
 - イラク: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep2017_CR.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
-- イスラエル: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[ヘブライ語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_HEB_Sep20172_CR.pdf)  
+- イスラエル:[英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)  
 - ヨルダン: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[アラビア語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - ケニア: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
 - コソボ: [英語](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
