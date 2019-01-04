@@ -14,6 +14,7 @@
 ## [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
 ## [CSP の直接パートナーの新しい要件](direct-partner-new-requirements.md) 
 ## [コントロール パネル ベンダーとして登録する](enroll-as-cpv.md)
+###[このページにアクセスするには、テナントで Multi-Factor Authentication (MFA) を有効にする必要があります](enable-mfa.md)
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
 ## [CSP の地域市場と通貨](regional-authorization-overview.md)
 ## [地域と言語別の Microsoft Cloud 契約](agreements.md)
