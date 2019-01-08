@@ -1,19 +1,19 @@
 ---
-title: インセンティブの支払いについて | パートナー センター
+title: インセンティブの支払いについて |パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
 description: インセンティブの収益と支払いスケジュールは、将来の計画に役立ちます。
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 74811348b14ecad7afc214337fae760c43e4de63
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 535181676cc03c8e696c613e8a907705c40a8fd5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796355"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995703"
 ---
-#<a name="understand-your-incentives-payouts"></a>インセンティブの支払いについて
+# <a name="understand-your-incentive-payouts"></a>インセンティブの支払いについて
 
 **適用対象**
 
@@ -28,10 +28,8 @@ ms.locfileid: "5796355"
 
 各インセンティブ プログラムの収益と支払いにドリルダウンすることができます。 収益と支払いの間でタイムラインを追跡すると、リソースの今後のニーズなどを計画するのに役立ちます。 インセンティブ プログラムにおいて成功を収めている場所やアクティブな場所も調べることができます。 
 
-##<a name="drill-down-on-incentives-earnings"></a>インセンティブの収益にドリルダウンする
+## <a name="drill-down-on-incentives-earnings"></a>インセンティブの収益にドリルダウンする
+インセンティブ プログラムを通じた収益を増やす余地がある組織の場所と、既に支払い済みの場所を調べます。 このデータにより、収益を上げているがまだ支払わされていない場所が明らかになります。  最も成功を収めているプログラムとアクティビティについて理解し、収益を上げている場所を調べます。 プログラムごとに、推定合計収益額、プログラムに参加可能な期間と有効期限を確認します。 プログラムと収益の種類ごとに、さまざまな要件、日付、および収益の最大しきい値があります。 
 
-インセンティブ プログラムを通じた収益を増やす余地がある組織の場所と、既に支払い済みの場所を調べます。 このデータにより、収益を上げているがまだ支払わされていない場所が明らかになります。  最も成功を収めているプログラムとアクティビティについて理解し、収益を上げている場所を調べます。 プログラムごとに、推定合計収益額、プログラムに参加可能な期間と有効期限を確認します。 プログラムと収益の種類ごとに、要件、日付、収益の最大しきい値が異なります。 
-
-##<a name="drill-down-on-incentive-payouts"></a>インセンティブ支払いにドリルダウンする
-
+## <a name="drill-down-on-incentive-payouts"></a>インセンティブ支払いにドリルダウンする
 インセンティブの収入を別の視点から見るため、[支払い] には支払い済みの項目と今後の支払いの明細が表示されます。 源泉徴収税などの取引明細を確認できるように、支払い済みの各プログラムの明細を取得できます。 取引ごとに毎年および毎月の支払いの詳細を確認できます。

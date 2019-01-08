@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: fe930a85f59420548863831a6e4fd311de09c6bc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683811"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8996016"
 ---
 # <a name="faq-about-new-billing-features"></a>新しい請求機能についてよく寄せられる質問
 
@@ -138,7 +138,7 @@ ms.locfileid: "8683811"
 
 -   **A:** はい。 サブスクリプションのライセンス数は、いつでも変更できます。 ライセンスを追加しても、請求頻度に影響はありません。 
 
-**Q:** 年次請求の既存サブスクリプションに、月次請求のライセンスを追加できますか? 
+**Q:** 年次請求の既存サブスクリプションに月次請求のライセンスを追加することができますか。 
 
 -   **A:** 年次請求のサブスクリプションを購入すると、追加のライセンスは同じ請求頻度となります。 月次請求のライセンスを購入する必要がある場合は、新しいサブスクリプションが必要になります。
 
@@ -242,17 +242,17 @@ ms.locfileid: "8683811"
 
 **Q:** インセンティブに関する質問がある場合、どこに問い合わせればよろしいですか?
 
--   **A:** 適切な地域のインセンティブ サポート チームにお問い合わせください。
+- **A:** 適切な地域のインセンティブ サポート チームにお問い合わせください。
 
-    - 北アメリカ: ocina@microsoft.com
+  - 北アメリカ: ocina@microsoft.com
 
-    - ラテン アメリカ/ブラジル: ocilatam@microsoft.com
+  - ラテン アメリカ/ブラジル: ocilatam@microsoft.com
 
-    - EMEA: ociemea@microsoft.com
+  - EMEA: ociemea@microsoft.com
 
-    - APOAC (日本を除く): ociapgc@microsoft.com
+  - APOAC (日本を除く): ociapgc@microsoft.com
 
-    - 日本: ocijp@microsoft.com
+  - 日本: ocijp@microsoft.com
 
 
 **Q:** サブスクリプションを一時停止した場合はどうなりますか? 

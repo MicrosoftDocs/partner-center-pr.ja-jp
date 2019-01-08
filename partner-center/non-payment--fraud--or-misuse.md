@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917594"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995906"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未払い、詐欺、不正使用
 
@@ -83,9 +83,9 @@ ms.locfileid: "8917594"
 > [!IMPORTANT]  
 > パートナーまたは顧客の活動が利用規約に違反していると Microsoft によって確認された場合または違反の疑いが検出された場合は、強制手順が実施されます。 顧客のアカウントは直ちに停止され、強制措置について Microsoft から通知されるか、要求に応じて最新情報が提供されます。
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,12 +4,12 @@ description: Autopilot プロファイルを使用して、デバイスのボッ
 author: maggiepuccievans
 keywords: autopilot、windows autopilot、microsoft autopilot、ゼロタッチ展開、oobe、ログイン画面、インボックス
 ms.localizationpriority: medium
-ms.openlocfilehash: 7df979042799954c5b43a2adef1915941db02e57
-ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
+ms.openlocfilehash: 70740212f433ad6eb4f2f04d63708fff436024ad
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "8976809"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995936"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Windows Autopilot プロファイルを使用して、デバイスのボックスのエクスペリエンスをカスタマイズします。
 
@@ -64,14 +64,15 @@ Windows Autopilot 機能を使用してパートナー センターでは、ユ�
 4. プロファイルの名前と説明を入力し、OOBE の設定を構成します。 を選択します。  
 
    - セットアップでプライバシー設定をスキップします。
-   
+
    - セットアップでローカル管理者アカウントを無効にする
-   
+  
    - セットアップで自動的にページをスキップする<br>
         (*職場または学校のセットアップを自動的に選択して*、*スキップ Cortana、OneDrive、OEM 登録セットアップ ページ*が含まれています)
-   
+  
    - エンド ユーザー ライセンス条項 (EULA) をスキップします。<br> 
-       >[!IMPORTANT] [Windows Autopilot の使用許諾契約](#windows-autopilot-eula-dismissal)の下の重要な情報について、Windows セットアップ中に、使用許諾契約のページをスキップすることを検討するを参照してください。
+       >[!IMPORTANT] 
+       >[Windows Autopilot の使用許諾契約](#windows-autopilot-eula-dismissal)の下の重要な情報について、Windows セットアップ中に、使用許諾契約のページをスキップすることを検討するを参照してください。
 
 5. 完了したら、**[送信]** を選びます。
 
@@ -90,9 +91,9 @@ Windows Autopilot 機能を使用してパートナー センターでは、ユ�
 
 4. プロファイルをデバイスに正常に適用されることを確認するのには、次の手順に従います。
 
-    a.  デバイスをネットワークに接続しがオンにします。
+    a.   デバイスをネットワークに接続しがオンにします。
 
-    b.  適切な OOBE 画面 (存在する場合) が表示されることを確認します。
+    b.   適切な OOBE 画面 (存在する場合) が表示されることを確認します。
 
     c.  OOBE プロセスを停止する場合は、新しいユーザーのための準備を工場出荷時のデフォルト設定をデバイスをリセットします。
 
@@ -104,8 +105,8 @@ Windows Autopilot 機能を使用してパートナー センターでは、ユ�
 
 3. **デバイスにプロファイルを適用**] の下には、プロファイルを削除し、**プロファイルの削除**を選択するデバイスを選択します。
 
-  >[!NOTE]
-  >デバイスからプロファイルを削除しても、プロファイルは、一覧から削除されません。 プロファイルを削除する場合は、[更新または削除 Autopilot プロファイル](#update-or-delete-an-autopilot-profile)に指示します。
+   >[!NOTE]
+   >デバイスからプロファイルを削除しても、プロファイルは、一覧から削除されません。 プロファイルを削除する場合は、[更新または削除 Autopilot プロファイル](#update-or-delete-an-autopilot-profile)に指示します。
 
 ### <a name="update-or-delete-an-autopilot-profile"></a>更新または Autopilot プロファイルの削除
 

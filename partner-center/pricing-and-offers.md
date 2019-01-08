@@ -2,17 +2,17 @@
 title: 料金とプラン | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: プランの一覧には、パートナー センターと価格情報を通じて購入できるさまざまな製品ファミリが含まれています。
+description: プランの一覧には、パートナー センターとその価格設定情報を通じて購入できるさまざまな製品ファミリが含まれています。
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f8b1b700433feaaf1427b90868aa0180fa665e0e
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 91ea3fefc6888c14060360a98bbd2373ff905d7a
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917704"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995756"
 ---
 # <a name="pricing-and-offers"></a>料金とプラン
 

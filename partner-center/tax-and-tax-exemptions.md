@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683741"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995806"
 ---
 # <a name="tax-and-tax-exemptions"></a>税金と税金の除外
 
@@ -26,8 +26,8 @@ ms.locfileid: "8683741"
 
 **税金の除外を申告する**
 
-1.  パートナー センターでは、 **Microsoft ID**を検索&gt;**アカウントの設定** &gt; **組織プロファイル**です。
-2.  パートナー センターでは、 **MPN ID**を検索&gt;**アカウントの設定** &gt; **パートナー プロファイル**です。
+1.  パートナー センターでは、 **Microsoft ID**を検索&gt;**アカウント設定** &gt; **組織プロファイル**です。
+2.  パートナー センターでは、 **MPN ID**を検索&gt;**アカウント設定** &gt; **パートナー プロファイル**です。
 3.  新しいサポート チケットを作成します。 パートナー センター メニューで、**サービス要求**を選択&gt;**パートナー センターの要求** &gt; **新しい要求**します。
 4.  フォームに記入します。 **[問題の種類]** で、**[Cannot manage my profile]** (プロファイルを管理できない) を選びます。 説明の中に貴社の MPN ID と Microsoft ID を記入します。
 5.  チケットを提出すると、マイクロソフトが詳細情報をメールで送ります。 返信する際に、貴社の税金除外証明書の適切な関連書類を添付します。
@@ -48,11 +48,11 @@ ms.locfileid: "8683741"
 </tr>
 <tr class="even">
 <td>欧州連合</td>
-<td><p>欧州連合の加盟国では、パートナーはリバース チャージに対応し適切な請求を行うために有効な VAT ID 番号を提示する必要があります。 VAT 番号は、[有効なものとして受け入れられる](http://go.microsoft.com/fwlink/p/?LinkId=808160)必要があります。</p>
+<td><p>欧州連合の加盟国では、パートナーはリバース チャージに対応し適切な請求を行うために有効な VAT ID 番号を提示する必要があります。 VAT 番号は、<a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">有効なものとして受け入れられる</a>必要があります。</p>
 <p>マイクロソフトはクレジットや自動課金に対応していないため、サブスクリプションを販売する前にパートナー センターで貴社の VAT ID 番号を登録する必要があります。</p>
 <p>VAT ID 番号をマイクロソフトに送信する</strong></p>
 <ol>
-<li>パートナー センターで、パートナー センター メニューに移動します。 &gt; <strong>アカウントの設定</strong> &gt; <strong>パートナー課金プロファイル</strong>です。</li>
+<li>パートナー センターで、パートナー センター メニューに移動します。 &gt; <strong>アカウント設定</strong> &gt; <strong>パートナー課金プロファイル</strong>です。</li>
 <li><strong>[財務データ]</strong> セクションで、<strong>[更新]</strong> を選びます。</li>
 <li>
           <strong>[会社の税金 ID]</strong> で、貴社の VAT ID 番号を指定します。</li>
@@ -75,11 +75,11 @@ ms.locfileid: "8683741"
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

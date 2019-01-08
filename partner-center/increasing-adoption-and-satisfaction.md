@@ -7,12 +7,12 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795255"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995836"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>導入実績を高めて満足度を向上させる
 
@@ -32,7 +32,7 @@ ms.locfileid: "5795255"
 
 **単一の顧客の場合**
 
--   **パートナー センター**から**顧客**を選択し、選択して顧客を**顧客の分析**を選択します。
+-   **パートナー センター**から**顧客**を選択して、選択して顧客をし、**顧客の分析**を選択します。
 
 **ポートフォリオ全体の場合**
 
@@ -71,24 +71,24 @@ ms.locfileid: "5795255"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>問題:</strong> ユーザーの導入率は低く、多くのライセンスが使われていない。</p>
+<td><p><strong>問題:</strong>ユーザーの導入率は低、および多くのライセンスは & #39; t が使用されています。</p>
 <p><strong>考慮事項:</strong> お客様は、ソフトウェアが提供できる価値について理解していない可能性がある。 お客様は、既に行っているタスクを簡略化するため、または新しい種類の生産性を実現するために、そのソフトウェアを日常業務に組み込むことができる方法を計画するための支援を必要としている。</p>
 <p><strong>試すこと:</strong> ケース スタディ、特定のシナリオに関するユーザーの証言、チュートリアルのブログ、ビデオ。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>問題:</strong> ヘルプと使い方に関してサポートへの大量の問い合わせがある。</p>
 <p><strong>考慮事項:</strong> お客様はそのソフトウェア、製品バージョン、タスクを初めて扱う可能性がある。</p>
-<p><strong>試すこと:</strong> 2 つのサービス トレーニング戦略 (対面またはオンライン) で、お客様の全体的な専門知識を増やしつつ、お客様が利用できるいくつかのセルフサービス オプションを伝える。</p>
-<p>サポート サイトを再設計し、サポートの連絡先情報に加えて、「[お客様のセルフ サポート](customer-self-support.md)」というトピックで説明しているセルフサービス オプションも含めることをお勧めします。</p></td>
+<p><strong>試すこと:</strong>デュアル戦略 (対面またはオンライン) のトレーニングを提供するを使用するには顧客 & #39; を増やす s もいくつかのセルフ サービス オプションをユーザーに提供を促進しながら、全体的な専門知識。</p>
+<p>サポート サイトを再設計し、サポートの連絡先情報に加えて、「<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">お客様のセルフ サポート</a>」というトピックで説明しているセルフサービス オプションも含めることをお勧めします。</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

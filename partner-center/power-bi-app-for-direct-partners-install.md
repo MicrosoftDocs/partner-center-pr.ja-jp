@@ -7,12 +7,12 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
-ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
+ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "6131701"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995556"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Power BI 用パートナー センター分析アプリをインストールしてプレビューする
 
@@ -45,16 +45,16 @@ ms.locfileid: "6131701"
 
 2. **[アカウントを既にお持ちの場合]** の下で **[サインイン]** を選びます。 
 
-3.  次のページで Power BI のユーザー名とパスワードを入力し、**[サインイン]** を選びます。 
+3. 次のページで Power BI のユーザー名とパスワードを入力し、**[サインイン]** を選びます。 
 
-4.  **[Connect to Partner Center Analytics]** (パートナー センター分析に接続) ポップアップ ウィンドウで、**[認証方法]** が **[oAuth2]** に設定されていることを確認し、設定されていない場合は一覧から **[oAuth2]** を選びます。 
+4. **[Connect to Partner Center Analytics]** (パートナー センター分析に接続) ポップアップ ウィンドウで、**[認証方法]** が **[oAuth2]** に設定されていることを確認し、設定されていない場合は一覧から **[oAuth2]** を選びます。 
 
-    > [!NOTE]  
+> [!NOTE]  
 >  このウィンドウが表示されるまでに数分間かかることがあります。
 
-5.  **[Partner Center Analytics Connector]** (パートナー センターの分析コネクター) ページで、会社の Azure AD テナントの全体管理者、管理エージェント、または課金管理者の資格情報を使ってログインし、**[サインイン]** をクリックします。
+5. **[Partner Center Analytics Connector]** (パートナー センターの分析コネクター) ページで、会社の Azure AD テナントの全体管理者、管理エージェント、または課金管理者の資格情報を使ってログインし、**[サインイン]** をクリックします。
  
-6.  アクセスするかどうかを尋ねられたら、**[同意する]** を選びます。 
+6. アクセスするかどうかを尋ねられたら、**[同意する]** を選びます。 
 
 パートナー センターの分析サービスが Power BI に接続されると、データの読み込みが開始します。 データ量によっては、この読み込みに最大 10 分間かかります。 
 

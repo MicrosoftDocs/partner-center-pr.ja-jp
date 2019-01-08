@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990994"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995946"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -58,7 +58,7 @@ ms.locfileid: "8990994"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> ライセンス ベースのファイルのフィールド
 
@@ -180,7 +180,7 @@ ms.locfileid: "8990994"
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>市場の税関連の規則や特定の状況に基づく税金の額。</p></td>
+<td><p>税金の額、市場 & #39; s 税関連の規則や特定の状況に基づきます。</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -195,7 +195,7 @@ ms.locfileid: "8990994"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>パートナー センターで報告される顧客の組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。</p></td>
+<td><p>顧客 & #39; パートナー センターで報告される組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。</p></td>
 <td>Test Customer A</td>
 </tr>
 <tr class="even">
@@ -205,12 +205,12 @@ ms.locfileid: "8990994"
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>サブスクリプションの登録のあるリセラーの MPN ID。 「[パートナーごとに明細を示す](#itemizebypartner)」をご覧ください。</p></td>
+<td><p>サブスクリプションの登録のあるリセラーの MPN ID。 「<a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">パートナーごとに明細を示す</a>」をご覧ください。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。 これは、顧客/パートナーが、O365 ポータル経由でバニティ/既定のドメインを更新すると、顧客を一意に識別していない使用する必要があります。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
+<td><p>顧客 & #39; のドメインの名前、顧客を識別するために使用します。 これは、顧客/パートナーが、O365 ポータル経由でバニティ/既定のドメインを更新すると、顧客を一意に識別していない使用する必要があります。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -263,7 +263,7 @@ ms.locfileid: "8990994"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>パートナー センターで報告される顧客の組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。</p></td>
+<td><p>顧客 & #39; パートナー センターで報告される組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。</p></td>
 <td>Test Customer A</td>
 </tr>
 <tr class="even">
@@ -273,7 +273,7 @@ ms.locfileid: "8990994"
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>サブスクリプションの登録のあるリセラーの MPN ID。 「[パートナーごとに明細を示す](#itemizebypartner)」をご覧ください。</p></td>
+<td><p>サブスクリプションの登録のあるリセラーの MPN ID。 「<a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">パートナーごとに明細を示す</a>」をご覧ください。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
@@ -384,7 +384,7 @@ ms.locfileid: "8990994"
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>市場の税関連の規則や特定の状況に基づく税金の額。</p></td>
+<td><p>税金の額、市場 & #39; s 税関連の規則や特定の状況に基づきます。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -454,7 +454,7 @@ ms.locfileid: "8990994"
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>顧客のドメイン名。顧客を特定するために使用します。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
+<td><p>顧客 & #39; のドメインの名前、顧客を識別するために使用します。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -706,7 +706,7 @@ ms.locfileid: "8990994"
 </td>
 <td>
 <p><em>複数の種類の料金に適用される場合がある</em></p>
-<p><em>例外: "Offset a line item" には既に税が含まれます。 上記のクレジットを参照してください。</em></p>
+<p><em>例外:&quot;行項目のオフセット&quot;既に税が含まれます。 上記のクレジットを参照してください。</em></p>
 </td>
 <td>
 <p>税または付加価値税 (VAT)</p>

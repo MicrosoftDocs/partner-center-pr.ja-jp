@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990934"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995876"
 ---
 # <a name="read-your-bill"></a>請求書の記載事項
 
@@ -146,7 +146,7 @@ ms.locfileid: "8990934"
 |税抜き額 |課税前の購入額の小計。 |
 |売上税 |税額。 |
 |合計 |お支払いの合計額。 |
- 
+ 
 
 
 

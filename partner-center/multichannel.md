@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683671"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995606"
 ---
 # <a name="multi-channel-support"></a>マルチチャンネルのサポート
 
@@ -37,20 +37,20 @@ ms.locfileid: "8683671"
 <tbody>
 <tr class="odd">
 <td><p><strong>ライセンスベースのサービス</strong></p></td>
-<td><p>マルチチャンネル アカウントのサポートを提供するには、サブスクリプションを管理するためのアクセス許可を顧客に要求する必要があります。 この手順について詳しくは、「[顧客との再販業者関係の要求](request-a-relationship-with-a-customer.md)」をご覧ください。</p></td>
+<td><p>マルチチャンネル アカウントのサポートを提供するには、サブスクリプションを管理するためのアクセス許可を顧客に要求する必要があります。 この手順について詳しくは、「<a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">顧客との再販業者関係の要求</a>」をご覧ください。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>使用量ベースのサービス</strong></p></td>
 <td>
-<p>顧客が、Advisor プログラム、Open プログラム、EA プログラムなどの別のチャンネルから Microsoft Azure サブスクリプションを既に取得している場合、パートナーはパートナー センターで新しい Azure サブスクリプションを作成し、サブスクリプションの詳細情報を手動で入力した後、個別のサービスまたはサブスクリプション全体を取り消す必要があります。</p>
-<p>たとえば、顧客が別のパートナーの Microsoft Azure サブスクリプションを既に持っている場合は、Azure サービスを他のパートナーに切り替えることができます。 詳しくは、「[Azure サブスクリプションを別のパートナーに切り替える](switch-azure-subscriptions-to-a-different-partner.md)」をご覧ください。</p>
+<p>アドバイザー、オープン、または EA、する & #39; などの別のチャンネルから Microsoft Azure をサブスクリプションを既に持っている顧客の ll 必要があるパートナー センターで、新しい Azure サブスクリプションを作成するサブスクリプションの詳細情報を手動で入力し、し、個々 の取り消しサービスまたはサブスクリプション全体します。</p>
+<p>たとえば、顧客が別のパートナーの Microsoft Azure サブスクリプションを既に持っている場合は、Azure サービスを他のパートナーに切り替えることができます。 詳しくは、「<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Azure サブスクリプションを別のパートナーに切り替える</a>」をご覧ください。</p>
 </td>
 </tr>
 </tbody>
 </table>
 
 > [!IMPORTANT]  
-> 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 Microsoft では、継続的にすべてのプログラムのポリシーと機能をレビューしています。 パートナー センターなど、一般的な通信チャネルを通じて、機能のリリースに関するすべてのお知らせが発表されます。 
+> 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 Microsoft では、継続的にすべてのプログラムのポリシーと機能をレビューしています。 機能のリリースに関するすべてのお知らせは、パートナー センターなど、一般的な通信チャネルを通じて伝達します。 
 
 ## <a name="see-also"></a>関連項目
 
@@ -60,9 +60,9 @@ ms.locfileid: "8683671"
 
 間接プロバイダー向け: 「[間接リセラーとの提携](indirect-provider-tasks-in-partner-center.md)」 
 
- 
+ 
 
- 
+ 
 
 
 
