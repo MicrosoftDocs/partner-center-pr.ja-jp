@@ -6,35 +6,34 @@ description: 関係を削除すると、終了したすべてのビジネス関�
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 61f2435d7e310623338444524ae5382c6e69fa00
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2134a8ba118960dabe235d07675b3e340cc2ba16
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797075"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995676"
 ---
-# <a name="remove-a-reseller-relationship-with-a-customer"></a><span data-ttu-id="967ee-103">顧客との再販業者関係の削除</span><span class="sxs-lookup"><span data-stu-id="967ee-103">Remove a reseller relationship with a customer</span></span>
+# <a name="remove-a-reseller-relationship-with-a-customer"></a><span data-ttu-id="2c771-103">顧客との再販業者関係の削除</span><span class="sxs-lookup"><span data-stu-id="2c771-103">Remove a reseller relationship with a customer</span></span>
 
-**<span data-ttu-id="967ee-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="967ee-104">Applies to</span></span>**
+**<span data-ttu-id="2c771-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="2c771-104">Applies to</span></span>**
 
--   <span data-ttu-id="967ee-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="967ee-105">Partner Center</span></span>
+-   <span data-ttu-id="2c771-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="2c771-105">Partner Center</span></span>
 
-<span data-ttu-id="967ee-106">直接パートナーは、それ以降、取引を行わない顧客との再販業者関係をパートナーセンターで削除できます。</span><span class="sxs-lookup"><span data-stu-id="967ee-106">Direct partners: if you're no longer transacting with a customer, you can remove the relationship in Partner Center.</span></span> 
+<span data-ttu-id="2c771-106">直接パートナーは、それ以降、取引を行わない顧客との再販業者関係をパートナーセンターで削除できます。</span><span class="sxs-lookup"><span data-stu-id="2c771-106">Direct partners: if you're no longer transacting with a customer, you can remove the relationship in Partner Center.</span></span> 
 
-<span data-ttu-id="967ee-107">この機能によって、次の処理が実行されます。</span><span class="sxs-lookup"><span data-stu-id="967ee-107">This feature:</span></span>
-*  <span data-ttu-id="967ee-108">パートナー様のパートナー センターの顧客の一覧から顧客が削除されます。</span><span class="sxs-lookup"><span data-stu-id="967ee-108">Removes the customer from your list of customers in Partner Center</span></span>
-*  <span data-ttu-id="967ee-109">顧客の[利用可能なサポート連絡先の一覧](assign-support-contacts.md)からパートナー様が削除されます。</span><span class="sxs-lookup"><span data-stu-id="967ee-109">Removes you from the [list of available support contacts](assign-support-contacts.md) for your customer</span></span>
-*  <span data-ttu-id="967ee-110">顧客に対するパートナー様の代理管理者権限が削除されます。</span><span class="sxs-lookup"><span data-stu-id="967ee-110">Removes your delegation admin privileges for the customer</span></span>
-*  <span data-ttu-id="967ee-111">パートナー様は顧客の代理として製品やサービスを購入できなくなります。</span><span class="sxs-lookup"><span data-stu-id="967ee-111">Removes the ability for you to make purchases on behalf of the customer</span></span>
+<span data-ttu-id="2c771-107">この機能によって、次の処理が実行されます。</span><span class="sxs-lookup"><span data-stu-id="2c771-107">This feature:</span></span>
+*  <span data-ttu-id="2c771-108">パートナー様のパートナー センターの顧客の一覧から顧客が削除されます。</span><span class="sxs-lookup"><span data-stu-id="2c771-108">Removes the customer from your list of customers in Partner Center</span></span>
+*  <span data-ttu-id="2c771-109">顧客の[利用可能なサポート連絡先の一覧](assign-support-contacts.md)からパートナー様が削除されます。</span><span class="sxs-lookup"><span data-stu-id="2c771-109">Removes you from the [list of available support contacts](assign-support-contacts.md) for your customer</span></span>
+*  <span data-ttu-id="2c771-110">顧客に対するパートナー様の代理管理者権限が削除されます。</span><span class="sxs-lookup"><span data-stu-id="2c771-110">Removes your delegation admin privileges for the customer</span></span>
+*  <span data-ttu-id="2c771-111">パートナー様は顧客の代理として製品やサービスを購入できなくなります。</span><span class="sxs-lookup"><span data-stu-id="2c771-111">Removes the ability for you to make purchases on behalf of the customer</span></span>
 
-<span data-ttu-id="967ee-112">関係を削除するには、Azure RI 予約をキャンセルし、ソフトウェアの購入をキャンセルして、残りのアクティブなサブスクリプションをまず中断する必要があります。</span><span class="sxs-lookup"><span data-stu-id="967ee-112">To remove the relationship, you'll need to cancel Azure RI reservations, cancel software purchases, and suspend any remaining active subscriptions first:</span></span>
+<span data-ttu-id="2c771-112">関係を削除するには、Azure RI 予約をキャンセルし、ソフトウェアの購入をキャンセルして、残りのアクティブなサブスクリプションをまず中断する必要があります。</span><span class="sxs-lookup"><span data-stu-id="2c771-112">To remove the relationship, you'll need to cancel Azure RI reservations, cancel software purchases, and suspend any remaining active subscriptions first:</span></span>
+1. <span data-ttu-id="2c771-113">すべてのアクティブなサブスクリプションを中断します。</span><span class="sxs-lookup"><span data-stu-id="2c771-113">Suspend any active subscriptions.</span></span> <span data-ttu-id="2c771-114">パートナー センターから**お客様**に移動します。 > 顧客を選択 >**サブスクリプション**> サブスクリプションを選択 >**中断**します。</span><span class="sxs-lookup"><span data-stu-id="2c771-114">From the Partner Center, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**.</span></span> 
 
-1.  <span data-ttu-id="967ee-113">すべてのアクティブなサブスクリプションを中断します。</span><span class="sxs-lookup"><span data-stu-id="967ee-113">Suspend any active subscriptions.</span></span> <span data-ttu-id="967ee-114">パートナー センターから**お客様**に移動します。 > 顧客を選択 >**サブスクリプション**> サブスクリプションを選択 >**中断**します。</span><span class="sxs-lookup"><span data-stu-id="967ee-114">From the Partner Center, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**.</span></span> 
+   <span data-ttu-id="2c771-115">アクティブなサブスクリプションごとに、この手順を繰り返します。</span><span class="sxs-lookup"><span data-stu-id="2c771-115">Repeat this for each active subscription.</span></span>
 
-   <span data-ttu-id="967ee-115">アクティブなサブスクリプションごとに、この手順を繰り返します。</span><span class="sxs-lookup"><span data-stu-id="967ee-115">Repeat this for each active subscription.</span></span>
+2. <span data-ttu-id="2c771-116">パートナー センターでの関係を削除: から、パートナー センター**のユーザー**に go > 顧客を選択 >**アカウント** > **再販業者関係を削除**します。</span><span class="sxs-lookup"><span data-stu-id="2c771-116">Remove the relationship in Partner Center: From the Partner Center, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.</span></span>
 
-2.  <span data-ttu-id="967ee-116">パートナー センターでの関係を削除: から、パートナー センター**のユーザー**に go > 顧客を選択 >**アカウント** > **再販業者関係を削除**します。</span><span class="sxs-lookup"><span data-stu-id="967ee-116">Remove the relationship in Partner Center: From the Partner Center, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.</span></span>
+   <span data-ttu-id="2c771-117">ただし、いずれかのサブスクリプションがアクティブなままである場合、**[再販業者関係の削除]** リンクはアクティブになりません。</span><span class="sxs-lookup"><span data-stu-id="2c771-117">Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive.</span></span> 
 
-    <span data-ttu-id="967ee-117">ただし、いずれかのサブスクリプションがアクティブなままである場合、**[再販業者関係の削除]** リンクはアクティブになりません。</span><span class="sxs-lookup"><span data-stu-id="967ee-117">Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive.</span></span> 
-
-<span data-ttu-id="967ee-118">関係を再確立するには、[関係の要求](request-a-relationship-with-a-customer.md)のプロセスを繰り返します。</span><span class="sxs-lookup"><span data-stu-id="967ee-118">To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).</span></span>
+<span data-ttu-id="2c771-118">関係を再確立するには、[関係の要求](request-a-relationship-with-a-customer.md)のプロセスを繰り返します。</span><span class="sxs-lookup"><span data-stu-id="2c771-118">To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).</span></span>

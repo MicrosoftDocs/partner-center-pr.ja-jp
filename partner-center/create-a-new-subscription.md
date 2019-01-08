@@ -8,12 +8,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 4494517f295dde1439fe2e5831cf91d5012424ed
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683721"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995866"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a><span data-ttu-id="d4e47-103">顧客のサブスクリプションの作成、中断、取り消し</span><span class="sxs-lookup"><span data-stu-id="d4e47-103">Create, suspend, or cancel customer subscriptions</span></span>
 
@@ -30,14 +30,14 @@ ms.locfileid: "8683721"
 
 **<span data-ttu-id="d4e47-111">新しいサブスクリプションの作成</span><span class="sxs-lookup"><span data-stu-id="d4e47-111">Create a new subscription</span></span>**
 
-1.  <span data-ttu-id="d4e47-112">**パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選択します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-112">From the **Partner Center** menu, select **Customers**, then choose a customer from the list.</span></span>
+1. <span data-ttu-id="d4e47-112">**パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選択します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-112">From the **Partner Center** menu, select **Customers**, then choose a customer from the list.</span></span>
 
-2.  <span data-ttu-id="d4e47-113">**[新しいサブスクリプション]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-113">Select **New subscription**.</span></span>
+2. <span data-ttu-id="d4e47-113">**[新しいサブスクリプション]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-113">Select **New subscription**.</span></span>
 
-3.  <span data-ttu-id="d4e47-114">使用するサブスクリプションの請求の種類を選択します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-114">Select the type of subscription billing you want to use.</span></span>  <span data-ttu-id="d4e47-115">請求頻度を月次と年次のいずれかに決定するのに役立つ情報については、[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d4e47-115">See [FAQ about new billing features](faq-about-new-billing-features.md) for information that will help you decide between the monthly and annual billing frequency.</span></span>
+3. <span data-ttu-id="d4e47-114">使用するサブスクリプションの請求の種類を選択します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-114">Select the type of subscription billing you want to use.</span></span>  <span data-ttu-id="d4e47-115">請求頻度を月次と年次のいずれかに決定するのに役立つ情報については、[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d4e47-115">See [FAQ about new billing features](faq-about-new-billing-features.md) for information that will help you decide between the monthly and annual billing frequency.</span></span>
  
- >[!Note]
- ><span data-ttu-id="d4e47-116">試用版サブスクリプションを顧客に提供することができます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-116">You can offer customers trial subscriptions.</span></span> <span data-ttu-id="d4e47-117">試用版の利用可能な製品は、カタログ内の試用版] タブ中です。</span><span class="sxs-lookup"><span data-stu-id="d4e47-117">Products available for trial are under the trial tab in the catalog.</span></span> <span data-ttu-id="d4e47-118">[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d4e47-118">See [Offer your customers trials of Microsoft products](offer-your-customers-trials-of-microsoft-products.md).</span></span>
+>[!Note]
+><span data-ttu-id="d4e47-116">試用版サブスクリプションを顧客に提供することができます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-116">You can offer customers trial subscriptions.</span></span> <span data-ttu-id="d4e47-117">試用版の利用可能な製品は、カタログ内の試用版] タブ中です。</span><span class="sxs-lookup"><span data-stu-id="d4e47-117">Products available for trial are under the trial tab in the catalog.</span></span> <span data-ttu-id="d4e47-118">[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d4e47-118">See [Offer your customers trials of Microsoft products](offer-your-customers-trials-of-microsoft-products.md).</span></span>
 
  
 4. <span data-ttu-id="d4e47-119">請求頻度を選択したら、カタログ内のサブスクリプションが必要な製品を選択します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-119">After selecting the billing frequency, select the products you want subscriptions for in the catalog.</span></span> <span data-ttu-id="d4e47-120">製品の可用性は、顧客の種類 (教育機関、政府機関など) と選んだ請求頻度によって異なります。</span><span class="sxs-lookup"><span data-stu-id="d4e47-120">The availability of products depends on the type of customer (education, government, etc.) and the billing frequency you have selected.</span></span> <span data-ttu-id="d4e47-121">製品が利用できない場合、顧客がその製品のサブスクリプションを既に保有しており、1 つのみが許可されている可能性があります。</span><span class="sxs-lookup"><span data-stu-id="d4e47-121">If a product is not available, the customer may already have a subscription to that product and is only allowed one.</span></span> <span data-ttu-id="d4e47-122">または、サブスクリプションが中断されている可能性があり、その場合は、新しいものを購入する代わりに再アクティブ化することができます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-122">Or, you may have suspended the subscription in which case, you can reactivate it rather than purchasing a new one.</span></span>
@@ -45,9 +45,9 @@ ms.locfileid: "8683721"
 5. <span data-ttu-id="d4e47-123">追加するサブスクリプションをオンにして、ライセンス数を入力します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-123">Check the subscription you want to add and enter the number of licenses.</span></span> <span data-ttu-id="d4e47-124">
           \*\*[送信]\*\* を選んで注文を送信します。</span><span class="sxs-lookup"><span data-stu-id="d4e47-124">Then **Submit** the order.</span></span>
 
-6.  <span data-ttu-id="d4e47-125">サブスクリプションが追加されたら、サブスクリプションの一覧でサブスクリプション名をクリックして開きます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-125">After the subscription is added, open it by clicking the subscription name in the subscriptions list.</span></span> <span data-ttu-id="d4e47-126">この編集ページでは、アドオン ライセンスを選ぶことができます (利用可能な場合)。</span><span class="sxs-lookup"><span data-stu-id="d4e47-126">On this edit page, you can select add-on licenses, if any are available.</span></span>
+6. <span data-ttu-id="d4e47-125">サブスクリプションが追加されたら、サブスクリプションの一覧でサブスクリプション名をクリックして開きます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-125">After the subscription is added, open it by clicking the subscription name in the subscriptions list.</span></span> <span data-ttu-id="d4e47-126">この編集ページでは、アドオン ライセンスを選ぶことができます (利用可能な場合)。</span><span class="sxs-lookup"><span data-stu-id="d4e47-126">On this edit page, you can select add-on licenses, if any are available.</span></span>
 
-7.  <span data-ttu-id="d4e47-127">編集ページでは、ライセンス数の変更や、サブスクリプションの中断を行うこともできます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-127">On the edit page you can also change the quantity of licenses, or suspend the subscription.</span></span>
+7. <span data-ttu-id="d4e47-127">編集ページでは、ライセンス数の変更や、サブスクリプションの中断を行うこともできます。</span><span class="sxs-lookup"><span data-stu-id="d4e47-127">On the edit page you can also change the quantity of licenses, or suspend the subscription.</span></span>
 
 ## <a name="suspend-or-cancel-a-subscription"></a><span data-ttu-id="d4e47-128">サブスクリプションを中断または取り消す</span><span class="sxs-lookup"><span data-stu-id="d4e47-128">Suspend or cancel a subscription</span></span>
 
@@ -67,7 +67,7 @@ ms.locfileid: "8683721"
 
 
 
- 
+ 
 
 
 
