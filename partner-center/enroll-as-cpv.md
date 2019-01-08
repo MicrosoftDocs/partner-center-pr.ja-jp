@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: コントロール パネルのベンダー、CPV アプリの登録、CPV アプリを管理します。
 ms.localizationpriority: medium
-ms.openlocfilehash: 47c404c7620d66cecb1dcb1572a7c8ac85d17261
-ms.sourcegitcommit: 98bcceea95b8d9ee5d386456a723f0b8da3ebd58
+ms.openlocfilehash: 1404b74f63c8c78f3a9c7b2f1fefa9967d8f1518
+ms.sourcegitcommit: 365f51b1df6752ab0f6bcf2b26329d354fa36653
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2018
-ms.locfileid: "8972129"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995013"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>パートナー センターで、コントロール パネルのベンダーとして登録します。
 
@@ -23,6 +23,8 @@ ms.locfileid: "8972129"
 コントロール パネル ベンダー (CPV) は、有効にすると、パートナー センター Api と統合して、システムにクラウド ソリューション プロバイダー (CSP) パートナーで使用するアプリケーションを開発している、独立系ソフトウェア ベンダーです。 コントロール パネルのベンダーは、パートナー センター ダッシュ ボードに直接アクセスできる、CSP パートナーまたはパートナー センター Api ではありません。
 
 現在のコントロール パネル ベンダー (CPV) またはマイクロソフトのパートナーと連携する新しい CPV であるかどうか Microsoft できるようになりましたする必要があります、アプリケーションを登録し、クラウド ソリューション プロバイダー パートナーをサポートするためにパートナー センターに登録します。 アカウントを作成するには、CPV パートナーは、既存の CSP パートナー テナント、または既存の CPV テナントを使用できますか、オンボード プロセスの一環として新しいテナントを作成することができます。 CPV パートナーは、既存の CSP テナントの使用を選択して場合、は、別のマルチ テナント アプリケーションを作成し、それらをパートナー センターで CPV アクティビティの登録に必要ありますが。 アプリケーションは、CSP と CPV の両方のアプリケーションとして登録することはできません。 パートナー センターに登録されているし、アプリケーションが登録されているが、パートナー センター Api へのアクセスがあります。  Microsoft は、サンド ボックスの情報を使ってパートナー センターの通知で連絡します。 ただし、既にサンド ボックス アカウントがある場合は、引き続き使用できます。 新しいサンド ボックスは必要ありません。   
+
+[Microsoft コントロール パネルのベンダーの契約](https://go.microsoft.com/fwlink/?linkid=2055198)の確認します。
 
 
 ## <a name="working-in-partner-center"></a>パートナー センターで作業
