@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
+ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995876"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "8997341"
 ---
 # <a name="read-your-bill"></a>請求書の記載事項
 
@@ -28,7 +28,7 @@ ms.locfileid: "8995876"
 クラウド ソリューション プロバイダー プログラムに参加中で月次請求を選択した場合は、顧客 (ライセンスベースおよび使用量ベース) のサブスクリプション料金を 60 日以内に Microsoft にお支払いください。
 
 > [!NOTE]  
-> 請求書は、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されたものであり、指定の請求日から 4 日以内に表示可能になります。
+> 請求書は、--プログラム、製品、およびお客様--間ですべての料金概要は、現在の請求期間のされ、UTC 時刻では、選択した請求日の 2 日間可能になります。 たとえば、9 月 12 日に請求がある場合、請求書生成プロセスは、13 に 12時 00分 AM UTC に開始し、14th で 12時 00分 AM UTC が完了します。 15 日に午後 11時 59分 UTC が請求書が表示されない場合、サービス レベル アグリーメント外しているし、ファイルのサービス要求する必要があります。 
 
 ライセンス ベース (Office365) と (Azure) 料金の使用量ベースの 1 つの請求書と 1 回限り (Azure reserved VM instances の) 別の請求書を受け取ったら料金。
 
