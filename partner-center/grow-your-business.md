@@ -7,12 +7,12 @@ keywords: 紹介案件, 紹介案件への対応, 潜在顧客, 見込み情報,
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 0a654ac3a549d420d1684abe2174a5951026e242
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776486"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000042"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft パートナー ビジネスの拡大 
 
@@ -38,7 +38,7 @@ Microsoft では、パートナー ビジネスを拡大するために役立つ
 | Microsoft の製品の試用版サブスクリプションを顧客に提供する | 「[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)」で、試用版サブスクリプションを使用して顧客基盤を拡大する方法を確認します。| CSP パートナー |
 | Microsoft サブスクリプションのプロモーション価格を顧客に提供する | マイクロソフトは、ライセンス ベースのサブスクリプションのプロモーションを随時実施しており、パートナー様はこれを活用して顧客に割引価格でサブスクリプションを提供し、ビジネスの拡大を図ることができます。 [Microsoft サブスクリプションのプロモーション価格を顧客に提供する方法](promotions.md)をご覧ください。 | CSP パートナー |
 | 販売対象市場を追加する | クラウド ソリューション プロバイダー販売チャネルは、多数の国や地域で利用可能です。 一覧については、[クラウド ソリューション プロバイダーの市場](agreements.md)のページをご覧ください。 クラウド ソリューション プロバイダー チャネルの概要については、[クラウド ソリューション プロバイダーの概要](csp-overview.md)ページをご覧ください。  | CSP パートナー |
-非営利組織や教育機関などの特殊な業界への販売します。|[特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)|CSP パートナー|
-|インセンティブ協力プログラムで利用可能な多くのアクティビティを通じて、ビジネスを拡大します。 パートナー センターを通じて活動のファイル要求します。| [インセンティブの申請の作成と管理](create-incentives-claims.md)|CSP パートナー|
-|ソフトウェアの新しいバンドルを既に販売しているマイクロソフトのソフトウェアと連携するサード パーティ製品を含めることによってビルドします。|[サード パーティ製品を見つける](third-party-offers.md)|CSP パートナー|
-|
+非営利法的および教育機関などの特殊な業界への販売します。|[特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)|CSP パートナー|
+|インセンティブ協力プレイのプログラムで利用可能な多くのアクティビティを通じて、ビジネスを拡大します。 パートナー センターでアクティビティのファイル要求します。| [インセンティブの申請の作成と管理](create-incentives-claims.md)|CSP パートナー|
+|ソフトウェアの新しいバンドルを既に販売しているマイクロソフトのソフトウェアと連動するサード パーティ製品を含めることによってビルドします。|[サード パーティ製品を見つける](third-party-offers.md)|CSP パートナー|
+|会社を販売し、Azure の管理にスターですか。 Azure エキスパート Microsoft サービス プロバイダー プログラムへの登録に適用されます。|[Azure の専門家 Microsoft サービス プロバイダー プログラム](azure-expert-msp.md)|CSP パートナー|
