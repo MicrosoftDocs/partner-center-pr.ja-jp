@@ -6,36 +6,39 @@ description: CSP のさまざまな販売モデルについて理解し、貴社
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dddd94e08dd4f79050a48e50659c4e716522153e
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: 60604fd121c3cf47e85e57bb903e2b4dd2fac96c
+ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980616"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "9001702"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
 **適用対象**
 
--  パートナー センター
+- クラウド ソリューション プロバイダー プログラム  
 
 
-## <a name="get-started"></a>作業の開始
+## <a name="get-started"></a>使ってみる
 
-クラウド ソリューション プロバイダー プログラムに登録するには、まず MPN ID が必要です。 まだお持ちでない場合は、 [こちら](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=)にご参加ください。
+クラウドベースのソリューションとサービスの需要は急速に拡大しており、あらゆる規模のマイクロソフト パートナーが、収益性の高いクラウド ソリューション ビジネスを構築する多くの機会を手にしています。 市場へは参入したいが、複数ベンダーの管理は避けたいと考えるパートナーや、包括的な顧客関係管理の基盤を持たないパートナーは、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに間接リセラーとして登録することができます。
+
+クラウド ソリューション プロバイダー プログラムに登録するには、まず MPN ID が必要です。 ないかどうか。 [こちら](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=)にご参加ください。
 
 CSP のアプリケーションを入力するときは、パートナー センターの管理者として機能する従業員の MPN ID、完全な住所、銀行情報、および職場メールを必要があります。
 
-最適な [CSP モデル](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment)を決定して登録を完了してください。 
+1. 職場メール (AAD テナントの資格情報) を使ってパートナー センターにサインインします。
 
+2. パートナー プロファイルを作成し、プロファイルを MPN id を関連付けます。
 提供された情報の確認と審査には、数日かかることがあります。 完了後、メールでお知らせします。
+
+3. お客様の情報を確認して後、は、Microsoft 間接リセラーの条項規約に同意します。
 
 > [!IMPORTANT]  
 > 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 この制限は、CSP 取引の実行に使用されるテナントにのみ適用されます。 企業がビジネス向けに csp 以外のテナントを使用している CSP パートナーは、別の CSP パートナーからオンライン サービスを購入できます。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直しています。 すべての新機能のリリースに関する情報は、[パートナー センター](https://partner.microsoft.com/en-us/pcv/announcements)などの一般的な通信チャネルを通じて伝達します。
 
-### <a name="enroll-as-an-indirect-reseller"></a>間接リセラーとして登録する
-
-クラウドベースのソリューションとサービスの需要は急速に拡大しており、あらゆる規模のマイクロソフト パートナーが、収益性の高いクラウド ソリューション ビジネスを構築する多くの機会を手にしています。 市場へは参入したいが、複数ベンダーの管理は避けたいと考えるパートナーや、包括的な顧客関係管理の基盤を持たないパートナーは、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに間接リセラーとして登録することができます。
+### <a name="find-an-indirect-provider"></a>間接プロバイダーを検索します。
 
 CSP の間接リセラーは、間接プロバイダー (ディストリビューターとも呼ばれます) に協力を提供するパートナーです。これに対して、間接プロバイダーはマイクロソフトと直接の取引関係を持ち、間接リセラーにカスタマー サポートと請求処理の機能を提供できるパートナーです。 そのため間接リセラーは、自社にすべての機能がそろっていなくてもビジネスを開始でき、経験豊富なテクノロジ プロバイダーと協力して、より確実に成功に近づくことができます。 プロバイダー/リセラー (2 層) モデルでは、プロバイダーがマイクロソフトからクラウド ソリューションとサービスを購入し、リセラーがそれを顧客に販売します。
 
@@ -50,6 +53,7 @@ CSP の間接リセラーは、間接プロバイダー (ディストリビュ�
 まだプロバイダー (ディストリビューター) と連携していない場合は、[認定間接プロバイダーを検索](https://partnercenter.microsoft.com/partner/find-a-provider)して、連携先を見つけることができます。
 
 CSP プログラムで間接リセラーとして販売を行うために必要な手順について詳しくは、[Microsoft Partner Network Web サイト](https://partner.microsoft.com/)の「[インダイレクト リセラーになる](https://partner.microsoft.com/cloud-solution-provider/whats-required)」をご覧ください。 
+
 
 
 ### <a name="enroll-as-a-direct-partner"></a>直接パートナーとして登録する
@@ -70,7 +74,7 @@ CSP プログラムで間接リセラーとして販売を行うために必要�
 
 ## <a name="csp-regional-markets-and-currencies"></a>CSP の地域市場と通貨
 
-会社の場所は、市場を決定します。 市場には、地域や国の CSP のプランを販売することができますが含まれています。 市場の場所と[クラウド ソリューション プロバイダー プログラムの地域市場と通貨](regional-authorization-overview)に使用される通貨を参照してください。
+会社の場所は、市場を決定します。 市場には、地域や国の CSP のプランを販売することができますが含まれています。 市場の場所と[クラウド ソリューション プロバイダー プログラムの地域市場と通貨](regional-authorization-overview.md)に使用される通貨を参照してください。
 
 
 

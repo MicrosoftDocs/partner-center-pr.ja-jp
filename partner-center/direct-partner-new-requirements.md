@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: CSP, 直接パートナー, 直接請求, 要件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3282e925c9364d443fca52036dd8ae673a8350c3
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: c5bf89bd9f02dfd5a01018433bb5328e7c2a50a6
+ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980606"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "9001682"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>CSP の直接パートナーの新しい要件
 
@@ -23,7 +23,7 @@ ms.locfileid: "8980606"
 
 ## <a name="enroll-as-a-direct-partner"></a>直接パートナーとして登録する
 
-直接パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。 2018 年 8 月 31 日の時点で直接請求パートナー登録の要件を更新しました。 これらの新しい要件は適切な CSP の登録モデルでは、ビジネスの成長を高速化し、顧客関係付加価値サービスとサポートの強化に役立ちます。 
+直接パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。 8 月時点で直接請求パートナー登録の要件を更新した 31,2018 します。 これらの新しい要件は適切な CSP の登録モデルでは、ビジネスの成長を高速化し、顧客関係付加価値サービスとサポートの強化に役立ちます。 
 
 ### <a name="minimum-requirements"></a>最小要件
 
@@ -37,6 +37,7 @@ ms.locfileid: "8980606"
 
 [CSP リセラー](https://partner.microsoft.com/cloud-solution-provider)となるためについて詳しく知る
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>間接に直接リセラーからの移行します。
+<!-- for Jan 14 live date
+## Transition from direct to indirect reseller
 
-直接請求ビジネスから間接リセラー ビジネスに移動する場合は、いくつかの手順を実行する必要があります。 切り替えに関する詳細については、 [CSP 間接リセラーにクラウド ソリューション プロバイダー (CSP) の直接パートナーからの移行](transition-direct-to-indirect)の読み取り 
+If you decide to move from a direct bill business to indirect reseller business,there are several steps you will need to take. To learn more about the transition, read [Transition from Cloud Solution Provider (CSP) direct partner to CSP indirect reseller](transition-direct-to-indirect) -->
