@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接請求, 移行, 間接リセラー
-ms.openlocfilehash: a4a09a4302775fb34cf45f37aed152a765e75ff8
-ms.sourcegitcommit: fe4e7cb7effea3343aec1be96a64323022822e84
+ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "9004628"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011109"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) の直接パートナーから CSP 間接リセラーへの移行します。 
 
@@ -156,3 +156,5 @@ ms.locfileid: "9004628"
 正常に、既存の直接請求パートナー テナントで間接リセラーとして登録した場合後から 30 日以内の間接リセラーのインセンティブ登録の招待を受け取ります。 招待は、現在、CSP パートナーのテナントに関連付けられている MPN アカウント パートナーに基づいています。 招待は、パートナーの MPN アカウントに関連付けられているメール アドレスに送信されます。 
 
 同じパートナー テナントで直接請求インセンティブ プログラムの登録の対象とする必要があります。 プログラムを個別に管理する必要があります。
+
+[間接リセラーになるために追加の情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)も参照してください。 と[間接リセラーに直接請求よく寄せられる質問](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)します。

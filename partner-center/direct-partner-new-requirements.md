@@ -1,19 +1,19 @@
 ---
 title: CSP 直接パートナーの新しい要件 |パートナー センター
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 1/14/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
 program.author: labrenne
 ms.author: labrenne
 keywords: CSP, 直接パートナー, 直接請求, 要件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5bf89bd9f02dfd5a01018433bb5328e7c2a50a6
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 4e4052a54ab7ddbd53f6d793512704de8aa13670
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001682"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011089"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>CSP の直接パートナーの新しい要件
 
@@ -37,7 +37,8 @@ ms.locfileid: "9001682"
 
 [CSP リセラー](https://partner.microsoft.com/cloud-solution-provider)となるためについて詳しく知る
 
-<!-- for Jan 14 live date
-## Transition from direct to indirect reseller
+## <a name="transition-from-direct-to-indirect-reseller"></a>間接に直接リセラーからの移行します。
 
-If you decide to move from a direct bill business to indirect reseller business,there are several steps you will need to take. To learn more about the transition, read [Transition from Cloud Solution Provider (CSP) direct partner to CSP indirect reseller](transition-direct-to-indirect) -->
+直接請求ビジネスから間接リセラー ビジネスに移動する場合は、いくつかの手順を実行する必要があります。 切り替えに関する詳細については、 [CSP 間接リセラーにクラウド ソリューション プロバイダー (CSP) の直接パートナーからの移行](transition-direct-to-indirect.md)を参照してください。 
+
+[間接リセラーになるために追加の情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)も参照してください。 と[間接リセラーに直接請求よく寄せられる質問](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)します。

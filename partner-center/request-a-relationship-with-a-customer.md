@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 21f94c78227c75124a1835b463aac3ad8fc38eb5
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776546"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011099"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>パートナー センターでの顧客との連携
 
@@ -20,18 +20,20 @@ ms.locfileid: "8776546"
 
 -  パートナー センター
 
-顧客のサービスまたはサブスクリプションを顧客に代わって管理する場合は、顧客する必要がありますを取得するサービスまたはサブスクリプションの管理者アクセス許可。 次の手順は、メールでこのアクセス許可を要求する方法を示しています。 顧客が要求を承認すると、パートナーはサービスの管理ポータルにログオンして、顧客の代わりにサービスを管理することができます。
+顧客のサービスまたはサブスクリプションを顧客に代わって管理する場合は、顧客する必要があります管理者アクセス許可を付与するサービスまたはサブスクリプションのします。 次の手順では、メールでこのアクセス許可を要求する方法を示します。 顧客が要求を承認すると、パートナーはサービスの管理ポータルにログオンして、顧客の代わりにサービスを管理することができます。
 
 顧客と再販業者関係を確立し、プロビジョニングした Azure サブスクリプションを管理する場合は、管理者のアクセス許可を取得する必要はありません。
 
-アクセス許可を要求するためのオプションの Microsoft クラウドで動作して米国政府機関向け Microsoft Cloud ドイツのパートナーが利用できるがないことに注意してください。 詳細についてはを[顧客がパートナーに管理特権を委任](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)を参照してください。
+アクセス許可を要求するためのオプションは Microsoft クラウドで動作して米国政府機関または Microsoft Cloud ドイツのパートナーが利用できるではないことに注意してください。 詳細についてはを[顧客がパートナーに管理特権を委任](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)を参照してください。
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>貴社との再販業者関係を確立するために顧客を招待する
 
-1.  **パートナー センター** ] メニューから**顧客**を選択して、**再販業者関係の要求**を選択してください。
+顧客と再販業者関係を要求するにはお住まいの国または、同じ領域内に注意してください。
 
-2.  この顧客から管理者アクセス許可を要求するには、**含めるが Azure Active Directory と Office 365 管理特権を委任**を選択します。 関係を確立すると、管理者のアクセス許可を要求することがなく、このオプションをオフにします。 
+1.  **パートナー センター**メニューから**顧客**を選択し、**再販業者関係の要求**を選択します。
+
+2.  この顧客から管理者のアクセス許可を要求するには、**含めるが Azure Active Directory と Office 365 管理特権を委任**を選択します。 関係を確立すると、管理者のアクセス許可を要求することがなく、このオプションをオフにします。 
 
 3.  次のページで、メール メッセージの下書きを確認します。 既定のメール アプリケーションで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。 
 
@@ -50,12 +52,12 @@ ms.locfileid: "8776546"
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>顧客への招待エクスペリエンスへの変更
 
-クラウド ソリューション プロバイダー パートナーからの再販業者関係の招待を受け入れるためカスタマー エクスペリエンスは、2018 年 11 月 1 日に変更します。 変更の詳細については、次の表を参照してください。 ビジネス向け Microsoft ストアでの新しいエクスペリエンスについて詳しくは、[ビジネス向け Microsoft ストアでのソリューション プロバイダーの操作](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business)を参照してください。
+クラウド ソリューション プロバイダー パートナーからの再販業者関係の招待を受け入れるためカスタマー エクスペリエンスは、2018 年 11 月 1 日に変更します。 変更について詳しくは、次の表を参照してください。 ビジネス向け Microsoft ストアでの新しいエクスペリエンスについて詳しくは、[ビジネス向け Microsoft ストアでのソリューション プロバイダーの操作](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business)を参照してください。
 
-|  | 顧客が、2018 年 11 月 1 日前に送信されるリセラーの招待を受け入れる場所 | 顧客が、2018 年 11 月 1 日の後に送信リセラーの招待を受け入れる場所 |
+|  | 顧客が 2018 年 11 月 1 日前に送信されるリセラーの招待を受け入れる場所 | 顧客がリセラーの招待、2018 年 11 月 1 日の後に送信を受け入れる場所 |
 |---------|---------|---------
 | パブリック クラウドで顧客 | Microsoft Office の管理ポータル | ビジネス向け Microsoft Store |
-| Microsoft パートナー センターで顧客ドイツをクラウドします。 | Microsoft Office の管理ポータル | Microsoft Office の管理ポータル |
+| Microsoft のパートナー センターで顧客ドイツをクラウドします。 | Microsoft Office の管理ポータル | Microsoft Office の管理ポータル |
 | 米国政府機関向け Microsoft Cloud のパートナー センターで顧客 | Microsoft Office の管理ポータル | Microsoft Office の管理ポータル |
 |
 
