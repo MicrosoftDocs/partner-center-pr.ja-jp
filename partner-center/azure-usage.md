@@ -8,12 +8,12 @@ ms.author: v-petand
 keywords: Azure, 予約, VM, 管理, 請求, 使用, サイズ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917544"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014819"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ 
 
@@ -49,7 +49,7 @@ ms.locfileid: "8917544"
 
 **Microsoft Azure portal を使用して VM サイズ情報を取得する**
 
-1.  パートナー センターで、[**顧客**] ページに移動します。
+1.  パートナー センターで、**ユーザー**のページに移動します。
 
 2.  Azure VM 予約を購入する顧客を見つけ、下矢印を選択して顧客情報を展開します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。 
 
@@ -93,7 +93,7 @@ ms.locfileid: "8917544"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Microsoft Azure portal で顧客の予約の使用状況を確認する
 
-1.  パートナー センターで、[**顧客**] ページに移動します。
+1.  パートナー センターで、**ユーザー**のページに移動します。
 
 2.  予約割引と使用状況を確認する対象の顧客を見つけ、下矢印を選択して顧客情報を展開します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。 
 
@@ -119,7 +119,7 @@ ms.locfileid: "8917544"
 
 Azure Utilization API を使用すると、予約の使用状況データを取得できます。これにより、顧客が予約割引を獲得できるかどうかと、どの VM (仮想マシン) に割引が適用されるかを確認できます。 顧客の予約の使用状況を確認する方法については、下の Example A と Example B を比較してください。 
 
-![予約の使用例](images\usage5.png)
+![予約の使用例](images/usage5.png)
 
 -   reservationId は、VM に割引を適用するために使用された Azure 予約を識別します。
 -   consumptionMeter は、予約割引が適用されている VM の MeterId です。
