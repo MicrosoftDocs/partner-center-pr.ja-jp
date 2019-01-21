@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接請求, 移行, 間接リセラー
-ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
+ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011109"
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "9015728"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) の直接パートナーから CSP 間接リセラーへの移行します。 
 
@@ -39,7 +39,7 @@ ms.locfileid: "9011109"
 4. [今すぐ登録する] を選びます。 間接リセラー ビジネスに直接ビジネスを使用する同じ AAD テナントが使用されます。
 
 >[!Note]
->直接請求書 AAD テナントを使用して、間接リセラーとして登録するためのオプションを直接請求オフボードの識別には請求パートナーを誘導することができるだけです。 
+>最初に、この新しい移行機能は、年 12 月締日に年 9 月にパートナーできるようになります。 表示されない"t 年 9 月、年 12 月の間、締日、この時点で、機能は表示されません。 2018 年 12 月後の締日でパートナーは、パートナーの機能が有効にすると、後で通知されます。
 
 
 5. 登録が承認されると、パートナー センターにもう一度サインインします。
@@ -54,7 +54,7 @@ ms.locfileid: "9011109"
 ![間接リセラー契約](images/direct/direct3.png)
 
 >[!Important] 
->正常に、既存の直接請求パートナー テナントを使用して、間接リセラーとして登録した場合、間接リセラーの機能を削除するロールバック オプションはありません。 登録を続行する前に必ず、間接リセラーに移行します。
+>新しい機能を使用して、間接リセラーとして登録すると、直接請求書にのみテナントにロールバックするオプションはありません。 間接リセラーとして登録する前に、ビジネス ニーズを完全に評価することを確認してください。
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>ながら間接リセラーに直接から移行します。
 
