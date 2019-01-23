@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: トレーニング バウチャー、トレーニング、ソフトウェア アシュアランス バウチャー、予約伝票を検証します。
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ca745281ed0e37ee6ec2e72df4ede4def17bcc7
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 457f2c7e0e43f03bac0f861ae3f4ec87a1173d0f
+ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015367"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "9024874"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>よく寄せられる質問: 伝票検証と引き換えツールを使用します。 
 
@@ -33,12 +33,12 @@ ms.locfileid: "9015367"
 
 **PMC から自分の会社が移行されたが、過去 18 か月間で DP/SATV プログラムを使用していないです。**
 
-- [PMC サポート チーム](proghelp@microsoft.com)にお問い合わせください。 
+- [PMC サポート チーム](mailto:proghelp@microsoft.com)にお問い合わせください。 
 
 
 **自分の会社が PMC からパートナー センターに移行します。 VVR で作業する特定何もする必要があるかどうか。** 
 
-- パートナー センターで VVR を使用することができます。  VVR を使用するには、MPN パートナー管理者は、職場アカウントのメールを使用して、パートナー センターにサインインできます。 新しいユーザーを追加する場合は、グローバル管理者または MPN 管理者はします。 パートナー センターにアクセスする場合、**アクセスの管理**、**ユーザー**を選択し、 **MPN 管理者**に対するフィルター処理を移動します。会社の MPN 管理者の一覧が提供されます。  
+- パートナー センターで VVR を使用することができます。  VVR を使用するには、MPN パートナー管理者は、職場アカウントのメールを使用して、パートナー センターにサインインできます。 新しいユーザーを追加する場合は、全体管理者はこれを実行できます。 パートナー センターにアクセスする場合、**アクセスの管理**、**ユーザー**を選択し、**グローバル管理者**の**MPN 管理者**に対するフィルター処理を移動します。会社の MPN とグローバル管理者の一覧が提供されます。  
 
 **VVR にアクセスできるようにする、少数のユーザーのみしたいのです。**
 
@@ -49,5 +49,5 @@ ms.locfileid: "9015367"
 - パートナー センターには、(AAD) の職場アカウントでログインする必要があります。  現在、チップは、ログイン (MSA または Live ID) の個人のアカウントを使用します。  パートナー センターで VVR からチップにナビゲーションするときは、MSA またはチップを搭載した登録されている Live ID を使ってチップにサインインする必要があります。
 
 SATV に登録する方法について詳しくは、[パートナー センターでのソフトウェア アシュアランス トレーニング伝票 (SATV) プログラム](software-assurance-satv.md)を参照してください。
-
-ソフトウェア アシュアランス DP プログラムに登録する方法について詳しくは、[パートナー センターでのソフトウェア アシュアランス プログラム](software-assurance-dps.md)を参照してください。
+ <!--
+For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
