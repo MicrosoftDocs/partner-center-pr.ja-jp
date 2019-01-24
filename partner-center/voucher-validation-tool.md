@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: e1c8f12b2e3683aff69383d58e265d5ed895c2ed
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
+ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015370"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "9025336"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>パートナー センターでの検証、予約、およびバウチャーを引き換える伝票検証と引き換えツールを使用します。 
 
@@ -47,11 +47,13 @@ ms.locfileid: "9015370"
 ## <a name="redeem-a-voucher"></a>伝票を引き換える
 
 伝票、予約した後は、それを引き換えることができます。 
+
 1. 予約バウチャーのリストで利用する voucher(s) を選択します。 
-2. 必要な場合は、参加者の一覧を更新し、**更新プログラム**を選択します。
-3. **売却**バウチャーの一覧が表示されます。
+2. **売却**バウチャーの一覧が表示されます。
+
 4. 要求を作成するには、**要求の作成**、] を選択または、伝票の詳細] ページで、**要求の作成**を選択します。
-5. **要求の作成**] を選択、Microsoft の請求するために、ソフトウェア アシュアランス伝票特典 (SAVB) オンライン支払ツールが表示されます。
+
+5. **要求の作成**] を選択、Microsoft の請求するために、[ソフトウェア アシュアランス伝票特典 (SAVB) オンライン支払ツール](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)が表示されます。
 
 
 ### <a name="cancel-a-voucher"></a>伝票を取り消す
