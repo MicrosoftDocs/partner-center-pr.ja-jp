@@ -13,6 +13,7 @@
 # [クラウド ソリューション プロバイダー](csp-overview.md)
 ## [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
 ## [CSP の直接パートナーの新しい要件](direct-partner-new-requirements.md) 
+## [クラウド ソリューション プロバイダー (CSP) の直接パートナーから CSP 間接リセラーへの移行](transition-direct-to-indirect.md)
 ## [コントロール パネル ベンダーとして登録する](enroll-as-cpv.md)
 ###[このページにアクセスするには、テナントで Multi-Factor Authentication (MFA) を有効にする必要があります](enable-mfa.md)
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
@@ -43,7 +44,7 @@
 ### [インセンティブの申請の作成と管理](create-incentives-claims.md)
 ### [インセンティブの申請の主要な要件](core-requirements.md)
 ### [インセンティブ申請の支払いの概要](incentives-payouts.md)
-
+## [Azure エキスパートの Microsoft サービス プロバイダー プログラム](azure-expert-msp.md)
 
 # [請求と税金](billing.md)
 ## [CSP の請求の概要](billing-basics.md)
