@@ -3,24 +3,124 @@ layout: LandingPage
 hide_bc: true
 title: ここから開始すると、パートナー センター ヘルプ
 ms.topic: landing-page
-ms.date: 10/29/2018
-description: アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このパートナー センターでの回答具体的には、プログラムと CSP と MPN パートナー用に作成されたライブラリのヘルプを検索します。 
+ms.date: 01/29/2019
+description: パートナー センターについては、Microsoft クラウド ソリューション プロバイダー プログラムでビジネスを拡大します。 アカウントの設定、顧客との連携、Action Pack サブスクリプションを購入および CSP と MPN プログラムのパートナーの詳細情報を検索します。 
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: afd4421e000081864394995d75e4671d711825ef
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 7f15360e6d1c8f03a856fc97e78e854d2496a4e9
+ms.sourcegitcommit: c937b024b2151c8ed5a69a354b731fd2db44a570
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776526"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "9035472"
 ---
-# <a name="start-here-for-help-with-partner-center"></a>ここから開始すると、パートナー センター ヘルプ
+# <a name="partner-center-help"></a>パートナー センター ヘルプ
 
-アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入に関するヘルプが必要な場合には、 このパートナー センターでの回答具体的には、プログラムと CSP と MPN パートナー用に作成されたライブラリのヘルプを検索します。
+アカウントの管理、顧客との接続、Action Pack サブスクリプションを購入、インセンティブ プログラムに登録するためのベスト プラクティスについて質問があるかどうか。 パートナー センターで回答ヘルプ ライブラリを検索します。
 
-パートナー センターに慣れている場合は、[新機能](/partner-center/whats-new-in-pc)を参照してください。
+
+<ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>お知らせ</h3>
+                        <p>遅延の仕様変更とニュースを検出するパートナー センターのダッシュ ボードにサインインします。</p>
+                        <p><a href="https://partner.microsoft.com/pcv/announcements"><b>今すぐサインインしてください</b></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Yammer</h3>
+                        <p>タッチ Yammer コミュニティを通じて維持します。</p>
+                        <p><a href="https://go.microsoft.com/fwlink/p/?linkid=851605"><b>コミュニティに参加</b></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>  
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="images/i_api.png" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>API と SDK の早期導入者プログラム</h3>
+                        <p>ワーク ショップ、新機能へのアクセスを取得して、専門家からのサポートします。</p>
+                        <p><a href="/partner-center/develop/early-adopter-program"><b>使ってみる</b></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>    
+</ul>
+
+<h2>新着情報</h2>
+<p>新機能、利点、プラン、およびビジネスの拡大する機会についての最新情報を取得します。</p>
+<ul id="products1" class="cardsZ cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
+                        <h3>ソフトウェア アシュアランス プログラム</h3>
+                        <p>ソフトウェア アシュアランスのトレーニングとパートナー センターでの展開前サービスに登録することができるようになりました。</p></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
+                        <h3>伝票検証および引き換えツール</h3>
+                        <p>要求し、お客様のビジネスと開発のニーズをサポートするバウチャーを利用します。</p></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText"><a href="/partner-center/responding-to-referrals#new-referrals">
+                        <h3>紹介案件をより効率的に管理します。</h3>
+                        <p>方法できます紹介 RFI を確認し、承諾または辞退することが向上します。</p></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>       
+</ul>
+
+
+<h2>パートナー センターで作業</h2>
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -76,59 +176,19 @@ ms.locfileid: "8776526"
     </li>
 </ul>
 
-<ul id="products2" class="cardsF cols cols3 panelContent singlePanelContent">
+
+
+
+<ul id="products2" class="cardsY cols cols3 panelContent singlePanelContent">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_portal.svg" data-linktype="external">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
-                    <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">パートナー センターのツアー</a>(サインインが必要)</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_vmm-cloud.svg" data-linktype="external">
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>新機能 <a href="/partner-center/azure-ri-server-subscriptions">CSP から Azure Reservations を販売する</a></h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_form.svg" data-linktype="external">
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3><a href="/partner-center/">すべてのヘルプ記事を参照して検索する</a></h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
                     <div class="cardText">
                         <h3><a href="/partner-center/mpn-get-action-pack">Microsoft Action Pack (MAPS) を取得する</a></h3>
                     </div>
@@ -140,43 +200,33 @@ ms.locfileid: "8776526"
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                        </div>
+                    </div>                
                     <div class="cardText">
-                        <h3><a href="/partner-center/partner-center-account-setup">アカウントの管理</a></h3>
+                        <h3><a href="/partner-center/develop/">パートナー センター API/SDK のリファレンス</a></h3>
                     </div>
                 </div>
             </div>
         </div>
     </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/announcements">お知らせ</a> (サインインが必要)</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
-<hr />
-
-<ul id="products3" class="cardsF cols cols3 panelContent singlePanelContent">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img class="x-hidden-focus" alt="" src="https://docs.microsoft.com/media/common/i_support.svg" data-linktype="external">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>サポート</h3>
-                        <p>製品サポート、チャット、トレーニング、フォーラム、ブログ、yammer など、サポート リソースを活用します。<br /><br /><a href="/partner-center/customer-support">顧客をサポートする</a><br /><a href="/partner-center/support-from-microsoft">マイクロソフトのサポートを受ける</a><br /><a href="https://partnercenter.microsoft.com/partner/support">その他の資料</a></p>
+                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">パートナーではないかどうか。 Microsoft Partner Network に参加できるようになりました。</a></h3>
                     </div>
                 </div>
             </div>
         </div>
-    </li>
+    </li>    
 </ul>
+
