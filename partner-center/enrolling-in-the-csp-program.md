@@ -6,12 +6,12 @@ description: CSP のさまざまな販売モデルについて理解し、貴社
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60604fd121c3cf47e85e57bb903e2b4dd2fac96c
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
+ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001702"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "9042586"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
@@ -20,7 +20,7 @@ ms.locfileid: "9001702"
 - クラウド ソリューション プロバイダー プログラム  
 
 
-## <a name="get-started"></a>使ってみる
+## <a name="get-started"></a>はじめに
 
 クラウドベースのソリューションとサービスの需要は急速に拡大しており、あらゆる規模のマイクロソフト パートナーが、収益性の高いクラウド ソリューション ビジネスを構築する多くの機会を手にしています。 市場へは参入したいが、複数ベンダーの管理は避けたいと考えるパートナーや、包括的な顧客関係管理の基盤を持たないパートナーは、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに間接リセラーとして登録することができます。
 
@@ -71,6 +71,15 @@ CSP プログラムで間接リセラーとして販売を行うために必要�
 |**受取アカウントします。** |顧客の請求とプロビジョニングを管理する組織のインフラストラクチャです。 
 
 
+最小要件を確認した後、適格性を確認するクイック検証アンケートを行う必要があります。 
+
+[クラウド ソリューション プロバイダーの評価](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+- 直接パートナーとして登録し、受け入れ条件を満たしていれば、全体管理者がアカウントをセットアップし、従業員を追加して、作業内容によって役割とアクセス許可を従業員に割り当てることができます。全体管理者は、組織のプロファイルもセットアップできます。
+
+- 場合とお客様のパートナー センター経由の操作を続行する作業している、する必要がありますを[関連付ける](request-a-relationship-with-a-customer.md)パートナー センター アカウントにします。 これによって、貴社の請求および請求書作成に関する情報が既存顧客に関連付けられます。 
+
+間接リセラーに直接請求パートナーからの移行について詳しくは、読み取り[CSP 間接リセラーにクラウド ソリューション プロバイダー (CSP) の直接請求パートナーからの移行](transition-direct-to-indirect.md)
 
 ## <a name="csp-regional-markets-and-currencies"></a>CSP の地域市場と通貨
 
