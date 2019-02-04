@@ -4,21 +4,21 @@ hide_bc: true
 title: ここから開始すると、パートナー センター ヘルプ
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: パートナー センターについては、Microsoft クラウド ソリューション プロバイダー プログラムでビジネスを拡大します。 アカウントの設定、顧客との連携、Action Pack サブスクリプションを購入および CSP と MPN プログラムのパートナーの詳細情報を検索します。 
+description: パートナー センターでは、Microsoft クラウド ソリューション プロバイダー (CSP) プログラムで、ビジネスを拡大できます。 アカウントの設定、顧客との連携、Action Pack サブスクリプションを購入および CSP と MPN プログラムのパートナーの詳細情報を検索します。 
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f15360e6d1c8f03a856fc97e78e854d2496a4e9
-ms.sourcegitcommit: c937b024b2151c8ed5a69a354b731fd2db44a570
+ms.openlocfilehash: d2070ff75dfa1197349b2cfdf55e5b06aeb4d8ea
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "9035472"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043569"
 ---
-# <a name="partner-center-help"></a>パートナー センター ヘルプ
+# <a name="welcome-to-partner-center"></a>パートナー センターへようこそ
 
-アカウントの管理、顧客との接続、Action Pack サブスクリプションを購入、インセンティブ プログラムに登録するためのベスト プラクティスについて質問があるかどうか。 パートナー センターで回答ヘルプ ライブラリを検索します。
+Microsoft パートナー センターは、Microsoft とエンド ツー エンドの関係を管理するための 1 つの場所となる場所です。 ツールと取引し、のメンバーシップ、顧客紹介、クラウド ソリューション プロバイダー (CSP) プログラムなど、ビジネスの拡大するのに役立つリソースがあります。 アカウントの管理、顧客との接続、Action Pack サブスクリプションを購入およびでは、パートナー センター ヘルプ ライブラリ、インセンティブ プログラムに登録するためのベスト プラクティスについて調べる。
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -27,7 +27,7 @@ ms.locfileid: "9035472"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
@@ -45,7 +45,7 @@ ms.locfileid: "9035472"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>

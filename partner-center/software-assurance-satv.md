@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 keywords: トレーニング バウチャー、トレーニング、ソフトウェア アシュアランス SATV、SATV への登録します。
 ms.localizationpriority: medium
-ms.openlocfilehash: 0183f63272c06a9b2bcfeffd89b319258c657bfb
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 305ee8fad4de9f9928dd07ee49dd4f4703d0bcc1
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015362"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043589"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス トレーニング伝票 (SATV) プログラム
+# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム
 
 ソフトウェア アシュアランス パートナー プログラムに登録することによって、ビジネスを拡大します。 Microsoft では、ソフトウェア アシュアランスを持っている企業のお客様にトレーニング、計画、およびその他のサービスを提供するパートナーを補正します。 
 
@@ -22,7 +22,7 @@ ms.locfileid: "9015362"
 
 ソフトウェア アシュアランスのトレーニング サービスに慣れていない場合は[ソフトウェア アシュアランス トレーニング バウチャー](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)を参照してください。
 
-## <a name="get-started"></a>使ってみる
+## <a name="get-started"></a>はじめに
 
 ソフトウェア アシュアランス トレーニング サービスを初めて行う場合は以下のすべての手順に従います。 既に、トレーニング伝票プログラムでアクティブになっている場合は、パートナー アカウント情報はパートナー センターに移動されましたは、手順 4 (4) 下から開始します。 
 
@@ -72,7 +72,7 @@ SATV プログラムでアクティブに登録していることを反映する
 
 ## <a name="reserve-and-redeem-training-vouchers"></a>予約し、トレーニング バウチャーを引き換える
 
-予約およびバウチャーを利用し、お客様のトレーニングを開始することができるようになりました。 会社の MPN 管理者は、パートナー センターで、伝票検証と引き換えツール (VVR) にアクセスし、ツールで作業する必要があるユーザーを追加することができます。 VVR について詳しくは、[伝票検証と引き換えツールで管理バウチャー](voucher-validation-tool)を参照してください。
+予約およびバウチャーを利用し、お客様のトレーニングを開始することができるようになりました。 会社の MPN 管理者は、パートナー センターで、伝票検証と引き換えツール (VVR) にアクセスし、ツールで作業する必要があるユーザーを追加することができます。 VVR について詳しくは、[伝票検証と引き換えツールで管理バウチャー](voucher-validation-tool.md)を参照してください。
 
 >[!Note]
 >VVR ツールは、パートナー センターに移動しました。 2019年 3 月、時点で古い VVR ツール サイトが廃止されます。
