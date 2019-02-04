@@ -6,12 +6,12 @@ description: CSP のさまざまな販売モデルについて理解し、貴社
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
-ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
+ms.openlocfilehash: 56a67d5843394e05007f54683ad4baec93033eb7
+ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "9042586"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043511"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
@@ -56,28 +56,26 @@ CSP プログラムで間接リセラーとして販売を行うために必要�
 
 
 
-### <a name="enroll-as-a-direct-partner"></a>直接パートナーとして登録する
+### <a name="enroll-as-a-direct-bill-partner"></a>直接請求パートナーとして登録します。
 
-直接パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。 2018 年 8 月 31 日の時点で直接請求パートナー登録の要件を更新しました。 これらの新しい要件は適切な CSP の登録モデルでは、ビジネスの成長を高速化し、顧客関係付加価値サービスとサポートの強化に役立ちます。 
+直接請求パートナーは、お客様と Microsoft とエンド ツー エンドの関係を所有します。 2018 年 8 月 31 日の時点で直接請求パートナー登録の要件を更新しました。 これらの新しい要件は適切な CSP の登録モデルでは、ビジネスの成長を高速化し、顧客関係付加価値サービスとサポートの強化に役立ちます。 
 
 ### <a name="minimum-requirements"></a>最小要件
 
 |**要件**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN ID**   |業務の場所のアクティブな Microsoft Partner Network (MPN) ID です。   |
+|**MPN ID**   |業務の場所のアクティブな Microsoft Partner Network (MPN) ID です。    |
 |**保証**   |同意し、組織を代表して法的契約に署名証明機関。|
-|**サポート**   |顧客にクラウド製品の最初のレベルを提供する機能をサポートします。|
+|**サポート**   |顧客にクラウド製品の最初のレベルを提供する機能をサポートします。 パートナー (ASfP) 向けのいずれか高度なサポート、Microsoft サポート プランまたはプレミア サポートが必要に応じてパートナー (PSfP)。 [サポート プランの比較](https://partner.microsoft.com/en-US/support/partnersupport)します。 |
 |**管理されたサービス**   |管理されたサービス、IP サービス、または顧客ソリューションのアプリケーションを少なくとも 1 つにするにはします。 [管理対象サービス](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)の追加の詳細について説明します。|
 |**受取アカウントします。** |顧客の請求とプロビジョニングを管理する組織のインフラストラクチャです。 
 
 
-最小要件を確認した後、適格性を確認するクイック検証アンケートを行う必要があります。 
+上記の最小要件を確認した後、適格性を確認するクイック検証アンケートを完了する必要があります。 
 
-[クラウド ソリューション プロバイダーの評価](https://partner.microsoft.com/cloud-solution-provider/assessment)
+[クラウド ソリューション プロバイダーのアンケート](https://partner.microsoft.com/cloud-solution-provider/assessment)
 
-- 直接パートナーとして登録し、受け入れ条件を満たしていれば、全体管理者がアカウントをセットアップし、従業員を追加して、作業内容によって役割とアクセス許可を従業員に割り当てることができます。全体管理者は、組織のプロファイルもセットアップできます。
-
-- 場合とお客様のパートナー センター経由の操作を続行する作業している、する必要がありますを[関連付ける](request-a-relationship-with-a-customer.md)パートナー センター アカウントにします。 これによって、貴社の請求および請求書作成に関する情報が既存顧客に関連付けられます。 
+アンケートの評価は、直接請求の CSP プログラムに登録する、適格性を決定します。 アンケートを通じて直接請求の条件を満たしているし、登録フォームを提出したことを確認後、は、与信チェックを含む自社のビジネス レビューを実行しますされます。 返金額を承認する場合は、ASfP または PSfP のいずれかのプランの購入を確認し、最後に、直接請求パートナーとして顧客と取引を開始する直接請求条項契約に同意する必要があります。
 
 間接リセラーに直接請求パートナーからの移行について詳しくは、読み取り[CSP 間接リセラーにクラウド ソリューション プロバイダー (CSP) の直接請求パートナーからの移行](transition-direct-to-indirect.md)
 
