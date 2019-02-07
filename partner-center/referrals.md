@@ -3,16 +3,16 @@ title: Microsoft からの紹介案件の獲得によるビジネスの拡大 | 
 ms.topic: article
 ms.date: 10/29/2018
 description: お客様が Microsoft の製品やソリューションの導入に際して支援を必要とする場合に、パートナーは見込み客情報を取得し、商談を始めることができます。
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: 紹介, ビジネス プロファイル, パートナーの検索
 ms.localizationpriority: medium
-ms.openlocfilehash: c4241c70591d6747f9e5994c43119740d6819791
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 914439dbd6d0f75299931569af2e9d4dec0fbb55
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794825"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062320"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -26,7 +26,7 @@ ms.locfileid: "5794825"
 
 Microsoft では、ソリューションと専門分野に応じてパートナー様とお客様のマッチングを行います。 Microsoft から見込み情報を獲得するために最も重要な手順は、[ビジネス プロファイルを作成](create-a-marketing-profile.md)して、貴社の製品、ソリューション、専門分野を公開することです。 このビジネス プロファイルは、お客様や社内の Microsoft 販売担当者が条件に合うパートナーを検索するすべての場所に表示されます。 
 
- ビジネス プロファイルを公開すると、後で、パートナー センターの紹介機能から見込み客情報を受信するから開始します。 見込み情報を継続的に受信するには、決められた期限内に紹介案件に対応する必要があります。さらに重要になるのが、案件を獲得することです。 パートナー センターで潜在顧客を管理する方法について詳しく[紹介案件への応答](responding-to-referrals.md)を参照してください。  
+ ビジネス プロファイルを公開した後、パートナー センターの紹介機能から見込み客情報を受信するから開始します。 見込み情報を継続的に受信するには、決められた期限内に紹介案件に対応する必要があります。さらに重要になるのが、案件を獲得することです。 パートナー センターで潜在顧客を管理する方法について詳しく[紹介案件への応答](responding-to-referrals.md)を参照してください。  
 
 幸運をお祈りします!
 

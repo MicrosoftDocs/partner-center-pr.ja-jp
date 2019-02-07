@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 顧客に対して Microsoft サービスのサブスクリプションを設定するとき、自社でサポートを提供するのではなく、指定リセラーを対象製品のテクニカル サポートとして割り当てることができます。
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: ヘルプ エージェント, サポート, サポート連絡先の指定, 指定のサポート連絡先
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c1bcb937a6020e1e6508c6f53e2790680b625051
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 89b5d6bc493e1de970425bb35bbabb90cc963510
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917254"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062350"
 ---
 # <a name="assign-support-contacts"></a>サポート連絡先の指定
 
@@ -33,7 +33,7 @@ ms.locfileid: "8917254"
 
 1.  まず、指定する製品リセラーとの[関係を要求](request-a-relationship-with-a-customer.md)します。 テクニカル サポートの代行を依頼するサポート契約について協議します。
 
-2.  **パートナー センター**メニューで、**顧客**を選択し、顧客を選択して、Office 365 Business Premium などのサブスクリプションを選択します。
+2.  **パートナー センター**メニューで、**顧客**を選択し、顧客を選択し、Office 365 Business Premium などのサブスクリプションを選択します。
 
 3.  **[指定のサポート連絡先]** で、指定する製品リセラーを選び、**[送信]** をクリックします。 
 

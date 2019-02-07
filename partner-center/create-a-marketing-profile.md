@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: パートナー センターでビジネス プロファイルを作成して、Microsoft から見込み客情報を受け取りましょう。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: Pinpoint, 紹介案件, 見込み客情報, C2PC, 会社のプロファイル, 会社のマーケティング, パートナーの検索, ソリューション プロバイダーの検索, ビジネス プロファイル, マーケティング プロファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797255"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062360"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -43,7 +43,7 @@ Microsoft は、マーケティング、販売、サービスの業務を通じ�
 *  **Microsoft の販売およびサービス担当者からの紹介**。 クラウドベースのテクノロジ ソリューションの展開を検討している潜在顧客が、Microsoft に連絡して、ビジネス ニーズを満たすことができるプロフェッショナルの紹介を依頼します。 これを受けて Microsoft の担当者は、お客様にパートナーをご紹介します。
 
 > [!IMPORTANT]  
-> ために、パートナーが業務を簡素化、機能とでは、いくつかのツールとの web サイト、パートナー センターの [このサイトに分散するために使用される機能に統合されています。 その取り組みの一環として、紹介案件に関連するすべての機能をパートナー センターに移動したし、Pinpoint および C2PC のサイトが廃止されました。 使用して場合 Pinpoint または C2PC 過去に Microsoft から紹介案件を管理して、引き続き紹介案件の獲得するパートナー センターで新しいビジネス プロファイルを作成する必要があります。 これらのサイトからプロファイルをインポートすることはできなくなりました。 
+> ために、パートナーが業務を簡素化、機能とパートナー センター、このサイトにでは、いくつかのツールとの web サイトに分散するために使用される機能に統合されています。 その取り組みの一環として、紹介案件に関連するすべての機能をパートナー センターに移動し、Pinpoint および C2PC のサイトしたします。 使用して場合 Pinpoint または C2PC 過去に Microsoft から紹介案件を管理して、引き続き紹介案件の獲得するパートナー センターで新しいビジネス プロファイルを作成する必要があります。 これらのサイトからプロファイルをインポートすることはできなくなりました。 
 
 ## <a name="create-a-profile"></a>プロファイルを作成する
 
@@ -52,11 +52,11 @@ Microsoft は、マーケティング、販売、サービスの業務を通じ�
 
 プロファイルは、営業許可を得ている地域ごとに作成してください。 
 
-1.  **パートナー センター**メニューで、**紹介案件**を選択&gt;**ビジネス プロファイル**&gt;国/地域を選択 >**[ビジネス プロファイルを作成](https://partnercenter.microsoft.com/pcv/publishing)** します。
+1.  **パートナー センター**メニューで、**紹介案件**を選択&gt;**ビジネス プロファイル**&gt;国/地域 _gt**[ビジネス プロファイルの作成](https://partnercenter.microsoft.com/pcv/publishing)** を選択します。
 
 2.  **[ビジネス プロファイルの作成]** ページで、地域を選択してから、プロファイル情報を入力します。
     > [!NOTE]  
-    >  パートナー センターでは、複数の言語をサポートするときに、説明や自由形式のタグなどのいくつかの要素は、このトピックで説明したように複数の言語のテキストを含める必要があります。
+    >  パートナー センターでは、複数の言語をサポートするときに、説明や自由形式のタグなどの一部の要素は、このトピックで説明したように、さまざまな言語のテキストを含める必要があります。
 
 ### <a href="" id="partner_info"></a>パートナー情報
 

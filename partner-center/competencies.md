@@ -3,17 +3,17 @@ title: Microsoft コンピテンシーを獲得する | パートナー セン�
 ms.topic: article
 ms.date: 10/29/2018
 description: Silver と Gold の Microsoft コンピテンシーを獲得すると、専門のビジネス分野での質の高いソリューション提供の実績と専門知識を証明できます。
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 技能, 利点, パフォーマンス目標, スキル目標
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796895"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062340"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -58,15 +58,15 @@ Microsoft コンピテンシーの成績は、高品質なソリューション�
 
 コンピテンシーによっては、Silver または Gold レベルに到達する方法がいくつかあります。
 
-パートナー センターのパートナー センターでは、コンピテンシーの進行状況を確認するには、**パートナーシップ > コンピテンシー**します。 
+パートナー センターのパートナー センターから、コンピテンシーの進行状況を確認するには、**パートナーシップ _gt コンピテンシー**に移動します。 
 
 ### <a href="" id="associating_achievements"></a>従業員をつなげてスキル ベースの目標を達成する
 
-1.  組織の従業員のユーザー アカウントを追加します。 [パートナー センター](http://partnercenter.microsoft.com)に移動します。**アカウント設定] > ユーザーの追加**します。 (PMC ユーザーは、**[PMC データを使ってユーザーを追加する]** を選択することで一度に複数のユーザーを追加することができます)。
+1.  組織の従業員のユーザー アカウントを追加します。 [パートナー センター](http://partnercenter.microsoft.com)で、**ユーザーのアカウント設定 _gt 追加**に移動します。 (PMC ユーザーは、**[PMC データを使ってユーザーを追加する]** を選択することで一度に複数のユーザーを追加することができます)。
 
     ユーザー アカウントが作成されたら、新しいユーザー名とパスワードが送信され、ユーザー名とパスワードのリセットに関する情報を含むログ ファイルをダウンロードするように求められます。 [ユーザー アカウントをセットアップして、自分でパスワードをリセットできるように](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)することもできます。
 
-2. 組織の従業員に、サインインして自分のユーザー アカウントに Microsoft アカウント (MSA) を関連付けるように求めます  ([パートナー センター](http://partnercenter.microsoft.com)に移動する**アカウントの設定**。従業員は、Microsoft 技術試験および認定資格と自分の Microsoft Partner University を通じてアカウントを関連付けるには、同じまたは別の Msa を使用できます。
+2. 組織の従業員に、サインインして自分のユーザー アカウントに Microsoft アカウント (MSA) を関連付けるように求めます  ([パートナー センター](http://partnercenter.microsoft.com)に移動する**アカウントの設定**。従業員は、同じまたは別の Msa を使用して、Microsoft 技術試験および認定資格と自分の Microsoft Partner University を通じてアカウントに関連付けます。
 
 3.  従業員が自分のアカウントを関連付けるか、スキル ベースの目標を完了してから、**24 時間待ちます**。 その後、進行状況が **[コンピテンシー]** セクションに表示されます。
 
