@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: CSP の市場、担当地域、場所できます i を通じて販売を行う CSP, CSP のプラン、地域、グローバル CSP、クラウド ソリューションを販売します。
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
+ms.sourcegitcommit: 004edfd8633620e6b0e0558d818e0dbf32be9e88
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980626"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9065609"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>クラウド ソリューション プロバイダー プログラムの地域市場と通貨
 
@@ -28,6 +28,14 @@ ms.locfileid: "8980626"
 > 2018 年 11 月 7 日以降する必要があります、顧客が署名したユーザーに関する情報を提供することで、Microsoft Cloud 契約を受け入れることを確認します。 詳細については[、Microsoft Cloud 契約の顧客の同意](confirm-consent.md)を参照してください。
 
 CSP のプランを販売することを確認するのには、下の一覧のいずれかで会社の場所を検索します。 販売先のアクティブな Microsoft Partner Network (MPN) ID が必要です。  
+
+## <a name="for-unsupported-countries"></a>国ではサポートされていません。
+
+お住まいの国ではサポートされていない場合は、顧客の Office 管理者の URL を使用して CSP の関係を確立します。 
+
+- 直接請求パートナーは、次の url を使用:https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0します。 テナント ID に**partnertenantguid**を置き換えます。 
+
+- 間接リセラーの url:https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguidします。 **IRtenantguid**をテナント ID に置き換える **IRMPNID** MPN ID に置き換え、 **IPtenantguid**を間接プロバイダーのテナント id に置き換えます。
 
 ## <a name="africa-region-and-market"></a>アフリカの地域設定と市場設定
 
@@ -337,7 +345,7 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 |  モザンビーク     |          |
 |  オマーン           |   USD    |
 |  パキスタン       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  占有パレスチナ |        |
 |  カタール          |   USD    |
 |  サウジアラビア   |   USD    |
 |  セルビア         |   USD    |
@@ -375,9 +383,9 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 |  ロシア連邦         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>台湾地域設定と市場設定
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+会社の場所が台湾である場合は、CSP のプランを台湾で顧客に販売できます。
 
 |  国/地域 | Currency |
 |  -------------- |:--------:|
