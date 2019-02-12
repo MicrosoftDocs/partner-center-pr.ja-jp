@@ -2,23 +2,25 @@
 title: ソフトウェア アシュアランス プログラム |パートナー センター
 ms.topic: article
 ms.date: 01/14/19
-description: 支援、トレーニング、ソフトウェア アシュアランス バウチャーの使用
+description: 登録し、パートナー センターでのソフトウェア アシュアランス プログラムの管理
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c824e6fe055c9fd17ce129c21364c88273599bdf
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 6e3958256b315249df5dda9778eb81d38d5fe66e
+ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015359"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9066029"
 ---
-# <a name="participate-in-software-assurance-programs"></a><span data-ttu-id="844ab-103">ソフトウェア アシュアランス プログラムに参加します。</span><span class="sxs-lookup"><span data-stu-id="844ab-103">Participate in software assurance programs</span></span>
+# <a name="participate-in-software-assurance-programs"></a><span data-ttu-id="b1fc8-103">ソフトウェア アシュアランス プログラムに参加します。</span><span class="sxs-lookup"><span data-stu-id="b1fc8-103">Participate in Software Assurance programs</span></span>
 
-<span data-ttu-id="844ab-104">トレーニングと展開サービスを含め、ソフトウェア アシュアランス プログラムは、ビジネスの拡大する優れた方法です。</span><span class="sxs-lookup"><span data-stu-id="844ab-104">Software assurance programs, including training and deployment services, are a good way to grow your business.</span></span> <span data-ttu-id="844ab-105">Microsoft では、トレーニング、計画、展開、およびその他の保証サービスをエンタープライズの顧客に提供するパートナーを補正します。</span><span class="sxs-lookup"><span data-stu-id="844ab-105">Microsoft compensates partners who deliver training, planning,deployment, and other assurance services to their enterprise customers.</span></span> <span data-ttu-id="844ab-106">パートナー センター経由でこれらプログラムに登録して、管理、予約ともパートナー センターで、伝票検証と引き換えツールを使用して、バウチャーを引き換えることができます。</span><span class="sxs-lookup"><span data-stu-id="844ab-106">You can enroll in these programs through Partner Center and you can manage, reserve, and redeem your vouchers using the Voucher Validation and Redemption tool on Partner Center as well.</span></span> 
+<span data-ttu-id="b1fc8-104">ソフトウェア アシュアランス トレーニング バウチャー (SATV) とサービスの計画を含む、ソフトウェア アシュアランスのプログラムへの参加では、Microsoft の企業のお客様によるビジネスの拡大する機会を提供します。</span><span class="sxs-lookup"><span data-stu-id="b1fc8-104">Participation in Software Assurance programs, including Software Assurance Training Vouchers (SATV) and Planning Services, provides you an opportunity to grow your business with Microsoft enterprise customers.</span></span> <span data-ttu-id="b1fc8-105">ソフトウェア アシュアランス トレーニング バウチャー パートナーは、Microsoft は、マイクロソフトのエキスパートによって開発されたクラスルーム、技術的な教室のトレーニングを提供することが補正されます。</span><span class="sxs-lookup"><span data-stu-id="b1fc8-105">As a Software Assurance Training Vouchers partner, Microsoft will compensate you to provide instructor-led, technical classroom training developed by Microsoft experts.</span></span> <span data-ttu-id="b1fc8-106">サービスの計画のパートナーは、Microsoft は補償インフラストラクチャーを計画定義済みの実装をリードします。</span><span class="sxs-lookup"><span data-stu-id="b1fc8-106">As a Planning Services partner, Microsoft will compensate you to lead pre-defined implementation planning engagements.</span></span> <span data-ttu-id="b1fc8-107">両方のプログラムを通じて競争ビジネスを設定し、信頼できるアドバイザーになる、フォロー サービスをお客様に提供する機会が得られます。</span><span class="sxs-lookup"><span data-stu-id="b1fc8-107">Through both programs, you gain the opportunity to set your business apart from the competition, become a trusted advisor, and offer follow-on services to your customer.</span></span> <span data-ttu-id="b1fc8-108">登録されているプログラムと関連ソフトウェア アシュアランス バウチャーの管理では、パートナー センターを通じて実行されます。</span><span class="sxs-lookup"><span data-stu-id="b1fc8-108">Enrollment in the programs and management of related Software Assurance vouchers is done through the Partner Center.</span></span>
 
-|**<span data-ttu-id="844ab-107">について説明します</span><span class="sxs-lookup"><span data-stu-id="844ab-107">To learn about</span></span>**   |**<span data-ttu-id="844ab-108">参照先</span><span class="sxs-lookup"><span data-stu-id="844ab-108">Read this</span></span>**   |
+|**<span data-ttu-id="b1fc8-109">について説明します</span><span class="sxs-lookup"><span data-stu-id="b1fc8-109">To learn about</span></span>**   |**<span data-ttu-id="b1fc8-110">参照先</span><span class="sxs-lookup"><span data-stu-id="b1fc8-110">Read this</span></span>**   |
 |--------------------------|:------------------|
-|<span data-ttu-id="844ab-109">ソフトウェア アシュアランス トレーニング伝票 (SATV) プログラムへの登録</span><span class="sxs-lookup"><span data-stu-id="844ab-109">Enrolling in the Software Assurance Training Voucher (SATV) program</span></span>|[<span data-ttu-id="844ab-110">パートナー センターでのソフトウェア アシュアランス トレーニング伝票 (SATV) プログラム</span><span class="sxs-lookup"><span data-stu-id="844ab-110">Software Assurance Training Voucher (SATV) program in Partner Center</span></span>](software-assurance-satv.md)|
-|<span data-ttu-id="844ab-111">伝票検証と引き換えツールを使用</span><span class="sxs-lookup"><span data-stu-id="844ab-111">Using the Voucher Validation and Redemption tool</span></span>|[<span data-ttu-id="844ab-112">パートナー センターでの検証、予約、およびバウチャーを引き換える伝票検証と引き換えツールを使用します。</span><span class="sxs-lookup"><span data-stu-id="844ab-112">Use the Voucher Validation and Redemption tool in Partner Center to validate, reserve, and redeem vouchers</span></span>](voucher-validation-tool.md)|
-|<span data-ttu-id="844ab-113">ソフトウェア アシュアランス計画サービスへの登録</span><span class="sxs-lookup"><span data-stu-id="844ab-113">Enrolling in the Software Assurance planning services</span></span>|[<span data-ttu-id="844ab-114">ソフトウェア アシュアランスのパートナー センターでのサービスの計画</span><span class="sxs-lookup"><span data-stu-id="844ab-114">Software Assurance planning services in Partner Center</span></span>](software-assurance-dps.md) 
+|<span data-ttu-id="b1fc8-111">ソフトウェア アシュアランス トレーニング バウチャー (SATV) プログラムへの登録</span><span class="sxs-lookup"><span data-stu-id="b1fc8-111">Enrolling in the Software Assurance Training Vouchers (SATV) program</span></span>|[<span data-ttu-id="b1fc8-112">パートナー センターでのソフトウェア アシュアランス トレーニング バウチャー (SATV) プログラム</span><span class="sxs-lookup"><span data-stu-id="b1fc8-112">Software Assurance Training Vouchers (SATV) program in Partner Center</span></span>](software-assurance-satv.md)|
+|<span data-ttu-id="b1fc8-113">伝票検証と引き換えツールを使用</span><span class="sxs-lookup"><span data-stu-id="b1fc8-113">Using the Voucher Validation and Redemption tool</span></span>|[<span data-ttu-id="b1fc8-114">パートナー センターで受講券の確認および受け取りツールを使用して、受講券の確認、予約、引き換えを行う</span><span class="sxs-lookup"><span data-stu-id="b1fc8-114">Use the Voucher Validation and Redemption tool in Partner Center to validate, reserve, and redeem vouchers</span></span>](voucher-validation-tool.md)|
+|<span data-ttu-id="b1fc8-115">サービスの計画ソフトウェア アシュアランスへの登録</span><span class="sxs-lookup"><span data-stu-id="b1fc8-115">Enrolling in the Software Assurance Planning Services</span></span>|[<span data-ttu-id="b1fc8-116">パートナー センターでのソフトウェア アシュアランス計画サービス</span><span class="sxs-lookup"><span data-stu-id="b1fc8-116">Software Assurance Planning Services in Partner Center</span></span>](software-assurance-dps.md) 
+
+
