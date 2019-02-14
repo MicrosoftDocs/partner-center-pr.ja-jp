@@ -330,7 +330,7 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 |  イスラエル         |   USD    |
 |  ヨルダン         |          |
 |  カザフスタン     |   USD    |
-|  コソボ         |   USD    |
+|  Kosovo         |   USD    |
 |  クウェート         |   USD    |
 |  キルギス     |   USD    |
 |  レバノン        |   USD    |
@@ -345,7 +345,7 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 |  モザンビーク     |          |
 |  オマーン           |   USD    |
 |  パキスタン       |   USD    |
-|  占有パレスチナ |        |
+|  Palestinian Territory, Occupied |        |
 |  カタール          |   USD    |
 |  サウジアラビア   |   USD    |
 |  セルビア         |   USD    |
@@ -383,9 +383,9 @@ CSP のプランを販売することを確認するのには、下の一覧の�
 |  ロシア連邦         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>台湾地域設定と市場設定
+## <a name="taiwan-region-and-market"></a>Taiwan region and market
 
-会社の場所が台湾である場合は、CSP のプランを台湾で顧客に販売できます。
+If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
 
 |  国/地域 | Currency |
 |  -------------- |:--------:|
