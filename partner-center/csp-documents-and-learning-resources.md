@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
-ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
+ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
+ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079260"
+ms.locfileid: "9079731"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、およびキャンペーン
 
@@ -43,6 +43,8 @@ Microsoft では、クラウド ソリューション プロバイダー プロ�
 
 [Microsoft Cloud リセラー契約 - アジア、オーストラリア、太平洋諸国](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
+
+
 [Microsoft Cloud リセラー契約 - ヨーロッパ、中東、アフリカ](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
 [Microsoft Cloud リセラー契約 - 日本](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
@@ -56,7 +58,8 @@ Microsoft では、クラウド ソリューション プロバイダー プロ�
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud 契約テンプレート
 
-CSP のパートナーは、マイクロソフトによる契約条件 (マイクロソフト製品およびサービスの利用規約を含む) を顧客との間で確認する責任があります。 新しい顧客を確認する必要があります、Microsoft Cloud 契約を検索する Microsoft Cloud 契約[顧客テンプレート](agreements.md)に移動します。 
+CSP のパートナーは、マイクロソフトによる契約条件 (マイクロソフト製品およびサービスの利用規約を含む) を顧客との間で確認する責任があります。 新しい顧客を確認する必要があります。 Microsoft Cloud 契約を検索する Microsoft Cloud 契約[顧客テンプレート](agreements.md)に移動します。 
+
 
 
 
