@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
-ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
+ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
+ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "9075185"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "9079260"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、およびキャンペーン
 
@@ -56,9 +56,9 @@ Microsoft では、クラウド ソリューション プロバイダー プロ�
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud 契約テンプレート
 
-CSP のパートナーは、マイクロソフトによる契約条件 (マイクロソフト製品およびサービスの利用規約を含む) を顧客との間で確認する責任があります。 新しい顧客を確認する必要があります、Microsoft Cloud 契約を見つけるには、次のリンクをご覧ください。 
+CSP のパートナーは、マイクロソフトによる契約条件 (マイクロソフト製品およびサービスの利用規約を含む) を顧客との間で確認する責任があります。 新しい顧客を確認する必要があります、Microsoft Cloud 契約を検索する Microsoft Cloud 契約[顧客テンプレート](agreements.md)に移動します。 
 
-Microsoft Cloud 契約[顧客テンプレート](agreements.md)
+
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 契約 (ドイツ) Professional 機密性修正
 
