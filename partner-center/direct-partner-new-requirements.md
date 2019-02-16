@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: CSP, 直接パートナー, 直接請求, 要件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 4e4052a54ab7ddbd53f6d793512704de8aa13670
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: 44410ba70f12e995fa5975bb60e443fd9fb154c0
+ms.sourcegitcommit: c74dad6d7c4775980ed8ca8f0ad3800a2cd07fd7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011089"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "9079753"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>CSP の直接パートナーの新しい要件
 
@@ -23,7 +23,7 @@ ms.locfileid: "9011089"
 
 ## <a name="enroll-as-a-direct-partner"></a>直接パートナーとして登録する
 
-直接パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。 8 月時点で直接請求パートナー登録の要件を更新した 31,2018 します。 これらの新しい要件は適切な CSP の登録モデルでは、ビジネスの成長を高速化し、顧客関係付加価値サービスとサポートの強化に役立ちます。 
+直接請求パートナーは、お客様と Microsoft とエンド ツー エンドの関係を所有します。 2018 年 8 月 31 日の時点で直接請求パートナー登録の要件を更新しました。 これらの新しい要件は適切な CSP の登録モデルでは、ビジネスの成長を高速化し、顧客関係付加価値サービスとサポートの強化に役立ちます。 
 
 ### <a name="minimum-requirements"></a>最小要件
 
@@ -31,11 +31,15 @@ ms.locfileid: "9011089"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |業務の場所のアクティブな Microsoft Partner Network (MPN) ID です。   |
 |**保証**   |同意し、組織を代表して法的契約に署名証明機関。|
-|**サポート**   |顧客にクラウド製品の最初のレベルを提供する機能をサポートします。|
+|**サポート**  |顧客にクラウド製品の最初のレベルを提供する機能をサポートします。 パートナー (ASfP) 向けのいずれか高度なサポート、Microsoft サポート プランまたはプレミア サポートが必要に応じてパートナー (PSfP)。 [サポート プランの比較](https://partner.microsoft.com/en-US/support/partnersupport)します。 |
 |**管理されたサービス**   |管理されたサービス、IP サービス、または顧客ソリューションのアプリケーションを少なくとも 1 つにするにはします。 [管理対象サービス](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)の追加の詳細について説明します。|
 |**受取アカウントします。** |顧客の請求とプロビジョニングを管理する組織のインフラストラクチャです。 
 
-[CSP リセラー](https://partner.microsoft.com/cloud-solution-provider)となるためについて詳しく知る
+上記の最小要件を確認した後、適格性を確認するクイック検証アンケートを完了する必要があります。 
+
+[クラウド ソリューション プロバイダーのアンケート](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+アンケートの評価は、直接請求の CSP プログラムに登録する、適格性を決定します。 アンケートを通じて直接請求の条件を満たしているし、登録フォームを提出したことを確認後、は、与信チェックを含む自社のビジネス レビューを実行しますされます。 返金額を承認する場合は、ASfP または PSfP のいずれかのプランの購入を確認し、最後に、直接請求パートナーとして顧客と取引を開始する直接請求条項契約に同意する必要があります。
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>間接に直接リセラーからの移行します。
 
