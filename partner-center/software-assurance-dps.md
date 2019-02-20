@@ -1,18 +1,18 @@
 ---
 title: パートナー センターでサービスのソフトウェア アシュアランス計画 |パートナー センター
 ms.topic: article
-ms.date: 1/21/19
+ms.date: 01/21/19
 description: 企業のお客様の前の展開の計画を提供するサービスの計画への登録します。
 author: labrenne
 ms.author: labrenne
 Keywords: pre-deployment, planning, software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 2998f96ed74fce0eaa3a7b390152837d73b3679b
-ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
+ms.openlocfilehash: 52a9c71444042cc5de7064ab56f1afd13e3d1338
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066019"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083415"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
 
@@ -23,7 +23,7 @@ ms.locfileid: "9066019"
 ソフトウェア アシュアランス計画サービスに慣れていない場合は、[サービスの計画によるビジネスの成長](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)を参照してください。
 
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>使ってみる
 
 ソフトウェア アシュアランス計画サービスを初めて行う場合は以下のすべての手順に従います。 既にサービスの計画のプログラムでアクティブになっている場合は、パートナーのアカウント情報はパートナー センターに移動されました、手順 4 (4) 下に起動します。 
 

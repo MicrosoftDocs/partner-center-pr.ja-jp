@@ -7,17 +7,17 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接請求, 移行, 間接リセラー
-ms.openlocfilehash: 8a114829c5460bf169938e69de65a69996dc4010
-ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
+ms.openlocfilehash: b8e7f4f13f3c3ef3bf0525f22ea74f80df8ed0d7
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "9024914"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083375"
 ---
-## <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) からの移行は直接 CSP 間接リセラーに請求パートナー 
-
 **適用対象:**
  - CSP パートナー
+
+# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行 
 
 >[!Note] 
 >この記事では、間接リセラーへ移行することにしました直接請求パートナー向けです。 

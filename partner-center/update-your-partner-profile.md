@@ -1,14 +1,17 @@
 ---
 title: パートナー プロファイルの更新 | パートナー センター
 description: 管理者として初めてサインインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。
+MS.Topic: article
+Date: 02/19/29
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.openlocfilehash: 5fb7852cfb393793dee00127d5397bd1dc55ef11
-ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
+MS.Author: evansma
+ms.openlocfilehash: 1e341d9209f59121d16c82a5b3bff752019e691c
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "9043501"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083385"
 ---
 # <a name="update-your-partner-profile"></a>パートナー プロファイルを更新する
 
