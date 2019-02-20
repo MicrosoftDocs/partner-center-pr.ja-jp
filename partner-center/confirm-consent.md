@@ -5,14 +5,14 @@ ms.date: 10/29/2018
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
-keywords: お客様は、ユーザーを同意します。
+keywords: 顧客、顧客、同意、MCA, Microsoft Cloud 契約, 顧客契約テンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: 356782420046cb8b49ac4e05981becd253d7049a
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000032"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083195"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>顧客の Microsoft Cloud 契約同意します。
 
@@ -31,7 +31,7 @@ ms.locfileid: "9000032"
 
 -   承認の日付
 
-詳細についてはを[Microsoft Cloud 契約顧客承諾の確認よく寄せられる質問](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)を参照してください。
+詳細についてはを Microsoft Cloud 契約顧客承諾の確認[よく寄せられる質問](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)を参照してください。
 
 ## <a name="schedule"></a>スケジュール
 
@@ -63,7 +63,8 @@ ms.locfileid: "9000032"
 
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>新しい顧客の顧客の受け入れを確認します。
 
-パートナー センターで、新しい顧客のテナントを作成するときに、顧客の受け入れを確認するのにには、次の手順を使用します。 これを行うには、管理エージェントまたは販売エージェントをする必要があることに注意してください。 
+パートナー センターで、新しい顧客のテナントを作成するときに、顧客の受け入れを確認するのにには、次の手順を使用します。 これを行うには、管理エージェントまたは販売エージェントをする必要があることに注意してください。
+ 
 1.  **ユーザー**、およびし、**新しい顧客**を選択し、**アカウントの情報**を選択します。
 
 2.  **会社**と**第一連絡先担当者**に関する情報を入力します。
@@ -79,7 +80,6 @@ ms.locfileid: "9000032"
 ![承認日を追加します。](images/mca/MCA3.png)
 
 既定では、プライマリ連絡先ユーザー情報が表示されます。 これが正しくない場合、**更新プログラム**を選択し、**名**、**姓、名**、**メール アドレス**を入力し、**電話番号*(省略可能) の受け入れ、契約者。
-
 
 6.  **[次へ]** を顧客のテナントを作成する残りの手順を続行するを選択します。
 

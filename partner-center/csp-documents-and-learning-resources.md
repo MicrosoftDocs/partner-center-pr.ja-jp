@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
-ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
+ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079731"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083145"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、およびキャンペーン
 
@@ -27,13 +27,12 @@ ms.locfileid: "9079731"
 
 ## <a name="cloud-solution-provider-program-guide"></a>クラウド ソリューション プロバイダー プログラム ガイド
 
-
 クラウド ソリューション プロバイダー プログラムのパートナーとなるための要件が記載されています。
 
 [クラウド ソリューション プロバイダー パートナー向けプログラム ガイド](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->証明書または確認のステータス文字では、必要な[サポートに問い合わせる](https://partner.microsoft.com/pcv/servicerequests/create)ことで要求することができます。
+>必要なことを確認するか、状態を受けられるように、[サポートにお問い合わせ](https://partner.microsoft.com/pcv/servicerequests/create)を 1 つの要求をクラウド ソリューション プロバイダー プログラムの承認済みの Microsoft パートナーとしてビジネス レターを場合。
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>クラウド ソリューション プロバイダー パートナー契約
 
@@ -42,8 +41,6 @@ Microsoft では、クラウド ソリューション プロバイダー プロ�
 [Microsoft Cloud リセラー契約 - 北米、中米、南米、カリブ諸国](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
 [Microsoft Cloud リセラー契約 - アジア、オーストラリア、太平洋諸国](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
-
-
 
 [Microsoft Cloud リセラー契約 - ヨーロッパ、中東、アフリカ](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -55,13 +52,12 @@ Microsoft では、クラウド ソリューション プロバイダー プロ�
 
 [Microsoft Cloud リセラー契約 - 米国政府機関向け Microsoft Cloud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 契約顧客テンプレート
 
-## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud 契約テンプレート
+注文を配置するには、顧客の代わりに、前に、顧客は読んで同意し、適用可能な Microsoft Cloud 契約に署名する必要があります。 Microsoft Cloud 契約とは、地域固有と複数の言語で利用可能です。 新しい顧客を確認する必要があります。 Microsoft Cloud 契約を検索する Microsoft Cloud 契約[顧客テンプレート](agreements.md)に移動します。
 
-CSP のパートナーは、マイクロソフトによる契約条件 (マイクロソフト製品およびサービスの利用規約を含む) を顧客との間で確認する責任があります。 新しい顧客を確認する必要があります。 Microsoft Cloud 契約を検索する Microsoft Cloud 契約[顧客テンプレート](agreements.md)に移動します。 
-
-
-
+>[!IMPORTANT]
+>顧客が署名したユーザーに関する情報を提供することで、Microsoft Cloud 契約を受け入れることを確認する必要があります。 詳細については[、Microsoft Cloud 契約の顧客の受け入れを確認](confirm-consent.md)し、 [Microsoft Cloud 契約顧客承諾の確認よく寄せられる質問](confirm-consent-faq.md)を参照してください。
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 契約 (ドイツ) Professional 機密性修正
 

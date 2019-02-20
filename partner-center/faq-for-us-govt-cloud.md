@@ -6,12 +6,12 @@ description: Microsoft Cloud for US Government のクラウド ソリューシ�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e51866d5207335ed9391fea08b1f5df2780b05c4
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 8da6afb92a42f04463a34ecb3506fcf9146e15cd
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797185"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083215"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のよく寄せられる質問のパートナー センター
 
@@ -24,13 +24,14 @@ ms.locfileid: "5797185"
 Microsoft Cloud for US Government のクラウド ソリューション プロバイダー (CSP) プログラムの詳細を確認するには、このよく寄せられる質問をご覧ください。 ここに記載されていない情報については、アカウント マネージャーにお問い合わせください。 
 
 ### <a name="common"></a>共通
+
 **米国政府機関向け Microsoft Cloud とは何ですか?**
 
-一から米国政府機関向けに設計されており、米国公共部門の顧客は、政府機関向け Microsoft Cloud: 小さな町の行政機関まで大規模な連邦機関から: さまざまなクラウド コンピューティング サービスを選択します。 顧客の特定のニーズを適切に満たすために、Microsoft はデータセンターに多大な投資を行い、米国連邦政府や州政府の政策、規制、要件に対するコンプライアンスを達成することに専念しています。 
+一から米国政府機関向けに設計された、政府機関向け Microsoft Cloud により、米国の公共部門の顧客-小さな町の行政機関まで大規模な連邦機関から-クラウド コンピューティング サービスの範囲から選択します。 顧客の特定のニーズを適切に満たすために、Microsoft はデータセンターに多大な投資を行い、米国連邦政府や州政府の政策、規制、要件に対するコンプライアンスを達成することに専念しています。 
 
 **米国政府機関向け Microsoft Cloud の CSP プログラムには、だれが参加できますか?**
 
-米国の連邦、州、提供する米国内のパートナーと地方自治体の行政エンティティは、Microsoft Government cloud の CSP プログラムの対象となるのです。 マイクロソフトは、パートナーが米国政府機関向け Microsoft Cloud にアクセスする前に、参加資格の決定について厳密な検証プログラムを実施しています。 参加資格を得るには、政府機関の顧客と連携して業務を行っていることを証明する必要があります。 米国政府機関向け Microsoft Cloud の CSP プログラムのサインアップ プロセスは、この検証を実行するために追加データをキャプチャするよう強化されています。 証明の種類としては、政府機関との契約番号や政府機関の顧客からの助成金証明書などがありますが、これらに限定されるわけではありません。
+米国の連邦、州、提供する米国内のパートナーと地方自治体の行政エンティティは、Microsoft Government cloud の CSP プログラムの対象です。 マイクロソフトは、パートナーが米国政府機関向け Microsoft Cloud にアクセスする前に、参加資格の決定について厳密な検証プログラムを実施しています。 参加資格を得るには、政府機関の顧客と連携して業務を行っていることを証明する必要があります。 米国政府機関向け Microsoft Cloud の CSP プログラムのサインアップ プロセスは、この検証を実行するために追加データをキャプチャするよう強化されています。 証明の種類としては、政府機関との契約番号や政府機関の顧客からの助成金証明書などがありますが、これらに限定されるわけではありません。
 
 **顧客向けの価格設定は商用 CSP の場合と同じですか?**
 
@@ -44,7 +45,7 @@ Microsoft Cloud for US Government のクラウド ソリューション プロ�
 
 米国政府機関向け Microsoft Cloud の CSP プログラムは、以下の点で商用 CSP と異なります。
 
--   参加資格: Microsoft Government cloud の CSP プログラムは米国の連邦、州、提供する米国内のパートナーおよび地方自治体の行政エンティティにのみ利用できます。 マイクロソフトは、パートナーが米国政府機関向け Microsoft Cloud にアクセスする前に、参加資格の決定について検証プログラムを実施しています。
+-   参加資格: Microsoft Government cloud の CSP プログラムは、米国の連邦、州、提供する米国内のパートナーと地方自治体の行政エンティティのみ使用可能です。 マイクロソフトは、パートナーが米国政府機関向け Microsoft Cloud にアクセスする前に、参加資格の決定について検証プログラムを実施しています。
 
 -   オンボード: 米国政府機関向け Microsoft Cloud の CSP プログラムには、商用 CSP とは別のオンボードが必要です。
 
@@ -68,9 +69,9 @@ MCRA によって、パートナーは CSP を使用して再販できます。 
 
 -   米国政府機関向けクラウドに関する補遺には、米国政府機関向けのクラウド サービスの取引に関するパートナーの追加の責任事項が含まれています。
 
--   追加条項 A には、CSP と顧客との間で締結される、米国政府機関向けのクラウド サービスのすべての契約に組み込む必要がある Microsoft Cloud 契約 (MCA) が含まれています。
+-   追加条項 A には、米国政府機関向けクラウド サービスが、CSP と顧客との間でのすべての契約に組み込む必要があります Microsoft Cloud 契約 (Microsoft Cloud 契約) が含まれています。
 
-*MCRA の追加条項 A として表示される Microsoft Cloud 契約 (MCA)*
+*MCRA の追加条項 A として表示される Microsoft Cloud 契約 (Microsoft Cloud 契約)*
 
 CSP は、米国政府機関向け Microsoft Cloud を購入する顧客と CSP の間で締結される政府機関向けの契約に追加条項 A を組み込む必要があります。 この契約は、パートナー センターで公開され、英語で提供されています。
 
@@ -88,7 +89,7 @@ Microsoft Cloud ディストリビューター契約 (MCDA) は、販売代理�
 
 -   米国政府機関向け Microsoft Cloud に関する補遺には、米国政府機関向けのクラウド サービスの取引に関するパートナーの追加の責任事項が含まれています。
 
--   追加条項 A には、CSP と顧客との間で締結される、米国政府機関向けのクラウド サービスのすべての契約に組み込む必要がある Microsoft Cloud 契約 (MCA) が含まれています。
+-   追加条項 A には、米国政府機関向けクラウド サービスが、CSP と顧客との間でのすべての契約に組み込む必要がある Microsoft Cloud 契約 (Microsoft Cloud 契約) が含まれています。
 
 **米国政府機関向け Microsoft Cloud を販売するには、どのような資格条件が必要ですか。**
 
