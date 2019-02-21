@@ -4,18 +4,13 @@ hide_bc: true
 title: ここから開始すると、パートナー センター ヘルプ
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: パートナー センターでは、Microsoft クラウド ソリューション プロバイダー (CSP) プログラムで、ビジネスを拡大できます。 アカウントの設定、顧客との連携、Action Pack サブスクリプションを購入および CSP と MPN プログラムのパートナーの詳細情報を検索します。 
+description: "パートナー センターでは、Microsoft クラウド ソリューション プロバイダー (CSP) プログラムで、ビジネスを拡大できます。 アカウントの設定、顧客との連携、Action Pack サブスクリプションを購入および CSP と MPN プログラムのパートナーの詳細情報を検索します。\_"
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
-ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
-ms.translationtype: MT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066052"
 ---
+
 # <a name="welcome-to-partner-center"></a>パートナー センターへようこそ
 
 Microsoft パートナー センターは、Microsoft とエンド ツー エンドの関係を管理するための 1 つの場所となる場所です。 ツールと取引し、のメンバーシップ、顧客紹介、クラウド ソリューション プロバイダー (CSP) プログラムなど、ビジネスの拡大するのに役立つリソースがあります。 アカウントの管理、顧客との接続、Action Pack サブスクリプションを購入およびでは、パートナー センター ヘルプ ライブラリ、インセンティブ プログラムに登録するためのベスト プラクティスについて調べる。
@@ -28,7 +23,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                            <img alt="Message icon" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -46,7 +41,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                            <img alt="Yammer logo" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +59,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/i_api.png" data-linktype="external">
+                            <img alt="API icon" src="images/i_api.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -129,7 +124,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -146,7 +141,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                            <img alt="Connection icon" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -163,7 +158,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                            <img alt="Scenario icon" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -186,7 +181,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -202,7 +197,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                            <img alt="API icon" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
                         </div>
                     </div>                
                     <div class="cardText">
@@ -218,7 +213,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
+                            <img alt="Benefits icon" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">

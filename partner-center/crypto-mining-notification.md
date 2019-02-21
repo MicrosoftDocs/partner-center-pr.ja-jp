@@ -8,14 +8,14 @@ ms.author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: cfc9dd5592b9b4da631f316f8b5d56ee965e6e51
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4cd56641a44cab84796ae051584e1e1cca63d3ff
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796165"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086720"
 ---
-# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>パートナー センターの通知でクリプトマイニング アクティビティ
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>パートナー センターの通知でクリプトマイニング アクティビティを
 
 **適用対象**
 
@@ -24,7 +24,7 @@ ms.locfileid: "5796165"
 
 クリプトマイニングに関する次のパートナー センターの通知を受信したことがあります。
  
-![](images/crypto1.png)
+![パートナー センターでのセキュリティの通知の画像](images/crypto1.png)
 
 この通知では、過去 1 週間以内に 1 つ以上の Azure サブスクリプションでクリプトマイニングが検出されたことをお知らせしています。 クリプトマイニングは必ずしも不正行為に相当するとは限りません。 ただし、Azure でのクリプトマイニング実行によるコストが金銭的な利益を上回る傾向にあるため、通常ではない行為であると言えます。 皆様や皆様の顧客に影響する金融詐欺を防ぐには、次の手順をご検討ください。
 
@@ -37,7 +37,7 @@ ms.locfileid: "5796165"
 そのアクティビティが想定内のものである場合は、顧客の Azure サブスクリプションの詳細ページに戻り、クリプトマイニングが正当であることを確認します。 
 
 
-![](images/crypto2.png)
+![顧客の Azure サブスクリプションの詳細ページの画像](images/crypto2.png)
 
 アクティビティが予想外のものである場合は、以下をご検討ください。
 
@@ -51,7 +51,7 @@ ms.locfileid: "5796165"
 
 通知に関してご質問や懸念がある場合、次の手順でサポート要求を開くことができます。
 
-1.  パートナー センターで**のサポート**を選択し、**パートナー センターの要求**を選択します。
+1.  パートナー センターで、**サポート**を選択し、**パートナー センターの要求**を選択します。
 3.  **[新しい要求]** を選びます。 
 4.  **[問題の種類]** ドロップダウン メニューで、**[顧客の追加または管理]** を選択します。
 5.  **[影響]** ドロップダウンで、**[標準]** を選択します。
