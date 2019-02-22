@@ -6,12 +6,12 @@ description: OSA 販売およびオンライン サービスの使用量のイ�
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796185"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098719"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>一部のインセンティブ プログラムにおける月次レポートからライブ データ レポートへの移行
 
@@ -35,7 +35,7 @@ ms.locfileid: "5796185"
  
 ## <a name="start-using-the-new-reporting-functionality"></a>新しいレポート機能を使用するには: 
 
-1. MPN で適合性検証についての資料、『[Partner Incentives Reporting on Partner Incentives Experience](http://aka.ms/osareadiness )』(パートナー インセンティブ エクスペリエンスにおけるパートナー インセンティブ レポート) をダウンロードして確認します。
+1. MPN で適合性検証についての資料、『[Partner Incentives Reporting on Partner Incentives Experience](https://aka.ms/osareadiness )』(パートナー インセンティブ エクスペリエンスにおけるパートナー インセンティブ レポート) をダウンロードして確認します。
 
 2. [PIE](https://partnerincentives.microsoft.com/) にアクセスします。
 

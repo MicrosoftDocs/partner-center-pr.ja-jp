@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 認定教育パートナー、教育機関、教育機関、教育機関への販売します。
 ms.localizationpriority: medium
-ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: e71c28f1fcf9b47fffea21eddfa2ab6a2e4313ab
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062330"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098759"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 
@@ -23,7 +23,7 @@ ms.locfileid: "9062330"
 教育機関向けのパートナーは、**Minecraft: Education Edition** サブスクリプションを教育機関に販売できます。 パートナー センターで、顧客の代理としてサブスクリプションを購入し、お客様が、[教育機関向け Microsoft ストア](https://educationstore.microsoft.com)からソフトウェアをダウンロードし、します。 
 
 >[!IMPORTANT]
->教育機関向けのプランを教育機関の顧客に販売するには、クラウド ソリューション プロバイダー (CSP) プログラムに登録されている[認定教育パートナー (AEP)](https://www.mepn.com) である必要があります。 さらに、顧客は[適格教育ユーザー](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。  
+>教育機関向けのプランを教育機関の顧客に販売するには、クラウド ソリューション プロバイダー (CSP) プログラムに登録されている[認定教育パートナー (AEP)](https://www.mepn.com) である必要があります。 さらに、顧客は[適格教育ユーザー](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。  
 
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>顧客の代理として **Minecraft: Education Edition** を購入する

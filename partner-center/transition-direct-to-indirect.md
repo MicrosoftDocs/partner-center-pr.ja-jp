@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接請求, 移行, 間接リセラー
-ms.openlocfilehash: b8e7f4f13f3c3ef3bf0525f22ea74f80df8ed0d7
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 54fa20acfd84cf1a2fadba9aa323b94d3ab356a3
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083375"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098799"
 ---
 **適用対象:**
  - CSP パートナー
@@ -157,4 +157,4 @@ ms.locfileid: "9083375"
 
 同じパートナー テナントで直接請求インセンティブ プログラムの登録の対象とする必要があります。 プログラムを個別に管理する必要があります。
 
-[間接リセラーになるために追加の情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)も参照してください。 と[間接リセラーに直接請求よく寄せられる質問](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)します。
+[間接リセラーになるために追加の情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)も参照してください。 と[間接リセラーに直接請求よく寄せられる質問](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)します。

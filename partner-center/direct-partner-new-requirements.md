@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: CSP, 直接パートナー, 直接請求, 要件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 80b3f5353c2fab8e0b4049c886407414eeba4771
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 9eaa4eae326bda4ed37fa750d588df961b573822
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083361"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098699"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>CSP の直接パートナーの新しい要件
 
@@ -45,4 +45,4 @@ ms.locfileid: "9083361"
 
 直接請求ビジネスから間接リセラー ビジネスに移動する場合は、いくつかの手順を実行する必要があります。 切り替えに関する詳細については、 [CSP 間接リセラーにクラウド ソリューション プロバイダー (CSP) の直接パートナーからの移行](transition-direct-to-indirect.md)を参照してください。 
 
-[間接リセラーになるために追加の情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)も参照してください。 と[間接リセラーに直接請求よく寄せられる質問](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)します。
+[間接リセラーになるために追加の情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)も参照してください。 と[間接リセラーに直接請求よく寄せられる質問](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)します。

@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083145"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098769"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、およびキャンペーン
 
@@ -29,7 +29,7 @@ ms.locfileid: "9083145"
 
 クラウド ソリューション プロバイダー プログラムのパートナーとなるための要件が記載されています。
 
-[クラウド ソリューション プロバイダー パートナー向けプログラム ガイド](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+[クラウド ソリューション プロバイダー パートナー向けプログラム ガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
 >必要なことを確認するか、状態を受けられるように、[サポートにお問い合わせ](https://partner.microsoft.com/pcv/servicerequests/create)を 1 つの要求をクラウド ソリューション プロバイダー プログラムの承認済みの Microsoft パートナーとしてビジネス レターを場合。
@@ -38,19 +38,19 @@ ms.locfileid: "9083145"
 
 Microsoft では、クラウド ソリューション プロバイダー プログラムに参加するには、この契約への署名をパートナーに求めています。 販売を計画している市場のクラウドまたはナショナル クラウドに関するガイドを確認してください。
 
-[Microsoft Cloud リセラー契約 - 北米、中米、南米、カリブ諸国](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud リセラー契約 - 北米、中米、南米、カリブ諸国](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft Cloud リセラー契約 - アジア、オーストラリア、太平洋諸国](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Microsoft Cloud リセラー契約 - アジア、オーストラリア、太平洋諸国](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[Microsoft Cloud リセラー契約 - ヨーロッパ、中東、アフリカ](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud リセラー契約 - ヨーロッパ、中東、アフリカ](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft Cloud リセラー契約 - 日本](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud リセラー契約 - 日本](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Microsoft Cloud リセラー契約 - 韓国](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud リセラー契約 - 韓国](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Microsoft Cloud リセラー契約 - 台湾](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud リセラー契約 - 台湾](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft Cloud リセラー契約 - 米国政府機関向け Microsoft Cloud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Microsoft Cloud リセラー契約 - 米国政府機関向け Microsoft Cloud](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 契約顧客テンプレート
 

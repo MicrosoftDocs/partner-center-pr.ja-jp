@@ -6,12 +6,12 @@ description: 米国政府機関向け Microsoft Cloud のパートナー セン�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 245390fdea46f891f3cc75830bd11952d56dbcdc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9c5d6ed400b416324546ef90ef04a18ecf5dbcf6
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796715"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098749"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センター
 
@@ -27,7 +27,7 @@ ms.locfileid: "5796715"
 
 米国政府機関向け Microsoft Cloud では、政府機関のセキュリティ、プライバシー、コンプライアンスの要件のデータ保護のニーズを満たす、独立した [Microsoft Azure](https://azure.microsoft.com/en-us/overview/clouds/government/) のインスタンスを提供します。 
 
-詳細については、[米国政府機関向け Microsoft Cloud データシート](http://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)を参照してください。
+詳細については、[米国政府機関向け Microsoft Cloud データシート](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)を参照してください。
 
 ## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>米国政府機関向け Microsoft Cloud のパートナー センター: 米国政府機関向けクラウド ソリューションの販売
 

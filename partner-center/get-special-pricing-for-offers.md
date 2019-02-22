@@ -7,12 +7,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: d252af955ea82d42ebd8196ad020088edee43dfb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795015"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098739"
 ---
 # <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 
@@ -26,8 +26,8 @@ ms.locfileid: "5795015"
 
 |**特別価格**   |**リセラーに求められる条件**   |**顧客に求められる条件**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育機関向け   |[認定教育パートナー](https://www.mepn.com)である必要があります。   | [適格教育ユーザー](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。   |
-|行政機関向け   |Azure を販売するには、[Microsoft Government Cloud Validation Form](http://azuregov.microsoft.com/csp) を使って登録します。 行政機関にライセンスベースのサブスクリプションを販売する場合、求められる条件はありません。|   なし|
+|教育機関向け   |[認定教育パートナー](https://www.mepn.com)である必要があります。   | [適格教育ユーザー](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。   |
+|行政機関向け   |Azure を販売するには、[Microsoft Government Cloud Validation Form](https://azuregov.microsoft.com/csp) を使って登録します。 行政機関にライセンスベースのサブスクリプションを販売する場合、求められる条件はありません。|   なし|
 |非営利団体向け  |なし<br>非営利 Azure Active Directory テナントが必要です。<br>[非営利団体向けプラン](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)の詳細情報を確認します。   |適格となるためには、[マイクロソフト非営利団体向けプログラム](https://nonprofit.microsoft.com/#/register)を通じてサインアップします。   |
 
 

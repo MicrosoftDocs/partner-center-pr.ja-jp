@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995966"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098849"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理としての問題の報告
 
@@ -107,7 +107,7 @@ ms.locfileid: "8995966"
 
 Microsoft Azure ポータルに直接サインインすると、顧客のコンテキストではなく、貴社のコンテキストでポータルが表示されます。 このため、Microsoft Azure ポータルに直接サインインするのは、貴社のサブスクリプションに関するサービス リクエストを作成するときだけにしてください。
 
-CSP サポートの権利では、貴社のパートナー サブスクリプションに関するサポートは提供されないため、貴社のパートナー サブスクリプションに関係するサービス リクエストを作成するときは、有効なサポート プランの権利を提示する必要があります。 たとえば、MPN コントラクト ID、プレミア、または Azure サポート プランです。 「[Azure サポートに関する FAQ](http://go.microsoft.com/fwlink/?LinkId=717532)」をご覧ください。
+CSP サポートの権利では、貴社のパートナー サブスクリプションに関するサポートは提供されないため、貴社のパートナー サブスクリプションに関係するサービス リクエストを作成するときは、有効なサポート プランの権利を提示する必要があります。 たとえば、MPN コントラクト ID、プレミア、または Azure サポート プランです。 「[Azure サポートに関する FAQ](https://go.microsoft.com/fwlink/?LinkId=717532)」をご覧ください。
 
 **Office 365 管理センター ポータルにサインインし、パートナー センターをバイパスした場合はどうなりますか?**
 
@@ -115,7 +115,7 @@ Office 365 管理センターに直接サインインすると、顧客のコン
 
 **Dynamics 365 の追加のサポートを取得する方法**
 
-関連する問題が発生した場合: Dynamics 365 プラン サブスクリプション、ライセンス、請求、ファイナンス & 操作、IURs か、またはそれ以上のテクニカル サポートを必要とします。
+関連する問題が発生した場合: Dynamics 365 プラン サブスクリプション、ライセンス、ファイナンス & 操作、IURs を請求、または、さらに技術的なサポートが必要な。
  
 [Dynamics サポート](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)にお問い合わせ
 

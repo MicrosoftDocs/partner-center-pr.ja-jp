@@ -6,12 +6,12 @@ description: 米国政府機関向け Microsoft Cloud のクラウド ソリュ�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796335"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098819"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する
 
@@ -25,7 +25,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 ## <a name="before-you-begin"></a>開始する前に
 
-米国政府機関向け Microsoft Cloud の CSP プログラムに登録する前に、お客様の会社が米国政府機関への販売の要件を満たしていることを確認する必要があります。 登録プロセスを開始する前に、Microsoft がお客様の会社の適格性を確認できるように、[Microsoft Government Cloud Validation Form](http://azuregov.microsoft.com/csp) に必要事項を記入してください。 Microsoft は、お客様の会社の適格性を確認した後、米国政府機関向け Microsoft Cloud 固有の Azure Active Directory (Azure AD) テナントを提供します。  
+米国政府機関向け Microsoft Cloud の CSP プログラムに登録する前に、お客様の会社が米国政府機関への販売の要件を満たしていることを確認する必要があります。 登録プロセスを開始する前に、Microsoft がお客様の会社の適格性を確認できるように、[Microsoft Government Cloud Validation Form](https://azuregov.microsoft.com/csp) に必要事項を記入してください。 Microsoft は、お客様の会社の適格性を確認した後、米国政府機関向け Microsoft Cloud 固有の Azure Active Directory (Azure AD) テナントを提供します。  
 
 パートナー センター アカウントを作成して米国政府機関向け Microsoft Cloud の CSP に登録するには、次の情報を入力する必要があります (登録プロセスを開始する前にあらかじめこの情報を調べておくことをお勧めします)。
 
@@ -42,7 +42,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 1.  [ここ](https://partnercenter.microsoft.com/register/resellerusgjoinnow)から登録プロセスを開始します。 
 
-2.  組織の米国政府機関向け Microsoft Cloud 用の組織の Azure AD テナントのグローバル管理者の資格情報を使ってサインインします。 組織がこのポータルのアカウントを持っていない場合、[Microsoft Government Cloud Validation Form](http://azuregov.microsoft.com/csp) に必要事項を記入してアカウントの作成を依頼できます。
+2.  組織の米国政府機関向け Microsoft Cloud 用の組織の Azure AD テナントのグローバル管理者の資格情報を使ってサインインします。 組織がこのポータルのアカウントを持っていない場合、[Microsoft Government Cloud Validation Form](https://azuregov.microsoft.com/csp) に必要事項を記入してアカウントの作成を依頼できます。
 
 
 ### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>手順2 - 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの参加を申し込む
