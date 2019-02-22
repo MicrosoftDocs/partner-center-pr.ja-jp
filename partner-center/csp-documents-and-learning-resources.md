@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083145"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098769"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a><span data-ttu-id="901ea-104">クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、およびキャンペーン</span><span class="sxs-lookup"><span data-stu-id="901ea-104">Cloud Solution Provider program guide, agreements, price lists, and offers</span></span>
 
@@ -29,7 +29,7 @@ ms.locfileid: "9083145"
 
 <span data-ttu-id="901ea-110">クラウド ソリューション プロバイダー プログラムのパートナーとなるための要件が記載されています。</span><span class="sxs-lookup"><span data-stu-id="901ea-110">Review requirements for becoming a partner in the Cloud Solution Provider program.</span></span>
 
-[<span data-ttu-id="901ea-111">クラウド ソリューション プロバイダー パートナー向けプログラム ガイド</span><span class="sxs-lookup"><span data-stu-id="901ea-111">Program guide for Cloud Solution Provider partners</span></span>](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+[<span data-ttu-id="901ea-111">クラウド ソリューション プロバイダー パートナー向けプログラム ガイド</span><span class="sxs-lookup"><span data-stu-id="901ea-111">Program guide for Cloud Solution Provider partners</span></span>](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
 ><span data-ttu-id="901ea-112">必要なことを確認するか、状態を受けられるように、[サポートにお問い合わせ](https://partner.microsoft.com/pcv/servicerequests/create)を 1 つの要求をクラウド ソリューション プロバイダー プログラムの承認済みの Microsoft パートナーとしてビジネス レターを場合。</span><span class="sxs-lookup"><span data-stu-id="901ea-112">If you require a business letter confirming or certifying your status as an approved Microsoft partner in the Cloud Solution Provider program, [contact support](https://partner.microsoft.com/pcv/servicerequests/create) to request one.</span></span>
@@ -38,19 +38,19 @@ ms.locfileid: "9083145"
 
 <span data-ttu-id="901ea-114">Microsoft では、クラウド ソリューション プロバイダー プログラムに参加するには、この契約への署名をパートナーに求めています。</span><span class="sxs-lookup"><span data-stu-id="901ea-114">Microsoft requires partners to sign this agreement to join the Cloud Solution Provider program.</span></span> <span data-ttu-id="901ea-115">販売を計画している市場のクラウドまたはナショナル クラウドに関するガイドを確認してください。</span><span class="sxs-lookup"><span data-stu-id="901ea-115">Review the guide for the market or national cloud in which you plan to sell.</span></span>
 
-[<span data-ttu-id="901ea-116">Microsoft Cloud リセラー契約 - 北米、中米、南米、カリブ諸国</span><span class="sxs-lookup"><span data-stu-id="901ea-116">Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="901ea-116">Microsoft Cloud リセラー契約 - 北米、中米、南米、カリブ諸国</span><span class="sxs-lookup"><span data-stu-id="901ea-116">Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="901ea-117">Microsoft Cloud リセラー契約 - アジア、オーストラリア、太平洋諸国</span><span class="sxs-lookup"><span data-stu-id="901ea-117">Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[<span data-ttu-id="901ea-117">Microsoft Cloud リセラー契約 - アジア、オーストラリア、太平洋諸国</span><span class="sxs-lookup"><span data-stu-id="901ea-117">Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[<span data-ttu-id="901ea-118">Microsoft Cloud リセラー契約 - ヨーロッパ、中東、アフリカ</span><span class="sxs-lookup"><span data-stu-id="901ea-118">Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="901ea-118">Microsoft Cloud リセラー契約 - ヨーロッパ、中東、アフリカ</span><span class="sxs-lookup"><span data-stu-id="901ea-118">Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="901ea-119">Microsoft Cloud リセラー契約 - 日本</span><span class="sxs-lookup"><span data-stu-id="901ea-119">Microsoft Cloud Reseller agreement – Japan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="901ea-119">Microsoft Cloud リセラー契約 - 日本</span><span class="sxs-lookup"><span data-stu-id="901ea-119">Microsoft Cloud Reseller agreement – Japan</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="901ea-120">Microsoft Cloud リセラー契約 - 韓国</span><span class="sxs-lookup"><span data-stu-id="901ea-120">Microsoft Cloud Reseller agreement – Korea</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="901ea-120">Microsoft Cloud リセラー契約 - 韓国</span><span class="sxs-lookup"><span data-stu-id="901ea-120">Microsoft Cloud Reseller agreement – Korea</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="901ea-121">Microsoft Cloud リセラー契約 - 台湾</span><span class="sxs-lookup"><span data-stu-id="901ea-121">Microsoft Cloud Reseller agreement – Taiwan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="901ea-121">Microsoft Cloud リセラー契約 - 台湾</span><span class="sxs-lookup"><span data-stu-id="901ea-121">Microsoft Cloud Reseller agreement – Taiwan</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="901ea-122">Microsoft Cloud リセラー契約 - 米国政府機関向け Microsoft Cloud</span><span class="sxs-lookup"><span data-stu-id="901ea-122">Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[<span data-ttu-id="901ea-122">Microsoft Cloud リセラー契約 - 米国政府機関向け Microsoft Cloud</span><span class="sxs-lookup"><span data-stu-id="901ea-122">Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a><span data-ttu-id="901ea-123">Microsoft Cloud 契約顧客テンプレート</span><span class="sxs-lookup"><span data-stu-id="901ea-123">Microsoft Cloud Agreement customer templates</span></span>
 

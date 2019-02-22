@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot、windows autopilot、microsoft autopilot、ゼロタッチ展開、oobe、ログイン画面、インボックス
 ms.localizationpriority: medium
-ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 46b8a74383585c630864079efa42b6e34412b91e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083405"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098829"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a><span data-ttu-id="8ba0b-104">Windows Autopilot プロファイルを使用して、デバイスのボックスのエクスペリエンスをカスタマイズします。</span><span class="sxs-lookup"><span data-stu-id="8ba0b-104">Customize a device's out-of-box experience with Windows Autopilot profiles</span></span>
 
@@ -25,7 +25,7 @@ ms.locfileid: "9083405"
 <span data-ttu-id="8ba0b-110">慣れていない既に autopilot、これらの記事の情報に確認してください。</span><span class="sxs-lookup"><span data-stu-id="8ba0b-110">If you're not already familiar with Autopilot, review the information in these articles:</span></span>
 
 - [<span data-ttu-id="8ba0b-111">Windows Autopilot の概要</span><span class="sxs-lookup"><span data-stu-id="8ba0b-111">Overview of Windows Autopilot</span></span>](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
-- [<span data-ttu-id="8ba0b-112">Autopilot 展開リファレンス ガイド</span><span class="sxs-lookup"><span data-stu-id="8ba0b-112">Autopilot deployment reference guide</span></span>](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [<span data-ttu-id="8ba0b-112">Autopilot 展開リファレンス ガイド</span><span class="sxs-lookup"><span data-stu-id="8ba0b-112">Autopilot deployment reference guide</span></span>](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a><span data-ttu-id="8ba0b-113">概要</span><span class="sxs-lookup"><span data-stu-id="8ba0b-113">Overview</span></span>
 
