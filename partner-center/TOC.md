@@ -15,12 +15,12 @@
 
 # [クラウド ソリューション プロバイダー](csp-overview.md)
 ## [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
-## [CSP の直接パートナーの新しい要件](direct-partner-new-requirements.md) 
+## [CSP の直接パートナーの新しい要件](direct-partner-new-requirements.md)
+## [地域と言語別の Microsoft Cloud 契約](agreements.md)
 ##[クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行](transition-direct-to-indirect.md)
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
 ## [CSP の地域承認の概要](regional-authorization-overview.md)
 ## [CSP の地域的承認によるテナント統合](csp-regional-authorization-tenant-consolidation.md)
-## [顧客契約テンプレート](agreements.md)
 
 ## [ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
