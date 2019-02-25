@@ -1,18 +1,18 @@
 ---
 title: Microsoft Cloud 契約の顧客に同意 |パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 02/22/2019
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
 keywords: 顧客、顧客、同意、MCA, Microsoft Cloud 契約, 顧客契約テンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 269647b819dda4c86ae7397dac3504268767abba
+ms.sourcegitcommit: 83d2757756ed1ed8f5f7ae06c84e7547174faf9a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083195"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "9099440"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>顧客の Microsoft Cloud 契約同意します。
 
@@ -46,7 +46,7 @@ ms.locfileid: "9083195"
 
 **2018 年 11 月 7日**
 
--   直接請求パートナーと間接プロバイダー**必要があります**Microsoft Cloud 契約の顧客の受け入れを確認します。 確認は*必須です*。
+-   直接請求パートナーと間接プロバイダー**必要があります**パートナー センターのダッシュ ボードを通じて取引しているときの Microsoft Cloud 契約顧客受け入れを確認します。 確認は*必須です*。
 
 -   特定のユーザーに対しては、確認が指定されていない: 場合
 
@@ -57,6 +57,33 @@ ms.locfileid: "9083195"
 -   パートナー センターまたはパートナー センター API 経由でお客様の承認の確認を実行できます。
 
 -   マイクロソフトのパブリック クラウドで顧客の承認の確認でのみサポートされます。
+
+-   これは、運用環境とサンド ボックス環境の両方に適用されます。
+
+**2018 年 3 月 11日**
+
+- 直接請求パートナーと間接 Providersmust は、パートナー センター API 経由で取引するときの CSP のサンド ボックス環境で Microsoft Cloud 契約顧客受け入れを確認します。
+- 特定のユーザーに対しては、確認が指定されていない: 場合
+
+    - パートナー センター API を使用してこの顧客に対して新しい注文を作成することはできません。
+ 
+    - パートナー センター API を使用して顧客の既存のシート ベースのサブスクリプションのシート数を変更することはできません。
+- マイクロソフトのパブリック クラウドで顧客の承認の確認でのみサポートされます。 
+
+**3 月 22 日、12018**
+
+- 直接請求パートナーと間接 Providersmust は、パートナー センター API 経由で取引するときの CSP の実稼働環境で Microsoft Cloud 契約顧客受け入れを確認します。
+
+- 特定のユーザーに対しては、確認が指定されていない: 場合
+  - パートナー センター API を使用してこの顧客に対して新しい注文を作成することはできません。
+
+  - パートナー センター API を使用して顧客の既存のシート ベースのサブスクリプションのシート数を変更することはできません。
+-  マイクロソフトのパブリック クラウドで顧客の承認の確認でのみサポートされます。
+
+
+
+
+
 
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>パートナー センターで顧客の受け入れを確認します。
