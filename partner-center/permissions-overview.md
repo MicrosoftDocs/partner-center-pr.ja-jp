@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 役割、アクセス許可、管理エージェント
 ms.localizationpriority: medium
-ms.openlocfilehash: d811cb76b03b1784eaf926052e6a00151b2fc347
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cc0e37601b16033bf31faaf5056ca0389d6f5cf6
+ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086730"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "9117215"
 ---
 # <a name="assign-users-roles-and-permissions"></a>ユーザー ロールとアクセス許可の割り当て
 
@@ -74,7 +74,7 @@ CPVs は、クラウド ソリューション プロバイダー (CSP) パート
 
 |**ロール** | **何ができます。**|
 |----------------------------|:----------------------------|
-|MPN 管理者|•Can いないテナント ユーザーを追加します。
+|MPN パートナー管理者|•Can いないテナント ユーザーを追加します。
 ||• 表示、作成、およびパートナー サービス要求を管理します。
 ||• 法的ビュー、組織でビジネス、および MPN プロファイル
 ||• ユーザーの詳細を表示およびスキル データ
@@ -82,8 +82,9 @@ CPVs は、クラウド ソリューション プロバイダー (CSP) パート
 ||• を表示して、特典を管理します。
 ||MPN • ビューと購入は提供します。
 ||• ビュー MPN プランの注文履歴と請求書
-||• がパートナーの貢献度データを表示できます。
+||• ビュー パートナーの貢献度データ
 ||• 伝票検証ツールで作業します。|
+||-顧客データの分析を表示します。
 |アカウントの管理| • いないテナント ユーザーを追加できます。
 ||• を追加または場所の削除
 ||-の管理者のアカウントに関連するプロファイルを管理します。 
