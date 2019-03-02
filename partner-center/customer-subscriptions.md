@@ -1,18 +1,18 @@
 ---
 title: お客様のサブスクリプション | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/01/2019
 description: パートナーは、パートナー センターからお客様にサブスクリプションを販売し、お客様を管理できます。
 author: labrenne
 ms.author: labrenne
-Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
+Keywords: サブスクリプション、ライセンス、ライセンス、顧客満足度、Azure サブスクリプションを割り当てください。
 ms.localizationpriority: medium
-ms.openlocfilehash: b6f8d22a620fee619d864cc13cc5d110ddfc5c47
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 59d19ff8b4798c52e3bc4f25a2c7af0508a0924c
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795465"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122169"
 ---
 # <a name="customer-subscriptions"></a>お客様のサブスクリプション
 
@@ -20,16 +20,16 @@ ms.locfileid: "5795465"
 
 -  パートナー センター
 
-CSP パートナーとして行う主要な作業の 1 つは、Microsoft 製品のサブスクリプションを顧客に提供することです。 パートナー センターで顧客ごとにすべてのサブスクリプションを管理することができます。 サブスクリプションの追加、既存のサブスクリプションへのライセンスの追加に加えて、ソフトウェアをテストする必要のある顧客に試用版サブスクリプション提供することもできます。 お客様がソフトウェアを使用する方法を理解するため、パートナー センターの分析を使用すると、さらより適切にサポートすることができます。
+CSP パートナーとして行う主要な作業の 1 つは、Microsoft 製品のサブスクリプションを顧客に提供することです。 パートナー センターで、顧客ごとにすべてのサブスクリプションを管理することができます。 サブスクリプションの追加、既存のサブスクリプションへのライセンスの追加に加えて、ソフトウェアをテストする必要のある顧客に試用版サブスクリプション提供することもできます。 さらに、方法、ユーザーはソフトウェアを使用して、優れたサポートを提供する際に役立ちますを理解する分析を表示できます。
 
 |**これを行うには**   |**参照先**   |
 |----------------------|:----------------------|
-|パートナー センターで既存の顧客に対して新しいサブスクリプションを作成または新しい顧客を追加してそのサブスクリプションを作成|[新しいサブスクリプションの作成](create-a-new-subscription.md)|
+|作成し、パートナー センターで既存の顧客のサブスクリプションを管理します。|[新しいサブスクリプションの作成](create-a-new-subscription.md)|
 |サブスクリプションを追加した後、顧客の従業員にライセンスを割り当てる  |[ユーザーへのライセンスの割り当て](assign-licenses-to-users.md)|
 |ライセンスの更新を一括して管理する   |[複数のユーザーへのライセンスの割り当てまたは取り消し](bulk-license-provisioning-for-multiple-users.md)|
 |顧客が新しい従業員を追加するときに、既存のサブスクリプションにライセンスを追加する   |[既存のサブスクリプションへのライセンスまたはサービスの追加](add-licenses-or-services-to-an-existing-subscription.md)|
 |コミットする前にソフトウェアの試用を希望している顧客に対して試用版サブスクリプションを提供をする    |[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)|
-|パートナー センターで Azure サブスクリプションのプロセスを今すぐ開始します。   |[パートナー センターでの Azure サブスクリプションを割り当てる](assign-azure-subscriptions.md)|
+|パートナー センターで Azure サブスクリプションのプロセスを開始することができます。   |[パートナー センターでの Azure サブスクリプションを割り当てる](assign-azure-subscriptions.md)|
 |特別価格について調べる   |[特別価格の利用](get-special-pricing-for-offers.md)|
 |顧客がソフトウェアを有効に活用できるようにソフトウェアをどのように使用しているかを確認する   | [導入実績と満足度の向上](increasing-adoption-and-satisfaction.md)   | 
 

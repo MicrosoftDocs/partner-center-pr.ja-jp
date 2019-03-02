@@ -49,7 +49,9 @@
 
 
 # [請求と税金](billing.md)
-## [新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)
+## [請求の FAQ](faq-about-new-billing-features.md)
+## [課金の基本](billing-basics.md)
+## [パートナー センターでの請求の種類をについてください。](billing-different-types.md)
 ## [請求書の記載事項](read-your-bill.md)
 ## [調整ファイルを使う](use-the-reconciliation-files.md)
 ## [税金と税金の除外](tax-and-tax-exemptions.md)
@@ -78,6 +80,7 @@
 ## [オンライン サービス (サブスクリプション)](customer-subscriptions.md)
 ### [顧客のサブスクリプションの作成、中断、取り消し](create-a-new-subscription.md)
 ### [Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)
+### [Azure Marketplace の製品へのサブスクリプションを販売します。](sell-marketplace-products.md)
 ### [パートナー センターでの Azure サブスクリプションの割り当て](assign-azure-subscriptions.md)
 ### [ユーザーへのライセンスの割り当て](assign-licenses-to-users.md)
 ### [既存のサブスクリプションへのライセンスまたはサービスの追加](add-licenses-or-services-to-an-existing-subscription.md)

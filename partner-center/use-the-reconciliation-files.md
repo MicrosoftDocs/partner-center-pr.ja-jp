@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 081afc547a0ff86010e06fcb5224a615a0075e34
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062380"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122279"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -465,34 +465,428 @@ ms.locfileid: "9062380"
 </tbody>
 </table>
 
-## <a href="" id="onetimefiles"></a>1 回限りの購入ファイルのフィールド
+## <a href="" id="marketplacefilefields"></a>1 回限りと定期的なファイルのフィールド
 
-|**フィールド** |**説明**|
-|:----------------|:-----------------------------|
-|PartnerId |GUID 形式のパートナー ID。 |
-|CustomerId |顧客を識別するために使用される、GUID 形式の一意の Microsoft ID。 |
-|CustomerName |パートナー センターで報告される顧客の組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。 |
-|CustomerDomainName |顧客のドメイン名。 |
-|CustomerCountry |顧客の在住国。 |
-|InvoiceNumber |指定されたトランザクションが含まれる請求書番号。 |
-|MpnId |CSP パートナー (直接または間接) の MPN ID。 |
-|Reseller MPN ID |間接モデルのパートナーの調整ファイルにのみ表示されます。 予約に対する登録リセラーの MPN ID。 これは、パートナー センターで特定の予約について示されるリセラー ID に対応します。 CSP パートナーが直接お客様に予約を販売した場合、パートナーの MPN ID が MPN ID とリセラーの MPN ID として 2 か所に表示されます。 CSP パートナーのリセラーに MPN ID がない場合は、代わりに CSP パートナーの MPN ID がこの値に設定されます。 CSP パートナーがリセラー ID を削除した場合、この値は -1 に設定されます。 |
-|OrderId |Microsoft 請求プラットフォームでの注文の一意の識別子。 サポートに問い合わせる際に、Azure 予約の識別に有効な場合がありますが、調整用ではありません。 |
-|OrderDate |注文が作成された日付。 |
-|ProductId |製品の ID。 |
-|SkuId  |特定 SKU の ID。 |
-|AvailabilityId |特定の可用性 の ID。 "可用性" とは、特定の国、通貨、業界などで特定の SKU を購入可能かどうかを指します。 |
-|SkuName  |特定 SKU のタイトル。 |
-|ProductName |製品の名前。 |
-|ChargeType |課金または調整の種類。 |
-|UnitPrice |注文された製品ごとの価格。 |
-|Quantity |注文された製品の数。 |
-|Subtotal |合計額 (税抜)。 割引の場合、小計が、予想される合計と一致することを確認します。 |
-|TaxTotal |該当するすべての税額の合計。 |
-|Total |この購入の合計金額。 |
-|Currency |通貨の種類。 各課金エンティティの通貨は 1 つのみです。 最初の請求書と一致し、その後で、主要な課金プラットフォームの更新と一致することを確認します。 |
-|DiscountDetails |関連する割引の詳細を示す一覧。 |
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>列</th>
+<th>説明</th>
+</tr>
+</thead>
+<tbody>
 
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>GUID 形式の特定の課金エンティティの一意の Microsoft Azure Active Directory テナント識別子です。 調整には必要ありませんが、有用な情報である場合があります。 すべての行で同じです。</p></td>
+</tr>
+
+<tr class="even">
+<td>顧客 Id</td>
+<td><p>一意な Microsoft Azure Active Directory テナント ID、GUID 形式、顧客を識別するために使用します。</p></td>
+</tr>
+
+<tr class="odd">
+<td>顧客名</td>
+<td><p>パートナー センターで報告される顧客の組織名。</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerDomainName</td>
+<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。 これは、顧客/パートナーが、O365 ポータル経由でバニティ/既定のドメインを更新すると、顧客を一意に識別していない使用する必要があります。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
+</tr>
+
+<tr class="odd">
+<td>顧客の国</td>
+<td><p>顧客の在住国。</p></td>
+</tr>
+
+<tr class="even">
+<td>請求書番号</td>
+<td><p>指定されたトランザクションが含まれる請求書番号。</p></td>
+</tr>
+
+<tr class="odd">
+<td>MpnId</td>
+<td><p>CSP パートナーの MPN ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>リセラー MpnId</td>
+<td><p>サブスクリプションの登録のあるリセラーの MPN ID。</p></td>
+</tr>
+
+<tr class="odd">
+<td>注文 ID</td>
+<td><p>Microsoft のコマース プラットフォームでの注文の一意の識別子。 サポートに問い合わせる際に、注文の識別に有効な場合がありますが、調整には有用ではありません。</p></td>
+</tr>
+
+<tr class="even">
+<td>発注日</td>
+<td><p>注文が作成された日付。</p></td>
+</tr>
+
+<tr class="odd">
+<td>ProductId</td>
+<td><p>製品の ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>SkuId</td>
+<td><p>特定 SKU の ID。</p></td>
+</tr>
+
+<tr class="odd">
+<td>AvailabilityId</td>
+<td><p>特定の可用性 の ID。 "可用性" とは、特定の国、通貨、業界などで特定の SKU を購入可能かどうかを指します。</p></td>
+</tr>
+
+<tr class="even">
+<td>SKU の名前</td>
+<td><p>特定 SKU のタイトル。</p></td>
+</tr>
+
+<tr class="odd">
+<td>Product name (製品名)</td>
+<td><p>製品の名前。</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>製品の発行元の名前。</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>この発行者の一意の ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>サブスクリプションの説明</td>
+<td><p>サブスクリプションのフレンドリ名。</p></td>
+</tr>
+
+<tr class="odd">
+<td>サブスクリプション ID</td>
+<td><p>Microsoft のコマース プラットフォームでのサブスクリプションの一意の識別子。 サポートに問い合わせる際に、サブスクリプションの識別に有効な場合がありますが、調整には有用ではありません。 これは、パートナー管理コンソールのサブスクリプション ID と同じではありません。</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>課金の開始日。 時刻は常に、その日の始まりの時刻 (0:00) になります。</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>課金の終了日。 時刻は常に、その日の終わりの時刻 (23:59) になります。</p></td>
+</tr>
+
+<tr class="even">
+<td>用語と Billingcycle</td>
+<td><p>期間の長さと、その購入に対する請求サイクルします。 たとえば、「1 年、月単位。」</p></td>
+</tr>
+
+<tr class="odd">
+<td>請求の種類</td>
+<td><p>課金または調整の種類。</p></td>
+</tr>
+
+<tr class="even">
+<td>単価</td>
+<td><p>購入時に価格で公開されると価格です。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
+</tr>
+
+<tr class="odd">
+<td>効果的な単価</td>
+<td><p>単価調整が行われた後。</p></td>
+</tr>
+
+<tr class="even">
+<td>数量</td>
+<td><p>単位数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
+</tr>
+
+<tr class="odd">
+<td>ユニットの種類</td>
+<td><p>購入単位の種類。</p></td>
+</tr>
+
+<tr class="even">
+<td>DiscountDetails</td>
+<td><p>適用される割引について説明します。</p></td>
+</tr>
+
+<tr class="odd">
+<td>サブ合計</td>
+<td><p>合計額 (税抜)。 割引の場合、小計が、予想される合計と一致することを確認します。</p></td>
+</tr>
+
+<tr class="even">
+<td>税の合計</td>
+<td><p>市場の税関連の規則や特定の状況に基づく税金の額。</p></td>
+</tr>
+
+<tr class="odd">
+<td>Total</td>
+<td><p>合計額 (税込)。 請求書に課税されるかどうかを確認します。</p></td>
+</tr>
+
+<tr class="even">
+<td>Currency</td>
+<td><p>通貨の種類。 各課金エンティティの通貨は 1 つのみです。 最初の請求書と一致し、その後で、主要な課金プラットフォームの更新と一致することを確認します。</p></td>
+</tr>
+
+<tr class="odd">
+<td>AlternateID</td>
+<td><p>代替の識別子を ID</p></td>
+</tr>
+</tbody>
+</table>
+
+
+## <a href="" id="dailyratedusagefields"></a>毎日日割りの使用状況ファイルのフィールド
+
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>列</th>
+<th>説明</th>
+</tr>
+</thead>
+<tbody>
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>GUID 形式のパートナー ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>PartnerName</td>
+<td><p>パートナー名。</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerId</td>
+<td><p>顧客を識別するために使用される、GUID 形式の一意の Microsoft ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerCompanyName</td>
+<td><p>パートナー センターで報告される顧客の組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerDomainName</td>
+<td><p>顧客のドメイン名。 現在のアクティビティは利用できません。</p></td>
+</tr>
+
+<tr class="even">
+<td>顧客の国</td>
+<td><p>顧客の在住国。</p></td>
+</tr>
+
+<tr class="odd">
+<td>MPNID</td>
+<td><p>CSP パートナーの MPN ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>リセラー MPNID</td>
+<td><p>サブスクリプションの登録のあるリセラーの MPN ID。 現在のアクティビティは利用できません。</p></td>
+</tr>
+
+<tr class="odd">
+<td>InvoiceNumber</td>
+<td><p>指定されたトランザクションが含まれる請求書番号。 現在のアクティビティは利用できません。</p></td>
+</tr>
+
+<tr class="even">
+<td>ProductId</td>
+<td><p>製品の ID。</p></td>
+</tr>
+
+<tr class="odd">
+<td>SkuId</td>
+<td><p>特定 SKU の ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>AvailabilityId</td>
+<td><p>特定の可用性 の ID。 "可用性" とは、特定の国、通貨、業界などで特定の SKU を購入可能かどうかを指します。</p></td>
+</tr>
+
+<tr class="odd">
+<td>SKU の名前</td>
+<td><p>特定 SKU のタイトル。</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>発行元の名前です。</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>発行元は、GUID 形式の ID です。 現在のアクティビティは利用できません。</p></td>
+</tr>
+
+<tr class=”even">
+<td>サブスクリプションの説明</td>
+<td><p>価格表で定義されている、顧客が購入したサービス プランの名前  (これはプラン名と同一のフィールドです)。</p></td>
+</tr>
+
+<tr class="odd">
+<td>サブスクリプション ID</td>
+<td><p>Microsoft 課金プラットフォームでのサブスクリプションの一意の識別子。 サポートに問い合わせる際に、サブスクリプションの識別に有効な場合がありますが、調整には有用ではありません。 これは、パートナー管理コンソールのサブスクリプション ID と同じではありません。</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>前の課金サイクルからの潜在的な未請求の使用状況データの日付を提示するときを除く、課金サイクルの開始日。 時刻は常に、その日の始まりの時刻 (0:00) になります。</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>前の課金サイクルからの潜在的な未請求の使用状況データの日付を提示するときを除く、課金サイクルの終了日。 時刻は常に、その日の終わりの時刻 (23:59) になります。</p></td>
+</tr>
+
+<tr class="even">
+<td>使用日</td>
+<td><p>サービスの使用状況の日付です。</p></td>
+</tr>
+
+<tr class="odd">
+<td>計の種類</td>
+<td><p>メーターの種類です。</p></td>
+</tr>
+
+<tr class="even">
+<td>メーター カテゴリ</td>
+<td><p>使用率の最上位レベルのサービスです。</p></td>
+</tr>
+
+<tr class="odd">
+<td>メーター Id</td>
+<td><p>使用されているメーターの ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>メーター サブ カテゴリ</td>
+<td><p>レートに影響を与える Azure サービスの種類です。</p></td>
+</tr>
+
+<tr class="odd">
+<td>メーター名</td>
+<td><p>消費されるメーター計測単位です。</p></td>
+</tr>
+
+<tr class="even">
+<td>メーター地域</td>
+<td><p>この列は、これが該当し、設定されている場合に、サービスの領域内でのデータ センターの場所を識別します。</p></td>
+</tr>
+
+<tr class="odd">
+<td>Unit</td>
+<td><p>リソース名の単位です。</p></td>
+</tr>
+
+<tr class="even">
+<td>消費数量</td>
+<td><p>レポート期間のサービスの使用量 (時間、GB など)。 前のレポート期間から課金していない使用も含まれます。</p></td>
+</tr>
+
+<tr class="odd">
+<td>リソースの場所</td>
+<td><p>メーターが実行されているデータ センターです。</p></td>
+</tr>
+
+<tr class="even">
+<td>サービスの盗用</td>
+<td><p>使用して、Azure プラットフォーム サービスです。</p></td>
+</tr>
+
+<tr class="odd">
+<td>リソース グループ</td>
+<td><p>展開されたメーターが実行されているリソース グループです。</p></td>
+</tr>
+
+<tr class="even">
+<td>リソース URI</td>
+<td><p>使用されているリソースの URI。</p></td>
+</tr>
+
+<tr class="odd">
+<td>請求の種類</td>
+<td><p>課金または調整の種類。 現在のアクティビティは利用できません。</p></td>
+</tr>
+
+<tr class="even">
+<td>単価</td>
+<td><p>購入時に価格で公開されると、ライセンスあたりの価格。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
+</tr>
+
+<tr class="odd">
+<td>数量</td>
+<td><p>ライセンスの数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
+</tr>
+
+<tr class="even">
+<td>ユニットの種類</td>
+<td><p>メーターが充電ユニットの種類です。 現在のアクティビティは利用できません。</p></td>
+</tr>
+
+<tr class="odd">
+<td>前の税金を請求</td>
+<td><p>税金の前に合計金額。</p></td>
+</tr>
+
+<tr class="even">
+<td>請求通貨</td>
+<td><p>顧客の地理的な地域の通貨</p></td>
+</tr>
+
+<tr class="odd">
+<td>価格の税込みの合計</td>
+<td><p>価格の税金が追加される前にします。</p></td>
+</tr>
+
+<tr class="even">
+<td>通貨の価格</td>
+<td><p>価格表に使われた通貨。</p></td>
+</tr>
+
+<tr class="odd">
+<td>サービスは 1</td>
+<td><p>特定の日にプロビジョニングされ、利用された ServiceBus 接続の数。</p></td>
+</tr>
+
+<tr class="even">
+<td>サービスは 2</td>
+<td><p>省略可能なサービスに固有のメタデータをキャプチャする従来のフィールドです。</p></td>
+</tr>
+
+<tr class="odd">
+<td>タグ</td>
+<td><p>請求レコードをグループ化するために、メーターに割り当てるタグ。 たとえば、メーターを使用する部門によってコストを配布するのにタグを使用することができます。</p></td>
+</tr>
+
+<tr class="even">
+<td>追加情報</td>
+<td><p>その他の情報の他の列では説明しません。</p></td>
+</tr>
+
+</tbody>
+</table>
 
 
 ## <a href="" id="charge_types"></a>請求書と調整ファイルの間の課金のマッピング

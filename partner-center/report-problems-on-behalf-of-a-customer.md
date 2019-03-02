@@ -1,21 +1,21 @@
 ---
-title: 顧客の代理としての問題の報告 | パートナー センター
+title: 顧客の代理で問題を報告する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
-Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
+ms.date: 03/01/2019
+Description: 貴社で解決できないサービスに関する問題が顧客側で発生し、「Microsoft に問題をエスカレートする」に記載されている条件に一致する場合は、サポート チケットを発行します。
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+Keywords: サービス チケット、サービス要求をサポートして、サポートの権利、aobo、Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: af024782202bc2127b76277b29049e3d34f17215
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098849"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122199"
 ---
-# <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理としての問題の報告
+# <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理で問題を報告する
 
 **適用対象**
 
@@ -25,7 +25,7 @@ ms.locfileid: "9098849"
 
 貴社で解決できないサービスに関する問題が顧客側で発生し、「[Microsoft に問題をエスカレートする](escalate-problems-to-microsoft.md)」に記載されている条件に一致する場合は、サポート チケットを発行します。 このプロセスは、請求に関する問題や紛争をエスカレートする場合や、不正行為が疑われる場合にも役に立ちます。
 
-**顧客のサービス リクエストを提出する**
+## <a name="submit-a-service-request-for-a-customer"></a>顧客のサービス リクエストを提出する
 
 1.  **パートナー センター**メニューで、**サービス要求**し、**ユーザーの要求**を選択します。 
 
@@ -33,13 +33,14 @@ ms.locfileid: "9098849"
 
 3.  **[新しい要求]** ドロップダウン メニューで、**[Azure]** または **[Office 365、Dynamics 365、Enterprise Mobility Suite]** を選択します。 Microsoft Azure Portal または Office 365 管理センターにリダイレクトされます。
 
-**Microsoft Azure**
+### <a name="microsoft-azure"></a>Microsoft Azure
 
-**注:** Azure で顧客のサービス要求を作成する必要がある場合に、次の注意してください。
-
-- Azure で顧客のサービス要求を作成するためには、間接プロバイダーが、顧客の Azure アカウントへのアクセスを許可する必要があります。 これは、Office 365 ユーザーに代わって管理を行うこととは異なります。 
-
-- パートナー センターでのヘルプデスク管理者は、Azure サービス ポータルでサービス リクエストを作成することはできません、実行できる機能は、Azure サービス ポータルでサポート グループを作成し、サポート要求を記録するには、そのグループ アクセスを許可を付与します。
+> [!IMPORTANT]
+> Azure で顧客のサービス要求を作成する必要がある場合に、次の注意してください。
+>
+>- Azure で顧客のサービス要求を作成するためには、間接プロバイダーが、顧客の Azure アカウントへのアクセスを許可する必要があります。 これは、Office 365 ユーザーに代わって管理を行うこととは異なります。 
+>
+>- パートナー センターでのヘルプデスク管理者は、Azure サービス ポータルでサービス リクエストを作成することはできません、実行できる機能は、Azure サービス ポータルでサポート グループを作成し、サポート要求を記録するには、そのグループ アクセスを許可を付与します。
 
 1. 
           **[新しいサポート要求]** を選びます。
@@ -65,18 +66,30 @@ ms.locfileid: "9098849"
 4. **新しいサポート要求**をを選択し、要求を作成し、画面の指示に従います。 
 
  
-**Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite**
+### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite
 
 1. 
           **[サービス リクエストの作成]** セクションで、適切なサポート トピックのカテゴリを選択します。 トピックをさらに表示するには、**[その他]** を 選びます。    
 2. サービス リクエスト フォームに記入し、**[送信]** を選びます。
 
->[**注**] 貴社の連絡先情報、顧客ではなくを含めることを確認してください。
+   > [!TIP]
+   > 貴社の連絡先情報、顧客ではなくを含めることを確認してください。
 
 3. 後で、Office 365 管理センターにアクセスし、**[すべてのサポート チケットを表示する]** を選んで顧客のサービス リクエストを見直します。
 
-## <a name="faq"></a>FAQ
+### <a name="support-for-azure-marketplace-products"></a>Azure Marketplace の製品のサポート
 
+Microsoft では、Azure Marketplace の製品の製品サポートは提供されません。 連絡、独立系ソフトウェア ベンダー (ISV) サポートを取得する製品を公開している必要があります。
+
+ISV の連絡先情報を検索するには。
+
+1.  [市場] ページでのヘルプが必要な製品を選択します。
+2.  製品のページでは、サポートの問い合わせ先情報がわかります。 これには、次の 1 つ以上があります。
+    - ISV の web サイトでサポート エントリ ポイントへのリンク
+    - サポート メール アドレス 
+    - サポート連絡先の電話番号
+
+## <a name="faq"></a>FAQ
 
 **サポートの権利には何が含まれていますか?**
 

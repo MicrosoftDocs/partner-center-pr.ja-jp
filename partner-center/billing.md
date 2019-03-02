@@ -2,18 +2,18 @@
 title: 請求 | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
+Description: 貴社は、クラウド ソリューション プロバイダー パートナーとして、顧客のライセンス ベースおよび使用量ベースのサブスクリプションの料金を 60 日後に Microsoft に支払います。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683451"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122179"
 ---
 # <a name="billing"></a>請求
 
@@ -23,7 +23,7 @@ ms.locfileid: "8683451"
 -  Microsoft Cloud for US Government のパートナー センター
  
  
-請求書、**パートナー センター**メニューに移動し、選び、**請求**請求の履歴と傾向、請求書と調整ファイル、前回のお支払いへのリンクを確認する。
+請求書の**パートナー センター**メニューに移動します選び、**請求**に請求の履歴と傾向、請求書と調整ファイル、および、最近の入金へのリンクを参照してください。
 
 クラウド ソリューション プロバイダー プログラムに参加中で月次請求を選択した場合は、顧客 (ライセンスベースおよび使用量ベース) のサブスクリプション料金を 60 日以内に Microsoft にお支払いください。
 
@@ -42,6 +42,7 @@ ms.locfileid: "8683451"
 |:-----------------------------|:-----------------|
 |請求、支払い、請求書などの基本事項   |[課金の基本](billing-basics.md)
 |年次請求など、多くの新しい請求機能   |[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)|
+|請求の種類   |[パートナー センターでの請求の種類をについてください。](billing-different-types.md)   |
 |請求書の記載事項を理解するための鍵   |[請求書の記載事項](read-your-bill.md)   |
 |調整ファイルを理解し使用する方法   |[調整ファイルの使用](use-the-reconciliation-files.md)|
 |一般的な課金シナリオ (「[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)」で追加の課金シナリオを検索)|[一般的な課金シナリオ](common-billing-scenarios.md)|

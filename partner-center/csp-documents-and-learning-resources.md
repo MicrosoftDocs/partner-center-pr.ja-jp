@@ -1,19 +1,19 @@
 ---
 title: CSP 契約、料金表、キャンペーン | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/01/2019
 description: この記事では、クラウド ソリューション プロバイダーのプログラム ガイド、パートナー契約、顧客契約、料金表、提供できる製品とサービスへのリンクを示します。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098769"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122239"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、およびキャンペーン
 
@@ -81,6 +81,7 @@ Microsoft では、クラウド ソリューション プロバイダー プロ�
 
 1 回限りの購入価格が動的なもします。 1 回限りの購入の例には、Microsoft Azure reservations と Windows Server および SQL ソフトウェアに対応するサブスクリプションが含まれます。 
 
+価格の Azure Marketplace の製品の詳細情報、パートナー センターの左側のナビゲーション メニューで**市場**に移動します。 発行元、Sku、に関する情報を表示する製品を選択し、価格設定します。 これらの Azure Marketplace 製品の価格を頻繁に変更できます。 非常に近日追加、毎日更新されるすべての価格設定データの一覧をエクスポートするためのオプションを提供します。 おも有効になります現在 Api 経由での価格のデータにアクセスします。 これらのオプションが利用可能なこのページでそれらを使用する方法について詳しくは更新されます。
 
 ## <a name="offers"></a>サービス
 
@@ -88,5 +89,7 @@ Microsoft では、クラウド ソリューション プロバイダー プロ�
 Csp パートナーは、さまざまな Microsoft 製品、サービス、および Office 365、Enterprise Mobility Suite、Microsoft Dynamics、および Microsoft Azure を含むソリューションを販売できます。 プランとこれらの製品ファミリ内で販売するために利用可能なについて詳しくは、**料金とプラン**] ページで、**パートナー センター**メニューから利用可能なプランのマトリックスの CSP を参照してください。 このドキュメントは毎月更新されます。
 
 Crest Usage Record API を使用している CSP パートナーは、**[料金とプラン]** ページで CSP での Azure サービスの一覧を利用することもできます。
+
+独立系ソフトウェア ベンダー (Isv) によって公開された Azure Marketplace の製品の詳細については、左側のナビゲーション メニューで、**市場**のページを参照してください。 現時点では、パートナー センターで SaaS (サービスとしてのソフトウェア) 製品の種類だけを購入することができます。 その他の種類の Azure Marketplace の製品を取得する Azure ポータルにアクセスする必要があります。
 
 
