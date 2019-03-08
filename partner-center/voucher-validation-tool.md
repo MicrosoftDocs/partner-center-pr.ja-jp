@@ -1,84 +1,84 @@
 ---
-title: パートナー センターでトレーニングやその他のバウチャー伝票検証ツールを使用して |パートナー センター
+title: パートナー センターで伝票検証ツールを使用して、トレーニング、およびその他の受講券の |パートナー センター
 ms.topic: article
 ms.date: 12/20/2018
-description: トレーニングとパートナー センターでのソフトウェア アシュアランス プログラム バウチャーを要求できるようになりました
-author: labrenne
+description: トレーニングとパートナー センターでのソフトウェア アシュアランス プログラムの受講券を要求できるようになりました
+author: LauraBrenner
 ms.author: labrenne
-Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
+Keywords: ツールの伝票、検証して受講券、トレーニング、ソフトウェア アシュアランス付きの要求、DP、SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: ede912569436c159b2dcc1661298e712f9b2065e
-ms.sourcegitcommit: daa8de3e6a269b28e77e097792ac35d70fa26461
+ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2019
-ms.locfileid: "9030072"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587835"
 ---
-# <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a><span data-ttu-id="a201c-103">パートナー センターでの検証、予約、およびバウチャーを引き換える伝票検証と引き換えツールを使用します。</span><span class="sxs-lookup"><span data-stu-id="a201c-103">Use the Voucher Validation and Redemption tool in Partner Center to validate, reserve, and redeem vouchers</span></span> 
+# <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a><span data-ttu-id="515b9-104">パートナー センターで受講券の確認および受け取りツールを使用して、受講券の確認、予約、引き換えを行う</span><span class="sxs-lookup"><span data-stu-id="515b9-104">Use the Voucher Validation and Redemption tool in Partner Center to validate, reserve, and redeem vouchers</span></span> 
 
-**<span data-ttu-id="a201c-104">適用対象:</span><span class="sxs-lookup"><span data-stu-id="a201c-104">Applies to:</span></span>**
+<span data-ttu-id="515b9-105">**適用対象します。**</span><span class="sxs-lookup"><span data-stu-id="515b9-105">**Applies to:**</span></span>
 
-- <span data-ttu-id="a201c-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="a201c-105">Partner Center</span></span>
+- <span data-ttu-id="515b9-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="515b9-106">Partner Center</span></span>
 
-<span data-ttu-id="a201c-106">修飾ソフトウェア アシュアランス パートナーは、トレーニングまたはサービスの展開の計画、Microsoft は、するをバウチャー ソフトウェア アシュアランスを入手することによる企業のお客様にこれらのサービスを提供することを補正します。</span><span class="sxs-lookup"><span data-stu-id="a201c-106">As a qualified Software Assurance partner, either for training or Deployment Planning services , Microsoft compensates you for providing these services to enterprise customers in exchange for vouchers they get with Software Assurance.</span></span>
+<span data-ttu-id="515b9-107">修飾ソフトウェア アシュアランス パートナーは、トレーニングやサービスの展開の計画に Microsoft は、ことを企業ソフトウェア アシュアランス付きで入手できる受講券と引き換えにこれらのサービスを提供することを補正します。</span><span class="sxs-lookup"><span data-stu-id="515b9-107">As a qualified Software Assurance partner, either for training or Deployment Planning services , Microsoft compensates you for providing these services to enterprise customers in exchange for vouchers they get with Software Assurance.</span></span>
 
-<span data-ttu-id="a201c-107">お客様は伝票を受信するときの検証し、を予約する必要があります。</span><span class="sxs-lookup"><span data-stu-id="a201c-107">When your customer receives a voucher, you need to validate and reserve it.</span></span> <span data-ttu-id="a201c-108">過去に伝票検証と引き換え (VVR) ツールでは、この作業を実行する可能性があります。</span><span class="sxs-lookup"><span data-stu-id="a201c-108">You may have done this work in the Voucher Validation and Redemption (VVR) tool in the past.</span></span> <span data-ttu-id="a201c-109">私たちを集める-パートナー センター: 1 つのサイトにすべてのツールとサイト、パートナーにアクセスするために使用を効率化とより効率的に作業を行うことを目的の Microsoft によるビジネスを行うには、VVR ツールを含む今日します。</span><span class="sxs-lookup"><span data-stu-id="a201c-109">Today we are bringing together into one site – Partner Center – all the tools and sites, including the VVR tool, partners used to have to visit to do business with Microsoft with the goal of making your work streamlined and more efficient.</span></span>
+<span data-ttu-id="515b9-108">伝票受け取ると顧客を検証し、それを予約する必要があります。</span><span class="sxs-lookup"><span data-stu-id="515b9-108">When your customer receives a voucher, you need to validate and reserve it.</span></span> <span data-ttu-id="515b9-109">過去に受講券の検証および引き換え (VVR) ツールでは、この作業を実行する場合があります。</span><span class="sxs-lookup"><span data-stu-id="515b9-109">You may have done this work in the Voucher Validation and Redemption (VVR) tool in the past.</span></span> <span data-ttu-id="515b9-110">今日私たちがまとめて – パートナー センター – 1 つのサイトにすべてのツールと、VVR ツールを効率的かつ効率的に作業を行う目的で Microsoft との取引を行うためにアクセスする必要があるパートナーを含む、サイト。</span><span class="sxs-lookup"><span data-stu-id="515b9-110">Today we are bringing together into one site – Partner Center – all the tools and sites, including the VVR tool, partners used to have to visit to do business with Microsoft with the goal of making your work streamlined and more efficient.</span></span>
 
-## <a name="validate-and-reserve-a-voucher"></a><span data-ttu-id="a201c-110">検証し、伝票の予約</span><span class="sxs-lookup"><span data-stu-id="a201c-110">Validate and reserve a voucher</span></span>
+## <a name="validate-and-reserve-a-voucher"></a><span data-ttu-id="515b9-111">検証し、受講券の予約</span><span class="sxs-lookup"><span data-stu-id="515b9-111">Validate and reserve a voucher</span></span>
 
-<span data-ttu-id="a201c-111">顧客伝票管理者では、トレーニング伝票を提供します。</span><span class="sxs-lookup"><span data-stu-id="a201c-111">Your customer voucher admin will give you a training voucher.</span></span> <span data-ttu-id="a201c-112">顧客のサービスを提供するためには、伝票を予約します。</span><span class="sxs-lookup"><span data-stu-id="a201c-112">You reserve the voucher in order to provide services for your customer.</span></span>
+<span data-ttu-id="515b9-112">顧客伝票管理者からトレーニングの受講券が提供されます。</span><span class="sxs-lookup"><span data-stu-id="515b9-112">Your customer voucher admin will give you a training voucher.</span></span> <span data-ttu-id="515b9-113">お客様のサービスを提供するためには、受講券を予約します。</span><span class="sxs-lookup"><span data-stu-id="515b9-113">You reserve the voucher in order to provide services for your customer.</span></span>
 
-1. <span data-ttu-id="a201c-113">伝票の概要] ページで、アクション、ページの上部にあるドロップダウンから**の検証と予約**を選択します。</span><span class="sxs-lookup"><span data-stu-id="a201c-113">On the voucher overview page, select **Validate and reserve** from the Action drop-down at the top of the page.</span></span> <span data-ttu-id="a201c-114">これは、**検証伝票**フォームが表示されます。</span><span class="sxs-lookup"><span data-stu-id="a201c-114">This brings up the **Validate voucher** form.</span></span>
-2. <span data-ttu-id="a201c-115">フォームで、伝票番号、および伝票管理者のメールを入力します。</span><span class="sxs-lookup"><span data-stu-id="a201c-115">In the form, enter the voucher number and the voucher admin’s email.</span></span>
-3. <span data-ttu-id="a201c-116">伝票番号がまだ有効であることを確認する**検証伝票**を選択します。</span><span class="sxs-lookup"><span data-stu-id="a201c-116">Select **Validate voucher** to ensure the voucher number is still valid.</span></span>
-4. <span data-ttu-id="a201c-117">**予約伝票**を選択し、プログラムの条項に同意します。</span><span class="sxs-lookup"><span data-stu-id="a201c-117">Select **Reserve voucher** and accept the program Terms and Conditions.</span></span> <span data-ttu-id="a201c-118">お客様は、伝票を予約してメールで通知されます。</span><span class="sxs-lookup"><span data-stu-id="a201c-118">The customer is notified by email that you reserved the voucher.</span></span>
+1. <span data-ttu-id="515b9-114">クーポンの概要 ページで、次のように選択します。**予約の検証と**アクション ページの上部にあるドロップダウン リストから。</span><span class="sxs-lookup"><span data-stu-id="515b9-114">On the voucher overview page, select **Validate and reserve** from the Action drop-down at the top of the page.</span></span> <span data-ttu-id="515b9-115">すると、**検証伝票**フォーム。</span><span class="sxs-lookup"><span data-stu-id="515b9-115">This brings up the **Validate voucher** form.</span></span>
+2. <span data-ttu-id="515b9-116">フォームでは、クーポン数と伝票管理者の電子メールを入力します。</span><span class="sxs-lookup"><span data-stu-id="515b9-116">In the form, enter the voucher number and the voucher admin’s email.</span></span>
+3. <span data-ttu-id="515b9-117">選択**検証伝票**数がまだ有効を受講券を確認します。</span><span class="sxs-lookup"><span data-stu-id="515b9-117">Select **Validate voucher** to ensure the voucher number is still valid.</span></span>
+4. <span data-ttu-id="515b9-118">選択**受講券の予約**し、プログラムの条件に同意します。</span><span class="sxs-lookup"><span data-stu-id="515b9-118">Select **Reserve voucher** and accept the program Terms and Conditions.</span></span> <span data-ttu-id="515b9-119">顧客に受講券を予約して電子メールで通知されます。</span><span class="sxs-lookup"><span data-stu-id="515b9-119">The customer is notified by email that you reserved the voucher.</span></span>
 
-<span data-ttu-id="a201c-119">動作ドロップダウンから、すべての利用可能なや予約済みバウチャーの一覧をエクスポートするには、 **Excel にエクスポート**を選択します。</span><span class="sxs-lookup"><span data-stu-id="a201c-119">Select **Export to Excel** from the action drop-down, to export a list of all available and/or reserved vouchers.</span></span>
+<span data-ttu-id="515b9-120">選択**を Excel にエクスポート**アクションのすべての利用や予約済みの受講券の一覧をエクスポートする、ドロップダウンから。</span><span class="sxs-lookup"><span data-stu-id="515b9-120">Select **Export to Excel** from the action drop-down, to export a list of all available and/or reserved vouchers.</span></span>
 
-### <a name="voucher-details-page"></a><span data-ttu-id="a201c-120">伝票の詳細ページ</span><span class="sxs-lookup"><span data-stu-id="a201c-120">Voucher details page</span></span>
+### <a name="voucher-details-page"></a><span data-ttu-id="515b9-121">クーポンの詳細 ページ</span><span class="sxs-lookup"><span data-stu-id="515b9-121">Voucher details page</span></span>
 
-<span data-ttu-id="a201c-121">伝票を検証した後は、予約の詳細ページが表示されます。</span><span class="sxs-lookup"><span data-stu-id="a201c-121">After you have validated a voucher, you will see the reservation details page.</span></span> <span data-ttu-id="a201c-122">サービス、たとえば、トレーニング、**表示コースの一覧**から顧客を選択します。</span><span class="sxs-lookup"><span data-stu-id="a201c-122">Select the service, for example, training, your customer wants from **View course list**.</span></span>
-<span data-ttu-id="a201c-123">コース日付は、伝票の期間内に収まる必要があります。</span><span class="sxs-lookup"><span data-stu-id="a201c-123">The course dates must fall within the timeframe of the voucher.</span></span> <span data-ttu-id="a201c-124">バウチャー有効期限は予約されているから 180 日後。</span><span class="sxs-lookup"><span data-stu-id="a201c-124">Vouchers expire 180 days after they are reserved.</span></span>
+<span data-ttu-id="515b9-122">伝票を検証した後は、予約の詳細ページが表示されます。</span><span class="sxs-lookup"><span data-stu-id="515b9-122">After you have validated a voucher, you will see the reservation details page.</span></span> <span data-ttu-id="515b9-123">サービスを選択して、たとえば、トレーニングから、顧客の要求**ビュー コース一覧**します。</span><span class="sxs-lookup"><span data-stu-id="515b9-123">Select the service, for example, training, your customer wants from **View course list**.</span></span>
+<span data-ttu-id="515b9-124">コースの日付はする必要があります、受講券の期間内で分類されます。</span><span class="sxs-lookup"><span data-stu-id="515b9-124">The course dates must fall within the timeframe of the voucher.</span></span> <span data-ttu-id="515b9-125">バウチャーには、180 日後に、予約されている期限が切れます。</span><span class="sxs-lookup"><span data-stu-id="515b9-125">Vouchers expire 180 days after they are reserved.</span></span>
 
-### <a name="modify-a-voucher"></a><span data-ttu-id="a201c-125">伝票を変更します。</span><span class="sxs-lookup"><span data-stu-id="a201c-125">Modify a voucher</span></span>
+### <a name="modify-a-voucher"></a><span data-ttu-id="515b9-126">伝票を変更します。</span><span class="sxs-lookup"><span data-stu-id="515b9-126">Modify a voucher</span></span>
 
-<span data-ttu-id="a201c-126">伝票一覧から伝票を予約するとき、参加者のメールを更新し、伝票を利用できます。</span><span class="sxs-lookup"><span data-stu-id="a201c-126">When you have reserved a voucher from your voucher list, you can update the attendee email and redeem the voucher.</span></span> <span data-ttu-id="a201c-127">参加者を追加またはコースのメール アドレスを変更するには、参加者一覧を更新するには、**参加者メールの更新**を選択します。</span><span class="sxs-lookup"><span data-stu-id="a201c-127">To update the attendee list, for example, to add attendees or change email addresses for a course, select **Update attendee email**.</span></span> <span data-ttu-id="a201c-128">参加者の一覧を更新することをお客様ができるようにする動作ドロップダウンからの**電子メール通知**を選択します。</span><span class="sxs-lookup"><span data-stu-id="a201c-128">Select **Email notification** from the Action drop-down to let the customer know you’ve updated the attendee list.</span></span>
+<span data-ttu-id="515b9-127">伝票一覧から、受講券の予約されているが、出席者のメールを更新し、受講券を引き換えることがことができます。</span><span class="sxs-lookup"><span data-stu-id="515b9-127">When you have reserved a voucher from your voucher list, you can update the attendee email and redeem the voucher.</span></span> <span data-ttu-id="515b9-128">参加者を追加またはコースの電子メール アドレスを変更するには、参加者リストを更新するには、選択**出席者のメールの更新**します。</span><span class="sxs-lookup"><span data-stu-id="515b9-128">To update the attendee list, for example, to add attendees or change email addresses for a course, select **Update attendee email**.</span></span> <span data-ttu-id="515b9-129">選択**電子メール通知**出席者の一覧を更新したことをお客様にアクションのドロップダウン リストから。</span><span class="sxs-lookup"><span data-stu-id="515b9-129">Select **Email notification** from the Action drop-down to let the customer know you’ve updated the attendee list.</span></span>
 
-## <a name="redeem-a-voucher"></a><span data-ttu-id="a201c-129">伝票を引き換える</span><span class="sxs-lookup"><span data-stu-id="a201c-129">Redeem a voucher</span></span>
+## <a name="redeem-a-voucher"></a><span data-ttu-id="515b9-130">バウチャーを引き換える</span><span class="sxs-lookup"><span data-stu-id="515b9-130">Redeem a voucher</span></span>
 
-<span data-ttu-id="a201c-130">伝票、予約した後は、それを引き換えることができます。</span><span class="sxs-lookup"><span data-stu-id="a201c-130">Once you've reserved a voucher, you can redeem it.</span></span> 
+<span data-ttu-id="515b9-131">伝票に予約した後を利用することができます。</span><span class="sxs-lookup"><span data-stu-id="515b9-131">Once you've reserved a voucher, you can redeem it.</span></span> 
 
-1. <span data-ttu-id="a201c-131">予約バウチャーのリストで利用する voucher(s) を選択します。</span><span class="sxs-lookup"><span data-stu-id="a201c-131">In your list of reserved vouchers, select the voucher(s) you want to redeem.</span></span> 
-2. <span data-ttu-id="a201c-132">**売却**バウチャーの一覧が表示されます。</span><span class="sxs-lookup"><span data-stu-id="a201c-132">You will now see a list of **Redeemed** vouchers.</span></span>
+1. <span data-ttu-id="515b9-132">受講券の予約済みの一覧を利用する voucher(s) を選択します。</span><span class="sxs-lookup"><span data-stu-id="515b9-132">In your list of reserved vouchers, select the voucher(s) you want to redeem.</span></span> 
+2. <span data-ttu-id="515b9-133">一覧が表示されます**売却**バウチャーします。</span><span class="sxs-lookup"><span data-stu-id="515b9-133">You will now see a list of **Redeemed** vouchers.</span></span>
 
-4. <span data-ttu-id="a201c-133">要求を作成するには、**要求の作成**、] を選択または、伝票の詳細] ページで、**要求の作成**を選択します。</span><span class="sxs-lookup"><span data-stu-id="a201c-133">To create a claim, select **Create a claim**, or, on the voucher details page, select **Create a claim**.</span></span>
+4. <span data-ttu-id="515b9-134">クレームを作成するには、選択**クレームを作成**、クーポンの詳細 ページで、次のように選択します。 または、**クレーム作成**。</span><span class="sxs-lookup"><span data-stu-id="515b9-134">To create a claim, select **Create a claim**, or, on the voucher details page, select **Create a claim**.</span></span>
 
-5. <span data-ttu-id="a201c-134">**要求の作成**] を選択、Microsoft の請求するために、[ソフトウェア アシュアランス伝票特典 (SAVB) オンライン支払ツール](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)が表示されます。</span><span class="sxs-lookup"><span data-stu-id="a201c-134">Selecting **Create a claim** takes you to the [Software Assurance Voucher Benefit (SAVB) Online Payment Tool](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) in order to invoice Microsoft.</span></span>
+5. <span data-ttu-id="515b9-135">選択**クレームを作成**するのに、[ソフトウェア アシュアランス伝票特典 (SAVB) オンライン支払ツール](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)Microsoft を請求するためにします。</span><span class="sxs-lookup"><span data-stu-id="515b9-135">Selecting **Create a claim** takes you to the [Software Assurance Voucher Benefit (SAVB) Online Payment Tool](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) in order to invoice Microsoft.</span></span>
 
 
-### <a name="cancel-a-voucher"></a><span data-ttu-id="a201c-135">伝票を取り消す</span><span class="sxs-lookup"><span data-stu-id="a201c-135">Cancel a voucher</span></span>
+### <a name="cancel-a-voucher"></a><span data-ttu-id="515b9-136">伝票をキャンセルします。</span><span class="sxs-lookup"><span data-stu-id="515b9-136">Cancel a voucher</span></span>
 
-<span data-ttu-id="a201c-136">これには伝票予約の取り消しが必要になるいくつかの理由があります。</span><span class="sxs-lookup"><span data-stu-id="a201c-136">There are several reasons you may need to cancel the voucher reservation:</span></span>
+<span data-ttu-id="515b9-137">受講券の予約をキャンセルする必要がありますは、いくつか考えられます。</span><span class="sxs-lookup"><span data-stu-id="515b9-137">There are several reasons you may need to cancel the voucher reservation:</span></span>
 
-- <span data-ttu-id="a201c-137">プランまたはプログラムは、伝票が最初に予約されてから変更されています。</span><span class="sxs-lookup"><span data-stu-id="a201c-137">The offer or program has changed from when the voucher was originally reserved.</span></span>
+- <span data-ttu-id="515b9-138">プランまたはプログラムは、受講券が最初に予約されてから変更されました。</span><span class="sxs-lookup"><span data-stu-id="515b9-138">The offer or program has changed from when the voucher was originally reserved.</span></span>
 
-- <span data-ttu-id="a201c-138">契約が不要になった引き出されます。</span><span class="sxs-lookup"><span data-stu-id="a201c-138">The engagement will no longer take place.</span></span>
+- <span data-ttu-id="515b9-139">Engagement 不要になった場所になります。</span><span class="sxs-lookup"><span data-stu-id="515b9-139">The engagement will no longer take place.</span></span>
 
-- <span data-ttu-id="a201c-139">顧客は、伝票エンゲージメントの別のパートナーを使用します。</span><span class="sxs-lookup"><span data-stu-id="a201c-139">The customer wants to use a different partner for their voucher engagement.</span></span>
+- <span data-ttu-id="515b9-140">顧客は伝票契約の異なるパートナーを使用します。</span><span class="sxs-lookup"><span data-stu-id="515b9-140">The customer wants to use a different partner for their voucher engagement.</span></span>
 
-<span data-ttu-id="a201c-140">**伝票の予約をキャンセルする**:</span><span class="sxs-lookup"><span data-stu-id="a201c-140">**To cancel the reservation of a voucher**:</span></span>
+<span data-ttu-id="515b9-141">**受講券の予約をキャンセルする**:</span><span class="sxs-lookup"><span data-stu-id="515b9-141">**To cancel the reservation of a voucher**:</span></span>
 
-1. <span data-ttu-id="a201c-141">予約済みバウチャーの一覧からをキャンセルする選択します。</span><span class="sxs-lookup"><span data-stu-id="a201c-141">Select the voucher you want to cancel from your list of reserved vouchers.</span></span>
+1. <span data-ttu-id="515b9-142">受講券の予約済みの一覧からキャンセルするクーポンを選択します。</span><span class="sxs-lookup"><span data-stu-id="515b9-142">Select the voucher you want to cancel from your list of reserved vouchers.</span></span>
 
-2. <span data-ttu-id="a201c-142">検索ボックスをすばやく見つけることで、伝票番号を追加することもできます。</span><span class="sxs-lookup"><span data-stu-id="a201c-142">You can also add the voucher number in the search box to quickly locate it.</span></span> 
+2. <span data-ttu-id="515b9-143">クーポン数をすばやく検索、検索ボックスに追加することもできます。</span><span class="sxs-lookup"><span data-stu-id="515b9-143">You can also add the voucher number in the search box to quickly locate it.</span></span> 
 
-3. <span data-ttu-id="a201c-143">**予約の取り消し**を選択します。</span><span class="sxs-lookup"><span data-stu-id="a201c-143">Select **Cancel reservation**.</span></span> <span data-ttu-id="a201c-144">伝票予約 VVR、**割り当て済み**の状態に戻る伝票に配置して、今後の予約の対象とすることから削除されます。</span><span class="sxs-lookup"><span data-stu-id="a201c-144">This will delete the voucher reservation from VVR, placing the voucher back in an **Assigned** status and making it eligible for future reservation.</span></span>
+3. <span data-ttu-id="515b9-144">選択**予約を取り消す**します。</span><span class="sxs-lookup"><span data-stu-id="515b9-144">Select **Cancel reservation**.</span></span> <span data-ttu-id="515b9-145">これは、受講券の予約が削除されます VVR からに戻り、受講券を配置すること、**割り当て**状態および将来の予約の対象になります。</span><span class="sxs-lookup"><span data-stu-id="515b9-145">This will delete the voucher reservation from VVR, placing the voucher back in an **Assigned** status and making it eligible for future reservation.</span></span>
 
->[!注:]<span data-ttu-id="a201c-145"> を有効にする、その有効期限伝票は引き続き伝票予約およびカバレッジの有効期限が切れる、顧客のソフトウェア アシュアランスをキャンセルした場合。</span><span class="sxs-lookup"><span data-stu-id="a201c-145"> If you cancel a voucher reservation and the customer’s Software Assurance coverage expires, the voucher will continue to be valid until its expiration date.</span></span> <span data-ttu-id="a201c-146">作成した後 180 日間有効期限はバウチャー。</span><span class="sxs-lookup"><span data-stu-id="a201c-146">Vouchers expire 180 days after their creation.</span></span>
+>[!注:]<span data-ttu-id="515b9-146"> をその有効期限の日付まで有効にする、受講券は引き続き受講券の予約とカバレッジの有効期限が切れたお客様のソフトウェア アシュアランスをキャンセルした場合。</span><span class="sxs-lookup"><span data-stu-id="515b9-146"> If you cancel a voucher reservation and the customer’s Software Assurance coverage expires, the voucher will continue to be valid until its expiration date.</span></span> <span data-ttu-id="515b9-147">バウチャーには、作成した後 180 日間有効期限が切れます。</span><span class="sxs-lookup"><span data-stu-id="515b9-147">Vouchers expire 180 days after their creation.</span></span>
 
-<span data-ttu-id="a201c-147">VVR ツールについては、[よく寄せられる質問](vvr-faq.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a201c-147">For additional information on the VVR tool, read the [FAQ](vvr-faq.md).</span></span>
+<span data-ttu-id="515b9-148">VVR ツールの詳細については、読み取り、 [FAQ](vvr-faq.md)します。</span><span class="sxs-lookup"><span data-stu-id="515b9-148">For additional information on the VVR tool, read the [FAQ](vvr-faq.md).</span></span>
 
-<span data-ttu-id="a201c-148">SATV に登録する方法について詳しくは、[パートナー センターでのソフトウェア アシュアランス トレーニング伝票 (SATV) プログラム](software-assurance-satv.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a201c-148">For information on how to enroll in SATV, read [Software Assurance Training Voucher (SATV) program in Partner Center](software-assurance-satv.md).</span></span>
+<span data-ttu-id="515b9-149">SATV に登録する方法については、「[パートナー センターでのソフトウェア アシュアランス付きのトレーニング受講券 (SATV) プログラム](software-assurance-satv.md)します。</span><span class="sxs-lookup"><span data-stu-id="515b9-149">For information on how to enroll in SATV, read [Software Assurance Training Voucher (SATV) program in Partner Center](software-assurance-satv.md).</span></span>
 
-<span data-ttu-id="a201c-149">ソフトウェア アシュアランス DP プログラムに登録する方法について詳しくは、[パートナー センターでのソフトウェア アシュアランス プログラム](software-assurance-dps.md)をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="a201c-149">For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md)</span></span>
+<span data-ttu-id="515b9-150">ソフトウェア アシュアランス DPS プログラムに登録する方法については、「[パートナー センターでのソフトウェア アシュアランス プログラム](software-assurance-dps.md)</span><span class="sxs-lookup"><span data-stu-id="515b9-150">For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md)</span></span>
 

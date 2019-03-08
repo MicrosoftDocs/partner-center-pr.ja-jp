@@ -3,20 +3,20 @@ title: Data Center コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: Datacenter コンピテンシーは、より柔軟で拡張性とコスト効果が高いソリューションにデータ センターを移行するパートナー様を認識します。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: コンピテンシー, コンピテンシー, Datacenter
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 803b3c384985564c1504d377bdcee065eff5bfd1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 356d94a49a43e24d11e0c7adf49fa36178559876
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795565"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584275"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="642c6-104">このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。</span><span class="sxs-lookup"><span data-stu-id="642c6-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="9fb85-104">このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="9fb85-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Datacenter

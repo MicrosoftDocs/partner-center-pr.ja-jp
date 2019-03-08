@@ -3,20 +3,20 @@ title: Communications コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: Communications コンピテンシーは、革新的でカスタマイズされた Skype for Business ソリューションを提供しているパートナー様を認識します。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: コンピテンシー,コンピテンシー,Communications
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0b52e39fee9abfe8e869d48c073ac42cb69637c1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: a537ec778cf2c9b482dda1d733ac89ec76a69800
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794635"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586165"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="49caf-104">このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。</span><span class="sxs-lookup"><span data-stu-id="49caf-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="08b11-104">このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="08b11-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Communications

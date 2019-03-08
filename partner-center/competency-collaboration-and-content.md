@@ -3,20 +3,20 @@ title: Collaboration and Content コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: Collaboration and Content コンピテンシーは、企業が共有、共同作業、生産性向上を行うことができるように SharePoint ソリューションを提供しているパートナー様を認識します。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: コンピテンシー,コンピテンシー,Collaboration and Content
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 70250f8c8be14a0d6de91ddf32f26fd51424b0e1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 41a64628a2ee016555c2515fcec58cf389899dbd
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795965"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583995"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="6ec89-104">このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。</span><span class="sxs-lookup"><span data-stu-id="6ec89-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="3d39e-104">このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="3d39e-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

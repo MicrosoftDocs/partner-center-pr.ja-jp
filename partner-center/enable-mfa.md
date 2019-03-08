@@ -1,29 +1,29 @@
 ---
-title: このページにアクセスするためのテナントで多要素認証 (MFA) を有効にする必要があります。パートナー センター
+title: このページにアクセスするテナントで多要素認証 (MFA) を有効にする必要があります |パートナー センター
 ms.topic: article
 ms.date: 12/21/2018
 description: ''
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-Keywords: health, service health,service problems
+Keywords: 正常性、サービスの正常性、サービスの問題
 ms.localizationpriority: medium
-ms.openlocfilehash: 2789e333655d27b7009aaa020b461d70086c8ef2
-ms.sourcegitcommit: 365f51b1df6752ab0f6bcf2b26329d354fa36653
+ms.openlocfilehash: b04440e11f3f04ca68e56e440585bb9da55f8a27
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995023"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586585"
 ---
-# <a name="you-must-enable-multi-factor-authentication-mfa-on-your-tenant-to-gain-access-to-partner-center"></a><span data-ttu-id="a459d-102">パートナー センターにアクセスするテナントで多要素認証 (MFA) を有効にする必要があります。</span><span class="sxs-lookup"><span data-stu-id="a459d-102">You must enable Multi-Factor Authentication (MFA) on your tenant to gain access to Partner Center</span></span>
+# <a name="you-must-enable-multi-factor-authentication-mfa-on-your-tenant-to-gain-access-to-partner-center"></a><span data-ttu-id="4c1b9-103">パートナー センターにアクセスするテナントで多要素認証 (MFA) を有効にする必要があります。</span><span class="sxs-lookup"><span data-stu-id="4c1b9-103">You must enable Multi-Factor Authentication (MFA) on your tenant to gain access to Partner Center</span></span>
 
-**<span data-ttu-id="a459d-103">適用対象</span><span class="sxs-lookup"><span data-stu-id="a459d-103">Applies to</span></span>**
+<span data-ttu-id="4c1b9-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="4c1b9-104">**Applies to**</span></span>
 
-- <span data-ttu-id="a459d-104">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="a459d-104">Partner Center</span></span>
+- <span data-ttu-id="4c1b9-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="4c1b9-105">Partner Center</span></span>
 
 
-<span data-ttu-id="a459d-105">今すぐ Microsoft パートナー センターでは多要素認証 (MFA) にパートナー センターのアクセスを有効にする必要があります。</span><span class="sxs-lookup"><span data-stu-id="a459d-105">Microsoft Partner Center now requires you to enable multi-factor authentication (MFA) to access Partner Center.</span></span>  
-<span data-ttu-id="a459d-106">パートナーでは、 [Microsoft Azure MFA ソリューション](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)を使用して多要素認証を有効にしたり、サード パーティ ベンダーの MFA ソリューションを採用することができます。</span><span class="sxs-lookup"><span data-stu-id="a459d-106">Partners can enable multi-factor authentication using [Microsoft Azure MFA solution](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks) or adopt a third-party vendors’ MFA solutions.</span></span> <span data-ttu-id="a459d-107">選択したサード パーティ ソリューションは、Microsoft Azure Active Directory でサポートされている必要がありますに注意してください。</span><span class="sxs-lookup"><span data-stu-id="a459d-107">Note, your selected third-party solution must be supported by Microsoft Azure Active Directory.</span></span> <span data-ttu-id="a459d-108">確認する、MFA ソリューション プロバイダーのドキュメントを参照してください。</span><span class="sxs-lookup"><span data-stu-id="a459d-108">Refer to your MFA solution provider documentation to confirm.</span></span> 
+<span data-ttu-id="4c1b9-106">今すぐ Microsoft パートナー センターでは多要素認証 (MFA) がパートナー センターへのアクセスを有効にする必要があります。</span><span class="sxs-lookup"><span data-stu-id="4c1b9-106">Microsoft Partner Center now requires you to enable multi-factor authentication (MFA) to access Partner Center.</span></span>  
+<span data-ttu-id="4c1b9-107">パートナーは、多要素認証を使用して有効にできます[Microsoft Azure の MFA ソリューション](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)またはサード パーティ ベンダーの MFA ソリューションを採用します。</span><span class="sxs-lookup"><span data-stu-id="4c1b9-107">Partners can enable multi-factor authentication using [Microsoft Azure MFA solution](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks) or adopt a third-party vendors’ MFA solutions.</span></span> <span data-ttu-id="4c1b9-108">Microsoft Azure Active Directory によって、選択したサード パーティ製ソリューションをサポートする必要がありますに注意してください。</span><span class="sxs-lookup"><span data-stu-id="4c1b9-108">Note, your selected third-party solution must be supported by Microsoft Azure Active Directory.</span></span> <span data-ttu-id="4c1b9-109">確認するには、MFA ソリューション プロバイダー ドキュメントを参照してください。</span><span class="sxs-lookup"><span data-stu-id="4c1b9-109">Refer to your MFA solution provider documentation to confirm.</span></span> 
 
-<span data-ttu-id="a459d-109">[Azure MFA の展開](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)について説明します。</span><span class="sxs-lookup"><span data-stu-id="a459d-109">Learn more about [Azure MFA deployment](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted).</span></span> 
+<span data-ttu-id="4c1b9-110">詳細については[Azure MFA のデプロイ](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)します。</span><span class="sxs-lookup"><span data-stu-id="4c1b9-110">Learn more about [Azure MFA deployment](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted).</span></span> 
  

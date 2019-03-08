@@ -3,20 +3,20 @@ title: DevOps コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: Microsoft の開発プラットフォームの DevOps 機能を活用することによりソフトウェア ライフサイクルを管理できるようにする点で企業と連携する経験が豊富にある場合、DevOps コンピテンシーはマイクロソフトのパートナーとしての地位を確立するために適切な選択肢です。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: コンピテンシー, コンピテンシー, DevOps
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4258beccb8f6e0d876e60ec6f5fcb16a6e265089
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 6c617358b097517258ed9f83aef9a3a9e9ab6d77
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098889"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585735"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="21a9a-104">このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。</span><span class="sxs-lookup"><span data-stu-id="21a9a-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="fd543-104">このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="fd543-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 
