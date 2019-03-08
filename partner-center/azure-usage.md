@@ -1,19 +1,19 @@
 ---
-title: 最大限の予約使用に Microsoft Azure VM サイズ |パートナー センター
+title: 最大予約の使用状況の Microsoft Azure VM のサイズ |パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-Description: When buying Microsoft Azure reservations on behalf of your customers, you’ll need to choose a virtual machine (VM) sized to meet the customer’s computing needs.
-author: v-petand
+Description: 顧客に代わって Microsoft Azure Reservations を購入するときは、顧客のコンピューティング ニーズに合わせて仮想マシン (VM) のサイズを選択する必要があります。
+author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, 予約, VM, 管理, 請求, 使用, サイズ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
-ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
+ms.openlocfilehash: cbe24b3da0b9cadf1ed9e8d9f06b5b575bf16d22
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "9014819"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586965"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ 
 
@@ -41,15 +41,15 @@ ms.locfileid: "9014819"
 >顧客に代わって購入する VM の種類とサイズを正しく特定するには、以下で説明するいずれかの方法を使用する必要があります。パートナー センターの調整ファイルには、VM 系列の種類が正しく表示されません。
 
 
-**Azure Utilization API を使用して VM サイズ情報を取得する**
+**VM の Azure 使用率の API を使用して情報をサイズ変更の取得します。**
 
 1.  API の応答に含まれる additionalInfo の ServiceType 属性の値を使用して、購入する VM サイズ を特定します。 
 
 2.  詳しくは、[パートナー センター API](https://docs.microsoft.com/partner-center/develop/) の「[Get a customer’s utilization records for Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)」 (顧客の Azure 使用率レコードを取得する) をご覧ください。 
 
-**Microsoft Azure portal を使用して VM サイズ情報を取得する**
+**VM サイズ、Microsoft Azure ポータルを使用して情報の取得します。**
 
-1.  パートナー センターで、**ユーザー**のページに移動します。
+1.  パートナー センターに移動、**顧客**ページ。
 
 2.  Azure VM 予約を購入する顧客を見つけ、下矢印を選択して顧客情報を展開します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。 
 
@@ -57,15 +57,15 @@ ms.locfileid: "9014819"
 
 4.  VM の詳細ページで、サイズと地域の情報を見つけます (下図参照)。パートナー センターで予約を購入する際には、この情報を使用します。  
 
-    ![詳細ページのサイズと地域の情報](images/usage1.png)
+    ![[詳細] ページのサイズとリージョンの情報](images/usage1.png)
 
-**Microsoft Azure PowerShell を使用して VM サイズ情報を取得する**
+**サイズ情報を Microsoft Azure PowerShell を使用して VM を取得します。**
 
 下の画像の情報を使用して、予約を購入する対象の VM の場所とサイズを取得します。 
 
 ![VM の場所とサイズ](images/usage2.png)
 
-**Azure Resource Manager (ARM) API を使用して VM サイズ情報を取得する**
+**VM の Azure リソース マネージャー (ARM) API を使用して情報をサイズ変更の取得します。**
 
 1.  ARMClient または ARM API を使用し、予約を購入する対象の VM に対して ARM クライアントを呼び出します。
 
@@ -93,7 +93,7 @@ ms.locfileid: "9014819"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Microsoft Azure portal で顧客の予約の使用状況を確認する
 
-1.  パートナー センターで、**ユーザー**のページに移動します。
+1.  パートナー センターに移動、**顧客**ページ。
 
 2.  予約割引と使用状況を確認する対象の顧客を見つけ、下矢印を選択して顧客情報を展開します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。 
 
@@ -108,7 +108,7 @@ ms.locfileid: "9014819"
     
     b.   予約の使用率が 0% の場合は、どの仮想マシンにも割引が適用されません。 
     
-    c.   予約の使用率が 1% ～ 99% の場合は、特典が一部使用されません。 
+    c.  予約の使用率が 1% ～ 99% の場合は、特典が一部使用されません。 
 
 5.  このような状況を避けるには、購入を行う前に、顧客のコンピューティング ニーズをサポートするために適した VM のサイズを決定します。
 
@@ -131,11 +131,11 @@ Azure Utilization API を使用すると、予約の使用状況データを取�
 >現時点では、Microsoft Windows Server などのソフトウェアの料金は VM 予約の価格に含まれず、注文レコードと請求書に個別の明細項目として表示されます。 ただし、顧客が Azure ハイブリッド特典を利用できる場合、ソフトウェア料金は適用されません。 詳しくは、「[Windows software costs not included with Reserved Instances](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs)」 (予約インスタンスに含まれない Windows ソフトウェアの料金) をご覧ください。  
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
-|**情報**   |**参照先**    |
+|**について**   |**この記事を読む**    |
 |:-----------------------------|:-----------------|
-|CSP での Azure Reservations 概要  | [Microsoft Azure Reserved VM Instances の販売](azure-reservations.md)
-|パートナー センターで顧客の Azure reservations を購入します。   |[Azure Reservations の購入](azure-reservations-buying.md)
-|パートナー センターで Azure reservations を管理します。 | [パートナー センターで Azure reservations を管理します。](azure-reservations-manage.md)
+|CSP での Azure Reservations 概要  | [Microsoft Azure 予約 VM インスタンスを販売します。](azure-reservations.md)
+|パートナー センターで顧客向けの Azure 予約を購入   |[Azure 予約を購入します。](azure-reservations-buying.md)
+|パートナー センターでの Azure 予約を管理します。 | [パートナー センターでの Azure 予約を管理します。](azure-reservations-manage.md)
 |Azure portal で Azure Reservations を購入する | [Azure Reserved VM Instances による仮想マシン料金の前払い](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) (Azure ヘルプ) |
 |Azure portal で Azure Reservations を管理する   |[予約済み VM インスタンスの管理](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) (Azure ヘルプ)  |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)

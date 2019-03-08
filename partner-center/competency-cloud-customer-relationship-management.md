@@ -3,20 +3,20 @@ title: Cloud Customer Relationship Management コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: Cloud Customer Relationship Management コンピテンシーを取得して、Microsoft Dynamics CRM Online または Dynamics 365 のプレミアム プロバイダーとなりましょう。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: コンピテンシー,コンピテンシー,Cloud Customer Relationship Management
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8eec85b1be8b16ec161733d956b90d6c11e9531e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 97213ea35a0188819c7d4d1132a98582b9e18fc7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796285"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586355"
 ---
 >[!IMPORTANT]
->このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。
+>このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。
 
 <!--
 #Cloud Customer Relationship Management

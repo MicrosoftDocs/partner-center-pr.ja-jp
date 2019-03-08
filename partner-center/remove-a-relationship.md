@@ -3,15 +3,15 @@ title: 顧客との再販業者関係の削除 | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
 description: 関係を削除すると、終了したすべてのビジネス関係がパートナー センターのビューから削除されます。
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3697d32af38e0f9cd496a84d442fb05390f63101
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 02ce021614081caf088358513c4a7b5c7fe26a10
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062270"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587905"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>顧客との再販業者関係の削除
 
@@ -28,11 +28,11 @@ ms.locfileid: "9062270"
 *  パートナー様は顧客の代理として製品やサービスを購入できなくなります。
 
 関係を削除するには、Azure RI 予約をキャンセルし、ソフトウェアの購入をキャンセルして、残りのアクティブなサブスクリプションをまず中断する必要があります。
-1. すべてのアクティブなサブスクリプションを中断します。 **顧客**_gt 選択には、パートナー センターから顧客 _gt**サブスクリプション**_gt 選択サブスクリプション _gt**保留**を移動します。 
+1. すべてのアクティブなサブスクリプションを中断します。 移動し、パートナー センター**顧客**> 顧客を選択 >**サブスクリプション**> サブスクリプションを選択 > **Suspended**します。 
 
    アクティブなサブスクリプションごとに、この手順を繰り返します。
 
-2. パートナー センターでの関係を削除:、パートナー センターからに移動**ユーザー** _gt 選択顧客 _gt**アカウント** > **再販業者関係を削除**します。
+2. パートナー センターで、リレーションシップを削除します。移動し、パートナー センター**顧客**> 顧客を選択 >**アカウント** > **再販業者関係の削除**します。
 
    ただし、いずれかのサブスクリプションがアクティブなままである場合、**[再販業者関係の削除]** リンクはアクティブになりません。 
 

@@ -10,18 +10,18 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995906"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584385"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未払い、詐欺、不正使用
 
 **適用対象**
 
 -  パートナー センター
--  Microsoft Cloud for US Government のパートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 
 
 
@@ -67,7 +67,7 @@ ms.locfileid: "8995906"
 #### <a name="post-purchase-customer-account-management"></a>購入後の顧客アカウント管理
 - 顧客と連携して、クラウド利用のビジネス ニーズを理解し、適切な監視しきい値を設定します。
     > [!NOTE]  
-    >  月に顧客の使用状況を監視し、ユーザーは、支出が予算ときに通知されるパートナー センターでの[Azure の月額支出予算を設定](set-an-azure-spending-budget-for-your-customers.md)することができます。
+    >  できます[月単位の Azure 支出予算を設定](set-an-azure-spending-budget-for-your-customers.md)月中に顧客の使用状況を監視し、お客様は、予算に近い、ときに通知をパートナー センターでします。
 - [顧客のアクティビティ ログ](activity-logs.md)を定期的に監視することにより、詐欺を早い段階で検出します。
 - 疑わしい活動が検出されたら、迅速にアクションを実行します。
 - リスク軽減コントロールを実装する前に、サブスクリプションへの完全な管理アクセス権を顧客に設定しないでください。

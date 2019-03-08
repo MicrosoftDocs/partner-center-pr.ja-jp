@@ -3,20 +3,20 @@ title: アプリケーション開発コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: すばやいソフトウェア配信と継続的な機能強化を可能にします。 6 万を超えるアプリケーション ビルダー パートナーに加わってビジネスを差別化し、アプリケーション開発コンピテンシーを取得することで Microsoft パートナーとしての地位を確立しましょう。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: コンピテンシー,コンピテンシー,クラウド ビジネス アプリケーション,アプリケーション開発
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: c367960a24cdf278991cc74cd5354c8886d67694
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5a0123f1ec9052f409ad9964cf9c1761f9df7bb2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795035"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583895"
 ---
 >[!IMPORTANT]
->このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。
+>このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。
 
 <!--
 

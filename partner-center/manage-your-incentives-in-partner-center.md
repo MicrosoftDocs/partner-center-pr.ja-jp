@@ -3,15 +3,15 @@ title: パートナー センターでインセンティブを管理する | パ
 ms.topic: article
 ms.date: 10/29/2018
 description: Microsoft パートナー インセンティブ プログラムがパートナーの収益性と成長をサポート
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3232f52f3c04d61fb57fdada40a98612341972fc
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 644ac2020551e199ff20f520a8ac3c68ddbece54
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995646"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586995"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>パートナー センターでインセンティブを管理する 
 
@@ -49,10 +49,10 @@ ms.locfileid: "8995646"
 インセンティブ管理者が資格情報を受け取ったら、組織がインセンティブをパートナー センターで管理できるように組織の移行を完了できます。
 
 
-[ユーザー アカウントの作成とアクセス許可の設定](create-user-accounts-and-set-permissions.md)
+[ユーザー アカウントを作成し、アクセス許可を割り当てる](create-user-accounts-and-set-permissions.md)
 
-[ユーザー パスワードをリセットする](reset-a-user-password.md)
+[ユーザー パスワードをリセットします。](reset-a-user-password.md)
 
-[インセンティブの支払いについて](understand-incentive-payouts.md)
+[インセンティブ支払いを理解します。](understand-incentive-payouts.md)
 
-詳細については、[パートナー インセンティブ協力プレイ ガイドブック](https://assets.microsoft.com/coop-guidebook.pdf)をご覧ください。
+詳細については、[パートナー協力インセンティブ ガイドブック](https://assets.microsoft.com/coop-guidebook.pdf)を参照してください。

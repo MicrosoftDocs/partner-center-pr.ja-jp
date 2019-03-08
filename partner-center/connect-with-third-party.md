@@ -3,16 +3,16 @@ title: ポートフォリオにサード パーティ製ソフトウェアを追
 ms.topic: article
 ms.date: 10/29/2018
 description: マイクロソフト製品と連動するサード パーティ製ソフトウェアを購入する
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: 購入するサード パーティ製製品、ソフトウェア
 ms.localizationpriority: medium
-ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb378c5fded17bd7f8f7c35d375278097fc32098
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795765"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586815"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>ポートフォリオにサード パーティ製ソフトウェアを追加する
 
@@ -24,7 +24,7 @@ ms.locfileid: "5795765"
 
 現在、パートナー センターには、Azure、Office 365、Dynamics と統合されるサード パーティ製品が用意されています。 
 
-## <a name="connect-with-third-party-partners"></a>サード パーティのパートナーとの連携します。
+## <a name="connect-with-third-party-partners"></a>サード パーティ パートナーとつながる
  
 CSP パートナーとして、サード パーティ製ソフトウェアを検索することができます。 ISV パートナーと連携して、製品のカタログを構築できます。 ISV パートナーも、連携する CSP パートナーを検索することもできます。 CSP パートナーが販売している マイクロソフト製品の種類で検索を掛け、そのビジネス プロファイルを閲覧することができます。 ビジネス プロファイルを最新の状態に保つことは重要です。 ISV パートナーの製品に関心がある場合は、そのことを知らせるために、商品 ID にある [興味あり] ボタンをクリックし、ポップアップ表示されるフォームに記入します。 マイクロソフトが、その内容を ISV パートナーに送信します。 ISV パートナーからの応答はパートナー センターで保持されます。 同様に、ISV パートナーが CSP パートナーとの連携に関心を表す場合、CSP パートナーはパートナー センター経由で通知を受けます。 48 時間以内に応答するようにしてください。
 
@@ -56,7 +56,7 @@ ISV パートナーは、いつでも製品を「要承認」と定めること�
 
 サード パーティ製ソフトウェアを購入する方法は、ファースト パーティ製ソフトウェアを購入する場合と同じです。 
 
-1. **パートナー センター**から**顧客**を選択します。
+1. **パートナー センター**、**顧客**
 2. **[新しいサブスクリプション]** を選びます。
 3. サード パーティ製ソフトウェアの月次請求を選択します。 年次請求と試用版は、現在サード パーティについては利用できません。
 4. [サード パーティ] タブで購入する製品を選びます。

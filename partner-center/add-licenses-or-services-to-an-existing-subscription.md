@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: 既存のサブスクリプションにライセンスを追加する, 既存のサブスクリプションにシートを追加する, サブスクリプションを変更する, サブスクリプションの変更, 顧客のライセンスを追加購入する
 ms.localizationpriority: medium
 ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098779"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585435"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>既存のサブスクリプションへのライセンスまたはサービスの追加
 
@@ -21,7 +21,7 @@ ms.locfileid: "9098779"
 
 -  パートナー センター
 
-顧客が現在提供されているサブスクリプションよりも多くのシートを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。 詳しくは、「[別の一般法人向け Office 365 プランに切り替える](https://go.microsoft.com/fwlink/p/?LinkId=723577)」をご覧ください。
+顧客が現在提供されているサブスクリプションよりも多くのシートを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。 詳しくは、[別の一般法人向け Office 365 プランに切り替える](https://go.microsoft.com/fwlink/p/?LinkId=723577)」をご覧ください。
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -41,7 +41,7 @@ ms.locfileid: "9098779"
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office365Business</td>
+<td>Office 365 Business</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 ProPlus</li>
@@ -50,14 +50,14 @@ ms.locfileid: "9098779"
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office365BusinessPremium</td>
+<td>Office 365 Business Premium</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office365BusinessEssentials</td>
+<td>Office 365 Business Essentials</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 Enterprise E1</li>
@@ -67,7 +67,7 @@ ms.locfileid: "9098779"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office365BusinessIndia と Office365BusinessEssentialsIndia Office365BusinessPremium しないように、Office365BusinessPremiumIndia にアップグレードできます。</p></td>
+<td><p>¹ の office 365 ビジネス インドと Office 365 Business Essentials インドは、Office 365 Business Premium インド、Office 365 Business Premium にアップグレードすることができます。</p></td>
 </tr>
 </tbody>
 </table>
@@ -78,7 +78,7 @@ ms.locfileid: "9098779"
 
 -   サブスクリプションがアクティブである (中断またはキャンセルされていない)。
 
--   その顧客とサービスに対する委任された管理者特権を持っている。 「[委任された管理者特権の要求](request-a-relationship-with-a-customer.md)」を確認してください。
+-   その顧客とサービスに対する委任された管理者特権を持っている。 [代理管理者特権を要求する方法](request-a-relationship-with-a-customer.md)を確認してください。
 
 -   顧客がその追加サービスを含むサブスクリプションをまだ持っていない。
 
@@ -88,12 +88,12 @@ ms.locfileid: "9098779"
 
 これが課金に及ぼす影響については、「[一般的な課金シナリオ](common-billing-scenarios.md)」で、サブスクリプションをキャンセルして新しいサブスクリプションを追加する方法を確認してください。
 
-**サブスクリプションをアップグレードする**
+**サブスクリプションをアップグレードします。**
 
 1.  サブスクリプションがアップグレードの対象かどうかを調べるには、顧客を選択し、顧客のサブスクリプションの一覧を開きます。
 2.  サブスクリプションがアップグレード可能な場合、サブスクリプション名の直後に情報アイコンが表示されます。 そのアイコンの上をホバーし、**[今すぐアップグレード]** を選びます。
 3.  新しいプランを選択し、**[送信]** を選びます。
-4.  一部のユーザー アカウントを特定のサービス向けに切り替えるための追加作業が必要な場合があります。 その場合は、パートナー センターは、アカウントとサービスを受けるの一覧を示します。 ヘルプが必要な場合は、サポート技術情報の記事「[Office 365 でプランを切り替える際に発生するライセンスの再アサイン問題](https://go.microsoft.com/fwlink/p/?LinkId=723576)」をご覧ください。
+4.  一部のユーザー アカウントを特定のサービス向けに切り替えるための追加作業が必要な場合があります。 そうである場合、パートナー センター アカウントと影響を受けたサービスの一覧を提供します。 ヘルプが必要な場合は、サポート技術情報の記事「[Office 365 でプランを切り替える際に発生するライセンスの再アサイン問題](https://go.microsoft.com/fwlink/p/?LinkId=723576)」をご覧ください。
 
  
 

@@ -3,16 +3,16 @@ title: パートナー センターのデータ & 分析 | パートナー セ�
 ms.topic: article
 ms.date: 10/29/2018
 description: パートナー センターのデータの機能を使用すると、顧客のニーズについて理解を深めることができます
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-Keywords: data, analytics, usage, skills
+Keywords: データ、分析、使用量、スキル
 ms.localizationpriority: medium
-ms.openlocfilehash: dae8988cf47d68c84258fcdde665d2c6258cf3bd
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 946a7e0e7fcbc4133e53f985508049a65ada0e45
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795625"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585795"
 ---
 # <a name="data-and-analytics-in-partner-center"></a>パートナー センターでのデータ & 分析
 

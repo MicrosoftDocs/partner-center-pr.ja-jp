@@ -1,19 +1,19 @@
 ---
-title: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する | 米国政府機関向け Microsoft Cloud のパートナー センター
+title: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録 | 米国政府機関向け Microsoft Cloud のパートナー センター
 ms.topic: article
 ms.date: 10/29/2018
 description: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 0df1f72cdb0b062774accfd15299f046dac19031
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098819"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585645"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する
+# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録
 
 **適用対象**
 
@@ -23,7 +23,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 米国政府機関向け Microsoft Cloud では、米国の政府機関のデータ セキュリティ、プライバシー、コンプライアンスの要件のニーズを満たす、非公開で専用の、独立した Microsoft Azure のインスタンスを提供します。 お客様の会社が米国政府機関向け Microsoft Cloud の CSP プログラムに参加するには、Microsoft の適格性の要件を満たしている必要があります。 詳細については、「[米国政府機関向け Microsoft Cloud のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)」を参照してください。
 
-## <a name="before-you-begin"></a>開始する前に
+## <a name="before-you-begin"></a>始める前に
 
 米国政府機関向け Microsoft Cloud の CSP プログラムに登録する前に、お客様の会社が米国政府機関への販売の要件を満たしていることを確認する必要があります。 登録プロセスを開始する前に、Microsoft がお客様の会社の適格性を確認できるように、[Microsoft Government Cloud Validation Form](https://azuregov.microsoft.com/csp) に必要事項を記入してください。 Microsoft は、お客様の会社の適格性を確認した後、米国政府機関向け Microsoft Cloud 固有の Azure Active Directory (Azure AD) テナントを提供します。  
 
@@ -40,7 +40,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 ### <a name="step-1---create-a-partner-center-account-for-microsoft-cloud-for-us-government"></a>手順 1 - 米国政府機関向け Microsoft Cloud 用にパートナー センター アカウントを作成する
 
-1.  [ここ](https://partnercenter.microsoft.com/register/resellerusgjoinnow)から登録プロセスを開始します。 
+1.  [ここをクリック](https://partnercenter.microsoft.com/register/resellerusgjoinnow)して登録プロセスを開始します。 
 
 2.  組織の米国政府機関向け Microsoft Cloud 用の組織の Azure AD テナントのグローバル管理者の資格情報を使ってサインインします。 組織がこのポータルのアカウントを持っていない場合、[Microsoft Government Cloud Validation Form](https://azuregov.microsoft.com/csp) に必要事項を記入してアカウントの作成を依頼できます。
 
@@ -49,7 +49,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 1.  Microsoft Partner Network ID や組織のカスタマー サポートに関する情報など、不足している情報を登録フォームに入力します。 
 
-2.  **[同意して続行する]** を選択します。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
+2.  **[Accept and continue] (同意して続ける)** を選びます。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
 
     > [!IMPORTANT]  
     > **[同意して続行する]** を選択することにより、組織の代理として行為する権限が認められていることを確認するもの、そして Microsoft が組織のクラウド ソリューション プロバイダーの申し込みを確認する前に与信審査を実行することを許可するものと見なされます。
@@ -69,7 +69,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 > [!NOTE]  
 > ユーザーを管理エージェント ロールに割り当てると、**[顧客]** ページで顧客の一覧にアクセスし、[新しい顧客を追加](add-a-new-customer.md)できるようになります。   
 
-1.  Microsoft Azure 管理ポータルにサインインhttps://portal.azure.us/します。
+1.  Microsoft Azure 管理ポータル (https://portal.azure.us/) にサインインします。
 
 2.  管理エージェント ロールを組織内の適切なユーザーに割り当てます。 これを行うには、組み込みの **AdminAgent** グループにこれらのユーザーを追加する必要があります。 これを行う方法については、「[Azure Active Directory テナントでユーザーのグループ メンバーシップを管理する](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)」を参照してください。
  
@@ -81,8 +81,8 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 ## <a name="related-topics"></a>関連トピック
 
--  [米国政府機関向け Microsoft Cloud のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
+-  [米国政府機関向け Microsoft クラウドのパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
+-  [米国政府機関向け Microsoft クラウドのパートナー センターでユーザーとライセンスの管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 
 

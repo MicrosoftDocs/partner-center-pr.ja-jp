@@ -2,17 +2,17 @@
 title: Microsoft Partner Network の特典の管理 | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: Microsoft Partner Network のメンバーは、特定のメンバーシップ特典を購入することができます。 ライセンス認証を実行し、パートナー センターでメンバーシップ特典を管理する方法について説明します。
+description: Microsoft Partner Network のメンバーは、特定のメンバーシップ特典を購入することができます。 アクティブ化し、パートナー センターでのメンバーシップ特典を管理する方法について説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN、メンバーシップ特典、メンバーシップ
 ms.localizationpriority: medium
 ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796385"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584705"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 
@@ -21,19 +21,19 @@ ms.locfileid: "5796385"
 -  パートナー センター
 
 >[!IMPORTANT]
->この記事では、Microsoft Partner Network (MPN) の使用を開始する方法を説明します。 このサイト (旧称パートナー センター) - パートナー センターでメンバーシップ特典します。 情報に移動する会社 Partner Membership Center (PMC) からパートナー センターへの招待を受け取っていない場合、は、MPN メンバーシップの特典を PMC で管理が引き続きにする必要があります。 PMC に[サインイン](https://partner.microsoft.com/_login?authType=OpenIdConnect)します。   
+>この記事では、Microsoft Partner Network (MPN) の使用を開始する方法を説明します。 このサイト特典 (旧称パートナー センター) のパートナー センターでのメンバーシップ。 場合は、パートナー センターに会社の情報をパートナー メンバーシップ センター (PMC) を移動する招待を受信していない、PMC で、MPN メンバーシップ特典の管理を続行してください。 PMC に[サインイン](https://partner.microsoft.com/_login?authType=OpenIdConnect)します。   
 
 Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成長に役立つメンバーシップ特典にアクセスできます。 まだ MPN のメンバーでない場合は、[MPN サイト](https://partner.microsoft.com/membership)から登録できます。
 
 
-## <a name="manage-your-membership-benefits-in-the-partner-center"></a>パートナー センターでメンバーシップ特典を管理します。
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>パートナー センターで、メンバーシップ特典を管理します。
 
 メンバーシップ特典パッケージを購入した後は、使用を開始できるように、ソフトウェア キーを入手して、従業員にライセンス、サブスクリプション、その他の特典を割り当てる必要があります。 
 
 >[!IMPORTANT]
->特典を購入する組織のグローバル管理者であるがないときにを従業員に特典を割り当てるには、グローバル管理者であることを必要があります。  [**特典**のページ](https://partnercenter.microsoft.com/pcv/partnership/benefits)上の手順に従って、グローバル管理者する場合は、なることができます (サインインが必要)。 また、組織は、チームを確認することを確認するための全体管理者を既にがあります。
+>特典を購入するために組織内の全体管理者である必要はありませんが、特典を従業員に割り当てるには全体管理者である必要があります。  必要に応じて、[**[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) で、次の手順に従って全体管理者になることができます。 また、組織に既に全体管理者がいる場合があるため、必ずチームで確認してください。
 
-Action Pack サブスクリプションでは、社内使用ライセンスのソフトウェア、クラウド サービス、Visual Studio サブスクリプション、サポートが割り当てられます。 [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) サイトで Action Pack サブスクリプションの詳細を確認できます。  
+Action Pack サブスクリプションでは、内部使用権ソフトウェア ライセンス、クラウド サービス、Visual Studio サブスクリプション、サポートが割り当てられます。 [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) サイトで Action Pack サブスクリプションの詳細を確認できます。  
 
 メンバーシップ特典を表示および管理するには、[**[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) にアクセスします。
 
@@ -43,15 +43,15 @@ Action Pack サブスクリプションでは、社内使用ライセンスの�
 
 2.  使い始める製品を見つけ、行の右端にある下向き矢印を選んで製品の詳細を展開します。 
 
-3. 各ソフトウェア製品は、以下の手順で使用を開始できます。
+3. 各ソフトウェア製品は、以下の手順で開始できます。
 
     a.  **[キーの取得]** を選んで、製品ライセンスキーを取得します。 記載されている特別な指示に必ず従ってください。
 
     b.  製品を表示する言語を選びます。
 
-    c.  ソフトウェアをインストールするコンピューターのオペレーティング システム (OS) の種類を選びます。
+    c. ソフトウェアをインストールするコンピューターのオペレーティング システム (OS) の種類を選びます。
 
-    d.  ダウンロードのリンクをクリックして、ソフトウェア インストール パッケージをインストールします。
+    d. ダウンロードのリンクをクリックして、ソフトウェア インストール パッケージをインストールします。
 
 
 #### <a name="manage-cloud-services-benefits"></a>クラウド サービス特典を管理する
@@ -90,7 +90,7 @@ Action Pack サブスクリプションでは、社内使用ライセンスの�
 
 3. サポート特典をアクティブ化するには、ユーザーをサポート特典に割り当てます。 
    
-    a .  一覧からユーザーを選びます。 割り当てるユーザーが一覧に表示されない場合は、**[アカウント設定]** で[新しいユーザーを追加](create-user-accounts-and-set-permissions.md)します。
+    a.   リストからユーザーを選びます。 割り当てるユーザーが一覧に表示されない場合は、**[アカウント設定]** で[新しいユーザーを追加](create-user-accounts-and-set-permissions.md)します。
 
     b.   パートナーセンターアカウントに関連付けられたメール アドレスとは異なるユーザー メール アドレスを入力します。 
     
@@ -104,8 +104,8 @@ Action Pack サブスクリプションでは、社内使用ライセンスの�
 
 #### <a name="see-also"></a>関連項目
 
-[ユーザーの追加とアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)
+[ユーザーを追加し、それらへのアクセス許可を割り当てる](create-user-accounts-and-set-permissions.md)
 
-[Microsoft Action Pack サブスクリプションの購入と更新](mpn-get-action-pack.md)
+[購入またはマイクロソフト アクション パック サブスクリプションの更新](mpn-get-action-pack.md)
 
 

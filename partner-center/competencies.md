@@ -3,17 +3,17 @@ title: Microsoft コンピテンシーを獲得する | パートナー セン�
 ms.topic: article
 ms.date: 10/29/2018
 description: Silver と Gold の Microsoft コンピテンシーを獲得すると、専門のビジネス分野での質の高いソリューション提供の実績と専門知識を証明できます。
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 技能, 利点, パフォーマンス目標, スキル目標
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 23abe1e491eab6eb4811bf7d87095b2a525e65bc
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: d0c78aa6c84cc1385e7c3ddeef5d434e91e1740a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098789"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586125"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -38,9 +38,9 @@ Microsoft コンピテンシーの成績は、高品質なソリューション�
 
 *  **実証済みの専門知識をデモンストレーションする**。 特定の基幹業務のニーズを満たすことができることを見込み客に示すことで、[多くのビジネスを獲得する](referrals.md)。
 
-## <a href="" id="attainment_paths"></a>コンピテンシー パス
+## <a href="" id="attainment_paths"></a> コンピテンシーのパス
 
-[Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](learn-about-competencies.md)
+[シルバーまたはゴールドのメンバーシップの能力の要件](learn-about-competencies.md)
 
 ## <a name="earn-competencies"></a>コンピテンシーを獲得する
 
@@ -58,15 +58,15 @@ Microsoft コンピテンシーの成績は、高品質なソリューション�
 
 コンピテンシーによっては、Silver または Gold レベルに到達する方法がいくつかあります。
 
-パートナー センターのパートナー センターから、コンピテンシーの進行状況を確認するには、**パートナーシップ _gt コンピテンシー**に移動します。 
+コンピテンシーを取得、パートナー センターのパートナー センターからの進行状況をチェックするには、**パートナーシップ > コンピテンシー**します。 
 
-### <a href="" id="associating_achievements"></a>従業員をつなげてスキル ベースの目標を達成する
+### <a href="" id="associating_achievements"></a>完全なスキルに基づく目標に接続されている従業員を取得します。
 
-1.  組織の従業員のユーザー アカウントを追加します。 [パートナー センター](https://partnercenter.microsoft.com)で、**ユーザーのアカウント設定 _gt 追加**に移動します。 (PMC ユーザーは、**[PMC データを使ってユーザーを追加する]** を選択することで一度に複数のユーザーを追加することができます)。
+1.  組織の従業員のユーザー アカウントを追加します。 [パートナー センター](https://partnercenter.microsoft.com)に移動して、**アカウント設定 > ユーザーの追加**します。 (PMC ユーザーは、**[PMC データを使ってユーザーを追加する]** を選択することで一度に複数のユーザーを追加することができます)。
 
     ユーザー アカウントが作成されたら、新しいユーザー名とパスワードが送信され、ユーザー名とパスワードのリセットに関する情報を含むログ ファイルをダウンロードするように求められます。 [ユーザー アカウントをセットアップして、自分でパスワードをリセットできるように](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)することもできます。
 
-2. 組織の従業員に、サインインして自分のユーザー アカウントに Microsoft アカウント (MSA) を関連付けるように求めます  ([パートナー センター](https://partnercenter.microsoft.com)に移動する**アカウントの設定**。従業員は、同じまたは別の Msa を使用して、Microsoft 技術試験および認定資格と自分の Microsoft Partner University を通じてアカウントに関連付けます。
+2. 組織の従業員に、サインインして自分のユーザー アカウントに Microsoft アカウント (MSA) を関連付けるように求めます  (から、[パートナー センター](https://partnercenter.microsoft.com)に移動して、**アカウント設定**)。従業員は、同じまたは別の Msa を使用して、マイクロソフトの技術認定資格試験と認定資格と Microsoft Partner University を通じて自分のアカウントに関連付けることができます。
 
 3.  従業員が自分のアカウントを関連付けるか、スキル ベースの目標を完了してから、**24 時間待ちます**。 その後、進行状況が **[コンピテンシー]** セクションに表示されます。
 
@@ -84,13 +84,13 @@ Silver 特典パックを購入するには、1 つのパスで Silver レベル
 
 Gold 特典パックを購入するには、1 つのパスで Gold レベルの能力を証明するだけで実行できます。 Gold にアップグレードすると、それまでに達成したすべての Silver レベルと Gold レベルの両方のコンピテンシーがビジネス プロファイルに表示されます。 
 
-### <a href="" id="maintain_membership"></a>メンバーシップを維持および更新する
+### <a href="" id="maintain_membership"></a> 管理し、メンバーシップを更新
 
 メンバーシップを更新するには、マイクロソフト製品とサービスの能力要件を充足し続ける必要があります。 サブスクリプションのステータスは、購入した年の年末まで維持されます。
 
 要件が充足されないままサブスクリプションが終了すると、同じレベルのパートナー メンバーシップをアップグレードまたは更新できなくなる可能性があります。 
 
-**"A recent change to your competency achievement has put your membership renewal eligibility at risk"** (コンピテンシーの達成状況が最近変化したため、メンバーシップの更新資格を失う危険性があります) という警告は、1 つ以上のコンピテンシー要件が充足されておらず、期限切れになる危険がある場合に表示されます。 
+場合は、アラートが表示されます。**「最近の変更、コンピテンシーの達成には、メンバーシップの更新の資格を危険にさらすが」**、つまり、1 つ、またはコンピテンシーご自分のアチーブメントが期限切れにならないのは危険です。 
 
 この状況は、組織のコンピテンシー達成時に試験要件や認定要件の充足に寄与した従業員が、組織を離れた場合によく起こります。 
 
@@ -100,4 +100,4 @@ Gold 特典パックを購入するには、1 つのパスで Gold レベルの�
 
 ## <a name="related-topics"></a>関連トピック
 
-[Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](learn-about-competencies.md)
+[シルバーまたはゴールドのメンバーシップの能力の要件](learn-about-competencies.md)

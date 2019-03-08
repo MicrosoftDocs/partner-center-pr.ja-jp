@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2018
 description: CSP プログラムのパートナーになると、パートナーの組織に与信限度額が割り当てられ、顧客からの支払いを受ける前に、顧客に販売するソフトウェアを購入できます。
 ms.assetid: ''
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-keywords: 与信限度額、購入、制限を増やす、引き上げ
+keywords: credit limit, purchasing, limit increase, credit line
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 29ea91d24e141deb843f7ba00e438f882a092fff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 5183e3787f3573b0d7f2bd2f318fa48ef68c3922
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917394"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586185"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>クラウド ソリューション プロバイダー (CSP) アカウントの与信限度額
 

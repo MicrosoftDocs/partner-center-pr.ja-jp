@@ -1,21 +1,21 @@
 ---
-title: 顧客に代わって Microsoft Azure Reservations を購入する | パートナー センター
+title: 顧客に代わって Microsoft Azure Reservations を購入する   | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-Description: You can buy Azure reservations on behalf of your customers in Partner Center.
-author: v-petand
+Description: パートナー センターで顧客に代わって Azure 予約を購入することができます。
+author: LauraBrenner
 ms.author: v-petand
-keywords: azure reservations を管理, 請求, 購入
+keywords: Azure, 予約, 管理, 請求, 購入
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6ce50f5269c95ba923b81a062c6f43a94bbff945
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8ee2fcf44d66001d3c8a7323467bda22bc5b2b6b
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917554"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584715"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure reservations を購入します。 
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure 予約を購入します。 
 
 **適用対象**
 
@@ -23,15 +23,15 @@ ms.locfileid: "8917554"
 -  Microsoft Azure portal
 -  CSP のパートナー
 
-## <a name="before-you-begin"></a>開始する前に
+## <a name="before-you-begin"></a>始める前に
 
-顧客に代わって Azure reservations を購入する前に、以下の重要な情報を確認します。
+顧客に代わって Azure 予約を購入する前に、以下の重要な情報を確認します。
 
 -   顧客に代わって予約を購入するには、あらかじめ顧客がアクティブな Azure サブスクリプションを持っている必要があります。
   
--   SQL データベースまたは SUSE Linux ソフトウェアなどのソフトウェア サブスクリプション コストは Azure 予約の価格に含まれていません
+-   SQL Database または SUSE Linux ソフトウェアなどのソフトウェア サブスクリプションのコストは、Azure 予約価格には含まれません
 
--   Microsoft の商用の価格は含まれません税金の場所がブラジルしない限り。 商用価格にはの場所がブラジルである場合は、適切な税が含まれています 
+-   Microsoft の商用の価格は税金は含まれませんの場所がブラジルしない限り、します。 商用価格には、場所がブラジルの場合は、適切な税金が含まれています 
  
 -   販売担当者およびヘルプ デスク担当者は、顧客に代わって Azure portal で Azure サブスクリプションの購入または管理を行い、サポート要求 (交換や返金を含む) を登録できるように、Azure サブスクリプションへの明示的なアクセス許可を持っている必要があります。  
 
@@ -41,15 +41,15 @@ ms.locfileid: "8917554"
 
 -   顧客が Azure サブスクリプションを直接サブスクリプションまたは EA サブスクリプションから CSP に移行した場合、予約は移行されません。 
 
-## <a name="azure-reservations-unavailable-markets"></a>Azure reservations を利用できない市場
+## <a name="azure-reservations-unavailable-markets"></a>Azure 予約利用不可の市場
 
 >[!IMPORTANT] 
->Azure reservations*は*利用可能な次の市場でです。  
+>Azure 予約*ない*市場で使用できます。  
 >  
-> | 利用できない市場 | &nbsp; | &nbsp; |
+> | 利用不可の市場 | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | オーランド諸島                  | グリーンランド                         | パラオ                                    |
-> | アメリカ領サモア                 | グレナダ                           | パプアニューギニア                         |
+> | 米領サモア                 | グレナダ                           | パプアニューギニア                         |
 > | アンドラ                        | グアドループ                        | ピトケアン島                         |
 > | アンギラ                       | グアム                              | レユニオン                                  |
 > | 南極                     | ガーンジー島                          | ロシア連邦                       |
@@ -59,18 +59,18 @@ ms.locfileid: "8917554"
 > | ベラルーシ                        | ハイチ                             | サンマルタン島                             |
 > | ベナン                          | ハード・マクドナルド諸島 | サンピエール・ミクロン                |
 > | ブータン                         | インド                             | セントビンセントおよびグレナディーン諸島         |
-> | ボネール島                        | マン島                       | サモア独立国                                    |
+> | ボネール島                        | マン島                       | サモア                                    |
 > | ブーベ島                  | ヤンマイエン島                         | サンマリノ                               |
 > | ブラジル                         | ジャージー島                            | サントメ・プリンシペ                    |
 > | 英領インド洋地域 | カザフスタン                        | セーシェル                               |
 > | 英領バージン諸島         | キリバス                          | シエラレオネ                             |
-> | ブルキナファソ                   | 韓国                | シント・ユースタティウス島                           |
-> | ブルンジ                        | コソボ                            | シント・マールテン島                             |
+> | ブルキナファソ                   | 大韓民国                | シント ・ ユースタティウス島                           |
+> | ブルンジ                        | Kosovo                            | シント・マールテン島                             |
 > | カンボジア                       | ラオス                              | ソロモン諸島                          |
 > | 中央アフリカ共和国       | レソト                           | ソマリア                                  |
-> | チャド                           | リベリア                           | サウスジョージア・サウスサンドウィッチ諸島 |
+> | チャド                           | リベリア                           | サウスジョージア ・ サウスサンドウィッチ諸島 |
 > | 中国                          | マダガスカル                        | 南スーダン                              |
-> | クリスマス島               | マラウイ                            | セントヘレナ、アセンションおよびトリスタンダクーニャ   |
+> | クリスマス島               | マラウイ                            | セントヘレナ、アセンション、トリスタンダクーニャ諸島   |
 > | ココス諸島        | モルディブ                          | スリナム                                 |
 > | コモロ                        | マリ                              | スバールバル諸島                                 |
 > | コンゴ共和国                          | マーシャル諸島                  | スワジランド                                |
@@ -81,7 +81,7 @@ ms.locfileid: "8917554"
 > | 赤道ギニア              | モンセラット                        | トンガ                                    |
 > | エリトリア                        | モザンビーク                        | タークス・カイコス諸島                 |
 > | フォークランド諸島               | ミャンマー                           | ツバル                                   |
-> | フランス領ギアナ                  | ナウル                             | 合衆国領有小離島                    |
+> | フランス領ギアナ                  | ナウル                             | 米領領有小離島                    |
 > | フランス領ポリネシア               | ニューカレドニア                     | ウクライナ                                  |
 > | 仏領極南諸島    | ニジェール                             | バヌアツ                                  |
 > | ガボン                          | ニウエ                              | バチカン市国                             |
@@ -89,54 +89,54 @@ ms.locfileid: "8917554"
 > | ジブラルタル                      | 北マリアナ諸島          | イエメン                                    |
 > |
 
-## <a name="purchase-azure-reservations"></a>Azure reservations を購入します。
+## <a name="purchase-azure-reservations"></a>Azure 予約を購入します。
 
-パートナー センターで顧客に代わって Microsoft Azure reservations を購入するのには、次の手順に従います。
+パートナー センターで顧客に代わって Microsoft Azure 予約を購入するのには、次の手順に従います。
 
-1. パートナー センター メニューから**顧客**を選択します。  
+1. 選択**顧客**パートナー センターのメニューから。  
 
 2. **[顧客]** ページで、Azure Reservations を購入する顧客を見つけ、下矢印を選択して顧客行を展開します。  
 
-3. **追加の製品**を選択し、 **Azure**を選択します。 
+3. **[製品の追加]** を選択し、**[Azure]** を選択します。 
 
-    a. **セグメント**の一覧から顧客の市場を選択します。
+    a.  顧客の市場セグメントを選択、**セグメント**一覧。
 
-    b. 製品**の種類**の一覧から、**予約**を選択します。
+    b.  選択**予約**製品から**型**一覧。
 
-    c. **予約の種類**の一覧から、顧客が予約の種類を選択します。
+    c. 顧客はから予約の種類を選択、**予約型**一覧。
 
-4. Azure Reservations をアクティブな Azure サブスクリプションに関連付ける必要があります。 **顧客のサブスクリプション**の一覧から Azure reservations を追加する対象の顧客のサブスクリプションを選択します。 
+4. Azure Reservations をアクティブな Azure サブスクリプションに関連付ける必要があります。 Azure 予約を追加する顧客のサブスクリプションを選択、**顧客サブスクリプション**一覧。 
 
    >[!IMPORTANT]
-   >顧客がアクティブな Azure サブスクリプションを持っていない既に場合は、ここで追加の**オンライン サービス**を選択します。 
+   >場合は、お客様には、アクティブな Azure サブスクリプションがまだ、選択**Online services**を今すぐ追加します。 
 
-5. 顧客の要件を満たしている仮想マシン上の Azure reservations の検索フィルターを使用します。  
+5. フィルターを使用すると、お客様の要件を満たす仮想マシン上の Azure 予約を検索します。  
 
-6. 予約インスタンスの数を入力を購入する予約を解放したを確認した後、顧客は**数量**で必要し、**カートに追加**] をクリックします。  
+6. 見つかった場合は、購入する予約を解放した後で、顧客が必要な予約済みインスタンスの数を入力します。**数量**選び**カートに追加**します。  
 
 7. 必要な項目をすべて注文に追加できるまで、手順 5 と 6 を繰り返します。 **[確認]** を選択して、注文内容を確認します。  
 
-8. **注文は、[レビュー** ] ページでは、次のことができます。 
+8. **[Review your orders]** (ご注文の確認) ページで、次の作業を行うことができます。 
 
-    - 予約インスタンスの数の変更または確認します。
+    - 予約インスタンスの数量を確認または変更します。
 
-    - 予約の範囲を選択します。 予約の範囲には、1 つのサブスクリプションまたは複数のサブスクリプション (共有範囲) を指定できます。 1 つのサブスクリプションを予約の範囲を指定する場合は、このサブスクリプションのみに予約割引が適用されます。 選択した場合、顧客の請求コンテキスト内のすべてのサブスクリプションに共有、予約割引が適用されます。 
+    - 予約の範囲を選択します。 予約の範囲には、1 つのサブスクリプションまたは複数のサブスクリプション (共有範囲) を指定できます。 単一のサブスクリプションに予約をスコープする場合、予約割引は、このサブスクリプションのみに適用されます。 共有を選択した場合は、顧客の請求コンテキストに含まれるすべてのサブスクリプションに予約割引が適用されます。 
 
       >[!NOTE] 
-      >予約の範囲は 1 つの Azure サブスクリプションに限定することを選択する場合は、サブスクリプションの vCPU クォータを大きく必要があります。 サブスクリプションの vCPU クォータを強化するには、Azure portal でサポート要求を作成する必要があります。 次の手順は、[このトピックで](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)要求を作成します。    
+      >1 つの Azure サブスクリプションの予約のスコープを制限することを選択した場合は、サブスクリプションの vCPU クォータを増やす必要があります。 サブスクリプションの vCPU クォータを増やすには、Azure portal でサポート リクエストを作成する必要があります。 指示に従って、[このトピックの「](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)要求を作成します。    
 
-    - プロバイダー パートナーがいる場合は、製品と関連付けるリセラーを選択します。
+    - プロバイダー パートナーの場合は、製品に関連付けるリセラーを選択します。
 
-9. **[購入]** を選択して注文内容を購入します。 **[確認]** ページでは、お客様の注文番号を含む注文の詳細が表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
+9. **[購入]** を選択して注文内容を購入します。 順序番号を含む、注文の詳細が表示されます、**確認**ページ。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
 
-10. Azure portal で顧客の予約を管理するため、[**顧客**] ページで、顧客を見つけし、し、顧客の行を展開する下矢印を選択します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。
+10. Azure portal で、お客様の予約を管理するために顧客を検索、**顧客**ページし、顧客の行を展開する下矢印を選択します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
-|**情報**   |**参照先**    |
+|**について**   |**この記事を読む**    |
 |:-----------------------------|:-----------------|
-|CSP での Azure Reservations 概要  | [販売 Microsoft Azure 予約インスタンス](azure-reservations.md) |
-|パートナー センターで Azure reservations を管理します。 | [パートナー センターで Azure reservations を管理します。](azure-reservations-manage.md)
-|適切な VM サイズの判断と顧客による VM 使用状況の確認   |[最大限の Azure 予約使用に備えた VM サイズ](azure-usage.md)   |
+|CSP での Azure Reservations 概要  | [販売 Reserved Instances の Microsoft Azure](azure-reservations.md) |
+|パートナー センターでの Azure 予約を管理します。 | [パートナー センターでの Azure 予約を管理します。](azure-reservations-manage.md)
+|適切な VM サイズの判断と顧客による VM 使用状況の確認   |[最大の Azure 予約の使用状況の VM のサイズを変更します。](azure-usage.md)   |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)
 |
 

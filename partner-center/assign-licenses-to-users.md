@@ -6,14 +6,14 @@ description: 顧客の新しいサブスクリプションを購入した後、�
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+Keywords: 顧客管理、アカウント、アカウント、ライセンスを作成、ライセンス、ユーザーの管理、パスワードを割り当てる、パスワードのリセット、パスワードの変更
 ms.localizationpriority: medium
 ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797245"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586755"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>顧客アカウントのユーザー管理タスク
 
@@ -30,9 +30,9 @@ ms.locfileid: "5797245"
 一度に[複数のユーザーにサブスクリプションを割り当てる](bulk-license-provisioning-for-multiple-users.md)ことができます。これには、[Excel 互換の .csv スプレッドシート ファイル](adding-multiple-users-to-a-customer-account.md) を使って、名前をインポートします。
 
 <a href="" id="createuseraccounts"></a>
-**顧客のユーザー アカウントを作成する**
+**顧客のユーザー アカウントを作成します。**
 
-1.  **パートナー センター**メニューで、**顧客**を選びます。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューの **顧客**します。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。
 
@@ -45,9 +45,9 @@ ms.locfileid: "5797245"
 6. 一度に複数のユーザーを追加することもできます。これには、[Excel 互換の .csv スプレッドシート ファイルをインポート](adding-multiple-users-to-a-customer-account.md)します。 すべてのユーザーの設定が完了するまで待ち、その後で、確認画面からユーザー名とパスワードを電子メールで送信したり印刷したりすることができます。
 
 <a href="" id="userlicensing"></a>
-**顧客のユーザー ライセンスを追加または削除する**
+**追加または顧客のユーザー ライセンスを削除**
 
-1.  **パートナー センター**メニューで、**顧客**を選びます。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューの **顧客**します。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。
 
@@ -56,9 +56,9 @@ ms.locfileid: "5797245"
 4.  **[ライセンスの管理]** を選びます。 変更を加えてから、**[保存]** を選びます。
 
 <a href="" id="resetpassword"></a>
-**顧客のユーザー パスワードをリセットする**
+**顧客のユーザーのパスワードをリセットします。**
 
-1.  **パートナー センター**メニューで、**顧客**を選びます。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューの **顧客**します。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。 一覧からユーザーを選びます。
 
@@ -67,24 +67,24 @@ ms.locfileid: "5797245"
 4.  新しい一時的なパスワードをユーザーに送信します。
 
 <a href="" id="deleteuseraccounts"></a>
-**顧客のユーザー アカウントを削除する**
+**顧客のユーザー アカウントを削除します。**
 
-1.  **パートナー センター**メニューで、**顧客**を選びます。 一覧から顧客を選びます。
+1.  **パートナー センター**メニューの **顧客**します。 一覧から顧客を選びます。
 
 2.  顧客メニューの **[ユーザーとライセンス]** を選びます。 一覧からユーザーを選びます。
 
-3.  画面の下部で **[ユーザー アカウントの削除]** を選びます。
+3.  画面の下部で **[Delete user account]** (ユーザー アカウントの削除) を選びます。
 
 このアカウントを復元する必要が生じた場合、顧客の **[ユーザーとライセンス]** の一覧の **[削除されたアカウント]** タブで見つけることができます。 削除したユーザーを復元できるのは、削除から 30 日以内です。
 
 <a href="" id="restoreuseraccounts"></a>
-**削除されたユーザー アカウントを復元する**
+**削除されたユーザー アカウントを復元します。**
 
-1.  **パートナー センター**メニューで、**顧客**を選択し、一覧から顧客を選びます。
+1.  **パートナー センター**メニューの **顧客**、一覧から顧客を選択します。
 
 2.  **[ユーザーとライセンス]** を選びます。
 
-3.  **[削除したユーザー ( 人)]** タブを選びます。復元できる削除済みユーザーが存在する場合は、**(1)** 以上の数値が表示されます。
+3.  **[削除したユーザー ( 人)]** タブを選びます 復元できる削除済みユーザーが存在する場合は、**(1)** 以上の数値が表示されます。
 
 4.  削除されたユーザーのチェック ボックスを 1 つ以上を選択し、**[復元]** を選びます。
 
@@ -93,9 +93,9 @@ ms.locfileid: "5797245"
 ## <a name="related-topics"></a>関連トピック
 
 
-[複数のユーザーにライセンスを割り当てる、または取り消す](bulk-license-provisioning-for-multiple-users.md)
+[複数のユーザーにライセンスの失効を割り当てたり、](bulk-license-provisioning-for-multiple-users.md)
 
-[顧客のアカウントに複数のユーザーを作成する](adding-multiple-users-to-a-customer-account.md)
+[お客様のアカウントを複数のユーザーを作成します。](adding-multiple-users-to-a-customer-account.md)
 
  
 

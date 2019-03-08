@@ -2,28 +2,28 @@
 title: 請求 | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-Description: 貴社は、クラウド ソリューション プロバイダー パートナーとして、顧客のライセンス ベースおよび使用量ベースのサブスクリプションの料金を 60 日後に Microsoft に支払います。
+Description: クラウド ソリューション プロバイダー パートナーは、顧客のライセンスベースおよび使用量ベースのサブスクリプション料金を 60 日後にマイクロソフトに支払います。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: medium
 ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
-ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "9122179"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586385"
 ---
 # <a name="billing"></a>請求
 
 **適用対象**
 
 -  パートナー センター
--  Microsoft Cloud for US Government のパートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
  
  
-請求書の**パートナー センター**メニューに移動します選び、**請求**に請求の履歴と傾向、請求書と調整ファイル、および、最近の入金へのリンクを参照してください。
+請求書を参照してください、**パートナー センター**メニューから選択し、**課金**最新支払い、請求書と調整ファイルへのリンクを請求履歴と傾向を表示します。
 
 クラウド ソリューション プロバイダー プログラムに参加中で月次請求を選択した場合は、顧客 (ライセンスベースおよび使用量ベース) のサブスクリプション料金を 60 日以内に Microsoft にお支払いください。
 
@@ -38,17 +38,17 @@ ms.locfileid: "9122179"
 -   すべての料金について単一の請求書を顧客に送ります。
 
 ## <a name="billing-resources"></a>請求に関するリソース
-|**情報**   |**参照先**    |
+|**について**   |**この記事を読む**    |
 |:-----------------------------|:-----------------|
-|請求、支払い、請求書などの基本事項   |[課金の基本](billing-basics.md)
-|年次請求など、多くの新しい請求機能   |[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)|
-|請求の種類   |[パートナー センターでの請求の種類をについてください。](billing-different-types.md)   |
-|請求書の記載事項を理解するための鍵   |[請求書の記載事項](read-your-bill.md)   |
-|調整ファイルを理解し使用する方法   |[調整ファイルの使用](use-the-reconciliation-files.md)|
+|請求、支払い、請求書などの基本事項   |[課金の基礎](billing-basics.md)
+|年次請求など、多くの新しい請求機能   |[課金の新機能についてよく寄せられる質問](faq-about-new-billing-features.md)|
+|課金の種類   |[パートナー センターでの課金の種類をについてください。](billing-different-types.md)   |
+|請求書の記載事項を理解するための鍵   |[請求書を読み取り](read-your-bill.md)   |
+|調整ファイルを理解し使用する方法   |[調整ファイルを使用します。](use-the-reconciliation-files.md)|
 |一般的な課金シナリオ (「[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)」で追加の課金シナリオを検索)|[一般的な課金シナリオ](common-billing-scenarios.md)|
-|税金の負担   | [税金と税金の除外](tax-and-tax-exemptions.md)|
-|使用量ベースの予算管理    |[顧客の Azure 支出の予算の設定](set-an-azure-spending-budget-for-your-customers.md)|
-|未払い、詐欺、不正使用が発生した場合の対処方法   |[未払い、詐欺、不正使用](non-payment--fraud--or-misuse.md)|
+|税金の負担   | [税金と税の除外](tax-and-tax-exemptions.md)|
+|使用量ベースの予算管理    |[Azure のお客様の支出予算を設定します。](set-an-azure-spending-budget-for-your-customers.md)|
+|未払い、詐欺、不正使用が発生した場合の対処方法   |[非支払い、不正行為、または悪用](non-payment--fraud--or-misuse.md)|
 
 
 

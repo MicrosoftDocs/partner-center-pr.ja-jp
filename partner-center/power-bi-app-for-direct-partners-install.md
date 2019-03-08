@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け) をプレビューするには、次の手順に従います。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: d51c7afa2ebe69218aeb926c46425bcbd4245cb0
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995556"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585865"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Power BI 用パートナー センター分析アプリをインストールしてプレビューする
 
@@ -20,18 +20,18 @@ ms.locfileid: "8995556"
 
 - パートナー センター
 
-## <a name="before-you-begin"></a>開始する前に
+## <a name="before-you-begin"></a>始める前に
 
-次の Power BI の利用可能なアプリの一覧からお客様のビジネスに最も関連のあるアプリケーションを選択します。
-- [直接パートナー](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+次の使用可能な Power BI アプリの一覧から、ビジネスに関係のあるアプリケーションを選択します。
+- [パートナーの直接](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
-- [間接パートナー](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+- [間接的なパートナー](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
 
 - [間接リセラー](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
 
 パートナー センター分析アプリのプレビュー バージョンをインストールする前に、次の要件を満たしていることを確認してください。
 
-- ビジネス向けには、適切な Power BI アプリを選択します。
+- お客様のビジネスには、正しい Power BI アプリを選択します。
 
 - Microsoft Power BI Professional または Microsoft Power BI Premium のアクティブなサブスクリプションがある。
 
@@ -62,4 +62,4 @@ ms.locfileid: "8995556"
 
 ## <a name="next-steps"></a>次のステップ
 
-[Microsoft Power BI 用パートナー センター分析アプリでビジネス データを表示する](power-bi-app-for-direct-partners-use.md)
+[Microsoft Power BI 用のパートナー センターの Analytics のアプリで、ビジネス データを表示します。](power-bi-app-for-direct-partners-use.md)

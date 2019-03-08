@@ -8,13 +8,13 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795655"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585335"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 パートナー アドバイザリ: CSP で Office 365 E5 の単一の SKU を利用する
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 パートナー アドバイザリ:CSP での office 365 E5 SKU の 1 つの可用性
 
 **適用対象**
 
@@ -34,7 +34,7 @@ ms.locfileid: "5795655"
 
 お客様の税務部門や法務部門に対して、PSTN サービスの規制、税金、手数料などの義務に関する組織の責任を理解するように指示してください。
 
-## <a name="details"></a>詳細情報
+## <a name="details"></a>詳細
 
 
 米国、プエルトリコ、カナダでは、Skype for Business PSTN サービスは、特別な税金や法的要件の対象となっています。 Microsoft では、PSTN サービスを税込みで価格設定しています。 PSTN に適用される税金や規制は、Office 365 パートナーが新しく統合された Office 365 E5 プランを扱う場合に影響します。 パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。
@@ -53,9 +53,9 @@ ms.locfileid: "5795655"
 
 ### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>CSP の価格表に表示される SKU (日付および PSTN の利用の可否別)
 
-**Office 365 Enterprise  E5 の単一の SKU の開始前**
+**1 つの Office 365 Ent する前にします。E5 SKU の 1 つの起動**
 
-**プラン表示名**
+**プランの表示名**
 
 **プラン ID**
 
@@ -94,9 +94,9 @@ PSTN アドオン
 
  
 
-**Office 365 Enterprise  E5 の単一の SKU のリリース後**
+**後の 1 つの Office 365 Ent リリースです。E5 SKU の 1 つの起動**
 
-**プラン表示名**
+**プランの表示名**
 
 **プラン ID**
 
@@ -114,9 +114,9 @@ PSTN アドオン
 
 **35.00**
 
-**新しい単一の SKU**
+**新しい 1 つの SKU**
 
-**Office 365 Enterprise E5 (PSTN 会議なし)**
+**PSTN 会議なしの office 365 Enterprise E5**
 
 **02c07b64-2cd3-4667-b014-561192fc5d1a**
 
@@ -124,9 +124,9 @@ PSTN アドオン
 
 **35.00**
 
-**新しい単一の SKU (非 PSTN メンバー向け)**
+**PSTN 非メンバーの新しい 1 つの SKU**
 
-Office 365 Enterprise E5 (PSTN 会議なし)
+[Office 365 Enterprise E5 (PSTN 会議なし)]
 
 4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70
 
@@ -148,7 +148,7 @@ PSTN アドオン
 
  
 
-## <a href="" id="invoices-and-partner-reconciliation-files-"></a>請求書とパートナー照合ファイル
+## <a href="" id="invoices-and-partner-reconciliation-files-"></a>請求書と調整ファイルのパートナー
 
 
 CSP 照合ファイルと CSP 請求書では、Office 365 Enterprise E5 の単一の SKU の PSTN コンポーネントと PSTN 以外のコンポーネントについて個別の行項目が提示されます。 2 つの行項目では名前と ID が同じですが、各行項目の単価は異なります ($28.40 と $2.00 など)。 これにより、Office 365 プランの Skype for Business PSTN 会議コンポーネントが区別され、税金を正しく適用することができます。
@@ -202,12 +202,12 @@ CSP 照合ファイルと CSP 請求書では、Office 365 Enterprise E5 の単�
 
  
 
-## <a name="additional-resources"></a>その他の情報
+## <a name="additional-resources"></a>その他のリソース
 
 
 詳しくは、[Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) のサイトにアクセスしてください。 Office 365 Enterprise E5 固有のリソースは、[Office 365 E5 ページ](https://drumbeat.office.com/partner/pages/e5.aspx)の **[Market and Sell]** (マーケティングと販売) タブにあります。
 
--   **Office 365 Enterprise E5 のライセンス**
+-   **Office 365 Enterprise E5 ライセンス**
 
 -   **Skype for Business PSTN サービスのライセンスの概要**
 

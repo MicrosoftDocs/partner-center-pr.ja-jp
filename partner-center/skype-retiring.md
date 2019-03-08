@@ -2,18 +2,18 @@
 title: Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行 | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-Description: Transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option. We recommend moving customers to new subscriptions before the subscription’s yearly end date.
-author: labrenne
+Description: 移行の期限切れ間近の Skype for Business Online プラン 1 サブスクリプション サポートされている SKU のオプションをお客様。 サブスクリプションの年間の終了日より前に、の新しいサブスクリプションに顧客を移動することをお勧めします。
+author: LauraBrenner
 ms.author: labrenne
 keywords: Skype for Business の計画、Skype の提供終了、Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c1e4f4611c6fe3c317339af1a036194031f3d095
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917624"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586105"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行
 
@@ -28,24 +28,24 @@ Skype for Business Online プラン 1 は、2018 年 8 月 1 日に提供終了�
 >[!NOTE]
 >Skype for Business Online プラン 1 の商用 SKU と行政機関用 SKUは、どちらも提供終了となります。
 
-API (CREST またはパートナー センターのいずれか) を使用している場合は、サブスクリプションの終了日と auto renew = False プロパティを評価して、有効期限が迫っているサブスクリプションを検出できます。 Skype for Business Online プラン 1 のサブスクリプションは、2018 年 9 月 1 日に auto renew = False に設定されます。 パートナー様はお客様をいつでも新しいプランに移行することができます。 
+API (CREST またはパートナー センターのいずれか) を使用している場合は、サブスクリプションの終了日と auto renew = False プロパティを評価して、有効期限が迫っているサブスクリプションを検出できます。 Skype for Business Online プラン 1 のサブスクリプションは、2018 年 9 月 1 日に auto renew = False に設定されます。 お客様は、いつでも新しいプランに移動できます。 
 
 ## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Skype for Business Online プラン 1 の代替プラン
 
 新しいプランでは、お客様は Office 365 の新機能を活用できます。 料金の詳細は、パートナー センターの料金表またはプランのマトリックスに記載されています。 
 
-- オプション1: Office 365 Enterprise F1
-- オプション 2: Microsoft 365 Enterprise F1
-- オプション 3: その他の Office 365 プラン
+- オプション 1:Office 365 Enterprise F1
+- オプション 2:Microsoft 365 Enterprise F1
+- オプション 3:その他の Office 365 プラン
 
 |**機能**    |**オプション 1**   |**オプション 2**   |**オプション 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Skype for Business Online プラン 1 に含まれるすべての機能の利用|はい   |はい   |はい   |
-|IM とプレゼンス |はい   |はい   |はい   |
-|IP を経由したピアツーピア オーディオとビデオ|はい   |はい   |はい   
-|認証ユーザーとして会議に参加| はい   |はい   |はい   |
+|Skype for Business Online プラン 1 に含まれるすべての機能の利用|〇   |〇   |〇   |
+|IM とプレゼンス |〇   |〇   |〇   |
+|IP を経由したピアツーピア オーディオとビデオ|〇   |〇   |〇   
+|認証ユーザーとして会議に参加| 〇   |〇   |〇   |
 
-## <a name="transition-customers-to-new-product-plans"></a>お客様を新しい製品プランに移行する
+## <a name="transition-customers-to-new-product-plans"></a>顧客を新しい製品プランに移行する
 
 マイクロソフトは、絶えず新しい製品やサービスをパートナーに提供しています。 パートナーはこれに対応して、お客様を新しいサービスにアップグレードするか、お客様のサブスクリプションを廃止予定の SKU から移行する必要があります。 廃止された SKU から新しい SKU にお客様を移行するには、次の手順を実行します。
 
@@ -55,13 +55,13 @@ API (CREST またはパートナー センターのいずれか) を使用して
 
 ### <a name="migrate-your-customers-to-new-plans"></a>新しいプランにお客様を移行する
 
-1. **パートナー センター メニュー**から、新しいサブスクリプションを購入するには、**顧客**を選びます、移動する顧客を選択し、**追加のサブスクリプション**を選択します。
+1. 新しいサブスクリプションを購入する、**パートナー センターのメニュー**を選択します**顧客**、移動、および選択し、顧客を選択**サブスクリプション追加**。
 
 2. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、**[送信]** を選びます。 
 
 この時点で、お客様には以前のサブスクリプションと新しいサブスクリプションの両方が割り当てられることになります。この例では、以前の Skype for Business Online プラン 1 サブスクリプションと、新しい移行先のサブスクリプション (オプション1 の Office 365 Enterprise F1 など) です。
 
-3. **パートナー センター**メニューで、顧客のユーザーのライセンスをもう一度割り当てる**ユーザー**を選択して、移動して、**ユーザーとライセンス**を選択して、顧客をオンにします。 顧客の [ユーザーとライセンス] ページが開きます。
+3. 顧客のユーザーのライセンスを再割り当てする、**パートナー センター**メニューの **顧客**、移動、顧客を選択し、**ユーザーとライセンス**. お客様の [ユーザーとライセンス] ページが開きます。
 
 4. ユーザー ライセンスをもう一度割り当てるには、割り当てるユーザーを選んで **[ライセンスの管理]** を選びます。
 
@@ -71,7 +71,7 @@ API (CREST またはパートナー センターのいずれか) を使用して
 
 ユーザー ライセンスを新しいサービスに移行した後は、顧客レベルで廃止されたサブスクリプションを安全に取り消すことができます。
 
-7. **パートナー センター**メニューで、**顧客**を選びます。 サブスクリプションをキャンセルする顧客を選択します。
+7. **パートナー センター**メニューの **顧客**します。 サブスクリプションをキャンセルする顧客を選択します。
 
 8. サブスクリプションの詳細ページで、サブスクリプションを **[中断]** に設定します。
 

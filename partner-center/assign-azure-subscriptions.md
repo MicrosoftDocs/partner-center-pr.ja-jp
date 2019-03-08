@@ -3,16 +3,16 @@ title: パートナー センターでの Azure サブスクリプションの�
 ms.topic: article
 ms.date: 10/29/2018
 description: パートナー センターで、顧客に Azure サブスクリプションを割り当てることができるようになりました。顧客自身によるサブスクリプションの管理を有効にすることもできます
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Azure サブスクリプション, サブスクリプション, 月額プラン, サブスクリプションの割り当て, Azure サブスクリプションの管理
 ms.localizationpriority: medium
-ms.openlocfilehash: 5438803bf25fb40267cbecbdcbe25ed6e6a44cfa
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 974589437392ceb77e90e6cfbd382a4676180545
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796045"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586375"
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>パートナー センターでの Azure サブスクリプションの割り当て
 
@@ -22,7 +22,7 @@ ms.locfileid: "5796045"
  
 ## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>パートナー センターで顧客に Azure サブスクリプションを割り当てる
 
-1. **パートナー センター** ] メニューから**顧客**を選択し、管理対象の顧客を見つけます。
+1. 選択**顧客**から、**パートナー センター**メニューし管理する顧客を見つけます。
 
 2.  行の末尾にある下向き矢印を選択して顧客レコードを展開し、**[Microsoft Azure の管理ポータル]** を選択します。 Azure Portal が開き、顧客のサブスクリプションを管理できます。 
 
@@ -34,7 +34,7 @@ ms.locfileid: "5796045"
 
 7. ユーザーをサブスクリプションに追加したら、そのユーザーに対して、ロールと、そのユーザーからアクセスできるようにする特定のアカウントを割り当てることができます。 
 
-**顧客が Azure サブスクリプションを管理できるようにする**
+**お客様は、Azure サブスクリプションの管理を有効にします。**
 
 顧客の Microsoft Azure サブスクリプションを作成すると、サブスクリプションを有効にして管理することができます。 これを行うには、顧客の Microsoft Azure の管理ポータルにログオンする必要があります。 
 
@@ -45,6 +45,6 @@ ms.locfileid: "5796045"
 
 2.  Azure Portal で、顧客のサブスクリプションの一覧を開き、顧客の Azure サブスクリプションを選びます。
 
-3.  顧客のいずれかのユーザーにロールを割り当てて、顧客のサブスクリプションの下でリソースを作成および管理できるようにします。
+3.  顧客のいずれかのユーザーにロールを割り当てて、顧客のサブスクリプションの下でリソースを作成および管理できるようにします 
 
 

@@ -6,12 +6,12 @@ description: Microsoft Office 365 Enterprise E4 エディションは、2017 年
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1dc3957d6abe4069f3868d49e92a458d20e7fbec
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 381b4c5dda7486737ef010d7fa22e65710b5e5bf
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796105"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587795"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 サブスクリプションの Office 365 の新しいバージョンへの移行
 
@@ -24,7 +24,7 @@ Office 365 Enterprise E4 プランは、2017 年 4 月 7 日に廃止されま�
 E4 サブスクリプションは終了した時点で取り消されます。 お客様への継続的なサービス提供を保証するには、有効期限が迫っている E4 サブスクリプションのお客様を、サポートされている以下の SKU オプションに移行する必要があります。 お客様のサービスが中断することを避けるため、サブスクリプションの年間終了日前に新しいサブスクリプションにお客様を移行することをお勧めします。 
 
 > [!NOTE]  
->  Office 365 Enterprise E4 商用と行政機関用 Sku の両方が廃止されました。
+>  Office 365 Enterprise E4 商用と政府の Sku の両方が廃棄します。
  
 サブスクリプションの詳細ページでは、E4 サブスクリプションの状態が、"自動更新: [日付]" から "有効期限: [date]" に変更されています。 
 
@@ -36,27 +36,27 @@ E4 サブスクリプションは、2017 年 4 月 7 日に ”auto renew=False�
 
 E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Business Online の新しい機能を提供するかを選択できます。 料金の詳細は、パートナー センターの料金表またはプランのマトリックスに記載されています。 Secure Product Enterprise E3 または Secure Productive Enterprise E5 は、それぞれ Office 365 Enterprise E3 または Office 365 Enterprise E5 の次のオプションに置き換えることができます。
 
-- オプション1: Office 365 Enterprise E5
+- オプション 1:Office 365 Enterprise E5
 
-- オプション2: Office 365 Enterprise E3 + Skype for Business クラウド PBX
+- オプション 2:Office 365 Enterprise E3 と Skype for Business の Cloud PBX
 
-- オプション3: Office 365 Enterprise E3 + Skype for Business Plus CAL (料金と機能は E4 相当)
+- オプション 3:Office 365 Enterprise E3 と Skype for Business と CAL (E4 の価格と機能パリティ)
 
-- オプション4: Office 365 Enterprise E3
+- オプション 4:Office 365 Enterprise E3
 
 
 | 機能 | オプション 1 | オプション 2 | オプション 3 | オプション 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Office 365 Enterprise E4 に含まれるすべての機能に対応 | はい | はい | はい | × |
-| Office 365 での電話番号の管理 | はい | はい | いいえ | × |
-| オンプレミスと Office 365 の両方による電話番号の管理 (ハイブリッド展開) | はい | はい | いいえ | × |
-| PSTN 音声通話プランの追加オプション | はい | はい | いいえ | × |
-| PSTN 会議機能 | はい | いいえ | いいえ | × |
-| コラボレーション、分析、セキュリティの高度なツール | はい | いいえ | いいえ | × |
-| 対話型のレポート、ダッシュ ボード、データのビジュアル化 | はい | いいえ | いいえ | × | 
-| データ セキュリティとコンプライアンスを詳細に制御するための組み込みのプライバシー機能、透過性、洗練されたユーザー コントロール | はい | いいえ | いいえ | × | 
+| Office 365 Enterprise E4 に含まれるすべての機能に対応 | 〇 | 〇 | 〇 | X |
+| Office 365 での電話番号の管理 | 〇 | 〇 | X | X |
+| オンプレミスと Office 365 の両方による電話番号の管理 (ハイブリッド展開) | 〇 | 〇 | X | X |
+| PSTN 音声通話プランの追加オプション | 〇 | 〇 | X | X |
+| PSTN 会議機能 | 〇 | X | X | X |
+| コラボレーション、分析、セキュリティの高度なツール | 〇 | X | X | X |
+| 対話型のレポート、ダッシュ ボード、データのビジュアル化 | 〇 | X | X | X | 
+| データ セキュリティとコンプライアンスを詳細に制御するための組み込みのプライバシー機能、透過性、洗練されたユーザー コントロール | 〇 | X | X | X | 
 
-## <a name="transition-customers-to-new-product-plans"></a>お客様を新しい製品プランに移行する
+## <a name="transition-customers-to-new-product-plans"></a>顧客を新しい製品プランに移行する
 
 マイクロソフトは、絶えず新しい製品やサービスをパートナーに提供しています。 パートナーはこれに対応して、お客様を新しいサービスにアップグレードするか、お客様のサブスクリプションを廃止予定の SKU から移行する必要があります。 廃止された SKU から新しい SKU にお客様を移行するには、次の手順を実行します。
 
@@ -68,7 +68,7 @@ E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Bus
 
 ### <a name="step-1---purchase-the-new-subscription"></a>手順 1 - 新しいサブスクリプションを購入する
 
-1. **パートナー センター**メニューで、**顧客**を選びますや、移行する顧客を選択し、**追加のサブスクリプション**を選択します。
+1. **パートナー センター**メニューの **顧客**、移動、および選択する顧客を選択して**サブスクリプションを追加**。
 
 2. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、**[送信]** を選びます。
 
@@ -76,7 +76,7 @@ E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Bus
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>手順 2 - お客様のユーザー ライセンスをもう一度割り当てる
 
-1. **パートナー センター**メニューで、**顧客**を選びます、移行する顧客を選択し、**ユーザーとライセンス**を選択します。 顧客の [ユーザーとライセンス] ページが開きます。
+1. **パートナー センター**メニューの **顧客**、移動、および選択する顧客を選択して**ユーザーとライセンス**。 お客様の [ユーザーとライセンス] ページが開きます。
 
 2. ユーザー ライセンスをもう一度割り当てるには、割り当てるユーザーを選んで **[ライセンスの管理]** を選びます。
 
@@ -90,7 +90,7 @@ E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Bus
 
 ### <a name="step-3---cancel-the-old-subscription"></a>手順 3 - 以前のサブスクリプションを取り消す
 
-1. **パートナー センター**メニューで、**顧客**を選びます。 移行するお客様を選び、取り消すサブスクリプションを選びます。
+1. **パートナー センター**メニューの **顧客**します。 移行するお客様を選び、取り消すサブスクリプションを選びます。
 
 2. サブスクリプションの詳細ページで、サブスクリプションの状態を **[中断]** に設定します。
 

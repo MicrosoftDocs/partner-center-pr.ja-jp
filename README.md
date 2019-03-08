@@ -1,37 +1,37 @@
-# You've added your first ReadMe file!
-A README.md file is intended to quickly orient readers to what your project can do.  New to Markdown? [Learn more](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
+# <a name="youve-added-your-first-readme-file"></a>最初の ReadMe ファイルを追加しました。
+README.md ファイルがすばやく行えるプロジェクトを見やすくためのものです。  マークダウンが初めてですか。 [詳細情報](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 
-## Edit this ReadMe and commit your change to a topic branch
-In Git, branches are cheap.  You should use them whenever you're making changes to your repository.  Edit this file by clicking on the edit icon.
+## <a name="edit-this-readme-and-commit-your-change-to-a-topic-branch"></a>この readme ファイルを編集し、トピック ブランチに、変更をコミット
+Git でブランチは安価です。  独自のリポジトリに変更を加えていないときに使用する必要があります。  このファイルを編集するには、編集アイコンをクリックします。
 
-Then make some changes to this ReadMe file.
+この ReadMe ファイルをいくつかの変更を加えます。
 
-> Make some **edits** to _this_ blockquote
+> 一部**編集**に_この_ブロック引用
 
-When you are done, click the dropdown arrow next to the save button - that will allow you to commit your changes to a new branch.
+完了したら、ファイルの横の下矢印をクリックします。 ボタン - 新しいブランチに変更をコミットできます。
 
-## Create a pull request to contribute your changes back into master
-Pull requests are the way to move changes from a topic branch back into the master branch.
+## <a name="create-a-pull-request-to-contribute-your-changes-back-into-master"></a>マスターに変更を投稿するプル要求を作成します。
+プル要求は、マスター ブランチに戻るトピック ブランチからの変更を移動する方法です。
 
-Click on the **Pull Requests** page in the **CODE** hub, then click "New Pull Request" to create a new pull request from your topic branch to the master branch.
+をクリックして、**プル要求**ページで、**コード**ハブ、トピック ブランチからマスター ブランチへの新しいプル要求を作成する「新しいプル要求」をクリックします。
 
-When you are done adding details, click "Create Pull request". Once a pull request is sent, reviewers can see your changes, recommend modifications, or even push follow-up commits.
+追加の詳細を確認したら、「を作成するプル要求」をクリックします。 プル要求が送信されると、レビュー担当者、変更内容を参照してください、変更、お勧めしますしたり、でもフォロー アップのコミットをプッシュできます。
 
-First time creating a pull request?  [Learn more](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
+初めてプル要求を作成するのでしょうか。  [詳細情報](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
 
-### Congratulations! You've completed the grand tour of the CODE hub!
+### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>これで終了です。 コード ハブのグランド ツアーを完了しました。
 
-# Next steps
+# <a name="next-steps"></a>次のステップ
 
-If you haven't already done so, [install Git](https://git-scm.com/downloads) (as well as [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) for Linux or Mac OS)
+そのためをまだ完了していない場合[Git のインストール](https://git-scm.com/downloads)(だけでなく[Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) for Linux または Mac OS)
 
-Choose and install one of these supported IDEs:
+選択して、これらのサポートされている Ide の 1 つをインストールします。
 * [Visual Studio](https://go.microsoft.com/fwlink/?LinkId=309297&clcid=0x409&slcid=0x409)
-* [Android Studio](https://developer.android.com/studio) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))
-* [Eclipse](https://www.eclipse.org/downloads) (with [Team Explorer Everywhere](https://java.visualstudio.com/Downloads/eclipseplugin/Index))
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/download) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))
-* [Visual Studio Code](https://code.visualstudio.com/Download) (with [Team Services Extension](https://java.visualstudio.com/Downloads/visualstudiocode/Index))
+* [Android Studio](https://developer.android.com/studio) (で[Team Services プラグイン](https://java.visualstudio.com/Downloads/intellijplugin/Index))
+* [Eclipse](https://www.eclipse.org/downloads) (で[を Team Explorer Everywhere](https://java.visualstudio.com/Downloads/eclipseplugin/Index))
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/download) (で[Team Services プラグイン](https://java.visualstudio.com/Downloads/intellijplugin/Index))
+* [Visual Studio Code](https://code.visualstudio.com/Download) (で[Team Services の拡張機能](https://java.visualstudio.com/Downloads/visualstudiocode/Index))
 
-Then clone this repo to your local machine to get started with your own project.
+ローカル コンピューター独自のプロジェクトを開始するには、このリポジトリを複製します。
   
-Happy coding!
+コーディングを楽しんでください。

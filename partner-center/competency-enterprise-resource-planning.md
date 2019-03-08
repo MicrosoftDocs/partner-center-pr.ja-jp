@@ -3,20 +3,20 @@ title: Enterprise Resource Planning コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: エンタープライズ リソース プランニングのニーズに合った Dynamics ソリューションを開発および展開する点で組織の能力を生かすことにより、Microsoft パートナーとなりましょう。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: コンピテンシー,コンピテンシー,Enterprise Resource Planning
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f0c69dafa24a61923fbc69521cdc87a89ad87c70
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cf3150bca54770453da4dc3b56302a30f348aca7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795545"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584335"
 ---
 >[!IMPORTANT]
->このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。
+>このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。
 
 <!--
 #Enterprise Resource Planning 

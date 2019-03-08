@@ -1,30 +1,30 @@
 ---
-title: クリプトマイニング アクティビティの通知をパートナー センター |パートナー センター
+title: Crypto マイニング アクティビティのパートナー センターの通知 |パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
 description: 発生している可能性があるクリプトマイニングに関する通知です。
-author: v-petand
+author: LauraBrenner
 ms.author: v-petand
-Keywords: crypto-mining, cryptocurrency mining, security
+Keywords: crypto マイニング、暗号通貨マイニングでは、セキュリティ
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4cd56641a44cab84796ae051584e1e1cca63d3ff
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cac28b394ee0593e5f1e313cb14e7b6dfa45520a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086720"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587495"
 ---
-# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>パートナー センターの通知でクリプトマイニング アクティビティを
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>暗号通貨マイニング アクティビティのパートナー センターの通知
 
 **適用対象**
 
 -  パートナー センター
 -  CSP パートナー
 
-クリプトマイニングに関する次のパートナー センターの通知を受信したことがあります。
+暗号通貨マイニングに関する次のパートナー センターの通知を受信する可能性があります。
  
-![パートナー センターでのセキュリティの通知の画像](images/crypto1.png)
+![パートナー センターでのセキュリティ通知の画像](images/crypto1.png)
 
 この通知では、過去 1 週間以内に 1 つ以上の Azure サブスクリプションでクリプトマイニングが検出されたことをお知らせしています。 クリプトマイニングは必ずしも不正行為に相当するとは限りません。 ただし、Azure でのクリプトマイニング実行によるコストが金銭的な利益を上回る傾向にあるため、通常ではない行為であると言えます。 皆様や皆様の顧客に影響する金融詐欺を防ぐには、次の手順をご検討ください。
 
@@ -37,7 +37,7 @@ ms.locfileid: "9086720"
 そのアクティビティが想定内のものである場合は、顧客の Azure サブスクリプションの詳細ページに戻り、クリプトマイニングが正当であることを確認します。 
 
 
-![顧客の Azure サブスクリプションの詳細ページの画像](images/crypto2.png)
+![顧客の Azure サブスクリプションの詳細 ページの画像](images/crypto2.png)
 
 アクティビティが予想外のものである場合は、以下をご検討ください。
 
@@ -45,13 +45,13 @@ ms.locfileid: "9086720"
 
 2.  そもそも、そのリソースがどのように作成されたものであるのかを把握します。 これには、Azure Resource Management ログによるリソース プロビジョニング アクティビティの確認が必要になることがあります。
 
-3.  確認する必要がある場合、サブスクリプションを作成して、パートナー センターのアクティビティ ログを確認します。
+3.  確認する必要がある場合は、サブスクリプションを作成したユーザーで、パートナー センターのアクティビティ ログを確認します。
 
 クリプトマイニング アクティビティの検出はヒューリスティックに基づいたものであり、100% 正確ではない可能性があります。 不正行為やその他の許可されていないアクティビティに対する保護を行うには、ガバナンスと監視のシステムを備えてください。 詳しくは、「[未払い、詐欺、不正使用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)」をご覧ください。
 
 通知に関してご質問や懸念がある場合、次の手順でサポート要求を開くことができます。
 
-1.  パートナー センターで、**サポート**を選択し、**パートナー センターの要求**を選択します。
+1.  パートナー センターで次のように選択します。**サポート**選び**パートナー センター要求**します。
 3.  **[新しい要求]** を選びます。 
 4.  **[問題の種類]** ドロップダウン メニューで、**[顧客の追加または管理]** を選択します。
 5.  **[影響]** ドロップダウンで、**[標準]** を選択します。

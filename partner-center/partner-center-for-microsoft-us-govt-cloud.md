@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 9c5d6ed400b416324546ef90ef04a18ecf5dbcf6
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098749"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587865"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センター
 
@@ -19,7 +19,7 @@ ms.locfileid: "9098749"
 
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>米国政府機関向け Microsoft Cloud: データ保護の要件を満たす 
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>米国政府機関向け Microsoft クラウド:データ保護要件を満たす 
 
 米国政府機関向けに一から設計された、米国政府機関向け Microsoft Cloud により、米国の連邦、州、地方、および先住民部族の行政機関は、Microsoft のさまざまなクラウド コンピューティング サービスを選択できます。 公共部門のお客様の固有のニーズを適切に満たすため、Microsoft はデータ センターに多大な投資を行い、米国連邦政府や州政府の政策、規制、要件に対するデータ保護のコンプライアンスの達成に取り組んでいます。 米国政府機関向け Microsoft Cloud のパートナー センターは、パートナーが、これらのユーザーに Microsoft クラウド サービスを再販できるようにします。
 
@@ -29,12 +29,12 @@ ms.locfileid: "9098749"
 
 詳細については、[米国政府機関向け Microsoft Cloud データシート](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)を参照してください。
 
-## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>米国政府機関向け Microsoft Cloud のパートナー センター: 米国政府機関向けクラウド ソリューションの販売
+## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>米国政府機関向け Microsoft クラウドのパートナー センター:米国政府クラウド ソリューションを販売
 
 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー (CSP) プログラムに登録した後は、パートナー センターを使用して、クラウド固有のソリューションおよびサービスを米国政府機関の顧客に販売します。 
 
 > [!NOTE]  
-> 本記事の公開時点では、米国政府機関向け Microsoft Cloud のパートナー センターで、以下の機能をまだご利用いただけません (本記事の公開以降、パートナー センターに機能が追加される場合があるため、この一覧が最新ではなくなっている可能性があります)。
+> 本記事の公開時点では、米国政府機関向け Microsoft Cloud のパートナー センターで、以下の機能が提供されていません (本記事の公開後、パートナー センターに機能が追加されて、この一覧の情報が最新ではなくなる可能性があります)。
 
 - パートナーの検索
 - ビジネス プロファイル
@@ -42,7 +42,7 @@ ms.locfileid: "9098749"
 - 顧客と再販業者関係の要求 (マルチチャンネル、マルチパートナー)
 - ライセンス分析
 - 顧客の分析
-- 間接リセラー/プロバイダー モデルと設定
+- Indirect reseller/provider model and settings (間接的リセラー/プロバイダー モデルと設定)
 - サービスの正常性の確認
 - 独立ソフトウェア ベンダー (ISV) の登録
 - 顧客の特別な資格

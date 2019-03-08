@@ -3,20 +3,20 @@ title: Data Analytics コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: 顧客が詳しいインサイトの取得、予測、推奨事項の生成を行うことができるようにデータを調査するビジネスを行っている場合、Data Analytics コンピテンシーは能力を築いて証明するプラットフォームとなります。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
-keywords: コンピテンシー,コンピテンシー,data Analytics
+keywords: コンピテンシー,コンピテンシー,Data Analytics
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e7d31e7e96fceb11a64c0653e51dcd03a4b9a389
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796225"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584225"
 ---
 >[!IMPORTANT]
->このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。
+>このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。
 
 <!--
 #Data Analytics

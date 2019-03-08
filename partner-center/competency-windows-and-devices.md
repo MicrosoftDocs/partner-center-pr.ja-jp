@@ -3,20 +3,20 @@ title: Windows and Devices コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: 10 億台のデバイスに Windows 10 を展開するというマイクロソフトの目標を共有しましょう。 機会はサービス、アプリケーション、デバイスに潜んでいます。 このコンピテンシーでは、収益性の高い Windows 10 のプラクティスを構築および拡大するのに役立つツール、コンテンツ、リソースが提供されます。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 robots: noindex,nofollow
 keywords: コンピテンシー,コンピテンシー,Windows and Devices
 ms.localizationpriority: medium
-ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 634aedeafc118cd661f11cb927944499feda46af
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795585"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584615"
 ---
 >[!IMPORTANT]
->このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。
+>このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。
 
 <!--
 

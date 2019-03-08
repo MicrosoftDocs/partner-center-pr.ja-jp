@@ -5,15 +5,15 @@ ms.date: 10/29/2018
 description: Cloudyn が提供する Azure Cost Management を使用するには、パートナー センター API へのアクセスをプロビジョニングする必要があります。
 author: Janet
 ms.author: janet
-Keywords: Azure cost management app, manage costs, web apps
+Keywords: Azure コスト管理アプリでは、管理コストの削減、web アプリ
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995796"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586085"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure を販売する CSP パートナー様向けの Azure コスト管理アプリ  
 
@@ -21,9 +21,9 @@ ms.locfileid: "8995796"
 
 -  パートナー センター
 
-[Azure Cost Management の詳細情報を取得する](https://go.microsoft.com/fwlink/p/?linkid=857893)
+[Azure Cost Management について詳細を取得します。](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
-## <a name="before-you-begin"></a>前提条件
+## <a name="before-you-begin"></a>始める前に
 Azure Cost Management を使用する前に、次の要件を満たしていることを確認してください。
 
 - クラウド ソリューション プロバイダー プログラムのパートナー様であること。
@@ -36,9 +36,9 @@ Cloudyn が提供する Azure cost management は、お客様による Azure の
 ## <a name="register-your-web-app-in-the-partner-center"></a>パートナー センターで Web アプリを登録する
 パートナー センターで Azure Active Directory Web アプリを登録すると、アプリがパートナー センター API にアクセスできるようになります。 
 1.  [全体管理者または管理エージェント アカウント](create-user-accounts-and-set-permissions.md)を使って、[パートナー センター](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)にサインインします。
-2.  **パートナー センター**で、**アカウントの設定**を選択&gt;**[アプリ管理](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** します。
+2.  **パートナー センター**、**アカウント設定** &gt; **[アプリ管理](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** します。
 3.  **[Web アプリ]** セクションで、**[新しいアプリの追加]** をクリックします。
-<br> **注**: 既にアプリを作成済みの場合は、手順 3 を省略することができます。
+<br> **注意**:Web アプリを作成していた場合は、手順 3. を省略できます。
 4.  登録する Web アプリの **商取引 ID** GUID と **アプリ ID** GUID をコピーして保存します。 Azure cost management アプリの 30 日間無料試用版を利用するには、両方の ID が必要です。
 
 ## <a name="add-a-secret-key-to-your-app"></a>アプリへの秘密鍵の追加
@@ -46,7 +46,7 @@ Cloudyn が提供する Azure cost management は、お客様による Azure の
 2. **[キーの追加]** をクリックします。 
 3. 秘密キーの値を書き留めて保存します。 この値は、30 日間無料試用版の利用に必要です。<br>
    > [!NOTE]  
-   > アプリケーションの秘密キーは、期限の長いパスワードに似ています。 後日使用できるように、安全な場所にキーの値を保存してください。
+   > アプリケーションの秘密キーでは、パスワードより長い有効期限と同様です。 後日使用できるように、安全な場所にキーの値を保存してください。
 
 ## <a name="next-steps"></a>次のステップ
 [30 日間無料試用版](https://go.microsoft.com/fwlink/?linkid=857895) をご利用ください。

@@ -1,19 +1,19 @@
 ---
-title: このページにアクセスするためのテナントで多要素認証 (MFA) を有効にする必要があります。パートナー センター
+title: このページにアクセスするテナントで多要素認証 (MFA) を有効にする必要があります |パートナー センター
 ms.topic: article
 ms.date: 12/21/2018
 description: ''
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-Keywords: health, service health,service problems
+Keywords: 正常性、サービスの正常性、サービスの問題
 ms.localizationpriority: medium
-ms.openlocfilehash: 2789e333655d27b7009aaa020b461d70086c8ef2
-ms.sourcegitcommit: 365f51b1df6752ab0f6bcf2b26329d354fa36653
+ms.openlocfilehash: b04440e11f3f04ca68e56e440585bb9da55f8a27
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995023"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586585"
 ---
 # <a name="you-must-enable-multi-factor-authentication-mfa-on-your-tenant-to-gain-access-to-partner-center"></a>パートナー センターにアクセスするテナントで多要素認証 (MFA) を有効にする必要があります。
 
@@ -22,8 +22,8 @@ ms.locfileid: "8995023"
 - パートナー センター
 
 
-今すぐ Microsoft パートナー センターでは多要素認証 (MFA) にパートナー センターのアクセスを有効にする必要があります。  
-パートナーでは、 [Microsoft Azure MFA ソリューション](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)を使用して多要素認証を有効にしたり、サード パーティ ベンダーの MFA ソリューションを採用することができます。 選択したサード パーティ ソリューションは、Microsoft Azure Active Directory でサポートされている必要がありますに注意してください。 確認する、MFA ソリューション プロバイダーのドキュメントを参照してください。 
+今すぐ Microsoft パートナー センターでは多要素認証 (MFA) がパートナー センターへのアクセスを有効にする必要があります。  
+パートナーは、多要素認証を使用して有効にできます[Microsoft Azure の MFA ソリューション](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)またはサード パーティ ベンダーの MFA ソリューションを採用します。 Microsoft Azure Active Directory によって、選択したサード パーティ製ソリューションをサポートする必要がありますに注意してください。 確認するには、MFA ソリューション プロバイダー ドキュメントを参照してください。 
 
-[Azure MFA の展開](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)について説明します。 
+詳細については[Azure MFA のデプロイ](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)します。 
  

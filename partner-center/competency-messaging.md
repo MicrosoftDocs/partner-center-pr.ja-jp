@@ -3,20 +3,20 @@ title: Messaging コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: Messaging コンピテンシーは、資格のある Microsoft Exchange ソリューション プロバイダーとしてのスキルを示すことにより、競争上の優位性の向上、販売サイクルの短縮、ビジネスの成長を実現しているパートナー様を認識します。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: コンピテンシー,コンピテンシー,メッセージング
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 04aa26af89dc183ce9e07b9020a50d6d4dfa87d1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 886a12c6e9ce4783e465e8562428f01ab5f51a7e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796935"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586425"
 ---
 >[!IMPORTANT]
->このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。
+>このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。
 
 <!--
 #Messaging

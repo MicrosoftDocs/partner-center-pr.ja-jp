@@ -3,20 +3,20 @@ title: クラウド ビジネス アプリケーション コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: クラウド ビジネス アプリケーション コンピテンシーは、顧客の Microsoft Dynamics 365 の展開と管理を専門とするパートナー様向けのコンピテンシーです。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: コンピテンシー,コンピテンシー,クラウド ビジネス アプリケーション
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e48aa911f554757f75c53c0ebd1301709f06f36
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 6b962539a106f2b18d116bf3ca2f4b30084076a1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794575"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583945"
 ---
 >[!IMPORTANT]
->このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。
+>このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。
 
 <!--
 

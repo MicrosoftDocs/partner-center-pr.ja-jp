@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: ナショナル クラウド, Microsoft Cloud ドイツ, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud 中国
 ms.localizationpriority: medium
 ms.openlocfilehash: 851b8695b6cb409ef9f70f8b2acf2504bc7b16f5
-ms.sourcegitcommit: 13a9a1cb7c810479998353d969bc15e0654d8ff1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8962374"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584235"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Microsoft ナショナル クラウドでの販売の申請
 
@@ -30,19 +30,19 @@ Microsoft では、以下のサービスをナショナル クラウドで提供
 
 認定パートナーは、以下のナショナル クラウドの顧客に Microsoft クラウド ソリューションを販売できます。
 
--   [**Microsoft Cloud for US Government**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US): 米国政府機関向けに一から設計された Microsoft Cloud for US Government では、大規模な連邦機関から小さな町の行政機関まで、米国公共部門の顧客はさまざまなクラウド コンピューティング サービスを選択できます。 顧客の特定のニーズを適切に満たすために、Microsoft はデータセンターに多大な投資を行い、米国連邦政府や州政府の政策、規制、要件に対するコンプライアンスを達成することに専念しています。 
+-   [**米国政府機関向け Microsoft Cloud** ](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US)徹底的米国政府機関向けに設計された Microsoft Cloud for Government により、米国の公的機関のお客様-小さい町政府に大きなの連邦政府機関から — にクラウド コンピューティング サービスの範囲から選択します。 顧客固有のニーズに適切に対応するため、Microsoft はデータセンターに多額の投資を行い、米国連邦政府や州政府の政策、規制、要件に関するコンプライアンスの達成に取り組んでいます。 
 
     Microsoft Cloud for US Government に登録して顧客への販売を行う方法については、「[Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)」をご覧ください。
 
--   [**Microsoft Cloud ドイツ**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany): Microsoft Cloud ドイツでは、独自のモデルを使用してドイツのデータセンターから Azure、Office 365、Dynamics 365 を提供しています。 このモデルでは、顧客データへのアクセスは、独立したドイツ データ トラスティによってドイツ法に基づいて制御されます。 Deutsche Telecom の子会社である T-Systems International GmbH は、Microsoft Cloud ドイツの独立したデータ トラスティとして機能します。 
+-   [**Microsoft Cloud Germany** ](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud Germany 独自のモデルを使ってドイツのデータ センターから Azure、Office 365 および Dynamics 365 を提供します。 このモデルでは、顧客データへのアクセスは、独立したドイツ データ トラスティによってドイツ法に基づいて制御されます。 Deutsche Telecom の子会社である T-Systems International GmbH は、Microsoft Cloud ドイツの独立したデータ トラスティとして機能します。 
 
     > [!IMPORTANT]  
-    > 顧客のニーズに進化したものに基づき、ドイツ、クラウド戦略に焦点を当てますグローバル、クラウドと一貫性のある、ドイツのクラウドの新しい領域の配信を提供します。 このフォーカスのあるしますはしなくなった新しい顧客を受け入れるか、現在利用可能な Microsoft Cloud ドイツから、新しいサービスを展開します。 既存のお客様は、現在のクラウド サービス現在では、利用可能なために必要なセキュリティ更新プログラムが維持します。 これを使用する続行できます。
+    > お客様のニーズにおける進化に基づき、Microsoft のドイツ向けのクラウド戦略では、弊社のグローバル クラウド サービスと一貫性のある、ドイツでの新しいクラウドの地域を提供することに焦点を当てます。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在利用可能なクラウド サービスを引き続き利用できます。Microsoft では、必要なセキュリティ更新プログラムを維持する予定です。
     >  
-    > 新しい顧客に進むには、使用可能になったときに、現在利用可能なヨーロッパの地域またはドイツ内の新しい領域を使用するオプションがあります。 詳細については、 [Microsoft からドイツのデータ センターを新しいクラウド サービスを提供する](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)を参照してください。
+    > 今後、新しい顧客は、現在利用可能なヨーロッパの地域を利用するか、または利用可能になった時点でドイツの新しい地域を利用することができます。 詳細については、[Microsoft によるドイツの新しいデータセンターからのクラウド サービスの提供](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)に関するページを参照してください。
 
     
--   [**中国の 21Vianet で運営されている Azure および Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China): Microsoft は、Beijing 21Vianet Broadband Data Center Co., Ltd の完全子会社である Shanghai Blue Cloud Technology Co., Ltd. (21Vianet) との特別なパートナーシップによって中国でのクラウド サービスを提供しています。21Vianet は通信会社に依存しない中国最大のインターネット プロバイダーで、データセンター、ホスティング、マネージド ネットワーク、クラウド コンピューティング インフラストラクチャ サービスを提供しています。 
+-   [**Azure および Office 365 が中国の 21 vianet が運営**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft は、上海青いクラウド テクノロジ co., Ltd. で独自のパートナーシップにより、中国でクラウド サービスを提供します。(21 vianet) 北京 21 vianet ブロード バンドのデータ センター co., Ltd. の出資子会社であります。21 vianet は、データ センター、ホスト、管理対象のネットワーク、およびクラウド コンピューティング中国でのインフラストラクチャ サービスの最大のキャリアに中立的なインターネット プロバイダーです。 
 
     Microsoft はテクノロジ プロバイダーですが、サービスは運営せず、21Vianet が単独で Microsoft クラウド サービスの運営、提供、管理を行っています。 Microsoft テクノロジのライセンスによって、21Vianet は Azure および Office 365 のサービスを提供し、Azure および Office 365 のデータセンターを運営して中国本土内のデータを保持できます。 21Vianet では、サブスクリプションと課金のサービスのほか、サポートも提供します。
 

@@ -2,17 +2,17 @@
 title: Microsoft 製品の試用版を顧客に提供する | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: 顧客は、Microsoft サブスクリプション製品を 30 日間テストすることができます。 その他の多くのオンライン サービスと同様、カタログ内のこれらの試用版にサインアップすることができます。
-author: labrenne
+description: 顧客は、Microsoft サブスクリプション製品を 30 日間テストすることができます。 その他の多くのオンライン サービスと同様のカタログでこれらの試用版にサインアップすることができます。
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c9a005c185ab6abc466495fe1b61b6230a4c9955
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ed6b4b4b0a6bcbcbebfd5ac0f93a2d1fc9cb69d4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917444"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585065"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Microsoft 製品の試用版を顧客に提供する
 
@@ -24,7 +24,7 @@ ms.locfileid: "8917444"
 
 ## <a name="sign-your-customer-up-for-a-trial"></a>顧客を試用版にサインアップする
 
-1.  パートナー センターで**の販売**をから**カタログ**に移動します。 
+1.  **販売**に移動し、パートナー センター**カタログ**します。 
 2.  カタログで、**[請求頻度]** から **[試用版プラン]** をクリックします。 これにより、無料試用版の表示のみが有効になり、他の無料ではないプランは無効になります。 試用版は、カタログの **[試用版]** タブに表示されます。
 3.  提供する無料試用版を選択し、**[送信]** を選択します。 すべての試用版は、30 日間請求がありません。 試用期間中いつでも有料サブスクリプションに切り替えることができます。
 

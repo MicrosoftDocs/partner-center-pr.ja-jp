@@ -1,26 +1,26 @@
 ---
-title: Microsoft から顧客への通信 |パートナー センター
+title: マイクロソフトから顧客への連絡 | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: 一般に、顧客とのすべての連絡は、クラウド ソリューション プロバイダー パートナーが行う必要があります。
+description: 一般的に、お客様とのすべての通信は、クラウド ソリューション プロバイダー パートナーから行われることが求められます。
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 連絡、お客様への連絡、マイクロソフトに問い合わせる
 ms.localizationpriority: medium
 ms.openlocfilehash: fbb5e9fab5ae9a92218988f0ff1465443d9a4eac
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683461"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586675"
 ---
-# <a name="customer-communication-from-microsoft"></a>マイクロソフトから顧客への連絡
+# <a name="customer-communication-from-microsoft"></a>Microsoft から顧客への通信
 
 **適用対象**
 
 -  パートナー センター
--  Microsoft Cloud for US Government のパートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 
 
 一般的に、お客様とのすべての通信は、クラウド ソリューション プロバイダー パートナーから行われることが求められます。 貴社はお客様と課金の関係を維持しているため、Microsoft は、サブスクリプションに関連する通信をお客様に直接送ることはありません。

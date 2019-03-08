@@ -3,17 +3,17 @@ title: Azure Partner Shared Services の追加 | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
 description: Azure Partner Shared Services は、CSP プログラムのパートナー様向けの新しいプランの種類です。このプランでは、パートナー様自身が使用する Azure サブスクリプションを購入できます。
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-Keywords: Azure, shared services, tenant
+Keywords: Azure, Shared Services, テナント
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917634"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586985"
 ---
 # <a name="add-azure-partner-shared-services"></a>Azure Partner Shared Services の追加
 
@@ -21,7 +21,7 @@ ms.locfileid: "8917634"
 
 -  パートナー センター
 
-Azure Partner Shared Services は、CSP プログラムのパートナー様向けの新しいプランの種類です。このプランでは、パートナー様自身が使用する Azure サブスクリプションを購入できます。  パートナー様にとっては、Microsoft との Azure ライセンス契約および再販契約を統合できるだけでなく、Azure を購入、追跡、管理するための統一された方法を採用する機会となります。 Azure Partner Shared Services の提供開始により、パートナー様は、Microsoft Enterprise Agreement および Web ダイレクト プログラムと同じように、CSP で柔軟に Azure サブスクリプションを利用できるようになりました。開発環境やテスト環境の構築、内部負荷の展開、共有サービスやマルチテナント アプリケーションのホスティングなどのシナリオにも対応できます。  
+Azure Partner Shared Services は、CSP プログラムのパートナー様向けの新しいプランの種類です。このプランでは、パートナー様自身が使用する Azure サブスクリプションを購入できます。  Azure のライセンスおよび再販契約をマイクロソフトとの統合に購入、追跡、および機能に加えて Azure を管理するための統一的な方法を使用するパートナーにとっての機会を作成します。 Azure Partner Shared Services の提供開始により、パートナー様は、Microsoft Enterprise Agreement および Web ダイレクト プログラムと同じように、CSP で柔軟に Azure サブスクリプションを利用できるようになりました。開発環境やテスト環境の構築、内部負荷の展開、共有サービスやマルチテナント アプリケーションのホスティングなどのシナリオにも対応できます。  
 
 ## <a name="create-the-shared-services-tenant"></a>共有サービス テナントを作成する
 
@@ -55,6 +55,6 @@ Azure の利用状況は、CSP 請求書と調整ファイルに記載されま�
 
 ## <a name="azure-partner-shared-services-pricing"></a>Azure Partner Shared Services の価格
 
-Azure Partner Shared Services の新しい価格ファイルを確認するには、**[販売]** >  **[料金とプラン]** の順に移動し、現在の月の価格表を選択します。 今後数週間のうちには、特定の価格カードの API もリリースされる予定です。
+Azure Partner Shared Services の新しい価格ファイルを確認するには、**[販売]** > **[料金とプラン]** の順に移動し、現在の月の価格表を選択します。 今後数週間のうちには、特定の価格カードの API もリリースされる予定です。
 
 

@@ -6,21 +6,21 @@ description: アクティビティ ログは、顧客の取引やパートナー
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
+Keywords: アクティビティ ログ、サブスクリプション、サブスクリプション、課金、トランザクションの支払い
 ms.localizationpriority: medium
 ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683761"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586065"
 ---
-# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログを表示する
+# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログの表示
 
 **適用対象**
 
 -  パートナー センター
--  Microsoft Cloud for US Government のパートナー センター
+-  米国政府機関向け Microsoft Cloud のパートナー センター
 -  
 
 
@@ -28,9 +28,9 @@ ms.locfileid: "8683761"
 
 アクティビティ ログは、顧客アカウントや製品の取引に対するパートナーのアクションのレコードを提供します。 アクティビティ ログを .csv ファイルにエクスポートすることもできます。
 
-**アクティビティ ログを表示およびエクスポートする**
+**表示して、アクティビティ ログのエクスポート**
 
-1.  **パートナー センター**メニューで、**アクティビティ ログ**を選択します。
+1.  **パートナー センター**メニューの **アクティビティ ログ**します。
 2.  **[開始]** フィールドと **[終了]** フィールドで、アクティビティ ログの期間を選びます。 アクティビティ ログの既定の設定では、最近 1 か月間のログがエクスポートされます。
 
     各アクティビティ ログには、一覧に表示されている顧客の **[サブスクリプション]** ページへのリンクが示されます。

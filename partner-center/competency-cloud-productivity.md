@@ -3,20 +3,20 @@ title: Cloud Productivity コンピテンシー
 ms.topic: article
 ms.date: 10/29/2018
 description: Cloud Productivity コンピテンシーは、Office 365 のエンタープライズ展開を専門とするパートナー様向けのコンピテンシーです。 認定クラウド ソリューション パートナーを探している顧客に対して、実証済みのクラウド ソリューション プロバイダーとしてこのコンピテンシーによって自社を差別化しましょう。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: コンピテンシー, コンピテンシー, Cloud Productivity
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0aabf09435dbb1f08ddd79f6fac5075860c3033
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794645"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585495"
 ---
 >[!IMPORTANT]
->このコンピテンシーを達成するための要件については、 [Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)にアクセスします。
+>このコンピテンシーを取得するための要件については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/competencies)を参照してください。
 
 <!--
 # Cloud Productivity competency

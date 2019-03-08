@@ -2,17 +2,17 @@
 title: 料金とプラン | パートナー センター
 ms.topic: article
 ms.date: 10/29/2018
-description: プランの一覧には、パートナー センターとその価格設定情報を通じて購入できるさまざまな製品ファミリが含まれています。
-author: labrenne
+description: プランの一覧には、パートナー センターとその価格情報を通じて購入できる別の製品ファミリが含まれています。
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 91ea3fefc6888c14060360a98bbd2373ff905d7a
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c71bbd0b5945c3e958aa22bc1fb1b7589bcca36a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995756"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586735"
 ---
 # <a name="pricing-and-offers"></a>料金とプラン
 
@@ -22,7 +22,7 @@ ms.locfileid: "8995756"
 
 クラウド ソリューション プロバイダー プログラムの最新の価格表とプランを確認するには、**[販売] > [料金とプラン]** に移動します。 価格表は 2 つに分けられています。1 つは Office 365、Microsoft Dynamics CRM、Enterprise Mobility Suite などライセンスベースのサービス用で、もう 1 つは Azure など使用量ベースのサービス用です。 
 
-プランの一覧には、パートナー センターを通じて購入できるさまざまな製品ファミリが含まれています。 現在、これには Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM、Microsoft Azure が含まれています。 今後は、さらに多くの製品またはサービスが追加されます。
+プランの一覧には、パートナー センターを通じて購入できる別の製品ファミリが含まれています。 現在、これには Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM、Microsoft Azure が含まれています。 今後は、さらに多くの製品またはサービスが追加されます。
 
 各製品グループ内には、ビジネスのタイプによって販売可能なさまざまな SKU や製品バンドルがあります。 それぞれの詳しい最新情報には、「製品とプラン」のページにあるクラウド リセラー製品マトリックスを使用してアクセスできます。
 
@@ -30,7 +30,7 @@ ms.locfileid: "8995756"
 
 ライセンス ベースのサービスには、変更の 30 日前に提供される価格表プレビューが含まれています。 価格表プレビューを表示するには、**[販売] > [料金とプラン]** に移動します。 使用量ベースのサービスは動的であるため、これらのサービスに対する価格表プレビューはありません。 次の表では、価格表の各項目について説明しています。
 
-|**項目**        |**説明**      |
+|**項目**        |**定義**      |
 |:-----------   |:-----------   |
 |ADD   |価格表に追加された新しい項目|
 |CHG   |価格表への変更 (SKU の説明の変更など)|
@@ -51,8 +51,8 @@ ms.locfileid: "8995756"
 
 販売できるさまざまな SKU と製品バンドルについては、料金とプランに関するページのクラウド リセラー製品マトリックスをご覧ください。 製品マトリックスには、ロケールごとに販売可能なプランの情報が含まれています。 価格表にある項目が製品マトリックスに含まれていない場合、その製品はまだ注文できません。 製品が注文可能になると、製品マトリックスが更新されます。
 
-CSP パートナー向けを使用して、パートナー センター ソフトウェア開発キット (Sdk)。 [料金とプラン] ページには、CSP の Azure サービスの一覧も公開されています。
+使用している CSP パートナー向け、パートナー センター ソフトウェア開発キット (Sdk)。 [料金とプラン] ページには、CSP の Azure サービスの一覧も公開されています。
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>製品マトリックスと価格表に関する質問
 
-価格表または製品マトリックスについて質問がある場合は、パートナー センターからサービス リクエストを送信します。
+Pricelist またはオファーのマトリックスについて質問等がございましたら、パートナー センターを通じてサービス要求を送信します。

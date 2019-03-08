@@ -1,81 +1,81 @@
 ---
-title: クラウド ソリューション プロバイダー プログラムのパートナー様の |パートナー センター
+title: クラウド ソリューション プロバイダー プログラムでのパートナー プラン | パートナー センター
 ms.topic: article
 ms.date: 03/01/2019
-description: クラウド ソリューション プロバイダー プログラムを通じて販売しているパートナー様を利用できるプランについて説明します。
+description: クラウド ソリューション プロバイダー プログラムで販売するパートナーが利用できるプランについて説明します。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: クラウド ソリューション プロバイダーのクラウド ソリューション プロバイダー プログラムでは、CSP、製品の追加、顧客、パートナーは、CSP のプラン、クラウド ベースのサービスへの販売 CSP, Azure RI での Azure、Office 365、Dynamics、CSP パートナーは、販売、Azure 仮想マシンのインスタンスを Azure の予約予約、オンライン サービス、サブスクリプションのソフトウェア AHUB, Azure 上の SQL Server, Azure, 顧客のサブスクリプションで Windows Server
+keywords: クラウド ソリューション プロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, 製品の追加, パートナー プラン, CSP プラン, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナー, CSP での販売, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, オンライン サービス, サブスクリプション ソフトウェア, AHUB, SQL Server on Azure, Windows Server on Azure, 顧客のサブスクリプション
 ms.localizationpriority: medium
 ms.openlocfilehash: ea246701f57615064a87abb37cecafbb0d9151dc
-ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "9122259"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586715"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>パートナー様のクラウド ソリューション プロバイダー プログラム 
+# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでのパートナー プラン 
 
 **適用対象**
 
 -  CSP パートナー
 
-クラウド ソリューション プロバイダー プログラム (CSP) で Microsoft パートナーでは、それらを利用できるプランの拡大カタログがあります。 すべての [Microsoft クラウド サービス](https://partner.microsoft.com/cloud-solution-provider/products-and-services)と、その他のさまざまな製品またはサービス (頻繁に変更あり) を販売できます。 当月 CSP で販売可能な製品またはサービスを確認するには、パートナー センターにサインインし、「[**料金とプラン**](https://partnercenter.microsoft.com/pcv/sales)」のページをご覧ください。  
+クラウド ソリューション プロバイダー プログラム (CSP) に参加している Microsoft パートナーが利用できるプランのカタログは増大し続けています。 すべての [Microsoft クラウド サービス](https://partner.microsoft.com/cloud-solution-provider/products-and-services)と、その他のさまざまな製品またはサービス (頻繁に変更あり) を販売できます。 当月 CSP で販売可能な製品またはサービスを確認するには、パートナー センターにサインインし、「[**料金とプラン**](https://partnercenter.microsoft.com/pcv/sales)」のページをご覧ください。  
 
-クラウド ソリューション プロバイダー プログラムに登録されていないかどうか。 登録する方法について詳しくは、[クラウド ソリューション プロバイダー](https://partner.microsoft.com/cloud-solution-provider)を参照してください。 
+クラウド ソリューション プロバイダー プログラムにまだ登録していない場合、 登録方法の詳細については、[クラウド ソリューション プロバイダー](https://partner.microsoft.com/cloud-solution-provider)のページを参照してください。 
 
-## <a name="what-you-can-sell-through-csp"></a>CSP を通じて販売することができます。
+## <a name="what-you-can-sell-through-csp"></a>CSP で販売できる対象
 
-現時点では、次の種類の製品やサービスは、CSP 顧客に販売できます。
+現時点では、次の種類の製品とサービスを CSP のお客様に販売できます。
 
 - Azure Reservations<br> 
 
-    お客様は、1 年または 3 年の期間中、事前に Azure virtual machines で領域を予約できます。<br>
+    お客様は、1 年間または 3 年間、Azure Virtual Machines 上の領域を事前に予約できます。<br>
     
-    詳しくは、[販売 Microsoft Azure Reserved VM Instances](azure-reservations.md)を参照してください。
+    詳細については、次を参照してください。[販売 Microsoft Azure Reserved VM Instances](azure-reservations.md)します。
 
 - ソフトウェア<br>
 
-    お客様は、(Windows Server および SQL Server に Azure reserved VM instances で実行する、1 年または 3 年の期間の) へのソフトウェア サブスクリプションを購入できます。<br>
+    顧客はソフトウェア サブスクリプション (1 年間または 3 年間、Azure Reserved VM Instances 上で Windows Server および SQL Server を実行できる) を購入できます。<br>
  
-    詳しくは、 [CSP を通じてソフトウェア サブスクリプションの販売](csp-software-subscriptions.md)を参照してください。  
+    詳細については、次を参照してください。 [CSP を介したソフトウェア サブスクリプションを販売](csp-software-subscriptions.md)します。  
 
 - オンライン サービス<br>
 
-    *オンライン サービス*は、新しい*サブスクリプション*と呼ばれるものは現在の名前です。 注文し、1 か所で製品の複数の種類の支払いを容易にできるように、したタスクの「サブスクリプションを追加する」フローを統合されたタスクの「製品の追加」フローにします。<br>
+    *オンライン サービス*は、現在*サブスクリプション*と呼ばれているものの新しい名前です。 複数の種類の製品を 1 か所で簡単に注文して支払うことができるように、"サブスクリプションの追加" タスク フローを "製品の追加" タスク フローに統合しました。<br>
     
-    詳しくは、[顧客のサブスクリプション](customer-subscriptions.md)を参照してください。
+    詳細については、次を参照してください。[顧客サブスクリプション](customer-subscriptions.md)します。
 
-- サービス (SaaS) とその他の[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)製品としてのソフトウェア<br>
+- としてのソフトウェア (SaaS) サービスとその他の[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)製品<br>
 
-    独立系ソフトウェア ベンダー (Isv) から、SaaS 製品にサブスクリプションを販売できます。 SaaS のみが**オンライン サービス**提供を確認するには、**発行元**を**パートナー**に設定するのに、フィルターを使用します。 SaaS を提供するは、その顧客の購入できるすべてが表示されます。<br>
+    独立系ソフトウェア ベンダー (Isv) から、SaaS 製品にサブスクリプションを販売できます。 SaaS プランのみを表示する**Online services**、フィルターを使用して設定**パブリッシャー**に**パートナー**します。 SaaS の利用はその顧客の購入できるをすべてが表示されます。<br>
     
-    [**市場**] ページもこれらの製品に関する情報を確認できます。 このページにも他のパートナー センターではない、Azure ポータルから購入する必要があります製品の種類に関する情報が含まれることに注意してください。<br>
+    これらの製品についての情報を検索することもできます、 **Marketplace**ページ。 このページは、Azure portal、パートナー センターではないから購入する必要があります製品の他の種類に関する情報も含まれることに注意してください。<br>
 
-    詳しくは、 [Azure Marketplace の製品へのサブスクリプションの販売](sell-marketplace-products.md)を参照してください。
+    詳細については、次を参照してください[Azure Marketplace の製品にサブスクリプションを販売。](sell-marketplace-products.md)
 
 
-## <a name="buy-csp-offers"></a>CSP のプランを購入します。
+## <a name="buy-csp-offers"></a>CSP プランの購入
 
-CSP 顧客の代理として製品やサービスを購入するには、確認しとしを順序の支払い、顧客が、注文を作成するには、カートに追加の項目を選択します。 一般的なプロセスは、以下について説明します。 (特定の製品の種類の注文の詳細については、上記のリンクを参照してください)。
+CSP の顧客に代わって製品およびサービスを購入するには、顧客が必要とする項目を選択し、カートに追加します。これにより、注文が作成されたら、注文を確認して支払いを行います。 一般的なプロセスを以下に示します。 (特定の製品の種類の注文の詳細については、上記のリンクを参照してください)。
 
-1. パートナー センター メニューから**顧客**を選択しから購入する顧客を見つけます。 
+1. 選択**顧客**パートナー センターのメニューからし、ユーザーからの購入を希望した顧客を見つけます。 
 
-2. 顧客のレコードを展開する顧客の行の末尾にある下向き矢印を選択し、**追加の製品**を選択します。 ここから、する順序を作成しています。 注文は、さまざまな種類の複数の項目を含めることができますが、すべて、同じお客様向けにする必要があります。
+2. 顧客の行の末尾にある下向き矢印を選択して顧客レコードを展開し、**[製品の追加]** を選択します。 ここから、注文を作成します。 注文にはさまざまな種類の複数の項目を含めることができますが、すべて同じ顧客を対象としている必要があります。
 
-3. **製品の追加**] ページで、 **Azure**、**オンライン サービス**、または**ソフトウェア**から選択します。
+3. **[製品の追加]** ページで、**[Azure]**、**[オンライン サービス]**、**[ソフトウェア]** のいずれかを選択します。
 
-4. 探している製品をより簡単に見つけるには、利用可能なフィルターを調整します。 利用可能な完全な一覧については、**任意**に適用可能なフィルターを設定します。 
+4. 探している製品をより簡単に検索するには、使用可能なフィルターを微調整します。 使用可能な製品のすべての一覧を見るには、該当するフィルターを **[任意]** に設定します。 
 
-5. 顧客は、目的の数量を入力し、[**カートに追加**する製品を選択します。
+5. 顧客が必要とする製品を選択し、目的の数量を入力して、**[カートに追加]** を選択します。
 
-6. カートに必要なすべての項目を追加するまでは、手順 4. ~ 5 を繰り返します。 **[確認]** を選択して、注文内容を確認します。  
+6. 必要な項目をすべてカートに追加できるまで、手順 4 と 5 を繰り返します。 **[確認]** を選択して、注文内容を確認します。  
 
-7. **注文の確認**] ページで、ことを確認または製品と数量を変更し、**購入**の順序を購入するします。 
+7. **[ご注文の確認]** ページで、製品と数量を確認または変更し、**[購入]** を選択して注文内容を購入します。 
 
 8. 注文番号を含む注文の詳細は、次のページに表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
 
 > [!NOTE]
-> 請求処理のしくみについては、[**課金の基本**](https://docs.microsoft.com/en-us/partner-center/billing-basics)を参照してください。
+> 情報請求処理のしくみについては、次を参照してください。 [**課金の基礎**](https://docs.microsoft.com/en-us/partner-center/billing-basics)します。
 
 
