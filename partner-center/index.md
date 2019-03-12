@@ -1,11 +1,11 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: ここから開始すると、パートナー センター ヘルプ
+title: パートナー センターのヘルプはこちらから
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "パートナー センターでは、Microsoft クラウド ソリューション プロバイダー (CSP) プログラムで、ビジネスを拡大できます。 アカウントの設定、顧客との連携、Action Pack サブスクリプションを購入および CSP と MPN プログラムのパートナーの詳細情報を検索します。\_"
-author: labrenne
+description: "パートナー センターは、Microsoft クラウド ソリューション プロバイダー (CSP) プログラムでお客様のビジネスを成長させるお手伝いをします。 アカウントを設定し、顧客とつながり、Action Pack サブスクリプションを購入し、CSP および MPN プログラムのパートナーの詳細情報を検索できます。\_"
+author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 # <a name="welcome-to-partner-center"></a>パートナー センターへようこそ
 
-Microsoft パートナー センターは、Microsoft とエンド ツー エンドの関係を管理するための 1 つの場所となる場所です。 ツールと取引し、のメンバーシップ、顧客紹介、クラウド ソリューション プロバイダー (CSP) プログラムなど、ビジネスの拡大するのに役立つリソースがあります。 アカウントの管理、顧客との接続、Action Pack サブスクリプションを購入およびでは、パートナー センター ヘルプ ライブラリ、インセンティブ プログラムに登録するためのベスト プラクティスについて調べる。
+Microsoft パートナー センターは、Microsoft とのエンド ツー エンドの関係を 1 か所で管理できる場所です。 お客様の取引やビジネスの成長を支援するツールやリソースが用意されています。これには、メンバーシップ オプション、顧客の紹介、クラウド ソリューション プロバイダー (CSP) プログラムなどがあります。 アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入、パートナー センター ヘルプ ライブラリ内のインセンティブ プログラムへの登録に関するベスト プラクティスを確認できます。
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -28,8 +28,8 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                     </div>
                     <div class="cardText">
                         <h3>お知らせ</h3>
-                        <p>遅延の仕様変更とニュースを検出するパートナー センターのダッシュ ボードにサインインします。</p>
-                        <p><a href="https://partner.microsoft.com/pcv/announcements"><b>今すぐサインインしてください</b></a></p>
+                        <p>パートナー センター ダッシュボードにサインインして、最新の変更やニュースを見つけます。</p>
+                        <p><a href="https://partner.microsoft.com/pcv/announcements"><b>今すぐサインイン</b></a></p>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                     </div>
                     <div class="cardText">
                         <h3>Yammer</h3>
-                        <p>タッチ Yammer コミュニティを通じて維持します。</p>
+                        <p>Yammer コミュニティにより最新のニュースを把握できます。</p>
                         <p><a href="https://go.microsoft.com/fwlink/p/?linkid=851605"><b>コミュニティに参加</b></a></p>
                     </div>
                 </div>
@@ -63,9 +63,9 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>API と SDK の早期導入者プログラム</h3>
-                        <p>ワーク ショップ、新機能へのアクセスを取得して、専門家からのサポートします。</p>
-                        <p><a href="/partner-center/develop/early-adopter-program"><b>使ってみる</b></a></p>
+                        <h3>API および SDK 早期導入者プログラム</h3>
+                        <p>ワークショップ、新機能、領域の専門家からのサポートを利用できます。</p>
+                        <p><a href="/partner-center/develop/early-adopter-program"><b>作業の開始</b></a></p>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
 </ul>
 
 <h2>新着情報</h2>
-<p>新機能、利点、プラン、およびビジネスの拡大する機会についての最新情報を取得します。</p>
+<p>新機能、利点、キャンペーン、およびビジネス成長の機会に関する最新情報を入手しましょう。</p>
 <ul id="products1" class="cardsZ cols cols3 panelContent singlePanelContent">
     <li>
         <div class="cardSize">
@@ -82,7 +82,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/software-assurance-lp">
                         <h3>ソフトウェア アシュアランス プログラム</h3>
-                        <p>ソフトウェア アシュアランスのトレーニングとパートナー センターでの展開サービスに登録することができるようになりました。</p></a>
+                        <p>パートナー センターでソフトウェア アシュアランス トレーニングと展開サービスに今すぐ登録できます。</p></a>
                     </div>
                 </div>
             </div>
@@ -93,8 +93,8 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>伝票検証および引き換えツール</h3>
-                        <p>要求し、お客様のビジネスと開発のニーズをサポートするバウチャーを利用します。</p></a>
+                        <h3>受講券の確認と受け取りツール</h3>
+                        <p>お客様の顧客のビジネスと開発のニーズに応える受講券を要求して引き換えます。</p></a>
                     </div>
                 </div>
             </div>
@@ -105,8 +105,8 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/responding-to-referrals#new-referrals">
-                        <h3>紹介案件をより効率的に管理します。</h3>
-                        <p>方法できます紹介 RFI を確認し、承諾または辞退することが向上します。</p></a>
+                        <h3>紹介をより効率的に管理できます。</h3>
+                        <p>紹介 RFI の確認方法と、それを承諾または辞退する方法が向上しました。</p></a>
                     </div>
                 </div>
             </div>
@@ -115,7 +115,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
 </ul>
 
 
-<h2>パートナー センターで作業</h2>
+<h2>パートナー センターでの操作</h2>
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -162,7 +162,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>ビジネスを拡大する</h3>
+                        <h3>Grow your business</h3>
                         <p><a href="/partner-center/referrals">ビジネス プロファイル/紹介</a><br /><a href="/partner-center/promotions">プロモーション</a><br /><a href="/partner-center/get-special-pricing-for-offers">特別価格の対象となる業界への販売</a></p>
                     </div>
                 </div>
@@ -201,7 +201,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                         </div>
                     </div>                
                     <div class="cardText">
-                        <h3><a href="/partner-center/develop/">パートナー センター API/SDK のリファレンス</a></h3>
+                        <h3><a href="/partner-center/develop/">パートナー センターの API/SDK リファレンス</a></h3>
                     </div>
                 </div>
             </div>
@@ -217,7 +217,7 @@ Microsoft パートナー センターは、Microsoft とエンド ツー エン
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">パートナーではないかどうか。 Microsoft Partner Network に参加できるようになりました。</a></h3>
+                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">まだパートナーでない場合は、Microsoft Partner Network に今すぐ参加できます。</a></h3>
                     </div>
                 </div>
             </div>

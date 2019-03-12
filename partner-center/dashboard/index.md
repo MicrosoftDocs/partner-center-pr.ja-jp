@@ -1,22 +1,19 @@
 ---
 layout: HubPage
 hide_bc: true
-title: 開発者とパートナーのダッシュボード サービスについてのドキュメント
-description: ダッシュボードにサインインして、アプリの公開、デスクトップ アプリケーションのデータの取得、ハードウェア認定の取得、windows update へのドライバーの公開、またはリセラーとしての取引を行う場合、このドキュメントが役立ちます。
-author: v-chmccl
+title: 開発者とパートナー センター サービスについてのドキュメント
+ms.date: 10/29/2018
+description: パートナー センターにサインインして、アプリの公開、デスクトップ アプリケーションのデータの取得、ハードウェア認定の取得、Windows Update へのドライバーの公開、またはリセラーとしての取引を行う場合、このドキュメントが役立ちます。
+author: LauraBrenner
+ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
-ms.openlocfilehash: 28b65a154611020de02ceb15145fcf6271d34df3
-ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2018
-ms.locfileid: "1978559"
 ---
+
 <div id="main" class="v2">
     <div class="container">
-        <h1>ダッシュボード サービスについてのドキュメント</h1>
-        <p>ダッシュボードを使用して、アプリやゲームの公開、デスクトップ アプリケーションのデータの取得、ハードウェア認定の取得、Windows Update へのドライバーの公開、またはリセラーとしての取引を行う場合、このドキュメントが役立ちます。</p>
+        <h1>パートナー センター サービスについてのドキュメント</h1>
+        <p>パートナー センターを使用して、アプリやゲームの公開、デスクトップ アプリケーションのデータの取得、ハードウェア認定の取得、Windows Update へのドライバーの公開、またはリセラーとしての取引を行う場合、このドキュメントが役立ちます。</p>
         <ul class="pivots" style="list-style:none;margin:0;">
             <li>
                 <a href="#products"></a>
@@ -93,7 +90,7 @@ ms.locfileid: "1978559"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>CSP パートナーと MPN パートナー</h3>
-                                                    <p>ダッシュボードを使用して、リセラー ビジネスとマイクロソフト パートナーシップを構築、管理、成長させる方法を学ぶことができます。</p>
+                                                    <p>パートナー センターを使用して、リセラー ビジネスとマイクロソフト パートナーシップを構築、管理、成長させる方法を学ぶことができます。</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -112,7 +109,7 @@ ms.locfileid: "1978559"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>開発者 API と SDK</h3>
-                                                    <p>API を使用して、顧客、注文、請求、およびサポートのシステムをマイクロソフトのパートナー ダッシュボードに統合することができます。</p>
+                                                    <p>API を使用して、顧客、注文、請求、およびサポートのシステムをマイクロソフトのパートナー センターに統合することができます。</p>
                                                 </div>
                                             </div>
                                         </div>
