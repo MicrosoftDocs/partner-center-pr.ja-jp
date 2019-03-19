@@ -33,9 +33,9 @@ CSP プランを販売することを確認するのには、次の表のいず�
 
 お住まいの国がサポートされていない場合は、顧客、Office の管理 URL を使用して CSP リレーションシップを確立します。 
 
-- パートナーの直接の請求書を使用して、次の url:https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0します。 置換**partnertenantguid**テナント ID に置き換えます。 
+- パートナーの直接の請求書を使用して、次の url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0します。 置換**partnertenantguid**テナント ID に置き換えます。 
 
-- 間接リセラーの url:https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguidします。 置換は**IRtenantguid**テナント ID に置き換えます。 置換**IRMPNID** MPN の ID と置換**IPtenantguid**間接プロバイダーのテナント id にします。
+- 間接リセラーの url: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguidします。 置換は**IRtenantguid**テナント ID に置き換えます。 置換**IRMPNID** MPN の ID と置換**IPtenantguid**間接プロバイダーのテナント id にします。
 
 ## <a name="africa-region-and-market"></a>アフリカ地域や市場
 
