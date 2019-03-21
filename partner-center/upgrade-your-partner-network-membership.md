@@ -110,7 +110,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 Microsoft Action Pack サブスクリプションを取り消す場合は、パートナー センターのサポートにご連絡ください。
 
-1. https://partnercenter.microsoft.com/partner/support に移動します。
+1. [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support) に移動します。
 
 2. **[パートナー センターに関する問題の報告]** を選び、次のページで **[New request]** (新しい要求) を選びます。
 
