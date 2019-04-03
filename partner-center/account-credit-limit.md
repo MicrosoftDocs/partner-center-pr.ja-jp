@@ -9,27 +9,29 @@ ms.author: labrenne
 keywords: credit limit, purchasing, limit increase, credit line
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5183e3787f3573b0d7f2bd2f318fa48ef68c3922
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: eea3640ca69d97d3355fec98d700268f7433fb99
+ms.sourcegitcommit: 21be97e18e9d0f9aa007f3324bedd41d0af5fbab
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586185"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "58220802"
 ---
-# <a name="cloud-solution-provider-csp-account-credit-limits"></a><span data-ttu-id="62541-104">クラウド ソリューション プロバイダー (CSP) アカウントの与信限度額</span><span class="sxs-lookup"><span data-stu-id="62541-104">Cloud Solution Provider (CSP) account credit limits</span></span>
+# <a name="cloud-solution-provider-csp-account-credit-limits"></a><span data-ttu-id="a0172-104">クラウド ソリューション プロバイダー (CSP) アカウントの与信限度額</span><span class="sxs-lookup"><span data-stu-id="a0172-104">Cloud Solution Provider (CSP) account credit limits</span></span>
 
-<span data-ttu-id="62541-105">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="62541-105">**Applies to**</span></span>
+<span data-ttu-id="a0172-105">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="a0172-105">**Applies to**</span></span>
 
-- <span data-ttu-id="62541-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="62541-106">Partner Center</span></span>
+- <span data-ttu-id="a0172-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="a0172-106">Partner Center</span></span>
 
-<span data-ttu-id="62541-107">CSP プログラムのパートナーになると、パートナーの組織に与信限度額が割り当てられ、顧客からの支払いを受ける前に、顧客に販売するソフトウェアを購入できます。</span><span class="sxs-lookup"><span data-stu-id="62541-107">When you become a partner in the CSP program, your organization is given a credit limit that enables you to purchase software to sell to your customers while you are waiting for customers to pay you.</span></span> <span data-ttu-id="62541-108">与信限度額を確認するには、貴社の与信限度額の状態についての説明が含まれた最新のお知らせをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="62541-108">To find your credit limit, please review your recent communication that explains where you stand with regard to your credit limit.</span></span>  
+<span data-ttu-id="a0172-107">CSP プログラムのパートナーになるとすると、自動的には、会社のクレジット。</span><span class="sxs-lookup"><span data-stu-id="a0172-107">When you become a partner in the CSP program, we automatically give your company a line of credit.</span></span> <span data-ttu-id="a0172-108">クレジットのことを購入するを待っている間に、顧客に販売するソフトウェアを購入することができます。</span><span class="sxs-lookup"><span data-stu-id="a0172-108">Having credit allows you to purchase software to sell to your customers while you’re waiting for customers to pay you.</span></span> 
 
-## <a name="what-you-need-to-know-about-your-credit-limit"></a><span data-ttu-id="62541-109">与信限度額について知っておくべきこと</span><span class="sxs-lookup"><span data-stu-id="62541-109">What you need to know about your credit limit</span></span>
+## <a name="monitoring-your-credit-use"></a><span data-ttu-id="a0172-109">クレジット使用の監視</span><span class="sxs-lookup"><span data-stu-id="a0172-109">Monitoring your credit use</span></span>
 
-<span data-ttu-id="62541-110">限度額の 70% を使用すると、組織の主要連絡先に Microsoft から通知のメールが送信されます。</span><span class="sxs-lookup"><span data-stu-id="62541-110">Once you have used 70 percent of that limit, Microsoft will send your organization's primary contact email letting you know.</span></span> <span data-ttu-id="62541-111">このメールには、サービスを維持するために必要となる支払いを示す請求書の要約が含まれます。</span><span class="sxs-lookup"><span data-stu-id="62541-111">The email will provide you with a summary of your invoice that will include what you should pay to maintain your service.</span></span> <span data-ttu-id="62541-112">また、85% に達した場合にも通知が送られます。</span><span class="sxs-lookup"><span data-stu-id="62541-112">You will also receive a notice when you reach 85 percent.</span></span> <span data-ttu-id="62541-113">与信限度額の 100% を使用すると、24 時間以内に支払いが必要であることを伝える通知が Microsoft から送信されます。支払いがない場合はアカウントが停止されます。</span><span class="sxs-lookup"><span data-stu-id="62541-113">If you use 100 percent of your credit limit, Microsoft will let you know 24 hours in advance that you must make a payment, or your account will be suspended.</span></span> 
+<span data-ttu-id="a0172-110">与信限度の 70% を使用したときに、主要連絡先の会社の電子メールでお知らせします。</span><span class="sxs-lookup"><span data-stu-id="a0172-110">When you’ve used 70 percent of your credit limit, we’ll notify your company’s primary contact by email.</span></span> <span data-ttu-id="a0172-111">この電子メールには、現在の残高、請求書、およびサービスを維持するためのガイドラインの概要が含まれます。</span><span class="sxs-lookup"><span data-stu-id="a0172-111">This email will include your current credit balance, a summary of your invoice, and guidelines for maintaining your service.</span></span> <span data-ttu-id="a0172-112">クレジット制限の 85% を使用したときに、別のメールを送信します。</span><span class="sxs-lookup"><span data-stu-id="a0172-112">We’ll send another email when you’ve used 85 percent of your credit limit.</span></span> <span data-ttu-id="a0172-113">制限の 100% に到達する必要があります、お知らせをアカウントの中断を回避するために 24 時間以内に支払いを行う必要があります。</span><span class="sxs-lookup"><span data-stu-id="a0172-113">Should you reach 100 percent of your limit, we’ll notify you that you must make payment within 24 hours to avoid suspension of your account.</span></span> 
 
-<span data-ttu-id="62541-114">CSP アカウントが停止された場合、新しい顧客の作成、新しいサブスクリプションの購入、既存のサブスクリプションの変更はできません。</span><span class="sxs-lookup"><span data-stu-id="62541-114">If your CSP account is suspended, you can’t create new customers, purchase new subscriptions, or make changes to existing subscriptions.</span></span>
+<span data-ttu-id="a0172-114">自分のアカウントが中断されている場合、新しい顧客を作成、新規のサブスクリプションを購入または既存のサブスクリプションに変更を加えることができません。</span><span class="sxs-lookup"><span data-stu-id="a0172-114">If your account is suspended, you’ll be unable to create new customers, purchase new subscriptions, or make changes to existing subscriptions.</span></span> <span data-ttu-id="a0172-115">既存の顧客には影響しません。</span><span class="sxs-lookup"><span data-stu-id="a0172-115">Your existing customers are not affected.</span></span> 
 
-## <a name="automatic-credit-limit-increase"></a><span data-ttu-id="62541-115">与信限度額の自動引き上げ</span><span class="sxs-lookup"><span data-stu-id="62541-115">Automatic credit limit increase</span></span>
+## <a name="automatic-credit-limit-increase"></a><span data-ttu-id="a0172-116">与信限度額の自動引き上げ</span><span class="sxs-lookup"><span data-stu-id="a0172-116">Automatic credit limit increase</span></span>
 
-<span data-ttu-id="62541-116">CSP パートナーのアカウントについては定期的に Microsoft  によって確認が行われ、支払いが順調に行われていれば、与信限度額の自動引き上げの対象となります。</span><span class="sxs-lookup"><span data-stu-id="62541-116">As a CSP partner, Microsoft periodically reviews your account and if it is in good standing, you are eligible for automatic credit line increases.</span></span> <span data-ttu-id="62541-117">アカウントに変更が加えられた場合は、Microsoft から通知が送られます。</span><span class="sxs-lookup"><span data-stu-id="62541-117">Microsoft will notify you of any account changes.</span></span> 
+<span data-ttu-id="a0172-117">Microsoft は、すべての CSP パートナーのアカウントを定期的に確認します。</span><span class="sxs-lookup"><span data-stu-id="a0172-117">Microsoft periodically reviews the accounts of all CSP partners.</span></span> <span data-ttu-id="a0172-118">自分のアカウントが健全な状態にある場合は、信用増加が対象となるする必要があります。</span><span class="sxs-lookup"><span data-stu-id="a0172-118">If your account is in good standing, you may be eligible for a credit line increase.</span></span> <span data-ttu-id="a0172-119">アカウント変更のお知らせします。</span><span class="sxs-lookup"><span data-stu-id="a0172-119">We’ll notify you of any account changes.</span></span> 
+
+<span data-ttu-id="a0172-120">クレジットの制限に関する詳細については、Microsoft クレジット リスク チームにお問い合わせくださいucmwrcsp@microsoft.comします。</span><span class="sxs-lookup"><span data-stu-id="a0172-120">For more information on credit limits, contact the Microsoft Credit Risk Team at ucmwrcsp@microsoft.com.</span></span> 
