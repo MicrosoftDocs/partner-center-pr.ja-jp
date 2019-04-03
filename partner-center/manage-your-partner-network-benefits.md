@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN、メンバーシップ特典、メンバーシップ
 ms.localizationpriority: medium
-ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584705"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "57988216"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 
@@ -21,7 +21,7 @@ ms.locfileid: "57584705"
 -  パートナー センター
 
 >[!IMPORTANT]
->この記事では、Microsoft Partner Network (MPN) の使用を開始する方法を説明します。 このサイト特典 (旧称パートナー センター) のパートナー センターでのメンバーシップ。 場合は、パートナー センターに会社の情報をパートナー メンバーシップ センター (PMC) を移動する招待を受信していない、PMC で、MPN メンバーシップ特典の管理を続行してください。 PMC に[サインイン](https://partner.microsoft.com/_login?authType=OpenIdConnect)します。   
+>この記事では、パートナー センターのこのサイトで、Microsoft Partner Network (MPN) メンバーシップ特典の使用を開始する方法について説明します。 場合は、パートナー センターに会社の情報をパートナー メンバーシップ センター (PMC) を移動する招待を受信していない、PMC で、MPN メンバーシップ特典の管理を続行してください。 PMC に[サインイン](https://partner.microsoft.com/_login?authType=OpenIdConnect)します。   
 
 Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成長に役立つメンバーシップ特典にアクセスできます。 まだ MPN のメンバーでない場合は、[MPN サイト](https://partner.microsoft.com/membership)から登録できます。
 

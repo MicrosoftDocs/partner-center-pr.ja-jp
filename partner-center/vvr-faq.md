@@ -7,16 +7,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: トレーニングの受講券、ソフトウェア アシュアランス、トレーニング、バウチャー、受講券の予約の検証します。
 ms.localizationpriority: medium
-ms.openlocfilehash: 98ca652900afd38ed022801a9cb7ec4c2b917180
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
+ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584455"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "58863990"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>よくあるご質問:受講券の検証および引き換えツールを使用します。 
 
-**適用対象**
+**対象**
 
 - パートナー センター
 
@@ -36,7 +36,7 @@ ms.locfileid: "57584455"
 - 連絡先、 [PMC サポート チーム](mailto:proghelp@microsoft.com)します。 
 
 
-**自分の会社が PMC からパートナー センターに移行します。特定 VVR で作業を何もする必要がありますか。** 
+**自分の会社が PMC からパートナー センターに移行します。 特定 VVR で作業を何もする必要がありますか。** 
 
 - パートナー センターで VVR を使用することができます。  VVR を使用するには、MPN パートナーの管理者は、職場アカウントのメールを使用して、パートナー センターにサインインできます。 新しいユーザーを追加する場合は、グローバル管理者はこれを実行できます。 パートナー センターにアクセスする場合を参照してください。**アクセス管理**を選択します**ユーザー**、フィルター処理と**MPN 管理者**の**グローバル管理者**。会社の MPN とグローバル管理者の一覧が提供されます。  
 
@@ -48,6 +48,9 @@ ms.locfileid: "57584455"
 
 - パートナー センターでは、職場アカウント (AAD) でログインする必要があります。  チップは、現在のログイン (MSA または Live ID) 個人のアカウントを使用します。  チップのパートナー センターで VVR から移動時にチップが、MSA またはチップに登録されている Live ID を使用してサインインする必要があります。
 
+**自分の会社は VVR ツールをどのようにアクセスできますか。**
+
+- VVR ツールにアクセスするには、会社が SATV プログラムまたは DP の SA プログラムに登録する必要があります。
 SATV に登録する方法については、「[パートナー センターでのソフトウェア アシュアランス付きのトレーニング受講券 (SATV) プログラム](software-assurance-satv.md)します。
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

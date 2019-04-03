@@ -2,17 +2,17 @@
 title: Windows Autopilot プロファイルを使用したデバイスの既定のエクスペリエンスのカスタマイズ |パートナー センター
 description: Autopilot プロファイルを使用したデバイスの既定のエクスペリエンスを事前に構成します。
 ms.topic: article
-ms.date: 02/06/19
+ms.date: 03/18/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot、windows autopilot、microsoft の autopilot、ゼロ タッチ展開、oobe、ログイン画面、既製
 ms.localizationpriority: medium
-ms.openlocfilehash: 00c4bc3717b5f40984f60dd2c04ee7fec10b80da
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586915"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "58162222"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Windows Autopilot プロファイルを使用したデバイスの既定のエクスペリエンスをカスタマイズします。
 
@@ -45,7 +45,7 @@ ms.locfileid: "57586915"
 
 - CSP パートナーは顧客には、パートナーの管理の委任特権が削除された場合でも、再販業者関係のある相手の既存のお客様の Autopilot プロファイルを管理する続行できます。
 
-- 自分または別の CSP パートナーに追加されているお客様の既存のデバイスを管理できます。
+- 追加した顧客の既存のデバイスを管理できます。
 
 - お客様が Microsoft Store for Business または Microsoft Intune ポータルにアップロードするデバイスを管理することはできません。
 

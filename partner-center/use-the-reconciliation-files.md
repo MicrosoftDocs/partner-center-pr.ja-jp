@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce9b7cd9ead08b7709c68a0e967d64e9f2a32bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585135"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682510"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -73,7 +73,7 @@ ms.locfileid: "57585135"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>説明</strong></td>
+<td><strong>[説明]</strong></td>
 <td><strong>サンプル値</strong></td>
 </tr>
 <tr class="even">
@@ -242,7 +242,7 @@ ms.locfileid: "57585135"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>説明</strong></td>
+<td><strong>[説明]</strong></td>
 <td><strong>サンプル値</strong></td>
 </tr>
 <tr class="even">
@@ -345,7 +345,7 @@ ms.locfileid: "57585135"
 <td>Asia Pacific、Europe、Latin America、North America</td>
 </tr>
 <tr class="even">
-<td>SKU</td>
+<td>SKU (SKU)</td>
 <td><p>プランについての MSFT の一意の識別子</p></td>
 <td>7UD 00001</td>
 </tr>
@@ -473,7 +473,7 @@ ms.locfileid: "57585135"
 </colgroup>
 <thead>
 <tr class="header">
-<th>列</th>
+<th>[列]</th>
 <th>説明</th>
 </tr>
 </thead>
@@ -642,7 +642,7 @@ ms.locfileid: "57585135"
 
 <tr class="odd">
 <td>代替</td>
-<td><p>ID を代替の識別子</p></td>
+<td><p>代替の識別子を注文 ID</p></td>
 </tr>
 </tbody>
 </table>
@@ -658,7 +658,7 @@ ms.locfileid: "57585135"
 </colgroup>
 <thead>
 <tr class="header">
-<th>列</th>
+<th>[列]</th>
 <th>説明</th>
 </tr>
 </thead>
@@ -875,7 +875,7 @@ ms.locfileid: "57585135"
 </tr>
 
 <tr class="odd">
-<td>タグ</td>
+<td>Tags</td>
 <td><p>課金のレコードをグループ化の順序でメーターに割り当てるタグ。 たとえば、メーターを使用する部門ごとのコストを配布するのにタグを使用することができます。</p></td>
 </tr>
 

@@ -1,19 +1,19 @@
 ---
 title: CSP 契約、価格表、およびキャンペーン | パートナー センター
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: この記事では、クラウド ソリューション プロバイダーのプログラム ガイド、パートナー契約、顧客契約、料金表、提供できる製品とサービスへのリンクを示します。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585815"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508969"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、およびプラン
 
@@ -23,7 +23,7 @@ ms.locfileid: "57585815"
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 
-この記事では、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに参加するための要件を示します。 
+この記事では、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに参加するための要件を示します。
 
 ## <a name="cloud-solution-provider-program-guide"></a>クラウド ソリューション プロバイダー プログラム ガイド
 
@@ -61,7 +61,7 @@ ms.locfileid: "57585815"
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud の契約 (ドイツ) プロフェッショナル Secrecy 修正
 
-ドイツでは、刑事コード (セクション 203) と、プロフェッショナルな行動規範を必要とクライアントの関係は、たとえば、患者とその医学博士間のリレーションシップとの間のリレーションシップは機密性を保持すること所属する弁護士たちとそのクライアント。 これらの職業グループは、プロフェッショナル secrecy をさせる必要があります。 これらおよびその他の職業 cloud solution provider からのクラウド ベースのサービスの購入には、プロフェッショナル secrecy に確実に顧客との書面による契約の最後に、クラウド サービス プロバイダーする必要があります。 
+ドイツでは、刑事コード (セクション 203) と、プロフェッショナルな行動規範を必要とクライアントの関係は、たとえば、患者とその医学博士間のリレーションシップとの間のリレーションシップは機密性を保持すること所属する弁護士たちとそのクライアント。 これらの職業グループは、プロフェッショナル secrecy をさせる必要があります。 これらおよびその他の職業 cloud solution provider からのクラウド ベースのサービスの購入には、プロフェッショナル secrecy に確実に顧客との書面による契約の最後に、クラウド サービス プロバイダーする必要があります。
 
 ドイツのビジネスを行う場合は、このプロフェッショナル secrecy 契約書を Microsoft Cloud の契約だけでなくが顧客に提供する必要があります。
 
@@ -69,27 +69,22 @@ ms.locfileid: "57585815"
 
 [ドイツ (ドイツ) の契約 Professional Secrecy 契約を Microsoft クラウド](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-
 ## <a name="pricing"></a>価格設定
 
-
-購入のライセンスに基づく、使用法に基づく、および 1 回限りの料金詳細をダウンロード、**料金とプラン** ページから使用可能な**パートナー センター**メニュー。 
+購入のライセンスに基づく、使用法に基づく、および 1 回限りの料金詳細をダウンロード、**料金とプラン** ページから使用可能な**パートナー センター**メニュー。
 
 ライセンス ベースの価格表は毎月更新され、新しい価格は、有効になる 30 日前に発表されます。 ライセンスベースのサービスには、たとえば Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM があります。 
 
 使用量ベースの価格は変動的であり、頻繁に変更されています。 使用量ベースのサービスには、たとえば Microsoft Azure があります。
 
-1 回限りの購入価格も変動的です。 1 回限りの購入には、Microsoft Azure の予約と Windows Server と SQL ソフトウェアへの対応するサブスクリプションなどがあります。 
+1 回限りの購入価格も変動的です。 1 回限りの購入には、Microsoft Azure の予約と Windows Server と SQL ソフトウェアへの対応するサブスクリプションなどがあります。
 
-Azure Marketplace の各種サービスに関する情報を価格を参照してください**Marketplace**パートナー センターの左側のナビゲーション メニューでします。 発行元、Sku、に関する情報を確認する製品を選択し、価格設定します。 これらの Azure Marketplace の製品の価格は、頻繁に変更できます。 非常に近い将来、毎日更新されますが、すべての価格データの一覧をエクスポートするオプションを提供いたします。 私たちも有効になります現在 Api を使用して価格データにアクセスします。 これらのオプションが使用可能なこのページの詳細については、その使用方法を更新します。
+Azure Marketplace の各種サービスに関する情報を価格を参照してください**Marketplace**パートナー センターの左側のナビゲーション メニューでします。 発行元、Sku、に関する情報を確認する製品を選択し、価格設定します。 これらの Azure Marketplace の製品の価格は、頻繁に変更できます。 Marketplace のすべての製品の現在の価格情報を取得する次のように選択します。**エクスポート価格表**価格のすべてのデータを含むスプレッドシートを生成します。 何度でもチェックできるように、この情報は毎日更新されます。
 
 ## <a name="offers"></a>サービスおよび製品
-
 
 Csp パートナーは、さまざまな Microsoft 製品、サービス、および Office 365、Enterprise Mobility Suite、Microsoft Dynamics、および Microsoft Azure を含むソリューションを販売できます。 プランなこれらの製品ファミリ内で販売するための使用についての詳細については、CSP のプランのマトリックスを参照してください。、**料金とプラン** ページで、から使用可能な、**パートナー センター**メニュー。 このドキュメントは毎月更新されます。
 
 Crest Usage Record API を使用している CSP パートナーは、**[料金とプラン]** ページで CSP での Azure サービスの一覧を利用することもできます。
 
 独立系ソフトウェア ベンダー (Isv) によって発行された Azure Marketplace プランについては、次を参照してください。、 **Marketplace**ページの左側のナビゲーション メニュー。 現時点では、SaaS (サービスとしてのソフトウェア) 製品の種類のみをパートナー センターで購入できます。 Azure Marketplace のオファリングの他の種類を取得する Azure portal にアクセスする必要があります。
-
-

@@ -1,19 +1,19 @@
 ---
 title: 顧客のサブスクリプションの作成、中断、取り消し | パートナー センター
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/11/2019
 description: パートナー センターで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
-Keywords: サブスクリプションを新規作成、サブスクリプションの追加、中断、キャンセル、
+Keywords: サブスクリプションを新規作成、サブスクリプションの追加、中断、中断をキャンセルします。
 ms.localizationpriority: medium
-ms.openlocfilehash: e264ddca2c3b6452493dda0beff80a5637db0455
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: HT
+ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584405"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756919"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
@@ -56,7 +56,7 @@ ms.locfileid: "57584405"
 
 ### <a name="suspend-a-subscription"></a>サブスクリプションの中断
 
-サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。 管理者は、引き続きサインインしてデータにアクセスできます。
+サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。
 
 1.  パートナー センターのメニューから選択**顧客**、一覧から顧客を選択します。
 2.  管理対象のサブスクリプションを選びます。

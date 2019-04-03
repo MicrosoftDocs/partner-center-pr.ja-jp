@@ -1,18 +1,18 @@
 ---
 title: サブスクリプションの中断 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/11/2018
 description: 顧客から要請があった場合、または未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断するか取り消すことができます。
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: acf9a30f10f5d0608843cd2e3e088ac9f6bb1559
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585315"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756889"
 ---
 # <a name="suspend-a-subscription"></a>サブスクリプションの中断
 
@@ -24,9 +24,9 @@ ms.locfileid: "57585315"
 
 顧客から要請があった場合、または未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断するか取り消すことができます。
 
-サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。 管理者は、引き続きサインインしてデータにアクセスできます。
+サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。
 
-**サブスクリプションを中断します。**
+**サブスクリプションの中断**
 
 1.  **パートナー センター**メニューの **顧客**、一覧から顧客を選択します。
 2.  管理対象のサブスクリプションを選びます。

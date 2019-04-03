@@ -1,18 +1,18 @@
 ---
 title: Azure Marketplace の製品にサブスクリプションを販売 |パートナー センター
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: パートナー センターを使用するには (SaaS) サービスとしてソフトウェアへのサブスクリプションを顧客に販売する製品は独立系ソフトウェア ベンダー (Isv) によって、Azure Marketplace に公開します。
 author: JnHs
 ms.author: jenhayes
 keywords: サブスクリプションの場合、Marketplace でサード パーティの ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 074527f791cad6b0234994fc3985d9657f5acccd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 98229a93d5ca4ba165fcfe7fc03a084c32c630b2
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587715"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508959"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Azure Marketplace の製品にサブスクリプションを販売します。
 
@@ -32,5 +32,4 @@ ms.locfileid: "57587715"
 
 Azure Marketplace の SaaS 製品のサブスクリプションを購入、サブスクリプションの Microsoft 製品の購入方法と同じプロセスに従います。 詳細については、次を参照してください。[サブスクリプションの新規作成](create-a-new-subscription.md)です。 いくつか提供は、ISV が顧客の請求先国/地域をサポートするかどうかに応じて、またはその他の要因により、一部のお客様に利用できない可能性がありますに注意してください。
 
-近い将来、私たちもできるようにしますパートナー センター Api を使用して、顧客の Azure Marketplace のサブスクリプションを管理します。 
-
+使用することも[パートナー センター Api](https://docs.microsoft.com/en-us/partner-center/develop/)お客様の Azure Marketplace のサブスクリプションを管理します。

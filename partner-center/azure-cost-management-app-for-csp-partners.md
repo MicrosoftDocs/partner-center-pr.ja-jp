@@ -8,12 +8,12 @@ ms.author: janet
 Keywords: Azure コスト管理アプリでは、管理コストの削減、web アプリ
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: f1627727908eff9c686dd8359558e960d0fbff88
+ms.sourcegitcommit: 6578eea4fe6836dad5710f8d22376ad8bba6e307
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586085"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58490344"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure を販売する CSP パートナー様向けの Azure コスト管理アプリ  
 
@@ -31,7 +31,7 @@ Azure Cost Management を使用する前に、次の要件を満たしている�
 
 ## <a name="overview"></a>概要
 
-Cloudyn が提供する Azure cost management は、お客様による Azure の使用量とその使用量に対応するコストを追跡、管理できる Web アプリです。 このアプリは、パートナー センター API 経由で使用します。
+Cloudyn は、web アプリケーションを追跡し、Azure とその使用量のコストの顧客の使用量を管理することができます。 このアプリは、パートナー センター API 経由で使用します。
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>パートナー センターで Web アプリを登録する
 パートナー センターで Azure Active Directory Web アプリを登録すると、アプリがパートナー センター API にアクセスできるようになります。 
@@ -48,7 +48,7 @@ Cloudyn が提供する Azure cost management は、お客様による Azure の
    > [!NOTE]  
    > アプリケーションの秘密キーでは、パスワードより長い有効期限と同様です。 後日使用できるように、安全な場所にキーの値を保存してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 [30 日間無料試用版](https://go.microsoft.com/fwlink/?linkid=857895) をご利用ください。
 試用を開始するには、次の情報が必要です。
 - パートナー センターのログイン資格情報

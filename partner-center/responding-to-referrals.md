@@ -1,30 +1,27 @@
 ---
-title: 紹介案件への対応 | パートナー センター
+title: 問い合わせに対応する |パートナー センター
 ms.topic: article
-ms.date: 01/17/2019
+ms.date: 03/11/2019
 description: Microsoft パートナーを修飾するには、評価、negotiate、および問い合わせに対応するパートナー センターを通じてすることができます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 紹介, RFI, パートナーの検索
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a9cabe4772fa60a3b56433998da81030916279f8
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585855"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756899"
 ---
-# <a name="responding-to-referrals"></a>紹介案件への対応
+# <a name="respond-to-referrals"></a>紹介案件への対応
 
 **適用対象**
 
 -  パートナー センター
 
 Microsoft パートナーを修飾するには、参照を通じて潜在的なビジネスの潜在顧客を受信できます。 パートナー センターの受信の潜在顧客を管理、適合にあるものにすばやく対応しスキップまたは却下できますでないもの。 
-
-> [!IMPORTANT]
-> 更新の一部を行いました、参照の管理経験があり現在すべてのパートナーにロールアウト中、します。 新しいエクスペリエンスを使用するアカウントを設定するまでの点が少し異なる方法で動作する可能性があります。 これらの違いは、以下のと呼ばれます。 
 
 ## <a name="referral-management"></a>紹介案件の管理
 
@@ -48,9 +45,6 @@ Microsoft パートナーを修飾するには、参照を通じて潜在的な�
 *  **拒否**:としてアーカイブを**拒否済み**し、別のパートナーを選択する顧客に通知します。
 
 としてアーカイブが割り当てられた時間の期間 (14 日現在) 以内に応答しない場合、**有効期限が切れた**し、別のパートナーを選択する顧客に通知します。
-
-> [!NOTE]
-> 上記の手順では、新しいエクスペリエンスが反映されます。 自分のアカウントは、このエクスペリエンスを使用していない、まだ表示されます、**新規**の代わりにセクション**受信トレイ**します。 新しい参照は、のいずれかを選択する 72 時間を必要があります**関心のある**(紹介を個別に移動する**Evaluating**セクションし、詳細が表示されます) または**いいえ**(これをアーカイブ参照)。 選択した場合**関心のある**、7 日、紹介をそのまま使用する必要があります。
 
 ### <a name="active-referrals"></a>アクティブな参照
 

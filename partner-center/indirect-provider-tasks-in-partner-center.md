@@ -1,17 +1,17 @@
 ---
 title: CSP での間接リセラーとの連携 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/29/2019
 description: 間接プロバイダー (ディストリビューター) は、間接リセラーと連携してリーチを拡大することができます。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 0eb5afdf04655e52fe493d9039d4aa11fbca5a4b
+ms.sourcegitcommit: 29dd7a49981f998800279ee9f8c489a0e41fb371
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584375"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "58656393"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携
 
@@ -86,16 +86,7 @@ CSP での間接モデルについて詳しくは、[Microsoft Partner Network W
 | リセラーにインセンティブとしてクレジットを与える | リセラーを新規または既存のサブスクリプションに関連付けます | **[新しいサブスクリプション]** ページ |
 | 特定のサブスクリプションに関するカスタマー サポートをリセラーに委任する | **[指定のサポート連絡先]** の一覧からリセラーを選びます | サブスクリプションの詳細ページの内容。お客様を選び、**顧客**ページ、お客様のサブスクリプションを選択します**サブスクリプション**ページ。 |
 
-今日では、間接プロバイダーでは、注文して、必要に応じて、PartnerOnRecord として間接リセラーの選択をパートナー センター ダッシュ ボードを使用できます。 間接リセラー、取得しない場合この 1 層のトランザクションとして扱うし、incentivize よう間接プロバイダー。 いずれかを選択するは、2 層のトランザクションとして扱う注文し、間接プロバイダーと間接リセラーの両方を適宜 incentivize しました。
 
- 
-
-経験、間接プロバイダーの既存のサブスクリプション PartnerOnRecord の更新をできますも。
-
- 
-
-プロバイダーが、PartnerOnRecord を管理する必要があります間接的な方法で既存のドキュメントがある場合をご存知設定してください。
-このメッセージを表示する理由は、不適切なインセンティブの支払いに、間接プロバイダーによって正しく構成されていないトランザクションを 2 層の非常に重要なセットがありますが表示されます。 時間の経過パートナーがこれを実現し、backpay インセンティブをマイクロソフトに問い合わせるを開始します。 この領域でドキュメントの範囲がない場合、は、1 つにまとめて配置するためにユーザーを取得するたいです。
 
 
 

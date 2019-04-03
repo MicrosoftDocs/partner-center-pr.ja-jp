@@ -6,12 +6,12 @@ description: CSP で他のパートナーと連携して、共有するユーザ
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a1fcf2a9121a53b6c2b299ac7ad484cd9f552c9e
+ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583965"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "58320725"
 ---
 # <a name="work-with-other-partners"></a>他のパートナーとの連携
 
@@ -25,7 +25,7 @@ ms.locfileid: "57583965"
 
 このモデルは 2 層モデルとも呼ばれ、間接プロバイダーと間接リセラーが連携して、複数のロケール、業種、業界の組織に Microsoft クラウド ベースのサービスを販売します。 
 
-### <a name="indirect-providers"></a>間接プロバイダー 
+### <a name="indirect-providers"></a>間接プロバイダー
 
 間接プロバイダー (ディストリビューターとも呼ばれます) は、マイクロソフトから直接製品とサブスクリプションを購入し、リセラーを通じてお客様にこれらのソリューションを提供します。 プロバイダーは間接リセラーと連携することで、リーチと顧客基盤を拡大することができます。 
 
@@ -52,5 +52,4 @@ CSP で間接リセラーと間接パートナーのどちらで登録するか�
 マルチチャンネルのサポートは、マイクロソフトのナショナル クラウド サービスでも利用できます。
 
 > [!IMPORTANT]  
-> 現在、CSP パートナーは別の CSP パートナーにオンライン サービスを再販することはできません。 マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースに関するすべての情報は、パートナー センターなど、通常の伝達方法でお知らせします。 
-
+> CSP プログラムではパートナー CSP プログラムにもう 1 つのパートナーには、オンライン サービスを現在再販ことはできません。 継続的に、Microsoft は、ポリシーとすべてのプログラムの機能を確認します。 ポリシーの変更や機能のリリースのニュースをなど、通常の通信チャネルを通じて発表予定[パートナー センターのお知らせ](https://partner.microsoft.com/en-us/pcv/announcements)します。
