@@ -3,8 +3,13 @@ title: 21Vianet が運営するパートナー センター
 ms.topic: article
 ms.date: 10/29/2018
 description: 21Vianet が運営するパートナー センターを使用して、中国で CSP サービスを再販します。
+ms.openlocfilehash: 236f425c9e49ca7683b3c337f0258b7a86f76ca9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588265"
 ---
-   
 # <a name="partner-center-operated-by-21vianet"></a><span data-ttu-id="a8f67-103">21Vianet が運営するパートナー センター</span><span class="sxs-lookup"><span data-stu-id="a8f67-103">Partner Center operated by 21Vianet</span></span>
 
 <span data-ttu-id="a8f67-104">中国の 21Vianet のクラウド ソリューション プロバイダー (CSP) サービスのリセラー向けビジネス ポータルである、21Vianet が運営するパートナー センターへようこそ。</span><span class="sxs-lookup"><span data-stu-id="a8f67-104">Welcome to Partner Center operated by 21Vianet, the business portal for resellers of 21Vianet's Cloud Solution Provider (CSP) services in China.</span></span> 

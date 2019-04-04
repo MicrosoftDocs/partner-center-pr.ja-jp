@@ -4,13 +4,18 @@ hide_bc: true
 title: パートナー センターのヘルプはこちらから
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "パートナー センターは、Microsoft クラウド ソリューション プロバイダー (CSP) プログラムでお客様のビジネスを成長させるお手伝いをします。 アカウントを設定し、顧客とつながり、Action Pack サブスクリプションを購入し、CSP および MPN プログラムのパートナーの詳細情報を検索できます。\_"
+description: パートナー センターは、Microsoft クラウド ソリューション プロバイダー (CSP) プログラムでお客様のビジネスを成長させるお手伝いをします。 アカウントを設定し、顧客とつながり、Action Pack サブスクリプションを購入し、CSP および MPN プログラムのパートナーの詳細情報を検索できます。 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
+ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588325"
 ---
-
 # <a name="welcome-to-partner-center"></a>パートナー センターへようこそ
 
 Microsoft パートナー センターは、Microsoft とのエンド ツー エンドの関係を 1 か所で管理できる場所です。 お客様の取引やビジネスの成長を支援するツールやリソースが用意されています。これには、メンバーシップ オプション、顧客の紹介、クラウド ソリューション プロバイダー (CSP) プログラムなどがあります。 アカウントの設定、顧客との連携、Action Pack サブスクリプションの購入、パートナー センター ヘルプ ライブラリ内のインセンティブ プログラムへの登録に関するベスト プラクティスを確認できます。
