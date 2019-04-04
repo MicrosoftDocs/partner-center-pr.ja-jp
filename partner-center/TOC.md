@@ -17,10 +17,10 @@
 ## [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
 ## [CSP の直接パートナーの新しい要件](direct-partner-new-requirements.md)
 ## [地域と言語別の Microsoft Cloud 契約](agreements.md)
-##[クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行](transition-direct-to-indirect.md)
+## [クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行](transition-direct-to-indirect.md)
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
-## [CSP の地域承認の概要](regional-authorization-overview.md)
-## [CSP の地域承認によるテナント統合](csp-regional-authorization-tenant-consolidation.md)
+## [CSP の地域市場と通貨](regional-authorization-overview.md)
+
 
 ## [ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
@@ -29,6 +29,7 @@
 # [パートナー センター アカウントの管理](partner-center-account-setup.md)
 ## [職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)
 ## [パートナー プロファイルの更新](update-your-partner-profile.md)
+## [場所](manage-locations.md)
 ## [中断されたパートナー センター アカウントの復元](suspended-partner-center-account.md)
 ## [ユーザー アカウントの作成](create-user-accounts-and-set-permissions.md)
 ## [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
