@@ -53,7 +53,7 @@ CSP アプリケーションを完了するには、パートナー センター
 
 まだプロバイダー (ディストリビューター) と連携していない場合は、[認定間接プロバイダーを検索](https://partnercenter.microsoft.com/partner/find-a-provider)して、連携先を見つけることができます。
 
-間接リセラーとして CSP プログラムに参加に必要な内容の詳細については、次を参照してください。[間接リセラーとして開始](https://partner.microsoft.com/cloud-solution-provider/whats-required)上、 [Microsoft Partner Network web サイト](https://partner.microsoft.com/)します。 
+間接リセラーとして CSP プログラムに参加に必要な内容の詳細については、[間接リセラーとして開始](https://partner.microsoft.com/cloud-solution-provider/whats-required)上、 [Microsoft Partner Network web サイト](https://partner.microsoft.com/)を参照してください。 
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>請求書の直接パートナーとして登録します。
 

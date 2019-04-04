@@ -49,4 +49,4 @@ ms.locfileid: "57584115"
 - パートナー ユーザーの表示、作成、管理
 - 購入して、cloud services の管理
 
-ロールとアクセス許可の詳細については、次を参照してください。[ユーザー アカウントを作成](create-user-accounts-and-set-permissions.md)です。 
+ロールとアクセス許可の詳細については、[ユーザー アカウントを作成](create-user-accounts-and-set-permissions.md)を参照してください。 

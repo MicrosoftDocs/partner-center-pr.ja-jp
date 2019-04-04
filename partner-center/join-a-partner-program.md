@@ -30,7 +30,7 @@ Microsoft Partner Network 示しています。 お客様のビジネスを区�
 
 アクションのパックまたはスタート キットは、ソフトウェアおよびマイクロソフト ベースのソリューションを構築するサポートを提供し、コンピテンシーは、実証済みの専門知識をお客様やその他のパートナーを示します。
 
-Microsoft Partner Network (MPN) に関する詳細については、次を参照してください。、 [MPN の web サイト](https://partner.microsoft.com/commercial)します。
+Microsoft Partner Network (MPN) に関する詳細については、、 [MPN の web サイト](https://partner.microsoft.com/commercial)を参照してください。
 
 ### <a name="how-to-join"></a>結合する方法
 

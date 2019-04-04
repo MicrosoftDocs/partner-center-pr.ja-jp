@@ -21,7 +21,7 @@ ms.locfileid: "57587705"
 -  パートナー センター
    
 > [!NOTE]  
->  Microsoft Cloud germany クラウド ソリューション プロバイダー (CSP) プログラムに登録する場合は、次を参照してください。 [Microsoft Cloud Germany のパートナー センターでのユーザー管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)については、ユーザーのパスワードをリセットします。
+>  Microsoft Cloud germany クラウド ソリューション プロバイダー (CSP) プログラムに登録する場合は、[Microsoft Cloud Germany のパートナー センターでのユーザー管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)については、ユーザーのパスワードをリセットを参照してください。
 
 ユーザーがパスワードを忘れた場合、一時的なパスワードを割り当てます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
 

@@ -22,7 +22,7 @@ ms.locfileid: "57584285"
 ソフトウェア開発キットを使用して、独自のアプリケーションと、顧客、注文、請求、およびサポート システムを統合します。
 
 >**注:**<br> 21 vianet が運営するパートナー センターの SDK ドキュメントでは、Microsoft Developer Network web サイト (MSDN です)。 21 vianet がパートナー センターの SDK と、SDK は、パートナー センターの運用の間は、いくつか違いがあります。
-各ヘルプ トピックでは、パートナー センターの 21 vianet が運営するメンバーを適用するかどうかについて説明します、**に適用されます**セクション。 21 vianet が運営するパートナー センターの別の REST エンドポイントがあります。 詳細については、次を参照してください。[パートナー センターの REST API リファレンス](https://msdn.microsoft.com/en-us/library/partnercenter/mt667943.aspx)します。
+各ヘルプ トピックでは、パートナー センターの 21 vianet が運営するメンバーを適用するかどうかについて説明します、**に適用されます**セクション。 21 vianet が運営するパートナー センターの別の REST エンドポイントがあります。 詳細については、[パートナー センターの REST API リファレンス](https://msdn.microsoft.com/en-us/library/partnercenter/mt667943.aspx)を参照してください。
 
 
 -   [SDK の入手](https://go.microsoft.com/fwlink/p/?LinkID=746681)

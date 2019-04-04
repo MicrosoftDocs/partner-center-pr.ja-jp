@@ -101,7 +101,7 @@ ms.locfileid: "57586155"
 
 - お客様がビジネス向け Microsoft Store や、教育機関向け Microsoft Store の Microsoft Intune ポータルを介して追加のデバイスを管理することはできません。
 
-Autopilot の詳細については、次を参照してください。 [Windows Autopilot のデバイスのセットアップを簡略化](https://docs.microsoft.com/partner-center/autopilot)します。
+Autopilot の詳細については、[Windows Autopilot のデバイスのセットアップを簡略化](https://docs.microsoft.com/partner-center/autopilot)を参照してください。
 
 >[!IMPORTANT]  
 >パートナー センターでは、現在の Autopilot 管理エクスペリエンスは、変更を続ける可能性があります。 この記事が公開された時点で、次の変更対象となります。

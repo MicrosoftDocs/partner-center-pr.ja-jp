@@ -32,19 +32,19 @@ ms.locfileid: "57586715"
 
     お客様は、1 年間または 3 年間、Azure Virtual Machines 上の領域を事前に予約できます。<br>
     
-    詳細については、次を参照してください。[販売 Microsoft Azure Reserved VM Instances](azure-reservations.md)します。
+    詳細については、[販売 Microsoft Azure Reserved VM Instances](azure-reservations.md)を参照してください。
 
 - ソフトウェア<br>
 
     顧客はソフトウェア サブスクリプション (1 年間または 3 年間、Azure Reserved VM Instances 上で Windows Server および SQL Server を実行できる) を購入できます。<br>
  
-    詳細については、次を参照してください。 [CSP を介したソフトウェア サブスクリプションを販売](csp-software-subscriptions.md)します。  
+    詳細については、[CSP を介したソフトウェア サブスクリプションを販売](csp-software-subscriptions.md)を参照してください。  
 
 - オンライン サービス<br>
 
     *オンライン サービス*は、現在*サブスクリプション*と呼ばれているものの新しい名前です。 複数の種類の製品を 1 か所で簡単に注文して支払うことができるように、"サブスクリプションの追加" タスク フローを "製品の追加" タスク フローに統合しました。<br>
     
-    詳細については、次を参照してください。[顧客サブスクリプション](customer-subscriptions.md)します。
+    詳細については、[顧客サブスクリプション](customer-subscriptions.md)を参照してください。
 
 - としてのソフトウェア (SaaS) サービスとその他の[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)製品<br>
 
@@ -76,6 +76,6 @@ CSP の顧客に代わって製品およびサービスを購入するには、�
 8. 注文番号を含む注文の詳細は、次のページに表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
 
 > [!NOTE]
-> 情報請求処理のしくみについては、次を参照してください。 [**課金の基礎**](https://docs.microsoft.com/en-us/partner-center/billing-basics)します。
+> 情報請求処理のしくみについては、[**課金の基礎**](https://docs.microsoft.com/en-us/partner-center/billing-basics)を参照してください。
 
 
