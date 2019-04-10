@@ -1,22 +1,22 @@
 ---
 title: Microsoft Cloud の契約のお客様テンプレート |パートナー センター
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 03/11/2019
 description: 検索し、お客様と確認を Microsoft Cloud 契約のリージョンと言語固有のバージョンをダウンロードします。
 author: MaggiePucciEvans
 ms.author: evensma
 keywords: Microsoft クラウドの契約、アグリーメント テンプレートの顧客、CSP 顧客契約、Microsoft Cloud の契約、MCA、CSP、CSP を介した販売できます、?、CSP の国や地域の CSP North America、CSP 中央アメリカ、南の CSP の複数の言語で CSP MCAsアメリカ、CSP カリブ諸国、米国政府機関、CSP Microsoft Cloud Germany、CSP 中東、アフリカの CSP、CSP ヨーロッパ、CSP アジア、CSP 太平洋、CSP MCAs CSP の Microsoft クラウド
 ms.localizationpriority: medium
-ms.openlocfilehash: 5a7e0156136a52f9bfbaccbb76fc1316cb327c55
-ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
+ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58320755"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430221"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>地域と言語別の Microsoft Cloud 契約
 
-**適用対象**
+**対象**
 
 - CSP パートナー
 

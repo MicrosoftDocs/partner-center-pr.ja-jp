@@ -10,8 +10,8 @@
 ## [ソフトウェア アシュアランス プログラム](software-assurance-lp.md)
 ### [パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム](software-assurance-satv.md)
 ### [パートナー センターで受講券の確認および受け取りツールを使用して、受講券の確認、予約、引き換えを行う](voucher-validation-tool.md)
-### [よく寄せられる質問:受講券の確認および受け取りツールの使用](vvr-faq.md)
-### [パートナー センターでのソフトウェア アシュアランス計画サービス](software-assurance-dps.md)
+### [よくあるご質問:受講券の確認および受け取りツールの使用](vvr-faq.md)
+### [パートナー センターでのソフトウェア アシュアランス計画サービス ](software-assurance-dps.md)
 
 # [クラウド ソリューション プロバイダー](csp-overview.md)
 ## [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
@@ -23,7 +23,7 @@
 
 
 ## [ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)
-### [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
+### [米国政府機関向け Microsoft Cloud のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)
 
 # [パートナー センター アカウントの管理](partner-center-account-setup.md)
@@ -39,7 +39,7 @@
 ## [料金とプラン](pricing-and-offers.md)
 ## [カタログのカスタマイズ](customize-the-catalog.md)
 
-# [ビジネスの拡大](grow-your-business.md)
+# [Grow your business](grow-your-business.md)
 ## [紹介](referrals.md)
 ### [ビジネス プロファイルの作成](create-a-marketing-profile.md)
 ### [紹介案件への対応](responding-to-referrals.md)
@@ -47,6 +47,7 @@
 ### [インセンティブの申請の作成と管理](create-incentives-claims.md)
 ### [インセンティブの申請の主要な要件](core-requirements.md)
 ### [インセンティブ申請の支払いの概要](incentives-payouts.md)
+### [パートナー センターでの OSA 要求の送信](submit-osa-claim.md)
 
 
 # [請求と税金](billing.md)
@@ -105,13 +106,13 @@
 ## [間接リセラーのパフォーマンス分析](analyze-indirect-resellers.md)
 ## [サブスクリプションとライセンスの分析](analyze-subscriptions-licenses.md)
 
-# [他のパートナーと連携する](work-with-other-partners.md)
+# [他のパートナーとの連携](work-with-other-partners.md)
 ## [パートナー センターでの間接プロバイダーの作業](indirect-provider-tasks-in-partner-center.md)
 ## [パートナー センターでの間接リセラーの作業](indirect-reseller-tasks-in-partner-center.md)
 
 
 # [Microsoft のサポートを受ける](support-from-microsoft.md)
-## [パートナー センターに関する問題を報告する](report-problems-with-partner-center.md)
+## [パートナー センターに関する問題の報告](report-problems-with-partner-center.md)
 ## [顧客の代理で問題を報告する](report-problems-on-behalf-of-a-customer.md)
 ## [Microsoft の API で自動サービス通知を取得する](get-automated-service-notifications-with-our-apis.md)
 

@@ -1,22 +1,22 @@
 ---
 title: Microsoft Cloud 契約に関するお客様の同意を確認する | パートナー センター
 ms.topic: article
-ms.date: 02/22/2019
+ms.date: 04/5/2019
 Description: パートナーは、お客様の Microsoft 製品とサービスを注文する前に、Microsoft Cloud 契約へのお客様の同意を得る必要があります。 より適切パートナー コンプライアンス要件、Microsoft パートナーの要求を特定の契約書に同意したユーザーについての詳細を提供することで同意を確認します。
 author: LauraBrenner
 ms.author: v-petand
 keywords: 顧客、顧客、同意、MCA、Microsoft Cloud の契約、顧客の契約書のテンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: e8c4b66027eeb9e285bd09a4b77aaf9bb6574188
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587565"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430131"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Microsoft Cloud 契約に関するお客様の同意を確認する
 
-**適用対象**
+**対象**
 -  パートナー センター
 
 パートナーは、お客様の Microsoft 製品とサービスを注文する前に、Microsoft Cloud 契約へのお客様の同意を得る必要があります。 パートナーがコンプライアンス要件を満たすことができるように、マイクロソフトでは、パートナーに対して、契約に同意したユーザーに関する以下の詳細情報を提供することにより、同意を確認することを求めています。 
@@ -33,58 +33,26 @@ ms.locfileid: "57587565"
 
 詳細については、Microsoft Cloud の契約のお客様承諾の確認を参照してください。[よく寄せられる質問](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)します。
 
-## <a name="schedule"></a>スケジュール
+パートナーの請求書を直接と間接プロバイダーは、パートナーまたはパートナー センター API を介して処理するときに、Microsoft クラウドの契約の顧客による受け入れを確認する必要があります。 確認は*必須*です。
 
-**2018 年 8 月 7 日**
+特定のお客様について確認が提供されていない場合:
 
--   直接請求パートナーと間接プロバイダーは、Microsoft Cloud 契約に関するお客様の同意を確認できます。 同意は*オプション*です。
+-   このお客様について新しい注文を作成することはできません。
 
--   パートナー センターまたはパートナー センター API を使用して、顧客による受け入れの確認を実行できます。
+-   このお客様について既存のシート ベースのサブスクリプションのシート数を変更することはできません。
 
--   お客様の同意の確認は、Microsoft Public Cloud でのみサポートされています。
+パートナー センターまたはパートナー センター API を使用して、顧客による受け入れの確認を実行できます。 これには、パートナー センター API を介して、以下のトピックを参照してください。 
 
+-   [お客様の同意の確認を取得します。](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
 
-**2018 年 11 月 7 日**
+-   [アグリーメントのメタデータを取得します。](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
 
--   パートナーの請求書と間接プロバイダーに直接**する必要があります**パートナー センター ダッシュ ボードを通じて処理時に、Microsoft Cloud の契約の顧客による受け入れを確認します。 確認は*必須*です。
-
--   特定のお客様について確認が提供されていない場合:
-
-    -   このお客様について新しい注文を作成することはできません。
-
-    -   このお客様について既存のシート ベースのサブスクリプションのシート数を変更することはできません。
-
--   パートナー センターまたはパートナー センター API を使用して、顧客による受け入れの確認を実行できます。
-
--   お客様の同意の確認は、Microsoft Public Cloud でのみサポートされています。
-
--   これは、運用環境とサンド ボックス環境の両方に適用されます。
-
-**2018 年 3 月 11 日**
-
-- パートナーの請求書を直接と間接 Providersmust、パートナー センター API を介して処理するときに、CSP のサンド ボックス環境で Microsoft Cloud の契約の顧客による受け入れを確認します。
-- 特定のお客様について確認が提供されていない場合:
-
-    - パートナー センター API を使用して顧客の新規注文を作成することはできません。
- 
-    - パートナー センター API を使用して顧客の既存のシートベースのサブスクリプションの接続クライアント数を変更することはできません。
-- お客様の同意の確認は、Microsoft Public Cloud でのみサポートされています。 
-
-**12018 年 3 月 22 日**
-
-- パートナーの請求書を直接と間接 Providersmust、パートナー センター API を介して処理するときに、CSP 運用環境で Microsoft Cloud の契約の顧客による受け入れを確認します。
-
-- 特定のお客様について確認が提供されていない場合:
-  - パートナー センター API を使用して顧客の新規注文を作成することはできません。
-
-  - パートナー センター API を使用して顧客の既存のシートベースのサブスクリプションの接続クライアント数を変更することはできません。
--  お客様の同意の確認は、Microsoft Public Cloud でのみサポートされています。
+-   [お客様の同意を確認します。](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
 
+お客様の同意の確認は、Microsoft Public Cloud でのみサポートされています。
 
-
-
-
+これは、運用環境とサンド ボックス環境の両方に適用されます。
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>パートナー センターで顧客による受け入れを確認します。
 
@@ -120,7 +88,7 @@ ms.locfileid: "57587565"
 
 3.  **[Microsoft Cloud 契約]** で **[更新]** を選択します。
 
-![Update](images/mca/mca4.png)
+![更新](images/mca/mca4.png)
 
 4.  契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
 

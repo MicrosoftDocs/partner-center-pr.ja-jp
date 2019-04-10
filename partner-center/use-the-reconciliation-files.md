@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682510"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430201"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -23,6 +23,22 @@ ms.locfileid: "57682510"
 
 
 各料金が請求サイクルでの行項目の詳細なビューでは、パートナー センターから、調整ファイルをダウンロードします。 詳細には、各顧客のサブスクリプションの料金や、詳細なイベント (期間途中でのサブスクリプションへのシートの追加など) が含まれます。
+
+## <a name="formatting-issues"></a>書式設定の問題
+
+場合によっては、偵察ファイルには、書式設定の問題があります。 (これに、たとえば、EN-US ロケールを使用しない場合。)これらの問題を修正するのには、次の手順に従います。 
+
+<ol>
+<li>Excel では、.csv ファイルを開き、最初の列を選択します。 リボンで、次のように選択します。<strong>データ</strong>、し、<strong>列にテキスト</strong>します。</li>
+
+<li>ウィザードの列にテキストを変換で次のように選択します。<strong>ファイルの種類の区切り</strong>、し、<strong>次</strong>。</li> 
+
+<li>区切り文字フィールドで、選択<strong>コンマ</strong>します。 場合<strong>タブ</strong>が既に選択されているおくことが可能にします。 <strong>[次へ]</strong> を選びます。</li>
+
+<li>列のデータ形式のフィールドで選択<strong>日付。年 (mdy)</strong>、し、<strong>次</strong>します。</li> 
+
+<li>列のデータ形式のフィールドで選択<strong>テキスト</strong>列、および選択しすべて金額の<strong>完了</strong>します。</li>
+</ol>
 
 ## <a href="" id="itemizebypartner"></a>パートナーによって明細化します。
 
@@ -73,7 +89,7 @@ ms.locfileid: "57682510"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>[説明]</strong></td>
+<td><strong>説明</strong></td>
 <td><strong>サンプル値</strong></td>
 </tr>
 <tr class="even">
@@ -158,7 +174,7 @@ ms.locfileid: "57682510"
 <td>6.82</td>
 </tr>
 <tr class="even">
-<td>数量</td>
+<td>Quantity</td>
 <td><p>シート数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 <td>2</td>
 </tr>
@@ -242,7 +258,7 @@ ms.locfileid: "57682510"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>[説明]</strong></td>
+<td><strong>説明</strong></td>
 <td><strong>サンプル値</strong></td>
 </tr>
 <tr class="even">
@@ -345,7 +361,7 @@ ms.locfileid: "57682510"
 <td>Asia Pacific、Europe、Latin America、North America</td>
 </tr>
 <tr class="even">
-<td>SKU (SKU)</td>
+<td>SKU</td>
 <td><p>プランについての MSFT の一意の識別子</p></td>
 <td>7UD 00001</td>
 </tr>
@@ -473,7 +489,7 @@ ms.locfileid: "57682510"
 </colgroup>
 <thead>
 <tr class="header">
-<th>[列]</th>
+<th>列</th>
 <th>説明</th>
 </tr>
 </thead>
@@ -486,7 +502,7 @@ ms.locfileid: "57682510"
 </tr>
 
 <tr class="even">
-<td>顧客 Id</td>
+<td>[Customer Id]</td>
 <td><p>一意な Microsoft Azure Active Directory テナント ID、GUID 形式で顧客を識別するために使用します。</p></td>
 </tr>
 
@@ -521,7 +537,7 @@ ms.locfileid: "57682510"
 </tr>
 
 <tr class="odd">
-<td>注文 ID</td>
+<td>Order ID</td>
 <td><p>マイクロソフト コマース プラットフォームでの注文の一意識別子。 サポートに問い合わせる際に、注文の識別に有効な場合がありますが、調整には有用ではありません。</p></td>
 </tr>
 
@@ -606,7 +622,7 @@ ms.locfileid: "57682510"
 </tr>
 
 <tr class="even">
-<td>数量</td>
+<td>Quantity</td>
 <td><p>ユニットの数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 </tr>
 
@@ -658,7 +674,7 @@ ms.locfileid: "57682510"
 </colgroup>
 <thead>
 <tr class="header">
-<th>[列]</th>
+<th>列</th>
 <th>説明</th>
 </tr>
 </thead>
@@ -835,7 +851,7 @@ ms.locfileid: "57682510"
 </tr>
 
 <tr class="odd">
-<td>数量</td>
+<td>Quantity</td>
 <td><p>ライセンスの数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 </tr>
 
@@ -902,21 +918,21 @@ ms.locfileid: "57682510"
 <tbody>
 <tr>
 <td>
-<p><strong>請求書の料金の説明</strong></p>
+<p><strong>請求書の課金の説明</strong></p>
 </td>
 <td>
-<p><strong>調整ファイルの料金の説明 (ChargeType 列)</strong></p>
+<p><strong>調整ファイルの課金の説明 (ChargeType 列)</strong></p>
 </td>
 <td>
-<p><strong>この料金は何ですか。</strong></p>
+<p><strong>この課金の意味</strong></p>
 </td>
 <td>
-<p><strong>請求書にこれら ChargeTypes をマップする方法</strong></p>
+<p><strong>これらの ChargeTypes を請求書にマップする方法</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>ライセンス ベースの料金</strong></p>
+<p><strong>ライセンスベースの料金</strong></p>
 </td>
 <td>
 <p>アクティブ化料金</p>
@@ -1040,7 +1056,7 @@ ms.locfileid: "57682510"
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>使用法に基づく割引</strong></p>
+<p><strong>使用量ベースの割引</strong></p>
 </td>
 <td>
 <p>Activation discount</p>
@@ -1081,10 +1097,10 @@ ms.locfileid: "57682510"
 
 <tr>
 <td>
-<p><strong>ライセンス ベースの割引</strong></p>
+<p><strong>ライセンスベースの割引</strong></p>
 </td>
 <td>
-<p><em>複数の料金の種類に適用できます。</em></p>
+<p><em>複数の種類の料金に適用される場合がある</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1114,8 @@ ms.locfileid: "57682510"
 <p><strong>税</strong>&nbsp;または&nbsp;<strong>VAT</strong></p>
 </td>
 <td>
-<p><em>複数の料金の種類に適用できます。</em></p>
-<p><em>例外:&quot;行項目を相殺&quot;税金が既に含まれています。上記のクレジットを参照してください。</em></p>
+<p><em>複数の種類の料金に適用される場合がある</em></p>
+<p><em>例外:&quot;行項目を相殺&quot;税金が既に含まれています。 上記の「クレジット」を参照してください。</em></p>
 </td>
 <td>
 <p>税または付加価値税 (VAT)</p>

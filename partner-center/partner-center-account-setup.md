@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 01594dab5515d2373cffef581dcdd6a786afea14
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585345"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430181"
 ---
 # <a name="manage-your-partner-center-account"></a>パートナー センター アカウントの管理
 
-**適用対象**
+**対象**
 
 -  パートナー センター
 
@@ -31,12 +31,14 @@ ms.locfileid: "57585345"
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>パートナー センターのアカウントを管理するのに役立つリソース
 
-|**これを行う**   |**この記事を読む**   |
+|**目的**   |**参照先**   |
 |-----------------------|:-----------------------|
-|自社のプロファイルが最新であることを確認する   |[パートナー プロファイルを更新します。](update-your-partner-profile.md)|
-|パートナー センターで仕事をする必要がある、会社のすべてのユーザーはロール割り当てする必要があります。 各ロールには、特定のアクセス許可と、そのロールで利用可能なタスクがある。|[ユーザー アカウントを作成し、アクセス許可を設定](create-user-accounts-and-set-permissions.md)|
-|従業員がパスワードを忘れた場合はパスワードをリセットする必要があります。  |[ユーザー パスワードをリセットします。](reset-a-user-password.md)|
-|市場で顧客が自社を検索できるようにマーケティングする   |[ビジネス プロファイルの作成](create-a-marketing-profile.md)|
+|自社のプロファイルが最新であることを確認する   |[パートナー プロファイルの更新](update-your-partner-profile.md)|
+|パートナー センターで仕事をする必要がある、会社のすべてのユーザーはロール割り当てする必要があります。 各ロールには、特定のアクセス許可と、そのロールで利用可能なタスクがある。|[ユーザー アカウントの作成とアクセス許可の設定](create-user-accounts-and-set-permissions.md)|
+|各ロールでは、アクセス許可を確認します。|[ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
+|会社の場所を管理します。|[パートナー アカウントを管理します。[場所]](manage-locations.md)
+|従業員がパスワードを忘れた場合はパスワードをリセットする必要があります。  |[ユーザー パスワードのリセット](reset-a-user-password.md)|
+|市場で顧客が自社を検索できるようにマーケティングする   |[ビジネス プロファイルを作成します。](create-a-marketing-profile.md)|
 |最も重要な製品が一覧の先頭になるようにカタログを整理する   |[カタログのカスタマイズ](customize-the-catalog.md)|
 |料金とプランを常に最新の状態に維持する   |[料金とプラン](pricing-and-offers.md)|
 
