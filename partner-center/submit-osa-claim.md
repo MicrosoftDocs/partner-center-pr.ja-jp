@@ -7,16 +7,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 信頼性情報の奨励金、協力要求、協力金、OSA、ISV、収益の関連付け
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d043d59c5ef96e42587d36e128e7d1f556c9c5b
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
+ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430644"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "59619308"
 ---
-#<a name="submit-your-osa-claims-in-partner-center"></a>パートナー センターでの OSA 要求の送信
+# <a name="submit-your-osa-claims-in-partner-center"></a>パートナー センターでの OSA 要求の送信
 
-**対象**
+**適用対象**
 
 -  パートナー センター
 
@@ -28,17 +28,17 @@ OSA パートナーまたは ISV の Dynamics の場合は、パートナー セ
 -   **銀行と税の情報がある**パートナー センターで入力します。 
 -   **OSA 販売資格証明と収益の要件を満たす**します。 (詳細は、aka.ms/partnerincentives OSA セクションの下にある、OSA 販売ガイドを参照してください)。これは、収益の関連付けのみを希望する Isv には適用されません。 
 
-##<a name="submitting-your-claim"></a>要求を送信します。
+## <a name="submitting-your-claim"></a>要求を送信します。
 
 要求を送信するトランザクションの日付から 90 日間があります。 トランザクション後 90 日より、要求を送信する場合は、その販売の販売インセンティブを獲得しません。 
 
 ISV パートナーおよび Microsoft Dynamics 365 ソリューションを選択する顧客に影響を与える支援ソリューションなら、収益の関連付けを要求する対象場合も。   
 
-##<a name="payment-schedule"></a>支払スケジュール
+## <a name="payment-schedule"></a>支払スケジュール
 
 要求の承認済みのインセンティブの収益の期間の終了後 45 日以内の支払いを受け取ります。 争いの支払いに収益の期間の終了後 90 日間があります。 支払いの計算とメソッドについては、aka.ms/partnerincentives OSA セクションの下にある、OSA 販売ガイドを参照してください。
 
-##<a name="maintaining-your-program-eligibility"></a>プログラム、適格性を維持
+## <a name="maintaining-your-program-eligibility"></a>プログラム、適格性を維持
 
 Microsoft Online Services アドバイザー販売インセンティブの獲得、計算、および支払い毎月適格性を評価します。 Microsoft は承認したり、インセンティブの支払いをリリースする前に、特定の適格性条件を満たす必要があります。 詳細については、aka.ms/partnerincentives OSA セクションの下にある、OSA 販売ガイドを参照してください。
 
@@ -60,7 +60,9 @@ Microsoft Online Services アドバイザー販売インセンティブの獲得
 
 5.  、この要求に関連付けるし、選択するサブスクリプションを選択します。**続行**します。
 
->[!名前と地理的リージョンの両方が正しいこと、サブスクリプションを選択する前にノート] を確認します。 
+>[!ノート]
+
+>名前と地理的リージョンの両方が正しいこと、サブスクリプションを選択する前に確認します。 
 
 >その他のオンライン サービスのアドバイザーに関連付けられているサブスクリプションは、黄色の三角形でマークされます。 関連付けることもできます。 
 
@@ -76,7 +78,7 @@ Microsoft Online Services アドバイザー販売インセンティブの獲得
 
 収益と支払いデータを表示するには、払い戻し金額とレポートを参照してください。 
  
-#<a name="submit-an-isv-revenue-association-claim"></a>ISV 収益関連要求を送信します。
+# <a name="submit-an-isv-revenue-association-claim"></a>ISV 収益関連要求を送信します。
 
 1.  概要 ページで、**インセンティブ プログラムをすべて**を選択します**OSA**します。
 
@@ -86,7 +88,9 @@ Microsoft Online Services アドバイザー販売インセンティブの獲得
 
 4.  この要求に関連付けるし、選択するサブスクリプションを選択する**続行**します。
 
->[!名前と地理的リージョンの両方が正しいこと、サブスクリプションを選択する前にノート] を確認します。 
+>[!ノート]
+
+>名前と地理的リージョンの両方が正しいこと、サブスクリプションを選択する前に確認します。 
 
 >会社に既に関連付けられているサブスクリプションは、もう一度関連にすることはできません。  
 
