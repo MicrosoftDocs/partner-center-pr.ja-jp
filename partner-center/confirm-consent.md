@@ -1,23 +1,29 @@
 ---
 title: Microsoft Cloud 契約に関するお客様の同意を確認する | パートナー センター
 ms.topic: article
-ms.date: 04/5/2019
+ms.date: 04/16/2019
 Description: パートナーは、お客様の Microsoft 製品とサービスを注文する前に、Microsoft Cloud 契約へのお客様の同意を得る必要があります。 より適切パートナー コンプライアンス要件、Microsoft パートナーの要求を特定の契約書に同意したユーザーについての詳細を提供することで同意を確認します。
 author: LauraBrenner
 ms.author: v-petand
 keywords: 顧客、顧客、同意、MCA、Microsoft Cloud の契約、顧客の契約書のテンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430131"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "59652254"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Microsoft Cloud 契約に関するお客様の同意を確認する
 
-**対象**
+**適用対象**
 -  パートナー センター
+
+> [!NOTE]
+> 契約リソースは Microsoft パブリック クラウドのみのパートナー センターで現在サポートされています。 適用することはできません。
+> * 21Vianet が運営するパートナー センター
+> * Microsoft Cloud ドイツのパートナー センター
+> * 米国政府機関向け Microsoft Cloud のパートナー センター
 
 パートナーは、お客様の Microsoft 製品とサービスを注文する前に、Microsoft Cloud 契約へのお客様の同意を得る必要があります。 パートナーがコンプライアンス要件を満たすことができるように、マイクロソフトでは、パートナーに対して、契約に同意したユーザーに関する以下の詳細情報を提供することにより、同意を確認することを求めています。 
 
@@ -27,7 +33,7 @@ ms.locfileid: "59430131"
 
 -   メール アドレス
 
--   電話番号
+-   電話番号 (オプション)
 
 -   同意の日付
 
@@ -49,8 +55,6 @@ ms.locfileid: "59430131"
 
 -   [お客様の同意を確認します。](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
-
-お客様の同意の確認は、Microsoft Public Cloud でのみサポートされています。
 
 これは、運用環境とサンド ボックス環境の両方に適用されます。
 
