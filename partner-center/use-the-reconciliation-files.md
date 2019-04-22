@@ -8,10 +8,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430201"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
@@ -918,21 +918,21 @@ ms.locfileid: "59430201"
 <tbody>
 <tr>
 <td>
-<p><strong>請求書の課金の説明</strong></p>
+<p><strong>請求書の料金の説明</strong></p>
 </td>
 <td>
-<p><strong>調整ファイルの課金の説明 (ChargeType 列)</strong></p>
+<p><strong>調整ファイルの料金の説明 (ChargeType 列)</strong></p>
 </td>
 <td>
-<p><strong>この課金の意味</strong></p>
+<p><strong>この料金は何ですか。</strong></p>
 </td>
 <td>
-<p><strong>これらの ChargeTypes を請求書にマップする方法</strong></p>
+<p><strong>請求書にこれら ChargeTypes をマップする方法</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>ライセンスベースの料金</strong></p>
+<p><strong>ライセンス ベースの料金</strong></p>
 </td>
 <td>
 <p>アクティブ化料金</p>
@@ -1056,7 +1056,7 @@ ms.locfileid: "59430201"
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>使用量ベースの割引</strong></p>
+<p><strong>使用法に基づく割引</strong></p>
 </td>
 <td>
 <p>Activation discount</p>
@@ -1097,10 +1097,10 @@ ms.locfileid: "59430201"
 
 <tr>
 <td>
-<p><strong>ライセンスベースの割引</strong></p>
+<p><strong>ライセンス ベースの割引</strong></p>
 </td>
 <td>
-<p><em>複数の種類の料金に適用される場合がある</em></p>
+<p><em>複数の料金の種類に適用できます。</em></p>
 </td>
 <td>
 <p></p>
@@ -1114,8 +1114,8 @@ ms.locfileid: "59430201"
 <p><strong>税</strong>&nbsp;または&nbsp;<strong>VAT</strong></p>
 </td>
 <td>
-<p><em>複数の種類の料金に適用される場合がある</em></p>
-<p><em>例外:&quot;行項目を相殺&quot;税金が既に含まれています。 上記の「クレジット」を参照してください。</em></p>
+<p><em>複数の料金の種類に適用できます。</em></p>
+<p><em>例外:&quot;行項目を相殺&quot;税金が既に含まれています。上記のクレジットを参照してください。</em></p>
 </td>
 <td>
 <p>税または付加価値税 (VAT)</p>

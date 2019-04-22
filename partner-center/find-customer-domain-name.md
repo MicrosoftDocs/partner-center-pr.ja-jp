@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: 信頼性情報の奨励金、協力要求、協力金、OSA、ISV、収益の関連付け、ドメイン名、ディレクトリ ID
 ms.localizationpriority: medium
 ms.openlocfilehash: 1a267de71c050ede872feaf6e1b24588fba74792
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430647"
 ---
 #<a name="find-your-customers-domain-name-and-directory-id"></a>顧客のドメイン名とディレクトリの ID を検索します。
 
-**対象**
+**適用対象**
 
 -  パートナー センター
 

@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: トレーニングの受講券、ソフトウェア アシュアランス、トレーニング、バウチャー、受講券の予約の検証します。
 ms.localizationpriority: medium
 ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58863990"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>よくあるご質問:受講券の検証および引き換えツールを使用します。 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>よくあるご質問:受講券の確認および受け取りツールの使用 
 
-**対象**
+**適用対象**
 
 - パートナー センター
 
@@ -36,7 +36,7 @@ ms.locfileid: "58863990"
 - 連絡先、 [PMC サポート チーム](mailto:proghelp@microsoft.com)します。 
 
 
-**自分の会社が PMC からパートナー センターに移行します。 特定 VVR で作業を何もする必要がありますか。** 
+**自分の会社が PMC からパートナー センターに移行します。特定 VVR で作業を何もする必要がありますか。** 
 
 - パートナー センターで VVR を使用することができます。  VVR を使用するには、MPN パートナーの管理者は、職場アカウントのメールを使用して、パートナー センターにサインインできます。 新しいユーザーを追加する場合は、グローバル管理者はこれを実行できます。 パートナー センターにアクセスする場合を参照してください。**アクセス管理**を選択します**ユーザー**、フィルター処理と**MPN 管理者**の**グローバル管理者**。会社の MPN とグローバル管理者の一覧が提供されます。  
 

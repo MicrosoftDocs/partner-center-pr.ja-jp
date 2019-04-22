@@ -8,10 +8,10 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 86397bcbf16935499049c842d5b3fd32caeb2261
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430171"
 ---
 # <a name="tax-and-tax-exemptions"></a>税金と税金の除外
@@ -24,7 +24,7 @@ ms.locfileid: "59430171"
 
 クラウド ソリューション プロバイダーはパートナーによる製品の再販を中心とした販売チャネルであるため、マイクロソフトがパートナーの請求書に売上税を加算しなくてもよい場合があります。 規則は、国/地域によって異なります。 パートナーは自身の拠点と顧客の拠点に基づいて、税アドバイザーと協力して適切な税金の除外を申告する必要があります。 Microsoft リセラー アカウントを非課税対象としてマークするには、パートナーはマイクロソフトに除外証明書を送付する必要があります。
 
-**税金の除外を申告する**
+**ファイルを免税**
 
 1.  検索、 **Microsoft ID**パートナー センターで&gt;**アカウント設定** &gt; **組織プロファイル**します。
 2.  検索、 **MPN ID**パートナー センターで&gt;**アカウント設定** &gt; **パートナー プロファイル**します。

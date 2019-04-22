@@ -9,10 +9,10 @@ ms.author: evansma
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: medium
 ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430121"
 ---
 # <a name="billing"></a>請求
@@ -38,10 +38,10 @@ ms.locfileid: "59430121"
 -   すべての料金について単一の請求書を顧客に送ります。
 
 ## <a name="billing-resources"></a>請求に関するリソース
-|**情報**   |**参照先**    |
+|**について**   |**この記事を読む**    |
 |:-----------------------------|:-----------------|
 |請求、支払い、請求書などの基本事項   |[課金の基本](billing-basics.md)
-|年次請求など、多くの新しい請求機能   |[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)|
+|年次請求など、多くの新しい請求機能   |[課金の新機能についてよく寄せられる質問](faq-about-new-billing-features.md)|
 |課金の種類   |[パートナー センターでの課金の種類について](billing-different-types.md)   |
 |請求書の記載事項を理解するための鍵   |[請求書の記載事項](read-your-bill.md)   |
 |調整ファイルを理解し使用する方法   |[調整ファイルを使う](use-the-reconciliation-files.md)|

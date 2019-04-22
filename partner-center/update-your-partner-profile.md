@@ -8,10 +8,10 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: ff8f149adda67ae911870ead8f3c03ab35f5f1be
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430101"
 ---
 # <a name="update-your-partner-profile"></a>パートナー プロファイルの更新
@@ -19,17 +19,17 @@ ms.locfileid: "59430101"
 
 管理者として初めてパートナー センターにログインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。 組織は、複数の場所にある場合は、精度の場所データを確認します。
 
-**サポートの詳細を更新する**
+**サポートの詳細を更新します。**
 
 1.  移動して**設定** &gt; **設定をすべて表示** &gt;**パートナー プロファイル**します。
 2.  **[サポート]** セクションで、**[更新]** を選びます。
 3.  サポートが必要な顧客が Microsoft に連絡してきた場合、Microsoft は貴社のサポート プロファイルに記載の Web サイト、メール アドレス、および電話番号を伝えます。
 
-**税金の除外を申告する**
+**ファイルの税の除外**
 
 -   税金の除外が貴社に適用されるかどうかを判断し、適用される場合は顧客やサブスクリプションを追加する前に申告してください。 「[税金と税金の除外](tax-and-tax-exemptions.md)」をご覧ください。
 
-**プロファイル情報を確認する**
+**プロファイル情報を確認します。**
 
 1.  移動して**設定** &gt;**設定をすべて表示**します。 
 2.  **[パートナー プロファイル]**、**[課金プロファイル]**、および **[組織プロファイル]** を確認します。
