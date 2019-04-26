@@ -1,18 +1,18 @@
 ---
 title: 新しい請求機能についてよく寄せられる質問 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: パートナー センターの年次請求と無料試用版の各機能に関してよく寄せられる質問を以下に示します。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: de8b450edace9aea1fbf5321159f41bf26420488
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: fd95787a87a1b70a0b2f31114b22dde7ca0f837c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587225"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135692"
 ---
 # <a name="faq-about-new-billing-features"></a>新しい請求機能についてよく寄せられる質問
 

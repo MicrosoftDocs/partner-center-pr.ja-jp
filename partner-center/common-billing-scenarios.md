@@ -1,19 +1,19 @@
 ---
 title: 一般的な課金シナリオ | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: このトピックでは、新しいサブスクリプションの追加、サブスクリプションのライセンス数の調整、サブスクリプションの取り消しを行った後、請求書がどのように表示されるかを説明します。 使用量ベースのサブスクリプションとライセンス ベースのサブスクリプションでは影響が異なります。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 課金、支払い、注文、使用状況、ライセンス ベースの課金、契約応当日、用語、キャンセル、更新、価格式は、調整ファイル、recon ファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f7820219110bfdbe153d8467da91e1d66d82341
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2a619356577345923cd78499d2ae5a1f3c6c1614
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585705"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135322"
 ---
 # <a name="common-billing-scenarios"></a>一般的な課金シナリオ
 

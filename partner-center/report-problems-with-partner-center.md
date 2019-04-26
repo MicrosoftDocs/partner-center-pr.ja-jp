@@ -1,18 +1,18 @@
 ---
 title: パートナー センターに関する問題の報告 |パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: パートナー センターに関する問題を報告する方法と、Microsoft のサポート チーム向けの診断情報を収集する方法について説明します。
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 46ac1cd60496338bbcdac7cf0258a2d4adfc9754
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 5f7c4a12a6b6501b31cebb429dee952e410c943e
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587755"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134192"
 ---
 # <a name="report-problems-with-partner-center"></a>パートナー センターに関する問題の報告
 

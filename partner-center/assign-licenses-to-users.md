@@ -1,19 +1,19 @@
 ---
 title: 顧客アカウントのユーザー管理タスク | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 顧客の新しいサブスクリプションを購入した後、特定のユーザーにライセンスを割り当てることができます。
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 顧客管理、アカウント、アカウント、ライセンスを作成、ライセンス、ユーザーの管理、パスワードを割り当てる、パスワードのリセット、パスワードの変更
 ms.localizationpriority: medium
-ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586755"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134872"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>顧客アカウントのユーザー管理タスク
 
@@ -93,7 +93,7 @@ ms.locfileid: "57586755"
 ## <a name="related-topics"></a>関連トピック
 
 
-[複数のユーザーにライセンスの失効を割り当てたり、](bulk-license-provisioning-for-multiple-users.md)
+[複数のユーザーへのライセンスの割り当てまたは取り消し](bulk-license-provisioning-for-multiple-users.md)
 
 [お客様のアカウントを複数のユーザーを作成します。](adding-multiple-users-to-a-customer-account.md)
 

@@ -1,18 +1,18 @@
 ---
 title: Microsoft Action Pack を購入または更新する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Microsoft Action Pack を初めて購入する方法または更新する方法を説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Action Pack、MAPS、MAPS の更新、Action Pack の更新、Action Pack の購入
 ms.localizationpriority: medium
-ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 552e288bb983b940d8211328553e6b33be242cb8
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587885"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134302"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを初めて購入する、または更新する
 

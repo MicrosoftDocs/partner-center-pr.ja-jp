@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: 配置前、計画、ソフトウェア アシュアランス
 ms.localizationpriority: medium
 ms.openlocfilehash: 222ba9b7fe526021bf06f4fda7f72b4703ba73c8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587925"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133842"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
 
@@ -23,7 +23,7 @@ ms.locfileid: "57587925"
 ソフトウェア アシュアランス Planning Services を使い慣れていない場合を参照してください。[サービスの計画とビジネスの成長](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)します。
 
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>作業開始
 
 ソフトウェア アシュアランス計画サービスに慣れていない場合は、次の手順に従います。 サービスの計画のプログラムでアクティブになっているし、パートナーのアカウント情報がパートナー センターに移動された場合、は、手順 4 (4) 次から開始します。 
 

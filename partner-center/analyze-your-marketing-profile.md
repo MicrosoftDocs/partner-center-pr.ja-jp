@@ -1,18 +1,18 @@
 ---
 title: ビジネス プロファイルの効果を分析する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: パートナー センターを通じて、紹介案件を評価し、交渉して、対応します。
 author: LauraBrenner
 ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bc4282bb4864a7b3a009ab367d384ced519a5b8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584515"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134912"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>ビジネス プロファイルの効果を分析する
 <!-- 
@@ -48,6 +48,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 *  **[キーワード]** (全体の上位の検索キーワード) 
 *  **業界**
-*  **製品**
+*  **Product**
 *  **サービスの種類**
 

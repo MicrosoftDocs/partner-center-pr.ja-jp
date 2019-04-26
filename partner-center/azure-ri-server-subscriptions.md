@@ -8,11 +8,11 @@ ms.author: v-petand
 keywords: Azure, サブスクリプションの場合、VM、予約、予約インスタンス
 ms.localizationpriority: medium
 ms.openlocfilehash: 15de1f8ce78eca7eec34113eaf1115fa8c441edf
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586405"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135402"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,7 +24,7 @@ ms.locfileid: "57586405"
  
 ## <a name="what-are-azure-reservations"></a>Azure 予約とは
 
-Azure 予約では、前払いで 1 年間のコストを削減できます。 または、仮想マシン、SQL Database の 3 年分の計算処理能力、Azure Cosmos DB のスループット、他の Azure リソース。 前払いで使用するリソースを割引価格を取得することができます。 予約は、仮想マシン、SQL データベースのコンピューティング、Azure Cosmos DB では、大幅に短縮でき、その他のリソースのコストを最大 72% 従量課金制料金と比較します。 予約は、課金の割引を提供し、リソースのランタイム状態には影響しません。詳細については、次を参照してください[Azure 予約をは何ですか?。](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Azure 予約では、前払いで 1 年間のコストを削減できます。 または、仮想マシン、SQL Database の 3 年分の計算処理能力、Azure Cosmos DB のスループット、他の Azure リソース。 前払いの場合は、使用するリソースに割引価格で適用されます。 予約では、従量課金制の価格と比較して、仮想マシン、SQL Database の処理能力、Azure Cosmos DB、その他のリソースのコストを最大 72% も削減することができます。 予約は、課金の割引を提供し、リソースのランタイム状態には影響しません。詳細については、次を参照してください[Azure 予約をは何ですか?。](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>顧客は理由、予約を購入するべきでしょうか。
 
@@ -65,12 +65,12 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 
 **販売の準備**
 
-- [Azure の予約とサーバー サブスクリプションに Azure ハイブリッド特典の概要 (更新)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
-- [セールス シート](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Azure 予約を (更新) のパートナーに関する FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Azure 予約と SQL DB のパートナーに関する FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Azure の概要 (新規) の SQL DB](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Azure の価格の概要](https://azure.microsoft.com/pricing/#explore-cost)
+- [Azure Reservations + Server Subscriptions と Azure ハイブリッド特典の概要 (更新版)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [販売シート](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+- [Azure Reservations に関するパートナー向け FAQ (更新版)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Azure Reservations と SQL DB に関するパートナー向け FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [Azure の SQL DB 概要 (新規)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Azure の料金概要](https://azure.microsoft.com/pricing/#explore-cost)
 - [Azure 料金計算ツール](https://azure.microsoft.com/pricing/calculator/)
 - Azure 予約価格リスト: パートナー センターで Microsoft Azure Reserved Instances の価格表を参照してください。[価格とプラン](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)ページ。
 - サーバー サブスクリプションの料金一覧 – パートナー センターでのソフトウェア サブスクリプションの価格表を参照してください。[価格とプラン](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)ページ。
@@ -86,12 +86,12 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 **運用**
 
 - [最新の Commerce Operations Guide](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (更新)。包括的なガイドのテーマはキーのポリシーと、アグリーメントなどの運用面についてパートナー センター、請求、価格詳細を一覧表示、インセンティブ、調整ファイル、API や SDK、サンド ボックス、および Azure Partner Shared Services を通じて順序。
-- [最新のプランの国の可用性とお客様の通貨のマトリックス](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+- [モダン オファーの提供国と顧客の通貨の対応表](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [販売 Reserved Instances の Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=872806)
-- [顧客に代わって Microsoft Azure 予約を購入します。](https://go.microsoft.com/fwlink/?linkid=872807)
+- [顧客に代わって Microsoft Azure Reservations を購入する](https://go.microsoft.com/fwlink/?linkid=872807)
 - [顧客に代わって Azure 予約を管理します。](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Azure 予約の課金](https://go.microsoft.com/fwlink/?linkid=872809)
-- [最大予約の使用状況の VM のサイズを変更します。](https://go.microsoft.com/fwlink/?linkid=872810)
+- [最大限の予約使用に備えた VM サイズ](https://go.microsoft.com/fwlink/?linkid=872810)
 - [パートナー センター API (API や SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 ## <a name="azure-hybrid-benefit"></a>Azure ハイブリッド特典

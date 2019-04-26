@@ -1,18 +1,18 @@
 ---
 title: Microsoft パートナー ビジネスの拡大 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Microsoft パートナー ビジネスを拡大するためのリソース。 Microsoft から見込み情報 (紹介案件) を受け取る方法が含まれています。
 keywords: 紹介案件, 紹介案件への対応, 潜在顧客, 見込み情報, マーケティング プロファイル, ビジネス プロファイル, ビジネスの拡大, ビジネス チャンス, コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, 試用版, 市場の拡大, ナショナル クラウド
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 896d2214f9d036919298a847ce3f31f53f7a21ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 77146f87bb46a4d86ffd9966ed5c5ec860e0cdda
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586805"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135632"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft パートナー ビジネスの拡大 
 
@@ -38,7 +38,7 @@ Microsoft では、パートナー ビジネスを拡大するために役立つ
 | Microsoft の製品の試用版サブスクリプションを顧客に提供する | 「[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)」で、試用版サブスクリプションを使用して顧客基盤を拡大する方法を確認します。| CSP パートナー |
 | Microsoft サブスクリプションのプロモーション価格を顧客に提供する | マイクロソフトは、ライセンス ベースのサブスクリプションのプロモーションを随時実施しており、パートナー様はこれを活用して顧客に割引価格でサブスクリプションを提供し、ビジネスの拡大を図ることができます。 [Microsoft サブスクリプションのプロモーション価格を顧客に提供する方法](promotions.md)をご覧ください。 | CSP パートナー |
 | 販売対象市場を追加する | クラウド ソリューション プロバイダー販売チャネルは、多数の国や地域で利用可能です。 一覧については、[クラウド ソリューション プロバイダーの市場](agreements.md)のページをご覧ください。 クラウド ソリューション プロバイダー チャネルの概要については、[クラウド ソリューション プロバイダーの概要](csp-overview.md)ページをご覧ください。  | CSP パートナー |
-非営利組織および教育機関などの特殊な業界向けに販売する|[特殊な業界に販売します。](get-special-pricing-for-offers.md)|CSP パートナー|
-|協力インセンティブ プログラムで利用できる多くのアクティビティを通じてビジネスを拡大する。 パートナー センターを通じてアクティビティのファイル要求。| [作成およびインセンティブの要求を管理します。](create-incentives-claims.md)|CSP パートナー|
-|Azure Marketplace の製品にサブスクリプションを販売します。|[Azure Marketplace の製品にサブスクリプションを販売します。](sell-marketplace-products.md)|CSP パートナー|
+非営利組織および教育機関などの特殊な業界向けに販売する|[特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)|CSP パートナー|
+|協力インセンティブ プログラムで利用できる多くのアクティビティを通じてビジネスを拡大する。 パートナー センターを通じてアクティビティのファイル要求。| [インセンティブの申請の作成と管理](create-incentives-claims.md)|CSP パートナー|
+|Azure Marketplace 製品にサブスクリプションを販売する|[Azure Marketplace 製品にサブスクリプションを販売する](sell-marketplace-products.md)|CSP パートナー|
 |会社の販売と Azure を管理するスーパー スターですですか。 Azure エキスパートの Microsoft サービス プロバイダー プログラムに登録に適用されます。|[Azure のエキスパートの Microsoft サービス プロバイダー プログラム](azure-expert-msp.md)|CSP パートナー|

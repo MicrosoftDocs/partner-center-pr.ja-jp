@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: インセンティブの申請, 協力インセンティブの申請, 協力金, 主要な要件
 ms.localizationpriority: medium
 ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59019435"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135032"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>協力インセンティブの申請の主要な要件
 

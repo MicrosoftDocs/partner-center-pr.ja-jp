@@ -7,11 +7,11 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.openlocfilehash: 30e3b7a7933678c4af079bb86aa1439559387f2b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584985"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132082"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -156,7 +156,7 @@ ms.locfileid: "57584985"
 <td>6.82</td>
 </tr>
 <tr class="even">
-<td>数量</td>
+<td>Quantity</td>
 <td><p>シート数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 <td>2</td>
 </tr>

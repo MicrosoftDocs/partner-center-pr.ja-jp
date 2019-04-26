@@ -1,18 +1,18 @@
 ---
 title: パートナー管理センターからパートナー センターへの移行
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: パートナー管理センターで使用していた機能がパートナー センターで見つかります
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, Office 365 管理, PAC 機能
 ms.localizationpriority: medium
-ms.openlocfilehash: 7200f93a25f74903805d095bbd821e07758873ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2c6131dec100f438895cfa7d4f8fea5f6d66dacb
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584135"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134318"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>パートナー管理センター (PAC) から、パートナー センターへの移行
 

@@ -1,18 +1,18 @@
 ---
 title: Microsoft の API で自動サービス通知を取得する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Office 365 と Microsoft Azure は、リアルタイムのサービスの正常性、メッセージ センターの通信、計画されたメンテナンス イベントを取得するために使うことができる API を提供しています。
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fb0dcdf12a59842ebf1400f4a5e917ad64fbb14f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 026ec0a3743d74c3255eb7e9316796effcb59441
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587275"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135682"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>Microsoft の API で自動サービス通知を取得する
 

@@ -8,11 +8,11 @@ ms.author: evensma
 keywords: Microsoft クラウドの契約、アグリーメント テンプレートの顧客、CSP 顧客契約、Microsoft Cloud の契約、MCA、CSP、CSP を介した販売できます、?、CSP の国や地域の CSP North America、CSP 中央アメリカ、南の CSP の複数の言語で CSP MCAsアメリカ、CSP カリブ諸国、米国政府機関、CSP Microsoft Cloud Germany、CSP 中東、アフリカの CSP、CSP ヨーロッパ、CSP アジア、CSP 太平洋、CSP MCAs CSP の Microsoft クラウド
 ms.localizationpriority: medium
 ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430221"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134632"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>地域と言語別の Microsoft Cloud 契約
 

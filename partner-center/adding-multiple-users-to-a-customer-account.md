@@ -1,19 +1,19 @@
 ---
 title: 顧客アカウントに複数のユーザーを作成する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 顧客のアカウントに一度に複数のユーザーを追加できます。そのためには、コンマ区切り値ファイル形式 (.csv) のデータ ファイルをパートナー センターにアップロードします。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 一括アップロード, 顧客アカウントへの複数ユーザーの追加, 顧客のユーザーの追加, 顧客のユーザーの一括アップロード, 顧客アカウント, 顧客のユーザー, ユーザー
 ms.localizationpriority: medium
-ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b113736330b201ed6a4d1c6b8915e844b80fe5d5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584245"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134532"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>顧客アカウントへの複数ユーザーの追加
 

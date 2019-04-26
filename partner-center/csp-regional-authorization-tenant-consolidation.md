@@ -1,19 +1,19 @@
 ---
 title: CSP の地域的承認によるテナント統合 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 別の国/地域のテナントを統合するには、次の手順を使用します。
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 顧客の移行, プロビジョニング, テナントのアカウント, テナントの統合
 ms.localizationpriority: medium
-ms.openlocfilehash: 183b5f518a57fdaf27badce5927a2ea09a5ec89c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c2226fea4523b5f34a2cb1b5fcfcde88048dda82
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587555"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134781"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>CSP の地域的承認によるテナント統合
 
@@ -119,7 +119,7 @@ Azure の使用量ベースの CSP サブスクリプションは、Office 365 �
 
 6.  今後、**移行元**アカウントでの課金を停止するために、すべての顧客のすべてのサブスクリプションについて、この手順を繰り返します。 パートナーは、取り消し日から課金期間の最終日までの未使用の日数のクレジットについて最終的な請求書を受け取ります。 最後の課金期間以降、請求書は生成されません。
 
-### <a name="notes"></a>説明
+### <a name="notes"></a>メモ
 
 -   サービスを無効にする前に**移行先**の CSP アカウントからサービスがプロビジョニングされている場合、**移行元**の CSP アカウントからのサブスクリプションを無効にしても、顧客のサービスには影響しません。
 

@@ -9,11 +9,11 @@ ms.author: labrenne
 Keywords: サブスクリプションを新規作成、サブスクリプションの追加、中断、中断をキャンセルします。
 ms.localizationpriority: medium
 ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
-ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2019
-ms.locfileid: "57756919"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135022"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
@@ -37,7 +37,7 @@ ms.locfileid: "57756919"
 3. 特定の種類のサブスクリプションのみを表示するには、使用可能なフィルターで選択を行います。
    - **パブリッシャー**:選択**Microsoft** 、マイクロソフトが提供するだけを確認するまたは**パートナー** Isv からの Azure Marketplace の製品を表示します。
    - **課金の種類**:使用するサブスクリプションの課金の種類を選択します。**ライセンス**または**使用状況**します。 請求頻度を月次と年次のいずれかに決定するのに役立つ情報については、[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)を参照してください。
-   - **カテゴリ**:選択**Enterprise**、 **Small business**、または**試用版**します。 試用版サブスクリプションについては、[Microsoft 製品の試用版を顧客に提供](offer-your-customers-trials-of-microsoft-products.md)を参照してください。
+   - **カテゴリ**:選択**Enterprise**、 **Small business**、または**試用版**します。 試用版サブスクリプションについては、次を参照してください。 [Microsoft 製品の試用版を顧客に提供](offer-your-customers-trials-of-microsoft-products.md)します。
 
 4. サブスクリプションを購入する製品を選択します。 製品を顧客セグメント (教育機関、政府機関など) と、フィルターの種類によって異なります適用していることに注意してください。 製品が利用できない場合、顧客がその製品のサブスクリプションを既に保有しており、1 つのみが許可されている可能性があります。 または、サブスクリプションが中断されている可能性があり、その場合は、新しいものを購入する代わりに再アクティブ化することができます。
 
@@ -63,7 +63,7 @@ ms.locfileid: "57756919"
 3.  **[状態]** セクションで、**[中断]** を選びます。 次に、変更を**提出**します。
 4.  90 日以内、または 90 日にアカウントが開かれた時点から最初の課金までの日数を加えた期間 (最大 120 日) 以内にサブスクリプションを再アクティブ化しない限り、すべてのデータは削除されます。
 
-サブスクリプションを中断するときに、**[中断]** ボタンの下に表示される日付は、サブスクリプションを再アクティブ化しない場合に自動的に期限切れになる日付です。 詳細については、[請求の新機能についてよく寄せられる質問](faq-about-new-billing-features.md)を参照してください。
+サブスクリプションを中断するときに、**[中断]** ボタンの下に表示される日付は、サブスクリプションを再アクティブ化しない場合に自動的に期限切れになる日付です。 詳細については、次を参照してください。[請求の新機能についてよく寄せられる質問](faq-about-new-billing-features.md)します。
 
 ### <a name="cancel-a-subscription"></a>サブスクリプションを取り消す
 

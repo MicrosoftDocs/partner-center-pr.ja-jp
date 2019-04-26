@@ -1,18 +1,18 @@
 ---
 title: 顧客の Azure 支出の予算の設定 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 月末の Azure の請求金額が顧客にとって予期しない金額にならないように、パートナー センターで顧客ごとの月額予算を設定できます。
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3158679d8a435a8252ad7dfb60d5cccc5cfa2f1f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 116fdff7c2a1ca30027dfa29bda5376fa101b089
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587585"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133952"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>お客様向けに Azure の支出の予算を設定する
 

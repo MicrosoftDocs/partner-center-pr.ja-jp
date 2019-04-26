@@ -7,11 +7,11 @@ author: maggiepuccievans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a6989957b3c4e3cf0c0c63d5297a9c04371c0a81
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587875"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134422"
 ---
 <!-- Note from Maggie on Dec 5, 2018: I can no longer tell what purpose this article serves. I'm going to redirect it to the mpn-overview.md topic and move the relevant information there. In the interim, I've copied and pasted the content from the MPN overview topic into this one in case anyone out there has it bookmarked.
 -->
@@ -30,7 +30,7 @@ Microsoft Partner Network 示しています。 お客様のビジネスを区�
 
 アクションのパックまたはスタート キットは、ソフトウェアおよびマイクロソフト ベースのソリューションを構築するサポートを提供し、コンピテンシーは、実証済みの専門知識をお客様やその他のパートナーを示します。
 
-Microsoft Partner Network (MPN) に関する詳細については、、 [MPN の web サイト](https://partner.microsoft.com/commercial)を参照してください。
+Microsoft Partner Network (MPN) に関する詳細については、次を参照してください。、 [MPN の web サイト](https://partner.microsoft.com/commercial)します。
 
 ### <a name="how-to-join"></a>結合する方法
 

@@ -1,19 +1,19 @@
 ---
 title: Azure Partner Shared Services の追加 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Azure Partner Shared Services は、CSP プログラムのパートナー様向けの新しいプランの種類です。このプランでは、パートナー様自身が使用する Azure サブスクリプションを購入できます。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, Shared Services, テナント
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ff1e169f54c71e634d07ade9981ecb11009fa9de
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
-ms.translationtype: MT
+ms.openlocfilehash: bfdb82d0698f2e0aba3f5284a53fe22010efc0da
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682470"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134943"
 ---
 # <a name="add-azure-partner-shared-services"></a>Azure Partner Shared Services の追加
 
@@ -63,8 +63,8 @@ Azure Partner Shared Services (APSS) には、2019 年 3 月 1 日の時点で�
 
 |**Marketplace のサポート**   |**APSS、2019 年 3 月 1 日より前に、でサポート**|**、2019 年 3 月 1 日後**|
 |---------------------------|:----------------------------|:-------------------|
-|ライセンス (BYOL) と無料サービス   | はい   | いいえ|
-|その他のサード パーティの marketplace プラン   | いいえ   |いいえ|
+|ライセンス (BYOL) と無料サービス   | 〇   | X|
+|その他のサード パーティの marketplace プラン   | X   |X|
 
 
 BYOL または解放したパートナー APSS を使用してデプロイされたサービスに影響はありません。ただし、2019 年 3 月 1 日後にないされる新しい BYOL または無料のサービスを購入できるようにします。 

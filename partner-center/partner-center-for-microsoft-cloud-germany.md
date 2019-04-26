@@ -1,18 +1,18 @@
 ---
 title: Microsoft Cloud ドイツのパートナー センター | Microsoft Cloud ドイツのパートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Microsoft Cloud ドイツのパートナー センターは、EU および EFTA の加盟国の顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 74fdfa55a90b7e19dbe44f68a2a24f96be0f5e86
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 69e6258838ddd5532157f05988e5a57f714422ff
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584125"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134202"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センター
 

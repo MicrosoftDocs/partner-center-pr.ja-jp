@@ -1,19 +1,19 @@
 ---
 title: Microsoft Partner Network メンバーシップ | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: マイクロソフトのパートナーとなるメリットについて説明します。 Microsoft Partner Network 示しています。 お客様のビジネスを区別するためにオプションの業界とプログラムの製品を最大限では、市場に移動し、ソリューションを販売します。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8c07ad4d91e74599e65ab2478de481ef6ca212d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e40835faf14b010cf8f8e448293e0d25cb687e11
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584105"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134342"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft との連携
 
@@ -29,7 +29,7 @@ Microsoft Partner Network 示しています。 お客様のビジネスを区�
 
 アクションのパックまたはスタート キットは、ソフトウェアおよびマイクロソフト ベースのソリューションを構築するサポートを提供し、コンピテンシーは、実証済みの専門知識をお客様やその他のパートナーを示します。
 
-Microsoft Partner Network (MPN) に関する詳細については、、 [MPN の web サイト](https://partner.microsoft.com/commercial)を参照してください。
+Microsoft Partner Network (MPN) に関する詳細については、次を参照してください。、 [MPN の web サイト](https://partner.microsoft.com/commercial)します。
 
 ### <a name="how-to-join"></a>結合する方法
 

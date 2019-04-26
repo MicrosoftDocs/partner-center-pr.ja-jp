@@ -1,19 +1,19 @@
 ---
 title: 請求書の記載事項 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 パートナー センターで使用可能なです。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9754127cf02d8c8a1098d4a3045b8960978483cc
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584545"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133962"
 ---
 # <a name="read-your-bill"></a>請求書の記載事項
 
@@ -140,7 +140,7 @@ ms.locfileid: "57584545"
 |:----------------|:-----------------------------|
 |日付 |購入日。 |
 |説明 |製品名。 |
-|数量 |購入した製品 (予約など) の数。 |
+|Quantity |購入した製品 (予約など) の数。 |
 |単価 |製品 (予約など) ごとの価格。 |
 |割引 |適用される割引。 |
 |税抜き額 |課税前の購入額の小計。 |

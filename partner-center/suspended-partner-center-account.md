@@ -1,18 +1,18 @@
 ---
 title: 中断されたパートナー センター アカウントの復元 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 中断されたパートナー センター アカウントを復元する方法、パートナー アカウントが中断される理由、および中断されたアカウントを使用する方法について説明します。
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ae2ce5ec0ac117d0adcb9e9b0f63e2c43e906bb7
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 03a950db3b813a85b5f1c72ae95bcd7d78d086f2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584465"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133892"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>中断されたパートナー センター アカウントの復元
 

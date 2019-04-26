@@ -6,11 +6,11 @@ description: お客様には、サービスの問題を解決することはで�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d5c4703423360d228a810ee739dc1916ca056a58
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585805"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132622"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理で問題を報告する
 
@@ -34,7 +34,7 @@ ms.locfileid: "57585805"
 **参照してください。**
 
 -   [お客様のセルフ サポート](customer-self-support.md)
--   [テクニカル サポートを提供します。](provide-technical-support.md)
--   [サービスの正常性を確認してください。](check-service-health.md)
--   [課金サポートを提供します。](provide-billing-support.md)
+-   [テクニカル サポートを提供する](provide-technical-support.md)
+-   [サービスの正常性の確認](check-service-health.md)
+-   [課金のサポートを提供する](provide-billing-support.md)
 -   [カスタマー サポート](customer-support.md)

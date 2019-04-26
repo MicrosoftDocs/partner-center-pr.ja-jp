@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: サブスクリプションの場合、Azure サブスクリプション、ライセンス、ライセンス、顧客満足度を割り当てる
 ms.localizationpriority: medium
 ms.openlocfilehash: 7de59a66ab53d6e0e6e051ff30460154c19bbea3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584475"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135462"
 ---
 # <a name="customer-subscriptions"></a>顧客のサブスクリプション
 
@@ -26,12 +26,12 @@ CSP パートナーとして行う主要な作業の 1 つは、Microsoft 製品
 |----------------------|:----------------------|
 |作成し、パートナー センターでの既存の顧客のサブスクリプションの管理|[新しいサブスクリプションの作成](create-a-new-subscription.md)|
 |サブスクリプションを追加した後、顧客の従業員にライセンスを割り当てる  |[ユーザーへのライセンスの割り当て](assign-licenses-to-users.md)|
-|ライセンスの更新を一括して管理する   |[複数のユーザーにライセンスの失効を割り当てたり、](bulk-license-provisioning-for-multiple-users.md)|
-|顧客が新しい従業員を追加するときに、既存のサブスクリプションにライセンスを追加する   |[既存のサブスクリプションにライセンスまたはサービスを追加します。](add-licenses-or-services-to-an-existing-subscription.md)|
-|コミットする前にソフトウェアの試用を希望している顧客に対して試用版サブスクリプションを提供をする    |[Microsoft 製品の試用版を顧客に提供します。](offer-your-customers-trials-of-microsoft-products.md)|
+|ライセンスの更新を一括して管理する   |[複数のユーザーへのライセンスの割り当てまたは取り消し](bulk-license-provisioning-for-multiple-users.md)|
+|顧客が新しい従業員を追加するときに、既存のサブスクリプションにライセンスを追加する   |[既存のサブスクリプションへのライセンスまたはサービスの追加](add-licenses-or-services-to-an-existing-subscription.md)|
+|コミットする前にソフトウェアの試用を希望している顧客に対して試用版サブスクリプションを提供をする    |[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)|
 |パートナー センター内の Azure サブスクリプションのプロセスを開始します。   |[パートナー センターでの Azure サブスクリプションを割り当てる](assign-azure-subscriptions.md)|
 |特別価格について調べる   |[プランの特別な価格設定を取得します。](get-special-pricing-for-offers.md)|
-|顧客がソフトウェアを有効に活用できるようにソフトウェアをどのように使用しているかを確認する   | [導入と満足度を向上させる](increasing-adoption-and-satisfaction.md)   | 
+|顧客がソフトウェアを有効に活用できるようにソフトウェアをどのように使用しているかを確認する   | [導入実績と満足度の向上](increasing-adoption-and-satisfaction.md)   | 
 
 
 

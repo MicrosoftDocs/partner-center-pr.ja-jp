@@ -8,11 +8,11 @@ ms.author: v-petand
 keywords: 顧客、顧客、同意、MCA、Microsoft Cloud の契約、顧客の契約書のテンプレート
 ms.localizationpriority: medium
 ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "59652254"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135143"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Microsoft Cloud 契約に関するお客様の同意を確認する
 

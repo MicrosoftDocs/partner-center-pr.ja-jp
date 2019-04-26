@@ -6,11 +6,11 @@ description: パートナー センターへのアクセスを必要とする従
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: a96c7fedacbb177c93ae19c5ff4f1a241905be4b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584445"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132378"
 ---
 # <a name="create-user-accounts-and-set-permissions"></a>ユーザー アカウントの作成とアクセス許可の設定
 
@@ -30,7 +30,7 @@ ms.locfileid: "57584445"
 
 3.  ユーザーのフル_ネームと一意の電子メール アドレスを入力します。
 
-4.  従業員のロールとアクセスのレベルを選択します。 パートナー センターのアクセスとアクセス許可がロールに基づいて、各従業員が実行できる特定のタスクを制御することができます。 各ロールで実行できる内容の詳細については、[ユーザーのアクセス許可を設定](#setuserpermissions)を参照してください。
+4.  従業員のロールとアクセスのレベルを選択します。 パートナー センターのアクセスとアクセス許可がロールに基づいて、各従業員が実行できる特定のタスクを制御することができます。 各ロールで実行できる内容の詳細については、次を参照してください。[ユーザーのアクセス許可を設定](#setuserpermissions)します。
 
 5.  **[追加]** を選択してユーザー アカウントを作成します。 新しいユーザーのアクセス許可とサインインは、一時的なパスワードを含むを表示する確認ページが表示されます。
 

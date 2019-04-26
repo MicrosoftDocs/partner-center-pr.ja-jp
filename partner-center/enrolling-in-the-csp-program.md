@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 48dbb30558b635a4a87b9d952897e61ec6451a5c
-ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58320735"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135622"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
@@ -53,7 +53,7 @@ CSP アプリケーションを完了するには、パートナー センター
 
 まだプロバイダー (ディストリビューター) と連携していない場合は、[認定間接プロバイダーを検索](https://partnercenter.microsoft.com/partner/find-a-provider)して、連携先を見つけることができます。
 
-間接リセラーとして CSP プログラムに参加に必要な内容の詳細については、[間接リセラーとして開始](https://partner.microsoft.com/cloud-solution-provider/whats-required)上、 [Microsoft Partner Network web サイト](https://partner.microsoft.com/)を参照してください。 
+間接リセラーとして CSP プログラムに参加に必要な内容の詳細については、次を参照してください。[間接リセラーとして開始](https://partner.microsoft.com/cloud-solution-provider/whats-required)上、 [Microsoft Partner Network web サイト](https://partner.microsoft.com/)します。 
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>請求書の直接パートナーとして登録します。
 

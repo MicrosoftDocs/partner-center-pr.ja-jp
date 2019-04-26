@@ -6,11 +6,11 @@ description: 期待できる、21 vianet という中国のクラウド ソリ�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 915db47a21e2fd4f3f484c7bfc82eb3fb35ae1f0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584425"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132182"
 ---
 # <a name="enroll-in-the-21vianet-china-csp-reseller-program"></a>21 vianet 中国 CSP リセラー プログラムに登録します。
 

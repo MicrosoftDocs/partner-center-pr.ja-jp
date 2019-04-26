@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: コントロール パネルの仕入先、CPV アプリを登録、CPV アプリの管理
 ms.localizationpriority: medium
 ms.openlocfilehash: 7d00cfc7addf120a3b42597cda3758597533dd5e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586055"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135562"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>コントロール パネルのベンダーとパートナー センターに登録します。
 
@@ -27,7 +27,7 @@ ms.locfileid: "57586055"
 レビュー、 [Microsoft コントロール パネルの仕入先契約](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
-## <a name="working-in-partner-center"></a>パートナー センターでの作業
+## <a name="working-in-partner-center"></a>パートナー センターでの操作
 パートナー センター CPV エクスペリエンスに登録されているし、できます CPV 契約書に同意します。
 
 - (追加アプリケーションを Azure ポータルの登録し、パートナー センターでアプリケーションの登録を解除) マルチ テナント アプリケーションを管理します。

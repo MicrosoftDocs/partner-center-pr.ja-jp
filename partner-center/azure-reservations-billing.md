@@ -1,19 +1,19 @@
 ---
 title: Azure Reservations の請求 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Azure 予約の課金について説明します。
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure RI, Azure 予約インスタンス, 予約, VM, 管理, 請求, 購入
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b32c0da58cefea764f7f0cb3adb6d3a13faa46b5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b99cb2a72d69cd33f9267a956f921aa65dedd482
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586905"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135422"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure Reserved VM Instances の請求
 
@@ -60,7 +60,7 @@ ms.locfileid: "57586905"
 |:----------------|:-----------------------------|
 |日付 |購入日。 |
 |説明 |製品名。 |
-|数量 |購入した製品 (予約など) の数。 |
+|Quantity |購入した製品 (予約など) の数。 |
 |単価 |製品 (予約など) ごとの価格。 |
 |割引 |適用される割引。 |
 |税抜き額 |課税前の購入額の小計。 |
@@ -89,7 +89,7 @@ ms.locfileid: "57586905"
 |ProductName |製品の名前。 |
 |ChargeType |課金または調整の種類。 |
 |UnitPrice |注文された製品ごとの価格。 |
-|数量 |注文された製品の数。 |
+|Quantity |注文された製品の数。 |
 |Subtotal |合計額 (税抜)。 割引の場合、小計が、予想される合計と一致することを確認します。 |
 |TaxTotal |該当するすべての税額の合計。 |
 |Total |この購入の合計金額。 |

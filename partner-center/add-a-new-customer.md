@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: 顧客, 顧客の追加, 顧客アカウント, パートナー センターの顧客アカウント, お客様, お客様の追加, 顧客アカウントの作成
 ms.localizationpriority: medium
 ms.openlocfilehash: b086796f6907b4ff4705b7c2fe1965b7d2adceff
-ms.sourcegitcommit: 3441bb8085f14f4242d5c640d45eab00f751bf23
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "58343403"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134482"
 ---
 # <a name="add-a-new-customer"></a>新しい顧客の追加
 

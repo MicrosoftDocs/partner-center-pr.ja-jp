@@ -1,17 +1,17 @@
 ---
 title: 米国政府機関向け Microsoft Cloud のパートナー センター | 米国政府機関向け Microsoft Cloud のパートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 米国政府機関向け Microsoft Cloud のパートナー センターは、米国内で政府機関とのビジネスを行う顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c5d6ed400b416324546ef90ef04a18ecf5dbcf6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c689e1b8f76b27c27a9e1d94315082fa98ebd3cc
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587865"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134222"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センター
 

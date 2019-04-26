@@ -1,17 +1,17 @@
 ---
 title: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録 | 米国政府機関向け Microsoft Cloud のパートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0df1f72cdb0b062774accfd15299f046dac19031
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 226aa0829080f46706a0934176e229f3e7d3117b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585645"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135582"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録
 
@@ -81,7 +81,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 ## <a name="related-topics"></a>関連トピック
 
--  [米国政府機関向け Microsoft クラウドのパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
+-  [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
 
 -  [米国政府機関向け Microsoft クラウドのパートナー センターでユーザーとライセンスの管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 

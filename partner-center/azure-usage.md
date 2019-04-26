@@ -1,19 +1,19 @@
 ---
 title: 最大予約の使用状況の Microsoft Azure VM のサイズ |パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 顧客に代わって Microsoft Azure Reservations を購入するときは、顧客のコンピューティング ニーズに合わせて仮想マシン (VM) のサイズを選択する必要があります。
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, 予約, VM, 管理, 請求, 使用, サイズ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cbe24b3da0b9cadf1ed9e8d9f06b5b575bf16d22
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9a398b73cf00bd71130d25f0ec94a33b457e216b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586965"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135544"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ 
 

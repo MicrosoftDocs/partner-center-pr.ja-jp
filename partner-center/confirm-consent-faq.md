@@ -1,18 +1,18 @@
 ---
 title: Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 顧客への同意の確認に関する FAQ
 author: LauraBrenner
 ms.author: v-petand
 keywords: 顧客、顧客、同意、FAQ、MCA、Microsoft Cloud の契約
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f95de539e056c086e921d7b4eda62f3cbffa30e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587405"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135012"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問
 
@@ -57,7 +57,7 @@ Microsoft では、指定した顧客の電子メール アドレスが正しい
 
 **Microsoft がお客様が Microsoft クラウド契約書に同意したことを確認するパートナーを必要と理由** 
 
-Microsoft Cloud の契約は、顧客の使用権、条項、および条件の Microsoft クラウド製品およびサービスの注文の許可を提供することで、パートナー、顧客およびマイクロソフトを保護します。 
+Microsoft Cloud 契約は、Microsoft Cloud 製品およびサービスの注文に関して許可されている顧客の使用権や使用条件を提供することによって、パートナー、お客様、マイクロソフトを保護します。 
 
 Microsoft Cloud の契約を適切に実行では、相互の配置を含む多くの重要なトピックに関することを確認して、パートナー、顧客や Microsoft の保護が、セキュリティ、プライバシーとデータ保護に限定されません。 確認プロセスにより、透過性および配置できより速やかに規制に関する調査に応答する必要があるお客様を支援するマイクロソフトできます。
 
@@ -199,6 +199,6 @@ Microsoft の CSP プログラムでパートナーが注文を追加する前�
 
 ## <a href="" id="additionalresourcesfaq"></a>その他のリソース
 
-Microsoft Cloud の契約のお客様の承諾を確認する方法の詳細については、[Microsoft Cloud の契約の確認の顧客による受け入れ](https://docs.microsoft.com/en-us/partner-center/confirm-consent)を参照してください。
+Microsoft Cloud の契約のお客様の承諾を確認する方法の詳細については、次を参照してください。 [Microsoft Cloud の契約の確認の顧客による受け入れ](https://docs.microsoft.com/en-us/partner-center/confirm-consent)します。
 
-サポートされているすべての言語でリージョン固有の Microsoft クラウドの契約の顧客のテンプレートを検索する、[地域と言語での Microsoft クラウド契約](agreements.md)を参照してください。
+サポートされているすべての言語でリージョン固有の Microsoft クラウドの契約の顧客のテンプレートを検索する、次を参照してください。[地域と言語での Microsoft クラウド契約](agreements.md)します。

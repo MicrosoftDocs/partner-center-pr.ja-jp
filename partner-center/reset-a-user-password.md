@@ -1,18 +1,18 @@
 ---
 title: ユーザー パスワードをリセットする |パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: ユーザーがパスワードを忘れた場合、新しい一時的なパスワードを割り当てることができます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a7643907f809fdb1fcfe58199ae98c32272416dd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: efb357b1b9157155fdf5cf7f9ee59afa2c8b9abc
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587705"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133932"
 ---
 # <a name="reset-a-user-password"></a>ユーザー パスワードのリセット
 
@@ -21,7 +21,7 @@ ms.locfileid: "57587705"
 -  パートナー センター
    
 > [!NOTE]  
->  Microsoft Cloud germany クラウド ソリューション プロバイダー (CSP) プログラムに登録する場合は、[Microsoft Cloud Germany のパートナー センターでのユーザー管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)については、ユーザーのパスワードをリセットを参照してください。
+>  Microsoft Cloud germany クラウド ソリューション プロバイダー (CSP) プログラムに登録する場合は、次を参照してください。 [Microsoft Cloud Germany のパートナー センターでのユーザー管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)については、ユーザーのパスワードをリセットします。
 
 ユーザーがパスワードを忘れた場合、一時的なパスワードを割り当てます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
 

@@ -1,17 +1,17 @@
 ---
 title: 'Office 365 パートナー管理センターのお客様: 業務がパートナー センターに移行します | パートナー センター'
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Office 365 パートナー管理センターのお客様がパートナー センターへ移行する際の主な考慮事項
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e2a63828c7fd875c737a650633439a43ab325ed
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: fb32c86c623044dc42a2ba746a4efe0aca568e04
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587375"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134262"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 パートナー管理センターのお客様:ビジネス オペレーションをパートナー センターに移動する準備します。
 

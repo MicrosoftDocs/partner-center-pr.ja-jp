@@ -1,19 +1,19 @@
 ---
 title: 請求 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: クラウド ソリューション プロバイダー パートナーは、顧客のライセンスベースおよび使用量ベースのサブスクリプション料金を 60 日後にマイクロソフトに支払います。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 59fafd8f2e12f073dd55e6275d1cb65919476e50
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430121"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135372"
 ---
 # <a name="billing"></a>請求
 

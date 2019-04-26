@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: トレーニングの受講券、ソフトウェア アシュアランス、トレーニング、SATV、SATV に登録します。
 ms.localizationpriority: medium
 ms.openlocfilehash: c5da9989403ca2c984d73224709d14198f657a9e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584265"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134082"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム
 
@@ -22,7 +22,7 @@ ms.locfileid: "57584265"
 
 ソフトウェア アシュアランス付きのトレーニング サービスに慣れていない場合を参照してください[ソフトウェア アシュアランス付きのトレーニングの受講券。 ](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>作業開始
 
 ソフトウェア アシュアランス付きのトレーニング サービスに慣れていない場合は、次の手順に従います。 トレーニングの受講券プログラムでアクティブになっているし、パートナーのアカウント情報は、パートナー センターに移動しましたが場合、は、手順 4 (4) 次から開始します。 
 

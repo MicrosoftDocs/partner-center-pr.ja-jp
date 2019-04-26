@@ -6,11 +6,11 @@ description: 21 vianet が運営するパートナー センターの開発リ�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 26b919459ea6e1c409d3f22aa324d0b877822e8c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584285"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132192"
 ---
 # <a name="develop-for-partner-center-operated-by-21-vianet"></a>パートナー センターの 21 Vianet が運営用の開発します。
 
@@ -22,7 +22,7 @@ ms.locfileid: "57584285"
 ソフトウェア開発キットを使用して、独自のアプリケーションと、顧客、注文、請求、およびサポート システムを統合します。
 
 >**注:**<br> 21 vianet が運営するパートナー センターの SDK ドキュメントでは、Microsoft Developer Network web サイト (MSDN です)。 21 vianet がパートナー センターの SDK と、SDK は、パートナー センターの運用の間は、いくつか違いがあります。
-各ヘルプ トピックでは、パートナー センターの 21 vianet が運営するメンバーを適用するかどうかについて説明します、**に適用されます**セクション。 21 vianet が運営するパートナー センターの別の REST エンドポイントがあります。 詳細については、[パートナー センターの REST API リファレンス](https://msdn.microsoft.com/en-us/library/partnercenter/mt667943.aspx)を参照してください。
+各ヘルプ トピックでは、パートナー センターの 21 vianet が運営するメンバーを適用するかどうかについて説明します、**に適用されます**セクション。 21 vianet が運営するパートナー センターの別の REST エンドポイントがあります。 詳細については、次を参照してください。[パートナー センターの REST API リファレンス](https://msdn.microsoft.com/en-us/library/partnercenter/mt667943.aspx)します。
 
 
 -   [SDK の入手](https://go.microsoft.com/fwlink/p/?LinkID=746681)

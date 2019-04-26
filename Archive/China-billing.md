@@ -6,11 +6,11 @@ description: 中国の再販業者の課金方法について説明します。 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: dc47dbe46be30b2306e242f14b98b19435264863
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584315"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62131382"
 ---
 # <a name="billing"></a>請求
 
@@ -66,8 +66,8 @@ ms.locfileid: "57584315"
 </table>
 
 **参照してください。** 
--   [請求書を読み取り](read-your-bill.md)
--   [調整ファイルを使用します。](use-the-reconciliation-files.md)
--   [非支払い、不正行為、または悪用](non-payment-fraud-or-misuse.md)
+-   [請求書の記載事項](read-your-bill.md)
+-   [調整ファイルを使う](use-the-reconciliation-files.md)
+-   [未払い、詐欺、不正使用](non-payment-fraud-or-misuse.md)
 -   [中国の CSP の価格とプラン](see-offers-and-pricing.md)
 

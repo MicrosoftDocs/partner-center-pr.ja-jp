@@ -1,18 +1,18 @@
 ---
 title: 料金とプラン | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: プランの一覧には、パートナー センターとその価格情報を通じて購入できる別の製品ファミリが含まれています。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c71bbd0b5945c3e958aa22bc1fb1b7589bcca36a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: ab53b1bae26ac6d40f87ea80e2c58469d189c1e1
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586735"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134092"
 ---
 # <a name="pricing-and-offers"></a>料金とプラン
 
@@ -30,7 +30,7 @@ ms.locfileid: "57586735"
 
 ライセンス ベースのサービスには、変更の 30 日前に提供される価格表プレビューが含まれています。 価格表プレビューを表示するには、**[販売] > [料金とプラン]** に移動します。 使用量ベースのサービスは動的であるため、これらのサービスに対する価格表プレビューはありません。 次の表では、価格表の各項目について説明しています。
 
-|**項目**        |**定義**      |
+|**アイテム**        |**定義**      |
 |:-----------   |:-----------   |
 |ADD   |価格表に追加された新しい項目|
 |CHG   |価格表への変更 (SKU の説明の変更など)|

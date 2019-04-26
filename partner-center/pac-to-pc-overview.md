@@ -1,18 +1,18 @@
 ---
 title: パートナー管理センターからパートナー センターに移行するための準備 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Office 365 パートナー管理センターの機能は、パートナー センターに移行されます。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC、Office 365 アドバイザー、アドバイザー、シンジケート パートナー、PAC をインベントリから削除、PAC をインベントリから削除
 ms.localizationpriority: medium
-ms.openlocfilehash: d96eca0fcaccc58745f77963e664dc830fcbfe97
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 738e8a87ae75c61c32f571db1c5af529c3d3d216
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587425"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134212"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>パートナー管理センターが、パートナー センターに移動します。
 

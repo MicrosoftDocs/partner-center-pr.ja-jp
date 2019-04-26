@@ -1,18 +1,18 @@
 ---
 title: パートナーの貢献度 - パフォーマンス インジケーターの詳細を把握する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: パートナーの投稿データを使用して、ビジネスの成長と成功の方法を理解するには
 author: LauraBrenner
 ms.author: labrenne
 keywords: ビジネス データ
 ms.localizationpriority: medium
-ms.openlocfilehash: 765f37a031098d65460e2cc603eb3d4efb8e4ea3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e6281e31e0049cb865e212485b6f5cf030516135
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587365"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134181"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>パートナーの貢献度: パフォーマンス インジケーターの詳細を把握する
 

@@ -1,18 +1,18 @@
 ---
 title: 顧客へのサポートの提供 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: パートナーは、お客様からのサポート要求を受け取り、できる限り問題を診断し、ベースライン サポート境界のスコープ内にある問題を解決する必要があります。
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5050e4269de15d1f0fabe37e297e440fcfbd73d8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 3e3a2eabdb02c41fe44750c967e7cfde3578fd29
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586115"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135482"
 ---
 # <a name="providing-support-to-your-customers"></a>顧客へのサポートの提供
 

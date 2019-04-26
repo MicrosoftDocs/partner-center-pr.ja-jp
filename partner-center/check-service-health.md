@@ -1,19 +1,19 @@
 ---
 title: サービスの正常性の確認 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 顧客がサービスに関する問題に直面したときに最初に行うことの 1 つは、サービスの正常性の確認です。
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 正常性、サービスの正常性、サービスの問題
 ms.localizationpriority: medium
-ms.openlocfilehash: 81e4cb9ed1d866f52767a4fe2a5065d0e595d79d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 8557073973b59ebe8129cc0dcf58999b43186aed
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584525"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135332"
 ---
 # <a name="check-service-health"></a>サービスの正常性の確認
 
@@ -23,7 +23,7 @@ ms.locfileid: "57584525"
 
 顧客がサービスに関する問題に直面したときに最初に行うことの 1 つは、サービスの正常性の確認です。
 
-**サービスの正常性を確認してください。**
+**サービスの正常性の確認**
 
 1.  **パートナー センター**メニューの **サービスの正常性**します。 
 

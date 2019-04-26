@@ -1,19 +1,19 @@
 ---
 title: 顧客に代わって Azure Reservations を管理する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: お客様の Azure 予約の購入後、管理するには、は、お客様とパートナー センターで管理し予約を選択し、Azure portal で予約を変更します。
 author: LauraBrenner
 ms.author: v-petand
 keywords: azure では、予約、管理、課金、購入、取り消し、exchange、中途
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: de1846b6259764b40059ece1d311e5f63587a525
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584505"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134792"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>顧客に代わって Microsoft Azure Reservations を管理する
 
@@ -31,11 +31,11 @@ ms.locfileid: "57584505"
 
 3. **[アクション]** の **[管理]** を選択し、顧客の予約レコード (Azure portal) に移動します。 予約の詳細ページで、次の手順に従ってタスクを完了します。  
 
-    | **選択します**   | **宛先**    |
+    | **Select**   | **変換先**    |
     |:-----------------------------|:-----------------|
     | **概要**   | 有効期限、範囲、使用率データなど、顧客の予約に関する詳細を表示します。 **注意:** 日割り計算の払い戻しを求めるサポート要求を作成するには、**[Refund]** (払い戻し) を選択します。 予約期間のうち未使用の部分を交換するためのサポート要求を作成するには、**[交換]** を選択します。  
     | **アクセス制御 (IAM)**   | 顧客の予約情報へのアクセスを管理します。|
-    | **構成**   | 予約の範囲や、予約が関連付けられている Azure サブスクリプションを変更します。    |
+    | **Configuration**   | 予約の範囲や、予約が関連付けられている Azure サブスクリプションを変更します。    |
     | **[プロパティ]**   | 予約のプロパティを表示し、予約 ID と予約注文 ID をクリップボードにコピーします。 **注意:** 顧客に代わってサポートを要求する際には、予約 ID と予約注文 ID がサポートから求められることがあります。    |
     | **新しいサポート要求**    | Microsoft サポートによるヘルプを要求します。   |
  
@@ -53,7 +53,7 @@ ms.locfileid: "57584505"
 キャンセルの詳細と料金の下を参照してください。
 
 
-|**取り消し日**<br> (日)   |**使用状況**    |**クレジット**  |**早期終了**<br> 料金    |**返金キャップ** | 
+|**取り消し日**<br> (日)   |**使用方法**    |**クレジット**  |**早期終了**<br> 料金    |**返金キャップ** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 個以下                         | X          | 100%       | X                              | 50,000 米ドル   |
 |5 個以下                         | 〇         | 日割り  | X                              | 50,000 米ドル   |

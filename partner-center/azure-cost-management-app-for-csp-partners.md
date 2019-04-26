@@ -1,19 +1,19 @@
 ---
 title: CSP パートナー向けの Cloudyn 製 Azure Cost Management |パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Cloudyn が提供する Azure Cost Management を使用するには、パートナー センター API へのアクセスをプロビジョニングする必要があります。
 author: Janet
 ms.author: janet
 Keywords: Azure コスト管理アプリでは、管理コストの削減、web アプリ
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: f1627727908eff9c686dd8359558e960d0fbff88
-ms.sourcegitcommit: 6578eea4fe6836dad5710f8d22376ad8bba6e307
-ms.translationtype: MT
+ms.openlocfilehash: 14b94e94c349fa142cb6bd37ed4ca94f7a9397b6
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "58490344"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134672"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure を販売する CSP パートナー様向けの Azure コスト管理アプリ  
 
@@ -48,7 +48,7 @@ Cloudyn は、web アプリケーションを追跡し、Azure とその使用�
    > [!NOTE]  
    > アプリケーションの秘密キーでは、パスワードより長い有効期限と同様です。 後日使用できるように、安全な場所にキーの値を保存してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 [30 日間無料試用版](https://go.microsoft.com/fwlink/?linkid=857895) をご利用ください。
 試用を開始するには、次の情報が必要です。
 - パートナー センターのログイン資格情報

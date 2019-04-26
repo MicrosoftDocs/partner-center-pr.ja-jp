@@ -1,19 +1,19 @@
 ---
 title: Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 移行の期限切れ間近の Skype for Business Online プラン 1 サブスクリプション サポートされている SKU のオプションをお客様。 サブスクリプションの年間の終了日より前に、の新しいサブスクリプションに顧客を移動することをお勧めします。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Skype for Business の計画、Skype の提供終了、Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e71e6b05b5ea489b2b6b486f388f5c575dfd02c5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586105"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133930"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行
 

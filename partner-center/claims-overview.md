@@ -1,18 +1,18 @@
 ---
 title: インセンティブ co-op クレーム |パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: アクティビティ プランの確認を待つことなく、インセンティブの申請を送信できます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: インセンティブの申請, 協力インセンティブの申請, 協力金
 ms.localizationpriority: medium
-ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430111"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135352"
 ---
 # <a name="incentives-co-op-claims-overview"></a>協力インセンティブの申請の概要
 
@@ -38,6 +38,6 @@ ms.locfileid: "59430111"
 |申請を送信した後、必要なドキュメントの要求に対処する|[作成およびインセンティブ プログラム アクティビティ要求の管理](create-incentives-claims.md)  |
 |アクティビティに関する申請の中心的な要件を確認する|[インセンティブのクレームのコア要件を把握します。](core-requirements.md)   |
 |インセンティブ プログラム全体の詳細を参照する|[パートナー インセンティブ Co-op ガイドブック](https://assets.microsoft.com/coop-guidebook.pdf)
-|OSA 販売手数料要求または ISV 収益関連要求を送信します。 |[パートナー センターで OSA 要求を送信します。](submit-osa-claim.md)|
+|OSA 販売手数料要求または ISV 収益関連要求を送信します。 |[パートナー センターでの OSA 申請の送信](submit-osa-claim.md)|
                                                                                  
                                    

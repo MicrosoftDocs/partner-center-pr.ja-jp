@@ -1,18 +1,18 @@
 ---
 title: CSP で Office 365 E5 の単一の SKU を利用する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Office 365 Enterprise E5 の単一の SKU は CSP で利用することができ、この SKU では PSTN 会議も対象となります。
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e31c7e5ab11e16d1176a0872d0e3dd70e31103a4
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585335"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134332"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 パートナー アドバイザリ:CSP での office 365 E5 SKU の 1 つの可用性
 

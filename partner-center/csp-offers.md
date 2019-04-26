@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: クラウド ソリューション プロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, 製品の追加, パートナー プラン, CSP プラン, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナー, CSP での販売, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, オンライン サービス, サブスクリプション ソフトウェア, AHUB, SQL Server on Azure, Windows Server on Azure, 顧客のサブスクリプション
 ms.localizationpriority: medium
 ms.openlocfilehash: ea246701f57615064a87abb37cecafbb0d9151dc
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586715"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134812"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでのパートナー プラン 
 
@@ -32,19 +32,19 @@ ms.locfileid: "57586715"
 
     お客様は、1 年間または 3 年間、Azure Virtual Machines 上の領域を事前に予約できます。<br>
     
-    詳細については、[販売 Microsoft Azure Reserved VM Instances](azure-reservations.md)を参照してください。
+    詳細については、次を参照してください。[販売 Microsoft Azure Reserved VM Instances](azure-reservations.md)します。
 
 - ソフトウェア<br>
 
     顧客はソフトウェア サブスクリプション (1 年間または 3 年間、Azure Reserved VM Instances 上で Windows Server および SQL Server を実行できる) を購入できます。<br>
  
-    詳細については、[CSP を介したソフトウェア サブスクリプションを販売](csp-software-subscriptions.md)を参照してください。  
+    詳細については、次を参照してください。 [CSP を介したソフトウェア サブスクリプションを販売](csp-software-subscriptions.md)します。  
 
 - オンライン サービス<br>
 
     *オンライン サービス*は、現在*サブスクリプション*と呼ばれているものの新しい名前です。 複数の種類の製品を 1 か所で簡単に注文して支払うことができるように、"サブスクリプションの追加" タスク フローを "製品の追加" タスク フローに統合しました。<br>
     
-    詳細については、[顧客サブスクリプション](customer-subscriptions.md)を参照してください。
+    詳細については、次を参照してください。[顧客サブスクリプション](customer-subscriptions.md)します。
 
 - としてのソフトウェア (SaaS) サービスとその他の[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)製品<br>
 
@@ -76,6 +76,6 @@ CSP の顧客に代わって製品およびサービスを購入するには、�
 8. 注文番号を含む注文の詳細は、次のページに表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
 
 > [!NOTE]
-> 情報請求処理のしくみについては、[**課金の基礎**](https://docs.microsoft.com/en-us/partner-center/billing-basics)を参照してください。
+> 情報請求処理のしくみについては、次を参照してください。 [**課金の基礎**](https://docs.microsoft.com/en-us/partner-center/billing-basics)します。
 
 

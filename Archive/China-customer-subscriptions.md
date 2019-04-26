@@ -6,11 +6,11 @@ description: パートナーは、パートナー センターからお客様に
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 3f4a346d38e9823b46c48ec900f34473434e2be9
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586665"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132433"
 ---
 # <a name="customer-subscriptions"></a>顧客のサブスクリプション
 
@@ -23,8 +23,8 @@ ms.locfileid: "57586665"
 
 -   [新しいサブスクリプションの作成](create-a-new-subscription.md)
 -   [ユーザーへのライセンスの割り当て](assign-licenses-to-users.md)
--   [サブスクリプションを中断します。](suspend-a-subscription.md)
--   [既存のサブスクリプションをアップグレードします。](add-licenses-or-services-to-an-existing-subscription.md)
+-   [サブスクリプションの中断](suspend-a-subscription.md)
+-   [既存のサブスクリプションのアップグレード](add-licenses-or-services-to-an-existing-subscription.md)
 
 >**重要**<br>パートナー センターの使用は、お客様を管理する 21 vianet が運営*サブスクリプション*します。 管理センターを使用して、Office 365 は、お客様を管理する 21 vianet が運営の*ユーザー*します。 
  

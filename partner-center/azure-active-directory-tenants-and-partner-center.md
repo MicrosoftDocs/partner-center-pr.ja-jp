@@ -1,7 +1,7 @@
 ---
 title: 職場アカウントとパートナー センター | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: パートナー センター アカウントを作成するには、会社の職場アカウントが必要です。 Microsoft Azure または Office 365 に対するアクティブなサブスクリプションがあれば、仕事用アカウントが既にあります。
 author: LauraBrenner
 ms.author: labrenne
@@ -9,12 +9,12 @@ Keywords: アカウント、電子メール、テナント、Azure テナント�
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ef953d161fe15d8a950bdbbe70bac72ac9318ec3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 079f927c3acd8f773680bfa9f4e47592f68a24f9
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584685"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134726"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>会社の職場アカウントとパートナー センター  
 

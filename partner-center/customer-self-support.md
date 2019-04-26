@@ -1,7 +1,7 @@
 ---
 title: 顧客によるセルフ サポート | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: お客様は、自分の Microsoft Office 365 管理センターまたは Azure 管理ポータルにサインインし、自分のアカウントを管理できます。 追加のサブスクリプションを購入したり、サブスクリプションを取り消したりするには、お客様は取引先のクラウド ソリューション プロバイダー パートナーに連絡する必要があります。
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: 顧客によるセルフ サポート, セルフ サポート,
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 62a4486419183544ba6720c6e23a096fe4dd3841
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 8efada04916b77f19219ca1ebaa3f8789cd8f889
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584055"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135472"
 ---
 # <a name="customer-self-support"></a>お客様のセルフ サポート
 

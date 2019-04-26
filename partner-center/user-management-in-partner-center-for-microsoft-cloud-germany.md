@@ -1,17 +1,17 @@
 ---
 title: Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理 | Microsoft Cloud ドイツのパートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 個人データの収集と使用に適用される国、地域、および業界固有の要件に準拠するためのユーザー管理機能が、Microsoft Cloud ドイツのパートナー センターでは利用できません。 代わりに、Microsoft Cloud ドイツの Azure ポータルでユーザーを追加および管理します。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e408345f1d2169d84dcb206fa276166512829c3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587035"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132692"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
 
@@ -52,6 +52,6 @@ Microsoft Cloud ドイツの Azure portal に正常にサインインしたら�
 
 -  [Microsoft Azure Germany](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
 
--  [Microsoft Cloud Germany のパートナー センター](partner-center-for-microsoft-cloud-germany.md)
+-  [Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)
 
 

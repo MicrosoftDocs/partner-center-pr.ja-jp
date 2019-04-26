@@ -6,11 +6,11 @@ description: 顧客がサービスに関する問題に直面したときに最�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d2f17918f6679cbfb6c299dccec2f84855f1140d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584145"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132002"
 ---
 # <a name="check-service-health"></a>サービスの正常性の確認
 

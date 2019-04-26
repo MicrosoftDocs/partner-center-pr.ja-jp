@@ -1,17 +1,17 @@
 ---
 title: 一部のインセンティブ プログラムにおける月次レポートからライブ データ レポートへの移行 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: OSA 販売およびオンライン サービスの使用量のインセンティブ プログラムで、ライブ データ レポートを利用できるようになりました。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 37458d9c6343fc27d3745a478c24c581eb06c03c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 13e904e229ccaadd11e13a278f23ea1aa5088f71
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583845"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134472"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>一部のインセンティブ プログラムにおける月次レポートからライブ データ レポートへの移行
 

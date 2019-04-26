@@ -1,17 +1,17 @@
 ---
 title: パートナー センターにパートナー インセンティブ | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: インセンティブ プログラムでは、新しいマーケティング手法を開発するための支援、トレーニングの提供などを通じてパートナーを支援します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8387fd08a6826b0984e491d34ceba76266af59ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eb1e6dcfb32970a634a393d8ce33c1a6128458e5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587515"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134178"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>パートナー センターにパートナー インセンティブ 
 
@@ -43,7 +43,7 @@ CSP パートナーがリセラーとして積極的に参加している場合�
 
 **参照してください。**
 
-[ユーザー アカウントを作成し、アクセス許可を設定](create-user-accounts-and-set-permissions.md)
+[ユーザー アカウントの作成とアクセス許可の設定](create-user-accounts-and-set-permissions.md)
 
 [一時パスワードを変更します。](change-your-temporary-password.md)
 

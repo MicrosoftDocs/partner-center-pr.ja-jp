@@ -1,21 +1,21 @@
 ---
 title: 会社のグローバル管理者になります |パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: パートナー センターでタスクの多くには、まず、ドメインの所有権を確認する必要があります。 パートナー センターの多くのタスクがグローバル管理者が必要です。なる場合は、会社では、1 つがあるないまだ、1 つ。
 author: LauraBrenner
 ms.author: labrenne
 keywords: ドメイン、ドメインの確認は、ドメイン、グローバル管理者、ユーザー ロール、アクセス許可を確認します。
-ms.openlocfilehash: bfce394c6ea098bb55a698efb3a2ac33816bd1e0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 55f69cb82789fa3b97bfe122b460ba9a129c37b7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584115"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135412"
 ---
 # <a name="verify-your-domain-ownership"></a>ドメインの所有者の確認
 
-**適用対象します。**
+**適用対象:**
 
 - パートナー センター
 
@@ -49,4 +49,4 @@ ms.locfileid: "57584115"
 - パートナー ユーザーの表示、作成、管理
 - 購入して、cloud services の管理
 
-ロールとアクセス許可の詳細については、[ユーザー アカウントを作成](create-user-accounts-and-set-permissions.md)を参照してください。 
+ロールとアクセス許可の詳細については、次を参照してください。[ユーザー アカウントを作成](create-user-accounts-and-set-permissions.md)です。 

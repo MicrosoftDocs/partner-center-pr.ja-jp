@@ -1,17 +1,17 @@
 ---
 title: ライセンスベース サービスの顧客をパートナー センターのクラウド ソリューション プロバイダー プログラムに移動する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 顧客とそのサブスクリプションを別のチャネルや別のパートナーから CSP プログラムに移動します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7277802d5e2aec6118a8334520be89602f15632a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b4e1e64eefeef3ac0bd70bb3eb300fe3caddf8f3
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587775"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132922"
 ---
 # <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>ライセンスベース サービスの顧客を別のチャネルからクラウド ソリューション プロバイダー プログラムに、またはあるパートナーから別のパートナーに移行する
 

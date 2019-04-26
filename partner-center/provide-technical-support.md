@@ -1,18 +1,18 @@
 ---
 title: テクニカル サポートの提供 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: クラウド ソリューション プロバイダー パートナーには、顧客の環境にアクセスできる代理管理者権限があります。
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ef966df6b7bce7d3dcb2334c8fcaf1d0499b16d1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 52d838500c7c0ae1c637363089d00109d1d28054
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587055"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134027"
 ---
 # <a name="provide-technical-support"></a>テクニカル サポートを提供する
 

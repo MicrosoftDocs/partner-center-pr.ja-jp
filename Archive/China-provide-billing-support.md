@@ -6,11 +6,11 @@ description: パートナーは、顧客との請求関係に責任を負い、�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: a345a5594fd0f8cc58910863a7162b96eec37f17
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585765"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132452"
 ---
 # <a name="provide-billing-support"></a>課金のサポートを提供する
 
@@ -31,7 +31,7 @@ ms.locfileid: "57585765"
 
 **参照してください。**
 
--   [非支払い、不正行為、または悪用](non-payment-fraud-or-misuse.md)
--   [テクニカル サポートを提供します。](provide-technical-support.md)
+-   [未払い、詐欺、不正使用](non-payment-fraud-or-misuse.md)
+-   [テクニカル サポートを提供する](provide-technical-support.md)
 -   [カスタマー サポート](customer-support.md)
 

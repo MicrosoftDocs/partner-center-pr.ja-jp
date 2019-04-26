@@ -1,18 +1,18 @@
 ---
 title: 顧客アカウント | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: リセラー パートナーは、パートナー センターで、お客様ごとにアカウントを 1 つ作成する必要があります。 顧客アカウントは、サブスクリプションの販売、請求、サポートの提供を行う起点になります。
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c426f55ac22a1ea497ce6f886874587dcbfcdc6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 41cedac945f71ab0b381f4aa5b22a86a07e97173
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585775"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134692"
 ---
 # <a name="customer-accounts"></a>顧客アカウント
 

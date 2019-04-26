@@ -1,17 +1,17 @@
 ---
 title: Office 365 E4 サブスクリプションの Office 365 の新しいバージョンへの移行 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Microsoft Office 365 Enterprise E4 エディションは、2017 年 4 月 7 日に廃止されました。 Office 365 の新しいバージョンに、お客様のサブスクリプションを移行する方法について説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 381b4c5dda7486737ef010d7fa22e65710b5e5bf
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e14ffbfaeaec64e8ccf3612cba9ed0f27aa31968
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587795"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134382"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 サブスクリプションの Office 365 の新しいバージョンへの移行
 
@@ -51,10 +51,10 @@ E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Bus
 | Office 365 での電話番号の管理 | 〇 | 〇 | X | X |
 | オンプレミスと Office 365 の両方による電話番号の管理 (ハイブリッド展開) | 〇 | 〇 | X | X |
 | PSTN 音声通話プランの追加オプション | 〇 | 〇 | X | X |
-| PSTN 会議機能 | 〇 | X | X | X |
-| コラボレーション、分析、セキュリティの高度なツール | 〇 | X | X | X |
-| 対話型のレポート、ダッシュ ボード、データのビジュアル化 | 〇 | X | X | X | 
-| データ セキュリティとコンプライアンスを詳細に制御するための組み込みのプライバシー機能、透過性、洗練されたユーザー コントロール | 〇 | X | X | X | 
+| PSTN 会議機能 | 〇 | X | いいえ | X |
+| コラボレーション、分析、セキュリティの高度なツール | 〇 | X | いいえ | X |
+| 対話型のレポート、ダッシュ ボード、データのビジュアル化 | 〇 | X | いいえ | X | 
+| データ セキュリティとコンプライアンスを詳細に制御するための組み込みのプライバシー機能、透過性、洗練されたユーザー コントロール | 〇 | X | いいえ | X | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>顧客を新しい製品プランに移行する
 

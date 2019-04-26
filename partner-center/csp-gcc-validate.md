@@ -1,17 +1,17 @@
 ---
 title: Office 365 Government GCC パートナーと顧客の適格性の条件 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: CSP 向け Office 365 Government GCC のパートナーと顧客を検証するための手順です。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a7aa26c44e09285b2d6cdb69d83f756e15493497
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eeb6cc3bc4c34d9006da46b86af4b80c83e18406
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586955"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134852"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP 向け Office 365 Government GCC パートナーと顧客の適格性の条件
 
@@ -40,7 +40,7 @@ CSP 向け Office 365 Government GCC のパートナーと顧客の適格性は�
 2.  GSA やその他の契約によって米国政府機関の顧客にサービスを提供している
 
 **顧客の条件**
-1.  米国の行政機関。 次に、例を示します。
+1.  米国の行政機関。 例:
  
     -  連邦行政機関 (省、庁、局などの米国政府機関)
     -   州/地方自治体の行政機関 

@@ -1,18 +1,18 @@
 ---
 title: 伝票検証ツールに関する FAQ |パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 検証し、パートナー センターでの受講券の予約
 author: LauraBrenner
 ms.author: labrenne
 keywords: トレーニングの受講券、ソフトウェア アシュアランス、トレーニング、バウチャー、受講券の予約の検証します。
 ms.localizationpriority: medium
-ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "58863990"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132588"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>よくあるご質問:受講券の確認および受け取りツールの使用 
 

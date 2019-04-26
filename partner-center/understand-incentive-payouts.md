@@ -1,17 +1,17 @@
 ---
 title: インセンティブの支払いについて | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: インセンティブ プログラムの収益と支払いを表示することができます。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 01e5cc1ba04d17313a9d0693807661ad654cf2a6
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585385"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132902"
 ---
 # <a name="incentive-payouts-overview"></a>インセンティブの払い戻し金額の概要
 
@@ -122,7 +122,7 @@ ms.locfileid: "57585385"
 |製品名   |Microsoft 製品の名前|
 |取引日   |取引が行われた日時 (UTC)。|
 |ライセンス数  |販売済みライセンス数 |
-|数量   |販売済みユニット数| 
+|Quantity   |販売済みユニット数| 
 |Prior quantity (前回の数量) |前回の収益期間のユニットの数量 |
 |単価 |ユニットあたりの販売価格| 
 |取引金額 |計算レートにこの金額を乗じてインセンティブ収益額を算出します。|

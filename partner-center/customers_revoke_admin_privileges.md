@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: 委任された管理者特権での代理として、管理者特権を DAP、AOBO を削除します。
 ms.localizationpriority: medium
 ms.openlocfilehash: 9253bcca2d93d9f0d62d6d7241132f0c0c9bf5ec
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586155"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135452"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>顧客がパートナーに管理特権を委任する
 
@@ -101,7 +101,7 @@ ms.locfileid: "57586155"
 
 - お客様がビジネス向け Microsoft Store や、教育機関向け Microsoft Store の Microsoft Intune ポータルを介して追加のデバイスを管理することはできません。
 
-Autopilot の詳細については、[Windows Autopilot のデバイスのセットアップを簡略化](https://docs.microsoft.com/partner-center/autopilot)を参照してください。
+Autopilot の詳細については、次を参照してください。 [Windows Autopilot のデバイスのセットアップを簡略化](https://docs.microsoft.com/partner-center/autopilot)します。
 
 >[!IMPORTANT]  
 >パートナー センターでは、現在の Autopilot 管理エクスペリエンスは、変更を続ける可能性があります。 この記事が公開された時点で、次の変更対象となります。

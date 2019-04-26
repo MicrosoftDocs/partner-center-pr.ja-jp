@@ -1,7 +1,7 @@
 ---
 title: CSP での間接プロバイダーとの連携 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: CSP の間接リセラーは、間接プロバイダー (ディストリビューターとも呼ばれます) に協力を提供するパートナーです。これに対して、間接プロバイダーはマイクロソフトと直接の取引関係を持ち、間接リセラーにカスタマー サポートと請求処理の機能を提供できるパートナーです。
 ms.prod: ''
 author: MaggiePucciEvans
@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: 間接リセラー, リセラー, 間接プロバイダー, プロバイダー, パートナーシップ, VAR, tier2, 階層 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 88b3bbccc6716696e3ad26034ca794459839b975
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587785"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134449"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携
 
@@ -44,7 +44,7 @@ CSP プログラムで間接リセラーとして販売を行うために必要�
 CSP に慣れていない場合は、間接リセラーとしてプログラムに登録して、パートナー センター アカウントを作成する必要があります。 登録プロセスでは、次の情報の入力が必要になります。 作業を開始する前に、これらの情報を手元に準備してください。
 
 -   **自分の職場アカウントのグローバル管理者の資格情報**<br>
-Office 365、Microsoft Azure、または Microsoft Dynamics CRM のログインに使うユーザー名とパスワードの入力を求められます。 職場アカウントをお持ちでない場合は、登録プロセスの中で作成できます。 職場アカウントが既にあるかどうかがわからない場合は、[作業アカウントと、パートナー センター](azure-active-directory-tenants-and-partner-center.md)を参照してください。
+Office 365、Microsoft Azure、または Microsoft Dynamics CRM のログインに使うユーザー名とパスワードの入力を求められます。 職場アカウントをお持ちでない場合は、登録プロセスの中で作成できます。 職場アカウントが既にあるかどうかがわからない場合は、次を参照してください。[作業アカウントと、パートナー センター](azure-active-directory-tenants-and-partner-center.md)します。
 
 
 -   **パートナー メンバーシップ センター サイトへのサインインに使用するユーザー名とパスワード**<br>

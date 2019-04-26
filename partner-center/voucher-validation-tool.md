@@ -8,15 +8,15 @@ ms.author: labrenne
 Keywords: ツールの伝票、検証して受講券、トレーニング、ソフトウェア アシュアランス付きの要求、DP、SATV
 ms.localizationpriority: medium
 ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587835"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132652"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>パートナー センターで受講券の確認および受け取りツールを使用して、受講券の確認、予約、引き換えを行う 
 
-**適用対象します。**
+**適用対象:**
 
 - パートナー センター
 
