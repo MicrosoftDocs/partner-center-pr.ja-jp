@@ -1,38 +1,38 @@
 ---
 title: 税金と税金の除外 | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: クラウド ソリューション プロバイダーはパートナーによる製品の再販を中心とした販売チャネルであるため、マイクロソフトがパートナーの請求書に売上税を加算しなくてもよい場合があります。
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 86397bcbf16935499049c842d5b3fd32caeb2261
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 1f6822568301576d1643346c21c56798bdb7c225
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430171"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134072"
 ---
-# <a name="tax-and-tax-exemptions"></a><span data-ttu-id="77643-103">税金と税金の除外</span><span class="sxs-lookup"><span data-stu-id="77643-103">Tax and tax exemptions</span></span>
+# <a name="tax-and-tax-exemptions"></a><span data-ttu-id="12997-103">税金と税金の除外</span><span class="sxs-lookup"><span data-stu-id="12997-103">Tax and tax exemptions</span></span>
 
-<span data-ttu-id="77643-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="77643-104">**Applies to**</span></span>
+<span data-ttu-id="12997-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="12997-104">**Applies to**</span></span>
 
--  <span data-ttu-id="77643-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="77643-105">Partner Center</span></span>
--  <span data-ttu-id="77643-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="77643-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="12997-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="12997-105">Partner Center</span></span>
+-  <span data-ttu-id="12997-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="12997-106">Partner Center for Microsoft Cloud for US Government</span></span>
 
 
-<span data-ttu-id="77643-107">クラウド ソリューション プロバイダーはパートナーによる製品の再販を中心とした販売チャネルであるため、マイクロソフトがパートナーの請求書に売上税を加算しなくてもよい場合があります。</span><span class="sxs-lookup"><span data-stu-id="77643-107">Because Cloud Solution Provider is a sales channel focused on partner resale of products, Microsoft is not always required to charge sales tax on partner invoices.</span></span> <span data-ttu-id="77643-108">規則は、国/地域によって異なります。</span><span class="sxs-lookup"><span data-stu-id="77643-108">The rules vary by country/region.</span></span> <span data-ttu-id="77643-109">パートナーは自身の拠点と顧客の拠点に基づいて、税アドバイザーと協力して適切な税金の除外を申告する必要があります。</span><span class="sxs-lookup"><span data-stu-id="77643-109">Partners should work with their tax advisor to file the appropriate tax exemptions based on their locations and where their customers are based.</span></span> <span data-ttu-id="77643-110">Microsoft リセラー アカウントを非課税対象としてマークするには、パートナーはマイクロソフトに除外証明書を送付する必要があります。</span><span class="sxs-lookup"><span data-stu-id="77643-110">To mark their Microsoft reseller account as not taxable, the partner should send those exemption certificates to Microsoft.</span></span>
+<span data-ttu-id="12997-107">クラウド ソリューション プロバイダーはパートナーによる製品の再販を中心とした販売チャネルであるため、マイクロソフトがパートナーの請求書に売上税を加算しなくてもよい場合があります。</span><span class="sxs-lookup"><span data-stu-id="12997-107">Because Cloud Solution Provider is a sales channel focused on partner resale of products, Microsoft is not always required to charge sales tax on partner invoices.</span></span> <span data-ttu-id="12997-108">規則は、国/地域によって異なります。</span><span class="sxs-lookup"><span data-stu-id="12997-108">The rules vary by country/region.</span></span> <span data-ttu-id="12997-109">パートナーは自身の拠点と顧客の拠点に基づいて、税アドバイザーと協力して適切な税金の除外を申告する必要があります。</span><span class="sxs-lookup"><span data-stu-id="12997-109">Partners should work with their tax advisor to file the appropriate tax exemptions based on their locations and where their customers are based.</span></span> <span data-ttu-id="12997-110">Microsoft リセラー アカウントを非課税対象としてマークするには、パートナーはマイクロソフトに除外証明書を送付する必要があります。</span><span class="sxs-lookup"><span data-stu-id="12997-110">To mark their Microsoft reseller account as not taxable, the partner should send those exemption certificates to Microsoft.</span></span>
 
-<span data-ttu-id="77643-111">**ファイルを免税**</span><span class="sxs-lookup"><span data-stu-id="77643-111">**File a tax exemption**</span></span>
+<span data-ttu-id="12997-111">**ファイルを免税**</span><span class="sxs-lookup"><span data-stu-id="12997-111">**File a tax exemption**</span></span>
 
-1.  <span data-ttu-id="77643-112">検索、 **Microsoft ID**パートナー センターで&gt;**アカウント設定** &gt; **組織プロファイル**します。</span><span class="sxs-lookup"><span data-stu-id="77643-112">Look up your **Microsoft ID** in Partner Center &gt; **Account settings** &gt; **Organization profile**.</span></span>
-2.  <span data-ttu-id="77643-113">検索、 **MPN ID**パートナー センターで&gt;**アカウント設定** &gt; **パートナー プロファイル**します。</span><span class="sxs-lookup"><span data-stu-id="77643-113">Look up your **MPN ID** in Partner Center &gt; **Account settings** &gt; **Partner profile**.</span></span>
-3.  <span data-ttu-id="77643-114">新しいサポート チケットを作成します。</span><span class="sxs-lookup"><span data-stu-id="77643-114">Create a new support ticket.</span></span> <span data-ttu-id="77643-115">パートナー センターのメニューから選択**サービス要求** &gt; **パートナー センター要求** &gt; **新しい要求**します。</span><span class="sxs-lookup"><span data-stu-id="77643-115">From the Partner Center menu, select **Service requests** &gt; **Partner Center requests** &gt; **New request**.</span></span>
-4.  <span data-ttu-id="77643-116">フォームに記入します。</span><span class="sxs-lookup"><span data-stu-id="77643-116">Fill out the form.</span></span> <span data-ttu-id="77643-117">**[問題の種類]** で、**[Cannot manage my profile]** (プロファイルを管理できない) を選びます。</span><span class="sxs-lookup"><span data-stu-id="77643-117">For the **Type of problem**, choose **Cannot manage my profile**.</span></span> <span data-ttu-id="77643-118">説明の中に貴社の MPN ID と Microsoft ID を記入します。</span><span class="sxs-lookup"><span data-stu-id="77643-118">In the description, include your MPN ID and your Microsoft ID.</span></span>
-5.  <span data-ttu-id="77643-119">チケットを提出すると、マイクロソフトが詳細情報をメールで送ります。</span><span class="sxs-lookup"><span data-stu-id="77643-119">After you submit the ticket, Microsoft will email you to get more information.</span></span> <span data-ttu-id="77643-120">返信する際に、貴社の税金除外証明書の適切な関連書類を添付します。</span><span class="sxs-lookup"><span data-stu-id="77643-120">When you reply, attach the appropriate supporting documentation for your tax exemption certificates.</span></span>
+1.  <span data-ttu-id="12997-112">検索、 **Microsoft ID**パートナー センターで&gt;**アカウント設定** &gt; **組織プロファイル**します。</span><span class="sxs-lookup"><span data-stu-id="12997-112">Look up your **Microsoft ID** in Partner Center &gt; **Account settings** &gt; **Organization profile**.</span></span>
+2.  <span data-ttu-id="12997-113">検索、 **MPN ID**パートナー センターで&gt;**アカウント設定** &gt; **パートナー プロファイル**します。</span><span class="sxs-lookup"><span data-stu-id="12997-113">Look up your **MPN ID** in Partner Center &gt; **Account settings** &gt; **Partner profile**.</span></span>
+3.  <span data-ttu-id="12997-114">新しいサポート チケットを作成します。</span><span class="sxs-lookup"><span data-stu-id="12997-114">Create a new support ticket.</span></span> <span data-ttu-id="12997-115">パートナー センターのメニューから選択**サービス要求** &gt; **パートナー センター要求** &gt; **新しい要求**します。</span><span class="sxs-lookup"><span data-stu-id="12997-115">From the Partner Center menu, select **Service requests** &gt; **Partner Center requests** &gt; **New request**.</span></span>
+4.  <span data-ttu-id="12997-116">フォームに記入します。</span><span class="sxs-lookup"><span data-stu-id="12997-116">Fill out the form.</span></span> <span data-ttu-id="12997-117">**[問題の種類]** で、**[Cannot manage my profile]** (プロファイルを管理できない) を選びます。</span><span class="sxs-lookup"><span data-stu-id="12997-117">For the **Type of problem**, choose **Cannot manage my profile**.</span></span> <span data-ttu-id="12997-118">説明の中に貴社の MPN ID と Microsoft ID を記入します。</span><span class="sxs-lookup"><span data-stu-id="12997-118">In the description, include your MPN ID and your Microsoft ID.</span></span>
+5.  <span data-ttu-id="12997-119">チケットを提出すると、マイクロソフトが詳細情報をメールで送ります。</span><span class="sxs-lookup"><span data-stu-id="12997-119">After you submit the ticket, Microsoft will email you to get more information.</span></span> <span data-ttu-id="12997-120">返信する際に、貴社の税金除外証明書の適切な関連書類を添付します。</span><span class="sxs-lookup"><span data-stu-id="12997-120">When you reply, attach the appropriate supporting documentation for your tax exemption certificates.</span></span>
 
-## <a name="details-by-countryregion"></a><span data-ttu-id="77643-121">国/地域ごとの詳細</span><span class="sxs-lookup"><span data-stu-id="77643-121">Details by country/region</span></span>
+## <a name="details-by-countryregion"></a><span data-ttu-id="12997-121">国/地域ごとの詳細</span><span class="sxs-lookup"><span data-stu-id="12997-121">Details by country/region</span></span>
 
 
 <table>
@@ -42,51 +42,51 @@ ms.locfileid: "59430171"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><span data-ttu-id="77643-122">カナダ</span><span class="sxs-lookup"><span data-stu-id="77643-122">Canada</span></span></td>
-<td><p><span data-ttu-id="77643-123">ほとんどのリセラーについて、GST/HST/QST は除外されません。</span><span class="sxs-lookup"><span data-stu-id="77643-123">Most resellers are not exempt from GST/HST/QST.</span></span> <span data-ttu-id="77643-124">除外の条件を満たしているかどうかを判定し、また満たしている場合にマイクロソフトにどの書類を提供する必要があるかについては、税アドバイザーに相談してください。</span><span class="sxs-lookup"><span data-stu-id="77643-124">To determine whether you are qualified for exemption, and if so which documentation to provide to Microsoft, please consult your tax advisor.</span></span></p>
-<p><span data-ttu-id="77643-125">BC PST の除外については、前述のとおりに税金の除外を申告します。</span><span class="sxs-lookup"><span data-stu-id="77643-125">For a BC PST Exemption, file a tax exemption as described above.</span></span> <span data-ttu-id="77643-126">BC PST 番号か、記入および署名された <em>Certificate of Exemption General</em> を提示します。</span><span class="sxs-lookup"><span data-stu-id="77643-126">Provide your BC PST#, or a completed and signed <em>Certificate of Exemption General</em>.</span></span></p></td>
+<td><span data-ttu-id="12997-122">カナダ</span><span class="sxs-lookup"><span data-stu-id="12997-122">Canada</span></span></td>
+<td><p><span data-ttu-id="12997-123">ほとんどのリセラーについて、GST/HST/QST は除外されません。</span><span class="sxs-lookup"><span data-stu-id="12997-123">Most resellers are not exempt from GST/HST/QST.</span></span> <span data-ttu-id="12997-124">除外の条件を満たしているかどうかを判定し、また満たしている場合にマイクロソフトにどの書類を提供する必要があるかについては、税アドバイザーに相談してください。</span><span class="sxs-lookup"><span data-stu-id="12997-124">To determine whether you are qualified for exemption, and if so which documentation to provide to Microsoft, please consult your tax advisor.</span></span></p>
+<p><span data-ttu-id="12997-125">BC PST の除外については、前述のとおりに税金の除外を申告します。</span><span class="sxs-lookup"><span data-stu-id="12997-125">For a BC PST Exemption, file a tax exemption as described above.</span></span> <span data-ttu-id="12997-126">BC PST 番号か、記入および署名された <em>Certificate of Exemption General</em> を提示します。</span><span class="sxs-lookup"><span data-stu-id="12997-126">Provide your BC PST#, or a completed and signed <em>Certificate of Exemption General</em>.</span></span></p></td>
 </tr>
 
 <tr class="even">
-<td><span data-ttu-id="77643-127">欧州連合</span><span class="sxs-lookup"><span data-stu-id="77643-127">European Union</span></span></td>
-<td><p><span data-ttu-id="77643-128">欧州連合の加盟国では、パートナーはリバース チャージに対応し適切な請求を行うために有効な VAT ID 番号を提示する必要があります。</span><span class="sxs-lookup"><span data-stu-id="77643-128">In the member states of the European Union, partners must provide their valid VAT ID number for reverse charge and proper billing.</span></span> <span data-ttu-id="77643-129">VAT 番号は、<a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">有効なものとして受け入れられる</a>必要があります。</span><span class="sxs-lookup"><span data-stu-id="77643-129">The VAT number must be <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">accepted as valid</a>.</span></span></p>
-<p><span data-ttu-id="77643-130">マイクロソフトはクレジットや自動課金に対応していないため、サブスクリプションを販売する前にパートナー センターで貴社の VAT ID 番号を登録する必要があります。</span><span class="sxs-lookup"><span data-stu-id="77643-130">Microsoft does not support credit and re-bill, so before you sell any subscriptions you must register your VAT ID number in Partner Center.</span></span></p>
-<p><span data-ttu-id="77643-131">VAT ID 番号をマイクロソフトに送信する</span><span class="sxs-lookup"><span data-stu-id="77643-131">Send Microsoft your VAT ID number</span></span></strong></p>
+<td><span data-ttu-id="12997-127">欧州連合</span><span class="sxs-lookup"><span data-stu-id="12997-127">European Union</span></span></td>
+<td><p><span data-ttu-id="12997-128">欧州連合の加盟国では、パートナーはリバース チャージに対応し適切な請求を行うために有効な VAT ID 番号を提示する必要があります。</span><span class="sxs-lookup"><span data-stu-id="12997-128">In the member states of the European Union, partners must provide their valid VAT ID number for reverse charge and proper billing.</span></span> <span data-ttu-id="12997-129">VAT 番号は、<a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">有効なものとして受け入れられる</a>必要があります。</span><span class="sxs-lookup"><span data-stu-id="12997-129">The VAT number must be <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">accepted as valid</a>.</span></span></p>
+<p><span data-ttu-id="12997-130">マイクロソフトはクレジットや自動課金に対応していないため、サブスクリプションを販売する前にパートナー センターで貴社の VAT ID 番号を登録する必要があります。</span><span class="sxs-lookup"><span data-stu-id="12997-130">Microsoft does not support credit and re-bill, so before you sell any subscriptions you must register your VAT ID number in Partner Center.</span></span></p>
+<p><span data-ttu-id="12997-131">VAT ID 番号をマイクロソフトに送信する</span><span class="sxs-lookup"><span data-stu-id="12997-131">Send Microsoft your VAT ID number</span></span></strong></p>
 <ol>
-<li><span data-ttu-id="77643-132">パートナー センターでは、パートナー センターのメニューに移動&gt;<strong>アカウント設定</strong> &gt; <strong>パートナー課金プロファイル</strong>します。</span><span class="sxs-lookup"><span data-stu-id="77643-132">In Partner Center, go to the Partner Center menu &gt; <strong>Account settings</strong> &gt; <strong>Partner billing profile</strong>.</span></span></li>
-<li><span data-ttu-id="77643-133"><strong>[財務データ]</strong> セクションで、<strong>[更新]</strong> を選びます。</span><span class="sxs-lookup"><span data-stu-id="77643-133">In the <strong>Financial data</strong> section, select <strong>Update</strong>.</span></span></li>
-<li><span data-ttu-id="77643-134"><strong>[会社の税金 ID]</strong> で、貴社の VAT ID 番号を指定します。</span><span class="sxs-lookup"><span data-stu-id="77643-134">In the <strong>Company Tax ID</strong>, specify your VAT ID number.</span></span></li>
+<li><span data-ttu-id="12997-132">パートナー センターでは、パートナー センターのメニューに移動&gt;<strong>アカウント設定</strong> &gt; <strong>パートナー課金プロファイル</strong>します。</span><span class="sxs-lookup"><span data-stu-id="12997-132">In Partner Center, go to the Partner Center menu &gt; <strong>Account settings</strong> &gt; <strong>Partner billing profile</strong>.</span></span></li>
+<li><span data-ttu-id="12997-133"><strong>[財務データ]</strong> セクションで、<strong>[更新]</strong> を選びます。</span><span class="sxs-lookup"><span data-stu-id="12997-133">In the <strong>Financial data</strong> section, select <strong>Update</strong>.</span></span></li>
+<li><span data-ttu-id="12997-134"><strong>[会社の税金 ID]</strong> で、貴社の VAT ID 番号を指定します。</span><span class="sxs-lookup"><span data-stu-id="12997-134">In the <strong>Company Tax ID</strong>, specify your VAT ID number.</span></span></li>
 </ol></td>
 </tr>
 
 <tr class="odd">
-<td><span data-ttu-id="77643-135">トルコ</span><span class="sxs-lookup"><span data-stu-id="77643-135">Turkey</span></span></td>
-<td><p><span data-ttu-id="77643-136">Microsoft では、デジタル コンテンツ、およびトルコ語にパートナーが購入したサービスの標準の付加価値税 (VAT) が適用されます。</span><span class="sxs-lookup"><span data-stu-id="77643-136">Microsoft now applies the standard value-added tax (VAT) on digital content and services purchased by partners in Turkey.</span></span>  <span data-ttu-id="77643-137">表示されますすべての請求書の有効な 2018 年 10 月 1 日から。</span><span class="sxs-lookup"><span data-stu-id="77643-137">This will show on all invoices effective from October 1, 2018.</span></span> <span data-ttu-id="77643-138">トルコ語の VAT を請求書から除外するには、自分で管理するには、パートナーの請求プロファイルを更新する次の手順に従います。</span><span class="sxs-lookup"><span data-stu-id="77643-138">To exclude the Turkish VAT from your invoices and manage this yourself, use the following procedure to update your partner billing profile.</span></span></p>
-<p><span data-ttu-id="77643-139">VAT ID 番号をマイクロソフトに送信する</span><span class="sxs-lookup"><span data-stu-id="77643-139">Send Microsoft your VAT ID number</span></span></strong></p>
+<td><span data-ttu-id="12997-135">トルコ</span><span class="sxs-lookup"><span data-stu-id="12997-135">Turkey</span></span></td>
+<td><p><span data-ttu-id="12997-136">Microsoft では、デジタル コンテンツ、およびトルコ語にパートナーが購入したサービスの標準の付加価値税 (VAT) が適用されます。</span><span class="sxs-lookup"><span data-stu-id="12997-136">Microsoft now applies the standard value-added tax (VAT) on digital content and services purchased by partners in Turkey.</span></span>  <span data-ttu-id="12997-137">表示されますすべての請求書の有効な 2018 年 10 月 1 日から。</span><span class="sxs-lookup"><span data-stu-id="12997-137">This will show on all invoices effective from October 1, 2018.</span></span> <span data-ttu-id="12997-138">トルコ語の VAT を請求書から除外するには、自分で管理するには、パートナーの請求プロファイルを更新する次の手順に従います。</span><span class="sxs-lookup"><span data-stu-id="12997-138">To exclude the Turkish VAT from your invoices and manage this yourself, use the following procedure to update your partner billing profile.</span></span></p>
+<p><span data-ttu-id="12997-139">VAT ID 番号をマイクロソフトに送信する</span><span class="sxs-lookup"><span data-stu-id="12997-139">Send Microsoft your VAT ID number</span></span></strong></p>
 <ol>
-<li><span data-ttu-id="77643-140">パートナー センターでは、パートナー センターのメニューに移動&gt;<strong>アカウント設定</strong> &gt; <strong>パートナー課金プロファイル</strong>します。</span><span class="sxs-lookup"><span data-stu-id="77643-140">In Partner Center, go to the Partner Center menu &gt; <strong>Account settings</strong> &gt; <strong>Partner billing profile</strong>.</span></span></li>
-<li><span data-ttu-id="77643-141"><strong>[財務データ]</strong> セクションで、<strong>[更新]</strong> を選びます。</span><span class="sxs-lookup"><span data-stu-id="77643-141">In the <strong>Financial data</strong> section, select <strong>Update</strong>.</span></span></li>
-<li><span data-ttu-id="77643-142"><strong>[会社の税金 ID]</strong> で、貴社の VAT ID 番号を指定します。</span><span class="sxs-lookup"><span data-stu-id="77643-142">In the <strong>Company Tax ID</strong>, specify your VAT ID number.</span></span></li>
+<li><span data-ttu-id="12997-140">パートナー センターでは、パートナー センターのメニューに移動&gt;<strong>アカウント設定</strong> &gt; <strong>パートナー課金プロファイル</strong>します。</span><span class="sxs-lookup"><span data-stu-id="12997-140">In Partner Center, go to the Partner Center menu &gt; <strong>Account settings</strong> &gt; <strong>Partner billing profile</strong>.</span></span></li>
+<li><span data-ttu-id="12997-141"><strong>[財務データ]</strong> セクションで、<strong>[更新]</strong> を選びます。</span><span class="sxs-lookup"><span data-stu-id="12997-141">In the <strong>Financial data</strong> section, select <strong>Update</strong>.</span></span></li>
+<li><span data-ttu-id="12997-142"><strong>[会社の税金 ID]</strong> で、貴社の VAT ID 番号を指定します。</span><span class="sxs-lookup"><span data-stu-id="12997-142">In the <strong>Company Tax ID</strong>, specify your VAT ID number.</span></span></li>
 </ol></td>
 </tr>
 
 
 <tr class="even">
-<td><span data-ttu-id="77643-143">米国</span><span class="sxs-lookup"><span data-stu-id="77643-143">United States</span></span></td>
-<td><p><span data-ttu-id="77643-144">米国内のすべての再販業者は、Microsoft リセラー契約に同意後 30 日以内に売上税の除外に関連する書類を提出する必要があります。</span><span class="sxs-lookup"><span data-stu-id="77643-144">All resellers in the United States are expected to provide sales tax exemption documentation within 30 days of accepting the Microsoft Reseller Agreement.</span></span> <span data-ttu-id="77643-145">再販に関する除外証明書は州によって異なります。</span><span class="sxs-lookup"><span data-stu-id="77643-145">Each state has different exemption certificates for resale.</span></span> <span data-ttu-id="77643-146">貴社の法定住所や登録されている州に関連する内容について判断するには、税アドバイザーに相談してください。</span><span class="sxs-lookup"><span data-stu-id="77643-146">Please work with your tax advisor to determine what is relevant for your legal address and registered states.</span></span></p>
-<p><span data-ttu-id="77643-147">これには、<em>Streamline Sales and Use Tax Agreement Certificate of Exemption</em> や <em>MTC Uniform Sales &amp; Use Tax Exemption Certificate</em> など、複数の州にわたって有効な再販用の除外証明書が含まれる場合があります。</span><span class="sxs-lookup"><span data-stu-id="77643-147">This may include resale exemption certificates that work across multiple states such as the <em>Streamline Sales and Use Tax Agreement Certificate of Exemption</em> or the <em>MTC Uniform Sales &amp; Use Tax Exemption Certificate</em>.</span></span></p></td>
+<td><span data-ttu-id="12997-143">米国</span><span class="sxs-lookup"><span data-stu-id="12997-143">United States</span></span></td>
+<td><p><span data-ttu-id="12997-144">米国内のすべての再販業者は、Microsoft リセラー契約に同意後 30 日以内に売上税の除外に関連する書類を提出する必要があります。</span><span class="sxs-lookup"><span data-stu-id="12997-144">All resellers in the United States are expected to provide sales tax exemption documentation within 30 days of accepting the Microsoft Reseller Agreement.</span></span> <span data-ttu-id="12997-145">再販に関する除外証明書は州によって異なります。</span><span class="sxs-lookup"><span data-stu-id="12997-145">Each state has different exemption certificates for resale.</span></span> <span data-ttu-id="12997-146">貴社の法定住所や登録されている州に関連する内容について判断するには、税アドバイザーに相談してください。</span><span class="sxs-lookup"><span data-stu-id="12997-146">Please work with your tax advisor to determine what is relevant for your legal address and registered states.</span></span></p>
+<p><span data-ttu-id="12997-147">これには、<em>Streamline Sales and Use Tax Agreement Certificate of Exemption</em> や <em>MTC Uniform Sales &amp; Use Tax Exemption Certificate</em> など、複数の州にわたって有効な再販用の除外証明書が含まれる場合があります。</span><span class="sxs-lookup"><span data-stu-id="12997-147">This may include resale exemption certificates that work across multiple states such as the <em>Streamline Sales and Use Tax Agreement Certificate of Exemption</em> or the <em>MTC Uniform Sales &amp; Use Tax Exemption Certificate</em>.</span></span></p></td>
 </tr>
 
 
 <tr class="odd">
-<td><span data-ttu-id="77643-148">税金が課されるその他の国/地域</span><span class="sxs-lookup"><span data-stu-id="77643-148">Other country/regions that charge tax</span></span></td>
-<td><p><span data-ttu-id="77643-149">税金の除外/払戻しに関するその他の質問については、パートナー センターでサポートをリクエストしてください。</span><span class="sxs-lookup"><span data-stu-id="77643-149">For other questions about tax exemption/refund support, request support in Partner Center.</span></span> <span data-ttu-id="77643-150">マイクロソフトが貴社と連絡を取り問題を解決するまでに 2 週間かかる場合がありますのでご了承ください。</span><span class="sxs-lookup"><span data-stu-id="77643-150">Please allow two weeks for Microsoft to contact you and resolve the issue.</span></span></p></td>
+<td><span data-ttu-id="12997-148">税金が課されるその他の国/地域</span><span class="sxs-lookup"><span data-stu-id="12997-148">Other country/regions that charge tax</span></span></td>
+<td><p><span data-ttu-id="12997-149">税金の除外/払戻しに関するその他の質問については、パートナー センターでサポートをリクエストしてください。</span><span class="sxs-lookup"><span data-stu-id="12997-149">For other questions about tax exemption/refund support, request support in Partner Center.</span></span> <span data-ttu-id="12997-150">マイクロソフトが貴社と連絡を取り問題を解決するまでに 2 週間かかる場合がありますのでご了承ください。</span><span class="sxs-lookup"><span data-stu-id="12997-150">Please allow two weeks for Microsoft to contact you and resolve the issue.</span></span></p></td>
 </tr>
 
 <tr class="even">
-<td><span data-ttu-id="77643-151">その他の税金に関連する書類</span><span class="sxs-lookup"><span data-stu-id="77643-151">Other tax documentation</span></span></td>
-<td><p><span data-ttu-id="77643-152">税金申告用レシート (台湾または韓国用) または DAF については、請求書が生成されてから通常 2 週間かかります。</span><span class="sxs-lookup"><span data-stu-id="77643-152">Tax receipts (for Taiwan or Korea) or DAF generally require two weeks turn-around time after invoice generation.</span></span></p>
-<p><span data-ttu-id="77643-153">その他の税金に関連する必要な書類については、パートナー センターからサービスをリクエストしてください。</span><span class="sxs-lookup"><span data-stu-id="77643-153">For other tax-related documentation needs, request service from Partner Center.</span></span></p></td>
+<td><span data-ttu-id="12997-151">その他の税金に関連する書類</span><span class="sxs-lookup"><span data-stu-id="12997-151">Other tax documentation</span></span></td>
+<td><p><span data-ttu-id="12997-152">税金申告用レシート (台湾または韓国用) または DAF については、請求書が生成されてから通常 2 週間かかります。</span><span class="sxs-lookup"><span data-stu-id="12997-152">Tax receipts (for Taiwan or Korea) or DAF generally require two weeks turn-around time after invoice generation.</span></span></p>
+<p><span data-ttu-id="12997-153">その他の税金に関連する必要な書類については、パートナー センターからサービスをリクエストしてください。</span><span class="sxs-lookup"><span data-stu-id="12997-153">For other tax-related documentation needs, request service from Partner Center.</span></span></p></td>
 </tr>
 
 </tbody>

@@ -1,43 +1,43 @@
 ---
 title: ライセンスベース サービスの顧客をパートナー センターのクラウド ソリューション プロバイダー プログラムに移動する | パートナー センター
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 顧客とそのサブスクリプションを別のチャネルや別のパートナーから CSP プログラムに移動します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7277802d5e2aec6118a8334520be89602f15632a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b4e1e64eefeef3ac0bd70bb3eb300fe3caddf8f3
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587775"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132922"
 ---
-# <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a><span data-ttu-id="f52dc-103">ライセンスベース サービスの顧客を別のチャネルからクラウド ソリューション プロバイダー プログラムに、またはあるパートナーから別のパートナーに移行する</span><span class="sxs-lookup"><span data-stu-id="f52dc-103">Transfer license-based services customers to the Cloud Solution Provider Program from another channel or from one partner to another</span></span>
+# <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a><span data-ttu-id="b8563-103">ライセンスベース サービスの顧客を別のチャネルからクラウド ソリューション プロバイダー プログラムに、またはあるパートナーから別のパートナーに移行する</span><span class="sxs-lookup"><span data-stu-id="b8563-103">Transfer license-based services customers to the Cloud Solution Provider Program from another channel or from one partner to another</span></span>
 
-<span data-ttu-id="f52dc-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="f52dc-104">**Applies to**</span></span>
+<span data-ttu-id="b8563-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="b8563-104">**Applies to**</span></span>
 
--  <span data-ttu-id="f52dc-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="f52dc-105">Partner Center</span></span>
+-  <span data-ttu-id="b8563-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="b8563-105">Partner Center</span></span>
 
-<span data-ttu-id="f52dc-106">顧客が複数のパートナーと携わったり、サブスクリプションを別のパートナーに移管したり、別途購入したサブスクリプションを管理したりする場合には、手動で移行することができます。</span><span class="sxs-lookup"><span data-stu-id="f52dc-106">If your customer wants to hire multiple partners, transfer their subscriptions to another partner, or manage their subscriptions purchased elsewhere, you can move them manually.</span></span> <span data-ttu-id="f52dc-107">パートナー センターに別のチャネルから顧客を移動することもできます。</span><span class="sxs-lookup"><span data-stu-id="f52dc-107">You can also move customers into Partner Center from another channel.</span></span>
+<span data-ttu-id="b8563-106">顧客が複数のパートナーと携わったり、サブスクリプションを別のパートナーに移管したり、別途購入したサブスクリプションを管理したりする場合には、手動で移行することができます。</span><span class="sxs-lookup"><span data-stu-id="b8563-106">If your customer wants to hire multiple partners, transfer their subscriptions to another partner, or manage their subscriptions purchased elsewhere, you can move them manually.</span></span> <span data-ttu-id="b8563-107">パートナー センターに別のチャネルから顧客を移動することもできます。</span><span class="sxs-lookup"><span data-stu-id="b8563-107">You can also move customers into Partner Center from another channel.</span></span>
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a><span data-ttu-id="f52dc-108">顧客のライセンスベース サブスクリプションをクラウド ソリューション プロバイダー プログラム (CSP) に移動する</span><span class="sxs-lookup"><span data-stu-id="f52dc-108">Move your customer’s license-based subscriptions to the Cloud Solution Provider Program (CSP)</span></span>
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a><span data-ttu-id="b8563-108">顧客のライセンスベース サブスクリプションをクラウド ソリューション プロバイダー プログラム (CSP) に移動する</span><span class="sxs-lookup"><span data-stu-id="b8563-108">Move your customer’s license-based subscriptions to the Cloud Solution Provider Program (CSP)</span></span>
 
-1. <span data-ttu-id="f52dc-109">選択**顧客**を選択し、パートナー センターのメニューから**再販業者関係の要求**します。</span><span class="sxs-lookup"><span data-stu-id="f52dc-109">Select **Customers** from the Partner Center menu and then select **Request a reseller relationship**.</span></span> <span data-ttu-id="f52dc-110">マルチチャネル アカウントのサポートを提供するには、同じ操作を行います。</span><span class="sxs-lookup"><span data-stu-id="f52dc-110">To provide support for multi-channel accounts, you do the same thing.</span></span>
+1. <span data-ttu-id="b8563-109">選択**顧客**を選択し、パートナー センターのメニューから**再販業者関係の要求**します。</span><span class="sxs-lookup"><span data-stu-id="b8563-109">Select **Customers** from the Partner Center menu and then select **Request a reseller relationship**.</span></span> <span data-ttu-id="b8563-110">マルチチャネル アカウントのサポートを提供するには、同じ操作を行います。</span><span class="sxs-lookup"><span data-stu-id="b8563-110">To provide support for multi-channel accounts, you do the same thing.</span></span>
 
-2.  <span data-ttu-id="f52dc-111">顧客が招待を受け入れると、顧客の代わりに対象のサブスクリプションとシートをプロビジョニングすることができます (顧客が以前購入したものと同じ Office 365 プランなど)。</span><span class="sxs-lookup"><span data-stu-id="f52dc-111">Once the customer accepts your invitation, you’ll be able to provision the desired subscriptions and seats for the customer (for example, the same Office 365 offer that the customer purchased previously).</span></span>
+2.  <span data-ttu-id="b8563-111">顧客が招待を受け入れると、顧客の代わりに対象のサブスクリプションとシートをプロビジョニングすることができます (顧客が以前購入したものと同じ Office 365 プランなど)。</span><span class="sxs-lookup"><span data-stu-id="b8563-111">Once the customer accepts your invitation, you’ll be able to provision the desired subscriptions and seats for the customer (for example, the same Office 365 offer that the customer purchased previously).</span></span>
 
-3. <span data-ttu-id="f52dc-112">顧客は、その元のサブスクリプションの期限が切れるのを待つか、それを取り消すことができます。</span><span class="sxs-lookup"><span data-stu-id="f52dc-112">The customer can either allow its original subscriptions to expire or cancel them.</span></span> <span data-ttu-id="f52dc-113">ただし、サブスクリプションを取り消しても払い戻しはされないため、顧客のサブスクリプションの有効期限が近づくまで、そのまま待つことをお勧めします。</span><span class="sxs-lookup"><span data-stu-id="f52dc-113">However, since there are no refunds on cancelled subscriptions, it’s best to wait until the customer’s subscriptions are near the natural expiration dates.</span></span>
+3. <span data-ttu-id="b8563-112">顧客は、その元のサブスクリプションの期限が切れるのを待つか、それを取り消すことができます。</span><span class="sxs-lookup"><span data-stu-id="b8563-112">The customer can either allow its original subscriptions to expire or cancel them.</span></span> <span data-ttu-id="b8563-113">ただし、サブスクリプションを取り消しても払い戻しはされないため、顧客のサブスクリプションの有効期限が近づくまで、そのまま待つことをお勧めします。</span><span class="sxs-lookup"><span data-stu-id="b8563-113">However, since there are no refunds on cancelled subscriptions, it’s best to wait until the customer’s subscriptions are near the natural expiration dates.</span></span>
 
-4. <span data-ttu-id="f52dc-114">これによりお客様は、使用を中断することなく、パートナー様がプロビジョニングしたサブスクリプションに移行して引き続き使用できます。</span><span class="sxs-lookup"><span data-stu-id="f52dc-114">The customer will then continue forward with the subscriptions you have provisioned without interruption.</span></span>
+4. <span data-ttu-id="b8563-114">これによりお客様は、使用を中断することなく、パートナー様がプロビジョニングしたサブスクリプションに移行して引き続き使用できます。</span><span class="sxs-lookup"><span data-stu-id="b8563-114">The customer will then continue forward with the subscriptions you have provisioned without interruption.</span></span>
 
 
-<span data-ttu-id="f52dc-115">お客様が使用していたものと同じプランをプロビジョニングした場合は、ライセンスを再度割り当てる必要がないため、エンド ユーザーの作業に中断が生じません。</span><span class="sxs-lookup"><span data-stu-id="f52dc-115">If you provision the same offers as those your customer has been using, there is no need to reassign licenses, and there will be no disruption to end-users.</span></span> <span data-ttu-id="f52dc-116">データの損失を回避するために、プランは同じである必要があります。</span><span class="sxs-lookup"><span data-stu-id="f52dc-116">The offers must be the same to ensure no data loss.</span></span> <span data-ttu-id="f52dc-117">ライセンスの合計数が同じである限り、このプランによってお客様が影響を感じることはありません。</span><span class="sxs-lookup"><span data-stu-id="f52dc-117">As long as the total number of licenses remains the same and the offer is equivalent your customers will feel no impact.</span></span>
+<span data-ttu-id="b8563-115">お客様が使用していたものと同じプランをプロビジョニングした場合は、ライセンスを再度割り当てる必要がないため、エンド ユーザーの作業に中断が生じません。</span><span class="sxs-lookup"><span data-stu-id="b8563-115">If you provision the same offers as those your customer has been using, there is no need to reassign licenses, and there will be no disruption to end-users.</span></span> <span data-ttu-id="b8563-116">データの損失を回避するために、プランは同じである必要があります。</span><span class="sxs-lookup"><span data-stu-id="b8563-116">The offers must be the same to ensure no data loss.</span></span> <span data-ttu-id="b8563-117">ライセンスの合計数が同じである限り、このプランによってお客様が影響を感じることはありません。</span><span class="sxs-lookup"><span data-stu-id="b8563-117">As long as the total number of licenses remains the same and the offer is equivalent your customers will feel no impact.</span></span>
 
-<span data-ttu-id="f52dc-118">廃止されましたプランのお客様を転送する場合は、データの損失を回避するために、それと同等のプランを見つける必要があります。</span><span class="sxs-lookup"><span data-stu-id="f52dc-118">If you transfer customers who are on offers that have been discontinued, you will need to find an equivalent offer in order to prevent data loss.</span></span> <span data-ttu-id="f52dc-119">顧客を別のプランに移行する場合は、ライセンスの割り当てを更新する必要があります。</span><span class="sxs-lookup"><span data-stu-id="f52dc-119">If you move the customer to a different offer, you will need to update their license assignment.</span></span>
+<span data-ttu-id="b8563-118">廃止されましたプランのお客様を転送する場合は、データの損失を回避するために、それと同等のプランを見つける必要があります。</span><span class="sxs-lookup"><span data-stu-id="b8563-118">If you transfer customers who are on offers that have been discontinued, you will need to find an equivalent offer in order to prevent data loss.</span></span> <span data-ttu-id="b8563-119">顧客を別のプランに移行する場合は、ライセンスの割り当てを更新する必要があります。</span><span class="sxs-lookup"><span data-stu-id="b8563-119">If you move the customer to a different offer, you will need to update their license assignment.</span></span>
 
 >[!NOTE]
-><span data-ttu-id="f52dc-120">、、CSP パートナーことが必要にするには、その顧客に移行する顧客のテナントと同じリージョンにします。</span><span class="sxs-lookup"><span data-stu-id="f52dc-120">You, the CSP partner, must be in the same region as the customer tenant to transition that customer to you.</span></span> 
+><span data-ttu-id="b8563-120">、、CSP パートナーことが必要にするには、その顧客に移行する顧客のテナントと同じリージョンにします。</span><span class="sxs-lookup"><span data-stu-id="b8563-120">You, the CSP partner, must be in the same region as the customer tenant to transition that customer to you.</span></span> 
 
 
 
