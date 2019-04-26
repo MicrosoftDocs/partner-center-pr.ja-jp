@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587615"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133860"
 ---
 # <a name="participate-in-software-assurance-programs"></a>ソフトウェア アシュアランス プログラムに参加します。
 
@@ -20,7 +20,7 @@ ms.locfileid: "57587615"
 |**詳細については**   |**この記事を読む**   |
 |--------------------------|:------------------|
 |ソフトウェア アシュアランス付きのトレーニング受講券 (SATV) プログラムに登録します。|[パートナー センターでのソフトウェア アシュアランス付きのトレーニング受講券 (SATV) プログラム](software-assurance-satv.md)|
-|受講券の検証および引き換えツールを使用します。|[パートナー センターで伝票検証および引き換えツールを使用して、検証、予約、およびバウチャーを引き換える](voucher-validation-tool.md)|
+|受講券の確認および受け取りツールの使用|[パートナー センターで受講券の確認および受け取りツールを使用して、受講券の確認、予約、引き換えを行う](voucher-validation-tool.md)|
 |サービスの計画、ソフトウェア アシュアランスへの登録|[パートナー センターでソフトウェア アシュアランス計画サービス](software-assurance-dps.md) 
 
 
