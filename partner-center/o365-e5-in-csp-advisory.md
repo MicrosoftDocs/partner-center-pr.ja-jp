@@ -14,146 +14,146 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134332"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a><span data-ttu-id="bec13-103">Office 365 パートナー アドバイザリ:CSP での office 365 E5 SKU の 1 つの可用性</span><span class="sxs-lookup"><span data-stu-id="bec13-103">Office 365 Partner Advisory: Office 365 E5 Single SKU Availability in CSP</span></span>
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a><span data-ttu-id="58257-103">Office 365 パートナー アドバイザリ: CSP で Office 365 E5 の単一の SKU を利用する</span><span class="sxs-lookup"><span data-stu-id="58257-103">Office 365 Partner Advisory: Office 365 E5 Single SKU Availability in CSP</span></span>
 
-<span data-ttu-id="bec13-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="bec13-104">**Applies to**</span></span>
+<span data-ttu-id="58257-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="58257-104">**Applies to**</span></span>
 
--  <span data-ttu-id="bec13-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="bec13-105">Partner Center</span></span>
+-  <span data-ttu-id="58257-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="58257-105">Partner Center</span></span>
 
-<span data-ttu-id="bec13-106">2016 年 10 月 5 日以降、Office 365 Enterprise E5 の単一の SKU は CSP で利用することができます。</span><span class="sxs-lookup"><span data-stu-id="bec13-106">As of October 5th, 2016, the Office 365 Enterprise E5 Single SKU is available in CSP.</span></span> <span data-ttu-id="bec13-107">この変更の一環として、Office 365 Enterprise E5 の SKU では PSTN 会議も対象となりました (PSTN 会議サービスが利用可能な場合)。</span><span class="sxs-lookup"><span data-stu-id="bec13-107">As part of this change, the Office 365 Enterprise E5 SKU includes PSTN Conferencing (where the PSTN Conferencing service is available).</span></span>
+<span data-ttu-id="58257-106">2016 年 10 月 5 日以降、Office 365 Enterprise E5 の単一の SKU は CSP で利用することができます。</span><span class="sxs-lookup"><span data-stu-id="58257-106">As of October 5th, 2016, the Office 365 Enterprise E5 Single SKU is available in CSP.</span></span> <span data-ttu-id="58257-107">この変更の一環として、Office 365 Enterprise E5 の SKU では PSTN 会議も対象となりました (PSTN 会議サービスが利用可能な場合)。</span><span class="sxs-lookup"><span data-stu-id="58257-107">As part of this change, the Office 365 Enterprise E5 SKU includes PSTN Conferencing (where the PSTN Conferencing service is available).</span></span>
 
-## <a name="summary"></a><span data-ttu-id="bec13-108">概要</span><span class="sxs-lookup"><span data-stu-id="bec13-108">Summary</span></span>
-
-
-<span data-ttu-id="bec13-109">この Office 365 Enterprise E5 プランでは、生産性や通信の向上に役立つ、最も包括的で安全性に優れたクラウド スイートの購入が簡略化されています。</span><span class="sxs-lookup"><span data-stu-id="bec13-109">This Office 365 Enterprise E5 offer simplifies purchasing the most comprehensive, secure cloud suite for productivity and communications.</span></span> <span data-ttu-id="bec13-110">さまざまな小売価格を管理するためのアドオンを使用しなくても、Skype 会議サービス含めることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="bec13-110">You can now include Skype conferencing services without using add-ons to manage different price points.</span></span>
-
-<span data-ttu-id="bec13-111">上記の変更点は、パートナーの注文や請求に影響します。</span><span class="sxs-lookup"><span data-stu-id="bec13-111">The changes noted above affect partner ordering and invoicing.</span></span> <span data-ttu-id="bec13-112">一部の国では、PSTN サービスは、特別な税金や法的要件の対象となっています。</span><span class="sxs-lookup"><span data-stu-id="bec13-112">PSTN services in some countries also are subject to special tax and regulatory requirements.</span></span>
-
-## <a name="partner-recommendations"></a><span data-ttu-id="bec13-113">パートナーに対する推奨事項</span><span class="sxs-lookup"><span data-stu-id="bec13-113">Partner recommendations</span></span>
+## <a name="summary"></a><span data-ttu-id="58257-108">概要</span><span class="sxs-lookup"><span data-stu-id="58257-108">Summary</span></span>
 
 
-<span data-ttu-id="bec13-114">お客様の税務部門や法務部門に対して、PSTN サービスの規制、税金、手数料などの義務に関する組織の責任を理解するように指示してください。</span><span class="sxs-lookup"><span data-stu-id="bec13-114">Engage your tax and legal counsel to understand your organization’s responsibility regarding PSTN services’ regulation, taxes and fees, and other potential liabilities.</span></span>
+<span data-ttu-id="58257-109">この Office 365 Enterprise E5 プランでは、生産性や通信の向上に役立つ、最も包括的で安全性に優れたクラウド スイートの購入が簡略化されています。</span><span class="sxs-lookup"><span data-stu-id="58257-109">This Office 365 Enterprise E5 offer simplifies purchasing the most comprehensive, secure cloud suite for productivity and communications.</span></span> <span data-ttu-id="58257-110">さまざまな小売価格を管理するためのアドオンを使用しなくても、Skype 会議サービス含めることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="58257-110">You can now include Skype conferencing services without using add-ons to manage different price points.</span></span>
 
-## <a name="details"></a><span data-ttu-id="bec13-115">詳細</span><span class="sxs-lookup"><span data-stu-id="bec13-115">Details</span></span>
+<span data-ttu-id="58257-111">上記の変更点は、パートナーの注文や請求に影響します。</span><span class="sxs-lookup"><span data-stu-id="58257-111">The changes noted above affect partner ordering and invoicing.</span></span> <span data-ttu-id="58257-112">一部の国では、PSTN サービスは、特別な税金や法的要件の対象となっています。</span><span class="sxs-lookup"><span data-stu-id="58257-112">PSTN services in some countries also are subject to special tax and regulatory requirements.</span></span>
 
-
-<span data-ttu-id="bec13-116">米国、プエルトリコ、カナダでは、Skype for Business PSTN サービスは、特別な税金や法的要件の対象となっています。</span><span class="sxs-lookup"><span data-stu-id="bec13-116">In the United States, Puerto Rico, and Canada, Skype for Business PSTN services are subject to special tax and regulatory requirements.</span></span> <span data-ttu-id="bec13-117">Microsoft では、PSTN サービスを税込みで価格設定しています。</span><span class="sxs-lookup"><span data-stu-id="bec13-117">Microsoft prices PSTN services as tax-inclusive.</span></span> <span data-ttu-id="bec13-118">PSTN に適用される税金や規制は、Office 365 パートナーが新しく統合された Office 365 E5 プランを扱う場合に影響します。</span><span class="sxs-lookup"><span data-stu-id="bec13-118">Unique PSTN taxes and regulations will affect Office 365 partners transacting the new unified Office 365 E5 offer.</span></span> <span data-ttu-id="bec13-119">パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。</span><span class="sxs-lookup"><span data-stu-id="bec13-119">If a partner marks up the price of a Microsoft PSTN Service, they may be responsible for calculating and remitting PSTN taxes and fees.</span></span>
-
-## <a name="price-list-and-catalog-availability"></a><span data-ttu-id="bec13-120">価格表とカタログの利用</span><span class="sxs-lookup"><span data-stu-id="bec13-120">Price list and catalog availability</span></span>
+## <a name="partner-recommendations"></a><span data-ttu-id="58257-113">パートナーに対する推奨事項</span><span class="sxs-lookup"><span data-stu-id="58257-113">Partner recommendations</span></span>
 
 
-<span data-ttu-id="bec13-121">多くのパートナーは、自社の発注管理システムを API を使用して Microsoft Commerce Platform と統合するために、長いリード タイムが必要になります。</span><span class="sxs-lookup"><span data-stu-id="bec13-121">Many CSP partners require long lead times to integrate their order management systems with the Microsoft Commerce Platform via APIs.</span></span> <span data-ttu-id="bec13-122">Office 365 Enterprise E5 の単一の SKU をシステムで処理する準備が整う前に、パートナーが E5 に関する営業案件を確実にクローズできるようにするために、2017 年 7 月 1 日まで次の SKU が CSP の価格表に残ります。</span><span class="sxs-lookup"><span data-stu-id="bec13-122">To ensure partners can close any E5 opportunities before their systems are ready to transact the Office 365 Enterprise E5 Single SKU, the following SKUs will remain on the CSP Price List until July 1st, 2017:</span></span> 
+<span data-ttu-id="58257-114">お客様の税務部門や法務部門に対して、PSTN サービスの規制、税金、手数料などの義務に関する組織の責任を理解するように指示してください。</span><span class="sxs-lookup"><span data-stu-id="58257-114">Engage your tax and legal counsel to understand your organization’s responsibility regarding PSTN services’ regulation, taxes and fees, and other potential liabilities.</span></span>
 
--   <span data-ttu-id="bec13-123">[Office 365 Enterprise E5 (PSTN 会議なし)]</span><span class="sxs-lookup"><span data-stu-id="bec13-123">Office 365 Enterprise E5 without PSTN Conferencing</span></span>
--   <span data-ttu-id="bec13-124">[PSTN 会議アドオンの SKU (PSTN に対応した市場の場合)]</span><span class="sxs-lookup"><span data-stu-id="bec13-124">PSTN Conferencing Add-on SKUs (in PSTN-enabled markets)</span></span>
-
-<span data-ttu-id="bec13-125">価格表では、複数の Office 365 Enterprise E5 の SKU がパートナーに対して表示され、パートナーの地理的な条件によっては、それらの SKU がパートナー センターのカタログでも表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="bec13-125">Partners will see multiple Office 365 Enterprise E5 SKUs on the price list and may see them in the Partner Center Catalog depending on their geography.</span></span>
-
-<span data-ttu-id="bec13-126">10 月 5 日以降、一部の SKU ではプラン表示名が同じで、異なる小売価格が表示されるものがあります。これは、単一の SKU が、PSTN の利用の可否に関係なく、世界中で同じ価格設定になっているためです。</span><span class="sxs-lookup"><span data-stu-id="bec13-126">Following the launch on October 5, some SKUs will show the same Offer Display Name, but different price points as the Single SKU will be priced the same worldwide, regardless of PSTN availability.</span></span> <span data-ttu-id="bec13-127">パートナーは、パートナー センターのカタログ ページに表示されるプラン名に基づいて、価格表で単一の SKU をプロビジョニングする必要があります (下記の一覧では灰色で強調表示されており、プラン ID で特定できます)。</span><span class="sxs-lookup"><span data-stu-id="bec13-127">Partners should provision the single SKU on the price list (highlighted in gray on the table below and identified by Offer ID) and by the displayed Offer Name on the Partner Center catalog page.</span></span> <span data-ttu-id="bec13-128">今後数週間以内には、プラン表示名のテキストによって、2017 年 7 月 1 日にどの SKU が EOL になるかが明示されます。</span><span class="sxs-lookup"><span data-stu-id="bec13-128">In the coming weeks, the Offer Display Name text will define which SKUs will be EOL on July 1st, 2017.</span></span>
-
-### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a><span data-ttu-id="bec13-129">CSP の価格表に表示される SKU (日付および PSTN の利用の可否別)</span><span class="sxs-lookup"><span data-stu-id="bec13-129">SKUs appearing on the CSP Price List by date and PSTN availability</span></span>
-
-<span data-ttu-id="bec13-130">**1 つの Office 365 Ent する前にします。E5 SKU の 1 つの起動**</span><span class="sxs-lookup"><span data-stu-id="bec13-130">**Prior to Single Office 365 Ent. E5 Single SKU Launch**</span></span>
-
-<span data-ttu-id="bec13-131">**プランの表示名**</span><span class="sxs-lookup"><span data-stu-id="bec13-131">**Offer Display Name**</span></span>
-
-<span data-ttu-id="bec13-132">**プラン ID**</span><span class="sxs-lookup"><span data-stu-id="bec13-132">**Offer ID**</span></span>
-
-<span data-ttu-id="bec13-133">**単価**</span><span class="sxs-lookup"><span data-stu-id="bec13-133">**Unit Price**</span></span>
+## <a name="details"></a><span data-ttu-id="58257-115">詳細</span><span class="sxs-lookup"><span data-stu-id="58257-115">Details</span></span>
 
 
-<span data-ttu-id="bec13-134">**ERP**</span><span class="sxs-lookup"><span data-stu-id="bec13-134">**ERP**</span></span>
+<span data-ttu-id="58257-116">米国、プエルトリコ、カナダでは、Skype for Business PSTN サービスは、特別な税金や法的要件の対象となっています。</span><span class="sxs-lookup"><span data-stu-id="58257-116">In the United States, Puerto Rico, and Canada, Skype for Business PSTN services are subject to special tax and regulatory requirements.</span></span> <span data-ttu-id="58257-117">Microsoft では、PSTN サービスを税込みで価格設定しています。</span><span class="sxs-lookup"><span data-stu-id="58257-117">Microsoft prices PSTN services as tax-inclusive.</span></span> <span data-ttu-id="58257-118">PSTN に適用される税金や規制は、Office 365 パートナーが新しく統合された Office 365 E5 プランを扱う場合に影響します。</span><span class="sxs-lookup"><span data-stu-id="58257-118">Unique PSTN taxes and regulations will affect Office 365 partners transacting the new unified Office 365 E5 offer.</span></span> <span data-ttu-id="58257-119">パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。</span><span class="sxs-lookup"><span data-stu-id="58257-119">If a partner marks up the price of a Microsoft PSTN Service, they may be responsible for calculating and remitting PSTN taxes and fees.</span></span>
 
-<span data-ttu-id="bec13-135">**コメント**</span><span class="sxs-lookup"><span data-stu-id="bec13-135">**Comment**</span></span>
+## <a name="price-list-and-catalog-availability"></a><span data-ttu-id="58257-120">価格表とカタログの利用</span><span class="sxs-lookup"><span data-stu-id="58257-120">Price list and catalog availability</span></span>
 
-<span data-ttu-id="bec13-136">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="bec13-136">Office 365 Enterprise E5</span></span>
 
-<span data-ttu-id="bec13-137">(PSTN 会議なし)</span><span class="sxs-lookup"><span data-stu-id="bec13-137">without PSTN Conferencing</span></span>
+<span data-ttu-id="58257-121">多くのパートナーは、自社の発注管理システムを API を使用して Microsoft Commerce Platform と統合するために、長いリード タイムが必要になります。</span><span class="sxs-lookup"><span data-stu-id="58257-121">Many CSP partners require long lead times to integrate their order management systems with the Microsoft Commerce Platform via APIs.</span></span> <span data-ttu-id="58257-122">Office 365 Enterprise E5 の単一の SKU をシステムで処理する準備が整う前に、パートナーが E5 に関する営業案件を確実にクローズできるようにするために、2017 年 7 月 1 日まで次の SKU が CSP の価格表に残ります。</span><span class="sxs-lookup"><span data-stu-id="58257-122">To ensure partners can close any E5 opportunities before their systems are ready to transact the Office 365 Enterprise E5 Single SKU, the following SKUs will remain on the CSP Price List until July 1st, 2017:</span></span> 
 
-<span data-ttu-id="bec13-138">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span><span class="sxs-lookup"><span data-stu-id="bec13-138">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span></span>
+-   <span data-ttu-id="58257-123">[Office 365 Enterprise E5 (PSTN 会議なし)]</span><span class="sxs-lookup"><span data-stu-id="58257-123">Office 365 Enterprise E5 without PSTN Conferencing</span></span>
+-   <span data-ttu-id="58257-124">[PSTN 会議アドオンの SKU (PSTN に対応した市場の場合)]</span><span class="sxs-lookup"><span data-stu-id="58257-124">PSTN Conferencing Add-on SKUs (in PSTN-enabled markets)</span></span>
 
-<span data-ttu-id="bec13-139">26.40</span><span class="sxs-lookup"><span data-stu-id="bec13-139">26.40</span></span>
+<span data-ttu-id="58257-125">価格表では、複数の Office 365 Enterprise E5 の SKU がパートナーに対して表示され、パートナーの地理的な条件によっては、それらの SKU がパートナー センターのカタログでも表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="58257-125">Partners will see multiple Office 365 Enterprise E5 SKUs on the price list and may see them in the Partner Center Catalog depending on their geography.</span></span>
 
-<span data-ttu-id="bec13-140">33.00</span><span class="sxs-lookup"><span data-stu-id="bec13-140">33.00</span></span>
+<span data-ttu-id="58257-126">10 月 5 日以降、一部の SKU ではプラン表示名が同じで、異なる小売価格が表示されるものがあります。これは、単一の SKU が、PSTN の利用の可否に関係なく、世界中で同じ価格設定になっているためです。</span><span class="sxs-lookup"><span data-stu-id="58257-126">Following the launch on October 5, some SKUs will show the same Offer Display Name, but different price points as the Single SKU will be priced the same worldwide, regardless of PSTN availability.</span></span> <span data-ttu-id="58257-127">パートナーは、パートナー センターのカタログ ページに表示されるプラン名に基づいて、価格表で単一の SKU をプロビジョニングする必要があります (下記の一覧では灰色で強調表示されており、プラン ID で特定できます)。</span><span class="sxs-lookup"><span data-stu-id="58257-127">Partners should provision the single SKU on the price list (highlighted in gray on the table below and identified by Offer ID) and by the displayed Offer Name on the Partner Center catalog page.</span></span> <span data-ttu-id="58257-128">今後数週間以内には、プラン表示名のテキストによって、2017 年 7 月 1 日にどの SKU が EOL になるかが明示されます。</span><span class="sxs-lookup"><span data-stu-id="58257-128">In the coming weeks, the Offer Display Name text will define which SKUs will be EOL on July 1st, 2017.</span></span>
 
-<span data-ttu-id="bec13-141">E5 w/o PSTN (EOL)</span><span class="sxs-lookup"><span data-stu-id="bec13-141">E5 w/o PSTN (EOL)</span></span>
+### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a><span data-ttu-id="58257-129">CSP の価格表に表示される SKU (日付および PSTN の利用の可否別)</span><span class="sxs-lookup"><span data-stu-id="58257-129">SKUs appearing on the CSP Price List by date and PSTN availability</span></span>
 
-<span data-ttu-id="bec13-142">E5 用 Skype for Business </span><span class="sxs-lookup"><span data-stu-id="bec13-142">Skype for Business PSTN</span></span>
+<span data-ttu-id="58257-130">**Office 365 Enterprise E5 の単一の SKU の開始前**</span><span class="sxs-lookup"><span data-stu-id="58257-130">**Prior to Single Office 365 Ent. E5 Single SKU Launch**</span></span>
 
-<span data-ttu-id="bec13-143">PSTN 会議 </span><span class="sxs-lookup"><span data-stu-id="bec13-143">Conferencing for E5 without PSTN</span></span>
+<span data-ttu-id="58257-131">**プラン表示名**</span><span class="sxs-lookup"><span data-stu-id="58257-131">**Offer Display Name**</span></span>
 
-<span data-ttu-id="bec13-144">(PSTN 会議の顧客なし)</span><span class="sxs-lookup"><span data-stu-id="bec13-144">Conferencing Customers</span></span>
+<span data-ttu-id="58257-132">**プラン ID**</span><span class="sxs-lookup"><span data-stu-id="58257-132">**Offer ID**</span></span>
 
-<span data-ttu-id="bec13-145">64c8233d-29d5-47c1-91b2-773226487213</span><span class="sxs-lookup"><span data-stu-id="bec13-145">64c8233d-29d5-47c1-91b2-773226487213</span></span>
+<span data-ttu-id="58257-133">**単価**</span><span class="sxs-lookup"><span data-stu-id="58257-133">**Unit Price**</span></span>
 
-<span data-ttu-id="bec13-146">2.00</span><span class="sxs-lookup"><span data-stu-id="bec13-146">2.00</span></span>
 
-<span data-ttu-id="bec13-147">2.00</span><span class="sxs-lookup"><span data-stu-id="bec13-147">2.00</span></span>
+<span data-ttu-id="58257-134">**ERP**</span><span class="sxs-lookup"><span data-stu-id="58257-134">**ERP**</span></span>
 
-<span data-ttu-id="bec13-148">PSTN アドオン</span><span class="sxs-lookup"><span data-stu-id="bec13-148">PSTN add-on</span></span>
+<span data-ttu-id="58257-135">**コメント**</span><span class="sxs-lookup"><span data-stu-id="58257-135">**Comment**</span></span>
+
+<span data-ttu-id="58257-136">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="58257-136">Office 365 Enterprise E5</span></span>
+
+<span data-ttu-id="58257-137">(PSTN 会議なし)</span><span class="sxs-lookup"><span data-stu-id="58257-137">without PSTN Conferencing</span></span>
+
+<span data-ttu-id="58257-138">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span><span class="sxs-lookup"><span data-stu-id="58257-138">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span></span>
+
+<span data-ttu-id="58257-139">26.40</span><span class="sxs-lookup"><span data-stu-id="58257-139">26.40</span></span>
+
+<span data-ttu-id="58257-140">33.00</span><span class="sxs-lookup"><span data-stu-id="58257-140">33.00</span></span>
+
+<span data-ttu-id="58257-141">E5 w/o PSTN (EOL)</span><span class="sxs-lookup"><span data-stu-id="58257-141">E5 w/o PSTN (EOL)</span></span>
+
+<span data-ttu-id="58257-142">E5 用 Skype for Business </span><span class="sxs-lookup"><span data-stu-id="58257-142">Skype for Business PSTN</span></span>
+
+<span data-ttu-id="58257-143">PSTN 会議 </span><span class="sxs-lookup"><span data-stu-id="58257-143">Conferencing for E5 without PSTN</span></span>
+
+<span data-ttu-id="58257-144">(PSTN 会議の顧客なし)</span><span class="sxs-lookup"><span data-stu-id="58257-144">Conferencing Customers</span></span>
+
+<span data-ttu-id="58257-145">64c8233d-29d5-47c1-91b2-773226487213</span><span class="sxs-lookup"><span data-stu-id="58257-145">64c8233d-29d5-47c1-91b2-773226487213</span></span>
+
+<span data-ttu-id="58257-146">2.00</span><span class="sxs-lookup"><span data-stu-id="58257-146">2.00</span></span>
+
+<span data-ttu-id="58257-147">2.00</span><span class="sxs-lookup"><span data-stu-id="58257-147">2.00</span></span>
+
+<span data-ttu-id="58257-148">PSTN アドオン</span><span class="sxs-lookup"><span data-stu-id="58257-148">PSTN add-on</span></span>
 
  
 
-<span data-ttu-id="bec13-149">**後の 1 つの Office 365 Ent リリースです。E5 SKU の 1 つの起動**</span><span class="sxs-lookup"><span data-stu-id="bec13-149">**After Release of Single Office 365 Ent. E5 Single SKU Launch**</span></span>
+<span data-ttu-id="58257-149">**Office 365 Enterprise E5 の単一の SKU の開始前**</span><span class="sxs-lookup"><span data-stu-id="58257-149">**After Release of Single Office 365 Ent. E5 Single SKU Launch**</span></span>
 
-<span data-ttu-id="bec13-150">**プランの表示名**</span><span class="sxs-lookup"><span data-stu-id="bec13-150">**Offer Display Name**</span></span>
+<span data-ttu-id="58257-150">**プラン表示名**</span><span class="sxs-lookup"><span data-stu-id="58257-150">**Offer Display Name**</span></span>
 
-<span data-ttu-id="bec13-151">**プラン ID**</span><span class="sxs-lookup"><span data-stu-id="bec13-151">**Offer ID**</span></span>
+<span data-ttu-id="58257-151">**プラン ID**</span><span class="sxs-lookup"><span data-stu-id="58257-151">**Offer ID**</span></span>
 
-<span data-ttu-id="bec13-152">**単価**</span><span class="sxs-lookup"><span data-stu-id="bec13-152">**Unit Price**</span></span>
+<span data-ttu-id="58257-152">**単価**</span><span class="sxs-lookup"><span data-stu-id="58257-152">**Unit Price**</span></span>
 
-<span data-ttu-id="bec13-153">**ERP**</span><span class="sxs-lookup"><span data-stu-id="bec13-153">**ERP**</span></span>
+<span data-ttu-id="58257-153">**ERP**</span><span class="sxs-lookup"><span data-stu-id="58257-153">**ERP**</span></span>
 
-<span data-ttu-id="bec13-154">**コメント**</span><span class="sxs-lookup"><span data-stu-id="bec13-154">**Comment**</span></span>
+<span data-ttu-id="58257-154">**コメント**</span><span class="sxs-lookup"><span data-stu-id="58257-154">**Comment**</span></span>
 
-<span data-ttu-id="bec13-155">**Office 365 Enterprise E5**</span><span class="sxs-lookup"><span data-stu-id="bec13-155">**Office 365 Enterprise E5**</span></span>
+<span data-ttu-id="58257-155">**Office 365 Enterprise E5**</span><span class="sxs-lookup"><span data-stu-id="58257-155">**Office 365 Enterprise E5**</span></span>
 
-<span data-ttu-id="bec13-156">**a044b16a-1861-4308-8086-a3a3b506fac2**</span><span class="sxs-lookup"><span data-stu-id="bec13-156">**a044b16a-1861-4308-8086-a3a3b506fac2**</span></span>
+<span data-ttu-id="58257-156">**a044b16a-1861-4308-8086-a3a3b506fac2**</span><span class="sxs-lookup"><span data-stu-id="58257-156">**a044b16a-1861-4308-8086-a3a3b506fac2**</span></span>
 
-<span data-ttu-id="bec13-157">**28.40**</span><span class="sxs-lookup"><span data-stu-id="bec13-157">**28.40**</span></span>
+<span data-ttu-id="58257-157">**28.40**</span><span class="sxs-lookup"><span data-stu-id="58257-157">**28.40**</span></span>
 
-<span data-ttu-id="bec13-158">**35.00**</span><span class="sxs-lookup"><span data-stu-id="bec13-158">**35.00**</span></span>
+<span data-ttu-id="58257-158">**35.00**</span><span class="sxs-lookup"><span data-stu-id="58257-158">**35.00**</span></span>
 
-<span data-ttu-id="bec13-159">**新しい 1 つの SKU**</span><span class="sxs-lookup"><span data-stu-id="bec13-159">**New Single SKU**</span></span>
+<span data-ttu-id="58257-159">**新しい単一の SKU**</span><span class="sxs-lookup"><span data-stu-id="58257-159">**New Single SKU**</span></span>
 
-<span data-ttu-id="bec13-160">**PSTN 会議なしの office 365 Enterprise E5**</span><span class="sxs-lookup"><span data-stu-id="bec13-160">**Office 365 Enterprise E5 without PSTN Conferencing**</span></span>
+<span data-ttu-id="58257-160">**Office 365 Enterprise E5 (PSTN 会議なし)**</span><span class="sxs-lookup"><span data-stu-id="58257-160">**Office 365 Enterprise E5 without PSTN Conferencing**</span></span>
 
-<span data-ttu-id="bec13-161">**02c07b64-2cd3-4667-b014-561192fc5d1a**</span><span class="sxs-lookup"><span data-stu-id="bec13-161">**02c07b64-2cd3-4667-b014-561192fc5d1a**</span></span>
+<span data-ttu-id="58257-161">**02c07b64-2cd3-4667-b014-561192fc5d1a**</span><span class="sxs-lookup"><span data-stu-id="58257-161">**02c07b64-2cd3-4667-b014-561192fc5d1a**</span></span>
 
-<span data-ttu-id="bec13-162">**28.40**</span><span class="sxs-lookup"><span data-stu-id="bec13-162">**28.40**</span></span>
+<span data-ttu-id="58257-162">**28.40**</span><span class="sxs-lookup"><span data-stu-id="58257-162">**28.40**</span></span>
 
-<span data-ttu-id="bec13-163">**35.00**</span><span class="sxs-lookup"><span data-stu-id="bec13-163">**35.00**</span></span>
+<span data-ttu-id="58257-163">**35.00**</span><span class="sxs-lookup"><span data-stu-id="58257-163">**35.00**</span></span>
 
-<span data-ttu-id="bec13-164">**PSTN 非メンバーの新しい 1 つの SKU**</span><span class="sxs-lookup"><span data-stu-id="bec13-164">**New Single SKU for non-PSTN members**</span></span>
+<span data-ttu-id="58257-164">**新しい単一の SKU (非 PSTN メンバー向け)**</span><span class="sxs-lookup"><span data-stu-id="58257-164">**New Single SKU for non-PSTN members**</span></span>
 
-<span data-ttu-id="bec13-165">[Office 365 Enterprise E5 (PSTN 会議なし)]</span><span class="sxs-lookup"><span data-stu-id="bec13-165">Office 365 Enterprise E5 without PSTN Conferencing</span></span>
+<span data-ttu-id="58257-165">[Office 365 Enterprise E5 (PSTN 会議なし)]</span><span class="sxs-lookup"><span data-stu-id="58257-165">Office 365 Enterprise E5 without PSTN Conferencing</span></span>
 
-<span data-ttu-id="bec13-166">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span><span class="sxs-lookup"><span data-stu-id="bec13-166">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span></span>
+<span data-ttu-id="58257-166">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span><span class="sxs-lookup"><span data-stu-id="58257-166">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span></span>
 
-<span data-ttu-id="bec13-167">26.40</span><span class="sxs-lookup"><span data-stu-id="bec13-167">26.40</span></span>
+<span data-ttu-id="58257-167">26.40</span><span class="sxs-lookup"><span data-stu-id="58257-167">26.40</span></span>
 
-<span data-ttu-id="bec13-168">33.00</span><span class="sxs-lookup"><span data-stu-id="bec13-168">33.00</span></span>
+<span data-ttu-id="58257-168">33.00</span><span class="sxs-lookup"><span data-stu-id="58257-168">33.00</span></span>
 
-<span data-ttu-id="bec13-169">E5 w/o PSTN (EOL)</span><span class="sxs-lookup"><span data-stu-id="bec13-169">E5 w/o PSTN (EOL)</span></span>
+<span data-ttu-id="58257-169">E5 w/o PSTN (EOL)</span><span class="sxs-lookup"><span data-stu-id="58257-169">E5 w/o PSTN (EOL)</span></span>
 
-<span data-ttu-id="bec13-170">E5 用 Skype for Business PSTN 会議 (PSTN 会議の顧客なし)</span><span class="sxs-lookup"><span data-stu-id="bec13-170">Skype for Business PSTN Conferencing for E5 without PSTN Conferencing Customers</span></span>
+<span data-ttu-id="58257-170">E5 用 Skype for Business PSTN 会議 (PSTN 会議の顧客なし)</span><span class="sxs-lookup"><span data-stu-id="58257-170">Skype for Business PSTN Conferencing for E5 without PSTN Conferencing Customers</span></span>
 
-<span data-ttu-id="bec13-171">64c8233d-29d5-47c1-91b2-773226487213</span><span class="sxs-lookup"><span data-stu-id="bec13-171">64c8233d-29d5-47c1-91b2-773226487213</span></span>
+<span data-ttu-id="58257-171">64c8233d-29d5-47c1-91b2-773226487213</span><span class="sxs-lookup"><span data-stu-id="58257-171">64c8233d-29d5-47c1-91b2-773226487213</span></span>
 
-<span data-ttu-id="bec13-172">2.00</span><span class="sxs-lookup"><span data-stu-id="bec13-172">2.00</span></span>
+<span data-ttu-id="58257-172">2.00</span><span class="sxs-lookup"><span data-stu-id="58257-172">2.00</span></span>
 
-<span data-ttu-id="bec13-173">2.00</span><span class="sxs-lookup"><span data-stu-id="bec13-173">2.00</span></span>
+<span data-ttu-id="58257-173">2.00</span><span class="sxs-lookup"><span data-stu-id="58257-173">2.00</span></span>
 
-<span data-ttu-id="bec13-174">PSTN アドオン</span><span class="sxs-lookup"><span data-stu-id="bec13-174">PSTN add-on</span></span>
+<span data-ttu-id="58257-174">PSTN アドオン</span><span class="sxs-lookup"><span data-stu-id="58257-174">PSTN add-on</span></span>
 
  
 
-## <a href="" id="invoices-and-partner-reconciliation-files-"></a><span data-ttu-id="bec13-175">請求書と調整ファイルのパートナー</span><span class="sxs-lookup"><span data-stu-id="bec13-175">Invoices and Partner Reconciliation Files</span></span>
+## <a href="" id="invoices-and-partner-reconciliation-files-"></a><span data-ttu-id="58257-175">請求書とパートナー照合ファイル</span><span class="sxs-lookup"><span data-stu-id="58257-175">Invoices and Partner Reconciliation Files</span></span>
 
 
-<span data-ttu-id="bec13-176">CSP 照合ファイルと CSP 請求書では、Office 365 Enterprise E5 の単一の SKU の PSTN コンポーネントと PSTN 以外のコンポーネントについて個別の行項目が提示されます。</span><span class="sxs-lookup"><span data-stu-id="bec13-176">The CSP reconciliation file and CSP Invoices provide separate line-items for the PSTN and non-PSTN components of the Office 365 Enterprise E5 Single SKU.</span></span> <span data-ttu-id="bec13-177">2 つの行項目では名前と ID が同じですが、各行項目の単価は異なります ($28.40 と $2.00 など)。</span><span class="sxs-lookup"><span data-stu-id="bec13-177">The two line-items have identical names and identical IDs, but each line-item has a unique unit price (example: $28.40 and $2.00).</span></span> <span data-ttu-id="bec13-178">これにより、Office 365 プランの Skype for Business PSTN 会議コンポーネントが区別され、税金を正しく適用することができます。</span><span class="sxs-lookup"><span data-stu-id="bec13-178">This separates the Skype for Business PSTN Conferencing component of the Office 365 offer, so you can correctly apply taxes.</span></span>
+<span data-ttu-id="58257-176">CSP 照合ファイルと CSP 請求書では、Office 365 Enterprise E5 の単一の SKU の PSTN コンポーネントと PSTN 以外のコンポーネントについて個別の行項目が提示されます。</span><span class="sxs-lookup"><span data-stu-id="58257-176">The CSP reconciliation file and CSP Invoices provide separate line-items for the PSTN and non-PSTN components of the Office 365 Enterprise E5 Single SKU.</span></span> <span data-ttu-id="58257-177">2 つの行項目では名前と ID が同じですが、各行項目の単価は異なります ($28.40 と $2.00 など)。</span><span class="sxs-lookup"><span data-stu-id="58257-177">The two line-items have identical names and identical IDs, but each line-item has a unique unit price (example: $28.40 and $2.00).</span></span> <span data-ttu-id="58257-178">これにより、Office 365 プランの Skype for Business PSTN 会議コンポーネントが区別され、税金を正しく適用することができます。</span><span class="sxs-lookup"><span data-stu-id="58257-178">This separates the Skype for Business PSTN Conferencing component of the Office 365 offer, so you can correctly apply taxes.</span></span>
 
-<span data-ttu-id="bec13-179">パートナー照合ファイルの例:</span><span class="sxs-lookup"><span data-stu-id="bec13-179">A Partner Reconciliation example:</span></span>
+<span data-ttu-id="58257-179">パートナー照合ファイルの例:</span><span class="sxs-lookup"><span data-stu-id="58257-179">A Partner Reconciliation example:</span></span>
 
 <table>
 <colgroup>
@@ -168,50 +168,50 @@ ms.locfileid: "62134332"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><span data-ttu-id="bec13-180"><strong>Durable_offer_ID</strong></span><span class="sxs-lookup"><span data-stu-id="bec13-180"><strong>Durable_offer_ID</strong></span></span></td>
-<td><span data-ttu-id="bec13-181"><strong>Offer_Name</strong></span><span class="sxs-lookup"><span data-stu-id="bec13-181"><strong>Offer_Name</strong></span></span></td>
-<td><span data-ttu-id="bec13-182"><strong>Subscription_Start_Date</strong></span><span class="sxs-lookup"><span data-stu-id="bec13-182"><strong>Subscription_Start_Date</strong></span></span></td>
-<td><span data-ttu-id="bec13-183"><strong>Subscription_End_Date</strong></span><span class="sxs-lookup"><span data-stu-id="bec13-183"><strong>Subscription_End_Date</strong></span></span></td>
-<td><span data-ttu-id="bec13-184"><strong>Charge_Start_Date</strong></span><span class="sxs-lookup"><span data-stu-id="bec13-184"><strong>Charge_Start_Date</strong></span></span></td>
-<td><span data-ttu-id="bec13-185"><strong>Charge_End_Date</strong></span><span class="sxs-lookup"><span data-stu-id="bec13-185"><strong>Charge_End_Date</strong></span></span></td>
-<td><span data-ttu-id="bec13-186"><strong>Charge_Type</strong></span><span class="sxs-lookup"><span data-stu-id="bec13-186"><strong>Charge_Type</strong></span></span></td>
-<td><span data-ttu-id="bec13-187"><strong>Unit_Price</strong></span><span class="sxs-lookup"><span data-stu-id="bec13-187"><strong>Unit_Price</strong></span></span></td>
+<td><span data-ttu-id="58257-180"><strong>Durable_offer_ID</strong></span><span class="sxs-lookup"><span data-stu-id="58257-180"><strong>Durable_offer_ID</strong></span></span></td>
+<td><span data-ttu-id="58257-181"><strong>Offer_Name</strong></span><span class="sxs-lookup"><span data-stu-id="58257-181"><strong>Offer_Name</strong></span></span></td>
+<td><span data-ttu-id="58257-182"><strong>Subscription_Start_Date</strong></span><span class="sxs-lookup"><span data-stu-id="58257-182"><strong>Subscription_Start_Date</strong></span></span></td>
+<td><span data-ttu-id="58257-183"><strong>Subscription_End_Date</strong></span><span class="sxs-lookup"><span data-stu-id="58257-183"><strong>Subscription_End_Date</strong></span></span></td>
+<td><span data-ttu-id="58257-184"><strong>Charge_Start_Date</strong></span><span class="sxs-lookup"><span data-stu-id="58257-184"><strong>Charge_Start_Date</strong></span></span></td>
+<td><span data-ttu-id="58257-185"><strong>Charge_End_Date</strong></span><span class="sxs-lookup"><span data-stu-id="58257-185"><strong>Charge_End_Date</strong></span></span></td>
+<td><span data-ttu-id="58257-186"><strong>Charge_Type</strong></span><span class="sxs-lookup"><span data-stu-id="58257-186"><strong>Charge_Type</strong></span></span></td>
+<td><span data-ttu-id="58257-187"><strong>Unit_Price</strong></span><span class="sxs-lookup"><span data-stu-id="58257-187"><strong>Unit_Price</strong></span></span></td>
 </tr>
 <tr class="even">
-<td><p><span data-ttu-id="bec13-188">a044b16a-1861-4308-8086-a3a3b506fac2</span><span class="sxs-lookup"><span data-stu-id="bec13-188">a044b16a-1861-4308-8086-a3a3b506fac2</span></span></p></td>
-<td><p><span data-ttu-id="bec13-189">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="bec13-189">Office 365 Enterprise E5</span></span></p></td>
-<td><p><span data-ttu-id="bec13-190">8/10/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="bec13-190">8/10/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="bec13-191">8/11/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="bec13-191">8/11/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="bec13-192">8/11/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="bec13-192">8/11/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="bec13-193">9/10/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="bec13-193">9/10/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="bec13-194">Cycle fee</span><span class="sxs-lookup"><span data-stu-id="bec13-194">Cycle fee</span></span></p></td>
-<td><p><span data-ttu-id="bec13-195">28.40</span><span class="sxs-lookup"><span data-stu-id="bec13-195">28.40</span></span></p></td>
+<td><p><span data-ttu-id="58257-188">a044b16a-1861-4308-8086-a3a3b506fac2</span><span class="sxs-lookup"><span data-stu-id="58257-188">a044b16a-1861-4308-8086-a3a3b506fac2</span></span></p></td>
+<td><p><span data-ttu-id="58257-189">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="58257-189">Office 365 Enterprise E5</span></span></p></td>
+<td><p><span data-ttu-id="58257-190">8/10/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="58257-190">8/10/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="58257-191">8/11/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="58257-191">8/11/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="58257-192">8/11/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="58257-192">8/11/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="58257-193">9/10/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="58257-193">9/10/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="58257-194">Cycle fee</span><span class="sxs-lookup"><span data-stu-id="58257-194">Cycle fee</span></span></p></td>
+<td><p><span data-ttu-id="58257-195">28.40</span><span class="sxs-lookup"><span data-stu-id="58257-195">28.40</span></span></p></td>
 </tr>
 <tr class="odd">
-<td><p><span data-ttu-id="bec13-196">a044b16a-1861-4308-8086-a3a3b506fac2</span><span class="sxs-lookup"><span data-stu-id="bec13-196">a044b16a-1861-4308-8086-a3a3b506fac2</span></span></p></td>
-<td><p><span data-ttu-id="bec13-197">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="bec13-197">Office 365 Enterprise E5</span></span></p></td>
-<td><p><span data-ttu-id="bec13-198">8/10/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="bec13-198">8/10/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="bec13-199">8/11/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="bec13-199">8/11/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="bec13-200">8/11/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="bec13-200">8/11/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="bec13-201">9/10/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="bec13-201">9/10/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="bec13-202">Cycle fee</span><span class="sxs-lookup"><span data-stu-id="bec13-202">Cycle fee</span></span></p></td>
-<td><p><span data-ttu-id="bec13-203">2.00</span><span class="sxs-lookup"><span data-stu-id="bec13-203">2.00</span></span></p></td>
+<td><p><span data-ttu-id="58257-196">a044b16a-1861-4308-8086-a3a3b506fac2</span><span class="sxs-lookup"><span data-stu-id="58257-196">a044b16a-1861-4308-8086-a3a3b506fac2</span></span></p></td>
+<td><p><span data-ttu-id="58257-197">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="58257-197">Office 365 Enterprise E5</span></span></p></td>
+<td><p><span data-ttu-id="58257-198">8/10/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="58257-198">8/10/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="58257-199">8/11/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="58257-199">8/11/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="58257-200">8/11/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="58257-200">8/11/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="58257-201">9/10/2016 0:00</span><span class="sxs-lookup"><span data-stu-id="58257-201">9/10/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="58257-202">Cycle fee</span><span class="sxs-lookup"><span data-stu-id="58257-202">Cycle fee</span></span></p></td>
+<td><p><span data-ttu-id="58257-203">2.00</span><span class="sxs-lookup"><span data-stu-id="58257-203">2.00</span></span></p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a name="additional-resources"></a><span data-ttu-id="bec13-204">その他のリソース</span><span class="sxs-lookup"><span data-stu-id="bec13-204">Additional Resources</span></span>
+## <a name="additional-resources"></a><span data-ttu-id="58257-204">その他のリソース</span><span class="sxs-lookup"><span data-stu-id="58257-204">Additional Resources</span></span>
 
 
-<span data-ttu-id="bec13-205">詳しくは、[Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) のサイトにアクセスしてください。</span><span class="sxs-lookup"><span data-stu-id="bec13-205">For more details, visit the [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) site.</span></span> <span data-ttu-id="bec13-206">Office 365 Enterprise E5 固有のリソースは、[Office 365 E5 ページ](https://drumbeat.office.com/partner/pages/e5.aspx)の **[Market and Sell]** (マーケティングと販売) タブにあります。</span><span class="sxs-lookup"><span data-stu-id="bec13-206">Office 365 Enterprise E5-specific resources are located on the [Office 365 E5 page](https://drumbeat.office.com/partner/pages/e5.aspx) under the **Market and Sell** tab:</span></span>
+<span data-ttu-id="58257-205">詳しくは、[Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) のサイトにアクセスしてください。</span><span class="sxs-lookup"><span data-stu-id="58257-205">For more details, visit the [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) site.</span></span> <span data-ttu-id="58257-206">Office 365 Enterprise E5 固有のリソースは、[Office 365 E5 ページ](https://drumbeat.office.com/partner/pages/e5.aspx)の **[Market and Sell]** (マーケティングと販売) タブにあります。</span><span class="sxs-lookup"><span data-stu-id="58257-206">Office 365 Enterprise E5-specific resources are located on the [Office 365 E5 page](https://drumbeat.office.com/partner/pages/e5.aspx) under the **Market and Sell** tab:</span></span>
 
--   <span data-ttu-id="bec13-207">**Office 365 Enterprise E5 ライセンス**</span><span class="sxs-lookup"><span data-stu-id="bec13-207">**Office 365 Enterprise E5 Licensing**</span></span>
+-   <span data-ttu-id="58257-207">**Office 365 Enterprise E5 のライセンス**</span><span class="sxs-lookup"><span data-stu-id="58257-207">**Office 365 Enterprise E5 Licensing**</span></span>
 
--   <span data-ttu-id="bec13-208">**Skype for Business PSTN サービスのライセンスの概要**</span><span class="sxs-lookup"><span data-stu-id="bec13-208">**Skype for Business PSTN Services Licensing Overview**</span></span>
+-   <span data-ttu-id="58257-208">**Skype for Business PSTN サービスのライセンスの概要**</span><span class="sxs-lookup"><span data-stu-id="58257-208">**Skype for Business PSTN Services Licensing Overview**</span></span>
 
--   <span data-ttu-id="bec13-209">**Office 365 E5 と Skype for Business のライセンスに関する FAQ**</span><span class="sxs-lookup"><span data-stu-id="bec13-209">**Office 365 E5 and Skype for Business Licensing FAQ**</span></span>
+-   <span data-ttu-id="58257-209">**Office 365 E5 と Skype for Business のライセンスに関する FAQ**</span><span class="sxs-lookup"><span data-stu-id="58257-209">**Office 365 E5 and Skype for Business Licensing FAQ**</span></span>
 
  
 

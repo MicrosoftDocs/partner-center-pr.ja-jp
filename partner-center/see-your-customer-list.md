@@ -14,62 +14,62 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62133992"
 ---
-# <a name="manage-your-customer-list"></a><span data-ttu-id="e76e8-103">顧客一覧を管理する</span><span class="sxs-lookup"><span data-stu-id="e76e8-103">Manage your customer list</span></span>
+# <a name="manage-your-customer-list"></a><span data-ttu-id="73372-103">顧客一覧を管理する</span><span class="sxs-lookup"><span data-stu-id="73372-103">Manage your customer list</span></span>
 
-<span data-ttu-id="e76e8-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="e76e8-104">**Applies to**</span></span>
+<span data-ttu-id="73372-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="73372-104">**Applies to**</span></span>
 
--  <span data-ttu-id="e76e8-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="e76e8-105">Partner Center</span></span>
--  <span data-ttu-id="e76e8-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="e76e8-106">Partner Center for Microsoft Cloud for US Government</span></span>
-
-
-<span data-ttu-id="e76e8-107">顧客の記録は、パートナー センターでの最も重要な情報資産の 1 つです。</span><span class="sxs-lookup"><span data-stu-id="e76e8-107">Customer records are among your most important information assets in Partner Center.</span></span> <span data-ttu-id="e76e8-108">顧客アカウントのデータベースを検索したり、顧客データベース全体またはサブセットを Excel 互換のコンマ区切り値ファイル形式 (.csv) でエクスポートしたりすることができます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-108">You can search your database of customer accounts, export the entire customer database, or export a subset, to an Excel-compatible comma-separated value file format (.csv).</span></span> <span data-ttu-id="e76e8-109">また、顧客のサブスクリプション情報を .csv ファイルにエクスポートすることもできます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-109">You can also export a customer's subscriptions information to a .csv file.</span></span>
-
-<span data-ttu-id="e76e8-110">アクティビティ ログでは、顧客の取引や管理操作に関するエクスポート可能なデータも提供されます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-110">Activity logs also provide exportable data on transactions and management actions for customers.</span></span> <span data-ttu-id="e76e8-111">詳しくは、「[顧客のアクティビティ ログを表示する](activity-logs.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="e76e8-111">For more information, see [View customer activity logs](activity-logs.md).</span></span>
+-  <span data-ttu-id="73372-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="73372-105">Partner Center</span></span>
+-  <span data-ttu-id="73372-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="73372-106">Partner Center for Microsoft Cloud for US Government</span></span>
 
 
-## <a name="search-for-a-customer"></a><span data-ttu-id="e76e8-112">顧客を検索する</span><span class="sxs-lookup"><span data-stu-id="e76e8-112">Search for a customer</span></span>
+<span data-ttu-id="73372-107">顧客の記録は、パートナー センターでの最も重要な情報資産の 1 つです。</span><span class="sxs-lookup"><span data-stu-id="73372-107">Customer records are among your most important information assets in Partner Center.</span></span> <span data-ttu-id="73372-108">顧客アカウントのデータベースを検索したり、顧客データベース全体またはサブセットを Excel 互換のコンマ区切り値ファイル形式 (.csv) でエクスポートしたりすることができます。</span><span class="sxs-lookup"><span data-stu-id="73372-108">You can search your database of customer accounts, export the entire customer database, or export a subset, to an Excel-compatible comma-separated value file format (.csv).</span></span> <span data-ttu-id="73372-109">また、顧客のサブスクリプション情報を .csv ファイルにエクスポートすることもできます。</span><span class="sxs-lookup"><span data-stu-id="73372-109">You can also export a customer's subscriptions information to a .csv file.</span></span>
 
-1.  <span data-ttu-id="e76e8-113">**パートナー センター**メニューの **顧客**します。</span><span class="sxs-lookup"><span data-stu-id="e76e8-113">From the **Partner Center** menu, select **Customers**.</span></span>
-2.  <span data-ttu-id="e76e8-114">顧客を検索するには、検索ボックスに顧客の名前またはドメイン名を入力します。</span><span class="sxs-lookup"><span data-stu-id="e76e8-114">To search for a customer, enter the customer name or domain name in the search box.</span></span>
-3.  <span data-ttu-id="e76e8-115">顧客行の末尾にある**下向き矢印**を選ぶと、顧客の Microsoft ID、および関連するサブスクリプションとサービスへのクイック リンクが表示されます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-115">Select the **down arrow** at the end of a customer row to see their Microsoft ID, and their associated subscriptions and services quick links.</span></span>
-
-## <a name="update-a-customers-company-name"></a><span data-ttu-id="e76e8-116">顧客の会社名の更新</span><span class="sxs-lookup"><span data-stu-id="e76e8-116">Update a customer's company name</span></span>
-
-<span data-ttu-id="e76e8-117">**パートナー センター**メニューの **顧客**します。</span><span class="sxs-lookup"><span data-stu-id="e76e8-117">From the **Partner Center** menu, select **Customers**.</span></span>
-2.  <span data-ttu-id="e76e8-118">顧客を検索するには、検索ボックスに顧客の名前またはドメイン名を入力します。</span><span class="sxs-lookup"><span data-stu-id="e76e8-118">To search for a customer, enter the customer name or domain name in the search box.</span></span>
-3.  <span data-ttu-id="e76e8-119">顧客行の末尾にある**下向き矢印**を選ぶと、顧客の Microsoft ID、および関連するサブスクリプションとサービスへのクイック リンクが表示されます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-119">Select the **down arrow** at the end of a customer row to see their Microsoft ID, and their associated subscriptions and services quick links.</span></span>
-4.  <span data-ttu-id="e76e8-120">顧客の **[請求先]** 情報で、会社名を更新します。</span><span class="sxs-lookup"><span data-stu-id="e76e8-120">Under the customer's **Bill-to** information, update the company name.</span></span> <span data-ttu-id="e76e8-121">新しい値を保存すると、顧客一覧に反映されます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-121">When you save the new value, it will be reflected in the customer list.</span></span> <span data-ttu-id="e76e8-122">これで変更されるのは、請求先の会社名と顧客一覧の値のみです。</span><span class="sxs-lookup"><span data-stu-id="e76e8-122">This will only change the Bill-to company name and the customer list value.</span></span> <span data-ttu-id="e76e8-123">それ以外の場所に反映されることはありません。</span><span class="sxs-lookup"><span data-stu-id="e76e8-123">It will not be reflected anywhere else.</span></span>
-
-## <a name="export-your-customer-list"></a><span data-ttu-id="e76e8-124">顧客一覧をエクスポートする</span><span class="sxs-lookup"><span data-stu-id="e76e8-124">Export your customer list</span></span>
-
-1.  <span data-ttu-id="e76e8-125">**パートナー センター**メニューの **顧客**します。</span><span class="sxs-lookup"><span data-stu-id="e76e8-125">From the **Partner Center** menu, select **Customers**.</span></span>
-2.  <span data-ttu-id="e76e8-126">**[顧客のエクスポート]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-126">Select **Export customers**.</span></span>
-
-    <span data-ttu-id="e76e8-127">パートナー センターによって、顧客一覧全体が .csv ファイルに変換され、そのファイルがお使いのコンピューターにある既定のダウンロード フォルダーにアップロードされます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-127">Partner Center converts your complete customer list into a .csv file and uploads it to the default download folder on your computer.</span></span> <span data-ttu-id="e76e8-128">顧客データのサブセットをエクスポートすることもできます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-128">You can also export subsets of customer data.</span></span> <span data-ttu-id="e76e8-129">データ列には、次の情報が含まれます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-129">Data columns include the following:</span></span>
-
-    -   <span data-ttu-id="e76e8-130">**Microsoft ID**</span><span class="sxs-lookup"><span data-stu-id="e76e8-130">**Microsoft ID**;</span></span>
-    -   <span data-ttu-id="e76e8-131">**会社名**</span><span class="sxs-lookup"><span data-stu-id="e76e8-131">**Company name**;</span></span>
-    -   <span data-ttu-id="e76e8-132">**プライマリ ドメイン名**</span><span class="sxs-lookup"><span data-stu-id="e76e8-132">**Primary domain name**;</span></span>
-    -   <span data-ttu-id="e76e8-133">**関係** - 一覧に示されている各顧客とパートナーとの取引関係。</span><span class="sxs-lookup"><span data-stu-id="e76e8-133">**Relationship**—the Partner's business relationship to each listed customer.</span></span>
-
-    <span data-ttu-id="e76e8-134">既定では、パートナー センターによって、長さに関係なく顧客一覧全体がエクスポートされます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-134">By default, Partner Center exports the entire customer list, regardless of length.</span></span> <span data-ttu-id="e76e8-135">会社名やドメインで顧客一覧を検索し、データのサブセットをエクスポートすることもできます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-135">You can also search the customer list by company name or domain and export that subset of data.</span></span>
-
-3.  <span data-ttu-id="e76e8-136">お客様が間接プロバイダーである場合は、顧客一覧を間接リセラーでフィルター処理できます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-136">If you are an indirect provider, you can filter your customer list by indirect reseller.</span></span> <span data-ttu-id="e76e8-137">一覧から **[間接リセラーで絞り込む]** を選び、リセラーを選びます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-137">Select **Filter by indirect reseller** from the list and then choose a reseller.</span></span>
+<span data-ttu-id="73372-110">アクティビティ ログでは、顧客の取引や管理操作に関するエクスポート可能なデータも提供されます。</span><span class="sxs-lookup"><span data-stu-id="73372-110">Activity logs also provide exportable data on transactions and management actions for customers.</span></span> <span data-ttu-id="73372-111">詳しくは、「[顧客のアクティビティ ログを表示する](activity-logs.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="73372-111">For more information, see [View customer activity logs](activity-logs.md).</span></span>
 
 
-## <a name="export-customer-subscription-information"></a><span data-ttu-id="e76e8-138">顧客のサブスクリプション情報のエクスポート</span><span class="sxs-lookup"><span data-stu-id="e76e8-138">Export customer subscription information</span></span>
+## <a name="search-for-a-customer"></a><span data-ttu-id="73372-112">顧客を検索する</span><span class="sxs-lookup"><span data-stu-id="73372-112">Search for a customer</span></span>
 
-1.  <span data-ttu-id="e76e8-139">**パートナー センター**メニューの **顧客**します。</span><span class="sxs-lookup"><span data-stu-id="e76e8-139">From the **Partner Center** menu, select **Customers**.</span></span>
-2.  <span data-ttu-id="e76e8-140">顧客の **[会社名]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-140">Select the **Company name** for any customer.</span></span> <span data-ttu-id="e76e8-141">顧客の **[サブスクリプション]** ページが開き、製品サブスクリプションの完全な一覧が表示されます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-141">The customer's **Subscriptions** page opens, showing their complete list of product subscriptions.</span></span>
-3.  <span data-ttu-id="e76e8-142">**[サブスクリプションのエクスポート]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-142">Select **Export subscriptions**.</span></span> <span data-ttu-id="e76e8-143">パートナー センターによって、顧客のサブスクリプション データが .csv ファイルに変換され、お使いのコンピューター上の既定のダウンロード フォルダーにアップロードされます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-143">Partner Center converts the customer's subscription data into a .csv file and uploads it to the default download folder on your computer.</span></span> <span data-ttu-id="e76e8-144">データ列には、次の情報が含まれます。</span><span class="sxs-lookup"><span data-stu-id="e76e8-144">Data columns include the following:</span></span>
-    -   <span data-ttu-id="e76e8-145">**サブスクリプション ID**</span><span class="sxs-lookup"><span data-stu-id="e76e8-145">**Subscription ID**;</span></span>
-    -   <span data-ttu-id="e76e8-146">**サブスクリプション** - サブスクリプションの製品名</span><span class="sxs-lookup"><span data-stu-id="e76e8-146">**Subscription**—the product name for the subscription;</span></span>
-    -   <span data-ttu-id="e76e8-147">**数量** - 購入済みのライセンスの数</span><span class="sxs-lookup"><span data-stu-id="e76e8-147">**Quantity**—number of purchased licenses;</span></span>
-    -   <span data-ttu-id="e76e8-148">**状態**</span><span class="sxs-lookup"><span data-stu-id="e76e8-148">**Status**;</span></span>
-    -   <span data-ttu-id="e76e8-149">**リセラー** - サブスクリプションを所有し管理するリセラーの ID</span><span class="sxs-lookup"><span data-stu-id="e76e8-149">**Reseller**—the ID of the reseller that owns and manages the subscription.</span></span>
+1.  <span data-ttu-id="73372-113">**パートナー センター** メニューで、**[顧客]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="73372-113">From the **Partner Center** menu, select **Customers**.</span></span>
+2.  <span data-ttu-id="73372-114">顧客を検索するには、検索ボックスに顧客の名前またはドメイン名を入力します。</span><span class="sxs-lookup"><span data-stu-id="73372-114">To search for a customer, enter the customer name or domain name in the search box.</span></span>
+3.  <span data-ttu-id="73372-115">顧客行の末尾にある**下向き矢印**を選ぶと、顧客の Microsoft ID、および関連するサブスクリプションとサービスへのクイック リンクが表示されます。</span><span class="sxs-lookup"><span data-stu-id="73372-115">Select the **down arrow** at the end of a customer row to see their Microsoft ID, and their associated subscriptions and services quick links.</span></span>
+
+## <a name="update-a-customers-company-name"></a><span data-ttu-id="73372-116">顧客の会社名の更新</span><span class="sxs-lookup"><span data-stu-id="73372-116">Update a customer's company name</span></span>
+
+<span data-ttu-id="73372-117">**パートナー センター** メニューで、**[顧客]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="73372-117">From the **Partner Center** menu, select **Customers**.</span></span>
+2.  <span data-ttu-id="73372-118">顧客を検索するには、検索ボックスに顧客の名前またはドメイン名を入力します。</span><span class="sxs-lookup"><span data-stu-id="73372-118">To search for a customer, enter the customer name or domain name in the search box.</span></span>
+3.  <span data-ttu-id="73372-119">顧客行の末尾にある**下向き矢印**を選ぶと、顧客の Microsoft ID、および関連するサブスクリプションとサービスへのクイック リンクが表示されます。</span><span class="sxs-lookup"><span data-stu-id="73372-119">Select the **down arrow** at the end of a customer row to see their Microsoft ID, and their associated subscriptions and services quick links.</span></span>
+4.  <span data-ttu-id="73372-120">顧客の **[請求先]** 情報で、会社名を更新します。</span><span class="sxs-lookup"><span data-stu-id="73372-120">Under the customer's **Bill-to** information, update the company name.</span></span> <span data-ttu-id="73372-121">新しい値を保存すると、顧客一覧に反映されます。</span><span class="sxs-lookup"><span data-stu-id="73372-121">When you save the new value, it will be reflected in the customer list.</span></span> <span data-ttu-id="73372-122">これで変更されるのは、請求先の会社名と顧客一覧の値のみです。</span><span class="sxs-lookup"><span data-stu-id="73372-122">This will only change the Bill-to company name and the customer list value.</span></span> <span data-ttu-id="73372-123">それ以外の場所に反映されることはありません。</span><span class="sxs-lookup"><span data-stu-id="73372-123">It will not be reflected anywhere else.</span></span>
+
+## <a name="export-your-customer-list"></a><span data-ttu-id="73372-124">顧客一覧をエクスポートする</span><span class="sxs-lookup"><span data-stu-id="73372-124">Export your customer list</span></span>
+
+1.  <span data-ttu-id="73372-125">**パートナー センター** メニューで、**[顧客]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="73372-125">From the **Partner Center** menu, select **Customers**.</span></span>
+2.  <span data-ttu-id="73372-126">**[顧客のエクスポート]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="73372-126">Select **Export customers**.</span></span>
+
+    <span data-ttu-id="73372-127">パートナー センターによって、顧客一覧全体が .csv ファイルに変換され、そのファイルがお使いのコンピューターにある既定のダウンロード フォルダーにアップロードされます。</span><span class="sxs-lookup"><span data-stu-id="73372-127">Partner Center converts your complete customer list into a .csv file and uploads it to the default download folder on your computer.</span></span> <span data-ttu-id="73372-128">顧客データのサブセットをエクスポートすることもできます。</span><span class="sxs-lookup"><span data-stu-id="73372-128">You can also export subsets of customer data.</span></span> <span data-ttu-id="73372-129">データ列には、次の情報が含まれます。</span><span class="sxs-lookup"><span data-stu-id="73372-129">Data columns include the following:</span></span>
+
+    -   <span data-ttu-id="73372-130">**Microsoft ID**</span><span class="sxs-lookup"><span data-stu-id="73372-130">**Microsoft ID**;</span></span>
+    -   <span data-ttu-id="73372-131">**会社名**</span><span class="sxs-lookup"><span data-stu-id="73372-131">**Company name**;</span></span>
+    -   <span data-ttu-id="73372-132">**プライマリ ドメイン名**</span><span class="sxs-lookup"><span data-stu-id="73372-132">**Primary domain name**;</span></span>
+    -   <span data-ttu-id="73372-133">**関係** - 一覧に示されている各顧客とパートナーとの取引関係。</span><span class="sxs-lookup"><span data-stu-id="73372-133">**Relationship**—the Partner's business relationship to each listed customer.</span></span>
+
+    <span data-ttu-id="73372-134">既定では、パートナー センターによって、長さに関係なく顧客一覧全体がエクスポートされます。</span><span class="sxs-lookup"><span data-stu-id="73372-134">By default, Partner Center exports the entire customer list, regardless of length.</span></span> <span data-ttu-id="73372-135">会社名やドメインで顧客一覧を検索し、データのサブセットをエクスポートすることもできます。</span><span class="sxs-lookup"><span data-stu-id="73372-135">You can also search the customer list by company name or domain and export that subset of data.</span></span>
+
+3.  <span data-ttu-id="73372-136">お客様が間接プロバイダーである場合は、顧客一覧を間接リセラーでフィルター処理できます。</span><span class="sxs-lookup"><span data-stu-id="73372-136">If you are an indirect provider, you can filter your customer list by indirect reseller.</span></span> <span data-ttu-id="73372-137">一覧から **[間接リセラーで絞り込む]** を選び、リセラーを選びます。</span><span class="sxs-lookup"><span data-stu-id="73372-137">Select **Filter by indirect reseller** from the list and then choose a reseller.</span></span>
+
+
+## <a name="export-customer-subscription-information"></a><span data-ttu-id="73372-138">顧客のサブスクリプション情報のエクスポート</span><span class="sxs-lookup"><span data-stu-id="73372-138">Export customer subscription information</span></span>
+
+1.  <span data-ttu-id="73372-139">**パートナー センター** メニューで、**[顧客]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="73372-139">From the **Partner Center** menu, select **Customers**.</span></span>
+2.  <span data-ttu-id="73372-140">顧客の **[会社名]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="73372-140">Select the **Company name** for any customer.</span></span> <span data-ttu-id="73372-141">顧客の **[サブスクリプション]** ページが開き、製品サブスクリプションの完全な一覧が表示されます。</span><span class="sxs-lookup"><span data-stu-id="73372-141">The customer's **Subscriptions** page opens, showing their complete list of product subscriptions.</span></span>
+3.  <span data-ttu-id="73372-142">**[サブスクリプションのエクスポート]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="73372-142">Select **Export subscriptions**.</span></span> <span data-ttu-id="73372-143">パートナー センターによって、顧客のサブスクリプション データが .csv ファイルに変換され、お使いのコンピューター上の既定のダウンロード フォルダーにアップロードされます。</span><span class="sxs-lookup"><span data-stu-id="73372-143">Partner Center converts the customer's subscription data into a .csv file and uploads it to the default download folder on your computer.</span></span> <span data-ttu-id="73372-144">データ列には、次の情報が含まれます。</span><span class="sxs-lookup"><span data-stu-id="73372-144">Data columns include the following:</span></span>
+    -   <span data-ttu-id="73372-145">**サブスクリプション ID**</span><span class="sxs-lookup"><span data-stu-id="73372-145">**Subscription ID**;</span></span>
+    -   <span data-ttu-id="73372-146">**サブスクリプション** - サブスクリプションの製品名</span><span class="sxs-lookup"><span data-stu-id="73372-146">**Subscription**—the product name for the subscription;</span></span>
+    -   <span data-ttu-id="73372-147">**数量** - 購入済みのライセンスの数</span><span class="sxs-lookup"><span data-stu-id="73372-147">**Quantity**—number of purchased licenses;</span></span>
+    -   <span data-ttu-id="73372-148">**状態**</span><span class="sxs-lookup"><span data-stu-id="73372-148">**Status**;</span></span>
+    -   <span data-ttu-id="73372-149">**リセラー** - サブスクリプションを所有し管理するリセラーの ID</span><span class="sxs-lookup"><span data-stu-id="73372-149">**Reseller**—the ID of the reseller that owns and manages the subscription.</span></span>
 
 > [!NOTE]  
-> <span data-ttu-id="e76e8-150">サブスクリプションの管理について詳しくは、「[顧客のサブスクリプション](customer-subscriptions.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="e76e8-150">For more information about subscription management, see [Customer subscriptions](customer-subscriptions.md).</span></span>
+> <span data-ttu-id="73372-150">サブスクリプションの管理について詳しくは、「[顧客のサブスクリプション](customer-subscriptions.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="73372-150">For more information about subscription management, see [Customer subscriptions](customer-subscriptions.md).</span></span>
 
      
 
