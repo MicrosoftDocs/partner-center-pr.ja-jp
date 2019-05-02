@@ -1,11 +1,11 @@
 ---
-title: パートナー センターでのソフトウェア アシュアランス付きのトレーニング受講券 (SATV) プログラム |パートナー センター
+title: パートナー センターでのソフトウェア アシュアランス トレーニング受講券 (SATV) プログラム | パートナー センター
 ms.topic: article
 ms.date: 01/16/19
-description: ソフトウェア アシュアランス付きのトレーニング プログラムに登録します。
+description: ソフトウェア アシュアランス トレーニング プログラムに登録します
 author: LauraBrenner
 ms.author: labrenne
-keywords: トレーニングの受講券、ソフトウェア アシュアランス、トレーニング、SATV、SATV に登録します。
+keywords: トレーニング受講券, ソフトウェア アシュアランス, トレーニング, SATV での登録, SATV
 ms.localizationpriority: medium
 ms.openlocfilehash: c5da9989403ca2c984d73224709d14198f657a9e
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
@@ -16,69 +16,69 @@ ms.locfileid: "62134082"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム
 
-ソフトウェア アシュアランス付きのパートナー プログラムに登録することによって、ビジネスの成長します。 Microsoft では、ソフトウェア アシュアランスを持っている企業のお客様をトレーニング、計画、およびその他のサービスを提供するパートナーを補正します。 
+ソフトウェア アシュアランス パートナー プログラムに登録することで、貴社のビジネスを拡大してください。 Microsoft は、ソフトウェア アシュアランスを所有する企業顧客向けにパートナーが行ったトレーニング、計画、その他のサービスに対して補償を提供します。 
 
-承認済みのソフトウェア アシュアランス トレーニング パートナーは、Microsoft は、するをソフトウェア アシュアランス付きで入手できる受講券と引き換え企業顧客に技術トレーニングを提供することを補正します。 このプログラムに参加するいるより多くの顧客を引き付け、その信頼されたラーニング パートナーになることができます。
+承認されたソフトウェア アシュアランス トレーニング パートナーとして、企業顧客がソフトウェア アシュアランスで取得した受講券と引き換えに、Microsoft は技術トレーニングの提供に対する補償を行います。 このプログラムに参加すると、より多くの顧客を獲得し、その信頼されたラーニング パートナーになることができます。
 
-ソフトウェア アシュアランス付きのトレーニング サービスに慣れていない場合を参照してください[ソフトウェア アシュアランス付きのトレーニングの受講券。 ](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)
+ソフトウェア アシュアランス トレーニング サービスに慣れていない場合は、「[ソフトウェア アシュアランス トレーニング受講券](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)」をご覧ください
 
-## <a name="get-started"></a>作業開始
+## <a name="get-started"></a>はじめに
 
-ソフトウェア アシュアランス付きのトレーニング サービスに慣れていない場合は、次の手順に従います。 トレーニングの受講券プログラムでアクティブになっているし、パートナーのアカウント情報は、パートナー センターに移動しましたが場合、は、手順 4 (4) 次から開始します。 
+ソフトウェア アシュアランス トレーニング サービスに慣れていない場合は、以下のすべての手順に従ってください。 既にトレーニング受講券プログラムで活動していて、パートナー アカウント情報がパートナー センターに移動された場合は、後のステップ 4 から始めてください。 
 
-1. プログラムの適格性を確認します。
-2. トレーニング プログラムに登録します。
-3. パートナー ディレクトリの会社プロファイルの更新
-4. 顧客受講券の予約
-5. コースを見つけて、出席者の追加
+1. プログラムの適格性を確認する
+2. トレーニング プログラムに登録する
+3. パートナー ディレクトリで会社のプロファイルを更新する
+4. 顧客の受講券を予約する
+5. コースを見つけて出席者を追加する
 6. 受講券を引き換える
-7. 支払いを要求します。
+7. 支払いを要求する
 
-この記事では、各ステップが完了する方法について説明します。
+この記事では、各ステップを完了する方法について説明します。
 
-## <a name="confirm-program-eligibility"></a>プログラムの適格性を確認します。
+## <a name="confirm-program-eligibility"></a>プログラムの適格性を確認する
 
-SATV プログラムに登録するには、マイクロソフト パートナー ネットワークの学習オプションは、Microsoft Learning コンピテンシーを置き換えるための要件を完了する必要があります。 開始する方法について説明します、[オプションを学習します。](https://partner.microsoft.com/en-US/marketing/details/learning-option-enrollment#/)
+SATV プログラムに登録する前に、Microsoft Learning コンピテンシーに代わる Microsoft Partner Network Learning オプションの要件を満たしている必要があります。 [Learning オプション](https://partner.microsoft.com/en-US/marketing/details/learning-option-enrollment#/)を開始する方法を確認してください。
 
-次の要件を満たす必要があります。
+また、次の要件を満たす必要があります。
 
-- 電子的なトレーニングの受講券を受けることに同意、[あらかじめ決められた価格](https://partner.microsoft.com/en-US/membership/satv-voucher-pricing)します。
+- [あらかじめ決められた価格](https://partner.microsoft.com/en-US/membership/satv-voucher-pricing)で電子トレーニング受講券を受け入れることに同意します。
 
-- レビュー、 [Microsoft SATV プログラム契約](https://aka.ms/satv_legal_agreement)使用条件に同意します。 これは、登録時に署名が。 
+- [Microsoft SATV プログラム契約](https://aka.ms/satv_legal_agreement)を確認し、使用条件に同意します。 登録の間にこれに署名します。 
 
-- すべて現在のラーニング オプションおよび SATV プログラム契約の条項と、プログラムのアクティブなメンバーの中に条件への準拠を確認します (これらに限定されませんが含まれます: 顧客満足度の保証、Kpi、および要件を購入するデジタル MOC)、および SATVプログラム[ポリシー](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ProgramPolicies.aspx)します。
+- プログラムのアクティブなメンバーである間にすべての現在の Learning オプションおよび SATV プログラム契約の条項と条件 (これには次のものが含まれますがこれだけではありません: 顧客満足度の保証、KPI、デジタル MOC 購入要件)、および SATVプログラム [ポリシー](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ProgramPolicies.aspx)に準拠することを確認します。
 
-- 内のすべての SATV 資格のあるコースを提供できるように、[ソフトウェア アシュアランス トレーニング特典製品カタログ](https://aka.ms/SATV_catalog)(が確認するこの手順 3 で十分な需要がある場合に。 [確認 SATV コースの適格性](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ConfirmEligibility.aspx))。
+- 十分な需要がある場合に[ソフトウェア アシュアランス トレーニング特典製品カタログ](https://aka.ms/SATV_catalog)内のすべての SATV 資格コースを提供できること (これはステップ 3  「[SATV コースの適格性を確認する](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ConfirmEligibility.aspx)」で確認します)。
 
-## <a name="enroll-in-the-training-program"></a>トレーニング プログラムに登録します。
+## <a name="enroll-in-the-training-program"></a>トレーニング プログラムに登録する
 
-会社が計画サービス プログラムの資格要件を満たしているし、プログラムの参加者には、コンプライアンスに関するトレーニング コースが渡される後、は、登録する準備ができました。 登録する最後の手順では、SATV コンプライアンス トレーニング要件を満たすし、プログラム契約に署名します。  
+貴社が計画サービス プログラムの適格性要件を満たし、プログラム参加者がコンプライアンス トレーニング コースに合格したなら、登録する準備ができました。 登録の最後の手順は、SATV コンプライアンス トレーニング要件を満たし、プログラム契約に署名することです。  
 
-## <a name="complete-the-satv-compliance-training"></a>SATV コンプライアンス トレーニングを完了します。
+## <a name="complete-the-satv-compliance-training"></a>SATV コンプライアンス トレーニングを完了する
 
-会社から少なくとも 1 つのトレーナー Partner University のオンライン、SATV コンプライアンス トレーニング コースの完了する必要があります。
+貴社の少なくとも 1 人のトレーナーが、Partner University のオンライン SATV コンプライアンス トレーニング コースを完了する必要があります。
  
-1. されていない場合は、Microsoft アカウントに、MPN ID を関連付けます。 読み取り方法を[、MPN ID を関連付ける](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/How to Associate to Your MPN ID 2015 Regular.pdf))。
+1. まだ行っていない場合は、MPN ID を Microsoft アカウントに関連付けます。 [MPN ID を関連付ける](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/How to Associate to Your MPN ID 2015 Regular.pdf)方法を確認してください。
 
-2. 指示に従って[Partner University へのアクセス](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/Partner_University_on-boarding.pdf)最初にします。
+2. 初めての場合は指示に従って [Partner University にアクセス](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/Partner_University_on-boarding.pdf)します。
 
-3. 移動し、 [SATV コンプライアンス トレーニング コース](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14461&scoId=dXsXmk7lB_2704778676)Partner University で (このリンクにアクセスできない場合に正確に手順 1. および 2. を完了する必要があります)。  
+3. Partner University で [SATV コンプライアンス トレーニング コース](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14461&scoId=dXsXmk7lB_2704778676)に移動します (このリンクにアクセスできない場合、正確に手順 1 および 2 を完了したことを確認します)。  
 
-## <a name="sign-the-agreement"></a>契約を締結します。
+## <a name="sign-the-agreement"></a>契約に署名する
 
-読み取り、理解、およびサインイン、[ソフトウェア アシュアランス トレーニング受講券プログラム契約](https://partners.microsoft.com/partnerprogram/Satv.aspx)概要のプログラムのポリシーとパートナーの責任です。 会社のグローバル管理者は、SATV 対応トレーニングの要件の完了後、24 時間を契約に署名できます。
+プログラムのポリシーとパートナーの責任の概要が示されている[ソフトウェア アシュアランス トレーニング受講券プログラム契約](https://partners.microsoft.com/partnerprogram/Satv.aspx)を読み、理解し、署名します。 会社のグローバル管理者は、SATV コンプライアンス トレーニング要件完了後 24 時間で契約に署名できます。
 
-SATV プログラムに自主的に登録していることを反映するように、システムには、最大で 24 時間がかかります。 
+SATV プログラムでアクティブに登録したことがシステムに反映されるまで、最大で 24 時間かかります。 
 
-## <a name="reserve-and-redeem-training-vouchers"></a>予約し、トレーニングの受講券を引き換える
+## <a name="reserve-and-redeem-training-vouchers"></a>トレーニング受講券を予約して引き換える
 
-予約しバウチャーを引き換えるし、顧客のトレーニングを開始することができました。 会社の MPN 管理者は、パートナー センターでの受講券の検証および引き換えツール (VVR) へのアクセスを持つし、ツールで作業する必要があるユーザーを追加することができます。 VVR の詳細については、読み取る[伝票検証および引き換えツールでバウチャーを管理](voucher-validation-tool.md)します。
+受講券を予約して引き換え、顧客のトレーニングを開始できるようになります。 貴社の MPN 管理者は、パートナー センターの受講券の検証および引き換えツール (VVR) にアクセスでき、ツールで作業する必要があるユーザーを追加することができます。 VVR について詳しくは、[受講券の検証および引き換えツールでの受講券の管理](voucher-validation-tool.md)に関する記事をご覧ください。
 
 >[!Note]
->VVR ツールは、パートナー センターに移動しました。 3 月の 2019年の時点で古い VVR ツール サイトは廃止されます。
+>VVR ツールは、パートナー センターに移動しました。 2019年 3 月の時点で、古い VVR ツール サイトは廃止されます。
 
-## <a name="request-payment-from-microsoft"></a>Microsoft から支払いを要求します。
+## <a name="request-payment-from-microsoft"></a>Microsoft に支払いを要求する
 
-支払いは、ソフトウェア アシュアランス伝票特典 (SAVB) オンライン支払ツールによって処理されます。  学習方法[SAVB を介して Microsoft に請求書を送信](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/GetPaid.aspx)します。
+支払いは、ソフトウェア アシュアランス受講券特典 (SAVB) オンライン支払ツールによって処理されます。  [SAVB で Microsoft に請求書を送信する](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/GetPaid.aspx)方法を確認してください。
 
-読み取られた追加の情報を[FAQ](vvr-faq.md)します。
+詳細については、[よくあるご質問](vvr-faq.md)に関する記事をご覧ください。

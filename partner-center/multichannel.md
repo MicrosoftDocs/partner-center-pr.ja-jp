@@ -22,7 +22,7 @@ ms.locfileid: "62134282"
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 
-パートナー センターのマルチ チャネル機能は、顧客の管理および他の場所を購入するサブスクリプションをサポートするパートナーを採用する場合に、シナリオをサポートします。 マルチチャンネルのサポートは次の場合に適用されます。
+パートナー センターのマルチチャンネル機能は、顧客が他から購入したサブスクリプションの管理やサポートをパートナーに依頼する場合のシナリオに対応します。 マルチチャンネルのサポートは次の場合に適用されます。
 
 -   顧客が既にマイクロソフトから直接サブスクリプションを購入した場合、または Advisor プログラム、Open プログラム、EA プログラムを通じて購入した場合。
 
@@ -36,13 +36,13 @@ ms.locfileid: "62134282"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>ライセンス ベースのサービス</strong></p></td>
+<td><p><strong>ライセンスベースのサービス</strong></p></td>
 <td><p>マルチチャンネル アカウントのサポートを提供するには、サブスクリプションを管理するためのアクセス許可を顧客に要求する必要があります。 この手順について詳しくは、「<a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">顧客との再販業者関係の要求</a>」をご覧ください。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>サービスの使用法に基づく</strong></p></td>
+<td><p><strong>使用量ベースのサービス</strong></p></td>
 <td>
-<p>アドバイザー、Open、または、EA など、別のチャネルから、Microsoft Azure へのサブスクリプションを既に持っている顧客のする&#39;ll 必要があるパートナー センターの新しい Azure サブスクリプションを作成するサブスクリプションの詳細を手動で入力して、キャンセル、個人サービス、またはサブスクリプション全体。</p>
+<p>顧客が、Advisor プログラム、Open プログラム、EA プログラムなどの別のチャンネルから Microsoft Azure サブスクリプションを既に取得している場合、パートナーはパートナー センターで新しい Azure サブスクリプションを作成し、サブスクリプションの詳細情報を手動で入力した後、個別のサービスまたはサブスクリプション全体を取り消す必要があります。</p>
 <p>たとえば、顧客が別のパートナーの Microsoft Azure サブスクリプションを既に持っている場合は、Azure サービスを他のパートナーに切り替えることができます。 詳しくは、「<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Azure サブスクリプションの別のパートナーへの切り替え</a>」をご覧ください。</p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ ms.locfileid: "62134282"
 </table>
 
 > [!IMPORTANT]  
-> 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースに関するすべてのお知らせは、パートナー センターなど、通常の通信チャネルを通じて発表されます。 
+> 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースに関するすべての情報は、パートナー センターなど、通常の伝達方法でお知らせします。 
 
 ## <a name="see-also"></a>関連項目
 

@@ -49,10 +49,10 @@ ms.locfileid: "62134448"
 インセンティブ管理者が資格情報を受け取ったら、組織がインセンティブをパートナー センターで管理できるように組織の移行を完了できます。
 
 
-[ユーザー アカウントを作成し、アクセス許可を割り当てる](create-user-accounts-and-set-permissions.md)
+[ユーザー アカウントの作成とアクセス許可の設定](create-user-accounts-and-set-permissions.md)
 
 [ユーザー パスワードのリセット](reset-a-user-password.md)
 
-[インセンティブ支払いを理解します。](understand-incentive-payouts.md)
+[インセンティブの支払いについて](understand-incentive-payouts.md)
 
 詳細については、[パートナー協力インセンティブ ガイドブック](https://assets.microsoft.com/coop-guidebook.pdf)を参照してください。

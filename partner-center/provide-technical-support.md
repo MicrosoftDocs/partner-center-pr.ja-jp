@@ -29,9 +29,9 @@ ms.locfileid: "62134027"
 -   顧客サービスの正常性を表示する
 -   顧客サービス インシデントを表示する
 
-**お客様の管理者タスクを実行します。**
+**顧客向けの管理タスクの実行**
 
-1.  **パートナー センター**メニューの **顧客**します。 一覧から顧客を選びます。
+1.  **パートナー センター** メニューで、**[顧客]** を選択します。 一覧から顧客を選びます。
 2.  顧客メニューの **[サービス管理]** を選びます。
 3.  **[サービスの管理]** セクションで、作業する必要があるサービスを選択し、サービスの管理ポータルを開きます。
 4.  ダウンしているサービスや、エクスペリエンスが低下しているなどの問題が見つかった場合は、最初にサービスの正常性を確認します。 「[サービスの正常性の確認](check-service-health.md)」をご覧ください。
@@ -56,11 +56,11 @@ CSP モデルで取引を行うパートナーは、お客様に対する信頼�
 
 各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については、次のドキュメントを参照してください。
 
--   [Dynamics 365 のサブスクリプションが CSP で販売されて](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [CSP で販売された Dynamics 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Azure サブスクリプションが CSP で販売されて](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [CSP で販売された Azure サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Office 365 サブスクリプションが CSP で販売されて](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [CSP で販売された Office 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 
 

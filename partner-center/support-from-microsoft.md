@@ -32,7 +32,7 @@ Microsoft サービスやパートナー センターで問題が発生した場
 
 [Microsoft の API で自動サービス通知を取得する](get-automated-service-notifications-with-our-apis.md)
 
-[Microsoft の特典のサポート](https://partner.microsoft.com/support/contact-support)
+[Microsoft 特典サポート](https://partner.microsoft.com/support/contact-support)
 
  
 

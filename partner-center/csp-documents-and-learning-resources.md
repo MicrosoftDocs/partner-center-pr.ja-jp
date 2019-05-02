@@ -15,7 +15,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134992"
 ---
-# <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、およびプラン
+# <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、プラン
 
 **適用対象**
 
@@ -29,62 +29,62 @@ ms.locfileid: "62134992"
 
 クラウド ソリューション プロバイダー プログラムのパートナーとなるための要件が記載されています。
 
-[Cloud Solution Provider パートナー向けのプログラム ガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)
+[クラウド ソリューション プロバイダー パートナー向けプログラム ガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->ビジネス文字確認や、状態をクラウド ソリューション プロバイダー プログラムでの承認済みの Microsoft パートナーとして認定が必要な場合[サポートにお問い合わせ](https://partner.microsoft.com/pcv/servicerequests/create)要求。
+>クラウド ソリューション プロバイダー プログラムでの承認済み Microsoft パートナーとしての状態を確認または認定するビジネス レターが必要な場合は、[サポートに問い合わせて](https://partner.microsoft.com/pcv/servicerequests/create)要求してください。
 
-## <a name="cloud-solution-provider-partner-agreement"></a>Cloud Solution Provider パートナー契約
+## <a name="cloud-solution-provider-partner-agreement"></a>クラウド ソリューション プロバイダー パートナー契約
 
 マイクロソフトのクラウド ソリューション プロバイダー プログラムへの参加を希望するパートナーは、この契約書に署名する必要があります。 販売を計画している市場のクラウドまたはナショナル クラウドに関するガイドを確認してください。
 
-[Microsoft クラウド リセラー契約: 北米、中央アメリカ、南アメリカおよびカリブ海地域](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud リセラー契約 - 北米、中米、南米、カリブ諸国](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft クラウド リセラー契約 – アジア、オーストラリア、および太平洋地域](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Microsoft クラウド リセラー契約 - アジア、オーストラリア、太平洋](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[Microsoft クラウド リセラー契約-ヨーロッパ、中東、およびアフリカ](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Microsoft クラウド リセラー契約 - ヨーロッパ、中東、アフリカ](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft クラウド リセラー契約-日本](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Microsoft クラウド リセラー契約 - 日本](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Microsoft クラウド リセラー契約 – 韓国](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Microsoft クラウド リセラー契約 - 韓国](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Microsoft クラウド リセラー契約 – 台湾](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud リセラー契約 - 台湾](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft クラウド リセラー契約 - 米国政府機関向け Microsoft クラウド](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Microsoft Cloud リセラー契約 - Microsoft Cloud for US Government](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
-## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud の契約の顧客のテンプレート
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 契約顧客用テンプレート
 
-注文を配置するには、顧客の代わりに、前に、顧客はそのまま使用し、該当する Microsoft クラウドの契約に署名する必要があります。 Microsoft クラウドの契約は、リージョン固有の複数の言語で利用可能なです。 Microsoft Cloud の契約に移動して[顧客テンプレート](agreements.md)新規顧客を確認する必要があります、Microsoft クラウドの契約が見つかりません。
+パートナーが顧客の代わりに注文する前に、顧客は該当する Microsoft Cloud 契約に同意して署名する必要があります。 Microsoft Cloud 契約は地域固有であり、複数の言語で利用できます。 Microsoft Cloud 契約の[顧客テンプレート](agreements.md)に移動し、新しい顧客と確認する必要がある Microsoft Cloud 契約を探します。
 
 >[!IMPORTANT]
->顧客がそれをサインインしたユーザーに関する情報を提供することで、Microsoft クラウドの契約を受け入れることを確認する必要があります。 参照してください[Microsoft Cloud の契約のお客様の承諾の確認](confirm-consent.md)と[Microsoft Cloud 契約顧客への同意の確認よく寄せられる質問](confirm-consent-faq.md)の詳細。
+>パートナーは、署名した人についての情報を提供することで、顧客が Microsoft Cloud 契約を受諾したことを確認する必要があります。 詳しくは、「[Microsoft Cloud 契約に関するお客様の同意を確認する](confirm-consent.md)」および「[Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問](confirm-consent-faq.md)」をご覧ください。
 
-### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud の契約 (ドイツ) プロフェッショナル Secrecy 修正
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (ドイツ向け)
 
-ドイツでは、刑事コード (セクション 203) と、プロフェッショナルな行動規範を必要とクライアントの関係は、たとえば、患者とその医学博士間のリレーションシップとの間のリレーションシップは機密性を保持すること所属する弁護士たちとそのクライアント。 これらの職業グループは、プロフェッショナル secrecy をさせる必要があります。 これらおよびその他の職業 cloud solution provider からのクラウド ベースのサービスの購入には、プロフェッショナル secrecy に確実に顧客との書面による契約の最後に、クラウド サービス プロバイダーする必要があります。
+ドイツでは、刑法 (セクション 203) および職業倫理規定により、特定のクライアント関係の機密性を維持する必要があります (たとえば、患者とその医師との関係、弁護士とそのクライアントの関係)。 これらの職業グループは、職業上の秘密を保証する必要があります。 これらおよびその他の専門的職業がクラウド ソリューション プロバイダーからクラウド ベースのサービスを購入する場合、クラウド サービス プロバイダーは職業上の秘密を保証する書面による契約を顧客と締結する必要があります。
 
-ドイツのビジネスを行う場合は、このプロフェッショナル secrecy 契約書を Microsoft Cloud の契約だけでなくが顧客に提供する必要があります。
+ドイツでビジネスを行う場合、Microsoft Cloud 契約にこの職業上の秘密を盛り込んだ修正版を顧客に提供する必要が生じる場合があります。
 
-[ドイツ (EN) の契約 Professional Secrecy 契約を Microsoft クラウド](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[ドイツ向け、職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409) に関するページ
 
-[ドイツ (ドイツ) の契約 Professional Secrecy 契約を Microsoft クラウド](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[ドイツ向け、職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407) に関するページ
 
 ## <a name="pricing"></a>価格設定
 
-購入のライセンスに基づく、使用法に基づく、および 1 回限りの料金詳細をダウンロード、**料金とプラン** ページから使用可能な**パートナー センター**メニュー。
+ライセンスベース、使用量ベース、および 1 回限りの購入の料金設定は、いずれも**パートナー センター** メニューから **[価格およびプラン]** ページを表示してダウンロードできます。
 
 ライセンス ベースの価格表は毎月更新され、新しい価格は、有効になる 30 日前に発表されます。 ライセンスベースのサービスには、たとえば Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM があります。 
 
 使用量ベースの価格は変動的であり、頻繁に変更されています。 使用量ベースのサービスには、たとえば Microsoft Azure があります。
 
-1 回限りの購入価格も変動的です。 1 回限りの購入には、Microsoft Azure の予約と Windows Server と SQL ソフトウェアへの対応するサブスクリプションなどがあります。
+1 回限りの購入価格も変動的です。 1 回限りの購入の例としては、Windows Server および SQL ソフトウェアに対する Microsoft Azure Reservations と対応するサブスクリプションなどがあります。
 
-Azure Marketplace の各種サービスに関する情報を価格を参照してください**Marketplace**パートナー センターの左側のナビゲーション メニューでします。 発行元、Sku、に関する情報を確認する製品を選択し、価格設定します。 これらの Azure Marketplace の製品の価格は、頻繁に変更できます。 Marketplace のすべての製品の現在の価格情報を取得する次のように選択します。**エクスポート価格表**価格のすべてのデータを含むスプレッドシートを生成します。 何度でもチェックできるように、この情報は毎日更新されます。
+Azure Marketplace のプランに関する価格情報については、パートナー センターの左側のナビゲーション メニューで **[Marketplace]** に移動してください。 発行元、SKU、価格に関する情報を見る製品を選択します。 Azure Marketplace の製品の価格は、頻繁に変わることがあります。 すべての Marketplace 製品の現在の価格情報を取得するには、**[価格表のエクスポート]** を選択して、すべての価格データを含むスプレッドシートを生成します。 この情報は毎日更新されるので、ときどきチェックしてください。
 
 ## <a name="offers"></a>サービスおよび製品
 
-Csp パートナーは、さまざまな Microsoft 製品、サービス、および Office 365、Enterprise Mobility Suite、Microsoft Dynamics、および Microsoft Azure を含むソリューションを販売できます。 プランなこれらの製品ファミリ内で販売するための使用についての詳細については、CSP のプランのマトリックスを参照してください。、**料金とプラン** ページで、から使用可能な、**パートナー センター**メニュー。 このドキュメントは毎月更新されます。
+CSP のパートナーは、Office 365、Enterprise Mobility Suite、Microsoft Dynamics、Microsoft Azure など、さまざまな Microsoft 製品、サービス、ソリューションを販売できます。 これらの製品ファミリで販売可能なプランについて詳しくは、**パートナー センター** メニューから **[料金とプラン]** ページにアクセスして、CSP のプランのマトリックスをご覧ください。 このドキュメントは毎月更新されます。
 
 Crest Usage Record API を使用している CSP パートナーは、**[料金とプラン]** ページで CSP での Azure サービスの一覧を利用することもできます。
 
-独立系ソフトウェア ベンダー (Isv) によって発行された Azure Marketplace プランについては、次を参照してください。、 **Marketplace**ページの左側のナビゲーション メニュー。 現時点では、SaaS (サービスとしてのソフトウェア) 製品の種類のみをパートナー センターで購入できます。 Azure Marketplace のオファリングの他の種類を取得する Azure portal にアクセスする必要があります。
+独立系ソフトウェア ベンダー (ISV) によって発行された Azure Marketplace プランについては、左側のナビゲーション メニューの **[Marketplace]** ページをご覧ください。 現時点では、パートナー センターでは SaaS (サービスとしてのソフトウェア) 製品の種類のみを購入できます。 他の種類の Azure Marketplace プランを入手するには、Azure portal にアクセスする必要があります。

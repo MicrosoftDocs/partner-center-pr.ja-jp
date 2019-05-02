@@ -42,7 +42,7 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 以下では、よく寄せられる質問とその回答をご紹介します。アプリをインストールする前にご確認ください。 
 
-| **質問** | **応答** |
+| **質問** | **回答** |
 | --- | ---------- |
 | アプリの価格を教えてください。 | アプリ自体は無償です。 アプリをプレビューするには[無償の Power BI サービスにサインアップ](https://go.microsoft.com/fwlink/p/?linkid=845347)し、それを使用してダッシュ ボードとレポートをカスタマイズします。 社内の他のユーザーがアプリを使用できる環境に設定するには、Microsoft Power BI Professional または Microsoft Power BI Premium のアクティブなサブスクリプションが必要です。 |
 | パートナー センターの分析アプリに接続できるのは、どのようなユーザーですか? | このバージョンのアプリは、クラウド ソリューション プロバイダー プログラムの直接パートナー (階層 1) を対象としています。 直接パートナーとは、マイクロソフトおよび顧客と直接取引するパートナーを指します。 このアプリは、企業アカウントの全体管理者、管理エージェント、請求管理者のいずれかの権限を持つユーザーのみがインストールできます。 |
@@ -57,6 +57,6 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 ## <a name="next-steps"></a>次のステップ
 
-[インストールし、Microsoft Power BI 用のパートナー センターの分析アプリのプレビュー](power-bi-app-for-direct-partners-install.md)
+[Power BI 用パートナー センター分析アプリをインストールしてプレビューする](power-bi-app-for-direct-partners-install.md)
 
-[Microsoft Power BI 用のパートナー センターの Analytics のアプリで、ビジネス データを表示します。](power-bi-app-for-direct-partners-use.md)
+[Microsoft Power BI 用パートナー センター分析アプリでビジネス データを表示する](power-bi-app-for-direct-partners-use.md)

@@ -5,7 +5,7 @@ ms.date: 03/15/2019
 description: パートナー センターのデータの機能を使用すると、顧客のニーズについて理解を深めることができます
 author: LauraBrenner
 ms.author: labrenne
-Keywords: データ、分析、使用量、スキル
+Keywords: データ, 分析, 使用状況, スキル
 ms.localizationpriority: medium
 ms.openlocfilehash: d2efeb8125077de10acb891908fe81a0fb0f00f9
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade

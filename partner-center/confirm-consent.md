@@ -2,10 +2,10 @@
 title: Microsoft Cloud 契約に関するお客様の同意を確認する | パートナー センター
 ms.topic: article
 ms.date: 04/16/2019
-Description: パートナーは、お客様の Microsoft 製品とサービスを注文する前に、Microsoft Cloud 契約へのお客様の同意を得る必要があります。 より適切パートナー コンプライアンス要件、Microsoft パートナーの要求を特定の契約書に同意したユーザーについての詳細を提供することで同意を確認します。
+Description: パートナーは、お客様の Microsoft 製品とサービスを注文する前に、Microsoft Cloud 契約へのお客様の同意を得る必要があります。 パートナーがコンプライアンス要件を満たすことができるように、Microsoft では、パートナーに対して、契約に同意したユーザーに関する特定の詳細情報を提供することにより、同意を確認することを求めています。
 author: LauraBrenner
 ms.author: v-petand
-keywords: 顧客、顧客、同意、MCA、Microsoft Cloud の契約、顧客の契約書のテンプレート
+keywords: 顧客, 顧客たち, 同意, MCA, Microsoft Cloud 契約, 顧客契約テンプレート
 ms.localizationpriority: medium
 ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
@@ -20,7 +20,7 @@ ms.locfileid: "62135143"
 -  パートナー センター
 
 > [!NOTE]
-> 契約リソースは Microsoft パブリック クラウドのみのパートナー センターで現在サポートされています。 適用することはできません。
+> 契約リソースは、現在、Microsoft パブリック クラウドのパートナー センターでのみサポートされています。 以下には適用されません。
 > * 21Vianet が運営するパートナー センター
 > * Microsoft Cloud ドイツのパートナー センター
 > * 米国政府機関向け Microsoft Cloud のパートナー センター
@@ -37,9 +37,9 @@ ms.locfileid: "62135143"
 
 -   同意の日付
 
-詳細については、Microsoft Cloud の契約のお客様承諾の確認を参照してください。[よく寄せられる質問](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)します。
+詳細については、[Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)を参照してください。
 
-パートナーの請求書を直接と間接プロバイダーは、パートナーまたはパートナー センター API を介して処理するときに、Microsoft クラウドの契約の顧客による受け入れを確認する必要があります。 確認は*必須*です。
+直接請求パートナーと間接プロバイダーは、パートナー センターまたはパートナー センター API を介して取引するときに、Microsoft Cloud 契約に関するお客様の同意を確認する必要があります。 確認は*必須*です。
 
 特定のお客様について確認が提供されていない場合:
 
@@ -47,24 +47,24 @@ ms.locfileid: "62135143"
 
 -   このお客様について既存のシート ベースのサブスクリプションのシート数を変更することはできません。
 
-パートナー センターまたはパートナー センター API を使用して、顧客による受け入れの確認を実行できます。 これには、パートナー センター API を介して、以下のトピックを参照してください。 
+お客様の同意は、パートナー センターまたはパートナー センター API を使用して確認できます。 パートナー センター API でこれを行うには、以下のトピックを参照してください。 
 
--   [お客様の同意の確認を取得します。](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
+-   [顧客の同意を確認する](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
 
--   [アグリーメントのメタデータを取得します。](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
+-   [契約メタデータを取得する](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
 
--   [お客様の同意を確認します。](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
+-   [顧客の同意を確認する](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
 
 これは、運用環境とサンド ボックス環境の両方に適用されます。
 
-## <a name="confirming-customer-acceptance-in-partner-center"></a>パートナー センターで顧客による受け入れを確認します。
+## <a name="confirming-customer-acceptance-in-partner-center"></a>パートナー センターを使用してお客様の同意を確認する
 
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>新しいお客様についてお客様の同意を確認する
 
-パートナー センターで、新しい顧客のテナントを作成するときに、顧客による受け入れを確認するのにには、次の手順を使用します。 これを行うには、管理エージェントまたは販売エージェントである必要があることに注意してください。
+パートナー センターで、新しいお客様のテナントを作成するときに、お客様の同意を確認するのには、次の手順に従います。 これを行うには、管理エージェントまたは販売エージェントである必要があることに注意してください。
  
-1.  選択**顧客**、し**新しい顧客**し、**アカウント情報**します。
+1.  **[顧客]**、**[新しい顧客]**、**[アカウント情報]** の順に選択します。
 
 2.  **会社**と**主要連絡先**に関する情報を入力します。
 
@@ -76,7 +76,7 @@ ms.locfileid: "62135143"
 
 5.  同意しているユーザーの詳細を入力します。 
 
-![同意される日付を追加します。](images/mca/MCA3.png)
+![同意の日付を追加する](images/mca/MCA3.png)
 
 既定では、第一連絡先担当者のユーザー情報が表示されます。 これが正しくない場合は、**[更新]** を選択し、契約に同意したユーザーの **名**、**姓**、**メール アドレス**、**電話番号* (省略可能) を入力します。
 
@@ -88,11 +88,11 @@ ms.locfileid: "62135143"
 
 1.  **[顧客]** を選択し、表示するお客様を検索して選択します。 
 
-2.  選択**アカウント情報**します。
+2.  **[アカウント情報]** を選択します。
 
 3.  **[Microsoft Cloud 契約]** で **[更新]** を選択します。
 
-![更新](images/mca/mca4.png)
+![Update](images/mca/mca4.png)
 
 4.  契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
 
@@ -117,7 +117,7 @@ ms.locfileid: "62135143"
 
 1.  **[顧客]** を選択し、表示するお客様を検索して選択します。 
 
-2.  選択**アカウント情報**します。
+2.  **[アカウント情報]** を選択します。
 
 3.  **[Microsoft Cloud 契約]** で、このお客様について確認が提供されているかどうかが表示されます。
 

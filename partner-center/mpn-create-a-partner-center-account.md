@@ -27,11 +27,11 @@ ms.locfileid: "62134352"
 
 パートナー センター アカウントを作成すると、次のことができるようになります。
 
--   [購入またはマイクロソフト アクション パック サブスクリプションの更新](mpn-get-action-pack.md)
+-   [Microsoft Action Pack サブスクリプションを購入または更新する](mpn-get-action-pack.md)
 
--   [Microsoft のセールス リードを取得するビジネス プロファイルを作成します。](create-a-marketing-profile.md)
+-   [ビジネス プロファイルの作成と Microsoft からの潜在顧客の獲得](create-a-marketing-profile.md)
 
--   [取得し、Microsoft のセールス リードを管理します。](responding-to-referrals.md)
+-   [Microsoft から見込み情報を受け取って管理する](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>始める前に
 
@@ -70,18 +70,18 @@ ms.locfileid: "62134352"
 
 5.  管理エージェント グループに追加されたことを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
-    a.  **パートナー センター**を選択、**設定**アイコンと選択し**ユーザー管理**します。  
+    a.  **パートナー センター**の **[設定]** アイコンを選択し、**[ユーザー管理]** を選択します。  
 
     b.  ユーザーの一覧から自分の名前を選び、**[管理エージェント]** を選択します (まだ選択されていない場合)。 **[更新]** を選択します。  
 
 ## <a name="next-steps"></a>次のステップ
 
--   [アカウントのユーザーを追加し、それらへのアクセス許可を割り当てる](create-user-accounts-and-set-permissions.md)
+-   [ユーザーの追加とアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)
 
--   [購入またはマイクロソフト アクション パック サブスクリプションの更新](mpn-get-action-pack.md)
+-   [Microsoft Action Pack サブスクリプションの購入と更新](mpn-get-action-pack.md)
 
--   [メンバーシップ特典を管理します。](manage-your-partner-network-benefits.md)
+-   [メンバーシップ特典を管理する](manage-your-partner-network-benefits.md)
 
--   [メンバーシップの Gold および Silver コンピテンシー要件について説明します](https://partner.microsoft.com/membership/competencies)
+-   [Silver および Gold メンバーシップ獲得のためのコンピテンシー要件](https://partner.microsoft.com/membership/competencies)
 
--   [Microsoft のセールス リードを取得するビジネス プロファイルを作成します。](create-a-marketing-profile.md)
+-   [ビジネス プロファイルの作成と Microsoft からの潜在顧客の獲得](create-a-marketing-profile.md)

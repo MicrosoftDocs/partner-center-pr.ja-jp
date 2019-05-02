@@ -40,11 +40,11 @@ CSP モデルで取引を行うパートナーは、お客様に対する信頼�
 
 各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については、次のドキュメントを参照してください。
 
--   [Dynamics 365 のサブスクリプションが CSP で販売されて](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [CSP で販売された Dynamics 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Azure サブスクリプションが CSP で販売されて](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [CSP で販売された Azure サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Office 365 サブスクリプションが CSP で販売されて](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [CSP で販売された Office 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
 

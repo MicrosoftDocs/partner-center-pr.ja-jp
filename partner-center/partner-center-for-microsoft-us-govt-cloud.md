@@ -19,7 +19,7 @@ ms.locfileid: "62134222"
 
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>米国政府機関向け Microsoft クラウド:データ保護要件を満たす 
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud for US Government: データ保護の要件を満たす 
 
 米国政府機関向けに一から設計された、米国政府機関向け Microsoft Cloud により、米国の連邦、州、地方、および先住民部族の行政機関は、Microsoft のさまざまなクラウド コンピューティング サービスを選択できます。 公共部門のお客様の固有のニーズを適切に満たすため、Microsoft はデータ センターに多大な投資を行い、米国連邦政府や州政府の政策、規制、要件に対するデータ保護のコンプライアンスの達成に取り組んでいます。 米国政府機関向け Microsoft Cloud のパートナー センターは、パートナーが、これらのユーザーに Microsoft クラウド サービスを再販できるようにします。
 
@@ -29,7 +29,7 @@ ms.locfileid: "62134222"
 
 詳細については、[米国政府機関向け Microsoft Cloud データシート](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)を参照してください。
 
-## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>米国政府機関向け Microsoft クラウドのパートナー センター:米国政府クラウド ソリューションを販売
+## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Microsoft Cloud for US Government 用パートナー センター: 米国政府機関向けクラウド ソリューションの販売
 
 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー (CSP) プログラムに登録した後は、パートナー センターを使用して、クラウド固有のソリューションおよびサービスを米国政府機関の顧客に販売します。 
 

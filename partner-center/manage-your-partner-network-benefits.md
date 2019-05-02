@@ -2,7 +2,7 @@
 title: Microsoft Partner Network の特典の管理 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
-description: Microsoft Partner Network のメンバーは、特定のメンバーシップ特典を購入することができます。 アクティブ化し、パートナー センターでのメンバーシップ特典を管理する方法について説明します。
+description: Microsoft Partner Network のメンバーは、特定のメンバーシップ特典を購入することができます。 ここではパートナーセンターでメンバーシップ特典を有効にして管理する方法を説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN、メンバーシップ特典、メンバーシップ
@@ -21,12 +21,12 @@ ms.locfileid: "62134392"
 -  パートナー センター
 
 >[!IMPORTANT]
->この記事では、パートナー センターのこのサイトで、Microsoft Partner Network (MPN) メンバーシップ特典の使用を開始する方法について説明します。 場合は、パートナー センターに会社の情報をパートナー メンバーシップ センター (PMC) を移動する招待を受信していない、PMC で、MPN メンバーシップ特典の管理を続行してください。 PMC に[サインイン](https://partner.microsoft.com/_login?authType=OpenIdConnect)します。   
+>この記事では、パートナー センター (本サイト) で Microsoft Partner Network (MPN) のメンバーシップ特典を使い始める方法について説明します。 パートナーの企業情報の Partner Membership Center (PMC) からパートナー センターへの移行の招待を受け取っていない場合は、引き続き MPN メンバーシップの特典を PMC で管理する必要があります。 PMC に[サインイン](https://partner.microsoft.com/_login?authType=OpenIdConnect)します。   
 
 Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成長に役立つメンバーシップ特典にアクセスできます。 まだ MPN のメンバーでない場合は、[MPN サイト](https://partner.microsoft.com/membership)から登録できます。
 
 
-## <a name="manage-your-membership-benefits-in-the-partner-center"></a>パートナー センターで、メンバーシップ特典を管理します。
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>パートナー センターでメンバーシップ特典を管理する
 
 メンバーシップ特典パッケージを購入した後は、使用を開始できるように、ソフトウェア キーを入手して、従業員にライセンス、サブスクリプション、その他の特典を割り当てる必要があります。 
 
@@ -104,8 +104,8 @@ Action Pack サブスクリプションでは、内部使用権ソフトウェ�
 
 #### <a name="see-also"></a>関連項目
 
-[ユーザーを追加し、それらへのアクセス許可を割り当てる](create-user-accounts-and-set-permissions.md)
+[ユーザーの追加とアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)
 
-[購入またはマイクロソフト アクション パック サブスクリプションの更新](mpn-get-action-pack.md)
+[Microsoft Action Pack サブスクリプションの購入と更新](mpn-get-action-pack.md)
 
 

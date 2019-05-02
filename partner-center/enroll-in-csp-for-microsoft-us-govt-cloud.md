@@ -83,6 +83,6 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 -  [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [米国政府機関向け Microsoft クラウドのパートナー センターでユーザーとライセンスの管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
+-  [パートナー センターでの Microsoft Cloud for US Government のユーザーとライセンスの管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 
 

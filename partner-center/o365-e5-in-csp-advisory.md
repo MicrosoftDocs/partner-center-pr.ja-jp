@@ -14,7 +14,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134332"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 パートナー アドバイザリ:CSP での office 365 E5 SKU の 1 つの可用性
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 パートナー アドバイザリ: CSP で Office 365 E5 の単一の SKU を利用する
 
 **適用対象**
 
@@ -53,9 +53,9 @@ ms.locfileid: "62134332"
 
 ### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>CSP の価格表に表示される SKU (日付および PSTN の利用の可否別)
 
-**1 つの Office 365 Ent する前にします。E5 SKU の 1 つの起動**
+**Office 365 Enterprise E5 の単一の SKU の開始前**
 
-**プランの表示名**
+**プラン表示名**
 
 **プラン ID**
 
@@ -94,9 +94,9 @@ PSTN アドオン
 
  
 
-**後の 1 つの Office 365 Ent リリースです。E5 SKU の 1 つの起動**
+**Office 365 Enterprise E5 の単一の SKU の開始前**
 
-**プランの表示名**
+**プラン表示名**
 
 **プラン ID**
 
@@ -114,9 +114,9 @@ PSTN アドオン
 
 **35.00**
 
-**新しい 1 つの SKU**
+**新しい単一の SKU**
 
-**PSTN 会議なしの office 365 Enterprise E5**
+**Office 365 Enterprise E5 (PSTN 会議なし)**
 
 **02c07b64-2cd3-4667-b014-561192fc5d1a**
 
@@ -124,7 +124,7 @@ PSTN アドオン
 
 **35.00**
 
-**PSTN 非メンバーの新しい 1 つの SKU**
+**新しい単一の SKU (非 PSTN メンバー向け)**
 
 [Office 365 Enterprise E5 (PSTN 会議なし)]
 
@@ -148,7 +148,7 @@ PSTN アドオン
 
  
 
-## <a href="" id="invoices-and-partner-reconciliation-files-"></a>請求書と調整ファイルのパートナー
+## <a href="" id="invoices-and-partner-reconciliation-files-"></a>請求書とパートナー照合ファイル
 
 
 CSP 照合ファイルと CSP 請求書では、Office 365 Enterprise E5 の単一の SKU の PSTN コンポーネントと PSTN 以外のコンポーネントについて個別の行項目が提示されます。 2 つの行項目では名前と ID が同じですが、各行項目の単価は異なります ($28.40 と $2.00 など)。 これにより、Office 365 プランの Skype for Business PSTN 会議コンポーネントが区別され、税金を正しく適用することができます。
@@ -207,7 +207,7 @@ CSP 照合ファイルと CSP 請求書では、Office 365 Enterprise E5 の単�
 
 詳しくは、[Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) のサイトにアクセスしてください。 Office 365 Enterprise E5 固有のリソースは、[Office 365 E5 ページ](https://drumbeat.office.com/partner/pages/e5.aspx)の **[Market and Sell]** (マーケティングと販売) タブにあります。
 
--   **Office 365 Enterprise E5 ライセンス**
+-   **Office 365 Enterprise E5 のライセンス**
 
 -   **Skype for Business PSTN サービスのライセンスの概要**
 

@@ -2,7 +2,7 @@
 title: 特別価格の対象となる業界への販売 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
-Description: Microsoft は、特別な制限が教育機関の顧客、非営利団体のお客様は、government ユーザーなど、顧客が選択されたグループの価格を提供します。
+Description: Microsoft は、教育機関、非営利団体、行政機関ユーザーなど、特定の顧客に対して特別割引価格をご用意しています。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
@@ -24,7 +24,7 @@ ms.locfileid: "62135662"
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>特別価格の対象となる業界への販売の要件
 
-|**特別価格**   |**必要な販売店の制限があります。**   |**顧客のために必要な資格**   |
+|**特別価格**   |**リセラーに求められる条件**   |**顧客に求められる条件**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |[認定教育パートナー](https://www.mepn.com)である必要があります。   | [適格教育ユーザー](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。   |
 |政府   |Azure を販売するには、[Microsoft Government Cloud Validation Form](https://azuregov.microsoft.com/csp) を使って登録します。 政府機関にライセンスベースのサブスクリプションを販売する場合、求められる条件はありません。|   なし|
@@ -39,7 +39,7 @@ ms.locfileid: "62135662"
 
 ## <a name="check-the-customer-qualifications"></a>お客様の認定状態を確認する
 
-1.  **パートナー センター**メニューの **顧客**します。 一覧から顧客を選びます。
+1.  **パートナー センター** メニューで、**[顧客]** を選択します。 一覧から顧客を選びます。
 2.  顧客メニューの **[アカウント]** を選びます。 **[会社情報]** セクションの **[Special qualifications]** を参照します。
 3.  **[特別な資格]** が **[なし]** に設定されていても、お客様が資格条件を満たしている場合は、顧客情報を**更新**して、そのお客様を対象に含めることができます。
 
@@ -49,7 +49,7 @@ ms.locfileid: "62135662"
 
 ## <a name="see-also"></a>関連項目
 
-[Minecraft の販売:教育機関の顧客を教育機関向けエディションのサブスクリプション](minecraft-subscriptions.md)
+[Minecraft の販売:教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する](minecraft-subscriptions.md)
 
 
  

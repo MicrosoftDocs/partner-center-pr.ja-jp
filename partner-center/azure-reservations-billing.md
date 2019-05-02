@@ -2,7 +2,7 @@
 title: Azure Reservations の請求 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
-Description: Azure 予約の課金について説明します。
+Description: Azure Reservations の請求に関する情報です。
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure RI, Azure 予約インスタンス, 予約, VM, 管理, 請求, 購入
@@ -30,13 +30,13 @@ ms.locfileid: "62135422"
 >[!IMPORTANT]
 >通貨が異なる市場の顧客用に Azure Reserved VM Instances を購入する場合、既定の請求通貨はパートナーではなく顧客の市場がベースになります。 顧客が複数の市場に存在する場合は、顧客への請求が必要な各通貨について、個別の請求書と調整ファイルが届き、適切な通貨で顧客に請求できます。 
 
-1 回限りの料金の請求書と調整ファイルにアクセスするには、選択**課金**クリックして、パートナー センターから**1 回**します。 
+1 回限りの料金の請求書と調整ファイルにアクセスするには、パートナー センターから **[Billing]\(請求\)**、**[1 回限り]** の順に選択します。 
 
 クラウド ソリューション プロバイダー プログラムでの請求について詳しくは、「[課金の基本](billing-basics.md)」をご覧ください。
 
 ## <a name="azure-reserved-vm-instance-invoice-file-definitions"></a>Azure Reserved VM Instances の請求書ファイルの定義
 
-**一般的な課金情報**
+**一般的な請求情報**
 
 |**フィールド** |**定義**|
 |:----------------|:-----------------------------|
@@ -54,13 +54,13 @@ ms.locfileid: "62135422"
 |支払期日 |この日付までに、お客様からの支払いが受領される必要があります。 |
 
 
-**1 回限りの料金の詳細な一覧**
+**1 回限りの料金の項目一覧**
 
 |**フィールド** |**定義**|
 |:----------------|:-----------------------------|
 |日付 |購入日。 |
 |説明 |製品名。 |
-|Quantity |購入した製品 (予約など) の数。 |
+|数量 |購入した製品 (予約など) の数。 |
 |単価 |製品 (予約など) ごとの価格。 |
 |割引 |適用される割引。 |
 |税抜き額 |課税前の購入額の小計。 |
@@ -89,7 +89,7 @@ ms.locfileid: "62135422"
 |ProductName |製品の名前。 |
 |ChargeType |課金または調整の種類。 |
 |UnitPrice |注文された製品ごとの価格。 |
-|Quantity |注文された製品の数。 |
+|数量 |注文された製品の数。 |
 |Subtotal |合計額 (税抜)。 割引の場合、小計が、予想される合計と一致することを確認します。 |
 |TaxTotal |該当するすべての税額の合計。 |
 |Total |この購入の合計金額。 |
@@ -101,12 +101,12 @@ ms.locfileid: "62135422"
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>現在の請求の状態、請求書、調整ファイルを表示する
 
-1.  パートナー センターで次のように選択します。**課金**し**1 回**、課金の状態を表示します。 
+1.  パートナー センターで **[Billing]\(請求\)**、**[1 回限り]** の順に選択して、請求の状態を表示します。 
 2.  請求書または調整ファイルを選択して、詳細な情報を確認します。 
 
 ### <a name="view-a-customers-order-history"></a>顧客の注文履歴を表示する
 
-1.  選択**顧客**パートナー センターのメニューから。
+1.  パートナー センター メニューで、**[顧客]** を選択します。
 2.  **[顧客]** ページで、注文履歴を表示する対象の顧客を見つけ、下矢印を選択して顧客レコードを展開します。 
 3.  **[View orders]** (注文の表示) を選択して注文履歴を表示します。
 
@@ -117,11 +117,11 @@ ms.locfileid: "62135422"
 請求書を無効にし、新しい請求書を発行するには、請求ページの調整欄からフォームをダウンロードします。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
-|**について**   |**この記事を読む**    |
+|**情報が必要な項目**   |**参照先**    |
 |:-----------------------------|:-----------------|
-|CSP での Azure Reservations 概要  | [Microsoft Azure 予約 VM インスタンスを販売します。](azure-reservations.md)
-|パートナー センターで顧客向けの Azure 予約を購入   |[Azure 予約を購入します。](azure-reservations-buying.md)
-| パートナー センターでの Azure 予約を管理します。 | [パートナー センターでの Azure 予約を管理します。](azure-reservations-manage.md)
+|CSP での Azure Reservations 概要  | [Microsoft Azure Reserved VM Instances の販売](azure-reservations.md)
+|パートナー センターで顧客の Azure Reservations を購入する   |[Azure Reservations の購入](azure-reservations-buying.md)
+| パートナー センターで Azure Reservations を管理する | [パートナー センターで Azure Reservations を管理する](azure-reservations-manage.md)
 |Azure portal で Azure Reservations を購入する | [Azure Reserved VM Instances による仮想マシン料金の前払い](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) (Azure ヘルプ) |
 |Azure portal で Azure Reservations を管理する   |[予約済み VM インスタンスの管理](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) (Azure ヘルプ)  |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)

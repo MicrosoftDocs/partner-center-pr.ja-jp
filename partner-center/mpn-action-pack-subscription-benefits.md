@@ -20,6 +20,6 @@ Microsoft Action Pack サブスクリプション特典には、パートナー�
 
 Action Pack のサブスクリプションに含まれる特典について詳しくは、Microsoft Partner Network サイトの[ビジネスを加速する](https://partner.microsoft.com/membership/internal-use-software)をご覧ください。   
 
-については、最初に、Action Pack サブスクリプションの購入や、Action Pack サブスクリプションの更新に関する以前に購入した、次を参照してください。 [Action Pack の入手](mpn-get-action-pack.md)でこのサイトの、パートナー センター サイト - ヘルプ ライブラリ。
+Action Pack サブスクリプションの初めての購入、または以前に購入した Action Pack サブスクリプションの更新についての情報は、このサイトの[アクション パックの取得](mpn-get-action-pack.md)、パートナー センター サイト、またはヘルプ ライブラリをご覧ください。
 
 

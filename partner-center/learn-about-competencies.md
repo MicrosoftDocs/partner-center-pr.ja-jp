@@ -26,7 +26,7 @@ Microsoft コンピテンシーを獲得すると、1 つまたは複数の専�
 
 - **Gold メンバーシップ**を獲得すると、マイクロソフト ソリューションの特定の領域内で、クラス最高の能力を備えていることを証明できます
 
-次の領域に関する専門知識のメンバーシップを Silver および Gold を獲得に必要な内容について説明します。
+以下では、各専門領域で、Silver および Gold メンバーを獲得するための要件を示します。
 
 <!-- Removed the ISV competency row as per Sarah Hodge on 12/5/18 
 
@@ -36,22 +36,22 @@ Microsoft コンピテンシーを獲得すると、1 つまたは複数の専�
 
 | コンピテンシー  | テクノロジ |
 |   ------------------   |   -------   |
-| [アプリケーション開発のコンピテンシー](https://partner.microsoft.com/membership/application-development-competency) | HTML5、C#、ASP.NET、UWP、Microsoft Azure アプリ |
-| [アプリケーションの統合コンピテンシー](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server、SQL Server/データベース、C#、Azure、BizTalk Server 2013|
+| [アプリケーション開発コンピテンシー](https://partner.microsoft.com/membership/application-development-competency) | HTML5、C#、ASP.NET、UWP、Microsoft Azure アプリ |
+| [Application Integration コンピテンシー](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server、SQL Server/データベース、C#、Azure、BizTalk Server 2013|
 | [クラウド ビジネス アプリケーション コンピテンシー](https://partner.microsoft.com/membership/cloud-business-applications-competency)| Microsoft Dynamics 365/Enterprise/Operations/AX、SQL データベース |
-| [クラウド カスタマー リレーションシップ マネジメント コンピテンシー](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics 365/Dynamics CRM |
+| [Cloud Customer Relationship Management コンピテンシー](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics 365/Dynamics CRM |
 | [Cloud Platform コンピテンシー](https://partner.microsoft.com/membership/cloud-platform-competency)| Azure、Azure での Linux |
-| [クラウドの生産性コンピテンシー](https://partner.microsoft.com/membership/cloud-productivity-competency)| Microsoft Office 365 サービス (Exchange Online、SharePoint Online、Skype for Business、または Yammer)|
-| [連携およびコンテンツのコンピテンシー](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365、SharePoint Server 2016、アプリ ビルダー |
-| [通信コンピテンシー](https://partner.microsoft.com/membership/communications-competency)| Skype for Business、Enterprise Voice Skype for Business 2015 |
-| [データ分析コンピテンシー](https://partner.microsoft.com/membership/data-analytics-competency)| SQL データベース、Azure、Microsoft R Server、Microsoft HD Insight、Power BI |
-| [データ プラットフォーム コンピテンシー](https://partner.microsoft.com/membership/data-platform-competency)| SQL データベース、SQL Server 2016、Azure Data Warehouse、Azure Data Services、Transact-SQL |
-| [データ センターのコンピテンシー](https://partner.microsoft.com/membership/datacenter-competency)| System Center 2012、Windows Server 仮想化と Hyper-V、Windows Server 2012/2016 |
+| [Cloud Productivity コンピテンシー](https://partner.microsoft.com/membership/cloud-productivity-competency)| Microsoft Office 365 サービス (Exchange Online、SharePoint Online、Skype for Business、または Yammer)|
+| [Collaboration and Content コンピテンシー](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365、SharePoint Server 2016、アプリ ビルダー |
+| [Communications コンピテンシー](https://partner.microsoft.com/membership/communications-competency)| Skype for Business、Enterprise Voice Skype for Business 2015 |
+| [Data Analytics コンピテンシー](https://partner.microsoft.com/membership/data-analytics-competency)| SQL データベース、Azure、Microsoft R Server、Microsoft HD Insight、Power BI |
+| [Data Platform コンピテンシー](https://partner.microsoft.com/membership/data-platform-competency)| SQL データベース、SQL Server 2016、Azure Data Warehouse、Azure Data Services、Transact-SQL |
+| [Data Center コンピテンシー](https://partner.microsoft.com/membership/datacenter-competency)| System Center 2012、Windows Server 仮想化と Hyper-V、Windows Server 2012/2016 |
 | [DevOps コンピテンシー](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio、Visual Studio Team Foundation Server (TFS) 2012、ソフトウェア ライフサイクル、スクラム認定 |
-| [エンタープライズ モビリティ管理コンピテンシー](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS)、Microsoft Intune、Azure Information Protection、Azure Active Directory Premium (AADP)、Mobile Device Management、ID およびアクセス管理、情報保護、Cloud App Security |
-| [エンタープライズ リソース プランニング コンピテンシー](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365、Enterprise Resource Planning (ERP)、SQL Server 2012 データベース  |
-| [メッセージング コンピテンシー](https://partner.microsoft.com/membership/messaging-competency)| Office 365、Exchange Server 2016 |
+| [Enterprise Mobility Management コンピテンシー](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS)、Microsoft Intune、Azure Information Protection、Azure Active Directory Premium (AADP)、Mobile Device Management、ID およびアクセス管理、情報保護、Cloud App Security |
+| [Enterprise Resource Planning コンピテンシー](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365、Enterprise Resource Planning (ERP)、SQL Server 2012 データベース  |
+| [Messaging コンピテンシー](https://partner.microsoft.com/membership/messaging-competency)| Office 365、Exchange Server 2016 |
 | [プロジェクトおよびポートフォリオ管理コンピテンシー](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft プロジェクト、プロジェクトおよびポートフォリオ管理 (PPM)、SharePoint Server 2016|
-| [小規模および中規模ビジネス向けクラウド ソリューション コンピテンシー](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
-| [Windows およびデバイスのコンピテンシー](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10、Windows 10 IoT、ユニバーサル Windows プラットフォーム、Surface Hub、Office 365、Skype for Business 2015、エンタープライズ展開 |
+| [Small and Midmarket Cloud Solutions コンピテンシー](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
+| [Windows and Devices コンピテンシー](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10、Windows 10 IoT、ユニバーサル Windows プラットフォーム、Surface Hub、Office 365、Skype for Business 2015、エンタープライズ展開 |
 |
