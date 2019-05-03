@@ -33,7 +33,7 @@ ms.locfileid: "62134834"
 
 1.  まず、指定する製品リセラーとの[関係を要求](request-a-relationship-with-a-customer.md)します。 テクニカル サポートの代行を依頼するサポート契約について協議します。
 
-2.  **パートナー センター**メニューの **顧客**顧客を選択し、Office 365 Business Premium など、サブスクリプションを選択します。
+2.  **パートナー センター** メニューで **[顧客]** を選択し、顧客を選択した後、Office 365 Business Premium などのサブスクリプションを選択します。
 
 3.  **[指定のサポート連絡先]** で、指定する製品リセラーを選び、**[送信]** をクリックします。 
 
@@ -47,4 +47,4 @@ ms.locfileid: "62134834"
 
 ## <a name="related-topics"></a>関連トピック
 
-[顧客とのリレーションシップを削除します。](remove-a-relationship.md)
+[顧客との関係の削除](remove-a-relationship.md)

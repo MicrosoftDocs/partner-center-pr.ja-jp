@@ -19,7 +19,7 @@ ms.locfileid: "62132932"
 
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
-次のタスクは、米国政府機関向け Microsoft クラウドの Microsoft Azure 管理ポータルで管理されます。
+次に示すタスクは、Microsoft Cloud for US Government の Microsoft Azure 管理者ポータルで管理されます。
 
 - パートナー ユーザーの管理
 
@@ -35,16 +35,16 @@ ms.locfileid: "62132932"
 米国政府機関向け Microsoft Cloud の Azure Portal に正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
 
 > [!NOTE]  
-> 以下のリンクを選択すると、別の web サイトを見ていきます。 
+> 下記のリンクを選択すると、別の Web サイトが開きます。 
 
--  [**Azure Active Directory に新しいユーザーを追加します。**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [**Azure Active Directory に新しいユーザーを追加する**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Azure Active Directory での管理者ロールにユーザーを割り当てる**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [**Azure Active Directory でユーザーを管理者ロールに割り当てる**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**Azure Active Directory でユーザーのパスワードをリセットします。**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [**Azure Active Directory でユーザーのパスワードをリセットする**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **関連トピック**
 
--  [**米国政府機関向け Microsoft クラウドのパートナー センター**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**米国政府機関向け Microsoft Cloud のパートナー センター**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録します。**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

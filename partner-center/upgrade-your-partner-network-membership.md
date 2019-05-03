@@ -22,11 +22,11 @@ ms.locfileid: "62132862"
 
 マイクロソフトのパートナー プログラムには、次の 3 種類のメンバーシップがあり、レベルに応じて、ビジネス目標を達成するための特典が用意されています。
 
-- **ネットワークのメンバーシップ。** 基本のメンバーシップ レベルです。トレーニング、サポート、顧客との関係構築のための基本レベルの特典が提供されます。 メンバーシップをアップグレードするには、ネットワーク メンバーである必要があります。
+- **ネットワーク メンバーシップ。** 基本のメンバーシップ レベルです。トレーニング、サポート、顧客との関係構築のための基本レベルの特典が提供されます。 メンバーシップをアップグレードするには、ネットワーク メンバーである必要があります。
 
-- **Microsoft Action Pack サブスクリプションのメンバーシップ。** 中小規模のパートナー企業向けの手頃な価格の年間サブスクリプションです。 基本のネットワーク メンバーシップで付与される基本レベルの特典に加え、内部使用権サービスのサブスクリプション、ソフトウェアライセンス、サポートが割り当てられます。
+- **Microsoft Action Pack サブスクリプション メンバーシップ。** 中小規模のパートナー企業向けの手頃な価格の年間サブスクリプションです。 基本のネットワーク メンバーシップで付与される基本レベルの特典に加え、内部使用権サービスのサブスクリプション、ソフトウェアライセンス、サポートが割り当てられます。
 
-- **Microsoft の能力です。** 自社の能力を証明する認定資格です。 エントリ レベルの特典、追加の内部使用権、パートナー インセンティブの獲得資格、追加のサポート インシデントとアドバイザリー時間が付与されます。
+- **Microsoft コンピテンシー。** 自社の能力を証明する認定資格です。 エントリ レベルの特典、追加の内部使用権、パートナー インセンティブの獲得資格、追加のサポート インシデントとアドバイザリー時間が付与されます。
 
   - Silver コンピテンシー – 一貫した能力、専門知識、取り組みを備えたパートナーに与えられます
 
@@ -50,18 +50,18 @@ Action Pack は、クラウドファースト、モバイルファーストの�
 Microsoft Action Pack の詳細については、[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack) を参照してください。 
 
 > [!NOTE]  
-> このリンクをたどると、別の web サイトを見ていきます。 このサイトでは、Action Pack をサブスクライブする、パートナー センター サイトに戻ります。
+> このリンクをクリックすると、別の Web サイトにアクセスします。 Action Pack をサブスクライブするには、このパートナー センター サイトに戻ります。
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Microsoft Action Pack をサブスクライブする
 
-1. **パートナー センター**メニューの **パートナーシップ > 提供**します。 **[利用可能なプラン]** で Microsoft Action Pack を選びます。 **[今すぐ登録]** を選びます。 
+1. **パートナー センター** メニューで、**[パートナーシップ] > [プラン]** を選択します。 **[利用可能なプラン]** で Microsoft Action Pack を選びます。 **[今すぐ登録]** を選びます。 
 
 2. **[次へ]** を選んで、Microsoft Partner Network で付与される内部使用権の[諸条件](https://go.microsoft.com/fwlink/?linkid=842232)に同意します。  
 
 3. **[次へ]** を選んで、支払い情報を追加します。 
 
-4. 選択**開始!追加料金を支払う方法**お支払いの詳細を入力する必要がある場合。 
+4. 支払情報の入力が必要な場合は、**[開始にあたり、支払方法を追加してください]** を選択します。 
 
 5. 支払い情報を入力し、**[次へ]** を選びます。
 
@@ -73,7 +73,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack サブスクリプションの自動更新を無効にする
 
-1. **パートナー センター**メニューの **パートナーシップ > 提供**します。 **[購入したプラン]** で Microsoft Action Pack を選びます。
+1. **パートナー センター** メニューで、**[パートナーシップ] > [プラン]** を選択します。 **[購入したプラン]** で Microsoft Action Pack を選びます。
 
 2. **Microsoft Action Pack サブスクリプション** を選んで、サブスクリプションの詳細を表示します。 
 
@@ -85,7 +85,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 ### <a name="renew-your-action-pack-subscription"></a>Action Pack サブスクリプションを更新する
 
-1. **パートナー センター**メニューの **パートナーシップ > 提供**します。 **[購入したプラン]** で Microsoft Action Pack を選びます。
+1. **パートナー センター** メニューで、**[パートナーシップ] > [プラン]** を選択します。 **[購入したプラン]** で Microsoft Action Pack を選びます。
 
 2. **Microsoft Action Pack サブスクリプション**を選んで、サブスクリプションの詳細を表示し、**[操作]** の下で **[サブスクリプションの更新]** を選びます。  
 
@@ -95,7 +95,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 5. **[次へ]** を選んで、支払い情報を追加します。 
 
-6. 選択**開始!追加料金を支払う方法**お支払いの詳細を入力する必要がある場合。 
+6. 支払情報の入力が必要な場合は、**[開始にあたり、支払方法を追加してください]** を選択します。 
 
 7. 支払い情報を入力し、**[次へ]** を選びます。
 
@@ -110,7 +110,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 Microsoft Action Pack サブスクリプションを取り消す場合は、パートナー センターのサポートにご連絡ください。
 
-1. [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support) に移動します。
+1. https://partnercenter.microsoft.com/partner/support に移動します。
 
 2. **[パートナー センターに関する問題の報告]** を選び、次のページで **[New request]** (新しい要求) を選びます。
 
@@ -123,12 +123,12 @@ Microsoft Action Pack サブスクリプションを取り消す場合は、パ�
  
 ### <a name="next-steps"></a>次のステップ
 
-[Action Pack サブスクリプションをアクティブ化します。](manage-your-partner-network-benefits.md)
+[Action Pack サブスクリプションをアクティブ化する](manage-your-partner-network-benefits.md)
 
 
 ### <a name="related-topics"></a>関連トピック
 
-[ユーザーを追加し、それらへのアクセス許可を割り当てる](create-user-accounts-and-set-permissions.md)
+[ユーザーを追加してアクセル許可を割り当てる](create-user-accounts-and-set-permissions.md)
 
 
 

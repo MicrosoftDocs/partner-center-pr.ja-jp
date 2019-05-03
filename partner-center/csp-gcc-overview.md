@@ -2,7 +2,7 @@
 title: CSP 向け Office 365 Government GCC の販売 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
-description: CSP プログラムの Microsoft パートナーは、認定されたお客様向けに CSP サブスクリプションの Office 365 Government GCC を販売できます。 Office 365 Government GCC csp は、米国政府機関および政府の請負業者用に設計されたクラウドの生産性サービスのスイートです。
+description: CSP プログラムの Microsoft パートナーは、認定されたお客様向けに CSP サブスクリプションの Office 365 Government GCC を販売できます。 CSP 向け Office 365 Government GCC は、米国政府機関および政府の請負業者向けに設計されたクラウドの生産性サービスのスイートです。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
@@ -32,7 +32,7 @@ ms.locfileid: "62134842"
 
 ## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>CSP 向け Office 365 Government GCC サブスクリプションの販売
 
-販売する会社が承認された後、CSP 用の Office 365 Government GCC が提供するパートナー センターを使用して顧客に販売することができます。 パートナー センターを使用してサブスクリプションを販売する方法については、これらのリソースを参照してください。 
+CSP プラン向け Office 365 Government GCC の販売を承認された後は、パートナー センターを使用して顧客への販売を開始することができます。 パートナー センターを使用してサブスクリプションを販売する方法については、以下のリソースを参照してください。 
 
 -   CSP 向け Office 365 Government GCC の販売に関するステップ バイ ステップ ガイドについては、[こちら](https://go.microsoft.com/fwlink/?linkid=2007323)を参照してください。  
 
@@ -45,8 +45,8 @@ Microsoft 365 パートナー サイトについては、[米国政府機関で�
 
 製品リソース:
 
-- [Office 365 Government のサービスの説明](https://technet.microsoft.com/library/mt774581.aspx)
+- [Office 365 Government サービスの説明](https://technet.microsoft.com/library/mt774581.aspx)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Microsoft セキュリティ センター](https://www.microsoft.com/TrustCenter/)
-- [Microsoft サービスの信頼のポータル](https://aka.ms/STP)
+- [Microsoft Service Trust Portal](https://aka.ms/STP)
 

@@ -2,7 +2,7 @@
 title: 調整ファイルの使用 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
-description: 各料金が請求サイクルでの行項目の詳細なビューでは、パートナー センターから、調整ファイルをダウンロードします。
+description: 請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターから調整ファイルをダウンロードします。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
@@ -22,25 +22,25 @@ ms.locfileid: "62132782"
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 
-各料金が請求サイクルでの行項目の詳細なビューでは、パートナー センターから、調整ファイルをダウンロードします。 詳細には、各顧客のサブスクリプションの料金や、詳細なイベント (期間途中でのサブスクリプションへのシートの追加など) が含まれます。
+請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターから調整ファイルをダウンロードします。 詳細には、各顧客のサブスクリプションの料金や、詳細なイベント (期間途中でのサブスクリプションへのシートの追加など) が含まれます。
 
 ## <a name="formatting-issues"></a>書式設定の問題
 
-場合によっては、偵察ファイルには、書式設定の問題があります。 (これに、たとえば、EN-US ロケールを使用しない場合。)これらの問題を修正するのには、次の手順に従います。 
+調整ファイルに書式設定の問題が発生する場合があります。 (これは、たとえば、EN-US ロケールが使用されていない場合に発生することがあります。)これらの問題を修正するには、次の手順に従います。 
 
 <ol>
-<li>Excel では、.csv ファイルを開き、最初の列を選択します。 リボンで、次のように選択します。<strong>データ</strong>、し、<strong>列にテキスト</strong>します。</li>
+<li>Excel で .csv ファイルを開き、最初の列を選択します。 リボンで <strong>[データ]</strong> を選択し、<strong>[区切り位置]</strong> を選択します。</li>
 
-<li>ウィザードの列にテキストを変換で次のように選択します。<strong>ファイルの種類の区切り</strong>、し、<strong>次</strong>。</li> 
+<li>区切り位置指定ウィザードで、<strong>[Delimited file type]\(区切られたファイルの種類\)</strong> を選択し、<strong>[次へ]</strong> を選択します。</li> 
 
-<li>区切り文字フィールドで、選択<strong>コンマ</strong>します。 場合<strong>タブ</strong>が既に選択されているおくことが可能にします。 <strong>[次へ]</strong> を選びます。</li>
+<li>[区切り文字] フィールドで、<strong>[コンマ]</strong> を選択します。 <strong>[タブ]</strong> が既に選択されている場合は、そのままで構いません。 <strong>[次へ]</strong> を選びます。</li>
 
-<li>列のデータ形式のフィールドで選択<strong>日付。年 (mdy)</strong>、し、<strong>次</strong>します。</li> 
+<li>[列のデータ形式] フィールドで、<strong>日付:MDY</strong> を選択し、<strong>[次へ]</strong> を選択します。</li> 
 
-<li>列のデータ形式のフィールドで選択<strong>テキスト</strong>列、および選択しすべて金額の<strong>完了</strong>します。</li>
+<li>[列のデータ形式] フィールドで、すべての金額の列で <strong>[テキスト]</strong> を選択し、<strong>[完了]</strong> を選択します。</li>
 </ol>
 
-## <a href="" id="itemizebypartner"></a>パートナーによって明細化します。
+## <a href="" id="itemizebypartner"></a>パートナーごとに明細を示す
 
 
 インダイレクト モデルのパートナーは、ライセンス ベースの調整ファイルと使用量ベースの調整ファイルの両方で、これらの追加フィールドを使用してリセラーごとに明細を記載できます。
@@ -65,7 +65,7 @@ ms.locfileid: "62132782"
 <td>リセラーの MPN ID</td>
 <td><p>インダイレクト モデルのパートナーの調整ファイルにのみ表示されます。</p>
 <p>サブスクリプションの登録のあるリセラーの MPN ID。 これは、パートナー センターで特定のサブスクリプションについて示されるリセラー ID に対応します。</p>
-<p>などの表示または更新、再販業者、パートナー センターのメニューから選択<strong>顧客</strong>、一覧から顧客を選択します。 顧客メニューの <strong>[サブスクリプション]</strong> を選び、一覧からサブスクリプションを選びます。 <strong>[更新]</strong> を選んで、<strong>[再販業者 (MPN ID)]</strong> を変更します。</p>
+<p>リセラーを表示または更新するには、パートナー センター メニューから <strong>[顧客]</strong> を選択し、一覧から顧客を選択します。 顧客メニューの <strong>[サブスクリプション]</strong> を選び、一覧からサブスクリプションを選びます。 <strong>[更新]</strong> を選んで、<strong>[再販業者 (MPN ID)]</strong> を変更します。</p>
 <p>CSP パートナーがお客様に直接サブスクリプションを販売した場合、パートナーの MPN ID が MPN ID とリセラーの MPN ID として 2 か所に表示されます。</p>
 <p>CSP パートナーのリセラーに MPN ID がない場合は、代わりに CSP パートナーの MPN ID がこの値に設定されます。</p>
 <p>CSP パートナーがリセラー ID を削除した場合、この値は -1 に設定されます。</p></td>
@@ -75,7 +75,7 @@ ms.locfileid: "62132782"
 
  
 
-## <a href="" id="licensebasedfiles"></a> ライセンス ベースのファイル フィールド
+## <a href="" id="licensebasedfiles"></a> ライセンス ベースのファイルのフィールド
 
 
 顧客の注文に対する料金を調整するには、調整ファイルの Syndication\_Partner\_Subscription\_Number とパートナー センターのサブスクリプション ID を比較します。
@@ -122,13 +122,13 @@ ms.locfileid: "62132782"
 <tr class="odd">
 <td>OfferID</td>
 <td><p>一意のプラン ID。 価格表に従った標準のプラン ID。</p>
-<p><b>注意</b>:この値では、価格表からプラン ID が一致しません。 以下の DurableOfferID を参照してください。</p></td>
+<p><b>注意</b>:この値は、価格表のプラン ID とは一致しません。 以下の DurableOfferID を参照してください。</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
 <td><p>価格表で定義されている一意の継続的なプラン ID。</p>
-<p><b>注意</b>:この値は、価格表からプラン ID と一致します。</p></td>
+<p><b>注意</b>:この値は価格表のプラン ID と一致します。</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -144,7 +144,7 @@ ms.locfileid: "62132782"
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>サブスクリプションの終了日:12 か月 + x 日間 (パートナーの請求日の連携) を開始日より後または更新日から 12 か月です。</p>
+<td><p>サブスクリプション終了日:開始日から 12 か月 + x 日後 (パートナーの請求日と合わせる) または更新日から 12 か月。</p>
 <p>更新時に、価格は最新の価格表に更新されます。 自動更新の前に、顧客とのやり取りが必要になる場合があります。</p>
 <p>時刻は常に、その日の始まりの時刻 (0:00) になります。</p></td>
 <td>2/1/2015 0:00</td>
@@ -174,7 +174,7 @@ ms.locfileid: "62132782"
 <td>6.82</td>
 </tr>
 <tr class="even">
-<td>Quantity</td>
+<td>数量</td>
 <td><p>シート数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 <td>2</td>
 </tr>
@@ -195,7 +195,7 @@ ms.locfileid: "62132782"
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>市場に基づく、量の料金に税&#39;s 税法規と特定の状況です。</p></td>
+<td><p>市場の税制や特定の状況に基づく税金の額。</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -210,7 +210,7 @@ ms.locfileid: "62132782"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>顧客&#39;パートナー センターで報告される組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。</p></td>
+<td><p>パートナー センターで報告される顧客の組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。</p></td>
 <td>Test Customer A</td>
 </tr>
 <tr class="even">
@@ -225,7 +225,7 @@ ms.locfileid: "62132782"
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>顧客&#39;のドメインの名前、顧客を識別するために使用します。 これを使用すると、顧客またはパートナーは O365 ポータルを使用して、バニティ/既定のドメインを更新できるように、ユーザーを一意に識別する必要がありますされません。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
+<td><p>顧客を特定するために使用する顧客のドメイン名。 顧客/パートナーは O365 ポータルからバニティ/既定のドメインを更新できるため、顧客を一意に識別するためにこれを使用しないでください。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -242,7 +242,7 @@ ms.locfileid: "62132782"
 </table>
 
 
-## <a href="" id="usagebasedfiles"></a>ファイルの使用法に基づくフィールド
+## <a href="" id="usagebasedfiles"></a>使用量ベースのファイルのフィールド
 
 
 顧客の使用量に対する料金を調整するには、調整ファイルの ResellerID/ResellerName/ResellerBillableAccount、顧客名、およびパートナー センターのサブスクリプション ID を比較します。
@@ -278,7 +278,7 @@ ms.locfileid: "62132782"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>顧客&#39;パートナー センターで報告される組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。</p></td>
+<td><p>パートナー センターで報告される顧客の組織名。 これは、システムの情報を使って請求書を調整するために非常に重要です。</p></td>
 <td>Test Customer A</td>
 </tr>
 <tr class="even">
@@ -399,7 +399,7 @@ ms.locfileid: "62132782"
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>市場に基づく、量の料金に税&#39;s 税法規と特定の状況です。</p></td>
+<td><p>市場の税制や特定の状況に基づく税金の額。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -460,7 +460,7 @@ ms.locfileid: "62132782"
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>特定の日にプロビジョニングされ、利用された ServiceBus 接続の数。</p></td>
-<td>例: 1 か月 30 日間の中に、個別にプロビジョニングされた接続がある場合、Service Info 1 は "1.000000 Connections / 30 days" と表示されます。 Service Bus 接続のプロビジョニングが 25 パックする必要があるし、その日に 1 つを利用して、その日、毎日の使用量明細を示す"25 接続/30 Days-Used:1.000000”.</td>
+<td>例: 1 か月 30 日間の中に、個別にプロビジョニングされた接続がある場合、Service Info 1 は "1.000000 Connections / 30 days" と表示されます。 プロビジョニングされた ServiceBus 接続が 25 パックあり、その日のうちに 1 つを利用した場合、その日の 1 日の使用量の計算書には、"25 Connections / 30 Days – Used:1.000000" と表示されます。</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -469,7 +469,7 @@ ms.locfileid: "62132782"
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>顧客&#39;のドメインの名前、顧客を識別するために使用します。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
+<td><p>顧客を特定するために使用する顧客のドメイン名。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -480,7 +480,7 @@ ms.locfileid: "62132782"
 </tbody>
 </table>
 
-## <a href="" id="marketplacefilefields"></a>1 回だけ、定期的なファイルのフィールド
+## <a href="" id="marketplacefilefields"></a>1 回限りおよび定期的なファイルのフィールド
 
 <table>
 <colgroup>
@@ -498,12 +498,12 @@ ms.locfileid: "62132782"
 
 <tr class="odd">
 <td>PartnerId</td>
-<td><p>GUID 形式で、特定の課金エンティティの一意の Microsoft Azure Active Directory テナント識別子。 調整には必要ありませんが、有用な情報である場合があります。 すべての行で同じです。</p></td>
+<td><p>特定の課金エンティティに対する一意の Microsoft Azure Active Directory テナント識別子 (GUID 形式)。 調整には必要ありませんが、有用な情報である場合があります。 すべての行で同じです。</p></td>
 </tr>
 
 <tr class="even">
-<td>[Customer Id]</td>
-<td><p>一意な Microsoft Azure Active Directory テナント ID、GUID 形式で顧客を識別するために使用します。</p></td>
+<td>Customer Id</td>
+<td><p>顧客を識別するために使用される、GUID 形式の一意の Microsoft Azure Active Directory テナント ID。</p></td>
 </tr>
 
 <tr class="odd">
@@ -513,11 +513,11 @@ ms.locfileid: "62132782"
 
 <tr class="even">
 <td>CustomerDomainName</td>
-<td><p>顧客のドメイン名。顧客を特定するために使用します。 これを使用すると、顧客またはパートナーは O365 ポータルを使用して、バニティ/既定のドメインを更新できるように、ユーザーを一意に識別する必要がありますされません。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
+<td><p>顧客のドメイン名。顧客を特定するために使用します。 顧客/パートナーは O365 ポータルからバニティ/既定のドメインを更新できるため、顧客を一意に識別するためにこれを使用しないでください。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
 </tr>
 
 <tr class="odd">
-<td>顧客の国</td>
+<td>Customer Country</td>
 <td><p>顧客の在住国。</p></td>
 </tr>
 
@@ -537,8 +537,8 @@ ms.locfileid: "62132782"
 </tr>
 
 <tr class="odd">
-<td>Order ID</td>
-<td><p>マイクロソフト コマース プラットフォームでの注文の一意識別子。 サポートに問い合わせる際に、注文の識別に有効な場合がありますが、調整には有用ではありません。</p></td>
+<td>注文 ID</td>
+<td><p>Microsoft コマース プラットフォームでの注文に対する一意の識別子。 サポートに問い合わせる際に、注文の識別に有効な場合がありますが、調整には有用ではありません。</p></td>
 </tr>
 
 <tr class="even">
@@ -562,7 +562,7 @@ ms.locfileid: "62132782"
 </tr>
 
 <tr class="even">
-<td>SKU 名</td>
+<td>SKU Name</td>
 <td><p>特定 SKU のタイトル。</p></td>
 </tr>
 
@@ -573,22 +573,22 @@ ms.locfileid: "62132782"
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>製品のパブリッシャーの名前。</p></td>
+<td><p>製品の発行元の名前。</p></td>
 </tr>
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>このパブリッシャーに対して一意の ID。</p></td>
+<td><p>この発行元の一意の ID。</p></td>
 </tr>
 
 <tr class="even">
-<td>サブスクリプションの説明</td>
+<td>Subscription Description</td>
 <td><p>サブスクリプションのフレンドリ名。</p></td>
 </tr>
 
 <tr class="odd">
 <td>サブスクリプション ID</td>
-<td><p>マイクロソフト コマース プラットフォームでサブスクリプションの一意の識別子。 サポートに問い合わせる際に、サブスクリプションの識別に有効な場合がありますが、調整には有用ではありません。 これは、パートナー管理コンソールのサブスクリプション ID と同じではありません。</p></td>
+<td><p>Microsoft コマース プラットフォームでのサブスクリプションの一意の識別子。 サポートに問い合わせる際に、サブスクリプションの識別に有効な場合がありますが、調整には有用ではありません。 これは、パートナー管理コンソールのサブスクリプション ID と同じではありません。</p></td>
 </tr>
 
 <tr class="even">
@@ -602,8 +602,8 @@ ms.locfileid: "62132782"
 </tr>
 
 <tr class="even">
-<td>用語と Billingcycle</td>
-<td><p>期間と購入の請求サイクルでします。 たとえば、「1 年、月単位です。」</p></td>
+<td>Term and Billingcycle</td>
+<td><p>購入の期間と請求サイクル。 例: “1 Year, Monthly” (1 年、月単位)。</p></td>
 </tr>
 
 <tr class="odd">
@@ -613,36 +613,36 @@ ms.locfileid: "62132782"
 
 <tr class="even">
 <td>単価</td>
-<td><p>購入時、pricelist で発行される価格です。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
+<td><p>購入時に価格表に公開されていた価格。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 </tr>
 
 <tr class="odd">
-<td>効果的な単体の価格</td>
-<td><p>調整が行われた後の単位の価格です。</p></td>
+<td>Effective Unit Price</td>
+<td><p>調整が行われた後の単価。</p></td>
 </tr>
 
 <tr class="even">
-<td>Quantity</td>
-<td><p>ユニットの数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
+<td>数量</td>
+<td><p>ユニット数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 </tr>
 
 <tr class="odd">
-<td>ユニットの種類</td>
-<td><p>購入されているユニットの種類。</p></td>
+<td>Unit type</td>
+<td><p>購入したユニットの種類。</p></td>
 </tr>
 
 <tr class="even">
 <td>DiscountDetails</td>
-<td><p>該当する何らかの割引の説明。</p></td>
+<td><p>適用可能なすべての割引の説明。</p></td>
 </tr>
 
 <tr class="odd">
-<td>小計</td>
+<td>Sub Total</td>
 <td><p>合計額 (税抜)。 割引の場合、小計が、予想される合計と一致することを確認します。</p></td>
 </tr>
 
 <tr class="even">
-<td>売上税合計</td>
+<td>Tax Total</td>
 <td><p>市場の税関連の規則や特定の状況に基づく税金の額。</p></td>
 </tr>
 
@@ -657,14 +657,14 @@ ms.locfileid: "62132782"
 </tr>
 
 <tr class="odd">
-<td>代替</td>
-<td><p>代替の識別子を注文 ID</p></td>
+<td>AlternateID</td>
+<td><p>注文 ID の代替識別子。</p></td>
 </tr>
 </tbody>
 </table>
 
 
-## <a href="" id="dailyratedusagefields"></a>評価の毎日の使用状況ファイルのフィールド
+## <a href="" id="dailyratedusagefields"></a>毎日評価される使用量ファイルのフィールド
 
 
 <table>
@@ -702,11 +702,11 @@ ms.locfileid: "62132782"
 
 <tr class="odd">
 <td>CustomerDomainName</td>
-<td><p>顧客のドメイン名。 現在のアクティビティは使用できません。</p></td>
+<td><p>顧客のドメイン名。 現在のアクティビティには使用できません。</p></td>
 </tr>
 
 <tr class="even">
-<td>顧客の国</td>
+<td>Customer country</td>
 <td><p>顧客の在住国。</p></td>
 </tr>
 
@@ -717,12 +717,12 @@ ms.locfileid: "62132782"
 
 <tr class="even">
 <td>Reseller MPNID</td>
-<td><p>サブスクリプションの登録のあるリセラーの MPN ID。 現在のアクティビティは使用できません。</p></td>
+<td><p>サブスクリプションの登録のあるリセラーの MPN ID。 現在のアクティビティには使用できません。</p></td>
 </tr>
 
 <tr class="odd">
 <td>InvoiceNumber</td>
-<td><p>指定されたトランザクションが含まれる請求書番号。 現在のアクティビティは使用できません。</p></td>
+<td><p>指定されたトランザクションが含まれる請求書番号。 現在のアクティビティには使用できません。</p></td>
 </tr>
 
 <tr class="even">
@@ -741,22 +741,22 @@ ms.locfileid: "62132782"
 </tr>
 
 <tr class="odd">
-<td>SKU 名</td>
+<td>SKU Name</td>
 <td><p>特定 SKU のタイトル。</p></td>
 </tr>
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>パブリッシャーの名前。</p></td>
+<td><p>発行元の名前。</p></td>
 </tr>
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>GUID 形式で、パブリッシャーの ID。 現在のアクティビティは使用できません。</p></td>
+<td><p>発行元の ID (GUID 形式)。 現在のアクティビティには使用できません。</p></td>
 </tr>
 
 <tr class=”even">
-<td>サブスクリプションの説明</td>
+<td>Subscription Description</td>
 <td><p>価格表で定義されている、顧客が購入したサービス プランの名前。 (これはプラン名と同一のフィールドです)。</p></td>
 </tr>
 
@@ -776,37 +776,37 @@ ms.locfileid: "62132782"
 </tr>
 
 <tr class="even">
-<td>使用日</td>
-<td><p>サービスの使用状況の日です。</p></td>
+<td>Usage Date</td>
+<td><p>サービス使用の日付。</p></td>
 </tr>
 
 <tr class="odd">
-<td>メーターの種類</td>
-<td><p>測定の種類。</p></td>
+<td>Meter Type</td>
+<td><p>メーターの種類。</p></td>
 </tr>
 
 <tr class="even">
-<td>メーター カテゴリ</td>
-<td><p>使用状況の最上位のサービスです。</p></td>
+<td>Meter Category</td>
+<td><p>使用状況の最上位サービス。</p></td>
 </tr>
 
 <tr class="odd">
-<td>測定 Id</td>
+<td>Meter Id</td>
 <td><p>使用されているメーターの ID。</p></td>
 </tr>
 
 <tr class="even">
-<td>測定サブカテゴリ</td>
-<td><p>速度に影響を与える Azure サービスの型。</p></td>
+<td>Meter Sub-category</td>
+<td><p>速度に影響を与える可能性がある Azure サービスの種類。</p></td>
 </tr>
 
 <tr class="odd">
-<td>測定名</td>
-<td><p>消費しているメーターの測定単位。</p></td>
+<td>Meter Name</td>
+<td><p>使用しているメーターの測定単位。</p></td>
 </tr>
 
 <tr class="even">
-<td>メーター リージョン</td>
+<td>Meter Region</td>
 <td><p>この列は、これが該当し、設定されている場合に、サービスの領域内でのデータ センターの場所を識別します。</p></td>
 </tr>
 
@@ -816,18 +816,18 @@ ms.locfileid: "62132782"
 </tr>
 
 <tr class="even">
-<td>使用量</td>
+<td>Consumed Quantity</td>
 <td><p>レポート期間のサービスの使用量 (時間、GB など)。 前のレポート期間から課金していない使用も含まれます。</p></td>
 </tr>
 
 <tr class="odd">
-<td>リソースの場所</td>
-<td><p>メーターが実行されているデータ センターです。</p></td>
+<td>Resource Location</td>
+<td><p>メーターが実行されているデータ センター。</p></td>
 </tr>
 
 <tr class="even">
-<td>使用するサービス</td>
-<td><p>使用して、Azure プラットフォーム サービスです。</p></td>
+<td>Consumed Service</td>
+<td><p>使用した Azure プラットフォーム サービス。</p></td>
 </tr>
 
 <tr class="odd">
@@ -836,75 +836,75 @@ ms.locfileid: "62132782"
 </tr>
 
 <tr class="even">
-<td>リソース URI</td>
+<td>Resource URI</td>
 <td><p>使用されているリソースの URI。</p></td>
 </tr>
 
 <tr class="odd">
 <td>請求の種類</td>
-<td><p>課金または調整の種類。 現在のアクティビティは使用できません。</p></td>
+<td><p>課金または調整の種類。 現在のアクティビティには使用できません。</p></td>
 </tr>
 
 <tr class="even">
 <td>単価</td>
-<td><p>購入時、pricelist でパブリッシュされると、ライセンスあたりの価格。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
+<td><p>ライセンス単価 (購入時に価格表に公開されていた価格)。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 </tr>
 
 <tr class="odd">
-<td>Quantity</td>
-<td><p>ライセンスの数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
+<td>数量</td>
+<td><p>ライセンス数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 </tr>
 
 <tr class="even">
-<td>ユニットの種類</td>
-<td><p>メーターが課金単位の種類。 現在のアクティビティは使用できません。</p></td>
+<td>Unit type</td>
+<td><p>メーターが課金するユニットの種類。 現在のアクティビティには使用できません。</p></td>
 </tr>
 
 <tr class="odd">
-<td>前の税金を請求</td>
-<td><p>税引き前に、の合計。</p></td>
+<td>Billing pre tax</td>
+<td><p>税引き前の合計金額。</p></td>
 </tr>
 
 <tr class="even">
-<td>請求通貨</td>
-<td><p>顧客の地理的リージョン内の通貨</p></td>
+<td>Billing currency</td>
+<td><p>顧客の地理的領域での通貨</p></td>
 </tr>
 
 <tr class="odd">
-<td>税込み合計を価格</td>
-<td><p>価格の税が追加される前にします。</p></td>
+<td>Pricing pretax total</td>
+<td><p>税金が追加される前の価格。</p></td>
 </tr>
 
 <tr class="even">
-<td>通貨の価格</td>
-<td><p>Pricelist 通貨です。</p></td>
+<td>Pricing currency</td>
+<td><p>価格表の通貨。</p></td>
 </tr>
 
 <tr class="odd">
-<td>サービス情報 1</td>
+<td>Service Info 1</td>
 <td><p>特定の日にプロビジョニングされ、利用された ServiceBus 接続の数。</p></td>
 </tr>
 
 <tr class="even">
-<td>サービス情報 2</td>
-<td><p>省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールドです。</p></td>
+<td>Service Info 2</td>
+<td><p>省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールド。</p></td>
 </tr>
 
 <tr class="odd">
-<td>Tags</td>
-<td><p>課金のレコードをグループ化の順序でメーターに割り当てるタグ。 たとえば、メーターを使用する部門ごとのコストを配布するのにタグを使用することができます。</p></td>
+<td>タグ</td>
+<td><p>課金レコードをグループ化するためにメーターに割り当てるタグ。 たとえば、タグを使用して、メーターを使用している部門ごとにコストを分配することができます。</p></td>
 </tr>
 
 <tr class="even">
-<td>追加情報</td>
-<td><p>追加情報は、他の列では説明しません。</p></td>
+<td>Additional Info</td>
+<td><p>他の列で網羅されていないすべての追加情報。</p></td>
 </tr>
 
 </tbody>
 </table>
 
 
-## <a href="" id="charge_types"></a>請求書と調整ファイルの間の料金のマッピング
+## <a href="" id="charge_types"></a>請求書と調整ファイルの間の課金のマッピング
 
 請求書は料金の概要を示し、調整ファイルは、課金の種類を含め、行項目のトランザクションの詳細な内訳を示します。
 
@@ -918,21 +918,21 @@ ms.locfileid: "62132782"
 <tbody>
 <tr>
 <td>
-<p><strong>請求書の料金の説明</strong></p>
+<p><strong>請求書の課金の説明</strong></p>
 </td>
 <td>
-<p><strong>調整ファイルの料金の説明 (ChargeType 列)</strong></p>
+<p><strong>調整ファイルの課金の説明 (ChargeType 列)</strong></p>
 </td>
 <td>
-<p><strong>この料金は何ですか。</strong></p>
+<p><strong>この課金の意味</strong></p>
 </td>
 <td>
-<p><strong>請求書にこれら ChargeTypes をマップする方法</strong></p>
+<p><strong>これらの ChargeTypes を請求書にマップする方法</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>ライセンス ベースの料金</strong></p>
+<p><strong>ライセンスベースの料金</strong></p>
 </td>
 <td>
 <p>アクティブ化料金</p>
@@ -981,7 +981,7 @@ ms.locfileid: "62132782"
 <p>Prorate fees when purchase</p>
 </td>
 <td>
-<p>年次請求に使用する場合、サブスクリプションの料金タイプ</p>
+<p>年次請求を使用する場合のサブスクリプションの料金タイプ</p>
 </td>
 </tr>
 <tr>
@@ -989,7 +989,7 @@ ms.locfileid: "62132782"
 <p>Purchase fee</p>
 </td>
 <td>
-<p>月額使用料を使用する場合、サブスクリプションの料金タイプ</p>
+<p>月次請求を使用する場合のサブスクリプションの料金タイプ</p>
 </td>
 </tr>
 <tr>
@@ -1056,7 +1056,7 @@ ms.locfileid: "62132782"
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>使用法に基づく割引</strong></p>
+<p><strong>使用量ベースの割引</strong></p>
 </td>
 <td>
 <p>Activation discount</p>
@@ -1097,10 +1097,10 @@ ms.locfileid: "62132782"
 
 <tr>
 <td>
-<p><strong>ライセンス ベースの割引</strong></p>
+<p><strong>ライセンスベースの割引</strong></p>
 </td>
 <td>
-<p><em>複数の料金の種類に適用できます。</em></p>
+<p><em>複数の種類の料金に適用される場合がある</em></p>
 </td>
 <td>
 <p></p>
@@ -1114,8 +1114,8 @@ ms.locfileid: "62132782"
 <p><strong>税</strong>&nbsp;または&nbsp;<strong>VAT</strong></p>
 </td>
 <td>
-<p><em>複数の料金の種類に適用できます。</em></p>
-<p><em>例外:&quot;行項目を相殺&quot;税金が既に含まれています。上記のクレジットを参照してください。</em></p>
+<p><em>複数の種類の料金に適用される場合がある</em></p>
+<p><em>例外:&quot;Offset a line item&quot; には既に税が含まれています。上記の「クレジット」を参照してください。</em></p>
 </td>
 <td>
 <p>税または付加価値税 (VAT)</p>

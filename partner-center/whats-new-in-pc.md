@@ -21,16 +21,16 @@ ms.locfileid: "62132912"
 
 ## <a name="check-out-new-features-and-capabilities"></a>新機能をご確認ください 
 
-パートナー センター チームは、定期的に管理およびビジネスの拡大に役立つ新機能を追加します。
+パートナー センター チームは、ビジネスの管理と拡大に役立つ新機能を定期的に追加しています。
 
 
-|**新機能**   |**詳細をについてください。**   |
+|**新機能**   |**詳細情報**   |
 |----------------------|:-----------------|
-|Azure Marketplace に発行されたソフトウェアにサービス (SaaS) 製品として、顧客のサブスクリプションを販売するパートナー センターの使用  | [Azure Marketplace 製品にサブスクリプションを販売する](sell-marketplace-products.md)|
-|CSP プログラムには、取得、プロビジョニング、およびパートナー センターと、Microsoft Azure ポータルを使用して商用の顧客に代わって Azure RI とサーバー サブスクリプションを管理するパートナーができるようにします。|[Azure reserved VM instances (RI) + Azure 用のサーバー サブスクリプション](azure-ri-server-subscriptions.md)|
-|パートナー センターのツアーを開始する (サインインが必要)|[パートナー センターのツアー](https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview)|
-|インセンティブの協力プログラムに参加している CSP パートナーの作成およびパートナー センター内の要求を管理できるようになりました|[インセンティブの申請の作成と管理](create-incentives-claims.md)|
-|今日、予測が十分可能で永続的なクラウド ワークロードはコスト効率の高いソリューションでサポートしたいという需要が急速に高まっています。Azure Reserved Instances と Windows Server and SQL Server Subscriptions が Microsoft CSP プログラムに含まれることで、パートナーはこのような顧客の需要に対応できます。 取得をプロビジョニング、および Azure 予約インスタンスと、Azure Hybrid Benefit を利用して、パートナー センター ポータルと Microsoft Azure Portal を使用して商用の顧客に代わってサーバー サブスクリプションを管理するようになりましたことができます。|[CSP を介したソフトウェア サブスクリプションを販売します。](csp-software-subscriptions.md)|
-|ビジネスの成長とニーズの追跡が容易な新しいデータ分析ツールの提供| [パートナーのコントリビューションの業績評価指標の把握](partner-contributions.md)|
-|CSP パートナーは、Azure の利用、間接リセラーの努力、ライセンスとサブスクリプションの導入と使用率を分析できるようになりました。|[Azure の使用状況の分析](analyze-azure-usage.md)[間接リセラーのパフォーマンスの分析](Analyze-indirect-resellers.md)[サブスクリプションとライセンスの分析](analyze-subscriptions-licenses.md)|
+|パートナー センターを使用して、顧客のサブスクリプションを Azure Marketplace に公開されたサービスとしてのソフトウェア (SaaS) 製品に販売する  | [Azure Marketplace 製品にサブスクリプションを販売する](sell-marketplace-products.md)|
+|CSP プログラムでは、パートナーが企業顧客に代わり、Microsoft パートナー センターと Microsoft Azure portal を使用して、Azure RI およびサーバー サブスクリプションの取得、プロビジョニング、管理を行うことができます。|[Azure Reserved VM Instances (RI) + Server Subscriptions for Azure](azure-ri-server-subscriptions.md)|
+|パートナー センターのツアー (サインインが必要)|[パートナー センターのツアー](https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview)|
+|インセンティブ協力プログラムに参加している CSP パートナーは、パートナー センターで申請を作成して管理できるようになりました。|[インセンティブの申請の作成と管理](create-incentives-claims.md)|
+|今日、予測が十分可能で永続的なクラウド ワークロードはコスト効率の高いソリューションでサポートしたいという需要が急速に高まっています。Azure Reserved Instances と Windows Server and SQL Server Subscriptions が Microsoft CSP プログラムに含まれることで、パートナーはこのような顧客の需要に対応できます。 パートナーが企業顧客に代わり、Azure ハイブリッド特典を活用することで、Microsoft パートナー センターと Microsoft Azure portal を使用して、Azure Reserved Instances と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。|[CSP によるソフトウェア サブスクリプションの販売](csp-software-subscriptions.md)|
+|ビジネスの成長とニーズの追跡が容易な新しいデータ分析ツールの提供| [パートナーの貢献度: パフォーマンス インジケーターの詳細を把握する](partner-contributions.md)|
+|CSP パートナーは、Azure の利用、間接リセラーの努力、ライセンスとサブスクリプションの導入と使用率を分析できるようになりました。|[Azure 利用状況分析](analyze-azure-usage.md)  [間接リセラーのパフォーマンス分析](Analyze-indirect-resellers.md)    [サブスクリプションとライセンスの分析](analyze-subscriptions-licenses.md)|
 

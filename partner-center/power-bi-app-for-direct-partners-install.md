@@ -22,16 +22,16 @@ ms.locfileid: "62134652"
 
 ## <a name="before-you-begin"></a>始める前に
 
-次の使用可能な Power BI アプリの一覧から、ビジネスに関係のあるアプリケーションを選択します。
-- [パートナーの直接](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+使用可能な Power BI アプリの次の一覧から、自分のビジネスに最も関係のあるアプリケーションを選択します。
+- [直接パートナー](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
-- [間接的なパートナー](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+- [間接パートナー](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
 
 - [間接リセラー](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
 
 パートナー センター分析アプリのプレビュー バージョンをインストールする前に、次の要件を満たしていることを確認してください。
 
-- お客様のビジネスには、正しい Power BI アプリを選択します。
+- 自分のビジネスに合った Power BI アプリを選択している。
 
 - Microsoft Power BI Professional または Microsoft Power BI Premium のアクティブなサブスクリプションがある。
 
@@ -62,4 +62,4 @@ ms.locfileid: "62134652"
 
 ## <a name="next-steps"></a>次のステップ
 
-[Microsoft Power BI 用のパートナー センターの Analytics のアプリで、ビジネス データを表示します。](power-bi-app-for-direct-partners-use.md)
+[Microsoft Power BI 用パートナー センター分析アプリでビジネス データを表示する](power-bi-app-for-direct-partners-use.md)

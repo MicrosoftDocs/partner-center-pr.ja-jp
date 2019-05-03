@@ -5,7 +5,7 @@ ms.date: 03/15/2019
 description: Cloudyn が提供する Azure Cost Management を使用するには、パートナー センター API へのアクセスをプロビジョニングする必要があります。
 author: Janet
 ms.author: janet
-Keywords: Azure コスト管理アプリでは、管理コストの削減、web アプリ
+Keywords: Azure コスト管理アプリ, コストの管理, Web アプリ
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 14b94e94c349fa142cb6bd37ed4ca94f7a9397b6
@@ -21,7 +21,7 @@ ms.locfileid: "62134672"
 
 -  パートナー センター
 
-[Azure Cost Management について詳細を取得します。](https://go.microsoft.com/fwlink/p/?linkid=857893)
+[Azure Cost Management の詳細情報](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
 ## <a name="before-you-begin"></a>始める前に
 Azure Cost Management を使用する前に、次の要件を満たしていることを確認してください。
@@ -31,14 +31,14 @@ Azure Cost Management を使用する前に、次の要件を満たしている�
 
 ## <a name="overview"></a>概要
 
-Cloudyn は、web アプリケーションを追跡し、Azure とその使用量のコストの顧客の使用量を管理することができます。 このアプリは、パートナー センター API 経由で使用します。
+Cloudyn は、お客様による Azure の使用量とその使用量に対するコストを追跡、管理できる Web アプリです。 このアプリは、パートナー センター API 経由で使用します。
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>パートナー センターで Web アプリを登録する
 パートナー センターで Azure Active Directory Web アプリを登録すると、アプリがパートナー センター API にアクセスできるようになります。 
 1.  [全体管理者または管理エージェント アカウント](create-user-accounts-and-set-permissions.md)を使って、[パートナー センター](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)にサインインします。
-2.  **パートナー センター**、**アカウント設定** &gt; **[アプリ管理](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** します。
+2.  **パートナー センター**から、**[アカウント設定]** &gt; **[アプリ管理](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** を選択します。
 3.  **[Web アプリ]** セクションで、**[新しいアプリの追加]** をクリックします。
-<br> **注意**:Web アプリを作成していた場合は、手順 3. を省略できます。
+<br> **注意**:既に Web アプリを作成済みの場合は、手順 3 を省略することができます。
 4.  登録する Web アプリの **商取引 ID** GUID と **アプリ ID** GUID をコピーして保存します。 Azure cost management アプリの 30 日間無料試用版を利用するには、両方の ID が必要です。
 
 ## <a name="add-a-secret-key-to-your-app"></a>アプリへの秘密鍵の追加
@@ -46,7 +46,7 @@ Cloudyn は、web アプリケーションを追跡し、Azure とその使用�
 2. **[キーの追加]** をクリックします。 
 3. 秘密キーの値を書き留めて保存します。 この値は、30 日間無料試用版の利用に必要です。<br>
    > [!NOTE]  
-   > アプリケーションの秘密キーでは、パスワードより長い有効期限と同様です。 後日使用できるように、安全な場所にキーの値を保存してください。
+   > アプリケーションの秘密キーは、有効期限の長いパスワードのようなものです。 後日使用できるように、安全な場所にキーの値を保存してください。
 
 ## <a name="next-steps"></a>次のステップ
 [30 日間無料試用版](https://go.microsoft.com/fwlink/?linkid=857895) をご利用ください。

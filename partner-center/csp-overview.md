@@ -60,21 +60,21 @@ ms.locfileid: "62134752"
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>CSP プログラムで販売できる国または地域
 
-お客様の会社の場所は、市場を決定します。 市場には、リージョンまたは CSP プランを販売できる国が含まれています。 参照してください[Cloud Solution Provider プログラムの地域市場や通貨](regional-authorization-overview.md)CSP 市場や通貨の完全な一覧についてはします。
+会社の場所によって市場が決まります。 市場には CSP プランを販売できる地域や国が含まれます。 CSP のすべての市場と通貨の一覧については、「[クラウド ソリューション プロバイダー プログラムの地域市場および通貨](regional-authorization-overview.md)」を参照してください。
 
-CSP には、顧客の代理としてを注文する前に、顧客は Microsoft Cloud の契約に署名しなければなりません。 該当の Microsoft クラウドの契約をお客様の場所に見つけることができます[ここ](agreements.md)します。  
+顧客の代わりに CSP プランを注文するには、事前に顧客が Microsoft Cloud 契約に署名する必要があります。 [こちらで](agreements.md)自分の顧客の所在地に適した Microsoft Cloud 契約を検索できます。  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>CSP プログラムで販売できる製品またはサービス
 
-すべての [Microsoft クラウド サービス](https://partner.microsoft.com/cloud-solution-provider/products-and-services)と、その他のさまざまな製品またはサービス (頻繁に変更あり) を販売できます。 CSP には、現在の月を表示するには、パートナー センターにサインインしてに移動し、 [**料金とプラン**](https://partnercenter.microsoft.com/pcv/sales)ページ。
+すべての [Microsoft クラウド サービス](https://partner.microsoft.com/cloud-solution-provider/products-and-services)と、その他のさまざまな製品またはサービス (頻繁に変更あり) を販売できます。 当月の CSP プランを確認するには、パートナー センターにサインインし、「[**料金とプラン**](https://partnercenter.microsoft.com/pcv/sales)」のページを参照してください。
 
 ## <a name="see-also"></a>関連項目 
 
 
-|**この情報を入手するには**   |**この記事を読む**   |
+|**必要な情報**   |**この記事を読む**   |
 |:---------------------------|:--------------------|
 |各 CSP モデルの要件   | [クラウド ソリューション プロバイダー プログラム](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
-|Microsoft ナショナル クラウドでの販売   | [マイクロソフトの各国のクラウドでの販売に適用されます。](csp-national-clouds-overview.md)|
-|Microsoft Cloud の契約の顧客のテンプレート   |[地域と言語別の Microsoft Cloud 契約](agreements.md)|
-|パートナー センターの間接プロバイダーのタスク  |[クラウド ソリューション プロバイダー プログラムに間接リセラーの提携します。](indirect-provider-tasks-in-partner-center.md)|
-|パートナー センターの間接リセラーのタスク   |[クラウド ソリューション プロバイダー プログラムに間接プロバイダーと提携します。](indirect-reseller-tasks-in-partner-center.md)|
+|Microsoft ナショナル クラウドでの販売   | [Microsoft ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)|
+|Microsoft Cloud 契約の顧客用テンプレート   |[地域と言語別の Microsoft Cloud 契約](agreements.md)|
+|パートナー センターでの間接プロバイダーのタスク  |[クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携](indirect-provider-tasks-in-partner-center.md)|
+|パートナー センターでの間接リセラーのタスク   |[クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携](indirect-reseller-tasks-in-partner-center.md)|

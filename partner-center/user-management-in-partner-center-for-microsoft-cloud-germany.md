@@ -40,13 +40,13 @@ Microsoft Cloud ドイツのパートナー センターにサインインして
 Microsoft Cloud ドイツの Azure portal に正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
 
 > [!NOTE]  
-> 以下のリンクを選択すると、別の web サイトを見ていきます。 
+> 下記のリンクを選択すると、別の Web サイトが開きます。 
 
--  [Azure Active Directory に新しいユーザーを追加します。](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Azure Active Directory に新しいユーザーを追加する](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Azure Active Directory での管理者ロールにユーザーを割り当てる](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Azure Active Directory でユーザーを管理者ロールに割り当てる](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Azure Active Directory でユーザーのパスワードをリセットします。](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Azure Active Directory でユーザーのパスワードをリセットする](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **関連トピック**
 

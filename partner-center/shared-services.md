@@ -21,7 +21,7 @@ ms.locfileid: "62134943"
 
 -  パートナー センター
 
-Azure Partner Shared Services は、CSP プログラムのパートナー様向けの新しいプランの種類です。このプランでは、パートナー様自身が使用する Azure サブスクリプションを購入できます。  Azure のライセンスおよび再販契約をマイクロソフトとの統合に購入、追跡、および機能に加えて Azure を管理するための統一的な方法を使用するパートナーにとっての機会を作成します。 Azure Partner Shared Services の提供開始により、パートナー様は、Microsoft Enterprise Agreement および Web ダイレクト プログラムと同じように、CSP で柔軟に Azure サブスクリプションを利用できるようになりました。開発環境やテスト環境の構築、内部負荷の展開、共有サービスやマルチテナント アプリケーションのホスティングなどのシナリオにも対応できます。  
+Azure Partner Shared Services は、CSP プログラムのパートナー様向けの新しいプランの種類です。このプランでは、パートナー様自身が使用する Azure サブスクリプションを購入できます。  パートナーにとっては、Microsoft との Azure ライセンス契約および再販契約を集約できるだけでなく、統一された方法で Azure を購入、追跡、管理できるようになります。 Azure Partner Shared Services の提供開始により、パートナー様は、Microsoft Enterprise Agreement および Web ダイレクト プログラムと同じように、CSP で柔軟に Azure サブスクリプションを利用できるようになりました。開発環境やテスト環境の構築、内部負荷の展開、共有サービスやマルチテナント アプリケーションのホスティングなどのシナリオにも対応できます。  
 
 ## <a name="create-the-shared-services-tenant"></a>共有サービス テナントを作成する
 
@@ -57,19 +57,19 @@ Azure の利用状況は、CSP 請求書と調整ファイルに記載されま�
 
 Azure Partner Shared Services の新しい価格ファイルを確認するには、**[販売]** > **[料金とプラン]** の順に移動し、現在の月の価格表を選択します。 今後数週間のうちには、特定の価格カードの API もリリースされる予定です。
 
-## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace のオファリングは、Azure Partner Shared Services
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>マーケットプレースのプランと Azure Partner Shared Services
 
-Azure Partner Shared Services (APSS) には、2019 年 3 月 1 日の時点での Marketplace サービスがサポートされていません。   
+2019 年 3 月 1 日時点で、Azure Partner Shared Services (APSS) ではマーケットプレースのプランがサポートされなくなります。   
 
-|**Marketplace のサポート**   |**APSS、2019 年 3 月 1 日より前に、でサポート**|**、2019 年 3 月 1 日後**|
+|**マーケットプレースのサポート**   |**2019 年 3 月 1 日より前にサポートされる APSS**|**2019 年 3 月 1 日以降**|
 |---------------------------|:----------------------------|:-------------------|
-|ライセンス (BYOL) と無料サービス   | 〇   | X|
-|その他のサード パーティの marketplace プラン   | X   |X|
+|ライセンス持ち込み (BYOL) と無料サービス   | 〇   | X|
+|その他のサードパーティのマーケットプレースのプラン   | X   |X|
 
 
-BYOL または解放したパートナー APSS を使用してデプロイされたサービスに影響はありません。ただし、2019 年 3 月 1 日後にないされる新しい BYOL または無料のサービスを購入できるようにします。 
+APSS を使用して展開された BYOL または無料サービスを備えたパートナーには影響がありませんが、2019 年 3 月 1 日以降、新しい BYOL や無料サービスを購入することはできません。 
 
-利用可能な Marketplace プランの完全なカタログ (BYOL、無料のサービスだけでなく) 利用するために、CSP パートナーは、web ダイレクト Azure サブスクリプションを使用する共有サービスをデプロイをお勧めします。  サード パーティの BYOL を展開し、無料の CSP パートナー以前、Marketplace からリソースをサービスを引き続きそれらを使用してよりサード パーティの web ダイレクト APSS サブスクリプションに移行することが推奨されますオファリングをデプロイ[への移行既存の Azure サブスクリプション](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)します。
+(BYOL や無料サービスだけでなく) 利用可能なすべてのマーケットプレースのプランを掲載するカタログを活用するには、CSP パートナーは Web ダイレクトの Azure サブスクリプションを使用して共有サービスを展開することをお勧めします。  以前よりマーケットプレースからサードパーティの BYOL と無料サービスのリソースを展開し、それらを引き続き使用してサードパーティのプランをさらに展開することを希望する CSP パートナーは、Web ダイレクト「[既存の Azure サブスクリプションを移行する](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)」に APSS サブスクリプションを移行することをお勧めします。
 
-後は、2019 年 3 月 1 日、APSS サブスクリプションを使用してを続行し、新しいサード パーティを展開する予定のパートナー、 [BYOL サービス](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)または無料のサービス、ことができます、APSS サブスクリプションにこれらを展開する Isv の指示に従います。
+2019 年 3 月 1 日以降、APSS サブスクリプションを継続して使用し、新しいサードパーティの [BYOL サービス](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)または無料サービスを展開することを計画しているパートナーは、これらを APSS サブスクリプションに展開するために ISV からの指示に従います。
 
