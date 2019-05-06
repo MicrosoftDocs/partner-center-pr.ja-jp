@@ -58,7 +58,7 @@ ms.locfileid: "62134062"
 
 1. パートナー センターの顧客のアカウント ページから顧客のドメイン名をコピーします。
 
-2. https://portal.azure.com/[customerdomainname] に移動します。 
+2. 移動して https://portal.azure.com/[customerdomainname]。 
 
 3. サポートが必要な Azure サブスクリプションを選択します。
 
