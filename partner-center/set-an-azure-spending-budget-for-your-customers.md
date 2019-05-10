@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 116fdff7c2a1ca30027dfa29bda5376fa101b089
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133952"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668643"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>お客様向けに Azure の支出の予算を設定する
 

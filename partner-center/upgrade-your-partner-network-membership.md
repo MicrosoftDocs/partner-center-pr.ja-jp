@@ -8,11 +8,11 @@ ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.openlocfilehash: c7d6639ef747c0089e89565680e96a22408770cb
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132862"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668723"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 

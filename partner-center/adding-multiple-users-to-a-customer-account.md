@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: 一括アップロード, 顧客アカウントへの複数ユーザーの追加, 顧客のユーザーの追加, 顧客のユーザーの一括アップロード, 顧客アカウント, 顧客のユーザー, ユーザー
 ms.localizationpriority: medium
 ms.openlocfilehash: b113736330b201ed6a4d1c6b8915e844b80fe5d5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134532"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668147"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>顧客アカウントへの複数ユーザーの追加
 

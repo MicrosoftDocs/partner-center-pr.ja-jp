@@ -9,11 +9,11 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 5156e58fe79551c5dec55558822b5f6021a837ca
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134031"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668374"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け)
 

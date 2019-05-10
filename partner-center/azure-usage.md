@@ -9,11 +9,11 @@ keywords: Azure, 予約, VM, 管理, 請求, 使用, サイズ
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 9a398b73cf00bd71130d25f0ec94a33b457e216b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135544"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668680"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ 
 
@@ -131,11 +131,11 @@ Azure Utilization API を使用すると、予約の使用状況データを取�
 >現時点では、Microsoft Windows Server などのソフトウェアの料金は VM 予約の価格に含まれず、注文レコードと請求書に個別の明細項目として表示されます。 ただし、顧客が Azure ハイブリッド特典を利用できる場合、ソフトウェア料金は適用されません。 詳しくは、「[Windows software costs not included with Reserved Instances](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs)」 (予約インスタンスに含まれない Windows ソフトウェアの料金) をご覧ください。  
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
-|**情報が必要な項目**   |**参照先**    |
+|**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved VM Instances の販売](azure-reservations.md)
-|パートナー センターで顧客の Azure Reservations を購入する   |[Azure Reservations の購入](azure-reservations-buying.md)
-|パートナー センターで Azure Reservations を管理する | [パートナー センターで Azure Reservations を管理する](azure-reservations-manage.md)
+|パートナー センターで顧客の Azure Reservations を購入する   |[Azure Reservations を購入する](azure-reservations-buying.md)
+|パートナー センターでの Azure Reservations の管理 | [パートナー センターで Azure Reservations を管理する](azure-reservations-manage.md)
 |Azure portal で Azure Reservations を購入する | [Azure Reserved VM Instances による仮想マシン料金の前払い](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) (Azure ヘルプ) |
 |Azure portal で Azure Reservations を管理する   |[予約済み VM インスタンスの管理](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) (Azure ヘルプ)  |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)

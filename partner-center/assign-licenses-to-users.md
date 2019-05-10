@@ -9,11 +9,11 @@ ms.author: evansma
 Keywords: 顧客管理, アカウント, アカウントの作成, ライセンス、ライセンスの割り当て, ユーザー管理, パスワード, パスワードのリセット, パスワードの変更
 ms.localizationpriority: medium
 ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134872"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668552"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>顧客アカウントのユーザー管理タスク
 

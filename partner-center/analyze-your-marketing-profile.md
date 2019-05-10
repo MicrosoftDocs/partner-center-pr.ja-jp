@@ -8,11 +8,11 @@ ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134912"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667902"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>ビジネス プロファイルの効果を分析する
 <!-- 

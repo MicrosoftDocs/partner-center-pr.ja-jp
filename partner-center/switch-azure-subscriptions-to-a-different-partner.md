@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: azure サブスクリプション, パートナーの切り替え, パートナーの変更, 新しいパートナーの獲得, 別のパートナー
 ms.localizationpriority: medium
 ms.openlocfilehash: 2298763cd01ebc2f1b3849db27363b0a39eb78bf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133863"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668547"
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure サブスクリプションの譲渡 
 

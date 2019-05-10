@@ -9,11 +9,11 @@ ms.author: evansma
 Keywords: 請求, 支払い, 注文, 使用状況, ライセンス ベースの請求, 契約応当日, 条件, キャンセル, 更新, 価格式, 調整ファイル, recon ファイル
 ms.localizationpriority: medium
 ms.openlocfilehash: 2a619356577345923cd78499d2ae5a1f3c6c1614
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135322"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668716"
 ---
 # <a name="common-billing-scenarios"></a>一般的な課金シナリオ
 

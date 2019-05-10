@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: 紹介, ビジネス プロファイル, パートナーの検索
 ms.localizationpriority: medium
 ms.openlocfilehash: d0dd23eaadc5a27a6818aeac2529288b639c6b36
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134028"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668352"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

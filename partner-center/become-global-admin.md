@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ドメイン, ドメインの確認, ドメインを確認, グローバル管理者, ユーザー ロール, アクセス許可
 ms.openlocfilehash: 55f69cb82789fa3b97bfe122b460ba9a129c37b7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135412"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667631"
 ---
 # <a name="verify-your-domain-ownership"></a>ドメインの所有者の確認
 

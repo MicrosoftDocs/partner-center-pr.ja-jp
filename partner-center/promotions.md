@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: eb925008e19a1512cfb43b340d4ecfa6c16f0e0d
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134662"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668760"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>プロモーションを使用して、新しい顧客の関心を引く  
 

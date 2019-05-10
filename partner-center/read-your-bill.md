@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
 ms.openlocfilehash: 9754127cf02d8c8a1098d4a3045b8960978483cc
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133962"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667195"
 ---
 # <a name="read-your-bill"></a>請求書の記載事項
 

@@ -8,11 +8,11 @@ ms.author: v-petand
 keywords: 顧客, 顧客たち, 同意, FAQ, MCA, Microsoft Cloud 契約
 ms.localizationpriority: medium
 ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135012"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668608"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問
 

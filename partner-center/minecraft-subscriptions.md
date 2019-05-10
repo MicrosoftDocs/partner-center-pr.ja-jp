@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: 認定教育パートナー, 教育, 教育機関への販売, 学校
 ms.localizationpriority: medium
 ms.openlocfilehash: 4c5b221bae98e203159afd8926bbdd3d3bbd0421
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134362"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667213"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Minecraft の販売:教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 

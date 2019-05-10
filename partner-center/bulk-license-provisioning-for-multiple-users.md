@@ -9,11 +9,11 @@ ms.author: evansma
 Keywords: ライセンスの割り当て, ライセンスの失効, 複数ユーザーへの割り当て,
 ms.localizationpriority: medium
 ms.openlocfilehash: e4917f4881b0dcca2e13f17dd116ff5faad0d0b9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135342"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667425"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>複数のユーザーへのライセンスの割り当てまたは取り消し
 

@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 1f6822568301576d1643346c21c56798bdb7c225
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134072"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668635"
 ---
 # <a name="tax-and-tax-exemptions"></a>税金と税金の除外
 

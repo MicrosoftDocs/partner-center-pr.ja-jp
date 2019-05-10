@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: medium
 ms.openlocfilehash: 59fafd8f2e12f073dd55e6275d1cb65919476e50
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135372"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668657"
 ---
 # <a name="billing"></a>請求
 

@@ -9,11 +9,11 @@ keywords: Skype for Business の計画、Skype の提供終了、Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: e71e6b05b5ea489b2b6b486f388f5c575dfd02c5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133930"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668213"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行
 

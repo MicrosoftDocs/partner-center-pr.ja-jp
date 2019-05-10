@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: efb357b1b9157155fdf5cf7f9ee59afa2c8b9abc
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133932"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668360"
 ---
 # <a name="reset-a-user-password"></a>ユーザー パスワードのリセット
 

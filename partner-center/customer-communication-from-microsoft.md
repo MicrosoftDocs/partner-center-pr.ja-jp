@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: 連絡、お客様への連絡、マイクロソフトに問い合わせる
 ms.localizationpriority: medium
 ms.openlocfilehash: 8dc78c78418c3d111ad83bc4a5ef5e304a0b90e7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134702"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668034"
 ---
 # <a name="customer-communication-from-microsoft"></a>Microsoft から顧客への通信
 

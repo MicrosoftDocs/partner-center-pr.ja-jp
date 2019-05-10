@@ -9,11 +9,11 @@ keywords: Azure, 予約, 管理, 請求, 購入
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: bf9d3bf1869a151172931f100cf10b28a7d75f27
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134682"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668309"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure Reservations を購入する 
 
@@ -132,7 +132,7 @@ ms.locfileid: "62134682"
 10. Azure portal で顧客の予約を管理するには、**[顧客]** ページで顧客を見つけてから、下矢印を選択してその顧客の行を展開します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
-|**情報**   |**この記事を読む**    |
+|**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved Instances の販売](azure-reservations.md) |
 |パートナー センターでの Azure Reservations の管理 | [パートナー センターでの Azure Reservations の管理](azure-reservations-manage.md)

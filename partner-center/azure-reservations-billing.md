@@ -9,11 +9,11 @@ keywords: Azure RI, Azure 予約インスタンス, 予約, VM, 管理, 請求, 
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.openlocfilehash: b99cb2a72d69cd33f9267a956f921aa65dedd482
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135422"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668485"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure Reserved VM Instances の請求
 
@@ -117,11 +117,11 @@ ms.locfileid: "62135422"
 請求書を無効にし、新しい請求書を発行するには、請求ページの調整欄からフォームをダウンロードします。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
-|**情報が必要な項目**   |**参照先**    |
+|**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved VM Instances の販売](azure-reservations.md)
-|パートナー センターで顧客の Azure Reservations を購入する   |[Azure Reservations の購入](azure-reservations-buying.md)
-| パートナー センターで Azure Reservations を管理する | [パートナー センターで Azure Reservations を管理する](azure-reservations-manage.md)
+|パートナー センターで顧客の Azure Reservations を購入する   |[Azure Reservations を購入する](azure-reservations-buying.md)
+| パートナー センターでの Azure Reservations の管理 | [パートナー センターで Azure Reservations を管理する](azure-reservations-manage.md)
 |Azure portal で Azure Reservations を購入する | [Azure Reserved VM Instances による仮想マシン料金の前払い](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) (Azure ヘルプ) |
 |Azure portal で Azure Reservations を管理する   |[予約済み VM インスタンスの管理](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) (Azure ヘルプ)  |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)

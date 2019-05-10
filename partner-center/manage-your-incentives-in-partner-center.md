@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 6f2f50ac3d965b20b1ee40983c624bde9b04ed5d
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134448"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668039"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>パートナー センターでインセンティブを管理する 
 

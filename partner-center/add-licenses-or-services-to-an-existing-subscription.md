@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: 既存のサブスクリプションにライセンスを追加する, 既存のサブスクリプションにシートを追加する, サブスクリプションを変更する, サブスクリプションの変更, 顧客のライセンスを追加購入する
 ms.localizationpriority: medium
 ms.openlocfilehash: 0f8ec69595c81a60c26153640274b6b29b1f9fc1
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134542"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668187"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>既存のサブスクリプションへのライセンスまたはサービスの追加
 

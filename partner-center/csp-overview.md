@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナ, CSP での販売, 直接パートナー, CSP 直接パートナー, CSP 間接リセラー, 直接 CSP, 間接 CSP, 直接モデル, 間接モデル, 間接リセラー, 間接プロバイダー, プロバイダー, ディストリビューター, クラウド ソリューション プロバイダー プログラム
 ms.localizationpriority: medium
 ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134752"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64666748"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 
 

@@ -9,11 +9,11 @@ Keywords: Azure コスト管理アプリ, コストの管理, Web アプリ
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 14b94e94c349fa142cb6bd37ed4ca94f7a9397b6
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134672"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668665"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure を販売する CSP パートナー様向けの Azure コスト管理アプリ  
 

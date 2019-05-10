@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: トレーニング受講券, ソフトウェア アシュアランス, トレーニング, 受講券の確認, 受講券の予約
 ms.localizationpriority: medium
 ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132588"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667971"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>よくあるご質問:受講券の確認および受け取りツールの使用 
 

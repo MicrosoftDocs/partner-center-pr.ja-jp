@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135662"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667307"
 ---
 # <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 

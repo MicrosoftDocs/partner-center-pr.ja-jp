@@ -9,11 +9,11 @@ keywords: Azure, 予約, 管理, 請求, 購入, 取り消し, 交換, 中途解
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134792"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668498"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>顧客に代わって Microsoft Azure Reservations を管理する
 
@@ -92,7 +92,7 @@ ms.locfileid: "62134792"
 5.  完了したら、**[作成]** を選択します。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
-|**情報**   |**この記事を読む**    |
+|**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved Instances の販売](azure-reservations.md) |
 |パートナー センターで顧客の Azure Reservations を購入する   |[Azure Reservations を購入する](azure-reservations-buying.md) |
