@@ -8,25 +8,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 3a3149adf746e199cf5b82e590997cc4e311db5d
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134282"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668507"
 ---
-# <a name="multi-channel-support"></a><span data-ttu-id="8d15e-103">マルチチャンネルのサポート</span><span class="sxs-lookup"><span data-stu-id="8d15e-103">Multi-channel support</span></span>
+# <a name="multi-channel-support"></a><span data-ttu-id="6bed9-103">マルチチャンネルのサポート</span><span class="sxs-lookup"><span data-stu-id="6bed9-103">Multi-channel support</span></span>
 
-<span data-ttu-id="8d15e-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="8d15e-104">**Applies to**</span></span>
+<span data-ttu-id="6bed9-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="6bed9-104">**Applies to**</span></span>
 
--  <span data-ttu-id="8d15e-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="8d15e-105">Partner Center</span></span>
--  <span data-ttu-id="8d15e-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="8d15e-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="6bed9-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="6bed9-105">Partner Center</span></span>
+-  <span data-ttu-id="6bed9-106">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="6bed9-106">Partner Center for Microsoft Cloud for US Government</span></span>
 
 
-<span data-ttu-id="8d15e-107">パートナー センターのマルチチャンネル機能は、顧客が他から購入したサブスクリプションの管理やサポートをパートナーに依頼する場合のシナリオに対応します。</span><span class="sxs-lookup"><span data-stu-id="8d15e-107">The Partner Center’s multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere.</span></span> <span data-ttu-id="8d15e-108">マルチチャンネルのサポートは次の場合に適用されます。</span><span class="sxs-lookup"><span data-stu-id="8d15e-108">Multi-channel support applies when the customer:</span></span>
+<span data-ttu-id="6bed9-107">パートナー センターのマルチチャンネル機能は、顧客が他から購入したサブスクリプションの管理やサポートをパートナーに依頼する場合のシナリオに対応します。</span><span class="sxs-lookup"><span data-stu-id="6bed9-107">The Partner Center’s multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere.</span></span> <span data-ttu-id="6bed9-108">マルチチャンネルのサポートは次の場合に適用されます。</span><span class="sxs-lookup"><span data-stu-id="6bed9-108">Multi-channel support applies when the customer:</span></span>
 
--   <span data-ttu-id="8d15e-109">顧客が既にマイクロソフトから直接サブスクリプションを購入した場合、または Advisor プログラム、Open プログラム、EA プログラムを通じて購入した場合。</span><span class="sxs-lookup"><span data-stu-id="8d15e-109">Already puchased subscriptions directly from Microsoft or through the Advisor, Open, or EA programs.</span></span>
+-   <span data-ttu-id="6bed9-109">顧客が既にマイクロソフトから直接サブスクリプションを購入した場合、または Advisor プログラム、Open プログラム、EA プログラムを通じて購入した場合。</span><span class="sxs-lookup"><span data-stu-id="6bed9-109">Already puchased subscriptions directly from Microsoft or through the Advisor, Open, or EA programs.</span></span>
 
--   <span data-ttu-id="8d15e-110">顧客がクラウド ソリューション プロバイダー プログラムに参加していないまたは Microsoft Syndication パートナーでないサード パーティからサブスクリプションを購入した場合。</span><span class="sxs-lookup"><span data-stu-id="8d15e-110">Purchased the subscriptions from a third party not in the Cloud Solution Provider program or not a Microsoft Syndication Partner.</span></span> <span data-ttu-id="8d15e-111">顧客は既存のライセンスベースのサブスクリプションを、クラウド ソリューション プロバイダー プログラムに参加していない別のパートナーに切り替えることはできません。サブスクリプションの期間が終了するまで待つか、移行する前にサブスクリプションをキャンセルする必要があります。</span><span class="sxs-lookup"><span data-stu-id="8d15e-111">Customers can’t switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program–they must wait until the end of their subscription period or cancel before moving.</span></span>
+-   <span data-ttu-id="6bed9-110">顧客がクラウド ソリューション プロバイダー プログラムに参加していないまたは Microsoft Syndication パートナーでないサード パーティからサブスクリプションを購入した場合。</span><span class="sxs-lookup"><span data-stu-id="6bed9-110">Purchased the subscriptions from a third party not in the Cloud Solution Provider program or not a Microsoft Syndication Partner.</span></span> <span data-ttu-id="6bed9-111">顧客は既存のライセンスベースのサブスクリプションを、クラウド ソリューション プロバイダー プログラムに参加していない別のパートナーに切り替えることはできません。サブスクリプションの期間が終了するまで待つか、移行する前にサブスクリプションをキャンセルする必要があります。</span><span class="sxs-lookup"><span data-stu-id="6bed9-111">Customers can’t switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program–they must wait until the end of their subscription period or cancel before moving.</span></span>
 
 
 <table>
@@ -36,29 +36,29 @@ ms.locfileid: "62134282"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><span data-ttu-id="8d15e-112"><strong>ライセンスベースのサービス</strong></span><span class="sxs-lookup"><span data-stu-id="8d15e-112"><strong>License-based services</strong></span></span></p></td>
-<td><p><span data-ttu-id="8d15e-113">マルチチャンネル アカウントのサポートを提供するには、サブスクリプションを管理するためのアクセス許可を顧客に要求する必要があります。</span><span class="sxs-lookup"><span data-stu-id="8d15e-113">To provide support for multi-channel accounts, you must request permissions from the customer to manage their subscriptions.</span></span> <span data-ttu-id="8d15e-114">この手順について詳しくは、「<a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">顧客との再販業者関係の要求</a>」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="8d15e-114">See <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Request a reseller relationship with a customer</a> for information about how to do this.</span></span></p></td>
+<td><p><span data-ttu-id="6bed9-112"><strong>ライセンスベースのサービス</strong></span><span class="sxs-lookup"><span data-stu-id="6bed9-112"><strong>License-based services</strong></span></span></p></td>
+<td><p><span data-ttu-id="6bed9-113">マルチチャンネル アカウントのサポートを提供するには、サブスクリプションを管理するためのアクセス許可を顧客に要求する必要があります。</span><span class="sxs-lookup"><span data-stu-id="6bed9-113">To provide support for multi-channel accounts, you must request permissions from the customer to manage their subscriptions.</span></span> <span data-ttu-id="6bed9-114">この手順について詳しくは、「<a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">顧客との再販業者関係の要求</a>」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="6bed9-114">See <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Request a reseller relationship with a customer</a> for information about how to do this.</span></span></p></td>
 </tr>
 <tr class="even">
-<td><p><span data-ttu-id="8d15e-115"><strong>使用量ベースのサービス</strong></span><span class="sxs-lookup"><span data-stu-id="8d15e-115"><strong>Usage-based services</strong></span></span></p></td>
+<td><p><span data-ttu-id="6bed9-115"><strong>使用量ベースのサービス</strong></span><span class="sxs-lookup"><span data-stu-id="6bed9-115"><strong>Usage-based services</strong></span></span></p></td>
 <td>
-<p><span data-ttu-id="8d15e-116">顧客が、Advisor プログラム、Open プログラム、EA プログラムなどの別のチャンネルから Microsoft Azure サブスクリプションを既に取得している場合、パートナーはパートナー センターで新しい Azure サブスクリプションを作成し、サブスクリプションの詳細情報を手動で入力した後、個別のサービスまたはサブスクリプション全体を取り消す必要があります。</span><span class="sxs-lookup"><span data-stu-id="8d15e-116">For a customer who already has a subscription to Microsoft Azure from another channel, such as Advisor, Open, or EA, you&#39;ll need to create a new Azure subscription in Partner Center, manually enter the subscription details, and then cancel the individual services or the entire subscription.</span></span></p>
-<p><span data-ttu-id="8d15e-117">たとえば、顧客が別のパートナーの Microsoft Azure サブスクリプションを既に持っている場合は、Azure サービスを他のパートナーに切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="8d15e-117">For a customer who already has a subscription to Microsoft Azure from another partner, for example, you can switch Azure services to the other partner.</span></span> <span data-ttu-id="8d15e-118">詳しくは、「<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Azure サブスクリプションの別のパートナーへの切り替え</a>」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="8d15e-118">For more information, see <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Switch Azure subscriptions to a different partner</a>.</span></span></p>
+<p><span data-ttu-id="6bed9-116">顧客が、Advisor プログラム、Open プログラム、EA プログラムなどの別のチャンネルから Microsoft Azure サブスクリプションを既に取得している場合、パートナーはパートナー センターで新しい Azure サブスクリプションを作成し、サブスクリプションの詳細情報を手動で入力した後、個別のサービスまたはサブスクリプション全体を取り消す必要があります。</span><span class="sxs-lookup"><span data-stu-id="6bed9-116">For a customer who already has a subscription to Microsoft Azure from another channel, such as Advisor, Open, or EA, you&#39;ll need to create a new Azure subscription in Partner Center, manually enter the subscription details, and then cancel the individual services or the entire subscription.</span></span></p>
+<p><span data-ttu-id="6bed9-117">たとえば、顧客が別のパートナーの Microsoft Azure サブスクリプションを既に持っている場合は、Azure サービスを他のパートナーに切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="6bed9-117">For a customer who already has a subscription to Microsoft Azure from another partner, for example, you can switch Azure services to the other partner.</span></span> <span data-ttu-id="6bed9-118">詳しくは、「<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Azure サブスクリプションの別のパートナーへの切り替え</a>」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="6bed9-118">For more information, see <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Switch Azure subscriptions to a different partner</a>.</span></span></p>
 </td>
 </tr>
 </tbody>
 </table>
 
 > [!IMPORTANT]  
-> <span data-ttu-id="8d15e-119">現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。</span><span class="sxs-lookup"><span data-stu-id="8d15e-119">A CSP partner cannot resell online services to another CSP partner currently.</span></span> <span data-ttu-id="8d15e-120">マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。</span><span class="sxs-lookup"><span data-stu-id="8d15e-120">Microsoft continuously reviews policies and capabilities of all programs.</span></span> <span data-ttu-id="8d15e-121">機能のリリースに関するすべての情報は、パートナー センターなど、通常の伝達方法でお知らせします。</span><span class="sxs-lookup"><span data-stu-id="8d15e-121">Any announcements about feature releases will be announced through the usual communication channels, including the Partner Center.</span></span> 
+> <span data-ttu-id="6bed9-119">現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。</span><span class="sxs-lookup"><span data-stu-id="6bed9-119">A CSP partner cannot resell online services to another CSP partner currently.</span></span> <span data-ttu-id="6bed9-120">マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。</span><span class="sxs-lookup"><span data-stu-id="6bed9-120">Microsoft continuously reviews policies and capabilities of all programs.</span></span> <span data-ttu-id="6bed9-121">機能のリリースに関するすべての情報は、パートナー センターなど、通常の伝達方法でお知らせします。</span><span class="sxs-lookup"><span data-stu-id="6bed9-121">Any announcements about feature releases will be announced through the usual communication channels, including the Partner Center.</span></span> 
 
-## <a name="see-also"></a><span data-ttu-id="8d15e-122">関連項目</span><span class="sxs-lookup"><span data-stu-id="8d15e-122">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="6bed9-122">関連項目</span><span class="sxs-lookup"><span data-stu-id="6bed9-122">See also</span></span>
 
-[<span data-ttu-id="8d15e-123">他のパートナーと連携する</span><span class="sxs-lookup"><span data-stu-id="8d15e-123">Work with other partners</span></span>](work-with-other-partners.md)
+[<span data-ttu-id="6bed9-123">他のパートナーと連携する</span><span class="sxs-lookup"><span data-stu-id="6bed9-123">Work with other partners</span></span>](work-with-other-partners.md)
 
-<span data-ttu-id="8d15e-124">間接のリセラー向け: 「[間接プロバイダーとの提携](indirect-reseller-tasks-in-partner-center.md)」</span><span class="sxs-lookup"><span data-stu-id="8d15e-124">If you're an indirect reseller, see [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
+<span data-ttu-id="6bed9-124">間接のリセラー向け: 「[間接プロバイダーとの提携](indirect-reseller-tasks-in-partner-center.md)」</span><span class="sxs-lookup"><span data-stu-id="6bed9-124">If you're an indirect reseller, see [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
 
-<span data-ttu-id="8d15e-125">間接プロバイダー向け: 「[間接リセラーとの提携](indirect-provider-tasks-in-partner-center.md)」</span><span class="sxs-lookup"><span data-stu-id="8d15e-125">If you're an indirect provider, see [Partner with indirect resellers](indirect-provider-tasks-in-partner-center.md)</span></span> 
+<span data-ttu-id="6bed9-125">間接プロバイダー向け: 「[間接リセラーとの提携](indirect-provider-tasks-in-partner-center.md)」</span><span class="sxs-lookup"><span data-stu-id="6bed9-125">If you're an indirect provider, see [Partner with indirect resellers](indirect-provider-tasks-in-partner-center.md)</span></span> 
 
  
 

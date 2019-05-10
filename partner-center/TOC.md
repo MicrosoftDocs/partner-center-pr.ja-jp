@@ -2,6 +2,11 @@
 
 # [Partner Network メンバーシップ](mpn-overview.md)
 ## [パートナー センター アカウントを作成する](mpn-create-a-partner-center-account.md)
+## PMC からパートナー センターに移行する
+### [PMC からパートナー センターに移行するためのガイド](guide-to-migration.md)
+### [PMC と PC の違いの概要](move-pmc-pc-map.md)
+### [複数の会社をパートナー センターに移行するためのガイド](move-multiple-companies.md)
+### [会社の統合](consolidate-accounts.md)
 ## メンバーシップの提供
 ### [Action Pack](mpn-get-action-pack.md)
 ### [プランの更新](renew-mpn-offers.md)
@@ -46,7 +51,7 @@
 ## [インセンティブの申請](claims-overview.md)
 ### [インセンティブの申請の作成と管理](create-incentives-claims.md)
 ### [インセンティブの申請の主要な要件](core-requirements.md)
-### [インセンティブ申請の支払いの概要](incentives-payouts.md)
+### [インセンティブの支払いについて](understand-incentive-payouts.md)
 ### [パートナー センターでの OSA 申請の送信](submit-osa-claim.md)
 
 
@@ -58,7 +63,6 @@
 ## [調整ファイルを使う](use-the-reconciliation-files.md)
 ## [税金と税金の除外](tax-and-tax-exemptions.md)
 ## [組織の VAT 情報](organization-tax-info.md)
-## [クラウド ソリューション プロバイダー アカウントの与信限度額](account-credit-limit.md)
 ## [お客様向けに Azure の支出の予算を設定する](set-an-azure-spending-budget-for-your-customers.md)
 ## [一般的な課金シナリオ](common-billing-scenarios.md)
 ## [未払い、詐欺、不正使用](non-payment--fraud--or-misuse.md)

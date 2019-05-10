@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
+ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134603"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "65035520"
 ---
 # <a name="welcome-to-partner-center"></a>パートナー センターへようこそ
 
@@ -85,9 +85,9 @@ Microsoft パートナー センターは、Microsoft とのエンド ツー エ
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>ソフトウェア アシュアランス プログラム</h3>
-                        <p>パートナー センターでソフトウェア アシュアランス トレーニングと展開サービスに今すぐ登録できます。</p></a>
+                    <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
+                        <h3>PMC から PC への移行</h3>
+                        <p>パートナー センターへの移行に向けた会社の準備方法を確認します</p></a>
                     </div>
                 </div>
             </div>
@@ -97,9 +97,9 @@ Microsoft パートナー センターは、Microsoft とのエンド ツー エ
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>受講券の確認と受け取りツール</h3>
-                        <p>お客様の顧客のビジネスと開発のニーズに応える受講券を要求して引き換えます。</p></a>
+                    <div class="cardText"><a href="/partner-center/Azure-expert-msp">
+                        <h3>Azure Expert マネージド サービス プロバイダー プログラム</h3>
+                        <p>貴社が Azure の販売やサポートで際立った業績を上げている場合。 Azure Expert MSP プログラムへの登録についてご確認ください</p></a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ Microsoft パートナー センターは、Microsoft とのエンド ツー エ
                     </div>
                     <div class="cardText">
                         <h3>サインアップ</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">アカウントを作成する</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">テナントと場所の管理</a></p>
+                        <p><a href="/partner-center/manage-locations">場所の管理</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">テナントの管理</a></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ Microsoft パートナー センターは、Microsoft とのエンド ツー エ
                     </div>
                     <div class="cardText">
                         <h3>顧客との関係の確立</h3>
-                        <p><a href="/partner-center/customer-accounts">顧客アカウント</a><br /><a href="/partner-center/customer-subscriptions">サブスクリプションの販売</a><br /><a href="/partner-center/assign-licenses-to-users">ライセンスを管理する</a><br /><a href="/partner-center/billing">請求</a></p>
+                        <p><a href="/partner-center/csp-offers">顧客のために製品を購入する</a><br /><a href="/partner-center/customer-subscriptions">サブスクリプションの販売</a><br /><a href="/partner-center/assign-licenses-to-users">ライセンスを管理する</a><br /><a href="/partner-center/billing">請求</a></p>
                     </div>
                 </div>
             </div>
