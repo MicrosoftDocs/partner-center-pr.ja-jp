@@ -1,18 +1,18 @@
 ---
 title: 特別価格の対象となる業界への販売 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/14/2019
 Description: Microsoft は、教育機関、非営利団体、行政機関ユーザーなど、特定の顧客に対して特別割引価格をご用意しています。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: c7a6ae484ee250b6f1afa67ab7ac2703874b35bf
+ms.sourcegitcommit: d73afa31cc486b11e22314faa254aa50ed4f8d3b
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667307"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "65623803"
 ---
 # <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 
@@ -32,6 +32,8 @@ ms.locfileid: "64667307"
 
 
 ## <a name="check-your-reseller-qualifications"></a>リセラーの認定状態を確認する
+
+次の手順では、間接プロバイダーにのみ適用できるし、パートナーの請求書を直接します。 間接リセラーは、修飾の教育機関のユーザーを教育機関価格プランを配信する間接のプロバイダーに接続する必要があります。 
 
 1.  パートナー ダッシュボードで、ウィンドウの右上隅にある歯車アイコンを選び、**[アカウント設定]** を開きます。
 2.  **[パートナー プロファイル]** の **[プログラム情報]** セクションで **[リセラーの資格]** を参照します。

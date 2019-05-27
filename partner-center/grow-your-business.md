@@ -1,18 +1,18 @@
 ---
 title: Microsoft パートナー ビジネスの拡大 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/23/2019
 description: Microsoft パートナー ビジネスを拡大するためのリソース。 Microsoft から見込み情報 (紹介案件) を受け取る方法が含まれています。
 keywords: 紹介案件, 紹介案件への対応, 潜在顧客, 見込み情報, マーケティング プロファイル, ビジネス プロファイル, ビジネスの拡大, ビジネス チャンス, コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, 試用版, 市場の拡大, ナショナル クラウド
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 77146f87bb46a4d86ffd9966ed5c5ec860e0cdda
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 9117b1ba43d809eb1e1c51b6ba28ac52a73ddd18
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667610"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176168"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft パートナー ビジネスの拡大 
 
@@ -33,7 +33,7 @@ Microsoft では、パートナー ビジネスを拡大するために役立つ
 
 |  **目的**  |  **方法についての参照先**  |  **適用対象**  |
 |--------------|-----------|--------------
-| 見込み情報の取得と管理を行う | まず、顧客がソリューション プロバイダーを検索する際の対象となるように[ビジネス プロファイルを作成](create-a-marketing-profile.md)します。次に、[パートナー センターで見込み情報を管理する方法](responding-to-referrals.md)をご覧ください。 | すべての ネットワーク パートナー |
+| 見込み情報の取得と管理を行う | まず[ビジネス プロファイルを作成する](create-a-marketing-profile.md)顧客に見つけてもらいましょうソリューション プロバイダー、検索について説明し、それらと[参照への応答](responding-to-referrals.md)。 | すべての ネットワーク パートナー |
 | パートナー ステータス (Silver または Gold) を獲得する | Microsoft Partner Network サイトの[コンピテンシー パートナー用ページ](https://partner.microsoft.com/membership/competencies)で、Silver または Gold メンバーシップ レベルの要件を満たす方法を確認します。 コンピテンシー情報をパートナー センターに移動する場合は、[パートナー センターでコンピテンシーを管理する方法](competencies.md)をご覧ください。 | すべての ネットワーク パートナー |
 | Microsoft の製品の試用版サブスクリプションを顧客に提供する | 「[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)」で、試用版サブスクリプションを使用して顧客基盤を拡大する方法を確認します。| CSP パートナー |
 | Microsoft サブスクリプションのプロモーション価格を顧客に提供する | マイクロソフトは、ライセンス ベースのサブスクリプションのプロモーションを随時実施しており、パートナー様はこれを活用して顧客に割引価格でサブスクリプションを提供し、ビジネスの拡大を図ることができます。 [Microsoft サブスクリプションのプロモーション価格を顧客に提供する方法](promotions.md)をご覧ください。 | CSP パートナー |

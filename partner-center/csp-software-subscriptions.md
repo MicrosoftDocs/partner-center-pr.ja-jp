@@ -1,25 +1,25 @@
 ---
 title: CSP によるソフトウェア サブスクリプションの販売 |パートナー センター
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 05/13/2019
 description: パートナーが企業顧客に代わり、Azure ハイブリッド特典を活用することで、Microsoft パートナー センターと Azure portal を通じて、Azure Reserved Instances と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Azure RI, Windows Server, SQL Server, ソフトウェア サブスクリプション
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2a38ace2eb565ca0264d9d4154b4a9876f434494
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134742"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176189"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP によるソフトウェア サブスクリプションの販売
 
-今日、予測が十分可能で永続的なクラウド ワークロードはコスト効率の高いソリューションでサポートしたいという需要が急速に高まっています。Azure Reservations と Windows Server and SQL Server Subscriptions が Microsoft CSP プログラムに含まれることで、パートナーはこのような顧客の需要に対応できます。 
+Azure 予約とサーバー サブスクリプション (Windows Server および SQL Server サブスクリプション) の場合は、CSP プログラムにパートナーの向上アドレス急速に成長する顧客の需要予測可能かつ永続的なをサポートするその他のコスト効率に優れたソリューションをクラウドのワークロード。 
 
-パートナーが企業顧客に代わり、Azure ハイブリッド特典を活用することで、Microsoft パートナー センターと Azure portal を通じて、Azure Reservations と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。 
+取得、プロビジョニング、および Azure Hybrid Benefit を利用して Azure の予約とパートナー センターと Azure Portal を使用して商用顧客に代わってサーバー サブスクリプションを管理するようになりましたことができます。 
 
 Azure ハイブリッド特典を利用すると、Windows Server ライセンスから得られる価値を拡大し、仮想マシンのコストを最大で 40% 節約できます。 この特典はソフトウェア アシュアランスに含まれており、Windows Server Datacenter および Standard エディションのライセンスで利用できます。 エディションによっては、ライセンスを変換または再利用して、低いベース コンピューティング レート (Linux 仮想マシン レーなどト) で Windows Server 仮想マシンを Azure で実行できます。
 
@@ -59,6 +59,16 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 
 >[!NOTE]
 >このリンクは、2 週間後または 50 回のダウンロードのどちらか早い方のタイミングで期限切れになります。 リンクが期限切れになった場合は、このページに戻り、**[キーとダウンロードの取得]** をもう一度選択して、2 週間または 50 回のダウンロードを再び有効にします。 この操作は、必要な回数だけ行うことができます。 
+
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>ソフトウェア キーへのアクセスとソフトウェアのダウンロードの利用状況の表示
+監査やコンプライアンスの目的では、サーバー サブスクリプション ソフトウェア キーにアクセスするかサーバー サブスクリプションのソフトウェアをダウンロードするユーザーの一覧を確認する必要があります。 この情報にアクセスするのにには、次の手順を使用します。 
+
+>[!NOTE]
+>これらのアクティビティ ログを表示する、グローバル管理者、アカウント管理者、紹介管理者、またはマーケティングのコンテンツ管理する必要があります。 
+
+1.  パートナー センターの右上隅の歯車アイコンを選択します。 
+2.  メニューで、次のように選択します。**アクティビティ ログ**します。
+3.  表示アクティビティの日付範囲を入力します。 アクティビティ ログが、ソフトウェア キーのアクセスまたは指定した期間中にソフトウェアをダウンロードしたユーザーの一覧が表示されます。 
 
 ## <a name="cancel-a-purchase"></a>購入を取り消す
 
