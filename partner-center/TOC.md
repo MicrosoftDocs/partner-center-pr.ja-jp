@@ -17,6 +17,9 @@
 ### [パートナー センターで受講券の確認および受け取りツールを使用して、受講券の確認、予約、引き換えを行う](voucher-validation-tool.md)
 ### [よく寄せられる質問:受講券の確認および受け取りツールの使用](vvr-faq.md)
 ### [パートナー センターでのソフトウェア アシュアランス計画サービス](software-assurance-dps.md)
+## 請求と税金
+### [Microsoft Partner Network の請求と税金](mpn-view-print-maps-invoice.md)
+
 
 # [クラウド ソリューション プロバイダー](csp-overview.md)
 ## [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
