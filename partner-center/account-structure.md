@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3dff4e418b65475a5919cafc58783858f6db320a
-ms.sourcegitcommit: 499ea19037fab7bfd8c284761ddcdf1df45ea796
+ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
+ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "66447954"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "66458876"
 ---
 # <a name="the-account-structure-in-partner-center"></a>パートナー センター アカウント構造
 
@@ -34,6 +34,8 @@ ms.locfileid: "66447954"
 - パートナーの設定からパートナーの場所のアカウントの一覧を表示には、場所]-> [です。
 - 場所のすべてのアカウントは、プライマリ グローバル アカウントと同じレベルには。
 - アカウント管理者では、追加したり、場所を削除することができます。
+
+![アカウントの構造体](images/accountstructure.png)
 
 場所を管理する方法の詳細については、読み取る[パートナー アカウントの管理します。場所](manage-locations.md)します。 
 
