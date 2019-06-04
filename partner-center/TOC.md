@@ -2,6 +2,7 @@
 
 # [Partner Network メンバーシップ](mpn-overview.md)
 ## [パートナー センター アカウントを作成する](mpn-create-a-partner-center-account.md)
+## [パートナー センターでのアカウント構造](account-structure.md)
 ## PMC からパートナー センターに移行する
 ### [PMC からパートナー センターに移行するためのガイド](guide-to-migration.md)
 ### [PMC と PC の違いの概要](move-pmc-pc-map.md)
@@ -67,6 +68,7 @@
 ## [請求書の記載事項](read-your-bill.md)
 ## [調整ファイルを使う](use-the-reconciliation-files.md)
 ## [税金と税金の除外](tax-and-tax-exemptions.md)
+## [源泉徴収税の入金を確認する](withholding-tax-credit-form.md)
 ## [組織の VAT 情報](organization-tax-info.md)
 ## [お客様向けに Azure の支出の予算を設定する](set-an-azure-spending-budget-for-your-customers.md)
 ## [一般的な課金シナリオ](common-billing-scenarios.md)
