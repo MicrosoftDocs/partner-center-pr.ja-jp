@@ -7,6 +7,7 @@
 ### [PMC と PC の違いの概要](move-pmc-pc-map.md)
 ### [複数の会社をパートナー センターに移行するためのガイド](move-multiple-companies.md)
 ### [会社の統合](consolidate-accounts.md)
+
 ## メンバーシップの提供
 ### [Action Pack](mpn-get-action-pack.md)
 ### [プランの更新](renew-mpn-offers.md)
@@ -36,6 +37,7 @@
 
 # [パートナー センター アカウントの管理](partner-center-account-setup.md)
 ## [職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)
+## [パートナー センターでのアカウント構造](account-structure.md)
 ## [パートナー プロファイルの更新](update-your-partner-profile.md)
 ## [場所](manage-locations.md)
 ## [中断されたパートナー センター アカウントの復元](suspended-partner-center-account.md)
