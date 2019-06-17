@@ -1,18 +1,18 @@
 ---
 title: パートナー センター アカウント構造 |パートナー センター
 ms.topic: article
-ms.date: 05/31/2019
+ms.date: 06/13/2019
 description: 会社が、パートナー センター アカウントの 2 つのレベル。
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
-ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
+ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "66458876"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131719"
 ---
 # <a name="the-account-structure-in-partner-center"></a>パートナー センター アカウント構造
 
@@ -28,7 +28,7 @@ ms.locfileid: "66458876"
 
 ### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>2 番目のレベルのアカウントは、パートナー場所アカウント (PLA) と呼ばれる場所アカウントです。
 
-その下にあるその他のビジネスの所在地、PGA があります。 それぞれの場所が、独自の MPN ID  、DPOR の追加、インセンティブ プログラムに登録する、クラウド ソリューション プロバイダー プログラムのようなトランザクション ビジネスの場所の MPN ID を使用して、有料を取得します。 
+その下にあるその他のビジネスの所在地、PGA があります。 各場所では、独自の MPN ID またはパートナー場所アカウント (PLA) があります。 場所の MPN ID を使用して、トランザクション ビジネスおよびインセンティブ プログラムで登録します。
 
 - 各パートナーの場所のアカウントには、独自の有効なアドレスと主要連絡先を持つことができます。 グローバル アカウントまたはその他の場所、場所は、有効なアドレスを共有もできます。
 - パートナーの設定からパートナーの場所のアカウントの一覧を表示には、場所]-> [です。

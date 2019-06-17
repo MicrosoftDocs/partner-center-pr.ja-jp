@@ -1,20 +1,20 @@
 ---
-title: ユーザー パスワードをリセットする |パートナー センター
+title: ユーザーのパスワードをリセットまたは自分のパスワードの更新 |パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/15/2019
 description: ユーザーがパスワードを忘れた場合、新しい一時的なパスワードを割り当てることができます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: efb357b1b9157155fdf5cf7f9ee59afa2c8b9abc
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 83d7417dcd71323822d066faca6c193ca5ef2e58
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668360"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145338"
 ---
-# <a name="reset-a-user-password"></a>ユーザー パスワードのリセット
+# <a name="reset-a-user-password-or-update-your-own-password"></a>ユーザーのパスワードをリセットまたは自分のパスワードを更新
 
 **適用対象**
 
@@ -36,7 +36,7 @@ ms.locfileid: "64668360"
 
 **管理者自身のパスワードをリセットする**
 
-1.  パートナー センターにサインインします。 次に、画面上部の自分の名前を選び、**[マイ プロフィール]** を選択します。
+1.  パートナー センターにサインインします。 次に、画面上部の自分の名前を選び、 **[マイ プロフィール]** を選択します。
 
 2.  自分のロールを確認し、パスワードを変更するための手順を表示できます。
 
