@@ -6,12 +6,12 @@ description: PMC からビジネスをパートナー センターに移動す�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 16c29bdccd4c4853fcc28ed4f2752270415449b1
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
+ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145354"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "67157330"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>パートナー センターにパートナー メンバーシップ センター (PMC) からの移行の準備します。
 
@@ -116,11 +116,13 @@ Microsoft は、現在コンピテンシー、利点、インセンティブ、�
 
  **Visual Studio 特典割り当てを持つ、Microsoft アカウントを受け入れられるでしょうか。**
 
- [はい]。 Msa に割り当てられている Wisual Studio 特典は受け入れられ、保持されます。 また、パートナー センターでの更新後も保持されます。 ただし、MSA 割り当てを 1 回は、パートナー センターで移行を削除する場合は、パートナー センターに追加できません。
 
-MPN 管理者のみが会社の Azure AD テナントでの職場アカウントを Visual Studio 特典割り当てを追加できます。
+ [はい]。 Msa に割り当てられている visual Studio の特典は受け入れられ、保持されます。 また、パートナー センターでの更新後も保持されます。 ただし、MSA 割り当てを 1 回は、パートナー センターで移行を削除する場合は、パートナー センターに追加できません。
 
-すべてのテナントが、同じパートナー センター アカウントに関連付けられている場合、複数の AAD テナントのグローバル管理者では、Visual Studio の特典と Azure の使用量ベースの割り当てに、これらすべてのテナントでユーザーを追加できます。 
+パートナー センターでは、パートナーは職場アカウントの場所は、パートナーは MPN 管理者は、Azure AD テナントに MSA を同じテナントでゲスト ユーザー アカウントを追加できます。 複数の Azure AD テナントでグローバル管理者は、パートナーは、これらすべてのテナントが同じパートナー センター アカウントに関連付けられている場合は、パートナーは、Visual Studio の特典と Azure の使用量ベースの割り当てにこれらすべてのテナントでユーザーを追加する許可します。
+
+ゲスト ユーザーには、MPN の管理者または全体管理者によって Visual Studio の使用法に基づくサブスクリプションを割り当てることができますが、ゲスト ユーザーにサインインできないパートナー センターの MSA を使用します。 ゲスト ユーザーが、検証し、割り当てられた特典を使用するには、Azure と Visual Studio にサインインできる、ただし、します。
+
 
  **MCP、アソシエーションと、Partner University アクセスを管理にはどうする必要がありますか。**
 
