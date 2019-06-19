@@ -2,8 +2,9 @@
 
 # [Partner Network メンバーシップ](mpn-overview.md)
 ## [パートナー センター アカウントを作成する](mpn-create-a-partner-center-account.md)
-## [パートナー センターでのアカウント構造](account-structure.md)
+## [職場の電子メール アドレスを取得する方法](buy-email-domain.md)
 ## PMC からパートナー センターに移行する
+### [Partner Membership Center からパートナー センターへの移行を準備する](prepare-pmc-pc-migration.md)
 ### [PMC からパートナー センターに移行するためのガイド](guide-to-migration.md)
 ### [PMC と PC の違いの概要](move-pmc-pc-map.md)
 ### [複数の会社をパートナー センターに移行するためのガイド](move-multiple-companies.md)
@@ -39,6 +40,7 @@
 # [パートナー センター アカウントの管理](partner-center-account-setup.md)
 ## [職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)
 ## [パートナー センターでのアカウント構造](account-structure.md)
+## [アカウント情報の確認](verification-responses.md)
 ## [パートナー プロファイルの更新](update-your-partner-profile.md)
 ## [場所](manage-locations.md)
 ## [中断されたパートナー センター アカウントの復元](suspended-partner-center-account.md)
