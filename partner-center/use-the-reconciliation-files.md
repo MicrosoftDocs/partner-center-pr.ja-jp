@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e7b17cb39f266c404d7873dc17e471741d52b32
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
+ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668673"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67193419"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -39,6 +39,10 @@ ms.locfileid: "64668673"
 
 <li>[列のデータ形式] フィールドで、すべての金額の列で <strong>[テキスト]</strong> を選択し、<strong>[完了]</strong> を選択します。</li>
 </ol>
+
+## <a name="downloading-a-large-recon-file"></a>大規模な偵察ファイルのダウンロード
+
+偵察ファイルは、非常に大きくし、ダウンロードするが困難な場合があります。 大規模な偵察ファイルをダウンロードする PowerShell スクリプトでは、次を参照してください。 [Get 請求書の品目](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items)します。
 
 ## <a href="" id="itemizebypartner"></a>パートナーごとに明細を示す
 
@@ -174,7 +178,7 @@ ms.locfileid: "64668673"
 <td>6.82</td>
 </tr>
 <tr class="even">
-<td>数量</td>
+<td>Quantity</td>
 <td><p>シート数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 <td>2</td>
 </tr>
@@ -537,7 +541,7 @@ ms.locfileid: "64668673"
 </tr>
 
 <tr class="odd">
-<td>注文 ID</td>
+<td>Order ID</td>
 <td><p>Microsoft コマース プラットフォームでの注文に対する一意の識別子。 サポートに問い合わせる際に、注文の識別に有効な場合がありますが、調整には有用ではありません。</p></td>
 </tr>
 
@@ -622,7 +626,7 @@ ms.locfileid: "64668673"
 </tr>
 
 <tr class="even">
-<td>数量</td>
+<td>Quantity</td>
 <td><p>ユニット数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 </tr>
 
@@ -851,7 +855,7 @@ ms.locfileid: "64668673"
 </tr>
 
 <tr class="odd">
-<td>数量</td>
+<td>Quantity</td>
 <td><p>ライセンス数。 調整中に、請求システムに格納された情報と一致することを確認します。</p></td>
 </tr>
 
@@ -891,7 +895,7 @@ ms.locfileid: "64668673"
 </tr>
 
 <tr class="odd">
-<td>タグ</td>
+<td>Tags</td>
 <td><p>課金レコードをグループ化するためにメーターに割り当てるタグ。 たとえば、タグを使用して、メーターを使用している部門ごとにコストを分配することができます。</p></td>
 </tr>
 
@@ -1017,6 +1021,8 @@ ms.locfileid: "64668673"
 <p>アクティブ化から課金期間の終了までの日割り料金</p>
 </td>
 </tr>
+
+
 <tr>
 <td rowspan="2">
 <p><strong>利用料金</strong></p>
@@ -1039,6 +1045,7 @@ ms.locfileid: "64668673"
 <p>現在の課金期間のアクセス利用料</p>
 </td>
 </tr>
+
 <tr>
 <td>
 <p><strong>クレジット</strong></p>

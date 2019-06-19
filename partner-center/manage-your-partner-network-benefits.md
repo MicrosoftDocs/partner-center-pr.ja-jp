@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN、メンバーシップ特典、メンバーシップ
 ms.localizationpriority: medium
-ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: fe70af06cf6cea16f5d1f934733a588db9b7546e
+ms.sourcegitcommit: 2ab34b5d432b427f2fc2dba04019255122502eba
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668568"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67198318"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 
@@ -31,11 +31,11 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
 メンバーシップ特典パッケージを購入した後は、使用を開始できるように、ソフトウェア キーを入手して、従業員にライセンス、サブスクリプション、その他の特典を割り当てる必要があります。 
 
 >[!IMPORTANT]
->特典を購入するために組織内の全体管理者である必要はありませんが、特典を従業員に割り当てるには全体管理者である必要があります。  必要に応じて、[**[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) で、次の手順に従って全体管理者になることができます。 また、組織に既に全体管理者がいる場合があるため、必ずチームで確認してください。
+>特典を購入するために組織内の全体管理者である必要はありませんが、特典を従業員に割り当てるには全体管理者である必要があります。  必要に応じて、[ **[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) で、次の手順に従って全体管理者になることができます。 また、組織に既に全体管理者がいる場合があるため、必ずチームで確認してください。
 
 Action Pack サブスクリプションでは、内部使用権ソフトウェア ライセンス、クラウド サービス、Visual Studio サブスクリプション、サポートが割り当てられます。 [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) サイトで Action Pack サブスクリプションの詳細を確認できます。  
 
-メンバーシップ特典を表示および管理するには、[**[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) にアクセスします。
+メンバーシップ特典を表示および管理するには、[ **[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) にアクセスします。
 
 #### <a name="manage-software-benefits"></a>ソフトウェア特典を管理する
 
@@ -45,9 +45,9 @@ Action Pack サブスクリプションでは、内部使用権ソフトウェ�
 
 3. 各ソフトウェア製品は、以下の手順で開始できます。
 
-    a.  **[キーの取得]** を選んで、製品ライセンスキーを取得します。 記載されている特別な指示に必ず従ってください。
+    a. **[キーの取得]** を選んで、製品ライセンスキーを取得します。 記載されている特別な指示に必ず従ってください。
 
-    b.  製品を表示する言語を選びます。
+    b. 製品を表示する言語を選びます。
 
     c. ソフトウェアをインストールするコンピューターのオペレーティング システム (OS) の種類を選びます。
 
@@ -62,7 +62,7 @@ Action Pack サブスクリプションでは、内部使用権ソフトウェ�
 
 3. Microsoft Azure の使用量ベースのサブスクリプションをアクティブ化するには、自分をユーザーとして割り当てます。 サブスクリプションを管理するには、Microsoft Azure ポータルにアクセスします。
 
-    ライセンスベースのサブスクリプションをアクティブ化するには、**[キーの取得]** を選んで製品ライセンス キーをコピーし、サブスクリプションをアクティブ化するための特別な指示に従います。  
+    ライセンスベースのサブスクリプションをアクティブ化するには、 **[キーの取得]** を選んで製品ライセンス キーをコピーし、サブスクリプションをアクティブ化するための特別な指示に従います。  
 
 
 #### <a name="manage-visual-studio-subscriptions"></a>Visual Studio サブスクリプションを管理する
@@ -71,10 +71,10 @@ Action Pack サブスクリプションでは、内部使用権ソフトウェ�
 
 2. 使い始めるサブスクリプションを見つけ、行の右端にある下向き矢印を選んでサブスクリプションの詳細を展開します。 
 
-3. Visual Studio サブスクリプションをアクティブ化するには、ユーザーを一覧から選び、**[ユーザーの割り当て]** を選びます。 
+3. Visual Studio サブスクリプションをアクティブ化するには、ユーザーを一覧から選び、 **[ユーザーの割り当て]** を選びます。 
 
 > [!IMPORTANT]  
-> 割り当てるユーザーが一覧に表示されない場合は、**[アカウント設定]** で[新しいユーザーを追加](create-user-accounts-and-set-permissions.md)します。
+> 割り当てるユーザーが一覧に表示されない場合は、 **[アカウント設定]** で[新しいユーザーを追加](create-user-accounts-and-set-permissions.md)します。
 
 3. 割り当てる各サブスクリプションについて、この手順を繰り返します。 ユーザーは、Visual Studio ポータルでサブスクリプションを管理できます。 
 
@@ -90,16 +90,20 @@ Action Pack サブスクリプションでは、内部使用権ソフトウェ�
 
 3. サポート特典をアクティブ化するには、ユーザーをサポート特典に割り当てます。 
    
-    a.   リストからユーザーを選びます。 割り当てるユーザーが一覧に表示されない場合は、**[アカウント設定]** で[新しいユーザーを追加](create-user-accounts-and-set-permissions.md)します。
+    a.  リストからユーザーを選びます。 割り当てるユーザーが一覧に表示されない場合は、 **[アカウント設定]** で[新しいユーザーを追加](create-user-accounts-and-set-permissions.md)します。
 
-    b.   パートナーセンターアカウントに関連付けられたメール アドレスとは異なるユーザー メール アドレスを入力します。 
+    b.  パートナーセンターアカウントに関連付けられたメール アドレスとは異なるユーザー メール アドレスを入力します。 
     
     安全を期して、ユーザーのパートナー センター アカウントのメール アドレスに加え、このメール アドレスにもマイクロソフト製品サポートの利用手順を説明したメールが送信されます。 この特典を有効にし、割り当てられたユーザーに手順を記載したメールで届くまで数日かかることがあります。    
     
-    c.  別のメールアドレスの入力が完了したら、**[ユーザーの割り当て]** を選びます。 
+    c.  別のメールアドレスの入力が完了したら、 **[ユーザーの割り当て]** を選びます。 
 
 4. テクニカル プリセールス支援や相談時間の特典を使用して、クラウドおよびハイブリッド ソリューションのプリセールス、設計、デプロイメント、アプリケーション開発の各局面で技術支援をリクエストすることができます。 支援をリクエストするには、[リクエスト フォーム](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
-)に記入して、**[リクエストの送信]** を選択します。
+)に記入して、 **[リクエストの送信]** を選択します。
+
+## <a name="cancel-a-membership-benefit"></a>メンバーシップ特典をキャンセルします。
+
+特典をキャンセルし、返金を受信するためには、購入の 30 日以内に要求を行う必要があり、ありますが、ソフトウェアの特典をアクティブ化されていません。 サービス要求をキャンセルを要求します。
 
 
 #### <a name="see-also"></a>関連項目

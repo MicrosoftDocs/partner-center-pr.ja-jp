@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: フォームの税のクレジット、源泉徴収税のクレジット、税額控除、ドイツ語の課税フォームにクレジット
 ms.localizationpriority: medium
-ms.openlocfilehash: 35ed5d1a5da2699df9660bcce1806772fd75a6a0
-ms.sourcegitcommit: ece130080e67ce92bfc86b3892e33320cb13e49b
+ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
+ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "66410974"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67207576"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>源泉徴収税の返金はかどうかを確認します。
 
@@ -49,7 +49,8 @@ ms.locfileid: "66410974"
 2. 選択**パートナー サポートの要求**します。
 3. 選択**新しい要求**し**詳細**を選択します**パートナーの請求書、支払、または調整ファイルを支援します。**
 4. サービス要求を送信するときに必ず課税フォームにクレジットと税の証明書のデジタル コピーをアタッチしてください。
-5. 電子メールまたは電話で直接連絡いたします。
+5. 英語版のサービス要求を使用して英語以外の税の証明書を送信する場合の翻訳の税の証明書が必要です。
+6. 電子メールまたは電話で直接連絡いたします。
 
 使用して、**支払いを請求書による支払い**メソッド、税の証明書が受信され、正常に検証されたら、請求書残高がクリアされます約 1 週間以内にします。 
 
