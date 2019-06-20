@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ffc8ee2fa589168925aa2c20230df5978c209554
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 8123141a2a283bc646613a0dbcf69f8903a101a8
+ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668474"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "67262968"
 ---
 # <a name="organization-tax-information"></a>組織の税情報
 
@@ -24,11 +24,9 @@ ms.locfileid: "64668474"
 
 ### <a name="add-your-vat-id"></a>VAT ID を追加する
 
-1.  **パートナー センター**から **[Membership offers]\(メンバーシップの提供\)**-> **[Available]\(利用可能\)** に移動します
-2.  **[Add your VAT ID]\(VAT ID の追加\)** を選択します
-3.  組織の VAT ID を入力し、**[追加]** を選択して、**[次へ]** を選択します。
-
-
+1.  **パートナー センター**に移動して**アカウント設定**-> **パートナー課金プロファイル**します。
+2.  **[財務データ]** セクションで、 **[更新]** を選びます。
+3.  **会社の税 ID**フィールドで、VAT ID 番号を入力します。
 
 
 
