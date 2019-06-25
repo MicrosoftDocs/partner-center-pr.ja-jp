@@ -1,0 +1,162 @@
+### YamlMime:Tutorial
+title: パートナーのセキュリティ要件を実装します。
+metadata:
+  title: パートナーのセキュリティ要件を実装します。
+  description: このチュートリアルでは、パートナーのセキュリティ要件とそれを満たす方法について学びます。
+  audience: Partners
+  level: Beginner
+  ms.date: 06/24/2019
+  displayType: two-column
+  ms.custom: mvc
+  ms.openlocfilehash: 08a558f53c5f2f2c58141cdb66912e93b76fb21b
+  ms.sourcegitcommit: ca7f000a58575fa9a089693256c095120dde3c5d
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 06/24/2019
+  ms.locfileid: "67347011"
+items:
+- title: 概要
+  durationInMinutes: 5
+  content: >
+    お客様とパートナーのセキュリティとプライバシーは、Microsoft の最優先事項です。 引き続きを侵害された id に関連する主より高度なセキュリティ攻撃の増加を確認します。 予防的な制御は、セキュリティ攻撃を阻止するために全体的な防御戦略の重要な役割を再生には、まず一連のパートナーや顧客を保護するために必須のセキュリティ要件を適用します。
+
+
+    このチュートリアルをパートナーのセキュリティ要件の詳細については、パートナー ディレクトリのユーザーに与える影響と、それらを実行する方法。
+- title: パートナーのセキュリティ要件とは
+  durationInMinutes: 1
+  content: >
+    クラウド ソリューション プロバイダー プログラム、コントロール パネルの仕入先、およびアドバイザー パートナーに参加しているすべてのパートナーは、パートナー テナント内の各ユーザーの Multi-factor Authentication (MFA) を適用する必要があります。 これを行う 2 つの有効化[ベースライン ポリシーを Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)します。 ベースライン ポリシーでは、多くの一般的な攻撃から組織を保護するための定義済みのポリシーのセットです。 これらの一般的な攻撃には、パスワード スプレー、再生、およびフィッシングを含めることができます。 ベースライン ポリシーは、Azure Active Directory のすべてのエディションで使用できます。 Microsoft はこれらの基準の保護ポリシーを使用できるようにすべてのユーザー id ベースの攻撃は数年間増えているため、します。
+
+
+    有効にする必要がある 2 つのベースライン ポリシーは、次の表で説明します。
+
+
+    |**ポリシー**| |
+
+    |-----|-----|
+
+    |**管理者の MFA を要求します。**|管理者ポリシーに対して MFA を要求を有効にするには、Authenticator アプリを使用して、mfa に登録する管理者の役割のユーザーが必要です。 MFA の登録が完了すると、管理者がサインインするたびに MFA を実行する必要があります。|
+
+    |**エンドユーザーの保護**|エンドユーザーの保護は、ディレクトリ内のすべてのユーザーを保護するリスクに基づく MFA ベースライン ポリシーです。 このポリシーを有効にするには、Authenticator アプリを使用して、mfa に登録するすべてのユーザーが必要です。 ユーザーは、14 日間、その後 MFA に登録するまでのサインインからブロックされます、MFA 登録プロンプトを無視できます。 MFA に登録されると、リスクの高いサインインの試行中にのみ、ユーザーが MFA を求められます。 侵害されたユーザー アカウントは、自分のパスワードがリセットされ、リスク イベントが消去されたまでブロックされます。|
+
+
+    これらのポリシーを有効にすると、各ユーザーは同じ追加コストなしで Azure MFA を利用することができます。 サード パーティ製ソリューションを使用している場合は、Microsoft の商用クラウド サービスにアクセスするときに、各ユーザーの MFA を適用する必要があります。
+
+
+    > [!IMPORTANT]
+
+    > パートナー ディレクトリのすべてのユーザーに対して MFA が強制されますので、任意のオートメーションまたはユーザーの資格情報を利用するための統合に影響があります。 方法を変更する必要がこの影響に対処するにはのオートメーションまたは統合は Microsoft の商用クラウド サービスに接続します。 接続しているサービスは、トークン ベースの認証をサポートしているかどうかは、実装することをお勧め、[アプリケーション モデルをセキュリティで保護されたフレームワーク](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)します。
+- title: ベースライン ポリシーの管理者の MFA を要求を有効にする方法
+  durationInMinutes: 5
+  content: >
+    *管理者の MFA を要求*ベースライン ポリシーでは、次のディレクトリ ロールは、最も特権の Azure AD ロールがあると見なされますの MFA が必要です。
+
+
+    - 全体管理者
+
+    - SharePoint 管理者
+
+    - Exchange 管理者
+
+    - 条件付きアクセス管理者
+
+    - セキュリティ管理者
+
+    - ヘルプデスク管理者/パスワード管理者
+
+    - 課金管理者
+
+    - ユーザー管理者
+
+
+    管理者ポリシーに対して MFA を要求を有効にすると、上記の 9 つの管理者ロールは、Authenticator アプリを使用して、mfa に登録する必要があります。 MFA の登録が完了すると、管理者がサインインするたびに MFA を実行する必要があります。
+
+
+    お客様の組織は、これらのアカウントをスクリプトまたはコードで使用されているがある場合、は、それらを置き換えることを検討してください [の id を管理](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)します。
+
+
+    このポリシーを有効にして、管理者を保護する.
+
+
+    1. サインイン、 **Azure portal** グローバル管理者、セキュリティ管理者、または条件付きアクセス管理者として。
+
+    2. 参照する**Azure Active Directory** > **条件付きアクセス**します。
+
+    3. ポリシーの一覧で選択**ベースライン ポリシー。管理者の MFA を要求する**します。
+
+    4. 設定**ポリシーを有効にする**に**ポリシーを使用して、すぐに**します。
+
+    5. クリックして **保存**します。
+
+      ![管理者の MFA を要求します。](../images/security/baseline-policy-require-mfa-for-admins.png)
+
+    > [!WARNING]
+
+    > このポリシーを有効にする前に、ユーザーがレガシ認証プロトコルを使用していないことを確認します。 記事をご覧ください[方法。Azure AD の条件付きアクセスをブロック レガシ認証](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)詳細についてはします。
+
+
+    > [!IMPORTANT]
+
+    > MFA が適用されている場合は、Exchange Online の PowerShell に接続する委任された管理者の特権を活用する能力に影響を与える既知の問題があります。 参照してください[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)詳細についてはします。
+
+
+    有効にした後、*管理者向けの MFA を要求*ベースライン ポリシー、上の管理者ロールのメンバーであるユーザーによって検出される新しいエクスペリエンスにサインインしたときにします。 次の図は、このポリシーによって影響を受けるユーザーが生じます
+
+      ![詳細情報の入力を求める](../images/security/baseline-require-more-info.png)
+
+      ![追加のセキュリティ検証](../images/security/baseline-security-verification-setup.png)
+
+      ![モバイル アプリを構成します。](../images/security/baseline-configure-mobile-app.png)
+
+      ![追加のセキュリティ検証のセットアップが完了しました](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![追加のセキュリティ検証の確認](../images/security/baseline-security-verification-confirmed.png)
+
+    ユーザーが、上記の完了後にアクセスしようとした Microsoft クラウド サービスにサインインすることがされます。
+- title: エンドユーザーの保護のベースライン ポリシーを有効にする方法
+  durationInMinutes: 5
+  content: >-
+    エンドユーザーの保護のベースライン ポリシーは、ディレクトリ内のすべてのユーザーを保護します。 このポリシーを有効にするには、すべてのユーザーに 14 日以内に Azure MFA の登録が必要です。 ユーザーの入力を求め、登録されると、リスクの高いサインインの試行中にのみ mfa は、この動作は今後変更されるパートナー テナント。 パスワードのリセットし、ジョンソンをリスクになるまで、侵害されたユーザー アカウントはブロックされます。
+
+
+    ポリシー**ベースライン ポリシー。エンド ユーザー保護**事前構成されていて、Azure portal で条件付きアクセス ブレードに移動するとき、上部に表示されます。
+
+
+    このポリシーを有効にして、ユーザーを保護する.
+
+
+    1. サインイン、 **Azure portal** グローバル管理者、セキュリティ管理者、または条件付きアクセス管理者として。
+
+    2. 参照する**Azure Active Directory** > **条件付きアクセス**します。
+
+    3. ポリシーの一覧で選択**ベースライン ポリシー。エンド ユーザー protection (プレビュー)** します。
+
+    4. 設定**ポリシーを有効にする**に**ポリシーを使用して、すぐに**します。
+
+    5. クリックして **保存**します。
+
+      ![エンドユーザーの保護](../images/security/baseline-policy-end-user-protection.png)
+
+    > [!WARNING]
+
+    > このポリシーを有効にする前に、ユーザーがレガシ認証プロトコルを使用していないことを確認します。 記事をご覧ください[方法。Azure AD の条件付きアクセスをブロック レガシ認証](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)詳細についてはします。
+
+
+    > [!IMPORTANT]
+
+    > MFA が適用されている場合は、Exchange Online の PowerShell に接続する委任された管理者の特権を活用する能力に影響を与える既知の問題があります。 参照してください[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)詳細についてはします。
+
+
+    有効にすると、*エンドユーザー保護*ベースライン ポリシーをすべてユーザーが遭遇する、新しいエクスペリエンスにサインインしたときにします。 次の図は、ユーザーは何が発生
+
+      ![詳細情報の入力を求める](../images/security/baseline-require-more-info.png)
+
+      ![追加のセキュリティ検証](../images/security/baseline-security-verification-setup.png)
+
+      ![モバイル アプリを構成します。](../images/security/baseline-configure-mobile-app.png)
+
+      ![追加のセキュリティ検証のセットアップが完了しました](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![追加のセキュリティ検証の確認](../images/security/baseline-security-verification-confirmed.png)
+
+    ユーザーは、上記の完了後は、アクセスしようとした Microsoft クラウド サービスにサインインすることがあります。 パートナーのセキュリティ要件が適用されるまでに注意してくださいでカバーされていないユーザー、*管理者向けの MFA を要求*のリスクに基づいて MFA のベースライン ポリシーは要求のみです。

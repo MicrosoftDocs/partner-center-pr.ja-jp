@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
-ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
+ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67193419"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "67343467"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -1022,6 +1022,61 @@ ms.locfileid: "67193419"
 </td>
 </tr>
 
+
+
+<tr>
+<td rowspan="5">
+<p><strong>1 回限りの料金</strong></p>
+
+</td>
+<td>
+<p>新規</p>
+</td>
+<td>
+<p>新しい発注を作成するときに使用</p>
+</td>
+
+<p></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>addQuantity</p>
+</td>
+<td>
+<p>増加した後、元の購入と新しい数量の両方、返金で使用されます。</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>removeQuantity</p>
+</td>
+<td>
+<p>減少後の元の購入と新しい数量の両方、返金で使用されます。</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Cancel</p>
+</td>
+<td>
+<p>サブスクリプションが取り消されたときに使用</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Convert</p>
+</td>
+<td>
+<p>ライセンスのアップグレードが接続クライアントの数は変更されません。</p>
+</td>
+</tr>
 
 <tr>
 <td rowspan="2">
