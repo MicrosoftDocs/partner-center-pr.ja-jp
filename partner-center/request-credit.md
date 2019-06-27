@@ -7,12 +7,12 @@ ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 97b8120be91bbeb058597854a7114e98d2e3d0ae
-ms.sourcegitcommit: fa077891067952b3039383897ea53ce7cde03939
+ms.openlocfilehash: 72ded8ab9aa9546a4407e7729c16770fae893832
+ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67333991"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "67407871"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Microsoft から、SLA クレジットを要求します。 
 
@@ -34,7 +34,7 @@ SLA クレジットを要求するには、次の情報を提供する必要が�
 
 - 影響を受けるサブスクリプションが CSP を使用して購入したでしょうか。 はい/いいえ
 
-サービスの正常性 ページで、Microsoft 365 管理センター (EX25194) などのシステム停止のインシデント ID があります。 インシデント番号には、影響を受けるなどのサービスを示す 2 文字の省略形が付きます。
+(EX25194) などのシステム停止のインシデント ID は、Microsoft 365 管理センターでサービス正常性 ページが見つかりません。 インシデント番号には、影響を受けるなどのサービスを示す 2 文字の省略形が付きます。
 
 例: - Exchange Online
 
@@ -51,6 +51,17 @@ SP - SharePoint Online
 ぜ Yammer Enterprise
 
 MO - ポータル エラー
+
+## <a name="submit-a-request"></a>要求を送信します。
+
+パートナー センターでクレジット要求を送信します。
+
+1. パートナー センター ダッシュ ボードから選択**サポート**左側のナビゲーションから
+
+2. 選択**パートナー サポートの要求**選び**CSP に顧客、注文、およびサブスクリプション/カスタマー サービス クレジットの要求**します。
+
+3. SLA クレジット要求を送信します。
+
 
 
 
