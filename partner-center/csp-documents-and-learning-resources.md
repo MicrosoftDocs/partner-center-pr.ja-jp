@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b5c9349ba5b4770eec9b4b8923907dd8377b20e3
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134992"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468014"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、プラン
 
@@ -38,19 +38,19 @@ ms.locfileid: "62134992"
 
 マイクロソフトのクラウド ソリューション プロバイダー プログラムへの参加を希望するパートナーは、この契約書に署名する必要があります。 販売を計画している市場のクラウドまたはナショナル クラウドに関するガイドを確認してください。
 
-[Microsoft Cloud リセラー契約 - 北米、中米、南米、カリブ諸国](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud リセラー契約 - 北米、中米、南米、カリブ諸国](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
 
-[Microsoft クラウド リセラー契約 - アジア、オーストラリア、太平洋](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Microsoft クラウド リセラー契約 - アジア、オーストラリア、太平洋](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
 
-[Microsoft クラウド リセラー契約 - ヨーロッパ、中東、アフリカ](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Microsoft クラウド リセラー契約 - ヨーロッパ、中東、アフリカ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
 
-[Microsoft クラウド リセラー契約 - 日本](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Microsoft クラウド リセラー契約 - 日本](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
 
-[Microsoft クラウド リセラー契約 - 韓国](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Microsoft クラウド リセラー契約 - 韓国](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
 
-[Microsoft Cloud リセラー契約 - 台湾](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud リセラー契約 - 台湾](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
 
-[Microsoft Cloud リセラー契約 - Microsoft Cloud for US Government](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Microsoft Cloud リセラー契約 - Microsoft Cloud for US Government](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 契約顧客用テンプレート
 
@@ -65,7 +65,7 @@ ms.locfileid: "62134992"
 
 ドイツでビジネスを行う場合、Microsoft Cloud 契約にこの職業上の秘密を盛り込んだ修正版を顧客に提供する必要が生じる場合があります。
 
-[ドイツ向け、職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409) に関するページ
+[ドイツ向け、職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
 [ドイツ向け、職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407) に関するページ
 
@@ -79,12 +79,12 @@ ms.locfileid: "62134992"
 
 1 回限りの購入価格も変動的です。 1 回限りの購入の例としては、Windows Server および SQL ソフトウェアに対する Microsoft Azure Reservations と対応するサブスクリプションなどがあります。
 
-Azure Marketplace のプランに関する価格情報については、パートナー センターの左側のナビゲーション メニューで **[Marketplace]** に移動してください。 発行元、SKU、価格に関する情報を見る製品を選択します。 Azure Marketplace の製品の価格は、頻繁に変わることがあります。 すべての Marketplace 製品の現在の価格情報を取得するには、**[価格表のエクスポート]** を選択して、すべての価格データを含むスプレッドシートを生成します。 この情報は毎日更新されるので、ときどきチェックしてください。
+Azure Marketplace のプランに関する価格情報については、パートナー センターの左側のナビゲーション メニューで **[Marketplace]** に移動してください。 発行元、SKU、価格に関する情報を見る製品を選択します。 Azure Marketplace の製品の価格は、頻繁に変わることがあります。 すべての Marketplace 製品の現在の価格情報を取得するには、 **[価格表のエクスポート]** を選択して、すべての価格データを含むスプレッドシートを生成します。 この情報は毎日更新されるので、ときどきチェックしてください。
 
 ## <a name="offers"></a>サービスおよび製品
 
 CSP のパートナーは、Office 365、Enterprise Mobility Suite、Microsoft Dynamics、Microsoft Azure など、さまざまな Microsoft 製品、サービス、ソリューションを販売できます。 これらの製品ファミリで販売可能なプランについて詳しくは、**パートナー センター** メニューから **[料金とプラン]** ページにアクセスして、CSP のプランのマトリックスをご覧ください。 このドキュメントは毎月更新されます。
 
-Crest Usage Record API を使用している CSP パートナーは、**[料金とプラン]** ページで CSP での Azure サービスの一覧を利用することもできます。
+Crest Usage Record API を使用している CSP パートナーは、 **[料金とプラン]** ページで CSP での Azure サービスの一覧を利用することもできます。
 
 独立系ソフトウェア ベンダー (ISV) によって発行された Azure Marketplace プランについては、左側のナビゲーション メニューの **[Marketplace]** ページをご覧ください。 現時点では、パートナー センターでは SaaS (サービスとしてのソフトウェア) 製品の種類のみを購入できます。 他の種類の Azure Marketplace プランを入手するには、Azure portal にアクセスする必要があります。

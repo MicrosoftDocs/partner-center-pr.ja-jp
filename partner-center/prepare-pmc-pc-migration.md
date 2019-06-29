@@ -6,12 +6,12 @@ description: PMC からビジネスをパートナー センターに移動す�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
-ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
+ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "67279883"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468023"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>パートナー センターにパートナー メンバーシップ センター (PMC) からの移行の準備します。
 
@@ -58,9 +58,11 @@ PMC で、MPN のグローバル管理者ロールは、次の方法でした。
 
 MPN のグローバル管理者は、パートナー センターに移動すると、ロールが呼び出されます、MPN パートナーの管理者はさまざまなアクセス許可と、パートナー センターのグローバル管理者よりも、タスクがあります。ロールとパートナー センターでのアクセス許可の詳細については、読み取る[ユーザー ロールとアクセス許可を割り当てる](permissions-overview.md)
 
-**パートナー センターでユーザーのロール**
+**パートナー センターでゲスト ユーザーのロールを含むユーザー ロール**
 
 パートナー センターでは、さまざまな種類のロールを実行するために必要な作業の種類によってがあります。 Azure AD ロールには、グローバル管理者などのロールがあります。 一部の役割は、クラウド サービス プロバイダー プログラム、インセンティブなどのプログラムに固有と MPN に固有のロールがあります。 パートナー センターのすべてのロールとは何を確認するには、読み取り[ユーザー ロールとアクセス許可を割り当てる](permissions-overview.md)します。
+
+
 
 **PMC からパートナー センターに移動したときのユーザーのロールにどうなりますか。**
 
@@ -84,6 +86,9 @@ PMC ですべてのユーザーは、MPN のグローバル管理者またはプ
 はい、パートナー センターでは、1 つのパートナー センター アカウントに複数の Azure AD テナントをリンクできます。
 詳細について説明します。 
 
+**複数の Azure AD テナントを 1 つのパートナー センター アカウントに追加する場合に制限はありますか。**
+
+Azure AD テナントが既に既存のパートナー センター アカウントに関連付けられている場合は、マルチ テナント機能を使用して新しいパートナー センター アカウントに関連付けすることはできません。 考えてみると、別の方法は、Azure AD テナントを 1 つのパートナー センター アカウントに関連付けられているのみすることができますが、パートナー センター アカウントがそれに関連付けられている複数のテナントを持つことができます。
 
 ## <a name="microsoft-partner-network-mpn-membership-migration"></a>Microsoft Partner Network (MPN) メンバーシップの移行 
 
