@@ -48,6 +48,7 @@
 ## [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
 ## [ドメインの所有者の確認](become-global-admin.md)
 ## [ユーザー パスワードのリセット](reset-a-user-password.md)
+## [パスワードのリセット](reset-my-pasword.md)
 ## [Azure Partner Shared Services の追加](shared-services.md)
 ## [料金とプラン](pricing-and-offers.md)
 ## [カタログのカスタマイズ](customize-the-catalog.md)
@@ -71,6 +72,7 @@
 ## [調整ファイルを使う](use-the-reconciliation-files.md)
 ## [税金と税金の除外](tax-and-tax-exemptions.md)
 ## [源泉徴収税の入金を確認する](withholding-tax-credit-form.md)
+## [Microsoft から SLA クレジットを要求する](request-credit.md)
 ## [組織の VAT 情報](organization-tax-info.md)
 ## [お客様向けに Azure の支出の予算を設定する](set-an-azure-spending-budget-for-your-customers.md)
 ## [一般的な課金シナリオ](common-billing-scenarios.md)
@@ -137,4 +139,8 @@
 ## [お客様のセルフ サポート](customer-self-support.md)
 ## [Microsoft に問題をエスカレートする](escalate-problems-to-microsoft.md)
 
+# セキュリティ
+## [パートナー セキュリティ要件](partner-security-requirements.md)
 
+# チュートリアル
+## [パートナー セキュリティ要件を実装する](tutorials/partner-security-requirements.yml)
