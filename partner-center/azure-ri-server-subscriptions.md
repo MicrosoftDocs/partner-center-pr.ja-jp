@@ -1,18 +1,18 @@
 ---
 title: Azure Reserved VM Instances (RI) + Server Subscriptions for Azure | パートナー センター
 ms.topic: article
-ms.date: 6/5/2019
+ms.date: 7/2/2019
 description: 今日、十分な予測が可能で持続的なクラウド ワークロードはコスト効率の高いソリューションでサポートしたいという需要が急速に高まっています。Azure RI と Server Subscriptions が CSP プログラムに含まれることで、パートナーはこのような顧客の需要に対応できます。 CSP プログラムでは、パートナーが企業顧客に代わり、Microsoft パートナー センターと Azure portal を通じて Azure RI と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, サブスクリプション, VM, 予約, 予約インスタンス
 ms.localizationpriority: medium
-ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
-ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
+ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "66736061"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "67509958"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -45,6 +45,7 @@ Azure Reservations では、1 年分または 3 年分の料金を前払いす�
 -   SQL マネージド インスタンス
 -   Azure Cosmos DB
 -   Azure SQL Data Warehouse
+-   App Services
 
 #### <a name="server-subscriptions"></a>サーバー サブスクリプション
 -   Windows Server
@@ -54,6 +55,10 @@ Azure Reservations では、1 年分または 3 年分の料金を前払いす�
 #### <a name="linux-isv-annual-subscriptions"></a>Linux の ISV の年間サブスクリプション
 -   SUSE Linux
 -   Red Hat Enterprise Linux
+-   Azure の Red Hat の OpenShift
+
+#### <a name="isv-annual-subscriptions"></a>ISV の年間サブスクリプション
+-   CloudSimple で VMware の azure ソリューション
 
 ## <a name="getting-started"></a>概要
 
@@ -119,4 +124,4 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 
 関連項目: [Azure ハイブリッド特典についてよく寄せられる質問](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
-* 割引による実際の効果は、リージョン、インスタンスの種類、使用率によって異なります。
+\* 割引による実際の効果は、リージョン、インスタンスの種類、使用率によって異なります。
