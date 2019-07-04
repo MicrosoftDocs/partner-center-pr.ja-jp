@@ -7,12 +7,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fdc7bdf8dc79bba7e3328fb19a4bdbd9a78d904b
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668093"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549505"
 ---
 # <a name="provide-billing-support"></a>課金のサポートを提供する
 
@@ -33,6 +33,9 @@ ms.locfileid: "64668093"
 CSP モデルで取引を行うパートナーは、お客様に対する信頼できるアドバイザーであり、お客様に疑問や問題がある場合のサポートを含め、エンド ツー エンドの関係を構築します。 サポート タッチ ポイントを通じて、パートナーはお客様とそのビジネスの詳細を把握し、価値を高める新しいサービスやソリューションを識別できます。
 
 サポートの要件を満たすために、パートナーは別のエンティティからのサポートを再販したり、サポート構造の全部または一部を外部委託したり、および/または直接サポートを提供する構造を設定したりする場合があります。  パートナーは、お客様に提供されるサポートの全部または一部を課金する場合があります。 パートナーは、お客様に対して、提供するサポート、サービス時間と連絡方法、および価格 (サポートに課金する場合) を明確に示す必要があります。 
+
+>[!Note]
+>CSP ではありませんしお客様への課金に関する質問がある場合は、適切な製品やサービスの特定のポータルを参照してください。
 
 パートナーは、お客様からのサポート要求を受け取り、できる限り問題を診断し、ベースライン サポート境界のスコープ内にある問題を解決する必要があります。 パートナーが問題を解決できない場合、以下のサポート媒体を介してマイクロソフトに問題を報告できます。
 

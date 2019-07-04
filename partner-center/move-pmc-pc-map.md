@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC で、移行パートナー センターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: 1712587f834958a2dd3450d940e8778a2f16d12d
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.openlocfilehash: 3056bd4094bc6e3a69081ff262fc96782ce57a1f
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157345"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549511"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC からパートナー センターへの移行
 
@@ -64,7 +64,7 @@ ms.locfileid: "67157345"
 |-----------------|:-----------------|
 |MSA を Visual Studio の特典の割り当て|Msa に割り当てられている visual Studio の特典は受け入れられ、保持されます。|
 ||パートナー センターでの更新後に、Visual Studio の MSA の割り当ては保持されます。|
-||パートナー センターでは、パートナーは職場アカウントの場所は、パートナーは MPN 管理者は、Azure AD テナントに MSA を同じテナントでゲスト ユーザー アカウントを追加できます。 複数の Azure AD テナントでグローバル管理者は、パートナーは、これらすべてのテナントが同じパートナー センター アカウントに関連付けられている場合は、パートナーは、Visual Studio の特典と Azure の使用量ベースの割り当てにこれらすべてのテナントでユーザーを追加する許可します。ゲスト ユーザーには、MPN の管理者または全体管理者によって Visual Studio の使用法に基づくサブスクリプションを割り当てることができますが、ゲスト ユーザーにサインインできないパートナー センターの MSA を使用します。 ゲスト ユーザーが、検証し、割り当てられた特典を使用するには、Azure と Visual Studio にサインインできる、ただし、します。 |
+||パートナー センターでは、パートナーは職場アカウントの場所は、パートナーは MPN 管理者は、Azure AD テナントに MSA を同じテナントでゲスト ユーザー アカウントを追加できます。 複数の Azure AD テナントでグローバル管理者は、パートナーは、これらすべてのテナントが同じパートナー センター アカウントに関連付けられている場合は、パートナーは、Visual Studio の特典と Azure の使用量ベースの割り当てにこれらすべてのテナントでユーザーを追加する許可します。 ゲスト ユーザーには、MPN の管理者または全体管理者によって Visual Studio の使用法に基づくサブスクリプションを割り当てることができますが、ゲスト ユーザーにサインインできないパートナー センターの MSA を使用します。 ゲスト ユーザーが、検証し、割り当てられた特典を使用するには、Azure と Visual Studio にサインインできる、ただし、します。 |
 
 ## <a name="programs-now-located-and-managed-in-partner-center"></a>プログラムに配置して、パートナー センターで管理されているようになりました 
 

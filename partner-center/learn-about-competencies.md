@@ -1,24 +1,21 @@
 ---
 title: Silver および Gold メンバーシップ獲得のための Microsoft コンピテンシー要件について | パートナー センター
 ms.topic: article
-ms.date: 12/5/2018
+ms.date: 5/7/2019
 description: Silver および Gold メンバーシップ レベルを獲得するためのコンピテンシー要件について説明します。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ
+keywords: コンピテンシー、silver メンバーシップ、ゴールドのメンバーシップ、mpn、マップ、スキルを向上させて、Microsoft Partner Network、ネットワークのメンバーシップには、特殊化が高度な
 ms.localizationpriority: medium
-ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 480f14df79f5899a24b23947528b44a7aa3b73ba
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134412"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549530"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Silver および Gold メンバーシップ獲得のための Microsoft コンピテンシー要件
 
-**適用対象**
-
-- パートナー センター
 
 Microsoft コンピテンシーを獲得すると、1 つまたは複数の専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft コンピテンシーは、パートナーが顧客のニーズに対応した能力を備え、マイクロソフト認定のソリューション プロバイダーを求める新規顧客にアピールするように支援することを目的としています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
 
@@ -26,32 +23,10 @@ Microsoft コンピテンシーを獲得すると、1 つまたは複数の専�
 
 - **Gold メンバーシップ**を獲得すると、マイクロソフト ソリューションの特定の領域内で、クラス最高の能力を備えていることを証明できます
 
-以下では、各専門領域で、Silver および Gold メンバーを獲得するための要件を示します。
+について[Silver および Gold のメンバーシップの獲得に必要な内容](https://partner.microsoft.com/membership/competencies)
 
-<!-- Removed the ISV competency row as per Sarah Hodge on 12/5/18 
+について[請求書およびコンピテンシーの税金](mpn-view-print-maps-invoice.md)
 
-[ISV competency](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016,  Dynamics 365, Office 365, Windows Server 2019, System Center 2016|
+## <a name="advanced-specializations"></a>高度な特殊化
 
--->
-
-| コンピテンシー  | テクノロジ |
-|   ------------------   |   -------   |
-| [アプリケーション開発コンピテンシー](https://partner.microsoft.com/membership/application-development-competency) | HTML5、C#、ASP.NET、UWP、Microsoft Azure アプリ |
-| [Application Integration コンピテンシー](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server、SQL Server/データベース、C#、Azure、BizTalk Server 2013|
-| [クラウド ビジネス アプリケーション コンピテンシー](https://partner.microsoft.com/membership/cloud-business-applications-competency)| Microsoft Dynamics 365/Enterprise/Operations/AX、SQL データベース |
-| [Cloud Customer Relationship Management コンピテンシー](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics 365/Dynamics CRM |
-| [Cloud Platform コンピテンシー](https://partner.microsoft.com/membership/cloud-platform-competency)| Azure、Azure での Linux |
-| [Cloud Productivity コンピテンシー](https://partner.microsoft.com/membership/cloud-productivity-competency)| Microsoft Office 365 サービス (Exchange Online、SharePoint Online、Skype for Business、または Yammer)|
-| [Collaboration and Content コンピテンシー](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365、SharePoint Server 2016、アプリ ビルダー |
-| [Communications コンピテンシー](https://partner.microsoft.com/membership/communications-competency)| Skype for Business、Enterprise Voice Skype for Business 2015 |
-| [Data Analytics コンピテンシー](https://partner.microsoft.com/membership/data-analytics-competency)| SQL データベース、Azure、Microsoft R Server、Microsoft HD Insight、Power BI |
-| [Data Platform コンピテンシー](https://partner.microsoft.com/membership/data-platform-competency)| SQL データベース、SQL Server 2016、Azure Data Warehouse、Azure Data Services、Transact-SQL |
-| [Data Center コンピテンシー](https://partner.microsoft.com/membership/datacenter-competency)| System Center 2012、Windows Server 仮想化と Hyper-V、Windows Server 2012/2016 |
-| [DevOps コンピテンシー](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio、Visual Studio Team Foundation Server (TFS) 2012、ソフトウェア ライフサイクル、スクラム認定 |
-| [Enterprise Mobility Management コンピテンシー](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS)、Microsoft Intune、Azure Information Protection、Azure Active Directory Premium (AADP)、Mobile Device Management、ID およびアクセス管理、情報保護、Cloud App Security |
-| [Enterprise Resource Planning コンピテンシー](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365、Enterprise Resource Planning (ERP)、SQL Server 2012 データベース  |
-| [Messaging コンピテンシー](https://partner.microsoft.com/membership/messaging-competency)| Office 365、Exchange Server 2016 |
-| [プロジェクトおよびポートフォリオ管理コンピテンシー](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft プロジェクト、プロジェクトおよびポートフォリオ管理 (PPM)、SharePoint Server 2016|
-| [Small and Midmarket Cloud Solutions コンピテンシー](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
-| [Windows and Devices コンピテンシー](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10、Windows 10 IoT、ユニバーサル Windows プラットフォーム、Surface Hub、Office 365、Skype for Business 2015、エンタープライズ展開 |
-|
+高度な特殊化で、gold コンピテンシーを超えます。 これらは、製品、ソリューション領域、またはサービスで実績のある、検証可能な専門知識を紹介するための手段を提供します。 お客様はパートナー ディレクトリの Gold コンピテンシーを取得し、ビジネス プロファイルに、高度な特殊化の両方を表示することになります。 高度な特殊化タグを受信するには、ビジネスは一連のパブリッシュ条件を満たす必要があります完全と Microsoft によって検証します。 [詳しくはこちらをご覧ください](https://partner.microsoft.com/en-us/membership/competencies#tab-content-2)。 
