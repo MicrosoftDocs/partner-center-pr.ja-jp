@@ -6,12 +6,12 @@ description: PMC からビジネスをパートナー センターに移動す�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.openlocfilehash: 5dbdf09b00cf4f188cc82542182ebff39a4d7e39
+ms.sourcegitcommit: 2e41cd8c74e806f52f9250788d63473160b10e62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468023"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "67563040"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>パートナー センターにパートナー メンバーシップ センター (PMC) からの移行の準備します。
 
@@ -132,6 +132,11 @@ Microsoft は、現在コンピテンシー、利点、インセンティブ、�
  **MCP、アソシエーションと、Partner University アクセスを管理にはどうする必要がありますか。**
 
  PMC から移動する MCP 関連付けを変更することはありません。 ただし、新しい新しい従業員パートナー センターに移動した後は、パートナー センターで関連付けられている必要があります。 既存のユーザーのすべての Partner University アクセス許可は残りますが、新しい従業員に移動する必要があります[トレーニング センター](https://partner.microsoft.com/training) Partner University にアクセスする方法について。
+
+ **パートナー センターに移動したらに MCP 情報を表示する方法は?**
+
+選択**コンピテンシー**ダッシュ ボードの左側のナビゲーションから。 **コンピテンシー**スキルのレポートをダウンロードすることができるページ。 スキルのレポートには、能力とパートナー センターでプログラムに関連するスキルを取得したユーザーが表示されます。 ユーザーがスキルを獲得しましたそのスキルがに向けて取り組んでいる能力に関係ない場合は、これらは表示されませんレポートで。
+
 
  **パートナー センターで顧客の参照を使用しますか。**
 
