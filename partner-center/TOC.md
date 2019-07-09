@@ -120,6 +120,7 @@
 ## [顧客の Azure サブスクリプションの利用状況に関するデータの取得](analyze-azure-usage.md)
 ## [間接リセラーのパフォーマンス分析](analyze-indirect-resellers.md)
 ## [サブスクリプションとライセンスの分析](analyze-subscriptions-licenses.md)
+## [Microsoft Learn 分析](ms-learn-analytics.md)
 
 # [他のパートナーと連携する](work-with-other-partners.md)
 ## [パートナー センターでの間接プロバイダーの作業](indirect-provider-tasks-in-partner-center.md)
