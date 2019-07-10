@@ -1,18 +1,18 @@
 ---
 title: 調整ファイルの使用 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: 請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターから調整ファイルをダウンロードします。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
-ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
+ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
+ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67343467"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67694923"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -834,10 +834,6 @@ ms.locfileid: "67343467"
 <td><p>使用した Azure プラットフォーム サービス。</p></td>
 </tr>
 
-<tr class="odd">
-<td>リソース グループ</td>
-<td><p>デプロイされたメーターが実行されているリソース グループ。</p></td>
-</tr>
 
 <tr class="even">
 <td>Resource URI</td>
@@ -892,11 +888,6 @@ ms.locfileid: "67343467"
 <tr class="even">
 <td>Service Info 2</td>
 <td><p>省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールド。</p></td>
-</tr>
-
-<tr class="odd">
-<td>Tags</td>
-<td><p>課金レコードをグループ化するためにメーターに割り当てるタグ。 たとえば、タグを使用して、メーターを使用している部門ごとにコストを分配することができます。</p></td>
 </tr>
 
 <tr class="even">

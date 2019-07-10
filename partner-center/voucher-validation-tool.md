@@ -7,22 +7,31 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: トレーニング, 受講券ツール, 受講券の確認, ソフトウェア アシュアランスの申請, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ab74a3264ebf7461919072b7fd367f7619252b10
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132652"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674261"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>パートナー センターで受講券の確認および受け取りツールを使用して、受講券の確認、予約、引き換えを行う 
 
-**適用対象:** 
+**適用対象:**
 
 - パートナー センター
 
 対象ソフトウェア アシュアランス パートナーとして、トレーニングまたは展開の計画サービスのいずれかに対し、企業顧客がソフトウェア アシュアランスで取得した受講券と引き換えに、Microsoft はこれらのサービスの提供を補償します。
 
 顧客が受講券を受け取ったら、それを確認して予約する必要があります。 この作業は、これまでは受講券の確認および受け取りツール (VVR) ツールで行ってきました。 現在、Microsoft では、作業を合理化してさらに効率化することを目的に、すべてのツールとサイトを 1 つのサイト (パートナー センター) に統合しています。これには、これまでパートナーが Microsoft との取引を行うためにアクセスする必要があった VVR ツールも含まれます。
+
+このドキュメントでは、検証および伝票を予約する方法の概要を示します。 詳細については、完全な伝票検証ワークフローとポリシーは、次のようになります。 
+
+- [ソフトウェア アシュアランスのトレーニング受講券のワークフロー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+
+- [ソフトウェア アシュアランス付きのトレーニング伝票のよく寄せられる質問](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) 
+
+- [ソフトウェア アシュアランス トレーニングの受講券のポリシー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP) 
+
 
 ## <a name="validate-and-reserve-a-voucher"></a>受講券の確認と予約
 
@@ -42,16 +51,16 @@ ms.locfileid: "62132652"
 
 ### <a name="modify-a-voucher"></a>受講券を変更する
 
-受講券の一覧から受講券を予約した場合、出席者のメールを更新したり受講券を引き換えることがことができます。 たとえば、出席者を追加したりコースの電子メール アドレスを変更するなど、出席者の一覧を更新するには、**[出席者のメールの更新]** を選択します。 [アクション] ドロップダウンから **[電子メールの通知]** を選択して、出席者の一覧が更新されたことを顧客に知らせます。
+受講券の一覧から受講券を予約した場合、出席者のメールを更新したり受講券を引き換えることがことができます。 たとえば、出席者を追加したりコースの電子メール アドレスを変更するなど、出席者の一覧を更新するには、 **[出席者のメールの更新]** を選択します。 [アクション] ドロップダウンから **[電子メールの通知]** を選択して、出席者の一覧が更新されたことを顧客に知らせます。
 
 ## <a name="redeem-a-voucher"></a>受講券の引き換え
 
 受講券を予約したら、それを引き換えることができます。 
 
-1. 予約済みの受講券の一覧で、引き換えたい受講券 (複数可) を選択します。 
+1. 予約済みの利用券の一覧で、引き換える利用券 (複数可) を選びます。 
 2. **[引き換え済み]** 受講券の一覧が表示されます。
 
-4. 申請を作成するには、**[Create a claim]\(申請の作成\)** を選択するか、受講券の詳細ページで、**[Create a claim]\(申請の作成\)** を選択します。
+4. 申請を作成するには、 **[Create a claim]\(申請の作成\)** を選択するか、受講券の詳細ページで、 **[Create a claim]\(申請の作成\)** を選択します。
 
 5. **[Create a claim]\(申請の作成\)** を選択すると、Microsoft に請求書を送付するために、「[Software Assurance Voucher Benefit (SAVB) Online Payment Tool](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)」 (ソフトウェア アシュアランスの受講券特典 (SAVB) のオンライン支払いツール) に移動します。
 

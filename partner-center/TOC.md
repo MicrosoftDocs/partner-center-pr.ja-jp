@@ -46,6 +46,7 @@
 ## [中断されたパートナー センター アカウントの復元](suspended-partner-center-account.md)
 ## [ユーザー アカウントの作成](create-user-accounts-and-set-permissions.md)
 ## [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
+## [Microsoft Learn アカウントとパートナー センターを関連付ける](ms-learn-associate.md)
 ## [ドメインの所有者の確認](become-global-admin.md)
 ## [ユーザー パスワードのリセット](reset-a-user-password.md)
 ## [パスワードのリセット](reset-my-pasword.md)
@@ -116,7 +117,7 @@
 # パートナー センターのデータと分析
 ## [ビジネス データの取得と分析](data-analysis-lp.md)
 ## [Microsoft Power BI 用パートナー分析アプリ](power-bi-app-for-direct-partners.md)
-## [パートナーの貢献度: パフォーマンス インジケーターの詳細を把握する](partner-contributions.md)
+## [パートナーの貢献度インジケーター](partner-contribution-indicators.md)
 ## [顧客の Azure サブスクリプションの利用状況に関するデータの取得](analyze-azure-usage.md)
 ## [間接リセラーのパフォーマンス分析](analyze-indirect-resellers.md)
 ## [サブスクリプションとライセンスの分析](analyze-subscriptions-licenses.md)
