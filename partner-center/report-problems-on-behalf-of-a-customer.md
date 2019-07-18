@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: サービス要求, サービス チケット, サポート, サポートの権利, AOBO, Azure AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: af024782202bc2127b76277b29049e3d34f17215
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b43652e4d0e73b73bd4e0caf7f9eb4fc7f4a5bcd
+ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134062"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "67818753"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理で問題を報告する
 
@@ -27,11 +27,11 @@ ms.locfileid: "62134062"
 
 ## <a name="submit-a-service-request-for-a-customer"></a>顧客のサービス リクエストを提出する
 
-1.  **パートナー センター** メニューの **[サービス要求]** を選択し、**[顧客の要求]** を選択します。 
+1.  **パートナー センター** メニューの **[サービス要求]** を選択し、 **[顧客の要求]** を選択します。 
 
 2.  [ユーザーの要求] ページで、対象の顧客を検索します。
 
-3.  **[新しい要求]** ドロップダウン メニューで、**[Azure]** または **[Office 365、Dynamics 365、Enterprise Mobility Suite]** を選択します。 Microsoft Azure ポータルまたは Office 365 管理センターにリダイレクトされます。
+3.  **[新しい要求]** ドロップダウン メニューで、 **[Azure]** または **[Office 365、Dynamics 365、Enterprise Mobility Suite]** を選択します。 Microsoft Azure ポータルまたは Office 365 管理センターにリダイレクトされます。
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -43,11 +43,11 @@ ms.locfileid: "62134062"
 >- パートナー センターのヘルプデスク管理者は、Azure サービス ポータルでサービス要求を作成することはできませんが、Azure サービス ポータルでサポート グループを作成し、サポート要求をログに記録するためのアクセス許可をそのグループに与えることはできます。
 
 1. **[新しいサポート要求]** を選びます。
-2. 次のようにサポート要求に適切な情報を入力し、**[作成]** を選びます。
+2. 次のようにサポート要求に適切な情報を入力し、 **[作成]** を選びます。
 -   サポート要求の **[基本]** セクションで、必ず **[サポート プラン]** フィールドの **[クラウド ソリューション プロバイダー]** を選びます。
 -   サポート要求の **[連絡先]** 情報セクションに、顧客の情報ではなく貴社の情報を入力します。
 
-3. 後で、Microsoft Azure ポータル内で顧客のサービス リクエストを表示する場合は、**[サポートの要求の管理]** を選びます。
+3. 後で、Microsoft Azure ポータル内で顧客のサービス リクエストを表示する場合は、 **[サポートの要求の管理]** を選びます。
 
 パートナーが顧客に対する管理者アクセス許可を持っていないときに、その顧客のサポート要求を作成することが必要な場合があります。 このようなことは、2 つのシナリオのいずれかで発生する可能性があります。 
  
@@ -58,7 +58,7 @@ ms.locfileid: "62134062"
 
 1. パートナー センターの顧客のアカウント ページから顧客のドメイン名をコピーします。
 
-2. 移動して https://portal.azure.com/[customerdomainname]。 
+2. 移動して https://portal.azure.com/ [customerdomainname]。 
 
 3. サポートが必要な Azure サブスクリプションを選択します。
 
@@ -67,13 +67,13 @@ ms.locfileid: "62134062"
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite
 
-1. **[サービス リクエストの作成]** セクションで、適切なサポート トピックのカテゴリを選択します。 トピックをさらに表示するには、**[その他]** を 選びます。    
-2. サービス リクエスト フォームに記入し、**[送信]** を選びます。
+1. **[サービス リクエストの作成]** セクションで、適切なサポート トピックのカテゴリを選択します。 トピックをさらに表示するには、 **[その他]** を 選びます。    
+2. サービス リクエスト フォームに記入し、 **[送信]** を選びます。
 
    > [!TIP]
    > 顧客ではなく、必ず貴社の連絡先情報を記入してください。
 
-3. 後で、Office 365 管理センターにアクセスし、**[すべてのサポート チケットを表示する]** を選んで顧客のサービス リクエストを見直します。
+3. 後で、Office 365 管理センターにアクセスし、 **[すべてのサポート チケットを表示する]** を選んで顧客のサービス リクエストを見直します。
 
 ### <a name="support-for-azure-marketplace-products"></a>Azure Marketplace の製品のサポート
 
@@ -91,11 +91,11 @@ ISV の連絡先情報を検索するには:
 
 **サポートの権利には何が含まれていますか?**
 
-サービス リクエストはパートナー センターを通じて提出してください。Azure、Microsoft Office 365、Microsoft Dynamics CRM Online、および Enterprise Mobility Suite に関するリクエストを提出できます。 CSP パートナーは、重大な問題への優先順位の高い応答時間を期待できます。
+サービス リクエストはパートナー センターを通じて提出してください。Azure、Microsoft Office 365、Microsoft Dynamics CRM Online、および Enterprise Mobility Suite に関するリクエストを提出できます。 クラウドソリューションプロバイダープログラムに参加しているパートナーは、主要な問題に対する優先度の応答時間を予想できます。
 
 独自のパートナー テナントへのサポートは、CSP サポートの特典に含まれていません。 ただし、Office 365、Microsoft Dynamics CRM Online、および Enterprise Mobility Suite では、パートナーや顧客に対して個別のサポート サブスクリプション料金は請求されません。 Azure では料金は請求されますが、Signature Cloud Support やその他の Microsoft Partner Network (MPN) の特典の権利がある場合は、それらを使って料金を支払うことができます。
 
-この特典は、有料版か試用期間かにかかわらず、すべての CSP パートナーに適用されます。 課金とサブスクリプションの管理のサポートも、このパッケージの無料コンポーネントとして組み込まれています。
+この特典は、クラウドソリューションプロバイダープログラムに参加しているすべてのパートナーに適用されます (有料または試用期間中の場合)。 課金とサブスクリプションの管理のサポートも、このパッケージの無料コンポーネントとして組み込まれています。
 
 **どれぐらい迅速に最初の応答を受けられますか?**
 
@@ -118,7 +118,7 @@ ISV の連絡先情報を検索するには:
 
 Microsoft Azure ポータルに直接サインインすると、顧客のコンテキストではなく、貴社のコンテキストでポータルが表示されます。 このため、Microsoft Azure ポータルに直接サインインするのは、貴社のサブスクリプションに関するサービス リクエストを作成するときだけにしてください。
 
-CSP サポートの権利では、貴社のパートナー サブスクリプションに関するサポートは提供されないため、貴社のパートナー サブスクリプションに関係するサービス リクエストを作成するときは、有効なサポート プランの権利を提示する必要があります。 たとえば、MPN コントラクト ID、プレミア、Azure サポート プランです。 「[Azure サポートに関する FAQ](https://go.microsoft.com/fwlink/?LinkId=717532)」をご覧ください。
+CSP プログラムサポートの権利は、お客様のパートナーサブスクリプションでのサポートを提供するものではありません。そのため、パートナーのサブスクリプションに関するサービスリクエストを作成するときは、有効なサポートプランの権利を提供する必要があります。 たとえば、MPN コントラクト ID、プレミア、Azure サポート プランです。 「[Azure サポートに関する FAQ](https://go.microsoft.com/fwlink/?LinkId=717532)」をご覧ください。
 
 **Office 365 管理センター ポータルにサインインし、パートナー センターをバイパスした場合はどうなりますか?**
 
@@ -126,7 +126,7 @@ Office 365 管理センターに直接サインインすると、顧客のコン
 
 **追加の Dynamics 365 のサポートを受けるにはどうすればよいですか?**
 
-次のことに関連する問題が発生している場合: Dynamics 365 プランのサブスクリプション、ライセンス、請求、財務と運用、IUR、またはさらにテクニカル サポートが必要な場合:
+次のことに関連する問題が発生している場合: Dynamics 365 Plan サブスクリプション、ライセンス、課金、財務 & 操作、Dynamics 365 製品ライセンス、またはその他のテクニカルサポートが必要です。
  
 [Dynamics サポート](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)に問い合わせる
 

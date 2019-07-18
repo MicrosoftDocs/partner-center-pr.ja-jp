@@ -1,18 +1,18 @@
 ---
 title: Azure Marketplace の製品に対するサブスクリプションを販売する
 ms.topic: article
-ms.date: 06/10/2019
+ms.date: 07/12/2019
 description: パートナー センターを使用して、貴社の顧客に、独立系ソフトウェア ベンダー (ISV) によって Azure Marketplace に発行されたサービスとしてのソフトウェア (SaaS) 製品に対するサブスクリプションを販売することができます。
 author: JnHs
 ms.author: jenhayes
 keywords: サブスクリプション, Marketplace, サード パーティ, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: d870bfef7d967e8f5b890fadfe86f527e558cda5
-ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
+ms.openlocfilehash: 4dda776e7ebdece3a8a15c3576b64d93d3e4158c
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67045077"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854501"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Azure Marketplace 製品にサブスクリプションを販売する
 
@@ -26,12 +26,15 @@ Azure Marketplace について詳しくは、「[Marketplace に関する FAQ](h
 
 ## <a name="view-marketplace-offers-and-pricing"></a>Marketplace のオファーと価格を表示する
 
-手に入るすべてのオファーを表示するには、左側のナビゲーション メニューから **[Marketplace]** を選択します。 既定では、すべての種類とカテゴリの製品が表示されます。 種類やカテゴリでフィルター処理したり、検索ボックスを使って特定のキーワードを検索したりできます。 発行元と利用可能な SKU に関する情報を見る製品を選択します。
+手に入るすべてのオファーを表示するには、左側のナビゲーション メニューから **[Marketplace]** を選択します。 既定では、すべての種類とカテゴリの製品が表示されます。 種類やカテゴリでフィルター処理したり、検索ボックスを使って特定のキーワードを検索したりできます。 製品を選択すると、無料試用期間が提供されているかどうかなど、発行元と使用可能な Sku に関する情報が表示されます。
 
 > [!NOTE]
 > Azure Marketplace で手に入る一部の製品は、ここに表示されない場合があります。 ISV は、自社製品をパートナー センターでクラウド ソリューション プロバイダー (CSP) パートナーに提供するかどうかを決定できます。 パートナー センターを通して自社の顧客に提供したい製品が Azure Marketplace で見つかった場合は、Azure Marketplace で発行元の連絡先情報を見つけて、関心があることを連絡できます。
 
 Azure Marketplace の製品の価格は、頻繁に変わることがあります。 すべての Marketplace 製品の現在の価格情報を取得するには、 **[Marketplace]** ページの右上隅にある **[価格表のエクスポート]** を選択します。 これにより、すべての価格データが含まれるスプレッドシートが生成されます。 価格情報は毎日更新されるので、できる限り頻繁にチェックして、最新の価格を入手してください。
+
+> [!TIP]
+> この一覧の製品に無料試用版が用意されている場合、スプレッドシートにはその製品の2つの行が含まれます。 1つの行には、無料試用版が使用可能であることを示す0という価格が表示されます。 もう1つの行には、評価期間が終了した後に適用される価格と用語が含まれます。
 
 ## <a name="purchase-marketplace-products-for-your-customers"></a>顧客のために Marketplace の製品を購入する
 
@@ -47,8 +50,11 @@ Azure Marketplace の SaaS 製品に対するサブスクリプションの購�
 
 Azure Marketplace 製品に対するサブスクリプションの場合、貴社は、キャンセル期間内であれば[サブスクリプションを取り消す](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription)ことができます (月単位のサブスクリプションの場合は 24 時間、年単位のサブスクリプションの場合は 14 日)。 また、貴社は、[サブスクリプションを自動的に更新するかどうかを選択する](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription)こともできます。
 
-> [!NOTE]
-> [Azure Marketplace の製品](sell-marketplace-products.md)ライセンスの割り当てとアクティブ化を独立系ソフトウェア ベンダー (ISV)、製品を発行したが管理されます。
+## <a name="license-activation-for-marketplace-products"></a>Marketplace 製品のライセンス認証
+
+サービスとしてのソフトウェア (SaaS) の種類では、ライセンスの割り当てとライセンス認証は、製品を発行した独立系ソフトウェアベンダー (ISV) によって管理されます。 このプロセスを完了するには、発行元が特定の購入を特定できるようにする認証コードを使用して、発行元のサイトにアクセスする必要があります。 このリンクは、SaaS プランを購入した後に表示される 確認 ページと、(そのプランの行の) **サブスクリプション** ページで確認できます。 [パートナーセンター api を使用して、このリンクを取得する](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)こともできます。
+
+このリンクを使用して発行元のサイトにアクセスすると、ライセンスのプロビジョニングと割り当てを行うために必要な追加情報またはアクションが表示されます。または、セットアッププロセスを完了する必要があります。 必要な手順は、パブリッシャーとプランによって異なる場合があります。 必要な情報を送信する責任があります (または、この情報を直接提供するために、お客様に URL を送信します)。 必要な情報が提供されると、パブリッシャーは適切なライセンスをプロビジョニングして割り当てます。 サブスクリプションの課金は、ライセンスが正常に割り当てられた後に開始されます。
 
 ## <a name="access-billing-info-for-marketplace-products"></a>Marketplace 製品の課金情報にアクセスする
 

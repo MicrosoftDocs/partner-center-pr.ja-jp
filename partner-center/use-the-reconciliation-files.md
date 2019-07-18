@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
-ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
+ms.openlocfilehash: fda8724b389913e49e01d64941622cf366516bf6
+ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67694923"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "67818981"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -33,16 +33,16 @@ ms.locfileid: "67694923"
 
 <li>区切り位置指定ウィザードで、<strong>[Delimited file type]\(区切られたファイルの種類\)</strong> を選択し、<strong>[次へ]</strong> を選択します。</li> 
 
-<li>[区切り文字] フィールドで、<strong>[コンマ]</strong> を選択します。 <strong>[タブ]</strong> が既に選択されている場合は、そのままで構いません。 <strong>[次へ]</strong> を選びます。</li>
+<li>[区切り文字] フィールドで、<strong>[コンマ]</strong> を選択します。 <strong>[タブ]</strong> が既に選択されている場合は、そのままで構いません。 <strong>[次へ]</strong> を選択します。</li>
 
 <li>[列のデータ形式] フィールドで、<strong>日付:MDY</strong> を選択し、<strong>[次へ]</strong> を選択します。</li> 
 
 <li>[列のデータ形式] フィールドで、すべての金額の列で <strong>[テキスト]</strong> を選択し、<strong>[完了]</strong> を選択します。</li>
 </ol>
 
-## <a name="downloading-a-large-recon-file"></a>大規模な偵察ファイルのダウンロード
+## <a name="downloading-a-large-recon-file"></a>大きな偵察ファイルをダウンロードしています
 
-偵察ファイルは、非常に大きくし、ダウンロードするが困難な場合があります。 大規模な偵察ファイルをダウンロードする PowerShell スクリプトでは、次を参照してください。 [Get 請求書の品目](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items)します。
+Recon ファイルは非常に大きくなる可能性があり、ダウンロードが困難な場合があります。 大きな偵察ファイルをダウンロードするための PowerShell スクリプトについては、「[請求書の品目を取得](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items)する」を参照してください。
 
 ## <a href="" id="itemizebypartner"></a>パートナーごとに明細を示す
 
@@ -93,7 +93,7 @@ ms.locfileid: "67694923"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>説明</strong></td>
+<td><strong>[説明]</strong></td>
 <td><strong>サンプル値</strong></td>
 </tr>
 <tr class="even">
@@ -189,7 +189,7 @@ ms.locfileid: "67694923"
 </tr>
 <tr class="even">
 <td>TotalOtherDiscount</td>
-<td><p>これらの料金に適用される割引額。 インセンティブの対象となる IUR または新しいサブスクリプションの場合も、この列に割引額が含まれます。</p></td>
+<td><p>これらの料金に適用される割引額。 コンピテンシーまたはマップに含まれる製品ライセンス、またはインセンティブの対象となる新しいサブスクリプションには、このコラムの割引額も含まれます。</p></td>
 <td>2.32</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ ms.locfileid: "67694923"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>説明</strong></td>
+<td><strong>[説明]</strong></td>
 <td><strong>サンプル値</strong></td>
 </tr>
 <tr class="even">
@@ -365,7 +365,7 @@ ms.locfileid: "67694923"
 <td>Asia Pacific、Europe、Latin America、North America</td>
 </tr>
 <tr class="even">
-<td>SKU</td>
+<td>SKU (SKU)</td>
 <td><p>プランについての MSFT の一意の識別子</p></td>
 <td>7UD 00001</td>
 </tr>
@@ -477,7 +477,7 @@ ms.locfileid: "67694923"
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
-<td>Unit</td>
+<td>ユニット</td>
 <td><p>リソース名の単位</p></td>
 <td>GB または HOURS</td>
 </tr>
@@ -493,7 +493,7 @@ ms.locfileid: "67694923"
 </colgroup>
 <thead>
 <tr class="header">
-<th>列</th>
+<th>[列]</th>
 <th>説明</th>
 </tr>
 </thead>
@@ -571,7 +571,7 @@ ms.locfileid: "67694923"
 </tr>
 
 <tr class="odd">
-<td>製品名</td>
+<td>[製品名]</td>
 <td><p>製品の名前。</p></td>
 </tr>
 
@@ -678,7 +678,7 @@ ms.locfileid: "67694923"
 </colgroup>
 <thead>
 <tr class="header">
-<th>列</th>
+<th>[列]</th>
 <th>説明</th>
 </tr>
 </thead>
@@ -815,7 +815,7 @@ ms.locfileid: "67694923"
 </tr>
 
 <tr class="odd">
-<td>Unit</td>
+<td>ユニット</td>
 <td><p>リソース名の単位。</p></td>
 </tr>
 
@@ -1017,14 +1017,14 @@ ms.locfileid: "67694923"
 
 <tr>
 <td rowspan="5">
-<p><strong>1 回限りの料金</strong></p>
+<p><strong>1回限りの料金</strong></p>
 
 </td>
 <td>
-<p>新規</p>
+<p>新規作成</p>
 </td>
 <td>
-<p>新しい発注を作成するときに使用</p>
+<p>新しい購入が作成されたときに使用されます</p>
 </td>
 
 <p></p>
@@ -1035,27 +1035,27 @@ ms.locfileid: "67694923"
 <p>addQuantity</p>
 </td>
 <td>
-<p>増加した後、元の購入と新しい数量の両方、返金で使用されます。</p>
+<p>元の購入の返金と増加後の新しい数量の両方で使用されます。</p>
 </td>
 </tr>
 
 </tr>
 <tr>
 <td>
-<p>removeQuantity</p>
+<p>remov</p>
 </td>
 <td>
-<p>減少後の元の購入と新しい数量の両方、返金で使用されます。</p>
+<p>元の購入の返金と、減少後の新しい数量の両方で使用されます。</p>
 </td>
 </tr>
 
 </tr>
 <tr>
 <td>
-<p>Cancel</p>
+<p>キャンセル</p>
 </td>
 <td>
-<p>サブスクリプションが取り消されたときに使用</p>
+<p>サブスクリプションが取り消されたときに使用されます</p>
 </td>
 </tr>
 
@@ -1065,7 +1065,7 @@ ms.locfileid: "67694923"
 <p>Convert</p>
 </td>
 <td>
-<p>ライセンスのアップグレードが接続クライアントの数は変更されません。</p>
+<p>ライセンスがアップグレードされても、シート数が変更されていない場合に使用します。</p>
 </td>
 </tr>
 
