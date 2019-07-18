@@ -1,53 +1,41 @@
 ---
-title: ビジネス プロファイルの効果を分析する | パートナー センター
+title: ビジネスプロファイルの分析 |パートナーセンター
 ms.topic: article
-ms.date: 03/15/2019
-description: パートナー センターを通じて、紹介案件を評価し、交渉して、対応します。
-author: LauraBrenner
-ms.author: labrenne
-robots: noindex,nofollow
+ms.date: 07/12/2019
+description: 対象となる顧客に注意を払って、紹介を生成する方法をご確認ください。
+author: JnHs
+ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 8f53c002ea3d1fd1a670031a18c58d93bf259c21
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667902"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854495"
 ---
-# <a name="analyze-the-effectiveness-of-your-business-profile"></a><span data-ttu-id="03a80-103">ビジネス プロファイルの効果を分析する</span><span class="sxs-lookup"><span data-stu-id="03a80-103">Analyze the effectiveness of your business profile</span></span>
+# <a name="analyze-your-business-profile"></a><span data-ttu-id="94b0c-103">ビジネスプロファイルの分析</span><span class="sxs-lookup"><span data-stu-id="94b0c-103">Analyze your business profile</span></span>
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-<span data-ttu-id="03a80-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="03a80-104">**Applies to**</span></span>
+<span data-ttu-id="94b0c-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="94b0c-104">**Applies to**</span></span>
 
--  <span data-ttu-id="03a80-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="03a80-105">Partner Center</span></span>
+- <span data-ttu-id="94b0c-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="94b0c-105">Partner Center</span></span>
 
-<span data-ttu-id="03a80-106">自社のマーケティング プロファイルが、どの程度ターゲット顧客の関心を引き、紹介案件の獲得につながっているかを示すレポートを取得できます。</span><span class="sxs-lookup"><span data-stu-id="03a80-106">Get reports to show how well you’re capturing the attention of your target customers and generating referrals.</span></span>
+<span data-ttu-id="94b0c-106">パートナーセンターの [**ビジネスプロファイル**の詳細情報] ページでは、対象となる顧客の注意をどの程度把握しているか、および紹介を生成しているかどうかを確認できます。</span><span class="sxs-lookup"><span data-stu-id="94b0c-106">The **Business profile insights** page in Partner Center lets you see how well you're capturing the attention of your target customers and generating referrals.</span></span>
 
-<span data-ttu-id="03a80-107">[ビジネス プロファイル](create-a-marketing-profile.md)を掲載しているパートナー様は、そのプロファイルが顧客の検索結果に表示された回数、顧客が詳細情報を参照した頻度、顧客が情報請求 (RFI) を送信した頻度についてのデータを取得できます。</span><span class="sxs-lookup"><span data-stu-id="03a80-107">After you post your company’s [business profile](create-a-marketing-profile.md), you’ll start to get data on how many customers find your profile, how often they click through to learn more, and how often they send you requests for information (RFIs).</span></span> 
+<span data-ttu-id="94b0c-107">紹介の洞察データを表示するには、パートナーセンターのメニューから **[紹介 > ビジネスプロファイルの洞察]** にアクセスします。</span><span class="sxs-lookup"><span data-stu-id="94b0c-107">To see your referral insights data, from the Partner Center menu, go to **Referrals > Business profile insights**.</span></span> <span data-ttu-id="94b0c-108">データは、プロファイルのパフォーマンスを表示できるほか、傾向を分析し、対応が必要な領域を特定できます。</span><span class="sxs-lookup"><span data-stu-id="94b0c-108">Your data shows profile performance, analyzes trends and identifies areas that require action.</span></span>
 
-<span data-ttu-id="03a80-108">また[これらの紹介案件への応答](responding-to-referrals.md)を行ったことがある場合、受け取った RFI のうち成約に至った件数についてのデータを取得できます。</span><span class="sxs-lookup"><span data-stu-id="03a80-108">As you start to [respond to these referrals](responding-to-referrals.md), you’ll start to get data on how many of these RFIs are turning into winning business deals.</span></span>
+<span data-ttu-id="94b0c-109">[**ビジネスプロファイルの分析**情報] ページの上部で、データを表示する期間を選択できます。</span><span class="sxs-lookup"><span data-stu-id="94b0c-109">Near the top of the **Business profile insights** page, you can select the time period for which you want to show data.</span></span> <span data-ttu-id="94b0c-110">既定の選択は [ **30d** (30 日)] ですが、3か月または6か月の期間のデータを表示するように選択できます。</span><span class="sxs-lookup"><span data-stu-id="94b0c-110">The default selection is **30D** (30 days), but you can choose to show data for a period of 3 or 6 months instead.</span></span> <span data-ttu-id="94b0c-111">すべてのリージョンのデータが含まれます。</span><span class="sxs-lookup"><span data-stu-id="94b0c-111">Data for all regions is included.</span></span>
 
-<span data-ttu-id="03a80-109">これらのレポートを活用してビジネス プロファイルを調整することで、より多くの潜在顧客、より有望な潜在顧客を獲得できるようになります。</span><span class="sxs-lookup"><span data-stu-id="03a80-109">Use these reports when refining your business profiles to generate more leads, and more relevant leads.</span></span> <span data-ttu-id="03a80-110">データは、プロファイルのパフォーマンスを表示できるほか、傾向を分析し、対応が必要な領域を特定できます。</span><span class="sxs-lookup"><span data-stu-id="03a80-110">Your data shows profile performance, analyzes trends and identifies areas that require action.</span></span> <span data-ttu-id="03a80-111">パートナー センター メニューで、**[紹介] > [マーケティング ページ]** に移動します。</span><span class="sxs-lookup"><span data-stu-id="03a80-111">From the Partner Center menu, go to **Referrals > Marketing pages**.</span></span>
+<span data-ttu-id="94b0c-112">会社の[ビジネスプロファイル](create-a-marketing-profile.md)を投稿した後、プロファイルを見つけた顧客の数、ユーザーがクリックして詳細を確認する頻度、情報に関する要求を送信する頻度 (rfis) に関するデータが表示されます。</span><span class="sxs-lookup"><span data-stu-id="94b0c-112">After you post your company’s [business profile](create-a-marketing-profile.md), you’ll start to see data on how many customers find your profile, how often they click through to learn more, and how often they send you requests for information (RFIs).</span></span> <span data-ttu-id="94b0c-113">このデータは、ビジネスプロファイルを改良して潜在顧客を増やしたり、関連する潜在顧客を増やしたりするときに使用します。</span><span class="sxs-lookup"><span data-stu-id="94b0c-113">Use this data when refining your business profiles to generate more leads, and more relevant leads.</span></span>
 
-<span data-ttu-id="03a80-112">これらのレポートには、すべての地域のビジネス プロファイルのパフォーマンスが表示されます。</span><span class="sxs-lookup"><span data-stu-id="03a80-112">These reports show the performance for business profiles for all regions.</span></span> <span data-ttu-id="03a80-113">レポートでは、過去 90 日間のデータが週ごとに表示されます。</span><span class="sxs-lookup"><span data-stu-id="03a80-113">The reports show data for the last 90 days, grouped by weeks.</span></span>
+<span data-ttu-id="94b0c-114">**プロファイルパフォーマンスの概要**グラフには、選択した期間に関する次の情報が含まれています。</span><span class="sxs-lookup"><span data-stu-id="94b0c-114">The **Profile performance summary** chart includes the following info for the selected time period:</span></span>
 
-*  <span data-ttu-id="03a80-114">**傾向**: 過去 90 日間のデータが週ごとに表示されます。</span><span class="sxs-lookup"><span data-stu-id="03a80-114">**Trends**: Shows the last 90 days, grouped by weeks.</span></span> <span data-ttu-id="03a80-115">次の指標について、過去 90 日間の週単位のデータと、前の期間からの変化率 (%) が表示されます。</span><span class="sxs-lookup"><span data-stu-id="03a80-115">weekly data for the last 90 days and % change from previous period of the following metrics:</span></span>
+- <span data-ttu-id="94b0c-115">**検索結果**:お客様がビジネスプロファイルを検索するために使用している検索語句に関する情報。</span><span class="sxs-lookup"><span data-stu-id="94b0c-115">**Search results**: Info about the search terms that customers are using to find your business profile.</span></span>
+- <span data-ttu-id="94b0c-116">**ページ ビュー**: 顧客がビジネスプロファイルを表示した合計回数。</span><span class="sxs-lookup"><span data-stu-id="94b0c-116">**Page views**: The total number of times that customers viewed your business profile.</span></span>
+- <span data-ttu-id="94b0c-117">**連絡先のクリック**:[[ソリューションプロバイダーの検索](https://www.microsoft.com/solution-providers/home)] ページで顧客がビジネスプロファイルを選択した合計回数。</span><span class="sxs-lookup"><span data-stu-id="94b0c-117">**Contact clicks**: The total number of times that customers selected your business profile from the [Find a solution provider](https://www.microsoft.com/solution-providers/home) page.</span></span>
+- <span data-ttu-id="94b0c-118">**生成された参照**:顧客がビジネスプロファイルを選択した後に送信された紹介の合計数。</span><span class="sxs-lookup"><span data-stu-id="94b0c-118">**Referrals generated**: The total number of referrals sent to you after a customer selected your business profile.</span></span>
 
-   * <span data-ttu-id="03a80-116">**マーケティング ページ ビュー**: 貴社のビジネス プロファイルが閲覧された回数。</span><span class="sxs-lookup"><span data-stu-id="03a80-116">**Marketing page views**: How many times people viewed your business profile</span></span>
-   * <span data-ttu-id="03a80-117">**問い合わせボタンのクリック数**: **[パートナーの検索]** ページから貴社のビジネス プロファイルが選択された回数。</span><span class="sxs-lookup"><span data-stu-id="03a80-117">**Contact button clicks**: Number of times people selected your business profile from the **Find a Partner** page.</span></span> <span data-ttu-id="03a80-118">このデータは、その後、情報請求 (RFI) 行ったユーザー数とは一致しない可能性があります。</span><span class="sxs-lookup"><span data-stu-id="03a80-118">This may not reflect how many times people followed through to create a request for information (RFI).</span></span>
-   * <span data-ttu-id="03a80-119">**RFI の承諾回数**: 顧客が情報請求 (RFI) を送信した後、貴社が[顧客紹介案件を受け入れた](responding-to-referrals.md)回数。</span><span class="sxs-lookup"><span data-stu-id="03a80-119">**RFI is accepted**: Number of times you [accepted customer referrals](responding-to-referrals.md) after they sent a request for information (RFI).</span></span>
-
-
-*  <span data-ttu-id="03a80-120">**ページ ビュー**: 過去 90 日間の週単位のトレンド データが表示されます。</span><span class="sxs-lookup"><span data-stu-id="03a80-120">**Page views**: Shows weekly trend data for the last 90 days.</span></span>
-   *  <span data-ttu-id="03a80-121">**顧客によるマーケティング ページの表示回数**</span><span class="sxs-lookup"><span data-stu-id="03a80-121">**Marketing page views by customers**</span></span>
-   *  <span data-ttu-id="03a80-122">**顧客による RFI の送信回数**</span><span class="sxs-lookup"><span data-stu-id="03a80-122">**RFIs submitted by customers**</span></span>
-
-<span data-ttu-id="03a80-123">顧客が貴社のプロファイルを検索するために使用した検索語を確認してください。</span><span class="sxs-lookup"><span data-stu-id="03a80-123">See the search terms that customers are using to find your profile.</span></span> <span data-ttu-id="03a80-124">これらのレポートでは、過去 90 日間の週単位のデータが表示されます。</span><span class="sxs-lookup"><span data-stu-id="03a80-124">These reports show weekly data for the last 90 days.</span></span>
-
-*  <span data-ttu-id="03a80-125">**[キーワード]** (全体の上位の検索キーワード)</span><span class="sxs-lookup"><span data-stu-id="03a80-125">**Keywords** (Top overall search keywords)</span></span> 
-*  <span data-ttu-id="03a80-126">**業界**</span><span class="sxs-lookup"><span data-stu-id="03a80-126">**Industry**</span></span>
-*  <span data-ttu-id="03a80-127">**製品**</span><span class="sxs-lookup"><span data-stu-id="03a80-127">**Product**</span></span>
-*  <span data-ttu-id="03a80-128">**サービスの種類**</span><span class="sxs-lookup"><span data-stu-id="03a80-128">**Service type**</span></span>
-
+> [!TIP]
+> <span data-ttu-id="94b0c-119">[これらの参照への応答](responding-to-referrals.md)を開始する際には、参照情報の[ページ](referral-insights.md)を確認して、参照の実行方法の詳細を確認してください。</span><span class="sxs-lookup"><span data-stu-id="94b0c-119">As you start to [respond to these referrals](responding-to-referrals.md), be sure to review the [Referral insights page](referral-insights.md) to see more details on how your referrals are performing.</span></span>
