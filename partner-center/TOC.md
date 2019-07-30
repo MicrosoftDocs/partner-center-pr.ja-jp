@@ -3,7 +3,8 @@
 # [Partner Network メンバーシップ](mpn-overview.md)
 ## [パートナー センター アカウントを作成する](mpn-create-a-partner-center-account.md)
 ## [職場の電子メール アドレスを取得する方法](buy-email-domain.md)
-## PMC からパートナー センターに移行する
+## [パートナー管理センターのパートナー センターへの移行](pac-to-pc-overview.md)
+## Partner Membership Center からパートナー センターへの移行
 ### [Partner Membership Center からパートナー センターへの移行を準備する](prepare-pmc-pc-migration.md)
 ### [PMC からパートナー センターに移行するためのガイド](guide-to-migration.md)
 ### [PMC と PC の違いの概要](move-pmc-pc-map.md)
@@ -123,6 +124,7 @@
 ### [Windows Autopilot でデバイスのセットアップを効率化する](autopilot.md)
 ##  製品を新しいバージョンにアップグレードまたは転送する
 ### [Dynamics AX サブスクリプションを Dynamics 365 にアップグレードする](manual-subscription-migration.md)
+### [Dynamics 365 Business Edition プランの新しいバージョンへの移行](migrate-dynamics-365-to-new.md)
 ### [Office 365 Enterprise E4 サブスクリプションの Office 365 の新しいバージョンへの移行](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Skype for Business Online プラン 1 の新しい Office 365 バージョンへの移行](skype-retiring.md)
 ### [Azure サブスクリプションの譲渡](switch-azure-subscriptions-to-a-different-partner.md)
