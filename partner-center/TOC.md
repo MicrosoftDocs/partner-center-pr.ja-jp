@@ -107,6 +107,7 @@
 ### [最大限の予約使用に備えた VM サイズ](azure-usage.md)
 ### [顧客に代わって Microsoft Azure Reservations を購入する](azure-reservations-buying.md)
 ### [顧客に代わって Microsoft Azure Reservations を管理する](azure-reservations-manage.md)
+### [Azure Reserved VM Instances (RI) とサーバー サブスクリプション](azure-ri-server-subscriptions.md)
 ## [ソフトウェア サブスクリプション](csp-software-subscriptions.md)
 ## [オンライン サービス (サブスクリプション)](customer-subscriptions.md)
 ### [顧客のサブスクリプションの作成、中断、取り消し](create-a-new-subscription.md)
