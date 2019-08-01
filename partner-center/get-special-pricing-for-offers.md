@@ -7,12 +7,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c7a6ae484ee250b6f1afa67ab7ac2703874b35bf
-ms.sourcegitcommit: d73afa31cc486b11e22314faa254aa50ed4f8d3b
+ms.openlocfilehash: 8272d414f4712a470c588fd9cc40c828c8f87e6c
+ms.sourcegitcommit: 40e2ef0c9fa6c5d2227e205c7d250772f4a989d5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "65623803"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "68492304"
 ---
 # <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 
@@ -27,21 +27,21 @@ ms.locfileid: "65623803"
 |**特別価格**   |**リセラーに求められる条件**   |**顧客に求められる条件**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |[認定教育パートナー](https://www.mepn.com)である必要があります。   | [適格教育ユーザー](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。   |
-|政府   |Azure を販売するには、[Microsoft Government Cloud Validation Form](https://azuregov.microsoft.com/csp) を使って登録します。 政府機関にライセンスベースのサブスクリプションを販売する場合、求められる条件はありません。|   なし|
+|政府   |Azure を販売するには、 [MICROSOFT 米国政府機関向けクラウド検証フォーム](https://azuregov.microsoft.com/csp)を使用して登録します。 政府機関にライセンスベースのサブスクリプションを販売する場合、求められる条件はありません。|   なし|
 |非営利団体向け  |なし<br>非営利 Azure Active Directory テナントが必要です。<br>[非営利団体向けプラン](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)の詳細情報を確認します。   |適格となるためには、[マイクロソフト非営利団体向けプログラム](https://nonprofit.microsoft.com/#/register)を通じてサインアップします。   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>リセラーの認定状態を確認する
 
-次の手順では、間接プロバイダーにのみ適用できるし、パートナーの請求書を直接します。 間接リセラーは、修飾の教育機関のユーザーを教育機関価格プランを配信する間接のプロバイダーに接続する必要があります。 
+次の手順は、間接プロバイダーおよびダイレクト請求パートナーにのみ適用されます。 間接リセラーは、認定された教育ユーザーに教育機関向けの特典を提供するために、間接プロバイダーに接続する必要があります。 
 
-1.  パートナー ダッシュボードで、ウィンドウの右上隅にある歯車アイコンを選び、**[アカウント設定]** を開きます。
+1.  パートナー ダッシュボードで、ウィンドウの右上隅にある歯車アイコンを選び、 **[アカウント設定]** を開きます。
 2.  **[パートナー プロファイル]** の **[プログラム情報]** セクションで **[リセラーの資格]** を参照します。
 3.  **[リセラーの資格]** が表示されていない場合は、特価プランの購入が認められていません。
 
 ## <a name="check-the-customer-qualifications"></a>お客様の認定状態を確認する
 
-1.  **パートナー センター** メニューで、**[顧客]** を選択します。 一覧から顧客を選びます。
+1.  **パートナー センター** メニューで、 **[顧客]** を選択します。 一覧から顧客を選びます。
 2.  顧客メニューの **[アカウント]** を選びます。 **[会社情報]** セクションの **[Special qualifications]** を参照します。
 3.  **[特別な資格]** が **[なし]** に設定されていても、お客様が資格条件を満たしている場合は、顧客情報を**更新**して、そのお客様を対象に含めることができます。
 
@@ -52,6 +52,8 @@ ms.locfileid: "65623803"
 ## <a name="see-also"></a>関連項目
 
 [Minecraft の販売:教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する](minecraft-subscriptions.md)
+
+[米国政府向け Microsoft Cloud パートナーセンター](partner-center-for-microsoft-us-govt-cloud.md)
 
 
  

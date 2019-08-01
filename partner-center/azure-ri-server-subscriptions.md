@@ -1,18 +1,18 @@
 ---
 title: Azure Reserved VM Instances (RI) + Server Subscriptions for Azure | パートナー センター
 ms.topic: article
-ms.date: 7/2/2019
+ms.date: 7/30/2019
 description: 今日、十分な予測が可能で持続的なクラウド ワークロードはコスト効率の高いソリューションでサポートしたいという需要が急速に高まっています。Azure RI と Server Subscriptions が CSP プログラムに含まれることで、パートナーはこのような顧客の需要に対応できます。 CSP プログラムでは、パートナーが企業顧客に代わり、Microsoft パートナー センターと Azure portal を通じて Azure RI と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, サブスクリプション, VM, 予約, 予約インスタンス
 ms.localizationpriority: medium
-ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
-ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
+ms.openlocfilehash: 410762c5edbd05c2f6195421f225b17aeece4192
+ms.sourcegitcommit: c6090d5d4f99a33053079f683d07c969ac193c17
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "67509958"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "68670117"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -40,27 +40,28 @@ Azure Reservations では、1 年分または 3 年分の料金を前払いす�
 訴求力のある価格設定と驚くべき展開柔軟性という無比の組み合わせで、Azure Reservations を選んだ顧客には、すべてにおいて最大の価値が提供されます。
 
 #### <a name="azure-reservations"></a>Azure Reservations
--   Azure 予約 VM インスタンス
+-   Azure Reserved VM Instances
 -   SQL DB の予約
--   SQL マネージド インスタンス
+-   SQL Managed Instance
 -   Azure Cosmos DB
 -   Azure SQL Data Warehouse
 -   App Services
+-   Azure Databricks ユニットの予約
 
 #### <a name="server-subscriptions"></a>サーバー サブスクリプション
 -   Windows Server
--   リモート デスクトップ サービス (RDS) Cal
+-   リモートデスクトップサービス (RDS) Cal
 -   SQL Server
 
-#### <a name="linux-isv-annual-subscriptions"></a>Linux の ISV の年間サブスクリプション
+#### <a name="linux-isv-annual-subscriptions"></a>Linux ISV 年間サブスクリプション
 -   SUSE Linux
 -   Red Hat Enterprise Linux
--   Azure の Red Hat の OpenShift
+-   Azure Red Hat OpenShift
 
-#### <a name="isv-annual-subscriptions"></a>ISV の年間サブスクリプション
--   CloudSimple で VMware の azure ソリューション
+#### <a name="isv-annual-subscriptions"></a>ISV 年間サブスクリプション
+-   CloudSimple での Azure VMware ソリューション
 
-## <a name="getting-started"></a>概要
+## <a name="getting-started"></a>作業の開始
 
 顧客に対する Azure Reservations の位置付けを理解し、できる限り早く営業活動を開始するには、次に示すアプローチで準備資料を確認することをお勧めします。
 
@@ -78,24 +79,25 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 
 **販売の準備**
 
-- [Azure 予約とサーバー サブスクリプションに Azure ハイブリッド特典の概要](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Azure ハイブリッド特典概要を使用した Azure Reservations およびサーバーサブスクリプション](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
 - [販売シート](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Azure 予約のパートナーに関する FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Azure Reservations のパートナー FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [Azure Reservations と SQL DB に関するパートナー向け FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [リモート デスクトップ サービス (RDS) Cal (お知らせ)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
-- [Azure 予約 VM インスタンス (Azure Portal)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [リモートデスクトップサービス (RDS) Cal (アナウンス)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
+- [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 - [サーバー サブスクリプション](https://docs.microsoft.com/en-us/partner-center/csp-software-subscriptions)
-- [Azure の概要での SQL DB](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [SQL DB の予約 (Azure Portal)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-reserved-capacity)
+- [Azure の SQL DB の概要](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [SQL DB の予約 (Azure ポータル)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-reserved-capacity)
 - [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/en-us/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [SQL マネージ インスタンス (Azure Portal)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance)
+- [SQL Managed Instance (Azure Portal)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance)
 - [SUSE と Red Hat Enterprise Linux (Azure Portal)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/prepay-suse-software-charges)
-- [Azure で Red Hat Linux](https://azure.com/redhat)
+- [Azure 上の Red Hat Linux](https://azure.com/redhat)
 - [Azure 上の SUSE Linux](https://azure.microsoft.com/en-us/overview/linux-on-azure/suse/)
 - [Azure 上の Linux](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
 - [Azure の料金概要](https://azure.microsoft.com/en-us/pricing/)
-- [Azure 料金計算ツール](https://azure.microsoft.com/en-us/pricing/calculator/)
-- CSP の価格を示します。**Microsoft Azure Reserved Instances**と**ソフトウェア サブスクリプション**価格表が両方のパートナー センターにある[価格とプラン](https://partner.microsoft.com/en-us/pcv/sales)ページ。
+- [Azure 料金計算ツール](https://azure.microsoft.com/en-us/pricing/calculator)
+- [Azure Databricks ユニットの予約](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- CSP の価格表:**Microsoft Azure の予約インスタンス**と**ソフトウェアサブスクリプション**の価格表は両方とも、パートナーセンターの[価格 &](https://partner.microsoft.com/en-us/pcv/sales)のページに掲載されています。
 
 
 **トレーニング**
