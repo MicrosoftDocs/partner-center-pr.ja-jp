@@ -7,12 +7,12 @@ ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ff8f149adda67ae911870ead8f3c03ab35f5f1be
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f5e6089d022fb60b848124d1a1a1057e81024585
+ms.sourcegitcommit: 1201c95758188d9cc52aabdf5e1993ba6cc5402a
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132892"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "68642334"
 ---
 # <a name="update-your-partner-profile"></a>パートナー プロファイルの更新
 
@@ -21,8 +21,8 @@ ms.locfileid: "62132892"
 
 **サポートの詳細を更新する**
 
-1.  **[設定]** &gt; **[View all settings]\(すべての設定を表示\)** &gt; **[パートナー プロファイル]** に移動します。
-2.  **[サポート]** セクションで、**[更新]** を選びます。
+1.  [**設定**] にアクセスし、[**パートナープロファイル**] を選択します。
+2.  **[サポート]** セクションで、 **[更新]** を選びます。
 3.  サポートが必要な顧客が Microsoft に連絡してきた場合、Microsoft は貴社のサポート プロファイルに記載の Web サイト、メール アドレス、および電話番号を伝えます。
 
 **税金の除外を申告する**
@@ -31,14 +31,14 @@ ms.locfileid: "62132892"
 
 **プロファイル情報を確認する**
 
-1.  **[設定]** &gt; **[View all settings]\(すべての設定を表示\)** に移動します。 
-2.  **[パートナー プロファイル]**、**[課金プロファイル]**、および **[組織プロファイル]** を確認します。
+1.  [**設定**] にアクセスし、[**パートナープロファイル**] を選択します。 
+2.  **[パートナー プロファイル]** 、 **[課金プロファイル]** 、および **[組織プロファイル]** を確認します。
 
 ## <a name="manage-your-partner-profile"></a>パートナー プロファイルを管理する 
 
 パートナー センターで法的住所を更新できるようになっています。
 
-1. **[設定]** &gt; **[View all settings]\(すべての設定を表示\)** &gt; **[パートナー プロファイル]** に移動します。
+1. [**設定**] の [**パートナープロファイル**の選択] にアクセスします。 
 2. [法的住所] の隣の **[更新]** を選択します。 
 
 >[!Important]
