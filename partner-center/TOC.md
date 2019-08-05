@@ -33,6 +33,8 @@
 ## [クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行](transition-direct-to-indirect.md)
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
 ## [CSP の地域市場と通貨](regional-authorization-overview.md)
+## [Microsoft Cloud 契約に関するお客様の同意を確認する](confirm-consent.md)
+## [Microsoft Customer Agreement に関するお客様の同意を確認する (プレビュー)](confirm-customer-agreement.md)
 
 
 ## [ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)
