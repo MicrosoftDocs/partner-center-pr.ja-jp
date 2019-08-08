@@ -1,51 +1,61 @@
 ---
 title: Azure 利用状況分析 | パートナー センター
-ms.date: 07/12/2018
+ms.date: 08/02/2019
 Description: パートナー センターを使用して、顧客の Azure サブスクリプションの利用状況に関するデータを取得します。
-Author: Xansky
-ms.author: mhopkins
+author: LauraBrenner
+ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9bd76a51664b18a8b3cea1e4163415480186fd86
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
+ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668574"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68781985"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a><span data-ttu-id="b6ccd-104">顧客の Azure サブスクリプションの利用状況に関するデータの取得</span><span class="sxs-lookup"><span data-stu-id="b6ccd-104">Get data about the usage of your customers' Azure subscriptions</span></span> 
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a><span data-ttu-id="32ccd-104">顧客の Azure サブスクリプションの利用状況に関するデータの取得</span><span class="sxs-lookup"><span data-stu-id="32ccd-104">Get data about the usage of your customers' Azure subscriptions</span></span>
 
-<span data-ttu-id="b6ccd-105">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="b6ccd-105">**Applies to**</span></span>
-- <span data-ttu-id="b6ccd-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="b6ccd-106">Partner Center</span></span>
+<span data-ttu-id="32ccd-105">適用対象:</span><span class="sxs-lookup"><span data-stu-id="32ccd-105">Applies to:</span></span>
 
-<span data-ttu-id="b6ccd-107">データはビジネス上の意思決定を促進します。</span><span class="sxs-lookup"><span data-stu-id="b6ccd-107">Data drives business decisions.</span></span> <span data-ttu-id="b6ccd-108">**Azure 利用状況**のページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。</span><span class="sxs-lookup"><span data-stu-id="b6ccd-108">Use the metrics in the **Azure usage** page to identify your successes and areas that need more attention.</span></span> <span data-ttu-id="b6ccd-109">新しいビジネス目標を計画するときに、この情報を使用できます。</span><span class="sxs-lookup"><span data-stu-id="b6ccd-109">Use this information as you plan new business goals.</span></span>
+- <span data-ttu-id="32ccd-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="32ccd-106">Partner Center</span></span>
+
+<span data-ttu-id="32ccd-107">データはビジネス上の意思決定を促進します。</span><span class="sxs-lookup"><span data-stu-id="32ccd-107">Data drives business decisions.</span></span> <span data-ttu-id="32ccd-108">**Azure 利用状況**のページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。</span><span class="sxs-lookup"><span data-stu-id="32ccd-108">Use the metrics in the **Azure usage** page to identify your successes and areas that need more attention.</span></span> <span data-ttu-id="32ccd-109">新しいビジネス目標を計画するときに、この情報を使用できます。</span><span class="sxs-lookup"><span data-stu-id="32ccd-109">Use this information as you plan new business goals.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="b6ccd-110">Azure 利用状況分析は、クラウド ソリューション プロバイダー プログラムに参加しているパートナーのみが利用できます。</span><span class="sxs-lookup"><span data-stu-id="b6ccd-110">Azure usage  analytics is available only for partners in the Cloud Solution Provider program.</span></span>
+> <span data-ttu-id="32ccd-110">Azure 利用状況分析は、クラウド ソリューション プロバイダー プログラムに参加しているパートナーのみが利用できます。</span><span class="sxs-lookup"><span data-stu-id="32ccd-110">Azure usage  analytics is available only for partners in the Cloud Solution Provider program.</span></span>
 
-<span data-ttu-id="b6ccd-111">次のメトリックを追跡しています。</span><span class="sxs-lookup"><span data-stu-id="b6ccd-111">We are tracking the following metrics:</span></span>
+<span data-ttu-id="32ccd-111">次のメトリックを追跡しています。</span><span class="sxs-lookup"><span data-stu-id="32ccd-111">We are tracking the following metrics:</span></span>
 
-<span data-ttu-id="b6ccd-112">**要約**</span><span class="sxs-lookup"><span data-stu-id="b6ccd-112">**Summary**</span></span>  
- - <span data-ttu-id="b6ccd-113">**Total Azure subscriptions sold** (Azure サブスクリプションの合計販売数):指定した期間に販売されたサブスクリプションの数</span><span class="sxs-lookup"><span data-stu-id="b6ccd-113">**Total Azure subscriptions sold**: Number of subscriptions sold in the specified time period</span></span>  
- - <span data-ttu-id="b6ccd-114">**Customers with usage** (利用状況のある顧客数):指定した期間に Azure の利用状況がある顧客の数</span><span class="sxs-lookup"><span data-stu-id="b6ccd-114">**Customers with usage**: Number of customers with Azure usage in the specified time period</span></span>  
- - <span data-ttu-id="b6ccd-115">**Customers with usage** (利用状況のない顧客数):指定した期間に Azure の利用状況がない顧客の数</span><span class="sxs-lookup"><span data-stu-id="b6ccd-115">**Customers without usage**: Number of customers without Azure usage in the specified time period</span></span>  
+## <a name="summary"></a><span data-ttu-id="32ccd-112">Summary</span><span class="sxs-lookup"><span data-stu-id="32ccd-112">Summary</span></span>
 
-<span data-ttu-id="b6ccd-116">**Top 5 customers in category** (カテゴリ内の上位 5 件の顧客)</span><span class="sxs-lookup"><span data-stu-id="b6ccd-116">**Top 5 customers in category**</span></span>  
- -  <span data-ttu-id="b6ccd-117">指定したカテゴリの上位 5 件の顧客</span><span class="sxs-lookup"><span data-stu-id="b6ccd-117">The top 5 customers for the specified category</span></span>  
+- <span data-ttu-id="32ccd-113">**Total Azure subscriptions sold** (Azure サブスクリプションの合計販売数):指定した期間に販売されたサブスクリプションの数</span><span class="sxs-lookup"><span data-stu-id="32ccd-113">**Total Azure subscriptions sold**: Number of subscriptions sold in the specified time period</span></span>  
+- <span data-ttu-id="32ccd-114">**Customers with usage** (利用状況のある顧客数):指定した期間に Azure の利用状況がある顧客の数</span><span class="sxs-lookup"><span data-stu-id="32ccd-114">**Customers with usage**: Number of customers with Azure usage in the specified time period</span></span>  
+- <span data-ttu-id="32ccd-115">**Customers with usage** (利用状況のない顧客数):指定した期間に Azure の利用状況がない顧客の数</span><span class="sxs-lookup"><span data-stu-id="32ccd-115">**Customers without usage**: Number of customers without Azure usage in the specified time period</span></span>  
 
-<span data-ttu-id="b6ccd-118">**Subscriptions without usage** (利用状況のないサブスクリプション)</span><span class="sxs-lookup"><span data-stu-id="b6ccd-118">**Subscriptions without usage**</span></span>  
- -  <span data-ttu-id="b6ccd-119">指定した期間に Azure の利用状況がないサブスクリプションの一覧</span><span class="sxs-lookup"><span data-stu-id="b6ccd-119">List of sepcific subscriptions without Azure usage in the specified time period</span></span>  
+## <a name="top-5-customers-in-category"></a><span data-ttu-id="32ccd-116">カテゴリ内の上位 5 件の顧客</span><span class="sxs-lookup"><span data-stu-id="32ccd-116">Top 5 customers in category</span></span>
 
-<span data-ttu-id="b6ccd-120">**Azure subscription churn** (Azure サブスクリプションのチャーン)</span><span class="sxs-lookup"><span data-stu-id="b6ccd-120">**Azure subscription churn**</span></span>  
- - <span data-ttu-id="b6ccd-121">**Active subscriptions** (アクティブなサブスクリプション数):日付ごとのアクティブなサブスクリプションの数</span><span class="sxs-lookup"><span data-stu-id="b6ccd-121">**Active subscriptions**: Count of active subscriptions by date</span></span>  
- - <span data-ttu-id="b6ccd-122">**Deprovisioned subscriptions** (プロビジョニング解除されたサブスクリプション数):日付ごとのプロビジョニング解除または中断されたサブスクリプションの数</span><span class="sxs-lookup"><span data-stu-id="b6ccd-122">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
+- <span data-ttu-id="32ccd-117">指定したカテゴリの上位 5 件の顧客</span><span class="sxs-lookup"><span data-stu-id="32ccd-117">The top 5 customers for the specified category</span></span>  
 
-<span data-ttu-id="b6ccd-123">**Customer count** (顧客数)</span><span class="sxs-lookup"><span data-stu-id="b6ccd-123">**Customer count**</span></span>
- - <span data-ttu-id="b6ccd-124">指定した期間中に獲得した新規顧客数</span><span class="sxs-lookup"><span data-stu-id="b6ccd-124">New customers acquired during the specified time period</span></span>  
+## <a name="azure-subscriptions-at-risk"></a><span data-ttu-id="32ccd-118">リスクがある Azure サブスクリプション</span><span class="sxs-lookup"><span data-stu-id="32ccd-118">Azure subscriptions at risk</span></span>
 
-<span data-ttu-id="b6ccd-125">**Azure subscription retention** (Azure サブスクリプションの維持)</span><span class="sxs-lookup"><span data-stu-id="b6ccd-125">**Azure subscription retention**</span></span>  
- - <span data-ttu-id="b6ccd-126">更新されたサブスクリプションの数。</span><span class="sxs-lookup"><span data-stu-id="b6ccd-126">The number of subscriptions that were renewed.</span></span>   
-  
+<span data-ttu-id="32ccd-119">このセクションでは、Azure サブスクリプションに対する予測変更のリスクを示します。</span><span class="sxs-lookup"><span data-stu-id="32ccd-119">This section indicates the predicted churn risk to Azure subscriptions.</span></span> <span data-ttu-id="32ccd-120">この情報は、パートナーが顧客とやり取りし、チャーンを最小化するために使用できます。</span><span class="sxs-lookup"><span data-stu-id="32ccd-120">This information can be used by partners to engage with customers and minimize churn</span></span>
+
+## <a name="subscriptions-without-usage"></a><span data-ttu-id="32ccd-121">利用状況のないサブスクリプション</span><span class="sxs-lookup"><span data-stu-id="32ccd-121">Subscriptions without usage</span></span>
+
+- <span data-ttu-id="32ccd-122">指定した期間内に Azure を使用せずに特定のサブスクリプションの一覧を表示する</span><span class="sxs-lookup"><span data-stu-id="32ccd-122">List of specific subscriptions without Azure usage in the specified time period</span></span>  
+
+## <a name="azure-subscription-churn"></a><span data-ttu-id="32ccd-123">Azure サブスクリプションのチャーン</span><span class="sxs-lookup"><span data-stu-id="32ccd-123">Azure subscription churn</span></span>
+
+- <span data-ttu-id="32ccd-124">**Active subscriptions** (アクティブなサブスクリプション): 日付ごとのアクティブなサブスクリプションの数</span><span class="sxs-lookup"><span data-stu-id="32ccd-124">**Active subscriptions**: Count of active subscriptions by date</span></span>  
+- <span data-ttu-id="32ccd-125">**Deprovisioned subscriptions** (プロビジョニング解除されたサブスクリプション数):日付ごとのプロビジョニング解除または中断されたサブスクリプションの数</span><span class="sxs-lookup"><span data-stu-id="32ccd-125">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
+
+## <a name="customer-count"></a><span data-ttu-id="32ccd-126">顧客数</span><span class="sxs-lookup"><span data-stu-id="32ccd-126">Customer count</span></span>
+
+- <span data-ttu-id="32ccd-127">指定した期間中に獲得した新規顧客数</span><span class="sxs-lookup"><span data-stu-id="32ccd-127">New customers acquired during the specified time period</span></span>  
+
+## <a name="azure-subscription-retention"></a><span data-ttu-id="32ccd-128">Azure サブスクリプションの維持</span><span class="sxs-lookup"><span data-stu-id="32ccd-128">Azure subscription retention</span></span>
+
+- <span data-ttu-id="32ccd-129">更新されたサブスクリプションの数。</span><span class="sxs-lookup"><span data-stu-id="32ccd-129">The number of subscriptions that were renewed.</span></span>
