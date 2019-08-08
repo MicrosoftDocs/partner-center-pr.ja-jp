@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 Description: Azure Reservations の請求に関する情報です。
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: Azure RI, Azure 予約インスタンス, 予約, VM, 管理, 請求, 購入
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b99cb2a72d69cd33f9267a956f921aa65dedd482
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: a3edec135f6636429551f21a1125e68ed5a9cfa3
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668485"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708708"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure Reserved VM Instances の請求
 
@@ -30,7 +30,7 @@ ms.locfileid: "64668485"
 >[!IMPORTANT]
 >通貨が異なる市場の顧客用に Azure Reserved VM Instances を購入する場合、既定の請求通貨はパートナーではなく顧客の市場がベースになります。 顧客が複数の市場に存在する場合は、顧客への請求が必要な各通貨について、個別の請求書と調整ファイルが届き、適切な通貨で顧客に請求できます。 
 
-1 回限りの料金の請求書と調整ファイルにアクセスするには、パートナー センターから **[Billing]\(請求\)**、**[1 回限り]** の順に選択します。 
+1 回限りの料金の請求書と調整ファイルにアクセスするには、パートナー センターから **[Billing]\(請求\)** 、 **[1 回限り]** の順に選択します。 
 
 クラウド ソリューション プロバイダー プログラムでの請求について詳しくは、「[課金の基本](billing-basics.md)」をご覧ください。
 
@@ -43,7 +43,7 @@ ms.locfileid: "64668485"
 |US FEIN |連邦税の ID 番号。 |
 |請求先 |納税目的で使用する、法律上の会社の住所。 この住所を変更するには、[アカウント設定] > [パートナー課金プロファイル] に移動します。 |
 |請求額 |現在のすべての請求額。 |
-|クレジット |当初の購入以降に発生した払い戻しアクティビティに対するクレジット。 |
+|謝辞 |当初の購入以降に発生した払い戻しアクティビティに対するクレジット。 |
 |割引 |顧客注文内の Azure 予約またはその他の項目に適用される割引。 |
 |税 |請求書の 2 ページ目で始まる明細セクションの、現在の合計料金に対する税金の合計。 |
 |当月の請求額合計 |支払い期限ごとの、請求期間の請求通貨での支払い額。 |
@@ -58,9 +58,9 @@ ms.locfileid: "64668485"
 
 |**フィールド** |**定義**|
 |:----------------|:-----------------------------|
-|日付 |購入日。 |
+|date |購入日。 |
 |説明 |製品名。 |
-|数量 |購入した製品 (予約など) の数。 |
+|Quantity |購入した製品 (予約など) の数。 |
 |単価 |製品 (予約など) ごとの価格。 |
 |割引 |適用される割引。 |
 |税抜き額 |課税前の購入額の小計。 |
@@ -89,7 +89,7 @@ ms.locfileid: "64668485"
 |ProductName |製品の名前。 |
 |ChargeType |課金または調整の種類。 |
 |UnitPrice |注文された製品ごとの価格。 |
-|数量 |注文された製品の数。 |
+|Quantity |注文された製品の数。 |
 |Subtotal |合計額 (税抜)。 割引の場合、小計が、予想される合計と一致することを確認します。 |
 |TaxTotal |該当するすべての税額の合計。 |
 |Total |この購入の合計金額。 |
@@ -101,12 +101,12 @@ ms.locfileid: "64668485"
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>現在の請求の状態、請求書、調整ファイルを表示する
 
-1.  パートナー センターで **[Billing]\(請求\)**、**[1 回限り]** の順に選択して、請求の状態を表示します。 
+1.  パートナー センターで **[Billing]\(請求\)** 、 **[1 回限り]** の順に選択して、請求の状態を表示します。 
 2.  請求書または調整ファイルを選択して、詳細な情報を確認します。 
 
 ### <a name="view-a-customers-order-history"></a>顧客の注文履歴を表示する
 
-1.  パートナー センター メニューで、**[顧客]** を選択します。
+1.  パートナー センター メニューで、 **[顧客]** を選択します。
 2.  **[顧客]** ページで、注文履歴を表示する対象の顧客を見つけ、下矢印を選択して顧客レコードを展開します。 
 3.  **[View orders]** (注文の表示) を選択して注文履歴を表示します。
 

@@ -6,12 +6,12 @@ description: CSP のさまざまな販売モデルについて理解し、貴社
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 48dbb30558b635a4a87b9d952897e61ec6451a5c
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 5e4f5611c611b333789a03fb5bec3611d9cde705
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135622"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820475"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
@@ -19,7 +19,7 @@ ms.locfileid: "62135622"
 
 - クラウド ソリューション プロバイダー プログラム  
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>作業開始
 
 クラウドベースのソリューションとサービスの需要は急速に拡大しており、あらゆる規模のマイクロソフト パートナーが、収益性の高いクラウド ソリューション ビジネスを構築する多くの機会を手にしています。 市場へは参入したいが、複数ベンダーの管理は避けたいと考えるパートナーや、包括的な顧客関係管理の基盤を持たないパートナーは、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに間接リセラーとして登録することができます。
 
@@ -35,7 +35,7 @@ CSP の申請を作成するときは、MPN ID、会社の正確な住所、銀�
 3. Microsoft が情報を検証した後、Microsoft 間接リセラーの条項合意を受け入れます。
 
 > [!IMPORTANT]  
-> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](https://partner.microsoft.com/en-us/pcv/announcements)など、通常の伝達方法でお知らせします。
+> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](https://partner.microsoft.com/pcv/announcements)など、通常の伝達方法でお知らせします。
 
 ## <a name="enroll-as-an-indirect-reseller"></a>間接リセラーとして登録する
 
@@ -65,8 +65,8 @@ CSP の申請を作成するときは、MPN ID、会社の正確な住所、銀�
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |事業拠点で有効な Microsoft Partner Network (MPN) ID。    |
 |**保証**   |組織を代表して契約書に同意して署名するための権限。|
-|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/en-US/support/partnersupport)をご覧ください。<br> 重要:サポート プランを購入する前に、与信審査に合格する必要があります。 与信審査に合格したら、メールでご連絡します。 |
-|**マネージド サービス**   |少なくとも 1 つの管理されたサービス、IP サービス、または顧客ソリューション アプリケーション。 [管理されたサービス](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)の追加に関する詳細をご覧ください。|
+|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br> 重要:サポート プランを購入する前に、与信審査に合格する必要があります。 与信審査に合格したら、メールでご連絡します。 |
+|**マネージド サービス**   |少なくとも 1 つの管理されたサービス、IP サービス、または顧客ソリューション アプリケーション。 [管理されたサービス](https://partner.microsoft.com/business-opportunities/managed-services-provider)の追加に関する詳細をご覧ください。|
 |**売掛金勘定** |顧客の請求とプロビジョニングを管理するための組織のインフラストラクチャ。
 
 ### <a name="verify-direct-bill-eligibility"></a>直接請求の適格性を確認する

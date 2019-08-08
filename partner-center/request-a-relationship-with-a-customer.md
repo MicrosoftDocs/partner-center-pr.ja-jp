@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7777b281948f560666be154e4618b788782a474f
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
+ms.openlocfilehash: 099f38fa6acf523f7627434c7b320c37b46e63e1
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376434"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820494"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>パートナー センターでの顧客との連携
 
@@ -24,7 +24,7 @@ ms.locfileid: "68376434"
 
 顧客とリセラーの関係を確立し、貴社がプロビジョニングした Azure サブスクリプションのみを管理する場合は、管理者のアクセス許可を取得する必要はありません。
 
-アクセス許可を要求しないオプションは、Microsoft Cloud for US Government または Microsoft Cloud Germany で活動するパートナーは使用できないことに注意してください。 詳しくは、「[顧客がパートナーに管理特権を委任する](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)」をご覧ください。
+アクセス許可を要求しないオプションは、Microsoft Cloud for US Government または Microsoft Cloud Germany で活動するパートナーは使用できないことに注意してください。 詳しくは、「[顧客がパートナーに管理特権を委任する](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)」をご覧ください。
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>貴社との再販業者関係を確立するために顧客を招待する

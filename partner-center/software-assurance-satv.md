@@ -1,18 +1,18 @@
 ---
 title: パートナー センターでのソフトウェア アシュアランス トレーニング受講券 (SATV) プログラム | パートナー センター
 ms.topic: article
-ms.date: 01/16/19
+ms.date: 01/16/2019
 description: ソフトウェア アシュアランス トレーニング プログラムに登録します
 author: LauraBrenner
 ms.author: labrenne
 keywords: トレーニング受講券, ソフトウェア アシュアランス, トレーニング, SATV での登録, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: c5da9989403ca2c984d73224709d14198f657a9e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d8ef5ca34a89fa38e6408b40f886d1d049f8ef87
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134082"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820401"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム
 
@@ -22,7 +22,7 @@ ms.locfileid: "62134082"
 
 ソフトウェア アシュアランス トレーニング サービスに慣れていない場合は、「[ソフトウェア アシュアランス トレーニング受講券](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)」をご覧ください
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>作業開始
 
 ソフトウェア アシュアランス トレーニング サービスに慣れていない場合は、以下のすべての手順に従ってください。 既にトレーニング受講券プログラムで活動していて、パートナー アカウント情報がパートナー センターに移動された場合は、後のステップ 4 から始めてください。 
 
@@ -38,17 +38,17 @@ ms.locfileid: "62134082"
 
 ## <a name="confirm-program-eligibility"></a>プログラムの適格性を確認する
 
-SATV プログラムに登録する前に、Microsoft Learning コンピテンシーに代わる Microsoft Partner Network Learning オプションの要件を満たしている必要があります。 [Learning オプション](https://partner.microsoft.com/en-US/marketing/details/learning-option-enrollment#/)を開始する方法を確認してください。
+SATV プログラムに登録する前に、Microsoft Learning コンピテンシーに代わる Microsoft Partner Network Learning オプションの要件を満たしている必要があります。 [Learning オプション](https://partner.microsoft.com/marketing/details/learning-option-enrollment#/)を開始する方法を確認してください。
 
 また、次の要件を満たす必要があります。
 
-- [あらかじめ決められた価格](https://partner.microsoft.com/en-US/membership/satv-voucher-pricing)で電子トレーニング受講券を受け入れることに同意します。
+- [あらかじめ決められた価格](https://partner.microsoft.com/membership/satv-voucher-pricing)で電子トレーニング受講券を受け入れることに同意します。
 
 - [Microsoft SATV プログラム契約](https://aka.ms/satv_legal_agreement)を確認し、使用条件に同意します。 登録の間にこれに署名します。 
 
 - プログラムのアクティブなメンバーである間にすべての現在の Learning オプションおよび SATV プログラム契約の条項と条件 (これには次のものが含まれますがこれだけではありません: 顧客満足度の保証、KPI、デジタル MOC 購入要件)、および SATVプログラム [ポリシー](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ProgramPolicies.aspx)に準拠することを確認します。
 
-- 十分な需要がある場合に[ソフトウェア アシュアランス トレーニング特典製品カタログ](https://aka.ms/SATV_catalog)内のすべての SATV 資格コースを提供できること (これはステップ 3  「[SATV コースの適格性を確認する](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ConfirmEligibility.aspx)」で確認します)。
+- 十分な需要がある場合に[ソフトウェア アシュアランス トレーニング特典製品カタログ](https://aka.ms/SATV_catalog)内のすべての SATV 資格コースを提供できること (これはステップ 3 「[SATV コースの適格性を確認する](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ConfirmEligibility.aspx)」で確認します)。
 
 ## <a name="enroll-in-the-training-program"></a>トレーニング プログラムに登録する
 

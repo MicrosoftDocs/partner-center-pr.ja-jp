@@ -1,18 +1,18 @@
 ---
 title: パートナー センターでのソフトウェア アシュアランス計画サービス | パートナー センター
 ms.topic: article
-ms.date: 01/21/19
+ms.date: 01/21/2019
 description: 計画サービスに登録し、企業顧客向けに展開前の計画を提供します。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 展開前, 計画, ソフトウェア アシュアランス
 ms.localizationpriority: medium
-ms.openlocfilehash: 222ba9b7fe526021bf06f4fda7f72b4703ba73c8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133842"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708881"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
 
@@ -23,7 +23,7 @@ ms.locfileid: "62133842"
 ソフトウェア アシュアランス計画サービスのことをよく知らない場合は、「[計画サービスでビジネスを成長させる](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)」をご覧ください。
 
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>作業開始
 
 ソフトウェア アシュアランス計画サービスに慣れていない場合は、以下のすべての手順に従ってください。 既に計画サービス プログラムで活動していて、パートナー アカウント情報がパートナー センターに移動された場合は、後のステップ 4 から始めてください。 
 
@@ -67,7 +67,7 @@ ms.locfileid: "62133842"
 
 1. パートナー センターのメニューから [Software Assurance]\(ソフトウェア アシュアランス\) > [Requirements]\(要件\) を選択します。 
 2. [計画サービス] を選択して [計画サービス] タブを開きます。
-3. 登録するプログラムを選んで、**[登録]** を選択します。
+3. 登録するプログラムを選んで、 **[登録]** を選択します。
 
 このプロセスを完了すると、貴社の所在地で登録したオファリングを提供することが承認されます。 MPN パートナー管理者としてリストされている貴社の従業員は、すべての場所の代わりとして VVR ツールにアクセスし、計画サービスの利用券を管理する資格があります。
 >[!Note]
@@ -101,10 +101,10 @@ ms.locfileid: "62133842"
 
 1. 予約済みの利用券の一覧で、引き換える利用券 (複数可) を選びます。 
 2. **[引き換え済み]** 利用券の一覧が表示されます。
-3. 目的の利用券の横にあるチェック ボックスをオンにして、**[選択した利用券を使う]** をクリックします。
-4. [利用券の引き換えの確認] ページで、利用券の情報が正しいことを確認し、**[はい]** を選択して利用券を引き換えます。
+3. 目的の利用券の横にあるチェック ボックスをオンにして、 **[選択した利用券を使う]** をクリックします。
+4. [利用券の引き換えの確認] ページで、利用券の情報が正しいことを確認し、 **[はい]** を選択して利用券を引き換えます。
 
-5. 申請を作成するには、**[Create a claim]\(申請の作成\)** を選択するか、利用券の詳細ページで、**[Create a claim]\(申請の作成\)** を選択します。
+5. 申請を作成するには、 **[Create a claim]\(申請の作成\)** を選択するか、利用券の詳細ページで、 **[Create a claim]\(申請の作成\)** を選択します。
 
 6. **[Create a claim]\(申請の作成\)** を選択すると、Microsoft に請求書を送付するために、[ソフトウェア アシュアランス利用券特典 (SAVB) オンライン支払いツール](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)に移動します。
 

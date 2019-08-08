@@ -7,12 +7,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8272d414f4712a470c588fd9cc40c828c8f87e6c
-ms.sourcegitcommit: 40e2ef0c9fa6c5d2227e205c7d250772f4a989d5
+ms.openlocfilehash: 10b4cf8f261c9d9af4be5aa7c91cc6e81663bfba
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "68492304"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820447"
 ---
 # <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 
@@ -28,7 +28,7 @@ ms.locfileid: "68492304"
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |[認定教育パートナー](https://www.mepn.com)である必要があります。   | [適格教育ユーザー](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。   |
 |政府   |Azure を販売するには、 [MICROSOFT 米国政府機関向けクラウド検証フォーム](https://azuregov.microsoft.com/csp)を使用して登録します。 政府機関にライセンスベースのサブスクリプションを販売する場合、求められる条件はありません。|   なし|
-|非営利団体向け  |なし<br>非営利 Azure Active Directory テナントが必要です。<br>[非営利団体向けプラン](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)の詳細情報を確認します。   |適格となるためには、[マイクロソフト非営利団体向けプログラム](https://nonprofit.microsoft.com/#/register)を通じてサインアップします。   |
+|非営利団体向け  |なし<br>非営利 Azure Active Directory テナントが必要です。<br>[非営利団体向けプラン](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)の詳細情報を確認します。   |適格となるためには、[マイクロソフト非営利団体向けプログラム](https://nonprofit.microsoft.com/#/register)を通じてサインアップします。   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>リセラーの認定状態を確認する

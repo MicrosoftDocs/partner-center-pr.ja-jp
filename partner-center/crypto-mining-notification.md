@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 description: 発生している可能性があるクリプトマイニングに関する通知です。
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 Keywords: クリプトマイニング, 暗号通貨マイニング, セキュリティ
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b2a9a93d71b6464c0e3b2932b9da366e1bbbb845
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: febce4039e1634fb5e82d083f83e2c11ef47040f
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667764"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708847"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>クリプトマイニング (仮想通貨の採掘) アクティビティに関するパートナー センター通知
 
@@ -51,10 +51,10 @@ ms.locfileid: "64667764"
 
 通知に関してご質問や懸念がある場合、次の手順でサポート要求を開くことができます。
 
-1.  パートナー センターで、**[サポート]** を選択し、**[Partner Center requests]\(パートナー センターの要求\)** を選択します。
+1.  パートナー センターで、 **[サポート]** を選択し、 **[Partner Center requests]\(パートナー センターの要求\)** を選択します。
 3.  **[新しい要求]** を選びます。 
-4.  **[問題の種類]** ドロップダウン メニューで、**[顧客の追加または管理]** を選択します。
-5.  **[影響]** ドロップダウンで、**[標準]** を選択します。
+4.  **[問題の種類]** ドロップダウン メニューで、 **[顧客の追加または管理]** を選択します。
+5.  **[影響]** ドロップダウンで、 **[標準]** を選択します。
 6.  **[タイトル]** フィールドに、**クリプトマイニング通知**と入力します。
 7.  **[説明]** フィールドに、影響するサブスクリプション名と、他の質問や懸念点を入力します。 
 8.  ご自身の連絡先情報を入力します。

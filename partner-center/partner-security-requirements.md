@@ -1,18 +1,18 @@
 ---
 title: パートナーのセキュリティ要件 |パートナーセンター
 ms.topic: article
-ms.date: 07/18/2019
+ms.date: 08/05/2019
 description: Cloud Solution Provider プログラムに参加するアドバイザーとパートナーのセキュリティ要件について説明します。
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウドソリューションプロバイダー, Cloud Solution Provider プログラム, CSP, コントロールパネルベンダ, CPV, multi-factor authentication, MFA, 安全なアプリケーションモデル, セキュリティで保護されたアプリモデル, セキュリティ
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ce8a8dd5a58d1647c8d9e53dec0d0bbf7fe6592
-ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+ms.openlocfilehash: 39081f42c326665bdc30bf25df302d9ae00d9723
+ms.sourcegitcommit: fe21430f96e203d279714623888224662d2782a2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "68313935"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68787255"
 ---
 # <a name="partner-security-requirements"></a>パートナーのセキュリティ要件
 
@@ -57,9 +57,22 @@ ms.locfileid: "68313935"
 
 MFA レガシ認証を適用した場合、IMAP、POP3、SMTP などのプロトコルが使用されます。これらのプロトコルでは MFA がサポートされていないためです。 この制限に対処するために、[アプリパスワード](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords)と呼ばれる機能を使用して、アプリケーションまたはデバイスが引き続き認証されるようにすることができます。 [ここ](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords)に記載されているアプリパスワードを使用する場合の考慮事項を確認して、環境で使用できるかどうかを判断する必要があります。
 
+#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>パートナーテナントに関連付けられているライセンスによって提供される Office 365 を使用していますか?
+
+ソリューションを実装する前に、パートナーテナントのユーザーが Microsoft Office のバージョンを使用している理由を判断することをお勧めします。 アクションを実行する前に、 [Office 365 のデプロイの multi-factor authentication の計画を](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)確認してください。 Outlook などのアプリケーションで、ユーザーに接続の問題が発生する可能性があります。 MFA を適用する前に、Outlook 2013 SP1 以降が使用されており、組織で最新の認証が有効になっていることを確認することが重要です。 詳細については、「 [Exchange Online で先進認証を有効にする](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)」を参照してください。
+
+Microsoft Office 2013 がインストールされている Windows を実行しているすべてのデバイスで先進認証を有効にするには、2つのレジストリキーを作成する必要があります。 「 [Windows デバイスで Office 2013 の先進認証を有効にする](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)」を参照してください。
+
+> [!IMPORTANT]
+> ユーザーが Azure AD MFA を有効にしていて、最新の認証が有効になっていない Office 2013 を実行しているデバイスがある場合は、それらのデバイスでアプリパスワードを使用する必要があります。 アプリパスワードの詳細と、その使用方法/場所/方法については、こちらを参照してください。[Azure Multi-factor authentication を使用したアプリパスワード](https://go.microsoft.com/fwlink/p/?LinkId=528178)。
+
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>作業中にユーザーが自分のモバイルデバイスを使用できないようにするポリシーがありますか。
 
-企業のポリシーを特定して、従業員がモバイルデバイスを使用できないようにすることが重要です。これは、実装する MFA ソリューションに影響を与えるためです。 構成[基準ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)の実装によって提供されるものなど、MFA ソリューションがあります。このソリューションでは、認証に認証アプリを使用することのみが許可されます。 組織がモバイルデバイスの使用を妨げるポリシーを持っている場合は、影響を受けているユーザーの[Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/)を購入するか、または適切な検証を提供するサードパーティ製ソリューションを実装する必要があります。オプション.
+企業のポリシーを特定して、従業員がモバイルデバイスを使用できないようにすることが重要です。これは、実装する MFA ソリューションに影響を与えるためです。 構成[基準の保護ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)の実装によって提供されるものなど、MFA ソリューションがあります。これにより、認証に認証アプリを使用することのみが許可されます。 組織がモバイルデバイスの使用を妨げるポリシーを持っている場合は、次のいずれかの方法を検討する必要があります。
+
+- Authenticator アプリをインストールできる仮想化された Android デバイスをデプロイする
+- パートナーテナント内のユーザーごとに MFA を適用するサードパーティのソリューションを実装して、最適な検証オプションを提供する
+- 影響を受けるユーザーの[Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/)ライセンスを購入する
 
 #### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>認証にユーザー資格情報を活用するのはどのような自動化または統合ですか。
 
@@ -204,8 +217,31 @@ Azure AD Premium ライセンスを割り当てられたユーザーは、その
 
 ### <a name="exchange-online-powershell"></a>Exchange Online PowerShell
 
-MFA が有効になっている場合、パートナーは、Exchange Online PowerShell で委任された管理者特権を利用して、顧客に対してアクションを実行することはできません。 この制限事項の詳細については[、「multi-factor authentication を使用した Exchange Online PowerShell への接続](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)」を参照してください。
+MFA が適用されると、パートナーは、Exchange Online PowerShell で委任された管理者特権を利用して、顧客に対してアクションを実行することができなくなります。 この制限事項の詳細については[、「multi-factor authentication を使用した Exchange Online PowerShell への接続](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)」を参照してください。
+
+この制限を回避するには、新しいアカウントを作成し、それを使用して対話型認証を実行しないようにします。 [Azure AD PowerShell](https://docs.microsoft.com/powershell/module/azuread/)を利用して新しいアカウントを作成し、初期構成を実行することをお勧めします。 次の PowerShell を使用してアカウントを作成し、構成することができます。
+
+```powershell
+Import-Module AzureAD
+Connect-AzureAD
+
+$PasswordProfile = New-Object -TypeName Microsoft.Open.AzureAD.Model.PasswordProfile
+
+$PasswordProfile.Password = "Password"
+$PasswordProfile.ForceChangePasswordNextLogin = $false
+
+$user = New-AzureADUser -DisplayName "New User" -PasswordProfile $PasswordProfile -UserPrincipalName "NewUser@contoso.com" -AccountEnabled $true
+
+# Uncomment the following two lines if you want the account to have Admin Agent privileges
+# $adminAgentsGroup = Get-AzureADGroup -Filter "DisplayName eq 'AdminAgents'"
+# Add-AzureADGroupMember -ObjectId $adminAgentsGroup.ObjectId -RefObjectId $user.ObjectId
+```
+
+次に PowerShell を使用して Exchange Online に接続するときに、このアカウントを使用すると、想定どおりに動作します。
+
+> [!IMPORTANT]
+> パートナーが、Exchange Online PowerShell で委任された管理者特権を利用して、MFA が適用されている場合に、その顧客に対してアクションを実行する機能は、今後提供される予定です。 それまでは、この回避策を活用する必要があります。
 
 ## <a name="resources-and-support"></a>リソースとサポート
 
-[パートナーセンターのセキュリティガイダンスグループコミュニティ](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)では、その他のリソースを検索し、技術部の営業時間などの今後のイベントについて学習することができます。 要件の詳細については、[よく寄せられる質問](http://assetsprod.microsoft.com/security-requirements-faq.pdf)のドキュメントを参照してください。
+[パートナーセンターのセキュリティガイダンスグループコミュニティ](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)では、その他のリソースを検索し、技術部の営業時間などの今後のイベントについて学習することができます。 要件の詳細については、[よく寄せられる質問](partner-security-requirements-faq.md)のドキュメントを参照してください。

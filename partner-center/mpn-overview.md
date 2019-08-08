@@ -8,12 +8,12 @@ ms.author: evansma
 keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e40835faf14b010cf8f8e448293e0d25cb687e11
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 85c4fa8c0b8d6e0e680f4e7ce6f4b3498bdfcd0a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668273"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820623"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft との連携
 
@@ -23,7 +23,7 @@ ms.locfileid: "64668273"
 
 ## <a name="join-the-microsoft-partner-network"></a>Microsoft Partner Network に参加する
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/membership)-->
 
 Microsoft Partner Network では、業界で最も広範囲の製品と、パートナーのビジネスの差別化、市場への投入、ソリューションの販売のためのプログラム オプションが提供されています。 コストをかけずに参加した後、Microsoft アクション パック、スタート キット、またはコンピテンシーでパートナーシップに投資する方法を選択します。
 
@@ -33,11 +33,11 @@ Microsoft Partner Network (MPN) について詳しくは、[MPN の Web サイ�
 
 ### <a name="how-to-join"></a>参加する方法
 
-Microsoft Partner Network に参加するには、MPN Web サイトの [**[メンバーシップ]** ページ](https://partner.microsoft.com/membership)に移動し、**[登録]** または **[今すぐ参加]** を選択します。
+Microsoft Partner Network に参加するには、MPN Web サイトの [ **[メンバーシップ]** ページ](https://partner.microsoft.com/membership)に移動し、 **[登録]** または **[今すぐ参加]** を選択します。
 
 ## <a name="microsoft-partner-network-membership-types"></a>Microsoft Partner Network メンバーシップの種類
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/en-us/membership)-->
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/membership)-->
 
 Microsoft Partner Network では、以下で説明するように、3 種類のメンバーシップが提供されています。 それぞれのメンバーシップは、種類ごとに異なる一連のメリットを提供してパートナー様のビジネス拡大を支援します。 パートナー様が一定の目標を達したときは、ニーズに適したレベルでプログラムにご参加ください。さらに多くの特典を利用し、マイクロソフトやネットワーク内の他のパートナーとの関係を構築することができます。
 
@@ -69,9 +69,9 @@ Microsoft Partner Network に参加すると、時間とコストを節約しな
 
 ネットワークの特典と要件について詳しくは、以下のリソースをご覧ください。
 
-- [基本特典](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
+- [基本特典](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-1)
 - [パートナー センターで MPN の特典を管理する](manage-your-partner-network-benefits.md)
-- [主要な要件](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
+- [主要な要件](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
 ## <a name="see-also"></a>関連項目
 - [Microsoft パートナー ビジネスの拡大](grow-your-business.md)

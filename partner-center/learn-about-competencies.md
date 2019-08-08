@@ -5,14 +5,14 @@ ms.date: 5/7/2019
 description: Silver および Gold メンバーシップ レベルを獲得するためのコンピテンシー要件について説明します。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: コンピテンシー、silver メンバーシップ、ゴールドのメンバーシップ、mpn、マップ、スキルを向上させて、Microsoft Partner Network、ネットワークのメンバーシップには、特殊化が高度な
+keywords: コンピテンシー、シルバーメンバーシップ、ゴールドメンバーシップ、mpn、地図、熟練者、Microsoft Partner Network、ネットワークメンバーシップ、高度な特殊化
 ms.localizationpriority: medium
-ms.openlocfilehash: 480f14df79f5899a24b23947528b44a7aa3b73ba
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.openlocfilehash: efc69215010e1ad32ae63c81556979f18f157f07
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549530"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820641"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Silver および Gold メンバーシップ獲得のための Microsoft コンピテンシー要件
 
@@ -23,10 +23,10 @@ Microsoft コンピテンシーを獲得すると、1 つまたは複数の専�
 
 - **Gold メンバーシップ**を獲得すると、マイクロソフト ソリューションの特定の領域内で、クラス最高の能力を備えていることを証明できます
 
-について[Silver および Gold のメンバーシップの獲得に必要な内容](https://partner.microsoft.com/membership/competencies)
+[シルバーおよびゴールドのメンバーシップを得るために必要なもの](https://partner.microsoft.com/membership/competencies)について説明します
 
-について[請求書およびコンピテンシーの税金](mpn-view-print-maps-invoice.md)
+[コンピテンシーの請求書と税金](mpn-view-print-maps-invoice.md)について学習する
 
 ## <a name="advanced-specializations"></a>高度な特殊化
 
-高度な特殊化で、gold コンピテンシーを超えます。 これらは、製品、ソリューション領域、またはサービスで実績のある、検証可能な専門知識を紹介するための手段を提供します。 お客様はパートナー ディレクトリの Gold コンピテンシーを取得し、ビジネス プロファイルに、高度な特殊化の両方を表示することになります。 高度な特殊化タグを受信するには、ビジネスは一連のパブリッシュ条件を満たす必要があります完全と Microsoft によって検証します。 [詳しくはこちらをご覧ください](https://partner.microsoft.com/en-us/membership/competencies#tab-content-2)。 
+高度な特殊化により、gold コンピテンシーを超えています。 これらは、製品、ソリューション、またはサービスで実証済みの検証可能な専門家を紹介する手段を提供します。 お客様は、パートナーディレクトリのビジネスプロファイルで、Gold コンピテンシーと高度な特殊化の両方を確認できます。 高度な特殊化タグを受け取るには、発行された条件のセットを完全に満たしていて、Microsoft によって検証される必要があります。 [詳しくはこちらをご覧ください](https://partner.microsoft.com/membership/competencies#tab-content-2)。 

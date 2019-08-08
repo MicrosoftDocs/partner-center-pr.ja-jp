@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 03/15/2019
 Description: 顧客の同意確認に関する FAQ
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: 顧客, 顧客たち, 同意, FAQ, MCA, Microsoft Cloud 契約
 ms.localizationpriority: medium
-ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: c6681b4b979352b58258837d85d8c88543d16ed0
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668608"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820462"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問
 
@@ -159,11 +159,11 @@ Microsoft の CSP プログラムのパートナーには、注文を行う前�
 
 この場合、考慮する必要のある API の変更は次のとおりです。
 
--   [https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent) 
+-   [https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent) 
 
--   [https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
+-   [https://docs.microsoft.com/partner-center/develop/get-agreement-metadata](https://docs.microsoft.com/partner-center/develop/get-agreement-metadata)
 
--   [https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
+-   [https://docs.microsoft.com/partner-center/develop/confirm-customer-consent](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent)
 
 **パートナー センター API の実装に問題がある場合はどうしますか?**
 
@@ -199,6 +199,6 @@ Microsoft Cloud 契約に対する顧客の同意を確認するには、どち�
 
 ## <a href="" id="additionalresourcesfaq"></a>その他のリソース
 
-Microsoft Cloud 契約に対する顧客の同意を確認する方法について詳しくは、「[Microsoft Cloud 契約に関するお客様の同意を確認する](https://docs.microsoft.com/en-us/partner-center/confirm-consent)」をご覧ください。
+Microsoft Cloud 契約に対する顧客の同意を確認する方法について詳しくは、「[Microsoft Cloud 契約に関するお客様の同意を確認する](https://docs.microsoft.com/partner-center/confirm-consent)」をご覧ください。
 
 サポートされているすべての言語で地域固有の Microsoft Cloud 契約顧客テンプレートを探すには、「[地域と言語別の Microsoft Cloud 契約](agreements.md)」をご覧ください。

@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 7/30/2019
 description: 今日、十分な予測が可能で持続的なクラウド ワークロードはコスト効率の高いソリューションでサポートしたいという需要が急速に高まっています。Azure RI と Server Subscriptions が CSP プログラムに含まれることで、パートナーはこのような顧客の需要に対応できます。 CSP プログラムでは、パートナーが企業顧客に代わり、Microsoft パートナー センターと Azure portal を通じて Azure RI と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: Azure, サブスクリプション, VM, 予約, 予約インスタンス
 ms.localizationpriority: medium
-ms.openlocfilehash: 410762c5edbd05c2f6195421f225b17aeece4192
-ms.sourcegitcommit: c6090d5d4f99a33053079f683d07c969ac193c17
+ms.openlocfilehash: 0ec13a664ecc29ec2e9ac28fa21671ea45d09cdd
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "68670117"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820331"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -35,7 +35,7 @@ Azure Reservations では、1 年分または 3 年分の料金を前払いす�
 
 今日、予測が十分可能で永続的なクラウド ワークロードはコスト効率の高いソリューションでサポートしたいという需要が急速に高まっています。Azure Reservations とサーバー サブスクリプションが CSP プログラムに含まれることで、Microsoft のパートナーはこのような顧客の需要に対応できます。 CSP プログラムでは、パートナーが企業顧客に代わり、Microsoft パートナー センターと Azure portal を通じて Azure Reservations とサーバー サブスクリプションの取得、プロビジョニング、管理を行うことができます。 Azure Reservations を利用すると、開発、テスト、アプリケーションの実行、データセンターの拡張を含む幅広いコンピューティング ソリューションに対して柔軟な仮想化を実現できます。 
 
-たとえば、[Azure Reserved VM Instances](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/) により、企業顧客は 1 年または 3 年の期間設定で仮想マシンを購入 ("予約") するだけで、従量課金制の Azure VM 価格設定と比較すると最大でコストの 72% を節約することができます。 ソフトウェア アシュアランスに含まれている Azure ハイブリッド特典を利用できる Windows Server 顧客は、従量課金制の価格と比較して最大 80% を節約できます。 
+たとえば、[Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) により、企業顧客は 1 年または 3 年の期間設定で仮想マシンを購入 ("予約") するだけで、従量課金制の Azure VM 価格設定と比較すると最大でコストの 72% を節約することができます。 ソフトウェア アシュアランスに含まれている Azure ハイブリッド特典を利用できる Windows Server 顧客は、従量課金制の価格と比較して最大 80% を節約できます。 
 
 訴求力のある価格設定と驚くべき展開柔軟性という無比の組み合わせで、Azure Reservations を選んだ顧客には、すべてにおいて最大の価値が提供されます。
 
@@ -71,7 +71,7 @@ Azure Reservations では、1 年分または 3 年分の料金を前払いす�
 
 5.  Azure RI と Server Subscriptions のよく寄せられる質問を確認する
 
-6.  [パートナー センター API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances) での Azure Reservations と Server Subscriptions に関する更新内容を理解する
+6.  [パートナー センター API (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) での Azure Reservations と Server Subscriptions に関する更新内容を理解する
 
 ## <a name="resources"></a>参考資料: 
 
@@ -84,20 +84,20 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 - [Azure Reservations のパートナー FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [Azure Reservations と SQL DB に関するパートナー向け FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [リモートデスクトップサービス (RDS) Cal (アナウンス)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
-- [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [サーバー サブスクリプション](https://docs.microsoft.com/en-us/partner-center/csp-software-subscriptions)
+- [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [サーバー サブスクリプション](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
 - [Azure の SQL DB の概要](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [SQL DB の予約 (Azure ポータル)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-reserved-capacity)
-- [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/en-us/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [SQL Managed Instance (Azure Portal)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance)
-- [SUSE と Red Hat Enterprise Linux (Azure Portal)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SQL DB の予約 (Azure ポータル)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [SQL Managed Instance (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [SUSE と Red Hat Enterprise Linux (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Azure 上の Red Hat Linux](https://azure.com/redhat)
-- [Azure 上の SUSE Linux](https://azure.microsoft.com/en-us/overview/linux-on-azure/suse/)
-- [Azure 上の Linux](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
-- [Azure の料金概要](https://azure.microsoft.com/en-us/pricing/)
-- [Azure 料金計算ツール](https://azure.microsoft.com/en-us/pricing/calculator)
+- [Azure 上の SUSE Linux](https://azure.microsoft.com/overview/linux-on-azure/suse/)
+- [Azure 上の Linux](https://azure.microsoft.com/overview/linux-on-azure/)
+- [Azure の料金概要](https://azure.microsoft.com/pricing/)
+- [Azure 料金計算ツール](https://azure.microsoft.com/pricing/calculator)
 - [Azure Databricks ユニットの予約](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
-- CSP の価格表:**Microsoft Azure の予約インスタンス**と**ソフトウェアサブスクリプション**の価格表は両方とも、パートナーセンターの[価格 &](https://partner.microsoft.com/en-us/pcv/sales)のページに掲載されています。
+- CSP の価格表:**Microsoft Azure の予約インスタンス**と**ソフトウェアサブスクリプション**の価格表は両方とも、パートナーセンターの[価格 &](https://partner.microsoft.com/pcv/sales)のページに掲載されています。
 
 
 **トレーニング**
@@ -117,13 +117,13 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 - [顧客に代わって Azure Reservations を管理する](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Azure Reservations の請求](https://go.microsoft.com/fwlink/?linkid=872809)
 - [最大限の予約使用に備えた VM サイズ](https://go.microsoft.com/fwlink/?linkid=872810)
-- [パートナー センター API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
-- [リモート デスクトップ サービス](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/welcome-to-rds)
+- [パートナー センター API (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
+- [リモート デスクトップ サービス](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Azure ハイブリッド特典
 
 [Azure ハイブリッド特典](https://azure.microsoft.com/pricing/hybrid-benefit)を利用すると、Windows Server ライセンスから得られる価値を拡大し、仮想マシンのコストを最大で *47% 節約できます。 この特典はソフトウェア アシュアランスに含まれており、Windows Server Datacenter および Standard エディションのライセンスで利用できます。 エディションによっては、ライセンスを変換または再利用して、低いベース コンピューティング レート (Linux 仮想マシン レート) で Windows Server 仮想マシンを Azure で実行できます。
 
-関連項目: [Azure ハイブリッド特典についてよく寄せられる質問](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
+関連項目: [Azure ハイブリッド特典についてよく寄せられる質問](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
 
 \* 割引による実際の効果は、リージョン、インスタンスの種類、使用率によって異なります。

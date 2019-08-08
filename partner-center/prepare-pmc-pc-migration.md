@@ -6,12 +6,12 @@ description: ビジネスを PMC からパートナーセンターに移行す�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854514"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820570"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>パートナーメンバーシップセンター (PMC) からパートナーセンターへの移行の準備
 
@@ -29,7 +29,7 @@ Azure 職場アカウントは、Azure パブリック クラウドにおける�
 - 職場アカウント:john@contoso.com
 - 個人のアカウント:John@outlook.com
 
-職場の電子メールは、Azure active directory テナントの一部です。 パートナーセンターでアカウントを作成するには、AAD テナントが必要です。 Azure Active Directory の詳細については、「 [Azure AD でのディレクトリの作成」](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)を参照してください。
+職場の電子メールは、Azure active directory テナントの一部です。 パートナーセンターでアカウントを作成するには、AAD テナントが必要です。 Azure Active Directory の詳細については、「 [Azure AD でのディレクトリの作成」](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)を参照してください。
 
 **PMC からパートナーセンターに移行するときは、Microsoft と AAD テナント (たとえば、Office 365) を使用していて、CSP ビジネス用のテナントもある場合、パートナーセンターにサインインするアカウントを指定します。**
 
@@ -66,7 +66,7 @@ MPN 全体管理者がパートナーセンターに移動すると、そのロ�
 
 **PMC からパートナーセンターに移行すると、ユーザーの役割はどうなりますか。**
 
-移行を実行する MPN のグローバル管理者または主要プログラムの連絡先を除き、PMC のすべてのユーザーが管理者の役割を失います。 移行を完了する個人は、パートナーセンターでロールを割り当てる必要があります。 パートナーセンターのロールは、PMC の役割とは異なります。 パートナーセンターのユーザーロールの詳細については、[ユーザーロールとアクセス許可の割り当て] (アクセス許可-overview.md と[PMC からパートナーセンターへの移動](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles)) を参照してください。
+移行を実行する MPN のグローバル管理者または主要プログラムの連絡先を除き、PMC のすべてのユーザーが管理者の役割を失います。 移行を完了する個人は、パートナーセンターでロールを割り当てる必要があります。 パートナーセンターのロールは、PMC の役割とは異なります。 パートナーセンターのユーザーロールの詳細については、[ユーザーロールとアクセス許可の割り当て] (アクセス許可-overview.md と[PMC からパートナーセンターへの移動](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)) を参照してください。
 
 
 **会社のプロファイルとビジネスプロファイルの違いは何ですか。**

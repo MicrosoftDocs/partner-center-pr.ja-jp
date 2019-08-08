@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 認定教育パートナー, 教育, 教育機関への販売, 学校
 ms.localizationpriority: medium
-ms.openlocfilehash: 4c5b221bae98e203159afd8926bbdd3d3bbd0421
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 712b36badfc43c5c62d4c8e74c231076e88d44a4
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667213"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820637"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Minecraft の販売:教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 
@@ -31,18 +31,18 @@ ms.locfileid: "64667213"
 次の手順に従って、**Minecraft: Education Edition** サブスクリプションを[パートナー センター](https://partnercenter.microsoft.com/pcv/dashboard/overview
 ) (サインインが必要) で購入します。
 
-  1.  パートナー センター メニューで、**[顧客]** を選択します。
+  1.  パートナー センター メニューで、 **[顧客]** を選択します。
   
-  2.  顧客の一覧から、教育機関の顧客を選択し、**[サブスクリプションの追加]** を選択します。
+  2.  顧客の一覧から、教育機関の顧客を選択し、 **[サブスクリプションの追加]** を選択します。
   
-  3.  最適な請求頻度を選択し、**[カタログ]** セクションで **[教育]** を選択します。
+  3.  最適な請求頻度を選択し、 **[カタログ]** セクションで **[教育]** を選択します。
 
   4.  顧客の代理で購入する Minecraft サブスクリプションを選択し、ライセンス数を入力します。 **[次へ: レビュー]** を選択します。
 
       >[!NOTE]
-      >これらのライセンスは、パートナー センターで表示と管理を行うことができます。 顧客はこれらのライセンスを、顧客のインベントリの [Minecraft: Education Edition 詳細ページ](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) (詳細ページを表示するには、教育機関向け Microsoft Store にサインインする必要があります) で確認して管理できます。 
+      >これらのライセンスは、パートナー センターで表示と管理を行うことができます。 顧客はこれらのライセンスを、顧客のインベントリの [Minecraft: Education Edition 詳細ページ](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) (詳細ページを表示するには、教育機関向け Microsoft Store にサインインする必要があります) で確認して管理できます。 
 
-  5.  注文が正しい場合は、**[送信]** を選びます。 注文を変更する必要がある場合は、**[キャンセル]** を選択して、必要な変更を行います。   
+  5.  注文が正しい場合は、 **[送信]** を選びます。 注文を変更する必要がある場合は、 **[キャンセル]** を選択して、必要な変更を行います。   
 
   6.  パートナーがサブスクリプションを購入したら、教育機関の顧客に、[教育機関向け Microsoft Store](https://educationstore.microsoft.com) でインベントリを確認し、ソフトウェアをダウンロードして、ライセンスを配布するように伝えます。
 

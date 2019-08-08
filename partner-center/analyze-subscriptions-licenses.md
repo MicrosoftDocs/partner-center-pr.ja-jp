@@ -1,20 +1,20 @@
 ---
 title: サブスクリプションとライセンスの分析 | パートナー センター
-ms.date: 07/12/2018
+ms.date: 08/02/2019
 Description: サブスクリプションとライセンスの分析ページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。
-Author: Xansky
-ms.author: mhopkins
+author: LauraBrenner
+ms.author: labrenne
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5ca4987d4af50bca8d2c298e325d5810e7d17033
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 29d597b66c16d7f0da29caa023c1da7ba23f9616
+ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667804"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68781996"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>サブスクリプションとライセンスの分析 
 
@@ -38,7 +38,7 @@ ms.locfileid: "64667804"
 
 次のメトリックを追跡しています。
 
-**要約**  
+**概要**  
  - **Subscriptions sold** (サブスクリプションの販売数): 指定した期間に作成されたサブスクリプションの数  
  - **Licenses sold** (ライセンスの販売数): 指定した期間に販売されたライセンスの数   
  - **Subscriptions renewing in 30 days** (30 日以内に更新するサブスクリプション): 指定した期間中に状態がアクティブで、**Autorenew** が true であるサブスクリプションの数

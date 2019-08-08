@@ -1,18 +1,18 @@
 ---
 title: PMC からパートナーセンターへの移行 |パートナーセンター
 ms.topic: article
-ms.date: 06/14/19
+ms.date: 06/14/2019
 description: PMC とパートナーセンターの違いと類似性を理解する
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナーセンターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: 82909b8d44f1a325c01f5c1a8813570245d14f0e
-ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
+ms.openlocfilehash: fa5944a2f0fd70ec6337f3858199cdeb586fb39a
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "67818719"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708875"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC からパートナーセンターへの移行
 

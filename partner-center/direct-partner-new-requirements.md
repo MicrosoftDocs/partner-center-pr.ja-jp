@@ -3,17 +3,17 @@ title: CSP の直接パートナーの新しい要件 | パートナー セン�
 ms.topic: article
 ms.date: 03/20/2018
 Description: 現在、直接パートナーとして CSP プログラムに登録している場合、これらの更新されたサポートとサービスの要件を満たすために準備する必要があります。
-program.author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, 直接パートナー, 直接請求, 要件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7320d26479ce9d42959bdf91bafec7853ac4ca04
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 3563f113b30cb30e0373c4e81ca4389f19f95cc7
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135592"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820322"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>CSP の直接請求パートナーの新しい要件
 
@@ -31,8 +31,8 @@ ms.locfileid: "62135592"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |事業拠点で有効な Microsoft Partner Network (MPN) ID。    |
 |**保証**   |組織を代表して契約書に同意して署名するための権限。|
-|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/en-US/support/partnersupport)をご覧ください。<br> 重要:サポート プランを購入する前に、与信審査に合格する必要があります。 与信審査に合格したら、メールでご連絡します。 |
-|**マネージド サービス**   |少なくとも 1 つの管理されたサービス、IP サービス、または顧客ソリューション アプリケーション。 [管理されたサービス](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)の追加に関する詳細をご覧ください。|
+|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br> 重要:サポート プランを購入する前に、与信審査に合格する必要があります。 与信審査に合格したら、メールでご連絡します。 |
+|**マネージド サービス**   |少なくとも 1 つの管理されたサービス、IP サービス、または顧客ソリューション アプリケーション。 [管理されたサービス](https://partner.microsoft.com/business-opportunities/managed-services-provider)の追加に関する詳細をご覧ください。|
 |**売掛金勘定** |顧客の請求とプロビジョニングを管理するための組織のインフラストラクチャ。
 
 ### <a name="verify-direct-bill-eligibility"></a>直接請求の適格性を確認する

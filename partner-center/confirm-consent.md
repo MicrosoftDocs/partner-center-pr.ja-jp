@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 04/16/2019
 Description: パートナーは、お客様の Microsoft 製品とサービスを注文する前に、Microsoft Cloud 契約へのお客様の同意を得る必要があります。 パートナーがコンプライアンス要件を満たすことができるように、Microsoft では、パートナーに対して、契約に同意したユーザーに関する特定の詳細情報を提供することにより、同意を確認することを求めています。
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: 顧客, 顧客たち, 同意, MCA, Microsoft Cloud 契約, 顧客契約テンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: fc82d3156dd50c3ad05b141f1715634031cad202
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135143"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820509"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Microsoft Cloud 契約に関するお客様の同意を確認する
 
@@ -37,7 +37,7 @@ ms.locfileid: "62135143"
 
 -   同意の日付
 
-詳細については、[Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)を参照してください。
+詳細については、[Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問](https://docs.microsoft.com/partner-center/confirm-consent-faq)を参照してください。
 
 直接請求パートナーと間接プロバイダーは、パートナー センターまたはパートナー センター API を介して取引するときに、Microsoft Cloud 契約に関するお客様の同意を確認する必要があります。 確認は*必須*です。
 
@@ -49,11 +49,11 @@ ms.locfileid: "62135143"
 
 お客様の同意は、パートナー センターまたはパートナー センター API を使用して確認できます。 パートナー センター API でこれを行うには、以下のトピックを参照してください。 
 
--   [顧客の同意を確認する](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
+-   [顧客の同意を確認する](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent)
 
--   [契約メタデータを取得する](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
+-   [契約メタデータを取得する](https://docs.microsoft.com/partner-center/develop/get-agreement-metadata)
 
--   [顧客の同意を確認する](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
+-   [顧客の同意を確認する](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent)
 
 
 これは、運用環境とサンド ボックス環境の両方に適用されます。
@@ -63,61 +63,48 @@ ms.locfileid: "62135143"
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>新しいお客様についてお客様の同意を確認する
 
 パートナー センターで、新しいお客様のテナントを作成するときに、お客様の同意を確認するのには、次の手順に従います。 これを行うには、管理エージェントまたは販売エージェントである必要があることに注意してください。
- 
-1.  **[顧客]**、**[新しい顧客]**、**[アカウント情報]** の順に選択します。
 
-2.  **会社**と**主要連絡先**に関する情報を入力します。
+1. **[顧客]** 、 **[新しい顧客]** 、 **[アカウント情報]** の順に選択します。
+2. **会社**と**主要連絡先**に関する情報を入力します。
 
 ![会社情報](images/mca/mca1.png)
 
-3.  **[Microsoft Cloud 契約]** で **[The customer has accepted the latest Microsoft cloud agreement]** (顧客が最新の Microsoft Cloud 契約に同意済み) を選択します。 
-
-4.  **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
-
-5.  同意しているユーザーの詳細を入力します。 
+3. **[Microsoft Cloud 契約]** で **[The customer has accepted the latest Microsoft cloud agreement]** (顧客が最新の Microsoft Cloud 契約に同意済み) を選択します。
+4. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
+5. 同意しているユーザーの詳細を入力します。
 
 ![同意の日付を追加する](images/mca/MCA3.png)
 
-既定では、第一連絡先担当者のユーザー情報が表示されます。 これが正しくない場合は、**[更新]** を選択し、契約に同意したユーザーの **名**、**姓**、**メール アドレス**、**電話番号* (省略可能) を入力します。
+既定では、第一連絡先担当者のユーザー情報が表示されます。 これが正しくない場合は、 **[更新]** を選択し、契約に同意したユーザーの **名**、**姓**、**メール アドレス**、**電話番号* (省略可能) を入力します。
 
-6.  **[次へ]** を選択して、お客様のテナントを作成する残りの手順を続行します。
+6. **[次へ]** を選択して、お客様のテナントを作成する残りの手順を続行します。
 
 ### <a name="confirm-customer-acceptance-for-an-existing-customer"></a>既存のお客様についてお客様の同意を確認する
 
-これを行うには、管理エージェントまたは販売エージェントである必要があります。 
+これを行うには、管理エージェントまたは販売エージェントである必要があります。
 
-1.  **[顧客]** を選択し、表示するお客様を検索して選択します。 
+1. **[顧客]** を選択し、表示するお客様を検索して選択します。
+2. **[アカウント情報]** を選択します。
+3. **[Microsoft Cloud 契約]** で **[更新]** を選択します。
 
-2.  **[アカウント情報]** を選択します。
+![更新](images/mca/mca4.png)
 
-3.  **[Microsoft Cloud 契約]** で **[更新]** を選択します。
-
-![Update](images/mca/mca4.png)
-
-4.  契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
-
-5.  **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
-
-6.  **[Save and continue]** (保存して続行) を選択します。
+4. 契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
+5. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
+6. **[Save and continue]** (保存して続行) を選択します。
 
 ### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>既存のお客様について新しい注文の作成中にお客様の同意を確認する
 
-以前に確認していない既存のお客様について新しい注文を作成しようとすると、確認を完了するよう求めるプロンプトが表示されます。 この場合、次の手順を実行します。 
+以前に確認していない既存のお客様について新しい注文を作成しようとすると、確認を完了するよう求めるプロンプトが表示されます。 この場合、次の手順を実行します。
 
-1.  契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
-
-2.  **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
-
-3.  **[Save and continue]** (保存して続行) を選択します。
-
+1. 契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
+2. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
+3. **[Save and continue]** (保存して続行) を選択します。
 
 ### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>既存のお客様についてお客様の同意の確認を取得する
 
-以下の手順を使用して、既存のお客様について以前に提供したお客様の同意確認を取得することができます。 これを行うには、管理エージェントまたは販売エージェントである必要があります。 
+以下の手順を使用して、既存のお客様について以前に提供したお客様の同意確認を取得することができます。 これを行うには、管理エージェントまたは販売エージェントである必要があります。
 
-1.  **[顧客]** を選択し、表示するお客様を検索して選択します。 
-
-2.  **[アカウント情報]** を選択します。
-
-3.  **[Microsoft Cloud 契約]** で、このお客様について確認が提供されているかどうかが表示されます。
-
+1. **[顧客]** を選択し、表示するお客様を検索して選択します。
+2. **[アカウント情報]** を選択します。
+3. **[Microsoft Cloud 契約]** で、このお客様について確認が提供されているかどうかが表示されます。

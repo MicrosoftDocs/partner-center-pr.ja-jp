@@ -1,20 +1,20 @@
 ---
 title: 間接リセラーのパフォーマンス分析 | パートナー センター
-ms.date: 07/12/2018
+ms.date: 08/02/2019
 Description: 間接リセラーのパフォーマンスに関するデータを取得して、成功度とさらに注意が必要な領域を識別します。
-Author: Xansky
-ms.author: mhopkins
+author: LauraBrenner
+ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c86640d0334063b8daaffd3c447597a57b9662dd
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: c46a155b99087f6d6019db4ed81247c269883ae2
+ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667926"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68781990"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>間接リセラーのパフォーマンス分析 
 
@@ -28,7 +28,7 @@ ms.locfileid: "64667926"
 
 次のメトリックを追跡しています。
 
-**要約**  
+**概要**  
  - **合計リセラー数**: サブスクリプションの最終日にアクティブなリセラーの数  
  - **新規リセラー数**: 指定した期間の新規間接リセラーの数  
  - **アクティブなリセラー数**: MPNID に 1 つ以上のサブスクリプションがあり、サブスクリプションの状態がプロビジョニング解除されていない間接リセラーの数  

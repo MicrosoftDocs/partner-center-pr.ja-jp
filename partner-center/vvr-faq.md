@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: トレーニング受講券, ソフトウェア アシュアランス, トレーニング, 受講券の確認, 受講券の予約
 ms.localizationpriority: medium
-ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.openlocfilehash: ce1908e74169c3de4d2cd6d2d43ece379bf9d439
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674224"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820499"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>よくあるご質問:受講券の確認および受け取りツールの使用 
 
@@ -20,7 +20,7 @@ ms.locfileid: "67674224"
 
 - パートナー センター
 
-受講券の確認と受け取りツールは、[パートナー センター](https://partner.microsoft.com/en-us/pcv/dashboard/overview)に移動しました。 パートナーからよく寄せられる質問の一部を次に示します。 
+受講券の確認と受け取りツールは、[パートナー センター](https://partner.microsoft.com/pcv/dashboard/overview)に移動しました。 パートナーからよく寄せられる質問の一部を次に示します。 
 
 **パートナー センターに移行したパートナーの場合**
 
@@ -52,8 +52,8 @@ ms.locfileid: "67674224"
 
 - VVR ツールにアクセスするには、会社が SATV プログラムまたは SA DPS プログラムのいずれかに登録される必要があります。
 
-詳細な FAQ をお読みください、[伝票検証ツール ワークフロー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)します。
+詳細な FAQ については、「[バウチャー validation tool workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)」を参照してください。
 
 SATV への登録方法の詳細については、「[パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム](software-assurance-satv.md)」を参照してください。
 
-ソフトウェア アシュアランス DPS プログラムに登録する方法については、「[パートナー センターでのソフトウェア アシュアランス プログラム](software-assurance-dps.md)します。
+ソフトウェアアシュアランス DPS プログラムに登録する方法の詳細については、[パートナーセンターの「ソフトウェアアシュアランスプログラム](software-assurance-dps.md)」を参照してください。

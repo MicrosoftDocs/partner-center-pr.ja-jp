@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/05/2018
 Description: クラウド ソリューション プロバイダー プログラム (CSP) のパートナーは、Microsoft Azure Reservations を顧客に提供できます。
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: Azure, 予約, 管理, 請求, 購入, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e08d83ea931b879bdf4f0b45558a696e166503d3
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: a16726127705acde1bfcee23a5fe2b8c5ccafee7
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134892"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708798"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>パートナー センター - Microsoft Azure Reservations の販売
 
