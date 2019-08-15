@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: 間接リセラー, リセラー, 間接プロバイダー, プロバイダー, パートナーシップ, VAR, tier2, 階層 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7843fd98418ac65204096757ea26c5be9f2078a6
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.openlocfilehash: 5f424bc779bf86bfc278f969d4bbf0ea72729182
+ms.sourcegitcommit: 4276856f46d8d53c4878ba9d176c10e9607366b8
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820657"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68935486"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携
 
