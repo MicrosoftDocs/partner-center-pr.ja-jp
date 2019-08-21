@@ -1,54 +1,60 @@
 ---
-title: パートナー プロファイルの更新 | パートナー センター
+title: パートナー プロファイルを確認する | パートナー センター
 description: 管理者として初めてサインインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。
 MS.Topic: article
-Date: 02/19/2019
+Date: 08/06/2019
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
-author: MaggiePucciEvans
-ms.author: evansma
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e6089d022fb60b848124d1a1a1057e81024585
-ms.sourcegitcommit: 1201c95758188d9cc52aabdf5e1993ba6cc5402a
-ms.translationtype: MT
+ms.openlocfilehash: 6a8e8e85650306c67130fcd91dcbdb40f2d9498b
+ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "68642334"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68860962"
 ---
-# <a name="update-your-partner-profile"></a><span data-ttu-id="e9f72-103">パートナー プロファイルの更新</span><span class="sxs-lookup"><span data-stu-id="e9f72-103">Update your partner profile</span></span>
+# <a name="verify-your-partner-profile"></a><span data-ttu-id="6bc7d-103">パートナー プロファイルを確認する</span><span class="sxs-lookup"><span data-stu-id="6bc7d-103">Verify your partner profile</span></span>
 
+<span data-ttu-id="6bc7d-104">全体管理者として初めてパートナー センターにサインインするときは、主要連絡先、組織の法人名と住所、プログラム情報など、ご自身の会社の詳細情報すべてが正しく追加されていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-104">The first time you sign into Partner Center as  global admin, make sure all your company details such as primary contact, legal business name and address, and program information is correctly added.</span></span> <span data-ttu-id="6bc7d-105">会社が複数の場所に存在する場合は、場所のデータが正しいことを確認します。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-105">If your company has more than one location, review your location data for accuracy.</span></span> <span data-ttu-id="6bc7d-106">全体管理者、課金管理者、または管理エージェントとして、自分の請求および税金情報を表示し、更新することもできます。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-106">As global admin, billing admin, or admin agent, you will also be able to see and update your billing and tax information.</span></span> 
 
-<span data-ttu-id="e9f72-104">管理者として初めてパートナー センターにログインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。</span><span class="sxs-lookup"><span data-stu-id="e9f72-104">The first time you sign into Partner Center as an admin, make sure your support details are correct, file tax exemptions if appropriate, and review the contact information in your profiles.</span></span> <span data-ttu-id="e9f72-105">組織が複数の場所に存在する場合は、場所のデータが正しいことを確認します。</span><span class="sxs-lookup"><span data-stu-id="e9f72-105">If your organization has more than one location, review your location data for accuracy.</span></span>
+<span data-ttu-id="6bc7d-107">**パートナー プロファイル情報を確認する**</span><span class="sxs-lookup"><span data-stu-id="6bc7d-107">**Verify your partner profile information**</span></span>
 
-<span data-ttu-id="e9f72-106">**サポートの詳細を更新する**</span><span class="sxs-lookup"><span data-stu-id="e9f72-106">**Update your support details**</span></span>
+<span data-ttu-id="6bc7d-108">パートナー プロファイルは、法的ビジネス情報、主要連絡先の名前とメール、会社が参加しているプログラム、および法的ビジネスに統合されている他の企業 (該当する場合) で構成されます。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-108">Your partner profile consists of your legal business information, primary contact name and email, the programs which your company participates in, and if relevant, your other companies that are now merged under your legal business.</span></span>
 
-1.  <span data-ttu-id="e9f72-107">[**設定**] にアクセスし、[**パートナープロファイル**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="e9f72-107">Go to **Settings** and select **Partner profile**.</span></span>
-2.  <span data-ttu-id="e9f72-108">**[サポート]** セクションで、 **[更新]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="e9f72-108">In the **Support** section, select **Update**.</span></span>
-3.  <span data-ttu-id="e9f72-109">サポートが必要な顧客が Microsoft に連絡してきた場合、Microsoft は貴社のサポート プロファイルに記載の Web サイト、メール アドレス、および電話番号を伝えます。</span><span class="sxs-lookup"><span data-stu-id="e9f72-109">If any of your customers call Microsoft looking for support, Microsoft will point them back to the website, email, and phone contact info that you list in your support profile.</span></span>
+1.  <span data-ttu-id="6bc7d-109">**[設定]** にアクセスし、 **[パートナー プロファイル]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-109">Go to **Settings** and select **Partner profile**.</span></span>
 
-<span data-ttu-id="e9f72-110">**税金の除外を申告する**</span><span class="sxs-lookup"><span data-stu-id="e9f72-110">**File tax exemptions**</span></span>
+2.  <span data-ttu-id="6bc7d-110">ご自身の**法的ビジネス プロファイル**、 **主要連絡先情報**、および**プログラム情報**を確認します。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-110">Review your **Legal business profile**, **Primary contact info**, and your **Program info**.</span></span>
 
--   <span data-ttu-id="e9f72-111">税金の除外が貴社に適用されるかどうかを判断し、適用される場合は顧客やサブスクリプションを追加する前に申告してください。</span><span class="sxs-lookup"><span data-stu-id="e9f72-111">Decide whether tax exemptions apply to you, and if so file them before you add any customers or subscriptions.</span></span> <span data-ttu-id="e9f72-112">「[税金と税金の除外](tax-and-tax-exemptions.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="e9f72-112">See [Tax and tax exemptions](tax-and-tax-exemptions.md).</span></span>
+<span data-ttu-id="6bc7d-111">他の企業をご自身の法的ビジネスに統合した場合は、このページでその情報を確認することもできます。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-111">If you have merged your other companies under your legal business, you can review their information as well on this page.</span></span>
 
-<span data-ttu-id="e9f72-113">**プロファイル情報を確認する**</span><span class="sxs-lookup"><span data-stu-id="e9f72-113">**Verify your profile information**</span></span>
+## <a name="update-your-legal-address"></a><span data-ttu-id="6bc7d-112">法的住所を更新する</span><span class="sxs-lookup"><span data-stu-id="6bc7d-112">Update your legal address</span></span>
 
-1.  <span data-ttu-id="e9f72-114">[**設定**] にアクセスし、[**パートナープロファイル**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="e9f72-114">Go to **Settings** and select **Partner profile**.</span></span> 
-2.  <span data-ttu-id="e9f72-115">**[パートナー プロファイル]** 、 **[課金プロファイル]** 、および **[組織プロファイル]** を確認します。</span><span class="sxs-lookup"><span data-stu-id="e9f72-115">Review your **Partner profile**, **Partner billing profile**, and **Organizational profile**.</span></span>
+<span data-ttu-id="6bc7d-113">パートナー センターで法的住所を更新できるようになっています。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-113">You can now update your legal address on Partner Center.</span></span>
 
-## <a name="manage-your-partner-profile"></a><span data-ttu-id="e9f72-116">パートナー プロファイルを管理する</span><span class="sxs-lookup"><span data-stu-id="e9f72-116">Manage your Partner profile</span></span> 
+1. <span data-ttu-id="6bc7d-114">**[設定]** にアクセスし、 **[パートナー プロファイル]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-114">Go to **Settings** and select **Partner profile**.</span></span> 
 
-<span data-ttu-id="e9f72-117">パートナー センターで法的住所を更新できるようになっています。</span><span class="sxs-lookup"><span data-stu-id="e9f72-117">You can now update your legal address on Partner Center.</span></span>
-
-1. <span data-ttu-id="e9f72-118">[**設定**] の [**パートナープロファイル**の選択] にアクセスします。</span><span class="sxs-lookup"><span data-stu-id="e9f72-118">Go to **Settings** nd select **Partner profile**.</span></span> 
-2. <span data-ttu-id="e9f72-119">[法的住所] の隣の **[更新]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="e9f72-119">Select **Update** next to Legal address.</span></span> 
+2. <span data-ttu-id="6bc7d-115">[法的住所] の隣の **[更新]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-115">Select **Update** next to Legal address.</span></span> 
 
 >[!Important]
-><span data-ttu-id="e9f72-120">法的住所に関連付けられた国を変更することはできません。法的住所の国は、テナントおよびサービスに関連付けられています。</span><span class="sxs-lookup"><span data-stu-id="e9f72-120">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services.</span></span> <span data-ttu-id="e9f72-121">詳しくは、[法的住所の変更](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide)に関する記事をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="e9f72-121">For details, read [Change your legal address](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span></span>
+><span data-ttu-id="6bc7d-116">法的住所に関連付けられた国を変更することはできません。法的住所の国は、ご自身のテナントとサービス、およびビジネスで使用している通貨に関連付けられています。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-116">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services as well as the currency you do business with.</span></span> 
 
-3. <span data-ttu-id="e9f72-122">**[送信]** を選択すると、法的 ID が再評価された後、別のメールを受け取るので、それを承諾する必要があります。</span><span class="sxs-lookup"><span data-stu-id="e9f72-122">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
+3. <span data-ttu-id="6bc7d-117">**[送信]** を選択すると、法的 ID が再評価された後、別のメールを受け取るので、それを承諾する必要があります。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-117">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
 
+## <a name="update-legal-business"></a><span data-ttu-id="6bc7d-118">法的ビジネスを更新する</span><span class="sxs-lookup"><span data-stu-id="6bc7d-118">Update legal business</span></span>
 
+<span data-ttu-id="6bc7d-119">Partner Membership Center からパートナー センターへの移行中、誤ったビジネスが法的ビジネスとして特定された場合は、正しいビジネスに変更できます。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-119">If, during your migration from Partner Membership Center to Partner Center, the wrong business was identified as the legal business, you can change it to the correct business.</span></span>
+
+1. <span data-ttu-id="6bc7d-120">**[アカウント設定]** から **[場所]** にアクセスし、必要なビジネスが法的ビジネスとして一覧に表示されていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-120">From **Account settings** go to **Locations** and make sure the business you want as your legal business is in the list.</span></span> <span data-ttu-id="6bc7d-121">表示されていない場合は、追加できます。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-121">If it isn't, you can add it.</span></span> <span data-ttu-id="6bc7d-122">**[場所の追加]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-122">Select **Add location**.</span></span>
+
+2.  <span data-ttu-id="6bc7d-123">次に、 **[パートナー プロファイル]** にアクセスし、 **[Update legal business profile]\(法的ビジネスプロファイルの更新\)** を選択します。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-123">Next go to **Partner profile** and select **Update legal business profile**.</span></span>
+
+3.  <span data-ttu-id="6bc7d-124">法的ビジネスとして使用する場所とビジネスを選択し、 **[保存]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-124">Select the location and business you want to use as your legal business and then select **Save**.</span></span>
+
+## <a name="update-your-billing-address"></a><span data-ttu-id="6bc7d-125">請求先住所を更新する</span><span class="sxs-lookup"><span data-stu-id="6bc7d-125">Update your billing address</span></span>
+
+<span data-ttu-id="6bc7d-126">全体管理者、課金管理者、または管理エージェントは、自分の**課金プロファイル**の請求書に示されている住所を変更できます。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-126">If you are the global admin, billing admin, or admin agent, you can change the address that appears on your invoice in your **Billing profile**.</span></span> <span data-ttu-id="6bc7d-127">ただし、請求書システムの制限により、請求書の会社名を変更することはできません。</span><span class="sxs-lookup"><span data-stu-id="6bc7d-127">You can't, however, change the company name on your invoice because of a limitation with the invoice system.</span></span>
 
  
-
 
 
