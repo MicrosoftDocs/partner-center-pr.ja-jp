@@ -115,7 +115,7 @@
 ### [顧客のサブスクリプションの作成、中断、取り消し](create-a-new-subscription.md)
 ### [プロモーションを使用して、新しい顧客の関心を引く](promotions.md)
 ### [Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)
-### [Azure Marketplace 製品にサブスクリプションを販売する](sell-marketplace-products.md)
+### [商用マーケットプレース製品にサブスクリプションを販売する](sell-marketplace-products.md)
 ### [パートナー センターでの Azure サブスクリプションの割り当て](assign-azure-subscriptions.md)
 ### [ユーザーへのライセンスの割り当て](assign-licenses-to-users.md)
 ### [既存のサブスクリプションへのライセンスまたはサービスの追加](add-licenses-or-services-to-an-existing-subscription.md)
