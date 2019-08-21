@@ -1,127 +1,129 @@
 ---
-title: パートナーのセキュリティ要件 |パートナーセンター
+title: パートナーのセキュリティ要件 | パートナー センター
 ms.topic: article
 ms.date: 08/05/2019
-description: Cloud Solution Provider プログラムに参加するアドバイザーとパートナーのセキュリティ要件について説明します。
+description: クラウド ソリューション プロバイダー プログラムに参加するアドバイザーとパートナーのセキュリティ要件について説明します。
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, クラウドソリューションプロバイダー, Cloud Solution Provider プログラム, CSP, コントロールパネルベンダ, CPV, multi-factor authentication, MFA, 安全なアプリケーションモデル, セキュリティで保護されたアプリモデル, セキュリティ
+keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: medium
-ms.openlocfilehash: 39081f42c326665bdc30bf25df302d9ae00d9723
-ms.sourcegitcommit: fe21430f96e203d279714623888224662d2782a2
-ms.translationtype: MT
+ms.openlocfilehash: 40f5ac3e1481c0b630fc7e22e680409b1ca80926
+ms.sourcegitcommit: a5d5bd83e20649e9f02d2d82d682f87bb28a0265
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68787255"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68912646"
 ---
 # <a name="partner-security-requirements"></a>パートナーのセキュリティ要件
 
 **適用対象**
 
-- クラウドソリューションプロバイダープログラムのすべてのパートナー
+- クラウド ソリューション プロバイダー プログラムのすべてのパートナー
   - 直接請求
   - 間接プロバイダー
   - 間接リセラー
-- すべてのコントロールパネルベンダー
+- すべてのコントロール パネル ベンダー
 - すべてのアドバイザー
 
-プライバシー保護とセキュリティの向上は、最優先事項の1つです。 最も防御力の高い防御策であり、最も弱いリンクとしてのみ強力であることがわかっています。 そのため、エコシステムのすべてのユーザーに対して、適切なセキュリティ保護が適用されていることを確認する必要があります。 パートナーと顧客を保護するために、クラウドソリューションプロバイダープログラムに参加している、advisor、コントロールパネルベンダー、およびパートナーに必要な一連の必須セキュリティ要件を導入しています。
+プライバシーの保護とセキュリティの強化は、マイクロソフトの最優先事項の 1 つです。 最善の防御とは予防することで、私たちの強さが、最も弱いリンクと同程度でしかないことはわかっています。 だから、エコシステムの全員が行動し、適切なセキュリティ保護を確保する必要があるのです。 パートナーと顧客を保護するために、マイクロソフトは、アドバイザー、コントロール パネル ベンダー、およびクラウド ソリューション プロバイダー プログラムに参加しているパートナーを対象とした一連の必須セキュリティ要件を導入しています。
 
-2019年8月1日以降、パートナーテナント内のすべてのユーザー (サービスアカウントを含む) に対して multi-factor authentication を強制するために、すべてのパートナーが必要になります。
+2019 年 8 月 1 日以降、すべてのパートナーが、パートナー テナントのすべてのユーザー (サービス アカウントを含む) に対して多要素認証を適用する必要があります。
 
 > [!NOTE]
-> ソブリンクラウド (21Vianet、US Government、およびドイツ) を介して行動するすべてのパートナーが、これらの新しいセキュリティ要件をすぐに採用することを強くお勧めします。 ただし、2019年8月1日より有効になる新しいセキュリティ要件を満たすために、これらのパートナーは必要ありません。 Microsoft では、将来のソブリンクラウドに対するこれらのセキュリティ要件の適用に関する追加情報を提供します。
+> ソブリン クラウド (21Vianet、米国政府、およびドイツ) を介して取引するすべてのパートナーが直ちに行動し、これらの新しいセキュリティ要件を採用することを強くお勧めします。 ただし、これらのパートナーは、2019 年 8 月 1 日に開始される新しいセキュリティ要件を満たす必要はありません。 マイクロソフトでは、今後、ソブリン クラウドに対するこれらのセキュリティ要件の適用に関して、追加の詳細情報を提供する予定です。
 
-パートナーのセキュリティ要件に関連付けられている用語は、 [Cloud Solution Provider プログラムガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)に追加されました。 2019年8月1日以降、クラウドソリューションプロバイダープログラムに参加しているすべてのパートナーは、条件に準拠している必要があります。 アドバイザーに関連するので、同じ契約要件が適用されます。
+パートナーのセキュリティ要件に関連する条件は、[クラウド ソリューション プロバイダー プログラム ガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)に追加されています。 2019 年 8 月 1 日以降、クラウド ソリューション プロバイダー プログラムに参加しているすべてのパートナーが、条件を満たす必要があります。 アドバイザーについても、同じ契約条件が適用されます。
 
-必須のセキュリティ要件を実装していないパートナーは、これらの要件が適用されると、クラウドソリューションプロバイダープログラムでは、または代理管理者権限を利用して顧客のテナントを管理することはできません。 マイクロソフトは、要件の技術的な実施日を確立する過程で、詳細情報を使用してパートナーに通知します。
+これらの要件が適用されると、必須のセキュリティ要件を実装していないパートナーは、クラウド ソリューション プロバイダー プログラムで取引したり、代理管理者権限を利用して顧客テナントを管理したりできなくなります。 現在、要件の技術的な適用開始日を設定しています。日付と詳細情報については、追ってパートナーに通知します。
 
-## <a name="what-actions-do-i-need-to-take"></a>どのようなアクションを実行する必要がありますか。
+## <a name="what-actions-do-i-need-to-take"></a>どのようなアクションが必要ですか。
 
-パートナーになるという高い特権を持つ性質を持つことから、各ユーザーが1つの認証に対して MFA チャレンジを行うようにする必要があります。 これは、次のいずれかの方法で実現できます。
+パートナーには高い特権が付与されている、という点を考えると、すべての単一認証について、MFA チャレンジが各ユーザーに確実に適用されるようにする必要があります。 これは、次のいずれかの方法で実現できます
 
-- Azure AD Premium を実装し、各ユーザーに MFA が適用されるようにする
-- [ベースライン保護ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)の実装
-- サードパーティのソリューションを実装し、各ユーザーに対して MFA が適用されるようにする
+- Azure AD Premium を実装し、MFA が各ユーザーに確実に適用されるようにする
+- [ベースライン保護ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)を実装する
+- サードパーティ ソリューションを実装し、MFA が各ユーザーに確実に適用されるようにする
 
 > [!IMPORTANT]
-> これらの要件を厳密に適用するには、単一の認証ごとに MFA チャレンジが必要です。 Microsoft の商用クラウドサービスにアクセスするときに、MFA を使用した認証を避けるために、条件付きアクセスの機能を使用することはできません。
+> これらの要件が技術的に適用されると、すべての単一認証に MFA チャレンジが必要になります。 マイクロソフトの商用クラウド サービスにアクセスするときは、MFA を使用した認証を回避する目的で、条件付きアクセスの機能を使用することはできません。
 
 ### <a name="considerations"></a>考慮事項
 
-これらの要件は、サービスアカウントを含むすべてのユーザーにパートナーテナントで適用されるため、円滑なデプロイを実現するために必要な考慮事項がいくつかあります。 これらの考慮事項には、MFA を実行できない Azure AD のユーザーと、先進認証をサポートしていない組織で使用されるアプリケーションやデバイスを識別することが含まれます。
+これらの要件はパートナー テナントのすべてのユーザー (サービス アカウントを含む) に適用されるため、円滑なデプロイを実現するために考慮しなければならない点がいくつかあります。 これらの考慮事項には、MFA を実行できない Azure AD の特定、および先進認証に対応していない組織で使用されているアプリケーションとデバイスの特定が含まれます。
 
-操作を実行する前に、次のことを確認することをお勧めします。
+操作を実行する前に、次の点について確認することをお勧めします
 
-#### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-mfa-when-authenticating"></a>認証時に MFA の使用をサポートしていないアプリケーションまたはデバイスはありますか。
+#### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-mfa-when-authenticating"></a>認証時に MFA に対応していないアプリケーションまたはデバイスはありますか。
 
-MFA レガシ認証を適用した場合、IMAP、POP3、SMTP などのプロトコルが使用されます。これらのプロトコルでは MFA がサポートされていないためです。 この制限に対処するために、[アプリパスワード](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords)と呼ばれる機能を使用して、アプリケーションまたはデバイスが引き続き認証されるようにすることができます。 [ここ](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords)に記載されているアプリパスワードを使用する場合の考慮事項を確認して、環境で使用できるかどうかを判断する必要があります。
+IMAP、POP3、SMTP などのプロトコルを使用する以前の MFA 認証を適用している場合はブロックされます。これらのプロトコルでは MFA がサポートされていないためです。 この制限に対処するには、[アプリ パスワード](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords)と呼ばれる機能を使用します。これにより、アプリケーションまたはデバイスを引き続き認証することができます。 [こちら](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords)に記載されているアプリ パスワード使用時の考慮事項を確認し、お使いの環境でアプリ パスワードを使用できるかどうかを確かめる必要があります。
 
-#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>パートナーテナントに関連付けられているライセンスによって提供される Office 365 を使用していますか?
+#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>パートナー テナントに関連付けられたライセンスによって提供される Office 365 を使用しているユーザーがいますか。
 
-ソリューションを実装する前に、パートナーテナントのユーザーが Microsoft Office のバージョンを使用している理由を判断することをお勧めします。 アクションを実行する前に、 [Office 365 のデプロイの multi-factor authentication の計画を](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)確認してください。 Outlook などのアプリケーションで、ユーザーに接続の問題が発生する可能性があります。 MFA を適用する前に、Outlook 2013 SP1 以降が使用されており、組織で最新の認証が有効になっていることを確認することが重要です。 詳細については、「 [Exchange Online で先進認証を有効にする](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)」を参照してください。
+ソリューションを実装する前に、Microsoft Office のバージョンが、なぜパートナー テナントのユーザーによって使用されているのかを確認することをお勧めします。 アクションを実行する前に、[Office 365 デプロイの多要素認証の計画](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)に関するトピックをご覧ください。 Outlook などのアプリケーションで接続の問題が発生する可能性があります。 MFA を適用する前に、Outlook 2013 SP1 以降が使用され、組織で先進認証が有効になっているかどうかを確認することが重要です。 詳細については、「[Exchange Online で先進認証を有効にする](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)」を参照してください。
 
-Microsoft Office 2013 がインストールされている Windows を実行しているすべてのデバイスで先進認証を有効にするには、2つのレジストリキーを作成する必要があります。 「 [Windows デバイスで Office 2013 の先進認証を有効にする](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)」を参照してください。
+Windows が実行され、Microsoft Office 2013 がインストールされているデバイスで先進認証を有効にするには、2 つのレジストリ キーを作成する必要があります。 「[Windows デバイスで Office 2013 の先進認証を有効にする](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)」を参照してください。
 
 > [!IMPORTANT]
-> ユーザーが Azure AD MFA を有効にしていて、最新の認証が有効になっていない Office 2013 を実行しているデバイスがある場合は、それらのデバイスでアプリパスワードを使用する必要があります。 アプリパスワードの詳細と、その使用方法/場所/方法については、こちらを参照してください。[Azure Multi-factor authentication を使用したアプリパスワード](https://go.microsoft.com/fwlink/p/?LinkId=528178)。
+> Azure AD MFA に対してユーザーを有効にした場合、先進認証に対して有効になっていない Office 2013 が実行されているデバイスがあるときは、それらのデバイスでアプリ パスワードを使用する必要があります。 アプリ パスワードと、そのパスワードをいつ/どこで/どのように使用するかの詳細については、[Azure Multi-Factor Authentication でのアプリ パスワード](https://go.microsoft.com/fwlink/p/?LinkId=528178)に関するページをご覧ください。
 
-#### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>作業中にユーザーが自分のモバイルデバイスを使用できないようにするポリシーがありますか。
+#### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>作業中にユーザーによるモバイル デバイスの使用を禁止するポリシーがありますか。
 
-企業のポリシーを特定して、従業員がモバイルデバイスを使用できないようにすることが重要です。これは、実装する MFA ソリューションに影響を与えるためです。 構成[基準の保護ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)の実装によって提供されるものなど、MFA ソリューションがあります。これにより、認証に認証アプリを使用することのみが許可されます。 組織がモバイルデバイスの使用を妨げるポリシーを持っている場合は、次のいずれかの方法を検討する必要があります。
+実装する MFA ソリューションは、作業中に従業員がモバイル デバイスを使用できないようにする会社のポリシーの影響を受けるため、そのポリシーを特定することが重要です。 [ベースライン保護ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)の実装を通じて提供される MFA ソリューションなど、確認の目的でのみ認証アプリの使用を許可する MFA ソリューションがあります。 モバイル デバイスの使用を禁止するポリシーが組織で採用されている場合は、次のいずれかのオプションを検討する必要があります
 
-- Authenticator アプリをインストールできる仮想化された Android デバイスをデプロイする
-- パートナーテナント内のユーザーごとに MFA を適用するサードパーティのソリューションを実装して、最適な検証オプションを提供する
-- 影響を受けるユーザーの[Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/)ライセンスを購入する
+- セキュリティで保護されたシステムで実行できる、時間ベースのワンタイム ベース パスワード (TOTP) アプリケーションをデプロイする
+- 最適な検証オプションを提供するパートナー テナントのユーザーごとに、MFA を適用するサード パーティのソリューションを実装する
+- 影響を受けるユーザーに対して [Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/) ライセンスを購入する
 
-#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>認証にユーザー資格情報を活用するのはどのような自動化または統合ですか。
+FIDO セキュリティ キーの使用は、ベースライン保護ポリシーのロード マップに従ってサポートされる予定です。 サポートが追加されると、認証の 2 番目の要素に FIDO セキュリティ キーを利用できるようになります。 それまでは認証アプリの使用に限られます。
 
-要件は、サービスアカウントを含め、各ユーザーに対して MFA を強制することであるため、パートナーディレクトリでは、認証にユーザー資格情報を活用する自動化または統合が影響を受けます。 そのため、このような状況で使用されているアカウントを特定することが重要です。 考慮する必要があるアプリケーションまたはサービスの例を次に示します。
+#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>どの自動化または統合で、認証にユーザー資格情報が使用されていますか。
 
-- 顧客に代わってリソースをプロビジョニングするために使用されるコントロールパネル
-- (CSP プログラムに関連する) 請求に使用される任意のプラットフォームとの統合と顧客のサポート
-- Az、AzureRM、Azure AD、MS Online などのモジュールを使用する PowerShell スクリプト
+パートナー ディレクトリの各ユーザー (サービス アカウントを含む) に MFA を適用する必要があるため、認証にユーザー資格情報が使用されているすべての自動化または統合が影響を受けます。 このため、これらの状況で使用されているアカウントを特定することが重要です。 考慮する必要があるアプリケーションまたはサービスの例をいくつか次に示します
 
-上記の一覧は包括的なものではありません。 そのため、認証にユーザー資格情報を活用している環境で、アプリケーションまたはサービスの完全な評価を実行することが重要です。 MFA の要件に対応するには、可能な限り、セキュリティで[保護されたアプリケーションモデルフレームワーク](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)にガイダンスを実装する必要があります。 ここでは、セキュリティで保護されたアプリケーションモデルフレームワークを実装する方法を理解するのに役立つその他のリソースについて説明します。
+- 顧客に代わってリソースをプロビジョニングするときに使用されるコントロール パネル
+- 顧客への請求 (CSP プログラムに関連する場合) および顧客サポートに使用される任意のプラットフォームとの統合
+- Az、AzureRM、Azure AD、MS Online などのモジュールが利用される PowerShell スクリプト
 
-- [パートナーセンターの .Net サンプル](https://github.com/microsoft/partner-center-dotnet-samples)-この GitHub リポジトリには、セキュリティで保護されたアプリケーションモデルフレームワークを実装する方法を示す .net を使用して開発されたサンプルが含まれています。
-- [パートナーセンターの Java サンプル](https://github.com/microsoft/partner-center-java-samples)-この GitHub リポジトリには、セキュリティで保護されたアプリケーションモデルフレームワークを実装する方法を示す java を使用して開発されたサンプルが含まれています。
-- [パートナーセンターの powershell-セキュリティで保護されたアプリケーションモデル](https://docs.microsoft.com/powershell/partnercenter/secure-app-model)-powershell を使用してセキュリティで保護されたアプリケーションモデルフレームワークを実装する方法の詳細については、こちらの記事をご覧ください。
-- [パートナーセンターのセキュリティガイダンスグループコミュニティ](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)-これはオンラインコミュニティであり、今後のイベントについて学習したり、お客様に質問がある場合に質問したりすることができます。
+上記のリストはすべてを網羅しているわけではありません。 そのため、認証にユーザー資格情報が利用されるご自身の環境で、アプリケーションまたはサービスの完全な評価を実行することが重要です。 MFA の要件に対応するには、可能な限り、[セキュリティで保護されたアプリケーション モデル フレームワーク](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)でガイダンスを実装する必要があります。 セキュリティで保護されたアプリケーション モデル フレームワークの実装方法を理解するのに役立つ追加のリソースを次に示します
+
+- [パートナー センターの .NET サンプル](https://github.com/microsoft/partner-center-dotnet-samples): この GitHub リポジトリには、セキュリティで保護されたアプリケーション モデル フレームワークを実装する方法を示す、.NET を使用して開発されたサンプルが含まれています。
+- [パートナー センターの Java サンプル](https://github.com/microsoft/partner-center-java-samples): この GitHub リポジトリには、セキュリティで保護されたアプリケーション モデル フレームワークを実装する方法を示す、Java を使用して開発されたサンプルが含まれています。
+- [パートナー センターの PowerShell - セキュリティで保護されたアプリケーション モデル](https://docs.microsoft.com/powershell/partnercenter/secure-app-model): この記事では、セキュリティで保護されたアプリケーション モデル フレームワークを、PowerShell を使用して実装する方法を詳しく説明しています。
+- [パートナー センター セキュリティ ガイダンス グループコ ミュニティ](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance): 今後のイベントを確認できるオンライン コミュニティです。このコミュニティでは、不明点について質問することもできます。
 
 ### <a name="enforcing-mfa-for-all-users"></a>すべてのユーザーに MFA を適用する
 
-このセクションでは、[ベースライン保護ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)を使用して、パートナーテナントの各ユーザー (サービスアカウントを含む) に MFA を適用する方法について説明します。 Azure AD Premium の使用を計画している場合は、[こちら](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted)に記載されている手順に従ってください。
+このセクションでは、[ベースライン保護ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)を使用して、パートナー テナントの各ユーザー (サービス アカウントを含む) に MFA を適用する方法について説明します。 Azure AD Premium を使用する場合は、[こちら](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted)に記載されている手順に従ってください。
 
 > [!NOTE]
-> Azure AD と互換性のあるサードパーティのソリューションを使用すると、サービスアカウントを含むすべてのユーザーに MFA を適用できます。 ソリューションの実装方法の詳細については、ベンダーのドキュメントを参照してください。
+> Azure AD と互換性のあるサードパーティ ソリューションを使用すると、すべてのユーザー (サービス アカウントを含む) に MFA を適用できます。 ソリューションの実装方法の詳細については、ベンダーのドキュメントを参照してください。
 
-ベースライン保護ポリシーは、多くの一般的な攻撃から組織を保護するのに役立つ一連の定義済みポリシーです。 これらの一般的な攻撃には、パスワードのスプレー、リプレイ、フィッシングなどがあります。 ベースライン保護ポリシーは、Azure Active Directory のすべてのエディションで使用できます。 Microsoft は、お客様とパートナーが最高クラスのセキュリティプラクティスを実装できるようにするために、これらのベースライン保護ポリシーをすべてのユーザーに提供しています。
+ベースライン保護ポリシーは、一般的な数々の攻撃から組織を保護するうえで役立つ定義済みポリシー セットです。 これらの一般的な攻撃には、パスワードのスプレー、リプレイ、フィッシングなどがあります。 ベースライン保護ポリシーは、Azure Active Directory のすべてのエディションで使用できます。 マイクロソフトでは、お客様とパートナーがクラス最高のセキュリティ プラクティスを実装できるように、これらのベースライン保護ポリシーをすべてのユーザーに提供しています。
 
-次の表では、有効にする必要がある2つのベースライン保護ポリシーについて説明します。
+次の表では、有効にする必要がある 2 つのベースライン保護ポリシーについて説明します。
 
 |**ポリシー**| |
 |-----|-----|
-|**管理者に MFA を要求する**|[管理者に MFA を要求する] ポリシーを有効にすると、認証アプリを使用して、管理者ロールのユーザーが MFA に登録する必要があります。 MFA の登録が完了したら、管理者はサインインするたびに MFA を実行する必要があります。|
-|**エンドユーザーによる保護**|エンドユーザー保護は、ディレクトリ内のすべてのユーザーを保護する、リスクベースの MFA ベースライン保護ポリシーです。 このポリシーを有効にすると、すべてのユーザーが Authenticator アプリを使用して MFA に登録する必要があります。 ユーザーは、MFA 登録のプロンプトを14日間無視できます。その後、mfa に登録されるまで、サインインがブロックされます。 MFA に登録されると、ユーザーは、危険なサインインの試行中にのみ MFA の入力を求められます。 危害を受けたユーザーアカウントは、パスワードがリセットされ、リスクイベントが破棄されるまでブロックされます。|
+|**管理者に MFA を要求する**|"管理者に MFA を要求する" ポリシーを有効にすると、管理者ロールのユーザーが、認証アプリを使用して MFA に登録する必要があります。 MFA の登録が完了したら、管理者はサインインするたびに MFA を実行する必要があります。|
+|**エンド ユーザーの保護**|エンド ユーザーの保護は、ディレクトリ内のすべてのユーザーを保護する、リスクベースの MFA ベースライン保護ポリシーです。 このポリシーを有効にすると、すべてのユーザーが認証アプリを使用して MFA に登録する必要があります。 この MFA 登録プロンプトは 14 日間無視できますが、この期間を過ぎると、MFA に登録するまで、そのユーザーのサインインはブロックされます。 MFA に登録されると、ユーザーは危険なサインインの試行中にのみ MFA が求められます。 危害を受けたユーザー アカウントについては、パスワードをリセットし、リスク イベントを無視するまでブロックされます。|
 
-これらのポリシーを有効にすると、各ユーザーは、追加コストなしで認証を行うために Authenticator アプリを使用して Azure MFA を利用できるようになります。
+これらのポリシーを有効にすると、各ユーザーが認証アプリを使用して Azure MFA を利用し、追加コストなしで認証を行うことができます。
 
-#### <a name="configure-self-service-password-reset"></a>セルフサービスによるパスワードのリセットの構成
+#### <a name="configure-self-service-password-reset"></a>セルフ サービスのパスワード リセットを構成する
 
-セルフサービスによるパスワードのリセット (SSPR) は、ユーザーがサポートチームに連絡しなくてもパスワードをリセットできるようにする Azure Active Directory の機能です。 ユーザーは、サービスを使用する前に、セルフサービスのパスワードリセットの登録または登録を行う必要があります。 登録中に、ユーザーは組織で有効になっている認証方法を1つまたは複数選択します。
+セルフサービスのパスワード リセット (SSPR) は Azure Active Directory の機能で、ユーザーがサポート チームに連絡しなくてもパスワードをリセットできるようにします。 このサービスを使用するには、ユーザーが事前にセルフサービスのパスワード リセットを登録するか、または登録済みである必要があります。 登録時に、ユーザーは、組織が有効にした 1 つ以上の認証方法を選択します。
 
-[エンドユーザー保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)ベースライン保護ポリシーが有効になっている場合、侵害されたユーザーアカウントは、パスワードがリセットされ、リスクイベントが破棄されるまでブロックされます。 このことを考慮すると、グローバル管理者である各ユーザーは、次の手順を実行して SSPR に登録し、ロックアウトされないようにすることをお勧めします。
+[エンド ユーザーの保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)ベースライン保護ポリシーが有効になっている場合、危害を受けたユーザー アカウントについては、パスワードをリセットし、リスク イベントを無視するまでブロックされます。 このため、全体管理者は各自で次の手順を実行して、自身がロックアウトされないように SSPR に登録することをお勧めします。
 
-1. [SSPR セットアップページ](https://aka.ms/ssprsetup)に移動します。
-2. ユーザー名とパスワードを入力してください
-3. パスワードをリセットするユーザーを確認するために使用される検証オプションのうち、少なくとも1つを構成します。  
+1. [SSPR セットアップ ページ](https://aka.ms/ssprsetup)に移動します
+2. ユーザー名とパスワードを入力します
+3. パスワードをリセットするときのユーザー確認に使用される検証オプションのうち、少なくとも 1 つを構成します。  
 
-アカウントが侵害された場合、管理者は影響を受けたユーザーのアクセスを復元するアクションを実行する必要があります。 ユーザーのブロックを解除するプロセスの詳細については、[ユーザーのブロックを解除する手順](#recovering-compromised-accounts)を参照してください。
+アカウントが危害を受けた場合、管理者は、影響を受けたユーザーのアクセスを復元するアクションを実行する必要があります。 ユーザーのブロックを解除するプロセスの詳細については、「[ユーザーのブロックを解除する手順](#recovering-compromised-accounts)」を参照してください。
 
 #### <a name="require-mfa-for-admins"></a>管理者に MFA を要求する
 
-管理ベースラインポリシー*に mfa を要求*するには、次のディレクトリロールに対して mfa が必要です。これは、最も特権の高い Azure Active Directory ロールであると考えられます。
+"*管理者に MFA を要求する*" ベースライン ポリシーでは、最も特権の高い Azure Active Directory ロールと見なされる次のディレクトリ ロール に MFAが 必要です。
 
 - 全体管理者
 - SharePoint 管理者
@@ -132,43 +134,93 @@ Microsoft Office 2013 がインストールされている Windows を実行し�
 - 課金管理者
 - ユーザー管理者
 
-[管理者に MFA を要求する] ポリシーを有効にすると、認証アプリを使用して MFA に登録するために上記の9つの管理者ロールが必要になります。 MFA の登録が完了したら、管理者は、サインインするたびに MFA を実行する必要があります。
+"管理者に MFA を要求する" ポリシーを有効にするときに、上記の 9 つの管理者ロールは、認証アプリを使用して MFA に登録する必要があります。 MFA の登録が完了したら、管理者はサインインするたびに MFA を実行する必要があります。
 
-組織でこれらのアカウントをスクリプトまたはコードで使用している場合は、それらを [マネージド id](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)に置き換えることを検討してください。
+ご自身の組織にこれらのアカウントがあり、スクリプトまたはコードで使用されている場合は、それを [マネージド ID](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) に置き換えることを検討してください。
 
-このポリシーを有効にし、管理者を保護するには:
+このポリシーを有効にして管理者を保護するには:
 
-1. グローバル管理者、セキュリティ管理者、または条件付きアクセス管理者として **Azure portal** にサインインします。
-2. **条件付きアクセス** **Azure Active Directory** > を参照します。
-3. ポリシーの一覧で、[基準**ポリシー] を選択します。管理者**に MFA を要求します。
-4. ポリシーを**直ちに使用**する**ようにポリシー**を設定します。
-5. [ **保存**] をクリックします。
-
-> [!WARNING]
-> このポリシーを有効にする前に、ユーザーが従来の認証プロトコルを使用していないことを確認してください。 このポリシーの実装により、レガシ認証はブロックされます。
-
-> [!IMPORTANT]
-> 既知の問題があります。これは、委任された管理者特権を使用して Exchange Online PowerShell に接続する機能に影響します。 この PowerShell モジュールを使用する場合は、このポリシーを有効にする前に、 [Exchange Online PowerShell](#exchange-online-powershell)の既知の問題を参照してください。
-
-#### <a name="end-user-protection"></a>エンドユーザーによる保護
-
-エンドユーザー保護基準ポリシーは、ディレクトリ内のすべてのユーザーを保護します。 このポリシーを有効にすると、すべてのユーザーが Azure MFA に14日以内に登録する必要があります。 登録が完了すると、ユーザーは、危険なサインインの試行中にのみ MFA の入力を求められます。 危害を受けたユーザーアカウントは、パスワードのリセットとリスクの無視までブロックされます。
-
-ポリシー **ベースラインポリシー:エンドユーザーに**よる保護は事前に構成されており、Azure portal の [条件付きアクセス] ブレードに移動すると上部に表示されます。
-
-このポリシーを有効にし、ユーザーを保護するには:
-
-1. グローバル管理者、セキュリティ管理者、または条件付きアクセス管理者として **Azure portal** にサインインします。
-2. **条件付きアクセス** **Azure Active Directory** > を参照します。
-3. ポリシーの一覧で、[基準**ポリシー] を選択します。エンドユーザー保護 (プレビュー)** 。
-4. ポリシーを**直ちに使用**する**ようにポリシー**を設定します。
-5. [ **保存**] をクリックします。
+1. 全体管理者、セキュリティ管理者、または条件付きアクセス管理者として  **Azure portal**  にサインインします。
+2. **[Azure Active Directory]**  >  **[条件付きアクセス]** に移動します。
+3. ポリシーの一覧で、 **[ベースライン ポリシー: 管理者に MFA を要求する]** を選択します。
+4. **[ポリシーを有効にする]** を **[ポリシーをすぐに有効にする]** に設定します。
+5.  **[保存]** をクリックします。
 
 > [!WARNING]
-> このポリシーを有効にする前に、ユーザーが従来の認証プロトコルを使用していないことを確認してください。 このポリシーの実装により、レガシ認証はブロックされます。
+> このポリシーを有効にする前に、ユーザーが以前の認証プロトコルを使用していないことを確認してください。 このポリシーを実装すると、以前の認証はブロックされます。
 
 > [!IMPORTANT]
-> 既知の問題があります。これは、委任された管理者特権を使用して Exchange Online PowerShell に接続する機能に影響します。 この PowerShell モジュールを使用する場合は、このポリシーを有効にする前に、 [Exchange Online PowerShell](#exchange-online-powershell)の既知の問題を参照してください。
+> 代理管理者権限を使用して Exchange Online PowerShell に接続する機能に影響する既知の問題があります。 この PowerShell モジュールを使用している場合は、このポリシーを有効にする前に、[Exchange Online PowerShell](#exchange-online-powershell) の既知の問題を参照してください。
+
+#### <a name="end-user-protection"></a>エンド ユーザーの保護
+
+エンド ユーザー保護ベースライン ポリシーでは、ディレクトリ内のすべてのユーザーが保護されます。 このポリシーを有効にすると、すべてのユーザーが 14 日以内に Azure MFA に登録する必要があります。 登録されると、ユーザーは危険なサインインの試行中にのみ MFA が求められます。 危害を受けたユーザー アカウントについては、パスワードをリセットし、リスクを無視するまでブロックされます。
+
+**[ベースラインポリシー: エンド ユーザーの保護]** ポリシーは事前に構成されており、Azure portal で [条件付きアクセス] ブレードに移動すると上部に表示されます。
+
+このポリシーを有効にしてユーザーを保護するには:
+
+1. 全体管理者、セキュリティ管理者、または条件付きアクセス管理者として  **Azure portal**  にサインインします。
+2. **[Azure Active Directory]**  >  **[条件付きアクセス]** に移動します。
+3. ポリシーの一覧で、 **[ベースライン ポリシー: エンド ユーザーの保護 (プレビュー)]** を選択します。
+4. **[ポリシーを有効にする]** を **[ポリシーをすぐに有効にする]** に設定します。
+5.  **[保存]** をクリックします。
+
+> [!WARNING]
+> このポリシーを有効にする前に、ユーザーが以前の認証プロトコルを使用していないことを確認してください。 このポリシーを実装すると、以前の認証はブロックされます。
+
+> [!IMPORTANT]
+> 代理管理者権限を使用して Exchange Online PowerShell に接続する機能に影響する既知の問題があります。 この PowerShell モジュールを使用している場合は、このポリシーを有効にする前に、[Exchange Online PowerShell](#exchange-online-powershell) の既知の問題を参照してください。
+
+## <a name="assessing-your-environment"></a>環境を評価する
+
+現在のパートナー セキュリティ要件の 1 つを通じて、パートナー テナントの各ユーザーに MFA を適用する必要があります。 この要件にはさまざまな方法で対応できるため、追加のアクションが必要かどうかを評価することが困難な場合があります。 MFA でテナントを保護するために追加のアクションが必要かどうかを評価するには、Azure Active Directory 監査ログや [Microsoft セキュア スコア](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)などのツールを利用します。 マイクロソフトでは、MFA およびセキュリティで保護されたアプリケーション モデルの要件について迅速にコンプライアンス チェックを実行できるように、パートナー センターの操作性に取り組んでいます。
+
+Microsoft セキュア スコアでは、堅牢な視覚化、他の Microsoft 製品との統合、他の企業とのスコアの比較、カテゴリによるフィルター処理などが可能です。 このツールを使用すると、組織内でセキュリティ強化アクションを実行し、スコアの履歴を追跡できます。 また、推奨される改善アクションにサード パーティ ソリューションで対処する場合も、スコアに反映されます。
+
+![Microsoft セキュア スコア](images/security/secure-score.png)
+
+> [!NOTE]
+> Microsoft セキュア スコアを上げるアクションが反映されるには、最大 24 時間かかる場合があります。
+
+Microsoft セキュア スコアは、ご自身のセキュリティ体制を数値で表現しているにすぎません。 MFA チャレンジなしで何が、または誰が認証しているかをよく理解するには、Azure Active Directory 監査ログに対してクエリを実行することをお勧めします。 これを行うには、[Azure PowerShell](https://docs.microsoft.com/powershell/azure/overview) モジュールと次のスクリプトを使用します。 これにより、MFA チャレンジが行われなかった過去 1 日の間に行われた認証試行の洞察を提供するレポートが生成されます。
+
+```powershell
+Login-AzAccount
+$context = Get-AzContext
+
+function Get-SignInEvents
+{
+    param([string]$userId)
+
+    $content = '{"startDateTime":"' + (Get-Date).AddDays(-1).ToUniversalTime().ToString("yyyy-MM-ddT05:00:00.000Z") + '","endDateTime":"' + (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ss.fffZ")  + '","userId":"' + $userId +'","riskState":[],"totalRisk":[],"realtimeRisk":[],"tokenIssuerType":[],"isAdfsEnabled":false}'
+
+    $token = [Microsoft.Azure.Commands.Common.Authentication.AzureSession]::Instance.AuthenticationFactory.Authenticate($context.Account, $context.Environment, $context.Tenant.Id, $null, "Never", $null, "74658136-14ec-4630-ad9b-26e160ff0fc6")
+
+    $headers = @{
+    'Authorization' = 'Bearer ' + $token.AccessToken
+    'Content-Type' = 'application/json'
+        'X-Requested-With'= 'XMLHttpRequest'
+        'x-ms-client-request-id'= [guid]::NewGuid()
+        'x-ms-correlation-id' = [guid]::NewGuid()
+    }
+
+    Invoke-RestMethod -Body $content -Header $headers -Method POST -Uri "https://main.iam.ad.ext.azure.com/api/Reports/SignInEventsV3"
+}
+
+$report = $()
+
+Get-AzADUser | foreach {
+    $events = Get-SignInEvents $_.Id
+    $report += $events.Items
+}
+
+$report | Where-Object {$_.mfaRequired -eq $false} | Select-Object userPrincipalName, userDisplayName, createdDateTime, resourceDisplayName, loginSucceeded, failureReason, mfaRequired, mfaAuthMethod, mfaAuthDetail, mfaResult, @{Name='policies'; Expression={[string]::join(',', $($_.conditionalAccessPolicies | Select-Object displayName).displayName )}}, conditionalAccessStatus | Export-Csv report.csv
+```
+
+上記のスクリプトを実行すると、report.csv ファイルで詳細情報を入手できます。 これには、ユーザーの MFA チャレンジが行われなかった過去 1 日の間に行われた認証試行の一覧が含まれます。 各エントリを確認して、それが予期された動作かどうかを判断し、必要に応じて対応します。
+
+![評価レポート](images/security/assessment-report.png)
 
 ## <a name="common-issues"></a>一般的な問題
 
@@ -176,50 +228,50 @@ Microsoft Office 2013 がインストールされている Windows を実行し�
 
 #### <a name="aadsts50076"></a>AADSTS50076
 
-ベースラインポリシーを有効にすると、次のような自動化や統合によって例外が発生する可能性があります。
+ベースライン ポリシーを有効にすると、自動化や統合で次のような例外が発生することがあります
 
     AADSTS50076: Due to a configuration change made by your administrator, or because you moved to a new location, you must use multi-factor authentication to access 'MyApp'.
 
-この例外の理由は、ユーザーの資格情報を使用して認証しているため、MFA が必要になるためです。 この例外に対処するには、認証にアクセストークンを使用する必要があります。 詳細については、「[セキュリティで保護されたアプリケーションモデル」ガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)を参照してください。
+この例外が発生する理由は、ユーザー資格情報を使用して認証しているため、MFA が必要になったからです。 この例外に対処するには、認証にアクセス トークンを使用する必要があります。 詳細については、[セキュリティで保護されたアプリケーション モデル ガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)を参照してください。
 
 >[!IMPORTANT]
->最新の Api と PowerShell モジュールでは、認証にアクセストークンを利用する機能がサポートされています。 ただし、この機能は現在サポートされていません。 使用しようとしている API または PowerShell モジュールが認証にアクセストークンをサポートしているかどうかを判断するのに役立つ場合は、[パートナーセンターのセキュリティガイダンスグループ](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)コミュニティにメッセージを投稿してください。
+>最新の API と PowerShell モジュールでは、認証にアクセス トークンを利用できますが、 現時点でこの機能がサポートされていないモジュールもあります。 使用しようとしている API または PowerShell モジュールで、認証にアクセス トークンを使用できるかどうかを確認するためのサポートが必要な場合は、[パートナー センター セキュリティ ガイダンス グループ](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) コミュニティでメッセージを投稿してください。
 
 #### <a name="aadsts700082"></a>AADSTS700082
 
-セキュリティで保護されたアプリケーションモデルフレームワークを実装した後、最初の更新トークンを生成してから90日後に、次の例外が発生する可能性があります。
+セキュリティで保護されたアプリケーション モデル フレームワークを実装すると、最初の更新トークンを生成してから 90 日後に次の例外が発生する可能性があります
 
     The refresh token has expired due to inactivity. The token was issued on 2019-01-02T09:19:53.5422744Z and was inactive for 90.00:00:00
 
-Azure Active Directory に関しては、更新トークンの最長有効期間は90日です。 このエラーに対処するには、新しい更新トークンを生成し、安全に保存する必要があります。 注更新トークンをプログラムで更新することもできます。これは、アクセストークンの Azure Active Directory 要求があるたびに新しい更新トークンが返されるためです。 有効期限が切れる前に、安全に格納されている更新トークンを更新するための適切なロジックを実装できます。
+Azure Active Directory の場合、更新トークンの最長有効期間は 90 日です。 このエラーに対処するには、新しい更新トークンを生成し、安全に保存する必要があります。 更新トークンは、アクセス トークンが Azure Active Directory に要求されるたびに新しいものが返されるため、プログラムによって更新される可能性があることに注意してください。 適切なロジックを実装することで、安全に保存された更新トークンを、期限切れになる前に更新できます。
 
-詳細については、「 [Azure Active Directory で構成可能なトークンの有効期間](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)」を参照してください。
+詳細については、「[Azure Active Directory における構成可能なトークンの有効期間](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)」を参照してください。
 
-### <a name="recovering-compromised-accounts"></a>侵害されたアカウントの回復
+### <a name="recovering-compromised-accounts"></a>危害を受けたアカウントを回復する
 
-お客様を保護するために、マイクロソフトが提供する資格情報サービスは、一般公開されているユーザー名とパスワードの組み合わせを検出します。 これらのユーザーがいずれかのユーザーと一致した場合は、すぐにそのアカウントをセキュリティで保護することができます。 漏洩した資格情報があると識別されたユーザーは、侵害されたことを確認します。 これらのユーザーは、パスワードがリセットされるまで、サインインがブロックされます。
+お客様を保護するために、マイクロソフトが提供するリークされた資格情報に関するサービスでは、公開されているユーザー名とパスワードのペアが検出されます。 そのいずれかが、マイクロソフト ユーザーのものと一致する場合、マイクロソフトでは、直ちにそのアカウントを保護します。 資格情報がリークされていると見なされたユーザーは、侵害ありと確認されたうえで、 パスワードがリセットされるまで、サインインがブロックされます。
 
-Azure AD Premium ライセンスを割り当てられたユーザーは、その機能がディレクトリで有効になっている場合、セルフサービスによるパスワードのリセット (SSPR) を使用してアクセスを復元できます。 Premium ライセンスがブロックされていないユーザーは、管理者に連絡してパスワードのリセットを手動で実行し、フラグが設定されたユーザーリスクイベントを破棄する必要があります。
+Azure AD Premium ライセンスを割り当てられたユーザーは、自身のディレクトリでセルフサービスのパスワード リセット (SSPR) が有効になっていれば、その機能を使ってアクセスを復元できます。 Premium ライセンスを持たないユーザーがブロックされた場合、そのユーザーは管理者に連絡して、パスワードのリセットを手動で実行し、フラグ付きユーザー リスク イベントを無視する必要があります。
 
 #### <a name="steps-to-unblock-a-user"></a>ユーザーのブロックを解除する手順
 
-ユーザーのサインインログを調べて、ポリシーによってユーザーがブロックされていることを確認します。
+ユーザーのサインイン ログを調べて、ユーザーがポリシーによってブロックされていることを確認します。
 
-1. 管理者は、 **Azure portal**にサインインし、 **Azure Active Directory** > **ユーザー**に移動 > ユーザーの名前をクリックしてサインインに移動する必要があります。
-2. ブロックされたユーザーに対してパスワードのリセットを開始するには、管理者が**リスクのフラグ**が設定された**Azure Active Directory** > ユーザーに移動する必要があります
-3. ユーザーの最近のサインインアクティビティに関する情報を表示するには、アカウントがブロックされているユーザーをクリックします。
-4. [パスワードのリセット] をクリックして、次のログイン時に変更する必要がある一時パスワードを割り当てます。
-5. [すべてのイベントを無視する] をクリックして、ユーザーのリスクスコアをリセットします。
+1. 管理者が **Azure portal** にサインインし、 **[Azure Active Directory]**  >  **[ユーザー]** に移動したうえで、ユーザーの名前をクリックし、[サインイン] に移動する必要があります。
+2. ブロックされたユーザーのパスワードのリセットを開始するには、管理者が **[Azure Active Directory]**  >  **[リスクのフラグ付きユーザー]** に移動する必要があります
+3. アカウントがブロックされているユーザーをクリックして、ユーザーの最近のサインイン アクティビティに関する情報を表示します。
+4. [パスワードのリセット] をクリックして、一時パスワードを割り当てます。このパスワードは、次のログイン時に変更する必要があります。
+5. [すべてのイベントを無視する] をクリックして、ユーザーのリスク スコアをリセットします。
 
-ユーザーはサインインしてパスワードをリセットし、アプリケーションにアクセスできるようになりました。
+これによりユーザーがサインインし、パスワードをリセットして、アプリケーションにアクセスできるようになります。
 
 ## <a name="known-issues"></a>既知の問題
 
 ### <a name="exchange-online-powershell"></a>Exchange Online PowerShell
 
-MFA が適用されると、パートナーは、Exchange Online PowerShell で委任された管理者特権を利用して、顧客に対してアクションを実行することができなくなります。 この制限事項の詳細については[、「multi-factor authentication を使用した Exchange Online PowerShell への接続](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)」を参照してください。
+MFA が適用されると、パートナーが Exchange Online PowerShell で代理管理者権限を利用して、顧客に対してアクションを実行できなくなります。 この制限事項の詳細については、「[多要素認証を使用して Exchange Online PowerShell に接続する](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)」を参照してください。
 
-この制限を回避するには、新しいアカウントを作成し、それを使用して対話型認証を実行しないようにします。 [Azure AD PowerShell](https://docs.microsoft.com/powershell/module/azuread/)を利用して新しいアカウントを作成し、初期構成を実行することをお勧めします。 次の PowerShell を使用してアカウントを作成し、構成することができます。
+この制限を回避するには、新しいアカウントを作成し、そのアカウントでは対話型認証を行わないようにします。 [Azure AD PowerShell](https://docs.microsoft.com/powershell/module/azuread/) を利用して新しいアカウントを作成し、初期構成を行うことをお勧めします。 次の PowerShell を使用すると、アカウントを作成し、構成することができます
 
 ```powershell
 Import-Module AzureAD
@@ -237,11 +289,11 @@ $user = New-AzureADUser -DisplayName "New User" -PasswordProfile $PasswordProfil
 # Add-AzureADGroupMember -ObjectId $adminAgentsGroup.ObjectId -RefObjectId $user.ObjectId
 ```
 
-次に PowerShell を使用して Exchange Online に接続するときに、このアカウントを使用すると、想定どおりに動作します。
+次回 PowerShell を使用して Exchange Online に接続するときに、このアカウントを使用すると、期待どおりに動作します。
 
 > [!IMPORTANT]
-> パートナーが、Exchange Online PowerShell で委任された管理者特権を利用して、MFA が適用されている場合に、その顧客に対してアクションを実行する機能は、今後提供される予定です。 それまでは、この回避策を活用する必要があります。
+> MFA が適用されているときに、パートナーが Exchange Online PowerShell で代理管理者権限を利用して、顧客に対してアクションを実行する機能は、今後提供される予定です。 それまでは、この回避策をご利用ください。
 
 ## <a name="resources-and-support"></a>リソースとサポート
 
-[パートナーセンターのセキュリティガイダンスグループコミュニティ](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)では、その他のリソースを検索し、技術部の営業時間などの今後のイベントについて学習することができます。 要件の詳細については、[よく寄せられる質問](partner-security-requirements-faq.md)のドキュメントを参照してください。
+[パートナー センター セキュリティ ガイダンス グループ](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) コミュニティでは、その他のリソースを検索し、技術部門の営業時間を含め、今後のイベントの情報を確認することができます。 要件の詳細については、[よく寄せられる質問](partner-security-requirements-faq.md)のドキュメントを参照してください。

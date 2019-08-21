@@ -1,17 +1,17 @@
 ---
 title: パートナー センター アカウントを作成する | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 08/12/2019
 description: Microsoft Partner Network メンバーがネットワークの利点とコンピテンシーを管理してビジネス プロファイルを作成するには、パートナー センター アカウントを作成する必要があります。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bf6fbc44d7f35590ea39e554e15be6a1963b4766
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: 5144f6e303a4afeccc6ccf74e966d8beba41f947
+ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668022"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "68958751"
 ---
 # <a name="create-a-partner-center-account"></a>パートナー センター アカウントを作成する
 
@@ -23,9 +23,9 @@ ms.locfileid: "64668022"
 
 この記事では、パートナー様がパートナー センターのアカウントを作成する方法を説明します。ここでは、自社のパートナー ネットワーク メンバーシップ情報を Partner Membership Center からパートナー センターへ移行するパートナー様を想定します。 
 
-パートナー センターでアカウントを作成するには、貴社が Microsoft Partner Network のメンバーである必要があります。 メンバーでない場合は、[今すぐ登録](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)できます。  Microsoft Partner Network のメンバーシップについて詳しくは、[こちら](https://partner.microsoft.com/membership)をご覧ください。  
+パートナー センターでアカウントを作成するには、貴社が Microsoft Partner Network のメンバーである必要があります。 メンバーでない場合は、[今すぐ登録](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)できます。  Microsoft Partner Network のメンバーシップについて詳しくは、[こちら](https://partner.microsoft.com/membership)をご覧ください。 パートナー センター アカウントを作成したら、こちらのビデオ「[ダッシュボードの検出](https://vimeo.com/290338211)」をご覧ください。
 
-パートナー センター アカウントを作成すると、次のことができるようになります。
+### <a name="some-next-steps"></a>次のステップ
 
 -   [Microsoft Action Pack サブスクリプションを購入または更新する](mpn-get-action-pack.md)
 
@@ -55,11 +55,11 @@ ms.locfileid: "64668022"
 
 2.  職場アカウントに、全体管理者としてサインインします。 職場アカウントについて詳しくは、「[会社の職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」をご覧ください。
 
-    会社に職場メール アカウントがある場合は、**[サインイン]** を選択します。 次のページで、職場アカウントの全体管理者の資格情報を入力します。 
+    会社に職場メール アカウントがある場合は、 **[サインイン]** を選択します。 次のページで、職場アカウントの全体管理者の資格情報を入力します。 
 
     会社に職場アカウントがない場合は、ここで **[作成する]** を選んで作成します。 職場アカウントを作成した後、その職場アカウントの全体管理者の資格情報を使ってサインインします。
 
-3.  組織の法人プロフィールと第一連絡先担当者情報を入力または更新し、**[今すぐ登録する]** を選びます。 
+3.  組織の法人プロフィールと第一連絡先担当者情報を入力または更新し、 **[今すぐ登録する]** を選びます。 
 
     第一連絡先担当者には、貴社の登録申請について連絡できる社内の担当者 (申請者本人または社内の他の担当者) を指定してください。 この情報は、この担当者が貴社に勤務し、パートナーセンターアカウントに登録した本人であることを確認するためにも使われます。
 
@@ -70,9 +70,9 @@ ms.locfileid: "64668022"
 
 5.  管理エージェント グループに追加されたことを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
-    a.  **パートナー センター**の **[設定]** アイコンを選択し、**[ユーザー管理]** を選択します。  
+    a. **パートナー センター**の **[設定]** アイコンを選択し、 **[ユーザー管理]** を選択します。  
 
-    b.  ユーザーの一覧から自分の名前を選び、**[管理エージェント]** を選択します (まだ選択されていない場合)。 **[更新]** を選択します。  
+    b. ユーザーの一覧から自分の名前を選び、 **[管理エージェント]** を選択します (まだ選択されていない場合)。 **[更新]** を選択します。  
 
 ## <a name="next-steps"></a>次のステップ
 

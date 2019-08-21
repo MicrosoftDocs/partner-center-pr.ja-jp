@@ -7,12 +7,12 @@ keywords: 紹介案件, 紹介案件への対応, 潜在顧客, 見込み情報,
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9117b1ba43d809eb1e1c51b6ba28ac52a73ddd18
-ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
-ms.translationtype: MT
+ms.openlocfilehash: dc55055229dfc7cf52a50dba776e6234d481d5da
+ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "66176168"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "68958727"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft パートナー ビジネスの拡大 
 
@@ -33,7 +33,7 @@ Microsoft では、パートナー ビジネスを拡大するために役立つ
 
 |  **目的**  |  **方法についての参照先**  |  **適用対象**  |
 |--------------|-----------|--------------
-| 見込み情報の取得と管理を行う | まず[ビジネス プロファイルを作成する](create-a-marketing-profile.md)顧客に見つけてもらいましょうソリューション プロバイダー、検索について説明し、それらと[参照への応答](responding-to-referrals.md)。 | すべての ネットワーク パートナー |
+| 見込み情報の取得と管理を行う | この[ビジネス プロファイルの最適化](https://player.vimeo.com/video/252788046 )に関する短いビデオをご覧になり、顧客がソリューション プロバイダーを検索したときに表示されるビジネス プロファイルを作成します。その後、[紹介案件への対応](responding-to-referrals.md)に関するトピックをお読みください。 | すべての ネットワーク パートナー |
 | パートナー ステータス (Silver または Gold) を獲得する | Microsoft Partner Network サイトの[コンピテンシー パートナー用ページ](https://partner.microsoft.com/membership/competencies)で、Silver または Gold メンバーシップ レベルの要件を満たす方法を確認します。 コンピテンシー情報をパートナー センターに移動する場合は、[パートナー センターでコンピテンシーを管理する方法](competencies.md)をご覧ください。 | すべての ネットワーク パートナー |
 | Microsoft の製品の試用版サブスクリプションを顧客に提供する | 「[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)」で、試用版サブスクリプションを使用して顧客基盤を拡大する方法を確認します。| CSP パートナー |
 | Microsoft サブスクリプションのプロモーション価格を顧客に提供する | マイクロソフトは、ライセンス ベースのサブスクリプションのプロモーションを随時実施しており、パートナー様はこれを活用して顧客に割引価格でサブスクリプションを提供し、ビジネスの拡大を図ることができます。 [Microsoft サブスクリプションのプロモーション価格を顧客に提供する方法](promotions.md)をご覧ください。 | CSP パートナー |
