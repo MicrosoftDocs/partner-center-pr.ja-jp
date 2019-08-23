@@ -1,19 +1,19 @@
 ---
 title: 顧客の代理としての問題の報告 | パートナー センター
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 08/16/2019
 Description: 貴社で解決できないサービスに関する問題が顧客側で発生し、「Microsoft に問題をエスカレートする」に記載されている条件に一致する場合は、サポート チケットを発行します。
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: サービス要求, サービス チケット, サポート, サポートの権利, AOBO, Azure AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: b43652e4d0e73b73bd4e0caf7f9eb4fc7f4a5bcd
-ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
-ms.translationtype: MT
+ms.openlocfilehash: 1f01713dcafd0a24c8b7fb5d8a8af33bdf5ff781
+ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "67818753"
+ms.lasthandoff: 08/19/2019
+ms.locfileid: "69578777"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理で問題を報告する
 
@@ -75,13 +75,13 @@ ms.locfileid: "67818753"
 
 3. 後で、Office 365 管理センターにアクセスし、 **[すべてのサポート チケットを表示する]** を選んで顧客のサービス リクエストを見直します。
 
-### <a name="support-for-azure-marketplace-products"></a>Azure Marketplace の製品のサポート
+### <a name="support-for-commercial-marketplace-products"></a>商用マーケットプレース製品のサポート
 
-Microsoft は、Azure Marketplace の製品の製品サポートを提供していません。 パートナーは、製品を発行した独立系ソフトウェア ベンダー (ISV) に連絡して、サポートを受ける必要があります。
+Microsoft は、商用マーケットプレース製品の製品サポートを提供していません。 パートナーは、製品を発行した独立系ソフトウェア ベンダー (ISV) に連絡して、サポートを受ける必要があります。
 
 ISV の連絡先情報を検索するには:
 
-1.  Marketplace のページで、ヘルプが必要な製品を選択します。
+1.  **[Marketplace]** ページで、ヘルプが必要な製品を選択します。
 2.  製品のページに、サポートの連絡先情報が表示されます。 これは、次のうちの1 つまたは複数である場合があります。
     - ISV の Web サイト上のサポート エントリ ポイントへのリンク
     - サポート電子メール 
@@ -91,11 +91,11 @@ ISV の連絡先情報を検索するには:
 
 **サポートの権利には何が含まれていますか?**
 
-サービス リクエストはパートナー センターを通じて提出してください。Azure、Microsoft Office 365、Microsoft Dynamics CRM Online、および Enterprise Mobility Suite に関するリクエストを提出できます。 クラウドソリューションプロバイダープログラムに参加しているパートナーは、主要な問題に対する優先度の応答時間を予想できます。
+サービス リクエストはパートナー センターを通じて提出してください。Azure、Microsoft Office 365、Microsoft Dynamics CRM Online、および Enterprise Mobility Suite に関するリクエストを提出できます。 クラウド ソリューション プロバイダー プログラムに参加しているパートナーの場合は、重大な問題への応答時間において優先されることが期待できます。
 
 独自のパートナー テナントへのサポートは、CSP サポートの特典に含まれていません。 ただし、Office 365、Microsoft Dynamics CRM Online、および Enterprise Mobility Suite では、パートナーや顧客に対して個別のサポート サブスクリプション料金は請求されません。 Azure では料金は請求されますが、Signature Cloud Support やその他の Microsoft Partner Network (MPN) の特典の権利がある場合は、それらを使って料金を支払うことができます。
 
-この特典は、クラウドソリューションプロバイダープログラムに参加しているすべてのパートナーに適用されます (有料または試用期間中の場合)。 課金とサブスクリプションの管理のサポートも、このパッケージの無料コンポーネントとして組み込まれています。
+この特典は、有料版か試用期間かにかかわらず、クラウド ソリューション プロバイダー プログラムに参加しているすべてのパートナーに適用されます。 課金とサブスクリプションの管理のサポートも、このパッケージの無料コンポーネントとして組み込まれています。
 
 **どれぐらい迅速に最初の応答を受けられますか?**
 
@@ -118,7 +118,7 @@ ISV の連絡先情報を検索するには:
 
 Microsoft Azure ポータルに直接サインインすると、顧客のコンテキストではなく、貴社のコンテキストでポータルが表示されます。 このため、Microsoft Azure ポータルに直接サインインするのは、貴社のサブスクリプションに関するサービス リクエストを作成するときだけにしてください。
 
-CSP プログラムサポートの権利は、お客様のパートナーサブスクリプションでのサポートを提供するものではありません。そのため、パートナーのサブスクリプションに関するサービスリクエストを作成するときは、有効なサポートプランの権利を提供する必要があります。 たとえば、MPN コントラクト ID、プレミア、Azure サポート プランです。 「[Azure サポートに関する FAQ](https://go.microsoft.com/fwlink/?LinkId=717532)」をご覧ください。
+CSP プログラム サポートの権利では、独自のパートナー サブスクリプションに関するサポートは提供されないため、貴社のパートナー サブスクリプションに関係するサービス リクエストを作成するときは、有効なサポート プランの権利を提示する必要があります。 たとえば、MPN コントラクト ID、プレミア、Azure サポート プランです。 「[Azure サポートに関する FAQ](https://go.microsoft.com/fwlink/?LinkId=717532)」をご覧ください。
 
 **Office 365 管理センター ポータルにサインインし、パートナー センターをバイパスした場合はどうなりますか?**
 
@@ -126,7 +126,7 @@ Office 365 管理センターに直接サインインすると、顧客のコン
 
 **追加の Dynamics 365 のサポートを受けるにはどうすればよいですか?**
 
-次のことに関連する問題が発生している場合: Dynamics 365 Plan サブスクリプション、ライセンス、課金、財務 & 操作、Dynamics 365 製品ライセンス、またはその他のテクニカルサポートが必要です。
+次のことに関連する問題が発生している場合: Dynamics 365 プランのサブスクリプション、ライセンス、請求、財務と運用、Dynamics 365 製品ライセンス、またはさらにテクニカル サポートが必要な場合:
  
 [Dynamics サポート](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)に問い合わせる
 
