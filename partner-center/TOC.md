@@ -4,6 +4,8 @@
 ## [パートナー センター アカウントを作成する](mpn-create-a-partner-center-account.md)
 ## [職場の電子メール アドレスを取得する方法](buy-email-domain.md)
 ## [パートナー管理センターのパートナー センターへの移行](pac-to-pc-overview.md)
+### [パートナー管理センター (PAC) からパートナー センターへの移行](moving-from-pac-to-pc.md)
+## [Office 365 パートナー管理センターのパートナー: 業務がパートナー センターに移行します](o365-partner-admin-center-to-partner-center.md)
 ## Partner Membership Center からパートナー センターへの移行
 ### [Partner Membership Center からパートナー センターへの移行を準備する](prepare-pmc-pc-migration.md)
 ### [PMC からパートナー センターに移行するためのガイド](guide-to-migration.md)
@@ -24,6 +26,7 @@
 ### [パートナー センターでのソフトウェア アシュアランス計画サービス](software-assurance-dps.md)
 ## 請求と税金
 ### [Microsoft Partner Network の請求と税金](mpn-view-print-maps-invoice.md)
+## [新機能のテスト](test-drive-new-features.md)
 
 
 # [クラウド ソリューション プロバイダー](csp-overview.md)
@@ -77,6 +80,7 @@
 ### [インセンティブの申請の主要な要件](core-requirements.md)
 ### [インセンティブの支払いについて](understand-incentive-payouts.md)
 ### [パートナー センターでの OSA 申請の送信](submit-osa-claim.md)
+### [インセンティブの申請の顧客のドメイン名とディレクトリ ID を調べる](find-customer-domain-name.md)
 
 
 # [請求と税金](billing.md)
@@ -100,6 +104,7 @@
 ## [顧客との再販業者関係の削除](remove-a-relationship.md)
 ## [顧客によるパートナーへの管理特権の委任または取り消し](customers_revoke_admin_privileges.md) 
 ## [顧客一覧の表示](see-your-customer-list.md)
+## [顧客のアクティビティ ログの表示](activity-logs.md)
 ## [顧客のアカウント情報の更新](update-customer-account-info.md)
 ## [顧客アカウントでの複数ユーザーの作成](adding-multiple-users-to-a-customer-account.md)
 ## [サポート連絡先の指定](assign-support-contacts.md)
