@@ -72,6 +72,7 @@
 ## [紹介](referrals.md)
 ### [ビジネス プロファイルの作成](create-a-marketing-profile.md)
 ### [紹介案件への対応](responding-to-referrals.md)
+### [案件の登録](register-deals.md)
 ### [Microsoft と共同販売](co-sell-with-microsoft.md)
 ### [紹介の分析情報を取得する](referral-insights.md)
 ### [ビジネス プロファイルの分析](analyze-your-marketing-profile.md)
@@ -96,7 +97,6 @@
 ## [お客様向けに Azure の支出の予算を設定する](set-an-azure-spending-budget-for-your-customers.md)
 ## [一般的な課金シナリオ](common-billing-scenarios.md)
 ## [未払い、詐欺、不正使用](non-payment--fraud--or-misuse.md)
-## [PSTN サービス](o365-e5-in-csp-advisory.md)
 
 # [お客様とつながる](customer-accounts.md)
 ## [新しい顧客の追加](add-a-new-customer.md)
