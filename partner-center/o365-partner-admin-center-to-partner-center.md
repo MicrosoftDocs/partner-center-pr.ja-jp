@@ -1,19 +1,19 @@
 ---
-title: 'Office 365 パートナー管理センターのお客様: 業務がパートナー センターに移行します | パートナー センター'
+title: 'Office 365 パートナー管理センターのパートナー: 業務がパートナー センターに移行する | パートナー センター'
 ms.topic: article
-ms.date: 03/15/2019
-description: Office 365 パートナー管理センターのお客様がパートナー センターへ移行する際の主な考慮事項
+ms.date: 08/22/2019
+description: Office 365 パートナー管理センターのパートナーがパートナー センターに移行するときの主な考慮事項
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fb32c86c623044dc42a2ba746a4efe0aca568e04
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: 601563734a460be31cfba9beaa7d5d447769a730
+ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668331"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69993970"
 ---
-# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 パートナー管理センターのお客様: パートナー センターへの業務の移行に向けてご準備ください
+# <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 パートナー管理センターのパートナー: パートナー センターへの業務の移行に向けてご準備ください
 
 **適用対象** 
 
@@ -29,8 +29,6 @@ Office 365 パートナー管理センターの機能がパートナー セン�
 現在、Office 365 パートナー管理センターを使って行っているタスクの多くは、パートナーセンターですぐに開始できます。 
 
 現時点では、両方のサイトがサポートされているため、パートナーは新しいサイトに移行する間も、Office 365 パートナー管理センターを引き続き利用できます。 いずれかのサイトで行った変更は、両方に反映されます。
-
-皆様が新しい環境を気に入られることを願っています。
 
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Office 365 パートナー管理センター機能とパートナー センター機能の対応付け
 

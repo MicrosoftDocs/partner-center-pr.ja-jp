@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: b5c9349ba5b4770eec9b4b8923907dd8377b20e3
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
-ms.translationtype: MT
+ms.openlocfilehash: bd6c0a4aa17c8163a2ffbade8ef337e9320e0389
+ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468014"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69993974"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、プラン
 
@@ -57,7 +57,7 @@ ms.locfileid: "67468014"
 パートナーが顧客の代わりに注文する前に、顧客は該当する Microsoft Cloud 契約に同意して署名する必要があります。 Microsoft Cloud 契約は地域固有であり、複数の言語で利用できます。 Microsoft Cloud 契約の[顧客テンプレート](agreements.md)に移動し、新しい顧客と確認する必要がある Microsoft Cloud 契約を探します。
 
 >[!IMPORTANT]
->パートナーは、署名した人についての情報を提供することで、顧客が Microsoft Cloud 契約を受諾したことを確認する必要があります。 詳しくは、「[Microsoft Cloud 契約に関するお客様の同意を確認する](confirm-consent.md)」および「[Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問](confirm-consent-faq.md)」をご覧ください。
+>パートナーは、署名した人についての情報を提供することで、顧客が Microsoft Cloud 契約を受諾したことを確認する必要があります。 「[Microsoft Cloud 契約に関するお客様の同意を確認する](confirm-consent.md)」を参照してください 
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (ドイツ向け)
 
