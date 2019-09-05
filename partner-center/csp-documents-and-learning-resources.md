@@ -1,19 +1,19 @@
 ---
 title: CSP 契約、価格表、およびキャンペーン | パートナー センター
 ms.topic: article
-ms.date: 03/27/2019
+ms.date: 08/29/2019
 description: この記事では、クラウド ソリューション プロバイダーのプログラム ガイド、パートナー契約、顧客契約、料金表、提供できる製品とサービスへのリンクを示します。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6c0a4aa17c8163a2ffbade8ef337e9320e0389
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
+ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993974"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259915"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、プラン
 
@@ -33,24 +33,6 @@ ms.locfileid: "69993974"
 
 >[!Note]
 >クラウド ソリューション プロバイダー プログラムでの承認済み Microsoft パートナーとしての状態を確認または認定するビジネス レターが必要な場合は、[サポートに問い合わせて](https://partner.microsoft.com/pcv/servicerequests/create)要求してください。
-
-## <a name="cloud-solution-provider-partner-agreement"></a>クラウド ソリューション プロバイダー パートナー契約
-
-マイクロソフトのクラウド ソリューション プロバイダー プログラムへの参加を希望するパートナーは、この契約書に署名する必要があります。 販売を計画している市場のクラウドまたはナショナル クラウドに関するガイドを確認してください。
-
-[Microsoft Cloud リセラー契約 - 北米、中米、南米、カリブ諸国](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
-
-[Microsoft クラウド リセラー契約 - アジア、オーストラリア、太平洋](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Microsoft クラウド リセラー契約 - ヨーロッパ、中東、アフリカ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Microsoft クラウド リセラー契約 - 日本](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
-
-[Microsoft クラウド リセラー契約 - 韓国](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
-
-[Microsoft Cloud リセラー契約 - 台湾](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
-
-[Microsoft Cloud リセラー契約 - Microsoft Cloud for US Government](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 契約顧客用テンプレート
 
