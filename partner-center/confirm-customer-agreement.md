@@ -1,38 +1,53 @@
 ---
 title: Microsoft 顧客契約へのお客様の同意を確認する | パートナー センター
 ms.topic: article
-ms.date: 04/16/2019
+ms.date: 08/28/2019
 Description: パートナーは、お客様のために Microsoft 製品とサービスを注文する前に、Microsoft 顧客契約へのお客様の同意を得る必要があります。 パートナーがコンプライアンス要件を満たすことができるように、Microsoft では、パートナーに対して、契約に同意したユーザーに関する特定の詳細情報を提供することにより、同意を確認することを求めています。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: 295c997baa43dd087552315d71d726a0f28c6ed1
-ms.sourcegitcommit: 0712e68734f0b3e53821b490a6c32a6c991a6e49
+ms.openlocfilehash: 291d9fa48795067357888d5c0fa25027c3478705
+ms.sourcegitcommit: 282c72dbe419152e6b9dc73137acc538d0185649
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/21/2019
-ms.locfileid: "69871773"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "70144326"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-preview"></a>Microsoft 顧客契約へのお客様の同意を確認する (プレビュー)
 
-現在、CSP パートナーがお客様の代わりに注文する前に、お客様は該当する **Microsoft Cloud 契約**に同意して署名する必要があります。 その後、パートナーは、署名者に関する情報を Microsoft に提供することで、お客様にその同意を確認する必要があります。 お客様が Microsoft Cloud 契約への同意を確認しない場合:
+現在、CSP パートナーがお客様の代わりに注文する前に、お客様は該当する **Microsoft Cloud 契約**に同意して署名する必要があります。 その後、パートナーは、署名者に関する情報を Microsoft に提供することで、お客様にその同意を確認する必要があります。 確認が行われていない場合:
 - このお客様について新しい注文を作成することはできません。
 - このお客様について既存のシート ベースのサブスクリプションのシート数を変更することはできません。
 
 パートナー センター ダッシュボードまたは API を使用して、Microsoft Cloud 契約へのお客様の同意を確認する方法の詳細については、「[Microsoft Cloud 契約へのお客様の同意を確認する](confirm-consent.md)」を参照してください。
 
-2019 年 10 月 1 日に、Microsoft では、CPS プログラムに **Microsoft 顧客契約**を導入する予定です。これは、Microsoft Cloud 契約に置き換わります。 新しい契約へのパートナーの移行を促進するために、現在の Microsoft Cloud 契約は、2019 年 1 月 31 まで CSP プログラムでサポートされます。 スケジュールの詳細については、次の表を参照してください。
+2019 年 10 月 1 日に、Microsoft では、CPS プログラムに **Microsoft 顧客契約**を導入する予定です。これは、Microsoft Cloud 契約に置き換わります。 新しい契約へのパートナーの移行を促進するために、現在の Microsoft Cloud 契約は、2020 年 1 月 31 まで CSP プログラムでサポートされます。 スケジュールの詳細については、次の表を参照してください。
 
 | 日付 | マイルストーン | 詳細 |
 |------------|------------|--------------------------------|
 |2019 年 8 月 1 日|サンドボックスで UX プレビューの提供開始|パートナーは、CSP サンドボックス環境でパートナー センター ダッシュボードを使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 CSP サンドボックス環境へのアクセス権を持つパートナーは、ユーザー エクスペリエンスの変更をプレビューできます。 サンドボックス環境へのアクセス権を持たないパートナーは、その変更をこのトピックで確認できます。|
-|2019 年 9 月 2 日|サンドボックスで API プレビューの提供開始。|パートナーは、CSP サンドボックス環境でパートナー センター API を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 API パートナーは、この機会を利用して API の変更をプレビューし、新しい契約をサポートするために API の統合作業を開始できます。|
+|2019 年 9 月 3 日|サンドボックスで API プレビューの提供開始。|パートナーは、CSP サンドボックス環境でパートナー センター API を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 API パートナーは、この機会を利用して API の変更をプレビューし、新しい契約をサポートするために API の統合作業を開始できます。|
+|2019 年 9 月 13 日|サンドボックスで .NET SDK プレビューの提供開始。|パートナーは、CSP サンドボックス環境内でパートナー センター .NET SDK を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 API パートナーは、この機会を利用して .NET SDK の変更のプレビューを表示し、新しい契約をサポートするために API の統合作業を開始できます。|
 |2019 年 10 月 1 日|Microsoft 顧客契約が運用環境で使用可能|Microsoft では、Microsoft 顧客契約を CSP プログラムに導入します。これは、Microsoft Cloud 契約に置き換わるものです。 パートナーは、運用環境でパートナー センター ダッシュボードと API を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 Microsoft Cloud 契約は、CSP パートナー プログラムで引き続きサポートされます。 ただし、パートナーは、Microsoft 顧客契約への移行を開始することをお勧めします。 新しい購入および既存のサブスクリプションに対するシート数の変更では、Microsoft 顧客契約または Microsoft Cloud 契約のいずれかへのパートナーの確認が必要になります。 特定の新しいオファー (新しい Azure プランなど) では、Microsoft 顧客契約への同意の確認が求められます。|
-|2019 年 1 月 31 日|Microsoft クラウド契約が運用環境から削除|Microsoft Cloud 契約は CSP パートナー プログラムでは受け入れられなくなりました。 新しい購入および既存のサブスクリプションに対するシート数の変更では、パートナーは、Microsoft 顧客契約の確認を提供する必要があります。 この要件は、以前に Microsoft Cloud 契約に同意した場合でも、新しいお客様および既存のお客様に適用されます。|
+|2020 年 1 月 31 日|Microsoft クラウド契約が運用環境から削除|Microsoft Cloud 契約は CSP パートナー プログラムでは受け入れられなくなりました。 新しい購入および既存のサブスクリプションに対するシート数の変更では、パートナーは、Microsoft 顧客契約の確認を提供する必要があります。 この要件は、以前に Microsoft Cloud 契約に同意した場合でも、新しいお客様および既存のお客様に適用されます。|
+
+## <a name="confirm-customer-acceptance-using-partner-center-api"></a>パートナー センター API を使用してお客様の同意を確認する
+2019 年 9 月 3 日以降、Microsoft 顧客契約へのお客様の同意を確認するためのパートナー向けの API は、CSP サンドボックス環境内でのプレビューに使用できるようになります。 API について詳しくは、以下をご覧ください。
+
+- [Microsoft 顧客契約の契約メタデータを取得する](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
+
+- [Microsoft 顧客契約へのお客様の同意を確認する](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+
+- [Microsoft 顧客契約に関するお客様の同意の確認を取得する ](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+
+- [Microsoft 顧客契約テンプレートのダウンロード リンクを取得する](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
 
 
-## <a name="confirm-customer-acceptance-for-new-customers"></a>新しいお客様について、お客様の同意を確認する
+## <a name="confirm-customer-acceptance-in-partner-center"></a>パートナー センターを使用してお客様の同意を確認する
+2019 年 8 月 1 日時点で、Microsoft 顧客契約へのお客様の同意を確認するためのパートナー向けの UX は、CSP サンドボックス環境内でプレビューに使用できます。
+
+### <a name="confirm-customer-acceptance-for-new-customers"></a>新しいお客様について、お客様の同意を確認する
 
 パートナー センターで新しい顧客テナントを作成するときに、次の手順を使用して、Microsoft 顧客契約へのお客様の同意を確認します。 この手順を実行するには、管理エージェントまたは販売エージェントである必要があります。
 
@@ -50,7 +65,7 @@ ms.locfileid: "69871773"
 
 ![新しい顧客](images/mcua1.png)
 
-## <a name="confirm-customer-acceptance-for-existing-customers"></a>既存のお客様について、お客様の同意を確認する
+### <a name="confirm-customer-acceptance-for-existing-customers"></a>既存のお客様について、お客様の同意を確認する
 
 これを行うには、管理エージェントまたは販売エージェントである必要があります。
 
@@ -66,7 +81,7 @@ ms.locfileid: "69871773"
 
 ![既存の顧客](images/mcua2.png)
 
-## <a name="retrieve-confirmation-of-customer-acceptance"></a>お客様の同意の確認を取得する
+### <a name="retrieve-confirmation-of-customer-acceptance"></a>お客様の同意の確認を取得する
 
 次の手順に従って、既存のお客様が Microsoft 顧客契約に同意したことを示す確認を取得できます。 これを行うには、管理エージェントまたは販売エージェントである必要があります。
 

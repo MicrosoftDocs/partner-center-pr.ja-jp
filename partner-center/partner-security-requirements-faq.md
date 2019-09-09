@@ -1,18 +1,18 @@
 ---
 title: パートナーのセキュリティ要件の FAQ | パートナー センター
 ms.topic: article
-ms.date: 08/23/2019
+ms.date: 08/30/2019
 description: パートナーのセキュリティ要件についてよく寄せられる質問
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: medium
-ms.openlocfilehash: 54ac919aeadec85b941e0dce9b1556df843e5fcb
-ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "70020542"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215655"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
 
@@ -85,8 +85,8 @@ CSP プログラムのすべてのパートナー (直接請求、間接プロ�
 
     - まだ行っていない場合は、間接プロバイダーは間接リセラーと協力して、パートナー センターにオンボードし、リセラーに要件を満たすよう奨励する必要があります。
     - Azure MFA は、[Microsoft Authenticator アプリ](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)を使用する唯一の認証方法によるベースライン ポリシーを通じて、パートナー テナントのすべてのユーザーが無料で利用できるようになっています。
-    - SMS や電子メールなどの他の方法が必要な場合は、[Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU により、追加の検証方法を利用できます。
-    - パートナーは、Microsoft の商用クラウド サービスにアクセスするときに、個々のユーザー単位でサードパーティの MFA ソリューションを利用することもできます。
+    - 電話やテキスト メッセージなどの他の方法が必要な場合は、[Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU により、追加の検証方法を利用できます。
+    - パートナーは、Microsoft の商用クラウド サービスにアクセスするときに、個々のアカウント単位でサードパーティの MFA ソリューションを利用することもできます。
 
 2. **セキュリティで保護されたアプリケーション モデル フレームワークを採用する**
 
@@ -94,10 +94,10 @@ CSP プログラムのすべてのパートナー (直接請求、間接プロ�
 
     - [セキュリティで保護されたアプリケーション モデルの概要](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
     - [パートナー センター: セキュリティで保護されたアプリケーション モデルのガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための .NET サンプル コード](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-    - [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための Java サンプル コード](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+    - [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための .NET サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための Java サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [パートナー センターの認証に関するドキュメント](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-    - [パートナー センターの PowerShell Multi-Factor Authentication (MFA) に関するドキュメント](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+    - [パートナー センターの PowerShell Multi-Factor Authentication (MFA) に関するドキュメント](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
     コントロール パネルを使用している場合は、セキュリティで保護されたアプリケーション モデル フレームワークの導入について、ベンダーと相談する必要があります。
 
@@ -122,7 +122,7 @@ MFA は、ユーザーが複数の必要なセキュリティと検証の手順�
 
 ### <a name="what-baseline-policies-must-i-enable"></a>有効にする必要があるベースライン ポリシーは何ですか?
 
-現在のベースライン保護ポリシーを使用して、パートナー テナントの各ユーザーに MFA を提供する予定の場合は、[管理者に MFA を要求する](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)および[エンド ユーザーの保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)のベースライン ポリシーを有効にする必要があります。 これらのベースライン保護ポリシーでは、モバイル デバイス経由で Microsoft Authenticator アプリを使用しているパートナーについてのみ、パートナー テナントの各ユーザーに対する MFA の要件が無料で満たされます。
+現在のベースライン保護ポリシーを使用して、パートナー テナントの各アカウントに MFA を提供する予定の場合は、[管理者に MFA を要求する](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)および[エンド ユーザーの保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)のベースライン ポリシーを有効にする必要があります。 これらのベースライン保護ポリシーでは、モバイル デバイス経由で Microsoft Authenticator アプリを使用しているパートナーについてのみ、パートナー テナントの各ユーザーに対する MFA の要件が無料で満たされます。
 
 [管理者に MFA を要求するベースライン ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)はパートナー ディレクトリ内の管理ユーザーに対して利用され、[エンド ユーザーの保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)ベースライン ポリシーはパートナー テナント内の管理者以外のユーザーを保護するために利用されます。 これらのポリシーを有効にすると、ユーザーは MFA に登録する必要があります。 ユーザーは、正常に登録した後、ポリシーの条件に基づいてサインインを試行するときに MFA を要求されます。 ベースライン ポリシーによって提供される機能は、パートナーと顧客が絶え間なく変化するセキュリティの脅威から保護されるように発展し続けます。 そのため、[ベースライン ポリシーのドキュメント](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)を確認してよく理解することが重要です。
 
@@ -246,10 +246,10 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 - [セキュリティで保護されたアプリケーション モデルの概要](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [パートナー センター: セキュリティで保護されたアプリケーション モデルのガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための .NET サンプル コード](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための Java サンプル コード](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための .NET サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための Java サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [パートナー センターの認証に関するドキュメント](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [パートナー センターの PowerShell Multi-Factor Authentication (MFA) に関するドキュメント](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [パートナー センターの PowerShell Multi-Factor Authentication (MFA) に関するドキュメント](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 コントロール パネルを使用している場合は、セキュリティで保護されたアプリケーション モデル フレームワークの導入について、ベンダーと相談する必要があります。
 
@@ -333,10 +333,10 @@ CPV は、CPV として登録に関連付けられているテナントに Azure
 
 - [セキュリティで保護されたアプリケーション モデルの概要](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [パートナー センター: セキュリティで保護されたアプリケーション モデルのガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための .NET サンプル コード](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための Java サンプル コード](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための .NET サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための Java サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [パートナー センターの認証に関するドキュメント](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [パートナー センターの PowerShell Multi-Factor Authentication (MFA) に関するドキュメント](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [パートナー センターの PowerShell Multi-Factor Authentication (MFA) に関するドキュメント](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 ## <a name="support"></a>サポート
 
@@ -353,6 +353,10 @@ CPV は、CPV として登録に関連付けられているテナントに Azure
 ### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>セキュリティで保護されたアプリケーション モデル フレームワークを導入するのに役立つ技術情報とサポートを利用するにはどうすればよいですか?
 
 Azure Active Directory の技術製品サポート オプションを、MPN 特典で利用できます。 アクティブな ASfP または PSfP サブスクリプションにアクセスできるパートナーは、関連付けられているアカウント マネージャー (SAM/TAM) と協力して、使用可能なオプションを最大限に理解することができます。
+
+### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>パートナー センターへのアクセスが失われた場合、サポートに問い合わせるにはどうすればよいですか?
+
+「[マイクロソフト パートナー サポート](https://partner.microsoft.com/support)」にアクセスし、 **[すべてのサポート オプションを表示する]** を選択します。 マイクロソフト パートナー サポートに連絡するために使用できるオプションが表示されます。 これには、サポートに電話するための電話番号と、サポートとチャットするためのオプションが含まれます。 
 
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>一般的な技術的問題に関する詳細情報はどこで入手できますか?
 
