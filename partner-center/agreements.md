@@ -9,7 +9,7 @@ keywords: Microsoft Cloud 契約, 顧客契約テンプレート, CSP 顧客契�
 ms.localizationpriority: medium
 ms.openlocfilehash: 4a7ada9f4f42eb7b016dd48043e3529c7a6225f0
 ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/01/2019
 ms.locfileid: "68708727"
@@ -99,7 +99,7 @@ Microsoft Cloud 契約は地域固有であり、複数の言語で利用でき�
 ## <a name="microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government
  - 米国: [英語](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Feb2019_CR.pdf)
 
-## <a name="europe"></a>Europe
+## <a name="europe"></a>ヨーロッパ
 - オーランド諸島: [英語](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - アルバニア: [英語](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - アンドラ: [英語](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)

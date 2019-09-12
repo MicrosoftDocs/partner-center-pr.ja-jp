@@ -9,7 +9,7 @@ robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.openlocfilehash: c7d6639ef747c0089e89565680e96a22408770cb
 ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/28/2019
 ms.locfileid: "64668723"
@@ -110,7 +110,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 Microsoft Action Pack サブスクリプションを取り消す場合は、パートナー センターのサポートにご連絡ください。
 
-1. [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support) に移動します。
+1. [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support ) に移動します。
 
 2. **[パートナー センターに関する問題の報告]** を選び、次のページで **[New request]** (新しい要求) を選びます。
 

@@ -9,7 +9,7 @@ keywords: インセンティブ要求, 協力要求, 協力金, OSA, ISV, 収益
 ms.localizationpriority: medium
 ms.openlocfilehash: 2c8982fa25fb1eea4f0ec73e4a9102215f356816
 ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/22/2019
 ms.locfileid: "68376407"

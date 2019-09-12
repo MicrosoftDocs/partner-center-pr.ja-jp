@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 29d597b66c16d7f0da29caa023c1da7ba23f9616
 ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/05/2019
 ms.locfileid: "68781996"
@@ -38,7 +38,7 @@ ms.locfileid: "68781996"
 
 次のメトリックを追跡しています。
 
-**概要**  
+**要約**  
  - **Subscriptions sold** (サブスクリプションの販売数): 指定した期間に作成されたサブスクリプションの数  
  - **Licenses sold** (ライセンスの販売数): 指定した期間に販売されたライセンスの数   
  - **Subscriptions renewing in 30 days** (30 日以内に更新するサブスクリプション): 指定した期間中に状態がアクティブで、**Autorenew** が true であるサブスクリプションの数

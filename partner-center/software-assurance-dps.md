@@ -9,7 +9,7 @@ Keywords: 展開前, 計画, ソフトウェア アシュアランス
 ms.localizationpriority: medium
 ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
 ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/01/2019
 ms.locfileid: "68708881"
@@ -23,7 +23,7 @@ ms.locfileid: "68708881"
 ソフトウェア アシュアランス計画サービスのことをよく知らない場合は、「[計画サービスでビジネスを成長させる](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)」をご覧ください。
 
 
-## <a name="get-started"></a>作業開始
+## <a name="get-started"></a>はじめに
 
 ソフトウェア アシュアランス計画サービスに慣れていない場合は、以下のすべての手順に従ってください。 既に計画サービス プログラムで活動していて、パートナー アカウント情報がパートナー センターに移動された場合は、後のステップ 4 から始めてください。 
 

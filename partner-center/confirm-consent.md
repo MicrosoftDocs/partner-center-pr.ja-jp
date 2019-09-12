@@ -9,7 +9,7 @@ keywords: 顧客, 顧客たち, 同意, MCA, Microsoft Cloud 契約, 顧客契�
 ms.localizationpriority: medium
 ms.openlocfilehash: fc82d3156dd50c3ad05b141f1715634031cad202
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820509"
@@ -87,7 +87,7 @@ ms.locfileid: "68820509"
 2. **[アカウント情報]** を選択します。
 3. **[Microsoft Cloud 契約]** で **[更新]** を選択します。
 
-![更新](images/mca/mca4.png)
+![Update](images/mca/mca4.png)
 
 4. 契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
 5. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。

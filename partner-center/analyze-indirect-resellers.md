@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: c46a155b99087f6d6019db4ed81247c269883ae2
 ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/05/2019
 ms.locfileid: "68781990"
@@ -28,7 +28,7 @@ ms.locfileid: "68781990"
 
 次のメトリックを追跡しています。
 
-**概要**  
+**要約**  
  - **合計リセラー数**: サブスクリプションの最終日にアクティブなリセラーの数  
  - **新規リセラー数**: 指定した期間の新規間接リセラーの数  
  - **アクティブなリセラー数**: MPNID に 1 つ以上のサブスクリプションがあり、サブスクリプションの状態がプロビジョニング解除されていない間接リセラーの数  

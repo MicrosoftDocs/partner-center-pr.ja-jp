@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.openlocfilehash: 5e83b9720393356268f59d42b4210c427a3b3bc6
 ms.sourcegitcommit: 5e67a2540b0ff9eb248e5dc41b9d9ad1fc900b36
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/10/2019
 ms.locfileid: "66819937"
@@ -120,7 +120,7 @@ Azure の使用量ベースの CSP サブスクリプションは、Office 365 �
 
 6.  今後、**移行元**アカウントでの課金を停止するために、すべての顧客のすべてのサブスクリプションについて、この手順を繰り返します。 パートナーは、取り消し日から課金期間の最終日までの未使用の日数のクレジットについて最終的な請求書を受け取ります。 最後の課金期間以降、請求書は生成されません。
 
-### <a name="notes"></a>メモ
+### <a name="notes"></a>説明
 
 -   サービスを無効にする前に**移行先**の CSP アカウントからサービスがプロビジョニングされている場合、**移行元**の CSP アカウントからのサブスクリプションを無効にしても、顧客のサービスには影響しません。
 
