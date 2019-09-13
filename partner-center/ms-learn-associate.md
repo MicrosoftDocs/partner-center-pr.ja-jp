@@ -10,7 +10,7 @@ Keywords: ロール、アクセス許可を追加、ユーザー、役割の割�
 ms.localizationpriority: medium
 ms.openlocfilehash: e3e339e5d19e7abacce2993f1bf11602774c9b9c
 ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/09/2019
 ms.locfileid: "67675332"
