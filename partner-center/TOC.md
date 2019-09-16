@@ -31,6 +31,7 @@
 
 # [クラウド ソリューション プロバイダー](csp-overview.md)
 ## [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
+## [CSP パートナー向け Microsoft Partner Agreement](microsoft-partner-agreement.md)
 ## [CSP の直接パートナーの新しい要件](direct-partner-new-requirements.md)
 ## [地域と言語別の Microsoft Cloud 契約](agreements.md)
 ## [クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行](transition-direct-to-indirect.md)
