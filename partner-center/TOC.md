@@ -171,6 +171,7 @@
 # セキュリティ
 ## [パートナー セキュリティ要件](partner-security-requirements.md)
 ## [パートナー セキュリティ要件のよくあるご質問](partner-security-requirements-faq.md)
+## [パートナー セキュリティの準拠状態](partner-security-compliance.md)
 
 # チュートリアル
 ## [パートナー セキュリティ要件を実装する](tutorials/partner-security-requirements.yml)
