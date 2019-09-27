@@ -3,18 +3,18 @@ layout: LandingPage
 hide_bc: true
 title: パートナー センターのヘルプはこちらから
 ms.topic: landing-page
-ms.date: 01/29/2019
+ms.date: 10/01/2019
 description: パートナー センターは、Microsoft クラウド ソリューション プロバイダー (CSP) プログラムでお客様のビジネスを成長させるお手伝いをします。 アカウントを設定し、顧客とつながり、Action Pack サブスクリプションを購入し、CSP および MPN プログラムのパートナーの詳細情報を検索できます。 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
-ms.localizationpriority: medium
-ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
-ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
+ms.localizationpriority: high
+ms.openlocfilehash: f94ef72fc69cd4fe29cd27c2dc4bab11ab5e64c3
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "65035520"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318881"
 ---
 # <a name="welcome-to-partner-center"></a>パートナー センターへようこそ
 
@@ -87,7 +87,7 @@ Microsoft パートナー センターは、Microsoft とのエンド ツー エ
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
                         <h3>PMC から PC への移行</h3>
-                        <p>パートナー センターへの移行に向けた会社の準備方法を確認します</p></a>
+                        <p>パートナー センターへの移行に向けて会社の準備を行う</p></a>
                     </div>
                 </div>
             </div>
