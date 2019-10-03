@@ -28,7 +28,6 @@
 ### [Microsoft Partner Network の請求と税金](mpn-view-print-maps-invoice.md)
 ## [新機能のテスト](test-drive-new-features.md)
 
-
 # [クラウド ソリューション プロバイダー](csp-overview.md)
 ## [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
 ## [CSP パートナー向け Microsoft Partner Agreement](microsoft-partner-agreement.md)
@@ -39,7 +38,6 @@
 ## [CSP の地域市場と通貨](regional-authorization-overview.md)
 ## [Microsoft Cloud 契約に関するお客様の同意を確認する](confirm-consent.md)
 ## [Microsoft Customer Agreement に関するお客様の同意を確認する (プレビュー)](confirm-customer-agreement.md)
-
 
 ## [ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
@@ -84,7 +82,6 @@
 ### [インセンティブの支払いについて](understand-incentive-payouts.md)
 ### [パートナー センターでの OSA 申請の送信](submit-osa-claim.md)
 ### [インセンティブの申請の顧客のドメイン名とディレクトリ ID を調べる](find-customer-domain-name.md)
-
 
 # [請求と税金](billing.md)
 ## [請求に関する FAQ](faq-about-new-billing-features.md)
@@ -169,10 +166,10 @@
 ## [お客様のセルフ サポート](customer-self-support.md)
 ## [Microsoft に問題をエスカレートする](escalate-problems-to-microsoft.md)
 
-# セキュリティ
-## [パートナー セキュリティ要件](partner-security-requirements.md)
-## [パートナー セキュリティ要件のよくあるご質問](partner-security-requirements-faq.md)
-## [パートナー セキュリティの準拠状態](partner-security-compliance.md)
+# セキュリティ要件
+## [概要](partner-security-requirements.md)
+## [コンプライアンス ステータス](partner-security-compliance.md)
+## [よく寄せられる質問](partner-security-requirements-faq.md)
 
 # チュートリアル
 ## [パートナー セキュリティ要件を実装する](tutorials/partner-security-requirements.yml)
