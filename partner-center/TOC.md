@@ -78,7 +78,7 @@
 ## [インセンティブの申請](claims-overview.md)
 ### [インセンティブの申請の作成と管理](create-incentives-claims.md)
 ### [インセンティブの申請の主要な要件](core-requirements.md)
-### [インセンティブの支払いページへのアクセス](incentives-unified-user-guide.md)
+### [支払い情報を理解する](incentives-unified-user-guide.md)
 ### [インセンティブの支払いについて](understand-incentive-payouts.md)
 ### [パートナー センターでの OSA 申請の送信](submit-osa-claim.md)
 ### [インセンティブの申請の顧客のドメイン名とディレクトリ ID を調べる](find-customer-domain-name.md)
