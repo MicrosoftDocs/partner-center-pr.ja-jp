@@ -78,10 +78,12 @@
 ## [インセンティブの申請](claims-overview.md)
 ### [インセンティブの申請の作成と管理](create-incentives-claims.md)
 ### [インセンティブの申請の主要な要件](core-requirements.md)
+
+
 ### [支払い情報を理解する](incentives-unified-user-guide.md)
-### [インセンティブの支払いについて](understand-incentive-payouts.md)
-### [パートナー センターでの OSA 申請の送信](submit-osa-claim.md)
-### [インセンティブの申請の顧客のドメイン名とディレクトリ ID を調べる](find-customer-domain-name.md)
+
+### [インセンティブの支払いページへのアクセス](incentives-unified-user-guide.md)
+
 
 # [請求と税金](billing.md)
 ## [請求に関する FAQ](faq-about-new-billing-features.md)
@@ -168,7 +170,7 @@
 
 # セキュリティ要件
 ## [概要](partner-security-requirements.md)
-## [コンプライアンス ステータス](partner-security-compliance.md)
+## [要件の状態](partner-security-compliance.md)
 ## [よく寄せられる質問](partner-security-requirements-faq.md)
 
 # チュートリアル
