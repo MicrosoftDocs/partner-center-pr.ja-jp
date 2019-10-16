@@ -1,19 +1,19 @@
 ---
 title: パートナー センターのアカウントを管理する | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 09/25/2019
 description: 組織のプロファイル、銀行と税情報、ユーザーをパートナー センターで管理します。
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
 ms.author: evansma
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e08328258964509a7d01a4e4624d01025cc8449e
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: e2e4e4e3d0fb7d88d748c57abe7a5a5161ea640a
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668084"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318620"
 ---
 # <a name="manage-your-partner-center-account"></a>パートナー センター アカウントの管理
 
@@ -26,7 +26,7 @@ ms.locfileid: "64668084"
 また、管理者は、顧客の追加または管理、サブスクリプションの販売、課金や請求の操作、ビジネス プロファイルの作成、紹介の管理、インセンティブ プログラムの操作、サポートの提供に関してパートナー センターを使うすべてのユーザー用にユーザー アカウントを作成する必要があります。
 
 >[!NOTE]
->アカウントの設定は、パートナー センターの右上隅にあります。 アイコンを選択すると、管理対象を選択することができます。 たとえば、**[アカウント] アイコン**を選択し、**[ユーザー管理]** を選択します。 これにより、[ユーザー管理] ページに移動し、すべての **[アカウント設定]** オプションを含む追加のウィンドウが開きます。
+>アカウントの設定は、パートナー センターの右上隅にあります。 アイコンを選択すると、管理対象を選択することができます。 たとえば、 **[アカウント] アイコン**を選択し、 **[ユーザー管理]** を選択します。 これにより、[ユーザー管理] ページに移動し、すべての **[アカウント設定]** オプションを含む追加のウィンドウが開きます。
 
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>パートナー センターのアカウントを管理するのに役立つリソース
