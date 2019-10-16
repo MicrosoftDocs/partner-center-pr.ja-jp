@@ -6,13 +6,13 @@ description: 協力インセンティブ プロパティの各種アクティビ
 author: LauraBrenner
 ms.author: labrenne
 keywords: インセンティブの申請, 協力インセンティブの申請, 協力金, 主要な要件
-ms.localizationpriority: medium
-ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.localizationpriority: high
+ms.openlocfilehash: 92fed2383df05e5942388a18864fc9419111d6d8
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135032"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318647"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>協力インセンティブの申請の主要な要件
 

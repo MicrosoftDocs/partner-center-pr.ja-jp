@@ -1,22 +1,22 @@
 ---
 title: パートナー貢献度インジケーター | パートナー センター
 ms.topic: article
-ms.date: 07/17/2019
+ms.date: 10/04/2019
 description: パートナーの会社が Dynamics 365 Customer Engagement または Dynamics 365 Finance and Operationsでどのような実績を上げているかを示すデータ
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, パフォーマンス, 顧客の成功, 測定, Dynamics 365
 author: MaggiePucciEvans
 ms.author: evansma
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 8a54db5e03c2cc683c913781427bc3d4ebac1af8
-ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.openlocfilehash: c0c8f9f721aa0cadfc311ecec5eb6349576fb26a
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "68313961"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997830"
 ---
-## <a name="partner-contribution-indicators"></a>パートナー貢献度インジケーター
+# <a name="partner-contribution-indicators"></a>パートナー貢献度インジケーター
 
 パートナー貢献度インジケーター (PCI) は、Dynamics 365 でのパートナーのパフォーマンス、能力、および顧客の成功を総合的に測定した値のセットです。
 

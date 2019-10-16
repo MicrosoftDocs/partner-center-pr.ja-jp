@@ -6,13 +6,13 @@ description: 地域や言語に固有の、Microsoft Cloud 契約のバージョ
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Microsoft Cloud 契約, 顧客契約テンプレート, CSP 顧客契約, Microsoft Cloud 契約, MCA, CSP, CSP で販売できる国または地域, CSP の国または地域、CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南米, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
-ms.localizationpriority: medium
-ms.openlocfilehash: 4a7ada9f4f42eb7b016dd48043e3529c7a6225f0
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.localizationpriority: high
+ms.openlocfilehash: 5edb957c76987e94d2bb0e214e78673591aa785e
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708727"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318432"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>地域と言語別の Microsoft Cloud 契約
 
