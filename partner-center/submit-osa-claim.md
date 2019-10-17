@@ -1,18 +1,18 @@
 ---
 title: パートナー センターで OSA 要求を送信する | パートナー センター
 ms.topic: article
-ms.date: 3/14/2019
+ms.date: 10/04/2019
 description: OSA の販売手数料要求または ISV の収益関連要求を送信します
 author: LauraBrenner
 ms.author: labrenne
 keywords: インセンティブ要求, 協力要求, 協力金, OSA, ISV, 収益関連
 ms.localizationpriority: medium
-ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
+ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133938"
+ms.lasthandoff: 10/16/2019
+ms.locfileid: "72425175"
 ---
 # <a name="submit-your-osa-claims-in-partner-center"></a>パートナー センターでの OSA 要求の送信
 
@@ -42,7 +42,7 @@ OSA パートナーまたは Dynamics ISV は、パートナー センターで�
 
 Microsoft は、Online Services Advisor 販売インセンティブの獲得、計算、および支払いに関して毎月適格性を評価します。 Microsoft が承認してインセンティブを支払うには、パートナーは特定の適格性条件を満たしている必要があります。 詳しくは、aka.ms/partnerincentives の OSA セクションにある OSA 販売ガイドをご覧ください。
 
-#<a name="submit-an-osa-sell-fee-claim"></a>OSA 販売手数料要求を送信する
+## <a name="submit-an-osa-sell-fee-claim"></a>OSA 販売手数料要求を送信する
 
 パートナー センターでインセンティブ要求を送信するには、次の手順のようにします。  
 
@@ -50,17 +50,17 @@ Microsoft は、Online Services Advisor 販売インセンティブの獲得、�
 
 >パートナーに複数の所在地がある場合は、必ず、顧客と同じ地理的な地域にあるオフィスの MPN ID を使用してください。 
 
-1.  [概要] ページの **[All incentive programs]\(すべてのインセンティブ プログラム\)** で、**[OSA]** を選択します。
+1.  [概要] ページの **[All incentive programs]\(すべてのインセンティブ プログラム\)** で、 **[OSA]** を選択します。
 
-2.  [OSA] ページで、**[Claim…]\(要求...\)** を選択し、**[Incentive fee]\(インセンティブ手数料\)** を選択します。
+2.  [OSA] ページで、 **[Claim…]\(要求...\)** を選択し、 **[Incentive fee]\(インセンティブ手数料\)** を選択します。
 
-3.  顧客のドメイン名とディレクトリ ID を入力し、**[続行]** を選択します。 
+3.  顧客のドメイン名とディレクトリ ID を入力し、 **[続行]** を選択します。 
 
-4.  顧客が購入した製品を選択し、**[続行]** を選択します。 
+4.  顧客が購入した製品を選択し、 **[続行]** を選択します。 
 
-5.  この要求と関連付けるサブスクリプションを選択し、**[続行]** を選択します。
+5.  この要求と関連付けるサブスクリプションを選択し、 **[続行]** を選択します。
 
->注意事項
+>[!NOTE]
 
 >サブスクリプションを選択する前に、名前と地理的な地域の両方が正しいこと確認します。 
 
@@ -68,7 +68,7 @@ Microsoft は、Online Services Advisor 販売インセンティブの獲得、�
 
 >貴社と既に関連付けられているサブスクリプションを、再度関連付けることはできません。  
 
-6.  顧客と貴社両方の連絡先情報を入力し、要求に名前を付けて、**[Create claim]\(要求の作成\)** を選択します。 
+6.  顧客と貴社両方の連絡先情報を入力し、要求に名前を付けて、 **[Create claim]\(要求の作成\)** を選択します。 
 
 7.  [サブスクリプション] ページで、実行証明 (POE) のドキュメントを **[Proof of Execution]\(実行証明\)** ボックスにアップロードします。 販売前プロセスから POE テンプレートまたは POE ドキュメントを使用することができます。 
 
@@ -78,23 +78,23 @@ Microsoft は、Online Services Advisor 販売インセンティブの獲得、�
 
 収益と支払いのデータを見るには、支払いとレポートを参照します。 
  
-# <a name="submit-an-isv-revenue-association-claim"></a>ISV 収益関連要求を送信する
+## <a name="submit-an-isv-revenue-association-claim"></a>ISV 収益関連要求を送信する
 
-1.  [概要] ページの **[All incentive programs]\(すべてのインセンティブ プログラム\)** で、**[OSA]** を選択します。
+1.  [概要] ページの **[All incentive programs]\(すべてのインセンティブ プログラム\)** で、 **[OSA]** を選択します。
 
-2.  [OSA] ページで、**[Claim…]\(要求...\)** を選択し、**[ISV revenue association]\(ISV 収益関連\)** を選択します。
+2.  [OSA] ページで、 **[Claim…]\(要求...\)** を選択し、 **[ISV revenue association]\(ISV 収益関連\)** を選択します。
 
-3.  顧客のドメイン名とディレクトリ ID を入力し、顧客が購入した製品 (複数選択可) を選択して、**[続行]** を選択します。 
+3.  顧客のドメイン名とディレクトリ ID を入力し、顧客が購入した製品 (複数選択可) を選択して、 **[続行]** を選択します。 
 
-4.  この要求と関連付けるサブスクリプションを選択し、**[続行]** を選択します。
+4.  この要求と関連付けるサブスクリプションを選択し、 **[続行]** を選択します。
 
->注意事項
+>[!NOTE]
 
 >サブスクリプションを選択する前に、名前と地理的な地域の両方が正しいこと確認します。 
 
 >貴社と既に関連付けられているサブスクリプションを、再度関連付けることはできません。  
 
-5.  **[Dynamics solution seller name]\(Dynamics ソリューション販売者名\)**、**[Customer name]\(顧客名\)**、**[Name of ISV product/solution]\(ISV 製品/ソリューションの名前\)** の情報を入力し、要求の名前を入力します。 
+5.  **[Dynamics solution seller name]\(Dynamics ソリューション販売者名\)** 、 **[Customer name]\(顧客名\)** 、 **[Name of ISV product/solution]\(ISV 製品/ソリューションの名前\)** の情報を入力し、要求の名前を入力します。 
 
 6.  **[Create claim]\(要求の作成\)** を選択します。 
 

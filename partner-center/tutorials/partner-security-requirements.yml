@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
-  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/18/2019
-  ms.locfileid: "68313949"
+  ms.lasthandoff: 10/16/2019
+  ms.locfileid: "72425211"
 items:
 - title: 概要
   durationInMinutes: 5
@@ -48,7 +48,7 @@ items:
     > MFA はパートナー ディレクトリ内のすべてのユーザーに適用されるため、ユーザーの資格情報を利用する自動化や統合に影響します。 この影響に対処するには、自動化または統合が Microsoft の商用クラウド サービスに接続する方法を変更する必要があります。 接続しているサービスでトークン ベースの認証がサポートされている場合は、[セキュリティで保護されたアプリケーション モデル フレームワーク](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)を実装することをお勧めします。
 - title: 管理者に MFA を要求するベースライン ポリシーを有効にする方法
   durationInMinutes: 5
-  content: "\"*管理者に MFA を要求する*\" ベースライン ポリシーでは、最も特権の高い Azure AD ロールと見なされる次のディレクトリ ロール に MFA が必要です。\n\n- 全体管理者\n- SharePoint 管理者\n- Exchange 管理者\n- 条件付きアクセス管理者\n- セキュリティ管理者\n- ヘルプデスク管理者/パスワード管理者\n- 課金管理者\n- ユーザー管理者\n\n\"管理者に MFA を要求する\" ポリシーを有効にするときに、上記の 9 つの管理者ロールは、認証アプリを使用して MFA に登録する必要があります。 MFA の登録が完了したら、管理者はサインインするたびに MFA を実行する必要があります。\n\nご自身の組織にこれらのアカウントがあり、スクリプトまたはコードで使用されている場合は、それを [マネージド ID](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) に置き換えることを検討してください。\n\nこのポリシーを有効にして管理者を保護するには:\n\n1. 全体管理者、セキュリティ管理者、または条件付きアクセス管理者として  **Azure portal**  にサインインします。\n2. **[Azure Active Directory]** > **[条件付きアクセス]** に移動します。\n3. ポリシーの一覧で、**[ベースライン ポリシー: 管理者に MFA を要求する]** を選択します。\n4. **[ポリシーを有効にする]** を **[ポリシーをすぐに有効にする]** に設定します。\n5.  **[保存]** をクリックします。\n\n> [!WARNING]\n> このポリシーを有効にする前に、ユーザーが以前の認証プロトコルを使用していないことを確認してください。 詳しくは、[方法:条件付きアクセスを使用した Azure AD に対する以前の認証のブロック](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)に関するページをご覧ください。\n\n> [!IMPORTANT]\n> MFA が適用されるときに 代理管理者権限を使用して Exchange Online PowerShell に接続する機能に影響する既知の問題があります。 詳しくは、「[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)」をご覧ください。\n\n\"*管理者に MFA を要求する*\" ベースライン ポリシーを有効にすると、上記の管理者ロールのメンバーであるユーザーは、サインイン時に新しいエクスペリエンスを利用できるようになります。 次の図は、このポリシーの影響を受けるユーザーのエクスペリエンスを示しています\n\n  ![詳細情報のプロンプト](../images/security/baseline-require-more-info.png)\n\n  ![追加のセキュリティ検証](../images/security/baseline-security-verification-setup.png)\n\n  ![モバイル アプリの構成](../images/security/baseline-configure-mobile-app.png)\n\n  ![追加のセキュリティ検証のセットアップが完了](../images/security/baseline-security-verification-setup-completed.png)\n\n  ![追加のセキュリティ検証を確認済み](../images/security/baseline-security-verification-confirmed.png)\n\nユーザーが上記の手順を完了すると、アクセスしようとしていた Microsoft クラウド サービスにサインインできるようになります。\n"
+  content: "\"*管理者に MFA を要求する*\" ベースライン ポリシーでは、最も特権の高い Azure AD ロールと見なされる次のディレクトリ ロール に MFA が必要です。\n\n- 全体管理者\n- SharePoint 管理者\n- Exchange 管理者\n- 条件付きアクセス管理者\n- セキュリティ管理者\n- ヘルプデスク管理者/パスワード管理者\n- 課金管理者\n- ユーザー管理者\n\n\"管理者に MFA を要求する\" ポリシーを有効にするときに、上記の 9 つの管理者ロールは、認証アプリを使用して MFA に登録する必要があります。 MFA の登録が完了したら、管理者はサインインするたびに MFA を実行する必要があります。\n\nご自身の組織にこれらのアカウントがあり、スクリプトまたはコードで使用されている場合は、それを [マネージド ID](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) に置き換えることを検討してください。\n\nこのポリシーを有効にして管理者を保護するには:\n\n1. 全体管理者、セキュリティ管理者、または条件付きアクセス管理者として  **Azure portal**  にサインインします。\n2. **[Azure Active Directory]** > **[条件付きアクセス]** に移動します。\n3. ポリシーの一覧で、**[ベースライン ポリシー: 管理者に MFA を要求する]** を選択します。\n4. **[ポリシーを有効にする]** を **[ポリシーをすぐに有効にする]** に設定します。\n5.  **[保存]** をクリックします。\n\n> [!WARNING]\n> このポリシーを有効にする前に、ユーザーが以前の認証プロトコルを使用していないことを確認してください。 詳しくは、[方法:条件付きアクセスを使用した Azure AD に対する以前の認証のブロック](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)に関するページをご覧ください。\n\n\"*管理者に MFA を要求する*\" ベースライン ポリシーを有効にすると、上記の管理者ロールのメンバーであるユーザーは、サインイン時に新しいエクスペリエンスを利用できるようになります。 次の図は、このポリシーの影響を受けるユーザーのエクスペリエンスを示しています\n\n  ![詳細情報のプロンプト](../images/security/baseline-require-more-info.png)\n\n  ![追加のセキュリティ検証](../images/security/baseline-security-verification-setup.png)\n\n  ![モバイル アプリの構成](../images/security/baseline-configure-mobile-app.png)\n\n  ![追加のセキュリティ検証のセットアップが完了](../images/security/baseline-security-verification-setup-completed.png)\n\n  ![追加のセキュリティ検証を確認済み](../images/security/baseline-security-verification-confirmed.png)\n\nユーザーが上記の手順を完了すると、アクセスしようとしていた Microsoft クラウド サービスにサインインできるようになります。\n"
 - title: エンド ユーザー保護ベースライン ポリシーを有効にする方法
   durationInMinutes: 5
   content: >-
@@ -75,11 +75,6 @@ items:
     > [!WARNING]
 
     > このポリシーを有効にする前に、ユーザーが以前の認証プロトコルを使用していないことを確認してください。 詳しくは、[方法:条件付きアクセスを使用した Azure AD に対する以前の認証のブロック](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)に関するページをご覧ください。
-
-
-    > [!IMPORTANT]
-
-    > MFA が適用されるときに 代理管理者権限を使用して Exchange Online PowerShell に接続する機能に影響する既知の問題があります。 詳しくは、「[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)」をご覧ください。
 
 
     "*エンド ユーザー保護*" ベースライン ポリシーを有効にすると、すべてのユーザーがサインイン時に新しいエクスペリエンスを利用できるようになります。 次の図は、ユーザーのエクスペリエンスを示しています
