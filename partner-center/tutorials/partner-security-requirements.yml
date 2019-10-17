@@ -1,5 +1,5 @@
 ### YamlMime:Tutorial
-title: <span data-ttu-id="38061-101">パートナー セキュリティ要件を実装する</span><span class="sxs-lookup"><span data-stu-id="38061-101">Implementing the partner security requirements</span></span>
+title: パートナー セキュリティ要件を実装する
 metadata:
   title: パートナー セキュリティ要件を実装する
   description: このチュートリアルでは、パートナーのセキュリティ要件とそれらの要件を満たす方法について説明します。
@@ -8,144 +8,76 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
-  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/18/2019
-  ms.locfileid: "68313949"
+  ms.lasthandoff: 10/16/2019
+  ms.locfileid: "72425211"
 items:
-- title: <span data-ttu-id="38061-104">概要</span><span class="sxs-lookup"><span data-stu-id="38061-104">Introduction</span></span>
+- title: 概要
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="38061-105">お客様とパートナーのセキュリティとプライバシーは、Microsoft の最優先事項です。</span><span class="sxs-lookup"><span data-stu-id="38061-105">Security and privacy of customers and partners are top priorities for Microsoft.</span></span> <span data-ttu-id="38061-106">主に侵害 ID に関連する、ますます高度になったセキュリティ攻撃の数が増え続けています。</span><span class="sxs-lookup"><span data-stu-id="38061-106">We continue to see an increasing number of more sophisticated security attacks, primarily related to compromised identities.</span></span> <span data-ttu-id="38061-107">予防的な制御は、セキュリティ攻撃を阻止するための全体的な防御戦略において重要な役割を果たすので、パートナーとその顧客を保護するために、一連の必須のセキュリティ要件の適用を開始します。</span><span class="sxs-lookup"><span data-stu-id="38061-107">As preventive controls play a key role in an overall defense strategy to thwart security attacks, we will start enforcing a set of mandatory security requirements to help protect partners and their customers.</span></span>
+    お客様とパートナーのセキュリティとプライバシーは、Microsoft の最優先事項です。 主に侵害 ID に関連する、ますます高度になったセキュリティ攻撃の数が増え続けています。 予防的な制御は、セキュリティ攻撃を阻止するための全体的な防御戦略において重要な役割を果たすので、パートナーとその顧客を保護するために、一連の必須のセキュリティ要件の適用を開始します。
 
 
-    <span data-ttu-id="38061-108">このチュートリアルでは、パートナーのセキュリティ要件、それらを満たす方法、およびパートナー ディレクトリにおけるユーザーへの影響について詳しく説明します。</span><span class="sxs-lookup"><span data-stu-id="38061-108">Through this tutorial you will learn more about the partner security requirements, how to fulfill them, and the impact to users in your partner directory.</span></span>
-- title: <span data-ttu-id="38061-109">パートナーのセキュリティ要件はどのようなものか</span><span class="sxs-lookup"><span data-stu-id="38061-109">What are the partner security requirements?</span></span>
+    このチュートリアルでは、パートナーのセキュリティ要件、それらを満たす方法、およびパートナー ディレクトリにおけるユーザーへの影響について詳しく説明します。
+- title: パートナーのセキュリティ要件はどのようなものか
   durationInMinutes: 1
   content: >
-    <span data-ttu-id="38061-110">クラウド ソリューション プロバイダー プログラムに参加しているすべてのパートナー、コントロール パネル ベンダー、およびアドバイザー パートナーは、パートナー テナント内の各ユーザーに対して Multi-Factor Authentication (MFA) を適用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="38061-110">All partners who are participating in the Cloud Solution Provider program, Control Panel Vendors, and Advisor partners are required to enforce Multi-Factor Authentication (MFA) for each user in their partner tenant.</span></span> <span data-ttu-id="38061-111">これを行うには、2 つの [Azure Active Directory ベースライン ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)を有効にします。</span><span class="sxs-lookup"><span data-stu-id="38061-111">This can be done by enabling two [Azure Active Directory baseline policies](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span></span> <span data-ttu-id="38061-112">ベースライン ポリシーは、一般的な数々の攻撃から組織を保護するうえで役立つ定義済みポリシー セットです。</span><span class="sxs-lookup"><span data-stu-id="38061-112">Baseline policies are a set of predefined policies that help protect organizations against many common attacks.</span></span> <span data-ttu-id="38061-113">これらの一般的な攻撃には、パスワードのスプレー、リプレイ、フィッシングなどがあります。</span><span class="sxs-lookup"><span data-stu-id="38061-113">These common attacks can include password spray, replay, and phishing.</span></span> <span data-ttu-id="38061-114">ベースライン ポリシーは、Azure Active Directory のすべてのエディションで使用できます。</span><span class="sxs-lookup"><span data-stu-id="38061-114">Baseline policies are available in all editions of Azure Active Directory.</span></span> <span data-ttu-id="38061-115">ID ベースの攻撃がここ数年にわたって増加しているため、Microsoft はこれらのベースライン保護ポリシーをすべてのユーザーが利用できるようにしています。</span><span class="sxs-lookup"><span data-stu-id="38061-115">Microsoft is making these baseline protection policies available to everyone because identity-based attacks have been on the rise over the last few years.</span></span>
+    クラウド ソリューション プロバイダー プログラムに参加しているすべてのパートナー、コントロール パネル ベンダー、およびアドバイザー パートナーは、パートナー テナント内の各ユーザーに対して Multi-Factor Authentication (MFA) を適用する必要があります。 これを行うには、2 つの [Azure Active Directory ベースライン ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)を有効にします。 ベースライン ポリシーは、一般的な数々の攻撃から組織を保護するうえで役立つ定義済みポリシー セットです。 これらの一般的な攻撃には、パスワードのスプレー、リプレイ、フィッシングなどがあります。 ベースライン ポリシーは、Azure Active Directory のすべてのエディションで使用できます。 ID ベースの攻撃がここ数年にわたって増加しているため、Microsoft はこれらのベースライン保護ポリシーをすべてのユーザーが利用できるようにしています。
 
 
-    <span data-ttu-id="38061-116">次の表では、有効にする必要がある 2 つのベースライン ポリシーについて説明します。</span><span class="sxs-lookup"><span data-stu-id="38061-116">The two baseline policies that should be enabled are described in the table below.</span></span>
+    次の表では、有効にする必要がある 2 つのベースライン ポリシーについて説明します。
 
 
-    |<span data-ttu-id="38061-117">**ポリシー**</span><span class="sxs-lookup"><span data-stu-id="38061-117">**Policy**</span></span>| |
+    |**ポリシー**| |
 
     |-----|-----|
 
-    |<span data-ttu-id="38061-118">**管理者に MFA を要求する**</span><span class="sxs-lookup"><span data-stu-id="38061-118">**Require MFA for admins**</span></span>|<span data-ttu-id="38061-119">"管理者に MFA を要求する" ポリシーを有効にすると、管理者ロールのユーザーが、認証アプリを使用して MFA に登録する必要があります。</span><span class="sxs-lookup"><span data-stu-id="38061-119">Enabling the Require MFA for admins policy, will require users in the administrator roles  to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="38061-120">MFA の登録が完了したら、管理者はサインインするたびに MFA を実行する必要があります。</span><span class="sxs-lookup"><span data-stu-id="38061-120">Once MFA registration is complete, administrators will need to perform MFA every time they sign-in.</span></span>|
+    |**管理者に MFA を要求する**|"管理者に MFA を要求する" ポリシーを有効にすると、管理者ロールのユーザーが、認証アプリを使用して MFA に登録する必要があります。 MFA の登録が完了したら、管理者はサインインするたびに MFA を実行する必要があります。|
 
-    |<span data-ttu-id="38061-121">**エンド ユーザーの保護**</span><span class="sxs-lookup"><span data-stu-id="38061-121">**End user protection**</span></span>|<span data-ttu-id="38061-122">エンド ユーザーの保護は、ディレクトリ内のすべてのユーザーを保護する、リスクベースの MFA ベースライン ポリシーです。</span><span class="sxs-lookup"><span data-stu-id="38061-122">End user protection is a risk-based MFA baseline policy that protects all users in a directory.</span></span> <span data-ttu-id="38061-123">このポリシーを有効にすると、すべてのユーザーが認証アプリを使用して MFA に登録する必要があります。</span><span class="sxs-lookup"><span data-stu-id="38061-123">Enabling this policy requires all users to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="38061-124">この MFA 登録プロンプトは 14 日間無視できますが、この期間を過ぎると、MFA に登録するまで、そのユーザーのサインインはブロックされます。</span><span class="sxs-lookup"><span data-stu-id="38061-124">Users can ignore the MFA registration prompt for 14 days, after which they will be blocked from signing in until they register for MFA.</span></span> <span data-ttu-id="38061-125">MFA に登録されると、ユーザーは危険なサインインの試行中にのみ MFA が求められます。</span><span class="sxs-lookup"><span data-stu-id="38061-125">Once registered for MFA, users will be prompted for MFA only during risky sign-in attempts.</span></span> <span data-ttu-id="38061-126">危害を受けたユーザー アカウントについては、パスワードをリセットし、リスク イベントを無視するまでブロックされます。</span><span class="sxs-lookup"><span data-stu-id="38061-126">Compromised user accounts are blocked until their password is reset and risk events have been dismissed.</span></span>|
+    |**エンド ユーザーの保護**|エンド ユーザーの保護は、ディレクトリ内のすべてのユーザーを保護する、リスクベースの MFA ベースライン ポリシーです。 このポリシーを有効にすると、すべてのユーザーが認証アプリを使用して MFA に登録する必要があります。 この MFA 登録プロンプトは 14 日間無視できますが、この期間を過ぎると、MFA に登録するまで、そのユーザーのサインインはブロックされます。 MFA に登録されると、ユーザーは危険なサインインの試行中にのみ MFA が求められます。 危害を受けたユーザー アカウントについては、パスワードをリセットし、リスク イベントを無視するまでブロックされます。|
 
 
-    <span data-ttu-id="38061-127">これらのポリシーを有効にすると、各ユーザーが Azure MFA を追加コストなしで利用できます。</span><span class="sxs-lookup"><span data-stu-id="38061-127">When these policies are enabled, each user will be able to utilize Azure MFA at no additional cost.</span></span> <span data-ttu-id="38061-128">サードパーティ ソリューションを使用している場合は、Microsoft の商用クラウド サービスにアクセスするときに、各ユーザーに MFA を適用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="38061-128">If you are using a third-party solution, then you are required to enforce MFA for each user when accessing Microsoft Commercial cloud services.</span></span>
+    これらのポリシーを有効にすると、各ユーザーが Azure MFA を追加コストなしで利用できます。 サードパーティ ソリューションを使用している場合は、Microsoft の商用クラウド サービスにアクセスするときに、各ユーザーに MFA を適用する必要があります。
 
 
     > [!IMPORTANT]
 
-    > <span data-ttu-id="38061-129">MFA はパートナー ディレクトリ内のすべてのユーザーに適用されるため、ユーザーの資格情報を利用する自動化や統合に影響します。</span><span class="sxs-lookup"><span data-stu-id="38061-129">Since MFA will be enforced for every user in the partner directory, there will be an impact to any automation or integration that utilizes user credentials.</span></span> <span data-ttu-id="38061-130">この影響に対処するには、自動化または統合が Microsoft の商用クラウド サービスに接続する方法を変更する必要があります。</span><span class="sxs-lookup"><span data-stu-id="38061-130">To address this impact you will need to modify the way your automation or integration connects to Microsoft commercial cloud services.</span></span> <span data-ttu-id="38061-131">接続しているサービスでトークン ベースの認証がサポートされている場合は、[セキュリティで保護されたアプリケーション モデル フレームワーク](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)を実装することをお勧めします。</span><span class="sxs-lookup"><span data-stu-id="38061-131">If the service you are connecting to supports token based authentication, then it is recommended that you implement the [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span></span>
-- title: <span data-ttu-id="38061-132">管理者に MFA を要求するベースライン ポリシーを有効にする方法</span><span class="sxs-lookup"><span data-stu-id="38061-132">How do I enable the Require MFA for admins baseline policy?</span></span>
+    > MFA はパートナー ディレクトリ内のすべてのユーザーに適用されるため、ユーザーの資格情報を利用する自動化や統合に影響します。 この影響に対処するには、自動化または統合が Microsoft の商用クラウド サービスに接続する方法を変更する必要があります。 接続しているサービスでトークン ベースの認証がサポートされている場合は、[セキュリティで保護されたアプリケーション モデル フレームワーク](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)を実装することをお勧めします。
+- title: 管理者に MFA を要求するベースライン ポリシーを有効にする方法
   durationInMinutes: 5
-  content: >
-    <span data-ttu-id="38061-133">"*管理者に MFA を要求する*" ベースライン ポリシーでは、最も特権の高い Azure AD ロールと見なされる次のディレクトリ ロール に MFA が必要です。</span><span class="sxs-lookup"><span data-stu-id="38061-133">The *Require MFA for admin* baseline policy requires MFA for the following directory roles, considered to be the most privileged Azure AD roles:</span></span>
-
-
-    - <span data-ttu-id="38061-134">全体管理者</span><span class="sxs-lookup"><span data-stu-id="38061-134">Global administrator</span></span>
-
-    - <span data-ttu-id="38061-135">SharePoint 管理者</span><span class="sxs-lookup"><span data-stu-id="38061-135">SharePoint administrator</span></span>
-
-    - <span data-ttu-id="38061-136">Exchange 管理者</span><span class="sxs-lookup"><span data-stu-id="38061-136">Exchange administrator</span></span>
-
-    - <span data-ttu-id="38061-137">条件付きアクセス管理者</span><span class="sxs-lookup"><span data-stu-id="38061-137">Conditional access administrator</span></span>
-
-    - <span data-ttu-id="38061-138">セキュリティ管理者</span><span class="sxs-lookup"><span data-stu-id="38061-138">Security administrator</span></span>
-
-    - <span data-ttu-id="38061-139">ヘルプデスク管理者/パスワード管理者</span><span class="sxs-lookup"><span data-stu-id="38061-139">Helpdesk administrator / Password administrator</span></span>
-
-    - <span data-ttu-id="38061-140">課金管理者</span><span class="sxs-lookup"><span data-stu-id="38061-140">Billing administrator</span></span>
-
-    - <span data-ttu-id="38061-141">ユーザー管理者</span><span class="sxs-lookup"><span data-stu-id="38061-141">User administrator</span></span>
-
-
-    <span data-ttu-id="38061-142">"管理者に MFA を要求する" ポリシーを有効にするときに、上記の 9 つの管理者ロールは、認証アプリを使用して MFA に登録する必要があります。</span><span class="sxs-lookup"><span data-stu-id="38061-142">Upon enabling the Require MFA for admins policy, the above nine administrator roles will be required to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="38061-143">MFA の登録が完了したら、管理者はサインインするたびに MFA を実行する必要があります。</span><span class="sxs-lookup"><span data-stu-id="38061-143">Once MFA registration is complete, administrators will need to perform MFA every single time they sign-in.</span></span>
-
-
-    <span data-ttu-id="38061-144">ご自身の組織にこれらのアカウントがあり、スクリプトまたはコードで使用されている場合は、それを [マネージド ID](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) に置き換えることを検討してください。</span><span class="sxs-lookup"><span data-stu-id="38061-144">If your organization has these accounts in use in scripts or code, consider replacing them with [managed identities](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span></span>
-
-
-    <span data-ttu-id="38061-145">このポリシーを有効にして管理者を保護するには:</span><span class="sxs-lookup"><span data-stu-id="38061-145">To enable this policy and protect your administrators:</span></span>
-
-
-    1. <span data-ttu-id="38061-146">全体管理者、セキュリティ管理者、または条件付きアクセス管理者として  **Azure portal**  にサインインします。</span><span class="sxs-lookup"><span data-stu-id="38061-146">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
-
-    2. <span data-ttu-id="38061-147">**[Azure Active Directory]** > **[条件付きアクセス]** に移動します。</span><span class="sxs-lookup"><span data-stu-id="38061-147">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
-
-    3. <span data-ttu-id="38061-148">ポリシーの一覧で、**[ベースライン ポリシー: 管理者に MFA を要求する]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="38061-148">In the list of policies, select **Baseline policy: Require MFA for admins**.</span></span>
-
-    4. <span data-ttu-id="38061-149">**[ポリシーを有効にする]** を **[ポリシーをすぐに有効にする]** に設定します。</span><span class="sxs-lookup"><span data-stu-id="38061-149">Set **Enable policy** to **Use policy immediately**.</span></span>
-
-    5. <span data-ttu-id="38061-150"> *\*[保存]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="38061-150">Click **Save**.</span></span>
-
-
-    > [!WARNING]
-
-    > <span data-ttu-id="38061-151">このポリシーを有効にする前に、ユーザーが以前の認証プロトコルを使用していないことを確認してください。</span><span class="sxs-lookup"><span data-stu-id="38061-151">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="38061-152">詳しくは、[方法:条件付きアクセスを使用した Azure AD に対する以前の認証のブロック](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)に関するページをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="38061-152">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
-
-
-    > [!IMPORTANT]
-
-    > <span data-ttu-id="38061-153">MFA が適用されるときに 代理管理者権限を使用して Exchange Online PowerShell に接続する機能に影響する既知の問題があります。</span><span class="sxs-lookup"><span data-stu-id="38061-153">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="38061-154">詳しくは、「[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="38061-154">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
-
-
-    <span data-ttu-id="38061-155">"*管理者に MFA を要求する*" ベースライン ポリシーを有効にすると、上記の管理者ロールのメンバーであるユーザーは、サインイン時に新しいエクスペリエンスを利用できるようになります。</span><span class="sxs-lookup"><span data-stu-id="38061-155">Once you have enable the *Require MFA for admins* baseline policy, users who are a member of the above administrator roles will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="38061-156">次の図は、このポリシーの影響を受けるユーザーのエクスペリエンスを示しています</span><span class="sxs-lookup"><span data-stu-id="38061-156">The following figures are what users impacted by this policy will experience</span></span>
-
-      ![詳細情報のプロンプト](../images/security/baseline-require-more-info.png)
-
-      ![追加のセキュリティ検証](../images/security/baseline-security-verification-setup.png)
-
-      ![モバイル アプリの構成](../images/security/baseline-configure-mobile-app.png)
-
-      ![追加のセキュリティ検証のセットアップが完了](../images/security/baseline-security-verification-setup-completed.png)
-
-      ![追加のセキュリティ検証を確認済み](../images/security/baseline-security-verification-confirmed.png)
-
-    <span data-ttu-id="38061-162">ユーザーが上記の手順を完了すると、アクセスしようとしていた Microsoft クラウド サービスにサインインできるようになります。</span><span class="sxs-lookup"><span data-stu-id="38061-162">After the user has completed the above they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span>
-- title: <span data-ttu-id="38061-163">エンド ユーザー保護ベースライン ポリシーを有効にする方法</span><span class="sxs-lookup"><span data-stu-id="38061-163">How do I enable the End user protection baseline policy?</span></span>
+  content: "\"*管理者に MFA を要求する*\" ベースライン ポリシーでは、最も特権の高い Azure AD ロールと見なされる次のディレクトリ ロール に MFA が必要です。\n\n- 全体管理者\n- SharePoint 管理者\n- Exchange 管理者\n- 条件付きアクセス管理者\n- セキュリティ管理者\n- ヘルプデスク管理者/パスワード管理者\n- 課金管理者\n- ユーザー管理者\n\n\"管理者に MFA を要求する\" ポリシーを有効にするときに、上記の 9 つの管理者ロールは、認証アプリを使用して MFA に登録する必要があります。 MFA の登録が完了したら、管理者はサインインするたびに MFA を実行する必要があります。\n\nご自身の組織にこれらのアカウントがあり、スクリプトまたはコードで使用されている場合は、それを [マネージド ID](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) に置き換えることを検討してください。\n\nこのポリシーを有効にして管理者を保護するには:\n\n1. 全体管理者、セキュリティ管理者、または条件付きアクセス管理者として  **Azure portal**  にサインインします。\n2. **[Azure Active Directory]** > **[条件付きアクセス]** に移動します。\n3. ポリシーの一覧で、**[ベースライン ポリシー: 管理者に MFA を要求する]** を選択します。\n4. **[ポリシーを有効にする]** を **[ポリシーをすぐに有効にする]** に設定します。\n5.  **[保存]** をクリックします。\n\n> [!WARNING]\n> このポリシーを有効にする前に、ユーザーが以前の認証プロトコルを使用していないことを確認してください。 詳しくは、[方法:条件付きアクセスを使用した Azure AD に対する以前の認証のブロック](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)に関するページをご覧ください。\n\n\"*管理者に MFA を要求する*\" ベースライン ポリシーを有効にすると、上記の管理者ロールのメンバーであるユーザーは、サインイン時に新しいエクスペリエンスを利用できるようになります。 次の図は、このポリシーの影響を受けるユーザーのエクスペリエンスを示しています\n\n  ![詳細情報のプロンプト](../images/security/baseline-require-more-info.png)\n\n  ![追加のセキュリティ検証](../images/security/baseline-security-verification-setup.png)\n\n  ![モバイル アプリの構成](../images/security/baseline-configure-mobile-app.png)\n\n  ![追加のセキュリティ検証のセットアップが完了](../images/security/baseline-security-verification-setup-completed.png)\n\n  ![追加のセキュリティ検証を確認済み](../images/security/baseline-security-verification-confirmed.png)\n\nユーザーが上記の手順を完了すると、アクセスしようとしていた Microsoft クラウド サービスにサインインできるようになります。\n"
+- title: エンド ユーザー保護ベースライン ポリシーを有効にする方法
   durationInMinutes: 5
   content: >-
-    <span data-ttu-id="38061-164">エンド ユーザー保護ベースライン ポリシーでは、ディレクトリ内のすべてのユーザーが保護されます。</span><span class="sxs-lookup"><span data-stu-id="38061-164">The End user protection baseline policy protects all users in a directory.</span></span> <span data-ttu-id="38061-165">このポリシーを有効にすると、すべてのユーザーが 14 日以内に Azure MFA に登録する必要があります。</span><span class="sxs-lookup"><span data-stu-id="38061-165">Enabling this policy requires all users to register for Azure MFA within 14 days.</span></span> <span data-ttu-id="38061-166">登録が完了すると、ユーザーは、リスクの高いサインイン試行中にのみ MFA を要求されます。この動作は、今後パートナーのテナントに対して変更されます。</span><span class="sxs-lookup"><span data-stu-id="38061-166">Once registered, users will be prompted for MFA only during risky sign-in attempts, this behavior will change for partner tenants in the future.</span></span> <span data-ttu-id="38061-167">危害を受けたユーザー アカウントについては、パスワードをリセットし、リスクを無視するまでブロックされます。</span><span class="sxs-lookup"><span data-stu-id="38061-167">Compromised user accounts are blocked until password reset and risk dismissal.</span></span>
+    エンド ユーザー保護ベースライン ポリシーでは、ディレクトリ内のすべてのユーザーが保護されます。 このポリシーを有効にすると、すべてのユーザーが 14 日以内に Azure MFA に登録する必要があります。 登録が完了すると、ユーザーは、リスクの高いサインイン試行中にのみ MFA を要求されます。この動作は、今後パートナーのテナントに対して変更されます。 危害を受けたユーザー アカウントについては、パスワードをリセットし、リスクを無視するまでブロックされます。
 
 
-    <span data-ttu-id="38061-168">**[ベースラインポリシー: エンド ユーザーの保護]** ポリシーは事前に構成されており、Azure portal で [条件付きアクセス] ブレードに移動すると上部に表示されます。</span><span class="sxs-lookup"><span data-stu-id="38061-168">The policy **Baseline policy: End user protection** comes pre-configured and will show up at the top when you navigate to the Conditional Access blade in Azure portal.</span></span>
+    **[ベースラインポリシー: エンド ユーザーの保護]** ポリシーは事前に構成されており、Azure portal で [条件付きアクセス] ブレードに移動すると上部に表示されます。
 
 
-    <span data-ttu-id="38061-169">このポリシーを有効にしてユーザーを保護するには:</span><span class="sxs-lookup"><span data-stu-id="38061-169">To enable this policy and protect your users:</span></span>
+    このポリシーを有効にしてユーザーを保護するには:
 
 
-    1. <span data-ttu-id="38061-170">全体管理者、セキュリティ管理者、または条件付きアクセス管理者として  **Azure portal**  にサインインします。</span><span class="sxs-lookup"><span data-stu-id="38061-170">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    1. 全体管理者、セキュリティ管理者、または条件付きアクセス管理者として  **Azure portal**  にサインインします。
 
-    2. <span data-ttu-id="38061-171">**[Azure Active Directory]** > **[条件付きアクセス]** に移動します。</span><span class="sxs-lookup"><span data-stu-id="38061-171">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
+    2. **[Azure Active Directory]** > **[条件付きアクセス]** に移動します。
 
-    3. <span data-ttu-id="38061-172">ポリシーの一覧で、**[ベースライン ポリシー: エンド ユーザーの保護 (プレビュー)]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="38061-172">In the list of policies, select **Baseline policy: End user protection (preview)**.</span></span>
+    3. ポリシーの一覧で、**[ベースライン ポリシー: エンド ユーザーの保護 (プレビュー)]** を選択します。
 
-    4. <span data-ttu-id="38061-173">**[ポリシーを有効にする]** を **[ポリシーをすぐに有効にする]** に設定します。</span><span class="sxs-lookup"><span data-stu-id="38061-173">Set **Enable policy** to **Use policy immediately**.</span></span>
+    4. **[ポリシーを有効にする]** を **[ポリシーをすぐに有効にする]** に設定します。
 
-    5. <span data-ttu-id="38061-174"> *\*[保存]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="38061-174">Click **Save**.</span></span>
+    5.  **[保存]** をクリックします。
 
 
     > [!WARNING]
 
-    > <span data-ttu-id="38061-175">このポリシーを有効にする前に、ユーザーが以前の認証プロトコルを使用していないことを確認してください。</span><span class="sxs-lookup"><span data-stu-id="38061-175">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="38061-176">詳しくは、[方法:条件付きアクセスを使用した Azure AD に対する以前の認証のブロック](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)に関するページをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="38061-176">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > このポリシーを有効にする前に、ユーザーが以前の認証プロトコルを使用していないことを確認してください。 詳しくは、[方法:条件付きアクセスを使用した Azure AD に対する以前の認証のブロック](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)に関するページをご覧ください。
 
 
-    > [!IMPORTANT]
-
-    > <span data-ttu-id="38061-177">MFA が適用されるときに 代理管理者権限を使用して Exchange Online PowerShell に接続する機能に影響する既知の問題があります。</span><span class="sxs-lookup"><span data-stu-id="38061-177">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="38061-178">詳しくは、「[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="38061-178">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
-
-
-    <span data-ttu-id="38061-179">"*エンド ユーザー保護*" ベースライン ポリシーを有効にすると、すべてのユーザーがサインイン時に新しいエクスペリエンスを利用できるようになります。</span><span class="sxs-lookup"><span data-stu-id="38061-179">Once you have enabled the *End user protection* baseline policy, all users will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="38061-180">次の図は、ユーザーのエクスペリエンスを示しています</span><span class="sxs-lookup"><span data-stu-id="38061-180">The following figures are what users will experience</span></span>
+    "*エンド ユーザー保護*" ベースライン ポリシーを有効にすると、すべてのユーザーがサインイン時に新しいエクスペリエンスを利用できるようになります。 次の図は、ユーザーのエクスペリエンスを示しています
 
       ![詳細情報のプロンプト](../images/security/baseline-require-more-info.png)
 
@@ -157,4 +89,4 @@ items:
 
       ![追加のセキュリティ検証を確認済み](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="38061-186">ユーザーが上記の手順を完了すると、アクセスしようとしていた Microsoft クラウド サービスにサインインできるようになります。</span><span class="sxs-lookup"><span data-stu-id="38061-186">After the user has completed the above, they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span> <span data-ttu-id="38061-187">パートナーのセキュリティ要件が適用されるまでは、"*管理者に MFA を要求する*" ベースライン ポリシーの対象になっていないユーザーには、リスクに基づく MFA の入力のみが求められることにご注意ください。</span><span class="sxs-lookup"><span data-stu-id="38061-187">Note until the partner security requirements are enforced, users who are not covered by the *Require MFA for admins* baseline policy will only be prompted for MFA based on risk.</span></span>
+    ユーザーが上記の手順を完了すると、アクセスしようとしていた Microsoft クラウド サービスにサインインできるようになります。 パートナーのセキュリティ要件が適用されるまでは、"*管理者に MFA を要求する*" ベースライン ポリシーの対象になっていないユーザーには、リスクに基づく MFA の入力のみが求められることにご注意ください。
