@@ -1,19 +1,19 @@
 ---
 title: パートナー センターでの課金の種類について | パートナー センター
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 10/04/2019
 Description: さまざまな請求の種類、請求期間、請求日についての情報です
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 請求, 支払い,注文,調整ファイル, recon ファイル
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38ad28fb74968d351d6031e21446f02d22f7e4fa
-ms.sourcegitcommit: ba0b0eea3dbc028ec162f58b841ba9e3588f1dca
-ms.translationtype: HT
+ms.openlocfilehash: 28a5405a033061e5665d0f1e5f937cd3951f09b9
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70134617"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997839"
 ---
 # <a name="understanding-the-types-of-billing-in-partner-center"></a>パートナー センターでの課金の種類について
 
@@ -44,8 +44,8 @@ ms.locfileid: "70134617"
 
 |**請求エクスペリエンス**|**製品の種類**|**請求日**|**請求期間**|**請求通貨**|**現在のアクティビティを利用可能?**|
 |:----------------|:--------------|:--------------|:--------------|:--------------|:--------------|
-|ライセンスベースおよび使用量ベースのサブスクリプションに対する定期的な料金 |[オンライン サービス カタログ](https://partner.microsoft.com/commerce/preferredoffers/list)のすべての製品。 たとえば、Office 365、Microsoft 365、Azure Active Directory、Azure (従量課金制)、Dynamics 365、power Bi Pro |パートナー センター アカウントを作成するときに選択した日付 |請求日の前の月。 |パートナーが所在する国/地域の通貨。 たとえば、会社の所在地が英国の場合、英ポンド (GBP) で請求します。 インドにある会社の場合は、インド ルピー (INR) で請求します。  |X |
-|Microsoft およびサード パーティの ISV 製品の定期的および 1 回限りの料金 |Microsoft およびサード パーティの ISV から提供されるすべての SaaS サブスクリプション、Azure Reservations、ソフトウェア (永続的とサブスクリプション ベース)。 利用可能な製品については、[Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any) をご覧ください。 たとえば、SUSE Linux ソフトウェア (ソフトウェア サブスクリプション)、Windows Server 2019 Essentials (永続的ソフトウェア)、Azure ISV SaaS 製品サブスクリプションなど。 |毎月 8 日 |各カレンダー月の最初の日から最後の日まで |顧客が所在する国/地域の通貨。 つまり、請求期間に販売した各顧客の国/地域の通貨で個別に請求書と調整ファイルを受け取ります。 |〇 |
+|ライセンスベースおよび使用量ベースのサブスクリプションに対する定期的な料金 |[オンライン サービス カタログ](https://partner.microsoft.com/commerce/preferredoffers/list)のすべての製品。 たとえば、Office 365、Microsoft 365、Azure Active Directory、Azure (従量課金制)、Dynamics 365、power Bi Pro |パートナー センター アカウントを作成するときに選択した日付 |請求日の前の月。 |パートナーが所在する国/地域の通貨。 たとえば、会社の所在地が英国の場合、英ポンド (GBP) で請求します。 インドにある会社の場合は、インド ルピー (INR) で請求します。  |必須ではない |
+|Microsoft およびサード パーティの ISV 製品の定期的および 1 回限りの料金 |Microsoft およびサード パーティの ISV から提供されるすべての SaaS サブスクリプション、Azure Reservations、ソフトウェア (永続的とサブスクリプション ベース)。 利用可能な製品については、[Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any) をご覧ください。 たとえば、SUSE Linux ソフトウェア (ソフトウェア サブスクリプション)、Windows Server 2019 Essentials (永続的ソフトウェア)、Azure ISV SaaS 製品サブスクリプションなど。 |毎月 8 日 |各カレンダー月の最初の日から最後の日まで |顧客が所在する国/地域の通貨。 つまり、請求期間に販売した各顧客の国/地域の通貨で個別に請求書と調整ファイルを受け取ります。 |[はい] |
 
 ## <a name="billing-scenarios-for-one-time-and-recurring-purchases"></a>1 回限りの定期的な購入の課金シナリオ
 ### <a name="scenario-1--purchase-a-subscription-and-then-add-a-seat-on-the-same-day"></a>シナリオ 1 – サブスクリプションを購入し、同じ日にシートを追加する
@@ -160,3 +160,23 @@ ms.locfileid: "70134617"
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
 |2019/6/10 (1 ライセンスを所有) |ブロンズ     |2019/6/10   |2019/6/10         |$10        |1         |$10            |新規      |
 |2019/6/10 (0 ライセンスを所有) |ブロンズ    | 2019/6/10    |2019/6/10        |$10        |1       | $-10       |CancelImmediate  |
+
+## <a name="billing-under-the-azure-plan"></a>Azure プランでの課金
+
+- **請求日**: 請求書と調整ファイルは、パートナーセンターのダッシュボード/API で8番目 (UTC の午前0時) まで使用できるようになります。
+
+- **請求書**の請求期間: 請求書の請求期間は、10/1-10/31、11/1-11/30 など、カレンダーの月に合わせて調整されます。
+
+- **サービス期間の請求**: 料金はカレンダーの月に合わせて調整されます。 たとえば、請求先パートナーが10/15 の Azure プランを通じて azure サービスを追加し、お客様が10/15 で Azure サービスの使用を開始した場合、請求先のパートナーは、サービス期間 10/15-10/31 のお客様の使用量に対して、11/8 に対して請求書/recon を受け取ります。 12/8 に生成される翌月の請求書には、サービス期間 11/1-11/31 のすべての料金が含まれています。
+
+- **請求書支払い条件**: Net 60 日。
+
+- **請求書の通貨**: パートナーは、お客様の country's に割り当てられた通貨で引き続き課金されます。 たとえば、請求先パートナーが、英国、ノルウェー、およびドイツの顧客とアイルランドにいる場合、課金対象のパートナーは GBP、NOK、および EUR invoice/recon を受け取ります。
+
+- **パートナーインセンティブ**: 請求月の最後から45日が支払われます。
+
+Azure プランの詳細については、以下を参照してください。
+
+- [Azure プラン-概要](azure-plan-get-started.md)
+
+- [Azure プラン-課金](azure-plan-billing.md)

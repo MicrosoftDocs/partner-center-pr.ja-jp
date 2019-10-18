@@ -1,5 +1,5 @@
 ---
-title: 調整ファイルの使用 | パートナー センター
+title: 調整ファイルを使う | パートナー センター
 ms.topic: article
 ms.date: 07/08/2019
 description: 請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターから調整ファイルをダウンロードします。
@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fae84790aa84b3c5a006d65a632668a33ac24a7
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
+ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820567"
+ms.lasthandoff: 10/03/2019
+ms.locfileid: "71931578"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -26,16 +26,16 @@ ms.locfileid: "68820567"
 
 ## <a name="formatting-issues"></a>書式設定の問題
 
-調整ファイルに書式設定の問題が発生する場合があります。 (これは、たとえば、EN-US ロケールが使用されていない場合に発生することがあります。)これらの問題を修正するには、次の手順に従います。 
+調整ファイルに書式設定の問題が発生する場合があります。 (たとえば、EN-US ロケールが使用されていない場合に発生する可能性があります)。これらの問題を解決するには、次の手順に従います。 
 
 <ol>
 <li>Excel で .csv ファイルを開き、最初の列を選択します。 リボンで <strong>[データ]</strong> を選択し、<strong>[区切り位置]</strong> を選択します。</li>
 
 <li>区切り位置指定ウィザードで、<strong>[Delimited file type]\(区切られたファイルの種類\)</strong> を選択し、<strong>[次へ]</strong> を選択します。</li> 
 
-<li>[区切り文字] フィールドで、<strong>[コンマ]</strong> を選択します。 <strong>[タブ]</strong> が既に選択されている場合は、そのままで構いません。 <strong>[次へ]</strong> を選択します。</li>
+<li>[区切り文字] フィールドで、<strong>[コンマ]</strong> を選択します。 <strong>[タブ]</strong> が既に選択されている場合は、そのままで構いません。 <strong>[次へ]</strong> を選びます。</li>
 
-<li>[列のデータ形式] フィールドで、<strong>日付:MDY</strong> を選択し、<strong>[次へ]</strong> を選択します。</li> 
+<li>[列のデータ形式] フィールドで、[ <strong>Date: MDY</strong>] を選択し、[<strong>次へ</strong>] を選択します。</li> 
 
 <li>[列のデータ形式] フィールドで、すべての金額の列で <strong>[テキスト]</strong> を選択し、<strong>[完了]</strong> を選択します。</li>
 </ol>
@@ -93,7 +93,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>[説明]</strong></td>
+<td><strong>説明</strong></td>
 <td><strong>サンプル値</strong></td>
 </tr>
 <tr class="even">
@@ -108,7 +108,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Microsoft 請求プラットフォームでの注文の一意の識別子。 サポートに問い合わせる際に、注文の識別に有効な場合がありますが、調整には有用ではありません。</p></td>
+<td><p>Microsoft 課金プラットフォームでの注文の一意の識別子。 サポートに問い合わせる際に、注文の識別に有効な場合がありますが、調整には有用ではありません。</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
@@ -126,18 +126,18 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <tr class="odd">
 <td>OfferID</td>
 <td><p>一意のプラン ID。 価格表に従った標準のプラン ID。</p>
-<p><b>注意</b>:この値は、価格表のプラン ID とは一致しません。 以下の DurableOfferID を参照してください。</p></td>
+<p><b>注</b>: この値は、価格表のプラン ID とは一致しません。 以下の DurableOfferID を参照してください。</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
 <td><p>価格表で定義されている一意の継続的なプラン ID。</p>
-<p><b>注意</b>:この値は価格表のプラン ID と一致します。</p></td>
+<p><b>注</b>: この値は価格表のプラン ID と一致します。</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
 <td>OfferName</td>
-<td><p>価格表で定義されている、顧客が購入したサービス プランの名前。</p></td>
+<td><p>価格表で定義されている、顧客が購入したサービス プランの名前</p></td>
 <td>Microsoft Office 365 (プラン E3)</td>
 </tr>
 <tr class="even">
@@ -148,7 +148,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>サブスクリプション終了日:開始日から 12 か月 + x 日後 (パートナーの請求日と合わせる) または更新日から 12 か月。</p>
+<td><p>サブスクリプション終了日: 開始日から 12 か月 + x 日後 (パートナーの請求日と合わせる) または更新日から 12 か月</p>
 <p>更新時に、価格は最新の価格表に更新されます。 自動更新の前に、顧客とのやり取りが必要になる場合があります。</p>
 <p>時刻は常に、その日の始まりの時刻 (0:00) になります。</p></td>
 <td>2/1/2015 0:00</td>
@@ -183,7 +183,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <td>2</td>
 </tr>
 <tr class="odd">
-<td>金額</td>
+<td>Amount</td>
 <td><p>数量に対する合計価格。 金額の計算が、この顧客用の計算方法に一致することを確認するために役立ちます。</p></td>
 <td>13.32</td>
 </tr>
@@ -208,7 +208,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <td>11</td>
 </tr>
 <tr class="even">
-<td>通貨</td>
+<td>Currency</td>
 <td><p>通貨の種類。 各課金エンティティの通貨は 1 つのみです。 最初の請求書と一致し、その後で、主要な課金プラットフォームの更新と一致することを確認します。</p></td>
 <td>EUR</td>
 </tr>
@@ -239,7 +239,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </tr>
 <tr class="even">
 <td>SubscriptionDescription</td>
-<td><p>価格表で定義されている、顧客が購入したサービス プランの名前。 (これはプラン名と同一のフィールドです)。</p></td>
+<td><p>価格表で定義されている、顧客が購入したサービス プランの名前 (これはプラン名と同一のフィールドです)。</p></td>
 <td>PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT</td>
 </tr>
 </tbody>
@@ -262,7 +262,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>[説明]</strong></td>
+<td><strong>説明</strong></td>
 <td><strong>サンプル値</strong></td>
 </tr>
 <tr class="even">
@@ -330,7 +330,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Microsoft 請求プラットフォームでの注文の一意の識別子。 サポートに問い合わせる際に、サブスクリプションの識別に有効な場合がありますが、調整には有用ではありません。</p></td>
+<td><p>Microsoft 課金プラットフォームでの注文の一意の識別子。 サポートに問い合わせる際に、サブスクリプションの識別に有効な場合がありますが、調整には有用ではありません。</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
@@ -365,7 +365,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <td>Asia Pacific、Europe、Latin America、North America</td>
 </tr>
 <tr class="even">
-<td>SKU (SKU)</td>
+<td>SKU</td>
 <td><p>プランについての MSFT の一意の識別子</p></td>
 <td>7UD 00001</td>
 </tr>
@@ -412,7 +412,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <td>$0.93</td>
 </tr>
 <tr class="odd">
-<td>通貨</td>
+<td>Currency</td>
 <td><p>通貨の種類。 各課金エンティティの通貨は 1 つのみです。 最初の請求書と一致し、その後で、主要な課金プラットフォームの更新と一致することを確認します。</p></td>
 <td>EUR</td>
 </tr>
@@ -444,7 +444,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <tr class="odd">
 <td>MeteredRegion</td>
 <td><p>この列は、これが該当し、設定されている場合に、サービスの領域内でのデータ センターの場所を識別します。</p></td>
-<td>East Asia, South East Asia, North Europe, West Europe, North Central US, South Central US</td>
+<td>East Asia、South East Asia、North Europe、West Europe、North Central US、South Central US</td>
 </tr>
 <tr class="even">
 <td>MeteredService</td>
@@ -457,14 +457,14 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <td>EXTERNAL</td>
 </tr>
 <tr class="even">
-<td>Project</td>
+<td>プロジェクト</td>
 <td><p>サービス インスタンスの顧客定義の名前</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>特定の日にプロビジョニングされ、利用された ServiceBus 接続の数。</p></td>
-<td>例: 1 か月 30 日間の中に、個別にプロビジョニングされた接続がある場合、Service Info 1 は "1.000000 Connections / 30 days" と表示されます。 プロビジョニングされた ServiceBus 接続が 25 パックあり、その日のうちに 1 つを利用した場合、その日の 1 日の使用量の計算書には、"25 Connections / 30 Days – Used:1.000000" と表示されます。</td>
+<td>例: 1 か月 30 日間の中に、個別にプロビジョニングされた接続がある場合、Service Info 1 は "1.000000 Connections / 30 days" と表示されます。 プロビジョニングされた ServiceBus 接続が 25 パックあり、その日に 1 つを利用した場合、その日の 1 日の使用量の計算書には、"25 Connections / 30 Days – Used: 1.000000" と表示されます。</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -477,7 +477,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
-<td>ユニット</td>
+<td>Unit</td>
 <td><p>リソース名の単位</p></td>
 <td>GB または HOURS</td>
 </tr>
@@ -493,12 +493,11 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>[列]</th>
+<th>Column</th>
 <th>説明</th>
 </tr>
 </thead>
 <tbody>
-
 
 <tr class="odd">
 <td>PartnerId</td>
@@ -517,7 +516,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 
 <tr class="even">
 <td>CustomerDomainName</td>
-<td><p>顧客のドメイン名。顧客を特定するために使用します。 顧客/パートナーは O365 ポータルからバニティ/既定のドメインを更新できるため、顧客を一意に識別するためにこれを使用しないでください。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
+<td><p>顧客のドメイン名。顧客を特定できるようにするために使用されます。 顧客/パートナーは O365 ポータルからバニティ/既定のドメインを更新できるため、顧客を一意に識別するためにこれを使用しないでください。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。</p></td>
 </tr>
 
 <tr class="odd">
@@ -541,7 +540,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </tr>
 
 <tr class="odd">
-<td>Order ID</td>
+<td>注文 ID</td>
 <td><p>Microsoft コマース プラットフォームでの注文に対する一意の識別子。 サポートに問い合わせる際に、注文の識別に有効な場合がありますが、調整には有用ではありません。</p></td>
 </tr>
 
@@ -571,7 +570,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </tr>
 
 <tr class="odd">
-<td>[製品名]</td>
+<td>製品名</td>
 <td><p>製品の名前。</p></td>
 </tr>
 
@@ -656,7 +655,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </tr>
 
 <tr class="even">
-<td>通貨</td>
+<td>Currency</td>
 <td><p>通貨の種類。 各課金エンティティの通貨は 1 つのみです。 最初の請求書と一致し、その後で、主要な課金プラットフォームの更新と一致することを確認します。</p></td>
 </tr>
 
@@ -664,6 +663,12 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <td>AlternateID</td>
 <td><p>注文 ID の代替識別子。</p></td>
 </tr>
+
+<tr class="even">
+<td>Ic 周波数</td>
+<td><p> 毎月の課金が有効になると、毎月表示されます。 それ以外の場合は空白です。 </p></td>
+</tr>
+
 </tbody>
 </table>
 
@@ -678,7 +683,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>[列]</th>
+<th>Column</th>
 <th>説明</th>
 </tr>
 </thead>
@@ -761,7 +766,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 
 <tr class=”even">
 <td>Subscription Description</td>
-<td><p>価格表で定義されている、顧客が購入したサービス プランの名前。 (これはプラン名と同一のフィールドです)。</p></td>
+<td><p>価格表で定義されている、顧客が購入したサービス プランの名前 (これはプラン名と同一のフィールドです)。</p></td>
 </tr>
 
 <tr class="odd">
@@ -815,7 +820,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </tr>
 
 <tr class="odd">
-<td>ユニット</td>
+<td>Unit</td>
 <td><p>リソース名の単位。</p></td>
 </tr>
 
@@ -936,7 +941,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <p>購入したサブスクリプションを顧客が使用したときに顧客に課金される金額</p>
 </td>
 <td rowspan="10">
-<p>ライセンスベースのファイルから、<strong>Amount</strong> 列を合計する</p>
+<p>ライセンス ベースのファイルから、<strong>Amount</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
@@ -1021,7 +1026,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 
 </td>
 <td>
-<p>新規作成</p>
+<p>新規</p>
 </td>
 <td>
 <p>新しい購入が作成されたときに使用されます</p>
@@ -1042,7 +1047,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </tr>
 <tr>
 <td>
-<p>remov</p>
+<p>removeQuantity</p>
 </td>
 <td>
 <p>元の購入の返金と、減少後の新しい数量の両方で使用されます。</p>
@@ -1052,7 +1057,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </tr>
 <tr>
 <td>
-<p>キャンセル</p>
+<p>[キャンセル]</p>
 </td>
 <td>
 <p>サブスクリプションが取り消されたときに使用されます</p>
@@ -1103,7 +1108,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <p>税金を含む、行項目への一部または全部の払戻し</p>
 </td>
 <td>
-<p>ライセンスベースのファイルから、<strong>TotalForCustomer</strong> 列を合計する</p>
+<p>ライセンス ベースのファイルから、<strong>TotalForCustomer</strong> 列を合計する</p>
 <p>使用量ベースのファイルから、<strong>PostTaxTotal</strong> 列を合計する</p>
 </td>
 </tr>
@@ -1159,7 +1164,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <p></p>
 </td>
 <td>
-<p>ライセンスベースのファイルから、<strong>TotalOtherDiscount</strong> 列を合計する</p>
+<p>ライセンス ベースのファイルから、<strong>TotalOtherDiscount</strong> 列を合計する</p>
 </td>
 </tr>
 <tr>
@@ -1168,13 +1173,13 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </td>
 <td>
 <p><em>複数の種類の料金に適用される場合がある</em></p>
-<p><em>例外:&quot;Offset a line item&quot; には既に税が含まれています。上記の「クレジット」を参照してください。</em></p>
+<p><em>例外 &quot;Offset: 行項目 &quot; には、既に税が含まれています。上記のクレジットを参照してください。</em></p>
 </td>
 <td>
 <p>税または付加価値税 (VAT)</p>
 </td>
 <td>
-<p>ライセンスベースのファイルから、<strong>Tax</strong> 列を合計する</p>
+<p>ライセンス ベースのファイルから、<strong>Tax</strong> 列を合計する</p>
 <p>使用量ベースのファイルから、<strong>TaxAmount</strong> 列を合計する</p>
 </td>
 </tr>

@@ -1,26 +1,26 @@
 ---
-title: パートナー センター アカウントに Microsoft 学習 MCP ID を関連付ける |パートナー センター
+title: Microsoft Learn の MCP ID をパートナーセンターアカウントに関連付ける |パートナーセンター
 ms.topic: article
-ms.date: 07/08/2019
-description: パートナー センター アカウントが指定されたときに、MCP ID を関連付けることによって、プロファイルを更新する必要があります。
+ms.date: 10/04/2019
+description: パートナーセンターでアカウントを指定した場合は、MCP ID を関連付けることで、プロファイルを更新する必要があります。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: ロール、アクセス許可を追加、ユーザー、役割の割り当て、管理エージェント、MCP ID、Microsoft の学習
+Keywords: ロール、アクセス許可、ユーザーの追加、ロールの割り当て、管理、エージェント、MCP ID、Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: e3e339e5d19e7abacce2993f1bf11602774c9b9c
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: HT
+ms.openlocfilehash: 46f0efc83736d80265620304cf9b07e63d8b5213
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67675332"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997748"
 ---
-## <a name="associate-your-microsoft-learn-account-in-partner-center"></a>パートナー センターで、学習の Microsoft アカウントを関連付けます
+# <a name="associate-your-microsoft-learn-account-in-partner-center"></a>パートナーセンターで Microsoft Learn アカウントを関連付ける
 
-取得したコンピテンシーに対するトレーニングとラーニング パスを表示することができる、会社の順序で、MCP ID、パートナー センター アカウントを関連付ける必要があります。 これを行う手動でパートナー センターのユーザーとして追加した後。
+コンピテンシーに対して行ったトレーニングとラーニングのパスを会社で確認できるようにするには、MCP ID をパートナーセンターアカウントに関連付ける必要があります。 この操作は、パートナーセンターのユーザーとして追加した後に手動で行います。
 
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>パートナー センター アカウントに、MCP ID に関連付ける方法
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>お客様の MCP ID をパートナーセンターアカウントに関連付ける方法
 
-1. パートナー センター ダッシュ ボードから選択、**アカウント**アイコンをクリックして、ダッシュ ボードの右上隅にある**プロフィール**します。
+1. パートナー センター ダッシュボードで、ダッシュボードの右上隅にある **[アカウント]** アイコンを選択し、 **[My profile]\(プロファイル\)** を選択します。
 
-2. **学習**Microsoft Learning アカウントを関連付けるし、パートナー大学にも、Microsoft アカウントを接続することができます。
+2. **[Your learning]\(ラーニング\)** では、お客様の Microsoft Learning アカウントを関連付けることができます。また、Microsoft アカウントを Partner University に接続することもできます。

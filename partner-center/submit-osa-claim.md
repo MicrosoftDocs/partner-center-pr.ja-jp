@@ -9,7 +9,7 @@ keywords: インセンティブ要求, 協力要求, 協力金, OSA, ISV, 収益
 ms.localizationpriority: medium
 ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
 ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/16/2019
 ms.locfileid: "72425175"
@@ -26,7 +26,7 @@ OSA パートナーまたは Dynamics ISV は、パートナー センターで�
 -   **Microsoft Partner Network に登録されていて**、アクティブな MPN 契約を結んでいる。 Microsoft Partner Network に登録するには、パートナー サイトにアクセスしてください。 
 -   **認定された Microsoft Dynamics ソフトウェア アドバイザー**であり、アクティブな Microsoft Dynamics 認定ソフトウェア アドバイザー契約 (CSA) を結んでいる。 
 -   **銀行と税の情報**がパートナー センターに入力されている。 
--   **OSA 販売適格性認定と収益要件を満たしている**。 (詳細は、aka.ms/partnerincentives の OSA セクションにある OSA 販売ガイドを参照。)これは、収益関連のみを希望する ISV には適用されません。 
+-   **OSA 販売適格性認定と収益要件を満たしている**。 (詳細については、aka.ms/partnerincentives の OSA のセクションにある OSA 販売ガイドを参照してください)。これは、Isv による収益の関連付けのみには適用されません。 
 
 ## <a name="submitting-your-claim"></a>要求の送信
 

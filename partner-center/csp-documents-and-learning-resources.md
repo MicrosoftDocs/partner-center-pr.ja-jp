@@ -1,19 +1,19 @@
 ---
 title: CSP 契約、価格表、およびキャンペーン | パートナー センター
 ms.topic: article
-ms.date: 08/29/2019
+ms.date: 09/23/2019
 description: この記事では、クラウド ソリューション プロバイダーのプログラム ガイド、パートナー契約、顧客契約、料金表、提供できる製品とサービスへのリンクを示します。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
+ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259915"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "71204633"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、プラン
 
@@ -33,6 +33,10 @@ ms.locfileid: "70259915"
 
 >[!Note]
 >クラウド ソリューション プロバイダー プログラムでの承認済み Microsoft パートナーとしての状態を確認または認定するビジネス レターが必要な場合は、[サポートに問い合わせて](https://partner.microsoft.com/pcv/servicerequests/create)要求してください。
+
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Microsoft パートナー契約への追加プラン条項
+
+[オンラインサービスのサブスクリプションとソフトウェアチャネル承認に関する補足条項ガイド](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 契約顧客用テンプレート
 
@@ -57,13 +61,13 @@ ms.locfileid: "70259915"
 
 ライセンス ベースの価格表は毎月更新され、新しい価格は、有効になる 30 日前に発表されます。 ライセンスベースのサービスには、たとえば Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM があります。 
 
-使用量ベースの価格は変動的であり、頻繁に変更されています。 使用量ベースのサービスには、たとえば Microsoft Azure があります。
+使用量ベースの価格は動的であり、頻繁に変更されます。 使用量ベースのサービスには、たとえば Microsoft Azure があります。
 
 1 回限りの購入価格も変動的です。 1 回限りの購入の例としては、Windows Server および SQL ソフトウェアに対する Microsoft Azure Reservations と対応するサブスクリプションなどがあります。
 
 Azure Marketplace のプランに関する価格情報については、パートナー センターの左側のナビゲーション メニューで **[Marketplace]** に移動してください。 発行元、SKU、価格に関する情報を見る製品を選択します。 Azure Marketplace の製品の価格は、頻繁に変わることがあります。 すべての Marketplace 製品の現在の価格情報を取得するには、 **[価格表のエクスポート]** を選択して、すべての価格データを含むスプレッドシートを生成します。 この情報は毎日更新されるので、ときどきチェックしてください。
 
-## <a name="offers"></a>サービスおよび製品
+## <a name="offers"></a>サービス
 
 CSP のパートナーは、Office 365、Enterprise Mobility Suite、Microsoft Dynamics、Microsoft Azure など、さまざまな Microsoft 製品、サービス、ソリューションを販売できます。 これらの製品ファミリで販売可能なプランについて詳しくは、**パートナー センター** メニューから **[料金とプラン]** ページにアクセスして、CSP のプランのマトリックスをご覧ください。 このドキュメントは毎月更新されます。
 

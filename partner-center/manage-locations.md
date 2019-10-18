@@ -7,14 +7,14 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: パートナー アカウント, 場所
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e6d5b2e4d314cc852c1c52ba4561b39bf6faa94
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 16b0649ec68aa4915a6aa3ad59b260cadfc63012
+ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134432"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "72171221"
 ---
-# <a name="manage-your-partner-account-locations"></a>パートナー アカウントを管理する: 場所
+# <a name="manage-your-partner-account-locations"></a>パートナーアカウントの管理: 場所
 
 場所 MPN ID では、パートナー企業の特定の場所が示されます。 場所 MPN ID を使用して、インセンティブ プログラムに登録し、クラウド ソリューション プロバイダー (CSP) ビジネスの取引を行い、新しいサブスクリプションを追加し、他のビジネス トランザクションを行います。 会社 MPN ID は、サポート要求などの非トランザクション アクティビティに使用されます。
 
@@ -36,5 +36,19 @@ ms.locfileid: "62134432"
 
 4. **[Add a location]\(場所の追加\)** ページで、会社に追加する場所の住所の詳細と、その場所の主要な連絡先を挿入します。
 
-注:パートナー センターで追加した場所は削除できません。
+注: パートナーセンターで場所を追加すると、その場所を削除することはできません。
+
+**法務本社の所在地を変更する**
+
+1. **[場所]** ページで、場所の一覧を確認して、目的の場所が表示されていることを確認します。 ない場合は、追加します。
+
+![勤務先の更新](images/updatepartnerprofile2.png)
+
+2. **[パートナープロファイル]** を選択し、 **[法的ビジネスプロファイルの更新]** を選択します。
+
+![勤務先の更新](images/updatepartnerprofile1.png)
+
+3. 地域と法人を選択して**送信**します。
+
+![勤務先の更新](images/updatepartnerprofile3.png)
 

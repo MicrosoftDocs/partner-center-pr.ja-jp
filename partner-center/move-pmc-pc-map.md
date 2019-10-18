@@ -7,18 +7,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259928"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921475"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC からパートナー センターに移動する
 
 Microsoft では、エンゲージメントの集中ポイントとして機能する単一の Web サイト (パートナー センター) を導入することで、パートナーがビジネスを行いやすいようにしています。 Partner Membership Center (PMC) で行っていたことはすべて、パートナー センターのダッシュボードから実行できます。 
 
-また、1 つの Web サイトを離れることなく、はるかに多くのことを実現できます。 ただし、一部の用語や機能は異なる場合があります。 どこで何があるかについての最初の懸念を軽減するには、ダッシュボードのサイト ツアーをご覧ください。
+また、1 つの Web サイトを離れることなく、はるかに多くのことを実現できます。 ただし、一部の用語や機能は異なる場合があります。 どこで何があるかに関する最初の懸念事項を軽減するには、ダッシュボードのサイトツアーを必ず実行してください。
 
 次の表では、PMC とパートナー センターの相違点の一部を示します。
 
@@ -34,7 +34,7 @@ Microsoft では、エンゲージメントの集中ポイントとして機能�
 |----------------------|:-----------------------------|
 |本社と場所 – それぞれ個別に評価されます。 コンピテンシーの評価はローカル レベルで行われました|1 つのグローバル企業、パートナー グローバル アカウント (PGA) (場所を含む) が、全体として評価されます。パフォーマンスとスキルのデータは、PGA レベルで集計されます。紹介とマーケティング用のパートナー プロファイルやビジネス プロファイルなどのプログラムに対する複数のプロファイル ビューが含まれます。詳細については、「[パートナー センターのアカウント構造](https://docs.microsoft.com/partner-center/account-structure.md)」を参照してください。|
 
-## <a name="sign-in"></a>サインイン
+## <a name="sign-in"></a>[サインイン]
 
 |**PMC**   |**パートナー センター**|
 |----------------------|:-----------------------------|
