@@ -1,49 +1,42 @@
 ---
-title: 新規購入または更新、特典プラン |パートナー センター
+title: 特典オファーを購入または更新する | パートナー センター
 ms.topic: article
-ms.date: 04/25/2019
+ms.date: 09/25/2019
 description: Microsoft Action Pack を初めて購入する方法または更新する方法を説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Action Pack、MAPS、MAPS の更新、Action Pack の更新、Action Pack の購入
-ms.localizationpriority: medium
-ms.openlocfilehash: cb30847f6ce5697bfd545c6b13cd0641aab66fba
-ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
+ms.localizationpriority: high
+ms.openlocfilehash: c4e1f58bd703c1809f1d315a8cc2d8c61fee8fa3
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "67407876"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318854"
 ---
-# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>最初に購入またはマイクロソフト アクション パック サブスクリプションまたは silver または gold コンピテンシーを更新します。
+# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Microsoft Action Pack サブスクリプションを初めて購入する、または Silver コンピテンシーまたは Gold コンピテンシーを更新する
 
 **適用対象**
 
 -  パートナー センター
 -  Partner Membership Center
 
-ここで、パートナー センター ダッシュ ボードからには、購入またはマイクロソフト アクション パック サブスクリプションと silver および gold コンピテンシーを含む、特典プランを更新することができます。 
-
-Action Pack は、クラウドファースト、モバイルファーストの世界でマイクロソフト プラクティスの拡大を図ろうとしている企業向けに、ソフトウェア、サポート、特典を提供します。 Action Pack を購入すると、次のような内容を提供する、信頼性の高いソフトウェア セットを活用できます。 
-
-- 顧客のニーズに自信を持って対応できる、専用サポート 
-- すぐに使えるキャンペーンとガイダンスを提供するマーケティング リソース 
-- 包括的なインサイトとビジネス プランニング ツール 
-- クラウドに重点を置いたトレーニング 
-
-Action Pack について詳しくは、[Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) サイトをご覧ください。
-
-なる、[コンピテンシー パートナー](https://partner.microsoft.com/membership/competencies)します。 
+パートナー センター ダッシュボードから、Microsoft Action Pack サブスクリプション、Silver コンピテンシー、および Gold コンピテンシーを含む特典オファーを購入または更新できるようになりました。 
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>初めて Microsoft Action Pack を購入する
 
-初めてマイクロソフトのパートナーになる場合は、Microsoft Partner Network への参加が最初のステップです。 Partner Network のメンバーでない場合、Partner Network サイトの[メンバーシップ ページ](https://partner.microsoft.com/membership)にアクセスして、サインアップの準備ができたら、 **[今すぐ登録する]** を選択します。 
+初めてマイクロソフトのパートナーになる場合は、Microsoft Partner Network への参加が最初のステップです。 Partner Network のメンバーでない場合、Partner Network サイトの[メンバーシップ ページ](https://partner.microsoft.com/membership)にアクセスし、サインアップの準備ができたら、 **[今すぐ参加]** を選択します。 
 
-Partner Network に参加したら、[Partner Network サイトの手順](https://partner.microsoft.com/membership/action-pack)に従って、Action Pack サブスクリプションを購入します。 
+Partner Network に参加できたら、[Partner Network サイトの手順](https://partner.microsoft.com/membership/action-pack)に従って (サインインする必要があります)、最初の Action Pack サブスクリプションを購入します。 
+
+Action Pack について詳しくは、[Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) サイトをご覧ください。
+
+[コンピテンシー パートナー](https://partner.microsoft.com/membership/competencies)になってください。 
 
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを更新する
 
 >[!IMPORTANT]
->パートナー センターのこのサイトに、Action Pack サブスクリプションを管理するようになりました。 
+>Action Pack サブスクリプションは、パートナー センター (このサイト) で管理するようになりました。 
 
 ### <a name="check-your-renewal-eligibility"></a>更新資格の確認
 
@@ -63,7 +56,7 @@ Partner Network に参加したら、[Partner Network サイトの手順](https:
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>パートナー センターで Microsoft Action Pack サブスクリプションを更新する方法
 
-1. 移動して、 [**メンバーシップ提供**](https://partnercenter.microsoft.com/pcv/partnership/offers)ページ。 **[Microsoft Action Pack サブスクリプション]** タイルを探します。  
+1. [ **[メンバーシップの提供]** ](https://partnercenter.microsoft.com/pcv/partnership/offers) ページに移動します。 **[Microsoft Action Pack サブスクリプション]** タイルを探します。  
 
 2. **[サブスクリプションの更新]** を選び、お支払い方法を選びます。 お支払いにはクレジット カードまたは電信振替を使用できます。
 
@@ -81,7 +74,7 @@ Partner Network に参加したら、[Partner Network サイトの手順](https:
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack サブスクリプションの自動更新を無効にする
 
-1. 移動して、 [**メンバーシップ提供**](https://partnercenter.microsoft.com/pcv/partnership/offers)ページ。  **[Microsoft Action Pack サブスクリプション]** を選んで、サブスクリプションの詳細を表示します。 
+1. [ **[メンバーシップの提供]** ](https://partnercenter.microsoft.com/pcv/partnership/offers) ページに移動します。  **[Microsoft Action Pack サブスクリプション]** を選んで、サブスクリプションの詳細を表示します。 
 
 2. Action Pack サブスクリプションを毎年自動的に更新しない場合は、 **[自動更新を無効にする]** を選びます。 
 
@@ -93,7 +86,7 @@ Partner Network に参加したら、[Partner Network サイトの手順](https:
 
 Microsoft Action Pack サブスクリプションを取り消すには、パートナー サポートへのご連絡が必要になる場合があります。
 
-1. 移動して、 [**メンバーシップ提供**](https://partnercenter.microsoft.com/pcv/partnership/offers)ページ。 **[Microsoft Action Pack サブスクリプション]** を選んで、サブスクリプションの詳細を表示します。 
+1. [ **[メンバーシップの提供]** ](https://partnercenter.microsoft.com/pcv/partnership/offers) ページに移動します。 **[Microsoft Action Pack サブスクリプション]** を選んで、サブスクリプションの詳細を表示します。 
 
 3. **[サブスクリプションのキャンセル]** を選びます。 サポート要求を作成するための手順に従います。 
 
@@ -109,13 +102,15 @@ Microsoft Action Pack サブスクリプションを取り消すには、パー�
 
 ## <a name="download-your-action-pack-invoice"></a>Action Pack 請求書のダウンロード
 
-1. 移動して、 [**メンバーシップ提供**](https://partnercenter.microsoft.com/pcv/partnership/offers)ページ。 **[Microsoft Action Pack サブスクリプション]** を選んで、サブスクリプションの詳細を表示します。 
+1. [ **[メンバーシップの提供]** ](https://partnercenter.microsoft.com/pcv/partnership/offers) ページに移動します。 **[Microsoft Action Pack サブスクリプション]** を選んで、サブスクリプションの詳細を表示します。 
 
 3. **[請求書のダウンロード]** を選択します。
  
 ## <a name="next-steps"></a>次のステップ
 
 -   [Action Pack サブスクリプション特典を使い始める](manage-your-partner-network-benefits.md)
+
+-   [コンピテンシー](learn-about-competencies.md)
 
 -   [Silver および Gold コンピテンシーのメンバーシップ レベルの説明](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 

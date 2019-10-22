@@ -1,18 +1,18 @@
 ---
 title: パートナーのセキュリティ要件 | パートナー センター
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/25/2019
 description: クラウド ソリューション プロバイダー プログラムに参加するアドバイザーとパートナーのセキュリティ要件について説明します。
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
-ms.localizationpriority: medium
-ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: ea155cf760850def85146d8c4e7e847fab5d7213
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215643"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318487"
 ---
 # <a name="partner-security-requirements"></a>パートナーのセキュリティ要件
 
@@ -136,15 +136,15 @@ FIDO セキュリティ キーの使用は、ベースライン保護ポリシ�
 
 "管理者に MFA を要求する" ポリシーを有効にするときに、上記の 9 つの管理者ロールは、認証アプリを使用して MFA に登録する必要があります。 MFA の登録が完了したら、管理者はサインインするたびに MFA を実行する必要があります。
 
-ご自身の組織にこれらのアカウントがあり、スクリプトまたはコードで使用されている場合は、それを [マネージド ID](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) に置き換えることを検討してください。
+ご自身の組織にこれらのアカウントがあり、スクリプトまたはコードで使用されている場合は、それを[マネージド ID](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) に置き換えることを検討してください。
 
 このポリシーを有効にして管理者を保護するには:
 
-1. 全体管理者、セキュリティ管理者、または条件付きアクセス管理者として  **Azure portal**  にサインインします。
+1. 全体管理者、セキュリティ管理者、または条件付きアクセス管理者として **Azure portal** にサインインします。
 2. **[Azure Active Directory]**  >  **[条件付きアクセス]** に移動します。
 3. ポリシーの一覧で、 **[ベースライン ポリシー: 管理者に MFA を要求する]** を選択します。
 4. **[ポリシーを有効にする]** を **[ポリシーをすぐに有効にする]** に設定します。
-5.  **[保存]** をクリックします。
+5. **[保存]** をクリックします。
 
 > [!WARNING]
 > このポリシーを有効にする前に、ユーザーが以前の認証プロトコルを使用していないことを確認してください。 このポリシーを実装すると、以前の認証はブロックされます。
@@ -160,11 +160,11 @@ FIDO セキュリティ キーの使用は、ベースライン保護ポリシ�
 
 このポリシーを有効にしてユーザーを保護するには:
 
-1. 全体管理者、セキュリティ管理者、または条件付きアクセス管理者として  **Azure portal**  にサインインします。
+1. 全体管理者、セキュリティ管理者、または条件付きアクセス管理者として **Azure portal** にサインインします。
 2. **[Azure Active Directory]**  >  **[条件付きアクセス]** に移動します。
 3. ポリシーの一覧で、 **[ベースライン ポリシー: エンド ユーザーの保護 (プレビュー)]** を選択します。
 4. **[ポリシーを有効にする]** を **[ポリシーをすぐに有効にする]** に設定します。
-5.  **[保存]** をクリックします。
+5. **[保存]** をクリックします。
 
 > [!WARNING]
 > このポリシーを有効にする前に、ユーザーが以前の認証プロトコルを使用していないことを確認してください。 このポリシーを実装すると、以前の認証はブロックされます。

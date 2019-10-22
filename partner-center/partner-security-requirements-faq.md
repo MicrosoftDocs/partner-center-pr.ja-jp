@@ -1,18 +1,18 @@
 ---
 title: パートナーのセキュリティ要件の FAQ | パートナー センター
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/27/2019
 description: パートナーのセキュリティ要件についてよく寄せられる質問
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
-ms.localizationpriority: medium
-ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
+ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215655"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "71678303"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
 
@@ -145,6 +145,9 @@ MFA は、[管理者に MFA を要求する](https://docs.microsoft.com/azure/ac
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>既に MFA ソリューションがある場合、どのようなアクションを実行する必要がありますか?
 
 これらのセキュリティ要件では、パートナー テナントのユーザーは、Microsoft の商用クラウド サービスにアクセスするときに、MFA を使用して認証を行う必要があります。 サードパーティのソリューションを使用して、これらの要件を満たすことができます。 Microsoft では、Azure Active Directory との互換性に関する検証テストを、独立系 ID プロバイダーに提供しなくなりました。 お使いの製品の相互運用性をテストする場合は、次の[ガイドライン](https://www.microsoft.com/download/details.aspx?id=56843)を参照してください。
+
+> [!IMPORTANT]
+> サードパーティのソリューションを使用している場合は、そのソリューションで MFA 値を含む認証方法参照 (AMR) 要求が発行されていることを確認することが重要です。 想定されている要求がサードパーティのソリューションで発行されていることを検証する方法の詳細については、「[パートナーのセキュリティ要件のテスト](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)」を参照してください。
 
 ### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>MFA の認証を行うためにどのような検証方法を使用できますか?
 
@@ -314,6 +317,18 @@ CPV は、CPV として登録に関連付けられているテナントに Azure
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>CPV は、アプリのみの認証スタイルを利用してアクセス トークンを取得できますか?
 
 いいえ。コントロール パネル ベンダー パートナーは、パートナーの代わりに、アプリのみの認証スタイルを利用してアクセス トークンを要求することはできません。 アプリとユーザー認証のスタイルが利用される、セキュリティで保護されたアプリケーション モデルを実装する必要があります。
+
+## <a name="enforcement"></a>強制
+
+### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>サードパーティの MFA ソリューションを使用していますが、ブロックされます。どうすればよいですか?
+
+リソースにアクセスするアカウントで多要素認証が要求されていることを検証するために、[認証方法参照](https://tools.ietf.org/html/rfc8176)要求を調べて、MFA が含まれているかどうかが確認されます。 一部のサードパーティ ソリューションでは、この要求が発行されないか、MFA 値が含まれていません。 要求が存在しない場合、または MFA 値が表示されない場合は、認証対象のアカウントで多要素認証が要求されたかどうかを判断する方法がありません。 サードパーティのソリューションのベンダーと協力して、ソリューションで認証方法参照要求を発行するために実行する必要があるアクションを決定する必要があります。
+
+想定されている要求がサードパーティのソリューションで発行されているかどうか不明な場合は、「[パートナーのセキュリティ要件のテスト](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0)」を参照してください。
+
+### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>AOBO を使用した顧客のサポートが MFA によってブロックされます。どうすればよいですか?
+
+パートナーのセキュリティ要件の技術的適用では、認証対象のアカウントで多要素認証が求められたかどうかが確認されます。 求められていない場合、ログイン ページにリダイレクトされ、再度認証するように求められます。 ドメインがフェデレーションされていない場合は、正常に認証された後、多要素認証を設定するように求められます。 それが完了すると、AOBO を使用して顧客を管理できるようになります。 ドメインがフェデレーションされている場合は、アカウントに対して多要素認証が求められることを確認する必要があります。
 
 ## <a name="key-resources"></a>重要なリソース
 
