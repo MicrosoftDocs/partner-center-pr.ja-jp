@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 源泉徴収税クレジット、課税クレジット、ドイツの課税クレジットフォーム、納税クレジット
 ms.localizationpriority: medium
-ms.openlocfilehash: e386bc2eda01cef16173569f4b5288c4bba2d02a
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
+ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921462"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "72892408"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>源泉徴収税の貸方をご確認ください
 
@@ -46,15 +46,20 @@ ms.locfileid: "70921462"
 ### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>税務信用のフォームと証明書を送信する方法
 
 1. パートナーセンターで、ダッシュボードのアップ pまたは右上隅にある**疑問符** **(?)** を選択します。
-2. **[パートナーサポート要求]** を選択します。
-3. **[新しい要求]** を選択し、 **[詳細]** で、**パートナー請求書、支払い、または調整ファイルのヘルプ**を選択します。
+
+2. **CSP**を選択します。
+
+3. **[CSP –請求および支払い]** で、問題の種類- **[源泉徴収税]** を選択し、[**はい]** を選択します。 
+
 4. サービスリクエストを送信する場合は、税証明書の税クレジットフォームとデジタルコピーを必ず添付してください。
+
 5. 英語版のサービス要求を使用して英語以外の税証明書を送信する場合は、税証明書の翻訳が必要です。
+
 6. 電子メールまたは電話で直接お問い合わせいたします。
 
 **請求-支払い支払い**方法を使用すると、税金証明書が正常に受信され、検証されると、請求書の残り残高は約1週間でクリアされます。 
 
-税証明書は、Microsoft の請求書に対してのみ使用する必要があります。 証明書に含まれている他の会社がある場合は、内部処理の金額を除外できるようにする金額を指定してください。ただし、証明書の合計数を完全に把握することもできます。 
+税証明書は、Microsoft の請求書に対してのみ使用する必要があります。 証明書に他の会社が含まれている場合は、内部処理で除外できるように金額を指定してください。ただし、証明書の総数を完全に把握できます。 
 
 ## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>ドイツの源泉徴収税クレジットフォームを完成させる手順
 
