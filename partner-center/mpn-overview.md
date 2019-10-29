@@ -1,19 +1,19 @@
 ---
 title: Microsoft Partner Network メンバーシップ | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/25/2019
 description: マイクロソフトのパートナーとなるメリットについて説明します。 Microsoft Partner Network では、業界で最も広範囲の製品と、パートナーのビジネスの差別化、市場への投入、ソリューションの販売のためのプログラム オプションが提供されています。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 85c4fa8c0b8d6e0e680f4e7ce6f4b3498bdfcd0a
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 109333a4cea7d19ff18708cc55d5c0b87b2bb13f
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820623"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978752"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft との連携
 
@@ -35,11 +35,11 @@ Microsoft Partner Network (MPN) について詳しくは、[MPN の Web サイ�
 
 Microsoft Partner Network に参加するには、MPN Web サイトの [ **[メンバーシップ]** ページ](https://partner.microsoft.com/membership)に移動し、 **[登録]** または **[今すぐ参加]** を選択します。
 
-## <a name="microsoft-partner-network-membership-types"></a>Microsoft Partner Network メンバーシップの種類
+## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Microsoft Partner Network メンバーシップを活用する
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/membership)-->
+<!-- 10/25/2019 The content below content from the Membership pages of the MPN site (https://partner.microsoft.com/membership) and additional updated content.-->
 
-Microsoft Partner Network では、以下で説明するように、3 種類のメンバーシップが提供されています。 それぞれのメンバーシップは、種類ごとに異なる一連のメリットを提供してパートナー様のビジネス拡大を支援します。 パートナー様が一定の目標を達したときは、ニーズに適したレベルでプログラムにご参加ください。さらに多くの特典を利用し、マイクロソフトやネットワーク内の他のパートナーとの関係を構築することができます。
+ビジネスの目標を達成するには、独自のニーズに合わせて、より多くの特典にアクセスし、ネットワーク内の米国およびその他のパートナーとの関係を構築する必要があるレベルのプログラムに参加します。
 
 ### <a name="action-pack"></a>Action Pack
 
@@ -48,10 +48,11 @@ Action Pack は、クラウドファースト、モバイルファーストの�
 Action Pack の詳細については、以下のリソースをご覧ください。
 
 - [マイクロソフト アクション パックでクラウド ビジネスを推進する](https://partner.microsoft.com/membership/action-pack)
+
 - [Action Pack を購入する](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Action Pack サブスクリプション管理を Partner Membership Center (PMC) からパートナー センターに移行します。 この移行は今後数か月かけて実行されます。 更新の方法と更新される内容については、「[アクション パックを購入する](mpn-get-action-pack.md)」の情報を参照してください。  
+    >パートナーセンターで Action Pack サブスクリプションを管理します。 パートナーのメンバーシップセンターからパートナーセンターにまだ移動していない場合は、「[パートナーセンターへの移行の準備](partner-center/prepare-pmc-pc-migration.md)」を参照してください。  
 
 - [MPN プランを更新する](renew-mpn-offers.md)
 

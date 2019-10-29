@@ -1,7 +1,7 @@
 ---
-title: 未払い、詐欺、不正使用 | パートナー センター
+title: 未払い、詐欺、または誤用 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/25/2019
 description: 商品やサービスに対する顧客の未払い、不正行為、不正使用などのオンライン トランザクション リスクを管理するための戦略。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐欺, 不正使用, 使用条件, 利用規約, 未払い, 顧客が料金を支払わない, オンライン リスク, サービスの盗用, サービスの不正使用, サブスクリプションの一時停止,
@@ -9,14 +9,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 12fa863cfecc2e0190e1bfeb842b608ffd3bbaf2
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667878"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978734"
 ---
-# <a name="non-payment-fraud-or-misuse"></a>未払い、詐欺、不正使用
+# <a name="non-payment-fraud-or-misuse"></a>未払い、詐欺、または誤用
 
 **適用対象**
 
@@ -81,9 +81,9 @@ ms.locfileid: "64667878"
 オンライン リスクを軽減するための詳しい方法については、[オンライン トランザクション リスクの管理ガイド](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)をご覧ください。
 
 > [!IMPORTANT]  
-> パートナーまたは顧客の活動が利用規約に違反していると Microsoft によって確認された場合または違反の疑いが検出された場合は、強制手順が実施されます。 顧客のアカウントは直ちに停止され、強制措置について Microsoft から通知されるか、要求に応じて最新情報が提供されます。
+> パートナーまたは顧客の活動が利用規約に違反していると Microsoft によって確認された場合または違反の疑いが検出された場合は、強制手順が実施されます。 お客様はすぐに中断され、Microsoft から貴社に強制措置について通知するか、要求が更新されます。
 
- 
+ セキュリティと multi-factor authentication の詳細については、「[パートナーのセキュリティ要件](partner-security-requirements.md)」を参照してください。
 
  
 
