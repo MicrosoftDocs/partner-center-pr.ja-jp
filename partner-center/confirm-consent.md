@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, 顧客たち, 同意, MCA, Microsoft Cloud 契約, 顧客契約テンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: fc82d3156dd50c3ad05b141f1715634031cad202
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13bd3ee03a346448ca8131713420cf75e555195b
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820509"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045647"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Microsoft Cloud 契約に関するお客様の同意を確認する
 
@@ -24,6 +24,9 @@ ms.locfileid: "68820509"
 > * 21Vianet が運営するパートナー センター
 > * Microsoft Cloud ドイツのパートナー センター
 > * 米国政府機関向け Microsoft Cloud のパートナー センター
+
+>[!NOTE]
+>この契約は、2020年1月31日まで有効です。 その後、すべてのお客様 (既存および新規) は、新しい Microsoft カスタマー契約に署名する必要があります。 詳細については、「 [Microsoft カスタマーアグリーメントに対する顧客の同意を確認](confirm-customer-agreement.md)する」を参照してください。
 
 パートナーは、お客様の Microsoft 製品とサービスを注文する前に、Microsoft Cloud 契約へのお客様の同意を得る必要があります。 パートナーがコンプライアンス要件を満たすことができるように、マイクロソフトでは、パートナーに対して、契約に同意したユーザーに関する以下の詳細情報を提供することにより、同意を確認することを求めています。 
 
@@ -87,7 +90,7 @@ ms.locfileid: "68820509"
 2. **[アカウント情報]** を選択します。
 3. **[Microsoft Cloud 契約]** で **[更新]** を選択します。
 
-![Update](images/mca/mca4.png)
+![[更新]](images/mca/mca4.png)
 
 4. 契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
 5. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
