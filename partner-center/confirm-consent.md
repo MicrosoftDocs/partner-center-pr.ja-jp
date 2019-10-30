@@ -7,104 +7,107 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, 顧客たち, 同意, MCA, Microsoft Cloud 契約, 顧客契約テンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: fc82d3156dd50c3ad05b141f1715634031cad202
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13bd3ee03a346448ca8131713420cf75e555195b
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820509"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045647"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a><span data-ttu-id="5adb4-105">Microsoft Cloud 契約に関するお客様の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="5adb4-105">Confirm customer acceptance of the Microsoft Cloud Agreement</span></span>
+# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a><span data-ttu-id="a6e6d-105">Microsoft Cloud 契約に関するお客様の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="a6e6d-105">Confirm customer acceptance of the Microsoft Cloud Agreement</span></span>
 
-<span data-ttu-id="5adb4-106">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="5adb4-106">**Applies to**</span></span>
--  <span data-ttu-id="5adb4-107">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="5adb4-107">Partner Center</span></span>
+<span data-ttu-id="a6e6d-106">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="a6e6d-106">**Applies to**</span></span>
+-  <span data-ttu-id="a6e6d-107">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="a6e6d-107">Partner Center</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="5adb4-108">契約リソースは、現在、Microsoft パブリック クラウドのパートナー センターでのみサポートされています。</span><span class="sxs-lookup"><span data-stu-id="5adb4-108">The Agreement resource is currently supported by Partner Center in the Microsoft public cloud only.</span></span> <span data-ttu-id="5adb4-109">以下には適用されません。</span><span class="sxs-lookup"><span data-stu-id="5adb4-109">It is not applicable to:</span></span>
-> * <span data-ttu-id="5adb4-110">21Vianet が運営するパートナー センター</span><span class="sxs-lookup"><span data-stu-id="5adb4-110">Partner Center operated by 21Vianet</span></span>
-> * <span data-ttu-id="5adb4-111">Microsoft Cloud ドイツのパートナー センター</span><span class="sxs-lookup"><span data-stu-id="5adb4-111">Partner Center for Microsoft Cloud Germany</span></span>
-> * <span data-ttu-id="5adb4-112">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="5adb4-112">Partner Center for Microsoft Cloud for US Government</span></span>
+> <span data-ttu-id="a6e6d-108">契約リソースは、現在、Microsoft パブリック クラウドのパートナー センターでのみサポートされています。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-108">The Agreement resource is currently supported by Partner Center in the Microsoft public cloud only.</span></span> <span data-ttu-id="a6e6d-109">以下には適用されません。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-109">It is not applicable to:</span></span>
+> * <span data-ttu-id="a6e6d-110">21Vianet が運営するパートナー センター</span><span class="sxs-lookup"><span data-stu-id="a6e6d-110">Partner Center operated by 21Vianet</span></span>
+> * <span data-ttu-id="a6e6d-111">Microsoft Cloud ドイツのパートナー センター</span><span class="sxs-lookup"><span data-stu-id="a6e6d-111">Partner Center for Microsoft Cloud Germany</span></span>
+> * <span data-ttu-id="a6e6d-112">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="a6e6d-112">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="5adb4-113">パートナーは、お客様の Microsoft 製品とサービスを注文する前に、Microsoft Cloud 契約へのお客様の同意を得る必要があります。</span><span class="sxs-lookup"><span data-stu-id="5adb4-113">As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer.</span></span> <span data-ttu-id="5adb4-114">パートナーがコンプライアンス要件を満たすことができるように、マイクロソフトでは、パートナーに対して、契約に同意したユーザーに関する以下の詳細情報を提供することにより、同意を確認することを求めています。</span><span class="sxs-lookup"><span data-stu-id="5adb4-114">To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing the following details regarding the person who accepted the agreement:</span></span> 
+>[!NOTE]
+><span data-ttu-id="a6e6d-113">この契約は、2020年1月31日まで有効です。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-113">This agreement is valid until January 31, 2020.</span></span> <span data-ttu-id="a6e6d-114">その後、すべてのお客様 (既存および新規) は、新しい Microsoft カスタマー契約に署名する必要があります。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-114">After that date, all customers, existing and new, must sign the new Microsoft Customer Agreement.</span></span> <span data-ttu-id="a6e6d-115">詳細については、「 [Microsoft カスタマーアグリーメントに対する顧客の同意を確認](confirm-customer-agreement.md)する」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-115">To learn more, read [Confirm customer acceptance of the Microsoft Customer Agreement](confirm-customer-agreement.md).</span></span>
 
--   <span data-ttu-id="5adb4-115">名</span><span class="sxs-lookup"><span data-stu-id="5adb4-115">First name</span></span>
+<span data-ttu-id="a6e6d-116">パートナーは、お客様の Microsoft 製品とサービスを注文する前に、Microsoft Cloud 契約へのお客様の同意を得る必要があります。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-116">As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer.</span></span> <span data-ttu-id="a6e6d-117">パートナーがコンプライアンス要件を満たすことができるように、マイクロソフトでは、パートナーに対して、契約に同意したユーザーに関する以下の詳細情報を提供することにより、同意を確認することを求めています。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-117">To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing the following details regarding the person who accepted the agreement:</span></span> 
 
--   <span data-ttu-id="5adb4-116">姓</span><span class="sxs-lookup"><span data-stu-id="5adb4-116">Last name</span></span>
+-   <span data-ttu-id="a6e6d-118">名</span><span class="sxs-lookup"><span data-stu-id="a6e6d-118">First name</span></span>
 
--   <span data-ttu-id="5adb4-117">メール アドレス</span><span class="sxs-lookup"><span data-stu-id="5adb4-117">Email address</span></span>
+-   <span data-ttu-id="a6e6d-119">姓</span><span class="sxs-lookup"><span data-stu-id="a6e6d-119">Last name</span></span>
 
--   <span data-ttu-id="5adb4-118">電話番号 (オプション)</span><span class="sxs-lookup"><span data-stu-id="5adb4-118">Phone number (optional)</span></span>
+-   <span data-ttu-id="a6e6d-120">メール アドレス</span><span class="sxs-lookup"><span data-stu-id="a6e6d-120">Email address</span></span>
 
--   <span data-ttu-id="5adb4-119">同意の日付</span><span class="sxs-lookup"><span data-stu-id="5adb4-119">Date of acceptance</span></span>
+-   <span data-ttu-id="a6e6d-121">電話番号 (オプション)</span><span class="sxs-lookup"><span data-stu-id="a6e6d-121">Phone number (optional)</span></span>
 
-<span data-ttu-id="5adb4-120">詳細については、[Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問](https://docs.microsoft.com/partner-center/confirm-consent-faq)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="5adb4-120">To learn more, see the Microsoft Cloud Agreement customer acceptance confirmation [Frequently Asked Questions](https://docs.microsoft.com/partner-center/confirm-consent-faq).</span></span>
+-   <span data-ttu-id="a6e6d-122">同意の日付</span><span class="sxs-lookup"><span data-stu-id="a6e6d-122">Date of acceptance</span></span>
 
-<span data-ttu-id="5adb4-121">直接請求パートナーと間接プロバイダーは、パートナー センターまたはパートナー センター API を介して取引するときに、Microsoft Cloud 契約に関するお客様の同意を確認する必要があります。</span><span class="sxs-lookup"><span data-stu-id="5adb4-121">Direct bill partners and Indirect Providers must confirm customer acceptance of the Microsoft Cloud Agreement when transacting through Partner Center or Partner Center API.</span></span> <span data-ttu-id="5adb4-122">確認は*必須*です。</span><span class="sxs-lookup"><span data-stu-id="5adb4-122">Confirmation is *mandatory*.</span></span>
+<span data-ttu-id="a6e6d-123">詳細については、[Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問](https://docs.microsoft.com/partner-center/confirm-consent-faq)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-123">To learn more, see the Microsoft Cloud Agreement customer acceptance confirmation [Frequently Asked Questions](https://docs.microsoft.com/partner-center/confirm-consent-faq).</span></span>
 
-<span data-ttu-id="5adb4-123">特定のお客様について確認が提供されていない場合:</span><span class="sxs-lookup"><span data-stu-id="5adb4-123">If confirmation is not provided for a given customer:</span></span>
+<span data-ttu-id="a6e6d-124">直接請求パートナーと間接プロバイダーは、パートナー センターまたはパートナー センター API を介して取引するときに、Microsoft Cloud 契約に関するお客様の同意を確認する必要があります。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-124">Direct bill partners and Indirect Providers must confirm customer acceptance of the Microsoft Cloud Agreement when transacting through Partner Center or Partner Center API.</span></span> <span data-ttu-id="a6e6d-125">確認は*必須*です。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-125">Confirmation is *mandatory*.</span></span>
 
--   <span data-ttu-id="5adb4-124">このお客様について新しい注文を作成することはできません。</span><span class="sxs-lookup"><span data-stu-id="5adb4-124">You won’t be able to create new orders for this customer.</span></span>
+<span data-ttu-id="a6e6d-126">特定のお客様について確認が提供されていない場合:</span><span class="sxs-lookup"><span data-stu-id="a6e6d-126">If confirmation is not provided for a given customer:</span></span>
 
--   <span data-ttu-id="5adb4-125">このお客様について既存のシート ベースのサブスクリプションのシート数を変更することはできません。</span><span class="sxs-lookup"><span data-stu-id="5adb4-125">You won’t be able to change the seat count of existing seat-based subscriptions for this customer.</span></span>
+-   <span data-ttu-id="a6e6d-127">このお客様について新しい注文を作成することはできません。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-127">You won’t be able to create new orders for this customer.</span></span>
 
-<span data-ttu-id="5adb4-126">お客様の同意は、パートナー センターまたはパートナー センター API を使用して確認できます。</span><span class="sxs-lookup"><span data-stu-id="5adb4-126">Confirmation of customer acceptance can be done via Partner Center or the Partner Center API.</span></span> <span data-ttu-id="5adb4-127">パートナー センター API でこれを行うには、以下のトピックを参照してください。</span><span class="sxs-lookup"><span data-stu-id="5adb4-127">To do this through the Partner Center API, see the following topics:</span></span> 
+-   <span data-ttu-id="a6e6d-128">このお客様について既存のシート ベースのサブスクリプションのシート数を変更することはできません。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-128">You won’t be able to change the seat count of existing seat-based subscriptions for this customer.</span></span>
 
--   [<span data-ttu-id="5adb4-128">顧客の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="5adb4-128">Get confirmation of customer consent</span></span>](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent)
+<span data-ttu-id="a6e6d-129">お客様の同意は、パートナー センターまたはパートナー センター API を使用して確認できます。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-129">Confirmation of customer acceptance can be done via Partner Center or the Partner Center API.</span></span> <span data-ttu-id="a6e6d-130">パートナー センター API でこれを行うには、以下のトピックを参照してください。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-130">To do this through the Partner Center API, see the following topics:</span></span> 
 
--   [<span data-ttu-id="5adb4-129">契約メタデータを取得する</span><span class="sxs-lookup"><span data-stu-id="5adb4-129">Get agreement metadata</span></span>](https://docs.microsoft.com/partner-center/develop/get-agreement-metadata)
+-   [<span data-ttu-id="a6e6d-131">顧客の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="a6e6d-131">Get confirmation of customer consent</span></span>](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent)
 
--   [<span data-ttu-id="5adb4-130">顧客の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="5adb4-130">Confirm customer consent</span></span>](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent)
+-   [<span data-ttu-id="a6e6d-132">契約メタデータを取得する</span><span class="sxs-lookup"><span data-stu-id="a6e6d-132">Get agreement metadata</span></span>](https://docs.microsoft.com/partner-center/develop/get-agreement-metadata)
+
+-   [<span data-ttu-id="a6e6d-133">顧客の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="a6e6d-133">Confirm customer consent</span></span>](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent)
 
 
-<span data-ttu-id="5adb4-131">これは、運用環境とサンド ボックス環境の両方に適用されます。</span><span class="sxs-lookup"><span data-stu-id="5adb4-131">This applies to both production and sandbox environments.</span></span>
+<span data-ttu-id="a6e6d-134">これは、運用環境とサンド ボックス環境の両方に適用されます。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-134">This applies to both production and sandbox environments.</span></span>
 
-## <a name="confirming-customer-acceptance-in-partner-center"></a><span data-ttu-id="5adb4-132">パートナー センターを使用してお客様の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="5adb4-132">Confirming customer acceptance in Partner Center</span></span>
+## <a name="confirming-customer-acceptance-in-partner-center"></a><span data-ttu-id="a6e6d-135">パートナー センターを使用してお客様の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="a6e6d-135">Confirming customer acceptance in Partner Center</span></span>
 
-### <a name="confirm-customer-acceptance-for-a-new-customer"></a><span data-ttu-id="5adb4-133">新しいお客様についてお客様の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="5adb4-133">Confirm customer acceptance for a new customer</span></span>
+### <a name="confirm-customer-acceptance-for-a-new-customer"></a><span data-ttu-id="a6e6d-136">新しいお客様についてお客様の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="a6e6d-136">Confirm customer acceptance for a new customer</span></span>
 
-<span data-ttu-id="5adb4-134">パートナー センターで、新しいお客様のテナントを作成するときに、お客様の同意を確認するのには、次の手順に従います。</span><span class="sxs-lookup"><span data-stu-id="5adb4-134">Use the following procedure to confirm customer acceptance while you create a new customer tenant in Partner Center.</span></span> <span data-ttu-id="5adb4-135">これを行うには、管理エージェントまたは販売エージェントである必要があることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="5adb4-135">Note that you must be an Admin agent or Sales agent to do this.</span></span>
+<span data-ttu-id="a6e6d-137">パートナー センターで、新しいお客様のテナントを作成するときに、お客様の同意を確認するのには、次の手順に従います。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-137">Use the following procedure to confirm customer acceptance while you create a new customer tenant in Partner Center.</span></span> <span data-ttu-id="a6e6d-138">これを行うには、管理エージェントまたは販売エージェントである必要があることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-138">Note that you must be an Admin agent or Sales agent to do this.</span></span>
 
-1. <span data-ttu-id="5adb4-136">**[顧客]** 、 **[新しい顧客]** 、 **[アカウント情報]** の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-136">Select **Customers**, and then **New customer** and then select **Account info**.</span></span>
-2. <span data-ttu-id="5adb4-137">**会社**と**主要連絡先**に関する情報を入力します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-137">Enter the information about the **Company** and **Primary contact**.</span></span>
+1. <span data-ttu-id="a6e6d-139">**[顧客]** 、 **[新しい顧客]** 、 **[アカウント情報]** の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-139">Select **Customers**, and then **New customer** and then select **Account info**.</span></span>
+2. <span data-ttu-id="a6e6d-140">**会社**と**主要連絡先**に関する情報を入力します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-140">Enter the information about the **Company** and **Primary contact**.</span></span>
 
 ![会社情報](images/mca/mca1.png)
 
-3. <span data-ttu-id="5adb4-139">**[Microsoft Cloud 契約]** で **[The customer has accepted the latest Microsoft cloud agreement]** (顧客が最新の Microsoft Cloud 契約に同意済み) を選択します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-139">Under **Microsoft cloud agreement**, select **The customer has accepted the latest Microsoft cloud agreement**.</span></span>
-4. <span data-ttu-id="5adb4-140">**[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-140">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="5adb4-141">将来の日付に設定することはできません。</span><span class="sxs-lookup"><span data-stu-id="5adb4-141">You cannot set this to a future date.</span></span>
-5. <span data-ttu-id="5adb4-142">同意しているユーザーの詳細を入力します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-142">Enter the details of the user who provided the acceptance.</span></span>
+3. <span data-ttu-id="a6e6d-142">**[Microsoft Cloud 契約]** で **[The customer has accepted the latest Microsoft cloud agreement]** (顧客が最新の Microsoft Cloud 契約に同意済み) を選択します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-142">Under **Microsoft cloud agreement**, select **The customer has accepted the latest Microsoft cloud agreement**.</span></span>
+4. <span data-ttu-id="a6e6d-143">**[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-143">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="a6e6d-144">将来の日付に設定することはできません。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-144">You cannot set this to a future date.</span></span>
+5. <span data-ttu-id="a6e6d-145">同意しているユーザーの詳細を入力します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-145">Enter the details of the user who provided the acceptance.</span></span>
 
 ![同意の日付を追加する](images/mca/MCA3.png)
 
-<span data-ttu-id="5adb4-144">既定では、第一連絡先担当者のユーザー情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="5adb4-144">By default, the primary contact user information is displayed.</span></span> <span data-ttu-id="5adb4-145">これが正しくない場合は、 **[更新]** を選択し、契約に同意したユーザーの **名**、**姓**、**メール アドレス**、\**電話番号* (省略可能) を入力します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-145">If this isn’t correct, select **Update** and then enter the **First name**, **Last name**, **Email address**, and \**Phone number* (optional) of the person who accepted the agreement.</span></span>
+<span data-ttu-id="a6e6d-147">既定では、第一連絡先担当者のユーザー情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-147">By default, the primary contact user information is displayed.</span></span> <span data-ttu-id="a6e6d-148">これが正しくない場合は、 **[更新]** を選択し、契約に同意したユーザーの **名**、**姓**、**メール アドレス**、\**電話番号* (省略可能) を入力します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-148">If this isn’t correct, select **Update** and then enter the **First name**, **Last name**, **Email address**, and \**Phone number* (optional) of the person who accepted the agreement.</span></span>
 
-6. <span data-ttu-id="5adb4-146">**[次へ]** を選択して、お客様のテナントを作成する残りの手順を続行します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-146">Select **Next** to continue with the remaining steps to create the customer tenant.</span></span>
+6. <span data-ttu-id="a6e6d-149">**[次へ]** を選択して、お客様のテナントを作成する残りの手順を続行します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-149">Select **Next** to continue with the remaining steps to create the customer tenant.</span></span>
 
-### <a name="confirm-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="5adb4-147">既存のお客様についてお客様の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="5adb4-147">Confirm customer acceptance for an existing customer</span></span>
+### <a name="confirm-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="a6e6d-150">既存のお客様についてお客様の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="a6e6d-150">Confirm customer acceptance for an existing customer</span></span>
 
-<span data-ttu-id="5adb4-148">これを行うには、管理エージェントまたは販売エージェントである必要があります。</span><span class="sxs-lookup"><span data-stu-id="5adb4-148">You must be an Admin agent or Sales agent to do this.</span></span>
+<span data-ttu-id="a6e6d-151">これを行うには、管理エージェントまたは販売エージェントである必要があります。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-151">You must be an Admin agent or Sales agent to do this.</span></span>
 
-1. <span data-ttu-id="5adb4-149">**[顧客]** を選択し、表示するお客様を検索して選択します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-149">Select **Customers**, and then find and select the customer you want to see.</span></span>
-2. <span data-ttu-id="5adb4-150">**[アカウント情報]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-150">Select **Account info**.</span></span>
-3. <span data-ttu-id="5adb4-151">**[Microsoft Cloud 契約]** で **[更新]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-151">Under **Microsoft cloud agreement**, select **Update**.</span></span>
+1. <span data-ttu-id="a6e6d-152">**[顧客]** を選択し、表示するお客様を検索して選択します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-152">Select **Customers**, and then find and select the customer you want to see.</span></span>
+2. <span data-ttu-id="a6e6d-153">**[アカウント情報]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-153">Select **Account info**.</span></span>
+3. <span data-ttu-id="a6e6d-154">**[Microsoft Cloud 契約]** で **[更新]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-154">Under **Microsoft cloud agreement**, select **Update**.</span></span>
 
-![Update](images/mca/mca4.png)
+![[更新]](images/mca/mca4.png)
 
-4. <span data-ttu-id="5adb4-153">契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-153">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
-5. <span data-ttu-id="5adb4-154">**[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-154">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="5adb4-155">将来の日付に設定することはできません。</span><span class="sxs-lookup"><span data-stu-id="5adb4-155">You cannot set this to a future date.</span></span>
-6. <span data-ttu-id="5adb4-156">**[Save and continue]** (保存して続行) を選択します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-156">Select **Save and continue**.</span></span>
+4. <span data-ttu-id="a6e6d-156">契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-156">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
+5. <span data-ttu-id="a6e6d-157">**[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-157">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="a6e6d-158">将来の日付に設定することはできません。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-158">You cannot set this to a future date.</span></span>
+6. <span data-ttu-id="a6e6d-159">**[Save and continue]** (保存して続行) を選択します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-159">Select **Save and continue**.</span></span>
 
-### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a><span data-ttu-id="5adb4-157">既存のお客様について新しい注文の作成中にお客様の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="5adb4-157">Confirm customer acceptance while creating new order for an existing customer</span></span>
+### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a><span data-ttu-id="a6e6d-160">既存のお客様について新しい注文の作成中にお客様の同意を確認する</span><span class="sxs-lookup"><span data-stu-id="a6e6d-160">Confirm customer acceptance while creating new order for an existing customer</span></span>
 
-<span data-ttu-id="5adb4-158">以前に確認していない既存のお客様について新しい注文を作成しようとすると、確認を完了するよう求めるプロンプトが表示されます。</span><span class="sxs-lookup"><span data-stu-id="5adb4-158">If you try to create a new order for an existing customer which you have not confirmed before, you’ll receive a prompt to complete the confirmation.</span></span> <span data-ttu-id="5adb4-159">この場合、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-159">Use the following procedure to do this.</span></span>
+<span data-ttu-id="a6e6d-161">以前に確認していない既存のお客様について新しい注文を作成しようとすると、確認を完了するよう求めるプロンプトが表示されます。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-161">If you try to create a new order for an existing customer which you have not confirmed before, you’ll receive a prompt to complete the confirmation.</span></span> <span data-ttu-id="a6e6d-162">この場合、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-162">Use the following procedure to do this.</span></span>
 
-1. <span data-ttu-id="5adb4-160">契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-160">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
-2. <span data-ttu-id="5adb4-161">**[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-161">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="5adb4-162">将来の日付に設定することはできません。</span><span class="sxs-lookup"><span data-stu-id="5adb4-162">You cannot set this to a future date.</span></span>
-3. <span data-ttu-id="5adb4-163">**[Save and continue]** (保存して続行) を選択します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-163">Select **Save and continue**.</span></span>
+1. <span data-ttu-id="a6e6d-163">契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-163">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
+2. <span data-ttu-id="a6e6d-164">**[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-164">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="a6e6d-165">将来の日付に設定することはできません。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-165">You cannot set this to a future date.</span></span>
+3. <span data-ttu-id="a6e6d-166">**[Save and continue]** (保存して続行) を選択します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-166">Select **Save and continue**.</span></span>
 
-### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="5adb4-164">既存のお客様についてお客様の同意の確認を取得する</span><span class="sxs-lookup"><span data-stu-id="5adb4-164">Retrieve confirmation of customer acceptance for an existing customer</span></span>
+### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="a6e6d-167">既存のお客様についてお客様の同意の確認を取得する</span><span class="sxs-lookup"><span data-stu-id="a6e6d-167">Retrieve confirmation of customer acceptance for an existing customer</span></span>
 
-<span data-ttu-id="5adb4-165">以下の手順を使用して、既存のお客様について以前に提供したお客様の同意確認を取得することができます。</span><span class="sxs-lookup"><span data-stu-id="5adb4-165">You can retrieve confirmation of customer acceptance for an existing customer that you have provided previously using the procedure below.</span></span> <span data-ttu-id="5adb4-166">これを行うには、管理エージェントまたは販売エージェントである必要があります。</span><span class="sxs-lookup"><span data-stu-id="5adb4-166">You must be an Admin agent or Sales agent to do this.</span></span>
+<span data-ttu-id="a6e6d-168">以下の手順を使用して、既存のお客様について以前に提供したお客様の同意確認を取得することができます。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-168">You can retrieve confirmation of customer acceptance for an existing customer that you have provided previously using the procedure below.</span></span> <span data-ttu-id="a6e6d-169">これを行うには、管理エージェントまたは販売エージェントである必要があります。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-169">You must be an Admin agent or Sales agent to do this.</span></span>
 
-1. <span data-ttu-id="5adb4-167">**[顧客]** を選択し、表示するお客様を検索して選択します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-167">Select **Customers**, and then find and select the customer you want to see.</span></span>
-2. <span data-ttu-id="5adb4-168">**[アカウント情報]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="5adb4-168">Select **Account info**.</span></span>
-3. <span data-ttu-id="5adb4-169">**[Microsoft Cloud 契約]** で、このお客様について確認が提供されているかどうかが表示されます。</span><span class="sxs-lookup"><span data-stu-id="5adb4-169">Under **Microsoft cloud agreement**, you’ll see whether or not confirmation has been provided for this customer.</span></span>
+1. <span data-ttu-id="a6e6d-170">**[顧客]** を選択し、表示するお客様を検索して選択します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-170">Select **Customers**, and then find and select the customer you want to see.</span></span>
+2. <span data-ttu-id="a6e6d-171">**[アカウント情報]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-171">Select **Account info**.</span></span>
+3. <span data-ttu-id="a6e6d-172">**[Microsoft Cloud 契約]** で、このお客様について確認が提供されているかどうかが表示されます。</span><span class="sxs-lookup"><span data-stu-id="a6e6d-172">Under **Microsoft cloud agreement**, you’ll see whether or not confirmation has been provided for this customer.</span></span>
