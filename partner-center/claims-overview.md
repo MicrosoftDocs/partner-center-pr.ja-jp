@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: インセンティブの申請, 協力インセンティブの申請, 協力金
 ms.localizationpriority: medium
-ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 27210ea58352259152c0922aa3a1e1c3c6d95e4d
+ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667564"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73083880"
 ---
 # <a name="incentives-co-op-claims-overview"></a>協力インセンティブの申請の概要
 
@@ -32,12 +32,12 @@ ms.locfileid: "64667564"
 >[!NOTE]
 >マイクロソフトは、実行証明書 (POE) の原本を要求する権利を有します。 アクティビティの日付から 24 か月間は、ドキュメントの原本をすべて保管しておいてください。 
 
-|**目的**   |**参照先**   |
+|**目的**   |**この記事を読む**   |
 |-----------------|:--------------------------------------|
 |申請を送信し、適切なドキュメントを含める|[インセンティブ プログラム アクティビティに関する申請の作成と管理](create-incentives-claims.md)|
 |申請を送信した後、必要なドキュメントの要求に対処する|[インセンティブ プログラム アクティビティに関する申請の作成と管理](create-incentives-claims.md)  |
 |アクティビティに関する申請の中心的な要件を確認する|[インセンティブ申請の中心的な要件の確認](core-requirements.md)   |
 |インセンティブ プログラム全体の詳細を参照する|[パートナー協力インセンティブ ガイドブック](https://assets.microsoft.com/coop-guidebook.pdf)
-|OSA の販売手数料要求または ISV の収益関連要求を送信する |[パートナー センターでの OSA 申請の送信](submit-osa-claim.md)|
+|顧客の関連付けを作成して要求を送信する |[CPOR モデルを使用して顧客の関連付けを作成する](submit-osa-claim.md)|
                                                                                  
                                    

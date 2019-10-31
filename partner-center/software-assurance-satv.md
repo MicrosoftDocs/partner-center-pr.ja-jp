@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: トレーニング受講券, ソフトウェア アシュアランス, トレーニング, SATV での登録, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 03fb0c9a9391bc3e5ebcf99cfd77aa7de8a74f51
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425186"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142018"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム
 
@@ -37,7 +37,7 @@ ms.locfileid: "72425186"
 
 ## <a name="confirm-program-eligibility"></a>プログラムの適格性を確認する
 
-SATV プログラムに登録する前に、Microsoft Learning コンピテンシーに代わる Microsoft Partner Network Learning オプションの要件を満たしている必要があります。 [Learning オプション](https://partner.microsoft.com/en-us/membership/learning-partners)を開始する方法を確認してください。
+SATV プログラムに登録する前に、Microsoft Learning コンピテンシーに代わる Microsoft Partner Network Learning オプションの要件を満たしている必要があります。 [Learning オプション](https://partner.microsoft.com/membership/learning-partners)を開始する方法を確認してください。
 
 ご自身の会社の適格性 (適用可能なコンピテンシーと評価の要件を含む) は、パートナー センターで確認できます。 詳細とスクリーンショットについては、「SATV ワークフローの[手順 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) 」に記載されている手順に従ってください。
 

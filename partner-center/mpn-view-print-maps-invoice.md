@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN、請求書、マップ、課税控除、VAT、VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b972aa9261d319c55d26abcc32e33af5546550a
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978773"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141993"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft Partner Network の請求書と税金
 
@@ -26,7 +26,7 @@ ms.locfileid: "72978773"
 
 この手順を実行するには、全体管理者または MPN パートナー管理者である必要があります。 
 
-1.  職場のアカウントを使用して[パートナーセンター](https://partner.microsoft.com/en-us/dashboard/home)にサインインし、左側のメニューで **[MPN]** を選択します。
+1.  職場のアカウントを使用して[パートナーセンター](https://partner.microsoft.com/dashboard/home)にサインインし、左側のメニューで **[MPN]** を選択します。
 
 4.  ドロップダウンリストで、 **[メンバーシップの提供]** を選択して、購入可能なプランと、加入契約の現在の年度で利用可能な請求書を確認します。 過去数年間の請求書を表示するには、 **[期限切れ]** を選択します。
 
@@ -45,7 +45,7 @@ ms.locfileid: "72978773"
 
 ## <a name="send-microsoft-your-vat-id-number"></a>VAT ID 番号をマイクロソフトに送信する
 
-1.  パートナーセンターの[ダッシュボード](https://partner.microsoft.com/en-us/dashboard/home)で、 **[メンバーシップの提供]** を選択し、 **[利用可能]** を選択します。 
+1.  パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard/home)で、 **[メンバーシップの提供]** を選択し、 **[利用可能]** を選択します。 
 
 2.  **[VAT ID の追加]** を選択します。 
 

@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f7187b0a35bae927dc991b4bd92506f902c53b95
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: caf8c6614a360c45c9976277b9dca14197391f39
+ms.sourcegitcommit: 718064303cc8a632005a2b4561bc34100ec93477
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667687"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73168563"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>CSP 向け Office 365 Government GCC サブスクリプションを認定ユーザーに販売する
 
@@ -35,8 +35,6 @@ ms.locfileid: "64667687"
 CSP プラン向け Office 365 Government GCC の販売を承認された後は、パートナー センターを使用して顧客への販売を開始することができます。 パートナー センターを使用してサブスクリプションを販売する方法については、以下のリソースを参照してください。 
 
 -   CSP 向け Office 365 Government GCC の販売に関するステップ バイ ステップ ガイドについては、[こちら](https://go.microsoft.com/fwlink/?linkid=2007323)を参照してください。  
-
--   よく寄せられる質問への回答については、[こちら](https://o365pp.blob.core.windows.net/media/Resources/GCC/Office%20365%20Government%20GCC%20for%20CSP%20Partner%20FAQ.docx)を参照してください。
 
 
 ## <a name="additional-resources"></a>その他の資料

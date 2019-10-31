@@ -6,12 +6,12 @@ description: Microsoft Partner Network メンバーがネットワークの利�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 58dd482f3fe9e9b02159c2900bb2c857ee967540
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: f69dc6239c1ad11821baac269903ad819901ac7e
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978758"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141954"
 ---
 # <a name="create-a-partner-center-account"></a>パートナー センター アカウントを作成する
 
@@ -59,7 +59,7 @@ ms.locfileid: "72978758"
 
 5.  管理エージェント グループに追加されたことを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
-    」を参照します。 パートナーセンターの[ダッシュボード](https://partner.microsoft.com/en-us/dashboard/home**)から**設定**アイコンを選択し、 **[ユーザー管理]** を選択します。  
+    」を参照します。 パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard/home**)から**設定**アイコンを選択し、 **[ユーザー管理]** を選択します。  
 
     b. ユーザーの一覧から自分の名前を選び、 **[管理エージェント]** を選択します (まだ選択されていない場合)。 **[更新]** を選択します。  
 
