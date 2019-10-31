@@ -1,18 +1,18 @@
 ---
 title: 特典オファーを購入または更新する | パートナー センター
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/25/2019
 description: Microsoft Action Pack を初めて購入する方法または更新する方法を説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Action Pack、MAPS、MAPS の更新、Action Pack の更新、Action Pack の購入
 ms.localizationpriority: high
-ms.openlocfilehash: c4e1f58bd703c1809f1d315a8cc2d8c61fee8fa3
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318854"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978738"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Microsoft Action Pack サブスクリプションを初めて購入する、または Silver コンピテンシーまたは Gold コンピテンシーを更新する
 
@@ -21,7 +21,7 @@ ms.locfileid: "71318854"
 -  パートナー センター
 -  Partner Membership Center
 
-パートナー センター ダッシュボードから、Microsoft Action Pack サブスクリプション、Silver コンピテンシー、および Gold コンピテンシーを含む特典オファーを購入または更新できるようになりました。 
+パートナー センター [ダッシュボード](https://docs.microsoft.com/partner-center/)から、Microsoft Action Pack サブスクリプション、Silver コンピテンシー、および Gold コンピテンシーを含む特典オファーを購入または更新できるようになりました。 
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>初めて Microsoft Action Pack を購入する
 
@@ -36,23 +36,13 @@ Action Pack について詳しくは、[Microsoft Partner Network](https://partn
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを更新する
 
 >[!IMPORTANT]
->Action Pack サブスクリプションは、パートナー センター (このサイト) で管理するようになりました。 
+>Action Pack サブスクリプションは、パートナー センターで管理するようになりました。
 
 ### <a name="check-your-renewal-eligibility"></a>更新資格の確認
-
-1. [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect) にサインインします。
-
-2. 正常にサインインしたら、次のいずれかを行います。
-
-    - PMC でサブスクリプションを更新する手順に従います。または
-
-    - パートナー センター (本サイト) でサブスクリプションを更新する招待メッセージを受け取ります。
 
 >[!IMPORTANT]
 >パートナー センターでサブスクリプションを更新する招待メッセージを受け取った場合は、更新期間のポリシーが変更されたことに注意してください。有効期限が切れた後のみにサブスクリプションを更新することができます。 たとえば、サブスクリプションの期限が 6 月 22 日である場合、6 月 23 日以降、30 日以内に更新を行うことができます。       
 >サブスクリプションの有効期限は、[ **[Membership offers]** ](https://partnercenter.microsoft.com/pcv/partnership/offers) (メンバーシップ特典) ページ (サインインが必要) で確認できます。 パートナー センターで更新を行うことができる場合は、次の手順を実行します。  
-
-
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>パートナー センターで Microsoft Action Pack サブスクリプションを更新する方法
 
