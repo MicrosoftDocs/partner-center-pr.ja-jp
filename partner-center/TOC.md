@@ -18,7 +18,9 @@
 ### [プランの更新](renew-mpn-offers.md)
 ## [コンピテンシー](learn-about-competencies.md)
 ## [Azure Expert マネージド サービス プロバイダー プログラム](azure-expert-msp.md)
-## [利点](manage-your-partner-network-benefits.md)
+## 利点
+### [利点の概要](manage-your-partner-network-benefits.md)
+### [市場進出の利点](mpn-learn-about-go-to-market-benefits.md)
 ## [ソフトウェア アシュアランス プログラム](software-assurance-lp.md)
 ### [パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム](software-assurance-satv.md)
 ### [パートナー センターで受講券の確認および受け取りツールを使用して、受講券の確認、予約、引き換えを行う](voucher-validation-tool.md)
