@@ -100,6 +100,7 @@
 ## [お客様向けに Azure の支出の予算を設定する](set-an-azure-spending-budget-for-your-customers.md)
 ## [一般的な課金シナリオ](common-billing-scenarios.md)
 ## [未払い、詐欺、不正使用](non-payment--fraud--or-misuse.md)
+## [Office 365 パートナー アドバイザリ:CSP での Microsoft 365 Voice](o365-partner-advisory.md)
 
 # [お客様とつながる](customer-accounts.md)
 ## [新しい顧客の追加](add-a-new-customer.md)
@@ -122,7 +123,7 @@
 ### [Azure プランを購入する](purchase-azure-plan.md)
 ### [Azure オファーを比較する](compare-azure-offers.md)
 ### [顧客の Azure プランへの移行](azure-plan-transition.md)
-### [パートナー獲得クレジット - 概要](partner-earned-credit-overview.md)
+### [パートナー獲得クレジット - 概要](partner-earned-credit.md)
 ### [パートナー獲得クレジットの計算方法と支払方法](partner-earned-credit-explanation.md)
 ### [CSP の新しいコマース エクスペリエンス - Azure の請求](azure-plan-billing.md) 
 ### [Azure 向けの CSP の新しいコマース エクスペリエンスの価格表](azure-plan-price-list.md)
