@@ -1,43 +1,45 @@
 ---
-title: パートナー センター アカウント構造 |パートナー センター
+title: パートナーセンターのアカウント構造 |パートナーセンター
 ms.topic: article
 ms.date: 06/13/2019
-description: 会社が、パートナー センター アカウントの 2 つのレベル。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: パートナーセンターには、2つのレベルのアカウントがあります。
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
-ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: HT
+ms.openlocfilehash: fc9f4f7e5f6e70a557d23bd23cc4fd32b0dd2a91
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67131719"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653054"
 ---
-# <a name="the-account-structure-in-partner-center"></a><span data-ttu-id="f9653-103">パートナー センター アカウント構造</span><span class="sxs-lookup"><span data-stu-id="f9653-103">The account structure in Partner Center</span></span>
+# <a name="the-account-structure-in-partner-center"></a><span data-ttu-id="d6fc3-103">パートナーセンターのアカウント構造</span><span class="sxs-lookup"><span data-stu-id="d6fc3-103">The account structure in Partner Center</span></span>
 
-<span data-ttu-id="f9653-104">会社が、パートナー センター アカウントの 2 つのレベル。</span><span class="sxs-lookup"><span data-stu-id="f9653-104">Your company has two levels of accounts in Partner Center.</span></span> 
+<span data-ttu-id="d6fc3-104">パートナーセンターには、2つのレベルのアカウントがあります。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-104">Your company has two levels of accounts in Partner Center.</span></span> 
 
-### <a name="the-top-level-is-the-primary-global-account-pga"></a><span data-ttu-id="f9653-105">最上位のレベルは、プライマリ グローバル アカウント (PGA) です。</span><span class="sxs-lookup"><span data-stu-id="f9653-105">The top level is the Primary Global Account (PGA).</span></span>
+### <a name="the-top-level-is-the-primary-global-account-pga"></a><span data-ttu-id="d6fc3-105">最上位レベルは、プライマリグローバルアカウント (PGA) です。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-105">The top level is the Primary Global Account (PGA).</span></span>
 
-- <span data-ttu-id="f9653-106">グローバルのプライマリ アカウントには、法的ビジネス アドレスと、会社の主要な連絡先が含まれています。</span><span class="sxs-lookup"><span data-stu-id="f9653-106">The Primary Global Account contains the legal business address and the primary contact for your company.</span></span> 
-- <span data-ttu-id="f9653-107">パートナーの設定からグローバル プライマリ アカウントの詳細] の [パートナー プロファイルを表示します。</span><span class="sxs-lookup"><span data-stu-id="f9653-107">View the details of your Primary Global Account from Partner Settings -> Partner Profile.</span></span>
-- <span data-ttu-id="f9653-108">詳細は、プライマリのグローバル アカウント MPN ID も含まれます</span><span class="sxs-lookup"><span data-stu-id="f9653-108">The details will also contain the Primary Global Account MPN ID.</span></span> 
-- <span data-ttu-id="f9653-109">PGA は、会社の親であるし、インセンティブ プログラムまたはクラウド ソリューション プロバイダーを関連付けるには使用されません。</span><span class="sxs-lookup"><span data-stu-id="f9653-109">The PGA is the parent of your company and is not used to associate for Incentives programs or Cloud Solution Provider.</span></span> 
-- <span data-ttu-id="f9653-110">このような関連付けの場所を使用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="f9653-110">Locations should be used for such associations.</span></span>
+- <span data-ttu-id="d6fc3-106">プライマリグローバルアカウントには、会社の住所と主要連絡先が含まれています。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-106">The Primary Global Account contains the legal business address and the primary contact for your company.</span></span> 
+- <span data-ttu-id="d6fc3-107">プライマリグローバルアカウントの詳細については、パートナーの設定-> パートナープロファイルに関する情報を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-107">View the details of your Primary Global Account from Partner Settings -> Partner Profile.</span></span>
+- <span data-ttu-id="d6fc3-108">詳細には、プライマリグローバルアカウント MPN ID も含まれます。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-108">The details will also contain the Primary Global Account MPN ID.</span></span> 
+- <span data-ttu-id="d6fc3-109">PGA は会社の親であり、インセンティブプログラムまたはクラウドソリューションプロバイダーの関連付けには使用されません。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-109">The PGA is the parent of your company and is not used to associate for Incentives programs or Cloud Solution Provider.</span></span> 
+- <span data-ttu-id="d6fc3-110">このような関連付けには、場所を使用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-110">Locations should be used for such associations.</span></span>
 
-### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a><span data-ttu-id="f9653-111">2 番目のレベルのアカウントは、パートナー場所アカウント (PLA) と呼ばれる場所アカウントです。</span><span class="sxs-lookup"><span data-stu-id="f9653-111">The second level account is the location account called Partner Location Account (PLA).</span></span>
+### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a><span data-ttu-id="d6fc3-111">第2レベルのアカウントは、Partner Location Account (PLA) と呼ばれる場所のアカウントです。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-111">The second level account is the location account called Partner Location Account (PLA).</span></span>
 
-<span data-ttu-id="f9653-112">その下にあるその他のビジネスの所在地、PGA があります。</span><span class="sxs-lookup"><span data-stu-id="f9653-112">Your PGA may have additional business locations under it.</span></span> <span data-ttu-id="f9653-113">各場所では、独自の MPN ID またはパートナー場所アカウント (PLA) があります。</span><span class="sxs-lookup"><span data-stu-id="f9653-113">Each location has its own MPN ID or Partner Location Account (PLA).</span></span> <span data-ttu-id="f9653-114">場所の MPN ID を使用して、トランザクション ビジネスおよびインセンティブ プログラムで登録します。</span><span class="sxs-lookup"><span data-stu-id="f9653-114">You use the location MPN ID for transactional business and enrollment in incentive programs.</span></span>
+<span data-ttu-id="d6fc3-112">PGA には、その下に追加の事業所がある場合があります。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-112">Your PGA may have additional business locations under it.</span></span> <span data-ttu-id="d6fc3-113">各場所には、独自の MPN ID またはパートナーの場所アカウント (PLA) があります。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-113">Each location has its own MPN ID or Partner Location Account (PLA).</span></span> <span data-ttu-id="d6fc3-114">MPN ID を使用して、取引先とインセンティブプログラムに登録します。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-114">You use the location MPN ID for transactional business and enrollment in incentive programs.</span></span>
 
-- <span data-ttu-id="f9653-115">各パートナーの場所のアカウントには、独自の有効なアドレスと主要連絡先を持つことができます。</span><span class="sxs-lookup"><span data-stu-id="f9653-115">Each Partner Location Account can have its own legal address and primary contact.</span></span> <span data-ttu-id="f9653-116">グローバル アカウントまたはその他の場所、場所は、有効なアドレスを共有もできます。</span><span class="sxs-lookup"><span data-stu-id="f9653-116">Locations can also share the legal address with the global account or with other locations.</span></span>
-- <span data-ttu-id="f9653-117">パートナーの設定からパートナーの場所のアカウントの一覧を表示には、場所]-> [です。</span><span class="sxs-lookup"><span data-stu-id="f9653-117">View the list of Partner Location Accounts from Partner Settings -> Locations.</span></span>
-- <span data-ttu-id="f9653-118">場所のすべてのアカウントは、プライマリ グローバル アカウントと同じレベルには。</span><span class="sxs-lookup"><span data-stu-id="f9653-118">All location accounts are at the same level and under the Primary Global Account.</span></span>
-- <span data-ttu-id="f9653-119">アカウント管理者では、追加したり、場所を削除することができます。</span><span class="sxs-lookup"><span data-stu-id="f9653-119">Account admins can add or remove locations.</span></span>
+- <span data-ttu-id="d6fc3-115">各パートナーの場所アカウントには、独自の法的住所と主要連絡先を含めることができます。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-115">Each Partner Location Account can have its own legal address and primary contact.</span></span> <span data-ttu-id="d6fc3-116">また、場所は、有効なアドレスをグローバルアカウントまたは他の場所と共有することもできます。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-116">Locations can also share the legal address with the global account or with other locations.</span></span>
+- <span data-ttu-id="d6fc3-117">パートナーの設定-> の場所から、パートナーの場所アカウントの一覧を表示します。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-117">View the list of Partner Location Accounts from Partner Settings -> Locations.</span></span>
+- <span data-ttu-id="d6fc3-118">すべての場所アカウントは、プライマリグローバルアカウントと同じレベルにあります。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-118">All location accounts are at the same level and under the Primary Global Account.</span></span>
+- <span data-ttu-id="d6fc3-119">アカウント管理者は、場所を追加または削除できます。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-119">Account admins can add or remove locations.</span></span>
 
-![アカウントの構造体](images/accountstructure.png)
+![アカウントの構造](images/accountstructure.png)
 
-<span data-ttu-id="f9653-121">場所を管理する方法の詳細については、読み取る[パートナー アカウントの管理します。場所](manage-locations.md)します。</span><span class="sxs-lookup"><span data-stu-id="f9653-121">For more information on managing locations, read [Manage your partner account: Locations](manage-locations.md).</span></span> 
+<span data-ttu-id="d6fc3-121">場所の管理の詳細については、「[パートナーアカウントの管理: 場所](manage-locations.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d6fc3-121">For more information on managing locations, read [Manage your partner account: Locations](manage-locations.md).</span></span> 
 
 
 
