@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
-ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
+ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "71678303"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142031"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
 
@@ -67,6 +67,17 @@ ms.locfileid: "71678303"
 
 いいえ。いかなるアカウントも、MFA 適用要件から除外することはできません。 パートナーは高度な特権を持っているため、[クラウド ソリューション プロバイダー プログラムのプログラム ガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)では、パートナー テナントの各アカウントに対して MFA を適用することが要求されています。
 
+### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>パートナーのセキュリティ要件を満たしているかどうかを知るにはどうすればよいですか?
+
+以下の手順を完了する必要があります
+
+- 「[パートナーのセキュリティ要件](https://docs.microsoft.com/partner-center/partner-security-requirements)」で示されているすべての要件を満たす必要があります
+- パートナー テナント内のすべてのユーザー アカウントに多要素認証を適用する必要があります。
+
+アクションを実行できる主要な領域を確認できるよう、パートナー センターから利用できる[セキュリティ要件状態](https://partner.microsoft.com/pcv/security/compliance)レポートが提供されています。
+
+状態レポートの詳細については、「[パートナー セキュリティ要件の状態](https://docs.microsoft.com/partner-center/partner-security-compliance)」を参照してください。
+
 ## <a name="required-actions"></a>必要なアクション
 
 ### <a name="what-are-the-key-actions-i-need-to-take-to-meet-the-requirements"></a>要件を満たすために行う必要がある重要なアクションは何ですか?
@@ -93,7 +104,7 @@ CSP プログラムのすべてのパートナー (直接請求、間接プロ�
     何らかの API (Azure Resource Manager、Microsoft Graph、Partner Center API など) を使用してカスタム統合を開発したすべてのパートナー、または PowerShell などのツールを使用してカスタム自動化を実装したすべてのパートナーは、[セキュリティで保護されたアプリケーション モデル フレームワークを採用する](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)を導入して、Microsoft クラウド サービスと統合する必要があります。 これを行わないと、MFA の展開によって中断が発生する可能性があります。 次のリソースでは、モデルの導入方法に関する概要とガイダンスが提供されています。
 
     - [セキュリティで保護されたアプリケーション モデルの概要](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-    - [パートナー センター: セキュリティで保護されたアプリケーション モデルのガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+    - [パートナー センター: セキュリティで保護されたアプリケーション モデルのガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
     - [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための .NET サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
     - [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための Java サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [パートナー センターの認証に関するドキュメント](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -101,7 +112,7 @@ CSP プログラムのすべてのパートナー (直接請求、間接プロ�
 
     コントロール パネルを使用している場合は、セキュリティで保護されたアプリケーション モデル フレームワークの導入について、ベンダーと相談する必要があります。
 
-    コントロール パネル ベンダーは、コントロール パネル ベンダーとしてパートナー センターに[オンボード](https://docs.microsoft.com/partner-center/enroll-as-cpv)し、すぐにこの要件の実装を開始する必要があります。 「[パートナー センター: セキュリティで保護されたアプリケーション モデル フレームワーク](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)」を参照してください。 コントロール パネル ベンダーは、資格情報ではなく CSP パートナーの同意を受け入れて管理し、既存のすべての CSP パートナーの資格情報を消去する必要があります。
+    コントロール パネル ベンダーは、コントロール パネル ベンダーとしてパートナー センターに[オンボード](https://docs.microsoft.com/partner-center/enroll-as-cpv)し、すぐにこの要件の実装を開始する必要があります。 「[パートナー センター: セキュリティで保護されたアプリケーション モデル フレームワーク](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)」を参照してください。 コントロール パネル ベンダーは、資格情報ではなく CSP パートナーの同意を受け入れて管理し、既存のすべての CSP パートナーの資格情報を消去する必要があります。
 
 ## <a name="multi-factor-authentication"></a>多要素認証
 
@@ -237,18 +248,18 @@ Azure AD テナントから誤ってロックアウトされるのを防ぐた�
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>要件を満たすには、誰がセキュリティで保護されたアプリケーションモデルを採用する必要がありますか?
 
-Microsoft では、多要素認証を利用するクラウド ソリューション プロバイダー (CSP) パートナーおよびコントロール パネル ベンダー (CPV) を認証するために、セキュリティで保護されたスケーラブルなフレームワークを導入しています。 詳細については、[セキュリティで保護されたアプリケーション モデル ガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)を参照してください。 何らかの API (Azure Resource Manager、Microsoft Graph、Partner Center API など) を使用してカスタム統合を開発したすべてのパートナー、または PowerShell などのツールを使用してカスタム自動化を実装したすべてのパートナーは、[セキュリティで保護されたアプリケーション モデル フレームワークを採用する](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)を導入して、Microsoft クラウド サービスと統合する必要があります。
+Microsoft では、多要素認証を利用するクラウド ソリューション プロバイダー (CSP) パートナーおよびコントロール パネル ベンダー (CPV) を認証するために、セキュリティで保護されたスケーラブルなフレームワークを導入しています。 詳細については、[セキュリティで保護されたアプリケーション モデル ガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)を参照してください。 何らかの API (Azure Resource Manager、Microsoft Graph、Partner Center API など) を使用してカスタム統合を開発したすべてのパートナー、または PowerShell などのツールを使用してカスタム自動化を実装したすべてのパートナーは、[セキュリティで保護されたアプリケーション モデル フレームワークを採用する](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)を導入して、Microsoft クラウド サービスと統合する必要があります。
 
 ### <a name="what-is-the-secure-application-model"></a>セキュリティで保護されたアプリケーション モデルとは何ですか?
 
-Microsoft では、多要素認証を利用するクラウド ソリューション プロバイダー (CSP) パートナーおよびコントロール パネル ベンダー (CPV) を認証するために、セキュリティで保護されたスケーラブルなフレームワークを導入しています。 詳細については、[セキュリティで保護されたアプリケーション モデル ガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)を参照してください。  
+Microsoft では、多要素認証を利用するクラウド ソリューション プロバイダー (CSP) パートナーおよびコントロール パネル ベンダー (CPV) を認証するために、セキュリティで保護されたスケーラブルなフレームワークを導入しています。 詳細については、[セキュリティで保護されたアプリケーション モデル ガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)を参照してください。  
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>セキュリティで保護されたアプリケーション モデルを実装するにはどうすればよいですか?
 
 何らかの API (Azure Resource Manager、Microsoft Graph、Partner Center API など) を使用してカスタム統合を開発したすべてのパートナー、または PowerShell などのツールを使用してカスタム自動化を実装したすべてのパートナーは、[セキュリティで保護されたアプリケーション モデル フレームワークを採用する](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)を導入して、Microsoft クラウド サービスと統合する必要があります。 これを行わないと、MFA の展開によって中断が発生する可能性があります。 次のリソースでは、モデルの導入方法に関する概要とガイダンスが提供されています。
 
 - [セキュリティで保護されたアプリケーション モデルの概要](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [パートナー センター: セキュリティで保護されたアプリケーション モデルのガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [パートナー センター: セキュリティで保護されたアプリケーション モデルのガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための .NET サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための Java サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [パートナー センターの認証に関するドキュメント](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -256,11 +267,11 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 コントロール パネルを使用している場合は、セキュリティで保護されたアプリケーション モデル フレームワークの導入について、ベンダーと相談する必要があります。
 
-コントロール パネル ベンダーは、コントロール パネル ベンダーとしてパートナー センターに[オンボード](https://docs.microsoft.com/partner-center/enroll-as-cpv)し、すぐにこの要件の実装を開始する必要があります。 「[パートナー センター: セキュリティで保護されたアプリケーション モデル フレームワーク](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)」を参照してください。 コントロール パネル ベンダーは、資格情報ではなく CSP パートナーの同意を受け入れて管理し、既存のすべての CSP パートナーの資格情報を消去する必要があります。
+コントロール パネル ベンダーは、コントロール パネル ベンダーとしてパートナー センターに[オンボード](https://docs.microsoft.com/partner-center/enroll-as-cpv)し、すぐにこの要件の実装を開始する必要があります。 「[パートナー センター: セキュリティで保護されたアプリケーション モデル フレームワーク](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)」を参照してください。 コントロール パネル ベンダーは、資格情報ではなく CSP パートナーの同意を受け入れて管理し、既存のすべての CSP パートナーの資格情報を消去する必要があります。
 
 ### <a name="who-is-a-control-panel-vendor-cpv"></a>コントロール パネル ベンダー (CPV) とは何ですか?
 
-コントロール パネル ベンダーとは、Partner Center API と統合するために CSP パートナーによって使用されるアプリを開発する独立系ソフトウェア ベンダーです。 コントロール パネル ベンダーは、パートナー センター ダッシュボードまたは API に直接アクセスできる CSP パートナーではありません。 詳しくは、「[パートナー センター: セキュリティで保護されたアプリケーション モデル ガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)」を参照してください。
+コントロール パネル ベンダーとは、Partner Center API と統合するために CSP パートナーによって使用されるアプリを開発する独立系ソフトウェア ベンダーです。 コントロール パネル ベンダーは、パートナー センター ダッシュボードまたは API に直接アクセスできる CSP パートナーではありません。 詳しくは、「[パートナー センター: セキュリティで保護されたアプリケーション モデル ガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)」を参照してください。
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>セキュリティで保護されたアプリケーション モデルは、Partner Center API/SDK に対してのみ実装する必要がありますか?
 
@@ -296,7 +307,7 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>Partner Center SDK を使用しています。 SDK ではセキュリティで保護されたアプリケーション モデルが自動的に使用されますか?
 
-いいえ。[セキュリティで保護されたアプリケーションモデル ガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)に記載されているガイドラインに従う必要があります。
+いいえ。[セキュリティで保護されたアプリケーションモデル ガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)に記載されているガイドラインに従う必要があります。
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-do-not-have-mfa-enabled"></a>MFA が有効になっていないアカウントを使用して、セキュリティで保護されたアプリケーション モデルに対して更新トークンを生成できますか?
 
@@ -304,7 +315,7 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>MFA が有効になっている場合、アプリケーションでアクセス トークンを取得するにはどうすればよいですか?
 
-[セキュリティで保護されたアプリケーション モデル ガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)で提供されている、新しいセキュリティ要件に準拠しながらそれを行う方法の詳細に従う必要があります。 .NET のサンプル コードは[こちら](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)に、Java のサンプル コードは[こちら](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)にあります。
+[セキュリティで保護されたアプリケーション モデル ガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)で提供されている、新しいセキュリティ要件に準拠しながらそれを行う方法の詳細に従う必要があります。 .NET のサンプル コードは[こちら](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)に、Java のサンプル コードは[こちら](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)にあります。
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>CPV は、CPV テナントまたは CSP パートナーのテナントのどちらに Azure AD アプリケーションを作成しますか?
 
@@ -312,7 +323,7 @@ CPV は、CPV として登録に関連付けられているテナントに Azure
 
 ### <a name="i-am-a-csp-that-is-using-app-only-authentication-do-i-need-to-make-any-changes"></a>アプリのみの認証を使用している CSP です。 何か変更する必要がありますか?
 
-ユーザーの資格情報はアクセス トークンの要求に使用されないため、アプリのみの認証は影響を受けません。 ユーザーの資格情報が共有されている場合は、コントロール パネル ベンダー (CPV) は[セキュリティで保護されたアプリケーション モデル フレームワーク](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)を採用し、所有している既存のパートナー資格情報を消去する必要があります。
+ユーザーの資格情報はアクセス トークンの要求に使用されないため、アプリのみの認証は影響を受けません。 ユーザーの資格情報が共有されている場合は、コントロール パネル ベンダー (CPV) は[セキュリティで保護されたアプリケーション モデル フレームワーク](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)を採用し、所有している既存のパートナー資格情報を消去する必要があります。
 
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>CPV は、アプリのみの認証スタイルを利用してアクセス トークンを取得できますか?
 
@@ -347,7 +358,7 @@ CPV は、CPV として登録に関連付けられているテナントに Azure
 ### <a name="resources-for-adopting-secure-application-model"></a>セキュリティで保護されたアプリケーション モデルの採用に関するリソース
 
 - [セキュリティで保護されたアプリケーション モデルの概要](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [パートナー センター: セキュリティで保護されたアプリケーション モデルのガイド](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [パートナー センター: セキュリティで保護されたアプリケーション モデルのガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための .NET サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [CSP プログラムでのパートナー: セキュリティで保護されたアプリケーション モデルを有効にするための Java サンプル コード](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [パートナー センターの認証に関するドキュメント](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)

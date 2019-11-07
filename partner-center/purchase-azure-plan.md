@@ -1,22 +1,22 @@
 ---
 title: Azure プランを購入する | パートナー センター
 ms.topic: article
-ms.date: 10/01/2019
-description: 複数の Azure サブスクリプションを、サブスクリプションごとに注文を送信することなく購入します
+ms.date: 11/01/2019
+description: Azure プランで複数の Azure サブスクリプションを購入します
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 0eead95dc6847dd1eca8f54d7a6e15f8312f9481
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171211"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428526"
 ---
 # <a name="purchase-the-azure-plan"></a>Azure プランを購入する
 
-Microsoft 顧客契約に基づいて顧客向けの Azure プランを購入すると、従量課金制の料金で提供される最新の Azure サービスの完全なカタログへのアクセス権が与えられます。 CSP パートナーは、Azure サービスが一般提供されたときに、そのサービスにアクセスできるようになりました。 パートナーは、1 つの Azure プラン内に複数の Azure サブスクリプションを含めることができます。 
+Microsoft 顧客契約に基づいて顧客向けの Azure プランを購入すると、従量課金制の料金で提供される最新の Azure サービスの完全なカタログへのアクセス権が与えられます。 CSP パートナーは、Azure サービスが一般提供されたときに、そのサービスにアクセスできるようになりました。 パートナーは、1 つの Azure プランで複数の Azure サブスクリプションを持つことができます。 
 
 ## <a name="countryregion-availability"></a>国/地域の可用性
 現時点では、Azure 向けの CSP の新しいコマース エクスペリエンスは、139 か国で利用できるようになることが予定されています。 これらの国/地域の完全な一覧については、[こちら](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)を参照してください。 
@@ -30,10 +30,11 @@ Azure プランの購入方法は、他のサブスクリプションの購入�
 
 ![購入](images/azure/Azurepurchase1.png)
 
-パートナーは、顧客が Microsoft 顧客契約の条項を確認し、同意していることを確認する必要があります。 パートナーがこれを行う方法の詳細については、「[Microsoft 顧客契約に対する顧客の同意を確認する](https://docs.microsoft.com/en-us/partner-center/confirm-customer-agreement)」を参照してください。 その他のリソースは、[リソース ギャラリー](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)から入手できます。
+パートナーは、顧客が Microsoft 顧客契約の条項を確認し、同意していることを確認する必要があります。 パートナーがこれを行う方法の詳細については、「[Microsoft 顧客契約に対する顧客の同意を確認する](https://docs.microsoft.com/partner-center/confirm-customer-agreement)」を参照してください。 その他のリソースは、[リソース ギャラリー](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)から入手できます。
 
-1. 確認
-2. Microsoft との直接的な Microsoft 顧客契約に署名するように顧客を招待することによって。 
+**確認するには、次のいずれかを行います**
+1. デジタル的に確認します。
+2. Microsoft との直接的な Microsoft 顧客契約に署名するように顧客を招待します。 
 
 ### <a name="to-confirm"></a>確認するには 
 
@@ -66,7 +67,7 @@ Azure Reservations をアクティブな Azure プランに関連付ける必要
 
 現時点では、予約のスコープに設定できるのは **[共有]** のみであることに注意してください。 
 
-![scopeshared](images/azure/scopeshared.png)
+![scopeshared](images/azure/addprods1.png)
 
 Azure portal で顧客の予約を管理するには: 
 
@@ -78,7 +79,7 @@ Azure portal で顧客の予約を管理するには:
 
 **[サブスクリプション]** ページの [使用量ベース] セクションで、 **[Azure プラン]** を展開して、Azure プランに関連付けられている Azure サブスクリプションを確認します。
 
-![Viewlist](images/azure/viewlist.png)
+![Viewlist](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>サブスクリプションを追加し、リソースを構成する

@@ -1,18 +1,18 @@
 ---
 title: Azure プランのサブスクリプションとリソースを管理する | パートナー センター
 ms.topic: article
-ms.date: 10/04/2019
-description: 複数の Azure サブスクリプションを、サブスクリプションごとに注文を送信することなく購入します
+ms.date: 11/01/2019
+description: Azure プランで複数の Azure サブスクリプションを購入します
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 5aa39cbecc7f468329c9a5234dd975c776a63ea6
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: c86dee497df6701be0b0c1a734d37823ec51ca9c
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997864"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428493"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure プランのサブスクリプションとリソースを管理する
 
@@ -23,7 +23,7 @@ ms.locfileid: "71997864"
 
  パートナーは、CSP で、ロールベースのアクセス制御機能 (RBAC) によって提供されるさまざまなオプションを使用して、顧客の Azure リソースを 24 時間体制で制御し、管理することができます。 
 
-- **代理管理者 (AOBO)** - AOBO では、パートナー テナントの管理者エージェント ロールを持つすべてのユーザーに、CSP プログラムを使用して作成した Azure サブスクリプションに対する RBAC 所有者のアクセス権が付与されます。
+- **代理管理者 (AOBO)** - [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) では、パートナー テナントの管理者エージェント ロールを持つすべてのユーザーに、CSP プログラムを使用して作成した Azure サブスクリプションに対する RBAC 所有者のアクセス権が付与されます。
 
 - **Azure Lighthouse**:AOBO では、複数の顧客と連携する個別のグループを柔軟に作成したり、グループやユーザーに対して複数のロールを有効にしたりすることはできません。 Azure Lighthouse を使用すると、複数のグループを複数の顧客またはロールに割り当てることができます。 Azure の委任されたリソース管理によって、ユーザーには適切なレベルのアクセス権が付与されるため、管理者エージェント ロールを持つ (つまり、AOBO のフル アクセス権を持つ) ユーザーの数を減らすことができます。 これにより、顧客のリソースへの不要なアクセスが制限され、セキュリティを向上させることができます。 また、大規模な複数の顧客をより柔軟に管理できます。 詳細については、「[Azure Lighthouse と Cloud Solution Provider プログラム](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider)」を参照してください。
 
@@ -39,8 +39,8 @@ ms.locfileid: "71997864"
 |-----------------|:------------------------|:------------------|
 |AOBO   |CSP ダイレクト パートナーまたはインダイレクト プロバイダーは、AOBO を使用して、CSP ダイレクト パートナーまたはインダイレクト プロバイダーをサブスクリプションの既定の所有者にする顧客のサブスクリプションを作成します。CSP のダイレクト パートナーまたはインダイレクト プロバイダーは、AOBO を使用して、サブスクリプションへのアクセス権をインダイレクト リセラーに付与します。|自動 (パートナーの作業は不要)|
 |Azure Lighthouse|パートナーは、新しい[マネージド サービス オファーをマーケットプレースに](https://docs.microsoft.com/azure/lighthouse/concepts/managed-services-offers)作成します。 このオファーが CSP サブスクリプションで承認されると、パートナーは CSP サブスクリプションにアクセスできるようになります。|自動 (パートナーの作業は不要)|
-|Azure Lighthouse|パートナーは、Azure サブスクリプションで [ARM テンプレート](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer)をデプロイします|パートナーは、パートナー テナントのユーザーまたはサービス プリンシパルに MPN ID を関連付ける必要があります。 詳細については、[パートナー ID のリンク](https://docs.microsoft.com/en-us/azure/billing/billing-partner-admin-link-started)に関する記事を参照してください。|
-|ディレクトリまたはゲスト ユーザー|パートナーは、顧客のディレクトリに新しいユーザーまたはサービス プリンシパルを作成し、ユーザーに CSP サブスクリプションへのアクセス権を付与します。 パートナーは、顧客のディレクトリに新しいユーザーまたはサービス プリンシパルを作成します。 パートナーは、グループにユーザーを追加し、グループへの CSP サブスクリプションへのアクセス権を付与します。|パートナーは、顧客テナントのユーザーまたはサービス プリンシパルに MPN ID を関連付ける必要があります。 詳細については、[パートナー ID のリンク](https://docs.microsoft.com/en-us/azure/billing/billing-partner-admin-link-started)に関する記事を参照してください。|
+|Azure Lighthouse|パートナーは、Azure サブスクリプションで [ARM テンプレート](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer)をデプロイします|パートナーは、パートナー テナントのユーザーまたはサービス プリンシパルに MPN ID を関連付ける必要があります。 詳細については、[パートナー ID のリンク](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)に関する記事を参照してください。|
+|ディレクトリまたはゲスト ユーザー|パートナーは、顧客のディレクトリに新しいユーザーまたはサービス プリンシパルを作成し、ユーザーに CSP サブスクリプションへのアクセス権を付与します。 パートナーは、顧客のディレクトリに新しいユーザーまたはサービス プリンシパルを作成します。 パートナーは、グループにユーザーを追加し、グループへの CSP サブスクリプションへのアクセス権を付与します。|パートナーは、顧客テナントのユーザーまたはサービス プリンシパルに MPN ID を関連付ける必要があります。 詳細については、[パートナー ID のリンク](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)に関する記事を参照してください。|
 
 ## <a name="confirm-that-you-have-admin-access"></a>管理者アクセス権を持っていることを確認する
 
@@ -72,7 +72,12 @@ ms.locfileid: "71997864"
 
 PEC を獲得できるロールを確認するには、[パートナー獲得クレジットのロールとアクセス許可](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2)に関する記事を参照してください。
 
+
+
+
 **詳細情報**
+
+- [Azure CSP サブスクリプションの管理者特権を取り消したり元に戻したりする](revoke-reinstate-csp.md)
 
 - [パートナー獲得クレジット - 概要](partner-earned-credit.md)
 

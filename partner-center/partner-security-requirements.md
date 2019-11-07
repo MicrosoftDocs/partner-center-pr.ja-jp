@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: b09588387d3b4f0f3f726a700245999c89755199
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 4c7f4e61cc249fb51f58e4a94892a2d937cae4e1
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425206"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141975"
 ---
 # <a name="partner-security-requirements"></a>パートナーのセキュリティ要件
 
@@ -80,44 +80,7 @@ Windows が実行され、Microsoft Office 2013 がインストールされて�
 
 ## <a name="accessing-your-environment"></a>環境を評価する
 
-多要素認証チャレンジなしで何が、または誰が認証しているかをよく理解するには、Azure Active Directory 監査ログに対してクエリを実行することをお勧めします。 これを行うには、[Azure PowerShell](https://docs.microsoft.com/powershell/azure/overview) モジュールと次のスクリプトを使用します。 これにより、多要素認証チャレンジが行われなかった過去 1 日の間に行われた認証試行の洞察を提供するレポートが生成されます。
-
-```powershell
-Login-AzAccount
-$context = Get-AzContext
-
-function Get-SignInEvents
-{
-    param([string]$userId)
-
-    $content = '{"startDateTime":"' + (Get-Date).AddDays(-1).ToUniversalTime().ToString("yyyy-MM-ddT05:00:00.000Z") + '","endDateTime":"' + (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ss.fffZ")  + '","userId":"' + $userId +'","riskState":[],"totalRisk":[],"realtimeRisk":[],"tokenIssuerType":[],"isAdfsEnabled":false}'
-
-    $token = [Microsoft.Azure.Commands.Common.Authentication.AzureSession]::Instance.AuthenticationFactory.Authenticate($context.Account, $context.Environment, $context.Tenant.Id, $null, "Never", $null, "74658136-14ec-4630-ad9b-26e160ff0fc6")
-
-    $headers = @{
-    'Authorization' = 'Bearer ' + $token.AccessToken
-    'Content-Type' = 'application/json'
-        'X-Requested-With'= 'XMLHttpRequest'
-        'x-ms-client-request-id'= [guid]::NewGuid()
-        'x-ms-correlation-id' = [guid]::NewGuid()
-    }
-
-    Invoke-RestMethod -Body $content -Header $headers -Method POST -Uri "https://main.iam.ad.ext.azure.com/api/Reports/SignInEventsV3"
-}
-
-$report = $()
-
-Get-AzADUser | foreach {
-    $events = Get-SignInEvents $_.Id
-    $report += $events.Items
-}
-
-$report | Where-Object {$_.mfaRequired -eq $false -and $_.loginSucceeded -eq $true} | Select-Object userPrincipalName, userDisplayName, createdDateTime, resourceDisplayName, loginSucceeded, failureReason, mfaRequired, mfaAuthMethod, mfaAuthDetail, mfaResult, @{Name='policies'; Expression={[string]::join(',', $($_.conditionalAccessPolicies | Select-Object displayName).displayName )}}, conditionalAccessStatus | Export-Csv report.csv
-```
-
-上記のスクリプトを実行すると、report.csv ファイルで詳細情報を入手できます。 これには、ユーザーの MFA チャレンジが行われなかった過去 1 日の間に行われた認証試行の一覧が含まれます。 各エントリを確認して、それが予期された動作かどうかを判断し、必要に応じて対応します。
-
-![評価レポート](images/security/assessment-report.png)
+多要素認証のチャレンジを受けないで何が、または誰が認証を行っているかを詳しく理解するには、サインイン アクティビティを確認することをお勧めします。 Azure Active Directory Premium では、サインイン レポートを利用できます。 詳細については、「[Azure Active Directory ポータルのサインイン アクティビティ レポート](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)」をご覧ください。 Azure Active Directory Premium がない場合、または PowerShell を使用してこれを取得する方法を探している場合は、[パートナー センターの PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) モジュールから、[Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) コマンドレットを利用する必要があります。
 
 ## <a name="how-the-requirements-will-be-enforced"></a>要件はどのように適用されるか
 

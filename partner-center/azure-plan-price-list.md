@@ -1,19 +1,19 @@
 ---
 title: Azure プランの価格表 | パートナー センター
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/01/2019
 description: Azure プランのサブスクリプションに対する価格表を確認する方法
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 64f7b6930f31afc63397ae3ed0e0dba2357b0f1e
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171283"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428550"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 向けの CSP の新しいコマース エクスペリエンスの価格表 
 
@@ -54,10 +54,9 @@ CSP の新しい Azure コマース エクスペリエンスの価格表は、�
 
     - **外国為替レート**:当月 1 日の前日の午後 6 時 (太平洋標準時) に外国為替レートをダウンロードできるようになります。 たとえば、11 月のレートが必要な場合は、10 月 31 日にレートをダウンロードします。 前月の外国為替レートも入手できます。
 
-    - **対象となるサービス**:パートナー獲得クレジットは、パートナーが Azure プランの価格ページからエクスポートできる **[Azure プランの従量課金価格]** に記載されているサービスに適用されます。 サードパーティ サービスやAzure Reservations など (これらに限定はされません)、例外があることに注意してください。
-
 - 価格表の価格は、直販価格です。 一部のパートナーは、パートナー獲得クレジットの対象になることがあります。 パートナー獲得クレジットの計算方法の詳細については、「[パートナー獲得クレジットの計算方法と支払い方法](partner-earned-credit-explanation.md)」を参照してください。
 
+- **対象となるサービス**:パートナー獲得クレジットは、パートナーが [Azure プランの価格](https://partner.microsoft.com/commerce/sales)ページからエクスポートできる **Azure プランの従量課金価格**に記載されているサービスに適用されます。 ただし、Azure プランの従量課金価格および Azure プランの予約の [Tags]\(タグ\) 列で [Third Party]\(サードパーティ\) として示されているサードパーティ製品には (それ以外についても)、例外があります。
 
 ## <a name="price-list-data"></a>価格表のデータ
 

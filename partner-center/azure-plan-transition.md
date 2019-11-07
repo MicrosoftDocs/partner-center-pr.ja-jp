@@ -1,23 +1,25 @@
 ---
 title: Azure プランへの顧客の移行 | パートナー センター
 ms.topic: article
-ms.date: 10/15/2019
-description: ''
+ms.date: 11/01/2019
+description: 顧客を Azure プランに簡単に移動します
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 34895de69eaa1aed16a485ddec032769f8dfc7a3
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: bb019f50a6648fb0bfffb7f465a50ed8a5bb6244
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171289"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428536"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>顧客の Azure プランへの移行
 
-パートナーは、各自の顧客を、独立した販促企画 (GTM) や既存の CSP Azure プランから Azure 向けの CSP プログラムで利用できる新しいコマース エクスペリエンスに移行させることができます。 パートナーからの購入、マイクロソフト販売者からの購入、または Web 上での直接購入にかかわらず、クラウド サービスを簡単に購入するための最新の方法が顧客に提供されます。 移行機能は、新しいコマース エクスペリエンスに移行する顧客で、Microsoft 顧客契約に署名している顧客のみを対象としています。Office 365 や Dynamics 365 などの CSP の他のプランは対象外です。
+間接プロバイダーおよび直接請求パートナーは、Azure 向け CSP プログラムで利用可能な新しいコマース エクスペリエンスに移行できます。 (間接リセラーは、間接プロバイダーを通じて行う必要があります)。パートナーからの購入、マイクロソフト販売者からの購入、または Web 上での直接購入にかかわらず、クラウド サービスを簡単に購入するための最新の方法が顧客に提供されます。
+
+移行機能は、新しい Azure 向けコマース エクスペリエンスに移行する顧客で、Microsoft 顧客契約に署名している顧客のみを対象としています。Office 365 や Dynamics 365 などの CSP の他のプランは対象外です。
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>既存の CSP プランの Azure プランへの移行
 
@@ -55,10 +57,13 @@ Azure プランを購入すると、システムによって既存の Azure サ�
 
 ![移行](images/azure/transition3.png)
 
->[!Note]
+>[!NOTE]
 >パートナー センターで設定した予算は、Azure portal には引き継がれません。 Azure portal で、予算とアラートも設定する必要があります。
 
 Azure プランに移行すると、この顧客用の Azure サブスクリプションを購入することはできなくなります。 サブスクリプションは、Azure portal で Azure プランの中に作成します。
+
+>[!NOTE]
+> Azure プランで RBAC を通して購入されたすべての Azure サブスクリプションに対し、現地通貨で請求および課金されます。 為替レートは使用されません。
 
 ### <a name="track-your-transition-details"></a>移行の詳細を追跡する
 
@@ -74,7 +79,7 @@ Azure プランに移行すると、この顧客用の Azure サブスクリプ�
 
 - 既存の CSP サブスクリプションに対する管理者アクセス権を持っている場合は、そのサブスクリプションが移行されたときに引き続きアクセス権を所有します。
 
-ダイレクト エンタープライズ契約を CSP に移行し、サーバーとクラウドの登録を Azure サービスに移行するには、[Microsoft パートナー契約での Azure サブスクリプションの課金所有権の取得]()に関する記事を参照してください。
+ダイレクト エンタープライズ契約を CSP に移行し、サーバーとクラウドの登録を Azure サービスに移行するには、[Microsoft パートナー契約での Azure サブスクリプションの課金所有権の取得](https://docs.microsoft.com/azure/billing/mpa-request-ownership)に関する記事を参照してください。
 
 **監査ログ**:
 
@@ -88,9 +93,9 @@ Azure プランに移行すると、この顧客用の Azure サブスクリプ�
 
 >[注]:CSP で Microsoft Azure (0145P) サブスクリプションを 購入した場合、コマース サブスクリプションと Azure サブスクリプション (権利) の価格は同じになります。 これは、課金所有権の変更または譲渡で価格が異なる場合にのみ発生します。 
 
-**エラー**
+**移行に関する問題**
 
-移行中にエラーが発生することは想定されていません。 発生した場合は、移行ワークフロー自体の中で更新が実行されます。 Azure の使用に障害が発生することはありません。  
+移行中に問題が発生することは想定されていません。 発生した場合は、移行ワークフロー自体の中で更新が実行されます。 Azure の使用に障害が発生することはありません。  
 
 **次の手順**
 

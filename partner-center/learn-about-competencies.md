@@ -1,18 +1,18 @@
 ---
 title: Silver および Gold メンバーシップ獲得のための Microsoft コンピテンシー要件について | パートナー センター
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/29/2019
 description: Silver および Gold メンバーシップ レベルを獲得するためのコンピテンシー要件について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ, 高度な専門性
 ms.localizationpriority: high
-ms.openlocfilehash: 6ae993e049fc651f15e9669aab68c2183085b308
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
+ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318863"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73413357"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft の Silver および Gold コンピテンシーに関する情報と高度な専門性
 
@@ -24,6 +24,8 @@ Microsoft コンピテンシーを獲得すると、1 つまたは複数の専�
 - **Gold メンバーシップ**を獲得すると、マイクロソフト ソリューションの特定の領域内で、クラス最高の能力を備えていることを証明できます
 
 - Gold パートナー メンバーとして、ポートフォリオに高度な専門性を追加することもできます。
+
+**Silver メンバーシップ**または **Gold メンバーシップ**のコンピテンシーを獲得すると、ビジネスの拡大と成長に役立つ強力な[市場進出](mpn-learn-about-go-to-market-benefits.md)のためのマーケティングや販売のベネフィットも得られるようになります。
 
 ## <a name="competency-areas"></a>コンピテンシーの分野
 
@@ -40,6 +42,8 @@ Silver と Gold のコンピテンシー レベルでは、分野ごとに異な
 
 
 [Silver および Gold メンバーシップを獲得するための要件](https://partner.microsoft.com/membership/competencies)をご確認ください。
+
+[Silver および Gold のメンバーシップで利用できる具体的な市場進出のベネフィット](mpn-learn-about-go-to-market-benefits.md)をご確認ください 
 
 [コンピテンシーに対する請求書と税金](mpn-view-print-maps-invoice.md)をご確認ください。
 

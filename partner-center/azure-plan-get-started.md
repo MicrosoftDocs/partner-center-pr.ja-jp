@@ -1,23 +1,23 @@
 ---
 title: Azure プランに移行する - はじめに | パートナー センター
 ms.topic: article
-ms.date: 10/15/2019
-description: ''
+ms.date: 11/01/2019
+description: Azure の新しいコマース エクスペリエンスでサブスクリプションを購入します
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
+Keywords: Azure, Azure プラン, サブスクリプションの購入, サブスクリプション
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: eb46255403297539c17145b82ecf096699abe390
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 23dddf8f521d035a99b685b359fffd00247467e9
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171275"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428448"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Azure プランに移行する - はじめに
 
-Microsoft では、Microsoft パートナー契約に署名している Azure パートナー向けの CSP に新しいコマース エクスペリエンスを導入しています。 この新しいコマース エクスペリエンスでは、パートナーは、Microsoft 顧客契約に基づいて、従量課金制の料金で提供される顧客向けの Azure サービスにアクセスできるようになります。 
+Microsoft は、パートナー センターに新しいコマース エクスペリエンスを導入しました。  この新しいコマース エクスペリエンスでは、パートナーは、Microsoft 顧客契約に基づいて、従量課金制の料金で提供される顧客向けの Azure サービスにアクセスできるようになります。 
 
 このプランによって、購入エクスペリエンスが簡略化され、複数の Azure サブスクリプションを 1 つのAzure プランに含めることができます。 Azure サブスクリプションごとに個別の注文を送信する必要がなくなりました。 また、Azure 向けのこの新しいコマース エクスペリエンスでは、単一のグローバルな価格体系に合わせているため、CSP パートナーが公開価格で Azure を提供できるようにしています。 
 
