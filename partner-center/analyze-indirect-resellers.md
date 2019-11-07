@@ -1,6 +1,8 @@
 ---
 title: 間接リセラーのパフォーマンス分析 | パートナー センター
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 間接リセラーのパフォーマンスに関するデータを取得して、成功度とさらに注意が必要な領域を識別します。
 author: LauraBrenner
 ms.author: labrenne
@@ -9,12 +11,12 @@ ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c46a155b99087f6d6019db4ed81247c269883ae2
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: ef7a20a669481b3724fd98a5fdb62feaea4ede74
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781990"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653924"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>間接リセラーのパフォーマンス分析 
 
@@ -29,10 +31,10 @@ ms.locfileid: "68781990"
 次のメトリックを追跡しています。
 
 **要約**  
- - **合計リセラー数**: サブスクリプションの最終日にアクティブなリセラーの数  
- - **新規リセラー数**: 指定した期間の新規間接リセラーの数  
- - **アクティブなリセラー数**: MPNID に 1 つ以上のサブスクリプションがあり、サブスクリプションの状態がプロビジョニング解除されていない間接リセラーの数  
- - **取引のあるリセラー数**: 指定した期間に販売したサブスクリプションがある間接リセラーの数  
+ - **Total resellers** (リセラーの合計数): サブスクリプションの最終日にアクティブなリセラーの数  
+ - **New resellers** (新規リセラー数): 指定した期間の新規間接リセラーの数  
+ - **Active resellers** (アクティブなリセラー数): MPNID に 1 つ以上のサブスクリプションがあり、サブスクリプションの状態がプロビジョニング解除ではない間接リセラーの数  
+ - **Transacting resellers** (取引のあるリセラー数): 指定した期間に販売したサブスクリプションがある間接リセラーの数  
 
 **市場別のリセラー数**  
  - 地域別の合計リセラー数  
@@ -50,13 +52,13 @@ ms.locfileid: "68781990"
  - 日付ごとの追加された新規サブスクリプションの数  
 
 **サブスクリプションのチャーン**  
- - **新規サブスクリプション**: 日付ごとの追加された新規サブスクリプションの数  
- - **プロビジョニング解除されたサブスクリプション数**: 日付ごとのプロビジョニング解除または中断されたサブスクリプションの数  
+ - **New subscriptions** (新規サブスクリプション数): 日付ごとの追加された新規サブスクリプションの数  
+ - **Deprovisioned subscriptions** (プロビジョニング解除されたサブスクリプション数): 日付ごとのプロビジョニング解除または中断されたサブスクリプションの数  
 
 **新規リセラーの詳細**  
- - **リセラー名**: 間接リセラーの名前  
- - **場所**:間接リセラーが営業している市場  
- - **サブスクリプション**: リセラーが販売したサブスクリプションの数  
- - **ライセンス**: すべてのサブスクリプションを合わせてリセラーが販売したライセンスの合計数  
+ - **Reseller name** (リセラー名): 間接リセラーの名前  
+ - **Location** (場所): 間接リセラーが営業している市場  
+ - **Subscriptions** (サブスクリプション数): リセラーが販売したサブスクリプションの数  
+ - **Licenses** (ライセンス数): すべてのサブスクリプションを合わせてリセラーが販売したライセンスの合計数  
   
   

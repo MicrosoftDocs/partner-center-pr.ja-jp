@@ -2,18 +2,20 @@
 title: 顧客のサブスクリプションの作成、中断、取り消し | パートナー センター
 ms.topic: article
 ms.date: 08/16/2019
-description: パートナー センターで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: パートナー センターで顧客の記録を作成したら、カタログ内の製品へのサブスクリプションを販売できます。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 Keywords: サブスクリプション, 新規作成, サブスクリプションの追加, 中断, 取り消し, 一時停止
 ms.localizationpriority: medium
-ms.openlocfilehash: a79260cf2be62a5cd3d5a340f6c363ebe0200b76
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: 764936d8025cd4aa18e1909a8da2b288c8381a37
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578782"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653598"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
@@ -35,9 +37,9 @@ ms.locfileid: "69578782"
 2. **[サブスクリプションの追加]** を選びます。
 
 3. 特定の種類のサブスクリプションのみを表示するには、使用可能なフィルターで選択を行います。
-   - **発行元**: Microsoft のオファーのみを表示するには **[Microsoft]** を選択し、ISV によって発行された商用マーケットプレース製品を表示するには **[パートナー]** を選択します。
-   - **請求の種類**: 使用するサブスクリプションの請求の種類を選択します: **[ライセンス]** または **[使用状況]** 。 請求頻度を月次と年次のいずれかに決定するのに役立つ情報については、[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)を参照してください。
-   - **カテゴリ**: **[大企業]** 、 **[中小企業]** 、または **[試用版]** を選択します。 試用版サブスクリプションについては、「[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)」をご覧ください。
+   - **発行元**: microsoft からのプランのみを表示し、isv によって発行された商用 marketplace 製品を表示するには、 **[パートナー]** **を選択し**ます。
+   - **課金の種類**: 使用するサブスクリプションの種類 (**ライセンス**または使用) を選択し**ます。** 請求頻度を月次と年次のいずれかに決定するのに役立つ情報については、[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)を参照してください。
+   - **カテゴリ**: **Enterprise**、 **Small Business**、または**試用版**を選択します。 試用版サブスクリプションについては、「[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)」をご覧ください。
 
 4. サブスクリプションを購入する製品を選択します。 表示される製品は、顧客セグメントの種類 (教育機関、政府機関など) および適用したフィルターによって異なることに注意してください。 製品が利用できない場合、顧客がその製品のサブスクリプションを既に保有しており、1 つのみが許可されている可能性があります。 または、サブスクリプションが中断されている可能性があり、その場合は、新しいものを購入する代わりに再アクティブ化することができます。
 
@@ -52,9 +54,9 @@ ms.locfileid: "69578782"
 
 ## <a name="suspend-or-cancel-a-subscription"></a>サブスクリプションを中断または取り消す
 
-顧客から要請があった場合、または未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断するか取り消すことができます。
+顧客から要請があった場合や、未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断またはキャンセルできます。
 
-### <a name="suspend-a-subscription"></a>サブスクリプションの中断
+### <a name="suspend-a-subscription"></a>サブスクリプションを中断する
 
 サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。
 

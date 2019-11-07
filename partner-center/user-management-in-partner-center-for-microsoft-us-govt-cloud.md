@@ -2,16 +2,18 @@
 title: 米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理 | 米国政府機関向け Microsoft Cloud のパートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 個人データの収集と使用に適用される国、地域、および業界固有の要件に準拠するためのユーザー管理機能が、米国政府機関向け Microsoft Cloud のパートナー センターでは利用できません。 代わりに、米国政府機関向け Microsoft Cloud の Azure Portal でユーザーを追加および管理します。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a1ab4524d5a5d13f5f704a4f4760ef9c163f9a02
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: c9cf088adae26ac0dd34088273caeb0023091a6f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668205"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653966"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理
 

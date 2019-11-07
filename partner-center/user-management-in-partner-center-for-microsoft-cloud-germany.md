@@ -2,16 +2,18 @@
 title: Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理 | Microsoft Cloud ドイツのパートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 個人データの収集と使用に適用される国、地域、および業界固有の要件に準拠するためのユーザー管理機能が、Microsoft Cloud ドイツのパートナー センターでは利用できません。 代わりに、Microsoft Cloud ドイツの Azure ポータルでユーザーを追加および管理します。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 91d95f51d89b5fb00bc340004758ce7f87450d3f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820534"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651137"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
 
@@ -20,7 +22,7 @@ ms.locfileid: "68820534"
 -  Microsoft Cloud ドイツのパートナー センター
 
 > [!IMPORTANT]
-> お客様のニーズにおける進化に基づき、Microsoft のドイツ向けのクラウド戦略では、弊社のグローバル クラウド サービスと一貫性のある、ドイツでの新しいクラウドの地域を提供することに焦点を当てます。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在利用可能なクラウド サービスを引き続き利用できます。Microsoft では、必要なセキュリティ更新プログラムを維持する予定です。
+> お客様のニーズの変化に基づいて、ドイツのクラウド戦略は、グローバルクラウドサービスと一貫性のあるドイツの新しいクラウドリージョンの配信に焦点を当てます。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在提供されている現在のクラウドサービスを引き続き使用できます。このサービスは、必要なセキュリティ更新プログラムによって維持されます。
 >  
 > 今後、新しい顧客は、現在利用可能なヨーロッパの地域を利用するか、または利用可能になった時点でドイツの新しい地域を利用することができます。 詳細については、[Microsoft によるドイツの新しいデータセンターからのクラウド サービスの提供](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)に関するページを参照してください。
 
@@ -37,7 +39,7 @@ ms.locfileid: "68820534"
 
 Microsoft Cloud ドイツのパートナー センターにサインインしている場合は、サインインし直さなくても Microsoft Cloud ドイツの Azure ポータルを開くことができます。 ただし、Microsoft Cloud ドイツの Azure portal に直接サインインする必要がある場合は、[https://portal.microsoftazure.de](https://portal.microsoftazure.de) に移動します。 
 
-Microsoft Cloud ドイツの Azure portal に正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
+Microsoft Cloud ドイツの Azure ポータルに正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
 
 > [!NOTE]  
 > 下記のリンクを選択すると、別の Web サイトが開きます。 

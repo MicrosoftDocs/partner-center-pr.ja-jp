@@ -2,18 +2,20 @@
 title: クリプトマイニング アクティビティに関するパートナー センター通知 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 発生している可能性があるクリプトマイニングに関する通知です。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: クリプトマイニング, 暗号通貨マイニング, セキュリティ
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: febce4039e1634fb5e82d083f83e2c11ef47040f
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 7f9f138a55cf7e61e46e2e876263fdd577410c96
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708847"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651127"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>クリプトマイニング (仮想通貨の採掘) アクティビティに関するパートナー センター通知
 

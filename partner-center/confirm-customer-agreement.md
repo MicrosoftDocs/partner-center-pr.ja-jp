@@ -2,23 +2,25 @@
 title: Microsoft 顧客契約へのお客様の同意を確認する | パートナー センター
 ms.topic: article
 ms.date: 09/30/2019
-Description: パートナーは、お客様のために Microsoft 製品とサービスを注文する前に、Microsoft 顧客契約へのお客様の同意を得る必要があります。 パートナーがコンプライアンス要件を満たすことができるように、Microsoft では、パートナーに対して、契約に同意したユーザーに関する特定の詳細情報を提供することにより、同意を確認することを求めています。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: パートナーは、その顧客に対して Microsoft 製品とサービスを注文する前に、お客様の Microsoft カスタマーアグリーメントへの同意を得る必要があります。 パートナーがコンプライアンス要件を満たすことができるように、Microsoft では、パートナーに対して、契約に同意したユーザーに関する特定の詳細情報を提供することにより、同意を確認することを求めています。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: 5247ab8ced05edbb05d2ed690f2375541d2b43aa
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: 8a4b28db2884f833b6df9ee0dd08f262afdb0888
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704175"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653643"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft カスタマー契約に同意するかどうかを確認する
 
-現在、CSP パートナーがお客様の代わりに注文する前に、お客様は該当する **Microsoft Cloud 契約**に同意して署名する必要があります。 その後、パートナーは、署名者に関する情報を Microsoft に提供することで、お客様にその同意を確認する必要があります。 確認が行われていない場合:
-- このお客様について新しい注文を作成することはできません。
-- このお客様について既存のシート ベースのサブスクリプションのシート数を変更することはできません。
+現時点では、CSP パートナーが顧客に代わって注文を行う前に、該当する**Microsoft Cloud 契約**に同意して署名する必要があります。 その後、パートナーは、署名者に関する情報を Microsoft に提供することで、お客様にその同意を確認する必要があります。 確認が行われていない場合:
+- この顧客に対して新しい注文を作成することはできません。
+- この顧客の既存の接続クライアントライセンスの数を変更することはできません。
 
 パートナー センター ダッシュボードまたは API を使用して、Microsoft Cloud 契約へのお客様の同意を確認する方法の詳細については、「[Microsoft Cloud 契約へのお客様の同意を確認する](confirm-consent.md)」を参照してください。
 

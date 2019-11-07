@@ -2,17 +2,19 @@
 title: Microsoft からの紹介案件の獲得によるビジネスの拡大 | パートナー センター
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: お客様が Microsoft の製品やソリューションの導入に際して支援を必要とする場合に、パートナーは見込み客情報を取得し、商談を始めることができます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 紹介, ビジネス プロファイル, パートナーの検索
 ms.localizationpriority: medium
-ms.openlocfilehash: de46c7546ea424c313d0f8216db86d515e851da1
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958738"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652157"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -31,5 +33,5 @@ Microsoft では、ソリューションと専門分野に応じてパートナ�
 開始するには、この[ビジネス プロファイルの最適化](https://player.vimeo.com/video/252788046)に関する短いビデオをご覧ください。  
 
 <!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.
+*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
 -->

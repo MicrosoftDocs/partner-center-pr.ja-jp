@@ -2,17 +2,19 @@
 title: パートナー センターでのソフトウェア アシュアランス計画サービス | パートナー センター
 ms.topic: article
 ms.date: 01/21/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 計画サービスに登録し、企業顧客向けに展開前の計画を提供します。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 展開前, 計画, ソフトウェア アシュアランス
 ms.localizationpriority: medium
-ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708881"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651630"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
 
@@ -20,12 +22,12 @@ ms.locfileid: "68708881"
 
 承認された計画サービス パートナーとして Microsoft は、貴社による企業顧客への展開前計画エンゲージメントの提供に対して補償を行います。 このプログラムに参加することにより、貴社は、いっそう多くの顧客を獲得し、顧客の信頼できる計画パートナーになり、顧客エンゲージメントを追加できる可能性があります。
 
-ソフトウェア アシュアランス計画サービスのことをよく知らない場合は、「[計画サービスでビジネスを成長させる](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)」をご覧ください。
+ソフトウェアアシュアランスの計画サービスに慣れていない場合は、「 [Planning services を使用](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)してビジネスを拡大する」を参照してください。
 
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>、
 
-ソフトウェア アシュアランス計画サービスに慣れていない場合は、以下のすべての手順に従ってください。 既に計画サービス プログラムで活動していて、パートナー アカウント情報がパートナー センターに移動された場合は、後のステップ 4 から始めてください。 
+ソフトウェアアシュアランスサービスを初めてご使用になる場合は、以下のすべての手順に従ってください。 Planning Services プログラムで既にアクティブになっていて、パートナーアカウント情報がパートナーセンターに移動されている場合は、以下の手順 4 (4) から開始します。 
 
 1. プログラムの適格性を確認する 
 2. 計画サービス プログラムに登録する
@@ -43,25 +45,25 @@ ms.locfileid: "68708881"
 
 各計画サービス プログラムには、固有の適格性要件があります。 計画サービスの適格性要件について詳しくは、「[資格の確認](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx)」をご覧ください。
 
-次の手順に従って、貴社の適格性状態を確認します。
+次の手順に従って、会社の資格の状態を確認します。
 
 1. パートナー センターのメニューから [Software Assurance]\(ソフトウェア アシュアランス\) > [Requirements]\(要件\) を選択します。 
 2. [計画サービス] を選択して [計画サービス] タブを開きます。
-3. [Eligibility status]\(適格性状態\) 列をチェックして、特定の計画サービス プログラムに対する貴社の状態を確認します。 
+3. 特定の計画サービスプログラムについて会社の状態を確認するには、資格の状態の状態列を確認します。 
 
-- Not started (開始前) | 貴社にはまだプログラムに参加する資格がありません。 プログラム名を選択し、プログラムの適格性要件を満たすために必要なことを確認してください。
+- 未開始 |まだプログラムに参加する資格がありません。 プログラム名を選択して、プログラムの資格要件を満たすために必要な操作を確認します。
 
-- In progress (進行中) | 貴社はプログラムの適格性要件を満たすためのプロセスを開始しました、まだ行わなければならないことがあります。
+- 進行中 |プログラムの資格要件を満たすプロセスを開始しましたが、まだ実行していることがあります。
 
-- Active (アクティブ) | 貴社の適格性は確認されており、企業顧客に対して計画サービスの提供を開始できる状態になっています。 
+- アクティブ |お客様の資格が確認され、企業のお客様に計画サービスの提供を開始する準備ができました。 
 
-4. 貴社にプログラムに参加する資格があることを確認した後は、貴社のプログラム参加者に計画サービス コンプライアンス トレーニング コースを完了するよう指示します。 
+4. 会社がプログラムに参加する資格があることを確認した後、会社のプログラム参加者に対して、計画サービスのコンプライアンストレーニングコースを完了するように指示します。 
 
-5. 貴社のプログラム参加者が必要なトレーニング コースを完了した後、[登録ページ](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx)に戻り、Microsoft 計画サービス プログラム プロバイダー契約に署名します。 
+5. 会社のプログラム参加者が必要なトレーニングコースを完了したら、[登録ページ](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx)に戻り、Microsoft Planning Service program provider agreement に署名します。 
 
 ## <a name="enroll-in-the-planning-services-program"></a>計画サービス プログラムに登録する
 
-貴社が計画サービス プログラムの適格性要件を満たし、プログラム参加者がコンプライアンス トレーニング コースに合格したなら、登録する準備ができました。 
+企業が Planning Services プログラムの資格要件を満たし、プログラムの参加者がコンプライアンストレーニングコースに合格すると、登録する準備が整います。 
 
 以下の手順に従って、計画サービス プログラムに登録します。
 
@@ -69,11 +71,11 @@ ms.locfileid: "68708881"
 2. [計画サービス] を選択して [計画サービス] タブを開きます。
 3. 登録するプログラムを選んで、 **[登録]** を選択します。
 
-このプロセスを完了すると、貴社の所在地で登録したオファリングを提供することが承認されます。 MPN パートナー管理者としてリストされている貴社の従業員は、すべての場所の代わりとして VVR ツールにアクセスし、計画サービスの利用券を管理する資格があります。
+このプロセスを完了すると、貴社の所在地で登録したオファリングを提供することが承認されます。 MPN パートナー管理者としてリストされている会社の従業員は、任意の場所に代わって計画サービスのバウチャーを管理する VVR ツールにアクセスできるようになります。
 >[!Note]
 > 貴社は、1 年ごとに要件を更新し、計画サービス プログラムに再登録する必要があります。
 
-### <a name="update-your-companys-profile-in-the-planning-services-partner-directory"></a>計画サービス パートナー ディレクトリで貴社のプロファイルを更新する 
+### <a name="update-your-companys-profile-in-the-planning-services-partner-directory"></a>Planning Services パートナーディレクトリで会社のプロファイルを更新する 
 
 顧客は自分のビジネス ニーズを満たすことができるパートナーを、[計画サービス パートナー ディレクトリ](https://directory.partners.extranet.microsoft.com/psbproviders/)で検索します。 貴社は、計画サービス プログラムへの参加を承認されたら、顧客が貴社を見つけられるように、パートナー プロファイルを更新する必要があります。 
 
@@ -87,26 +89,26 @@ ms.locfileid: "68708881"
 
 ## <a name="complete-the-engagement-and-submit-completion-report"></a>エンゲージメントを完了して完了レポートを提出する
 
-貴社は、エンゲージメントを完了し、最終的に完成した成果物を顧客に提供した後、完了レポートを作成して提出する必要があります。
+会社がエンゲージメントを完了し、最終的に完成した成果物を顧客に提供した後、完了レポートを入力して送信する必要があります。
 
 >[!NOTE]
-> また、このステップでは、顧客エンゲージメント成果物のコピーをアップロードする必要もあります。 
+> また、この手順では、customer engagement の成果物のコピーもアップロードする必要があります。 
 
 
 [利用券の検証および引き換えツール (VVR) での利用券の管理](voucher-validation-tool.md)に関する記事の手順に従ってください。
 
 ## <a name="redeem-a-voucher-and-request-payment-from-microsoft"></a>利用券を引き換えて Microsoft に支払いを要求する
 
-利用券を予約した後、それを引き換えることができます。 
+受講券を予約したら、それを引き換えることができます。 
 
 1. 予約済みの利用券の一覧で、引き換える利用券 (複数可) を選びます。 
-2. **[引き換え済み]** 利用券の一覧が表示されます。
+2. **[引き換え済み]** 受講券の一覧が表示されます。
 3. 目的の利用券の横にあるチェック ボックスをオンにして、 **[選択した利用券を使う]** をクリックします。
 4. [利用券の引き換えの確認] ページで、利用券の情報が正しいことを確認し、 **[はい]** を選択して利用券を引き換えます。
 
-5. 申請を作成するには、 **[Create a claim]\(申請の作成\)** を選択するか、利用券の詳細ページで、 **[Create a claim]\(申請の作成\)** を選択します。
+5. 申請を作成するには、 **[Create a claim]\(申請の作成\)** を選択するか、受講券の詳細ページで、 **[Create a claim]\(申請の作成\)** を選択します。
 
-6. **[Create a claim]\(申請の作成\)** を選択すると、Microsoft に請求書を送付するために、[ソフトウェア アシュアランス利用券特典 (SAVB) オンライン支払いツール](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)に移動します。
+6. **[Create a claim]\(申請の作成\)** を選択すると、Microsoft に請求書を送付するために、「[Software Assurance Voucher Benefit (SAVB) Online Payment Tool](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)」 (ソフトウェア アシュアランスの受講券特典 (SAVB) のオンライン支払いツール) に移動します。
 
 
 

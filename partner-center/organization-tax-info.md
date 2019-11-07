@@ -2,17 +2,19 @@
 title: 組織の税情報 | パートナー センター
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: パートナー センターで購入した場合の税額は、会社の住所によって決定されます。 一部の国では、企業が VAT 番号またはそれに相当するものをシステムに入力できます。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c9020aee8c0fd51874cc6d5dadf78d872710e533
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: cbd3b979b19aa191d59840243711b0663f411279
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318631"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652914"
 ---
 # <a name="company-tax-information"></a>会社の税金情報
 

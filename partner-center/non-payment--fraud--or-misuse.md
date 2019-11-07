@@ -2,6 +2,8 @@
 title: 未払い、詐欺、または誤用 | パートナー センター
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 商品やサービスに対する顧客の未払い、不正行為、不正使用などのオンライン トランザクション リスクを管理するための戦略。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐欺, 不正使用, 使用条件, 利用規約, 未払い, 顧客が料金を支払わない, オンライン リスク, サービスの盗用, サービスの不正使用, サブスクリプションの一時停止,
@@ -9,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978734"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652962"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未払い、詐欺、または誤用
 
@@ -35,7 +37,7 @@ ms.locfileid: "72978734"
 
 - **サービスの盗用**: 使用したサービスに対して顧客が料金を支払う意図がないこと。支払い方法の盗用、不正な請求情報の提供、未払い額の支払い不履行などの方法が使用されます。
 
-- **サービスの不正使用**: 顧客が Microsoft の利用規約に従わずにクラウド サービスを使用すること。
+- **サービスの不正行為**クラウドサービスを使用しているお客様は、マイクロソフトの許容される使用ポリシーに違反しています
 
 #### <a name="examples-of-possible-fraud-or-service-abuse"></a>詐欺やサービス不正使用の例
 - スパム

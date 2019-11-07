@@ -2,17 +2,19 @@
 title: パートナー管理センターからパートナー センターに移行するための準備 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Office 365 パートナー管理センターの機能は、パートナー センターに移行されます。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC,Office 365 ドバイザー, ドバイザー, シンジケーション パートナー, PAC 廃止, PAC の廃止
 ms.localizationpriority: medium
-ms.openlocfilehash: 738e8a87ae75c61c32f571db1c5af529c3d3d216
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 234e86f166462a38592ebea3e898d45e99ff8edb
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668411"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654226"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>パートナー管理センターのパートナー センターへの移動
 
@@ -38,7 +40,7 @@ Microsoft パートナー センターは、1 か所で Microsoft および顧�
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Microsoft パートナー センターを今すぐ使い始めましょう
 
-今すぐ [Microsoft パートナー センター](https://partnercenter.microsoft.com/)の使用を開始して、PAC からの移行を準備しましょう。  パートナー センターに使用する資格情報は、PAC の場合と同じです。 
+今すぐ [Microsoft パートナー センター](https://partnercenter.microsoft.com/)の使用を開始して、PAC からの移行を準備しましょう。  PAC に使用するパートナーセンターでも同じ資格情報を使用します。 
 
 > [!IMPORTANT]  
 > PAC で提供されていた機能の一部は、パートナー センターでは利用できなくなります。

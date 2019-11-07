@@ -1,20 +1,22 @@
 ---
-title: Dynamics 365 と顧客エンゲージメント プランを Basic (修飾プラン) から新しいバージョンに移行 |パートナー センター
+title: Dynamics 365 および Customer Engagement プランを基本 (認定提供) から新しいバージョンに移行する |パートナーセンター
 ms.topic: article
 ms.date: 12/12/2018
-description: Dynamics 365 for Sales]、[Basic (修飾提供) のサブスクリプションから Customer Engagement プランは更新不要になったことができます。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Basic (認定オファー) サブスクリプションからの Sales/Customer Engagement プランの Dynamics 365 を更新することはできなくなりました。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-Keywords: Dynamics 365 プラン、オファー、新しい Dynamics 365 の Sku を更新します。
-ms.openlocfilehash: e5128abe71cfab4e2cdabb0cafcd5fd7df56b116
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+Keywords: Dynamics 365 プラン、更新プラン、新しい Dynamics 365 Sku
+ms.openlocfilehash: 354846973227fd292514454dd6f648934e5156ef
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134402"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653310"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Dynamics 365 および Customer Engagement プランの Basic (対象プラン) から新しいバージョンへの移行
 
@@ -22,86 +24,86 @@ ms.locfileid: "62134402"
 
 -  パートナー センター
 
-Dynamics 365 for Sales で効果的な 2019 年 1 月 1日の顧客 (修飾提供) Basic サブスクリプションから Customer Engagement プランですこれらのレガシ プランを更新できなく/。有効期限が切れるときに、既存のサブスクリプションは自動的に更新されません。 サブスクリプションの詳細] ページで、サブスクリプションの状態は、「自動更新 [date]」から「有効期限 [date]」に変更されます。 
+2019年1月1日より、Basic (認定提供) サブスクリプションの Dynamics 365 for Sales/Customer Engagement プランをお持ちのお客様は、これらのレガシプランを更新できなくなります。既存のサブスクリプションは、有効期限が切れると自動的に更新されません。 サブスクリプションの詳細ページで、[日付] の [自動更新] の [日付] にサブスクリプションの状態が [有効期限切れ] に変わります。 
 
 
-お客様の継続性をできるように、以下に、サポートされているオプションに期限切れのサブスクリプションのあるものを移行する必要があります。 お客様のサービスが中断することを避けるため、サブスクリプションの年間終了日前に新しいサブスクリプションにお客様を移行することをお勧めします。
+顧客の継続性を確保するには、有効期限が切れたサブスクリプションを使用して、以下のサポートされているオプションに切り替える必要があります。 顧客のサービスの停止を防ぐために、サブスクリプションの年間終了日前に新しいサブスクリプションに顧客を移動することをお勧めします。
 
-(CREST またはパートナー センター) API を使用する場合、自動と共にサブスクリプションの終了日を評価することによって期限切れのサブスクリプションの更新を見つけることができます = False プロパティ。 対象のサブスクリプションは自動に設定されます更新 = False、2019 年 1 月 1 日を。 お客様は、いつでも新しいプランに移動できます。 
+API (CREST またはパートナーセンター) を使用する場合は、サブスクリプションの終了日と自動更新 = False プロパティを評価することで、有効期限が切れたサブスクリプションを見つけることができます。 該当するサブスクリプションは、2019年1月1日に自動更新 = False に設定されます。 お客様は、いつでも新しいプランに移動できます。 
 
-### <a name="the-dynamics-365-offers-being-retired"></a>Dynamics 365 の提供が中止
+### <a name="the-dynamics-365-offers-being-retired"></a>Dynamics 365 の提供終了
 
-- Dynamics 365 for Sales Enterprise Edition CRMOL Basic (修飾プラン)
-- Dynamics 365 for Faculty 販売の Enterprise Edition CRMOL basic (修飾プラン)
-- Dynamics 365 の学生向け販売の Enterprise Edition CRMOL Basic (修飾プラン)
-- Dynamics 365 for 販売の Enterprise Edition (政府機関向け価格) CRMOL Basic (修飾プラン)
-- Dynamics 365 営業の Enterprise Edition 用 CRM Basic (修飾プラン) 用の SA から
-- Dynamics 365 営業の Enterprise edition for Faculty CRM Basic (修飾プラン) 用の SA から
-- 学生向けの CRM Basic (修飾プラン) 用の SA から売上の Enterprise Edition 用 Dynamics 365
-- Dynamics 365 (政府機関向け価格) 販売の Enterprise Edition 用 CRM Basic (修飾プラン) 用の SA から
-- Dynamics 365 営業の Enterprise Edition のアドオンの CRM basic (修飾プラン)
-- Dynamics 365 営業の Enterprise Edition のアドオンの CRM basic (修飾プラン) for Faculty
-- Dynamics 365 営業の Enterprise Edition のアドオンの学生向けの CRM basic (修飾プラン)
-- Dynamics 365 営業の Enterprise Edition (政府機関向け価格) のアドオンの CRM basic (修飾プラン)
-- Dynamics 365 Customer Engagement プラン Enterprise Edition CRMOL Basic (修飾プラン)
-- Dynamics 365 Customer Engagement プラン Enterprise Edition (政府機関向け価格) CRMOL Basic (修飾プラン)
-- Dynamics 365 Customer Engagement プラン Enterprise Edition CRMOL Basic (修飾プラン) for Students
-- Dynamics 365 Customer Engagement プラン Enterprise Edition CRMOL Basic (修飾プラン) for Faculty
-- CRM Basic (修飾プラン) 用の SA から Dynamics 365 Customer Engagement プラン Enterprise Edition
-- Dynamics 365 Customer Engagement プラン Enterprise Edition (政府機関向け価格) CRM の Basic (修飾プラン) 用の SA から
-- 学生向けの CRM Basic (修飾プラン) 用の SA から Dynamics 365 Customer Engagement プラン Enterprise Edition
-- For Faculty CRM Basic (修飾プラン) 用の SA から Dynamics 365 Customer Engagement プラン Enterprise Edition
-- Dynamics 365 Customer Engagement プラン Enterprise Edition アドオン CRM basic (修飾プラン)
-- Dynamics 365 Customer Engagement プラン Enterprise Edition (政府機関向け価格) アドオン CRM basic (修飾プラン)
-- Dynamics 365 Customer Engagement プラン Enterprise Edition アドオン CRM basic (修飾プラン) の学生向け
-- Dynamics 365 Customer Engagement プラン Enterprise Edition アドオン for Faculty CRM basic (修飾プラン)
+- Dynamics 365 for Sales Enterprise Edition CRMOL Basic (限定プラン)
+- Dynamics 365 for Sales Enterprise Edition CRMOL Basic (認定オファー) for 教職員
+- Dynamics 365 for Sales Enterprise Edition CRMOL Basic (認定オファー) for Students
+- Dynamics 365 for Sales Enterprise Edition (Government 価格) CRMOL Basic (限定プラン)
+- Dynamics 365 for Sales Enterprise Edition for CRM Basic (限定プラン)
+- Dynamics 365 for Sales Enterprise Edition for CRM Basic (認定オファー) for 教職員
+- 学生向けの SA からの Dynamics 365 for Sales Enterprise Edition for CRM Basic (認定オファー)
+- Dynamics 365 for Sales Enterprise Edition (Government 価格) From CRM Basic (限定プラン)
+- CRM Basic 用 Dynamics 365 for Sales Enterprise Edition アドオン (修飾されるプラン)
+- CRM Basic (認定オファー) 用の Dynamics 365 for Sales Enterprise Edition アドオン
+- CRM Basic (認定オファー) for Students 用 Dynamics 365 for Sales Enterprise Edition アドオン
+- CRM Basic 用 Dynamics 365 for Sales Enterprise Edition (Government 価格) アドオン (修飾されるプラン)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (限定プラン)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition (Government 価格) CRMOL Basic (限定プラン)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (認定オファー) for Students
+- Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (認定プラン) (教職員向け)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition for CRM Basic (限定プラン)
+- Dynamics 365 カスタマーエンゲージメントプラン Enterprise Edition (Government 価格) (SA for CRM Basic) (限定プラン)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition for CRM Basic (認定オファー) for Students
+- Dynamics 365 カスタマーエンゲージメントプラン Enterprise Edition for CRM Basic (認定オファー) for 教職員
+- Dynamics 365 Customer Engagement Plan Enterprise Edition アドオン for CRM Basic (修飾されるプラン)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition (Government 価格) アドオン for CRM Basic (認定プラン)
+- CRM Basic (修飾されるオファー) 用の Dynamics 365 カスタマーエンゲージメントプラン Enterprise Edition アドオン
+- Dynamics 365 Customer Engagement Plan Enterprise Edition アドオン for CRM Basic (認定オファー) for 教職員
 
 
 
-## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Dynamics 365 for Sales]、[プラン (修飾提供) Basic 置換から Customer Engagement の計画
+## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Basic (認定オファー) 置換プランからの Sales/Customer Engagement プランの Dynamics 365
 
-**提供終了になったプラン**   
+**提供終了**   
 
-- CRM Basic または CRMOL (修飾プラン) からの売り上げ高の Dynamics 365
-- CRM Basic または CRMOL (修飾プラン) から Dynamics 365 Customer Engagement プラン
+- CRM Basic または CRMOL Basic (修飾プラン) からの Sales の Dynamics 365
+- CRM Basic または CRMOL Basic (限定プラン) からの Dynamics 365 カスタマーエンゲージメントプラン
 
 **置換オプション**
 - Dynamics 365 for Sales Professional (新規)
 - Dynamics 365 for Sales Professional (新規)
-- Dynamics 365 のカスタマー サービスについて
+- 顧客サービスの Dynamics 365
 - Dynamics 365 Customer Engagement プランまたは
-- Dynamics 365 のチーム メンバー
+- Dynamics 365 チームメンバー
 
 
 
 ## <a name="transition-customers-to-new-product-plans"></a>顧客を新しい製品プランに移行する
 
-提供終了になった Sku から新しいものに顧客を移動すると、この順序で次の手順が必要です。
+廃止された Sku から新しいバージョンに顧客を移動するには、次の手順を順番に実行する必要があります。
 
 - 新しいサブスクリプションを購入する
 - 現在のユーザー ライセンスをもう一度割り当てる
 - 以前のサブスクリプションを取り消す
 
-## <a name="purchase-the-new-plan-for-your-customer"></a>お客様の新しいプランを購入します。
+## <a name="purchase-the-new-plan-for-your-customer"></a>顧客の新しいプランを購入する
 
-1. 選択**顧客**から、左側のナビゲーションし、新しいサブスクリプションに移動する顧客を選択します。
-2. 選択**サブスクリプション追加**します。
-3. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、**[送信]** を選びます。 
+1. 左側のナビゲーションから **[Customers]** を選択し、新しいサブスクリプションに移動する顧客を選択します。
+2. **[サブスクリプションの追加]** を選択します。
+3. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、 **[送信]** を選びます。 
 
-古いサブスクリプションと、新しい顧客になりますようになりました。 次の手順では、お客様のユーザーにライセンスを再割り当ています。
+これで、お客様は古いサブスクリプションと新しいサブスクリプションの両方を使用できるようになります。 次の手順では、顧客のユーザーにライセンスを再割り当てします。
 
-1. 選択**顧客**から、左側のナビゲーションと選択し、顧客が移動します。
+1. 左側のナビゲーションから **[Customers]** を選択し、移動する顧客を選択します。
 2. **[ユーザーとライセンス]** を選びます。
-3. ユーザーにライセンスを再割り当てするユーザーを選択し、**ライセンスを管理する**します。 
-4. **ライセンスを管理する** ページで、Dynamics 365 for Sales の消去/(修飾提供) Basic から Customer Engagement プランのライセンスのチェック ボックスとへの移行は、顧客サブスクリプションの新しいサービス プランを選択します。 
-5. **[送信]** を選びます。 これは、新しいライセンスが必要とする各ユーザーの行います。 
+3. ライセンスをユーザーに再割り当てするには、ユーザーを選択し、 **[ライセンスの管理]** を選択します。 
+4. [**ライセンスの管理**365] ページで、[Basic (限定されたプラン) のライセンス] チェックボックスをオンにして、顧客が移動しているサブスクリプションの新しいサービスプランを選択します。 
+5. **[送信]** を選びます。 この操作は、新しいライセンスが必要なユーザーごとに行います。 
 
-経由でライセンスを新しいサブスクリプションに移行した後は、古いサブスクリプションをキャンセルできます。 
+新しいサブスクリプションにライセンスを移行したら、古いサブスクリプションを取り消すことができます。 
 
-1. 選択**顧客**から、左側のナビゲーションと選択し、顧客が移動します。
-2. サブスクリプションの詳細 ページで、古いサブスクリプションを設定**Suspended**選択**送信**します。
+1. 左側のナビゲーションから **[Customers]** を選択し、移動する顧客を選択します。
+2. [サブスクリプションの詳細] ページで、古いサブスクリプションを "**中断**" に設定し、 **[送信]** を選択します。
 
-古いサブスクリプションが中断されていますし、新しいサブスクリプションがアクティブにします。 中断されたサブスクリプションは、120 日後に自動的にプロビジョニングが解除されます。 お客様には、古いサブスクリプションの追加のコストは生じません。
+古いサブスクリプションが中断され、新しいサブスクリプションがアクティブになります。 中断されたサブスクリプションは、120 日後に自動的にプロビジョニングが解除されます。 お客様には、古いサブスクリプションに対して追加料金は発生しません。
  
 
  

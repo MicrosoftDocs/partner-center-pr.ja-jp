@@ -2,18 +2,20 @@
 title: Microsoft Learn の MCP ID をパートナーセンターアカウントに関連付ける |パートナーセンター
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: パートナーセンターでアカウントを指定した場合は、MCP ID を関連付けることで、プロファイルを更新する必要があります。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: ロール、アクセス許可、ユーザーの追加、ロールの割り当て、管理、エージェント、MCP ID、Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: 46f0efc83736d80265620304cf9b07e63d8b5213
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: d7c5a8559254e050ac705ab25362c134a4d34f9c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997748"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654280"
 ---
 # <a name="associate-your-microsoft-learn-account-in-partner-center"></a>パートナーセンターで Microsoft Learn アカウントを関連付ける
 

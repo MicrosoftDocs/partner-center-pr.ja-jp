@@ -2,17 +2,19 @@
 title: クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: クラウド ソリューション プロバイダー プログラムは、新規顧客および新しい専門分野の追加によってビジネスの拡大に役立ちます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナ, CSP での販売, 直接パートナー, CSP 直接パートナー, CSP 間接リセラー, 直接 CSP, 間接 CSP, 直接モデル, 間接モデル, 間接リセラー, 間接プロバイダー, プロバイダー, ディストリビューター, クラウド ソリューション プロバイダー プログラム
 ms.localizationpriority: medium
-ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 4bcbbc33c4992d2cf4500438c2a2340cfee23060
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64666748"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653514"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 
 
@@ -20,12 +22,12 @@ ms.locfileid: "64666748"
 
 -  パートナー センター
 
-クラウド ソリューション プロバイダー (CSP) プログラムを利用すると、ライセンスの再販だけにとどまらず、さらに深く顧客のビジネスに関与することができます。
+クラウドソリューションプロバイダープログラム (CSP) を使用すると、お客様のビジネスにより多くの再販ライセンスを提供することができます。
  
-- 顧客とのつながりを深める: 定期的に対話することで、顧客の業務やニーズをよく理解することができます。
-- 収益を増やす: 直接的または間接プロバイダー経由で提供するサポート量を増やしサービスに対する請求を行うことで、新しい収益の流れができます。  
-- 価値を付加する: 業界固有のソリューションを Microsoft 製品とのバンドルで顧客に提供できます。
-- 管理されたサービスを提供する: 有利な位置付けで、管理されたサービスに対する顧客の需要を満たすことができます。 
+- お客様とのより深い取り組み-顧客との連携により、ビジネスとニーズについて理解を深めることができます。
+- 利益を高める-サポートと課金サービスを向上させるために、お客様自身でも間接プロバイダーでも、新しい収益ストリームが開きます。  
+- 価値の追加-Microsoft 製品にバンドルされている業界固有のソリューションをお客様に提供できます。
+- 管理されたサービスを提供する-管理対象サービスに対する顧客の需要に合わせて適切に配置します。 
 
 ## <a name="which-csp-model-is-best-for-me"></a>貴社に適した CSP モデル
 
@@ -75,6 +77,6 @@ ms.locfileid: "64666748"
 |:---------------------------|:--------------------|
 |各 CSP モデルの要件   | [クラウド ソリューション プロバイダー プログラム](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Microsoft ナショナル クラウドでの販売   | [Microsoft ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)|
-|Microsoft Cloud 契約の顧客用テンプレート   |[地域と言語別の Microsoft Cloud 契約](agreements.md)|
+|Microsoft Cloud 契約顧客用テンプレート   |[地域と言語別の Microsoft Cloud 契約](agreements.md)|
 |パートナー センターでの間接プロバイダーのタスク  |[クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携](indirect-provider-tasks-in-partner-center.md)|
 |パートナー センターでの間接リセラーのタスク   |[クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携](indirect-reseller-tasks-in-partner-center.md)|

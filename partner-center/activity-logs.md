@@ -2,20 +2,22 @@
 title: 顧客のアクティビティ ログを表示する | パートナー センター
 ms.topic: article
 ms.date: 08/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: アクティビティ ログは、顧客の取引やパートナーによる顧客の管理アクションに関する情報を提供します。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: アクティビティ ログ, サブスクリプション, サブスクリプション, 支払い, 課金, トランザクション
 ms.localizationpriority: medium
-ms.openlocfilehash: 4cfbbf48122de87d5e3b650862ab83d0ee27ff04
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
-ms.translationtype: HT
+ms.openlocfilehash: 370844941c65dfd2018cb8958525192e1c04d25b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993956"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653366"
 ---
-# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログの表示
+# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログを表示する
 
 **適用対象**
 

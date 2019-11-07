@@ -2,17 +2,19 @@
 title: パートナー センターのデータ & 分析 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: パートナー センターのデータ機能を使用すると、自社のビジネスについて理解を深めることができます
 author: LauraBrenner
 ms.author: labrenne
 keywords: データ, 分析, データ分析, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c706ce831b6f47a939c6cf958a91abcfad2afd5
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 8817cc372ab2fbefce51f047f81b410c38003966
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667662"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653232"
 ---
 # <a name="get-data-and-analyze-your-business"></a>データの取得とビジネスの分析 
 
@@ -28,13 +30,13 @@ CSP ビジネスの構築方法の計画には、Microsoft 製品が顧客によ
 **パートナー センターでユーザー分析へのアクセスを許可する** 
 
 1.  パートナー センターの **[ユーザー管理]** ページで、検索ボックスを使ってアクセスする必要があるユーザーを検索します。
-2.  検索結果でそのユーザーの名前を選択し、**[ユーザーの詳細]** ページを開きます。
-3.  **[Roles and permissions]\(ロールとアクセス許可\)** で **[MPN partner admin]\(MPN パートナー管理者\)** を選択した後、**[更新]** を選択します。
+2.  検索結果で、ユーザーの名前を選択して、 **[ユーザーの詳細]** ページを開きます。
+3.  **[Roles and permissions]\(ロールとアクセス許可\)** で **[MPN partner admin]\(MPN パートナー管理者\)** を選択した後、 **[更新]** を選択します。
 
  
 ## <a name="access-data-in-partner-center"></a>パートナー センターでのデータへのアクセス
 
-|**取得するデータ**   |**ダウンロードする対象**   |**参照先**   | **適用対象**    |
+|**取得するデータ**   |**ダウンロードする対象**   |**この記事を読む**   | **適用対象**    |
 |---------------------|:-----------------------|:---------------|:--------------|
 |顧客が購入したライセンスの使用状況   |パートナー センターから展開と使用状況データ => 製品分析   |[導入実績と満足度の向上](increasing-adoption-and-satisfaction.md)|CSP パートナー|
 |サブスクリプションに関する顧客のアクティビティ   |アクティビティ ログ   |[顧客のアクティビティ ログの表示](activity-logs.md)|CSP パートナー   |

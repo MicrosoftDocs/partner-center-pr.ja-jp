@@ -2,17 +2,19 @@
 title: パートナー センターに関する問題の報告 | パートナー センター
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: パートナー センターに関する問題を報告する方法と、Microsoft のサポート チーム向けの診断情報を収集する方法について説明します。
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f1f7473f78226a06f06862d466e79b75dfb3b609
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425196"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651715"
 ---
 # <a name="report-problems-with-partner-center"></a>パートナー センターに関する問題の報告
 
@@ -39,7 +41,7 @@ ms.locfileid: "72425196"
 
 **診断を送る**
 
-パートナー センター ページを表示中にエラーが発生した場合、ログ情報を収集するように求められる可能性があります。 ページ上部のドロップ ダウン型のリンクから **[Collect more information]** (詳細情報の収集) を選択し、クライアント診断ツールを開きます。 このツールは、パートナー サポート チームがエラーの原因を特定するために必要な情報を収集します。 
+パートナーセンターのページでエラーが発生した場合は、ログ情報を収集するように求めるメッセージが表示されることがあります。 ページ上部のドロップ ダウン型のリンクから **[Collect more information]** (詳細情報の収集) を選択し、クライアント診断ツールを開きます。 このツールは、パートナー サポート チームがエラーの原因を特定するために必要な情報を収集します。 
 
 >[!NOTE]
 >URL に **/pcv/** が含まれたパートナー センター ページで情報を収集するにはツールを手動で開きます。

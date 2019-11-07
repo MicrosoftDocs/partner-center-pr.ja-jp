@@ -1,20 +1,22 @@
 ---
-title: 顧客のドメイン名とディレクトリ ID を調べる | パートナー センター
+title: 顧客のドメイン名とディレクトリ ID を検索します。パートナーセンター
 ms.topic: article
 ms.date: 3/14/2019
-description: 要求を送信するときに、顧客のドメイン名とディレクトリ ID を調べる方法です
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 要求の送信時に顧客のドメイン名とディレクトリ ID を検索する方法
 author: LauraBrenner
 ms.author: labrenne
 keywords: インセンティブ要求, 協力要求, 協力金, OSA, ISV, 収益関連, ドメイン名, ディレクトリ ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c8982fa25fb1eea4f0ec73e4a9102215f356816
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 6e9f78ff41783a1cd49790288d20c8ccdfd78192
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376407"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653106"
 ---
-# <a name="find-your-customers-domain-name-and-directory-id"></a>顧客のドメイン名とディレクトリ ID を調べる
+# <a name="find-your-customers-domain-name-and-directory-id"></a>顧客のドメイン名とディレクトリ ID を検索する
 
 **適用対象**
 
@@ -22,6 +24,6 @@ ms.locfileid: "68376407"
 
 1.  顧客に [Microsoft Azure portal](https://ms.portal.azure.com/#home) を開き、 **[Azure Active Directory]** を選択してもらいます。 
 
-2.  顧客の **[概要]** セクションでは、会社名のすぐ上にドメイン名が表示されます。  
+2.  顧客の **[概要]** セクションで、ドメイン名が会社名のすぐ上に表示されます。  
 
-3.  **[管理]** 、 **[プロパティ]** の順に選択し、会社のディレクトリ ID を表示します。
+3.  **[管理]** を選択し、 **[プロパティ]** をクリックして会社のディレクトリ ID を表示します。

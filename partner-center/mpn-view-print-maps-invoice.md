@@ -2,17 +2,19 @@
 title: Microsoft Partner Network における請求書と税金 |パートナーセンター
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: MPN メンバーシップ請求書を表示、ダウンロード、および印刷し、課税控除のファイルを送信して、Microsoft の VAT ID 番号を送信する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN、請求書、マップ、課税控除、VAT、VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: 76accd7cd2db254784b260d6fd75ce2e375d729e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73141993"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653041"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft Partner Network の請求書と税金
 

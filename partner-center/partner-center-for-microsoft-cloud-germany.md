@@ -2,17 +2,19 @@
 title: Microsoft Cloud ドイツのパートナー センター | Microsoft Cloud ドイツのパートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Microsoft Cloud ドイツのパートナー センターは、EU および EFTA の加盟国の顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 69e6258838ddd5532157f05988e5a57f714422ff
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 9f3a14161316261fa7ab2744b6de8af74be2ee1d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667797"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654221"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センター
 
@@ -26,12 +28,12 @@ Microsoft Cloud ドイツでは、ドイツのデータセンターから提供�
 
 > [!IMPORTANT]
 
-> お客様のニーズにおける進化に基づき、Microsoft のドイツ向けのクラウド戦略では、弊社のグローバル クラウド サービスと一貫性のある、ドイツでの新しいクラウドの地域を提供することに焦点を当てます。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在利用可能なクラウド サービスを引き続き利用できます。Microsoft では、必要なセキュリティ更新プログラムを維持する予定です。 
+> お客様のニーズの変化に基づいて、ドイツのクラウド戦略は、グローバルクラウドサービスと一貫性のあるドイツの新しいクラウドリージョンの配信に焦点を当てます。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在提供されている現在のクラウドサービスを引き続き使用できます。このサービスは、必要なセキュリティ更新プログラムによって維持されます。 
 > 
 > 今後、新しい顧客は、現在利用可能なヨーロッパの地域を利用するか、または利用可能になった時点でドイツの新しい地域を利用することができます。 詳細については、[Microsoft によるドイツの新しいデータセンターからのクラウド サービスの提供](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)に関するページを参照してください。 
 
 
-## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Microsoft Cloud ドイツのパートナー センター: EU と EFTA でのドイツ クラウド ソリューションの販売
+## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Microsoft Cloud ドイツのパートナー センター: EU と EFTA でドイツのクラウド ソリューションを販売する
 
 Microsoft Cloud ドイツ プログラムのクラウド ソリューション プロバイダー (CSP) に登録した後は、パートナー センターを使用して、ドイツのクラウド固有のソリューションおよびサービスを EU と EFTA の加盟国/地域の顧客に販売します。 
 

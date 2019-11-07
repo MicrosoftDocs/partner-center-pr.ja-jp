@@ -2,17 +2,19 @@
 title: Microsoft Partner Network の特典の管理 | パートナー センター
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Microsoft Partner Network のメンバーは、特定のメンバーシップ特典を購入することができます。 ここではパートナーセンターでメンバーシップ特典を有効にして管理する方法を説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN、メンバーシップ特典、メンバーシップ
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f958bf9fceb9f11edbd63b139796e4944486310
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: be9f4ab4bc23308c3f2a342e6debba1338de4454
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413325"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653314"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 
@@ -35,7 +37,7 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
 
 特典パッケージには、ライセンスされたソフトウェア、クラウドサービス、Visual Studio サブスクリプション、およびサポートの割り当てが含まれます。 特典パッケージには、特定の市場投入特典を含めることもできます。 [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) サイトで Action Pack サブスクリプションの詳細を確認できます。  
 
-すべてのメンバーシップ特典を表示および管理するには、 [**特典**ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits)にアクセスしてください (サインインが必要です)。 または、パートナーセンターの[ダッシュボード](https://docs.microsoft.com/en-us/partner-center/)にサインインし、左側のメニューから [**特典] オプション**を選択して、表示される特典オプションを選択します。  
+すべてのメンバーシップ特典を表示および管理するには、 [**特典**ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits)にアクセスしてください (サインインが必要です)。 または、パートナーセンターの[ダッシュボード](https://docs.microsoft.com/partner-center/)にサインインし、左側のメニューから [**特典] オプション**を選択して、表示される特典オプションを選択します。  
 
 #### <a name="manage-software-benefits"></a>ソフトウェア特典を管理する
 
@@ -108,6 +110,7 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
 
 - グローバル管理
 - MPN パートナー管理者
+
 
 1. 市場開拓の特典**を選択すると、** Microsoft の市場投入特典の一覧が表示されます。
 

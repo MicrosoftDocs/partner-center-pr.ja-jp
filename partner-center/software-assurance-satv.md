@@ -2,17 +2,19 @@
 title: パートナー センターでのソフトウェア アシュアランス トレーニング受講券 (SATV) プログラム | パートナー センター
 ms.topic: article
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: ソフトウェア アシュアランス トレーニング プログラムに登録します
 author: LauraBrenner
 ms.author: labrenne
 keywords: トレーニング受講券, ソフトウェア アシュアランス, トレーニング, SATV での登録, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: 60d60ecb5dca320bc0fc0da2908db95bd200a7be
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73142018"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651596"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム
 
@@ -22,7 +24,7 @@ ms.locfileid: "73142018"
 
 ## <a name="get-started"></a>、
 
-ソフトウェア アシュアランス トレーニング サービスに慣れていない場合は、以下のすべての手順に従ってください。 既にトレーニング受講券プログラムで活動している場合は、次の手順 4 から始めてください。 
+ソフトウェアアシュアランストレーニングサービスを初めてご使用になる場合は、以下のすべての手順に従ってください。 トレーニング伝票プログラムで既にアクティブになっている場合は、以下の手順 4 (4) から開始します。 
 
 1. プログラムの適格性を確認する
 2. トレーニング プログラムに登録する
@@ -39,11 +41,11 @@ ms.locfileid: "73142018"
 
 SATV プログラムに登録する前に、Microsoft Learning コンピテンシーに代わる Microsoft Partner Network Learning オプションの要件を満たしている必要があります。 [Learning オプション](https://partner.microsoft.com/membership/learning-partners)を開始する方法を確認してください。
 
-ご自身の会社の適格性 (適用可能なコンピテンシーと評価の要件を含む) は、パートナー センターで確認できます。 詳細とスクリーンショットについては、「SATV ワークフローの[手順 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) 」に記載されている手順に従ってください。
+パートナーセンターで、適用可能なコンピテンシーおよび評価の要件を含む、会社の資格を確認することができます。 詳細とスクリーンショットについては、「SATV ワークフローの[手順 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) 」に記載されている手順に従ってください。
 
 ## <a name="enroll-in-the-training-program"></a>トレーニング プログラムに登録する
 
-ご自身の会社が適格性の要件を満たし、プログラム参加者がコンプライアンス トレーニング コースに合格したら、いつでもソフトウェア アシュアランス トレーニング受講券プログラム契約に署名し、登録することができます。 必ずすべての[satv program ポリシー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)を確認してから、ワークフローの[手順 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) . の指示に従って、パートナーセンターでの satv 登録プロセスを完了してください。   
+企業が資格要件を満たしていて、プログラムの参加者がコンプライアンストレーニングコースに合格したら、ソフトウェアアシュアランストレーニング伝票プログラム契約に署名し、登録することができます。 必ずすべての[satv program ポリシー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)を確認してから、ワークフローの[手順 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) . の指示に従って、パートナーセンターでの satv 登録プロセスを完了してください。   
 
 
 ## <a name="confirm-course-eligibility"></a>コースの適格性を確認する
@@ -55,7 +57,7 @@ SATV プログラムに登録されると、パートナーが SATV 対象コー
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>顧客の受講券を検証して予約する
 
-受講券を予約して引き換え、顧客のトレーニングを開始できるようになります。 ご自身の会社の MPN 管理者が、パートナー センターの受講券管理ツールにアクセスし、そのツールで作業する必要があるユーザーを追加できます。 バウチャーの検証と予約の手順については、ワークフローの[手順 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)を参照してください。
+受講券を予約して引き換え、顧客のトレーニングを開始できるようになります。 会社の MPN 管理者は、パートナーセンターの伝票管理ツールにアクセスして、ツールで作業する必要があるユーザーを追加できます。 バウチャーの検証と予約の手順については、ワークフローの[手順 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)を参照してください。
 
 ## <a name="deliver-training-and-activate-product"></a>トレーニングを提供し、製品のライセンス認証を行う
 

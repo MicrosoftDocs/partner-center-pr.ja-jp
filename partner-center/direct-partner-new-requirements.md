@@ -2,18 +2,20 @@
 title: CSP の直接パートナーの新しい要件 | パートナー センター
 ms.topic: article
 ms.date: 03/20/2018
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 現在、直接パートナーとして CSP プログラムに登録している場合、これらの更新されたサポートとサービスの要件を満たすために準備する必要があります。
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, 直接パートナー, 直接請求, 要件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3563f113b30cb30e0373c4e81ca4389f19f95cc7
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: ccc337138c62f2f2a1258f183a30e0ca09652f53
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820322"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653221"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>CSP の直接請求パートナーの新しい要件
 
@@ -31,7 +33,7 @@ ms.locfileid: "68820322"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |事業拠点で有効な Microsoft Partner Network (MPN) ID。    |
 |**保証**   |組織を代表して契約書に同意して署名するための権限。|
-|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br> 重要:サポート プランを購入する前に、与信審査に合格する必要があります。 与信審査に合格したら、メールでご連絡します。 |
+|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br> 重要: サポートプランを購入する前に、クレジットを確認する必要があります。 与信審査に合格したら、メールでご連絡します。 |
 |**マネージド サービス**   |少なくとも 1 つの管理されたサービス、IP サービス、または顧客ソリューション アプリケーション。 [管理されたサービス](https://partner.microsoft.com/business-opportunities/managed-services-provider)の追加に関する詳細をご覧ください。|
 |**売掛金勘定** |顧客の請求とプロビジョニングを管理するための組織のインフラストラクチャ。
 

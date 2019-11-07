@@ -2,17 +2,19 @@
 title: 顧客との関係を要求する | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
-description: 関係の要求は、マルチパートナー シナリオとマルチチャンネル シナリオで使用されます。 また、顧客が委任された管理者特権を削除していて、プロビジョニングまたはサポートを提供するためにそれらを復元する必要がある場合にも便利です。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 関係の要求は、マルチパートナー シナリオとマルチチャネル シナリオ用です。 また、顧客が委任された管理者特権を削除していて、プロビジョニングまたはサポートを提供するためにそれらを復元する必要がある場合にも便利です。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 099f38fa6acf523f7627434c7b320c37b46e63e1
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 97ec1f5b346482a6865c7ce99500766b15459c9a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820494"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654104"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>パートナー センターでの顧客との連携
 
@@ -37,14 +39,14 @@ ms.locfileid: "68820494"
 
 3.  次のページで、メール メッセージの下書きを確認します。 既定のメール アプリケーションで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。 
 
-    メールのテキストを編集することはできますが、リンクを必ず含めてください。このリンクは、顧客が貴社のアカウントに直接アクセスできるようにカスタマイズされています。 この手順を完了したら、 **[完了]** を選びます。
+    メールのテキストを編集することはできますが、リンクを必ず含めてください。このリンクは、顧客が貴社のアカウントに直接アクセスできるようにカスタマイズされています。 この手順を完了したら、 **[完了]** を選択します。
 
 3.  顧客にメールを送信します。
 
 5.  顧客が招待を承諾すると、 **[顧客]** ページに顧客が表示され、そこから顧客のサービスのプロビジョニングと管理を実行できるようになります。
 
  
-6.  顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、顧客の名前の下矢印を選んで、顧客のレコードを展開します。
+6.  顧客のアカウント、サービス、ユーザー、およびライセンスを管理するには、顧客のレコードを展開し、名前の近くにある下矢印を選択します。
 
 
 > [!IMPORTANT]  
@@ -64,4 +66,4 @@ ms.locfileid: "68820494"
 ## <a name="see-also"></a>関連項目
 
 - [サポート連絡先の指定](assign-support-contacts.md)
-- [顧客との再販業者関係の削除](remove-a-relationship.md)
+- [顧客との関係の削除](remove-a-relationship.md)

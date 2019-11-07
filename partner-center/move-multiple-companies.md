@@ -2,17 +2,19 @@
 title: 複数の会社を PMC からパートナー センターに移行するためのガイド | パートナー センター
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 複数の会社を PMC からパートナー センターに移行するときに理解しておくこと
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: c0a03412a9b72c3e4c7784511720ea716f6f3abf
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958757"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654347"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>複数の会社をパートナー センターに移動する
 
@@ -20,7 +22,7 @@ ms.locfileid: "68958757"
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>追加のアカウントをパートナー センターに移動する 
 
-会社のアカウントの 1 つは既に PC に移動したので、サインインすると、パートナー センターに既に存在するアカウントが示されます。 
+1つの会社アカウントを既に PC に移動したので、サインインすると、パートナーセンターに既に存在するアカウントを知ることができます。 
 
 
 移行後に、間違った会社のアカウントが法的ビジネスとして指定されていることがわかった場合は、これを変更できます。

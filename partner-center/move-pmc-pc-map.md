@@ -2,17 +2,19 @@
 title: PMC からパートナー センターに移動する | パートナー センター
 ms.topic: article
 ms.date: 06/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: PMC とパートナー センターの違う点と似ている点について説明します
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921475"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653277"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC からパートナー センターに移動する
 
@@ -32,7 +34,7 @@ Microsoft では、エンゲージメントの集中ポイントとして機能�
 
 |**PMC**   |**パートナー センター**|
 |----------------------|:-----------------------------|
-|本社と場所 – それぞれ個別に評価されます。 コンピテンシーの評価はローカル レベルで行われました|1 つのグローバル企業、パートナー グローバル アカウント (PGA) (場所を含む) が、全体として評価されます。パフォーマンスとスキルのデータは、PGA レベルで集計されます。紹介とマーケティング用のパートナー プロファイルやビジネス プロファイルなどのプログラムに対する複数のプロファイル ビューが含まれます。詳細については、「[パートナー センターのアカウント構造](https://docs.microsoft.com/partner-center/account-structure.md)」を参照してください。|
+|本社と場所-それぞれ個別に評価されます。 コンピテンシーの評価はローカル レベルで行われました|1 つのグローバル企業、パートナー グローバル アカウント (PGA) (場所を含む) が、全体として評価されます。パフォーマンスとスキルのデータは、PGA レベルで集計されます。紹介とマーケティング用のパートナー プロファイルやビジネス プロファイルなどのプログラムに対する複数のプロファイル ビューが含まれます。詳細については、「[パートナー センターのアカウント構造](https://docs.microsoft.com/partner-center/account-structure.md)」を参照してください。|
 
 ## <a name="sign-in"></a>[サインイン]
 
@@ -84,7 +86,7 @@ Microsoft では、エンゲージメントの集中ポイントとして機能�
 |受講券の確認と受け取りツール| 受講券の確認と受け取りツール|
 |           |クラウド ソリューション プロバイダー プログラム|
 
-MSA に割り当てられた Visual Studio の特典が守られて、保持されます。 それらは、パートナー センターで更新された後も保持されます。 ただし、パートナー センターに移行された後で MSA の割り当てを削除した場合、パートナー センターに戻すことはできません。
+MSA に割り当てられた Visual Studio の特典が守られて、保持されます。 それらは、パートナー センターで更新された後も保持されます。 ただし、パートナーセンターに移行した後に MSA 割り当てを削除しても、パートナーセンターに戻すことはできません。
 
 パートナー センターで、パートナーは、パートナーが Azure AD テナントの MPN 管理者である同じテナントから、MSA である作業アカウントとゲスト ユーザー アカウントを追加できます。 パートナーが複数の Azure AD テナントのグローバル管理者であり、これらすべてのテナントが同じパートナー センター アカウントに関連付けられている場合、パートナーは、これらすべてのテナントのユーザーを、Visual Studio の特典と Azure の使用量ベースの割り当てに追加することができます。
 

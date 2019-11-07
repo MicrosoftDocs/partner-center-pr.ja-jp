@@ -2,17 +2,19 @@
 title: Microsoft パートナー ビジネスの拡大 | パートナー センター
 ms.topic: article
 ms.date: 05/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Microsoft パートナー ビジネスを拡大するためのリソース。 Microsoft から見込み情報 (紹介案件) を受け取る方法が含まれています。
 keywords: 紹介案件, 紹介案件への対応, 潜在顧客, 見込み情報, マーケティング プロファイル, ビジネス プロファイル, ビジネスの拡大, ビジネス チャンス, コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, 試用版, 市場の拡大, ナショナル クラウド
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc55055229dfc7cf52a50dba776e6234d481d5da
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: b9447ec8b03e92e85ea332e5dac3f9d79d8be0fc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958727"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653045"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft パートナー ビジネスの拡大 
 

@@ -2,16 +2,18 @@
 title: インセンティブ支払い情報を表示する |パートナーセンター
 ms.topic: article
 ms.date: 06/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 description: インセンティブ プログラムの収益と支払いを表示することができます。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a4d69fbe4f4618ebad1f8641f8d07e6563f28fd
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093062"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653994"
 ---
 # <a name="view-your-incentives-payments-information"></a>インセンティブの支払い情報を表示する
 
@@ -33,7 +35,7 @@ ms.locfileid: "71093062"
 ## <a name="payments-page"></a>支払いページ
 このページの合計は、使用するすべての MPN Id を表します。 参加者 ID、プログラム、支払い ID、および製品の種類でフィルター処理できます。 金額は米ドルで示されます。 有料の値は、支払先通貨にも表示されます。 
 
-|**領域**   |**説明**    |
+|**分野**   |**説明**    |
 |------------------|:-------------------------------------|
 |今年の支払い合計        |すべての MPN Id について、この年の合計が米国ドルで合計されています。                                      |
 |次の推定支払い      |1回の次回の支払い (他のユーザーが近日公開されている場合でも) は、米ドルです。                                     |

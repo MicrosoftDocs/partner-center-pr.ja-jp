@@ -2,17 +2,19 @@
 title: Power BI 用パートナー センター分析アプリ | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け) の使用方法を説明します。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 085fcb059a11b487c69ba64d9c411b173ed48c6b
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 4db94f32b035be52dea575d4f731d981beb8c1b8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668746"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652225"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI 用パートナー センター分析アプリでビジネス データを表示する
 
@@ -49,109 +51,109 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 ### <a name="business-insights-report"></a>ビジネス インサイト レポート
 
--  **Customer tenants** (顧客テナント数): サブスクリプションを購入した顧客の個別の Azure AD テナント数
+-  **Customer tenants** (顧客のテナント): サブスクリプションを購入した顧客の個別の Azure AD テナント数
 
--  **New (last 30 days)** (新規 (過去 30 日)): 過去 30 日以内に 1 つ以上のサブスクリプションを購入した新規顧客数
+-  **New (last 30 days)** (新規 (過去 30 日)): 過去 30 日以内に 1 つ以上のサブスクリプションを購入した新規顧客
 
--  **Churn (last 30 days)** (チャーン (過去 30 日)): "アクティブ"、"猶予期間中"、"無効" のいずれのサブスクリプションも持たない顧客数
+-  **チャーン (過去30日間)** : "アクティブ"、"猶予"、"無効" の各サブスクリプションを持たないお客様
 
-- **New (last 24 hours)** (新規 (過去 24 時間)): 過去 24 時間以内に 1 つ以上のサブスクリプションを購入した新規顧客数
+- **New (last 24 hours)** : (新規 (過去 24 時間)) 過去 24 時間以内に 1 つ以上のサブスクリプションを購入した新規顧客
 
-- **Estimated monthly cost over last 12 months** (過去 12 か月間の月間推定コスト): 過去 12 か月間にわたって月単位で集計された税抜き推定請求金額 (単位: ドル) の月別推移
+- **Estimated monthly cost over last 12 months** (過去 12 か月間の月間推定コスト): 過去 12 か月間にわたって月単位で集計された税抜き推定コスト (単位: ドル) の月別推移
 
-- **Estimated cost by product over last 12 months** (過去 12 か月間の製品別推定コスト): 過去 12 か月間にわたって集計された税抜き推定請求金額 (単位: ドル) の順に示された販売済み製品。 これにより、収益性の高い主力製品が明確になります。
+- **Estimated cost by product over last 12 months** (過去 12 か月間の製品別推定コスト): 販売された製品を過去 12 か月間にわたって集計された税抜き推定コスト (単位: ドル) の順に表示したレポート。 これにより、収益性の高い主力製品が明確になります。
 
-- **Customers over last 12 months** (過去 12 か月間の顧客数): 過去 12 か月間にわたって月単位で集計された新規顧客数とチャーン顧客数の月別推移
+- **Customers over last 12 months** (過去 12 か月間の顧客): 過去 12 か月間にわたって月単位で集計された新規顧客とチャーン顧客の月別推移
 
-- **Estimated cost by customer over last 12 months** (過去 12 か月間の顧客別推定コスト): 過去 12 か月間にわたって集計された税抜き推定請求金額 (単位: ドル) の順に示された顧客数。 これにより、収益性の高い主要顧客が明確になります。
+- **Estimated cost by customer over last 12 months** (過去 12 か月間の顧客別推定コスト): 顧客を過去 12 か月間にわたって集計された税抜き推定コスト (単位: ドル) の順に表示したレポート。 これにより、収益性の高い主要顧客が明確になります。
 
-- **Customer count by product** (製品別顧客数): 関連付けられている顧客数の順に示された販売済み製品。 これにより、多くの顧客が購入した主力製品が明らかになります。 
+- **Customer count by product** (製品別顧客数): 製品をそれに関連付けられている顧客数の順に表示したレポート。 これにより、多くの顧客が購入した主力製品が明らかになります。 
 
 
 ### <a name="subscription-insights-report"></a>サブスクリプション インサイト レポート 
 
-- **Subscription status** (サブスクリプションの状態): 
+- **Subscription status** (サブスクリプションの状態):
 
-    - [アクティブ]:"アクティブ" 状態または "猶予期間中" 状態のサブスクリプション数
+    - アクティブ: "アクティブ" または "猶予中" のいずれかの状態に属するサブスクリプション
 
-    - Suspended (中断): "無効" 状態のサブスクリプション数
+    - 中断: "無効" 状態に属するサブスクリプション
 
-    - De-provisioned (プロビジョニング解除): "プロビジョニング解除" 状態または "期限切れ" 状態のサブスクリプション数
+    - プロビジョニング解除: "プロビジョニング解除" または "期限切れ" の状態に属するサブスクリプション
 
-- **Expiry status** (有効期限の状態): 
+- **Expiry status** (有効期限の状態):
 
-    - ［有効期限切れ］:既に有効期限切れのサブスクリプション数 (サブスクリプションの終了日が過去の日付)
+    - Expired (期限切れ): 既に有効期限が切れてた状態のサブスクリプション (サブスクリプションの終了日が過去の日付)
 
-    - Expiring after 30 days (30 日後に期限切れ): 30 日後に期限切れとなるサブスクリプション数 (サブスクリプションの終了日が 30 日後)
+    - Expiring after 30 days (30 日後に期限切れ): 今後 30 日後に期限切れとなるサブスクリプション (サブスクリプションの終了日が 30 日後)
 
-    - Expiring in 30 days (30 日以内に期限切れ): 今後 30 日以内に期限切れとなるサブスクリプション数 (サブスクリプションの終了日が今日から 30 日後までの間)
+    - Expiring in 30 days (30 日以内に期限切れ): 今後 30 日以内に期限切れとなるサブスクリプション (サブスクリプションの終了日が今日から 30 日後までの間)
 
--  **Total subscriptions** (サブスクリプション合計): "アクティブ"、"猶予期間中"、"無効" のいずれかの状態のサブスクリプション数
+-  **サブスクリプションの合計**: "アクティブ"、"猶予"、"無効" の状態のサブスクリプション
 
-- **New (last 30 days)** (新規 (過去 30 日)): 過去 30 日以内に顧客によって購入された新しいサブスクリプション数
+- **New (last 30 days)** (新規 (過去 30 日)): 過去 30 日以内に顧客によって購入された新しいサブスクリプション
 
-- **New (last 24 hours)** (新規 (過去 24 時間)): 過去 24 時間以内に顧客によって購入された新しいサブスクリプション数
+- **New (last 24 hours)** (新規 (過去 24 時間)): 過去 24 時間以内に顧客によって購入された新しいサブスクリプション
 
-- **Expiring in 30 days** (30 日以内に期限切れ): 今後 30 日以内に期限切れとなるサブスクリプション数
+- **30 日以内に期限切れ**: 今後 30 日以内に期限切れとなるサブスクリプション
 
-- **Churn (last 30 days)** (チャーン (過去 30 日)): 過去 30 日以内にプロビジョニング解除または中断 (無効) となったサブスクリプション数
+- **Churn (last 30 days)** (チャーン (過去 30 日)) : 過去 30 日以内にプロビジョニング解除または中断 (無効) となったサブスクリプション
 
 - **Distribution by subscription types** (サブスクリプションの種類別分布率): 全サブスクリプションのライセンス ベースと利用量ベースのサブスクリプションの種類別分布率
 
-- **Active subscription count by product** (製品別アクティブなサブスクリプション数): アクティブなサブスクリプション数の順に示された販売済み製品
+- **Active subscription count by product** (製品別アクティブなサブスクリプション数): 製品をアクティブなサブスクリプション数の順に表示
 
-- **Subscriptions over last 12 months** (過去 12 か月間のサブスクリプション数): 過去 12 か月間にわたって月単位で集計された新規サブスクリプション数とチャーン サブスクリプション数の月別推移
+- **Subscriptions over last 12 months** (過去 12 か月間のサブスクリプション): 過去 12 か月間にわたって月単位で集計された新規サブスクリプションとチャーン サブスクリプションの月別推移
 
-- **Customer subscription details** (顧客のサブスクリプションの詳細): 顧客、サブスクリプション、オファーの詳細ビュー 
+- **Customer subscription details** (顧客のサブスクリプションの詳細): 詳細、サブスクリプション、プランの詳細ビュー 
 
 
 ### <a name="license-insights-report"></a>ライセンス インサイト レポート:
 
-- **Total licenses** (総ライセンス数): すべてのライセンス ベースのサブスクリプションを合わせたライセンスの合計数
+- **Total licenses** (ライセンス合計): すべてのライセンス ベースのサブスクリプションを合わせたライセンスの合計数
 
 - **New (last 30 days)** (新規 (過去 30 日)): 過去 30 日以内のライセンス増加数
 
-- **Churn (last 30 days)** (チャーン (過去 30 日)): 過去 30 日以内のライセンス減少数
+- **Churn (last 30 days)** : (チャーン (過去 30 日)): 過去 30 日以内のライセンス減少数
 
 - **New (last 24 hours)** (新規 (過去 24 時間)): 過去 24 時間以内のライセンス増加数
 
-- **Licenses over last 90 days** (過去 90 日間のライセンス): 過去 90 日間にわたって月単位で集計されたライセンス数増減の月別推移
+- **Licenses over last 90 days** (過去 90 日間のライセンス): 過去 90 日間にわたって月単位で集計されたライセンス増減の月別推移
 
-- **Active license count by product** (製品別アクティブなライセンス数): アクティブなライセンス数の順に示された販売済み製品
+- **Active license count by product** (製品別アクティブなライセンス数): 製品をアクティブなライセンス数の順に表示
 
-- **Active license count by customer** (顧客別アクティブなライセンス数): アクティブなライセンス数の順に示された顧客数
+- **Active license count by customer** (顧客別アクティブなライセンス数): 顧客をアクティブなライセンス数の順に表示
 
-- **Customer license event details over last 90 days** (過去 90 日間の顧客ライセンス イベントの詳細): 顧客、サブスクリプション、サブスクリプション イベント (イベント発生日、イベント名、数量、数量の変化など) の詳細ビュー
+- **Customer license event details over last 90 days** (過去 90 日間の顧客ライセンス イベントの詳細) : 顧客、サブスクリプション、サブスクリプション イベント (イベント発生日、イベント名、数量、数量の変化など) の詳細ビュー
 
 
 ### <a name="licenses-usage-report"></a>ライセンス使用状況レポート:
 
-- **Licenses assigned by product** (製品別割り当て済みライセンス数): ライセンス割り当て数の順に示された販売済み製品
+- **Licenses assigned by product**(製品別割り当て済みライセンス): 販売された製品をライセンス割り当て数の順に表示
 
-- **Licenses in use by product** (製品別使用中ライセンス数): ライセンス使用数の順に示された販売済み製品
+- **Licenses in use by product**(製品別使用中ライセンス): 販売された製品をライセンス使用数の順に表示
 
 - **Customer distribution of licenses assigned** (割り当て済みライセンスの顧客分布): 全顧客を 20% 刻みのライセンス割り当て率の範囲ごとに分割した分布率
 
 - **Customer distribution of licenses in use** (使用中ライセンスの顧客分布): すべての顧客を 20% 刻みの使用中ライセンス率の範囲ごとに分割した分布率
 
-- **Licenses assigned by customer** (顧客別割り当て済みライセンス数): 販売済みライセンスと割り当てられたライセンスを顧客別および製品別に表示した詳細ビュー
+- **Licenses assigned by customer** (顧客別割り当て済みライセンス): 販売されたライセンスと割り当てられたライセンスを顧客別および製品別に表示した詳細ビュー
 
-- **Licenses in use by customer** (顧客別使用中ライセンス数): 販売済みライセンスと使用中ライセンスを顧客別および製品別に表示した詳細ビュー
+- **Licenses in use by customer** (顧客別使用中ライセンス): 販売されたライセンスと使用中ライセンスを顧客別および製品別に表示した詳細ビュー
 
 
 ### <a name="azure-insights-report"></a>Azure インサイト レポート:
 
-- **Usage based customers over last 12 months** (過去 12 か月間の使用量ベースの顧客数): 過去 12 か月間にわたって月単位で集計された使用量ベースの新規顧客数と使用量ベースのチャーン顧客数の月別推移
+- **Usage based customers over last 12 months** (過去 12 か月間の使用量ベースの顧客): 過去 12 か月間にわたって月単位で集計された使用量ベースの新規顧客と使用量ベースのチャーン顧客の月別推移
 
-- **Usage based subscriptions over last 12 months** (過去 12 か月間の使用量ベースのサブスクリプション数): 過去 12 か月間にわたって月単位で集計された使用量ベースの新規サブスクリプション数と使用量ベースのチャーン サブスクリプション数の月別推移
+- **Usage based subscriptions over last 12 months** (過去 12 か月間の使用量ベースのサブスクリプション): 過去 12 か月間にわたって月単位で集計された使用量ベースの新規サブスクリプションと使用量ベースのチャーン サブスクリプションの月別推移
 
-- **Estimated cost of usage by customer over last 60 days** (過去 60 か日間の顧客別推定使用コスト): 過去 60 日間にわたって集計された税抜き推定請求金額 (単位: ドル) の順に示された使用量ベースの顧客数。 これにより、収益性の高い使用量ベースの主要顧客が明確になります。
+- **[Estimated cost of usage by customer over last 60 days]** (過去 60 か日間の顧客別推定使用コスト): 使用量ベースの顧客を過去 60 日間にわたって集計された税抜き推定コスト (単位: ドル) の順に表示したレポート。 これにより、収益性の高い使用量ベースの主要顧客が明確になります。
 
-- **Estimated cost of usage by category over last 60 days** (過去 60 か日間のカテゴリ別推定使用コスト): 過去 60 日間にわたって集計された税抜き推定請求金額 (単位: ドル) の順に示された使用量ベースのサブスクリプションの従量制課金カテゴリ。
+- **Estimated cost of usage by category over last 60 days** (過去 60 か日間のカテゴリ別推定使用コスト): 使用量ベースのサブスクリプションの従量制課金カテゴリを、過去 60 日間にわたって集計された税抜き推定コスト (単位: ドル) の順に表示したレポート。
 
-- **Estimated cost of usage by subscription over last 60 days** (過去 60 か日間のサブスクリプション別推定使用コスト): 過去 60 日間にわたって集計された税抜き推定請求金額 (単位: ドル) の順に示された使用量ベースのサブスクリプション数。
+- **[Estimated cost of usage by subscription over last 60 days]** (過去 60 か日間のサブスクリプション別推定使用コスト): 使用量ベースのサブスクリプションを過去 60 日間にわたって集計された税抜き推定コスト (単位: ドル) の順に表示したレポート。
 
-- **Customer estimated usage cost by spending budget** (予算支出別顧客推定使用コスト): 現在の使用量予算支出のしきい値 (100%) を超えた部分のパーセント率の順に示された顧客数。
+- **Customer estimated usage cost by spending budget** (予算支出別顧客推定使用コスト): 顧客を、現在の使用量予算支出のしきい値 (100%) を超えた部分のパーセント率の順に表示。
 
 
 ### <a name="azure-resource-usage-report"></a>Azure リソース使用状況レポート:

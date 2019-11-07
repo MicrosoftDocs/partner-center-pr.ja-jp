@@ -2,17 +2,19 @@
 title: Microsoft Partner Network メンバーシップのアップグレード | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Microsoft Partner Network メンバーシップをアップグレードすると、限定のメンバーシップ特典を利用できるようになります。 ここでは、提供されている特典を確認および購入する方法について説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: c7d6639ef747c0089e89565680e96a22408770cb
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668723"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651165"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 
@@ -20,19 +22,19 @@ ms.locfileid: "64668723"
 
 -  パートナー センター
 
-マイクロソフトのパートナー プログラムには、次の 3 種類のメンバーシップがあり、レベルに応じて、ビジネス目標を達成するための特典が用意されています。
+Microsoft のパートナープログラムでは、次の3つのメンバーシップオプションが提供されており、ビジネス目標の達成に役立つ増分のメリットがあります。
 
 - **ネットワーク メンバーシップ。** 基本のメンバーシップ レベルです。トレーニング、サポート、顧客との関係構築のための基本レベルの特典が提供されます。 メンバーシップをアップグレードするには、ネットワーク メンバーである必要があります。
 
 - **Microsoft Action Pack サブスクリプション メンバーシップ。** 中小規模のパートナー企業向けの手頃な価格の年間サブスクリプションです。 基本のネットワーク メンバーシップで付与される基本レベルの特典に加え、内部使用権サービスのサブスクリプション、ソフトウェアライセンス、サポートが割り当てられます。
 
-- **Microsoft コンピテンシー。** 自社の能力を証明する認定資格です。 エントリ レベルの特典、追加の内部使用権、パートナー インセンティブの獲得資格、追加のサポート インシデントとアドバイザリー時間が付与されます。
+- **Microsoft コンピテンシー。** 会社の機能を紹介する獲得の指定。 エントリ レベルの特典、追加の内部使用権、パートナー インセンティブの獲得資格、追加のサポート インシデントとアドバイザリー時間が付与されます。
 
-  - Silver コンピテンシー – 一貫した能力、専門知識、取り組みを備えたパートナーに与えられます
+  - シルバーコンピテンシーの一貫した機能、専門知識、およびコミットメント
 
-  - Gold コンピテンシー – 特定のマイクロソフト ソリューション分野におけるクラス最高の能力を備えたパートナーに与えられます
+  - Gold コンピテンシー-特定の Microsoft ソリューション領域内の最高クラスの機能
 
-Microsoft Partner Network メンバーシップに参加すると、メンバーシップをアップグレードし、限定のメンバーシップ特典を購入できるようになります。 Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com) をご覧ください。
+Microsoft Partner Network に参加した後は、メンバーシップをアップグレードし、排他的なメンバーシップ特典の特典をご購入いただけます。 Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com) をご覧ください。
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入する
@@ -61,11 +63,11 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 3. **[次へ]** を選んで、支払い情報を追加します。 
 
-4. 支払情報の入力が必要な場合は、 **[開始にあたり、支払方法を追加してください]** を選択します。 
+4. 支払情報の入力が必要な場合は、 **[開始するにあたり、支払方法を追加してください。]** を選びます。 
 
 5. 支払い情報を入力し、 **[次へ]** を選びます。
 
-6. 注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。 料金は、指定したクレジットカードに即座に請求されます。
+6. 注文の詳細を確認し、Action Pack を購入する準備ができたら **[購入]** を選択します。 料金は、指定したクレジットカードに即座に請求されます。
 
 7. 注文が確認されます。 **[閉じる]** を選びます。
 
@@ -80,7 +82,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 3. Action Pack サブスクリプションを毎年自動的に更新しない場合は、 **[自動更新を無効にする]** を選びます。 
 
 > [!NOTE]  
-> サブスクリプションの自動更新を無効にすると、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 サブスクリプションの有効期限が切れる前に、更新についてお知らせします。
+> サブスクリプションの自動更新を無効にした場合は、サブスクリプションを再度更新しない限り、サブスクリプションを再度有効にすることはできません。 サブスクリプションの有効期限が切れる前に、更新するように通知されます。
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Action Pack サブスクリプションを更新する
@@ -95,11 +97,11 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 5. **[次へ]** を選んで、支払い情報を追加します。 
 
-6. 支払情報の入力が必要な場合は、 **[開始にあたり、支払方法を追加してください]** を選択します。 
+6. 支払情報の入力が必要な場合は、 **[開始するにあたり、支払方法を追加してください。]** を選びます。 
 
 7. 支払い情報を入力し、 **[次へ]** を選びます。
 
-8. 注文の詳細を確認し、間違いがなければ **[購入]** を選んで Action Pack を購入します。 料金は、指定したクレジットカードに即座に請求されます。
+8. 注文の詳細を確認し、Action Pack を購入する準備ができたら **[購入]** を選択します。 料金は、指定したクレジットカードに即座に請求されます。
 
 9. 注文が確認されます。 **[閉じる]** を選びます。
 

@@ -2,17 +2,19 @@
 title: PMC からパートナーセンターへの移行に関するガイド |パートナーセンター
 ms.topic: article
 ms.date: 04/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: PMC からパートナーセンターに会社を移行する場合の注意事項
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, 移行, パートナーセンターへの移行
+keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: f8e0b1fa4b31608ed4031832018c0a003abf0ae9
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708915"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653096"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC からパートナーセンターへの移行に関するガイド
 
@@ -23,7 +25,7 @@ Partner.microsoft.com の Microsoft partner web サイトは、パートナー�
 >[!Note]
 >企業が複数のアカウントまたは場所を持っている場合でも、パートナーセンターへの移行は最初に1つのアカウントをパートナーセンターに移動することから始まります。
 
-## <a name="get-started"></a>作業開始
+## <a name="get-started"></a>、
 
 PMC での移動が開始されます。 グローバル管理者は、移動を開始するための招待を受け取ります。 
 
@@ -37,7 +39,7 @@ PMC での移動が開始されます。 グローバル管理者は、移動を
 
 招待の **[開始]** を選択します。 パートナーセンターのサインインページが表示されます。
 
-![作業開始](images/migration/getstarted.jpg)
+![、](images/migration/getstarted.jpg)
 
 ## <a name="start-with-your-work-email"></a>職場の電子メールで開始する
 
@@ -68,7 +70,7 @@ PMC での移動が開始されます。 グローバル管理者は、移動を
 ![従業員を招待する](images/migration/invite.png)
 
 
-既存の AAD テナントを使用してサインインした場合、従業員はあなたと一緒に移動されます。 この場合は、パートナーセンターで何ができるかを決定する従業員の役割を割り当てます。 注:パートナーセンターのロールは、PMC のロールとは異なります。 詳細については、「 [PMC からパートナーセンターへの移行](move-pmc-pc-map.md)」を参照してください。
+既存の AAD テナントを使用してサインインした場合、従業員はあなたと一緒に移動されます。 この場合は、パートナーセンターで何ができるかを決定する従業員の役割を割り当てます。 注: パートナーセンターのロールは、PMC のロールとは異なります。 詳細については、「 [PMC からパートナーセンターへの移行](move-pmc-pc-map.md)」を参照してください。
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>ドメインを確認し、全体管理者になる  
 
@@ -89,13 +91,13 @@ AAD テナントが新しい場合は、グローバル管理者のロールが�
 
 ![ツアーを見る](images/migration/fre.png)
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
-- [ユーザーアカウントの作成](create-user-accounts-and-set-permissions.md)
-- [ユーザーロールとアクセス許可の割り当て](permissions-overview.md)
-- [メンバーシッププログラムを管理する](renew-mpn-offers.md)
-- [会社のビジネスプロファイルを作成する](create-a-marketing-profile.md)
-- [紹介を通じて顧客とつながる](responding-to-referrals.md)
+- [ユーザー アカウントを作成する](create-user-accounts-and-set-permissions.md)
+- [ユーザー ロールとアクセス許可を割り当てる](permissions-overview.md)
+- [メンバーシップ プログラムを管理する](renew-mpn-offers.md)
+- [会社のビジネス プロファイルを作成する](create-a-marketing-profile.md)
+- [紹介機能で顧客との関係を構築する](responding-to-referrals.md)
 
 ## <a name="see-also"></a>関連項目
 

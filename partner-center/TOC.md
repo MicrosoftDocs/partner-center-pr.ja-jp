@@ -1,4 +1,4 @@
-# [Microsoft パートナー センターについて](index.md)
+# [Microsoft パートナー センターについて](index.yml)
 
 # [Partner Network メンバーシップ](mpn-overview.md)
 ## [パートナー センター アカウントを作成する](mpn-create-a-partner-center-account.md)

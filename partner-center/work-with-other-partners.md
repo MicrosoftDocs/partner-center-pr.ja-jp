@@ -2,16 +2,18 @@
 title: 他のパートナーと連携する | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
-description: CSP で他のパートナーと連携して、共有するユーザーのニーズを満たすことができます。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 共有するユーザーのニーズを満たすために CSP の他のパートナーと連携します。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: a4b26e08d1413cdf3aeb819b2d30891da854beff
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820548"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651159"
 ---
 # <a name="work-with-other-partners"></a>他のパートナーとの連携
 
@@ -19,7 +21,7 @@ ms.locfileid: "68820548"
 
 -  パートナー センター
 
-マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムでは、パートナーが次のような方法で連携できる機会が用意されています。
+Microsoft のクラウドソリューションプロバイダー (CSP) プログラムは、パートナーがこれらの方法で連携する機会を提供します。
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>間接プロバイダー/間接リセラー モデル
 
@@ -41,13 +43,13 @@ CSP で間接リセラーと間接パートナーのどちらで登録するか�
 
 ## <a name="multi-partner-support"></a>マルチパートナーのサポート
 
-パートナー センターのマルチパートナー機能は、お客様が複数のパートナーとの連携を必要とする場合のシナリオに対応します。 たとえば、お客様は Office 365 の専門知識を持つパートナーに依頼し、さらに Microsoft Azure を専門とする別のパートナーにも依頼することができます。 詳しくは、「[マルチパートナーのサポート](multipartner.md)」をご覧ください。
+パートナーセンターのマルチパートナー機能は、顧客が複数のパートナーと協力する必要がある場合のシナリオをサポートします。 たとえば、お客様は Office 365 の専門知識を持つパートナーに依頼し、さらに Microsoft Azure を専門とする別のパートナーにも依頼することができます。 詳しくは、「[マルチパートナーのサポート](multipartner.md)」をご覧ください。
 
 マルチパートナのサポートは、マイクロソフトのナショナル クラウド サービスでも利用できます。 
 
 ## <a name="multi-channel-support"></a>マルチチャンネルのサポート
 
-パートナー センターのマルチチャンネル機能は、顧客が他から購入したサブスクリプションのプロビジョニングやサポートをパートナーに依頼する場合のシナリオに対応します。 詳しくは、「[マルチチャンネルのサポート](multichannel.md)」をご覧ください。
+パートナーセンターのマルチチャネル機能では、顧客が他の場所で購入したサブスクリプションのプロビジョニングとサポートにパートナーを採用する場合のシナリオがサポートされます。 詳しくは、「[マルチチャンネルのサポート](multichannel.md)」をご覧ください。
 
 マルチチャンネルのサポートは、マイクロソフトのナショナル クラウド サービスでも利用できます。
 

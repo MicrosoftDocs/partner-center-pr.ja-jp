@@ -2,17 +2,19 @@
 title: 特別価格の対象となる業界への販売 | パートナー センター
 ms.topic: article
 ms.date: 05/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Microsoft は、教育機関、非営利団体、行政機関ユーザーなど、特定の顧客に対して特別割引価格をご用意しています。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 10b4cf8f261c9d9af4be5aa7c91cc6e81663bfba
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 8405018cd33b36efcbeb936672afcab78273f6e8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820447"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653074"
 ---
 # <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 
@@ -51,7 +53,7 @@ ms.locfileid: "68820447"
 
 ## <a name="see-also"></a>関連項目
 
-[Minecraft の販売:教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する](minecraft-subscriptions.md)
+[Minecraft の販売: 教育機関のお客様へのサブスクリプション](minecraft-subscriptions.md)
 
 [米国政府向け Microsoft Cloud パートナーセンター](partner-center-for-microsoft-us-govt-cloud.md)
 

@@ -2,17 +2,19 @@
 title: Microsoft Partner Network 市場投入の特典について説明します。パートナーセンター
 ms.topic: article
 ms.date: 10/31/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Microsoft Partner Network メンバーとして、特定の市場投入特典の対象となる場合があります。 パートナーセンターで利用可能な、市場投入のさまざまなレベルの特典と、それらをアクティブ化して管理する方法について説明します。
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, メンバーシップ特典, メンバーシップ, マーケティング市場投入特典, 市場投入, マーケットへの移行, GTM, ゴールドメンバーシップ, シルバーメンバーシップ
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fc160c0f98b13c8f3576e518dfdb625162beeb1
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413591"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653254"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>MPN ゴートゥマーケット (GTM) のメンバーシップ特典をご覧ください
 
@@ -41,7 +43,7 @@ GTM の特典を利用すると、市場投入までの時間を短縮し、潜�
 すべての MPN メンバーは、特定の標準 GTM 特典にアクセスできます。 これには、すぐに利用できるマーケティング資産、販売有効化プラットフォーム、オンデマンドデジタルマーケティングへのアクセスが含まれます。 シルバーまたはゴールドコンピテンシーを獲得したパートナーには、さらに GTM な特典があります。
 
 >[!NOTE]
->GTM の特典は、追加と変更の対象となります。 Microsoft Partner Network のマーケットプレース[ページ](https://partner.microsoft.com/en-us/membership/go-to-market)にアクセスして、コンピテンシーレベルで利用できる最新の GTM 特典について確認してください。
+>GTM の特典は、追加と変更の対象となります。 Microsoft Partner Network のマーケットプレース[ページ](https://partner.microsoft.com/membership/go-to-market)にアクセスして、コンピテンシーレベルで利用できる最新の GTM 特典について確認してください。
 
 **シルバー**コンピテンシーレベルを持つその他の GTM 特典を利用できます。
 
@@ -63,7 +65,7 @@ GTM の特典を利用すると、市場投入までの時間を短縮し、潜�
 
 GTM の特典を表示するには:
 
-1. パートナーセンターの[ダッシュボード]( https://docs.microsoft.com/en-us/partner-center/)にサインインします。
+1. パートナーセンターの[ダッシュボード]( https://docs.microsoft.com/partner-center/)にサインインします。
 
 2. 左側のメニューで、 **[MPN]** を選択します。 その後、次のいずれかの操作を行います。
 

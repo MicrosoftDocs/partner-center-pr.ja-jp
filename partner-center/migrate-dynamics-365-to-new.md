@@ -1,20 +1,22 @@
 ---
-title: Dynamics 365 Business Edition には新しいバージョンに移行 |パートナー センター
+title: Dynamics 365 Business Edition のプランを新しいバージョンに移行する |パートナーセンター
 ms.topic: article
 ms.date: 12/12/2018
-description: Dynamics 365 Business Edition のサブスクリプションを更新することが不要になったことができます。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Dynamics 365 Business Edition サブスクリプションは更新できなくなりました。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-Keywords: Dynamics 365 プラン、オファー、新しい Dynamics 365 の Sku を更新します。
-ms.openlocfilehash: ca1823c4055e2d89edc5c49e900a1c255a94f59a
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+Keywords: Dynamics 365 プラン、更新プラン、新しい Dynamics 365 Sku
+ms.openlocfilehash: fc6964135058a805a32f81b09974b8e6d08e85d6
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134372"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653292"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Dynamics 365 Business Edition プランの新しいバージョンへの移行 
 
@@ -22,47 +24,47 @@ ms.locfileid: "62134372"
 
 - パートナー センター
 
-これらの従来の製品に Dynamics 365 Business Edition のサブスクリプションを持つ有効な 2019 年 1 月 1日顧客を更新できなく有効期限が切れるときに、既存のサブスクリプションは自動的に更新されません。 サブスクリプションの詳細] ページで、サブスクリプションの状態は、「自動更新 [date]」から「有効期限 [date]」に変更されます。
+2019年1月1日より、Dynamics 365 Business Edition サブスクリプションをお持ちのお客様は、これらの従来のプランに更新できなくなります。既存のサブスクリプションは、有効期限が切れると自動的に更新されません。 サブスクリプションの詳細ページで、[日付] の [自動更新] の [日付] にサブスクリプションの状態が [有効期限切れ] に変わります。
 
-お客様の継続性をできるように、以下に、サポートされているオプションに期限切れのサブスクリプションのあるものを移行する必要があります。 お客様のサービスが中断することを避けるため、サブスクリプションの年間終了日前に新しいサブスクリプションにお客様を移行することをお勧めします。
+顧客の継続性を確保するには、有効期限が切れたサブスクリプションを使用して、以下のサポートされているオプションに切り替える必要があります。 顧客のサービスの停止を防ぐために、サブスクリプションの年間終了日前に新しいサブスクリプションに顧客を移動することをお勧めします。
 
-(CREST またはパートナー センター) API を使用する場合、自動と共にサブスクリプションの終了日を評価することによって期限切れのサブスクリプションの更新を見つけることができます = False プロパティ。 対象のサブスクリプションは自動に設定されます更新 = False、2019 年 1 月 1 日を。 お客様は、いつでも新しいプランに移動できます。 
+API (CREST またはパートナーセンター) を使用する場合は、サブスクリプションの終了日と自動更新 = False プロパティを評価することで、有効期限が切れたサブスクリプションを見つけることができます。 該当するサブスクリプションは、2019年1月1日に自動更新 = False に設定されます。 お客様は、いつでも新しいプランに移動できます。 
 
-## <a name="the-dynamics-365-business-editions-being-retired"></a>提供が中止される Dynamics 365 Business Edition
+## <a name="the-dynamics-365-business-editions-being-retired"></a>Dynamics 365 Business Edition が廃止されています
 
 - Dynamics 365 for Finance and Operations、Business edition
-- Dynamics 365 Business edition、チーム メンバー
+- Dynamics 365 for Team Members, Business edition
 
-## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics ビジネス中部 - Dynamics 365 Business Edition の新しいプラン
+## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central-Dynamics 365 Business Edition の新しいプラン
 
-新しい Dynamics Business Central で提供では、お客様は、財務、sales、サービス、およびビジネス プロセスの合理化、顧客とのやり取りを改善する操作を接続しより優れた意思決定します。 Dynamics 365 Business Central では、クラウド ベースでクラウド ソリューション プロバイダー (CSP) プログラムのパートナーのみで使用できる説明です。
-Dynamics 365 Business Edition のお客様は割引の遷移が新しい Business Central の価格を受信するが、2020 年 6 月 30日まで提供しています。
+新しい Dynamics Business Central を利用することで、お客様は財務、営業、サービス、操作を接続して、ビジネスプロセスを効率化し、顧客とのやり取りを改善し、より良い意思決定を行うことができます。 Dynamics 365 Business Central はクラウドベースであり、クラウドソリューションプロバイダー (CSP) プログラムパートナーのみが利用できます。
+Dynamics 365 Business Edition のお客様は、2020年6月30日まで、新しい Business Central プランに対する割引された移行料金を受け取ることができます。
 
 ## <a name="transition-customers-to-new-product-plans"></a>顧客を新しい製品プランに移行する
 
- 提供終了になった Sku から新しいものに顧客を移動すると、この順序で次の手順が必要です。
+ 廃止された Sku から新しいバージョンに顧客を移動するには、次の手順を順番に実行する必要があります。
 
 - 新しいサブスクリプションを購入する
 - 現在のユーザー ライセンスをもう一度割り当てる
 - 以前のサブスクリプションを取り消す
 
-## <a name="purchase-the-new-plan-for-your-customer"></a>お客様の新しいプランを購入します。
+## <a name="purchase-the-new-plan-for-your-customer"></a>顧客の新しいプランを購入する
 
-1. 選択**顧客**から、左側のナビゲーションし、新しいサブスクリプションに移動する顧客を選択します。
-2. 選択**サブスクリプション追加**します。
-3. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、**[送信]** を選びます。 
+1. 左側のナビゲーションから **[Customers]** を選択し、新しいサブスクリプションに移動する顧客を選択します。
+2. **[サブスクリプションの追加]** を選択します。
+3. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、 **[送信]** を選びます。 
 
-古いサブスクリプションと、新しい顧客になりますようになりました。 次の手順では、お客様のユーザーにライセンスを再割り当ています。
+これで、お客様は古いサブスクリプションと新しいサブスクリプションの両方を使用できるようになります。 次の手順では、顧客のユーザーにライセンスを再割り当てします。
 
-1. 選択**顧客**から、左側のナビゲーションと選択し、顧客が移動します。
+1. 左側のナビゲーションから **[Customers]** を選択し、移動する顧客を選択します。
 2. **[ユーザーとライセンス]** を選びます。
-3. ユーザーにライセンスを再割り当てするユーザーを選択し、**ライセンスを管理する**します。 
-4. **ライセンスを管理する** ページで、Dynamics 365 for Sales の消去/(修飾提供) Basic から Customer Engagement プランのライセンスのチェック ボックスとへの移行は、顧客サブスクリプションの新しいサービス プランを選択します。 
-5. **[送信]** を選びます。 これは、新しいライセンスが必要とする各ユーザーの行います。 
+3. ライセンスをユーザーに再割り当てするには、ユーザーを選択し、 **[ライセンスの管理]** を選択します。 
+4. [**ライセンスの管理**365] ページで、[Basic (限定されたプラン) のライセンス] チェックボックスをオンにして、顧客が移動しているサブスクリプションの新しいサービスプランを選択します。 
+5. **[送信]** を選びます。 この操作は、新しいライセンスが必要なユーザーごとに行います。 
 
-経由でライセンスを新しいサブスクリプションに移行した後は、古いサブスクリプションをキャンセルできます。 
+新しいサブスクリプションにライセンスを移行したら、古いサブスクリプションを取り消すことができます。 
 
-1. 選択**顧客**から、左側のナビゲーションと選択し、顧客が移動します。
-2. サブスクリプションの詳細 ページで、古いサブスクリプションを設定**Suspended**選択**送信**します。
+1. 左側のナビゲーションから **[Customers]** を選択し、移動する顧客を選択します。
+2. [サブスクリプションの詳細] ページで、古いサブスクリプションを "**中断**" に設定し、 **[送信]** を選択します。
 
-古いサブスクリプションが中断されていますし、新しいサブスクリプションがアクティブにします。 中断されたサブスクリプションは、120 日後に自動的にプロビジョニングが解除されます。 お客様には、古いサブスクリプションの追加のコストは生じません。
+古いサブスクリプションが中断され、新しいサブスクリプションがアクティブになります。 中断されたサブスクリプションは、120 日後に自動的にプロビジョニングが解除されます。 お客様には、古いサブスクリプションに対して追加料金は発生しません。

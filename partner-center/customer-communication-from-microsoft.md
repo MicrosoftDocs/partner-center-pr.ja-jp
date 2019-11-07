@@ -1,21 +1,23 @@
 ---
-title: マイクロソフトから顧客への連絡 | パートナー センター
+title: Microsoft から顧客への通信 |パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 一般的に、お客様とのすべての通信は、クラウド ソリューション プロバイダー パートナーから行われることが求められます。
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 連絡、お客様への連絡、マイクロソフトに問い合わせる
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dc78c78418c3d111ad83bc4a5ef5e304a0b90e7
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: b7196ec84c40fb4cfafc5aa388d40433c5c96863
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668034"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653466"
 ---
-# <a name="customer-communication-from-microsoft"></a>Microsoft から顧客への通信
+# <a name="customer-communication-from-microsoft"></a>Microsoft からお客様への通信
 
 **適用対象**
 

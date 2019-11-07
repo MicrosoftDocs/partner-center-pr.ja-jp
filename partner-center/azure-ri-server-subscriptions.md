@@ -2,17 +2,19 @@
 title: Azure Reserved VM Instances (RI) + Server Subscriptions for Azure | パートナー センター
 ms.topic: article
 ms.date: 7/30/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 今日、十分な予測が可能で持続的なクラウド ワークロードはコスト効率の高いソリューションでサポートしたいという需要が急速に高まっています。Azure RI と Server Subscriptions が CSP プログラムに含まれることで、パートナーはこのような顧客の需要に対応できます。 CSP プログラムでは、パートナーが企業顧客に代わり、Microsoft パートナー センターと Azure portal を通じて Azure RI と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, サブスクリプション, VM, 予約, 予約インスタンス
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ec13a664ecc29ec2e9ac28fa21671ea45d09cdd
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820331"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653800"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -35,7 +37,7 @@ Azure Reservations では、1 年分または 3 年分の料金を前払いす�
 
 今日、予測が十分可能で永続的なクラウド ワークロードはコスト効率の高いソリューションでサポートしたいという需要が急速に高まっています。Azure Reservations とサーバー サブスクリプションが CSP プログラムに含まれることで、Microsoft のパートナーはこのような顧客の需要に対応できます。 CSP プログラムでは、パートナーが企業顧客に代わり、Microsoft パートナー センターと Azure portal を通じて Azure Reservations とサーバー サブスクリプションの取得、プロビジョニング、管理を行うことができます。 Azure Reservations を利用すると、開発、テスト、アプリケーションの実行、データセンターの拡張を含む幅広いコンピューティング ソリューションに対して柔軟な仮想化を実現できます。 
 
-たとえば、[Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) により、企業顧客は 1 年または 3 年の期間設定で仮想マシンを購入 ("予約") するだけで、従量課金制の Azure VM 価格設定と比較すると最大でコストの 72% を節約することができます。 ソフトウェア アシュアランスに含まれている Azure ハイブリッド特典を利用できる Windows Server 顧客は、従量課金制の価格と比較して最大 80% を節約できます。 
+たとえば[Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/)では、商用のお客様は、1年間または3年間の仮想マシンを購入または "予約" するだけで、最大72% と従量課金制の Azure VM 料金を節約できるようになりました。 ソフトウェア アシュアランスに含まれている Azure ハイブリッド特典を利用できる Windows Server 顧客は、従量課金制の価格と比較して最大 80% を節約できます。 
 
 訴求力のある価格設定と驚くべき展開柔軟性という無比の組み合わせで、Azure Reservations を選んだ顧客には、すべてにおいて最大の価値が提供されます。
 
@@ -61,7 +63,7 @@ Azure Reservations では、1 年分または 3 年分の料金を前払いす�
 #### <a name="isv-annual-subscriptions"></a>ISV 年間サブスクリプション
 -   CloudSimple での Azure VMware ソリューション
 
-## <a name="getting-started"></a>作業の開始
+## <a name="getting-started"></a>開始するには
 
 顧客に対する Azure Reservations の位置付けを理解し、できる限り早く営業活動を開始するには、次に示すアプローチで準備資料を確認することをお勧めします。
 
@@ -97,7 +99,7 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 - [Azure の料金概要](https://azure.microsoft.com/pricing/)
 - [Azure 料金計算ツール](https://azure.microsoft.com/pricing/calculator)
 - [Azure Databricks ユニットの予約](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
-- CSP の価格表:**Microsoft Azure の予約インスタンス**と**ソフトウェアサブスクリプション**の価格表は両方とも、パートナーセンターの[価格 &](https://partner.microsoft.com/pcv/sales)のページに掲載されています。
+- CSP の価格表: **Microsoft Azure 予約インスタンス**と**ソフトウェアサブスクリプション**の価格表は両方とも、パートナーセンターの価格[&](https://partner.microsoft.com/pcv/sales)のページに掲載されています。
 
 
 **トレーニング**
@@ -110,7 +112,7 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 
 **運用**
 
-- [Modern Commerce Operations Guide](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (更新): これはポリシーおよび業務に関する主な内容を網羅したガイドで、契約、パートナー センター経由の注文、請求、価格表の詳細、インセンティブ、調整ファイル、API/SDK、サンドボックス、Azure Partner Shared Services などの項目が含まれています。
+- [最新のコマース運用ガイド](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)(更新): 契約書、パートナーセンターからの注文、請求書、価格表の詳細、インセンティブ、調整ファイル、API/SDK、サンドボックスなどの主要なポリシーと運用面を網羅した包括的なガイドです。Azure Partner Shared Services。
 - [モダン オファーの提供国と顧客の通貨の対応表](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Microsoft Azure Reserved Instances の販売](https://go.microsoft.com/fwlink/?linkid=872806)
 - [顧客に代わって Microsoft Azure Reservations を購入する](https://go.microsoft.com/fwlink/?linkid=872807)

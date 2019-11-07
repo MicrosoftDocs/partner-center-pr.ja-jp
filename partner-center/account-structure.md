@@ -1,43 +1,45 @@
 ---
-title: パートナー センター アカウント構造 |パートナー センター
+title: パートナーセンターのアカウント構造 |パートナーセンター
 ms.topic: article
 ms.date: 06/13/2019
-description: 会社が、パートナー センター アカウントの 2 つのレベル。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: パートナーセンターには、2つのレベルのアカウントがあります。
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
-ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: HT
+ms.openlocfilehash: fc9f4f7e5f6e70a557d23bd23cc4fd32b0dd2a91
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67131719"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653054"
 ---
-# <a name="the-account-structure-in-partner-center"></a>パートナー センター アカウント構造
+# <a name="the-account-structure-in-partner-center"></a>パートナーセンターのアカウント構造
 
-会社が、パートナー センター アカウントの 2 つのレベル。 
+パートナーセンターには、2つのレベルのアカウントがあります。 
 
-### <a name="the-top-level-is-the-primary-global-account-pga"></a>最上位のレベルは、プライマリ グローバル アカウント (PGA) です。
+### <a name="the-top-level-is-the-primary-global-account-pga"></a>最上位レベルは、プライマリグローバルアカウント (PGA) です。
 
-- グローバルのプライマリ アカウントには、法的ビジネス アドレスと、会社の主要な連絡先が含まれています。 
-- パートナーの設定からグローバル プライマリ アカウントの詳細] の [パートナー プロファイルを表示します。
-- 詳細は、プライマリのグローバル アカウント MPN ID も含まれます 
-- PGA は、会社の親であるし、インセンティブ プログラムまたはクラウド ソリューション プロバイダーを関連付けるには使用されません。 
-- このような関連付けの場所を使用する必要があります。
+- プライマリグローバルアカウントには、会社の住所と主要連絡先が含まれています。 
+- プライマリグローバルアカウントの詳細については、パートナーの設定-> パートナープロファイルに関する情報を参照してください。
+- 詳細には、プライマリグローバルアカウント MPN ID も含まれます。 
+- PGA は会社の親であり、インセンティブプログラムまたはクラウドソリューションプロバイダーの関連付けには使用されません。 
+- このような関連付けには、場所を使用する必要があります。
 
-### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>2 番目のレベルのアカウントは、パートナー場所アカウント (PLA) と呼ばれる場所アカウントです。
+### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>第2レベルのアカウントは、Partner Location Account (PLA) と呼ばれる場所のアカウントです。
 
-その下にあるその他のビジネスの所在地、PGA があります。 各場所では、独自の MPN ID またはパートナー場所アカウント (PLA) があります。 場所の MPN ID を使用して、トランザクション ビジネスおよびインセンティブ プログラムで登録します。
+PGA には、その下に追加の事業所がある場合があります。 各場所には、独自の MPN ID またはパートナーの場所アカウント (PLA) があります。 MPN ID を使用して、取引先とインセンティブプログラムに登録します。
 
-- 各パートナーの場所のアカウントには、独自の有効なアドレスと主要連絡先を持つことができます。 グローバル アカウントまたはその他の場所、場所は、有効なアドレスを共有もできます。
-- パートナーの設定からパートナーの場所のアカウントの一覧を表示には、場所]-> [です。
-- 場所のすべてのアカウントは、プライマリ グローバル アカウントと同じレベルには。
-- アカウント管理者では、追加したり、場所を削除することができます。
+- 各パートナーの場所アカウントには、独自の法的住所と主要連絡先を含めることができます。 また、場所は、有効なアドレスをグローバルアカウントまたは他の場所と共有することもできます。
+- パートナーの設定-> の場所から、パートナーの場所アカウントの一覧を表示します。
+- すべての場所アカウントは、プライマリグローバルアカウントと同じレベルにあります。
+- アカウント管理者は、場所を追加または削除できます。
 
-![アカウントの構造体](images/accountstructure.png)
+![アカウントの構造](images/accountstructure.png)
 
-場所を管理する方法の詳細については、読み取る[パートナー アカウントの管理します。場所](manage-locations.md)します。 
+場所の管理の詳細については、「[パートナーアカウントの管理: 場所](manage-locations.md)」を参照してください。 
 
 
 

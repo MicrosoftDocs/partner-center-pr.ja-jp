@@ -2,18 +2,20 @@
 title: 顧客に代わって Microsoft Azure Reservations を購入する   | パートナー センター
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: パートナー センターでは顧客に代わって Microsoft Azure Reservations を購入することができます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 予約, 管理, 請求, 購入
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fb75358e9b193a1568926eec220aef4c9fcc6f0f
-ms.sourcegitcommit: 582415b3c61557e80dfd17e09b5122210bfd0a9b
+ms.openlocfilehash: c995072056fd70f1e0fb71a2b664242c54bd989f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "72530969"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653827"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure Reservations を購入する 
 
@@ -33,11 +35,11 @@ ms.locfileid: "72530969"
   
 -   SQL Database や SUSE Linux ソフトウェアなどのソフトウェア サブスクリプションのコストは、Azure Reservation の価格には含まれません
 
--   所在地がブラジルである場合を除き、Microsoft からパートナーへの商用顧客向け価格には税金は含まれません。 ブラジルの場合は、パートナーへの商用顧客向け価格に適切な税金が含まれます 
+-   Microsoft の商用料金は、お客様の所在地がブラジルでない限り、税金は含まれません。 ブラジルの場合は、パートナーへの商用顧客向け価格に適切な税金が含まれます 
  
 -   販売担当者およびヘルプ デスク担当者は、顧客に代わって Azure portal で Azure サブスクリプションの購入または管理を行い、サポート要求 (交換や返金を含む) を登録できるように、Azure サブスクリプションへの明示的なアクセス許可を持っている必要があります。  
 
--   間接プロバイダーが Azure portal で Azure Reservations を購入する場合は、選択した Azure CSP サブスクリプションから指名パートナー (間接リセラー) が継承されます。 
+-   間接プロバイダーの場合、Azure portal を通じて Azure の予約を購入すると、選択した Azure CSP サブスクリプションから取引先レコード (間接リセラー) が継承されます。 
 
 -   Azure 予約のレコードパートナーは、購入後に変更することはできません。 既存の予約を取り消して、新しい指名パートナーで新しい予約を購入することもできます。 
 
@@ -94,7 +96,7 @@ ms.locfileid: "72530969"
 
 1. パートナー センター メニューで、 **[顧客]** を選択します。  
 
-2. **[顧客]** ページで、Azure Reservations を購入する顧客を見つけ、下矢印を選択して顧客行を展開します。  
+2. **[顧客]** ページで、Azure の予約を購入する顧客を探し、下矢印を選択して顧客の行を展開します。  
 
 3. **[製品の追加]** を選択し、 **[Azure]** を選択します。 
 
@@ -104,22 +106,22 @@ ms.locfileid: "72530969"
 
     c. 顧客が希望する予約の種類を **[予約の種類]** の一覧から選択します。
 
-4. Azure Reservations をアクティブな Azure サブスクリプションに関連付ける必要があります。 Azure Reservations を追加する顧客のサブスクリプションを、 **[顧客サブスクリプション]** の一覧から選択します。 
+4. Azure Reservations をアクティブな Azure サブスクリプションに関連付ける必要があります。 **顧客サブスクリプション**の一覧から、Azure 予約を追加する顧客のサブスクリプションを選択します。 
 
    >[!IMPORTANT]
    >お客様がまだアクティブな Azure サブスクリプションを持っていない場合は、 **azure**を選択して今すぐ追加してください。 
 
-5. フィルターを使って、顧客の要件を満たす Azure Reservations を仮想マシン上で探します。  
+5. フィルターを使用して、顧客の要件を満たす仮想マシンでの Azure 予約を検索します。  
 
 6. 購入する予約が見つかったら、顧客が必要とする予約インスタンスの数を **[数量]** に入力し、 **[カートに追加]** を選択します。  
 
-7. 必要な項目をすべて注文に追加できるまで、手順 5 と 6 を繰り返します。 **[確認]** を選択して、注文内容を確認します。  
+7. 必要なすべての項目を注文に追加するまで、手順 5. と 6. を繰り返します。 **[確認]** を選択して、注文内容を確認します。  
 
 8. **[Review your orders]** (ご注文の確認) ページで、次の作業を行うことができます。 
 
     - 予約インスタンスの数量を確認または変更します。
 
-    - 予約の範囲を選択します。 予約の範囲には、1 つのサブスクリプションまたは複数のサブスクリプション (共有範囲) を指定できます。 1 つのサブスクリプションを予約の対象にする場合、予約割引は、そのサブスクリプションのみに適用されます。 共有を選択した場合は、顧客の請求コンテキストに含まれるすべてのサブスクリプションに予約割引が適用されます。 
+    - 予約のスコープを選択します。 予約のスコープは、1つまたは複数のサブスクリプション (共有スコープ) に対応できます。 1 つのサブスクリプションを予約の対象にする場合、予約割引は、そのサブスクリプションのみに適用されます。 [共有] を選択すると、顧客の請求コンテキスト内のすべてのサブスクリプションに予約割引が適用されます。 
 
       >[!NOTE] 
       >予約の対象範囲を 1 つの Azure サブスクリプションに制限することを選択した場合は、サブスクリプションの vCPU クォータを増やすことが必要な場合があります。 サブスクリプションの vCPU クォータを増やすには、Azure portal でサポート要求を作成する必要があります。 [このトピック](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)の手順に従って、要求を作成します。 
@@ -134,7 +136,7 @@ ms.locfileid: "72530969"
 
 9. **[購入]** を選択して注文内容を購入します。 注文番号を含む注文の詳細が、 **[確認]** ページに表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
 
-10. Azure portal で顧客の予約を管理するには、 **[顧客]** ページで顧客を見つけてから、下矢印を選択してその顧客の行を展開します。 **[Microsoft Azure の管理ポータル]** を選択すると、Azure portal に顧客レコードが表示されます。
+10. Azure portal で顧客の予約を管理するには **、顧客のページで**顧客を見つけ、下矢印を選択して顧客の行を展開します。 **[Microsoft Azure の管理ポータル]** を選択して、Azure portal で顧客のレコードを開きます。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
 |**情報**   |**この記事を読む**    |

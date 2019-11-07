@@ -2,18 +2,20 @@
 title: 顧客アカウントのユーザー管理タスク | パートナー センター
 ms.topic: article
 ms.date: 06/10/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 顧客の新しいサブスクリプションを購入した後、特定のユーザーにライセンスを割り当てることができます。
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 顧客管理, アカウント, アカウントの作成, ライセンス、ライセンスの割り当て, ユーザー管理, パスワード, パスワードのリセット, パスワードの変更
 ms.localizationpriority: medium
-ms.openlocfilehash: fa8aabcc668630906fa2c9b3a88abbaee8a89693
-ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
-ms.translationtype: HT
+ms.openlocfilehash: 67e134978f30adbbe397cb09f34eae9892b18f08
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67044988"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654396"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>顧客アカウントのユーザー管理タスク
 
@@ -23,7 +25,7 @@ ms.locfileid: "67044988"
 
 顧客のアカウントで新しいユーザーの作成や削除を実行できます。また削除から 30 日以内であれば、以前に削除した 1 つまたは複数のユーザー アカウントを復元できます。 ユーザーの以前のサブスクリプションの割り当ても (以前の割り当てが利用可能な場合は) 復元されます。
 
-顧客の新しいサブスクリプションを購入すると、顧客する必要がありますが一覧表示、すべてのユーザー アカウント、そのユーザーのアクセス許可が必要し、する各ユーザーがサービスの必要があります。  
+顧客の新しいサブスクリプションを購入する場合、顧客は、アカウントを必要とするすべてのユーザー、ユーザーのアクセス許可、および各ユーザーが必要とするサービスの一覧を提供する必要があります。  
 
 一度に[複数のユーザーにサブスクリプションを割り当てる](bulk-license-provisioning-for-multiple-users.md)ことができます。これには、[Excel 互換の .csv スプレッドシート ファイル](adding-multiple-users-to-a-customer-account.md) を使って、名前をインポートします。
 
@@ -37,7 +39,7 @@ ms.locfileid: "67044988"
 
 3.  追加するユーザーごとに、 **[サブスクリプションの追加]** を選び、アクセス許可やライセンスなどの情報を入力します。 変更内容を保存するには、 **[保存]** をクリックします。
 
-4.  必ずユーザー名と一時パスワードを記録してユーザーに送信してください。
+4.  必ずユーザー名と一時的なパスワードを記録してユーザーに送信してください。
 
 5.  複数のユーザーを 1 人ずつ追加する場合は、 **[別のユーザーの追加]** を使います。
 
@@ -56,7 +58,7 @@ ms.locfileid: "67044988"
 4.  **[ライセンスの管理]** を選びます。 変更を加えてから、 **[保存]** を選びます。
 
 > [!NOTE]
-> [Azure Marketplace の製品](sell-marketplace-products.md)ライセンスの割り当てとアクティブ化を独立系ソフトウェア ベンダー (ISV)、製品を発行したが管理されます。
+> [Azure Marketplace 製品](sell-marketplace-products.md)の場合、ライセンスの割り当てとライセンス認証は、製品を発行した独立系ソフトウェアベンダー (ISV) によって管理されます。
 
 <a href="" id="resetpassword"></a>
 
@@ -90,7 +92,7 @@ ms.locfileid: "67044988"
 
 2.  **[ユーザーとライセンス]** を選びます。
 
-3.  **[削除したユーザー ( 人)]** タブを選びます 復元できる削除済みユーザーが存在する場合は、 **(1)** 以上の数値が表示されます。
+3.  **[削除したユーザー ( 人)]** タブを選びます。復元できる削除済みユーザーが存在する場合は、 **(1)** 以上の数値が表示されます。
 
 4.  削除されたユーザーのチェック ボックスを 1 つ以上を選択し、 **[復元]** を選びます。
 

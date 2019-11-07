@@ -2,18 +2,20 @@
 title: Microsoft との共同販売 |パートナーセンター
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Microsoft の認定パートナーとして、Microsoft との共同販売を行うことができます。 このコラボレーションにより、ソリューションを市場に投入し、結合収益を促進し、顧客の成功を保証することができます。
 author: JnHs
 ms.author: jenhayes
 keywords: 紹介, RFI, パートナーの検索
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cda97f98e4d050ff4a48f78760518eb6f5b22cd4
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: HT
+ms.openlocfilehash: e24475dfcad3b5a6732233aeafb6761e9a91e099
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67856487"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653675"
 ---
 # <a name="co-sell-with-microsoft"></a>Microsoft との共同販売
 
@@ -46,10 +48,10 @@ Microsoft との共同販売を承認されたら、特定の契約で共同作�
 次の画面では、Microsoft と共同販売するエンゲージメントの詳細を指定する必要があります。
 
 **[Engagement details]** \ (エンゲージメントの詳細 \) セクションで、次のように入力します。
-- **エンゲージメント名**:この顧客とエンゲージメントを説明する名前を入力します。 エンゲージメントの詳細を確認するときに、Microsoft チームにこの名前が表示されます。そのため、明確でプロフェッショナルな言語を使用するようにしてください。
-- **CRM ID**:必要に応じて、CRM システムで使用している ID 番号を入力します。
-- **推定終了日**:この処理を終了する予定のおおよその日付。
-- **推定値**:エンゲージメントの予想される合計値。 適切な通貨を選択してください。
+- **エンゲージメント名**: この顧客とエンゲージメントを説明する名前を入力します。 エンゲージメントの詳細を確認するときに、Microsoft チームにこの名前が表示されます。そのため、明確でプロフェッショナルな言語を使用するようにしてください。
+- **CRM ID**: 必要に応じて、crm システムで使用している id 番号を入力します。
+- **[推定終了日]** : この処理を終了する予定のおおよその日付。
+- **推定値**: エンゲージメントの予想される合計値。 適切な通貨を選択してください。
 
 **[メモ]** フィールドに、顧客が関心のある内容と、ソリューションによってどのように役立つかを説明します。
 

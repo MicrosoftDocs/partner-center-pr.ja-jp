@@ -1,20 +1,22 @@
 ---
-title: ユーザーのパスワードをリセットまたは自分のパスワードの更新 |パートナー センター
+title: ユーザーパスワードをリセットするか、自分のパスワードを更新する |パートナーセンター
 ms.topic: article
 ms.date: 06/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: ユーザーがパスワードを忘れた場合、新しい一時的なパスワードを割り当てることができます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 83d7417dcd71323822d066faca6c193ca5ef2e58
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
-ms.translationtype: HT
+ms.openlocfilehash: a74f89b023f72c867667902d4765f22287bb1546
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145338"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654097"
 ---
-# <a name="reset-a-user-password-or-update-your-own-password"></a>ユーザーのパスワードをリセットまたは自分のパスワードを更新
+# <a name="reset-a-user-password-or-update-your-own-password"></a>ユーザーパスワードをリセットするか、自分のパスワードを更新する
 
 **適用対象**
 
@@ -32,7 +34,7 @@ ms.locfileid: "67145338"
 
 3.  ページの下部にある **[パスワードのリセット]** を選びます。
 
-4.  確認画面と新しいログイン用の一時的なパスワードが表示されます。 これをコピーして、新しいユーザーに送信する必要があります。この画面から移動すると、パスワードにアクセスできなくなります。 ユーザーが最初にサインインするときに、パスワードの更新が求められます。
+4.  確認画面と新しいログイン用の一時的なパスワードが表示されます。 このファイルをコピーして、新しいユーザーに送信する必要があります。画面から移動した後にアクセスすることはできません。 ユーザーが最初にサインインするときに、パスワードの更新が求められます。
 
 **管理者自身のパスワードをリセットする**
 

@@ -2,17 +2,19 @@
 title: Power BI 用パートナー センター分析アプリをインストールしてプレビューする | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け) をプレビューするには、次の手順に従います。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 10a47f22fb3716e8ff162e7b936770a2ca8a8ffc
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: b7635e8d6fd9910123ac4113d467ae506e507793
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668625"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654179"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Power BI 用パートナー センター分析アプリをインストールしてプレビューする
 
@@ -37,7 +39,7 @@ ms.locfileid: "64668625"
 
 - Power BI にログインできる。
 
-- 全体管理者、管理エージェント、または課金管理者として[会社の Azure Active Directory (Azure AD) テナント](azure-active-directory-tenants-and-partner-center.md)にログインできる。
+- [会社の Azure Active Directory (Azure AD) テナント](azure-active-directory-tenants-and-partner-center.md)に、グローバル管理者、管理エージェント、または課金管理者としてサインインできます。
 
 ## <a name="to-install-the-app"></a>アプリをインストールするには
 
@@ -45,16 +47,16 @@ ms.locfileid: "64668625"
 
 2. **[アカウントを既にお持ちの場合]** の下で **[サインイン]** を選びます。 
 
-3. 次のページで Power BI のユーザー名とパスワードを入力し、**[サインイン]** を選びます。 
+3. 次のページで Power BI のユーザー名とパスワードを入力し、 **[サインイン]** を選びます。 
 
-4. **[Connect to Partner Center Analytics]** (パートナー センター分析に接続) ポップアップ ウィンドウで、**[認証方法]** が **[oAuth2]** に設定されていることを確認し、設定されていない場合は一覧から **[oAuth2]** を選びます。 
+4. **[Partner Center Analytics への接続]** ポップアップウィンドウで、 **[認証方法]** が **[oAuth2]** に設定されていることを確認するか、表示されていない場合は一覧から**oAuth2**を選択します。 
 
 > [!NOTE]  
 >  このウィンドウが表示されるまでに数分間かかることがあります。
 
-5. **[Partner Center Analytics Connector]** (パートナー センターの分析コネクター) ページで、会社の Azure AD テナントの全体管理者、管理エージェント、または課金管理者の資格情報を使ってログインし、**[サインイン]** をクリックします。
+5. **[Partner Center Analytics コネクタ]** ページで、会社の Azure AD テナントのグローバル管理者、管理エージェント、または課金管理者の資格情報を使用してサインインし、 **[サインイン]** を選択します。
  
-6. アクセスするかどうかを尋ねられたら、**[同意する]** を選びます。 
+6. アクセスするかどうかを尋ねられたら、 **[同意する]** を選びます。 
 
 パートナー センターの分析サービスが Power BI に接続されると、データの読み込みが開始します。 データ量によっては、この読み込みに最大 10 分間かかります。 
 

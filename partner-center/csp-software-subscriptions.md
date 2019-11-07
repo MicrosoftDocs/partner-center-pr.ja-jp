@@ -2,18 +2,20 @@
 title: CSP によるソフトウェア サブスクリプションの販売 |パートナー センター
 ms.topic: article
 ms.date: 05/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: パートナーが企業顧客に代わり、Azure ハイブリッド特典を活用することで、Microsoft パートナー センターと Azure portal を通じて、Azure Reserved Instances と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Azure RI, Windows Server, SQL Server, ソフトウェア サブスクリプション
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 60ea2b3b5d497e60b243112748780c2f20c59735
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376424"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653486"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP によるソフトウェア サブスクリプションの販売
 
@@ -33,7 +35,7 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 > * ジャージー島
 > * マレーシア
 > * メキシコ
-> * ロシア
+> * ロシア連邦
 > * サウジアラビア
 > * 南アフリカ
 > * トルコ
@@ -52,7 +54,7 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 >[!NOTE]
 >ソフトウェアをダウンロードしてライセンス認証キーを取得するには、管理エージェントである必要があります。
 
-1. 顧客の詳細ページに移動し、 **[ソフトウェア]** を選択します。 顧客の代わりに購入したすべてのソフトウェアの一覧が表示されます。 
+1. 顧客の詳細ページに移動し、 **[ソフトウェア]** を選択します。 お客様の代わりに購入したすべてのソフトウェアの一覧が表示されます。 
 2.  ダウンロードする製品を展開します。 **[製品の選択]** フィールドで、目的の **[バージョン]** 、 **[言語]** 、 **[ファイルの種類/OS]** を選択します。 
 3.  **[送信]** 選択して特定の製品を表示します。 
 4.  **[キーとダウンロードの取得]** を選択します。 
@@ -88,7 +90,7 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
     -   払い戻し理由
     -   要求された数量
 
-2.  顧客の詳細ページで、 **[ソフトウェア]** を選択して、顧客用に貴社が購入したすべてのソフトウェアの一覧を表示します。 
+2.  顧客の詳細ページで、 **[ソフトウェア]** を選択して、顧客用に購入したすべてのソフトウェアの一覧を表示します。 
 
 3.  取り消すソフトウェアを検索し、 **[キャンセル]** を選択します。 **[パートナー センターに関する問題を報告する]** ページが開きます。 
 
@@ -104,6 +106,6 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 
 7.  **[連絡先]** フィールドに、パートナーの名前、メール アドレス、電話番号を入力します。 
 
-8.  何らかの理由でファイルを添付する必要がある場合は、 **[ファイルの追加]** を選択します。 このステップは省略可能です。 
+8.  何らかの理由でファイルを添付する必要がある場合は、 **[ファイルの追加]** を選択します。 この手順は省略可能です。 
 
 9.  終了したら、 **[送信]** を選択します。

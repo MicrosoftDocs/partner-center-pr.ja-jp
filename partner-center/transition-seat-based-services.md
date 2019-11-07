@@ -2,16 +2,18 @@
 title: ライセンスベース サービスの顧客をパートナー センターのクラウド ソリューション プロバイダー プログラムに移動する | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 顧客とそのサブスクリプションを別のチャネルや別のパートナーから CSP プログラムに移動します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b4e1e64eefeef3ac0bd70bb3eb300fe3caddf8f3
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 12d382c043c6f1fbfa0348b17b25f12e0f306ee9
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668288"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654011"
 ---
 # <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>ライセンスベース サービスの顧客を別のチャネルからクラウド ソリューション プロバイダー プログラムに、またはあるパートナーから別のパートナーに移行する
 
@@ -21,13 +23,13 @@ ms.locfileid: "64668288"
 
 顧客が複数のパートナーと携わったり、サブスクリプションを別のパートナーに移管したり、別途購入したサブスクリプションを管理したりする場合には、手動で移行することができます。 別のチャネルからパートナー センターに顧客を移動することもできます。
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>顧客のライセンスベース サブスクリプションをクラウド ソリューション プロバイダー プログラム (CSP) に移動する
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>お客様のライセンスベースのサブスクリプションを Cloud Solution Provider プログラム (CSP) に移行する
 
-1. パートナーセンターのメニューから **[顧客]** を選択し、**[再販業者関係の要求]** を選択します。 マルチチャネル アカウントのサポートを提供するには、同じ操作を行います。
+1. パートナーセンターのメニューから **[顧客]** を選択し、 **[再販業者関係の要求]** を選択します。 マルチチャネル アカウントのサポートを提供するには、同じ操作を行います。
 
-2.  顧客が招待を受け入れると、顧客の代わりに対象のサブスクリプションとシートをプロビジョニングすることができます (顧客が以前購入したものと同じ Office 365 プランなど)。
+2.  お客様が招待を受け入れると、お客様に必要なサブスクリプションと座席 (たとえば、顧客が以前に購入したものと同じ Office 365 プラン) をプロビジョニングできるようになります。
 
-3. 顧客は、その元のサブスクリプションの期限が切れるのを待つか、それを取り消すことができます。 ただし、サブスクリプションを取り消しても払い戻しはされないため、顧客のサブスクリプションの有効期限が近づくまで、そのまま待つことをお勧めします。
+3. 顧客は、その元のサブスクリプションの期限が切れるのを待つか、それを取り消すことができます。 ただし、取り消されたサブスクリプションには返金がないため、お客様のサブスクリプションが自然な有効期限に近づいてくるまで待つことをお勧めします。
 
 4. これによりお客様は、使用を中断することなく、パートナー様がプロビジョニングしたサブスクリプションに移行して引き続き使用できます。
 

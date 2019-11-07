@@ -2,19 +2,21 @@
 title: '教育機関の顧客に Minecraft: Education Edition サブスクリプションを販売する'
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: '適格教育機関の顧客に Minecraft: Education Edition サブスクリプションを販売します。'
 author: LauraBrenner
 ms.author: labrenne
 keywords: 認定教育パートナー, 教育, 教育機関への販売, 学校
 ms.localizationpriority: medium
-ms.openlocfilehash: 712b36badfc43c5c62d4c8e74c231076e88d44a4
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: ef1191b068f5e6afb22dc8e7734489f4dd7d3531
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820637"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653287"
 ---
-# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Minecraft の販売:教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
+# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 
 **適用対象**
 
@@ -26,10 +28,10 @@ ms.locfileid: "68820637"
 >教育機関向けのプランを教育機関の顧客に販売するには、クラウド ソリューション プロバイダー (CSP) プログラムに登録されている[認定教育パートナー (AEP)](https://www.mepn.com) である必要があります。 さらに、顧客は[適格教育ユーザー](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。  
 
  
-## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>**Minecraft: Education Edition** を顧客の代理として購入する
+## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>顧客の代理として **Minecraft: Education Edition** を購入する
 
-次の手順に従って、**Minecraft: Education Edition** サブスクリプションを[パートナー センター](https://partnercenter.microsoft.com/pcv/dashboard/overview
-) (サインインが必要) で購入します。
+次の手順に従って、[パートナーセンター](https://partnercenter.microsoft.com/pcv/dashboard/overview
+)で、#**いかだ: 教育エディション**のサブスクリプションを購入します (サインインが必要です)。
 
   1.  パートナー センター メニューで、 **[顧客]** を選択します。
   
@@ -37,7 +39,7 @@ ms.locfileid: "68820637"
   
   3.  最適な請求頻度を選択し、 **[カタログ]** セクションで **[教育]** を選択します。
 
-  4.  顧客の代理で購入する Minecraft サブスクリプションを選択し、ライセンス数を入力します。 **[次へ: レビュー]** を選択します。
+  4.  顧客の代理で購入する Minecraft サブスクリプションを選択し、ライセンス数を入力します。 **[次へ: レビュー]** を選びます。
 
       >[!NOTE]
       >これらのライセンスは、パートナー センターで表示と管理を行うことができます。 顧客はこれらのライセンスを、顧客のインベントリの [Minecraft: Education Edition 詳細ページ](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) (詳細ページを表示するには、教育機関向け Microsoft Store にサインインする必要があります) で確認して管理できます。 

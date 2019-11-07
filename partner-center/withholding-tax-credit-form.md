@@ -2,18 +2,20 @@
 title: 源泉徴収税のご購入をご確認ください。パートナーセンター
 ms.topic: article
 ms.date: 05/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: サービスリクエストを開くには、源泉徴収税のクレジットフォームと源泉徴収税証明書の両方が必要です。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: 源泉徴収税クレジット、課税クレジット、ドイツの課税クレジットフォーム、納税クレジット
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
-ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
+ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "72892408"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653944"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>源泉徴収税の貸方をご確認ください
 
@@ -49,7 +51,7 @@ ms.locfileid: "72892408"
 
 2. **CSP**を選択します。
 
-3. **[CSP –請求および支払い]** で、問題の種類- **[源泉徴収税]** を選択し、[**はい]** を選択します。 
+3. **[CSP-請求と支払い]** で、問題の種類- **[源泉徴収税]** を選択し、[**はい]** を選択します。 
 
 4. サービスリクエストを送信する場合は、税証明書の税クレジットフォームとデジタルコピーを必ず添付してください。
 

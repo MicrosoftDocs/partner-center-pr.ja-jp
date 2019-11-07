@@ -2,18 +2,20 @@
 title: CSP 契約、価格表、およびキャンペーン | パートナー センター
 ms.topic: article
 ms.date: 09/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: この記事では、クラウド ソリューション プロバイダーのプログラム ガイド、パートナー契約、顧客契約、料金表、提供できる製品とサービスへのリンクを示します。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: medium
-ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
-ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "71204633"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653564"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、プラン
 
@@ -73,4 +75,4 @@ CSP のパートナーは、Office 365、Enterprise Mobility Suite、Microsoft D
 
 Crest Usage Record API を使用している CSP パートナーは、 **[料金とプラン]** ページで CSP での Azure サービスの一覧を利用することもできます。
 
-独立系ソフトウェア ベンダー (ISV) によって発行された Azure Marketplace プランについては、左側のナビゲーション メニューの **[Marketplace]** ページをご覧ください。 現時点では、パートナー センターでは SaaS (サービスとしてのソフトウェア) 製品の種類のみを購入できます。 他の種類の Azure Marketplace プランを入手するには、Azure portal にアクセスする必要があります。
+独立系ソフトウェア ベンダー (ISV) によって発行された Azure Marketplace プランについては、左側のナビゲーション メニューの **[Marketplace]** ページをご覧ください。 現時点では、パートナー センターでは SaaS (サービスとしてのソフトウェア) 製品の種類のみを購入できます。 その他の種類の Azure Marketplace プランを取得するには、Azure portal にアクセスする必要があります。

@@ -2,19 +2,21 @@
 title: 導入実績を高めて満足度を向上させる | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 弊社のパートナーは、多くの指標を使用してビジネスが拡大しているかどうか、重点的に投資する分野はどこであるかを測ります。 パートナー センターは、顧客が購入したライセンスの使用の有無や活用方法に関するデータを提供することでそれをサポートします。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668584"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653350"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>導入実績と満足度の向上
+# <a name="increase-adoption-and-satisfaction"></a>導入実績を高めて満足度を向上させる
 
 **適用対象**
 
@@ -32,7 +34,7 @@ ms.locfileid: "64668584"
 
 **単一の顧客の場合**
 
--   **パートナー センター**から **[顧客]** を選択し、顧客を選択して、**[Customer insights]\(顧客の分析\)** を選択します。
+-   **パートナー センター**から **[顧客]** を選択し、顧客を選択して、 **[Customer insights]\(顧客の分析\)** を選択します。
 
 **ポートフォリオ全体の場合**
 
@@ -62,7 +64,7 @@ ms.locfileid: "64668584"
 ## <a name="next-steps"></a>次のステップ
 
 
-多くのヘルプと使い方に関する質問を担当している、アカウントでの導入数が低い、またはアップセルの機会をねらっている場合、トレーニング コースの提供を検討することをお勧めします。 購入したクラウド ソリューション ソフトウェアをより良く使用できるようにお客様に教えることで、生産性や満足度が向上し、サポート ニーズが低くなる可能性が高まります。
+多くのヘルプと操作方法についてフィールディング、アカウントの導入数が少ない場合、またはアップセルの機会を探している場合は、トレーニングコースの提供を検討することをお勧めします。 顧客が購入したクラウドソリューションソフトウェアをより適切に使用する方法を説明することで、生産性と満足度が向上し、サポートニーズが減少します。
 
 <table>
 <colgroup>
@@ -70,14 +72,14 @@ ms.locfileid: "64668584"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>問題</strong>: ユーザーの導入率は低く、多くのライセンスが使われていない。</p>
-<p><strong>考慮事項:</strong> お客様は、ソフトウェアが提供できる価値について理解していない可能性がある。 お客様は、既に行っているタスクを簡略化するため、または新しい種類の生産性を実現するために、そのソフトウェアを日常業務に組み込むことができる方法を計画するための支援を必要としている。</p>
+<td><p><strong>問題:</strong>ユーザーの導入率が低く、多くのライセンス&#39;が使用されていません。</p>
+<p><strong>考慮事項:</strong> お客様は、ソフトウェアが提供できる価値について理解していない可能性がある。 彼らは、既に行っているタスクを簡素化したり、新しい種類の生産性を実現したりするために、その日に組み込む方法を構想するのに役立つ情報を必要としています。</p>
 <p><strong>試すこと:</strong> ケース スタディ、特定のシナリオに関するユーザーの証言、チュートリアルのブログ、ビデオ。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>問題</strong>: ヘルプと使い方に関してサポートへの大量の問い合わせがある。</p>
+<td><p><strong>問題:</strong> ヘルプと使い方に関してサポートへの大量の問い合わせがある。</p>
 <p><strong>考慮事項:</strong> お客様はそのソフトウェア、製品バージョン、タスクを初めて扱う可能性がある。</p>
-<p><strong>試すこと:</strong> 2 つのサービス トレーニング戦略 (対面またはオンライン) で、お客様の全体的な専門知識を増やしつつ、お客様が利用できるいくつかのセルフサービス オプションを伝える。</p>
+<p><strong>試行する内容:</strong>(個人またはオンラインで) トレーニングを提供する2つの戦略を使用し&#39;て、顧客の全体的な専門知識を高めながら、お客様が利用できるセルフサービスオプションの一部を昇格させることができます。</p>
 <p>サポート サイトを再設計し、サポートの連絡先情報に加えて、「<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">お客様のセルフ サポート</a>」というトピックで説明しているセルフサービス オプションも含めることをお勧めします。</p></td>
 </tr>
 </tbody>

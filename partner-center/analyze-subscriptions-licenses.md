@@ -1,6 +1,8 @@
 ---
 title: サブスクリプションとライセンスの分析 | パートナー センター
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: サブスクリプションとライセンスの分析ページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。
 author: LauraBrenner
 ms.author: labrenne
@@ -9,12 +11,12 @@ ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 29d597b66c16d7f0da29caa023c1da7ba23f9616
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: 8c2469a780870df40792eb229ef4d0546e79645d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781996"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651180"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>サブスクリプションとライセンスの分析 
 
@@ -32,8 +34,8 @@ ms.locfileid: "68781996"
 
  - **Dynamics 365**: Dynamics 365 のデータ  
  - **EMS**: エンタープライズ管理サービスのデータ  
- - **Microsoft 365**: Microsoft 365 のデータ  
- - **Office 365**: Office 365 のデータ  
+ - **Microsoft 365**: Microsoft 365 データ  
+ - **Office 365**: Office 365 データ  
 
 
 次のメトリックを追跡しています。

@@ -2,18 +2,20 @@
 title: Microsoft Partner Network メンバーシップ | パートナー センター
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: マイクロソフトのパートナーとなるメリットについて説明します。 Microsoft Partner Network では、業界で最も広範囲の製品と、パートナーのビジネスの差別化、市場への投入、ソリューションの販売のためのプログラム オプションが提供されています。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 109333a4cea7d19ff18708cc55d5c0b87b2bb13f
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 03aab24eab0fdf0ee5e116b033da679b8049a923
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978752"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661157"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft との連携
 
@@ -52,13 +54,13 @@ Action Pack の詳細については、以下のリソースをご覧くださ�
 - [Action Pack を購入する](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >パートナーセンターで Action Pack サブスクリプションを管理します。 パートナーのメンバーシップセンターからパートナーセンターにまだ移動していない場合は、「[パートナーセンターへの移行の準備](partner-center/prepare-pmc-pc-migration.md)」を参照してください。  
+    >パートナーセンターで Action Pack サブスクリプションを管理します。 パートナーのメンバーシップセンターからパートナーセンターにまだ移動していない場合は、「[パートナーセンターへの移行の準備](prepare-pmc-pc-migration.md)」を参照してください。  
 
 - [MPN プランを更新する](renew-mpn-offers.md)
 
 ### <a name="competencies"></a>コンピテンシー
 
-Microsoft コンピテンシーを獲得すると、専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft コンピテンシーは、現在の顧客ニーズに対応し、見込み顧客からの認知度を高めることを目的としています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
+Microsoft コンピテンシーを獲得すると、専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft のコンピテンシーは、現在のお客様のニーズを満たすように設計されており、想定されているものとして認識されます。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
 
 コンピテンシーの詳細については、以下のリソースをご覧ください。
 

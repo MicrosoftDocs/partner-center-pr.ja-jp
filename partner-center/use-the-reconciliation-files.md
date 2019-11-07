@@ -2,17 +2,19 @@
 title: 調整ファイルを使う | パートナー センター
 ms.topic: article
 ms.date: 07/08/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターから調整ファイルをダウンロードします。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
-ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "71931578"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653974"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -71,7 +73,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <p>サブスクリプションの登録のあるリセラーの MPN ID。 これは、パートナー センターで特定のサブスクリプションについて示されるリセラー ID に対応します。</p>
 <p>リセラーを表示または更新するには、パートナー センター メニューから <strong>[顧客]</strong> を選択し、一覧から顧客を選択します。 顧客メニューの <strong>[サブスクリプション]</strong> を選び、一覧からサブスクリプションを選びます。 <strong>[更新]</strong> を選んで、<strong>[再販業者 (MPN ID)]</strong> を変更します。</p>
 <p>CSP パートナーがお客様に直接サブスクリプションを販売した場合、パートナーの MPN ID が MPN ID とリセラーの MPN ID として 2 か所に表示されます。</p>
-<p>CSP パートナーのリセラーに MPN ID がない場合は、代わりに CSP パートナーの MPN ID がこの値に設定されます。</p>
+<p>CSP パートナーが MPN ID のない再販業者を持っている場合、この値は代わりにパートナーの MPN ID に設定されます。</p>
 <p>CSP パートナーがリセラー ID を削除した場合、この値は -1 に設定されます。</p></td>
 </tr>
 </tbody>
@@ -342,8 +344,8 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <td>ServiceType</td>
 <td><p>Windows Azure サービスの特定の種類。</p></td>
 <td><ul>
-<li>Service Bus – Individual or Pack</li>
-<li>SQL Azure database – Business or Web Edition</li>
+<li>Service Bus-個人またはパック</li>
+<li>SQL Azure database-Business Edition または Web Edition</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -464,7 +466,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>特定の日にプロビジョニングされ、利用された ServiceBus 接続の数。</p></td>
-<td>例: 1 か月 30 日間の中に、個別にプロビジョニングされた接続がある場合、Service Info 1 は "1.000000 Connections / 30 days" と表示されます。 プロビジョニングされた ServiceBus 接続が 25 パックあり、その日に 1 つを利用した場合、その日の 1 日の使用量の計算書には、"25 Connections / 30 Days – Used: 1.000000" と表示されます。</td>
+<td>たとえば、30日の間に個別にプロビジョニングされた接続がある場合、サービス情報1は "1.000000 Connections/30 days" を読み取ります。 25個の提供会社の接続がプロビジョニングされていて、その日に1を使用したことがある場合、その日の毎日の使用状況は、"25 接続/30 日分の使用量: 1.000000" を示します。</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -561,7 +563,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 
 <tr class="odd">
 <td>AvailabilityId</td>
-<td><p>特定の可用性 の ID。 "可用性" とは、特定の国、通貨、業界などで特定の SKU を購入可能かどうかを指します。</p></td>
+<td><p>特定の可用性 の ID。 "可用性" とは、特定の SKU が特定の国、通貨、業界セグメントなどで購入できるかどうかを意味します。</p></td>
 </tr>
 
 <tr class="even">
@@ -606,7 +608,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 
 <tr class="even">
 <td>Term and Billingcycle</td>
-<td><p>購入の期間と請求サイクル。 例: “1 Year, Monthly” (1 年、月単位)。</p></td>
+<td><p>購入の期間と請求サイクル。 たとえば、"1 年間、毎月" のようになります。</p></td>
 </tr>
 
 <tr class="odd">
@@ -746,7 +748,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 
 <tr class="even">
 <td>AvailabilityId</td>
-<td><p>特定の可用性 の ID。 "可用性" とは、特定の国、通貨、業界などで特定の SKU を購入可能かどうかを指します。</p></td>
+<td><p>特定の可用性 の ID。 "可用性" とは、特定の SKU が特定の国、通貨、業界セグメントなどで購入できるかどうかを意味します。</p></td>
 </tr>
 
 <tr class="odd">
@@ -764,7 +766,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <td><p>発行元の ID (GUID 形式)。 現在のアクティビティには使用できません。</p></td>
 </tr>
 
-<tr class=”even">
+<tr class="even">
 <td>Subscription Description</td>
 <td><p>価格表で定義されている、顧客が購入したサービス プランの名前 (これはプラン名と同一のフィールドです)。</p></td>
 </tr>
@@ -872,7 +874,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 
 <tr class="even">
 <td>Billing currency</td>
-<td><p>顧客の地理的領域での通貨</p></td>
+<td><p>顧客の地域における通貨</p></td>
 </tr>
 
 <tr class="odd">
@@ -910,7 +912,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 
 請求書と調整ファイルの間で請求金額を相互参照するには、Microsoft Excel のフィルター オプションを使用して、調整ファイルの課金の種類でフィルター処理し、請求書の課金を調整ファイルの一連の課金の内訳にマップします。
 
-使用量ベースとライセンス ベースの調整ファイルには、使用量関連のトランザクションと料金 (消費された単位量および関連する料金) のみが表示されます。 請求書に “調整” として表示される単発のクレジット、割引、払い戻し金額は、調整ファイルに表示されません。
+使用量ベースとライセンス ベースの調整ファイルには、使用量関連のトランザクションと料金 (消費された単位量および関連する料金) のみが表示されます。 請求書に "調整" として表示される1回のクレジット、割引、返金は、調整ファイルには表示されません。
 
 次の表に、請求書のセクションと、調整ファイルに表示される関連付けられた課金の種類とのマッピングを示します。 
 

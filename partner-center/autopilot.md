@@ -3,16 +3,18 @@ title: Windows Autopilot プロファイルでデバイスの out-of-box experie
 description: Autopilot プロファイルを使用してデバイスの out-of-box experience を事前に構成します。
 ms.topic: article
 ms.date: 03/18/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, ゼロタッチ展開, OOBE, ログイン画面, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 7861efa8c0fd7e03488ba3f222fcb3a476c06cc2
-ms.sourcegitcommit: 76c34fd8dc544cea93496079df68759a1da9098c
+ms.openlocfilehash: 6ad6482c68da6c964414be3b7f036835934f049e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "73544051"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653909"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Windows Autopilot プロファイルでデバイスの out-of-box experience をカスタマイズする
 
@@ -51,7 +53,7 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
 
 - パートナーは、自分で追加した顧客の既存のデバイスを管理できます。
 
-- パートナーは、顧客がビジネス向け Microsoft Store または Microsoft Intune ポータルにアップロードしたデバイスを管理することはできません。
+- 顧客が Microsoft Store for Business または Microsoft Intune ポータルにアップロードしたデバイスを管理することはできません。
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>パートナー センターで Autopilot プロファイルを作成および管理する
 

@@ -2,17 +2,19 @@
 title: 顧客へのサポートの提供 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
-description: パートナーは、お客様からのサポート要求を受け取り、できる限り問題を診断し、ベースライン サポート境界のスコープ内にある問題を解決する必要があります。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: パートナーは、お客様から受信したサポート要求を受け取り、パートナーの機能に最適な問題を診断して、ベースラインサポートの境界の範囲内にある問題を解決する必要があります。
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e3a2eabdb02c41fe44750c967e7cfde3578fd29
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: fab8ac43cae104c4925828cc4f6f4ce4477ed28d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667257"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653446"
 ---
 # <a name="providing-support-to-your-customers"></a>顧客へのサポートの提供
 
@@ -28,7 +30,7 @@ CSP モデルで取引を行うパートナーは、お客様に対する信頼�
 
 サポートの要件を満たすために、パートナーは別のエンティティからのサポートを再販したり、サポート構造の全部または一部を外部委託したり、および/または直接サポートを提供する構造を設定したりする場合があります。  パートナーは、お客様に提供されるサポートの全部または一部を課金する場合があります。 パートナーは、お客様に対して、提供するサポート、サービス時間と連絡方法、および価格 (サポートに課金する場合) を明確に示す必要があります。 
 
-パートナーは、お客様からのサポート要求を受け取り、できる限り問題を診断し、ベースライン サポート境界のスコープ内にある問題を解決する必要があります。 パートナーが問題を解決できない場合、以下のサポート媒体を介してマイクロソフトに問題を報告できます。
+パートナーは、お客様から受信したサポート要求を受け取り、パートナーの機能に最適な問題を診断して、ベースラインサポートの境界の範囲内にある問題を解決する必要があります。 パートナーが問題を解決できない場合、以下のサポート媒体を介してマイクロソフトに問題を報告できます。
 
 - **商業的**な問題のサポートは、CSP プログラムですべてのパートナーが利用できます。
 -   **技術的**な問題のサポートは、以下を通じて利用できます。

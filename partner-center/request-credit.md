@@ -1,66 +1,68 @@
 ---
-title: Microsoft からの SLA クレジットの要求 |パートナー センター
+title: Microsoft からの SLA クレジットを要求する |パートナーセンター
 ms.topic: article
 ms.date: 06/21/2019
-description: サービス障害が発生した場合は、お客様の SLA クレジットを要求できます。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: サービスで障害が発生した場合は、顧客の SLA クレジットを要求できます。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 72ded8ab9aa9546a4407e7729c16770fae893832
-ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
-ms.translationtype: HT
+ms.openlocfilehash: 6a04d8e179f48f60c71b2e0e5c723c9d821de797
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "67407871"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651696"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Microsoft から、SLA クレジットを要求します。 
+# <a name="request-an-sla-credit-from-microsoft"></a>Microsoft からの SLA クレジットを要求する 
 
-お客様に提供するサービスに障害がある場合は、Microsoft からのクレジットを要求することができます。 サービス レベル アグリーメント (SLA) のクレジットは、どのサービスが影響を受ける (つまりお客様には、O365 のスイートがあり、唯一の SharePoint が、ダウンした SLA クレジットが承認されている SharePoint のみ、全体のプランではなく) に基づいて決まります。
+お客様に提供しているサービスで障害が発生した場合は、Microsoft にクレジットを申請することができます。 サービスレベルアグリーメント (SLA) クレジットは、影響を受けたサービスに基づいて決定されます (つまり、顧客が O365 スイートを持ち、SharePoint のみがダウンしている場合は、プラン全体ではなく、SharePoint に対してのみ SLA クレジットが承認されます)。
 
-クレジットには影響を受けるサービスと停止の期間に基づく日割りです。 適用される SLA クレジットの対象にするシナリオの種類を確認するには、読み取り、 [Online Services の統合の SLA ドキュメント](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37)します。 この情報は、サービスのすぎる、クラウド ソリューション プロバイダー プログラムを通じて販売に適用されます。
+クレジットは、影響を受けるサービスと停止の期間に基づいて、日割りで評価されます。 SLA クレジットの対象となるシナリオの種類を確認するには、[オンラインサービスの統合](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37)された sla に関するドキュメントを参照してください。 この情報は、クラウドソリューションプロバイダープログラムを通じて販売されたサービスにも適用されます。
 
 >[!Note]
->**とても重要です！** CSP パートナーでは、いずれか間接プロバイダーまたは直接請求書、パートナー、(しないエンド カスタマーまたは間接リセラー) する必要があります送信要求およびインシデントが発生した月の次のカレンダー月の終わりまでに必要なすべての情報。 たとえば、年 2 月 15 日に、インシデントが発生した場合、要求と 3 月 31 日で必要な情報をすべて受信する必要があります。 
+>**とても重要です！** CSP パートナーは、間接プロバイダーまたはダイレクト請求パートナー (エンドカスタマーまたは間接リセラーではない) のいずれかで、インシデントが発生した月の後のカレンダー月の終わりまでに要求とすべての必要な情報を送信する必要があります。 たとえば、インシデントが2月15日に発生した場合、請求書と必要なすべての情報を3月31日まで受け取る必要があります。 
 
 ## <a name="required-information"></a>必要な情報
 
 
-SLA クレジットを要求するには、次の情報を提供する必要があります。 
+SLA のクレジットを要求するには、次の情報を提供する必要があります。 
 
-- 顧客のテナントの GUID。 
+- 顧客テナントの GUID: 
 
-- 停止インシデント番号: (下記参照)
+- 停止インシデント #: (下記を参照)
 
-- 影響を受けるサブスクリプションが CSP を使用して購入したでしょうか。 はい/いいえ
+- 影響を受けたサブスクリプションは CSP を通じて購入されましたか? はい/いいえ
 
-(EX25194) などのシステム停止のインシデント ID は、Microsoft 365 管理センターでサービス正常性 ページが見つかりません。 インシデント番号には、影響を受けるなどのサービスを示す 2 文字の省略形が付きます。
+停止インシデント ID (EX25194 など) は、Microsoft 365 管理センターの [Service Health] ページにあります。 インシデント番号の前には、次のような、影響を受けるサービスを示す2文字の省略形が付きます。
 
-例: - Exchange Online
+例-Exchange Online
 
-FO - Exchange Online Protection
+Exchange Online の保護
 
-SB - Skype for Business Online (正式に Lync Online)
+SB-Skype for Business Online (正式な Lync Online)
 
-OS - Office サブスクリプション
+OS-Office サブスクリプション
 
 PB-Power BI for Office 365
 
-SP - SharePoint Online
+SP-SharePoint Online
 
-ぜ Yammer Enterprise
+YA-Yammer Enterprise
 
-MO - ポータル エラー
+MO-ポータルエラー
 
-## <a name="submit-a-request"></a>要求を送信します。
+## <a name="submit-a-request"></a>要求を送信する
 
-パートナー センターでクレジット要求を送信します。
+パートナーセンターでクレジット要求を送信します。
 
-1. パートナー センター ダッシュ ボードから選択**サポート**左側のナビゲーションから
+1. パートナーセンターのダッシュボードで、左側のナビゲーションから **[サポート]** を選択します。
 
-2. 選択**パートナー サポートの要求**選び**CSP に顧客、注文、およびサブスクリプション/カスタマー サービス クレジットの要求**します。
+2. **[パートナーサポート要求]** を選択し、[ **CSP-customers]、[orders]、[サブスクリプション]、[カスタマーサービスクレジット要求**] の順に選択します。
 
-3. SLA クレジット要求を送信します。
+3. SLA のクレジット要求を送信します。
 
 
 

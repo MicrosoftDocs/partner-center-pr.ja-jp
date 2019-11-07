@@ -1,18 +1,20 @@
 ---
-title: マイクロソフトによるサポート | パートナー センター
+title: Microsoft によるサポート | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
-description: Microsoft サービスやパートナー センターで問題が発生した場合は、マイクロソフトにエスカレートしてサポートを依頼し、解決まで問題を追跡できます。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Microsoft サービスやパートナー センターに関する問題が発生した場合は、Microsoft にエスカレートしてサポートを依頼し、問題が解決されるまで追跡できます。
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e2c191b974347aed5716629e53b7d6f99700b7c
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: acc7d380ce5323c9d85859a5aa766c3c166622dc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668394"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651569"
 ---
 # <a name="support-from-microsoft"></a>Microsoft によるサポート
 

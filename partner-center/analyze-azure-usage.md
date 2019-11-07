@@ -1,6 +1,8 @@
 ---
 title: Azure 利用状況分析 | パートナー センター
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: パートナー センターを使用して、顧客の Azure サブスクリプションの利用状況に関するデータを取得します。
 author: LauraBrenner
 ms.author: labrenne
@@ -9,12 +11,12 @@ ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781985"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653378"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>顧客の Azure サブスクリプションの利用状況に関するデータの取得
 
@@ -29,11 +31,11 @@ ms.locfileid: "68781985"
 
 次のメトリックを追跡しています。
 
-## <a name="summary"></a>Summary
+## <a name="summary"></a>概要
 
-- **Total Azure subscriptions sold** (Azure サブスクリプションの合計販売数):指定した期間に販売されたサブスクリプションの数  
-- **Customers with usage** (利用状況のある顧客数):指定した期間に Azure の利用状況がある顧客の数  
-- **Customers with usage** (利用状況のない顧客数):指定した期間に Azure の利用状況がない顧客の数  
+- **Total Azure subscriptions sold** (Azure サブスクリプションの合計販売数): 指定した期間に販売されたサブスクリプションの数  
+- **Customers with usage** (利用状況のある顧客数): 指定した期間に Azure の利用状況がある顧客の数  
+- **Customers with usage** (利用状況のない顧客数): 指定した期間に Azure の利用状況がない顧客の数  
 
 ## <a name="top-5-customers-in-category"></a>カテゴリ内の上位 5 件の顧客
 
@@ -49,8 +51,8 @@ ms.locfileid: "68781985"
 
 ## <a name="azure-subscription-churn"></a>Azure サブスクリプションのチャーン
 
-- **Active subscriptions** (アクティブなサブスクリプション): 日付ごとのアクティブなサブスクリプションの数  
-- **Deprovisioned subscriptions** (プロビジョニング解除されたサブスクリプション数):日付ごとのプロビジョニング解除または中断されたサブスクリプションの数  
+- **Active subscriptions** (アクティブなサブスクリプション数): 日付ごとのアクティブなサブスクリプションの数  
+- **Deprovisioned subscriptions** (プロビジョニング解除されたサブスクリプション数): 日付ごとのプロビジョニング解除または中断されたサブスクリプションの数  
 
 ## <a name="customer-count"></a>顧客数
 
