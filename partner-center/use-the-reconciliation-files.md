@@ -1,7 +1,7 @@
 ---
 title: 調整ファイルを使う | パートナー センター
 ms.topic: article
-ms.date: 07/08/2019
+ms.date: 11/07/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターから調整ファイルをダウンロードします。
@@ -9,12 +9,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 217d5e9c068a07b51f74333f605daca8ab573c9a
+ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653974"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73753853"
 ---
 # <a name="use-the-reconciliation-files"></a>調整ファイルを使う
 
@@ -23,6 +23,10 @@ ms.locfileid: "73653974"
 -  パートナー センター
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
+**適切なロール**
+
+- 課金の管理
+- グローバル管理
 
 請求サイクルの各料金の詳しい行項目ビューについては、パートナー センターから調整ファイルをダウンロードします。 詳細には、各顧客のサブスクリプションの料金や、詳細なイベント (期間途中でのサブスクリプションへのシートの追加など) が含まれます。
 
@@ -637,7 +641,7 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 </tr>
 
 <tr class="even">
-<td>DiscountDetails</td>
+<td>PriceAdjustmentDescription</td>
 <td><p>適用可能なすべての割引の説明。</p></td>
 </tr>
 
@@ -670,7 +674,26 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <td>Ic 周波数</td>
 <td><p> 毎月の課金が有効になると、毎月表示されます。 それ以外の場合は空白です。 </p></td>
 </tr>
-
+<tr class="odd">
+<td>各販売数量</td>
+<td><p> 購入または消費されたユニットの合計を表します。 </p></td>
+</tr>
+<tr class="even">
+<td>PricingCurrency</td>
+<td><p> リソースまたはプランの価格を一覧表示します</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p> (顧客) 請求通貨に適用される換算レート</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p> 料金通貨換算率を決定する日付。</p></td>
+</tr>
+<tr class="odd">
+<td>MeterDescription </td>
+<td><p> 従量課金ライン項目のメーターの説明</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -897,9 +920,29 @@ Recon ファイルは非常に大きくなる可能性があり、ダウンロ�
 <td><p>省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールド。</p></td>
 </tr>
 
-<tr class="even">
+<tr class="odd">
 <td>Additional Info</td>
 <td><p>他の列で網羅されていないすべての追加情報。</p></td>
+</tr>
+<tr class="even">
+<td>EffectiveUnitPrice</td>
+<td><p> ユニットごとに課金される実際の値 (これには割引、獲得クレジットなどが含まれます)。</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p>(顧客) 請求通貨に適用される換算レート。</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p>料金の通貨換算率を決定する日付。</p></td>
+</tr>
+<tr class="odd">
+<td>EntitlementID</td>
+<td><p>Azure subscriptionID を表します。</p></td>
+</tr>
+<tr class="even">
+<td>EntitlementDescription</td>
+<td><p>Azure サブスクリプションの名前を表します。</p></td>
 </tr>
 
 </tbody>
