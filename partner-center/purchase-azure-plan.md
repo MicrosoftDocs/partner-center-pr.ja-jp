@@ -1,18 +1,18 @@
 ---
 title: Azure プランを購入する | パートナー センター
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: Azure プランで複数の Azure サブスクリプションを購入します
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428526"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595930"
 ---
 # <a name="purchase-the-azure-plan"></a>Azure プランを購入する
 
@@ -53,7 +53,7 @@ Azure プランの購入方法は、他のサブスクリプションの購入�
   
 パートナー センターで、顧客に代わって Azure プランで Microsoft Azure Reservations を購入することもできます。
 
-1. お使いのダッシュボードの [パートナー センター] メニューから、 **[顧客]** を選択します。 Azure Reservations を購入する顧客を見つけ、下向き矢印を選択して顧客の行を展開します。 
+1. お使いの[ダッシュボード](https://partner.microsoft.com/dashboard/)の [パートナー センター] メニューから、 **[顧客]** を選択します。 Azure Reservations を購入する顧客を見つけ、下向き矢印を選択して顧客の行を展開します。 
 
 2. **[製品の追加]** を選択し、 **[Azure]** を選択します。 
 - **[セグメント]** の一覧から、顧客の市場セグメントを選択します。 

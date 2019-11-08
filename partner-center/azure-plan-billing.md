@@ -1,24 +1,30 @@
 ---
 title: Azure プラン - 請求 | パートナー センター
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: Azure プランの請求書と調整ファイルの構造について説明します
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 9b68361f80be0e5c68f707aa578f78cabcdee3e5
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: f7b2e22fb4cc0c424ad18278df644d289944ca01
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428474"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595933"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP の新しいコマース エクスペリエンス - Azure の請求 
 
+**適切なロール:**
 
-Azure プランの請求は、調整された 1 つの請求日とカレンダーの月単位の請求期間を使用することで、請求エクスペリエンスが簡単になりました。 請求プラットフォームの詳細については、[Partner Center Modern Commerce Operating Guide](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) を参照してください。
+- 課金の管理
+- 管理エージェント
+- 全体管理者
+
+
+Azure プランの請求は、調整された 1 つの請求日とカレンダーの月単位の請求期間を使用することで、請求エクスペリエンスが簡単になりました。 課金プラットフォームの詳細については、「[課金の概要](billing-basics.md)」を参照してください。
 
 ## <a name="summary-of-billing-essentials"></a>請求の要点の概要
 

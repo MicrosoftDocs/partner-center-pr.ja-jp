@@ -1,0 +1,140 @@
+### YamlMime:Hub
+title: パートナー センターに関するドキュメント
+summary: パートナー センターは、Microsoft Partner Network (MPN)、クラウド ソリューション プロバイダー (CSP) プログラムなどを使用してビジネスを拡大するのに役立ちます。
+brand: windows
+metadata:
+  title: パートナー センターに関するドキュメント
+  description: パートナー センターは、Microsoft Partner Network (MPN)、クラウド ソリューション プロバイダー (CSP) プログラムなどを使用してビジネスを拡大するのに役立ちます。
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: hub-page
+  author: LauraBrenner
+  ms.author: labrenne
+  manager: evansma
+  ms.date: 11/05/2019
+  ms.openlocfilehash: 66e35332bc8deaa4357c1b6c4296707fd5f0c67a
+  ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+  ms.translationtype: HT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 11/06/2019
+  ms.locfileid: "73654408"
+highlightedContent:
+  items:
+  - title: サインインして最新のお知らせを表示する
+    itemType: whats-new
+    url: https://partner.microsoft.com/pcv/announcements
+  - title: まだパートナーでない場合は、 Microsoft Partner Network に今すぐ参加できます。
+    itemType: get-started
+    url: https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx
+  - title: API および SDK 早期導入者プログラムへの参加
+    itemType: deploy
+    url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
+  - title: 新しい Microsoft 顧客契約
+    itemType: concept
+    url: confirm-customer-agreement.md
+  - title: 多要素認証とセキュリティのベスト プラクティス
+    itemType: overview
+    url: partner-security-requirements.md
+  - title: パートナー センターでの新しいコマース エクスペリエンス – Azure プラン
+    itemType: whats-new
+    url: azure-plan-get-started.md
+conceptualContent:
+  title: パートナー センターでの操作
+  items:
+  - title: アカウントの登録と管理
+    links:
+    - url: mpn-create-a-partner-center-account.md
+      itemType: how-to-guide
+      text: パートナー センター アカウントを作成する
+    - url: manage-locations.md
+      itemType: how-to-guide
+      text: 場所の管理
+    - url: azure-active-directory-tenants-and-partner-center.md
+      itemType: how-to-guide
+      text: テナントの管理
+    footerLink:
+      url: partner-center-account-setup.md
+      text: さらに詳しく
+  - title: お客様とつながる
+    links:
+    - url: csp-offers.md
+      itemType: how-to-guide
+      text: 製品とサービスの販売
+    - url: assign-licenses-to-users.md
+      itemType: how-to-guide
+      text: 顧客ライセンスの管理
+    - url: see-your-customer-list.md
+      itemType: how-to-guide
+      text: 顧客一覧の表示
+    footerLink:
+      url: customer-accounts.md
+      text: さらに詳しく
+  - title: Grow your business
+    links:
+    - url: referrals.md
+      itemType: how-to-guide
+      text: 紹介とビジネス プロファイル
+    - url: promotions.md
+      itemType: how-to-guide
+      text: 販売促進を活用する
+    - url: get-special-pricing-for-offers.md
+      itemType: how-to-guide
+      text: 特別価格の対象となる業界への販売
+    footerLink:
+      url: grow-your-business.md
+      text: さらに詳しく
+  - title: 請求と税金について
+    links:
+    - url: billing-basics.md
+      itemType: how-to-guide
+      text: 課金の基本
+    - url: read-your-bill.md
+      itemType: how-to-guide
+      text: 請求書の記載事項
+    - url: tax-and-tax-exemptions.md
+      itemType: how-to-guide
+      text: 税金と税金の除外
+    footerLink:
+      url: billing.md
+      text: さらに詳しく
+  - title: ビジネス データの分析
+    links:
+    - url: partner-contribution-indicators.md
+      itemType: how-to-guide
+      text: パートナー貢献度インジケーター
+    - url: analyze-azure-usage.md
+      itemType: how-to-guide
+      text: 顧客の Azure 使用状況データ
+    - url: analyze-indirect-resellers.md
+      itemType: how-to-guide
+      text: 間接リセラー パフォーマンス
+    footerLink:
+      url: data-analysis-lp.md
+      text: さらに詳しく
+  - title: サポートの取得と提供
+    links:
+    - url: customer-support.md
+      itemType: how-to-guide
+      text: 顧客へのサポート提供
+    - url: check-service-health.md
+      itemType: how-to-guide
+      text: サービスの正常性の確認
+    - url: report-problems-with-partner-center.md
+      itemType: how-to-guide
+      text: パートナー センターのレポートに関する問題
+    footerLink:
+      url: support-from-microsoft.md
+      text: さらに詳しく
+additionalContent:
+  sections:
+  - title: 主要なタスクとツール
+  - items:
+    - title: Microsoft Action Pack (MAPS) を取得する
+      summary: Microsoft Action Pack サブスクリプションを含む特典オファーを購入または更新します。
+      url: mpn-get-action-pack.md
+    - title: パートナー センターの API/SDK リファレンス
+      summary: パートナー センター SDK を使用して、顧客、サブスクリプション、注文データを管理します。
+      url: https://docs.microsoft.com/partner-center/develop/
+    - title: 連絡を取り合う
+      summary: CSP Yammer コミュニティにご参加ください。
+      url: https://go.microsoft.com/fwlink/p/?linkid=851605
