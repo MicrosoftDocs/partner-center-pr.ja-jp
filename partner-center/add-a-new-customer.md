@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 顧客, 顧客の追加, 顧客アカウント, パートナー センターの顧客アカウント, お客様, お客様の追加, 顧客アカウントの作成
 ms.localizationpriority: medium
-ms.openlocfilehash: b8ffc01816e7f50ada49d87a82b8d7fbc72a78dd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
+ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653395"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "73840210"
 ---
 # <a name="add-a-new-customer"></a>新しい顧客を追加する
 
@@ -35,9 +35,9 @@ ms.locfileid: "73653395"
 
 2. **[アカウント情報]** ページで、顧客の詳細と主要な連絡先情報を入力し、顧客が最新の [Microsoft Cloud 契約](agreements.md) を承諾して署名したことを確認します。
 
-    >[!IMPORTANT]
-      > 2018 年 11 月 7 日以降、パートナーは、署名した人についての情報を提供することで、顧客が Microsoft Cloud 契約を受諾したことを確認する必要があります。 詳しくは、「[Microsoft Cloud 契約に関するお客様の同意を確認する](confirm-consent.md)」を参照してください。
-
+>[!IMPORTANT] 
+> マイクロソフトは、2019年10月1日に、Microsoft Cloud 契約を置き換えるために、CSP プログラムに**Microsoft カスタマー契約**を導入しました。 新しい契約へのパートナーの移行を促進するために、現在の Microsoft Cloud 契約は、2020 年 1 月 31 まで CSP プログラムでサポートされます。 [Microsoft カスタマー契約および同意を確認する方法](confirm-customer-consent.md)については、こちらを参照してください。
+  
 3. 間接プロバイダーの場合は、この顧客のサブスクリプションに関連付ける間接リセラーを一覧から選択します。
 
 4. すべての必要な情報の入力が完了したら、 **[次へ: サブスクリプション]** を選択します。
