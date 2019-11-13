@@ -1,22 +1,22 @@
 ---
 title: パートナーテナントに MFA を義務付ける |パートナーセンター
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーテナントのセキュリティ要件に対する MFA の要求の詳細
+description: パートナーテナントのセキュリティ要件に対する多要素認証 (MFA) の要求の詳細
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: medium
-ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
+ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652517"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "73983350"
 ---
-# <a name="mandating-mfa-for-your-partner-tenant"></a>パートナーテナントに MFA を義務付ける
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>パートナーのテナントに Multi-factor Authentication (MFA) を義務付ける
 
 **適用対象**
 
@@ -28,9 +28,9 @@ ms.locfileid: "73652517"
 
 これらのパートナーは、次の領域の MFA 検証を完了する必要があります。
 
-- [パートナーセンターのダッシュボード](#partner-center-dashboard)
-- [パートナーセンター API](#partner-center-api)
-- [パートナー代理管理](#partner-delegated-administration)
+- [パートナーセンターダッシュボード](#partner-center-dashboard)(H1 CY2020 を対象とする)
+- [パートナーセンター API](#partner-center-api) (ターゲット H1 CY2020)
+- [パートナー代理管理](#partner-delegated-administration)(2019 年11月18日以降)
 
 この機能の目的は、パートナーが資格情報の侵害から顧客リソースへのアクセスをセキュリティで保護できるようにすることです。
 
