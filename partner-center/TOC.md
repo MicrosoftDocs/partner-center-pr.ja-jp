@@ -184,6 +184,7 @@
 # セキュリティ要件
 ## [概要](partner-security-requirements.md)
 ## [要件の状態](partner-security-compliance.md)
+## [パートナー テナントに MFA を義務付ける](partner-security-requirements-mandating-mfa.md)
 ## [よく寄せられる質問](partner-security-requirements-faq.md)
 
 # チュートリアル
