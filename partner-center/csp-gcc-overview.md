@@ -2,17 +2,19 @@
 title: CSP 向け Office 365 Government GCC の販売 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: CSP プログラムの Microsoft パートナーは、認定されたお客様向けに CSP サブスクリプションの Office 365 Government GCC を販売できます。 CSP 向け Office 365 Government GCC は、米国政府機関および政府の請負業者向けに設計されたクラウドの生産性サービスのスイートです。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: caf8c6614a360c45c9976277b9dca14197391f39
-ms.sourcegitcommit: 718064303cc8a632005a2b4561bc34100ec93477
+ms.openlocfilehash: 193cc10b02e0bee75799e5c64e59e3a3abe04a30
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73168563"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653559"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>CSP 向け Office 365 Government GCC サブスクリプションを認定ユーザーに販売する
 
