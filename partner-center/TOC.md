@@ -135,6 +135,7 @@
 ### [プロモーションを使用して、新しい顧客の関心を引く](promotions.md)
 ### [Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)
 ### [商用マーケットプレース製品にサブスクリプションを販売する](sell-marketplace-products.md)
+### [マーケットプレース限定のオファー](isv-opt-in.md)
 ### [パートナー センターでの Azure サブスクリプションの割り当て](assign-azure-subscriptions.md)
 ### [ユーザーへのライセンスの割り当て](assign-licenses-to-users.md)
 ### [既存のサブスクリプションへのライセンスまたはサービスの追加](add-licenses-or-services-to-an-existing-subscription.md)
@@ -183,6 +184,7 @@
 
 # セキュリティ要件
 ## [概要](partner-security-requirements.md)
+## [パートナー テナントに MFA を義務付ける](partner-security-requirements-mandating-mfa.md) 
 ## [要件の状態](partner-security-compliance.md)
 ## [パートナー テナントに MFA を義務付ける](partner-security-requirements-mandating-mfa.md)
 ## [よく寄せられる質問](partner-security-requirements-faq.md)
