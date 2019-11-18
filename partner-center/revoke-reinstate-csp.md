@@ -2,17 +2,19 @@
 title: Azure CSP サブスクリプションの管理者特権を復元する | パートナー センター
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: このドキュメントでは、顧客がパートナーの管理者特権を復元する方法について説明します
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 51f19724751b296789a1d5367d9892b21cab4f09
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73433725"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651711"
 ---
 # <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>Azure CSP サブスクリプションの管理者特権を復元する  
 
@@ -27,9 +29,9 @@ CSP パートナーの顧客は、自分の Azure の使用状況とシステム
 
 CSP では Azure に対して 2 つのレベルの管理者特権があります。 
 
-**テナント レベルの管理者特権** (**委任された管理者特権**) – CSP パートナーは、顧客との CSP リセラーの関係を確立する際に、これらの特権を取得します。 これにより、CSP パートナーは顧客のテナントにアクセスできるようになり、ユーザーの追加/管理、パスワードのリセット、ユーザー ライセンスの管理などの管理機能を実行できます。 
+**テナント レベルの管理者特権** (**委任された管理者特権**) - CSP パートナーは、顧客との CSP リセラーの関係を確立する際に、これらの特権を取得します。 これにより、CSP パートナーは顧客のテナントにアクセスできるようになり、ユーザーの追加/管理、パスワードのリセット、ユーザー ライセンスの管理などの管理機能を実行できます。 
 
-**サブスクリプション レベルの管理者特権** – CSP パートナーは、顧客のための Azure CSP サブスクリプションを作成する際に、これらの特権を取得します。 これにより、CSP パートナーはこれらのサブスクリプションに完全にアクセスできるようになり、Azure リソースのプロビジョニングと管理を行うことができます。 
+**サブスクリプション レベルの管理者特権** - CSP パートナーは、顧客のための Azure CSP サブスクリプションを作成する際に、これらの特権を取得します。 これにより、CSP パートナーはこれらのサブスクリプションに完全にアクセスできるようになり、Azure リソースのプロビジョニングと管理を行うことができます。 
 
 
 ## <a name="reinstate-csp-partners-admin-privileges"></a>CSP パートナーの管理者特権を復元する

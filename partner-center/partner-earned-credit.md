@@ -2,17 +2,19 @@
 title: パートナー獲得クレジット - 概要 | パートナー センター
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Azure プランのパートナー獲得クレジットの概要
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: bce9c2dca086489b019f7d1bffdb34076c0bc2bd
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: a3084d84d2befda1f2e71dc8d15cd1f3542bd974
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595906"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654204"
 ---
 # <a name="partner-earned-credit---overview"></a>パートナー獲得クレジット - 概要
 

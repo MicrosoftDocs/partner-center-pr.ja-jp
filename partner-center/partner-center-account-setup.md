@@ -2,18 +2,20 @@
 title: パートナー センターのアカウントを管理する | パートナー センター
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 組織のプロファイル、銀行と税情報、ユーザーをパートナー センターで管理します。
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e2e4e4e3d0fb7d88d748c57abe7a5a5161ea640a
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 17b7fb961208eadb1b41e345fd4380fc276dcb2e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318620"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652765"
 ---
 # <a name="manage-your-partner-center-account"></a>パートナー センター アカウントの管理
 

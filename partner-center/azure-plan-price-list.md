@@ -2,18 +2,20 @@
 title: Azure プランの価格表 | パートナー センター
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Azure プランのサブスクリプションに対する価格表を確認する方法
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 00649bb67de199409e1c36457dbaf5a915c8354c
+ms.sourcegitcommit: e55fd7b82b90683ac34ab60c284fd6abacbde568
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428550"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73710134"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 向けの CSP の新しいコマース エクスペリエンスの価格表 
 
@@ -23,22 +25,16 @@ CSP の新しい Azure コマース エクスペリエンスの価格表は、�
 
 1. 左側のパートナー センターのメニューから、 **[販売]** を選択し、 **[マーケットプレース]** を選択します。
 
-2. **[エクスポートの種類]** で、 **[Azure プランの従量課金価格]** を選択します。
+2. [Azure プランの価格] で、価格を設定する国を選択します。
 
-3. **[日付での価格]** で、目的の日付を選択します (例: **[現在]** )。 注: **[外国為替レート]** を選択して、現在の外国為替レートをエクスポートすることもできます。
+3. **[エクスポートの種類]** で、 **[Azure プランの従量課金価格]** 、 **[Azure プランの予約価格]** 、または **[外国為替レート]** を選択します。 注: **[外国為替レート]** は国に固有ではありません。
 
-![Azure の価格 2](images/azure/pricelist2.jpg)
-
-4. **[マーケットプレース]** で、製品の **[種類]** と **[カテゴリ]** を選択するか、製品を検索します。 検索条件に基づいて利用可能な製品が表示されます。
-
-![pricing](images/azure/Azurepricelist1.jpg)
-
-5. 次に、 **[Azure プランの価格表のエクスポート]**  を選択して、選択した製品用の Azure プランの価格をダウンロードします。
+3. **[日付での価格]** で、目的の日付を選択します (例: **[現在]** )。 
 
 
-![価格表のエクスポート](images/azure/pricelist1.png)
+![国固有](images/azure/pricingnew.png)
 
-
+注:Azure プランの価格と Marketplace のサードパーティ価格の 2 種類の価格表をエクスポートできます。 
 
 ## <a name="azure-price-list-specifics"></a>Azure 価格表の詳細
 
@@ -48,7 +44,7 @@ CSP の新しい Azure コマース エクスペリエンスの価格表は、�
 
 - エクスポートのオプションには、以下が含まれています。
 
-    - **本日の価格**:これには、当月の 1 日から現在の日付までのすべてのメーターと価格が含まれています。 これには、新しい価格、変更された価格、または削除された価格が含まれます。 すべての価格には、新規であるか削除されたかどうかを説明する有効な開始日と終了日があります。
+    - **本日の価格**: これには、当月の 1 日から現在の日付までのすべてのメーターと価格が含まれています。 これには、新しい価格、変更された価格、または削除された価格が含まれます。 すべての価格には、新規であるか削除されたかどうかを説明する有効な開始日と終了日があります。
 
     - **前月の価格**:各種類のリソースのダウンロードは月単位で行われます。 価格ファイルの場合は、その月に利用可能であったすべてのメーターが含まれます。 月の途中で新しいメーターが出現した場合は、その利用可能性を反映する有効日付きのメーターとして表示されます。 継続されていない価格についても同様であり、利用可能でなくなった日付を示す最後の有効日付きで表示されます。
 
