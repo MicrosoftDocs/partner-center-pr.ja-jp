@@ -9,12 +9,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8d76754c2b4a2e5050642c1b0be142023f51b073
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7b218d8d82506d50c21957f406eef6874eefbb7a
+ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652994"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "74189071"
 ---
 # <a name="multi-channel-support"></a>マルチチャンネルのサポート
 
@@ -24,11 +24,11 @@ ms.locfileid: "73652994"
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 
-パートナーセンターのマルチチャネル機能は、顧客が他の場所で購入したサブスクリプションを管理およびサポートするためにパートナーを採用する必要があるシナリオをサポートします。 マルチチャンネルのサポートは次の場合に適用されます。
+The Partner Center's multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere. マルチチャンネルのサポートは次の場合に適用されます。
 
 -   顧客が既に Microsoft から直接サブスクリプションを購入しているか、アドバイザー、オープン、または EA プログラムを通じて購入している。
 
--   顧客がクラウド ソリューション プロバイダー プログラムに参加していないまたは Microsoft Syndication パートナーでないサード パーティからサブスクリプションを購入した場合。 既存のライセンスベースのサブスクリプションをクラウドソリューションプロバイダープログラムの別のパートナーに切り替えることはできません。サブスクリプション期間が終了するまで待つか、移動する前にキャンセルする必要があります。
+-   顧客がクラウド ソリューション プロバイダー プログラムに参加していないまたは Microsoft Syndication パートナーでないサード パーティからサブスクリプションを購入した場合。 Customers can't switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program-they must wait until the end of their subscription period or cancel before moving.
 
 
 <table>
@@ -44,8 +44,8 @@ ms.locfileid: "73652994"
 <tr class="even">
 <td><p><strong>使用量ベースのサービス</strong></p></td>
 <td>
-<p>顧客が、Advisor プログラム、Open プログラム、EA プログラムなどの別のチャンネルから Microsoft Azure サブスクリプションを既に取得している場合、パートナーはパートナー センターで新しい Azure サブスクリプションを作成し、サブスクリプションの詳細情報を手動で入力した後、個別のサービスまたはサブスクリプション全体を取り消す必要があります。</p>
-<p>たとえば、顧客が別のパートナーの Microsoft Azure サブスクリプションを既に持っている場合は、Azure サービスを他のパートナーに切り替えることができます。 詳しくは、「<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Azure サブスクリプションを別のパートナーに切り替える</a>」をご覧ください。</p>
+<p>顧客が、Advisor プログラム、Open プログラム、EA プログラムなどの別のチャンネルから Microsoft Azure サブスクリプションを既に取得している場合、パートナーはパートナー センターで新しい Azure サブスクリプションを作成し、サブスクリプションの詳細情報を手動で入力した後、個別のサービスまたはサブスクリプション全体を取り消す必要があります。 Azure CSP can coexist with different channels.</p>
+<p>たとえば、顧客が別のパートナーの Microsoft Azure サブスクリプションを既に持っている場合は、Azure サービスを他のパートナーに切り替えることができます。  詳しくは、「<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Azure サブスクリプションを別のパートナーに切り替える</a>」をご覧ください。</p>
 </td>
 </tr>
 </tbody>

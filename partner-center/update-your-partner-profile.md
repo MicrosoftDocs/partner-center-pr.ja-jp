@@ -1,15 +1,21 @@
 ---
-ms.openlocfilehash: 496bf935432f46b9fe12a946c956071606e34d58
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+title: Verify your partner profile  | Partner Center
+MS.Topic: article
+Date: 08/06/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 管理者として初めてサインインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。
+ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
+author: LauraBrenner
+ms.author: labrenne
+ms.localizationpriority: medium
+ms.openlocfilehash: e30d035cfdcd8f939200af33150dce22a354d360
+ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653986"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "74189064"
 ---
-ms. サービス: パートナー-ダッシュボードの ms. サブサービス: partnercenter-csp の説明: 管理者として初めて署名する場合は、サポートの詳細が正しいことを確認し、必要に応じてファイルの課税控除を確認して、プロファイルの連絡先情報を確認してください。
-Orm.トピック: 記事の日付: 08/06/2019 ms. assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E author: LauraBrenner ms. 作成者: labrenne ミリ秒: 中
----
-
 # <a name="verify-your-partner-profile"></a>パートナー プロファイルを確認する
 
 全体管理者として初めてパートナー センターにサインインするときは、主要連絡先、組織の法人名と住所、プログラム情報など、ご自身の会社の詳細情報すべてが正しく追加されていることを確認します。 会社が複数の場所に存在する場合は、場所のデータが正しいことを確認します。 全体管理者、課金管理者、または管理エージェントとして、自分の請求および税金情報を表示し、更新することもできます。 
