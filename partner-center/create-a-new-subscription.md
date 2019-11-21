@@ -1,97 +1,158 @@
 ---
 title: 顧客のサブスクリプションの作成、中断、取り消し | パートナー センター
 ms.topic: article
-ms.date: 08/16/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナー センターで顧客の記録を作成したら、カタログ内の製品へのサブスクリプションを販売できます。
+description: パートナーセンターで顧客レコードを作成した後に、顧客のサブスクリプションをカタログ内の製品に販売する方法について説明します。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
-Keywords: サブスクリプション, 新規作成, サブスクリプションの追加, 中断, 取り消し, 一時停止
+Keywords: サブスクリプション、新規作成、サブスクリプションの追加、中断、キャンセル、中断、中断、SaaS、ライセンス、ISV、サードパーティ
 ms.localizationpriority: medium
-ms.openlocfilehash: 764936d8025cd4aa18e1909a8da2b288c8381a37
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d829ba7ee520cab42ec5985ac2156ddff60d8e99
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653598"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253456"
 ---
-# <a name="create-suspend-or-cancel-customer-subscriptions"></a><span data-ttu-id="f3bee-104">顧客のサブスクリプションの作成、中断、取り消し</span><span class="sxs-lookup"><span data-stu-id="f3bee-104">Create, suspend, or cancel customer subscriptions</span></span>
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a><span data-ttu-id="38b92-104">顧客のサブスクリプションの作成、中断、取り消し</span><span class="sxs-lookup"><span data-stu-id="38b92-104">Create, suspend, or cancel customer subscriptions</span></span>
 
-<span data-ttu-id="f3bee-105">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="f3bee-105">**Applies to**</span></span>
+<span data-ttu-id="38b92-105">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="38b92-105">**Applies to**</span></span>
 
--  <span data-ttu-id="f3bee-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="f3bee-106">Partner Center</span></span>
--  <span data-ttu-id="f3bee-107">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="f3bee-107">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="f3bee-108">CSP パートナー</span><span class="sxs-lookup"><span data-stu-id="f3bee-108">CSP partners</span></span>
+-  <span data-ttu-id="38b92-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="38b92-106">Partner Center</span></span>
+-  <span data-ttu-id="38b92-107">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="38b92-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="38b92-108">CSP パートナー</span><span class="sxs-lookup"><span data-stu-id="38b92-108">CSP partners</span></span>
 
-<span data-ttu-id="f3bee-109">パートナー センターで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-109">After you've created a record of your customer in the Partner Center, you can sell them subscriptions to products in the catalog.</span></span> <span data-ttu-id="f3bee-110">これには、Microsoft によって発行された製品だけでなく、独立系ソフトウェア ベンダー (ISV) によって[商用マーケットプレース](https://azuremarketplace.microsoft.com/marketplace)に発行されたサービスとしてのソフトウェア (SaaS) 製品も含まれます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-110">This includes products published by Microsoft as well as Software as a Service (SaaS) products published by Independent Software Vendors (ISVs) to the [commercial marketplace](https://azuremarketplace.microsoft.com/marketplace).</span></span> 
+<span data-ttu-id="38b92-109">**適切なロール**</span><span class="sxs-lookup"><span data-stu-id="38b92-109">**Appropriate roles**</span></span>
 
-<span data-ttu-id="f3bee-111">一部のプランでは、顧客ごとに保有できるサブスクリプションが 1 つに限られていることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="f3bee-111">Note that some offers are limited to one subscription per customer.</span></span> <span data-ttu-id="f3bee-112">制限のあるオファーの一覧を確認するには、パートナー センターの [料金とプラン] ページをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f3bee-112">To see a list of which offers are restricted, visit the Partner Center Pricing and Offers page.</span></span> 
+- <span data-ttu-id="38b92-110">全体管理者</span><span class="sxs-lookup"><span data-stu-id="38b92-110">Global admin</span></span>
+- <span data-ttu-id="38b92-111">管理エージェント</span><span class="sxs-lookup"><span data-stu-id="38b92-111">Admin agent</span></span>
 
+<span data-ttu-id="38b92-112">パートナー センターで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。</span><span class="sxs-lookup"><span data-stu-id="38b92-112">After you've created a record of your customer in the Partner Center, you can sell them subscriptions to products in the catalog.</span></span> <span data-ttu-id="38b92-113">これには、Microsoft によって発行された製品と、サードパーティ製の独立系ソフトウェアベンダー (Isv) によって[商用マーケットプレース](https://azuremarketplace.microsoft.com/marketplace)に発行されたサービスとしてのソフトウェア (SaaS) 製品が含まれます。</span><span class="sxs-lookup"><span data-stu-id="38b92-113">This includes products published by Microsoft as well as Software as a Service (SaaS) products published by third-party Independent Software Vendors (ISVs) to the [commercial marketplace](https://azuremarketplace.microsoft.com/marketplace).</span></span> 
 
-## <a name="create-a-new-subscription"></a><span data-ttu-id="f3bee-113">新しいサブスクリプションの作成</span><span class="sxs-lookup"><span data-stu-id="f3bee-113">Create a new subscription</span></span>
+<span data-ttu-id="38b92-114">一部のプランでは、顧客ごとに保有できるサブスクリプションが 1 つに限られていることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="38b92-114">Note that some offers are limited to one subscription per customer.</span></span> <span data-ttu-id="38b92-115">制限のあるオファーの一覧を確認するには、パートナー センターの [料金とプラン] ページをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="38b92-115">To see a list of which offers are restricted, visit the Partner Center Pricing and Offers page.</span></span>
 
-1. <span data-ttu-id="f3bee-114">パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-114">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
+>[!IMPORTANT]
+<span data-ttu-id="38b92-116">CSP プログラムのパートナーは、パートナーセンター内の ISV 発行元から**ライセンスベース**の SaaS サブスクリプションのみを購入できます。</span><span class="sxs-lookup"><span data-stu-id="38b92-116">As a partner in the CSP program, you can only purchase **license-based** SaaS subscriptions from ISV publishers within Partner Center.</span></span> <span data-ttu-id="38b92-117">つまり、ISV 発行者が利用可能にした**ライセンスベース**の SaaS プランを購入できます。これには、アクセス権を持つ[限定プラン](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)も含まれます。</span><span class="sxs-lookup"><span data-stu-id="38b92-117">This means you can purchase any **license-based** SaaS offer the ISV publisher has made available to you, including [exclusive offers](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) to which you have access.</span></span> <span data-ttu-id="38b92-118">Isv (Azure アプリケーション、コンテナー、または Vm を含む**使用量ベース**、従量制課金、消費量ベースのプランなど) から、他の商用 marketplace プランを購入または管理するには、 [azure 管理ポータル](https://portal.azure.com/)にアクセスする必要があります。</span><span class="sxs-lookup"><span data-stu-id="38b92-118">To purchase or manage other, commercial marketplace offers from ISVs (such as **usage-based**, metered or consumption-based offers involving Azure applications, Containers or VMs), you must go to the [Azure management portal](https://portal.azure.com/).</span></span> <span data-ttu-id="38b92-119">詳細については、「 [Purchase 市販の marketplace 製品](csp-commercial-marketplace-purchase.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="38b92-119">For more information, see [Purchase commercial marketplace products](csp-commercial-marketplace-purchase.md).</span></span>
 
-2. <span data-ttu-id="f3bee-115">**[サブスクリプションの追加]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-115">Select **Add subscription**.</span></span>
+## <a name="create-a-new-subscription"></a><span data-ttu-id="38b92-120">新しいサブスクリプションの作成</span><span class="sxs-lookup"><span data-stu-id="38b92-120">Create a new subscription</span></span>
 
-3. <span data-ttu-id="f3bee-116">特定の種類のサブスクリプションのみを表示するには、使用可能なフィルターで選択を行います。</span><span class="sxs-lookup"><span data-stu-id="f3bee-116">To see only certain types of subscriptions, make selections in the available filters:</span></span>
-   - <span data-ttu-id="f3bee-117">**発行元**: microsoft からのプランのみを表示し、isv によって発行された商用 marketplace 製品を表示するには、 **[パートナー]** **を選択し**ます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-117">**Publisher**: Choose **Microsoft** to see only offers from Microsoft, or **Partner** to see commercial marketplace products published by ISVs.</span></span>
-   - <span data-ttu-id="f3bee-118">**課金の種類**: 使用するサブスクリプションの種類 (**ライセンス**または使用) を選択し**ます。**</span><span class="sxs-lookup"><span data-stu-id="f3bee-118">**Billing type**: Select the type of subscription billing you want to use: **License** or **Usage**.</span></span> <span data-ttu-id="f3bee-119">請求頻度を月次と年次のいずれかに決定するのに役立つ情報については、[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="f3bee-119">See [FAQ about new billing features](faq-about-new-billing-features.md) for information that will help you decide between the monthly and annual billing frequency.</span></span>
-   - <span data-ttu-id="f3bee-120">**カテゴリ**: **Enterprise**、 **Small Business**、または**試用版**を選択します。</span><span class="sxs-lookup"><span data-stu-id="f3bee-120">**Category**: Choose **Enterprise**, **Small business**, or **Trial**.</span></span> <span data-ttu-id="f3bee-121">試用版サブスクリプションについては、「[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f3bee-121">For info about trial subscriptions, see [Offer your customers trials of Microsoft products](offer-your-customers-trials-of-microsoft-products.md).</span></span>
+1. <span data-ttu-id="38b92-121">パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。</span><span class="sxs-lookup"><span data-stu-id="38b92-121">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-4. <span data-ttu-id="f3bee-122">サブスクリプションを購入する製品を選択します。</span><span class="sxs-lookup"><span data-stu-id="f3bee-122">Select the products for which you want to purchase subscriptions.</span></span> <span data-ttu-id="f3bee-123">表示される製品は、顧客セグメントの種類 (教育機関、政府機関など) および適用したフィルターによって異なることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="f3bee-123">Note that the products you see depends on the type of customer segment (education, government, etc.) and the filters you have applied.</span></span> <span data-ttu-id="f3bee-124">製品が利用できない場合、顧客がその製品のサブスクリプションを既に保有しており、1 つのみが許可されている可能性があります。</span><span class="sxs-lookup"><span data-stu-id="f3bee-124">If a product is not available, the customer may already have a subscription to that product and is only allowed one.</span></span> <span data-ttu-id="f3bee-125">または、サブスクリプションが中断されている可能性があり、その場合は、新しいものを購入する代わりに再アクティブ化することができます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-125">Or, you may have suspended the subscription in which case, you can reactivate it rather than purchasing a new one.</span></span>
+2. <span data-ttu-id="38b92-122">パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。</span><span class="sxs-lookup"><span data-stu-id="38b92-122">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
 
-5. <span data-ttu-id="f3bee-126">追加するサブスクリプションごとに、ライセンス数を入力して、 **[カートに追加]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="f3bee-126">For each subscription you want to add, enter the number of licenses and select **Add to cart**.</span></span>
+3. <span data-ttu-id="38b92-123">**[サブスクリプションの追加]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="38b92-123">Select **Add subscription**.</span></span> <span data-ttu-id="38b92-124">**[オンラインサービス]** タブには、利用可能なすべての Marketplace SaaS プランが表示されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-124">The **Online Services** tab will show all available Marketplace SaaS offers.</span></span>
 
-6. <span data-ttu-id="f3bee-127">サブスクリプションの追加が完了したら、 **[確認]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="f3bee-127">When you are finished adding subscriptions, click **Review**.</span></span>
+4. <span data-ttu-id="38b92-125">特定の種類のサブスクリプションのみを表示するには、使用可能なフィルターで選択を行います。</span><span class="sxs-lookup"><span data-stu-id="38b92-125">To see only certain types of subscriptions, make selections in the available filters:</span></span>
+   - <span data-ttu-id="38b92-126">**発行元**: microsoft からのプランのみを表示し、isv によって発行された商用 marketplace 製品を表示するには、 **[パートナー]** **を選択し**ます。</span><span class="sxs-lookup"><span data-stu-id="38b92-126">**Publisher**: Choose **Microsoft** to see only offers from Microsoft, or **Partner** to see commercial marketplace products published by ISVs.</span></span>
+   - <span data-ttu-id="38b92-127">**課金の種類**: 使用するサブスクリプションの種類 (**ライセンス**または使用) を選択し**ます。**</span><span class="sxs-lookup"><span data-stu-id="38b92-127">**Billing type**: Select the type of subscription billing you want to use: **License** or **Usage**.</span></span> <span data-ttu-id="38b92-128">請求頻度を月次と年次のいずれかに決定するのに役立つ情報については、[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="38b92-128">See [FAQ about new billing features](faq-about-new-billing-features.md) for information that will help you decide between the monthly and annual billing frequency.</span></span>
+   - <span data-ttu-id="38b92-129">**カテゴリ**: **Enterprise**、 **Small Business**、または**試用版**を選択します。</span><span class="sxs-lookup"><span data-stu-id="38b92-129">**Category**: Choose **Enterprise**, **Small business**, or **Trial**.</span></span> <span data-ttu-id="38b92-130">試用版サブスクリプションについては、「[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="38b92-130">For info about trial subscriptions, see [Offer your customers trials of Microsoft products](offer-your-customers-trials-of-microsoft-products.md).</span></span>
 
-7. <span data-ttu-id="f3bee-128">注文を確認し、購入する準備ができたら、 **[購入]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="f3bee-128">Once you've reviewed your orders and are ready to purchase, click **Buy**.</span></span>
+5. <span data-ttu-id="38b92-131">顧客用に購入する製品サブスクリプションを選択します。</span><span class="sxs-lookup"><span data-stu-id="38b92-131">Select the product subscriptions you want to purchase for your customer.</span></span> <span data-ttu-id="38b92-132">表示される製品は、顧客セグメントの種類 (教育、政府など) と、適用したフィルターによって異なります。</span><span class="sxs-lookup"><span data-stu-id="38b92-132">The products you see depend on the type of customer segment (education, government, etc.) and the filters you have applied.</span></span> <span data-ttu-id="38b92-133">Marketplace に表示されるプランによっては、特定の顧客または特定の CSP パートナーが常に利用できるとは限りません。</span><span class="sxs-lookup"><span data-stu-id="38b92-133">Some offers shown on the Marketplace may not always be available to a specific customer or a specific CSP partner.</span></span> <span data-ttu-id="38b92-134">次の原因があります。</span><span class="sxs-lookup"><span data-stu-id="38b92-134">This can be because:</span></span>
 
-<span data-ttu-id="f3bee-129">サブスクリプションが購入された後は、 **[サブスクリプション]** ページで名前をクリックして確認または編集できます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-129">After a subscription has been purchased, you can review or edit it by clicking its name on the **Subscriptions** page.</span></span> <span data-ttu-id="f3bee-130">ここでは、使用可能な場合はアドオン ライセンスを選択したり、ライセンスの数を変更したり、サブスクリプションを中断したりできます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-130">From here, you can select add-on licenses if any are available, change the quantity of licenses, or suspend the subscription.</span></span>
+    - <span data-ttu-id="38b92-135">お客様は既にその製品のサブスクリプションを持っているため、1つのみを使用できます</span><span class="sxs-lookup"><span data-stu-id="38b92-135">The customer already has a subscription to that product and is only allowed one</span></span>
 
+    - <span data-ttu-id="38b92-136">お客様のサブスクリプションが中断されている可能性があります (この場合は、新しいサブスクリプションを購入するのではなく、サブスクリプションを再アクティブ化することができます)。</span><span class="sxs-lookup"><span data-stu-id="38b92-136">The customer's subscription may have been suspended (In this case, you can reactivate the subscription rather than purchase a new one.)</span></span>
+    
+    - <span data-ttu-id="38b92-137">ISV SaaS プランでは、プランを購入できない理由がいくつかあります。 ISV は、お客様の請求先の国または地域をサポートしていない可能性があります。ISV は、CSP プログラムを通じてプランを利用できるようにしないことを選択した可能性があります。または、ISV が特定の CSP パートナーのみ[に対してプランを](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)作成した可能性もあります。</span><span class="sxs-lookup"><span data-stu-id="38b92-137">For ISV SaaS offers, there may be a few reasons why the offer is not available to purchase: The ISV may not support the customer's billing country or region; the ISV may have chosen not to make the offer available through the CSP program; or, the ISV may have made the offer [exclusive](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) to only certain CSP partners.</span></span> <span data-ttu-id="38b92-138">また、パートナーセンター (コンテナーや使用量ベースのプランなど) によって、ISV プランが不可能されない場合もあります。</span><span class="sxs-lookup"><span data-stu-id="38b92-138">The ISV offer may also not be transactable through the Partner Center (e.g. containers or some usage-based offers).</span></span>  
 
-## <a name="suspend-or-cancel-a-subscription"></a><span data-ttu-id="f3bee-131">サブスクリプションを中断または取り消す</span><span class="sxs-lookup"><span data-stu-id="f3bee-131">Suspend or cancel a subscription</span></span>
+6. <span data-ttu-id="38b92-139">追加するサブスクリプションごとに、必要に応じてライセンスの数を入力し、 **[カートに追加]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="38b92-139">For each subscription you want to add, enter the number of licenses (if needed) and select **Add to cart**.</span></span>
 
-<span data-ttu-id="f3bee-132">顧客から要請があった場合や、未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断またはキャンセルできます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-132">Partners can suspend or cancel a subscription if requested by the customer, or in cases of nonpayment or fraud.</span></span>
+7. <span data-ttu-id="38b92-140">サブスクリプションの追加が完了したら、 **[レビュー]** を選択して注文を確認します。</span><span class="sxs-lookup"><span data-stu-id="38b92-140">When you are finished adding subscriptions, select **Review** and review your order.</span></span>
 
-### <a name="suspend-a-subscription"></a><span data-ttu-id="f3bee-133">サブスクリプションを中断する</span><span class="sxs-lookup"><span data-stu-id="f3bee-133">Suspend a subscription</span></span>
+8. <span data-ttu-id="38b92-141">注文を確認し、これらのサブスクリプションを購入する準備ができたら、 **[購入]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="38b92-141">Once you've reviewed your orders and are ready to purchase these subscriptions, select **Buy**.</span></span>
 
-<span data-ttu-id="f3bee-134">サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。</span><span class="sxs-lookup"><span data-stu-id="f3bee-134">When you change the status of a subscription to **Suspended**, users are not able to sign in or access services.</span></span>
+9. <span data-ttu-id="38b92-142">顧客のサブスクリプションを購入すると、次のことが行われます。</span><span class="sxs-lookup"><span data-stu-id="38b92-142">After you buy a subscription for a customer, the following will occur:</span></span>
 
-1.  <span data-ttu-id="f3bee-135">パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-135">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
-2.  <span data-ttu-id="f3bee-136">管理対象のサブスクリプションを選びます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-136">Choose the subscription you want to manage.</span></span>
-3.  <span data-ttu-id="f3bee-137">**[状態]** セクションで、 **[中断]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-137">In the **Status** section, choose **Suspended**.</span></span> <span data-ttu-id="f3bee-138">次に、変更を**提出**します。</span><span class="sxs-lookup"><span data-stu-id="f3bee-138">Then **Submit** your changes.</span></span>
-4.  <span data-ttu-id="f3bee-139">90 日以内、または 90 日にアカウントが開かれた時点から最初の課金までの日数を加えた期間 (最大 120 日) 以内にサブスクリプションを再アクティブ化しない限り、すべてのデータは削除されます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-139">All data will be deleted unless the subscription is reactivated within 90 days, or 90 days plus the number of days between the time the account was opened and the first billing period (maximum 120 days).</span></span>
+    - <span data-ttu-id="38b92-143">サブスクリプションを確認または編集するには、その顧客の **[サブスクリプション]** ページからサブスクリプション名を選択します。</span><span class="sxs-lookup"><span data-stu-id="38b92-143">You can review or edit the subscription by selecting the subscription name from that customer's **Subscriptions** page.</span></span> <span data-ttu-id="38b92-144">ここでは、使用可能な場合はアドオン ライセンスを選択したり、ライセンスの数を変更したり、サブスクリプションを中断したりできます。</span><span class="sxs-lookup"><span data-stu-id="38b92-144">From here, you can select add-on licenses if any are available, change the quantity of licenses, or suspend the subscription.</span></span>
 
-<span data-ttu-id="f3bee-140">サブスクリプションを中断するときに、 **[中断]** ボタンの下に表示される日付は、サブスクリプションを再アクティブ化しない場合に自動的に期限切れになる日付です。</span><span class="sxs-lookup"><span data-stu-id="f3bee-140">When you suspend a subscription, the date you see below the **Suspended** button indicates when the subscription would automatically expire if you don't reactivate it.</span></span> <span data-ttu-id="f3bee-141">詳しくは、「[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f3bee-141">For more info, see [FAQ about new billing features](faq-about-new-billing-features.md).</span></span>
+    <span data-ttu-id="38b92-145">**ISV SaaS (ライセンスベース) サブスクリプションの場合:**</span><span class="sxs-lookup"><span data-stu-id="38b92-145">**For ISV SaaS (license-based) subscriptions:**</span></span>
+    - <span data-ttu-id="38b92-146">ISV 発行元のサイトへのリンクが表示されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-146">You will receive a link to the ISV publisher's site.</span></span> <span data-ttu-id="38b92-147">このリンクは、顧客のサブスクリプションのデプロイまたはアカウントの設定を完了するのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="38b92-147">This link should help you complete the deployment or account setup of the customer's subscription.</span></span> <span data-ttu-id="38b92-148">(この種類の ISV サブスクリプションをセットアップまたはプロビジョニングするためのアカウントを設定するための手順を記載した電子メールは、お客様もお客様にも送信されないことに注意してください)。</span><span class="sxs-lookup"><span data-stu-id="38b92-148">(Note that neither you nor your customer will receive an email with instructions to complete account set up/provisioning for this type of ISV subscription.)</span></span>
+    
+    - <span data-ttu-id="38b92-149">サブスクリプションに30日間の無料試用版が付属している場合は、無料試用期間が自動的に適用されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-149">If your subscription comes with a 30-day free trial, the free trial period will be applied automatically.</span></span> <span data-ttu-id="38b92-150">CSP プログラムのパートナーとして、お客様に購入したプランの無料試用期間を免除することはできません。</span><span class="sxs-lookup"><span data-stu-id="38b92-150">As a partner in the CSP program, you cannot waive the free trial period on offers you purchase for customers.</span></span> <span data-ttu-id="38b92-151">無料試用期間が終了すると、サブスクリプション期間が開始され、サブスクリプションが有料に変換されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-151">Once the free trial period ends, the subscription term will begin and the subscription will convert to paid.</span></span> <span data-ttu-id="38b92-152">サブスクリプションは、同じスケジュールに従って自動更新されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-152">The subscription will then auto-renew according to the same schedule.</span></span>
 
-### <a name="cancel-a-subscription"></a><span data-ttu-id="f3bee-142">サブスクリプションを取り消す</span><span class="sxs-lookup"><span data-stu-id="f3bee-142">Cancel a subscription</span></span>
+## <a name="suspend-or-cancel-a-subscription"></a><span data-ttu-id="38b92-153">サブスクリプションを中断または取り消す</span><span class="sxs-lookup"><span data-stu-id="38b92-153">Suspend or cancel a subscription</span></span>
 
-<span data-ttu-id="f3bee-143">[商用マーケットプレース製品のサブスクリプション](sell-marketplace-products.md)では、キャンセル期間内に行う場合に限り、サブスクリプションを取り消して、全額の返金を受け取ることができます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-143">For [subscriptions to commercial marketplace products](sell-marketplace-products.md), you can cancel the subscription and receive a full refund, as long as you do so within the cancellation period:</span></span> 
+<span data-ttu-id="38b92-154">顧客から要請があった場合、または未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断するか取り消すことができます。</span><span class="sxs-lookup"><span data-stu-id="38b92-154">Partners can suspend or cancel a subscription if requested by the customer, or in cases of nonpayment or fraud.</span></span>
 
-- <span data-ttu-id="f3bee-144">月単位のサブスクリプションでは、**24 時間**以内に取り消す必要があります。</span><span class="sxs-lookup"><span data-stu-id="f3bee-144">For monthly subscriptions, you must cancel within **24 hours**.</span></span>
-- <span data-ttu-id="f3bee-145">年単位のサブスクリプションでは、**14 日**以内に取り消す必要があります。</span><span class="sxs-lookup"><span data-stu-id="f3bee-145">For annual subscriptions, you must cancel within **14 days**.</span></span>
+### <a name="suspend-a-subscription"></a><span data-ttu-id="38b92-155">サブスクリプションの中断</span><span class="sxs-lookup"><span data-stu-id="38b92-155">Suspend a subscription</span></span>
 
-<span data-ttu-id="f3bee-146">この期間を過ぎると、サブスクリプションをキャンセルするオプションが表示されなくなります。</span><span class="sxs-lookup"><span data-stu-id="f3bee-146">After this period is over, you will no longer see the option to cancel the subscription.</span></span>
+<span data-ttu-id="38b92-156">サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。</span><span class="sxs-lookup"><span data-stu-id="38b92-156">When you change the status of a subscription to **Suspended**, users are not able to sign in or access services.</span></span>
 
-1.  <span data-ttu-id="f3bee-147">パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-147">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
-2.  <span data-ttu-id="f3bee-148">管理対象のサブスクリプションを選びます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-148">Choose the subscription you want to manage.</span></span>
-3.  <span data-ttu-id="f3bee-149">**[状態]** セクションで、 **[キャンセル]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="f3bee-149">In the **Status** section, choose **Cancel**.</span></span> <span data-ttu-id="f3bee-150">次に、変更を**提出**します。</span><span class="sxs-lookup"><span data-stu-id="f3bee-150">Then **Submit** your changes.</span></span>
+1. <span data-ttu-id="38b92-157">パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。</span><span class="sxs-lookup"><span data-stu-id="38b92-157">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a><span data-ttu-id="f3bee-151">商用マーケットプレースのサブスクリプションを自動的に更新するかどうかを選択する</span><span class="sxs-lookup"><span data-stu-id="f3bee-151">Choose whether to automatically renew a commercial marketplace subscription</span></span>
+2. <span data-ttu-id="38b92-158">パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。</span><span class="sxs-lookup"><span data-stu-id="38b92-158">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
 
-<span data-ttu-id="f3bee-152">既定では、アクティブなサブスクリプションは、サブスクリプション期間の有効期限が切れると自動的に更新されるように設定されます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-152">By default, active subscriptions are set to automatically renew when the subscription period expires.</span></span> <span data-ttu-id="f3bee-153">[商用マーケットプレース製品のサブスクリプション](sell-marketplace-products.md)では、必要に応じて、サブスクリプションを自動的に更新しないことを選択できます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-153">For [subscriptions to commercial marketplace products](sell-marketplace-products.md), you can optionally choose not to automatically renew the subscription.</span></span>
+3. <span data-ttu-id="38b92-159">管理対象のサブスクリプションを選びます。</span><span class="sxs-lookup"><span data-stu-id="38b92-159">Choose the subscription you want to manage.</span></span>
 
-<span data-ttu-id="f3bee-154">アクティブな商用マーケットプレース サブスクリプションの自動更新を禁止するには:</span><span class="sxs-lookup"><span data-stu-id="f3bee-154">To prevent an active commercial marketplace subscription from automatically renewing:</span></span>
+4. <span data-ttu-id="38b92-160">**[状態]** セクションで、 **[中断]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="38b92-160">In the **Status** section, choose **Suspended**.</span></span> <span data-ttu-id="38b92-161">次に、変更を**提出**します。</span><span class="sxs-lookup"><span data-stu-id="38b92-161">Then **Submit** your changes.</span></span>
 
-1.  <span data-ttu-id="f3bee-155">パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-155">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
-2.  <span data-ttu-id="f3bee-156">管理対象のサブスクリプションを選びます。</span><span class="sxs-lookup"><span data-stu-id="f3bee-156">Choose the subscription you want to manage.</span></span>
-3.  <span data-ttu-id="f3bee-157">**[状態]** セクションで、 **[自動更新]** ボックスをオフにします。</span><span class="sxs-lookup"><span data-stu-id="f3bee-157">In the **Status** section, uncheck the **Auto-renew** box.</span></span> <span data-ttu-id="f3bee-158">次に、変更を**提出**します。</span><span class="sxs-lookup"><span data-stu-id="f3bee-158">Then **Submit** your changes.</span></span>
+5. <span data-ttu-id="38b92-162">90 日以内、または 90 日にアカウントが開かれた時点から最初の課金までの日数を加えた期間 (最大 120 日) 以内にサブスクリプションを再アクティブ化しない限り、すべてのデータは削除されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-162">All data will be deleted unless the subscription is reactivated within 90 days, or 90 days plus the number of days between the time the account was opened and the first billing period (maximum 120 days).</span></span>
 
+<span data-ttu-id="38b92-163">サブスクリプションを中断するときに、 **[中断]** ボタンの下に表示される日付は、サブスクリプションを再アクティブ化しない場合に自動的に期限切れになる日付です。</span><span class="sxs-lookup"><span data-stu-id="38b92-163">When you suspend a subscription, the date you see below the **Suspended** button indicates when the subscription would automatically expire if you don't reactivate it.</span></span> <span data-ttu-id="38b92-164">詳細については、「[新しい請求機能に関する FAQ](faq-about-new-billing-features.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="38b92-164">For more information, see [FAQ about new billing features](faq-about-new-billing-features.md).</span></span>
 
- 
+### <a name="cancel-a-subscription"></a><span data-ttu-id="38b92-165">サブスクリプションを取り消す</span><span class="sxs-lookup"><span data-stu-id="38b92-165">Cancel a subscription</span></span>
 
+<span data-ttu-id="38b92-166">パートナーセンターの[コマーシャルマーケットプレース](csp-commercial-marketplace-overview.md)内で、サードパーティの ISV 発行元からライセンスベースの SaaS サブスクリプションを取り消すことができます。</span><span class="sxs-lookup"><span data-stu-id="38b92-166">You have the option to cancel license-based SaaS subscriptions from third-party ISV publishers within the Partner Center [commercial marketplace](csp-commercial-marketplace-overview.md).</span></span> <span data-ttu-id="38b92-167">取り消し期間内にキャンセルした場合は、全額返金されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-167">As long as you cancel within the cancellation period, you will receive a full refund.</span></span>
+
+<span data-ttu-id="38b92-168">ISV プランの場合、毎月請求されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-168">For ISV offers billed monthly:</span></span>
+
+- <span data-ttu-id="38b92-169">注文を行ってから24時間以内に取り消した場合は、次の請求書で全額のクレジットが表示されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-169">If you cancel less than 24 hours after you placed the order, you will receive a full credit on the next invoice.</span></span>
+
+- <span data-ttu-id="38b92-170">注文を行ってから24時間後にキャンセルした場合、キャンセルは更新時に実行されるようにスケジュールされます。</span><span class="sxs-lookup"><span data-stu-id="38b92-170">If you cancel later than 24 hours after you placed the order, the cancellation will be scheduled to occur at renewal.</span></span>
+
+<span data-ttu-id="38b92-171">年ごとに請求されるプランの場合:</span><span class="sxs-lookup"><span data-stu-id="38b92-171">For offers billed annually:</span></span>
+
+- <span data-ttu-id="38b92-172">注文を行ってから14日以内に取り消すと、次の請求書に対して完全なクレジットが表示されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-172">If you cancel less than 14 days after you place the order, you will receive a full credit on the next invoice.</span></span>
+
+- <span data-ttu-id="38b92-173">注文を行ってから14日後にキャンセルした場合、キャンセルは更新時に実行されるようにスケジュールされます。</span><span class="sxs-lookup"><span data-stu-id="38b92-173">If you cancel later than 14 days after you place the order, the cancellation will be scheduled to occur at renewal.</span></span>
+
+<span data-ttu-id="38b92-174">これらの期間が経過すると、サブスクリプションを取り消すオプションが表示されなくなります。</span><span class="sxs-lookup"><span data-stu-id="38b92-174">After these periods are over, you will no longer see the option to cancel the subscription.</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="38b92-175">使用量ベースおよび従量制課金 (仮想マシンまたはコンテナーを使用するサードパーティの ISV サービスなど) は、返品の対象にはなりません。</span><span class="sxs-lookup"><span data-stu-id="38b92-175">Usage-based and metered, third-party ISV services (that use virtual machines or containers, for example) are not eligible for return.</span></span> <span data-ttu-id="38b92-176">使用量ベースのサービスは、取り消し方法としてプロビジョニング解除できます。</span><span class="sxs-lookup"><span data-stu-id="38b92-176">Usage-based services can be de-provisioned as a cancellation method.</span></span> <span data-ttu-id="38b92-177">料金は使用後に課金されるため、これらのサービスは返金の対象にはなりません。</span><span class="sxs-lookup"><span data-stu-id="38b92-177">Since charges are billed after use, these services are not eligible for a refund.</span></span>
+
+<span data-ttu-id="38b92-178">ISV 発行元からライセンスベースの SaaS サブスクリプションをキャンセルするには、次の手順を実行します。</span><span class="sxs-lookup"><span data-stu-id="38b92-178">To cancel a license-based SaaS subscription from an ISV publisher, do the following:</span></span>
+
+1. <span data-ttu-id="38b92-179">パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。</span><span class="sxs-lookup"><span data-stu-id="38b92-179">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+
+2. <span data-ttu-id="38b92-180">パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。</span><span class="sxs-lookup"><span data-stu-id="38b92-180">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
+
+3. <span data-ttu-id="38b92-181">キャンセルするサブスクリプションを見つけます。</span><span class="sxs-lookup"><span data-stu-id="38b92-181">Locate the subscription you want to cancel.</span></span>
+
+4. <span data-ttu-id="38b92-182">**[状態]** 列で、 **[キャンセル]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="38b92-182">In the **Status** column, select **Cancel**.</span></span> <span data-ttu-id="38b92-183">次に、変更を**提出**します。</span><span class="sxs-lookup"><span data-stu-id="38b92-183">Then **Submit** your changes.</span></span>
+
+5. <span data-ttu-id="38b92-184">ダイアログボックスが表示されたら、関連する詳細情報を入力し、 **[送信]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="38b92-184">If a dialog box appears, fill out any relevant details then select **Submit**.</span></span>
+
+6. <span data-ttu-id="38b92-185">キャンセルを確認するには、 **[はい、キャンセル]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="38b92-185">To confirm the cancellation, select **Yes, cancel**.</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="38b92-186">Api を使用して Azure Marketplace サブスクリプションをキャンセルすることもできます。</span><span class="sxs-lookup"><span data-stu-id="38b92-186">You can also choose to cancel an Azure Marketplace subscription using APIs.</span></span> <span data-ttu-id="38b92-187">これを行うには、「 [Azure Marketplace サブスクリプションをキャンセル](https://docs.microsoft.com/partner-center/develop/cancel-an-azure-marketplace-subscription)する」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="38b92-187">To do so, see [Cancel an Azure Marketplace subscription](https://docs.microsoft.com/partner-center/develop/cancel-an-azure-marketplace-subscription).</span></span>
+
+### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a><span data-ttu-id="38b92-188">商用マーケットプレースのサブスクリプションを自動的に更新するかどうかを選択する</span><span class="sxs-lookup"><span data-stu-id="38b92-188">Choose whether to automatically renew a commercial marketplace subscription</span></span>
+
+<span data-ttu-id="38b92-189">既定では、アクティブなサブスクリプションは、サブスクリプション期間の有効期限が切れると自動的に更新されるように設定されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-189">By default, active subscriptions are set to automatically renew when the subscription period expires.</span></span> <span data-ttu-id="38b92-190">[商用マーケットプレース製品のサブスクリプション](csp-commercial-marketplace-overview.md)では、必要に応じて、サブスクリプションを自動的に更新しないことを選択できます。</span><span class="sxs-lookup"><span data-stu-id="38b92-190">For [subscriptions to commercial marketplace products](csp-commercial-marketplace-overview.md), you can optionally choose not to automatically renew the subscription.</span></span>
+
+<span data-ttu-id="38b92-191">アクティブな商用 marketplace サブスクリプションを自動的に更新しないようにするには、次のようにします。</span><span class="sxs-lookup"><span data-stu-id="38b92-191">To stop an active commercial marketplace subscription from automatically renewing:</span></span>
+
+1. <span data-ttu-id="38b92-192">パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。</span><span class="sxs-lookup"><span data-stu-id="38b92-192">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+
+2. <span data-ttu-id="38b92-193">パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。</span><span class="sxs-lookup"><span data-stu-id="38b92-193">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
+
+3.  <span data-ttu-id="38b92-194">**[サブスクリプション]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="38b92-194">Select **Subscriptions**.</span></span> <span data-ttu-id="38b92-195">これには、顧客用に購入したライセンスベースのサブスクリプションが一覧表示されます。</span><span class="sxs-lookup"><span data-stu-id="38b92-195">This lists any license-based subscriptions you have purchased for the customer.</span></span>
+
+4.  <span data-ttu-id="38b92-196">**[サブスクリプション]** 列で、変更するサブスクリプションを選択します。</span><span class="sxs-lookup"><span data-stu-id="38b92-196">In the **Subscription** column, select the subscription you want to modify.</span></span>
+
+5. <span data-ttu-id="38b92-197">サブスクリプションの詳細 ページで、**状態** セクションを見つけて、**自動更新** ボックスをオフにします。</span><span class="sxs-lookup"><span data-stu-id="38b92-197">In the subscription details page, locate the **Status** section and uncheck the **Auto-renew** box.</span></span> 
+
+6. <span data-ttu-id="38b92-198">**[送信]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="38b92-198">Select **Submit**.</span></span>
+
+## <a name="see-also"></a><span data-ttu-id="38b92-199">関連項目</span><span class="sxs-lookup"><span data-stu-id="38b92-199">See also</span></span>
+
+- [<span data-ttu-id="38b92-200">顧客向けの商用 marketplace 製品を購入する</span><span class="sxs-lookup"><span data-stu-id="38b92-200">Purchase commercial marketplace products for your customers</span></span>](csp-commercial-marketplace-purchase.md)
+- [<span data-ttu-id="38b92-201">顧客向けの商用 marketplace 製品を管理する</span><span class="sxs-lookup"><span data-stu-id="38b92-201">Manage commercial marketplace products for your customers</span></span>](csp-commercial-marketplace-manage.md)
+- [<span data-ttu-id="38b92-202">コマーシャルマーケットプレースの概要</span><span class="sxs-lookup"><span data-stu-id="38b92-202">Commercial marketplace overview</span></span>](csp-commercial-marketplace-overview.md)
 
 
