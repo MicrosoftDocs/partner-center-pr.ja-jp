@@ -114,6 +114,14 @@
 ## [サポート連絡先の指定](assign-support-contacts.md)
 
 # [CSP のプラン](csp-offers.md)
+## 商業マーケットプレース
+### [商業マーケットプレースの概要](csp-commercial-marketplace-overview.md)
+### [マーケットプレースのサービスを探す](csp-commercial-marketplace-discover.md)
+### [マーケットプレースのサービスを購入する](csp-commercial-marketplace-purchase.md)
+### [マーケットプレースのサービスを管理する](csp-commercial-marketplace-manage.md)
+### [マーケットプレースのサービスの請求](csp-commercial-marketplace-billing.md)
+### [マーケットプレースのサービスのサポート](csp-commercial-marketplace-support.md)
+### [マーケットプレースで購入するためのコントラクト](csp-commercial-marketplace-contracting.md) 
 ## [Azure Reservations](azure-reservations.md)
 ### [最大限の予約使用に備えた VM サイズ](azure-usage.md)
 ### [顧客に代わって Microsoft Azure Reservations を購入する](azure-reservations-buying.md)
@@ -135,7 +143,6 @@
 ### [プロモーションを使用して、新しい顧客の関心を引く](promotions.md)
 ### [Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)
 ### [商用マーケットプレース製品にサブスクリプションを販売する](sell-marketplace-products.md)
-### [マーケットプレース限定のオファー](isv-opt-in.md)
 ### [パートナー センターでの Azure サブスクリプションの割り当て](assign-azure-subscriptions.md)
 ### [ユーザーへのライセンスの割り当て](assign-licenses-to-users.md)
 ### [既存のサブスクリプションへのライセンスまたはサービスの追加](add-licenses-or-services-to-an-existing-subscription.md)
