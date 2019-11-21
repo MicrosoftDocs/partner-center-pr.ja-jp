@@ -1,21 +1,21 @@
 ---
 title: CSP によるソフトウェア サブスクリプションの販売 |パートナー センター
 ms.topic: article
-ms.date: 05/13/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーが企業顧客に代わり、Azure ハイブリッド特典を活用することで、Microsoft パートナー センターと Azure portal を通じて、Azure Reserved Instances と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。
+description: CSP プログラムのパートナーがパートナーセンターを使用して、Azure 予約インスタンスと顧客のサーバーサブスクリプションを購入、管理、販売、キャンセルする方法について説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Azure RI, Windows Server, SQL Server, ソフトウェア サブスクリプション
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 32efdc721bd9a81ff04527ca82e5e71c1fe7cb58
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653486"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253551"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP によるソフトウェア サブスクリプションの販売
 
@@ -35,7 +35,7 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 > * ジャージー島
 > * マレーシア
 > * メキシコ
-> * ロシア連邦
+> * ロシア
 > * サウジアラビア
 > * 南アフリカ
 > * トルコ

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 7/30/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 今日、十分な予測が可能で持続的なクラウド ワークロードはコスト効率の高いソリューションでサポートしたいという需要が急速に高まっています。Azure RI と Server Subscriptions が CSP プログラムに含まれることで、パートナーはこのような顧客の需要に対応できます。 CSP プログラムでは、パートナーが企業顧客に代わり、Microsoft パートナー センターと Azure portal を通じて Azure RI と Server Subscriptions の取得、プロビジョニング、管理を行うことができます。
+description: クラウドソリューションプロバイダーが顧客の Azure の予約とサーバーサブスクリプションを取得、プロビジョニング、および管理する機会について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, サブスクリプション, VM, 予約, 予約インスタンス
 ms.localizationpriority: medium
-ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9a5e6c7a28a20b0b168616f39db591b5dd90649
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653800"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253228"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -63,7 +63,7 @@ Azure Reservations では、1 年分または 3 年分の料金を前払いす�
 #### <a name="isv-annual-subscriptions"></a>ISV 年間サブスクリプション
 -   CloudSimple での Azure VMware ソリューション
 
-## <a name="getting-started"></a>開始するには
+## <a name="getting-started"></a>概要
 
 顧客に対する Azure Reservations の位置付けを理解し、できる限り早く営業活動を開始するには、次に示すアプローチで準備資料を確認することをお勧めします。
 
@@ -112,7 +112,7 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 
 **運用**
 
-- [最新のコマース運用ガイド](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)(更新): 契約書、パートナーセンターからの注文、請求書、価格表の詳細、インセンティブ、調整ファイル、API/SDK、サンドボックスなどの主要なポリシーと運用面を網羅した包括的なガイドです。Azure Partner Shared Services。
+- [最新のコマース運用ガイド](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)(更新済み): 契約書、パートナーセンターからの注文、請求書、価格表の詳細、インセンティブ、調整ファイル、API/SDK、サンドボックス、Azure Partner Shared Services などの主要なポリシーと運用面を網羅した包括的なガイドです。
 - [モダン オファーの提供国と顧客の通貨の対応表](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Microsoft Azure Reserved Instances の販売](https://go.microsoft.com/fwlink/?linkid=872806)
 - [顧客に代わって Microsoft Azure Reservations を購入する](https://go.microsoft.com/fwlink/?linkid=872807)

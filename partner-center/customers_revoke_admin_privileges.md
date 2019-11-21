@@ -1,20 +1,20 @@
 ---
 title: 顧客がパートナーに管理特権を委任する | パートナー センター
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: リセラーパートナーとして、お客様を管理者に委任することができます。また、特権を削除することもできます。
+description: リセラーに管理者権限を委任するか、同じアクセス許可を削除し、アクセス許可を使用する方法を顧客に確認する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 委任された管理特権, 代理の管理, 特権の削除, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 35777dbdaa8ce77f4a1e7154447b37cd62772bc6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653428"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253483"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>顧客がパートナーに管理特権を委任する
 

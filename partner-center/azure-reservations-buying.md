@@ -1,21 +1,21 @@
 ---
 title: 顧客に代わって Microsoft Azure Reservations を購入する   | パートナー センター
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: パートナー センターでは顧客に代わって Microsoft Azure Reservations を購入することができます。
+Description: パートナーセンターで顧客の代理として Azure の予約を購入または購入する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 予約, 管理, 請求, 購入
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c995072056fd70f1e0fb71a2b664242c54bd989f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653827"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253238"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure Reservations を購入する 
 
@@ -100,7 +100,7 @@ ms.locfileid: "73653827"
 
 3. **[製品の追加]** を選択し、 **[Azure]** を選択します。 
 
-    」を参照します。 **[セグメント]** の一覧から、顧客の市場セグメントを選択します。
+    a. **[セグメント]** の一覧から、顧客の市場セグメントを選択します。
 
     b. 製品の **[種類]** の一覧から、 **[予約]** を選択します。
 
@@ -139,10 +139,10 @@ ms.locfileid: "73653827"
 10. Azure portal で顧客の予約を管理するには **、顧客のページで**顧客を見つけ、下矢印を選択して顧客の行を展開します。 **[Microsoft Azure の管理ポータル]** を選択して、Azure portal で顧客のレコードを開きます。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
-|**情報**   |**この記事を読む**    |
+|**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved Instances の販売](azure-reservations.md) |
-|パートナー センターでの Azure Reservations の管理 | [パートナー センターでの Azure Reservations の管理](azure-reservations-manage.md)
+|パートナー センターでの Azure Reservations の管理 | [パートナー センターで Azure Reservations を管理する](azure-reservations-manage.md)
 |適切な VM サイズの判断と顧客による VM 使用状況の確認   |[Azure Reservation の最大使用量に対応する VM サイズ](azure-usage.md)   |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)
 |

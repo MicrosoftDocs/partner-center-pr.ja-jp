@@ -1,21 +1,21 @@
 ---
 title: 最大限の予約使用に備えた Microsoft Azure VM サイズ | パートナー センター
 ms.topic: article
-ms.date: 08/05/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: お客様の代わりに Microsoft Azure 予約を購入する場合は、お客様のコンピューティングニーズに合わせて仮想マシン (VM) のサイズを選択する必要があります。
+Description: Microsoft Azure の予約を購入した場合に、お客様のコンピューティングニーズに合わせて仮想マシン (VM) のサイズを変更する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 予約, VM, 管理, 請求, 使用, サイズ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d0c2935bd5a2202b50ffc470fbef144ce4d20e2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2b8148d66be8a439056efa41eccb60cbc3e4274b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653779"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253246"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ
 
@@ -97,7 +97,7 @@ ms.locfileid: "73653779"
     >[!NOTE]
     >使用率データには、最大で 8 時間の遅延が発生することがあります。
 
-    」を参照します。 予約の使用率が100% の場合、お客様は予約購入によって得られる節約額をすべて取得することになります。
+    a. 予約の使用率が100% の場合、お客様は予約購入によって得られる節約額をすべて取得することになります。
     b. 予約の使用率が0% の場合、割引は仮想マシンに適用されません。
     c. 予約の使用量が 1 ~ 99% の場合、未使用の特典があります。
 
@@ -123,11 +123,11 @@ Azure Utilization API を使用すると、予約の使用状況データを取�
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
 
-|**情報**   |**この記事を読む**    |
+|**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved VM Instances の販売](azure-reservations.md)
 |パートナー センターで顧客の Azure Reservations を購入する   |[Azure Reservations を購入する](azure-reservations-buying.md)
-|パートナー センターでの Azure Reservations の管理 | [パートナー センターでの Azure Reservations の管理](azure-reservations-manage.md)
+|パートナー センターでの Azure Reservations の管理 | [パートナー センターで Azure Reservations を管理する](azure-reservations-manage.md)
 |Azure portal で Azure Reservations を購入する | [Azure Reserved VM Instances による仮想マシン料金の前払い](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) (Azure ヘルプ) |
 |Azure portal で Azure Reservations を管理する   |[予約済み VM インスタンスの管理](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) (Azure ヘルプ)  |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)

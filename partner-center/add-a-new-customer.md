@@ -1,23 +1,23 @@
 ---
-title: 新しい顧客を追加する | パートナー センター
+title: 新しい顧客の追加 | パートナー センター
 ms.topic: article
-ms.date: 03/21/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: サブスクリプションの販売や、課金の管理、サポートの提供を行うには、パートナー センターで顧客の記録を作成する必要があります。
+description: パートナーセンターで新しい顧客レコードを追加する方法について説明します。 その後、顧客のサブスクリプションを販売したり、請求を管理したり、カスタマーサポートを提供したりすることができます。
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 顧客, 顧客の追加, 顧客アカウント, パートナー センターの顧客アカウント, お客様, お客様の追加, 顧客アカウントの作成
 ms.localizationpriority: medium
-ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
-ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
+ms.openlocfilehash: 8452bc7040eab835bc5d068d0595bce48f8d2c0a
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "73840210"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253150"
 ---
-# <a name="add-a-new-customer"></a>新しい顧客を追加する
+# <a name="add-a-new-customer"></a>新しい顧客の追加
 
 **適用対象**
 

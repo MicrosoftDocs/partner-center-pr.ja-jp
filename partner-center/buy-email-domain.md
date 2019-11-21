@@ -1,19 +1,19 @@
 ---
 title: 職場の電子メールアドレスを取得する方法 |パートナーセンター
 ms.topic: article
-ms.date: 06/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターで Azure AD アカウントを取得するには、職場の電子メールが必要です
+description: パートナーセンターで Azure AD アカウントを設定する前に、電子メールドメインの必要性について説明します。 電子メールドメインの購入方法についても説明します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c165f3a610d41dbb365a4081b2c5b316a3a12b7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 4ba4a0ed709ae9e0964d3187ae3c37d0c834f7ed
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653711"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252818"
 ---
 # <a name="how-to-get-a-work-email-address"></a>職場の電子メールアドレスを取得する方法
 

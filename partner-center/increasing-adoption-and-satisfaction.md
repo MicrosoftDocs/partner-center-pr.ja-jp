@@ -1,22 +1,22 @@
 ---
 title: 導入実績を高めて満足度を向上させる | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 弊社のパートナーは、多くの指標を使用してビジネスが拡大しているかどうか、重点的に投資する分野はどこであるかを測ります。 パートナー センターは、顧客が購入したライセンスの使用の有無や活用方法に関するデータを提供することでそれをサポートします。
+description: パートナーセンターでメトリックを使用して、ビジネスが成長しているかどうか、顧客がライセンスをどのように使用しているか、および投資に焦点を当てる場所を確認する方法について説明します。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3acd6e259487946a7a1005ec9fd2c5d74160bc99
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653350"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253698"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>導入実績を高めて満足度を向上させる
+# <a name="increase-adoption-and-satisfaction"></a>導入実績と満足度の向上
 
 **適用対象**
 

@@ -1,21 +1,21 @@
 ---
 title: クリプトマイニング アクティビティに関するパートナー センター通知 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 発生している可能性があるクリプトマイニングに関する通知です。
+description: 1つ以上の Azure サブスクリプションで潜在的な cryptocompare マイニング (または暗号化マイニング) に関する通知が表示された場合の意味について説明します。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: クリプトマイニング, 暗号通貨マイニング, セキュリティ
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f9f138a55cf7e61e46e2e876263fdd577410c96
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 52a6597c9636335cae5218b5a3dbecf0b54e1ee8
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651127"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252718"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>クリプトマイニング (仮想通貨の採掘) アクティビティに関するパートナー センター通知
 

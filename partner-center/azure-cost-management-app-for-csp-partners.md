@@ -1,27 +1,33 @@
 ---
 title: CSP パートナー向けの Cloudyn 製 Azure Cost Management |パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Cloudyn が提供する Azure Cost Management を使用するには、パートナー センター API へのアクセスをプロビジョニングする必要があります。
+description: Cloudyn web アプリを登録し、パートナーセンターで秘密キーを使用する方法について説明します。これにより、アプリを使用して、お客様の Azure の使用状況とコストを追跡することができます。
 author: Janet
 ms.author: janet
 Keywords: Azure コスト管理アプリ, コストの管理, Web アプリ
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: a746522d3470a8b97b845ed723fae87455e33e5e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b05f2085aad63f8a0e23fa44de97550d13053f86
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653868"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253296"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure を販売する CSP パートナー様向けの Azure コスト管理アプリ  
 
 **適用対象**
 
--  パートナー センター
+- パートナー センター
+- クラウド ソリューション プロバイダー プログラム パートナー
+
+**適切なロール**
+
+- 全体管理者
+- 管理エージェント
 
 [Azure Cost Management の詳細情報](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
@@ -37,7 +43,7 @@ Cloudyn は、お客様による Azure の使用量とその使用量に対す�
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>パートナー センターで Web アプリを登録する
 パートナー センターで Azure Active Directory Web アプリを登録すると、アプリがパートナー センター API にアクセスできるようになります。 
-1.  [全体管理者または管理エージェント アカウント](create-user-accounts-and-set-permissions.md)を使って、[パートナー センター](https://partnercenter.microsoft.com/pcv/dashboard/overview)にサインインします。
+1.  [全体管理者または管理エージェント アカウント](https://partnercenter.microsoft.com/pcv/dashboard/overview)を使って、[パートナー センター](create-user-accounts-and-set-permissions.md)にサインインします。
 2.  **パートナー センター**から、 **[アカウント設定]** &gt; **[アプリ管理](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)** を選択します。
 3.  **[Web アプリ]** セクションで、 **[新しいアプリの追加]** をクリックします。
 <br> **注**: 既にアプリを作成済みの場合は、手順 3 を省略することができます。

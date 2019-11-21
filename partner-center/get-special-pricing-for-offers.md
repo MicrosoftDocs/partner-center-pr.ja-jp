@@ -1,20 +1,20 @@
 ---
 title: 特別価格の対象となる業界への販売 | パートナー センター
 ms.topic: article
-ms.date: 05/14/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Microsoft は、教育機関、非営利団体、行政機関ユーザーなど、特定の顧客に対して特別割引価格をご用意しています。
+Description: 教育機関のお客様、非営利顧客、政府ユーザーなど、特定の顧客グループ向けの特別で低価格の価格について説明します。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8405018cd33b36efcbeb936672afcab78273f6e8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 89577819ea5601bebeb10be6d9d3ab6143abf2cc
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653074"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253650"
 ---
 # <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 

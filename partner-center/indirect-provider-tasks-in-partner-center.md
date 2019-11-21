@@ -1,19 +1,19 @@
 ---
 title: CSP での間接リセラーとの連携 | パートナー センター
 ms.topic: article
-ms.date: 03/29/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 間接プロバイダー (ディストリビューター) は、間接リセラーと連携してリーチを拡大することができます。
+description: 間接的なプロバイダー (ディストリビューター) として、間接リセラーとの提携によって拡張する方法について説明します。 これには、パートナーセンターで実行できるタスクが含まれます。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ed3cec1599db6af6a4d82243695fe8da9f2fbd2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653335"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253679"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携
 
@@ -30,7 +30,7 @@ ms.locfileid: "73653335"
 -   特定の顧客とサブスクリプションの管理者として間接リセラーを指定する 
 -   マイクロソフト、顧客、間接リセラーとの関係をすべて 1 か所で管理する
 
-CSP での間接モデルについて詳しくは、[Microsoft Partner Network Web サイト]( https://partner.microsoft.com)の「[Explore the Indirect model (間接モデルの概要)](https://partner.microsoft.com/cloud-solution-provider/indirect)」をご覧ください。 
+CSP での間接モデルについて詳しくは、[Microsoft Partner Network Web サイト](https://partner.microsoft.com/cloud-solution-provider/indirect)の「[Explore the Indirect model (間接モデルの概要)]( https://partner.microsoft.com)」をご覧ください。 
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>パートナー センターでの間接プロバイダーのタスク
 

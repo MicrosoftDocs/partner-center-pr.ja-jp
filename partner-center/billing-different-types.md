@@ -1,21 +1,21 @@
 ---
 title: パートナー センターでの課金の種類について | パートナー センター
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: さまざまな請求の種類、請求期間、請求日についての情報です
+Description: パートナーセンターに表示されるさまざまな課金の種類、請求期間、請求日について説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 請求, 支払い,注文,調整ファイル, recon ファイル
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b5991e5134d56684fb1ef43db5785d904fc9c15a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 539d3150e571c33114feee2d316611d7ac324f24
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653748"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253202"
 ---
 # <a name="understanding-the-types-of-billing-in-partner-center"></a>パートナー センターでの課金の種類について
 
@@ -46,8 +46,8 @@ ms.locfileid: "73653748"
 
 |**請求エクスペリエンス**|**製品の種類**|**請求日**|**請求期間**|**請求通貨**|**現在のアクティビティを利用可能?**|
 |:----------------|:--------------|:--------------|:--------------|:--------------|:--------------|
-|ライセンスベースおよび使用量ベースのサブスクリプションに対する定期的な料金 |[オンライン サービス カタログ](https://partner.microsoft.com/commerce/preferredoffers/list)のすべての製品。 たとえば、Office 365、Microsoft 365、Azure Active Directory、Azure (従量課金制)、Dynamics 365、power Bi Pro |パートナー センター アカウントを作成するときに選択した日付 |請求日の前の月。 |居住している国/地域の通貨。 たとえば、会社が英国にある場合、英国ポンドの sterling (GBP) で課金されます。 会社がインドに住んでいる場合は、インドルピー (INR) で課金されます。  |必須ではない |
-|Microsoft およびサード パーティの ISV 製品の定期的および 1 回限りの料金 |Microsoft およびサード パーティの ISV から提供されるすべての SaaS サブスクリプション、Azure Reservations、ソフトウェア (永続的とサブスクリプション ベース)。 利用可能な製品については、[Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any) をご覧ください。 たとえば、SUSE Linux ソフトウェア (ソフトウェア サブスクリプション)、Windows Server 2019 Essentials (永続的ソフトウェア)、Azure ISV SaaS 製品サブスクリプションなど。 |毎月 8 日 |各カレンダー月の最初の日から最後の日まで |顧客が所在する国/地域の通貨。 これは、請求期間内に販売した各顧客の国/地域の通貨で、個別の請求書と調整ファイルを受け取ることを意味します。 |[はい] |
+|ライセンスベースおよび使用量ベースのサブスクリプションに対する定期的な料金 |[オンライン サービス カタログ](https://partner.microsoft.com/commerce/preferredoffers/list)のすべての製品。 たとえば、Office 365、Microsoft 365、Azure Active Directory、Azure (従量課金制)、Dynamics 365、power Bi Pro |パートナー センター アカウントを作成するときに選択した日付 |請求日の前の月。 |居住している国/地域の通貨。 たとえば、会社が英国にある場合、英国ポンドの sterling (GBP) で課金されます。 会社がインドに住んでいる場合は、インドルピー (INR) で課金されます。  |X |
+|Microsoft およびサード パーティの ISV 製品の定期的および 1 回限りの料金 |Microsoft およびサード パーティの ISV から提供されるすべての SaaS サブスクリプション、Azure Reservations、ソフトウェア (永続的とサブスクリプション ベース)。 利用可能な製品については、[Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any) をご覧ください。 たとえば、SUSE Linux ソフトウェア (ソフトウェア サブスクリプション)、Windows Server 2019 Essentials (永続的ソフトウェア)、Azure ISV SaaS 製品サブスクリプションなど。 |毎月 8 日 |各カレンダー月の最初の日から最後の日まで |顧客が所在する国/地域の通貨。 これは、請求期間内に販売した各顧客の国/地域の通貨で、個別の請求書と調整ファイルを受け取ることを意味します。 |〇 |
 
 ## <a name="billing-scenarios-for-one-time-and-recurring-purchases"></a>1 回限りの定期的な購入の課金シナリオ
 ### <a name="scenario-1---purchase-a-subscription-and-then-add-a-seat-on-the-same-day"></a>シナリオ 1-サブスクリプションを購入し、同じ日に座席を追加する

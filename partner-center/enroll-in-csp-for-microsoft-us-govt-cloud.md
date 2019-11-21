@@ -1,21 +1,21 @@
 ---
-title: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する | 米国政府機関向け Microsoft Cloud のパートナー センター
+title: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録 | 米国政府機関向け Microsoft Cloud のパートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: de6f51d1dff5017ac6f046552acbea30c9cb4384
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 504bafa0bbdb93d8414d3af8f3ebd6679b3dc194
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653204"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252220"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する
+# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録
 
 **適用対象**
 
@@ -51,7 +51,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 1.  Microsoft Partner Network ID や組織のカスタマー サポートに関する情報など、不足している情報を登録フォームに入力します。 
 
-2.  **[Accept and continue] (同意して続ける)** を選択します。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
+2.  **[Accept and continue] (同意して続ける)** を選びます。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
 
     > [!IMPORTANT]  
     > **[同意して続行する]** を選択することにより、組織の代理として行為する権限が認められていることを確認するもの、そして Microsoft が組織のクラウド ソリューション プロバイダーの申し込みを確認する前に与信審査を実行することを許可するものと見なされます。
@@ -71,13 +71,13 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 > [!NOTE]  
 > ユーザーを管理エージェント ロールに割り当てると、 **[顧客]** ページで顧客の一覧にアクセスし、[新しい顧客を追加](add-a-new-customer.md)できるようになります。   
 
-1.  Microsoft Azure 管理ポータル (https://portal.azure.us/ ) にサインインします。
+1.  Microsoft Azure 管理ポータル (https://portal.azure.us/) にサインインします。
 
 2.  管理エージェント ロールを組織内の適切なユーザーに割り当てます。 これを行うには、組み込みの **AdminAgent** グループにこれらのユーザーを追加する必要があります。 これを行う方法については、「[Azure Active Directory テナントでユーザーのグループ メンバーシップを管理する](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)」を参照してください。
  
 ## <a name="connect-with-us"></a>コミュニティ
 
-- ご質問はございますか? マイクロソフトにメールを送信する (azgovcsp@microsoft.com)
+- ご質問がある場合は、 マイクロソフトにメールを送信する (azgovcsp@microsoft.com)
 
 - [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) に参加する 
 

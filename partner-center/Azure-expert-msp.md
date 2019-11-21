@@ -1,21 +1,21 @@
 ---
 title: Azure Expert マネージド サービス プロバイダー プログラム | パートナー センター
 ms.topic: article
-ms.date: 12/03/2018
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure の販売およびサポートのエキスパートなら、Azure Expert MSP にご応募いただけます
+description: Azure のエキスパートの管理対象サービスプロバイダープログラムである Azure エキスパート MSP に適用する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure の販売, エキスパート プログラム, パートナー プログラム
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b096daf93d01b903606d4ad7b2e0efbebd18396
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3c53b864fd57d9fb5db33023e5d9c614b2b9c9ee
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654379"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253030"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Azure Expert マネージド サービス プロバイダー プログラム
 

@@ -1,9 +1,9 @@
 ---
 title: サブスクリプションとライセンスの分析 | パートナー センター
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: サブスクリプションとライセンスの分析ページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。
+Description: '[サブスクリプションとライセンス分析] ページのメトリックを使用して、注意が必要な成功と領域を特定する方法について説明します。'
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
@@ -11,12 +11,12 @@ ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8c2469a780870df40792eb229ef4d0546e79645d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651180"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253373"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>サブスクリプションとライセンスの分析 
 

@@ -1,26 +1,27 @@
 ---
 title: クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: クラウド ソリューション プロバイダー プログラムは、新規顧客および新しい専門分野の追加によってビジネスの拡大に役立ちます。
+description: クラウドソリューションプロバイダープログラムにおける特典とさまざまなモデルの詳細について説明します。これにより、新しい顧客や新しい専門知識を活用してビジネスを成長させることができます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナ, CSP での販売, 直接パートナー, CSP 直接パートナー, CSP 間接リセラー, 直接 CSP, 間接 CSP, 直接モデル, 間接モデル, 間接リセラー, 間接プロバイダー, プロバイダー, ディストリビューター, クラウド ソリューション プロバイダー プログラム
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bcbbc33c4992d2cf4500438c2a2340cfee23060
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653514"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252828"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 
 
 **適用対象**
 
--  パートナー センター
+- パートナー センター
+- CSP プログラムのパートナー
 
 クラウドソリューションプロバイダープログラム (CSP) を使用すると、お客様のビジネスにより多くの再販ライセンスを提供することができます。
  
@@ -62,9 +63,9 @@ ms.locfileid: "73653514"
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>CSP プログラムで販売できる国または地域
 
-会社の場所によって市場が決まります。 市場には CSP プランを販売できる地域や国が含まれます。 CSP のすべての市場と通貨の一覧については、「[クラウド ソリューション プロバイダー プログラムの地域市場および通貨](regional-authorization-overview.md)」を参照してください。
+会社の場所によって市場が決まります。 市場には CSP のプランを販売できる地域や国が含まれます。 CSP のすべての市場と通貨の一覧については、「[クラウド ソリューション プロバイダー プログラムの地域市場および通貨](regional-authorization-overview.md)」を参照してください。
 
-顧客の代わりに CSP プランを注文するには、事前に顧客が Microsoft Cloud 契約に署名する必要があります。 [こちらで](agreements.md)自分の顧客の所在地に適した Microsoft Cloud 契約を検索できます。  
+顧客の代わりに CSP のプランを注文するには、事前に顧客が Microsoft Cloud 契約に署名する必要があります。 [こちらで](agreements.md)自分の顧客の所在地に適した Microsoft Cloud 契約を検索できます。  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>CSP プログラムで販売できる製品またはサービス
 
@@ -73,7 +74,7 @@ ms.locfileid: "73653514"
 ## <a name="see-also"></a>関連項目 
 
 
-|**必要な情報**   |**この記事を読む**   |
+|**必要な情報**   |**参照先**   |
 |:---------------------------|:--------------------|
 |各 CSP モデルの要件   | [クラウド ソリューション プロバイダー プログラム](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Microsoft ナショナル クラウドでの販売   | [Microsoft ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)|

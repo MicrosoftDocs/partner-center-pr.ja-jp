@@ -1,21 +1,21 @@
 ---
 title: 顧客に代わって Azure Reservations を管理する | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 購入後に顧客の Azure 予約を管理するには、パートナーセンターで管理する顧客と予約を選択し、Azure portal の予約に変更を加えます。
+Description: 予約を取り消す方法、予約を交換する方法、返金を要求する方法など、顧客に代わって Azure の予約を管理する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 予約, 管理, 請求, 購入, 取り消し, 交換, 中途解約料
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653812"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252639"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>顧客に代わって Microsoft Azure Reservations を管理する       
 
@@ -33,11 +33,11 @@ ms.locfileid: "73653812"
 
 3. **[アクション]** で、 **[管理]** を選択して、Azure portal の顧客の予約レコードにアクセスします。 予約の詳細ページで、次の手順に従ってタスクを完了します。  
 
-    | **選択**   | **目的**    |
+    | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
     | **概要**   | 有効期限、スコープ、使用状況データなど、顧客の予約の詳細を表示します。 **注意:** 日割り計算の払い戻しを求めるサポート要求を作成するには、 **[Refund]** (払い戻し) を選択します。 予約期間のうち未使用の部分を交換するためのサポート要求を作成するには、 **[交換]** を選択します。  
     | **アクセス制御 (IAM)**   | 顧客の予約情報へのアクセスを管理します。|
-    | **構成**   | 予約が関連付けられている予約のスコープや Azure サブスクリプションを変更します。    |
+    | **Configuration**   | 予約が関連付けられている予約のスコープや Azure サブスクリプションを変更します。    |
     | **[プロパティ]**   | 予約のプロパティを表示し、予約 ID と予約注文 ID をクリップボードにコピーします。 **注意:** 顧客に代わってサポートを要求する際には、予約 ID と予約注文 ID がサポートから求められることがあります。    |
     | **新しいサポート要求**    | Microsoft サポートによるヘルプを要求します。   |
  
@@ -55,12 +55,12 @@ ms.locfileid: "73653812"
 取り消しの詳細と料金については、以下を参照してください。
 
 
-|**取消日**<br> (日数)   |**使用状況**    |**クレジット**  |**中途解約**<br> 料金    |**払い戻し上限額** | 
+|**取消日**<br> (日数)   |**使用方法**    |**クレジット**  |**中途解約**<br> 料金    |**払い戻し上限額** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 日以下                         | 必須ではない          | 100%       | 必須ではない                              | 50,000 米国ドル   |
-|5 日以下                         | [はい]         | 日割り  | 必須ではない                              | 50,000 米国ドル   |
-|6 日以上                        | 必須ではない          | 日割り  | 12%                             | 50,000 米国ドル   |
-|6 日以上                        | [はい]         | 日割り  | 12%                             | 50,000 米国ドル   |
+|5 日以下                         | X          | 100%       | X                              | 50,000 米国ドル   |
+|5 日以下                         | 〇         | 日割り  | X                              | 50,000 米国ドル   |
+|6 日以上                        | X          | 日割り  | 12%                             | 50,000 米国ドル   |
+|6 日以上                        | 〇         | 日割り  | 12%                             | 50,000 米国ドル   |
 
 
 **交換のしくみ** 
@@ -94,7 +94,7 @@ ms.locfileid: "73653812"
 5.  完了したら、 **[作成]** を選択します。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
-|**情報**   |**この記事を読む**    |
+|**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved Instances の販売](azure-reservations.md) |
 |パートナー センターで顧客の Azure Reservations を購入する   |[Azure Reservations を購入する](azure-reservations-buying.md) |

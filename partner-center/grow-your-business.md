@@ -1,20 +1,20 @@
 ---
 title: Microsoft パートナー ビジネスの拡大 | パートナー センター
 ms.topic: article
-ms.date: 05/23/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft パートナー ビジネスを拡大するためのリソース。 Microsoft から見込み情報 (紹介案件) を受け取る方法が含まれています。
+description: Microsoft パートナービジネスの成長に関するリソースについて説明します。 これには、Microsoft から販売潜在顧客 (参照) を取得する方法が含まれます。
 keywords: 紹介案件, 紹介案件への対応, 潜在顧客, 見込み情報, マーケティング プロファイル, ビジネス プロファイル, ビジネスの拡大, ビジネス チャンス, コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, 試用版, 市場の拡大, ナショナル クラウド
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b9447ec8b03e92e85ea332e5dac3f9d79d8be0fc
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7f3841271f0259bda35826737b8d40460247aaf4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653045"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253513"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft パートナー ビジネスの拡大 
 
@@ -42,5 +42,5 @@ Microsoft では、パートナー ビジネスを拡大するために役立つ
 | 販売対象市場を追加する | クラウド ソリューション プロバイダー販売チャネルは、多数の国や地域で利用可能です。 一覧については、[クラウド ソリューション プロバイダーの市場](agreements.md)のページをご覧ください。 クラウド ソリューション プロバイダー チャネルの概要については、[クラウド ソリューション プロバイダーの概要](csp-overview.md)ページをご覧ください。  | CSP パートナー |
 非営利組織および教育機関などの特殊な業界向けに販売する|[特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)|CSP パートナー|
 |協力インセンティブ プログラムで利用できる多くのアクティビティを通じてビジネスを拡大する。 パートナー センターを使ってアクティビティの申請を行う。| [インセンティブの申請の作成と管理](create-incentives-claims.md)|CSP パートナー|
-|Azure Marketplace 製品にサブスクリプションを販売する|[Azure Marketplace 製品にサブスクリプションを販売する](sell-marketplace-products.md)|CSP パートナー|
+|商用マーケットプレース製品にサブスクリプションを販売する|[過小購入および CSP コマーシャルの marketplace アクティビティ](csp-commercial-marketplace-overview.md)|CSP パートナー|
 |貴社が Azure の販売や管理で際立った業績を上げている場合。 Azure Expert Microsoft サービス プロバイダー プログラムへの登録に応募する|[Azure Expert Microsoft サービス プロバイダー プログラム](azure-expert-msp.md)|CSP パートナー|

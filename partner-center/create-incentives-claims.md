@@ -1,21 +1,21 @@
 ---
 title: インセンティブの申請の作成と管理 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: パートナー センターから協力インセンティブの申請を開始します。 申請を構成するすべてのアクティビティは履歴で確認できます。
+description: パートナーセンターからインセンティブ共同要求を開始する方法について説明します。 申請を構成するすべてのアクティビティは履歴で確認できます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: インセンティブの申請, 協力インセンティブの申請, 協力金
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f9656b510bc063674a4d237f9e26506036528fe1
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e315ba8963d62e47275344b973fb68a79fe72337
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653584"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253468"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>インセンティブの申請の作成と管理
 

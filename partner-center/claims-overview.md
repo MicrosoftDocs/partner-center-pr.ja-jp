@@ -1,20 +1,20 @@
 ---
 title: 協力インセンティブの申請 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: アクティビティ プランの確認を待つことなく、インセンティブの申請を送信できます。
+description: 前提条件なしでインセンティブ要求を送信して、アクティビティ計画を確認する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: インセンティブの申請, 協力インセンティブの申請, 協力金
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f389f57051f49163e9c08d67391e374bbc87d67
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a13da629dad56afd62e9898df8cd6ba8f2f5c603
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653682"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253404"
 ---
 # <a name="incentives-co-op-claims-overview"></a>協力インセンティブの申請の概要
 
@@ -34,7 +34,7 @@ ms.locfileid: "73653682"
 >[!NOTE]
 >マイクロソフトは、実行証明書 (POE) の原本を要求する権利を有します。 アクティビティの日付から 24 か月間は、ドキュメントの原本をすべて保管しておいてください。 
 
-|**目的**   |**この記事を読む**   |
+|**目的**   |**参照先**   |
 |-----------------|:--------------------------------------|
 |申請を送信し、適切なドキュメントを含める|[インセンティブ プログラム アクティビティに関する申請の作成と管理](create-incentives-claims.md)|
 |申請を送信した後、必要なドキュメントの要求に対処する|[インセンティブ プログラム アクティビティに関する申請の作成と管理](create-incentives-claims.md)  |
