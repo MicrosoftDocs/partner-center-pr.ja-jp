@@ -1,42 +1,42 @@
 ---
-title: パートナーの獲得クレジットを獲得できるロールとアクセス許可 |パートナーセンター
+title: Roles and permissions eligible to earn partner earned credit  | Partner Center
 ms.topic: article
 ms.date: 09/17/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ロールとアクセス許可、およびパートナーの獲得クレジット
+description: Find out about the roles and permissions needed for a partner to be eligible for partner earned credits.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c57effb8d7550da05ca55afd3d14ea9aa9f022ba
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e461a61d91bcaebb5cc53cf259006d17a0676884
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653785"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253260"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>パートナーの獲得クレジットを獲得できるロールとアクセス許可
+# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Roles and permissions eligible to earn partner earned credit
 
-次のロールは、パートナーがパートナーの獲得クレジットを利用できるかどうかを判断するアクセス許可レベルにマップされます。
+The following roles map to permissions levels that determine whether a partner is eligible for partner earned credits.
 
 >[!Important]
->これらのロールとアクセス許可は、ユーザーがパートナーセンターで作業するために必要な役割とアクセス許可とは異なります。
+>These roles and permissions are not the same as the roles and permissions a user needs to work in Partner Center.
 
-|**Role**   |**説明**   |**PEC 対象**   |
+|**Role**   |**説明**   |**PEC eligible**   |
 |-----------------|:------------------|:--------------|
-|所有者  |リソースへのアクセスを含め、すべてを管理します。|[はい]|
-|共同 |リソースへのアクセスを許可する以外はすべて管理します。|[はい]|
-|読み上げる|すべてを表示できますが、変更を加えることはできません。|必須ではない|
-|ACRDelete|acr の削除|[はい]|
-|ACRImageSigner 方|acr イメージ署名者|[はい]|
-|ACRPull|acr のプル|[はい]|
-|AcrPush|acr のプッシュ|[はい]|
-|AcrQuarantineReader|acr 検疫データリーダー|必須ではない|
-|AcrQuarantineWriter| acr 検疫データライター|[はい]|
-|API Management サービス共同作成者|サービスと Api を管理できます|[はい]|
-|API Management サービスオペレーターロール|サービスを管理できますが、Api は管理できません|[はい]|
-|API Management サービスリーダーロール|サービスと Api への読み取り専用アクセス|必須ではない|
-|Application Insights コンポーネントの共同作成者|Application Insights コンポーネントを管理します|[はい]|
-|Application Insights スナップショットデバッガー|Application Insights スナップショットデバッガーで収集されたデバッグスナップショットを表示およびダウンロードするためのアクセス許可をユーザーに付与します。 これらのアクセス許可は、所有者または共同作成者のロールには含まれないことに注意してください。|[はい]|
+|所有者  |You manage everything, including access to resources.|[はい]|
+|Contributor |You manage everything except granting access to resources.|[はい]|
+|Reader|You can view everything, but not make any changes|必須ではない|
+|ACRDelete|acr delete|[はい]|
+|ACRImageSigner|acr image signer|[はい]|
+|ACRPull|acr pull|[はい]|
+|AcrPush|acr push|[はい]|
+|AcrQuarantineReader|acr quarantine data reader|必須ではない|
+|AcrQuarantineWriter| acr quarantine data writer|[はい]|
+|API Management Service Contributor|Can manage service and the APIs|[はい]|
+|API Management Service Operator Role|Can manage service but not the APIs|[はい]|
+|API Management Service Reader Role|Read-only access to service and APIs|必須ではない|
+|Application Insights Component Contributor|Manages Application Insights components|[はい]|
+|Application Insights Snapshot Debugger|Gives user permission to view and download debug snapshots collected with the Application Insights Snapshot Debugger. Note that these permissions are not included in the Owner or Contributor roles.|[はい]|
 |

@@ -1,19 +1,19 @@
 ---
 title: Office 365 Government GCC パートナーと顧客の適格性の条件 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP 向け Office 365 Government GCC のパートナーと顧客を検証するための手順です。
+description: Learn the steps for direct bill partners (direct resellers, indirect providers) to validate partners and customers for Office 365 Government GCC for CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba7bf7c788e6dc90f68b7f46e5105be60c2c99ca
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653551"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253531"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP 向け Office 365 Government GCC パートナーと顧客の適格性の条件
 
@@ -29,7 +29,7 @@ ms.locfileid: "73653551"
 
 米国の連邦、州、地方、および先住民部族の行政機関にサービスを提供しているパートナーである場合、承認される可能性があります。 組織の適格性を確認するには、[こちら](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)にある簡単なフォームに記入してください。
 
-顧客が、政府機関向けの管理対象のデータを処理する組織である場合や、米国の連邦、州、地方、および先住民部族の行政機関である場合、承認される可能性があります。 お客様の組織の資格を検証するには、[ここ](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)に記載されている簡単なフォームに記入してください。 
+顧客が、政府機関向けの管理対象のデータを処理する組織である場合や、米国の連邦、州、地方、および先住民部族の行政機関である場合、承認される可能性があります。 To have your customers' organizations' eligibility validated, please complete the brief form located [here](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
 
 -   パートナーの組織がクラウド ソリューション プロバイダー プログラムに[登録](https://partnercenter.microsoft.com/partner/cloud-solution-provider)している必要があります。これは、CSP 向け Office 365 Government GCC について承認されるための前提条件です。
 -   CSP 向け Office 365 Government GCC の販売に関するステップ バイ ステップの検証プロセス ガイドについては、[こちら](https://go.microsoft.com/fwlink/?linkid=2007323)を参照してください。
@@ -50,7 +50,7 @@ CSP 向け Office 365 Government GCC のパートナーと顧客の適格性は�
     -   地域または州間行政機関 (国際行政機関ではありません)
     -   連邦政府資金の研究開発センター (FERDC)
 
-2.  規制の対象となるデータを含む商用プライベートエンティティ。 承認されている政府機関向けデータの種類は次のとおりです。 
+2.  Commercial private entity with data that's subject to regulations. 承認されている政府機関向けデータの種類は次のとおりです。 
     -   国際武器取引規則 (ITAR)
     -   管理対象の非機密情報 (Controlled Unclassified Information: CUI)
     -   米国国防総省 (DoD) の機密扱いではないが管理対象となっている核関連情報 (Unclassified Controlled Nuclear Information: UCNI)

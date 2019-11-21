@@ -1,9 +1,9 @@
 ---
 title: Azure 利用状況分析 | パートナー センター
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: パートナー センターを使用して、顧客の Azure サブスクリプションの利用状況に関するデータを取得します。
+Description: Learn how to use Partner Center to get data about the usage of your customers' Azure subscriptions.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -11,12 +11,12 @@ ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653378"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253389"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>顧客の Azure サブスクリプションの利用状況に関するデータの取得
 
@@ -27,7 +27,7 @@ ms.locfileid: "73653378"
 データはビジネス上の意思決定を促進します。 **Azure 利用状況**のページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 
 > [!NOTE]
-> Azure 利用状況分析は、クラウド ソリューション プロバイダー プログラムに参加しているパートナーのみが利用できます。
+> Azure usage analytics is available only for partners in the Cloud Solution Provider program.
 
 次のメトリックを追跡しています。
 
@@ -41,13 +41,13 @@ ms.locfileid: "73653378"
 
 - 指定したカテゴリの上位 5 件の顧客  
 
-## <a name="azure-subscriptions-at-risk"></a>リスクがある Azure サブスクリプション
+## <a name="azure-subscriptions-at-risk"></a>Azure subscriptions at risk
 
-このセクションでは、Azure サブスクリプションに対する予測変更のリスクを示します。 この情報は、パートナーが顧客とやり取りし、チャーンを最小化するために使用できます。
+This section indicates the predicted churn risk to Azure subscriptions. This information can be used by partners to engage with customers and minimize churn
 
 ## <a name="subscriptions-without-usage"></a>利用状況のないサブスクリプション
 
-- 指定した期間内に Azure を使用せずに特定のサブスクリプションの一覧を表示する  
+- List of specific subscriptions without Azure usage in the specified time period  
 
 ## <a name="azure-subscription-churn"></a>Azure サブスクリプションのチャーン
 

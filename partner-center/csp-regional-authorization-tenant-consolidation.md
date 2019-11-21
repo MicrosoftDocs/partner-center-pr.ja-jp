@@ -1,22 +1,22 @@
 ---
 title: CSP の地域的承認によるテナント統合 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 別の国/地域のテナントを統合するには、次の手順を使用します。
+description: 別の国/地域のテナントを統合するには、次の手順を使用します。 This includes steps to migrate customer accounts and customer subscriptions.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 顧客の移行, プロビジョニング, テナントのアカウント, テナントの統合
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 1a48c8ef8d4f3fd7348a80899253c8071235c317
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 52663d9f98f66f271702b29965f620fa9563115f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653495"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253603"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>CSP の地域的承認によるテナント統合
 
@@ -54,7 +54,7 @@ ms.locfileid: "73653495"
 
 5.  サインインした後、顧客アカウントのグローバル管理者は、新しい CSP アカウントに委任された管理者特権を与えるという契約を提出するよう求められます。 契約書に同意する場合、顧客はチェック ボックスをオンにして、関係を承認することに同意します。
 
-顧客は、契約を送信した後、パートナーの顧客一覧に表示されます (1 つずつ)。
+The customers will appear in the partner's customer list after they have submitted the agreement, one by one.
 
 ## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Office 365 および Azure 以外の使用量ベースのサブスクリプションを移行する
 
@@ -111,7 +111,7 @@ The Subscription shows **suspended** on the subscriptions list.
 Azure の使用量ベースの CSP サブスクリプションは、Office 365 の CSP サブスクリプションの場合とは異なり、手動で移行する必要がないことに注意してください。 Microsoft Azure サポートは、Azureサブスクリプションと展開されたすべてのサービスやリソースを、**移行元**の CSP リセラー アカウントから**移行先**の CSP リセラー アカウントに移行できます。 この移行中に、顧客へのサービスが中断されることはありません。
 
 1.  Azure サブスクリプションの移行を必要とする顧客のアカウントが、新しい**移行先**の CSP アカウントに関連付けられる契約に同意していることを確認します。
-2.  パートナーは、Azure サブスクリプションを所有しているお客様のアカウントを移行する準備ができていることを Microsoft に通知し、その顧客の会社名を提供します。
+2.  Partners notify Microsoft which customer accounts that have Azure subscriptions are ready to migrate, and provides those customer's company names.
 3.  Microsoft は、Azure の使用量ベースのサブスクリプションを移行し、移行が完了したらパートナーに通知します。
 4.  パートナーは、パートナー センターの顧客のサブスクリプション セクションで、**移行元**の CSP リセラー アカウントの Azure サブスクリプションが中断されていることを確認します。
 5.  パートナーは、パートナー センターの顧客のサブスクリプション セクションで、**移行先**の CSP リセラー アカウントの Azure サブスクリプションの状態が **[アクティブ]** になっていることを確認します。
@@ -124,7 +124,7 @@ Azure の使用量ベースの CSP サブスクリプションは、Office 365 �
 
 ### <a name="notes"></a>注意
 
--   Csp アカウント**からの移行**からサブスクリプションを無効にしても、サービスが無効になる前に、サービスが "Csp**に移行**しています" アカウントからプロビジョニングされた場合、エンドカスタマーのサービスには影響しません。
+-   Disabling the subscription from the **Transitioning From** CSP account does not impact end customer's service provided the service was provisioned from the **Transitioning To** CSP account prior to the disable.
 
 -   サブスクリプションが中断または取り消しされている場合、顧客はサブスクリプションを利用することはできず、課金は発生しません。
 

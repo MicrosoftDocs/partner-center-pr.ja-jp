@@ -1,21 +1,21 @@
 ---
 title: CSP の直接パートナーの新しい要件 | パートナー センター
 ms.topic: article
-ms.date: 03/20/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 現在、直接パートナーとして CSP プログラムに登録している場合、これらの更新されたサポートとサービスの要件を満たすために準備する必要があります。
+Description: If you are a direct partner in the CSP program, you can learn about updated support and services requirements and how to meet them.
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, 直接パートナー, 直接請求, 要件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ccc337138c62f2f2a1258f183a30e0ca09652f53
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653221"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253593"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>CSP の直接請求パートナーの新しい要件
 
@@ -33,7 +33,7 @@ ms.locfileid: "73653221"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |事業拠点で有効な Microsoft Partner Network (MPN) ID。    |
 |**保証**   |組織を代表して契約書に同意して署名するための権限。|
-|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br> 重要: サポートプランを購入する前に、クレジットを確認する必要があります。 与信審査に合格したら、メールでご連絡します。 |
+|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br> IMPORTANT: You must pass a credit check before purchasing a support plan. 与信審査に合格したら、メールでご連絡します。 |
 |**マネージド サービス**   |少なくとも 1 つの管理されたサービス、IP サービス、または顧客ソリューション アプリケーション。 [管理されたサービス](https://partner.microsoft.com/business-opportunities/managed-services-provider)の追加に関する詳細をご覧ください。|
 |**売掛金勘定** |顧客の請求とプロビジョニングを管理するための組織のインフラストラクチャ。
 

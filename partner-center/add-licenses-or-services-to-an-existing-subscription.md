@@ -1,21 +1,21 @@
 ---
 title: 既存のサブスクリプションにライセンスまたはサービスを追加する | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顧客が現在提供されているサブスクリプションよりも多くのライセンスを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。
+description: Learn how to upgrade or modify a customer's subscription, such as adding more licenses or seats or moving to a different version with other services.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 既存のサブスクリプションにライセンスを追加する, 既存のサブスクリプションにシートを追加する, サブスクリプションを変更する, サブスクリプションの変更, 顧客のライセンスを追加購入する
 ms.localizationpriority: medium
-ms.openlocfilehash: 9998393608733fa1a69390873908a76e0500c118
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654367"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253141"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>既存のサブスクリプションへのライセンスまたはサービスの追加
 
@@ -82,11 +82,11 @@ ms.locfileid: "73654367"
 
 -   その顧客とサービスに対する委任された管理者特権を持っている。 「[委任された管理者特権の要求](request-a-relationship-with-a-customer.md)」を確認してください。
 
--   お客様は、追加のサービスを含むサブスクリプションをまだ持っていません。
+-   The customer can't already have subscriptions that include the additional services.
 
--   お客様は、アップグレードしようとしているサブスクリプションをまだ持っていません。
+-   The customer can't already have the subscriptions you are trying to upgrade them to.
 
-2つ目のケースでは、顧客が別のパートナーまたは別のチャネルからサブスクリプションやサービスを購入している可能性があります。また、既存のサブスクリプションやサービスを最初にキャンセルしない限り、お客様から購入することはできません。 詳しくは、「[マルチチャンネル](multichannel.md)」をご覧ください。
+It is possible, in the latter two cases that the customer may have purchased those subscriptions or services from another partner or another channel, and they won't be able to purchase them from you unless they cancel their existing ones first. 詳しくは、「[マルチチャンネル](multichannel.md)」をご覧ください。
 
 これが課金に及ぼす影響については、「[一般的な課金シナリオ](common-billing-scenarios.md)」で、サブスクリプションをキャンセルして新しいサブスクリプションを追加する方法を確認してください。
 

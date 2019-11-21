@@ -1,9 +1,9 @@
 ---
 title: 間接リセラーのパフォーマンス分析 | パートナー センター
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 間接リセラーのパフォーマンスに関するデータを取得して、成功度とさらに注意が必要な領域を識別します。
+Description: Learn how to use analytics to find out how your indirect resellers are doing, both their successes and areas that may need more attention.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -11,16 +11,17 @@ ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ef7a20a669481b3724fd98a5fdb62feaea4ede74
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 188961444e4ec2f20fe305179b9f00673d7e371f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653924"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253382"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>間接リセラーのパフォーマンス分析 
 
 **適用対象**
+
 - パートナー センター
 
 データはビジネス上の意思決定を促進します。 **リセラー分析**のページのメトリックを使用して、パートナーの成功度、間接リセラーの成功度、注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。

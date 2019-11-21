@@ -1,20 +1,20 @@
 ---
 title: 顧客アカウント | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: リセラー パートナーは、パートナー センターで、お客様ごとにアカウントを 1 つ作成する必要があります。 顧客アカウントは、サブスクリプションの販売、請求、サポートの提供を行う起点になります。
+Description: Find resources for reseller partners in Partner Center. This includes needing to create customer accounts before you sell subscriptions, bill, or offer support.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e933cb42187589f44846ca68aee0f2f7afa9e34
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653479"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253566"
 ---
 # <a name="customer-accounts"></a>顧客アカウント
 

@@ -1,22 +1,22 @@
 ---
 title: サポート連絡先の指定 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顧客に対して Microsoft サービスのサブスクリプションを設定するとき、自社でサポートを提供するのではなく、指定リセラーを対象製品のテクニカル サポートとして割り当てることができます。
+description: Learn how to assign a reseller as a technical support contact for customers with subscriptions to Microsoft services.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
 keywords: ヘルプ エージェント, サポート, サポート連絡先の指定, 指定のサポート連絡先
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d5318bd9cc33db50d2cc78fc4e31d10e2dbabd2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653914"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253336"
 ---
 # <a name="assign-support-contacts"></a>サポート連絡先の指定
 

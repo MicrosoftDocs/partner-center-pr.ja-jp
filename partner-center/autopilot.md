@@ -1,20 +1,20 @@
 ---
 title: Windows Autopilot プロファイルでデバイスの out-of-box experience をカスタマイズする | パートナー センター
-description: Autopilot プロファイルを使用してデバイスの out-of-box experience を事前に構成します。
 ms.topic: article
-ms.date: 03/18/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
+description: Learn how to customize or pre-configure a new device's out-of-box experience with Autopilot profiles before you deliver the device to the customer.
 author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, ゼロタッチ展開, OOBE, ログイン画面, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ad6482c68da6c964414be3b7f036835934f049e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653909"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253333"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Windows Autopilot プロファイルでデバイスの out-of-box experience をカスタマイズする
 
@@ -24,7 +24,7 @@ ms.locfileid: "73653909"
 
 顧客のデバイスを管理する場合、顧客のユーザーの out-of-box experience (OOBE) をカスタマイズすることが必要な場合があります。 顧客にデバイスを提供する前に Windows Autopilot プロファイルを使用して新しいデバイスを事前に構成し、顧客が既に購入したデバイスに新しいプロファイルを適用することができます。 
 
-Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [自動操縦デバイス] ボックスの外側に出荷ラベルを含めることを開始したことに注意してください。  この1次元の読み取り可能なバーコードを使用すると、ダウンストリームパートナーは、デバイスをボックスにボックスを解除してデバイス ID を別の方法で収集することなく、デバイスを自動操縦用に登録することができます。
+Note that OEMs have started including a shipping label on the outside of the Autopilot device box that shows the device's **Product Key ID (PKID)** .  This 1-dimensional, readable barcode provides downstream partners with a way to register devices for Autopilot without having to unbox the device(s) and harvest the device ID by alternative means.
 
 この記事では、パートナー センターで Autopilot プロファイルを作成してデバイスに適用する方法について説明します。
 
@@ -53,7 +53,7 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
 
 - パートナーは、自分で追加した顧客の既存のデバイスを管理できます。
 
-- 顧客が Microsoft Store for Business または Microsoft Intune ポータルにアップロードしたデバイスを管理することはできません。
+- You can't manage devices your customer has uploaded to Microsoft Store for Business or the Microsoft Intune Portal.
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>パートナー センターで Autopilot プロファイルを作成および管理する
 
@@ -161,15 +161,15 @@ OEM 名、シリアル番号、モデルの組み合わせを使う場合は、�
 
 .csv ファイルをアップロードしようとするとエラー メッセージが表示される場合は、ファイルの形式を確認します。 ハードウェア ハッシュのみ、OEM 名とシリアル番号とモデル (その列の順序で)、または Windows 製品 ID を使用することができます。 **[デバイスの追加]** の横にあるリンクで提供されているサンプルの .csv ファイルを使用して、デバイス一覧を作成することもできます。
 
-.Csv ファイルは次のようになります。
+Your .csv file should look something like this:
 
-> **デバイスのシリアル番号、Windows 製品 ID、ハードウェアハッシュ、製造元名、デバイスモデル**
+> **Device Serial Number,Windows Product ID,Hardware Hash,Manufacturer name,Device model**
 
-> **{,,,} Microsoft Corporation、Surface ノート Pc**
+> **{serialNumber},,,Microsoft Corporation,Surface Laptop**
 
-"製造元の名前" と "デバイスモデル" では大文字と小文字が区別されることに注意してください。
+Note that "Manufacturer name" and "Device model" are case-sensitive.
 
-製造元名とデバイスモデルに対してどのような値を設定するかわからない場合は、デバイスでこれを実行して、正しい値を収集できます。
+If you don't know what value to put for Manufacturer name and Device Model, you can run this on the device to gather the correct values:
 
 <pre><code>md c:\\HWID
 
