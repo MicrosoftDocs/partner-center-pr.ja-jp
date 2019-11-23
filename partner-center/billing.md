@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 貴社は、クラウド ソリューション プロバイダー パートナーとして、顧客のライセンス ベースおよび使用量ベースのサブスクリプションの料金を 60 日後に Microsoft に支払います。
+Description: クラウド ソリューション プロバイダー パートナーは、顧客のライセンスベースおよび使用量ベースのサブスクリプション料金を 60 日後にマイクロソフトに支払います。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
-ms.localizationpriority: medium
-ms.openlocfilehash: dad4cffbd03e7e6ea811e5bf954a46a1566196f0
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: fcf341a11e0796adce6ce497c51d3316c1e623cf
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653737"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096454"
 ---
 # <a name="billing"></a>請求
 
@@ -30,7 +30,7 @@ ms.locfileid: "73653737"
 クラウド ソリューション プロバイダー プログラムに参加中で月次請求を選択した場合は、顧客 (ライセンスベースおよび使用量ベース) のサブスクリプション料金を 60 日以内に Microsoft にお支払いください。
 
 > [!NOTE]  
-> 請求書は、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されたものであり、指定の請求日から UTC 時間で 2 日以内に表示可能になります。 たとえば、請求日が 9 月 12 日の場合、請求書生成プロセスは 13 日の午前 0 時 00分 UTC に開始し、14 日の午前 0 時 00分 UTC に完了します。 15日に 59PM UTC で請求書が表示されない場合は、サービスレベルアグリーメントを超えているため、サービスリクエストを送信する必要があります。 
+> 請求書は、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されたものであり、指定の請求日から UTC 時間で 2 日以内に表示可能になります。 たとえば、請求日が 9 月 12 日の場合、請求書生成プロセスは 13 日の午前 0 時 00分 UTC に開始し、14 日の午前 0 時 00分 UTC に完了します。 15 日の午後 11 時 59 分 UTC までに請求書が表示されない場合は、サービス レベル アグリーメントが満たされていないので、サービス要求を提出する必要があります。 
 
 顧客への請求に関する重要な情報:
 
@@ -40,7 +40,7 @@ ms.locfileid: "73653737"
 -   すべての料金について単一の請求書を顧客に送ります。
 
 ## <a name="billing-resources"></a>請求に関するリソース
-|**情報**   |**この記事を読む**    |
+|**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |請求、支払い、請求書などの基本事項   |[課金の基本](billing-basics.md)
 |年次請求など、多くの新しい請求機能   |[新しい請求機能についてよく寄せられる質問](faq-about-new-billing-features.md)|

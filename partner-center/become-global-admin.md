@@ -4,16 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナー センターで行うタスクの多くでは、まず、ドメインの所有権を確認する必要があります。 パートナーセンターの多くのタスクには、グローバル管理者が必要です。会社がまだ持っていない場合は、1つになります。
+description: パートナー センターで行うタスクの多くでは、まず、ドメインの所有権を確認する必要があります。 パートナー センターの多くのタスクでは、グローバル管理者が必要です。会社にまだいない場合は、自分でなることができます。
 author: LauraBrenner
 ms.author: labrenne
+ms.localizationpriority: high
 keywords: ドメイン, ドメインの確認, ドメインを確認, グローバル管理者, ユーザー ロール, アクセス許可
-ms.openlocfilehash: 4605061d3251883e160e7daa4a1fc957ab998c55
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.openlocfilehash: d6d358439056a9d10e7966148e1f3a76173d0cf6
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653766"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096508"
 ---
 # <a name="verify-your-domain-ownership"></a>ドメインの所有者の確認
 
@@ -38,11 +39,11 @@ ms.locfileid: "73653766"
 
 4. ドメインで提供される手順に従い、DNS フォームに TXT の値を貼り付けます。  これにより、作業しようとしているドメインを自分が所有していることを確認できます。
 
-5. パートナーセンターに戻り、[Ok] を選択し**ます。レコードを追加しました**
+5. パートナー センターに戻り、 **[レコードを追加しました]** を選択します。
 
-6. 検証が完了したら、サインアウトする必要があります。もう一度サインインして、状態を更新してください。 
+6. 検証が完了したら、サインアウトする必要があります。再びサインインして、状態を更新します。 
 
-ドメインの所有権を確認することで、全体管理者となります。グローバル管理者ロールに含まれるアクセス許可には、次のようなものがあります。
+ドメインの所有権を確認したユーザーは、グローバル管理者になります。グローバル管理者ロールに付属するアクセス許可を次に示します。
 
 - 完全な権限を使ったすべての Microsoft アカウント/サービスへのアクセス 
 - パートナー センターへのサポート チケットの作成

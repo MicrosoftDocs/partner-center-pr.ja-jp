@@ -8,14 +8,14 @@ description: マイクロソフトのパートナーとなるメリットにつ�
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 03aab24eab0fdf0ee5e116b033da679b8049a923
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
-ms.translationtype: MT
+ms.openlocfilehash: ca47417870c2308758fe6e7db5ed9dfc5ae2a4fc
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661157"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096525"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft との連携
 
@@ -37,11 +37,11 @@ Microsoft Partner Network (MPN) について詳しくは、[MPN の Web サイ�
 
 Microsoft Partner Network に参加するには、MPN Web サイトの [ **[メンバーシップ]** ページ](https://partner.microsoft.com/membership)に移動し、 **[登録]** または **[今すぐ参加]** を選択します。
 
-## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Microsoft Partner Network メンバーシップを活用する
+## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Microsoft Partner Network メンバーシップを使いこなす
 
 <!-- 10/25/2019 The content below content from the Membership pages of the MPN site (https://partner.microsoft.com/membership) and additional updated content.-->
 
-ビジネスの目標を達成するには、独自のニーズに合わせて、より多くの特典にアクセスし、ネットワーク内の米国およびその他のパートナーとの関係を構築する必要があるレベルのプログラムに参加します。
+パートナー様がビジネス目標を達成したときは、独自のニーズに適したレベルでプログラムにご参加ください。さらに多くの特典を利用し、Microsoft やネットワーク内の他のパートナーとの関係を構築することができます。
 
 ### <a name="action-pack"></a>Action Pack
 
@@ -54,13 +54,13 @@ Action Pack の詳細については、以下のリソースをご覧くださ�
 - [Action Pack を購入する](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >パートナーセンターで Action Pack サブスクリプションを管理します。 パートナーのメンバーシップセンターからパートナーセンターにまだ移動していない場合は、「[パートナーセンターへの移行の準備](prepare-pmc-pc-migration.md)」を参照してください。  
+    >Action Pack サブスクリプションはパートナー センターで管理します。 会社がパートナー メンバーシップ センターからパートナー センターにまだ移行していない場合は、「[Prepare for your move to Partner Center](prepare-pmc-pc-migration.md)」(パートナー センターへの移行の準備) を参照してください。  
 
 - [MPN プランを更新する](renew-mpn-offers.md)
 
 ### <a name="competencies"></a>コンピテンシー
 
-Microsoft コンピテンシーを獲得すると、専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft のコンピテンシーは、現在のお客様のニーズを満たすように設計されており、想定されているものとして認識されます。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
+Microsoft コンピテンシーを獲得すると、専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft コンピテンシーは、現在の顧客ニーズに対応し、見込み顧客からの認知度を高めることを目的としています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
 
 コンピテンシーの詳細については、以下のリソースをご覧ください。
 

@@ -1,7 +1,7 @@
 ---
-title: 未払い、詐欺、または誤用 | パートナー センター
+title: Managing non-payment, fraud, or misuse | Partner Center
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 商品やサービスに対する顧客の未払い、不正行為、不正使用などのオンライン トランザクション リスクを管理するための戦略。
@@ -11,83 +11,88 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 604c192259fd4194a3b43d57721caa7566704b58
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652962"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384766"
 ---
-# <a name="non-payment-fraud-or-misuse"></a>未払い、詐欺、または誤用
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Managing non-payment, fraud, or misuse in Partner Center
 
-**適用対象**
+適用対象:
 
--  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
+- パートナー センター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
-
-
-パートナーは、顧客による不正購入や、購入サービスの料金未払いについて、金銭的な責任を負います。 このため、詐欺の防止と発見およびリスク軽減に向けた対策を講じることをお勧めします。
-
-## <a name="types-of-online-risk"></a>オンライン リスクの種類
+パートナーは、顧客による不正購入や、購入サービスの料金未払いについて、金銭的な責任を負います。 Therefore, *we strongly recommend that you put in place fraud prevention and detection risk mitigation controls*.
 
 不正行為や不正使用を回避したり、これらに対処するには、潜在的なリスクを理解して、リスクへの露出を軽減するためのポリシーとプラクティスを作成することが重要です。
 
-#### <a name="risk-exposure-to-be-mitigated"></a>露出の軽減が必要なリスクの種類
+## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Enforcement of Microsoft Acceptable Use Policy
 
-- **サービスの盗用**: 使用したサービスに対して顧客が料金を支払う意図がないこと。支払い方法の盗用、不正な請求情報の提供、未払い額の支払い不履行などの方法が使用されます。
+If Microsoft detects partner or customer activity that we confirm or suspect violates the Acceptable Use Policy, we will take enforcement steps. The customer could be immediately suspended. You'll be notified of enforcement actions or updated on your requests by Microsoft.
 
-- **サービスの不正行為**クラウドサービスを使用しているお客様は、マイクロソフトの許容される使用ポリシーに違反しています
+## <a name="abuse-of-service-risks"></a>Abuse of service risks
 
-#### <a name="examples-of-possible-fraud-or-service-abuse"></a>詐欺やサービス不正使用の例
+**Abuse of service** risks means customers who use cloud services in violation of Microsoft's Acceptable Use Policy.
+
+### <a name="examples-of-abuse-of-service"></a>Examples of abuse of service
+
+Examples of these violations of Microsoft's acceptable use policy can include:
+
 - スパム
 - ハッキング
-- DDOS 攻撃
+- Distributed denial-of-service (DDoS) attacks
 - ビットコイン マイニング
 - マルウェアの配布
-- 偽造されたサブスクリプションの再販 
+- 偽造されたサブスクリプションの再販
 
-#### <a name="examples-of-online-transaction-risk"></a>オンライン トランザクション リスクの例
-- "クレジット カードが存在しない" トランザクション (対面で行わないトランザクションなど)
+## <a name="theft-of-service-risks"></a>Theft of service risks
+
+**Theft of service** risks means customers who have no intention of paying for consumed services. This theft may involve using stolen payment instruments, providing false billing information, and/or defaulting on outstanding balances.
+
+### <a name="examples-of-service-theft"></a>Examples of service theft
+
+Examples of these online transaction risks can include:
+
+- Transactions that don't occur in person ("credit card not present" transactions)
 - ID の不正使用
-- サービスのプロビジョニングおよび使用が最初の支払い受領前に発生すること
-- 新興市場/オンライン詐欺のリスクが高い地域
-- 不正目的でのアカウントの作成と購入の自動化
+- Services provisioned and used before initial payment is received
+- Emerging markets and/or high-risk regions for online fraud
+- Automate account creation and purchasing by bad actors
 
-## <a name="strategies-for-managing-online-risk"></a>オンライン リスクの管理戦略
+## <a name="managing-online-risk"></a>Managing online risk
 
-これらの推奨事項は、顧客との関係のライフサイクル全体を通じて、オンライン トランザクション リスクにさらされる度合いを軽減するためのポリシーとプラクティスの作成に役立ちます。  
+You can use the following recommendations to help you develop policies and practices to reduce your exposure to online transaction risks in the lifecycle of your customer relationships.
 
-#### <a name="when-onboarding-new-customers"></a>新規顧客のオンボード時
-- 可能であれば直接的に顧客との関係を確立します (電話で連絡するなど)。
-- 顧客の信用状態や経歴を確認するための良い方法 (信用調査所/企業調査会社など) を探します。 
-- ロボットによるアカウントの作成と購入のリスクを最小限に抑えるため、サインアップ中に SMS 検証を使用します。
-- デジタル ID サービスなどのサービスを使用して ID 管理と追跡を行います。
-- クレジット カード詐欺を厳密に検出するシステムを使用して、顧客の財務体質を確認します。
-- プロセスのコレクションを詳細に記述し、どのようなときにサブスクリプションへのアクセスに影響するかを示した明確なポリシーを作成します (未払いに対して、アクセスを無効にするか[顧客のサブスクリプションを一時停止する](suspend-a-subscription.md)ことができます)。
+### <a name="onboarding-new-customers"></a>Onboarding new customers
 
-#### <a name="post-purchase-customer-account-management"></a>購入後の顧客アカウント管理
-- 顧客と連携して、クラウド利用のビジネス ニーズを理解し、適切な監視しきい値を設定します。
-    > [!NOTE]  
-    >  パートナー センターで [Azure の月額支出予算を設定](set-an-azure-spending-budget-for-your-customers.md)すると、顧客による月間使用量を監視し、顧客の支出が予算の上限に近づいた場合にメールで通知を受け取ることができます。
-- [顧客のアクティビティ ログ](activity-logs.md)を定期的に監視することにより、詐欺を早い段階で検出します。
-- 疑わしい活動が検出されたら、迅速にアクションを実行します。
-- リスク軽減コントロールを実装する前に、サブスクリプションへの完全な管理アクセス権を顧客に設定しないでください。
-- Microsoft の通知を迅速に受信、確認、対応、応答するプロセスを実装します。
+Suggestions for reducing online risks when onboarding new customers include:
 
-#### <a name="post-purchase-customer-billing-management"></a>購入後の顧客請求管理
-- 最初のトランザクションおよび請求の前に、前払いを要求します。 
-- プリペイド カードやストアド バリュー カードなど、高リスクの支払い方法は受け入れないでください。
-- 顧客の支払い状況と未払い金を監視し、遅延や未払いについては、標準化された督促手順を積極的に適用します。
+- Establish personal relationships with customers when possible (for example, contacting customers by phone).
+- Verify customers' credentials and background through better methods (such as using credit bureaus or business commercial report agencies).
+- Use multi-factor authentication (such as SMS verification) during sign-up to minimize exposure to robotic account creationg and purchasing.
+- Manage and track identities using services (such as digital identity services).
+- Assess customer financial strength through rigorous credit card fraud detection systems.
+- Establish a clear collections policy. Detail your collections process and when access to subscriptions will be impacted by non-payment. (You can disable access or [suspend a customer's subscriptions](suspend-a-subscription.md) for non-payment.)
+
+### <a name="managing-customer-accounts"></a>Managing customer accounts
+
+Suggestions for managing customer accounts post-purchase include:
+
+- Implement a process to quickly receive, review, act on, and respond to Microsoft notifications.
+- Work with customers to understand their cloud usage business needs while settings appropriate monitoring thresholds. (For example, you can [set a monthly Azure spending budget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center. This allows you to monitor customer usage during the month and be notified when customers are close to their budget.)
+- Monitor [customer activity logs](activity-logs.md) regularly to help detect fraud early.
+- Take quick action when suspicious activities are detected.
+- Avoid giving customers full administrative access to subscriptions without first implementing risk mitigation controls.
+
+### <a name="managing-customer-billing"></a>Managing customer billing
+
+Suggestions for managing customer billing post-purchase include:
+
+- Request prepayments prior to initial transactions and billing .
+- Don't accept high-risk payment instruments (such as pre-paid cards or stored-value cards).
+- Monitor customer payments and aging accounts receivables. Aggressively enforce standardized dunning processes for late payments or non-payment.
 
 オンライン リスクを軽減するための詳しい方法については、[オンライン トランザクション リスクの管理ガイド](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)をご覧ください。
-
-> [!IMPORTANT]  
-> パートナーまたは顧客の活動が利用規約に違反していると Microsoft によって確認された場合または違反の疑いが検出された場合は、強制手順が実施されます。 お客様はすぐに中断され、Microsoft から貴社に強制措置について通知するか、要求が更新されます。
-
- セキュリティと multi-factor authentication の詳細については、「[パートナーのセキュリティ要件](partner-security-requirements.md)」を参照してください。
-
- 
-
-
-

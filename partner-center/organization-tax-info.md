@@ -1,7 +1,7 @@
 ---
 title: 組織の税情報 | パートナー センター
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/07/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで購入した場合の税額は、会社の住所によって決定されます。 一部の国では、企業が VAT 番号またはそれに相当するものをシステムに入力できます。
@@ -9,32 +9,35 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cbd3b979b19aa191d59840243711b0663f411279
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8aa501512a86f65c0a78c49f01c843286fcd120f
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652914"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384595"
 ---
-# <a name="company-tax-information"></a>会社の税金情報
+# <a name="company-tax-information"></a>Company tax information
 
-**適用対象**
+適用対象:
 
--  パートナー センター
+- パートナー センター
 
-パートナー センターで購入した場合の税額は、会社の住所によって決定されます。 一部の国では、企業が VAT 番号またはそれに相当するものをシステムに入力できます。
+パートナー センターで購入した場合の税額は、会社の住所によって決定されます。 Businesses in some countries can [provide their value-added tax (VAT) number](#submit-vat-id-number) or local equivalent.
 
 ### <a name="add-your-vat-id"></a>VAT ID を追加する
 
-課金プロファイルを編集するには、グローバル管理者、課金管理者、または管理エージェントである必要があります。
+You must be a global admin, billing admin, or admin agent to  edit the billing profile.
 
-1.  **パートナーセンターのダッシュボード**から **[設定]** にアクセスし、 **[課金プロファイル]** を選択します。
+1.  From the **Partner Center dashboard** go to  **Settings** and then select **Billing profile**.
 2.  **[財務データ]** セクションで、 **[更新]** を選びます。
-3.  **[会社の税 ID]** フィールドに、VAT ID 番号を入力します。
+3.  In the **Company Tax ID** field, enter your VAT ID number.
 
+## <a name="submit-vat-id-number"></a>Submit VAT ID number
 
+If applicable, follow these steps to send Microsoft your value-added tax (VAT) ID number:
 
- 
-
-
-
+1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
+2. In the **Settings** menu (gear icon), choose **Partner Settings**.
+3. On the **Account settings** page, choose **Partner billing profile** on the page menu.
+4. In the **Financial data** section, choose **Update**.
+5. For **Company Tax ID**, specify your VAT ID number.

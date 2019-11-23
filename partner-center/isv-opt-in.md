@@ -1,40 +1,40 @@
 ---
-title: Marketplace の "排他" プラン |パートナーセンター
+title: Marketplace "exclusive" offers | Partner Center
 ms.topic: article
-ms.date: 11/14/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ISV は、プランを排他的にすることで、使用する CSP パートナーを選択できます。
+description: ISV can choose CSP partners to work with by making their offers exclusive.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e148fa4faacd7ad9a7561e4d073f4d3bcb36401
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: b62a685dcbce5a462b182ad3015e19ae03bb6ce2
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096946"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384775"
 ---
-# <a name="marketplace-exclusive-offers"></a>Marketplace 限定プラン
+# <a name="marketplace-exclusive-offers"></a>Marketplace exclusive offers
 
-Isv は、選択された数の CSP パートナーがプランを利用できるようにするオプションを備えています。 すべての CSP パートナーは、パートナーセンターマーケットプレース内のすべての ISV プランを表示できますが、[排他] とマークされたプランは、ISV が選択したパートナーによってのみ購入できます。 プランが "排他的" と示されていない場合は、すべてのパートナーが購入できます。
+ISVs have the option of making their offers available to a select number of CSP partners. All CSP partners will still be able to view all ISV offers in the Partner Center Marketplace but offers marked Exclusive will only be able to be purchased by the partners who the ISV has selected. If an offer is not indicated as “Exclusive” all partners can purchase it.
 
-Isv によって識別される CSP パートナーは、次のことが可能です。
+CSP partners who are identified by ISVs can:
 
-- パートナーセンターマーケットプレースを通じて限定プランを購入する
-- 価格表のエクスポート
+- Purchase exclusive offers through Partner Center marketplace
+- Export price list
 
-## <a name="how-do-you-gain-access-to-exclusive-offers"></a>専用プランにアクセスするにはどうすればよいですか?
+## <a name="how-do-you-gain-access-to-exclusive-offers"></a>How do you gain access to exclusive offers?
 
-ISV が Marketplace でプランを発行すると、購入者を示すことができます。 
+When an ISV publishes an offer on the Marketplace, they have the opportunity to indicate who can purchase it. 
 
-そのオプションは次のとおりです。
+Their options are:
 
-- すべての CSP パートナーが購入可能
-- 購入できるパートナーを決定する
-- CSP パートナーは使用できません
+- All CSP partners can purchase
+- Determine which partners can purchase
+- Not available to CSP partners
 
-Marketplace での ISV エクスペリエンスの詳細については、[クラウドソリューションプロバイダー](https://docs.microsoft.com/en-us/azure/marketplace/cloud-solution-providers)に関するページを参照してください。
+To learn more about the ISV experience in Marketplace, read [Cloud Solution Providers](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
 
-Marketplace の詳細については、「[クラウドソリューションプロバイダーのコマーシャルマーケットプレースの概要」](https://docs.microsoft.partner-center/commercial-marketplace-overview.md)を参照してください。
+For more information on the Marketplace, read [Commercial marketplace overview for Cloud Solution Providers](https://docs.microsoft.partner-center/commercial-marketplace-overview.md).

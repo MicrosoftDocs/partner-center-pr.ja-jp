@@ -1,123 +1,141 @@
 ---
 title: 請求の概要 | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
+description: Basic billing and invoice information for Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: パートナーセンターの Azure サブスクリプションと予約に関する基本的な課金シナリオと、ライセンスベースと使用量ベースの課金の違いについて説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2087b75419e0f5235e1efcc67ecdd8f203f382c1
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 10fe47ea038fadf8ca26fe0ab42a0d0d3a9472bd
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253208"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384548"
 ---
 # <a name="billing-overview"></a>請求の概要
 
-**適用対象**
+適用対象:
 
--  パートナー センター
--  CSP プログラムのパートナー
+- パートナー センター
+- Partners in the Cloud Solution Provider (CSP) program
 
-お客様の代わりに購入した製品、ソリューション、サービスによっては、次の1つ以上の方法でこれらの購入に対して課金されます。
--   [ライセンスベースの請求](#licensebasedbilling)
+## <a name="find-your-bill"></a>Find your bill
 
-    ライセンスを必要とする製品またはオンラインサービスを購入する場合は、購入したライセンスごとに請求されます (ライセンスの使用状況ではありません)。 月 1 回または年 1 回の請求を選択できます。 ビジネス ニーズが変わった場合、方法を変更したり戻したりできます。 
-    
-    月単位と年単位の請求について詳しくは、請求に関する [FAQ](https://docs.microsoft.com/partner-center/faq-about-new-billing-features) の記事をご覧ください。
+To find your bill:
 
--   [使用量ベースの請求](#usagebasedbilling)
+1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
+2. In the left-hand menu, choose **Billing**.
+3. On the **Billing** page, you can download your latest bill or download previous bills in the **Billing history** section.
 
-    Azure サブスクリプションなどのオンラインサービスを購入すると、毎月の使用率に対して課金されます。 使用量ベースの製品の場合は、月単位の請求だけを利用できます。 使用量ベースのサービス (Azure など) は、消費量に基づく従量制で請求されます。
+## <a name="bill-your-customers"></a>Bill your customers
 
--   [1 回限りの請求](#onetimebilling)
+Microsoft has no requirements or conditions about how you handle your own invoicing.
 
-    Azure Reservations または他のソフトウェア サブスクリプションを購入するときは、事前設定された期間について前払いします。 事前に支払いを行っているので、1つの一括合計で課金されます。 
-    
-毎月の課金を選択した場合、または月ごとに課金される使用量ベースの製品を購入した場合、月々の請求日は、パートナーセンターで CSP アカウントを作成したときに選択した日付になります。 CSP アカウントが正常に作成されると、Microsoft は請求日が記載された確認メールを送信します。 作成した後でこの日付を変更することはできません。 
+To determine a customer's usage, [see your reconciliation files](#find-your-bill). You can use the customer name and other relevant fields to determine usage.
 
-## <a name="pricing-and-invoicing"></a>価格と請求
-価格表は毎月更新され、1 か月前に確認することができます。 ライセンスベースの価格は、サブスクリプションの有効期間 (通常は購入日から 12 か月間) にわたって保証されます。 使用量ベースの価格は、毎月変わる場合があります。 
+Next, you can add your own fees and charges for services and products that you provide. Then, you can send a single bill for all charges to your customer.
 
-製品、サービス、ソフトウェア サブスクリプションの価格はサブスクリプション期間を通して保証されますが、更新時に価格が変わる場合があります。
+### <a name="billing-types"></a>Billing types
 
-クレジットまたは調整が適用されると、次回の請求書に未払いの調整とクレジットが表示されます。
+Billing types in Partner Center include **license-based billing**, **usage-based billing**, and **one-time billign**. For more information, see the full explanation of [billing types in Partner Center](billing-different-types.md).
 
-請求書と調整ファイルは、パートナー センターの [請求書作成] ページで表示およびダウンロードできます。 パートナー センターでは、選択した請求日の 4 日以内であれば、毎月の請求書を確認できます。
+### <a name="billing-currency"></a>Billing currency
+
+You'll be billed for product(s) in the currency of the country or region in which you're located. You're billed the same regardless of the location of the customer to whom you sold the product(s).
+
+## <a name="invoices"></a>請求書
+
+Your invoice is a summary of all charges for the current billing period. This includes charges across the program, all products, and all customers. For examples of monthly and annual billing scenarios, see [common billing scenarios](common-billing-scenarios.md)
+
+Your invoice is available within two (2) days of your selected billing date in UTC time. たとえば、請求日が 9 月 12 日の場合、請求書生成プロセスは 13 日の午前 0 時 00分 UTC に開始し、14 日の午前 0 時 00分 UTC に完了します。 15 日の午後 11 時 59 分 UTC までに請求書が表示されない場合は、サービス レベル アグリーメントが満たされていないので、サービス要求を提出する必要があります。
+
+Partners in the Cloud Solution Provider (CSP) program who choose to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).
+
+## <a name="price-lists"></a>Price lists
+
+Price lists are updated monthly. Preview price lists are available one (1) month in advance.
+
+To view price lists:
+
+1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
+2. In the left-hand menu, choose **Sell**, then select **Pricing and offers**.
+3. On the **Pricing and offers** page, you can see 6 months of price lists (including the current month) and preview price lists (where applicable).
+
+**License-based** prices are guaranteed for the term of the subscription, usually 12 months from the purchase date. 
+
+**Usage-based prices** can change on a monthly basis.
+
+**Prices for products, services, and software subscriptions** are guaranteed through the subscription duration. However, prices may change when you renew.
+
+You'll see **adjustments** and **credits** in arrears on your next billing invoice after the credit or adjustment is applied.
 
 ## <a name="payment-terms"></a>支払条件
 
-支払期間は正味 60 日です。 請求書の期限 (請求日から 60 日) までに支払う必要があります。それを過ぎると、アカウントは延滞になり、CSP での登録に影響する可能性があります。 支払い期限の過ぎた未払い額を支払うと、中断されているアカウントのすべての機能を復旧できます。
+支払期間は正味 60 日です。 請求書の期限 (請求日から 60 日) までに支払う必要があります。それを過ぎると、アカウントは延滞になり、CSP での登録に影響する可能性があります。 
 
-### <a name="tax"></a>Tax
+支払い期限の過ぎた未払い額を支払うと、中断されているアカウントのすべての機能を復旧できます。
 
-請求関係は Microsoft と (顧客ではなく) パートナーの間のものなので、パートナーの詳細に基づいてパートナーに課税されます。 アカウントのセットアップ プロセス中に、または後でサポート要求を送信することで、税 ID を提出できます。 料金は次の課金サイクルに反映されます。
+### <a name="taxes-and-vat"></a>Taxes and VAT
 
--   源泉徴収と売上税の除外については、サポート要求を通じて税金のドキュメントを提出する必要があります。 料金と適切な返金は次の課金サイクルに反映されます。
+You are taxed based on your details (not your customers' details) because the billing relationship is between Microsoft and you. You can submit your tax identifier during the account setup process or through a support request later. 料金は次の課金サイクルに反映されます。
 
--   付加価値税 (VAT) の免除については、サービス要求を通じて (Microsoft によって確認済みの)、VAT ID を提出する必要があります。 料金と適切な返金は次の課金サイクルに反映されます。
+For **withholding and sales tax exemption**, you must submit tax documentation through a support request. 料金と適切な返金は次の課金サイクルに反映されます。
+
+For **value-added tax (VAT) exemption**, you must submit your VAT ID (validated by Microsoft) through a service request. 料金と適切な返金は次の課金サイクルに反映されます。
 
 さらに詳しい税金の詳細については、地域の税務署または税務アドバイザーにお問い合わせください。
 
-## <a href="" id="licensebasedbilling"></a>ライセンスベースの請求
+### <a name="annual-billing-rules"></a>Annual billing rules
 
-顧客に代わってライセンスベースの製品を購入するときに、月単位または年単位の請求を選択できます。 後で請求頻度を変更する場合は、以下の手順を使用します。 
+サブスクリプションは毎年自動更新されます。
 
-毎月請求されるサブスクリプションが多数あり、それらを共通の請求日にまとめたい場合は、月単位の請求から年単位の請求に切り替えると便利です。 個々の顧客の請求に合わせて請求日を調整するときは、年単位の請求から月単位の請求に切り替えると便利です。 
+請求は、年間サブスクリプションごとに 12 回の月払いまたは 1 回の年払いになります。
 
-請求頻度を変更すると、請求頻度を変更した日付を反映するように年間契約が更新され、新しい更新日が確立されます。 
+以前の課金期間の終了時のライセンス数に基づいて、ライセンス ベースのサービスの次の課金期間について前払いで課金されます。
 
-ビジネス ニーズが変化するたびに、請求頻度を変更できます。 
+ライセンス数の変更 (ライセンスの日数に基づく日割り計算) で、後で課金/クレジットが行われます。 Pro-rata calculation uses the following formula:
 
-### <a name="billing-rules-for-annual-billing"></a>年単位の請求の請求ルール
+`[ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]`
 
--   サブスクリプションは毎年自動更新されます。
+Payments are billed for licenses sold, not licenses provisioned.
 
--   請求は、年間サブスクリプションごとに 12 回の月払いまたは 1 回の年払いになります。
+### <a name="change-billing-frequency"></a>Change billing frequency
 
--   前回の請求期間の終了時のライセンス数に基づき、ライセンスベースのサービスの次の請求期間分が前払いで請求されます。
+To change the billing frequency of an online service for a customer:
 
--   ライセンス数の変更 (ライセンスの日数に基づく日割り計算) で、後で課金/クレジットが行われます。 日割り計算では、次の式を使用します。[ROUND((ROUND(単価 * 数量 / 日割り計算の月の日数, 2) * 日割り計算の日数) / 数量, 2) * 数量]
-
--   支払いは、(プロビジョニングされたライセンスではなく) 販売されたライセンスに対して請求されます。
-
-### <a name="to-change-the-billing-frequency-of-an-online-service"></a>オンライン サービスの請求頻度を変更するには
-
-1.  パートナー センターのメニューで **[顧客]** を選択し、サブスクリプションを変更する顧客を選択します。 
-
-2.  顧客のサブスクリプション ページで、変更するサブスクリプションを選択します。 
-
-3.  詳細ページの **[請求頻度]** で、 **[毎月]** または **[毎年]** を選択します。 請求頻度の変更に関する重要な情報と、変更対象のサブスクリプションの一覧が表示されます。 
-
-4.  **[OK]** を選択して変更するか、または **[キャンセル]** を選択して取り消します。 
+1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
+2. In the left-hand menu, choose **Customers**.
+3. Select the customer whose subscription billing frequency you want to change.
+4. On the customer's **Subscriptions** page, select the subscription that you want to change.
+5. On the **Details** page, under **Billing frequency**, select **Monthly** or **Annual**. 請求頻度の変更に関する重要な情報と、変更されるサブスクリプションの一覧を含む、確認ページが表示されます。
+6. Choose **OK** to make the change (or **Cancel** to undo it).
 
 ### <a name="adjustmentscreditscancellations"></a>調整/クレジット/取り消し
 
-ライセンスベースのサービスの取り消しに対して、早期終了手数料は課金されません。 
+ライセンスベースのサービスの取り消しに対して、早期終了手数料は課金されません。
 
-ライセンス ベースのサービスに対する取り消しのクレジットは、期間途中の取り消しについては未使用の日について日割り計算されます (前の式に従ったライセンスの減少も同様です)。
-
-## <a href="" id="usagebasedbilling"></a>使用量ベースの請求
-
-Microsoft の一部の製品とサービスでは "従量課金制" の請求モデルが使用されており、使用したサービスに対してのみ請求されます。 たとえば、Microsoft Azure ではこのモデルが使われています。 
+Cancellation credits for licensed-based services are pro-rated for unused days for mid-cycle cancellations (as well as license decreases according to the formula above).
 
 ### <a name="billing-rules"></a>課金の規則
--   サブスクリプションは新しい従量制サービスの料金で、毎月自動的に更新されます。 毎月、前月の使用量に対して請求されます。
 
--   従量制サービスの料金は、請求サイクル内で変更される場合があります。 
+サブスクリプションは新しい従量制サービスの料金で、毎月自動的に更新されます。 毎月、前月の使用量に対して請求されます。
 
-    -   価格の増加: 30 日前に通知されます。
+従量制サービスの料金は、請求サイクル内で変更される場合があります。
 
-    -   価格の低下: 変更日を反映します。
+#### <a name="price-changes"></a>Price changes
 
-    -   既存のサブスクリプションでは、課金サイクルの開始時点で有効な料金が使われます。
+For **price increases**, 30 days' notice is provided.
 
-    -   同じ請求サイクル内で作成される新しいサブスクリプションでは、作成日に有効なレートが使用されます。 
+**Price decreases** are reflected on the day of change.
+
+**Existing subscriptions** use the rate in effect at the beginning of the bill cycle.
+
+**New subscriptions**, when created within the same billing cycle, use the rate in effect on the date you create them. 
 
 ### <a name="adjustmentscreditscancellations"></a>調整/クレジット/取り消し
 
@@ -127,33 +145,33 @@ Microsoft の一部の製品とサービスでは "従量課金制" の請求モ
 
 SLA のクレジットを含むあらゆる種類のクレジットが、次の月次請求書に表示されます。
 
-## <a href="" id="onetimebilling"></a>1 回限りの請求
-
-ソフトウェア サブスクリプションと Azure Reservations は、1 年または 3 年の期間で事前に購入することができます。 事前に購入すると、全体のコストが一括で請求されます。 この種類の請求は、1 回限りの請求と呼ばれます。
-
 >[!IMPORTANT]
->お客様とは異なる通貨を使用している顧客に対して Azure の予約やソフトウェアのサブスクリプションを購入した場合、既定の請求通貨は、お客様の所在地ではなく顧客の所在地に基づきます。 複数の場所に顧客がいる場合は、顧客が課金される必要がある通貨ごとに個別の請求書と調整ファイルを受け取り、適切な通貨で顧客の請求を行うことができます。 
+>通貨が異なる場所の顧客用に Azure Reservations およびソフトウェア サブスクリプションを購入する場合、既定の請求通貨はパートナーではなく顧客の場所がベースになります。 顧客が複数の場所に存在する場合は、顧客への請求が必要な各通貨について、個別の請求書と調整ファイルが届き、適切な通貨で顧客に請求できます。
 
-### <a name="manage-your-one-time-billing"></a>1 回限りの請求を管理する
+## <a name="manage-one-time-billing"></a>Manage one-time billing
 
-**現在の請求の状態、請求書、調整ファイルを表示する**
+### <a name="billing-status-invoices-and-reconciliation-files"></a>Billing status, invoices and reconciliation files
 
-1.  パートナー センターで **[Billing]\(請求\)** 、 **[1 回限り]** の順に選択して、請求の状態を表示します。 
+To view your current billing status, invoices, and reconciliation files:
 
-2.  請求書または調整ファイルを選択して、詳細な情報を確認します。 
+1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
+2. On the left-hand menu, choose **Billing**, then select **One time**.
+3. On the billing status page, select an invoice or reconciliation file to view more detailed information.
 
-**顧客の注文履歴を表示する**
+### <a name="customer-order-history"></a>Customer order history
 
-1.  パートナー センター メニューで、 **[顧客]** を選択します。
+To view a customer's order history:
 
-2.  **顧客**のページで、注文履歴を表示する顧客を見つけて、下矢印を選択して顧客のレコードを展開します。 
+1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
+2. On the left-hand menu, choose **Customers**.
+3. On the **Customers** page, find the customer whose order history you want to view. Select the down arrow to expand the customer's record.
+4. Choose **View orders** to display the customer's order history.
 
-3.  **[View orders]** (注文の表示) を選択して注文履歴を表示します。
+### <a name="credit-notes"></a>Credit notes
 
-**クレジット ノートをダウンロードする**
+You might need to request a credit or rebill for the following reasons:
 
-クレジットまたは再請求を要求する必要がある場合は、元の請求書をキャンセルするためのクレジットメモをお送りします。 次のような理由でクレジット/再請求を要求する場合があります。
+- You need to make address or purchase order corrections.
+- A tax refund was applied after the invoice was generated. You can request a credit or rebill to get the tax refund pulled back into the original invoice. The same is also true for refunds. You can request a credit or rebill of the original invoice, then pull in a refund.
 
--   請求先住所または発注書の訂正
-
--   請求書が生成された後、税金の払い戻しが適用された場合。 クレジット/再請求を要求して、元の請求書に税金の払い戻しを反映させることができます。 これは払い戻しの場合にも適用され、元の請求書のクレジット/再請求を要求し、払い戻しを受けることができます。
+If you request a credit or rebill, we'll give you a **credit note** to cancel the original invoice.

@@ -1,23 +1,23 @@
 ---
-title: 新しい顧客の追加 | パートナー センター
+title: 新しい顧客を追加する | パートナー センター
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターで新しい顧客レコードを追加する方法について説明します。 その後、顧客のサブスクリプションを販売したり、請求を管理したり、カスタマーサポートを提供したりすることができます。
+description: Learn how to add a new customer record in Partner Center. Then, you can sell the customer subscriptions, manage billing, or provide customer support.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 顧客, 顧客の追加, 顧客アカウント, パートナー センターの顧客アカウント, お客様, お客様の追加, 顧客アカウントの作成
 ms.localizationpriority: medium
-ms.openlocfilehash: 8452bc7040eab835bc5d068d0595bce48f8d2c0a
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253150"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384616"
 ---
-# <a name="add-a-new-customer"></a>新しい顧客の追加
+# <a name="add-a-new-customer"></a>新しい顧客を追加する
 
 **適用対象**
 
@@ -36,13 +36,13 @@ ms.locfileid: "74253150"
 2. **[アカウント情報]** ページで、顧客の詳細と主要な連絡先情報を入力し、顧客が最新の [Microsoft Cloud 契約](agreements.md) を承諾して署名したことを確認します。
 
 >[!IMPORTANT] 
-> マイクロソフトは、2019年10月1日に、Microsoft Cloud 契約を置き換えるために、CSP プログラムに**Microsoft カスタマー契約**を導入しました。 新しい契約へのパートナーの移行を促進するために、現在の Microsoft Cloud 契約は、2020 年 1 月 31 まで CSP プログラムでサポートされます。 [Microsoft カスタマー契約および同意を確認する方法](confirm-customer-consent.md)については、こちらを参照してください。
+> On October 1st, 2019, Microsoft introduced the **Microsoft Customer Agreement** to the CSP program to replace the Microsoft Cloud Agreement. 新しい契約へのパートナーの移行を促進するために、現在の Microsoft Cloud 契約は、2020 年 1 月 31 まで CSP プログラムでサポートされます。 Read about the [Microsoft Customer Agreement and how to confirm consent](confirm-customer-agreement.md)
   
 3. 間接プロバイダーの場合は、この顧客のサブスクリプションに関連付ける間接リセラーを一覧から選択します。
 
-4. すべての必要な情報の入力が完了したら、 **[次へ: サブスクリプション]** を選択します。
+4. Select **Next: Subscriptions** when you're finished entering all required information.
 
-5. **[サブスクリプション]** ページで、顧客が購入するプランを選択し、ライセンスの数を入力して、 **[次へ]** を選択します。
+5. On the **Subscriptions** page, select the offer(s) your customer wants to buy from you, enter the number of licenses, and then select **Next: Review**.
 
 6. **[レビュー]** ページで、入力が正しいことを確認し、情報が正しい場合は **[送信]** を選択します。
 

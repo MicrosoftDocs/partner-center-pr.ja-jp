@@ -1,154 +1,67 @@
 ---
 title: 請求書を読み取る | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
+description: Your invoice is a summary of all Partner Center charges (across the program, products, and customers) for the current monthly period.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 請求書は、当月のすべての (プログラム、製品、顧客全体の) 料金の概要です。 パートナー センターで利用できます。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: 37469a72137d5bc399f5ab765c49c8accd36808d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2f7fe5c2a3348e89cb69fc0d4e89b97f56fb2083
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652179"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384825"
 ---
 # <a name="read-your-bill"></a>請求書を読み取る
 
-**適用対象**
+適用対象:
 
--  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
+- パートナー センター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
+Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers) for the **current billing period**.
 
-請求書を確認するには、**パートナー センター** メニューで **[請求]** を選びます。請求の履歴と傾向、請求書や調整ファイルへのリンク、前回の支払いが表示されます。
+## <a name="invoice-types"></a>Invoice types
 
-クラウド ソリューション プロバイダー プログラムに参加中で月次請求を選択した場合は、顧客 (ライセンスベースおよび使用量ベース) のサブスクリプション料金を 60 日以内に Microsoft にお支払いください。
+You will receive one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure).
 
-> [!NOTE]  
-> 請求書は、当月のすべての料金 (プログラム、製品、顧客の料金) の要約が記載されたものであり、指定の請求日から UTC 時間で 2 日以内に表示可能になります。 たとえば、請求日が 9 月 12 日の場合、請求書生成プロセスは 13 日の午前 0 時 00分 UTC に開始し、14 日の午前 0 時 00分 UTC に完了します。 15日に 59PM UTC で請求書が表示されない場合は、サービスレベルアグリーメントを超えているため、サービスリクエストを送信する必要があります。 
+You will receive a separate invoice for one-time charges (such as Azure reserved VM instances).
 
-ライセンス ベース (Office 365) と使用量ベース (Azure) の料金については 1 つの請求書を受け取り、1 回限り (Azure Reserved VM Instances) の料金については別の請求書を受け取ります。
+## <a name="invoice-file-fields"></a>Invoice file fields
 
-料金の項目別明細については、関連する調整ファイルを使用します。 調整ファイルには、顧客への請求書の作成に使用される顧客 ID とサブスクリプション ID が含まれます。 詳しくは、「[調整ファイルの使用方法](use-the-reconciliation-files.md)」をご覧ください。
+For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).
 
-## <a name="invoice-file-definitions"></a>請求書ファイルの定義
+## <a name="find-your-bill"></a>Find your bill
 
+You can find your invoice on the **Billing** page of the dashboard in Partner Center. You can also find your billing history, spending trends, and reconciliation files on this page.
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><strong>フィールド</strong></td>
-<td><strong>説明</strong></td>
-</tr>
-<tr class="even">
-<td>US FEIN</td>
-<td>連邦税の ID 番号。</td>
-</tr>
-<tr class="odd">
-<td>顧客番号</td>
-<td>お客様の番号。</td>
-</tr>
-<tr class="even">
-<td>請求先</td>
-<td>請求書の送付先となる住所。 会社名または住所を変更するには、パートナー センターで課金プロファイルを編集します。 </td>
-</tr>
-<tr class="odd">
-<td>ライセンスベースの料金</td>
-<td>購入した使用量ベースのライセンスに対する定額の月額 (または年額) 料金で、サービスの前に課金されます。 この数値は、ライセンスベースの調整ファイルの &quot;Subtotal&quot; 列 (T 列) にあるすべての料金の合計です。</td>
-</tr>
-<tr class="even">
-<td>使用量ベースの料金</td>
-<td>請求月の間に有効にした、または使用された Azure の利用料金 (新しいサービスやアプリケーションが含まれます)。 この数値は、使用量ベースの調整ファイルの &quot;PretaxCharges&quot; 列 (Z 列) にあるすべての料金の合計です。</td>
-</tr>
-<tr class="odd">
-<td>割引</td>
-<td>たとえば、サブスクリプションの通常価格に対してお客様が受け取る割引です。 これは単価やライセンスではなく、定額で表示されます。</td>
-</tr>
-<tr class="odd">
-<td>クレジット</td>
-<td>サブスクリプションに加えられた変更内容 (シートの増減など) に対するクレジットまたは調整の金額。</td>
-</tr>
-<tr class="even">
-<tr class="even">
-<td>Subtotal</td>
-<td>課税前の税抜き料金とクレジットの合計。</td>
-</tr>
-<td>Tax</td>
-<td>請求書の 2 ページ目から始まる明細セクションに示される、現在の合計料金に対する税金の合計。 この数値は、以下の列にあるすべての料金の合計です。
-<ul>
-<li>使用量ベースの調整ファイルの &quot;TaxAmount&quot; 列 (AA 列)、および</li>
-<li>ライセンス ベースのファイルの &quot;Tax&quot; 列 (U 列)。</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>その他のクレジット</td>
-<td>税抜きクレジット。</td>
-</tr>
-<tr class="even">
-<td>当月の請求額合計</td>
-<td>支払い期限ごとの、請求期間の請求通貨での支払い額。</td>
-</tr>
-<tr class="odd">
-<td>お支払いについて</td>
-<td>地域に基づく、請求書の支払い方法の説明です。 支払いを行うときには、常に請求書番号を含めます。</td>
-</tr>
-<tr class="even">
-<td>請求書番号</td>
-<td>請求書の番号。</td>
-</tr>
-<tr class="odd">
-<td>課金期間</td>
-<td>請求日に至るまでの月単位の期間。 これは、クレジットの調整またはライセンス数の変更のための、使用量ベースのサービスが消費された期間、またはライセンス ベースのサービスが調整された期間です。</td>
-</tr>
-<tr class="even">
-<td>請求書作成日</td>
-<td>毎月請求書が生成される請求日または契約応当日です。</td>
-</tr>
-<tr class="odd">
-<td>支払条件</td>
-<td>1 回限りの購入の場合は、常に 60 日間になります。</td>
-</tr>
-<tr class="even">
-<td>支払期日</td>
-<td>この日付までに、お客様からの支払いが受領される必要があります。</td>
-</tr>
-<tr class="odd">
-<td>顧客 PO</td>
-<td>お客様の注文書番号です。</td>
-</tr>
-<tr class="even">
-<td>カスタマー サービス</td>
-<td>カスタマー サービスにアクセスするための Web サイトのアドレス。</td>
-</tr>
-<tr class="odd">
-<td>サービス利用者</td>
-<td>サービスが使われる住所。 (これは、会社の審査に関連付けられている会社の正式な住所です。)</td>
-</tr>
-</tbody>
-</table>
+1. Sign in to the dashboard in Partner Center.
+2. In the left-hand menu, select **Billing**.
+3. On the **Billing** page, select the invoice you want to download.
+    - You can find a link to your latest invoice at the top of the page under **Account balance as of last invoice date**.
+    - You can find previous invoices in the **Billing history** section. Choose the appropriate year, then select the drop-down arrow next to the appropriate **Billing period**. You can select the link next to **Invoices (.pdf)** to download that period's invoice.
 
-## <a name="itemized-list-of-one-time-charges"></a>1 回限りの料金の項目一覧
+## <a name="understand-billing-periods"></a>Understand billing periods
 
-|**フィールド** |**定義**|
-|:----------------|:-----------------------------|
-|日付 |購入日。 |
-|説明 |製品名。 |
-|Quantity |購入した製品 (予約など) の数。 |
-|単価 |製品 (予約など) ごとの価格。 |
-|割引 |適用される割引。 |
-|税抜き額 |課税前の購入額の小計。 |
-|売上税 |税額。 |
-|Total |お支払いの合計額。 |
- 
+Your invoice is available within **two (2) days** of your selected billing date in **UTC time**.
 
+For example, if you have a September 12th monthly billing date:
 
+- The invoice generation process will **begin** at 12:00AM UTC on September 13th.
+- The invoice generation process will **complete** by 12:00AM UTC on September 14th.
+- If you do not see your invoice by 11:59PM UTC on September 15th, you’re out of your Service Level Agreement (SLA) and should file a service request.
 
+### <a name="csp-monthly-billing"></a>CSP monthly billing
+
+Partners in the Cloud Solution Provider (CSP) program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based subscriptions).
+
+## <a name="find-itemized-details-for-charges"></a>Find itemized details for charges
+
+You can understand itemized details about your charges using your reconciliation files. The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.
+
+詳しくは、「[調整ファイルの使用方法](use-the-reconciliation-files.md)」をご覧ください。

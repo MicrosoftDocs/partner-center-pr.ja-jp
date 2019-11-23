@@ -11,20 +11,20 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9f536fa19d9f6cc36c9206a45a900a8345fc896b
-ms.sourcegitcommit: 79731c2c06fc773fa7fb4007590c0e94d7f0d052
+ms.openlocfilehash: 7d478f8a90eee2bcfc15ef31407dee12de1eaa29
+ms.sourcegitcommit: 10d40d50a623ac6bce3496157695a7aca147d74a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74197109"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74391691"
 ---
 # <a name="partner-contribution-indicators"></a>パートナー貢献度インジケーター
 
-Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes and therefore greater differentiation in the market when a partner attains and maintains the Cloud Business Applications competency. Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities.
+Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes for Dynamics 365. Partners receive greater differentiation in the market when they attain and maintain the Cloud Business Applications competency.  Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities. 
 
 ## <a name="scoring"></a>スコア付け
 
-PCI provides a sophisticated, holistic view of a partner’s technical capabilities, their ability to drive customer success, and their sales performance. PCI measures your company’s prior-year performance across seven key indicators:
+PCI provides a sophisticated, holistic view of your company’s technical capabilities, ability to drive customer success, and sales performance. PCI measures your company’s prior-year performance across seven key indicators:
 
 1. **Net new revenue** — Net new revenue across all sales channels for Microsoft Dynamics 365 products.
 2. **Net customer adds** — Net customers acquired for Dynamics 365 across all sales channels.
@@ -40,7 +40,8 @@ Points are granted for each achieved indicator, resulting in a single-number PCI
 
 Each indicator brings a score that is added to the total. Here are the maximum scores for each indicator:
 
-![pci performance](images/pcinew2.png)
+
+![pci performance 2](images/pci1.png)
 
 ### <a name="thresholds"></a>しきい値
 
@@ -50,67 +51,28 @@ Points across each metric are tallied to yield a distinct PCI score for Customer
 
 パートナーは、次に示すしきい値を満たしているか超過している場合、特定のメトリックの最大ポイントを獲得できます。 機能コンサルタント増加率 (Functional consultant growth) を除くすべてのメトリックに対して、部分的なポイントを獲得できます。たとえば、新規純利益 (Net New Revenue) が $150,000 である先進市場のパートナーは、最大 10 ポイントの半分 ($150,000/$300,000) を獲得します。
 
-![customer engagement](images/pcix1.png)
+![customer engagement](images/pci/table_1.png)
 
-![ファイナンス](images/pcix3.png)
+![ファイナンス](images/pci/TABLE_2.png)
 
-![consultant](images/pcix4.png)
+![consultant](images/pci/table_3.png)
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Detailed definitions of PCI metrics
 
-|**Net new revenue**|**Summed up over training 12-months**|**Maximum of 10 points**|
-|---------------|----------------------------------|-----------------------|
-|Net new billed revenue across all sales channels for specified Dynamics 365 products.|
-|請求金額からクレジットを差し引いた値が計算され、12 か月間について集計されます。|
-|**Customer Engagement** products include Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent, and Enterprise Team Member.|
-|**Finance and Operations** products include Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent, and Enterprise Team Member.|
-|販売チャネルには、エンタープライズ契約 (EA)、クラウド ソリューション プロバイダー (CSP)、Web ダイレクトが含まれます。|
-|エンタープライズ契約の利益には、契約の最初の年からの利益のみが含まれます。 2 年目および 3 年目から繰り返し発生する利益は含まれません。|
+![net new revenue](images/net_new1.png)
 
-|**Net customer adds**|**Summed up over training 12-months**|**Maximum of 10 points**|
-|--------------|------------|---------------|
-|すべての販売チャネルでの顧客の純追加数。|
-|月ごとの顧客追加数から顧客喪失数を差し引いた値が計算され、12 か月間について集計されます。|
-|顧客の追加とは、前月には支払い開始ユニットを持っていなかった顧客が、今月は持つようになった場合です。|
-|顧客の喪失とは、前月には支払い開始ユニットを持っていた顧客が、今月は持たなくなった場合です。|
-|販売チャネルには、エンタープライズ契約 (EA)、クラウド ソリューション プロバイダー (CSP)、Web ダイレクトが含まれます。|
-|失った顧客を再度獲得したときに異なるパートナーが関連付けられた場合は、最新のパートナーがクレジットを受け取ります。|
+![net customer adds](images/netcustomer.png)
 
-|**Functional consultant**|**Current month snapshot**|**Maximum of 15 points**|
-|--------------|------------|---------------|
-|Number of individuals holding a currently active Functional Consultant Associate certification.|
-|**Customer Engagement** Functional Consultant certification requires and individual to pass MB-200 AND MB-210 OR MB-220 OR MB-230 OR MB-240 OR MB6-898.|
-|**Finance and Operations** Functional Consultant certification requires and individual to pass MB-300 AND MB-310 OR MB-320 OR MB-330 OR MB6-897 OR MB6-898.|
+![Functional Consultant](images/pci/functional_consultants.png)
 
-|**Functional consultant growth**|**Current month vs baseline on March 31, 2020**|**0 or 15 points**|
-|--------------|------------|---------------|
-|Growth in the number of certified Functional Consultant Associates since a baseline snapshot taken on March 31, 2020.|
-|The baseline snapshot is reset on the next Cloud Business Applications competency renewal date.|
-|To be eligible for points, must have a minimum of 15 Functional Consultant Associates for Developed market partners and 5 for Developing market partners when the baseline snapshot is taken.|
-|**部分ポイントは付与されません**。 Growth on top of the baseline snapshot must meet or exceed the thresholds indicated in Table 3.|
+![growth](images/pci/functional_consultant_growth.png)
 
-|**開発者向け**|**Current month snapshot**|**Maximum of 15 points**|
-|--------------|------------|---------------|
-|Number of individuals holding a currently active Developer Associate certification.|
-|**Customer Engagement** Developer Associate certification requires an individual to pass both MB-200 AND MB-400 OR MB2-716.|
-|**Finance and Operations** Developer Associate certification requires an individual to pass MB-300 AND MB-500 OR MB6-894.|
+![開発者向け](images/pci/developers.png)
 
-**New large deployments**|**Summed up over trailing 12-months**|**Maximum of 15 points**|
-|--------------|------------|---------------|
-|For **Customer Engagement**, this is the number of production instances under a tenant that has crossed 250 monthly active users for Developed & 150 Monthly active users for Developing market partners.|
-|For **Finance & Operations**, this is the number of production instances under a tenant that has crossed 100 monthly active users for Developed & 50 Monthly active users for Developing market partners.|
-|A tenant is considered to have crossed the monthly active user threshold if it was below the specified threshold 12 months ago and crossed that threshold at least once over the subsequent 11 months.|
-|Monthly active users are counted at the tenant level and summed up across only the paid subscriptions under the tenant.|
-|月間アクティブ ユーザー数は、毎月の終了時に計算されます。|
-|Partners are associated to tenants at the subscription level. Subscriptions are mapped to Customer Engagement or Finance and Operations products. All partners associated to any paid subscription under a tenant will get credit for all the Customer Engagement or Finance and Operations production instances under that tenant.|
+![New deployments](images/pci/new_large_deployments.png)
 
-**Monthly active user growth**|**Current month vs baseline from 12 months ago**|**Maximum of 25 points**|
-|--------------|------------|---------------|
-|For **Customer Engagement**, Developed market partners must have a baseline of at least 250 monthly active users, and Developing market partners must have a baseline of 150 monthly active users across their entire customer base 12 months ago to be eligible for points.|
-|For **Finance and Operations**, Developed market partners must have a baseline of at least 100 monthly active users, and Developing market partners must have a baseline of 50 monthly active users across their entire customer 12 months ago to be eligible for points.|
-|Monthly active users are counted at the tenant level and summed up across only the paid subscriptions under the tenant.|
-|月間アクティブ ユーザー数は、毎月の終了時に計算されます。|
-|Partners are associated to tenants at the subscription level. Subscriptions are mapped to Customer Engagement or Finance and Operations products. All partners associated to any paid subscription under a tenant will get credit for all the Customer Engagement or Finance and Operations monthly active users summed up across all paid subscriptions under that tenant.|
+![active users](images/pci/monthly_active_user_growth.png)
+
 
 ## <a name="customer-to-partner-association"></a>顧客とパートナーの関連付け
 
@@ -128,7 +90,7 @@ A partner becomes the CPOR if they have established association with a customer 
 
 ## <a name="additional-resources"></a>その他の資料
 
-Please visit [Partner Center Indicators information](https://aka.ms/pcilearn) where you can find detailed training videos, presentations, FAQs, and fact sheets. 
+Please visit [Partner Contribution Indicators resource collection](https://partner.microsoft.com/asset/collection/pci-learn#/) where you can find detailed training videos, presentations, FAQs, and fact sheets. 
 
 
 
