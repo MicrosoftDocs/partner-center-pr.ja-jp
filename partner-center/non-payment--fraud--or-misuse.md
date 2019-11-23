@@ -1,7 +1,7 @@
 ---
-title: 未払い、詐欺、または誤用 | パートナー センター
+title: Managing non-payment, fraud, or misuse | Partner Center
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 商品やサービスに対する顧客の未払い、不正行為、不正使用などのオンライン トランザクション リスクを管理するための戦略。
@@ -11,83 +11,88 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 604c192259fd4194a3b43d57721caa7566704b58
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652962"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384766"
 ---
-# <a name="non-payment-fraud-or-misuse"></a><span data-ttu-id="3b213-104">未払い、詐欺、または誤用</span><span class="sxs-lookup"><span data-stu-id="3b213-104">Non-payment, fraud, or misuse</span></span>
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a><span data-ttu-id="632cb-104">Managing non-payment, fraud, or misuse in Partner Center</span><span class="sxs-lookup"><span data-stu-id="632cb-104">Managing non-payment, fraud, or misuse in Partner Center</span></span>
 
-<span data-ttu-id="3b213-105">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="3b213-105">**Applies to**</span></span>
+<span data-ttu-id="632cb-105">適用対象:</span><span class="sxs-lookup"><span data-stu-id="632cb-105">Applies to:</span></span>
 
--  <span data-ttu-id="3b213-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="3b213-106">Partner Center</span></span>
--  <span data-ttu-id="3b213-107">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="3b213-107">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="632cb-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="632cb-106">Partner Center</span></span>
+- <span data-ttu-id="632cb-107">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="632cb-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
+<span data-ttu-id="632cb-108">パートナーは、顧客による不正購入や、購入サービスの料金未払いについて、金銭的な責任を負います。</span><span class="sxs-lookup"><span data-stu-id="632cb-108">You are financially responsible for fraudulent purchases by your customers and/or customers' non-payment of purchased services.</span></span> <span data-ttu-id="632cb-109">Therefore, *we strongly recommend that you put in place fraud prevention and detection risk mitigation controls*.</span><span class="sxs-lookup"><span data-stu-id="632cb-109">Therefore, *we strongly recommend that you put in place fraud prevention and detection risk mitigation controls*.</span></span>
 
+<span data-ttu-id="632cb-110">不正行為や不正使用を回避したり、これらに対処するには、潜在的なリスクを理解して、リスクへの露出を軽減するためのポリシーとプラクティスを作成することが重要です。</span><span class="sxs-lookup"><span data-stu-id="632cb-110">To avoid and/or address fraudulent activity or misuse, it's important to understand potential risks and to develop policies and practices that can reduce your exposure.</span></span>
 
-<span data-ttu-id="3b213-108">パートナーは、顧客による不正購入や、購入サービスの料金未払いについて、金銭的な責任を負います。</span><span class="sxs-lookup"><span data-stu-id="3b213-108">You are financially responsible for fraudulent purchases by your customers and/or customers' non-payment of purchased services.</span></span> <span data-ttu-id="3b213-109">このため、詐欺の防止と発見およびリスク軽減に向けた対策を講じることをお勧めします。</span><span class="sxs-lookup"><span data-stu-id="3b213-109">Therefore, we strongly recommend that you put in place fraud prevention and detection risk mitigation controls.</span></span>
+## <a name="enforcement-of-microsoft-acceptable-use-policy"></a><span data-ttu-id="632cb-111">Enforcement of Microsoft Acceptable Use Policy</span><span class="sxs-lookup"><span data-stu-id="632cb-111">Enforcement of Microsoft Acceptable Use Policy</span></span>
 
-## <a name="types-of-online-risk"></a><span data-ttu-id="3b213-110">オンライン リスクの種類</span><span class="sxs-lookup"><span data-stu-id="3b213-110">Types of online risk</span></span>
+<span data-ttu-id="632cb-112">If Microsoft detects partner or customer activity that we confirm or suspect violates the Acceptable Use Policy, we will take enforcement steps.</span><span class="sxs-lookup"><span data-stu-id="632cb-112">If Microsoft detects partner or customer activity that we confirm or suspect violates the Acceptable Use Policy, we will take enforcement steps.</span></span> <span data-ttu-id="632cb-113">The customer could be immediately suspended.</span><span class="sxs-lookup"><span data-stu-id="632cb-113">The customer could be immediately suspended.</span></span> <span data-ttu-id="632cb-114">You'll be notified of enforcement actions or updated on your requests by Microsoft.</span><span class="sxs-lookup"><span data-stu-id="632cb-114">You'll be notified of enforcement actions or updated on your requests by Microsoft.</span></span>
 
-<span data-ttu-id="3b213-111">不正行為や不正使用を回避したり、これらに対処するには、潜在的なリスクを理解して、リスクへの露出を軽減するためのポリシーとプラクティスを作成することが重要です。</span><span class="sxs-lookup"><span data-stu-id="3b213-111">To avoid and/or address fraudulent activity or misuse, it's important to understand potential risks and to develop policies and practices that can reduce your exposure.</span></span>
+## <a name="abuse-of-service-risks"></a><span data-ttu-id="632cb-115">Abuse of service risks</span><span class="sxs-lookup"><span data-stu-id="632cb-115">Abuse of service risks</span></span>
 
-#### <a name="risk-exposure-to-be-mitigated"></a><span data-ttu-id="3b213-112">露出の軽減が必要なリスクの種類</span><span class="sxs-lookup"><span data-stu-id="3b213-112">Risk exposure to be mitigated</span></span>
+<span data-ttu-id="632cb-116">**Abuse of service** risks means customers who use cloud services in violation of Microsoft's Acceptable Use Policy.</span><span class="sxs-lookup"><span data-stu-id="632cb-116">**Abuse of service** risks means customers who use cloud services in violation of Microsoft's Acceptable Use Policy.</span></span>
 
-- <span data-ttu-id="3b213-113">**サービスの盗用**: 使用したサービスに対して顧客が料金を支払う意図がないこと。支払い方法の盗用、不正な請求情報の提供、未払い額の支払い不履行などの方法が使用されます。</span><span class="sxs-lookup"><span data-stu-id="3b213-113">**Theft of service** Customers who have no intention of paying for consumed services by using stolen payment instruments, providing false billing information, and/or defaulting on outstanding balances</span></span>
+### <a name="examples-of-abuse-of-service"></a><span data-ttu-id="632cb-117">Examples of abuse of service</span><span class="sxs-lookup"><span data-stu-id="632cb-117">Examples of abuse of service</span></span>
 
-- <span data-ttu-id="3b213-114">**サービスの不正行為**クラウドサービスを使用しているお客様は、マイクロソフトの許容される使用ポリシーに違反しています</span><span class="sxs-lookup"><span data-stu-id="3b213-114">**Abuse of service** Customers who use cloud services in violation of Microsoft's acceptable use policy</span></span>
+<span data-ttu-id="632cb-118">Examples of these violations of Microsoft's acceptable use policy can include:</span><span class="sxs-lookup"><span data-stu-id="632cb-118">Examples of these violations of Microsoft's acceptable use policy can include:</span></span>
 
-#### <a name="examples-of-possible-fraud-or-service-abuse"></a><span data-ttu-id="3b213-115">詐欺やサービス不正使用の例</span><span class="sxs-lookup"><span data-stu-id="3b213-115">Examples of possible fraud or service abuse</span></span>
-- <span data-ttu-id="3b213-116">スパム</span><span class="sxs-lookup"><span data-stu-id="3b213-116">Spamming</span></span>
-- <span data-ttu-id="3b213-117">ハッキング</span><span class="sxs-lookup"><span data-stu-id="3b213-117">Hacking</span></span>
-- <span data-ttu-id="3b213-118">DDOS 攻撃</span><span class="sxs-lookup"><span data-stu-id="3b213-118">DDOS attacks</span></span>
-- <span data-ttu-id="3b213-119">ビットコイン マイニング</span><span class="sxs-lookup"><span data-stu-id="3b213-119">Bitcoin mining</span></span>
-- <span data-ttu-id="3b213-120">マルウェアの配布</span><span class="sxs-lookup"><span data-stu-id="3b213-120">Malware distribution</span></span>
-- <span data-ttu-id="3b213-121">偽造されたサブスクリプションの再販</span><span class="sxs-lookup"><span data-stu-id="3b213-121">Resale of pirated subscriptions</span></span> 
+- <span data-ttu-id="632cb-119">スパム</span><span class="sxs-lookup"><span data-stu-id="632cb-119">Spamming</span></span>
+- <span data-ttu-id="632cb-120">ハッキング</span><span class="sxs-lookup"><span data-stu-id="632cb-120">Hacking</span></span>
+- <span data-ttu-id="632cb-121">Distributed denial-of-service (DDoS) attacks</span><span class="sxs-lookup"><span data-stu-id="632cb-121">Distributed denial-of-service (DDoS) attacks</span></span>
+- <span data-ttu-id="632cb-122">ビットコイン マイニング</span><span class="sxs-lookup"><span data-stu-id="632cb-122">Bitcoin mining</span></span>
+- <span data-ttu-id="632cb-123">マルウェアの配布</span><span class="sxs-lookup"><span data-stu-id="632cb-123">Malware distribution</span></span>
+- <span data-ttu-id="632cb-124">偽造されたサブスクリプションの再販</span><span class="sxs-lookup"><span data-stu-id="632cb-124">Resale of pirated subscriptions</span></span>
 
-#### <a name="examples-of-online-transaction-risk"></a><span data-ttu-id="3b213-122">オンライン トランザクション リスクの例</span><span class="sxs-lookup"><span data-stu-id="3b213-122">Examples of online transaction risk</span></span>
-- <span data-ttu-id="3b213-123">"クレジット カードが存在しない" トランザクション (対面で行わないトランザクションなど)</span><span class="sxs-lookup"><span data-stu-id="3b213-123">"Credit card not present" transactions, i.e., transactions do not occur in person</span></span>
-- <span data-ttu-id="3b213-124">ID の不正使用</span><span class="sxs-lookup"><span data-stu-id="3b213-124">Misrepresented identities</span></span>
-- <span data-ttu-id="3b213-125">サービスのプロビジョニングおよび使用が最初の支払い受領前に発生すること</span><span class="sxs-lookup"><span data-stu-id="3b213-125">Services provisioned and used before initial payment are received</span></span>
-- <span data-ttu-id="3b213-126">新興市場/オンライン詐欺のリスクが高い地域</span><span class="sxs-lookup"><span data-stu-id="3b213-126">Emerging markets/high-risk regions for online fraud</span></span>
-- <span data-ttu-id="3b213-127">不正目的でのアカウントの作成と購入の自動化</span><span class="sxs-lookup"><span data-stu-id="3b213-127">The ability for bad actors to automate account creation and purchasing</span></span>
+## <a name="theft-of-service-risks"></a><span data-ttu-id="632cb-125">Theft of service risks</span><span class="sxs-lookup"><span data-stu-id="632cb-125">Theft of service risks</span></span>
 
-## <a name="strategies-for-managing-online-risk"></a><span data-ttu-id="3b213-128">オンライン リスクの管理戦略</span><span class="sxs-lookup"><span data-stu-id="3b213-128">Strategies for managing online risk</span></span>
+<span data-ttu-id="632cb-126">**Theft of service** risks means customers who have no intention of paying for consumed services.</span><span class="sxs-lookup"><span data-stu-id="632cb-126">**Theft of service** risks means customers who have no intention of paying for consumed services.</span></span> <span data-ttu-id="632cb-127">This theft may involve using stolen payment instruments, providing false billing information, and/or defaulting on outstanding balances.</span><span class="sxs-lookup"><span data-stu-id="632cb-127">This theft may involve using stolen payment instruments, providing false billing information, and/or defaulting on outstanding balances.</span></span>
 
-<span data-ttu-id="3b213-129">これらの推奨事項は、顧客との関係のライフサイクル全体を通じて、オンライン トランザクション リスクにさらされる度合いを軽減するためのポリシーとプラクティスの作成に役立ちます。</span><span class="sxs-lookup"><span data-stu-id="3b213-129">These recommendations can help you develop policies and practices that can reduce your exposure to online transaction risk through the lifecycle of your relationships with your customers.</span></span>  
+### <a name="examples-of-service-theft"></a><span data-ttu-id="632cb-128">Examples of service theft</span><span class="sxs-lookup"><span data-stu-id="632cb-128">Examples of service theft</span></span>
 
-#### <a name="when-onboarding-new-customers"></a><span data-ttu-id="3b213-130">新規顧客のオンボード時</span><span class="sxs-lookup"><span data-stu-id="3b213-130">When onboarding new customers</span></span>
-- <span data-ttu-id="3b213-131">可能であれば直接的に顧客との関係を確立します (電話で連絡するなど)。</span><span class="sxs-lookup"><span data-stu-id="3b213-131">Establish personal relationships with customers when possible, e.g. contact by phone</span></span>
-- <span data-ttu-id="3b213-132">顧客の信用状態や経歴を確認するための良い方法 (信用調査所/企業調査会社など) を探します。</span><span class="sxs-lookup"><span data-stu-id="3b213-132">Look for better ways to verify customers' credentials & background (credit bureaus/business commercial report agencies)</span></span> 
-- <span data-ttu-id="3b213-133">ロボットによるアカウントの作成と購入のリスクを最小限に抑えるため、サインアップ中に SMS 検証を使用します。</span><span class="sxs-lookup"><span data-stu-id="3b213-133">Use SMS verification during sign-up to minimize exposure to robotic account creation and purchasing</span></span>
-- <span data-ttu-id="3b213-134">デジタル ID サービスなどのサービスを使用して ID 管理と追跡を行います。</span><span class="sxs-lookup"><span data-stu-id="3b213-134">Identity management and tracking using services such as digital identity services</span></span>
-- <span data-ttu-id="3b213-135">クレジット カード詐欺を厳密に検出するシステムを使用して、顧客の財務体質を確認します。</span><span class="sxs-lookup"><span data-stu-id="3b213-135">Rigorous credit card fraud detection systems to assess customer financial strength</span></span>
-- <span data-ttu-id="3b213-136">プロセスのコレクションを詳細に記述し、どのようなときにサブスクリプションへのアクセスに影響するかを示した明確なポリシーを作成します (未払いに対して、アクセスを無効にするか[顧客のサブスクリプションを一時停止する](suspend-a-subscription.md)ことができます)。</span><span class="sxs-lookup"><span data-stu-id="3b213-136">Establish a clear collections policy that details your collections process and when access to subscriptions will be impacted (you can disable access or [suspend a customer's subscriptions](suspend-a-subscription.md) for non-payment)</span></span>
+<span data-ttu-id="632cb-129">Examples of these online transaction risks can include:</span><span class="sxs-lookup"><span data-stu-id="632cb-129">Examples of these online transaction risks can include:</span></span>
 
-#### <a name="post-purchase-customer-account-management"></a><span data-ttu-id="3b213-137">購入後の顧客アカウント管理</span><span class="sxs-lookup"><span data-stu-id="3b213-137">Post-purchase customer account management</span></span>
-- <span data-ttu-id="3b213-138">顧客と連携して、クラウド利用のビジネス ニーズを理解し、適切な監視しきい値を設定します。</span><span class="sxs-lookup"><span data-stu-id="3b213-138">Work with customers to understand their cloud usage business needs while setting appropriate monitoring thresholds</span></span>
-    > [!NOTE]  
-    >  <span data-ttu-id="3b213-139">パートナー センターで [Azure の月額支出予算を設定](set-an-azure-spending-budget-for-your-customers.md)すると、顧客による月間使用量を監視し、顧客の支出が予算の上限に近づいた場合にメールで通知を受け取ることができます。</span><span class="sxs-lookup"><span data-stu-id="3b213-139">You can [set a monthly Azure spending budget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center to monitor customer usage during the month and be notified when customers are close to their budget.</span></span>
-- <span data-ttu-id="3b213-140">[顧客のアクティビティ ログ](activity-logs.md)を定期的に監視することにより、詐欺を早い段階で検出します。</span><span class="sxs-lookup"><span data-stu-id="3b213-140">Monitor [customer activity logs](activity-logs.md) regularly to help detect fraud early</span></span>
-- <span data-ttu-id="3b213-141">疑わしい活動が検出されたら、迅速にアクションを実行します。</span><span class="sxs-lookup"><span data-stu-id="3b213-141">Take quick action when suspicious activities are detected</span></span>
-- <span data-ttu-id="3b213-142">リスク軽減コントロールを実装する前に、サブスクリプションへの完全な管理アクセス権を顧客に設定しないでください。</span><span class="sxs-lookup"><span data-stu-id="3b213-142">Avoid giving customers full administrative access to subscriptions without first implementing risk mitigation controls</span></span>
-- <span data-ttu-id="3b213-143">Microsoft の通知を迅速に受信、確認、対応、応答するプロセスを実装します。</span><span class="sxs-lookup"><span data-stu-id="3b213-143">Implement a process to quickly receive, review, act on, and respond to Microsoft notifications</span></span>
+- <span data-ttu-id="632cb-130">Transactions that don't occur in person ("credit card not present" transactions)</span><span class="sxs-lookup"><span data-stu-id="632cb-130">Transactions that don't occur in person ("credit card not present" transactions)</span></span>
+- <span data-ttu-id="632cb-131">ID の不正使用</span><span class="sxs-lookup"><span data-stu-id="632cb-131">Misrepresented identities</span></span>
+- <span data-ttu-id="632cb-132">Services provisioned and used before initial payment is received</span><span class="sxs-lookup"><span data-stu-id="632cb-132">Services provisioned and used before initial payment is received</span></span>
+- <span data-ttu-id="632cb-133">Emerging markets and/or high-risk regions for online fraud</span><span class="sxs-lookup"><span data-stu-id="632cb-133">Emerging markets and/or high-risk regions for online fraud</span></span>
+- <span data-ttu-id="632cb-134">Automate account creation and purchasing by bad actors</span><span class="sxs-lookup"><span data-stu-id="632cb-134">Automate account creation and purchasing by bad actors</span></span>
 
-#### <a name="post-purchase-customer-billing-management"></a><span data-ttu-id="3b213-144">購入後の顧客請求管理</span><span class="sxs-lookup"><span data-stu-id="3b213-144">Post-purchase customer billing management</span></span>
-- <span data-ttu-id="3b213-145">最初のトランザクションおよび請求の前に、前払いを要求します。</span><span class="sxs-lookup"><span data-stu-id="3b213-145">Request pre-payments prior to initial transactions and billing</span></span> 
-- <span data-ttu-id="3b213-146">プリペイド カードやストアド バリュー カードなど、高リスクの支払い方法は受け入れないでください。</span><span class="sxs-lookup"><span data-stu-id="3b213-146">Don't accept high-risk payment instruments, e.g. pre-paid or stored-value cards</span></span>
-- <span data-ttu-id="3b213-147">顧客の支払い状況と未払い金を監視し、遅延や未払いについては、標準化された督促手順を積極的に適用します。</span><span class="sxs-lookup"><span data-stu-id="3b213-147">Monitor customer payments and aging accounts receivables and aggressively enforce standardized dunning processes for late or non-payment</span></span>
+## <a name="managing-online-risk"></a><span data-ttu-id="632cb-135">Managing online risk</span><span class="sxs-lookup"><span data-stu-id="632cb-135">Managing online risk</span></span>
 
-<span data-ttu-id="3b213-148">オンライン リスクを軽減するための詳しい方法については、[オンライン トランザクション リスクの管理ガイド](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="3b213-148">For more detailed strategies for mitigating online risk, see the [Online transaction risk management guide.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)</span></span>
+<span data-ttu-id="632cb-136">You can use the following recommendations to help you develop policies and practices to reduce your exposure to online transaction risks in the lifecycle of your customer relationships.</span><span class="sxs-lookup"><span data-stu-id="632cb-136">You can use the following recommendations to help you develop policies and practices to reduce your exposure to online transaction risks in the lifecycle of your customer relationships.</span></span>
 
-> [!IMPORTANT]  
-> <span data-ttu-id="3b213-149">パートナーまたは顧客の活動が利用規約に違反していると Microsoft によって確認された場合または違反の疑いが検出された場合は、強制手順が実施されます。</span><span class="sxs-lookup"><span data-stu-id="3b213-149">If Microsoft detects partner or customer activity that we confirm or suspect violates the Acceptable Use policy, we will take enforcement steps.</span></span> <span data-ttu-id="3b213-150">お客様はすぐに中断され、Microsoft から貴社に強制措置について通知するか、要求が更新されます。</span><span class="sxs-lookup"><span data-stu-id="3b213-150">The customer could be immediately suspended, and you'll be notified of enforcement actions or updated on your requests by Microsoft.</span></span>
+### <a name="onboarding-new-customers"></a><span data-ttu-id="632cb-137">Onboarding new customers</span><span class="sxs-lookup"><span data-stu-id="632cb-137">Onboarding new customers</span></span>
 
- <span data-ttu-id="3b213-151">セキュリティと multi-factor authentication の詳細については、「[パートナーのセキュリティ要件](partner-security-requirements.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="3b213-151">For information on security and multi-factor authentication, read [Partner security requirements](partner-security-requirements.md)</span></span>
+<span data-ttu-id="632cb-138">Suggestions for reducing online risks when onboarding new customers include:</span><span class="sxs-lookup"><span data-stu-id="632cb-138">Suggestions for reducing online risks when onboarding new customers include:</span></span>
 
- 
+- <span data-ttu-id="632cb-139">Establish personal relationships with customers when possible (for example, contacting customers by phone).</span><span class="sxs-lookup"><span data-stu-id="632cb-139">Establish personal relationships with customers when possible (for example, contacting customers by phone).</span></span>
+- <span data-ttu-id="632cb-140">Verify customers' credentials and background through better methods (such as using credit bureaus or business commercial report agencies).</span><span class="sxs-lookup"><span data-stu-id="632cb-140">Verify customers' credentials and background through better methods (such as using credit bureaus or business commercial report agencies).</span></span>
+- <span data-ttu-id="632cb-141">Use multi-factor authentication (such as SMS verification) during sign-up to minimize exposure to robotic account creationg and purchasing.</span><span class="sxs-lookup"><span data-stu-id="632cb-141">Use multi-factor authentication (such as SMS verification) during sign-up to minimize exposure to robotic account creationg and purchasing.</span></span>
+- <span data-ttu-id="632cb-142">Manage and track identities using services (such as digital identity services).</span><span class="sxs-lookup"><span data-stu-id="632cb-142">Manage and track identities using services (such as digital identity services).</span></span>
+- <span data-ttu-id="632cb-143">Assess customer financial strength through rigorous credit card fraud detection systems.</span><span class="sxs-lookup"><span data-stu-id="632cb-143">Assess customer financial strength through rigorous credit card fraud detection systems.</span></span>
+- <span data-ttu-id="632cb-144">Establish a clear collections policy.</span><span class="sxs-lookup"><span data-stu-id="632cb-144">Establish a clear collections policy.</span></span> <span data-ttu-id="632cb-145">Detail your collections process and when access to subscriptions will be impacted by non-payment.</span><span class="sxs-lookup"><span data-stu-id="632cb-145">Detail your collections process and when access to subscriptions will be impacted by non-payment.</span></span> <span data-ttu-id="632cb-146">(You can disable access or [suspend a customer's subscriptions](suspend-a-subscription.md) for non-payment.)</span><span class="sxs-lookup"><span data-stu-id="632cb-146">(You can disable access or [suspend a customer's subscriptions](suspend-a-subscription.md) for non-payment.)</span></span>
 
+### <a name="managing-customer-accounts"></a><span data-ttu-id="632cb-147">Managing customer accounts</span><span class="sxs-lookup"><span data-stu-id="632cb-147">Managing customer accounts</span></span>
 
+<span data-ttu-id="632cb-148">Suggestions for managing customer accounts post-purchase include:</span><span class="sxs-lookup"><span data-stu-id="632cb-148">Suggestions for managing customer accounts post-purchase include:</span></span>
 
+- <span data-ttu-id="632cb-149">Implement a process to quickly receive, review, act on, and respond to Microsoft notifications.</span><span class="sxs-lookup"><span data-stu-id="632cb-149">Implement a process to quickly receive, review, act on, and respond to Microsoft notifications.</span></span>
+- <span data-ttu-id="632cb-150">Work with customers to understand their cloud usage business needs while settings appropriate monitoring thresholds.</span><span class="sxs-lookup"><span data-stu-id="632cb-150">Work with customers to understand their cloud usage business needs while settings appropriate monitoring thresholds.</span></span> <span data-ttu-id="632cb-151">(For example, you can [set a monthly Azure spending budget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="632cb-151">(For example, you can [set a monthly Azure spending budget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center.</span></span> <span data-ttu-id="632cb-152">This allows you to monitor customer usage during the month and be notified when customers are close to their budget.)</span><span class="sxs-lookup"><span data-stu-id="632cb-152">This allows you to monitor customer usage during the month and be notified when customers are close to their budget.)</span></span>
+- <span data-ttu-id="632cb-153">Monitor [customer activity logs](activity-logs.md) regularly to help detect fraud early.</span><span class="sxs-lookup"><span data-stu-id="632cb-153">Monitor [customer activity logs](activity-logs.md) regularly to help detect fraud early.</span></span>
+- <span data-ttu-id="632cb-154">Take quick action when suspicious activities are detected.</span><span class="sxs-lookup"><span data-stu-id="632cb-154">Take quick action when suspicious activities are detected.</span></span>
+- <span data-ttu-id="632cb-155">Avoid giving customers full administrative access to subscriptions without first implementing risk mitigation controls.</span><span class="sxs-lookup"><span data-stu-id="632cb-155">Avoid giving customers full administrative access to subscriptions without first implementing risk mitigation controls.</span></span>
+
+### <a name="managing-customer-billing"></a><span data-ttu-id="632cb-156">Managing customer billing</span><span class="sxs-lookup"><span data-stu-id="632cb-156">Managing customer billing</span></span>
+
+<span data-ttu-id="632cb-157">Suggestions for managing customer billing post-purchase include:</span><span class="sxs-lookup"><span data-stu-id="632cb-157">Suggestions for managing customer billing post-purchase include:</span></span>
+
+- <span data-ttu-id="632cb-158">Request prepayments prior to initial transactions and billing .</span><span class="sxs-lookup"><span data-stu-id="632cb-158">Request prepayments prior to initial transactions and billing .</span></span>
+- <span data-ttu-id="632cb-159">Don't accept high-risk payment instruments (such as pre-paid cards or stored-value cards).</span><span class="sxs-lookup"><span data-stu-id="632cb-159">Don't accept high-risk payment instruments (such as pre-paid cards or stored-value cards).</span></span>
+- <span data-ttu-id="632cb-160">Monitor customer payments and aging accounts receivables.</span><span class="sxs-lookup"><span data-stu-id="632cb-160">Monitor customer payments and aging accounts receivables.</span></span> <span data-ttu-id="632cb-161">Aggressively enforce standardized dunning processes for late payments or non-payment.</span><span class="sxs-lookup"><span data-stu-id="632cb-161">Aggressively enforce standardized dunning processes for late payments or non-payment.</span></span>
+
+<span data-ttu-id="632cb-162">オンライン リスクを軽減するための詳しい方法については、[オンライン トランザクション リスクの管理ガイド](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="632cb-162">For more detailed strategies for mitigating online risk, see the [Online transaction risk management guide.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)</span></span>

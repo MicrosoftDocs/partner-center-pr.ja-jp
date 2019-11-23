@@ -1,78 +1,115 @@
 ---
-title: 源泉徴収税のご購入をご確認ください。パートナーセンター
+title: Make sure you are credited for withholding tax | Partner Center
 ms.topic: article
-ms.date: 05/28/2019
+ms.date: 11/07/2019
+description: How to make sure your Partner Center account is credited for withholding tax.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: サービスリクエストを開くには、源泉徴収税のクレジットフォームと源泉徴収税証明書の両方が必要です。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
-keywords: 源泉徴収税クレジット、課税クレジット、ドイツの課税クレジットフォーム、納税クレジット
+keywords: withholding tax credit, tax credits, german tax credit form, form tax credit
 ms.localizationpriority: medium
-ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f25c570f8a71a261e815891545acf48e0a8fe08
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653944"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384864"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a><span data-ttu-id="90bd5-104">源泉徴収税の貸方をご確認ください</span><span class="sxs-lookup"><span data-stu-id="90bd5-104">Make sure you are credited for withholding tax</span></span>
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a><span data-ttu-id="35c07-104">Make sure you are credited for withholding tax</span><span class="sxs-lookup"><span data-stu-id="35c07-104">Make sure you are credited for withholding tax</span></span>
 
->[!Note]
-><span data-ttu-id="90bd5-105">このトピックでは、グローバルな源泉徴収税フォームまたはドイツの源泉徴収税フォームを使用してサービス要求を開く方法について説明します。</span><span class="sxs-lookup"><span data-stu-id="90bd5-105">This topic covers how to open a service request using the global withholding tax form or the withholding tax form for Germany.</span></span>
+<span data-ttu-id="35c07-105">適用対象:</span><span class="sxs-lookup"><span data-stu-id="35c07-105">Applies to:</span></span>
 
-<span data-ttu-id="90bd5-106">お客様のアカウントに源泉徴収税の支払いを行うためには、源泉徴収税のクレジットフォームを完成させる必要があります。</span><span class="sxs-lookup"><span data-stu-id="90bd5-106">In order for your account to be credited for withholding tax, you need to complete the withholding tax credit form.</span></span> <span data-ttu-id="90bd5-107">このフォームは、microsoft に請求書を提供し、Microsoft に支払われた金額、源泉徴収税の金額、源泉徴収税の割合、支払いの種類、および Microsoft 以外の場合に支払われた会社を提供します。</span><span class="sxs-lookup"><span data-stu-id="90bd5-107">The form provides Microsoft with the invoice, amount paid to Microsoft, withholding tax amount, withholding tax percentage, the type of payment, and the company which was paid if other than Microsoft.</span></span>  
+- <span data-ttu-id="35c07-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="35c07-106">Partner Center</span></span>
 
-## <a name="global-withholding-tax-credit-form"></a><span data-ttu-id="90bd5-108">グローバル源泉徴収税のクレジットフォーム</span><span class="sxs-lookup"><span data-stu-id="90bd5-108">Global withholding tax credit form</span></span>
+<span data-ttu-id="35c07-107">This topic explains how to make sure that you are credited for withholding tax in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="35c07-107">This topic explains how to make sure that you are credited for withholding tax in Partner Center.</span></span> <span data-ttu-id="35c07-108">It explains how to open a service request using the global withholding tax form or the withholding tax form for Germany.</span><span class="sxs-lookup"><span data-stu-id="35c07-108">It explains how to open a service request using the global withholding tax form or the withholding tax form for Germany.</span></span>
 
-<span data-ttu-id="90bd5-109">この[フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311)に完全に記入し、パートナーセンターで要求を送信するときに、お客様の現地税機関から受け取った源泉徴収税証明書のデジタルコピーと一緒に含めます。</span><span class="sxs-lookup"><span data-stu-id="90bd5-109">Fill out this [form](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) completely and include it along with the digital copy of your Withholding Tax Certificate which you received from your local tax agency when you submit your request in Partner Center.</span></span>
->[!IMPORTANT]
-><span data-ttu-id="90bd5-110">源泉徴収税証明書の合計は、源泉徴収税のクレジットフォームのサポート詳細と一致している必要があります。</span><span class="sxs-lookup"><span data-stu-id="90bd5-110">The total in the withholding tax certificate must match the supporting detail in the withholding tax credit form.</span></span> <span data-ttu-id="90bd5-111">このフォームが源泉徴収税証明書のデジタルコピーと共に提供されない限り、お客様のアカウントにはご連絡いたしません。</span><span class="sxs-lookup"><span data-stu-id="90bd5-111">Your account will not be credited unless we receive this form along with the digital copy of withholding tax certificate.</span></span>
+> [!IMPORTANT]
+> <span data-ttu-id="35c07-109">Microsoft must receive your **withholding tax credit form** and a copy of your **withholding tax certificate** for your account to be credited for withholding tax.</span><span class="sxs-lookup"><span data-stu-id="35c07-109">Microsoft must receive your **withholding tax credit form** and a copy of your **withholding tax certificate** for your account to be credited for withholding tax.</span></span>
 
-### <a name="before-opening-the-service-request"></a><span data-ttu-id="90bd5-112">サービス要求を開く前に:</span><span class="sxs-lookup"><span data-stu-id="90bd5-112">Before opening the service request:</span></span>
+## <a name="withholding-tax-credit-form"></a><span data-ttu-id="35c07-110">Withholding tax credit form</span><span class="sxs-lookup"><span data-stu-id="35c07-110">Withholding tax credit form</span></span>
 
-- <span data-ttu-id="90bd5-113">フォームに会社名と国、源泉徴収税証明書番号、およびフォームが署名されていて、正確な形式であることを確認します。</span><span class="sxs-lookup"><span data-stu-id="90bd5-113">Ensure the form includes your company name and country, the withholding tax certificate number, and the form is signed and dated accurately.</span></span> <span data-ttu-id="90bd5-114">ここでは、[ドイツ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)および[その他のすべての国](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311)のクレジットの形式について説明します。</span><span class="sxs-lookup"><span data-stu-id="90bd5-114">Here are the tax credit forms: For [Germany](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) and [All other countries](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).</span></span>
+- <span data-ttu-id="35c07-111">Ensure the form includes your company name and country, the withholding tax certificate number, and the form is signed and dated accurately.</span><span class="sxs-lookup"><span data-stu-id="35c07-111">Ensure the form includes your company name and country, the withholding tax certificate number, and the form is signed and dated accurately.</span></span> <span data-ttu-id="35c07-112">Here are the tax credit forms: For [Germany](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) and [All other countries](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).</span><span class="sxs-lookup"><span data-stu-id="35c07-112">Here are the tax credit forms: For [Germany](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) and [All other countries](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).</span></span>
 
-- <span data-ttu-id="90bd5-115">現地の税機関情報に基づいて、適切な源泉徴収税額% を正確に記録します。</span><span class="sxs-lookup"><span data-stu-id="90bd5-115">Accurately record the proper withholding tax amount % based on your local tax authority information.</span></span>
+<span data-ttu-id="35c07-113">The withholding tax credit form provides Microsoft with the following information:</span><span class="sxs-lookup"><span data-stu-id="35c07-113">The withholding tax credit form provides Microsoft with the following information:</span></span>
 
-- <span data-ttu-id="90bd5-116">課税クレジットフォームの合計金額が、送信する請求書の合計と一致していることを確認してください。</span><span class="sxs-lookup"><span data-stu-id="90bd5-116">Be sure the total amount on the tax credit form matches the totals from the invoices you are submitting.</span></span> 
+- <span data-ttu-id="35c07-114">Invoice(s)</span><span class="sxs-lookup"><span data-stu-id="35c07-114">Invoice(s)</span></span>
+- <span data-ttu-id="35c07-115">Amount paid to Microsoft</span><span class="sxs-lookup"><span data-stu-id="35c07-115">Amount paid to Microsoft</span></span>
+- <span data-ttu-id="35c07-116">源泉徴収税額</span><span class="sxs-lookup"><span data-stu-id="35c07-116">Withholding tax amount</span></span>
+- <span data-ttu-id="35c07-117">Withholding tax percentage</span><span class="sxs-lookup"><span data-stu-id="35c07-117">Withholding tax percentage</span></span>
+- <span data-ttu-id="35c07-118">Type of payment</span><span class="sxs-lookup"><span data-stu-id="35c07-118">Type of payment</span></span>
+- <span data-ttu-id="35c07-119">Company that was paid (if other than Microsoft)</span><span class="sxs-lookup"><span data-stu-id="35c07-119">Company that was paid (if other than Microsoft)</span></span>
 
-- <span data-ttu-id="90bd5-117">この情報の準備ができたら、サービス要求を作成します。</span><span class="sxs-lookup"><span data-stu-id="90bd5-117">Once you have this information ready, create the service request.</span></span>
+- <span data-ttu-id="35c07-120">Once you have this information ready, create the service request.</span><span class="sxs-lookup"><span data-stu-id="35c07-120">Once you have this information ready, create the service request.</span></span>
 
-## <a name="cloud-solution-provider-partners"></a><span data-ttu-id="90bd5-118">クラウドソリューションプロバイダーパートナー</span><span class="sxs-lookup"><span data-stu-id="90bd5-118">Cloud Solution Provider partners</span></span>
+<span data-ttu-id="35c07-121">You'll need to fill out your **withholding tax credit form** before creating your support request.</span><span class="sxs-lookup"><span data-stu-id="35c07-121">You'll need to fill out your **withholding tax credit form** before creating your support request.</span></span> <span data-ttu-id="35c07-122">You will include this form with your support request.</span><span class="sxs-lookup"><span data-stu-id="35c07-122">You will include this form with your support request.</span></span>
 
->[!Note]
-><span data-ttu-id="90bd5-119">この情報は、直接請求パートナーと間接プロバイダーに対してのみ使用されます。</span><span class="sxs-lookup"><span data-stu-id="90bd5-119">This information is for direct bill partners and indirect providers only.</span></span> <span data-ttu-id="90bd5-120">間接リセラーは間接プロバイダーを通じて作業する必要があります。</span><span class="sxs-lookup"><span data-stu-id="90bd5-120">Indirect resellers should work through their indirect providers.</span></span>
+<span data-ttu-id="35c07-123">Fill out the appropriate form for your country or region:</span><span class="sxs-lookup"><span data-stu-id="35c07-123">Fill out the appropriate form for your country or region:</span></span>
 
-### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a><span data-ttu-id="90bd5-121">税務信用のフォームと証明書を送信する方法</span><span class="sxs-lookup"><span data-stu-id="90bd5-121">How to submit the tax credit form and the certificates</span></span>
+- <span data-ttu-id="35c07-124">[**Global withholding tax credit form**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (all countries, excluding Germany)</span><span class="sxs-lookup"><span data-stu-id="35c07-124">[**Global withholding tax credit form**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (all countries, excluding Germany)</span></span>
+- [<span data-ttu-id="35c07-125">**Germany withholding tax credit form**</span><span class="sxs-lookup"><span data-stu-id="35c07-125">**Germany withholding tax credit form**</span></span>](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)
 
-1. <span data-ttu-id="90bd5-122">パートナーセンターで、ダッシュボードのアップ pまたは右上隅にある**疑問符** **(?)** を選択します。</span><span class="sxs-lookup"><span data-stu-id="90bd5-122">Select the **question mark** **(?)** in the uppor right corner of your dashboard in Partner Center.</span></span>
+<span data-ttu-id="35c07-126">Make sure that your form is accurate before submitting it to Microsoft:</span><span class="sxs-lookup"><span data-stu-id="35c07-126">Make sure that your form is accurate before submitting it to Microsoft:</span></span>
 
-2. <span data-ttu-id="90bd5-123">**CSP**を選択します。</span><span class="sxs-lookup"><span data-stu-id="90bd5-123">Select **CSP**.</span></span>
+1. <span data-ttu-id="35c07-127">Select the **question mark** **(?)** in the uppor right corner of your dashboard in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="35c07-127">Select the **question mark** **(?)** in the uppor right corner of your dashboard in Partner Center.</span></span>
 
-3. <span data-ttu-id="90bd5-124">**[CSP-請求と支払い]** で、問題の種類- **[源泉徴収税]** を選択し、[**はい]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="90bd5-124">Under **CSP - billing and payments**, select the issue type - **Withholding tax** and select **Yes**.</span></span> 
+2. <span data-ttu-id="35c07-128">Select **CSP**.</span><span class="sxs-lookup"><span data-stu-id="35c07-128">Select **CSP**.</span></span>
 
-4. <span data-ttu-id="90bd5-125">サービスリクエストを送信する場合は、税証明書の税クレジットフォームとデジタルコピーを必ず添付してください。</span><span class="sxs-lookup"><span data-stu-id="90bd5-125">When you submit the service request be sure to attach the tax credit form and digital copies of the tax certificates.</span></span>
+3. <span data-ttu-id="35c07-129">Under **CSP - billing and payments**, select the issue type - **Withholding tax** and select **Yes**.</span><span class="sxs-lookup"><span data-stu-id="35c07-129">Under **CSP - billing and payments**, select the issue type - **Withholding tax** and select **Yes**.</span></span> 
 
-5. <span data-ttu-id="90bd5-126">英語版のサービス要求を使用して英語以外の税証明書を送信する場合は、税証明書の翻訳が必要です。</span><span class="sxs-lookup"><span data-stu-id="90bd5-126">If you are submitting a non-English tax certificate via an English service request, a translation of the tax certificate is required.</span></span>
+4. <span data-ttu-id="35c07-130">When you submit the service request be sure to attach the tax credit form and digital copies of the tax certificates.</span><span class="sxs-lookup"><span data-stu-id="35c07-130">When you submit the service request be sure to attach the tax credit form and digital copies of the tax certificates.</span></span>
 
-6. <span data-ttu-id="90bd5-127">電子メールまたは電話で直接お問い合わせいたします。</span><span class="sxs-lookup"><span data-stu-id="90bd5-127">We will contact you directly by email or phone.</span></span>
+5. <span data-ttu-id="35c07-131">If you are submitting a non-English tax certificate via an English service request, a translation of the tax certificate is required.</span><span class="sxs-lookup"><span data-stu-id="35c07-131">If you are submitting a non-English tax certificate via an English service request, a translation of the tax certificate is required.</span></span>
 
-<span data-ttu-id="90bd5-128">**請求-支払い支払い**方法を使用すると、税金証明書が正常に受信され、検証されると、請求書の残り残高は約1週間でクリアされます。</span><span class="sxs-lookup"><span data-stu-id="90bd5-128">Using the **invoice-pay payment** method, once tax certificates are received and validated successfully, the remaining balance on your invoice will clear in approximately one week.</span></span> 
+6. <span data-ttu-id="35c07-132">We will contact you directly by email or phone.</span><span class="sxs-lookup"><span data-stu-id="35c07-132">We will contact you directly by email or phone.</span></span>
 
-<span data-ttu-id="90bd5-129">税証明書は、Microsoft の請求書に対してのみ使用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="90bd5-129">The tax certificates should be for Microsoft invoices only.</span></span> <span data-ttu-id="90bd5-130">証明書に他の会社が含まれている場合は、内部処理で除外できるように金額を指定してください。ただし、証明書の総数を完全に把握できます。</span><span class="sxs-lookup"><span data-stu-id="90bd5-130">If there are other companies included in the certificates, please specify the amount so that we can exclude it in our internal processing, but still have full visibility to what the total certificates include.</span></span> 
+- <span data-ttu-id="35c07-133">Include your **company name** and **country** on the form.</span><span class="sxs-lookup"><span data-stu-id="35c07-133">Include your **company name** and **country** on the form.</span></span>
+- <span data-ttu-id="35c07-134">Accurate **sign** and **date** the form.</span><span class="sxs-lookup"><span data-stu-id="35c07-134">Accurate **sign** and **date** the form.</span></span>
+- <span data-ttu-id="35c07-135">Record the proper **withholding tax amount percentage** on the form, based on your local tax authority's information.</span><span class="sxs-lookup"><span data-stu-id="35c07-135">Record the proper **withholding tax amount percentage** on the form, based on your local tax authority's information.</span></span>
+- <span data-ttu-id="35c07-136">Make sure that the **total amount** on the form matches the totals from the invoices you are submitting.</span><span class="sxs-lookup"><span data-stu-id="35c07-136">Make sure that the **total amount** on the form matches the totals from the invoices you are submitting.</span></span>
 
-## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a><span data-ttu-id="90bd5-131">ドイツの源泉徴収税クレジットフォームを完成させる手順</span><span class="sxs-lookup"><span data-stu-id="90bd5-131">Instructions for completing the withholding tax credit form for Germany</span></span>
+## <a name="include-withholding-tax-certificates"></a><span data-ttu-id="35c07-137">Include withholding tax certificates</span><span class="sxs-lookup"><span data-stu-id="35c07-137">Include withholding tax certificates</span></span>
 
-<span data-ttu-id="90bd5-132">[源泉徴収税のクレジットフォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)を完全に入力し、パートナーセンターまたは Azure/O365/CRM/Intune ポータルで要求の送信時に、源泉徴収税証明書のスキャンしたコピーと共に送信します。</span><span class="sxs-lookup"><span data-stu-id="90bd5-132">Fill out the [withholding tax credit form](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) completely and send it along with the scanned copy of the Withholding Tax Certificate upon submission of your request in Partner Center or your Azure/O365/CRM/Intune Portal.</span></span> 
+<span data-ttu-id="35c07-138">The tax certificates should be for Microsoft invoices only.</span><span class="sxs-lookup"><span data-stu-id="35c07-138">The tax certificates should be for Microsoft invoices only.</span></span> <span data-ttu-id="35c07-139">If there are other companies included in the certificates, please specify the amount so that we can exclude it in our internal processing, but still have full visibility to what the total certificates include.</span><span class="sxs-lookup"><span data-stu-id="35c07-139">If there are other companies included in the certificates, please specify the amount so that we can exclude it in our internal processing, but still have full visibility to what the total certificates include.</span></span> 
 
-<span data-ttu-id="90bd5-133">さらに、次のように、源泉徴収税証明書のハードコピーをメールで送信します。</span><span class="sxs-lookup"><span data-stu-id="90bd5-133">In addition, mail the hardcopies of the withholding tax certificates to:</span></span>
+<span data-ttu-id="35c07-140">You'll need to include a **digital copy** of your **withholding tax certificates** along with your support request.</span><span class="sxs-lookup"><span data-stu-id="35c07-140">You'll need to include a **digital copy** of your **withholding tax certificates** along with your support request.</span></span> <span data-ttu-id="35c07-141">You received this certificate from your local tax agency when you submitted your request in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="35c07-141">You received this certificate from your local tax agency when you submitted your request in Partner Center.</span></span>
 
-<span data-ttu-id="90bd5-134">ATTN: EOC 税務チーム Marianne</span><span class="sxs-lookup"><span data-stu-id="90bd5-134">ATTN: EOC Tax Team Marianne Gannon</span></span>
+<span data-ttu-id="35c07-142">The total in the withholding tax certificate must match the supporting detail in the withholding tax credit form.</span><span class="sxs-lookup"><span data-stu-id="35c07-142">The total in the withholding tax certificate must match the supporting detail in the withholding tax credit form.</span></span>
 
-<span data-ttu-id="90bd5-135">Microsoft EMEA 操作センター</span><span class="sxs-lookup"><span data-stu-id="90bd5-135">Microsoft EMEA Operations Centre</span></span>
+<span data-ttu-id="35c07-143">Fill out the [withholding tax credit form](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) completely and send it along with the scanned copy of the Withholding Tax Certificate upon submission of your request in Partner Center or your Azure/O365/CRM/Intune Portal.</span><span class="sxs-lookup"><span data-stu-id="35c07-143">Fill out the [withholding tax credit form](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) completely and send it along with the scanned copy of the Withholding Tax Certificate upon submission of your request in Partner Center or your Azure/O365/CRM/Intune Portal.</span></span> 
 
-<span data-ttu-id="90bd5-136">1つの Microsoft place、南郡のビジネスパーク</span><span class="sxs-lookup"><span data-stu-id="90bd5-136">One Microsoft place, South County Business Park</span></span>
+<span data-ttu-id="35c07-144">If you are submitting a **non-English language tax certificate** through an **English language service request**, you must include a **translation** of the tax certificate.</span><span class="sxs-lookup"><span data-stu-id="35c07-144">If you are submitting a **non-English language tax certificate** through an **English language service request**, you must include a **translation** of the tax certificate.</span></span>
 
-<span data-ttu-id="90bd5-137">Leopardstown、ダブリン18、アイルランド</span><span class="sxs-lookup"><span data-stu-id="90bd5-137">Leopardstown, Dublin 18, Ireland</span></span>
+<span data-ttu-id="35c07-145">The tax certificates should be for **Microsoft invoices only**.</span><span class="sxs-lookup"><span data-stu-id="35c07-145">The tax certificates should be for **Microsoft invoices only**.</span></span> <span data-ttu-id="35c07-146">If you have **other companies** that the certificates include, specify the amount such that we can exclude the amount in our internal processing, but still have full visibility to what the total certificates include.</span><span class="sxs-lookup"><span data-stu-id="35c07-146">If you have **other companies** that the certificates include, specify the amount such that we can exclude the amount in our internal processing, but still have full visibility to what the total certificates include.</span></span>
+
+## <a name="create-a-service-request"></a><span data-ttu-id="35c07-147">Create a service request</span><span class="sxs-lookup"><span data-stu-id="35c07-147">Create a service request</span></span>
+
+<span data-ttu-id="35c07-148">The following information applies *only* to partners in the **Cloud Solution Provider (CSP) program**.</span><span class="sxs-lookup"><span data-stu-id="35c07-148">The following information applies *only* to partners in the **Cloud Solution Provider (CSP) program**.</span></span> <span data-ttu-id="35c07-149">These include only **direct bill partners** and **indirect providers**.</span><span class="sxs-lookup"><span data-stu-id="35c07-149">These include only **direct bill partners** and **indirect providers**.</span></span> <span data-ttu-id="35c07-150">**Indirect resellers** must work with their **indirect providers** instead.</span><span class="sxs-lookup"><span data-stu-id="35c07-150">**Indirect resellers** must work with their **indirect providers** instead.</span></span>
+
+1. <span data-ttu-id="35c07-151">Sign in to the dashboard in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="35c07-151">Sign in to the dashboard in Partner Center.</span></span>
+2. <span data-ttu-id="35c07-152">On the left-hand menu in the dashboard, choose **Support**, then select **Partner support requests**.</span><span class="sxs-lookup"><span data-stu-id="35c07-152">On the left-hand menu in the dashboard, choose **Support**, then select **Partner support requests**.</span></span>
+3. <span data-ttu-id="35c07-153">Choose **New request**.</span><span class="sxs-lookup"><span data-stu-id="35c07-153">Choose **New request**.</span></span>
+4. <span data-ttu-id="35c07-154">On the **Start the request** page, under **CSP - billing and payments**, choose **Select an issue type**.</span><span class="sxs-lookup"><span data-stu-id="35c07-154">On the **Start the request** page, under **CSP - billing and payments**, choose **Select an issue type**.</span></span> <span data-ttu-id="35c07-155">Select **withholding tax** as your issue type.</span><span class="sxs-lookup"><span data-stu-id="35c07-155">Select **withholding tax** as your issue type.</span></span>
+5. <span data-ttu-id="35c07-156">On the **Recommended solutions** page, review the information.</span><span class="sxs-lookup"><span data-stu-id="35c07-156">On the **Recommended solutions** page, review the information.</span></span> <span data-ttu-id="35c07-157">Then, under **Do you need more help?** , choose **Yes**.</span><span class="sxs-lookup"><span data-stu-id="35c07-157">Then, under **Do you need more help?**, choose **Yes**.</span></span>
+6. <span data-ttu-id="35c07-158">On the **Details** page, fill out all required fields under **Issue details**.</span><span class="sxs-lookup"><span data-stu-id="35c07-158">On the **Details** page, fill out all required fields under **Issue details**.</span></span>
+7. <span data-ttu-id="35c07-159">Upload your [**withholding tax credit form**](#withholding-tax-credit-form) using the last field in the form.</span><span class="sxs-lookup"><span data-stu-id="35c07-159">Upload your [**withholding tax credit form**](#withholding-tax-credit-form) using the last field in the form.</span></span>
+8. <span data-ttu-id="35c07-160">Upload your [**withholding tax certificate**](#include-withholding-tax-certificates) and, if applicable, a translation of the certificate.</span><span class="sxs-lookup"><span data-stu-id="35c07-160">Upload your [**withholding tax certificate**](#include-withholding-tax-certificates) and, if applicable, a translation of the certificate.</span></span>
+9. <span data-ttu-id="35c07-161">Choose **Submit** to send in your support request.</span><span class="sxs-lookup"><span data-stu-id="35c07-161">Choose **Submit** to send in your support request.</span></span> <span data-ttu-id="35c07-162">Microsoft will then contact you directly by email or phone.</span><span class="sxs-lookup"><span data-stu-id="35c07-162">Microsoft will then contact you directly by email or phone.</span></span> 
+10. <span data-ttu-id="35c07-163">If you are in **Germany**, see [special instructions for Germany](#germany-tax-withholding) to mail in mandatory **hard copies** of your withholding tax certificate.</span><span class="sxs-lookup"><span data-stu-id="35c07-163">If you are in **Germany**, see [special instructions for Germany](#germany-tax-withholding) to mail in mandatory **hard copies** of your withholding tax certificate.</span></span>
+
+<span data-ttu-id="35c07-164">Using the **invoice-pay payment** method, once tax certificates are received and validated successfully, the remaining balance on your invoice will clear in approximately one week.</span><span class="sxs-lookup"><span data-stu-id="35c07-164">Using the **invoice-pay payment** method, once tax certificates are received and validated successfully, the remaining balance on your invoice will clear in approximately one week.</span></span>
+
+<span data-ttu-id="35c07-165">After your tax certificates are received and validated successfully by Microsoft, use the **invoice-pay payment** method.</span><span class="sxs-lookup"><span data-stu-id="35c07-165">After your tax certificates are received and validated successfully by Microsoft, use the **invoice-pay payment** method.</span></span> <span data-ttu-id="35c07-166">The remaining balance on your invoice will clear in approximately one week.</span><span class="sxs-lookup"><span data-stu-id="35c07-166">The remaining balance on your invoice will clear in approximately one week.</span></span>
+
+## <a name="germany-tax-withholding"></a><span data-ttu-id="35c07-167">Germany tax withholding</span><span class="sxs-lookup"><span data-stu-id="35c07-167">Germany tax withholding</span></span>
+
+<span data-ttu-id="35c07-168">For Germany *only*, follow the same normal steps to:</span><span class="sxs-lookup"><span data-stu-id="35c07-168">For Germany *only*, follow the same normal steps to:</span></span>
+
+1. [<span data-ttu-id="35c07-169">Fill out your Germany withholding tax credit form</span><span class="sxs-lookup"><span data-stu-id="35c07-169">Fill out your Germany withholding tax credit form</span></span>](#withholding-tax-credit-form)
+2. [<span data-ttu-id="35c07-170">Include your withholding tax certificates</span><span class="sxs-lookup"><span data-stu-id="35c07-170">Include your withholding tax certificates</span></span>](#include-withholding-tax-certificates)
+3. <span data-ttu-id="35c07-171">[Create a Partner Center support request](#create-a-service-request) with the withholding tax credit form and withholding tax certificates attached.</span><span class="sxs-lookup"><span data-stu-id="35c07-171">[Create a Partner Center support request](#create-a-service-request) with the withholding tax credit form and withholding tax certificates attached.</span></span>
+
+<span data-ttu-id="35c07-172">Then, mail hard copies of your withholding tax certificates to the following address:</span><span class="sxs-lookup"><span data-stu-id="35c07-172">Then, mail hard copies of your withholding tax certificates to the following address:</span></span>
+
+> <span data-ttu-id="35c07-173">ATTN: EOC Tax Team Marianne Gannon Microsoft EMEA Operations Centre One Microsoft Place, South County Business Park Leopardstown, Dublin 18, Ireland</span><span class="sxs-lookup"><span data-stu-id="35c07-173">ATTN: EOC Tax Team Marianne Gannon Microsoft EMEA Operations Centre One Microsoft Place, South County Business Park Leopardstown, Dublin 18, Ireland</span></span>
