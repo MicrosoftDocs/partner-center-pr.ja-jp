@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to use a customer account to assign or revoke licenses and services to one user or to multiple users at once.
+description: 顧客アカウントを使用して、一度に1人のユーザーまたは複数のユーザーにライセンスとサービスを割り当てたり、取り消したりする方法について説明します。
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
@@ -17,7 +17,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253042"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>複数のユーザーにライセンスを割り当てる、または取り消す
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>複数のユーザーへのライセンスの割り当てまたは取り消し
 
 **適用対象**
 
@@ -25,7 +25,7 @@ ms.locfileid: "74253042"
 
 ライセンスやサービスを 1 人のユーザーに割り当てたり、顧客アカウント内の複数のユーザーに同時に割り当てたり、ユーザーへのライセンスの割り当てを取り消したりすることができます。
 
-The Partner Center tracks and shows all customer-owned license entitlements.
+パートナーセンターでは、お客様が所有するすべてのライセンス資格を追跡して表示します。
 
 ## <a name="in-this-section"></a>このセクションの内容
 
