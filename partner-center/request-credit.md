@@ -1,70 +1,66 @@
 ---
-title: Microsoft からの SLA クレジットを要求する |パートナーセンター
+title: Request an SLA credit from Microsoft | Partner Center
 ms.topic: article
-ms.date: 06/21/2019
+ms.date: 11/21/2019
+description: Request an SLA credit from Microsoft if they experience a service outage.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: サービスで障害が発生した場合は、顧客の SLA クレジットを要求できます。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a04d8e179f48f60c71b2e0e5c723c9d821de797
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651696"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384900"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Microsoft からの SLA クレジットを要求する 
+# <a name="request-an-sla-credit-from-microsoft"></a>Request an SLA credit from Microsoft 
 
-お客様に提供しているサービスで障害が発生した場合は、Microsoft にクレジットを申請することができます。 サービスレベルアグリーメント (SLA) クレジットは、影響を受けたサービスに基づいて決定されます (つまり、顧客が O365 スイートを持ち、SharePoint のみがダウンしている場合は、プラン全体ではなく、SharePoint に対してのみ SLA クレジットが承認されます)。
+You're able to request **service-level agreement (SLA) credits** from Microsoft if a service that you're providing for your customers has an outage.
 
-クレジットは、影響を受けるサービスと停止の期間に基づいて、日割りで評価されます。 SLA クレジットの対象となるシナリオの種類を確認するには、[オンラインサービスの統合](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37)された sla に関するドキュメントを参照してください。 この情報は、クラウドソリューションプロバイダープログラムを通じて販売されたサービスにも適用されます。
+## <a name="sla-credit-calculation"></a>SLA credit calculation
 
->[!Note]
->**とても重要です！** CSP パートナーは、間接プロバイダーまたはダイレクト請求パートナー (エンドカスタマーまたは間接リセラーではない) のいずれかで、インシデントが発生した月の後のカレンダー月の終わりまでに要求とすべての必要な情報を送信する必要があります。 たとえば、インシデントが2月15日に発生した場合、請求書と必要なすべての情報を3月31日まで受け取る必要があります。 
+SLA credits from Microsoft are determined based on which service(s) were impacted. For example, if your customer has an Office 365 suite but only experienced a SharePoint outage, the SLA credit is approved only for SharePoint and not the customer's entire plan.
 
-## <a name="required-information"></a>必要な情報
+*Credits are pro-rated based on the service affected and the duration of the outage.* To see the types of scenarios that qualify for SLA credits, see the [Online Services Consolidated SLA document](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). This information applies to services sold through the Cloud Solution Provider program, too.
 
+## <a name="request-an-sla-credit"></a>Request an SLA credit
 
-SLA のクレジットを要求するには、次の情報を提供する必要があります。 
+*The Cloud Solution Provider (CSP) partner must submit the claim and all required information by the end of the calendar month following the month in which the incident occurred.* For example, if the incident occurred on February 15th, Microsoft must receive the claim and all required information by March 31st. End customers and indirect resellers can't submit SLA credit claims; either the indirect provider or direct bill partner must submit claims on their behalf.
 
-- 顧客テナントの GUID: 
+### <a name="required-information"></a>Required information
 
-- 停止インシデント #: (下記を参照)
+Before you [submit an SLA credit request](#submit-sla-credit-request) to Microsoft, you must gather the following information to include in your support ticket:
 
-- 影響を受けたサブスクリプションは CSP を通じて購入されましたか? はい/いいえ
+- The customer tenant's GUID
+- The [outage incident identifier](#outage-incident-identifier)?
+- Were the impacted subscriptions purchased through CSP? (*yes* or *no*)
 
-停止インシデント ID (EX25194 など) は、Microsoft 365 管理センターの [Service Health] ページにあります。 インシデント番号の前には、次のような、影響を受けるサービスを示す2文字の省略形が付きます。
+#### <a name="outage-incident-identifier"></a>Outage incident identifier
 
-例-Exchange Online
+You can find the identifier for the outage incident on the **Service Health** page in the Microsoft 365 admin center. The **Outage Incident ID** is a number preceded by a two-letter abbreviation that indicates the affected service (for example, *EX25194* for an Exchange Online outage). The follow table describes common service abbreviations:
 
-Exchange Online の保護
+| Two-letter abbreviation | Microsoft service |
+| ----------------------- | ----------------- |
+| EX | Exchange Online |
+| FO | Exchange Online Protection |
+| SB | Skype for Business Online (formerly Lync Online) |
+| OS | Office サブスクリプション |
+| PB | Power BI for Office 365 |
+| SP | SharePoint Online |
+| YA | Yammer Enterprise |
+| MO | Portal error |
 
-SB-Skype for Business Online (正式な Lync Online)
+### <a name="submit-sla-credit-request"></a>Submit SLA credit request
 
-OS-Office サブスクリプション
+To submit your SLA credit request to Microsoft through the Partner Center dashboard:
 
-PB-Power BI for Office 365
-
-SP-SharePoint Online
-
-YA-Yammer Enterprise
-
-MO-ポータルエラー
-
-## <a name="submit-a-request"></a>要求を送信する
-
-パートナーセンターでクレジット要求を送信します。
-
-1. パートナーセンターのダッシュボードで、左側のナビゲーションから **[サポート]** を選択します。
-
-2. **[パートナーサポート要求]** を選択し、[ **CSP-customers]、[orders]、[サブスクリプション]、[カスタマーサービスクレジット要求**] の順に選択します。
-
-3. SLA のクレジット要求を送信します。
-
-
-
-
-
+1. Sign in to the Partner Center dashboard.
+2. In the left-hand menu, choose **Service requests**, then select **Partner support requests**.
+3. On the **Partner request** page, choose **New request**.
+4. On the **Start the request** page, find the section **CSP - customers, orders and subscriptions**. In this section, choose **Select an issue type**, then select **Customer services credit requests**.
+5. On the **Recommended solutions** page, under **Do you need more help?** , choose **Yes**.
+6. On the **Details** page, fill out the **Issue details** section. In the **Details** text box, be sure to enter the [required information](#required-information) that you gathered earlier.
+7. Choose **Submit** to send in your SLA credit request.
