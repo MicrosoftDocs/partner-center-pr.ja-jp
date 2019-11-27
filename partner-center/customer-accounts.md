@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Find resources for reseller partners in Partner Center. This includes needing to create customer accounts before you sell subscriptions, bill, or offer support.
+Description: パートナーセンターで、リセラーパートナー向けのリソースを見つけることができます。 これには、サブスクリプション、請求、またはオファーのサポートを販売する前に、顧客アカウントを作成する必要があります。
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne

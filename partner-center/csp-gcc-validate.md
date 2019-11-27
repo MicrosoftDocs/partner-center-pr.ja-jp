@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn the steps for direct bill partners (direct resellers, indirect providers) to validate partners and customers for Office 365 Government GCC for CSP.
+description: ダイレクト請求パートナー (直接再販業者、間接プロバイダー) が、Office 365 Government 用の CSP 用の GCC 用のパートナーと顧客を検証する手順について説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
@@ -29,7 +29,7 @@ ms.locfileid: "74253531"
 
 米国の連邦、州、地方、および先住民部族の行政機関にサービスを提供しているパートナーである場合、承認される可能性があります。 組織の適格性を確認するには、[こちら](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)にある簡単なフォームに記入してください。
 
-顧客が、政府機関向けの管理対象のデータを処理する組織である場合や、米国の連邦、州、地方、および先住民部族の行政機関である場合、承認される可能性があります。 To have your customers' organizations' eligibility validated, please complete the brief form located [here](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+顧客が、政府機関向けの管理対象のデータを処理する組織である場合や、米国の連邦、州、地方、および先住民部族の行政機関である場合、承認される可能性があります。 お客様の組織の資格を検証するには、[ここ](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)に記載されている簡単なフォームに記入してください。 
 
 -   パートナーの組織がクラウド ソリューション プロバイダー プログラムに[登録](https://partnercenter.microsoft.com/partner/cloud-solution-provider)している必要があります。これは、CSP 向け Office 365 Government GCC について承認されるための前提条件です。
 -   CSP 向け Office 365 Government GCC の販売に関するステップ バイ ステップの検証プロセス ガイドについては、[こちら](https://go.microsoft.com/fwlink/?linkid=2007323)を参照してください。
@@ -42,7 +42,7 @@ CSP 向け Office 365 Government GCC のパートナーと顧客の適格性は�
 2.  GSA やその他の契約によって米国政府機関の顧客にサービスを提供している
 
 **顧客の条件**
-1.  米国の行政機関。 次に、例を示します。
+1.  米国の行政機関。 次に例を示します。
  
     -  連邦行政機関 (省、庁、局などの米国政府機関)
     -   州/地方自治体の行政機関 
@@ -50,7 +50,7 @@ CSP 向け Office 365 Government GCC のパートナーと顧客の適格性は�
     -   地域または州間行政機関 (国際行政機関ではありません)
     -   連邦政府資金の研究開発センター (FERDC)
 
-2.  Commercial private entity with data that's subject to regulations. 承認されている政府機関向けデータの種類は次のとおりです。 
+2.  規制の対象となるデータを含む商用プライベートエンティティ。 承認されている政府機関向けデータの種類は次のとおりです。 
     -   国際武器取引規則 (ITAR)
     -   管理対象の非機密情報 (Controlled Unclassified Information: CUI)
     -   米国国防総省 (DoD) の機密扱いではないが管理対象となっている核関連情報 (Unclassified Controlled Nuclear Information: UCNI)

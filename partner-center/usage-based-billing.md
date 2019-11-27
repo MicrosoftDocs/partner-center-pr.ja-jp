@@ -1,11 +1,11 @@
 ---
-title: Usage-based billing | Partner Center
+title: 使用量ベースの課金 |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
-Description: Information on usage-based billing in Partner Center, where you're billed for monthly usage rates.
+Description: パートナーセンターでの使用量ベースの課金に関する情報。毎月の使用率に対して課金されます。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, usage-based, usage
+keywords: 課金、使用量ベース、使用量
 ms.localizationpriority: medium
 ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -23,23 +23,23 @@ Azure サブスクリプションなどのオンライン サービスを購入�
 
 Microsoft の一部の製品とサービスでは "従量課金制" の請求モデルが使用されており、使用したサービスに対してのみ請求されます。 たとえば、Microsoft Azure ではこのモデルが使われています。 
 
-## <a name="usage-billing-frequency"></a>Usage billing frequency
+## <a name="usage-billing-frequency"></a>使用量の請求頻度
 
-Only **monthly billing** is available for usage-based products. For more information on monthly billing, see [Monthly and annual billing differences](billing-annual-monthly.md).
+使用量ベースの製品では、**毎月の課金**のみを利用できます。 毎月の課金の詳細については、「[月額料金と年間課金の相違点](billing-annual-monthly.md)」を参照してください。
 
-Usage-based subscriptions are billed monthly, in arrears, on the **subscription anniversary date**. For example, if the subscription anniversary date is the 15th, you will be charged on January 15th for the service period of December 15th to January 14th. You will be charged again on February 15th for the service period of January 15th to February 14th. 
+使用量ベースのサブスクリプションは、**サブスクリプションの契約日**に月単位で課金されます。 たとえば、サブスクリプションの契約日が15日の場合、サービス期間の12月15日から1月14日までの料金が請求されます。 サービス期間15月15日から2月14日まで、2月15日にもう一度料金が請求されます。 
 
 ## <a name="usage-charges"></a>利用料金
 
-The charges that are generated on the subscription anniversary date will appear on the following invoice and [reconciliation file](usage-based-recon-files.md).
+サブスクリプションの契約日に生成された料金は、次の請求書と[調整ファイル](usage-based-recon-files.md)に表示されます。
 
 請求書から漏れている使用量請求がある、または前月の使用量が当月の請求書で請求されている、といったことに気付く場合があります。 これはエラーではありません。単に、サービスが発生した後でサービスにタイムスタンプが押されたことを意味します。 請求サイクルの最後の 24 時間以内に報告された使用は、次の月の請求書に表示されます。
 
-## <a name="cancelling-usage-based-subscriptions"></a>Cancelling usage-based subscriptions
+## <a name="cancelling-usage-based-subscriptions"></a>使用量ベースのサブスクリプションの取り消し
 
-You can suspend usage-based subscriptions at any time.
+使用量ベースのサブスクリプションは、いつでも中断できます。
 
-## <a name="pricing-for-usage"></a>Pricing for usage
+## <a name="pricing-for-usage"></a>使用量の料金
 
 Azure CSP 価格表は毎月発行され、パートナー センターの [販売] > [料金とプラン] ページに掲載されます。 価格は毎日のように変化し、価格表の [変更履歴] タブに表示されますのでご注意ください。
 

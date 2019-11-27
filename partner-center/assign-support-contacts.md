@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to assign a reseller as a technical support contact for customers with subscriptions to Microsoft services.
+description: Microsoft サービスへのサブスクリプションをお持ちのお客様のテクニカルサポートの連絡先として、リセラーを割り当てる方法について説明します。
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
@@ -49,4 +49,4 @@ ms.locfileid: "74253336"
 
 ## <a name="related-topics"></a>関連トピック
 
-[顧客との関係の削除](remove-a-relationship.md)
+[顧客との再販業者関係の削除](remove-a-relationship.md)

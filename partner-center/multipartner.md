@@ -23,24 +23,24 @@ ms.locfileid: "74189077"
 -  パートナー センター
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
-The Partner Center's multi-partner feature supports scenarios when a customer wants to work with more than one partner. たとえば、お客様は Office 365 の専門知識を持つパートナーに依頼し、さらに Microsoft Azure を専門とする別のパートナーに依頼することができます。 
+パートナーセンターのマルチパートナー機能は、顧客が複数のパートナーと協力したい場合のシナリオをサポートします。 たとえば、お客様は Office 365 の専門知識を持つパートナーに依頼し、さらに Microsoft Azure を専門とする別のパートナーに依頼することができます。 
 
-An Azure CSP tenant can include an additional Azure subscription from a different CSP partner.
+Azure CSP テナントには、別の CSP パートナーからの追加の Azure サブスクリプションを含めることができます。
 
-パートナー センターでマルチパートナー機能を使用するには、顧客を招待して代理管理特権を顧客に要求します。 既にパートナーと連携している顧客との関係を確立する方法については、「[顧客との関係を要求する](request-a-relationship-with-a-customer.md)」を参照してください。
+パートナー センターでマルチパートナー機能を使用するには、顧客を招待して代理管理特権を顧客に要求します。 既にパートナーと連携している顧客との関係付けを確立する方法については、「[顧客との再販業者関係の要求](request-a-relationship-with-a-customer.md)」を参照してください。
 
 マルチパートナー機能では、次のことは行われません。
 
-- Change any of the customer's existing subscriptions
+- 顧客の既存のサブスクリプションを変更する
 
-- Transition the customer's existing subscriptions or account ownership
+- 顧客の既存のサブスクリプションまたはアカウントの所有権を移行する
 
-- Change the terms or customer's obligations for any of their existing subscriptions
+- 既存のサブスクリプションの使用条件または顧客の義務を変更する
 
 - サブスクリプションの指名パートナーの変更
 
 > [!IMPORTANT]  
-> CSP プログラムのパートナーは、現在、別の CSP プログラムのパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](https://partner.microsoft.com/pcv/announcements)など、通常の伝達方法でお知らせします。
+> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](https://partner.microsoft.com/pcv/announcements)など、通常の伝達方法でお知らせします。
 
 
 

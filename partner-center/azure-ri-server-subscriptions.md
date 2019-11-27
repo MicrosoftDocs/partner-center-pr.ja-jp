@@ -63,7 +63,7 @@ Azure Reservations では、1 年分または 3 年分の料金を前払いす�
 #### <a name="isv-annual-subscriptions"></a>ISV 年間サブスクリプション
 -   CloudSimple での Azure VMware ソリューション
 
-## <a name="getting-started"></a>概要
+## <a name="getting-started"></a>作業の開始
 
 顧客に対する Azure Reservations の位置付けを理解し、できる限り早く営業活動を開始するには、次に示すアプローチで準備資料を確認することをお勧めします。
 

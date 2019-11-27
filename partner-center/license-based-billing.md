@@ -1,11 +1,11 @@
 ---
-title: License-based billing | Partner Center
+title: ライセンスベースの課金 |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
-Description: Information about license-based billing in Partner Center, where you're billed per license (not by license usage).
+Description: パートナーセンターでのライセンスベースの課金に関する情報 (ライセンスの使用法ではなく、ライセンスごとに請求されます)。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, payments, license-based, license
+keywords: 請求、支払い、ライセンスベース、ライセンス
 ms.localizationpriority: medium
 ms.openlocfilehash: 2313a01a03114bc36a55d222376e994966f9e088
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -16,38 +16,38 @@ ms.locfileid: "74389830"
 ---
 # <a name="license-based-billing"></a>ライセンス ベースの課金
 
-適用対象:
+適用対象
 
 - パートナー センター
 - CSP プログラムのパートナー
 
-When you buy products or online services in Partner Center that require **licenses**, you’re billed *for each license* that you buy. You're *not billed* by usage for these licenses. (For information on usage-based billing and other billing types, see [Types of billing in Partner Center](billing-different-types.md).)
+**ライセンス**を必要とする製品またはオンラインサービスをパートナーセンターで購入すると、購入した*各ライセンスに対して*課金されます。 これらのライセンスの使用によって*課金されることはありません*。 (使用量ベースの課金とその他の課金の種類の詳細については、「[パートナーセンターでの課金の種類](billing-different-types.md)」を参照してください)。
 
-## <a name="license-billing-frequency"></a>License billing frequency
+## <a name="license-billing-frequency"></a>ライセンス請求の頻度
 
-You can choose to be billed for licenses once a month (**monthly billing**) or once a year (**annual billing**). For more information about **billing frequency**, see [Monthly and annual billing differences](billing-annual-monthly.md).
+ライセンスの請求には、1か月に1回、または1年に 1**回 (** **年次請求**) を選択できます。 **請求頻度**の詳細については、「[月額および年間請求の相違点](billing-annual-monthly.md)」を参照してください。
 
-## <a name="billing-date-for-licenses"></a>Billing date for licenses
+## <a name="billing-date-for-licenses"></a>ライセンスの請求日
 
-License-based subscriptions are billed in advance on the subscription's **anniversary date**. The anniversary date is the day of the month that you purchased the subscription.
+ライセンスベースのサブスクリプションは、サブスクリプションの**記念日**に事前に請求されます。 記念日は、サブスクリプションを購入した日です。
 
-次に、例を示します。
+次に例を示します。
 
-- If you purchased a **monthly subscription** on January 15th, the anniversary date will be the 15th of each month.
-- If you purchased an **annual subscription** on January 15th, the anniversary date will be January 15th of each year.
+- 1月15日に**月単位のサブスクリプション**を購入した場合、記念日は毎月15日になります。
+- 1月15日に**年間サブスクリプション**を購入した場合、記念日は毎年1月15日になります。
 
-## <a name="license-term"></a>License term
+## <a name="license-term"></a>ライセンス条項
 
 ライセンス ベースのすべてのサブスクリプションの有料期間は、購入日から始まる 12 か月間です。
 
-## <a name="license-cancellation"></a>License cancellation
+## <a name="license-cancellation"></a>ライセンスの取り消し
 
-You can cancel a license at any point during the [license term](#license-term). However, the month in which you cancel impacts how much credit you will receive for the cancelled license.
+ライセンスは、[ライセンス条項](#license-term)のどの時点でも取り消すことができます。 ただし、取り消す月は、取り消されたライセンスのクレジットの金額に影響を与えます。
 
-If you suspend a subscription in month 1, you will be credited 100%.
+月1日にサブスクリプションを一時停止した場合、100% の貸方になります。
 
-If you suspend a subscription in months 2-12, you will be credited on a prorated basis.
+月2-12 にサブスクリプションを解約した場合は、日割りで課金されます。
 
-## <a name="license-renewal"></a>License renewal
+## <a name="license-renewal"></a>ライセンスの更新
 
 ライセンス ベースのすべてのサブスクリプションは、有料期間が開始してから 12 か月後に自動更新されます。

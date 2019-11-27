@@ -1,14 +1,14 @@
 ---
-title: Make sure you are credited for withholding tax | Partner Center
+title: 源泉徴収税のご購入をご確認ください。パートナーセンター
 ms.topic: article
 ms.date: 11/07/2019
-description: How to make sure your Partner Center account is credited for withholding tax.
+description: パートナーセンターのアカウントに源泉徴収税があることを確認する方法。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
-keywords: withholding tax credit, tax credits, german tax credit form, form tax credit
+keywords: 源泉徴収税クレジット、課税クレジット、ドイツの課税クレジットフォーム、納税クレジット
 ms.localizationpriority: medium
 ms.openlocfilehash: 8f25c570f8a71a261e815891545acf48e0a8fe08
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -17,99 +17,99 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384864"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Make sure you are credited for withholding tax
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>源泉徴収税の貸方をご確認ください
 
-適用対象:
+適用対象
 
 - パートナー センター
 
-This topic explains how to make sure that you are credited for withholding tax in Partner Center. It explains how to open a service request using the global withholding tax form or the withholding tax form for Germany.
+このトピックでは、パートナーセンターで源泉徴収税の貸方を確認する方法について説明します。 ここでは、グローバルな源泉徴収税フォームまたはドイツの源泉徴収税フォームを使用してサービス要求を開く方法について説明します。
 
 > [!IMPORTANT]
-> Microsoft must receive your **withholding tax credit form** and a copy of your **withholding tax certificate** for your account to be credited for withholding tax.
+> Microsoft は、お客様のアカウント用の源泉徴収税の**クレジット**書と源泉徴収税**証明書**のコピーを受け取る必要があります。
 
-## <a name="withholding-tax-credit-form"></a>Withholding tax credit form
+## <a name="withholding-tax-credit-form"></a>源泉徴収税のクレジットフォーム
 
-- Ensure the form includes your company name and country, the withholding tax certificate number, and the form is signed and dated accurately. Here are the tax credit forms: For [Germany](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) and [All other countries](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
+- フォームに会社名と国、源泉徴収税証明書番号、およびフォームが署名されていて、正確な形式であることを確認します。 ここでは、[ドイツ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)および[その他のすべての国](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311)のクレジットの形式について説明します。
 
-The withholding tax credit form provides Microsoft with the following information:
+源泉徴収税のクレジットフォームは、次の情報を Microsoft に提供します。
 
-- Invoice(s)
-- Amount paid to Microsoft
+- 請求書
+- Microsoft に支払われる金額
 - 源泉徴収税額
-- Withholding tax percentage
-- Type of payment
-- Company that was paid (if other than Microsoft)
+- 源泉徴収税の割合
+- 支払いの種類
+- 支払い済みの会社 (Microsoft 以外の場合)
 
-- Once you have this information ready, create the service request.
+- この情報の準備ができたら、サービス要求を作成します。
 
-You'll need to fill out your **withholding tax credit form** before creating your support request. You will include this form with your support request.
+サポートリクエストを作成する前に、**源泉徴収税のクレジットフォーム**に記入する必要があります。 このフォームには、サポート要求が記載されています。
 
-Fill out the appropriate form for your country or region:
+国または地域の適切な形式を入力します。
 
-- [**Global withholding tax credit form**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (all countries, excluding Germany)
-- [**Germany withholding tax credit form**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)
+- [**グローバル源泉徴収税クレジット書**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311)(ドイツを除くすべての国)
+- [**ドイツの源泉徴収税のクレジットフォーム**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)
 
-Make sure that your form is accurate before submitting it to Microsoft:
+Microsoft に送信する前に、フォームが正確であることを確認します。
 
-1. Select the **question mark** **(?)** in the uppor right corner of your dashboard in Partner Center.
+1. パートナーセンターで、ダッシュボードのアップ pまたは右上隅にある**疑問符** **(?)** を選択します。
 
-2. Select **CSP**.
+2. **CSP**を選択します。
 
-3. Under **CSP - billing and payments**, select the issue type - **Withholding tax** and select **Yes**. 
+3. **[CSP-請求と支払い]** で、問題の種類- **[源泉徴収税]** を選択し、[**はい]** を選択します。 
 
-4. When you submit the service request be sure to attach the tax credit form and digital copies of the tax certificates.
+4. サービスリクエストを送信する場合は、税証明書の税クレジットフォームとデジタルコピーを必ず添付してください。
 
-5. If you are submitting a non-English tax certificate via an English service request, a translation of the tax certificate is required.
+5. 英語版のサービス要求を使用して英語以外の税証明書を送信する場合は、税証明書の翻訳が必要です。
 
-6. We will contact you directly by email or phone.
+6. 電子メールまたは電話で直接お問い合わせいたします。
 
-- Include your **company name** and **country** on the form.
-- Accurate **sign** and **date** the form.
-- Record the proper **withholding tax amount percentage** on the form, based on your local tax authority's information.
-- Make sure that the **total amount** on the form matches the totals from the invoices you are submitting.
+- **会社名**と**国**をフォームに含めます。
+- フォームの正確な**符号**と**日付**。
+- 現地の税金機関の情報に基づいて、適切な**源泉徴収税額**をフォームに記録します。
+- フォームの**合計金額**が、送信している請求書の合計と一致していることを確認します。
 
-## <a name="include-withholding-tax-certificates"></a>Include withholding tax certificates
+## <a name="include-withholding-tax-certificates"></a>源泉徴収税証明書を含める
 
-The tax certificates should be for Microsoft invoices only. If there are other companies included in the certificates, please specify the amount so that we can exclude it in our internal processing, but still have full visibility to what the total certificates include. 
+税証明書は、Microsoft の請求書に対してのみ使用する必要があります。 証明書に他の会社が含まれている場合は、内部処理で除外できるように金額を指定してください。ただし、証明書の総数を完全に把握できます。 
 
-You'll need to include a **digital copy** of your **withholding tax certificates** along with your support request. You received this certificate from your local tax agency when you submitted your request in Partner Center.
+お客様のサポートリクエストと共に、**源泉徴収税証明書**の**デジタルコピー**を含める必要があります。 パートナーセンターで要求を送信したときに、この証明書をローカルの税機関から受信しました。
 
-The total in the withholding tax certificate must match the supporting detail in the withholding tax credit form.
+源泉徴収税証明書の合計は、源泉徴収税のクレジットフォームのサポート詳細と一致している必要があります。
 
-Fill out the [withholding tax credit form](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) completely and send it along with the scanned copy of the Withholding Tax Certificate upon submission of your request in Partner Center or your Azure/O365/CRM/Intune Portal. 
+[源泉徴収税のクレジットフォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)を完全に入力し、パートナーセンターまたは Azure/O365/CRM/Intune ポータルで要求の送信時に、源泉徴収税証明書のスキャンしたコピーと共に送信します。 
 
-If you are submitting a **non-English language tax certificate** through an **English language service request**, you must include a **translation** of the tax certificate.
+英語版の**サービスリクエスト**で**英語以外の言語の税証明書**を送信する場合は、税証明書の**翻訳**を含める必要があります。
 
-The tax certificates should be for **Microsoft invoices only**. If you have **other companies** that the certificates include, specify the amount such that we can exclude the amount in our internal processing, but still have full visibility to what the total certificates include.
+税証明書は、 **Microsoft の請求**書に対してのみ使用する必要があります。 証明書に含まれる**他の会社**がある場合は、内部処理の金額を除外できるように金額を指定しますが、証明書の合計数を完全に表示できます。
 
-## <a name="create-a-service-request"></a>Create a service request
+## <a name="create-a-service-request"></a>サービスリクエストを作成する
 
-The following information applies *only* to partners in the **Cloud Solution Provider (CSP) program**. These include only **direct bill partners** and **indirect providers**. **Indirect resellers** must work with their **indirect providers** instead.
+次の情報は、**クラウドソリューションプロバイダー (CSP) プログラム**のパートナーに*のみ*適用されます。 これらには、**直接請求パートナー**と**間接プロバイダー**のみが含まれます。 **間接リセラー**は、代わりに**間接的なプロバイダ**を使用する必要があります。
 
-1. Sign in to the dashboard in Partner Center.
-2. On the left-hand menu in the dashboard, choose **Support**, then select **Partner support requests**.
-3. Choose **New request**.
-4. On the **Start the request** page, under **CSP - billing and payments**, choose **Select an issue type**. Select **withholding tax** as your issue type.
-5. On the **Recommended solutions** page, review the information. Then, under **Do you need more help?** , choose **Yes**.
-6. On the **Details** page, fill out all required fields under **Issue details**.
-7. Upload your [**withholding tax credit form**](#withholding-tax-credit-form) using the last field in the form.
-8. Upload your [**withholding tax certificate**](#include-withholding-tax-certificates) and, if applicable, a translation of the certificate.
-9. Choose **Submit** to send in your support request. Microsoft will then contact you directly by email or phone. 
-10. If you are in **Germany**, see [special instructions for Germany](#germany-tax-withholding) to mail in mandatory **hard copies** of your withholding tax certificate.
+1. パートナーセンターでダッシュボードにサインインします。
+2. ダッシュボードの左側のメニューで、 **[サポート]** を選択し、 **[パートナーサポート要求]** を選択します。
+3. **[新しい要求]** を選択します。
+4. **[要求の開始]** ページの **[CSP-課金と支払い]** で、[**問題の種類の選択]** を選択します。 問題の種類として **[源泉徴収税]** を選択します。
+5. [推奨される**ソリューション**] ページで、情報を確認します。 [その**他のヘルプが必要ですか?** ] で、[**はい]** を選択します。
+6. **[詳細]** ページで、 **[問題の詳細]** の下にあるすべての必須フィールドに入力します。
+7. フォームの最後のフィールドを使用して、[**源泉徴収税のクレジットフォーム**](#withholding-tax-credit-form)をアップロードします。
+8. [**源泉徴収税証明書**](#include-withholding-tax-certificates)をアップロードし、該当する場合は証明書の翻訳をアップロードします。
+9. **[送信]** を選択して、サポートリクエストを送信します。 Microsoft は、電子メールまたは電話で直接お客様に連絡します。 
+10. **ドイツ**にいる場合は、ドイツの特別な**ハードコピー**で、[ドイツの特別な手順](#germany-tax-withholding)を参照してください。
 
-Using the **invoice-pay payment** method, once tax certificates are received and validated successfully, the remaining balance on your invoice will clear in approximately one week.
+**請求-支払い支払い**方法を使用すると、税金証明書が正常に受信され、検証されると、請求書の残り残高は約1週間でクリアされます。
 
-After your tax certificates are received and validated successfully by Microsoft, use the **invoice-pay payment** method. The remaining balance on your invoice will clear in approximately one week.
+Microsoft による税金証明書の受信と検証が完了したら、**請求書の支払い**方法を使用します。 請求書の残りの残高は、約1週間でクリアされます。
 
-## <a name="germany-tax-withholding"></a>Germany tax withholding
+## <a name="germany-tax-withholding"></a>ドイツの税金源泉徴収
 
-For Germany *only*, follow the same normal steps to:
+ドイツの場合*のみ*、同じ通常の手順に従います。
 
-1. [Fill out your Germany withholding tax credit form](#withholding-tax-credit-form)
-2. [Include your withholding tax certificates](#include-withholding-tax-certificates)
-3. [Create a Partner Center support request](#create-a-service-request) with the withholding tax credit form and withholding tax certificates attached.
+1. [ドイツの源泉徴収税のクレジットフォームに記入する](#withholding-tax-credit-form)
+2. [源泉徴収税証明書を含める](#include-withholding-tax-certificates)
+3. 源泉徴収税クレジットフォームと源泉徴収税証明書が添付された[パートナーセンターサポート要求を作成](#create-a-service-request)します。
 
-Then, mail hard copies of your withholding tax certificates to the following address:
+次に、源泉徴収税証明書のハードコピーを次のアドレスに送信します。
 
-> ATTN: EOC Tax Team Marianne Gannon Microsoft EMEA Operations Centre One Microsoft Place, South County Business Park Leopardstown, Dublin 18, Ireland
+> ATTN: EOC 税務チーム Marianne microsoft EMEA 以外の運用センター1社、南郡のビジネスパーク Leopardstown、ダブリン18、アイルランド

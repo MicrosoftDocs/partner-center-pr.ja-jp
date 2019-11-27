@@ -1,11 +1,11 @@
 ---
-title: Office 365 Partner Advisory - Microsoft 365 Voice in CSP | Partner Center
-description: PSTN services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.
+title: Office 365 のパートナー勧告-CSP の Microsoft 365 音声 |パートナーセンター
+description: 一部の国の PSTN サービスには、パートナーの注文と請求に影響する可能性がある特別な税金および規制の要件が適用される場合があります。
 ms.topic: article
 ms.date: 11/04/2019
 author: maggiepuccievans
 ms.author: evansma
-keywords: Office, O365, PSTN services, taxes, requirements, invoice, invoicing
+keywords: Office, O365, PSTN サービス, 税金, 要件, 請求書, 請求
 ms.localizationpriority: medium
 ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -14,41 +14,41 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384814"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 Partner Advisory: Microsoft 365 Voice in CSP
+# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 パートナー向けアドバイザリ: CSP の Microsoft 365 音声
 
 **適用対象**
 
 - パートナー センター  
 
-Public Switched Telephone Network (PSTN) services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.  In the United States, Puerto Rico, and Canada, Skype for Business PSTN and Microsoft 365 Voice services are subject to special tax and regulatory requirements. In the United States and Puerto Rico, Microsoft prices PSTN services as tax-inclusive.  Unique PSTN taxes and regulations will affect Office 365 partners transacting Microsoft 365 Voice products.  パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。
+一部の国の公衆交換電話網 (PSTN) サービスには、パートナーの注文と請求に影響する可能性がある特別な税金および規制要件が適用される場合があります。  米国、プエルトリコ、およびカナダでは、Skype for Business PSTN と Microsoft 365 音声サービスには、特別な税金と規制の要件が適用されます。 米国とプエルトリコでは、Microsoft は PSTN サービスを税金包括として価格を付けます。  独自の PSTN の税金と規制は、Microsoft 365 音声製品を操作する Office 365 パートナーに影響します。  パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。
 
-## <a name="partner-recommendations"></a>Partner Recommendations
+## <a name="partner-recommendations"></a>パートナーの推奨事項
 
 お客様の税務部門や法務部門に対して、PSTN サービスの規制、税金、手数料などの義務に関する組織の責任を理解するように指示してください。
 
-## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Invoice Presentation and Partner Reconciliation File
+## <a name="invoice-presentation-and-partner-reconciliation-file"></a>請求書プレゼンテーションとパートナー調整ファイル
 
-CSP invoices and CSP reconciliation files in the United States, Puerto Rico and Canada which include Skype for Business PSTN and Microsoft 365 Voice services will provide separate line items for the PSTN and non-PSTN components.
+米国の CSP 請求書および CSP 調整ファイル (Skype for Business PSTN と Microsoft 365 Voice サービスを含むカナダ) では、PSTN および PSTN 以外のコンポーネント用に個別の行項目が提供されます。
 
-Additionally, CSP invoices will display the following footnote:
+さらに、CSP の請求書には次の脚注が表示されます。
 
-* The price displayed is a charge for Audio Conferencing and Calling Plan Services.  Any applicable transactional taxes are charged exclusively of the amount shown except for sales made within the United States.  In the U.S., the price displayed is tax inclusive as it includes a charge for the Calling Plan and Audio Conferencing Services and a charge for the taxes and fees we are required to charge.  Audio Conferencing and Calling Plan Services are serviced by the Microsoft Affiliate authorized to provide them.  See [Microsoft Volume Licensing](https://go.microsoft.com/fwlink/?LinkId=690247) for details.
+* 表示される料金は、オーディオ会議およびプランサービスの呼び出しに対して課金されます。  適用可能なトランザクションの税金については、米国内で行われた売上を除いて、示されている量だけが請求されます。  米国では、表示される料金は、通話プランとオーディオ会議サービスの料金が含まれているため、税金と料金が請求されます。  オーディオ会議と通話プランサービスは、Microsoft 関連によって提供されることが認められています。  詳細については、「 [Microsoft ボリュームライセンス](https://go.microsoft.com/fwlink/?LinkId=690247)」を参照してください。
 
-## <a name="reconciliation-file-example"></a>Reconciliation File Example
+## <a name="reconciliation-file-example"></a>調整ファイルの例
 
-Office 365 Enterprise E5 presents on reconciliation file as two line items with identical names and identical IDs, but each line item has a unique unit price (example: $28.40 and $2.00). これにより、Office 365 プランの Skype for Business PSTN 会議コンポーネントが区別され、税金を正しく適用することができます。
+Office 365 Enterprise E5 は、調整ファイルに同一の名前と同じ Id を持つ2つの行項目として表示されますが、各品目には一意の単価 (例: $28.40 と $2.00) があります。 これにより、Office 365 プランの Skype for Business PSTN 会議コンポーネントが区別され、税金を正しく適用することができます。
 
-**Partner Reconciliation example #1 (select columns):**
+**パートナーの調整の例 #1 (列の選択):**
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Cycle fee   |28.40   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Cycle fee   |2.00   |
 
-**Partner Reconciliation example #2**
+**パートナーの調整の例 #2**
 
-Microsoft 365 Business Voice available in Canada has additional PSTN taxable components that are consolidated on CSP Invoice (similar to Office 365 E5, two line items are presented, one for PSTN components and the other for non-PSTN components).  The CSP Reconciliation file for Microsoft 365 Business Voice will display all PSTN taxable components individually (individual PSTN components will not be consolidated in .CSV or API tool).  The summation of order details and billed amounts for customers found in the reconciliation file will match the CSP Invoice.
+カナダで利用可能な Microsoft 365 Business 音声には、CSP 請求書に統合されている追加の PSTN 非課税コンポーネントがあります (Office 365 E5 と同様、2つの行項目が表示されます。1つは PSTN コンポーネント用、もう1つは pstn 以外のコンポーネント用) です。  Microsoft 365 Business 音声の CSP 調整ファイルには、すべての PSTN の非課税コンポーネントが個別に表示されます (個々の PSTN コンポーネントはに統合されません)。CSV または API ツール)。  調整ファイルで見つかった顧客の注文明細と請求金額の合計が CSP 請求書と一致します。
 
-## <a name="additional-resources"></a>その他の情報
-For more details, visit the [Microsoft 365 for Partners](https://drumbeat.office.com/Pages/home2016.aspx) site.
+## <a name="additional-resources"></a>その他のリソース
+詳細については、[パートナーサイトの Microsoft 365](https://drumbeat.office.com/Pages/home2016.aspx)を参照してください。
 

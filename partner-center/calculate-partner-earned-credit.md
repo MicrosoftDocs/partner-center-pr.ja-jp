@@ -1,10 +1,10 @@
 ---
-title: How the partner earned credit is calculated | Partner Center
+title: パートナーの獲得クレジットの計算方法 |パートナーセンター
 ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how the partner earned credit (PEC) aspect of Azure plan is calculated. This includes eligibility requirements for partners and indirect providers.
+description: Azure プランのパートナー獲得クレジット (PEC) の側面を計算する方法について説明します。 これには、パートナーと間接プロバイダーの資格要件が含まれます。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -16,34 +16,34 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253419"
 ---
-# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>How the partner earned credit (PEC) is calculated
+# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>パートナーの獲得クレジット (PEC) の計算方法
 
 
-Partners who own the 24x7 IT operations management of parts or the entire Azure environment of their customers in CSP are rewarded with PEC. The PEC is provided as part of the invoice to the partner who has a direct billing relationship with Microsoft. The credit is calculated daily and reflected in the monthly invoice. By default, in CSP, partners are granted the necessary access rights to the customer's subscription that allows them to have 24X7 operations management and control of the resources on the subscription. Additional ways in which customer can provision access for transacting partner are described in the following section.   
+Microsoft 365 年中無休の IT 運用管理、または CSP における顧客の Azure 環境全体を所有するパートナーは、PEC を利用できます。 PEC は、Microsoft との直接の課金関係を持つパートナーに請求書の一部として提供されます。 クレジットは日単位で計算され、月次請求書に反映されます。 CSP の既定では、顧客のサブスクリプションに対する必要なアクセス権がパートナーに付与されます。これにより、サブスクリプションのリソースを24時間365日体制で管理し、制御することができます。 次のセクションでは、お客様が取引先へのアクセスをプロビジョニングするためのその他の方法について説明します。   
 
 
-## <a name="important-eligibility-and-calculation-requirements"></a>Important eligibility and calculation requirements:
+## <a name="important-eligibility-and-calculation-requirements"></a>重要な資格と計算の要件:
 
-- A partner should have an active MPN agreement and a valid Rules Based Account C (RBAC) role to receive earned credit for the azure assets they manage. Learn more about [valid RBAC roles]
+- パートナーは、管理対象の azure 資産の獲得クレジットを受け取るために、active MPN agreement と有効なルールベースのアカウント C (RBAC) の役割を持っている必要があります。 [有効な RBAC ロール] の詳細情報
 
-- The indirect provider will be eligible for PEC if either they or their indirect reseller or both have 24x7 operational control and management of the customer's Azure resources in CSP.
+- 間接プロバイダーは、お客様または間接リセラーか、またはその両方が、CSP 内の顧客の Azure リソースを24時間365日体制で管理および管理している場合に、PEC の対象となります。
 
-- PEC is associated to billed (chargeable) consumption of customer's Azure estate in CSP managed by the partner. 
+- PEC は、パートナーによって管理される CSP 内の顧客の Azure 資産に対して課金される (請求可能な) 消費量に関連付けられます。 
 
-- PEC is available only to partners in CSP who are billed by Microsoft (indirect provider and direct bill partner).
+- PEC は、Microsoft によって請求される CSP のパートナー (間接プロバイダーおよびダイレクト請求パートナー) にのみご利用いただけます。
 
-- Eligible Services: Partner earned credit is applicable to all Azure 1PP Azure consumption given on the price list. There are exceptions including, but not limited to, 3PP and Azure Reservations.
+- 対象サービス: パートナーの獲得クレジットは、価格表に記載されているすべての Azure 1PP Azure の使用量に適用されます。 3PP や Azure Reservations に限定されない例外もあります。
 
-- PEC is calculated daily and can be viewed in the daily recon file. A partner (provider or reseller (through their provider) must have access for the entire day (24x7) to ensure they earn PEC.
+- PEC は毎日計算され、毎日偵察ファイルで表示できます。 パートナー (プロバイダーを通じて) は、PEC を確実に取得するために、一日中 (24 時間365日) のアクセス権を持っている必要があります。
 
-- PEC は、Azure リソース レベルで獲得されます。 If the partner has valid access at the subscription, or resource group level, each resource that role up to the higher entity will earn PEC. 
+- PEC は、Azure リソース レベルで獲得されます。 パートナーがサブスクリプションまたはリソースグループレベルで有効なアクセス権を持っている場合は、上位のエンティティにロールがある各リソースが PEC を獲得します。 
 
-- PEC will be included on the partner's monthly invoice. The invoice is net of charges. The details are shown in the invoice recon file.
+- PEC は、パートナーの月次請求書に記載されます。 請求書の料金は正味です。 詳細は、請求書の偵察ファイルに表示されます。
 
-For information on gaining access to manage Azure subscriptions and on how to link your MPN ID to RBAC roles, read [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md).
+Azure サブスクリプションを管理するためのアクセス権を取得する方法と、MPN ID を RBAC ロールにリンクする方法については、「 [azure プランでのサブスクリプションとリソースの管理」](azure-plan-manage.md)を参照してください。
 
 詳細情報
 
-- [Azure plan - billing](azure-plan-billing.md)
+- [Azure プラン-課金](azure-plan-billing.md)
 
 - [CSP の新しいコマース エクスペリエンスの価格表](azure-plan-price-list.md)

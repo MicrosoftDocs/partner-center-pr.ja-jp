@@ -1,12 +1,12 @@
 ---
-title: Common billing scenarios for one-time and select recurring purchases | Partner Center
+title: 1回限りの定期的な購入に関する一般的な課金シナリオ |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for one-time and select recurring purchases (such as purchasing subscriptions, adding more subscriptions, adding and removing seats).
+description: 1回限りのパートナーセンターでの一般的な課金シナリオ (サブスクリプションの購入、サブスクリプションの追加、座席の追加と削除など)。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, one-time purchase, recurring purchase, subscriptions, seats
+Keywords: 課金、支払い、1回限りの購入、定期的な購入、サブスクリプション、シート
 ms.localizationpriority: medium
 ms.openlocfilehash: 69a7f1d4ded608942ea8b4bd7bec6054a44d52c7
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389640"
 ---
-# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>One-time and select recurring purchase billing scenarios
+# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>1回限りの定期的な購入請求シナリオ
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable to [one-time and select recurring charges](one-time-and-recurring-billing.md) in Partner Center.
+この例の[一般的な課金シナリオ](common-billing-scenarios.md)は、パートナーセンターでの1回限りの課金[と選択](one-time-and-recurring-billing.md)された定期的な料金に適用されます。
 
-## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>Purchase a subscription and add a seat on the same day
+## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>サブスクリプションを購入し、同じ日に座席を追加する
 
 シナリオ 1 では、サブスクリプションを 6 月 11 日に単価 $4 で購入します。 同じ日に、後で、同じサブスクリプションを別の価格で購入します。
 
@@ -35,7 +35,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 |2019/6/11     | 2019/6/10    |2019/7/9        |$4        |1        | -$4       |addQuantity           |
 |2019/6/11     | 2019/6/10    |2019/7/9        |$4        | 2      |$8         |addQuantity           |
 
-## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Purchase a subscription and add more subscriptions later
+## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>サブスクリプションを購入し、後でサブスクリプションを追加する
 
 シナリオ 2 では、6 月 11 日にサブスクリプションを単価 $4 で購入し、6 月 12 日に同じ製品の別のサブスクリプションを同じ価格で購入します。
 
@@ -51,7 +51,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 |2019/6/12     | 2019/6/10    |2019/7/9        |$4        |1        | -$3.87       |addQuantity           |
 |2019/6/12     | 2019/6/10    |2019/7/9        |$4        | 2      |$7.74       |addQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>Purchase a subscription and remove a seat on the same day
+## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>サブスクリプションを購入し、同じ日に座席を削除する
 
 シナリオ 3 では、6 月 11 日に同じ製品の 2 つのサブスクリプションを単価 $4 で購入します。 同じ日に、後で、シートの 1 つを削除します。  
 
@@ -67,7 +67,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 |2019/6/11     | 2019/6/10    |2019/7/9        |$4        |2        | -$8       |removeQuantity           |
 |2019/6/11     | 2019/6/10    |2019/7/9        |$4        | 1      |$4         |removeQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-seats-later"></a>Purchase a subscription and remove seats later
+## <a name="purchase-a-subscription-and-remove-seats-later"></a>サブスクリプションを購入し、後で座席を削除する
 
 シナリオ 4 では、6 月 11 日に単価 $4 で 2 つのサブスクリプションを購入し、6 月 12 日に 1 つのシートを削除します。
 

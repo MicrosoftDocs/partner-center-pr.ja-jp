@@ -3,7 +3,7 @@ title: 間接リセラーのパフォーマンス分析 | パートナー セン
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to use analytics to find out how your indirect resellers are doing, both their successes and areas that may need more attention.
+Description: 分析を使用して間接リセラーがどのように実行されているかを確認する方法について説明します。成功と領域の両方で、さらに注意が必要な場合もあります。
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E

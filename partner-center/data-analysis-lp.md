@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to use analytics in Partner Center to better understand your business and how your customers are using the licenses you've purchased.
+description: パートナーセンターで analytics を使用して、ビジネスについて理解を深め、購入したライセンスを顧客がどのように使用しているかについて説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: データ, 分析, データ分析, power bi
@@ -21,10 +21,10 @@ ms.locfileid: "74384845"
 **適用対象**
 
 - パートナー センター
-- MPN partners
+- MPN パートナー
 - CSP プログラムのパートナー
 
-**Appropriate role**
+**適切なロール**
 
 - MPN パートナー管理者
 
@@ -39,16 +39,16 @@ CSP ビジネスの構築方法の計画には、Microsoft 製品が顧客によ
 
 **パートナー センターでユーザー分析へのアクセスを許可する** 
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
-2. From the Partner Center menu, On the Partner Center **User management** page, use the Search box to find the person who needs access.
-2.  In the search results, select the person's name to open the **User details** page.
+2. パートナーセンターメニューの [パートナーセンターの**ユーザー管理**] ページで、[検索] ボックスを使用して、アクセスが必要なユーザーを検索します。
+2.  検索結果で、ユーザーの名前を選択して、 **[ユーザーの詳細]** ページを開きます。
 3.  **[Roles and permissions]\(ロールとアクセス許可\)** で **[MPN partner admin]\(MPN パートナー管理者\)** を選択した後、 **[更新]** を選択します。
 
  
 ## <a name="access-data-in-partner-center"></a>パートナー センターでのデータへのアクセス
 
-|**取得するデータ**   |**ダウンロードする対象**   |**この記事を読む**   | **適用対象**    |
+|**取得するデータ**   |**ダウンロードする対象**   |**参照先**   | **適用対象**    |
 |---------------------|:-----------------------|:---------------|:--------------|
 |顧客が購入したライセンスの使用状況   |パートナー センターから展開と使用状況データ => 製品分析   |[導入実績と満足度の向上](increasing-adoption-and-satisfaction.md)|CSP パートナー|
 |サブスクリプションに関する顧客のアクティビティ   |アクティビティ ログ   |[顧客のアクティビティ ログの表示](activity-logs.md)|CSP パートナー   |

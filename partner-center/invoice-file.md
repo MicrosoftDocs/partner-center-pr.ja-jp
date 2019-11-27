@@ -1,12 +1,12 @@
 ---
-title: Invoice files | Partner Center
+title: 請求書ファイル |パートナーセンター
 ms.topic: article
 ms.date: 08/26/2019
-description: Understand the fields in your invoice file for Partner Center billing.
+description: パートナーセンターの請求書ファイルのフィールドを理解します。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, invoice
+keywords: 請求、請求書
 ms.localizationpriority: medium
 ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,48 +15,48 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389840"
 ---
-# <a name="invoice-files"></a>Invoice files
+# <a name="invoice-files"></a>請求書ファイル
 
-You can use the following tables to understand the fields in Partner Center invoice files.
+次の表を使用して、パートナーセンターの請求書ファイルのフィールドを理解することができます。
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>請求書ファイルのフィールド
 
-The following fields appear on your invoice files.
+請求書ファイルには、次のフィールドが表示されます。
 
 | フィールド | 定義 |
 | ----- | ---------- |
-| US FEIN | Your Federal Employer Identification Number (FEIN). This is your United States federal tax identifier number. |
+| US FEIN | 連邦事業者の識別番号 (FEIN)。 これは、米国連邦税 id 番号です。 |
 | 顧客番号 | お客様の番号。 |
-| 請求先 | 請求書の送付先となる住所。 You can change your company name and/or address in your Partner Center billing profile. |
-| ライセンスベースの料金 | The flat monthly or annual charges for your purchased usage-based licenses, billed in advance of the service. This number is the sum of all charges in the **Subtotal** column (column **T**) in your license-based reconciliation file. |
-| 使用量ベースの料金 | Your Azure usage. This includes new services or applications enabled and used during the billing period. This number is the sum of all charges in the **PretaxCharges** column (column **Z**) in your usage-based reconciliation file. |
-| 割引 | The discount that the customer receives from subscription's normal price. This number is shown as a *flat amount*, not as a price per unit or license. |
-| クレジット | Credits or adjustments for changes made to subscriptions (for example, seat increases or decreases). |
+| 請求先 | 請求書の送付先となる住所。 パートナーセンターの課金プロファイルでは、会社名や住所を変更できます。 |
+| ライセンスベースの料金 | 購入した使用量ベースのライセンスの月次または年間料金は、サービスの事前に課金されます。 この数値は、ライセンスベースの調整ファイルの**小計**列 (列**T**) に含まれるすべての料金の合計です。 |
+| 使用量ベースの料金 | Azure の使用状況。 これには、請求期間中に有効になり、使用される新しいサービスまたはアプリケーションが含まれます。 この数は、使用量に基づく調整ファイル**の、すべて**の料金の合計を示しています。 |
+| 割引 | 顧客がサブスクリプションの通常価格から受け取る割引。 この数値は、ユニットまたはライセンスあたりの価格としてではなく、*一律の金額*として表示されます。 |
+| クレジット | サブスクリプションに対して行われた変更のクレジットまたは調整 (接続クライアント数の増減など)。 |
 | Subtotal | 課税前の税抜き料金とクレジットの合計。 |
-| Tax | The total tax for your current charges, as totaled in the **Details** section beginning on page 2 of your invoice. This number is the sum of all charges in the **TaxAmount** column (column **AA**) in your usage-based reconciliation file, and the **Tax** column (column **U**) in your license-based reconciliation file. |
+| Tax | 請求書の2ページから始まる**詳細**セクションで合計した、現在の料金の合計税額。 この数値は、使用量に基づく調整ファイル内の**taxationitem.taxamount**列 (列**AA**) のすべての料金と、ライセンスベースの調整ファイルの**税**列 (列**U**) の合計です。 |
 | その他のクレジット | 税抜きクレジット。 |
-| 当月の請求額合計 | The amount due in your billing currency for the billing period. These charges are due by the payment due date. |
-| お支払いについて | Description of how to pay your invoice, based on your region. *Always be sure to include your invoice number when making a payment.* |
+| 当月の請求額合計 | 請求期間の請求通貨における支払額。 これらの料金は、支払期日に起因します。 |
+| 支払い方法 | お客様の地域に基づいて請求書を支払う方法について説明します。 *支払いを行う場合は、常に請求書番号を含めてください。* |
 | 請求書番号 | 請求書の番号。 |
 | 課金期間 | 請求日に至るまでの月単位の期間。 これは、クレジットの調整またはライセンス数の変更のための、使用量ベースのサービスが消費された期間、またはライセンス ベースのサービスが調整された期間です。 |
-| 請求書作成日 | The billing date or anniversary date on which your invoice is generated each month. |
-| 支払条件 | The payment term. 1 回限りの購入の場合は、常に 60 日間になります。 |
-| 支払期日 | The date by which your payment must be received. |
-| 顧客 PO | Your purchase number order. |
-| カスタマー サービス | The website address where you can access customer service. |
-| サービス利用者 | The address where the service is being used. (これは、会社の審査に関連付けられている会社の正式な住所です。) |
+| 請求書作成日 | 毎月請求書が生成される請求日または記念日。 |
+| 支払条件 | 支払条件。 1 回限りの購入の場合は、常に 60 日間になります。 |
+| 支払期日 | 支払いを受け取る必要がある日付。 |
+| 顧客 PO | 注文番号。 |
+| カスタマー サービス | カスタマーサービスにアクセスできる web サイトのアドレス。 |
+| サービス利用者 | サービスが使用されているアドレス。 (これは、会社の審査に関連付けられている会社の正式な住所です。) |
 
-## <a name="one-time-charges-fields"></a>One-time charges fields
+## <a name="one-time-charges-fields"></a>1回限りの料金フィールド
 
-The following fields only apply to **one-time charges** in Partner Center:
+次のフィールドは、パートナーセンターの**1 回限りの料金**にのみ適用されます。
 
 | フィールド | 定義 |
 | ----- | ---------- |
-| 日付 | 購入日。 |
+| date | 購入日。 |
 | 説明 | 製品名。 |
-| Quantity | The number of products (such as reservations) purchased. |
-| 単価 | Price per product (such as a reservation). |
+| Quantity | 購入した製品 (予約など) の数。 |
+| 単価 | 製品ごとの価格 (予約など)。 |
 | 割引 | 適用される割引。 |
 | 税抜き額 | 課税前の購入額の小計。 |
 | 売上税 | 税額。 |
-| Total | Total amount to be paid. |
+| Total | 支払い対象の合計金額。 |

@@ -153,6 +153,6 @@ ISV 発行元からライセンスベースの SaaS サブスクリプション�
 
 - [顧客向けの商用 marketplace 製品を購入する](csp-commercial-marketplace-purchase.md)
 - [顧客向けの商用 marketplace 製品を管理する](csp-commercial-marketplace-manage.md)
-- [コマーシャルマーケットプレースの概要](csp-commercial-marketplace-overview.md)
+- [商業マーケットプレースの概要](csp-commercial-marketplace-overview.md)
 
 

@@ -1,8 +1,8 @@
 ---
-title: Reconciliation file charge types | Partner Center
+title: 調整ファイルの料金の種類 |パートナーセンター
 ms.topic: article
 ms.date: 08/26/2019
-description: Types of charges (license-based, usage-based and one-time), credits and discounts on Partner Center reconciliation files.
+description: パートナーセンターの調整ファイルの料金の種類 (ライセンスベース、使用量ベース、1回限り)、クレジット、および割引。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -14,86 +14,86 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389810"
 ---
-# <a name="understand-charge-types"></a>Understand charge types
+# <a name="understand-charge-types"></a>料金の種類について
 
-適用対象:
+適用対象
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
-This topic describes the mappings between an invoice section and associated charge types that might be on your reconciliation file. Your invoice provides a summary of charges. Your reconciliation file provides a detailed breakdown of line-item transactions, including charge types. For more information on reconciliation files, see [how to use reconciliation files](use-the-reconciliation-files.md).
+このトピックでは、請求書セクションと、調整ファイルに存在する可能性のある関連する料金の種類とのマッピングについて説明します。 請求書には、料金の概要が表示されます。 調整ファイルには、料金の種類など、行アイテムトランザクションの詳細な内訳が表示されます。 調整ファイルの詳細については、「[調整ファイルの使用方法](use-the-reconciliation-files.md)」を参照してください。
 
-Both [usage-based reconciliation files](usage-based-recon-files.md) and [license-based reconciliation files](license-based-recon-files.md) only show usage-related transactions and charges (units consumed and related charges).
+[使用量に基づく調整ファイル](usage-based-recon-files.md)と[ライセンスベースの調整ファイル](license-based-recon-files.md)はどちらも、使用状況に関連するトランザクションと料金 (使用されたユニットと関連する料金) のみを表示します。
 
 > [!NOTE]
-> One-off credits, discounts or refunds that appear on the invoice as **Adjustments** are not shown in the reconciliation file.
+> 請求書に**調整**として表示される1回限りのクレジット、割引、返金は、調整ファイルには表示されません。
 
-## <a name="map-charge-types-to-invoice-charges"></a>Map charge types to invoice charges
+## <a name="map-charge-types-to-invoice-charges"></a>請求書の料金に種類をマップする
 
-To cross-reference charge amounts between your invoice and reconciliation file, use the filter options in Microsoft Excel. Filter by charge types on your reconciliation file to map the invoice charges to a set of charge breakdowns on the reconciliation file.
+請求書と調整ファイルの間で請求金額を相互参照するには、Microsoft Excel のフィルターオプションを使用します。 調整ファイルの料金の種類でフィルター処理して、請求書の料金を調整ファイルの一連の課金の内訳にマップします。
 
 ## <a name="license-based-charges"></a>ライセンスベースの料金
 
-To map these license-based charges to your invoice, sum the **Amount** column from the license-based file.
+これらのライセンスベースの料金を請求書にマッピングするには、ライセンスベースのファイルから**Amount**列を合計します。
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 料金の説明 (調整ファイルの ChargeType 列) | 料金の説明 |
 | ------------------------------------------------------------- | ------------------ |
-| アクティブ化料金 | The amount charged to the customer when they use the subscription after purchase. |
-| 取り消し料金 | Prorated charges refunded to the customer when associated seats are changed. |
-| Cycle fee | Periodic charges for a subscription. |
-| Cycle instance prorate | Prorated charges assessed from the customer when associated seats are changed. |
-| Prorate fees when cancel | Prorated refund for unused portion of service upon cancellation. |
-| Prorate fees when purchase | The charge type for a subscription when using annual billing. |
-| Purchase fee | The charge type for a subscription when using monthly billing. |
-| Prorate fee when renew | Prorated fees upon subscription renewal. |
+| アクティブ化料金 | 購入後にサブスクリプションを使用する場合に、顧客に請求される金額。 |
+| 取り消し料金 | 日割りは、関連付けられたシートが変更された場合に、お客様に返金されます。 |
+| Cycle fee | サブスクリプションに対する定期的な料金。 |
+| Cycle instance prorate | 関連付けられているシートが変更された場合に、日割り料金が顧客から評価されます。 |
+| Prorate fees when cancel | キャンセル時のサービスの未使用部分の日割り返金。 |
+| Prorate fees when purchase | 年間請求書を使用する場合のサブスクリプションの料金の種類。 |
+| Purchase fee | 毎月の課金を使用する場合のサブスクリプションの料金の種類。 |
+| Prorate fee when renew | サブスクリプションの更新時の日割り料金。 |
 | Renew fee | サブスクリプションの更新時の課金 |
-| Prorate fees when activate | >Prorated fees from activation until end of billing period. |
+| Prorate fees when activate | 請求期間が終了するまで、ライセンス認証の > 日割り料金がかかります。 |
 
-## <a name="one-time-charges"></a>One-time charges
+## <a name="one-time-charges"></a>1回限りの料金
 
-To map these one-time charges to your invoice, sum the **Amount** column from the license-based file.
+この1回限りの料金を請求書にマップするには、ライセンスベースのファイルから**Amount**列を合計します。
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 料金の説明 (調整ファイルの ChargeType 列) | 料金の説明 |
 | ------------------------------------------------------------- | ------------------ |
-| 新規 | Used when a new purchase is created. |
-| addQuantity | Used in both the refund of the original purchase and the new quantity after an increase. |
-| removeQuantity | Used in both the refund of the original purchase and the new quantity after a decrease. |
-| [キャンセル] | Used when a subscription is cancelled. |
-| Convert | Used when a license is upgraded but the number of seats remains unchanged. |
+| 新規 | 新しい購入が作成されるときに使用されます。 |
+| addQuantity | 元の購入の返金と、増加後の新しい数量の両方で使用されます。 |
+| removeQuantity | 元の購入の返金と、減少後の新しい数量の両方で使用されます。 |
+| キャンセル | サブスクリプションが取り消されたときに使用されます。 |
+| Convert | ライセンスをアップグレードするときに使用しますが、接続クライアント数は変更されません。 |
 
 ## <a name="usage-charges"></a>利用料金
 
-To map these usage charges to your invoice, sum the **PretaxCharges** column from the usage-based file.
+これらの使用料金を請求書にマッピングするには、使用量に基づくファイルから、[の**Ax料金**] 列を合計します。
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 料金の説明 (調整ファイルの ChargeType 列) | 料金の説明 |
 | ------------------------------------------------------------- | ------------------ |
-| Assess usage fee when cancel | Access usage fee upon cancellation for unpaid usage during the current billing period. |
-| Assess usage fee for current cycle | Access usage fee for the current billing period. |
+| Assess usage fee when cancel | 現在の請求期間中に未払いの使用をキャンセルしたときのアクセス使用料。 |
+| Assess usage fee for current cycle | 現在の請求期間のアクセス使用料。 |
 
 ### <a name="credits"></a>クレジット
 
-To map these credits to your invoice:
+これらのクレジットを請求書にマップするには、次の手順を実行します。
 
-- Sum the **TotalForCustomer** from the license-based file.
-- Sum the **PostTaxTotal** column from the usage-based file.
+- ライセンスベースのファイルから**Totalforcustomer**を合計します。
+- 使用状況に基づくファイルから**PostTaxTotal**列を合計します。
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 料金の説明 (調整ファイルの ChargeType 列) | 料金の説明 |
 | ------------------------------------------------------------- | ------------------ |
-| Offset a line item | Partial or whole refund to a line item, including taxes. |
+| Offset a line item | 商品の一部または全体が税金を含む品目に返金します。 |
 
 ### <a name="usage-based-discounts"></a>使用量ベースの割引
 
-To map these usage-based discounts to your invoice, sum the **PretaxCharges** column from the usage-based file.
+これらの使用量に基づく割引を請求書にマップするには、使用量に基づくファイルから、[の**Ax料金**] 列を合計します。
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 料金の説明 (調整ファイルの ChargeType 列) | 料金の説明 |
 | ------------------------------------------------------------- | ------------------ |
-| Activation discount | Discount applied when subscription activated. |
-| Cycle discount | Discount applied on periodic charges. |
-| Renew discount | Discount applied when subscription renewed. |
-| Cancel discount | Charges applied when discounts cancelled. |
+| Activation discount | サブスクリプションがアクティブになったときに適用される割引。 |
+| Cycle discount | 定期的な料金に適用される割引。 |
+| Renew discount | サブスクリプションが更新されたときに適用される割引。 |
+| Cancel discount | 割引が取り消された場合に適用される料金。 |
 
 ### <a name="license-based-discounts"></a>ライセンスベースの割引
 
-To map license-based discounts to your invoice, sum the **TotalOtherDiscount** column from the license-based file.
+ライセンスベースの割引を請求書にマップするには、ライセンスベースのファイルの合計**割引**列を合計します。
 
-*License-based discounts may be applied to multiple charge types.*
+*ライセンスベースの割引は、複数の種類の料金に適用できます。*

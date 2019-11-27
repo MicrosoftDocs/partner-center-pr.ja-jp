@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/17/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: In Partner Center, learn how to sell your customers subscriptions to SaaS products published to the marketplace by Independent Software Vendors (ISVs).
+description: パートナーセンターでは、独立系ソフトウェアベンダー (Isv) によって marketplace に発行された SaaS 製品に顧客のサブスクリプションを販売する方法について説明します。
 author: MicheleHope
 ms.author: v-mihope
 keywords: サブスクリプション, Marketplace, サード パーティ, ISV
@@ -23,10 +23,10 @@ ms.locfileid: "74253079"
 - パートナー センター
 - CSP パートナー
 
-As a partner in the CSP program, you can use Partner Center to sell your customers subscriptions to Software as a Service (SaaS) products that have been published to the commercial marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) and [Azure Marketplace](https://azuremarketplace.microsoft.com/)) by Independent Software Vendors (ISVs). 
+CSP プログラムのパートナーは、パートナーセンターを使用して、独立系ソフトウェアベンダー (Isv) によって商用マーケットプレース ([Microsoft AppSource](https://appsource.microsoft.com/)および[Azure marketplace](https://azuremarketplace.microsoft.com/)) に発行されたサービスとしてのソフトウェア (SaaS) 製品に対する顧客のサブスクリプションを販売できます。 
 
 これは、貴社のビジネスを差別化し、特定のビジネス ニーズに対応するソフトウェア バンドルを顧客に提供するのに役立ちます。 Microsoft 製品の場合と同じように、これらのマーケットプレース SaaS 製品に対するライセンスとサブスクリプションを管理します。
 
-To learn how partners in the CSP program can use the commercial marketplace, see the [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).
+CSP プログラムのパートナーが商用マーケットプレースを使用する方法については、「[クラウドソリューションプロバイダーのコマーシャルマーケットプレースの概要](csp-commercial-marketplace-overview.md)」を参照してください。
 
-Or, to learn about the different role of ISVs in the commercial marketplace, see [Marketplace FAQs](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide).
+または、商用マーケットプレースにおける Isv のさまざまな役割の詳細については、 [marketplace の faq](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)に関するページを参照してください。

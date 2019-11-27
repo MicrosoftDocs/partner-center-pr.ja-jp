@@ -25,7 +25,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 米国政府機関向け Microsoft Cloud では、米国の政府機関のデータ セキュリティ、プライバシー、コンプライアンスの要件のニーズを満たす、非公開で専用の、独立した Microsoft Azure のインスタンスを提供します。 お客様の会社が米国政府機関向け Microsoft Cloud の CSP プログラムに参加するには、Microsoft の適格性の要件を満たしている必要があります。 詳細については、「[米国政府機関向け Microsoft Cloud のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)」を参照してください。
 
-## <a name="before-you-begin"></a>始める前に
+## <a name="before-you-begin"></a>アンインストールの準備
 
 米国政府機関向け Microsoft Cloud の CSP プログラムに登録する前に、お客様の会社が米国政府機関への販売の要件を満たしていることを確認する必要があります。 登録プロセスを開始する前に、Microsoft がお客様の会社の適格性を確認できるように、[Microsoft Government Cloud Validation Form](https://azuregov.microsoft.com/csp) に必要事項を記入してください。 Microsoft は、お客様の会社の適格性を確認した後、米国政府機関向け Microsoft Cloud 固有の Azure Active Directory (Azure AD) テナントを提供します。  
 

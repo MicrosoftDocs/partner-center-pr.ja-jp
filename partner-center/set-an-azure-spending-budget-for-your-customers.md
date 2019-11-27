@@ -1,8 +1,8 @@
 ---
-title: 顧客向けに Azure の支出の予算を設定する | パートナー センター
+title: 顧客の Azure 支出の予算の設定 | パートナー センター
 ms.topic: article
 ms.date: 11/21/2019
-description: Set a monthly budget per customer in Partner Center.
+description: パートナーセンターで、顧客ごとに月間予算を設定します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
@@ -16,85 +16,85 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384891"
 ---
-# <a name="set-an-azure-spending-budget-for-your-customers"></a>顧客の Azure 支出の予算の設定
+# <a name="set-an-azure-spending-budget-for-your-customers"></a>お客様向けに Azure の支出の予算を設定する
 
-適用対象:
+適用対象
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
-You can [set a monthly Azure spending budget for your customers](#set-azure-spending-budget) in Partner Center. This helps your customers manage their Azure spending. This option allows you to compare your customers' Azure spending to the budget during the month. It also helps your customers budget their Azure spending so their monthly bill isn't higher than they anticipate.
+パートナーセンターでは、[顧客の Azure 支出予算を毎月設定](#set-azure-spending-budget)できます。 これにより、お客様は Azure の支出を管理できます。 このオプションを使用すると、顧客の Azure の支出を月の予算と比較できます。 また、お客様が Azure の支出を予算に費やして、月々の請求額が予想よりも高くなるのを防ぐことができます。
 
 
 > [!NOTE]  
 > この機能は、サンドボックスまたは Test in Production (TIP) アカウントでは使用できません。
 
-After you [set an Azure spending budget for your customer(s)](#set-azure-spending-budget), you can also review customer usage in the following ways. These options may help you spot misconfigured services or unusual trends that might suggest fraud. You can then work with your customer(s) to identify the root cause and manage costs. If necessary, you can also [change the customer's budget](#set-azure-spending-budget) to a higher amount.
+[顧客の Azure 支出予算を設定](#set-azure-spending-budget)した後、次の方法で顧客の使用状況を確認することもできます。 これらのオプションを使用すると、正しく構成されていないサービスや、不正行為の可能性がある異常な傾向を特定できます。 その後、顧客と協力して根本原因を特定し、コストを管理できます。 必要に応じ[て、お客様の予算](#set-azure-spending-budget)をより高い金額に変更することもできます。
 
-- [Check current Azure spending](#check-current-azure-spending)
-- [Turn on email notifications for when a customer's spending is nearing their budget limit](#notifications-for-budget-limits)
-- [View itemized costs by service for usage-based subscriptions](#itemized-costs-by-service)
+- [現在の Azure の支出を確認する](#check-current-azure-spending)
+- [顧客の支出が予算制限に近づいたときの電子メール通知を有効にする](#notifications-for-budget-limits)
+- [使用量ベースのサブスクリプションのサービス別コストを表示する](#itemized-costs-by-service)
 
-You can also [remove an Azure spending budget](#remove-azure-spending-budget) for customer(s) at any time.
+また、お客様の[Azure 支出予算](#remove-azure-spending-budget)をいつでも削除することもできます。
 
-## <a name="azure-spending-data"></a>Azure spending data
+## <a name="azure-spending-data"></a>Azure の支出データ
 
-The Azure spending data is an *estimate* and *actual billing amounts may vary*. The data's value *doesn't reflect* taxes, credits, adjustments, or other charges that may apply.
+Azure の支出データは*見積もり*で*あり、実際の請求金額は異なる場合があり*ます。 データの値には、適用される可能性がある税金、クレジット、調整、またはその他の料金は反映され*ません*。
 
-The spending data is *refreshed once per day*. Your customers can continue to use (and be charged for) Azure services and resources, unless you change their account settings in the Azure portal.
+支出データは 1*日に1回更新*されます。 Azure portal でアカウントの設定を変更しない限り、お客様は Azure のサービスとリソースを引き続き使用できます (料金が発生します)。
 
-## <a name="set-azure-spending-budget"></a>Set Azure spending budget
+## <a name="set-azure-spending-budget"></a>Azure の支出予算を設定する
 
-You can *set a monthly Azure spending budget* for multiple customers in Partner Center:
+パートナーセンターでは、複数の顧客に対する*月単位の Azure 支出予算を設定*できます。
 
-1. Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the left-hand menu under **CSP**, choose **Azure spending**.
-3. On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) for whom you want to set a budget.
-4. Enter a value for **Monthly budget**.
-5. Choose **Apply** to save your changes.
+1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+2. **[CSP]** の左側のメニューで、 **[Azure の支出]** を選択します。
+3. **[Azure]** の使用量 ページの **[Microsoft Azure サブスクリプションを持つ顧客]** で、予算を設定する顧客を選択します。
+4. **月単位の予算**の値を入力します。
+5. **[適用]** を選択して変更を保存します。
 
-You can also *set a budget for an individual customer* in their subscription settings:
+また、サブスクリプション設定で*個々の顧客の予算を設定*することもできます。
 
-1. Sign in to the Partner Center dashboard.
-2. In the left-hand menu under **CSP**, choose **Customers**.
-3. On the **Customers** page, select the customer's **Company name**.
-4. On the customer's **Subscriptions** page, under **Usage-based subscription**, choose **Change budget**.
-5. Enter a value for the budget.
-6. Choose **Apply** to save your changes.
+1. パートナーセンターのダッシュボードにサインインします。
+2. **[CSP]** の左側のメニューで、 **[Customers]** を選択します。
+3. **[顧客]** ページで、顧客の**会社名**を選択します。
+4. 顧客の **[サブスクリプション]** ページの **[使用量ベースのサブスクリプション]** で、 **[予算の変更]** を選択します。
+5. 予算の値を入力します。
+6. **[適用]** を選択して変更を保存します。
 
-## <a name="remove-azure-spending-budget"></a>Remove Azure spending budget
+## <a name="remove-azure-spending-budget"></a>Azure の支出予算の削除
 
-You can *remove a monthly Azure spending budget* for your customer(s) in Partner Center:
+パートナーセンターでは、お客様の*月単位の Azure 支出予算を削除*できます。
 
-1. Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the left-hand menu under **CSP**, choose **Azure spending**.
-3. On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) whose budget you want to remove.
-4. Choose **Remove budget**.
+1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+2. **[CSP]** の左側のメニューで、 **[Azure の支出]** を選択します。
+3. **[Azure]** の使用量 ページの **[Microsoft Azure サブスクリプションを持つ顧客]** で、予算を削除する顧客を選択します。
+4. **[予算の削除]** を選択します。
 
-## <a name="check-current-azure-spending"></a>Check current Azure spending
+## <a name="check-current-azure-spending"></a>現在の Azure の支出を確認する
 
-You can *track your customers' current Azure spending and monthly budgets* at any time:
+*お客様の現在の Azure の支出と月々の予算*をいつでも追跡できます。
 
-1. Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the left-hand menu under **CSP**, choose **Azure spending**.
-3. On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, you can see an overview of customers' monthly budgets, current spending estimates and percentage of budget used.
+1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+2. **[CSP]** の左側のメニューで、 **[Azure の支出]** を選択します。
+3. **[Azure]** の使用量 ページで、 **[Microsoft Azure のサブスクリプションをお持ちのお客様]** の下に、顧客の月々の予算、現在の支出見積もり、使用された予算の割合の概要が表示されます。
 
-## <a name="notifications-for-budget-limits"></a>Notifications for budget limits
+## <a name="notifications-for-budget-limits"></a>予算制限の通知
 
-You can *turn on email notifications* for when your customer's monthly spending is nearing their budget limit. When you turn on this option, you will be notified when customers use 80% or more of their monthly budget. This option helps you can keep an eye on your Azure bill. To configure email notifications:
-
-1. パートナー センターにサインインします。
-2. In the left-hand menu under **CSP**, choose **Azure spending**.
-3. On the **Azure spending** page, under **Email notifications**, toggle the **Get emails** setting to **On**.
-4. Choose **Change email address** to see the email address for notifications.
-5. If the email address *isn't correct*, enter the correct email address and choose **Update**. If the email address *is correct*, choose **Cancel**.
-
-## <a name="itemized-costs-by-service"></a>Itemized costs by service
-
-You can *view itemized costs (and estimated usage) by service for usage-based subscriptions*:
+お客様の月々の支出が予算制限に近づいたときに、*電子メール通知を有効*にすることができます。 このオプションをオンにすると、顧客が80% 以上の月間予算を使用した場合に通知が表示されます。 このオプションを使用すると、Azure の課金内容を監視できます。 電子メール通知を構成するには:
 
 1. パートナー センターにサインインします。
-2. In the left-hand menu under **CSP**, choose **Customers**.
-3. On the **Customers** page, select the customer's **Company name**.
-4. On the customer's **Subscriptions** page, under **Usage-based subscriptions**, select the name of the **Subscription**.
-5. On the subscription's page, you can review the **Itemized costs** by service, and the **Estimated usage** for the current month.
+2. **[CSP]** の左側のメニューで、 **[Azure の支出]** を選択します。
+3. **[Azure の支出]** ページの **[電子メール通知]** で、 **[電子メールの取得]** 設定を **[オン**] に切り替えます。
+4. **[電子メールアドレスの変更]** を選択して、通知の電子メールアドレスを表示します。
+5. 電子メールアドレスが*正しくない*場合は、正しい電子メールアドレスを入力し、 **[更新]** を選択します。 電子メールアドレス*が正しい*場合は、 **[キャンセル]** を選択します。
+
+## <a name="itemized-costs-by-service"></a>サービス別コストの明細
+
+*使用状況に基づいたサブスクリプションのサービスごとに、明細のコスト (および推定使用量) を表示*できます。
+
+1. パートナー センターにサインインします。
+2. **[CSP]** の左側のメニューで、 **[Customers]** を選択します。
+3. **[顧客]** ページで、顧客の**会社名**を選択します。
+4. 顧客の **[サブスクリプション]** ページの **[使用量ベースのサブスクリプション]** で、**サブスクリプション**の名前を選択します。
+5. サブスクリプションのページで、サービスごとの**明細コスト**と当月の**推定使用量**を確認できます。

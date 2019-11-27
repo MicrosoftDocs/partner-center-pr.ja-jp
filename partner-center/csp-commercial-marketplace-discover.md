@@ -105,6 +105,6 @@ Isv は、CSP プログラムの特定のパートナーだけがオファーを
 
 Marketplace での CSP エクスペリエンスの詳細については、「[コマーシャルマーケットプレースの概要」](csp-commercial-marketplace-overview.md)を参照してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)

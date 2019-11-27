@@ -1,10 +1,10 @@
 ---
-title: 既存のサブスクリプションにライセンスまたはサービスを追加する | パートナー センター
+title: 既存のサブスクリプションへのライセンスまたはサービスの追加 | パートナー センター
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to upgrade or modify a customer's subscription, such as adding more licenses or seats or moving to a different version with other services.
+description: ライセンスまたはシートの追加や他のサービスとの別のバージョンへの移行など、顧客のサブスクリプションをアップグレードまたは変更する方法について説明します。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
@@ -23,7 +23,7 @@ ms.locfileid: "74253141"
 
 -  パートナー センター
 
-顧客が現在提供されているサブスクリプションよりも多くのシートを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。 詳しくは、「[別の一般法人向け Office 365 プランに切り替える](https://go.microsoft.com/fwlink/p/?LinkId=723577)」をご覧ください。
+顧客が現在提供されているサブスクリプションよりも多くのシートを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。 詳しくは、[別の一般法人向け Office 365 プランに切り替える](https://go.microsoft.com/fwlink/p/?LinkId=723577)」をご覧ください。
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -80,13 +80,13 @@ ms.locfileid: "74253141"
 
 -   サブスクリプションがアクティブである (中断またはキャンセルされていない)。
 
--   その顧客とサービスに対する委任された管理者特権を持っている。 「[委任された管理者特権の要求](request-a-relationship-with-a-customer.md)」を確認してください。
+-   その顧客とサービスに対する委任された管理者特権を持っている。 [代理管理者特権を要求する方法](request-a-relationship-with-a-customer.md)を確認してください。
 
--   The customer can't already have subscriptions that include the additional services.
+-   お客様は、追加のサービスを含むサブスクリプションをまだ持っていません。
 
--   The customer can't already have the subscriptions you are trying to upgrade them to.
+-   お客様は、アップグレードしようとしているサブスクリプションをまだ持っていません。
 
-It is possible, in the latter two cases that the customer may have purchased those subscriptions or services from another partner or another channel, and they won't be able to purchase them from you unless they cancel their existing ones first. 詳しくは、「[マルチチャンネル](multichannel.md)」をご覧ください。
+2つ目のケースでは、顧客が別のパートナーまたは別のチャネルからサブスクリプションやサービスを購入している可能性があります。また、既存のサブスクリプションやサービスを最初にキャンセルしない限り、お客様から購入することはできません。 詳しくは、「[マルチチャンネル](multichannel.md)」をご覧ください。
 
 これが課金に及ぼす影響については、「[一般的な課金シナリオ](common-billing-scenarios.md)」で、サブスクリプションをキャンセルして新しいサブスクリプションを追加する方法を確認してください。
 

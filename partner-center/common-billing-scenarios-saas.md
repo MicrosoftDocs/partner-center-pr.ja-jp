@@ -1,12 +1,12 @@
 ---
-title: Common billing scenarios for license-based SaaS transactions | Partner Center
+title: ライセンスベースの SaaS トランザクションの一般的な課金シナリオ |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for license-based SaaS transactions.
+description: パートナーセンターでのライセンスベースの SaaS トランザクションの一般的な課金シナリオ。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, one-time purchase, recurring purchase, subscriptions, seats
+Keywords: 課金、支払い、1回限りの購入、定期的な購入、サブスクリプション、シート
 ms.localizationpriority: medium
 ms.openlocfilehash: b808a3bbfc0856e03f1c775d7e3145a29c2239fb
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,58 +15,58 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389610"
 ---
-# <a name="billing-scenarios-for-license-based-saas-transactions"></a>Billing scenarios for license-based SaaS transactions
+# <a name="billing-scenarios-for-license-based-saas-transactions"></a>ライセンスベースの SaaS トランザクションの課金シナリオ
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable to license-based software as a service (SaaS) subscriptions in Partner Center.
+この例の[一般的な課金シナリオ](common-billing-scenarios.md)は、パートナーセンターのライセンスベースのサービスとしてのソフトウェア (SaaS) サブスクリプションに適用されます。
 
-## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>Convert a free trial SaaS subscription to a paid subscription
+## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>無料試用版 SaaS サブスクリプションを有料サブスクリプションに変換する
 
-This scenario describes billing for the renewal of a license-based free trial SaaS subscription. The renewal converts the free trial to a paid subscription at the end of the free trial period.
+このシナリオでは、ライセンスベースの無料試用版 SaaS サブスクリプションを更新するための課金について説明します。 この更新では、無料試用期間の終了時に無料試用版を有料サブスクリプションに変換します。
 
-In this example, you purchased a free trial of a license-based SaaS (software as a service) subscription on June 10th. This free trial automatically renewed as a paid subscription when the free trial period ends.
+この例では、ライセンスベースの SaaS (サービスとしてのソフトウェア) サブスクリプションの無料試用版を6月10日に購入したとします。 無料試用期間が終了すると、この無料試用版は有料サブスクリプションとして自動的に更新されます。
 
-The recon files will include the following charges:
+偵察ファイルには、次の料金が含まれます。
 
-| ご購入日 | Charge start date | Charge end date | 単価 | Unit quantity | Total amount | 請求の種類 | Subscription description |
+| ご購入日 | 請求開始日 | 請求終了日 | 単価 | ユニット数 | 合計金額 | 請求の種類 | サブスクリプションの説明 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 1 | $0 | 新規 | 無料試用版 |
-| 07/10/2019 | 07/10/2019 | 08/09/2019 | $2 | 1 | $2 | [更新] | Paid subscription |
+| 07/10/2019 | 07/10/2019 | 08/09/2019 | $2 | 1 | $2 | [更新] | 有料サブスクリプション |
 
-## <a name="cancel-a-free-trial-saas-subscription"></a>Cancel a free trial SaaS subscription
+## <a name="cancel-a-free-trial-saas-subscription"></a>無料試用版 SaaS サブスクリプションをキャンセルする
 
 > [!TIP]
-> You can cancel a license-based free trial SaaS subscription any time, even during the free trial period.
+> ライセンスベースの無料試用版 SaaS サブスクリプションは、無料試用期間中であってもいつでも取り消すことができます。
 
-In this scenario, you purchased a license-based free trial SaaS subscription on July 1st, and then canceled it immediately in Partner Center. 
+このシナリオでは、ライセンスベースの無料試用版の SaaS サブスクリプションを7月1日に購入し、パートナーセンターですぐに取り消しました。 
 
-The recon file will include the following charges:
+偵察ファイルには、次の料金が含まれます。
 
-| ご購入日 | Charge start date | Charge end date | 単価 | Unit quantity | Total amount | 請求の種類 | Subscription description |
+| ご購入日 | 請求開始日 | 請求終了日 | 単価 | ユニット数 | 合計金額 | 請求の種類 | サブスクリプションの説明 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | 新規 | 無料試用版 |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | [キャンセル] | 無料試用版 |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | キャンセル | 無料試用版 |
 
-## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Convert custom meter SaaS subscription to another SKU
+## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>カスタムメーター SaaS サブスクリプションを別の SKU に変換する
 
-This scenario describes how to convert a custom meter SaaS subscription from one stock keeping unit (SKU) to another SKU for the same product, on the same date.
+このシナリオでは、カスタムメータリング SaaS サブスクリプションを、同じ製品の同じ製品に対して、ある Stock Keeping Unit (SKU) から別の SKU に変換する方法について説明します。
 
-In this scenario, you purchased one SKU (Silver) under a product and converted it to another available SKU (Bronze) under this product on the same date.
+このシナリオでは、ある製品で1つの SKU (シルバー) を購入し、同じ日にこの製品の別の利用可能な SKU (ブロンズ) に変換しました。
 
-The recon file will include the following charges:
+偵察ファイルには、次の料金が含まれます。
 
-| ご購入日 | Charge start date | Charge end date | 単価 | Unit quantity | Total amount | 請求の種類 | Subscription description |
+| ご購入日 | 請求開始日 | 請求終了日 | 単価 | ユニット数 | 合計金額 | 請求の種類 | サブスクリプションの説明 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | $20 | 1 | $20 | 新規 | Custom meter SaaS subscription |
-| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | $20 | 1 | -$20 | Convert | Prorated rebill for custom meter SaaS subscription |
-| 06/10/2019 | ブロンズ | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | Convert | Custom meter SaaS subscription |
+| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | $20 | 1 | $20 | 新規 | カスタムメーター SaaS サブスクリプション |
+| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | $20 | 1 | -$20 | Convert | カスタムメーター SaaS サブスクリプションの日割り再請求 |
+| 06/10/2019 | ブロンズ | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | Convert | カスタムメーター SaaS サブスクリプション |
 
-## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Purchase and cancel a customer meter SaaS subscription on same date
+## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>同じ日付で顧客測定の SaaS サブスクリプションを購入してキャンセルする
 
-This scenario describes billing for a customer meter SaaS subscription that you purchased and cancelled through the Azure portal on the same date.
+このシナリオでは、Azure portal を通じて購入してキャンセルしたカスタマーメーター SaaS サブスクリプションについて、同じ日に課金されることについて説明します。
 
-In this scenario, you purchased a custom meter SaaS subscription on the Azure portal. Then, you canceled the subscription on the same date.
+このシナリオでは、Azure portal でカスタムメーター SaaS サブスクリプションを購入しています。 次に、同じ日付でサブスクリプションを取り消しました。
 
-| ご購入日 | Charge start date | Charge end date | 単価 | Unit quantity | Total amount | 請求の種類 | Subscription description |
+| ご購入日 | 請求開始日 | 請求終了日 | 単価 | ユニット数 | 合計金額 | 請求の種類 | サブスクリプションの説明 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | ブロンズ | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | 新規 | Custom meter SaaS subscription |
-| 06/10/2019 | ブロンズ | 06/10/2019 | 06/10/2019 | $10 | 1 | -$10 | CancelImmediate | Custom meter SaaS subscription |
+| 06/10/2019 | ブロンズ | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | 新規 | カスタムメーター SaaS サブスクリプション |
+| 06/10/2019 | ブロンズ | 06/10/2019 | 06/10/2019 | $10 | 1 | -$10 | CancelImmediate | カスタムメーター SaaS サブスクリプション |

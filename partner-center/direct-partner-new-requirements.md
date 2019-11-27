@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: If you are a direct partner in the CSP program, you can learn about updated support and services requirements and how to meet them.
+Description: CSP プログラムで直接パートナーである場合は、更新されたサポートとサービスの要件とそれらを満たす方法について学習できます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, 直接パートナー, 直接請求, 要件
@@ -33,7 +33,7 @@ ms.locfileid: "74253593"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |事業拠点で有効な Microsoft Partner Network (MPN) ID。    |
 |**保証**   |組織を代表して契約書に同意して署名するための権限。|
-|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br> IMPORTANT: You must pass a credit check before purchasing a support plan. 与信審査に合格したら、メールでご連絡します。 |
+|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br> 重要: サポートプランを購入する前に、クレジットを確認する必要があります。 与信審査に合格したら、メールでご連絡します。 |
 |**マネージド サービス**   |少なくとも 1 つの管理されたサービス、IP サービス、または顧客ソリューション アプリケーション。 [管理されたサービス](https://partner.microsoft.com/business-opportunities/managed-services-provider)の追加に関する詳細をご覧ください。|
 |**売掛金勘定** |顧客の請求とプロビジョニングを管理するための組織のインフラストラクチャ。
 

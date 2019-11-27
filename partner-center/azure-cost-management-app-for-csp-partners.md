@@ -31,7 +31,7 @@ ms.locfileid: "74253296"
 
 [Azure Cost Management の詳細情報](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
-## <a name="before-you-begin"></a>始める前に
+## <a name="before-you-begin"></a>アンインストールの準備
 Azure Cost Management を使用する前に、次の要件を満たしていることを確認してください。
 
 - クラウド ソリューション プロバイダー プログラムのパートナー様であること。
@@ -56,7 +56,7 @@ Cloudyn は、お客様による Azure の使用量とその使用量に対す�
    > [!NOTE]  
    > アプリケーションの秘密キーは、有効期限の長いパスワードのようなものです。 後日使用できるように、安全な場所にキーの値を保存してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 [30 日間無料試用版](https://go.microsoft.com/fwlink/?linkid=857895) をご利用ください。
 試用を開始するには、次の情報が必要です。
 - パートナー センターのログイン資格情報

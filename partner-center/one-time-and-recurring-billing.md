@@ -1,11 +1,11 @@
 ---
-title: Billing for one-time and select recurring charges | Partner Center
+title: 1回限りの課金と選択された料金 |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
-Description: Information on one-time billing in advance for a preset term (monthly and annual subscriptions), and billing for select recurring charges (for applicable Microsoft and third-party ISV products) in Partner Center.
+Description: 事前設定された期間 (月単位および年間サブスクリプション) に対する1回限りの課金、パートナーセンターでの (該当する Microsoft およびサードパーティの ISV 製品の) 選択された課金の請求に関する情報。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, one-time, recurring, purchases, charges, isv
+keywords: 課金、1回限り、定期的な購入、請求、isv
 ms.localizationpriority: medium
 ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -19,38 +19,38 @@ ms.locfileid: "74389690"
 - パートナー センター
 - CSP プログラムのパートナー
 
-This topic describes the billing experience for **one-time and select recurring charges** for Microsoft and third-party independent software vendor (ISV) products. 
+このトピックでは、Microsoft およびサードパーティ製の独立系ソフトウェアベンダー (ISV) 製品の**1 回限り**の課金と、選択された定期的な料金について説明します。 
 
-**One-time billing** is when you purchase software subscriptions and Azure reservations in advance for a preset term. You can purchase for one-year or three-year terms. You're then billed for the entire cost in a one-time lump sum.
+**1 回限りの課金**は、事前設定された期間にソフトウェアサブスクリプションと Azure 予約を事前に購入した場合に使用します。 購入できるのは1年間または3年間です。 その後、1回限りの一括合計で、コスト全体に対して課金されます。
 
-Billing for one-time and select recurring charges applies to the following types of purchases:
+1回限りの課金の請求は、次の種類の購入に適用されます。
 
-- [License-based and usage-based subscriptions](#license-based-and-usage-based-subscription-charges)
-- [Microsoft and third-party ISV products](#microsoft-and-third-party-isv-product-charges)
+- [ライセンスベースおよび使用状況ベースのサブスクリプション](#license-based-and-usage-based-subscription-charges)
+- [Microsoft およびサードパーティの ISV 製品](#microsoft-and-third-party-isv-product-charges)
 
-## <a name="license-based-and-usage-based-subscription-charges"></a>License-based and usage-based subscription charges
+## <a name="license-based-and-usage-based-subscription-charges"></a>ライセンスベースおよび使用量ベースのサブスクリプション料金
 
 > [!IMPORTANT]
-> The billing experience for recurring charges of [**license-based subscriptions**](license-based-billing.md) and [**usage-based subscriptions**](usage-based-billing.md) remains the same.
+> [**ライセンスベースのサブスクリプション**](license-based-billing.md)と[**使用量ベースのサブスクリプション**](usage-based-billing.md)の定期的な料金の課金エクスペリエンスは変わりません。
 
-**Recurring charges** for subscriptions (including **license-based and usage-based subscriptions**) are issued for all products from the [**online services catalog**](https://partner.microsoft.com/commerce/preferredoffers/list). Some examples include Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (pay-as-you-go), Dynamics 365, and PowerBI Pro.
+サブスクリプション (**ライセンスベースおよび使用状況に基づくサブスクリプション**を含む) に対する**定期的な料金**は、[**オンラインサービスカタログ**](https://partner.microsoft.com/commerce/preferredoffers/list)のすべての製品に対して発行されます。 例として、Office 365、Microsoft 365、Azure Active Directory (Azure AD)、Azure (従量課金制)、Dynamics 365、PowerBI Pro などがあります。
 
-For applicable subscription charges, the **billing date** is the date you selected when you created your Partner Center account. The **billing period** is the month prior to your billing date.
+該当するサブスクリプション料金の場合、**請求日**は、パートナーセンターアカウントの作成時に選択した日付になります。 **請求期間**は、請求日の前の月です。
 
-The **billing currency** is the currency of the country or region in which you're located. たとえば、会社の所在地が英国の場合、英ポンド (GBP) で請求します。 インドにある会社の場合は、インド ルピー (INR) で請求します。
+**請求通貨**は、お住まいの国または地域の通貨です。 たとえば、会社の所在地が英国の場合、英ポンド (GBP) で請求します。 インドにある会社の場合は、インド ルピー (INR) で請求します。
 
-Current **billing activity** is *not available* for these types of charges.
+現在の**請求アクティビティ**は、これらの種類の料金では*使用できません*。
 
-## <a name="microsoft-and-third-party-isv-product-charges"></a>Microsoft and third-party ISV product charges
+## <a name="microsoft-and-third-party-isv-product-charges"></a>マイクロソフトおよびサードパーティの ISV 製品料金
 
-**Recurring charges** and **one-time charges** are issued for **Microsoft and third-party ISV products**. Applicable products include all SaaS subscriptions, Azure reservations, and perpetual and subscription-based software products offered by Microsoft and third-party ISVs. See available products in the Marketplace. Examples include SUSE Linux software (software subscriptions), Windows Server 2019 Essentials (perpetual software), and Azure ISV SaaS product subscriptions.
+**Microsoft およびサードパーティの ISV 製品**については、**定期的な料金**と**1 回限りの料金**が発生します。 適用可能な製品には、Microsoft とサードパーティの Isv が提供するすべての SaaS サブスクリプション、Azure 予約、および永続およびサブスクリプションベースのソフトウェア製品が含まれます。 Marketplace で利用可能な製品をご覧ください。 例としては、SUSE Linux ソフトウェア (ソフトウェアサブスクリプション)、Windows Server 2019 Essentials (永続ソフトウェア)、Azure ISV SaaS 製品サブスクリプションなどがあります。
 
-For applicable product charges, the **billing date** is the 8th day of each month. The **billing period** starts on the first day of the calendar month and ends on the last day of the calendar month. Any transactions you make between May 1 and May 31, 2019 will appear on your invoice June 8. 6 月 1 日から 6 月 30 日までの間に行ったすべてのトランザクションは、2019 年からは 7 月 8 日の請求書に含まれます。 定期的と 1 回限りの購入が、同じ請求書で請求される可能性があります。
+適用可能な製品料金の場合、**請求日**は毎月8日になります。 **請求期間**はカレンダー月の最初の日から開始され、カレンダー月の最後の日に終了します。 5月1日から5月 31 2019 日までの間に発生したすべてのトランザクションは、6月8日に請求書に表示されます。 6 月 1 日から 6 月 30 日までの間に行ったすべてのトランザクションは、2019 年からは 7 月 8 日の請求書に含まれます。 定期的と 1 回限りの購入が、同じ請求書で請求される可能性があります。
 
-The **billing currency** is the currency of the country or region in which your customer is located. You’ll receive separate invoices and reconciliation files in the currency of the country or region of each customer that you sold to during the billing period.
+**請求通貨**は、顧客が配置されている国または地域の通貨です。 請求期間中に販売した各顧客の国または地域の通貨で、個別の請求書と調整ファイルを受け取ります。
 
-Current **billing activity** is *available* for these types of charges. You can check your account balance and bill at any time in Partner Center. Note that your final invoice amount may different from what you can see on your account during the billing period. This is because your invoice will include taxes and any other applicable charges and credits.
+現在の**請求アクティビティ**は、これらの種類の料金で*ご利用いただけ*ます。 パートナーセンターでは、アカウントの残高と請求書をいつでも確認できます。 請求期間中、お客様のアカウントで表示できる請求金額とは異なる場合があることに注意してください。 これは、請求書には税金とその他の適用可能な料金とクレジットが含まれるためです。
 
 ## <a name="common-billing-scenarios"></a>一般的な課金シナリオ
 
-For detailed explanations of common billing scenarios for these types of charges, see [Common billing scenarios for one-time and recurring purchases](common-billing-scenarios-onetime-recurring.md).
+これらの種類の料金に対する一般的な課金シナリオの詳細については、「 [1 回限りの定期的な購入に関する一般的な課金シナリオ](common-billing-scenarios-onetime-recurring.md)」を参照してください。

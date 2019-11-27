@@ -16,28 +16,28 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384595"
 ---
-# <a name="company-tax-information"></a>Company tax information
+# <a name="company-tax-information"></a>会社の税金情報
 
-適用対象:
+適用対象
 
 - パートナー センター
 
-パートナー センターで購入した場合の税額は、会社の住所によって決定されます。 Businesses in some countries can [provide their value-added tax (VAT) number](#submit-vat-id-number) or local equivalent.
+パートナー センターで購入した場合の税額は、会社の住所によって決定されます。 一部の国の企業では[、付加価値税 (VAT) 番号](#submit-vat-id-number)またはローカルに相当するものを提供できます。
 
 ### <a name="add-your-vat-id"></a>VAT ID を追加する
 
-You must be a global admin, billing admin, or admin agent to  edit the billing profile.
+課金プロファイルを編集するには、グローバル管理者、課金管理者、または管理エージェントである必要があります。
 
-1.  From the **Partner Center dashboard** go to  **Settings** and then select **Billing profile**.
+1.  **パートナーセンターのダッシュボード**から **[設定]** にアクセスし、 **[課金プロファイル]** を選択します。
 2.  **[財務データ]** セクションで、 **[更新]** を選びます。
-3.  In the **Company Tax ID** field, enter your VAT ID number.
+3.  **[会社の税 ID]** フィールドに、VAT ID 番号を入力します。
 
-## <a name="submit-vat-id-number"></a>Submit VAT ID number
+## <a name="submit-vat-id-number"></a>VAT ID 番号の送信
 
-If applicable, follow these steps to send Microsoft your value-added tax (VAT) ID number:
+該当する場合は、次の手順に従って、マイクロソフトの付加価値税 (VAT) ID 番号を送信します。
 
-1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the **Settings** menu (gear icon), choose **Partner Settings**.
-3. On the **Account settings** page, choose **Partner billing profile** on the page menu.
-4. In the **Financial data** section, choose **Update**.
-5. For **Company Tax ID**, specify your VAT ID number.
+1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+2. **[設定]** メニュー (歯車アイコン) で、 **[パートナーの設定]** を選択します。
+3. **[アカウント設定]** ページで、ページ メニューの **[パートナー課金プロファイル]** を選択します。
+4. **[財務データ]** セクションで、 **[更新]** を選択します。
+5. **[会社の税 ID]** には、VAT ID 番号を指定します。

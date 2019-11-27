@@ -1,8 +1,8 @@
 ---
-title: 請求書を読み取る | パートナー センター
+title: 請求書の記載事項 | パートナー センター
 ms.topic: article
 ms.date: 11/21/2019
-description: Your invoice is a summary of all Partner Center charges (across the program, products, and customers) for the current monthly period.
+description: 請求書は、現在の月額期間のすべてのパートナーセンターの料金 (プログラム、製品、および顧客にわたる) の概要です。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -17,51 +17,51 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384825"
 ---
-# <a name="read-your-bill"></a>請求書を読み取る
+# <a name="read-your-bill"></a>請求書の記載事項
 
-適用対象:
+適用対象
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
-Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers) for the **current billing period**.
+**請求書**は、**現在の請求期間**における**すべてのパートナーセンターの請求**(プログラム、すべての製品、すべての顧客) の概要です。
 
-## <a name="invoice-types"></a>Invoice types
+## <a name="invoice-types"></a>請求書の種類
 
-You will receive one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure).
+ライセンスベースの料金 (Office 365 など) と使用量ベースの料金 (Azure など) に対して1つの請求書を受け取ります。
 
-You will receive a separate invoice for one-time charges (such as Azure reserved VM instances).
+1回限りの料金 (Azure reserved VM instances など) に対して別の請求書が送信されます。
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>請求書ファイルのフィールド
 
-For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).
+請求書ファイル内のすべてのフィールド (1 回限りの料金のフィールドを含む) の詳細については、「[請求書ファイルのフィールド](invoice-file.md)」を参照してください。
 
-## <a name="find-your-bill"></a>Find your bill
+## <a name="find-your-bill"></a>請求書の検索
 
-You can find your invoice on the **Billing** page of the dashboard in Partner Center. You can also find your billing history, spending trends, and reconciliation files on this page.
+請求書は、パートナーセンターのダッシュボードの **[課金]** ページで確認できます。 このページでは、請求履歴、支出傾向、および調整ファイルを見つけることもできます。
 
-1. Sign in to the dashboard in Partner Center.
-2. In the left-hand menu, select **Billing**.
-3. On the **Billing** page, select the invoice you want to download.
-    - You can find a link to your latest invoice at the top of the page under **Account balance as of last invoice date**.
-    - You can find previous invoices in the **Billing history** section. Choose the appropriate year, then select the drop-down arrow next to the appropriate **Billing period**. You can select the link next to **Invoices (.pdf)** to download that period's invoice.
+1. パートナーセンターでダッシュボードにサインインします。
+2. 左側のメニューで、 **[課金]** を選択します。
+3. **[課金]** ページで、ダウンロードする請求書を選択します。
+    - 最新の請求書へのリンクについては、**最後の請求日の**時点で、[アカウントの残高] の下に表示されます。
+    - 以前の請求書は、 **[請求履歴]** セクションで確認できます。 適切な年を選択し、適切な**請求期間**の横にあるドロップダウン矢印を選択します。 **請求書 (.pdf)** の横にあるリンクを選択して、その期間の請求書をダウンロードできます。
 
-## <a name="understand-billing-periods"></a>Understand billing periods
+## <a name="understand-billing-periods"></a>請求期間について
 
-Your invoice is available within **two (2) days** of your selected billing date in **UTC time**.
+請求書は、選択した請求日の**2 日**以内に**UTC 時間**でご利用いただけます。
 
-For example, if you have a September 12th monthly billing date:
+たとえば、月単位の月額請求日がある場合は、次のようになります。
 
-- The invoice generation process will **begin** at 12:00AM UTC on September 13th.
-- The invoice generation process will **complete** by 12:00AM UTC on September 14th.
-- If you do not see your invoice by 11:59PM UTC on September 15th, you’re out of your Service Level Agreement (SLA) and should file a service request.
+- 請求書生成処理は、9月13日の午前12時00時に**開始**されます。
+- 請求書の生成処理は、9月14日の午前12時 (UTC) に**完了**します。
+- 11月15日に 59PM UTC で請求書が表示されない場合は、サービスレベルアグリーメント (SLA) を超えているため、サービスリクエストを送信する必要があります。
 
-### <a name="csp-monthly-billing"></a>CSP monthly billing
+### <a name="csp-monthly-billing"></a>CSP の月額料金
 
-Partners in the Cloud Solution Provider (CSP) program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based subscriptions).
+月々の課金対象として選択したクラウドソリューションプロバイダー (CSP) プログラムのパートナーは、お客様のサブスクリプション (ライセンスベースおよび使用状況ベースのサブスクリプションの両方) について、Microsoft 60 日分の料金を支払います。
 
-## <a name="find-itemized-details-for-charges"></a>Find itemized details for charges
+## <a name="find-itemized-details-for-charges"></a>料金の明細項目の詳細を検索する
 
-You can understand itemized details about your charges using your reconciliation files. The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.
+調整ファイルを使用して、料金に関する明細項目の詳細を確認できます。 調整ファイルには、顧客の請求書の作成に使用できる顧客 id とサブスクリプション id が含まれています。
 
 詳しくは、「[調整ファイルの使用方法](use-the-reconciliation-files.md)」をご覧ください。

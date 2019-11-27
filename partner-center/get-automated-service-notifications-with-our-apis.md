@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Partners can use APIs for Office 365 and Microsoft Azure Partners for real-time service health, message center communications, and planned maintenance events.
+description: パートナーは、Office 365 および Microsoft Azure パートナー向けの Api を使用して、リアルタイムのサービス正常性、メッセージセンターの通信、および計画されたメンテナンスイベントを利用できます。
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 ms.author: evansma

@@ -1,10 +1,10 @@
 ---
-title: Types of billing in Partner Center | Partner Center
+title: パートナーセンターでの課金の種類 |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn about different billing types, billing periods, and billing dates you might see in Partner Center.
+Description: パートナーセンターに表示されるさまざまな課金の種類、請求期間、請求日について説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 請求, 支払い,注文,調整ファイル, recon ファイル
@@ -17,19 +17,19 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384851"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Types of billing in Partner Center
+# <a name="types-of-billing-in-partner-center"></a>パートナーセンターでの課金の種類
 
-適用対象:
+適用対象
 
 - パートナー センター
 - CSP プログラムのパートナー
 
-You'll be billed for Partner Center purchases depending on the products, solutions and services you buy on behalf of your customers. The types of billing are as follows:
+パートナーセンターの購入については、お客様の代わりに購入した製品、ソリューション、サービスに応じて課金されます。 課金の種類は次のとおりです。
 
-- [**License-based billing**](license-based-billing.md), where you're billed per license (not by license usage).
-- [**Usage-based billing**](usage-based-billing.md), where you're billed for monthly usage rates.
-- [**Billing for one-time and select recurring charges**](one-time-and-recurring-billing.md), where you pay in advance for a preset term for Microsoft and third-party ISV products.
-- Billing for license-based SaaS transactions (see [**common billing scenarios for SaaS charges**](common-billing-scenarios-saas.md)).
+- ライセンス[**ベースの課金**](license-based-billing.md)。ライセンスはライセンスの使用量ではなく、ライセンスごとに請求されます。
+- [**使用量ベースの課金**](usage-based-billing.md)。毎月の使用率に対して課金されます。
+- [**1 回限りの課金**](one-time-and-recurring-billing.md)については、Microsoft およびサードパーティの ISV 製品の事前設定された条件を事前に支払います。
+- ライセンスベースの SaaS トランザクションの請求 (「 [**saas 料金の一般的な課金シナリオ**](common-billing-scenarios-saas.md)」を参照してください)。
 
 顧客のために購入する製品の種類によっては、請求期間が異なったり、同じ月の異なる日に請求されたりすることがあります。
 

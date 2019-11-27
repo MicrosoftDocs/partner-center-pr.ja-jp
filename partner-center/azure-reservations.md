@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how Cloud Solution Providers can buy, sell, or manage Azure reservations for customers using Partner Center, the Azure portal, or the Partner Center API.
+Description: クラウドソリューションプロバイダーがパートナーセンター、Azure portal、またはパートナーセンター API を使用して、顧客向けの Azure 予約を購入、販売、管理する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 予約, 管理, 請求, 購入, Azure RI, Azure Reserved Instances
@@ -46,10 +46,10 @@ Azure Reservations は、次の点で顧客にとって魅力的です。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
 
-|**情報**   |**この記事を読む**    |
+|**情報**   |**参照先**    |
 |:-----------------------------|:-----------------|
 | 顧客向けの Azure Reservations に関するドキュメント | [Azure の予約とは](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |パートナー センターで顧客の Azure Reservations を購入する   |[Azure Reservations を購入する](azure-reservations-buying.md)
-|パートナー センターでの Azure Reservations の管理 | [パートナー センターでの Azure Reservations の管理](azure-reservations-manage.md)
+|パートナー センターでの Azure Reservations の管理 | [パートナー センターで Azure Reservations を管理する](azure-reservations-manage.md)
 |適切な VM サイズの判断と顧客による VM 使用状況の確認   |[Azure Reservation の最大使用量に対応する VM サイズ](azure-usage.md)   |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)

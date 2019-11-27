@@ -1,13 +1,13 @@
 ---
-title: One-time exam requirements exemption for the Application Development competency | Partner Center
+title: アプリケーション開発コンピテンシーの1回限りの試験要件の除外 |パートナーセンター
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: For partners with a prior ISV competency, learn how to gain a one-time exam requirements exemption for the Application Development competency
+description: 以前の ISV コンピテンシーを持つパートナーについては、アプリケーション開発コンピテンシーのために1回限りの試験的な要件を取得する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
-keywords: competencies, ISV, application development
+keywords: コンピテンシー、ISV、アプリケーション開発
 ms.localizationpriority: medium
 ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
 ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
@@ -16,60 +16,60 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/21/2019
 ms.locfileid: "74295235"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>One-time exam requirements exemption for the Application Development competency
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>アプリケーション開発コンピテンシーの1回限りの試験要件の除外
 
 **該当するロール**
 
-- グローバル管理
+- 全体管理者
 - MPN パートナー管理者
 
-If you attained the now-retired ISV competency and one of the following scenarios applies to you, we are offering your company a one-time exam requirements exemption for the gold or silver [Application Development competency](https://partner.microsoft.com/membership/application-development-competency). 
+提供終了になった ISV コンピテンシーを達成し、次のいずれかのシナリオが該当する場合、企業は、gold またはシルバー[アプリケーション開発コンピテンシー](https://partner.microsoft.com/membership/application-development-competency)に対して1回限りの試験的な要件を除外することになります。 
 
-Partners with an ISV competency:
+ISV コンピテンシーを持つパートナー:
 
-- **Your ISV competency has expired** – your one-time exam requirements exemption will be available in Partner Center starting November 22, 2019. You will have 30 days to take advantage of the offer. 
+- **ISV コンピテンシーの有効期限が切れました**。1回限りの試験の要件除外は、2019年11月22日以降、パートナーセンターでご利用いただけます。 プランを利用するには30日かかります。 
 
-- **Your competency membership is in its renewal window** – your one-time exam requirements exemption will be available in Partner Center starting November 22, 2019. You will have 30 days to take advantage of the offer. 
+- **コンピテンシーメンバーシップが更新期間中で**ある-2019 年11月22日以降、パートナーセンターでは、1回限りの試験の要件の除外をご利用いただけます。 プランを利用するには30日かかります。 
 
-- **Your competency membership is due for renewal in the coming months** – your one-time exam requirements exemption will be available to you when it’s time to renew. At that time, you will have 30 days to get the offer.
+- **お客様のコンピテンシーメンバーシップは、今後数か月の間に更新されていることが原因です**。1回限りの試験の要件の除外は、更新する時期にお客様にご利用いただけます。 この時点で、プランを取得するのに30日かかります。
 
-Partners with an Application Development competency attained via the cert IP path:
+アプリケーション開発コンピテンシーを持つパートナーは、次のように cert IP パスを使用します。
 
-- **If you have a Microsoft commercial marketplace listing**, your one-time exam requirements exemption will be available at the time of your competency renewal. At that time, you will have 30 days to take advantage of the offer.
+- **Microsoft の商用マーケットプレースリストがある場合**は、コンピテンシーの更新時に1回限りの試験的な要件の除外が適用されます。 この時点で、プランを利用するには30日かかります。
 
-- **If you do not have a [Microsoft commercial marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) listing**, publish your solution by February 2020 to be eligible for the one-time exam requirements exemption.
+- **[Microsoft の商用マーケットプレース](https://azure.microsoft.com/overview/commercial-marketplace/)リストがない場合**は、2020年2月にソリューションを発行して、1回限りの試験要件の除外対象にしてください。
 
-## <a name="how-to-take-advantage-of-your-offer"></a>How to take advantage of your offer
+## <a name="how-to-take-advantage-of-your-offer"></a>プランを利用する方法
 
-1. From the Partner Center menu on your dashboard, select **Competencies**.
-2. In the list of competencies that are available, Application Development is marked **Complete**.
+1. ダッシュボードのパートナーセンターメニューで、 **[コンピテンシー]** を選択します。
+2. 使用可能なコンピテンシーの一覧で、アプリケーション開発は**完了**としてマークされます。
 
-![isv to appdev](images/appdev.png)
+![isv から appdev](images/appdev.png)
 
-3. Select **Application Development**. You will see the notice that you have been given an override that exempts your company from meeting the exam requirements. 
+3. **[アプリケーション開発]** を選択します。 除外さを使用して、会社が試験の要件を満たしていないことを示す通知が表示されます。 
 
-4. To take advantage of this offer, go to **Membership offers**. You may need to pay the competency fee to complete the process depending on your competency purchase or renewal status. 
+4. このプランを利用するには、**メンバーシップの提供**に関するページを参照してください。 コンピテンシー購入または更新の状態によっては、プロセスを完了するためにコンピテンシー料金の支払いが必要になる場合があります。 
 
-This offer is available through Partner Center.
+このプランは、パートナーセンターから入手できます。
 
-If you need assistance getting your offer, or have questions about your eligibility for this offer, contact [partner support](https://partner.microsoft.com/Support). 
+プランを取得するためのサポートが必要な場合、またはこのプランのご利用資格についてご質問がある場合は、[パートナーサポート](https://partner.microsoft.com/Support)にお問い合わせください。 
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-**How do I know whether my company is eligible for this offer?**
+**会社がこのプランの対象になっているかどうかを操作方法確認してください。**
 
-Partner companies eligible for this offer were notified via email and in Partner Center, with information about how to get the offer. Eligible partners include those who attained the now-retired ISV competency and those who attained the Application Development competency through the cert IP path. 
+このプランの対象となるパートナー企業は、電子メールとパートナーセンターで通知され、プランの入手方法に関する情報が記載されています。 資格のあるパートナーには、提供終了になった ISV コンピテンシーと、cert IP パスを通じてアプリケーション開発コンピテンシーを実現したユーザーが含まれます。 
 
-**What are the benefits of the Application Development competency?**
+**アプリケーション開発コンピテンシーの利点は何ですか。**
 
-You can review the Application Development competency benefits on the Microsoft partner website. 
+アプリケーション開発のコンピテンシーの特典については、Microsoft partner web サイトを参照してください。 
 
-**What happens when it’s time for me to renew my competency when I get this offer?** 
+**このプランを入手したときにコンピテンシーを更新すると、どうなりますか。** 
 
-We will share more information about our plans for ISVs soon and provide guidance for partners that have the Application Development competency as a result of this offer.**  
+Isv 向けの計画に関する詳細情報を近日中に共有し、このプランの結果としてアプリケーション開発コンピテンシーを持つパートナー向けのガイダンスを提供します。 * *  
 
-**How can I get this offer if my company did not have the ISV competency?**
+**会社が ISV コンピテンシーを持っていない場合、このプランを取得するにはどうすればよいですか。**
 
-This offer is available only to eligible partners – those who had the ISV competency or the Application Development competency through the cert IP path. We are actively considering near-term and long-term comprehensive solutions for serving ISVs and will share more details soon. 
+このプランは、資格のあるパートナー (ISV コンピテンシーを持つユーザー、または証明書の IP パスを通じてアプリケーションを開発するコンピテンシー) に対してのみ使用できます。 Isv にサービスを提供するための短期的および長期的な包括的なソリューションを積極的に検討しており、さらに詳細な情報を近日中に公開します。 
 
 

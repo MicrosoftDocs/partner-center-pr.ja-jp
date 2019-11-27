@@ -1,10 +1,10 @@
 ---
-title: お客様のセルフ サポート | パートナー センター
+title: 顧客によるセルフ サポート | パートナー センター
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn when and where customers can perform self-support to manage their own accounts and when they should contact their Cloud Solution Provider partner.
+description: お客様が自分のアカウントを管理し、クラウドソリューションプロバイダーパートナーに連絡する必要があるタイミングと場所について説明します。
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 ms.author: evansma
@@ -26,7 +26,7 @@ ms.locfileid: "74252689"
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 
-お客様は各自の Microsoft Office 365 管理センターまたは Azure の管理ポータルにサインインし、各自のアカウントを管理できます。
+顧客はそれぞれの Microsoft Office 365 管理センターまたは Azure の管理ポータルにサインインして、自身のアカウントを管理できます。
 
 -   メッセージ センターで、サービスの正常性に関する情報など、製品内の通信や通知を表示する。
 

@@ -111,7 +111,7 @@ SaaS 商用 marketplace プランでは、顧客サブスクリプションの�
 
 また、パートナーセンター Api を使用して、ライフサイクル管理を実行し、サブスクリプションの請求書を管理することもできます。 詳細については、「[商用 marketplace 製品のサブスクリプションを作成する](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)」を参照してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)
 - [商用マーケットプレースでの課金についての詳細情報](csp-commercial-marketplace-billing.md)

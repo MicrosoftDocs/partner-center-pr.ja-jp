@@ -1,8 +1,8 @@
 ---
-title: Monthly and annual billing differences | Partner Center
+title: 月単位および年間請求の違い |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
-Description: Differences between monthly and annual billing cycles in Partner Center.
+Description: パートナーセンターの月単位および年間請求サイクルの違い。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
@@ -14,48 +14,48 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389770"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>Monthly and annual billing differences
+# <a name="monthly-and-annual-billing-differences"></a>月単位および年間請求の相違点
 
-適用対象:
+適用対象
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
-This topic explains the differences between **monthly billing** and **annual billing** in Partner Center, including benefits and use cases. You have the option to pay for certain Cloud Solution Provider (CSP) subscriptions on a monthly or annual basis.
+このトピックでは、パートナーセンターでの**月次請求**と**年間請求**の違いについて説明します。これには、特典やユースケースが含まれます。 特定のクラウドソリューションプロバイダー (CSP) サブスクリプションについて、毎月または1年単位で支払うことができます。
 
 ## <a name="applicability"></a>適用条件
 
-Most licensed-based subscriptions have the option for either monthly or annual billing option. 使用量ベースのサブスクリプションのオプションは、月次請求のみです。
+ほとんどのライセンスベースのサブスクリプションには、毎月または年間請求オプションのオプションがあります。 使用量ベースのサブスクリプションのオプションは、月次請求のみです。
 
-Both annual and monthly billing are **per subscription**, ***not* per license**.
+年間請求と月単位の課金は、 **ライセンスごと**ではなく、**サブスクリプションごと**に行われます。
 
-### <a name="find-subscription-applicability"></a>Find subscription applicability
+### <a name="find-subscription-applicability"></a>サブスクリプションの適用性の検索
 
-You can identify the available billing frequencies for each offer by using column J in the offer matrix. You can find the offer matrix in the **See offers and pricing** section on Partner Center.
+オファーマトリックスの列 J を使用して、各プランで使用可能な請求頻度を特定できます。 プランのマトリックスについては、パートナーセンターの「プランと価格」セクションを**参照してください**。
 
-### <a name="applicable-partners"></a>Applicable partners
+### <a name="applicable-partners"></a>適用可能なパートナー
 
-All partners and partner types can choose monthly or annual billing.
+すべてのパートナーとパートナーの種類で、毎月または年間請求を選択できます。
 
-### <a name="applicable-markets"></a>Applicable markets
+### <a name="applicable-markets"></a>適用可能な市場
 
-Monthly and annual billing (for applicable offers) are available in all markets where the CSP program is currently available.
+CSP プログラムが現在利用可能なすべての市場で、月単位および年間請求 (適用可能なプラン用) を利用できます。
 
-## <a name="change-billing-frequency"></a>Change billing frequency
+## <a name="change-billing-frequency"></a>請求頻度の変更
 
-You can switch between monthly and annual billing at any time. You may want to change your billing frequency if your business needs change.
+毎月の請求と年間の課金は、いつでも切り替えることができます。 ビジネスニーズが変化した場合は、請求頻度を変更することができます。
 
-When you change the billing frequency to annual, the annual term is updated to reflect the date you changed the billing frequency. A new renewal date is also established.
+請求頻度を "年間" に変更すると、請求頻度を変更した日付を反映するように年間契約期間が更新されます。 新しい更新日も設定されます。
 
-### <a name="monthly-to-annual-billing"></a>Monthly to annual billing
+### <a name="monthly-to-annual-billing"></a>月々から年間請求
 
-Switching from monthly billing to annual billing may be useful if you have numerous subscriptions that are billed monthly. When you switch to annual billing, you can align the subscriptions to a common billing date.
+毎月の課金から年間請求への切り替えは、月ごとに課金されるサブスクリプションが多数ある場合に役立ちます。 年間請求書に切り替えると、サブスクリプションを共通の請求日に配置できます。
 
-### <a name="annual-to-monthly-billing"></a>Annual to monthly billing
+### <a name="annual-to-monthly-billing"></a>年間請求/月単位の課金
 
-Switching from annual billing to monthly billing may be useful if you want to adjust your billing dates to those of your individual customers.
+年間請求から月次請求への切り替えは、個々の顧客の請求日に請求日を調整する場合に役立ちます。
 
-## <a name="annual-billing"></a>Annual billing
+## <a name="annual-billing"></a>年間請求書
 
 年次請求には、次の利点があります。
 
@@ -64,176 +64,176 @@ Switching from annual billing to monthly billing may be useful if you want to ad
 - 通貨変動の影響が緩和されます。
 - 課金の運用コストが削減されます。
 
-### <a name="configure-annual-billing"></a>Configure annual billing
+### <a name="configure-annual-billing"></a>年間請求の構成
 
-If you're planning to switch to annual billing in Partner Center, be sure to consider how your sales motion will be affected. You should inform your team and update your internal processes as necessary. You should also review changes to your invoice and license-based reconciliation file. 
+パートナーセンターで年間請求への切り替えを計画している場合は、販売の動作がどのように影響を受けるかを検討してください。 必要に応じて、チームに通知し、内部プロセスを更新する必要があります。 また、請求書およびライセンスベースの調整ファイルに対する変更についても確認する必要があります。 
 
-You will also need to [update your APIs for annual billing](#required-api-changes).
+また、[年間請求に対して api を更新](#required-api-changes)する必要があります。
 
-#### <a name="required-api-changes"></a>Required API changes
+#### <a name="required-api-changes"></a>必要な API の変更
 
 年次請求を活用するには、API への変更がいくつか必要になります。
 
-- [Order.BillingCycle property](https://docs.microsoft.com/dotnet/api/microsoft.store.partnercenter.models.orders.order.billingcycle)
-- [Create an order](https://docs.microsoft.com/partner-center/develop/create-an-order)
+- [順序のプロパティ](https://docs.microsoft.com/dotnet/api/microsoft.store.partnercenter.models.orders.order.billingcycle)
+- [注文を作成する](https://docs.microsoft.com/partner-center/develop/create-an-order)
 
-For more information about Partner Center APIs, see all [Partner Center developer resources and documentation](https://docs.microsoft.com/partner-center/develop/).
+パートナーセンター Api の詳細については、[パートナーセンターのすべての開発者向けリソースとドキュメント](https://docs.microsoft.com/partner-center/develop/)を参照してください。
 
-## <a name="placing-orders"></a>Placing orders
+## <a name="placing-orders"></a>注文の配置
 
-The billing frequency type, including the annual billing option, is assigned to the **Offer** as an attribute. There is not a unique offer specifically for orders with annual billing. ただし、区別できるようにお客様がわかりやすい名前を使ってプランの名前を変更できます。
+請求頻度の種類 (年間請求オプションを含む) は、**プラン**に属性として割り当てられます。 年間請求書を含む注文専用の特別プランはありません。 ただし、区別できるようにお客様がわかりやすい名前を使ってプランの名前を変更できます。
 
-### <a name="select-annual-billing"></a>Select annual billing
+### <a name="select-annual-billing"></a>年間請求書の選択
 
-When you add a new subscription, you will be prompted to choose the billing frequency. このときに、年次請求オプションを選択できます。 When you select annual billing,all available offers will be displayed.
+新しいサブスクリプションを追加すると、請求頻度を選択するように求められます。 このときに、年次請求オプションを選択できます。 [年間請求] を選択すると、利用可能なすべてのプランが表示されます。
 
-### <a name="billing-time"></a>Billing time
+### <a name="billing-time"></a>請求時間
 
-次の請求日に請求されます。 For example, if your billing date is the 1st of the month and you purchase an annually billed subscription on October 29, 2019, you will be billed on November 1, 2019. Assuming that you make no license changes, you will be billed again on November 1, 2020. If you make a license change you will receive a credit and rebill on your next billing date.
+次の請求日に請求されます。 たとえば、請求日が月の1日で、2019年10月29日に年間請求のサブスクリプションを購入した場合は、2019年11月1日に請求されます。 ライセンスの変更がないと仮定すると、2020年11月1日からもう一度請求が行われます。 ライセンスの変更を行った場合は、クレジットを受け取り、次の請求日に再請求されます。
 
-### <a name="annual-renewals"></a>Annual renewals
+### <a name="annual-renewals"></a>年間更新
 
-Your subscription renewal date will be twelve months after the service start date. サービス期間は、サブスクリプションの作成日に開始となります。  For example, a subscription created on January 10, 2019, will be renewed on January 10, 2020.
+サブスクリプションの更新日は、サービス開始日から12か月後になります。 サービス期間は、サブスクリプションの作成日に開始となります。  たとえば、2019年1月10日に作成されたサブスクリプションは、2020年1月10日に更新されます。
 
 サブスクリプションの更新日後、最初の請求日にご請求となります。 たとえば、2018 年 1 月 15日に年次請求サブスクリプションを購入し、請求日が 1 月 20 日の場合、サブスクリプションは 2019 年 1 月 15日に更新されます。 更新料は 2019 年 1 月 20日のご請求となります。
 
-### <a name="split-subscription-billing-frequency"></a>Split subscription billing frequency
+### <a name="split-subscription-billing-frequency"></a>サブスクリプションの分割請求頻度
 
-It isn't possible to split a **single subscription** so that one part is billed monthly and the other part is billed annually. The entire subscription must have the same billing frequency (either monthly or annual billing).
+1つの**サブスクリプション**を分割することはできません。1つのパートが月単位で課金され、もう一方の部分は毎年請求されます。 サブスクリプション全体の請求頻度は同じである必要があります (月単位または年間請求)。
 
-For customers with **multiple subscriptions** of the same offer, it may be possible to have different billing frequencies per subscription. 一部のプランでは、お客様ごとに保有できるサブスクリプションが 1 つに限られています。 プランに制限がない場合、同じお客様が同じプランのサブスクリプションを複数購入し、異なる請求頻度を設定することができます。 すべてのプランの制限や制約については、製品マトリックスの I 列で詳しく確認できます。 You can find the offer matrix in the **See offers and pricing** section on Partner Center.
+同じプランの**複数のサブスクリプション**をお持ちのお客様については、サブスクリプションごとに異なる課金頻度を使用することができます。 一部のプランでは、お客様ごとに保有できるサブスクリプションが 1 つに限られています。 プランに制限がない場合、同じお客様が同じプランのサブスクリプションを複数購入し、異なる請求頻度を設定することができます。 すべてのプランの制限や制約については、製品マトリックスの I 列で詳しく確認できます。 プランのマトリックスについては、パートナーセンターの「プランと価格」セクションを**参照してください**。
 
-### <a name="free-subscription-period"></a>Free subscription period
+### <a name="free-subscription-period"></a>無料サブスクリプション期間
 
-Subscriptions with annual billing frequency do not receive a free period. The twelve-month paid term begins on the purchase date. これは、購入日から次の請求日まで無料期間となる月次請求頻度のサブスクリプションとは異なります。
+年間請求頻度のサブスクリプションには、無料期間は含まれません。 12か月の有料期間は、購入日から開始されます。 これは、購入日から次の請求日まで無料期間となる月次請求頻度のサブスクリプションとは異なります。
 
-### <a name="adding-and-removing-licenses"></a>Adding and removing licenses
+### <a name="adding-and-removing-licenses"></a>ライセンスの追加と削除
 
 サブスクリプションのライセンス数は、いつでも変更できます。 ライセンスを追加しても、請求頻度に影響はありません。
 
-ライセンスはいつでも追加または削除することができます。  You will receive a credit and prorated rebill on your next billing date after you change the number of licenses.
+ライセンスはいつでも追加または削除することができます。  ライセンス数を変更した後、クレジットと、次の請求日に日割りで課金されます。
 
-If your existing subscription has annual billing, it's not possible to add licenses with monthly billing to that subscription. 年次請求のサブスクリプションを購入すると、追加のライセンスは同じ請求頻度となります。 月次請求のライセンスを購入する必要がある場合は、新しいサブスクリプションが必要になります。
+既存のサブスクリプションに年間請求がある場合は、そのサブスクリプションに月額課金のライセンスを追加することはできません。 年次請求のサブスクリプションを購入すると、追加のライセンスは同じ請求頻度となります。 月次請求のライセンスを購入する必要がある場合は、新しいサブスクリプションが必要になります。
 
-### <a name="add-on-offers"></a>Add-on offers
+### <a name="add-on-offers"></a>アドオンプラン
 
-アドオン サブスクリプションでは、親サブスクリプションと同じ請求頻度が自動的に適用されます。 Annual billing is available for add-on offers. 
+アドオン サブスクリプションでは、親サブスクリプションと同じ請求頻度が自動的に適用されます。 アドオンプランでは、年間請求を利用できます。 
 
-### <a name="cancelling-subscriptions"></a>Cancelling subscriptions
+### <a name="cancelling-subscriptions"></a>サブスクリプションの取り消し
 
 取り消しポリシーは、すべての請求頻度に同じように適用されます。
 
-For annual billing, if the subscription is cancelled in the first 30 days of the twelve-month paid term you will receive a 100 percent credit on your next billing date. If the subscription is cancelled after 30 days of the twelve-month paid term you will receive a prorated credit on your next billing date.
+年間課金の場合、12か月の有料期間の最初の30日間にサブスクリプションがキャンセルされると、次の請求日に100% のクレジットが表示されます。 12か月の支払い期間の30日後にサブスクリプションが取り消された場合は、次の請求日に日割りのクレジットが表示されます。
 
-### <a name="moving-subscriptions-between-partners"></a>Moving subscriptions between partners
+### <a name="moving-subscriptions-between-partners"></a>パートナー間でのサブスクリプションの移動
 
-Customers can't move subscriptions between from one partner to another. このことは、月次請求と年次請求のいずれのサブスクリプションでも同じです。
+お客様は、あるパートナー間でサブスクリプションを移動することはできません。 このことは、月次請求と年次請求のいずれのサブスクリプションでも同じです。
 
-新しいパートナー様がお客様の代理として新しいサブスクリプションを購入する必要があります It's not possible to move subscriptions between partners.
+新しいパートナー様がお客様の代理として新しいサブスクリプションを購入する必要があります パートナー間でサブスクリプションを移動することはできません。
 
-### <a name="reactivating-subscriptions"></a>Reactivating subscriptions
+### <a name="reactivating-subscriptions"></a>サブスクリプションの再アクティブ化
 
-You can reactivate a subscription for up to 90 days after the suspension date. 次の請求日に日割り換算の料金が返金されます。 サブスクリプションの更新日は変わりません。
+サブスクリプションは、中断日から最大90日後に再アクティブ化できます。 次の請求日に日割り換算の料金が返金されます。 サブスクリプションの更新日は変わりません。
 
 ## <a name="pricing"></a>価格設定
 
-### <a name="offer-pricing"></a>Offer pricing
+### <a name="offer-pricing"></a>プランの価格
 
-The offer price at time of purchase is guaranteed for the full billed subscription term (one month for monthly billing, twelve months for annual billing). サブスクリプションが更新された場合は、更新日時点の現行価格表に基づいた価格が適用されます。 The new price is guaranteed for the next subscription term.
+購入時のプラン価格は、完全に請求されたサブスクリプション期間 (月単位の課金の場合は1か月、年間請求では12か月) に対して保証されます。 サブスクリプションが更新された場合は、更新日時点の現行価格表に基づいた価格が適用されます。 新しい料金は、次のサブスクリプション期間に対して保証されます。
 
-If an offer price decreases during the billing period, the amount you are billed for doesn't change. The price is set for the full billing period at the time of purchase. This applies to both monthly and annual billing.
+請求期間中にプランの価格が低下した場合、請求額は変わりません。 料金は、購入時の完全な請求期間に対して設定されます。 これは、月々と年間の課金の両方に適用されます。
 
-### <a name="cancellation-credits"></a>Cancellation credits
+### <a name="cancellation-credits"></a>キャンセルクレジット
 
-Credit for a cancelled license or subscription is calculated as follows:
+取り消されたライセンスまたはサブスクリプションのクレジットは、次のように計算されます。
 
-**Cancellation credit** = ((**monthly price***12)/365) \* **days remaining in the twelve-month term** \* number of licenses cancelled.
+**キャンセルクレジット**= ((* * 月額料金 * * * 12)/365) \* **12 か月の期間の残りの日数**\* 取り消されたライセンスの数。
 
-## <a name="reconciliation-file"></a>Reconciliation file
+## <a name="reconciliation-file"></a>調整ファイル
 
-### <a name="find-subscriptions-billing-frequency"></a>Find subscription's billing frequency
+### <a name="find-subscriptions-billing-frequency"></a>サブスクリプションの請求頻度を確認する
 
-Review your license-based reconciliation file for information on whether your subscription is billed monthly or annually. This information is in column **AA**.
+サブスクリプションが月単位または年単位で課金されているかどうかについては、ライセンスベースの調整ファイルを確認してください。 この情報は**AA**列にあります。
 
-To find out whether you can change a monthly subscription to annual billing, see [Find subscription applicability](#find-subscription-applicability).
+月単位のサブスクリプションを年間課金に変更できるかどうかを確認するには、「[サブスクリプションの適用性の検出](#find-subscription-applicability)」を参照してください。
 
-### <a name="reconciliation-file-changes-for-annual-billing"></a>Reconciliation file changes for annual billing
+### <a name="reconciliation-file-changes-for-annual-billing"></a>年間請求書のファイル変更の調整
 
-When you purchase or renew a subscription with annual billing, your license-based reconciliation file will change as follows.
+年間請求書を使用してサブスクリプションを購入または更新すると、ライセンスベースの調整ファイルは次のように変更されます。
 
-A new row on the license-based reconciliation file on the first billing date following the purchase or a new subscription.
+購入または新規サブスクリプションの後の最初の請求日のライセンスベースの調整ファイルに新しい行が追加されます。
 
-サブスクリプションに変更がなければ、サブスクリプション期間の 2 ～ 12 番目の月に対応する行は調整ファイルに表示されません。 If a change is made to the subscription during the twelve-month term, a credit and prorated rebill will appear on the next reconciliation file after the change is made.
+サブスクリプションに変更がなければ、サブスクリプション期間の 2 ～ 12 番目の月に対応する行は調整ファイルに表示されません。 12か月の期間中にサブスクリプションに変更が加えられた場合は、変更が行われた後に、次の調整ファイルにクレジットおよび日割り再請求が表示されます。
 
-The next change to the reconciliation file will appear when the subscription is renewed. これは、更新後の最初の請求日に表示されます。
+調整ファイルに対する次の変更は、サブスクリプションが更新されたときに表示されます。 これは、更新後の最初の請求日に表示されます。
 
-### <a name="usage-file-changes-for-annual-billing"></a>Usage file changes for annual billing
+### <a name="usage-file-changes-for-annual-billing"></a>年間請求書の使用状況ファイルの変更
 
-The following annually billed subscription changes appear in column P of your usage file.
+次の年間請求されるサブスクリプションの変更は、使用状況ファイルの P 列に表示されます。
 
-- **Prorate Fees When Purchase**: the initial purchase of an annual subscription.
-- **Cycle Instance Prorate**: license changes that result in credit and rebilling.
-- **Cancel Fee**: the [cancellation of an annual subscription](#cancellation-of-annual-subscription).
+- **購入時の Edition 料金**: 年間サブスクリプションの最初の購入。
+- **サイクルインスタンス edition**: クレジットと再請求につながるライセンスの変更。
+- **キャンセル料金**:[年間サブスクリプションの取り消し](#cancellation-of-annual-subscription)。
 
-### <a name="cancellation-of-annual-subscription"></a>Cancellation of annual subscription
+### <a name="cancellation-of-annual-subscription"></a>年間サブスクリプションの取り消し
 
-When an annually billed subscription is cancelled, the reconciliation file will contain one line item for a cancellation credit.
+年間請求されるサブスクリプションがキャンセルされると、調整ファイルにはキャンセルクレジット用の1つの品目が含まれます。
 
-If the cancellation occurs in the first 30 days of the twelve-month term, the subscription will be credited at 100 percent. 取り消しが最初の 30 日経過後に発生した場合、サブスクリプション料金が日割り計算で返金されます。
+12か月の期間の最初の30日にキャンセルが行われた場合、サブスクリプションは100% になります。 取り消しが最初の 30 日経過後に発生した場合、サブスクリプション料金が日割り計算で返金されます。
 
-### <a name="adding-licenses-to-annual-subscription"></a>Adding licenses to annual subscription
+### <a name="adding-licenses-to-annual-subscription"></a>年間サブスクリプションにライセンスを追加する
 
-When you add licenses to a subscription, the reconciliation file will contain a credit and prorated rebill. This applies to monthly and annually billed subscriptions.
+サブスクリプションにライセンスを追加すると、調整ファイルにはクレジットと日割りの再請求が含まれます。 これは、月単位および年単位で請求されるサブスクリプションに適用されます。
 
-### <a name="price-lists-for-annual-billing"></a>Price lists for annual billing
+### <a name="price-lists-for-annual-billing"></a>年間請求書の価格表
 
-Partner Center price lists show the monthly prices. There is no annual price listed. 年額料金は、月額料金を 12 倍して求めることができます。
+パートナーセンターの価格表には、月額料金が表示されます。 年間価格は記載されていません。 年額料金は、月額料金を 12 倍して求めることができます。
 
-### <a name="offer-matrix"></a>Offer matrix
+### <a name="offer-matrix"></a>プランマトリックス
 
-Offer IDs in the offer matrix are the same for all billing frequencies. There are no unique IDs for offers that can be billed annually.
+プランマトリックスのプラン Id は、すべての請求頻度で同じです。 1年ごとに請求できるプランの一意の Id はありません。
 
 ## <a name="incentives"></a>インセンティブ
 
-### <a name="incentives-calculation"></a>Incentives calculation
+### <a name="incentives-calculation"></a>インセンティブの計算
 
-Incentives are calculated based on **billed revenue**, ***not* adjusted revenue**. 獲得したインセンティブは、マイクロソフトの CSP インセンティブ ガイドに記載されたポリシーに従って支払われます。
+インセンティブは、調整された収益では ***なく*** 、請求された**収益**に基づいて計算されます。 獲得したインセンティブは、マイクロソフトの CSP インセンティブ ガイドに記載されたポリシーに従って支払われます。
 
-When an annually billed subscription is sold, that subscription's revenue is recognized for the calculation of incentives based on billed revenue.
+年間請求されるサブスクリプションが販売されると、そのサブスクリプションの収益は、請求された収益に基づくインセンティブの計算に対して認識されます。
 
-### <a name="payout"></a>お支払い方法
+### <a name="payout"></a>支払い
 
-Currently, all incentive payments are made twice a year. これらのお支払いは、半期の終了日から 45 日後となります。
+現時点では、すべてのインセンティブ支払いは1年に2回行われます。 これらのお支払いは、半期の終了日から 45 日後となります。
 
 ### <a name="rates"></a>料金
 
-Partners earn incentives on all eligible transactions, regardless of how a subscription is billed. Incentive earnings are calculated based on the global incentive rate (which is applied to the billed revenue for the period), the local accelerator (for all geographies in which there are local accelerators), and any global campaigns (where applicable).
+パートナーは、サブスクリプションの課金方法に関係なく、対象となるすべてのトランザクションでインセンティブを獲得します。 インセンティブの利益は、グローバルインセンティブ率 (期間の請求された収益に適用されます)、ローカルアクセラレータ (ローカルアクセラレータがあるすべての地域)、グローバルキャンペーン (該当する場合) に基づいて計算されます。
 
 ### <a name="contacts"></a>連絡先
 
-For questions about incentives, contact the appropriate regional incentives support team:
+インセンティブに関する質問については、適切な地域インセンティブサポートチームにお問い合わせください。
 
 | Region | メール アドレス |
 | ------ | ------------- |
-| 北アメリカ | <ocina@microsoft.com> |
-|Latin America & Brazil | <ocilatam@microsoft.com> |
+| North America | <ocina@microsoft.com> |
+|ラテンアメリカ & ブラジル | <ocilatam@microsoft.com> |
 | EMEA | <ociemea@microsoft.com> |
-| APOAC (excluding Japan) | <ociapgc@microsoft.com> |
+| アポストロフィ (日本を除く) | <ociapgc@microsoft.com> |
 | 日本 | <ocijp@microsoft.com> |
 
 
-### <a name="suspension"></a>Suspension
+### <a name="suspension"></a>一時的
 
-If you suspend an subscription (in Partner Center or through the APIs) within 30 days of purchase, you will receive a 100% credit, regardless of billing frequency.
+購入後30日以内にサブスクリプションを (パートナーセンターまたは Api を通じて) 中断した場合、請求頻度に関係なく、100% のクレジットが表示されます。
 
-For annual billing:
+年間請求の場合:
 
-1. The partner buys the subscription on January 1st. A charge billing line is created for the service period January 1st to December 31st.
-2. The partner suspends the subscription on January 25th. A credit billing line is created for the service period January 1st to December 31st.
-3. The reactivates the subscription on January 29th. A charge billing line is created for the service period January 29th to December 31st.
+1. パートナーは1月1日にサブスクリプションを購入します。 1月1日から12月31日までのサービス期間に対して請求明細書が作成されます。
+2. パートナーは、1月25日にサブスクリプションを中断します。 サービス期間の1月1日から12月31日までのクレジット請求明細行が作成されます。
+3. では、サブスクリプションが1月29日に再アクティブ化されます。 サービス期間の請求明細明細は、1月29日から12月31日までに作成されます。
 
-For monthly billing:
+月額料金の場合:
 
-1. The partner buys the subscription on January 1st. A charge billing line is created for the service period January 1st to January 31st.
-2. The partner suspends the subscription on January 25th. A credit billing line is created for the service period January 1st to January 31st.
-3. The partner reactivates the subscription on January 29th. A charge billing line is created for the service period January 29th to January 31st.
+1. パートナーは1月1日にサブスクリプションを購入します。 サービス期間に対して、1月1日から1月31日までの料金請求明細が作成されます。
+2. パートナーは、1月25日にサブスクリプションを中断します。 サービス期間1月1日から1月31日までのクレジット請求明細行が作成されます。
+3. パートナーは、サブスクリプションを1月29日に再アクティブ化します。 サービス期間の請求明細明細は、1月29日から1月31日までに作成されます。

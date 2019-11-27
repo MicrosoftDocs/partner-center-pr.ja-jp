@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to confirm customer acceptance of the Microsoft Cloud Agreement. This may be needed to order Microsoft products and services for customers.
+Description: Microsoft Cloud 契約のお客様の同意を確認する方法について説明します。 これは、お客様に Microsoft 製品とサービスを注文するために必要になる場合があります。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, 顧客たち, 同意, MCA, Microsoft Cloud 契約, 顧客契約テンプレート
@@ -28,9 +28,9 @@ ms.locfileid: "74252590"
 > * 米国政府機関向け Microsoft Cloud のパートナー センター
 
 >[!NOTE]
->This agreement is valid until January 31, 2020. After that date, all customers, existing and new, must sign the new Microsoft Customer Agreement. To learn more, read [Confirm customer acceptance of the Microsoft Customer Agreement](confirm-customer-agreement.md).
+>この契約は、2020年1月31日まで有効です。 その後、すべてのお客様 (既存および新規) は、新しい Microsoft カスタマー契約に署名する必要があります。 詳細については、「 [Microsoft カスタマーアグリーメントに対する顧客の同意を確認](confirm-customer-agreement.md)する」を参照してください。
 
-As a partner, you need to obtain your customer's acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. パートナーがコンプライアンス要件を満たすことができるように、マイクロソフトでは、パートナーに対して、契約に同意したユーザーに関する以下の詳細情報を提供することにより、同意を確認することを求めています。 
+パートナーは、その顧客に対して Microsoft 製品とサービスを注文する前に、お客様の Microsoft Cloud 契約に同意する必要があります。 パートナーがコンプライアンス要件を満たすことができるように、マイクロソフトでは、パートナーに対して、契約に同意したユーザーに関する以下の詳細情報を提供することにより、同意を確認することを求めています。 
 
 -   名
 
@@ -48,9 +48,9 @@ As a partner, you need to obtain your customer's acceptance of the Microsoft Clo
 
 特定のお客様について確認が提供されていない場合:
 
--   You won't be able to create new orders for this customer.
+-   この顧客に対して新しい注文を作成することはできません。
 
--   You won't be able to change the seat count of existing seat-based subscriptions for this customer.
+-   この顧客の既存の接続クライアントライセンスの数を変更することはできません。
 
 お客様の同意は、パートナー センターまたはパートナー センター API を使用して確認できます。 パートナー センター API でこれを行うには、以下のトピックを参照してください。 
 
@@ -80,7 +80,7 @@ As a partner, you need to obtain your customer's acceptance of the Microsoft Clo
 
 ![同意の日付を追加する](images/mca/MCA3.png)
 
-既定では、第一連絡先担当者のユーザー情報が表示されます。 If this isn't correct, select **Update** and then enter the **First name**, **Last name**, **Email address**, and **Phone number* (optional) of the person who accepted the agreement.
+既定では、第一連絡先担当者のユーザー情報が表示されます。 これが正しくない場合は、 **[更新]** を選択し、契約に同意したユーザーの**名**、**姓**、**電子メールアドレス**、**電話番号*(オプション) を入力します。
 
 6. **[次へ]** を選択して、お客様のテナントを作成する残りの手順を続行します。
 
@@ -92,7 +92,7 @@ As a partner, you need to obtain your customer's acceptance of the Microsoft Clo
 2. **[アカウント情報]** を選択します。
 3. **[Microsoft Cloud 契約]** で **[更新]** を選択します。
 
-![[更新]](images/mca/mca4.png)
+![更新](images/mca/mca4.png)
 
 4. 契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
 5. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
@@ -100,7 +100,7 @@ As a partner, you need to obtain your customer's acceptance of the Microsoft Clo
 
 ### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>既存のお客様について新しい注文の作成中にお客様の同意を確認する
 
-If you try to create a new order for an existing customer which you have not confirmed before, you'll receive a prompt to complete the confirmation. この場合、次の手順を実行します。
+以前に確認していない既存の顧客に対して新しい注文を作成しようとすると、確認を完了するためのプロンプトが表示されます。 この場合、次の手順を実行します。
 
 1. 契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
 2. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
@@ -112,4 +112,4 @@ If you try to create a new order for an existing customer which you have not con
 
 1. **[顧客]** を選択し、表示するお客様を検索して選択します。
 2. **[アカウント情報]** を選択します。
-3. Under **Microsoft cloud agreement**, you'll see whether or not confirmation has been provided for this customer.
+3. **Microsoft cloud agreement**で、この顧客に対して確認が提供されているかどうかを確認します。

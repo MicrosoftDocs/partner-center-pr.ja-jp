@@ -18,26 +18,26 @@ ms.locfileid: "74384833"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Microsoft 製品の試用版を顧客に提供する
 
-適用対象:
+適用対象
 
 - パートナー センター
 
 新しい Microsoft 製品を顧客に紹介する効果的な方法として、30 日間の無料試用版を提供できます。 他の多くのオンライン サービスと同様、カタログ内の試用版にサインアップします。 すべてのパートナーが参加できます。
 
-## <a name="available-trial-offers"></a>Available trial offers
+## <a name="available-trial-offers"></a>利用可能な試用版プラン
 
-You can find all of your outstanding trial offers on the **Customer** page. This page lists all subscriptions, including free trials and paid subscriptions. (This feature is not currently available in China.)
+**お客様**のページには、すべての未解決の試用版が掲載されています。 このページには、無料試用版や有料サブスクリプションを含む、すべてのサブスクリプションが一覧表示されます。 (この機能は、中国では現在使用できません。)
 
-Each customer is entitled to one free trial for each available offer. たとえば、Office 365 Business Premium の無料試用版 を 1 つ、Office 365 E3 の無料試用版を 1 つ取得できます。 However, if the customer already owns the offer, they can't use a free trial for that offer.
+各顧客には、利用可能なプランごとに1つの無料試用版が用意されています。 たとえば、Office 365 Business Premium の無料試用版 を 1 つ、Office 365 E3 の無料試用版を 1 つ取得できます。 ただし、顧客が既にプランを所有している場合、そのプランの無料試用版を使用することはできません。
 
-### <a name="available-products"></a>Available products
+### <a name="available-products"></a>利用可能な製品
 
 無料試用版は、以下の製品について提供が可能です。
 
 - Office 365 Business Premium
 - Office 365 E3
-- Office 365 E5 with PSTN
-- Office 365 E5 without PSTN
+- PSTN を使用した Office 365 E5
+- Office 365 E5 (PSTN なし)
 - Enterprise Mobility & Security E5
 - Dynamics 365 Customer Engagement Plan 1
 - Dynamics 365 for Financials
@@ -45,71 +45,71 @@ Each customer is entitled to one free trial for each available offer. たとえ�
 
 最も人気のある包括的なビジネス製品に、無料試用版が提供されています。 今後、他の製品についても、無料試用版プランが追加される可能性があります。
 
-Currently, there are **no free trials** for government offers, education offers, or add-on offers.
+現時点では、政府プラン、教育プラン、またはアドオンプランの**無料試用版はありません**。
 
-## <a name="licenses-for-free-trial-offers"></a>Licenses for free trial offers
+## <a name="licenses-for-free-trial-offers"></a>無料試用版プランのライセンス
 
-All free trials provide 25 licenses. You can't change this number during the trial. You can't add or remove seats in the free trial. After the trial is converted to a paid subscription, you can add additional licenses to the subscription.
+すべての無料試用版では25ライセンスが提供します。 試用期間中にこの数を変更することはできません。 無料試用版では、座席を追加または削除することはできません。 試用版を有料サブスクリプションに変換した後、サブスクリプションにライセンスを追加できます。
 
-You should assign trial licenses and seats just as you would for a paid service in Partner Center.
+パートナーセンターの有料サービスの場合と同じように、試用版のライセンスと席を割り当てる必要があります。
 
-## <a name="sign-customers-up-for-trials"></a>Sign customers up for trials
+## <a name="sign-customers-up-for-trials"></a>試用版の顧客にサインアップする
 
-To sign your customer up for a trial through Partner Center:
+パートナーセンターを使用して試用版を顧客に登録するには、次の手順を実行します。
 
 1. パートナー センターの **[Sell]\(販売\)** から **[Catalog]\(カタログ\)** に移動します。 
 2. カタログで、 **[請求頻度]** から **[試用版プラン]** をクリックします。 これにより、無料試用版の表示のみが有効になり、他の無料ではないプランは無効になります。 試用版は、カタログの **[試用版]** タブに表示されます。
 3. 提供する無料試用版を選択し、 **[送信]** を選択します。 すべての試用版は、30 日間請求がありません。 試用期間中いつでも有料サブスクリプションに切り替えることができます。
 
-## <a name="converting-trials-to-paid-subscriptions"></a>Converting trials to paid subscriptions
+## <a name="converting-trials-to-paid-subscriptions"></a>試用版から有料サブスクリプションへの変換
 
-A free trial is not automatically converted to a paid subscription. After thirty days, a free trial must be converted to a paid subscription or it will [expire](#expiring-offers). Free trials can't be extended.
+無料試用版は、有料サブスクリプションに自動的に変換されません。 30日後、無料試用版を有料サブスクリプションに変換するか、[期限切れ](#expiring-offers)にする必要があります。 無料試用版は拡張できません。
 
-You'll need to convert the trial into a paid subscription yourself. You can do this [using the Partner Center](#convert-trials-using-partner-center) or [through the Partner Center APIs](#convert-trials-using-apis).
+試用版を有料サブスクリプションに変換する必要があります。 これは、パートナーセンターまたは[パートナーセンター api](#convert-trials-using-apis)[を使用して](#convert-trials-using-partner-center)行うことができます。
 
 > [!NOTE]
-> Customer free trials for the Cloud Solution Provider (CSP) program can't be converted to another program tenant (such as EA, Open or MOSP).
+> クラウドソリューションプロバイダー (CSP) プログラムの無料試用版を別のプログラムテナント (EA、Open、MOSP など) に変換することはできません。
 
-### <a name="convert-trials-using-partner-center"></a>Convert trials using Partner Center
+### <a name="convert-trials-using-partner-center"></a>パートナーセンターを使用して試用を変換する
 
-You can convert trials to paid subscriptions using the Partner Center dashboard as follows:
+次のように、パートナーセンターのダッシュボードを使用して、試用版を有料サブスクリプションに変換できます。
 
 1. お客様のサブスクリプション ページに移動し、無料試用版を選びます。
 2. **[試用版を有料サブスクリプションに変換]** を選びます。
 3. 必要なライセンス数と請求頻度を入力し、 **[適用]** を選びます。
 4. 有料サブスクリプションの請求は変換日に開始し、サブスクリプションは変換日から 12 か月後に自動更新されます。 
 
-### <a name="convert-trials-using-apis"></a>Convert trials using APIs
+### <a name="convert-trials-using-apis"></a>Api を使用した試用版の変換
 
-You may need to alter your APIs to accommodate the conversion of a free trial to a paid subscription. For more information, see the following developer documentation:
+無料試用版から有料サブスクリプションへの変換に対応するために、Api の変更が必要になる場合があります。 詳細については、次の開発者向けドキュメントを参照してください。
 
 - [試用版サブスクリプションを有料版に変換する](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [試用版の変換プランの一覧を取得する](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
-### <a name="expiring-offers"></a>Expiring offers
+### <a name="expiring-offers"></a>期限切れのプラン
 
-You will not be notified of expiring offers. You can track upcoming expiration dates using the customer view on Partner Center or by querying the API. パートナー様は、有効期限日を頻繁に確認し、有料版への切り替えを決める時期が近付いたお客様に対して、適切なフォローアップを行うことをお勧めします。
+期限切れのプランは通知されません。 パートナーセンターの顧客ビューを使用するか、API にクエリを実行することで、今後の有効期限を追跡することができます。 パートナー様は、有効期限日を頻繁に確認し、有料版への切り替えを決める時期が近付いたお客様に対して、適切なフォローアップを行うことをお勧めします。
 
-After a trial has expired, a customer who attempts to log into that trial will see an expiry message. However, the data is stored in line with data retention standards. After you purchase a new subscription with the same service plans, your customer's information can be accessed again from the newly activated subscription.
+試用期間が終了すると、その試用版にログインしようとすると、有効期限メッセージが表示されます。 ただし、データは、データ保有期間の標準を使用して行に格納されます。 同じサービスプランで新しいサブスクリプションを購入した後は、新しくアクティブになったサブスクリプションから顧客の情報に再度アクセスできます。
 
 ## <a name="billing"></a>請求
 
-Annual billing and free trials are the same in sovereign clouds and the public cloud. The only difference is the trial SKUs available at the time of launch.
+ソブリンクラウドとパブリッククラウドでは、年間請求と無料試用版は同じです。 唯一の違いは、起動時に利用可能な試用版 Sku です。
 
-## <a name="billing-for-free-trials"></a>Billing for free trials
+## <a name="billing-for-free-trials"></a>無料試用版の課金
 
-Free trials can be used for both monthly and annually billed subscriptions. You can select the billing frequency when you convert the trial to a paid subscription.
+無料試用版は、月々および年次の請求対象サブスクリプションに使用できます。 試用版を有料サブスクリプションに変換する場合は、請求頻度を選択できます。
 
-The subscription start date is based on the conversion date. 無料試用版が年次請求の有料プランに切り替えられた場合、サブスクリプションの更新日は切り替え日から 12 か月後です。 無料試用版が月次請求の有料プランに切り替えられた場合、サブスクリプションの更新日は切り替え日の次の請求日から 12 か月後です。
+サブスクリプションの開始日は換算日付に基づいています。 無料試用版が年次請求の有料プランに切り替えられた場合、サブスクリプションの更新日は切り替え日から 12 か月後です。 無料試用版が月次請求の有料プランに切り替えられた場合、サブスクリプションの更新日は切り替え日の次の請求日から 12 か月後です。
 
 ### <a name="invoices"></a>請求書
 
-You won't see free trials listed in your invoice or license-based reconciliation file. Free trials will only appear on your invoice and license-based reconciliation file after you convert a free trial to a paid subscription. The converted subscription will appear in the same way as any new subscription.
+請求書またはライセンスベースの調整ファイルには無料試用版が表示されません。 無料試用版は、無料試用版を有料サブスクリプションに変換した後、請求書およびライセンスベースの調整ファイルにのみ表示されます。 変換されたサブスクリプションは、新しいサブスクリプションと同じ方法で表示されます。
 
 ### <a name="incentives"></a>インセンティブ
 
-Free trials do not have an impact on incentives.
+無料試用版は、インセンティブには影響しません。
 
 ## <a name="support"></a>サポート
 
-For support on free trials, submit a service request through Partner Center.
+無料試用版のサポートについては、パートナーセンターからサービス要求を送信してください。

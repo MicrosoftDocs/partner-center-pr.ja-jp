@@ -3,7 +3,7 @@ title: Azure 利用状況分析 | パートナー センター
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to use Partner Center to get data about the usage of your customers' Azure subscriptions.
+Description: パートナーセンターを使用して、顧客の Azure サブスクリプションの使用状況に関するデータを取得する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -20,18 +20,18 @@ ms.locfileid: "74253389"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>顧客の Azure サブスクリプションの利用状況に関するデータの取得
 
-適用対象:
+適用対象
 
 - パートナー センター
 
 データはビジネス上の意思決定を促進します。 **Azure 利用状況**のページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 
 > [!NOTE]
-> Azure usage analytics is available only for partners in the Cloud Solution Provider program.
+> Azure usage analytics は、Cloud Solution Provider プログラムのパートナーに対してのみ使用できます。
 
 次のメトリックを追跡しています。
 
-## <a name="summary"></a>概要
+## <a name="summary"></a>まとめ
 
 - **Total Azure subscriptions sold** (Azure サブスクリプションの合計販売数): 指定した期間に販売されたサブスクリプションの数  
 - **Customers with usage** (利用状況のある顧客数): 指定した期間に Azure の利用状況がある顧客の数  
@@ -41,13 +41,13 @@ ms.locfileid: "74253389"
 
 - 指定したカテゴリの上位 5 件の顧客  
 
-## <a name="azure-subscriptions-at-risk"></a>Azure subscriptions at risk
+## <a name="azure-subscriptions-at-risk"></a>リスクがある Azure サブスクリプション
 
-This section indicates the predicted churn risk to Azure subscriptions. This information can be used by partners to engage with customers and minimize churn
+このセクションでは、Azure サブスクリプションに対する予測変更のリスクを示します。 この情報は、パートナーが顧客とやり取りし、チャーンを最小化するために使用できます。
 
 ## <a name="subscriptions-without-usage"></a>利用状況のないサブスクリプション
 
-- List of specific subscriptions without Azure usage in the specified time period  
+- 指定した期間内に Azure を使用せずに特定のサブスクリプションの一覧を表示する  
 
 ## <a name="azure-subscription-churn"></a>Azure サブスクリプションのチャーン
 

@@ -37,7 +37,7 @@ CSP プログラムのパートナーとして、パートナーセンターを�
 
 CSP プログラムのパートナーである場合は、ISV のオファーに関して、多くの市販の marketplace アクティビティを実行する必要があります。 各アクティビティの詳細については、次の表を参照してください。
 
-|**必要に応じて**  |**読み取り**   |
+|**必要に応じて**  |**込ん**   |
 |:------------------------------------|:------------------|
 |利用可能なプラン、価格、製品の詳細、または発行者の連絡先情報を表示または検索する方法について説明します | [オファーの検出](csp-commercial-marketplace-discover.md) | 
 |プランを購入して展開する方法について説明します   | [購入プラン](csp-commercial-marketplace-purchase.md)   | 
@@ -84,7 +84,7 @@ CSP プログラムのパートナーとして、パートナーセンターの[
 |プランのサブスクリプションの取り消し/更新、または座席の追加/削除を行うには | Azure portal  |
 |ユーザーを作成したり、アクセス許可を管理したりするには  | Azure portal  |
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [市販の marketplace プランを検出または表示する](csp-commercial-marketplace-discover.md)
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)

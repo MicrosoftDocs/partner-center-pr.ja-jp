@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explanation what you will see on your bill after you add new subscriptions, adjust the number of licenses in a subscription, or cancel a subscription. 使用量ベースのサブスクリプションとライセンス ベースのサブスクリプションでは影響が異なります。
+description: 新しいサブスクリプションを追加した後、サブスクリプションのライセンス数を調整した後、またはサブスクリプションをキャンセルした後に請求書に表示される内容について説明します。 使用量ベースのサブスクリプションとライセンス ベースのサブスクリプションでは影響が異なります。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
@@ -19,15 +19,15 @@ ms.locfileid: "74384601"
 ---
 # <a name="common-billing-scenarios"></a>一般的な課金シナリオ
 
-適用対象:
+適用対象
 
-- Cloud Solution Provider (CSP) program billing
+- クラウドソリューションプロバイダー (CSP) プログラムの課金
 
-These topics explain what you should expect to see on your bill after you add new subscriptions, add new seats, adjust the number of licenses to a subscription, or cancel a subscription. Other [Partner Center billing types](billing-different-types.md), such as usage-based and license-based subscriptions, are billed differently.
+これらのトピックでは、新しいサブスクリプションを追加した後、新しい座席を追加した後、サブスクリプションにライセンス数を調整した後、またはサブスクリプションをキャンセルした後に請求書に表示される内容について説明します。 使用量ベースおよびライセンスベースのサブスクリプションなど、その他の[パートナーセンターの課金の種類](billing-different-types.md)については、異なる方法で課金されます。
 
-| Type of billing | Scenarios covered |
+| 課金の種類 | 対象となるシナリオ |
 | --------------- | ----------------- |
-| [Monthly billing](common-billing-scenarios-monthly.md) | Adding new subscriptions, changing license quantity, and suspending subscriptions. |
-| [Annual billing](common-billing-scenarios-annual.md) | Adding new subscriptions, adding licenses before your billing date, change license quantity, and suspending and reactivating subscriptions. |
-| [Billing for one-time and select recurring purchases](common-billing-scenarios-onetime-recurring.md) | Purchasing subscriptions, adding more subscriptions, adding and removing seats. |
-| [Billing for license-based SaaS subscriptions](common-billing-scenarios-saas.md) | Free trials for license-based software as a service (SaaS) subscriptions. Purchasing and cancelling custom meter SaaS subscriptions. |
+| [月額料金](common-billing-scenarios-monthly.md) | 新しいサブスクリプションの追加、ライセンス数の変更、およびサブスクリプションの中断。 |
+| [年間請求書](common-billing-scenarios-annual.md) | 新しいサブスクリプションを追加したり、請求日の前にライセンスを追加したり、ライセンス数を変更したり、サブスクリプションを中断および再アクティブ化したりできます。 |
+| [1回限りの課金と、定期的な購入の選択](common-billing-scenarios-onetime-recurring.md) | サブスクリプションの購入、サブスクリプションの追加、座席の追加と削除を行うことができます。 |
+| [ライセンスベースの SaaS サブスクリプションの課金](common-billing-scenarios-saas.md) | ライセンスベースのサービスとしてのソフトウェア (SaaS) サブスクリプションの無料試用版。 カスタムメーター SaaS サブスクリプションを購入して取り消します。 |

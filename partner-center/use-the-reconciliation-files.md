@@ -1,8 +1,8 @@
 ---
-title: Use your reconciliation files | Partner Center
+title: 調整ファイルを使用する |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
-description: Use your reconciliation files to understand detailed line-item views of Partner Center charges.
+description: 調整ファイルを使用して、パートナーセンターの料金の詳細な行項目ビューを把握します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
@@ -16,80 +16,80 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384805"
 ---
-# <a name="use-your-reconciliation-files"></a>Use your reconciliation files
+# <a name="use-your-reconciliation-files"></a>調整ファイルを使用する
 
-適用対象:
+適用対象
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
-You can download your reconciliation files from Partner Center for a detailed, line-item view of each charge in a billing cycle. Line-item details include charges for each customer's subscriptions, and detailed events (such as a mid-term addition of seats to a subscription).
+パートナーセンターから調整ファイルをダウンロードして、請求サイクルの各料金の詳細な行項目ビューをダウンロードできます。 行項目の詳細には、各顧客のサブスクリプションの料金と詳細なイベント (サブスクリプションへの接続クライアントの追加など) が含まれます。
 
-Appropriate roles:
+適切なロール:
 
 - 課金の管理
-- グローバル管理
+- 全体管理者
 
-For information on how to read your **invoice**, see [Read your bill](read-your-bill.md).
+**請求書**を読む方法の詳細については、「請求書の[読み取り](read-your-bill.md)」を参照してください。
 
-## <a name="understand-reconciliation-file-fields"></a>Understand reconciliation file fields
+## <a name="understand-reconciliation-file-fields"></a>調整ファイルのフィールドについて
 
-- [License-based reconciliation file fields](license-based-recon-files.md)
-- [Usage-based reconciliation file fields](usage-based-recon-files.md)
-- [One-time and recurring reconciliation file fields](one-time-recurring-recon-files.md)
-- [Daily-rated usage reconciliation file fields](daily-rated-usage-recon-files.md)
+- [ライセンスベースの調整ファイルのフィールド](license-based-recon-files.md)
+- [使用法に基づく調整ファイルのフィールド](usage-based-recon-files.md)
+- [1回限りの定期的な調整ファイルのフィールド](one-time-recurring-recon-files.md)
+- [日単位で評価した使用状況の調整ファイルのフィールド](daily-rated-usage-recon-files.md)
 
-## <a name="understand-charge-types-in-reconciliation-files"></a>Understand charge types in reconciliation files
+## <a name="understand-charge-types-in-reconciliation-files"></a>調整ファイルの料金の種類について
 
-To understand the types of charges in reconciliation files (the **ChargeType** column), see [Reconciliation file charge types](recon-file-charge-types.md).
+調整ファイル ( **ChargeType**列) の料金の種類については、「[調整ファイルの料金の種類](recon-file-charge-types.md)」を参照してください。
 
-## <a name="fix-formatting-issues"></a>Fix formatting issues
+## <a name="fix-formatting-issues"></a>書式設定の問題の修正
 
-Occasionally, a reconciliation file might contain formatting issues. For example, this issue might occur if the en-US locale is not used.
+場合によっては、調整ファイルに書式設定の問題が含まれていることがあります。 たとえば、en-us ロケールが使用されていない場合に、この問題が発生する可能性があります。
 
-Follow these steps for fix any formatting issues in your reconciliation files:
+調整ファイルの書式設定に関する問題を修正するには、次の手順に従います。
 
-1. Open the reconciliation file (in .csv format) in Microsoft Excel.
-2. Select the first column in the file.
-3. Open the **Convert Text to Columns Wizard**. On the ribbon, select **Data**, then select **Text to Columns**.
-4. In the wizard, select **Delimited file type**. Then, select **Next**.
-5. In the **Delimiters** field, select **Comma**. (If **Tab** is already selected, you can leave this option selected.) Then, select **Next**.
-6. In the **Column data format** field, select **Date:MDY**. Then, select **Next**.
-7. In the **Column data format** field, select **Text** for all amount columns. Then, select **Finish**.
+1. Microsoft Excel で調整ファイル (.csv 形式) を開きます。
+2. ファイルの最初の列を選択します。
+3. **テキストを列に変換ウィザード**を開きます。 リボンで、 **[データ]** を選択し、 **[列のテキスト]** を選択します。
+4. ウィザードで、[区切られた**ファイルの種類**] を選択します。 次に、 **[次へ]** を選択します。
+5. **[区切り記号]** ボックスで、 **[コンマ]** を選択します。 (**タブ**が既に選択されている場合は、このオプションを選択したままにしておくことができます)。次に、 **[次へ]** を選択します。
+6. **[列のデータ形式]** フィールドで、 **[Date: MDY]** を選択します。 次に、 **[次へ]** を選択します。
+7. **列のデータ形式** フィールドで、すべての金額列 の**テキスト**を選択します。 次に、 **[完了]** を選択します。
 
-## <a name="download-reconciliation-files-programmatically"></a>Download reconciliation files programmatically
+## <a name="download-reconciliation-files-programmatically"></a>プログラムによる調整ファイルのダウンロード
 
-Reconciliation files can be very large and are sometimes difficult to download. To download reconciliation files programmatically, see [Get invoice line items](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
+調整ファイルは非常に大きくなる可能性があり、ダウンロードが困難な場合があります。 プログラムによって調整ファイルをダウンロードするには、「[請求書の品目を取得](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items)する」を参照してください。
 
-## <a name="map-taxes-or-vat"></a>Map taxes or VAT
+## <a name="map-taxes-or-vat"></a>税または VAT をマップする
 
-To map Taxes or value-added tax (VAT) to your invoice:
+税金または付加価値税 (VAT) を請求書にマッピングするには、次のようにします。
 
-- Sum the **Tax** column from the license-based file.
-- Sum the **TaxAmount** column from the usage-based file.
+- ライセンスベースのファイルから**税**列を合計します。
+- 使用状況に基づくファイルから**taxationitem.taxamount**列を合計します。
 
-## <a name="itemize-reconciliation-files-by-partner"></a>Itemize reconciliation files by partner
+## <a name="itemize-reconciliation-files-by-partner"></a>パートナー別の調整ファイルの明細
 
-Partners in the **indirect model** can use these additional fields in both license-based and usage-based reconciliation files to itemize the files by reseller.
+**間接モデル**のパートナーは、これらの追加フィールドをライセンスベースと使用状況に基づく調整ファイルの両方で使用して、リセラーごとにファイルを作成することができます。
 
 | MPN ID | 説明 |
 | ------ | ----------- |
-| MPN ID | The Microsoft Partner Network (MPN) identifier of the Cloud Solution Provider (CSP) partner (direct or indirect). |
-| [Reseller MPN ID](#reseller-mpn-id) | The [MPN identifier of the reseller of record for the subscription](#reseller-mpn-id). This field corresponds to the reseller ID listed for the specific subscription in Partner Center. インダイレクト モデルのパートナーの調整ファイルにのみ表示されます。 |
+| MPN ID | クラウドソリューションプロバイダー (CSP) パートナー (直接または間接) の Microsoft Partner Network (MPN) 識別子。 |
+| [再販業者の MPN ID](#reseller-mpn-id) | [サブスクリプションの販売店の MPN 識別子](#reseller-mpn-id)。 このフィールドは、パートナーセンターの特定のサブスクリプションについて一覧表示されているリセラー ID に対応しています。 インダイレクト モデルのパートナーの調整ファイルにのみ表示されます。 |
 
 ### <a name="reseller-mpn-id"></a>リセラーの MPN ID
 
-If a CSP partner sold the subscription directly to the customer, their **MPN ID** is listed twice, as both the **MPN ID** and the **Reseller MPN ID**.
+CSP パートナーが顧客にサブスクリプションを直接販売した場合、 **MPN id**と**再販業者の MPN id**の両方として、 **MPN id**が2回表示されます。
 
-If a CSP partner has a reseller with no **MPN ID**, this value is set to the partner's **MPN ID** instead.
+CSP パートナーが**MPN id**のない再販業者を持っている場合、この値は代わりにパートナーの**MPN id**に設定されます。
 
-If the CSP partner removes a **Reseller MPN ID**, this value will be set to *-1*.
+CSP パートナーが**リセラーの MPN ID**を削除した場合、この値は *-1*に設定されます。
 
-To view or update the **Reseller MPN ID**:
+**リセラー MPN ID**を表示または更新するには:
 
 1. パートナー センターにサインインします。
 2. パートナー センター メニューで、 **[顧客]** を選びます。
 3. 一覧から顧客を選びます。
-4. In the customer menu, select **Subscriptions**.
-5. Choose the subscription from the list.
+4. カスタマーメニューで、 **[サブスクリプション]** を選択します。
+5. 一覧からサブスクリプションを選択します。
 6. **[更新]** を選んで、 **[再販業者 (MPN ID)]** を変更します。

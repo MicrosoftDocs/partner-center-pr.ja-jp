@@ -39,7 +39,7 @@ CSP プラン向け Office 365 Government GCC の販売を承認された後は�
 -   CSP 向け Office 365 Government GCC の販売に関するステップ バイ ステップ ガイドについては、[こちら](https://go.microsoft.com/fwlink/?linkid=2007323)を参照してください。  
 
 
-## <a name="additional-resources"></a>その他の資料
+## <a name="additional-resources"></a>その他のリソース
 
 Microsoft 365 パートナー サイトについては、[米国政府機関でのパートナーのビジネス チャンス](https://www.microsoft.com/microsoft-365/partners/governmentforCSP)に関する情報を参照してください。
 

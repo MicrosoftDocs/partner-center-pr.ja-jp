@@ -1,13 +1,13 @@
 ---
-title: Taxes and tax exemptions | Partner Center
+title: 税金および課税控除 |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
-description: Understand tax responsibilities and submit tax exemptions for your CSP sales.
+description: 税金の責任を理解し、CSP 販売の課税控除を提出します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-keywords: tax, tax exemption, vat, reseller, billing
+keywords: 税金、課税控除、vat、リセラー、請求
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
@@ -19,84 +19,84 @@ ms.locfileid: "74384871"
 ---
 # <a name="taxes-and-tax-exemptions"></a>税金と税金の除外
 
-適用対象:
+適用対象
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
-The Cloud Solution Provider (CSP) program is a sales channel focused on partner resale of products. As a result, Microsoft is not always required to charge sales tax on partner invoices. The rules vary by country and/or region. You can review [country-specific and region-specific details for tax exemptions](#country-and-region-tax-details).
+クラウドソリューションプロバイダー (CSP) プログラムは、製品のパートナー再販に重点を置いた販売チャネルです。 その結果、マイクロソフトは、パートナーの請求書の売上税を常に請求する必要があるとは限りません。 ルールは国や地域によって異なります。 [課税控除の国固有および地域固有の詳細](#country-and-region-tax-details)を確認できます。
 
-Partners should work with their tax advisor to [file tax exemptions](#file-tax-exemptions) based on their locations and where their customers are based.
+パートナーは、税金アドバイザーを使用して、場所と顧客のベースに基づいて、[課税控除をファイル](#file-tax-exemptions)に保存する必要があります。
 
-## <a name="country-and-region-tax-details"></a>Country and region tax details
+## <a name="country-and-region-tax-details"></a>国および地域の税金の詳細
 
-Specific tax-related information is available for the following countries and regions: [Canada](#canada), [the European Union](#european-union), [South Africa](#south-africa), [Turkey](#turkey), and [the United States](#united-states). For Taiwan and Korea, see [tax receipts details](#tax-receipts-and-daf).
+特定の税金関連情報は、[カナダ](#canada)、[欧州連合](#european-union)、[南アフリカ](#south-africa)、[トルコ](#turkey)、および[米国](#united-states)の国と地域で利用できます。 台湾および韓国の場合は、「[納税領収書の詳細](#tax-receipts-and-daf)」を参照してください。
 
-If you're in another country or region that charges taxes, see [the information for other regions](#other-regions).
+税金が請求される別の国または地域にいる場合は、[その他の地域の情報](#other-regions)を参照してください。
 
-For additional questions, [request support in Partner Center](#support).
+その他の質問については、[パートナーセンターでサポートを依頼](#support)してください。
 
 ### <a name="canada"></a>カナダ
 
-ほとんどのリセラーについて、GST/HST/QST は除外されません。 Consult your tax advisor to determine whether you are qualified for exemption, and what documentation you should provide to Microsoft.
+ほとんどのリセラーについて、GST/HST/QST は除外されません。 税金アドバイザーを調べて、除外対象に限定されているかどうか、および Microsoft に提供する必要のあるドキュメントを確認してください。
 
-For a BC PST Exemption, file a tax exemption as described. BC PST 番号か、記入および署名された *Certificate of Exemption General* を提示します。
+BC PST の除外対象として、説明に従って免税を適用します。 BC PST 番号か、記入および署名された *Certificate of Exemption General* を提示します。
 
 ### <a name="european-union"></a>欧州連合
 
-欧州連合の加盟国では、パートナーはリバース チャージに対応し適切な請求を行うために有効な VAT ID 番号を提示する必要があります。 The VAT number must be accepted as valid.
+欧州連合の加盟国では、パートナーはリバース チャージに対応し適切な請求を行うために有効な VAT ID 番号を提示する必要があります。 有効な VAT 番号を受け取る必要があります。
 
-Microsoft does not support credit and re-bill. Before you sell any subscriptions, you must [register your VAT ID number](organization-tax-info.md) in Partner Center.
+Microsoft では、クレジットと再請求はサポートされていません。 サブスクリプションを販売する前に、パートナーセンターで[VAT ID 番号を登録](organization-tax-info.md)する必要があります。
 
 ### <a name="south-africa"></a>南アフリカ
 
-Microsoft now applies the standard VAT on digital content and services purchased by partners in South Africa. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+Microsoft は、南アフリカのパートナーによって購入されたデジタルコンテンツおよびサービスに標準の VAT を適用します。 請求書から VAT を除外して自分で管理するには、 [Microsoft の VAT ID 番号を送信](organization-tax-info.md)して、パートナーの請求プロファイルを更新する必要があります。
 
 ### <a name="turkey"></a>トルコ
 
-Microsoft now applies the standard VAT on digital content and services purchased by partners in Turkey. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+Microsoft は、トルコでパートナーによって購入されたデジタルコンテンツおよびサービスに標準の VAT を適用します。 請求書から VAT を除外して自分で管理するには、 [Microsoft の VAT ID 番号を送信](organization-tax-info.md)して、パートナーの請求プロファイルを更新する必要があります。
 
 ### <a name="united-states"></a>米国
 
 米国内のすべての再販業者は、Microsoft リセラー契約に同意後 30 日以内に売上税の除外に関連する書類を提出する必要があります。 再販に関する除外証明書は州によって異なります。 貴社の法定住所や登録されている州に関連する内容について判断するには、税アドバイザーに相談してください。
 
-This may include resale exemption certificates that work across multiple states such as the *Streamline Sales* and *Use Tax Agreement Certificate of Exemption* or the *MTC Uniform Sales & Use Tax Exemption Certificate*.
+これには、"*合理化*された販売"、"*免税の使用税契約書*"、または " *MTC Uniform Sales & 使用税の除外証明書*" など、複数の州にわたって機能する、対象外の除外証明書が含まれる場合があります。
 
 ### <a name="other-regions"></a>その他の地域
 
-If you are in another country or region that charges taxes, [request support in Partner Center](#support) for your questions.
+税金が請求される別の国または地域にいる場合は、[パートナーセンターで](#support)質問のサポートを依頼してください。
 
-## <a name="tax-receipts-and-daf"></a>Tax receipts and DAF
+## <a name="tax-receipts-and-daf"></a>納税の領収書と DAF
 
 税金申告用レシート (台湾または韓国用) または DAF については、請求書が生成されてから通常 2 週間かかります。
 
 ## <a name="file-tax-exemptions"></a>税金の除外を申告する
 
-Before you file a tax exemption, find your **Microsoft ID** and **MPN ID** to include in the support ticket:
+免税をファイルに追加する前に、 **MICROSOFT id**と**MPN ID**を検索して、サポートチケットに含めます。
 
-1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the **Settings** menu (gear icon), choose **Partner Settings**.
-3. On the **Account settings** page, choose **Organization profile** in the dashboard menu.
-4. Note your **Microsoft ID**.
-5. On the same page, choose **Partner profile** in the dashboard menu.
-6. Note your **MPN ID**.
+1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+2. **[設定]** メニュー (歯車アイコン) で、 **[パートナーの設定]** を選択します。
+3. **[アカウントの設定]** ページの ダッシュボード メニューで、 **[組織のプロファイル]** を選択します。
+4. **MICROSOFT ID**をメモしておきます。
+5. 同じページの ダッシュボード メニューで、**パートナープロファイル** を選択します。
+6. **MPN ID**をメモしておきます。
 
-Then, create a support ticket for Microsoft with your tax exemption information:
+次に、課税控除情報を使用して Microsoft のサポートチケットを作成します。
 
-1. In the dashboard menu, under **Support**, choose **Partner support requests**.
-2. On the **Partner request** page, choose **New request**. (You can also view your open and closed support requests later on this page.)
-3. On the **Basics** step, under **CSP - billing and payments**, choose **Select an issue type** and select **Tax exemption request**.
-4. On the **Solutions** step, under **Do you need more help?** , choose **Yes**.
-5. On the **Details** step, fill out the **Issue details** form. Be sure to:
+1. ダッシュボード メニューの **サポート** で、**パートナーサポート要求** を選択します。
+2. **[パートナーの要求]** ページで、 **[新しい要求]** を選択します。 (このページの後半で、開いている、閉じたサポート要求を表示することもできます)。
+3. **基本**手順の **[CSP-課金と支払い]** で、[**問題の種類の選択]** を選択し、免税 **[要求]** を選択します。
+4. **[ソリューション]** ステップで、 **[追加のヘルプが必要ですか?]** の [**はい]** を選択します。
+5. **詳細**手順で、 **[問題の詳細]** フォームに入力します。 次のことを確認してください。
 
-    - Fill out all required fields.
-    - Include your **Microsoft ID** and **MPN ID** in the **Details** field.
-    - Include any supporting documentation to your ticket in the attachments field.
+    - すべての必須フィールドに入力します。
+    - **[詳細]** フィールドに、 **Microsoft ID**と**MPN ID**を含めます。
+    - サポートドキュメントを [添付ファイル] フィールドにチケットに含めます。
 
-6. Choose **Submit** to send in your support request. Microsoft will email you back for more information.
+6. **[送信]** を選択して、サポートリクエストを送信します。 詳細については、Microsoft から電子メールでお送りします。
 
 ## <a name="support"></a>サポート
 
-For other questions about tax exemptions and refunds, request support in Partner Center. マイクロソフトが貴社と連絡を取り問題を解決するまでに 2 週間かかる場合がありますのでご了承ください。
+課税控除と返金に関するその他の質問については、パートナーセンターでサポートを依頼してください。 マイクロソフトが貴社と連絡を取り問題を解決するまでに 2 週間かかる場合がありますのでご了承ください。
 
-For other tax-related documentation needs, please also request service in Partner Center.
+その他の税金関連ドキュメントのニーズについては、パートナーセンターでサービスをリクエストしてください。
