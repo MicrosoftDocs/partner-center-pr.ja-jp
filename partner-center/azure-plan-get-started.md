@@ -1,21 +1,21 @@
 ---
 title: Azure プランに移行する - はじめに | パートナー センター
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure の新しいコマース エクスペリエンスでサブスクリプションを購入します
+description: Azure サービスを顧客向け従量課金制料金で購入するための、Azure プランのコマースエクスペリエンスについて説明します。 新しいセキュリティ要件についても説明します。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, Azure プラン, サブスクリプションの購入, サブスクリプション
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 0e74d12aeb2daab30530a35326bcdaba5c07214d
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661135"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253293"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Azure プランに移行する - はじめに
 

@@ -1,20 +1,20 @@
 ---
 title: 協力インセンティブの申請の主要な要件 | パートナー センター
 ms.topic: article
-ms.date: 4/4/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 協力インセンティブ プロパティの各種アクティビティには、それぞれの主要な要件があります。
+description: インセンティブ協力プログラム内の特定の種類のアクティビティについて、パートナーセンターでインセンティブの申請を送信するための要件を説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: インセンティブの申請, 協力インセンティブの申請, 協力金, 主要な要件
 ms.localizationpriority: high
-ms.openlocfilehash: 4a021854b19f8da6fc9fa81e9bac561549e9ccd8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3ed6db76ae152b002ab9518e2f9b167d6aa88337
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653612"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252069"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>協力インセンティブの申請の主要な要件
 

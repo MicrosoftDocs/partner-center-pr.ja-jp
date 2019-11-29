@@ -8,12 +8,12 @@ description: インセンティブ プログラムの収益と支払いを表示
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653994"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559745"
 ---
 # <a name="view-your-incentives-payments-information"></a>インセンティブの支払い情報を表示する
 
@@ -91,6 +91,7 @@ ms.locfileid: "73653994"
 |earnedUSD   |プログラム/参加者 ID の獲得金額 (USD)      |
 |Withtax   |プログラム/participantID の支払先通貨で源泉徴収される税額      |
 |salesTax   |プログラム/participantID の支払先通貨における売上税の合計金額      |
+|serviceFeeTax  |プログラム/participantID の serviceFeeTax の合計金額 (通貨換算) |
 |totalPayment   |源泉徴収税を除く現地通貨での支払い額と、プログラム/participantID の売上税 (該当する場合) を含む合計支払額      |
 |currencyCode   |通貨コードに支払う      |
 |paymentMethod   |パートナーの支払いに使用する方法 (電子銀行の譲渡、クレジットメモ)      |

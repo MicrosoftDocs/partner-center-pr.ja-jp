@@ -1,20 +1,20 @@
 ---
 title: PMC からパートナー センターに移行するためのガイド | パートナー センター
 ms.topic: article
-ms.date: 04/25/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 会社を PMC からパートナー センターに移行するときに理解しておくべきこと
+description: Partner Membership Center (PMC) からパートナー センターに会社を移行する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: high
-ms.openlocfilehash: a7db9b3241c239ea3de4f25a3be04ead01bb2718
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: f9ce53adddd2faecf22ef795e8ffe97189c57353
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096497"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252211"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC からパートナー センターに移行するためのガイド
 

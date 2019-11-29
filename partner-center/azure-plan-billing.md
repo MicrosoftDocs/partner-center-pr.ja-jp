@@ -1,21 +1,21 @@
 ---
-title: Azure プラン - 請求 | パートナー センター
+title: Azure プランの請求 | パートナー センター
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure プランの請求書と調整ファイルの構造について説明します
+description: Azure プランの請求に関連する請求書と調整ファイルの構造にアクセスして理解する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
+ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661162"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "74536446"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP の新しいコマース エクスペリエンス - Azure の請求 
 
@@ -42,7 +42,7 @@ Azure プランの請求は、調整された 1 つの請求日とカレンダ�
 
 - **パートナー インセンティブ**:請求月の末日から 45 日以内に支払われます。
 
-##  <a name="access-your-invoices-and-reconciliation-files"></a>請求書および調整ファイルにアクセスする
+## <a name="access-your-invoices-and-reconciliation-files"></a>請求書および調整ファイルにアクセスする
 
 請求書を表示できる状態になると、会社の全体管理者または請求管理者にはメールが送信されます。 
 
@@ -141,7 +141,7 @@ Azure プランの請求は、調整された 1 つの請求日とカレンダ�
 
 ## <a name="invoice-in-customer-currency"></a>顧客の通貨での請求書 
 
-Azure プランを介した Azure サービスには、米国ドルで価格が設定され、顧客の国の割り当て通貨で請求されます。 請求通貨が米国ドル以外の場合は、使用された外国為替 (FX) レートが請求書の最後のページに記載されます。 外国為替レートは月ごとに決定され、次の請求書に適用されます。 国の通貨の詳細な一覧については、[新しいコマース オファーの国のリリース状況と顧客の通貨一覧](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V)を参照してください。 
+Azure プランを介した Azure サービスには、米国ドルで価格が設定され、顧客の国の割り当て通貨で請求されます。 請求通貨が米国ドル以外の場合は、使用された外国為替 (FX) レートが請求書の最後のページに記載されます。 外国為替レートは月ごとに決定され、次の請求書に適用されます。 国の通貨の詳細な一覧については、[新しいコマース オファーの提供国と顧客の通貨の対応表](https://go.microsoft.com/fwlink/?linkid=2112354)を参照してください。 
 
 Microsoft は、請求書の通貨換算に対する価格設定の通貨を決定する際に、[Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) を使用して外国為替レートを決定しています。 外国為替レートは、適用される月の最初の日の前に更新され、使用されます。
 

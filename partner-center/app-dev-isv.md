@@ -1,7 +1,7 @@
 ---
 title: アプリケーション開発コンピテンシーの1回限りの試験要件の除外 |パートナーセンター
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 以前の ISV コンピテンシーを持つパートナーについては、アプリケーション開発コンピテンシーのために1回限りの試験的な要件を取得する方法について説明します。
@@ -9,27 +9,27 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: コンピテンシー、ISV、アプリケーション開発
 ms.localizationpriority: medium
-ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295235"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559505"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>アプリケーション開発コンピテンシーの1回限りの試験要件の除外
 
 **該当するロール**
 
-- 全体管理者
+- グローバル管理
 - MPN パートナー管理者
 
 提供終了になった ISV コンピテンシーを達成し、次のいずれかのシナリオが該当する場合、企業は、gold またはシルバー[アプリケーション開発コンピテンシー](https://partner.microsoft.com/membership/application-development-competency)に対して1回限りの試験的な要件を除外することになります。 
 
 ISV コンピテンシーを持つパートナー:
 
-- **ISV コンピテンシーの有効期限が切れました**。1回限りの試験の要件除外は、2019年11月22日以降、パートナーセンターでご利用いただけます。 プランを利用するには30日かかります。 
+- **ISV コンピテンシーの有効期限が切れてい**ます。1回限りの試験の要件の除外は、2019年11月22日以降のパートナーセンターでご利用いただけます。 このプランを利用するには30日かかります。 会社固有の詳細については、パートナーセンターにサインインしてください。
 
-- **コンピテンシーメンバーシップが更新期間中で**ある-2019 年11月22日以降、パートナーセンターでは、1回限りの試験の要件の除外をご利用いただけます。 プランを利用するには30日かかります。 
+- **コンピテンシーのメンバーシップが更新期間中で**ある-2019 年11月22日以降、パートナーセンターでは、1回限りの試験の要件の除外をご利用いただけます。 このプランを利用するには30日かかります。 会社固有の詳細については、パートナーセンターにサインインしてください。
 
 - **お客様のコンピテンシーメンバーシップは、今後数か月の間に更新されていることが原因です**。1回限りの試験の要件の除外は、更新する時期にお客様にご利用いただけます。 この時点で、プランを取得するのに30日かかります。
 

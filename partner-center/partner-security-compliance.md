@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
+ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661112"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "74295252"
 ---
 # <a name="partner-security-requirements-status"></a>パートナー セキュリティ要件の状態
 
@@ -105,7 +105,7 @@ MFA を実装しているパートナーの場合、パートナー センター
 
 * **カスタム コントロール** - Azure AD カスタム コントロールを使用して、ユーザーがサード パーティの MFA ソリューションによる MFA 検証を完了したかどうかを特定することはできません。 その結果、カスタム コントロールを介して MFA 検証を完了したユーザーは、常に Azure AD (およびパートナー センター) からは MFA 検証を完了していないように見えます。 可能であれば、Azure AD との統合時に、カスタム コントロールではなく、ID フェデレーションの使用に切り替えることをお勧めします。
 
-### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>ユーザーが MFA を完了せずにパートナー センターにログインしたことを特定する
+### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>MFA を完了せずにパートナー センターにログインしたユーザーを特定する
 
 MFA 検証を完了せずにパートナー センターにログインしているユーザーを特定し、現在の MFA の実装に照らして検証すると便利な場合があります。 [Azure AD サインイン レポート](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)を使用すると、ユーザーが MFA 検証を完了したかどうかを確認できます。 Azure AD サインイン レポートは、現在、Azure AD Premium、または Azure AD Premium を含む任意の O365 SKU (EMS など) にサブスクライブしているパートナーのみが利用できます。
 

@@ -1,7 +1,7 @@
 ---
 title: クラウド ソリューション プロバイダー プログラムでのパートナー プラン | パートナー センター
 ms.topic: article
-ms.date: 10/28/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: クラウド ソリューション プロバイダー プログラムで販売するパートナーが利用できるプランについて説明します。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, 製品の追加, パートナー プラン, CSP プラン, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナー, CSP での販売, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, オンライン サービス, サブスクリプション ソフトウェア, AHUB, SQL Server on Azure, Windows Server on Azure, 顧客のサブスクリプション
 ms.localizationpriority: high
-ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
-ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
+ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "73799203"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252907"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでのパートナー プラン 
 
@@ -57,7 +57,7 @@ ms.locfileid: "73799203"
     
     また、 **[マーケットプレース]** ページでこれらの製品に関する情報を確認することもできます。 このページには、パートナー センターではなく Azure portal で購入する必要があるその他の種類の製品に関する情報も含まれていることに注意してください。<br>
 
-    詳細については、「[Azure Marketplace 製品にサブスクリプションを販売する](sell-marketplace-products.md)」を参照してください。
+    詳細については、「[CSP コマーシャル マーケットプレースの概要](CSP-commercial-marketplace-overview.md)」を参照してください。
 
 ## <a name="add-products-page-details"></a>[製品の追加] ページの詳細
 
@@ -104,8 +104,8 @@ CSP の顧客に代わって製品およびサービスを購入するには、�
 
 請求プロセスのしくみについては、「[請求の概要](https://docs.microsoft.com/partner-center/billing-basics)」を参照してください。
 
-Azure プランでの購入については、「[Azure プランを購入する](purchase-azure-plan)」を参照してください。
+Azure プランでの購入については、「[Azure プランを購入する](purchase-azure-plan.md)」を参照してください。
 
+## <a name="see-also"></a>関連項目
 
-
-
+[CSP コマーシャル マーケットプレースの概要](csp-commercial-marketplace-overview.md)

@@ -103,6 +103,7 @@
 ## [Microsoft から SLA クレジットを要求する](request-credit.md)
 ## [お客様向けに Azure の支出の予算を設定する](set-an-azure-spending-budget-for-your-customers.md)
 ## [未払い、詐欺、不正使用の管理](non-payment--fraud--or-misuse.md)
+## [未割り当ての支払いを管理する](unallocated-payment.md)
 
 # [お客様とつながる](customer-accounts.md)
 ## [新しい顧客の追加](add-a-new-customer.md)
