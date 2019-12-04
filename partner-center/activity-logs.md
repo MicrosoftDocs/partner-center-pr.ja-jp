@@ -10,20 +10,29 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: アクティビティ ログ, サブスクリプション, サブスクリプション, 支払い, 課金, トランザクション
 ms.localizationpriority: medium
-ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252713"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721788"
 ---
-# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログの表示
+# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログを表示する
 
 **適用対象**
 
--  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
+- パートナー センター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
+- クラウド ソリューション プロバイダー プログラム パートナー
 
+**適切なロール**
+
+- グローバル管理
+- 課金の管理
+- ユーザー管理者
+- 管理エージェント
+- 販売代理店
+- ヘルプデスク エージェント
 
 アクティビティ ログは、顧客の取引やパートナーによる顧客の管理アクションに関する情報を提供します。 取引のログは、サブスクリプションの購入など、取引に関する詳細情報を提供します。 Excel 互換のコンマ区切り値ファイル形式 (.csv) でアクティビティ ログをエクスポートすることもできます。
 
@@ -31,7 +40,9 @@ ms.locfileid: "74252713"
 
 **アクティビティ ログを表示およびエクスポートする**
 
-1.  **[アカウント設定]** メニューの **[アクティビティ ログ]** を選択します。
+1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+
+2. **[アカウント設定]** メニューの **[アクティビティ ログ]** を選択します。
 2.  **[開始]** フィールドと **[終了]** フィールドで、アクティビティ ログの期間を選びます。 アクティビティ ログの既定の設定では、最近 1 か月間のログがエクスポートされます。
 
     各アクティビティ ログには、一覧に表示されている顧客の **[サブスクリプション]** ページへのリンクが示されます。

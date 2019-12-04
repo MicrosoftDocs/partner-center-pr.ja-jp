@@ -11,18 +11,26 @@ ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253373"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722373"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>サブスクリプションとライセンスの分析 
 
 **適用対象**
 
 - パートナー センター
+- クラウド ソリューション プロバイダー プログラム パートナー
+
+**適切なロール**
+
+- グローバル管理
+- ユーザー管理者
+- 管理エージェント
+- 販売代理店
 
 データはビジネス上の意思決定を促進します。 **サブスクリプションとライセンスの分析**ページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 

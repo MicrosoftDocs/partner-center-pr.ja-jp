@@ -1,7 +1,7 @@
 ---
 title: 顧客アカウントのユーザー管理タスク | パートナー センター
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客のユーザーアカウントを作成する方法、ユーザーライセンスを追加または削除する方法、ユーザーのパスワードをリセットする方法、ユーザーアカウントを削除する方法、または復元する方法について説明します。
@@ -10,18 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 顧客管理, アカウント, アカウントの作成, ライセンス、ライセンスの割り当て, ユーザー管理, パスワード, パスワードのリセット, パスワードの変更
 ms.localizationpriority: medium
-ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253352"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721363"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>顧客アカウントのユーザー管理タスク
 
 **適用対象**
 
 - パートナー センター
+
+**適切なロール**
+
+- グローバル管理
+- ユーザー管理者
+- 管理エージェント
+- 販売代理店
+- ヘルプデスク エージェント
 
 顧客のアカウントで新しいユーザーを作成および削除することができます。 また、削除後30日以内に削除した1つ以上のユーザーアカウントを復元することもできます。 ユーザーの以前のサブスクリプションの割り当ても (以前の割り当てが利用可能な場合は) 復元されます。
 
@@ -41,7 +49,7 @@ ms.locfileid: "74253352"
 
 4. 追加するユーザーごとに、 **[サブスクリプションの追加]** を選び、アクセス許可やライセンスなどの情報を入力します。 変更内容を保存するには、 **[保存]** をクリックします。
 
-5. 必ずユーザー名と一時パスワードを記録してユーザーに送信してください。
+5. 必ずユーザー名と一時的なパスワードを記録してユーザーに送信してください。
 
 6. 複数のユーザーを 1 人ずつ追加する場合は、 **[別のユーザーの追加]** を使います。
 

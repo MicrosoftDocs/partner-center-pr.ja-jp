@@ -1,7 +1,7 @@
 ---
 title: Microsoft の API で自動サービス通知を取得する | パートナー センター
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーは、Office 365 および Microsoft Azure パートナー向けの Api を使用して、リアルタイムのサービス正常性、メッセージセンターの通信、および計画されたメンテナンスイベントを利用できます。
@@ -9,18 +9,25 @@ ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8678b0e12ca92596940573c36e48768c50a2317e
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 632d6ee1806638040ee1e08e1eb715d517a0c3b2
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253609"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722207"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>Microsoft の API で自動サービス通知を取得する
 
 **適用対象**
 
 -  パートナー センター
+
+**適切なロール**
+
+- 管理エージェント
+- グローバル 
+- 販売代理店
+- ヘルプデスク エージェント
 
 Office 365 と Microsoft Azure は、リアルタイムのサービスの正常性、メッセージ センターの通信、計画されたメンテナンス イベントを取得するために使うことができる API を提供しています。 これらの API は一般に公開されていて、委任された管理者特権があるため、パートナーはそれらをお客様に代わって使うことができます。
 

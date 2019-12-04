@@ -1,19 +1,19 @@
 ---
 title: ビジネスプロファイルの分析 |パートナーセンター
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: '[ビジネスプロファイルの分析情報] ページを使用して、対象顧客に対する注意をどの程度把握し、紹介を生成するかを確認します。'
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: 33763800e8da6d6c082aeccc67acddc01653313a
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253124"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722358"
 ---
 # <a name="analyze-your-business-profile"></a>ビジネスプロファイルの分析
 <!-- 
@@ -23,6 +23,17 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **適用対象**
 
 - パートナー センター
+- Microsoft Partner Network パートナー
+- クラウド ソリューション プロバイダー プログラム パートナー
+
+**適切なロール**
+
+- グローバル管理
+- MPN パートナー管理者
+- 紹介管理者
+- ビジネス プロファイル管理者
+- 管理エージェント
+- 販売代理店
 
 パートナーセンターの [**ビジネスプロファイル**の詳細情報] ページでは、対象となる顧客の注意をどの程度把握しているか、および紹介を生成しているかどうかを確認できます。
 

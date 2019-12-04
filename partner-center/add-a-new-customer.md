@@ -1,5 +1,5 @@
 ---
-title: 新しい顧客の追加 | パートナー センター
+title: 新しい顧客を追加する | パートナー センター
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
@@ -10,19 +10,28 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 顧客, 顧客の追加, 顧客アカウント, パートナー センターの顧客アカウント, お客様, お客様の追加, 顧客アカウントの作成
 ms.localizationpriority: medium
-ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384616"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722296"
 ---
-# <a name="add-a-new-customer"></a>新しい顧客の追加
+# <a name="add-a-new-customer"></a>新しい顧客を追加する
 
 **適用対象**
 
--  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
+- パートナー センター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
+- クラウド ソリューション プロバイダー プログラム パートナー
+
+**適切なロール**
+
+- グローバル管理
+- ユーザー管理者
+- 管理エージェント
+- 販売代理店
+
 
 顧客に対してサブスクリプションの販売や、課金の管理、サポートの提供を行うには、パートナー センターで顧客のリストに顧客を追加する必要があります。
 

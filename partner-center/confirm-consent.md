@@ -1,7 +1,7 @@
 ---
 title: Microsoft Cloud 契約に関するお客様の同意を確認する | パートナー センター
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Microsoft Cloud 契約のお客様の同意を確認する方法について説明します。 これは、お客様に Microsoft 製品とサービスを注文するために必要になる場合があります。
@@ -9,17 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, 顧客たち, 同意, MCA, Microsoft Cloud 契約, 顧客契約テンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: d9b2df8f9cf8795eedb75bc23773942e365c83fe
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252590"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722089"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Microsoft Cloud 契約に関するお客様の同意を確認する
 
 **適用対象**
 -  パートナー センター
+
+**適切なロール**
+
+- 管理エージェント
+- 販売代理店
 
 > [!NOTE]
 > 契約リソースは、現在、Microsoft パブリック クラウドのパートナー センターでのみサポートされています。 以下には適用されません。
@@ -92,7 +97,7 @@ ms.locfileid: "74252590"
 2. **[アカウント情報]** を選択します。
 3. **[Microsoft Cloud 契約]** で **[更新]** を選択します。
 
-![更新](images/mca/mca4.png)
+![[更新]](images/mca/mca4.png)
 
 4. 契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
 5. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。

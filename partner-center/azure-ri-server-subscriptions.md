@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, サブスクリプション, VM, 予約, 予約インスタンス
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d7fb74ef26408ad012ac07c4e3bb40e6bda2199
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
-ms.translationtype: HT
+ms.openlocfilehash: 22ba6af523bf73d9d7778940ef7495e6581a0730
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681926"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722254"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,6 +24,14 @@ ms.locfileid: "74681926"
 
 - パートナー センター
 
+**適切なロール**
+
+- 管理エージェント
+- グローバル管理
+- ヘルプデスク エージェント
+- 販売代理店
+- ユーザー管理者
+ 
 ## <a name="what-are-azure-reservations"></a>Azure Reservations とは
 
 Azure Reservations では、1 年分または 3 年分の料金を前払いすることにより、仮想マシン、SQL Database の処理能力、Azure Cosmos DB スループット、その他の Azure リソースを割引価格で利用することができます。 前払いの場合は、使用するリソースに割引価格で適用されます。 予約では、従量課金制の価格と比較して、仮想マシン、SQL Database の処理能力、Azure Cosmos DB、その他のリソースのコストを最大 72% も削減することができます。 Reservations では請求の割引が提供され、リソースの実行時の状態には影響しません。詳しくは、「[Azure の予約とは](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)」をご覧ください。

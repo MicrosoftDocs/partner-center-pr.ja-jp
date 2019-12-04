@@ -1,7 +1,7 @@
 ---
 title: Microsoft との共同販売 |パートナーセンター
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft の認定パートナーとして、Microsoft との共同販売を行うことができます。 契約を定義する方法、Microsoft に招待して共同作業する方法、または送信した契約を表示する方法について説明します。
@@ -10,18 +10,23 @@ ms.author: jenhayes
 keywords: 紹介, RFI, パートナーの検索
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253451"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721503"
 ---
 # <a name="co-sell-with-microsoft"></a>Microsoft との共同販売
 
 **適用対象**
 
 -  パートナー センター
+
+**適切なロール**
+
+- MPN パートナー管理者
+- 紹介管理者
 
 Microsoft の認定パートナーとして、Microsoft との共同販売を行うことができます。 このコラボレーションにより、ソリューションを市場に投入し、結合収益を促進し、顧客の成功を保証することができます。
 

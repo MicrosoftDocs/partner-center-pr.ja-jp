@@ -1,7 +1,7 @@
 ---
 title: 顧客アカウント | パートナー センター
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナーセンターで、リセラーパートナー向けのリソースを見つけることができます。 これには、サブスクリプション、請求、またはオファーのサポートを販売する前に、顧客アカウントを作成する必要があります。
@@ -9,12 +9,12 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 4ecaa4f5de9d27bd829f5c3929f0c8e174a87247
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253566"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721392"
 ---
 # <a name="customer-accounts"></a>顧客アカウント
 
@@ -23,6 +23,12 @@ ms.locfileid: "74253566"
 -  パートナー センター
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
+**適切なロール**
+
+- グローバル管理
+- 管理エージェント
+- 販売代理店
+- ヘルプデスク エージェント
 
 リセラー パートナーは、パートナー センターで顧客ごとにアカウントを 1 つ作成する必要があります。 顧客アカウントは、サブスクリプションの販売、請求、サポートの提供を行う起点になります。 パートナー センターへの移行前から取引のあった顧客を含めて、顧客ごとにパートナー センター アカウントを作成する必要があります。
 

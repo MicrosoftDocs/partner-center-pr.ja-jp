@@ -10,22 +10,30 @@ ms.author: labrenne
 keywords: Azure, 予約, 管理, 請求, 購入, 取り消し, 交換, 中途解約料
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eedfe20cea239918e5ece6f10b2b5f5988da9c50
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252639"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722278"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>顧客に代わって Microsoft Azure Reservations を管理する       
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>顧客に代わって Microsoft Azure Reservations を管理する
 
 **適用対象**
 
--  パートナー センター
--  Microsoft Azure portal 
--  CSP のパートナー
+- パートナー センター
+- Microsoft Azure portal 
+- CSP のパートナー
 
-購入後に顧客の Azure 予約を管理するには、パートナーセンターで管理する顧客と予約を選択し、Azure portal の予約に変更を加えます。 
+**適切なロール**
+
+- 管理エージェント
+- グローバル管理
+- ヘルプデスク エージェント
+- 販売代理店
+- ユーザー管理者
+
+購入後に顧客の Azure 予約を管理するには、パートナーセンターで管理する顧客と予約を選択し、Azure portal の予約に変更を加えます。
 
 1. まずパートナー センター メニューで **[顧客]** を選択し、管理対象の予約を持つ顧客を選択します。 
 
@@ -45,8 +53,8 @@ ms.locfileid: "74252639"
 
 お客様のビジネスニーズが変化した場合、予約を取り消し、返金を受けるか、予約の日割り返金額を交換して新しい予約価格に使用することをお勧めします。
 
-これらのシナリオのいずれにおいても、Microsoft はお客様にその金額を払い戻すため、お客様の方で顧客との間で結果として生じる財務トランザクションを管理していただけます。 Microsoft は、請求、取り消し、または払い戻しに関して顧客と直接やりとりすることはありません。   
- 
+これらのシナリオのいずれにおいても、Microsoft はお客様にその金額を払い戻すため、お客様の方で顧客との間で結果として生じる財務トランザクションを管理していただけます。 Microsoft は、請求、取り消し、または払い戻しに関して顧客と直接やりとりすることはありません。
+
 
 **取り消しのしくみ**
 
@@ -57,10 +65,10 @@ ms.locfileid: "74252639"
 
 |**取消日**<br> (日数)   |**使用状況**    |**クレジット**  |**中途解約**<br> 料金    |**払い戻し上限額** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 日以下                         | いいえ          | 100%       | いいえ                              | 50,000 米国ドル   |
-|5 日以下                         | はい         | 日割り  | いいえ                              | 50,000 米国ドル   |
-|6 日以上                        | いいえ          | 日割り  | 12%                             | 50,000 米国ドル   |
-|6 日以上                        | はい         | 日割り  | 12%                             | 50,000 米国ドル   |
+|5 日以下                         | 必須ではない          | 100%       | 必須ではない                              | 50,000 米国ドル   |
+|5 日以下                         | [はい]         | 日割り  | 必須ではない                              | 50,000 米国ドル   |
+|6 日以上                        | 必須ではない          | 日割り  | 12%                             | 50,000 米国ドル   |
+|6 日以上                        | [はい]         | 日割り  | 12%                             | 50,000 米国ドル   |
 
 
 **交換のしくみ** 
@@ -94,7 +102,7 @@ ms.locfileid: "74252639"
 5.  完了したら、 **[作成]** を選択します。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
-|**情報**   |**参照先**    |
+|**情報**   |**この記事を読む**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved Instances の販売](azure-reservations.md) |
 |パートナー センターで顧客の Azure Reservations を購入する   |[Azure Reservations を購入する](azure-reservations-buying.md) |

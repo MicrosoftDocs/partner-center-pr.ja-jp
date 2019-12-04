@@ -1,7 +1,7 @@
 ---
 title: 顧客に代わって Microsoft Azure Reservations を購入する   | パートナー センター
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナーセンターで顧客の代理として Azure の予約を購入または購入する方法について説明します。
@@ -10,40 +10,48 @@ ms.author: labrenne
 keywords: Azure, 予約, 管理, 請求, 購入
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253238"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722006"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure Reservations を購入する 
 
 **適用対象**
 
--  パートナー センター
--  Microsoft Azure portal
--  CSP のパートナー
+- パートナー センター
+- Microsoft Azure portal
+- CSP のパートナー
 
-## <a name="before-you-begin"></a>アンインストールの準備
+**適切なロール**
+
+- 管理エージェント
+- グローバル管理
+- ヘルプデスク エージェント
+- 販売代理店
+- ユーザー管理者
+
+## <a name="before-you-begin"></a>始める前に
 
 顧客に代わって Azure Reservations の購入を行う前に、以下の重要な情報を確認してください。
 
 - お客様が新しい Microsoft カスタマー契約に署名した場合は、「 [microsoft カスタマー契約に同意](confirm-customer-agreement.md)した場合に azure の予約を購入する必要があります。」と入力します。 詳細については、「 [Azure プランの購入](purchase-azure-plan.md)」を参照してください。
 
--   顧客に代わって予約を購入するには、あらかじめ顧客がアクティブな Azure サブスクリプションを持っている必要があります。
+- 顧客に代わって予約を購入するには、あらかじめ顧客がアクティブな Azure サブスクリプションを持っている必要があります。
   
--   SQL Database や SUSE Linux ソフトウェアなどのソフトウェア サブスクリプションのコストは、Azure Reservation の価格には含まれません
+- SQL Database や SUSE Linux ソフトウェアなどのソフトウェア サブスクリプションのコストは、Azure Reservation の価格には含まれません
 
--   Microsoft の商用料金は、お客様の所在地がブラジルでない限り、税金は含まれません。 ブラジルの場合は、パートナーへの商用顧客向け価格に適切な税金が含まれます 
- 
--   販売担当者およびヘルプ デスク担当者は、顧客に代わって Azure portal で Azure サブスクリプションの購入または管理を行い、サポート要求 (交換や返金を含む) を登録できるように、Azure サブスクリプションへの明示的なアクセス許可を持っている必要があります。  
+- Microsoft の商用料金は、お客様の所在地がブラジルでない限り、税金は含まれません。 ブラジルの場合は、パートナーへの商用顧客向け価格に適切な税金が含まれます
 
--   間接プロバイダーの場合、Azure portal を通じて Azure の予約を購入すると、選択した Azure CSP サブスクリプションから取引先レコード (間接リセラー) が継承されます。 
+- 販売担当者およびヘルプ デスク担当者は、顧客に代わって Azure portal で Azure サブスクリプションの購入または管理を行い、サポート要求 (交換や返金を含む) を登録できるように、Azure サブスクリプションへの明示的なアクセス許可を持っている必要があります。  
 
--   Azure 予約のレコードパートナーは、購入後に変更することはできません。 既存の予約を取り消して、新しい指名パートナーで新しい予約を購入することもできます。 
+- 間接プロバイダーの場合、Azure portal を通じて Azure の予約を購入すると、選択した Azure CSP サブスクリプションから取引先レコード (間接リセラー) が継承されます。
 
--   顧客が Azure サブスクリプションを直接サブスクリプションまたは EA サブスクリプションから CSP に移行した場合、予約は移行されません。 
+- Azure 予約のレコードパートナーは、購入後に変更することはできません。 既存の予約を取り消して、新しい指名パートナーで新しい予約を購入することもできます。
+
+- 顧客が Azure サブスクリプションを直接サブスクリプションまたは EA サブスクリプションから CSP に移行した場合、予約は移行されません。
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure Reservations を利用できない市場
 
@@ -100,9 +108,9 @@ ms.locfileid: "74253238"
 
 3. **[製品の追加]** を選択し、 **[Azure]** を選択します。 
 
-    a. **[セグメント]** の一覧から、顧客の市場セグメントを選択します。
+    」を参照します。 **[セグメント]** の一覧から、顧客の市場セグメントを選択します。
 
-    B. 製品の **[種類]** の一覧から、 **[予約]** を選択します。
+    b. 製品の **[種類]** の一覧から、 **[予約]** を選択します。
 
     c. 顧客が希望する予約の種類を **[予約の種類]** の一覧から選択します。
 
@@ -139,10 +147,10 @@ ms.locfileid: "74253238"
 10. Azure portal で顧客の予約を管理するには **、顧客のページで**顧客を見つけ、下矢印を選択して顧客の行を展開します。 **[Microsoft Azure の管理ポータル]** を選択して、Azure portal で顧客のレコードを開きます。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
-|**情報**   |**参照先**    |
+|**情報**   |**この記事を読む**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved Instances の販売](azure-reservations.md) |
-|パートナー センターでの Azure Reservations の管理 | [パートナー センターで Azure Reservations を管理する](azure-reservations-manage.md)
+|パートナー センターでの Azure Reservations の管理 | [パートナー センターでの Azure Reservations の管理](azure-reservations-manage.md)
 |適切な VM サイズの判断と顧客による VM 使用状況の確認   |[Azure Reservation の最大使用量に対応する VM サイズ](azure-usage.md)   |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)
 |

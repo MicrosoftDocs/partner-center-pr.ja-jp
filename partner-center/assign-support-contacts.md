@@ -1,7 +1,7 @@
 ---
 title: サポート連絡先の指定 | パートナー センター
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft サービスへのサブスクリプションをお持ちのお客様のテクニカルサポートの連絡先として、リセラーを割り当てる方法について説明します。
@@ -11,18 +11,26 @@ ms.author: labrenne
 keywords: ヘルプ エージェント, サポート, サポート連絡先の指定, 指定のサポート連絡先
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253336"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722399"
 ---
 # <a name="assign-support-contacts"></a>サポート連絡先の指定
 
 **適用対象**
 
--  パートナー センター
+- パートナー センター
+
+**適切なロール**
+
+- 管理エージェント
+- グローバル管理
+- ヘルプデスク エージェント
+- 販売代理店
+- ユーザー管理者
 
 顧客に対して Microsoft サービスのサブスクリプションを設定するとき、自社でサポートを提供するのではなく、指定リセラーを対象製品のテクニカル サポートとして割り当てることができます。
 
@@ -49,4 +57,4 @@ ms.locfileid: "74253336"
 
 ## <a name="related-topics"></a>関連トピック
 
-[顧客との再販業者関係の削除](remove-a-relationship.md)
+[顧客との関係の削除](remove-a-relationship.md)

@@ -1,19 +1,19 @@
 ---
 title: Office 365 Government GCC パートナーと顧客の適格性の条件 | パートナー センター
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ダイレクト請求パートナー (直接再販業者、間接プロバイダー) が、Office 365 Government 用の CSP 用の GCC 用のパートナーと顧客を検証する手順について説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253531"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721940"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP 向け Office 365 Government GCC パートナーと顧客の適格性の条件
 
@@ -22,8 +22,14 @@ ms.locfileid: "74253531"
 -  パートナー センター
 -  CSP パートナー
 
+**適切なロール**
+
+- グローバル管理
+- 管理エージェント
+- 販売代理店
+
 >[!NOTE]
->検証プロセスと以下で説明する条件は、直接請求パートナーに固有です。 直接請求パートナーには、直接リセラーと間接プロバイダーが含まれます。  間接リセラーである場合は、間接プロバイダーと連携してください。 
+>検証プロセスと以下で説明する条件は、直接請求パートナーに固有です。 直接請求パートナーには、直接リセラーと間接プロバイダーが含まれます。  間接リセラーである場合は、間接プロバイダーと連携してください。
 
 自社の組織または自社の顧客が CSP 向け Office 365 Government GCC の使用を承認されることに関心がある場合は、以下の要件を確認してください。
 
@@ -42,7 +48,7 @@ CSP 向け Office 365 Government GCC のパートナーと顧客の適格性は�
 2.  GSA やその他の契約によって米国政府機関の顧客にサービスを提供している
 
 **顧客の条件**
-1.  米国の行政機関。 次に例を示します。
+1.  米国の行政機関。 次に、例を示します。
  
     -  連邦行政機関 (省、庁、局などの米国政府機関)
     -   州/地方自治体の行政機関 

@@ -1,31 +1,38 @@
 ---
 title: 毎日評価済みの使用状況の調整ファイル |パートナーセンター
 ms.topic: article
-ms.date: 11/21/2019
-description: パートナーセンターで、毎日評価される使用量調整ファイルについて説明します。
+ms.date: 11/27/2019
+description: パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 896f81b3a51e234065af7779d287b4023dd7163c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d7de5da8529aefb325961ac5c139a9375b66f7e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389700"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721863"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>毎日評価済みの使用状況調整ファイル
 
-適用対象
+**適用対象**
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
+
+**適切なロール**
+
+- 管理エージェント
+- 課金の管理
+- 販売代理店
+- ヘルプデスク エージェント
 
 このトピックでは、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>日単位で評価される使用状況の調整ファイルのフィールド
 
-| [列] | 説明 |
+| Column | 説明 |
 | ------ | ----------- |
 | PartnerId | GUID 形式のパートナー識別子。 |
 | PartnerName | パートナー名。 |
@@ -42,7 +49,7 @@ ms.locfileid: "74389700"
 | SKU Name | 特定 SKU のタイトル。 |
 | PublisherName | 発行元の名前。 |
 | PublisherID | GUID 形式のパブリッシャーの識別子。 現在のアクティビティには使用できません。 |
-| Subscription Description | 価格表で定義されている、顧客が購入したサービス プランの名前。 (これは、 **Offername**と同じフィールドです)。 |
+| Subscription Description | 価格表で定義されている、顧客が購入したサービス プランの名前 (これは、 **Offername**と同じフィールドです)。 |
 | サブスクリプション ID | Microsoft 課金プラットフォームでのサブスクリプションの一意の識別子。 調整には使用されません。 *この識別子は、パートナー管理コンソールの**サブスクリプション ID**と同じではありません。* |
 | ChargeStartDate | 請求サイクルの開始日 (以前の請求サイクルから以前に使用されていた使用状況データを表示していない日付を表示する場合を除く)。 時刻は常に、その日の始まりの時刻 (0:00) になります。 |
 | ChargeEndDate | 請求サイクルの終了日 (以前のサイクルから過去の使用状況データを除外した日付を表示する場合を除く)。 時刻は常に、その日の終わりの時刻 (23:59) になります。 |
@@ -53,7 +60,7 @@ ms.locfileid: "74389700"
 | Meter Sub-category | 料金に影響する可能性のある Azure サービスの種類。 |
 | Meter Name | 使用しているメーターの測定単位。 |
 | Meter Region | この列は、これが該当し、設定されている場合に、サービスの領域内でのデータ センターの場所を識別します。 |
-| ユニット | リソース**名**の単位です。 |
+| Unit | リソース**名**の単位です。 |
 | Consumed Quantity | レポート期間中に消費されるサービスの量 (*時間*や*GB*など)。 以前のレポート期間の未請求の使用状況が含まれます。 |
 | Resource Location | メーターが実行されているデータセンターを > します。 |
 | Consumed Service | 使用した Azure プラットフォーム サービス。 |

@@ -11,18 +11,26 @@ ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 188961444e4ec2f20fe305179b9f00673d7e371f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 9990cc72726803045806b88439fed54f9c9d07a2
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253382"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722376"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>間接リセラーのパフォーマンス分析 
 
 **適用対象**
 
 - パートナー センター
+- クラウド ソリューション プロバイダー プログラム パートナー
+
+**適切なロール**
+
+- グローバル管理
+- ユーザー管理者
+- 管理エージェント
+- 販売代理店
 
 データはビジネス上の意思決定を促進します。 **リセラー分析**のページのメトリックを使用して、パートナーの成功度、間接リセラーの成功度、注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 

@@ -11,18 +11,26 @@ ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253389"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722390"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>顧客の Azure サブスクリプションの利用状況に関するデータの取得
 
-適用対象
+**適用対象**
 
 - パートナー センター
+- クラウド ソリューション プロバイダー プログラム パートナー
+
+**適切なロール**
+
+- グローバル管理
+- ユーザー管理者
+- 管理エージェント
+- 販売代理店
 
 データはビジネス上の意思決定を促進します。 **Azure 利用状況**のページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 
@@ -31,7 +39,7 @@ ms.locfileid: "74253389"
 
 次のメトリックを追跡しています。
 
-## <a name="summary"></a>まとめ
+## <a name="summary"></a>概要
 
 - **Total Azure subscriptions sold** (Azure サブスクリプションの合計販売数): 指定した期間に販売されたサブスクリプションの数  
 - **Customers with usage** (利用状況のある顧客数): 指定した期間に Azure の利用状況がある顧客の数  

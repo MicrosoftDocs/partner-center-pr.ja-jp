@@ -1,7 +1,7 @@
 ---
-title: マイクロソフトへの問題のエスカレート | パートナー センター
+title: Microsoft に問題をエスカレートする | パートナー センター
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft パートナーがお客様に対して自身を解決することが期待されている問題と、Microsoft にエスカレートする必要がある問題について説明します。
@@ -10,21 +10,28 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ddffc00a63bc82856fdb0d993a04bf822f12e6f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252566"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722238"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Microsoft に問題をエスカレートする
 
 **適用対象**
 
--  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
+- パートナー センター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
-貴社は、お客様に代わって問題を解決することが求められます。 最初に、[サービスの正常性を確認](check-service-health.md)して、既存の記録済みの問題に該当するものがないか確認します。 これによってお客様の問題に対応できない場合、管理者特権を使ってソフトウェア、設定、構成のトラブルシューティングを行うことができます。
+**適切なロール**
+
+- 管理エージェント
+- グローバル管理
+- 販売代理店
+- ヘルプデスク エージェント
+
+貴社は、お客様に代わって問題を解決することが求められます。 最初に、[サービスの状態を確認](check-service-health.md)して、既存の記録済みの問題に該当するものがないか確認します。 これによってお客様の問題に対応できない場合、管理者特権を使ってソフトウェア、設定、構成のトラブルシューティングを行うことができます。
 
 ただし、修正のために Microsoft に渡す必要があるいくつかの問題のカテゴリがあります。
 

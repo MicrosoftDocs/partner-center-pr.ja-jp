@@ -1,7 +1,7 @@
 ---
 title: 顧客のサブスクリプションの作成、中断、取り消し | パートナー センター
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターで顧客レコードを作成した後に、顧客のサブスクリプションをカタログ内の製品に販売する方法について説明します。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: サブスクリプション、新規作成、サブスクリプションの追加、中断、キャンセル、中断、中断、SaaS、ライセンス、ISV、サードパーティ
 ms.localizationpriority: medium
-ms.openlocfilehash: d829ba7ee520cab42ec5985ac2156ddff60d8e99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253456"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721719"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
@@ -27,8 +27,11 @@ ms.locfileid: "74253456"
 
 **適切なロール**
 
-- 全体管理者
 - 管理エージェント
+- 課金の管理
+- グローバル管理
+- ヘルプデスク エージェント
+- 販売代理店
 
 パートナー センターで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。 これには、Microsoft によって発行された製品と、サードパーティ製の独立系ソフトウェアベンダー (Isv) によって[商用マーケットプレース](https://azuremarketplace.microsoft.com/marketplace)に発行されたサービスとしてのソフトウェア (SaaS) 製品が含まれます。 
 
@@ -75,9 +78,9 @@ CSP プログラムのパートナーは、パートナーセンター内の ISV
 
 ## <a name="suspend-or-cancel-a-subscription"></a>サブスクリプションを中断または取り消す
 
-顧客から要請があった場合、または未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断するか取り消すことができます。
+顧客から要請があった場合や、未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断またはキャンセルできます。
 
-### <a name="suspend-a-subscription"></a>サブスクリプションの中断
+### <a name="suspend-a-subscription"></a>サブスクリプションを中断する
 
 サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。
 

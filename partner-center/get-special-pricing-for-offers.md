@@ -1,7 +1,7 @@
 ---
 title: 特別価格の対象となる業界への販売 | パートナー センター
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 教育機関のお客様、非営利顧客、政府ユーザーなど、特定の顧客グループ向けの特別で低価格の価格について説明します。
@@ -9,18 +9,24 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 89577819ea5601bebeb10be6d9d3ab6143abf2cc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 24102a7c299db534422e031ee9504dc48cf923cb
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253650"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722452"
 ---
 # <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 
 **適用対象**
 
--  パートナー センター
+- パートナー センター
+
+**適切なロール**
+
+- グローバル管理
+- 管理エージェント
+- 販売代理店
 
 マイクロソフトは、教育機関、非営利団体、小規模企業、行政機関など、特定の顧客に対して特別割引価格をご用意しています。 特別価格を提供するには、リセラーと顧客の両方が資格条件を満たす必要があります。 
 
@@ -37,7 +43,7 @@ ms.locfileid: "74253650"
 
 次の手順は、間接プロバイダーおよびダイレクト請求パートナーにのみ適用されます。 間接リセラーは、認定された教育ユーザーに教育機関向けの特典を提供するために、間接プロバイダーに接続する必要があります。 
 
-1.  パートナー ダッシュボードで、ウィンドウの右上隅にある歯車アイコンを選び、 **[アカウント設定]** を開きます。
+1.  パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)で、ウィンドウの右上隅にある歯車アイコンを選択して、**アカウント設定**を開きます。
 2.  **[パートナー プロファイル]** の **[プログラム情報]** セクションで **[リセラーの資格]** を参照します。
 3.  **[リセラーの資格]** が表示されていない場合は、特価プランの購入が認められていません。
 

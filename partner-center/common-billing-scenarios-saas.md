@@ -1,21 +1,29 @@
 ---
 title: ライセンスベースの SaaS トランザクションの一般的な課金シナリオ |パートナーセンター
 ms.topic: article
-ms.date: 11/21/2019
-description: パートナーセンターでのライセンスベースの SaaS トランザクションの一般的な課金シナリオ。
+ms.date: 11/25/2019
+description: ライセンスベースの SaaS トランザクションのパートナーセンターでの一般的な課金シナリオについて説明します。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 課金、支払い、1回限りの購入、定期的な購入、サブスクリプション、シート
 ms.localizationpriority: medium
-ms.openlocfilehash: b808a3bbfc0856e03f1c775d7e3145a29c2239fb
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 5d86210ce52280b73846de56dafb5909081b6524
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389610"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722519"
 ---
 # <a name="billing-scenarios-for-license-based-saas-transactions"></a>ライセンスベースの SaaS トランザクションの課金シナリオ
+
+**適切なロール**
+
+- 管理エージェント
+- 課金の管理
+- ヘルプデスク エージェント
+- 販売代理店
+
 
 この例の[一般的な課金シナリオ](common-billing-scenarios.md)は、パートナーセンターのライセンスベースのサービスとしてのソフトウェア (SaaS) サブスクリプションに適用されます。
 
@@ -37,14 +45,14 @@ ms.locfileid: "74389610"
 > [!TIP]
 > ライセンスベースの無料試用版 SaaS サブスクリプションは、無料試用期間中であってもいつでも取り消すことができます。
 
-このシナリオでは、ライセンスベースの無料試用版の SaaS サブスクリプションを7月1日に購入し、パートナーセンターですぐに取り消しました。 
+このシナリオでは、ライセンスベースの無料試用版の SaaS サブスクリプションを7月1日に購入し、パートナーセンターですぐに取り消しました。
 
 偵察ファイルには、次の料金が含まれます。
 
 | ご購入日 | 請求開始日 | 請求終了日 | 単価 | ユニット数 | 合計金額 | 請求の種類 | サブスクリプションの説明 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | 新規 | 無料試用版 |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | キャンセル | 無料試用版 |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | [キャンセル] | 無料試用版 |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>カスタムメーター SaaS サブスクリプションを別の SKU に変換する
 

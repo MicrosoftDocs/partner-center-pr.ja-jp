@@ -1,21 +1,28 @@
 ---
 title: 1回限りの定期的な購入に関する一般的な課金シナリオ |パートナーセンター
 ms.topic: article
-ms.date: 11/21/2019
-description: 1回限りのパートナーセンターでの一般的な課金シナリオ (サブスクリプションの購入、サブスクリプションの追加、座席の追加と削除など)。
+ms.date: 11/25/2019
+description: サブスクリプションを購入したり、サブスクリプションを追加したり、接続クライアントを追加または削除したりする場合は、1回限りのパートナーセンターの請求例を参照して、定期的な購入を選択してください。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 課金、支払い、1回限りの購入、定期的な購入、サブスクリプション、シート
 ms.localizationpriority: medium
-ms.openlocfilehash: 69a7f1d4ded608942ea8b4bd7bec6054a44d52c7
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: f330e49fdfea9b93d02a644610f3621916667f86
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389640"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722504"
 ---
 # <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>1回限りの定期的な購入請求シナリオ
+
+**適切なロール**
+
+- 管理エージェント
+- 課金の管理
+- ヘルプデスク エージェント
+- 販売代理店
 
 この例の[一般的な課金シナリオ](common-billing-scenarios.md)は、パートナーセンターでの1回限りの課金[と選択](one-time-and-recurring-billing.md)された定期的な料金に適用されます。
 

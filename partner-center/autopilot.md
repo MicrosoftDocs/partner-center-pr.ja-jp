@@ -1,7 +1,7 @@
 ---
 title: Windows Autopilot プロファイルでデバイスの out-of-box experience をカスタマイズする | パートナー センター
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: デバイスを顧客に納入する前に、自動操縦プロファイルを使用して、新しいデバイスの既定のエクスペリエンスをカスタマイズまたは事前構成する方法について説明します。
@@ -9,18 +9,25 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, ゼロタッチ展開, OOBE, ログイン画面, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253333"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721427"
 ---
-# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Windows Autopilot プロファイルでデバイスの out-of-box experience をカスタマイズする
+# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Windows 自動操縦プロファイルを使用してデバイスの既定のエクスペリエンスをカスタマイズする
 
 **適用対象**
 
 - CSP 直接請求パートナー、間接プロバイダー、間接リセラー
+
+**適切なロール**
+
+- 管理エージェント
+- グローバル管理
+- 販売代理店
+- ユーザー管理者
 
 顧客のデバイスを管理する場合、顧客のユーザーの out-of-box experience (OOBE) をカスタマイズすることが必要な場合があります。 顧客にデバイスを提供する前に Windows Autopilot プロファイルを使用して新しいデバイスを事前に構成し、顧客が既に購入したデバイスに新しいプロファイルを適用することができます。 
 
@@ -100,9 +107,9 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
 
 4. 次の手順に従って、プロファイルがデバイスに正常に適用されたことを確認します。
 
-    a.  デバイスをネットワークに接続し、電源をオンにします。
+    」を参照します。  デバイスをネットワークに接続し、電源をオンにします。
 
-    B.  適切な OOBE 画面 (存在する場合) が表示されることを確認します。
+    b.  適切な OOBE 画面 (存在する場合) が表示されることを確認します。
 
     c.  OOBE プロセスが停止したら、デバイスを工場出荷時の既定の設定にリセットして、新しいユーザー用に準備します。
 

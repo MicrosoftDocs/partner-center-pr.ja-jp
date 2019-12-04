@@ -1,8 +1,8 @@
 ---
 title: 請求の概要 | パートナー センター
 ms.topic: article
-ms.date: 11/21/2019
-description: パートナーセンターの基本請求と請求書情報。
+ms.date: 11/25/2019
+description: パートナーセンターの基本的な請求と請求書について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,26 +10,36 @@ ms.author: labrenne
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10fe47ea038fadf8ca26fe0ab42a0d0d3a9472bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e77d641b1b75c5d462871aa61c3f67bc6d6dd13e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384548"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722466"
 ---
 # <a name="billing-overview"></a>請求の概要
 
-適用対象
+**適用対象**
 
 - パートナー センター
 - クラウドソリューションプロバイダー (CSP) プログラムのパートナー
+
+**適切なロール**
+
+- 管理エージェント
+- 課金の管理
+- グローバル管理
+- ヘルプデスク エージェント
+- 販売代理店
 
 ## <a name="find-your-bill"></a>請求書の検索
 
 請求書を検索するには:
 
 1. [パートナーセンターのダッシュボードにサインイン](https://partner.microsoft.com/dashboard/home)します。
+
 2. 左側のメニューで、 **[課金]** を選択します。
+
 3. **[課金]** ページでは、 **[請求履歴]** セクションで最新の請求書をダウンロードするか、以前の請求書をダウンロードすることができます。
 
 ## <a name="bill-your-customers"></a>顧客の請求
@@ -96,7 +106,7 @@ Microsoft には、独自の請求を処理する方法に関する要件や条�
 
 請求は、年間サブスクリプションごとに 12 回の月払いまたは 1 回の年払いになります。
 
-前回の請求期間の終了時のライセンス数に基づき、ライセンスベースのサービスの次の請求期間分が前払いで請求されます。
+以前の課金期間の終了時のライセンス数に基づいて、ライセンス ベースのサービスの次の課金期間について前払いで課金されます。
 
 ライセンス数の変更 (ライセンスの日数に基づく日割り計算) で、後で課金/クレジットが行われます。 対する比率の計算では、次の式を使用します。
 

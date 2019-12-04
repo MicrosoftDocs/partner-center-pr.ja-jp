@@ -9,16 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 29988ecd4289f4c9b0772961a3b896124682aecb
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3a0a7d0ba985f9610198a64aa87411b1a7da16bd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253160"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722319"
 ---
 # <a name="the-account-structure-in-partner-center"></a>パートナーセンターのアカウント構造
 
-パートナーセンターには、2つのレベルのアカウントがあります。 
+**適用対象**
+
+- パートナー センター
+- MPN パートナー
+
+**適切なロール**
+
+- アカウント管理者
+- ビジネス プロファイル管理者
+- グローバル管理
+- MPN パートナー管理者
+
+パートナーセンターには、2つのレベルのアカウントがあります。
 
 ### <a name="the-top-level-is-the-primary-global-account-pga"></a>最上位レベルは、プライマリグローバルアカウント (PGA) です。
 

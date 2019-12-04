@@ -1,25 +1,35 @@
 ---
 title: 月単位および年間請求の違い |パートナーセンター
 ms.topic: article
-ms.date: 11/21/2019
-Description: パートナーセンターの月単位および年間請求サイクルの違い。
+ms.date: 11/25/2019
+Description: パートナーセンターの月単位および年間請求サイクルの違いについて説明します。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6b316f55a6d2cd84959d60feed666d657893b8
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389770"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722405"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>月単位および年間請求の相違点
 
-適用対象
+**適用対象**
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
+
+**適切なロール**
+
+- 管理エージェント
+- 課金の管理
+- グローバル管理
+- インセンティブ管理者
+- インセンティブ ユーザー
+- ヘルプデスク エージェント
+- 販売代理店
 
 このトピックでは、パートナーセンターでの**月次請求**と**年間請求**の違いについて説明します。これには、特典やユースケースが含まれます。 特定のクラウドソリューションプロバイダー (CSP) サブスクリプションについて、毎月または1年単位で支払うことができます。
 
@@ -201,7 +211,7 @@ CSP プログラムが現在利用可能なすべての市場で、月単位お�
 
 年間請求されるサブスクリプションが販売されると、そのサブスクリプションの収益は、請求された収益に基づくインセンティブの計算に対して認識されます。
 
-### <a name="payout"></a>支払い
+### <a name="payout"></a>お支払い方法
 
 現時点では、すべてのインセンティブ支払いは1年に2回行われます。 これらのお支払いは、半期の終了日から 45 日後となります。
 
@@ -215,7 +225,7 @@ CSP プログラムが現在利用可能なすべての市場で、月単位お�
 
 | Region | メール アドレス |
 | ------ | ------------- |
-| North America | <ocina@microsoft.com> |
+| 北アメリカ | <ocina@microsoft.com> |
 |ラテンアメリカ & ブラジル | <ocilatam@microsoft.com> |
 | EMEA | <ociemea@microsoft.com> |
 | アポストロフィ (日本を除く) | <ociapgc@microsoft.com> |

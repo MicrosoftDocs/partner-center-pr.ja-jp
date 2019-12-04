@@ -1,7 +1,7 @@
 ---
 title: パートナーセンターでの課金の種類 |パートナーセンター
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナーセンターに表示されるさまざまな課金の種類、請求期間、請求日について説明します。
@@ -10,19 +10,27 @@ ms.author: evansma
 keywords: 請求, 支払い,注文,調整ファイル, recon ファイル
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9f5e48ca5cc127427eab7d46eb21071baa3403c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 73378fda27cfb5cec8b9805ef90dbfa1c854bc44
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384851"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722251"
 ---
 # <a name="types-of-billing-in-partner-center"></a>パートナーセンターでの課金の種類
 
-適用対象
+**適用対象**
 
 - パートナー センター
 - CSP プログラムのパートナー
+
+**適切なロール**
+
+- 管理エージェント
+- 課金の管理
+- グローバル管理
+- ヘルプデスク エージェント
+- 販売代理店
 
 パートナーセンターの購入については、お客様の代わりに購入した製品、ソリューション、サービスに応じて課金されます。 課金の種類は次のとおりです。
 

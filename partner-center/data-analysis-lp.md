@@ -1,7 +1,7 @@
 ---
 title: パートナー センターのデータ & 分析 | パートナー センター
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターで analytics を使用して、ビジネスについて理解を深め、購入したライセンスを顧客がどのように使用しているかについて説明します。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: データ, 分析, データ分析, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e8501776365e761c2c7ea9f5c33a2150c92cc79e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384845"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722569"
 ---
 # <a name="get-data-and-analyze-your-business"></a>データの取得とビジネスの分析
 
@@ -48,7 +48,7 @@ CSP ビジネスの構築方法の計画には、Microsoft 製品が顧客によ
  
 ## <a name="access-data-in-partner-center"></a>パートナー センターでのデータへのアクセス
 
-|**取得するデータ**   |**ダウンロードする対象**   |**参照先**   | **適用対象**    |
+|**取得するデータ**   |**ダウンロードする対象**   |**この記事を読む**   | **適用対象**    |
 |---------------------|:-----------------------|:---------------|:--------------|
 |顧客が購入したライセンスの使用状況   |パートナー センターから展開と使用状況データ => 製品分析   |[導入実績と満足度の向上](increasing-adoption-and-satisfaction.md)|CSP パートナー|
 |サブスクリプションに関する顧客のアクティビティ   |アクティビティ ログ   |[顧客のアクティビティ ログの表示](activity-logs.md)|CSP パートナー   |
