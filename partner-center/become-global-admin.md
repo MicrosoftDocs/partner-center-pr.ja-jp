@@ -1,7 +1,7 @@
 ---
 title: 会社のグローバル管理者になりる | パートナー センター
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで作業するには、まずドメインの所有権を確認する必要があります。 これを行う方法と、ユーザーを追加できるグローバル管理者になる方法について説明します。
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: ドメイン, ドメインの確認, ドメインを確認, グローバル管理者, ユーザー ロール, アクセス許可
-ms.openlocfilehash: 8cc6dc8839341c20fefa48a21e62bc1350102436
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253218"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722428"
 ---
 # <a name="verify-your-domain-ownership"></a>ドメインの所有者の確認
 
 **適用対象:**
 
 - パートナー センター
+
+**適切なロール**
+
+- 全体管理者
 
 パートナーの会社がパートナー センターに初めてサインインするときは、通常、パートナー センターで作業を始めるために必要なロールが従業員に割り当てられていません。 パートナー センターで作業するすべてのユーザーに、アクセス許可を含むロールが割り当てられている必要があります。  
 

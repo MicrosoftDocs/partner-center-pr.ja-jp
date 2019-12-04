@@ -1,7 +1,7 @@
 ---
 title: 協力インセンティブの申請の主要な要件 | パートナー センター
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: インセンティブ協力プログラム内の特定の種類のアクティビティについて、パートナーセンターでインセンティブの申請を送信するための要件を説明します。
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: インセンティブの申請, 協力インセンティブの申請, 協力金, 主要な要件
 ms.localizationpriority: high
-ms.openlocfilehash: 3ed6db76ae152b002ab9518e2f9b167d6aa88337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252069"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721322"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>協力インセンティブの申請の主要な要件
 
 **適用対象**
 
 - パートナー センター
+
+**適切なロール**
+
+- インセンティブ管理者
+- インセンティブ ユーザー
 
 インセンティブの申請を送信する各種アクティビティでは、主要な要件を満たしている必要があり、実行証明書で示す必要があります。 場合によっては、必要なコミュニケーションの種類とメトリックも定義されています。
 

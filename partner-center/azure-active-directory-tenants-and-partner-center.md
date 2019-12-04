@@ -1,7 +1,7 @@
 ---
 title: 職場アカウントとパートナー センター | パートナー センター
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センター アカウントの作成に職場アカウントが必要な理由と、既に職場アカウントを持っているかどうかを確認します。
@@ -10,18 +10,23 @@ ms.author: labrenne
 Keywords: 職場アカウント, 電子メール, テナント, Azure テナント, アカウントの作成, ドメイン名
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c309cd4f79bcc92fa54c903b4517fd5a1b8399fd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253317"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721346"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>会社の職場アカウントとパートナー センター  
 
 **適用対象**
 
 -  パートナー センター
+
+**適切なロール**
+
+- 全体管理者
+- ユーザー管理者
 
 ## <a name="why-you-need-a-work-account"></a>職場アカウントが必要な理由
 
@@ -34,16 +39,18 @@ ms.locfileid: "74253317"
 有効な勤務先メール アドレスが複数ある場合は、地域部門ではなく本社に関連付けられているメール アドレスを使用します。たとえば、contoso.uk アドレスではなく contoso.com メールを使用します。
 
 > [!NOTE]  
->  既存の職場アカウントの使用を決める前に、パートナー センターでの作業を必要とするアカウント内のユーザーの数を考慮してください。 パートナー センターで作業する必要がないユーザーがアカウントにいる場合、パートナー センターで作業する必要があるユーザー用にのみ、新しいアカウントを作成することを検討してください。
+> 既存の職場アカウントの使用を決める前に、パートナー センターでの作業を必要とするアカウント内のユーザーの数を考慮してください。 パートナー センターで作業する必要がないユーザーがアカウントにいる場合、パートナー センターで作業する必要があるユーザー用にのみ、新しいアカウントを作成することを検討してください。
 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>職場アカウントが会社に既にあるかどうかわからない場合
 
 会社に職場アカウントがあるかどうかわからない場合は、次の手順に従って確認します。 Microsoft Azure または Office 365 のアクティブなサブスクリプションがある場合は、既に職場アカウントが用意されています。
 
-1.  Azure 管理ポータル (https://ms.portal.azure.com ) にサインインします。
-2.  メニューから Azure Active Directory を選択し、ドメイン名を選択します。
-3.  既に職場アカウントがある場合、ドメイン名が表示されます。
+1. Azure 管理ポータル (https://ms.portal.azure.com ) にサインインします。
+
+2. メニューから Azure Active Directory を選択し、ドメイン名を選択します。
+
+3. 既に職場アカウントがある場合、ドメイン名が表示されます。
 
 会社に職場アカウントがまだない場合は、登録プロセスを通じて無料で作成できます。
 

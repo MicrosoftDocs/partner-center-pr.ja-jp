@@ -1,7 +1,7 @@
 ---
 title: PMC からパートナー センターに移行するためのガイド | パートナー センター
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner Membership Center (PMC) からパートナー センターに会社を移行する方法について説明します。
@@ -9,14 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: high
-ms.openlocfilehash: f9ce53adddd2faecf22ef795e8ffe97189c57353
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252211"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721874"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC からパートナー センターに移行するためのガイド
+
+**適切なロール**
+
+- 全体管理者
 
 Microsoft パートナーの Web サイト (partner.microsoft.com) は、パートナー向けの統合デジタル エクスペリエンスです。 パートナーの Web サイトで、お客様の営業案件を調査したり、ガイド付きエクスペリエンスに参加したりできます。これらのエクスペリエンスは、会社が Microsoft を使用してアプリとサービスを構築および販売するのに役立ちます。 Microsoft Partner Network のメンバーは、パートナーの Web サイト全体で利用できるダッシュボード リンクを使用して、パートナー センターにサインインできます。ここで、Microsoft との関係を管理したり、プログラムに登録したり、プランにサインアップします。 
 

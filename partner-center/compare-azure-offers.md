@@ -1,7 +1,7 @@
 ---
 title: Azure プランを比較する | パートナー センター
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: クラウド ソリューション プロバイダー (CSP) プログラムにおけるパートナー向けの新しい Microsoft コマース エクスペリエンスのプランの主な違いを比較します。
@@ -9,14 +9,22 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0e624e28be8585b8a8040a9d65bce931cb7c70d8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ba5eeb6281b3c379f568a5373d0e0b7adf7ce378
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253437"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722503"
 ---
 # <a name="compare-azure-offers"></a>Azure プランを比較する
+
+**適切なロール**
+
+- 管理エージェント
+- 課金の管理
+- 全体管理者
+- ヘルプデスク エージェント
+- 販売代理店
 
 次の表では、新しい Microsoft コマース エクスペリエンスの一部であるクラウド ソリューション プロバイダー (CSP) プログラムを通して利用できるプランの主な違いの概要を示します。
 

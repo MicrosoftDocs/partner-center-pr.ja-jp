@@ -1,7 +1,7 @@
 ---
 title: 会社のアカウントを統合する | パートナー センター
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner Membership Center (PMC) アカウントをパートナー センターの 1 つのアカウントに統合する方法について説明します。 これは、PMC からパートナー センターに移行するときに行います。
@@ -10,14 +10,19 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 77d148ccd1f71d06844b2f3467dcfb0fab967dfa
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 61a2566dbab5709fcc16fa61d0239f97e46039de
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252066"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721378"
 ---
 # <a name="consolidate-your-company-accounts"></a>会社のアカウントを統合する
+
+**適切なロール**
+
+- MPN パートナー管理者
+- アカウント管理者
 
 PMC では、パートナーの会社に多数のアカウントと場所があったはずです。 場所ごとに専用のアカウントがありました。 パートナー センターに移行すると、すべてのアカウントと場所が、複数の場所を含む 1 つのプライマリ グローバル アカウントに統合されます。 MPN ID、特典、コンピテンシー、購入は一緒に移動され、失われるものはありません。 
 

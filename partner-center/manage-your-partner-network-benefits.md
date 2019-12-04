@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN、メンバーシップ特典、メンバーシップ
 ms.localizationpriority: high
-ms.openlocfilehash: bc9ca4f3b186de36cc5b87be1bce70a7be89da62
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096471"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681946"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 
@@ -101,8 +101,7 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
     
     c.  別のメールアドレスの入力が完了したら、 **[ユーザーの割り当て]** を選びます。 
 
-4. テクニカル プリセールス支援や相談時間の特典を使用して、クラウドおよびハイブリッド ソリューションのプリセールス、設計、デプロイメント、アプリケーション開発の各局面で技術支援をリクエストすることができます。 支援をリクエストするには、[リクエスト フォーム](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
-)に記入して、 **[リクエストの送信]** を選択します。
+4. テクニカル プリセールス支援や相談時間の特典を使用して、クラウドおよびハイブリッド ソリューションのプリセールス、設計、デプロイメント、アプリケーション開発の各局面で技術支援をリクエストすることができます。 支援をリクエストするには、[リクエスト フォーム](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)に記入して、 **[リクエストの送信]** を選択します。
 
 #### <a name="manage-go-to-market-benefits"></a>市場投入特典の管理
 

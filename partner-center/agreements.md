@@ -9,18 +9,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Microsoft Cloud 契約, 顧客契約テンプレート, CSP 顧客契約, Microsoft Cloud 契約, MCA, CSP, CSP で販売できる国または地域, CSP の国または地域、CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南米, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
 ms.localizationpriority: high
-ms.openlocfilehash: 0fdeb1d117dd65c85d115054d547aebe065b17ec
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253172"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722420"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>地域と言語別の Microsoft Cloud 契約
 
 **適用対象**
 
-- CSP パートナー
+- クラウド ソリューション プロバイダー プログラム パートナー
+
+**適切なロール**
+
+- 全体管理者
+- ユーザー管理者
+- 管理エージェント
+- 販売代理店
+- ヘルプデスク エージェント
 
 パートナーが顧客の代わりに注文する前に、顧客は Microsoft Cloud 契約に同意して署名する必要があります。
 

@@ -1,7 +1,7 @@
 ---
 title: ビジネス プロファイルの作成 | パートナー センター
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft から潜在顧客を取得する方法について説明します。 重要なステップの 1 つが、パートナー センターでビジネス プロファイルを作成して、顧客が貴社を見つけられるようにすることです。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, 紹介案件, 見込み客情報, C2PC, 会社のプロファイル, 会社のマーケティング, パートナーの検索, ソリューション プロバイダーの検索, ビジネス プロファイル, マーケティング プロファイル
 ms.localizationpriority: high
-ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252658"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722531"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -30,9 +30,16 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 **適用対象**
 
--  パートナー センター
--  Microsoft Partner Network パートナー
--  クラウド ソリューション プロバイダー プログラム パートナー
+- パートナー センター
+- Microsoft Partner Network パートナー
+- クラウド ソリューション プロバイダー プログラム パートナー
+
+**適切なロール**
+
+- アカウント管理者
+- ビジネス プロファイル管理者
+- 全体管理者
+- 紹介管理者
 
 認定 Microsoft  パートナーは、ビジネス プロファイルを作成して自社のビジネスを広く告知することで、その独自のソリューションや専門知識を活用してビジネス ニーズを解決したいと考えるお客様にアピールできます。
 

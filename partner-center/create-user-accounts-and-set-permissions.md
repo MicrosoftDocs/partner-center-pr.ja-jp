@@ -1,7 +1,7 @@
 ---
 title: ユーザー アカウントの作成とアクセス許可の設定 | パートナー センター
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: アクセスを必要とする各従業員のユーザー アカウントを作成し、パートナー センターでロールを割り当てる方法について説明します。 別の管理者特権を持つユーザーが、これを行うことができます。
@@ -10,16 +10,22 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: ロール, アクセス許可,ユーザーの追加, ロールの割り当て, 管理者, エージェント,
 ms.localizationpriority: high
-ms.openlocfilehash: d121d80e23f11c5885ababd3c7730939e894a235
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252091"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722455"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>ユーザー アカウントの作成とアクセス許可の設定
 
-パートナー センターへのアクセスを必要とする従業員に対してユーザー アカウントを作成します。 これらのタスクは、ユーザー管理の管理者、アカウント管理者、またはグローバル管理者が実行する必要があります。 
+**適切なロール**
+
+- アカウント管理者
+- 全体管理者
+- ユーザー管理者
+
+パートナー センターへのアクセスを必要とする従業員に対してユーザー アカウントを作成します。 これらのタスクは、ユーザー管理の管理者、アカウント管理者、またはグローバル管理者が実行する必要があります。
 
 
 ## <a name="add-a-new-user"></a>新しいユーザーの追加

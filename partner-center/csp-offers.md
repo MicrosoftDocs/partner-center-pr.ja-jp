@@ -1,7 +1,7 @@
 ---
 title: クラウド ソリューション プロバイダー プログラムでのパートナー プラン | パートナー センター
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: クラウド ソリューション プロバイダー プログラムで販売するパートナーが利用できるプランについて説明します。
@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, 製品の追加, パートナー プラン, CSP プラン, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナー, CSP での販売, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, オンライン サービス, サブスクリプション ソフトウェア, AHUB, SQL Server on Azure, Windows Server on Azure, 顧客のサブスクリプション
 ms.localizationpriority: high
-ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252907"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722539"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでのパートナー プラン 
+# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでのパートナー プラン
 
 **適用対象**
 
--  CSP パートナー
+- CSP パートナー
+
+**適切なロール**
+
+- 管理エージェント
+- 全体管理者
+- 販売代理店
 
 クラウド ソリューション プロバイダー プログラム (CSP) に参加している Microsoft パートナーが利用できるプランのカタログは増大し続けています。 すべての [Microsoft クラウド サービス](https://partner.microsoft.com/cloud-solution-provider/products-and-services)と、その他のさまざまな製品またはサービス (頻繁に変更あり) を販売できます。 当月 CSP で販売可能な製品またはサービスを確認するには、パートナー センターにサインインし、「[**料金とプラン**](https://partnercenter.microsoft.com/pcv/sales)」のページをご覧ください。  
 
