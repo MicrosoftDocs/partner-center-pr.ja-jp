@@ -1,7 +1,7 @@
 ---
 title: Azure プランに移行する - はじめに | パートナー センター
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure サービスを顧客向け従量課金制料金で購入するための、Azure プランのコマースエクスペリエンスについて説明します。 新しいセキュリティ要件についても説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Azure, Azure プラン, サブスクリプションの購入, サブスクリプション
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253293"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681933"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Azure プランに移行する - はじめに
 
@@ -27,7 +27,11 @@ Microsoft は、パートナー センターに新しいコマース エクス�
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>顧客が Microsoft 顧客契約に署名していることを確認する
 
-2019 年 10 月 1 日以降、顧客は、Microsoft 顧客契約 (完全にデジタル化されたプロセスを使用して顧客の購入エクスペリエンスの簡素化と合理化を行う永続的な契約) にデジタル署名することができます。 Azure 向けの CSP の新しいコマース エクスペリエンスを利用することを希望するすべての顧客は、Microsoft 顧客契約に署名する必要があります。
+2019 年 10 月 1 日以降、Microsoft Customer Agreement (完全にデジタル化されたプロセスを使用して顧客の購入エクスペリエンスの簡素化と合理化を行う永続的な契約) が利用可能です。 Azure 向けの CSP の新しいコマース エクスペリエンスを利用することを希望するすべての顧客は、Microsoft 顧客契約に署名する必要があります。
+
+新しい Azure プランの下で取引を行い、新規注文を作成するパートナーは、運用環境でパートナー センター ダッシュボードと API を使用して、Microsoft Customer Agreement へのお客様の同意を確認する必要があります。
+
+2020 年 2 月 1 日から、既存の Microsoft Cloud 契約は CSP プログラムから削除されます。 その後、Microsoft 365、Dynamics 365、既存の Azure を含むその他のすべてのプランでは、新しい Microsoft Customer Agreement に対する顧客の同意について、パートナーの確認 (構成証明) が必要になります。 CSP のパートナーは、Microsoft Customer Agreement の構成証明なしに、顧客の新しい注文を作成することはできません。
 
 詳細については、「[Microsoft 顧客契約に対する顧客の同意を確認する](confirm-customer-agreement.md)」を参照してください。
 

@@ -1,28 +1,35 @@
 ---
 title: 請求 | パートナー センター
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 請求リソース、請求書、CSP 請求を含む、パートナー センターの請求に関するトピック。
+Description: 請求リソース、請求書、CSP 請求に関する情報を含む、パートナー センターの請求に関するトピックについて説明します。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: high
-ms.openlocfilehash: 8169c8303c78ceaeb1b47c124411f0324ae0349a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b3052f33b55ea7aa57d5ee9d29d2839791a92088
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384628"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722166"
 ---
 # <a name="billing"></a>請求
 
-適用対象:
+**適用対象**
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
+
+**適切なロール**
+
+- 管理エージェント
+- 課金の管理
+- 全体管理者
+- 販売代理店
 
 | トピック | 説明 |
 | ----- | ----------- |
