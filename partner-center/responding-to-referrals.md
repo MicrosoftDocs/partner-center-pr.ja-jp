@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 07/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 認定 Microsoft パートナーは、パートナー センターで紹介案件を評価し、交渉して、対応できます。
+description: 紹介に応答し、新規、既存、アーカイブされた紹介を管理し、今後より多くの参照を取得する方法について説明します。
 author: JnHs
 ms.author: jenhayes
 keywords: 紹介, RFI, パートナーの検索
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 49b5c7e0f718f23c25a9adcab1edfec47814d048
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0cd8ac3dba2570d2d4d2440d4b524bb76ced39a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654088"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943445"
 ---
 # <a name="respond-to-referrals"></a>紹介案件への対応
 

@@ -4,25 +4,25 @@ ms.topic: article
 ms.date: 11/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーの会社が Dynamics 365 Customer Engagement または Dynamics 365 Finance and Operationsでどのような実績を上げているかを示すデータ
+description: Dynamics 365 カスタマーエンゲージメントまたは Dynamics 365 Finance and Operations に関して、お客様が適切に何をしているか、さらに改善できる場所を正確にご確認ください
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, パフォーマンス, 顧客の成功, 測定, Dynamics 365
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7d478f8a90eee2bcfc15ef31407dee12de1eaa29
-ms.sourcegitcommit: 10d40d50a623ac6bce3496157695a7aca147d74a
+ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74391691"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943125"
 ---
 # <a name="partner-contribution-indicators"></a>パートナー貢献度インジケーター
 
 パートナー貢献指標 (PCI) は、Dynamics 365 の顧客の成功を導くためのパートナーの影響を包括的に測定します。 パートナーは、クラウド Business Applications コンピテンシーを獲得して維持する際に、市場においてより大きな差別化を受けられます。  パートナーは、デプロイの成功や使用量の増加など、顧客の成功の主要な指標に対するクレジットを受け取り、その技術的な機能に投資してスケールアウトすることができます。 
 
-## <a name="scoring"></a>ポイントの計算
+## <a name="scoring"></a>スコア付け
 
 PCI は、会社の技術的な機能の高度で包括的なビューを提供し、顧客の成功と販売実績を促進します。 PCI は、7つの主要指標にわたって、会社の前年のパフォーマンスを測定します。
 
@@ -67,9 +67,9 @@ PCI は、会社の技術的な機能の高度で包括的なビューを提供�
 
 ![成長](images/pci/functional_consultant_growth.png)
 
-![開発者](images/pci/developers.png)
+![開発者向け](images/pci/developers.png)
 
-![新しい展開](images/pci/new_large_deployments.png)
+![新しいデプロイ](images/pci/new_large_deployments.png)
 
 ![アクティブなユーザー](images/pci/monthly_active_user_growth.png)
 
@@ -88,7 +88,7 @@ PCI は、会社の技術的な機能の高度で包括的なビューを提供�
 
 ![グラフを読む方法](images/pci2.png)
 
-## <a name="additional-resources"></a>その他のリソース
+## <a name="additional-resources"></a>その他の資料
 
 [パートナー貢献指標のリソースコレクション](https://partner.microsoft.com/asset/collection/pci-learn#/)にアクセスして、詳細なトレーニングビデオ、プレゼンテーション、faq、およびファクトシートを見つけることができます。 
 

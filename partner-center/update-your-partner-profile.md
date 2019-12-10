@@ -2,17 +2,17 @@
 title: パートナー プロファイルを確認する
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 管理者として初めてサインインするときは、サポートの詳細が正しいことを確認し、適宜、税金の除外を申告すると共に、貴社のプロファイルの連絡先情報を確認してください。
+description: 主要連絡先、住所、プログラム情報など、会社の詳細を確認する方法について説明します。 また、法的および請求先住所を更新することもできます。
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eef07d41028039be989b2c3169269b3290c72524
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 262c1f224a5056aaf985e2af4206e62fa809aa8a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384787"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943055"
 ---
 # <a name="verify-your-partner-profile"></a>パートナー プロファイルを確認する
 

@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顧客は、Microsoft Azure サービスに使う、クラウド ソリューション プロバイダー プログラムのパートナーを変更できます。 ただし、これは手動で行うプロセスであり、パートナーと顧客の両方の操作が必要となります。
+description: お客様と協力して、お客様が Azure サービスに使用するクラウドソリューションプロバイダープログラムのパートナーを変更する方法について説明します。
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: azure サブスクリプション, パートナーの切り替え, パートナーの変更, 新しいパートナーの獲得, 別のパートナー
 ms.localizationpriority: medium
-ms.openlocfilehash: a0dd17c56e04368be430808ab5191a6c5adca8cf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651534"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943395"
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure サブスクリプションの譲渡 
 

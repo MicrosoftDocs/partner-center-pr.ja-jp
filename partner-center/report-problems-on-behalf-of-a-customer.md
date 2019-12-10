@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/16/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 貴社で解決できないサービスに関する問題が顧客側で発生し、「Microsoft に問題をエスカレートする」に記載されている条件に一致する場合は、サポート チケットを発行します。
+Description: 解決できないサービスの問題が発生していて、「Microsoft への問題のエスカレート」で説明されている条件を満たしている場合は、それらのサポートチケットをファイルに記載してください。
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: サービス要求, サービス チケット, サポート, サポートの権利, AOBO, Azure AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654114"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943215"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理としての問題の報告
 

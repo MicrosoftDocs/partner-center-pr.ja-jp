@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 複数の会社を PMC からパートナー センターに移行するときに理解しておくこと
+description: 複数の企業を PMC からパートナーセンターに移行し、それらをプライマリグローバルアカウントに統合する場合の注意事項。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0049b2d553e04340ac934c071adc4442eb2f7ce0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654347"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943585"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>複数の会社をパートナー センターに移動する
 

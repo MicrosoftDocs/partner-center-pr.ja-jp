@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/28/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 対象となる特定のソリューションについて、[成立] を選択した後で、取引を登録するための追加情報を入力するように求められます。 入力した情報は Microsoft によってレビューされ、レビュー プロセス中に追加情報を求められる場合があります。
+description: パートナーセンターで受注した取引を登録すると、今後、さらに多くの機会をマイクロソフトに提供することができます。
 author: JnHs
 ms.author: jenhayes
 keywords: 取引登録
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03e2ef23923d76b833d64346614286a39826e71b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652061"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943225"
 ---
 # <a name="register-your-deals"></a>取引の登録
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/31/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft Partner Network メンバーとして、特定の市場投入特典の対象となる場合があります。 パートナーセンターで利用可能な、市場投入のさまざまなレベルの特典と、それらをアクティブ化して管理する方法について説明します。
+description: 市場投入までの時間を短縮し、潜在顧客を生み出し、ビジネスを拡大するのに役立つ、販売とマーケティングに関する専用のリソースにアクセスできます。
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, メンバーシップ特典, メンバーシップ, マーケティング市場投入特典, 市場投入, マーケットへの移行, GTM, ゴールドメンバーシップ, シルバーメンバーシップ
 ms.localizationpriority: medium
-ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 359c86cbd2929ced4203b09b988ec1fbf7b2ea44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653254"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943335"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>MPN ゴートゥマーケット (GTM) のメンバーシップ特典をご覧ください
 
@@ -67,7 +67,7 @@ GTM の特典を表示するには:
 
 1. パートナーセンターの[ダッシュボード]( https://docs.microsoft.com/partner-center/)にサインインします。
 
-2. 左側のメニューで、 **[MPN]** を選択します。 その後、次のいずれかの操作を行います。
+2. 左側のメニューで、 **[MPN]** を選択します。 次のいずれかの操作を行います。
 
     - **[概要]** を選択します。 **[クイックリンク]** セクションまでスクロールし、 **[マーケット]** プレース タブを選択します。
 
@@ -82,7 +82,7 @@ GTM の特典を表示するには:
 GTM メンバーシップ特典をアクティブ化または管理するための具体的な手順については、「マーケットプレースの[特典を管理する方法](manage-your-partner-network-benefits.md#manage-go-to-market-benefits)」を参照してください。 このプロセスの一環として、アクティブ化する GTM 特典に関するフォローアップメールとコミュニケーションのために、マーケティング担当者を連絡先として割り当てる必要があります。
 
 >[!IMPORTANT]
->特定の GTM 特典をアクティブ化し、関連するマーケティング連絡先を割り当てるには、全体管理者または MPN パートナー管理者である必要があります。 必要に応じて、 [**特典**ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits)の指示に従ってグローバル管理者になることができます (サインインする必要があります)。 会社は既にグローバル管理者を持っている可能性があるため、チームに確認してください。
+>特定の GTM 特典をアクティブ化し、関連するマーケティング連絡先を割り当てるには、全体管理者または MPN パートナー管理者である必要があります。 必要に応じて、[ **[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) で、次の手順に従って全体管理者になることができます。 会社に既に全体管理者がいる場合があるため、必ずチームで確認してください。
 
 #### <a name="see-also"></a>関連項目
 

@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: インセンティブ プログラムの収益と支払いを表示することができます。
+description: インセンティブ プログラムの収益と支払いを表示することができます。 これには、支払いページ、トランザクション履歴ページ、支払いの状態、およびデータのエクスポートが含まれます。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559745"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943185"
 ---
 # <a name="view-your-incentives-payments-information"></a>インセンティブの支払い情報を表示する
 
@@ -54,21 +54,21 @@ ms.locfileid: "74559745"
 
 ## <a name="payment-status"></a>入金状況
 
-|**獲得ステータス** |**理由** |**パートナーのアクションが必要ですか?**       |
+|**獲得ステータス** |**Reason** |**パートナーのアクションが必要ですか?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |未処理        | 前払いは支払いの対象となります。 インセンティブプログラムの番組ガイドで定義されているように、冷却期間中はこの状態のままになります。       |必須ではない        |
-|将来      |支払いが処理される前に、保留中の内部レビューが生成されました。       |必須ではない       |
+|新着      |支払いが処理される前に、保留中の内部レビューが生成されました。       |必須ではない       |
 |保留中の税金請求書      |税金請求書が不完全または無効です。          |支払いを行うには、税金請求書を更新する必要があります         |
 |レビュー中に拒否        |確認中に支払いが拒否されました。          |詳細については、Microsoft サポートにお問い合わせください         |
 |Failed        |Microsoft システムエラーが発生したため、支払いに失敗しました。         |詳細については、Microsoft サポートにお問い合わせください         |
 |進行中     |支払いが進行中です。         |必須ではない         |
 |支払いが間違っています        |支払い recouping が進行中です。          |必須ではない        |
-|送信        |お支払いが銀行に送信されました。          |必須ではない       |
+|送信済み        |お支払いが銀行に送信されました。          |必須ではない       |
 |再       |Microsoft システムエラーが発生したため、支払いを再処理しています。           |必須ではない         |
 |反転        |お支払いは銀行によって取り消され、次回の支払いサイクルで再度送信されます。          |必須ではない        |
 |税金請求書が拒否されました       |税金請求書は、レビュー中に拒否されました。 すべての保留中の支払いは、税金請求書のレビューが完了するまで保留されます。          |詳細については、Microsoft サポートにお問い合わせください         |
 |レビュー中の税金請求書        |税金請求書を確認しています。 税金請求書が承認されると、支払いがリリースされます。           |必須ではない        |
-|元        |お支払いは銀行によって拒否されました。           |詳細については、銀行にお問い合わせください。  |
+|却下済み        |お支払いは銀行によって拒否されました。           |詳細については、銀行にお問い合わせください。  |
 
 ## <a name="export-data-page"></a>[データのエクスポート] ページ
 このページの指示に従って、必要なデータをエクスポートします。 
@@ -129,8 +129,8 @@ ms.locfileid: "74559745"
 |paymentId   |支払いの一意の識別子。 通常、この数値は銀行の明細書に表示されます。   |
 |paymentStatus   |入金状況   |
 |paymentStatusDescription   |支払い状態のわかりやすい説明   |
-|顧客   |顧客識別子   |
-|おける   |トランザクションの顧客名   |
+|customerId   |顧客識別子   |
+|customerName   |トランザクションの顧客名   |
 
 
 上記の表に加えて、これらのトランザクション履歴フィールドは、プログラムに適用できるようになります。
@@ -140,7 +140,7 @@ ms.locfileid: "74559745"
 |partNumber   |トランザクションにリンクされたパーツ番号。 Microsoft の用語。   |
 |productName   |トランザクションに罫線を持つ製品ファミリ名   |
 |invoiceNumber   |請求書番号   |
-|サブスクリプション   |顧客に関連付けられているサブスクリプション識別子   |
+|subscriptionId   |顧客に関連付けられているサブスクリプション識別子   |
 |And subscription.subscriptionstartdate   |サブスクリプション開始日   |
 |Subscription.subscriptionenddate   |サブスクリプション終了日   |
 |offerId   |TBD   |
@@ -151,6 +151,6 @@ ms.locfileid: "74559745"
 |agreementNumber   |契約番号   |
 |agreementStartDate   |契約開始日   |
 |agreementEndDate   |契約終了日   |
-|ワークロード   |ワークロード   |
+|ワークロード (workload)   |ワークロード   |
   
 

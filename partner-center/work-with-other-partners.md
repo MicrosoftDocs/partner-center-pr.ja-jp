@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 共有するユーザーのニーズを満たすために CSP の他のパートナーと連携します。
+description: 間接プロバイダーがクラウドソリューションプロバイダー (CSP) プログラムで間接リセラーと提携し、どのロールが適切かを判断する方法について説明します。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a4b26e08d1413cdf3aeb819b2d30891da854beff
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 720d4890eb4d131484a26d489c202ca3f173a006
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651159"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943155"
 ---
 # <a name="work-with-other-partners"></a>他のパートナーとの連携
 

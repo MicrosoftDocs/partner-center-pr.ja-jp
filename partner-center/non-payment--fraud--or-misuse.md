@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 商品やサービスに対する顧客の未払い、不正行為、不正使用などのオンライン トランザクション リスクを管理するための戦略。
+description: オンライントランザクションに関連するさまざまな種類のリスクと、それらのリスクを管理して軽減するためのベストプラクティスについて学習することが重要です。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐欺, 不正使用, 使用条件, 利用規約, 未払い, 顧客が料金を支払わない, オンライン リスク, サービスの盗用, サービスの不正使用, サブスクリプションの一時停止,
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 604c192259fd4194a3b43d57721caa7566704b58
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384766"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943525"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>パートナーセンターでの非支払い、不正行為、誤用の管理
 
-適用対象
+適用対象:
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター

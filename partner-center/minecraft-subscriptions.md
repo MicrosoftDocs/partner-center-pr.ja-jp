@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: '適格教育機関の顧客に Minecraft: Education Edition サブスクリプションを販売します。'
+description: Minecraft 教育エディションのサブスクリプションを、認定された教育機関のお客様に販売し、Microsoft 教育機関からダウンロードすることができます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 認定教育パートナー, 教育, 教育機関への販売, 学校
 ms.localizationpriority: medium
-ms.openlocfilehash: ef1191b068f5e6afb22dc8e7734489f4dd7d3531
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653287"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943495"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 

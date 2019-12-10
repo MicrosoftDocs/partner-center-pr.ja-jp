@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: お客様が Microsoft の製品やソリューションの導入に際して支援を必要とする場合に、パートナーは見込み客情報を取得し、商談を始めることができます。
+description: ビジネスプロファイルを作成して、パートナーセンターの紹介機能を通じて販売潜在顧客を生成し、これらの紹介に応答する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 紹介, ビジネス プロファイル, パートナーの検索
 ms.localizationpriority: medium
-ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652157"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943255"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

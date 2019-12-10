@@ -2,19 +2,19 @@
 title: Microsoft からの SLA クレジットを要求する |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
-description: サービスの停止が発生した場合は、マイクロソフトの SLA クレジットを要求します。
+description: お客様がサービスの停止を経験している場合に Microsoft からの SLA クレジットを要求するための利点、制限事項、および手順について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384900"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943145"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Microsoft からの SLA クレジットを要求する 
 
@@ -45,13 +45,13 @@ Microsoft からの SLA クレジットは、影響を受けたサービスに�
 | 2文字の省略形 | Microsoft サービス |
 | ----------------------- | ----------------- |
 | EX | Exchange Online |
-| FO | Exchange Online の保護 |
+| FO | Exchange Online Protection |
 | SB | Skype for Business Online (以前の Lync Online) |
 | OS | Office サブスクリプション |
-| PB | Power BI for Office 365 |
-| プロセッサー | SharePoint Online |
+| PB | Office 365 用 BI 機能 |
+| SP | SharePoint Online |
 | YA | Yammer Enterprise |
-| 月 | ポータルエラー |
+| MO | ポータルエラー |
 
 ### <a name="submit-sla-credit-request"></a>SLA クレジット要求の送信
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーテナントのセキュリティ要件に対する多要素認証 (MFA) の要求の詳細
+description: パートナーテナントの MFA を義務付けることで、顧客リソースへのアクセスをセキュリティで保護する方法について説明します。 サンプルシナリオが含まれます。
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: medium
-ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
-ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
+ms.openlocfilehash: f0beb695bee9a67f79373ea903158de3fbb66851
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/13/2019
-ms.locfileid: "73983350"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943105"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>パートナーのテナントに Multi-factor Authentication (MFA) を義務付ける
 
@@ -207,7 +207,7 @@ MFA の検証中に、パートナーアカウントが MFA に登録されて�
 #### <a name="issue-7-partner-has-implemented-3rd-party-mfa-which-isnt-recognized-by-azure-ad"></a>問題 7: パートナーがサードパーティの MFA を実装しています。これは、によって認識されません Azure AD
 パートナーは、サードパーティの MFA ソリューションを使用してユーザーの MFA を実装しています。 ただし、パートナーは、ユーザー認証中に MFA 検証が完了した Azure AD に、サードパーティの MFA ソリューションを適切に構成できません。 これは、技術的な例外の有効な理由ですか。
 
-**回答**: はい。これは、技術的な例外の有効な理由として考慮される可能性があります。 技術的な例外の要求を送信する前に、サードパーティの MFA ソリューションプロバイダーに確認してください。これは、multipleauthn (値 Azure AD は) の*authenticationの参照*要求をフローするように構成できないことを示すものです。ユーザー認証中に MFA の検証が完了したことを示す。 技術的な例外の要求を送信しているときに、使用されているサードパーティの MFA ソリューションの詳細を指定し、統合の方法を示します (例: id フェデレーションまたは Azure AD カスタムコントロールの使用)。
+**回答**: はい。これは、技術的な例外の有効な理由として考慮される可能性があります。 技術的な例外の要求を送信する前に、サードパーティの MFA ソリューションプロバイダーに確認してください。これは、ユーザー認証時に MFA の検証が完了したことを示すために、 *authenticationmultipleauthn references*要求 (値の) Azure AD をフローするように構成できないことを示しています。 技術的な例外の要求を送信しているときに、使用されているサードパーティの MFA ソリューションの詳細を指定し、統合の方法を示します (例: id フェデレーションまたは Azure AD カスタムコントロールの使用)。
 
 ### <a name="how-to-submit-a-request-for-technical-exception"></a>技術的な例外の要求を送信する方法
 

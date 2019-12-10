@@ -2,7 +2,7 @@
 title: 源泉徴収税のご購入をご確認ください。パートナーセンター
 ms.topic: article
 ms.date: 11/07/2019
-description: パートナーセンターのアカウントに源泉徴収税があることを確認する方法。
+description: パートナーセンターのアカウントに源泉徴収税があることを確認し、必要に応じてサービス要求を開きます。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,16 +10,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 源泉徴収税クレジット、課税クレジット、ドイツの課税クレジットフォーム、納税クレジット
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f25c570f8a71a261e815891545acf48e0a8fe08
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384864"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943165"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>源泉徴収税の貸方をご確認ください
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>源泉徴収で税額控除されていることを確認する
 
-適用対象
+適用対象:
 
 - パートナー センター
 
@@ -83,7 +83,7 @@ Microsoft に送信する前に、フォームが正確であることを確認�
 
 税証明書は、 **Microsoft の請求**書に対してのみ使用する必要があります。 証明書に含まれる**他の会社**がある場合は、内部処理の金額を除外できるように金額を指定しますが、証明書の合計数を完全に表示できます。
 
-## <a name="create-a-service-request"></a>サービスリクエストを作成する
+## <a name="create-a-service-request"></a>サービス リクエストを作成します
 
 次の情報は、**クラウドソリューションプロバイダー (CSP) プログラム**のパートナーに*のみ*適用されます。 これらには、**直接請求パートナー**と**間接プロバイダー**のみが含まれます。 **間接リセラー**は、代わりに**間接的なプロバイダ**を使用する必要があります。
 

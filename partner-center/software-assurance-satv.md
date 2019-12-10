@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ソフトウェア アシュアランス トレーニング プログラムに登録します
+description: ソフトウェアアシュアランストレーニングプログラムへの登録の詳細。これにより、企業のお客様にトレーニングと計画を提供するための補償を受けることができます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: トレーニング受講券, ソフトウェア アシュアランス, トレーニング, SATV での登録, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d6339a63d4fbd7f1d742820ca90bb66d4d67c1a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dac3c2c82ad02be3f65358573808d9f2e5d1cf52
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384792"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943415"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム
 
@@ -22,7 +22,7 @@ ms.locfileid: "74384792"
 
 承認されたソフトウェア アシュアランス トレーニング パートナーとして、企業顧客がソフトウェア アシュアランスで取得した受講券と引き換えに、Microsoft は技術トレーニングの提供に対する補償を行います。 このプログラムに参加すると、より多くの顧客を獲得し、その信頼されたラーニング パートナーになることができます。
 
-## <a name="get-started"></a>作業開始
+## <a name="get-started"></a>、
 
 ソフトウェアアシュアランストレーニングサービスを初めてご使用になる場合は、以下のすべての手順に従ってください。 トレーニング伝票プログラムで既にアクティブになっている場合は、以下の手順 4 (4) から開始します。 
 
@@ -32,7 +32,7 @@ ms.locfileid: "74384792"
 4. 顧客が受講券を作成して割り当てる
 5. 顧客の受講券を検証して予約する
 6. トレーニングを提供し、製品のライセンス認証を行う
-7. 受講券を引き換える
+7. 利用券を引き換える
 8. 支払いを要求する
 
 この記事では、各ステップを完了する方法について説明します。
@@ -63,7 +63,7 @@ SATV プログラムに登録されると、パートナーが SATV 対象コー
 
 受講券が予約されたら、トレーニングをご自身の顧客に提供できます。 詳細については、「トレーニングエンゲージメントのためのワークフロー」の[手順 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)のガイドラインと、mooc コースの Microsoft オフィシャルコースウェア (MOC)、試験、および Microsoft のコース証明書のバウチャー (laas) のライセンス認証と購入の手順を参照してください。
 
-## <a name="redeem-voucher"></a>受講券を引き換える
+## <a name="redeem-voucher"></a>利用券を引き換える
 
 トレーニングが完了したら、受講券を引き換える必要があります。 ワークフローの[手順 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) . に記載されている手順に従って、すべての要件が満たされていることを確認し、支払いを要求できるようにします。 
 

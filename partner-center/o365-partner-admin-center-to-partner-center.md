@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Office 365 パートナー管理センターのパートナーがパートナー センターに移行するときの主な考慮事項
+description: パートナーセンターに移行した後、ビジネス要求やサービスリクエストの作成など、一般的な Office 365 partner 管理センターの機能を見つけます。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4780226cb66fd621e51045456daa1ac2d3ee2adf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654233"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943325"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 partner 管理センターパートナー: ビジネス操作をパートナーセンターに移行するための準備
 

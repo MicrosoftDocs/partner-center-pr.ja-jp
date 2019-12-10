@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 関係を削除すると、終了したすべてのビジネス関係がパートナー センターのビューから削除されます。
+description: 顧客リストから顧客を削除し、独自の代理管理者特権を削除して、購入またはオファリングのサポートを停止する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c0289c231e90d38d2bf18d571f9194fc469ce7e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a4fb0bc0ddcf5bb6c759558c25a3df8fb12ddf08
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651972"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943235"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>顧客との再販業者関係の削除
 

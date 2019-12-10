@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 12/12/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dynamics 365 Business Edition サブスクリプションは更新できなくなりました。
+description: Dynamics 365 Business Edition のプランを、有効期限が切れる前に新しいバージョンに移行する方法について説明します。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365 プラン、更新プラン、新しい Dynamics 365 Sku
-ms.openlocfilehash: fc6964135058a805a32f81b09974b8e6d08e85d6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8a6ff7c10854d3b4d4a3a57482b45c741d8e0321
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653292"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943575"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Dynamics 365 Business Edition プランの新しいバージョンへの移行 
 
@@ -32,7 +32,7 @@ API (CREST またはパートナーセンター) を使用する場合は、サ�
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>Dynamics 365 Business Edition が廃止されています
 
-- Dynamics 365 for Finance and Operations、Business edition
+- Dynamics 365 for Finance and Operations (Business Edition)
 - Dynamics 365 for Team Members, Business edition
 
 ## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central-Dynamics 365 Business Edition の新しいプラン

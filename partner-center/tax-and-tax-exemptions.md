@@ -2,7 +2,7 @@
 title: 税金および課税控除 |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
-description: 税金の責任を理解し、CSP 販売の課税控除を提出します。
+description: 特定の地域における税金の責任について、および CSP 販売の課税控除を提出する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,16 +10,16 @@ author: MaggiePucciEvans
 keywords: 税金、課税控除、vat、リセラー、請求
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384871"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943195"
 ---
 # <a name="taxes-and-tax-exemptions"></a>税金と税金の除外
 
-適用対象
+適用対象:
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
@@ -87,7 +87,7 @@ Microsoft は、トルコでパートナーによって購入されたデジタ�
 2. **[パートナーの要求]** ページで、 **[新しい要求]** を選択します。 (このページの後半で、開いている、閉じたサポート要求を表示することもできます)。
 3. **基本**手順の **[CSP-課金と支払い]** で、[**問題の種類の選択]** を選択し、免税 **[要求]** を選択します。
 4. **[ソリューション]** ステップで、 **[追加のヘルプが必要ですか?]** の [**はい]** を選択します。
-5. **詳細**手順で、 **[問題の詳細]** フォームに入力します。 次のことを確認してください。
+5. **詳細**手順で、 **[問題の詳細]** フォームに入力します。 必ず、次の作業を行ってください。
 
     - すべての必須フィールドに入力します。
     - **[詳細]** フィールドに、 **Microsoft ID**と**MPN ID**を含めます。

@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure Partner Shared Services は、CSP プログラムのパートナー様向けの新しいプランの種類です。このプランでは、パートナー様自身が使用する Azure サブスクリプションを購入できます。
+description: Azure Partner Shared Services を使用して、自分で使用する Azure サブスクリプションを購入したり、Azure の購入、追跡、管理のための統一された方法を利用したりすることができます。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, Shared Services, テナント
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2d6c51ceb9151298f21bb0ebfd696e57bd8d13fb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651678"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943455"
 ---
 # <a name="add-azure-partner-shared-services"></a>Azure Partner Shared Services の追加
 

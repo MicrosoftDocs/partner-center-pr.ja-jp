@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft からの確認更新要求に応答する方法
+description: アカウントの検証の状態に従い、必要に応じて追加情報を入力します。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 検証、検証、拒否、パートナープロファイルの更新
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a7b77d8a263d71235dd30e74669b39244ec11d2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 6f6dfe1b8d7815ffb93b737804b85b15b60d3cff
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651149"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943365"
 ---
 # <a name="verify-your-account-information"></a>アカウント情報の確認
 

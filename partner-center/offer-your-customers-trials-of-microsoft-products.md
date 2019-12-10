@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顧客は、Microsoft サブスクリプション製品を 30 日間テストすることができます。 他の多くのオンライン サービスと同様、カタログ内の試用版にサインアップします。
+description: 顧客は、Microsoft サブスクリプション製品を 30 日間テストすることができます。 他の多くのオンラインサービスと同様に、カタログでこれらの試用版にサインアップします。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ca774233fa6d5314e57f1ab2eb2a73b6037223e5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384833"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943295"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Microsoft 製品の試用版を顧客に提供する
 
-適用対象
+適用対象:
 
 - パートナー センター
 

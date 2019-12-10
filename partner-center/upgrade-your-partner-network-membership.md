@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft Partner Network メンバーシップをアップグレードすると、限定のメンバーシップ特典を利用できるようになります。 ここでは、提供されている特典を確認および購入する方法について説明します。
+description: MPN のメンバーシップを Microsoft Action Pack サブスクリプションのメンバーシップまたは Microsoft コンピテンシーにアップグレードすることで、排他的な特典をご利用ください。
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651165"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943405"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 
@@ -82,7 +82,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 3. Action Pack サブスクリプションを毎年自動的に更新しない場合は、 **[自動更新を無効にする]** を選びます。 
 
 > [!NOTE]  
-> サブスクリプションの自動更新を無効にした場合は、サブスクリプションを再度更新しない限り、サブスクリプションを再度有効にすることはできません。 サブスクリプションの有効期限が切れる前に、更新するように通知されます。
+> サブスクリプションの自動更新を無効にすると、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 サブスクリプションの有効期限が切れる前に、更新についてお知らせします。
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Action Pack サブスクリプションを更新する

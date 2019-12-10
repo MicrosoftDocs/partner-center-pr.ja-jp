@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: PMC とパートナー センターの違う点と似ている点について説明します
+description: 更新、アカウントの構造、サインイン、ユーザーロール、コンピテンシーなどに関する PMC とパートナーセンターの違いと類似性について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653277"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943485"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC からパートナー センターに移動する
 
