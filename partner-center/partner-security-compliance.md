@@ -3,17 +3,17 @@ title: パートナーのセキュリティ要件の状態 | パートナー セ
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 会社の MFA 要件への準拠状態について最新の情報を把握します。
+description: クラウド ソリューション プロバイダー プログラムにおけるアドバイザー、コントロール パネル ベンダー、およびパートナーのセキュリティを強化する、新しい必須要件について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 7e8226009e9f214e420475dbd350f2bcb3984414
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295252"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943115"
 ---
 # <a name="partner-security-requirements-status"></a>パートナー セキュリティ要件の状態
 

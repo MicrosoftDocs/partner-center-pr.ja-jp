@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure プランで複数の Azure サブスクリプションを購入します
+description: Azure プランで 1 つまたは複数の Azure サブスクリプションと Azure 予約を購入する方法、リソースを構成する方法、サブスクリプションを表示または追加する方法について説明します。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: f81b338fef2feeeede17db2e1de84b1d9b0d0ca8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b259f34266415885215097c54c043a6cb91249bd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654165"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943275"
 ---
 # <a name="purchase-the-azure-plan"></a>Azure プランを購入する
 

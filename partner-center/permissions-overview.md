@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/10/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナー センターで作業する必要があるすべての従業員にロールを割り当てる必要があります。
+description: 商取引、紹介、インセンティブ、または会社の MPN メンバーシップを管理しているユーザーに最適なロールについて説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: ロール, アクセス許可, 管理者, エージェント
 ms.localizationpriority: high
-ms.openlocfilehash: aa2eb2561332f730abedd2416813189abe6dc02d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652428"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943135"
 ---
 # <a name="assign-users-roles-and-permissions"></a>ユーザー ロールとアクセス許可の割り当て
 
