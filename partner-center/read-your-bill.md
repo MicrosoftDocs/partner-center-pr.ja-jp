@@ -1,5 +1,5 @@
 ---
-title: 請求書の記載事項 | パートナー センター
+title: 請求書を読み取る | パートナー センター
 ms.topic: article
 ms.date: 11/21/2019
 description: 請求書は、現在の月額期間のすべてのパートナーセンターの料金 (プログラム、製品、および顧客にわたる) の概要です。
@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f7fe5c2a3348e89cb69fc0d4e89b97f56fb2083
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384825"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004831"
 ---
-# <a name="read-your-bill"></a>請求書の記載事項
+# <a name="read-your-bill"></a>請求書を読み取る
 
-適用対象
+**適用対象**
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   課金の管理
+-   管理エージェント
+-   MPN パートナー管理者
 
 **請求書**は、**現在の請求期間**における**すべてのパートナーセンターの請求**(プログラム、すべての製品、すべての顧客) の概要です。
 

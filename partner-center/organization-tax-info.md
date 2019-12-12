@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8aa501512a86f65c0a78c49f01c843286fcd120f
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384595"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005031"
 ---
 # <a name="company-tax-information"></a>会社の税金情報
 
-適用対象
+**適用対象**
 
 - パートナー センター
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   課金の管理
+-   管理エージェント
+-   販売代理店
 
 パートナー センターで購入した場合の税額は、会社の住所によって決定されます。 一部の国の企業では[、付加価値税 (VAT) 番号](#submit-vat-id-number)またはローカルに相当するものを提供できます。
 

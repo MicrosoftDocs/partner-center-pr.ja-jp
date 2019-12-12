@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN、請求書、マップ、課税控除、VAT、VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: ec3813363b8ec69ee813fa7c65e6e39d00226016
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943545"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004261"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft Partner Network の請求書と税金
 
 **適用対象**
 
 -  パートナー センター
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   MPN パートナー管理者
+-   課金の管理
+-   管理エージェント
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>MPN メンバーシップ請求書を表示またはダウンロードする
 

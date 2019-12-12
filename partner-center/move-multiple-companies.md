@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: 0049b2d553e04340ac934c071adc4442eb2f7ce0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943585"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004691"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>複数の会社をパートナー センターに移動する
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   管理エージェント
+-   販売代理店
 
 ご自身の会社のアカウントを PMC からパートナー センターに移動するとき、複数のアカウントを移動する場合があります。 パートナー センターでは、これらのアカウントは 1 つのグローバル アカウント (PGA) に統合されます。 最初に移動するアカウントはプライマリ グローバル アカウントと見なされ、それ以降のアカウントはすべて、最初のアカウントに場所として統合されます。 会社の本社の PMC アカウントを使用して移動を開始します。 詳細については、「[PMC からパートナー センターへの移行に関するガイド](guide-to-migration.md)」を参照するか、こちらの短いビデオ「[複数の場所アカウントを簡単に](https://vimeo.com/290335248)」をご覧ください。
 

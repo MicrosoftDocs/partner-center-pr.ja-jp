@@ -11,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 105ae9e31400284148bd7639c6a4498d5b5f5f1c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943525"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005081"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>パートナーセンターでの非支払い、不正行為、誤用の管理
 
@@ -24,6 +24,12 @@ ms.locfileid: "74943525"
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   管理エージェント
+-   課金の管理
 
 パートナーは、顧客による不正購入や、購入サービスの料金未払いについて、金銭的な責任を負います。 したがって、*不正行為の防止と検出のリスク軽減のための制御*を行うことを強くお勧めします。
 

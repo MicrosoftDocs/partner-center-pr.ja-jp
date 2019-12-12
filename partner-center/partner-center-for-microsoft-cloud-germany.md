@@ -9,18 +9,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7749f61743e38bef63a5f82cbac06f9e9bdcb8dc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 2534610ac551e4b11c1846951936ad939be2191e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943515"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004881"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センター
 
 **適用対象**
 
 -  Microsoft Cloud ドイツのパートナー センター
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   管理エージェント
+-   販売代理店
+-   課金の管理
 
 Microsoft Cloud ドイツは、厳密なドイツのデータ保護要件を満たすように設計されています。また、ドイツ法に基づいて顧客データへの物理的および論理的アクセスを管理するドイツ データ トラスティを含みます。 すべての顧客データと、顧客データへのアクセスを処理または管理するシステムは、ドイツのデータセンター内に存在します。 これらのデータセンター間のネットワークはドイツ内で隔離され、データセンター専用で使用されます。
 
@@ -31,31 +38,6 @@ Microsoft Cloud ドイツでは、ドイツのデータセンターから提供�
 > お客様のニーズの変化に基づいて、ドイツのクラウド戦略は、グローバルクラウドサービスと一貫性のあるドイツの新しいクラウドリージョンの配信に焦点を当てます。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在提供されている現在のクラウドサービスを引き続き使用できます。このサービスは、必要なセキュリティ更新プログラムによって維持されます。 
 > 
 > 今後、新しい顧客は、現在利用可能なヨーロッパの地域を利用するか、または利用可能になった時点でドイツの新しい地域を利用することができます。 詳細については、[Microsoft によるドイツの新しいデータセンターからのクラウド サービスの提供](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)に関するページを参照してください。 
-
-# <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Microsoft Cloud ドイツから別の欧州リージョンに顧客を移行する
-Microsoft Cloud ドイツから別の欧州リージョンに顧客のサブスクリプションを移行する前に、そのリージョンに存在し、現在アクティブな CSP アカウントを持っている必要があります。 お持ちでない場合は、パートナーセンターで、CSP アカウントの選択中に作成するように求められます。 移行後、お客様のサブスクリプションは選択したテナントに関連付けられます。
-
-## <a name="migrate-with-an-existing-csp-account"></a>既存の CSP アカウントを使用して移行する
-1.  Microsoft Cloud ドイツのパートナーセンターにログインすると、アクティブな CSP テナントを選択するように求められます。 **[OK]** を選択します。
-2.  メッセージが表示されたら、 **[欧州リージョンに既にテナントがある]** を選択し、 **[次へ]** を選択します。 新しいテナントにログインするように求められます。 
-3.  グローバル管理者としてテナントにログインします。
-4.  確認 ページの情報を確認し、**確認** を選択します。
-5.  詳細については、 **[詳細の表示]** または ダッシュボードの **[表示]** を選択するように求められます。 
-
-ログインに失敗した場合は、次のいずれかの意味があります。
-- 選択したテナントのグローバル管理者ではありません
-- このテナントは欧州地域にありません
-- テナントがアクティブではありません
-
-必要な修正を行い、プロセスを繰り返します。
-
-## <a name="migrate-without-an-existing-csp-account"></a>既存の CSP アカウントを使用せずに移行する
-1.  Microsoft Cloud ドイツのパートナーセンターにログインすると、アクティブな CSP テナントを選択するように求められます。 **[OK]** を選択します。
-2.  メッセージが表示されたら、 **[欧州地域にテナントがありません]** を選択し、 **[新しいアカウントの作成]** を選択します。 
-3.  [パートナーセンターの登録] ページが表示されます。ここでは、新しいテナントと CSP アカウントを欧州地域で作成できます。 
-4.  契約に署名し、アカウントがアクティブになったら、現在の Microsoft Cloud ドイツアカウントでログインします。
-5.  テナントの選択フォームに移動します。
-6.  **[ヨーロッパリージョンに既にテナントがある]** を選択し、指示に従います。
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Microsoft Cloud ドイツのパートナー センター: EU と EFTA でドイツのクラウド ソリューションを販売する
 

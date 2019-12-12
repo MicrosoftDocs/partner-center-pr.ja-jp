@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 認定教育パートナー, 教育, 教育機関への販売, 学校
 ms.localizationpriority: medium
-ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943495"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004551"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 
 **適用対象**
 
 -  パートナー センター
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   販売代理店
+-   管理エージェント
 
 教育機関向けのパートナーは、**Minecraft: Education Edition** サブスクリプションを教育機関に販売できます。 パートナーがパートナー センターで顧客の代理としてサブスクリプションを購入した後、顧客は[教育機関向け Microsoft Store](https://educationstore.microsoft.com)からソフトウェアをダウンロードします。 
 

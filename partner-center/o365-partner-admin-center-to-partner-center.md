@@ -8,12 +8,12 @@ description: パートナーセンターに移行した後、ビジネス要求�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 63b12682cbde7123224ddeae6fb8b5470858c4ad
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943325"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005071"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 partner 管理センターパートナー: ビジネス操作をパートナーセンターに移行するための準備
 
@@ -21,6 +21,12 @@ ms.locfileid: "74943325"
 
 - パートナー センター
 - Office 365 パートナー管理センター
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   管理エージェント
+-   販売代理店
 
 ビジネスライフサイクル全体にわたって顧客を管理するために、Office 365 partner admin center の機能をパートナーセンターに導入しています。 使用している機能に加えて、次のことができるようになります。 
 

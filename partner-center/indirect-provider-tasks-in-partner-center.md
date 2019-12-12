@@ -8,14 +8,20 @@ description: 間接的なプロバイダー (ディストリビューター) と
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253679"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004541"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   管理エージェント
+-   販売代理店
 
 現在の複雑で変化の激しいテクノロジ市場において、顧客はテクノロジ ソリューションを活用して競争力の強化を図っています。 このような状況の中、パートナー各社が他社との連携に注力して提供品目を拡大し、顧客にさらに多くの機能を提供しようとするのは当然です。
 
@@ -30,7 +36,7 @@ ms.locfileid: "74253679"
 -   特定の顧客とサブスクリプションの管理者として間接リセラーを指定する 
 -   マイクロソフト、顧客、間接リセラーとの関係をすべて 1 か所で管理する
 
-CSP での間接モデルについて詳しくは、[Microsoft Partner Network Web サイト](https://partner.microsoft.com/cloud-solution-provider/indirect)の「[Explore the Indirect model (間接モデルの概要)]( https://partner.microsoft.com)」をご覧ください。 
+CSP での間接モデルについて詳しくは、[Microsoft Partner Network Web サイト]( https://partner.microsoft.com)の「[Explore the Indirect model (間接モデルの概要)](https://partner.microsoft.com/cloud-solution-provider/indirect)」をご覧ください。 
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>パートナー センターでの間接プロバイダーのタスク
 
@@ -44,7 +50,7 @@ CSP での間接モデルについて詳しくは、[Microsoft Partner Network W
 
     - リセラーとやり取りして取引するには、まずパートナーセンターでパートナーシップを確立する必要があります。 <br>
 
-3.  お客様とつながる
+3.  顧客との再販業者関係の確立
 
     - 新しい顧客とサブスクリプションをリセラーに関連付ける
     - 既存の顧客との再販業者関係を確立する <br>
@@ -129,7 +135,7 @@ CSP での間接モデルについて詳しくは、[Microsoft Partner Network W
 
 
 
-## <a name="connect-with-customers"></a>お客様とつながる
+## <a name="connect-with-customers"></a>顧客との再販業者関係の確立
 
 新しい顧客を獲得した場合、パートナー センターで顧客のアカウントを作成する必要があります。 新しい顧客アカウントを追加するときに、特定の再販業者を指定してアカウントを管理し、顧客のサブスクリプションとサービスをそのユーザーに代わって管理することができます。 
 

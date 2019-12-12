@@ -10,14 +10,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: ロール、アクセス許可、ユーザーの追加、ロールの割り当て、管理、エージェント、MCP ID、Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: ef53e08af725130b3c13384929afa0a549d0837c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0457974ff283e8e21a717ca8a0beedf8ce16fa54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943555"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004281"
 ---
 # <a name="associate-your-microsoft-learn-account-in-partner-center"></a>パートナーセンターで Microsoft Learn アカウントを関連付ける
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
 
 コンピテンシーに対して行ったトレーニングとラーニングのパスを会社で確認できるようにするには、MCP ID をパートナーセンターアカウントに関連付ける必要があります。 この操作は、パートナーセンターのユーザーとして追加した後に手動で行います。
 

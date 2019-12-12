@@ -9,14 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943485"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004291"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC からパートナー センターに移動する
+
+**適切なロール**
+-   グローバル管理
 
 Microsoft では、エンゲージメントの集中ポイントとして機能する単一の Web サイト (パートナー センター) を導入することで、パートナーがビジネスを行いやすいようにしています。 Partner Membership Center (PMC) で行っていたことはすべて、パートナー センターのダッシュボードから実行できます。 
 

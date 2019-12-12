@@ -8,14 +8,18 @@ description: 個々のトレーニング、完成したモジュール、完成�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e97e6b5212b2b55e56e1022e2a5a12bdb0f2f74
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943535"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005111"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Microsoft Learn analytics レポート
+
+**適切なロール**
+-   グローバル管理
+-   MPN パートナー管理者
 
 Microsoft Learn レポートには、完了したモジュールとその学習パスを含む、会社の学習器に関する情報が表示されます。 このレポートには、個々の学習器の状態が表示されます。 会社のグローバル管理者と MPN admin は、データを表示できます。
 

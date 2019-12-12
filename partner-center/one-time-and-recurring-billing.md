@@ -7,17 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 課金、1回限り、定期的な購入、請求、isv
 ms.localizationpriority: medium
-ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389690"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005041"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>1 回限りの請求と定期的な料金の選択
 
+**適用対象**
 - パートナー センター
 - CSP プログラムのパートナー
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   課金の管理
+-   管理エージェント
+-   販売代理店
 
 このトピックでは、Microsoft およびサードパーティ製の独立系ソフトウェアベンダー (ISV) 製品の**1 回限り**の課金と、選択された定期的な料金について説明します。 
 

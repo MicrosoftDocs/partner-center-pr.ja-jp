@@ -7,18 +7,23 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Office, O365, PSTN サービス, 税金, 要件, 請求書, 請求
 ms.localizationpriority: medium
-ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 2edf62c8a2157bc2b75855833ddbc7a63e7c6bb0
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384814"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005061"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 パートナー向けアドバイザリ: CSP の Microsoft 365 音声
 
 **適用対象**
 
 - パートナー センター  
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   管理エージェント
 
 一部の国の公衆交換電話網 (PSTN) サービスには、パートナーの注文と請求に影響する可能性がある特別な税金および規制要件が適用される場合があります。  米国、プエルトリコ、およびカナダでは、Skype for Business PSTN と Microsoft 365 音声サービスには、特別な税金と規制の要件が適用されます。 米国とプエルトリコでは、Microsoft は PSTN サービスを税金包括として価格を付けます。  独自の PSTN の税金と規制は、Microsoft 365 音声製品を操作する Office 365 パートナーに影響します。  パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。
 
@@ -49,6 +54,6 @@ Office 365 Enterprise E5 は、調整ファイルに同一の名前と同じ Id 
 
 カナダで利用可能な Microsoft 365 Business 音声には、CSP 請求書に統合されている追加の PSTN 非課税コンポーネントがあります (Office 365 E5 と同様、2つの行項目が表示されます。1つは PSTN コンポーネント用、もう1つは pstn 以外のコンポーネント用) です。  Microsoft 365 Business 音声の CSP 調整ファイルには、すべての PSTN の非課税コンポーネントが個別に表示されます (個々の PSTN コンポーネントはに統合されません)。CSV または API ツール)。  調整ファイルで見つかった顧客の注文明細と請求金額の合計が CSP 請求書と一致します。
 
-## <a name="additional-resources"></a>その他のリソース
+## <a name="additional-resources"></a>その他の情報
 詳細については、[パートナーサイトの Microsoft 365](https://drumbeat.office.com/Pages/home2016.aspx)を参照してください。
 

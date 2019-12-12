@@ -9,12 +9,12 @@ ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: af93ea420f1eefcf11af0a49b1bcab00de6f0029
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 631a5273c7ab373d135904aa6202bbfc21bc0fa2
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943465"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004821"
 ---
 # <a name="provide-technical-support"></a>テクニカル サポートを提供する
 
@@ -23,6 +23,11 @@ ms.locfileid: "74943465"
 -  パートナー センター
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   ヘルプデスク エージェント
+-   管理エージェント
 
 貴社には、クラウド ソリューション プロバイダー パートナーとして、お客様の環境にアクセスできる委任された管理者権限があります。 これらの特権により、顧客のサブスクリプションを直接サポート、構成、および管理することができます。
 

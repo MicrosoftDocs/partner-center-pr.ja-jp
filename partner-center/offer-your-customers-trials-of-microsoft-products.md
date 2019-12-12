@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 2c2476c87a319b386df6d5031c776efaecec3bda
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943295"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005051"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Microsoft 製品の試用版を顧客に提供する
 
-適用対象:
+**適用対象**
 
 - パートナー センター
+
+**適切なロール**
+-   グローバル管理 
+-   ユーザー管理者
+-   販売代理店
 
 新しい Microsoft 製品を顧客に紹介する効果的な方法として、30 日間の無料試用版を提供できます。 他の多くのオンライン サービスと同様、カタログ内の試用版にサインアップします。 すべてのパートナーが参加できます。
 

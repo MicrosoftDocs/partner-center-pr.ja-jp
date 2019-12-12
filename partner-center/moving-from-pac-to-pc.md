@@ -9,18 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, Office 365 管理, PAC 機能
 ms.localizationpriority: medium
-ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943565"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004231"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>パートナー管理センター (PAC) からパートナー センターへの移行
 
-適用対象:
+**適用対象**
 - パートナー センター
 - パートナー管理センター
+
+**適切なロール**
+-   グローバル管理
 
 パートナー センターは、1 か所で Microsoft および顧客とのパートナーシップを管理できるように進化しています。 パートナー センターでは、メンバーシップ、顧客紹介、インセンティブなど、クラウド ソリューション プロバイダー (CSP) プログラムのすべての情報を管理できます。PAC で行っていた作業のほとんどはパートナー センターで実行できるようになりますが、一部の機能や操作は動作が異なります。 
 

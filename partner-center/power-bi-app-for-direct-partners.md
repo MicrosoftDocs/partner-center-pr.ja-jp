@@ -10,18 +10,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 67df5278d9c9f9f757e904d55ae6a688bbb8c5bc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: eba413fd3955db8dedc5ffe57747739368adcaa6
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943475"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004961"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け)
 
 **適用対象**
 
 - パートナー センター
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   販売代理店
+-   管理エージェント
 
 Power BI 用パートナー センター分析アプリでは、ビジネス データの視覚表現を作成できます。 このアプリは、クラウド ソリューション プロバイダー プログラム (CSP) の直接パートナー向けに設計されており、使い慣れた Power BI フレームワークにプラグインとして組み込むことができます。 
 

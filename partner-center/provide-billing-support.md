@@ -9,12 +9,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2df2429b37f9260de5f8e1b16a143555bc473760
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 25cf1868ddd941ea78bd4f38d399a90e7dc621c1
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654142"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004931"
 ---
 # <a name="provide-billing-support"></a>請求に関するサポートの提供
 
@@ -23,6 +23,12 @@ ms.locfileid: "73654142"
 -  パートナー センター
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   ヘルプデスク エージェント
+-   課金の管理
+-   販売代理店
 
 貴社は、お客様との課金関係を維持し、お客様からの課金関連の質問をサポートするものとします。
 

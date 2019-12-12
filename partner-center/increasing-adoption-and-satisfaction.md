@@ -9,18 +9,24 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3acd6e259487946a7a1005ec9fd2c5d74160bc99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253698"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004781"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>導入実績と満足度の向上
+# <a name="increase-adoption-and-satisfaction"></a>導入実績を高めて満足度を向上させる
 
 **適用対象**
 
 -  パートナー センター
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   管理エージェント
+-   販売代理店
 
 弊社のパートナーは、多くの指標を使用してビジネスが拡大しているかどうか、重点的に投資する分野はどこであるかを測ります。 パートナー センターは、顧客が購入したライセンスの使用の有無や活用方法に関するデータを提供することでそれをサポートします。 この情報は Office 製品 (SharePoint に含まれる OneDrive for Business を含む) について提供されます。
 
@@ -61,7 +67,7 @@ ms.locfileid: "74253698"
 
     -   一部の顧客がライセンスで付与されている権利の数を大幅に超える Yammer を使用している場合。データが大幅に歪められることがあります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 
 多くのヘルプと操作方法についてフィールディング、アカウントの導入数が少ない場合、またはアップセルの機会を探している場合は、トレーニングコースの提供を検討することをお勧めします。 顧客が購入したクラウドソリューションソフトウェアをより適切に使用する方法を説明することで、生産性と満足度が向上し、サポートニーズが減少します。

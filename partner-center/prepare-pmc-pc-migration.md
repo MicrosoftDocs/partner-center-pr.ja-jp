@@ -8,14 +8,20 @@ description: ビジネスを PMC からパートナーセンターに移行す�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8d0e540282b3e683233c188f9258683809af510e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943265"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004861"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>パートナーメンバーシップセンター (PMC) からパートナーセンターへの移行の準備
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   販売代理店
+-   管理エージェント
 
 パートナーメンバーシップセンター (PMC) からパートナーセンターにメンバーシップ管理を移行しています。これは、Microsoft との取引関係を管理するための単一の移行先です。 パートナーセンターへの移行は、可能な限り効率的で簡単です。 パートナーセンターが PMC と異なる領域をいくつか特定しましたが、移動する前に理解して準備する必要があると考えています。
 

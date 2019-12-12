@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b62a685dcbce5a462b182ad3015e19ae03bb6ce2
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 57466396cd9c810ab851b01fc08c2f66d4d2b278
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384775"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004851"
 ---
 # <a name="marketplace-exclusive-offers"></a>Marketplace 限定プラン
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   管理エージェント
+-   販売代理店
 
 Isv は、選択された数の CSP パートナーがプランを利用できるようにするオプションを備えています。 すべての CSP パートナーは、パートナーセンターマーケットプレース内のすべての ISV プランを表示できますが、[排他] とマークされたプランは、ISV が選択したパートナーによってのみ購入できます。 プランが "排他的" と示されていない場合は、すべてのパートナーが購入できます。
 

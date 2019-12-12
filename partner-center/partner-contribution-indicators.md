@@ -11,14 +11,19 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943125"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004361"
 ---
 # <a name="partner-contribution-indicators"></a>パートナー貢献度インジケーター
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   管理エージェント
 
 パートナー貢献指標 (PCI) は、Dynamics 365 の顧客の成功を導くためのパートナーの影響を包括的に測定します。 パートナーは、クラウド Business Applications コンピテンシーを獲得して維持する際に、市場においてより大きな差別化を受けられます。  パートナーは、デプロイの成功や使用量の増加など、顧客の成功の主要な指標に対するクレジットを受け取り、その技術的な機能に投資してスケールアウトすることができます。 
 

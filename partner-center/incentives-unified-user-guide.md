@@ -9,14 +9,22 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: インセンティブ、支払い
 ms.localizationpriority: medium
-ms.openlocfilehash: 246c3eaa95fe88cdd42c1eb85548065d29828bfc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 08586ad004e351de2d7880bf83a73e12e5d24821
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253706"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004791"
 ---
 # <a name="access-your-incentives-payouts-page"></a>インセンティブ支払いページにアクセスする
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   インセンティブ管理者
+-   インセンティブ ユーザー
+-   販売代理店
+-   MPN パートナー管理者
 
 適用される支払いに関するヘルプ情報は、どのパートナープログラムを使用しているかによって異なります。 適切なページを表示するには、次の対応するリンクを選択します。
 
@@ -24,4 +32,4 @@ ms.locfileid: "74253706"
 
 - Microsoft Partner Network (MPN) インセンティブ支払いについては、MPN インセンティブのドキュメントで「[インセンティブ支払い情報の表示](understand-incentive-payouts.md)」を参照してください。
 
-- 独立系ソフトウェアベンダー (Isv) に対する商用 Marketplace の支払いに関する情報は、近日中に追加される予定です。
+- 独立系ソフトウェアベンダー (Isv) 向けの商用マーケットプレース支払いの詳細については、「[商用マーケットプレース](https://docs.microsoft.com/azure/marketplace/partner-center-portal/payout-summary)支払いの概要」を参照してください。

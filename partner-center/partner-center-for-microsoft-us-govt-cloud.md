@@ -8,18 +8,25 @@ description: 米国政府機関向け Microsoft Cloud のパートナー セン�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1309f14555ff30a91a42d26bc1781315a7bba536
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9e290242a0a97abdbdca1e222c12cd0072d05073
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652690"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004251"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適用対象**
 
 -  米国政府機関向け Microsoft Cloud のパートナー センター
+
+**適切なロール**
+-   グローバル管理
+-   ユーザー管理者
+-   管理エージェント
+-   販売代理店
+-   課金の管理
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>米国政府機関向け Microsoft Cloud: データ保護の要件を満たす 
 
