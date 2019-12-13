@@ -21,6 +21,7 @@
 ## 利点
 ### [利点の概要](manage-your-partner-network-benefits.md)
 ### [市場進出の利点](mpn-learn-about-go-to-market-benefits.md)
+## [マーケットプレースの Rewards を管理する](marketplace-rewards.md)
 ## [ソフトウェア アシュアランス プログラム](software-assurance-lp.md)
 ### [パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム](software-assurance-satv.md)
 ### [パートナー センターで受講券の確認および受け取りツールを使用して、受講券の確認、予約、引き換えを行う](voucher-validation-tool.md)
@@ -61,6 +62,7 @@
 ## [中断されたパートナー センター アカウントの復元](suspended-partner-center-account.md)
 ## [ユーザー アカウントの作成](create-user-accounts-and-set-permissions.md)
 ## [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
+## [Azure AD アプリケーションの追加](service-principal.md)
 ## [Microsoft Learn アカウントとパートナー センターを関連付ける](ms-learn-associate.md)
 ## [ドメインの所有者の確認](become-global-admin.md)
 ## [ユーザー パスワードのリセット](reset-a-user-password.md)
