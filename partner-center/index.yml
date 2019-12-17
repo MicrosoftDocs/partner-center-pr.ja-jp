@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 11/20/2019
-  ms.openlocfilehash: 6b543cf8fcc25122b0c2ec48a3bd60202772f29a
-  ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+  ms.date: 12/09/2019
+  ms.openlocfilehash: fcd60389ddc743b63d49dba58d8d18a4842760f7
+  ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 11/20/2019
-  ms.locfileid: "74253687"
+  ms.lasthandoff: 12/16/2019
+  ms.locfileid: "75033518"
 highlightedContent:
   items:
   - title: サインインして最新のお知らせを表示する
@@ -127,8 +127,34 @@ conceptualContent:
       text: さらに詳しく
 additionalContent:
   sections:
+  - title: Azure ポータルでの作業
+    items:
+    - title: 課金とコスト管理
+      links:
+      - text: Microsoft Partner Agreement の課金アカウントを使ってみる
+        url: https://docs.microsoft.com/azure/billing/mpa-overview
+      - text: Azure Cost Management を使ってみる
+        url: https://docs.microsoft.com/azure/cost-management/get-started-partners
+      - text: 追加の Azure サブスクリプションを作成する
+        url: https://docs.microsoft.com/azure/billing/billing-create-subscription
+      - text: プログラムによる Azure サブスクリプションの作成
+        url: https://docs.microsoft.com/azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
+      - text: もっと見る >
+        url: https://docs.microsoft.com/azure/billing/
+    - title: Azure Lighthouse
+      links:
+      - text: クロステナント管理エクスペリエンスを有効にする
+        url: https://docs.microsoft.com/azure/lighthouse/concepts/cross-tenant-management-experience
+      - text: CSP の考慮事項
+        url: https://docs.microsoft.com/en-us/azure/lighthouse/concepts/cloud-solution-provider
+      - text: Azure 委任リソース管理のためのお客様のオンボード
+        url: https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer
+      - text: マネージド サービスのオファーを公開する
+        url: https://docs.microsoft.com/azure/lighthouse/how-to/publish-managed-services-offers
+      - text: もっと見る >
+        url: https://docs.microsoft.com/azure/lighthouse/
   - title: 主要なタスクとツール
-  - items:
+    items:
     - title: Microsoft Action Pack (MAPS) を取得する
       summary: Microsoft Action Pack サブスクリプションを含む特典オファーを購入または更新します。
       url: mpn-get-action-pack.md

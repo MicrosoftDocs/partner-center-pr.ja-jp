@@ -1,101 +1,91 @@
 ---
-title: パートナー貢献度インジケーター | パートナー センター
+title: パートナーセンターの洞察 |パートナーセンター
 ms.topic: article
-ms.date: 11/14/2019
+ms.date: 12/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dynamics 365 カスタマーエンゲージメントまたは Dynamics 365 Finance and Operations に関して、お客様が適切に何をしているか、さらに改善できる場所を正確にご確認ください
+description: お客様が何をしているか、そしてお客様の売上とデプロイに関して改善できる場所を正確に確認できます
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: PCI, パフォーマンス, 顧客の成功, 測定, Dynamics 365
+keywords: PCI、パフォーマンス、お客様の成功、測定、
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: cec1fd9121f82392b4bd2bbbbf5ffb946547f83d
+ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004361"
+ms.lasthandoff: 12/16/2019
+ms.locfileid: "75033498"
 ---
-# <a name="partner-contribution-indicators"></a><span data-ttu-id="f01f2-104">パートナー貢献度インジケーター</span><span class="sxs-lookup"><span data-stu-id="f01f2-104">Partner contribution indicators</span></span>
+# <a name="partner-center-insights"></a><span data-ttu-id="5bb26-104">パートナーセンターの洞察</span><span class="sxs-lookup"><span data-stu-id="5bb26-104">Partner Center Insights</span></span>
 
-<span data-ttu-id="f01f2-105">**適切なロール**</span><span class="sxs-lookup"><span data-stu-id="f01f2-105">**Appropriate roles**</span></span>
--   <span data-ttu-id="f01f2-106">グローバル管理</span><span class="sxs-lookup"><span data-stu-id="f01f2-106">Global admin</span></span>
--   <span data-ttu-id="f01f2-107">ユーザー管理者</span><span class="sxs-lookup"><span data-stu-id="f01f2-107">User admin</span></span>
--   <span data-ttu-id="f01f2-108">管理エージェント</span><span class="sxs-lookup"><span data-stu-id="f01f2-108">Admin agent</span></span>
+<span data-ttu-id="5bb26-105">**適切なロール**</span><span class="sxs-lookup"><span data-stu-id="5bb26-105">**Appropriate roles**</span></span>
+- <span data-ttu-id="5bb26-106">グローバル管理</span><span class="sxs-lookup"><span data-stu-id="5bb26-106">Global admin</span></span>
+- <span data-ttu-id="5bb26-107">アカウント管理者</span><span class="sxs-lookup"><span data-stu-id="5bb26-107">Account admin</span></span>
+- <span data-ttu-id="5bb26-108">エグゼクティブレポートビューアー</span><span class="sxs-lookup"><span data-stu-id="5bb26-108">Executive report viewer</span></span>
+- <span data-ttu-id="5bb26-109">レポートビューアー</span><span class="sxs-lookup"><span data-stu-id="5bb26-109">Report viewer</span></span>
 
-<span data-ttu-id="f01f2-109">パートナー貢献指標 (PCI) は、Dynamics 365 の顧客の成功を導くためのパートナーの影響を包括的に測定します。</span><span class="sxs-lookup"><span data-stu-id="f01f2-109">Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes for Dynamics 365.</span></span> <span data-ttu-id="f01f2-110">パートナーは、クラウド Business Applications コンピテンシーを獲得して維持する際に、市場においてより大きな差別化を受けられます。</span><span class="sxs-lookup"><span data-stu-id="f01f2-110">Partners receive greater differentiation in the market when they attain and maintain the Cloud Business Applications competency.</span></span>  <span data-ttu-id="f01f2-111">パートナーは、デプロイの成功や使用量の増加など、顧客の成功の主要な指標に対するクレジットを受け取り、その技術的な機能に投資してスケールアウトすることができます。</span><span class="sxs-lookup"><span data-stu-id="f01f2-111">Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities.</span></span> 
+<span data-ttu-id="5bb26-110">Insights は、Microsoft Partner Network (MPN) プログラムに登録されている Microsoft のコマーシャルパートナー向けのパートナーセンターの統合されたレポートダッシュボードです。</span><span class="sxs-lookup"><span data-stu-id="5bb26-110">Insights is a unified reporting dashboard in Partner center for Microsoft’s Commercial partners who are enrolled in the Microsoft Partner Network (MPN) program.</span></span> <span data-ttu-id="5bb26-111">Insights ダッシュボードでは、Office、Azure、Dynamics、CSP や EA などのライセンスモデルなど、クラウド製品全体にわたって、主要業績評価指標 (kpi) の360度のビューが提供されます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-111">The Insights dashboard provides 360 degree view of your key performance indicators (kpi) across Cloud products such as Office, Azure, Dynamics, and licensing models such as CSP and EA.</span></span> <span data-ttu-id="5bb26-112">組織のデータに基づく意思決定に役立つ、豊富な KPI レポートのセットが公開されています。</span><span class="sxs-lookup"><span data-stu-id="5bb26-112">It exposes a rich set of KPI reports that can help you make data driven decisions for your organization.</span></span> 
 
-## <a name="scoring"></a><span data-ttu-id="f01f2-112">スコア付け</span><span class="sxs-lookup"><span data-stu-id="f01f2-112">Scoring</span></span>
+## <a name="roles-based-access-control-to-the-insights-dashboard"></a><span data-ttu-id="5bb26-113">Insights ダッシュボードへのロールベースのアクセス制御</span><span class="sxs-lookup"><span data-stu-id="5bb26-113">Roles based access control to the Insights dashboard</span></span>
 
-<span data-ttu-id="f01f2-113">PCI は、会社の技術的な機能の高度で包括的なビューを提供し、顧客の成功と販売実績を促進します。</span><span class="sxs-lookup"><span data-stu-id="f01f2-113">PCI provides a sophisticated, holistic view of your company’s technical capabilities, ability to drive customer success, and sales performance.</span></span> <span data-ttu-id="f01f2-114">PCI は、7つの主要指標にわたって、会社の前年のパフォーマンスを測定します。</span><span class="sxs-lookup"><span data-stu-id="f01f2-114">PCI measures your company’s prior-year performance across seven key indicators:</span></span>
+<span data-ttu-id="5bb26-114">パートナーセンターには、洞察に特化したレポートビューアーとエグゼクティブレポートビューアーの2つの新しいロールが用意されています。</span><span class="sxs-lookup"><span data-stu-id="5bb26-114">There are two new roles in Partner center designed specifically for access to Insights - Report Viewer and Executive Report Viewer.</span></span>  <span data-ttu-id="5bb26-115">Executive レポートビューアーロールのユーザーは、すべてのレポートデータセットにアクセスできますが、レポートビューアーロールのユーザーは、収益や顧客/従業員の個人データなどの機密データセットにアクセスすることはできません。</span><span class="sxs-lookup"><span data-stu-id="5bb26-115">Users in the Executive Report Viewer role have access to all reporting datasets, while users in the Report Viewer role will not have access to sensitive data sets such as revenue and customer/employee personal data.</span></span> 
 
-1. <span data-ttu-id="f01f2-115">**純利益**: Microsoft Dynamics 365 製品のすべての販売チャネルにおける新しい収益。</span><span class="sxs-lookup"><span data-stu-id="f01f2-115">**Net new revenue** — Net new revenue across all sales channels for Microsoft Dynamics 365 products.</span></span>
-2. <span data-ttu-id="f01f2-116">**Net customer**は、すべての販売チャネルで Dynamics 365 を獲得した net 顧客を追加します。</span><span class="sxs-lookup"><span data-stu-id="f01f2-116">**Net customer adds** — Net customers acquired for Dynamics 365 across all sales channels.</span></span>
-3. <span data-ttu-id="f01f2-117">**機能コンサルタント**: 現在アクティブな機能コンサルタントを持つユーザーの数によって、Dynamics 365 の認定が関連付けられます。</span><span class="sxs-lookup"><span data-stu-id="f01f2-117">**Functional consultants** — Number of individuals holding a currently active Functional Consultant Associate certification for Dynamics 365.</span></span>
-4. <span data-ttu-id="f01f2-118">**機能コンサルタントの成長**: 2020 年3月31日以降、機能コンサルタントの数が増加します。</span><span class="sxs-lookup"><span data-stu-id="f01f2-118">**Functional consultant growth** — Growth in the number of Functional Consultant Associates since March 31, 2020.</span></span>
-5. <span data-ttu-id="f01f2-119">**開発者**—現在アクティブな開発者を持つユーザーの数は、Dynamics 365 の認定を関連付けます。</span><span class="sxs-lookup"><span data-stu-id="f01f2-119">**Developers** — Number of individuals holding a currently active Developer Associate certification for Dynamics 365.</span></span>
-6. <span data-ttu-id="f01f2-120">**新しい大規模なデプロイ**—過去12か月間にわたって高使用率のしきい値を超える運用テナントの数。</span><span class="sxs-lookup"><span data-stu-id="f01f2-120">**New large deployments** — Number of production tenants that cross the high-usage threshold over the past 12 months.</span></span>
-7. <span data-ttu-id="f01f2-121">**月ごとのアクティブなユーザーの成長**-過去12か月間のすべての顧客にわたる月ごとのアクティブなユーザーの成長。</span><span class="sxs-lookup"><span data-stu-id="f01f2-121">**Monthly active user growth** — Growth in monthly active users across all your customers over the past 12 months.</span></span>
+<span data-ttu-id="5bb26-116">全体管理者またはアカウント管理者は、ユーザーにこれらのロールを割り当てることができ、会社全体または特定の MPN の場所に割り当てられます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-116">The Global admin or the Account admin can assign users these roles and are assigned either for the entire company or for a specific MPN location.</span></span>  
 
-<span data-ttu-id="f01f2-122">各獲得インジケーターにポイントが与えられ、その結果、単一番号の PCI スコアになります。</span><span class="sxs-lookup"><span data-stu-id="f01f2-122">Points are granted for each achieved indicator, resulting in a single-number PCI score.</span></span> <span data-ttu-id="f01f2-123">100最大ポイントが可能です。</span><span class="sxs-lookup"><span data-stu-id="f01f2-123">100 maximum points are possible.</span></span> <span data-ttu-id="f01f2-124">PCI スコアによってコンピテンシーの適格性が決まります。</span><span class="sxs-lookup"><span data-stu-id="f01f2-124">PCI score determines competency eligibility:</span></span>
+>[!Note] 
+><span data-ttu-id="5bb26-117">2019年12月 2 MPN の時点で管理者であるユーザーは、会社全体のレポートビューアーの役割に自動的に追加されました。</span><span class="sxs-lookup"><span data-stu-id="5bb26-117">Users who were MPN admins as of Dec 2, 2019 were automatically added to the company-wide report viewer role.</span></span> <span data-ttu-id="5bb26-118">これらのユーザーは、グローバル管理者またはアカウント管理者による明示的な操作を必要とせずに、レポートビューアーとしてレポートにアクセスできます。グローバル管理者またはアカウント管理者は、必要に応じてこれらの割り当てを上書きできます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-118">They are able to access the reports as a report viewer without any explicit action required by Global admin or Account admin. The Global admins or account admin can override these assignments if necessary.</span></span> 
 
-![PCI スコア](images/pcinew1.png)
+## <a name="reports-available"></a><span data-ttu-id="5bb26-119">使用可能なレポート</span><span class="sxs-lookup"><span data-stu-id="5bb26-119">Reports available</span></span>
 
-<span data-ttu-id="f01f2-126">各インジケーターには、合計に加算されたスコアが表示されます。</span><span class="sxs-lookup"><span data-stu-id="f01f2-126">Each indicator brings a score that is added to the total.</span></span> <span data-ttu-id="f01f2-127">各インジケーターの最大スコアは次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="f01f2-127">Here are the maximum scores for each indicator:</span></span>
+<span data-ttu-id="5bb26-120">次のレポートは、Insights ダッシュボードの一部として利用できます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-120">The following reports are available as part of the Insights dashboard.</span></span>
 
+<span data-ttu-id="5bb26-121">**概要**   概要レポートには、顧客数、アクティブなサブスクリプション数、Azure の消費収益、アクティブなライセンスなど、関心のあるさまざまな Kpi のスナップショットビューが表示されます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-121">**Overview**    Overview report presents a snapshot view of various KPIs of interest to you such as Customer count, Active Subscriptions count, Azure Consumption Revenue, Active licenses etc.</span></span>
 
-![pci パフォーマンス2](images/pci1.png)
+<span data-ttu-id="5bb26-122">**顧客**顧客レポートでは、顧客の取得データ、アクティブな顧客など、顧客に関する分析が示されます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-122">**Customer** Customer report presents analytics around your customers such as Customer acquisition data, Active customers etc.</span></span> 
 
-### <a name="thresholds"></a><span data-ttu-id="f01f2-129">しきい値</span><span class="sxs-lookup"><span data-stu-id="f01f2-129">Thresholds</span></span>
+<span data-ttu-id="5bb26-123">**製品-サブスクリプション**    サブスクリプションレポートには、クラウドサブスクリプション (O365、Azure、Dynamics など) の取得と使用状況の分析が表示されます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-123">**Product - Subscriptions**     Subscriptions report presents acquisition and usage analytics for your Cloud subscriptions (e.g. O365, Azure, Dynamics etc.)</span></span> 
 
-<span data-ttu-id="f01f2-130">各 PCI メトリックには、パートナー企業が最大ポイントを獲得できるしきい値が Microsoft によって設定されてます。</span><span class="sxs-lookup"><span data-stu-id="f01f2-130">Each PCI metric has Microsoft-set thresholds that can earn your company maximum points.</span></span> <span data-ttu-id="f01f2-131">これらのしきい値は、Customer Engagement と Finance & Operations では異なります。</span><span class="sxs-lookup"><span data-stu-id="f01f2-131">These thresholds differ for Customer Engagement and Finance & Operations.</span></span> <span data-ttu-id="f01f2-132">しきい値は、パートナーが先進市場で活動しているか、または新興市場のみで活動するパートナーかによっても異なります。</span><span class="sxs-lookup"><span data-stu-id="f01f2-132">The thresholds also differ for partners operating in developed markets vs those that operate exclusively in emerging markets.</span></span> <span data-ttu-id="f01f2-133">パートナーに先進市場の顧客が 1 つでもある場合は、先進市場のしきい値が適用されます。</span><span class="sxs-lookup"><span data-stu-id="f01f2-133">If a partner has one or more customers in a developed market, the developed market thresholds apply.</span></span> <span data-ttu-id="f01f2-134">国の開発または新興市場の分類は、Microsoft Partner Network の[定義](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf)に基づいています。</span><span class="sxs-lookup"><span data-stu-id="f01f2-134">The developed or emerging market categorization of a country is based on the [Microsoft Partner Network definitions](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).</span></span>
+<span data-ttu-id="5bb26-124">**製品-ライセンス**  ライセンスダッシュボードには、O365、Dynamics、Power BI などのライセンスベースのクラウド製品のライセンス分析が表示されます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-124">**Product- Licenses**   Licenses dashboard presents license analytics for license-based Cloud products such as O365, Dynamics, Power BI etc.</span></span>
 
-<span data-ttu-id="f01f2-135">各メトリックのポイントは、1か月に1回更新される顧客エンゲージメントおよび Finance & 操作に対して個別の PCI スコアを生成するために計算されます。</span><span class="sxs-lookup"><span data-stu-id="f01f2-135">Points across each metric are tallied to yield a distinct PCI score for Customer Engagement and Finance & Operations which will be updated monthly.</span></span>
+<span data-ttu-id="5bb26-125">**製品-Azure の使用状況**  Azure の使用状況レポートには、顧客の Azure サブスクリプションに関連するメトリックが表示されます。これには、Azure の従量課金やメーターカテゴリ別の使用量が含まれます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-125">**Product - Azure usage**   Azure Usage report presents metrics related to your customers’ Azure subscriptions including Azure consumption revenue and usage by meter categories.</span></span>
 
-<span data-ttu-id="f01f2-136">パートナーは、次に示すしきい値を満たしているか超過している場合、特定のメトリックの最大ポイントを獲得できます。</span><span class="sxs-lookup"><span data-stu-id="f01f2-136">Partners can earn the maximum points for a given metric if they meet or exceed the thresholds indicated below.</span></span> <span data-ttu-id="f01f2-137">機能コンサルタント増加率 (Functional consultant growth) を除くすべてのメトリックに対して、部分的なポイントを獲得できます。たとえば、新規純利益 (Net New Revenue) が $150,000 である先進市場のパートナーは、最大 10 ポイントの半分 ($150,000/$300,000) を獲得します。</span><span class="sxs-lookup"><span data-stu-id="f01f2-137">Partial points can be earned for all metrics except for Functional consultant growth, for example, a developed market partner with $150,000 in Net New Revenue will earn half ($150,000/$300,000) of the maximum 10 pts.</span></span>
+<span data-ttu-id="5bb26-126">**コンピテンシー**   コンピテンシーレポートには、アクティブ、修飾、およびリスクのあるコンピテンシーのメトリックが表示されます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-126">**Competencies**    Competencies report presents metrics on your Active, Qualified and At-risk competencies.</span></span>
 
-![顧客エンゲージメント](images/pci/table_1.png)
+<span data-ttu-id="5bb26-127">**利点**   特典レポートには、獲得したパートナー特典と使用したパートナー特典の分析が表示されます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-127">**Benefits**    Benefits reports presents analytics on partner benefits you have earned vs consumed.</span></span>
 
-![ファイナンス](images/pci/TABLE_2.png)
-
-![コンサルタント](images/pci/table_3.png)
-
-## <a name="detailed-definitions-of-pci-metrics"></a><span data-ttu-id="f01f2-141">PCI メトリックの詳細な定義</span><span class="sxs-lookup"><span data-stu-id="f01f2-141">Detailed definitions of PCI metrics</span></span>
-
-![純売上高](images/net_new1.png)
-
-![net customer の追加](images/netcustomer.png)
-
-![機能コンサルタント](images/pci/functional_consultants.png)
-
-![成長](images/pci/functional_consultant_growth.png)
-
-![開発者向け](images/pci/developers.png)
-
-![新しいデプロイ](images/pci/new_large_deployments.png)
-
-![アクティブなユーザー](images/pci/monthly_active_user_growth.png)
+## <a name="navigating-the-insights-reports"></a><span data-ttu-id="5bb26-128">Insights レポート内の移動</span><span class="sxs-lookup"><span data-stu-id="5bb26-128">Navigating the Insights reports</span></span> 
 
 
-## <a name="customer-to-partner-association"></a><span data-ttu-id="f01f2-149">顧客とパートナーの関連付け</span><span class="sxs-lookup"><span data-stu-id="f01f2-149">Customer-to-partner association</span></span>
+<span data-ttu-id="5bb26-129">**日付範囲フィルター**: 各ページの右上隅にある日付範囲の選択を見つけることができます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-129">**Date range filters**: You can find a date range selection at the top-right corner of each page.</span></span> <span data-ttu-id="5bb26-130">[概要] ページのグラフの出力をカスタマイズするには、過去3、6、または12か月に基づいて日付範囲を選択するか、カスタムの日付範囲を選択します。</span><span class="sxs-lookup"><span data-stu-id="5bb26-130">The output of the overview page graphs can be customized by selecting a date range based on the past 3, 6, or 12 months, or by selecting a custom date range.</span></span> <span data-ttu-id="5bb26-131">既定の日付範囲の選択は12か月です。</span><span class="sxs-lookup"><span data-stu-id="5bb26-131">The default date range selection is 12 months.</span></span> 
 
-<span data-ttu-id="f01f2-150">クラウドソリューションプロバイダー (CSP) の場合にのみ、メトリック定義の境界内で、純利益、純顧客の追加、新しい大規模なデプロイ、および特定の顧客に対する毎月のアクティブユーザーの成長に対応するクレジットを受け取ります。または、お客様のテナントに属する有料サブスクリプションの場合は、デジタルパートナーのレコード (または)。</span><span class="sxs-lookup"><span data-stu-id="f01f2-150">You receive credit for Net new revenue, Net customer adds, New large deployments, and Monthly active user growth for a given customer, within the bounds of the metric definition, only if you are the Cloud Solution Provider (CSP), the Claiming Partner of Record (CPOR), or Digital Partner of Record (DPOR) for a paid subscription belonging to the customer's tenant.</span></span>
 
-<span data-ttu-id="f01f2-151">パートナーは、Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) インセンティブまたは Dynamics 365 [online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (osu) インセンティブを通じて、サブスクリプションレベルで顧客との関連付けが確立されている場合には、cpor なります。</span><span class="sxs-lookup"><span data-stu-id="f01f2-151">A partner becomes the CPOR if they have established association with a customer at the subscription level via the Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) incentive or Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (OSU) incentive.</span></span>
+<span data-ttu-id="5bb26-132">**フィードバックボタン**: すべてのインサイトレポートの各グラフ/コントロールには、レポート機能に関するインスタンスフィードバックを提供するためのフィードバックボタンが組み込まれています。</span><span class="sxs-lookup"><span data-stu-id="5bb26-132">**Feedback button**: Each chart/control in all the Insights reports is incorporated with a feedback button to let you provide instance feedback on a report feature.</span></span> 
 
-<span data-ttu-id="f01f2-152">パートナーは、製品内のサブスクリプション レベルで顧客との関連付けが確立されている場合、DPOR になります。</span><span class="sxs-lookup"><span data-stu-id="f01f2-152">A partner becomes the DPOR if they have established association with a customer at the subscription level within the product.</span></span>
+ 
+<span data-ttu-id="5bb26-133">**ページレベルフィルター**: 概要、利点、コンピテンシーレポートを除き、すべての分析情報レポートでページレベルのフィルターを適用できます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-133">**Page level filters**: Except for the Overview, Benefits, and Competencies reports, all Insights reports enable you to apply page level filters.</span></span> 
 
-<span data-ttu-id="f01f2-153">特定のサブスクリプションに対して CPOR と DPOR の両方が存在する場合は、CPOR がサブスクリプションに関連付けられている PCI メトリックのすべてのクレジットを受け取ります。</span><span class="sxs-lookup"><span data-stu-id="f01f2-153">When both CPOR and DPOR exist for a given subscription, the CPOR receives all credit for PCI metrics associated with the subscription.</span></span>
+- <span data-ttu-id="5bb26-134">選択したフィルターは、[概要] セクションを含む、ページ上のすべてのグラフとメトリックに適用されます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-134">The filters selected will be applicable for all charts and metrics on a page, including the summary section.</span></span> <span data-ttu-id="5bb26-135">フィルター項目は、そのフィルター条件内にデータがある場合に使用できます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-135">A filter item will be available if you have any data within that filter criteria.</span></span> 
 
-## <a name="how-to-read-the-charts"></a><span data-ttu-id="f01f2-154">グラフを読む方法</span><span class="sxs-lookup"><span data-stu-id="f01f2-154">How to read the charts</span></span>
+- <span data-ttu-id="5bb26-136">各フィルター一覧の既定の選択は**all**です。</span><span class="sxs-lookup"><span data-stu-id="5bb26-136">Default selection of each filter list is **all**.</span></span> <span data-ttu-id="5bb26-137">たとえば、製品フィルターで特定の製品を選択していない場合、既定の選択は [すべての製品] になります。</span><span class="sxs-lookup"><span data-stu-id="5bb26-137">For example, if you have not selected a specific product in products filter, default selection will be all products.</span></span>
 
-![グラフを読む方法](images/pci2.png)
+- <span data-ttu-id="5bb26-138">選択したフィルターは、ページの上部に表示されます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-138">Filters selected will be displayed at the top of the page.</span></span> 
 
-## <a name="additional-resources"></a><span data-ttu-id="f01f2-156">その他の資料</span><span class="sxs-lookup"><span data-stu-id="f01f2-156">Additional resources</span></span>
+ ### <a name="filters-definition"></a><span data-ttu-id="5bb26-139">フィルターの定義:</span><span class="sxs-lookup"><span data-stu-id="5bb26-139">Filters definition:</span></span>
 
-<span data-ttu-id="f01f2-157">[パートナー貢献指標のリソースコレクション](https://partner.microsoft.com/asset/collection/pci-learn#/)にアクセスして、詳細なトレーニングビデオ、プレゼンテーション、faq、およびファクトシートを見つけることができます。</span><span class="sxs-lookup"><span data-stu-id="f01f2-157">Please visit [Partner Contribution Indicators resource collection](https://partner.microsoft.com/asset/collection/pci-learn#/) where you can find detailed training videos, presentations, FAQs, and fact sheets.</span></span> 
+- <span data-ttu-id="5bb26-140">Products: 組織で販売または管理されているすべての Microsoft Cloud 製品 (O365、Azure、D365、EMS、PowerBI など) の一覧。</span><span class="sxs-lookup"><span data-stu-id="5bb26-140">Products: List of all Microsoft Cloud products sold/managed by your organization, for example,  O365, Azure, D365, EMS, PowerBI etc.</span></span>
+- <span data-ttu-id="5bb26-141">顧客市場: 顧客の国の一覧</span><span class="sxs-lookup"><span data-stu-id="5bb26-141">Customer markets: List of customer countries</span></span>
+- <span data-ttu-id="5bb26-142">Partner 帰属: 顧客サブスクリプションとの関連付けの種類。たとえば、デジタルパートナーのレコード (購入者または)、委任された管理者特権 (DAP)、パートナー管理リンク (PAL) などがあります。</span><span class="sxs-lookup"><span data-stu-id="5bb26-142">Partner attributions: Your association type with your customers subscriptions, for example,  Digital partner of record (DPOR), Delegated admin privilege (DAP), Partner Admin link (PAL) etc.</span></span> 
+- <span data-ttu-id="5bb26-143">パートナーの場所: 組織のすべての MPN の場所の一覧。</span><span class="sxs-lookup"><span data-stu-id="5bb26-143">Partner locations: List of all your organization’s MPN locations.</span></span> 
+- <span data-ttu-id="5bb26-144">販売チャネル: 製品とサービスの購入/プロビジョニングを行うすべての販売チャネル/価格。 CSP、EA、CSP 間接、直接、アドバイザー、オープン、その他</span><span class="sxs-lookup"><span data-stu-id="5bb26-144">Sales channels: All sales channel/pricing through which you are purchasing/provisioning products and services namely CSP, EA, CSP indirect, Direct, Advisor, Open, others</span></span>
+- <span data-ttu-id="5bb26-145">顧客セグメント: パートナーの顧客ベース全体にわたる顧客セグメントの一覧。</span><span class="sxs-lookup"><span data-stu-id="5bb26-145">Customer segments: List of customer segments across the partners customer base.</span></span>
+
+
+
+## <a name="additional-resources"></a><span data-ttu-id="5bb26-146">その他の資料</span><span class="sxs-lookup"><span data-stu-id="5bb26-146">Additional resources</span></span>
+
+<span data-ttu-id="5bb26-147">[パートナー貢献指標のリソースコレクション](https://partner.microsoft.com/asset/collection/pci-learn#/)にアクセスして、詳細なトレーニングビデオ、プレゼンテーション、faq、およびファクトシートを見つけることができます。</span><span class="sxs-lookup"><span data-stu-id="5bb26-147">Please visit [Partner Contribution Indicators resource collection](https://partner.microsoft.com/asset/collection/pci-learn#/) where you can find detailed training videos, presentations, FAQs, and fact sheets.</span></span> 
 
 
 
