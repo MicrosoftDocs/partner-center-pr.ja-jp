@@ -10,18 +10,23 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617bf213d73b8707479b35e5a900c4293b0f8c35
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943095"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005021"
 ---
 # <a name="manage-your-partner-center-account"></a>パートナー センター アカウントの管理
 
 **適用対象**
 
 -  パートナー センター
+
+**適切なロール**
+-   全体管理者
+-   ユーザー管理者
+-   管理エージェント
 
 登録時にパートナー センターで作成するアカウントは、仕事用のメールとビジネス情報です。 パートナー センターでアカウントを作成した後、ユーザーまたは管理者は、サポートの詳細、税金の控除の申告 (該当する場合)、第一連絡先情報など、貴社のプロファイルの設定を完了する必要があります。 
 

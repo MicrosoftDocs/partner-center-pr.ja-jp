@@ -9,15 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ロール, アクセス許可, 管理者, エージェント
 ms.localizationpriority: high
-ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943135"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004131"
 ---
 # <a name="assign-users-roles-and-permissions"></a>ユーザー ロールとアクセス許可の割り当て
 
+**適切なロール**
+-   全体管理者
+-   ユーザー管理者
+-   MPN パートナー管理者
 
 貴社の正式名称や法的住所、サポートの詳細、税金の除外の申告、銀行情報、主要な連絡先など、パートナー プロファイルを設定しました。 次に、ユーザーにパスワードとロールを設定させて、ユーザーがパートナー センターでの作業を開始できるようにします。
 

@@ -9,14 +9,21 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: cbb3cef48b2b4c9141f25ab7cd75bb20e54128de
-ms.sourcegitcommit: 31e9598577981b8a7e484490ed630a2f4db56cf4
+ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2019
-ms.locfileid: "73915030"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004271"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
+
+**適切なロール**
+-   全体管理者
+-   ユーザー管理者
+-   管理エージェント
+-   課金の管理
+-   MPN パートナー管理者
 
 この記事では、[パートナーのセキュリティ要件](partner-security-requirements.md)に関してよく寄せられる質問をいくつか紹介します。
 

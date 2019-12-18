@@ -9,18 +9,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN、メンバーシップ特典、メンバーシップ
 ms.localizationpriority: high
-ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943595"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004531"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 
 **適用対象**
 
 -  パートナー センター
+
+**適切なロール**
+-   全体管理者
+-   ユーザー管理者
+-   管理エージェント
+-   MPN パートナー管理者
 
 >[!IMPORTANT]
 >この記事では、パートナー センター (本サイト) で Microsoft Partner Network (MPN) のメンバーシップ特典を使い始める方法について説明します。 パートナーの企業情報の Partner Membership Center (PMC) からパートナー センターへの移行の招待を受け取っていない場合は、引き続き MPN メンバーシップの特典を PMC で管理する必要があります。 PMC に[サインイン](https://partner.microsoft.com/_login?authType=OpenIdConnect)します。

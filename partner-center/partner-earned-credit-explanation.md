@@ -10,14 +10,21 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: f22aebcfe9269b15a5916564a5cd1f4707302331
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943075"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005001"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>パートナー獲得クレジットの計算方法と支払方法
+
+**適切なロール**
+-   全体管理者
+-   ユーザー管理者
+-   管理エージェント
+-   課金の管理
+-   販売代理店
 
 マネージド サービスのパートナー獲得クレジット (PEC) では、顧客の Azure 環境の一部または全体の IT の運用と管理を 24 時間 365 日体制で実施しているパートナーを認識してリワードが提供されます。 既定では、CSP では、顧客のサブスクリプションに対して必要なアクセス権がパートナーに付与されます。これにより、パートナーは、サブスクリプションのリソースに対する運用管理と制御を 24 時間 365 日体制で実行できます。 次のセクションで、パートナーと取引するために顧客がアクセスをプロビジョニングするその他の方法について説明します。 月々の請求額は、パートナー獲得クレジットのネット値です。 パートナーは、毎月の調整ファイルで PEC の詳細を確認できます。 パートナーと取引するために顧客がアクセスをプロビジョニングするその他の方法については、「[Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)」を参照してください。
 

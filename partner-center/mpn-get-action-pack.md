@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Action Pack、MAPS、MAPS の更新、Action Pack の更新、Action Pack の購入
 ms.localizationpriority: high
-ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 22aebf9d6c7098a36ac551763cd85f4de978a8ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943345"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005103"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Microsoft Action Pack サブスクリプションを初めて購入する、または Silver コンピテンシーまたは Gold コンピテンシーを更新する
 
@@ -22,6 +22,13 @@ ms.locfileid: "74943345"
 
 -  パートナー センター
 -  Partner Membership Center
+
+**適切なロール**
+-   全体管理者
+-   ユーザー管理者
+-   MPN パートナー管理者
+-   管理エージェント
+-   販売代理店
 
 パートナー センター [ダッシュボード](https://docs.microsoft.com/partner-center/)から、Microsoft Action Pack サブスクリプション、Silver コンピテンシー、および Gold コンピテンシーを含む特典オファーを購入または更新できるようになりました。 
 

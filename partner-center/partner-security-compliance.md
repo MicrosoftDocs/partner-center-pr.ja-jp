@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: 7e8226009e9f214e420475dbd350f2bcb3984414
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 32b185452e8287678e6ae010b435e127bfcf54aa
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943115"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005011"
 ---
 # <a name="partner-security-requirements-status"></a>パートナー セキュリティ要件の状態
 
@@ -25,6 +25,13 @@ ms.locfileid: "74943115"
   - 間接リセラー
 - すべてのコントロール パネル ベンダー
 - すべてのアドバイザー
+
+**適切なロール**
+-   全体管理者
+-   ユーザー管理者
+-   管理エージェント
+-   課金の管理
+-   MPN パートナー管理者
 
 プライバシーの保護とセキュリティの強化は、マイクロソフトの最優先事項の 1 つです。 最善の防御とは予防することで、私たちの強さが、最も弱いリンクと同程度でしかないことはわかっています。 だから、エコシステムの全員が行動し、適切なセキュリティ保護を確保する必要があるのです。 パートナーと顧客を保護するために、アドバイザー、コントロール パネル ベンダー、およびクラウド ソリューション プロバイダー プログラムに参加しているパートナーを対象とした一連の必須セキュリティ要件が導入されています。
 

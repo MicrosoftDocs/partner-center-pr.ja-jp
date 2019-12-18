@@ -11,14 +11,20 @@ ms.author: evansma
 keywords: 間接リセラー, リセラー, 間接プロバイダー, プロバイダー, パートナーシップ, VAR, tier2, 階層 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: c259c28d5a5a16a2b12ebb299a574c0b624d87f9
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253661"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004801"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携
+
+**適切なロール**
+-   全体管理者
+-   ユーザー管理者
+-   管理エージェント
+-   販売代理店
 
 クラウドベースのソリューションとサービスの需要は急速に拡大しており、あらゆる規模のマイクロソフト パートナーが、収益性の高いクラウド ソリューション ビジネスを構築する多くの機会を手にしています。 市場へは参入したいが、複数ベンダーの管理は避けたいと考えるパートナーや、包括的な顧客関係管理の基盤を持たないパートナーは、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに間接リセラーとして登録することができます。
 

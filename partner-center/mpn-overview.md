@@ -10,14 +10,20 @@ ms.author: evansma
 keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 9559f4329846855948d67105e0033466756ac0de
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943315"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004201"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft との連携
+
+**適切なロール**
+-   全体管理者
+-   MPN パートナー管理者
+-   ユーザー管理者
+-   管理エージェント
 
 マイクロソフトのパートナー プログラムに参加すると、顧客の満足度を高め、ビジネスを成長させるために必要な、関係、インサイト、ツール、リソース、プログラムを活用できる、グローバル コミュニティの一員となります。
 

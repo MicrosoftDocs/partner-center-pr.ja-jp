@@ -9,15 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ, 高度な専門性
 ms.localizationpriority: high
-ms.openlocfilehash: 508480f2c9e1e67b939885bf31fafdd09e3aabc7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253670"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004811"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft の Silver および Gold コンピテンシーに関する情報と高度な専門性
 
+**適切なロール**
+-   全体管理者
+-   ユーザー管理者
 
 Microsoft コンピテンシーを獲得すると、1 つまたは複数の専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft コンピテンシーは、パートナーが顧客のニーズに対応した能力を備え、マイクロソフト認定のソリューション プロバイダーを求める新規顧客にアピールするように支援することを目的としています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
 
