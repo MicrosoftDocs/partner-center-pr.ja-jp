@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: クラウドソリューションプロバイダー、CSP、クラウドベースのサービス、Azure、Azure RI、Windows Server、SQL Server、ソフトウェアサブスクリプション、キャンセルソフトウェア
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 271eb450434047d1eee193df9f6ce02e7a2d7cf5
-ms.sourcegitcommit: fcaa85b3c080628d2c14b9133aa5780cdaf6f3be
+ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
+ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185627"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "75190243"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP によるソフトウェア サブスクリプションの販売
 
@@ -140,7 +140,7 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 購入をキャンセルするには、次の手順に従います。
 
 >[!NOTE]
->購入を取り消すには、管理エージェントである必要があります。 次の手順では、パートナーセンターのダッシュボードで購入をキャンセルする方法について説明します。 これは、[パートナーセンター API](https://docs.microsoft.com/partner-center/develop/cancel-an-order-from-the-integration-sandbox)を使用して行うこともできます。
+>購入を取り消すには、管理エージェントである必要があります。 次の手順では、パートナーセンターのダッシュボードで購入をキャンセルする方法について説明します。 これは、[パートナーセンター API](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases)を使用して行うこともできます。
 
 1. キャンセルプロセスを開始する前に、次のものがあることを確認してください。
 
