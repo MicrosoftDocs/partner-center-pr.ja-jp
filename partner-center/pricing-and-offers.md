@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ca270413291ba0d09ca03d9b8b270a65f77a46b1
+ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004951"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75631826"
 ---
 # <a name="pricing-and-offers"></a>料金とプラン
 
@@ -66,7 +66,7 @@ ms.locfileid: "75004951"
 |ライセンスベース|Office、Dynamics、Intune、Windows Enterprise|30日間|プレビュー価格リストで CHNG とマークされた価格変更を表示する|
 |使用量ベース|Azure リソース|使用できません|前月の価格表の **[変更履歴]** タブで使用可能な変更ログ|
 |ソフトウェア||使用できません|価格表を月単位から手動で比較する|
-|予約|仮想マシン、前払い|使用できません|価格表を月単位から手動で比較する|
+|Reservations|仮想マシン、前払い|使用できません|価格表を月単位から手動で比較する|
 
 使用量ベースの価格は、1か月を通じて変更できます。 これらの Azure リソースに対して "現在" の日単位の価格を取得するには、パートナーは RateCard API を呼び出す必要があります。 
 
@@ -79,7 +79,7 @@ CSP は、教育、非営利、政府向けコミュニティクラウドなど�
 
 |**Segment**   |**認定を受ける必要があるユーザー**   |**パートナーの顧客の見極め**|**有効な製品の種類**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|パートナーと顧客|[はい]|ライセンスベースのみ|
+|Education|お客様|いいえ、お客様の資格は Microsoft によって実行されます |ライセンスベースのみ|
 |非営利|お客様|いいえ、お客様はパートナーセンターの外にお客様を見極めます|ライセンスベースのみ|
 |Government Community Cloud (GCC)|パートナーと顧客|GCC が有効になると、パートナーは GCC の顧客を作成できるようになります。| ライセンスベースのみ|
 |Azure 政府|パートナー|認定されると、パートナーは Azure 政府に固有の CSP テナントで動作します。|Azure リソース|
