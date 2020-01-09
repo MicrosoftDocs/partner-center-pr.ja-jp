@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 12/09/2019
-  ms.openlocfilehash: fcd60389ddc743b63d49dba58d8d18a4842760f7
-  ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
+  ms.date: 01/07/2020
+  ms.openlocfilehash: 67ef0323742dcf32950559adbb86cd899f2589e5
+  ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 12/16/2019
-  ms.locfileid: "75033518"
+  ms.lasthandoff: 01/07/2020
+  ms.locfileid: "75717357"
 highlightedContent:
   items:
   - title: サインインして最新のお知らせを表示する
@@ -32,9 +32,9 @@ highlightedContent:
   - title: 商業マーケットプレースの概要
     itemType: whats-new
     url: csp-commercial-marketplace-overview.md
-  - title: 多要素認証とセキュリティのベスト プラクティス
+  - title: パートナー センター インサイト
     itemType: overview
-    url: partner-security-requirements.md
+    url: partner-center-insights.md
   - title: パートナー センターでの新しいコマース エクスペリエンス – Azure プラン
     itemType: whats-new
     url: azure-plan-get-started.md
@@ -48,10 +48,10 @@ conceptualContent:
       text: パートナー センター アカウントを作成する
     - url: manage-locations.md
       itemType: how-to-guide
-      text: 場所の管理
-    - url: azure-active-directory-tenants-and-partner-center.md
+      text: 会社の場所を管理する
+    - url: marketplace-rewards.md
       itemType: how-to-guide
-      text: テナントの管理
+      text: マーケットプレースの Rewards を管理する
     footerLink:
       url: partner-center-account-setup.md
       text: さらに詳しく
@@ -69,7 +69,7 @@ conceptualContent:
     footerLink:
       url: customer-accounts.md
       text: さらに詳しく
-  - title: Grow your business
+  - title: ビジネスを拡大する
     links:
     - url: referrals.md
       itemType: how-to-guide

@@ -10,16 +10,16 @@ ms.author: labrenne
 Keywords: Azure, Azure プラン, サービス プリンシパル, Azure AD アプリケーション
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 1fe4211879df2063f7b865c249870c49a346f518
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: bd74d09445d9a2f1745c518362b26f243f00a777
+ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010383"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75716893"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>パートナー センターで Azure AD アプリケーション (サービス プリンシパル) を追加する
 
-パートナー センターのコマーシャル マーケットプレース プログラムでは、Azure AD アプリケーション (サービス プリンシパル) を Azure AD テナントのユーザーとして追加できるようになりました。 (これは、以前は Cloud パートナー ポータル (CPP) アカウントで実行できましたが、パートナー センターに移行したため、CPP アカウントは読み取り専用になりました。)サービス プリンシパルは Azure AD アプリケーションと同義であることに注意してください。
+パートナー センターのコマーシャル マーケットプレース プログラムでは、Azure AD アプリケーション (サービス プリンシパル) を パートナー センター アカウントのユーザーとして追加できるようになりました。 (これは、以前は Cloud パートナー ポータル (CPP) アカウントで実行できましたが、パートナー センターに移行したため、CPP アカウントは読み取り専用になりました。)サービス プリンシパルは Azure AD アプリケーションと同義であることに注意してください。
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Azure AD アプリケーション (サービス プリンシパル) を追加する
 
@@ -30,8 +30,9 @@ ms.locfileid: "75010383"
 3. 既存の Azure AD アプリケーションを選択するか、新しいものを作成します。
 
 4. 新しい Azure AD アプリケーションを作成する場合は、次の情報を含めます。  
+
   
-**名前**:これは、CPP ポータルの [フレンドリ名] フィールドに似ています。
+
 
 **応答 URL**:これは、ユーザーが Azure AD アプリケーションを使用するためにサインインできる URL です。 
 
@@ -39,4 +40,4 @@ ms.locfileid: "75010383"
 
 **セキュリティ ロール**:**マネージャー** (CPP の '所有者' ロールと同じ) と **開発者** (CPP の 'コントリビューター' ロールと同じ) のロールは、パートナー センターのコマーシャル マーケットプレース プログラムに適用され、この Azure AD アプリケーションに関連付けることができます。  
 
-**[保存]** を選択すると、パートナー センターでこれを作成するために、この情報も CPP システムに同期されます。  
+  
