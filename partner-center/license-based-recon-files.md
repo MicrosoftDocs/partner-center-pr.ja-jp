@@ -1,18 +1,18 @@
 ---
 title: ライセンスベースの調整ファイル |パートナーセンター
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 01/08/2020
 description: パートナーセンターでのライセンスベースの調整ファイルについて説明します。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004601"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757185"
 ---
 # <a name="license-based-reconciliation-files"></a>ライセンス ベースの調整ファイル
 
@@ -34,12 +34,15 @@ ms.locfileid: "75004601"
 | Column | 説明 | サンプル値 |
 | ------ | ----------- | ------------ |
 | PartnerId | 特定の請求エンティティの GUID 形式の一意識別子。 調整には必要ありません。 すべての行で同じです。 | *8ddd03642-テスト-46b58d356b4e* |
-| CustomerID | GUID 形式の顧客の一意の Microsoft 識別子。 | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| OrderID | Microsoft 課金プラットフォームでの注文の一意の識別子。 サポートに連絡するときに、注文を識別するのに役立つ場合があります。 調整には使用されません。 | *566890604832738111* |
-| SubscriptionID | Microsoft 課金プラットフォームでのサブスクリプションの一意の識別子。 サポートへの連絡時にサブスクリプションを特定すると便利な場合があります。 調整には使用されません。 *この値は、パートナー管理コンソールの**サブスクリプション ID**と同じではありません。代わりに**SyndicationPartnerSubscriptionNumber**を参照してください。* | *usCBMgAAAAAAAAIA* |
+| CustomerId | GUID 形式の顧客の一意の Microsoft 識別子。 | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
+| CustomerName | パートナー センターで報告される顧客の組織名。 *請求書をシステム情報と調整するための非常に重要なフィールドです。* | *テスト顧客 A* |
+| MpnId | CSP パートナーの MPN 識別子。 「[パートナー別に明細を表示する方法」を](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)参照してください。 | *4390934* |
+| ResellerMpnId | サブスクリプションの販売店の MPN 識別子。 現在のアクティビティには使用できません。 |
+| OrderId | Microsoft 課金プラットフォームでの注文の一意の識別子。 サポートに連絡するときに、注文を識別するのに役立つ場合があります。 調整には使用されません。 | *566890604832738111* |
+| SubscriptionId | Microsoft 課金プラットフォームでのサブスクリプションの一意の識別子。 サポートへの連絡時にサブスクリプションを特定すると便利な場合があります。 調整には使用されません。 *この値は、パートナー管理コンソールの**サブスクリプション ID**と同じではありません。代わりに**SyndicationPartnerSubscriptionNumber**を参照してください。* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | サブスクリプションの一意の識別子。 顧客は、同じプランに対して複数のサブスクリプションを持つことができます。 この列は、ファイルの調整分析に重要です。 このフィールドは、パートナー管理コンソールの**サブスクリプション ID**にマップされます。 | *fb977ab5-テスト-24c8d9591708* |
-| OfferID | 一意のプラン識別子。 価格表に定義されている標準プラン識別子。 *この値は、価格表の**オファー ID**と一致しません。代わりに**DurableOfferID**を参照してください。* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferID | 価格表で定義されている一意の永続的なプラン識別子。 *この値は、価格表の**プラン ID**と一致します。* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| OfferId | 一意のプラン識別子。 価格表に定義されている標準プラン識別子。 *この値は、価格表の**オファー ID**と一致しません。代わりに**DurableOfferID**を参照してください。* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| DurableOfferId | 価格表で定義されている一意の永続的なプラン識別子。 *この値は、価格表の**プラン ID**と一致します。* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | 価格表で定義されている、顧客が購入したサービス プランの名前 | *Microsoft Office 365 (プラン E3)* |
 | SubscriptionStartDate | サブスクリプションの開始日。 時刻は常に、その日の始まりの時刻 (0:00) になります。 このフィールドは、注文が送信された日に設定されます。 **Subscriptionenddate**と組み合わせて使用して、顧客がまだサブスクリプションの最初の年内にあるか、またはサブスクリプションが次の年に更新されたかを判断します。 | *2/1/2019 0:00* |
 | SubscriptionEndDate | サブスクリプションの終了日。 時刻は常に、その日の始まりの時刻 (0:00) になります。 パートナーの請求日または*更新日から12か月*後に、*開始日から12か月を加算した日数*  。 更新時に、価格は最新の価格表に更新されます。 自動更新の前に、顧客とのやり取りが必要になる場合があります。 | *2/1/2019 0:00* |
@@ -47,16 +50,14 @@ ms.locfileid: "75004601"
 | ChargeEndDate | 課金の終了日。 時刻は常に、その日の終わりの時刻 (23:59) になります。 顧客が座席番号を変更したときの日単位の料金 (*pro 対する比率*の料金) を計算するために使用されます。 | *2/28/2019 23:59* |
 | ChargeType | 料金または調整[の種類](recon-file-charge-types.md)。 | [料金の種類](recon-file-charge-types.md)を参照してください。 |
 | UnitPrice | シート単価 (購入時に価格表に公開されていた価格)。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *6.82* |
-| Quantity | シート数。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *2* |
+| 数量 | シート数。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *2* |
 | Amount | 数量に対する合計価格。 金額の計算が顧客に対してこの値を計算する方法と一致するかどうかを確認するために使用されます。 | *13.32* |
 | TotalOtherDiscount | これらの料金に適用される割引額。 コンピテンシーまたは地図に含まれる製品ライセンス、またはインセンティブの対象となる新しいサブスクリプションには、このコラムの割引額も含まれます。 | *2.32* |
 | Subtotal | 合計額 (税抜)。 割引の場合、予想される合計に対して小計が一致するかどうかを確認します。 | *11* |
 | Tax | 納税額。 市場の税金ルールと特定の状況に基づいています。 | *0* |
 | TotalForCustomer | 合計額 (税込)。 請求書に課税されるかどうかを確認します。 | *11* |
-| Currency | 通貨の種類。 各課金エンティティの通貨は 1 つのみです。 最初の請求書と一致するかどうかを確認します。 課金プラットフォームの主要な更新後に、もう一度確認してください。 | *EUR* |
-| CustomerName | パートナー センターで報告される顧客の組織名。 *請求書をシステム情報と調整するための非常に重要なフィールドです。* | *テスト顧客 A* |
-| MPNID | CSP パートナーの MPN 識別子。 「[パートナー別に明細を表示する方法」を](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)参照してください。 | *4390934* |
-| ResellerMPNID | サブスクリプションの販売店の MPN 識別子。 「[パートナー別に明細を表示する方法」を](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)参照してください。 | *4390934* |
+| 通貨 | 通貨の種類。 各課金エンティティの通貨は 1 つのみです。 最初の請求書と一致するかどうかを確認します。 課金プラットフォームの主要な更新後に、もう一度確認してください。 | *EUR* |
 | DomainName | 顧客のドメイン名。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。 *このフィールドは、顧客の一意の識別子として使用しないでください。顧客/パートナーは、Office 365 ポータルを使用してバニティまたは既定のドメインを更新できます。* | *example.onmicrosoft.com* |
 | SubscriptionName | サブスクリプションのニックネーム。 ニックネームが指定されていない場合、パートナーセンターは**Offername**を使用します。 | *プロジェクトをオンラインにする* |
 | SubscriptionDescription | 価格表で定義されている、顧客が購入したサービス プランの名前 (これは**オフ**と同じフィールドです)。 | *PROJECT ONLINE PREMIUM (プロジェクトクライアントなし)* |
+| BillingCycleType | 1回限りの請求頻度。| *毎月* |

@@ -1,7 +1,7 @@
 ---
 title: Microsoft 顧客契約へのお客様の同意を確認する | パートナー センター
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: お客様の Microsoft カスタマーアグリーメントの同意を確認する方法について説明します。 これは、お客様に Microsoft 製品とサービスを注文するために必要になる場合があります。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 33eddc437360cb80071bf98187a7d4e23b820fb9
+ms.sourcegitcommit: 99a8b2daf52d455d33f15945d52efbcc8ff551c8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721366"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "75752569"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft カスタマー契約に同意するかどうかを確認する
 
@@ -31,7 +31,7 @@ ms.locfileid: "74721366"
 
 2019 年 10 月 1 日に、Microsoft では、CPS プログラムに **Microsoft 顧客契約**を導入する予定です。これは、Microsoft Cloud 契約に置き換わります。 新しい契約へのパートナーの移行を促進するために、現在の Microsoft Cloud 契約は、2020 年 1 月 31 まで CSP プログラムでサポートされます。 スケジュールの詳細については、次の表を参照してください。
 
-| 日付 | マイルストーン | 詳細 |
+| 日付 | マイルストーン | 詳細情報 |
 |------------|------------|--------------------------------|
 |2019 年 8 月 1 日|サンドボックスで UX プレビューの提供開始|パートナーは、CSP サンドボックス環境でパートナー センター ダッシュボードを使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 CSP サンドボックス環境へのアクセス権を持つパートナーは、ユーザー エクスペリエンスの変更をプレビューできます。 サンドボックス環境へのアクセス権を持たないパートナーは、その変更をこのトピックで確認できます。|
 |2019 年 9 月 3 日|サンドボックスで API プレビューの提供開始。|パートナーは、CSP サンドボックス環境でパートナー センター API を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 API パートナーは、この機会を利用して API の変更をプレビューし、新しい契約をサポートするために API の統合作業を開始できます。|
@@ -55,7 +55,7 @@ ms.locfileid: "74721366"
 
 
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>パートナー センターを使用してお客様の同意を確認する
-パートナーは、新しい顧客と既存の顧客に対して、パートナーセンターで Microsoft カスタマー契約に同意したかどうかを確認できます。
+パートナーは、新しい顧客と既存の顧客に対して、パートナーセンターで Microsoft カスタマー契約に同意したかどうかを確認できます。 リセラーはお客様に代わって証明を行うことができず、構成証明を完了するために間接プロバイダーと協力する必要があります。
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>新しいお客様について、お客様の同意を確認する
 
