@@ -5,7 +5,7 @@
 ## [職場の電子メール アドレスを取得する方法](buy-email-domain.md)
 ## [パートナー管理センターのパートナー センターへの移行](pac-to-pc-overview.md)
 ### [パートナー管理センター (PAC) からパートナー センターへの移行](moving-from-pac-to-pc.md)
-## [Office 365 パートナー管理センターのパートナー: 業務がパートナー センターに移行します](o365-partner-admin-center-to-partner-center.md)
+### [Office 365 パートナー管理センターのパートナー: 業務のパートナー センターへの移行](o365-partner-admin-center-to-partner-center.md)
 ## Partner Membership Center からパートナー センターへの移行
 ### [Partner Membership Center からパートナー センターへの移行を準備する](prepare-pmc-pc-migration.md)
 ### [PMC からパートナー センターに移行するためのガイド](guide-to-migration.md)
@@ -13,13 +13,13 @@
 ### [複数の会社をパートナー センターに移行するためのガイド](move-multiple-companies.md)
 ### [会社の統合](consolidate-accounts.md)
 
-## メンバーシップの提供
+## メンバーシップ オファー
 ### [Action Pack](mpn-get-action-pack.md)
 ### [プランの更新](renew-mpn-offers.md)
 ## [コンピテンシー](learn-about-competencies.md)
 ## [高度な専門性](advanced-specializations.md)
 ## [Azure Expert マネージド サービス プロバイダー プログラム](azure-expert-msp.md)
-## 利点
+## メリット
 ### [利点の概要](manage-your-partner-network-benefits.md)
 ### [市場進出の利点](mpn-learn-about-go-to-market-benefits.md)
 ## [マーケットプレースの Rewards](marketplace-rewards.md)
@@ -56,18 +56,20 @@
 # [パートナー センター アカウントの管理](partner-center-account-setup.md)
 ## [職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)
 ## [パートナー センターでのアカウント構造](account-structure.md)
+## [ドメインの所有者の確認](become-global-admin.md)
 ## [アカウント情報の確認](verification-responses.md)
 ## [パートナー プロファイルの更新](update-your-partner-profile.md)
-## [場所](manage-locations.md)
-## [コントロール パネル ベンダーとして登録する](enroll-as-cpv.md)
+## [会社の場所の管理](manage-locations.md)
 ## [中断されたパートナー センター アカウントの復元](suspended-partner-center-account.md)
-## [ユーザー アカウントの作成](create-user-accounts-and-set-permissions.md)
-## [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
 ## [Azure AD アプリケーションの追加](service-principal.md)
 ## [Microsoft Learn アカウントとパートナー センターを関連付ける](ms-learn-associate.md)
-## [ドメインの所有者の確認](become-global-admin.md)
+# パートナー センター アカウントの管理 - ユーザー
+## [ユーザー アカウントの作成](create-user-accounts-and-set-permissions.md)
+## [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
+## [コントロール パネル ベンダーとして登録する](enroll-as-cpv.md)
 ## [ユーザー パスワードのリセット](reset-a-user-password.md)
 ## [パスワードのリセット](reset-my-pasword.md)
+# パートナー センター アカウントの管理 - ビジネス
 ## [Azure Partner Shared Services の追加](shared-services.md)
 ## [料金とプラン](pricing-and-offers.md)
 ## [カタログのカスタマイズ](customize-the-catalog.md)
@@ -116,7 +118,7 @@
 ## [顧客一覧の表示](see-your-customer-list.md)
 ## [顧客のアクティビティ ログの表示](activity-logs.md)
 ## [顧客のアカウント情報の更新](update-customer-account-info.md)
-## [顧客アカウントでの複数ユーザーの作成](adding-multiple-users-to-a-customer-account.md)
+## [顧客での複数ユーザーの作成](adding-multiple-users-to-a-customer-account.md)
 ## [サポート連絡先の指定](assign-support-contacts.md)
 
 # [CSP のプラン](csp-offers.md)
@@ -168,8 +170,16 @@
 # パートナー センターのデータと分析
 ## [ビジネス データの取得と分析](data-analysis-lp.md)
 ## [Microsoft Power BI 用パートナー分析アプリ](power-bi-app-for-direct-partners.md)
-## [パートナー センター インサイト](partner-contribution-indicators.md)
-## [パートナー貢献度インジケーター](pci-updated.md)
+## [パートナー センター インサイト](partner-center-insights.md)
+### [パートナー センター インサイト - 概要ダッシュボード](pci-overview-report.md)
+### [パートナー センター インサイト - 顧客ダッシュボード](pci-customer-report.md)
+### [パートナー センター インサイト - 製品サブスクリプション ダッシュボード](pci-product-subscriptions-report.md)
+### [パートナー センター インサイト - 製品ライセンス ダッシュボード](pci-product-licenses-report.md)
+### [パートナー センター インサイト - Azure の利用状況ダッシュボード](pci-azure-usage-report.md)
+### [パートナー センター インサイト - コンピテンシー レポート](pci-competencies-report.md)
+### [パートナー センター インサイト -特典レポート](pci-benefits-report.md)
+### [パートナー センター インサイト - 既知の問題](pci-known-issues.md)
+## [パートナー貢献度インジケーター](partner-contribution-indicators.md)
 ## [顧客の Azure サブスクリプションの利用状況に関するデータの取得](analyze-azure-usage.md)
 ## [間接リセラーのパフォーマンス分析](analyze-indirect-resellers.md)
 ## [サブスクリプションとライセンスの分析](analyze-subscriptions-licenses.md)
@@ -177,14 +187,14 @@
 ## [Power BI 用パートナー センター分析アプリ](power-bi-app-for-direct-partners-use.md)
 ## [Power BI 用パートナー センター分析アプリをインストールしてプレビューする](power-bi-app-for-direct-partners-install.md)
 
-# [他のパートナーと連携する](work-with-other-partners.md)
+# [他のパートナーとの連携](work-with-other-partners.md)
 ## [パートナー センターでの間接プロバイダーの作業](indirect-provider-tasks-in-partner-center.md)
 ## [パートナー センターでの間接リセラーの作業](indirect-reseller-tasks-in-partner-center.md)
 ## [マルチチャンネルのサポート](multichannel.md)
 ## [マルチパートナーのサポート](multipartner.md)
 
 # [Microsoft のサポートを受ける](support-from-microsoft.md)
-## [パートナー センターに関する問題を報告する](report-problems-with-partner-center.md)
+## [パートナー センターに関する問題の報告](report-problems-with-partner-center.md)
 ## [顧客の代理で問題を報告する](report-problems-on-behalf-of-a-customer.md)
 ## [Microsoft の API で自動サービス通知を取得する](get-automated-service-notifications-with-our-apis.md)
 
