@@ -1,7 +1,7 @@
 ---
 title: Marketplace の報奨を管理する |パートナーセンター
 ms.topic: article
-ms.date: 12/11/2019
+ms.date: 01/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: プランを商用マーケットプレースに発行するパートナーは、マーケティングサポートを提供する特典の対象となります。
@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace プラン、マーケティングサポート、報酬、発行元特典
 ms.localizationpriority: medium
-ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
-ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
+ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
+ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75717337"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "75942903"
 ---
 # <a name="manage-marketplace-rewards"></a>Marketplace の特典を管理する
 
@@ -53,4 +53,23 @@ Marketplace 報酬の適格性は、PGA MPN company にリンクされている�
 1. 技術的な特典を利用して、クラウドおよびハイブリッドソリューションのプリセールス、設計、デプロイ、およびアプリの開発段階で技術的なサポートを依頼することができます。 サポートを要求するには、要求フォームに入力し、 **[要求の送信]** を選択します。
 
 2. Azure スポンサープラン特典を利用する方法は、これらの特典を解除するときに電子メールで共有されます。 
+
+## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>ダッシュボードにコマーシャル特典マーケットプレースプログラムが表示されないのはなぜですか。
+
+Marketplace の報酬情報は、パートナーセンターアカウントの作成に使用された Azure AD テナントと MPN ID を通じて入手できます。 このアカウントは、会社のプライマリグローバルアカウント (PGA) と呼ばれます。 AAD テナントが MPN オンボードに使用されているものと異なる場合、商業用の報奨マーケットプレースメニューを表示するには、それを会社の PGA に関連付ける必要があります。 
+
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Azure AD テナントを会社の PGA と関連付けるには
+
+1. 全体管理者またはアカウント管理者として、パートナーセンターの PGA にサインインします。
+
+2. **[設定]** (右上)、 **[パートナーの設定]** 、 **[テナント]** の順に選択します。 
+
+3. **[別の Azure AD テナントに関連付ける]** を選択し、PGA に関連付ける Azure AD テナントを選択します。
+
+4. 関連付ける Azure AD テナント内の任意のユーザーのユーザー名とパスワードを追加し、 **[送信]** を選択します。
+
+5. パートナーセンターからサインアウトし、PGA に関連付けたテナントのユーザー名とパスワードを使用してサインインします。
+
+6. これで、左側のナビゲーションメニューにコマーシャル特典マーケットプレースプログラムの情報が表示されるようになります。
+
 
