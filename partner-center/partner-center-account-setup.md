@@ -1,7 +1,7 @@
 ---
 title: パートナー センターのアカウントを管理する | パートナー センター
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 01/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで、会社のプロファイル、カタログ、銀行と税金に関する情報、ロール、アクセス許可などを管理します。
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f8f15782dec3177596ad5cf0f680f2dfbf34bf84
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005021"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757205"
 ---
 # <a name="manage-your-partner-center-account"></a>パートナー センター アカウントの管理
 
@@ -24,7 +24,7 @@ ms.locfileid: "75005021"
 -  パートナー センター
 
 **適切なロール**
--   全体管理者
+-   グローバル管理者
 -   ユーザー管理者
 -   管理エージェント
 
@@ -33,7 +33,7 @@ ms.locfileid: "75005021"
 また、管理者は、顧客の追加または管理、サブスクリプションの販売、課金や請求の操作、ビジネス プロファイルの作成、紹介の管理、インセンティブ プログラムの操作、サポートの提供に関してパートナー センターを使うすべてのユーザー用にユーザー アカウントを作成する必要があります。
 
 >[!NOTE]
->アカウントの設定は、パートナー センターの右上隅にあります。 アイコンを選択すると、管理対象を選択することができます。 たとえば、 **[アカウント] アイコン**を選択し、 **[ユーザー管理]** を選択します。 これにより、[ユーザー管理] ページに移動し、すべての **[アカウント設定]** オプションを含む追加のウィンドウが開きます。
+>アカウントの設定は、パートナー センターの右上隅にあります。 アイコンを選択すると、管理対象を選択することができます。 たとえば、 **[アカウント] アイコン**を選択し、 **[ユーザー管理]** を選択します。 これにより、[ユーザー管理] ページに移動し、すべての **[アカウント設定]** オプションを含む追加のペインが開きます。
 
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>パートナー センターのアカウントを管理するのに役立つリソース
@@ -45,6 +45,8 @@ ms.locfileid: "75005021"
 |各ロールのアクセス許可を確認する|[ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
 |会社の場所を管理する|[パートナー アカウントの管理: 場所](manage-locations.md)
 |従業員がパスワードを忘れた場合はパスワードをリセットする必要があります。  |[ユーザー パスワードのリセット](reset-a-user-password.md)|
+|コントロール パネル ベンダーとしてパートナー センターに登録する|[コントロール パネル ベンダーとしてパートナー センターに登録する](enroll-as-cpv.md)|
+|パートナー センターでの Microsoft Learn アカウントの関連付け|[パートナー センターでの Microsoft Learn アカウントの関連付け](ms-learn-associate.md)|
 |市場で顧客が自社を検索できるようにマーケティングする   |[ビジネス プロファイルの作成](create-a-marketing-profile.md)|
 |最も重要な製品が一覧の先頭になるようにカタログを整理する   |[カタログのカスタマイズ](customize-the-catalog.md)|
 |料金とプランを常に最新の状態に維持する   |[料金とプラン](pricing-and-offers.md)|
