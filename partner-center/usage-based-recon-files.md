@@ -1,18 +1,18 @@
 ---
 title: 使用法に基づく調整ファイル |パートナーセンター
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: 使用状況に基づく調整ファイルのすべての項目について、例を挙げて説明します。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b50240ec62f10a202c3ad0de3d6425aec878ef
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: e4ce3427f52ccde8f61fa553f3fa0af79bff0a95
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757225"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021748"
 ---
 # <a name="usage-based-file-fields"></a>使用量ベースのファイルのフィールド
 
@@ -34,7 +34,7 @@ ms.locfileid: "75757225"
 | Partnerの Lableaccountid | パートナーアカウント識別子。 | *1010578050* |
 | CustomerCompanyName | パートナー センターで報告される顧客の組織名。 *請求書をシステム情報と調整するために非常に重要です。* | *テスト顧客* |
 | MpnId | CSP パートナーの MPN 識別子。 | *4390934* |
-| ResellerMpnId | サブスクリプションの販売店の MPN 識別子。 現在のアクティビティには使用できません。 |
+| ResellerMpnId | サブスクリプションの販売店の MPN 識別子。  |
 | InvoiceNumber | 指定されたトランザクションが含まれる請求書番号。 | *D020001IVK* |
 | ChargeStartDate | (前の請求サイクルからの) 潜在的な未請求の使用状況データの日付を提示するときを除く、請求サイクルの開始日。 時刻は常に、その日の始まりの時刻 (0:00) になります。 | *2/1/2019 0:00* |
 | ChargeEndDate | (前の請求サイクルからの) 潜在的な未請求の使用状況データの日付を提示するときを除く、請求サイクルの終了日。 時刻は常に、その日の終わりの時刻 (23:59) になります。 | *2/28/2019 23:59* |

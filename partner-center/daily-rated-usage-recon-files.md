@@ -1,18 +1,18 @@
 ---
 title: 毎日評価済みの使用状況の調整ファイル |パートナーセンター
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02a6b708ff0d5f1cc000c82caacbef0174e0ef3d
-ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
+ms.openlocfilehash: a9c7f328cf1a10b4a23aeb775524d5931bdbb703
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75776483"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021729"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>毎日評価済みの使用状況調整ファイル
 
@@ -38,18 +38,18 @@ ms.locfileid: "75776483"
 | PartnerName | パートナー名。 |
 | CustomerId | GUID 形式の顧客の一意の Microsoft 識別子。 |
 | CustomerName | パートナー センターで報告される顧客の組織名。 *このコラムは、請求書をシステム情報に合わせて調整する場合に非常に重要です。* |
-| CustomerDomainName | 顧客のドメイン名。 現在のアクティビティには使用できません。 |
+| CustomerDomainName | 顧客のドメイン名。 |
 | CustomerCountry | 顧客の在住国。 |
 | MpnId | CSP パートナーの MPN 識別子。 |
-| Tier2MpnId | サブスクリプションの販売店の MPN 識別子。 現在のアクティビティには使用できません。 |
-| InvoiceNumber | 指定されたトランザクションが含まれる請求書番号。 現在のアクティビティには使用できません。 |
+| Tier2MpnId | サブスクリプションの販売店の MPN 識別子。 |
+| InvoiceNumber | 指定されたトランザクションが含まれる請求書番号。 |
 | ProductId | 製品の識別子。 |
 | SkuId | 特定の SKU の識別子。 |
 | AvailabilityId | 特定の SKU の可用性の識別子。 これは、指定された国、通貨、業界セグメントなどで SKU を購入できるかどうかを示します。 |
 | SkuName | 特定 SKU のタイトル。 |
 | ProductName | 製品の名前。 |
 | PublisherName | 発行元の名前。 |
-| PublisherId | GUID 形式のパブリッシャーの識別子。 現在のアクティビティには使用できません。 |
+| PublisherId | GUID 形式のパブリッシャーの識別子。 |
 | SubscriptionDescription | 価格表で定義されている、顧客が購入したサービス プランの名前 (これは、 **Offername**と同じフィールドです)。 |
 | SubscriptionId | Microsoft 課金プラットフォームでのサブスクリプションの一意の識別子。 調整には使用されません。 *この識別子は、パートナー管理コンソールの**サブスクリプション ID**と同じではありません。* |
 | ChargeStartDate | 請求サイクルの開始日 (以前の請求サイクルから以前に使用されていた使用状況データを表示していない日付を表示する場合を除く)。 時刻は常に、その日の始まりの時刻 (0:00) になります。 |
@@ -66,10 +66,10 @@ ms.locfileid: "75776483"
 | ConsumedService | 使用した Azure プラットフォーム サービス。 |
 | ResourceGroup | Azure ソリューションの関連リソースを保持するコンテナーを表します。 |
 | ResourceURI | 使用されているリソースの URI。 |
-| ChargeType | 課金または調整の種類。 現在のアクティビティには使用できません。 |
+| ChargeType | 課金または調整の種類。  |
 | UnitPrice | ライセンスあたりの料金。購入時の価格表に記載されています。 この価格が、調整中に請求システムに格納されている情報と一致していることを確認してください。 |
 | 数量 | ライセンス数。 この価格が、調整中に請求システムに格納されている情報と一致していることを確認してください。 |
-| Unittype.pixel 単位 | メーターが課金するユニットの種類。 現在のアクティビティには使用できません。 |
+| Unittype.pixel 単位 | メーターが課金するユニットの種類。  |
 | すべての Lingpretaxtotal | 税金までの合計請求額。 |
 | BillingCurrency | 顧客の地域における通貨。 |
 | PricingPreTaxTotal | 税金が追加される前の価格。 |

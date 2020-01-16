@@ -1,18 +1,18 @@
 ---
 title: ライセンスベースの調整ファイル |パートナーセンター
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: パートナーセンターでのライセンスベースの調整ファイルについて説明します。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: 304c727fea7605f52fc0b99625d21cc6d148a585
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757185"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021738"
 ---
 # <a name="license-based-reconciliation-files"></a>ライセンス ベースの調整ファイル
 
@@ -37,7 +37,7 @@ ms.locfileid: "75757185"
 | CustomerId | GUID 形式の顧客の一意の Microsoft 識別子。 | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
 | CustomerName | パートナー センターで報告される顧客の組織名。 *請求書をシステム情報と調整するための非常に重要なフィールドです。* | *テスト顧客 A* |
 | MpnId | CSP パートナーの MPN 識別子。 「[パートナー別に明細を表示する方法」を](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)参照してください。 | *4390934* |
-| ResellerMpnId | サブスクリプションの販売店の MPN 識別子。 現在のアクティビティには使用できません。 |
+| ResellerMpnId | サブスクリプションの販売店の MPN 識別子。  |
 | OrderId | Microsoft 課金プラットフォームでの注文の一意の識別子。 サポートに連絡するときに、注文を識別するのに役立つ場合があります。 調整には使用されません。 | *566890604832738111* |
 | SubscriptionId | Microsoft 課金プラットフォームでのサブスクリプションの一意の識別子。 サポートへの連絡時にサブスクリプションを特定すると便利な場合があります。 調整には使用されません。 *この値は、パートナー管理コンソールの**サブスクリプション ID**と同じではありません。代わりに**SyndicationPartnerSubscriptionNumber**を参照してください。* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | サブスクリプションの一意の識別子。 顧客は、同じプランに対して複数のサブスクリプションを持つことができます。 この列は、ファイルの調整分析に重要です。 このフィールドは、パートナー管理コンソールの**サブスクリプション ID**にマップされます。 | *fb977ab5-テスト-24c8d9591708* |
