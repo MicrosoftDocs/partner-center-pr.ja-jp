@@ -10,14 +10,14 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace プラン、マーケティングサポート、報酬、発行元特典
 ms.localizationpriority: medium
-ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
-ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
+ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "75942903"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171200"
 ---
-# <a name="manage-marketplace-rewards"></a>Marketplace の特典を管理する
+# <a name="manage-marketplace-rewards"></a>マーケットプレースの Rewards を管理する
 
 適切なロール:
 
@@ -56,7 +56,7 @@ Marketplace 報酬の適格性は、PGA MPN company にリンクされている�
 
 ## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>ダッシュボードにコマーシャル特典マーケットプレースプログラムが表示されないのはなぜですか。
 
-Marketplace の報酬情報は、パートナーセンターアカウントの作成に使用された Azure AD テナントと MPN ID を通じて入手できます。 このアカウントは、会社のプライマリグローバルアカウント (PGA) と呼ばれます。 AAD テナントが MPN オンボードに使用されているものと異なる場合、商業用の報奨マーケットプレースメニューを表示するには、それを会社の PGA に関連付ける必要があります。 
+Marketplace の報酬情報は、パートナーセンターアカウントの作成に使用された Azure AD テナントと MPN ID を通じて入手できます。 このアカウントは、会社のパートナーグローバルアカウント (PGA) と呼ばれます。 AAD テナントが MPN オンボードに使用されているものと異なる場合、商業用の報奨マーケットプレースメニューを表示するには、それを会社の PGA に関連付ける必要があります。 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Azure AD テナントを会社の PGA と関連付けるには
 

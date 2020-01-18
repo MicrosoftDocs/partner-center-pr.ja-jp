@@ -1,20 +1,20 @@
 ---
 title: 複数の会社を PMC からパートナー センターに移行するためのガイド | パートナー センター
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 01/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 複数の企業を PMC からパートナーセンターに移行し、それらをプライマリグローバルアカウントに統合する場合の注意事項。
+description: 複数の企業を PMC からパートナーセンターに移行し、パートナーのグローバルアカウントに統合する場合の注意事項。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 574b0fc08984f12d5bfc869c52dcc8ef56417af7
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004691"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171218"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>複数の会社をパートナー センターに移動する
 
@@ -24,7 +24,7 @@ ms.locfileid: "75004691"
 -   管理エージェント
 -   販売代理店
 
-ご自身の会社のアカウントを PMC からパートナー センターに移動するとき、複数のアカウントを移動する場合があります。 パートナー センターでは、これらのアカウントは 1 つのグローバル アカウント (PGA) に統合されます。 最初に移動するアカウントはプライマリ グローバル アカウントと見なされ、それ以降のアカウントはすべて、最初のアカウントに場所として統合されます。 会社の本社の PMC アカウントを使用して移動を開始します。 詳細については、「[PMC からパートナー センターへの移行に関するガイド](guide-to-migration.md)」を参照するか、こちらの短いビデオ「[複数の場所アカウントを簡単に](https://vimeo.com/290335248)」をご覧ください。
+ご自身の会社のアカウントを PMC からパートナー センターに移動するとき、複数のアカウントを移動する場合があります。 パートナー センターでは、これらのアカウントは 1 つのグローバル アカウント (PGA) に統合されます。 移動する最初のアカウントは、パートナーのグローバルアカウントと見なされ、それ以降のすべてのアカウントは、最初のアカウントの場所として統合されます。 会社の本社の PMC アカウントを使用して移動を開始します。 詳細については、「[PMC からパートナー センターへの移行に関するガイド](guide-to-migration.md)」を参照するか、こちらの短いビデオ「[複数の場所アカウントを簡単に](https://vimeo.com/290335248)」をご覧ください。
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>追加のアカウントをパートナー センターに移動する 
 
@@ -86,11 +86,11 @@ ms.locfileid: "75004691"
 
 プロファイルを表示すると、法的ビジネス (PMC では本社) の情報とその他のすべての場所に関する情報が表示されます。
 
-## <a name="see-also"></a>関連項目
+## <a name="see-also"></a>「
 
 - [PMC からパートナー センターに移動する](move-pmc-pc-map.md)
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [ユーザー アカウントを作成する](create-user-accounts-and-set-permissions.md)
 - [ユーザー ロールとアクセス許可を割り当てる](permissions-overview.md)
