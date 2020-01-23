@@ -121,7 +121,7 @@
 ## [顧客での複数ユーザーの作成](adding-multiple-users-to-a-customer-account.md)
 ## [サポート連絡先の指定](assign-support-contacts.md)
 
-# [CSP のプラン](csp-offers.md)
+# [CSP のプラン](csp-offers.md) 
 ## 商業マーケットプレース
 ### [商業マーケットプレースの概要](csp-commercial-marketplace-overview.md)
 ### [マーケットプレースのサービスを探す](csp-commercial-marketplace-discover.md)
@@ -135,7 +135,8 @@
 ### [顧客に代わって Microsoft Azure Reservations を購入する](azure-reservations-buying.md)
 ### [顧客に代わって Microsoft Azure Reservations を管理する](azure-reservations-manage.md)
 ### [Azure Reserved VM Instances (RI) とサーバー サブスクリプション](azure-ri-server-subscriptions.md)
-## [Azure プラン - はじめに](azure-plan-get-started.md)
+## [Azure プラン](azure-plan-lp.md)
+### [Azure プラン - はじめに](azure-plan-get-started.md)
 ### [Azure プランを購入する](purchase-azure-plan.md)
 ### [Azure オファーを比較する](compare-azure-offers.md)
 ### [顧客の Azure プランへの移行](azure-plan-transition.md)
