@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: medium
-ms.openlocfilehash: dd54d10bb75fe732cddc34c48058b3ba95eac9ae
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004991"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723489"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>パートナーのテナントに Multi-factor Authentication (MFA) を義務付ける
 
@@ -26,12 +26,8 @@ ms.locfileid: "75004991"
   - 間接リセラー
 - すべてのアドバイザー
 
-**適切なロール**
--   グローバル管理
--   ユーザー管理者
--   管理エージェント
--   課金の管理
--   MPN パートナー管理者
+**適切なユーザー**
+-   ゲストユーザーを含むすべての有効なユーザー
 
 これらのパートナーは、次の領域の MFA 検証を完了する必要があります。
 
