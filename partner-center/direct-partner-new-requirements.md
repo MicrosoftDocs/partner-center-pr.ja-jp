@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: CSP, 直接パートナー, 直接請求, 要件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253593"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860464"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>CSP の直接請求パートナーの新しい要件
 
@@ -50,9 +50,11 @@ ms.locfileid: "74253593"
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>直接リセラーから間接リセラーに移行する
 
+現在の直接請求パートナーは、CSP direct bill パートナープログラムに残すための新しい要件を満たす必要があります。 そうしないと、[直接請求の機能へのアクセスが最終的に制限され](restricted-direct-bill-capabilities.md)、顧客に対して新しい購入を行うなど、特定のタスクを実行できなくなります。 
+
 直接請求ビジネスから間接リセラー ビジネスに移ることを決めた場合、いくつかの手順を実行する必要があります。 移行について詳しくは、「[クラウド ソリューション プロバイダー (CSP) の直接パートナーから CSP 間接リセラーへの移行](transition-direct-to-indirect.md)」をご覧ください。 
 
-## <a name="see-also"></a>関連項目
+## <a name="see-also"></a>「
 
 - [間接リセラーになることについての追加情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [直接請求リセラーから間接リセラーへの移行に関する FAQ](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

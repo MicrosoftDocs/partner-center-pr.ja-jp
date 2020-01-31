@@ -10,14 +10,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 顧客, 顧客の追加, 顧客アカウント, パートナー センターの顧客アカウント, お客様, お客様の追加, 顧客アカウントの作成
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722296"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860443"
 ---
-# <a name="add-a-new-customer"></a>新しい顧客を追加する
+# <a name="add-a-new-customer"></a>新しい顧客を追加する 
 
 **適用対象**
 
@@ -28,7 +28,7 @@ ms.locfileid: "74722296"
 **適切なロール**
 
 - グローバル管理
-- ユーザー管理者
+- ユーザー管理の管理者
 - 管理エージェント
 - 販売代理店
 
@@ -60,7 +60,7 @@ ms.locfileid: "74722296"
 
 7. 顧客情報の追加が完了し、必要なサブスクリプションを購入したら、 **[完了]** を選択します。
 
-## <a name="see-also"></a>関連項目
+## <a name="see-also"></a>「
 
 - クラウド ソリューション プロバイダー プログラムで顧客に販売できるものについて詳しくは、「[クラウド ソリューション プロバイダー プログラムでのパートナー プラン](csp-offers.md)」をご覧ください。
 

@@ -37,6 +37,7 @@
 ## [CSP パートナー向け Microsoft Partner Agreement](microsoft-partner-agreement.md)
 ## [CSP の直接パートナーの新しい要件](direct-partner-new-requirements.md)
 ## [地域と言語別の Microsoft Cloud 契約](agreements.md)
+## [制限付きの直接請求機能](restricted-direct-bill-capabilities.md)
 ## [クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行](transition-direct-to-indirect.md)
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
 ## [CSP の地域市場と通貨](regional-authorization-overview.md)

@@ -1,7 +1,7 @@
 ---
 title: CSP によるソフトウェア サブスクリプションの販売 |パートナー センター
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムのパートナーがパートナーセンターを使用して、Azure 予約インスタンスと顧客のサーバーサブスクリプションを購入、管理、販売、キャンセルする方法について説明します。
@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: クラウドソリューションプロバイダー、CSP、クラウドベースのサービス、Azure、Azure RI、Windows Server、SQL Server、ソフトウェアサブスクリプション、キャンセルソフトウェア
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d943128d93fb52e67f4eba346a3338cd429ef57b
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: 0ba3f32615fe02d843123180e4cb34176b28e09c
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723439"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812654"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP によるソフトウェア サブスクリプションの販売
 
@@ -135,7 +135,7 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 購入日から 60 日以内であればソフトウェア購入を取り消すことができます。 この最初の60日以内にキャンセルした場合、早期終了料金は課金されません。 60日後に、購入をキャンセルすることはできなくなります。 (このキャンセル規則の主な制限事項については、メモを参照してください。 ソフトウェアの購入をキャンセルした後の動作については、これらの手順の後にある重要な注意事項に関するページを参照してください。) 
 
 >[!NOTE]
->購入をキャンセルする以下の手順は、購入後の最初の60日以内など、特定のキャンセル期間内にキャンセルが適用されるソフトウェアにのみ適用されます。 これらの購入をキャンセルする手順は、Microsoft Windows 7 の拡張セキュリティ更新プログラム2020の購入には適用されません。 (Windows 7 ESU 2020 をキャンセルするには、このトピックの後半で説明するように、カスタマーサポート要求を送信する必要があります)。これらの手順は、Azure の SUSE Linux または RedHat ソフトウェアプランにも適用されません。 現時点では、SUSE または RedHat ソフトウェアプランをキャンセルしたり交換したりすることはできません。 SUSE Linux または RedHat プランの使用方法については、[こちらを参照](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)してください。
+>購入をキャンセルする以下の手順は、購入後の最初の60日以内など、特定のキャンセル期間内にキャンセルが適用されるソフトウェアにのみ適用されます。 これらの手順は、Azure の SUSE Linux または RedHat ソフトウェアプランにも適用されません。 現時点では、SUSE または RedHat ソフトウェアプランをキャンセルしたり交換したりすることはできません。 SUSE Linux または RedHat プランの使用方法については、[こちらを参照](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)してください。
 
 購入をキャンセルするには、次の手順に従います。
 
@@ -166,11 +166,11 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 
 注文を取り消すと、パートナーセンターから他の情報が表示される場合もあります (注文番号のドロップダウンリストに表示されます)。 次の情報が含まれます。
 
-* 特定の注文を取り消すための残り日数
+- 特定の注文を取り消すための残り日数
 
-* キャンセルウィンドウが既に渡されていて、注文を取り消すことができないかどうか
+- キャンセルウィンドウが既に渡されていて、注文を取り消すことができないかどうか
 
-* 取り消し要求に関する詳細情報が必要な場合は、**カスタマーサポート要求**フォームへのリンクが表示されることがあります。
+- 取り消し要求に関する詳細情報が必要な場合は、**カスタマーサポート要求**フォームへのリンクが表示されることがあります。
 
 >[!IMPORTANT]
 >注文を取り消すと、取り消しを確認するメッセージが表示されます。 ただし、キャンセルがパートナーセンターのダッシュボードに表示されるまでに、最大15分の遅延が発生する場合があります。 さらに、次のキャンセル後の詳細にも注意してください。
