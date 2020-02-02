@@ -1,19 +1,19 @@
 ---
 title: ソフトウェアアシュアランスプログラム |パートナーセンター
 ms.topic: article
-ms.date: 01/14/2019
+ms.date: 01/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ソフトウェアアシュアランスプログラムに登録してビジネスを構築し、企業のお客様にトレーニングと計画を提供するための補償を受けることができます。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ff23573f4cc85964a81e544ead8fa876495bbd10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a4827a8c1fbfb04bb7fccff4bd22e7311eb7e08d
+ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943085"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "76915732"
 ---
 # <a name="participate-in-software-assurance-programs"></a>ソフトウェアアシュアランスプログラムに参加する
 
@@ -22,7 +22,4 @@ ms.locfileid: "74943085"
 |**詳細情報**   |**この記事を読む**   |
 |--------------------------|:------------------|
 |ソフトウェアアシュアランストレーニングバウチャー (SATV) プログラムへの登録|[パートナーセンターのソフトウェアアシュアランストレーニングバウチャー (SATV) プログラム](software-assurance-satv.md)|
-|受講券の確認および受け取りツールの使用|[パートナー センターで受講券の確認および受け取りツールを使用して、受講券の確認、予約、引き換えを行う](voucher-validation-tool.md)|
-|ソフトウェアアシュアランス計画サービスへの登録|[パートナーセンターのソフトウェアアシュアランス計画サービス](software-assurance-dps.md) 
-
-
+|ソフトウェアアシュアランス計画サービスへの登録|[パートナーセンターのソフトウェアアシュアランス計画サービス](software-assurance-dps.md) |
