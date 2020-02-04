@@ -25,9 +25,8 @@
 ## [マーケットプレースの Rewards](marketplace-rewards.md)
 ## [ソフトウェア アシュアランス プログラム](software-assurance-lp.md)
 ### [パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム](software-assurance-satv.md)
-### [パートナー センターで受講券の確認および受け取りツールを使用して、受講券の確認、予約、引き換えを行う](voucher-validation-tool.md)
-### [よく寄せられる質問:受講券の確認および受け取りツールの使用](vvr-faq.md)
 ### [パートナー センターでのソフトウェア アシュアランス計画サービス](software-assurance-dps.md)
+#### [計画サービス契約の適格性要件](software-assurance-dps-requirements.md)
 ## 請求と税金
 ### [Microsoft Partner Network の請求と税金](mpn-view-print-maps-invoice.md)
 ## [新機能のテスト](test-drive-new-features.md)
