@@ -1,7 +1,7 @@
 ---
 title: 顧客との関係を要求する | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 01/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 関係の要求は、マルチパートナー シナリオとマルチチャネル シナリオ用です。 また、顧客が委任された管理者特権を削除していて、プロビジョニングまたはサポートを提供するためにそれらを復元する必要がある場合にも便利です。
@@ -9,61 +9,62 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 97ec1f5b346482a6865c7ce99500766b15459c9a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c89c1c9880adf1a6d91302251bc332dd537e1e83
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654104"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012130"
 ---
-# <a name="connect-with-customers-in-partner-center"></a><span data-ttu-id="5a846-104">パートナー センターでの顧客との連携</span><span class="sxs-lookup"><span data-stu-id="5a846-104">Connect with customers in Partner Center</span></span>
+# <a name="connect-with-customers-in-partner-center"></a><span data-ttu-id="a193e-104">パートナー センターでの顧客との連携</span><span class="sxs-lookup"><span data-stu-id="a193e-104">Connect with customers in Partner Center</span></span>
 
-<span data-ttu-id="5a846-105">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="5a846-105">**Applies to**</span></span>
+<span data-ttu-id="a193e-105">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="a193e-105">**Applies to**</span></span>
 
--  <span data-ttu-id="5a846-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="5a846-106">Partner Center</span></span>
+-  <span data-ttu-id="a193e-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="a193e-106">Partner Center</span></span>
 
-<span data-ttu-id="5a846-107">顧客のサービスやをサブスクリプションを顧客に代わって管理する場合は、顧客からそのサービスまたはサブスクリプションについて管理者のアクセス許可を取得する必要があります。</span><span class="sxs-lookup"><span data-stu-id="5a846-107">If you want to manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service or subscription.</span></span> <span data-ttu-id="5a846-108">次の手順では、メールでこのアクセス許可を要求する方法を示します。</span><span class="sxs-lookup"><span data-stu-id="5a846-108">The procedure below shows how to request this permission by email.</span></span> <span data-ttu-id="5a846-109">顧客が要求を承認すると、パートナーはサービスの管理ポータルにログオンして、顧客の代わりにサービスを管理することができます。</span><span class="sxs-lookup"><span data-stu-id="5a846-109">After the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf.</span></span>
+<span data-ttu-id="a193e-107">お客様の代理で顧客のサービスまたはサブスクリプションを管理する場合は、そのサービスまたはサブスクリプションに対する管理者権限を付与し、Microsoft カスタマーアグリーメントに署名する必要があります。</span><span class="sxs-lookup"><span data-stu-id="a193e-107">If you want to manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service or subscription and sign the Microsoft Customer Agreement.</span></span>
 
-<span data-ttu-id="5a846-110">顧客とリセラーの関係を確立し、貴社がプロビジョニングした Azure サブスクリプションのみを管理する場合は、管理者のアクセス許可を取得する必要はありません。</span><span class="sxs-lookup"><span data-stu-id="5a846-110">If you want to establish a reseller relationship with a customer and manage only the Azure subscriptions that you provision, it is not necessary to obtain administrator permissions.</span></span>
+<span data-ttu-id="a193e-108">顧客とリセラーの関係を確立し、貴社がプロビジョニングした Azure サブスクリプションのみを管理する場合は、管理者のアクセス許可を取得する必要はありません。</span><span class="sxs-lookup"><span data-stu-id="a193e-108">If you want to establish a reseller relationship with a customer and manage only the Azure subscriptions that you provision, it is not necessary to obtain administrator permissions.</span></span>
 
-<span data-ttu-id="5a846-111">アクセス許可を要求しないオプションは、Microsoft Cloud for US Government または Microsoft Cloud Germany で活動するパートナーは使用できないことに注意してください。</span><span class="sxs-lookup"><span data-stu-id="5a846-111">Note that the option to not request permissions is not available to partners operating in Microsoft Cloud for US Government or Microsoft Cloud Germany.</span></span> <span data-ttu-id="5a846-112">詳しくは、「[顧客がパートナーに管理特権を委任する](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="5a846-112">To learn more, see [Customers delegate administration privileges to partners](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).</span></span>
+<span data-ttu-id="a193e-109">アクセス許可を要求しないオプションは、Microsoft Cloud for US Government または Microsoft Cloud Germany で活動するパートナーは使用できないことに注意してください。</span><span class="sxs-lookup"><span data-stu-id="a193e-109">Note that the option to not request permissions is not available to partners operating in Microsoft Cloud for US Government or Microsoft Cloud Germany.</span></span> <span data-ttu-id="a193e-110">詳しくは、「[顧客がパートナーに管理特権を委任する](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="a193e-110">To learn more, see [Customers delegate administration privileges to partners](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).</span></span>
 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a><span data-ttu-id="5a846-113">貴社との再販業者関係を確立するために顧客を招待する</span><span class="sxs-lookup"><span data-stu-id="5a846-113">Invite a customer to establish a reseller relationship with you</span></span>
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a><span data-ttu-id="a193e-111">貴社との再販業者関係を確立するために顧客を招待する</span><span class="sxs-lookup"><span data-stu-id="a193e-111">Invite a customer to establish a reseller relationship with you</span></span>
 
-<span data-ttu-id="5a846-114">顧客とのリセラー関係の要求は、貴社の国内または貴社と同じリージョン内から行うことができることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="5a846-114">Note, you can request a reseller relationship with a customer from within your country or your same region.</span></span>
+<span data-ttu-id="a193e-112">顧客とのリセラー関係の要求は、貴社の国内または貴社と同じリージョン内から行うことができることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="a193e-112">Note, you can request a reseller relationship with a customer from within your country or your same region.</span></span>
 
-1.  <span data-ttu-id="5a846-115">**パートナー センター** メニューから **[顧客]** を選択し、 **[リセラーの関係を要求する]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="5a846-115">Select **Customers** from your **Partner Center** menu and then select **Request a reseller relationship**.</span></span>
+1.  <span data-ttu-id="a193e-113">**パートナー センター** メニューから **[顧客]** を選択し、 **[リセラーの関係を要求する]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="a193e-113">Select **Customers** from your **Partner Center** menu and then select **Request a reseller relationship**.</span></span>
 
-2.  <span data-ttu-id="5a846-116">この顧客に管理者アクセス許可を要求するには、 **[Azure Active Directory および Office 365 に対応する委任された管理特権を含めてください]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="5a846-116">To request administrator permissions from this customer, select **Include delegated administration privileges for Azure Active Directory and Office 365**.</span></span> <span data-ttu-id="5a846-117">管理者アクセス許可を要求しないで関係を確立するには、このオプションをオフにします。</span><span class="sxs-lookup"><span data-stu-id="5a846-117">To establish the relationship without requesting administrator permissions, clear this option.</span></span> 
+2.  <span data-ttu-id="a193e-114">この顧客に管理者アクセス許可を要求するには、 **[Azure Active Directory および Office 365 に対応する委任された管理特権を含めてください]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="a193e-114">To request administrator permissions from this customer, select **Include delegated administration privileges for Azure Active Directory and Office 365**.</span></span> <span data-ttu-id="a193e-115">管理者アクセス許可を要求しないで関係を確立するには、このオプションをオフにします。</span><span class="sxs-lookup"><span data-stu-id="a193e-115">To establish the relationship without requesting administrator permissions, clear this option.</span></span> 
 
-3.  <span data-ttu-id="5a846-118">次のページで、メール メッセージの下書きを確認します。</span><span class="sxs-lookup"><span data-stu-id="5a846-118">On the next page, review the draft email message.</span></span> <span data-ttu-id="5a846-119">既定のメール アプリケーションで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。</span><span class="sxs-lookup"><span data-stu-id="5a846-119">You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email.</span></span> 
+3.  <span data-ttu-id="a193e-116">次のページで、メール メッセージの下書きを確認します。</span><span class="sxs-lookup"><span data-stu-id="a193e-116">On the next page, review the draft email message.</span></span> <span data-ttu-id="a193e-117">既定のメール アプリケーションで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。</span><span class="sxs-lookup"><span data-stu-id="a193e-117">You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email.</span></span> 
 
-    <span data-ttu-id="5a846-120">メールのテキストを編集することはできますが、リンクを必ず含めてください。このリンクは、顧客が貴社のアカウントに直接アクセスできるようにカスタマイズされています。</span><span class="sxs-lookup"><span data-stu-id="5a846-120">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account.</span></span> <span data-ttu-id="5a846-121">この手順を完了したら、 **[完了]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="5a846-121">Select **Done** when you've completed this step.</span></span>
+    <span data-ttu-id="a193e-118">メールのテキストを編集することはできますが、リンクを必ず含めてください。このリンクは、顧客が貴社のアカウントに直接アクセスできるようにカスタマイズされています。</span><span class="sxs-lookup"><span data-stu-id="a193e-118">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account.</span></span> <span data-ttu-id="a193e-119">この手順を完了したら、 **[完了]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="a193e-119">Select **Done** when you've completed this step.</span></span>
 
-3.  <span data-ttu-id="5a846-122">顧客にメールを送信します。</span><span class="sxs-lookup"><span data-stu-id="5a846-122">Send the email to your customer.</span></span>
+3.  <span data-ttu-id="a193e-120">顧客にメールを送信します。</span><span class="sxs-lookup"><span data-stu-id="a193e-120">Send the email to your customer.</span></span>
 
-5.  <span data-ttu-id="5a846-123">顧客が招待を承諾すると、 **[顧客]** ページに顧客が表示され、そこから顧客のサービスのプロビジョニングと管理を実行できるようになります。</span><span class="sxs-lookup"><span data-stu-id="5a846-123">After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.</span></span>
+5.  <span data-ttu-id="a193e-121">顧客が招待を承諾すると、 **[顧客]** ページに顧客が表示され、そこから顧客のサービスのプロビジョニングと管理を実行できるようになります。</span><span class="sxs-lookup"><span data-stu-id="a193e-121">After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.</span></span>
 
+><span data-ttu-id="a193e-122">注: お客様がまだ Microsoft カスタマーアグリーメントに同意していない場合は、招待を受け入れるときにそのことを求めるメッセージが表示されます。</span><span class="sxs-lookup"><span data-stu-id="a193e-122">Note: If the customer has not already accepted the Microsoft Customer Agreement, they will be prompted to do so when they accept your invitation.</span></span> 
  
-6.  <span data-ttu-id="5a846-124">顧客のアカウント、サービス、ユーザー、およびライセンスを管理するには、顧客のレコードを展開し、名前の近くにある下矢印を選択します。</span><span class="sxs-lookup"><span data-stu-id="5a846-124">To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name.</span></span>
+6.  <span data-ttu-id="a193e-123">顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、顧客の名前の下矢印を選んで、顧客のレコードを展開します。</span><span class="sxs-lookup"><span data-stu-id="a193e-123">To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name.</span></span>
 
 
 > [!IMPORTANT]  
-> <span data-ttu-id="5a846-125">顧客は、サービスの管理者ポータルで、管理者のアクセス許可の割り当てを変更したり、削除したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="5a846-125">Customers can reassign or remove administrator permissions in a service's admin portal.</span></span> <span data-ttu-id="5a846-126">ただし顧客が管理者のアクセス許可の割り当てを変更したり、削除したりした後も、パートナーが顧客との契約について再交渉しない限り、また再交渉するまで、パートナーは引き続きカスタマー サポートを提供し、クラウド リセラー契約の条項を遵守する責任を負います。</span><span class="sxs-lookup"><span data-stu-id="5a846-126">However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions.</span></span> <span data-ttu-id="5a846-127">この状況で顧客にサポートが必要となった場合、パートナーは顧客に代わって Microsoft サポートにサービス要求を求めることができます。</span><span class="sxs-lookup"><span data-stu-id="5a846-127">In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.</span></span>
+> <span data-ttu-id="a193e-124">顧客は、サービスの管理者ポータルで、管理者のアクセス許可の割り当てを変更したり、削除したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="a193e-124">Customers can reassign or remove administrator permissions in a service's admin portal.</span></span> <span data-ttu-id="a193e-125">ただし、お客様との契約を再交渉するまでは、お客様は引き続きカスタマーサポートを提供し、お客様が管理者を再割り当てまたは削除した後でも、Microsoft パートナー契約の条項に準拠する責任を負うものとします。許可.</span><span class="sxs-lookup"><span data-stu-id="a193e-125">However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Microsoft Partner Agreement, even after a customer reassigns or removes administrator permissions.</span></span> <span data-ttu-id="a193e-126">この状況で顧客にサポートが必要となった場合、パートナーは顧客に代わって Microsoft サポートにサービス要求を求めることができます。</span><span class="sxs-lookup"><span data-stu-id="a193e-126">In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.</span></span>
 
-## <a name="changes-to-the-customer-invitation-experience"></a><span data-ttu-id="5a846-128">顧客招待エクスペリエンスの変更</span><span class="sxs-lookup"><span data-stu-id="5a846-128">Changes to the customer invitation experience</span></span>
+## <a name="changes-to-the-customer-invitation-experience"></a><span data-ttu-id="a193e-127">顧客招待エクスペリエンスの変更</span><span class="sxs-lookup"><span data-stu-id="a193e-127">Changes to the customer invitation experience</span></span>
 
-<span data-ttu-id="5a846-129">クラウドソリューションプロバイダーパートナーから再販業者関係の招待を受け入れるためのカスタマーエクスペリエンスは、さまざまな顧客向けポータルでホストされています。</span><span class="sxs-lookup"><span data-stu-id="5a846-129">The customer experience for accepting a reseller relationship invitation from a Cloud Solution Provider partner is hosted by different customer-facing portals.</span></span> <span data-ttu-id="5a846-130">ポータルの場所は、お客様が Microsoft パブリッククラウドまたは国内クラウドのどちらにあるかによって異なります。</span><span class="sxs-lookup"><span data-stu-id="5a846-130">The portal location depends on whether a customer is in a Microsoft public cloud or national cloud:</span></span> 
+<span data-ttu-id="a193e-128">クラウドソリューションプロバイダーパートナーから再販業者関係の招待を受け入れるためのカスタマーエクスペリエンスは、さまざまな顧客向けポータルでホストされています。</span><span class="sxs-lookup"><span data-stu-id="a193e-128">The customer experience for accepting a reseller relationship invitation from a Cloud Solution Provider partner is hosted by different customer-facing portals.</span></span> <span data-ttu-id="a193e-129">ポータルの場所は、お客様が Microsoft パブリッククラウドまたは国内クラウドのどちらにあるかによって異なります。</span><span class="sxs-lookup"><span data-stu-id="a193e-129">The portal location depends on whether a customer is in a Microsoft public cloud or national cloud:</span></span> 
 
-|  | <span data-ttu-id="5a846-131">顧客が再販業者関係の招待を受け入れる場所</span><span class="sxs-lookup"><span data-stu-id="5a846-131">Where does a customer accept a reseller relationship invitation?</span></span> |
+|  | <span data-ttu-id="a193e-130">顧客が再販業者関係の招待を受け入れる場所</span><span class="sxs-lookup"><span data-stu-id="a193e-130">Where does a customer accept a reseller relationship invitation?</span></span> |
 |---------|---------
-| <span data-ttu-id="5a846-132">パブリック クラウド内の顧客</span><span class="sxs-lookup"><span data-stu-id="5a846-132">Customers in Public Cloud</span></span> | <span data-ttu-id="5a846-133">ビジネス向け Microsoft Store</span><span class="sxs-lookup"><span data-stu-id="5a846-133">Microsoft Store for Business</span></span> |
-| <span data-ttu-id="5a846-134">Microsoft Cloud Germany のパートナー センター内の顧客</span><span class="sxs-lookup"><span data-stu-id="5a846-134">Customers in Partner Center for Microsoft Cloud Germany</span></span> | <span data-ttu-id="5a846-135">Microsoft Office 管理ポータル</span><span class="sxs-lookup"><span data-stu-id="5a846-135">Microsoft Office Admin Portal</span></span> |
-| <span data-ttu-id="5a846-136">Microsoft Cloud for US Government のパートナー センター内の顧客</span><span class="sxs-lookup"><span data-stu-id="5a846-136">Customers in Partner Center for Microsoft Cloud for US Government</span></span> | <span data-ttu-id="5a846-137">Microsoft Office 管理ポータル</span><span class="sxs-lookup"><span data-stu-id="5a846-137">Microsoft Office Admin Portal</span></span> |
+| <span data-ttu-id="a193e-131">パブリック クラウド内の顧客</span><span class="sxs-lookup"><span data-stu-id="a193e-131">Customers in Public Cloud</span></span> | <span data-ttu-id="a193e-132">Microsoft 365 管理センター</span><span class="sxs-lookup"><span data-stu-id="a193e-132">Microsoft 365 Admin Center</span></span> |
+| <span data-ttu-id="a193e-133">Microsoft Cloud Germany のパートナー センター内の顧客</span><span class="sxs-lookup"><span data-stu-id="a193e-133">Customers in Partner Center for Microsoft Cloud Germany</span></span> | <span data-ttu-id="a193e-134">Microsoft Office 管理ポータル</span><span class="sxs-lookup"><span data-stu-id="a193e-134">Microsoft Office Admin Portal</span></span> |
+| <span data-ttu-id="a193e-135">Microsoft Cloud for US Government のパートナー センター内の顧客</span><span class="sxs-lookup"><span data-stu-id="a193e-135">Customers in Partner Center for Microsoft Cloud for US Government</span></span> | <span data-ttu-id="a193e-136">Microsoft Office 管理ポータル</span><span class="sxs-lookup"><span data-stu-id="a193e-136">Microsoft Office Admin Portal</span></span> |
 |
 
-## <a name="see-also"></a><span data-ttu-id="5a846-138">関連項目</span><span class="sxs-lookup"><span data-stu-id="5a846-138">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="a193e-137">「</span><span class="sxs-lookup"><span data-stu-id="a193e-137">See also</span></span>
 
-- [<span data-ttu-id="5a846-139">サポート連絡先の指定</span><span class="sxs-lookup"><span data-stu-id="5a846-139">Assign support contacts</span></span>](assign-support-contacts.md)
-- [<span data-ttu-id="5a846-140">顧客との関係の削除</span><span class="sxs-lookup"><span data-stu-id="5a846-140">Remove a relationship with a customer</span></span>](remove-a-relationship.md)
+- [<span data-ttu-id="a193e-138">サポート連絡先の指定</span><span class="sxs-lookup"><span data-stu-id="a193e-138">Assign support contacts</span></span>](assign-support-contacts.md)
+- [<span data-ttu-id="a193e-139">顧客との再販業者関係の削除</span><span class="sxs-lookup"><span data-stu-id="a193e-139">Remove a relationship with a customer</span></span>](remove-a-relationship.md)
