@@ -1,7 +1,7 @@
 ---
 title: Azure プランの価格表 | パートナー センター
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで Azure プランのサブスクリプションの価格表を確認する方法を説明します。
@@ -10,23 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722048"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812644"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 向けの CSP の新しいコマース エクスペリエンスの価格表 
 
 **適切なロール**
 
 - 管理エージェント
-- 課金の管理
-- 全体管理者
+- 課金管理者
+- グローバル管理者
 - ヘルプデスク エージェント
 - 販売代理店
-- ユーザー管理者
+- ユーザー管理の管理者
 
 CSP の新しい Azure コマース エクスペリエンスの価格表は、パートナー センターに掲載されます。 価格表は、動的に配信されるリアルタイムの正確なファイルであり、価格は米国ドルでのみ表示されます。 ただし、請求については、顧客の所在地の通貨に適用される、サポートされている通貨で行われます。 顧客の所在地での通貨による請求の詳細については、「[Azure プラン - 請求](azure-plan-billing.md)」を参照してください。
 
@@ -43,7 +43,7 @@ CSP の新しい Azure コマース エクスペリエンスの価格表は、�
 
 ![国固有](images/azure/pricingnew.png)
 
-注:Azure プランの価格と Marketplace のサードパーティ価格の 2 種類の価格表をエクスポートできます。 
+注: Azure プランの価格と Marketplace のサードパーティ価格の 2 種類の価格表をエクスポートできます。 
 
 ## <a name="azure-price-list-specifics"></a>Azure 価格表の詳細
 
@@ -75,7 +75,7 @@ CSP の新しい Azure コマース エクスペリエンスの価格表は、�
 |SkuDescription|SKU の説明|
 |UnitOfMeasure|課金または請求される単位|
 |TermDuration|期間ベースの製品の場合は、予約に適用される期間の長さ|
-|市場|市場価格|
+|Market|市場価格|
 |通貨|価格の通貨|
 |UnitPrice|ユニットごとの価格|
 |PricingTierRangeMin|階層料金では、最低料金が適用されます|
@@ -86,4 +86,17 @@ CSP の新しい Azure コマース エクスペリエンスの価格表は、�
 |MeterType|メーターの種類|
 |タグ|項目のプロパティ。Azure プランの価格では、Azure または Azure と Reservations (特に予約用) になります|
 
-詳細な[価格表の情報](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)  
+Azure プランの価格表は、[[Azure プランの価格と Marketplace] ページ](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)からエクスポートできます
+
+## <a name="pricing-api-for-azure-plan"></a>Azure プランの価格 API
+
+[価格 API](https://docs.microsoft.com/partner/develop/pricing) を使用して、プログラムにより従量課金と予約に関する Azure プランの価格を取得できます。 また、外国為替レートを取得することもできます。 
+
+価格 API は、他のパートナー センター API とは別のエンドポイントにあります。 価格情報には、Azure プランのリソースのメーター価格 (米国ドル) と、Azure プランのサブスクリプションに適用される予約価格が含まれます。
+
+また、Azure プランの価格は米国ドルのみであるため、この API により、パートナーは月ごとの為替レートを取得できます。 API を使用して、当月または以前の月の価格と外国為替レートの両方を取得できます。
+
+>[!NOTE]
+> 価格 API は、Azure プランの価格に固有のものです。 Azure 以外のプランのサブスクリプションに採用された Azure リソースまたは予約については、既存の RateCard API とパートナー センターの「料金とプラン」ページに掲載されている価格表を引き続き使用する必要があります。 Azure プランの価格 API では、Microsoft 365 や Dynamics 365 などのソフトウェア、マーケットプレース、シートベースの価格はサポートされません。
+
+Azure プランの価格と外国為替レートの各 API の詳細については、完全な[価格 API のドキュメント](https://docs.microsoft.com/partner/develop/pricing)を参照してください。

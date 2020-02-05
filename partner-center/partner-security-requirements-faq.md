@@ -9,21 +9,17 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: dd2bd327da0259f66b7feb9f90b7f6a75089524b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004271"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723479"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
 
-**適切なロール**
--   全体管理者
--   ユーザー管理者
--   管理エージェント
--   課金の管理
--   MPN パートナー管理者
+**該当するユーザー**
+-   ゲスト ユーザーを含むすべての有効なユーザー
 
 この記事では、[パートナーのセキュリティ要件](partner-security-requirements.md)に関してよく寄せられる質問をいくつか紹介します。
 
@@ -242,7 +238,7 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 パートナー センターに登録して、アプリケーションを登録すると、Partner Center API にアクセスできるようになります。 新しく CPV になった場合は、パートナー センターの通知を通じてサンドボックスの情報を受け取ります。 Microsoft CPV として登録を完了し、CPV 契約に同意すると、次のことができるようになります。
 
-1. マルチテナント アプリケーションを管理する (Azure portal へのアプリケーションの追加、パートナー センターでのアプリケーションの登録と登録解除)。 注:CPV は、Partner Center API の承認を取得するには、パートナー センターでアプリケーションを登録する必要があります。 Azure portal にアプリケーションを追加するだけでは、CPV アプリケーションはパートナー センター API に対して承認されません。
+1. マルチテナント アプリケーションを管理する (Azure portal へのアプリケーションの追加、パートナー センターでのアプリケーションの登録と登録解除)。 注: CPV は、Partner Center API の承認を取得するには、パートナー センターでアプリケーションを登録する必要があります。 Azure portal にアプリケーションを追加するだけでは、CPV アプリケーションはパートナー センター API に対して承認されません。
 2. CPV プロファイルを表示および管理する。
 3. CPV 機能にアクセスする必要があるユーザーを表示および管理する。 CPV が持つことのできる唯一のロールは、グローバル管理者です。
 

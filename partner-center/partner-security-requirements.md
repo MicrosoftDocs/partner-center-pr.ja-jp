@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: 146ed2d79c2b98dca6e08f9cf56dbb150e981535
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004981"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723449"
 ---
 # <a name="partner-security-requirements"></a>パートナーのセキュリティ要件
 
@@ -27,12 +27,8 @@ ms.locfileid: "75004981"
 - すべてのコントロール パネル ベンダー
 - すべてのアドバイザー
 
-**適切なロール**
--   全体管理者
--   ユーザー管理者
--   管理エージェント
--   課金の管理
--   MPN パートナー管理者
+**該当するユーザー**
+-   ゲスト ユーザーを含むすべての有効なユーザー
 
 プライバシーの保護とセキュリティの強化は、マイクロソフトの最優先事項の 1 つです。 最善の防御とは予防することで、私たちの強さが、最も弱いリンクと同程度でしかないことはわかっています。 そのために、エコシステムの全員が行動し、適切なセキュリティ保護を確保する必要があるのです。 パートナーと顧客を保護するために、マイクロソフトは、アドバイザー、コントロール パネル ベンダー、およびクラウド ソリューション プロバイダー プログラムに参加しているパートナーを対象とした一連の必須セキュリティ要件を導入しています。
 
