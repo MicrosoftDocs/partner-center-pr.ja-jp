@@ -42,6 +42,7 @@
 ## [CSP の地域市場と通貨](regional-authorization-overview.md)
 ## [Microsoft Cloud 契約に関するお客様の同意を確認する](confirm-consent.md)
 ## [Microsoft 顧客契約へのお客様の同意を確認する](confirm-customer-agreement.md)
+### [顧客に代わって顧客契約の同意を証明する場合](attest-acceptance-customer-agreement.md)
 
 ## [ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
