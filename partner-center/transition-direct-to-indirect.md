@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接請求, 移行, 間接リセラー
-ms.openlocfilehash: 37085f151b2cff2a32026266423240417152b950
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860489"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044740"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行 
 
@@ -27,7 +27,7 @@ ms.locfileid: "76860489"
 
 パートナーは、既存の直接請求テナントを使用して間接リセラー プログラムに登録できます。 
 
-## <a name="get-started"></a>、
+## <a name="get-started"></a>作業開始
 
 1. パートナー センターのパートナー プロファイルと MPN ID が最新の状態であることを確認します。
 
@@ -50,7 +50,7 @@ ms.locfileid: "76860489"
 >[!Note]
 > 通常であればすぐに承認されますが、最大で 5 営業日かかることがあります。 承認が済むと、登録フォームで主要連絡先に指定したメール アドレスに通知が届きます。 また、 > **設定** の パートナーの**設定** > **パートナーのプロファイル** > プログラム情報 で、登録の状態を確認することもできます。 
 
-6. **[概要]** ページに、間接リセラー契約が表示されます。 **[Accept and continue] (同意して続ける)** を選択します。 これにより、間接リセラーの機能が有効になります。
+6. **[概要]** ページに、間接リセラー契約が表示されます。 **[Accept and continue] (同意して続ける)** を選びます。 これにより、間接リセラーの機能が有効になります。
 
 間接リセラー契約を受け入れるときは、パートナー プロファイルでは直接請求パートナーと間接リセラーの**両方**として示されていることに注意してください。
 
@@ -239,7 +239,7 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 7. [転送要求] ダイアログボックスで、転送する1つ以上のサブスクリプションを選択します。 
 
-8. **[作成]** をクリックします。 
+8. [作成] をクリックします。 
 
 9. アクティブなサブスクリプションの譲渡要求が **[サブスクリプションの譲渡]** に表示されます。 
 
@@ -309,7 +309,7 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 また、パートナーは、その同じパートナー テナントで直接請求インセンティブ プログラムに登録する資格もあります。 プログラムは個別に管理する必要があります。
 
-## <a name="see-also"></a>「 
+## <a name="see-also"></a>参照 
 - [間接リセラーになることについての追加情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [CSP の直接パートナーの新しい要件](direct-partner-new-requirements.md)
 - [制限付きの直接請求機能](restricted-direct-bill-capabilities.md)

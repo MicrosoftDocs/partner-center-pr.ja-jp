@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: medium
-ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b71f1a2b8a42e108a521b33c1e747ca186cb1c70
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723489"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044732"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>パートナーのテナントに Multi-factor Authentication (MFA) を義務付ける
 
@@ -31,8 +31,8 @@ ms.locfileid: "76723489"
 
 これらのパートナーは、次の領域の MFA 検証を完了する必要があります。
 
-- [パートナーセンターダッシュボード](#partner-center-dashboard)(H1 CY2020 を対象とする)
-- [パートナーセンター API](#partner-center-api) (ターゲット H1 CY2020)
+- [パートナーセンターのダッシュボード](#partner-center-dashboard)(Q2 CY2020 をターゲットにする)
+- [パートナーセンター API](#partner-center-api) (Q2 CY2020 を対象とする)
 - [パートナー代理管理](#partner-delegated-administration)(2019 年11月18日以降)
 
 この機能の目的は、パートナーが資格情報の侵害から顧客リソースへのアクセスをセキュリティで保護できるようにすることです。
@@ -61,9 +61,9 @@ ms.locfileid: "76723489"
 
 **例 2: パートナーが id フェデレーションを使用してサードパーティの MFA を実装している**
 1. Trent は CSP Wingtip で動作します。 Wingtip は、id フェデレーションを介して Azure AD と統合されたサードパーティの MFA を使用して、Wingtip partner テナントのすべてのユーザーに MFA を実装しました。
-2. このワークステーションから、Trent は新しいブラウザーセッションを開始し、パートナーセンターのダッシュボードの [概要] ページに移動します (これは MFA で保護されていません)。 パートナーセンターは、Justin を Azure AD にリダイレクトしてサインインします。
+2. このワークステーションから、Trent は新しいブラウザーセッションを開始し、パートナーセンターのダッシュボードの [概要] ページに移動します (これは MFA で保護されていません)。 パートナーセンターは、Trent を Azure AD にリダイレクトしてサインインします。
 3. Wingtip が id フェデレーションを設定しているため、Azure AD は Trent をフェデレーション id プロバイダーにリダイレクトして、サインインと MFA の検証を完了します。 サインインと MFA の検証に成功すると、Trent が Azure AD にリダイレクトされ、パートナーセンターのダッシュボードの概要ページにリダイレクトされます。
-4. Justin は、パートナーセンターで MFA で保護されたページのいずれかにアクセスしようとします。 以前のサインインでは、Trent は既に MFA の検証を完了しているため、Trent は mfa の検証を再度実行する必要なく、MFA で保護されたページにアクセスできます。
+4. Trent は、パートナーセンターで MFA で保護されたページのいずれかにアクセスしようとします。 以前のサインインでは、Trent は既に MFA の検証を完了しているため、Trent は mfa の検証を再度実行する必要なく、MFA で保護されたページにアクセスできます。
 
 **例 3: パートナーが MFA を実装していない**
 1. John は CSP Fabrikam に勤務しています。 Fabrikam は、Fabrikam パートナーのテナント下にあるすべてのユーザーに対して MFA を実装していません。
@@ -127,7 +127,7 @@ Azure Active Directory がこのような認証要求を受信すると、MFA �
 
 - パートナーアカウントが**フェデレーション**id の場合、このエクスペリエンスは、パートナー管理者が Azure Active Directory でフェデレーションを構成した方法によって異なります。 Azure Active Directory でフェデレーションを設定する場合、パートナー管理者は、フェデレーション id プロバイダーが MFA をサポートしているかどうかを Azure Active Directory ことを示すことができます。 その場合、Azure Active Directory は、ユーザーをフェデレーション id プロバイダーにリダイレクトして、MFA の検証を完了します。 それ以外の場合、Azure Active Directory は、ユーザーに MFA の検証を完了するように求めるメッセージを表示します。 パートナーアカウントが Azure Active Directory 前に MFA に登録されていない場合、ユーザーは最初に[mfa 登録を完了](#mfa-registration-experience)するように求められます。
 
-全体的なエクスペリエンスは、エンドカスタマーテナントが管理者に対して MFA を実装しているシナリオと非常によく似ています。 たとえば、顧客テナントは、管理者エージェントやヘルプデスクエージェントなどの MFA 検証を使用して顧客テナントにサインインするために管理者権限を持つすべてのアカウントを必要とする、管理者[向けの Azure AD 基準ポリシー-mfa](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)を有効にしました。 テストの目的で、パートナーは顧客テナントで[管理者ポリシーの MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)を有効にし、パートナーの代理管理特権を使用して顧客のテナントにアクセスすることができます。
+全体的なエクスペリエンスは、エンドカスタマーテナントが管理者に対して MFA を実装しているシナリオと非常によく似ています。 たとえば、顧客のテナントでは[Azure AD セキュリティの既定値](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)が有効になっています。これにより、管理者エージェントやヘルプデスクエージェントなどの MFA 検証で顧客テナントにサインインするには、管理者権限を持つすべてのアカウントが必要になります。 テストの目的で、パートナーは顧客テナントで[Azure AD セキュリティの既定値](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)を有効にし、パートナーの代理管理特権を使用して顧客のテナントにアクセスすることができます。
 
 > [!NOTE]
 > パートナーが代理管理者権限を使用して顧客のリソースにアクセスする場合、すべての Microsoft Online Service ポータルで顧客テナントへのサインインにパートナーアカウントが必要であるとは限りません。 代わりに、パートナーのテナントにサインインするために必要なのはパートナーアカウントだけです。 例として、Exchange 管理センターがあります。 時間の経過と共に、パートナーの代理管理者特権を使用する場合、これらのポータルでは、顧客テナントへのサインインにパートナーアカウントが必要であると想定しています。
@@ -141,7 +141,7 @@ Azure Active Directory がこのような認証要求を受信すると、MFA �
 
 - パートナーは、アクセストークンを取得するために、Azure AD で非対話型のユーザー認証方法を使用しないようにする必要があります。 [パスワードフロー](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)など、非対話型のユーザー認証方法を使用する場合、Azure AD は、ユーザーに MFA の検証を完了するように要求することはできません。 パートナーは、代わりに[OpenID connect flow](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code)などの対話型ユーザー認証方法を使用するように切り替える必要があります。
 - 対話ユーザーの認証方法では、パートナーは既に MFA に対して有効になっているパートナーユーザーアカウントを使用する必要があります。 また、Azure AD によってメッセージが表示された場合、パートナーはサインイン時に MFA の登録と MFA の検証を完了できます。
-- これは、エンドカスタマーテナントが管理者に対して MFA を実装しているシナリオとよく似ています。 たとえば、顧客テナントは、管理者エージェントやヘルプデスクエージェントなどの MFA 検証を使用して顧客テナントにサインインするために管理者権限を持つすべてのユーザーアカウントを必要とする、管理者[向けの Azure AD 基準ポリシー-mfa](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)を有効にしました。 テストの目的で、パートナーは顧客テナントの[管理者ポリシーに対して MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)を有効にし、パートナーの代理管理特権を使用して顧客のテナントにプログラムでアクセスすることができます。
+- これは、エンドカスタマーテナントが管理者に対して MFA を実装しているシナリオとよく似ています。 たとえば、顧客のテナントでは[Azure AD セキュリティの既定値](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)が有効になっています。これにより、管理者エージェントやヘルプデスクエージェントなどの MFA 検証で顧客テナントにサインインするには、管理者権限を持つすべてのユーザーアカウントが必要になります。 テストの目的で、パートナーは顧客テナントで[Azure AD セキュリティの既定値](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)を有効にし、パートナーの代理管理特権を使用して顧客のテナントにプログラムでアクセスすることができます。
 
 ### <a name="mfa-registration-experience"></a>MFA の登録エクスペリエンス
 MFA の検証中に、パートナーアカウントが MFA に登録されていない場合は、まず、ユーザーに MFA の登録を完了するように求めるメッセージが表示さ Azure AD ます。
