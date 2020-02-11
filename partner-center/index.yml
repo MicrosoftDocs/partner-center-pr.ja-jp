@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 01/07/2020
-  ms.openlocfilehash: b167e61908b30dff2c9531810d465411cd8089d8
-  ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+  ms.date: 02/07/2020
+  ms.openlocfilehash: 6f813e45dacd881d6b83ab89ee3c1c25d8913593
+  ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 01/24/2020
-  ms.locfileid: "76723429"
+  ms.lasthandoff: 02/07/2020
+  ms.locfileid: "77075607"
 highlightedContent:
   items:
   - title: サインインして最新のお知らせを表示する
@@ -41,6 +41,9 @@ highlightedContent:
   - title: パートナー センターでの新しいコマース エクスペリエンス – Azure プラン
     itemType: whats-new
     url: azure-plan-lp.md
+  - title: うるう日に備えましょう。 2020 年 2 月 29 日まで後少しです。 お使いのコードで余分な日を処理できることを確認してください。
+    itemType: whats-new
+    url: https://aka.ms/leapday2020blog
 conceptualContent:
   title: パートナー センターでの操作
   items:
