@@ -10,19 +10,19 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace プラン、マーケティングサポート、報酬、発行元特典
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.openlocfilehash: 3fadda03e0a879aabf858954d0bea55414e81137
+ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171200"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77075617"
 ---
 # <a name="manage-marketplace-rewards"></a>マーケットプレースの Rewards を管理する
 
 適切なロール:
 
 - MPN パートナー管理者
-- グローバル管理
+- グローバル管理者
 - 管理エージェント
 
 マイクロソフトの商用マーケットプレースにソフトウェアプランを公開すると、Marketplace の特典により、マーケティング、販売、および技術的な利点を含むすべてのプランを対象としたサポートが提供されます。 
@@ -38,7 +38,7 @@ Marketplace 報酬の適格性は、PGA MPN company にリンクされている�
 
 3. マーケティングの連絡先情報を追加または更新するには、Marketplace の特典ページの [Sales and Marketing 特典] タブの上部に移動し、[**追加]、[更新]、または [変更**] を選択します。 
 
-続けて次の作業を行います。
+次に、次の手順を実行します。
 
   - 一覧からユーザーを選択します。 割り当てたいユーザーが一覧にない場合は、[アカウントの設定] で新しいユーザーを追加できます。
 
@@ -48,15 +48,15 @@ Marketplace 報酬の適格性は、PGA MPN company にリンクされている�
 
 4. マーケティング担当者を更新した後、使用を開始する特典に対して **[アクティブ化]** を選択します。 特典を有効にすると、1週間以内に特典チームのメンバーがマーケティングの連絡先に連絡します。
 
-## <a name="technical-benefits"></a>技術上のメリット
+## <a name="technical-benefits"></a>技術的な利点
 
 1. 技術的な特典を利用して、クラウドおよびハイブリッドソリューションのプリセールス、設計、デプロイ、およびアプリの開発段階で技術的なサポートを依頼することができます。 サポートを要求するには、要求フォームに入力し、 **[要求の送信]** を選択します。
 
 2. Azure スポンサープラン特典を利用する方法は、これらの特典を解除するときに電子メールで共有されます。 
 
-## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>ダッシュボードにコマーシャル特典マーケットプレースプログラムが表示されないのはなぜですか。
+## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>ダッシュボードに商業市場の報奨プログラムが表示されないのはなぜですか。
 
-Marketplace の報酬情報は、パートナーセンターアカウントの作成に使用された Azure AD テナントと MPN ID を通じて入手できます。 このアカウントは、会社のパートナーグローバルアカウント (PGA) と呼ばれます。 AAD テナントが MPN オンボードに使用されているものと異なる場合、商業用の報奨マーケットプレースメニューを表示するには、それを会社の PGA に関連付ける必要があります。 
+Marketplace の報酬情報は、パートナーセンターアカウントの作成に使用された Azure AD テナントと MPN ID を通じて入手できます。 このアカウントは、会社のパートナーグローバルアカウント (PGA) と呼ばれます。 Azure AD テナントが MPN オンボードとは異なる場合、商用の報奨マーケットプレースメニューを表示するには、会社の PGA に関連付ける必要があります。 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Azure AD テナントを会社の PGA と関連付けるには
 

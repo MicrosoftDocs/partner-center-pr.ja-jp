@@ -1,7 +1,7 @@
 ---
 title: CSP 契約、価格表、およびキャンペーン | パートナー センター
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: この記事には、クラウド ソリューション プロバイダーのプログラム ガイド、パートナー契約、顧客契約、料金表、提供できる製品へのリンクがあります。
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP プログラム ガイド, プログラム ガイド, パートナー契約, 顧客契約, 料金表, キャンペーン
 ms.localizationpriority: high
-ms.openlocfilehash: 8c7543b00b45a2c690064b8b50caa4737ef5bb7d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 6a22599a986fed7e67b15a279ae8a2ddba598cec
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252127"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012110"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、プラン
 
@@ -40,12 +40,14 @@ ms.locfileid: "74252127"
 
 [オンライン サービスのサブスクリプションとソフトウェア チャネルの認証に関する追加のプラン使用条件ガイド](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 契約顧客用テンプレート
+## <a name="microsoft-customer-agreement-customer-templates"></a>Microsoft 顧客契約の顧客用テンプレート
 
-パートナーが顧客の代わりに注文する前に、顧客は該当する Microsoft Cloud 契約に同意して署名する必要があります。 Microsoft Cloud 契約は地域固有であり、複数の言語で利用できます。 Microsoft Cloud 契約の[顧客テンプレート](agreements.md)に移動し、新しい顧客と確認する必要がある Microsoft Cloud 契約を探します。
+パートナーが顧客の代わりに注文する前に、顧客は該当する Microsoft 顧客契約に同意して署名する必要があります。 Microsoft 顧客契約は地域によって異なります。 顧客の所在地に応じて正しい国を選択してください。
+
+最新バージョンの Microsoft 顧客契約テンプレートを手動でダウンロードするには、この [URL](https://aka.ms/customeragreement) を選択してください。
 
 >[!IMPORTANT]
->パートナーは、署名した人についての情報を提供することで、顧客が Microsoft Cloud 契約を受諾したことを確認する必要があります。 「[Microsoft Cloud 契約に関するお客様の同意を確認する](confirm-consent.md)」を参照してください 
+>パートナーは、顧客が Microsoft 顧客契約に同意していることを確認する必要があります。 確認は、顧客が契約に同意していることを証明するか、契約に直接同意するように顧客に要請することによって行えます。 「[Microsoft 顧客契約に対する顧客の同意を確認する](confirm-customer-agreement.md)」を参照してください。
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (ドイツ向け)
 
@@ -57,7 +59,7 @@ ms.locfileid: "74252127"
 
 [ドイツ向け、職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407) に関するページ
 
-## <a name="pricing"></a>価格設定
+## <a name="pricing"></a>料金
 
 ライセンスベース、使用量ベース、および 1 回限りの購入の料金設定は、いずれも**パートナー センター** メニューから **[価格およびプラン]** ページを表示してダウンロードできます。
 
