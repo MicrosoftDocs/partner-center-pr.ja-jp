@@ -1,30 +1,30 @@
 ---
 title: パートナー センター アカウントを作成する | パートナー センター
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 02/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Partner Network メンバーがネットワークの利点とコンピテンシーを管理してビジネス プロファイルを作成するには、パートナー センター アカウントを作成する必要があります。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 46a299f8e882f6f55d4f674c989446250c0c26d6
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 6e9a2adf925ae8fc9fca81be4bd87cf3064d18b6
+ms.sourcegitcommit: b706969f19a6d4ba1d9d9b8408abdd90591d81bd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096477"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77069698"
 ---
 # <a name="create-a-partner-center-account"></a>パートナー センター アカウントを作成する
 
 **適切なロール**
 
-- 全体管理者
+- グローバル管理者
 - 管理エージェント
 
-パートナー センターでアカウントを作成するには、貴社が Microsoft Partner Network のメンバーである必要があります。 メンバーでない場合は、[今すぐ登録](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)できます。  Microsoft Partner Network のメンバーシップについて詳しくは、[こちら](https://partner.microsoft.com/membership)をご覧ください。 パートナー センター アカウントを作成したら、こちらのビデオ「[ダッシュボードの検出](https://vimeo.com/290338211)」をご覧ください。
+パートナー センターでアカウントを作成するには、貴社が Microsoft Partner Network のメンバーである必要があります。 メンバーでない場合は、[今すぐ登録](https://partner.microsoft.com/commercial#)できます。 パートナー センター アカウントを作成したら、こちらのビデオ「[ダッシュボードの検出](https://vimeo.com/290338211)」をご覧ください。
 
-## <a name="before-you-begin"></a>始める前に
+## <a name="before-you-begin"></a>開始する前に
 
 パートナー センターでアカウントを作成するには、次の情報を入力する必要があります。 作業を開始する前に、これらの情報を手元に準備してください。
 
@@ -61,11 +61,11 @@ ms.locfileid: "74096477"
 
 5.  管理エージェント グループに追加されたことを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
-    a. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home**)で **[設定]** アイコンを選択し、 **[ユーザー管理]** を選択します。  
+    a。 パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home**)で **[設定]** アイコンを選択し、 **[ユーザー管理]** を選択します。  
 
     b. ユーザーの一覧から自分の名前を選び、 **[管理エージェント]** を選択します (まだ選択されていない場合)。 **[更新]** を選択します。  
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 -   [ユーザーの追加とアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)
 
