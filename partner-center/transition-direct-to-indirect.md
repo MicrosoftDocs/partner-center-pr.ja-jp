@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接請求, 移行, 間接リセラー
-ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
-ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
+ms.openlocfilehash: d02b6101384b6c9fae986bbe45ce4865fd450308
+ms.sourcegitcommit: b74437db6aead02c9be3b865d36086f750802041
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "77044740"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "77213340"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行 
 
@@ -137,7 +137,7 @@ ms.locfileid: "77044740"
 
 ## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>直接請求の顧客を間接プロバイダーに移動する
 
-間接プロバイダーは、既存の直接請求書のお客様に対して、再販業者との関係がない限り、注文や既存のサブスクリプションの譲渡を送信することはできません。 間接プロバイダーと既存の間接プロバイダーの間の再販業者関係を確立するには、次のいずれかの方法を使用できます。 
+間接プロバイダーは、販売店との関係がなければ、既存の直接請求先の顧客に対して注文や既存のサブスクリプション転送を送信することはできません。 間接プロバイダーと既存の直接請求顧客の間の再販業者の関係を確立するには、次のいずれかの方法を使用できます。 
 
 - [再販業者の関係拡張機能](#reseller-relationship-extension) 
 
@@ -160,7 +160,7 @@ ms.locfileid: "77044740"
 
 - 間接プロバイダーは、お客様のテナントに[代理管理特権](customers_revoke_admin_privileges.md)を付与されることはありません。 間接プロバイダーが代理管理特権を必要とする場合は、代わりに間接リセラーの招待を顧客に送信する必要があります。
 
-- リセラーとの関係が確立されると、M365 管理センターの [パートナー関係] ページで、間接プロバイダーが顧客に対して CSP パートナーとして表示され、[ビジネス Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)ます。
+- リセラーとの関係が確立されると、 [M365 管理センター](https://admin.microsoft.com/AdminPortal/Home#/partners)の [パートナー関係] ページで、間接プロバイダーが顧客に対して CSP パートナーとして表示され、[ビジネス Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)ます。
 
 >[!Note] 
 >混乱や誤解を避けるために、パートナー契約によって、パートナー契約によって、契約必要を使用して既存のものとの間に再販業者の関係を確立する前に、お客様に直接請求を通知し、同意を得ることができます。直接請求顧客と間接プロバイダー。 
@@ -197,6 +197,22 @@ ms.locfileid: "77044740"
 
 6. 顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、顧客の名前の下矢印を選んで、顧客のレコードを展開します。 
 
+### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft カスタマーアグリーメントへの同意
+
+Microsoft Cloud Agreement は、2020年1月31日まで有効です。 その後、すべてのお客様 (既存および新規) は、新しい[Microsoft カスタマー契約](https://docs.microsoft.com/partner-center/confirm-customer-agreement)に署名する必要があります。 お客様の移行の場合:
+
+- **お客様はまだ Microsoft カスタマーアグリーメントに同意していません**
+
+   間接プロバイダーと協力して、お客様が[Microsoft カスタマーアグリーメントに同意]( https://docs.microsoft.com/partner-center/confirm-customer-agreement)するようにしてください。
+
+- **お客様は、Microsoft 365 管理センターを通じて Microsoft カスタマーアグリーメントに同意しました**
+
+   間接プロバイダーとの再販業者の関係が確立されると、受け入れが維持されます。 何もする必要はありません。
+
+- **お客様がパートナーの構成証明を通じて Microsoft カスタマーアグリーメントに同意しました**
+
+   受け入れは保持されません。 [パートナーセンターでお客様の同意を更新するには、]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers)間接プロバイダーと協力してください。
+
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>既存の直接請求書のサブスクリプションを間接プロバイダーに転送する
 
 CSP 間接モデルでは、間接リセラーには Microsoft との請求関係がありません。 間接リセラーは、間接プロバイダーを通じて顧客のサブスクリプションを取得します。 ダイレクト請求パートナーから間接リセラーに移行している間は、直接請求パートナーとして所有している既存のサブスクリプションを間接プロバイダーに譲渡する必要があります。 パートナーセンターダッシュボードのセルフサービスサブスクリプション転送機能を使用して、これを行うことができます。 
@@ -208,6 +224,8 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 - この機能は、既存の直接請求パートナーテナントを使用して間接リセラーの登録を完了したパートナーを移行する場合にのみ使用できます。 
 
 - 特定の顧客に関連付けられているサブスクリプションを転送する前に、移行パートナーは顧客を間接プロバイダーに移動する必要があります。 
+
+- お客様は[間接プロバイダーを通じて Microsoft カスタマーアグリーメントに同意](#microsoft-customer-agreement-acceptance)しました。
  
 ### <a name="how-to"></a>方法
 
@@ -293,13 +311,15 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
  
 ### <a name="considerations"></a>考慮事項
 
+- **サブスクリプション ID は、転送後に異なります。** Azure サブスクリプション (0145P) の場合、さらに、azure サブスクリプション ID が付与されます。これは以前の所有者から保持され、Azure 管理ポータルに表示されます。
+
 - **複数の転送要求で同じサブスクリプションを参照することはできません。** 既存のサブスクリプションを含む転送要求を作成した後、最初の転送要求が取り消されるまで、同じサブスクリプションを含む追加の転送要求を作成することはできません。 
 
 - **座席ベースのサブスクリプションのアドオンは、基本サブスクリプションと共に転送する必要があります。** 転送要求を作成するときに、1つ以上のアドオンを含む既存のサブスクリプションを選択すると、そのアドオンは自動的に転送要求に含まれます。 
 
 - **サブスクリプションに対する接続クライアント数の変更は、既存の転送要求に反映されません。** 既存のサブスクリプションを含む譲渡要求を作成した後は、サブスクリプションの接続クライアント数 (または関連するアドオン) を更新しないようにしてください。 この場合、新しい数量は転送要求に反映されません。 間接プロバイダーが譲渡要求を受け入れると、結果として得られるサブスクリプションの数量が古いものになります。 新しい数量を間接プロバイダーに転送する場合は、既存の転送要求を取り消して新しい数量を再作成する必要があります。 
 
-- **セルフサービスサブスクリプション転送を使用して、すべての購入を転送できるわけではありません。** 現時点では、この機能を使用して、O365 サブスクリプションと Azure PAGY サブスクリプション (0145P) のみを転送できます。 Azure プラン、azure 予約インスタンス、用語ベースのサブスクリプション、Azure Marketplace の SaaS サブスクリプションなど、その他の購入はサポートされていません。 [転送要求の送信] ページでサブスクリプションを転送できない理由が表示されます。
+- **セルフサービスサブスクリプション転送を使用して、すべての購入を転送できるわけではありません。** 現時点では、この機能を使用して、O365 サブスクリプションと Azure PAGY サブスクリプション (0145P) のみを転送できます。 Azure プラン、azure 予約インスタンス、用語ベースのサブスクリプション、Azure Marketplace の SaaS サブスクリプションなど、その他の購入はサポートされていません。 [転送要求の送信] ページでサブスクリプションを転送できない理由が表示されます。 これらのサブスクリプションを譲渡するには、[既存のサブスクリプションをキャンセル](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription)し、間接プロバイダーを通じて顧客向けの新しいプランを購入する必要があります。
 
 - **サンドボックス環境を使用してテストすることはできません。** 
 
