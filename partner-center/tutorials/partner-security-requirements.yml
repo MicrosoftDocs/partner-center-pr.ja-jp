@@ -8,14 +8,14 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
-  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-  ms.translationtype: MT
+  ms.openlocfilehash: b3dc7dcbcea316500521071f332e7b7817bbcfb2
+  ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 10/16/2019
-  ms.locfileid: "72425211"
+  ms.lasthandoff: 02/21/2020
+  ms.locfileid: "77521035"
 items:
-- title: 概要
+- title: はじめに
   durationInMinutes: 5
   content: >
     お客様とパートナーのセキュリティとプライバシーは、Microsoft の最優先事項です。 主に侵害 ID に関連する、ますます高度になったセキュリティ攻撃の数が増え続けています。 予防的な制御は、セキュリティ攻撃を阻止するための全体的な防御戦略において重要な役割を果たすので、パートナーとその顧客を保護するために、一連の必須のセキュリティ要件の適用を開始します。
@@ -25,7 +25,7 @@ items:
 - title: パートナーのセキュリティ要件はどのようなものか
   durationInMinutes: 1
   content: >
-    クラウド ソリューション プロバイダー プログラムに参加しているすべてのパートナー、コントロール パネル ベンダー、およびアドバイザー パートナーは、パートナー テナント内の各ユーザーに対して Multi-Factor Authentication (MFA) を適用する必要があります。 これを行うには、2 つの [Azure Active Directory ベースライン ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)を有効にします。 ベースライン ポリシーは、一般的な数々の攻撃から組織を保護するうえで役立つ定義済みポリシー セットです。 これらの一般的な攻撃には、パスワードのスプレー、リプレイ、フィッシングなどがあります。 ベースライン ポリシーは、Azure Active Directory のすべてのエディションで使用できます。 ID ベースの攻撃がここ数年にわたって増加しているため、Microsoft はこれらのベースライン保護ポリシーをすべてのユーザーが利用できるようにしています。
+    クラウド ソリューション プロバイダー プログラムに参加しているすべてのパートナー、コントロール パネル ベンダー、およびアドバイザー パートナーは、パートナー テナント内の各ユーザーに対して Multi-Factor Authentication (MFA) を適用する必要があります。 この適用を行うには、2 つの [Azure Active Directory ベースライン ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)を有効にします。 ベースライン ポリシーは、一般的な数々の攻撃から組織を保護するうえで役立つ定義済みポリシー セットです。 これらの一般的な攻撃には、パスワードのスプレー、リプレイ、フィッシングなどがあります。 ベースライン ポリシーは、Azure Active Directory のすべてのエディションで使用できます。 ID ベースの攻撃がここ数年にわたって増加しているため、Microsoft はこれらのベースライン保護ポリシーをすべてのユーザーが利用できるようにしています。
 
 
     次の表では、有効にする必要がある 2 つのベースライン ポリシーについて説明します。
