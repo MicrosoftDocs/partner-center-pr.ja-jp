@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: 源泉徴収税クレジット、税金クレジット、ドイツの課税クレジット書
 ms.localizationpriority: medium
-ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
+ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521009"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "77618526"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>源泉徴収税の貸方をご確認ください
 
@@ -47,7 +47,7 @@ ms.locfileid: "77521009"
 ![請求書の税金源泉徴収の完全な詳細](images/wht2.png)
 
 6. [源泉**徴収の詳細**] に「源泉徴収合計」と入力します。 "源泉徴収合計" は、予想される金額です。
-7. 税証明書を**添付**します。 **源泉徴収税証明書**の**デジタルコピー**を税金源泉徴収要求に含める必要があります。 パートナーセンターで要求を送信したときに、この証明書をローカルの税機関から受信しました。 **税源泉徴収要求プロセス**を使用して、**英語以外の言語の税証明書**を送信する場合は、税証明書の**翻訳**を含める必要があります。 源泉徴収税証明書の請求書の課税額は、税金源泉徴収要求の合計金額と一致している必要があります。 
+7. 税証明書を**添付**します。 **源泉徴収税証明書**の**デジタルコピー**を税金源泉徴収要求に含める必要があります。 パートナーセンターで要求を送信したときに、この証明書をローカルの税機関から受信しました。 源泉徴収税証明書の請求書の課税額は、税金源泉徴収要求の合計金額と一致している必要があります。 
 
 > [!IMPORTANT]
 > パートナーが提供する合計金額は、接続されている税証明書の請求書の品目と一致している必要があります。
