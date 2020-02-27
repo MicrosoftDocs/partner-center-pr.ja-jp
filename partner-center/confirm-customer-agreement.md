@@ -1,7 +1,7 @@
 ---
 title: Microsoft 顧客契約へのお客様の同意を確認する | パートナー センター
 ms.topic: article
-ms.date: 02/04/2020
+ms.date: 02/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Microsoft 顧客契約に対する顧客の同意を確認する方法について説明します。 これは、顧客のために Microsoft の製品やサービスを注文するのに必要になる場合があります。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート
 ms.localizationpriority: high
-ms.openlocfilehash: c9445ae24de16d25cf887299521eef8d6d793c6f
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: e40272f40bb3aeb67d77fd9b5f122bd92a1384fb
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012181"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521025"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 顧客契約に対する顧客の同意を確認する
 
@@ -104,7 +104,7 @@ ms.locfileid: "77012181"
 
 5. **[保存]** を選択して続行します。
 
-![既存の顧客](images/mcua2.png)
+![既存の顧客](images/mcua2-update2.png)
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>お客様の同意の確認を取得する
 
@@ -125,6 +125,9 @@ ms.locfileid: "77012181"
 - リセラー関係とリセラー契約を確認して同意するよう新規の顧客に要請する
 
 - 契約を確認して同意するよう既存の顧客に要請する
+
+>[!NOTE]
+> [パートナー センター API/SDK](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) を使用して、Microsoft 顧客契約の顧客の直接同意の状況を確認できます。  
 
 ## <a name="create-a-net-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>新規の顧客を作成し、契約を確認して同意するよう顧客に要請する
 
