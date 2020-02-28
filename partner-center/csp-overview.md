@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナ, CSP での販売, 直接パートナー, CSP 直接パートナー, CSP 間接リセラー, 直接 CSP, 間接 CSP, 直接モデル, 間接モデル, 間接リセラー, 間接プロバイダー, プロバイダー, ディストリビューター, クラウド ソリューション プロバイダー プログラム
 ms.localizationpriority: medium
-ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 203168cd57724723261e661627343594a1e8be00
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252828"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672832"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 - CSP プログラムのパートナー
 
 クラウドソリューションプロバイダープログラム (CSP) を使用すると、お客様のビジネスにより多くの再販ライセンスを提供することができます。
@@ -42,7 +42,7 @@ ms.locfileid: "74252828"
 サポート
 - Microsoft Advanced Support for Partners パッケージによる、1 対 1 の優先順位の高いクラウド サポートを購入することで、パートナーのサポート機能を拡張します。 または、Microsoft Premier Support for Partners パッケージを選択して、プロアクティブ サービスを網羅したカタログ、24時間/365日の優先的な障害対応、クラウド、ハイブリッド、オンプレミスにまたがる技術アカウント管理にアクセスできます。 
 
-Services
+サービス
 
 - 1 つ以上のマネージ サービス、IP サービス、または顧客ソリューション アプリケーションを提供できることを示します。 マネージ サービスの追加の詳細
 
@@ -65,19 +65,19 @@ Services
 
 会社の場所によって市場が決まります。 市場には CSP のプランを販売できる地域や国が含まれます。 CSP のすべての市場と通貨の一覧については、「[クラウド ソリューション プロバイダー プログラムの地域市場および通貨](regional-authorization-overview.md)」を参照してください。
 
-顧客の代わりに CSP のプランを注文するには、事前に顧客が Microsoft Cloud 契約に署名する必要があります。 [こちらで](agreements.md)自分の顧客の所在地に適した Microsoft Cloud 契約を検索できます。  
+顧客に代わって CSP オファーを注文する前に、お客様は Microsoft カスタマー契約に署名する必要があります。 お客様の所在地に該当する Microsoft カスタマーアグリーメントを[ここで](agreements.md)見つけることができます。  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>CSP プログラムで販売できる製品またはサービス
 
 すべての [Microsoft クラウド サービス](https://partner.microsoft.com/cloud-solution-provider/products-and-services)と、その他のさまざまな製品またはサービス (頻繁に変更あり) を販売できます。 当月の CSP プランを確認するには、パートナー センターにサインインし、「[**料金とプラン**](https://partnercenter.microsoft.com/pcv/sales)」のページを参照してください。
 
-## <a name="see-also"></a>関連項目 
+## <a name="see-also"></a>参照 
 
 
 |**必要な情報**   |**参照先**   |
 |:---------------------------|:--------------------|
 |各 CSP モデルの要件   | [クラウド ソリューション プロバイダー プログラム](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Microsoft ナショナル クラウドでの販売   | [Microsoft ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)|
-|Microsoft Cloud 契約顧客用テンプレート   |[地域と言語別の Microsoft Cloud 契約](agreements.md)|
+|Microsoft 顧客契約の顧客用テンプレート   |[地域と言語別の Microsoft カスタマー契約](agreements.md)|
 |パートナー センターでの間接プロバイダーのタスク  |[クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携](indirect-provider-tasks-in-partner-center.md)|
 |パートナー センターでの間接リセラーのタスク   |[クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携](indirect-reseller-tasks-in-partner-center.md)|

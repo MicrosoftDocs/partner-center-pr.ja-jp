@@ -1,25 +1,25 @@
 ---
-title: Microsoft Cloud 契約に関するお客様の同意を確認する | パートナー センター
+title: Microsoft 顧客契約へのお客様の同意を確認する | パートナー センター
 ms.topic: article
 ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Microsoft Cloud 契約のお客様の同意を確認する方法について説明します。 これは、お客様に Microsoft 製品とサービスを注文するために必要になる場合があります。
+Description: Microsoft 顧客契約に対する顧客の同意を確認する方法について説明します。 これは、顧客のために Microsoft の製品やサービスを注文するのに必要になる場合があります。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 顧客, 顧客たち, 同意, MCA, Microsoft Cloud 契約, 顧客契約テンプレート
+keywords: 顧客、顧客、同意、MCA、Microsoft カスタマーアグリーメント、カスタマーアグリーメントテンプレート
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0478a2fe1aad8ba04e2ac51b9a85e94491627e2c
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722089"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672842"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Microsoft Cloud 契約に関するお客様の同意を確認する
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 顧客契約に対する顧客の同意を確認する
 
 **適用対象**
--  パートナー センター
+-  Partner Center
 
 **適切なロール**
 
@@ -33,11 +33,11 @@ ms.locfileid: "74722089"
 > * 米国政府機関向け Microsoft Cloud のパートナー センター
 
 >[!NOTE]
->この契約は、2020年1月31日まで有効です。 その後、すべてのお客様 (既存および新規) は、新しい Microsoft カスタマー契約に署名する必要があります。 詳細については、「 [Microsoft カスタマーアグリーメントに対する顧客の同意を確認](confirm-customer-agreement.md)する」を参照してください。
+>2020年1月31日の時点で、すべてのお客様 (既存および新規) は、新しい Microsoft カスタマー契約に署名する必要があります。 詳細については、「 [Microsoft カスタマーアグリーメントに対する顧客の同意を確認](confirm-customer-agreement.md)する」を参照してください。
 
-パートナーは、その顧客に対して Microsoft 製品とサービスを注文する前に、お客様の Microsoft Cloud 契約に同意する必要があります。 パートナーがコンプライアンス要件を満たすことができるように、マイクロソフトでは、パートナーに対して、契約に同意したユーザーに関する以下の詳細情報を提供することにより、同意を確認することを求めています。 
+パートナーは、その顧客に対して Microsoft 製品とサービスを注文する前に、お客様の Microsoft カスタマーアグリーメントへの同意を得る必要があります。 パートナーがコンプライアンス要件を満たすことができるように、マイクロソフトでは、パートナーに対して、契約に同意したユーザーに関する以下の詳細情報を提供することにより、同意を確認することを求めています。 
 
--   名
+-   ファースト ネーム
 
 -   姓
 
@@ -47,9 +47,9 @@ ms.locfileid: "74722089"
 
 -   同意の日付
 
-詳細については、[Microsoft Cloud 契約のお客様の同意確認に関してよく寄せられる質問](https://docs.microsoft.com/partner-center/confirm-consent-faq)を参照してください。
+詳細については、「Microsoft カスタマーアグリーメントのカスタマー同意確認に[関してよく寄せられる質問](https://docs.microsoft.com/partner-center/confirm-consent-faq)」を参照してください。
 
-直接請求パートナーと間接プロバイダーは、パートナー センターまたはパートナー センター API を介して取引するときに、Microsoft Cloud 契約に関するお客様の同意を確認する必要があります。 確認は*必須*です。
+ダイレクト請求パートナーと間接プロバイダーは、パートナーセンターまたはパートナーセンター API を使用してトランザクションを処理するときに、Microsoft カスタマーアグリーメントに対する顧客の同意を確認する必要があります。 確認は*必須*です。
 
 特定のお客様について確認が提供されていない場合:
 
@@ -79,7 +79,7 @@ ms.locfileid: "74722089"
 
 ![会社情報](images/mca/mca1.png)
 
-3. **[Microsoft Cloud 契約]** で **[The customer has accepted the latest Microsoft cloud agreement]** (顧客が最新の Microsoft Cloud 契約に同意済み) を選択します。
+3. **[Microsoft カスタマーアグリーメント]** で、 **[お客様が最新の microsoft カスタマー契約に同意しまし]** た を選択します。
 4. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
 5. 同意しているユーザーの詳細を入力します。
 
@@ -95,9 +95,9 @@ ms.locfileid: "74722089"
 
 1. **[顧客]** を選択し、表示するお客様を検索して選択します。
 2. **[アカウント情報]** を選択します。
-3. **[Microsoft Cloud 契約]** で **[更新]** を選択します。
+3. **[Microsoft カスタマーアグリーメント]** で、 **[更新]** を選択します。
 
-![[更新]](images/mca/mca4.png)
+![更新](images/mca/mca4.png)
 
 4. 契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
 5. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
@@ -117,4 +117,4 @@ ms.locfileid: "74722089"
 
 1. **[顧客]** を選択し、表示するお客様を検索して選択します。
 2. **[アカウント情報]** を選択します。
-3. **Microsoft cloud agreement**で、この顧客に対して確認が提供されているかどうかを確認します。
+3. **Microsoft カスタマーアグリーメント**で、この顧客に対して確認が提供されているかどうかを確認します。

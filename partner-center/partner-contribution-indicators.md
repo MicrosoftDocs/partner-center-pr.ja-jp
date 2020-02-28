@@ -11,18 +11,18 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e71d9c09e03c4464774fc80f0bd27af1dc82ea1
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716978"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672692"
 ---
 # <a name="partner-contribution-indicators"></a>パートナー貢献度インジケーター
 
 パートナー貢献指標 (PCI) は、お客様の成果を促進するためのパートナーの影響を包括的に測定します。そのため、パートナーがクラウド Business Applications コンピテンシーをとれして管理している場合は、市場において大きな違いをもたらします. パートナーは、デプロイの成功や使用量の増加など、顧客の成功の主要な指標に対するクレジットを受け取り、その技術的な機能に投資してスケールアウトすることができます。
 
-## <a name="scoring"></a>スコア付け
+## <a name="scoring"></a>ポイントの計算
 
 PCI は、パートナーの技術的な機能の高度で包括的なビューを提供し、顧客の成功を促進する機能と、その売上実績を実現します。 PCI は、7つの主要指標にわたって、会社の前年のパフォーマンスを測定します。
 
@@ -42,9 +42,9 @@ PCI は、パートナーの技術的な機能の高度で包括的なビュー�
 
 ![pci パフォーマンス](images/pci/perfnew.png)
 
-### <a name="thresholds"></a>［しきい値］
+### <a name="thresholds"></a>しきい値
 
-各 PCI メトリックには、パートナー企業が最大ポイントを獲得できるしきい値が Microsoft によって設定されてます。 これらのしきい値は、クラウド Business Applications コンピテンシーを実現するために、顧客エンゲージメントおよび財務 & 操作のパスによって異なります。 また、しきい値は、開発した市場で運用されているパートナーと、市場の開発でのみ動作するパートナーによって異なります。  国の開発または開発市場での分類は、 [Microsoft Partner Network の定義](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf)に基づいています。
+各 PCI メトリックには、パートナー企業が最大ポイントを獲得できるしきい値が Microsoft によって設定されてます。 これらのしきい値は、クラウド Business Applications コンピテンシーを実現するために、顧客エンゲージメントおよび財務 & 操作のパスによって異なります。 また、しきい値は、開発した市場で運用されているパートナーと、市場の開発でのみ動作するパートナーによって異なります。  国の開発または開発市場での分類は、 [Microsoft Partner Network の定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)に基づいています。
 
 各メトリックのポイントは、1か月に1回更新される顧客エンゲージメントおよび Finance & 操作に対して個別の PCI スコアを生成するために計算されます。
 
@@ -52,7 +52,7 @@ PCI は、パートナーの技術的な機能の高度で包括的なビュー�
 
 ![顧客エンゲージメント](images/pci/custengagethresh.png)
 
-![ファイナンス](images/pci/table_2.png
+![Finance](images/pci/table_2.png
 )
 
 ![コンサルタント](images/pci/table_3.png)
@@ -67,7 +67,7 @@ PCI は、パートナーの技術的な機能の高度で包括的なビュー�
 
 ![機能コンサルタント増加率 (Functional consultant growth)](images/pci/funcgrowth2.png)
 
-![開発者向け](images/pci/developers.png) 
+![Developers](images/pci/developers.png) 
 
 ![新規大規模展開数 (New large deployments)](images/pci/largedeploy.png) 
 
@@ -89,7 +89,7 @@ PCI は、パートナーの技術的な機能の高度で包括的なビュー�
 
 ![グラフを読む方法](images/pci/howto.png)
 
-## <a name="additional-resources"></a>その他の資料
+## <a name="additional-resources"></a>その他のリソース
 
 詳細なトレーニングビデオ、プレゼンテーション、Faq、およびファクトシートについては、[パートナー貢献指標のリソースコレクション](https://aka.ms/pcilearn)を参照してください。 
 

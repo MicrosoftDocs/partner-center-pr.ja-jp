@@ -8,12 +8,12 @@ description: 米国政府向け Microsoft Cloud 用のクラウドソリュー�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6aa9b3d3e4a6f73254ad0ea843a0f37be824f23d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 051e7dfabb8e29f3831ecfb2cc510e5057f062f8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253636"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672672"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問
 
@@ -37,11 +37,11 @@ Microsoft Cloud for US Government のクラウド ソリューション プロ�
 
 **顧客向けの価格設定は商用 CSP の場合と同じですか?**
 
-不可。 価格設定には、Microsoft Cloud for US Government で特別な価値を提供するための追加コストが反映されています。
+No: 価格設定には、Microsoft Cloud for US Government で特別な価値を提供するための追加コストが反映されています。
 
 **パートナー向けの割引モデルは同じですか?**
 
-可能。 米国政府機関向け Microsoft Cloud の CSP プログラムのパートナー割引モデルは、商用 CSP のパートナー割引モデルと同じです。
+はい。 米国政府機関向け Microsoft Cloud の CSP プログラムのパートナー割引モデルは、商用 CSP のパートナー割引モデルと同じです。
 
 **CSP コマーシャルは、既存のパートナープログラムです。Microsoft Government cloud の CSP プログラムはどのように異なりますか。**
 
@@ -71,13 +71,13 @@ MCRA によって、パートナーは CSP を使用して再販できます。 
 
 -   米国政府機関向けクラウドに関する補遺には、米国政府機関向けのクラウド サービスの取引に関するパートナーの追加の責任事項が含まれています。
 
--   追加条項 A には、CSP と顧客との間で締結される、米国政府機関向けのクラウド サービスのすべての契約に組み込む必要がある Microsoft Cloud 契約 (Microsoft Cloud 契約) が含まれています。
+-   には、CSP とその顧客の間に入力された米国政府機関向けのクラウドサービスのすべての契約に組み込む必要がある Microsoft カスタマーアグリーメント (Microsoft カスタマーアグリーメント) が含まれています。
 
-*MCRA の追加条項 A として表示される Microsoft Cloud 契約 (Microsoft Cloud 契約)*
+*MCRA に表示される microsoft カスタマーアグリーメント (Microsoft カスタマーアグリーメント)*
 
 CSP は、米国政府機関向け Microsoft Cloud を購入する顧客と CSP の間で締結される政府機関向けの契約に追加条項 A を組み込む必要があります。 この契約は、パートナー センターで公開され、英語で提供されています。
 
-米国政府機関向けクラウドに関する Microsoft Cloud 契約は、次の 2 つの点で、標準の Microsoft Cloud 契約と異なります。
+米国政府機関向け microsoft カスタマーアグリーメントは、次の2つの方法で標準の Microsoft カスタマーアグリーメントとは異なります。
 
 -   その顧客と共に CSP の契約に組み込む必要があります。
 
@@ -91,7 +91,7 @@ Microsoft Cloud ディストリビューター契約 (MCDA) は、販売代理�
 
 -   米国政府機関向け Microsoft Cloud に関する補遺には、米国政府機関向けのクラウド サービスの取引に関するパートナーの追加の責任事項が含まれています。
 
--   追加条項 A には、CSP と顧客との間で締結される、米国政府機関向けのクラウド サービスのすべての契約に組み込む必要がある Microsoft Cloud 契約 (Microsoft Cloud 契約) が含まれています。
+-   この製品には、CSP とその顧客の間に入力された米国政府機関向けのクラウドサービスのすべての契約に組み込む必要がある Microsoft カスタマーアグリーメント (Microsoft カスタマーアグリーメント) が含まれています。
 
 **Microsoft Cloud for US Government を販売するには、どのような資格条件が必要ですか?**
 
@@ -103,11 +103,11 @@ Microsoft Cloud ディストリビューター契約 (MCDA) は、販売代理�
 
 **パートナー インセンティブに違いはありますか?**
 
-不可。 Microsoft Cloud for US Government の CSP プログラムにおけるパートナー インセンティブは、商用 CSP の場合と同じです。 パートナー インセンティブの詳細については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/partner-incentives)を参照してください。
+No: Microsoft Cloud for US Government の CSP プログラムにおけるパートナー インセンティブは、商用 CSP の場合と同じです。 パートナー インセンティブの詳細については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/partner-incentives)を参照してください。
 
 **請求に関する変更はありますか?**
 
-不可。 Microsoft Cloud for US Government の CSP プログラムにおける請求条件および要件は、商用 CSP の場合と同じです。 請求に関する詳細については、[Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources) を参照してください。
+No: Microsoft Cloud for US Government の CSP プログラムにおける請求条件および要件は、商用 CSP の場合と同じです。 請求に関する詳細については、[Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources) を参照してください。
 
 **商用のデータセンターでホストされているデータについて、Microsoft Cloud for US Government に変更できますか?**
 

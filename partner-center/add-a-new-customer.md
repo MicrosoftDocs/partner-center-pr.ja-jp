@@ -1,5 +1,5 @@
 ---
-title: 新しい顧客を追加する | パートナー センター
+title: 新しい顧客の追加 | パートナー センター
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
@@ -10,25 +10,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 顧客, 顧客の追加, 顧客アカウント, パートナー センターの顧客アカウント, お客様, お客様の追加, 顧客アカウントの作成
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860443"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672712"
 ---
-# <a name="add-a-new-customer"></a>新しい顧客を追加する 
+# <a name="add-a-new-customer"></a>新しい顧客の追加 
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 - クラウド ソリューション プロバイダー プログラム パートナー
 
 **適切なロール**
 
-- グローバル管理
-- ユーザー管理の管理者
+- 全体管理者
+- ユーザー管理者
 - 管理エージェント
 - 販売代理店
 
@@ -42,10 +42,10 @@ ms.locfileid: "76860443"
 
 1. パートナーセンターのメニューから **[顧客]** を選択し、 **[顧客の追加]** を選びます。
 
-2. **[アカウント情報]** ページで、顧客の詳細と主要な連絡先情報を入力し、顧客が最新の [Microsoft Cloud 契約](agreements.md) を承諾して署名したことを確認します。
+2. **[アカウント情報]** ページで、顧客の詳細情報と主要連絡先情報を入力し、お客様が最新の[Microsoft カスタマーアグリーメント](agreements.md)に同意して署名していることを確認します。
 
 >[!IMPORTANT] 
-> マイクロソフトは、2019年10月1日に、Microsoft Cloud 契約を置き換えるために、CSP プログラムに**Microsoft カスタマー契約**を導入しました。 新しい契約へのパートナーの移行を促進するために、現在の Microsoft Cloud 契約は、2020 年 1 月 31 まで CSP プログラムでサポートされます。 [Microsoft カスタマー契約および同意を確認する方法](confirm-customer-agreement.md)については、こちらを参照してください。
+> 2019 年 10 月 1 日に、Microsoft Cloud 契約に置き換わるものとして、CPS プログラムに **Microsoft 顧客契約**が導入されました。 [Microsoft カスタマー契約および同意を確認する方法](confirm-customer-agreement.md)については、こちらを参照してください。
   
 3. 間接プロバイダーの場合は、この顧客のサブスクリプションに関連付ける間接リセラーを一覧から選択します。
 
@@ -60,7 +60,7 @@ ms.locfileid: "76860443"
 
 7. 顧客情報の追加が完了し、必要なサブスクリプションを購入したら、 **[完了]** を選択します。
 
-## <a name="see-also"></a>「
+## <a name="see-also"></a>参照
 
 - クラウド ソリューション プロバイダー プログラムで顧客に販売できるものについて詳しくは、「[クラウド ソリューション プロバイダー プログラムでのパートナー プラン](csp-offers.md)」をご覧ください。
 
