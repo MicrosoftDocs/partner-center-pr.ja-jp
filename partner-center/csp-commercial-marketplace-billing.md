@@ -9,18 +9,18 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: サブスクリプション, 製品, 購入, Marketplace, サードパーティ, ISV, 請求, 請求書, 調整, 偵察ファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: bc4dcca3d8c3d454a17eca676d5fadd1dac202d3
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 983cdfbe67b04205a6c863d92577225449572c52
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384909"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161448"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>商用 marketplace 製品の課金
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 - CSP プログラムのパートナー
 
 **適切なロール**
@@ -35,7 +35,7 @@ CSP プログラムのパートナーとして、パートナーセンターを�
 CSP プログラムのパートナーは、パートナーセンターまたは Azure portal (お客様が以前に購入した CSP に購入した Azure テナントを使用) から製品を購入した場合に、お客様が購入した ISV 商用 marketplace ソリューションに対して課金されます。
 
 >[!NOTE]
->お客様が独自の Azure AD テナント (CSP プログラムのパートナーから購入したものではない) を使用している場合、お客様は独自の ISV SaaS ソリューションを ([Microsoft AppSource](https://appsource.microsoft.com/)または[Azure Marketplace](https://azuremarketplace.microsoft.com/)) から直接購入することもできます。 その場合は、Microsoft から直接請求書を受け取ります。 同様に、CSP プログラムのパートナーが Azure AD テナントを顧客に販売し、そのテナントへの[ロールベースのアクセス権](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles)を顧客に付与した場合 (**閲覧**者以外のユーザーにロールを割り当てる場合)、その顧客は、事前の承認や CSP パートナーへの通知を行わずに、商用の marketplace プランを購入することもできます。 このような場合、マイクロソフトは、顧客が行った購入について、CSP プログラムに直接パートナーに通知しません。 ただし、Microsoft では、Azure サブスクリプションでのアクティビティに関するアラートまたは通知を設定するために使用できるオプションの[Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)メカニズムを提供しています。
+>お客様が独自の Azure AD テナント (CSP プログラムのパートナーから購入したものではない) を使用している場合、お客様は独自の ISV SaaS ソリューションを ([Microsoft AppSource](https://appsource.microsoft.com/)または[Azure Marketplace](https://azuremarketplace.microsoft.com/)) から直接購入することもできます。 その場合は、Microsoft から直接請求書を受け取ります。 同様に、CSP プログラムのパートナーが Azure サブスクリプションまたは新しい Azure プランを顧客に販売し、そのテナントへの[ロールベースのアクセス権](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles)を顧客に付与した場合 (**閲覧**者以外のユーザーにロールを割り当てる場合) は、事前の承認や CSP パートナーへの通知を行わずに、商用の marketplace プランを購入することもできます。 このような場合、マイクロソフトは、顧客が行った購入について、CSP プログラムに直接パートナーに通知しません。 ただし、Microsoft では、Azure サブスクリプションでのアクティビティに関するアラートまたは通知を設定するために使用できるオプションの[Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)メカニズムを提供しています。
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>商用 marketplace 製品の課金情報へのアクセス
 
