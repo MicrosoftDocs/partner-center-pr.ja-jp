@@ -1,7 +1,7 @@
 ---
 title: 商用 marketplace 製品の料金 |パートナーセンター
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 02/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンター内の商用マーケットプレースから購入した ISV SaaS 製品またはサブスクリプションの課金のしくみについて説明します。
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: サブスクリプション, 製品, 購入, Marketplace, サードパーティ, ISV, 請求, 請求書, 調整, 偵察ファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: 983cdfbe67b04205a6c863d92577225449572c52
-ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
+ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/28/2020
-ms.locfileid: "78161448"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240199"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>商用 marketplace 製品の課金
 
@@ -35,7 +35,7 @@ CSP プログラムのパートナーとして、パートナーセンターを�
 CSP プログラムのパートナーは、パートナーセンターまたは Azure portal (お客様が以前に購入した CSP に購入した Azure テナントを使用) から製品を購入した場合に、お客様が購入した ISV 商用 marketplace ソリューションに対して課金されます。
 
 >[!NOTE]
->お客様が独自の Azure AD テナント (CSP プログラムのパートナーから購入したものではない) を使用している場合、お客様は独自の ISV SaaS ソリューションを ([Microsoft AppSource](https://appsource.microsoft.com/)または[Azure Marketplace](https://azuremarketplace.microsoft.com/)) から直接購入することもできます。 その場合は、Microsoft から直接請求書を受け取ります。 同様に、CSP プログラムのパートナーが Azure サブスクリプションまたは新しい Azure プランを顧客に販売し、そのテナントへの[ロールベースのアクセス権](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles)を顧客に付与した場合 (**閲覧**者以外のユーザーにロールを割り当てる場合) は、事前の承認や CSP パートナーへの通知を行わずに、商用の marketplace プランを購入することもできます。 このような場合、マイクロソフトは、顧客が行った購入について、CSP プログラムに直接パートナーに通知しません。 ただし、Microsoft では、Azure サブスクリプションでのアクティビティに関するアラートまたは通知を設定するために使用できるオプションの[Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)メカニズムを提供しています。
+>お客様が独自の Azure AD テナント (CSP プログラムのパートナーから購入したものではない) を使用している場合、お客様は独自の ISV SaaS ソリューションを ([Microsoft AppSource](https://appsource.microsoft.com/)または[Azure Marketplace](https://azuremarketplace.microsoft.com/)) から直接購入することもできます。 その場合は、Microsoft から直接請求書を受け取ります。 同様に、CSP プログラムのパートナーが Azure サブスクリプションまたは新しい Azure プランを顧客に販売し、そのテナントへの[ロールベースのアクセス権](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles)を顧客 (または間接**リセラー) に**付与した場合、その顧客 (または間接リセラー) は、事前の承認または CSP パートナーへの通知を行わずに、商用の marketplace プランを購入できます。 このような場合、マイクロソフトは、顧客が行った購入について、CSP プログラムに直接パートナーに通知しません。 ただし、Microsoft では、Azure サブスクリプションでのアクティビティに関するアラートまたは通知を設定するために使用できるオプションの[Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)メカニズムを提供しています。
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>商用 marketplace 製品の課金情報へのアクセス
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN、マイクロソフト アクション パック、MAPS、コンピテンシーの更新、更新日
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: a4043209b701d4cf5f4fd475321b592edd7410f3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0495b519aeefbe927c43b48105c6672894fb46a2
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651961"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161436"
 ---
 # <a name="renew-your-mpn-offers"></a>MPN プランを更新する
 
@@ -39,6 +39,3 @@ ms.locfileid: "73651961"
 
 更新期間中に更新した場合、現在の締日から 365 日後が次の締め日(更新期限) になります。
 
-## <a name="manage-auto-renewal"></a>自動更新を管理する
-
-自動更新を有効にした場合、1 年が経過した翌日にクレジットカードに対して請求されます。 1 年が経過する前であれば、いつでも自動更新を無効にできます。

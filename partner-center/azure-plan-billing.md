@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521045"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240245"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP の新しいコマース エクスペリエンス - Azure の請求 
 
@@ -53,7 +53,7 @@ Azure プランの請求は、調整された 1 つの請求日とカレンダ�
 
 3. **定期的**および **1 回限り**と目的の通貨を示すタブを選択します。
 
-![請求](images/azure/billing1.png)
+![請求](images/azure/billing3.png)
 
 4. **請求書**または**調整ファイル**を選択します。  
 
