@@ -1,22 +1,22 @@
 ---
-title: Microsoft Cloud 契約顧客テンプレート | パートナー センター
+title: Microsoft 顧客契約の顧客用テンプレート | パートナー センター
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顧客と共に確認する、Microsoft Cloud 契約の地域や言語に固有のバージョンをどこから検索してダウンロードできるかについて説明します。
+description: 顧客と共に確認する、Microsoft 顧客契約の地域や言語に固有のバージョンをどこから検索してダウンロードできるかについて説明します。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Microsoft Cloud 契約, 顧客契約テンプレート, CSP 顧客契約, Microsoft Cloud 契約, MCA, CSP, CSP で販売できる国または地域, CSP の国または地域、CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南米, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
+keywords: Microsoft 顧客契約, 顧客契約テンプレート, CSP 顧客契約, Microsoft 顧客契約, MCA, CSP, CSP で販売できる国または地域, CSP の国または地域、CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南アメリカ, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
 ms.localizationpriority: high
-ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 9acf143bdbeeea29c7fc7ec71ca459c57b20e8ca
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722420"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672792"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>地域と言語別の Microsoft Cloud 契約
+# <a name="microsoft-customer-agreements-by-region-and-language"></a>地域と言語別の Microsoft 顧客契約
 
 **適用対象**
 
@@ -24,28 +24,28 @@ ms.locfileid: "74722420"
 
 **適切なロール**
 
-- 全体管理者
-- ユーザー管理者
+- グローバル管理者
+- ユーザー管理の管理者
 - 管理エージェント
 - 販売代理店
 - ヘルプデスク エージェント
 
-パートナーが顧客の代わりに注文する前に、顧客は Microsoft Cloud 契約に同意して署名する必要があります。
+パートナーが顧客の代わりに注文する前に、顧客は Microsoft 顧客契約に同意して署名する必要があります。
 
 >[!IMPORTANT]
-> 2018 年 11 月 7 日以降、パートナーは、署名した人についての情報を提供することで、顧客が Microsoft Cloud 契約を受諾したことを確認する必要があります。 詳しくは、「[Microsoft Cloud 契約に関するお客様の同意を確認する](confirm-consent.md)」を参照してください。
+> パートナーは、署名した人についての情報を提供することで、顧客が Microsoft 顧客契約を受諾したことを確認する必要があります。 詳しくは、「[Microsoft 顧客契約に関するお客様の同意を確認する](confirm-consent.md)」を参照してください。
 
-Microsoft Cloud 契約は地域固有であり、複数の言語で利用できます。 以下の一覧のいずれかで顧客の所在地と優先言語を検索し、適切な契約をダウンロードしてください。
+Microsoft 顧客契約は地域固有であり、複数の言語で利用できます。 以下の一覧のいずれかで顧客の所在地と優先言語を検索し、適切な契約をダウンロードしてください。
 
 販売できる地域と市場がわからない場合は、「[クラウド ソリューション プロバイダー プログラムの地域市場および通貨](regional-authorization-overview.md)」の一覧で自分の会社の所在地を検索してください。
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
 > [!NOTE]  
-> The Microsoft Cloud Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
+> The Microsoft Customer Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
 -->
 
-## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北米、中米、南米、カリブ諸国
+## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北米、中米、南アメリカ、カリブ諸国
 
 - 米領サモア: [英語](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 

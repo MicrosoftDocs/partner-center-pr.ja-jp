@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723449"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672802"
 ---
 # <a name="partner-security-requirements"></a>パートナーのセキュリティ要件
 
@@ -64,13 +64,21 @@ ms.locfileid: "76723449"
 
 ## <a name="security-defaults"></a>セキュリティの既定値
 
-- セキュリティの既定値は、ベースライン ポリシーに代わるものです。 
+セキュリティの既定値ポリシーは、パートナーが、ビジネス ニーズに応じてセキュリティ要件に MFA を実装するために選択することができる[オプション](#actions-that-you-need-to-take)の 1 つです。 基本レベルのセキュリティが追加料金なしで有効になります。 セキュリティの既定値を有効にする前に、Azure AD で組織の MFA を有効にする方法と、以下のキーに関する考慮事項を確認してください。
 
 - ベースライン ポリシーは、今後 2 か月維持された後、2020 年 2 月末に非推奨になります。
 
 - 既にベースライン ポリシーを採用しているパートナーは、セキュリティの既定に移行するための措置を講じる必要があります。
 
+- セキュリティの既定値は、プレビュー版のベースライン ポリシーに置き換わって一般提供されます。 セキュリティの既定値を有効にしたパートナーは、ベースライン ポリシーを有効にすることはできなくなります。
+
 - セキュリティの既定値を使用すると、すべてのポリシーが一度に有効になります。 
+
+- [条件付きアクセス](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)を使用しているパートナーの場合、[セキュリティの既定値は使用できません](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)。
+
+- 現時点では、パートナーに対してレガシ認証のブロックは強制されません。 ただし、侵害された ID に関連するほとんどのイベントは、従来の認証を使用したサインインの試行が原因であるため、パートナーにはこれらの古いプロトコルの利用を停止することをお勧めします。
+
+- Azure AD Connect の同期アカウントは、セキュリティの既定値から除外されます。
 
 - 詳細については、「[組織に対して Multi-Factor Authentication を有効にする](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started)」および[Azure Active Directory のセキュリティの既定値](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)に関する記事をご覧ください。
 
