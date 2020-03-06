@@ -1,7 +1,7 @@
 ---
 title: 新しい顧客の追加 | パートナー センター
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 03/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターで新しい顧客レコードを追加する方法について説明します。 その後、顧客のサブスクリプションを販売したり、請求を管理したり、カスタマーサポートを提供したりすることができます。
@@ -10,18 +10,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 顧客, 顧客の追加, 顧客アカウント, パートナー センターの顧客アカウント, お客様, お客様の追加, 顧客アカウントの作成
 ms.localizationpriority: medium
-ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672712"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340082"
 ---
 # <a name="add-a-new-customer"></a>新しい顧客の追加 
 
 **適用対象**
 
-- Partner Center
+- パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 - クラウド ソリューション プロバイダー プログラム パートナー
 
@@ -44,6 +44,15 @@ ms.locfileid: "77672712"
 
 2. **[アカウント情報]** ページで、顧客の詳細情報と主要連絡先情報を入力し、お客様が最新の[Microsoft カスタマーアグリーメント](agreements.md)に同意して署名していることを確認します。
 
+>[!NOTE]
+>
+>顧客認証中に正確さを確保するには、次のことを確認してください。
+>- 正式なドキュメントに記載されているとおり、正確な法的/公式名を使用します。
+>- 頭字語や短い形式を使用しない
+>- テスト名を使用しない
+>- 完全で正確な住所 (場所の詳細、市区町村、都道府県、国、郵便番号など) を入力します
+
+
 >[!IMPORTANT] 
 > 2019 年 10 月 1 日に、Microsoft Cloud 契約に置き換わるものとして、CPS プログラムに **Microsoft 顧客契約**が導入されました。 [Microsoft カスタマー契約および同意を確認する方法](confirm-customer-agreement.md)については、こちらを参照してください。
   
@@ -60,7 +69,7 @@ ms.locfileid: "77672712"
 
 7. 顧客情報の追加が完了し、必要なサブスクリプションを購入したら、 **[完了]** を選択します。
 
-## <a name="see-also"></a>参照
+## <a name="see-also"></a>関連項目
 
 - クラウド ソリューション プロバイダー プログラムで顧客に販売できるものについて詳しくは、「[クラウド ソリューション プロバイダー プログラムでのパートナー プラン](csp-offers.md)」をご覧ください。
 
