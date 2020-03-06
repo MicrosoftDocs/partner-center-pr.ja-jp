@@ -10,17 +10,17 @@ ms.author: v-mihope
 keywords: サブスクリプション、Marketplace、サードパーティ、ISV、SaaS プラン、クラウドソリューションプロバイダープログラム、プランの管理、サブスクリプションの管理、ライセンスの管理、サブスクリプションの取り消し、座席、自動更新の無効化、間接リセラーの MPN ID
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253810"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340210"
 ---
 # <a name="manage-commercial-marketplace-products-for-your-customers"></a>顧客向けの商用 marketplace 製品を管理する
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 - CSP プログラムのパートナー
 
 **適切なロール**
@@ -111,7 +111,7 @@ SaaS 商用 marketplace プランでは、顧客サブスクリプションの�
 
 また、パートナーセンター Api を使用して、ライフサイクル管理を実行し、サブスクリプションの請求書を管理することもできます。 詳細については、「[商用 marketplace 製品のサブスクリプションを作成する](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)」を参照してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ:
 
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)
 - [商用マーケットプレースでの課金についての詳細情報](csp-commercial-marketplace-billing.md)
