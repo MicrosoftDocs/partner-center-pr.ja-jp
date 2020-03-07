@@ -10,17 +10,17 @@ ms.author: v-mihope
 keywords: サブスクリプション、marketplace、商業市場、サードパーティ、ISV、SaaS プラン、クラウドソリューションプロバイダープログラム、CSP プログラム、CSP パートナー
 ms.localizationpriority: medium
 ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253720"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340151"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>商用マーケットプレースでのプランと価格の検出
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 - CSP プログラムのパートナー
 
 **適切なロール**
@@ -105,6 +105,6 @@ Isv は、CSP プログラムの特定のパートナーだけがオファーを
 
 Marketplace での CSP エクスペリエンスの詳細については、「[コマーシャルマーケットプレースの概要」](csp-commercial-marketplace-overview.md)を参照してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ:
 
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)
