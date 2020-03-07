@@ -8,13 +8,13 @@ description: クラウドソリューションプロバイダープログラム�
 author: LauraBrenner
 ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナ, CSP での販売, 直接パートナー, CSP 直接パートナー, CSP 間接リセラー, 直接 CSP, 間接 CSP, 直接モデル, 間接モデル, 間接リセラー, 間接プロバイダー, プロバイダー, ディストリビューター, クラウド ソリューション プロバイダー プログラム
-ms.localizationpriority: medium
-ms.openlocfilehash: 203168cd57724723261e661627343594a1e8be00
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.localizationpriority: high
+ms.openlocfilehash: 92e2bda54427cb0323df20b0dc1195791e1292ae
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672832"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340230"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>クラウド ソリューション プロバイダー プログラム - 需要に基づくクラウド ソリューションの販売 
 
@@ -78,6 +78,6 @@ ms.locfileid: "77672832"
 |:---------------------------|:--------------------|
 |各 CSP モデルの要件   | [クラウド ソリューション プロバイダー プログラム](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Microsoft ナショナル クラウドでの販売   | [Microsoft ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)|
-|Microsoft 顧客契約の顧客用テンプレート   |[地域と言語別の Microsoft カスタマー契約](agreements.md)|
+|Microsoft 顧客契約の顧客用テンプレート   |[地域と言語別の Microsoft 顧客契約](agreements.md)|
 |パートナー センターでの間接プロバイダーのタスク  |[クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携](indirect-provider-tasks-in-partner-center.md)|
 |パートナー センターでの間接リセラーのタスク   |[クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携](indirect-reseller-tasks-in-partner-center.md)|
