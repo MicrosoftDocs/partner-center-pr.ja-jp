@@ -11,17 +11,17 @@ ms.author: labrenne
 Keywords: サブスクリプション、新規作成、サブスクリプションの追加、中断、キャンセル、中断、中断、SaaS、ライセンス、ISV、サードパーティ
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721719"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340152"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
 **適用対象**
 
--  パートナー センター
+-  Partner Center
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 -  CSP パートナー
 
@@ -29,7 +29,7 @@ ms.locfileid: "74721719"
 
 - 管理エージェント
 - 課金の管理
-- グローバル管理
+- 全体管理者
 - ヘルプデスク エージェント
 - 販売代理店
 
@@ -78,9 +78,9 @@ CSP プログラムのパートナーは、パートナーセンター内の ISV
 
 ## <a name="suspend-or-cancel-a-subscription"></a>サブスクリプションを中断または取り消す
 
-顧客から要請があった場合や、未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断またはキャンセルできます。
+顧客から要請があった場合、または未払いや詐欺が発生した場合、パートナーはサブスクリプションを中断するか取り消すことができます。
 
-### <a name="suspend-a-subscription"></a>サブスクリプションを中断する
+### <a name="suspend-a-subscription"></a>サブスクリプションの中断
 
 サブスクリプションの状態を **[中断]** に変更すると、ユーザーはサインインしたり、サービスにアクセスしたりできなくなります。
 
@@ -150,9 +150,9 @@ ISV 発行元からライセンスベースの SaaS サブスクリプション�
 
 5. サブスクリプションの詳細 ページで、**状態** セクションを見つけて、**自動更新** ボックスをオフにします。 
 
-6. **[送信]** を選びます。
+6. **[送信]** を選択します。
 
-## <a name="see-also"></a>関連項目
+## <a name="see-also"></a>参照
 
 - [顧客向けの商用 marketplace 製品を購入する](csp-commercial-marketplace-purchase.md)
 - [顧客向けの商用 marketplace 製品を管理する](csp-commercial-marketplace-manage.md)
