@@ -142,6 +142,7 @@
 ### [Azure プランを購入する](purchase-azure-plan.md)
 ### [Azure オファーを比較する](compare-azure-offers.md)
 ### [顧客の Azure プランへの移行](azure-plan-transition.md)
+### [Azure CSP で利用可能な Azure サービス](azure-plan-available.md)
 ### [パートナー獲得クレジット - 概要](partner-earned-credit.md)
 ### [パートナー獲得クレジットの計算方法と支払方法](partner-earned-credit-explanation.md)
 ### [CSP の新しいコマース エクスペリエンス - Azure の請求](azure-plan-billing.md) 
