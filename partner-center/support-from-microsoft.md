@@ -1,40 +1,39 @@
 ---
-title: Microsoft によるサポート | パートナー センター
+title: マイクロソフトによるサポート | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft サービスやパートナー センターに関する問題が発生した場合は、Microsoft にエスカレートしてサポートを依頼し、問題が解決されるまで追跡できます。
+description: Microsoft サービスやパートナー センターで問題が発生した場合は、マイクロソフトにエスカレートしてサポートを依頼し、解決まで問題を追跡できます。
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
-author: MaggiePucciEvans
-ms.author: evansma
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: acc7d380ce5323c9d85859a5aa766c3c166622dc
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0a8bd33806e8b741539060204cda17bf7ddfc975
+ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651569"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "79023464"
 ---
 # <a name="support-from-microsoft"></a>Microsoft によるサポート
 
 **適用対象**
 
--  パートナー センター
+-  Partner Center
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 
 Microsoft サービスやパートナー センターで問題が発生した場合は、Microsoft にエスカレートしてサポートを依頼し、解決まで問題を追跡できます。
 
-[サービスの正常性の確認](check-service-health.md)
+[パートナーセンターのサポート](report-problems-with-partner-center.md)-すべてのパートナーセンタープログラムのヘルプを取得し、チケットを作成します。
 
-[パートナー センターに関する問題を報告する](report-problems-with-partner-center.md)
+[お客](report-problems-on-behalf-of-a-customer.md)様に代わってサポート: お客様の支援を受け、問題を報告します。
 
-[顧客の代理で問題を報告する](report-problems-on-behalf-of-a-customer.md)
+[サービスの正常性を確認](check-service-health.md)する-パートナーセンターで現在認識されているサービス停止があるかどうかを確認します。
 
-[Microsoft の API で自動サービス通知を取得する](get-automated-service-notifications-with-our-apis.md)
+[Api を使用して自動化されたサービス通知を取得](get-automated-service-notifications-with-our-apis.md)する-クラウドソリューションプロバイダーは、お客様のサービスに対して自動サービス通知を取得できます。
 
-[Microsoft 特典サポート](https://partner.microsoft.com/support/contact-support)
 
  
 
