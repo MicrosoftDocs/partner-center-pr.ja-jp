@@ -1,29 +1,29 @@
 ---
-title: Microsoft Learn の MCP ID をパートナーセンターアカウントに関連付ける |パートナーセンター
+title: Microsoft Learn MCP ID をパートナー センター アカウントに関連付ける | パートナー センター
 ms.topic: article
 ms.date: 10/04/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: お客様の MCP ID をパートナーセンターアカウントに関連付ける方法について説明します。これにより、コンピテンシーに対して行ったトレーニングとラーニングのパスを会社が見ることができるようになります。
+description: コンピテンシー取得のために実行したトレーニングおよびラーニング パスを会社が確認できるように、MCP ID をパートナー センター アカウントに関連付ける方法について説明します。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: ロール、アクセス許可、ユーザーの追加、ロールの割り当て、管理、エージェント、MCP ID、Microsoft Learn
-ms.localizationpriority: medium
-ms.openlocfilehash: 0457974ff283e8e21a717ca8a0beedf8ce16fa54
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+Keywords: ロール, アクセス許可, ユーザーの追加, ロールの割り当て, 管理者, エージェント, MCP ID, Microsoft Learn
+ms.localizationpriority: high
+ms.openlocfilehash: b3f263aff2b2fcbc25ff7a348e137fc15c10157d
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004281"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340170"
 ---
-# <a name="associate-your-microsoft-learn-account-in-partner-center"></a>パートナーセンターで Microsoft Learn アカウントを関連付ける
+# <a name="associate-your-microsoft-learn-account-in-partner-center"></a>パートナー センターでの Microsoft Learn アカウントの関連付け
 
 **適切なロール**
--   グローバル管理
+-   グローバル管理者
 -   ユーザー管理者
 
-コンピテンシーに対して行ったトレーニングとラーニングのパスを会社で確認できるようにするには、MCP ID をパートナーセンターアカウントに関連付ける必要があります。 この操作は、パートナーセンターのユーザーとして追加した後に手動で行います。
+コンピテンシー取得のために実行したトレーニングおよびラーニング パスを会社が確認できるようにするには、MCP ID をパートナー センター アカウントに関連付ける必要があります。 これは、パートナー センターのユーザーとして追加された後に手動で行うことができます。
 
 ### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>MCP ID をパートナー センター アカウントに関連付ける方法
 

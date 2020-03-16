@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: CSP プログラムで直接パートナーである場合は、更新されたサポートとサービスの要件とそれらを満たす方法について学習できます。
+Description: CSP プログラムの直接パートナーである場合は、更新されたサポートとサービスの要件、およびそれらを満たす方法について学習できます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, 直接パートナー, 直接請求, 要件
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
-ms.translationtype: MT
+ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860464"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340107"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>CSP の直接請求パートナーの新しい要件
 
@@ -33,7 +33,7 @@ ms.locfileid: "76860464"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |事業拠点で有効な Microsoft Partner Network (MPN) ID。    |
 |**保証**   |組織を代表して契約書に同意して署名するための権限。|
-|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br> 重要: サポートプランを購入する前に、クレジットを確認する必要があります。 与信審査に合格したら、メールでご連絡します。 |
+|**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br> 重要:サポート プランを購入する前に、与信審査に合格する必要があります。 与信審査に合格したら、メールでご連絡します。 |
 |**マネージド サービス**   |少なくとも 1 つの管理されたサービス、IP サービス、または顧客ソリューション アプリケーション。 [管理されたサービス](https://partner.microsoft.com/business-opportunities/managed-services-provider)の追加に関する詳細をご覧ください。|
 |**売掛金勘定** |顧客の請求とプロビジョニングを管理するための組織のインフラストラクチャ。
 
@@ -50,11 +50,11 @@ ms.locfileid: "76860464"
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>直接リセラーから間接リセラーに移行する
 
-現在の直接請求パートナーは、CSP direct bill パートナープログラムに残すための新しい要件を満たす必要があります。 そうしないと、[直接請求の機能へのアクセスが最終的に制限され](restricted-direct-bill-capabilities.md)、顧客に対して新しい購入を行うなど、特定のタスクを実行できなくなります。 
+現在の直接請求パートナーは、CSP 直接請求パートナー プログラムに残るには新しい要件を満たす必要があります。 そうしないと、[直接請求機能へのアクセス権が最終的に制限され](restricted-direct-bill-capabilities.md)、特定のタスク (その顧客についての新しい購入の実行など) を実行できなくなります。 
 
 直接請求ビジネスから間接リセラー ビジネスに移ることを決めた場合、いくつかの手順を実行する必要があります。 移行について詳しくは、「[クラウド ソリューション プロバイダー (CSP) の直接パートナーから CSP 間接リセラーへの移行](transition-direct-to-indirect.md)」をご覧ください。 
 
-## <a name="see-also"></a>「
+## <a name="see-also"></a>関連項目
 
 - [間接リセラーになることについての追加情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [直接請求リセラーから間接リセラーへの移行に関する FAQ](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

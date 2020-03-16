@@ -4,24 +4,24 @@ ms.topic: article
 ms.date: 03/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: MPN ID がインセンティブプログラム、CSP ビジネス、サブスクリプション、およびその他のトランザクションでどのように使用されるかについて説明します。
+description: MPN ID がインセンティブ プログラム、CSP ビジネス、サブスクリプションなどのトランザクションで使用される方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: パートナー アカウント, 場所
-ms.localizationpriority: medium
-ms.openlocfilehash: 28c5134251eef06194b8c5ee34fcf440c2224839
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: e1f7c6732b2945d50b241764d1cf78ae6631152b
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004701"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340130"
 ---
-# <a name="manage-your-partner-account-locations"></a>パートナーアカウントの管理: 場所
+# <a name="manage-your-partner-account-locations"></a>パートナー アカウントを管理する: 場所
 
 **適切なロール**
--   グローバル管理
+-   グローバル管理者
 -   ユーザー管理者
--   課金の管理
+-   課金管理者
 -   管理エージェント
 -   販売代理店
 
@@ -45,19 +45,19 @@ ms.locfileid: "75004701"
 
 4. **[Add a location]\(場所の追加\)** ページで、会社に追加する場所の住所の詳細と、その場所の主要な連絡先を挿入します。
 
-注: パートナーセンターで場所を追加すると、その場所を削除することはできません。
+注: パートナー センターで追加した場所は削除できません。
 
-**法務本社の所在地を変更する**
+**法的な本社の場所を変更する**
 
-1. **[場所]** ページで、場所の一覧を確認して、目的の場所が表示されていることを確認します。 ない場合は、追加します。
+1. **[場所]** ページで場所の一覧を確認して、法人にしようとしている場所が一覧表示されていることを確認します。 ない場合は、追加します。
 
-![勤務先の更新](images/updatepartnerprofile2.png)
+![事業拠点を更新する](images/updatepartnerprofile2.png)
 
-2. **[パートナープロファイル]** を選択し、 **[法的ビジネスプロファイルの更新]** を選択します。
+2. **[パートナー プロファイル]** を選択してから、 **[Update legal business profile] (法的ビジネス プロファイルの更新)** を選択します。
 
-![勤務先の更新](images/updatepartnerprofile1.png)
+![事業拠点を更新する](images/updatepartnerprofile1.png)
 
-3. 地域と法人を選択して**送信**します。
+3. 地域と法人を選択し、その **[送信]** を実行します。
 
-![勤務先の更新](images/updatepartnerprofile3.png)
+![事業拠点を更新する](images/updatepartnerprofile3.png)
 
