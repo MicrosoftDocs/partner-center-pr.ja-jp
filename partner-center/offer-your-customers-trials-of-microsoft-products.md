@@ -1,29 +1,29 @@
 ---
 title: Microsoft 製品の試用版を顧客に提供する | パートナー センター
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客は、Microsoft サブスクリプション製品を 30 日間テストすることができます。 他の多くのオンラインサービスと同様に、カタログでこれらの試用版にサインアップします。
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
-ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
+ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185542"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112461"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Microsoft 製品の試用版を顧客に提供する
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 
 **適切なロール**
--   グローバル管理 
+-   全体管理者 
 -   ユーザー管理者
 -   販売代理店
 
@@ -90,6 +90,17 @@ ms.locfileid: "75185542"
 
 - [試用版サブスクリプションを有料版に変換する](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [試用版の変換プランの一覧を取得する](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+
+### <a name="trials-without-conversions"></a>変換のない試用
+
+すべての試用版を有料サブスクリプションに変換することはできません。 パートナーは、有効期限まで変換されない試用版を使用できます。 パートナーは、試用版と同じサービスをサポートする互換性のあるプランを購入できます。  これは、試用期間が終了する前に実行する必要があります。これにより、新しく購入したプランのサービスが試用版のサービスに適合するようになります。 
+
+|**サブスクリプション**   |**互換性のあるスモールビジネスプラン**   |**互換性のあるエンタープライズプラン**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|Microsoft Teams コマーシャルクラウド (ユーザーが開始) 試用版   |Business Essentials、Business Premium、M365 Business   | F3 (旧称 F1)、Office 365 for Enterprise (E1、E3、E5)、M365 F1/F3、M365 Enterprise (E3)   |
+
+>[!Note] 
+>上記のプランには同様の機能を備えた同様のサービスプランがありますが、プランにはいくつかの違いがある場合があります。 
 
 ### <a name="expiring-offers"></a>期限切れのプラン
 

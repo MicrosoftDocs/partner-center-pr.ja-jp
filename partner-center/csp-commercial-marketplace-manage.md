@@ -10,11 +10,11 @@ ms.author: v-mihope
 keywords: サブスクリプション、Marketplace、サードパーティ、ISV、SaaS プラン、クラウドソリューションプロバイダープログラム、プランの管理、サブスクリプションの管理、ライセンスの管理、サブスクリプションの取り消し、座席、自動更新の無効化、間接リセラーの MPN ID
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340210"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114954"
 ---
 # <a name="manage-commercial-marketplace-products-for-your-customers"></a>顧客向けの商用 marketplace 製品を管理する
 

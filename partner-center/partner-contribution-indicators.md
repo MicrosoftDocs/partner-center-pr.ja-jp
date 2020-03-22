@@ -11,25 +11,25 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: b9892c1a1f46450b0ea8def1b10dba104c5cb1b0
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672692"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112451"
 ---
 # <a name="partner-contribution-indicators"></a>パートナー貢献度インジケーター
 
 パートナー貢献指標 (PCI) は、お客様の成果を促進するためのパートナーの影響を包括的に測定します。そのため、パートナーがクラウド Business Applications コンピテンシーをとれして管理している場合は、市場において大きな違いをもたらします. パートナーは、デプロイの成功や使用量の増加など、顧客の成功の主要な指標に対するクレジットを受け取り、その技術的な機能に投資してスケールアウトすることができます。
 
-## <a name="scoring"></a>ポイントの計算
+## <a name="scoring"></a>スコア付け
 
 PCI は、パートナーの技術的な機能の高度で包括的なビューを提供し、顧客の成功を促進する機能と、その売上実績を実現します。 PCI は、7つの主要指標にわたって、会社の前年のパフォーマンスを測定します。
 
 1. **純利益**: Microsoft Dynamics 365 製品のすべての販売チャネルにおける新しい収益。
 2. **Net customer**は、すべての販売チャネルで Dynamics 365 を獲得した net 顧客を追加します。
 3. **機能コンサルタント**: 現在アクティブな機能コンサルタントを持つユーザーの数によって、Dynamics 365 の認定が関連付けられます。
-4. **機能コンサルタントの成長**: 2020 年3月31日以降、機能コンサルタントの数が増加します。
+4. **機能コンサルタントの成長**—機能コンサルタントの数の増加。
 5. **開発者**—現在アクティブな開発者を持つユーザーの数は、Dynamics 365 の認定を関連付けます。
 6. **新しい大規模なデプロイ**—過去12か月間にわたって高使用率のしきい値を超える運用テナントの数。
 7. **月ごとのアクティブなユーザーの成長**-過去12か月間のすべての顧客にわたる月ごとのアクティブなユーザーの成長。

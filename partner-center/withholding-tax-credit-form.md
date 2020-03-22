@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: 源泉徴収税クレジット、税金クレジット、ドイツの課税クレジット書
 ms.localizationpriority: medium
-ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: ea99adb0bc2b9e010290ce7a74afe07c8b111888
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240229"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112471"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>源泉徴収税の貸方をご確認ください
 
@@ -30,6 +30,9 @@ ms.locfileid: "78240229"
 一部の国の CSP パートナーは、税金を含む請求金額を受け取ります。 これらのパートナーの一部は、Microsoft ではなく、現地の税務当局に請求します。 これらのパートナーは、税金証明書を含む税金源泉徴収要求を送信して、前の請求書から課税額をクリアする必要があります。 これらのクリアされた金額は、それ以降の毎月の請求書にクレジットとして表示されるので、パートナーはマイクロソフトの未払い額を支払うことができなくなります。
 
 2020年1月以降、CSP パートナーは、サポート要求を作成する代わりに、**課金ページ**で税金源泉徴収要求を送信する必要があります。 課金ページで要求を送信するには、CSP パートナーが**パートナーセンター**にアクセスし、左側のナビゲーションで **[課金]** を選択する必要があります。 **請求書ページ**は、税金源泉徴収要求を送信するための新しい場所です。 
+
+> [!IMPORTANT]
+> パートナーは、**支払い**済みの請求書に対してのみ、源泉徴収税要求を送信できます。
 
 ### <a name="submit-a-new-tax-withholding-request"></a>新しい税源泉徴収要求を送信します
 

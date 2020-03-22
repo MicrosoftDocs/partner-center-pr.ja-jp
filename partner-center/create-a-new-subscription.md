@@ -11,11 +11,11 @@ ms.author: labrenne
 Keywords: サブスクリプション、新規作成、サブスクリプションの追加、中断、キャンセル、中断、中断、SaaS、ライセンス、ISV、サードパーティ
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340152"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114994"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
