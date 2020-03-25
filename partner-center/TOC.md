@@ -162,6 +162,7 @@
 ### [ライセンスベース サービスの顧客をクラウド サービス プロバイダー プログラムに移動する](transition-seat-based-services.md)
 ### [Minecraft の販売:Education Edition のサブスクリプション](minecraft-subscriptions.md)
 ### [特別価格の対象となる業界への販売](Get-special-pricing-for-offers.md)
+### [教育機関のお客様への販売](sell-to-education-customers.md)
 ### [導入実績と満足度の向上](increasing-adoption-and-satisfaction.md)
 ### [Windows Autopilot でデバイスのセットアップを効率化する](autopilot.md)
 ##  製品を新しいバージョンにアップグレードまたは転送する
