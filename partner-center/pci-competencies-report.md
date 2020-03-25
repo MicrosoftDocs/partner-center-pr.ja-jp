@@ -1,32 +1,32 @@
 ---
 title: パートナーセンターの洞察-コンピテンシーレポート |パートナーセンター
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft のソリューションの提供に役立つ Microsoft のコンピテンシー、コンピテンシーレベル、特典について、お客様が何をしているかをご確認ください。
+description: Microsoft のソリューションを提供するうえで役立つ Microsoft のコンピテンシー、コンピテンシーレベル、およびプランに関して、お客様が何をしているかをご確認ください。
 ms.assetid: ''
 keywords: PCI、パフォーマンス、測定、お客様の成功、コンピテンシー、利点、分析、レポート
 author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9b395e67848bca73d0fe65073562c2478ced304
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648093"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226188"
 ---
 # <a name="competencies-report"></a>コンピテンシーレポート
 
 **適切なロール**
-- グローバル管理
+- 全体管理者
 - 管理エージェント
 - レポート ビューア
 - エグゼクティブレポートビューアー
 
-コンピテンシーを使用すると、会社は Microsoft のソリューションを提供する技術的機能をデモンストレーションできます。 Microsoft のコンピテンシーは、お客様のニーズを満たすように設計されており、お客様の専門知識をお客様に提供します。 Azure の使用量、O365 などのクラウド製品の権利、テクニカルサポート、市場開拓 (GTM) の特典など、Microsoft の豊富な特典が提供されます。現在、**アプリとインフラストラクチャ**、**ビジネスアプリケーション**、**データと AI** 、**現代のワークプレース**の各カテゴリで、合計19個のコンピテンシーがあります。 コンピテンシーはシルバーまたはゴールドレベルに階層化されています。たとえば、Gold コンピテンシーの高い棒と、関連する高いレベルの特典があります。  
+コンピテンシーを使用すると、会社は Microsoft のソリューションを提供する技術的機能をデモンストレーションできます。 Microsoft のコンピテンシーは、お客様のニーズを満たすように設計されており、お客様の専門知識をお客様に提供します。 これには、Azure の消費量、O365 などのクラウド製品の権利、テクニカルサポート、市場投入プランなど、Microsoft の豊富な特典が付属しています。現在、**アプリとインフラストラクチャ**、**ビジネスアプリケーション**、**データと AI** 、**現代のワークプレース**の各カテゴリで、合計19個のコンピテンシーがあります。 コンピテンシーは、たとえば、シルバーレベルまたはゴールドレベルに階層化されます。 Gold コンピテンシーと、関連する上位レベルのマーケティングリソース、プラン、およびプログラムについては、より高いバーが用意されています。  
 
 **コンピテンシーのライフサイクル**
 

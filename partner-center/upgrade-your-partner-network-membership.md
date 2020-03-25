@@ -1,7 +1,7 @@
 ---
 title: Microsoft Partner Network メンバーシップのアップグレード | パートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: MPN のメンバーシップを Microsoft Action Pack サブスクリプションのメンバーシップまたは Microsoft コンピテンシーにアップグレードすることで、排他的な特典をご利用ください。
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943405"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226149"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 
@@ -22,20 +22,19 @@ ms.locfileid: "74943405"
 
 -  パートナー センター
 
-Microsoft のパートナープログラムでは、次の3つのメンバーシップオプションが提供されており、ビジネス目標の達成に役立つ増分のメリットがあります。
+Microsoft のパートナープログラムは、次の3つのメンバーシップオプションを提供しています。これには、ビジネス目標を達成するのに役立つ、段階的な特典とマーケティングリソース、プラン、およびプログラムが含まれています。
 
-- **ネットワーク メンバーシップ。** 基本のメンバーシップ レベルです。トレーニング、サポート、顧客との関係構築のための基本レベルの特典が提供されます。 メンバーシップをアップグレードするには、ネットワーク メンバーである必要があります。
+- **ネットワーク メンバーシップ。** コアメンバーシップレベル。トレーニング、サポート、顧客接続のためのエントリレベルのマーケティングリソースを提供します。 メンバーシップをアップグレードするには、ネットワーク メンバーである必要があります。
 
-- **Microsoft Action Pack サブスクリプション メンバーシップ。** 中小規模のパートナー企業向けの手頃な価格の年間サブスクリプションです。 基本のネットワーク メンバーシップで付与される基本レベルの特典に加え、内部使用権サービスのサブスクリプション、ソフトウェアライセンス、サポートが割り当てられます。
+- **Microsoft Action Pack サブスクリプション メンバーシップ。** 中小規模のパートナー企業向けの手頃な価格の年間サブスクリプションです。 基本的なネットワークメンバーシップを含むエントリレベルのマーケティングリソース、およびその他のマーケティングプランとプログラム (内部使用権限サービスサブスクリプションの割り当て、ソフトウェアライセンス、サポートなど) が含まれます。
 
-- **Microsoft コンピテンシー。** 会社の機能を紹介する獲得の指定。 エントリ レベルの特典、追加の内部使用権、パートナー インセンティブの獲得資格、追加のサポート インシデントとアドバイザリー時間が付与されます。
+- **Microsoft コンピテンシー。** 会社の機能を紹介する獲得の指定。 エントリレベルのマーケティングリソース、およびその他のプランとプログラム (内部使用権限、パートナーインセンティブの資格、追加のサポートやアドバイザリ時間など) が含まれます。
 
   - シルバーコンピテンシーの一貫した機能、専門知識、およびコミットメント
 
   - Gold コンピテンシー-特定の Microsoft ソリューション領域内の最高クラスの機能
 
-Microsoft Partner Network に参加した後は、メンバーシップをアップグレードし、排他的なメンバーシップ特典の特典をご購入いただけます。 Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com) をご覧ください。
-
+Microsoft Partner Network に参加した後は、メンバーシップをアップグレードし、排他的なメンバーシッププランを購入することができます。 Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com) をご覧ください。
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入する
 
@@ -63,7 +62,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 3. **[次へ]** を選んで、支払い情報を追加します。 
 
-4. 支払情報の入力が必要な場合は、 **[開始するにあたり、支払方法を追加してください。]** を選びます。 
+4. 支払情報の入力が必要な場合は、 **[開始するにあたり、支払方法を追加してください。]** を選びます。
 
 5. 支払い情報を入力し、 **[次へ]** を選びます。
 
@@ -112,7 +111,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 Microsoft Action Pack サブスクリプションを取り消す場合は、パートナー センターのサポートにご連絡ください。
 
-1. [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support ) に移動します。
+1. https://partnercenter.microsoft.com/partner/support に移動します。
 
 2. **[パートナー センターに関する問題の報告]** を選び、次のページで **[New request]** (新しい要求) を選びます。
 
@@ -130,9 +129,4 @@ Microsoft Action Pack サブスクリプションを取り消す場合は、パ�
 
 ### <a name="related-topics"></a>関連トピック
 
-[ユーザーを追加してアクセル許可を割り当てる](create-user-accounts-and-set-permissions.md)
-
-
-
-
-
+[ユーザーの追加とアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)
