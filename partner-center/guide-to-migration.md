@@ -1,7 +1,7 @@
 ---
 title: PMC からパートナー センターに移行するためのガイド | パートナー センター
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner Membership Center (PMC) からパートナー センターに会社を移行する方法について説明します。
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: high
-ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0e1538258199c503d38a08f3e070a6cc6ec97253
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721874"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226178"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC からパートナー センターに移行するためのガイド
 
 **適切なロール**
 
-- 全体管理者
+- グローバル管理者
 
 Microsoft パートナーの Web サイト (partner.microsoft.com) は、パートナー向けの統合デジタル エクスペリエンスです。 パートナーの Web サイトで、お客様の営業案件を調査したり、ガイド付きエクスペリエンスに参加したりできます。これらのエクスペリエンスは、会社が Microsoft を使用してアプリとサービスを構築および販売するのに役立ちます。 Microsoft Partner Network のメンバーは、パートナーの Web サイト全体で利用できるダッシュボード リンクを使用して、パートナー センターにサインインできます。ここで、Microsoft との関係を管理したり、プログラムに登録したり、プランにサインアップします。 
 
@@ -29,7 +29,7 @@ Microsoft パートナーの Web サイト (partner.microsoft.com) は、パー�
 >[!Note]
 >会社に複数のアカウントまたは場所がある場合でも、パートナー センターへの移行は、1 つの (お客様の最初の) アカウントをパートナー センターに移行することから開始されます。
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>開始
 
 PMC で移行が開始されます。 全体管理者は、移行を開始するための招待を受け取ります。 
 
@@ -43,7 +43,7 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 
 招待について **[Get started]\(開始する\)** を選択します。 パートナー センターのサインイン ページが表示されます。
 
-![はじめに](images/migration/getstarted.jpg)
+![開始](images/migration/getstarted.jpg)
 
 ## <a name="start-with-your-work-email"></a>勤務先メールの使用を開始する
 
@@ -61,11 +61,11 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 
 **[同意して続行する]** を選択すると、次の処理も実行されます。
 
-•   アカウントをそのすべての場所と共にパートナー センターに移行する
+- ご利用のアカウントをそのすべての場所と共にパートナー センターに移行する
 
-•   PMC で購入した可能性のあるコンピテンシーまたは MAP を移行する
+- PMC で購入した可能性のあるコンピテンシーまたは MAP を移行する
 
-•   PMC にあるすべての特典 (MAP、シルバー、ゴールド) を移行する
+- PMC に所有していたマーケティング リソース、オファー、プログラム (MAP、Silver、Gold) を移行する
 
 ## <a name="invite-employees-to-join-you"></a>参加するように従業員を招待する
 
@@ -74,7 +74,7 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 ![従業員を招待する](images/migration/invite.png)
 
 
-既存の AAD テナントを使用してサインインした場合は、従業員も一緒に移動されます。 この場合は、パートナー センターで何ができるかを決定するために従業員のロールを割り当てます。 注:パートナー センターのロールは、PMC のロールとは異なります。 詳細については、「[Moving from PMC to Partner Center](move-pmc-pc-map.md)」(PMC から Partner Center への移行) を参照してください。
+既存の AAD テナントを使用してサインインした場合は、従業員も一緒に移動されます。 この場合は、パートナー センターで何ができるかを決定するために従業員のロールを割り当てます。 注: パートナー センターのロールは、PMC のロールとは異なります。 詳細については、「[Moving from PMC to Partner Center](move-pmc-pc-map.md)」(PMC から Partner Center への移行) を参照してください。
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>ドメインを確認し、全体管理者になる  
 
@@ -95,7 +95,7 @@ AAD テナントが新しい場合は、全体管理者のロールが誰にも�
 
 ![ツアーを開始する](images/migration/fre.png)
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [ユーザー アカウントを作成する](create-user-accounts-and-set-permissions.md)
 - [ユーザー ロールとアクセス許可を割り当てる](permissions-overview.md)

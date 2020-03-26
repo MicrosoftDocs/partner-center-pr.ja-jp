@@ -1,7 +1,7 @@
 ---
 title: Silver および Gold メンバーシップ獲得のための Microsoft コンピテンシー要件について | パートナー センター
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Silver および Gold メンバーシップ レベルを獲得するためのコンピテンシー要件について説明します。
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ, 高度な専門性
 ms.localizationpriority: high
-ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004811"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226218"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft の Silver および Gold コンピテンシーに関する情報と高度な専門性
 
 **適切なロール**
--   全体管理者
--   ユーザー管理者
+-    グローバル管理者
+-    ユーザー管理者
 
 Microsoft コンピテンシーを獲得すると、1 つまたは複数の専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft コンピテンシーは、パートナーが顧客のニーズに対応した能力を備え、マイクロソフト認定のソリューション プロバイダーを求める新規顧客にアピールするように支援することを目的としています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
 
@@ -30,7 +30,7 @@ Microsoft コンピテンシーを獲得すると、1 つまたは複数の専�
 
 - Gold パートナー メンバーとして、ポートフォリオに高度な専門性を追加することもできます。
 
-**Silver メンバーシップ**または **Gold メンバーシップ**のコンピテンシーを獲得すると、ビジネスの拡大と成長に役立つ強力な[市場進出](mpn-learn-about-go-to-market-benefits.md)のためのマーケティングや販売のベネフィットも得られるようになります。
+**Silver メンバーシップ**または **Gold メンバーシップ**のコンピテンシーを獲得すると、ビジネスの拡大と成長に役立つ強力な[市場投入](mpn-learn-about-go-to-market-benefits.md)オファーおよびプログラムも得られるようになります。
 
 ## <a name="competency-areas"></a>コンピテンシーの分野
 
