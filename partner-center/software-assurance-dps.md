@@ -1,7 +1,7 @@
 ---
 title: パートナー センターでのソフトウェア アシュアランス計画サービス | パートナー センター
 ms.topic: article
-ms.date: 01/31/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ソフトウェアアシュアランスをご利用のお客様にトレーニングやその他のサービスを提供できるように、Microsoft の計画サービス契約を登録して認定を受ける方法について説明します。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 展開前, 計画, ソフトウェア アシュアランス
 ms.localizationpriority: medium
-ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76915755"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296404"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
 
@@ -25,7 +25,7 @@ ms.locfileid: "76915755"
 
 Microsoft は、承認された計画サービスパートナーとして、企業のお客様のための展開前計画を提供することを検討します。 このプログラムに参加することにより、貴社は、いっそう多くの顧客を獲得し、顧客の信頼できる計画パートナーになり、顧客エンゲージメントを追加できる可能性があります。
 
-## <a name="get-started"></a>、
+## <a name="get-started"></a>作業開始
 
 ソフトウェアアシュアランスサービスを初めてご使用になる場合は、以下のすべての手順に従ってください。 Planning Services プログラムで既にアクティブになっている場合は、以下の手順 4 (4) で新しい契約を開始します。
 
@@ -52,7 +52,7 @@ Microsoft は、承認された計画サービスパートナーとして、企�
 
 特定の計画サービス契約に登録する会社の資格を確認するために、次のようにします。
 
-1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。
+1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。
 2. メニューから **[MPN]** を選択し、 **[プログラム]** を選択します。
 3. **[ソフトウェアアシュアランスの登録]** を選択します。
 4. ページの上部にある **[Planning Services プログラムの登録]** タブを選択します。 既に完了している要件またはコンピテンシーの横に、緑色のチェックマークが表示されます。
@@ -103,8 +103,9 @@ Microsoft は、承認された計画サービスパートナーとして、企�
 
 SAVB を使用して Microsoft に請求書を送信するには、ワークフローの[手順 8](https://go.microsoft.com/fwlink/?linkid=2115983) . に記載されている手順に従います。
 
-## <a name="see-also"></a>「
+## <a name="see-also"></a>参照
 
 - [ソフトウェアアシュアランス計画サービスのワークフロー](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [ソフトウェアアシュアランス計画サービスに関する FAQ](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [ソフトウェアアシュアランス計画サービスポリシー](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [ソフトウェアアシュアランス計画サービスの廃止契約](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
