@@ -1,35 +1,35 @@
 ---
-title: テクニカル サポートを提供する | パートナー センター
+title: テクニカル サポートの提供 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: さまざまな方法の概要とテクニカルサポートの種類について説明します。
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 631a5273c7ab373d135904aa6202bbfc21bc0fa2
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 068d53a72608b29cc4dd7854caf20d32ffe77b06
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004821"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390721"
 ---
 # <a name="provide-technical-support"></a>テクニカル サポートを提供する
 
 **適用対象**
 
--  パートナー センター
+-  Partner Center
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   グローバル管理
+-   全体管理者
 -   ユーザー管理者
 -   ヘルプデスク エージェント
 -   管理エージェント
 
-貴社には、クラウド ソリューション プロバイダー パートナーとして、お客様の環境にアクセスできる委任された管理者権限があります。 これらの特権により、顧客のサブスクリプションを直接サポート、構成、および管理することができます。
+クラウド ソリューション プロバイダー パートナーには、顧客の環境にアクセスできる代理管理者権限があります。 これらの特権により、顧客のサブスクリプションを直接サポート、構成、および管理することができます。
 
 パートナー センターで、次の操作を実行できます。
 
@@ -42,7 +42,7 @@ ms.locfileid: "75004821"
 2.  顧客メニューの **[サービス管理]** を選びます。
 3.  **[サービスの管理]** セクションで、作業する必要があるサービスを選択し、サービスの管理ポータルを開きます。
 4.  ダウンしているサービスやエクスペリエンス低下の原因など、顧客のアカウントに問題がある場合は、まずサービスの正常性を確認する必要があります。 「[サービスの正常性の確認](check-service-health.md)」をご覧ください。
-5.  Microsoft に継続的な問題をエスカレートするには、サービス要求を登録します。 「[お客様の代理で問題を報告する](report-problems-on-behalf-of-a-customer.md)」をご覧ください。
+5.  Microsoft に継続的な問題をエスカレートするには、サービス要求を登録します。 「[顧客の代理としての問題の報告](report-problems-on-behalf-of-a-customer.md)」をご覧ください。
 
  
 ## <a name="microsoft-partner-support-guidance"></a>Microsoft パートナー サポート ガイダンス

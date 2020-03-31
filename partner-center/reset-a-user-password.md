@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ユーザーがパスワードを忘れた場合、新しい一時的なパスワードを割り当てることができます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: a74f89b023f72c867667902d4765f22287bb1546
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c920757d8a2e7b6ff9bacbffb2e84cf0ce45b1c8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654097"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390671"
 ---
 # <a name="reset-a-user-password-or-update-your-own-password"></a>ユーザーパスワードをリセットするか、自分のパスワードを更新する
 
 **適用対象**
 
--  パートナー センター
+-  Partner Center
    
 > [!NOTE]  
 >  Microsoft Cloud ドイツのクラウド ソリューション プロバイダー (CSP) プログラムに登録している場合、ユーザー パスワードのリセットについて詳しくは、[Microsoft Cloud ドイツのパートナー センターでのユーザーの管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)に関する記事をご覧ください。
@@ -29,7 +29,7 @@ ms.locfileid: "73654097"
 
 **管理者としてユーザーのパスワードをリセットする**
 
-1.  **[設定]** &gt; **[ユーザー管理]** に移動します。
+1.  **[設定]** **[ユーザー管理]** &gt; にアクセスします。
 2.  ユーザーを一覧から選びます。
 
 3.  ページの下部にある **[パスワードのリセット]** を選びます。

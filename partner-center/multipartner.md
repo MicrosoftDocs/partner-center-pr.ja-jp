@@ -6,25 +6,25 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客が、クラウド ソリューション プロバイダー プログラムで、サービス専門分野の異なる複数のパートナーとの連携を求める場合があります。
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: ca2db6611d26716d6f8b9cfa166bbc852bbf8b89
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 1c4de34137fec79d0656a6122ae04c0073a59125
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004911"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390821"
 ---
 # <a name="multi-partner-support"></a>マルチパートナーのサポート
 
 **適用対象**
 
--  パートナー センター
+-  Partner Center
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   グローバル管理
+-   全体管理者
 -   ユーザー管理者
 -   販売代理店
 
@@ -32,7 +32,7 @@ ms.locfileid: "75004911"
 
 Azure CSP テナントには、別の CSP パートナーからの追加の Azure サブスクリプションを含めることができます。
 
-パートナー センターでマルチパートナー機能を使用するには、顧客を招待して代理管理特権を顧客に要求します。 既にパートナーと連携している顧客との関係を確立する方法については、「[顧客との関係を要求する](request-a-relationship-with-a-customer.md)」を参照してください。
+パートナー センターでマルチパートナー機能を使用するには、顧客を招待して代理管理特権を顧客に要求します。 既にパートナーと連携している顧客との関係付けを確立する方法については、「[顧客との再販業者関係の要求](request-a-relationship-with-a-customer.md)」を参照してください。
 
 マルチパートナー機能では、次のことは行われません。
 

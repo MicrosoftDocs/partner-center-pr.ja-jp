@@ -5,16 +5,16 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Cloud ドイツのパートナー センターは、EU および EFTA の加盟国の顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2534610ac551e4b11c1846951936ad939be2191e
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: c83709b68a492fd93ca166e9a9717ad9a632c6f6
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004881"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390771"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センター
 
@@ -23,7 +23,7 @@ ms.locfileid: "75004881"
 -  Microsoft Cloud ドイツのパートナー センター
 
 **適切なロール**
--   グローバル管理
+-   全体管理者
 -   ユーザー管理者
 -   管理エージェント
 -   販売代理店

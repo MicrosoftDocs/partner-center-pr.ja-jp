@@ -1,31 +1,31 @@
 ---
-title: 顧客の代理で問題を報告する | パートナー センター
+title: 顧客の代理としての問題の報告 | パートナー センター
 ms.topic: article
 ms.date: 08/16/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 解決できないサービスの問題が発生していて、「Microsoft への問題のエスカレート」で説明されている条件を満たしている場合は、それらのサポートチケットをファイルに記載してください。
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: サービス要求, サービス チケット, サポート, サポートの権利, AOBO, Azure AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943215"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390691"
 ---
-# <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理としての問題の報告
+# <a name="report-problems-on-behalf-of-a-customer"></a>顧客の代理で問題を報告する
 
 **適用対象**
 
--  パートナー センター
+-  Partner Center
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 
-貴社で解決できないサービスに関する問題が顧客側で発生し、「[Microsoft に問題をエスカレートする](escalate-problems-to-microsoft.md)」に記載されている条件に一致する場合は、サポート チケットを発行します。 このプロセスは、請求に関する問題や紛争をエスカレートする場合や、不正行為が疑われる場合にも役に立ちます。
+貴社で解決できないサービスに関する問題で、「[マイクロソフトに問題をエスカレートする](escalate-problems-to-microsoft.md)」に記載されている条件に一致する場合は、サポート チケットを発行します。 このプロセスは、請求に関する問題や紛争をエスカレートする場合や、不正行為が疑われる場合にも役に立ちます。
 
 ## <a name="submit-a-service-request-for-a-customer"></a>顧客のサービス リクエストを提出する
 
@@ -60,7 +60,7 @@ ms.locfileid: "74943215"
 
 1. パートナーセンターの [アカウント] ページから顧客のドメイン名をコピーします。
 
-2. 移動して https://portal.azure.com/ [customerdomainname]。 
+2. 移動して https://portal.azure.com/[customerdomainname]。 
 
 3. サポートが必要な Azure サブスクリプションを選択します。
 
@@ -89,7 +89,7 @@ ISV の連絡先情報を検索するには:
     - サポート電子メール 
     - サポート連絡先の電話番号
 
-## <a name="faq"></a>FAQ
+## <a name="faq"></a>よく寄せられる質問
 
 **サポートの権利には何が含まれていますか?**
 
@@ -101,7 +101,7 @@ ISV の連絡先情報を検索するには:
 
 **どれぐらい迅速に最初の応答を受けられますか?**
 
-最初の応答時間は、提出された問題の重大度によって変わります。 問題の重大度は、サービス リクエストを提出するときに示されるビジネスへの影響の程度によって決められます。
+最初の応答時間は、提出された問題の重大度によって変わります。 問題の重大度は、サービス要求を提出するときに示されるビジネスへの影響の程度によって決められます。
 
 **technical break-fix incidents** の最初の応答時間を以下に示します。
 
@@ -110,7 +110,7 @@ ISV の連絡先情報を検索するには:
 -   最小限の影響 (重大度 C): 8 時間 (サービスの最小限の損失または低下。 サービスはまだ利用可能、または実稼働でないサービスに影響。)
 
 最初の応答時間は英語によるサポートのみが対象です。 ローカル言語でのサポートは、業務時間中に提供されます。
-サポートの権利の境界内に含まれるが、破損時補償とは見なされないインシデントの場合、最初の応答時間は最大で 1 営業日になる可能性があります。
+サポートの権利の境界内に含まれるが、障害対応とは見なされないインシデントの場合、最初の応答時間は最大で 1 営業日になる可能性があります。
 
 **電話でサービス リクエストを提出できますか?**
 
@@ -120,7 +120,7 @@ ISV の連絡先情報を検索するには:
 
 Microsoft Azure ポータルに直接サインインすると、顧客のコンテキストではなく、貴社のコンテキストでポータルが表示されます。 このため、Microsoft Azure ポータルに直接サインインするのは、貴社のサブスクリプションに関するサービス リクエストを作成するときだけにしてください。
 
-CSP プログラム サポートの権利では、独自のパートナー サブスクリプションに関するサポートは提供されないため、貴社のパートナー サブスクリプションに関係するサービス リクエストを作成するときは、有効なサポート プランの権利を提示する必要があります。 たとえば、MPN コントラクト ID、プレミア、または Azure サポート プランです。 「[Azure サポートに関する FAQ](https://go.microsoft.com/fwlink/?LinkId=717532)」をご覧ください。
+CSP プログラム サポートの権利では、独自のパートナー サブスクリプションに関するサポートは提供されないため、貴社のパートナー サブスクリプションに関係するサービス リクエストを作成するときは、有効なサポート プランの権利を提示する必要があります。 たとえば、MPN コントラクト ID、プレミア、Azure サポート プランです。 「[Azure サポートに関する FAQ](https://go.microsoft.com/fwlink/?LinkId=717532)」をご覧ください。
 
 **Office 365 管理センター ポータルにサインインし、パートナー センターをバイパスした場合はどうなりますか?**
 

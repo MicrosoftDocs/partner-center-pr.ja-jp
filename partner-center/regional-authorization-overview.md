@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: お客様の会社の所在地に応じて、CSP オファーを販売できる国、地域、および通貨をご覧ください。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: CSP マーケット, テリトリ, CSP で販売できる場所, CSP プラン, 地域, クラウド ソリューションの販売, グローバル CSP
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5aae0c5eca8bc47d38fd14e600c64ae02137c2a5
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 66ef0d8c1e9b0183097129cc0f2160028038284f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672812"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390701"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>クラウド ソリューション プロバイダー プログラムの地域市場と通貨
 
@@ -24,10 +24,10 @@ ms.locfileid: "77672812"
 
 たとえば、会社が米国にある場合は、米国およびその他の米領諸島の顧客に対して CSP オファーを販売できます。 会社がブラジルにある場合は、ブラジルの顧客にだけ CSP プランを販売できます。 会社がアフリカ地域にある場合は、アフリカ地域内の 18 か国すべての顧客に CSP プランを販売できます。
 
-顧客に代わって CSP オファーを注文する前に、お客様は Microsoft カスタマー契約に署名する必要があります。 お住まいの地域または国に該当する Microsoft カスタマーアグリーメントを[ここで](agreements.md)見つけることができます。
+顧客の代わりに CSP プランを注文するには、事前に顧客が Microsoft 顧客契約に署名する必要があります。 お住まいの地域または国に該当する Microsoft カスタマーアグリーメントを[ここで](agreements.md)見つけることができます。
 
 >[!IMPORTANT]
-> 顧客が署名者に関する情報を提供することによって、Microsoft カスタマーアグリーメントに同意したことを確認する必要があります。 詳細については[、「Microsoft カスタマーアグリーメントに対する顧客の同意を確認する](confirm-consent.md)」を参照してください。
+> 顧客が署名者に関する情報を提供することによって、Microsoft カスタマーアグリーメントに同意したことを確認する必要があります。 詳しくは、「[Microsoft 顧客契約に関するお客様の同意を確認する](confirm-consent.md)」を参照してください。
 
 CSP プランを販売できる場所を確認するには、以下の一覧のいずれかで貴社の場所を検索してください。 販売活動を行う場所で有効な Microsoft Partner Network (MPN) ID を持っている必要があります。  
 

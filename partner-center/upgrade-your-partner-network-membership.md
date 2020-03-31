@@ -5,22 +5,22 @@ ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: MPN のメンバーシップを Microsoft Action Pack サブスクリプションのメンバーシップまたは Microsoft コンピテンシーにアップグレードすることで、排他的な特典をご利用ください。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 13c2cc9b9365caa38c1da10b0c6dbba48d435397
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226149"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390511"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 
 **適用対象**
 
--  パートナー センター
+-  Partner Center
 
 Microsoft のパートナープログラムは、次の3つのメンバーシップオプションを提供しています。これには、ビジネス目標を達成するのに役立つ、段階的な特典とマーケティングリソース、プラン、およびプログラムが含まれています。
 
@@ -122,7 +122,7 @@ Microsoft Action Pack サブスクリプションを取り消す場合は、パ�
     サービス要求の状態を確認するには、 **[サービス要求] > [パートナー センターの要求]** を選び、 **[開く]** を選びます。 一覧から該当するサービス要求を選びます。  
 
  
-### <a name="next-steps"></a>次のステップ
+### <a name="next-steps"></a>次のステップ:
 
 [Action Pack サブスクリプションをアクティブ化する](manage-your-partner-network-benefits.md)
 

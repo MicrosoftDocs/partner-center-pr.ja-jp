@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 01/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 関係の要求は、マルチパートナー シナリオとマルチチャネル シナリオ用です。 また、顧客が委任された管理者特権を削除していて、プロビジョニングまたはサポートを提供するためにそれらを復元する必要がある場合にも便利です。
+description: 関係の要求は、マルチパートナー シナリオとマルチチャンネル シナリオで使用されます。 また、顧客が委任された管理者特権を削除していて、プロビジョニングまたはサポートを提供するためにそれらを復元する必要がある場合にも便利です。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: c89c1c9880adf1a6d91302251bc332dd537e1e83
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: ff1b9d6e7290304b4cc33d53251750daf04fbfe8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012130"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390681"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>パートナー センターでの顧客との連携
 
 **適用対象**
 
--  パートナー センター
+-  Partner Center
 
 お客様の代理で顧客のサービスまたはサブスクリプションを管理する場合は、そのサービスまたはサブスクリプションに対する管理者権限を付与し、Microsoft カスタマーアグリーメントに署名する必要があります。
 
@@ -64,7 +64,7 @@ ms.locfileid: "77012130"
 | Microsoft Cloud for US Government のパートナー センター内の顧客 | Microsoft Office 管理ポータル |
 |
 
-## <a name="see-also"></a>「
+## <a name="see-also"></a>参照
 
 - [サポート連絡先の指定](assign-support-contacts.md)
 - [顧客との再販業者関係の削除](remove-a-relationship.md)

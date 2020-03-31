@@ -1,30 +1,30 @@
 ---
-title: 課金のサポートを提供する | パートナー センター
+title: 請求に関するサポートの提供 | パートナー センター
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 貴社は、お客様との課金関係を維持し、お客様からの課金関連の質問をすべてサポートします。
+description: パートナーは、顧客との請求関係に責任を負い、請求に関する顧客からのすべての質問に十分に対応する必要があります。
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 25cf1868ddd941ea78bd4f38d399a90e7dc621c1
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 06005e8143f1af049af0f1f1c8a7e96e5fa9ae9f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004931"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390731"
 ---
-# <a name="provide-billing-support"></a>請求に関するサポートの提供
+# <a name="provide-billing-support"></a>課金のサポートを提供する
 
 **適用対象**
 
--  パートナー センター
+-  Partner Center
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   グローバル管理
+-   全体管理者
 -   ユーザー管理者
 -   ヘルプデスク エージェント
 -   課金の管理

@@ -1,26 +1,26 @@
 ---
-title: 顧客向けに Azure の支出の予算を設定する | パートナー センター
+title: 顧客の Azure 支出の予算の設定 | パートナー センター
 ms.topic: article
 ms.date: 11/21/2019
 description: 顧客向けの月単位の Azure 支出予算を設定または削除する方法と、Azure の支出データを表示し、予算に関連する通知を設定する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 81f2bfa0b8e9864e0fc1a90ff5a5a11111c2a433
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943205"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390651"
 ---
-# <a name="set-an-azure-spending-budget-for-your-customers"></a>顧客の Azure 支出の予算の設定
+# <a name="set-an-azure-spending-budget-for-your-customers"></a>お客様向けに Azure の支出の予算を設定する
 
-適用対象:
+適用対象
 
-- パートナー センター
+- Partner Center
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
 パートナーセンターでは、[顧客の Azure 支出予算を毎月設定](#set-azure-spending-budget)できます。 これにより、お客様は Azure の支出を管理できます。 このオプションを使用すると、顧客の Azure の支出を月の予算と比較できます。 また、お客様が Azure の支出を予算に費やして、月々の請求額が予想よりも高くなるのを防ぐことができます。

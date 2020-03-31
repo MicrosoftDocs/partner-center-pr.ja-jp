@@ -1,31 +1,31 @@
 ---
-title: 請求書を読み取る | パートナー センター
+title: 請求書の記載事項 | パートナー センター
 ms.topic: article
 ms.date: 11/21/2019
 description: 請求書は、現在の月額期間のすべてのパートナーセンターの料金 (プログラム、製品、および顧客にわたる) の概要です。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7e5171a44ba8f23955847f6450e59b948f3c7d52
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004831"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390711"
 ---
-# <a name="read-your-bill"></a>請求書を読み取る
+# <a name="read-your-bill"></a>請求書の記載事項
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   グローバル管理
+-   全体管理者
 -   ユーザー管理者
 -   課金の管理
 -   管理エージェント

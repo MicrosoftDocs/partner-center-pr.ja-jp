@@ -6,22 +6,22 @@ description: 特定の地域における税金の責任について、および 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: MaggiePucciEvans
+author: jasonwhowell
 keywords: 税金、課税控除、vat、リセラー、請求
-ms.author: evansma
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943195"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390631"
 ---
 # <a name="taxes-and-tax-exemptions"></a>税金と税金の除外
 
-適用対象:
+適用対象
 
-- パートナー センター
+- Partner Center
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
 クラウドソリューションプロバイダー (CSP) プログラムは、製品のパートナー再販に重点を置いた販売チャネルです。 その結果、マイクロソフトは、パートナーの請求書の売上税を常に請求する必要があるとは限りません。 ルールは国や地域によって異なります。 [課税控除の国固有および地域固有の詳細](#country-and-region-tax-details)を確認できます。
@@ -87,7 +87,7 @@ Microsoft は、トルコでパートナーによって購入されたデジタ�
 2. **[パートナーの要求]** ページで、 **[新しい要求]** を選択します。 (このページの後半で、開いている、閉じたサポート要求を表示することもできます)。
 3. **基本**手順の **[CSP-課金と支払い]** で、[**問題の種類の選択]** を選択し、免税 **[要求]** を選択します。
 4. **[ソリューション]** ステップで、 **[追加のヘルプが必要ですか?]** の [**はい]** を選択します。
-5. **詳細**手順で、 **[問題の詳細]** フォームに入力します。 必ず、次の作業を行ってください。
+5. **詳細**手順で、 **[問題の詳細]** フォームに入力します。 次のことを確認してください。
 
     - すべての必須フィールドに入力します。
     - **[詳細]** フィールドに、 **Microsoft ID**と**MPN ID**を含めます。

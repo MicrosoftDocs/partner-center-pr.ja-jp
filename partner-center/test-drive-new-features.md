@@ -5,21 +5,21 @@ ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: リリース前のパートナー センターの新機能をお試しになり、ご意見をお聞かせください。 パートナー センターの将来像を形作るためにご協力ください。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e480d29a5dd1cfedd90d479b107bf3f56f4f3ce
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 367fe22b984277b02e4161bf12cf2198ab663c5b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651203"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390571"
 ---
 # <a name="test-drive-new-partner-center-features"></a>パートナー センターの新機能のテスト
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 
 ## <a name="help-shape-the-future-of-partner-center"></a>パートナー センターの将来像を形作るためにご協力ください。
 

@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 米国政府機関向け Microsoft Cloud のパートナー センターは、米国内で政府機関とのビジネスを行う顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e290242a0a97abdbdca1e222c12cd0072d05073
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 66a39eee19a367a796ca90e204a44be9e6a7d9c3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004251"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390761"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センター
 
@@ -22,7 +22,7 @@ ms.locfileid: "75004251"
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   グローバル管理
+-   全体管理者
 -   ユーザー管理者
 -   管理エージェント
 -   販売代理店
@@ -43,18 +43,18 @@ ms.locfileid: "75004251"
 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー (CSP) プログラムに登録した後は、パートナー センターを使用して、クラウド固有のソリューションおよびサービスを米国政府機関の顧客に販売します。 
 
 > [!NOTE]  
-> 本記事の公開時点では、米国政府機関向け Microsoft Cloud のパートナー センターで、以下の機能をまだご利用いただけません (本記事の公開以降、パートナー センターに機能が追加される場合があるため、この一覧が最新ではなくなっている可能性があります)。
+> 本記事の公開時点では、米国政府機関向け Microsoft Cloud のパートナー センターで、以下の機能が提供されていません (本記事の公開後、パートナー センターに機能が追加されて、この一覧の情報が最新ではなくなる可能性があります)。
 
-- パートナーの検索
+- パートナーを見つける
 - ビジネス プロファイル
 - 紹介
 - 顧客と再販業者関係の要求 (マルチチャンネル、マルチパートナー)
 - ライセンス分析
 - 顧客の分析
-- 間接リセラー/プロバイダー モデルと設定
+- Indirect reseller/provider model and settings (間接的リセラー/プロバイダー モデルと設定)
 - サービスの正常性の確認
 - 独立ソフトウェア ベンダー (ISV) の登録
-- Customer special qualification (顧客の特別な資格)
+- 顧客の特別な資格
 
 次に示すパートナー センターのタスクは、米国政府機関向け Microsoft Cloud の Azure 管理ポータルを使って管理されます。 
 
