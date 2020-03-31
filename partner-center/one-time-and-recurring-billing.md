@@ -3,25 +3,25 @@ title: 1回限りの課金と選択された料金 |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
 Description: 事前設定された期間 (月単位および年間サブスクリプション) に対する1回限りの課金、パートナーセンターでの (該当する Microsoft およびサードパーティの ISV 製品の) 選択された課金の請求に関する情報。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 課金、1回限り、定期的な購入、請求、isv
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005041"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390781"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>1 回限りの請求と定期的な料金の選択
 
 **適用対象**
-- パートナー センター
+- Partner Center
 - CSP プログラムのパートナー
 
 **適切なロール**
--   グローバル管理
+-   全体管理者
 -   ユーザー管理者
 -   課金の管理
 -   管理エージェント

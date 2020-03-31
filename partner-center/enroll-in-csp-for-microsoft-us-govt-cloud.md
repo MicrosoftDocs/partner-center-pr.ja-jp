@@ -1,21 +1,21 @@
 ---
-title: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する | 米国政府機関向け Microsoft Cloud のパートナー センター
+title: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録 | 米国政府機関向け Microsoft Cloud のパートナー センター
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する前に、CSP プログラムの要件について詳細をご確認ください。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 13ec7eddd2fef9be9f120729b54e6f9e2cf58f9b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 4d6215927f5c1c922f9c124d78a41694703cb0bf
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722582"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389801"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムに登録する
+# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録
 
 **適用対象**
 
@@ -23,7 +23,7 @@ ms.locfileid: "74722582"
 
 **適切なロール**
 
-- グローバル管理
+- 全体管理者
 
 Microsoft パートナーは、米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー (CSP) プログラムを通じて、米国の連邦、州、地方、および先住民部族の政府機関に Microsoft のクラウド ソリューションとクラウド サービスを販売することができます。 
 
@@ -55,7 +55,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 1.  Microsoft Partner Network ID や組織のカスタマー サポートに関する情報など、不足している情報を登録フォームに入力します。 
 
-2.  **[Accept and continue] (同意して続ける)** を選択します。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
+2.  **[Accept and continue] (同意して続ける)** を選びます。 申し込みの確認には数日かかる場合があります。 完了後、メールでお知らせします。
 
     > [!IMPORTANT]  
     > **[同意して続行する]** を選択することにより、組織の代理として行為する権限が認められていることを確認するもの、そして Microsoft が組織のクラウド ソリューション プロバイダーの申し込みを確認する前に与信審査を実行することを許可するものと見なされます。
@@ -75,13 +75,13 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 > [!NOTE]  
 > ユーザーを管理エージェント ロールに割り当てると、 **[顧客]** ページで顧客の一覧にアクセスし、[新しい顧客を追加](add-a-new-customer.md)できるようになります。   
 
-1.  Microsoft Azure 管理ポータル (https://portal.azure.us/ ) にサインインします。
+1.  Microsoft Azure 管理ポータル (https://portal.azure.us/) にサインインします。
 
 2.  管理エージェント ロールを組織内の適切なユーザーに割り当てます。 これを行うには、組み込みの **AdminAgent** グループにこれらのユーザーを追加する必要があります。 これを行う方法については、「[Azure Active Directory テナントでユーザーのグループ メンバーシップを管理する](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)」を参照してください。
  
 ## <a name="connect-with-us"></a>コミュニティ
 
-- ご質問はございますか? マイクロソフトにメールを送信する (azgovcsp@microsoft.com)
+- ご質問がある場合は、 マイクロソフトにメールを送信する (azgovcsp@microsoft.com)
 
 - [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) に参加する 
 

@@ -6,30 +6,30 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: コンマ区切り値ファイル形式 (.csv) のデータファイルをパートナーセンターにアップロードすることで、顧客のアカウントに複数のユーザーを一度に追加する方法について説明します。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 一括アップロード, 顧客アカウントへの複数ユーザーの追加, 顧客のユーザーの追加, 顧客のユーザーの一括アップロード, 顧客アカウント, 顧客のユーザー, ユーザー
 ms.localizationpriority: medium
-ms.openlocfilehash: 2195d23074a3e7c397b5f557fd3bed9ec0cc518e
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 499aff67d18b0d8f9fbaf098fecbab2d888d9ac7
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721988"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390371"
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>顧客アカウントに複数のユーザーを追加する
+# <a name="add-multiple-users-to-a-customer-account"></a>顧客アカウントへの複数ユーザーの追加
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 
 **適切なロール**
 
-- グローバル管理
+- 全体管理者
 
 顧客のアカウントに一度に複数のユーザーを追加できます。そのためには、コンマ区切り値ファイル形式 (.csv) のデータ ファイルをパートナー センターにアップロードします。 パートナー センターからサンプル データ ファイルをダウンロードし、それを編集して使用することも、以下に定義するデータ モデルを使用して新しいデータ ファイルを作成することもできます。
 
-## <a href="" id="creatingtheimportcsvfile"></a>データ ファイルの要件
+## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>データ ファイルの要件
 
 一括アップロードプロセスを使用して顧客のアカウントに複数のユーザーを追加するには、次の要件を満たす必要があります。
 
@@ -44,19 +44,19 @@ ms.locfileid: "74721988"
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
 | **列の名前** | **説明**                                                              | **制限事項**                             |
-| 名      | ユーザーの名 (オプションフィールド)                                           | 50 文字の制限                         |
+| ファースト ネーム      | ユーザーの名 (オプションフィールド)                                           | 50 文字の制限                         |
 | 姓       | ユーザーの姓 (省略可能なフィールド)                                            | 50 文字の制限                         |
 | 表示名    | パートナー センターで表示される名前 (必須フィールド)                            | 50 文字の制限                         |
-| [メール]           | 顧客会社のユーザーの勤務先の電子メールアドレス (必須フィールド)           | ユーザーごとに一意のメール アドレスが必要 |
+| Email           | 顧客会社のユーザーの勤務先の電子メールアドレス (必須フィールド)           | ユーザーごとに一意のメール アドレスが必要 |
 | 状態の更新   | 新しいユーザー レコードが正常に作成されたかどうかを示すために使用される | \*\*空白のままにする\*\*                        |
 
-### <a href="" id="createmultipleuseraccounts"></a>複数のユーザー アカウントを作成するには
+### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>複数のユーザー アカウントを作成するには
 
 <a href="" id="creatingtheaccounts"></a>
 
 1. 以下に説明するデータを使用して、コンマ区切り値 (.csv) データ ファイルを作成します。 後の手順を参照できるように、ファイルを保存します。
 
-2. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+2. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
 3. パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。
 
@@ -71,7 +71,7 @@ ms.locfileid: "74721988"
     **注:**    ほとんどのアカウント作成エラーは、情報が不足している、メール アドレスの形式が正しくないか重複している、ファイル内のレコードが多すぎるなどのデータ ファイルの問題が原因です。
 
 8. パートナー センターでファイルが検証された後、新しいユーザーの地理的な**場所**を選びます。
-9. **[保存]** を選びます。
+9. **[保存]** を選択します。
 10. ユーザーの一時的なパスワードの情報をダウンロードします。
 
 **重要:** 一時的なパスワードを含むファイルは必ずこのときにダウンロードしてください。後でこの操作をすることはできません。 新しいユーザーは、新しいアカウントの一時的なパスワードを使用して、新しいアカウントにログインする必要があります。

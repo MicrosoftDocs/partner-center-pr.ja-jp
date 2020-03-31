@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: デバイスを顧客に納入する前に、自動操縦プロファイルを使用して、新しいデバイスの既定のエクスペリエンスをカスタマイズまたは事前構成する方法について説明します。
-author: maggiepuccievans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, ゼロタッチ展開, OOBE, ログイン画面, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721427"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391001"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Windows 自動操縦プロファイルを使用してデバイスの既定のエクスペリエンスをカスタマイズする
 
@@ -25,7 +25,7 @@ ms.locfileid: "74721427"
 **適切なロール**
 
 - 管理エージェント
-- グローバル管理
+- 全体管理者
 - 販売代理店
 - ユーザー管理者
 
@@ -107,7 +107,7 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
 
 4. 次の手順に従って、プロファイルがデバイスに正常に適用されたことを確認します。
 
-    」を参照します。  デバイスをネットワークに接続し、電源をオンにします。
+    a.  デバイスをネットワークに接続し、電源をオンにします。
 
     b.  適切な OOBE 画面 (存在する場合) が表示されることを確認します。
 

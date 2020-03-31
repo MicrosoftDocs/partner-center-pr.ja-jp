@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/25/2019
 description: サブスクリプションを購入したり、サブスクリプションを追加したり、接続クライアントを追加または削除したりする場合は、1回限りのパートナーセンターの請求例を参照して、定期的な購入を選択してください。
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 課金、支払い、1回限りの購入、定期的な購入、サブスクリプション、シート
 ms.localizationpriority: medium
-ms.openlocfilehash: f330e49fdfea9b93d02a644610f3621916667f86
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 9f1a96bfeee667f998d163416b96c281803f7107
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722504"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390121"
 ---
 # <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>1回限りの定期的な購入請求シナリオ
 

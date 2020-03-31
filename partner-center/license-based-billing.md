@@ -3,26 +3,26 @@ title: ライセンスベースの課金 |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
 Description: パートナーセンターでのライセンスベースの課金に関する情報 (ライセンスの使用法ではなく、ライセンスごとに請求されます)。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 請求、支払い、ライセンスベース、ライセンス
 ms.localizationpriority: medium
-ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004921"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390901"
 ---
 # <a name="license-based-billing"></a>ライセンス ベースの課金
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 - CSP プログラムのパートナー
 
 **適切なロール**
--   グローバル管理
+-   全体管理者
 -   ユーザー管理者
 -   課金の管理
 -   管理エージェント
@@ -37,7 +37,7 @@ ms.locfileid: "75004921"
 
 ライセンスベースのサブスクリプションは、サブスクリプションの**記念日**に事前に請求されます。 記念日は、サブスクリプションを購入した日です。
 
-次に、例を示します。
+例 :
 
 - 1月15日に**月単位のサブスクリプション**を購入した場合、記念日は毎月15日になります。
 - 1月15日に**年間サブスクリプション**を購入した場合、記念日は毎年1月15日になります。

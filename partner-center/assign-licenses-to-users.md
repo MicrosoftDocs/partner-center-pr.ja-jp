@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客のユーザーアカウントを作成する方法、ユーザーライセンスを追加または削除する方法、ユーザーのパスワードをリセットする方法、ユーザーアカウントを削除する方法、または復元する方法について説明します。
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 顧客管理, アカウント, アカウントの作成, ライセンス、ライセンスの割り当て, ユーザー管理, パスワード, パスワードのリセット, パスワードの変更
 ms.localizationpriority: medium
-ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fcd5ebe2cb5daa5eafcd3ef56e1750225fcc9990
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721363"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391011"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>顧客アカウントのユーザー管理タスク
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 
 **適切なロール**
 
-- グローバル管理
+- 全体管理者
 - ユーザー管理者
 - 管理エージェント
 - 販売代理店
@@ -41,7 +41,7 @@ ms.locfileid: "74721363"
 
 ## <a name="create-user-accounts-for-a-customer"></a>顧客のユーザー アカウントを作成する
 
-1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
 2. パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。
 
@@ -49,7 +49,7 @@ ms.locfileid: "74721363"
 
 4. 追加するユーザーごとに、 **[サブスクリプションの追加]** を選び、アクセス許可やライセンスなどの情報を入力します。 変更内容を保存するには、 **[保存]** をクリックします。
 
-5. 必ずユーザー名と一時的なパスワードを記録してユーザーに送信してください。
+5. 必ずユーザー名と一時パスワードを記録してユーザーに送信してください。
 
 6. 複数のユーザーを 1 人ずつ追加する場合は、 **[別のユーザーの追加]** を使います。
 
@@ -61,7 +61,7 @@ ms.locfileid: "74721363"
 
 次の手順は、Microsoft 製品のユーザーライセンスを追加または削除する場合に適用されます。 商用マーケットプレースでライセンスベースの SaaS サブスクリプションのユーザーライセンスを追加または削除するには、「 [saas サブスクリプションのライセンスを追加または削除](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)する」を参照してください。
 
-1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
 2. パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。
 
@@ -78,7 +78,7 @@ ms.locfileid: "74721363"
 
 ## <a name="reset-a-users-password-for-a-customer"></a>顧客のユーザー パスワードをリセットする
 
-1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
 2. パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。
 

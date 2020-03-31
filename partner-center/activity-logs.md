@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: アクティビティログを表示およびエクスポートして、顧客のアカウントトランザクションやその他の顧客関連のパートナー管理アクティビティに関する洞察を得る方法について説明します。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: アクティビティ ログ, サブスクリプション, サブスクリプション, 支払い, 課金, トランザクション
 ms.localizationpriority: medium
-ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721788"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390381"
 ---
-# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログを表示する
+# <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログの表示
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 - クラウド ソリューション プロバイダー プログラム パートナー
 
 **適切なロール**
 
-- グローバル管理
+- 全体管理者
 - 課金の管理
 - ユーザー管理者
 - 管理エージェント
@@ -40,7 +40,7 @@ ms.locfileid: "74721788"
 
 **アクティビティ ログを表示およびエクスポートする**
 
-1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
 2. **[アカウント設定]** メニューの **[アクティビティ ログ]** を選択します。
 2.  **[開始]** フィールドと **[終了]** フィールドで、アクティビティ ログの期間を選びます。 アクティビティ ログの既定の設定では、最近 1 か月間のログがエクスポートされます。

@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 間接プロバイダーがクラウドソリューションプロバイダー (CSP) プログラムで間接リセラーと提携し、どのロールが適切かを判断する方法について説明します。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 720d4890eb4d131484a26d489c202ca3f173a006
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ffa27c8f0c099182dc24d44d0ccaef1a6231dead
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943155"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390451"
 ---
 # <a name="work-with-other-partners"></a>他のパートナーとの連携
 
 **適用対象**
 
--  パートナー センター
+-  Partner Center
 
 Microsoft のクラウドソリューションプロバイダー (CSP) プログラムは、パートナーがこれらの方法で連携する機会を提供します。
 
@@ -39,7 +39,7 @@ CSP で間接プロバイダーとして承認されている場合は、間接�
 
 現在、間接リセラーである場合、または間接リセラーとしての CSP への登録にご興味がある場合は、「[CSP での間接プロバイダーとの連携](indirect-reseller-tasks-in-partner-center.md)」で、間接プロバイダーや顧客との関連付けの詳細をご覧ください。
 
-CSP で間接リセラーと間接パートナーのどちらで登録するか検討中の場合は、 [Microsoft Partner Network Web サイト](https://partner.microsoft.com) の「[Explore the Indirect model (間接モデルの概要)](https://partner.microsoft.com/cloud-solution-provider/indirect)」をご覧ください。   
+CSP で間接リセラーと間接パートナーのどちらで登録するか検討中の場合は、 [Microsoft Partner Network Web サイト](https://partner.microsoft.com/cloud-solution-provider/indirect) の「[Explore the Indirect model (間接モデルの概要)](https://partner.microsoft.com)」をご覧ください。   
 
 ## <a name="multi-partner-support"></a>マルチパートナーのサポート
 

@@ -4,28 +4,28 @@ ms.topic: article
 ms.date: 11/25/2019
 Description: パートナーセンターの月単位および年間請求サイクルの違いについて説明します。
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a05f64ac919cce0339f0033fa38a4b43e61d3c08
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722405"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390311"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>月単位および年間請求の相違点
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
 
 - 管理エージェント
 - 課金の管理
-- グローバル管理
+- 全体管理者
 - インセンティブ管理者
 - インセンティブ ユーザー
 - ヘルプデスク エージェント
@@ -37,7 +37,7 @@ ms.locfileid: "74722405"
 
 ほとんどのライセンスベースのサブスクリプションには、毎月または年間請求オプションのオプションがあります。 使用量ベースのサブスクリプションのオプションは、月次請求のみです。
 
-年間請求と月単位の課金は、 **ライセンスごと**ではなく、**サブスクリプションごと**に行われます。
+年間請求と月単位の課金は、  ***not*ライセンスごと**ではなく、**サブスクリプションごと**に行われます。
 
 ### <a name="find-subscription-applicability"></a>サブスクリプションの適用性の検索
 
@@ -145,7 +145,7 @@ CSP プログラムが現在利用可能なすべての市場で、月単位お�
 
 サブスクリプションは、中断日から最大90日後に再アクティブ化できます。 次の請求日に日割り換算の料金が返金されます。 サブスクリプションの更新日は変わりません。
 
-## <a name="pricing"></a>価格設定
+## <a name="pricing"></a>Pricing
 
 ### <a name="offer-pricing"></a>プランの価格
 
@@ -211,7 +211,7 @@ CSP プログラムが現在利用可能なすべての市場で、月単位お�
 
 年間請求されるサブスクリプションが販売されると、そのサブスクリプションの収益は、請求された収益に基づくインセンティブの計算に対して認識されます。
 
-### <a name="payout"></a>お支払い方法
+### <a name="payout"></a>支払い
 
 現時点では、すべてのインセンティブ支払いは1年に2回行われます。 これらのお支払いは、半期の終了日から 45 日後となります。
 
@@ -229,7 +229,7 @@ CSP プログラムが現在利用可能なすべての市場で、月単位お�
 |ラテンアメリカ & ブラジル | <ocilatam@microsoft.com> |
 | EMEA | <ociemea@microsoft.com> |
 | アポストロフィ (日本を除く) | <ociapgc@microsoft.com> |
-| 日本 | <ocijp@microsoft.com> |
+| Japan | <ocijp@microsoft.com> |
 
 
 ### <a name="suspension"></a>一時的

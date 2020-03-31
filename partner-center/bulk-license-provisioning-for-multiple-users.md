@@ -6,27 +6,27 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客アカウントを使用して、一度に1人のユーザーまたは複数のユーザーにライセンスとサービスを割り当てたり、取り消したりする方法について説明します。
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: ライセンスの割り当て, ライセンスの失効, 複数ユーザーへの割り当て,
 ms.localizationpriority: medium
-ms.openlocfilehash: 1caf10625d776578f9b0bc91d40106cdd8dddf99
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722196"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390271"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>複数のユーザーにライセンスを割り当てる、または取り消す
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>複数のユーザーへのライセンスの割り当てまたは取り消し
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 
 **適切なロール**
 
 - 管理エージェント
-- グローバル管理
+- 全体管理者
 - ヘルプデスク エージェント
 - 販売代理店
 - ユーザー管理者
@@ -74,7 +74,7 @@ ms.locfileid: "74722196"
 7. 各製品のチェック ボックスをオンにして、ユーザーに対して複数の製品を選びます。
     -   任意の製品について **[サービス プランを表示する]** を選ぶと、ユーザーに必要なサービス プランを表示して選択できます。
 
-8. **[保存]** を選びます。 パートナー センターで **[更新されたライセンス]** 確認ページが開き、ユーザーとその新しいライセンスが一覧表示されます。
+8. **[保存]** を選択します。 パートナー センターで **[更新されたライセンス]** 確認ページが開き、ユーザーとその新しいライセンスが一覧表示されます。
 
 **注:**   一部の Microsoft 製品は、特定の場所では利用できません。 また、他の製品やサービスに依存する製品や、同じユーザーに一緒に割り当てることができない製品もあります。 保存すると、確認ページに、成功したライセンス割り当てに関するすべてのユーザーの結果と、ライセンス割り当てのエラーの一覧が表示されます。
 
@@ -96,7 +96,7 @@ ms.locfileid: "74722196"
 
 6. **[ライセンスを割り当てと失効]** で、ユーザーに割り当てられている製品のチェック ボックスをオフにします。 たとえば、選択したすべてのユーザーが Office 365 Enterprise のライセンスを持っている場合に、それらを取り消すには、チェック ボックスをオフにします。
 
-7. **[保存]** を選びます。
+7. **[保存]** を選択します。
 
 ## <a name="related-topics"></a>関連トピック
 

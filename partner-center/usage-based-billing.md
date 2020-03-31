@@ -3,23 +3,23 @@ title: 使用量ベースの課金 |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
 Description: パートナーセンターでの使用量ベースの課金に関する情報。毎月の使用率に対して課金されます。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 課金、使用量ベース、使用量
 ms.localizationpriority: medium
-ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389740"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390501"
 ---
 # <a name="usage-based-billing"></a>使用量ベースの課金
 
-- パートナー センター
+- Partner Center
 - CSP プログラムのパートナー
 
-Azure サブスクリプションなどのオンライン サービスを購入すると、月単位の使用率に対して請求されます。 使用量ベースのサービス (Azure など) は、消費量に基づく従量制で請求されます。
+Azure サブスクリプションなどのオンラインサービスを購入すると、毎月の使用率に対して課金されます。 使用量ベースのサービス (Azure など) は、消費量に基づく従量制で請求されます。
 
 Microsoft の一部の製品とサービスでは "従量課金制" の請求モデルが使用されており、使用したサービスに対してのみ請求されます。 たとえば、Microsoft Azure ではこのモデルが使われています。 
 
@@ -33,7 +33,7 @@ Microsoft の一部の製品とサービスでは "従量課金制" の請求モ
 
 サブスクリプションの契約日に生成された料金は、次の請求書と[調整ファイル](usage-based-recon-files.md)に表示されます。
 
-請求書から漏れている使用量請求がある、または前月の使用量が当月の請求書で請求されている、といったことに気付く場合があります。 これはエラーではありません。単に、サービスが発生した後でサービスにタイムスタンプが押されたことを意味します。 請求サイクルの最後の 24 時間以内に報告された使用は、次の月の請求書に表示されます。
+場合によっては、請求書に使用料が不足しているか、前月の使用量が当月の請求書に請求されることがあります。 これはエラーではありません。単に、サービスが発生した後でサービスにタイムスタンプが押されたことを意味します。 請求サイクルが終了してから24時間以内に報告された使用量は、翌月の請求書に表示されます。
 
 ## <a name="cancelling-usage-based-subscriptions"></a>使用量ベースのサブスクリプションの取り消し
 

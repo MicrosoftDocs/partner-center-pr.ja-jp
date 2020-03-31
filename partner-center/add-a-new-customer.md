@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターで新しい顧客レコードを追加する方法について説明します。 その後、顧客のサブスクリプションを販売したり、請求を管理したり、カスタマーサポートを提供したりすることができます。
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 顧客, 顧客の追加, 顧客アカウント, パートナー センターの顧客アカウント, お客様, お客様の追加, 顧客アカウントの作成
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 70961af4dfc4996a62fdb23bc965f0a3d2fb8f37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340082"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390961"
 ---
 # <a name="add-a-new-customer"></a>新しい顧客の追加 
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 - クラウド ソリューション プロバイダー プログラム パートナー
 
@@ -69,7 +69,7 @@ ms.locfileid: "78340082"
 
 7. 顧客情報の追加が完了し、必要なサブスクリプションを購入したら、 **[完了]** を選択します。
 
-## <a name="see-also"></a>関連項目
+## <a name="see-also"></a>参照
 
 - クラウド ソリューション プロバイダー プログラムで顧客に販売できるものについて詳しくは、「[クラウド ソリューション プロバイダー プログラムでのパートナー プラン](csp-offers.md)」をご覧ください。
 

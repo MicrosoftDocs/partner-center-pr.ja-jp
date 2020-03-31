@@ -6,25 +6,25 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 教育機関のお客様、非営利顧客、政府ユーザーなど、特定の顧客グループ向けの特別で低価格の価格について説明します。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5479829dc73c8c45eb6db66b95f481bbddee2efa
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.openlocfilehash: 0d6f79e6bfe04d065318e4f927233877db0286f9
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631811"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390981"
 ---
 # <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 
 **適切なロール**
 
-- グローバル管理
+- 全体管理者
 - 管理エージェント
 - 販売代理店
 
@@ -34,9 +34,9 @@ ms.locfileid: "75631811"
 
 |**特別価格**   |**リセラーに求められる条件**   |**顧客に求められる条件**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |None   | [適格教育ユーザー](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。   |
-|政府   |Azure を販売するには、 [MICROSOFT 米国政府機関向けクラウド検証フォーム](https://azuregov.microsoft.com/csp)を使用して登録します。 政府機関にライセンスベースのサブスクリプションを販売する場合、求められる条件はありません。|   None|
-|非営利団体向け  |None<br>非営利 Azure Active Directory テナントが必要です。<br>[非営利団体向けプラン](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)の詳細情報を確認します。   |適格となるためには、[マイクロソフト非営利団体向けプログラム](https://nonprofit.microsoft.com/#/register)を通じてサインアップします。   |
+|教育   |なし   | [適格教育ユーザー](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。   |
+|政府   |Azure を販売するには、 [MICROSOFT 米国政府機関向けクラウド検証フォーム](https://azuregov.microsoft.com/csp)を使用して登録します。 政府機関にライセンスベースのサブスクリプションを販売する場合、求められる条件はありません。|   なし|
+|非営利団体向け  |なし<br>非営利 Azure Active Directory テナントが必要です。<br>[非営利団体向けプラン](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)の詳細情報を確認します。   |適格となるためには、[マイクロソフト非営利団体向けプログラム](https://nonprofit.microsoft.com/#/register)を通じてサインアップします。   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>リセラーの認定状態を確認する
@@ -57,7 +57,7 @@ ms.locfileid: "75631811"
 
 リセラーと顧客の両方が特価プラン プログラムの資格条件を満たしている場合は、手順に従って[サブスクリプションを追加](create-a-new-subscription.md)します。 **[新しいサブスクリプション]** ページの **[カタログ]** セクションで、特化している業界を選択して、販売できる特別価格を確認します。
 
-## <a name="see-also"></a>「
+## <a name="see-also"></a>参照
 
 [Minecraft の販売: 教育機関のお客様へのサブスクリプション](minecraft-subscriptions.md)
 
