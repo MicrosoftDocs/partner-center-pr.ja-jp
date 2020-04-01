@@ -5,16 +5,16 @@ ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Partner Network (MPN) に参加して、ビジネスの構築と拡大に役立つメンバーシップ特典を管理します。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: MPN、メンバーシップ特典、メンバーシップ
 ms.localizationpriority: high
-ms.openlocfilehash: e7ec97485467d997e770337fa249065d87e6838f
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: e979fff3ccf676208b58f088fe71a66e1095678d
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226088"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390891"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft Partner Network メンバーシップ特典を管理する
 

@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 請求リソース、請求書、CSP 請求に関する情報を含む、パートナー センターの請求に関するトピックについて説明します。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: high
-ms.openlocfilehash: b3052f33b55ea7aa57d5ee9d29d2839791a92088
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 1f782b3696f82bb16487fb4ecae68b806cabfcac
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722166"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390281"
 ---
 # <a name="billing"></a>請求
 
@@ -27,8 +27,8 @@ ms.locfileid: "74722166"
 **適切なロール**
 
 - 管理エージェント
-- 課金の管理
-- 全体管理者
+- 課金管理者
+- グローバル管理者
 - 販売代理店
 
 | トピック | 説明 |

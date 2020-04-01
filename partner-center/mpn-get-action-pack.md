@@ -5,16 +5,16 @@ ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Action Pack サブスクリプションを購入し、Action Pack 特典の使用を開始する方法について説明します。 また、更新、キャンセル、請求書を表示する方法などについても説明します。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Action Pack、MAPS、MAPS の更新、Action Pack の更新、Action Pack の購入
 ms.localizationpriority: high
-ms.openlocfilehash: 22aebf9d6c7098a36ac551763cd85f4de978a8ab
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 2123b2d069aa2ce1fdf1367f0d948c311922d0da
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005103"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390851"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Microsoft Action Pack サブスクリプションを初めて購入する、または Silver コンピテンシーまたは Gold コンピテンシーを更新する
 
@@ -24,7 +24,7 @@ ms.locfileid: "75005103"
 -  Partner Membership Center
 
 **適切なロール**
--   全体管理者
+-   グローバル管理者
 -   ユーザー管理者
 -   MPN パートナー管理者
 -   管理エージェント
@@ -105,7 +105,7 @@ Microsoft Action Pack サブスクリプションを取り消すには、パー�
 
 3. **[請求書のダウンロード]** を選択します。
  
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 -   [Action Pack サブスクリプション特典を使い始める](manage-your-partner-network-benefits.md)
 
@@ -113,7 +113,7 @@ Microsoft Action Pack サブスクリプションを取り消すには、パー�
 
 -   [Silver および Gold コンピテンシーのメンバーシップ レベルの説明](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
--   [ユーザーの追加とアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)
+-   [ユーザーを追加してアクセル許可を割り当てる](create-user-accounts-and-set-permissions.md)
 
 -   [ビジネス プロファイルの作成と Microsoft からの潜在顧客の獲得](create-a-marketing-profile.md)
 

@@ -5,16 +5,16 @@ ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客と共に確認する、Microsoft 顧客契約の地域や言語に固有のバージョンをどこから検索してダウンロードできるかについて説明します。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Microsoft 顧客契約, 顧客契約テンプレート, CSP 顧客契約, Microsoft 顧客契約, MCA, CSP, CSP で販売できる国または地域, CSP の国または地域、CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南アメリカ, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
 ms.localizationpriority: high
-ms.openlocfilehash: 9acf143bdbeeea29c7fc7ec71ca459c57b20e8ca
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 501d6d933ba253e42875056e0e245b0af65138b3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672792"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389631"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>地域と言語別の Microsoft 顧客契約
 

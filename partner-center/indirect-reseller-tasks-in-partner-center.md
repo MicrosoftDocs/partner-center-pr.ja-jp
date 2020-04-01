@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムの間接リセラーが、カスタマー サポートと請求に役立つ Microsoft 間接プロバイダー (またはディストリビューター) とどのように連携できるかについて説明します。
 ms.prod: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 間接リセラー, リセラー, 間接プロバイダー, プロバイダー, パートナーシップ, VAR, tier2, 階層 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ff486a7d6f23ce13fddfcccb29ce4389ca44d3cb
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004801"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390921"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携
 
 **適切なロール**
--   全体管理者
+-   グローバル管理者
 -   ユーザー管理者
 -   管理エージェント
 -   販売代理店
@@ -47,7 +47,7 @@ CSP プログラムで間接リセラーとして販売を行うために必要�
 > [!NOTE]  
 > 既に CSP に登録しているリセラーは、場合によっては、カスタマー サポートの連絡先情報のみを入力して、パートナー センターにリセラー アカウントを作成できます。 
 
-### <a name="before-you-begin"></a>始める前に
+### <a name="before-you-begin"></a>開始する前に
 
 初めて CSP を使用する場合、間接リセラーとしてプログラムに登録し、パートナー センターでアカウントを作成する必要があります。 登録プロセスでは、次の情報の入力が必要になります。 作業を開始する前に、これらの情報を手元に準備してください。
 
@@ -63,7 +63,7 @@ Office 365、Microsoft Azure、または Microsoft Dynamics CRM のログイン�
  
 提供された情報の審査と検証に数日かかることがあります。 審査が完了すると、第一連絡先担当者にメールで通知されます。
 
-### <a name="get-started"></a>はじめに
+### <a name="get-started"></a>開始
 
 1.  [ここをクリック](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)して登録プロセスを開始します。
 
@@ -93,11 +93,11 @@ Office 365、Microsoft Azure、または Microsoft Dynamics CRM のログイン�
 
 9.  パートナー センター アカウントが使用可能になったら、貴社が管理エージェント グループに追加されていることを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
-a.  **パートナー センター**の **[設定]** アイコンを選択し、 **[ユーザー管理]** を選択します。  
+a。  **パートナー センター**の **[設定]** アイコンを選択し、 **[ユーザー管理]** を選択します。  
 
 b.  ユーザーの一覧から自分の名前を選び、 **[管理エージェント]** を選択します (まだ選択されていない場合)。 **[更新]** を選択します。   
 
-## <a name="add-a-new-user"></a>新しいユーザーの追加
+## <a name="add-a-new-user"></a>［新しいユーザーを追加する］
 
 1. **パートナー センター**の **[設定]** アイコンを選択し、 **[ユーザー管理]** を選択します。
 
@@ -197,7 +197,7 @@ Office 365 パートナー管理センターや Microsoft Azure 管理ポータ�
 5.  顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、顧客の名前の下矢印を選んで、顧客のレコードを展開します。
 
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 [パートナー センター アカウントの管理](partner-center-account-setup.md)
 
