@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: アクセスを必要とする各従業員のユーザー アカウントを作成し、パートナー センターでロールを割り当てる方法について説明します。 別の管理者特権を持つユーザーが、これを行うことができます。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: ロール, アクセス許可,ユーザーの追加, ロールの割り当て, 管理者, エージェント,
 ms.localizationpriority: high
-ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240209"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389651"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>ユーザー アカウントの作成とアクセス許可の設定
 
@@ -43,15 +43,24 @@ ms.locfileid: "78240209"
 > [!IMPORTANT]  
 > このページに表示される、新しいユーザーのサインイン情報を書き留めます。 この情報は後から確認できないため、必ず書き留めて新しいユーザーに送信してください。 
 
+
 ユーザーは、ユーザー名と一時パスワードを使ってパートナー センターにサインインする必要があります。 ユーザーがパートナーセンターに初めてサインインすると、パスワードの変更を求めるメッセージが表示されます。 
 
-> [!NOTE]  
->  グローバル管理者が組織を去ったり、別のロールに移動したりしたために、新しいグローバル管理者を追加する必要がある場合は、[MPN ポータル](https://partner.microsoft.com/support)でサービス リクエストをログに記録します。 サポート エージェントは、要求元が必須の個人識別情報を提供でき、組織に関する追加情報を提供できる場合、ユーザーをグローバル管理者に昇格することを要求できます。
 
 ### <a name="find-your-global-admin"></a>グローバル管理者を見つける
 
 ユーザーのロールを変更する必要がある場合、または新しいユーザーに特定のロールを割り当てる必要がある場合があります。  
 ロールを変更したり、新しいユーザーにロールを割り当てたりできるグローバル管理者を探すには、パートナー センターの上部にある**設定アイコン**から **[ユーザー管理]** を選択し、グローバル管理者でフィルター処理します。 
+
+
+### <a name="new-global-admin"></a>新しいグローバル管理者
+
+グローバル管理者が退職し、別のユーザーにこのロールを割り当てる必要がある場合は、Azure または Office 365 チームのいずれかにチケットを送信できます。 これを行う方法については、次のいずれかのオプションを選択してください。
+
+[Azure の新しいグローバル管理者](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
+
+[Office 365 の新しいグローバル管理者](https://admin.microsoft.com/)
+
 
 ## <a name="assign-user-roles"></a>ユーザーにロールを割り当てる
 
@@ -94,7 +103,6 @@ ms.locfileid: "78240209"
 1. パートナー センター ダッシュボードで、ダッシュボードの右上隅にある **[アカウント]** アイコンを選択し、 **[My profile]\(プロファイル\)** を選択します。
 
 2. **[Your learning]\(ラーニング\)** では、お客様の Microsoft Learning アカウントを関連付けることができます。また、Microsoft アカウントを Partner University に接続することもできます。
-
 
 
 
