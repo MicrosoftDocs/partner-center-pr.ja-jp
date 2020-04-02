@@ -6,24 +6,24 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターでメトリックを使用して、ビジネスが成長しているかどうか、顧客がライセンスをどのように使用しているか、および投資に焦点を当てる場所を確認する方法について説明します。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004781"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390941"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>導入実績を高めて満足度を向上させる
+# <a name="increase-adoption-and-satisfaction"></a>導入実績と満足度の向上
 
 **適用対象**
 
--  パートナー センター
+-  Partner Center
 
 **適切なロール**
--   グローバル管理
+-   全体管理者
 -   ユーザー管理者
 -   管理エージェント
 -   販売代理店
@@ -67,7 +67,7 @@ ms.locfileid: "75004781"
 
     -   一部の顧客がライセンスで付与されている権利の数を大幅に超える Yammer を使用している場合。データが大幅に歪められることがあります。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次のステップ:
 
 
 多くのヘルプと操作方法についてフィールディング、アカウントの導入数が少ない場合、またはアップセルの機会を探している場合は、トレーニングコースの提供を検討することをお勧めします。 顧客が購入したクラウドソリューションソフトウェアをより適切に使用する方法を説明することで、生産性と満足度が向上し、サポートニーズが減少します。
