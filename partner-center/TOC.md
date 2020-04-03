@@ -40,7 +40,6 @@
 ## [クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行](transition-direct-to-indirect.md)
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
 ## [CSP の地域市場と通貨](regional-authorization-overview.md)
-## [Microsoft 顧客契約へのお客様の同意を確認する](confirm-consent.md)
 ## [Microsoft 顧客契約へのお客様の同意を確認する](confirm-customer-agreement.md)
 ### [顧客に代わって顧客契約の同意を証明する場合](attest-acceptance-customer-agreement.md)
 
@@ -65,12 +64,15 @@
 ## [中断されたパートナー センター アカウントの復元](suspended-partner-center-account.md)
 ## [Azure AD アプリケーションの追加](service-principal.md)
 ## [Microsoft Learn アカウントとパートナー センターを関連付ける](ms-learn-associate.md)
+
 # パートナー センター アカウントの管理 - ユーザー
 ## [ユーザー アカウントの作成](create-user-accounts-and-set-permissions.md)
 ## [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
 ## [コントロール パネル ベンダーとして登録する](enroll-as-cpv.md)
 ## [ユーザー パスワードのリセット](reset-a-user-password.md)
 ## [パスワードのリセット](reset-my-pasword.md)
+## [パートナー センターにサインインできない場合](unable-to-sign-in.md)
+
 # パートナー センター アカウントの管理 - ビジネス
 ## [Azure Partner Shared Services の追加](shared-services.md)
 ## [料金とプラン](pricing-and-offers.md)
