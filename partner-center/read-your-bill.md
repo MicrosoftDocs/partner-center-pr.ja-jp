@@ -1,5 +1,5 @@
 ---
-title: 請求書の記載事項 | パートナー センター
+title: 請求書を理解する |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
 description: 請求書は、現在の月額期間のすべてのパートナーセンターの料金 (プログラム、製品、および顧客にわたる) の概要です。
@@ -10,65 +10,119 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e5171a44ba8f23955847f6450e59b948f3c7d52
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
+ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390711"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "80634805"
 ---
-# <a name="read-your-bill"></a><span data-ttu-id="04c22-104">請求書の記載事項</span><span class="sxs-lookup"><span data-stu-id="04c22-104">Read your bill</span></span>
+# <a name="understand-your-bill"></a><span data-ttu-id="fcdf8-104">請求書を理解する</span><span class="sxs-lookup"><span data-stu-id="fcdf8-104">Understand your bill</span></span>
 
-<span data-ttu-id="04c22-105">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="04c22-105">**Applies to**</span></span>
+<span data-ttu-id="fcdf8-105">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="fcdf8-105">**Applies to**</span></span>
 
-- <span data-ttu-id="04c22-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="04c22-106">Partner Center</span></span>
-- <span data-ttu-id="04c22-107">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="04c22-107">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="fcdf8-106">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="fcdf8-106">Partner Center</span></span>
+- <span data-ttu-id="fcdf8-107">米国政府機関向け Microsoft Cloud のパートナー センター</span><span class="sxs-lookup"><span data-stu-id="fcdf8-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="04c22-108">**適切なロール**</span><span class="sxs-lookup"><span data-stu-id="04c22-108">**Appropriate roles**</span></span>
--   <span data-ttu-id="04c22-109">全体管理者</span><span class="sxs-lookup"><span data-stu-id="04c22-109">Global admin</span></span>
--   <span data-ttu-id="04c22-110">ユーザー管理者</span><span class="sxs-lookup"><span data-stu-id="04c22-110">User admin</span></span>
--   <span data-ttu-id="04c22-111">課金の管理</span><span class="sxs-lookup"><span data-stu-id="04c22-111">Billing admin</span></span>
--   <span data-ttu-id="04c22-112">管理エージェント</span><span class="sxs-lookup"><span data-stu-id="04c22-112">Admin agent</span></span>
--   <span data-ttu-id="04c22-113">MPN パートナー管理者</span><span class="sxs-lookup"><span data-stu-id="04c22-113">MPN partner admin</span></span>
+<span data-ttu-id="fcdf8-108">**適切なロール**</span><span class="sxs-lookup"><span data-stu-id="fcdf8-108">**Appropriate roles**</span></span>
 
-<span data-ttu-id="04c22-114">**請求書**は、**現在の請求期間**における**すべてのパートナーセンターの請求**(プログラム、すべての製品、すべての顧客) の概要です。</span><span class="sxs-lookup"><span data-stu-id="04c22-114">Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers) for the **current billing period**.</span></span>
+- <span data-ttu-id="fcdf8-109">全体管理者</span><span class="sxs-lookup"><span data-stu-id="fcdf8-109">Global admin</span></span>
+- <span data-ttu-id="fcdf8-110">課金の管理</span><span class="sxs-lookup"><span data-stu-id="fcdf8-110">Billing admin</span></span>
+- <span data-ttu-id="fcdf8-111">管理エージェント</span><span class="sxs-lookup"><span data-stu-id="fcdf8-111">Admin agent</span></span>
 
-## <a name="invoice-types"></a><span data-ttu-id="04c22-115">請求書の種類</span><span class="sxs-lookup"><span data-stu-id="04c22-115">Invoice types</span></span>
 
-<span data-ttu-id="04c22-116">ライセンスベースの料金 (Office 365 など) と使用量ベースの料金 (Azure など) に対して1つの請求書を受け取ります。</span><span class="sxs-lookup"><span data-stu-id="04c22-116">You will receive one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure).</span></span>
+<span data-ttu-id="fcdf8-112">**請求書**は、**すべてのパートナーセンターの請求**(プログラム全体、すべての製品、およびすべての顧客) の概要です。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-112">Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers).</span></span> 
 
-<span data-ttu-id="04c22-117">1回限りの料金 (Azure reserved VM instances など) に対して別の請求書が送信されます。</span><span class="sxs-lookup"><span data-stu-id="04c22-117">You will receive a separate invoice for one-time charges (such as Azure reserved VM instances).</span></span>
+## <a name="invoice-types"></a><span data-ttu-id="fcdf8-113">請求書の種類</span><span class="sxs-lookup"><span data-stu-id="fcdf8-113">Invoice types</span></span>
 
-## <a name="invoice-file-fields"></a><span data-ttu-id="04c22-118">請求書ファイルのフィールド</span><span class="sxs-lookup"><span data-stu-id="04c22-118">Invoice file fields</span></span>
+<span data-ttu-id="fcdf8-114">Microsoft は、ライセンスベースの料金 (Office 365 など) と使用量ベースの料金 (Azure など) に対して1つの請求書を発行し、1回限りの料金 (Azure RI、Marketplace、Azure プランなど) に対して個別の請求書を発行します。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-114">Microsoft will issue one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure) and a separate invoice for one-time charges (such as Azure RI, Marketplace, Azure plan etc).</span></span> 
 
-<span data-ttu-id="04c22-119">請求書ファイル内のすべてのフィールド (1 回限りの料金のフィールドを含む) の詳細については、「[請求書ファイルのフィールド](invoice-file.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="04c22-119">For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).</span></span>
+<span data-ttu-id="fcdf8-115">以下に例を示します。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-115">For example,</span></span>  
 
-## <a name="find-your-bill"></a><span data-ttu-id="04c22-120">請求書の検索</span><span class="sxs-lookup"><span data-stu-id="04c22-120">Find your bill</span></span>
+<span data-ttu-id="fcdf8-116">**シナリオ 1 [Single Currency]** : パートナーは145P プランと O365 ライセンスを購入しています。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-116">**Scenario 1 [Single Currency]**: Partner have purchases for 145P offer and O365 licenses,</span></span>  
 
-<span data-ttu-id="04c22-121">請求書は、パートナーセンターのダッシュボードの **[課金]** ページで確認できます。</span><span class="sxs-lookup"><span data-stu-id="04c22-121">You can find your invoice on the **Billing** page of the dashboard in Partner Center.</span></span> <span data-ttu-id="04c22-122">このページでは、請求履歴、支出傾向、および調整ファイルを見つけることもできます。</span><span class="sxs-lookup"><span data-stu-id="04c22-122">You can also find your billing history, spending trends, and reconciliation files on this page.</span></span>
+- <span data-ttu-id="fcdf8-117">パートナーは、O365 と Azure (145p) の両方の料金をカバーする1つの請求書 PDF と2つの調整ファイルを取得します。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-117">Partner will get one invoice PDF and 2 reconciliation files covering the charges for both O365 and Azure (145p).</span></span>  
 
-1. <span data-ttu-id="04c22-123">パートナーセンターでダッシュボードにサインインします。</span><span class="sxs-lookup"><span data-stu-id="04c22-123">Sign in to the dashboard in Partner Center.</span></span>
-2. <span data-ttu-id="04c22-124">左側のメニューで、 **[課金]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="04c22-124">In the left-hand menu, select **Billing**.</span></span>
-3. <span data-ttu-id="04c22-125">**[課金]** ページで、ダウンロードする請求書を選択します。</span><span class="sxs-lookup"><span data-stu-id="04c22-125">On the **Billing** page, select the invoice you want to download.</span></span>
-    - <span data-ttu-id="04c22-126">最新の請求書へのリンクについては、**最後の請求日の**時点で、[アカウントの残高] の下に表示されます。</span><span class="sxs-lookup"><span data-stu-id="04c22-126">You can find a link to your latest invoice at the top of the page under **Account balance as of last invoice date**.</span></span>
-    - <span data-ttu-id="04c22-127">以前の請求書は、 **[請求履歴]** セクションで確認できます。</span><span class="sxs-lookup"><span data-stu-id="04c22-127">You can find previous invoices in the **Billing history** section.</span></span> <span data-ttu-id="04c22-128">適切な年を選択し、適切な**請求期間**の横にあるドロップダウン矢印を選択します。</span><span class="sxs-lookup"><span data-stu-id="04c22-128">Choose the appropriate year, then select the drop-down arrow next to the appropriate **Billing period**.</span></span> <span data-ttu-id="04c22-129">**請求書 (.pdf)** の横にあるリンクを選択して、その期間の請求書をダウンロードできます。</span><span class="sxs-lookup"><span data-stu-id="04c22-129">You can select the link next to **Invoices (.pdf)** to download that period's invoice.</span></span>
+<span data-ttu-id="fcdf8-118">**シナリオ 2 [Single Currency]** : パートナーは、145p 購入と共に、azure RI、Marketplace、または azure プランを購入しています。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-118">**Scenario 2 [Single Currency]**: Partner have purchases for Azure RI, Marketplace and/or Azure plan along with 145p purchases.</span></span> 
 
-## <a name="understand-billing-periods"></a><span data-ttu-id="04c22-130">請求期間について</span><span class="sxs-lookup"><span data-stu-id="04c22-130">Understand billing periods</span></span>
+- <span data-ttu-id="fcdf8-119">パートナーは、1つの請求書 PDF と、Azure の料金 (145p) をカバーする調整ファイルを取得します。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-119">Partner will get one invoice PDF and a reconciliation file covering the charges for Azure (145p).</span></span> 
 
-<span data-ttu-id="04c22-131">請求書は、選択した請求日の**2 日**以内に**UTC 時間**でご利用いただけます。</span><span class="sxs-lookup"><span data-stu-id="04c22-131">Your invoice is available within **two (2) days** of your selected billing date in **UTC time**.</span></span>
+- <span data-ttu-id="fcdf8-120">パートナーは、Azure RI、Marketplace、Azure プランの料金をカバーする別の請求書 PDF と調整ファイルを受け取ります。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-120">Partner will receive another invoice PDF and a reconciliation file covering their charges for Azure RI, Marketplace, Azure plan.</span></span> 
 
-<span data-ttu-id="04c22-132">たとえば、月単位の月額請求日がある場合は、次のようになります。</span><span class="sxs-lookup"><span data-stu-id="04c22-132">For example, if you have a September 12th monthly billing date:</span></span>
+<span data-ttu-id="fcdf8-121">**シナリオ 3 [マルチ通貨]** : パートナーは、eur での DKK および azure プランの azure RI と、eur で145p の購入を購入しています。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-121">**Scenario 3 [Multi-Currency]**: Partner have purchases for Azure RI in DKK and Azure plan in EUR along with 145p purchases in EUR.</span></span> 
 
-- <span data-ttu-id="04c22-133">請求書生成処理は、9月13日の午前12時00時に**開始**されます。</span><span class="sxs-lookup"><span data-stu-id="04c22-133">The invoice generation process will **begin** at 12:00AM UTC on September 13th.</span></span>
-- <span data-ttu-id="04c22-134">請求書の生成処理は、9月14日の午前12時 (UTC) に**完了**します。</span><span class="sxs-lookup"><span data-stu-id="04c22-134">The invoice generation process will **complete** by 12:00AM UTC on September 14th.</span></span>
-- <span data-ttu-id="04c22-135">11月15日に 59PM UTC で請求書が表示されない場合は、サービスレベルアグリーメント (SLA) を超えているため、サービスリクエストを送信する必要があります。</span><span class="sxs-lookup"><span data-stu-id="04c22-135">If you do not see your invoice by 11:59PM UTC on September 15th, you’re out of your Service Level Agreement (SLA) and should file a service request.</span></span>
+- <span data-ttu-id="fcdf8-122">パートナーは、1つの請求書 PDF と、DKK における Azure RI の料金をカバーする調整ファイルを受け取ります。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-122">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure RI in DKK.</span></span> 
 
-### <a name="csp-monthly-billing"></a><span data-ttu-id="04c22-136">CSP の月額料金</span><span class="sxs-lookup"><span data-stu-id="04c22-136">CSP monthly billing</span></span>
+- <span data-ttu-id="fcdf8-123">パートナーは、1つの請求書 PDF と、EUR での Azure プランの料金をカバーする調整ファイルを受け取ります。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-123">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure plan in EUR.</span></span> 
 
-<span data-ttu-id="04c22-137">月々の課金対象として選択したクラウドソリューションプロバイダー (CSP) プログラムのパートナーは、お客様のサブスクリプション (ライセンスベースおよび使用状況ベースのサブスクリプションの両方) について、Microsoft 60 日分の料金を支払います。</span><span class="sxs-lookup"><span data-stu-id="04c22-137">Partners in the Cloud Solution Provider (CSP) program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based subscriptions).</span></span>
+- <span data-ttu-id="fcdf8-124">パートナーは、EUR (またはパートナー請求通貨) で145p プランの料金をカバーする別の請求書 PDF と調整ファイルを受け取ります。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-124">Partner will receive another invoice PDF and a reconciliation file covering their charges for 145p offer in EUR (or partner billing currency).</span></span> 
 
-## <a name="find-itemized-details-for-charges"></a><span data-ttu-id="04c22-138">料金の明細項目の詳細を検索する</span><span class="sxs-lookup"><span data-stu-id="04c22-138">Find itemized details for charges</span></span>
+## <a name="find-your-bill"></a><span data-ttu-id="fcdf8-125">請求書の検索</span><span class="sxs-lookup"><span data-stu-id="fcdf8-125">Find your bill</span></span> 
 
-<span data-ttu-id="04c22-139">調整ファイルを使用して、料金に関する明細項目の詳細を確認できます。</span><span class="sxs-lookup"><span data-stu-id="04c22-139">You can understand itemized details about your charges using your reconciliation files.</span></span> <span data-ttu-id="04c22-140">調整ファイルには、顧客の請求書の作成に使用できる顧客 id とサブスクリプション id が含まれています。</span><span class="sxs-lookup"><span data-stu-id="04c22-140">The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.</span></span>
+<span data-ttu-id="fcdf8-126">請求書は、パートナーセンターのダッシュボードの [課金] ページで確認できます。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-126">You can find your invoice on the Billing page of the dashboard in Partner Center.</span></span> <span data-ttu-id="fcdf8-127">このページでは、請求履歴、支出傾向、および調整ファイルを見つけることもできます。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-127">You can also find your billing history, spending trends, and reconciliation files on this page.</span></span> 
 
-<span data-ttu-id="04c22-141">詳しくは、「[調整ファイルの使用方法](use-the-reconciliation-files.md)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="04c22-141">For more information, see [How to use the reconciliation files](use-the-reconciliation-files.md).</span></span>
+1. <span data-ttu-id="fcdf8-128">パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-128">Sign in to the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span> 
+
+2. <span data-ttu-id="fcdf8-129">左側のメニューで、[ **課金**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-129">In the left-hand menu, select **Billing**.</span></span> 
+
+3. <span data-ttu-id="fcdf8-130">[課金] ページで、ダウンロードする請求書を選択します。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-130">On the Billing page, select the invoice you want to download.</span></span> 
+
+<span data-ttu-id="fcdf8-131">最新の請求書へのリンクについては、最後の請求日の時点で、[アカウントの残高] の下に表示されます。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-131">You can find a link to your latest invoice at the top of the page under Account balance as of last invoice date.</span></span> 
+
+<span data-ttu-id="fcdf8-132">以前の請求書は、[請求履歴] セクションで確認できます。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-132">You can find previous invoices in the Billing history section.</span></span> <span data-ttu-id="fcdf8-133">適切な年を選択し、適切な請求期間の横にあるドロップダウン矢印を選択します。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-133">Choose the appropriate year, then select the drop-down arrow next to the appropriate Billing period.</span></span> <span data-ttu-id="fcdf8-134">請求書 (.pdf) の横にあるリンクを選択して、その期間の請求書をダウンロードします。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-134">Select the link next to Invoices (.pdf) to download that period's invoice.</span></span> 
+
+## <a name="understanding-invoice-pdf"></a><span data-ttu-id="fcdf8-135">請求書の PDF について</span><span class="sxs-lookup"><span data-stu-id="fcdf8-135">Understanding invoice PDF</span></span> 
+
+<span data-ttu-id="fcdf8-136">**使用量とライセンスに基づく請求書**: Office 365 や Azure などのサービスに対する請求書は、選択した請求日の2日以内に利用可能になります [UTC]。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-136">**Invoices for Usage and license-based charges**: Invoices for charges for services such as Office 365 and Azure will be available within two (2) days of your selected billing date [UTC].</span></span>  
+
+<span data-ttu-id="fcdf8-137">**Onetime の請求書と定期的な料金**: azure RI、azure Plan、Marketplace などのサービスの請求書は、毎月8日以降にご利用いただけます。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-137">**Invoices for onetime and recurring charges**: Invoices for charges for services such as Azure RI, Azure plan, Marketplace will be available not later than 8th of every month.</span></span>  
+
+<span data-ttu-id="fcdf8-138">Invoice PDF ドキュメントの主なフィールドの一部を次に示します。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-138">Below are some of the key fields on the Invoice PDF document –</span></span> 
+
+<span data-ttu-id="fcdf8-139">**請求書番号**: それぞれの請求期間に対して生成された請求書ドキュメントの一意の識別子。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-139">**Invoice number**: Unique identifier for the invoice document generated for the respective billing period.</span></span> 
+
+<span data-ttu-id="fcdf8-140">**請求期間**: 使用状況とライセンスベースのサービスがある期間です。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-140">**Billing period**: This is the period during which you have usages and license-based services.</span></span> 
+
+<span data-ttu-id="fcdf8-141">**請求日**: 請求書が毎月生成される請求日または記念日。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-141">**Invoice date**: The billing date or anniversary date on which your invoice is generated each month.</span></span> 
+
+<span data-ttu-id="fcdf8-142">**支払い期日**: 支払いを受け取る必要がある日付。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-142">**Payment due date**: The date by which your payment must be received.</span></span> 
+
+<span data-ttu-id="fcdf8-143">**料金**: それぞれの請求期間における請求通貨の金額。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-143">**Charges**: The amount due in your billing currency for the respective billing period.</span></span> 
+
+<span data-ttu-id="fcdf8-144">**クレジット**: クレジット (SLA など) またはサブスクリプションに対して行われた変更の調整 (接続クライアント数の増加や減少など)。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-144">**Credits**: Credits (such as SLA) or adjustments for changes made to subscriptions (for example, seat increases or decreases).</span></span> 
+
+<span data-ttu-id="fcdf8-145">**お支払い**方法: お客様の地域に基づいて請求書を支払う方法について説明します。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-145">**Payment instructions**: Description of how to pay your invoice, based on your region.</span></span> <span data-ttu-id="fcdf8-146">支払いを行う場合は、常に請求書番号を含めてください。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-146">Always be sure to include your invoice number when making a payment.</span></span> 
+
+<span data-ttu-id="fcdf8-147">請求書ファイル内のすべてのフィールド (1 回限りの料金のフィールドを含む) の詳細については、「 [請求書ファイルのフィールド](https://docs.microsoft.com/partner-center/invoice-file)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-147">For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](https://docs.microsoft.com/partner-center/invoice-file).</span></span> 
+
+## <a name="understand-reconciliation-file"></a><span data-ttu-id="fcdf8-148">調整ファイルについて</span><span class="sxs-lookup"><span data-stu-id="fcdf8-148">Understand reconciliation file</span></span> 
+
+ <span data-ttu-id="fcdf8-149">調整ファイルは、料金のドリルダウン/明細項目の詳細を提供し、請求書 PDF と共にダウンロードできます。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-149">Reconciliation files, which provides a drill down/itemized details of your charges, are available to download along with the Invoice PDF.</span></span> <span data-ttu-id="fcdf8-150">調整ファイルには、顧客の請求書の作成に使用できる顧客 id とサブスクリプション id が含まれています。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-150">The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.</span></span> <span data-ttu-id="fcdf8-151">偵察ファイルの詳細については [、「調整ファイルの使用方法](https://docs.microsoft.com/partner-center/use-the-reconciliation-files)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="fcdf8-151">Please refer to  [How to use the reconciliation files](https://docs.microsoft.com/partner-center/use-the-reconciliation-files) to get more details on the recon files.</span></span> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
