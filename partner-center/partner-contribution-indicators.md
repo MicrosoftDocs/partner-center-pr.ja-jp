@@ -1,7 +1,7 @@
 ---
 title: パートナー貢献度インジケーター | パートナー センター
 ms.topic: article
-ms.date: 03/25/2020
+ms.date: 04/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーの会社が Dynamics 365 Customer Engagement または Dynamics 365 Finance and Operationsでどのような実績を上げているかを示すデータ
@@ -11,25 +11,26 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6b100d4dbac6d311942f06ab895ce57f89921c42
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 38afc73a347d2a356f4786abfe1f85bdb2289dd9
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296462"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676862"
 ---
 # <a name="partner-contribution-indicators"></a>パートナー貢献度インジケーター
 
 パートナー貢献指標 (PCI) は、お客様の成果を促進するためのパートナーの影響を包括的に測定します。そのため、パートナーがクラウド Business Applications コンピテンシーをとれして管理している場合は、市場において大きな違いをもたらします. パートナーは、デプロイの成功や使用量の増加など、顧客の成功の主要な指標に対するクレジットを受け取り、その技術的な機能に投資してスケールアウトすることができます。
 
-## <a name="scoring"></a>スコア付け
+
+## <a name="scoring"></a>ポイントの計算
 
 PCI は、パートナーの技術的な機能、顧客の成功を促進する機能、および販売実績の高度なビューを提供します。 PCI は、7つの主要指標にわたって、会社の前年のパフォーマンスを測定します。
 
 1. **純利益**: Microsoft Dynamics 365 製品のすべての販売チャネルにおける新しい収益。
 2. **Net customer**は、すべての販売チャネルで Dynamics 365 を獲得した net 顧客を追加します。
 3. **機能コンサルタント**: 現在アクティブな機能コンサルタントを持つユーザーの数によって、Dynamics 365 の認定が関連付けられます。 
-4. **機能コンサルタントの成長**—機能コンサルタントの数の増加。 このメトリックのベースラインスナップショットを取得するタイミングは再評価されます。 これは、前に示した2020年3月31日では行われません。 新しい日付を設定した場合は、このドキュメントを更新し、パートナーセンターおよび電子メールで通知します。
+4. **機能コンサルタントの成長**—機能コンサルタントの数の増加。  PCI の機能コンサルタントの拡張メトリックのベースラインスナップショットは、2020年10月1日に実行されるようになります。  
 5. **開発者**—現在アクティブな開発者を持つユーザーの数は、Dynamics 365 の認定を関連付けます。
 6. **新しい大規模なデプロイ**—過去12か月間にわたって高使用率のしきい値を超える運用テナントの数。
 7. **月ごとのアクティブなユーザーの成長**-過去12か月間のすべての顧客にわたる月ごとのアクティブなユーザーの成長。
@@ -54,7 +55,8 @@ PCI は、パートナーの技術的な機能、顧客の成功を促進する�
 
 ![Finance](images/pci/table_2.png)
 
-![コンサルタント](images/pci/table_3.png)
+![専門](images/Table3.PNG) 
+
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>PCI メトリックの詳細な定義
 
@@ -62,7 +64,9 @@ PCI は、パートナーの技術的な機能、顧客の成功を促進する�
 
 ![net adds](images/pci/netadds.png)
 
-![機能コンサルタント](images/pci/funcconsult.png)
+
+![機能コンサルタント数 (Functional consultants)](images/pci/funcconsult.png)
+
 
 ![機能コンサルタント増加率 (Functional consultant growth)](images/pci/4_Functional_consultant_growth.png)
 
@@ -74,7 +78,7 @@ PCI は、パートナーの技術的な機能、顧客の成功を促進する�
 
 ## <a name="customer-to-partner-association"></a>顧客とパートナーの関連付け
 
-クラウドソリューションプロバイダー (CSP) の場合にのみ、メトリック定義の境界内で、純利益、純顧客の追加、新しい大規模なデプロイ、および特定の顧客に対する毎月のアクティブユーザーの成長に対応するクレジットを受け取ります。または、お客様のテナントに属する有料サブスクリプションの場合は、デジタルパートナーのレコード (または)。
+クラウドソリューションプロバイダー (CSP)、顧客のテナントに属している有料サブスクリプションについては、クラウドソリューションプロバイダー (CSP)、要求されたパートナーのレコード (CPOR)、またはデジタルパートナーのレコード (またはそのいずれか) である場合にのみ、純利益、純顧客の追加、新規の大規模なデプロイ、および特定の顧客に対する
 
 パートナーは、Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) インセンティブまたは Dynamics 365 [online services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (osu) インセンティブを通じて、サブスクリプションレベルで顧客との関連付けが確立されている場合には、cpor なります。
 

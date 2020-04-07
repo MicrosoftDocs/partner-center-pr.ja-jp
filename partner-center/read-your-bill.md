@@ -1,7 +1,7 @@
 ---
 title: 請求書を理解する |パートナーセンター
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 04/03/2020
 description: 請求書は、現在の月額期間のすべてのパートナーセンターの料金 (プログラム、製品、および顧客にわたる) の概要です。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,18 +10,18 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
-ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
+ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "80634805"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676844"
 ---
 # <a name="understand-your-bill"></a>請求書を理解する
 
 **適用対象**
 
-- パートナー センター
+- Partner Center
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
@@ -93,11 +93,11 @@ Invoice PDF ドキュメントの主なフィールドの一部を次に示し�
 
 **お支払い**方法: お客様の地域に基づいて請求書を支払う方法について説明します。 支払いを行う場合は、常に請求書番号を含めてください。 
 
-請求書ファイル内のすべてのフィールド (1 回限りの料金のフィールドを含む) の詳細については、「 [請求書ファイルのフィールド](https://docs.microsoft.com/partner-center/invoice-file)」を参照してください。 
+請求書ファイル内のすべてのフィールド (1 回限りの料金のフィールドを含む) の詳細については、「 [請求書ファイルのフィールド](invoice-file.md)」を参照してください。 
 
 ## <a name="understand-reconciliation-file"></a>調整ファイルについて 
 
- 調整ファイルは、料金のドリルダウン/明細項目の詳細を提供し、請求書 PDF と共にダウンロードできます。 調整ファイルには、顧客の請求書の作成に使用できる顧客 id とサブスクリプション id が含まれています。 偵察ファイルの詳細については [、「調整ファイルの使用方法](https://docs.microsoft.com/partner-center/use-the-reconciliation-files)」を参照してください。 
+ 調整ファイルは、料金のドリルダウン/明細項目の詳細を提供し、請求書 PDF と共にダウンロードできます。 調整ファイルには、顧客の請求書の作成に使用できる顧客 id とサブスクリプション id が含まれています。 偵察ファイルの詳細については [、「調整ファイルの使用方法](use-the-reconciliation-files.md)」を参照してください。 
 
 
 
