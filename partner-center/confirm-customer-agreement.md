@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート
 ms.localizationpriority: high
-ms.openlocfilehash: 73e8f592aa8232a87bb112913e20e958fb899927
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 51bfe2c132b4c5ba5d9b285164ee99a29cfcc22f
+ms.sourcegitcommit: 43569a21c4f5cb5405f2acea6ace69640a2eee5e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672852"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "80805981"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 顧客契約に対する顧客の同意を確認する
 
@@ -168,7 +168,7 @@ ms.locfileid: "77672852"
 
 4. このメール テンプレートを使用して、 **[reseller relationship]\(リセラー関係\)** の要求と **[Microsoft 顧客契約]** に同意するよう顧客に要請します。 (注:パートナーは、この要請メールに、自動的に作成された URL と、先ほど作成された顧客の資格情報も含めてください。)
 
-![関係を作成する](images/mca/createrelationship.jpg)
+![関係を作成する](images/mca/createrelationship.png)
 
 5. 顧客がメールで要請を受け取り、パラメーター化された URL をクリックします。 
 

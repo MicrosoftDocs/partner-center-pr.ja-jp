@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 03/23/2020
-ms.openlocfilehash: 9a68953cc63aafae36e343d6d494044e18c6699c
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 0439969c6799ab047c18e51dbed0c0b174ed8f42
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296428"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676802"
 ---
 # <a name="verify-your-partner-profile-information"></a>パートナー プロファイルの情報を確認する
 
@@ -36,7 +36,7 @@ ms.locfileid: "80296428"
 2. [法的住所] の隣の **[更新]** を選択します。 ""
 
 >[!Important]
->CSP パートナーの場合、法的住所に関連付けられた国を変更することはできません。法的住所の国は、ご自身のテナントとサービス、およびビジネスで使用している通貨に関連付けられています。 CSP プログラムを利用していない場合、法的住所に関連付けられた国を変更できます。 審査の状態が "承認済み" の場合、パートナー センターで会社の正式名称を更新することはできません。 [サポート チケットを作成](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0)する必要があります。
+>CSP パートナーの場合、法的住所に関連付けられた国を変更することはできません。法的住所の国は、ご自身のテナントとサービス、およびビジネスで使用している通貨に関連付けられています。 CSP プログラムを利用していない場合、法的住所に関連付けられた国を変更できます。 審査の状態が "承認済み" の場合、パートナー センターで会社の正式名称を更新することはできません。 [サポート チケットを作成](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)する必要があります。
 
 3. **[送信]** を選択すると、法的 ID が再評価された後、別のメールが届くので、それを承諾する必要があります。
 
