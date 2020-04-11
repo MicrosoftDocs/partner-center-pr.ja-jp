@@ -2,17 +2,17 @@
 title: Office 365 のパートナー勧告-CSP の Microsoft 365 音声 |パートナーセンター
 description: 一部の国の PSTN サービスには、パートナーの注文と請求に影響する可能性がある特別な税金および規制の要件が適用される場合があります。
 ms.topic: article
-ms.date: 11/04/2019
+ms.date: 04/07/2020
 author: jasonwhowell
 ms.author: jasonh
 keywords: Office, O365, PSTN サービス, 税金, 要件, 請求書, 請求
 ms.localizationpriority: medium
-ms.openlocfilehash: 14cf3541789fc982590842427d06711a70080004
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: ee29158773041bbab16961f139e8b731a2b3ebbf
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390791"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123286"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 パートナー向けアドバイザリ: CSP の Microsoft 365 音声
 
@@ -21,15 +21,15 @@ ms.locfileid: "80390791"
 - Partner Center  
 
 **適切なロール**
--   全体管理者
--   ユーザー管理者
--   管理エージェント
+-    全体管理者
+-    ユーザー管理者
+-    管理エージェント
 
 一部の管轄区の公衆交換電話網 (PSTN) サービスには、パートナーの注文と請求に影響する可能性がある特別な税金および規制の要件が適用される場合があります。 米国には、オーディオ会議、通話プラン、および通信クレジットを含む PSTN サービスが含まれており、特別な税金と規制の要件が適用されます。 米国とプエルトリコでは、Microsoft は PSTN サービスを税金包括として価格を付けます。  独自の PSTN の税金と規制は、Microsoft 365 音声製品を操作する Office 365 パートナーに影響します。  パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。
 
 ## <a name="partner-recommendations"></a>パートナーの推奨事項
 
-お客様の税務部門や法務部門に対して、PSTN サービスの規制、税金、手数料などの義務に関する組織の責任を理解するように指示してください。
+お客様の組織の PSTN、税金、料金、およびその他の潜在的な負債に関する責任を理解するために、お客様の税金および法律顧問にご協力ください。
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>請求書プレゼンテーションとパートナー調整ファイル
 
@@ -55,5 +55,5 @@ Office 365 Enterprise E5 は、調整ファイルに同一の名前と同じ Id 
 カナダで利用可能な Microsoft 365 Business 音声には、CSP 請求書に統合されている追加の PSTN 非課税コンポーネントがあります (Office 365 E5 と同様、2つの行項目が表示されます。1つは PSTN コンポーネント用、もう1つは pstn 以外のコンポーネント用) です。  Microsoft 365 Business 音声の CSP 調整ファイルには、すべての PSTN の非課税コンポーネントが個別に表示されます (個々の PSTN コンポーネントはに統合されません)。CSV または API ツール)。  調整ファイルで見つかった顧客の注文明細と請求金額の合計が CSP 請求書と一致します。
 
 ## <a name="additional-resources"></a>その他のリソース
-詳細については、[パートナーサイトの Microsoft 365](https://drumbeat.office.com/Pages/home2016.aspx)を参照してください。
+詳細については、[パートナーサイトの Microsoft 365](https://www.microsoft.com/microsoft-365/partners/)を参照してください。
 
