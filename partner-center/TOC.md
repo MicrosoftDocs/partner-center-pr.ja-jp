@@ -89,12 +89,9 @@
 ## [インセンティブの申請](claims-overview.md)
 ### [インセンティブの申請の作成と管理](create-incentives-claims.md)
 ### [インセンティブの申請の主要な要件](core-requirements.md)
-
-
-### [支払い情報を理解する](incentives-unified-user-guide.md)
-
 ### [インセンティブの支払いページへのアクセス](incentives-unified-user-guide.md)
-
+### [インセンティブの支払いとプログラムを表示する](understand-incentive-payouts.md)
+### [CPOR モデルを使用して顧客の関連付けを作成する](submit-osa-claim.md)
 
 # [請求と税金](billing.md)
 ## [課金の基本](billing-basics.md)
