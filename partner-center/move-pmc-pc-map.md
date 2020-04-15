@@ -1,7 +1,7 @@
 ---
 title: PMC からパートナー センターに移動する | パートナー センター
 ms.topic: article
-ms.date: 06/14/2019
+ms.date: 04/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 更新、アカウントの構造、サインイン、ユーザー ロール、コンピテンシーなどに関連した PMC とパートナー センターの相違点と類似点について説明します。
@@ -9,17 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: high
-ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340180"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123302"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC からパートナー センターに移動する
 
 **適切なロール**
--   グローバル管理者
+-    グローバル管理者
 
 Microsoft では、エンゲージメントの集中ポイントとして機能する単一の Web サイト (パートナー センター) を導入することで、パートナーがビジネスを行いやすいようにしています。 Partner Membership Center (PMC) で行っていたことはすべて、パートナー センターのダッシュボードから実行できます。 
 
@@ -37,13 +37,13 @@ Microsoft では、エンゲージメントの集中ポイントとして機能�
 
 |**PMC**   |**パートナー センター**|
 |----------------------|:-----------------------------|
-|本社と場所 - それぞれが個別に評価されます。 コンピテンシーの評価はローカル レベルで行われました|1 つのグローバル企業、パートナー グローバル アカウント (PGA) (場所を含む) が、全体として評価されます。パフォーマンスとスキルのデータは、PGA レベルで集計されます。紹介とマーケティング用のパートナー プロファイルやビジネス プロファイルなどのプログラムに対する複数のプロファイル ビューが含まれます。詳細については、「[パートナー センターのアカウント構造](https://docs.microsoft.com/partner-center/account-structure.md)」を参照してください。|
+|本社と場所 - それぞれが個別に評価されます。 コンピテンシーの評価はローカル レベルで行われました|1 つのグローバル企業、パートナー グローバル アカウント (PGA) (場所を含む) が、全体として評価されます。パフォーマンスとスキルのデータは、PGA レベルで集計されます。紹介とマーケティング用のパートナー プロファイルやビジネス プロファイルなどのプログラムに対する複数のプロファイル ビューが含まれます。詳細については、「[パートナー センターのアカウント構造](account-structure.md)」を参照してください。|
 
 ## <a name="sign-in"></a>無料の RMS アカウントを入手するには、
 
 |**PMC**   |**パートナー センター**|
 |----------------------|:-----------------------------|
-|Microsoft アカウント (MSA) または個人アカウントの資格情報 joe@outlook.com を使用できました|職場アカウントの資格情報 (joe@joescompany.com) を使用する必要があります。 詳しくは、「[会社の職場アカウントとパートナー センター](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md)」をご覧ください。|
+|Microsoft アカウント (MSA) または個人アカウントの資格情報 joe@outlook.com を使用できました|職場アカウントの資格情報 (joe@joescompany.com) を使用する必要があります。 詳しくは、「[会社の職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」をご覧ください。|
 
 ## <a name="user-roles"></a>ユーザー ロール
 
@@ -51,7 +51,7 @@ Microsoft では、エンゲージメントの集中ポイントとして機能�
 |----------------------|:-----------------------------|
 |PMC の多くのロールは、パートナー センターでは使用されません|パートナー センターへの移動を実行する管理者には、MPN 管理者、アカウント管理者、および紹介管理者のロールが自動的に割り当てられます。 それらの管理者は、ユーザー ロールに他のユーザーを割り当てることができます。|
 |ユーザーは場所レベルで管理されていました|ユーザーは、場所レベルではなく、会社レベル (PGA) で管理されます。 例外は、場所レベルで機能するインセンティブ管理者です。|
-|   |パートナー センターには、2 つの広範なロール セットがあります。Azure AD テナントを管理するロールと、会社のビジネスを管理するロールです。 会社にとって意味のある方法でロールを整理します。 1 人のユーザーですべてを行うことも、多くのユーザーに対して個別のロールとアクセス許可を割り当てることもできます。 詳しくは、「[ユーザー ロールとアクセス許可の割り当て](https://docs.microsoft.com/partner-center/permissions-overview)」をご覧ください。 
+|   |パートナー センターには、2 つの広範なロール セットがあります。Azure AD テナントを管理するロールと、会社のビジネスを管理するロールです。 会社にとって意味のある方法でロールを整理します。 1 人のユーザーですべてを行うことも、多くのユーザーに対して個別のロールとアクセス許可を割り当てることもできます。 詳しくは、「[ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)」をご覧ください。 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>コンピテンシーと特典が考慮される方法
 
