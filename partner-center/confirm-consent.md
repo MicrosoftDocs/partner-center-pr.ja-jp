@@ -1,7 +1,7 @@
 ---
 title: Microsoft 顧客契約へのお客様の同意を確認する | パートナー センター
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Microsoft 顧客契約に対する顧客の同意を確認する方法について説明します。 これは、顧客のために Microsoft の製品やサービスを注文するのに必要になる場合があります。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft 顧客契約, 顧客契約テンプレート
 ms.localizationpriority: high
-ms.openlocfilehash: 0d6d7b20aa4b6d7c5c56d3669b8f6bd8a3bda7bb
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340160"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123324"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 顧客契約に対する顧客の同意を確認する
 
@@ -35,27 +35,25 @@ ms.locfileid: "78340160"
 >[!NOTE]
 >2020 年 1 月 31 日の時点で、すべてのお客様 (既存および新規) は新しい Microsoft 顧客契約に署名する必要があります。 詳細については、「[Microsoft 顧客契約に対する顧客の同意を確認する](confirm-customer-agreement.md)」を参照してください。
 
-パートナーは、お客様のために Microsoft の製品やサービスを注文する前に、Microsoft 顧客契約へのそのお客様の同意を得る必要があります。 パートナーがコンプライアンス要件を満たすことができるように、マイクロソフトでは、パートナーに対して、契約に同意したユーザーに関する以下の詳細情報を提供することにより、同意を確認することを求めています。 
+パートナーは、お客様のために Microsoft の製品やサービスを注文する前に、Microsoft 顧客契約へのそのお客様の同意を得る必要があります。 パートナーがコンプライアンス要件を満たすことができるように、マイクロソフトでは、パートナーに対して、契約に同意したユーザーに関する以下の詳細情報を提供することにより、同意を確認することを求めています。
 
--   名
+- 名
 
--   姓
+- 姓
 
--   電子メール アドレス
+- 電子メール アドレス
 
--   電話番号 (オプション)
+- 電話番号 (オプション)
 
--   同意の日付
-
-詳細については、Microsoft 顧客契約へのお客様の同意の確認に関する[よく寄せられる質問](https://docs.microsoft.com/partner-center/confirm-consent-faq)を参照してください。
+- 同意の日付
 
 直接請求パートナーと間接プロバイダーは、パートナー センターまたはパートナー センター API 経由で取引するときに、Microsoft 顧客契約へのお客様の同意を確認する必要があります。 確認は*必須*です。
 
 特定のお客様について確認が提供されていない場合:
 
--   このお客様について新しい注文を作成することはできません。
+-    このお客様について新しい注文を作成することはできません。
 
--   このお客様について既存のシート ベースのサブスクリプションのシート数を変更することはできません。
+-    このお客様について既存のシート ベースのサブスクリプションのシート数を変更することはできません。
 
 お客様の同意は、パートナー センターまたはパートナー センター API を使用して確認できます。 パートナー センター API でこれを行うには、以下のトピックを参照してください。 
 
