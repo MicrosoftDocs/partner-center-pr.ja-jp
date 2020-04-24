@@ -80,10 +80,10 @@
 
 # [ビジネスの拡大](grow-your-business.md)
 ## [紹介](referrals.md)
-### [ビジネス プロファイルの作成](create-a-marketing-profile.md)
-### [紹介案件への対応](responding-to-referrals.md)
+### [ビジネス プロファイルの管理](create-a-marketing-profile.md)
+### [見込み客を管理する](manage-leads.md)
+### [共同販売の機会を管理する](manage-co-sell-opportunities.md)
 ### [案件の登録](register-deals.md)
-### [Microsoft と共同販売](co-sell-with-microsoft.md)
 ### [紹介の分析情報を取得する](referral-insights.md)
 ### [ビジネス プロファイルの分析](analyze-your-marketing-profile.md)
 ## [インセンティブの申請](claims-overview.md)
