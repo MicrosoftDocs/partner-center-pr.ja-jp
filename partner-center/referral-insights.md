@@ -10,10 +10,10 @@ ms.author: jenhayes
 keywords: 紹介、分析、解析、メトリック、変換
 ms.localizationpriority: high
 ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "73654128"
 ---
 # <a name="get-referral-insights"></a>紹介の分析情報を取得する

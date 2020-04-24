@@ -9,10 +9,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74721712"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
@@ -23,9 +23,9 @@ ms.locfileid: "74721712"
 
 **適切なロール**
 
-- 全体管理者
+- グローバル管理者
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>開始
 
 クラウドベースのソリューションとサービスの需要は急速に拡大しており、あらゆる規模のマイクロソフト パートナーが、収益性の高いクラウド ソリューション ビジネスを構築する多くの機会を手にしています。 市場へは参入したいが、複数ベンダーの管理は避けたいと考えるパートナーや、包括的な顧客関係管理の基盤を持たないパートナーは、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに間接リセラーとして登録することができます。
 

@@ -11,10 +11,10 @@ keywords: クラウド ソリューション プロバイダー, CSP, クラウ�
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: 7cce25d5f16f5bd0f55169cdc9d516a69717d31a
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80389991"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP によるソフトウェア サブスクリプションの販売
@@ -30,7 +30,7 @@ ms.locfileid: "80389991"
 
 Azure 予約とサーバー サブスクリプション (Windows Server および SQL Server サブスクリプション) を使用すると、CSP プログラムのパートナーは、予測可能性と永続性がきわめて高いクラウド ワークロードをコスト効率に優れたソリューションでサポートしたいという顧客の強い要望に適切に応えることができます。 
 
-Azure ハイブリッド特典を活用することで、パートナー センターや Azure portal から、企業顧客に代わって Azure 予約とサーバー サブスクリプションを取得、プロビジョニング、および管理できるようになりました。
+Azure ハイブリッド特典を活用することで、パートナー センターや Azure Portal から、企業顧客に代わって Azure 予約とサーバー サブスクリプションを取得、プロビジョニング、および管理できるようになりました。
 
 Azure ハイブリッド特典を利用すると、Windows Server ライセンスから得られる価値を拡大し、仮想マシンのコストを最大で 40% 節約できます。 この特典はソフトウェア アシュアランスに含まれており、Windows Server Datacenter および Standard エディションのライセンスで利用できます。 エディションによっては、ライセンスを変換または再利用して、低いベース コンピューティング レート (Linux 仮想マシン レーなどト) で Windows Server 仮想マシンを Azure で実行できます。
 

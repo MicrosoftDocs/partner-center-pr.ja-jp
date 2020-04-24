@@ -10,10 +10,10 @@ ms.author: jasonh
 keywords: Microsoft 顧客契約, 顧客契約テンプレート, CSP 顧客契約, Microsoft 顧客契約, MCA, CSP, CSP で販売できる国または地域, CSP の国または地域、CSP MCA (複数言語), CSP 北米, CSP 中米, CSP 南アメリカ, CSP カリブ諸国, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud ドイツ, CSP 中東, CSP アフリカ, CSP ヨーロッパ, CSP アジア, CSP 太平洋, CSP MCA
 ms.localizationpriority: high
 ms.openlocfilehash: 501d6d933ba253e42875056e0e245b0af65138b3
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80389631"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>地域と言語別の Microsoft 顧客契約

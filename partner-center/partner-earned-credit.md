@@ -10,19 +10,19 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75004241"
 ---
 # <a name="partner-earned-credit---overview"></a>パートナー獲得クレジット - 概要
 
 **適切なロール**
--   全体管理者
+-   グローバル管理者
 -   ユーザー管理者
 -   管理エージェント
--   課金の管理
+-   課金管理者
 -   販売代理店
 
 CSP の新しいコマース エクスペリエンスにおいて、パートナー獲得クレジットは、Microsoft の市場開拓方法全体でシンプルな統一 Azure 価格を実現し、さらに付加価値のあるマネージド サービスを提供するパートナー エコシステムを育成するビジネス モデルです。 パートナー獲得クレジットは、マージンに関する競合他社を排除するためにも役立ちます。 

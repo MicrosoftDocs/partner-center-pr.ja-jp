@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, 製品の追加, パートナー プラン, CSP プラン, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナー, CSP での販売, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, オンライン サービス, サブスクリプション ソフトウェア, AHUB, SQL Server on Azure, Windows Server on Azure, 顧客のサブスクリプション
 ms.localizationpriority: high
 ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722539"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでのパートナー プラン
@@ -25,7 +25,7 @@ ms.locfileid: "74722539"
 **適切なロール**
 
 - 管理エージェント
-- 全体管理者
+- グローバル管理者
 - 販売代理店
 
 クラウド ソリューション プロバイダー プログラム (CSP) に参加している Microsoft パートナーが利用できるプランのカタログは増大し続けています。 すべての [Microsoft クラウド サービス](https://partner.microsoft.com/cloud-solution-provider/products-and-services)と、その他のさまざまな製品またはサービス (頻繁に変更あり) を販売できます。 当月 CSP で販売可能な製品またはサービスを確認するには、パートナー センターにサインインし、「[**料金とプラン**](https://partnercenter.microsoft.com/pcv/sales)」のページをご覧ください。  

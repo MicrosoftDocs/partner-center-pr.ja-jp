@@ -10,17 +10,17 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "73651711"
 ---
 # <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>Azure CSP サブスクリプションの管理者特権を復元する  
 
 **該当するロール**
 
-- 全体管理者
+- グローバル管理者
 - 管理エージェント
 
 CSP パートナーの顧客は、自分の Azure の使用状況とシステムを、自分の代わりに CSP パートナーに管理してもらうことを望む場合がよくあります。 これを行うには、パートナーに管理者特権が必要です。 一部の特権は、顧客とのリセラーの関係が確立されると付与されます。 それ以外は、顧客によってパートナーに付与されます。

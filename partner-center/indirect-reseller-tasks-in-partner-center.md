@@ -12,10 +12,10 @@ keywords: 間接リセラー, リセラー, 間接プロバイダー, プロバ�
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: ff486a7d6f23ce13fddfcccb29ce4389ca44d3cb
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390921"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接プロバイダーとの連携

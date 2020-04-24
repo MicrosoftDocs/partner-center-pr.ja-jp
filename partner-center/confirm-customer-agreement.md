@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート
 ms.localizationpriority: high
 ms.openlocfilehash: 51bfe2c132b4c5ba5d9b285164ee99a29cfcc22f
-ms.sourcegitcommit: 43569a21c4f5cb5405f2acea6ace69640a2eee5e
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/07/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80805981"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 顧客契約に対する顧客の同意を確認する

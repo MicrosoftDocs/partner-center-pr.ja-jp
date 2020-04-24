@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: パートナー アカウント, 場所
 ms.localizationpriority: high
 ms.openlocfilehash: e1f7c6732b2945d50b241764d1cf78ae6631152b
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "78340130"
 ---
 # <a name="manage-your-partner-account-locations"></a>パートナー アカウントを管理する: 場所
