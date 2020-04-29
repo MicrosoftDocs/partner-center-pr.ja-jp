@@ -11,10 +11,10 @@ ms.author: labrenne
 keywords: Pinpoint, 紹介案件, 見込み客情報, C2PC, 会社のプロファイル, 会社のマーケティング, パートナーの検索, ソリューション プロバイダーの検索, ビジネス プロファイル, マーケティング プロファイル
 ms.localizationpriority: high
 ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722531"
 ---
 <!--
@@ -38,7 +38,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 - アカウント管理者
 - ビジネス プロファイル管理者
-- 全体管理者
+- グローバル管理者
 - 紹介管理者
 
 認定 Microsoft  パートナーは、ビジネス プロファイルを作成して自社のビジネスを広く告知することで、その独自のソリューションや専門知識を活用してビジネス ニーズを解決したいと考えるお客様にアピールできます。
@@ -61,13 +61,13 @@ Microsoft は、マーケティング、販売、サービスの業務を通じ�
 
 プロファイルは、営業許可を得ている地域ごとに作成してください。 
 
-1. **[パートナー センター]** メニューで、 **[紹介]** &gt; **[ビジネス プロファイル]** &gt; を選択します。国/地域を選択し、 **[[ビジネス プロファイルの作成]](https://partnercenter.microsoft.com/pcv/publishing)** を選択します。
+1. **[パートナー センター]** メニューで、 **[紹介]** &gt; **[ビジネス プロファイル]** &gt; 国または地域 > **[[ビジネス プロファイルの作成]](https://partnercenter.microsoft.com/pcv/publishing)** の順に選択します。
 
 2. **[ビジネス プロファイルの作成]** ページで、地域を選択してから、プロファイル情報を入力します。
    > [!NOTE]  
    >  パートナー センターでは複数の言語がサポートされますが、説明や自由形式のタグなどの一部の要素には、このトピックで説明しているように複数の言語のテキストを含めなければならない場合があります。
 
-### <a href="" id="partner_info"></a>パートナー情報
+### <a name="partner-information"></a><a href="" id="partner_info"></a>パートナー情報
 
 会社を紹介するセクションです。自社のロゴや簡単な説明、Web サイトへのリンクを追加してください。 
 
@@ -84,7 +84,7 @@ Microsoft は、マーケティング、販売、サービスの業務を通じ�
 -  **他のマイクロソフト パートナーの企業名に言及しない**。ただし、そのパートナー企業が子会社やその他なんらかの関連のある企業である場合、またはそのパートナー企業と契約上の提携関係にある場合や、協業の機会を獲得するために相互に宣伝する場合を除きます。
 -  **複数の言語が使用されている地域の場合**、説明に複数の言語のテキストを含めることを検討してください。
 
-#### <a href="" id="linkedin"></a> LinkedIn 会社ページでさらにお客様とつながる
+#### <a name="linkedin-company-page-more-ways-to-connect"></a><a href="" id="linkedin"></a> LinkedIn 会社ページでさらにお客様とつながる
 
 LinkedIn 会社ページを追加すると、潜在顧客とのつながりを強化することができます。 
 
@@ -107,7 +107,7 @@ LinkedIn 会社ページを追加すると、潜在顧客とのつながりを�
 -  **コンピテンシー タグ**は、自社の能力を証明する認定資格です。
 -  **推薦タグ**は、マイクロソフトによる認定または既存のお客様からの推薦によって取得できます。
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>自社の専門分野について Microsoft の推薦を得る
+#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>自社の専門分野について Microsoft の推薦を得る
 
 この設定を有効にしておくことをお勧めします。 
 
@@ -117,13 +117,13 @@ LinkedIn 会社ページを追加すると、潜在顧客とのつながりを�
 
 ### <a name="customer-preferences"></a>顧客の嗜好
 
-#### <a href="" id="#target_size"></a>ターゲット サイズ
+#### <a name="target-size"></a><a href="" id="#target_size"></a>ターゲット サイズ
 
 ターゲット以外の顧客規模の企業を紹介対象から除外することができます。
 
 対象を絞り込むことによって、連携を希望する企業の条件に合った企業により多くの時間をかけることができます。
 
-#### <a href="" id="#locations"></a> 場所
+#### <a name="locations"></a><a href="" id="#locations"></a> 場所
 
 場所は、地域ごとに 5 つまで追加できます。 追加した場所は、お客様が近隣でパートナーを検索したときに表示されます。
 

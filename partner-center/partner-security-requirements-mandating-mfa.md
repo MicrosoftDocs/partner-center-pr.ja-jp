@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: 5c68d86b770286ef916f68eefd93e5648d35999a
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "80529784"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "81462211"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>パートナー テナントに多要素認証 (MFA) を義務付ける
 
@@ -37,15 +37,15 @@ ms.locfileid: "80529784"
 この機能の目的は、パートナーが顧客リソースへのアクセスをセキュリティ保護して資格情報の侵害を防止できるように支援することです。
 パートナーは、ゲストユーザーを含むパートナーテナント内のすべてのユーザーアカウントに Multi-factor Authentication (MFA) を適用する必要があります。この機能では、パートナーの各ロールが、以下の領域での MFA 検証を完了することが必須となります。
 
-- [パートナー センター ダッシュボード](#partner-center-dashboard) (暦年 2020 年第 2 四半期を対象)
-- [パートナー センター API](#partner-center-api) (暦年 2020 年第 2 四半期を対象)
+- [パートナー センター ダッシュボード](#partner-center-dashboard) (2020 年 5 月 1 日以降)
+- [パートナー センター API](#partner-center-api) (2020 年 5 月 1 日以降)
 - [パートナー代理管理](#partner-delegated-administration)
 
 高いレベルのセキュリティおよびプライバシーの保護の継続的な実施は最優先事項の1つであり、パートナーが顧客とテナントを保護する上で Microsoft は引き続き支援を提供していきます。 クラウド ソリューション プロバイダー (CSP) プログラムに参加するすべてのパートナー、コントロール パネル ベンダー (CPV)、アドバイザーは、準拠を維持し、[パートナーのセキュリティ要件](partner-security-requirements.md)を実装する必要があります。
 
 Microsoft は、パートナーのテナントに対する追加のセキュリティ保護対策のアクティブ化を開始しています。 この保護対策をアクティブ化すると、 Multi-factor Authentication (MFA) の検証を義務付けることになり、パートナーが不正なアクセスを防ぎ、テナントと顧客を保護する上で役立ちます。
 
-すべてのパートナーテナントに対するパートナーの代理管理機能のアクティブ化は既に完了しています。 パートナーおよび顧客の保護をさらに支援するために、2020年の第2四半期より、パートナー センターのトランザクションのアクティブ化を開始し、パートナーのビジネスおよび顧客を個人情報盗難関連のインシデントから保護する上でのサポートを提供します。
+すべてのパートナーテナントに対するパートナーの代理管理機能のアクティブ化は既に完了しています。 パートナーおよび顧客の保護をさらに支援するために、2020 年 5 月 1 日より、CSP のパートナー センターのトランザクションのアクティブ化を開始し、パートナーのビジネスおよび顧客を個人情報盗難関連のインシデントから保護する上でのサポートを提供します。
 
 このドキュメントでは、セキュリティ保護才作のアクティブ化に関する詳細なエクスペリエンスとガイダンスをパートナーに提供します。
 
