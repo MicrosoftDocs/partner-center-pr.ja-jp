@@ -119,6 +119,7 @@
 ## [顧客一覧の表示](see-your-customer-list.md)
 ## [顧客のアクティビティ ログの表示](activity-logs.md)
 ## [顧客のアカウント情報の更新](update-customer-account-info.md)
+## [顧客が個人でサービスを購入するためのアクセス許可を付与する](give-customers-permission.md)
 ## [顧客での複数ユーザーの作成](adding-multiple-users-to-a-customer-account.md)
 ## [サポート連絡先の指定](assign-support-contacts.md)
 
