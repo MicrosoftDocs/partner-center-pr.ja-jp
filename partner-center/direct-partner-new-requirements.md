@@ -1,23 +1,23 @@
 ---
-title: CSP の直接パートナーの新しい要件 | パートナー センター
+title: CSP 直接請求パートナーの要件
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: CSP プログラムの直接パートナーである場合は、更新されたサポートとサービスの要件、およびそれらを満たす方法について学習できます。
+Description: マイクロソフト クラウド ソリューション プロバイダー (CSP) プログラムの直接請求パートナーになるための最新のサポートおよびサービス要件を満たす方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, 直接パートナー, 直接請求, 要件
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOAPR.20
+ms.openlocfilehash: de14553d756a718a78e70825e5ef7581aa57b96c
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340107"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205760"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>CSP の直接請求パートナーの新しい要件
+# <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP 直接請求パートナーとして登録するための要件
 
 **適用対象**
 
@@ -25,7 +25,7 @@ ms.locfileid: "78340107"
 
 ## <a name="enroll-as-a-direct-partner"></a>直接パートナーとして登録する
 
-直接請求パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。 2018 年 8 月 31 日の時点で、直接請求パートナーに対する登録要件を更新しました。 これらの新しい要件により、正しい CSP 登録モデルによるビジネスの成長が促され、付加価値の高いサービスやサポートによって顧客との関係を強化します。
+直接請求パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。 2018 年 8 月 31 日の時点で、直接請求パートナーに対する登録要件を更新しました。 これらの新しい要件によって、適切な CSP 登録モデルを使用してビジネスの成長を加速させることができます。 また、付加価値のあるサービスとサポートによって顧客の関係を強化するのにも役立ちます。
 
 ### <a name="minimum-requirements"></a>最小要件
 

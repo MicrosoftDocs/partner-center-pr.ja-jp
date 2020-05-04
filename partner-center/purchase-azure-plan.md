@@ -1,7 +1,7 @@
 ---
 title: Azure プランを購入する | パートナー センター
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure プランで 1 つまたは複数の Azure サブスクリプションと Azure 予約を購入する方法、リソースを構成する方法、サブスクリプションを表示または追加する方法について説明します。
@@ -9,19 +9,19 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 9ed6e3795fa27ac63fbcd4eee46c4ff00d2c296d
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004941"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205750"
 ---
 # <a name="purchase-the-azure-plan"></a>Azure プランを購入する
 
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   販売代理店
+-    グローバル管理者
+-    ユーザー管理者
+-    販売代理店
 
 Microsoft 顧客契約に基づいて顧客向けの Azure プランを購入すると、従量課金制の料金で提供される最新の Azure サービスの完全なカタログへのアクセス権が与えられます。 CSP パートナーは、Azure サービスが一般提供されたときに、そのサービスにアクセスできるようになりました。 パートナーは、1 つの Azure プランで複数の Azure サブスクリプションを持つことができます。 
 
@@ -58,9 +58,9 @@ Azure プランの購入方法は、他のサブスクリプションの購入�
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Azure プランで Azure Reservations を購入する 
   
-パートナー センターで、顧客に代わって Azure プランで Microsoft Azure Reservations を購入することもできます。
+パートナー センターで、顧客に代わって Azure プランで Microsoft Azure Reservations を購入することもできます。 (または、必要に応じて、貴社が顧客に代わって購入した以前のサブスクリプションから、[顧客が自分で Azure 予約を購入するアクセス許可を与える](give-customers-permission.md)ことができます)。
 
-1. お使いの[ダッシュボード](https://partner.microsoft.com/dashboard/)の [パートナー センター] メニューから、 **[顧客]** を選択します。 Azure Reservations を購入する顧客を見つけ、下向き矢印を選択して顧客の行を展開します。 
+1. お使いの[ダッシュボード](https://partner.microsoft.com/dashboard/)の [パートナー センター] メニューから、 **[顧客]** を選択します。 Azure Reservations を購入する顧客を見つけ、下向き矢印を選択して顧客の行を展開します。
 
 2. **[製品の追加]** を選択し、 **[Azure]** を選択します。 
 - **[セグメント]** の一覧から、顧客の市場セグメントを選択します。 
@@ -74,7 +74,7 @@ Azure Reservations をアクティブな Azure プランに関連付ける必要
 
 現時点では、予約のスコープに設定できるのは **[共有]** のみであることに注意してください。 
 
-![scopeshared](images/azure/addprods1.png)
+![共有スコープの予約設定](images/azure/addprods1.png)
 
 Azure portal で顧客の予約を管理するには: 
 
@@ -86,7 +86,7 @@ Azure portal で顧客の予約を管理するには:
 
 **[サブスクリプション]** ページの [使用量ベース] セクションで、 **[Azure プラン]** を展開して、Azure プランに関連付けられている Azure サブスクリプションを確認します。
 
-![Viewlist](images/azure/addprods2.png) 
+![Azure サブスクリプションの一覧を確認する](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>サブスクリプションを追加し、リソースを構成する

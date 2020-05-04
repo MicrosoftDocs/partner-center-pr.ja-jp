@@ -1,7 +1,7 @@
 ---
 title: Silver および Gold メンバーシップ獲得のための Microsoft コンピテンシー要件について | パートナー センター
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 04/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Silver および Gold メンバーシップ レベルを獲得するためのコンピテンシー要件について説明します。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ, 高度な専門性
 ms.localizationpriority: high
-ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: cfd4800265a5cde94ff69f66cf19547b0f13961c
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226218"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120383"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft の Silver および Gold コンピテンシーに関する情報と高度な専門性
 
@@ -31,6 +31,16 @@ Microsoft コンピテンシーを獲得すると、1 つまたは複数の専�
 - Gold パートナー メンバーとして、ポートフォリオに高度な専門性を追加することもできます。
 
 **Silver メンバーシップ**または **Gold メンバーシップ**のコンピテンシーを獲得すると、ビジネスの拡大と成長に役立つ強力な[市場投入](mpn-learn-about-go-to-market-benefits.md)オファーおよびプログラムも得られるようになります。
+
+## <a name="check-your-status-as-you-earn-a-competency"></a>コンピテンシーを獲得したときの状態を確認する
+
+パートナー センター ダッシュボードのコンピテンシー領域から、要件と会社が達成した内容を確認できます。
+
+1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。
+
+2. パートナー センター メニューの [MPN] セクションで、 **[コンピテンシー]** を選択します。 
+
+3. 詳細情報を確認するには、コンピテンシー名と各コンピテンシー オプションを選択します。 完了した内容を確認することができます。また、特定の試験や廃止された試験の検証日に関する詳細な要件とリンクを確認することもできます。
 
 ## <a name="competency-areas"></a>コンピテンシーの分野
 
