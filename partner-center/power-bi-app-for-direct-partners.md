@@ -6,25 +6,25 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Power BI 用のパートナーセンター分析アプリについての一般的な概要とよく寄せられる質問。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2ac56f7bdb13ceb9c27d514fa3ca8733591cd0d4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.openlocfilehash: 6f69015639bd928b03ea08d7eee848c3a6a90669
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123291"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797610"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け)
 
 **適用対象**
 
-- Partner Center
+- パートナー センター
 
 **適切なロール**
--    全体管理者
+-    グローバル管理者
 -    ユーザー管理者
 -    販売代理店
 -    管理エージェント
@@ -50,7 +50,7 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 以下では、よく寄せられる質問とその回答をご紹介します。アプリをインストールする前にご確認ください。 
 
-| **質問** | **回答** |
+| **Question** | **Answer** |
 | --- | ---------- |
 | アプリの価格を教えてください。 | アプリ自体は無償です。 アプリをプレビューするには[無償の Power BI サービスにサインアップ](https://go.microsoft.com/fwlink/p/?linkid=845347)し、それを使用してダッシュ ボードとレポートをカスタマイズします。 社内の他のユーザーがアプリを使用できる環境に設定するには、Microsoft Power BI Professional または Microsoft Power BI Premium のアクティブなサブスクリプションが必要です。 |
 | パートナー センターの分析アプリに接続できるのは、どのようなユーザーですか? | このバージョンのアプリは、クラウド ソリューション プロバイダー プログラムの直接パートナー (階層 1) を対象としています。 直接パートナーとは、マイクロソフトおよび顧客と直接取引するパートナーを指します。 アプリをインストールするには、会社のアカウントのグローバル管理者、管理者エージェント、または課金管理者である必要があります。 |
@@ -59,11 +59,11 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 | アプリのダッシュボードやレポートをカスタマイズできるのは、どのようなユーザーですか? | アプリをインストールした全体管理者、管理エージェント、請求管理者のみが、Power BI の Web インターフェイスでダッシュ ボードをカスタマイズし、新しいレポートを作成できます。 |
 | アプリのダッシュボードやレポートを表示できるのは、どのようなユーザーですか? | アプリをインストールした全体管理者、管理エージェント、または課金管理者は、Microsoft Power BI Professional または Microsoft Power BI Premium に対してアクティブなサブスクリプションを持っているユーザーとアプリのデータを共有できます。 |
 | アプリを使用して、複数の場所にある複数の Azure AD テナントのデータを表示できますか? | このリリースでは、管理エージェントまたはグローバル管理者がログインしている Azure AD のデータのみを表示できます。 | 
-| このアプリでは、いつ頃、英語以外の言語が使用できるようになりますか? | ロードマップのお知らせは、パートナー センターの早期導入者プログラムを通じてリリースされます。 まだプログラムに参加していない場合は、 [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program)でサインアップしてください。 早期導入者プログラムに参加すると、フィードバックを共有することもできます。 | 
+| このアプリでは、いつ頃、英語以外の言語が使用できるようになりますか? | ロードマップのお知らせは、パートナー センターの早期導入者プログラムを通じてリリースされます。 まだプログラムに参加していない場合は、にサインアップ[https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program)してください。 早期導入者プログラムに参加すると、フィードバックを共有することもできます。 | 
 
 
 
-## <a name="next-steps"></a>次のステップ:
+## <a name="next-steps"></a>次のステップ
 
 [Power BI 用パートナー センター分析アプリをインストールしてプレビューする](power-bi-app-for-direct-partners-install.md)
 

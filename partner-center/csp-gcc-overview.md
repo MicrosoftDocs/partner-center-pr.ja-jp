@@ -5,27 +5,27 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 用の Office 365 Government GCC 用のサブスクリプションを、政府の顧客または契約者に限定された米国販売するための手順と要件について説明します。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fb6402512ea70f3d6a621b140459c0b217478fef
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c0bfbc6bba6e6e20bff06b794ad47c0bf225932a
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389571"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798500"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>CSP 向け Office 365 Government GCC サブスクリプションを認定ユーザーに販売する
 
 **適用対象**
 
--  Partner Center
+-  パートナー センター
 -  CSP パートナー
 
 **適切なロール**
 
-- 全体管理者
+- グローバル管理者
 - 管理エージェント
 - 販売代理店
 

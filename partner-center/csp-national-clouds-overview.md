@@ -5,16 +5,16 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: クラウドソリューションプロバイダープログラムの Microsoft パートナーが、サポートされている各国のクラウドに登録されているお客様に販売する方法について説明します。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: ナショナル クラウド, Microsoft Cloud ドイツ, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud 中国
 ms.localizationpriority: medium
-ms.openlocfilehash: 03e9a08d7aa683098e4ff998afa981f7e915e2fc
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 37ff013b7c7e1bc000e3245df9c1480c6fea44af
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389611"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798460"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Microsoft ナショナル クラウドでの販売の申請
 
@@ -44,7 +44,7 @@ Microsoft では、以下のサービスをナショナル クラウドで提供
     > 今後、新しい顧客は、現在利用可能なヨーロッパの地域を利用するか、または利用可能になった時点でドイツの新しい地域を利用することができます。 詳細については、[Microsoft によるドイツの新しいデータセンターからのクラウド サービスの提供](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)に関するページを参照してください。
 
     
--   [**中国の21vianet が運営する Azure と Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China)Microsoft は、中国のクラウドサービスを、北京のクラウドテクノロジ Co., Ltd. (21Vianet) との一意のパートナーシップを通じて提供しています。これは、中国のデータセンター、ホスティング、管理されたネットワーク、およびクラウドコンピューティングインフラストラクチャサービスの、キャリアに依存しない最大のインターネットプロバイダーです。 
+-   [**中国の 21Vianet で運営されている Azure および Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China): Microsoft は、Beijing 21Vianet Broadband Data Center Co., Ltd の完全子会社である Shanghai Blue Cloud Technology Co., Ltd. (21Vianet) との特別なパートナーシップによって中国でのクラウド サービスを提供しています。21Vianet は通信会社に依存しない中国最大のインターネット プロバイダーで、データセンター、ホスティング、マネージド ネットワーク、クラウド コンピューティング インフラストラクチャ サービスを提供しています。 
 
     Microsoft はテクノロジ プロバイダーですが、サービスは運営せず、21Vianet が単独で Microsoft クラウド サービスの運営、提供、管理を行っています。 Microsoft テクノロジのライセンスによって、21Vianet は Azure および Office 365 のサービスを提供し、Azure および Office 365 のデータセンターを運営して中国本土内のデータを保持できます。 21Vianet では、サブスクリプションと課金のサービスのほか、サポートも提供します。
 

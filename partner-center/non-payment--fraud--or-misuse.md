@@ -7,29 +7,29 @@ ms.subservice: partnercenter-csp
 description: オンライントランザクションに関連するさまざまな種類のリスクと、それらのリスクを管理して軽減するためのベストプラクティスについて学習することが重要です。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐欺, 不正使用, 使用条件, 利用規約, 未払い, 顧客が料金を支払わない, オンライン リスク, サービスの盗用, サービスの不正使用, サブスクリプションの一時停止,
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390811"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798800"
 ---
-# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>パートナーセンターでの非支払い、不正行為、誤用の管理
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>パートナー センターでの未払い、詐欺、不正使用の管理
 
-適用対象
+適用対象:
 
-- Partner Center
+- パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   全体管理者
+-   グローバル管理者
 -   ユーザー管理者
 -   管理エージェント
--   課金の管理
+-   課金管理者
 
 パートナーは、顧客による不正購入や、購入サービスの料金未払いについて、金銭的な責任を負います。 したがって、*不正行為の防止と検出のリスク軽減のための制御*を行うことを強くお勧めします。
 

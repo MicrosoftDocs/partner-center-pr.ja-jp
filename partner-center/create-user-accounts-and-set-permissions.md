@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: アクセスを必要とする各従業員のユーザー アカウントを作成し、パートナー センターでロールを割り当てる方法について説明します。 別の管理者特権を持つユーザーが、これを行うことができます。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: ロール, アクセス許可,ユーザーの追加, ロールの割り当て, 管理者, エージェント,
 ms.localizationpriority: high
-ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: f163e37f537f537b6eae086e355c87d892d1a745
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80389651"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798490"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>ユーザー アカウントの作成とアクセス許可の設定
 

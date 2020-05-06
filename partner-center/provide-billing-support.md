@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーは、顧客との請求関係に責任を負い、請求に関する顧客からのすべての質問に十分に対応する必要があります。
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 06005e8143f1af049af0f1f1c8a7e96e5fa9ae9f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 8add485ad2c9bf8ef8d3c36f7420242b624afcdf
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390731"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798730"
 ---
 # <a name="provide-billing-support"></a>課金のサポートを提供する
 
 **適用対象**
 
--  Partner Center
+-  パートナー センター
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   全体管理者
+-   グローバル管理者
 -   ユーザー管理者
 -   ヘルプデスク エージェント
--   課金の管理
+-   課金管理者
 -   販売代理店
 
 貴社は、お客様との課金関係を維持し、お客様からの課金関連の質問をサポートするものとします。

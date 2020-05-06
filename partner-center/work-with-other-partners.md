@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 間接プロバイダーがクラウドソリューションプロバイダー (CSP) プログラムで間接リセラーと提携し、どのロールが適切かを判断する方法について説明します。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ffa27c8f0c099182dc24d44d0ccaef1a6231dead
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 6febef2f7af68a1cd93b2eafecb9537f48ab190a
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390451"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797580"
 ---
 # <a name="work-with-other-partners"></a>他のパートナーとの連携
 
 **適用対象**
 
--  Partner Center
+-  パートナー センター
 
 Microsoft のクラウドソリューションプロバイダー (CSP) プログラムは、パートナーがこれらの方法で連携する機会を提供します。
 
@@ -39,7 +39,7 @@ CSP で間接プロバイダーとして承認されている場合は、間接�
 
 現在、間接リセラーである場合、または間接リセラーとしての CSP への登録にご興味がある場合は、「[CSP での間接プロバイダーとの連携](indirect-reseller-tasks-in-partner-center.md)」で、間接プロバイダーや顧客との関連付けの詳細をご覧ください。
 
-CSP で間接リセラーと間接パートナーのどちらで登録するか検討中の場合は、 [Microsoft Partner Network Web サイト](https://partner.microsoft.com/cloud-solution-provider/indirect) の「[Explore the Indirect model (間接モデルの概要)](https://partner.microsoft.com)」をご覧ください。   
+CSP で間接リセラーと間接パートナーのどちらで登録するか検討中の場合は、 [Microsoft Partner Network Web サイト](https://partner.microsoft.com) の「[Explore the Indirect model (間接モデルの概要)](https://partner.microsoft.com/cloud-solution-provider/indirect)」をご覧ください。   
 
 ## <a name="multi-partner-support"></a>マルチパートナーのサポート
 
@@ -54,4 +54,4 @@ CSP で間接リセラーと間接パートナーのどちらで登録するか�
 マルチチャンネルのサポートは、マイクロソフトのナショナル クラウド サービスでも利用できます。
 
 > [!IMPORTANT]  
-> CSP プログラムのパートナーは、現在、別の CSP プログラムのパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](https://partner.microsoft.com/pcv/announcements)など、通常の伝達方法でお知らせします。
+> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](https://partner.microsoft.com/pcv/announcements)など、通常の伝達方法でお知らせします。

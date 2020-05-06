@@ -5,22 +5,22 @@ ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: MPN のメンバーシップを Microsoft Action Pack サブスクリプションのメンバーシップまたは Microsoft コンピテンシーにアップグレードすることで、排他的な特典をご利用ください。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 13c2cc9b9365caa38c1da10b0c6dbba48d435397
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d5ab422d7df9c1d97b9d849d40046d21f31ee9ae
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390511"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797810"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
 
 **適用対象**
 
--  Partner Center
+-  パートナー センター
 
 Microsoft のパートナープログラムは、次の3つのメンバーシップオプションを提供しています。これには、ビジネス目標を達成するのに役立つ、段階的な特典とマーケティングリソース、プラン、およびプログラムが含まれています。
 
@@ -34,7 +34,7 @@ Microsoft のパートナープログラムは、次の3つのメンバーシッ
 
   - Gold コンピテンシー-特定の Microsoft ソリューション領域内の最高クラスの機能
 
-Microsoft Partner Network に参加した後は、メンバーシップをアップグレードし、排他的なメンバーシッププランを購入することができます。 Microsoft Partner Network メンバーシップについて詳しくは、[https://partner.microsoft.com](https://partner.microsoft.com) をご覧ください。
+Microsoft Partner Network に参加した後は、メンバーシップをアップグレードし、排他的なメンバーシッププランを購入することができます。 Microsoft Partner Network のメンバーシップの詳細については、「 [https://partner.microsoft.com](https://partner.microsoft.com)」を参照してください。
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack サブスクリプションを購入する
 
@@ -48,7 +48,7 @@ Action Pack は、クラウドファースト、モバイルファーストの�
 
 - 毎月 100 米ドルの Microsoft Azure クレジットの付与
 
-Microsoft Action Pack の詳細については、[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack) を参照してください。 
+Microsoft Action Pack の詳細については、 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)「」を参照してください。 
 
 > [!NOTE]  
 > このリンクをクリックすると、別の Web サイトにアクセスします。 Action Pack をサブスクライブするには、このパートナー センター サイトに戻ります。
@@ -56,17 +56,17 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Microsoft Action Pack をサブスクライブする
 
-1. **パートナー センター** メニューで、 **[パートナーシップ] > [プラン]** を選択します。 **[利用可能なプラン]** で Microsoft Action Pack を選びます。 **[今すぐ登録]** を選びます。 
+1. **パートナー センター** メニューで、**[パートナーシップ] > [プラン]** を選択します。 **[利用可能なプラン]** で Microsoft Action Pack を選びます。 **[今すぐ登録]** を選びます。 
 
 2. **[次へ]** を選んで、Microsoft Partner Network で付与される内部使用権の[諸条件](https://go.microsoft.com/fwlink/?linkid=842232)に同意します。  
 
 3. **[次へ]** を選んで、支払い情報を追加します。 
 
-4. 支払情報の入力が必要な場合は、 **[開始するにあたり、支払方法を追加してください。]** を選びます。
+4. 支払情報の入力が必要な場合は、**[開始するにあたり、支払方法を追加してください。]** を選びます。
 
-5. 支払い情報を入力し、 **[次へ]** を選びます。
+5. 支払い情報を入力し、**[次へ]** を選びます。
 
-6. 注文の詳細を確認し、Action Pack を購入する準備ができたら **[購入]** を選択します。 料金は、指定したクレジットカードに即座に請求されます。
+6. 注文の詳細を確認し、Action Pack を購入する準備ができたら [**購入**] を選択します。 料金は、指定したクレジットカードに即座に請求されます。
 
 7. 注文が確認されます。 **[閉じる]** を選びます。
 
@@ -74,7 +74,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack サブスクリプションの自動更新を無効にする
 
-1. **パートナー センター** メニューで、 **[パートナーシップ] > [プラン]** を選択します。 **[購入したプラン]** で Microsoft Action Pack を選びます。
+1. **パートナー センター** メニューで、**[パートナーシップ] > [プラン]** を選択します。 **[購入したプラン]** で Microsoft Action Pack を選びます。
 
 2. **Microsoft Action Pack サブスクリプション** を選んで、サブスクリプションの詳細を表示します。 
 
@@ -86,21 +86,21 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 ### <a name="renew-your-action-pack-subscription"></a>Action Pack サブスクリプションを更新する
 
-1. **パートナー センター** メニューで、 **[パートナーシップ] > [プラン]** を選択します。 **[購入したプラン]** で Microsoft Action Pack を選びます。
+1. **パートナー センター** メニューで、**[パートナーシップ] > [プラン]** を選択します。 **[購入したプラン]** で Microsoft Action Pack を選びます。
 
-2. **Microsoft Action Pack サブスクリプション**を選んで、サブスクリプションの詳細を表示し、 **[操作]** の下で **[サブスクリプションの更新]** を選びます。  
+2. **Microsoft Action Pack サブスクリプション**を選んで、サブスクリプションの詳細を表示し、**[操作]** の下で **[サブスクリプションの更新]** を選びます。  
 
-3. 注文の詳細を確認し、 **[次へ]** を選びます。
+3. 注文の詳細を確認し、**[次へ]** を選びます。
 
 4. **[次へ]** を選んで、Microsoft Partner Network で付与される内部使用権の諸条件に同意します。  
 
 5. **[次へ]** を選んで、支払い情報を追加します。 
 
-6. 支払情報の入力が必要な場合は、 **[開始するにあたり、支払方法を追加してください。]** を選びます。 
+6. 支払情報の入力が必要な場合は、**[開始するにあたり、支払方法を追加してください。]** を選びます。 
 
-7. 支払い情報を入力し、 **[次へ]** を選びます。
+7. 支払い情報を入力し、**[次へ]** を選びます。
 
-8. 注文の詳細を確認し、Action Pack を購入する準備ができたら **[購入]** を選択します。 料金は、指定したクレジットカードに即座に請求されます。
+8. 注文の詳細を確認し、Action Pack を購入する準備ができたら [**購入**] を選択します。 料金は、指定したクレジットカードに即座に請求されます。
 
 9. 注文が確認されます。 **[閉じる]** を選びます。
 
@@ -111,7 +111,7 @@ Microsoft Action Pack の詳細については、[https://partner.microsoft.com/
 
 Microsoft Action Pack サブスクリプションを取り消す場合は、パートナー センターのサポートにご連絡ください。
 
-1. https://partnercenter.microsoft.com/partner/support に移動します。
+1. https://partnercenter.microsoft.com/partner/support にアクセスします。
 
 2. **[パートナー センターに関する問題の報告]** を選び、次のページで **[New request]** (新しい要求) を選びます。
 
@@ -119,10 +119,10 @@ Microsoft Action Pack サブスクリプションを取り消す場合は、パ�
 
 4. 必要な情報を入力して **[送信]** を選びます。 パートナー センターのサポート チームが、サブスクリプションの取り消しについてご連絡します。
 
-    サービス要求の状態を確認するには、 **[サービス要求] > [パートナー センターの要求]** を選び、 **[開く]** を選びます。 一覧から該当するサービス要求を選びます。  
+    サービス要求の状態を確認するには、**[サービス要求] > [パートナー センターの要求]** を選び、**[開く]** を選びます。 一覧から該当するサービス要求を選びます。  
 
  
-### <a name="next-steps"></a>次のステップ:
+### <a name="next-steps"></a>次のステップ
 
 [Action Pack サブスクリプションをアクティブ化する](manage-your-partner-network-benefits.md)
 

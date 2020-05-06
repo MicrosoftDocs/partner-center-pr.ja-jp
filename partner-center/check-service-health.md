@@ -6,27 +6,27 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: サービスの問題が発生した場合に、顧客のサービス正常性を確認する方法について説明します。
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: 正常性, サービスの正常性, サービスの問題
 ms.localizationpriority: medium
-ms.openlocfilehash: 588145555426cf49c2bf0410078c158f142a74ba
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 99901e357acc73d4a57af710d011fdc2b8621d2f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390211"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798560"
 ---
 # <a name="check-service-health"></a>サービスの正常性の確認
 
 **適用対象**
 
-- Partner Center
+- パートナー センター
 
 **適切なロール**
 
 - 管理エージェント
-- 全体管理者
+- グローバル管理者
 - ヘルプデスク エージェント
 - 販売代理店
 
@@ -34,7 +34,7 @@ ms.locfileid: "80390211"
 
 **サービスの正常性の確認**
 
-1.  **パートナー センター** メニューで、 **[サービス正常性]** を選択します。 
+1.  **パートナー センター** メニューで、**[サービス正常性]** を選択します。 
 
 2.  すべてのサービスが表示され、正常な状態かどうかが示されます。 
 

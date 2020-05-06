@@ -6,28 +6,28 @@ description: 請求書は、現在の月額期間のすべてのパートナー�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "80676844"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798710"
 ---
-# <a name="understand-your-bill"></a>請求書を理解する
+# <a name="understand-your-bill"></a>課金内容を確認する
 
 **適用対象**
 
-- Partner Center
+- パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
 
-- 全体管理者
-- 課金の管理
+- グローバル管理者
+- 課金管理者
 - 管理エージェント
 
 
@@ -37,19 +37,19 @@ ms.locfileid: "80676844"
 
 Microsoft は、ライセンスベースの料金 (Office 365 など) と使用量ベースの料金 (Azure など) に対して1つの請求書を発行し、1回限りの料金 (Azure RI、Marketplace、Azure プランなど) に対して個別の請求書を発行します。 
 
-以下に例を示します。  
+たとえば、次のように入力します。  
 
-**シナリオ 1 [Single Currency]** : パートナーは145P プランと O365 ライセンスを購入しています。  
+**シナリオ 1 [Single Currency]**: パートナーは145P プランと O365 ライセンスを購入しています。  
 
 - パートナーは、O365 と Azure (145p) の両方の料金をカバーする1つの請求書 PDF と2つの調整ファイルを取得します。  
 
-**シナリオ 2 [Single Currency]** : パートナーは、145p 購入と共に、azure RI、Marketplace、または azure プランを購入しています。 
+**シナリオ 2 [Single Currency]**: パートナーは、145p 購入と共に、azure RI、Marketplace、または azure プランを購入しています。 
 
 - パートナーは、1つの請求書 PDF と、Azure の料金 (145p) をカバーする調整ファイルを取得します。 
 
 - パートナーは、Azure RI、Marketplace、Azure プランの料金をカバーする別の請求書 PDF と調整ファイルを受け取ります。 
 
-**シナリオ 3 [マルチ通貨]** : パートナーは、eur での DKK および azure プランの azure RI と、eur で145p の購入を購入しています。 
+**シナリオ 3 [マルチ通貨]**: パートナーは、eur での DKK および azure プランの azure RI と、eur で145p の購入を購入しています。 
 
 - パートナーは、1つの請求書 PDF と、DKK における Azure RI の料金をカバーする調整ファイルを受け取ります。 
 

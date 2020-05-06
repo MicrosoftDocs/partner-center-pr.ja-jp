@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: デバイスを顧客に納入する前に、自動操縦プロファイルを使用して、新しいデバイスの既定のエクスペリエンスをカスタマイズまたは事前構成する方法について説明します。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, ゼロタッチ展開, OOBE, ログイン画面, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391001"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798610"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Windows 自動操縦プロファイルを使用してデバイスの既定のエクスペリエンスをカスタマイズする
 
@@ -25,9 +25,9 @@ ms.locfileid: "80391001"
 **適切なロール**
 
 - 管理エージェント
-- 全体管理者
+- グローバル管理者
 - 販売代理店
-- ユーザー管理者
+- ユーザー管理の管理者
 
 顧客のデバイスを管理する場合、顧客のユーザーの out-of-box experience (OOBE) をカスタマイズすることが必要な場合があります。 顧客にデバイスを提供する前に Windows Autopilot プロファイルを使用して新しいデバイスを事前に構成し、顧客が既に購入したデバイスに新しいプロファイルを適用することができます。 
 
@@ -37,7 +37,7 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
 
 まだ Autopilot に慣れていない場合は、次の記事の情報を確認してください。
 
-- [Windows Autopilot の概要](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Windows 自動操縦の概要](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Autopilot 展開リファレンス ガイド](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>概要
@@ -73,11 +73,11 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
 
 1. パートナー センター メニューで **[顧客]** を選択し、Autopilot プロファイルを作成する顧客を選択します。
 
-2. 顧客の詳細ページで、 **[デバイス]** を選択します。
+2. 顧客の詳細ページで、**[デバイス]** を選択します。
 
 3. **[Windows Autopilot プロファイル]** で **[新しいプロファイルの追加]** を選択します。
 
-4. プロファイルの名前と説明を入力し、OOBE の設定を構成します。 以下から選択します。  
+4. プロファイルの名前と説明を入力し、OOBE の設定を構成します。 次の中から選択します。  
 
    - セットアップでプライバシーの設定をスキップする
 
@@ -90,7 +90,7 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
        >[!IMPORTANT] 
        >Windows セットアップ中の EULA ページのスキップに関して考慮する必要のある重要な情報については、後出の「[Windows AutoPilot での使用許諾契約の非表示](#windows-autopilot-eula-dismissal)」を参照してください。
 
-5. 完了したら、 **[送信]** を選びます。
+5. 完了したら、**[送信]** を選びます。
 
 ### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Autopilot プロファイルを顧客のデバイスに適用する
 
@@ -101,9 +101,9 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
 
 1. パートナー センターのメニューで **[顧客]** を選択し、Autopilot プロファイル作成の対象となる顧客を選択します。
 
-2. 顧客の詳細ページで、 **[デバイス]** を選択します。
+2. 顧客の詳細ページで、**[デバイス]** を選択します。
 
-3. **[デバイスへのプロファイルの適用]** でプロファイルを追加するデバイスまたはデバイス グループを選択してから、 **[プロファイルの適用]** を選択します。 適用したプロファイルが、 **[プロファイル]** 列に表示されます。
+3. **[デバイスへのプロファイルの適用]** でプロファイルを追加するデバイスまたはデバイス グループを選択してから、**[プロファイルの適用]** を選択します。 適用したプロファイルが、**[プロファイル]** 列に表示されます。
 
 4. 次の手順に従って、プロファイルがデバイスに正常に適用されたことを確認します。
 
@@ -117,9 +117,9 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
 
 1. パートナー センターのメニューで **[顧客]** を選択し、Autopilot プロファイル作成の対象となる顧客を選択します。
 
-2. 顧客の詳細ページで、 **[デバイス]** を選択します。
+2. 顧客の詳細ページで、**[デバイス]** を選択します。
 
-3. **[デバイスへのプロファイルの適用]** でプロファイルを削除するデバイスを選択してから、 **[プロファイルの削除]** を選択します。
+3. **[デバイスへのプロファイルの適用]** でプロファイルを削除するデバイスを選択してから、**[プロファイルの削除]** を選択します。
 
    >[!NOTE]
    >デバイスからプロファイルを削除しても、一覧からプロファイルが削除されることはありません。 プロファイルを削除する場合は、「[Autopilot プロファイルを更新または削除する](#update-or-delete-an-autopilot-profile)」での説明のようにします。
@@ -132,9 +132,9 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
 
 1. パートナー センターのメニューで **[顧客]** を選択し、Autopilot プロファイルの変更を希望している顧客を選択します。
 
-2. 顧客の詳細ページで、 **[デバイス]** を選択します。
+2. 顧客の詳細ページで、**[デバイス]** を選択します。
 
-3. **[Windows Autopilot プロファイル]** で、更新する必要があるプロファイルを選択します。 必要な変更を行った後、 **[送信]** を選択します。
+3. **[Windows Autopilot プロファイル]** で、更新する必要があるプロファイルを選択します。 必要な変更を行った後、**[送信]** を選択します。
 
 このプロファイルを削除するには、ページの右上隅にある **[プロファイルの削除]** を選択します。
 
@@ -155,16 +155,16 @@ OEM 名、シリアル番号、モデルの組み合わせを使う場合は、�
 
 1. パートナー センターのメニューで **[顧客]** を選択し、デバイスが管理対象となる顧客を選択します。
 
-2. 顧客の詳細ページで、 **[デバイス]** を選択します。
+2. 顧客の詳細ページで、**[デバイス]** を選択します。
 
 3. **[デバイスへのプロファイルの適用]** で **[デバイスの追加]** を選択します。
 
-4. デバイス一覧の名前を入力し、 **[参照]** を選択して、顧客の一覧 (.csv ファイル形式) をパートナー センターにアップロードします。
+4. デバイス一覧の名前を入力し、**[参照]** を選択して、顧客の一覧 (.csv ファイル形式) をパートナー センターにアップロードします。
 
     >[!NOTE]
     >この .csv ファイルは、デバイスを購入したときに受け取っているはずです。 .csv ファイルを受け取っていない場合は、「[Adding devices to Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)」 (Windows Autopilot にデバイスを追加する) の手順に従って自分で作成できます。  
 
-5. .csv ファイルをアップロードし、 **[保存]** を選択します。
+5. .csv ファイルをアップロードし、**[保存]** を選択します。
 
 .csv ファイルをアップロードしようとするとエラー メッセージが表示される場合は、ファイルの形式を確認します。 ハードウェア ハッシュのみ、OEM 名とシリアル番号とモデル (その列の順序で)、または Windows 製品 ID を使用することができます。 **[デバイスの追加]** の横にあるリンクで提供されているサンプルの .csv ファイルを使用して、デバイス一覧を作成することもできます。
 

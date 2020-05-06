@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 関係の要求は、マルチパートナー シナリオとマルチチャンネル シナリオで使用されます。 また、顧客が委任された管理者特権を削除していて、プロビジョニングまたはサポートを提供するためにそれらを復元する必要がある場合にも便利です。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ff1b9d6e7290304b4cc33d53251750daf04fbfe8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 287ecd324472a7f28585dc2f7edef8cd95bb2e34
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390681"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798680"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>パートナー センターでの顧客との連携
 
 **適用対象**
 
--  Partner Center
+-  パートナー センター
 
 お客様の代理で顧客のサービスまたはサブスクリプションを管理する場合は、そのサービスまたはサブスクリプションに対する管理者権限を付与し、Microsoft カスタマーアグリーメントに署名する必要があります。
 
@@ -35,7 +35,7 @@ ms.locfileid: "80390681"
 
 1.  **パートナー センター** メニューから **[顧客]** を選択し、 **[リセラーの関係を要求する]** を選びます。
 
-2.  この顧客に管理者アクセス許可を要求するには、 **[Azure Active Directory および Office 365 に対応する委任された管理特権を含めてください]** を選択します。 管理者アクセス許可を要求しないで関係を確立するには、このオプションをオフにします。 
+2.  この顧客に管理者アクセス許可を要求するには、**[Azure Active Directory および Office 365 に対応する委任された管理特権を含めてください]** を選択します。 管理者アクセス許可を要求しないで関係を確立するには、このオプションをオフにします。 
 
 3.  次のページで、メール メッセージの下書きを確認します。 既定のメール アプリケーションで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。 
 
@@ -51,7 +51,7 @@ ms.locfileid: "80390681"
 
 
 > [!IMPORTANT]  
-> 顧客は、サービスの管理者ポータルで、管理者のアクセス許可の割り当てを変更したり、削除したりすることができます。 ただし、お客様との契約を再交渉するまでは、お客様は引き続きカスタマーサポートを提供し、お客様が管理者を再割り当てまたは削除した後でも、Microsoft パートナー契約の条項に準拠する責任を負うものとします。許可. この状況で顧客にサポートが必要となった場合、パートナーは顧客に代わって Microsoft サポートにサービス要求を求めることができます。
+> 顧客は、サービスの管理者ポータルで、管理者のアクセス許可の割り当てを変更したり、削除したりすることができます。 ただし、お客様との契約を再交渉するまで、またはお客様が管理者権限を再割り当てまたは削除した後でも、引き続きカスタマーサポートを提供し、Microsoft パートナー契約の条項に準拠する責任を負うことになります。 この状況で顧客にサポートが必要となった場合、パートナーは顧客に代わって Microsoft サポートにサービス要求を求めることができます。
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>顧客招待エクスペリエンスの変更
 
@@ -64,7 +64,7 @@ ms.locfileid: "80390681"
 | Microsoft Cloud for US Government のパートナー センター内の顧客 | Microsoft Office 管理ポータル |
 |
 
-## <a name="see-also"></a>参照
+## <a name="see-also"></a>関連項目
 
 - [サポート連絡先の指定](assign-support-contacts.md)
-- [顧客との再販業者関係の削除](remove-a-relationship.md)
+- [顧客との関係の削除](remove-a-relationship.md)

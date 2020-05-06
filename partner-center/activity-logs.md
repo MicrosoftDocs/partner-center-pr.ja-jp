@@ -6,30 +6,30 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: アクティビティログを表示およびエクスポートして、顧客のアカウントトランザクションやその他の顧客関連のパートナー管理アクティビティに関する洞察を得る方法について説明します。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: アクティビティ ログ, サブスクリプション, サブスクリプション, 支払い, 課金, トランザクション
 ms.localizationpriority: medium
-ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390381"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798660"
 ---
 # <a name="view-customer-activity-logs"></a>顧客のアクティビティ ログの表示
 
 **適用対象**
 
-- Partner Center
+- パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 - クラウド ソリューション プロバイダー プログラム パートナー
 
 **適切なロール**
 
-- 全体管理者
-- 課金の管理
-- ユーザー管理者
+- グローバル管理者
+- 課金管理者
+- ユーザー管理の管理者
 - 管理エージェント
 - 販売代理店
 - ヘルプデスク エージェント
@@ -50,10 +50,10 @@ ms.locfileid: "80390381"
     ログに記録されたアクションの詳細を表示するには、アクティビティ ログの下矢印を選びます。 1 つのアクティビティ ログには、複数の製品の注文など、相当な量のデータが表示される場合があります。
 
 3.   ログのデータ列には、次のものが含まれます。
-    -   **[日時]** : アクションの日付と時刻です。
-    -   **[影響を受けるユーザー]** : 顧客の会社名です。
-    -   **[アクション]** : "紹介を作成した" など、顧客によって実行されたアクションです。
-    -   **[パートナー ユーザー]** : アクティビティに関連付けられているパートナーです。
+    -   **[日時]**: アクションの日付と時刻です。
+    -   **[影響を受けるユーザー]**: 顧客の会社名です。
+    -   **[アクション]**: "紹介を作成した" など、顧客によって実行されたアクションです。
+    -   **[パートナー ユーザー]**: アクティビティに関連付けられているパートナーです。
 
 4.  **[ログのエクスポート]** を選択し、顧客のサブスクリプション データを .csv ファイルにコピーして、お使いのコンピューター上の既定のダウンロード フォルダーにダウンロードします。
     

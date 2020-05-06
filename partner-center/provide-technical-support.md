@@ -6,25 +6,25 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: さまざまな方法の概要とテクニカルサポートの種類について説明します。
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 068d53a72608b29cc4dd7854caf20d32ffe77b06
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: de7207464b5960d04df50dce1b4e938bc2ad86e0
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390721"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798720"
 ---
 # <a name="provide-technical-support"></a>テクニカル サポートを提供する
 
 **適用対象**
 
--  Partner Center
+-  パートナー センター
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   全体管理者
+-   グローバル管理者
 -   ユーザー管理者
 -   ヘルプデスク エージェント
 -   管理エージェント
@@ -38,7 +38,7 @@ ms.locfileid: "80390721"
 
 **顧客向けの管理タスクの実行**
 
-1.  **パートナー センター** メニューで、 **[顧客]** を選択します。 一覧から顧客を選びます。
+1.  **パートナー センター** メニューで、**[顧客]** を選択します。 一覧から顧客を選びます。
 2.  顧客メニューの **[サービス管理]** を選びます。
 3.  **[サービスの管理]** セクションで、作業する必要があるサービスを選択し、サービスの管理ポータルを開きます。
 4.  ダウンしているサービスやエクスペリエンス低下の原因など、顧客のアカウントに問題がある場合は、まずサービスの正常性を確認する必要があります。 「[サービスの正常性の確認](check-service-health.md)」をご覧ください。

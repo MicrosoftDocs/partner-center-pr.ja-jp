@@ -5,26 +5,26 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ダイレクト請求パートナー (直接再販業者、間接プロバイダー) が、Office 365 Government 用の CSP 用の GCC 用のパートナーと顧客を検証する手順について説明します。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a0cbdcd0ac4bcf6eda9df43f4b3a92bfcb4ce91b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 31923fa47083392a2621ae4d0f73ff94dccf9778
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389731"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798470"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP 向け Office 365 Government GCC パートナーと顧客の適格性の条件
 
 **適用対象**
 
--  Partner Center
+-  パートナー センター
 -  CSP パートナー
 
 **適切なロール**
 
-- 全体管理者
+- グローバル管理者
 - 管理エージェント
 - 販売代理店
 
@@ -48,7 +48,7 @@ CSP 向け Office 365 Government GCC のパートナーと顧客の適格性は�
 2.  GSA やその他の契約によって米国政府機関の顧客にサービスを提供している
 
 **顧客の条件**
-1.  米国の行政機関。 例 :
+1.  米国の行政機関。 次に例を示します。
  
     -  連邦行政機関 (省、庁、局などの米国政府機関)
     -   州/地方自治体の行政機関 
@@ -56,7 +56,7 @@ CSP 向け Office 365 Government GCC のパートナーと顧客の適格性は�
     -   地域または州間行政機関 (国際行政機関ではありません)
     -   連邦政府資金の研究開発センター (FERDC)
 
-2.  規制の対象となるデータを含む商用プライベートエンティティ。 承認されている政府機関向けデータの種類は次のとおりです。 
+2.  規制の対象となるデータを含む商用プライベートエンティティ。 受け入れ可能な政府のデータの種類: 
     -   国際武器取引規則 (ITAR)
     -   管理対象の非機密情報 (Controlled Unclassified Information: CUI)
     -   米国国防総省 (DoD) の機密扱いではないが管理対象となっている核関連情報 (Unclassified Controlled Nuclear Information: UCNI)

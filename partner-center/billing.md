@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 請求リソース、請求書、CSP の請求、税金に関する情報を含む、パートナー センターの請求に関するトピックの一覧。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: high
-ms.openlocfilehash: 33c698648b6e195219ae8b58c36e8fda372685f3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 5b50a51d1d3d29f0631dc7b2147e11181e719c87
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80634801"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798580"
 ---
 # <a name="billing-and-taxes"></a>請求と税金
 

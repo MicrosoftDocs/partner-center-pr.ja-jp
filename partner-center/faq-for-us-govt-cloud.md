@@ -5,15 +5,15 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 米国政府向け Microsoft Cloud 用のクラウドソリューションプロバイダー (CSP) プログラムに関するよく寄せられる質問 (FAQ) に対する回答を参照してください。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cfcccf65557e4e7d1096a6f69cb80ff00b0c3a23
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7ee7a0877a67c744ec77035017181aeaa458833c
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389681"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798350"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問
 
@@ -37,7 +37,7 @@ Microsoft Cloud for US Government のクラウド ソリューション プロ�
 
 **顧客向けの価格設定は商用 CSP の場合と同じですか?**
 
-No: 価格設定には、Microsoft Cloud for US Government で特別な価値を提供するための追加コストが反映されています。
+いいえ。 価格設定には、Microsoft Cloud for US Government で特別な価値を提供するための追加コストが反映されています。
 
 **パートナー向けの割引モデルは同じですか?**
 
@@ -61,7 +61,7 @@ No: 価格設定には、Microsoft Cloud for US Government で特別な価値を
 
 パートナーが利用できる登録モデルの詳細については、[Microsoft Partner Network のクラウド ソリューション プロバイダーに関するページ](https://partner.microsoft.com/cloud-solution-provider)を参照してください。
 
-**ライセンスはどのようなしくみになっていますか?**
+**How does licensing work? (ライセンスはどのように機能しますか。)**
 
 *Microsoft クラウド リセラー契約 (MCRA)*
 
@@ -99,15 +99,15 @@ Microsoft Cloud ディストリビューター契約 (MCDA) は、販売代理�
 
 **私は既存のパートナーです。米国政府向けの Microsoft Cloud を販売するにはどうすればよいですか?**
 
-パートナーは、法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムにオンボードする必要があります (Microsoft Cloud for US Government へのオンボードと商用 CSP へのオンボードは別です)。オンボードが完了すると、Microsoft Cloud for US Government 内で顧客の作成や利用可能なプランの処理を行うことができます。 API を利用している場合は、[Microsoft National Cloud のパートナー センター向けの開発に関するページ](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)を参照してください。
+パートナーは、法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムにオンボードする必要があります  (Microsoft Cloud for US Government へのオンボードと商用 CSP へのオンボードは別です)。オンボードが完了すると、Microsoft Cloud for US Government 内で顧客の作成や利用可能なプランの処理を行うことができます。 API を利用している場合は、[Microsoft National Cloud のパートナー センター向けの開発に関するページ](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)を参照してください。
 
 **パートナー インセンティブに違いはありますか?**
 
-No: Microsoft Cloud for US Government の CSP プログラムにおけるパートナー インセンティブは、商用 CSP の場合と同じです。 パートナー インセンティブの詳細については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/partner-incentives)を参照してください。
+いいえ。 Microsoft Cloud for US Government の CSP プログラムにおけるパートナー インセンティブは、商用 CSP の場合と同じです。 パートナー インセンティブの詳細については、[Microsoft Partner Network ポータル](https://partner.microsoft.com/membership/partner-incentives)を参照してください。
 
 **請求に関する変更はありますか?**
 
-No: Microsoft Cloud for US Government の CSP プログラムにおける請求条件および要件は、商用 CSP の場合と同じです。 請求に関する詳細については、[Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources) を参照してください。
+いいえ。 Microsoft Cloud for US Government の CSP プログラムにおける請求条件および要件は、商用 CSP の場合と同じです。 請求に関する詳細については、[Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources) を参照してください。
 
 **商用のデータセンターでホストされているデータについて、Microsoft Cloud for US Government に変更できますか?**
 
@@ -118,7 +118,7 @@ No: Microsoft Cloud for US Government の CSP プログラムにおける請求�
 
 **Microsoft Cloud for US Government for Azure とは何ですか?**
 
-Azure Government クラウドは、セキュリティ、プライバシーと管理、コンプライアンス、透過性の基本原則に基づいて構築されたクラウド プラットフォームを提供します。 公的機関に対して、物理的に分離された Microsoft Azure のインスタンスが提供されます。このインスタンスでは、Microsoft Azure のアーキテクチャに基づくすべてのシステムやアプリケーションについて、米国政府機関向けに必要な世界レベルのセキュリティおよびコンプライアンス サービスが採用されています。 これらのサービスには、FedRAMP および DoD 遵守の認定、州レベルの CJIS アグリーメント、HIPAA 事業提携契約書の発行機能、および IRS 1075 のサポートが含まれます。 Azure Government は、適格審査を受けた米国人によって運用され、オンプレミスまたはクラウドでソリューションを構築および展開するための複数のハイブリッド シナリオをサポートします。 公的機関では、迅速なスケーラビリティを活用し、ハイパー スケールのクラウド サービスの稼働時間を保証することもできます。
+Azure Government クラウドは、セキュリティ、プライバシーと管理、コンプライアンス、透過性の基本原則に基づいて構築されたクラウド プラットフォームを提供します。 公的機関に対して、物理的に分離された Microsoft Azure のインスタンスが提供されます。このインスタンスでは、Microsoft Azure のアーキテクチャに基づくすべてのシステムやアプリケーションについて、米国政府機関向けに必要な世界レベルのセキュリティおよびコンプライアンス サービスが採用されています。 これらのサービスには、FedRAMP および DoD コンプライアンス認証、CJIS の州レベルの契約、HIPAA 関係機関の契約を発行する機能、IRS 1075 のサポートなどがあります。 Azure Government は、適格審査を受けた米国人によって運用され、オンプレミスまたはクラウドでソリューションを構築および展開するための複数のハイブリッド シナリオをサポートします。 また、公的機関は迅速なスケール変更や、超大規模なクラウド サービスの保証されたアップタイムを活用できます。
 
 **Microsoft Cloud for US Government の CSP プログラムでは、すべての Azure サービスが提供されますか?**
 
@@ -155,7 +155,7 @@ Azure Government クラウドは、セキュリティ、プライバシーと管
 
 -   顧客の削除されたユーザーを復元する    
 
-**ライセンスの管理**
+**ライセンス管理**
 
 -   利用可能なライセンスの一覧を取得する
 
@@ -167,7 +167,7 @@ Azure Government クラウドは、セキュリティ、プライバシーと管
 
 パートナーは、パートナー ユーザー アカウントの管理用に Azure Portal、Azure AD PowerShell、または Graph API を使用できます。 その他の技術情報については、[米国政府機関向けクラウドのパートナー センターによる開発に関するページ](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)を参照してください。
 
-**詳しい情報はどこで入手できますか?**
+**詳細情報を得るには?**
 
 CSP プログラムの詳細や、米国政府機関向け Microsoft Cloud のパートナー センターで開発を行う方法については、次のリンクをご利用ください。
 

@@ -6,25 +6,25 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 状況によっては、顧客が他から購入したサブスクリプションのプロビジョニングやサポートをパートナーに依頼する場合があります。
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d7c56e934060a9bfba55a262e262e01eaac50691
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 058f12ddd14375b1f53530dc7bed546ef30a96d7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390831"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798820"
 ---
 # <a name="multi-channel-support"></a>マルチチャンネルのサポート
 
 **適用対象**
 
--  Partner Center
+-  パートナー センター
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   全体管理者
+-   グローバル管理者
 -   ユーザー管理者
 -   販売代理店
 
@@ -58,9 +58,9 @@ ms.locfileid: "80390831"
 > [!IMPORTANT]  
 > 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースに関するすべての情報は、パートナー センターなど、通常の伝達方法でお知らせします。 
 
-## <a name="see-also"></a>参照
+## <a name="see-also"></a>関連項目
 
-[他のパートナーと連携する](work-with-other-partners.md)
+[他のパートナーとの連携](work-with-other-partners.md)
 
 間接のリセラー向け: 「[間接プロバイダーとの提携](indirect-reseller-tasks-in-partner-center.md)」
 

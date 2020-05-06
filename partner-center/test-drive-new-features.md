@@ -5,21 +5,21 @@ ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: リリース前のパートナー センターの新機能をお試しになり、ご意見をお聞かせください。 パートナー センターの将来像を形作るためにご協力ください。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 367fe22b984277b02e4161bf12cf2198ab663c5b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 0f2761a743254a9c1dc8b40cc749e415587cae08
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390571"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797710"
 ---
 # <a name="test-drive-new-partner-center-features"></a>パートナー センターの新機能のテスト
 
 **適用対象**
 
-- Partner Center
+- パートナー センター
 
 ## <a name="help-shape-the-future-of-partner-center"></a>パートナー センターの将来像を形作るためにご協力ください。
 
@@ -29,7 +29,7 @@ ms.locfileid: "80390571"
 
 ### <a name="test-drive-a-feature"></a>機能を体験する
 
-1. **[アカウント設定]** で、 **[新機能のテスト]** を選択します。
+1. **[アカウント設定]** で、**[新機能のテスト]** を選択します。
 
 2. **[機能リリース]** を選択します。 テストのためにリリースされている機能と、参加に関心があるかどうかを確認することができます。
 
@@ -48,7 +48,7 @@ ms.locfileid: "80390571"
 
 
  
-## <a name="tell-us-what-you-think"></a>ご意見をお聞かせください
+## <a name="tell-us-what-you-think"></a>ご意見をお寄せください
 
 パートナー センターのあらゆる機能の開発におけるマイクロソフトの使命は、お客様がより多くの目標を達成できるようにすることです。 Microsoft では、ビジネスの成長に役立つ機能や機能に焦点を当てることを目的としています。そのため、世界中のパートナーセンターコミュニティにリリースする前に、新機能をお試しいただき、フィードバックをお寄せください。 
 
@@ -56,7 +56,7 @@ ms.locfileid: "80390571"
 
 -   パートナー センター ウィンドウの右下隅にあるフィードバック フォームを使用して、直接フィードバックを送信します。 
 
--   機能のプレビューに関する問題が発生した場合は、サポートを要求します。 サポート要求を作成するには、**パートナー センター** メニューで **[Support requests]\(サポート要求\) > [Partner Center requests]\(パートナー センターの要求\)** の順に選び、 **[Partner Center requests]\(パートナー センターの要求\)** ページで **[新しい要求]** を選びます。
+-   機能のプレビューに関する問題が発生した場合は、サポートを要求します。 サポート要求を作成するには、**パートナー センター** メニューで **[Support requests]\(サポート要求\) > [Partner Center requests]\(パートナー センターの要求\)** の順に選び、**[Partner Center requests]\(パートナー センターの要求\)** ページで **[新しい要求]** を選びます。
 
 
 
