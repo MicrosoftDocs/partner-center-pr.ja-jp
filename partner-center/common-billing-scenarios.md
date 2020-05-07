@@ -6,27 +6,27 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 新しいサブスクリプションを追加した後、ライセンス数を調整した後、またはサブスクリプションをキャンセルした後に課金を確認します。 使用量ベースおよびライセンスベースのサブスクリプションの違いについて説明します。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: 請求, 支払い, 注文, 使用状況, ライセンス ベースの請求, 契約応当日, 条件, キャンセル, 更新, 価格式, 調整ファイル, recon ファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b8cfe28b6d81a2ff91543ed2d7005f72007b553
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 53844ffd1925f934b1931f80a256f7e7c40eb338
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390051"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798510"
 ---
 # <a name="common-billing-scenarios"></a>一般的な課金シナリオ
 
-適用対象
+適用対象:
 
 - クラウドソリューションプロバイダー (CSP) プログラムの課金
 
 **適切なロール**
 
 - 管理エージェント
-- 課金の管理
+- 課金管理者
 - ヘルプデスク エージェント
 - 販売代理店
 

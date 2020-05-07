@@ -3,20 +3,20 @@ title: 使用量ベースの課金 |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
 Description: パートナーセンターでの使用量ベースの課金に関する情報。毎月の使用率に対して課金されます。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 課金、使用量ベース、使用量
 ms.localizationpriority: medium
-ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390501"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797670"
 ---
 # <a name="usage-based-billing"></a>使用量ベースの課金
 
-- Partner Center
+- パートナー センター
 - CSP プログラムのパートナー
 
 Azure サブスクリプションなどのオンラインサービスを購入すると、毎月の使用率に対して課金されます。 使用量ベースのサービス (Azure など) は、消費量に基づく従量制で請求されます。

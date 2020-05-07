@@ -5,30 +5,30 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナーセンターに表示されるさまざまな課金の種類、請求期間、請求日について説明します。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 請求, 支払い,注文,調整ファイル, recon ファイル
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a6d4db62b89ec33740cd5a70141cf5a64533dfc0
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390291"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798590"
 ---
-# <a name="types-of-billing-in-partner-center"></a>パートナーセンターでの課金の種類
+# <a name="types-of-billing-in-partner-center"></a>パートナー センターでの請求の種類
 
 **適用対象**
 
-- Partner Center
+- パートナー センター
 - CSP プログラムのパートナー
 
 **適切なロール**
 
 - 管理エージェント
-- 課金の管理
-- 全体管理者
+- 課金管理者
+- グローバル管理者
 - ヘルプデスク エージェント
 - 販売代理店
 

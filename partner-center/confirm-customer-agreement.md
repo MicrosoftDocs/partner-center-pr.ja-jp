@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート
 ms.localizationpriority: high
-ms.openlocfilehash: 51bfe2c132b4c5ba5d9b285164ee99a29cfcc22f
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: a40d5fa1d737dd679699db467ce8b3b1be81f84b
+ms.sourcegitcommit: 1125391fd9a1ded2a051968b3a280a10676ed8bb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80805981"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "82741051"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 顧客契約に対する顧客の同意を確認する
 
@@ -33,20 +33,9 @@ ms.locfileid: "80805981"
 - 間接リセラー、直接請求、間接プロバイダー
 
 
-2019 年 10 月 1 日に、Microsoft Cloud 契約に置き換わるものとして、CPS プログラムに **Microsoft 顧客契約**が導入されました。 間接リセラー向けの追加の[ガイダンス](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpartner-center%2Findirect-reseller-tasks-in-partner-center&data=02%7C01%7CChelsea.Kajs%40microsoft.com%7Cd5e0adc6b10646352ce508d7a4e84251%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637159189767080601&sdata=%2BPAWMBPVbVBkTx25r9CoD7cQxRqRVEYkxWIilrwwxZc%3D&reserved=0)をご覧ください。 新しい契約へのパートナーの移行を促進するために、2020 年 1 月 31 までは両方の契約が CSP プログラムで共存していました。 2020 年 2 月 1 日に、Microsoft Cloud 契約は Microsoft 顧客契約に置き換わりました。 [Microsoft 顧客契約および同意を確認する方法](confirm-customer-agreement.md)についてご確認ください。
+2019 年 10 月 1 日に、Microsoft Cloud 契約に置き換わるものとして、CPS プログラムに **Microsoft 顧客契約**が導入されました。 間接リセラー向けの追加の[ガイダンス](indirect-reseller-tasks-in-partner-center.md)をご覧ください。 新しい契約へのパートナーの移行を促進するために、2020 年 1 月 31 までは両方の契約が CSP プログラムで共存していました。 2020 年 2 月 1 日に、Microsoft Cloud 契約は Microsoft 顧客契約に置き換わりました。
 
-スケジュールの詳細については、次の表を参照してください。
-
-| 日付 | マイルストーン | 詳細情報 |
-|------------|------------|--------------------------------|
-|2019 年 8 月 1 日|サンドボックスで UX プレビューの提供開始|パートナーは、CSP サンドボックス環境でパートナー センター ダッシュボードを使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 CSP サンドボックス環境へのアクセス権を持つパートナーは、ユーザー エクスペリエンスの変更をプレビューできます。 サンドボックス環境へのアクセス権を持たないパートナーは、その変更をこのトピックで確認できます。|
-|2019 年 9 月 3 日|サンドボックスで API プレビューの提供開始。|パートナーは、CSP サンドボックス環境でパートナー センター API を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 API パートナーは、この機会を利用して API の変更をプレビューし、新しい契約をサポートするために API の統合作業を開始できます。|
-|2019 年 9 月 20 日|サンドボックスで .NET SDK プレビューの提供開始。|パートナーは、CSP サンドボックス環境内でパートナー センター .NET SDK を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 API パートナーは、この機会を利用して .NET SDK の変更のプレビューを表示し、新しい契約をサポートするために API の統合作業を開始できます。|
-|2019 年 10 月 1 日|Microsoft 顧客契約が運用環境で使用可能|Microsoft では、Microsoft 顧客契約を CSP プログラムに導入します。これは、Microsoft Cloud 契約に置き換わるものです。 パートナーは、運用環境でパートナー センター ダッシュボードと API を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 Microsoft Cloud 契約は、CSP パートナー プログラムで引き続きサポートされます。 ただし、パートナーは、Microsoft 顧客契約への移行を開始することをお勧めします。 新しい購入および既存のサブスクリプションに対するシート数の変更では、Microsoft 顧客契約または Microsoft Cloud 契約のいずれかへのパートナーの確認が必要になります。 特定の新しいオファー (新しい Azure プランなど) では、Microsoft 顧客契約への同意の確認が求められます。|
-|2020 年 1 月 31 日|Microsoft クラウド契約が運用環境から削除|Microsoft Cloud 契約は CSP パートナー プログラムでは受け入れられなくなりました。 新しい購入および既存のサブスクリプションに対するシート数の変更では、パートナーは、Microsoft 顧客契約の確認を提供する必要があります。 この要件は、以前に Microsoft Cloud 契約に同意した場合でも、新しいお客様および既存のお客様に適用されます。|
-|2020 年 2 月 3 日|パートナーは、URL を使用して、認証された Microsoft 365 管理センターで契約を確認し、同意するように顧客に要請するオプションを利用できるようになりました。 | 顧客は、Microsoft 365 管理センターで Microsoft 顧客契約に同意できます。 顧客が Microsoft 365 管理センターで契約に直接同意することにより、条件を承認したことが確認されます。 
-
-パートナーは、次の 2 つのオプションで、顧客から Microsoft 顧客契約に対する同意を得ることができます。  
+顧客が Microsoft 顧客契約に同意するには、次の 2 つのオプションがあります。 
 
 **オプション 1**:顧客の同意に対するパートナー証明 - パートナーは、パートナー センター API/SDK を使用するか、パートナー センター ダッシュボードを使用して、顧客の同意を確認できます。
 
@@ -54,21 +43,9 @@ ms.locfileid: "80805981"
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Microsoft 顧客契約テンプレートへのアクセス
 
-最新バージョンの Microsoft 顧客契約テンプレートは、[こちら](https://aka.ms/customeragreement)から手動でダウンロードできます。 Microsoft 顧客契約は国によって異なることにご注意ください。 Microsoft 顧客契約テンプレートを要求するときは、顧客の所在地に応じて正しい国を選択してください。 
+最新バージョンの Microsoft 顧客契約テンプレートは、[こちら](https://aka.ms/customeragreement)から手動でダウンロードできます。 Microsoft 顧客契約は国によって異なります。 Microsoft 顧客契約テンプレートを要求するときは、顧客の所在地に応じて正しい国を選択してください。 
 
-## <a name="option-1-confirm-customer-acceptance-using-partner-center-apisdk"></a>オプション 1:パートナー センター API/SDK を使用して顧客の同意を確認する
-
-パートナー センター API/SDK を使用して、Microsoft 顧客契約に対する顧客の同意を確認できます。 API/SDK について詳しくは、以下をご覧ください。
-
-- [Microsoft 顧客契約の契約メタデータを取得する](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
-
-- [Microsoft 顧客契約へのお客様の同意を確認する](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
-
-- [Microsoft 顧客契約に関するお客様の同意の確認を取得する ](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
-
-- [Microsoft 顧客契約テンプレートのダウンロード リンクを取得する](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
-
-## <a name="confirm-customer-acceptance-in-partner-center"></a>パートナー センターを使用してお客様の同意を確認する
+## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>オプション 1:パートナー センターを使用してお客様の同意を確認する
 
 パートナーは、新規の顧客と既存の顧客について、パートナー センターで Microsoft 顧客契約に対する顧客の同意を確認できます。 リセラーは顧客に代わって証明を行うことができません。間接プロバイダーと協力して、証明を完了する必要があります。
 
@@ -84,9 +61,9 @@ ms.locfileid: "80805981"
 
 4. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
 
-5. 表示されたユーザーの主要連絡先情報が正しいことを確認します。 正しくない場合は、 **[更新]** を選択し、契約に同意したユーザーの **名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
+5. 表示されたユーザーの主要連絡先情報が正しいことを確認します。 正しくない場合は、 **[更新]** を選択し、契約に同意した人の正確な情報を入力します。
 
-6. **[次へ]** を選択して、お客様のテナントを作成する残りの手順を続行します。
+6. **[次へ]** を選択して、顧客のテナントの作成を続行します。
 
 ![新しい顧客](images/mca/newcustomeragreement.jpg)  
 
@@ -116,20 +93,33 @@ ms.locfileid: "80805981"
 
 3. **Microsoft 顧客契約** で、この顧客による確認の提供の有無を表示します。
 
+## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>パートナー センター API/SDK を使用して顧客の同意を確認する
+
+パートナー センター API/SDK を使用して、Microsoft 顧客契約に対する顧客の同意を確認できます。 API/SDK について詳しくは、以下をご覧ください。
+
+- [Microsoft 顧客契約の契約メタデータを取得する](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
+
+- [Microsoft 顧客契約へのお客様の同意を確認する](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+
+- [Microsoft 顧客契約に関するお客様の同意の確認を取得する ](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+
+- [Microsoft 顧客契約テンプレートのダウンロード リンクを取得する](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
+
+
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>オプション 2:Microsoft 365 管理センターでの顧客の同意
 
 パートナーは、URL を使用して、Microsoft 365 管理センターで契約を確認し、同意するように新規および既存の顧客に要請できます。 次のいくつかのセクションでその方法を説明します。
 
-- 新規の顧客を作成し、契約を確認して同意するよう顧客に要請する
+- 新規の顧客を作成し、契約を確認して同意するよう顧客に要請します。
 
-- リセラー関係とリセラー契約を確認して同意するよう新規の顧客に要請する
+- リセラー関係とリセラー契約を確認して同意するよう新規の顧客に要請します。
 
-- 契約を確認して同意するよう既存の顧客に要請する
+- 契約を確認して同意するよう既存の顧客に要請します。
 
 >[!NOTE]
 > [パートナー センター API/SDK](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) を使用して、Microsoft 顧客契約の顧客の直接同意の状況を確認できます。  
 
-## <a name="create-a-net-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>新規の顧客を作成し、契約を確認して同意するよう顧客に要請する
+## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>新規の顧客を作成し、契約を確認して同意するよう顧客に要請する
 
 パートナー センターで新規の顧客を作成し、Microsoft 365 管理センターで Microsoft 顧客契約を確認して同意するように要請するには、次の手順を使用します。
 
@@ -148,6 +138,7 @@ ms.locfileid: "80805981"
 6. パートナー センターの外部で、Microsoft 365 管理センターで Microsoft 顧客契約に同意するよう顧客に要請するメールを作成して送信します。 メールには次の点を必ず含めるようにします。
 
    - この [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) へのリンク (サインインが必要)
+
    - 手順 5 で保存した顧客の資格情報
 
 7. 顧客がパートナーから要請メールを受け取り、[URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) を選択します。
@@ -180,13 +171,14 @@ ms.locfileid: "80805981"
 
 ![契約に同意する](images/mca/accept.jpg)
 
-## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>契約を確認して同意するよう既存の顧客に要請する
+
+## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>契約を確認して同意するよう既存の顧客に要請する 
 
 Microsoft 顧客契約を確認して同意するよう既存の顧客に要請するには、次の手順を使用します。 
 
 1. Microsoft 顧客契約に同意するよう同意するよう顧客に要請する URL が埋め込まれた顧客宛のメールを作成します。
 
-2. 顧客がメールで要請を受け取り、[URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) をクリックします。 
+2. 顧客がメールで招待状を受け取り、[URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) をクリックします。 
 
 3. 顧客が Microsoft 365 管理センターに資格情報を入力します。
 
@@ -198,3 +190,14 @@ Microsoft 顧客契約を確認して同意するよう既存の顧客に要請�
 
 >[!NOTE]
 >特定のシナリオでは、Microsoft 顧客契約に顧客が直接同意できない場合があります。 そのようなシナリオについて詳しくは、「[顧客の代わりに証明する必要がある 2 つのシナリオ](attest-acceptance-customer-agreement.md)」をご覧ください。
+
+### <a name="historical-timeline-details"></a>履歴タイムラインの詳細
+
+| 日付 | マイルストーン | 詳細情報 |
+|------------|------------|--------------------------------|
+|2019 年 8 月 1 日|サンドボックスで UX プレビューの提供開始|パートナーは、CSP サンドボックス環境でパートナー センター ダッシュボードを使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 CSP サンドボックス環境へのアクセス権を持つパートナーは、ユーザー エクスペリエンスの変更をプレビューできます。 サンドボックス環境へのアクセス権を持たないパートナーは、その変更をこのトピックで確認できます。|
+|2019 年 9 月 3 日|サンドボックスで API プレビューの提供開始。|パートナーは、CSP サンドボックス環境でパートナー センター API を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 API パートナーは、この機会を利用して API の変更をプレビューし、新しい契約をサポートするために API の統合作業を開始できます。|
+|2019 年 9 月 20 日|サンドボックスで .NET SDK プレビューの提供開始。|パートナーは、CSP サンドボックス環境内でパートナー センター .NET SDK を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 API パートナーは、この機会を利用して .NET SDK の変更のプレビューを表示し、新しい契約をサポートするために API の統合作業を開始できます。|
+|2019 年 10 月 1 日|Microsoft 顧客契約が運用環境で使用可能|Microsoft では、Microsoft 顧客契約を CSP プログラムに導入します。これは、Microsoft Cloud 契約に置き換わるものです。 パートナーは、運用環境でパートナー センター ダッシュボードと API を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 Microsoft Cloud 契約は、CSP パートナー プログラムで引き続きサポートされます。 ただし、パートナーは、Microsoft 顧客契約への移行を開始することをお勧めします。 新しい購入および既存のサブスクリプションに対するシート数の変更では、Microsoft 顧客契約または Microsoft Cloud 契約のいずれかへのパートナーの確認が必要になります。 特定の新しいオファー (新しい Azure プランなど) では、Microsoft 顧客契約への同意の確認が求められます。|
+|2020 年 1 月 31 日|Microsoft クラウド契約が運用環境から削除|Microsoft Cloud 契約は CSP パートナー プログラムでは受け入れられなくなりました。 新しい購入および既存のサブスクリプションに対するシート数の変更では、パートナーは、Microsoft 顧客契約の確認を提供する必要があります。 この要件は、以前に Microsoft Cloud 契約に同意した場合でも、新しいお客様および既存のお客様に適用されます。|
+|2020 年 2 月 3 日|パートナーは、URL を使用して、認証された Microsoft 365 管理センターで契約を確認し、同意するように顧客に要請するオプションを利用できるようになりました。 | 顧客は、Microsoft 365 管理センターで Microsoft 顧客契約に同意できます。 顧客が Microsoft 365 管理センターで契約に直接同意することにより、条件を承認したことが確認されます。 

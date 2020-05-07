@@ -3,27 +3,27 @@ title: 1回限りの課金と選択された料金 |パートナーセンター
 ms.topic: article
 ms.date: 11/21/2019
 Description: 事前設定された期間 (月単位および年間サブスクリプション) に対する1回限りの課金、パートナーセンターでの (該当する Microsoft およびサードパーティの ISV 製品の) 選択された課金の請求に関する情報。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 課金、1回限り、定期的な購入、請求、isv
 ms.localizationpriority: medium
-ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390781"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798780"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>1 回限りの請求と定期的な料金の選択
 
 **適用対象**
-- Partner Center
+- パートナー センター
 - CSP プログラムのパートナー
 
 **適切なロール**
--   全体管理者
+-   グローバル管理者
 -   ユーザー管理者
--   課金の管理
+-   課金管理者
 -   管理エージェント
 -   販売代理店
 
@@ -51,7 +51,7 @@ ms.locfileid: "80390781"
 
 ## <a name="microsoft-and-third-party-isv-product-charges"></a>マイクロソフトおよびサードパーティの ISV 製品料金
 
-**Microsoft およびサードパーティの ISV 製品**については、**定期的な料金**と**1 回限りの料金**が発生します。 適用可能な製品には、Microsoft とサードパーティの Isv が提供するすべての SaaS サブスクリプション、Azure 予約、および永続およびサブスクリプションベースのソフトウェア製品が含まれます。 Marketplace で利用可能な製品をご覧ください。 例としては、SUSE Linux ソフトウェア (ソフトウェアサブスクリプション)、Windows Server 2019 Essentials (永続ソフトウェア)、Azure ISV SaaS 製品サブスクリプションなどがあります。
+**Microsoft およびサードパーティの ISV 製品**については、**定期的な料金**と**1 回限りの料金**が発生します。 適用可能な製品には、Microsoft とサードパーティの Isv が提供するすべての SaaS サブスクリプション、Azure 予約、および永続およびサブスクリプションベースのソフトウェア製品が含まれます。 利用可能な製品については、Marketplace をご覧ください。 例としては、SUSE Linux ソフトウェア (ソフトウェアサブスクリプション)、Windows Server 2019 Essentials (永続ソフトウェア)、Azure ISV SaaS 製品サブスクリプションなどがあります。
 
 適用可能な製品料金の場合、**請求日**は毎月8日になります。 **請求期間**はカレンダー月の最初の日から開始され、カレンダー月の最後の日に終了します。 5月1日から5月 31 2019 日までの間に発生したすべてのトランザクションは、6月8日に請求書に表示されます。 6 月 1 日から 6 月 30 日までの間に行ったすべてのトランザクションは、2019 年からは 7 月 8 日の請求書に含まれます。 定期的と 1 回限りの購入が、同じ請求書で請求される可能性があります。
 

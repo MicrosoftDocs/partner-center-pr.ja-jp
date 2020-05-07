@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Cloud ドイツのパートナー、顧客、ライセンスのパートナーセンターを管理する方法と場所、およびパスワードのリセットについて説明します。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f6a5f1c4a64e6bb9f80204dbbf6100b8441bc37
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 923d7a389e3eb81d2bb20422182f53c14af72746
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390491"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797680"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
 
@@ -37,7 +37,7 @@ ms.locfileid: "80390491"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツの Azure ポータルでユーザーを管理する方法 
 
-Microsoft Cloud ドイツのパートナー センターにサインインしている場合は、サインインし直さなくても Microsoft Cloud ドイツの Azure ポータルを開くことができます。 ただし、Microsoft Cloud ドイツの Azure portal に直接サインインする必要がある場合は、[https://portal.microsoftazure.de](https://portal.microsoftazure.de) に移動します。 
+Microsoft Cloud ドイツのパートナー センターにサインインしている場合は、サインインし直さなくても Microsoft Cloud ドイツの Azure ポータルを開くことができます。 ただし、Microsoft Cloud ドイツの Azure portal に直接サインインする必要がある場合は、「」 [https://portal.microsoftazure.de](https://portal.microsoftazure.de)に進んでください。 
 
 Microsoft Cloud ドイツの Azure portal に正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
 
@@ -48,7 +48,7 @@ Microsoft Cloud ドイツの Azure portal に正常にサインインしたら�
 
 -  [Azure Active Directory でユーザーを管理者ロールに割り当てる](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Azure Active Directory でユーザーのパスワードをリセットする](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Azure Active Directory でのユーザー パスワードのリセット](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **関連トピック**
 
