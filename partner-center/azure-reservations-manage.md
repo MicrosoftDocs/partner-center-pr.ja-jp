@@ -1,23 +1,23 @@
 ---
-title: 顧客に代わって Azure Reservations を管理する | パートナー センター
+title: 顧客向けの Azure 予約を管理する
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 予約を取り消す方法、予約を交換する方法、返金を要求する方法など、顧客に代わって Azure の予約を管理する方法について説明します。
+Description: 予約を取り消す方法、予約を交換する方法、返金を要求する方法など、顧客の Azure 予約を管理する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 予約, 管理, 請求, 購入, 取り消し, 交換, 中途解約料
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 652eb468662892b3f2a98b636c4f8760fa3f021f
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7470f20956a7309b4a7ec4dcbb9f18a41761596d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205720"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908313"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>顧客に代わって Microsoft Azure Reservations を管理する
+# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>顧客の予約 Microsoft Azure 管理、取り消し、交換、返金する
 
 **適用対象**
 

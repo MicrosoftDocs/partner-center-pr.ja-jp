@@ -1,20 +1,22 @@
 ---
-title: 月単位および年間請求の違い |パートナーセンター
+title: 月単位の請求と年単位の請求の違い
 ms.topic: article
-ms.date: 11/25/2019
-Description: パートナーセンターの月単位および年間請求サイクルの違いについて説明します。
+ms.date: 05/06/2020
+Description: パートナーセンターの月額料金と年間課金の違いについて説明します。 また、さまざまな課金の種類と切り替えの影響を切り替える方法についても説明します。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 09e651638e50afeef3d43dd9c35c11998ba904ca
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798600"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908256"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>月単位の請求と年単位の請求の違い
+# <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>パートナーセンターでの月単位および年間請求の違いを理解する
+
 
 **適用対象**
 
@@ -187,7 +189,7 @@ CSP プログラムが現在利用可能なすべての市場で、月単位お�
 
 ### <a name="cancellation-of-annual-subscription"></a>年間サブスクリプションの取り消し
 
-年間請求されるサブスクリプションがキャンセルされると、調整ファイルにはキャンセルクレジット用の1つの品目が含まれます。
+年間請求されるサブスクリプションをキャンセルすると、調整ファイルにはキャンセルクレジット用の1つの品目が含まれます。
 
 12か月の期間の最初の30日にキャンセルが行われた場合、サブスクリプションは100% になります。 取り消しが最初の 30 日経過後に発生した場合、サブスクリプション料金が日割り計算で返金されます。
 

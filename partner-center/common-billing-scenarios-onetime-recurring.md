@@ -1,21 +1,22 @@
 ---
-title: 1回限りの定期的な購入に関する一般的な課金シナリオ |パートナーセンター
+title: 1回限りの & 定期的な購入の課金
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 description: サブスクリプションを購入したり、サブスクリプションを追加したり、接続クライアントを追加または削除したりする場合は、1回限りのパートナーセンターの請求例を参照して、定期的な購入を選択してください。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 課金、支払い、1回限りの購入、定期的な購入、サブスクリプション、シート
 ms.localizationpriority: medium
-ms.openlocfilehash: 7614721d4b10656681c177996f9b2cc3addd85f4
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c3467fdbe8457a7068a49000bd635b7c464cf29
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798530"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908203"
 ---
-# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>1回限りの定期的な購入請求シナリオ
+# <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>1回限りのパートナーセンターの課金シナリオと、定期的な購入の選択
 
 **適切なロール**
 

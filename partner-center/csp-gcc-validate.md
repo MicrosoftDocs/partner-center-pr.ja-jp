@@ -1,26 +1,27 @@
 ---
-title: Office 365 Government GCC パートナーと顧客の適格性の条件 | パートナー センター
+title: Office 365 Government GCC パートナーと顧客の適格性の条件
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ダイレクト請求パートナー (直接再販業者、間接プロバイダー) が、Office 365 Government 用の CSP 用の GCC 用のパートナーと顧客を検証する手順について説明します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 31923fa47083392a2621ae4d0f73ff94dccf9778
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d598db3760c54c1be5b37501d04f373231b2e4da
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798470"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908049"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP 向け Office 365 Government GCC パートナーと顧客の適格性の条件
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>CSP パートナーとカスタマーの資格基準に関する Office 365 Government GCC-パートナーセンター
 
 **適用対象**
 
--  パートナー センター
--  CSP パートナー
+- パートナー センター
+- CSP パートナー
 
 **適切なロール**
 
@@ -31,9 +32,9 @@ ms.locfileid: "82798470"
 >[!NOTE]
 >検証プロセスと以下で説明する条件は、直接請求パートナーに固有です。 直接請求パートナーには、直接リセラーと間接プロバイダーが含まれます。  間接リセラーである場合は、間接プロバイダーと連携してください。
 
-自社の組織または自社の顧客が CSP 向け Office 365 Government GCC の使用を承認されることに関心がある場合は、以下の要件を確認してください。
+組織 (またはお客様の組織) に CSP 用の Office 365 Government GCC が承認されていることを希望する場合は、以下の要件を確認してください。
 
-米国の連邦、州、地方、および先住民部族の行政機関にサービスを提供しているパートナーである場合、承認される可能性があります。 組織の適格性を確認するには、[こちら](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)にある簡単なフォームに記入してください。
+米国の連邦、州、地方、および先住民部族の行政機関にサービスを提供しているパートナーである場合、承認される可能性があります。 組織で検証を受けるには、[ここ](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)に記載されている簡単なフォームに記入してください。
 
 顧客が、政府機関向けの管理対象のデータを処理する組織である場合や、米国の連邦、州、地方、および先住民部族の行政機関である場合、承認される可能性があります。 お客様の組織の資格を検証するには、[ここ](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)に記載されている簡単なフォームに記入してください。 
 

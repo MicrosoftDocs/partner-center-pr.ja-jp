@@ -1,6 +1,6 @@
 ---
-title: Azure 利用状況分析 | パートナー センター
-ms.date: 11/13/2019
+title: Azure の使用状況を分析してビジネスの成長に役立てます
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナーセンターを使用して、顧客の Azure サブスクリプションの使用状況に関するデータを取得する方法について説明します。
@@ -10,15 +10,15 @@ ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1a73dd6aa47b60befa62f55f37910de4f20f78b8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722390"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907431"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>顧客の Azure サブスクリプションの利用状況に関するデータの取得
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>顧客と Azure サブスクリプションのパフォーマンスに関するデータを取得する
 
 **適用対象**
 
@@ -27,8 +27,8 @@ ms.locfileid: "74722390"
 
 **適切なロール**
 
-- グローバル管理
-- ユーザー管理者
+- グローバル管理者
+- ユーザー管理の管理者
 - 管理エージェント
 - 販売代理店
 
@@ -39,7 +39,7 @@ ms.locfileid: "74722390"
 
 次のメトリックを追跡しています。
 
-## <a name="summary"></a>概要
+## <a name="summary"></a>まとめ
 
 - **Total Azure subscriptions sold** (Azure サブスクリプションの合計販売数): 指定した期間に販売されたサブスクリプションの数  
 - **Customers with usage** (利用状況のある顧客数): 指定した期間に Azure の利用状況がある顧客の数  

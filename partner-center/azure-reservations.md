@@ -1,23 +1,23 @@
 ---
-title: パートナー センター - Microsoft Azure Reservations の概要 | パートナー センター
+title: 顧客を Microsoft Azure 予約に販売する
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: クラウドソリューションプロバイダーがパートナーセンター、Azure portal、またはパートナーセンター API を使用して、顧客向けの Azure 予約を購入、販売、管理する方法について説明します。
+Description: クラウドソリューションプロバイダーとして、顧客向けの Azure 予約を購入、販売、管理することができます。 パートナーセンター、Azure portal、またはパートナーセンター API を使用します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 予約, 管理, 請求, 購入, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: eb103e3e3255dd899e72a6dc8496415c50438cbf
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 19c156f0b47ccb39bc678cdd2ae9cce9db5c5ebd
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205730"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908289"
 ---
-# <a name="partner-center---sell-microsoft-azure-reservations"></a>パートナー センター - Microsoft Azure Reservations の販売
+# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>パートナーセンター、Azure portal、Api を使用して Microsoft Azure の予約を顧客に販売する
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 

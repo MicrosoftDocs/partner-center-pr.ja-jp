@@ -1,8 +1,8 @@
 ---
-title: 税金および課税控除 |パートナーセンター
+title: 地域の税金と課税控除
 ms.topic: article
-ms.date: 11/21/2019
-description: 特定の地域における税金の責任について、および CSP 販売の課税控除を提出する方法について説明します。
+ms.date: 04/28/2020
+description: 特定の地域における税金の責任について、および CSP 販売の課税控除を提出する方法について説明します。 税金に関する質問のサポートを受ける方法についても説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,14 +10,15 @@ author: LauraBrenner
 keywords: 税金、課税控除、vat、リセラー、請求
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797700"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907806"
 ---
-# <a name="taxes-and-tax-exemptions"></a>税金と税金の除外
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>地域または国別の税金および課税控除の詳細について確認する
 
 適用対象:
 

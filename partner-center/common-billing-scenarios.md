@@ -1,23 +1,24 @@
 ---
-title: 一般的な課金シナリオ | パートナー センター
+title: 一般的な課金シナリオ
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 新しいサブスクリプションを追加した後、ライセンス数を調整した後、またはサブスクリプションをキャンセルした後に課金を確認します。 使用量ベースおよびライセンスベースのサブスクリプションの違いについて説明します。
+description: 新しいサブスクリプションを追加したり、ライセンス数を調整したり、サブスクリプションをキャンセルしたりするときに課金を確認します。 使用量ベースおよびライセンスベースのサブスクリプションの違いについて説明します。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 請求, 支払い, 注文, 使用状況, ライセンス ベースの請求, 契約応当日, 条件, キャンセル, 更新, 価格式, 調整ファイル, recon ファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: 53844ffd1925f934b1931f80a256f7e7c40eb338
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fbc7ed35edf629266eab4806053c7aa77b93a4ed
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798510"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908182"
 ---
-# <a name="common-billing-scenarios"></a>一般的な課金シナリオ
+# <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>パートナーセンターで動作する CSP プログラムパートナー向けの一般的な課金シナリオ
 
 適用対象:
 
@@ -37,4 +38,4 @@ ms.locfileid: "82798510"
 | [月額料金](common-billing-scenarios-monthly.md) | 新しいサブスクリプションの追加、ライセンス数の変更、およびサブスクリプションの中断。 |
 | [年間請求書](common-billing-scenarios-annual.md) | 新しいサブスクリプションを追加したり、請求日の前にライセンスを追加したり、ライセンス数を変更したり、サブスクリプションを中断および再アクティブ化したりできます。 |
 | [1回限りの課金と、定期的な購入の選択](common-billing-scenarios-onetime-recurring.md) | サブスクリプションの購入、サブスクリプションの追加、座席の追加と削除を行うことができます。 |
-| [ライセンスベースの SaaS サブスクリプションの課金](common-billing-scenarios-saas.md) | ライセンスベースのサービスとしてのソフトウェア (SaaS) サブスクリプションの無料試用版。 カスタムメーター SaaS サブスクリプションを購入して取り消します。 |
+| [ライセンスベースの SaaS サブスクリプションの課金](common-billing-scenarios-saas.md) | ライセンスベースのサービスとしてのソフトウェア (SaaS) サブスクリプションの無料試用版。 カスタムメーター SaaS サブスクリプションの購入とキャンセル。 |

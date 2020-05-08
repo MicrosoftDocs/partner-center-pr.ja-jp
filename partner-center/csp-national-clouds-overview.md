@@ -1,7 +1,7 @@
 ---
-title: Microsoft ナショナル クラウドでの販売の申請 | パートナー センター
+title: Microsoft ナショナル クラウドでの販売の申請
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: クラウドソリューションプロバイダープログラムの Microsoft パートナーが、サポートされている各国のクラウドに登録されているお客様に販売する方法について説明します。
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ナショナル クラウド, Microsoft Cloud ドイツ, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud 中国
 ms.localizationpriority: medium
-ms.openlocfilehash: 37ff013b7c7e1bc000e3245df9c1480c6fea44af
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5977eb6ac583c9de79de3b1ba1fe7f0f98aa1e4d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798460"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908062"
 ---
-# <a name="apply-to-sell-in-microsoft-national-clouds"></a>Microsoft ナショナル クラウドでの販売の申請
+# <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP プログラムの一部として、Microsoft の国内クラウドで販売に適用する
 
 グローバルなクラウド ソリューション プロバイダー プログラムの一環として顧客に販売するだけでなく、Microsoft 認定パートナーは、次の 3 つの独立したナショナル クラウドでクラウド ソリューションを販売することもできます。 ナショナル クラウドは、Microsoft エンタープライズ クラウド サービスを物理ネットワークおよび論理ネットワークで分離したインスタンスであり、特定の国の地理的境界内に制限され、ローカルの担当者によって運営されます。 
 
@@ -36,7 +37,7 @@ Microsoft では、以下のサービスをナショナル クラウドで提供
 
     Microsoft Cloud for US Government に登録して顧客への販売を行う方法については、「[Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)」をご覧ください。
 
--   [**Microsoft Cloud ドイツ**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud ドイツでは、一意のモデルを使用してドイツのデータセンターから Azure、Office 365、Dynamics 365 を提供しています。 このモデルでは、顧客データへのアクセスは、独立したドイツ データ トラスティによってドイツ法に基づいて制御されます。 Deutsche Telecom の子会社である T-Systems International GmbH は、Microsoft Cloud ドイツの独立したデータ トラスティとして機能します。 
+-   [**Microsoft Cloud ドイツ**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud ドイツでは、一意のモデルを使用してドイツのデータセンターから Azure、Office 365、Dynamics 365 を提供しています。 このモデルでは、顧客データへのアクセスは、独立したドイツ データ トラスティによってドイツ法に基づいて制御されます。 GmbH International Kom の子会社である T Systems International は、ドイツ Microsoft Cloud の独立したデータトラスティとして機能します。
 
     > [!IMPORTANT]  
     > お客様のニーズの変化に基づいて、ドイツのクラウド戦略は、グローバルクラウドサービスと一貫性のあるドイツの新しいクラウドリージョンの配信に焦点を当てます。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在提供されている現在のクラウドサービスを引き続き使用できます。このサービスは、必要なセキュリティ更新プログラムによって維持されます。

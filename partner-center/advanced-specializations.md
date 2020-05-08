@@ -1,24 +1,25 @@
 ---
-title: 高度な特殊化 |パートナーセンター
+title: 高度な特殊化を獲得
 ms.topic: article
-ms.date: 12/16/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Silver および Gold メンバーシップ レベルを獲得するためのコンピテンシー要件について説明します。
+description: パートナーディレクトリのビジネスプロファイルを強化します。 Gold/シルバーコンピテンシーと共に高度な特殊化を獲得する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ, 高度な専門性
 ms.localizationpriority: medium
-ms.openlocfilehash: 44438e0bebbe5c2b41d13129a8b1fe3500a1ffa2
-ms.sourcegitcommit: 63d217cad74d8e049538f54530ae99fdd6a99315
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4a74f49c93dcdd257bc49fa2e304dfe900121489
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "75037051"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907540"
 ---
-# <a name="advanced-specializations"></a>高度な専門性
+# <a name="how-advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>高度な特殊化によってビジネスプロファイルが顧客にとってどのように役立つか
 
-Gold コンピテンシーを超える高度な専門性を備えてください。 これらは、製品、ソリューション分野、またはサービスで、実証済みの検証可能な専門知識を持っていることを示す手段になります。 顧客は、パートナー ディレクトリのビジネス プロファイルの中で、パートナーが Gold コンピテンシーと高度な専門性の両方を備えていることを確認できます。 高度な専門性タグを受け取るには、公開されている一連の条件をビジネスが完全に満たしていることを Microsoft によって検証される必要があります。 [詳しくはこちらをご覧ください](https://partner.microsoft.com/membership/competencies#tab-content-2)。 
+高度な特殊化により、Gold コンピテンシーを超えています。 高度な特殊化は、製品、ソリューション、またはサービスにおける実証済みの検証可能な専門家を紹介するのに役立ちます。 パートナーディレクトリでは、お客様のビジネスプロファイルの Gold コンピテンシーと高度な特殊化の両方を確認できます。 高度な専門性タグを受け取るには、公開されている一連の条件をビジネスが完全に満たしていることを Microsoft によって検証される必要があります。 [詳しくはこちらをご覧ください](https://partner.microsoft.com/membership/competencies#tab-content-2)。
 
 ## <a name="the-current-advanced-specializations"></a>現在の高度な専門性
 
@@ -31,4 +32,5 @@ Gold コンピテンシーを超える高度な専門性を備えてください
 - Microsoft Azure へのデータ ウェアハウスの移行を行うパートナーは、Teradata、Netezza、または Oracle Exadata から Azure へのデータ ウェアハウス移行の優れた実績があり、データをクラウドベースのデータ ウェアハウスに移行するための既存のワークロードの分析、スキーマ モデルの生成、および抽出、変換、読み込み (ETL) 操作の実行に関する専門知識を証明します。
 
 - Microsoft Azure 上の Kubernetes を扱うパートナーは、DevOps プラクティスを使用して AKS を実装し、Microsoft Azure でのコンテナーの使用とホストされた Kubernetes 環境の管理について、クラウドでの実稼働環境のワークロードのデプロイと管理に関する専門知識を証明します。
-Microsoft Azure での Web アプリケーションの最新化を行うパートナーは、顧客のアプリケーション開発が成功することを保証し、コンテンツ管理システムに精通しています。 Web アプリケーションのワークロードの移行とデプロイ、DevOps プラクティスの適用、および Microsoft Azure でのアプリケーション サービスの管理に関する専門知識を証明します。
+
+- Microsoft Azure での Web アプリケーションの最新化を行うパートナーは、顧客のアプリケーション開発が成功することを保証し、コンテンツ管理システムに精通しています。 Web アプリケーションのワークロードの移行とデプロイ、DevOps プラクティスの適用、および Microsoft Azure でのアプリケーション サービスの管理に関する専門知識を証明します。

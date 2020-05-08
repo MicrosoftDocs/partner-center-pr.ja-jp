@@ -1,21 +1,22 @@
 ---
-title: 一般的な課金シナリオ | パートナー センター
+title: 年間請求-一般的なシナリオ
 ms.topic: article
-ms.date: 11/25/2019
-description: 「パートナーセンターの年間請求」を参照してください。新しいサブスクリプションを追加する場合、請求日の前にライセンスを追加する場合、ライセンス数を変更する場合、サブスクリプションを中断/再アクティブ化する場合は、
+ms.date: 05/05/2020
+description: パートナーセンターの年間請求-新しいサブスクリプションを追加する場合、請求日の前にライセンスを追加する場合、ライセンス数を変更する場合、またはサブスクリプションを中断/再アクティブ化する場合。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 請求, 支払い, 注文, 使用状況, ライセンス ベースの請求, 契約応当日, 条件, キャンセル, 更新, 価格式, 調整ファイル, recon ファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: cbe34dd96c1b119293b73f9324e50340aafb4032
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9a0fe9a8bfc381be00bba765c74874ea552d7482
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798550"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908213"
 ---
-# <a name="annual-billing-scenarios"></a>年間請求のシナリオ
+# <a name="common-annual-billing-scenarios-in-partner-center"></a>パートナーセンターでの一般的な年次請求シナリオ
 
 **適切なロール**
 

@@ -1,7 +1,7 @@
 ---
-title: CSP によるオンプレミス ソフトウェアの販売 |パートナー センター
+title: CSP によるオンプレミス ソフトウェアの販売
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムのパートナーが、パートナーセンターの顧客に代わって、オンプレミスのソフトウェアサブスクリプションを購入、管理、販売、キャンセルする方法について説明します。
@@ -10,14 +10,15 @@ ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナ, CSP での販売, 直接パートナー, CSP 直接パートナー, CSP 間接リセラー, 直接 CSP, 間接 CSP, 直接モデル, 間接モデル, 間接リセラー, 間接プロバイダー, プロバイダー, ディストリビューター, クラウド ソリューション プロバイダー プログラム
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b8d064a3e2f2d8d0a24dcd6a47b75746acbe6656
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b808397f21aa912284be9ad8b4df1dc4f642fe55
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798440"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908029"
 ---
-# <a name="sell-on-premise-software-through-csp"></a>CSP によるオンプレミス ソフトウェアの販売
+# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>クラウドソリューションプロバイダー (CSP) プログラムを通じてオンプレミスソフトウェアを販売する
 
 **適切なロール**
 

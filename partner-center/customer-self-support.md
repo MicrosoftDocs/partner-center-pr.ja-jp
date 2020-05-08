@@ -1,7 +1,7 @@
 ---
-title: 顧客によるセルフ サポート | パートナー センター
+title: お客様のセルフ サポート
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: お客様が自分のアカウントを管理し、クラウドソリューションプロバイダーパートナーに連絡する必要があるタイミングと場所について説明します。
@@ -10,23 +10,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客によるセルフ サポート, セルフ サポート,
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a1c15a75c638d557eace058d67723a86645c6e47
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798380"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907910"
 ---
-# <a name="customer-self-support"></a>お客様のセルフ サポート
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Microsoft Office 365 管理センターまたは Azure portal を使用したカスタマーのセルフサポート
 
 **適用対象**
 
 -  パートナー センター
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
-
-顧客はそれぞれの Microsoft Office 365 管理センターまたは Azure の管理ポータルにサインインして、自身のアカウントを管理できます。
+お客様は、独自の Microsoft Office 365 管理センターまたは Azure portal にサインインして、自分のアカウントを管理できます。
 
 -   メッセージ センターで、サービスの正常性に関する情報など、製品内の通信や通知を表示する。
 

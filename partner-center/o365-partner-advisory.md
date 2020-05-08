@@ -1,20 +1,21 @@
 ---
-title: Office 365 のパートナー勧告-CSP の Microsoft 365 音声 |パートナーセンター
-description: 一部の国の PSTN サービスには、パートナーの注文と請求に影響する可能性がある特別な税金および規制の要件が適用される場合があります。
+title: CSP パートナーの勧告-Microsoft 365 音声
+description: 一部の国の PSTN サービスと、パートナーの注文と請求に適用される可能性がある特別な税金または規制の要件について説明します。
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 author: LauraBrenner
 ms.author: labrenne
 keywords: Office, O365, PSTN サービス, 税金, 要件, 請求書, 請求
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a53d1c931b1f39a4177eb11f6307b7f710da472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798790"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907361"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 パートナー向けアドバイザリ: CSP の Microsoft 365 音声
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 Partner アドバイザリ: CSP プログラムでの音声の Microsoft 365 Business
 
 **適用対象**
 

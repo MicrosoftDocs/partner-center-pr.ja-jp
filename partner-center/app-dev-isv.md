@@ -1,7 +1,7 @@
 ---
-title: アプリケーション開発コンピテンシーの1回限りの試験要件の除外 |パートナーセンター
+title: アプリケーション開発コンピテンシーテストの除外
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 以前の ISV コンピテンシーを持つパートナーについては、アプリケーション開発コンピテンシーのために1回限りの試験的な要件を取得する方法について説明します。
@@ -9,18 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: コンピテンシー、ISV、アプリケーション開発
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722349"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907481"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>アプリケーション開発コンピテンシーの1回限りの試験要件の除外
 
 **適切なロール**
 
-- グローバル管理
+- グローバル管理者
 - MPN パートナー管理者
 
 提供終了になった ISV コンピテンシーを達成し、次のいずれかのシナリオが該当する場合、企業は、gold またはシルバー[アプリケーション開発コンピテンシー](https://partner.microsoft.com/membership/application-development-competency)に対して1回限りの試験的な要件を除外することになります。 
@@ -37,18 +38,18 @@ ISV コンピテンシーを持つパートナー:
 
 - **Microsoft の商用マーケットプレースリストがある場合**は、コンピテンシーの更新時に1回限りの試験的な要件の除外が適用されます。 この時点で、プランを利用するには30日かかります。
 
-- **[Microsoft の商用マーケットプレース](https://azure.microsoft.com/overview/commercial-marketplace/)リストがない場合**は、2020年2月にソリューションを発行して、1回限りの試験要件の除外対象にしてください。
+- ** [Microsoft の商用マーケットプレース](https://azure.microsoft.com/overview/commercial-marketplace/)リストがない場合**は、2020年2月にソリューションを発行して、1回限りの試験要件の除外対象にしてください。
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>プランを利用する方法
 
-1. ダッシュボードのパートナーセンターメニューで、 **[コンピテンシー]** を選択します。
+1. ご利用ダッシュボードの [パートナー センター] メニューから、 **[コンピテンシー]** を選択します。
 2. 使用可能なコンピテンシーの一覧で、アプリケーション開発は**完了**としてマークされます。
 
-![isv から appdev](images/appdev.png)
+![ISV から appdev](images/appdev.png)
 
-3. **[アプリケーション開発]** を選択します。 除外さを使用して、会社が試験の要件を満たしていないことを示す通知が表示されます。 
+3. [**アプリケーション開発**] を選択します。 除外さを使用して、会社が試験の要件を満たしていないことを示す通知が表示されます。 
 
-4. このプランを利用するには、**メンバーシップの提供**に関するページを参照してください。 コンピテンシー購入または更新の状態によっては、プロセスを完了するためにコンピテンシー料金の支払いが必要になる場合があります。 
+4. このオファーを利用するには、 **[メンバーシップ オファー]** に移動します。 コンピテンシー購入または更新の状態によっては、プロセスを完了するためにコンピテンシー料金の支払いが必要になる場合があります。 
 
 このプランは、パートナーセンターから入手できます。
 

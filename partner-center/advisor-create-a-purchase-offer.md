@@ -1,25 +1,26 @@
 ---
 title: 購入プランを作成する |パートナーセンター
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: advisor は、パートナーセンターで購入プランを作成できます
-author: XiaLi
-ms.author: v-xili35
+description: 承認されたサブスクリプションアドバイザーがパートナーセンターを使用して購入プランとカスタム URL を作成し、Office 365 の試用版への招待に含める方法について説明します。
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor、office 365、購入
-ms.openlocfilehash: 1d7cf051da1189efff535eaa95749a8eab54ee6c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: defa41285aa2bf31158a900a319115cf02221655
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137227"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907452"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>アドバイザー: 購入プランを作成する
 
 > [!NOTE]
-> この機能は、サブスクリプションアドバイザーとして認められている Microsoft パートナーのみが利用できます。 
+> この機能は、サブスクリプションアドバイザーとして認められている Microsoft パートナーのみが利用できます。
 
 Office 365 の試用版への招待をクライアントに送信した後、クライアントのニーズに合わせてカスタマイズされた購入プランを作成して送信することができます。 代理管理を提供することが認定されている場合は、クライアントの代わりにアカウントを管理できるオプションを購入プランに追加できます。
 
@@ -29,9 +30,9 @@ Office 365 の試用版への招待をクライアントに送信した後、ク
 
 ## <a name="to-create-a-purchase-offer"></a>購入プランを作成するには
 
-1. **プランを作成** > には **、[試用版と購入**プラン] に移動します。
+1. 試用版に移動し**て購入** > **プランを作成**します。
 
-2. **[購入プランの作成]** ページで、追加する購入プランのオプションを選択します。
+2. [**購入プランの作成**] ページで、追加する購入プランのオプションを選択します。
 
     - **パートナーオフィス**: 会社に複数の事業所がある場合は、この購入プランに関連付けるオフィスを選択します。
 
@@ -44,7 +45,7 @@ Office 365 の試用版への招待をクライアントに送信した後、ク
 
 3. **[次へ]** をクリックします。
 
-4. **[送信]** ページで、購入プランの情報と URL をコピーし、カスタマイズされた購入プランを作成するための電子メール、ドキュメント、または web ページに貼り付けます。
+4. [**送信**] ページで、購入プランの情報と URL をコピーし、カスタマイズされた購入プランを作成するための電子メール、ドキュメント、または web ページに貼り付けます。
 
     > [!NOTE]
     > 購入プランの**概要 ID**をメモしておきます。 プランを追跡するために使用します。

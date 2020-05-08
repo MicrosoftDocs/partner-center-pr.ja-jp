@@ -1,22 +1,23 @@
 ---
-title: Microsoft からの SLA クレジットを要求する |パートナーセンター
+title: Microsoft から SLA クレジットを要求する
 ms.topic: article
-ms.date: 11/21/2019
-description: お客様がサービスの停止を経験している場合に Microsoft からの SLA クレジットを要求するための利点、制限事項、および手順について説明します。
+ms.date: 04/28/2020
+description: 顧客がサービスの停止を経験している場合に Microsoft からサービスレベルアグリーメント (SLA) のクレジットを要求するための特典、制限、および手順について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 328051d69f2dfd869cca8c80de595b2e27c9a1af
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943145"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907876"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Microsoft からの SLA クレジットを要求する 
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Microsoft からサービスレベルアグリーメント (SLA) のクレジットを要求する方法とタイミング
 
 お客様に提供しているサービスで障害が発生した場合に、Microsoft から**サービスレベルアグリーメント (SLA) のクレジット**を要求することができます。
 
@@ -40,15 +41,15 @@ Microsoft からの SLA クレジットは、影響を受けたサービスに�
 
 #### <a name="outage-incident-identifier"></a>停止インシデント識別子
 
-停止インシデントの識別子は、Microsoft 365 管理センターの **[Service Health]** ページで確認できます。 **停止インシデント ID**は、影響を受けるサービスを示す2文字の省略形 (Exchange Online が停止した場合の*EX25194*など) を表す数字です。 次の表では、一般的なサービスの省略形について説明します。
+停止インシデントの識別子は、Microsoft 365 管理センターの [ **Service Health** ] ページで確認できます。 **停止インシデント ID**は、影響を受けるサービスを示す2文字の省略形 (Exchange Online が停止した場合の*EX25194*など) を表す数字です。 次の表では、一般的なサービスの省略形について説明します。
 
 | 2文字の省略形 | Microsoft サービス |
 | ----------------------- | ----------------- |
 | EX | Exchange Online |
-| FO | Exchange Online Protection |
+| FO | Exchange Online の保護 |
 | SB | Skype for Business Online (以前の Lync Online) |
 | OS | Office サブスクリプション |
-| PB | Office 365 用 BI 機能 |
+|  PB | Office 365 用 BI 機能 |
 | SP | SharePoint Online |
 | YA | Yammer Enterprise |
 | MO | ポータルエラー |
@@ -57,10 +58,10 @@ Microsoft からの SLA クレジットは、影響を受けたサービスに�
 
 パートナーセンターのダッシュボードを使用して SLA クレジット要求を Microsoft に送信するには、次の手順を実行します。
 
-1. パートナーセンターのダッシュボードにサインインします。
-2. 左側のメニューで、 **[サービス要求]** を選択し、 **[パートナーサポート要求]** を選択します。
-3. **[パートナーの要求]** ページで、 **[新しい要求]** を選択します。
-4. **[要求の開始]** ページで、 **CSP-customers、orders、およびサブスクリプション**を検索します。 このセクションで、 **[問題の種類を選択]** を選択し、 **[カスタマーサービスのクレジット要求]** を選択します。
-5. **[推奨されるソリューション]** ページで、 **[追加のヘルプが必要ですか?]** の [**はい]** を選択します。
-6. **[詳細]** ページで、 **[問題の詳細]** セクションに入力します。 **[詳細]** テキストボックスに、前に収集した[必要な情報](#required-information)を入力します。
-7. **[送信]** を選択して、SLA クレジット要求を送信します。
+1. パートナー センター ダッシュボードにサインインします。
+2. 左側のメニューで、[**サービス要求**] を選択し、[**パートナーサポート要求**] を選択します。
+3. [**パートナーの要求**] ページで、[**新しい要求**] を選択します。
+4. [**要求の開始**] ページで、 **CSP-customers、orders、およびサブスクリプション**を検索します。 このセクションで、[**問題の種類を選択**] を選択し、[**カスタマーサービスのクレジット要求**] を選択します。
+5. [**推奨されるソリューション**] ページで、[**追加のヘルプが必要ですか?**] の [**はい]** を選択します。
+6. [**詳細**] ページで、[**問題の詳細**] セクションに入力します。 [**詳細**] テキストボックスに、前に収集した[必要な情報](#required-information)を入力します。
+7. [**送信**] を選択して、SLA クレジット要求を送信します。

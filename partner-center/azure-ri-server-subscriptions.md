@@ -1,24 +1,25 @@
 ---
-title: Azure の予約とサーバーサブスクリプション |パートナーセンター
+title: Azure 予約 & サーバーサブスクリプション
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: クラウドソリューションプロバイダーが顧客の Azure の予約とサーバーサブスクリプションを取得、プロビジョニング、および管理する機会について説明します。
+description: Azure の予約とサーバーサブスクリプションを取得、プロビジョニング、および管理するためのクラウドソリューションプロバイダーの機会について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, サブスクリプション, VM, 予約, 予約インスタンス
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b3d83a63e6c0a2fd72541f409ed22c598b1538e
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205740"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908279"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
-# <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure Reserved VM Instances (RI) + Server Subscriptions for Azure
+# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) と顧客向けのサーバーサブスクリプションの取得、プロビジョニング、& 管理
 
 適用対象:
 
@@ -84,7 +85,7 @@ Azure Reservations を利用すると、開発、テスト、アプリケーシ�
 
 - Azure VMware Solution by CloudSimple
 
-## <a name="getting-started"></a>はじめに
+## <a name="getting-started"></a>作業の開始
 
 Azure Reservations を顧客と共に配置し、可能な限り迅速に運用を開始する方法を理解するために、次の方法で準備資料を確認することをお勧めします。
 

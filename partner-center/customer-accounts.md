@@ -1,22 +1,23 @@
 ---
-title: 顧客アカウント | パートナー センター
+title: 顧客アカウントの表示と管理
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: パートナーセンターで、リセラーパートナー向けのリソースを見つけることができます。 これには、サブスクリプション、請求、またはオファーのサポートを販売する前に、顧客アカウントを作成する必要があります。
+Description: パートナーセンターで、リセラーパートナー向けのリソースを見つけることができます。 これには、サブスクリプション、請求、またはオファーのサポートを販売する前の顧客アカウントの作成が含まれます。
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1090aab2c9678149dba8ab051e6e49f0f5c42a
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 217685e3bf3941825470abddce7f5f84634f7ade
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205770"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907941"
 ---
-# <a name="customer-accounts"></a>顧客アカウント
+# <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>パートナーセンターの販売店パートナー向けの顧客アカウントのセットアップと管理
 
 **適用対象**
 

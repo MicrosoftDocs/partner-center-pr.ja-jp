@@ -1,32 +1,33 @@
 ---
-title: 商用 marketplace 製品の料金 |パートナーセンター
+title: 商用 marketplace 製品の課金
 ms.topic: article
-ms.date: 02/28/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンター内の商用マーケットプレースから購入した ISV SaaS 製品またはサブスクリプションの課金のしくみについて説明します。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: サブスクリプション, 製品, 購入, Marketplace, サードパーティ, ISV, 請求, 請求書, 調整, 偵察ファイル
 ms.localizationpriority: medium
-ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240199"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908121"
 ---
-# <a name="billing-for-commercial-marketplace-products"></a>商用 marketplace 製品の課金
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>パートナーセンターでの商用 marketplace 製品とサブスクリプションの課金
 
 **適用対象**
 
-- Partner Center
+- パートナー センター
 - CSP プログラムのパートナー
 
 **適切なロール**
 
-- 全体管理者
-- 課金の管理
+- グローバル管理者
+- 課金管理者
 
 CSP プログラムのパートナーとして、パートナーセンターを使用して、商用マーケットプレースの ISV 発行元からライセンスベースの SaaS 製品を購入できます。 その後、これらの種類の購入に関する請求書にアクセスできます。 請求期間はカレンダー月の最初の日から開始され、カレンダー月の最後の日に終了します。 請求書は、次の月の8日に利用可能になります。
 
@@ -49,15 +50,15 @@ CSP プログラムのパートナーは、パートナーセンターまたは 
 
     - [**定期的**なタブ]: Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、PowerBI Pro、および Microsoft Azure に関連するサブスクリプションの請求書と調整ファイルを表示します。
 
-    - **[定期的および1回限りの購入]** タブ: azure プラン、azure 予約、ソフトウェア、および商用 marketplace 製品の請求書と調整ファイルが表示されます。
+    - [**定期的および1回限りの購入**] タブ: azure プラン、azure 予約、ソフトウェア、および商用 marketplace 製品の請求書と調整ファイルが表示されます。
   
-3. **[定期的な購入と1回限りの購入]** タブを選択します。異なる通貨で顧客のサブスクリプションを購入した場合は、通貨ごとにタブが表示されます。 このページでは、次のような操作を行うことができます。
+3. [**定期的な購入と1回限りの購入**] タブを選択します。異なる通貨で顧客のサブスクリプションを購入した場合は、通貨ごとにタブが表示されます。 このページでは、次のような操作を行うことができます。
 
-    - 最新の請求書と調整ファイルを表示するには、 **[請求書]** または **[調整ファイル]** を選択します。 (必要に応じて、[パートナーセンター api](https://docs.microsoft.com/partner-center/develop/)を使用して、最新の請求書にアクセスし、ファイルデータにアクセスすることもできます。
+    - 最新の請求書と調整ファイルを表示するには、[**請求書**] または [**調整ファイル**] を選択します。 (必要に応じて、[パートナーセンター api](https://docs.microsoft.com/partner-center/develop/)を使用して、最新の請求書にアクセスし、ファイルデータにアクセスすることもできます。
 
-    - 以前の請求書とファイルを表示するには、下の **[請求履歴]** 行を展開します。
+    - 以前の請求書とファイルを表示するには、下の [**請求履歴**] 行を展開します。
 
-    - 最新のアカウント活動に基づいて、いつでもアカウントの残高や請求金額を確認するには、 **[推定]** 見出しの下のリンクを選択します。  
+    - 最新のアカウント活動に基づいて、いつでもアカウントの残高や請求金額を確認するには、[**推定**] 見出しの下のリンクを選択します。  
 
     >[!NOTE]
     > 月の8日目に請求書を投稿すると、税金とその他の適用可能な料金およびクレジットが含まれます。 これは、請求期間中に発生した最終的な金額と異なる場合があることを意味します。
@@ -66,7 +67,7 @@ CSP プログラムのパートナーは、パートナーセンターまたは 
 
 このセクションでは、サードパーティの ISV 発行元の顧客向けに購入した商用 marketplace SaaS サブスクリプションの請求書と調整ファイルの詳細について説明します。
 
-パートナーセンター メニューの **課金** オプションから **定期的かつ1回限りの購入** を選択すると、Microsoft (ファーストパーティ) と ISV (サードパーティ) の購入に関連する請求書と調整ファイルにアクセスできるようになります。 これらの購入には、次のものが関連付けられます。
+[パートナーセンター] メニューの [**課金**] オプションから [**定期的かつ1回限りの購入**] を選択すると、Microsoft (ファーストパーティ) と ISV (サードパーティ) の購入に関連する請求書と調整ファイルにアクセスできるようになります。 これらの購入には、次のものが関連付けられます。
 
 - SaaS サブスクリプション (Microsoft または ISV 発行元のいずれか)
 

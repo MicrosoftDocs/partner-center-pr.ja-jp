@@ -1,22 +1,23 @@
 ---
-title: クラウドソリューションプロバイダー向けのコマーシャルマーケットプレースの概要 |パートナーセンター
+title: 概要-CSP marketplace
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターでは、marketplace の独立系ソフトウェアベンダー (Isv) からサービスとしてのソフトウェア (SaaS) プランに対する顧客のサブスクリプションを販売する方法について説明します。
-author: MicheleHope
-ms.author: v-mihope
+description: Marketplace の独立系ソフトウェアベンダー (Isv) のサービスとしてのソフトウェア (SaaS) プランに対する顧客のサブスクリプションを販売する方法について説明します。
+author: LauraBrenner
+ms.author: labrenne
 keywords: サブスクリプション、Marketplace、サードパーティ、ISV、SaaS、ライセンス
 ms.localizationpriority: medium
-ms.openlocfilehash: ee1b32028cb24e20675aa0520837af0c1c72b8a5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253790"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908095"
 ---
-# <a name="commercial-marketplace-overview"></a>コマーシャルマーケットプレースの概要
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>パートナーセンターのコマーシャルマーケットプレースの概要
 
 **適用対象**
 
@@ -37,11 +38,11 @@ CSP プログラムのパートナーとして、パートナーセンターを�
 
 CSP プログラムのパートナーである場合は、ISV のオファーに関して、多くの市販の marketplace アクティビティを実行する必要があります。 各アクティビティの詳細については、次の表を参照してください。
 
-|**必要に応じて**  |**込ん**   |
+|**必要に応じて**  |**読み取り**   |
 |:------------------------------------|:------------------|
 |利用可能なプラン、価格、製品の詳細、または発行者の連絡先情報を表示または検索する方法について説明します | [オファーの検出](csp-commercial-marketplace-discover.md) | 
 |プランを購入して展開する方法について説明します   | [購入プラン](csp-commercial-marketplace-purchase.md)   | 
-|サブスクリプションをキャンセルまたは更新する方法、またはシートを追加または削除する方法について説明します。  | [プランの管理](csp-commercial-marketplace-manage.md) |
+|サブスクリプションをキャンセルまたは更新する方法、またはシートを追加または削除する方法について説明します。  | [オファーの管理](csp-commercial-marketplace-manage.md) |
 |商用 marketplace での購入に対する課金のしくみについて説明します | [課金について](csp-commercial-marketplace-billing.md) |
 |ISV が購入できるサポートの種類について説明します。 | [サポートについて](csp-commercial-marketplace-support.md) |
 |商用マーケットプレースにおける CSP パートナーと Isv の契約および責任について説明します。 | [コントラクトについて](csp-commercial-marketplace-contracting.md) |
@@ -68,7 +69,7 @@ CSP プログラムのパートナーとして、パートナーセンターの[
 
 ライセンスベースまたは使用量ベースの ISV プランで特定の marketplace アクティビティを完了する場所については、次の表を参照してください。
 
-|**Isv からのライセンスベースの SaaS プランの場合**  |**使用**  |
+|**Isv からのライセンスベースの SaaS プランの場合**  |**用途**  |
 |:------------------------------------|:------------------|
 |利用可能なプランを検出または検索するには  | パートナーセンターのダッシュボードまたはパートナーセンターの Api  |
 |プランを購入するには  | パートナーセンターのダッシュボードまたはパートナーセンターの Api  |
@@ -76,7 +77,7 @@ CSP プログラムのパートナーとして、パートナーセンターの[
 |プランのサブスクリプションの取り消し/更新、または座席の追加/削除を行うには | パートナーセンターのダッシュボードまたはパートナーセンターの Api  |
 |ユーザーを作成したり、アクセス許可を管理したりするには  | ISV 発行元のシステムまたは web サイト  |
 
-|**Isv からの使用量ベースのオファー**  |**使用**  |
+|**Isv からの使用量ベースのオファー**  |**用途**  |
 |:------------------------------------|:------------------|
 |利用可能なプランを検出または検索するには  | パートナーセンターのダッシュボード、パートナーセンターの Api、または Azure portal  |
 |プランを購入するには  | Azure portal  |
@@ -84,7 +85,7 @@ CSP プログラムのパートナーとして、パートナーセンターの[
 |プランのサブスクリプションの取り消し/更新、または座席の追加/削除を行うには | Azure portal  |
 |ユーザーを作成したり、アクセス許可を管理したりするには  | Azure portal  |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [市販の marketplace プランを検出または表示する](csp-commercial-marketplace-discover.md)
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)

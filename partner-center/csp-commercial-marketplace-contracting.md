@@ -1,22 +1,23 @@
 ---
-title: 商用 marketplace を使用したクラウドソリューションプロバイダーのコントラクト |パートナーセンター
+title: 商用マーケットプレースの CSP 契約
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 商用マーケットプレースで CSP パートナーが購入したサードパーティの ISV 製品に対するサブスクリプションの使用条件と契約について説明します。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: サブスクリプション、Marketplace、サードパーティ、ISV、CSP パートナープログラム、契約、販売、購入、
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dd58869df2ced14fa3a05ea3bc7b0f6e96c54d5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253780"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908135"
 ---
-# <a name="contracts-associated-with-csp-partner-activities-in-the-commercial-marketplace"></a>商用マーケットプレースの CSP パートナーアクティビティに関連付けられているコントラクト
+# <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>商用マーケットプレースでビジネスを行う CSP パートナー向けのコントラクト
 
 **適用対象**
 
@@ -25,7 +26,7 @@ ms.locfileid: "74253780"
 
 **適切なロール**
 
-- 全体管理者
+- グローバル管理者
 - 管理エージェント
 
 このセクションは、パートナーセンターのコマーシャルマーケットプレースまたは Azure portal から、顧客向けに ISV marketplace のプランまたは製品を購入することを選択した CSP プログラムのパートナー向けの契約に関連しています。
@@ -49,5 +50,5 @@ Microsoft は、取引先との間でのサービスの提供に関する法的�
 
 ## <a name="see-also"></a>関連項目
 
-- [商用 marketplace 製品のサポート](csp-commercial-marketplace-support.md)
+- [商用マーケットプレース製品のサポート](csp-commercial-marketplace-support.md)
 - [CSP コマーシャルマーケットプレースアクティビティの概要](csp-commercial-marketplace-overview.md)

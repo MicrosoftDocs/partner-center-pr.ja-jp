@@ -1,7 +1,7 @@
 ---
-title: クリプトマイニング アクティビティに関するパートナー センター通知 | パートナー センター
+title: 暗号化マイニングアクティビティの通知
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 1つ以上の Azure サブスクリプションで潜在的な cryptocompare マイニング (または暗号化マイニング) に関する通知が表示された場合の意味について説明します。
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: クリプトマイニング, 暗号通貨マイニング, セキュリティ
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 35cdb08c2c673e2c7bd0e8ebb8e22f5671eef186
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 68ee138b6c87dde53eda026d7fef371e2e440344
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722312"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908396"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>クリプトマイニング (仮想通貨の採掘) アクティビティに関するパートナー センター通知
 
@@ -53,14 +54,14 @@ ms.locfileid: "74722312"
 
 通知に関してご質問や懸念がある場合、次の手順でサポート要求を開くことができます。
 
-1.  パートナー センターで、 **[サポート]** を選択し、 **[Partner Center requests]\(パートナー センターの要求\)** を選択します。
-3.  **[新しい要求]** を選びます。 
-4.  **[問題の種類]** ドロップダウン メニューで、 **[顧客の追加または管理]** を選択します。
-5.  **[影響]** ドロップダウンで、 **[標準]** を選択します。
+1.  パートナー センターで、**[サポート]** を選択し、**[Partner Center requests]\(パートナー センターの要求\)** を選択します。
+3.  [**新しい要求**] を選択します。 
+4.  **[問題の種類]** ドロップダウン メニューで、**[顧客の追加または管理]** を選択します。
+5.  **[影響]** ドロップダウンで、**[標準]** を選択します。
 6.  **[タイトル]** フィールドに、**クリプトマイニング通知**と入力します。
 7.  **[説明]** フィールドに、影響するサブスクリプション名と、他の質問や懸念点を入力します。 
 8.  ご自身の連絡先情報を入力します。
-9.  **[送信]** を選びます。
+9.  **[Submit]\(送信\)** をクリックします。
 
 
 
