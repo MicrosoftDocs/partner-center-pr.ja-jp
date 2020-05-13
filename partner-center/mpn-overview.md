@@ -1,5 +1,5 @@
 ---
-title: Microsoft Partner Network メンバーシップ | パートナー センター
+title: Microsoft Partner Network メンバーシップ
 ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
@@ -10,24 +10,25 @@ ms.author: labrenne
 keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617fa9afac5dcb43304aad63d2aa9b9d4928f293
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798840"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362740"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft との連携
 
 **適切なロール**
--   グローバル管理者
--   MPN パートナー管理者
--   ユーザー管理者
--   管理エージェント
+
+- グローバル管理者
+- MPN パートナー管理者
+- ユーザー管理者
+- 管理エージェント
 
 マイクロソフトのパートナー プログラムに参加すると、顧客の満足度を高め、ビジネスを成長させるために必要な、関係、インサイト、ツール、リソース、プログラムを活用できる、グローバル コミュニティの一員となります。
 
-マイクロソフトのパートナーとなるメリットについて詳しくは、[マイクロソフトを選ぶ理由](https://partner.microsoft.com/business-opportunities/why-microsoft)をご覧ください。 
+マイクロソフトのパートナーとなるメリットについて詳しくは、[マイクロソフトを選ぶ理由](https://partner.microsoft.com/business-opportunities/why-microsoft)をご覧ください。
 
 ## <a name="join-the-microsoft-partner-network"></a>Microsoft Partner Network に参加する
 
@@ -51,7 +52,7 @@ Microsoft Partner Network に参加するには、MPN Web サイトの [ **[メ�
 
 ### <a name="action-pack"></a>Action Pack
 
-Action Pack は、クラウドファースト、モバイルファーストの世界でマイクロソフト プラクティスの拡大を図ろうとしている企業向けに、ソフトウェア、サポート、特典を提供します。 
+Action Pack は、クラウドファースト、モバイルファーストの世界でマイクロソフト プラクティスの拡大を図ろうとしている企業向けに、ソフトウェア、サポート、特典を提供します。
 
 Action Pack の詳細については、以下のリソースをご覧ください。
 
@@ -82,5 +83,6 @@ Microsoft Partner Network に参加すると、時間とコストを節約しな
 - [パートナー センターで MPN の特典を管理する](manage-your-partner-network-benefits.md)
 - [主要な要件](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>関連項目
-- [Microsoft パートナー ビジネスの拡大](grow-your-business.md)
+## <a name="next-steps"></a>次の手順
+
+[Microsoft パートナー ビジネスの拡大](grow-your-business.md)
