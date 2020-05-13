@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: azure サブスクリプション, パートナーの切り替え, パートナーの変更, 新しいパートナーの獲得, 別のパートナー
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 5976cba3c0d1ef6984fc88497412577e83e999f7
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 01316ceebcd2f969c89b4160bf5d95dcc44b1366
+ms.sourcegitcommit: 46b86ac7467afa43bedb0943dc8dc45a69caf1dd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205580"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "83194394"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について説明します。
 
@@ -32,7 +32,7 @@ ms.locfileid: "82205580"
 
 >[!Note]  
 >現在、サブスクリプションを転送できるのは、直接または間接プロバイダーだけです。
->Office 365、Enterprise Mobility Suite、または Microsoft Dynamics CRM サブスクリプションに関連付けられているクラウドソリューションプロバイダーサブスクリプションのパートナーを変更することはできません。
+>Azure プラン、Office 365、Enterprise Mobility Suite、または Microsoft Dynamics CRM サブスクリプションに関連付けられているクラウドソリューションプロバイダーサブスクリプションのパートナーを変更することはできません。
 
 **Azure サブスクリプションのパートナーを切り替える**
 
