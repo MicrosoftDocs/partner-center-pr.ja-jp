@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: サブスクリプション、Marketplace、サードパーティ、ISV、CSP パートナープログラム、契約、販売、購入、
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908135"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362630"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>商用マーケットプレースでビジネスを行う CSP パートナー向けのコントラクト
 
@@ -48,7 +48,8 @@ ms.locfileid: "82908135"
   
 Microsoft は、取引先との間でのサービスの提供に関する法的責任を負いません。また、提携パートナーがコマースプラットフォームを通じて法的条項を確立するためのメカニズムを提供することもありません。 トランザクションを実行するパートナーが追加の法律条項を必要とする場合は、アグリーメントを直接実行する必要があります。
 
-## <a name="see-also"></a>関連項目
+## <a name="next-steps"></a>次の手順
 
 - [商用マーケットプレース製品のサポート](csp-commercial-marketplace-support.md)
+
 - [CSP コマーシャルマーケットプレースアクティビティの概要](csp-commercial-marketplace-overview.md)

@@ -9,23 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 展開前, 計画, ソフトウェア アシュアランス
 ms.localizationpriority: medium
-ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: eb153d96f6c0dda0e7ce0521863d74cdb42bcbc2
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296404"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362440"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
 
 **適切なロール**
 
-- グローバル管理者
+- 全体管理者
 - MPN パートナー管理者
 
 Microsoft は、承認された計画サービスパートナーとして、企業のお客様のための展開前計画を提供することを検討します。 このプログラムに参加することにより、貴社は、いっそう多くの顧客を獲得し、顧客の信頼できる計画パートナーになり、顧客エンゲージメントを追加できる可能性があります。
 
-## <a name="get-started"></a>作業開始
+## <a name="get-started"></a>開始
 
 ソフトウェアアシュアランスサービスを初めてご使用になる場合は、以下のすべての手順に従ってください。 Planning Services プログラムで既にアクティブになっている場合は、以下の手順 4 (4) で新しい契約を開始します。
 
@@ -53,9 +53,9 @@ Microsoft は、承認された計画サービスパートナーとして、企�
 特定の計画サービス契約に登録する会社の資格を確認するために、次のようにします。
 
 1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。
-2. メニューから **[MPN]** を選択し、 **[プログラム]** を選択します。
-3. **[ソフトウェアアシュアランスの登録]** を選択します。
-4. ページの上部にある **[Planning Services プログラムの登録]** タブを選択します。 既に完了している要件またはコンピテンシーの横に、緑色のチェックマークが表示されます。
+2. メニューから [ **MPN** ] を選択し、[**プログラム**] を選択します。
+3. [**ソフトウェアアシュアランスの登録**] を選択します。
+4. ページの上部にある [ **Planning Services プログラムの登録**] タブを選択します。 既に完了している要件またはコンピテンシーの横に、緑色のチェックマークが表示されます。
 
 ## <a name="enroll-new-partners"></a>登録 (新しいパートナー)
 
@@ -87,13 +87,13 @@ Microsoft は、承認された計画サービスパートナーとして、企�
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>エンゲージメントを完成させ、成果物を顧客に提供する (既存のパートナー)
 
-計画サービスエンゲージメントを提供するためには、コンサルタントが、エンゲージメントの認定コンピテンシーに必要な1つ以上の技術評価または試験を完了している必要があります。 (必要な評価や試験の詳細については、[サービス契約を計画するための資格の要件を参照](software-assurance-dps-requirements.md)してください)。 
+計画サービスエンゲージメントを提供するためには、コンサルタントが、エンゲージメントの認定コンピテンシーに必要な1つ以上の技術評価または試験を完了している必要があります。 (必要な評価や試験の詳細については、[サービス契約を計画するための資格の要件を参照](software-assurance-dps-requirements.md)してください)。
 
 会社がエンゲージメントを完了し、最終的な完成した成果物を顧客に提供したら、オンライン完了レポートを入力して送信する必要があります。
 
 詳細なガイダンスについては、ワークフローの[手順 6](https://go.microsoft.com/fwlink/?linkid=2115983) . を参照してください。
 
-## <a name="redeem-voucher"></a>受講券を引き換える
+## <a name="redeem-voucher"></a>利用券を引き換える
 
 配信されたエンゲージメントに対して Microsoft に請求書を送信する前に、まず、ご利用の伝票を利用する必要があります。 詳細なガイダンスについては、ワークフローの[手順 7](https://go.microsoft.com/fwlink/?linkid=2115983)を参照してください。
 
@@ -103,7 +103,7 @@ Microsoft は、承認された計画サービスパートナーとして、企�
 
 SAVB を使用して Microsoft に請求書を送信するには、ワークフローの[手順 8](https://go.microsoft.com/fwlink/?linkid=2115983) . に記載されている手順に従います。
 
-## <a name="see-also"></a>参照
+## <a name="next-steps"></a>次の手順
 
 - [ソフトウェアアシュアランス計画サービスのワークフロー](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [ソフトウェアアシュアランス計画サービスに関する FAQ](https://go.microsoft.com/fwlink/?linkid=2116077)

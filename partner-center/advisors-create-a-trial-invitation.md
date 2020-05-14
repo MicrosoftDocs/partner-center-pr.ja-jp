@@ -3,24 +3,23 @@ title: Office 365 試用版への招待を作成する
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: パートナーがクライアントに対して試用版への招待を作成して送信し、Office 365 を試す方法について説明します。 パートナーは、承認されたサブスクリプションアドバイザーです。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor、office 365、試用版
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907450"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362620"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>アドバイザー: クライアントが Office 365 を試すための試用版への招待を作成して送信する
 
 > [!NOTE]
-> この機能は、サブスクリプションアドバイザーとして認められている Microsoft パートナーのみが利用できます。 
+> この機能は、サブスクリプションアドバイザーとして認められている Microsoft パートナーのみが利用できます。
 
 Office 365 を試すことができるように、クライアントに試用版への招待を作成して送信することができます。 試用版への招待を作成すると、**試用版への招待の作成**ウィザードによってカスタム URL が作成されます。 URL には、サブスクリプションアドバイザーとしてユーザーを識別するコードが埋め込まれています。 この URL は、1つまたは複数のクライアントで使用できます。 電子メールでクライアントに URL を送信するか、他のドキュメントの URL を使用します。 サブスクリプションには、特定のプランに応じて 1 つ以上のサービスを含めることができます。 招待は、一度に1つの試用版サブスクリプションに対してのみ送信できます。
 
@@ -28,7 +27,7 @@ Office 365 を試すことができるように、クライアントに試用版
 
 ## <a name="to-create-a-trial-invitation"></a>試用版への招待を作成するには
 
-1. 試用版に移動し **、プラン** > を作成して**招待を作成**します。
+1. 試用版に移動し **、プラン**を作成して  >  **招待を作成**します。
 
 2. [**試用版への招待の作成**] ページで、含める試用版の招待のオプションを選択します。
 

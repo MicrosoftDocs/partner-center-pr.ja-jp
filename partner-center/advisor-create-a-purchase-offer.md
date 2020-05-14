@@ -3,19 +3,18 @@ title: 購入プランを作成する
 ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: 承認されたサブスクリプションアドバイザーがパートナーセンターを使用して購入プランとカスタム URL を作成し、Office 365 の試用版への招待に含める方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor、office 365、購入
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975113"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362680"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>アドバイザー: 購入プランを作成する
 
@@ -26,11 +25,11 @@ Office 365 の試用版への招待をクライアントに送信した後、ク
 
 購入プランを作成するときに、**購入プランの作成**ウィザードによってカスタム URL が作成されます。 URL には、サブスクリプションアドバイザーとしてユーザーを識別するコードが埋め込まれています。 この URL は、1つまたは複数のクライアントで使用できます。 URL を電子メールでクライアントに送信します。 または、web サイトに URL を投稿することもできます。 クライアントがオファーを受け入れると、クライアントの購入に関連付けられます。
 
-クライアントで使用するライセンスの数が異なる場合は、新しいプランを送信するか、サブスクリプションの購入時にライセンスの数を変更することができます。 
+クライアントで使用するライセンスの数が異なる場合は、新しいプランを送信するか、サブスクリプションの購入時にライセンスの数を変更することができます。
 
 ## <a name="to-create-a-purchase-offer"></a>購入プランを作成するには
 
-1. 試用版に移動し**て購入** > **プランを作成**します。
+1. 試用版に移動し**て購入**  >  **プランを作成**します。
 
 2. [**購入プランの作成**] ページで、追加する購入プランのオプションを選択します。
 
@@ -50,7 +49,9 @@ Office 365 の試用版への招待をクライアントに送信した後、ク
     > [!NOTE]
     > 購入プランの**概要 ID**をメモしておきます。 プランを追跡するために使用します。
 
-5. 会社のロゴ、概要、終了コメント、その他の情報を含めることで、メッセージをカスタマイズできます。 購入プランをクライアントに送信します。
+5. 会社のロゴ、概要、終了コメント、その他の情報を含めることで、メッセージをカスタマイズできます。
+
+    購入プランをクライアントに送信します。
 
 6. メッセージをカスタマイズする場合は、次の情報を含めることを検討してください。
 

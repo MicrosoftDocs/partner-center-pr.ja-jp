@@ -1,5 +1,5 @@
 ---
-title: クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行 | パートナー センター
+title: クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行
 ms.topic: article
 ms.date: 04/27/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接請求, 移行, 間接リセラー
-ms.openlocfilehash: d70ff8ec0b9639ea02ca8e472f720f06aef6f070
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 8002504622e330aefd4ec20d8a49a27454360e3f
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205690"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362670"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行
 
@@ -27,7 +27,7 @@ ms.locfileid: "82205690"
 
 パートナーは、既存の直接請求テナントを使用して間接リセラー プログラムに登録できます。
 
-## <a name="get-started"></a>作業開始
+## <a name="get-started"></a>開始
 
 1. パートナー センターのパートナー プロファイルと MPN ID が最新の状態であることを確認します。
 
@@ -47,9 +47,9 @@ ms.locfileid: "82205690"
 5. 登録が承認されたら、パートナー センターにもう一度サインインします。
 
     > [!NOTE]
-    > 通常であればすぐに承認されますが、最大で 5 営業日かかることがあります。 承認が済むと、登録フォームで主要連絡先に指定したメール アドレスに通知が届きます。 また、[**設定** > ] [**パートナー設定** > ] [**パートナープロファイル**] > [プログラム情報] で、登録の状態を確認することもできます。
+    > 通常であればすぐに承認されますが、最大で 5 営業日かかることがあります。 承認が済むと、登録フォームで主要連絡先に指定したメール アドレスに通知が届きます。 また、[**設定**] [  >  **パートナー設定**] [  >  **パートナープロファイル**] > [プログラム情報] で、登録の状態を確認することもできます。
 
-6. **[概要]** ページに、間接リセラー契約が表示されます。 **[Accept and continue] (同意して続ける)** を選びます。 これにより、間接リセラーの機能が有効になります。
+6. **[概要]** ページに、間接リセラー契約が表示されます。 **[Accept and continue] (同意して続ける)** を選びます。 この操作により、間接リセラーの機能が有効になります。
 
 間接リセラー契約を受け入れるときは、パートナー プロファイルでは直接請求パートナーと間接リセラーの**両方**として示されていることに注意してください。
 
@@ -86,11 +86,11 @@ ms.locfileid: "82205690"
 
 ## <a name="acquire-new-customers-as-indirect-reseller"></a>間接リセラーとして新しい顧客を獲得する
 
-間接リセラーと間接プロバイダーの両方が、顧客との間にリセラーの関係を持つ必要があります。 これにより、顧客のサブスクリプションとサービスをそのユーザーに代わって管理することができます。 既存の Azure AD テナントを持つ新しい顧客を獲得するには、貴社と貴社のプロバイダーの両方と同時にリセラーの関係を確立するよう、顧客を招待できます。 
+間接リセラーと間接プロバイダーの両方が、顧客との間にリセラーの関係を持つ必要があります。 これらの再販業者の関係により、顧客のサブスクリプションとサービスをユーザーの代理として管理することができます。 既存の Azure AD テナントを持つ新しい顧客を獲得するには、貴社と貴社のプロバイダーの両方と同時にリセラーの関係を確立するよう、顧客を招待できます。
 
 間接リセラーの招待を作成するには:
 
-1. パートナー センターの左側のナビゲーションから **[間接プロバイダー]** を選択します。 
+1. パートナー センターの左側のナビゲーションから **[間接プロバイダー]** を選択します。
 
 2. 貴社と間接プロバイダーの両方について再販業者関係を確立するために新しい顧客を招待するには、 **[新しい顧客を招待する]** を選びます。 プロバイダーは顧客との再販業者関係を持っている必要があるため、顧客が新しいサブスクリプションを購入したり、既存のサブスクリプションに新しいライセンスを追加したりするときに、顧客に代わって注文を送信することができます。
 
@@ -99,7 +99,7 @@ ms.locfileid: "82205690"
 4. 電子メールのテキストを編集して必要なものを指定しますが、自分のアカウントとプロバイダーのアカウントの両方に顧客を直接接続できるように、パーソナライズされたリンクを含めてください。 **[完了]** を選択します。
 
 5. 顧客が貴社とプロバイダーを指名リセラーとして承認すると、貴社には顧客のサブスクリプション、ライセンス、ユーザーを管理するための管理者のアクセス許可が付与され、間接プロバイダーは、顧客に代わって注文を送信できるようになります。
-6. 顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、顧客の名前の下矢印を選んで、顧客のレコードを展開します。 
+6. 顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、顧客の名前の下矢印を選んで、顧客のレコードを展開します。
 
 ダイレクト請求パートナーとは異なり、間接リセラーは、パートナーセンターで新しい顧客用に Azure AD テナントを作成することはできません。 プロバイダーがテナントを作成し、この顧客に対する間接リセラーとして貴社を指定します。 これにより、顧客がパートナー センターの顧客リストに表示されます。
 
@@ -110,7 +110,7 @@ ms.locfileid: "82205690"
 
 直接請求の顧客の管理と、間接リセラーの顧客の管理は異なります。
 
-**ダイレクト請求顧客 (間接リセラーとしては実行されません)**
+### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>ダイレクト請求顧客 (間接リセラーとしては実行されません)
 
 - 製品の注文を作成します
 - Azure の予約の管理
@@ -118,13 +118,13 @@ ms.locfileid: "82205690"
 - ソフトウェアを購入します
 - 顧客に直接請求します
 
-**間接リセラーの顧客**
+### <a name="indirect-reseller-customers"></a>間接リセラーの顧客
 
 - 間接プロバイダーが顧客の製品を注文します
 - 顧客のライセンスとユーザーを管理する
 - サブスクリプションの更新を処理します
 
-**直接請求パートナーとして獲得した顧客を識別するには**
+### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>直接請求パートナーとして獲得した顧客を識別するには
 
 1. **顧客**の選択
 
@@ -244,10 +244,7 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 - 移行パートナーは、転送要求が完了したことを確認します。
 
-
-
-
-### <a name="transitioning-partner---create-transfer-request"></a>パートナー-転送の作成要求を移行しています
+### <a name="transitioning-partner"></a>パートナーの移行中
 
 > [!NOTE]
 > また、[パートナーセンター API/SDK](https://docs.microsoft.com/partner-center/develop/manage-customers)を使用して、既存のサブスクリプションを間接プロバイダーに転送することもできます。
@@ -260,8 +257,7 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 > - [顧客の譲渡を取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
 > - [Id で転送の詳細を取得する](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
 
-**パートナー-転送の作成要求を移行しています**
-
+### <a name="transitioning-partner---create-transfer-request"></a>パートナー-転送の作成要求を移行しています
 
 移行パートナーとして転送要求を作成するには、次のようにします。
 
@@ -315,13 +311,13 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 8. 転送要求が完了するまで待ちます。
 
-### <a name="indirect-provider-verify-transfer-request-is-complete"></a>間接プロバイダー検証の転送要求が完了しました
+### <a name="indirect-provider---verify-transfer-request-is-complete"></a>間接プロバイダー-転送要求の確認が完了しました
 
 1. 転送要求が正常に完了したら、サブスクリプションが [**サブスクリプション**] の下に表示されることを確認します。
 
 2. 移行パートナーに通知します。
 
-### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>パートナーの移行-転送要求の確認が完了しました 
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>パートナーの移行-転送要求の確認が完了しました
 
 移行中のパートナーは、次の操作を行う必要があります。
 
@@ -363,8 +359,8 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 また、パートナーは、その同じパートナー テナントで直接請求インセンティブ プログラムに登録する資格もあります。 プログラムは個別に管理する必要があります。
 
-## <a name="see-also"></a>関連項目
+## <a name="next-steps"></a>次の手順
 
-- [間接リセラーになることについての追加情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
+- [間接リセラーになることについての追加情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [CSP の直接パートナーの新しい要件](direct-partner-new-requirements.md)
 - [制限付きの直接請求機能](restricted-direct-bill-capabilities.md)
