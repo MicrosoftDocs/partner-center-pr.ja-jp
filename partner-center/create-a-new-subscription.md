@@ -1,21 +1,22 @@
 ---
-title: 顧客のサブスクリプションの作成、中断、取り消し
+title: パートナーセンターで顧客のサブスクリプションを作成する
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターで顧客レコードを作成した後に、顧客のサブスクリプションをカタログ内の製品に販売する方法について説明します。
+description: Microsoft が発行した製品や、サードパーティの Isv によって発行された SaaS 製品に対して顧客のサブスクリプションを販売する方法について説明します。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: サブスクリプション、新規作成、サブスクリプションの追加、中断、キャンセル、中断、中断、SaaS、ライセンス、ISV、サードパーティ
 ms.localizationpriority: medium
-ms.openlocfilehash: 75cfa546834e0e95dd716492ff822c0d1aa940b7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362360"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394152"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
@@ -37,12 +38,12 @@ ms.locfileid: "83362360"
 
 一部のプランは、顧客ごとに1つのサブスクリプションに限定されます。 制限のあるオファーの一覧を確認するには、パートナー センターの [料金とプラン] ページをご覧ください。
 
->[!IMPORTANT]
-CSP プログラムのパートナーは、パートナーセンター内の ISV 発行元から**ライセンスベース**の SaaS サブスクリプションのみを購入できます。 つまり、ISV 発行者が利用可能にした**ライセンスベース**の SaaS プランを購入できます。これには、アクセス権を持つ[限定プラン](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)も含まれます。 Isv (**使用量ベース**、従量制課金、使用量ベースのプランなど、azure アプリケーション、コンテナー、または vm を含む) から、他の商用 marketplace プランを購入または管理するには、 [azure 管理ポータル](https://portal.azure.com/)にアクセスする必要があります。 詳細については、「 [Purchase 市販の marketplace 製品](csp-commercial-marketplace-purchase.md)」を参照してください。
+> [!IMPORTANT]
+> CSP プログラムのパートナーは、パートナーセンター内の ISV 発行元から**ライセンスベース**の SaaS サブスクリプションのみを購入できます。 つまり、ISV 発行者が利用可能にした**ライセンスベース**の SaaS プランを購入できます。これには、アクセス権を持つ[限定プラン](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)も含まれます。 Isv (**使用量ベース**、従量制課金、使用量ベースのプランなど、azure アプリケーション、コンテナー、または vm を含む) から、他の商用 marketplace プランを購入または管理するには、 [azure 管理ポータル](https://portal.azure.com/)にアクセスする必要があります。 詳細については、「 [Purchase 市販の marketplace 製品](csp-commercial-marketplace-purchase.md)」を参照してください。
 
 ## <a name="create-a-new-subscription"></a>新しいサブスクリプションを作成する
 
-1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
 2. パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。
 
@@ -55,11 +56,11 @@ CSP プログラムのパートナーは、パートナーセンター内の ISV
 
 5. 顧客用に購入する製品サブスクリプションを選択します。 表示される製品は、顧客セグメントの種類 (教育、政府など) と、適用したフィルターによって異なります。 Marketplace に表示されるプランによっては、特定の顧客または特定の CSP パートナーが常に利用できるとは限りません。 次の原因があります。
 
-    - お客様は既にその製品のサブスクリプションを持っているため、1つのみを使用できます
+   - お客様は既にその製品のサブスクリプションを持っているため、1つのみを使用できます
 
-    - お客様のサブスクリプションが中断されている可能性があります (この場合は、新しいサブスクリプションを購入するのではなく、サブスクリプションを再アクティブ化することができます)。
+   - お客様のサブスクリプションが中断されている可能性があります (この場合は、新しいサブスクリプションを購入するのではなく、サブスクリプションを再アクティブ化することができます)。
 
-    - ISV SaaS プランでは、プランを購入できない理由がいくつかあります。 ISV は、お客様の請求先の国または地域をサポートしていない可能性があります。ISV は、CSP プログラムを通じてプランを利用できるようにしないことを選択した可能性があります。または、ISV が特定の CSP パートナーのみ[に対してプランを](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)作成した可能性もあります。 ISV プランは、パートナーセンター (たとえば、コンテナーや使用量ベースのプランなど) によって不可能されない場合もあります。  
+   - ISV SaaS プランでは、プランを購入できない理由がいくつかあります。 ISV は、お客様の請求先の国または地域をサポートしていない可能性があります。ISV は、CSP プログラムを通じてプランを利用できるようにしないことを選択した可能性があります。または、ISV が特定の CSP パートナーのみ[に対してプランを](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)作成した可能性もあります。 ISV プランは、パートナーセンター (たとえば、コンテナーや使用量ベースのプランなど) によって不可能されない場合もあります。  
 
 6. 追加するサブスクリプションごとに、必要に応じてライセンスの数を入力し、[**カートに追加**] を選択します。
 
@@ -152,7 +153,7 @@ ISV 発行元から取得したライセンスベースの SaaS サブスクリ�
 
 6. **[Submit]\(送信\)** をクリックします。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客のために商用マーケットプレースの製品を購入する](csp-commercial-marketplace-purchase.md)
 

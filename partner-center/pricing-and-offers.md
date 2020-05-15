@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 02/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: プランの一覧には、パートナー センターで購入できるさまざまな製品ファミリとその価格情報が含まれています。
+description: Office 365、Microsoft Dynamics CRM、Enterprise Mobility Suite などのライセンスベースのサービスと、Azure などの使用量ベースのサービスの現在の価格表をご覧ください。
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 19e935122d1223c87714ca8c3a3f4fd212f2cf3c
-ms.sourcegitcommit: 4731d6647db34cf214f781f9e002074210fcfc29
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ba6b3407f233376f99eea673e24f5a152839383a
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "81664281"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394168"
 ---
-# <a name="pricing-and-offers"></a>料金とプラン
+# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、Enterprise Mobility Suite、Azure などの価格とプラン
 
 **適用対象**
 
@@ -41,7 +41,7 @@ ms.locfileid: "81664281"
 
 ライセンスベースのサービスには、変更の前に30日間提供されている価格リストのプレビューが含まれます。 価格表のプレビューを表示するには、**販売 > 価格とプラン**に関するページを参照してください。 使用量ベースのサービスでは、これらのサービスは動的であるため、価格のプレビューはありません。 次の表では、価格一覧表を読み取る方法について説明します。
 
-|**項目**        |**定義**      |
+|**Item**        |**定義**      |
 |:-----------   |:-----------   |
 |ADD   |新しい項目を価格表に追加します。|
 |CHG   |月ごとの表示価格の変更。 表示価格に関連しない他の変更が発生する可能性があります。パートナーは、月の価格表を比較して、他のプロパティに対する変更を確認する必要があります。|
@@ -80,7 +80,7 @@ ms.locfileid: "81664281"
 
 CSP は、教育、非営利、政府向けコミュニティクラウドなど、特別な市場セグメントにサービスを提供します。 すべてのサービスがすべてのチャネルで使用できるわけではありません。 "コマーシャル" セグメントと呼ばれるセグメントは既定ではありません。 ライセンスベースの価格はすべて、価格とプランに関するページのライセンスベースの価格表に記載されています。 Azure Government 料金は、Azure Government 有効な CSP テナントにサインインしたときに使用量ベースの価格表に記載されています。
 
-|**市場**   |**認定を受ける必要があるユーザー**   |**パートナーの顧客の見極め**|**有効な製品の種類**|
+|**Segment**   |**認定を受ける必要があるユーザー**   |**パートナーの顧客の見極め**|**有効な製品の種類**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |教育|Customer|いいえ、お客様の資格は Microsoft によって実行されます |ライセンスベースのみ|
 |非営利団体|Customer|いいえ、お客様はパートナーセンターの外にお客様を見極めます|ライセンスベースのみ|

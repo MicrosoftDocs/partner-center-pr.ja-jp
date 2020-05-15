@@ -2,7 +2,7 @@
 title: 顧客が個人でサービスを購入するためのアクセス許可を付与する
 description: CSP プログラムパートナーが、お客様が購入したサブスクリプションに対して Azure の予約などの独自のサービスを購入できるようにする方法について説明します。
 ms.topic: article
-ms.date: 05/12/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: サブスクリプション、セルフサービス型購入、セルフサービス RI、有効化 ri、無効化 RI、セルフサービス、顧客購入、カスタマーアクセス許可、顧客購入予約インスタンス、顧客購入 Azure 予約、セルフサービスの有効化、セルフサービスの無効化
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362610"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394130"
 ---
 # <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>顧客が自分の製品またはサービスを購入するためのアクセス許可を付与する方法
 
@@ -128,7 +128,7 @@ Azure の予約は、割引料金で Azure サービスを購入するための�
 
 5. ページの下部にある [**顧客のアクセス許可**] 領域を探します。
 
-   ![アカウントページに対する顧客のアクセス許可](images/give-customers-permission-reservations.png)
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="アカウントページに対する顧客のアクセス許可。" border="true":::
 
 6. [ **Azure の予約**] で、[**顧客の購入を許可する**] オプションを見つけます。
 
@@ -152,13 +152,13 @@ Azure の予約の次の側面を管理する方法の詳細については、�
 
 **お客様の予約に対して料金が請求されます。** お客様は、以前に CSP パートナーの課金アカウントで購入したサブスクリプションに基づいて、Azure の予約を購入します。 このサブスクリプションに基づいて購入した Azure の予約については、お客様の料金もユーザーによって設定されます。 この価格は、お客様が Azure portal に表示する Web Direct の価格とは異なる場合があります。
 
-**お客様が予約の使用を最適化する方法。** お客様によっては、予約の使用を最適化する方法、または購入時に予約の初期スコープを割り当てる方法について、さらに学習することができます。 詳細については、「 [Azure リソースの予約を管理]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)する」をお読みください。
+**お客様が予約の使用を最適化する方法。** お客様によっては、予約の使用を最適化する方法、または購入時に予約の初期スコープを割り当てる方法について、さらに学習することができます。 詳細については、「 [Azure リソースの予約を管理](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)する」をお読みください。
 
 **顧客が共有スコープで予約を購入するとどうなりますか。** 顧客が以前の CSP サブスクリプションに基づいて予約を購入し、その予約に共有スコープを割り当てると、CSP によって顧客に与えられた割引は、CSP パートナーがその顧客に対して購入したすべてのサブスクリプションの照合の使用に適用されます。
 
 **顧客が購入を交換、キャンセル、または更新する場合や、予約の初期スコープを変更する場合は、どうすればよいでしょうか。** お客様は、予約の初期スコープを変更するためにパートナーに依頼する必要があります。 また、予約を交換、取り消し、または更新するためのパートナーの支援も必要です。 これらのタスクは、CSP パートナーによって購入されたサブスクリプションに基づいて、予約を使用して実行することはできません。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客に代わって Azure の予約を購入する](azure-reservations-buying.md)
 

@@ -1,7 +1,7 @@
 ---
 title: 商用 marketplace 製品の課金
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンター内の商用マーケットプレースから購入した ISV SaaS 製品またはサブスクリプションの課金のしくみについて説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: サブスクリプション, 製品, 購入, Marketplace, サードパーティ, ISV, 請求, 請求書, 調整, 偵察ファイル
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 9672850b699a2660f646ede5250e52298f5522cd
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908121"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394154"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>パートナーセンターでの商用 marketplace 製品とサブスクリプションの課金
 
@@ -108,7 +108,7 @@ CSP プログラムのパートナーは、パートナーセンターまたは 
 
 各列が表す内容の詳細については、「[調整ファイルの使用](use-the-reconciliation-files.md)」を参照してください。 「[パートナーセンターでの課金の種類](billing-different-types.md)」も参照してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客向けの商用 marketplace 製品を管理する](csp-commercial-marketplace-manage.md)
 - [商用 marketplace 製品のサポートについて説明します](csp-commercial-marketplace-support.md)
