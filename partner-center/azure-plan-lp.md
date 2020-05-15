@@ -1,7 +1,7 @@
 ---
-title: Azure プラン | パートナー センター
+title: Azure プラン - Azure を従量課金制料金で購入する
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure サービスを顧客向け従量課金制料金で購入するための、Azure プランのコマースエクスペリエンスについて説明します。 新しいセキュリティ要件についても説明します。
@@ -10,14 +10,15 @@ ms.author: labrenne
 Keywords: Azure, Azure プラン, サブスクリプションの購入, サブスクリプション
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7be0e8cd97a66742b1c2bfadbdb5edceb8a8d9c4
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1e5aeb04c7f37dfc777ece6b7190b8ae7e04ebe2
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76549667"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908349"
 ---
-# <a name="introduction-azure-plan"></a>概要:Azure プラン
+# <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>概要:Azure プランでは、パートナーは Azure を顧客向け従量課金制料金で購入できます。
 
 Microsoft は、パートナー センターに新しいコマース エクスペリエンスである Azure プランを導入しました。  この新しいコマース エクスペリエンスでは、パートナーは、Microsoft 顧客契約に基づいて、従量課金制の料金で提供される顧客向けの Azure サービスにアクセスできるようになります。
 

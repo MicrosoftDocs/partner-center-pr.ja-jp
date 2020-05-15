@@ -1,21 +1,19 @@
 ---
-title: Azure CSP で使用可能な Azure サービス | パートナー センター
+title: Azure CSP で利用可能な Azure サービス
+description: このセクションでは、Azure クラウド ソリューション プロバイダー (CSP) プログラムで使用できない Azure サービスについて説明します。
 ms.topic: article
-ms.date: 03/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: このセクションでは、Azure クラウド ソリューション プロバイダー (CSP) プログラムで使用できない Azure サービスについて説明します。
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a86d66c3f7a799145d1f5a9bb3561a459e699f97
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 03/05/2020
+ms.openlocfilehash: 29020fc4861bb11f15f7a892dda4d92f0c19fe07
+ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "79024096"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83369279"
 ---
 # <a name="available-azure-services-in-azure-csp"></a>Azure CSP で利用可能な Azure サービス
 
@@ -30,16 +28,16 @@ ms.locfileid: "79024096"
 
 ## <a name="available-azure-services-in-azure-csp"></a>Azure CSP で利用可能な Azure サービス
 
-このセクションでは、Azure クラウド ソリューション プロバイダー (CSP) プログラムで使用できない Azure サービスについて説明します。 また、ナショナル クラウド [Microsoft Azure Germany](https://azure.microsoft.com/overview/clouds/germany/) および [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/) のサービスの可用性についても説明します。
+この記事では、Azure クラウド ソリューション プロバイダー (CSP) プログラムで使用できる、および使用できない Azure サービスをリストします。 また、ナショナル クラウド [Microsoft Azure Germany](https://azure.microsoft.com/overview/clouds/germany/) および [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/) のサービスの可用性についても説明します。
 
 >[!Note]
 >[Azure China]( https://www.azure.cn/) は、Azure CSP プログラムでは使用できません。
 
-### <a name="global-cloud"></a>グローバル クラウド 
+## <a name="global-cloud"></a>グローバル クラウド
 
 Azure Resource Manager モデルに基づくすべてのサービスは、CSP プログラムで利用できます。  Azure Resource Manager 以外のサービスは、CSP プログラムでは利用できません。  
 
-### <a name="csp-specific-service-configurations"></a>CSP 固有のサービス構成
+## <a name="csp-specific-service-configurations"></a>CSP 固有のサービス構成
 
 次のサービスでは、CSP に特別な構成が必要です。
 
@@ -47,15 +45,15 @@ Azure Resource Manager モデルに基づくすべてのサービスは、CSP �
 
 - [Azure Active Directory Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
 
-- [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx) 
+- [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/)  顧客のテナントのユーザーのみが、その Time Series Insights 環境内のデータにアクセスできます。 パートナーは、既定で顧客の Time Series Insights 環境を管理できますが、そこにあるデータへのアクセスを必要とする場合は顧客テナントに追加される必要があります。 
+- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/)  顧客のテナントのユーザーのみが、その Time Series Insights 環境内のデータにアクセスできます。 パートナーは、既定で顧客の Time Series Insights 環境を管理できますが、そこにあるデータへのアクセスを必要とする場合は顧客テナントに追加される必要があります。
 
-### <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
+## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
 Visual Studio Marketplace から以下に記載された項目を購入できるようになりました (サードパーティの拡張機能以外)。
 
-- [Azure DevOps](https://www.visualstudio.com/team-services/) 
+- [Azure DevOps](https://www.visualstudio.com/team-services/)
 
 - [Visual Studio サブスクリプション](https://www.visualstudio.com/subscriptions/)
 
@@ -63,7 +61,7 @@ Visual Studio Marketplace から以下に記載された項目を購入できる
 
 円滑に使用を開始できるように、CSP での [Azure DevOps のセットアップ、購入、管理](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer)に関するビデオとドキュメントをご用意しました。
 
-### <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP での Azure Marketplace 項目
+## <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP での Azure Marketplace 項目
 
 現在、Azure CSP サブスクリプションでは、すべての Azure Marketplace 項目を利用できるわけではありません。
 
@@ -71,12 +69,13 @@ Visual Studio Marketplace から以下に記載された項目を購入できる
 
 - ライセンス持ち込み (BYOL) 項目:これらの項目は利用可能です。 BYOL 対応 Azure Marketplace 項目の完全な一覧については、[Azure Marketplace BYOL に関するページ](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)をご覧ください。
 
-- 従量課金制のサードパーティ製 Azure Marketplace 項目:これらの項目は、プロバイダーが CSP チャネルに公開している場合、利用できます。 詳細については、「[Azure Marketplace 製品にサブスクリプションを販売する](https://aka.ms/marketplaceincsp)」を参照してください。   
+- 従量課金制のサードパーティ製 Azure Marketplace 項目:これらの項目は、プロバイダーが CSP チャネルに公開している場合、利用できます。 詳細については、「[Azure Marketplace 製品にサブスクリプションを販売する](https://aka.ms/marketplaceincsp)」を参照してください。
 
 - Citrix XenApp Essentials:パートナーは、CSP での顧客向け XenApp Essentials を購入できます。 詳しくは、次の Citrix ブログ「[XenApp Essentials の配布を Microsoft クラウド ソリューション プロバイダー チャネルから利用可能](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)」をご覧ください。
 
-### <a name="national-clouds"></a>ナショナル クラウド 
-次の表に、ナショナル クラウドの CSP 向けファーストパーティ製 Azure 製品、サービス、および機能の定期的に更新される一覧を示します。 
+## <a name="national-clouds"></a>ナショナル クラウド
+
+次の表に、ナショナル クラウドの CSP 向けファーストパーティ製 Azure 製品、サービス、および機能の定期的に更新される一覧を示します。
 
 | Azure 製品、サービス、機能 | 米国政府 | ドイツ |
 | ------ | :-----------: | :-----------: |
@@ -187,7 +186,7 @@ Visual Studio Marketplace から以下に記載された項目を購入できる
 |  Azure Migrate  |    |    |
 |  管理グループ  |    |  
 
-### <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次の手順
 
 - パートナー センターで利用可能な Azure 向け機能については、[こちら](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview)をご覧ください。
 

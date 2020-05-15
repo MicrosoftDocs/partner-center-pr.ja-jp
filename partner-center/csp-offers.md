@@ -1,22 +1,23 @@
 ---
-title: クラウド ソリューション プロバイダー プログラムでのパートナー プラン | パートナー センター
+title: CSP プログラムのパートナー プラン
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: クラウド ソリューション プロバイダー プログラムで販売するパートナーが利用できるプランについて説明します。
+description: CSP プログラムのパートナーが顧客に販売できる、Microsoft クラウド サービスおよびプランの拡充されるカタログについて説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, 製品の追加, パートナー プラン, CSP プラン, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナー, CSP での販売, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, オンライン サービス, サブスクリプション ソフトウェア, AHUB, SQL Server on Azure, Windows Server on Azure, 顧客のサブスクリプション
 ms.localizationpriority: high
-ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722539"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362330"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでのパートナー プラン
+# <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムのパートナー プランの概要
 
 **適用対象**
 
@@ -39,31 +40,31 @@ ms.locfileid: "74722539"
 
 現時点では、次の種類の製品とサービスを CSP のお客様に販売できます。
 
-- Azure Reservations<br> 
+### <a name="azure-reservations"></a>Azure Reservations
 
-    お客様は、1 年間または 3 年間、Azure Virtual Machines 上の領域を事前に予約できます。<br>
-    
-    詳細については、[Microsoft Azure Reserved VM Instances の販売](azure-reservations.md)に関するページを参照してください。
+   お客様は、1 年間または 3 年間、Azure Virtual Machines 上の領域を事前に予約できます。
 
-- ソフトウェア<br>
+   詳細については、[Microsoft Azure Reserved VM Instances の販売](azure-reservations.md)に関するページを参照してください。
 
-    顧客はソフトウェア サブスクリプション (1 年間または 3 年間、Azure Reserved VM Instances 上で Windows Server および SQL Server を実行できる) を購入できます。<br>
- 
-    詳細については、「[CSP によるソフトウェア サブスクリプションの販売](csp-software-subscriptions.md)」を参照してください。  
+### <a name="software"></a>ソフトウェア
 
-- オンライン サービス<br>
+   顧客はソフトウェア サブスクリプション (1 年間または 3 年間、Azure Reserved VM Instances 上で Windows Server および SQL Server を実行できる) を購入できます。
 
-    "*オンライン サービス*" は、現在 "*サブスクリプション*" と呼ばれているものの新しい名前です。 複数の種類の製品を 1 か所で簡単に注文できるように、"サブスクリプションの追加" タスク フローを "製品の追加" タスク フローに統合しました。<br>
-    
-    詳細については、「[顧客のサブスクリプション](customer-subscriptions.md)」を参照してください。
+   詳細については、「[CSP によるソフトウェア サブスクリプションの販売](csp-software-subscriptions.md)」を参照してください。  
 
-- サービスとしてのソフトウェア (SaaS) とその他の [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) 製品<br>
+### <a name="online-services"></a>オンライン サービス
 
-    独立系ソフトウェア ベンダー (ISV) の SaaS 製品に対してサブスクリプションを販売できます。 **[オンライン サービス]** で SaaS プランのみを表示するには、フィルターを使用して **[パートナー]** に **[発行者]** を設定します。 これにより、その顧客が購入できる SaaS プランがすべて表示されます。<br>
-    
-    また、 **[マーケットプレース]** ページでこれらの製品に関する情報を確認することもできます。 このページには、パートナー センターではなく Azure portal で購入する必要があるその他の種類の製品に関する情報も含まれていることに注意してください。<br>
+   "*オンライン サービス*" は、現在 "*サブスクリプション*" と呼ばれているものの新しい名前です。 複数の種類の製品を 1 か所で簡単に注文できるように、"サブスクリプションの追加" タスク フローを "製品の追加" タスク フローに統合しました。
 
-    詳細については、「[CSP コマーシャル マーケットプレースの概要](CSP-commercial-marketplace-overview.md)」を参照してください。
+   詳細については、[顧客のサブスクリプション](customer-subscriptions.md)に関するページを参照してください。
+
+### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>サービスとしてのソフトウェア (SaaS) とその他の [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) 製品
+
+   独立系ソフトウェア ベンダー (ISV) の SaaS 製品に対してサブスクリプションを販売できます。 **[オンライン サービス]** で SaaS プランのみを表示するには、フィルターを使用して **[パートナー]** に **[発行者]** を設定します。 これにより、その顧客が購入できる SaaS プランがすべて表示されます。
+
+   また、 **[マーケットプレース]** ページでこれらの製品に関する情報を確認することもできます。 このページには、パートナー センターではなく Azure portal で購入する必要があるその他の種類の製品に関する情報も含まれていることに注意してください。
+
+   詳細については、[CSP コマーシャル マーケットプレースの概要](CSP-commercial-marketplace-overview.md)に関するページを参照してください。
 
 ## <a name="add-products-page-details"></a>[製品の追加] ページの詳細
 
@@ -81,14 +82,14 @@ ms.locfileid: "74722539"
 
 **カテゴリ** - 製品がサポートする業種と、試用版を提供するかどうかを指定します。
 
-**SKU の表示、製品の表示** - 製品と SKU の一覧を切り替えるために選択します。 **[製品]** では各製品が個別に表示され、 **[SKU]** では製品グループが表示されます。
+**SKU の表示、製品の表示** - 製品と SKU の一覧を切り替えるために選択します。 **[製品]** ページでは各製品が個別に表示され、 **[SKU]** では製品グループが表示されます。
 
 ## <a name="buy-csp-offers"></a>CSP プランの購入
 
 CSP の顧客に代わって製品およびサービスを購入するには、顧客が必要とする項目を選択し、カートに追加します。これにより、注文が作成されます。その後、注文を確認して送信します。 一般的なプロセスは次のとおりです。 (特定の種類の製品に対する注文の詳細については、上記のリンクを参照してください。)
 
->[注] CSP プランは、パートナーのテナントの国と顧客のテナントの国の両方で利用可能である必要があります。 
->たとえば、パートナーのテナントがスロバキアにあり、顧客のテナントがドイツにある場合、現在 Dynamics 365 Business Central Premium はスロバキアでは利用できないため、このプランをその顧客に販売することはできません。
+>[!Note]
+>CSP プランは、パートナーのテナントの国と顧客のテナントの国の両方で利用可能である必要があります。 たとえば、パートナーのテナントがスロバキアにあり、顧客のテナントがドイツにある場合、現在 Dynamics 365 Business Central Premium はスロバキアでは利用できないため、このプランをその顧客に販売することはできません。
 
 1. パートナー センター メニューから **[顧客]** を選択し、あなたから購入を希望している顧客を見つけます。 
 
@@ -96,22 +97,18 @@ CSP の顧客に代わって製品およびサービスを購入するには、�
 
 3. **[製品の追加]** ページで、 **[Azure]** 、 **[オンライン サービス]** 、 **[ソフトウェア]** のいずれかを選択します。
 
-4. 探している製品をより簡単に検索するには、使用可能なフィルターを微調整します。 使用可能な製品のすべての一覧を見るには、該当するフィルターを **[任意]** に設定します。 
+4. 探している製品をより簡単に検索するには、使用可能なフィルターを微調整します。 使用可能な製品のすべての一覧を見るには、該当するフィルターを **[任意]** に設定します。
 
 5. 顧客が必要とする製品を選択し、目的の数量を入力して、 **[カートに追加]** を選択します。
 
 6. 必要な項目をすべてカートに追加できるまで、手順 4 と 5 を繰り返します。 **[確認]** を選択して、注文内容を確認します。  
 
-7. **[ご注文の確認]** ページで、製品と数量を確認または変更し、 **[購入]** を選択して注文内容を購入します。 
+7. **[ご注文の確認]** ページで、製品と数量を確認または変更し、 **[購入]** を選択して注文内容を購入します。
 
-8. 注文番号を含む注文の詳細は、次のページに表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
+8. 注文番号を含む注文の詳細は、次のページに表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。
 
-**詳細情報** 
+## <a name="next-steps"></a>次の手順
 
-請求プロセスのしくみについては、「[請求の概要](https://docs.microsoft.com/partner-center/billing-basics)」を参照してください。
+請求プロセスのしくみに関する情報については、「[請求の概要](https://docs.microsoft.com/partner-center/billing-basics)」を参照してください。
 
 Azure プランでの購入については、「[Azure プランを購入する](purchase-azure-plan.md)」を参照してください。
-
-## <a name="see-also"></a>関連項目
-
-[CSP コマーシャル マーケットプレースの概要](csp-commercial-marketplace-overview.md)

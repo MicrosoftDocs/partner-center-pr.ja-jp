@@ -1,23 +1,24 @@
 ---
-title: Azure プランへの顧客の移行 | パートナー センター
+title: 顧客を現在の Azure プランから Azure プランに移行する
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顧客を Azure プランに簡単に移動する方法について説明します。
+description: CSP パートナーが、パートナー センターを使用して顧客を既存の CSP Azure プランから、Azure プランで管理される Azure サービスに移行する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 7bcb27e521e4f3982fd3e0a94f1ed3a96320cfa3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 05c28b852935dbce88d9f64c86b7c87fcbdc05cc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "79023485"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908332"
 ---
-# <a name="transition-your-customers-to-azure-plan"></a>顧客の Azure プランへの移行
+# <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>顧客を既存の CSP Azure プランから Azure プランに移行する
 
 **適切なロール**
 

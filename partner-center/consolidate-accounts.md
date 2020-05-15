@@ -1,23 +1,23 @@
 ---
-title: 会社のアカウントを統合する | パートナー センター
+title: 会社のアカウントを統合する
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Partner Membership Center (PMC) アカウントをパートナー センターの 1 つのアカウントに統合する方法について説明します。 このプロセスは、PMC からパートナー センターへの移行に適用されます。
+description: Partner Membership Center (PMC) アカウントをパートナー センターの 1 つのアカウントに統合する方法について説明します。 PMC からパートナー センターへの移行に適用されます。
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: d6e867d9e78fb7b8d0612cde5f6a57537ad40e77
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226138"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908144"
 ---
-# <a name="consolidate-your-company-accounts"></a>会社のアカウントを統合する
+# <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>PMC からパートナー センターに移行する際に会社のアカウントを統合する
 
 **適切なロール**
 

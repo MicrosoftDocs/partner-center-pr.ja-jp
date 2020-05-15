@@ -1,7 +1,7 @@
 ---
-title: Azure プランを比較する | パートナー センター
+title: CSP パートナー向けの Azure プランを比較する
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: クラウド ソリューション プロバイダー (CSP) プログラムにおけるパートナー向けの新しい Microsoft コマース エクスペリエンスのプランの主な違いを比較します。
@@ -9,14 +9,15 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ed929c12b6fec06848bd38e7d2d7962c9dceb0f1
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53f3f496cf29d1daa76bf8dfe96664755681fb8c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76021758"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908173"
 ---
-# <a name="compare-azure-offers"></a>Azure プランを比較する
+# <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>CSP プログラムでの Azure プランの違いを比較する
 
 **適切なロール**
 
@@ -33,7 +34,7 @@ ms.locfileid: "76021758"
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |請求|月 1 回|可変 (プランによる)|エンド カスタマー|全期間分または 3 年分の前払い|毎月または毎年|
 |ライセンス所有者|エンド カスタマー|可変 (プランによる)|エンド カスタマー| エンド カスタマー|   エンド カスタマー|
-|対象期間|キャンセルされるまでアクティブ|可変 (プランによる)|プランの説明を参照|すべての Azure Reservations には、固有のカバレッジ期間があります。    すべてのサーバー サブスクリプションには、固有のカバレッジ期間があります。|   既存の対象期間にシートベースのライセンスが追加される|
+|対象期間|キャンセルされるまでアクティブ|可変 (プランによる)|プランの説明を参照|すべての Azure Reservations には、固有のカバレッジ期間があります。 すべてのサーバー サブスクリプションには、固有のカバレッジ期間があります。|   既存の対象期間にシートベースのライセンスが追加される|
 |自動更新|はい|はい|いいえ| いいえ|はい|
 |複数通貨|顧客の所在地/通貨に基づく請求書|顧客の所在地/通貨に基づく請求書|顧客の所在地/通貨に基づく請求書|顧客の所在地/通貨に基づく請求書|パートナーの所在地の通貨に基づく| 
 |請求書と調整ファイル|顧客の所在地の通貨ごとに請求書と調整ファイルが分割される。  日単位の使用状況ファイルも提供される (課金部分と未課金部分の両方) |顧客の所在地の通貨ごとに請求書と調整ファイルが分割される|顧客の所在地の通貨ごとに請求書と調整ファイルが分割される|顧客の所在地の通貨ごとに請求書と調整ファイルが分割される|すべての注文は 1 つの請求書と調整ファイルにまとめられる|
@@ -42,7 +43,7 @@ ms.locfileid: "76021758"
 |利用可能地域|139 か国 - これらの国の完全な一覧については、こちらを参照してください。|「New Commerce Offers Country Availability and Customer Currency Matrix」(新規コマース プラン提供国と顧客通貨のマトリックス) に、CSP の中でパートナーがこれらのプランを提供できる範囲が示されています。|詳細については、「New Commerce Offers Country Availability and Customer Currency Matrix」(新規コマース プラン提供国と顧客通貨のマトリックス) を参照してください。 新しいすべてのコマース プランに対して、同じロールアウト スケジュールが適用されます。|詳細については、「New Commerce Offers Country Availability and Customer Currency Matrix」(新規コマース プラン提供国と顧客通貨のマトリックス) を参照してください。  新しいすべてのコマース プランに対して、同じロールアウト スケジュールが適用されます。|247 か国|
 |サポートの要件|標準的な CSP のサポート要件。|テクニカル サポートはプランを公開する会社が担当します。  CSP パートナーは、先行予約販売、取引、および請求に関するサポートを担当します。|標準的な CSP のサポート要件。|標準的な CSP のサポート要件。|標準的な CSP のサポート要件。|
 
-\* Microsoft では、Azure メーターの価格にプログラムでリアルタイムにアクセスする価格表 API を第 4 四半期に提供する予定です。
+\* Microsoft では、Azure メーターの価格にプログラムでリアルタイムにアクセスするための価格表 API を第 4 四半期に提供する予定です。
 
 **詳細情報**
 

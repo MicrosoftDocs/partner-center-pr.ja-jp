@@ -119,7 +119,7 @@
 ## [顧客一覧の表示](see-your-customer-list.md)
 ## [顧客のアクティビティ ログの表示](activity-logs.md)
 ## [顧客のアカウント情報の更新](update-customer-account-info.md)
-## [顧客が個人でサービスを購入するためのアクセス許可を付与する](give-customers-permission.md)
+## [顧客が独自のサービスを購入できるようにする](give-customers-permission.md)
 ## [顧客での複数ユーザーの作成](adding-multiple-users-to-a-customer-account.md)
 ## [サポート連絡先の指定](assign-support-contacts.md)
 
@@ -196,6 +196,7 @@
 # [他のパートナーとの連携](work-with-other-partners.md)
 ## [パートナー センターでの間接プロバイダーの作業](indirect-provider-tasks-in-partner-center.md)
 ## [パートナー センターでの間接リセラーの作業](indirect-reseller-tasks-in-partner-center.md)
+## [サポートされる CSP パートナー関係](csp-supported-partner-relationships.md)
 ## [マルチチャンネルのサポート](multichannel.md)
 ## [マルチパートナーのサポート](multipartner.md)
 

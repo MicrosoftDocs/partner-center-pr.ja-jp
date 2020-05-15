@@ -1,7 +1,7 @@
 ---
-title: Azure プランのサブスクリプションとリソースを管理する | パートナー センター
+title: Azure プラン - サブスクリプションとリソースの管理
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーがさまざまなロールベースのアクセス制御 (RBAC) オプションを使用して、顧客の Azure リソースの運用上の制御と管理を実現する方法について説明します。
@@ -9,12 +9,13 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 15d1fd3bdff078e752f3b3acb9b200300dc2e64b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 65362d9f71882d9edff34039f7fc985a202c4aa0
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74253278"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908339"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure プランのサブスクリプションとリソースを管理する
 

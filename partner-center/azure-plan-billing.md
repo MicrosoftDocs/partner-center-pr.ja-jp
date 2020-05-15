@@ -1,7 +1,7 @@
 ---
-title: Azure プランの請求 | パートナー センター
+title: Azure プランの請求 - 請求書と調整ファイル
 ms.topic: article
-ms.date: 02/12/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure プランの請求に関連する請求書と調整ファイルの構造にアクセスして理解する方法について説明します。
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78240245"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908361"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP の新しいコマース エクスペリエンス - Azure の請求 
 
@@ -62,7 +63,7 @@ Azure プランの請求は、調整された 1 つの請求日とカレンダ�
 
 ## <a name="understanding-usage-data"></a>使用状況データについて 
 
-1. Azure プランは、使用状況に関するルートまたは最上位のコンテナーです。 すべての使用状況は、1 つの Azure プランに関連付けられています。 
+1. Azure プランは、使用状況に関するルートまたは最上位のコンテナーです。 すべての使用状況は、1 つの Azure プランに関連付けられています。
 
 2. プラン内には、1 つ以上の Azure サブスクリプションがあります。 これらは、リソースの管理とデプロイに使用されるコンテナーです。 
 
@@ -72,7 +73,7 @@ Azure プランの請求は、調整された 1 つの請求日とカレンダ�
 
 5. リソース出力メーター: メーターはリソースの消費量の測定であり、1 つのリソースが複数のメーターの使用量を出力する場合があります。 メーターは、ProductId、SKUId、および AvailabilityId によって識別されます。 
 
-### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>サブスクリプション リソース グループとメータリングの階層
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>サブスクリプション リソース グループと使用状況測定の階層
 
 **Azure アカウント (テナント)**
 

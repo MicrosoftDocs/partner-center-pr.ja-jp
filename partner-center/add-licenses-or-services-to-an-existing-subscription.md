@@ -1,23 +1,24 @@
 ---
-title: 既存のサブスクリプションへのライセンスまたはサービスの追加 | パートナー センター
+title: 顧客サブスクリプションのアップグレード
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ライセンスまたはシートの追加や、他のサービスの別のバージョンへの移行など、顧客のサブスクリプションをアップグレードまたは変更する方法について説明します。
+description: 顧客のサブスクリプションをアップグレードまたは変更する方法について説明します。 ライセンスやシートを追加したり、より多くのサービスを含む別のバージョンに移行したりします。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: 既存のサブスクリプションにライセンスを追加する, 既存のサブスクリプションにシートを追加する, サブスクリプションを変更する, サブスクリプションの変更, 顧客のライセンスを追加購入する
 ms.localizationpriority: high
-ms.openlocfilehash: 01f0fedfad207f83cc5370ac60f19753040c9045
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798650"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975123"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a>既存のサブスクリプションへのライセンスまたはサービスの追加
+# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>顧客のサブスクリプションへのライセンス、シート、サービスの追加
 
 **適用対象**
 
@@ -32,7 +33,7 @@ ms.locfileid: "82798650"
 - 販売代理店
 - ヘルプデスク エージェント
 
-顧客が現在提供されているサブスクリプションよりも多くのシートを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。 詳しくは、[別の一般法人向け Office 365 プランに切り替える](https://go.microsoft.com/fwlink/p/?LinkId=723577)」をご覧ください。
+顧客が現在のサブスクリプションで提供されている数よりも多くのシートを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。 詳しくは、[別の Microsoft 365 Apps for business プランへの切り替え](https://go.microsoft.com/fwlink/p/?LinkId=723577)に関するページをご覧ください。
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -52,25 +53,25 @@ ms.locfileid: "82798650"
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Business</td>
+<td>Microsoft 365 Apps for business</td>
 <td><ul>
-<li>Office 365 Business Premium¹</li>
-<li>Office 365 ProPlus</li>
+<li>Microsoft 365 Business Premium¹</li>
+<li>Microsoft 365 Apps for enterprise</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Business Premium</td>
+<td>Microsoft 365 Business Standard</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Business Essentials</td>
+<td>Microsoft 365 Business Basic</td>
 <td><ul>
-<li>Office 365 Business Premium¹</li>
+<li>Microsoft 365 Business Standard¹</li>
 <li>Office 365 Enterprise E1</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
@@ -78,7 +79,7 @@ ms.locfileid: "82798650"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Business India および Office 365 Business Essentials India は、Office 365 Business Premium ではなく Office 365 Business Premium India にアップグレードできます。</p></td>
+<td><p>¹ Microsoft 365 Apps for business India および Microsoft 365 Business Basic India は、Microsoft 365 Business Standard India にアップグレードできますが、Microsoft 365 Business Standard にはできません。</p></td>
 </tr>
 </tbody>
 </table>
@@ -95,7 +96,7 @@ ms.locfileid: "82798650"
 
 後の 2 つのケースでは、顧客がこれらのサブスクリプションまたはサービスを別のパートナーや別のチャネルから購入している可能性があります。その場合は、まず既存のサブスクリプションまたはサービスをキャンセルしない限り、顧客はこれらを購入できません。 詳しくは、「[マルチチャンネル](multichannel.md)」をご覧ください。
 
-これが課金に及ぼす影響については、「[一般的な課金シナリオ](common-billing-scenarios.md)」で、サブスクリプションをキャンセルして新しいサブスクリプションを追加する方法を確認してください。
+これが請求に及ぼす影響については、[一般的な請求シナリオ](common-billing-scenarios.md)に関するページで、サブスクリプションをキャンセルして新しいサブスクリプションを追加する方法を確認してください。
 
 **サブスクリプションをアップグレードする**
 

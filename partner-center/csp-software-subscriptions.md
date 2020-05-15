@@ -1,7 +1,7 @@
 ---
-title: CSP によるソフトウェア サブスクリプションの販売 |パートナー センター
+title: CSP によるソフトウェア サブスクリプションの販売
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムのパートナーがパートナー センターを使用して、顧客に代わって Azure 予約インスタンスとサーバー サブスクリプションの購入、管理、販売、および取り消しを行う方法について説明します。
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Azure RI, Windows Server, SQL Server, ソフトウェア サブスクリプション, ソフトウェアの取り消し
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 0d251f36c7ab8497b696c4eca2a2797c543e3325
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798430"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907951"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>CSP によるソフトウェア サブスクリプションの販売
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>クラウド ソリューション プロバイダー (CSP) プログラムによりソフトウェア サブスクリプションを販売する
 
 **適用対象**
 
@@ -30,9 +30,9 @@ ms.locfileid: "82798430"
 
 Azure 予約とサーバー サブスクリプション (Windows Server および SQL Server サブスクリプション) を使用すると、CSP プログラムのパートナーは、予測可能性と永続性がきわめて高いクラウド ワークロードをコスト効率に優れたソリューションでサポートしたいという顧客の強い要望に適切に応えることができます。 
 
-Azure ハイブリッド特典を活用することで、パートナー センターや Azure Portal から、企業顧客に代わって Azure 予約とサーバー サブスクリプションを取得、プロビジョニング、および管理できるようになりました。
+Azure ハイブリッド特典を活用することで、パートナー センターや Azure portal から、企業顧客に代わって Azure 予約とサーバー サブスクリプションを取得、プロビジョニング、および管理できるようになりました。
 
-Azure ハイブリッド特典を利用すると、Windows Server ライセンスから得られる価値を拡大し、仮想マシンのコストを最大で 40% 節約できます。 この特典はソフトウェア アシュアランスに含まれており、Windows Server Datacenter および Standard エディションのライセンスで利用できます。 エディションによっては、ライセンスを変換または再利用して、低いベース コンピューティング レート (Linux 仮想マシン レーなどト) で Windows Server 仮想マシンを Azure で実行できます。
+Azure ハイブリッド特典を利用すると、Windows Server ライセンスから得られる価値を拡大し、仮想マシンのコストを最大で 40% 節約できます。 この特典はソフトウェア アシュアランスに含まれており、Windows Server Datacenter および Standard エディションのライセンスで利用できます。 エディションによっては、ライセンスを変換または再利用して、低いベース コンピューティング レート (Linux 仮想マシン レートなど) で Windows Server 仮想マシンを Azure で実行できます。
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure Reservations を利用できない市場
 
@@ -179,7 +179,7 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 
 - 関連するソフトウェア キーとダウンロード リンクがすべて失効します。 つまり、パートナーとパートナーの顧客はこの購入に関連するソフトウェア キーとダウンロード リンクを使用できなくなります。 パートナーとパートナーの顧客は、取り消されたすべてのソフトウェアの使用を中止しなければなりません。 さらに、取り消されたソフトウェアをアンインストールし、関連するソフトウェアのダウンロードやリンクもすべて削除しなければなりません。
 
-- 取り消された項目は顧客のソフトウェアの詳細ページに引き続き表示されますが、アクティブ化キーは入手できなくなります。
+- 取り消された項目は顧客のソフトウェアの詳細ページに引き続き表示されますが、アクティブ化キーは利用できなくなります。
 
 - 次回の月次請求書には、取り消された注文の返金額が表示されます。 永続的ソフトウェアの場合は全額返金され、ソフトウェア サブスクリプションの場合は日割り計算で返金されます。
 

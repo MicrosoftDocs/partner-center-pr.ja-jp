@@ -1,23 +1,24 @@
 ---
-title: Azure プランの価格表 | パートナー センター
+title: CSP パートナー向け Azure プランの価格表
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナー センターで Azure プランのサブスクリプションの価格表を確認する方法を説明します。
+description: CSP プログラム パートナーが、パートナー センターで Azure プランのサブスクリプションの価格表を確認する方法を説明します。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f17dc4cb7e3f52984ce9a1fb7c19d048bb74c47b
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76812644"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908323"
 ---
-# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 向けの CSP の新しいコマース エクスペリエンスの価格表 
+# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 向けの CSP の新しいコマース エクスペリエンスの価格表
 
 **適切なロール**
 
