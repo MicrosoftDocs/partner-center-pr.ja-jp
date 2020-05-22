@@ -1,33 +1,35 @@
 ---
-title: Microsoft Partner Network における請求書と税金 |パートナーセンター
+title: Microsoft Partner Network の請求書 & 税
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: MPN メンバーシップ請求書だけでなく、課税控除のファイルを表示またはダウンロードして、Microsoft の VAT ID 番号を送信する方法について説明します。
+description: MPN メンバーシップ請求書を表示またはダウンロードする方法、課税控除のファイル方法、および Microsoft の VAT ID 番号を送信する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN、請求書、マップ、課税控除、VAT、VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004261"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795941"
 ---
-# <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft Partner Network の請求書と税金
+# <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft Partner Network の請求と税金
 
 **適用対象**
 
--  パートナー センター
+- パートナー センター
 
 **適切なロール**
--   グローバル管理
--   ユーザー管理者
--   MPN パートナー管理者
--   課金の管理
--   管理エージェント
+
+- グローバル管理者
+- ユーザー管理者
+- MPN パートナー管理者
+- 課金管理者
+- 管理エージェント
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>MPN メンバーシップ請求書を表示またはダウンロードする
 
@@ -35,28 +37,28 @@ ms.locfileid: "75004261"
 
 この手順を実行するには、全体管理者または MPN パートナー管理者である必要があります。 
 
-1.  職場のアカウントを使用して[パートナーセンター](https://partner.microsoft.com/dashboard/home)にサインインし、左側のメニューで **[MPN]** を選択します。
+1.  職場のアカウントを使用して[パートナーセンター](https://partner.microsoft.com/dashboard/home)にサインインし、左側のメニューで [ **MPN** ] を選択します。
 
-4.  ドロップダウンリストで、 **[メンバーシップの提供]** を選択して、購入可能なプランと、加入契約の現在の年度で利用可能な請求書を確認します。 過去数年間の請求書を表示するには、 **[期限切れ]** を選択します。
+4.  ドロップダウンリストで、[**メンバーシップの提供**] を選択して、購入可能なプランと、加入契約の現在の年度で利用可能な請求書を確認します。 過去数年間の請求書を表示するには、 **[期限切れ]** を選択します。
 
-6.  目的の請求書を選択し、 **[請求書のダウンロード]** を選択します。 
+6.  目的の請求書を選択し、[**請求書のダウンロード**] を選択します。 
 
 ## <a name="file-a-tax-exemption"></a>税金の除外を申告する
 
-1.  パートナーセンターで、 **[設定]** を選択します。
-    - MPN ID を検索するには、 **[パートナープロファイル]** を選択します。
+1.  パートナーセンターで、[**設定**] を選択します。
+    - MPN ID を検索するには、[**パートナープロファイル**] を選択します。
 
-2.  新しいサポート チケットを作成します。 パートナーセンターで、 **[サービス要求]** を選択し、 **[パートナーセンターの要求]** を選択して、 **[新しい要求]** を選択します。
+2.  新しいサポート チケットを作成します。 パートナーセンターで、[**サービス要求**] を選択し、[**パートナーセンターの要求**] を選択して、[**新しい要求**] を選択します。
 
-3.  フォームに記入します。 **問題の種類**については、 **[プロファイルを管理できません]** を選択します。 [説明] に、MPN ID を含めます。
+3.  フォームに入力します。 **問題の種類**については、[**プロファイルを管理できません**] を選択します。 [説明] に、MPN ID を含めます。
 
 4.  チケットを提出すると、マイクロソフトが詳細情報をメールで送ります。 返信する際に、貴社の税金除外証明書の適切な関連書類を添付します。
 
 ## <a name="send-microsoft-your-vat-id-number"></a>VAT ID 番号をマイクロソフトに送信する
 
-1.  パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard/home)で、 **[メンバーシップの提供]** を選択し、 **[利用可能]** を選択します。 
+1.  パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard/home)で、[**メンバーシップの提供**] を選択し、[**利用可能**] を選択します。 
 
-2.  **[VAT ID の追加]** を選択します。 
+2.  [ **VAT ID の追加**] を選択します。 
 
-3.  会社の VAT ID を入力し、 **[追加]** を選択して、 **[次へ]** を選択します。 
+3.  会社の VAT ID を入力し、[**追加**] を選択して、[**次へ**] を選択します。 
 

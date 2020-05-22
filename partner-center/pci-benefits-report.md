@@ -1,27 +1,28 @@
 ---
-title: パートナーセンターの洞察-特典レポート |パートナーセンター
+title: パートナーセンターの洞察の特典レポート
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: お客様のビジネスを成長させ、効率性を向上し、チームのスキルを強化するために、どのような種類の Microsoft パートナー特典が付与されているかをご確認ください。
+description: お客様のビジネスを成長させ、効率性を向上し、チームのスキルを強化するために付与された Microsoft パートナーの特典の種類をご確認ください。
 ms.assetid: ''
 keywords: PCI、パフォーマンス、測定、利点、分析、レポート
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226198"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795722"
 ---
-# <a name="benefits-report"></a>特典レポート
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから利用可能な特典レポート
 
 **適切なロール**
-- 全体管理者
+
+- グローバル管理者
 - 管理エージェント
 - レポート ビューア
 - エグゼクティブレポートビューアー
@@ -32,17 +33,17 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 
 特典レポートでは、次のグラフを視覚化できます。
 
-- 概要
+- 要約
 - 付与されたクラウドサービス
 - ソフトウェア製品
 - Visual Studio サブスクリプション
-- 技術的な利点
+- 技術上のメリット
 - 市場進出
 
  > [!NOTE]
  > このレポートは、Partner Center Insights (PCI) ダッシュボードから入手できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポートビューアー、エグゼクティブレポートビューアーなど、パートナーセンターの特定のロールが割り当てられている必要があります。 詳細については、会社のグローバル管理者に問い合わせてください。このレポートの特定の種類のデータは、エグゼクティブレポートビューアーの特権を持つユーザーのみが使用できる場合もあります。
 
-**要約**
+**まとめ**
 
 [概要] セクションには、ライセンスされたソフトウェア、cloud services (非 Azure)、Visual Studio サブスクリプション、テクニカルサポート、および特定のマーケットプレースサービスまたはプランの観点から付与された特典が示されています。
 
@@ -53,7 +54,7 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 **付与されたクラウドサービス**
 
 このグラフは、選択したクラウドサービスのライセンスベースのサブスクリプションについて、選択した日付範囲内に付与されたライセンスの月ごとの傾向を示します。
-**[サービス]** タブからクラウドサービスを選択して、特定のクラウドサービスのグラフを表示します。 折れ線グラフは、会社に付与されているライセンス全体を表します。
+[**サービス**] タブからクラウドサービスを選択して、特定のクラウドサービスのグラフを表示します。 折れ線グラフは、会社に付与されているライセンス全体を表します。
 
 ![付与されたクラウドサービス](images/pci/pci_benefits_cloud_services_granted_3.png)
 
@@ -71,7 +72,7 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 
 ![Visual Studio サブスクリプション](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
 
-**技術的な利点**
+**技術上のベネフィット**
 
 このグラフは、選択した日付範囲内に付与されたサポート特典の月ごとの傾向を示します。
 
@@ -86,3 +87,7 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 グラフの上部にあるドロップダウンリストから [マーケットプレース] プランまたはサービスカテゴリを選択すると、会社に付与されている、選択したマーケットプレースサービスの傾向が表示されます。 グラフの列は、マーケットプレースプランまたはアクティブ化されたサービスを表します。 折れ線グラフは、会社に付与されている市場開拓キャンペーンやサービスを表します。
 
 ![市場開拓プラン](images/pci/pci_benefits_go_to_market_7.png)
+
+## <a name="next-steps"></a>次のステップ
+
+- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

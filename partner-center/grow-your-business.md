@@ -1,7 +1,7 @@
 ---
-title: Microsoft パートナー ビジネスの拡大 | パートナー センター
+title: Microsoft パートナー ビジネスの拡大
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft パートナービジネスの成長に関するリソースについて説明します。 これには、Microsoft から販売潜在顧客 (参照) を取得する方法が含まれます。
@@ -9,14 +9,15 @@ keywords: 紹介案件, 紹介案件への対応, 潜在顧客, 見込み情報,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd43f16a9362faeb105591e57be35f9cb0441479
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f221c34ea22eb200bbcf90c5a82beeb51ec3eaae
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798040"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795809"
 ---
-# <a name="grow-your-microsoft-partner-business"></a>Microsoft パートナー ビジネスの拡大 
+# <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Microsoft パートナービジネスの成長-潜在顧客を獲得して会社を & 設定する方法について説明します
 
 Microsoft では、パートナー ビジネスを拡大するために役立つ多くのリソースを用意しています。 Microsoft パートナー センター (このサイト) の機能が新しい顧客の獲得と収益の拡大にどのように役立つかについて説明します。
 
@@ -42,5 +43,5 @@ Microsoft では、パートナー ビジネスを拡大するために役立つ
 | 販売対象市場を追加する | クラウド ソリューション プロバイダー販売チャネルは、多数の国や地域で利用可能です。 一覧については、[クラウド ソリューション プロバイダーの市場](agreements.md)のページをご覧ください。 クラウド ソリューション プロバイダー チャネルの概要については、[クラウド ソリューション プロバイダーの概要](csp-overview.md)ページをご覧ください。  | CSP パートナー |
 非営利組織および教育機関などの特殊な業界向けに販売する|[特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)|CSP パートナー|
 |協力インセンティブ プログラムで利用できる多くのアクティビティを通じてビジネスを拡大する。 パートナー センターを使ってアクティビティの申請を行う。| [インセンティブの申請の作成と管理](create-incentives-claims.md)|CSP パートナー|
-|商用マーケットプレース製品にサブスクリプションを販売する|[過小購入および CSP コマーシャルの marketplace アクティビティ](csp-commercial-marketplace-overview.md)|CSP パートナー|
+|商用マーケットプレース製品にサブスクリプションを販売する|[CSP コマーシャルの marketplace アクティビティについて](csp-commercial-marketplace-overview.md)|CSP パートナー|
 |貴社が Azure の販売や管理で際立った業績を上げている場合。 Azure Expert Microsoft サービス プロバイダー プログラムへの登録に応募する|[Azure Expert Microsoft サービス プロバイダー プログラム](azure-expert-msp.md)|CSP パートナー|

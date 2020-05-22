@@ -1,22 +1,23 @@
 ---
-title: 複数の会社を PMC からパートナー センターに移行するためのガイド
+title: PMC からパートナーセンターへの会社の移行
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 複数の企業を PMC からパートナーセンターに移行し、パートナーのグローバルアカウントに統合する場合の注意事項。
+description: パートナーメンバーシップセンター (PMC) からパートナーセンターに複数の企業を移行し、パートナーのグローバルアカウントに統合する場合の注意事項。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
-ms.openlocfilehash: 16aa2de0eab173c31c0efd5f94b6bab41b2c70d2
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362750"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795782"
 ---
-# <a name="moving-your-multiple-companies-to-partner-center"></a>複数の会社をパートナー センターに移動する
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>パートナーメンバーシップセンターからの複数の企業のパートナーセンターへの移行 (PMC)
 
 **適切なロール**
 
@@ -85,7 +86,7 @@ ms.locfileid: "83362750"
 
 プロファイルを表示すると、法的ビジネス (PMC では本社) の情報とその他のすべての場所に関する情報が表示されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [PMC からパートナー センターに移動する](move-pmc-pc-map.md)
 - [ユーザー アカウントの作成](create-user-accounts-and-set-permissions.md)

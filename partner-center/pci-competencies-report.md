@@ -1,27 +1,27 @@
 ---
-title: パートナーセンターの洞察-コンピテンシーレポート |パートナーセンター
+title: パートナーセンターの Insights コンピテンシーレポート
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft のソリューションを提供するうえで役立つ Microsoft のコンピテンシー、コンピテンシーレベル、およびプランに関して、お客様が何をしているかをご確認ください。
 ms.assetid: ''
 keywords: PCI、パフォーマンス、測定、お客様の成功、コンピテンシー、利点、分析、レポート
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226188"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795648"
 ---
-# <a name="competencies-report"></a>コンピテンシーレポート
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能なコンピテンシーレポート
 
 **適切なロール**
-- 全体管理者
+- グローバル管理者
 - 管理エージェント
 - レポート ビューア
 - エグゼクティブレポートビューアー
@@ -43,7 +43,7 @@ ms.locfileid: "80226188"
 
 コンピテンシーレポートでは、次のセクションを確認できます。
 
-- 概要
+- 要約
 - コンピテンシーメトリック分析
 - コンピテンシーの履歴
 
@@ -86,3 +86,6 @@ ms.locfileid: "80226188"
 
 ![コンピテンシーの履歴](images/pci/pci_competencies_comp_history_3.png)
 
+## <a name="next-steps"></a>次のステップ
+
+- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

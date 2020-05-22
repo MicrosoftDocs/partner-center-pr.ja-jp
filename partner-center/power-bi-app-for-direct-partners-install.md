@@ -1,20 +1,21 @@
 ---
-title: Power BI 用パートナー センター分析アプリをインストールしてプレビューする | パートナー センター
+title: Power BI 用のパートナーセンター分析のインストール
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 次の手順に従って、Power BI 用のパートナーセンター分析アプリ (CSP の直接パートナー向け) をインストールしてプレビューします。
+description: この記事の手順に従って、Power BI 用のパートナーセンター分析アプリ (CSP のダイレクトパートナー向け) をインストールしてプレビューします。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cd328ce8afed02af377a94b40fcf75125b008d1f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e8a8558bad11f641737507f4d76405e9825df516
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004971"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795874"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Power BI 用パートナー センター分析アプリをインストールしてプレビューする
 
@@ -23,7 +24,7 @@ ms.locfileid: "75004971"
 - パートナー センター
 
 **適切なロール**
--   グローバル管理
+-   グローバル管理者
 -   ユーザー管理者
 -   販売代理店
 -   管理エージェント
@@ -53,16 +54,16 @@ ms.locfileid: "75004971"
 
 2. **[アカウントを既にお持ちの場合]** の下で **[サインイン]** を選びます。 
 
-3. 次のページで Power BI のユーザー名とパスワードを入力し、 **[サインイン]** を選びます。 
+3. 次のページで Power BI のユーザー名とパスワードを入力し、**[サインイン]** を選びます。 
 
-4. **[Partner Center Analytics への接続]** ポップアップウィンドウで、 **[認証方法]** が **[oAuth2]** に設定されていることを確認するか、表示されていない場合は一覧から**oAuth2**を選択します。 
+4. [ **Partner Center Analytics への接続**] ポップアップウィンドウで、[**認証方法**] が [ **oAuth2** ] に設定されていることを確認するか、表示されていない場合は一覧から**oAuth2**を選択します。 
 
 > [!NOTE]  
 >  このウィンドウが表示されるまでに数分間かかることがあります。
 
-5. **[Partner Center Analytics コネクタ]** ページで、会社の Azure AD テナントのグローバル管理者、管理エージェント、または課金管理者の資格情報を使用してサインインし、 **[サインイン]** を選択します。
+5. [ **Partner Center Analytics コネクタ**] ページで、会社の Azure AD テナントのグローバル管理者、管理エージェント、または課金管理者の資格情報を使用してサインインし、[**サインイン**] を選択します。
  
-6. アクセスするかどうかを尋ねられたら、 **[同意する]** を選びます。 
+6. アクセスするかどうかを尋ねられたら、**[同意する]** を選びます。 
 
 パートナー センターの分析サービスが Power BI に接続されると、データの読み込みが開始します。 データ量によっては、この読み込みに最大 10 分間かかります。 
 

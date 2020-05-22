@@ -1,20 +1,21 @@
 ---
 title: Microsoft のプランで市場に投入する方法について説明します
 ms.topic: article
-ms.date: 03/16/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft による市場投入までの時間を短縮し、潜在顧客を生み出し、ビジネスを拡大するのに役立つ情報を提供します。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: MPN, メンバーシップ特典, メンバーシップ, マーケットトゥマーケットプラン, Microsoft との市場投入, マーケットへの移行, ゴールドメンバーシップ, シルバーメンバーシップ
 ms.localizationpriority: medium
-ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362720"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795826"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft のプランで市場を開拓する
 
@@ -83,7 +84,7 @@ Microsoft Partner Network メンバーになったときに、ビジネスの構
 >[!IMPORTANT]
 >特定の市場開拓プランをアクティブ化し、関連するマーケティング連絡先を割り当てるには、全体管理者または MPN パートナー管理者である必要があります。 必要に応じて、[ **[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) で、次の手順に従って全体管理者になることができます。 会社に既に全体管理者がいる場合があるため、必ずチームで確認してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [パートナーのネットワーク特典を管理する](manage-your-partner-network-benefits.md)
 

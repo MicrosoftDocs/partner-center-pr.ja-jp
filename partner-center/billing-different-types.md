@@ -1,7 +1,7 @@
 ---
-title: パートナーセンターでの課金の種類 |パートナーセンター
+title: パートナー センターでの請求の種類
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナーセンターに表示されるさまざまな課金の種類、請求期間、請求日について説明します。
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 請求, 支払い,注文,調整ファイル, recon ファイル
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 78199085c0ed56f55974cd4465ac3480f35c7761
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798590"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794982"
 ---
-# <a name="types-of-billing-in-partner-center"></a>パートナー センターでの請求の種類
+# <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>パートナーセンターでの課金の種類-ライセンスベース、使用量ベース、および1回限りの課金を含みます。
 
 **適用対象**
 

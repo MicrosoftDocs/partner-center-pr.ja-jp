@@ -1,8 +1,8 @@
 ---
-title: 顧客が個人でサービスを購入するためのアクセス許可を付与する
-description: CSP プログラムパートナーが、お客様が購入したサブスクリプションに対して Azure の予約などの独自のサービスを購入できるようにする方法について説明します。
+title: お客様が独自のサービスを CSP で購入できるようにする
+description: CSP プログラムパートナーが、パートナーセンターで購入したサブスクリプションに対して、Azure の予約などの独自のサービスを購入できるようにする方法について説明します。
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,14 +10,14 @@ ms.author: labrenne
 Keywords: サブスクリプション、セルフサービス型購入、セルフサービス RI、有効化 ri、無効化 RI、セルフサービス、顧客購入、カスタマーアクセス許可、顧客購入予約インスタンス、顧客購入 Azure 予約、セルフサービスの有効化、セルフサービスの無効化
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394130"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795116"
 ---
-# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>顧客が自分の製品またはサービスを購入するためのアクセス許可を付与する方法
+# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>パートナーセンターで自分の製品またはサービスを購入するためのアクセス許可を顧客に付与する
 
 **適用対象**
 

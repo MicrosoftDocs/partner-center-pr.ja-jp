@@ -1,24 +1,24 @@
 ---
-title: 間接リセラーのパフォーマンス分析 | パートナー センター
-ms.date: 11/13/2019
+title: 間接リセラーのパフォーマンス分析
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 分析を使用して間接リセラーがどのように実行されているかを確認する方法について説明します。成功と領域の両方で、さらに注意が必要な場合もあります。
+Description: 分析を使用して、間接リセラーがどのように実行されているかを確認します。成功と領域の両方で、さらに注意が必要になる場合があります。
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 9990cc72726803045806b88439fed54f9c9d07a2
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 72064e3847d30b3049649269618256638b2fe4d8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722376"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794942"
 ---
-# <a name="analyze-indirect-resellers-performance"></a>間接リセラーのパフォーマンス分析 
+# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>分析を使用して間接リセラーのパフォーマンスを分析する
 
 **適用対象**
 
@@ -27,8 +27,8 @@ ms.locfileid: "74722376"
 
 **適切なロール**
 
-- グローバル管理
-- ユーザー管理者
+- グローバル管理者
+- ユーザー管理の管理者
 - 管理エージェント
 - 販売代理店
 
@@ -39,7 +39,7 @@ ms.locfileid: "74722376"
 
 次のメトリックを追跡しています。
 
-**要約**  
+**まとめ**  
  - **Total resellers** (リセラーの合計数): サブスクリプションの最終日にアクティブなリセラーの数  
  - **New resellers** (新規リセラー数): 指定した期間の新規間接リセラーの数  
  - **Active resellers** (アクティブなリセラー数): MPNID に 1 つ以上のサブスクリプションがあり、サブスクリプションの状態がプロビジョニング解除ではない間接リセラーの数  
@@ -57,7 +57,7 @@ ms.locfileid: "74722376"
  - **Microsoft 365**: Microsoft 365 サブスクリプションの販売数  
  - **Office 365**: サブスクリプションの販売数で並べ替えられた Office 365 製品  
 
-**新規サブスクリプション**  
+**新しいサブスクリプション**  
  - 日付ごとの追加された新規サブスクリプションの数  
 
 **サブスクリプションのチャーン**  

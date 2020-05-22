@@ -1,23 +1,23 @@
 ---
-title: 潜在顧客の管理 |パートナーセンター
+title: リードの管理
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 紹介に応答し、新規、既存、アーカイブされた紹介を管理し、今後より多くの参照を取得する方法について説明します。
-author: vikramb
-ms.author: vikramb
+description: パートナーセンターを使用して、紹介に応答し、新規、既存、アーカイブされた潜在顧客と紹介を管理します。 今後、より多くの参照を取得する方法についても説明します。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 紹介、共同販売、商談
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c0fb22047664ef814d4fbc8eeb45e1ce1df51b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919849"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796024"
 ---
-# <a name="manage-leads"></a>潜在顧客の管理
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>顧客の問い合わせ、マーケティングによって修飾された潜在顧客、販売の見込み客などのさまざまな潜在顧客を管理します
 
 **適用対象**
 

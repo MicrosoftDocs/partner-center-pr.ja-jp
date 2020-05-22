@@ -1,20 +1,21 @@
 ---
-title: Power BI 用パートナー センター分析アプリ | パートナー センター
+title: Power BI にパートナーセンター分析を使用する
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Power BI 用パートナー センター分析アプリ (CSP の直接パートナー向け) の使用方法を説明します。
+description: Power BI 用のパートナーセンター分析アプリ (CSP のダイレクトパートナー向け) を使用してビジネスデータを表示する方法について説明します。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bb5bb017e6f61b91020d4242228da3713e9ce4f8
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 684ddb00a0497e01fc0fff318000c4b17dd0ea53
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362380"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795858"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI 用パートナー センター分析アプリでビジネス データを表示する
 
@@ -163,7 +164,7 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 - **選択した期間の Azure リソースの推定使用コスト**: 過去60日以内に選択された期間の各使用量ベースのサブスクリプションで、各従量制課金リソースの最新のレートカードに基づく推定コスト。 
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Power BI 用パートナー センター分析アプリの概要](power-bi-app-for-direct-partners.md)
 

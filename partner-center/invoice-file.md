@@ -1,27 +1,29 @@
 ---
-title: 請求書ファイル |パートナーセンター
+title: 請求書のフィールドを理解する
 ms.topic: article
-ms.date: 08/26/2019
+ms.date: 05/18/2020
 description: パートナーセンターの請求書ファイルのフィールドを理解します。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 keywords: 請求、請求書
 ms.localizationpriority: medium
-ms.openlocfilehash: bcbb784ceda9e4b8cbddf61e0b5380ad18d3f264
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f546174ee80c90695ec11f09e9cd1d5fdd4c4e46
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798900"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794860"
 ---
-# <a name="invoice-files"></a>請求書ファイル
+# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>パートナーセンターの課金請求書-請求と1回限りの料金フィールドを確認する方法について説明します。
 
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   課金管理者
--   ヘルプデスク エージェント
+
+- グローバル管理者
+- ユーザー管理者
+- 課金管理者
+- ヘルプデスク エージェント
 
 次の表を使用して、パートナーセンターの請求書ファイルのフィールドを理解することができます。
 

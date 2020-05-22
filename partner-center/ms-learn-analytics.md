@@ -1,24 +1,25 @@
 ---
-title: Microsoft Learn analytics |パートナーセンター
+title: Microsoft Learn 分析
 ms.topic: article
-ms.date: 07/05/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 個々のトレーニング、完成したモジュール、完成したラーニングパスなどのデータを活用して、会社の学習器を追跡します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005111"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795931"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Microsoft Learn analytics レポート
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn analytics レポートには、社内の学習者の状態が表示されます。
 
 **適切なロール**
--   グローバル管理
+-   グローバル管理者
 -   MPN パートナー管理者
 
 Microsoft Learn レポートには、完了したモジュールとその学習パスを含む、会社の学習器に関する情報が表示されます。 このレポートには、個々の学習器の状態が表示されます。 会社のグローバル管理者と MPN admin は、データを表示できます。
@@ -110,7 +111,7 @@ Microsoft Learn は、ユーザーオブジェクト ID を使用して学習器
 
 2. Graph Explorer で[強調表示](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f)されている領域にユーザーオブジェクト ID をコピーします。 
 
-## <a name="faq"></a>FAQ
+## <a name="faq"></a>よく寄せられる質問
 
 1. 会社の学習の詳細が表示されません。
 
@@ -124,7 +125,7 @@ Microsoft Learn は、ユーザーオブジェクト ID を使用して学習器
 
 全体管理者が新しいユーザーを追加した後、そのユーザーは**自分のプロファイル**にアクセスして Microsoft Learn アカウントを関連付ける必要があります。
 
-- ダッシュボードの右上隅にある**自分のアカウント**アイコンを選択し、 **[マイプロファイル]** を選択します。 
+- ダッシュボードの右上隅にある**自分のアカウント**アイコンを選択し、[**マイプロファイル**] を選択します。 
 
 -  **ラーニング**では、ユーザーは自分の Microsoft learning アカウントに関連付けて、パートナーの大学に Microsoft アカウントを接続することができます。
 

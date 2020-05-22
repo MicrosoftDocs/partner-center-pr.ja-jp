@@ -1,39 +1,42 @@
 ---
-title: Marketplace の "排他" プラン |パートナーセンター
+title: Isv の Marketplace 限定プラン
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ISV は、プランを排他的にすることで、使用する CSP パートナーを選択できます。
+description: 独立系ソフトウェアベンダー (ISV) が特定の提供を限定し、特定の CSP パートナーだけが使用できるようにする方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b3a3edb1a6c74ae0bddb8669ef6d81e0a24a34e4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123263"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794838"
 ---
-# <a name="marketplace-exclusive-offers"></a>Marketplace 限定プラン
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>独立系ソフトウェアベンダーからの Marketplace 限定プラン
 
 **適切なロール**
--    全体管理者
--    ユーザー管理者
--    管理エージェント
--    販売代理店
 
-Isv は、選択された数の CSP パートナーがプランを利用できるようにするオプションを備えています。 すべての CSP パートナーは、パートナーセンターマーケットプレース内のすべての ISV プランを表示できますが、[排他] とマークされたプランは、ISV が選択したパートナーによってのみ購入できます。 プランが "排他的" と示されていない場合は、すべてのパートナーが購入できます。
+- グローバル管理者
+- ユーザー管理者
+- 管理エージェント
+- 販売代理店
 
-Isv によって識別される CSP パートナーは、次のことが可能です。
+独立系ソフトウェアベンダー (ISV) には、特定の CSP パートナーのみが利用できる限定プランを作成するオプションがあります。
 
-- パートナーセンターマーケットプレースを通じて限定プランを購入する
+CSP パートナーは、パートナーセンターのコマーシャルマーケットプレースで、すべての ISV プランを表示できます。 ただし、**排他**とマークされたオファーは、ISV によって選択された特定のパートナーだけが購入できます。 プランが**排他**とマークされていない場合は、すべてのパートナーがそのプランを購入できます。
+
+ISV によって識別される特定の CSP パートナーは、次のことができます。
+
+- パートナーセンターのコマーシャルマーケットプレースを通じて、その ISV から専用プランを購入する
 - 価格表のエクスポート
 
 ## <a name="how-do-you-gain-access-to-exclusive-offers"></a>専用プランにアクセスするにはどうすればよいですか?
 
-ISV が Marketplace でプランを発行すると、購入者を示すことができます。 
+ISV が Marketplace でプランを発行すると、購入者を示すことができます。
 
 そのオプションは次のとおりです。
 
@@ -41,6 +44,8 @@ ISV が Marketplace でプランを発行すると、購入者を示すことが
 - 購入できるパートナーを決定する
 - CSP パートナーは使用できません
 
-Marketplace での ISV エクスペリエンスの詳細については、[クラウドソリューションプロバイダー](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)に関するページを参照してください。
+## <a name="next-steps"></a>次のステップ
 
-Marketplace の詳細については、「[クラウドソリューションプロバイダーのコマーシャルマーケットプレースの概要」](csp-commercial-marketplace-overview.md)を参照してください。
+- 商用マーケットプレースの ISV エクスペリエンスの詳細については、[クラウドソリューションプロバイダー](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)に関するページを参照してください。
+
+- 商用マーケットプレースの詳細については、「[クラウドソリューションプロバイダーのコマーシャルマーケットプレースの概要」](csp-commercial-marketplace-overview.md)を参照してください。

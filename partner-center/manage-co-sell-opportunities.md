@@ -1,30 +1,30 @@
 ---
-title: 共同販売の機会を管理する |パートナーセンター
+title: 共同販売の機会を管理する
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft の認定パートナーとして、Microsoft との共同販売を行うことができます。 取引を定義する方法、Microsoft に招待して共同作業を行う方法、または送信された取引を表示する方法を説明します。
-author: vikramb
-ms.author: vikramb
+author: LauraBrenner
+ms.author: labrenne
 keywords: 紹介、共同販売、商談
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7732d1d6b65d90370c06f1a65a29a291915693d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: da10d8e9de254eb3af9450df171b5ae1153ce4bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919839"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796032"
 ---
-# <a name="manage-co-sell-opportunities"></a>共同販売の機会を管理する
+# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>パートナーセンターで共同販売の機会を管理して、顧客のニーズに合わせて取引を定義する
 
 **適用対象**
 
--  パートナー センター
--  紹介
--  Microsoft と共同販売する
--  取引の共有
+- パートナー センター
+- 紹介
+- Microsoft と共同販売する
+- 取引の共有
 
 **適切なロール**
 

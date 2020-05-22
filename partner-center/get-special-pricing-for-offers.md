@@ -1,7 +1,7 @@
 ---
 title: 特別価格の対象となる業界への販売
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 教育機関のお客様、非営利顧客、政府ユーザーなど、特定の顧客グループ向けの特別で低価格の価格について説明します。
@@ -9,14 +9,15 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e22a4e89de9ec67c6e42659275a038128d521e47
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 00b4dc172c4c39fe73f1118d2eb3a56555eaa464
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362600"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795092"
 ---
-# <a name="sell-to-specialized-industries"></a>特別価格の対象となる業界への販売
+# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>教育、非営利団体、政府機関のユーザーなどの特別な業界への販売
 
 **適用対象**
 
@@ -60,7 +61,7 @@ ms.locfileid: "83362600"
 
 リセラーと顧客の両方が特価プラン プログラムの資格条件を満たしている場合は、手順に従って[サブスクリプションを追加](create-a-new-subscription.md)します。 **[新しいサブスクリプション]** ページの **[カタログ]** セクションで、特化している業界を選択して、販売できる特別価格を確認します。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Minecraft の販売: 教育機関のお客様へのサブスクリプション](minecraft-subscriptions.md)
 

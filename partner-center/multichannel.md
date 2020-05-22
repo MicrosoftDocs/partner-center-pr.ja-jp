@@ -1,22 +1,23 @@
 ---
-title: パートナーセンターでマルチチャネルオプションを使用する
+title: 顧客向けのマルチチャネルサポート
 description: 場合によっては、他の場所で購入したサブスクリプションをプロビジョニングし、サポートすることをお客様にお勧めします。
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e96b7cb91915c6ccbc6485fde87b1e061a73e2da
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 48eaf38150ff5be68d324b9456fb5a446b4127b2
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362700"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795893"
 ---
-# <a name="multi-channel-support"></a>マルチチャンネルのサポート
+# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>マルチチャネルサポート-他のパートナーを使用して、他のユーザーが購入した顧客サブスクリプションをサポートする
 
 **適用対象**
 
@@ -43,7 +44,7 @@ ms.locfileid: "83362700"
 > [!IMPORTANT]  
 > 現在、CSP パートナーが別の CSP パートナーにオンライン サービスを再販することはできません。 マイクロソフトでは、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースに関するすべての情報は、パートナー センターなど、通常の伝達方法でお知らせします。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 [他のパートナーとの連携](work-with-other-partners.md)
 

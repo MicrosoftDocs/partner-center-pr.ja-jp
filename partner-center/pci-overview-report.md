@@ -1,35 +1,35 @@
 ---
-title: パートナーセンターの洞察-概要ダッシュボード |パートナーセンター
+title: パートナーセンターの Insights の概要ダッシュボード
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: お客様が何をしているか、そしてお客様の売上とデプロイに関して改善できる場所を正確に確認できます
+description: ライセンス、サブスクリプション、および Azure の消費量を使用した販売とデプロイ、顧客の成長、および収益の増加に関するスナップショットをご覧ください。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI、パフォーマンス、お客様の成功、測定、
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 420fb8e6bd7fefcd360dcd0b98bd4885f4d9da38
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631873"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795701"
 ---
-# <a name="overview-dashboard-reports"></a>ダッシュボードレポートの概要 
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>パートナーセンターの洞察で利用できる概要ダッシュボードレポート
  
 パートナーセンターの [概要] ダッシュボードには、顧客、サブスクリプション、Azure の消費収益、ライセンスなどの主要業績評価指標のスナップショットビューが表示されます。概要レポートでは、次のグラフを視覚化できます。 
 
-- 概要  
+- 要約  
 - 顧客、サブスクリプション、ライセンスの地理的拡散  
 - 顧客成長傾向 
 - サブスクリプションの増加傾向 
 - Azure で消費された収益成長傾向 
 - ライセンスの増加傾向 
 
-**要約**
+**まとめ**
 
 - 顧客: 少なくとも1つのアクティブなサブスクリプションがあるすべての顧客の現在の数。すべてのクラウド製品で異なる種類の属性によって、会社が関連付けられています。 
 - 選択した日付範囲内の顧客の成長率 
@@ -83,6 +83,6 @@ ms.locfileid: "75631873"
 
 ![ライセンス](images/pci/licensesgrowth.png)
 
-### <a name="learn-more"></a>詳細
+## <a name="next-steps"></a>次のステップ
 
-その他のパートナーセンターの Insights のダッシュボードとレポートのトピックについては、「[パートナーセンターの洞察](partner-center-insights.md)」を参照してください。
+- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

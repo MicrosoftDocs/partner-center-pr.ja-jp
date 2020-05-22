@@ -1,31 +1,31 @@
 ---
-title: ライセンスベースの課金 |パートナーセンター
+title: ライセンス ベースの課金
 ms.topic: article
-ms.date: 11/21/2019
-Description: パートナーセンターでのライセンスベースの課金に関する情報 (ライセンスの使用法ではなく、ライセンスごとに請求されます)。
+ms.date: 05/18/2020
+Description: ライセンスベースの課金とパートナーセンターの使用量ベースの課金との違いについて説明します (ライセンスの使用法ではなく、ライセンスごとの請求方法など)。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 請求、支払い、ライセンスベース、ライセンス
 ms.localizationpriority: medium
-ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2de61f21f28a3ce343edc68035d836a74f98870d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798890"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795795"
 ---
-# <a name="license-based-billing"></a>ライセンス ベースの課金
+# <a name="license-based-billing-in-partner-center"></a>パートナーセンターでのライセンスベースの課金
 
 **適用対象**
 
 - パートナー センター
 - CSP プログラムのパートナー
 
-**適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   課金管理者
--   管理エージェント
+**適切なロール**-全体管理者
+- ユーザー管理者
+- 課金管理者
+- 管理エージェント
 
 **ライセンス**を必要とする製品またはオンラインサービスをパートナーセンターで購入すると、購入した*各ライセンスに対して*課金されます。 これらのライセンスの使用によって*課金されることはありません*。 (使用量ベースの課金とその他の課金の種類の詳細については、「[パートナーセンターでの課金の種類](billing-different-types.md)」を参照してください)。
 
@@ -56,4 +56,14 @@ ms.locfileid: "82798890"
 
 ## <a name="license-renewal"></a>ライセンスの更新
 
-ライセンス ベースのすべてのサブスクリプションは、有料期間が開始してから 12 か月後に自動更新されます。
+すべてのライセンスベースのサブスクリプションは、autorenew が開始されてから12か月後に終了します。
+
+## <a name="next-steps"></a>次のステップ
+
+- [パートナー センターでの請求の概要](billing-basics.md)
+
+- [パートナー センターでの請求の種類](billing-different-types.md)
+
+- [月単位の請求と年単位の請求の違い](billing-annual-monthly.md)
+
+- [主要な請求と税金の記事](billing.md)

@@ -1,23 +1,24 @@
 ---
-title: 顧客アカウントに複数のユーザーを作成する | パートナー センター
+title: 顧客アカウントに複数のユーザーを追加する
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: コンマ区切り値ファイル形式 (.csv) のデータファイルをパートナーセンターにアップロードすることで、顧客のアカウントに複数のユーザーを一度に追加する方法について説明します。
+description: 顧客のアカウントに複数のユーザーを一度に追加する方法について説明します。 コンマ区切り値 (.csv) ファイル形式を使用して、パートナーセンターにデータファイルをアップロードします。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: 一括アップロード, 顧客アカウントへの複数ユーザーの追加, 顧客のユーザーの追加, 顧客のユーザーの一括アップロード, 顧客アカウント, 顧客のユーザー, ユーザー
 ms.localizationpriority: medium
-ms.openlocfilehash: 36130f268c9d33217ef3473136ec511f374fb583
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1929eb7eee7f23de6ae6e8dcd343d38fe2414f6f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798630"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794900"
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>顧客アカウントへの複数ユーザーの追加
+# <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>顧客アカウントに複数のユーザーを追加する-パートナーセンターにデータファイルをアップロードする
 
 **適用対象**
 
@@ -46,7 +47,7 @@ ms.locfileid: "82798630"
 | **列名** | **説明**                                                              | **制限事項**                             |
 | 名      | ユーザーの名 (オプションフィールド)                                           | 50 字以内                         |
 | 姓       | ユーザーの姓 (省略可能なフィールド)                                            | 50 字以内                         |
-| Display name    | パートナー センターで表示される名前 (必須フィールド)                            | 50 字以内                         |
+| 表示名    | パートナー センターで表示される名前 (必須フィールド)                            | 50 字以内                         |
 | 電子メール           | 顧客会社のユーザーの勤務先の電子メールアドレス (必須フィールド)           | 各ユーザーに一意の電子メール アドレスが必要 |
 | 状態の更新   | 新しいユーザー レコードが正常に作成されたかどうかを示すために使用される | \*\*空白のままにする\*\*                        |
 
@@ -68,7 +69,7 @@ ms.locfileid: "82798630"
 
 7. **[検証]** を選択します。
 
-    **メモ**  ほとんどのアカウント作成エラーは、データファイルの問題 (情報の不足、電子メールアドレスの形式の誤り、またはファイル内のレコードの数が多すぎるなど) が原因で発生します。
+    **メモ**   ほとんどのアカウント作成エラーは、不足している情報、間違った形式の電子メールアドレス、またはファイル内のレコードの数が多すぎるなど、データファイルの問題が原因で発生します。
 
 8. パートナー センターでファイルが検証された後、新しいユーザーの地理的な**場所**を選びます。
 9. **[保存]** を選択します。
