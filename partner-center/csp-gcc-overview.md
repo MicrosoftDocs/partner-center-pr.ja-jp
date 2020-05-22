@@ -1,57 +1,57 @@
 ---
-title: CSP 向け Office 365 Government GCC の販売 | パートナー センター
+title: CSP 向け Office 365 Government GCC の販売
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 用の Office 365 Government GCC 用のサブスクリプションを、政府の顧客または契約者に限定された米国販売するための手順と要件について説明します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: c0bfbc6bba6e6e20bff06b794ad47c0bf225932a
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b7ab89bbe436c2d0c4e673874bc9a3bf14924372
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798500"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795614"
 ---
-# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a><span data-ttu-id="994a4-103">CSP 向け Office 365 Government GCC サブスクリプションを認定ユーザーに販売する</span><span class="sxs-lookup"><span data-stu-id="994a4-103">Sell Office 365 Government GCC for CSP subscriptions to qualified customers</span></span>
+# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a><span data-ttu-id="dc8b4-103">CSP 向け Office 365 Government GCC サブスクリプションを認定ユーザーに販売する</span><span class="sxs-lookup"><span data-stu-id="dc8b4-103">Sell Office 365 Government GCC for CSP subscriptions to qualified customers</span></span>
 
-<span data-ttu-id="994a4-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="994a4-104">**Applies to**</span></span>
+<span data-ttu-id="dc8b4-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="dc8b4-104">**Applies to**</span></span>
 
--  <span data-ttu-id="994a4-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="994a4-105">Partner Center</span></span>
--  <span data-ttu-id="994a4-106">CSP パートナー</span><span class="sxs-lookup"><span data-stu-id="994a4-106">CSP partners</span></span>
+- <span data-ttu-id="dc8b4-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="dc8b4-105">Partner Center</span></span>
+- <span data-ttu-id="dc8b4-106">CSP パートナー</span><span class="sxs-lookup"><span data-stu-id="dc8b4-106">CSP partners</span></span>
 
-<span data-ttu-id="994a4-107">**適切なロール**</span><span class="sxs-lookup"><span data-stu-id="994a4-107">**Appropriate roles**</span></span>
+<span data-ttu-id="dc8b4-107">**適切なロール**</span><span class="sxs-lookup"><span data-stu-id="dc8b4-107">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="994a4-108">グローバル管理者</span><span class="sxs-lookup"><span data-stu-id="994a4-108">Global admin</span></span>
-- <span data-ttu-id="994a4-109">管理エージェント</span><span class="sxs-lookup"><span data-stu-id="994a4-109">Admin agent</span></span>
-- <span data-ttu-id="994a4-110">販売代理店</span><span class="sxs-lookup"><span data-stu-id="994a4-110">Sales agent</span></span>
+- <span data-ttu-id="dc8b4-108">グローバル管理者</span><span class="sxs-lookup"><span data-stu-id="dc8b4-108">Global admin</span></span>
+- <span data-ttu-id="dc8b4-109">管理エージェント</span><span class="sxs-lookup"><span data-stu-id="dc8b4-109">Admin agent</span></span>
+- <span data-ttu-id="dc8b4-110">販売代理店</span><span class="sxs-lookup"><span data-stu-id="dc8b4-110">Sales agent</span></span>
 
-## <a name="overview"></a><span data-ttu-id="994a4-111">概要</span><span class="sxs-lookup"><span data-stu-id="994a4-111">Overview</span></span>
+## <a name="overview"></a><span data-ttu-id="dc8b4-111">概要</span><span class="sxs-lookup"><span data-stu-id="dc8b4-111">Overview</span></span>
 
-<span data-ttu-id="994a4-112">クラウド ソリューション プロバイダー プログラム (CSP) の Microsoft パートナーは、認定されたお客様に [CSP 向け Office 365 Government GCC](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) サブスクリプションを販売できます。</span><span class="sxs-lookup"><span data-stu-id="994a4-112">Microsoft partners in the Cloud Solution Provider program (CSP) can sell [Office 365 Government GCC for CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) subscriptions to qualified customers.</span></span> <span data-ttu-id="994a4-113">CSP 向け Office 365 Government GCC は、米国政府機関の固有のニーズに合わせて設計されており、セグメント化された政府機関向けクラウド コミュニティで Office 365 サービスのすべての機能を提供し、組織が米国政府機関のコンプライアンスおよびセキュリティの基準を満たすことができるようにします。</span><span class="sxs-lookup"><span data-stu-id="994a4-113">Office 365 Government GCC for CSP is designed for the unique needs of US government organizations and provides all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet US government compliance and security standards.</span></span> 
+<span data-ttu-id="dc8b4-112">クラウド ソリューション プロバイダー プログラム (CSP) の Microsoft パートナーは、認定されたお客様に [CSP 向け Office 365 Government GCC](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) サブスクリプションを販売できます。</span><span class="sxs-lookup"><span data-stu-id="dc8b4-112">Microsoft partners in the Cloud Solution Provider program (CSP) can sell [Office 365 Government GCC for CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) subscriptions to qualified customers.</span></span> <span data-ttu-id="dc8b4-113">CSP 向け Office 365 Government GCC は、米国政府機関の固有のニーズに合わせて設計されており、セグメント化された政府機関向けクラウド コミュニティで Office 365 サービスのすべての機能を提供し、組織が米国政府機関のコンプライアンスおよびセキュリティの基準を満たすことができるようにします。</span><span class="sxs-lookup"><span data-stu-id="dc8b4-113">Office 365 Government GCC for CSP is designed for the unique needs of US government organizations and provides all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet US government compliance and security standards.</span></span> 
 
 >[!IMPORTANT] 
-><span data-ttu-id="994a4-114">CSP 向け Office 365 Government GCC サブスクリプションを販売する前に、企業は認定された顧客に販売することについて、承認を受ける必要があります。</span><span class="sxs-lookup"><span data-stu-id="994a4-114">Before you can sell Office 365 Government GCC for CSP subscriptions, your company must be approved to sell to qualified customers.</span></span> <span data-ttu-id="994a4-115">また、顧客は、CSP 向け Office 365 Government GCC サブスクリプションを購入して使用する前に、適格性の要件を満たしている必要があります。</span><span class="sxs-lookup"><span data-stu-id="994a4-115">And, before customers can buy and use Office 365 Government GCC for CSP subscriptions, they must meet eligibility requirements.</span></span> <span data-ttu-id="994a4-116">重要な情報については、[パートナーと顧客の適格性の条件](csp-gcc-validate.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="994a4-116">See [partner and customer eligibility criteria](csp-gcc-validate.md) for important information.</span></span>
+><span data-ttu-id="dc8b4-114">CSP 向け Office 365 Government GCC サブスクリプションを販売する前に、企業は認定された顧客に販売することについて、承認を受ける必要があります。</span><span class="sxs-lookup"><span data-stu-id="dc8b4-114">Before you can sell Office 365 Government GCC for CSP subscriptions, your company must be approved to sell to qualified customers.</span></span> <span data-ttu-id="dc8b4-115">また、顧客は、CSP 向け Office 365 Government GCC サブスクリプションを購入して使用する前に、適格性の要件を満たしている必要があります。</span><span class="sxs-lookup"><span data-stu-id="dc8b4-115">And, before customers can buy and use Office 365 Government GCC for CSP subscriptions, they must meet eligibility requirements.</span></span> <span data-ttu-id="dc8b4-116">重要な情報については、[パートナーと顧客の適格性の条件](csp-gcc-validate.md)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="dc8b4-116">See [partner and customer eligibility criteria](csp-gcc-validate.md) for important information.</span></span>
 
 
-## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a><span data-ttu-id="994a4-117">CSP 向け Office 365 Government GCC サブスクリプションの販売</span><span class="sxs-lookup"><span data-stu-id="994a4-117">Sell Office 365 Government GCC for CSP subscriptions</span></span>
+## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a><span data-ttu-id="dc8b4-117">CSP 向け Office 365 Government GCC サブスクリプションの販売</span><span class="sxs-lookup"><span data-stu-id="dc8b4-117">Sell Office 365 Government GCC for CSP subscriptions</span></span>
 
-<span data-ttu-id="994a4-118">CSP プラン向け Office 365 Government GCC の販売を承認された後は、パートナー センターを使用して顧客への販売を開始することができます。</span><span class="sxs-lookup"><span data-stu-id="994a4-118">After your company has been approved to sell Office 365 Government GCC for CSP offers, you can start selling to customers using Partner Center.</span></span> <span data-ttu-id="994a4-119">パートナー センターを使用してサブスクリプションを販売する方法については、以下のリソースを参照してください。</span><span class="sxs-lookup"><span data-stu-id="994a4-119">Refer to these resources to learn how to use Partner Center to sell subscriptions:</span></span> 
+<span data-ttu-id="dc8b4-118">CSP プラン向け Office 365 Government GCC の販売を承認された後は、パートナー センターを使用して顧客への販売を開始することができます。</span><span class="sxs-lookup"><span data-stu-id="dc8b4-118">After your company has been approved to sell Office 365 Government GCC for CSP offers, you can start selling to customers using Partner Center.</span></span> <span data-ttu-id="dc8b4-119">パートナー センターを使用してサブスクリプションを販売する方法については、以下のリソースを参照してください。</span><span class="sxs-lookup"><span data-stu-id="dc8b4-119">Refer to these resources to learn how to use Partner Center to sell subscriptions:</span></span> 
 
--   <span data-ttu-id="994a4-120">CSP 向け Office 365 Government GCC の販売に関するステップ バイ ステップ ガイドについては、[こちら](https://go.microsoft.com/fwlink/?linkid=2007323)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="994a4-120">For a step-by-step guide to selling Office 365 Government GCC for CSP subscriptions, go [here](https://go.microsoft.com/fwlink/?linkid=2007323).</span></span>  
+-   <span data-ttu-id="dc8b4-120">CSP 向け Office 365 Government GCC の販売に関するステップ バイ ステップ ガイドについては、[こちら](https://go.microsoft.com/fwlink/?linkid=2007323)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="dc8b4-120">For a step-by-step guide to selling Office 365 Government GCC for CSP subscriptions, go [here](https://go.microsoft.com/fwlink/?linkid=2007323).</span></span>  
 
 
-## <a name="additional-resources"></a><span data-ttu-id="994a4-121">その他のリソース</span><span class="sxs-lookup"><span data-stu-id="994a4-121">Additional resources</span></span>
+## <a name="additional-resources"></a><span data-ttu-id="dc8b4-121">その他の技術情報</span><span class="sxs-lookup"><span data-stu-id="dc8b4-121">Additional resources</span></span>
 
-<span data-ttu-id="994a4-122">Microsoft 365 パートナー サイトについては、[米国政府機関でのパートナーのビジネス チャンス](https://www.microsoft.com/microsoft-365/partners/governmentforCSP)に関する情報を参照してください。</span><span class="sxs-lookup"><span data-stu-id="994a4-122">Access information on the [partner opportunity in US Government](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) on the Microsoft 365 for partners site.</span></span>
+<span data-ttu-id="dc8b4-122">Microsoft 365 パートナー サイトについては、[米国政府機関でのパートナーのビジネス チャンス](https://www.microsoft.com/microsoft-365/partners/governmentforCSP)に関する情報を参照してください。</span><span class="sxs-lookup"><span data-stu-id="dc8b4-122">Access information on the [partner opportunity in US Government](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) on the Microsoft 365 for partners site.</span></span>
 
-<span data-ttu-id="994a4-123">製品リソース:</span><span class="sxs-lookup"><span data-stu-id="994a4-123">Product resources:</span></span>
+<span data-ttu-id="dc8b4-123">製品リソース:</span><span class="sxs-lookup"><span data-stu-id="dc8b4-123">Product resources:</span></span>
 
-- [<span data-ttu-id="994a4-124">Office 365 Government サービスの説明</span><span class="sxs-lookup"><span data-stu-id="994a4-124">Office 365 Government Service Description</span></span>](https://technet.microsoft.com/library/mt774581.aspx)
-- [<span data-ttu-id="994a4-125">Roadmap.Office.com</span><span class="sxs-lookup"><span data-stu-id="994a4-125">Roadmap.Office.com</span></span>](https://products.office.com/business/office-365-roadmap)
-- [<span data-ttu-id="994a4-126">Microsoft セキュリティ センター</span><span class="sxs-lookup"><span data-stu-id="994a4-126">Microsoft Trust Center</span></span>](https://www.microsoft.com/TrustCenter/)
-- [<span data-ttu-id="994a4-127">Microsoft Service Trust Portal</span><span class="sxs-lookup"><span data-stu-id="994a4-127">Microsoft Service Trust Portal</span></span>](https://aka.ms/STP)
+- [<span data-ttu-id="dc8b4-124">Office 365 Government サービスの説明</span><span class="sxs-lookup"><span data-stu-id="dc8b4-124">Office 365 Government Service Description</span></span>](https://technet.microsoft.com/library/mt774581.aspx)
+- [<span data-ttu-id="dc8b4-125">Roadmap.Office.com</span><span class="sxs-lookup"><span data-stu-id="dc8b4-125">Roadmap.Office.com</span></span>](https://products.office.com/business/office-365-roadmap)
+- [<span data-ttu-id="dc8b4-126">Microsoft セキュリティ センター</span><span class="sxs-lookup"><span data-stu-id="dc8b4-126">Microsoft Trust Center</span></span>](https://www.microsoft.com/TrustCenter/)
+- [<span data-ttu-id="dc8b4-127">Microsoft Service Trust Portal</span><span class="sxs-lookup"><span data-stu-id="dc8b4-127">Microsoft Service Trust Portal</span></span>](https://aka.ms/STP)
 
