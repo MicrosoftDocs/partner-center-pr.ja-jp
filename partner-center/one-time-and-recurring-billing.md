@@ -1,33 +1,35 @@
 ---
-title: 1回限りの課金と選択された料金 |パートナーセンター
+title: 請求-1 回限りの & 定期的な料金の選択
 ms.topic: article
-ms.date: 11/21/2019
-Description: 事前設定された期間 (月単位および年間サブスクリプション) に対する1回限りの課金、パートナーセンターでの (該当する Microsoft およびサードパーティの ISV 製品の) 選択された課金の請求に関する情報。
+ms.date: 05/26/2020
+Description: パートナーセンターの課金に関する詳細については、事前設定された使用条件と、選択のための課金に対する課金について事前に説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 課金、1回限り、定期的な購入、請求、isv
 ms.localizationpriority: medium
-ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5194df5463be52872c32720edb67914fe7df7360
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798780"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998428"
 ---
-#  <a name="billing-for-one-time-and-select-recurring-charges"></a>1 回限りの請求と定期的な料金の選択
+# <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>パートナーセンターでの1回限りの課金と、定期的な料金の選択
+
 
 **適用対象**
 - パートナー センター
 - CSP プログラムのパートナー
 
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   課金管理者
--   管理エージェント
--   販売代理店
+- グローバル管理者
+- ユーザー管理者
+- 課金管理者
+- 管理エージェント
+- 販売代理店
 
-このトピックでは、Microsoft およびサードパーティ製の独立系ソフトウェアベンダー (ISV) 製品の**1 回限り**の課金と、選択された定期的な料金について説明します。 
+この記事では、Microsoft およびサードパーティ製の独立系ソフトウェアベンダー (ISV) 製品の**1 回限り**の課金と、選択された定期的な料金について説明します。 
 
 **1 回限りの課金**は、事前設定された期間にソフトウェアサブスクリプションと Azure 予約を事前に購入した場合に使用します。 購入できるのは1年間または3年間です。 その後、1回限りの一括合計で、コスト全体に対して課金されます。
 
@@ -41,7 +43,7 @@ ms.locfileid: "82798780"
 > [!IMPORTANT]
 > [**ライセンスベースのサブスクリプション**](license-based-billing.md)と[**使用量ベースのサブスクリプション**](usage-based-billing.md)の定期的な料金の課金エクスペリエンスは変わりません。
 
-サブスクリプション (**ライセンスベースおよび使用状況に基づくサブスクリプション**を含む) に対する**定期的な料金**は、[**オンラインサービスカタログ**](https://partner.microsoft.com/commerce/preferredoffers/list)のすべての製品に対して発行されます。 例として、Office 365、Microsoft 365、Azure Active Directory (Azure AD)、Azure (従量課金制)、Dynamics 365、PowerBI Pro などがあります。
+サブスクリプション (**ライセンスベースおよび使用状況に基づくサブスクリプション**を含む) に対する**定期的な料金**は、[**オンラインサービスカタログ**](https://partner.microsoft.com/commerce/preferredoffers/list)のすべての製品に対して発行されます。 例として、Office 365、Microsoft 365、Azure Active Directory (Azure AD)、Azure (従量課金制)、Dynamics 365、Power BI Pro などがあります。
 
 該当するサブスクリプション料金の場合、**請求日**は、パートナーセンターアカウントの作成時に選択した日付になります。 **請求期間**は、請求日の前の月です。
 

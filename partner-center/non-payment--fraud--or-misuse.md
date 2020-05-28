@@ -1,35 +1,35 @@
 ---
-title: 非支払い、不正行為、誤用の管理 |パートナーセンター
+title: 未払い、詐欺、不正使用の管理
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: オンライントランザクションに関連するさまざまな種類のリスクと、それらのリスクを管理して軽減するためのベストプラクティスについて学習することが重要です。
+description: オンライントランザクションに関連するさまざまなリスクと、それらのリスクを管理して軽減するためのベストプラクティスについて理解することが重要です。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐欺, 不正使用, 使用条件, 利用規約, 未払い, 顧客が料金を支払わない, オンライン リスク, サービスの盗用, サービスの不正使用, サブスクリプションの一時停止,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 24a6d636ec4b0fb8aecc158f4750e471f1ca1a3a
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798800"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998448"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>パートナー センターでの未払い、詐欺、不正使用の管理
 
-適用対象:
+適用先:
 
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   管理エージェント
--   課金管理者
+- グローバル管理者
+- ユーザー管理者
+- 管理エージェント
+- 課金管理者
 
 パートナーは、顧客による不正購入や、購入サービスの料金未払いについて、金銭的な責任を負います。 したがって、*不正行為の防止と検出のリスク軽減のための制御*を行うことを強くお勧めします。
 
@@ -78,7 +78,7 @@ Microsoft の利用規約に違反する例として、次のようなものが�
 
 - 可能な場合は、顧客との個人関係を確立します (たとえば、電話で顧客に連絡します)。
 - お客様の資格情報とバックグラウンドをより適切な方法 (クレジット機関やビジネスコマーシャルレポート機関を使用するなど) で検証します。
-- サインアップ中に multi-factor authentication (SMS の検証など) を使用して、ロボットアカウントの構成と購入に対する露出を最小限に抑えます。
+- サインアップ時に multi-factor authentication (SMS の検証など) を使用して、ロボットアカウントの作成と購入の危険性を最小限に抑えます。
 - サービス (デジタル id サービスなど) を使用して id を管理および追跡します。
 - クレジットカード詐欺検出システムを使用して、顧客の財務力を評価します。
 - コレクションのクリアポリシーを確立します。 コレクションのプロセスを詳しく説明します。サブスクリプションへのアクセスは、支払いが行われないことによって影響を受けます。 (アクセスを無効にしたり[、顧客のサブスクリプション](suspend-a-subscription.md)の支払いを中断したりすることができます)。

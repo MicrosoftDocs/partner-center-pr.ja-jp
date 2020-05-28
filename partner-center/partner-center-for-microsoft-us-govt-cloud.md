@@ -1,34 +1,37 @@
 ---
-title: 米国政府機関向け Microsoft Cloud のパートナー センター | 米国政府機関向け Microsoft Cloud のパートナー センター
+title: 米国政府機関向け Microsoft Cloud のパートナー センター
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 米国政府機関向け Microsoft Cloud のパートナー センターは、米国内で政府機関とのビジネスを行う顧客に Microsoft クラウド ソリューションを販売する Microsoft パートナー向けのビジネス ポータルです。
+description: このパートナーセンターサイトは、米国で政府機関と協力しているお客様に Microsoft のクラウドソリューションを提供する Microsoft パートナーを対象としています。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e23b79e76cf498a600cb5658feaaf3b6da5578e6
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 288d6aec3dfdc1e6fb7af45c088968b02f52a275
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798750"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998318"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センター
+# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>米国政府向けパートナーセンターでは、政府機関向けパートナープランをサポートしています。 Microsoft Cloud
 
 **適用対象**
 
--  米国政府機関向け Microsoft Cloud のパートナー センター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   管理エージェント
--   販売代理店
--   課金管理者
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>米国政府機関向け Microsoft Cloud: データ保護の要件を満たす 
+- グローバル管理者
+- ユーザー管理者
+- 管理エージェント
+- 販売代理店
+- 課金管理者
+
+
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>米国政府機関向け Microsoft Cloud: データ保護の要件を満たす
 
 米国政府機関向けに一から設計された、米国政府機関向け Microsoft Cloud により、米国の連邦、州、地方、および先住民部族の行政機関は、Microsoft のさまざまなクラウド コンピューティング サービスを選択できます。 公的機関のお客様固有のニーズに対応するために、Microsoft はデータセンターに多大な投資を行っており、米国連邦政府および州のポリシー、要件、および要件へのデータ保護の準拠をサポートしています。 米国政府機関向け Microsoft Cloud のパートナー センターは、パートナーが、これらのユーザーに Microsoft クラウド サービスを再販できるようにします。
 
@@ -45,7 +48,7 @@ ms.locfileid: "82798750"
 > [!NOTE]  
 > 本記事の公開時点では、米国政府機関向け Microsoft Cloud のパートナー センターで、以下の機能が提供されていません (本記事の公開後、パートナー センターに機能が追加されて、この一覧の情報が最新ではなくなる可能性があります)。
 
-- パートナーの検索
+- パートナーを見つける
 - ビジネス プロファイル
 - 紹介
 - 顧客と再販業者関係の要求 (マルチチャンネル、マルチパートナー)
@@ -58,9 +61,9 @@ ms.locfileid: "82798750"
 
 次に示すパートナー センターのタスクは、米国政府機関向け Microsoft Cloud の Azure 管理ポータルを使って管理されます。 
 
--   パートナー ユーザーの管理
--   顧客のユーザーとライセンスの管理
--   ユーザーのパスワードのリセット
+- パートナー ユーザーの管理
+- 顧客のユーザーとライセンスの管理
+- ユーザーのパスワードのリセット
 
 ユーザーとライセンスの管理の詳細については、「[米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)」を参照してください。
 

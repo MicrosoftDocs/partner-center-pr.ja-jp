@@ -1,38 +1,38 @@
 ---
-title: パートナーセンターの洞察 |パートナーセンター
+title: パートナー センター インサイト
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: お客様が何をしているか、そしてお客様の売上とデプロイに関して改善できる場所を正確に確認できます
+description: このパートナーセンターの統合レポートダッシュボードを参照してください。 売上とデプロイ、顧客開発などの Kpi での作業方法をご確認ください。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI、パフォーマンス、顧客の成功、測定、レポートデータ
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 679b706f43dcf1f54adcc1751c3c95c083bf2fba
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c41433019716f315592fe9d15850364835c4edfb
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631883"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998325"
 ---
-# <a name="partner-center-insights"></a>パートナーセンターの洞察
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>パートナーセンターの洞察-Microsoft の商用パートナーがどのように実行しているかを示すダッシュボード
 
 **適切なロール**
-- グローバル管理
+- グローバル管理者
 - アカウント管理者
-- エグゼクティブレポートビューアー
-- レポートビューアー
+- エグゼクティブ レポート ビューアー
+- レポート ビューアー
 
-## <a name="introduction"></a>概要
+## <a name="introduction"></a>はじめに
 
-Insights は、Microsoft Partner Network (MPN) プログラムに登録されている Microsoft のコマーシャルパートナー向けのパートナーセンターの統合されたレポートダッシュボードです。 Insights ダッシュボードでは、Office、Azure、Dynamics、CSP や EA などのライセンスモデルなど、クラウド製品全体にわたって、主要業績評価指標 (kpi) の360度のビューが提供されます。 組織のデータに基づく意思決定に役立つ、豊富な KPI レポートのセットが公開されています。 
+Insights は、Microsoft Partner Network (MPN) プログラムに登録されている Microsoft のコマーシャルパートナー向けのパートナーセンターの統合されたレポートダッシュボードです。 Insights ダッシュボードでは、Office、Azure、Dynamics などのクラウド製品や、CSP や EA などのライセンスモデルにわたる、主要業績評価指標 (KPI) の360度のビューが提供されます。 組織のデータに基づく意思決定に役立つ、豊富な KPI レポートのセットが公開されています。 
 
-## <a name="roles-based-access-control-to-the-insights-dashboard"></a>Insights ダッシュボードへのロールベースのアクセス制御
+## <a name="role-based-access-control-to-the-insights-dashboard"></a>Insights ダッシュボードへのロールベースのアクセス制御
 
-パートナーセンターには、洞察に特化したレポートビューアーとエグゼクティブレポートビューアーの2つの新しいロールが用意されています。  Executive レポートビューアーロールのユーザーは、すべてのレポートデータセットにアクセスできますが、レポートビューアーロールのユーザーは、収益や顧客/従業員の個人データなどの機密データセットにアクセスすることはできません。 
+パートナーセンターには、**レポートビューアー**と**エグゼクティブレポートビューアー**の2つの新しいロールが用意されています。 Executive レポートビューアーロールのユーザーは、すべてのレポートデータセットにアクセスできますが、レポートビューアーロールのユーザーは、収益や従業員の個人データなどの機微なデータセットにアクセスすることはできません。 
 
 全体管理者またはアカウント管理者は、ユーザーにこれらのロールを割り当てることができ、会社全体または特定の MPN の場所に割り当てられます。  
 
@@ -43,21 +43,21 @@ Insights は、Microsoft Partner Network (MPN) プログラムに登録されて
 
 次のレポートは、Insights ダッシュボードの一部として利用できます。
 
-**概要**   概要レポートには、顧客数、アクティブなサブスクリプション数、Azure の消費収益、アクティブなライセンスなど、関心のあるさまざまな Kpi のスナップショットビューが表示されます。
+**概要**: 概要レポートには、顧客数、アクティブなサブスクリプション数、Azure 従量課金、アクティブなライセンスなど、関心のあるさまざまな kpi のスナップショットビューが表示されます。
 
-**顧客**顧客レポートでは、顧客の取得データ、アクティブな顧客など、顧客に関する分析が示されます。 
+**顧客**: 顧客レポートには、顧客の取得データ、アクティブな顧客など、顧客に関する分析が示されます。
 
-**製品-サブスクリプション**    サブスクリプションレポートには、クラウドサブスクリプション (O365、Azure、Dynamics など) の取得と使用状況の分析が表示されます。 
+**製品-サブスクリプション**: サブスクリプションレポートには、クラウドサブスクリプション (O365、Azure、Dynamics など) の取得と使用状況の分析が表示されます。
 
-**製品-ライセンス**  ライセンスダッシュボードには、O365、Dynamics、Power BI などのライセンスベースのクラウド製品のライセンス分析が表示されます。
+**製品ライセンス**: ライセンスダッシュボードには、O365、Dynamics、Power BI などのライセンスベースのクラウド製品のライセンス分析が表示されます。
 
-**製品-Azure の使用状況**  Azure の使用状況レポートには、顧客の Azure サブスクリプションに関連するメトリックが表示されます。これには、Azure の従量課金やメーターカテゴリ別の使用量が含まれます。
+**製品-azure の使用状況**: Azure の使用状況レポートには、顧客の azure サブスクリプションに関連するメトリックが表示されます。これには、Azure の使用量の売上やメーターカテゴリ別の使用量が含まれます。
 
-**コンピテンシー**   コンピテンシーレポートには、アクティブ、修飾、およびリスクのあるコンピテンシーのメトリックが表示されます。
+**コンピテンシー**: コンピテンシーレポートには、アクティブ、修飾、およびリスクのあるコンピテンシーのメトリックが表示されます。
 
-**利点**   特典レポートには、獲得したパートナー特典と使用したパートナー特典の分析が表示されます。
+**特典**: 特典レポートには、獲得したパートナー特典と使用したパートナー特典の分析が表示されます。
 
-## <a name="navigating-the-insights-reports"></a>Insights レポート内の移動 
+## <a name="navigating-the-insights-reports"></a>Insights レポート内の移動
 
 **日付範囲フィルター**: 各ページの右上隅にある日付範囲の選択を見つけることができます。 [概要] ページのグラフの出力をカスタマイズするには、過去3、6、または12か月に基づいて日付範囲を選択するか、カスタムの日付範囲を選択します。 既定の日付範囲の選択は12か月です。 
 
@@ -74,27 +74,29 @@ Insights は、Microsoft Partner Network (MPN) プログラムに登録されて
 
 - 選択したフィルターは、ページの上部に表示されます。 
 
-![フィルタ](images/pci/filters.png)
+![filters](images/pci/filters.png)
 
- ### <a name="filters-definitions"></a>フィルターの定義:
+### <a name="filters-definitions"></a>フィルターの定義:
 
 - Products: 組織で販売または管理されているすべての Microsoft Cloud 製品 (O365、Azure、D365、EMS、PowerBI など) の一覧。
 - 顧客市場: 顧客の国の一覧
 - Partner 帰属: 顧客サブスクリプションとの関連付けの種類。たとえば、デジタルパートナーのレコード (購入者または)、委任された管理者特権 (DAP)、パートナー管理リンク (PAL) などがあります。 
-- パートナーの場所: 組織のすべての MPN の場所の一覧。 
+- パートナーの場所: 組織のすべての MPN の場所の一覧。
 - 販売チャネル: 製品とサービスの購入/プロビジョニングを行うすべての販売チャネル/価格。 CSP、EA、CSP 間接、直接、アドバイザー、オープン、その他
 - 顧客セグメント: パートナーの顧客ベース全体にわたる顧客セグメントの一覧。
 
 ## <a name="read-about-each-of-the-dashboards-and-reports"></a>各ダッシュボードとレポートについて確認します。
 
-- [パートナーセンターの洞察-概要ダッシュボード](pci-overview-report.md) 
+- [パートナーセンターの洞察-概要ダッシュボード](pci-overview-report.md)
 
-- [パートナーセンターの洞察-顧客ダッシュボード](pci-customer-report.md) 
+- [パートナー センター インサイト - 顧客ダッシュボード](pci-customer-report.md)
 
-製品-サブスクリプションダッシュボード製品-ライセンスダッシュボード製品-Azure 使用ダッシュボードコンピテンシーの特典 
+- [パートナーセンターの洞察-サブスクリプションレポート](pci-product-subscriptions-report.md)
 
+- [パートナーセンターの洞察-ライセンスレポート](pci-product-licenses-report.md)
 
+- [パートナーセンターの洞察-Azure の使用状況レポート](pci-azure-usage-report.md)
 
+- [パートナー センター インサイト - コンピテンシー レポート](pci-competencies-report.md)
 
-
-
+- [パートナー センター インサイト -特典レポート](pci-benefits-report.md)

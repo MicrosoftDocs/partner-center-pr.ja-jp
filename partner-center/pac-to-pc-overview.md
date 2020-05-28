@@ -1,7 +1,7 @@
 ---
-title: パートナー管理センターからパートナー センターに移行するための準備 | パートナー センター
+title: パートナー管理センターから移動する
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365 パートナー管理センターの機能は、パートナー センターに移行されます。
@@ -9,27 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC,Office 365 ドバイザー, ドバイザー, シンジケーション パートナー, PAC 廃止, PAC の廃止
 ms.localizationpriority: medium
-ms.openlocfilehash: 214ae5d353449c82a7b1ba03a793d06359e28a0a
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8198cc954c3d129394af1154387b81e25e24e294
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123318"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998408"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>パートナー管理センターのパートナー センターへの移動
 
 **適用対象**
 
--  Partner Center
+- パートナー センター
 
 **適切なロール**
--    全体管理者
--    ユーザー管理者
--    管理エージェント
--    販売代理店
+- グローバル管理者
+- ユーザー管理者
+- 管理エージェント
+- 販売代理店
 
 > [!NOTE]  
->  すべての日付はこの記事の最初の投稿以降に更新されています。
+> すべての日付はこの記事の最初の投稿以降に更新されています。
 
 Office 365 パートナー管理センター (PAC) は、Microsoft パートナー センターに移動されます。
 
