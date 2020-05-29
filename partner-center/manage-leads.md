@@ -1,23 +1,23 @@
 ---
-title: リードの管理
+title: 潜在顧客の管理 |パートナーセンター
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 04/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターを使用して、紹介に応答し、新規、既存、アーカイブされた潜在顧客と紹介を管理します。 今後、より多くの参照を取得する方法についても説明します。
-author: LauraBrenner
-ms.author: labrenne
+description: 紹介に応答し、新規、既存、アーカイブされた紹介を管理し、今後より多くの参照を取得する方法について説明します。
+author: vikramb
+ms.author: vikramb
 keywords: 紹介、共同販売、商談
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: seodec18
+ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796024"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145066"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>顧客の問い合わせ、マーケティングによって修飾された潜在顧客、販売の見込み客などのさまざまな潜在顧客を管理します
+# <a name="manage-leads"></a>潜在顧客の管理
 
 **適用対象**
 
@@ -87,8 +87,19 @@ Microsoft は1年あたり何百万もの潜在顧客をパートナーに送信
 より適切な参照を取得するためのヒントを次に示します。
 
 - [ビジネス プロファイル](https://docs.microsoft.com/partner-center/create-a-marketing-profile)で、**独自の専門分野やビジネス モデルを反映したキーワードと設定を選択**します。 関心のない紹介を生成するキーワードを削除します。 特定のサイズの企業を扱う必要がない場合は、この設定を更新してください。
-- **[ビジネスプロファイル](https://docs.microsoft.com/partner-center/create-a-marketing-profile)内の各場所の連絡先情報を確認**して、チームが受信したアラートを確実に取得できるようにします。
+
+- **各場所について、[ビジネスプロファイル](https://docs.microsoft.com/partner-center/create-a-marketing-profile)の連絡先情報を確認し**ます。チームが受信アラートを取得していることを確認します。
+
 - **紹介に迅速に対応**受信要求に対してタイムリーに応答すると、将来の顧客の検索結果の可視性が向上します。 チームが意向を迅速に応答できるように体制を整えてください。
-- **承諾する取引を慎重に選び**ます。 同意して拒否した取引の種類を監視し、この情報を使用して類似の取引を見つけることができます。 適切に適合していない取引を受け入れると、検索結果が改善されず、受信した潜在顧客の品質に影響を与える可能性があります。
+
+- **受け入れる取引を choosy してください**同意して拒否した取引の種類を監視し、この情報を使用して類似の取引を見つけることができます。 適切に適合していない取引を受け入れると、検索結果が改善されず、受信した潜在顧客の品質に影響を与える可能性があります。
+
 - **取引規模の見積もり、予定終了日、最終的な契約の成否 (受注または失注) をマイクロソフトに報告してください**。 この情報を使用して、引き続き品質の紹介を提供します。
 
+## <a name="next-steps"></a>次のステップ
+
+- [共同販売の機会を管理する](manage-co-sell-opportunities.md)
+
+- [Dynamics 365 CRM の共同販売コネクタを取得する](connector-dynamics.md)
+
+- [Salesforce CRM の共同販売コネクタを取得する](connector-salesforce.md)

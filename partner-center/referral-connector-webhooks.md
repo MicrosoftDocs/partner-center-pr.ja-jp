@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 紹介、webhook api、リソース変更イベント
 ms.localizationpriority: medium
-ms.openlocfilehash: a141776f1b591ebe41bb740051802b4b55cf36f0
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4e1eb2e9bd8ceb4f8c4bf43684305504c8594e5c
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796208"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145086"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Webhook Api を使用してリソース変更イベントに登録する
 
@@ -142,7 +142,7 @@ Dynamics 365 ソリューションの**営業案件**エンティティのパー
 
 1. CRM で参照が作成または更新され、パートナーセンターで同期される場合の参照の同期:
 
-    a. CRM の**営業案件**セクションで可視性を持つユーザーを使用して、DYNAMICS 365 CRM 環境または Salesforce CRM 環境にサインインします。
+    a. CRM の**営業案件**セクションで可視性を持つユーザーを使用して、DYNAMICS 365 CRM 環境にサインインします。
 
     b. Dynamics 365 環境で "新しい営業案件" を作成するときに、次のセクションが存在することを確認します。
 
