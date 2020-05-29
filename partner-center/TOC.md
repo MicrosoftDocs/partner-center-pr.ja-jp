@@ -83,9 +83,8 @@
 ### [ビジネス プロファイルの管理](create-a-marketing-profile.md)
 ### [見込み客を管理する](manage-leads.md)
 ### [共同販売の機会を管理する](manage-co-sell-opportunities.md)
-### [Dynamics 365 CRM のための共同販売コネクタ](dynamics-connector.md)
-### [Salesforce CRM のための共同販売コネクタ](salesforce-connector.md)
-### [Webhook Api を使用して、紹介のリソース変更イベントに登録する](referral-connector-webhooks.md)
+### [Dynamics 365 CRM のための共同販売コネクタ - 概要](connector-dynamics.md)
+### [Salesforce CRM のための共同販売コネクタ - 概要](connector-salesforce.md)
 ### [案件の登録](register-deals.md)
 ### [紹介の分析情報を取得する](referral-insights.md)
 ### [ビジネス プロファイルの分析](analyze-your-marketing-profile.md)
@@ -126,7 +125,7 @@
 ## [顧客での複数ユーザーの作成](adding-multiple-users-to-a-customer-account.md)
 ## [サポート連絡先の指定](assign-support-contacts.md)
 
-# [CSP のプラン](csp-offers.md)
+# [CSP のプラン](csp-offers.md) 
 ## 商業マーケットプレース
 ### [商業マーケットプレースの概要](csp-commercial-marketplace-overview.md)
 ### [マーケットプレースのサービスを探す](csp-commercial-marketplace-discover.md)
