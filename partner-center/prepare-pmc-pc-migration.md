@@ -1,27 +1,27 @@
 ---
-title: Partner Membership Center からパートナー センターへの移行を準備する | パートナー センター
+title: Partner Membership Center からの移行
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: PMC からパートナー センターにビジネスを移行する前に、役立つ情報とよく寄せられる質問を確認します。
+description: Partner Membership Center からパートナー センターにビジネスを移行する前に、役立つ情報とよく寄せられる質問を確認します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 0c1fc9530a978e7202d7a0d58a574546b10c91e9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859355"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795840"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Partner Membership Center (PMC) からパートナー センターへの移行を準備する
 
 **適切なロール**
--    グローバル管理者
--    ユーザー管理者
--    販売代理店
--    管理エージェント
+- グローバル管理者
+- ユーザー管理者
+- 販売代理店
+- 管理エージェント
 
 当社では、メンバーシップの管理を Partner Membership Center (PMC) から、お客様の Microsoft との取引関係を管理するための単一の目的地であるパートナー センターに移行しています。 お客のパートナー センターへの移行をできるだけ効率的かつ簡単にしたいと考えています。 当社はパートナー センターが PMC とは異なるいくつかの領域を識別しており、お客様は移行を行う前にこれを理解し、準備する必要があります。
 
@@ -54,7 +54,7 @@ CSP アカウントまたは MPN の勤務先の電子メール アカウント�
 
 **ユーザーが PMC からパートナー センターに移行すると、そのユーザーのロールはどうなりますか?**
 
-MPN グローバル管理者、または移行を実行するプライマリ プログラムの連絡先を除き、PMC のすべてのユーザーがその管理者ロールを失います。 移行を完了する個人は、パートナー センターでロールを割り当てる必要があります。 パートナー センターのロールは PMC のロールとは異なります。 パートナー センターのユーザー ロールの詳細については、[ユーザー ロールとアクセス許可の割り当て](permissions-overview.md) および「[PMC からパートナー センターに移動する](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)」を参照してください。
+MPN グローバル管理者、または移行を実行するプライマリ プログラムの連絡先を除き、PMC のすべてのユーザーがその管理者ロールを失います。 移行を完了する個人は、パートナー センターでロールを割り当てる必要があります。 パートナー センターのロールは PMC のロールとは異なります。 パートナー センターのユーザー ロールの詳細については、[ユーザー ロールとアクセス許可の割り当て]\(permissions-overview.md) および「[PMC からパートナー センターに移動する](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)」を参照してください。
 
 
 **会社プロファイルとビジネス プロファイルの違いは何ですか?**
