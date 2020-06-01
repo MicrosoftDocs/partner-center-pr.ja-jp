@@ -1,21 +1,22 @@
 ---
-title: クラウド ソリューション プロバイダー プログラムに登録する | パートナー センター
+title: クラウド ソリューション プロバイダー プログラムに登録する
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: クラウド ソリューション プロバイダー (CSP) のさまざまな販売モデルについて理解し、貴社に最適なモデルを決定します。
+description: お客様のビジネスに最も適したクラウド ソリューション プロバイダー (CSP) プログラム販売モデル (間接リセラーや直接請求パートナーなど) に登録する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5a993f07a066f979776dea281ebc3d459b569dd5
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74721712"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795161"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
+# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>クラウド ソリューション プロバイダー プログラムに登録して収益性の高いクラウド ソリューション ビジネスを構築する
 
 **適用対象**
 

@@ -1,7 +1,7 @@
 ---
 title: パートナー センターのアカウントを管理する | パートナー センター
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで、会社のプロファイル、カタログ、銀行と税金に関する情報、ロール、アクセス許可などを管理します。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 9167e4bb873ee1527fc623dbab319b44cdb9564e
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859373"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795687"
 ---
 # <a name="manage-your-partner-center-account"></a>パートナー センター アカウントの管理
 
@@ -67,9 +67,17 @@ ms.locfileid: "82859373"
 |Office ストア|Developer|
 |Edge の拡張機能|Developer|
 
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>パートナーと開発者向けの設定オプションの違い
+## <a name="partner-and-developer-settings-options"></a>パートナーと開発者向けの設定オプション
 
-**[パートナーの設定]** オプションは、 **[開発者向け設定]** オプションとは異なります。 各オプションのセットのサンプル スクリーンショットについては、以下を参照してください。 他のプログラムにアクセスできる場合は、ここに表示されているスクリーンショット サンプルとは異なるオプションが表示されることもあります。
+### <a name="locate-your-mpn-id"></a>MPN ID を検索する
+
+パートナーであるか開発者であるかに関係なく、サポート チケットの記録などには MPN ID を使用する必要があります。 開発者の場合、MPN ID は **[アカウントの設定]** の詳細ページにあります。
+
+![MPN ID の場所](images/accountsettings/devmpnlocation.png)
+
+パートナーの MPN ID は、 **[パートナー プロファイル]** ページにあります。
+
+**[パートナーの設定]** のオプションは、 **[開発者向け設定]** のオプションとは異なります。 各オプションのセットのサンプル スクリーンショットについては、以下を参照してください。 他のプログラムにアクセスできる場合は、ここに表示されているスクリーンショット サンプルとは異なるオプションが表示されることもあります。
 
 **[パートナーの設定] のオプション**:
 
@@ -78,6 +86,7 @@ ms.locfileid: "82859373"
 **[開発者向け設定] のオプション**:
 
 ![開発者のオプション](images/accountsettings/devoptions.png)
+
 
 ## <a name="enrolling-in-programs"></a>プログラムへの登録
 
@@ -94,7 +103,7 @@ ms.locfileid: "82859373"
 
 ## <a name="the-account-picker"></a>アカウント ピッカー
 
-複数のアカウントに所属することができます。 複数のアカウントに属している場合は、左側のナビゲーション メニューに "アカウント ピッカー" が表示されます。 アカウント ピッカーを選択すると、メンバーになっているすべてのアカウントが一覧として表示されます。 そのいずれかを選択して、そのアカウントに切り替えると、そのアカウントに関連するすべてのプログラムと情報を表示することができます。 アカウント ピッカーが表示されない場合は、1 つのアカウントのメンバーです。
+複数のアカウントに所属することができます。 複数のアカウントに属している場合は、左側のナビゲーション メニューに "アカウント ピッカー" が表示されます。 アカウント ピッカーを選択すると、自分がメンバーになっているすべてのアカウントが一覧として表示されます。 そのいずれかを選択して、そのアカウントに切り替えると、そのアカウントに関連するすべてのプログラムと情報を表示することができます。 アカウント ピッカーが表示されない場合は、1 つのアカウントのメンバーです。
 
 ![アカウント ピッカー](images/accountsettings/accountpicker.png)
 

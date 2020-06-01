@@ -1,23 +1,24 @@
 ---
-title: ユーザー アカウントの作成とアクセス許可の設定 | パートナー センター
+title: ユーザー アカウントの作成とロールの割り当て
+description: 各従業員がパートナー センターにアクセスできるように前もってロールを割り当てる必要があります。 ユーザー アカウントの作成、ロールの割り当て、およびアクセス許可の設定の方法について説明します。
 ms.topic: article
-ms.date: 02/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: アクセスを必要とする各従業員のユーザー アカウントを作成し、パートナー センターでロールを割り当てる方法について説明します。 別の管理者特権を持つユーザーが、これを行うことができます。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: ロール, アクセス許可,ユーザーの追加, ロールの割り当て, 管理者, エージェント,
 ms.localizationpriority: high
-ms.openlocfilehash: f163e37f537f537b6eae086e355c87d892d1a745
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.date: 02/26/2020
+ms.openlocfilehash: 8d738e9231959e7d156a053fa1ac28ccfc219547
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798490"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394193"
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>ユーザー アカウントの作成とアクセス許可の設定
+# <a name="create-user-accounts-and-assign-roles-and-permissions"></a>ユーザー アカウントの作成およびロールとアクセス許可の設定
 
 **適切なロール**
 
@@ -103,10 +104,3 @@ ms.locfileid: "82798490"
 1. パートナー センター ダッシュボードで、ダッシュボードの右上隅にある **[アカウント]** アイコンを選択し、 **[My profile]\(プロファイル\)** を選択します。
 
 2. **[Your learning]\(ラーニング\)** では、お客様の Microsoft Learning アカウントを関連付けることができます。また、Microsoft アカウントを Partner University に接続することもできます。
-
-
-
-
-
-
-

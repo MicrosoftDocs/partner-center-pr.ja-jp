@@ -1,23 +1,23 @@
 ---
-title: Azure プランに移行する - はじめに | パートナー センター
+title: Azure プランへの移行を開始する
+description: Azure の従量課金制プランの使用についてお客様とその顧客が知っておく必要があること (最初の手順、セキュリティに関する注意事項、開始方法など) を説明します。
 ms.topic: article
-ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure サービスを顧客向け従量課金制料金で購入するための、Azure プランのコマースエクスペリエンスについて説明します。 新しいセキュリティ要件についても説明します。
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: Azure, Azure プラン, サブスクリプションの購入, サブスクリプション
-robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 12/02/2019
+ms.openlocfilehash: 849b205d8a889659647ba8a9cf788428b6b25e21
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74681933"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394188"
 ---
-# <a name="move-to-azure-plan---get-started"></a>Azure プランに移行する - はじめに
+# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Azure プランで従量課金制料金の使用を開始する
 
 Microsoft は、パートナー センターに新しいコマース エクスペリエンスを導入しました。  この新しいコマース エクスペリエンスでは、パートナーは、Microsoft 顧客契約に基づいて、従量課金制の料金で提供される顧客向けの Azure サービスにアクセスできるようになります。
 
@@ -31,7 +31,7 @@ Microsoft は、パートナー センターに新しいコマース エクス�
 
 新しい Azure プランの下で取引を行い、新規注文を作成するパートナーは、運用環境でパートナー センター ダッシュボードと API を使用して、Microsoft Customer Agreement へのお客様の同意を確認する必要があります。
 
-2020 年 2 月 1 日から、既存の Microsoft Cloud 契約は CSP プログラムから削除されます。 その後、Microsoft 365、Dynamics 365、既存の Azure を含むその他のすべてのプランでは、新しい Microsoft Customer Agreement に対する顧客の同意について、パートナーの確認 (構成証明) が必要になります。 CSP のパートナーは、Microsoft Customer Agreement の構成証明なしに、顧客の新しい注文を作成することはできません。
+2020 年 2 月 1 日から、既存の Microsoft Cloud 契約は CSP プログラムから削除されます。 その後、Microsoft 365、Dynamics 365、既存の Azure を含むその他のすべてのプランでは、新しい Microsoft 顧客契約に対する顧客の同意について、パートナーの確認 (構成証明) が必要になります。 CSP のパートナーは、Microsoft Customer Agreement の構成証明なしに、顧客の新しい注文を作成することはできません。
 
 詳細については、「[Microsoft 顧客契約に対する顧客の同意を確認する](confirm-customer-agreement.md)」を参照してください。
 
@@ -62,6 +62,8 @@ Microsoft では、[Azure Active Directory Privileged Identity Management リソ
 - [パートナー獲得クレジット - 概要](partner-earned-credit.md)
 
 - パートナー獲得クレジット (PEC) の計算、パートナー獲得クレジットを得る資格があるロールとアクセス許可については、パートナー センター ダッシュボードの価格表で確認できます (サインインする必要があります)。
+
+## <a name="next-steps"></a>次の手順 
 
 - [パートナー獲得クレジットの計算方法 - 詳細](partner-earned-credit-explanation.md)
 - [Azure プランの価格表の説明](azure-plan-price-list.md)

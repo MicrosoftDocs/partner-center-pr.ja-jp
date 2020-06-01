@@ -1,7 +1,7 @@
 ---
-title: 特典オファーを購入または更新する | パートナー センター
+title: Microsoft Action Pack のプランの購入または更新
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Action Pack サブスクリプションを購入し、Action Pack 特典の使用を開始する方法について説明します。 また、更新、キャンセル、請求書を表示する方法などについても説明します。
@@ -9,28 +9,31 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Action Pack、MAPS、MAPS の更新、Action Pack の更新、Action Pack の購入
 ms.localizationpriority: high
-ms.openlocfilehash: 2d7bd216788c9d181862a7fa24f12df815b31de2
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: aac218976d071d4dc848944294e143bb1b85c6ac
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798850"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795962"
 ---
-# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Microsoft Action Pack サブスクリプションを初めて購入する、または Silver コンピテンシーまたは Gold コンピテンシーを更新する
+# <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Action Pack サブスクリプションや Silver コンピテンシーと Gold コンピテンシーを購入または更新する
 
 **適用対象**
 
--  パートナー センター
--  Partner Membership Center
+- パートナー センター
+- Partner Membership Center
+- MPN プログラム パートナー
 
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   MPN パートナー管理者
--   管理エージェント
--   販売代理店
 
-パートナー センター [ダッシュボード](https://docs.microsoft.com/partner-center/)から、Microsoft Action Pack サブスクリプション、Silver コンピテンシー、および Gold コンピテンシーを含む特典オファーを購入または更新できるようになりました。 
+- グローバル管理者
+- ユーザー管理者
+- MPN パートナー管理者
+- 管理エージェント
+- 販売代理店
+
+現在、Microsoft Partner Network (MPN) のメンバーは、パートナー センターの[ダッシュボード](https://docs.microsoft.com/partner-center/)で特典プランの特典を購入または更新できます。 このようなプランには、Microsoft Action Pack サブスクリプションや Silver コンピテンシーと Gold コンピテンシーが含まれます。
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>初めて Microsoft Action Pack を購入する
 

@@ -1,22 +1,23 @@
 ---
-title: 顧客がパートナーに管理特権を委任する | パートナー センター
+title: 顧客の管理特権の取得
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 管理者アクセス許可をリセラーに委任するか、または同じアクセス許可を削除するよう顧客に依頼する方法、およびアクセス許可を使用する方法について説明します。
+description: 顧客のサービスまたはサブスクリプションを代理で管理するために必要なアクセス許可を取得します。 アクセス許可の付与、取り消し、管理を行う方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 keywords: 委任された管理特権, 代理の管理, 特権の削除, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 9b82ed4828a112f28f3e2ef1da1a64745c9ffdc0
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340060"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394175"
 ---
-# <a name="customers-delegate-administration-privileges-to-partners"></a>顧客がパートナーに管理特権を委任する
+# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を取得する
 
 **適用対象**
 

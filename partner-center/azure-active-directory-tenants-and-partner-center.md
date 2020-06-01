@@ -1,22 +1,23 @@
 ---
-title: 職場アカウントとパートナー センター
+title: パートナー センターにアクセスするよう職場アカウントをリンクする
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナー センター アカウントを作成するために、職場アカウントが必要な理由を説明します。 職場アカウントが既にあるかどうか確認します。
+description: 会社をパートナー センター アカウントにリンクする職場アカウントを作成します。 これにより、会社の従業員がパートナー センターにアクセスできるようになります。
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: 職場アカウント, 電子メール, テナント, Azure テナント, アカウントの作成, ドメイン名
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e34eecb482df140a1a225d0d28460ef957701d59
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369269"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394218"
 ---
-# <a name="your-company-work-account-and-partner-center"></a>会社の職場アカウントとパートナー センター  
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>会社をパートナー センター アカウントにリンクする職場アカウントを作成する
 
 **適用対象**
 
@@ -44,7 +45,7 @@ Microsoft は、お客様の会社の職場アカウントとお客様の新し�
 
 会社に職場アカウントがあるかどうかわからない場合は、次の手順に従って確認します。 Microsoft Azure または Office 365 のアクティブなサブスクリプションがある場合は、既に職場アカウントが用意されています。
 
-1. [Azure portal](https://portal.azure.com) にサインインします
+1. [Azure portal](https://portal.azure.com) にサインインします。
 
 2. メニューから Azure Active Directory を選択し、ドメイン名を選択します。
 

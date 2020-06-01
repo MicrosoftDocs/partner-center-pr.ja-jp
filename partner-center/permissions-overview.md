@@ -1,29 +1,31 @@
 ---
-title: ユーザー ロールとアクセス許可の割り当て | パートナー センター
+title: ユーザーにロールとアクセス許可を割り当てる
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 商取引、紹介、インセンティブ、または会社の MPN メンバーシップを管理しているユーザーに最適なロールについて説明します。
+description: 商取引、紹介、インセンティブ、または MPN メンバーシップをパートナー センターで管理する、会社のユーザーに最適なロールについて説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: ロール, アクセス許可, 管理者, エージェント
 ms.localizationpriority: high
-ms.openlocfilehash: fbff7f353a0055aa645467fccaa049b598b4c880
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0858340c6965ac932f0d4694f6f21be89ca5f817
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80296399"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795881"
 ---
-# <a name="assign-users-roles-and-permissions"></a>ユーザー ロールとアクセス許可の割り当て
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>パートナー センターで作業する必要がある会社のユーザーにユーザーのロールとアクセス許可を割り当てる
 
 **適切なロール**
--    グローバル管理者
--    ユーザー管理者
--    MPN パートナー管理者
 
-貴社の正式名称や法的住所、サポートの詳細、税金の除外の申告、銀行情報、主要な連絡先など、パートナー プロファイルを設定しました。 次に、ユーザーにパスワードとロールを設定させて、ユーザーがパートナー センターでの作業を開始できるようにします。
+- グローバル管理者
+- ユーザー管理者
+- MPN パートナー管理者
+
+貴社の正式名称や法的住所、サポートの詳細、税金の除外の申告、銀行情報、主要な連絡先など、パートナー プロファイルを設定しました。 次のステップ:ユーザーにパスワードとロールを設定させて、ユーザーがパートナー センターでの作業を開始できるようにします。
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>パートナー センターで作業できるように従業員を設定する
 

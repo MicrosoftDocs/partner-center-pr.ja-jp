@@ -1,21 +1,22 @@
 ---
-title: ビジネス プロファイルの作成 | パートナー センター
+title: 見込み客情報の入手 - ビジネス プロファイルの作成
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft から潜在顧客を取得する方法について説明します。 重要なステップの 1 つが、パートナー センターでビジネス プロファイルを作成して、顧客が貴社を見つけられるようにすることです。
+description: Microsoft から見込み客情報を入手する方法について説明します。 1 つの鍵は、顧客がより簡単に貴社を見つけられるようにするビジネス プロファイルをパートナー センターで作成することです。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, 紹介案件, 見込み客情報, C2PC, 会社のプロファイル, 会社のマーケティング, パートナーの検索, ソリューション プロバイダーの検索, ビジネス プロファイル, マーケティング プロファイル
 ms.localizationpriority: high
-ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8f5c788be2fc408262e6edd47a87c3ac0f2ea2f8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722531"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795580"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -26,7 +27,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 -->
 
 
-# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>ビジネス プロファイルの作成と Microsoft からの潜在顧客の獲得
+# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Microsoft の見込み客情報を入手し、顧客が貴社を見つけられるようにビジネス プロファイルを作成する
 
 **適用対象**
 
@@ -148,5 +149,6 @@ LinkedIn 会社ページを追加すると、潜在顧客とのつながりを�
 - **Microsoft 経由でコンピテンシー タグを獲得する**。Microsoft 製品に関する自社の技能を示すことができます。
 - **推薦タグを獲得**する。貴社の業績を高く評価する既存のお客様から獲得できます。
 
-## <a name="related-topics"></a>関連トピック
+## <a name="next-steps"></a>次の手順
+
 [紹介案件への対応](responding-to-referrals.md)

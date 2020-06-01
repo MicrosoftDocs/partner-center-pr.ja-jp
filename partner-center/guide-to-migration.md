@@ -1,7 +1,7 @@
 ---
-title: PMC からパートナー センターに移行するためのガイド
+title: PMC からパートナー センターに移行する
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner Membership Center (PMC) からパートナー センターに会社を移行する方法について説明します。
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: high
-ms.openlocfilehash: 7c90c44d3b79431fc8d200528daf6a70b2fbccb9
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362400"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795832"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC からパートナー センターに移行するためのガイド
 
@@ -48,7 +49,7 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 
 ## <a name="start-with-your-work-email"></a>勤務先メールの使用を開始する
 
-会社に勤務先メールと AAD テナントがない場合は、パートナー センターのサインイン プロセス中に設定できます。 個人用アカウントなど、勤務先メール以外のメール アカウントを使用してサインインしようとすると、AAD テナントと勤務先メールを設定できるように、会社に関する情報を提供するように指示されます。 これらの会社の詳細は、パートナー センターでアカウントを完成させるために使用されるため、正確に入力してください。
+会社に勤務先メール アドレスと AAD テナントがない場合は、パートナー センターのサインイン プロセス中に設定できます。 個人用アカウントなど、勤務先メール アドレス以外のメール アカウントを使用してサインインしようとすると、AAD テナントと勤務先メール アドレスを設定できるように、会社に関する情報を提供するように指示されます。 これらの会社の詳細は、パートナー センターでアカウントを完成させるために使用されるため、正確に入力してください。
 
 >[!Note]
 >中国内のパートナーであり、Microsoft Partner Network とクラウド ソリューション プロバイダー (CSP) プログラムの両方に登録されている場合は、アカウントごとに個別のテナントが作成されます。 クラウド ソリューション プロバイダー プログラムのアカウントは国内クラウドで管理され、Microsoft Partner Network アカウントはグローバル クラウドで管理されます。 これらの 2 つのアカウントをリンクすることはできません。
@@ -57,7 +58,7 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 
 情報を確認または更新したら、 **[同意して続行する]** を選択します。
 このページの使用条件は、PMC で会社が既にサインインしている契約と**まったく同じ**です。  
-これにより、Azure AD テナントの作成が開始され、職場アカウントを使用できるようになります。
+この手順により、Azure AD テナントの作成が開始され、職場アカウントが提供されます。
 
 **[同意して続行する]** を選択すると、次の処理も実行されます。
 

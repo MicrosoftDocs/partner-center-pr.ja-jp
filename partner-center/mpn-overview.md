@@ -1,23 +1,23 @@
 ---
-title: Microsoft Partner Network メンバーシップ
+title: Microsoft Partner Network メンバーシップ特典
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft Action Pack、コンピテンシー、プログラム オプションなど、ビジネスを差別化し、市場に投入し、ソリューションを販売するための、Microsoft とのパートナーシップの利点について説明します。
+description: Microsoft Action Pack、コンピテンシー、プログラム オプションなど、市場への投入やソリューションの販売のための Microsoft とのパートナーシップの特典について説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362740"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795948"
 ---
-# <a name="partner-with-microsoft"></a>Microsoft との連携
+# <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Microsoft との連携 - 特典の活用、顧客を支援する方法、ビジネスの成長を促進する方法
 
 **適切なロール**
 

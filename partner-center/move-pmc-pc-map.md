@@ -1,22 +1,23 @@
 ---
-title: PMC からパートナー センターに移動する | パートナー センター
+title: PMC からパートナー センターに移動する
 ms.topic: article
-ms.date: 04/08/2020
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 更新、アカウントの構造、サインイン、ユーザー ロール、コンピテンシーなどに関連した PMC とパートナー センターの相違点と類似点について説明します。
+description: 更新、アカウントの構造、サインイン、ユーザー ロール、コンピテンシーなどの観点から見た PMC とパートナー センターの違いを理解します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: high
-ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 929abefbdf30940c94176bf03857a3b3bf0ad719
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81123302"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795754"
 ---
-# <a name="moving-from-pmc-to-partner-center"></a>PMC からパートナー センターに移動する
+# <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Partner Membership Center (PMC) からパートナー センターに移行する
 
 **適切なロール**
 -    グローバル管理者
