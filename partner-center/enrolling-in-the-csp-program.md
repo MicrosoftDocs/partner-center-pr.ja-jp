@@ -1,22 +1,21 @@
 ---
-title: クラウド ソリューション プロバイダー プログラムに登録する
+title: クラウド ソリューション プロバイダー プログラムに登録する | パートナー センター
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: お客様のビジネスに最も適したクラウド ソリューション プロバイダー (CSP) プログラム販売モデル (間接リセラーや直接請求パートナーなど) に登録する方法について説明します。
+description: クラウド ソリューション プロバイダー (CSP) のさまざまな販売モデルについて理解し、貴社に最適なモデルを決定します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a993f07a066f979776dea281ebc3d459b569dd5
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 49f404452d8cc386d9d47ef1bf8f51b0e79e1af2
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795161"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253929"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>クラウド ソリューション プロバイダー プログラムに登録して収益性の高いクラウド ソリューション ビジネスを構築する
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
 **適用対象**
 
@@ -42,7 +41,7 @@ CSP の申請を作成するときは、MPN ID、会社の正確な住所、銀�
 3. Microsoft が情報を検証した後、Microsoft 間接リセラーの条項合意を受け入れます。
 
 > [!IMPORTANT]  
-> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](https://partner.microsoft.com/pcv/announcements)など、通常の伝達方法でお知らせします。
+> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](announcements/index.md)など、通常の伝達方法でお知らせします。
 
 ## <a name="enroll-as-an-indirect-reseller"></a>間接リセラーとして登録する
 
