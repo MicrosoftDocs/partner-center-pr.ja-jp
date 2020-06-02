@@ -1,7 +1,7 @@
 ---
-title: マルチパートナーのサポート
+title: マルチパートナーのサポート | パートナー センター
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 03/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客が、クラウド ソリューション プロバイダー プログラムで、サービス専門分野の異なる複数のパートナーとの連携を求める場合があります。
@@ -9,15 +9,14 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 05a431a43aac1624c529df8a92c5a773793bf5a8
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8837799bb170f2148aac9a1849146615a4ffebd1
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795906"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253959"
 ---
-# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>複数のパートナーと協力したいお客様のためのマルチパートナーサポート
+# <a name="multi-partner-support"></a>マルチパートナーのサポート
 
 **適用対象**
 
@@ -46,7 +45,7 @@ Azure CSP テナントには、別の CSP パートナーからの追加の Azur
 - サブスクリプションの指名パートナーの変更
 
 > [!IMPORTANT]  
-> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](https://partner.microsoft.com/pcv/announcements)など、通常の伝達方法でお知らせします。
+> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](announcements/index.md)など、通常の伝達方法でお知らせします。
 
 
 
