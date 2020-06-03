@@ -1,5 +1,7 @@
 # [Microsoft パートナー センターについて](index.yml)
 
+# [お知らせ](announcements/TOC.md)
+
 # [Partner Network メンバーシップ](mpn-overview.md)
 ## [パートナー センター アカウントを作成する](mpn-create-a-partner-center-account.md)
 ## [職場の電子メール アドレスを取得する方法](buy-email-domain.md)
