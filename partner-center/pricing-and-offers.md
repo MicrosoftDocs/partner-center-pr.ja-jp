@@ -1,20 +1,20 @@
 ---
 title: 料金とプラン
 ms.topic: article
-ms.date: 02/27/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365、Microsoft Dynamics CRM、Enterprise Mobility Suite などのライセンスベースのサービスと、Azure などの使用量ベースのサービスの現在の価格表をご覧ください。
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ba6b3407f233376f99eea673e24f5a152839383a
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e92964b2b75a0ee4e9943740ba4da4aa71c82f9f
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394168"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328293"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、Enterprise Mobility Suite、Azure などの価格とプラン
 
@@ -82,8 +82,8 @@ CSP は、教育、非営利、政府向けコミュニティクラウドなど�
 
 |**Segment**   |**認定を受ける必要があるユーザー**   |**パートナーの顧客の見極め**|**有効な製品の種類**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|教育|Customer|いいえ、お客様の資格は Microsoft によって実行されます |ライセンスベースのみ|
-|非営利団体|Customer|いいえ、お客様はパートナーセンターの外にお客様を見極めます|ライセンスベースのみ|
+|Education|Customer (顧客)|いいえ、お客様の資格は Microsoft によって実行されます |ライセンスベースのみ|
+|非営利団体|Customer (顧客)|いいえ、お客様はパートナーセンターの外にお客様を見極めます|ライセンスベースのみ|
 |Government Community Cloud (GCC)|パートナーと顧客|GCC が有効になると、パートナーは GCC の顧客を作成できるようになります。| ライセンスベースのみ|
 |Azure Government|Partner|認定されると、パートナーは、に固有の CSP テナントで動作 Azure Government|Azure リソース|
 

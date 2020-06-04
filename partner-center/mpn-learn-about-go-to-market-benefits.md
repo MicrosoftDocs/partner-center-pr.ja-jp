@@ -1,7 +1,7 @@
 ---
 title: Microsoft のプランで市場に投入する方法について説明します
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft による市場投入までの時間を短縮し、潜在顧客を生み出し、ビジネスを拡大するのに役立つ情報を提供します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, メンバーシップ特典, メンバーシップ, マーケットトゥマーケットプラン, Microsoft との市場投入, マーケットへの移行, ゴールドメンバーシップ, シルバーメンバーシップ
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795826"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328203"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft のプランで市場を開拓する
 
@@ -29,7 +29,7 @@ ms.locfileid: "83795826"
 - グローバル管理者
 - MPN パートナー管理者
 
-Microsoft Partner Network メンバーになったときに、ビジネスの構築と拡大に役立つメンバーシップ特典にアクセスできるようになります。 Microsoft のリソース、オファリング、およびプログラムは、Microsoft Partner Network メンバーとして提供される[多くの利点](https://partner.microsoft.com/manage-your-partner-network-benefits)を備えています。
+Microsoft Partner Network メンバーになると、ビジネスの構築と拡大に役立つメンバーシップ特典にアクセスできるようになります。 Microsoft のリソース、オファリング、およびプログラムは、Microsoft Partner Network メンバーとして提供される[多くの利点](https://partner.microsoft.com/manage-your-partner-network-benefits)を備えています。
 
 市場投入までの時間を短縮し、潜在顧客を生み出し、ビジネスを拡大するのに役立つ、販売とマーケティングに関する専用リソースへのアクセスを提供します。
 
