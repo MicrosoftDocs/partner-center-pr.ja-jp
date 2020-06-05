@@ -1,22 +1,23 @@
 ---
-title: パートナーのセキュリティ要件 | パートナー センター
+title: パートナーのセキュリティ要件
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーにとって必須となった、多要素認証 (MFA) の有効化と、セキュリティで保護されたアプリケーション モデル フレームワークの採用に関する概要。
-author: isaiahwilliams
-ms.author: iswillia
+description: 多要素認証 (MFA) を有効にして、セキュア アプリケーション モデル フレームワークを採用するためのパートナーの要件を紹介します。
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b3e8b7ff739c9fbe37902b67721d324328fe2930
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "77672802"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998268"
 ---
-# <a name="partner-security-requirements"></a>パートナーのセキュリティ要件
+# <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>パートナー センターまたはパートナー センター API を使用するパートナー向けの、パートナーのセキュリティ要件
 
 **適用対象**
 
@@ -28,7 +29,8 @@ ms.locfileid: "77672802"
 - すべてのアドバイザー
 
 **該当するユーザー**
--   ゲスト ユーザーを含むすべての有効なユーザー
+
+- ゲスト ユーザーを含むすべての有効なユーザー
 
 プライバシーの保護とセキュリティの強化は、マイクロソフトの最優先事項の 1 つです。 最善の防御とは予防することで、私たちの強さが、最も弱いリンクと同程度でしかないことはわかっています。 そのために、エコシステムの全員が行動し、適切なセキュリティ保護を確保する必要があるのです。 パートナーと顧客を保護するために、マイクロソフトは、アドバイザー、コントロール パネル ベンダー、およびクラウド ソリューション プロバイダー プログラムに参加しているパートナーを対象とした一連の必須セキュリティ要件を導入しています。
 
@@ -40,7 +42,7 @@ ms.locfileid: "77672802"
 
 パートナーとその顧客を保護するため、パートナーには次のアクションをすぐに実行するようお願いします。  
 
-1. **パートナー テナント内のすべてのユーザー アカウントに対して多要素認証 (MFA) を有効にします**。 パートナー テナントのすべてのユーザー アカウントは、パートナー センターまたは API を使用して、Microsoft の商用クラウド サービスにサインインするとき、またはクラウド ソリューション プロバイダーで取引を行うときに、多要素認証 (MFA) によるチャレンジを受ける必要があります。 
+1. **パートナー テナント内のすべてのユーザー アカウントに対して多要素認証 (MFA) を有効にします**。 パートナー テナントのすべてのユーザー アカウントは、パートナー センターまたは API を使用して、Microsoft の商用クラウド サービスにサインインするとき、またはクラウド ソリューション プロバイダー プログラムで取引を行うときに、多要素認証 (MFA) によるチャレンジを受ける必要があります。
 
 2. **セキュリティで保護されたアプリケーション モデル フレームワークを採用します**。 セキュリティで保護されたアプリケーション モデル フレームワークを採用します。 Partner Center API と統合しているすべてのパートナーは、すべてのアプリとユーザー認証モデルのアプリケーションに対し、セキュリティで保護されたアプリケーション モデル フレームワークを採用する必要があります。
 
@@ -51,28 +53,28 @@ ms.locfileid: "77672802"
 
 ## <a name="actions-that-you-need-to-take"></a>実行する必要のあるアクション
 
-パートナー セキュリティ要件に準拠するには、パートナー テナント内の各ユーザー アカウントに多要素認証を適用する必要があります。 これは、次のいずれかの方法で実現できます。
+パートナー セキュリティ要件に準拠するには、パートナー テナント内の各ユーザー アカウントに多要素認証を適用する必要があります。 この操作は次のいずれかの方法で行うことができます。
 
 - [Azure AD のセキュリティの既定値](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)を実装する。
 
-- 各ユーザー アカウントについて Azure Active Directory Premium を購入する。 詳しくは、「[クラウドベースの Azure Multi-Factor Authentication のデプロイの計画](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted)」を参照してください。
+- 各ユーザー アカウントについて Azure Active Directory Premium を購入する。 詳しくは、「[Azure Multi-Factor Authentication のデプロイを計画する](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted)」を参照してください。
 
-- サードパーティ ソリューションを使用して、パートナー テナント内の各ユーザー アカウントに対して多要素認証を適用する。 ソリューションにより予期される情報が確実に提供される方法の詳細については、は、[セキュリティ要件がどのように適用されるか](#how-the-requirements-will-be-enforced)に関するセクションを参照してください。
+- サードパーティ ソリューションを使用して、パートナー テナント内の各ユーザー アカウントに対して多要素認証を適用する。 ソリューションが期待されるソリューションを確実に提供できるようにするには、[セキュリティ要件がどのように適用されるか](#how-the-requirements-will-be-enforced)に関するセクションを参照してください。
 
 > [!NOTE]
 > ソブリン クラウド (21Vianet、米国政府、ドイツ) では多要素認証は契約上は必須ではありませんが、これらのセキュリティ要件を採用することを強くお勧めします。
 
 ## <a name="security-defaults"></a>セキュリティの既定値
 
-セキュリティの既定値ポリシーは、パートナーが、ビジネス ニーズに応じてセキュリティ要件に MFA を実装するために選択することができる[オプション](#actions-that-you-need-to-take)の 1 つです。 基本レベルのセキュリティが追加料金なしで有効になります。 セキュリティの既定値を有効にする前に、Azure AD で組織の MFA を有効にする方法と、以下のキーに関する考慮事項を確認してください。
+セキュリティの既定値ポリシーは、パートナーが、ビジネス ニーズに応じてセキュリティ要件に MFA を実装するために選択することができる[オプション](#actions-that-you-need-to-take)の 1 つです。 基本レベルのセキュリティが追加料金なしで有効になります。 セキュリティの既定値を有効にする前に、Azure AD で組織の MFA を有効にする方法と、以下の重要な考慮事項を確認してください。
 
-- ベースライン ポリシーは、今後 2 か月維持された後、2020 年 2 月末に非推奨になります。
+- ベースライン ポリシーは、今後 2、3 か月維持された後、2020 年 2 月末に非推奨になります。
 
 - 既にベースライン ポリシーを採用しているパートナーは、セキュリティの既定に移行するための措置を講じる必要があります。
 
 - セキュリティの既定値は、プレビュー版のベースライン ポリシーに置き換わって一般提供されます。 セキュリティの既定値を有効にしたパートナーは、ベースライン ポリシーを有効にすることはできなくなります。
 
-- セキュリティの既定値を使用すると、すべてのポリシーが一度に有効になります。 
+- セキュリティの既定値を使用すると、すべてのポリシーが一度に有効になります。
 
 - [条件付きアクセス](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)を使用しているパートナーの場合、[セキュリティの既定値は使用できません](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)。
 
@@ -91,7 +93,7 @@ ms.locfileid: "77672802"
 
 これらの要件は、パートナー テナントのすべてのユーザー アカウントに適用されるため、パートナーは、多要素認証を実行できない Azure Active Directory 内のユーザー アカウントの識別や、組織で使用されているアプリケーションとデバイスのうち先進認証をサポートしていないものなど、円滑な展開を行うためにいくつかのことを考慮する必要があります。
 
-アクションを実行する前に、次の点について確認することをお勧めします 
+アクションを実行する前に、次の点について確認することをお勧めします
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>先進認証の使用をサポートしていないアプリケーションまたはデバイスはありますか。
 
@@ -105,7 +107,7 @@ Windows が実行され、Microsoft Office 2013 がインストールされて�
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>作業中にユーザーによるモバイル デバイスの使用を禁止するポリシーがありますか。
 
-実装する多要素認証ソリューションは、作業中に従業員がモバイル デバイスを使用できないようにする会社のポリシーの影響を受けるため、そのポリシーを特定することが重要です。 [Azure AD のセキュリティの既定値](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)の実装を通じて提供されるソリューションなど、確認の目的でのみ認証アプリの使用を許可するソリューションがあります。 モバイル デバイスの使用を禁止するポリシーが組織で採用されている場合は、次のいずれかのオプションを検討する必要があります
+実装する多要素認証ソリューションは、作業中に従業員がモバイル デバイスを使用できないようにする会社のポリシーの影響を受けるため、そのポリシーを特定することが重要です。 [Azure AD のセキュリティの既定値](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)の実装を通じて提供されるソリューションなど、確認の目的でのみ認証アプリの使用を許可するソリューションがあります。 モバイル デバイスの使用を禁止するポリシーが組織で採用されている場合は、次のいずれかのオプションを検討してください。
 
 - セキュリティで保護されたシステムで実行できる、時間ベースのワンタイム ベース パスワード (TOTP) アプリケーションをデプロイする
 
@@ -113,11 +115,11 @@ Windows が実行され、Microsoft Office 2013 がインストールされて�
 
 - 影響を受けるユーザーに対して [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) ライセンスを購入する
 
-#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>どの自動化または統合で、認証にユーザー資格情報が使用されていますか。
+#### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>どの自動化または統合で、認証にユーザー資格情報が使用されていますか。
 
-パートナー ディレクトリの各ユーザー (サービス アカウントを含む) に MFA を適用する必要があるため、認証にユーザー資格情報が使用されているすべての自動化または統合が影響を受けます。 このため、これらの状況で使用されているアカウントを特定することが重要です。 考慮する必要があるアプリケーションまたはサービスの例をいくつか次に示します
+パートナー ディレクトリの各ユーザー (サービス アカウントを含む) に MFA を適用する必要があるため、認証にユーザー資格情報が使用されているすべての自動化または統合が影響を受けます。 このため、これらの状況で使用されているアカウントを特定することが重要です。 検討すべきアプリケーションやサービスの例についての次の一覧を確認してください。
 
-- 顧客に代わってリソースをプロビジョニングするときに使用されるコントロール パネル 
+- 顧客に代わってリソースをプロビジョニングするときに使用されるコントロール パネル
 
 - 顧客への請求 (CSP プログラムに関連する場合) および顧客サポートに使用される任意のプラットフォームとの統合
 
@@ -144,9 +146,9 @@ Azure Multi-Factor Authentication または Azure AD のセキュリティの既
 
 ## <a name="resources-and-support"></a>リソースとサポート
 
-サポートとサンプル コードに関するリソースは、次のとおりです。
+サポートやサンプル コードについては、次のリソースを参照してください。
 
-- [パートナー センター セキュリティ ガイダンス グループコ ミュニティ](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance): 今後のイベントを確認できるオンライン コミュニティです。このコミュニティでは、不明点について質問することもできます。
-- [パートナー センターの .NET サンプル](https://github.com/microsoft/partner-center-dotnet-samples): この GitHub リポジトリには、セキュリティで保護されたアプリケーション モデル フレームワークを実装する方法を示す、.NET を使用して開発されたサンプルが含まれています。
-- [パートナー センターの Java サンプル](https://github.com/microsoft/partner-center-java-samples): この GitHub リポジトリには、セキュリティで保護されたアプリケーション モデル フレームワークを実装する方法を示す、Java を使用して開発されたサンプルが含まれています。
-- [パートナー センターの PowerShell - 多要素認証](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) - この記事では、セキュリティで保護されたアプリケーション モデル フレームワークを、PowerShell を使用して実装する方法を詳しく説明しています。
+- [パートナー センター セキュリティ ガイダンス グループ コミュニティ](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance):パートナー センター セキュリティ ガイダンス グループ コミュニティは、今後のイベントを確認でき、不明点について質問することもできるオンライン コミュニティです。
+- [パートナー センターの .NET のサンプル](https://github.com/microsoft/partner-center-dotnet-samples):この GitHub リポジトリには、セキュア アプリケーション モデル フレームワークを実装する方法を示す、.NET を使用して開発されたサンプルが含まれています。
+- [パートナー センターの Java のサンプル](https://github.com/microsoft/partner-center-java-samples):この GitHub リポジトリには、セキュア アプリケーション モデル フレームワークを実装する方法を示す、Java を使用して開発されたサンプルが含まれています。
+- [Partner Center PowerShell - 多要素認証](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth):この多要素認証に関する記事では、セキュア アプリケーション モデル フレームワークを、PowerShell を使用して実装する方法を詳しく説明しています。

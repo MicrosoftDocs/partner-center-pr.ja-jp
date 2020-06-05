@@ -1,20 +1,21 @@
 ---
-title: サービス契約を計画するための資格の要件を表示する
+title: サービス契約を計画するための資格
 ms.topic: article
-ms.date: 03/24/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 企業が企業のお客様に提供したいと考えているソフトウェアアシュアランス計画サービスの各契約の資格要件について説明します。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 Keywords: デプロイ前、計画、ソフトウェアアシュアランス、契約、要件、有資格、オファリング
 ms.localizationpriority: medium
-ms.openlocfilehash: e9d66f2f6792780d77db130d5fd7d0f44d5f6c8c
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 18896a98145a1f0980f1eaea43b4a0ef46bc7423
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362450"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425911"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>サービス契約を計画するための資格の要件を表示する
 

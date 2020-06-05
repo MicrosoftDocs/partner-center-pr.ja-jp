@@ -1,43 +1,43 @@
 ---
-title: Azure Partner Shared Services の追加 | パートナー センター
+title: Azure Partner Shared Services の追加
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure Partner Shared Services を使用して、自分で使用する Azure サブスクリプションを購入したり、Azure の購入、追跡、管理のための統一された方法を利用したりすることができます。
+description: Azure Partner Shared Services を使用して、自分で使用する Azure サブスクリプションを購入し、Azure の購入、追跡、および管理のための統一された方法を利用できます。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, Shared Services, テナント
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 2d6c51ceb9151298f21bb0ebfd696e57bd8d13fb
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 62989c58284de46834f02abc01041c454e725a81
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943455"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425951"
 ---
-# <a name="add-azure-partner-shared-services"></a>Azure Partner Shared Services の追加
+# <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>パートナーが自分で使用するために Azure サブスクリプションを購入できるように Azure パートナー共有サービスを追加する
 
 **適用対象**
 
--  パートナー センター
+- パートナー センター
 
-Azure Partner Shared Services は、CSP プログラムのパートナー様向けの新しいプランの種類です。このプランでは、パートナー様自身が使用する Azure サブスクリプションを購入できます。  パートナーは、Azure のライセンスと再販契約を Microsoft と統合する機能に加えて、Azure の購入、追跡、および管理に対して統一された方法を使用する機会を提供します。 Azure Partner Shared Services の提供開始により、パートナー様は、Microsoft Enterprise Agreement および Web ダイレクト プログラムと同じように、CSP で柔軟に Azure サブスクリプションを利用できるようになりました。開発環境やテスト環境の構築、内部負荷の展開、共有サービスやマルチテナント アプリケーションのホスティングなどのシナリオにも対応できます。  
+Azure Partner Shared Services は、CSP プログラムのパートナー様向けの新しいプランの種類です。このプランでは、パートナー様自身が使用する Azure サブスクリプションを購入できます。パートナーにとっては、Microsoft との Azure ライセンス契約および再販契約を集約できるだけでなく、統一された方法で Azure を購入、追跡、管理できるようになります。 Azure Partner Shared Services を使用すると、パートナーは、Microsoft マイクロソフトエンタープライズ契約および Web ダイレクトプログラムの場合と同じように、CSP で Azure サブスクリプションを柔軟に使用できるようになり、開発とテスト環境の構築、内部ワークロードのデプロイ、共有サービスやマルチテナントアプリケーションのホストなどのシナリオを開くことができます。  
 
 ## <a name="create-the-shared-services-tenant"></a>共有サービス テナントを作成する
 
-1. **[設定]**  >  **[View all settings]** (すべての設定を表示) >  **[共有サービス]** の順に移動します。
+1. [**設定**] [すべての設定] [  >  **View all settings**  >  **共有サービス**] にアクセスします。
 
-    ![**[アカウント設定]** の **[共有サービス]**](images/sharedservices2.png)
+   ![**[アカウント設定]** の **[共有サービス]**](images/sharedservices2.png)
 
-2. 共有サービス テナントをお持ちでない場合は、 **[Create shared services]** (共有サービスの作成) をクリックします。
+2. 共有サービス テナントをお持ちでない場合は、**[Create shared services]** (共有サービスの作成) をクリックします。
 
-    ![共有サービスの作成](images/sharedservices3.png)
+   ![共有サービスの作成](images/sharedservices3.png)
 
 3. これにより、共有サービス テナントが作成され、共有リソースや内部ワークロードで使用する Azure CSP Shared Services サブスクリプションの購入が行われます。
 
-    ![テナントの作成とサブスクリプションの購入](images/sharedservices5.png)
+   ![テナントの作成とサブスクリプションの購入](images/sharedservices5.png)
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Azure - Internal/Shared Services プランについて
 
@@ -49,7 +49,7 @@ Azure Partner Shared Services は、CSP プログラムのパートナー様向�
 
 - Azure-Internal/Shared Services サブスクリプションの主な用途は、独自の開発目的で Azure を使用できるようにすることです。 このプランのプロビジョニングに使用する共有テナントは、Office 365 や Dynamics のシートなどの他のサービスに使うことはできません。 
 
-- サブスクリプションのキャンセルは、他のサブスクリプションと同様の方法で行うことができます。 **[設定]**  >  **[View all settings]** (すべての設定を表示) >  **[共有サービス]** の順に移動します。 Azure - Internal/Shared Services を選択して取り消します。
+- サブスクリプションのキャンセルは、他のサブスクリプションと同様の方法で行うことができます。 [**設定**] ビューの [すべての設定] [  >  **View all settings**  >  **共有サービス**] にアクセスします。 Azure - Internal/Shared Services を選択して取り消します。
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Azure Partner Shared Services の利用状況の詳細にアクセスする
 
@@ -57,21 +57,20 @@ Azure の利用状況は、CSP 請求書と調整ファイルに記載されま�
 
 ## <a name="azure-partner-shared-services-pricing"></a>Azure Partner Shared Services の価格
 
-Azure Partner Shared Services の新しい価格ファイルを確認するには、 **[販売]**  >  **[料金とプラン]** の順に移動し、現在の月の価格表を選択します。 今後数週間のうちには、特定の価格カードの API もリリースされる予定です。
+Azure パートナーの共有サービスの新しい価格ファイルを確認するに**Sell**は、  >  **価格とプラン**の販売に関するページにアクセスし、当月の価格表を選択してください。 今後数週間のうちには、特定の価格カードの API もリリースされる予定です。
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>マーケットプレースのプランと Azure Partner Shared Services
 
-2019 年 3 月 1 日時点で、Azure Partner Shared Services (APSS) ではマーケットプレースのプランがサポートされなくなります。   
+2019年3月1日の時点で、Azure Partner Shared Services (APSS) では Marketplace プランはサポートされなくなりました。
 
 |**マーケットプレースのサポート**   |**2019 年 3 月 1 日より前にサポートされる APSS**|**2019 年 3 月 1 日以降**|
 |---------------------------|:----------------------------|:-------------------|
-|ライセンス持ち込み (BYOL) と無料サービス   | [はい]   | 必須ではない|
-|その他のサードパーティのマーケットプレースのプラン   | 必須ではない   |必須ではない|
+|ライセンス持ち込み (BYOL) と無料サービス   | はい   | いいえ|
+|その他のサードパーティのマーケットプレースのプラン   | いいえ   |いいえ|
 
+APSS を使用してデプロイされた BYOL または無料のサービスを利用しているパートナーは影響を受けません。ただし、2019年3月1日以降、新しい BYOL または無料サービスを購入することはできません。
 
-APSS を使用して展開された BYOL または無料サービスを備えたパートナーには影響がありませんが、2019 年 3 月 1 日以降、新しい BYOL や無料サービスを購入することはできません。 
+(BYOL と無料サービスだけでなく) 利用可能な Marketplace プランの完全なカタログを利用するには、CSP パートナーが web ダイレクト Azure サブスクリプションを使用して共有サービスをデプロイすることをお勧めします。  以前にサードパーティの BYOL と無料のサービスリソースをデプロイしたことがあり、それを引き続き使用してサードパーティ製品をデプロイする場合は、[既存の Azure サブスクリプション](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)の Web direct 移行に APSS サブスクリプションを移行することをお勧めします。
 
-(BYOL や無料サービスだけでなく) 利用可能なすべてのマーケットプレースのプランを掲載するカタログを活用するには、CSP パートナーは Web ダイレクトの Azure サブスクリプションを使用して共有サービスを展開することをお勧めします。  以前よりマーケットプレースからサードパーティの BYOL と無料サービスのリソースを展開し、それらを引き続き使用してサードパーティのプランをさらに展開することを希望する CSP パートナーは、Web ダイレクト「[既存の Azure サブスクリプションを移行する](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)」に APSS サブスクリプションを移行することをお勧めします。
-
-2019 年 3 月 1 日以降、APSS サブスクリプションを継続して使用し、新しいサードパーティの [BYOL サービス](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)または無料サービスを展開することを計画しているパートナーは、これらを APSS サブスクリプションに展開するために ISV からの指示に従います。
+2019年3月1日より後に APSS サブスクリプションの使用を予定しており、新しいサードパーティの[Byol サービス](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)または無料サービスをデプロイすることを計画しているパートナーは、isv の指示に従ってこれらを APSS サブスクリプションにデプロイできます。
 

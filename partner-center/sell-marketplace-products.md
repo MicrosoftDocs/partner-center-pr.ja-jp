@@ -1,29 +1,30 @@
 ---
-title: 商用マーケットプレース製品にサブスクリプションを販売する | パートナー センター
+title: 商用 marketplace サブスクリプションを販売する
 ms.topic: article
-ms.date: 11/17/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターでは、独立系ソフトウェアベンダー (Isv) によって marketplace に発行された SaaS 製品に顧客のサブスクリプションを販売する方法について説明します。
-author: MicheleHope
-ms.author: v-mihope
+description: パートナーセンターでは、独立系ソフトウェアベンダー (Isv) によって商用マーケットプレースに公開された SaaS 製品に対する顧客のサブスクリプションを販売する方法について説明します。
+author: LauraBrenner
+ms.author: labrenne
 keywords: サブスクリプション, Marketplace, サード パーティ, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 93a4547ba4361343b3c4cef05c7953e372ba627d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b18b0196b3aa8c3013fe7515b745277db7b55f21
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253079"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426021"
 ---
-# <a name="sell-subscriptions-to-commercial-marketplace-products"></a>商用マーケットプレース製品にサブスクリプションを販売する
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>パートナーセンターを使用して、商用 marketplace 製品に対するサブスクリプションを顧客に販売する
 
 **適用対象**
 
 - パートナー センター
 - CSP パートナー
 
-CSP プログラムのパートナーは、パートナーセンターを使用して、独立系ソフトウェアベンダー (Isv) によって商用マーケットプレース ([Microsoft AppSource](https://appsource.microsoft.com/)および[Azure marketplace](https://azuremarketplace.microsoft.com/)) に発行されたサービスとしてのソフトウェア (SaaS) 製品に対する顧客のサブスクリプションを販売できます。 
+CSP プログラムのパートナーとして、パートナーセンターを使用して、独立系ソフトウェアベンダー (Isv) によって商用マーケットプレース ([Microsoft AppSource](https://appsource.microsoft.com/)および[Azure marketplace](https://azuremarketplace.microsoft.com/)) に発行されたサービスとしてのソフトウェア (SaaS) 製品に対する顧客の販売を行うことができます。
 
 これは、貴社のビジネスを差別化し、特定のビジネス ニーズに対応するソフトウェア バンドルを顧客に提供するのに役立ちます。 Microsoft 製品の場合と同じように、これらのマーケットプレース SaaS 製品に対するライセンスとサブスクリプションを管理します。
 

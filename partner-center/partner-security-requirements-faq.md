@@ -1,20 +1,21 @@
 ---
-title: パートナーのセキュリティ要件の FAQ | パートナー センター
+title: パートナーのセキュリティ要件に関するよくある質問
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーのセキュリティ要件についてよく寄せられる質問
-author: isaiahwilliams
-ms.author: iswillia
+description: パートナーのセキュリティ要件とは何か、パートナーはそれをどのように実装する必要があるか、それを満たしているかをどのように確認できるかなどの、パートナーのセキュリティ要件に関するよくある質問。
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: 72ad7bab25c295fa039e7b29f9d4369c0434814c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 89c53daff52877c9d1facffe8c03e75a1f5b3dae
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80529777"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998368"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
 
@@ -337,3 +338,4 @@ Azure Active Directory の技術製品サポート オプションを、MPN 特�
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>一般的な技術的問題に関する詳細情報はどこで入手できますか?
 
 一般的な技術的問題に関する情報については、[こちら](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues)を参照してください。
+

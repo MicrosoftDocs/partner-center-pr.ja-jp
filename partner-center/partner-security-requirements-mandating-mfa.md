@@ -1,20 +1,21 @@
 ---
-title: パートナー テナントに MFA を義務付ける | パートナー センター
+title: パートナー テナントに MFA を義務付ける
 ms.topic: article
-ms.date: 11/12/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー テナントに MFA を義務付けることが顧客リソースへのアクセスのセキュリティ保護にどのように役立つかについて説明します。 サンプル シナリオが含まれています。
-author: isaiahwilliams
-ms.author: iswillia
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
-ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9454e9410e4110fdf3542bde3696d8447d4c90d0
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81462211"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998308"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>パートナー テナントに多要素認証 (MFA) を義務付ける
 

@@ -1,23 +1,24 @@
 ---
-title: 顧客に教育を販売する方法
-description: 教育機関の顧客を作成して、パートナーセンターでプランを販売する方法について説明します。
+title: 教育機関のお客様にオファーを販売する方法
+description: 教育機関向けの顧客を作成し、パートナーセンターでプランを販売する方法について説明します。
 ms.topic: article
-ms.date: 3/20/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: 教育、特別なセグメント
 ms.localizationpriority: medium
-ms.openlocfilehash: 99d5576cfcdad5320d90c19ca705b7c43cb3e7ab
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362490"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426011"
 ---
-# <a name="how-to-sell-education-to-customers"></a>顧客に教育を販売する方法
+# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>教育機関のお客様にオファーを販売する方法 & パートナーセンターで教育機関の顧客を作成する方法
 
 **適用対象**
 
@@ -37,6 +38,7 @@ ms.locfileid: "83362490"
 > Microsoft では、新たに作成された各教育機関の顧客テナントが教育機関向けに認定されていることを確認します。  審査プロセスの遅延を防ぐために、必要な情報をできるだけ正確かつ完全に入力してください。
 
 1. パートナー センターにサインインします。
+
 2. [ **Customers** ] を選択し、[ **Add a customer**] を選択します。 **特別な要件**のドロップダウンから [**教育**] を選択します。  必要に応じて、アカウント情報の残りの部分を入力します。  審査プロセスを支援する主なフィールドは次のとおりです。
 
    - 会社名: 審査に必須の法人名を入力します
@@ -78,7 +80,7 @@ ms.locfileid: "83362490"
 
 2. ブラウザーを更新してページをリセットします。 [**更新**] ボタンが表示され、**特別な**制限の状態が **[なし**] に設定されます。
 
-3. **[更新]** を選択します。 [**サービス管理**] ページで、[ **Office 365**] を選択します。
+3. **[Update]\(更新\)** を選択します。 [**サービス管理**] ページで、[ **Office 365**] を選択します。
 
 4. ブラウザーの新しいタブで Office 365 管理センターにリダイレクトされます。 資格情報を使用してサインインするように要求される場合があります。
 

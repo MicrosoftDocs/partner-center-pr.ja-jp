@@ -1,28 +1,28 @@
 ---
-title: マイクロソフトによるサポート | パートナー センター
+title: Microsoft によるサポート
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft サービスやパートナー センターで問題が発生した場合は、マイクロソフトにエスカレートしてサポートを依頼し、解決まで問題を追跡できます。
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a8bd33806e8b741539060204cda17bf7ddfc975
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cc4b9ac8a371c63b44624431546dae359b9938db
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023464"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425893"
 ---
-# <a name="support-from-microsoft"></a>Microsoft によるサポート
+# <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Microsoft からのサポート-問題をエスカレートするタイミング、報告する方法、またはサービスの正常性を確認する方法
 
 **適用対象**
 
--  Partner Center
--  米国政府機関向け Microsoft Cloud のパートナー センター
-
+- パートナー センター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
 Microsoft サービスやパートナー センターで問題が発生した場合は、Microsoft にエスカレートしてサポートを依頼し、解決まで問題を追跡できます。
 

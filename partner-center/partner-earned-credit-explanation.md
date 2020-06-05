@@ -1,30 +1,32 @@
 ---
-title: マネージド サービスのパートナー獲得クレジット (プレビュー) | パートナー センター
+title: マネージド サービスのパートナー獲得クレジット
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: マネージド サービスに対する Microsoft パートナー獲得クレジットの計算および支払方法と、お客様が適格であることを確認する方法について説明します。
+description: マネージド サービスに対する Microsoft パートナー獲得クレジット (PEC) の計算および支払方法と、お客様が適格であることを確認する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d8e3ad7be5d2ab761d9af2de1e1b0d40974333f1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75005001"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998278"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>パートナー獲得クレジットの計算方法と支払方法
 
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   管理エージェント
--   課金管理者
--   販売代理店
+
+- グローバル管理者
+- ユーザー管理者
+- 管理エージェント
+- 課金管理者
+- 販売代理店
 
 マネージド サービスのパートナー獲得クレジット (PEC) では、顧客の Azure 環境の一部または全体の IT の運用と管理を 24 時間 365 日体制で実施しているパートナーを認識してリワードが提供されます。 既定では、CSP では、顧客のサブスクリプションに対して必要なアクセス権がパートナーに付与されます。これにより、パートナーは、サブスクリプションのリソースに対する運用管理と制御を 24 時間 365 日体制で実行できます。 次のセクションで、パートナーと取引するために顧客がアクセスをプロビジョニングするその他の方法について説明します。 月々の請求額は、パートナー獲得クレジットのネット値です。 パートナーは、毎月の調整ファイルで PEC の詳細を確認できます。 パートナーと取引するために顧客がアクセスをプロビジョニングするその他の方法については、「[Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)」を参照してください。
 
