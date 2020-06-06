@@ -1,7 +1,7 @@
 ---
-title: CSP グローバル マーケット | パートナー センター
+title: CSP グローバル市場
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: お客様の会社の所在地に応じて、CSP オファーを販売できる国、地域、および通貨をご覧ください。
@@ -10,17 +10,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: CSP マーケット, テリトリ, CSP で販売できる場所, CSP プラン, 地域, クラウド ソリューションの販売, グローバル CSP
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 17b2b27b0a1398128f479c39566efd36377af692
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7d7d67bded18dfacd568d23e61d165de0be68f0f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798700"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467432"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>クラウド ソリューション プロバイダー プログラムの地域市場と通貨
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>クラウドソリューションプロバイダープログラムの地域市場と、CSP プランを販売できる通貨
 
-会社の場所によって市場が決まります。 市場には CSP プランを販売できる地域や国が含まれます。
+会社の場所によって市場が決まります。 市場には、クラウドソリューションプロバイダー (CSP) プログラムの提供を販売できるリージョンや国が含まれています。
 
 たとえば、会社が米国にある場合は、米国およびその他の米領諸島の顧客に対して CSP オファーを販売できます。 会社がブラジルにある場合は、ブラジルの顧客にだけ CSP プランを販売できます。 会社がアフリカ地域にある場合は、アフリカ地域内の 18 か国すべての顧客に CSP プランを販売できます。
 
@@ -55,14 +55,14 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 | 中央アフリカ共和国 |   USD    |
 | チャド                     |   USD    |
 | コモロ                  |   USD    |
-| コンゴ共和国                    |   USD    |
+| コンゴ                    |   USD    |
 | コンゴ民主共和国              |   USD    |
 | コートジボワール            |          |
 | ジブチ                 |   USD    |
 | 赤道ギニア        |   USD    |
 | エリトリア                  |   USD    |
 | エチオピア                 |          |
-| フランス領ポリネシア         |   USD    |
+| 仏領ポリネシア         |   USD    |
 | ガボン                    |   USD    |
 | ガンビア                   |   USD    |
 | ガーナ                    |   USD    |
@@ -74,14 +74,14 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 | マラウイ                   |   USD    |
 | マリ                     |   USD    |
 | モーリシャス                |   USD    |
-| マイヨット島                  |   USD    |
+| マヨット                  |   USD    |
 | ナミビア                  |   USD    |
 | ニューカレドニア            |   USD    |
 | ニジェール                    |   USD    |
 | ナイジェリア                  |   USD    |
 | レユニオン                  |   USD    |
 | ルワンダ                   |   USD    |
-| サントメ・プリンシペ    |   USD    |
+| サントメ プリンシペ    |   USD    |
 | セネガル                  |          |
 | セーシェル               |   USD    |
 | シエラレオネ             |   USD    |
@@ -133,7 +133,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  フィジー                  |   AUD    |
 |  仏領極南諸島| AUD |
 |  グアム                  |  AUD     |
-|  ハード・マクドナルド諸島| AUD |
+|  ハード島とマクドナルド諸島| AUD |
 |  キリバス              |   AUD    |
 |  マーシャル諸島      |   AUD    |
 |  ミクロネシア            |   AUD    |
@@ -143,12 +143,12 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  北マリアナ諸島| AUD    |
 |  パラオ                 |   AUD    |
 |  パプアニューギニア      |   AUD    |
-|  ピトケアン島      |   AUD    |
+|  ピトケアン諸島      |   AUD    |
 |  ソロモン諸島       |   AUD    |
-|  トケラウ諸島               |   AUD    |
+|  トケラウ               |   AUD    |
 |  トンガ                 |   AUD    |
 |  ツバル                |   AUD    |
-|  ワリス・フテュナ諸島     |   AUD    |
+|  ウォリス・フツナ     |   AUD    |
 |
 
 ## <a name="brazil-region-and-market"></a>ブラジルの地域と市場
@@ -167,7 +167,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  国/リージョン | Currency |
 |  -------------- |:--------:|
 |  Canada         |   CAD    |
-|  サンピエール・ミクロン|  CAD   |
+|  サンピエール島・ミクロン島|  CAD   |
 |
 
 ## <a name="europe-region-and-market"></a>ヨーロッパの地域と市場
@@ -194,13 +194,13 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  ジブラルタル      |   GBP    |
 |  ギリシャ         |   EUR    |
 |  グリーンランド      |          |
-|  ガーンジー島       |   GBP    |
+|  ガーンジー       |   GBP    |
 |  ハンガリー        |   EUR    |
 |  アイスランド        |   EUR    |
 |  アイルランド        |   EUR    |
 |  マン島    |   GBP    |
 |  イタリア          |   EUR    |
-|  ジャージー島         |   GBP    |
+|  ジャージー         |   GBP    |
 |  ラトビア         |   EUR    |
 |  リヒテンシュタイン  |   EUR    |
 |  リトアニア      |   EUR    |
@@ -220,7 +220,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  スウェーデン         |   SEK    |
 |  スイス    |   CHF    |
 |  英国             |   GBP    |
-|  バチカン市国   |          |
+|  バチカン   |          |
 |
 
 ## <a name="india-region-and-market"></a>インドの地域と市場
@@ -257,7 +257,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  国/リージョン | Currency |
 |  -------------- |:--------:|
 |  アンギラ       |   USD    |
-|  南極     |   USD    |
+|  南極大陸     |   USD    |
 |  アンティグア・バーブーダ| USD  |
 |  アルゼンチン      |   USD    |
 |  アルバ          |   USD    |
@@ -273,7 +273,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  コロンビア       |   USD    |
 |  コスタリカ     |   USD    |
 |  キュラソー島        |   USD    |
-|  ドミニカ国       |  USD     |
+|  ドミニカ       |  USD     |
 |  ドミニカ共和国| USD   |
 |  エクアドル        |   USD    |
 |  エルサルバドル    |   USD    |
@@ -288,7 +288,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  ジャマイカ        |   USD    |
 |  マルティニーク     |          |
 |  メキシコ         |   USD    |
-|  モンセラット     |   USD    |
+|  モントセラト     |   USD    |
 |  ニカラグア      |   USD    |
 |  パナマ         |   USD    |
 |  パラグアイ       |   USD    |
@@ -298,10 +298,10 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  サン バルテルミー島|  USD    |
 |  セントクリストファー・ネイビス|    |
 |  セントルシア    |   USD    |
-|  サンマルタン島   |   USD    |
+|  サン・マルタン   |   USD    |
 |  セントビンセント及びグレナディーン諸島| USD |
 |  シント・ユースタティウス島 |   USD    |
-|  シント・マールテン島   |   USD    |
+|  シント・マールテン   |   USD    |
 |  サウスジョージア・サウスサンドウィッチ諸島| USD|
 |  スリナム       |   USD    |
 |  トリニダード・トバゴ|USD   |
@@ -401,5 +401,5 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  国/リージョン       | Currency |
 |  -------------        |:--------:|
 |  United States        |   USD    |
-|  米領小離島|   USD    |
+|  米国領有小離島|   USD    |
 |

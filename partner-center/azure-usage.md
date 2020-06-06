@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure, 予約, VM, 管理, 請求, 使用, サイズ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f214a3dd507370f37347d4e014059367f13c5669
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205780"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453279"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ
 
@@ -54,13 +54,13 @@ ms.locfileid: "82205780"
 3. ポータルのメニューから **[仮想マシン]** を選択し、予約を購入する対象の VM を選択します。
 4. VM の詳細ページで、次に示すように、サイズとリージョンの情報を検索し、この情報を使用してパートナーセンターで予約を購入します。  
 
-    ![[詳細] ページのサイズとリージョンの情報](images/usage1.png)
+    :::image type="content" source="images/usage1.png" alt-text="[詳細] ページのサイズとリージョンの情報":::
 
 **Microsoft Azure PowerShell を使用して VM サイズ情報を取得する**
 
 下の画像の情報を使用して、予約を購入する対象の VM の場所とサイズを取得します。 
 
-![VM の場所とサイズ](images/usage2.png)
+:::image type="content" source="images/usage2.png" alt-text="VM の場所とサイズ":::
 
 **Azure Resource Manager (ARM) API を使用して VM サイズ情報を取得する**
 
@@ -70,7 +70,8 @@ ms.locfileid: "82205780"
 
 3. この呼び出しでは、**vmSize** と **location** の値が返されます (下図参照)。
 
-    ![vmsize 値](images/usage3.png) ![の場所の値](images/usage4.png)
+    :::image type="content" source="images/usage3.png" alt-text="vmSize 値":::
+    :::image type="content" source="images/usage4.png" alt-text="場所の値":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Azure VM の使用状況と予約割引を確認する
 
@@ -110,7 +111,7 @@ ms.locfileid: "82205780"
 
 Azure Utilization API を使用すると、予約の使用状況データを取得できます。これにより、顧客が予約割引を獲得できるかどうかと、どの VM (仮想マシン) に割引が適用されるかを確認できます。 例 A と例 B を比較して、顧客の予約使用状況を確認する方法を確認してください。
 
-![予約の使用例](images/usage5.png)
+:::image type="content" source="images/usage5.png" alt-text="予約の使用例":::
 
 - reservationId は、VM に割引を適用するために使用された Azure 予約を識別します。
 - consumptionMeter は、予約割引が適用されている VM の MeterId です。

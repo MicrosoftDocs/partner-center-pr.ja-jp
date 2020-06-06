@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795782"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453189"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>パートナーメンバーシップセンターからの複数の企業のパートナーセンターへの移行 (PMC)
 
@@ -42,17 +42,17 @@ ms.locfileid: "83795782"
 
 4. ビジネスと地域を選択し、保存します。
 
-![既存のアカウント](images/migration/accountwithus.png)
+:::image type="content" source="images/migration/accountwithus.png" alt-text="既存のアカウント":::
 
 ## <a name="your-company-has-an-account-in-partner-center"></a>パートナー センターに会社のアカウントがある
 
 既存のアカウントが表示され、会社の詳細 (現在サインインしているアカウント) が、このアカウントに統合されることが通知されます。
 
-![パートナー センターのアカウント](images/migration/existingaccount2.png)
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="パートナー センターのアカウント":::
 
 この画面には、パートナー センターで既に作成されている既存のアカウントの詳細 (名前と住所) と、主要連絡先の詳細が表示されます。
 
-**[続行]** を選択します。
+**[続行]** をクリックします。
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>アカウント統合の際の動作
 
@@ -76,7 +76,7 @@ ms.locfileid: "83795782"
 
 詳細は PMC の情報に基づいており、会社が正当であることを確認するために検証されます。
 
-![詳細を確認する](images/migration/review.png)
+:::image type="content" source="images/migration/review.png" alt-text="詳細の確認":::
 
 移動するアカウントが、既存のアカウントと同じ国または地域にある場合は、その住所を使用するか、別の住所を追加するかを決めることができます。 別の住所を使用する場合は、その住所が検証されます。 同じ住所を使用する場合は、既存の住所と主要連絡先が使用されます。
 
@@ -86,7 +86,7 @@ ms.locfileid: "83795782"
 
 プロファイルを表示すると、法的ビジネス (PMC では本社) の情報とその他のすべての場所に関する情報が表示されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [PMC からパートナー センターに移動する](move-pmc-pc-map.md)
 - [ユーザー アカウントの作成](create-user-accounts-and-set-permissions.md)

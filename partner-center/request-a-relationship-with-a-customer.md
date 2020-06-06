@@ -1,26 +1,26 @@
 ---
-title: 顧客との関係を要求する | パートナー センター
+title: 顧客との再販業者関係の要求
 ms.topic: article
-ms.date: 01/28/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 関係の要求は、マルチパートナー シナリオとマルチチャンネル シナリオで使用されます。 また、顧客が委任された管理者特権を削除していて、プロビジョニングまたはサポートを提供するためにそれらを復元する必要がある場合にも便利です。
+description: マルチパートナー、マルチチャネルのシナリオ、または顧客の代理管理者特権を復元する必要がある場合は、顧客との関係を要求します。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fd3d9b2067c7e9253a4a0f32c3afcbc7d0eadd5
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362710"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467372"
 ---
-# <a name="connect-with-customers-in-partner-center"></a>パートナー センターでの顧客との連携
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>パートナーセンターで顧客から再販業者の関係を要求する方法
 
 **適用対象**
 
--  パートナー センター
+- パートナー センター
 
 お客様の代理で顧客のサービスまたはサブスクリプションを管理する場合は、そのサービスまたはサブスクリプションに対する管理者権限を付与し、Microsoft カスタマーアグリーメントに署名する必要があります。
 

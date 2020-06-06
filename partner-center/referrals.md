@@ -1,7 +1,7 @@
 ---
-title: Microsoft からの紹介案件の獲得によるビジネスの拡大 | パートナー センター
+title: Microsoft の紹介を利用してビジネスを拡大
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ビジネスプロファイルを作成して、パートナーセンターの紹介機能を通じて販売潜在顧客を生成し、これらの紹介に応答する方法について説明します。
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 紹介, ビジネス プロファイル, パートナーの検索
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943255"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467442"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -22,9 +23,9 @@ ms.locfileid: "74943255"
 
 **適用対象**
 
--  パートナー センター
+- パートナー センター
 
-多くのお客様は、Microsoft のテクノロジおよびビジネス ソリューションの実装を依頼できるような、条件に合ったエキスパートを求めています。 Microsoft には、当社のマーケティング活動や社内の Microsoft 販売担当者を通じて、サポートを求める声が多くのお客様から寄せられます。 また、お客様は、[ **[ソリューション プロバイダーを見つける]** 機能](https://www.microsoft.com/solution-providers/search)を使用して、ビジネス ニーズを満たすためのサポートを得ることのできる会社を検索します。 
+多くのお客様は、Microsoft のテクノロジおよびビジネス ソリューションの実装を依頼できるような、条件に合ったエキスパートを求めています。 Microsoft には、当社のマーケティング活動や社内の Microsoft 販売担当者を通じて、サポートを求める声が多くのお客様から寄せられます。 また、お客様は、[**[ソリューション プロバイダーを見つける]** 機能](https://www.microsoft.com/solution-providers/search)を使用して、ビジネス ニーズを満たすためのサポートを得ることのできる会社を検索します。 
 
 Microsoft では、ソリューションと専門分野に応じてパートナー様とお客様のマッチングを行います。 Microsoft から見込み情報を獲得するために最も重要な手順は、[ビジネス プロファイルを作成](create-a-marketing-profile.md)して、貴社の製品、ソリューション、専門分野を公開することです。 このビジネス プロファイルは、お客様や社内の Microsoft 販売担当者が条件に合うパートナーを検索するすべての場所に表示されます。 
 

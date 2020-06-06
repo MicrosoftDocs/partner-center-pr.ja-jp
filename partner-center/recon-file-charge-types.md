@@ -1,20 +1,21 @@
 ---
-title: 調整ファイルの料金の種類 |パートナーセンター
+title: 調整ファイルの料金の種類
 ms.topic: article
-ms.date: 01/06/2020
-description: パートナーセンターの調整ファイルの料金の種類 (ライセンスベース、使用量ベース、1回限り)、クレジット、および割引。
+ms.date: 06/05/2020
+description: パートナーセンターの調整ファイルの料金の種類 (ライセンスベース、使用量ベース、1回限り)、クレジット、割引をご確認ください。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b18a2a7d53e2f9d35baac2412c1710c21d6d98eb
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7a5c227748ba24001288ecbec0a5487d38033897
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716873"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467512"
 ---
-# <a name="understand-charge-types"></a>料金の種類について
+# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>パートナーセンターの調整ファイルのさまざまな料金の種類を理解する
 
 **適用対象**
 
@@ -24,8 +25,8 @@ ms.locfileid: "75716873"
 **適切なロール**
 
 - 管理エージェント
-- 課金の管理
-- グローバル管理
+- 課金管理者
+- グローバル管理者
 
 このトピックでは、請求書セクションと、調整ファイルに存在する可能性のある関連する料金の種類とのマッピングについて説明します。 請求書には、料金の概要が表示されます。 調整ファイルには、料金の種類など、行アイテムトランザクションの詳細な内訳が表示されます。 調整ファイルの詳細については、「[調整ファイルの使用方法](use-the-reconciliation-files.md)」を参照してください。
 
@@ -46,7 +47,7 @@ ms.locfileid: "75716873"
 | ------------------------------------------------------------- | ------------------ |
 | アクティブ化料金 | 購入後にサブスクリプションを使用する場合に、顧客に請求される金額。 |
 | 取り消し料金 | 日割りは、関連付けられたシートが変更された場合に、お客様に返金されます。 |
-| Cancel instance prorate | 月単位のサブスクリプションを使用している顧客がサブスクリプションを中断し、関連付けられたシートが同じ月に変更された場合、日割り請求料金が取り消されます。 |
+| Cancel instance prorate | 月単位のサブスクリプションを使用しているお客様がサブスクリプションを中断し、関連するシートが同じ月に変更された場合、日割り請求料金がキャンセルされます。 |
 | Cycle fee | サブスクリプションに対する定期的な料金。 |
 | Cycle instance prorate | 関連付けられているシートが変更された場合に、日割り料金が顧客から評価されます。 |
 | Prorate fees when cancel | キャンセル時のサービスの未使用部分の日割り返金。 |
@@ -56,7 +57,7 @@ ms.locfileid: "75716873"
 | Purchase fee | 毎月の課金を使用する場合のサブスクリプションの料金の種類。 |
 | Prorate fee when renew | サブスクリプションの更新時の日割り料金。 |
 | Renew fee | サブスクリプションの更新時の課金 |
-| Prorate fees when activate | 請求期間が終了するまで、ライセンス認証の > 日割り料金がかかります。 |
+| Prorate fees when activate | 請求期間が終了するまで、ライセンス認証から課金されます。 |
 
 ## <a name="one-time-charges"></a>1回限りの料金
 
@@ -67,7 +68,7 @@ ms.locfileid: "75716873"
 | 新規 | 新しい購入が作成されるときに使用されます。 |
 | addQuantity | 元の購入の返金と、増加後の新しい数量の両方で使用されます。 |
 | removeQuantity | 元の購入の返金と、減少後の新しい数量の両方で使用されます。 |
-| [キャンセル] | サブスクリプションが取り消されたときに使用されます。 |
+| キャンセル | サブスクリプションが取り消されたときに使用されます。 |
 | Convert | ライセンスをアップグレードするときに使用しますが、接続クライアント数は変更されません。 |
 
 ## <a name="usage-charges"></a>利用料金
@@ -79,7 +80,7 @@ ms.locfileid: "75716873"
 | Assess usage fee when cancel | 現在の請求期間中に未払いの使用を取り消したときのアクセス利用料。 |
 | Assess usage fee for current cycle | 現在の請求期間のアクセス利用料。 |
 
-### <a name="credits"></a>クレジット
+### <a name="credits"></a>謝辞
 
 これらのクレジットを請求書にマップするには、次の手順を実行します。
 
@@ -99,7 +100,7 @@ ms.locfileid: "75716873"
 | Activation discount | サブスクリプションがアクティブになったときに適用される割引。 |
 | Cycle discount | 定期的な課金に適用される割引。 |
 | Renew discount | サブスクリプションが更新されたときに適用される割引。 |
-| Cancel discount | 割引が取り消された場合に適用される料金。 |
+| Cancel discount | 割引が取り消されたときに適用される料金。 |
 
 ### <a name="license-based-discounts"></a>ライセンスベースの割引
 

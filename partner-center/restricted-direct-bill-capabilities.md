@@ -1,22 +1,23 @@
 ---
 title: 制限付きの直接請求機能
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 新しい要件を満たしていないダイレクト請求パートナーは、直接請求の機能が制限されています
+description: CSP direct 請求パートナーの要件と、制限されている機能を回避するための対処方法について説明します。 機能が制限されているかどうかを確認します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接請求、制限
-ms.openlocfilehash: ae2a1a66f1a93e8b8183a307eca395e9781a00df
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362430"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467232"
 ---
-# <a name="restricted-direct-bill-capabilities"></a>制限付きの直接請求機能  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>制限付きの直接請求機能と、CSP direct bill パートナーに必要な要件  
 
 ## <a name="overview"></a>概要
 
@@ -42,22 +43,29 @@ ms.locfileid: "83362430"
 直接請求書の機能が制限されている場合は、パートナーセンターで顧客の新しい購入を行うことができなくなります。 この制限は次のとおりです。
 
 - Azure サブスクリプション
+
 - 座席ベースのサブスクリプション
+
 - 既存の座席ベースのサブスクリプションに新しいアドオンを追加します。
+
 - ソフトウェアと予約製品 (ソフトウェアサブスクリプション、永続ソフトウェア、Azure Reserved Virtual Machine instances など) を1回だけ購入してください。
 
-また、CSP プログラムの下にある[azure partner shared services プラン](shared-services.md)を使用して、新しい azure サブスクリプションを独自に購入することもできません。
+CSP プログラムで[azure パートナー共有サービスプラン](shared-services.md)を使用して、新しい azure サブスクリプションを独自に購入することもできません。
 
 既存の直接請求サブスクリプションは影響を受けません。 これらは有効なままであり、autorenewed です。 キャンセルされるまで、Microsoft による直接の課金が継続されます。 既存のサブスクリプションは、次の方法で引き続き管理できます。
 
 - 既存のサブスクリプションを中断します
+
 - 既存の接続クライアント数に基づくサブスクリプションの接続クライアント数の調整
+
 - サブスクリプションに対する既存のアドオンのシート数を調整します。 注: 新しいアドオンは新規購入として扱われるため、既存のサブスクリプションに追加することはできません。
+
 - 新しい Azure リソースのデプロイと、既存の Azure リソースの管理は、既存の Azure サブスクリプションの下で行います。 これには、Azure marketplace と Visual Studio サブスクリプションで利用可能なリソースが含まれます。
 
 新規購入だけでなく、パートナー センターで次の直接請求機能にアクセスすることもできません。
 
 - 新しい顧客テナントを作成することはできません。 パートナーセンターの [**顧客**] ページにある [**顧客の作成**] オプションは使用できません。
+
 - 直接再販業者の関係を要求している顧客への招待を生成することはできません。 パートナーセンターの [**顧客**] ページにある [**再販業者の関係を要求する**] オプションは使用できません。
 
     >[!Note]

@@ -1,40 +1,43 @@
 ---
-title: 請求に関するサポートの提供 | パートナー センター
+title: 顧客に課金サポートを提供する
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーは、顧客との請求関係に責任を負い、請求に関する顧客からのすべての質問に十分に対応する必要があります。
+description: CSP プログラムパートナーから必要なお客様の課金サポートについて説明します。 これには、顧客の請求関係の所有と、請求に関する質問への回答が含まれます。
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8add485ad2c9bf8ef8d3c36f7420242b624afcdf
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3f0a190c7ff2215d32ca556613650a4780289481
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798730"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467492"
 ---
-# <a name="provide-billing-support"></a>課金のサポートを提供する
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>お客様の課金サポートを提供し、請求に関する質問に答えることができます
 
 **適用対象**
 
--  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
+- パートナー センター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   ヘルプデスク エージェント
--   課金管理者
--   販売代理店
+- グローバル管理者
+- ユーザー管理者
+- ヘルプデスク エージェント
+- 課金管理者
+- 販売代理店
 
 貴社は、お客様との課金関係を維持し、お客様からの課金関連の質問をサポートするものとします。
 
--   貴社は、Microsoft への予定どおりの支払い義務を負うものとします。
--   徴収プロセスの詳細と、お客様のサブスクリプション、サービス、ソフトウェアへのアクセスがいつ影響を受けるかを示す明確な徴収ポリシーを顧客と設定することをお勧めします。
--   必要に応じて、未払いの製品については、お客様のアクセスを無効にすることができます。
+- 貴社は、Microsoft への予定どおりの支払い義務を負うものとします。
+
+- 徴収プロセスの詳細と、お客様のサブスクリプション、サービス、ソフトウェアへのアクセスがいつ影響を受けるかを示す明確な徴収ポリシーを顧客と設定することをお勧めします。
+
+- 必要に応じて、未払いの製品については、お客様のアクセスを無効にすることができます。
 
 ## <a name="microsoft-partner-support-guidance"></a>Microsoft パートナー サポート ガイダンス
 
@@ -48,19 +51,20 @@ CSP モデルで取引を行うパートナーは、お客様に対する信頼�
 パートナーは、お客様から受信したサポート要求を受け取り、パートナーの機能に最適な問題を診断して、ベースラインサポートの境界の範囲内にある問題を解決する必要があります。 パートナーが問題を解決できない場合、以下のサポート媒体を介してマイクロソフトに問題を報告できます。
 
 - **商業的**な問題のサポートは、CSP プログラムですべてのパートナーが利用できます。
--   **技術的**な問題のサポートは、以下を通じて利用できます。
-    -   Premier Support for Partners (料金ベース)
-    -   Advanced Support for Partners (料金ベース)
-    -   Signature Cloud Support (Gold/Silver コンピテンシーに含まれる)
+
+- **技術的**な問題のサポートは、以下を通じて利用できます。
+
+  - Premier Support for Partners (料金ベース)
+  - Advanced Support for Partners (料金ベース)
+  - Signature Cloud Support (Gold/Silver コンピテンシーに含まれる)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>課金、サブスクリプション管理、テクニカル サポートの提供 
 
-各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については、次のドキュメントを参照してください。
+各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については次を参照してください:
 
--   [CSP で販売された Dynamics 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [CSP で販売された Dynamics 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [CSP で販売された Azure サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+- [CSP で販売された Azure サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [CSP で販売された Office 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [CSP で販売された Office 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
-

@@ -1,22 +1,22 @@
 ---
 title: リセラーと顧客との関係を削除する
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft direct パートナーが顧客を一覧から削除する方法、委任された管理者特権を削除する方法、顧客のサポートまたは購入を停止する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: d57321e272a251c91791f274373fb31953f94e04
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f8f26dee696580b9a171069bd2c4fcad9fcbef8d
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362730"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467422"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer"></a>リセラーと顧客との関係を削除する方法
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>パートナーセンターで顧客との再販業者関係を削除する方法
 
 **適用対象**
 

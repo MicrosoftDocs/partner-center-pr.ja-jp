@@ -1,7 +1,7 @@
 ---
 title: 特別価格の対象となる業界への販売
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 教育機関のお客様、非営利顧客、政府ユーザーなど、特定の顧客グループ向けの特別で低価格の価格について説明します。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00b4dc172c4c39fe73f1118d2eb3a56555eaa464
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 5a1b8567263f8a105b3a3bc5b1d429715c9f3c38
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795092"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467172"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>教育、非営利団体、政府機関のユーザーなどの特別な業界への販売
 
@@ -61,7 +61,24 @@ ms.locfileid: "83795092"
 
 リセラーと顧客の両方が特価プラン プログラムの資格条件を満たしている場合は、手順に従って[サブスクリプションを追加](create-a-new-subscription.md)します。 **[新しいサブスクリプション]** ページの **[カタログ]** セクションで、特化している業界を選択して、販売できる特別価格を確認します。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="purchase-rules-for-special-segments"></a>特別なセグメントの購入ルール
+
+パートナーは、特定の条件を満たしている場合にのみ、特別プランを顧客に販売できます。 
+
+- 教育機関の特典は、お客様が教育機関として承認されている場合にのみ購入できます。 教育機関のお客様は、教育およびコマーシャルプランのみを受け取ることができますが、非営利団体および政府コミュニティクラウド (GCC) には対応していません。
+- パートナーは、GCC のお客様に対してのみ GCC サブスクリプションを購入できます。 ユーザーが GCC サブスクリプションを持っている場合、パートナーは、商用、教育、および非営利のサブスクリプションを購入することはできません。 
+- パートナーは、非営利顧客に対してのみ、商用または非営利のサブスクリプションを購入できます。 パートナーは、非営利顧客向けに GCC や教育のサブスクリプションを購入することはできません。
+
+特別プランを顧客に販売するための購入ルール:
+
+|**顧客の種類**   |**販売可能**   |**販売できません**   |
+|:----------------------------|:---------------------------------|:------------------------------------------|
+| 商用 |商用 | 非営利団体、教育機関、政府機関向けコミュニティクラウド |
+| 非営利団体 |商用、非営利 | 教育機関または政府機関向けコミュニティクラウド |
+| 教育 |商用、教育 | 非営利団体または政府機関向けコミュニティクラウド |
+| 政府機関向けコミュニティクラウド |政府機関向けコミュニティクラウド | 非営利団体、教育機関、またはコマーシャル |
+
+## <a name="next-steps"></a>次の手順
 
 - [Minecraft の販売: 教育機関のお客様へのサブスクリプション](minecraft-subscriptions.md)
 

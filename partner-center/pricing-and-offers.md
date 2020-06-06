@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e92964b2b75a0ee4e9943740ba4da4aa71c82f9f
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: abb04f21a50cbbef83418a8e2fec480a0020c443
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328293"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467542"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、Enterprise Mobility Suite、Azure などの価格とプラン
 
@@ -82,8 +82,8 @@ CSP は、教育、非営利、政府向けコミュニティクラウドなど�
 
 |**Segment**   |**認定を受ける必要があるユーザー**   |**パートナーの顧客の見極め**|**有効な製品の種類**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Customer (顧客)|いいえ、お客様の資格は Microsoft によって実行されます |ライセンスベースのみ|
-|非営利団体|Customer (顧客)|いいえ、お客様はパートナーセンターの外にお客様を見極めます|ライセンスベースのみ|
+|教育|Customer|いいえ、お客様の資格は Microsoft によって実行されます |ライセンスベースのみ|
+|非営利団体|Customer|いいえ、お客様はパートナーセンターの外にお客様を見極めます|ライセンスベースのみ|
 |Government Community Cloud (GCC)|パートナーと顧客|GCC が有効になると、パートナーは GCC の顧客を作成できるようになります。| ライセンスベースのみ|
 |Azure Government|Partner|認定されると、パートナーは、に固有の CSP テナントで動作 Azure Government|Azure リソース|
 
@@ -122,3 +122,32 @@ Microsoft パートナー センター ソフトウェア開発キット (SDK) �
 ### <a name="taxes-and-pricing"></a>税金と価格
 
 パートナーセンターの CSP の価格表に記載されているすべての価格は、税金を含みます。 詳細については、パートナーセンターのドキュメント[税と非課税の控除](tax-and-tax-exemptions.md)に関する記事を参照してください。
+
+## <a name="multi-year-term-offers"></a>複数年の期間プラン
+
+### <a name="36-month-offers"></a>36か月プラン
+
+約50の Dynamics プランで、3年の用語があります。 これらは、プランのタイトルの **(36 mo)** によって識別されます。 これらのプランは、年間契約期間とよく似ています。 唯一の違いは、用語の意味です。 これらのプランには3年の期間があります。これは、サブスクリプションが1つではなく3年後に自動更新されることを意味します。 これらの機能の概要を次に示します。
+
+- 期間は36か月で、サブスクリプションは3年後に自動更新されます
+- パートナーはサブスクリプションの期間中、ライセンスの数を取り消したり、変更したりできます。
+- 年間更新は、3年間の購入時間の料金になります。
+- 請求頻度は、毎年または毎月です
+
+### <a name="72-month-offers"></a>72か月プラン
+
+Microsoft 365 A1 基本プランには6年間の期間があります。  Office 365 A1 アドオンは、この基本プランを購入した後に利用できます。 
+
+|**プラン名**   |**プラン ID**   |**Type**|
+|-------------------|-----------------------|----------------------------|
+|Microsoft 365 A1|778a4dce-001447 d53-8647-314ef2b091d2|基本プラン|
+|教員向け Office 365 A1 (デバイス用)|0757d14e-7c57-456f-8dab-47d164f2ff1f|アドオン|
+|学生向け Office 365 A1 (デバイスの場合)|bae285a9-d56b-4384-b02f-38adc61a6f12|アドオン|
+
+これらの機能の概要を次に示します。
+
+- 期間は72か月または6年です
+- サブスクリプションは更新されず、6年後に有効期限が切れます
+- プランの請求頻度は年間と表示されますが、パートナーはサブスクリプションを取得した後の最初の請求書の前に請求されます
+- A1 72 月プランのサブスクリプションは、購入後にロックされ、取り消すことはできません。最初の購入後にライセンス数をサブスクリプションに追加することはできません
+- 取り消す必要があるパートナーは、キャンセルの理由と、に関するサポートが必要なサブスクリプション ID を使用して、サポートチケットを作成する必要があります。
