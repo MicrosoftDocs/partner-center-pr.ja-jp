@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: dec4e4c3f5438df7d09da018c8d7df3709a01854
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795722"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453084"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから利用可能な特典レポート
 
@@ -29,11 +29,11 @@ ms.locfileid: "83795722"
 
 Microsoft パートナーとして、最新のテクノロジとイノベーションを使用する特典のホストにアクセスして、チームのスキルを高め、効率性を向上させ、ビジネスを成長させることができます。 特典パッケージには、ライセンスされたソフトウェア、クラウドサービス、Visual Studio サブスクリプション、およびサポートの割り当てが含まれます。 これらのパッケージには、特定のマーケットプレースリソース、プラン、およびプログラムを含めることもできます。 特典レポートには、選択した日付範囲内でアクセスした特典とその使用率の傾向が表示されます。
 
-![[特典] ページの概要](images/pci/pci_benefits_intro_1.png)
+:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="[特典] ページの概要":::
 
 特典レポートでは、次のグラフを視覚化できます。
 
-- 要約
+- まとめ
 - 付与されたクラウドサービス
 - ソフトウェア製品
 - Visual Studio サブスクリプション
@@ -49,20 +49,20 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 
 例: Microsoft Partner Network (MPN) メンバーシップパートナーは、オンプレミス製品とクラウド製品のテクニカルサポートの対象となります。 シルバーコンピテンシーを獲得したパートナーには、オンプレミス製品の15インシデントのテクニカルサポートが付与されます。 必要に応じて、このサポートを利用できます。 
 
-![利点の概要](images/pci/pci_benefits_summary_2.png)
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="利点の概要":::
 
 **付与されたクラウドサービス**
 
 このグラフは、選択したクラウドサービスのライセンスベースのサブスクリプションについて、選択した日付範囲内に付与されたライセンスの月ごとの傾向を示します。
 [**サービス**] タブからクラウドサービスを選択して、特定のクラウドサービスのグラフを表示します。 折れ線グラフは、会社に付与されているライセンス全体を表します。
 
-![付与されたクラウドサービス](images/pci/pci_benefits_cloud_services_granted_3.png)
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="付与されたクラウドサービス":::
 
 **ソフトウェア製品**
 
 このグラフは、特定のソフトウェア製品の選択した日付範囲内に付与されたライセンスの月ごとの傾向を示します。 利点として付与されている特定のソフトウェア製品の傾向を表示するには、グラフの上部にあるドロップダウンリストからソフトウェア製品を選択します。 折れ線グラフは、会社に付与されているライセンス全体を表します。
 
-![付与されたソフトウェア製品](images/pci/pci_benefits_software_products_granted_4.png)
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="付与されたソフトウェア製品":::
 
 **Visual Studio サブスクリプション**
 
@@ -70,7 +70,7 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 
 グラフの上部にあるタブを選択すると、特典として付与されている特定の Visual Studio サブスクリプションの傾向が表示されます。 グラフの列は、サブスクリプションで使用されているシートを表します。 折れ線グラフは、サブスクリプションに割り当てられた座席全体を表します。
 
-![Visual Studio サブスクリプション](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio サブスクリプション":::
 
 **技術上のベネフィット**
 
@@ -78,7 +78,7 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 
 グラフの上部にあるタブを選択して、付与されている特定のサポート特典の傾向を表示します。 折れ線グラフは、選択したサポート特典に割り当てられたサポートの合計時間を表します。
 
-![技術的な利点](images/pci/pci_benefits_technical_benefits_6.png)
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="技術的な利点":::
 
 **市場開拓プランまたはサービス**
 
@@ -86,8 +86,8 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 
 グラフの上部にあるドロップダウンリストから [マーケットプレース] プランまたはサービスカテゴリを選択すると、会社に付与されている、選択したマーケットプレースサービスの傾向が表示されます。 グラフの列は、マーケットプレースプランまたはアクティブ化されたサービスを表します。 折れ線グラフは、会社に付与されている市場開拓キャンペーンやサービスを表します。
 
-![市場開拓プラン](images/pci/pci_benefits_go_to_market_7.png)
+![市場開拓プラン](images/pci/pci-benefits-go-to-market-7.png)
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

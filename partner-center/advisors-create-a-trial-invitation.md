@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor、office 365、試用版
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9726fc9316f33cf35f91a7db60a64689bccc0617
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362620"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458358"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>アドバイザー: クライアントが Office 365 を試すための試用版への招待を作成して送信する
 
@@ -37,7 +37,7 @@ Office 365 を試すことができるように、クライアントに試用版
 
     - **使用場所**: クライアントがサービスを使用する場所を選択します。
     - **試用版サブスクリプション**: 選択できる試用版サブスクリプションの一覧は、クライアントの国または地域の利用場所によって決まります。
-    - **代理管理**: このオプションは、代理管理を提供することが認定されているパートナーに対してのみ使用できます。 クライアントに代理管理を提供する場合は、このオプションを選択します。 この場合、クライアントは、代理管理を承諾するかどうかにかかわらず、試用版への招待を受け入れることができます。 代理管理の詳細については、「[代理管理を提供](customers_revoke_admin_privileges.md)する」を参照してください。
+    - **代理管理**: このオプションは、代理管理を提供することが認定されているパートナーに対してのみ使用できます。 クライアントに代理管理を提供する場合は、このオプションを選択します。 この場合、クライアントは、代理管理を承諾するかどうかにかかわらず、試用版への招待を受け入れることができます。 代理管理の詳細については、「[代理管理を提供](customers-revoke-admin-privileges.md)する」を参照してください。
 
 3. **[次へ]** をクリックします。
 

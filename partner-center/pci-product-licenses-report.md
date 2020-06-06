@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795663"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452903"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Partner Center Insights ダッシュボードの製品ライセンスレポート
 
@@ -28,7 +28,7 @@ ms.locfileid: "83795663"
 
 製品ライセンスレポートには、O365、Dynamics、M365、Power BI など、シートベースのクラウド製品のライセンス分析が示されます。ここに表示される Analytics は、お客様が販売した、または顧客が管理するライセンスの使用に関連付けられています。 製品ライセンスレポートでは、次のセクションを表示できます。
 
-- 要約
+- まとめ
 - ライセンスの地理的拡散
 - ライセンス追加
 - パートナーの場所別のライセンス配布、販売チャネル、Sku、パートナーのアタッチの種類、セグメント
@@ -54,7 +54,7 @@ ms.locfileid: "83795663"
 
 マイクログラフは、選択した日付範囲内のライセンス数の月ごとの傾向を示します。
 
-![ライセンスレポートの概要](images/pci/pci_licenses_report_summary_1.png)
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="ライセンスレポートの概要":::
 
 **ライセンスの地理的拡散**
 
@@ -64,7 +64,7 @@ ms.locfileid: "83795663"
 
 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 既定のビューに戻すには、マップの [**ホーム**] オプションをクリックします。 マップにマウスポインターを移動すると、現在のライセンスと顧客の国別のアクティブなライセンスが表示されます。 グリッド上の両方のフィールドの並べ替えが可能です。
 
-![ライセンスの地理的拡散](images/pci/pci_licenses_report_geo_spread_2.png)
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="ライセンスの地理的拡散":::
 
 **ライセンス追加**
 
@@ -74,14 +74,14 @@ ms.locfileid: "83795663"
 
 X 軸は、選択した日付範囲の月を表します。 Y 軸は、追加されたライセンスの数を表します。 特定の期間にズームするには、グラフの上部にあるスライダーを使用します。
 
-![ライセンス追加](images/pci/pci_licenses_report_license_adds_3.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="ライセンス追加":::
 
 **ライセンスの配布**
 
 このビューには、製品と顧客の国/地域別の顧客ライセンスの内訳が表示されます。 [**製品別のライセンス**] 円グラフで製品を選択すると、隣接するグラフに顧客の地域別のライセンス内訳が表示されます。
 
-![ライセンスの配布](images/pci/pci_licenses_report_license_distrib_4.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="ライセンスの配布":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
+詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, メンバーシップ特典, メンバーシップ, マーケットトゥマーケットプラン, Microsoft との市場投入, マーケットへの移行, ゴールドメンバーシップ, シルバーメンバーシップ
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 5b8e7e6a23d2e2913c039e73d7b5679114399a4c
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328203"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458428"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft のプランで市場を開拓する
 
@@ -65,7 +65,7 @@ Microsoft Partner Network メンバーになると、ビジネスの構築と拡
 
 マーケットプレースプランを表示するには:
 
-1. パートナー センター [ダッシュボード]( https://docs.microsoft.com/partner-center/)にサインインします。
+1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
 2. 左側のメニューで、[ **MPN**] を選択します。 次のいずれかの操作を行います。
 
@@ -84,7 +84,7 @@ Microsoft Partner Network メンバーになると、ビジネスの構築と拡
 >[!IMPORTANT]
 >特定の市場開拓プランをアクティブ化し、関連するマーケティング連絡先を割り当てるには、全体管理者または MPN パートナー管理者である必要があります。 必要に応じて、[ **[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) で、次の手順に従って全体管理者になることができます。 会社に既に全体管理者がいる場合があるため、必ずチームで確認してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [パートナーのネットワーク特典を管理する](manage-your-partner-network-benefits.md)
 

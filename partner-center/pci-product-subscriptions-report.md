@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 21c90449ca6ee93f41455db41af596a65d4946bf
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795913"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452805"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから利用可能な製品サブスクリプションレポート
 
@@ -30,7 +30,7 @@ ms.locfileid: "83795913"
 
 製品のサブスクリプションレポートでは、次のセクションを表示できます。
 
-- 要約
+- まとめ
 - サブスクリプションの地理的な分散
 - サブスクリプションの追加/チャーンの傾向
 - パートナーの場所別のサブスクリプションの配布、販売チャネル、Sku、パートナーのアタッチの種類、セグメント
@@ -66,7 +66,7 @@ ms.locfileid: "83795913"
 
 - 製品別のサブスクリプション: クラウド製品別の現在のサブスクリプション数の内訳。
 
-![サブスクリプションレポートの概要](images/pci/pci_sub_report_summary_1.png)
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="サブスクリプションレポートの概要":::
 
 **サブスクリプションの地理的な分散**
 
@@ -76,7 +76,7 @@ ms.locfileid: "83795913"
 
 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [**ホーム**] オプションをクリックすると、元のビューに戻ります。 マップにマウスポインターを移動すると、すべてのサブスクリプションと、国別のアクティブなサブスクリプションが表示されます。 グリッド上の両方のフィールドの並べ替えが可能です。
 
-![geography 別のサブスクリプション](images/pci/pci_sub_report_sub_by_geography_2.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="geography 別のサブスクリプション":::
 
 **サブスクリプションの追加/除外**
 
@@ -84,19 +84,19 @@ ms.locfileid: "83795913"
 
 積み上げ縦棒グラフには、その月の新規および既存の頻繁サブスクリプションの内訳が表示されます。 縦棒グラフは、特定のスタック項目と共に分割して再構築できます。 これを行うには、凡例内の特定の項目を選択します。 グラフの上部にあるスライダーを使用して、特定の期間を拡大することもできます。
 
-![サブスクリプションの追加と除外](images/pci/pci_sub_report_sub_adds_churns_3.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="サブスクリプションの追加と除外":::
 
 **サブスクリプションの配布**
 
 このビューには、現在のサブスクリプションの内訳が、MPN の場所、顧客セグメント、販売チャネル/Azure の価格モデル、および属性の種類 (例: 例:、DAP.TDL など) 別に表示されます。 各タブをクリックすると、これらのカテゴリ別の内訳が表示されます。 特定の項目カテゴリの内訳を含む円グラフを作成するには、凡例の項目カテゴリを選択します。
 
-![サブスクリプションの配布](images/pci/pci_sub-report_distribution_4.png)
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="サブスクリプションの配布":::
 
 **サブスクリプションの状態の分布**
 
 このビューには、サブスクリプションの状態または状態別に、現在の顧客のサブスクリプションの分布が表示されます。 これには、" **Active**"、" **Disabled**"、"**プロビジョニング解除**"、" **Open**"、" **InGracePeriod**"、" **Closed**" などのサブスクリプションの状態が含まれ**ます。**
 
-![サブスクリプションの状態の分布](images/pci/pci_sub_report_sub_states_5.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="サブスクリプションの状態の分布":::
 
 **製品の傾向**
 
@@ -104,11 +104,11 @@ ms.locfileid: "83795913"
 
 2つの円グラフには、現在の顧客サブスクリプションの内訳が表示されます。 最初の円グラフでは、製品別のサブスクリプションが分割されます。 2番目の円グラフは、Sku またはプランごとにサブスクリプションを分割します。 [**製品別**の内訳] 円グラフで製品を選択すると、隣接する円グラフに、その製品の sku 別のサブスクリプションの内訳が表示されます。
 
-![製品の傾向](images/pci/pci_sub-report_prods_trend_6.png)
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="製品の傾向":::
 
 > [!NOTE]
  > Sku 別に分類されたサブスクリプションの数は、その製品のサブスクリプションの合計数と常に一致するとは限りません。 これは、顧客が同じ製品サブスクリプションで複数の Sku を購入した場合に発生する可能性があります。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

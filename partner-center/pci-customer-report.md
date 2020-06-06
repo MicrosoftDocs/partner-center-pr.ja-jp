@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e25a91a977372234c31aed9f285bf53ac8dafae3
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 3c46b77a8c2147ae62b0609b167753a591f89dd4
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795710"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452999"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>パートナーセンターインサイトからの顧客ダッシュボードレポート
 
@@ -24,7 +24,7 @@ ms.locfileid: "83795710"
  
 Customers ダッシュボードには、次のセクションがあります。 
 
-- 要約  
+- まとめ  
 - 顧客の地理的拡散 
 - 顧客による傾向の追加/チャーン 
 - パートナーの場所、顧客セグメント、販売チャネル、パートナーの属性の種類によって配布される顧客 
@@ -42,7 +42,7 @@ Customers ダッシュボードには、次のセクションがあります。
 - 選択した日付範囲内の顧客の% を拒否します 
 - マイクログラフは、選択した日付範囲に対する顧客数の月別傾向を示します
 
-![製品別のお客様](images/pci/customerproduct.png)
+:::image type="content" source="images/pci/customerproduct.png" alt-text="製品別のお客様":::
 
 **アクティブな顧客**:
 
@@ -65,13 +65,13 @@ Customers ダッシュボードには、次のセクションがあります。
 
 選択した日付範囲内に新しく追加された現在の顧客、現在のアクティブな顧客、および顧客の数は、お客様の国を使用して geo マップされます。 メトリックの下に表示されるパーセンテージは、そのメトリックのその国の合計に占める割合を示します。 マップにカーソルを合わせると、その国の合計、アクティブ、新規顧客を表示できます。 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [**ホーム**] ボタンを選択して、元のビューに戻します。 グリッド内のすべての列は並べ替え可能です。  
 
-![地理的に別の顧客](images/pci/customersgeo.png)
+:::image type="content" source="images/pci/customersgeo.png" alt-text="地理的に別の顧客":::
 
 **顧客による追加と除外**
 
 選択した日付範囲について、新規、既存、および頻繁に分類された顧客の傾向。 X 軸は、選択した日付範囲の月を表し、Y 軸は顧客数を表します。 頻繁のお客様は、Y 軸の負のスケールで表されます。 積み上げ縦棒グラフでは、その月の新規、既存、および頻繁の顧客が分割されています。 特定のスタック項目を含む縦棒グラフを再構築するには、凡例でその項目を選択します。 グラフの上にあるスライダーを利用して、特定の期間にズームインできます。 
 
-![失われた顧客](images/pci/customerslost.png)
+:::image type="content" source="images/pci/customerslost.png" alt-text="失われた顧客":::
 
 **顧客の配布**
 
@@ -81,20 +81,20 @@ Customers ダッシュボードには、次のセクションがあります。
 
 現在の顧客の数と製品、Sku/プランの内訳。 製品分割円グラフ内の製品を選択すると、その横にあるグラフの Sku/プランに分割されたものが表示されます。
 
-![製品別のお客様](images/pci/customerbyprod.png)
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="製品別のお客様":::
 
 **顧客分布の傾向** 
 
 市場、セグメント、お客様が取得した MPN の場所と製品による、選択した日付範囲内の顧客の分布の月ごとの傾向。 グラフ内の各タブをクリックすると、これらのカテゴリごとの傾向が表示されます。 X 軸は、選択した日付範囲の月を表し、Y 軸には選択したカテゴリ (タブ選択) の顧客数が含まれます。 グラフの列にマウスポインターを置くと、各スタックの値が表示されます。 グラフの上にあるスライダーを利用して、特定の期間にズームインできます。   
 
-![顧客の配布](images/pci/customerdistri.png)
+:::image type="content" source="images/pci/customerdistri.png" alt-text="顧客の配布":::
 
 **アクティブな顧客**
 
 選択した日付範囲のアクティブおよび合計の顧客を比較する月次傾向グラフ。 列は、1か月あたりのアクティブな顧客数を表し、行は各月の合計顧客数を表します。 
 
-![アクティブな顧客](images/pci/activecustomer.png)
+:::image type="content" source="images/pci/activecustomer.png" alt-text="アクティブな顧客":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
+詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

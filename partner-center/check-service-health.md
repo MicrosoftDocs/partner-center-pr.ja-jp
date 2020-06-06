@@ -11,12 +11,12 @@ ms.author: labrenne
 Keywords: 正常性, サービスの正常性, サービスの問題
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a6bba0be0bb8337d3da0536d10c4346b3f61894
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 54817a1288e4a4aebf75527907f0265e384ae839
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908219"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458378"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>潜在的なサービスの問題または停止を報告しているお客様のサービスの正常性を確認する
 
@@ -31,21 +31,22 @@ ms.locfileid: "82908219"
 - ヘルプデスク エージェント
 - 販売代理店
 
-顧客がサービスに関する問題に直面したときに最初に行うことの 1 つは、サービスの正常性の確認です。
+顧客がサービスに関する問題に直面したときに最初に行うことの 1 つは、サービスの正常性の確認です。 
 
-**サービスの正常性の確認**
+## <a name="check-service-health"></a>サービスの正常性の確認
 
-1. **パートナー センター** メニューで、**[サービス正常性]** を選択します。
+1. [**顧客] の一覧**から、問題が発生している**顧客**を選択します。
 
-2. すべてのサービスが表示され、正常な状態かどうかが示されます。
+2. 左側のメニューで [**サービス管理**] を選択します。 これにより、顧客用にプロビジョニングされたサービスと、それぞれのサービスの正常性が一覧表示されます。 パートナーは、関心のあるサービスをクリックして詳細情報を取得できます。 
 
-サービスの停止中、Microsoft は問題に対処する作業を行いながら定期的な更新を提供します。 これらの更新プログラムは、パートナー センターにある**通知センター**から表示するのが便利です。 これらの通知は、Microsoft Azure Portal または Office 395 管理センターにも表示されます。
+>[!NOTE] 
+> **サービス管理**ページのサービス正常性リンクは、パートナーを M365 管理センターまたは**代理管理者**として Azure portal します。パートナーはいずれかの宛先にアクセスした後、いずれかのポータルの [サービス正常性] ページに移動して、障害の詳細を確認できます。
+ 
+サービスの停止中、Microsoft は問題に対処する作業を行いながら定期的な更新を提供します。 これらの通知は、Microsoft Azure portal または Microsoft 365 管理センターにも表示されます。
 
-サービス停止の終了後も問題が解決しない場合は、サービス要求を提出してください。 「[顧客の代理としての問題の報告](report-problems-on-behalf-of-a-customer.md)」をご覧ください。
+サービスの停止が終了した後も問題が解決しない場合は、サービス要求を送信します。 「[顧客の代理としての問題の報告](report-problems-on-behalf-of-a-customer.md)」をご覧ください。
+
+Microsoft 365 と Microsoft Azure はそれぞれ、パートナーがリアルタイムのサービス正常性、メッセージセンターの通信、および計画されたメンテナンスイベント[を取得するために使用できる api](get-automated-service-notifications-with-our-apis.md)を提供します。
 
  
-
- 
-
-
 

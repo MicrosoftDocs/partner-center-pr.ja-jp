@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b2d6e363eed34998a07a711b51dc77fcc135cdb
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f48b58ff02672e08f39fb22f17736f6f5a6e9216
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328233"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453199"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>パートナーセンターの洞察-Microsoft の商用パートナーがどのように実行しているかを示すダッシュボード
 
@@ -61,7 +61,7 @@ Insights は、Microsoft Partner Network (MPN) プログラムに登録されて
 
 **日付範囲フィルター**: 各ページの右上隅にある日付範囲の選択を見つけることができます。 [概要] ページのグラフの出力をカスタマイズするには、過去3、6、または12か月に基づいて日付範囲を選択するか、カスタムの日付範囲を選択します。 既定の日付範囲の選択は12か月です。 
 
-![概要マップ](images/pci/intro1.png)
+:::image type="content" source="images/pci/intro1.png" alt-text="概要マップ":::
 
 **フィードバックボタン**: すべてのインサイトレポートの各グラフ/コントロールには、レポート機能に関するインスタンスフィードバックを提供するためのフィードバックボタンが組み込まれています。 
 
@@ -74,7 +74,7 @@ Insights は、Microsoft Partner Network (MPN) プログラムに登録されて
 
 - 選択したフィルターは、ページの上部に表示されます。 
 
-![filters](images/pci/filters.png)
+:::image type="content" source="images/pci/filters.png" alt-text="仕分け":::
 
 ### <a name="filters-definitions"></a>フィルターの定義:
 

@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6853bb033f7188d7d9ddfa818252fd3b41422e05
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795648"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452977"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能なコンピテンシーレポート
 
@@ -43,7 +43,7 @@ ms.locfileid: "83795648"
 
 コンピテンシーレポートでは、次のセクションを確認できます。
 
-- 要約
+- まとめ
 - コンピテンシーメトリック分析
 - コンピテンシーの履歴
 
@@ -64,7 +64,7 @@ ms.locfileid: "83795648"
 - 危険度 (翌年): 現在**アクティブ**になっているコンピテンシーの数。来年の要件を満たしていないという**リスク**もあります。
 次の年に限定されないリスクがあるコンピテンシー (シルバー/ゴールドなどのコンピテンシー名を使用) の内訳。
 
-![コンピテンシーの概要](images/pci/pci_competencies_summary_1.png)
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="コンピテンシーの概要":::
 
 **コンピテンシーメトリック分析**
 
@@ -75,7 +75,7 @@ ms.locfileid: "83795648"
 1. TTM ビュー: 過去12か月間 (TTM) におけるパートナーのパフォーマンスを列挙します。
 2. [記念年月日] ビュー: これは、前の記念日からのパートナーのパフォーマンスを、次の契約日まで列挙します。
 
-![コンピテンシーメトリック分析](images/pci/pci_competencies_comp_metrics_analysis_2.png)
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="コンピテンシーメトリック分析":::
 
 > [!NOTE]
  > すべてのメトリックが分析でカバーされるわけではありません。 現在、学習と認定に関連付けられているメトリックは、コンピテンシーレポートではサポートされていません。 Cloud Business Applications (CBA) のコンピテンシーは、現在、**アクティブな**コンピテンシーステータスのメトリック分析ではサポートされていません。
@@ -84,8 +84,8 @@ ms.locfileid: "83795648"
 
 このビューには、これまでに達成したコンピテンシーレベルとコンピテンシーステージを含む、詳細なテーブルが表示されます。
 
-![コンピテンシーの履歴](images/pci/pci_competencies_comp_history_3.png)
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="コンピテンシーの履歴":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

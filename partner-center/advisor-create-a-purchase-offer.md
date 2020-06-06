@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor、office 365、購入
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9b9ab4fd293dce26a738ab055a2ca31e8ce1884b
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362680"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458368"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>アドバイザー: 購入プランを作成する
 
@@ -59,4 +59,4 @@ Office 365 の試用版への招待をクライアントに送信した後、ク
     - Microsoft によって直接請求されることをクライアントに通知します。
     - サービスまたはプランに関する質問をお客様に連絡する方法をクライアントに通知します。
     - 購入したユーザーライセンスの数がクライアントによって制御されていることをクライアントに通知し、そのオファーを受け入れるときにライセンス数を変更することができます。
-    - 代理管理を提供する場合は、代理管理の意味と責任範囲を説明します。 代理管理の詳細については、「[代理管理を提供](customers_revoke_admin_privileges.md)する」を参照してください。
+    - 代理管理を提供する場合は、代理管理の意味と責任範囲を説明します。 代理管理の詳細については、「[代理管理を提供](customers-revoke-admin-privileges.md)する」を参照してください。

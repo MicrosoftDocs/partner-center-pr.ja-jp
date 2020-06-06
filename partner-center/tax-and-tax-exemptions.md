@@ -1,8 +1,8 @@
 ---
 title: 地域の税金と課税控除
 ms.topic: article
-ms.date: 04/28/2020
-description: 特定の地域における税金の責任について、および CSP 販売の課税控除を提出する方法について説明します。 税金に関する質問のサポートを受ける方法についても説明します。
+ms.date: 06/05/2020
+description: CSP プログラムパートナー向けには、地域ごとの課税責任、CSP 販売の課税控除を送信する方法、および税金に関する質問のサポートを受ける方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,15 +10,15 @@ author: LauraBrenner
 keywords: 税金、課税控除、vat、リセラー、請求
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907806"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458298"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>地域または国別の税金および課税控除の詳細について確認する
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP プログラムのパートナーのリージョンまたは国ごとの税金および課税控除の詳細について説明します。
 
 適用対象:
 
@@ -67,7 +67,7 @@ Microsoft は、トルコでパートナーによって購入されたデジタ�
 
 税金が請求される別の国または地域にいる場合は、[パートナーセンターで](#support)質問のサポートを依頼してください。
 
-## <a name="tax-receipts-and-daf"></a>納税の領収書と DAF
+## <a name="tax-receipts-and-daf"></a>納税領収書と DAF
 
 税金申告用レシート (台湾または韓国用) または DAF については、請求書が生成されてから通常 2 週間かかります。
 
@@ -88,7 +88,7 @@ Microsoft は、トルコでパートナーによって購入されたデジタ�
 2. [**パートナーの要求**] ページで、[**新しい要求**] を選択します。 (このページの後半で、開いている、閉じたサポート要求を表示することもできます)。
 3. **基本**手順の [ **CSP-課金と支払い**] で、[**問題の種類の選択]** を選択し、[免税**要求**] を選択します。
 4. [**ソリューション**] ステップで、[**追加のヘルプが必要ですか?**] の [**はい]** を選択します。
-5. **詳細**手順で、[**問題の詳細**] フォームに入力します。 次を行ってください。
+5. **詳細**手順で、[**問題の詳細**] フォームに入力します。 必ず、次の作業を行ってください。
 
     - すべての必須フィールドに入力します。
     - [**詳細**] フィールドに、 **Microsoft ID**と**MPN ID**を含めます。

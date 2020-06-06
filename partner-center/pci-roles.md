@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fedeaad1898f4fade76bbf34c0bfe6bd2585a7cd
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6e20cc9c37ef68fcd1ca0ab22b2012fdd0b35149
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795644"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452699"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードへのロールベースのアクセス制御
 
@@ -24,10 +24,11 @@ Insights ダッシュボードでは、パートナーセンターの2つの新�
 
 他のパートナーセンターの役割と同様に、全体管理者またはアカウント管理者は、ユーザー管理ページでこれらのロールにユーザーを割り当てることができます。 ロールは、会社全体または特定の MPN の場所に適用できます。 特定の MPN の場所に割り当てられたロールによって、ユーザーは、選択した MPN の場所のみに関連付けられたレポートデータを表示できます。 パートナーは、以下のビューから1つまたは複数の場所を選択できます。
 
-![ロール](images/pci/roles.png)
+:::image type="content" source="images/pci/roles.png" alt-text="ロール":::
 
->付箋2020年1月20日の MPN に管理されているユーザーは、そのテナントのすべての場所について、会社全体の "エグゼクティブレポートビューアー" ロールに自動的に追加されます。 これらのユーザーは、全体管理者またはアカウント管理者による明示的な操作を必要とせずに、エグゼクティブレポートビューアーとしてレポートにアクセスできます。グローバル管理者とアカウント管理者は、これらのユーザーの自動割り当てされたロールを上書きして、機能をさらに強化または制限することができます。
+>[!Note]
+> 2020年1月20日の MPN 管理者であるユーザーは、そのテナントのすべての場所について、会社全体の**エグゼクティブレポートビューアー**ロールに自動的に追加されます。 これらのユーザーは、全体管理者またはアカウント管理者による明示的な操作を必要とせずに、エグゼクティブレポートビューアーとしてレポートにアクセスできます。グローバル管理者とアカウント管理者は、これらのユーザーの自動割り当てされたロールを上書きして、機能をさらに強化または制限することができます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [パートナーセンターの洞察](partner-center-insights.md)とそのさまざまなレポートについて説明します。

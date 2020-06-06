@@ -11,18 +11,18 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 75693ce31c98e694c0dbed31fde6c6510a83ec17
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795701"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452949"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>パートナーセンターの洞察で利用できる概要ダッシュボードレポート
  
 パートナーセンターの [概要] ダッシュボードには、顧客、サブスクリプション、Azure の消費収益、ライセンスなどの主要業績評価指標のスナップショットビューが表示されます。概要レポートでは、次のグラフを視覚化できます。 
 
-- 要約  
+- まとめ  
 - 顧客、サブスクリプション、ライセンスの地理的拡散  
 - 顧客成長傾向 
 - サブスクリプションの増加傾向 
@@ -50,39 +50,39 @@ ms.locfileid: "83795701"
 - デプロイ済みライセンス: 選択した期間にわたって顧客のサブスクリプションにデプロイされたすべてのクラウド製品ライセンスの数。  
 選択した日付の範囲内でこれらのライセンスの増加または拒否% が発生した場合、選択した日付範囲に対して割り当てられたライセンス数の月単位の傾向が表示されます。
 
-![ライセンスの概要](images/pci/summary.png)
+:::image type="content" source="images/pci/summary.png" alt-text="ライセンスの概要":::
 
 **顧客、サブスクリプション、ライセンスの地理的拡散** 
 
 このビューは、顧客、サブスクリプション、およびライセンスの合計を顧客の国別に地理的に分散したものです。 さまざまなタブをクリックすると、これらの各分析情報がマップに表示されます。 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [ホーム] ボタンを押して、元のビューに戻します。 各タブ (Customers、サブスクリプションなど) をクリックすると、国ごとのメトリックの値と、その国の合計の割合が表示されます。  
 
-![地理的な概要](images/pci/geosummary.png)
+:::image type="content" source="images/pci/geosummary.png" alt-text="地理的な概要":::
 
 **顧客成長傾向**
 
 選択した日付範囲の合計顧客数の月ごとの傾向。 X 軸は選択した日付範囲の月を表し、Y 軸はその月の合計顧客数を表します。 
 
-![顧客成長傾向](images/pci/customergrowth.png)
+:::image type="content" source="images/pci/customergrowth.png" alt-text="顧客成長傾向":::
 
 **サブスクリプションの増加傾向**
 
 これは、選択した日付範囲に対する顧客サブスクリプションの数の傾向を示します。 X 軸は選択した日付範囲の月を表し、Y 軸は製品のサブスクリプション数を表します。 グラフの上部にあるスライダーをスクロールして、特定の期間にグラフを拡大します。 
 
-![サブスクリプションの増加傾向](images/pci/subscriptiongrowth.png)
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="サブスクリプションの増加傾向":::
 
 **Azure で消費された収益成長傾向**
 
 選択された日付範囲に対して Azure が使用した収益の月単位の傾向 (米ドル)。 X 軸は、選択された日付範囲の月を表し、Y 軸は月の間に、Azure が使用した総収益 (米国ドル) を表します。   
 **注**: Azure の使用収益 (ACR) は、Executive レポートビューアーロールが割り当てられているユーザーのみに表示されます。 
 
-![Azure の使用量](images/pci/azureconsumed.png)
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure の使用量":::
 
 **ライセンスの増加傾向**
  
 選択した日付範囲内のすべての顧客によって割り当てられたライセンスの傾向。 X 軸は選択した日付範囲の月を表し、Y 軸は選択した製品のライセンス数を表します。 グラフの上部にあるスライダーをスクロールして、特定の期間にグラフを拡大します。  
 
-![ライセンス](images/pci/licensesgrowth.png)
+:::image type="content" source="images/pci/licensesgrowth.png" alt-text="ライセンス":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

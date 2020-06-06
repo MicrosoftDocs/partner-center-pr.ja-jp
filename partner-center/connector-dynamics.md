@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 87b1d27fa2f42eeba3b0f8308648536c0686911e
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.openlocfilehash: fef5468e0dc51cd9830fda6fb2ae60df5d9f39b5
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145136"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453249"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM の共同販売コネクタ–概要
 
@@ -38,23 +38,23 @@ ms.locfileid: "84145136"
 |パートナー センターのユーザー ロール|コネクタをインストールして使用する従業員は、参照管理者である必要があります|[ユーザー ロールとアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|CRM ユーザーロールは、システム管理者またはシステムカスタマイザーです。|[Dynamics 365 でロールを割り当てる](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
 |パワー自動化フローアカウント|CRM システム管理者またはシステムカスタマイザー用のアクティブな[電源自動化](https://flow.microsoft.com)アカウント。 そのユーザーは、インストールの前に少なくとも1回、[電源の自動](https://flow.microsoft.com)登録を行う必要があります。|
 
-## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Dynamics 365 のパートナーセンターの紹介同期をインストールする (電源自動化ソリューション) 
+## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Dynamics 365 のパートナーセンターの紹介同期をインストールする (電源自動化ソリューション)
 
 1. [[パワー自動化](https://flow.microsoft.com)] にアクセスし、右上隅にある [**環境**] を選択します。 この手順では、使用可能な CRM インスタンスを表示します。
 
-2. 右上隅にあるドロップダウンから適切な CRM インスタンスを選択します。 
+2. 右上隅にあるドロップダウンから適切な CRM インスタンスを選択します。
 
 3. 左側のナビゲーションバーで [**ソリューション**] を選択します。
 
 4. 上部のメニューの [ **AppSource を開く**] リンクをクリックします。
 
-![AppSource を開く](images/cosellconnectors/openappsource.png)
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="AppSource を開く":::
 
 5. ポップアップ画面で、 **Dynamics365 のパートナーセンターの紹介コネクタ**を検索します。  
 
-6. [**今すぐ入手**する] ボタンをクリックし、[**続行**] をクリックします。 
+6. [**今すぐ入手**する] ボタンをクリックし、[**続行**] をクリックします。
 
-7. これにより、CRM (Dynamics 365) 環境を選択してアプリケーションをインストールできるページが開きます。  使用条件に同意します。 
+7. これにより、CRM (Dynamics 365) 環境を選択してアプリケーションをインストールできるページが開きます。  使用条件に同意します。
 
 8. その後、[**ソリューションの管理**] ページに移動します。  ページの下部にある矢印ボタンを使用して、[パートナーセンターの紹介] に移動します。 [パートナーセンターの紹介] ソリューションの横に、[**インストールのスケジュール**] が表示されます。 インストールには10-15 分かかります。 
 
@@ -62,7 +62,7 @@ ms.locfileid: "84145136"
 
 10. **Dynamics 365 のパートナーセンターの紹介同期**を選択します。 次の電源の自動化フローとエンティティを利用できます。
 
-![使用可能な CRMS](images/cosellconnectors/dynamics-available-crms.png)
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="使用可能な CRMS":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>ベストプラクティス: 運用前にテストする
 
@@ -79,27 +79,27 @@ ms.locfileid: "84145136"
 
 2. 右上隅にある [**環境**] ドロップダウンで、パワー自動化ソリューションをインストールした CRM インスタンスを選択します。
 
-3. 次の3つのユーザーアカウントを関連付ける接続を作成する必要があります。 
+3. 次の3つのユーザーアカウントを関連付ける接続を作成する必要があります。
 
-- 参照管理者の資格情報を持つパートナーセンターのユーザー 
+   - 参照管理者の資格情報を持つパートナーセンターのユーザー
 
-- パートナー センターのイベント
+   - パートナー センターのイベント
 
-- Power を使用した CRM 管理ソリューションのフローが自動化されます。 
+   - Power を使用した CRM 管理ソリューションのフローが自動化されます。
 
-    a. 左側のナビゲーションバーから [**接続**] を選択し、一覧から "パートナーセンターの紹介" ソリューションを選択します。
+      1. 左側のナビゲーションバーから [**接続**] を選択し、一覧から "パートナーセンターの紹介" ソリューションを選択します。
 
-    b. [**接続の作成**] をクリックして接続を作成します。
+      2. [**接続の作成**] をクリックして接続を作成します。
 
-    ![接続を作成する](images/cosellconnectors/createconnection.png)
+         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="接続を作成する":::
 
-    c. 右上隅の検索バーで、**パートナーセンターの参照 (プレビュー)** を検索します。
+      3. 右上隅の検索バーで、**パートナーセンターの参照 (プレビュー)** を検索します。
 
-    d. 参照管理者の資格情報ロールを使用して、パートナーセンターユーザーの接続を作成します。
+      4. 参照管理者の資格情報ロールを使用して、パートナーセンターユーザーの接続を作成します。
 
-    e. 次に、パートナーセンターのユーザーに、参照管理者の資格情報を使用してパートナーセンターのイベント接続を作成します。
+      5. 次に、パートナーセンターのユーザーに、参照管理者の資格情報を使用してパートナーセンターのイベント接続を作成します。
 
-    f. CRM 管理者ユーザーの Common Data Service (現在の環境) の接続を作成します。
+      6. CRM 管理者ユーザーの Common Data Service (現在の環境) の接続を作成します。
 
 4. 電源自動化フローを接続に関連付けるには、各パワー自動化フローを編集して、Common Data Service とパートナーセンターの紹介に接続します。 変更を保存します。
 
@@ -113,15 +113,15 @@ ms.locfileid: "84145136"
 
 2. 接続の追加 (a.)参照管理者の資格情報を持つパートナーセンターのユーザー (b)次の強調表示されているパートナーセンターのイベント
 
-![トリガー](images/cosellconnectors/triggerflow.png)
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="トリガー":::
 
 3. これらの更新を行うと、次のように表示されます。
 
-![Webhooks](images/cosellconnectors/webhook1.png)
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
-4. 変更内容を保存し、[**有効にする**] を選択します。 
+4. 変更内容を保存し、[**有効にする**] を選択します。
 
-パートナーセンターの webhook でイベントの変更をリッスンできるようにするには、次の手順を実行します。
+   パートナーセンターの webhook でイベントの変更をリッスンできるようにするには、次の手順を実行します。
 
 5. [**パートナーセンター] を Dynamics 365 (Insider Preview) に**選択します。
 
@@ -129,19 +129,19 @@ ms.locfileid: "84145136"
 
 7. **コピー**アイコンを選択して、指定された HTTP POST URL をコピーします。
 
-![URL のコピー](images/cosellconnectors/copyurl.png)
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="URL のコピー":::
 
 8. 次に、"パートナーセンターの Webhook の登録 (Insider Preview)" パワー自動化フローを選択し、[**実行**] を選択します。
 
 9. 右側のウィンドウで [実行フロー] ウィンドウが開いていることを確認し、[**続行**] をクリックします。
 
-10. 次の詳細を入力します。 
+10. 次の詳細を入力します。
 
-    a. **Http トリガーエンドポイント**: 前の手順からコピーされた URL
+    1. **Http トリガーエンドポイント**: 前の手順からコピーされた URL
 
-    b. **登録するイベント**: "紹介-作成" と "参照-更新"
+    2. **登録するイベント**: "紹介-作成" と "参照-更新"
 
-    c. **既存のトリガーエンドポイントがある場合は上書き**します (存在する場合は既存のエンドポイントを上書きします)。 
+    3. **既存のトリガーエンドポイントがある場合は上書き**します (存在する場合は既存のエンドポイントを上書きします)。
 
 11. [**実行**] を選択し、[完了] を選択し**ます。**
 
@@ -170,7 +170,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
     e. **営業案件の更新である場合は、** を選択します。 [サブステップ**if yes]** を選択し、次に**パートナーセンターと CRM の営業案件オブジェクト間の差異がある場合**は、を展開します。  
 
     f. **既存の営業案件を更新**する場合は、[**はい]** を選択します。
-       
+
 3. 更新イベントの CRM から PC への参照同期のフィールドをカスタマイズするには、次のようにします。
 
     a. [**編集**] を選択して、パワー自動化フローを編集またはカスタマイズします。
@@ -181,7 +181,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
     d. [**はい] の場合**はサブステップを選択し、[**営業案件データを使用して紹介を更新する**] ステップを展開します。
 
-このセクションのマッピングは、フィールドマッピングガイドに基づいて編集できます。
+   このセクションのマッピングは、フィールドマッピングガイドに基づいて編集できます。
 
 4. Create events の CRM to PC 参照同期のフィールドをカスタマイズするには
 
@@ -189,9 +189,9 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
    b. **参照の同期を選択 (スコープ) します。**
 
-   c. [イベントの作成] で (フィールドマッピングガイドに基づいて) CRM フィールドマッピングをカスタマイズする場合は、[ **Microsoft の紹介を作成する**] を選択します。 
+   c. [イベントの作成] で (フィールドマッピングガイドに基づいて) CRM フィールドマッピングをカスタマイズする場合は、[ **Microsoft の紹介を作成する**] を選択します。
 
-このセクションのマッピングは、フィールドマッピングガイドに基づいて編集できます。
+   このセクションのマッピングは、フィールドマッピングガイドに基づいて編集できます。
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>エンドツーエンドの双方向の共同販売参照の同期
 
@@ -217,48 +217,47 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
 - **監査**: パートナーセンターの紹介と同期するための読み取り専用の監査証跡
 
-
 ### <a name="scenarios"></a>モデル
 
 1. CRM で参照が作成または更新され、パートナーセンターで同期される場合の参照の同期:
 
-    a. CRM の**営業案件**セクションで可視性を持つユーザーを使用して、DYNAMICS 365 CRM 環境にサインインします。
+   1. CRM の**営業案件**セクションで可視性を持つユーザーを使用して、DYNAMICS 365 CRM 環境にサインインします。
 
-    b. Dynamics 365 環境で "新しい営業案件" を作成するときに、次のセクションが存在することを確認します。
+   2. Dynamics 365 環境で "新しい営業案件" を作成するときに、次のセクションが存在することを確認します。
 
-   ![営業案件](images/cosellconnectors/opportunity.png)
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="営業案件":::
 
-    c. この機会を Microsoft パートナーセンターと同期するには、カードビューで次のフィールドを設定していることを確認します。
+   3. この機会を Microsoft パートナーセンターと同期するには、カードビューで次のフィールドを設定していることを確認します。
 
-    - **パートナーセンターとの同期**: はい
+      - **パートナーセンターとの同期**: はい
 
-    - **Microsoft のヘルプを使用する方法**: 次から選択してください。
+      - **Microsoft のヘルプを使用する方法**: 次から選択してください。
 
-    ![ヘルプの選択](images/cosellconnectors/help.png)
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="ヘルプの選択":::
 
-    - **製品**: 製品のソリューション id
+      - **製品**: 製品のソリューション id
 
-    d. 営業案件が Dynamics 365 で作成され、[**パートナーセンターとの同期**] オプションが **[はい]** に設定されたら、10分待ってから、パートナーセンターアカウントにサインインします。 参照は Dynamics 365 と同期されます。
+   4. 営業案件が Dynamics 365 で作成され、[**パートナーセンターとの同期**] オプションが **[はい]** に設定されたら、10分待ってから、パートナーセンターアカウントにサインインします。 参照は Dynamics 365 と同期されます。
 
-    e. 同様に、[パートナーセンターとの同期] オプションを [はい] に設定した場合は、Dynamics 365 CRM の営業案件を更新すると、パートナーセンターアカウントで変更が同期されます。
+   5. 同様に、[パートナーセンターとの同期] オプションを [はい] に設定した場合は、Dynamics 365 CRM の営業案件を更新すると、パートナーセンターアカウントで変更が同期されます。
 
-    f. パートナーセンターで正常に同期された営業案件は、Dynamics 365 の✔アイコンで識別されます。
+   6. パートナーセンターで正常に同期された営業案件は、Dynamics 365 の✔アイコンで識別されます。
 
 2. Microsoft パートナーセンターで参照が作成または更新され、Dynamics 365 環境で同期される場合の参照同期:
 
-    a. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。
+   1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。
 
-    b. 左側のメニューから [**紹介**] を選択します。
+   2. 左側のメニューから [**紹介**] を選択します。
 
-    c. [新しい取引] オプションをクリックして、パートナーセンターから新しい共同販売紹介を作成します。
+   3. [新しい取引] オプションをクリックして、パートナーセンターから新しい共同販売紹介を作成します。
 
-    d. Dynamics 365 CRM 環境にサインインします。 
+   4. Dynamics 365 CRM 環境にサインインします。
 
-    e. **[Open opportunity**] に移動します。 Microsoft パートナーセンターで作成された紹介が Dynamics 365 CRM で同期されるようになりました。
+   5. **[Open opportunity**] に移動します。 Microsoft パートナーセンターで作成された紹介が Dynamics 365 CRM で同期されるようになりました。
 
-    f. 同期された参照を選択すると、カードビューの詳細が設定されます。
+   6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [見込み客を管理する](manage-leads.md)
 

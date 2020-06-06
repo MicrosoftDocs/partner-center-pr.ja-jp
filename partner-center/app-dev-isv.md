@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: コンピテンシー、ISV、アプリケーション開発
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907481"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452729"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>アプリケーション開発コンピテンシーの1回限りの試験要件の除外
 
@@ -45,7 +45,7 @@ ISV コンピテンシーを持つパートナー:
 1. ご利用ダッシュボードの [パートナー センター] メニューから、 **[コンピテンシー]** を選択します。
 2. 使用可能なコンピテンシーの一覧で、アプリケーション開発は**完了**としてマークされます。
 
-![ISV から appdev](images/appdev.png)
+:::image type="content" source="images/appdev.png" alt-text="ISV から appdev":::
 
 3. [**アプリケーション開発**] を選択します。 除外さを使用して、会社が試験の要件を満たしていないことを示す通知が表示されます。 
 

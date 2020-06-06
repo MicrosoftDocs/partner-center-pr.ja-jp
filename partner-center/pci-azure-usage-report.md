@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795671"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453137"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能な Azure の使用状況レポート
 
@@ -28,7 +28,7 @@ ms.locfileid: "83795671"
 
 Azure の使用状況レポートには、顧客の Azure サブスクリプションに関連するメトリックが表示されます。 これには、Azure の消費収益とメーターカテゴリごとの使用量が含まれます。 Azure の使用状況レポートでは、次のセクションを確認できます。
 
-- 要約
+- まとめ
 - 地理的に別の Azure の使用状況
 - Azure の使用率
 
@@ -55,7 +55,7 @@ Azure の使用状況レポートには、顧客の Azure サブスクリプシ�
 > [!NOTE]
  > Azure で使用された収益 (ACR) は、Executive レポートビューアーロールが割り当てられているユーザーのみに表示されます。
 
-![Azure の使用状況の概要](images/pci/pci_azure_usage_summary_1.png)
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure の使用状況の概要":::
 
 **地理的に別の Azure の使用状況**
 
@@ -65,7 +65,7 @@ Azure の使用状況レポートには、顧客の Azure サブスクリプシ�
 
 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [**ホーム**] オプションを選択して、元のビューに戻します。
 
-![地理的に別の Azure の使用状況](images/pci/pci_azure_usage_by_geography_2.png)
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="地理的に別の Azure の使用状況":::
 
 **Azure の使用率**
 
@@ -73,8 +73,8 @@ Azure の使用状況レポートには、顧客の Azure サブスクリプシ�
 
 横棒グラフには、毎月の収益/使用時間の傾向が表示されます。 折れ線グラフでは、選択した Azure サービスレベル/メーターカテゴリの前月と比較した場合の成長傾向が示されます。
 
-![Azure の使用率](images/pci/pci_azure_usage_utilization_3.png)
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure の使用率":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

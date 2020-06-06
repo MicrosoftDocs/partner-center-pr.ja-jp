@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: 教育、特別なセグメント
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426011"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453299"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>教育機関のお客様にオファーを販売する方法 & パートナーセンターで教育機関の顧客を作成する方法
 
@@ -41,15 +41,15 @@ ms.locfileid: "84426011"
 
 2. [ **Customers** ] を選択し、[ **Add a customer**] を選択します。 **特別な要件**のドロップダウンから [**教育**] を選択します。  必要に応じて、アカウント情報の残りの部分を入力します。  審査プロセスを支援する主なフィールドは次のとおりです。
 
-   - 会社名: 審査に必須の法人名を入力します
-   - 国/地域と住所の行: 審査に必要な、完全なエンティティメールアドレスを入力します。
-   - [電子メールアドレス]: 審査に必要な、無料または on.microsoft.com の電子メールではなく、エンティティが所有する電子メールを入力します
-   - お客様の連絡先情報: これらの詳細は審査プロセスの一部として使用されます
-   - プライマリドメイン名: 顧客のアカウントと電子メールアドレスを作成するために使用されます。  スペースや特殊文字を使用せずに、会社名のような名前を選択します。  この名前は後で変更することはできません。
+   - **会社名**: 審査に必須の法人名を入力します
+   - **国/地域と住所の行**: 審査に必要な、完全なエンティティメールアドレスを入力します。
+   - [**電子メールアドレス**]: 審査に必要な、無料または on.microsoft.com の電子メールではなく、エンティティが所有する電子メールを入力します
+   - **お客様の連絡先情報**: これらの詳細は審査プロセスの一部として使用されます
+   - **プライマリドメイン名**: 顧客のアカウントと電子メールアドレスを作成するために使用されます。  スペースや特殊文字を使用せずに、会社名のような名前を選択します。  この名前は後で変更することはできません。
 
 3. 操作が完了したら、[**レビュー**] を選択します。
 
-![教育機関の顧客アカウント](images/eduaccountinfo.png)
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="教育機関の顧客アカウント":::
 
 ### <a name="confirm-your-education-customers-vetting-status"></a>教育機関の顧客の審査の状態を確認する
 
@@ -58,15 +58,15 @@ ms.locfileid: "84426011"
 
 - 顧客が審査に合格した場合: 教育
 
-   ![教育審査の成功](images/edupassedvetting.png)
+   :::image type="content" source="images/edupassedvetting.png" alt-text="教育審査の成功":::
 
 - 顧客が審査に合格しなかった場合: 教育機関ではない
 
-   ![教育審査に失敗しました](images/edudidnotpassvetting.PNG)
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="教育審査に失敗しました":::
 
 - 顧客が教育機関の顧客としてタグ付けされていない場合: なし
 
-   ![トレーニングされていない教育機関](images/edunottagged.PNG)
+   :::image type="content" source="images/edunottagged.png" alt-text="トレーニングされていない教育機関":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>お客様のアカウント情報を修正し、審査を再送信します。  
 
