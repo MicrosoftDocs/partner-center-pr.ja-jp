@@ -119,7 +119,7 @@
 ## [新しい顧客の追加](add-a-new-customer.md)
 ## [顧客との再販業者関係の要求](request-a-relationship-with-a-customer.md)
 ## [顧客との再販業者関係の削除](remove-a-relationship.md)
-## [顧客によるパートナーへの管理特権の委任または取り消し](customers_revoke_admin_privileges.md) 
+## [顧客によるパートナーへの管理特権の委任または取り消し](customers-revoke-admin-privileges.md) 
 ## [顧客一覧の表示](see-your-customer-list.md)
 ## [顧客のアクティビティ ログの表示](activity-logs.md)
 ## [顧客のアカウント情報の更新](update-customer-account-info.md)
@@ -127,7 +127,7 @@
 ## [顧客での複数ユーザーの作成](adding-multiple-users-to-a-customer-account.md)
 ## [サポート連絡先の指定](assign-support-contacts.md)
 
-# [CSP のプラン](csp-offers.md) 
+# [CSP のプラン](csp-offers.md)
 ## 商業マーケットプレース
 ### [商業マーケットプレースの概要](csp-commercial-marketplace-overview.md)
 ### [マーケットプレースのサービスを探す](csp-commercial-marketplace-discover.md)
