@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89c53daff52877c9d1facffe8c03e75a1f5b3dae
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: a0e318ccc7ea2ff3fa0d50fbc1514682ca9566a5
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998368"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328273"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
 
