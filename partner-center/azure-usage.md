@@ -22,7 +22,7 @@ ms.locfileid: "84453279"
 **適用対象**
 
 - パートナー センター
-- Azure portal
+- Azure Portal
 - CSP のパートナー
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>顧客の Azure 予約の VM サイズを決定する 
