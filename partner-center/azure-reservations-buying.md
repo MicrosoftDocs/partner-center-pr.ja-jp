@@ -1,7 +1,7 @@
 ---
 title: 顧客の予約 Microsoft Azure 購入する
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナーセンターで顧客の代理として Azure の予約を購入または購入する方法について説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure, 予約, 管理, 請求, 購入
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5664770e1e0f87f2a1a86fd1127bbb54a8a253fb
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908302"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603721"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure Reservations を購入する
 
@@ -35,7 +35,7 @@ ms.locfileid: "82908302"
 
 ## <a name="before-you-begin"></a>開始する前に
 
-顧客に代わって Azure Reservations の購入を行う前に、以下の重要な情報を確認してください。 (お客様が以前に購入した Azure サブスクリプションから独自の Azure 予約を購入できるようにしますか? [独自の Azure 予約を購入するためのアクセス許可を顧客に付与する] を参照してください。 [顧客に対して、アクセス許可を付与します。
+顧客に代わって Azure Reservations の購入を行う前に、以下の重要な情報を確認してください。 (お客様が以前に購入した Azure サブスクリプションから独自の Azure 予約を購入できるようにしますか? 「 [Azure の予約を購入するためのアクセス許可を顧客に付与する」を](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)参照してください。)
 
 - 顧客が新しい Microsoft カスタマーアグリーメントに署名する場合 (「 [microsoft カスタマーアグリーメントのカスタマー同意を確認](confirm-customer-agreement.md)する」を参照してください)、azure プランで azure の予約を購入する必要があります。 詳細については、「 [Azure プランの購入](purchase-azure-plan.md)」を参照してください。
 

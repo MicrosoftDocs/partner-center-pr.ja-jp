@@ -1,22 +1,23 @@
 ---
-title: 未割り当て支払いの管理 |パートナーセンター
+title: 未割り当ての支払いを管理する
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 未割り当ての支払いの内容と、それらを請求書に適用する方法について説明します。
+description: パートナーセンターの課金ページに表示される未割り当ての支払いについて説明します。 また、請求書に適用する方法についても説明します。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 請求、支払い、支払い、未割り当ての支払い
 ms.localizationpriority: medium
-ms.openlocfilehash: 2cb132d7ade1e6ef7b8172a0612fbd53bf24def1
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3bcb23a338b4298982749f34341f60a392f4f8e2
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797690"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603611"
 ---
-# <a name="manage-unallocated-payments"></a>未割り当ての支払いを管理する
+# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>パートナーセンターの課金ページで未割り当ての支払いを管理する
 
 **適用対象**
 
@@ -26,10 +27,12 @@ ms.locfileid: "82797690"
 
 ## <a name="to-view-your-unallocated-payments"></a>未割り当ての支払いを表示するには
 
-1.  [パートナー センター ダッシュボードにサインイン](https://partner.microsoft.com/en-us/dashboard/home)します。
-2.  左側のメニューで、 **[請求]** を選択します。
-3.  [課金] ページで、[**未割り当ての支払い**] セクションを探します。 
+1. [パートナー センター ダッシュボードにサインイン](https://partner.microsoft.com/dashboard/home)します。
 
-この金額を特定の請求書に適用するbposcapp@microsoft.comには、この支払いを適用する請求書を電子メールでお送りください。 支払いを行っている場合は、すべての情報を必ず含めてください。 課金ページは5-6 日後に更新されます。 
+2. 左側のメニューで、 **[請求]** を選択します。
+
+3. [課金] ページで、[**未割り当ての支払い**] セクションを探します。 
+
+この金額を特定の請求書に適用するには、 bposcapp@microsoft.com この支払いを適用する請求書を電子メールでお送りください。 支払いを行っている場合は、すべての情報を必ず含めてください。 課金ページは5-6 日後に更新されます。 
 
 未割り当ての支払いは、請求書に割り当てられるまで未割り当てのままになります。 

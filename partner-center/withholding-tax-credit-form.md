@@ -1,23 +1,24 @@
 ---
-title: 源泉徴収税のご購入をご確認ください。パートナーセンター
+title: 源泉徴収税の貸方
 ms.topic: article
-ms.date: 2/16/2020
+ms.date: 06/05/2020
 description: パートナーセンターで税金源泉徴収要求を作成して、パートナーセンターのアカウントに源泉徴収税があることを確認します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: 源泉徴収税クレジット、税金クレジット、ドイツの課税クレジット書
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d9fbea52fa08117ec712284ecd6436f576a2a06
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e4cb4b1dde35caca153e37de5a07f947f6da158e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453321"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603851"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>源泉徴収で税額控除されていることを確認する
+# <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Microsoft ではなく、現地の税務当局にお支払いいただく場合は、源泉徴収税の貸方についてご確認ください
 
 適用対象:
 

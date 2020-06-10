@@ -1,19 +1,21 @@
 ---
-title: Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理 | Microsoft Cloud ドイツのパートナー センター
+title: ユーザーとライセンスの管理
+titleSuffix: Microsoft Cloud Germany - Partner Center
+description: Microsoft Cloud ドイツのパートナー、顧客、ライセンスのパートナーセンターを管理する方法と場所、およびパスワードのリセットについて説明します。
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft Cloud ドイツのパートナー、顧客、ライセンスのパートナーセンターを管理する方法と場所、およびパスワードのリセットについて説明します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 923d7a389e3eb81d2bb20422182f53c14af72746
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ed349d0e9bfbc6768defcf781e612ee38e6f764f
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797680"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603621"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
 
@@ -37,7 +39,7 @@ ms.locfileid: "82797680"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツの Azure ポータルでユーザーを管理する方法 
 
-Microsoft Cloud ドイツのパートナー センターにサインインしている場合は、サインインし直さなくても Microsoft Cloud ドイツの Azure ポータルを開くことができます。 ただし、Microsoft Cloud ドイツの Azure portal に直接サインインする必要がある場合は、「」 [https://portal.microsoftazure.de](https://portal.microsoftazure.de)に進んでください。 
+Microsoft Cloud ドイツのパートナー センターにサインインしている場合は、サインインし直さなくても Microsoft Cloud ドイツの Azure ポータルを開くことができます。 ただし、Microsoft Cloud ドイツの Azure portal に直接サインインする必要がある場合は、「」に進んで [https://portal.microsoftazure.de](https://portal.microsoftazure.de) ください。 
 
 Microsoft Cloud ドイツの Azure portal に正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
 

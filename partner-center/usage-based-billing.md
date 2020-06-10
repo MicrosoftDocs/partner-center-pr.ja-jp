@@ -1,20 +1,21 @@
 ---
-title: 使用量ベースの課金 |パートナーセンター
+title: 使用量ベースの課金
 ms.topic: article
-ms.date: 11/21/2019
-Description: パートナーセンターでの使用量ベースの課金に関する情報。毎月の使用率に対して課金されます。
+ms.date: 06/05/2020
+Description: 使用量ベースの課金の詳細については、パートナーセンターを参照してください。毎月の使用率について課金されます。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 課金、使用量ベース、使用量
 ms.localizationpriority: medium
-ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4e3b7c3d9e31203ff56c191957b60772e04feec9
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797670"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603871"
 ---
-# <a name="usage-based-billing"></a>使用量ベースの課金
+# <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>月額、従量課金制のサービスの使用量ベースの課金について
 
 - パートナー センター
 - CSP プログラムのパートナー
@@ -27,7 +28,7 @@ Microsoft の一部の製品とサービスでは "従量課金制" の請求モ
 
 使用量ベースの製品では、**毎月の課金**のみを利用できます。 毎月の課金の詳細については、「[月額料金と年間課金の相違点](billing-annual-monthly.md)」を参照してください。
 
-使用量ベースのサブスクリプションは、**サブスクリプションの契約日**に月単位で課金されます。 たとえば、サブスクリプションの契約日が15日の場合、サービス期間の12月15日から1月14日までの料金が請求されます。 サービス期間15月15日から2月14日まで、2月15日にもう一度料金が請求されます。 
+使用量ベースのサブスクリプションは、**サブスクリプションの契約日**に月単位で課金されます。 たとえば、サブスクリプションの契約日が15日の場合、サービス期間15月15日から1月14日までの料金が請求されます。 1月15日から2月14日のサービス期間中は、2月15日にもう一度料金が請求されます。
 
 ## <a name="usage-charges"></a>利用料金
 

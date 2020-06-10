@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89e552e87f24caa43e0875afa2b7bea6e870c406
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: ce28103892771dc7c27fe081f2d70740b66bfa19
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467502"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633792"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>プロモーションを使用して新しい顧客を引き付け、節約する
 
@@ -30,7 +30,6 @@ ms.locfileid: "84467502"
 - 課金管理者
 - 販売代理店
 
-<!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
 マイクロソフトは、ライセンス ベースのサブスクリプションのプロモーションを随時実施しており、パートナー様はこれを活用して顧客に割引価格でサブスクリプションを提供し、ビジネスの拡大を図ることができます。 
 
@@ -48,10 +47,10 @@ Microsoft では、クラウドソリューションプロバイダー (CSP) プ
 
 ## <a name="see-available-promotions"></a>利用可能なプロモーションをご覧ください。
 
-**プロモーション**ページで、対象となっているプロモーション (存在する場合) を確認できます。 **[パートナー センター]** メニューから **[プロモーション]** を選択すると、割引、プロモーションの種類、サブスクリプションの開始日と終了日が併せて記載された、現在のプロモーショの一覧を表示します。 利用できるプロモーションがない場合は、そのことを示すメッセージが表示されます。 
+**[プロモーション]** ページで、利用資格があるプロモーションを確認できます (存在する場合)。 **[パートナー センター]** メニューから **[プロモーション]** を選択すると、割引、プロモーションの種類、サブスクリプションの開始日と終了日が併せて記載された、現在のプロモーショの一覧を表示します。 利用できるプロモーションがない場合は、そのことを示すメッセージが表示されます。 
 
 > [!NOTE]  
-> 購入時にプロモーションを確認することもできます。 サブスクリプションを選択すると、割引率が **[確認]** ページに表示されます。
+> 購入時にプロモーションを確認することもできます。 サブスクリプションを選択すると、 **[Review]\(レビュー\)** ページにプロモーションの価格が表示されます。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>割引価格でサブスクリプションを購入する
 

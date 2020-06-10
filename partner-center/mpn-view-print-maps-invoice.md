@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN、請求書、マップ、課税控除、VAT、VAT ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795941"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633812"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft Partner Network の請求と税金
 
@@ -62,3 +62,8 @@ ms.locfileid: "83795941"
 
 3.  会社の VAT ID を入力し、[**追加**] を選択して、[**次へ**] を選択します。 
 
+## <a name="next-steps"></a>次のステップ
+
+- [パートナー センターでの請求の概要](billing-basics.md)
+
+- [源泉徴収税の貸方](withholding-tax-credit-form.md)

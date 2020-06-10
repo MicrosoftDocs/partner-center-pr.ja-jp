@@ -1,5 +1,5 @@
 ---
-title: Microsoft Partner Network メンバーシップのアップグレード
+title: Microsoft Partner Network のメンバーシップをアップグレードする
 description: MPN のメンバーシップを Microsoft Action Pack サブスクリプションのメンバーシップまたは Microsoft コンピテンシーにアップグレードすることで、排他的な特典をご利用ください。
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,15 @@ ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
-ms.openlocfilehash: f39e92c64841bc541f6f72256aece4f0a1da3e1d
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369259"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603881"
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft Partner Network メンバーシップのアップグレード
+# <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>Microsoft Partner Network のメンバーシップをアップグレードし、新しいプラン、プログラム、リソースを探索します
 
 **適用対象**
 
@@ -69,7 +70,7 @@ Microsoft Action Pack の詳細については、「」を参照 [https://partne
 
 7. 注文が確認されます。 **[閉じる]** を選びます。
 
-購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。 自動更新は、購入したプランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。
+   購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。 自動更新は、購入したプランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack サブスクリプションの自動更新を無効にする
 
@@ -118,8 +119,8 @@ Microsoft Action Pack サブスクリプションを取り消す場合は、パ�
 
    サービス要求の状態を確認するには、**[サービス要求] > [パートナー センターの要求]** を選び、**[開く]** を選びます。 一覧から該当するサービス要求を選びます。  
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Action Pack サブスクリプションをアクティブ化する](manage-your-partner-network-benefits.md)
 
-- [ユーザーの追加とアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)
+- [ユーザーを追加してアクセル許可を割り当てる](create-user-accounts-and-set-permissions.md)
