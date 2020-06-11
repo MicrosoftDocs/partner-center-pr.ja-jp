@@ -1,77 +1,87 @@
 ---
-title: Azure CSP サブスクリプションの管理者特権を復元する | パートナー センター
+title: Azure CSP の管理者特権を復元する
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: このドキュメントでは、顧客がパートナーの管理者特権を復元する方法について説明します
+description: パートナーが顧客の Azure CSP サブスクリプションを管理できるように、顧客がパートナーの管理者特権を復元する方法について説明します。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3bb1f5daf1582c4ca4a67c2813d598567db17f13
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "73651711"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467252"
 ---
-# <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a><span data-ttu-id="72f28-103">Azure CSP サブスクリプションの管理者特権を復元する</span><span class="sxs-lookup"><span data-stu-id="72f28-103">Reinstate admin privileges for Azure CSP subscriptions</span></span>  
+# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a><span data-ttu-id="52add-103">顧客の Azure CSP サブスクリプションの管理者特権を復元する</span><span class="sxs-lookup"><span data-stu-id="52add-103">Reinstate admin privileges for a customer's Azure CSP subscriptions</span></span>  
 
-<span data-ttu-id="72f28-104">**該当するロール**</span><span class="sxs-lookup"><span data-stu-id="72f28-104">**Applicable roles**</span></span>
+<span data-ttu-id="52add-104">**該当するロール**</span><span class="sxs-lookup"><span data-stu-id="52add-104">**Applicable roles**</span></span>
 
-- <span data-ttu-id="72f28-105">グローバル管理者</span><span class="sxs-lookup"><span data-stu-id="72f28-105">Global admin</span></span>
-- <span data-ttu-id="72f28-106">管理エージェント</span><span class="sxs-lookup"><span data-stu-id="72f28-106">Admin agent</span></span>
+- <span data-ttu-id="52add-105">グローバル管理者</span><span class="sxs-lookup"><span data-stu-id="52add-105">Global admin</span></span>
+- <span data-ttu-id="52add-106">管理エージェント</span><span class="sxs-lookup"><span data-stu-id="52add-106">Admin agent</span></span>
 
-<span data-ttu-id="72f28-107">CSP パートナーの顧客は、自分の Azure の使用状況とシステムを、自分の代わりに CSP パートナーに管理してもらうことを望む場合がよくあります。</span><span class="sxs-lookup"><span data-stu-id="72f28-107">As a CSP partner your customers often expect that you will manage their Azure usage and their systems for them.</span></span> <span data-ttu-id="72f28-108">これを行うには、パートナーに管理者特権が必要です。</span><span class="sxs-lookup"><span data-stu-id="72f28-108">To do this requires that you have admin privileges.</span></span> <span data-ttu-id="72f28-109">一部の特権は、顧客とのリセラーの関係が確立されると付与されます。</span><span class="sxs-lookup"><span data-stu-id="72f28-109">Some privileges are granted these when your reseller relationship with the customer is established.</span></span> <span data-ttu-id="72f28-110">それ以外は、顧客によってパートナーに付与されます。</span><span class="sxs-lookup"><span data-stu-id="72f28-110">Others are granted to you by your customer.</span></span>
+<span data-ttu-id="52add-107">CSP パートナーの顧客は、自分の Azure の使用状況とシステムを、自分の代わりに CSP パートナーに管理してもらうことを望む場合がよくあります。</span><span class="sxs-lookup"><span data-stu-id="52add-107">As a CSP partner your customers often expect that you will manage their Azure usage and their systems for them.</span></span> <span data-ttu-id="52add-108">これを行うには、管理者特権が必要です。</span><span class="sxs-lookup"><span data-stu-id="52add-108">Doing so requires you to have admin privileges.</span></span> <span data-ttu-id="52add-109">一部の特権は、顧客とのリセラーの関係が確立されると付与されます。</span><span class="sxs-lookup"><span data-stu-id="52add-109">Some privileges are granted these when your reseller relationship with the customer is established.</span></span> <span data-ttu-id="52add-110">それ以外は、顧客によってパートナーに付与されます。</span><span class="sxs-lookup"><span data-stu-id="52add-110">Others are granted to you by your customer.</span></span>
 
-## <a name="admin-privileges-for-azure-in-csp"></a><span data-ttu-id="72f28-111">CSP での Azure に対する管理者特権</span><span class="sxs-lookup"><span data-stu-id="72f28-111">Admin privileges for Azure in CSP</span></span> 
+## <a name="admin-privileges-for-azure-in-csp"></a><span data-ttu-id="52add-111">CSP での Azure に対する管理者特権</span><span class="sxs-lookup"><span data-stu-id="52add-111">Admin privileges for Azure in CSP</span></span>
 
-<span data-ttu-id="72f28-112">CSP では Azure に対して 2 つのレベルの管理者特権があります。</span><span class="sxs-lookup"><span data-stu-id="72f28-112">There are two levels of admin privileges for Azure in CSP.</span></span> 
+<span data-ttu-id="52add-112">CSP では Azure に対して 2 つのレベルの管理者特権があります。</span><span class="sxs-lookup"><span data-stu-id="52add-112">There are two levels of admin privileges for Azure in CSP.</span></span>
 
-<span data-ttu-id="72f28-113">**テナント レベルの管理者特権** (**委任された管理者特権**) - CSP パートナーは、顧客との CSP リセラーの関係を確立する際に、これらの特権を取得します。</span><span class="sxs-lookup"><span data-stu-id="72f28-113">**Tenant level admin privileges** (**Delegated admin privileges**) -  CSP partners get these privileges while establishing CSP reseller relationship with customers.</span></span> <span data-ttu-id="72f28-114">これにより、CSP パートナーは顧客のテナントにアクセスできるようになり、ユーザーの追加/管理、パスワードのリセット、ユーザー ライセンスの管理などの管理機能を実行できます。</span><span class="sxs-lookup"><span data-stu-id="72f28-114">This gives CSP partners access to their customers' tenants, which allows them to perform administrative functions such as add/manage users, reset passwords and manage user licenses.</span></span> 
+<span data-ttu-id="52add-113">**テナント レベルの管理者特権** (**委任された管理者特権**) - CSP パートナーは、顧客との CSP リセラーの関係を確立する際に、これらの特権を取得します。</span><span class="sxs-lookup"><span data-stu-id="52add-113">**Tenant level admin privileges** (**Delegated admin privileges**) -  CSP partners get these privileges while establishing CSP reseller relationship with customers.</span></span> <span data-ttu-id="52add-114">これにより、CSP パートナーは顧客のテナントにアクセスできるようになり、ユーザーの追加/管理、パスワードのリセット、ユーザー ライセンスの管理などの管理機能を実行できます。</span><span class="sxs-lookup"><span data-stu-id="52add-114">This gives CSP partners access to their customers' tenants, which allows them to perform administrative functions such as add/manage users, reset passwords and manage user licenses.</span></span>
 
-<span data-ttu-id="72f28-115">**サブスクリプション レベルの管理者特権** - CSP パートナーは、顧客のための Azure CSP サブスクリプションを作成する際に、これらの特権を取得します。</span><span class="sxs-lookup"><span data-stu-id="72f28-115">**Subscription level admin privileges** - CSP partners get these privileges while creating Azure CSP subscriptions for their customers.</span></span> <span data-ttu-id="72f28-116">これにより、CSP パートナーはこれらのサブスクリプションに完全にアクセスできるようになり、Azure リソースのプロビジョニングと管理を行うことができます。</span><span class="sxs-lookup"><span data-stu-id="72f28-116">This gives CSP partners complete access to these subscriptions, which allows them to provision and manage Azure resources.</span></span> 
+<span data-ttu-id="52add-115">**サブスクリプション レベルの管理者特権** - CSP パートナーは、顧客のための Azure CSP サブスクリプションを作成する際に、これらの特権を取得します。</span><span class="sxs-lookup"><span data-stu-id="52add-115">**Subscription level admin privileges** - CSP partners get these privileges while creating Azure CSP subscriptions for their customers.</span></span> <span data-ttu-id="52add-116">これらの特権により、CSP パートナーはこれらのサブスクリプションに完全にアクセスできるようになり、Azure リソースのプロビジョニングと管理を行うことができます。</span><span class="sxs-lookup"><span data-stu-id="52add-116">Having these privileges gives CSP partners complete access to these subscriptions, which allows them to provision and manage Azure resources.</span></span>
 
+## <a name="reinstate-csp-partners-admin-privileges"></a><span data-ttu-id="52add-117">CSP パートナーの管理者特権を復元する</span><span class="sxs-lookup"><span data-stu-id="52add-117">Reinstate CSP partners' admin privileges</span></span>
 
-## <a name="reinstate-csp-partners-admin-privileges"></a><span data-ttu-id="72f28-117">CSP パートナーの管理者特権を復元する</span><span class="sxs-lookup"><span data-stu-id="72f28-117">Reinstate CSP partners' admin privileges</span></span>
+<span data-ttu-id="52add-118">委任された管理者特権を回復するには、顧客と協力する必要があります。</span><span class="sxs-lookup"><span data-stu-id="52add-118">To regain delegated admin privileges, you need to work with your customer.</span></span>
 
-<span data-ttu-id="72f28-118">委任された管理者特権を回復するには、顧客と協力する必要があります。</span><span class="sxs-lookup"><span data-stu-id="72f28-118">To regain delegated admin privileges, you need to work with your customer.</span></span>
- 
- 1. <span data-ttu-id="72f28-119">パートナー センター ダッシュボードにサインインし、パートナー センター メニューから **[顧客]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="72f28-119">Sign in to Partner Center dashboard and from the Partner Center menu, select **Customers**.</span></span>
+1. <span data-ttu-id="52add-119">パートナー センター ダッシュボードにサインインし、パートナー センター メニューから **[顧客]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="52add-119">Sign in to Partner Center dashboard and from the Partner Center menu, select **Customers**.</span></span>
 
- 2. <span data-ttu-id="72f28-120">協力する顧客を選択し、 **[リセラーの関係を要求する]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="72f28-120">Select the customer you are working with and **request a reseller relationship.**</span></span> <span data-ttu-id="72f28-121">これにより、テナント管理者権限を持つ顧客へのリンクが生成されます。</span><span class="sxs-lookup"><span data-stu-id="72f28-121">This generates a link to the customer who has tenant admin rights.</span></span>
+2. <span data-ttu-id="52add-120">協力する顧客を選択し、 **[リセラーの関係を要求する]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="52add-120">Select the customer you are working with and **request a reseller relationship.**</span></span> <span data-ttu-id="52add-121">これにより、テナント管理者権限を持つ顧客へのリンクが生成されます。</span><span class="sxs-lookup"><span data-stu-id="52add-121">This generates a link to the customer who has tenant admin rights.</span></span>
 
- 3. <span data-ttu-id="72f28-122">そのユーザーはリンクを選択し、リセラーの関係の要求を承認する必要があります。</span><span class="sxs-lookup"><span data-stu-id="72f28-122">That user needs to select the link and approve the reseller relationship request.</span></span>
- 
-![リセラーの関係](images/azure/revoke4.png)
+3. <span data-ttu-id="52add-122">そのユーザーはリンクを選択し、リセラーの関係の要求を承認する必要があります。</span><span class="sxs-lookup"><span data-stu-id="52add-122">That user needs to select the link and approve the reseller relationship request.</span></span>
 
-## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a><span data-ttu-id="72f28-124">Azure CSP サブスクリプションの所有者として管理者エージェント グループを追加する</span><span class="sxs-lookup"><span data-stu-id="72f28-124">Adding the admin agents group as an owner for the Azure CSP subscription</span></span>
+   :::image type="content" source="images/azure/revoke4.png" alt-text="リセラーの関係":::
 
- <span data-ttu-id="72f28-125">顧客は、Azure CSP サブスクリプションの所有者として、パートナーの管理者エージェント グループを追加する必要があります。</span><span class="sxs-lookup"><span data-stu-id="72f28-125">Your customer will need to add your admin agent group as the owner of the Azure CSP subscription.</span></span>
+## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a><span data-ttu-id="52add-124">Azure CSP サブスクリプションの所有者として管理者エージェント グループを追加する</span><span class="sxs-lookup"><span data-stu-id="52add-124">Adding the admin agents group as an owner for the Azure CSP subscription</span></span>
 
-1. <span data-ttu-id="72f28-126">PowerShell コンソールまたは PowerShell Integrated Scripting Environment (ISE) のいずれかを使用します。</span><span class="sxs-lookup"><span data-stu-id="72f28-126">Use either PowerShell Console or PowerShell Integrated Scripting Environment(ISE).</span></span> <span data-ttu-id="72f28-127">AzureRM モジュールと AzureAD モジュールがインストールされていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="72f28-127">Ensure that AzureRM and AzureAD modules are installed.</span></span> 
+<span data-ttu-id="52add-125">顧客は、Azure CSP サブスクリプションの所有者として、パートナーの管理者エージェント グループを追加する必要があります。</span><span class="sxs-lookup"><span data-stu-id="52add-125">Your customer will need to add your admin agent group as the owner of the Azure CSP subscription.</span></span>
 
-2.  <span data-ttu-id="72f28-128">Azure AD テナントに接続します。</span><span class="sxs-lookup"><span data-stu-id="72f28-128">Connect to your Azure AD Tenant.</span></span>
-<span data-ttu-id="72f28-129">PowerShell コマンドレット: Connect-AzureAD</span><span class="sxs-lookup"><span data-stu-id="72f28-129">PowerShell cmdlet: Connect-AzureAD</span></span>
+1. <span data-ttu-id="52add-126">PowerShell コンソールまたは PowerShell Integrated Scripting Environment (ISE) のいずれかを使用します。</span><span class="sxs-lookup"><span data-stu-id="52add-126">Use either PowerShell Console or PowerShell Integrated Scripting Environment(ISE).</span></span> <span data-ttu-id="52add-127">AzureRM モジュールと AzureAD モジュールがインストールされていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="52add-127">Ensure that AzureRM and AzureAD modules are installed.</span></span>
 
-3.  <span data-ttu-id="72f28-130">管理者エージェント グループの ObjectId を取得します。</span><span class="sxs-lookup"><span data-stu-id="72f28-130">Get ObjectId of the Admin Agents groups.</span></span>
-<span data-ttu-id="72f28-131">PowerShell コマンドレット: Get-AzureADGroup\`1nn</span><span class="sxs-lookup"><span data-stu-id="72f28-131">PowerShell cmdlet: Get-AzureADGroup\`1nn</span></span>
+2. <span data-ttu-id="52add-128">Azure AD テナントに接続します。</span><span class="sxs-lookup"><span data-stu-id="52add-128">Connect to your Azure AD Tenant.</span></span>
 
-![管理者エージェント グループ](images/azure/revoke5.png)
+   ```powershell
+   Connect-AzureAD
+   ```
 
-<span data-ttu-id="72f28-133">次の手順は、顧客の会社の、Azure CSP サブスクリプションに対する所有者アクセス権を持つユーザーが実行します。</span><span class="sxs-lookup"><span data-stu-id="72f28-133">The following steps are performed by the user in your customer's company who has owner access to the Azure CSP subscription.</span></span>
+3. <span data-ttu-id="52add-129">管理者エージェント グループの ObjectId を取得します。</span><span class="sxs-lookup"><span data-stu-id="52add-129">Get ObjectId of the Admin Agents groups.</span></span>
 
-4. <span data-ttu-id="72f28-134">Azure CSP サブスクリプションへの所有者アクセス権を持つユーザーは、自分の資格情報を使用して Azure Resource Manager にサインインします。</span><span class="sxs-lookup"><span data-stu-id="72f28-134">The user with owner access to the Azure CSP subscription,signs in to Azure Resource Manager using her credentials.</span></span>
+   ```powershell
+   Get-AzureADGroup
+   ```
 
-    <span data-ttu-id="72f28-135">PowerShell コマンドレット: Login-AzureRMAccount</span><span class="sxs-lookup"><span data-stu-id="72f28-135">PowerShell cmdlet: Login-AzureRMAccount</span></span>
+   :::image type="content" source="images/azure/revoke5.png" alt-text="管理者エージェント グループ":::
 
-5.  <span data-ttu-id="72f28-136">その後、パートナーの管理者エージェント グループを、CSP Azure サブスクリプションに所有者として追加できます。</span><span class="sxs-lookup"><span data-stu-id="72f28-136">She can then add your admin agent group as owner to the CSP Azure subscription.</span></span>
+   <span data-ttu-id="52add-131">次の手順は、顧客の会社の、Azure CSP サブスクリプションに対する所有者アクセス権を持つユーザーが実行します。</span><span class="sxs-lookup"><span data-stu-id="52add-131">The following steps are performed by the user in your customer's company who has owner access to the Azure CSP subscription.</span></span>
 
-    <span data-ttu-id="72f28-137">PowerShell コマンドレット: New-AzureRMRoleAssignment -ObjectId <ステップ 3 で取得したオブジェクト ID> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"</span><span class="sxs-lookup"><span data-stu-id="72f28-137">PowerShell cmdlet: New-AzureRMRoleAssignment -ObjectId < Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"</span></span>
+4. <span data-ttu-id="52add-132">Azure CSP サブスクリプションへの所有者アクセス権を持つユーザーは、自分の資格情報を使用して Azure Resource Manager にサインインします。</span><span class="sxs-lookup"><span data-stu-id="52add-132">The user with owner access to the Azure CSP subscription,signs in to Azure Resource Manager using her credentials.</span></span>
 
-![管理者エージェント所有者](images/azure/revoke6.png)    
+   ```powershell
+   Login-AzureRMAccount
+   ```
 
-<span data-ttu-id="72f28-139">**詳細情報**</span><span class="sxs-lookup"><span data-stu-id="72f28-139">**For more information**</span></span>
+5. <span data-ttu-id="52add-133">その後、パートナーの管理者エージェント グループを、CSP Azure サブスクリプションに所有者として追加できます。</span><span class="sxs-lookup"><span data-stu-id="52add-133">She can then add your admin agent group as owner to the CSP Azure subscription.</span></span>
 
-[<span data-ttu-id="72f28-140">Azure プランのサブスクリプションとリソースを管理する</span><span class="sxs-lookup"><span data-stu-id="72f28-140">Manage subscriptions and resources under the Azure plan</span></span>](azure-plan-manage.md)
+    ```powershell
+    New-AzureRMRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    ```
+
+   :::image type="content" source="images/azure/revoke6.png" alt-text="管理者エージェント所有者":::
+
+## <a name="next-steps"></a><span data-ttu-id="52add-135">次の手順</span><span class="sxs-lookup"><span data-stu-id="52add-135">Next steps</span></span>
+
+[<span data-ttu-id="52add-136">Azure プランのサブスクリプションとリソースを管理する</span><span class="sxs-lookup"><span data-stu-id="52add-136">Manage subscriptions and resources under the Azure plan</span></span>](azure-plan-manage.md)
