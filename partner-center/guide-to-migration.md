@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795832"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453239"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC からパートナー センターに移行するためのガイド
 
@@ -45,7 +45,7 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 
 招待について **[Get started]\(開始する\)** を選択します。 パートナー センターのサインイン ページが表示されます。
 
-![開始](images/migration/getstarted.jpg)
+:::image type="content" source="images/migration/getstarted.jpg" alt-text="作業開始":::
 
 ## <a name="start-with-your-work-email"></a>勤務先メールの使用を開始する
 
@@ -54,7 +54,7 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 >[!Note]
 >中国内のパートナーであり、Microsoft Partner Network とクラウド ソリューション プロバイダー (CSP) プログラムの両方に登録されている場合は、アカウントごとに個別のテナントが作成されます。 クラウド ソリューション プロバイダー プログラムのアカウントは国内クラウドで管理され、Microsoft Partner Network アカウントはグローバル クラウドで管理されます。 これらの 2 つのアカウントをリンクすることはできません。
 
-![あなたの会社について教えてください](images/migration/newtellusabout.png)
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="あなたの会社について教えてください":::
 
 情報を確認または更新したら、 **[同意して続行する]** を選択します。
 このページの使用条件は、PMC で会社が既にサインインしている契約と**まったく同じ**です。  
@@ -72,7 +72,7 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 
 新しい Azure AD テナントが作成されたら、パートナー センターにサインインするように従業員を招待できます。
 
-![従業員を招待する](images/migration/invite.png)
+:::image type="content" source="images/migration/invite.png" alt-text="従業員を招待する":::
 
 既存の AAD テナントを使用してサインインした場合は、従業員も一緒に移動されます。 この場合は、パートナー センターで何ができるかを決定するために従業員のロールを割り当てます。 注: パートナー センターのロールは、PMC のロールとは異なります。 詳細については、「[Moving from PMC to Partner Center](move-pmc-pc-map.md)」(PMC から Partner Center への移行) を参照してください。
 
@@ -80,11 +80,11 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 
 AAD テナントが新しい場合は、全体管理者のロールが誰にも割り当てられていません。全体管理者になるには、ドメインの所有権を確認する必要があります。 そのためには、ドメイン管理者によるサポートが必要になることがあります。 購入済みのプランを使用することはできますが、全体管理者になるための手順を完了するまで、新しいプランを購入することはできません。
 
-![管理する](images/migration/takecontrol.png)
+:::image type="content" source="images/migration/takecontrol.png" alt-text="管理する":::
 
 [Get started]\(開始する\) を選択すると、次の画面が表示されます。
 
-![ドメインの所有者を確認する](images/migration/verifytxt.png)
+:::image type="content" source="images/migration/verifytxt.png" alt-text="ドメインの所有者を確認する":::
 
 ドメイン レジストラーは既に自動入力されています。 ドメイン所有者だけが DNS ファイルを更新できます。そのため、テキスト ファイルをコピーして DNS レコードに追加することで、自分が所有者であることを確認できます。 更新が行われるまで数分かかります。 パートナー センターからサインアウトしてから、もう一度サインインする必要があります。 ロールが全体管理者に変更されています。
 
@@ -92,7 +92,7 @@ AAD テナントが新しい場合は、全体管理者のロールが誰にも�
 
 ダッシュボードのツアーを開始します。 ここでは、**ダッシュボード**を選択することでいつでも、メンバーシップの管理、紹介用のビジネス プロファイルの追加、クラウド ソリューション プロバイダー プログラムへの登録、ビジネスに関連する通知とプランの確認を行うことができます。 また、インセンティブの管理、マーケットプレースでの購入、市場投入サービスへのサインアップなども行うことができます。  
 
-![ツアーを開始する](images/migration/fre.png)
+:::image type="content" source="images/migration/fre.png" alt-text="ツアーを開始する":::
 
 ## <a name="next-steps"></a>次の手順
 

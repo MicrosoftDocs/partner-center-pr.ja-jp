@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: c9a80519ab418c0b0c52bbf7e0224e439b4f672e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 5d3bfd235b621b7af0c86bd5bdf152cc50a2d4ba
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467532"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679299"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>パートナーセンターの洞察-Microsoft の商用パートナーがどのように実行しているかを示すダッシュボード
 
@@ -37,7 +37,7 @@ Insights は、Microsoft Partner Network (MPN) プログラムに登録されて
 全体管理者またはアカウント管理者は、ユーザーにこれらのロールを割り当てることができ、会社全体または特定の MPN の場所に割り当てられます。  
 
 >[!Note] 
->2019年12月 2 MPN の時点で管理者であるユーザーは、会社全体のレポートビューアーの役割に自動的に追加されました。 これらのユーザーは、グローバル管理者またはアカウント管理者による明示的な操作を必要とせずに、レポートビューアーとしてレポートにアクセスできます。グローバル管理者またはアカウント管理者は、必要に応じてこれらの割り当てを上書きできます。 
+>2020年1月20日の MPN に管理されていたユーザーは、会社全体のレポートビューアーの役割に自動的に追加されました。 これらのユーザーは、グローバル管理者またはアカウント管理者による明示的な操作を必要とせずに、レポートビューアーとしてレポートにアクセスできます。グローバル管理者またはアカウント管理者は、必要に応じてこれらの割り当てを上書きできます。 
 
 ## <a name="reports-available"></a>使用可能なレポート
 

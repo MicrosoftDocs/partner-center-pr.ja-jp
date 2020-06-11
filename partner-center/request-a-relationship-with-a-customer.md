@@ -9,12 +9,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 44f959f2bc0fff5c354dd7f6bf55e1afccf2398e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467372"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679409"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>パートナーセンターで顧客から再販業者の関係を要求する方法
 
@@ -26,11 +26,12 @@ ms.locfileid: "84467372"
 
 顧客とリセラーの関係を確立し、貴社がプロビジョニングした Azure サブスクリプションのみを管理する場合は、管理者のアクセス許可を取得する必要はありません。
 
-アクセス許可を要求しないオプションは、Microsoft Cloud for US Government または Microsoft Cloud Germany で活動するパートナーは使用できないことに注意してください。 詳しくは、「[顧客がパートナーに管理特権を委任する](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)」をご覧ください。
+>[!NOTE] 
+>米国政府機関または Microsoft Cloud ドイツの Microsoft Cloud で運用しているパートナーは、アクセス許可を要求しないオプションを利用できません。 詳しくは、「[顧客がパートナーに管理特権を委任する](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)」をご覧ください。
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>貴社との再販業者関係を確立するために顧客を招待する
 
-顧客とのリセラー関係の要求は、貴社の国内または貴社と同じリージョン内から行うことができることに注意してください。
+お住まいの国または同じリージョン内の顧客との再販業者関係を申請することができます。
 
 1. **パートナー センター** メニューから **[顧客]** を選択し、 **[リセラーの関係を要求する]** を選びます。
 

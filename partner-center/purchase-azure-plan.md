@@ -1,27 +1,28 @@
 ---
-title: Azure プランを購入する | パートナー センター
+title: Azure プランを購入する
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure プランで 1 つまたは複数の Azure サブスクリプションと Azure 予約を購入する方法、リソースを構成する方法、サブスクリプションを表示または追加する方法について説明します。
+description: Azure プランを使用して、1 つまたは複数の Azure サブスクリプションと Azure 予約を購入する方法、リソースを構成する方法、サブスクリプションを表示または追加する方法について説明します。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 9ed6e3795fa27ac63fbcd4eee46c4ff00d2c296d
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205750"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467522"
 ---
-# <a name="purchase-the-azure-plan"></a>Azure プランを購入する
+# <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>顧客向けの Azure プランを購入して、従量課金制料金で最新の Azure サービスにアクセスする
 
 **適切なロール**
--    グローバル管理者
--    ユーザー管理者
--    販売代理店
+- グローバル管理者
+- ユーザー管理者
+- 販売代理店
 
 Microsoft 顧客契約に基づいて顧客向けの Azure プランを購入すると、従量課金制の料金で提供される最新の Azure サービスの完全なカタログへのアクセス権が与えられます。 CSP パートナーは、Azure サービスが一般提供されたときに、そのサービスにアクセスできるようになりました。 パートナーは、1 つの Azure プランで複数の Azure サブスクリプションを持つことができます。 
 
@@ -35,18 +36,22 @@ Azure プランの購入方法は、他のサブスクリプションの購入�
 1. **[Segment Commercial]\(セグメント: 商用\)** を選択し、種類として **[Microsoft Azure]** を選択します。 
 2. [Azure プラン] で、 **[カートに追加]** を選択します。
 
-![購入](images/azure/Azurepurchase1.png)
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="購入":::
 
 パートナーは、顧客が Microsoft 顧客契約の条項を確認し、同意していることを確認する必要があります。 パートナーがこれを行う方法の詳細については、「[Microsoft 顧客契約に対する顧客の同意を確認する](https://docs.microsoft.com/partner-center/confirm-customer-agreement)」を参照してください。 その他のリソースは、[リソース ギャラリー](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)から入手できます。
 
-**確認するには、次のいずれかを行います**
+**確認するには、次のいずれかを行います**。 
+
 1. デジタル的に確認します。
+
 2. Microsoft との直接的な Microsoft 顧客契約に署名するように顧客を招待します。 
 
 ### <a name="to-confirm"></a>確認するには 
 
 1. 顧客の **[アカウント]** ページで、 **[Microsoft 顧客契約]** の横にある **[更新]** を選択します。  
+
 2. 顧客の会社の MCuA に同意した個人に関する情報を入力します。
+
 3. **[保存して続行]** を選択します。  
 
 ## <a name="review-and-buy"></a>確認して購入する
@@ -63,9 +68,10 @@ Azure プランの購入方法は、他のサブスクリプションの購入�
 1. お使いの[ダッシュボード](https://partner.microsoft.com/dashboard/)の [パートナー センター] メニューから、 **[顧客]** を選択します。 Azure Reservations を購入する顧客を見つけ、下向き矢印を選択して顧客の行を展開します。
 
 2. **[製品の追加]** を選択し、 **[Azure]** を選択します。 
-- **[セグメント]** の一覧から、顧客の市場セグメントを選択します。 
-- **[製品の種類]** の一覧から、 **[Reservations]** を選択します。 
-- 顧客が希望する予約の種類を **[予約の種類]** の一覧から選択します。 
+
+   - **[セグメント]** の一覧から、顧客の市場セグメントを選択します。
+   - **[製品の種類]** の一覧から、 **[Reservations]** を選択します。
+   - 顧客が希望する予約の種類を **[予約の種類]** の一覧から選択します。
 
 Azure Reservations をアクティブな Azure プランに関連付ける必要があります。 Azure Reservations を追加する Azure プランを、[顧客サブスクリプション] の一覧から選択します。 
 
@@ -74,7 +80,7 @@ Azure Reservations をアクティブな Azure プランに関連付ける必要
 
 現時点では、予約のスコープに設定できるのは **[共有]** のみであることに注意してください。 
 
-![共有スコープの予約設定](images/azure/addprods1.png)
+:::image type="content" source="images/azure/addprods1.png" alt-text="共有スコープの予約設定":::
 
 Azure portal で顧客の予約を管理するには: 
 
@@ -82,11 +88,11 @@ Azure portal で顧客の予約を管理するには:
 
 2. 下向き矢印を使用して顧客の行を展開し、 **[Microsoft Azure の管理ポータル]** を選択します。  
  
-## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Azure プランの Azure サブスクリプションを表示する 
+## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Azure プランの Azure サブスクリプションを表示する
 
 **[サブスクリプション]** ページの [使用量ベース] セクションで、 **[Azure プラン]** を展開して、Azure プランに関連付けられている Azure サブスクリプションを確認します。
 
-![Azure サブスクリプションの一覧を確認する](images/azure/addprods2.png) 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Azure サブスクリプションの一覧を確認する"::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>サブスクリプションを追加し、リソースを構成する
@@ -95,41 +101,8 @@ Azure portal で、顧客向けのサブスクリプションを追加し、リ�
 
 顧客のリソースとサブスクリプションを管理するには、**代理管理** (AOBO) 特権が必要です。 アクセスを管理する方法の詳細については、「[Azure プランでサブスクリプションとリソースを管理する](azure-plan-manage.md)」を参照してください。
 
-次の手順に関する情報
+## <a name="next-steps"></a>次の手順
 
 - [Azure プランへの顧客の移行](azure-plan-transition.md)
 
 - [パートナー獲得クレジット - 概要](partner-earned-credit.md)
-
-
-
-
-
-
-
-            
-
-
-
-
-    
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    

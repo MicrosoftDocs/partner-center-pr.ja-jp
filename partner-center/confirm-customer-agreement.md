@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae3605f0cb352b6efb18c7e53d9842d35c7e00c3
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908161"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453269"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP パートナー プログラムで Microsoft 顧客契約への顧客の同意を確認する
 
@@ -33,7 +33,6 @@ ms.locfileid: "82908161"
 
 - 間接リセラー、直接請求、間接プロバイダー
 
-
 2019 年 10 月 1 日に、Microsoft Cloud 契約に置き換わるものとして、CPS プログラムに **Microsoft 顧客契約**が導入されました。 間接リセラー向けの追加の[ガイダンス](indirect-reseller-tasks-in-partner-center.md)をご覧ください。 新しい契約へのパートナーの移行を促進するために、2020 年 1 月 31 までは両方の契約が CSP プログラムで共存していました。 2020 年 2 月 1 日に、Microsoft Cloud 契約は Microsoft 顧客契約に置き換わりました。
 
 顧客が Microsoft 顧客契約に同意するには、次の 2 つのオプションがあります。 
@@ -44,7 +43,7 @@ ms.locfileid: "82908161"
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Microsoft 顧客契約テンプレートへのアクセス
 
-最新バージョンの Microsoft 顧客契約テンプレートは、[こちら](https://aka.ms/customeragreement)から手動でダウンロードできます。 Microsoft 顧客契約は国によって異なります。 Microsoft 顧客契約テンプレートを要求するときは、顧客の所在地に応じて正しい国を選択してください。 
+最新バージョンの Microsoft 顧客契約テンプレートは、[こちら](https://aka.ms/customeragreement)から手動でダウンロードできます。 Microsoft 顧客契約は国によって異なります。 Microsoft 顧客契約テンプレートを要求するときは、顧客の所在地に応じて正しい国を選択してください。
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>オプション 1:パートナー センターを使用してお客様の同意を確認する
 
@@ -58,7 +57,7 @@ ms.locfileid: "82908161"
 
 2. **[アカウント情報]** で、会社と主要連絡先の情報を入力します。
 
-3. **[Microsoft agreement]\(Microsoft 契約\)** で、ボックスをオンにして、顧客が Microsoft 顧客契約に同意していることを証明します。 
+3. **[Microsoft agreement]\(Microsoft 契約\)** で、ボックスをオンにして、顧客が Microsoft 顧客契約に同意していることを証明します。
 
 4. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
 
@@ -66,7 +65,7 @@ ms.locfileid: "82908161"
 
 6. **[次へ]** を選択して、顧客のテナントの作成を続行します。
 
-![新しい顧客](images/mca/newcustomeragreement.jpg)  
+   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="新しい顧客":::  
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>既存のお客様について、お客様の同意を確認する
 
@@ -82,7 +81,7 @@ ms.locfileid: "82908161"
 
 5. **[保存]** を選択して続行します。
 
-![既存の顧客](images/mcua2-update2.png)
+   :::image type="content" source="images/mcua2-update2.png" alt-text="既存の顧客":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>お客様の同意の確認を取得する
 
@@ -102,10 +101,9 @@ ms.locfileid: "82908161"
 
 - [Microsoft 顧客契約へのお客様の同意を確認する](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [Microsoft 顧客契約に関するお客様の同意の確認を取得する ](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- [Microsoft 顧客契約に関する顧客の同意の確認を取得する ](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
 
 - [Microsoft 顧客契約テンプレートのダウンロード リンクを取得する](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
-
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>オプション 2:Microsoft 365 管理センターでの顧客の同意
 
@@ -132,7 +130,7 @@ ms.locfileid: "82908161"
 
 4. **[次へ: 確認]** を選択し、顧客のテナントを作成する手順を続行します。 (注:新規の顧客は、Microsoft 顧客契約に同意するまで新しい購入を行うことはできません。)  
 
-![新規の顧客を作成する](images/mca/create-new-customer.jpg)
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="新規の顧客を作成する":::
 
 5. 新規顧客のワークフローで **[確認]** 画面が表示されたら、顧客の資格情報を保存します。 これらの資格情報は、後で顧客に提供する必要があります。
 
@@ -160,7 +158,7 @@ ms.locfileid: "82908161"
 
 4. このメール テンプレートを使用して、 **[reseller relationship]\(リセラー関係\)** の要求と **[Microsoft 顧客契約]** に同意するよう顧客に要請します。 (注:パートナーは、この要請メールに、自動的に作成された URL と、先ほど作成された顧客の資格情報も含めてください。)
 
-![関係を作成する](images/mca/createrelationship.png)
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="関係を作成する":::
 
 5. 顧客がメールで要請を受け取り、パラメーター化された URL をクリックします。 
 
@@ -170,10 +168,10 @@ ms.locfileid: "82908161"
 
 8. 同じ URL 内で、顧客は、協力関係にあるさまざまなパートナーの一覧を統合して表示できます。 パートナーを選択すると、詳細を表示できます。
 
-![契約に同意する](images/mca/accept.jpg)
+   :::image type="content" source="images/mca/accept.jpg" alt-text="契約に同意する":::
 
 
-## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>契約を確認して同意するよう既存の顧客に要請する 
+## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>契約を確認して同意するよう既存の顧客に要請する
 
 Microsoft 顧客契約を確認して同意するよう既存の顧客に要請するには、次の手順を使用します。 
 
@@ -187,7 +185,7 @@ Microsoft 顧客契約を確認して同意するよう既存の顧客に要請�
 
 5. 同じ URL 内で、顧客は、協力関係にあるさまざまなパートナーの一覧を統合して表示できます。 パートナーを選択すると、詳細を表示できます。
 
-![顧客](images/mca/customeraccept.png)
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="顧客":::
 
 >[!NOTE]
 >特定のシナリオでは、Microsoft 顧客契約に顧客が直接同意できない場合があります。 そのようなシナリオについて詳しくは、「[顧客の代わりに証明する必要がある 2 つのシナリオ](attest-acceptance-customer-agreement.md)」をご覧ください。

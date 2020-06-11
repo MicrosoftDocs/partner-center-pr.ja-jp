@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: ライセンスの割り当て, ライセンスの失効, 複数ユーザーへの割り当て,
 ms.localizationpriority: medium
-ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798570"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679099"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>複数のユーザーへのライセンスの割り当てまたは取り消し
 
@@ -76,7 +76,8 @@ ms.locfileid: "82798570"
 
 8. **[保存]** を選択します。 パートナー センターで **[更新されたライセンス]** 確認ページが開き、ユーザーとその新しいライセンスが一覧表示されます。
 
-**Note**  一部の Microsoft 製品は特定の場所で利用できない場合があることに注意してください。 また、他の製品やサービスに依存する製品や、同じユーザーに一緒に割り当てることができない製品もあります。 保存すると、確認ページに、成功したライセンス割り当てに関するすべてのユーザーの結果と、ライセンス割り当てのエラーの一覧が表示されます。
+>[!NOTE]
+>一部の Microsoft 製品は、特定の場所では利用できない場合があります。 また、他の製品やサービスに依存する製品や、同じユーザーに一緒に割り当てることができない製品もあります。 保存すると、確認ページに、成功したライセンス割り当てに関するすべてのユーザーの結果と、ライセンス割り当てのエラーの一覧が表示されます。
 
 
 <a href="" id="revoking-licenses"></a>
@@ -98,6 +99,6 @@ ms.locfileid: "82798570"
 
 7. **[保存]** を選択します。
 
-## <a name="related-topics"></a>関連トピック
+## <a name="next-steps"></a>次のステップ
 
 [ユーザーにライセンスを割り当てる](assign-licenses-to-users.md)

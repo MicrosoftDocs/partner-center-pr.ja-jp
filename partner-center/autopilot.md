@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, ゼロタッチ展開, OOBE, ログイン画面, out-of-box
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a3067b674b7784df34fba3de9cfaa5b44349b8c4
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908381"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679189"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>新しいデバイスで Windows の自動操縦プロファイルを使用して、顧客の既定のエクスペリエンスをカスタマイズする
 
@@ -175,7 +175,8 @@ OEM 名、シリアル番号、モデルの組み合わせを使う場合は、�
 
 > **{,,,} Microsoft Corporation、Surface ノート Pc**
 
-"製造元の名前" と "デバイスモデル" では大文字と小文字が区別されることに注意してください。
+>[!NOTE]
+> "製造元名" と "デバイスモデル" は大文字と小文字が区別されます。
 
 製造元名とデバイスモデルに対してどのような値を設定するかわからない場合は、デバイスでこれを実行して、正しい値を収集できます。
 

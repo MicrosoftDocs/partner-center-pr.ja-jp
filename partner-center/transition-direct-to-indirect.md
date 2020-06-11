@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接請求, 移行, 間接リセラー
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458408"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679449"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行
 
@@ -28,7 +28,7 @@ ms.locfileid: "84458408"
 
 パートナーは、既存の直接請求テナントを使用して間接リセラー プログラムに登録できます。
 
-## <a name="get-started"></a>作業開始
+## <a name="get-started"></a>開始
 
 1. パートナー センターのパートナー プロファイルと MPN ID が最新の状態であることを確認します。
 
@@ -225,13 +225,11 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 ### <a name="pre-requisites"></a>前提条件
 
-この機能を使用する前に、次の点に注意してください。
-
 - この機能は、既存の直接請求パートナーテナントを使用して間接リセラーの登録を完了したパートナーを移行する場合にのみ使用できます。
 
 - 特定の顧客に関連付けられているサブスクリプションを転送する前に、移行パートナーは顧客を間接プロバイダーに移動する必要があります。
 
-- お客様は[間接プロバイダーを通じて Microsoft カスタマーアグリーメントに同意](#microsoft-customer-agreement-acceptance)しました。
+- お客様は[、間接プロバイダーを通じて Microsoft カスタマー契約に同意](#microsoft-customer-agreement-acceptance)している必要があります。
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>間接リセラーの状態に移行する方法
 
@@ -322,7 +320,7 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 移行中のパートナーは、次の操作を行う必要があります。
 
-1. **管理エージェント**または**営業担当**者としてパートナーセンターにログインします。
+1. **管理エージェント**または**営業担当**者としてパートナーセンターにサインインします。
 
 2. [ **Customers** ] ページで目的の顧客を選択し、[**クイックリンク**] アイコンをクリックして顧客の概要ビューを展開します。
 

@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: ヘルプ エージェント, サポート, サポート連絡先の指定, 指定のサポート連絡先
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 39e0a4390d37ba9cc39b872f059b818faad28051
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907474"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678999"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>リセラーをカスタマーのテクニカルサポートの連絡先として割り当てる
 
@@ -47,14 +47,12 @@ ms.locfileid: "82907474"
 
 3.  **[指定のサポート連絡先]** で、指定する製品リセラーを選び、**[送信]** をクリックします。 
 
-    メモ: 
-    
-    *  サブスクリプションを新しく作成した時点では、指定のサポート連絡先は、既定で間接プロバイダーに設定されています。 これを、代理管理者特権を持つ間接リセラーに変更することもできます。
-    
-    *  リセラーの名前が利用可能なサポート連絡先の一覧に表示されない場合は、[関係を要求](request-a-relationship-with-a-customer.md)してそれらのリセラーを追加します。 関係が確立されると、それらのリセラーが一覧に表示されます。  
+   >[!NOTE]  
+ >サブスクリプションを新しく作成した時点では、指定のサポート連絡先は、既定で間接プロバイダーに設定されています。 これは、管理者特権を委任された間接リセラーに変更することもできます。    
+>販売店の名前が利用可能なサポートの連絡先の一覧に表示されない場合は、[リレーションシップを要求](request-a-relationship-with-a-customer.md)して、に追加します。 関係が確立されると、それらのリセラーが一覧に表示されます。  
 
 4.  変更内容が正しいことを確認した後、**[閉じる]** を選びます。
 
-## <a name="related-topics"></a>関連トピック
+## <a name="next-steps"></a>次の手順
 
 [顧客との関係の削除](remove-a-relationship.md)

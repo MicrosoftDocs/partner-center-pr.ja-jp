@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 590ec680a1fdc80177a955417942b340b94eb96b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458398"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679399"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>新しいパートナーセンターの機能を体験し、パートナーセンターの未来の形を整える
 
@@ -26,7 +26,7 @@ ms.locfileid: "84458398"
 
 パートナーセンターに新しい機能を継続的にリリースしています。フィードバックをお寄せください。 
 
-世界中のパートナー センター コミュニティにリリースされる前に、ぜひ新機能をお試しいただき、新機能に関するご意見をお聞かせください。 ビジネスの発展に利用する方法を計画できるように、今後予定されている機能については、[パートナー センターのお知らせページ](announcements/index.md)を確認してください。 新機能をテストする際は、複数の機能がテスト用に提供されている場合があるためご注意ください。
+世界中のパートナー センター コミュニティにリリースされる前に、ぜひ新機能をお試しいただき、新機能に関するご意見をお聞かせください。 ビジネスの発展に利用する方法を計画できるように、今後予定されている機能については、[パートナー センターのお知らせページ](announcements/index.md)を確認してください。 特定の時点でのドライブのテストに使用できる機能がいくつかあります。
 
 ### <a name="test-drive-a-feature"></a>機能を体験する
 
@@ -58,4 +58,4 @@ ms.locfileid: "84458398"
 - 機能のプレビューに関する問題が発生した場合は、サポートを要求します。 サポート要求を作成するには、**パートナー センター** メニューで **[Support requests]\(サポート要求\) > [Partner Center requests]\(パートナー センターの要求\)** の順に選び、**[Partner Center requests]\(パートナー センターの要求\)** ページで **[新しい要求]** を選びます。
 
 
--- パートナー センター チーム
+

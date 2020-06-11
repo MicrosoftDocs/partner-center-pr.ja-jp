@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接請求、制限
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 41db00bab2f421ca3ab0a8f828e8a72b26087ebd
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467232"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679419"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>制限付きの直接請求機能と、CSP direct bill パートナーに必要な要件  
 
@@ -58,7 +58,10 @@ CSP プログラムで[azure パートナー共有サービスプラン](shared-
 
 - 既存の接続クライアント数に基づくサブスクリプションの接続クライアント数の調整
 
-- サブスクリプションに対する既存のアドオンのシート数を調整します。 注: 新しいアドオンは新規購入として扱われるため、既存のサブスクリプションに追加することはできません。
+- サブスクリプションに対する既存のアドオンのシート数を調整します。 
+ 
+    >[!Note] 
+    >新しいアドオンは新規購入として扱われるため、既存のサブスクリプションに追加することはできません。
 
 - 新しい Azure リソースのデプロイと、既存の Azure リソースの管理は、既存の Azure サブスクリプションの下で行います。 これには、Azure marketplace と Visual Studio サブスクリプションで利用可能なリソースが含まれます。
 
@@ -68,7 +71,7 @@ CSP プログラムで[azure パートナー共有サービスプラン](shared-
 
 - 直接再販業者の関係を要求している顧客への招待を生成することはできません。 パートナーセンターの [**顧客**] ページにある [**再販業者の関係を要求する**] オプションは使用できません。
 
-    >[!Note]
+    >[!NOTE]
     >直接請求パートナーから間接リセラーへの移行の一環として、直接請求パートナーテナントを間接リセラーとして既に登録している場合は、代わりに間接再販業者の関係を要求する顧客への招待を生成できます。
 
 - 新しいサンドボックステナントを作成することはできません。 各直接請求パートナー テナントでは、直接請求 API の統合のために 1 つのサンドボックス テナントを作成できます。 以前に作成したことがない場合は、direct 請求パートナーの機能が制限された後に、この操作を行うことはできません。  

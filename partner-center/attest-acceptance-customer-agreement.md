@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート, 同意の証明
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb18d5f095e633fcbfeb3dc9f3d962664066765f
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908400"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452719"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>顧客に代わって Microsoft 顧客契約の同意を証明する
 
@@ -46,7 +46,7 @@ ms.locfileid: "82908400"
 
 **解決策**:パートナーが顧客に代わって証明する必要があります。
 
-![顧客](images/mca/accept-scenario-1.png)
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="顧客":::
 
 **シナリオ 2**:既存の顧客が、次のうちいずれかを購入したことがある: プラン、ソフトウェアまたはソフトウェア サブスクリプション、予約インスタンス、Azure プラン。 顧客が新しいパートナーを通じて新たな購入を行おうとしている。
 
@@ -54,4 +54,4 @@ ms.locfileid: "82908400"
 
 **解決策**:パートナーが顧客に代わって証明する必要があります。  
 
-![顧客](images/mca/accept-scenario-2.png)
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="顧客":::

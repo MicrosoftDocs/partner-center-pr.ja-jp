@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65362d9f71882d9edff34039f7fc985a202c4aa0
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 6ea0b7d781cebb963ad802cb73c7d956729dcb2e
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908339"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452629"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure プランのサブスクリプションとリソースを管理する
 
@@ -57,11 +57,11 @@ ms.locfileid: "82908339"
 
 1. アラートを作成します。
 
-![Azure アラート](images/azure/azurealert1.png)
+:::image type="content" source="images/azure/azurealert1.png" alt-text="Azure アラート":::
 
 2. アラートを受け取るアクションの種類を選択します。たとえば、メールを送信するように指定すると、ロールの割り当ての削除が発生した場合に通知するメールが送信されます。
 
-![アラートを構成する](images/azure/azureconfigurealert2.png)
+:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="アラートを構成する":::
 
 ### <a name="aobo-removal"></a>AOBO の削除
 

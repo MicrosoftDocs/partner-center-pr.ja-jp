@@ -1,22 +1,23 @@
 ---
-title: 紹介の分析情報を取得する | パートナー センター
+title: 紹介の分析情報を取得する
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 紹介の分析情報データを定期的に確認し、注意が必要な傾向や分野を特定し、ビジネス目標に向けて取り組むことができます。
-author: JnHs
-ms.author: jenhayes
+description: パートナー センターで紹介の分析情報データを定期的に確認し、対処すべき傾向や改善できる部分を特定することで、ビジネス目標を達成できます。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 紹介、分析、解析、メトリック、変換
 ms.localizationpriority: high
-ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "73654128"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467452"
 ---
-# <a name="get-referral-insights"></a>紹介の分析情報を取得する
+# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>パートナーセンターで紹介の分析情報を取得し、紹介の効果を確認する
 
 **適用対象**
 
@@ -54,7 +55,7 @@ ms.locfileid: "73654128"
 
 このグラフでは、紹介件数が最も多いソリューションと、最も高い取引額を確認できます。
 
-円グラフには、成約した紹介について、上位のソリューションの合計ビューが取引額別に表示されます。 選択した期間内に達成された業績について上位 4 つ のソリューションの詳細が表示されます。 これらの各ソリューションについて、成約した取引件数の合計、平均取引規模 (米国ドル)、合計取引額 (米国ドル)、およびコンバージョン率 (成約した取引の割合を示します) を確認できます。
+円グラフには、成約した紹介について、上位のソリューションの合計ビューが取引額別に表示されます。 選択した期間内に達成された業績について上位 4 つのソリューションの詳細が表示されます。 これらの各ソリューションについて、成約した取引件数の合計、平均取引規模 (米国ドル)、合計取引額 (米国ドル)、およびコンバージョン率 (成約した取引の割合を示します) を確認できます。
 
 ## <a name="solution-performance-breakdown"></a>ソリューションのパフォーマンスの内訳
 

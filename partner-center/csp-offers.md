@@ -1,7 +1,7 @@
 ---
 title: CSP プログラムのパートナー プラン
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムのパートナーが顧客に販売できる、Microsoft クラウド サービスおよびプランの拡充されるカタログについて説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, 製品の追加, パートナー プラン, CSP プラン, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナー, CSP での販売, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, オンライン サービス, サブスクリプション ソフトウェア, AHUB, SQL Server on Azure, Windows Server on Azure, 顧客のサブスクリプション
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362330"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467242"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムのパートナー プランの概要
 
@@ -106,6 +106,10 @@ CSP の顧客に代わって製品およびサービスを購入するには、�
 7. **[ご注文の確認]** ページで、製品と数量を確認または変更し、 **[購入]** を選択して注文内容を購入します。
 
 8. 注文番号を含む注文の詳細は、次のページに表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。
+
+## <a name="rules-for-special-segments"></a>特別なセグメントの規則
+
+一部のライセンスベースのプランは、特定の条件下でのみ購入できます。 特別なセグメントのプランには、教育機関、非営利団体、Government Community Cloud (GCC) などがあります。 これらの購入条件の詳細については、[特別なセグメントの購入規則に関するトピック](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)をご覧ください。
 
 ## <a name="next-steps"></a>次の手順
 

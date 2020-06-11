@@ -1,22 +1,20 @@
 ---
 title: 顧客を現在の Azure プランから Azure プランに移行する
 ms.topic: article
-ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP パートナーが、パートナー センターを使用して顧客を既存の CSP Azure プランから、Azure プランで管理される Azure サービスに移行する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c28b852935dbce88d9f64c86b7c87fcbdc05cc
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/04/2020
+ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908332"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452589"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>顧客を既存の CSP Azure プランから Azure プランに移行する
 
@@ -43,45 +41,45 @@ ms.locfileid: "82908332"
 
 2. **[請求を Azure プランに移行する]** を選択します。
 
-![移行](images/azure/transition1.png)
+   :::image type="content" source="images/azure/transition1.png" alt-text="移行":::
 
 3. **[続行]** を選択します。
 
-![移行](images/azure/transition2.png)
+   :::image type="content" source="images/azure/transition2.png" alt-text="移行":::
 
-顧客は、Azure プランに移行されます。
+   顧客は、Azure プランに移行されます。
 
-**移行ワークフローによって、前提条件となる手順が自動化されます**。
+   **移行ワークフローによって、前提条件となる手順が自動化されます**。
 
-- Azure プランの購入
-- ダイレクト CSP での顧客ごとに 1 つのプラン シナリオ  
-- リセラーごとに 1 つのプラン  
+   - Azure プランの購入
+   - ダイレクト CSP での顧客ごとに 1 つのプラン シナリオ  
+   - リセラーごとに 1 つのプラン  
 
-例として、パートナーが 2つの Microsoft Azure プランを購入し、その購入の中に 2 つの異なる POR が含まれているとします。 この場合、移行ワークフローでは、2 つの Azure プラン (リセラーごとに 1 つ) が購入され、各 Azure サブスクリプションが Azure プランに自動的にマップされます。  
+   例として、パートナーが 2 つの Microsoft Azure プランを購入し、その購入の中に 2 つの異なる POR が含まれているとします。 この場合、移行ワークフローでは、2 つの Azure プラン (リセラーごとに 1 つ) が購入され、各 Azure サブスクリプションが Azure プランに自動的にマップされます。  
 
-**Azure サブスクリプションの Azure プランへのマッピング**
+   **Azure サブスクリプションの Azure プランへのマッピング**
 
-Azure プランを購入すると、システムによって既存の Azure サブスクリプションが Azure プランにマップされます。 進行状況は、パートナー センターだけでなく Azure portal でも確認できます。 
+   Azure プランを購入すると、システムによって既存の Azure サブスクリプションが Azure プランにマップされます。 進行状況は、パートナー センターだけでなく Azure portal でも確認できます。
 
-4. 顧客のパートナー センターの **[サブスクリプション]** ページに戻り、顧客の現地通貨を使用して予算制限を更新します。 
+4. 顧客のパートナー センターの **[サブスクリプション]** ページに戻り、顧客の現地通貨を使用して予算制限を更新します。
 
-![移行](images/azure/transition3.png)
+   :::image type="content" source="images/azure/transition3.png" alt-text="移行":::
 
->[!NOTE]
->パートナー センターで設定した予算は、Azure portal には引き継がれません。 Azure portal で、予算とアラートも設定する必要があります。
+   >[!NOTE]
+   >パートナー センターで設定した予算は、Azure portal には引き継がれません。 Azure portal で、予算とアラートも設定する必要があります。
 
-Azure プランに移行すると、この顧客用の Azure サブスクリプションを購入することはできなくなります。 サブスクリプションは、Azure portal で Azure プランの中に作成します。
+   Azure プランに移行すると、この顧客用の Azure サブスクリプションを購入することはできなくなります。 サブスクリプションは、Azure portal で Azure プランの中に作成します。
 
->[!NOTE]
-> Azure プランで RBAC を通して購入されたすべての Azure サブスクリプションに対し、現地通貨で請求および課金されます。 為替レートは使用されません。
+   >[!NOTE]
+   > Azure プランで RBAC を通して購入されたすべての Azure サブスクリプションに対し、現地通貨で請求および課金されます。 為替レートは使用されません。
 
 ### <a name="track-your-transition-details"></a>移行の詳細を追跡する
 
 パートナー センターだけでなく、Azure portal でも移行の進行状況を確認してください。
 
-![詳細の表示](images/azure/details1.png)
+:::image type="content" source="images/azure/details1.png" alt-text="詳細を表示":::
 
-**パートナーに対する請求の影響**
+### <a name="billing-impact-to-partners"></a>パートナーに対する請求の影響
 
 既存の CSP Azure プランから顧客を移行する場合、次のような請求の影響が発生します。
 
@@ -91,19 +89,21 @@ Azure プランに移行すると、この顧客用の Azure サブスクリプ�
 
 ダイレクト エンタープライズ契約を CSP に移行し、サーバーとクラウドの登録を Azure サービスに移行するには、[Microsoft パートナー契約での Azure サブスクリプションの課金所有権の取得](https://docs.microsoft.com/azure/billing/mpa-request-ownership)に関する記事を参照してください。
 
-**監査ログ**:
+### <a name="audit-log"></a>監査ログ
 
-請求を調整するには、 **[サブスクリプション]** ページで "Microsoft Azure" (0145P) サブスクリプションの履歴を表示します。 
+請求を調整するには、 **[サブスクリプション]** ページで "Microsoft Azure" (0145P) サブスクリプションの履歴を表示します。
 
 "Microsoft Azure" (0145P) サブスクリプションは、次の 2 つの部分で構成されます。
-1. コマース サブスクリプション 
+
+1. コマース サブスクリプション
 2. Azure サブスクリプション (権利)
 
 移行が完了すると、Azure サブスクリプションは新しい Azure プランの下に移動され、コマース サブスクリプションはこれ以上の使用が報告されないように停止されます。  
 
->[注]\:CSP で Microsoft Azure (0145P) サブスクリプションを 購入した場合、コマース サブスクリプションと Azure サブスクリプション (権利) の価格は同じになります。 これは、課金所有権の変更または譲渡で価格が異なる場合にのみ発生します。 
+>[!Note]
+>CSP で Microsoft Azure (0145P) サブスクリプションを 購入した場合、コマース サブスクリプションと Azure サブスクリプション (権利) の価格は同じになります。 これは、課金所有権の変更または譲渡で価格が異なる場合にのみ発生します。
 
-**移行に関する問題**
+### <a name="transition-issues"></a>移行に関する問題
 
 移行中に問題が発生することは想定されていません。 発生した場合は、移行ワークフロー自体の中で更新が実行されます。 Azure の使用に障害が発生することはありません。  
 
@@ -112,6 +112,3 @@ Azure プランに移行すると、この顧客用の Azure サブスクリプ�
 - [Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)
 
 - [パートナー獲得クレジット - 概要](partner-earned-credit.md)
-
-
-
