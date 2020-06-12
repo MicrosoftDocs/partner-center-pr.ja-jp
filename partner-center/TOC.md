@@ -60,6 +60,7 @@
 ## [パートナー センターでのアカウント構造](account-structure.md)
 ## [ドメインの所有者の確認](become-global-admin.md)
 ## [アカウント情報の確認](verification-responses.md)
+## [パートナー アカウントを別のパートナー アカウントにマージする](merge-accounts.md)
 ## [パートナー プロファイルの更新](update-your-partner-profile.md)
 ## [場所](manage-locations.md)
 ## [コントロール パネル ベンダーとして登録する](enroll-as-cpv.md)
@@ -81,7 +82,8 @@
 ## [カタログのカスタマイズ](customize-the-catalog.md)
 
 # [ビジネスの拡大](grow-your-business.md)
-## [紹介](referrals.md)
+## [紹介の概要](referrals.md)
+### [紹介案件への対応](responding-to-referrals.md)
 ### [ビジネス プロファイルの管理](create-a-marketing-profile.md)
 ### [見込み客を管理する](manage-leads.md)
 ### [共同販売の機会を管理する](manage-co-sell-opportunities.md)
@@ -175,6 +177,7 @@
 ### [Office 365 Enterprise E4 サブスクリプションの Office 365 の新しいバージョンへの移行](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Skype for Business Online プラン 1 の新しい Office 365 バージョンへの移行](skype-retiring.md)
 ### [Azure サブスクリプションの譲渡](switch-azure-subscriptions-to-a-different-partner.md)
+### [Kaizala Pro サブスクリプションを Microsoft 365 に移行する](migrate-kaizala-pro-partner.md)
 
 # パートナー センターのデータと分析
 ## [ビジネス データの取得と分析](data-analysis-lp.md)
