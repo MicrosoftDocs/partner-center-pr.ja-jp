@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: 課金、使用量ベース、使用量
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e3b7c3d9e31203ff56c191957b60772e04feec9
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: b2710cc31d4c8e494b45ca19aa102322dbb81781
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603871"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749079"
 ---
 # <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>月額、従量課金制のサービスの使用量ベースの課金について
 

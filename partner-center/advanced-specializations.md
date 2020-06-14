@@ -1,23 +1,23 @@
 ---
 title: 高度な特殊化を獲得
 ms.topic: article
-ms.date: 05/22/2020
+ms.date: 06/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 高度な特殊化は、パートナーディレクトリのビジネスプロファイルを強化します。 Gold コンピテンシー上で高度な特殊化を獲得する方法について説明します。
+description: パートナーディレクトリのビジネスプロファイルを強化します。 Gold/シルバーコンピテンシーと共に高度な特殊化を獲得する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
-keywords: コンピテンシー、ゴールドメンバーシップ、mpn、地図、技能、Microsoft Partner Network、ネットワークメンバーシップ、高度な特殊化
+keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ, 高度な専門性
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1dbff3f7f802a0f89f6cdfd78da2abf719523a9
-ms.sourcegitcommit: 97f1ff7386562cbb945bdfbcf15c85bc8303cac2
+ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "83825623"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749159"
 ---
-# <a name="how-advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>高度な特殊化によってビジネスプロファイルが顧客にとってどのように役立つか
+# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>高度な特殊化は、ビジネスプロファイルを顧客に提供するのに役立ちます。
 
 高度な特殊化により、Gold コンピテンシーを超えています。 高度な特殊化は、製品、ソリューション、またはサービスにおける実証済みの検証可能な専門家を紹介するのに役立ちます。 パートナーディレクトリでは、お客様のビジネスプロファイルの Gold コンピテンシーと高度な特殊化の両方を確認できます。 高度な特殊化タグを受け取るには、発行された条件のセットを満たしていて、Microsoft によって検証される必要があります。 [詳しくはこちらをご覧ください](https://partner.microsoft.com/membership/advanced-specialization)。
 
@@ -41,3 +41,6 @@ ms.locfileid: "83825623"
 
 - **Microsoft Azure での Web アプリケーションの**最新化アプリケーション開発において顧客の成功を確認し、コンテンツ管理システムについて理解しておく必要があります。 Web アプリケーションのワークロードの移行とデプロイ、DevOps プラクティスの適用、および Microsoft Azure でのアプリケーション サービスの管理に関する専門知識を証明します。
 
+ ## <a name="next-steps"></a>次の手順
+
+ [Gold およびシルバーのメンバーシップに関する Microsoft コンピテンシーの要件](learn-about-competencies.md)について説明します

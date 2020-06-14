@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 214eedf60d89172b7c003acf927853ff04d7fd72
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 83545002fbc0138e4020473a9554d9127e7771b4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603861"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749207"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>パートナーセンターで使用量に基づく調整ファイルとその特定のフィールドについて理解する
 
@@ -28,7 +28,7 @@ ms.locfileid: "84603861"
 
 次のフィールドで、どのサービスが使用されるか、およびレートについて説明します。
 
-| Column | 説明 | サンプル値 |
+| 列 | 説明 | サンプル値 |
 | ------ | ----------- | ------------ |
 | PartnerId | GUID 形式のパートナー識別子。 | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | パートナー名。 | *Contoso, Ltd.* |

@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e5fc08500cfe78f8e814ed361062c209b0f76ef
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 84bed4fac8984b3fc8757b8185da514c5d8212d6
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998418"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749198"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>パートナーセンターでの1回限りの定期的な調整ファイル
 
@@ -34,7 +34,7 @@ ms.locfileid: "83998418"
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>1回限りの定期的な調整ファイルのフィールド
 
-| Column | 説明 |
+| 列 | 説明 |
 | ------ | ----------- |
 | PartnerId | 特定の請求エンティティの一意の Azure Active Directory (Azure AD) テナント識別子 (GUID 形式)。 調整には必要ありません。 すべての行で同じです。 |
 | CustomerId | 一意の Azure AD テナント識別子 (GUID 形式)。 顧客を指定します。 |
