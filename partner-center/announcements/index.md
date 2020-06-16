@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: e242a42c87c0d2f6679380e17cbf18898d212e51
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254333"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749086"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
 パートナー センターの重要な更新についての詳細をご確認ください。 この情報は頻繁に更新されるので、定期的にチェックしてみてください。
 
-| **カテゴリ** | **2020 年 5 月のお知らせ** | **発表** |
-|---------|---------|:---------|
+| **カテゴリ** | **2020 年 6 月のお知らせ** | **発表** |
+|---------|:---------|:---------|
+| 機能 | [請求頻度の既定値が年単位から月単位に変更される](2020-june.md#4) | 6 月 17 日 |
+| 機能 | [CSP の Windows Server ソフトウェア サブスクリプションのメディア更新](2020-june.md#2) | 6 月 12 日 |
+| 製品サービス/市場 | [Microsoft Dynamics 365 および Power Platform の新規および終了となるプランと製品](2020-june.md#1) | 6 月 11 日 |
+| 機能 | [パートナー センターで 2 つ以上の会社アカウントを統合する](https://docs.microsoft.com/partner-center/merge-accounts) | 6 月 9 日 |
+| **カテゴリ** | **2020 年 5 月のお知らせ** | **日付** |
 | 機能 | [Microsoft 365 A3 – Education 向けの無人ライセンス プランの修正](2020-may.md#5) | 5 月 28 日 |
 | 機能 | [アクティブなお客様は、Cloud Solution Provider (CSP) プログラムから Enhancement Plan (EP) を更新し、オンライン ライセンスの受け取りが可能](2020-may.md#4) | 5 月 26 日 |
 | 機能 | [Americas Operations Center の住所変更](2020-may.md#3) | 5 月 15 日 |

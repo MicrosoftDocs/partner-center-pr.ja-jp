@@ -12,39 +12,39 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 05/29/2020
-  ms.openlocfilehash: 5c9bf672eb5647542749c49e74cc39e2ab07c2b5
-  ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+  ms.openlocfilehash: 75176cda1bceb0d90253a97b621c9ff5c5b8cef0
+  ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 06/01/2020
-  ms.locfileid: "84253949"
+  ms.lasthandoff: 06/12/2020
+  ms.locfileid: "84749184"
 highlightedContent:
   items:
   - title: パートナー センターの重要な更新についての詳細情報
     itemType: whats-new
     url: announcements/index.md
-  - title: まだパートナーでない場合は、 Microsoft Partner Network に今すぐ参加できます。
+  - title: Microsoft Partner Network メンバーシップの特典とプランを管理する
     itemType: get-started
-    url: https://partner.microsoft.com/membership
+    url: manage-your-partner-network-benefits.md
   - title: API および SDK 早期導入者プログラムへの参加
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: ISV オファーの販売
+  - title: 詳細な専門分野を取得する
     itemType: whats-new
-    url: csp-commercial-marketplace-overview.md
+    url: advanced-specializations.md
   - title: ISV パートナー様 - オファーを作成してマーケットプレース、AppSource、CSP リセラー チャネルに発行する
     itemType: whats-new
     url: https://docs.microsoft.com/azure/marketplace/
-  - title: Microsoft との連携
+  - title: パートナーのセキュリティ要件に関するよくある質問
     itemType: overview
-    url: mpn-overview.md
+    url: partner-security-requirements-faq.md
   - title: パートナー センターでの新しいコマース エクスペリエンス – Azure プラン
     itemType: whats-new
     url: azure-plan-lp.md
 conceptualContent:
   title: パートナー センターでの操作
   items:
-  - title: アカウントの登録と管理
+  - title: アカウントへのサインインと管理
     links:
     - url: mpn-create-a-partner-center-account.md
       itemType: how-to-guide
@@ -52,9 +52,9 @@ conceptualContent:
     - url: manage-locations.md
       itemType: how-to-guide
       text: 会社の場所を管理する
-    - url: marketplace-rewards.md
+    - url: azure-plan-get-started.md
       itemType: how-to-guide
-      text: マーケットプレースの Rewards を管理する
+      text: Azure プランで従量課金制料金の使用を開始する
     footerLink:
       url: partner-center-account-setup.md
       text: さらに詳しく
@@ -77,12 +77,12 @@ conceptualContent:
     - url: referrals.md
       itemType: how-to-guide
       text: 紹介とビジネス プロファイル
-    - url: promotions.md
+    - url: manage-leads.md
       itemType: how-to-guide
-      text: 販売促進を活用する
-    - url: get-special-pricing-for-offers.md
+      text: 顧客の照会、マーケティング見込み客、セールス見込み客などの見込み客を管理する
+    - url: manage-co-sell-opportunities.md
       itemType: how-to-guide
-      text: 特別価格の対象となる業界への販売
+      text: 共同販売の機会を管理する
     footerLink:
       url: grow-your-business.md
       text: さらに詳しく
@@ -130,6 +130,17 @@ conceptualContent:
       text: さらに詳しく
 additionalContent:
   sections:
+  - title: 主要なタスクとツール
+    items:
+    - title: まだパートナーでない場合は、 Microsoft Partner Network に今すぐ参加できます。
+      summary: Microsoft エコシステムとつながります。
+      url: https://partner.microsoft.com/membership
+    - title: パートナー センターの API/SDK リファレンス
+      summary: パートナー センター SDK を使用して、顧客、サブスクリプション、注文データを管理します。
+      url: https://docs.microsoft.com/partner-center/develop/
+    - title: Marketplace Rewards を管理する
+      summary: Marketplace Rewards では、マーケティング、セールス、テクニカルの特典を含むすべてのプランを対象としたサポートが提供されます。
+      url: marketplace-rewards.md
   - title: Azure ポータルでの作業
     items:
     - title: 課金とコスト管理
@@ -156,14 +167,3 @@ additionalContent:
         url: https://docs.microsoft.com/azure/lighthouse/how-to/publish-managed-services-offers
       - text: もっと見る >
         url: https://docs.microsoft.com/azure/lighthouse/
-  - title: 主要なタスクとツール
-    items:
-    - title: Microsoft Action Pack (MAPS) を取得する
-      summary: Microsoft Action Pack サブスクリプションを含む特典オファーを購入または更新します。
-      url: mpn-get-action-pack.md
-    - title: パートナー センターの API/SDK リファレンス
-      summary: パートナー センター SDK を使用して、顧客、サブスクリプション、注文データを管理します。
-      url: https://docs.microsoft.com/partner-center/develop/
-    - title: 連絡を取り合う
-      summary: CSP Yammer コミュニティにご参加ください。
-      url: https://go.microsoft.com/fwlink/p/?linkid=851605
