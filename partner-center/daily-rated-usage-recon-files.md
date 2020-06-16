@@ -1,19 +1,19 @@
 ---
 title: 毎日評価済みの使用状況調整ファイル
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 06/12/2020
 description: パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3536b1b71dd8378e88ac14726adcca7fa0e08530
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795592"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788806"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
@@ -31,9 +31,12 @@ ms.locfileid: "83795592"
 
 このトピックでは、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
+>[!NOTE]
+>日々の評価を受けた使用量は通常、パートナーセンターに表示されるか、API を使用してアクセスされるまでに24時間かかります。
+
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>日単位で評価される使用状況の調整ファイルのフィールド
 
-| Column | 説明 |
+| 列 | 説明 |
 | ------ | ----------- |
 | PartnerId | GUID 形式のパートナー識別子。 |
 | PartnerName | パートナー名。 |

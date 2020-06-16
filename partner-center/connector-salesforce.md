@@ -9,12 +9,12 @@ ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453259"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788776"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM のための共同販売コネクタ - 概要
 
@@ -227,18 +227,18 @@ Salesforce CRM 管理者ユーザーは、別の CRM セクションを作成す
 
 3. 左側のナビゲーションから [**フィールド & リレーションシップ**を選択する]
 
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="フィールド":::
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
 
 4. **フィールド & リレーションシップ**テーブルに次のフィールドを追加します。
 
    |**フィールドラベル**   |**フィールド名**|**データの種類**|**付ける**|
    |---------------------|:-------------------|:--------------|:----------------|
-   |Audit|  Audit__c|長いテキスト領域 (100000) (表示されている4行目)||
-   |Microsoft ではどのように役立つでしょうか。|H ow_can_Microsoft_help__c|ピック|
-   |製品|製品-c|テキスト (255)||
-   |Referral |  Referral_Identi fier__c|テキスト (100) (外部 ID)|はい|
-   |紹介リンク|   Referral_Link__c_|URL (255)||
-   |パートナーとの同期 (中央)|同期-パートナー-センター-c|Checkbox (既定値はオフ)||
+   |Audit| Audit__c|長いテキスト領域 (100000) (表示されている4行目)||
+   |Microsoft ではどのように役立つでしょうか。|How_can_Microsoft_help_c|ピック|
+   |製品|Products_c|テキスト (255)||
+   |Referral | Referral_Identfier_c|テキスト (100) (外部 ID)|はい|
+   |紹介リンク| Referral_Link_c_|URL (255)||
+   |パートナーセンターとの同期|sync_with_partner_center_c|Checkbox (既定値はオフ)||
 
    * 候補リストの値:
 
@@ -321,7 +321,7 @@ Salesforce CRM ソリューションの**営業案件**エンティティのパ�
 
     6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Microsoft Power の自動化プラットフォームの詳細](https://docs.microsoft.com/-automate/)
 

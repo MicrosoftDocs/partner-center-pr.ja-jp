@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19165550cfcd9b6b62a548e7d21c1ee58df691dc
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 99eda121ac876be0d753b7d7f147b054562a844d
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679359"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776289"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能なコンピテンシーレポート
 
@@ -50,7 +50,7 @@ ms.locfileid: "84679359"
  > [!NOTE]
  > このレポートは、Insights ダッシュボードから入手できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポートビューアー、エグゼクティブレポートビューアーなど、パートナーセンターの特定のロールが割り当てられている必要があります。 詳細については、会社のグローバル管理者に問い合わせてください。このレポートの特定の種類のデータは、エグゼクティブレポートビューアーの特権を持つユーザーのみが使用できる場合もあります。
 
-**Summmary**
+**まとめ**
 
 [概要] ビューには、コンピテンシーのライフサイクルのすべての段階にわたって、コンピテンシーレベル (Gold/シルバー) ごとのコンピテンシーの数が表示されます。 コンピテンシーライフサイクルの段階には、**開始**、**修飾**、**アクティブ**、および**危険**な状態があります。 例: クラウドコンピテンシーの要件は、スキルとパフォーマンスの2つのカテゴリに分類されます。
 
@@ -86,6 +86,6 @@ ms.locfileid: "84679359"
 
 :::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="コンピテンシーの履歴":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

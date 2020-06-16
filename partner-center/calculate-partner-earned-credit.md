@@ -1,7 +1,7 @@
 ---
-title: パートナーの獲得クレジットの計算方法 |パートナーセンター
+title: パートナー獲得クレジットの計算方法
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure プランのパートナー獲得クレジット (PEC) の側面を計算する方法について説明します。 これには、パートナーと間接プロバイダーの資格要件が含まれます。
@@ -9,19 +9,20 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: aee60449a31cf1908912cc1fa62e2bf2c003f998
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 70c17a2fe4a2f61745d04a62d680a3b523f85fa4
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721726"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788736"
 ---
-# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>パートナーの獲得クレジット (PEC) の計算方法
+# <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>クラウドソリューションプロバイダープログラムのパートナーに対してパートナーの獲得クレジット (PEC) を計算する方法
 
 **適切なロール**
 
-- グローバル管理
-- 課金の管理
+- グローバル管理者
+- 課金管理者
 
 Microsoft 365 年中無休の IT 運用管理、または CSP における顧客の Azure 環境全体を所有するパートナーは、PEC を利用できます。 PEC は、Microsoft との直接の課金関係を持つパートナーに請求書の一部として提供されます。 クレジットは日単位で計算され、月次請求書に反映されます。 CSP の既定では、顧客のサブスクリプションに対する必要なアクセス権がパートナーに付与されます。これにより、サブスクリプションのリソースを24時間365日体制で管理し、制御することができます。 次のセクションでは、お客様が取引先へのアクセスをプロビジョニングするためのその他の方法について説明します。
 

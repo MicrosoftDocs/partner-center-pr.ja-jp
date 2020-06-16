@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 43d8ab5cc0dc04ae3edbef9856865f21836eb23b
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749086"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788726"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -23,6 +23,7 @@ ms.locfileid: "84749086"
 | **カテゴリ** | **2020 年 6 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
 | 機能 | [請求頻度の既定値が年単位から月単位に変更される](2020-june.md#4) | 6 月 17 日 |
+| 製品サービス/市場 | [Microsoft 365 F1 の変更](2020-june.md#3) | 6 月 15 日 |
 | 機能 | [CSP の Windows Server ソフトウェア サブスクリプションのメディア更新](2020-june.md#2) | 6 月 12 日 |
 | 製品サービス/市場 | [Microsoft Dynamics 365 および Power Platform の新規および終了となるプランと製品](2020-june.md#1) | 6 月 11 日 |
 | 機能 | [パートナー センターで 2 つ以上の会社アカウントを統合する](https://docs.microsoft.com/partner-center/merge-accounts) | 6 月 9 日 |
