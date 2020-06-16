@@ -201,6 +201,7 @@
 ### [Insights - コンピテンシー レポート](pci-competencies-report.md)
 ### [Insights - 特典レポート](pci-benefits-report.md)
 ### [Insights - 既知の問題](pci-known-issues.md)
+### [Insights - レポートのダウンロード](pci-download-reports.md)
 ## [パートナー貢献度インジケーター](partner-contribution-indicators.md)
 ## [顧客の Azure サブスクリプションの利用状況に関するデータの取得](analyze-azure-usage.md)
 ## [間接リセラーのパフォーマンス分析](analyze-indirect-resellers.md)
