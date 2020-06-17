@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 8b89efd0cb24fb8aa08160bc6b554c5c2823ba2b
+ms.sourcegitcommit: b2f389ef0beacd722876e6396eab30b28bdf7e78
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788806"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "84811574"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
@@ -57,7 +57,7 @@ ms.locfileid: "84788806"
 | SubscriptionDescription | 価格表で定義されている、顧客が購入したサービス プランの名前。 (これは、 **Offername**と同じフィールドです)。 |
 | SubscriptionId | Microsoft 請求プラットフォームでのサブスクリプションの一意識別子。 調整には使用されません。 *この識別子は、パートナー管理コンソールの**サブスクリプション ID**と同じではありません。* |
 | ChargeStartDate | 請求サイクルの開始日 (以前の請求サイクルから以前に使用されていた使用状況データを表示していない日付を表示する場合を除く)。 この時間は常に、1 日の開始時刻である 0:00 です。 |
-| ChargeEndDate | 請求サイクルの終了日 (以前のサイクルから過去の使用状況データを除外した日付を表示する場合を除く)。 時刻は常に、その日の終わりの時刻 (23:59) になります。 |
+| ChargeEndDate | 請求サイクルの終了日 (以前の請求サイクルから過去に発生した使用状況データを表示する場合を除く)。 時刻は常に、その日の終わりの時刻 (23:59) になります。 |
 | UsageDate | サービス使用の日付。 |
 | MeterType | メーターの種類。 |
 | MeterCategory | 使用状況の最上位レベルのサービス。 |
@@ -88,3 +88,8 @@ ms.locfileid: "84788806"
 | EntitlementId | Azure サブスクリプション ID を表します。 |
 | EntitlementDescription | Azure サブスクリプション ID の名前を表します。 |
 | PartnerEarnedCreditPercentage | 品目の PartnerEarnedCredit を表示します。 獲得クレジットは、0または15% になります |
+
+>[!NOTE]
+>日常的に評価される使用量は、パートナーセンターに表示されるか、API を使用してアクセスされるまでに、通常24時間かかります。
+
+
