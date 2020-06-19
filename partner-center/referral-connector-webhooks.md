@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターの Webhook Api を使用して、Dynamics 365 CRM または Salesforce CRM で参照のリソースがどのように変更されるかを学習します。
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: 紹介、webhook api、リソース変更イベント
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89628fd6ccab6a943d8bd816afa7b5d3b0f241f7
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 6d3cf5a4049f96f7eebce8d23c33ca79ad352ce5
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749172"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991887"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Webhook Api を使用して Dynamics 365 CRM と Salesforce CRM のリソース変更イベントに登録する
 
@@ -180,7 +179,7 @@ Dynamics 365 ソリューションの**営業案件**エンティティのパー
 
    6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Microsoft Power の自動化プラットフォームの詳細](https://docs.microsoft.com/power-automate/)
 

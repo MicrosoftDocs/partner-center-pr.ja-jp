@@ -5,18 +5,17 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターで新しい顧客レコードを追加する方法について説明します。 その後、顧客のサブスクリプションを販売したり、請求を管理したり、カスタマーサポートを提供したりすることができます。
-ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客, 顧客の追加, 顧客アカウント, パートナー センターの顧客アカウント, お客様, お客様の追加, 顧客アカウントの作成
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 005e1d044f1d006b878eb85717a14f5e3ce3030b
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: fcfb35585dc145917614f4557465cb2661dd254a
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362690"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991111"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>パートナーセンターで新しい顧客レコードを追加する方法
 
@@ -69,7 +68,7 @@ ms.locfileid: "83362690"
 
 7. 顧客情報の追加が完了し、必要なサブスクリプションを購入したら、**[完了]** を選択します。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - Cloud Solution Provider プログラムを使用して顧客に販売できるものの詳細については、 [Cloud Solution provider プログラムのパートナープランに](csp-offers.md)関する情報を参照してください。
 

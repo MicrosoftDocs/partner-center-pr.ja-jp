@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムパートナーから必要なお客様の課金サポートについて説明します。 これには、顧客の請求関係の所有と、請求に関する質問への回答が含まれます。
-ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f0a190c7ff2215d32ca556613650a4780289481
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 620b301aa428aef3348e316667b82507d2fc3b5b
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467492"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992061"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>お客様の課金サポートを提供し、請求に関する質問に答えることができます
 
@@ -60,7 +59,7 @@ CSP モデルで取引を行うパートナーは、お客様に対する信頼�
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>課金、サブスクリプション管理、テクニカル サポートの提供 
 
-各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については次を参照してください:
+各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については、次を参照してください。
 
 - [CSP で販売された Dynamics 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

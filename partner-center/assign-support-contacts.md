@@ -5,18 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft サービスにサブスクリプションを所有しているお客様のテクニカルサポートの連絡先として、リセラーを割り当てる方法について説明します。
-ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
 keywords: ヘルプ エージェント, サポート, サポート連絡先の指定, 指定のサポート連絡先
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39e0a4390d37ba9cc39b872f059b818faad28051
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 711ee7ac693402553c2afcad7f5387bf4d04ab6c
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678999"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84990984"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>リセラーをカスタマーのテクニカルサポートの連絡先として割り当てる
 
@@ -53,6 +52,6 @@ ms.locfileid: "84678999"
 
 4.  変更内容が正しいことを確認した後、**[閉じる]** を選びます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 [顧客との関係の削除](remove-a-relationship.md)

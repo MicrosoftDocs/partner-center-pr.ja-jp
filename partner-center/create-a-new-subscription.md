@@ -5,18 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft が発行した製品や、サードパーティの Isv によって発行された SaaS 製品に対して顧客のサブスクリプションを販売する方法について説明します。
-ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: サブスクリプション、新規作成、サブスクリプションの追加、中断、キャンセル、中断、中断、SaaS、ライセンス、ISV、サードパーティ
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f8b3e6c444f8aeb59a55d6e7feb881eb6f99a5e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679059"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991494"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
@@ -156,7 +155,7 @@ ISV 発行元から取得したライセンスベースの SaaS サブスクリ�
 
 6. **[送信]** を選択します。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客のために商用マーケットプレースの製品を購入する](csp-commercial-marketplace-purchase.md)
 

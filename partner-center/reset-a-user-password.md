@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターでユーザーパスワードをリセットする方法について説明します。 ユーザーは、次回パートナーセンターにサインインするときに一時パスワードを受け取ります。
-ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afe29f800adc5dd8c5cb750a6297ae6bb3ad3588
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 84ba4806e1241fd8857e39f8c47f5391f316393b
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467362"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992001"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>パートナーセンターでユーザーのパスワードをリセットする
 

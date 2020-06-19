@@ -5,21 +5,20 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 別の国/地域のテナントを統合するには、次の手順を使用します。 これには、顧客アカウントと顧客のサブスクリプションを移行するための手順が含まれます。
-ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: LauraBrenner
 ms.author: labrenne
 keywords: 顧客の移行, プロビジョニング, テナントのアカウント, テナントの統合
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2667bf19f73dfb2498cd6f706bd97b595f67a31
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 2e3c0bd9b50e91e02952a690cc7cbfe1601ad550
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679069"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991467"
 ---
-# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP のリージョン承認テナント統合の手順
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP の地域承認によるテナント統合の手順
 
 **適用対象**
 

@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターのパスワードをリセットしたり、会社のグローバル管理者から支援を受けたりする方法について説明します。また、新しいパートナーセンターのグローバル管理者を追加する方法についても説明します。
-ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9109fffbbf9d636aaafc57b7d441a4556e820d2e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 2b18e28170dcf51d1a2dc36134fb5ad404f18502
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467352"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991990"
 ---
 # <a name="reset-my-password"></a>パスワードをリセットする
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: パートナーセンターの洞察、レポート、レポートのダウンロード
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d97e21c8ca68f2a93bec949f948d24726d9f6231
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84793178"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072446"
 ---
 # <a name="download-reports"></a>レポートのダウンロード
 
@@ -37,7 +37,8 @@ Insights ダッシュボードの [レポートのダウンロード] ハブを�
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="生成されたレポート":::
 
->付箋エグゼクティブレポートビューアーのユーザーのみがレポートをダウンロードできます。 Insights ダッシュボードレポートへのロールベースのアクセスの詳細については、「 [PCI ロール](pci-roles.md)」を参照してください。 
+>[!NOTE] 
+>エグゼクティブレポートビューアーのユーザーのみがレポートをダウンロードできます。 Insights ダッシュボードレポートへのロールベースのアクセスの詳細については、「 [PCI ロール](pci-roles.md)」を参照してください。 
 
 ## <a name="available-reports"></a>使用可能なレポート
 

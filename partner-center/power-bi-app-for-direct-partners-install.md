@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679309"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072417"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Power BI 用パートナー センター分析アプリをインストールしてプレビューする
 
@@ -62,7 +62,7 @@ ms.locfileid: "84679309"
 
 5. 次のページで Power BI のユーザー名とパスワードを入力し、[サインイン]を選びます。
 
-6. Workspacename を指定して、ワークスペースをインストールします。
+6. ワークスペース名を指定して、ワークスペースをインストールします。
 
 7. インストールされているテンプレートアプリは、[アプリ] セクションで確認できます。
 
@@ -85,6 +85,6 @@ ms.locfileid: "84679309"
 
 データの読み込みが完了すると、Power BI でパートナー センターの分析アプリのダッシュボードとレポートを使用できるようになります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 [Microsoft Power BI 用パートナー センター分析アプリでビジネス データを表示する](power-bi-app-for-direct-partners-use.md)

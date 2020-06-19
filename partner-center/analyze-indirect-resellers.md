@@ -6,17 +6,16 @@ ms.subservice: partnercenter-csp
 Description: 分析を使用して、間接リセラーがどのように実行されているかを確認します。成功と領域の両方で、さらに注意が必要になる場合があります。
 author: LauraBrenner
 ms.author: labrenne
-ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72064e3847d30b3049649269618256638b2fe4d8
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2fbd8552d026d568b94dbfdddf4452897a3c790d
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794942"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991008"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>分析を使用して間接リセラーのパフォーマンスを分析する
 

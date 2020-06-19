@@ -5,17 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft パートナーがお客様に対して自身を解決することが期待されている問題と、Microsoft にエスカレートする必要がある問題について説明します。
-ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d46c22852d8a4b994088919d98c92e328ef2cad
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: e6f42ae1d1fb6b496415b32fa4155aef829bdeb2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795157"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991258"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Microsoft に問題をエスカレートし、Microsoft のエスカレーションにより適している問題を確認します  
 

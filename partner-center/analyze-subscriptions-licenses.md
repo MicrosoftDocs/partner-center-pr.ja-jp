@@ -6,17 +6,16 @@ ms.subservice: partnercenter-csp
 Description: '[サブスクリプションとライセンス分析] ページのメトリックを使用して、注意が必要な成功と領域を特定する方法について説明します。'
 author: LauraBrenner
 ms.author: labrenne
-ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 671d0bed6a8d3a71aa641fde296ead6c665dce3f
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722373"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991020"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>サブスクリプションとライセンスの分析 
 
@@ -27,12 +26,12 @@ ms.locfileid: "74722373"
 
 **適切なロール**
 
-- グローバル管理
-- ユーザー管理者
+- グローバル管理者
+- ユーザー管理の管理者
 - 管理エージェント
 - 販売代理店
 
-データはビジネス上の意思決定を促進します。 **サブスクリプションとライセンスの分析**ページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
+データはビジネス上の意思決定を促進します。 [**サブスクリプションとライセンス分析**] ページのメトリックを使用して、さらに注意が必要な成功と領域を特定します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 
 > [!NOTE]
 > サブスクリプションとライセンスの分析は、クラウド ソリューション プロバイダー プログラムに参加しているパートナーのみが利用できます。
@@ -48,7 +47,7 @@ ms.locfileid: "74722373"
 
 次のメトリックを追跡しています。
 
-**要約**  
+**まとめ**  
  - **Subscriptions sold** (サブスクリプションの販売数): 指定した期間に作成されたサブスクリプションの数  
  - **Licenses sold** (ライセンスの販売数): 指定した期間に販売されたライセンスの数   
  - **Subscriptions renewing in 30 days** (30 日以内に更新するサブスクリプション): 指定した期間中に状態がアクティブで、**Autorenew** が true であるサブスクリプションの数

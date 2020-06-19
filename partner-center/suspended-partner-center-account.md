@@ -5,17 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 中断されたパートナー センター アカウントを復元する方法、パートナー アカウントが中断される理由、および中断されたアカウントを使用する方法について説明します。
-ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e96a71eeb1404055099c3418f9c9531a97a67c2
-ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
+ms.openlocfilehash: 514480372d1717159f9dff6cb3b3b2e575c069b8
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84661655"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991801"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>中断されたパートナーセンターアカウントを復元する-発生する理由とその対処方法について説明します。
 
@@ -49,7 +48,7 @@ Microsoft では、次のいずれかの理由により、パートナー セン
 
 アカウントの再アクティブ化の詳細については、[サポート](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)にお問い合わせください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [パートナー プロファイルを確認する](update-your-partner-profile.md)
 

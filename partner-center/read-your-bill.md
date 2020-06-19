@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: 請求書 & 調整ファイルについて説明します。 請求書には、その月の期間におけるプログラム、製品、および顧客に対するパートナーセンターの料金が表示されます。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: df330ce2e66cf198ce97919c02a15eb7a50f6486
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467462"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991876"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>請求書と調整ファイルを理解する-パートナーセンターでそれらを検索する方法について説明します
 

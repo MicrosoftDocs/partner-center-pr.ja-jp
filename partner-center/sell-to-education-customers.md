@@ -5,18 +5,17 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
 author: LauraBrenner
 ms.author: labrenne
 keywords: 教育、特別なセグメント
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0b0b576348ed3c703fe517bbeef6271e3dcade08
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453299"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992172"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>教育機関のお客様にオファーを販売する方法 & パートナーセンターで教育機関の顧客を作成する方法
 
@@ -96,7 +95,7 @@ ms.locfileid: "84453299"
 
 2. 更新された顧客の詳細が教育機関の資格を受けられる場合は、**特別な要件**が**教育機関**に更新されていることがわかります。 まだ**教育機関のお客様でない**場合は、手動による検証についてサポートにお問い合わせください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)
 

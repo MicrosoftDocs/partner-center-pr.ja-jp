@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 教育機関のお客様、非営利顧客、政府ユーザーなど、特定の顧客グループ向けの特別で低価格の価格について説明します。
-ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1b8567263f8a105b3a3bc5b1d429715c9f3c38
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 2e8b03925b29901ed68482242e6340ebd0155c76
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467172"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991242"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>教育、非営利団体、政府機関のユーザーなどの特別な業界への販売
 
@@ -35,9 +34,9 @@ ms.locfileid: "84467172"
 
 |**特別価格**   |**リセラーに求められる条件**   |**顧客に求められる条件**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育   |なし   | [適格教育ユーザー](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。   |
-|Government   |Azure を販売するには、 [MICROSOFT 米国政府機関向けクラウド検証フォーム](https://azuregov.microsoft.com/csp)を使用して登録します。 政府機関にライセンスベースのサブスクリプションを販売する場合、求められる条件はありません。|   なし|
-|非営利団体  |なし<br/> 非営利 Azure Active Directory テナントが必要です。<br/> [非営利団体向けプラン](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)の詳細情報を確認します。   |適格となるためには、[マイクロソフト非営利団体向けプログラム](https://nonprofit.microsoft.com/#/register)を通じてサインアップします。   |
+|Education   |None   | [適格教育ユーザー](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)である必要があります。   |
+|政府   |Azure を販売するには、 [MICROSOFT 米国政府機関向けクラウド検証フォーム](https://azuregov.microsoft.com/csp)を使用して登録します。 政府機関にライセンスベースのサブスクリプションを販売する場合、求められる条件はありません。|   None|
+|非営利団体  |None<br/> 非営利 Azure Active Directory テナントが必要です。<br/> [非営利団体向けプラン](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)の詳細情報を確認します。   |適格となるためには、[マイクロソフト非営利団体向けプログラム](https://nonprofit.microsoft.com/#/register)を通じてサインアップします。   |
 
 ## <a name="check-your-reseller-qualifications"></a>リセラーの認定状態を確認する
 
@@ -75,10 +74,10 @@ ms.locfileid: "84467172"
 |:----------------------------|:---------------------------------|:------------------------------------------|
 | 商用 |商用 | 非営利団体、教育機関、政府機関向けコミュニティクラウド |
 | 非営利団体 |商用、非営利 | 教育機関または政府機関向けコミュニティクラウド |
-| 教育 |商用、教育 | 非営利団体または政府機関向けコミュニティクラウド |
+| Education |商用、教育 | 非営利団体または政府機関向けコミュニティクラウド |
 | 政府機関向けコミュニティクラウド |政府機関向けコミュニティクラウド | 非営利団体、教育機関、またはコマーシャル |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Minecraft の販売: 教育機関のお客様へのサブスクリプション](minecraft-subscriptions.md)
 
