@@ -24,6 +24,7 @@
 ## メリット
 ### [利点の概要](manage-your-partner-network-benefits.md)
 ### [市場進出の利点](mpn-learn-about-go-to-market-benefits.md)
+### [利点に関する FAQ](benefits-faq.md)
 ## [マーケットプレースの Rewards](marketplace-rewards.md)
 ## [ソフトウェア アシュアランス プログラム](software-assurance-lp.md)
 ### [パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム](software-assurance-satv.md)
@@ -198,6 +199,7 @@
 ### [Insights - 製品サブスクリプション ダッシュボード](pci-product-subscriptions-report.md)
 ### [Insights - 製品ライセンスダッシュボード](pci-product-licenses-report.md)
 ### [Insights - Azure の利用状況ダッシュボード](pci-azure-usage-report.md)
+### [Insights - トレーニング ダッシュボード](pci-training-dashboard.md)
 ### [Insights - コンピテンシー レポート](pci-competencies-report.md)
 ### [Insights - 特典レポート](pci-benefits-report.md)
 ### [Insights - 既知の問題](pci-known-issues.md)
