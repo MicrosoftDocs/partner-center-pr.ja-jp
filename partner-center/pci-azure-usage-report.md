@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: お客様のお客様のために販売または管理している Azure サブスクリプションの使用状況について、お客様がどのように改善できるかをご確認ください。
-ms.assetid: ''
 keywords: PCI、パフォーマンス、測定、お客様の成功、Azure の使用状況、サブスクリプション、分析、レポート
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8400cbfb5d466ea4da1c8a7abd9d8e2e49df184
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: f8a8c98cf8378c7b1e70e2aaac5a91e9b72e3d81
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679379"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908630"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能な Azure の使用状況レポート
 

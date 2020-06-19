@@ -3,17 +3,16 @@ title: 1回限りの定期的な調整ファイル
 ms.topic: article
 ms.date: 05/26/2020
 description: パートナーセンターの1回限りおよび定期的な調整ファイルの各フィールドまたは列の意味を理解します。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84bed4fac8984b3fc8757b8185da514c5d8212d6
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: a39962fb046b50497432e7e4fdabd020668702fe
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749198"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908670"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>パートナーセンターでの1回限りの定期的な調整ファイル
 
@@ -56,7 +55,7 @@ ms.locfileid: "84749198"
 | SubTotal | 合計額 (税抜)。 割引の場合、予想される合計に対して小計が一致するかどうかを確認します。 |
 | TaxTotal | 納税額。 市場の税金ルールと特定の状況に基づいています。 |
 | 合計 | 合計額 (税込)。 請求書に課税されるかどうかを確認します。 |
-| Currency | 通貨の種類。 各請求エンティティの通貨は 1 つのみです。 これが最初の請求書と一致していることを確認し、主要な課金プラットフォームの更新後にもう一度確認してください。 |
+| 通貨 | 通貨の種類。 各請求エンティティの通貨は 1 つのみです。 これが最初の請求書と一致していることを確認し、主要な課金プラットフォームの更新後にもう一度確認してください。 |
 | PriceAdjustmentDescription | 適用可能なすべての割引の説明。 |
 | 発行元 | 製品の発行元の名前。
 | PublisherId | 特定のパブリッシャーの一意識別子。 |

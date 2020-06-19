@@ -1,19 +1,17 @@
 ---
-title: パートナーアカウントを別のパートナーアカウントにマージしています
-ms.topic: article
-ms.date: 06/12/2020
+title: パートナー アカウントを別のパートナー アカウントにマージする
 description: パートナーセンターでアクティブな Microsoft パートナーである企業は、自分のアカウントを統合できます。
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
+ms.topic: article
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03689f250f86a2abdedbcd062766020b15520108
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.date: 06/12/2020
+ms.openlocfilehash: 479b22e3b9666184a1dc2f75ba1f36f721d31445
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788689"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909036"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>パートナー アカウントを別のパートナー アカウントにマージする
 
@@ -43,8 +41,7 @@ ms.locfileid: "84788689"
 
 ### <a name="view-of-merged-accounts"></a>マージされたアカウントの表示
 
-
-:::image type="content" source="images/AccountMerge-graphic.png" alt-text="アカウントの合併":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="アカウントの合併":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>パートナーセンターアカウントを別のパートナーセンターアカウントにマージするように招待されている場合の対処方法
 
@@ -52,7 +49,7 @@ ms.locfileid: "84788689"
 
 - ユーザーは、自分のロールとそのままの状態で、統合されたアカウントに移動します。
 
-- 既存の特典とコンピテンシーは、合併後に更新されるまで、両方の企業において保持されます。 更新時に、アカウントは1つの会社として扱われ、標準の更新規則が適用されます。
+- 既存の特典とコンピテンシーは、合併後に更新されるまで、両方の企業において保持されます。 更新時、アカウントは1つの会社として扱われ、標準の更新規則が適用されます。
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>パートナーがアカウントを結合する場合のプログラムと利点への影響について理解する
 
@@ -62,11 +59,11 @@ ms.locfileid: "84788689"
 
 - アカウントの合併中、次回の更新までは、各アカウントは Action Pack やコンピテンシーの特典を保持します。 更新時には、標準 Action Pack とコンピテンシー更新ルールが適用されます。
 
-- 更新が行われると、コンピテンシーの達成と Action Pack に含まれている特典が、パートナー企業のパートナーグローバルアカウントに実装されます。 
+- 更新が行われると、コンピテンシーの達成と Action Pack に含まれている特典が、パートナー企業のパートナーグローバルアカウントに実装されます。
 
-    • Microsoft Action Pack: パートナー企業は、パートナーのグローバルアカウントごとに1つの Action Pack を購入できます。
+  - Microsoft Action Pack: パートナー企業は、パートナーのグローバルアカウントごとに1つの Action Pack を購入できます。
 
-    •コンピテンシー: パートナー企業は、最大の達成度に関連するコア特典の1つのパッケージと、パートナーがパートナーグローバルアカウントごとの資格を持つコンピテンシー固有の特典を受け取ります。 
+  - コンピテンシー: パートナー企業は、最大の達成度に関連するコア特典の1つのパッケージと、パートナーがパートナーグローバルアカウントごとの資格を持つコンピテンシー固有の特典を受け取ります。
 
 - すべてのメリットについては、 [Microsoft Partner Network 特典の使用方法](https://aka.ms/partner-benefits-use-guide)に関するガイドを参照してください。 例: アクティブ化された O365 E3 トークンは、アクティブ化してから12か月以内に機能します。 テナントの接続クライアントに対してトークンがアクティブ化されると、その接続クライアントは別のテナントに移動されない可能性があります。
 
@@ -93,7 +90,7 @@ ms.locfileid: "84788689"
 
 4. [**マージ**] を選択すると、パートナー企業に招待が送信されます。 要求を受け入れると、パートナーセンター内でアカウントのマージを開始できます。 組織がアカウントのマージ要求を拒否した場合、その要求が拒否された理由を説明することができます。 [**マージ履歴**] では、すべてのアカウントのマージの一覧を使用できます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
 

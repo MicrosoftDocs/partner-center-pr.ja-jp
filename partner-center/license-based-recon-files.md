@@ -3,17 +3,16 @@ title: ライセンス ベースの調整ファイル
 ms.topic: article
 ms.date: 05/18/2020
 description: パートナーセンターでライセンスベースの調整ファイルを読み取る方法について説明します。 この記事では、ライセンスベースの偵察ファイルの各フィールドの意味について説明します。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86b3a099f6fe3948b9cb1ca707d43f776f66ca16
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 7ce9400c3672ff09997321b2e55f46daf102ebbd
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795770"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909050"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>パートナーセンターのライセンスベースの調整ファイルのフィールドについて
 
@@ -32,7 +31,7 @@ ms.locfileid: "83795770"
 
 ## <a name="fields-in-license-based-reconciliation-files"></a>ライセンスベースの調整ファイルのフィールド
 
-| Column | 説明 | 値の例 |
+| 列 | 説明 | 値の例 |
 | ------ | ----------- | ------------ |
 | PartnerId | 特定の請求エンティティの GUID 形式の一意識別子。 調整には必要ありません。 すべての行で同じです。 | *8ddd03642-test-test-test-46b58d356b4e* |
 | CustomerId | GUID 形式の顧客の一意の Microsoft 識別子。 | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
@@ -57,7 +56,7 @@ ms.locfileid: "83795770"
 | 小計 | 合計額 (税抜)。 割引の場合、予想される合計に対して小計が一致するかどうかを確認します。 | *11* |
 | 税 | 納税額。 市場の税金ルールと特定の状況に基づいています。 | *0* |
 | TotalForCustomer | 合計額 (税込)。 請求書に課税されるかどうかを確認します。 | *11* |
-| Currency | 通貨の種類。 各請求エンティティの通貨は 1 つのみです。 最初の請求書と一致するかどうかを確認します。 課金プラットフォームの主要な更新後に、もう一度確認してください。 | *EUR* |
+| 通貨 | 通貨の種類。 各請求エンティティの通貨は 1 つのみです。 最初の請求書と一致するかどうかを確認します。 課金プラットフォームの主要な更新後に、もう一度確認してください。 | *EUR* |
 | DomainName | 顧客のドメイン名。 このフィールドは、2 回目の請求サイクルまで空白になる可能性があります。 *このフィールドは、顧客の一意の識別子として使用しないでください。顧客/パートナーは、Office 365 ポータルを使用してバニティまたは既定のドメインを更新できます。* | *example.onmicrosoft.com* |
 | SubscriptionName | サブスクリプションのニックネーム。 ニックネームが指定されていない場合、パートナーセンターは**Offername**を使用します。 | *プロジェクトをオンラインにする* |
 | SubscriptionDescription | 価格表で定義されている、顧客が購入したサービス プランの名前。 (これは**オフ**と同じフィールドです)。 | *PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT* |

@@ -1,7 +1,7 @@
 ---
 title: パートナーセンターの洞察-顧客レポート
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ビジネスを向上させる方法を発見します。 地域別、製品別、およびその他の属性ごとに、顧客の特定の傾向を確認します。
@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c46b77a8c2147ae62b0609b167753a591f89dd4
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 25659c32486629c8b19696c486bb89be54b9ad15
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452999"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909070"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>パートナーセンターインサイトからの顧客ダッシュボードレポート
 
@@ -36,22 +36,22 @@ Customers ダッシュボードには、次のセクションがあります。
 
 [概要] セクションには、顧客、アクティブな顧客、サブスクリプション、顧客の追加、顧客の頻繁、顧客など、各製品に関連するさまざまな Kpi のスナップショットビューが表示されます。 ページレベルのフィルターは、各セクションに適用できます。
 
-**顧客**
+**企業**
 
 - Office、Azure、Dynamics などのすべてのクラウド製品で異なる種類の属性によって組織が関連付けられているすべての顧客の現在の数。アクティブな状態のサブスクリプションが少なくとも1つある場合は、顧客がカウントされます。  
 - 選択した日付範囲内の顧客の% を拒否します 
 - マイクログラフは、選択した日付範囲に対する顧客数の月別傾向を示します
 
-:::image type="content" source="images/pci/customerproduct.png" alt-text="製品別のお客様":::
+  :::image type="content" source="images/pci/customerproduct.png" alt-text="顧客の概要ダッシュボードのスクリーンショットは、棒グラフと、アクティブ、最近追加、紛失/頻繁、または特定の製品別の顧客の数を示しています。":::
 
 **アクティブな顧客**:
 
-- 任意のクラウド製品のアクティブな使用状況など、アクティブな製品の使用状況がある顧客の現在の数。 
+- 任意のクラウド製品のアクティブな使用状況など、アクティブな製品の使用状況がある顧客の現在の数。
 - 選択した期間中のアクティブな顧客の増加率または拒否率 (%) は、選択した日付範囲に対するアクティブな顧客数の月単位の傾向を示します。
 追加された顧客:
 - 選択した期間中に追加されたすべての顧客の数。
-- 選択した範囲内に追加された顧客の増加率または拒否率 
-- 選択した日付範囲に追加された顧客の月別傾向を示すマイクログラフ 
+- 選択した範囲内に追加された顧客の増加率または減少率。
+- 選択した日付範囲に追加された顧客の月別傾向がマイクログラフに表示されます。
 
 **お客様頻繁**:
 - 選択した期間中に毎月頻繁すべての顧客の数。 顧客が1つのサブスクリプションでアクティブな状態を持っていない場合、顧客は失われたと見なされます。 
@@ -65,13 +65,13 @@ Customers ダッシュボードには、次のセクションがあります。
 
 選択した日付範囲内に新しく追加された現在の顧客、現在のアクティブな顧客、および顧客の数は、お客様の国を使用して geo マップされます。 メトリックの下に表示されるパーセンテージは、そのメトリックのその国の合計に占める割合を示します。 マップにカーソルを合わせると、その国の合計、アクティブ、新規顧客を表示できます。 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [**ホーム**] ボタンを選択して、元のビューに戻します。 グリッド内のすべての列は並べ替え可能です。  
 
-:::image type="content" source="images/pci/customersgeo.png" alt-text="地理的に別の顧客":::
+:::image type="content" source="images/pci/customersgeo.png" alt-text="Geo 別のパートナーセンターの Insights の顧客レポートのスクリーンショット世界地図と、地域別の合計、追加、新規顧客の一覧が表示されます。":::
 
 **顧客による追加と除外**
 
 選択した日付範囲について、新規、既存、および頻繁に分類された顧客の傾向。 X 軸は、選択した日付範囲の月を表し、Y 軸は顧客数を表します。 頻繁のお客様は、Y 軸の負のスケールで表されます。 積み上げ縦棒グラフでは、その月の新規、既存、および頻繁の顧客が分割されています。 特定のスタック項目を含む縦棒グラフを再構築するには、凡例でその項目を選択します。 グラフの上にあるスライダーを利用して、特定の期間にズームインできます。 
 
-:::image type="content" source="images/pci/customerslost.png" alt-text="失われた顧客":::
+:::image type="content" source="images/pci/customerslost.png" alt-text="横棒グラフが表示されたパートナーセンターインサイトの顧客レポートのスクリーンショット特定の期間にわたって追加および損失または頻繁した顧客の数を示します。":::
 
 **顧客の配布**
 
@@ -81,19 +81,19 @@ Customers ダッシュボードには、次のセクションがあります。
 
 現在の顧客の数と製品、Sku/プランの内訳。 製品分割円グラフ内の製品を選択すると、その横にあるグラフの Sku/プランに分割されたものが表示されます。
 
-:::image type="content" source="images/pci/customerbyprod.png" alt-text="製品別のお客様":::
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="製品レポートのユーザーのスクリーンショットには、2つの放射状グラフが表示されています。1つは製品別の顧客内訳、もう1つは SKU 別の顧客内訳です。":::
 
 **顧客分布の傾向** 
 
 市場、セグメント、お客様が取得した MPN の場所と製品による、選択した日付範囲内の顧客の分布の月ごとの傾向。 グラフ内の各タブをクリックすると、これらのカテゴリごとの傾向が表示されます。 X 軸は、選択した日付範囲の月を表し、Y 軸には選択したカテゴリ (タブ選択) の顧客数が含まれます。 グラフの列にマウスポインターを置くと、各スタックの値が表示されます。 グラフの上にあるスライダーを利用して、特定の期間にズームインできます。   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="顧客の配布":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="市場、セグメント、パートナーの所在地、製品ごとに表示できる横棒グラフを示す、顧客の分布傾向レポートのスクリーンショット。":::
 
 **アクティブな顧客**
 
 選択した日付範囲のアクティブおよび合計の顧客を比較する月次傾向グラフ。 列は、1か月あたりのアクティブな顧客数を表し、行は各月の合計顧客数を表します。 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="アクティブな顧客":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="パートナーセンターのインサイトのアクティブな顧客のスクリーンショット。アクティブな顧客の時間の経過に伴う横棒グラフが表示されます。":::
 
 ## <a name="next-steps"></a>次の手順
 

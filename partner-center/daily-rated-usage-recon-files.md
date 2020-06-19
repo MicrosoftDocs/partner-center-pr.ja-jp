@@ -3,17 +3,16 @@ title: 毎日評価済みの使用状況調整ファイル
 ms.topic: article
 ms.date: 06/12/2020
 description: パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b89efd0cb24fb8aa08160bc6b554c5c2823ba2b
-ms.sourcegitcommit: b2f389ef0beacd722876e6396eab30b28bdf7e78
+ms.openlocfilehash: 37f337734d4f3f9ea67ec434e1bd478a355214bb
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/16/2020
-ms.locfileid: "84811574"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908680"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
@@ -80,7 +79,7 @@ ms.locfileid: "84811574"
 | PricingCurrency | 価格表の通貨。 |
 | ServiceInfo1 | 特定の日にプロビジョニングおよび使用された Service Bus 接続の数。 |
 | ServiceInfo2 | 省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールド。 |
-| Tags | ユーザーによって設定された Azure リソースの論理編成を表します。 |
+| タグ | ユーザーによって設定された Azure リソースの論理編成を表します。 |
 | AdditionalInfo | 他の列で説明されていない任意の追加情報。 |
 | EffectiveUnitPrice | 割引、獲得したクレジットなど、単位ごとに課金される実際の値。 |
 | PCToBCExchangeRate | 料金通貨に適用される換算レートが請求通貨に適用されます。 |

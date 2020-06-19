@@ -3,17 +3,16 @@ title: 月単位の請求と年単位の請求の違い
 ms.topic: article
 ms.date: 05/06/2020
 Description: パートナーセンターの月額料金と年間課金の違いについて説明します。 また、さまざまな課金の種類と切り替えの影響を切り替える方法についても説明します。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908256"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908970"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>パートナーセンターでの月単位および年間請求の違いを理解する
 
@@ -159,7 +158,7 @@ CSP プログラムが現在利用可能なすべての市場で、月単位お�
 
 取り消されたライセンスまたはサブスクリプションのクレジットは、次のように計算されます。
 
-**キャンセルクレジット**= ((* * 月額料金 * * * 12)/365) \* **12 か月の期間** \*の残り日数が取り消されました。
+**キャンセルクレジット**= ((* * 月額料金 * * * 12)/365) \* **12 か月の期間の残り日数が** \* 取り消されました。
 
 ## <a name="reconciliation-file"></a>調整ファイル
 

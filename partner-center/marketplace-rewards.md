@@ -1,22 +1,21 @@
 ---
-title: Marketplace の特典を管理する
+title: Marketplace Rewards を管理する
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: プランを商用マーケットプレースに発行するパートナーは、マーケティングサポートを提供する特典の対象となります。
-ms.assetid: ''
 author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace プラン、マーケティングサポート、報酬、発行元特典
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6751b1ba7a8a99980154d287df71aa24f9cf63be
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795978"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909010"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>パートナーセンターで Marketplace の特典を管理して、マーケティング、販売、および技術的な特典を有効に &
 
@@ -34,19 +33,19 @@ Marketplace 報酬の適格性は、PGA MPN company にリンクされている�
 
 1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)で、Marketplace の特典ページの [ **Sales and Marketing 特典**] タブを選択して、特典の一覧を表示します。 
 
-2. 販売およびマーケティングの特典を有効にするには、最初に会社のマーケティング連絡先を割り当てる必要があります。 この連絡先には、Marketplace Rewards に関するフォローアップ通信が送られます。
+2. 販売とマーケティングのベネフィットを有効にするには、最初に会社のマーケティングの連絡先を割り当てる必要があります。 この連絡先には、Marketplace Rewards に関するフォローアップ通信が送られます。
 
 3. マーケティングの連絡先情報を追加または更新するには、[Marketplace Rewards] ページの [Sales and Marketing benefits]\(営業とマーケティングのベネフィット\) タブの上部に移動し、 **[Add, update, or change]\(追加、更新、または変更\)** を選択します。 
 
    続けて次の作業を行います。
 
-   - 一覧からユーザーを選択します。 割り当てるユーザーが一覧にない場合は、 [アカウント設定] で新しいユーザーを追加できます。
+   - 一覧からユーザーを選択します。 割り当てるユーザーが一覧にない場合は、[アカウント設定] で新しいユーザーを追加できます。
 
    - 会社のパートナー センター アカウントに関連付けられているメール アドレスとは異なるユーザーのメール アドレスを入力します。 指定されたマーケティングの連絡先のメール アドレスには、Marketplace Rewards のベネフィットを使用するための手順がメールで送信されます。
 
    - このマーケティングの連絡先の窓口となる電話番号と使用する言語を入力します。 この情報の入力が完了したら、 **[ユーザーの割り当て]** を選択します。
 
-4. マーケティング担当者を更新した後、使用を開始する特典に対して [**アクティブ化**] を選択します。 ベネフィットをアクティブにすると、1 週間以内に Rewards チームのメンバーからマーケティングの連絡先に連絡を差し上げます。
+4. マーケティングの連絡先を更新した後、使用を開始するベネフィットに対して **[アクティブにする]** を選択します。 ベネフィットをアクティブにすると、1 週間以内に Rewards チームのメンバーからマーケティングの連絡先に連絡を差し上げます。
 
 ## <a name="technical-benefits"></a>技術上のメリット
 

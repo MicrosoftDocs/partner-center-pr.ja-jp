@@ -3,18 +3,17 @@ title: 一般的な毎月の課金シナリオ
 ms.topic: article
 ms.date: 05/13/2020
 description: 毎月の課金を使用する場合のパートナーセンターでの一般的なシナリオ-新しいサブスクリプションの追加、ライセンス数の変更、サブスクリプションの中断などが含まれます。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 課金、支払い、注文、使用状況、月単位の課金、サブスクリプション、調整ファイル
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c51e6dfa2471570f30b1b957317bff1e6081bb79
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9da060e1c8b0a9d2f0a5de0987ccb4ea1e167b7c
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795624"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908880"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>新しいサブスクリプションの毎月の課金シナリオのサンプル、ライセンス金額の変更、または保留
 

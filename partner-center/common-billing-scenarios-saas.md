@@ -3,18 +3,17 @@ title: 課金-ライセンスベースの SaaS トランザクション
 ms.topic: article
 ms.date: 05/05/2020
 description: ライセンスベースの SaaS トランザクションのパートナーセンターでの一般的な課金シナリオについて説明します。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 課金、支払い、1回限りの購入、定期的な購入、サブスクリプション、シート
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02a50f5be3c19f179014fd7db4e1418ba025e874
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a25344e6a513c521e7f99e1bad3db9ec935159b3
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908194"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908800"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>パートナーセンターでのライセンスベースの SaaS トランザクションの一般的な課金シナリオ
 
@@ -53,7 +52,7 @@ ms.locfileid: "82908194"
 | ご購入日 | 請求開始日 | 請求終了日 | Unit price | ユニット数 | 合計金額 | 請求の種類 | サブスクリプションの説明 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 ドル | 11 | 0 ドル | 新規 | 無料試用版 |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 ドル | 11 | 0 ドル | Cancel | 無料試用版 |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 ドル | 11 | 0 ドル | キャンセル | 無料試用版 |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>カスタムメーター SaaS サブスクリプションを別の SKU に変換する
 
