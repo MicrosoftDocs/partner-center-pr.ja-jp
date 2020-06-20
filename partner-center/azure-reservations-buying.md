@@ -1,7 +1,7 @@
 ---
 title: 顧客の予約 Microsoft Azure 購入する
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナーセンターで顧客の代理として Azure の予約を購入または購入する方法について説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure, 予約, 管理, 請求, 購入
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603721"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104113"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure Reservations を購入する
 
@@ -55,10 +55,12 @@ ms.locfileid: "84603721"
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure Reservations を利用できない市場
 
->[!IMPORTANT] 
->次の市場では Azure Reservations を "*利用できません*"。  
+> [!IMPORTANT]
+> 次の市場では Azure Reservations を "**利用できません**"。  
 >  
-> | 利用できない市場 | &nbsp; | &nbsp; |
+> **利用できない市場 (アルファベット順)**
+>
+> |A から Gi へ   | Gr から Pal へ  | Pap から Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | オーランド諸島     | グリーンランド     | パプアニューギニア     |
 > | 米領サモア     | グレナダ     | ピトケアン島     |

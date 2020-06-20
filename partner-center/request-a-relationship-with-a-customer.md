@@ -1,19 +1,19 @@
 ---
 title: 顧客との再販業者関係の要求
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: マルチパートナー、マルチチャネルのシナリオ、または顧客の代理管理者特権を復元する必要がある場合は、顧客との関係を要求します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 529881017969a4d7262086eb6b3f47e77de3f7e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992018"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104094"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>パートナーセンターで顧客から再販業者の関係を要求する方法
 
@@ -56,14 +56,14 @@ ms.locfileid: "84992018"
 
 クラウドソリューションプロバイダーパートナーから再販業者関係の招待を受け入れるためのカスタマーエクスペリエンスは、さまざまな顧客向けポータルでホストされています。 ポータルの場所は、お客様が Microsoft パブリッククラウドまたは国内クラウドのどちらにあるかによって異なります。
 
-|  | 顧客が再販業者関係の招待を受け入れる場所 |
+|クラウドのお客様の種類  | 顧客が再販業者関係の招待を受け入れる場所 |
 |---------|---------
 | パブリック クラウド内の顧客 | Microsoft 365 管理センター |
 | Microsoft Cloud Germany のパートナー センター内の顧客 | Microsoft Office 管理ポータル |
 | Microsoft Cloud for US Government のパートナー センター内の顧客 | Microsoft Office 管理ポータル |
 |
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [サポート連絡先の指定](assign-support-contacts.md)
 

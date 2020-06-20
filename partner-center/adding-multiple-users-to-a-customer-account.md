@@ -1,7 +1,7 @@
 ---
 title: 顧客アカウントに複数のユーザーを追加する
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客のアカウントに複数のユーザーを一度に追加する方法について説明します。 コンマ区切り値 (.csv) ファイル形式を使用して、パートナーセンターにデータファイルをアップロードします。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 一括アップロード, 顧客アカウントへの複数ユーザーの追加, 顧客のユーザーの追加, 顧客のユーザーの一括アップロード, 顧客アカウント, 顧客のユーザー, ユーザー
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09bb83b82cf1db78a54af9bab98a5cbdaa00c0d9
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 44e8da91a622fe640e9e41f8d8d464a61652ef30
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991080"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104122"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>顧客アカウントに複数のユーザーを追加する-パートナーセンターにデータファイルをアップロードする
 
@@ -41,13 +41,12 @@ ms.locfileid: "84991080"
 
 データ ファイルに、次のデータを入力します。
 
-|                 |                                                                              |                                            |
-|-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **列名** | **説明**                                                              | **制限事項**                             |
-| 名      | ユーザーの名 (オプションフィールド)                                           | 50 字以内                         |
-| 姓       | ユーザーの姓 (省略可能なフィールド)                                            | 50 字以内                         |
+| **列名** | **説明**  | **制限事項**  |
+|:-------- |:------  |:----- |
+| 名  | ユーザーの名 (オプションフィールド)  | 50 字以内  |
+| 姓  | ユーザーの姓 (省略可能なフィールド)  | 50 字以内  |
 | 表示名    | パートナー センターで表示される名前 (必須フィールド)                            | 50 字以内                         |
-| 電子メール           | 顧客会社のユーザーの勤務先の電子メールアドレス (必須フィールド)           | 各ユーザーに一意の電子メール アドレスが必要 |
+| 電子メール   | 顧客会社のユーザーの勤務先の電子メールアドレス (必須フィールド)           | 各ユーザーに一意の電子メール アドレスが必要 |
 | 状態の更新   | 新しいユーザー レコードが正常に作成されたかどうかを示すために使用される | \*\*空白のままにする\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>複数のユーザー アカウントを作成するには
