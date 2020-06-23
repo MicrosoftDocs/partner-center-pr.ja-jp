@@ -10,15 +10,13 @@ ms.author: labrenne
 keywords: Azure, サブスクリプション, VM, 予約, 予約インスタンス
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908279"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198630"
 ---
-<!-- Mike Aasen wrote and owns this topic -->
-
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) と顧客向けのサーバーサブスクリプションの取得、プロビジョニング、& 管理
 
 適用対象:
@@ -85,7 +83,7 @@ Azure Reservations を利用すると、開発、テスト、アプリケーシ�
 
 - Azure VMware Solution by CloudSimple
 
-## <a name="getting-started"></a>作業の開始
+## <a name="getting-started"></a>はじめに
 
 Azure Reservations を顧客と共に配置し、可能な限り迅速に運用を開始する方法を理解するために、次の方法で準備資料を確認することをお勧めします。
 
@@ -133,7 +131,7 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 
 その他の便利なトレーニングには、[パートナー大学の Azure ライセンスモジュール](https://aka.ms/azure_partner_licensing)が含まれています。
 
-### <a name="operations"></a>操作
+### <a name="operations"></a>Operations
 
 - [最新のコマース運用ガイド](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)(更新済み): 契約書、パートナーセンターからの注文、請求書、価格表の詳細、インセンティブ、調整ファイル、API/SDK、サンドボックス、Azure Partner Shared Services などの主要なポリシーと運用面を網羅した包括的なガイドです。
 - [モダン オファーの提供国と顧客の通貨の対応表](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)

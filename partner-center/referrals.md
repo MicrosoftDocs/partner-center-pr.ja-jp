@@ -1,7 +1,7 @@
 ---
 title: Microsoft の紹介を利用してビジネスを拡大
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ビジネスプロファイルを作成して、パートナーセンターの紹介機能を通じて販売潜在顧客を生成し、これらの紹介に応答する方法について説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 紹介, ビジネス プロファイル, パートナーの検索
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 29da0311dac14a4060e2adf6feeb3ce1e721bd37
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467442"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198620"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -32,7 +32,3 @@ Microsoft では、ソリューションと専門分野に応じてパートナ�
  ビジネス プロファイルを公開すると、パートナー センターの紹介機能から営業リードが送られてくるようになります。 見込み情報を継続的に受信するには、決められた期限内に紹介案件に対応する必要があります。さらに重要になるのが、案件を獲得することです。 パートナー センターで営業リードを管理する方法については、「[紹介案件への対応](responding-to-referrals.md)」をご覧ください。  
 
 開始するには、この[ビジネス プロファイルの最適化](https://player.vimeo.com/video/252788046)に関する短いビデオをご覧ください。  
-
-<!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
--->
