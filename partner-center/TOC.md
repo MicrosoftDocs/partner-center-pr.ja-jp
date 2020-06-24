@@ -190,8 +190,9 @@
 ### [Kaizala Pro サブスクリプションを Microsoft 365 に移行する](migrate-kaizala-pro-partner.md)
 
 # パートナー センターのデータと分析
-## [ビジネス データの取得と分析](data-analysis-lp.md)
-## [Microsoft Power BI 用パートナー分析アプリ](power-bi-app-for-direct-partners.md)
+## [ユーザー データと分析へのアクセスを取得する](data-analysis-lp.md)
+## [Microsoft Power BI 用パートナー センター分析アプリを使用する](power-bi-app-for-direct-partners.md)
+## [Microsoft Power BI 用パートナー センター分析アプリの使用](power-bi-app-for-direct-partners.md)
 ## [パートナー センター インサイト](partner-center-insights.md)
 ### [Insights - 概要ダッシュボード](pci-overview-report.md)
 ### [Insights - Insights ダッシュボードへのロールベースのアクセス制御](pci-roles.md)
@@ -236,7 +237,6 @@
 ## [概要](partner-security-requirements.md)
 ## [パートナー テナントに MFA を義務付ける](partner-security-requirements-mandating-mfa.md) 
 ## [要件の状態](partner-security-compliance.md)
+## [パートナーのセキュリティ要件を実装する](implement-security-requirements.md)
 ## [よく寄せられる質問](partner-security-requirements-faq.md)
 
-# チュートリアル
-## [パートナー セキュリティ要件を実装する](tutorials/partner-security-requirements.yml)
