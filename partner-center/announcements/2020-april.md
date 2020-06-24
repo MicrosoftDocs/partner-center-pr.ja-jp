@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: bfc1f89aee3a9231d3c65467a330d45c93fef904
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254039"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749123"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月のお知らせ
 
@@ -191,7 +191,8 @@ _________________
 
 信頼できる Microsoft のエコシステムを運営するために、パートナーとしてご協力、ご尽力くださり、ありがとうございます。
 
-注: ベースライン ポリシーを使用しており、セキュリティの既定値群ポリシーまたは[他の MFA 実装オプション](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)に移行していない場合は、[こちらのキー リソース](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)を参照して、できるだけ早く移行してください。
+>[!NOTE] 
+>ベースライン ポリシーを使用しており、セキュリティの既定値群ポリシーまたは[他の MFA 実装オプション](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)に移行していない場合は、[こちらのキー リソース](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)を参照して、できるだけ早く移行してください。
 
 ### <a name="change-log"></a>変更ログ
 
@@ -543,7 +544,7 @@ Microsoft は、2020 年 4 月 1 日に追加の Dynamics 365 製品をリリー
 ### <a name="robotic-process-automation"></a>ロボティック プロセス オートメーション
 
 2020 年 5 月 1 日に、Microsoft は新しい RPA オファーを教育プログラムでも利用できるように拡張する予定です。
-CSP の認定教育パートナー プログラムの変更の詳細については、[こちら](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)をクリックしてください。 注記:これは、パートナー センターの既存のコレクションへのリンクです)。
+CSP の認定教育パートナー プログラムの変更の詳細については、[こちら](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)をクリックしてください。 これは、パートナー センターの既存のコレクションへのリンクです)。
 
 新しい SKU の情報については、関連ダウンロードのセクションにある[こちら](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)のページに添付された「**Dynamics CSP Offer Updates-May 2020**」というファイルをご確認ください。
 

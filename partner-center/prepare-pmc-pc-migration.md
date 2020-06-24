@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6e188bbd86b066152f90be90d92abb2539f38b3
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328313"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749165"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Partner Membership Center (PMC) からパートナー センターへの移行を準備する
 
@@ -55,7 +55,7 @@ CSP アカウントまたは MPN の勤務先の電子メール アカウント�
 
 **ユーザーが PMC からパートナー センターに移行すると、そのユーザーのロールはどうなりますか?**
 
-MPN グローバル管理者、または移行を実行するプライマリ プログラムの連絡先を除き、PMC のすべてのユーザーがその管理者ロールを失います。 移行を完了する個人は、パートナー センターでロールを割り当てる必要があります。 パートナー センターのロールは PMC のロールとは異なります。 パートナー センターのユーザー ロールの詳細については、[ユーザー ロールとアクセス許可の割り当て]\(permissions-overview.md) および「[PMC からパートナー センターに移動する](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)」を参照してください。
+MPN グローバル管理者、または移行を実行するプライマリ プログラムの連絡先を除き、PMC のすべてのユーザーがその管理者ロールを失います。 移行を完了する個人は、パートナー センターでロールを割り当てる必要があります。 パートナー センターのロールは PMC のロールとは異なります。 パートナー センターのユーザー ロールの詳細については、[ユーザー ロールとアクセス許可の割り当て](permissions-overview.md) および「[PMC からパートナー センターに移動する](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)」を参照してください。
 
 
 **会社プロファイルとビジネス プロファイルの違いは何ですか?**
@@ -91,7 +91,7 @@ Azure AD テナントが既存のパートナー センター アカウントに
 
 **Microsoft は、ユーザーの代わりに MPN メンバーシップを移行できますか?**
 
-いいえ。 Microsoft は、ユーザーのメンバーシップ アカウントのパートナー センターへの移行を支援できません。 アカウントを移行するには、職場アカウント (サインイン資格情報) で PMC にサインインして移行プロセスを開始する必要があります。 アカウントを移行する手順を完了したら、メンバーシップの管理を開始し、チームのメンバーが特典にアクセスしたり、メンバーシップを管理したりできるように、ユーザー ロールとアクセス許可をチームに割り当てることができます。 Microsoft は、現在のコンピテンシー、特典、場所情報、インセンティブのための銀行/税金情報、Partner University へのアクセスを含む MCP の関連付けを自動的に移行します。
+いいえ。 Microsoft は、ユーザーのメンバーシップ アカウントのパートナー センターへの移行を支援できません。 アカウントを移行するには、職場アカウント (サインイン資格情報) で PMC にサインインして移行プロセスを開始する必要があります。 アカウントを移行する手順を完了したら、メンバーシップの管理を開始し、チームのメンバーが特典にアクセスしたり、メンバーシップを管理したりできるように、ユーザー ロールとアクセス許可をチームに割り当てることができます。 
 
 Microsoft は、現在のコンピテンシー、特典、場所情報、インセンティブのための銀行/税金情報、Partner University へのアクセスを含む MCP の関連付けを自動的に移行します。
 
