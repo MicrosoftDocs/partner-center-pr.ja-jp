@@ -1,7 +1,7 @@
 ---
 title: 顧客の管理特権の取得
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客のサービスまたはサブスクリプションを代理で管理するために必要なアクセス許可を取得します。 アクセス許可の付与、取り消し、管理を行う方法について説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 keywords: 委任された管理特権, 代理の管理, 特権の削除, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84466782"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198600"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を取得する
 
@@ -98,8 +98,6 @@ ms.locfileid: "84466782"
 - 顧客が Office 365 ポータルを使用してパートナーから代理管理特権を削除した場合、パートナーが引き続きサブスクリプションの下の 1 つ以上のロールに割り当てられている限り、そのパートナーは引き続き顧客の Azure サブスクリプションを管理できます。 パートナーによる Azure サブスクリプションの管理を停止するには、顧客はロールの割り当てを削除する必要があります。
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
-
-<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
 CSP パートナーは、パートナー センターから、このような状況で委任された管理者特権がなくても、顧客に対する Autopilot プロファイルを管理できます。 
 

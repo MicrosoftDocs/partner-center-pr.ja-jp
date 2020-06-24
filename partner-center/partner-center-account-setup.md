@@ -1,21 +1,20 @@
 ---
 title: パートナー センター アカウントの管理
+description: パートナー センターで、会社のプロファイル、カタログ、銀行と税金に関する情報、ロール、アクセス許可などを管理する方法について説明します。
 ms.topic: article
-ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナー センターで、会社のプロファイル、カタログ、銀行と税金に関する情報、ロール、アクセス許可などを管理する方法について説明します。
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3caa27caf5308586fb26327bd38ece73e74685f
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/02/2020
+ms.openlocfilehash: cc7d4ef6e8e47e53a6a24b8b90299e7faa679635
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453219"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908780"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>パートナー センター アカウントの管理 - 会社のプロファイル、銀行に関する情報、ロール、アクセス許可など
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Partner Network メンバーシップ特典
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Action Pack、コンピテンシー、プログラム オプションなど、市場への投入やソリューションの販売のための Microsoft とのパートナーシップの特典について説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d71f5b315d8c7497febfae662ac8050280a10ea6
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795948"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198610"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Microsoft との連携 - 特典の活用、顧客を支援する方法、ビジネスの成長を促進する方法
 
@@ -32,8 +32,6 @@ ms.locfileid: "83795948"
 
 ## <a name="join-the-microsoft-partner-network"></a>Microsoft Partner Network に参加する
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/membership)-->
-
 Microsoft Partner Network では、業界で最も広範囲の製品と、パートナーのビジネスの差別化、市場への投入、ソリューションの販売のためのプログラム オプションが提供されています。 コストをかけずに参加した後、Microsoft アクション パック、スタート キット、またはコンピテンシーでパートナーシップに投資する方法を選択します。
 
 アクション パックまたはスタート キットでは Microsoft ベースのソリューションを構築するためのソフトウェアとサポートが提供され、コンピテンシーではパートナーの実証済みの専門知識が顧客や他のパートナーに示されます。
@@ -45,8 +43,6 @@ Microsoft Partner Network (MPN) について詳しくは、[MPN の Web サイ�
 Microsoft Partner Network に参加するには、MPN Web サイトの [ **[メンバーシップ]** ページ](https://partner.microsoft.com/membership)に移動し、 **[登録]** または **[今すぐ参加]** を選択します。
 
 ## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Microsoft Partner Network メンバーシップを使いこなす
-
-<!-- 10/25/2019 The content below content from the Membership pages of the MPN site (https://partner.microsoft.com/membership) and additional updated content.-->
 
 パートナー様がビジネス目標を達成したときは、独自のニーズに適したレベルでプログラムにご参加ください。さらに多くの特典を利用し、Microsoft やネットワーク内の他のパートナーとの関係を構築することができます。
 
