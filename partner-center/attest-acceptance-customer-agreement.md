@@ -1,7 +1,7 @@
 ---
 title: Microsoft 顧客契約に対する顧客の同意を証明する
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナーが顧客に代わって Microsoft 顧客契約に対する同意を証明することが必要になる場合について説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート, 同意の証明
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452719"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909020"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>顧客に代わって Microsoft 顧客契約の同意を証明する
 
@@ -46,7 +46,7 @@ ms.locfileid: "84452719"
 
 **解決策**:パートナーが顧客に代わって証明する必要があります。
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="顧客":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Microsoft 365 管理センターのページのスクリーンショット。Microsoft 顧客契約への同意を確認するためにパートナーに連絡するよう求められています。":::
 
 **シナリオ 2**:既存の顧客が、次のうちいずれかを購入したことがある: プラン、ソフトウェアまたはソフトウェア サブスクリプション、予約インスタンス、Azure プラン。 顧客が新しいパートナーを通じて新たな購入を行おうとしている。
 
@@ -54,4 +54,4 @@ ms.locfileid: "84452719"
 
 **解決策**:パートナーが顧客に代わって証明する必要があります。  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="顧客":::
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="[Authorize]\(承認\) オプションが選択できるようになっている [Authorize partner]\(パートナーの承認\) ページのスクリーンショット。特定のパートナーの詳細、その関係、その管理者ロールが表示されています。":::

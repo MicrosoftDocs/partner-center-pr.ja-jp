@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0e318ccc7ea2ff3fa0d50fbc1514682ca9566a5
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 203afa3fd238222e902a06ac3c173876e185f025
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328273"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679275"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
 
@@ -208,11 +208,17 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>セキュリティで保護されたアプリケーション モデルは、Partner Center API/SDK に対してのみ実装する必要がありますか?
 
-すべてのユーザー アカウントに対して多要素認証を適用すると、非対話形式での実行を目的とした自動化または統合が影響を受けます。 パートナーのセキュリティ要件では、パートナーは Partner Center API に対してセキュリティで保護されたアプリケーション モデルを有効にする必要がありますが、それを利用して自動化と統合で認証の 2 番目の要素の必要性に対処することができます。 アクセス対象のリソースでは、アクセス トークン ベースの認証がサポートされている必要があることに注意してください。
+すべてのユーザー アカウントに対して多要素認証を適用すると、非対話形式での実行を目的とした自動化または統合が影響を受けます。 パートナーのセキュリティ要件では、パートナーは Partner Center API に対してセキュリティで保護されたアプリケーション モデルを有効にする必要がありますが、それを利用して自動化と統合で認証の 2 番目の要素の必要性に対処することができます。 
+
+>[!Note] 
+>アクセス対象のリソースでは、アクセス トークン ベースの認証がサポートされている必要があります。
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>PowerShell などの自動化ツールを使用しています。 セキュリティで保護されたアプリケーション モデルを実装するにはどうすればよいですか?
 
-自動化が、非対話形式で実行され、認証にユーザー資格情報を使用するためである場合は、セキュア アプリケーション モデルを実装する必要があります。 このフレームワークを実装する方法については、[Partner Center PowerShell のセキュリティで保護されたアプリケーション モデル](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5)に関する記事をご覧ください。  すべての自動化ツールでアクセス トークンを使用して認証を行う機能が提供されているわけではないことに注意してください。 どのような変更が必要であるかを理解する上で支援が必要な場合は、[パートナー センター セキュリティ ガイダンス](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) グループにメッセージを投稿してください。 
+自動化が、非対話形式で実行され、認証にユーザー資格情報を使用するためである場合は、セキュア アプリケーション モデルを実装する必要があります。 このフレームワークを実装する方法については、[Partner Center PowerShell のセキュリティで保護されたアプリケーション モデル](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5)に関する記事をご覧ください。  
+
+>[!Note] 
+>すべての自動化ツールでアクセス トークンを使用して認証を行う機能が提供されているわけではありません。 どのような変更が必要であるかを理解する上で支援が必要な場合は、[パートナー センター セキュリティ ガイダンス](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) グループにメッセージを投稿してください。 
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>同意プロセスを実行するとき、アプリケーション管理者はどのようなユーザー資格情報を提供する必要がありますか?
 
@@ -238,7 +244,9 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 パートナー センターに登録して、使用するアプリケーションを登録すると、Partner Center API にアクセスできるようになります。 初めて CPV になった場合は、パートナー センターの通知を通じてサンドボックスの情報を受け取ります。 Microsoft CPV として登録を完了し、CPV 契約に同意すると、次のことができるようになります。
 
-1. マルチテナント アプリケーションを管理する (Azure portal へのアプリケーションの追加、パートナー センターでのアプリケーションの登録と登録解除)。 注: CPV は、Partner Center API の承認を取得するには、パートナー センターでアプリケーションを登録する必要があります。 Azure portal にアプリケーションを追加するだけでは、CPV アプリケーションはパートナー センター API に対して承認されません。
+1. マルチテナント アプリケーションを管理する (Azure portal へのアプリケーションの追加、パートナー センターでのアプリケーションの登録と登録解除)。 
+     >[!Note] 
+     >CPV は、Partner Center API の承認を取得するには、パートナー センターでアプリケーションを登録する必要があります。 Azure portal にアプリケーションを追加するだけでは、CPV アプリケーションはパートナー センター API に対して承認されません。
 2. CPV プロファイルを表示および管理する。
 3. CPV 機能にアクセスする必要があるユーザーを表示および管理する。 CPV に許される唯一のロールは、グローバル管理者です。
 

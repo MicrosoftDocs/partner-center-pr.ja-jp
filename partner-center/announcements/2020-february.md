@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: fccdb29090effaae9187778a0c243f051613e3c4
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253969"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749139"
 ---
 # <a name="february-2020-announcements"></a>2020 年 2 月のお知らせ
 
@@ -77,7 +77,10 @@ _________________
 
 パートナー様は、パートナー センターのダッシュボードまたは[この新しい API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) により提供される新機能を使用して、新しい契約に同意したかどうかを確認することができます。
 
-2020 年 2 月 1 日現在、Microsoft パブリック クラウドのすべてのリージョンで、CSP プランの新規注文を行う際は、お客様が Microsoft 顧客契約に同意したことをパートナーが確認する必要があります。 CSP パートナーは、お客様が Microsoft 顧客契約に同意していることをこれらのオプションのどちらかを使用して確認しない限り、シートの変更や既存の購入内容の更新を含めて、新しい購入を処理することはできなくなりました。 注: 自動更新は影響を受けません。
+2020 年 2 月 1 日現在、Microsoft パブリック クラウドのすべてのリージョンで、CSP プランの新規注文を行う際は、お客様が Microsoft 顧客契約に同意したことをパートナーが確認する必要があります。 CSP パートナーは、お客様が Microsoft 顧客契約に同意していることをこれらのオプションのどちらかを使用して確認しない限り、シートの変更や既存の購入内容の更新を含めて、新しい購入を処理することはできなくなりました。
+ 
+>[!Note] 
+>自動更新は影響を受けません。
 
 ### <a name="next-steps"></a>次のステップ:
 
@@ -191,7 +194,9 @@ Microsoft のシステムによると、対象者様の組織では現在ベー�
 間接プロバイダー:
 
 - 変更について、Microsoft CSP プログラムのリセラーに通知します ([こちらのメール テンプレートを使用してください](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx))。 現在、リセラーがベースライン ポリシーを使用している場合は、リセラーがセキュリティの既定値群を有効にすることを確認してください。
-- 注: 現在ベースライン ポリシーを使用していて、パートナー センターの連絡先情報を持っているリセラーには、Microsoft からも直接お知らせします。
+
+>[!Note] 
+>現在ベースライン ポリシーを使用していて、パートナー センターの連絡先情報を持っているリセラーには、Microsoft からも直接お知らせします。
 
 パートナーのセキュリティ要件についてご不明な点がある場合は、[こちら](https://aka.ms/security-requirements)からその他のリソースをご覧ください。
 
@@ -274,9 +279,8 @@ CSP プログラムに参加し、Azure プランの従量課金メーターお�
 - パートナーは、新しいエクスペリエンス (Azure プラン) のもとで、サポートされている請求通貨の月ごとの為替レートを取得できます。
 - 当月または以前の月の価格または外国為替レートのいずれかを取得する機能を提供します。
 
-注:
-
-- これは、Azure プランの価格に固有のまったく新しい API リソースです。
+>[!Note] 
+>これは、Azure プランの価格に固有のまったく新しい API リソースです。
 - Azure プランに含まれない以前の Azure サブスクリプションにデプロイされた既存の Azure リソースや予約については、既存の [RateCard API](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) を引き続き使用する必要があります。
 - これらの API は、パートナー センター API とは別のエンド ポイント (その API をホストしているドメイン) に存在します。
 
@@ -345,7 +349,7 @@ _________________
 
 クラウド ソリューション プロバイダー (CSP) プログラムの新しい [Microsoft 顧客契約](https://www.microsoft.com/licensing/docs/customeragreement)が 2019 年 10 月に有効になり、既存の Microsoft Cloud 契約と置き換わりました。 新しいシンプルな顧客契約では、お客様の購入方法を問わず、お客様に一貫した購入条件を提供します。
 
-**2020 年 2 月 1 日より、CSP の直接請求プロバイダーおよび間接プロバイダーは、Microsoft パブリック クラウドでの CSP オファーについて、お客様が Microsoft 顧客契約に同意したことを確認する必要があります。** パートナーは、新しい契約に対するお客様の同意を確認することなく、シート数の変更やその日付以降の既存の購入内容の更新などを含めた、そのお客様に対する新しい購入を処理することはできません (注: 自動更新は影響を受けません)。
+**2020 年 2 月 1 日より、CSP の直接請求プロバイダーおよび間接プロバイダーは、Microsoft パブリック クラウドでの CSP オファーについて、お客様が Microsoft 顧客契約に同意したことを確認する必要があります。** パートナー様は、新しい契約に対するお客様の同意を確認することなく、シート数の変更やその日付以降の既存の購入内容の更新などを含めた、そのお客様に対する新しい購入を処理することはできません (自動更新は影響を受けません)。
 
 パートナーは、既存の Microsoft Cloud 契約時と同じ方法で、新しい契約をお客様に提示することができます。 お客様が契約を確認して同意すると、パートナーはパートナー センターでお客様の同意を確認する必要があります。 新しい契約がサポートされるよう、パートナー センター Web ユーザー インターフェイス、API、.NET SDK が更新されました。
 
@@ -357,10 +361,8 @@ _________________
 - 既存の Microsoft Cloud 契約の API を使用しているパートナーは、[更新された API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) を使用して既存の実装を変更する必要があります。
 - エージェントとリセラーを対象として、[新しい契約条件](https://www.microsoft.com/licensing/docs/customeragreement)の内容について、および新しい契約の提示とお客様の同意の確認についてのトレーニングを実施します。
 
-### <a name="note"></a>注:
-
-- また、2019 年 11 月にリリースされた [Azure の CSP での新しいコマース エクスペリエンス](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)経由で購入するためにも、Microsoft 顧客契約へのお客様の同意が必要です。
-- CY2020 の第 1 四半期には、CSP のパートナーに対してパートナー センターの追加のオプションも表示されるようになります。これにより、パートナーは認証済みの Microsoft ポータル (Microsoft 365 管理センター) にお客様を招待し、お客様が Microsoft 顧客契約を表示して直接署名できるようにすることができます。
+>[!NOTE] 
+>また、2019 年 11 月にリリースされた [Azure の CSP での新しいコマース エクスペリエンス](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)経由で購入するためにも、Microsoft 顧客契約へのお客様の同意が必要です。 CY2020 の第 1 四半期には、CSP のパートナーに対してパートナー センターの追加のオプションも表示されるようになります。これにより、パートナーは認証済みの Microsoft ポータル (Microsoft 365 管理センター) にお客様を招待し、お客様が Microsoft 顧客契約を表示して直接署名できるようにすることができます。
 
 ### <a name="change-log"></a>変更ログ:
 

@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure プランを使用して、1 つまたは複数の Azure サブスクリプションと Azure 予約を購入する方法、リソースを構成する方法、サブスクリプションを表示または追加する方法について説明します。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467522"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909130"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>顧客向けの Azure プランを購入して、従量課金制料金で最新の Azure サービスにアクセスする
 
@@ -78,7 +77,8 @@ Azure Reservations をアクティブな Azure プランに関連付ける必要
 >[!Important] 
 >顧客がまだアクティブな Azure プランを持っていない場合は、ここで [Azure] を選択して追加します。 詳細については、「[Azure Reservations を購入する](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)」を参照してください。
 
-現時点では、予約のスコープに設定できるのは **[共有]** のみであることに注意してください。 
+>[!Note] 
+>現時点では、予約のスコープに設定できるのは **[共有]** のみです。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共有スコープの予約設定":::
 

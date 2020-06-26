@@ -1,7 +1,7 @@
 ---
 title: パートナー アカウントで場所を管理する
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで、新しい場所を追加する方法や、所在地 MPN ID がインセンティブ プログラム、CSP ビジネス、サブスクリプションなどのトランザクションでどのように使用されるかについて説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: パートナー アカウント, 場所
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 943299cc4c68a6252c69a96204ef6001b89eda09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453209"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909060"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>パートナー センターでのパートナー アカウントの場所の管理と新しい場所の追加
 
@@ -54,12 +54,12 @@ ms.locfileid: "84453209"
 
 1. **[場所]** ページで場所の一覧を確認して、法人にしようとしている場所が一覧表示されていることを確認します。 ない場合は、追加します。
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="事業拠点を更新する":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="現在のすべての場所の一覧が表示されている、パートナー センターのアカウントの場所ページのスクリーンショット。":::
 
 2. **[パートナー プロファイル]** を選択してから、 **[Update legal business profile] (法的ビジネス プロファイルの更新)** を選択します。
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="事業拠点を更新する":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="パートナー センターのアカウント パートナー プロファイル情報を示すスクリーンショット。[更新] オプションが選択可能になっています。":::
 
 3. 地域と法人を選択し、その **[送信]** を実行します。
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="事業拠点を更新する":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="パートナーの法的ビジネス プロファイルを更新する画面のスクリーンショット。国または地域と法人を更新するためのドロップダウン リストが表示されています。":::

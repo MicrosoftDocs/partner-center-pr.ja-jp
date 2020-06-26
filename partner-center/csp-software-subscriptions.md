@@ -1,7 +1,7 @@
 ---
 title: CSP によるソフトウェア サブスクリプションの販売
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムのパートナーがパートナー センターを使用して、顧客に代わって Azure 予約インスタンスとサーバー サブスクリプションの購入、管理、販売、および取り消しを行う方法について説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Azure RI, Windows Server, SQL Server, ソフトウェア サブスクリプション, ソフトウェアの取り消し
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 46d64a72ded1e9b165a84ede50c0baf695a816b7
+ms.sourcegitcommit: 11325c74d0c41316fb143beda603177241403b8c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907951"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "85267189"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>クラウド ソリューション プロバイダー (CSP) プログラムによりソフトウェア サブスクリプションを販売する
 
@@ -28,7 +28,7 @@ ms.locfileid: "82907951"
 - 管理エージェント
 - グローバル管理者
 
-Azure 予約とサーバー サブスクリプション (Windows Server および SQL Server サブスクリプション) を使用すると、CSP プログラムのパートナーは、予測可能性と永続性がきわめて高いクラウド ワークロードをコスト効率に優れたソリューションでサポートしたいという顧客の強い要望に適切に応えることができます。 
+Azure 予約とサーバー サブスクリプション (Windows Server および SQL Server サブスクリプション) を使用すると、CSP プログラムのパートナーは、予測可能性と永続性の高いクラウド ワークロードを、よりコスト効率の優れたソリューションでサポートしたいという顧客の需要の急速な高まりに一層十分に応えられます。 
 
 Azure ハイブリッド特典を活用することで、パートナー センターや Azure portal から、企業顧客に代わって Azure 予約とサーバー サブスクリプションを取得、プロビジョニング、および管理できるようになりました。
 
@@ -36,10 +36,12 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure Reservations を利用できない市場
 
->[!IMPORTANT] 
->次の市場では Azure Reservations を "*利用できません*"。  
+>[!IMPORTANT]
+>次の市場では Azure Reservations を "**利用できません**"。  
 >  
-> | 利用できない市場 | &nbsp; | &nbsp; |
+> **利用できない市場 (アルファベット順)**
+>
+> |A から Gi   | Gr から Pal  | Pap から Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | オーランド諸島     | グリーンランド     | パプアニューギニア     |
 > | 米領サモア     | グレナダ     | ピトケアン島     |
@@ -78,8 +80,6 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 > | ガボン     | ノーフォーク島     | イエメン   |
 > | ガンビア     | 北マリアナ諸島     |    |
 > | ジブラルタル     | パラオ       |    |
-<!--Nov 30, 2019 - this list of countries was correct as of today.
--->
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>顧客に代わってソフトウェア サブスクリプションを購入する
 
@@ -114,6 +114,10 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 
 >[!NOTE]
 >このリンクは、2 週間後または 50 回のダウンロードのどちらか早い方のタイミングで期限切れになります。 リンクが期限切れになった場合は、このページに戻り、 **[キーとダウンロードの取得]** をもう一度選択して、2 週間または 50 回のダウンロードを再び有効にします。 この操作は、必要な回数だけ行うことができます。 
+
+## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Microsoft 365 管理センターで顧客向けに使用できるサーバー サブスクリプションのダウンロードとライセンス キー 
+
+顧客は CSP サーバー サブスクリプションのライセンス キーとダウンロードを Microsoft 365 管理センターから入手できます。 CSP サーバー サブスクリプションのライセンス キーとダウンロードを確認するには、顧客は、Microsoft 365 管理センターにアクセスして、 **[請求] > 自分の製品 > [ソフトウェア] タブ**に移動する必要があります。詳細については、[[請求] の下の [ソフトウェア] タブ](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions)をご覧ください。  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>ソフトウェア キーへのアクセスとソフトウェアのダウンロードに関するアクティビティを表示する
 
@@ -173,7 +177,9 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 - Microsoft で取り消し要求に関する情報がさらに必要な場合、**カスタマー サポート要求** フォームへのリンクが表示されることがあります。
 
 >[!IMPORTANT]
->注文の取り消しが終わると、取り消しを確認するメッセージが表示されます。 ただし、取り消しがパートナー センター ダッシュボードに表示されるまで、最大 15 分の遅延が発生する場合があります。 また、次の取り消し後の詳細情報にもご注意ください。
+>注文の取り消しが終わると、取り消しを確認するメッセージが表示されます。 ただし、取り消しがパートナー センター ダッシュボードに表示されるまで、最大 15 分の遅延が発生する場合があります。 
+
+### <a name="post-cancellation-details"></a>取り消した後の詳細
 
 購入を取り消した後は、次のようになります。
 
@@ -187,9 +193,9 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 
 パートナー センターからソフトウェアの購入の取り消しを試みたが、詳細な情報の提供と、カスタマー サポート要求フォームへの記入を指示された場合は、次の手順が役立つことがあります。
 
-1. 購入の取り消しウィンドウから **[customer support request]** (カスタマー サポート要求) リンクを選択すると、[パートナー センターに関する問題を報告する] ページが開きます。
+1. [購入を取り消す] ウィンドウから **[customer support request]\(カスタマー サポート要求\)** リンクを選択すると、 **[パートナー センターに関する問題を報告する]** ページが開きます。
 
-2. [詳細] の [問題の種類] の一覧で、 **[お客様に代わって CSP を購入/払い戻し]** を選択します。
+2. **[詳細]** の [問題の種類] の一覧で、 **[お客様に代わって CSP を購入/払い戻し]** を選択します。
 
 3. [影響] および [タイトル] フィールドに入力します。
 
@@ -208,3 +214,9 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 6. 何らかの理由でファイルを添付する必要がある場合は、 **[ファイルの追加]** を選択します。 この手順は省略可能です。
 
 7. 終了したら、 **[送信]** を選択します。
+
+## <a name="next-steps"></a>次の手順
+
+- [パートナー センターを使用して、コマーシャル マーケットプレース製品のサブスクリプションを顧客に販売する](sell-marketplace-products.md)
+ 
+- [パートナー センターで顧客に Azure サブスクリプションを割り当てる](assign-azure-subscriptions.md)

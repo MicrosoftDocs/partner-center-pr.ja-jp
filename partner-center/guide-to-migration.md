@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 773466a1c7bfb8a091be11f8e825dae6cc90b765
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453239"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679089"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC からパートナー センターに移行するためのガイド
 
@@ -27,7 +27,7 @@ Microsoft パートナーの Web サイト (partner.microsoft.com) は、パー�
 
 パートナー メンバーシップ センター (PMC) は使用停止となります。 お客様の会社は、Microsoft Partner Network メンバーシップ管理からパートナー センターに移行するように招待されています。 このガイドでは、PMC からパートナー センターに移行する際に予想されることに対して準備を行います。
 
->[!Note]
+>[!NOTE]
 >会社に複数のアカウントまたは場所がある場合でも、パートナー センターへの移行は、1 つの (お客様の最初の) アカウントをパートナー センターに移行することから開始されます。
 
 ## <a name="get-started"></a>開始
@@ -51,7 +51,7 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 
 会社に勤務先メール アドレスと AAD テナントがない場合は、パートナー センターのサインイン プロセス中に設定できます。 個人用アカウントなど、勤務先メール アドレス以外のメール アカウントを使用してサインインしようとすると、AAD テナントと勤務先メール アドレスを設定できるように、会社に関する情報を提供するように指示されます。 これらの会社の詳細は、パートナー センターでアカウントを完成させるために使用されるため、正確に入力してください。
 
->[!Note]
+>[!NOTE]
 >中国内のパートナーであり、Microsoft Partner Network とクラウド ソリューション プロバイダー (CSP) プログラムの両方に登録されている場合は、アカウントごとに個別のテナントが作成されます。 クラウド ソリューション プロバイダー プログラムのアカウントは国内クラウドで管理され、Microsoft Partner Network アカウントはグローバル クラウドで管理されます。 これらの 2 つのアカウントをリンクすることはできません。
 
 :::image type="content" source="images/migration/newtellusabout.png" alt-text="あなたの会社について教えてください":::
@@ -74,11 +74,16 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 
 :::image type="content" source="images/migration/invite.png" alt-text="従業員を招待する":::
 
-既存の AAD テナントを使用してサインインした場合は、従業員も一緒に移動されます。 この場合は、パートナー センターで何ができるかを決定するために従業員のロールを割り当てます。 注: パートナー センターのロールは、PMC のロールとは異なります。 詳細については、「[Moving from PMC to Partner Center](move-pmc-pc-map.md)」(PMC から Partner Center への移行) を参照してください。
+既存の AAD テナントを使用してサインインした場合は、従業員も一緒に移動されます。 この場合は、パートナー センターで何ができるかを決定するために従業員のロールを割り当てます。 
+
+>[!NOTE] 
+>パートナー センターのロールは、PMC のロールとは異なります。 詳細については、「[Moving from PMC to Partner Center](move-pmc-pc-map.md)」(PMC から Partner Center への移行) を参照してください。
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>ドメインを確認し、全体管理者になる  
 
-AAD テナントが新しい場合は、全体管理者のロールが誰にも割り当てられていません。全体管理者になるには、ドメインの所有権を確認する必要があります。 そのためには、ドメイン管理者によるサポートが必要になることがあります。 購入済みのプランを使用することはできますが、全体管理者になるための手順を完了するまで、新しいプランを購入することはできません。
+AAD テナントが新しい場合は、全体管理者のロールが誰にも割り当てられていません。全体管理者になるには、ドメインの所有権を確認する必要があります。 そのためには、ドメイン管理者によるサポートが必要になることがあります。
+
+購入済みのプランを使用することはできますが、全体管理者を割り当てるための手順を完了するまでは、新しいプランを購入することができません。
 
 :::image type="content" source="images/migration/takecontrol.png" alt-text="管理する":::
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0d89c625375c203fe77556c47b6061faa293e1b0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453269"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679109"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP パートナー プログラムで Microsoft 顧客契約への顧客の同意を確認する
 
@@ -128,7 +128,10 @@ ms.locfileid: "84453269"
 
 3. **[顧客契約]** で、最初のオプション **[Customer will be asked to accept the Microsoft Customer Agreement in Microsoft 365 Admin Center]\(顧客は Microsoft 365 管理センターで Microsoft 顧客契約に同意するように求められます\)** を選択します。 ページの他の必須フィールドをすべて入力します。
 
-4. **[次へ: 確認]** を選択し、顧客のテナントを作成する手順を続行します。 (注:新規の顧客は、Microsoft 顧客契約に同意するまで新しい購入を行うことはできません。)  
+4. **[次へ: 確認]** を選択し、顧客のテナントを作成する手順を続行します。 
+
+>[!NOTE] 
+>新規の顧客は、Microsoft 顧客契約に同意するまで新しい購入を行うことはできません。  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="新規の顧客を作成する":::
 

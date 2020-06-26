@@ -3,20 +3,20 @@ title: パートナー プロファイルを確認する
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 主要連絡先、住所、プログラム情報など、ご自身の会社の詳細情報を確認する方法について説明します。 また、法的住所や請求先住所を更新することもできます。
-ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 03/23/2020
-ms.openlocfilehash: 5b0cc51ea3ab7e8984876f9d638c4af6e7213abe
-ms.sourcegitcommit: c1d93605a87ecdbeedc98c7fbb9c428752c5cbd7
+ms.date: 06/05/2020
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "82595388"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991977"
 ---
-# <a name="verify-your-partner-profile-information"></a>パートナー プロファイルの情報を確認する
+# <a name="verify-your-partner-profile-information-in-partner-center"></a>パートナー センターで、パートナー プロファイルの情報を確認する
 
 グローバル管理者として初めてパートナー センターにサインインするときは、ご自身の会社の詳細情報がすべて正しいことを確認する必要があります。 これには、主要連絡先、会社の正式名称と住所、プログラム情報などがあります。 会社が複数の場所に存在する場合は、場所のデータが正しいことを確認します。 全体管理者、課金管理者、または管理エージェントとして、自分の請求および税金情報を表示し、更新することもできます。
 

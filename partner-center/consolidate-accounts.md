@@ -1,21 +1,20 @@
 ---
 title: 会社のアカウントを統合する
+description: Partner Membership Center (PMC) アカウントをパートナー センターの 1 つのアカウントに統合する方法について説明します。 PMC からパートナー センターへの移行に適用されます。
 ms.topic: article
-ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Partner Membership Center (PMC) アカウントをパートナー センターの 1 つのアカウントに統合する方法について説明します。 PMC からパートナー センターへの移行に適用されます。
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/05/2020
+ms.openlocfilehash: a1b92f296b572d8317437519e9472972b6e5aba4
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908144"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908660"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>PMC からパートナー センターに移行する際に会社のアカウントを統合する
 
@@ -40,10 +39,9 @@ PMC に、会社は多数のアカウントと場所を所有していた可能�
 
 5. アカウントの統合後は、より多くのコンピテンシーに適格となる可能性があります。 また、他のインセンティブ プログラムの対象となる場合もあります。
 
-
 ## <a name="what-happens-during-consolidation-of-accounts"></a>アカウント統合の際の動作
 
-- 会社の詳細画面上の詳細を変更することはできません。 これらの詳細は、パートナー グローバル アカウント用のものです。 
+- 会社の詳細画面上の詳細を変更することはできません。 これらの詳細は、パートナー グローバル アカウント用のものです。
 
 - PMC でのアカウントは、パートナー グローバル アカウントに統合されます。
 
@@ -64,4 +62,3 @@ PMC では、場所ごとに独自のコンピテンシー、独自の MAP、お
 パートナー センターでは、すべての場所アカウントが 1 つのグローバル アカウントに統合されます。 つまり、市場投入オファー、プログラム、およびコンピテンシーもすべて統合されます。 追加の特典ツールキット (ABTK) は使用できません。 ただし、マーケティング リソース、オファー、プログラム、およびコンピテンシーの配分は、会社で必要があれば、整理することができます。 統合すると、拡張機能が提供されます。 この拡張機能により、会社では PMC で使用していたマーケティング リソース、オファー、およびプログラムを 1 年延長してご利用いただけます。
 
 PMC とパートナー センターの違いの詳細については、[PMC からパートナー センターへの移行](guide-to-migration.md)に関する記事をご覧ください。
-

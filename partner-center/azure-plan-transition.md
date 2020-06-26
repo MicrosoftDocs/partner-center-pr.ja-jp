@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/04/2020
-ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/16/2020
+ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452589"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908960"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>顧客を既存の CSP Azure プランから Azure プランに移行する
 
@@ -41,11 +41,11 @@ ms.locfileid: "84452589"
 
 2. **[請求を Azure プランに移行する]** を選択します。
 
-   :::image type="content" source="images/azure/transition1.png" alt-text="移行":::
+   :::image type="content" source="images/azure/transition1.png" alt-text="使用状況に基づいたサブスクリプションのレポート情報を示すスクリーンショット。選択可能な次のオプションが表示されています:[Azure サブスクリプション請求を Azure プランに移行する]。":::
 
 3. **[続行]** を選択します。
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="移行":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="[Transition to Azure plan]\(Azure プランへの移行\) というタイトルのダイアログ ボックス。移行についての説明と、[続行] および [キャンセル] という選択可能な 2 つのオプションが表示されています。":::
 
    顧客は、Azure プランに移行されます。
 
@@ -63,7 +63,7 @@ ms.locfileid: "84452589"
 
 4. 顧客のパートナー センターの **[サブスクリプション]** ページに戻り、顧客の現地通貨を使用して予算制限を更新します。
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="移行":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="パートナー センターの [サブスクリプション] ページの一部分。請求期間の予算制限が現地の通貨で設定されています。":::
 
    >[!NOTE]
    >パートナー センターで設定した予算は、Azure portal には引き継がれません。 Azure portal で、予算とアラートも設定する必要があります。
@@ -77,7 +77,7 @@ ms.locfileid: "84452589"
 
 パートナー センターだけでなく、Azure portal でも移行の進行状況を確認してください。
 
-:::image type="content" source="images/azure/details1.png" alt-text="詳細を表示":::
+:::image type="content" source="images/azure/details1.png" alt-text="サブスクリプションごとに移行の詳細リストが表示されている表のスクリーンショット。サブスクリプション ID、移行日、移行の状態が含まれています。":::
 
 ### <a name="billing-impact-to-partners"></a>パートナーに対する請求の影響
 
@@ -100,7 +100,7 @@ ms.locfileid: "84452589"
 
 移行が完了すると、Azure サブスクリプションは新しい Azure プランの下に移動され、コマース サブスクリプションはこれ以上の使用が報告されないように停止されます。  
 
->[!Note]
+>[!NOTE]
 >CSP で Microsoft Azure (0145P) サブスクリプションを 購入した場合、コマース サブスクリプションと Azure サブスクリプション (権利) の価格は同じになります。 これは、課金所有権の変更または譲渡で価格が異なる場合にのみ発生します。
 
 ### <a name="transition-issues"></a>移行に関する問題
