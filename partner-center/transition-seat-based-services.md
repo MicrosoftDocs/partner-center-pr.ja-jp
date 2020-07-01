@@ -1,20 +1,20 @@
 ---
 title: ライセンスベースのお客様を CSP プログラムに移動する
+description: 他のチャネルまたは別のパートナーのライセンスベースの顧客を、パートナーセンターのクラウドソリューションプロバイダー (CSP) プログラムに移動する方法について説明します。
 ms.topic: article
-ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 他のチャネルまたは別のパートナーのライセンスベースの顧客を、パートナーセンターのクラウドソリューションプロバイダー (CSP) プログラムに移動する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1943c72273db158b9f566024d5d29f0a8aca70ec
-ms.sourcegitcommit: 562535a4b16a8217c1e1945b7663ca3735e1ee27
+ms.date: 06/19/2020
+ms.openlocfilehash: 28f1345033cd474390d9b1b7cf709fd9f9a00311
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85133081"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678934"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>他のチャネル & パートナーから Cloud Solution Provider プログラムにライセンスベースのお客様を移動する
 
@@ -33,7 +33,7 @@ ms.locfileid: "85133081"
 3. お客様は、元のサブスクリプションの有効期限を設定するか、キャンセルすることができます。 ただし、取り消されたサブスクリプションには返金がないため、サブスクリプションが自然な有効期限に近づいてくるまで待機することをお勧めします。
 
 >[!NOTE]
->顧客は、Microsoft 365 (M365) 管理ポータル (たとえば、Microsoft からの月単位または年単位の課金) で購入した場合、クレジットの対象となる可能性があります。 Microsoft から直接購入したサブスクリプションのクレジットは、 **M365 課金サポート**によって処理されます。 [M365 サブスクリプションをキャンセル](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)する方法については、M365 のガイダンスを参照してください。 顧客の管理者特権を委任されている場合は、顧客の代理として M65 のサポートに問い合わせることができます。 それ以外の場合は、お客様に M365 サポートに直接連絡して、資格のあるクレジットとそのクレジットを与える方法を確認してください。 委任された[管理者特権](customers-revoke-admin-privileges)に関する情報を確認します。 
+> 顧客は、Microsoft 365 (M365) 管理ポータル (たとえば、Microsoft からの月単位または年単位の課金) で購入した場合、クレジットの対象となる可能性があります。 Microsoft から直接購入したサブスクリプションのクレジットは、 **M365 課金サポート**によって処理されます。 [M365 サブスクリプションをキャンセル](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)する方法については、M365 のガイダンスを参照してください。 顧客の管理者特権を委任されている場合は、顧客の代理として M65 のサポートに問い合わせることができます。 それ以外の場合は、お客様に M365 サポートに直接連絡して、資格のあるクレジットとそのクレジットを与える方法を確認してください。 委任された[管理者特権](customers-revoke-admin-privileges.md)に関する情報を確認します。 
 
 4. これによりお客様は、使用を中断することなく、パートナー様がプロビジョニングしたサブスクリプションに移行して引き続き使用できます。
 
@@ -42,12 +42,9 @@ ms.locfileid: "85133081"
 提供が中止されたプランのお客様を移行する場合は、データ損失を防ぐために同等のプランを見つける必要があります。 お客様を別のプランに移動する場合は、ライセンスの割り当てを更新する必要があります。
 
 >[!NOTE]
->CSP パートナーであるお客様の所在地は、その顧客をお客様に向けて移行する顧客テナントと同じ地域である必要があります。
+> CSP パートナーであるお客様の所在地は、その顧客をお客様に向けて移行する顧客テナントと同じ地域である必要があります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Azure プランで従量課金制の使用を開始する](azure-plan-get-started.md)
- 
 - [パートナーセンターで他のパートナーと協力するさまざまな方法](work-with-other-partners.md)
-
-
