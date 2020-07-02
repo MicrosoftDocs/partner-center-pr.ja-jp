@@ -44,8 +44,9 @@
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
 ## [CSP の地域市場と通貨](regional-authorization-overview.md)
 ## [CSP の地域承認によるテナント統合の手順](csp-regional-authorization-tenant-consolidation.md)
-## [Microsoft 顧客契約へのお客様の同意を確認する](confirm-customer-agreement.md)
-### [顧客に代わって顧客契約の同意を証明する場合](attest-acceptance-customer-agreement.md)
+## [概要 - Microsoft 顧客契約に対する顧客の同意を確認する新しい方法](confirm-consent.md)
+## [Microsoft 顧客契約に対する顧客の同意を確認する方法](confirm-customer-agreement.md)
+## [顧客に代わって顧客契約の同意を証明する場合](attest-acceptance-customer-agreement.md)
 
 ## [ナショナル クラウドでの販売の申請](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
@@ -94,12 +95,25 @@
 ### [案件の登録](register-deals.md)
 ### [紹介の分析情報を取得する](referral-insights.md)
 ### [ビジネス プロファイルの分析](analyze-your-marketing-profile.md)
-## [インセンティブの申請](claims-overview.md)
-### [インセンティブの申請の作成と管理](create-incentives-claims.md)
-### [インセンティブの申請の主要な要件](core-requirements.md)
-### [インセンティブの支払いページへのアクセス](incentives-unified-user-guide.md)
-### [インセンティブの支払いとプログラムを表示する](understand-incentive-payouts.md)
-### [CPOR モデルを使用して顧客の関連付けを作成する](submit-osa-claim.md)
+## [インセンティブ](claims-overview.md)
+### インセンティブの概要
+#### [プログラムの適格性を確認する](incentives-determined-your-program-eligibility.md)
+#### [パートナー センターで支払いと税金のプロファイルを作成および管理する](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [収益の適格性を確認する](incentives-confirm-your-earnings-eligibility.md)
+#### [インセンティブの支払いとプログラムを表示する](understand-incentive-payouts.md)
+#### [インセンティブの支払いページへのアクセス](incentives-unified-user-guide.md)
+### 実行の計画と証明
+#### [プランを作成する](incentives-create-your-plan.md)
+#### [実行証明を準備する](incentives-prepare-your-proof-of-execution.md)
+### 協力インセンティブの申請
+#### [協力インセンティブの申請の作成と管理](create-incentives-claims.md)
+#### [協力インセンティブの申請の主要な要件](core-requirements.md)
+#### [協力申請の承認と支払期限](incentives-managing-co-op-claims.md)
+### インセンティブの CPOR 関連付けの申請
+#### [CPOR モデルを使用して顧客の関連付けを作成する](submit-osa-claim.md)
+#### [顧客の関連付けを管理する](incentives-manage-customer-associations.md)
+#### [顧客の関連付けに関する問題](incentives-customer-association-issues.md)
+### [支払いと収益の問題のトラブルシューティング](incentives-payment-issues.md)
 
 # [請求と税金](billing.md)
 ## [課金の基本](billing-basics.md)

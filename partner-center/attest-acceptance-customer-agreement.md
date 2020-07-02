@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート, 同意の証明
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: b74989324fb64cbc8875752bfc33a24285e96936
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909020"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678560"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>顧客に代わって Microsoft 顧客契約の同意を証明する
 
@@ -54,4 +54,7 @@ ms.locfileid: "84909020"
 
 **解決策**:パートナーが顧客に代わって証明する必要があります。  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="[Authorize]\(承認\) オプションが選択できるようになっている [Authorize partner]\(パートナーの承認\) ページのスクリーンショット。特定のパートナーの詳細、その関係、その管理者ロールが表示されています。":::
+## <a name="next-steps"></a>次の手順
+
+- [パートナー センターで新しい顧客レコードを追加する方法](add-a-new-customer.md)
+- [概要:Azure プランでは、パートナーは Azure を顧客向け従量課金制料金で購入可能](azure-plan-lp.md)
