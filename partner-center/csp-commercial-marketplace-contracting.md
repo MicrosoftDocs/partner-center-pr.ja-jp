@@ -1,7 +1,7 @@
 ---
 title: 商用マーケットプレースの CSP 契約
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 商用マーケットプレースで CSP パートナーが購入したサードパーティの ISV 製品に対するサブスクリプションの使用条件と契約について説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: サブスクリプション、Marketplace、サードパーティ、ISV、CSP パートナープログラム、契約、販売、購入、
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362630"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937617"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>商用マーケットプレースでビジネスを行う CSP パートナー向けのコントラクト
 
@@ -42,13 +42,13 @@ ms.locfileid: "83362630"
 
 商用マーケットプレースでの CSP 活動を管理する用語の詳細については、以下を参照してください。
 
-- **セクション 5.7 (サードパーティオファー) (** [CSP プログラムガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)) これにより、CSP プログラムのパートナーによる ISV ソリューションの販売を管理する用語が提供されます。
+- [CSP プログラムガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)の「サードパーティが提供するもの」と**いうタイトルのセクション**。 これにより、CSP プログラムのパートナーによる ISV ソリューションの販売を管理する用語が提供されます。
 
 - **Microsoft Partner Agreement (MPA)** は CSP プログラムを管理し、既存の MCRA と MCDA を置き換えます。 MPA は[パートナーセンター](https://partner.microsoft.com/pcv/dashboard/overview)で利用できます。これにより、CSP プログラムに参加することを選択したパートナーは、それを確認して同意できます。
   
 Microsoft は、取引先との間でのサービスの提供に関する法的責任を負いません。また、提携パートナーがコマースプラットフォームを通じて法的条項を確立するためのメカニズムを提供することもありません。 トランザクションを実行するパートナーが追加の法律条項を必要とする場合は、アグリーメントを直接実行する必要があります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [商用マーケットプレース製品のサポート](csp-commercial-marketplace-support.md)
 

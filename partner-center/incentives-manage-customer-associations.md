@@ -1,5 +1,5 @@
 ---
-title: 顧客の関連付けの管理
+title: 顧客の関連付けを管理する
 description: 要求されたレコードのパートナー (CPOR) の顧客の関連付けを管理するための重要なプロセスとタイムラインについて説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,14 +8,14 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: a5cd485c5d12c333c81954e74574968df7163d3d
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 9e88aa42331f8181b3c8e3eca9d3423741e1c69a
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719362"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879476"
 ---
-# <a name="manage-customer-associations"></a>顧客の関連付けの管理
+# <a name="manage-customer-associations"></a>顧客の関連付けを管理する
 
 適用対象:
 
@@ -69,17 +69,19 @@ CPOR またはアソシエーション要求を作成済みで、承認されて
 
 - 製品がない - 要求の対象となる製品またはワークロードが PoE に含まれていません 
 
-
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>CPOR またはアソシエーション要求の状態を争議する
 
-CPOR またはアソシエーション要求の状態を争議するには、[サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)に連絡し、次の情報をサポートチームに提供してください。
+CPOR またはアソシエーション要求が拒否された場合、拒否については30日間です。 拒否の通知を受け取った電子メールには、拒否の理由とその争議方法を確認できる場所も示されます。  
 
-- MPN ID
-- インセンティブ プログラムの名前 
-- CPOR 関連付け要求 ID 
-- 製品– Business Applications には、Dynamics 製品とサブスクリプションを提供します。 M365 の場合: ワークロード 
-- 顧客テナント ID
-- 問題の詳細
+30日が経過しても、拒否された要求に対して争議を行う場合は、更新された実行証明 (PoE) との新しい関連付けを送信する必要があります。 
+
+### <a name="to-dispute-a-rejected-claim"></a>拒否された要求を争議するには
+
+1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+2. 争議する要求を開きます。
+3. [要求] ページで、[**争議**] を選択します。
+4. ビジネスの妥当性や更新された PoE を入力して、拒否する理由を説明します。
+5. 情報の追加が完了したら、[**争議**] を選択します。 レビュー担当者は5営業日以内に結果をお問い合わせください。
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>CPOR アソシエーション要求が拒否された理由
 

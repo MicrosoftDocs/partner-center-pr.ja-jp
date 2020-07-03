@@ -1,7 +1,7 @@
 ---
-title: 高度な特殊化を獲得
+title: 詳細な専門分野を取得する
 ms.topic: article
-ms.date: 06/11/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーディレクトリのビジネスプロファイルを強化します。 Gold/シルバーコンピテンシーと共に高度な特殊化を獲得する方法について説明します。
@@ -10,37 +10,49 @@ ms.author: labrenne
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ, 高度な専門性
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 7393fdfbc1aa94961680d869cf00cd5855efa0a6
+ms.sourcegitcommit: d5fc07cf20a9de970f9bb65019732792dd81b4a0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749159"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85911265"
 ---
-# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>高度な特殊化は、ビジネスプロファイルを顧客に提供するのに役立ちます。
+# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>専門知識をお客様に提供するための高度な特殊化を獲得 
 
-高度な特殊化により、Gold コンピテンシーを超えています。 高度な特殊化は、製品、ソリューション、またはサービスにおける実証済みの検証可能な専門家を紹介するのに役立ちます。 パートナーディレクトリでは、お客様のビジネスプロファイルの Gold コンピテンシーと高度な特殊化の両方を確認できます。 高度な特殊化タグを受け取るには、発行された条件のセットを満たしていて、Microsoft によって検証される必要があります。 [詳しくはこちらをご覧ください](https://partner.microsoft.com/membership/advanced-specialization)。
+高度な特殊化を利用して顧客と差別化します。 高度な特殊化は、特定のソリューション領域で忠実性の高いサービスを提供する機能の検証です。 お客様のビジネスプロファイルには、パートナーディレクトリの高度な特殊化が表示されます。 [詳しくはこちらをご覧ください](https://partner.microsoft.com/membership/advanced-specialization)。
 
-## <a name="the-current-advanced-specializations"></a>現在の高度な専門性
+## <a name="use-partner-center-to-move-through-the-application-process"></a>パートナーセンターを使用してアプリケーションプロセスを移動する
 
-- **導入と変更の管理**Microsoft 365 の使用状況と組織の変更を推進しながら、導入と変更管理サービスを提供することで、広範なエクスペリエンスと実証済みの成功を紹介します。
+高度な特殊化を実現するには、会社が固定の gold コンピテンシーを獲得し、その他の要件を満たしている必要があります。 アプリケーションプロセスには2つの手順があります。 まず、会社が前提条件を満たしている必要があります。 次に、前提条件の要件が満たされると、[**監査のスケジュール**] ボタンが有効になります。 その後、監査を渡す必要があります。 
 
-- **チームワークの展開**Microsoft 365 チームワークロードをデプロイして、エクスペリエンスと実績のある成功に対する認識を獲得します。
+## <a name="advanced-specialization-requirements-that-include-an-audit-an-example"></a>監査を含む高度な特殊化要件: 例
 
-- **Microsoft Teams の呼び出し**Microsoft 365 Phone システムのデプロイと管理に関する専門知識を証明して、お客様のビジネス価値を促進します。
+**Microsoft Azure するための Web アプリケーションの**最新化と呼ばれる高度な特殊化に関心がある場合は、パートナーセンターメニューから選択します。 [前提条件] ページが表示されます。
 
-- **SAP on Azure**SAP on Azure ソリューションを実装することで、豊富な知識、広範な経験、実績のある成功が得られます。 
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="前提条件":::
 
-- **Windows Server および SQL Server Microsoft Azure への移行**Azure 内のさまざまな SQL 移行オプションについてのガイダンスを提供し、Windows Server および SQL Server ベースのワークロードを Microsoft Azure に移行および最適化する際の専門知識を示すことで、知識の深さを示します。 
 
-- **Microsoft Azure するための Linux およびオープンソースデータベースの移行**オープンソーステクノロジのスキルを実証し、Red Hat Enterprise Linux (RHEL) または SUSE virtual machines、または MariaDB、PostgreSQL、MySQL、CassandraDB、MongoDB データベースで実行されている運用ワークロードの移行と最適化に関する専門知識を Azure に提供します。
+すべての前提条件を満たしていないと、状態は [未開始] のままに**なります。** 前提条件を満たしている場合は、[**監査のスケジュール**] ボタンが有効になります。 次の Azure の高度な特殊化については、サードパーティの監査担当者による監査を完了する必要があります。
+ 
+- Windows Server および SQL Server Microsoft Azure への移行
+- Microsoft Azure するための Linux およびオープンソースデータベースの移行
+- データウェアハウスの Microsoft Azure への移行
+- Microsoft Azure での Kubernetes
+- Microsoft Azure するための Web アプリケーションの最新化
 
-- **データウェアハウスの Microsoft Azure への移行**Teradata、Netezza、または Oracle Exadata から Azure にデータウェアハウスを正常に移行し、既存のワークロードの分析、スキーマモデルの生成、およびクラウドベースのデータウェアハウスにデータを移行するための抽出、変換、読み込み (ETL) 操作の実行に関する専門知識を得ました。
 
-- **Microsoft Azure での Kubernetes**AKS 実装向けの DevOps プラクティスを採用し、コンテナーを使用してクラウドで運用環境のワークロードをデプロイおよび管理し、Microsoft Azure でホストされている Kubernetes 環境を管理するための専門知識を示します。
+すべての要件を完了すると、状態は [**アクティブ**] になります。 アクティブな状態では、**ビジネスプロファイル**のタグが自動的に有効になります。このタグは、[ソリューションプロバイダーの検索](https://www.microsoft.com/solution-providers/home)を検索するすべてのお客様に表示されます。
 
-- **Microsoft Azure での Web アプリケーションの**最新化アプリケーション開発において顧客の成功を確認し、コンテンツ管理システムについて理解しておく必要があります。 Web アプリケーションのワークロードの移行とデプロイ、DevOps プラクティスの適用、および Microsoft Azure でのアプリケーション サービスの管理に関する専門知識を証明します。
+## <a name="prerequisites-that-include-customer-references-an-example"></a>顧客参照を含む前提条件: 例
 
- ## <a name="next-steps"></a>次の手順
+顧客参照を必要とする高度な特殊化の例として、 **Microsoft Teams の会議室や会議室**などがあります。 Gold コンピテンシー、認定資格、およびパフォーマンス要件に加えて、展開と管理の機能を示す3つの顧客参照を提供する必要があります。
 
- [Gold およびシルバーのメンバーシップに関する Microsoft コンピテンシーの要件](learn-about-competencies.md)について説明します
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="前提条件":::
+
+すべての前提条件を満たしていないと、状態は [未開始] のままに**なります。** すべての要件を完了すると、状態は [**アクティブ**] になります。 アクティブな状態では、**ビジネスプロファイル**のタグが自動的に有効になります。このタグは、[ソリューションプロバイダーの検索](https://www.microsoft.com/solution-providers/home)を検索するすべてのお客様に表示されます。
+
+## <a name="next-steps"></a>次の手順
+
+- Microsoft コンピテンシーの要件の詳細について[は、Gold とシルバーのメンバーシップに関する microsoft コンピテンシーの要件](learn-about-competencies.md)に関するページを参照してください
+
+- [高度な特殊化](https://partner.microsoft.com/membership/advanced-specialization)について説明します。

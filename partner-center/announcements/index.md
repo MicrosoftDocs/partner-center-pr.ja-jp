@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 74c78646924c923a6c9db992589ed98612245cab
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678654"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879095"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
 パートナー センターの重要な更新についての詳細をご確認ください。 この情報は頻繁に更新されるので、定期的にチェックしてみてください。
 
-| **カテゴリ** | **2020 年 6 月のお知らせ** | **発表** |
+| **カテゴリ** | **2020 年 7 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+| 製品サービス/市場 | [Microsoft Dynamics 365 および Power Platform の新規および終了となるプランと製品](2020-july.md#3) | 7 月 1 日 |
+| 製品サービス/市場 | [Microsoft が、Microsoft Kaizala Pro スタンドアロン SKU の販売を終了](2020-july.md#2) | 7 月 1 日 |
+| 機能 | [CSP インセンティブ プログラムが FY21 Q1 まで延長](2020-july.md#1) | 7 月 1 日 |
+| **カテゴリ** | **2020 年 6 月のお知らせ** | **日付** |
 | 製品サービス/市場 | [CSP パートナー向けの Windows 7 Year 2 ESU が利用可能に](2020-june.md#6) | 6 月 29 日 |
 | 機能 | [パートナー センターのリレーションシップ削除機能の更新](2020-june.md#5) | 6 月 29 日 |
 | 機能 | [請求頻度の既定値が年単位から月単位に変更される](2020-june.md#4) | 6 月 17 日 |

@@ -1,7 +1,7 @@
 ---
 title: '& プランの marketplace 製品を管理する'
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターを使用して、クラウドソリューションプロバイダーが、コマーシャルマーケットプレースから購入したサードパーティの ISV プランを管理する方法について説明します。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: サブスクリプション、Marketplace、サードパーティ、ISV、SaaS プラン、クラウドソリューションプロバイダープログラム、プランの管理、サブスクリプションの管理、ライセンスの管理、サブスクリプションの取り消し、座席、自動更新の無効化、間接リセラーの MPN ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908100"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937628"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>顧客向けの市販の marketplace 製品とプランを管理する
 
@@ -64,11 +64,14 @@ ms.locfileid: "82908100"
 
 1. ISV 発行元からのこのパーソナライズされたリンクは、いくつかの方法で見つけることができます。
 
-    - ISV SaaS プランを購入した後に表示される確認ページからリンクを確認できます。
+   - ISV SaaS プランを購入した後に表示される確認ページからリンクを確認できます。 このページでこのリンクを検索するには、[**発行元のサイトにアクセスする**] を探して選択します。
 
-    - 特定の顧客の [サブスクリプション] ページからのリンクが表示されます。 この発行元リンクは、顧客用に購入した ISV プランまたはサブスクリプションに関連付けられている行に表示されます。
+   - 特定の顧客の [サブスクリプション] ページからのリンクが表示されます。 この発行元リンクは、顧客用に購入した ISV プランまたはサブスクリプションに関連付けられている行に表示されます。
 
-    - [パートナーセンター api を使用してリンクを取得](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)できます。
+   - [パートナーセンター api を使用してリンクを取得](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)できます。
+
+   > [!NOTE]
+   > 顧客に代わってこれを行うには、パーソナライズされたリンクをコピーし、プライベートブラウザーに貼り付けて、顧客の資格情報を入力することが必要になる場合があります。
 
 2. ISV 発行元のサイトまたはシステムにいる場合、発行元は、顧客のセットアッププロセスを完了し、ライセンスをプロビジョニングまたは割り当てるために必要な追加の手順をお知らせします。
 
@@ -90,7 +93,7 @@ ms.locfileid: "82908100"
 
 適用されるキャンセル期間、キャンセルする方法、またはサブスクリプションを自動更新する方法の詳細については、以下を参照してください。
 
-- [サブスクリプションを取り消す](create-a-new-subscription.md#cancel-a-subscription)
+- [サブスクリプションをキャンセルする](create-a-new-subscription.md#cancel-a-subscription)
 
 - [商用 marketplace サブスクリプションの自動更新](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 
