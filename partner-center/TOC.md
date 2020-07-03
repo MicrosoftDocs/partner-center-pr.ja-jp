@@ -95,7 +95,7 @@
 ### [案件の登録](register-deals.md)
 ### [紹介の分析情報を取得する](referral-insights.md)
 ### [ビジネス プロファイルの分析](analyze-your-marketing-profile.md)
-## [インセンティブ](claims-overview.md)
+## インセンティブ
 ### インセンティブの概要
 #### [プログラムの適格性を確認する](incentives-determined-your-program-eligibility.md)
 #### [パートナー センターで支払いと税金のプロファイルを作成および管理する](incentives-create-and-manage-your-payout-and-tax-profiles.md)
@@ -106,6 +106,7 @@
 #### [プランを作成する](incentives-create-your-plan.md)
 #### [実行証明を準備する](incentives-prepare-your-proof-of-execution.md)
 ### 協力インセンティブの申請
+#### [インセンティブ](claims-overview.md)
 #### [協力インセンティブの申請の作成と管理](create-incentives-claims.md)
 #### [協力インセンティブの申請の主要な要件](core-requirements.md)
 #### [協力申請の承認と支払期限](incentives-managing-co-op-claims.md)
