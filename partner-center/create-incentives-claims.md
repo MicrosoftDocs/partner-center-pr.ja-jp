@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: パートナーセンターからインセンティブ共同要求を開始する方法について説明します。 申請を構成するすべてのアクティビティは履歴で確認できます。
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 keywords: インセンティブの申請, 協力インセンティブの申請, 協力金
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1be444403d2b36bcee13648a767b0cfdf448c06b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: bce39b4bb26d465da2d7a36e299c1f09cc4b5adb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721686"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947849"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>インセンティブの申請の作成と管理
 
@@ -24,19 +24,19 @@ ms.locfileid: "74721686"
 
 **適切なロール**
 
-- グローバル管理
+- グローバル管理者
 - インセンティブ管理者
 - インセンティブ ユーザー
 
 パートナー センター内からインセンティブの申請を開始できます。 
 
-1. パートナー センター ダッシュボードの **[インセンティブ]** で、 **[Claims]\(申請\)** を選択します。
+1. パートナー センター ダッシュボードの **[インセンティブ]** で、**[Claims]\(申請\)** を選択します。
 
 2.  既に処理中の申請がある場合、申請の概要ページには、既存の申請の状況と、承認された資金、申請された資金、合計資金が表示されます。
 
-3.  新しい申請を作成するには、 **[Create a claim]** (申請の作成) を選択します。
+3.  新しい申請を作成するには、**[Create a claim]** (申請の作成) を選択します。
 
-4.  初期フォームに入力し、 **[要求の作成]** を選択すると、請求書、CSR、プルーフドキュメント、およびメトリックを追加できる要求の詳細ページが表示されます。 必要に応じて、その他の情報を追加することもできます。
+4.  初期フォームに入力し、[**要求の作成**] を選択すると、請求書、CSR、プルーフドキュメント、およびメトリックを追加できる要求の詳細ページが表示されます。 必要に応じて、その他の情報を追加することもできます。
 
 申請の詳細ページでは、組織内の他のユーザーにフォームへのドキュメントのアップロードを依頼できます。 アップロードするそれぞれのサポート ドキュメントについて、詳細な説明を提供できます。 
 

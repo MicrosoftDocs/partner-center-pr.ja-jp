@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナー センターで購入した場合の税額は、会社の住所によって決定されます。 一部の国では、企業が VAT 番号またはそれに相当するものをシステムに入力できます。
-author: LauraBrenner
-ms.author: labrenne
+description: パートナー センターでの購入時にかかる税金は、勤務先住所によって決まります。 一部の国では、企業が VAT 番号またはそれに相当するものをシステムに入力できます。
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e0c5e2dab3a4316a6ee888c73a64c7894bdf1baf
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 476b56061a342867780e07133c882a4e6a04b73d
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907317"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948997"
 ---
 # <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a>会社の税金情報と、パートナーセンターの購入のために VAT Id を追加または送信する方法
 
@@ -29,14 +29,14 @@ ms.locfileid: "82907317"
 -   管理エージェント
 -   販売代理店
 
-パートナー センターで購入した場合の税額は、会社の住所によって決定されます。 一部の国の企業では[、付加価値税 (VAT) 番号](#submit-vat-id-number)またはローカルに相当するものを提供できます。
+パートナー センターでの購入時にかかる税金は、勤務先住所によって決まります。 一部の国の企業では、[付加価値税 (VAT) の番号](#submit-vat-id-number)または現地の税番号を提供している場合があります。
 
 ### <a name="add-your-vat-id"></a>VAT ID を追加する
 
 課金プロファイルを編集するには、グローバル管理者、課金管理者、または管理エージェントである必要があります。
 
 1.  **パートナーセンターのダッシュボード**から [**設定**] にアクセスし、[**課金プロファイル**] を選択します。
-2.  **[財務データ]** セクションで、**[更新]** を選びます。
+2.  [**財務データ**] セクションで、[**更新**] を選択します。
 3.  [**会社の税 ID** ] フィールドに、VAT ID 番号を入力します。
 
 ## <a name="submit-vat-id-number"></a>VAT ID 番号の送信

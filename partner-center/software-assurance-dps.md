@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ソフトウェアアシュアランスをご利用のお客様にトレーニングやその他のサービスを提供できるように、Microsoft の計画サービス契約を登録して認定を受ける方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 Keywords: 展開前, 計画, ソフトウェア アシュアランス
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 29ceef8ab082e2520ea050f759711fd4d15beec0
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: bc18e4787194e8933aec95dfff278a7e8bb87f5d
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425931"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949595"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
 
@@ -26,7 +26,7 @@ ms.locfileid: "84425931"
 
 Microsoft は、承認された計画サービスパートナーとして、企業のお客様のための展開前計画を提供することを検討します。 このプログラムに参加することにより、貴社は、いっそう多くの顧客を獲得し、顧客の信頼できる計画パートナーになり、顧客エンゲージメントを追加できる可能性があります。
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>作業開始
 
 ソフトウェアアシュアランスサービスを初めてご使用になる場合は、以下のすべての手順に従ってください。 Planning Services プログラムで既にアクティブになっている場合は、以下の手順 4 (4) で新しい契約を開始します。
 

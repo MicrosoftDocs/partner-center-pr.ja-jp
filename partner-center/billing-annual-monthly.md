@@ -3,16 +3,16 @@ title: 月単位の請求と年単位の請求の違い
 ms.topic: article
 ms.date: 05/06/2020
 Description: パートナーセンターの月額料金と年間課金の違いについて説明します。 また、さまざまな課金の種類と切り替えの影響を切り替える方法についても説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908970"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948227"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>パートナーセンターでの月単位および年間請求の違いを理解する
 

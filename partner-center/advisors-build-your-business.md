@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
 description: 承認された Microsoft advisor が Office 365 サブスクリプションを拡張する方法について説明します。 Office 365 試用版への招待および購入プランを作成してクライアントに送信します。
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 keywords: advisor、office 365
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae1894f592ed066b521e217558b6b6c4142bc62c
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 6a299fe3c4e65a1752a53053e0071c980b5246d5
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362660"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947437"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>アドバイザー: Office 365 試用版への招待と購入プランを使用して、クライアントベースを構築する
 

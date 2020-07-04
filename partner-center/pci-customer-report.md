@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ビジネスを向上させる方法を発見します。 地域別、製品別、およびその他の属性ごとに、顧客の特定の傾向を確認します。
 keywords: PCI、パフォーマンス、お客様の成功、測定、
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9ccd23c0a028a8fb42d71cbf7db45f1a5497573
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0680a1f88517e12fc1625593f9fb34cc7cc66b81
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991952"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949362"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>パートナーセンターインサイトからの顧客ダッシュボードレポート
 
@@ -35,7 +35,7 @@ Customers ダッシュボードには、次のセクションがあります。
 
 [概要] セクションには、顧客、アクティブな顧客、サブスクリプション、顧客の追加、顧客の頻繁、顧客など、各製品に関連するさまざまな Kpi のスナップショットビューが表示されます。 ページレベルのフィルターは、各セクションに適用できます。
 
-**企業**
+**顧客**
 
 - Office、Azure、Dynamics などのすべてのクラウド製品で異なる種類の属性によって組織が関連付けられているすべての顧客の現在の数。アクティブな状態のサブスクリプションが少なくとも1つある場合は、顧客がカウントされます。  
 - 選択した日付範囲内の顧客の% を拒否します 
@@ -94,6 +94,6 @@ Customers ダッシュボードには、次のセクションがあります。
 
 :::image type="content" source="images/pci/activecustomer.png" alt-text="パートナーセンターのインサイトのアクティブな顧客のスクリーンショット。アクティブな顧客の時間の経過に伴う横棒グラフが表示されます。":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

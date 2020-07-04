@@ -5,17 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 既存のサブスクリプションの有効期限が切れる前に、qualified、basic Dynamics 365 サブスクリプションから新しいサブスクリプションに移行する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: Brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 Keywords: Dynamics 365 プラン、更新プラン、新しい Dynamics 365 Sku
-ms.openlocfilehash: 1fb7a58d3c777f39bdd3594d6d2bc0be04fbf573
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5225ff60399cd491009ecb16e4c17b4fc05c0052
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992102"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949646"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Dynamics 365 および Customer Engagement プランの Basic (対象プラン) から新しいバージョンへの移行
 
@@ -100,7 +100,7 @@ API (CREST またはパートナーセンター) を使用する場合は、サ�
 2. [**ユーザーとライセンス**] を選択します。
 3. ライセンスをユーザーに再割り当てするには、ユーザーを選択し、[**ライセンスの管理**] を選択します。 
 4. [**ライセンスの管理**365] ページで、[Basic (限定されたプラン) のライセンス] チェックボックスをオンにして、顧客が移動しているサブスクリプションの新しいサービスプランを選択します。 
-5. **[送信]** を選択します。 この操作は、新しいライセンスが必要なユーザーごとに行います。 
+5. **[Submit]\(送信\)** をクリックします。 この操作は、新しいライセンスが必要なユーザーごとに行います。 
 
 新しいサブスクリプションにライセンスを移行したら、古いサブスクリプションを取り消すことができます。 
 

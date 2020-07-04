@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客の Azure サブスクリプションに関連付けられている CSP プログラムパートナーを変更する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: dhirajgandhi
+ms.author: dhgandhi
 keywords: azure サブスクリプション, パートナーの切り替え, パートナーの変更, 新しいパートナーの獲得, 別のパートナー
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: ba07f99301ddcbcb6f274bb1c603f14928d05257
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 65278a9c597fb240f87c04f215a8195a0cff3e19
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992129"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949093"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について説明します。
 

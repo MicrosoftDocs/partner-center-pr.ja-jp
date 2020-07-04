@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Marketplace の独立系ソフトウェアベンダー (Isv) のサービスとしてのソフトウェア (SaaS) プランに対する顧客のサブスクリプションを販売する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: サブスクリプション、Marketplace、サードパーティ、ISV、SaaS、ライセンス
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908095"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947730"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>パートナーセンターのコマーシャルマーケットプレースの概要
 
@@ -38,7 +38,7 @@ CSP プログラムのパートナーとして、パートナーセンターを�
 
 CSP プログラムのパートナーである場合は、ISV のオファーに関して、多くの市販の marketplace アクティビティを実行する必要があります。 各アクティビティの詳細については、次の表を参照してください。
 
-|**必要に応じて**  |**読み取り**   |
+|**目的**  |**読み取り**   |
 |:------------------------------------|:------------------|
 |利用可能なプラン、価格、製品の詳細、または発行者の連絡先情報を表示または検索する方法について説明します | [オファーの検出](csp-commercial-marketplace-discover.md) | 
 |プランを購入して展開する方法について説明します   | [購入プラン](csp-commercial-marketplace-purchase.md)   | 
@@ -85,7 +85,7 @@ CSP プログラムのパートナーとして、パートナーセンターの[
 |プランのサブスクリプションの取り消し/更新、または座席の追加/削除を行うには | Azure portal  |
 |ユーザーを作成したり、アクセス許可を管理したりするには  | Azure portal  |
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [市販の marketplace プランを検出または表示する](csp-commercial-marketplace-discover.md)
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)

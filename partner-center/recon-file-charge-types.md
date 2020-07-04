@@ -3,16 +3,16 @@ title: 調整ファイルの料金の種類
 ms.topic: article
 ms.date: 06/05/2020
 description: パートナーセンターの調整ファイルの料金の種類 (ライセンスベース、使用量ベース、1回限り)、クレジット、割引をご確認ください。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1ec4f4a483ecfd106f7ec41b85372e136524a046
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: fdd372ba260254032d0978e6b2f80947d11aa84f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909110"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949302"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>パートナーセンターの調整ファイルのさまざまな料金の種類を理解する
 

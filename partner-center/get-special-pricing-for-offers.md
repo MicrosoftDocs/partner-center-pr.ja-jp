@@ -5,18 +5,18 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 教育機関のお客様、非営利顧客、政府ユーザーなど、特定の顧客グループ向けの特別で低価格の価格について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: alikhaki
+ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e8b03925b29901ed68482242e6340ebd0155c76
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 849c7fc92a4ca88fbddf5e8aa3c95e6ac60ff984
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991242"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947407"
 ---
-# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>教育、非営利団体、政府機関のユーザーなどの特別な業界への販売
+# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>教育、非営利団体、官公庁/自治体のユーザーといった特別な業界への販売
 
 **適用対象**
 
@@ -77,7 +77,7 @@ ms.locfileid: "84991242"
 | Education |商用、教育 | 非営利団体または政府機関向けコミュニティクラウド |
 | 政府機関向けコミュニティクラウド |政府機関向けコミュニティクラウド | 非営利団体、教育機関、またはコマーシャル |
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [Minecraft の販売: 教育機関のお客様へのサブスクリプション](minecraft-subscriptions.md)
 

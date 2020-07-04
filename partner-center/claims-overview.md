@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 前提条件なしでインセンティブ要求を送信して、アクティビティ計画を確認する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: kaushikgMSFT
+ms.author: kaushikg
 keywords: インセンティブの申請, 協力インセンティブの申請, 協力金
 ms.localizationpriority: medium
-ms.openlocfilehash: f966406c0cc5e2bb427cd07a14755f41f1b55b28
-ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
+ms.openlocfilehash: 4b789b3243231307e3aa969b52498117199f4612
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84776279"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948081"
 ---
 # <a name="incentives-co-op-claims-overview"></a>協力インセンティブの申請の概要
 

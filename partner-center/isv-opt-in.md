@@ -5,18 +5,18 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 独立系ソフトウェアベンダー (ISV) が特定の提供を限定し、特定の CSP パートナーだけが使用できるようにする方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bc997d302b2ccd4dffa7708a9ec1cad60b09f998
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794838"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949442"
 ---
-# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>独立系ソフトウェアベンダーからの Marketplace 限定プラン
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>独立系ソフトウェア ベンダーからのマーケットプレース限定プラン
 
 **適切なロール**
 
@@ -44,7 +44,7 @@ ISV が Marketplace でプランを発行すると、購入者を示すことが
 - 購入できるパートナーを決定する
 - CSP パートナーは使用できません
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - 商用マーケットプレースの ISV エクスペリエンスの詳細については、[クラウドソリューションプロバイダー](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)に関するページを参照してください。
 

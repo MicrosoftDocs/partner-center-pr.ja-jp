@@ -3,17 +3,17 @@ title: 共同操作要求の管理
 description: 期限、通貨の問題、拒否された共同操作要求を争議する方法など、共同作業要求プロセスについて理解します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e567b6bd0eaabb1dc705925e140f9de07c6f8a98
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719367"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949499"
 ---
 # <a name="manage-co-op-claims"></a>共同操作要求の管理
 
@@ -27,7 +27,7 @@ ms.locfileid: "85719367"
 
 - インセンティブ管理者
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>Co-op 要求の承認と支払い期限
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>協力申請の承認と支払期限
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>共同操作要求はいつ承認されますか?
 

@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムの市販市場におけるサードパーティの ISV 製品またはサブスクリプションのサポートについて説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: サブスクリプション、製品、Marketplace、サードパーティ、ISV、発行元、サポート、CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 48ea03ae955e276b48e646718a105855120e0577
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 7c6fccc14cd01d8131933e3e957a7a3f64801866
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908073"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947676"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>CSP プログラムでの商用 marketplace 製品のサポート
 
@@ -53,6 +53,6 @@ CSP プログラムのパートナーは、お客様の請求またはサブス�
 
 **プランの詳細**ページにアクセスするには、「[商用マーケットプレースでのプランの検出](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center)」を参照してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [商用 marketplace 製品に関連する契約について説明します](csp-commercial-marketplace-contracting.md)

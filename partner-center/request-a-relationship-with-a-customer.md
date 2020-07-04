@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: マルチパートナー、マルチチャネルのシナリオ、または顧客の代理管理者特権を復元する必要がある場合は、顧客との関係を要求します。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104094"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949245"
 ---
-# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>パートナーセンターで顧客から再販業者の関係を要求する方法
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>パートナー センターでお客様から再販業者の関係を要請する方法
 
 **適用対象**
 
@@ -34,9 +34,9 @@ ms.locfileid: "85104094"
 
 1. **パートナー センター** メニューから **[顧客]** を選択し、 **[リセラーの関係を要求する]** を選びます。
 
-2. この顧客に管理者アクセス許可を要求するには、**[Azure Active Directory および Office 365 に対応する委任された管理特権を含めてください]** を選択します。 管理者アクセス許可を要求しないで関係を確立するには、このオプションをオフにします。
+2. この顧客から管理者のアクセス許可を要求するには、[ **Azure Active Directory と Office 365 の代理管理特権を含める**] を選択します。 管理者権限を要求せずにリレーションシップを確立するには、このオプションをオフにします。
 
-3. 次のページで、メール メッセージの下書きを確認します。 既定のメール アプリケーションで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。
+3. 次のページで、下書きの電子メール メッセージを確認します。 既定の電子メール アプリケーションで下書きメッセージを開くことも、メッセージをクリップボードにコピーして電子メールに貼り付けることもできます。
 
    メールのテキストを編集することはできますが、リンクを必ず含めてください。このリンクは、顧客が貴社のアカウントに直接アクセスできるようにカスタマイズされています。 この手順を完了したら、 **[完了]** を選びます。
 

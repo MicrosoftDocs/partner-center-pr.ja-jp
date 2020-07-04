@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 Keywords: サブスクリプション、セルフサービス型購入、セルフサービス RI、有効化 ri、無効化 RI、セルフサービス、顧客購入、カスタマーアクセス許可、顧客購入予約インスタンス、顧客購入 Azure 予約、セルフサービスの有効化、セルフサービスの無効化
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0c507aae75dad4a1dce5dc9746ebe9f7ed48f040
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795116"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947462"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>パートナーセンターで自分の製品またはサービスを購入するためのアクセス許可を顧客に付与する
 
@@ -66,7 +66,7 @@ CSP プログラムのパートナーは、多くの場合、パートナーセ�
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>独自の Azure 予約を購入するためのアクセス許可を顧客に付与する
 
-Azure の予約は、割引料金で Azure サービスを購入するための優れた方法です。 Azure の予約の利点の詳細については、「 [Azure Reservations とは](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)」を参照してください。
+Azure Reservations は、Azure サービスを割引料金で購入できる優れた方法です。 Azure の予約の利点の詳細については、「 [Azure Reservations とは](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)」を参照してください。
 
 これで、お客様に代わって Azure の予約を購入することができます。 または、自分の Azure 予約を購入するためのアクセス許可を顧客に与えることができます。
 
@@ -158,7 +158,7 @@ Azure の予約の次の側面を管理する方法の詳細については、�
 
 **顧客が購入を交換、キャンセル、または更新する場合や、予約の初期スコープを変更する場合は、どうすればよいでしょうか。** お客様は、予約の初期スコープを変更するためにパートナーに依頼する必要があります。 また、予約を交換、取り消し、または更新するためのパートナーの支援も必要です。 これらのタスクは、CSP パートナーによって購入されたサブスクリプションに基づいて、予約を使用して実行することはできません。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [顧客に代わって Azure の予約を購入する](azure-reservations-buying.md)
 

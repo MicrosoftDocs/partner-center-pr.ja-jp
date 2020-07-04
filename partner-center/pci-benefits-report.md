@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: お客様のビジネスを成長させ、効率性を向上し、チームのスキルを強化するために付与された Microsoft パートナーの特典の種類をご確認ください。
 keywords: PCI、パフォーマンス、測定、利点、分析、レポート
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e43545e65d877debeb5b85713b5b900b4b49921
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: cf1822db6b689cc75c13a782c93a9d21b0ac3f75
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908700"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949381"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから利用可能な特典レポート
 

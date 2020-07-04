@@ -5,16 +5,16 @@ ms.date: 06/08/2020
 description: パートナーセンターでの調整ファイルと、特定の請求サイクルにおける料金の詳細な行項目ビューを解釈する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f52c0b3d53fde6d5b5f68c54f8967e26a33b8c76
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: cdb72310368dd76c43d01129a19328d776c00469
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991766"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949569"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>パートナーセンターの調整ファイルの品目を読み取る方法について説明します。
 
@@ -72,7 +72,7 @@ ms.locfileid: "84991766"
 
 **間接モデル**のパートナーは、これらの追加フィールドをライセンスベースと使用状況に基づく調整ファイルの両方で使用して、リセラーごとにファイルを作成することができます。
 
-| MPN ID | 説明 |
+| MPN ID | Description |
 | ------ | ----------- |
 | MPN ID | クラウドソリューションプロバイダー (CSP) パートナー (直接または間接) の Microsoft Partner Network (MPN) 識別子。 |
 | [リセラーの MPN ID](#reseller-mpn-id) | [サブスクリプションの販売店の MPN 識別子](#reseller-mpn-id)。 このフィールドは、パートナーセンターの特定のサブスクリプションについて一覧表示されているリセラー ID に対応しています。 インダイレクト モデルのパートナーの調整ファイルにのみ表示されます。 |

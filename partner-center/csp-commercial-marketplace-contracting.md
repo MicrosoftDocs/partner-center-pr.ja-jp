@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 商用マーケットプレースで CSP パートナーが購入したサードパーティの ISV 製品に対するサブスクリプションの使用条件と契約について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: サブスクリプション、Marketplace、サードパーティ、ISV、CSP パートナープログラム、契約、販売、購入、
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
-ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
+ms.openlocfilehash: 73ce5d441c3ac3b2c7cf350ea8647c8e569c66c1
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/03/2020
-ms.locfileid: "85937617"
+ms.locfileid: "85947785"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>商用マーケットプレースでビジネスを行う CSP パートナー向けのコントラクト
 
@@ -48,7 +48,7 @@ ms.locfileid: "85937617"
   
 Microsoft は、取引先との間でのサービスの提供に関する法的責任を負いません。また、提携パートナーがコマースプラットフォームを通じて法的条項を確立するためのメカニズムを提供することもありません。 トランザクションを実行するパートナーが追加の法律条項を必要とする場合は、アグリーメントを直接実行する必要があります。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [商用マーケットプレース製品のサポート](csp-commercial-marketplace-support.md)
 

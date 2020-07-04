@@ -3,16 +3,16 @@ title: 使用量ベースの調整ファイル
 ms.topic: article
 ms.date: 06/08/2020
 description: パートナーセンターの使用状況に基づく調整ファイルのすべての項目について説明します。 いくつかの例を紹介します。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9a84ca15cd51c02a3b5c53ad4478d72343add284
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909120"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949542"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>パートナーセンターで使用量に基づく調整ファイルとその特定のフィールドについて理解する
 
@@ -27,7 +27,7 @@ ms.locfileid: "84909120"
 
 次のフィールドで、どのサービスが使用されるか、およびレートについて説明します。
 
-| 列 | 説明 | サンプル値 |
+| Column | 説明 | サンプル値 |
 | ------ | ----------- | ------------ |
 | PartnerId | GUID 形式のパートナー識別子。 | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | パートナー名。 | *Contoso, Ltd.* |

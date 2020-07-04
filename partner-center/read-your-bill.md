@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: 請求書 & 調整ファイルについて説明します。 請求書には、その月の期間におけるプログラム、製品、および顧客に対するパートナーセンターの料金が表示されます。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: サブスクリプションの請求, 請求, パートナー センターでの請求, パートナー センターの請求, 請求書の記載事項, 請求書, パートナー センターの請求書, CSP 請求書, 請求書の場所
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df330ce2e66cf198ce97919c02a15eb7a50f6486
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 40809fbca8ed81882e9b1d315fd5967143faff1e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991876"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949316"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>請求書と調整ファイルを理解する-パートナーセンターでそれらを検索する方法について説明します
 
@@ -37,7 +37,7 @@ ms.locfileid: "84991876"
 
 Microsoft は、ライセンスベースの料金 (Office 365 など) と使用量ベースの料金 (Azure など) に対して1つの請求書を発行し、1回限りの料金 (Azure RI、Marketplace、Azure plan など) に対して別の請求書を発行します。
 
-たとえば、次のように入力します。  
+例:  
 
 **シナリオ 1 [Single Currency]**: パートナーは145P プランと O365 ライセンスを購入しています。  
 

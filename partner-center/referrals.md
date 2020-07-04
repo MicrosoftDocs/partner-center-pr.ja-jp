@@ -5,20 +5,18 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ビジネスプロファイルを作成して、パートナーセンターの紹介機能を通じて販売潜在顧客を生成し、これらの紹介に応答する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 紹介, ビジネス プロファイル, パートナーの検索
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 29da0311dac14a4060e2adf6feeb3ce1e721bd37
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 7656b6cdf5c051abbd28420d228877da313503c5
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198620"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949298"
 ---
-<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
-
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>マイクロソフトからの紹介案件の獲得によるビジネスの拡大
 
 **適用対象**

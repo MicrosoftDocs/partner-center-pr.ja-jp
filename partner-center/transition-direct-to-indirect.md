@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムパートナーがパートナーセンターを使用して、直接請求パートナーから間接リセラーに移行する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: aarzh-AaronZhang
+ms.author: v-aarzh
 ms.localizationpriority: medium
 keywords: 直接請求, 移行, 間接リセラー
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 93b3d2e204911d059ed0d17e977c0e50533e504c
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679449"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949211"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行
 
@@ -28,7 +28,7 @@ ms.locfileid: "84679449"
 
 パートナーは、既存の直接請求テナントを使用して間接リセラー プログラムに登録できます。
 
-## <a name="get-started"></a>開始
+## <a name="get-started"></a>作業開始
 
 1. パートナー センターのパートナー プロファイルと MPN ID が最新の状態であることを確認します。
 
@@ -95,7 +95,7 @@ ms.locfileid: "84679449"
 
 2. 貴社と間接プロバイダーの両方について再販業者関係を確立するために新しい顧客を招待するには、 **[新しい顧客を招待する]** を選びます。 プロバイダーは顧客との再販業者関係を持っている必要があるため、顧客が新しいサブスクリプションを購入したり、既存のサブスクリプションに新しいライセンスを追加したりするときに、顧客に代わって注文を送信することができます。
 
-3. 次のページで、メール メッセージの下書きを確認します。 メールで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。
+3. 次のページで、下書きの電子メール メッセージを確認します。 メールで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。
 
 4. 電子メールのテキストを編集して必要なものを指定しますが、自分のアカウントとプロバイダーのアカウントの両方に顧客を直接接続できるように、パーソナライズされたリンクを含めてください。 **[完了]** を選択します。
 
@@ -195,7 +195,7 @@ ms.locfileid: "84679449"
 
     :::image type="content" source="images/direct/direct6.png" alt-text="新しい顧客を招待する":::
 
-3. 次のページで、メール メッセージの下書きを確認します。 メールで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。
+3. 次のページで、下書きの電子メール メッセージを確認します。 メールで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。
 
 4. 電子メールのテキストを編集して必要なものを指定しますが、自分のアカウントとプロバイダーのアカウントの両方に顧客を直接接続できるように、パーソナライズされたリンクを含めてください。 **[完了]** を選択します。
 

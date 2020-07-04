@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: alikhaki
+ms.author: alikhaki
 keywords: 教育、特別なセグメント
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b0b576348ed3c703fe517bbeef6271e3dcade08
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 873a36bb38e97ab1b4721a95748aa06af6be5048
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992172"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949240"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>教育機関のお客様にオファーを販売する方法 & パートナーセンターで教育機関の顧客を作成する方法
 
@@ -67,7 +67,7 @@ ms.locfileid: "84992172"
 
    :::image type="content" source="images/edunottagged.png" alt-text="トレーニングされていない教育機関":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>お客様のアカウント情報を修正し、審査を再送信します。  
+## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>顧客のアカウント情報を修正して審査のために再送信する  
 
 お客様が最初の審査に失敗した場合は、情報を修正して再送信することができます。
 
@@ -95,7 +95,7 @@ ms.locfileid: "84992172"
 
 2. 更新された顧客の詳細が教育機関の資格を受けられる場合は、**特別な要件**が**教育機関**に更新されていることがわかります。 まだ**教育機関のお客様でない**場合は、手動による検証についてサポートにお問い合わせください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)
 

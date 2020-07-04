@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365、Microsoft Dynamics CRM、Enterprise Mobility Suite などのライセンスベースのサービスと、Azure などの使用量ベースのサービスの現在の価格表をご覧ください。
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
-ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
+ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84661665"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949336"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、Enterprise Mobility Suite、Azure などの価格とプラン
 
@@ -74,9 +74,9 @@ ms.locfileid: "84661665"
 |**製品の種類**   |**製品の例**  |**使用可能なプレビュー** |**変更の詳細**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |ライセンスベース|Office、Dynamics、Intune、Windows Enterprise|30日間|プレビュー価格リストで CHNG とマークされた価格変更を表示する|
-|使用量ベース|Azure リソース|使用不可|前月の価格表の [**変更履歴**] タブで使用可能な変更ログ|
-|ソフトウェア||使用不可|価格表を月単位から手動で比較する|
-|Reservations|仮想マシン、前払い|使用不可|価格表を月単位から手動で比較する|
+|使用量ベース|Azure リソース|使用できません|前月の価格表の [**変更履歴**] タブで使用可能な変更ログ|
+|ソフトウェア||使用できません|価格表を月単位から手動で比較する|
+|Reservations|仮想マシン、前払い|使用できません|価格表を月単位から手動で比較する|
 
 使用量ベースの価格は、1か月を通じて変更できます。 これらの Azure リソースに対して "現在" の日単位の価格を取得するには、パートナーは RateCard API を呼び出す必要があります。 
 
@@ -92,7 +92,7 @@ CSP は、教育、非営利、政府向けコミュニティクラウドなど�
 |Education|Customer|いいえ、お客様の資格は Microsoft によって実行されます |ライセンスベースのみ|
 |非営利団体|Customer|いいえ、お客様はパートナーセンターの外にお客様を見極めます|ライセンスベースのみ|
 |Government Community Cloud (GCC)|パートナーと顧客|GCC が有効になると、パートナーは GCC の顧客を作成できるようになります。| ライセンスベースのみ|
-|Azure Government|パートナー|認定されると、パートナーは、に固有の CSP テナントで動作 Azure Government|Azure リソース|
+|Azure Government|Partner|認定されると、パートナーは、に固有の CSP テナントで動作 Azure Government|Azure リソース|
 
 パートナーの利益、定価と推定小売価格の違いは、セグメントごとに異なる場合があります。 通常、教育と非営利には、CSP パートナーの利益が低い、またはない傾向があります。 正確な値については、ライセンスベースの価格表を参照してください。 
 
@@ -181,7 +181,7 @@ Microsoft 365 A1 基本プランには6年間の期間があります。  Office
 |製品またはサービス  |ERP および MSRP 価格表の詳細  |
 |ライセンスベースのサービス  |ライセンスベースの価格表に ERP として表示される  |
 |Azure の使用量ベースのサービス  |共有サービスの同等の価格表に記載されています。  |
-|Azure Reservations  |共有サービスの同等の価格表に記載されています。  |
+|Azure の予約  |共有サービスの同等の価格表に記載されています。  |
 |Azure プランの使用量ベース  |価格シートの価格は割引されていません  |
 |Azure プランの予約  |Azure 予約共有サービスの価格表を参照する  |
 |ソフトウェア サブスクリプション  |ソフトウェアサブスクリプション価格一覧で MSRP として表示される  |

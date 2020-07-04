@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターを使用して、クラウドソリューションプロバイダーが、コマーシャルマーケットプレースから購入したサードパーティの ISV プランを管理する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: サブスクリプション、Marketplace、サードパーティ、ISV、SaaS プラン、クラウドソリューションプロバイダープログラム、プランの管理、サブスクリプションの管理、ライセンスの管理、サブスクリプションの取り消し、座席、自動更新の無効化、間接リセラーの MPN ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
-ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
+ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/03/2020
-ms.locfileid: "85937628"
+ms.locfileid: "85947757"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>顧客向けの市販の marketplace 製品とプランを管理する
 
@@ -115,7 +115,7 @@ SaaS 商用 marketplace プランでは、顧客サブスクリプションの�
 
 また、パートナーセンター Api を使用して、ライフサイクル管理を実行し、サブスクリプションの請求書を管理することもできます。 詳細については、「[商用 marketplace 製品のサブスクリプションを作成する](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)」を参照してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)
 - [商用マーケットプレースでの課金についての詳細情報](csp-commercial-marketplace-billing.md)

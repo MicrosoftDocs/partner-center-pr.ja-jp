@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
 description: 承認されたサブスクリプションアドバイザーがパートナーセンターを使用して購入プランとカスタム URL を作成し、Office 365 の試用版への招待に含める方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 keywords: advisor、office 365、購入
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b9ab4fd293dce26a738ab055a2ca31e8ce1884b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: f11aa00692ac3686aedaf069e11960919d1c4380
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458368"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947455"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>アドバイザー: 購入プランを作成する
 

@@ -5,17 +5,17 @@ ms.date: 06/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ソフトウェアアシュアランストレーニング伝票プログラムに登録する方法について説明します。これにより、企業のお客様にトレーニングと計画を提供するための補償を受けることができます。
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 keywords: トレーニング受講券, ソフトウェア アシュアランス, トレーニング, SATV での登録, SATV
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 0d14a588e24488b4d45b52540e8d749cbf8bdbad
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: e4910ed3301e6399f9ce6ab26bfc69c7257e2bff
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788796"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949552"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム
 
@@ -23,7 +23,7 @@ ms.locfileid: "84788796"
 
 承認されたソフトウェア アシュアランス トレーニング パートナーとして、企業顧客がソフトウェア アシュアランスで取得した受講券と引き換えに、Microsoft は技術トレーニングの提供に対する補償を行います。 このプログラムに参加すると、より多くの顧客を獲得し、その信頼されたラーニング パートナーになることができます。
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>作業開始
 
 ソフトウェアアシュアランストレーニングサービスを初めてご使用になる場合は、以下のすべての手順に従ってください。 トレーニング伝票プログラムで既にアクティブになっている場合は、以下の手順 4 (4) から開始します。 
 

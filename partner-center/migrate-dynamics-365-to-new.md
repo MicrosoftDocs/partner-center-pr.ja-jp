@@ -5,17 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 有効期限が切れる前に、限定された Dynamics 365 Business Edition のプランを新しいバージョンに移行する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 Keywords: Dynamics 365 プラン、更新プラン、新しい Dynamics 365 Sku
-ms.openlocfilehash: 9675f607d183c5d427371de4f09f088fd267c573
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: e32dc8f769e9ba6299a9f7d92c5c58d85940cd94
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992078"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949638"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Dynamics 365 Business Edition プランの新しいバージョンへの移行
 
@@ -65,7 +65,7 @@ Dynamics 365 Business Edition のお客様は、2020年6月30日まで、新し�
 2. [**ユーザーとライセンス**] を選択します。
 3. ライセンスをユーザーに再割り当てするには、ユーザーを選択し、[**ライセンスの管理**] を選択します。 
 4. [**ライセンスの管理**365] ページで、[Basic (限定されたプラン) のライセンス] チェックボックスをオンにして、顧客が移動しているサブスクリプションの新しいサービスプランを選択します。 
-5. **[送信]** を選択します。 この操作は、新しいライセンスが必要なユーザーごとに行います。 
+5. **[Submit]\(送信\)** をクリックします。 この操作は、新しいライセンスが必要なユーザーごとに行います。 
 
 新しいサブスクリプションにライセンスを移行したら、古いサブスクリプションを取り消すことができます。 
 

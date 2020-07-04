@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner Center Insights (PCI) レポートに関連する既知の問題について説明します。
 keywords: PCI、測定、レポート、問題、制限事項
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2a944e37760e6dc56dde7ea850f9b86d43215a8c
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 69e99b442c8a3e135aa9f687d11000908b6c218e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908600"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948745"
 ---
 # <a name="known-issues-with-partner-center-insights"></a>パートナーセンターの洞察に関する既知の問題
 

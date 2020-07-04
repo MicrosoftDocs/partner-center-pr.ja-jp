@@ -5,17 +5,17 @@ ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft の認定パートナーとして、Microsoft との共同販売を行うことができます。 取引を定義する方法、Microsoft に招待して共同作業を行う方法、または送信された取引を表示する方法を説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 keywords: 紹介、共同販売、商談
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 485999e323c325ab30361ed60dfe2c9eb7bada07
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328363"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949454"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>パートナーセンターで共同販売の機会を管理して、顧客のニーズに合わせて取引を定義する
 
@@ -79,9 +79,9 @@ ms.locfileid: "84328363"
 |**取引名** | Mandatory | 後で取引を識別するためのフレンドリ名。 |
 |**推定値** | Mandatory | 取引の作成中に利用可能な情報に基づいて処理される値。|
 |**推定終了日**| Mandatory| 顧客との取引を終了する予定日。 |
-|**CRM ID**| 省略可能 | 目的を追跡するために、それぞれの CRM で営業案件の ID をタグ付けします。|
-|**マーケティングキャンペーン ID**| 省略可能 | 取引を行ったマーケティングキャンペーンをキャプチャします。 このフィールドは、同じ ID を持つキャンペーンからのすべての取引をタグ付けする場合に、特定のキャンペーンの ROI を追跡するのに役立ちます。|
-|**メモ**| 省略可能 | すべての最新情報を更新して、会社の他の従業員に対して同じ取引を行ったり、現在の状況を把握したりすることができるようにします。 これは、Microsoft の販売者やその他のパートナーと会社との話し合いを行うために、レコードの通信として使用することもできます。|
+|**CRM ID**| オプション | 目的を追跡するために、それぞれの CRM で営業案件の ID をタグ付けします。|
+|**マーケティングキャンペーン ID**| オプション | 取引を行ったマーケティングキャンペーンをキャプチャします。 このフィールドは、同じ ID を持つキャンペーンからのすべての取引をタグ付けする場合に、特定のキャンペーンの ROI を追跡するのに役立ちます。|
+|**ノート**| オプション | すべての最新情報を更新して、会社の他の従業員に対して同じ取引を行ったり、現在の状況を把握したりすることができるようにします。 これは、Microsoft の販売者やその他のパートナーと会社との話し合いを行うために、レコードの通信として使用することもできます。|
 
 ### <a name="add-your-employees"></a>従業員を追加する
 
@@ -141,7 +141,7 @@ ms.locfileid: "84328363"
 - **承諾する取引を慎重に選び**ます。 同意して拒否した取引の種類を監視し、この情報を使用して類似の取引を見つけることができます。 適切に適合していない取引を受け入れると、検索結果が改善されず、受信した営業案件の品質に影響を与える可能性があります。
 - **取引規模の見積もり、予定終了日、最終的な契約の成否 (受注または失注) をマイクロソフトに報告してください**。 この情報を使用して、引き続き品質の紹介を提供します。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [見込み客を管理する](manage-leads.md)
 
