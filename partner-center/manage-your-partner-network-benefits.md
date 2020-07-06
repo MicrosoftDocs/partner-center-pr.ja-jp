@@ -44,7 +44,7 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
 
 特典パッケージでは、ライセンス付与されたソフトウェア、クラウド サービス、Visual Studio サブスクリプション、サポートが割り当てられます。 特典パッケージには、特定の市場投入、オファー、およびプログラムも含めることができます。 [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) サイトで Action Pack サブスクリプションの詳細を確認できます。  
 
-すべてのメンバーシップ特典を表示および管理するには、[ **[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) にアクセスします。 または、パートナー センター [ダッシュボード](https://docs.microsoft.com/partner-center/)にサインインし、左側のメニューから **[Benefits option]/(特典オプション/)** を選択して、表示されている任意の特典オプションを選択します。  
+すべてのメンバーシップ特典を表示および管理するには、[ **[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) にアクセスします。 または、パートナー センター [ダッシュボード](https://docs.microsoft.com/partner-center/)にサインインし、左側のメニューから **[Benefits option]\(特典オプション\)** を選択して、表示されている任意の特典オプションを選択します。  
 
 ## <a name="manage-software-benefits"></a>ソフトウェア特典を管理する
 
