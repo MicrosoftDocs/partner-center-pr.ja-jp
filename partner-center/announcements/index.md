@@ -9,12 +9,11 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 74c78646924c923a6c9db992589ed98612245cab
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
-ms.translationtype: HT
+ms.openlocfilehash: 2dd815862d84509a58726bea804be4fa14f3b729
+ms.sourcegitcommit: 622dab23ac25ebdcc9fcd736c23ce9cc177fe6da
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879095"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "86032487"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +21,7 @@ ms.locfileid: "85879095"
 
 | **カテゴリ** | **2020 年 7 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+| 製品サービス/市場 | [Teams 向けの新しい Microsoft 365 Enterprise Voice SKU](2020-july.md#4) | 7 月 3 日 |
 | 製品サービス/市場 | [Microsoft Dynamics 365 および Power Platform の新規および終了となるプランと製品](2020-july.md#3) | 7 月 1 日 |
 | 製品サービス/市場 | [Microsoft が、Microsoft Kaizala Pro スタンドアロン SKU の販売を終了](2020-july.md#2) | 7 月 1 日 |
 | 機能 | [CSP インセンティブ プログラムが FY21 Q1 まで延長](2020-july.md#1) | 7 月 1 日 |
