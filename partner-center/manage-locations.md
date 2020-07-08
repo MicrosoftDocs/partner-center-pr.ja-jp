@@ -5,17 +5,17 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで、新しい場所を追加する方法や、所在地 MPN ID がインセンティブ プログラム、CSP ビジネス、サブスクリプションなどのトランザクションでどのように使用されるかについて説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 keywords: パートナー アカウント, 場所
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 111acf67a57b8c8be1ef8c6bd4017c8d37770dde
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909060"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949666"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>パートナー センターでのパートナー アカウントの場所の管理と新しい場所の追加
 

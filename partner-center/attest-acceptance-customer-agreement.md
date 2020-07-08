@@ -5,17 +5,17 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナーが顧客に代わって Microsoft 顧客契約に対する同意を証明することが必要になる場合について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: aarzh-AaronZhang
+ms.author: v-aarzh
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート, 同意の証明
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b74989324fb64cbc8875752bfc33a24285e96936
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: feb5d900e140e4c70b45572b1ea20ed37c4e49e3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678560"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948579"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>顧客に代わって Microsoft 顧客契約の同意を証明する
 

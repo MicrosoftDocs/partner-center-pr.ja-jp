@@ -4,18 +4,18 @@ description: Azure の従量課金制プランの使用についてお客様と�
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 ms.custom: SEOAPR.20
 Keywords: Azure, Azure プラン, サブスクリプションの購入, サブスクリプション
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 849b205d8a889659647ba8a9cf788428b6b25e21
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 828c33f1d7182c9eff81930126efa7c795fa3b49
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394188"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948417"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Azure プランで従量課金制料金の使用を開始する
 

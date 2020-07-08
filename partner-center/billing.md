@@ -5,17 +5,17 @@ ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナー センターでの請求と税金に関するトピックについて説明します。 請求に関するリソース、請求書、CSP の請求、税金に関する情報が含まれます。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c29de1da1e3581e8aea02faa29ef1b804794b9c9
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 30415c0580a6a3a5a656f5fd66a5b53aa5c5b7b3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84990975"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948155"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概要:パートナー センターでの請求と税金に関する主要な記事
 

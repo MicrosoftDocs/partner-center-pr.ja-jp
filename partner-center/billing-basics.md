@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 description: パートナー センターでの CSP パートナーに対する基本的な請求と請求書について説明します。 顧客への請求方法と、請求書の探し方と読み方についても説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: 請求, 支払い,注文,取り消し, 注文管理, 未払い, 詐欺, 不正使用, 税, 税額控除, 調整ファイル, 調整用のファイル
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c911626e03bf2a84ee4d4b701def7d12c25c15fc
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 91b3aaf27e049c4aab5c2c1c5c44d0fb2976a25f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908241"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948220"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>パートナー センターを使用する CSP プログラム パートナーのための請求の概要 
 

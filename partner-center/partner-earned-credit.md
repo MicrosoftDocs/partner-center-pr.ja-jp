@@ -5,16 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー獲得クレジット (PEC) が、どのように簡略化された統一 Azure 価格を提供し、付加価値のあるマネージド サービスを実現し、利益に対する競争を排除するかについて説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1da426156e3204becb01c48142329c5985b3eb3e
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 878193903561768c3f837913be5b85cadf64658c
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909000"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948932"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>パートナー獲得クレジット - CSP の新しいコマース エクスペリエンスにおける仕組みの概要
 

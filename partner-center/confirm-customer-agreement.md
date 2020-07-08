@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Microsoft 顧客契約に対する顧客の同意を確認する方法について説明します。 これは、CSP で、顧客のために Microsoft の製品やサービスを注文する際に必要となる場合があります。
-author: LauraBrenner
-ms.author: labrenne
+author: aarzh-AaronZhang
+ms.author: v-aarzh
 keywords: 顧客, お客様, 同意, MCA, Microsoft Cloud 契約, Microsoft 顧客契約, 顧客契約テンプレート
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d89c625375c203fe77556c47b6061faa293e1b0
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: bc809c693b74f2a7fc6a906c625efebb6678784e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679109"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947959"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP パートナー プログラムで Microsoft 顧客契約への顧客の同意を確認する
 
