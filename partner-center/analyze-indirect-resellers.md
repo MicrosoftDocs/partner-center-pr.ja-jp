@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 分析を使用して、間接リセラーがどのように実行されているかを確認します。成功と領域の両方で、さらに注意が必要になる場合があります。
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947417"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175968"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>分析を使用して間接リセラーのパフォーマンスを分析する
 
@@ -35,6 +35,8 @@ ms.locfileid: "85947417"
 
 > [!NOTE]
 > 間接リセラー分析は、クラウド ソリューション プロバイダー プログラムに参加しているパートナーのみが利用できます。
+
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>表示可能なリセラー分析メトリックの種類
 
 次のメトリックを追跡しています。
 
@@ -69,4 +71,6 @@ ms.locfileid: "85947417"
  - **Subscriptions** (サブスクリプション数): リセラーが販売したサブスクリプションの数  
  - **Licenses** (ライセンス数): すべてのサブスクリプションを合わせてリセラーが販売したライセンスの合計数  
   
-  
+## <a name="next-steps"></a>次の手順
+
+- [サブスクリプションとライセンスを分析して、ビジネス上の意思決定を促進する](analyze-subscriptions-licenses.md)

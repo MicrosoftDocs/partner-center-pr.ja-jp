@@ -1,7 +1,7 @@
 ---
-title: 最大限の予約使用に備えた Microsoft Azure VM サイズ | パートナー センター
+title: 予約の最大使用量の Azure VM のサイズ設定
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Microsoft Azure の予約を購入した場合に、お客様のコンピューティングニーズに合わせて仮想マシン (VM) のサイズを変更する方法について説明します。
@@ -9,23 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 予約, VM, 管理, 請求, 使用, サイズ
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 02635631d618b226eebcacee534e5947975b8153
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453279"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175911"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ
 
 **適用対象**
 
 - パートナー センター
-- Azure Portal
+- Azure portal
 - CSP のパートナー
 
-## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>顧客の Azure 予約の VM サイズを決定する 
+## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>顧客の Azure 予約の VM サイズを決定する
 
 お客様の代わりに Microsoft Azure 予約を購入する場合は、お客様のコンピューティングニーズに合わせて仮想マシン (VM) のサイズを選択する必要があります。 この情報は、次のいずれかの方法を使用して確認できます。
 
@@ -42,27 +42,31 @@ ms.locfileid: "84453279"
 >[!IMPORTANT]
 >顧客に代わって購入する VM の種類とサイズを正しく特定するには、以下で説明するいずれかの方法を使用する必要があります。パートナー センターの調整ファイルには、VM 系列の種類が正しく表示されません。
 
-**Azure Utilization API を使用して VM サイズ情報を取得する**
+### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>Azure Utilization API を使用して VM サイズ情報を取得する
 
 1. API の応答に含まれる additionalInfo の ServiceType 属性の値を使用して、購入する VM サイズ を特定します。
+
 2. 詳細については、[パートナーセンター API](https://docs.microsoft.com/partner-center/develop/)の「 [Azure の顧客の使用状況レコードを取得する](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)」を参照してください。
 
-**Microsoft Azure portal を使用して VM サイズ情報を取得する**
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Microsoft Azure portal を使用して VM サイズ情報を取得する
 
 1. パートナー センターで **[顧客]** ページに移動します。
+
 2. Azure VM の予約を購入したい顧客を見つけて、下矢印を選択して顧客の情報を展開します。 [ **Microsoft Azure の管理ポータル**] を選択して、Azure portal で顧客のレコードを開きます。
+
 3. ポータルのメニューから **[仮想マシン]** を選択し、予約を購入する対象の VM を選択します。
+
 4. VM の詳細ページで、次に示すように、サイズとリージョンの情報を検索し、この情報を使用してパートナーセンターで予約を購入します。  
 
-    :::image type="content" source="images/usage1.png" alt-text="[詳細] ページのサイズとリージョンの情報":::
+   :::image type="content" source="images/usage1.png" alt-text="[詳細] ページのサイズとリージョンの情報":::
 
-**Microsoft Azure PowerShell を使用して VM サイズ情報を取得する**
+### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Microsoft Azure PowerShell を使用して VM サイズ情報を取得する
 
 下の画像の情報を使用して、予約を購入する対象の VM の場所とサイズを取得します。 
 
 :::image type="content" source="images/usage2.png" alt-text="VM の場所とサイズ":::
 
-**Azure Resource Manager (ARM) API を使用して VM サイズ情報を取得する**
+### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Azure Resource Manager (ARM) API を使用して VM サイズ情報を取得する
 
 1. ARMClient または ARM API を使用し、予約を購入する対象の VM に対して ARM クライアントを呼び出します。
 
@@ -79,7 +83,7 @@ ms.locfileid: "84453279"
 
 次のいずれかの方法を使用して、顧客の予約使用状況を確認し、予約割引が適用されている仮想マシンを確認できます。
 
-- Azure ポータル
+- Azure portal
 - Azure Utilization API
 
 これらの方法を使用するための手順をそれぞれ以下に示します。

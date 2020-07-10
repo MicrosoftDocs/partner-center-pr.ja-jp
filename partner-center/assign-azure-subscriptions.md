@@ -10,12 +10,12 @@ ms.author: dineshvu
 keywords: Azure, Azure サブスクリプション, サブスクリプション, 月額プラン, サブスクリプションの割り当て, Azure サブスクリプションの管理
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0beb6f0a4f4a2b0eb4cc731c9bf30add379ea6e3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ae6b1dd2d5b24dd44431f27473f783b90a74fd18
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948556"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175916"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>パートナー センターで顧客に Azure サブスクリプションを割り当てる
 
@@ -37,11 +37,12 @@ ms.locfileid: "85948556"
 
 6. ユーザーをサブスクリプションに追加したら、そのユーザーに対して、ロールと、そのユーザーからアクセスできるようにする特定のアカウントを割り当てることができます。
 
-**顧客が Azure サブスクリプションを管理できるようにする**
+## <a name="enable-customers-to-manage-their-azure-subscriptions"></a>顧客が Azure サブスクリプションを管理できるようにする
 
 顧客の Microsoft Azure サブスクリプションを作成すると、サブスクリプションを有効にして管理することができます。 これを行うには、顧客の Microsoft Azure 管理ポータルにログオンする必要があります。 
 
 1. 顧客の Azure portal を開くには、顧客リスト内の顧客の一覧を展開するか、顧客の名前を選択し、[ **Microsoft Azure の管理ポータル**] を選択します。
+
    > [!NOTE]  
    > Azure portal にログオンするように求められた場合は、管理者特権が委任されていない可能性があります。 **[関係を要求する]** を選択し、指名パートナーとして指定するよう顧客を招待します。 顧客が招待を受け入れると、代理管理者権限が自動的に付与されます。
 
@@ -49,4 +50,8 @@ ms.locfileid: "85948556"
 
 3. 顧客のユーザーにロールを割り当てて、サブスクリプションのリソースを作成して管理できるようにします。
 
+## <a name="next-steps"></a>次の手順
 
+- [CSP パートナーが顧客にサブスクリプションを販売する方法](customer-subscriptions.md)
+
+- [顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を取得する方法](customers-revoke-admin-privileges.md)

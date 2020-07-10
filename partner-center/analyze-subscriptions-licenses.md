@@ -1,23 +1,23 @@
 ---
-title: サブスクリプションとライセンスの分析 | パートナー センター
-ms.date: 11/13/2019
+title: サブスクリプションとライセンスの分析
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: '[サブスクリプションとライセンス分析] ページのメトリックを使用して、注意が必要な成功と領域を特定する方法について説明します。'
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: ビジネス データ
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948582"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175961"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>サブスクリプションとライセンスの分析 
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>サブスクリプションとライセンスを分析して、ビジネス上の意思決定や新しい目標を促進
 
 **適用対象**
 
@@ -44,6 +44,8 @@ ms.locfileid: "85948582"
  - **Microsoft 365**: Microsoft 365 データ  
  - **Office 365**: Office 365 データ  
 
+
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>表示可能なサブスクリプションとライセンスメトリックの種類
 
 次のメトリックを追跡しています。
 
@@ -77,4 +79,6 @@ ms.locfileid: "85948582"
 **30 日以内に終了する試用版サブスクリプション**  
  - 開始されたが、終了日が 30 日以内であり、有料版の開始日がサブスクリプションに関連付けられていない試用版の一覧  
 
-  
+## <a name="next-steps"></a>次の手順
+
+- [間接リセラーのパフォーマンスを分析する](analyze-indirect-resellers.md)
