@@ -5,18 +5,18 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 中断されたパートナー センター アカウントを復元する方法、パートナー アカウントが中断される理由、および中断されたアカウントを使用する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514480372d1717159f9dff6cb3b3b2e575c069b8
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991801"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219650"
 ---
-# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>中断されたパートナーセンターアカウントを復元する-発生する理由とその対処方法について説明します。
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>中断されたパートナー センター アカウントを復元する - 発生する理由とその対処方法についての説明
 
 この記事では、パートナー センター アカウントが中断されている場合の対処方法について説明します。
 
@@ -27,7 +27,7 @@ ms.locfileid: "84991801"
 
 
 > [!IMPORTANT]  
-> パートナー センターのアカウントが一時停止された場合でも、既存の展開、ライセンス、およびサービスは引き続き管理できます。 ただし、アカウントが再び有効になるまで、新しいライセンスまたはサービスを承認または再販することはできません。
+> パートナー センター アカウントが中断されている間も、既存のデプロイ、ライセンス、およびサービスの管理を続けることができます。 ただし、アカウントが再び有効になるまで、新しいライセンスまたはサービスを承認または再販することはできません。
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>パートナー センターのアカウントが中断されている理由
 

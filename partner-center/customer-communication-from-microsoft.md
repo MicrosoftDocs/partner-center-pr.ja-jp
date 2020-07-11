@@ -5,16 +5,16 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: クラウドソリューションプロバイダープログラムの顧客とパートナーの間でマイクロソフトが顧客とのコミュニケーションを期待する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 keywords: 連絡、お客様への連絡、マイクロソフトに問い合わせる
 ms.localizationpriority: medium
-ms.openlocfilehash: ba4a6da83678b4238a0c7ecc5836f875a3674277
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 60d0d2e5f46700de017e78684f0b8e18f91368b3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991362"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219520"
 ---
 # <a name="customer-communication-from-microsoft"></a>Microsoft から顧客への通信
 

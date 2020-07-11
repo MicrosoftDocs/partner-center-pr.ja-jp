@@ -1,21 +1,20 @@
 ---
 title: Azure サブスクリプションを別のパートナーに転送する
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顧客の Azure サブスクリプションに関連付けられている CSP プログラムパートナーを変更する方法について説明します。
-author: dhirajgandhi
-ms.author: dhgandhi
-keywords: azure サブスクリプション, パートナーの切り替え, パートナーの変更, 新しいパートナーの獲得, 別のパートナー
+description: 顧客の Azure サブスクリプションに関連付けられているクラウドソリューションプロバイダープログラムパートナーを変更する方法について説明します。
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 65278a9c597fb240f87c04f215a8195a0cff3e19
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+author: dhirajgandhi
+ms.author: dhgandhi
+ms.date: 07/10/2020
+ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
+ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949093"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86237972"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について説明します。
 
@@ -52,9 +51,9 @@ ms.locfileid: "85949093"
 
      手順 2. で、[ **C-影響を最小限**にする] を選択し、問題の種類として**他の一般的な質問**を選択します。
 
-     [CSP サブスクリプションの譲渡フォーム](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)をダウンロードします。
+     [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
 
-3. サブスクリプションのパートナーは、[CSP サブスクリプションの譲渡フォーム](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)に入力して署名し、フォームを顧客に送信します。 フォームに入力するには、次の情報が必要です。
+3. サブスクリプションのパートナーは、[CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)に入力して署名し、フォームを顧客に送信します。 フォームに入力するには、次の情報が必要です。
 
    - 現在のパートナーの連絡先情報と Microsoft ID。 パートナー センター メニューで、**[アカウント設定]** &gt; **[組織プロファイル]** を選び、表示される **[Microsoft ID]**、**[組織名]**、および **[住所]** を使います。
 
