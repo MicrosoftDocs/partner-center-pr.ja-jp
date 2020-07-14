@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Power BI 用のパートナーセンター分析アプリについて、この概要とよく寄せられる質問をご覧ください。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: LauraBrenner
-ms.author: labrenne
+author: v-sumukh
+ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eacf0408e8ee87b6eeb15a2c61e24e6056cd593c
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 54301590ce6be6d9076d1fb337979148455f25f6
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795853"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302309"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI 用のパートナーセンター分析アプリの概要と Faq (CSP の直接パートナー)
 
@@ -64,7 +64,7 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 [Power BI 用パートナー センター分析アプリをインストールしてプレビューする](power-bi-app-for-direct-partners-install.md)
 

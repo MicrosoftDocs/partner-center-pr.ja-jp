@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターで受注した取引を登録すると、今後、さらに多くの機会をマイクロソフトに提供することができます。
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: 取引登録
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bb638d82315be392181ebad17040723d164119b
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 782eee28a7bd26131d15d449d451a4c29050fd4a
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467412"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302259"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>パートナーセンターで受注した取引を登録して、後でより多くの機会を得ることができるようにする
 
@@ -65,6 +65,6 @@ ms.locfileid: "84467412"
 
 情報を更新する必要がある場合は、取引登録を **[Action required]\(操作が必要\)** ページに移動することがあります。
 
-### <a name="closed"></a>［不可］
+### <a name="closed"></a>解決済み
 
 **[紹介] > [Deal registrations]\(取引登録\) > [終了]** ページに、Microsoft によって正常に登録およびレビューされた取引が表示されます。 フィルターを使用して、**[承認済み]** または **[拒否済み]** の取引登録のみを表示できます。

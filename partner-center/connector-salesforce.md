@@ -5,15 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターでの紹介を Salesforce CRM と同期する
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0a22587f5b555281cae6f557acfc2695ba92727e
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991620"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302379"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM のための共同販売コネクタ - 概要
 
@@ -79,7 +79,7 @@ ms.locfileid: "84991620"
 
 - 成功した場合は、運用インスタンスにマネージドソリューションとしてインポートします。
 
-## <a name="configure-the-solution"></a>ソリューションを構成する
+## <a name="configure-the-solution"></a>ソリューションの構成
 
 1. CRM インスタンスにソリューションをインストールしたら、[ [Power の自動化](https://flow.microsoft.com/)] に戻ります。
 
@@ -226,7 +226,7 @@ Salesforce CRM 管理者ユーザーは、別の CRM セクションを作成す
 
 3. 左側のナビゲーションから [**フィールド & リレーションシップ**を選択する]
 
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="フィールド":::
 
 4. **フィールド & リレーションシップ**テーブルに次のフィールドを追加します。
 
@@ -320,7 +320,7 @@ Salesforce CRM ソリューションの**営業案件**エンティティのパ�
 
     6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [Microsoft Power の自動化プラットフォームの詳細](https://docs.microsoft.com/-automate/)
 

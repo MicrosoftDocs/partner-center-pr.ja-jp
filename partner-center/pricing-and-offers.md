@@ -1,7 +1,7 @@
 ---
 title: 料金とプラン
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365、Microsoft Dynamics CRM、Enterprise Mobility Suite などのライセンスベースのサービスと、Azure などの使用量ベースのサービスの現在の価格表をご覧ください。
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f119410e1d1530ba909d4ce18edd83b718da74f8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949336"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286630"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、Enterprise Mobility Suite、Azure などの価格とプラン
 
@@ -42,7 +42,7 @@ ms.locfileid: "85949336"
 - **Marketplace**には、Microsoft の商用マーケットプレースの ISV ソリューションの料金が含まれています。 価格は市場ごとに取得されます。 これらのファイル内のデータは、毎日更新されます。
 
 > [!Note] 
-> 使用できる機能を持つ CSP パートナーだけが価格表を表示およびダウンロードできます。 間接リセラーは、価格の詳細を要求するために[CSP プロバイダーに連絡]( https://partner.microsoft.com/en-us/cloud-solution-provider/find-a-provider)する必要があります
+> 使用できる機能を持つ CSP パートナーだけが価格表を表示およびダウンロードできます。 間接リセラーは、価格の詳細を要求するために[CSP プロバイダーに連絡]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider)する必要があります
 
 ## <a name="price-list-preview-and-change-frequency"></a>価格表のプレビューと頻度の変更 
 
@@ -74,9 +74,9 @@ ms.locfileid: "85949336"
 |**製品の種類**   |**製品の例**  |**使用可能なプレビュー** |**変更の詳細**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |ライセンスベース|Office、Dynamics、Intune、Windows Enterprise|30日間|プレビュー価格リストで CHNG とマークされた価格変更を表示する|
-|使用量ベース|Azure リソース|使用できません|前月の価格表の [**変更履歴**] タブで使用可能な変更ログ|
-|ソフトウェア||使用できません|価格表を月単位から手動で比較する|
-|Reservations|仮想マシン、前払い|使用できません|価格表を月単位から手動で比較する|
+|使用量ベース|Azure リソース|使用できません。|前月の価格表の [**変更履歴**] タブで使用可能な変更ログ|
+|ソフトウェア||使用できません。|価格表を月単位から手動で比較する|
+|Reservations|仮想マシン、前払い|使用できません。|価格表を月単位から手動で比較する|
 
 使用量ベースの価格は、1か月を通じて変更できます。 これらの Azure リソースに対して "現在" の日単位の価格を取得するには、パートナーは RateCard API を呼び出す必要があります。 
 
@@ -157,7 +157,7 @@ Microsoft パートナー センター ソフトウェア開発キット (SDK) �
 
 Microsoft 365 A1 基本プランには6年間の期間があります。  Office 365 A1 アドオンは、この基本プランを購入した後に利用できます。 
 
-|**プラン名**   |**プラン ID**   |**Type**|
+|**プラン名**   |**プラン ID**   |**種類**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-001447 d53-8647-314ef2b091d2|基本プラン|
 |教員向け Office 365 A1 (デバイス用)|0757d14e-7c57-456f-8dab-47d164f2ff1f|アドオン|
@@ -185,7 +185,7 @@ Microsoft 365 A1 基本プランには6年間の期間があります。  Office
 |Azure プランの使用量ベース  |価格シートの価格は割引されていません  |
 |Azure プランの予約  |Azure 予約共有サービスの価格表を参照する  |
 |ソフトウェア サブスクリプション  |ソフトウェアサブスクリプション価格一覧で MSRP として表示される  |
-|マーケットプレース  |Marketplace の価格表で MSRP として表示される  |
+|Marketplace  |Marketplace の価格表で MSRP として表示される  |
 
 その他のリソース: 
 
