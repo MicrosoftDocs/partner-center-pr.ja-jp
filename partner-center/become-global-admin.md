@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで作業するには、まずドメインの所有権を確認する必要があります。 これを行う方法と、ユーザーを追加できるグローバル管理者になる方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 keywords: ドメイン, ドメインの確認, ドメインを確認, グローバル管理者, ユーザー ロール, アクセス許可
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908262"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948233"
 ---
 # <a name="verify-your-domain-ownership"></a>ドメインの所有者の確認
 
@@ -36,7 +36,7 @@ ms.locfileid: "82908262"
 
 ## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>ドメインの所有権を確認し、パートナー センターでグローバル管理者になる
 
-1. パートナー センターの **[Membership offers]\(メンバーシップの提供\)** ページから、 **[Become a global admin]\(グローバル管理者になる\)** を選択します。 
+1. パートナー センター ダッシュボードの **[メンバーシップ オファー]** ページから、 **[全体管理者になる]** を選択します。 
 
 2. **[ドメインの所有権の確認]** ページで、テーブルから TXT の値をコピーします。 ドメインが既に自動的に選択されていることに注意してください。
 
