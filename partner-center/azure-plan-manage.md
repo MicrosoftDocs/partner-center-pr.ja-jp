@@ -5,16 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーがさまざまなロールベースのアクセス制御 (RBAC) オプションを使用して、顧客の Azure リソースの運用上の制御と管理を実現する方法について説明します。
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d06ada3cc16949da9a457b4515978444887ed56
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948436"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175947"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure プランのサブスクリプションとリソースを管理する
 
@@ -29,9 +29,9 @@ ms.locfileid: "85948436"
 
 - **Azure Lighthouse**:AOBO では、複数の顧客と連携する個別のグループを柔軟に作成したり、グループやユーザーに対して複数のロールを有効にしたりすることはできません。 Azure Lighthouse を使用すると、複数のグループを複数の顧客またはロールに割り当てることができます。 Azure の委任されたリソース管理によって、ユーザーには適切なレベルのアクセス権が付与されるため、管理者エージェント ロールを持つ (つまり、AOBO のフル アクセス権を持つ) ユーザーの数を減らすことができます。 これにより、顧客のリソースへの不要なアクセスが制限され、セキュリティを向上させることができます。 また、大規模な複数の顧客をより柔軟に管理できます。 詳細については、「[Azure Lighthouse と Cloud Solution Provider プログラム](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider)」を参照してください。
 
--  **ディレクトリまたはゲスト ユーザーまたは[サービス プリンシパル](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** :CSP サブスクリプションへの詳細なアクセス権を委任するには、顧客のディレクトリにユーザーを追加するか、ゲスト ユーザーを追加して特定の RBAC ロールを割り当てます。 
+-  **ディレクトリまたはゲスト ユーザーまたは[サービス プリンシパル](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** :CSP サブスクリプションへの詳細なアクセス権を委任するには、顧客のディレクトリにユーザーを追加するか、ゲスト ユーザーを追加して特定の RBAC ロールを割り当てます。
 
-セキュリティ対策として、作業を実行するために必要な最小限のアクセス許可をユーザーに付与することをお勧めします。 [Azure Active Directory Privileged Identity Management リソース](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)に関する記事を参照してください。 
+セキュリティ対策として、作業を実行するために必要な最小限のアクセス許可をユーザーに付与することをお勧めします。 [Azure Active Directory Privileged Identity Management リソース](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)に関する記事を参照してください。
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>顧客の Azure リソースを管理するためにパートナー ID (MPN ID) を自分の資格情報にリンクする
 
@@ -56,28 +56,27 @@ ms.locfileid: "85948436"
 
 1. アラートを作成します。
 
-:::image type="content" source="images/azure/azurealert1.png" alt-text="Azure アラート":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="Azure アラート":::
 
 2. アラートを受け取るアクションの種類を選択します。たとえば、メールを送信するように指定すると、ロールの割り当ての削除が発生した場合に通知するメールが送信されます。
 
-:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="アラートを構成する":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="アラートを構成する":::
 
 ### <a name="aobo-removal"></a>AOBO の削除
 
 顧客は、Azure portal で **[アクセス制御]** に移動してサブスクリプションへのアクセスを管理できます。 **[ロールの割り当て]** タブで、 **[アクセス許可の削除]** を選択します。 この操作が行われた場合は、以下のように対処します。
 
 - 顧客と話し、管理者アクセス権を回復できるかどうかを確認します。
+
 - [ロールベースのアクセス制御 (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview) を介して付与されたアクセス権を使用します。
+
 - [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) を介して付与されたアクセス権を使用します。
 
 ロールベースのアクセス権は、管理者アクセス権とは異なります。 ロールでは、できることと実行できないことが明確に分かれています。 管理者アクセス権の方が広範囲です。
 
 PEC を獲得できるロールを確認するには、[パートナー獲得クレジットのロールとアクセス許可](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2)に関する記事を参照してください。
 
-
-
-
-**詳細情報**
+## <a name="next-steps"></a>次の手順
 
 - [Azure CSP サブスクリプションの管理者特権を取り消したり元に戻したりする](revoke-reinstate-csp.md)
 
