@@ -3,16 +3,16 @@ title: 1回限りの定期的な調整ファイル
 ms.topic: article
 ms.date: 05/26/2020
 description: パートナーセンターの1回限りおよび定期的な調整ファイルの各フィールドまたは列の意味を理解します。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a39962fb046b50497432e7e4fdabd020668702fe
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: a84a9bdf1e7366bed9e83f370703df5f44be1dfc
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908670"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390299"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>パートナーセンターでの1回限りの定期的な調整ファイル
 

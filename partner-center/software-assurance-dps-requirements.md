@@ -5,23 +5,23 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 企業が企業のお客様に提供したいと考えているソフトウェアアシュアランス計画サービスの各契約の資格要件について説明します。
-author: mowrim
-ms.author: mowrim
+author: ArpithaKanuganti
+ms.author: v-arkanu
 Keywords: デプロイ前、計画、ソフトウェアアシュアランス、契約、要件、有資格、オファリング
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86e75059ace279bf3b6a6f78b3e77262792f84dc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 491f685867a529047405df8941e8abdebf8c91ba
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949607"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390209"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>サービス契約を計画するための資格の要件を表示する
 
 **適切なロール**
 
-- 全体管理者
+- グローバル管理者
 - MPN パートナー管理者
 
 このトピックでは、会社が Microsoft のソフトウェアアシュアランス計画サービスの契約を登録または提供する前に満たす必要がある資格の要件について説明します。
@@ -42,7 +42,7 @@ ms.locfileid: "85949607"
 | Exchange の展開計画<br/><br/> Skype for Business の展開計画  | [Skype for Business と Exchange の展開計画サービス (S EDPS) 契約](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | データ資産の近代化  | [展開計画サービス (SSDPS) 契約の SQL Server](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [ソフトウェアアシュアランス計画サービスのワークフロー](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [ソフトウェアアシュアランス計画サービスに関する FAQ](https://go.microsoft.com/fwlink/?linkid=2116077)

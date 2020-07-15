@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客のサービスまたはサブスクリプションを代理で管理するために必要なアクセス許可を取得します。 アクセス許可の付与、取り消し、管理を行う方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 keywords: 委任された管理特権, 代理の管理, 特権の削除, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198600"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377436"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を取得する
 
@@ -34,7 +34,7 @@ ms.locfileid: "85198600"
 
 1.  **[顧客]** を選択し、 **[リセラーの関係を要求する]** を選びます。
 
-2.  次のページで、メール メッセージの下書きを確認します。 既定のメール アプリケーションで下書きメッセージを開くか、メッセージをクリップボードにコピーし、メールに貼り付けます。 
+2.  次のページで、メール メッセージの下書きを確認します。 既定の電子メール アプリケーションで下書きメッセージを開くことも、メッセージをクリップボードにコピーして電子メールに貼り付けることもできます。 
 
     >[!IMPORTANT]
     >メールのテキストを編集することはできますが、リンクを必ず含めてください。このリンクは、顧客が貴社のアカウントに直接アクセスできるようにカスタマイズされています。 

@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターで Azure AD アカウントを設定する前に、電子メールドメインの必要性について説明します。 電子メールドメインの購入方法についても説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c68fc9c64f2d21345b03ba65369678acdbe942fa
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: fb2b4af36c28efa44939842bcc9341ddda941e08
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788706"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390569"
 ---
 # <a name="how-to-get-a-work-email-address-before-you-set-up-your-partner-center-account"></a>パートナーセンターアカウントを設定する前に職場の電子メールアドレスを取得する方法
 

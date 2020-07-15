@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 間接リセラーが Microsoft 間接プロバイダー (またはディストリビューター) と連携して、カスタマー サポートと課金に関する支援を受ける方法について説明します。
 ms.prod: ''
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: 間接リセラー, リセラー, 間接プロバイダー, プロバイダー, パートナーシップ, VAR, tier2, 階層 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 9450d4e32a086add3c86e398dacd1a590e7e6d4c
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: 79eda54e958acd2c83074c6b84bba85c87096a33
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879348"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377716"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムで間接プロバイダーと連携する方法について説明します
 

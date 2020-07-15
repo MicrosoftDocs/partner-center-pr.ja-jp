@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターでメトリックを使用する方法について説明します。 ビジネスが成長しているかどうか、顧客がライセンスをどのように使用しているか、および投資に焦点を当てる場所をメトリックで示すことができます。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ef1ea79e669c16e663a40cdef8b0d4d3af6f219f
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: fda561933082f829a35e6cd9c9b8b0754225cb4c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175892"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377266"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>パートナーセンターでメトリックを使用して、導入と満足度を高める
 
@@ -79,7 +79,7 @@ ms.locfileid: "86175892"
 
   - 一部の顧客がライセンスで付与されている権利の数を大幅に超える Yammer を使用している場合。データが大幅に歪められることがあります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 多くのヘルプと操作方法に関する質問をフィールディング、アカウントの導入数が少ない場合、またはアップセルの機会を探している場合は、トレーニングコースの提供を検討することをお勧めします。 顧客が購入したクラウドソリューションソフトウェアをより適切に使用する方法を説明することで、生産性と満足度が向上し、サポートニーズが減少します。
 

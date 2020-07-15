@@ -5,17 +5,17 @@ ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムのパートナーがパートナー センターを使用して、顧客に代わって Azure 予約インスタンスとサーバー サブスクリプションの購入、管理、販売、および取り消しを行う方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Azure RI, Windows Server, SQL Server, ソフトウェア サブスクリプション, ソフトウェアの取り消し
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46d64a72ded1e9b165a84ede50c0baf695a816b7
-ms.sourcegitcommit: 11325c74d0c41316fb143beda603177241403b8c
+ms.openlocfilehash: 96e4e0fb973350e8d3718b6545eb80ae21d0b49c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "85267189"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377586"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>クラウド ソリューション プロバイダー (CSP) プログラムによりソフトウェア サブスクリプションを販売する
 

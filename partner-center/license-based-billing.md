@@ -3,17 +3,17 @@ title: ライセンス ベースの課金
 ms.topic: article
 ms.date: 05/18/2020
 Description: ライセンスベースの課金とパートナーセンターの使用量ベースの課金との違いについて説明します (ライセンスの使用法ではなく、ライセンスごとの請求方法など)。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: 請求、支払い、ライセンスベース、ライセンス
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2de61f21f28a3ce343edc68035d836a74f98870d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: b3f2e982d82731159b20014dbcc7ee10cf9f73b9
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795795"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377706"
 ---
 # <a name="license-based-billing-in-partner-center"></a>パートナーセンターでのライセンスベースの課金
 

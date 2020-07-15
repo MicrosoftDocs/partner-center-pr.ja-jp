@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで紹介の分析情報データを定期的に確認し、対処すべき傾向や改善できる部分を特定することで、ビジネス目標を達成できます。
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: 紹介、分析、解析、メトリック、変換
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ffe5c7a485749d138be09fb5740d9b15970a546
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 34794d3ef29167b9e6012bfdbedcbfa835028a83
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679429"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302339"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>パートナーセンターで紹介の分析情報を取得し、紹介の効果を確認する
 

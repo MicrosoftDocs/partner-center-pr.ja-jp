@@ -5,18 +5,18 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Cloudyn web アプリを登録し、パートナーセンターで秘密キーを使用する方法について説明します。これにより、アプリを使用して、お客様の Azure の使用状況とコストを追跡することができます。
-author: LauraBrenner
-ms.author: labrenne
+author: aparnagkrishnan
+ms.author: aparnag
 Keywords: Azure コスト管理アプリ, コストの管理, Web アプリ
 robots: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d88f37e0fe653c679df5729fa283336e4c7e144
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 521501f9a979c0993d299ab30443168408656a44
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908370"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390449"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>CSP パートナー向けの Azure cost management アプリを使用して、お客様の Azure の使用状況とコストを追跡します  
 

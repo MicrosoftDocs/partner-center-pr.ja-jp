@@ -3,19 +3,19 @@ title: CSP パートナーの勧告-Microsoft 365 音声
 description: 一部の国の PSTN サービスと、パートナーの注文と請求に適用される可能性がある特別な税金または規制の要件について説明します。
 ms.topic: article
 ms.date: 05/05/2020
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Office, O365, PSTN サービス, 税金, 要件, 請求書, 請求
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96271a574ad84d28651e263c34a8238093e0d026
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907361"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377796"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 Partner アドバイザリ: CSP プログラムでの音声の Microsoft 365 Business
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 パートナー アドバイザリ:CSP プログラムでの Microsoft 365 Business Voice
 
 **適用対象**
 
@@ -38,7 +38,7 @@ ms.locfileid: "82907361"
 
 さらに、CSP の請求書には次の脚注が表示されます。
 
-* 表示される料金は、オーディオ会議およびプランサービスの呼び出しに対して課金されます。  適用可能なトランザクションの税金については、米国内で行われた売上を除いて、示されている量だけが請求されます。  米国では、表示される料金は、通話プランとオーディオ会議サービスの料金が含まれているため、税金と料金が請求されます。  オーディオ会議と通話プランサービスは、Microsoft 関連によって提供されることが認められています。  詳細については、「 [Microsoft ボリュームライセンス](https://go.microsoft.com/fwlink/?LinkId=690247)」を参照してください。
+* 表示される料金は、オーディオ会議およびプランサービスの呼び出しに対して課金されます。  適用可能なトランザクションの税金については、米国内で行われた売上を除いて、示されている量だけが請求されます。  米国では、表示される料金は、通話プランとオーディオ会議サービスの料金が含まれているため、税金と料金が請求されます。  オーディオ会議と通話プランサービスは、Microsoft 関連によって提供されることが認められています。  詳細については、[Microsoft ボリューム ライセンス](https://go.microsoft.com/fwlink/?LinkId=690247)をご覧ください。
 
 ## <a name="reconciliation-file-example"></a>調整ファイルの例
 
@@ -55,6 +55,6 @@ Office 365 Enterprise E5 は、調整ファイルに同一の名前と同じ Id 
 
 カナダで利用可能な Microsoft 365 Business 音声には、CSP 請求書に統合されている追加の PSTN 非課税コンポーネントがあります (Office 365 E5 と同様、2つの行項目が表示されます。1つは PSTN コンポーネント用、もう1つは pstn 以外のコンポーネント用) です。  Microsoft 365 Business 音声の CSP 調整ファイルには、すべての PSTN の非課税コンポーネントが個別に表示されます (個々の PSTN コンポーネントはに統合されません)。CSV または API ツール)。  調整ファイルで見つかった顧客の注文明細と請求金額の合計が CSP 請求書と一致します。
 
-## <a name="additional-resources"></a>その他の情報
+## <a name="additional-resources"></a>その他のリソース
 詳細については、[パートナーサイトの Microsoft 365](https://www.microsoft.com/microsoft-365/partners/)を参照してください。
 

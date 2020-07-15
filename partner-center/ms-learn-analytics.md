@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 個々のトレーニング、完成したモジュール、完成したラーニングパスなどのデータを活用して、会社の学習器を追跡します。
-author: LauraBrenner
-ms.author: labrenne
+author: shganesh-dev
+ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d294250e1a8fe58d190c76aee7b3b885d1bf2435
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795931"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390659"
 ---
 # <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn analytics レポートには、社内の学習者の状態が表示されます。
 

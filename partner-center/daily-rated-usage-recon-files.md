@@ -3,16 +3,16 @@ title: 毎日評価済みの使用状況調整ファイル
 ms.topic: article
 ms.date: 06/12/2020
 description: パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37f337734d4f3f9ea67ec434e1bd478a355214bb
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: bdb8e392761d02909ebca21c38d2f04a9dfeb60d
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908680"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377416"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
@@ -64,7 +64,7 @@ ms.locfileid: "84908680"
 | MeterSubCategory | 料金に影響する可能性のある Azure サービスの種類。 |
 | MeterName | 使用しているメーターの測定単位。 |
 | MeterRegion | この列は、これが該当し、設定されている場合に、サービスの領域内でのデータ センターの場所を識別します。 |
-| ユニット | リソース**名**の単位です。 |
+| 単位 | リソース**名**の単位です。 |
 | ResourceLocation | メーターが実行されているデータセンター。 |
 | ConsumedService | 使用した Azure プラットフォーム サービス。 |
 | ResourceGroup | Azure ソリューションの関連リソースを保持するコンテナーを表します。 |
@@ -79,7 +79,7 @@ ms.locfileid: "84908680"
 | PricingCurrency | 価格表の通貨。 |
 | ServiceInfo1 | 特定の日にプロビジョニングおよび使用された Service Bus 接続の数。 |
 | ServiceInfo2 | 省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールド。 |
-| タグ | ユーザーによって設定された Azure リソースの論理編成を表します。 |
+| Tags | ユーザーによって設定された Azure リソースの論理編成を表します。 |
 | AdditionalInfo | 他の列で説明されていない任意の追加情報。 |
 | EffectiveUnitPrice | 割引、獲得したクレジットなど、単位ごとに課金される実際の値。 |
 | PCToBCExchangeRate | 料金通貨に適用される換算レートが請求通貨に適用されます。 |

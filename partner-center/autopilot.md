@@ -5,17 +5,17 @@ ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: お客様の新しいデバイスを提供する前に、Windows 自動操縦プロファイルを使用して、デバイスの既定のエクスペリエンス (OOBE) をカスタマイズまたは事前構成できます。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, ゼロタッチ展開, OOBE, ログイン画面, out-of-box
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a3067b674b7784df34fba3de9cfaa5b44349b8c4
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 85750e58efb7f79612a666f556cddff27db28d76
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679189"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377666"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>新しいデバイスで Windows の自動操縦プロファイルを使用して、顧客の既定のエクスペリエンスをカスタマイズする
 

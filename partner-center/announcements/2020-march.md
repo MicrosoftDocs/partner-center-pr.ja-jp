@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/01/2020
-ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678929"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286620"
 ---
 # <a name="march-2020-announcements"></a>2020 年 3 月のお知らせ
 
@@ -118,7 +118,7 @@ _________________
 
 **ご質問がある場合**
 
-ご質問がある場合や詳細情報が必要な場合は、[サポートにお問い合わせください](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp)。
+ご質問がある場合や詳細情報が必要な場合は、[サポートにお問い合わせください](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
 
 _________________
 
@@ -148,7 +148,7 @@ Enterprise Agreement (EA)、Enterprise Agreement Subscription (EAS)、Microsoft 
 
 **新しいエントリレベルの SKU:** 新しいエントリレベルの SKU は Microsoft 365 F1 と呼ばれ、現場担当者向けにカスタマイズされた機能、拡張されたセキュリティ、すべての従業員に対する優れた ID 機能を提供します。 このプランには、Teams、SharePoint Online、Yammer Enterprise、Stream、EMS E3、および Office Web / Mobile Apps 用の読み取り専用アクセスが含まれています。
 
-これらの変更によって、現場担当者はさらに多くの利点を活用できるようになり、パートナー様はさらに多くのユーザーをすばやく獲得できるようになります。 **[こちら](http:/resources/collection/Microsoft-365-firstline-offer-updates#/)からその他のドキュメントにアクセスして、価値提案とパートナー様の次のステップについての詳細をご確認ください。**
+これらの変更によって、現場担当者はさらに多くの利点を活用できるようになり、パートナー様はさらに多くのユーザーをすばやく獲得できるようになります。 **[こちら](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates)からその他のドキュメントにアクセスして、価値提案とパートナー様の次のステップについての詳細をご確認ください。**
 
 |**タイムラインの変更**|**変更**|
 |-------------------|:------|
@@ -311,7 +311,7 @@ _________________
 - ファーストパーティのロボティック プロセス オートメーション (RPA) オファー
 - RPA オファーの新しいボット製品
 
-[こちら](https://partner.microsoft.com/en-us/pcv/.)の「Dynamics CSP オファーの更新プログラム – 2020 年 3 月」というファイルで変更内容をご確認ください。
+[こちら](https://partner.microsoft.com/pcv/.)の「Dynamics CSP オファーの更新プログラム – 2020 年 3 月」というファイルで変更内容をご確認ください。
 
 ### <a name="additional-resources"></a>その他の資料:
 
@@ -367,7 +367,7 @@ Microsoft は、Windows E3 ライセンスの前提条件を Microsoft Defender 
 
 **ご質問がある場合**
 
-Microsoft とのオペレーションに関連してご不明な点がありましたら、パートナー ダッシュボードからサポートにご連絡ください: https://partner.microsoft.com/en-us/pcv/servicerequests/create 。
+Microsoft とのオペレーションに関連してご不明な点がありましたら、パートナー ダッシュボードからサポートにご連絡ください: https://partner.microsoft.com/pcv/servicerequests/create 。
 
 ### <a name="change-log"></a>変更ログ
 

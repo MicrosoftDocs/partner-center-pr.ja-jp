@@ -5,28 +5,28 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ソフトウェアアシュアランスをご利用のお客様にトレーニングやその他のサービスを提供できるように、Microsoft の計画サービス契約を登録して認定を受ける方法について説明します。
-author: mowrim
+author: mowree
 ms.author: mowrim
 Keywords: 展開前, 計画, ソフトウェア アシュアランス
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc18e4787194e8933aec95dfff278a7e8bb87f5d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 976c7c7648c13ca1a190b3a1bc901efb53998bac
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949595"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390329"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
 
 **適切なロール**
 
-- 全体管理者
+- グローバル管理者
 - MPN パートナー管理者
 
 Microsoft は、承認された計画サービスパートナーとして、企業のお客様のための展開前計画を提供することを検討します。 このプログラムに参加することにより、貴社は、いっそう多くの顧客を獲得し、顧客の信頼できる計画パートナーになり、顧客エンゲージメントを追加できる可能性があります。
 
-## <a name="get-started"></a>作業開始
+## <a name="get-started"></a>はじめに
 
 ソフトウェアアシュアランスサービスを初めてご使用になる場合は、以下のすべての手順に従ってください。 Planning Services プログラムで既にアクティブになっている場合は、以下の手順 4 (4) で新しい契約を開始します。
 
@@ -104,7 +104,7 @@ Microsoft は、承認された計画サービスパートナーとして、企�
 
 SAVB を使用して Microsoft に請求書を送信するには、ワークフローの[手順 8](https://go.microsoft.com/fwlink/?linkid=2115983) . に記載されている手順に従います。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [ソフトウェアアシュアランス計画サービスのワークフロー](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [ソフトウェアアシュアランス計画サービスに関する FAQ](https://go.microsoft.com/fwlink/?linkid=2116077)

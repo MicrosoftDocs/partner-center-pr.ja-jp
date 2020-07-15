@@ -5,21 +5,21 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーディレクトリのビジネスプロファイルを強化します。 Gold/シルバーコンピテンシーと共に高度な特殊化を獲得する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ, 高度な専門性
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7393fdfbc1aa94961680d869cf00cd5855efa0a6
-ms.sourcegitcommit: d5fc07cf20a9de970f9bb65019732792dd81b4a0
+ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85911265"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390199"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>専門知識をお客様に提供するための高度な特殊化を獲得 
 
-高度な特殊化を利用して顧客と差別化します。 高度な特殊化は、特定のソリューション領域で忠実性の高いサービスを提供する機能の検証です。 お客様のビジネスプロファイルには、パートナーディレクトリの高度な特殊化が表示されます。 [詳しくはこちらをご覧ください](https://partner.microsoft.com/membership/advanced-specialization)。
+高度な特殊化を利用して顧客と差別化します。 高度な特殊化は、特定のソリューション領域で忠実性の高いサービスを提供する機能の検証です。 お客様のビジネスプロファイルには、パートナーディレクトリの高度な特殊化が表示されます。 [詳細については、こちらを参照してください](https://partner.microsoft.com/membership/advanced-specialization)。
 
 ## <a name="use-partner-center-to-move-through-the-application-process"></a>パートナーセンターを使用してアプリケーションプロセスを移動する
 
@@ -51,7 +51,7 @@ ms.locfileid: "85911265"
 
 すべての前提条件を満たしていないと、状態は [未開始] のままに**なります。** すべての要件を完了すると、状態は [**アクティブ**] になります。 アクティブな状態では、**ビジネスプロファイル**のタグが自動的に有効になります。このタグは、[ソリューションプロバイダーの検索](https://www.microsoft.com/solution-providers/home)を検索するすべてのお客様に表示されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - Microsoft コンピテンシーの要件の詳細について[は、Gold とシルバーのメンバーシップに関する microsoft コンピテンシーの要件](learn-about-competencies.md)に関するページを参照してください
 

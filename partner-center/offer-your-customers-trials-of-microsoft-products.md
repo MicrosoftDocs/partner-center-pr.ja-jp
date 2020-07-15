@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: お客様が Microsoft サブスクリプション製品を30日間試すことができるようにします。 他の多くのオンラインサービスと同様に、カタログの無料試用版にサインアップします。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175993"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377776"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Microsoft 製品の30日間無料試用版をお客様に提供する
 

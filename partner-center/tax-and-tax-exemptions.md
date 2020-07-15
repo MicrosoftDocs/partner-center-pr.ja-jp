@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: CSP プログラムパートナー向けには、地域ごとの課税責任、CSP 販売の課税控除を送信する方法、および税金に関する質問のサポートを受ける方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
+author: BillLinzbach
 keywords: 税金、課税控除、vat、リセラー、請求
-ms.author: labrenne
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1236facdfdb1f73f940c36c4a748cc9a1694e72c
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: c02533f69e6d79da435dfa9ef9e4feffc4085571
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991786"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377376"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP プログラムのパートナーのリージョンまたは国ごとの税金および課税控除の詳細について説明します。
 

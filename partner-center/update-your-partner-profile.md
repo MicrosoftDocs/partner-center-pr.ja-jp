@@ -3,18 +3,18 @@ title: パートナー プロファイルを確認する
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 主要連絡先、住所、プログラム情報など、ご自身の会社の詳細情報を確認する方法について説明します。 また、法的住所や請求先住所を更新することもできます。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 06/05/2020
+ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991977"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286580"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>パートナー センターで、パートナー プロファイルの情報を確認する
 
@@ -37,7 +37,7 @@ ms.locfileid: "84991977"
 2. [法的住所] の隣の **[更新]** を選択します。 ""
 
 >[!Important]
->CSP パートナーの場合、法的住所に関連付けられた国を変更することはできません。法的住所の国は、ご自身のテナントとサービス、およびビジネスで使用している通貨に関連付けられています。 CSP プログラムを利用していない場合、法的住所に関連付けられた国を変更できます。 審査の状態が "承認済み" の場合、パートナー センターで会社の正式名称を更新することはできません。 [サポート チケットを作成](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)する必要があります。
+>CSP パートナーの場合、法的住所に関連付けられた国を変更することはできません。法的住所の国は、ご自身のテナントとサービス、およびビジネスで使用している通貨に関連付けられています。 CSP プログラムを利用していない場合、法的住所に関連付けられた国を変更できます。 審査の状態が "承認済み" の場合、パートナー センターで会社の正式名称を更新することはできません。 [サポート チケットを作成](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)する必要があります。
 
 3. **[送信]** を選択すると、法的 ID が再評価された後、別のメールが届くので、それを承諾する必要があります。
 

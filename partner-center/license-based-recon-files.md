@@ -3,16 +3,16 @@ title: ライセンス ベースの調整ファイル
 ms.topic: article
 ms.date: 05/18/2020
 description: パートナーセンターでライセンスベースの調整ファイルを読み取る方法について説明します。 この記事では、ライセンスベースの偵察ファイルの各フィールドの意味について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ce9400c3672ff09997321b2e55f46daf102ebbd
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: cd275c074bb3710a2a438d65989b16a1be398830
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909050"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377696"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>パートナーセンターのライセンスベースの調整ファイルのフィールドについて
 
@@ -51,7 +51,7 @@ ms.locfileid: "84909050"
 | ChargeType | 料金または調整[の種類](recon-file-charge-types.md)。 | [料金の種類](recon-file-charge-types.md)を参照してください。 |
 | UnitPrice | シート単価 (購入時に価格表に公開されていた価格)。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *6.82* |
 | Quantity | シート数。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *2* |
-| 金額 | 数量に対する合計価格。 金額の計算が顧客に対してこの値を計算する方法と一致するかどうかを確認するために使用されます。 | *13.32* |
+| Amount (金額) | 数量に対する合計価格。 金額の計算が顧客に対してこの値を計算する方法と一致するかどうかを確認するために使用されます。 | *13.32* |
 | TotalOtherDiscount | これらの料金に適用される割引額。 コンピテンシーまたは地図に含まれる製品ライセンス、またはインセンティブの対象となる新しいサブスクリプションには、このコラムの割引額も含まれます。 | *2.32* |
 | 小計 | 合計額 (税抜)。 割引の場合、予想される合計に対して小計が一致するかどうかを確認します。 | *11* |
 | 税 | 納税額。 市場の税金ルールと特定の状況に基づいています。 | *0* |

@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft が発行した製品や、サードパーティの Isv によって発行された SaaS 製品に対して顧客のサブスクリプションを販売する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 Keywords: サブスクリプション、新規作成、サブスクリプションの追加、中断、キャンセル、中断、中断、SaaS、ライセンス、ISV、サードパーティ
 ms.localizationpriority: medium
-ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ea5c15248eb38e1c69b6501e21aed1772e937d45
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991494"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377597"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
@@ -139,7 +139,7 @@ ISV 発行元から取得したライセンスベースの SaaS サブスクリ�
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>商用マーケットプレースのサブスクリプションを自動的に更新するかどうかを選択する
 
-既定では、アクティブなサブスクリプションは、サブスクリプション期間の有効期限が切れると自動的に更新されるように設定されます。 [商用マーケットプレース製品のサブスクリプション](csp-commercial-marketplace-overview.md)では、必要に応じて、サブスクリプションを自動的に更新しないことを選択できます。
+既定では、アクティブなサブスクリプションは、サブスクリプション期間の期限が切れると自動的に更新するように設定されます。 [商用 marketplace 製品のサブスクリプション](csp-commercial-marketplace-overview.md)については、必要に応じてサブスクリプションを自動的に更新しないように選択することもできます。
 
 アクティブな商用 marketplace サブスクリプションを自動的に更新しないようにするには、次のようにします。
 
@@ -153,7 +153,7 @@ ISV 発行元から取得したライセンスベースの SaaS サブスクリ�
 
 5. [サブスクリプションの詳細] ページで、[**状態**] セクションを見つけて、[**自動更新**] ボックスをオフにします。
 
-6. **[送信]** を選択します。
+6. **[Submit]\(送信\)** をクリックします。
 
 ## <a name="next-steps"></a>次のステップ
 

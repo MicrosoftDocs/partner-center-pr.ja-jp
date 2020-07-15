@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure プランを使用して、1 つまたは複数の Azure サブスクリプションと Azure 予約を購入する方法、リソースを構成する方法、サブスクリプションを表示または追加する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909130"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377786"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>顧客向けの Azure プランを購入して、従量課金制料金で最新の Azure サービスにアクセスする
 

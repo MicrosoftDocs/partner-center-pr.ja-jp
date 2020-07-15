@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客アカウントを使用して、一度に1人のユーザーまたは複数のユーザーにライセンスとサービスを割り当てたり、取り消したりする方法について説明します。
-author: dineshvu
-ms.author: dineshvu
+author: amitravat
+ms.author: amrava
 Keywords: ライセンスの割り当て, ライセンスの失効, 複数ユーザーへの割り当て,
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6211bbca4fad5bf6a28c98a76a98a6be02d4fceb
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 8da5ffd66e717cf26aadc519fe0e5431067b25dd
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86176006"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390579"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>顧客アカウントの複数のユーザーに対して、同時にライセンスを割り当てたり、取り消したりする
 

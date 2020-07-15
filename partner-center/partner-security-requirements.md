@@ -5,17 +5,17 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 多要素認証 (MFA) を有効にして、セキュア アプリケーション モデル フレームワークを採用するためのパートナーの要件を紹介します。
-author: LauraBrenner
-ms.author: labrenne
+author: isaiahwilliams
+ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 951bb05b9e818d86254f84c88bdebd30c1ecc9dc
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 43febea2a5eb78d983c620bcc6ec155ba49a7c5e
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328153"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265093"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>パートナー センターまたはパートナー センター API を使用するパートナー向けの、パートナーのセキュリティ要件
 

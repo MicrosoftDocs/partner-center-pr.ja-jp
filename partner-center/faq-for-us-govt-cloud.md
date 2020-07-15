@@ -5,15 +5,15 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 米国政府向け Microsoft Cloud 用のクラウドソリューションプロバイダー (CSP) プログラムに関するよく寄せられる質問 (FAQ) に対する回答を参照してください。
-author: mowrim
+author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: 67bdaebcf87f147d45c87eda605559e41334b9a9
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 0971753d47eb86882167b5dcfe922e4810ae4c9d
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947523"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390539"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問
 

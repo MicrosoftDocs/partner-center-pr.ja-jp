@@ -5,17 +5,17 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーのセキュリティ要件とは何か、パートナーはそれをどのように実装する必要があるか、それを満たしているかをどのように確認できるかなどの、パートナーのセキュリティ要件に関するよくある質問。
-author: LauraBrenner
-ms.author: labrenne
+author: isaiahwilliams
+ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 203afa3fd238222e902a06ac3c173876e185f025
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: e58b17ccbde0cea2f6dfbf586b1e49c85da35a22
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679275"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265171"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
 

@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムのパートナーが顧客に販売できる、Microsoft クラウド サービスおよびプランの拡充されるカタログについて説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: クラウド ソリューション プロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, 製品の追加, パートナー プラン, CSP プラン, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナー, CSP での販売, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, オンライン サービス, サブスクリプション ソフトウェア, AHUB, SQL Server on Azure, Windows Server on Azure, 顧客のサブスクリプション
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32d89ec53eb11f661758e008c9566fbdac9f383e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 88565466bfe124e05d3bac85e6814dfa44ec3ca7
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679019"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390529"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムのパートナー プランの概要
 

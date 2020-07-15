@@ -1,20 +1,21 @@
 ---
-title: 協力インセンティブの申請 | パートナー センター
+title: 協力インセンティブの申請
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 前提条件なしでインセンティブ要求を送信して、アクティビティ計画を確認する方法について説明します。
+description: 適切なドキュメント、請求書、ステートメント、および実行の証拠を整理することによって、インセンティブに対して成功した共同操作要求を送信する方法について説明します。
 author: kaushikgMSFT
 ms.author: kaushikg
 keywords: インセンティブの申請, 協力インセンティブの申請, 協力金
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b789b3243231307e3aa969b52498117199f4612
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948081"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377636"
 ---
 # <a name="incentives-co-op-claims-overview"></a>協力インセンティブの申請の概要
 

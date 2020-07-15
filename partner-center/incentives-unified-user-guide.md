@@ -1,22 +1,23 @@
 ---
-title: インセンティブ支払いページにアクセスする |パートナーセンター
+title: 支払いページにアクセスする
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 支払い情報へのアクセスについて説明します。 これは、Windows アプリとゲームの支払いに加えて、MPN インセンティブ支払いにも適用されます。
+description: Windows アプリとゲームの支払い情報、MPN インセンティブ、および独立系ソフトウェアベンダー向けの商用マーケットプレース支払いにアクセスする方法について説明します。
 author: kim-davis
 ms.author: kimnich
 keywords: インセンティブ、支払い
 ms.localizationpriority: medium
-ms.openlocfilehash: 4da575605baab09c3b1f349b52760e89ae20d746
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: b2ccca4afc16716d24074a30859cf7ab910e6391
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949463"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377726"
 ---
-# <a name="access-your-incentives-payouts-page"></a>インセンティブの支払いページへのアクセス
+# <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Windows アプリとゲーム、MPN インセンティブ、および商用マーケットプレースの支払いに関する支払いページにアクセスする
 
 **適切なロール**
 -   グローバル管理者

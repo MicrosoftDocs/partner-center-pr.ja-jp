@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/01/2020
-ms.openlocfilehash: 93e29f5ed6409e244768136b1f7609a8e8e3391e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678939"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286610"
 ---
 # <a name="january-2020-announcements"></a>2020 年 1 月のお知らせ
 
@@ -52,7 +52,7 @@ Azure ハイブリッド特典を含む Azure の予約とこれらのサーバ�
 
 ### <a name="additional-resources"></a>その他の資料
 
-- パートナー ギャラリー ページの CSP プログラム リソース:[ロシアで CSP パートナーに対する Windows Server と SQL Server のサブスクリプションの提供開始](https://partner.microsoft.com/en-us/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
+- パートナー ギャラリー ページの CSP プログラム リソース:[ロシアで CSP パートナーに対する Windows Server と SQL Server のサブスクリプションの提供開始](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
 - [パートナー センターについての詳細情報](https://docs.microsoft.com/partner-center/azure-plan-get-started)
 
 ### <a name="next-steps"></a>次の手順
@@ -61,7 +61,7 @@ Azure ハイブリッド特典を含む Azure の予約とこれらのサーバ�
 
 ### <a name="questions"></a>ご質問がある場合は、
 
-- ご質問がある場合や詳細情報が必要な場合は、[サポートにお問い合わせください](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp)。
+- ご質問がある場合や詳細情報が必要な場合は、[サポートにお問い合わせください](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
 
 _________________
 
@@ -329,7 +329,7 @@ Microsoft は本日 2020 年 1 月 2 日に、追加の Dynamics 365 製品を�
 
 - カスタマー サービス向け Dynamics 365 Virtual Agent
 
-詳細な SKU 情報については、[こちら](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)から「Dynamics CSP Offers 1-1-20」のファイルをご覧ください。
+詳細な SKU 情報については、[こちら](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)から「Dynamics CSP Offers 1-1-20」のファイルをご覧ください。
 
 Biz Apps と Power Platform
 
@@ -337,7 +337,7 @@ Biz Apps と Power Platform
 
 - 既存の PowerApps アプリ別プランの学生向けオファーの導入
 
-詳細な SKU 情報については、[こちら](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)から「Dynamics CSP Offers 1-1-20」のファイルをご覧ください。
+詳細な SKU 情報については、[こちら](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)から「Dynamics CSP Offers 1-1-20」のファイルをご覧ください。
 
 2020 年 2 月 1 日に、Biz Apps および Power Platform の次の新規および更新されたオファーがリリースされます。
 
@@ -371,7 +371,7 @@ Dynamics 365 Human Resources では、次のオファーを使用できなくな
 
 2020 年 2 月 1 日より、Microsoft は既存の Dynamics 365 および Power Platform オファーの名前を、他のチャネルやリージョンで使用されているものと一致させるために、一部の製品ファミリおよびオファーの名前を変更します。
 
-具体的な変更については、[こちら](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)から「Dynamics CSP オファーの名前の変更 – 2020 年 2 月」ファイルをご覧ください。
+具体的な変更については、[こちら](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)から「Dynamics CSP オファーの名前の変更 – 2020 年 2 月」ファイルをご覧ください。
 
 ### <a name="additional-resources"></a>その他の資料
 
@@ -389,7 +389,7 @@ Dynamics 365 Human Resources では、次のオファーを使用できなくな
 
 ### <a name="questions"></a>ご質問がある場合は、
 
-- Microsoft とのオペレーションに直接関連する質問がある場合は、[サポートにお問い合わせください](https://partner.microsoft.com/en-us/pcv/servicerequests/create)。
+- Microsoft とのオペレーションに直接関連する質問がある場合は、[サポートにお問い合わせください](https://partner.microsoft.com/pcv/servicerequests/create)。
 
 ### <a name="change-log"></a>変更ログ
 

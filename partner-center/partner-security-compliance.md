@@ -4,18 +4,18 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: クラウド ソリューション プロバイダー プログラムにおけるアドバイザー、コントロール パネル ベンダー、およびパートナーのセキュリティを強化する、新しい必須要件について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: isaiahwilliams
+ms.author: iswillia
 keywords: Azure Active Directory, クラウド ソリューションプロバイダー, クラウド ソリューション プロバイダー プログラム, CSP, コントロール パネル ベンダー, CPV, 多要素認証, MFA, 安全なアプリケーション モデル, セキュリティで保護されたアプリ モデル, セキュリティ
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b842566245eaf7a874535fd081da51424316d417
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: bfafbf24910a6d194846af5a15f14050af33be7f
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328183"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265165"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>パートナー セキュリティ要件の状態 - 現在の状態に関する回答を入手し、レポートを確認する
 

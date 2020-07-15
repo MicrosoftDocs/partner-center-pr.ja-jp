@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft の認定パートナーとして、Microsoft との共同販売を行うことができます。 契約を定義する方法、Microsoft に招待して共同作業する方法、または送信した契約を表示する方法について説明します。
 author: sroy
-ms.author: jenhayes
+ms.author: sroy
 keywords: 紹介, RFI, パートナーの検索
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948056"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390559"
 ---
 # <a name="co-sell-with-microsoft"></a>Microsoft と共同販売する
 
@@ -31,7 +31,7 @@ ms.locfileid: "85948056"
 Microsoft の認定パートナーとして、Microsoft との共同販売を行うことができます。 このコラボレーションにより、ソリューションを市場に投入し、結合収益を促進し、顧客の成功を保証することができます。
 
 > [!IMPORTANT]
-> Microsoft と共同で販売する場合、パートナーには、商用の準備ができているソリューション、連携する販売チーム、および強力な市場投入戦略が必要です。 また、特定の追加条件も満たす必要があります。 詳細については、「[共同販売を準備](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)する」を参照してください。
+> Microsoft と共同販売する場合、パートナーは、販売可能なソリューション、連携する販売チーム、および強力な市場投入戦略が必要です。 さらに、特定の追加条件も満たす必要があります。 詳細については、「[共同販売を準備](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)する」を参照してください。
 
 ## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>エンゲージメントで共同作業するために Microsoft を招待する
 

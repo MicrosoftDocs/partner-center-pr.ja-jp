@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft パートナービジネスの成長に関するリソースについて説明します。 これには、Microsoft から販売潜在顧客 (参照) を取得する方法が含まれます。
 keywords: 紹介案件, 紹介案件への対応, 潜在顧客, 見込み情報, マーケティング プロファイル, ビジネス プロファイル, ビジネスの拡大, ビジネス チャンス, コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, 試用版, 市場の拡大, ナショナル クラウド
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f221c34ea22eb200bbcf90c5a82beeb51ec3eaae
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2e783c9881ad314618b7851bd9f877b52727e286
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795809"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390509"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Microsoft パートナービジネスの成長-潜在顧客を獲得して会社を & 設定する方法について説明します
 

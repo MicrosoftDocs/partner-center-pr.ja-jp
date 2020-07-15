@@ -1,7 +1,7 @@
 ---
 title: Azure プラン - Azure を従量課金制料金で購入する
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure サービスを顧客向け従量課金制料金で購入するための、Azure プランのコマースエクスペリエンスについて説明します。 新しいセキュリティ要件についても説明します。
@@ -11,12 +11,12 @@ Keywords: Azure, Azure プラン, サブスクリプションの購入, サブ�
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77e99f8151227650639f9bd9b54a794985db4554
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c2638aea520500d6007495281226078a8acf7701
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948421"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286590"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>概要:Azure プランでは、パートナーは Azure を顧客向け従量課金制料金で購入できます。
 
@@ -44,9 +44,5 @@ Microsoft は、パートナー センターに新しいコマース エクス�
 |Azure プランで顧客のサブスクリプションとリソースを管理する|[Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)|
 |Azure プランの価格表の読み方について理解する   |[Azure プランの価格表の説明](azure-plan-price-list.md)|
 |どこで Azure プランを利用できるか?|[Azure プランを利用できる国/地域の完全な一覧](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
-|パートナー獲得クレジットがどのように計算されるかを確認するには、パートナー センター ダッシュボードの価格表にサインインする必要があります|[パートナー センター ダッシュボード](https://partner.microsoft.com/en-us/dashboard/home)|
-|Azure プランでの請求|[Azure の請求](azure-plan-billing.md)| 
-
-
-
-
+|パートナー獲得クレジットがどのように計算されるかを確認するには、パートナー センター ダッシュボードの価格表にサインインする必要があります|[パートナー センター ダッシュボード](https://partner.microsoft.com/dashboard/home)|
+|Azure プランでの請求|[Azure の請求](azure-plan-billing.md)|
