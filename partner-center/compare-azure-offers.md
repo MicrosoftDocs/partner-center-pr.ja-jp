@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: クラウド ソリューション プロバイダー (CSP) プログラムにおけるパートナー向けの新しい Microsoft コマース エクスペリエンスのプランの主な違いを比較します。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a68009f213ac31210b5c1c142116e8057231c3ed
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 5160c494dbd6b64fd6f1c29ce7d3ffcf0d83730b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908740"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377626"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>CSP プログラムでの Azure プランの違いを比較する
 
@@ -26,8 +26,11 @@ ms.locfileid: "84908740"
 - ヘルプデスク エージェント
 - 販売代理店
 
-次の表では、新しい Microsoft コマース エクスペリエンスの一部であるクラウド ソリューション プロバイダー (CSP) プログラムを通して利用できるプランの主な違いの概要を示します。
+この記事では、クラウド ソリューション プロバイダー (CSP) プログラムにおける Azure プランの主な違いについて説明します。
 
+## <a name="overview-of-key-differences-between-azure-offers"></a>Azure プランの主な相違点の概要
+
+次の表では、新しい Microsoft コマース エクスペリエンスの一部である CSP プログラムのプランの主な違いの概要を示します。
 
 |**プラン**| **Azure プラン**|**サードパーティのマーケットプレースのプラン**|**Azure Reservations**|**CSP を通して販売されるサーバー サブスクリプション**|**シートベースのプラン**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
@@ -44,11 +47,10 @@ ms.locfileid: "84908740"
 
 \* Microsoft では、Azure メーターの価格にプログラムでリアルタイムにアクセスするための価格表 API を第 4 四半期に提供する予定です。
 
-**詳細情報**
+## <a name="next-steps"></a>次の手順
 
 - [Azure プランに移行する - はじめに](azure-plan-get-started.md)
 
 - [Azure プランを購入する](purchase-azure-plan.md)
 
 - [Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)
-
