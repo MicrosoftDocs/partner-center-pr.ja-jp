@@ -1,21 +1,20 @@
 ---
 title: 未払い、詐欺、不正使用の管理
+description: オンライントランザクションに関連するさまざまなリスクと、それらのリスクを管理して軽減するためのベストプラクティスについて理解することが重要です。
 ms.topic: article
-ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: オンライントランザクションに関連するさまざまなリスクと、それらのリスクを管理して軽減するためのベストプラクティスについて理解することが重要です。
-keywords: 詐欺, 不正使用, 使用条件, 利用規約, 未払い, 顧客が料金を支払わない, オンライン リスク, サービスの盗用, サービスの不正使用, サブスクリプションの一時停止,
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.date: 07/14/2020
+ms.openlocfilehash: ad0ef9c7aa242645ed0ffef0d5bbb07521edbc72
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377806"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405563"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>パートナー センターでの未払い、詐欺、不正使用の管理
 
@@ -87,7 +86,7 @@ Microsoft の利用規約に違反する例として、次のようなものが�
 購入後に顧客アカウントを管理するための推奨事項は次のとおりです。
 
 - Microsoft 通知を迅速に受信、確認、操作、および対応するプロセスを実装します。
-- お客様と協力して、クラウドの使用状況に関するビジネスニーズを把握し、設定に適切な監視しきい値を設定します。 (たとえば、パートナーセンターで[月単位の Azure 支出予算を設定](set-an-azure-spending-budget-for-your-customers.md)できます。 これにより、1か月の間に顧客の使用状況を監視し、顧客が予算に近づいたときに通知を受けることができます。)
+- お客様と協力して、クラウドの使用状況に関するビジネスニーズを把握し、設定に適切な監視しきい値を設定します。 (たとえば、パートナーセンターで[月単位の Azure 支出予算を設定](set-an-azure-spending-budget-for-your-customers.md)できます。 このことを理解することで、1か月の間に顧客の使用状況を監視し、顧客が予算に近づいたときに通知を受けることができます。)
 - [顧客のアクティビティログ](activity-logs.md)を定期的に監視して、不正行為を早期に検出できるようにします。
 - 疑わしいアクティビティが検出されたときにクイックアクションを実行します。
 - 最初にリスク軽減制御を実装することなく、サブスクリプションへの完全な管理アクセス権を顧客に付与しないようにします。
@@ -100,4 +99,4 @@ Microsoft の利用規約に違反する例として、次のようなものが�
 - 高リスクの支払い方法 (プリペイドカードや格納済みの値のカードなど) は受け入れないでください。
 - 顧客の支払いと経時勘定科目の売掛金を監視します。 遅延支払いまたは非支払いのために標準化された催促プロセスを積極的に適用します。
 
-オンライン リスクを軽減するための詳しい方法については、[オンライン トランザクション リスクの管理ガイド](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)をご覧ください。
+オンライン リスクを軽減するための詳しい方法については、[オンライン トランザクション リスクの管理ガイド](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)をご覧ください。

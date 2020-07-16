@@ -7,15 +7,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: 源泉徴収税クレジット、税金クレジット、ドイツの課税クレジット書
+keywords: 源泉徴収税クレジット、税金クレジット、ドイツの課税クレジット書、クレジット
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949571"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405523"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Microsoft ではなく、現地の税務当局にお支払いいただく場合は、源泉徴収税の貸方についてご確認ください
 
@@ -40,7 +40,7 @@ ms.locfileid: "85949571"
 
 2. 左側のメニューで、[**請求**] を選択し、[**請求履歴**] に移動します。
 
-3. [**新規送信**] をクリックし、[**新しい税源泉徴収要求**] ページに移動します。
+3. [**新規送信**] をクリックすると、[**新しい税源泉徴収要求**] ページが表示されます。
 
    :::image type="content" source="images/wht1.png" alt-text="請求書の新しい税金源泉徴収を送信する":::
 
