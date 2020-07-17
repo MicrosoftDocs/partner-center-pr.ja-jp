@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナーセンターの課金ページに表示される未割り当ての支払いについて説明します。 また、請求書に適用する方法についても説明します。
 author: sodeb
 ms.author: sodeb
-keywords: 請求、支払い、支払い、未割り当ての支払い
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ddd82643b43be7ab19e4bcf6d25f67d031ed87af
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8724cf6bb487d42742c83d80340acbbcc01d0b6e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949590"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436501"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>パートナーセンターの課金ページで未割り当ての支払いを管理する
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Azure の予約とサーバーサブスクリプションを取得、プロビジョニング、および管理するためのクラウドソリューションプロバイダーの機会について説明します。
 author: rbars
 ms.author: rbars
-keywords: Azure, サブスクリプション, VM, 予約, 予約インスタンス
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948267"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435711"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) と顧客向けのサーバーサブスクリプションの取得、プロビジョニング、& 管理
 
@@ -112,7 +111,7 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 - [SUSE および Red Hat Enterprise Linux (Azure portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Azure 上の Red Hat Linux](https://azure.com/redhat)
 - [Azure 上の SUSE Linux](https://azure.microsoft.com/overview/linux-on-azure/suse/)
-- [Azure での Linux](https://azure.microsoft.com/overview/linux-on-azure/)
+- [Azure 上の Linux](https://azure.microsoft.com/overview/linux-on-azure/)
 - [Azure の料金概要](https://azure.microsoft.com/pricing/)
 - [Azure 料金計算ツール](https://azure.microsoft.com/pricing/calculator)
 - [Azure Databricks ユニットの予約](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
@@ -131,7 +130,7 @@ Azure Reservations パートナー センターで Azure Reservations の業務�
 
 その他の便利なトレーニングには、[パートナー大学の Azure ライセンスモジュール](https://aka.ms/azure_partner_licensing)が含まれています。
 
-### <a name="operations"></a>Operations
+### <a name="operations"></a>操作
 
 - [最新のコマース運用ガイド](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)(更新済み): 契約書、パートナーセンターからの注文、請求書、価格表の詳細、インセンティブ、調整ファイル、API/SDK、サンドボックス、Azure Partner Shared Services などの主要なポリシーと運用面を網羅した包括的なガイドです。
 - [モダン オファーの提供国と顧客の通貨の対応表](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: さまざまなパートナー関係と、CSP プログラムにおけるパートナー向けのサポートされているトランザクションシナリオについて説明します。
 author: dineshvu
 ms.author: dineshvu
-keywords: 間接リセラー、間接プロバイダー、直接請求、直接請求パートナー、クラウドソリューションプロバイダープログラム、CSP プログラム、CSP パートナー、CSP トランザクション
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5728765cb22c77e6052bf2b772d65e777355def6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: cbba669cbccf96fe9addc6d4b7c7ac4b86c15ddf
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947640"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434901"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>CSP プログラムでパートナーが他のパートナーと連携する方法について説明します。
 
@@ -118,7 +117,7 @@ CSP プログラムのパートナーは、同じリージョンのお客様に�
 
 パートナーは、同じリージョンのパートナーとの関係のみを確立できます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [CSP プログラムで間接リセラーと提携する](indirect-provider-tasks-in-partner-center.md)
 - [パートナー センターでの間接リセラーの作業](indirect-reseller-tasks-in-partner-center.md)

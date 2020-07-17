@@ -7,15 +7,14 @@ Description: 分析を使用して、間接リセラーがどのように実行�
 author: amitravat
 ms.author: amrava
 ms.topic: article
-keywords: ビジネス データ
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 07c245cf811768a53da522545bf776caf0b85f75
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175968"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436131"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>分析を使用して間接リセラーのパフォーマンスを分析する
 
@@ -71,6 +70,6 @@ ms.locfileid: "86175968"
  - **Subscriptions** (サブスクリプション数): リセラーが販売したサブスクリプションの数  
  - **Licenses** (ライセンス数): すべてのサブスクリプションを合わせてリセラーが販売したライセンスの合計数  
   
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [サブスクリプションとライセンスを分析して、ビジネス上の意思決定を促進する](analyze-subscriptions-licenses.md)

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナーセンターにサインインできない場合の対処方法について説明します。職場アカウントのパスワードまたは学校アカウントのパスワードを忘れた場合のリセットに関する情報が含まれています。
 author: parthpandyaMSFT
 ms.author: parthp
-Keywords: サインインの問題、パスワードの忘れ、パスワード
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 898fa832855744bf0c846b7d64391a92de5e5b4f
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265048"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436511"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>パートナーセンターにサインインできず、パスワードをリセットする必要がある場合
 
@@ -27,7 +26,7 @@ ms.locfileid: "86265048"
 
 ## <a name="see-more"></a>詳細情報
 
-- [アカウント情報を確認する](verification-responses.md)
-- [パスワードをリセットする](reset-my-pasword.md)
+- [アカウント情報の確認](verification-responses.md)
+- [パスワードのリセット](reset-my-pasword.md)
 - [ユーザー パスワードのリセット](reset-a-user-password.md)
 

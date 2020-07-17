@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: CSP プログラムパートナーがパートナーセンターマーケットプレースを使用して、独立系ソフトウェアベンダー (Isv) から SaaS プランを購入できるようにする方法について説明します。
 author: rbars
 ms.author: rbars
-keywords: サブスクリプション、marketplace、商業市場、サードパーティ、ISV、SaaS プラン、クラウドソリューションプロバイダープログラム、プランの購入、サブスクリプションの購入
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0450acd0cfe6586e26baf55c128e64c88f680ba9
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c711a937925cea8b1595fce1811142e4076b4d57
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947691"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435061"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>パートナーセンターで顧客向けの商用 marketplace 製品を購入する
 
@@ -64,6 +63,6 @@ Microsoft 製品のサブスクリプションを購入する場合と同じプ�
 
 7. 特定のプランを選択し、[**作成**] を選択します。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [市販の marketplace プランを管理する](csp-commercial-marketplace-purchase.md)

@@ -6,16 +6,15 @@ description: CSP プログラムパートナー向けには、地域ごとの課
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
-keywords: 税金、課税控除、vat、リセラー、請求
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c02533f69e6d79da435dfa9ef9e4feffc4085571
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ea6d654f6124c711ae1cc355f71e6ee956c8c65a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377376"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436421"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP プログラムのパートナーのリージョンまたは国ごとの税金および課税控除の詳細について説明します。
 
@@ -36,7 +35,7 @@ ms.locfileid: "86377376"
 
 その他の質問については、[パートナーセンターでサポートを依頼](#support)してください。
 
-### <a name="canada"></a>Canada
+### <a name="canada"></a>カナダ
 
 ほとんどのリセラーについて、GST/HST/QST は除外されません。 税金アドバイザーを調べて、除外対象に限定されているかどうか、および Microsoft に提供する必要のあるドキュメントを確認してください。
 

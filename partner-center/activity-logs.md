@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: アクティビティログを表示およびエクスポートして、顧客のアカウントトランザクションやその他の顧客関連のパートナー管理アクティビティに関する洞察を得る方法について説明します。
 author: dineshvu
 ms.author: dineshvu
-Keywords: アクティビティ ログ, サブスクリプション, サブスクリプション, 支払い, 課金, トランザクション
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eda13a4a08c30cea5a6e9f20881bcf4a68f0b7b6
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 06cc76ee5689bbce5e8017f6bc5a664ff130c1ec
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175999"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436401"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>顧客のアクティビティログを表示またはエクスポートして、顧客トランザクションの詳細を把握します
 
@@ -58,6 +57,6 @@ ms.locfileid: "86175999"
 
 5. **[ログのエクスポート]** を選択し、顧客のサブスクリプション データを .csv ファイルにコピーして、お使いのコンピューター上の既定のダウンロード フォルダーにダウンロードします。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [サブスクリプションとライセンスを分析して、ビジネス上の意思決定を促進する](analyze-subscriptions-licenses.md)

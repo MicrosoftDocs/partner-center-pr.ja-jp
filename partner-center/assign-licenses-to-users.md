@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 顧客のユーザーアカウントを作成する方法、ユーザーライセンスを追加または削除する方法、ユーザーパスワードをリセットする方法、ユーザーアカウントを削除する方法、または復元する方法について説明します。
 author: BillLinzbach
 ms.author: BillLi
-Keywords: 顧客管理, アカウント, アカウントの作成, ライセンス、ライセンスの割り当て, ユーザー管理, パスワード, パスワードのリセット, パスワードの変更
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57d5a91fda593b47d6e22b3682d0072b256ae655
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 18b1fd689db84d20b62389841c5e5474d97ff1cb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377686"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435961"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>パートナーセンターでの顧客アカウントのユーザー管理タスク
 

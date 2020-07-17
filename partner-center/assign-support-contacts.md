@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Microsoft サービスにサブスクリプションを所有しているお客様のテクニカルサポートの連絡先として、リセラーを割り当てる方法について説明します。
 author: BillLinzbach
 ms.author: BillLi
-keywords: ヘルプ エージェント, サポート, サポート連絡先の指定, 指定のサポート連絡先
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 481f8cdf0f2b1834bca12c2523e43c76765bae4b
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 8186a58523502fddb0ecb2e8ef7bb91bd318680f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377676"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435951"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>リセラーをカスタマーのテクニカルサポートの連絡先として割り当てる
 

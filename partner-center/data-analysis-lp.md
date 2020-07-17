@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナーセンターで analytics を使用して、ビジネスについて理解を深め、顧客が購入したライセンスをどのように使用するかについて説明します。
 author: shthota77
 ms.author: shthota
-keywords: データ, 分析, データ分析, power bi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f69fc08712ca13a9593383c0a629382b0eb3b023
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 176f09a2acfeab7566f58f3177f1b052d9cb5968
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947598"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434741"
 ---
 # <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>分析を使用して、お客様のライセンスの使用に関する詳細と、そのニーズを満たす方法を確認してください
 

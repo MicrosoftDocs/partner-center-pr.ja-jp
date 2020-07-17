@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 新しいサブスクリプションを追加したり、ライセンス数を調整したり、サブスクリプションをキャンセルしたりするときに課金を確認します。 使用量ベースおよびライセンスベースのサブスクリプションの違いについて説明します。
 author: sodeb
 ms.author: sodeb
-Keywords: 請求, 支払い, 注文, 使用状況, ライセンス ベースの請求, 契約応当日, 条件, キャンセル, 更新, 価格式, 調整ファイル, recon ファイル
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d79361271424de92a85ac7819353c8d2e906cdb6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ff289f2fd93030e3ed7055b17ad696b6700fe3aa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947927"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435341"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>パートナーセンターで動作する CSP プログラムパートナー向けの一般的な課金シナリオ
 

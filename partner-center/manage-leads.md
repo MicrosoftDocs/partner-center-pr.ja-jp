@@ -7,17 +7,16 @@ ms.subservice: partnercenter-csp
 description: パートナーセンターを使用して、紹介に応答し、新規、既存、アーカイブされた潜在顧客と紹介を管理します。 今後、より多くの参照を取得する方法についても説明します。
 author: sroy
 ms.author: sroy
-keywords: 紹介、共同販売、商談
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e086ae93493c26880b912130752e69adcbef58a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949431"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434371"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>顧客の問い合わせ、マーケティングによって修飾された潜在顧客、販売の見込み客などのさまざまな潜在顧客を管理します
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>顧客の問い合わせ、マーケティングに適した潜在顧客、販売に適した潜在顧客などのさまざまな潜在顧客を管理する
 
 **適用対象**
 
@@ -96,7 +95,7 @@ Microsoft は1年あたり何百万もの潜在顧客をパートナーに送信
 
 - **取引規模の見積もり、予定終了日、最終的な契約の成否 (受注または失注) をマイクロソフトに報告してください**。 この情報を使用して、引き続き品質の紹介を提供します。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [共同販売の機会を管理する](manage-co-sell-opportunities.md)
 

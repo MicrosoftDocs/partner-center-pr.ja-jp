@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: ソフトウェアアシュアランスをご利用のお客様にトレーニングやその他のサービスを提供できるように、Microsoft の計画サービス契約を登録して認定を受ける方法について説明します。
 author: mowree
 ms.author: mowrim
-Keywords: 展開前, 計画, ソフトウェア アシュアランス
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 976c7c7648c13ca1a190b3a1bc901efb53998bac
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390329"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436541"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
 

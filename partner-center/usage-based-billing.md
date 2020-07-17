@@ -5,15 +5,14 @@ ms.date: 06/05/2020
 Description: 使用量ベースの課金の詳細については、パートナーセンターを参照してください。毎月の使用率について課金されます。
 author: sodeb
 ms.author: sodeb
-keywords: 課金、使用量ベース、使用量
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e75e915d4728d021856b099b7c62434f6481254
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4b3c3626bea685a8751ffcc5aa877fd95824e693
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949082"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436461"
 ---
 # <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>月額、従量課金制のサービスの使用量ベースの課金について
 

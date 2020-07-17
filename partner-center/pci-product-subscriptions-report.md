@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: お客様のお客様のために販売または管理しているクラウドサブスクリプションに関して、何をしているか、さらに改善できる場所をご確認ください。
-keywords: PCI、パフォーマンス、測定、お客様の成功、クラウドサブスクリプション、分析、レポート
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc9b306e635a27e1bf19f945341f9d8aab834782
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 0f1f2498f9c91f467b4b2b1980a14995782a5137
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948808"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436671"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから利用可能な製品サブスクリプションレポート
 
@@ -108,6 +107,6 @@ ms.locfileid: "85948808"
 > [!NOTE]
  > Sku 別に分類されたサブスクリプションの数は、その製品のサブスクリプションの合計数と常に一致するとは限りません。 これは、顧客が同じ製品サブスクリプションで複数の Sku を購入した場合に発生する可能性があります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

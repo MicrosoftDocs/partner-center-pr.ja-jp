@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナーメンバーシップセンター (PMC) からパートナーセンターに複数の企業を移行し、パートナーのグローバルアカウントに統合する場合の注意事項。
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, 移行, パートナー センターへの移行
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: b0bab2b69564915fb617754d55e7c113eaf0ddeb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603781"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434411"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>パートナーメンバーシップセンターからの複数の企業のパートナーセンターへの移行 (PMC)
 
@@ -52,7 +51,7 @@ ms.locfileid: "84603781"
 
 この画面には、パートナー センターで既に作成されている既存のアカウントの詳細 (名前と住所) と、主要連絡先の詳細が表示されます。
 
-**[続行]** を選択します。
+**[続行]** をクリックします。
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>アカウント統合の際の動作
 

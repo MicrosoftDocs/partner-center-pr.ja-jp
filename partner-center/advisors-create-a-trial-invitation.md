@@ -7,14 +7,13 @@ description: パートナーがクライアントに対して試用版への招�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-keywords: advisor、office 365、試用版
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 9726fc9316f33cf35f91a7db60a64689bccc0617
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 04fb03ab49b68023898b44a9ec6ffad2b1f76a8e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458358"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436231"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>アドバイザー: クライアントが Office 365 を試すための試用版への招待を作成して送信する
 

@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft のソリューションを提供するうえで役立つ Microsoft のコンピテンシー、コンピテンシーレベル、およびプランに関して、お客様が何をしているかをご確認ください。
-keywords: PCI、パフォーマンス、測定、お客様の成功、コンピテンシー、利点、分析、レポート
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d95c45793cfbbc46b68794937e4c3771e9b9b01a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3c2194391214bde36f50c4792a0fd53c654197ca
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949356"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436691"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能なコンピテンシーレポート
 
@@ -85,6 +84,6 @@ ms.locfileid: "85949356"
 
 :::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="コンピテンシーの履歴":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

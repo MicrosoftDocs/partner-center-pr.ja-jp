@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Marketplace の独立系ソフトウェアベンダー (Isv) のサービスとしてのソフトウェア (SaaS) プランに対する顧客のサブスクリプションを販売する方法について説明します。
 author: rbars
 ms.author: rbars
-keywords: サブスクリプション、Marketplace、サードパーティ、ISV、SaaS、ライセンス
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947730"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435071"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>パートナーセンターのコマーシャルマーケットプレースの概要
 
@@ -85,7 +84,7 @@ CSP プログラムのパートナーとして、パートナーセンターの[
 |プランのサブスクリプションの取り消し/更新、または座席の追加/削除を行うには | Azure portal  |
 |ユーザーを作成したり、アクセス許可を管理したりするには  | Azure portal  |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [市販の marketplace プランを検出または表示する](csp-commercial-marketplace-discover.md)
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)

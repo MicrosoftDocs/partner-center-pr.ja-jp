@@ -7,16 +7,15 @@ ms.subservice: partnercenter-csp
 description: 1つ以上の Azure サブスクリプションで潜在的な cryptocompare マイニング (または暗号化マイニング) に関する通知が表示された場合の意味について説明します。
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-Keywords: クリプトマイニング, 暗号通貨マイニング, セキュリティ
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5154267299b3ac15c58cb531ef1bd43f54cad187
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947856"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435201"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>クリプトマイニング (仮想通貨の採掘) アクティビティに関するパートナー センター通知
 
@@ -73,6 +72,6 @@ ms.locfileid: "85947856"
 
 6. **[説明]** フィールドに、影響するサブスクリプション名と、他の質問や懸念点を入力します。
 
-7. ご自身の連絡先情報を入力します。
+7. 連絡先情報を入力します。
 
 8. **[Submit]\(送信\)** をクリックします。

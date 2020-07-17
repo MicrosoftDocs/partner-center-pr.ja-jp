@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナー管理センター (PAC) からパートナーセンターに移行するときに、CSP プログラムのメンバーシップ、顧客紹介、インセンティブなどを管理する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
-keywords: PAC, Office 365 管理, PAC 機能
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1493ed93b70e8c716c339f8e93b471f181acb6af
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0af8cb253554f67edd1b53f01f2a440ae27939f1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795743"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434341"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>パートナー管理センター (PAC) からパートナー センターへの移行
 

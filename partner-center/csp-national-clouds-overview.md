@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: クラウドソリューションプロバイダープログラムの Microsoft パートナーが、サポートされている各国のクラウドに登録されているお客様に販売する方法について説明します。
 author: LauraBrenner
 ms.author: labrenne
-keywords: ナショナル クラウド, Microsoft Cloud ドイツ, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud 中国
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5977eb6ac583c9de79de3b1ba1fe7f0f98aa1e4d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a8b809d83cf775af84889cbcfddde5dfe0c1cf73
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908062"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434951"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP プログラムの一部として、Microsoft の国内クラウドで販売に適用する
 

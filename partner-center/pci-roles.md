@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターのインサイトレポートを表示するために必要な特定の役割について説明します。 これには、エグゼクティブレポートビューアーとレポートビューアーのロールが含まれます。
-keywords: PCI、パフォーマンス、お客様の成功、測定、ロール
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aaa3552a7c0a3d15674ac0178fc98375b9cd1b0b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 5a9df2b6f67ca4e825da2c273c82d7cd46763f1b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948730"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436641"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードへのロールベースのアクセス制御
 
@@ -28,6 +27,6 @@ Insights ダッシュボードでは、パートナーセンターの2つの新�
 >[!Note]
 > 2020年1月20日の MPN 管理者であるユーザーは、そのテナントのすべての場所について、会社全体の**エグゼクティブレポートビューアー**ロールに自動的に追加されます。 これらのユーザーは、全体管理者またはアカウント管理者による明示的な操作を必要とせずに、エグゼクティブレポートビューアーとしてレポートにアクセスできます。グローバル管理者とアカウント管理者は、これらのユーザーの自動割り当てされたロールを上書きして、機能をさらに強化または制限することができます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [パートナーセンターの洞察](partner-center-insights.md)とそのさまざまなレポートについて説明します。

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナーセンターを使用して、サービスの問題が発生したときに顧客のサービスの正常性を確認する方法について説明します。
 author: brentserbus
 ms.author: brserbus
-Keywords: 正常性, サービスの正常性, サービスの問題
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 110e47e18620230c8f152864d8e61b5847bb8c51
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 11ec4cfcfc9326c1e9d6598dce528410c0e02542
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219540"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435481"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>潜在的なサービスの問題または停止を報告しているお客様のサービスの正常性を確認する
 

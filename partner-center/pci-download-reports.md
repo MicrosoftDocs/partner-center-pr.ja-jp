@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナーセンターの統合レポートダッシュボードを確認します。
 author: shthota77
 ms.author: shthota
-Keywords: パートナーセンターの洞察、レポート、レポートのダウンロード
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42be29d69d5d4937d984047f4c75e357aa4d436d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948867"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436681"
 ---
 # <a name="download-reports"></a>レポートのダウンロード
 
@@ -31,7 +30,7 @@ Insights ダッシュボードの [レポートのダウンロード] ハブを�
 
 **新しいレポートの作成**
 
-レポートを生成するには、まず **[レポートの選択**] ドロップダウンからレポートを選択します。 次に、 **[日付範囲の選択]** ドロップダウンから日付範囲を選択します。 **[Generate] \(生成)** を選択します。 レポートは、タブ区切り値 (TSV) 形式で生成され、数分以内に生成された**レポート**セクションでダウンロードできるようになります。 過去14日間に生成されたレポートをダウンロードできます。
+レポートを生成するには、まず **[レポートの選択**] ドロップダウンからレポートを選択します。 次に、 **[日付範囲の選択]** ドロップダウンから日付範囲を選択します。 **[生成]** を選択します。 レポートは、タブ区切り値 (TSV) 形式で生成され、数分以内に生成された**レポート**セクションでダウンロードできるようになります。 過去14日間に生成されたレポートをダウンロードできます。
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="新しいレポートの作成":::
 

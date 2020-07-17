@@ -5,15 +5,14 @@ ms.date: 05/26/2020
 Description: パートナーセンターの課金に関する詳細については、事前設定された使用条件と、選択のための課金に対する課金について事前に説明します。
 author: sodeb
 ms.author: sodeb
-keywords: 課金、1回限り、定期的な購入、請求、isv
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9720d06d42025ee69c52afb893e4a6b6fee4a28f
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 7a5c7a9c756067c75e27e05768718436afc101bd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390249"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434131"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>パートナーセンターでの1回限りの課金と、定期的な料金の選択
 

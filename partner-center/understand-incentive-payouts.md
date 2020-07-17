@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: これらのページを使用して、支払いと収益の詳細、およびプログラムの状態と完全なトランザクション履歴を表示、管理、エクスポートできます。
 author: kim-davis
 ms.author: kimnich
-keywords: インセンティブ、支払い、支払い、インセンティブプログラム、場所、プログラムの状態
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cfbca13e9abb4bd474923cf7e9dabf6bb2ac85a2
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 2ffd5168f0bcad08502a8afe751e568b34f394b1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377296"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436491"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>インセンティブプログラムの詳細を表示、管理、およびエクスポートする
 

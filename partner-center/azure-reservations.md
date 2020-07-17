@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: クラウドソリューションプロバイダーとして、顧客向けの Azure 予約を購入、販売、管理することができます。 パートナーセンター、Azure portal、またはパートナーセンター API を使用します。
 author: BillLinzbach
 ms.author: BillLi
-keywords: Azure, 予約, 管理, 請求, 購入, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93c6353922197270245b4b21f3bc210f26c7ec8f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 4524d810a036953e45fb94a72241734e02a2798f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377646"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435731"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>パートナーセンター、Azure portal、Api を使用して Microsoft Azure の予約を顧客に販売する
 

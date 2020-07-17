@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: この製品ライセンスレポートを確認し、お客様に販売または管理するライセンス (またはシートベース) のクラウド製品を改善する方法をご確認ください。
-keywords: PCI、パフォーマンス、測定、お客様の成功、クラウドサブスクリプション、分析、レポート
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 680c2c92846692843d7d76496a327c0f8eba3cb4
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948797"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436661"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Partner Center Insights ダッシュボードの製品ライセンスレポート
 
@@ -81,6 +80,6 @@ X 軸は、選択した日付範囲の月を表します。 Y 軸は、追加さ
 
 :::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="ライセンスの配布":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

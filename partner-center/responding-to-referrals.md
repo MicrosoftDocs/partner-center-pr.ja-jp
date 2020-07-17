@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 認定された Microsoft パートナーが紹介に応答し、新規、既存、アーカイブされた紹介を管理し、今後より多くの参照を取得できるようにする方法について説明します。
 author: rajap-ms
 ms.author: rajap
-keywords: 紹介, RFI, パートナーの検索
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb9a175016c27896c467ffe78d692c162e41c41f
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: f26e80d3850ca3fb227605d5c7582e729a95e00b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302249"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436601"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>紹介に応答して潜在顧客を獲得
 
@@ -81,3 +80,7 @@ ms.locfileid: "86302249"
 - **承諾する取引を慎重に選び**ます。 マイクロソフトは、パートナーが承諾する取引や辞退する取引を把握し、この情報を使って同様の取引を紹介します。 適切に適合していない取引を受け入れると、検索結果が改善されず、受信した潜在顧客の品質に影響を与える可能性があります。
 
 - **取引規模の見積もり、予定終了日、最終的な契約の成否 (受注または失注) をマイクロソフトに報告してください**。 この情報を使用して、引き続き品質の紹介を提供します。
+
+## <a name="next-steps"></a>次の手順
+
+-[潜在顧客の管理](manage-leads.md)

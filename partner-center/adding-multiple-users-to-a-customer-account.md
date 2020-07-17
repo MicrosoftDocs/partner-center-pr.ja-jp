@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 顧客のアカウントに複数のユーザーを一度に追加する方法について説明します。 コンマ区切り値 (.csv) ファイル形式を使用して、パートナーセンターにデータファイルをアップロードします。
 author: parthpandyaMSFT
 ms.author: parthp
-keywords: 一括アップロード, 顧客アカウントへの複数ユーザーの追加, 顧客のユーザーの追加, 顧客のユーザーの一括アップロード, 顧客アカウント, 顧客のユーザー, ユーザー
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72a1bf634950ac5a445dca894e3925abcae5f645
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: a9a94ac9d9022b33c7f909a258b66daa4312ad13
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377276"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436311"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>顧客アカウントに複数のユーザーを追加する-パートナーセンターにデータファイルをアップロードする
 
@@ -45,8 +44,8 @@ ms.locfileid: "86377276"
 |:-------- |:------  |:----- |
 | 名  | ユーザーの名 (オプションフィールド)  | 50 字以内  |
 | 姓  | ユーザーの姓 (省略可能なフィールド)  | 50 字以内  |
-| 表示名    | パートナー センターで表示される名前 (必須フィールド)                            | 50 字以内                         |
-| 電子メール   | 顧客会社のユーザーの勤務先の電子メールアドレス (必須フィールド)           | 各ユーザーに一意の電子メール アドレスが必要 |
+| Display name    | パートナー センターで表示される名前 (必須フィールド)                            | 50 字以内                         |
+| Email   | 顧客会社のユーザーの勤務先の電子メールアドレス (必須フィールド)           | 各ユーザーに一意の電子メール アドレスが必要 |
 | 状態の更新   | 新しいユーザー レコードが正常に作成されたかどうかを示すために使用される | \*\*空白のままにする\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>複数のユーザー アカウントを作成するには

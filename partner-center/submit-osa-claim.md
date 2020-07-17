@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: CPOR (パートナーが要求するレコード) モデルを使用して顧客の関連付けを作成します。 Microsoft 365 と Dynamics 365 の顧客の売上、使用状況、& インセンティブを管理するのに役立ちます。
 author: MalloryPrincipe
 ms.author: mallp
-keywords: インセンティブ要求、共同操作要求、共同操作ファンド、OSU、OSA、ISV、収益関連
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ded3850ea03626cd25571746cc9aa32231bd14bc
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: d5d4b25798b4ac3c4b2c2edb0d861fd7eb5097b4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265067"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436521"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>CPOR モデルを使用して顧客の関連付けを作成する– Microsoft 365 および Dynamics 365 のお客様に使用します。
 

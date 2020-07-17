@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 有効期限が切れた Skype for Business Online プラン1サブスクリプションを持つ特定の顧客を新しい Office 365 バージョンに移行する方法とタイミングについて説明します。
 author: BrentSerbus
 ms.author: brserbus
-keywords: Skype for Business の計画、Skype の提供終了、Office 365
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4202e146a470e2231ac33df9878be91e19fcddf3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3f65977c5ff8f512c0b95a165cc667bc6bff05c7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949614"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436561"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行
 

@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ライセンス、サブスクリプション、および Azure の消費量を使用した販売とデプロイ、顧客の成長、および収益の増加に関するスナップショットをご覧ください。
-keywords: PCI、パフォーマンス、お客様の成功、測定、
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72bc94f35cc189e032304c78781adbb10f71327c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 54315583dcecc745eb5525dc84504ce603b9eb7d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948827"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436701"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>パートナーセンターの洞察で利用できる概要ダッシュボードレポート
  
@@ -85,6 +84,6 @@ Insights の概要ダッシュボードには、顧客、サブスクリプシ�
 
 :::image type="content" source="images/pci/licensesgrowth.png" alt-text="ライセンス":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

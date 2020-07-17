@@ -7,14 +7,13 @@ description: 承認された Microsoft advisor が Office 365 サブスクリプ
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-keywords: advisor、office 365
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6a299fe3c4e65a1752a53053e0071c980b5246d5
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2c1dc96c2947da8ab37787e406d40400071a3b31
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947437"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436261"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>アドバイザー: Office 365 試用版への招待と購入プランを使用して、クライアントベースを構築する
 

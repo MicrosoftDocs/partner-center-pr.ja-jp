@@ -7,14 +7,13 @@ ms.subservice: partnercenter-csp
 description: パートナーセンターでの参照を Dynamics 365 CRM と同期する
 author: sroy
 ms.author: sroy
-keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ec0a23afb9e98cc6604977a5a0489b1fc7c5e8a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b7124ef2db99e4b6e79ed71c2998973ee3ef126
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948003"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435451"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM の共同販売コネクタ–概要
 
@@ -72,7 +71,7 @@ ms.locfileid: "85948003"
 - ステージング/CRM インスタンスでソリューションをテストします。 
 - 成功した場合は、運用インスタンスにマネージドソリューションとしてインポートします。 
 
-## <a name="configure-the-solution"></a>ソリューションを構成する
+## <a name="configure-the-solution"></a>ソリューションの構成
 
 1. CRM インスタンスにソリューションをインストールしたら、[ [Power の自動化](https://flow.microsoft.com/)] に戻ります。
 
@@ -224,7 +223,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
    2. Dynamics 365 環境で "新しい営業案件" を作成するときに、次のセクションが存在することを確認します。
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="営業案件":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="営業の機会":::
 
    3. この機会を Microsoft パートナーセンターと同期するには、カードビューで次のフィールドを設定していることを確認します。
 
@@ -256,7 +255,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
    6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [見込み客を管理する](manage-leads.md)
 

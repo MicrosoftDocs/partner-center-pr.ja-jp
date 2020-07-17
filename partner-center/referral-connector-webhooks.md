@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナーセンターの Webhook Api を使用して、Dynamics 365 CRM または Salesforce CRM で参照のリソースがどのように変更されるかを学習します。
 author: sroy
 ms.author: sroy
-keywords: 紹介、webhook api、リソース変更イベント
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ed7cad26af447302cb0ccd1d8d359ce6b7bbe87f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2335c06d9c410d44ed5f444574d9bc8fb3e48fc0
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949342"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434021"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Webhook Api を使用して Dynamics 365 CRM と Salesforce CRM のリソース変更イベントに登録する
 
@@ -147,7 +146,7 @@ Dynamics 365 ソリューションの**営業案件**エンティティのパー
 
    2. Dynamics 365 環境で "新しい営業案件" を作成するときに、次のセクションが存在することを確認します。
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="営業案件":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="営業の機会":::
 
    3. この機会を Microsoft パートナーセンターと同期するには、カードビューで次のフィールドを設定していることを確認します。
 
@@ -179,7 +178,7 @@ Dynamics 365 ソリューションの**営業案件**エンティティのパー
 
    6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Microsoft Power の自動化プラットフォームの詳細](https://docs.microsoft.com/power-automate/)
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナーディレクトリのビジネスプロファイルを強化します。 Gold/シルバーコンピテンシーと共に高度な特殊化を獲得する方法について説明します。
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ, 高度な専門性
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: f4dbfee981023fe567ef345db8b9363cce886adc
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390199"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436351"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>専門知識をお客様に提供するための高度な特殊化を獲得 
 

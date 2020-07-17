@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナーセンター内の商用マーケットプレースから購入した ISV SaaS 製品またはサブスクリプションの課金のしくみについて説明します。
 author: rbars
 ms.author: rbars
-keywords: サブスクリプション, 製品, 購入, Marketplace, サードパーティ, ISV, 請求, 請求書, 調整, 偵察ファイル
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947811"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435141"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>パートナーセンターでの商用 marketplace 製品とサブスクリプションの課金
 
@@ -108,7 +107,7 @@ CSP プログラムのパートナーは、パートナーセンターまたは 
 
 各列が表す内容の詳細については、「[調整ファイルの使用](use-the-reconciliation-files.md)」を参照してください。 「[パートナーセンターでの課金の種類](billing-different-types.md)」も参照してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客向けの商用 marketplace 製品を管理する](csp-commercial-marketplace-manage.md)
 - [商用 marketplace 製品のサポートについて説明します](csp-commercial-marketplace-support.md)

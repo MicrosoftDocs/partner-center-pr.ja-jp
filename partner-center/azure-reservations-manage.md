@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 予約を取り消す方法、予約を交換する方法、返金を要求する方法など、顧客の Azure 予約を管理する方法について説明します。
 author: amitravat
 ms.author: amrava
-keywords: Azure, 予約, 管理, 請求, 購入, 取り消し, 交換, 中途解約料
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ed925dc5a3b59db936f1e65290f58bc7912736c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175903"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435761"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>顧客の予約 Microsoft Azure 管理、取り消し、交換、返金する
 
@@ -41,12 +40,12 @@ ms.locfileid: "86175903"
 
 3. [**アクション**] で、[**管理**] を選択して、Azure portal の顧客の予約レコードにアクセスします。 予約の詳細ページで、次の手順に従ってタスクを完了します。  
 
-    | **選択**   | **To**    |
+    | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
     | **概要**   | 有効期限、スコープ、使用状況データなど、顧客の予約の詳細を表示します。 **注意:** 日割り計算の払い戻しを求めるサポート要求を作成するには、**[Refund]** (払い戻し) を選択します。 予約期間のうち未使用の部分を交換するためのサポート要求を作成するには、**[交換]** を選択します。  
-    | **アクセス制御 (IAM)**   | 顧客の予約情報へのアクセスを管理します。|
+    | **Access Control (IAM)**   | 顧客の予約情報へのアクセスを管理します。|
     | **Configuration**   | 予約が関連付けられている予約のスコープや Azure サブスクリプションを変更します。    |
-    | **プロパティ**   | 予約のプロパティを表示し、予約 ID と予約注文 ID をクリップボードにコピーします。 **注意:** 顧客に代わってサポートを要求する際には、予約 ID と予約注文 ID がサポートから求められることがあります。    |
+    | **Properties**   | 予約のプロパティを表示し、予約 ID と予約注文 ID をクリップボードにコピーします。 **注意:** 顧客に代わってサポートを要求する際には、予約 ID と予約注文 ID がサポートから求められることがあります。    |
     | **新しいサポート要求**    | Microsoft サポートによるヘルプを要求します。   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>予約の取り消しまたは交換

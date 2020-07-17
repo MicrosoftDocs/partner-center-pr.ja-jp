@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナーセンターでは、独立系ソフトウェアベンダー (Isv) によって商用マーケットプレースに公開された SaaS 製品に対する顧客のサブスクリプションを販売する方法について説明します。
 author: BillLinzbach
 ms.author: BillLi
-keywords: サブスクリプション, Marketplace, サード パーティ, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c862cbe8048881fd8fe223d9afae85c66e7104e
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: a05e2cc968e96e429390ea63ecb6fe213ab2ca2c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390599"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436571"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>パートナー センターを使用して、コマーシャル マーケットプレース製品のサブスクリプションを顧客に販売する
 

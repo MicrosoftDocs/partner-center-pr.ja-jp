@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Microsoft Azure の予約を購入した場合に、お客様のコンピューティングニーズに合わせて仮想マシン (VM) のサイズを変更する方法について説明します。
 author: BillLinzbach
 ms.author: BillLi
-keywords: Azure, 予約, VM, 管理, 請求, 使用, サイズ
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00da6723fc8aa4a5b3f1e0f747cb63acc1a504a8
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 706021c39e136954d3791856da12c828cbdf6389
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377656"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435741"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ
 
@@ -83,7 +82,7 @@ ms.locfileid: "86377656"
 
 次のいずれかの方法を使用して、顧客の予約使用状況を確認し、予約割引が適用されている仮想マシンを確認できます。
 
-- Azure ポータル
+- Azure portal
 - Azure Utilization API
 
 これらの方法を使用するための手順をそれぞれ以下に示します。

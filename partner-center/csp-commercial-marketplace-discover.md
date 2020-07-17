@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: CSP パートナーがパートナーセンターを使用して、SaaS プランや独立系ソフトウェアベンダー (Isv) からの価格を表示または検索する方法について説明します。
 author: rbars
 ms.author: rbars
-keywords: サブスクリプション、marketplace、商業市場、サードパーティ、ISV、SaaS プラン、クラウドソリューションプロバイダープログラム、CSP プログラム、CSP パートナー
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a4576faeeeed6bddd86bb3ec8d340af91adf408
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2d1185fec49c594996094d62b4de628175d931a5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947767"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435121"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>パートナーセンターコマーシャルマーケットプレースでのプランと価格の検出
 
@@ -106,6 +105,6 @@ Isv は、CSP プログラムの特定のパートナーだけがオファーを
 
 Marketplace での CSP エクスペリエンスの詳細については、「[コマーシャルマーケットプレースの概要」](csp-commercial-marketplace-overview.md)を参照してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)
