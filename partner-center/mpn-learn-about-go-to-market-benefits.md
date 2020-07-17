@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: Microsoft による市場投入までの時間を短縮し、潜在顧客を生み出し、ビジネスを拡大するのに役立つ情報を提供します。
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, メンバーシップ特典, メンバーシップ, マーケットトゥマーケットプラン, Microsoft との市場投入, マーケットへの移行, ゴールドメンバーシップ, シルバーメンバーシップ
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94a980eb1632932989a08be028028c4a07b1c6f1
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 80d4a8c15a5812186d8a9604b7cd8089804be7fb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072430"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436791"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft のプランで市場を開拓する
 

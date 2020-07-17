@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: プランを商用マーケットプレースに発行するパートナーは、マーケティングサポートを提供する特典の対象となります。
 author: laurabrenner
 ms.author: labrenne
-Keywords: marketplace プラン、マーケティングサポート、報酬、発行元特典
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 2b811ab94a3774c41955b2d152bba5b143d711fa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909010"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436841"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>パートナーセンターで Marketplace の特典を管理して、マーケティング、販売、および技術的な特典を有効に &
 

@@ -7,14 +7,13 @@ ms.subservice: partnercenter-csp
 description: Minecraft 教育エディションのサブスクリプションを、認定された教育機関のお客様に販売し、Microsoft 教育機関からダウンロードすることができます。
 author: BrentSerbus
 ms.author: brserbus
-keywords: 認定教育パートナー, 教育, 教育機関への販売, 学校
 ms.localizationpriority: medium
-ms.openlocfilehash: f5525a65b059451aea9831a98d90b7a3ede98562
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 98094096de41f20df6f381687984ea3ee1a7c334
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949002"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436821"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 
