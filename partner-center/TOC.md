@@ -42,6 +42,7 @@
 ## [制限付きの直接請求機能](restricted-direct-bill-capabilities.md)
 ## [クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行](transition-direct-to-indirect.md)
 ## [CSP 契約、価格表、およびキャンペーン](csp-documents-and-learning-resources.md)
+## [CSP 用の Cloudyn 製 Azure Cost Management](azure-cost-management-app-for-csp-partners.md)
 ## [CSP の地域市場と通貨](regional-authorization-overview.md)
 ## [CSP の地域承認によるテナント統合の手順](csp-regional-authorization-tenant-consolidation.md)
 ## [概要 - Microsoft 顧客契約に対する顧客の同意を確認する新しい方法](confirm-consent.md)
@@ -121,6 +122,7 @@
 ## [パートナー センターでの請求の種類](billing-different-types.md)
 ## [請求書について](read-your-bill.md)
 ## [調整ファイルを使う](use-the-reconciliation-files.md)
+## [調整ファイルの料金の種類](recon-file-charge-types.md)
 ## [パートナー センターで毎日評価される使用量の調整ファイルを読み取る](daily-rated-usage-recon-files.md)
 ## [ライセンス ベースの調整ファイル](license-based-recon-files.md)
 ## [一般的な課金シナリオ](common-billing-scenarios.md)
@@ -203,7 +205,10 @@
 ### [Skype for Business Online プラン 1 の新しい Office 365 バージョンへの移行](skype-retiring.md)
 ### [Azure サブスクリプションの譲渡](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Kaizala Pro サブスクリプションを Microsoft 365 に移行する](migrate-kaizala-pro-partner.md)
-
+## Office 365 を販売するアドバイザー
+### [Office 365 試用版への招待を作成する](advisors-create-a-trial-invitation.md)
+### [Office 365 試用版を持つクライアントを追加する](advisors-build-your-business.md)
+### [Office 365 購入プランを作成する](advisor-create-a-purchase-offer.md)
 # パートナー センターのデータと分析
 ## [ユーザー データと分析へのアクセスを取得する](data-analysis-lp.md)
 ## [Microsoft Power BI 用パートナー センター分析アプリを使用する](power-bi-app-for-direct-partners.md)
