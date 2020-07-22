@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2335c06d9c410d44ed5f444574d9bc8fb3e48fc0
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bc640e27bf3827e6a1cdbcf5b4913db62488402b
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434021"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875208"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Webhook Api を使用して Dynamics 365 CRM と Salesforce CRM のリソース変更イベントに登録する
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: Microsoft Action Pack サブスクリプションを購入し、Action Pack 特典の使用を開始する方法について説明します。 また、更新、キャンセル、請求書を表示する方法などについても説明します。
 author: LauraBrenner
 ms.author: labrenne
-keywords: Action Pack、MAPS、MAPS の更新、Action Pack の更新、Action Pack の購入
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aac218976d071d4dc848944294e143bb1b85c6ac
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 45abf47801dce26e14880afe91b3f104ee9822ec
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795962"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436801"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Action Pack サブスクリプションや Silver コンピテンシーと Gold コンピテンシーを購入または更新する
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 新規顧客および新しい専門分野を活用することによるお客様のビジネスの成長を支援するクラウド ソリューション プロバイダー プログラムでの特典とさまざまなモデルの詳細について説明します。
 author: LauraBrenner
 ms.author: labrenne
-keywords: クラウド ソリューション プロバイダー, CSP, クラウド ベースのサービス, Azure, Office 365, Dynamics, CSP パートナ, CSP での販売, 直接パートナー, CSP 直接パートナー, CSP 間接リセラー, 直接 CSP, 間接 CSP, 直接モデル, 間接モデル, 間接リセラー, 間接プロバイダー, プロバイダー, ディストリビューター, クラウド ソリューション プロバイダー プログラム
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 90c03aeea719e58dcdb30cb8404066fa13e16a7e
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362340"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434911"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>クラウド ソリューション プロバイダー プログラムの特典とさまざまなモデル
 
