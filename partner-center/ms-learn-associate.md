@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: コンピテンシー取得のために実行したトレーニングおよびラーニング パスを会社が確認できるように、MCP ID をパートナー センター アカウントに関連付ける方法について説明します。
 author: kbangalore
 ms.author: kiranban
-Keywords: ロール, アクセス許可, ユーザーの追加, ロールの割り当て, 管理者, エージェント, MCP ID, Microsoft Learn
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c463e126501c6c70c84fb64f857171960f4941f
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 037af207d820ce5b38360c61a92c4aa28003ba15
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219580"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436751"
 ---
 # <a name="associate-your-microsoft-learn-account-to-your-partner-center-account"></a>Microsoft Learn アカウントをパートナー センター アカウントに関連付ける
 

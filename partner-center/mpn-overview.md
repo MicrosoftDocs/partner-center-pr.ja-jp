@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: Microsoft Action Pack、コンピテンシー、プログラム オプションなど、市場への投入やソリューションの販売のための Microsoft とのパートナーシップの特典について説明します。
 author: LauraBrenner
 ms.author: labrenne
-keywords: パートナー, パートナーシップ, MPN, Microsoft Partner Network, Action Pack, MAPS, Action Pack のサブスクリプション, 特典, MPN 特典, メンバーシップ, Silver コンピテンシー, Gold コンピテンシー
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d71f5b315d8c7497febfae662ac8050280a10ea6
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: f8589776eb291da1931e727d170704ccd205ef69
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198610"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436781"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Microsoft との連携 - 特典の活用、顧客を支援する方法、ビジネスの成長を促進する方法
 

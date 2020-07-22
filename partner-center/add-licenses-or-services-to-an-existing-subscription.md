@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 顧客のサブスクリプションをアップグレードまたは変更する方法について説明します。 ライセンスやシートを追加したり、より多くのサービスを含む別のバージョンに移行したりします。
 author: BillLinzbach
 ms.author: BillLi
-keywords: 既存のサブスクリプションにライセンスを追加する, 既存のサブスクリプションにシートを追加する, サブスクリプションを変更する, サブスクリプションの変更, 顧客のライセンスを追加購入する
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fefb11f9e54d1d227bf4cb846c4e324041e0bd4e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377306"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436361"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>顧客のサブスクリプションへのライセンス、シート、サービスの追加
 

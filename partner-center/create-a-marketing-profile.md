@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Microsoft から見込み客情報を入手する方法について説明します。 1 つの鍵は、顧客がより簡単に貴社を見つけられるようにするビジネス プロファイルをパートナー センターで作成することです。
 author: rajap-ms
 ms.author: rajap
-keywords: Pinpoint, 紹介案件, 見込み客情報, C2PC, 会社のプロファイル, 会社のマーケティング, パートナーの検索, ソリューション プロバイダーの検索, ビジネス プロファイル, マーケティング プロファイル
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e45e3c00bc7dc3657af013bb7edf4cdffac64c9
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302389"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435271"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

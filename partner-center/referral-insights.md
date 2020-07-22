@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: パートナー センターで紹介の分析情報データを定期的に確認し、対処すべき傾向や改善できる部分を特定することで、ビジネス目標を達成できます。
 author: rajap-ms
 ms.author: rajap
-keywords: 紹介、分析、解析、メトリック、変換
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34794d3ef29167b9e6012bfdbedcbfa835028a83
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 24bbca2c973f985e441bd1aebc44d63fdb3e78af
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302339"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436621"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>パートナーセンターで紹介の分析情報を取得し、紹介の効果を確認する
 

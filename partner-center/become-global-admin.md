@@ -8,14 +8,13 @@ description: パートナー センターで作業するには、まずドメイ
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-keywords: ドメイン, ドメインの確認, ドメインを確認, グローバル管理者, ユーザー ロール, アクセス許可
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c448ea1786311c265ffc6defe0ec445fd41bc9a2
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948233"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435641"
 ---
 # <a name="verify-your-domain-ownership"></a>ドメインの所有者の確認
 

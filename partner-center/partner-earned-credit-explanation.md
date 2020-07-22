@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: マネージド サービスに対する Microsoft パートナー獲得クレジット (PEC) の計算および支払方法と、お客様が適格であることを確認する方法について説明します。
 author: adamyeh
 ms.author: adamyeh
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d240b3d8e411ce55b086a63d1c14903d6f666d7
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 8c42916c253d1ff2497f47c11c640f2805fc0a86
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390619"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436741"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>パートナー獲得クレジットの計算方法と支払方法
 

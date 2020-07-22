@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Gold および Silver のメンバーシップ レベルを獲得するためのコンピテンシー要件を満たすことにより、優良な Microsoft パートナーの状態を獲得し、新しい顧客の関心を引く方法について説明します。
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: コンピテンシー, Silver メンバーシップ, Gold メンバーシップ, mpn, MAPS, 能力, Microsoft Partner Network, ネットワーク メンバーップ, 高度な専門性
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74ae0076f3e77e29cccd63d0206267020f462db9
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: d8c5bc3b22096d28ba546e2d9493aeaa110a571c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390639"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434431"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft の Silver および Gold コンピテンシーに関する情報と高度な専門性
 
