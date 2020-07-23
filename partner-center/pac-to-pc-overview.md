@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a96375c26468c130ec14e41f83eb8a1d35daa58
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c53aac7566bfa561521d5cb9304b90dd172784d5
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434161"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943749"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>パートナー管理センターのパートナー センターへの移動
 
@@ -43,7 +43,6 @@ Microsoft パートナー センターは、1 か所で Microsoft および顧�
 
 **アドバイザー パートナー** (CSP 経由で取引を行わず、PAC を使用して顧客に試用版や見積もりを提供する場合) パートナー センターへの自動リダイレクトのスケジュールが決定しだい、ここで発表します。 
 
-
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Microsoft パートナー センターを今すぐ使い始めましょう
 
 今すぐ[Microsoft パートナーセンター](https://partnercenter.microsoft.com/)を使用して、PAC からの移動を準備します。  PAC に使用するパートナーセンターでも同じ資格情報を使用します。
@@ -51,4 +50,4 @@ Microsoft パートナー センターは、1 か所で Microsoft および顧�
 > [!IMPORTANT]  
 > PAC で提供されていた機能の一部は、パートナー センターでは利用できなくなります。
 
- このような変更点について詳しくは、[比較表](moving-from-pac-to-pc.md)をご覧ください。  アカウント管理、顧客管理、ライセンスとサブスクリプション、価格とプランなどに関する追加情報については、[Microsoft パートナー センターのヘルプ](https://docs.microsoft.com/partner-center/)をご覧ください。
+ このような変更点について詳しくは、[比較表](moving-from-pac-to-pc.md)をご覧ください。 

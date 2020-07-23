@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: bd73a9b8f5dfd1956b2b5dc598194778208aaa7e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2fc6c66de21a32c2b4cfd47ecd0fe97764109b18
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436771"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943699"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>パートナーセンターの洞察-Microsoft の商用パートナーがどのように実行しているかを示すダッシュボード
 
@@ -76,7 +76,7 @@ Insights は、Microsoft Partner Network (MPN) プログラムに登録されて
 
 ### <a name="filters-definitions"></a>フィルターの定義:
 
-- Products: 組織で販売または管理されているすべての Microsoft Cloud 製品 (O365、Azure、D365、EMS、PowerBI など) の一覧。
+- Products: 組織によって販売または管理されているすべての Microsoft Cloud 製品の一覧 (O365、Azure、D365、EMS、Power BI など)。
 - 顧客市場: 顧客の国の一覧
 - Partner 帰属: 顧客サブスクリプションとの関連付けの種類。たとえば、デジタルパートナーのレコード (購入者または)、委任された管理者特権 (DAP)、パートナー管理リンク (PAL) などがあります。 
 - パートナーの場所: 組織のすべての MPN の場所の一覧。

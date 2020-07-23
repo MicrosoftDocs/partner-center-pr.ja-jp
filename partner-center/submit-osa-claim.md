@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5d4b25798b4ac3c4b2c2edb0d861fd7eb5097b4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436521"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943679"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>CPOR モデルを使用して顧客の関連付けを作成する– Microsoft 365 および Dynamics 365 のお客様に使用します。
 
@@ -30,9 +30,9 @@ ms.locfileid: "86436521"
 
 - 要求を行うエンティティの**MPN ID**
 
-- 顧客の**ドメイン名**[検索](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- 顧客の**ドメイン名**[検索](find-customer-domain-name.md)
 
-- 顧客の**ディレクトリ id**または**テナント id**を[検索](https://docs.microsoft.com/partner-center/find-customer-domain-name)します
+- 顧客の**ディレクトリ id**または**テナント id**を[検索](find-customer-domain-name.md)します
 
 - Business Applications や Microsoft 365 などの**ソリューション領域**
 
@@ -66,9 +66,9 @@ ms.locfileid: "86436521"
 
 2. [顧客の関連付け] ページの上部で、[ **+ 顧客の関連付け**] を選択します。
 
-3. 顧客に関連付けるパートナーの場所の**MPN ID**を選択し、顧客のドメイン名とディレクトリ ID を追加します。 [これらはどこにありますか。](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+3. 顧客に関連付けるパートナーの場所の**MPN ID**を選択し、顧客のドメイン名とディレクトリ ID を追加します。 [これらはどこにありますか。](find-customer-domain-name.md)
 
-4. **[続行]** をクリックします。
+4. **[続行]** を選びます。
 
 5. ソリューションの**区分**と**アクティビティ**を選択します。 
 

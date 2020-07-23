@@ -9,18 +9,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436541"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943689"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
 
 **適切なロール**
 
-- グローバル管理者
+- 全体管理者
 - MPN パートナー管理者
 
 Microsoft は、承認された計画サービスパートナーとして、企業のお客様のための展開前計画を提供することを検討します。 このプログラムに参加することにより、貴社は、いっそう多くの顧客を獲得し、顧客の信頼できる計画パートナーになり、顧客エンゲージメントを追加できる可能性があります。
@@ -68,7 +68,7 @@ Microsoft は、承認された計画サービスパートナーとして、企�
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>会社のビジネスプロファイルを作成または更新する (新しいパートナー)
 
-潜在顧客を最大限に活用します。 [指示とガイダンス](https://docs.microsoft.com/partner-center/create-a-marketing-profile)に従って、パートナーセンター内で会社のビジネスプロファイルを作成または更新します。
+潜在顧客を最大限に活用します。 [指示とガイダンス](create-a-marketing-profile.md)に従って、パートナーセンター内で会社のビジネスプロファイルを作成または更新します。
 
 ## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>顧客が伝票を作成して割り当てます (既存のパートナー)
 

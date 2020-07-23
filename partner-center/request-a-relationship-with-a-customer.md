@@ -8,12 +8,12 @@ description: マルチパートナー、マルチチャネルのシナリオ、�
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949245"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943719"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>パートナー センターでお客様から再販業者の関係を要請する方法
 
@@ -26,7 +26,7 @@ ms.locfileid: "85949245"
 顧客とリセラーの関係を確立し、貴社がプロビジョニングした Azure サブスクリプションのみを管理する場合は、管理者のアクセス許可を取得する必要はありません。
 
 >[!NOTE] 
->米国政府機関または Microsoft Cloud ドイツの Microsoft Cloud で運用しているパートナーは、アクセス許可を要求しないオプションを利用できません。 詳しくは、「[顧客がパートナーに管理特権を委任する](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)」をご覧ください。
+>米国政府機関または Microsoft Cloud ドイツの Microsoft Cloud で運用しているパートナーは、アクセス許可を要求しないオプションを利用できません。 詳しくは、「[顧客がパートナーに管理特権を委任する](customers-revoke-admin-privileges.md)」をご覧ください。
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>貴社との再販業者関係を確立するために顧客を招待する
 
@@ -63,8 +63,8 @@ ms.locfileid: "85949245"
 | Microsoft Cloud for US Government のパートナー センター内の顧客 | Microsoft Office 管理ポータル |
 |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [サポート連絡先の指定](assign-support-contacts.md)
 
-- [顧客との関係の削除](remove-a-relationship.md)
+- [顧客との再販業者関係の削除](remove-a-relationship.md)

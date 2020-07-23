@@ -10,12 +10,12 @@ ms.author: v-aarzh
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05da3ae93a43b1e9977d5b6646a73750b30b4415
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435201"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943499"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>クリプトマイニング (仮想通貨の採掘) アクティビティに関するパートナー センター通知
 
@@ -54,7 +54,7 @@ ms.locfileid: "86435201"
 
 3. サブスクリプションを作成したユーザーを確認する必要がある場合は、パートナー センターのアクティビティ ログを確認します。
 
-クリプトマイニング アクティビティの検出はヒューリスティックに基づいたものであり、100% 正確ではない可能性があります。 不正行為やその他の許可されていないアクティビティに対する保護を行うには、ガバナンスと監視のシステムを備えてください。 詳しくは、「[未払い、詐欺、不正使用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)」をご覧ください。
+クリプトマイニング アクティビティの検出はヒューリスティックに基づいたものであり、100% 正確ではない可能性があります。 不正行為やその他の許可されていないアクティビティに対する保護を行うには、ガバナンスと監視のシステムを備えてください。 詳しくは、「[未払い、詐欺、不正使用](non-payment--fraud--or-misuse.md)」をご覧ください。
 
 ## <a name="contact-support-if-needed"></a>必要に応じてサポートにお問い合わせください
 
