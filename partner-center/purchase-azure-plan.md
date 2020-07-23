@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377786"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875258"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>顧客向けの Azure プランを購入して、従量課金制料金で最新の Azure サービスにアクセスする
 
@@ -78,7 +78,7 @@ Azure Reservations をアクティブな Azure プランに関連付ける必要
 >顧客がまだアクティブな Azure プランを持っていない場合は、ここで [Azure] を選択して追加します。 詳細については、「[Azure Reservations を購入する](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)」を参照してください。
 
 >[!Note] 
->現時点では、予約のスコープに設定できるのは **[共有]** のみです。 
+>現時点では、予約のスコープに設定できるのは、現在のパートナー センターの **[共有]** のみです。 1 つのサブスクリプション スコープを選択する場合、または共有から 1 つサブスクリプション スコープに更新する場合は、次の手順に従って、**Microsoft Azure の管理ポータル**にアクセスします。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共有スコープの予約設定":::
 

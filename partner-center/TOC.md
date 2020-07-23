@@ -177,6 +177,7 @@
 ### [顧客の Azure プランへの移行](azure-plan-transition.md)
 ### [パートナー獲得クレジット - 概要](partner-earned-credit.md)
 ### [パートナー獲得クレジットの計算方法と支払方法](partner-earned-credit-explanation.md)
+### [パートナーの獲得クレジットを獲得できるロールとアクセス許可](azure-roles-perms-pec.md)
 ### [CSP の新しいコマース エクスペリエンス - Azure の請求](azure-plan-billing.md) 
 ### [Azure 向けの CSP の新しいコマース エクスペリエンスの価格表](azure-plan-price-list.md)
 ### [Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)

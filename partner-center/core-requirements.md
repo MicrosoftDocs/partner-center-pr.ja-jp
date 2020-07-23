@@ -1,21 +1,20 @@
 ---
 title: 協力インセンティブの申請の主要な要件
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 07/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 需要を生み出し、市場開発を理解し、インセンティ ブプログラムの活動に対するパートナーの準備を最大限に高める方法について説明します。
 author: kim-davis
 ms.author: kimnich
-keywords: インセンティブの申請, 協力インセンティブの申請, 協力金, 主要な要件
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 9ba2ea7a19309443f847322e847666e78ecf058b
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3c17813ef9fec4ebdf9dee00a644d708c66dcfe5
+ms.sourcegitcommit: 3c28f795e0a2bd7e14e72bc5c0466b46f5e31527
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377616"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "86475547"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>協力インセンティブの申請の主要な要件
 
@@ -77,4 +76,7 @@ ms.locfileid: "86377616"
 
 
 
- 詳細については、[パートナー協力インセンティブ ガイドブック](https://assets.microsoft.com/coop-guidebook.pdf) (サインインが必要) をダウンロードしてください。
+ 詳細については、[パートナー協力インセンティブ ガイドブック](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (サインインが必要) をダウンロードしてください。
+
+
+
