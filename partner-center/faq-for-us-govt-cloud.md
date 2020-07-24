@@ -8,12 +8,12 @@ description: 米国政府向け Microsoft Cloud 用のクラウドソリュー�
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: 0971753d47eb86882167b5dcfe922e4810ae4c9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: b35d178b17f6541f2ad3ec45190aff1c09e6dda6
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390539"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943909"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問
 
@@ -165,7 +165,7 @@ Azure Government クラウドは、セキュリティ、プライバシーと管
 
 **Microsoft Cloud for US Government の CSP プログラムで使用できない API について、回避策はありますか?**
 
-パートナーは、パートナー ユーザー アカウントの管理用に Azure Portal、Azure AD PowerShell、または Graph API を使用できます。 その他の技術情報については、[米国政府機関向けクラウドのパートナー センターによる開発に関するページ](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)を参照してください。
+パートナーは、パートナーのユーザーアカウント管理に Azure portal、Azure AD PowerShell、または Graph API を使用できます。 その他の技術情報については、[米国政府機関向けクラウドのパートナー センターによる開発に関するページ](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)を参照してください。
 
 **詳細情報を得るには?**
 

@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: インセンティブの作業に対して支払いを受けるには、支払いと税金のプロファイルを作成する必要があります。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 02212a09ab18ff5b978107af00ac990aa0c702a3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949688"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114088"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>パートナーセンターの支払いと税金のプロファイル
 
@@ -170,6 +170,6 @@ Microsoft インセンティブプログラムの支払いを受け取るには�
 
 MPN の場所に対して作成された税務プロファイルは、その MPN の場所が他のインセンティブ プログラムに参加すると再利用され、自動的に入力されます。 ただし、例外が発生する場合もあります。 たとえば、新しいインセンティブ プログラムの支払いルールに基づいて、税務プロファイルの追加情報が求められることがあります。  
 
-### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみログインでき @onmicrosoft.com ます。   どうすればいいですか。
+### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみログインでき @onmicrosoft.com ます。 どうすればよいですか。
 
 ドメインを AAD アカウントに追加するには、アカウント管理者に連絡してください。

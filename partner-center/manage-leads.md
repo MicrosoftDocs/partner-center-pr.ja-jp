@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434371"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944479"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>顧客の問い合わせ、マーケティングに適した潜在顧客、販売に適した潜在顧客などのさまざまな潜在顧客を管理する
 
@@ -32,7 +32,7 @@ ms.locfileid: "86434371"
 
 Microsoft は1年あたり何百万もの潜在顧客をパートナーに送信します。 Microsoft から潜在顧客を受け取り、ビジネスを構築する機会があります。 このセクションでは、Microsoft ソリューションプロバイダーのページから取得した潜在顧客を管理し、それらを操作する方法について説明します。
 
-潜在顧客を受信するための前提条件は、会社の[ビジネスプロファイルを作成](https://docs.microsoft.com/partner-center/create-a-marketing-profile)することです。 会社用に作成したビジネスプロファイルを使用すると、 [microsoft のソリューションプロバイダー](https://www.microsoft.com/solution-providers/home)の web ページで、見込み客、他のパートナー、microsoft の販売者に連絡することができます。 ビジネスプロファイル情報は、コンピテンシーデータなどの会社のメンバーシップ情報と組み合わせて使用されます。また、お客様が取引先を検索するときに、顧客に豊富なプロファイルを提供しています。 Microsoft ソリューションプロバイダーのページに掲載されているプロファイルからのすべての要求は、左側のナビゲーションウィンドウの [**紹介**] タブの下にある [**潜在顧客]** セクションにあります。 
+潜在顧客を受信するための前提条件は、会社の[ビジネスプロファイルを作成](create-a-marketing-profile.md)することです。 会社用に作成したビジネスプロファイルを使用すると、 [microsoft のソリューションプロバイダー](https://www.microsoft.com/solution-providers/home)の web ページで、見込み客、他のパートナー、microsoft の販売者に連絡することができます。 ビジネスプロファイル情報は、コンピテンシーデータなどの会社のメンバーシップ情報と組み合わせて使用されます。また、お客様が取引先を検索するときに、顧客に豊富なプロファイルを提供しています。 Microsoft ソリューションプロバイダーのページに掲載されているプロファイルからのすべての要求は、左側のナビゲーションウィンドウの [**紹介**] タブの [**潜在顧客**] セクションで使用できます。
 
 ## <a name="types-of-leads"></a>潜在顧客の種類
 
@@ -85,9 +85,9 @@ Microsoft は1年あたり何百万もの潜在顧客をパートナーに送信
 
 より適切な参照を取得するためのヒントを次に示します。
 
-- [ビジネス プロファイル](https://docs.microsoft.com/partner-center/create-a-marketing-profile)で、**独自の専門分野やビジネス モデルを反映したキーワードと設定を選択**します。 関心のない紹介を生成するキーワードを削除します。 特定のサイズの企業を扱う必要がない場合は、この設定を更新してください。
+- [ビジネス プロファイル](create-a-marketing-profile.md)で、**独自の専門分野やビジネス モデルを反映したキーワードと設定を選択**します。 関心のない紹介を生成するキーワードを削除します。 特定のサイズの企業を扱う必要がない場合は、この設定を更新してください。
 
-- **各場所について、[ビジネスプロファイル](https://docs.microsoft.com/partner-center/create-a-marketing-profile)の連絡先情報を確認し**ます。チームが受信アラートを取得していることを確認します。
+- **各場所について、[ビジネスプロファイル](create-a-marketing-profile.md)の連絡先情報を確認し**ます。チームが受信アラートを取得していることを確認します。
 
 - **紹介に迅速に対応**受信要求に対してタイムリーに応答すると、将来の顧客の検索結果の可視性が向上します。 チームが意向を迅速に応答できるように体制を整えてください。
 

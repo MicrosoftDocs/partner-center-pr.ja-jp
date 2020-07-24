@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436471"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944499"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行
 
@@ -178,7 +178,7 @@ ms.locfileid: "86436471"
 
 4. ポップアップダイアログで、リセラーと顧客との関係を設定する**間接プロバイダー**を選択します。
 
-5. [**保存して続行] を**クリックします。
+5. **保存して続行** をクリックします。
 
 6. 選択した間接プロバイダーが**間接プロバイダー**の下に表示されることを確認します。
 
@@ -204,7 +204,7 @@ ms.locfileid: "86436471"
 
 ### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft カスタマーアグリーメントへの同意
 
-Microsoft Cloud Agreement は、2020年1月31日まで有効です。 その後、すべてのお客様 (既存および新規) は、新しい[Microsoft カスタマー契約](https://docs.microsoft.com/partner-center/confirm-customer-agreement)に署名する必要があります。 お客様の移行の場合:
+Microsoft Cloud Agreement は、2020年1月31日まで有効です。 その後、すべてのお客様 (既存および新規) は、新しい[Microsoft カスタマー契約](confirm-customer-agreement.md)に署名する必要があります。 お客様の移行の場合:
 
 - **お客様はまだ Microsoft カスタマーアグリーメントに同意していません**
 
@@ -347,7 +347,7 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 - **サブスクリプションに対する接続クライアント数の変更は、既存の転送要求に反映されません。** 既存のサブスクリプションを含む譲渡要求を作成した後は、サブスクリプションの接続クライアント数 (または関連するアドオン) を更新しないようにしてください。 この場合、新しい数量は転送要求に反映されません。 間接プロバイダーが譲渡要求を受け入れると、結果として得られるサブスクリプションの数量が古いものになります。 新しい数量を間接プロバイダーに転送する場合は、既存の転送要求を取り消して新しい数量を再作成する必要があります。
 
-- **セルフサービスサブスクリプション転送を使用して、すべての購入を転送できるわけではありません。** 現時点では、この機能を使用して、O365 サブスクリプションと Azure PAYG サブスクリプション (0145P) のみを転送できます。 Azure プラン、azure 予約インスタンス、用語ベースのサブスクリプション、Azure Marketplace の SaaS サブスクリプションなど、その他の購入はサポートされていません。 [転送要求の送信] ページでサブスクリプションを転送できない理由が表示されます。 これらのサブスクリプションを譲渡するには、[既存のサブスクリプションをキャンセル](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription)し、間接プロバイダーを通じて顧客向けの新しいプランを購入する必要があります。
+- **セルフサービスサブスクリプション転送を使用して、すべての購入を転送できるわけではありません。** 現時点では、この機能を使用して、O365 サブスクリプションと Azure PAYG サブスクリプション (0145P) のみを転送できます。 Azure プラン、azure 予約インスタンス、用語ベースのサブスクリプション、Azure Marketplace の SaaS サブスクリプションなど、その他の購入はサポートされていません。 [転送要求の送信] ページでサブスクリプションを転送できない理由が表示されます。 これらのサブスクリプションを譲渡するには、[既存のサブスクリプションをキャンセル](create-a-new-subscription.md#suspend-or-cancel-a-subscription)し、間接プロバイダーを通じて顧客向けの新しいプランを購入する必要があります。
 
 - **サンドボックス環境を使用してテストすることはできません。**
 

@@ -5,15 +5,15 @@ ms.date: 06/12/2020
 description: 期限、支払い時間、実行の証拠 (PoE) を含む共同操作要求プロセスを理解します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 3796a22dc2239394672b7991f78eeafe487da032
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 0beb65febee607af403f04d69650018b471a3fde
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875238"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114813"
 ---
 # <a name="co-op-claims-plans-and-poes"></a>共同操作の信頼性情報、計画、および PoEs
 

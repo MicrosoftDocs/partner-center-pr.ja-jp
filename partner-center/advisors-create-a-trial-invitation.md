@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 description: パートナーがクライアントに対して試用版への招待を作成して送信し、Office 365 を試す方法について説明します。 パートナーは、承認されたサブスクリプションアドバイザーです。
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 04fb03ab49b68023898b44a9ec6ffad2b1f76a8e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5d76de11eb69692f8829697a664a55b01ee87c12
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436231"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120036"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>アドバイザー: クライアントが Office 365 を試すための試用版への招待を作成して送信する
 
