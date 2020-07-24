@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: クラウドソリューションプロバイダープログラムの Microsoft パートナーが、サポートされている各国のクラウドに登録されているお客様に販売する方法について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b809d83cf775af84889cbcfddde5dfe0c1cf73
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8f7b29b39cbc4a991accd6821a6b6cd037ccfc54
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434951"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114333"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP プログラムの一部として、Microsoft の国内クラウドで販売に適用する
 

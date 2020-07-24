@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436441"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943819"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>新しいパートナーセンタープログラムに登録するときにアカウント情報を確認する
 
@@ -39,7 +39,7 @@ CSP プログラムについては、こちらの[ページ](https://partner.mic
 |Business   |ビジネス検証では、登録会社が正当なビジネスエンティティであり、登録に使用されるアドレスにあることを確認します。|ビジネス検証が失敗した場合、主要な連絡先 (通常は、全体管理者またはアカウント管理者) は、会社の自宅の国または市町村から、ビジネス登録や税登録証明書や領収書などの公式ドキュメントを提供するように求められます [サポートチケットを作成する](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
->[法的ビジネスプロファイル (アドレス)](https://docs.microsoft.com/partner-center/update-your-partner-profile)を更新する方法について説明します。
+>[法的ビジネスプロファイル (アドレス)](update-your-partner-profile.md)を更新する方法について説明します。
 
 ## <a name="when-verification-concludes"></a>検証が終了したとき
 

@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5853d3eedef07c63f9818f85f1695c2abf8a2baa
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3874d384aa1f4b932832d599f73bd601dc73fb07
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875268"
+ms.locfileid: "86943809"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>パートナーセンターでの1回限りの定期的な調整ファイル
 
@@ -29,7 +29,7 @@ ms.locfileid: "86875268"
 - 管理エージェント
 - 販売代理店
 
-このトピックでは、パートナーセンターで1回限りの定期的な調整ファイルを読み取る方法について説明します。
+この記事では、パートナーセンターで1回限りの定期的な調整ファイルを読み取る方法について説明します。
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>1回限りの定期的な調整ファイルのフィールド
 
@@ -46,16 +46,16 @@ ms.locfileid: "86875268"
 | OrderDate | 注文が作成された日付。 |
 | ProductId | 製品の識別子。 |
 | SkuId | 特定の SKU (在庫保持ユニット) の識別子。 |
-| AvailabilityId | 特定の SKU の可用性の識別子。 これは、指定された国、通貨、業界セグメントなどで SKU を購入できるかどうかを示します。 |
+| AvailabilityId | 特定の SKU の可用性の識別子。 このフィールドは、特定の国、通貨、業界セグメントなどで SKU を購入できるかどうかを示します。 |
 | SkuName | 特定 SKU のタイトル。 |
 | ProductName | 製品の名前です。 |
 | ChargeType | 料金または調整の種類。 |
-| UnitPrice | 購入時に価格表に発行された単価。 *これは、調整時に請求システムに格納されている情報と一致していることを確認してください。* |
-| Quantity | ユニットの数。 *これは、調整時に請求システムに格納されている情報と一致していることを確認してください。* |
-| SubTotal | 合計額 (税抜)。 割引の場合、予想される合計に対して小計が一致するかどうかを確認します。 |
+| UnitPrice | 購入時に価格表に発行された単価。 *このフィールドが、調整時に請求システムに格納されている情報と一致していることを確認してください。* |
+| Quantity | ユニットの数。 *このフィールドが、調整時に請求システムに格納されている情報と一致していることを確認してください。* |
+| SubTotal | 合計額 (税抜)。 割引がある場合、予想される合計に対して小計が一致するかどうかを確認します。 |
 | TaxTotal | 納税額。 市場の税金ルールと特定の状況に基づいています。 |
 | 合計 | 合計額 (税込)。 請求書に課税されるかどうかを確認します。 |
-| 通貨 | 通貨の種類。 各請求エンティティの通貨は 1 つのみです。 これが最初の請求書と一致していることを確認し、主要な課金プラットフォームの更新後にもう一度確認してください。 |
+| 通貨 | 通貨の種類。 各請求エンティティの通貨は 1 つのみです。 このフィールドが最初の請求書と一致していることを確認し、主要な課金プラットフォームの更新後にもう一度確認してください。 |
 | PriceAdjustmentDescription | 適用可能なすべての割引の説明。 |
 | 発行元 | 製品の発行元の名前。
 | PublisherId | 特定のパブリッシャーの一意識別子。 |
@@ -68,7 +68,7 @@ ms.locfileid: "86875268"
 | Unittype.pixel 単位 | 購入したユニットの種類。 |
 | AlternateId | **注文 ID**の代替識別子。 |
 | 各販売数量 | 購入または消費されたユニットの合計を表します。 |
-| Ic 周波数 | 品目が月単位または1回限りの請求頻度であるかどうかを示します。 *これは現在、Azure RI でのみサポートされており、サポートされている値は月単位です。1回限りの課金頻度で RI を購入した場合、Recon ファイルのこのフィールドは空白になります。* |
+| Ic 周波数 | 品目が月単位または1回限りの請求頻度であるかどうかを示します。 *現在、このフィールドは Azure RI でのみサポートされています。サポートされている値は月単位です。1回限りの課金頻度で RI を購入した場合、Recon ファイルのこのフィールドは空白になります。* |
 | PricingCurrency | リソースまたはプランの表示価格。 |
 | PCToBCExchangeRate | 料金通貨に適用される換算レートが請求通貨に適用されます。 |
 | PCToBCExchangeRateDate | 請求通貨の価格の通貨が決定される日付。 |

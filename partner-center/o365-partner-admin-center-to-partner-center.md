@@ -5,16 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターに移行した後、ビジネス要求やサービスリクエストの作成など、一般的な Office 365 Partner Admin Center (PAC) 機能を見つけます。
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dc5247d9ee9dc72276412d441b0f627ec448900
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998438"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114588"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Office 365 パートナー管理センターパートナー-ビジネスオペレーションをパートナーセンターに移行するための準備
 

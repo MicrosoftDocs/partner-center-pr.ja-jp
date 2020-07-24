@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdb8e392761d02909ebca21c38d2f04a9dfeb60d
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377416"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943459"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
@@ -28,7 +28,7 @@ ms.locfileid: "86377416"
 - 販売代理店
 - ヘルプデスク エージェント
 
-このトピックでは、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
+この記事では、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
 >[!NOTE]
 >日々の評価を受けた使用量は通常、パートナーセンターに表示されるか、API を使用してアクセスされるまでに24時間かかります。
@@ -40,7 +40,7 @@ ms.locfileid: "86377416"
 | PartnerId | GUID 形式のパートナー識別子。 |
 | PartnerName | パートナー名。 |
 | CustomerId | GUID 形式の顧客の一意の Microsoft 識別子。 |
-| CustomerName | パートナー センターで報告される顧客の組織名。 *このコラムは、請求書をシステム情報に合わせて調整する場合に非常に重要です。* |
+| CustomerName | パートナー センターで報告される顧客の組織名。 *この列は、請求書をシステム情報に合わせて調整するために重要です。* |
 | CustomerDomainName | 顧客のドメイン名。 |
 | CustomerCountry | 顧客の在住国。 |
 | MpnId | CSP パートナーの MPN 識別子。 |
@@ -48,12 +48,12 @@ ms.locfileid: "86377416"
 | InvoiceNumber | 指定されたトランザクションが含まれている請求書番号。 |
 | ProductId | 製品の識別子。 |
 | SkuId | 特定の SKU の識別子。 |
-| AvailabilityId | 特定の SKU の可用性の識別子。 これは、指定された国、通貨、業界セグメントなどで SKU を購入できるかどうかを示します。 |
+| AvailabilityId | 特定の SKU の可用性の識別子。 この列には、指定された国、通貨、業界セグメントなどで SKU を購入できるかどうかが表示されます。 |
 | SkuName | 特定 SKU のタイトル。 |
 | ProductName | 製品の名前です。 |
 | 発行元 | 発行元の名前。 |
 | PublisherId | GUID 形式のパブリッシャーの識別子。 |
-| SubscriptionDescription | 価格表で定義されている、顧客が購入したサービス プランの名前。 (これは、 **Offername**と同じフィールドです)。 |
+| SubscriptionDescription | 価格表で定義されている、顧客が購入したサービス プランの名前。 (この列には、 **Offername**と同じフィールドがあります)。 |
 | SubscriptionId | Microsoft 請求プラットフォームでのサブスクリプションの一意識別子。 調整には使用されません。 *この識別子は、パートナー管理コンソールの**サブスクリプション ID**と同じではありません。* |
 | ChargeStartDate | 請求サイクルの開始日 (以前の請求サイクルから以前に使用されていた使用状況データを表示していない日付を表示する場合を除く)。 この時間は常に、1 日の開始時刻である 0:00 です。 |
 | ChargeEndDate | 請求サイクルの終了日 (以前の請求サイクルから過去に発生した使用状況データを表示する場合を除く)。 時刻は常に、その日の終わりの時刻 (23:59) になります。 |
@@ -63,8 +63,8 @@ ms.locfileid: "86377416"
 | MeterId | 使用されているメーターの識別子。 |
 | MeterSubCategory | 料金に影響する可能性のある Azure サービスの種類。 |
 | MeterName | 使用しているメーターの測定単位。 |
-| MeterRegion | この列は、これが該当し、設定されている場合に、サービスの領域内でのデータ センターの場所を識別します。 |
-| 単位 | リソース**名**の単位です。 |
+| MeterRegion | この列は、MeterRegion が適用可能で設定されているサービスのリージョン内のデータセンターの場所を示します。 |
+| ユニット | リソース**名**の単位です。 |
 | ResourceLocation | メーターが実行されているデータセンター。 |
 | ConsumedService | 使用した Azure プラットフォーム サービス。 |
 | ResourceGroup | Azure ソリューションの関連リソースを保持するコンテナーを表します。 |
@@ -79,9 +79,9 @@ ms.locfileid: "86377416"
 | PricingCurrency | 価格表の通貨。 |
 | ServiceInfo1 | 特定の日にプロビジョニングおよび使用された Service Bus 接続の数。 |
 | ServiceInfo2 | 省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールド。 |
-| Tags | ユーザーによって設定された Azure リソースの論理編成を表します。 |
+| タグ | ユーザーによって設定された Azure リソースの論理編成を表します。 |
 | AdditionalInfo | 他の列で説明されていない任意の追加情報。 |
-| EffectiveUnitPrice | 割引、獲得したクレジットなど、単位ごとに課金される実際の値。 |
+| EffectiveUnitPrice | 割引、獲得したクレジットなど、ユニットごとに課金される実際の値。 |
 | PCToBCExchangeRate | 料金通貨に適用される換算レートが請求通貨に適用されます。 |
 | PCToBCExchangeRateDate | 請求通貨の価格の通貨が決定される日付。 |
 | EntitlementId | Azure サブスクリプション ID を表します。 |

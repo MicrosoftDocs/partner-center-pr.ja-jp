@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: お客様が自分のアカウントを管理し、クラウドソリューションプロバイダーパートナーに連絡する必要があるタイミングと場所について説明します。
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b52799639c99073ef82d1458362f74051b52990
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e4224df0393e8a9bd06204e0e9667069fb7e64e8
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434841"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114344"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Microsoft Office 365 管理センターまたは Azure portal を使用したカスタマーのセルフサポート
 

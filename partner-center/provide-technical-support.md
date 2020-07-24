@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: テクニカルサポートのクラウドソリューションプロバイダープログラムパートナーがお客様に提供できる技術サポートの種類について説明します。
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6562778e9b3be1ddeaac1c3cfbe5bc1e82a268a
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: b10601bcfaf71b9b36eb9955ad7b4822cd0fe63b
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219570"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114506"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>お客様がサブスクリプションを構成、管理、使用するためのテクニカルサポートを提供します
 

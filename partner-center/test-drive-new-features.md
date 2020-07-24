@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: リリース前のパートナー センターの新機能をお試しになり、ご意見をお聞かせください。 パートナー センターの将来像を形作るためにご協力ください。
-author: LauraBrenner
-ms.author: labrenne
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679399"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114851"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>新しいパートナーセンターの機能を体験し、パートナーセンターの未来の形を整える
 
@@ -24,7 +24,7 @@ ms.locfileid: "84679399"
 
 ## <a name="help-shape-the-future-of-partner-center"></a>パートナー センターの将来像を形作るためにご協力ください。
 
-パートナーセンターに新しい機能を継続的にリリースしています。フィードバックをお寄せください。 
+パートナーセンターに新しい機能を継続的にリリースしています。フィードバックをお寄せください。
 
 世界中のパートナー センター コミュニティにリリースされる前に、ぜひ新機能をお試しいただき、新機能に関するご意見をお聞かせください。 ビジネスの発展に利用する方法を計画できるように、今後予定されている機能については、[パートナー センターのお知らせページ](announcements/index.md)を確認してください。 特定の時点でのドライブのテストに使用できる機能がいくつかあります。
 

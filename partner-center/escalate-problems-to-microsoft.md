@@ -1,20 +1,20 @@
 ---
 title: Microsoft に問題をエスカレートする
+description: Microsoft パートナーがお客様に対して自身を解決することが期待されている問題と、Microsoft にエスカレートする必要がある問題について説明します。
 ms.topic: article
-ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft パートナーがお客様に対して自身を解決することが期待されている問題と、Microsoft にエスカレートする必要がある問題について説明します。
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c08f98477e1c7761a66c2d7cfccabd27d8e81a77
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.date: 05/18/2020
+ms.openlocfilehash: 92ce4eea3fba444967f83aab5ff4e3d8ed9aa560
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219600"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114153"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Microsoft に問題をエスカレートし、Microsoft のエスカレーションにより適している問題を確認します  
 
@@ -56,19 +56,12 @@ ms.locfileid: "86219600"
 
 5. Office 365 ポータルが表示されます。ここでは、パートナー センターの資格情報を使用してサインインする必要があります。
 
-6. 左側のメニューから **[サポート]**、**[新しいサービス要求]** の順に選択します。
+6. 左側のメニューから [**サポート**]、[**新しいサービス要求**] を選択します。
 
 7. サポート トピックを選択します。
 
 >[!NOTE]
 >パートナーと顧客の関係が維持されるように、パートナーセンターのダッシュボードから開始することが重要です。 
 
-
 お客様に代わって問題を報告する方法については、「[顧客の代理で問題を報告する](report-problems-on-behalf-of-a-customer.md)」を参照してください。
-
- 
-
- 
-
-
 

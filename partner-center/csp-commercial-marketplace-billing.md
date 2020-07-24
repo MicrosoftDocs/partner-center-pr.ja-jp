@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435141"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943476"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>パートナーセンターでの商用 marketplace 製品とサブスクリプションの課金
 
@@ -47,7 +47,7 @@ CSP プログラムのパートナーは、パートナーセンターまたは 
 
     課金ページの上部に2つのタブが表示されます。**定期的**および**定期的な購入と1回限りの購入**です。 各タブでは、さまざまな marketplace 製品の請求書と調整 (recon) ファイルにアクセスできます。
 
-    - [**定期的**なタブ]: Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、PowerBI Pro、および Microsoft Azure に関連するサブスクリプションの請求書と調整ファイルを表示します。
+    - [**定期的**なタブ]: Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、Power BI Pro、および Microsoft Azure に関連するサブスクリプションの請求書と調整ファイルを表示します。
 
     - [**定期的および1回限りの購入**] タブ: azure プラン、azure 予約、ソフトウェア、および商用 marketplace 製品の請求書と調整ファイルが表示されます。
   

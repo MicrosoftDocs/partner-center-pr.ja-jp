@@ -4,16 +4,16 @@ description: 要求されたパートナーのレコード (CPOR) の顧客関�
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: cda0b9d29c351e5365a0ff291f66ee5e2fa91ae7
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 63138dd6eaa16534cb73f41655ba728cb0c7a430
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949654"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114527"
 ---
 # <a name="customer-association-issues"></a>顧客の関連付けに関する問題
 
@@ -62,9 +62,9 @@ CPOR が要求されているプラットフォームでは、Business Applicati
 | ソリューション分野 | アクティビティ | 適用対象 |
 | ------ | ----------- | ----------- |
 | ビジネス アプリケーション      | プリセールス   | 対象となる製品の購入に影響を受けた場合に、販売前のインセンティブに適用するかどうかを選択します。 このオプションは、顧客がボリュームライセンス契約または Web ダイレクトを使用してこれらの製品を購入した場合にのみ適用されます。 |
-|    |  使用  | 対象となるワークロードの導入と使用を推進し、使用量のインセンティブに適用する場合は、オンにします。 このオプションは、顧客がボリュームライセンス契約または Web ダイレクトを使用してこれらの製品を購入した場合にのみ適用されます。 |
+|    |  使用法  | 対象となるワークロードの導入と使用を推進し、使用量のインセンティブに適用する場合は、オンにします。 このオプションは、顧客がボリュームライセンス契約または Web ダイレクトを使用してこれらの製品を購入した場合にのみ適用されます。 |
 |    | 収益の関連付け   | ビジネスの有力者として、対象製品の選択が影響を受けた場合に選択します。 このオプションは、インセンティブ支払いではなく、収益の関連付けのみを対象としています。 このオプションは、顧客がボリュームライセンス契約または Web ダイレクトを使用してこれらの製品を購入した場合にのみ適用されます。   |
-| Microsoft 365   | 使用   | 対象となるワークロードの導入と使用を推進し、使用量のインセンティブに適用する場合は、オンにします。 |
+| Microsoft 365   | 使用法   | 対象となるワークロードの導入と使用を推進し、使用量のインセンティブに適用する場合は、オンにします。 |
 
 ## <a name="which-mpn-do-i-choose"></a>どの MPN を選択しますか?
 
