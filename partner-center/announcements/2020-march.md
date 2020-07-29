@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 5cbaaa63ce4e28f57e8f50bff8ee13f013080526
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286620"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943979"
 ---
 # <a name="march-2020-announcements"></a>2020 年 3 月のお知らせ
 
@@ -102,14 +102,14 @@ _________________
 
 直接請求テナントから間接プロバイダー テナントに顧客の CSP サブスクリプションを移管するための新しい機能をご利用いただけます。 この新機能により、直接請求パートナー様の間接リセラーへの移行が簡単になり、プログラム内のビジネスの成長を促進することができます。
 
-詳細については、[CSP のプラン](https://docs.microsoft.com/partner-center/csp-offers)に関するページをご覧ください。
+詳細については、[CSP のプラン](../csp-offers.md)に関するページをご覧ください。
 
 >[!NOTE] 
->移管では、ライセンスベースのサブスクリプションと Azure サブスクリプションのみがサポートされます。 Azure プランとコマーシャル マーケットプレースの購入は手動で移管する必要があります。 次のドキュメントに記載されているサブスクリプションの取り消しと更新が行われることに注意してください。[Azure プラン](https://docs.microsoft.com/partner-center/azure-plan-lp)と[コマーシャル マーケットプレース](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage)。 サーバー サブスクリプションと Azure 予約は 1 回限りの購入であるため、間接プロバイダー テナントに移管する必要はありません。 詳細については、CSP のプランに関するページをご覧ください。
+>移管では、ライセンスベースのサブスクリプションと Azure サブスクリプションのみがサポートされます。 Azure プランとコマーシャル マーケットプレースの購入は手動で移管する必要があります。 次のドキュメントに記載されているサブスクリプションの取り消しと更新が行われることに注意してください。[Azure プラン](../azure-plan-lp.md)と[コマーシャル マーケットプレース](../csp-commercial-marketplace-manage.md)。 サーバー サブスクリプションと Azure 予約は 1 回限りの購入であるため、間接プロバイダー テナントに移管する必要はありません。 詳細については、CSP のプランに関するページをご覧ください。
 
 ### <a name="additional-resources"></a>その他の情報
 
-- [クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行](https://docs.microsoft.com/partner-center/transition-direct-to-indirect#move-your-direct-bill-customers-to-your-indirect-provider)に関するヘルプ記事
+- [クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider)に関するヘルプ記事
 - [直接請求リセラーから間接リセラーへの移行デッキ](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
 
 ### <a name="next-steps"></a>次の手順

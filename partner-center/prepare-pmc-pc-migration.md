@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner Membership Center からパートナー センターにビジネスを移行する前に、役立つ情報とよく寄せられる質問を確認します。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749165"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114564"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Partner Membership Center (PMC) からパートナー センターへの移行を準備する
 
@@ -55,7 +55,7 @@ CSP アカウントまたは MPN の勤務先の電子メール アカウント�
 
 **ユーザーが PMC からパートナー センターに移行すると、そのユーザーのロールはどうなりますか?**
 
-MPN グローバル管理者、または移行を実行するプライマリ プログラムの連絡先を除き、PMC のすべてのユーザーがその管理者ロールを失います。 移行を完了する個人は、パートナー センターでロールを割り当てる必要があります。 パートナー センターのロールは PMC のロールとは異なります。 パートナー センターのユーザー ロールの詳細については、[ユーザー ロールとアクセス許可の割り当て](permissions-overview.md) および「[PMC からパートナー センターに移動する](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)」を参照してください。
+MPN グローバル管理者、または移行を実行するプライマリ プログラムの連絡先を除き、PMC のすべてのユーザーがその管理者ロールを失います。 移行を完了する個人は、パートナー センターでロールを割り当てる必要があります。 パートナー センターのロールは PMC のロールとは異なります。 パートナー センターのユーザー ロールの詳細については、[ユーザー ロールとアクセス許可の割り当て](permissions-overview.md) および「[PMC からパートナー センターに移動する](move-pmc-pc-map.md#user-roles)」を参照してください。
 
 
 **会社プロファイルとビジネス プロファイルの違いは何ですか?**

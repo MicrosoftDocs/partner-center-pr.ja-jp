@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 9dae2a9b716ee87891aafbe41ad87200f99ecb1b
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875258"
+ms.locfileid: "86943529"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>顧客向けの Azure プランを購入して、従量課金制料金で最新の Azure サービスにアクセスする
 
@@ -37,7 +37,7 @@ Azure プランの購入方法は、他のサブスクリプションの購入�
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="購入":::
 
-パートナーは、顧客が Microsoft 顧客契約の条項を確認し、同意していることを確認する必要があります。 パートナーがこれを行う方法の詳細については、「[Microsoft 顧客契約に対する顧客の同意を確認する](https://docs.microsoft.com/partner-center/confirm-customer-agreement)」を参照してください。 その他のリソースは、[リソース ギャラリー](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)から入手できます。
+パートナーは、顧客が Microsoft 顧客契約の条項を確認し、同意していることを確認する必要があります。 パートナーがこれを行う方法の詳細については、「[Microsoft 顧客契約に対する顧客の同意を確認する](confirm-customer-agreement.md)」を参照してください。 その他のリソースは、[リソース ギャラリー](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)から入手できます。
 
 **確認するには、次のいずれかを行います**。 
 
@@ -75,9 +75,9 @@ Azure プランの購入方法は、他のサブスクリプションの購入�
 Azure Reservations をアクティブな Azure プランに関連付ける必要があります。 Azure Reservations を追加する Azure プランを、[顧客サブスクリプション] の一覧から選択します。 
 
 >[!Important] 
->顧客がまだアクティブな Azure プランを持っていない場合は、ここで [Azure] を選択して追加します。 詳細については、「[Azure Reservations を購入する](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)」を参照してください。
+>顧客がまだアクティブな Azure プランを持っていない場合は、ここで [Azure] を選択して追加します。 詳細については、「[Azure Reservations を購入する](azure-reservations-buying.md#purchase-azure-reservations)」を参照してください。
 
->[!Note] 
+>[!Note]
 >現時点では、予約のスコープに設定できるのは、現在のパートナー センターの **[共有]** のみです。 1 つのサブスクリプション スコープを選択する場合、または共有から 1 つサブスクリプション スコープに更新する場合は、次の手順に従って、**Microsoft Azure の管理ポータル**にアクセスします。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共有スコープの予約設定":::

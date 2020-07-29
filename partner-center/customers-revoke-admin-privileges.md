@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 88b3a71bb63ac7ac3287712944a2a4663928a165
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434751"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943509"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を取得する
 
@@ -106,7 +106,7 @@ CSP パートナーは、パートナー センターから、このような状
 
 - 顧客がビジネス向け Microsoft Store、教育機関向け Microsoft Store、または Microsoft Intune ポータル経由で追加したデバイスを管理することはできません。
 
-Autopilot について詳しくは、「[Windows Autopilot でデバイスのセットアップを効率化する](https://docs.microsoft.com/partner-center/autopilot)」をご覧ください。
+Autopilot について詳しくは、「[Windows Autopilot でデバイスのセットアップを効率化する](autopilot.md)」をご覧ください。
 
 >[!IMPORTANT]  
 >パートナー センターでの現在の Autopilot 管理エクスペリエンスは、引き続き変更される可能性があります。 この記事の公開時点では、以下の変更が検討されています。

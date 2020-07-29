@@ -5,16 +5,16 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客と共に確認する、Microsoft 顧客契約の地域固有および言語固有のバージョンをどこから検索してダウンロードできるかについて説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6e60fca0fd8e190a54dbb4b768604c144dfa889f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bd1b9b3fabc9e06cc368e75ba8479e3a38a843d5
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436201"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114824"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>地域と言語別の Microsoft 顧客契約
 

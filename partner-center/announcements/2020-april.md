@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749123"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944449"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月のお知らせ
 
@@ -48,7 +48,7 @@ Microsoft は、このようなかつてない時世に[お客様に責任をも
 
 これらのキャンペーンは、現在の Office 365 E1 試用版オファーを置き換えます。また、次の点が異なります。
 
-- パートナー様は、特定の 6 か月間試用版 SKU ではなく、初めの 6 か月間に 100% の割引が適用される CSP プロモーションを利用して、年間の Office 365 E1 または Microsoft 365 Business Basic SKU を処理します。 [CSP キャンペーンの詳細についてご確認ください](https://docs.microsoft.com/partner-center/promotions)。
+- パートナー様は、特定の 6 か月間試用版 SKU ではなく、初めの 6 か月間に 100% の割引が適用される CSP プロモーションを利用して、年間の Office 365 E1 または Microsoft 365 Business Basic SKU を処理します。 [CSP キャンペーンの詳細についてご確認ください](../promotions.md)。
 - 注文は技術的に、"新しい顧客のみ" に制限されます。これは、書面によるポリシーのみを通じて新しい顧客に限定されていた Office 365 E1 試用版とは異なります。 詳細については、[Microsoft パートナーの FAQ](https://aka.ms/CSPCOVIDPromo) をご覧ください。
 - SMB のお客様の場合、このプロモーションには Microsoft 365 Business Basic が含まれます。 これにより、パートナー様は Microsoft 365 for Business を使用して、300 シート未満のお客様が適切な製品ファミリの使用を開始できるようにすることができます。
 現在、Office 365 E1 試用版 (2020 年 5 月 4 日まで利用可能) のライセンスが付与されているお客様は、引き続き現在のプランのご利用となります。この変更はまったくの新規のお客様に対してのみ影響があります。
@@ -106,7 +106,7 @@ Azure Reservations は、Azure サービスを割引料金で購入できる優�
 ### <a name="next-steps"></a>次の手順
 
 1. 新しい機能を使用して、顧客が自分で Azure Reservations を購入できるように支援します。
-2. [このコレクションで使用可能なリソースを確認する](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)、ここでは、[テクニカル ドキュメント](https://docs.microsoft.com/partner-center/give-customers-permission)、パートナー エクスペリエンス チュートリアル、カスタマー エクスペリエンス チュートリアルなどの詳細情報を提供しています。
+2. [このコレクションで使用可能なリソースを確認する](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)、ここでは、[テクニカル ドキュメント](../give-customers-permission.md)、パートナー エクスペリエンス チュートリアル、カスタマー エクスペリエンス チュートリアルなどの詳細情報を提供しています。
 
 _________________
 
@@ -168,7 +168,7 @@ _________________
 
 最近、Microsoft はすべてのパートナー テナントに対して、代理管理者 (AOBO) 機能のセキュリティ保護のアクティブ化を完了し、パートナーの会社とその顧客を個人情報の盗難に関係するインシデントから保護しています。
 
-パートナーとその顧客をさらに保護するために、**2020 年 5 月 1 日以降、CSP でのパートナー センター トランザクションの保護を有効化します**。 この追加のセキュリティ保護を有効化すると、パートナーは、パートナー センターのユーザー エクスペリエンスや API を通じて、CSP 内のすべてのトランザクションに多要素認証 (MFA) を使用するよう要求されます。これにより、未承認のアクセスを拒否し、個人情報の盗難に関係するセキュリティ インシデントから顧客とテナントを保護します。 詳細については、[こちら](https://docs.microsoft.com/partner-center/partner-security-requirements-mandating-mfa)をご覧ください。
+パートナーとその顧客をさらに保護するために、**2020 年 5 月 1 日以降、CSP でのパートナー センター トランザクションの保護を有効化します**。 この追加のセキュリティ保護を有効化すると、パートナーは、パートナー センターのユーザー エクスペリエンスや API を通じて、CSP 内のすべてのトランザクションに多要素認証 (MFA) を使用するよう要求されます。これにより、未承認のアクセスを拒否し、個人情報の盗難に関係するセキュリティ インシデントから顧客とテナントを保護します。 詳細については、[こちら](../partner-security-requirements-mandating-mfa.md)をご覧ください。
 
 ### <a name="next-steps"></a>次の手順
 
@@ -181,9 +181,9 @@ _________________
 
 セキュリティ要件の実装には、以下のリソースが役立ちます。
 
-- パートナーのセキュリティ要件を実装するための[ステップ バイ ステップ ガイド](https://docs.microsoft.com/partner-center/partner-security-requirements)を確認します。
-- パートナーのセキュリティ要件についての[よく寄せられる質問](https://docs.microsoft.com/partner-center/partner-security-requirements-faq)と回答を参照します。
-- [セキュリティ要件のステータス チェック ガイド](https://docs.microsoft.com/partner-center/partner-security-compliance)を確認します。
+- パートナーのセキュリティ要件を実装するための[ステップ バイ ステップ ガイド](../partner-security-requirements.md)を確認します。
+- パートナーのセキュリティ要件についての[よく寄せられる質問](../partner-security-requirements-faq.md)と回答を参照します。
+- [セキュリティ要件のステータス チェック ガイド](../partner-security-compliance.md)を確認します。
 - [パートナーのセキュリティ要件の実装](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)コレクションで、その他のリソースを参照します。
 - [パートナー センターのセキュリティ ガイダンスのコミュニティ グループ](https://aka.ms/MPCSecurityGuidance)をブックマークします。
 
@@ -192,7 +192,7 @@ _________________
 信頼できる Microsoft のエコシステムを運営するために、パートナーとしてご協力、ご尽力くださり、ありがとうございます。
 
 >[!NOTE] 
->ベースライン ポリシーを使用しており、セキュリティの既定値群ポリシーまたは[他の MFA 実装オプション](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)に移行していない場合は、[こちらのキー リソース](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)を参照して、できるだけ早く移行してください。
+>ベースライン ポリシーを使用しており、セキュリティの既定値群ポリシーまたは[他の MFA 実装オプション](..\partner-security-requirements.md#actions-that-you-need-to-take)に移行していない場合は、[こちらのキー リソース](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)を参照して、できるだけ早く移行してください。
 
 ### <a name="change-log"></a>変更ログ
 

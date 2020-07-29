@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 新規顧客および新しい専門分野を活用することによるお客様のビジネスの成長を支援するクラウド ソリューション プロバイダー プログラムでの特典とさまざまなモデルの詳細について説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: billlinzbach
+ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7be23ecd37aadcccdb29606573b8bb46ae607539
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434911"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114327"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>クラウド ソリューション プロバイダー プログラムの特典とさまざまなモデル
 
