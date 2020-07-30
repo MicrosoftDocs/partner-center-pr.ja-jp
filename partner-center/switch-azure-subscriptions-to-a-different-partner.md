@@ -8,13 +8,13 @@ ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
-ms.date: 07/10/2020
-ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
-ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
+ms.date: 07/29/2020
+ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86237972"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412438"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について説明します。
 
@@ -32,7 +32,7 @@ ms.locfileid: "86237972"
 >現在、サブスクリプションを転送できるのは、直接または間接プロバイダーだけです。
 >Azure プラン、Office 365、Enterprise Mobility Suite、または Microsoft Dynamics CRM サブスクリプションに関連付けられているクラウドソリューションプロバイダーサブスクリプションのパートナーを変更することはできません。
 
-**Azure サブスクリプションのパートナーを切り替える**
+## <a name="switch-partners-for-azure-subscriptions"></a>Azure サブスクリプションのパートナーを切り替える
 
 1. Azure サブスクリプションを新しいパートナーに譲渡するには、顧客がプロセスを開始し、書面で現在の指名パートナーに連絡する必要があります。
 
@@ -84,20 +84,27 @@ ms.locfileid: "86237972"
    - アカウントのリセラーとして新しいパートナーを追加します。
 
      ```powershell
-     Add-AzureRMAccount -tenant "CustomerDomainName"
+     Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
      ```
 
-     CustomerDomainName を見つけるには、パートナー センター メニューで **[顧客]** を選びます。 顧客一覧から顧客を選びます。 顧客のメニューの **[アカウント]** を選び、**[ドメイン名]** を使います。
+     >[!NOTE]
+     > 顧客の**テナント ID**は、顧客の**Microsoft ID**としてパートナーセンターに表示されます。 特定の顧客の Microsoft ID (テナント ID) を検索するには、パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。 次に、メニューから**Customers**を選択します。 一覧で顧客を見つけます。 下矢印を選択して、顧客の一覧を展開します。 顧客の*ドメイン名*と顧客の**Microsoft ID**に関する情報が表示されます。 PowerShell コマンドレットで16桁の**MICROSOFT ID**を使用します。
 
    - 前の CSP パートナーを含めて、アカウントの役割を表示します。
 
      ```powershell
-     Get-AzureRMRoleAssignment
+     Get-AzRoleAssignment
      ```
 
 7. 古くなったアクセス許可を削除する
 
    - パートナー センター メニューで、**[顧客]** を選びます。
-   - 顧客の一覧を展開し、**[サブスクリプションの表示]** を選びます。
-   - 顧客メニューの **[サービス管理]** を選びます。
+   - 一覧で顧客を見つけます。 会社名を選択します (ダブルクリック)。 [顧客の**サブスクリプション**] ページが開きます。
+   - [Customer detail] メニューで、[ **Service management**] を選択します。
    - **[Microsoft Azure]** で、リンクをクリックして **[Microsoft Azure の管理ポータル]** に移動します。
+
+## <a name="next-steps"></a>次のステップ
+
+- [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
+- [マルチパートナーサポート](multipartner.md)について説明します。
+- [マルチチャネルサポート](multichannel.md)については、こちらをご覧ください。

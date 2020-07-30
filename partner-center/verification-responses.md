@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943819"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365728"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>新しいパートナーセンタープログラムに登録するときにアカウント情報を確認する
 
-パートナー センターで新しいプログラムに登録すると、Microsoft により、会社名、会社の住所、主要連絡先の詳細などの指定したアカウント登録情報が確認されます。 このプロセスの間に、Microsoft が主要連絡先にメールを送信して、状態を通知し、追加の確認ドキュメントを要求する場合があります。
+**適切なロール**
+
+- グローバル管理者
+- MPN アカウント管理者
+
+パートナーセンターの新しいプログラムに登録すると、お客様が指定したアカウント登録情報 (会社名、会社の住所、主要連絡先の詳細など) が確認されます。 このプロセスの間に、Microsoft が主要連絡先にメールを送信して、状態を通知し、追加の確認ドキュメントを要求する場合があります。
 
 >[!NOTE]
 >電子メールを確実に受信できるようにするには、Microsoft.com からの電子メールに "安全な" ドメインとしてフラグを設定し、迷惑メールフォルダーを確認してください。

@@ -15,6 +15,7 @@
 ### [複数の会社をパートナー センターに移行するためのガイド](move-multiple-companies.md)
 ### [会社の統合](consolidate-accounts.md)
 
+
 ## メンバーシップ オファー
 ### [Action Pack](mpn-get-action-pack.md)
 ### [プランの更新](renew-mpn-offers.md)
@@ -65,6 +66,7 @@
 ## [ドメインの所有者の確認](become-global-admin.md)
 ## [アカウント情報の確認](verification-responses.md)
 ## [パートナー アカウントを別のパートナー アカウントにマージする](merge-accounts.md)
+## [追加の Azure AD テナントをパートナー センターのアカウントに関連付ける](multi-tenant-account.md)
 ## [パートナー プロファイルの更新](update-your-partner-profile.md)
 ## [場所](manage-locations.md)
 ## [コントロール パネル ベンダーとして登録する](enroll-as-cpv.md)
@@ -100,6 +102,7 @@
 ### インセンティブの概要
 #### [プログラムの適格性を確認する](incentives-determined-your-program-eligibility.md)
 #### [パートナー センターで支払いと税金のプロファイルを作成および管理する](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [インセンティブの支払いと税金のプロファイルに関する FAQ](incentives-payout-tax-profile-faqs.md)
 #### [収益の適格性を確認する](incentives-confirm-your-earnings-eligibility.md)
 #### [インセンティブの支払いとプログラムを表示する](understand-incentive-payouts.md)
 #### [インセンティブの支払いページへのアクセス](incentives-unified-user-guide.md)
@@ -132,6 +135,9 @@
 ### [請求書 - 請求フィールドと 1 回限りの料金フィールドを読み取る](invoice-file.md)
 ### [ライセンスベースの請求](license-based-billing.md)
 ### [ライセンス ベースの SaaS サブスクリプションのシナリオ](common-billing-scenarios-saas.md)
+
+## [デジタル署名の表示 - パートナー センター (インド)](digital-signature.md)
+
 ## [税金と税金の除外](tax-and-tax-exemptions.md)
 ### [会社の VAT 情報](organization-tax-info.md)
 ### [源泉徴収税の入金を確認する](withholding-tax-credit-form.md)
