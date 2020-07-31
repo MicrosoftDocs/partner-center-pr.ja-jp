@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
-ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
+ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
+ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86949858"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "87330119"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,7 +22,9 @@ ms.locfileid: "86949858"
 
 | **カテゴリ** | **2020 年 7 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
-|機能|[対象となる Microsoft コマーシャル マーケットプレース オファーの Cloud Solution Provider (CSP) インセンティブが FY21 に拡張](2020-July.md#7)|7 月 22 日|
+|機能|[パートナー センター API に対して予定されている変更](2020-july.md#9)|7 月 28 日|
+|機能|[.NET Standard v1.16.1-preview の SDK リリース](2020-july.md#8)|7 月 21 日|
+|機能|[対象となる Microsoft コマーシャル マーケットプレース オファーの Cloud Solution Provider (CSP) インセンティブが FY21 に拡張](2020-july.md#7)|7 月 22 日|
 |機能|[パートナー センターの Insights レポートに追加された新機能 ](2020-july.md#6)|7 月 16 日|
 |製品サービス/市場|[クラウド ソリューション プロバイダー プログラムの永続的ソフトウェア](2020-july.md#5)|7 月 15 日|
 | 製品サービス/市場 | [Teams 向けの新しい Microsoft 365 Enterprise Voice SKU](2020-july.md#4) | 7 月 3 日 |
