@@ -9,14 +9,22 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d0507b684b213e6da5f48a250e6e61f395fd52a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7d75c5c7311feaa3ca53139f2abf2702035b1069
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436431"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365758"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>パートナー センターで Azure AD アプリケーション (サービス プリンシパル) を追加する
+
+**適用対象**
+
+- パートナー センター
+
+**適切なロール**
+
+- グローバル管理者
 
 パートナー センターのコマーシャル マーケットプレース プログラムでは、Azure AD アプリケーション (サービス プリンシパル) を パートナー センター アカウントのユーザーとして追加できるようになりました。 (以前は、Cloud パートナー ポータルまたは CPP のアカウントでこれを行うことができました。 パートナーセンターに移行されたため、CPP アカウントは読み取り専用になります)。
  
@@ -38,3 +46,7 @@ ms.locfileid: "86436431"
    - **アプリ ID の URI**:Azure AD アプリケーションの論理識別子であり、シングル サインオン要求を Azure AD に送るときに提供されます。
 
    - **セキュリティ ロール**:**マネージャー** (CPP の '所有者' ロールと同じ) と **開発者** (CPP の 'コントリビューター' ロールと同じ) のロールは、パートナー センターのコマーシャル マーケットプレース プログラムに適用され、この Azure AD アプリケーションに関連付けることができます。  
+
+## <a name="next-steps"></a>次の手順
+
+- [パートナー センターのコマーシャル マーケットプレースの概要](csp-commercial-marketplace-overview.md)

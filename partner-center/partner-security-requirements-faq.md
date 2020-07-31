@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d2656ad80cc66742ee432f3eaecb284da798b1c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434121"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943560"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
 
@@ -40,9 +40,9 @@ Microsoft Partner Agreement では、パートナーは、ユーザー アカウ
 
 これらのセキュリティ プラクティスを順守していないパートナーは、CSP プログラムでの取引や、委任管理権限を利用した顧客テナントの管理ができなくなる可能性があります。
 
-### <a name="does-this-apply-to-all-geographies"></a>これはすべての地域に適用されますか?
+### <a name="do-the-security-requirements-apply-to-all-geographies"></a>セキュリティ要件はすべての地域に適用されますか?
 
-はい、これはすべての地域に適用されます。 ソブリン クラウド (21Vianet、米国政府、およびドイツ) を介して取引するすべてのパートナーが直ちに行動し、これらの新しいセキュリティ要件を採用することを強くお勧めします。 ただし、これらのパートナーは、8 月 1 日から有効となる新しいセキュリティ要件を満たす必要はありません。 マイクロソフトでは、今後、ソブリン クラウドに対するこれらのセキュリティ要件の適用に関して、追加の詳細情報を提供する予定です。
+はい。セキュリティ要件はすべての地域に適用されます。 ソブリン クラウド (21Vianet、米国政府、およびドイツ) を介して取引するすべてのパートナーが直ちに行動し、これらの新しいセキュリティ要件を採用することを強くお勧めします。 ただし、これらのパートナーは、8 月 1 日から有効となる新しいセキュリティ要件を満たす必要はありません。 マイクロソフトでは、今後、ソブリン クラウドに対するこれらのセキュリティ要件の適用に関して、追加の詳細情報を提供する予定です。
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>アカウントを除外することはできますか?
 
@@ -52,12 +52,12 @@ Microsoft Partner Agreement では、パートナーは、ユーザー アカウ
 
 以下の手順を完了する必要があります
 
-- [パートナーのセキュリティ要件](https://docs.microsoft.com/partner-center/partner-security-requirements)に概説されているすべての要件を満たす必要があります
+- [パートナーのセキュリティ要件](partner-security-requirements.md)に概説されているすべての要件を満たす必要があります
 - パートナー テナント内のすべてのユーザー アカウントに多要素認証を適用する必要があります。
 
 アクションを実行できる主要な領域を確認できるよう、パートナー センターから利用できる[セキュリティ要件状態](https://partner.microsoft.com/pcv/security/compliance)レポートが提供されています。
 
-状態レポートの詳細については、「[パートナー セキュリティ要件の状態](https://docs.microsoft.com/partner-center/partner-security-compliance)」を参照してください。
+状態レポートの詳細については、「[パートナー セキュリティ要件の状態](partner-security-compliance.md)」を参照してください。
 
 ## <a name="required-actions"></a>必要なアクション
 
@@ -89,7 +89,7 @@ CSP プログラムのすべてのパートナー (直接請求、間接プロ�
 
     セキュア アプリケーション モデル フレームワークの導入についてコントロール パネルを使用する場合は、ベンダーにお問い合わせください。
 
-    コントロール パネル ベンダーは、コントロール パネル ベンダーとしてパートナー センターに[オンボード](https://docs.microsoft.com/partner-center/enroll-as-cpv)し、すぐにこの要件の実装を開始する必要があります。 「[パートナー センター: セキュリティで保護されたアプリケーション モデル フレームワーク](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)」を参照してください。 コントロール パネル ベンダーは、資格情報ではなく CSP パートナーの同意を受け入れて管理し、既存のすべての CSP パートナーの資格情報を消去する必要があります。
+    コントロール パネル ベンダーは、コントロール パネル ベンダーとしてパートナー センターに[オンボード](enroll-as-cpv.md)し、すぐにこの要件の実装を開始する必要があります。 「[パートナー センター: セキュリティで保護されたアプリケーション モデル フレームワーク](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)」を参照してください。 コントロール パネル ベンダーは、資格情報ではなく CSP パートナーの同意を受け入れて管理し、既存のすべての CSP パートナーの資格情報を消去する必要があります。
 
 ## <a name="multi-factor-authentication"></a>多要素認証
 
@@ -124,9 +124,9 @@ Microsoft では、Azure AD のセキュリティの既定値を実装するこ�
 
 直接請求のクラウド ソリューション プロバイダー パートナーは、パートナー テナント内の各ユーザーに対して MFA を適用する必要があります。
 
-### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-this"></a>間接リセラーであり、ディストリビューターを通してだけ取引を行っています。 それでもこれを行う必要がありますか?
+### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>間接リセラーであり、ディストリビューターを通してだけ取引を行っています。 それでも MFA を有効にする必要がありますか?
 
-すべての間接リセラーは、パートナー テナントの各ユーザーに対して MFA を適用する必要があります。 これは、間接リセラーが実行する必要のあるアクションです。
+すべての間接リセラーは、パートナー テナントの各ユーザーに対して MFA を適用する必要があります。 間接リセラーは MFA を有効にする必要があります。
 
 ### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>Partner Center API は使用していません。 それでも MFA を実装する必要がありますか?
 
@@ -152,7 +152,7 @@ Azure AD のセキュリティの既定値機能を有効にする必要があ�
 
 いいえ。顧客の Azure AD テナント内の各ユーザーに対して、MFA を適用する必要はありません。 ただし、各顧客と協力して、顧客のユーザーの保護に最適な方法を決定することをお勧めします。
 
-### <a name="can-any-user-be-excluded-from-this-requirement"></a>この要件からユーザーを除外することはできますか?
+### <a name="can-any-user-be-excluded-from-the-mfa-requirement"></a>MFA の要件からユーザーを除外することはできますか?
 
 いいえ。サービス アカウントを含む、パートナー テナントの各ユーザーは、MFA を使用して認証を行う必要があります。
 
@@ -162,7 +162,7 @@ Azure AD のセキュリティの既定値機能を有効にする必要があ�
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>緊急アクセス (非常事態用) アカウントを構成するにはどうすればよいですか?
 
-Azure AD テナントから誤ってロックアウトされることを防ぐために、1 つまたは 2 つの緊急アクセス アカウントを作成することがベスト プラクティスとして推奨されます。 パートナー セキュリティ要件に関しては、各ユーザーが MFA を使用して認証を行う必要があります。 つまり、緊急アクセス アカウントの定義を変更する必要があります。 MFA にサードパーティ ソリューションを利用しているアカウントでもかまいません。
+Azure AD テナントから誤ってロックアウトされることを防ぐために、1 つまたは 2 つの緊急アクセス アカウントを作成することがベスト プラクティスとして推奨されます。 パートナーのセキュリティ要件に関しては、各ユーザーが MFA を使用して認証を行う必要があります。 この要件は、緊急アクセス アカウントの定義を変更する必要があることを意味します。 MFA にサードパーティ ソリューションを利用しているアカウントでもかまいません。
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>サードパーティのソリューションを使用している場合、Active Directory フェデレーション サービス (ADFS) は必要ですか?
 
@@ -203,11 +203,11 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 コントロール パネルを使用している場合は、セキュア アプリケーション モデル フレームワークの導入について、ベンダーと相談する必要があります。
 
-コントロール パネル ベンダーは、コントロール パネル ベンダーとしてパートナー センターに[オンボード](https://docs.microsoft.com/partner-center/enroll-as-cpv)し、すぐにこの要件の実装を開始する必要があります。 「[パートナー センター: セキュリティで保護されたアプリケーション モデル フレームワーク](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)」を参照してください。 コントロール パネル ベンダーは、資格情報ではなく CSP パートナーの同意を受け入れて管理し、既存のすべての CSP パートナーの資格情報を消去する必要があります。
+コントロール パネル ベンダーは、コントロール パネル ベンダーとしてパートナー センターに[オンボード](enroll-as-cpv.md)し、すぐにこの要件の実装を開始する必要があります。 「[パートナー センター: セキュリティで保護されたアプリケーション モデル フレームワーク](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)」を参照してください。 コントロール パネル ベンダーは、資格情報ではなく CSP パートナーの同意を受け入れて管理し、既存のすべての CSP パートナーの資格情報を消去する必要があります。
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>セキュリティで保護されたアプリケーション モデルは、Partner Center API/SDK に対してのみ実装する必要がありますか?
 
-すべてのユーザー アカウントに対して多要素認証を適用すると、非対話形式での実行を目的とした自動化または統合が影響を受けます。 パートナーのセキュリティ要件では、パートナーは Partner Center API に対してセキュリティで保護されたアプリケーション モデルを有効にする必要がありますが、それを利用して自動化と統合で認証の 2 番目の要素の必要性に対処することができます。 
+すべてのユーザー アカウントに対して多要素認証を適用すると、非対話形式での実行を目的とした自動化または統合が影響を受けます。 パートナーのセキュリティ要件では、パートナーは Partner Center API に対してセキュア アプリケーション モデルを有効にする必要がありますが、それを利用して自動化と統合で認証の 2 番目の要素の必要性に対処することができます。
 
 >[!Note] 
 >アクセス対象のリソースでは、アクセス トークン ベースの認証がサポートされている必要があります。
@@ -221,7 +221,7 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>同意プロセスを実行するとき、アプリケーション管理者はどのようなユーザー資格情報を提供する必要がありますか?
 
-最小限の特権のアクセス許可が割り当てられているサービス アカウントを使用することをお勧めします。 Partner Center API に関しては、販売エージェント ロールまたは管理エージェント ロールが割り当てられているアカウントを使用する必要があります。
+最小限の特権のアクセス許可が割り当てられているサービス アカウントを使用することをお勧めします。 Partner Center API に関しては、販売代理店または管理エージェントのロールに割り当てられているアカウントを使用する必要があります。
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>同意プロセスを実行するとき、アプリケーション管理者がグローバル管理者のユーザー資格情報を提供してはならないのはなぜですか?
 
@@ -237,17 +237,20 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 ### <a name="i-am-a-cpv-how-do-i-enroll"></a>私は CPV です。 登録するにはどうすればよいですか?
 
-コントロール パネル ベンダー (CPV) として登録するには、[こちら](https://docs.microsoft.com/partner-center/enroll-as-cpv)のガイドラインに従ってください。
+コントロール パネル ベンダー (CPV) として登録するには、[こちら](enroll-as-cpv.md)のガイドラインに従ってください。
 
 登録リンクを受け取るには、CPV は [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) に連絡し、CPV とビジネス上の関係がある、または CPV のビジネスを理解している、Microsoft の従業員スポンサーを指定する必要があります。 たとえば、パートナー開発マネージャー (PDM) などです。
 
 パートナー センターに登録して、使用するアプリケーションを登録すると、Partner Center API にアクセスできるようになります。 初めて CPV になった場合は、パートナー センターの通知を通じてサンドボックスの情報を受け取ります。 Microsoft CPV として登録を完了し、CPV 契約に同意すると、次のことができるようになります。
 
-1. マルチテナント アプリケーションを管理する (Azure portal へのアプリケーションの追加、パートナー センターでのアプリケーションの登録と登録解除)。 
-     >[!Note] 
-     >CPV は、Partner Center API の承認を取得するには、パートナー センターでアプリケーションを登録する必要があります。 Azure portal にアプリケーションを追加するだけでは、CPV アプリケーションはパートナー センター API に対して承認されません。
-2. CPV プロファイルを表示および管理する。
-3. CPV 機能にアクセスする必要があるユーザーを表示および管理する。 CPV に許される唯一のロールは、グローバル管理者です。
+1. マルチテナント アプリケーションを管理する (Azure portal へのアプリケーションの追加、パートナー センターでのアプリケーションの登録と登録解除)。
+
+   >[!Note]
+   >CPV は、Partner Center API の承認を取得するには、パートナー センターでアプリケーションを登録する必要があります。 Azure portal にアプリケーションを追加するだけでは、CPV アプリケーションはパートナー センター API に対して承認されません。
+
+1. CPV プロファイルを表示および管理する。
+
+1. CPV 機能にアクセスする必要があるユーザーを表示および管理する。 CPV が保持できるのは、グローバル管理者ロールのみです。
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>Partner Center SDK を使用しています。 SDK ではセキュリティで保護されたアプリケーション モデルが自動的に使用されますか?
 
@@ -255,11 +258,11 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-dont-have-mfa-enabled"></a>MFA が有効でないアカウントを使用して、セキュア アプリケーション モデルの更新トークンを生成できますか?
 
-はい。MFA が適用されていないアカウントを使用して、更新トークンを生成できます。 ただし、MFA が有効になっていないアカウントを使用して生成されたトークンでは、MFA の要件によりリソースにアクセスできないため、これは行わないでください。
+はい。MFA が適用されていないアカウントを使用して、更新トークンを生成できます。 ただし、これは行わないようにしてください。 MFA が有効になっていないアカウントを使用して生成されたトークンは、MFA の要件によりリソースにアクセスできません。
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>MFA が有効になっている場合、アプリケーションでアクセス トークンを取得するにはどうすればよいですか?
 
-[セキュリティで保護されたアプリケーション モデル ガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)で提供されている、新しいセキュリティ要件に準拠しながらそれを行う方法の詳細に従う必要があります。 .NET のサンプル コードは[こちら](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)に、Java のサンプル コードは[こちら](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)にあります。
+[セキュア アプリケーション モデル ガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)で提供されている、新しいセキュリティ要件に準拠しながらそれを行う方法の詳細に従う必要があります。 .NET のサンプル コードは[こちら](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)に、Java のサンプル コードは[こちら](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)にあります。
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>CPV は、CPV テナントまたは CSP パートナーのテナントのどちらに Azure AD アプリケーションを作成しますか?
 
@@ -293,7 +296,7 @@ Microsoft では、追加の保護を提供するために、多要素認証 (MF
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>AOBO を使用した顧客のサポートが MFA によってブロックされます。どうすればよいですか?
 
-パートナーのセキュリティ要件の技術的適用では、認証対象のアカウントで多要素認証が求められたかどうかが確認されます。 要求されなかった場合、ログイン ページにリダイレクトされ、再度認証するように求められます。 エクスペリエンスとガイダンスの詳細については、「[パートナー テナントに多要素認証 (MFA) を義務付ける](partner-security-requirements-mandating-mfa.md#partner-delegated-administration)」のドキュメントを確認してください。 ドメインがフェデレーションされていない場合は、認証が完了した後、多要素認証を設定するように要求されます。 設定が完了すると、AOBO を使用して顧客を管理できるようになります。 ドメインがフェデレーションされている場合は、アカウントに対して多要素認証が求められることを確認する必要があります。
+パートナーのセキュリティ要件の技術的適用では、認証対象のアカウントで多要素認証が求められたかどうかが確認されます。 要求されなかった場合、ログイン ページにリダイレクトされ、再度認証するように求められます。 エクスペリエンスとガイダンスの詳細については、「[パートナー テナントに多要素認証 (MFA) を義務付ける](partner-security-requirements-mandating-mfa.md#partner-delegated-administration)」のドキュメントを確認してください。 ドメインがフェデレーションされていない場合は、認証が完了した後、多要素認証を設定するように要求されます。 それが完了すると、AOBO を使用して顧客を管理できるようになります。 ドメインがフェデレーションされている場合は、アカウントに対して多要素認証が求められることを確認する必要があります。
 
 ## <a name="security-defaults-transition"></a>セキュリティの既定値の移行
 
@@ -315,7 +318,7 @@ Azure Active Directory (Azure AD) [「ベースライン」ポリシーは削除
 
 ### <a name="how-to-get-started"></a>開始する方法
 
-- [パートナーのセキュリティ要件: ステップバイステップ ガイド](https://docs.microsoft.com/partner-center/partner-security-requirements)。
+- [パートナーのセキュリティ要件: ステップバイステップ ガイド](partner-security-requirements.md)。
 - 質問とフィードバックは、この[パートナー センター セキュリティ ガイダンス グループ](https://aka.ms/MPCSecurityGuidance)にお送りください。
 - 今後予定されているパートナーの業務時間とウェビナーに参加してください。 [スケジュールとリソースの詳細](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)については、こちらで確認してください。
 
@@ -340,9 +343,8 @@ Azure Active Directory の技術製品サポート オプションを、MPN 特�
 
 ### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>パートナー センターへのアクセスが失われた場合、サポートに問い合わせるにはどうすればよいですか?
 
-「[マイクロソフト パートナー サポート](https://partner.microsoft.com/support)」にアクセスし、 **[すべてのサポート オプションを表示する]** を選択します。 マイクロソフト パートナー サポートに連絡するために使用できるオプションが表示されます。 これには、サポートに電話するための電話番号と、サポートとチャットするためのオプションが含まれます。 
+「[マイクロソフト パートナー サポート](https://partner.microsoft.com/support)」にアクセスし、 **[すべてのサポート オプションを表示する]** を選択します。 Microsoft パートナー サポートへの連絡に使用できるオプション (サポートに電話するための電話番号やサポートとチャットするためのオプションなど) が表示されます。
 
-### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>一般的な技術的問題に関する詳細情報はどこで入手できますか?
+### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>一般的な技術的問題に関する詳細情報はどこで入手できますか?
 
-一般的な技術的問題に関する情報については、[こちら](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues)を参照してください。
-
+一般的な技術的問題に関する情報については、「[パートナー センターまたはパートナー センター API を使用するパートナー向けの、パートナーのセキュリティ要件](partner-security-requirements.md)」を参照してください

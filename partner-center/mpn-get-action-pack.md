@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Action Pack サブスクリプションを購入し、Action Pack 特典の使用を開始する方法について説明します。 また、更新、キャンセル、請求書を表示する方法などについても説明します。
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45abf47801dce26e14880afe91b3f104ee9822ec
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436801"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114688"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Action Pack サブスクリプションや Silver コンピテンシーと Gold コンピテンシーを購入または更新する
 
@@ -32,7 +32,7 @@ ms.locfileid: "86436801"
 - 管理エージェント
 - 販売代理店
 
-現在、Microsoft Partner Network (MPN) のメンバーは、パートナー センターの[ダッシュボード](https://docs.microsoft.com/partner-center/)で特典プランの特典を購入または更新できます。 このようなプランには、Microsoft Action Pack サブスクリプションや Silver コンピテンシーと Gold コンピテンシーが含まれます。
+現在、Microsoft Partner Network (MPN.md) のメンバーは、パートナー センター [ダッシュボード]()で特典プランを購入または更新できます。 このようなプランには、Microsoft Action Pack サブスクリプションや Silver コンピテンシーと Gold コンピテンシーが含まれます。
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>初めて Microsoft Action Pack を購入する
 

@@ -9,14 +9,19 @@ ms.topic: conceptual
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286580"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365718"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>パートナー センターで、パートナー プロファイルの情報を確認する
+
+**適切なロール**
+
+- グローバル管理者
+- MPN アカウント管理者
 
 グローバル管理者として初めてパートナー センターにサインインするときは、ご自身の会社の詳細情報がすべて正しいことを確認する必要があります。 これには、主要連絡先、会社の正式名称と住所、プログラム情報などがあります。 会社が複数の場所に存在する場合は、場所のデータが正しいことを確認します。 全体管理者、課金管理者、または管理エージェントとして、自分の請求および税金情報を表示し、更新することもできます。
 
@@ -56,5 +61,7 @@ Partner Membership Center からパートナー センターへの移行中、�
 全体管理者、課金管理者、または管理エージェントは、自分の**課金プロファイル**の請求書に示されている住所を変更できます。 ただし、請求書システムの制限により、請求書の会社名を変更することはできません。
 
  
+## <a name="next-steps"></a>次の手順
 
+- [場所の管理](manage-locations.md)
 

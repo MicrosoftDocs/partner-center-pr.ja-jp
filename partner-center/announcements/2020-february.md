@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749139"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944439"
 ---
 # <a name="february-2020-announcements"></a>2020 年 2 月のお知らせ
 
@@ -70,7 +70,7 @@ _________________
 
 パートナー様は、認証済み Microsoft ポータル (Microsoft 365 管理センター) で Microsoft 顧客契約を直接確認して同意していただくために、新規のお客様と既存のお客様の両方を招待できるようになりました。
 
-この新しい機能により、Microsoft 顧客契約をお客様に提示する際、[パートナー様は次の 2 つのオプションから選択できるようになりました](https://docs.microsoft.com/partner-center/confirm-customer-agreement)。
+この新しい機能により、Microsoft 顧客契約をお客様に提示する際、[パートナー様は次の 2 つのオプションから選択できるようになりました](../confirm-customer-agreement.md)。
 
 - **選択肢 1**パートナーは、以前の Microsoft Cloud 契約とほぼ同じ方法で、新しい Microsoft 顧客契約をお客様に提示できます。 お客様が契約を確認して同意した後、パートナーはお客様が Microsoft に同意したことを証明する必要があります。 パートナー センター ダッシュボード、パートナー センター API、.NET SDK は既に、Microsoft 顧客契約へのお客様の同意を、パートナーがこの方法で確認できるように更新されています。
 - **オプション 2 (新機能):** パートナーは、認証済み Microsoft ポータル (Microsoft 365 管理センター) で契約の確認と署名を行うよう、お客様を招待できます。 このオプションでは、お客様が Microsoft 365 管理センターで直接同意すればご契約条件への同意が確認できるため、パートナーにとっては契約管理の簡素化、迅速な履行、作業量の削減が可能になります。
@@ -130,7 +130,7 @@ _________________
 
 オファー:Microsoft 365 電話システム - 仮想ユーザー評価版オファー ID: `b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
-これらのオファーは利用できますが、オファー一覧表には記載されていません。以前の 2020 年 1 月のオファー一覧表で、オファーの表の詳細をご確認ください。
+これらのプランは利用できますが、プラン一覧表には記載されていません。 プラン マトリックスの詳細については、2020 年 1 月からの以前のプラン一覧表を参照してください。
 
 オファー:Pro Direct Support for Dynamics 365 Unified Operations オファー ID: `09dc6202-bfbb-44fb-9c87-b12c90084010`
 
@@ -175,10 +175,10 @@ Microsoft のシステムによると、対象者様の組織では現在ベー�
 
 ### <a name="key-considerations"></a>主な考慮事項
 
-セキュリティの既定値ポリシーは、パートナーが、ビジネス ニーズに応じてセキュリティ要件に MFA を実装するために選択することができる[オプション](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)の 1 つです。 基本レベルのセキュリティが追加料金なしで有効になります。 [Azure AD で組織の MFA を有効にする方法](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)に関する記事と、以下の考慮点についてご確認ください。
+セキュリティの既定値ポリシーは、パートナーが、ビジネス ニーズに応じてセキュリティ要件に MFA を実装するために選択することができる[オプション](../partner-security-requirements.md#actions-that-you-need-to-take)の 1 つです。 基本レベルのセキュリティが追加料金なしで有効になります。 [Azure AD で組織の MFA を有効にする方法](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)に関する記事と、以下の考慮点についてご確認ください。
 
 - [条件付きアクセス](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)を使用しているパートナー様の場合、セキュリティの既定値は使用できません。
-- セキュリティの既定値群では、管理者ポリシーおよびエンド ユーザー保護ポリシーに必要な MFA、サービス管理に必要な MFA を含む、すべてのポリシーが同時に適用されます。
+- セキュリティの既定値群では、管理者ポリシーおよびエンドユーザー保護ポリシーに必要な MFA、サービス管理に必要な MFA を含む、すべてのポリシーが同時に適用されます。
 - 現時点では、パートナーに対してレガシ認証のブロックは強制されません。 ただし、侵害された ID に関連するほとんどのイベントは、従来の認証を使用したサインインの試行が原因であるため、パートナーにはこれらの古いプロトコルの利用を停止することをお勧めします。
 - セキュリティの既定値群は、Azure AD Connect 同期アカウントを自動的に除外します。
 - セキュリティの既定値は、プレビュー版の[ベースライン ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)に置き換わって一般提供されます。 セキュリティの既定値を有効にしたパートナーは、ベースライン ポリシーを有効にすることはできなくなります。
@@ -288,7 +288,7 @@ CSP プログラムに参加し、Azure プランの従量課金メーターお�
 
 - [開発者向けドキュメント](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)を確認する。
 - [新しい API](https://docs.microsoft.com/partner/develop/pricing) を使用して自動化されたプロセスを実装する。
-- 価格関連の質問について [Azure プランの価格に関するドキュメント](https://docs.microsoft.com/partner-center/azure-plan-price-list)を参照する。
+- 価格関連の質問について [Azure プランの価格に関するドキュメント](../azure-plan-price-list.md)を参照する。
 - [Azure プランと CSP での新しいコマース エクスペリエンスについて詳細を確認する](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)。
 
 ### <a name="change-log"></a>変更ログ
@@ -324,7 +324,7 @@ _________________
 
 ### <a name="additional-resources"></a>その他の資料:
 
-- [パートナー センターでのサポート要求の作成](https://docs.microsoft.com/partner-center/report-problems-with-partner-center)に関する詳細情報。
+- [パートナー センターでのサポート要求の作成](../report-problems-with-partner-center.md)に関する詳細情報。
 
 ### <a name="change-log"></a>変更ログ
 
@@ -357,8 +357,8 @@ _________________
 
 ### <a name="next-steps"></a>次の手順
 
-- パートナー センター [Web ユーザー インターフェイスまたは API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) を使用してお客様の同意を確認する
-- 既存の Microsoft Cloud 契約の API を使用しているパートナーは、[更新された API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) を使用して既存の実装を変更する必要があります。
+- パートナー センター [Web ユーザー インターフェイスまたは API](../confirm-customer-agreement.md) を使用してお客様の同意を確認する
+- 既存の Microsoft Cloud 契約の API を使用しているパートナーは、[更新された API](../confirm-customer-agreement.md) を使用して既存の実装を変更する必要があります。
 - エージェントとリセラーを対象として、[新しい契約条件](https://www.microsoft.com/licensing/docs/customeragreement)の内容について、および新しい契約の提示とお客様の同意の確認についてのトレーニングを実施します。
 
 >[!NOTE] 

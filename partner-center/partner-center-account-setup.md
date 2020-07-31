@@ -9,18 +9,23 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 0fcdd4129eb61ee955ec5804ae16e346a222c45b
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265233"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365778"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>パートナー センター アカウントの管理 - 会社のプロファイル、銀行に関する情報、ロール、アクセス許可など
 
 **適用対象**
 
 - パートナー センター
+ 
+**適切なロール**
+
+- グローバル管理者
+- MPN アカウント管理者
 
 登録時にパートナー センターで作成するアカウントは、仕事用のメールとビジネス情報です。 パートナー センターでアカウントを作成した後、サポートの詳細、税金の控除の申告 (該当する場合)、第一連絡先情報など、貴社のプロファイルの設定を完了します。 また、自社のアカウントには、顧客の追加または管理、サブスクリプションの販売、課金や請求の操作、ビジネス プロファイルの作成、紹介の管理、インセンティブ プログラムの操作、サポートの提供に関してパートナー センターを使うすべてのユーザーのユーザー アカウントが含まれます。
 
@@ -94,7 +99,7 @@ ms.locfileid: "86265233"
 
 - [コマーシャル マーケットプレース プログラム](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
 - [MPN プログラム](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [CSP プログラム](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [CSP プログラム](enrolling-in-the-csp-program.md)
 - [Office ストア](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 パートナー センターのプログラムに登録する方法の詳細については、[パートナー ネットワークのリソース](https://partner.microsoft.com/)に関するページも参照してください。

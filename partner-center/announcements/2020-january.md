@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286610"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944009"
 ---
 # <a name="january-2020-announcements"></a>2020 年 1 月のお知らせ
 
@@ -53,7 +53,7 @@ Azure ハイブリッド特典を含む Azure の予約とこれらのサーバ�
 ### <a name="additional-resources"></a>その他の資料
 
 - パートナー ギャラリー ページの CSP プログラム リソース:[ロシアで CSP パートナーに対する Windows Server と SQL Server のサブスクリプションの提供開始](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
-- [パートナー センターについての詳細情報](https://docs.microsoft.com/partner-center/azure-plan-get-started)
+- [パートナー センターについての詳細情報](../azure-plan-get-started.md)
 
 ### <a name="next-steps"></a>次の手順
 
@@ -76,7 +76,7 @@ _________________
 
 ### <a name="summary"></a>要約
 
-2020 年 1 月 7 日に、Microsoft は Microsoft 365 F1 の Meeting Room と Meetings アドオンを GCC 向けに導入しました。 詳細については、価格表をご確認ください。
+2020 年 1 月 7 日に、Microsoft は Microsoft 365 F1 の Meeting Room と Meetings アドオンを GCC 向けに導入しました。 詳細については、価格表を確認してください。
 
 ### <a name="impacted-audience"></a>対象
 
@@ -102,11 +102,11 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 
 ### <a name="next-steps"></a>次の手順
 
-価格表についてよく理解し、組織内のすべての適切な担当者 (特に営業チーム) にこの情報を共有してください。
+価格表についてよく理解し、組織内のすべての適切な担当者 (特に営業チーム) とこの情報を共有してください。
 
 ### <a name="questions"></a>ご質問がある場合は、
 
-これらのオファーに関するその他の質問については、Microsoft アカウント チームの担当者にお問い合わせいただくか、関連する Yammer パートナー コミュニティをご確認ください。
+これらのプランに関するその他の質問については、Microsoft アカウント チームの担当者にお問い合わせいただくか、関連する Yammer パートナー コミュニティをご確認ください。
 
 _________________
 
@@ -131,23 +131,23 @@ _________________
 
 セルフサービス購入に関するさらに詳しい情報については、リソース ギャラリーにあるすべてのリソースを確認してください (下記の「その他のリソース」をご覧ください)。この中には、お客様がセルフサービス購入のオプトアウトを希望される場合の PowerShell の実行手順も含まれています。
 
-IT 管理者は **PowerShell** スクリプトを使用して、製品ごとにセルフサービス購入機能を制御 (オンまたはオフ) **できるようになりました**。 技術ドキュメントについては、後述の [その他のリソース] セクションをご覧ください。
+IT 管理者は **PowerShell** スクリプトを使用して、製品ごとにセルフサービス購入機能を制御 (オンまたはオフ) **できるようになりました**。 技術ドキュメントについては、後述の [その他の資料] セクションをご覧ください。
 
 更新:過去 1 週間にわたり、Power Platform 製品のセルフサービス購入機能のロールアウトに関するご意見をいただいてきました。 ご意見をお寄せいただき、ありがとうございます。 お客様からのフィードバックに基づき、IT 管理者と組織内のエンドユーザーの両方のニーズに対応するためのアプローチを調整しました。 現在、計画に次のような変更を行っています。
 
 - 11 月 19 日に、IT 管理者に、PowerShell を使用した製品ごとのセルフサービス購入を無効にする方法を提供します。 詳細については、近日中にお知らせします。
-- この変更に向けて準備を行う時間を十分に確保するため、Power Platform 製品のセルフサービス購入機能の開始時期を更新し、すべての法人契約のクラウドのお客様に対して、1 月 14 日から Power BI で開始するようにします。 PowerApps と Power Automate の詳細については、近日中にお知らせいたします。
+- この変更に向けて準備を行う時間を十分に確保するため、Power Platform 製品のセルフサービス購入機能の開始時期を更新し、すべての法人契約のクラウドのお客様に対して、1 月 14 日から Power BI で開始するようにします。 Power Apps と Power Automate の詳細については、近日中にお知らせいたします。
 
 フィードバックの提供にご協力いただき、ありがとうございました。 組織がより多くの力を発揮できるように、これからもご協力いただけますよう、よろしくお願いいたします。
 
 世界がデジタル トランスフォーメーションの道のりを進む中、エンド ユーザーと事業部門はますます多くの独自のサービスとしてのソフトウェア (SaaS) ソリューションを採用し、購入しています。 Microsoft は、ユーザーが 1 つ以上のライセンスを購入できるようにするセルフサービスの購入を導入しています。これにより、部門、チーム、そして企業全体が独自のソリューションを構築するための柔軟性と自由度を高めることができます。
 
-Microsoft は、Microsoft Power Platform 製品 (Power BI、PowerApps、Power Automate) を段階的にロールアウトしています。
+Microsoft は、Microsoft Power Platform 製品 (Power BI、Power Apps、Power Automate) を段階的にロールアウトしています。
 
 - セルフサービスの提供は、**1 月 14 日の Power BI** から開始されます。
 - ロールアウトは米国のお客様から始められ、その後、その他の地域に展開されます。
 - 現時点では、この機能は政府、非営利団体、教育機関のお客様はご利用いただけません。
-- PowerApps と Power Automate の詳細については、近日中にお知らせします。
+- Power Apps と Power Automate の詳細については、近日中にお知らせします。
 
 パートナー様は、Azure と Power Platform にまたがるソリューションを構築することで、セルフサービス購入のメリットを活用することができます。 管理者アクセス権を持つパートナーは、Microsoft 365 管理センターで個々の Power Platform の購入を確認し、それをクラウド ソリューションのセールス リードとして取り扱うことができます。 たとえば、Power BI を採用している作業グループを見つけたパートナーは、Azure SQL データベースまたはその他のビジネス アプリケーションからデータを取得する高度な Power BI ダッシュボードを構築して販売するチャンスが得られます。 セルフサービス購入によって導入が組織内で急速に広がれば、パートナーは幅広い種類の Power Platform を中央の IT 部門に販売することもできます。
 
@@ -190,7 +190,7 @@ Microsoft Partner Network のメンバーであるパートナー組織向けに
 ### <a name="additional-resources"></a>その他の資料
 
 - アクセス、ナビゲーション、レポートの概要と使用状況、フィードバックを残す方法など、すべての分析情報に関するリソースをご確認ください。[パートナー センターでの新しいレポート ダッシュボード (ベータ版) の発表](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)
-- ご質問がある場合は、 [パートナー サポート](https://partner.microsoft.com/support)にお問い合わせください。
+- ご質問がある場合は、 [パートナー サポートにお問い合わせください](https://partner.microsoft.com/support)。
 
 ### <a name="change-log"></a>変更ログ
 
@@ -229,7 +229,7 @@ Microsoft 顧客契約は、お客様が選択した購入方法に関係なく�
 
 - 2020 年 1 月 31 日よりも前に、新しい Microsoft 顧客契約への同意を確認します。
 - エージェントとリセラーを対象として、新しい契約の内容について、および新しい契約の提示とお客様の同意の確認についてのトレーニングを実施します。 間接プロバイダーは、お客様の同意を確認するにあたって間接リセラーと協力する必要があります。
-- 直接請求プロバイダーおよび間接プロバイダーが API を使用している場合は、既存の実装を更新する必要があります。新しい Microsoft 顧客契約に対応できるように、[更新済みの API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) を使用してください。
+- 直接請求プロバイダーおよび間接プロバイダーが API を使用している場合は、既存の実装を更新する必要があります。新しい Microsoft 顧客契約に対応できるように、[更新済みの API](../confirm-customer-agreement.md) を使用してください。
 - 直接請求プロバイダーおよび間接プロバイダーは、パートナー センターの Web UI を使用してお客様の同意を確認することもできます。
 
 ### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>その他のリソース パートナーは、次のような [CSP ギャラリー ページ](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)で利用できるコンテンツを表示できます。
@@ -288,7 +288,7 @@ Marketplace ページの Azure プランの価格表は動的で、継続的に�
 
 - オファー:PowerApps アプリ別プラン for Students オファー ID: e1f379e8-cf22-4a7d-97fd-dcf9d62fc132
 
-これらのオファーは 1 月の価格表から誤って削除されましたが、まだ利用できるオファーです。価格については、12 月の価格表をご覧ください。 これらのプランは来月の価格表に再度追加される予定です。
+次のプランは 1 月の価格表から誤って削除されましたが、まだ利用できます。価格については、12 月の価格表をご覧ください。 これらのプランは来月の価格表に再度追加される予定です。
 
 - Office 365 A1 for Faculty (デバイス用) オファー ID: `0757d14e-7c57-456f-8dab-47d164f2ff1f`
 - Office 365 A1 for Students (デバイス用) のオファー ID: `bae285a9-d56b-4384-b02f-38adc61a6f12`
@@ -369,9 +369,9 @@ Dynamics 365 Human Resources では、次のオファーを使用できなくな
 
 保留中の SKU 情報
 
-2020 年 2 月 1 日より、Microsoft は既存の Dynamics 365 および Power Platform オファーの名前を、他のチャネルやリージョンで使用されているものと一致させるために、一部の製品ファミリおよびオファーの名前を変更します。
+2020 年 2 月 1 日より、Microsoft は既存の Dynamics 365 および Power Platform プランの名前を、他のチャネルやリージョンで使用されている名前と一致させるために、一部の製品ファミリおよびプランの名前を変更します。
 
-具体的な変更については、[こちら](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)から「Dynamics CSP オファーの名前の変更 – 2020 年 2 月」ファイルをご覧ください。
+具体的な変更については、[こちら](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)から「Dynamics CSP Offer Name Changes - Feb 2020」のファイルをご覧ください。
 
 ### <a name="additional-resources"></a>その他の資料
 
@@ -379,13 +379,13 @@ Dynamics 365 Human Resources では、次のオファーを使用できなくな
 - [Mixed Reality アプリ ガイド ホーム ページ](https://dynamics.microsoft.com/mixed-reality/guides/)
 - [Biz Apps 不正防止に関するホーム ページ](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
 - [Power Platform の製品に関するホーム ページ](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [FY20 PowerApps と Flow のライセンスの更新情報](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [FY20 Power Apps と Flow のライセンスの更新情報](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365 ライセンス](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 
 ### <a name="next-steps"></a>次の手順
 
 - この情報を組織内の適切な担当者に共有してください。
-- ライセンスの更新や価値の提案について詳しくは、「その他の資料」セクションおよび PartnerSource にある、Microsoft の準備用コンテンツでお読みいただけます。
+- ライセンスの更新や価値の提案について詳しくは、「その他の資料」セクションおよび PartnerSource にある、Microsoft の準備用コンテンツをお読みください。
 
 ### <a name="questions"></a>ご質問がある場合は、
 
