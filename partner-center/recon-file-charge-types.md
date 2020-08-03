@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444776"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479115"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>パートナーセンターの調整ファイルのさまざまな料金の種類を理解する
 
@@ -52,8 +52,7 @@ ms.locfileid: "87444776"
 | Prorate fees when cancel | キャンセル時のサービスの未使用部分の日割り返金。 |
 | 現在のオファリングからの変換時の edition 料金 | 現在の月単位のサブスクリプションから年間サブスクリプションに変換した後に、日割り料金が請求されます。 |
 | 新しいオファリングに変換する場合の edition 料金 | 月単位のサブスクリプションを新しい年間サブスクリプションに変換した後に日割りで課金されます。 |
-| Prorate fees when purchase | 年間請求書を使用する場合のサブスクリプションの料金の種類。 |
-| Purchase fee | 毎月の課金を使用する場合のサブスクリプションの料金の種類。 |
+| Prorate fees when purchase | 月単位または年間請求書の両方を使用する場合のサブスクリプションの料金の種類。 |
 | Prorate fee when renew | サブスクリプションの更新時の日割り料金。 |
 | Renew fee | サブスクリプションの更新時の課金 |
 | Prorate fees when activate | 請求期間が終了するまで、ライセンス認証から課金されます。 |
