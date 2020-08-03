@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b83116bf4b32754c1a8f270136f44e9120f034b5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c8ae3334685ee74fabd3be99d53b1f90d18026e4
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435591"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468520"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>パートナーセンターでの課金の種類-ライセンスベース、使用量ベース、および1回限りの課金を含みます。
 
@@ -34,8 +34,6 @@ ms.locfileid: "86435591"
 パートナーセンターの購入については、お客様の代わりに購入した製品、ソリューション、サービスに応じて課金されます。 課金の種類は次のとおりです。
 
 - ライセンス[**ベースの課金**](license-based-billing.md)。ライセンスはライセンスの使用量ではなく、ライセンスごとに請求されます。
-- [**使用量ベースの課金**](usage-based-billing.md)。毎月の使用率に対して課金されます。
-- [**1 回限りの課金**](one-time-and-recurring-billing.md)については、Microsoft およびサードパーティの ISV 製品の事前設定された条件を事前に支払います。
 - ライセンスベースの SaaS トランザクションの請求 (「 [**saas 料金の一般的な課金シナリオ**](common-billing-scenarios-saas.md)」を参照してください)。
 
 顧客のために購入する製品の種類によっては、請求期間が異なったり、同じ月の異なる日に請求されたりすることがあります。

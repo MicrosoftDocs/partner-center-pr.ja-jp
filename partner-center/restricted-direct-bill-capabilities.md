@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87113982"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444782"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>制限付きの直接請求機能と、CSP direct bill パートナーに必要な要件  
 
@@ -43,9 +43,9 @@ ms.locfileid: "87113982"
 
 - Azure サブスクリプション
 
-- 座席ベースのサブスクリプション
+- ライセンスベースのサブスクリプション
 
-- 既存の座席ベースのサブスクリプションに新しいアドオンを追加します。
+- 既存のライセンスベースのサブスクリプションに新しいアドオンを追加します。
 
 - ソフトウェアと予約製品 (ソフトウェアサブスクリプション、永続ソフトウェア、Azure Reserved Virtual Machine instances など) を1回だけ購入してください。
 
@@ -55,9 +55,9 @@ CSP プログラムで[azure パートナー共有サービスプラン](shared-
 
 - 既存のサブスクリプションを中断します
 
-- 既存の接続クライアント数に基づくサブスクリプションの接続クライアント数の調整
+- 既存のライセンスベースのサブスクリプションのライセンス数を調整する
 
-- サブスクリプションに対する既存のアドオンのシート数を調整します。 
+- サブスクリプションに対する既存のアドオンのライセンス数を調整します。 
  
     >[!Note] 
     >新しいアドオンは新規購入として扱われるため、既存のサブスクリプションに追加することはできません。

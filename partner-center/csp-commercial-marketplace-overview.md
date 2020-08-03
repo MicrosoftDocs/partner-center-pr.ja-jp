@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435071"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444939"
 ---
-# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>パートナーセンターのコマーシャルマーケットプレースの概要
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>パートナー センターのコマーシャル マーケットプレースの概要
 
 **適用対象**
 
@@ -37,11 +37,11 @@ CSP プログラムのパートナーとして、パートナーセンターを�
 
 CSP プログラムのパートナーである場合は、ISV のオファーに関して、多くの市販の marketplace アクティビティを実行する必要があります。 各アクティビティの詳細については、次の表を参照してください。
 
-|**目的**  |**読み取り**   |
+|**必要に応じて**  |**読み取り**   |
 |:------------------------------------|:------------------|
 |利用可能なプラン、価格、製品の詳細、または発行者の連絡先情報を表示または検索する方法について説明します | [オファーの検出](csp-commercial-marketplace-discover.md) | 
 |プランを購入して展開する方法について説明します   | [購入プラン](csp-commercial-marketplace-purchase.md)   | 
-|サブスクリプションをキャンセルまたは更新する方法、またはシートを追加または削除する方法について説明します。  | [オファーの管理](csp-commercial-marketplace-manage.md) |
+|サブスクリプションをキャンセルまたは更新する方法、またはライセンスを追加または削除する方法について説明します。  | [オファーの管理](csp-commercial-marketplace-manage.md) |
 |商用 marketplace での購入に対する課金のしくみについて説明します | [課金について](csp-commercial-marketplace-billing.md) |
 |ISV が購入できるサポートの種類について説明します。 | [サポートについて](csp-commercial-marketplace-support.md) |
 |商用マーケットプレースにおける CSP パートナーと Isv の契約および責任について説明します。 | [コントラクトについて](csp-commercial-marketplace-contracting.md) |
@@ -73,7 +73,7 @@ CSP プログラムのパートナーとして、パートナーセンターの[
 |利用可能なプランを検出または検索するには  | パートナーセンターのダッシュボードまたはパートナーセンターの Api  |
 |プランを購入するには  | パートナーセンターのダッシュボードまたはパートナーセンターの Api  |
 |購入したプラン (アカウントのセットアップ、ソフトウェアの管理、または顧客の AAD テナントへのデプロイ) をデプロイするには  | ISV 発行元のシステムまたは web サイト  |
-|プランのサブスクリプションの取り消し/更新、または座席の追加/削除を行うには | パートナーセンターのダッシュボードまたはパートナーセンターの Api  |
+|プランのサブスクリプションの取り消し/更新、またはライセンスの追加/削除を行うには | パートナーセンターのダッシュボードまたはパートナーセンターの Api  |
 |ユーザーを作成したり、アクセス許可を管理したりするには  | ISV 発行元のシステムまたは web サイト  |
 
 |**Isv からの使用量ベースのオファー**  |**用途**  |
@@ -81,10 +81,10 @@ CSP プログラムのパートナーとして、パートナーセンターの[
 |利用可能なプランを検出または検索するには  | パートナーセンターのダッシュボード、パートナーセンターの Api、または Azure portal  |
 |プランを購入するには  | Azure portal  |
 |購入したプラン (アカウントのセットアップ、ソフトウェアの管理、または顧客の AAD テナントへのデプロイ) をデプロイするには  | Azure portal  |
-|プランのサブスクリプションの取り消し/更新、または座席の追加/削除を行うには | Azure portal  |
+|プランのサブスクリプションの取り消し/更新、またはライセンスの追加/削除を行うには | Azure portal  |
 |ユーザーを作成したり、アクセス許可を管理したりするには  | Azure portal  |
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [市販の marketplace プランを検出または表示する](csp-commercial-marketplace-discover.md)
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)

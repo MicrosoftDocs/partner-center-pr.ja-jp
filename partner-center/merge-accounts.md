@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: fb54d52d77c6ea80dc2b60f2889e8404c6aca3e0
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265205"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444959"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>パートナー アカウントを別のパートナー アカウントにマージする
 
@@ -65,7 +65,7 @@ ms.locfileid: "86265205"
 
   - コンピテンシー: パートナー企業は、最大の達成度に関連するコア特典の1つのパッケージと、パートナーがパートナーグローバルアカウントごとの資格を持つコンピテンシー固有の特典を受け取ります。
 
-- すべてのメリットについては、 [Microsoft Partner Network 特典の使用方法](https://aka.ms/partner-benefits-use-guide)に関するガイドを参照してください。 例: アクティブ化された O365 E3 トークンは、アクティブ化してから12か月以内に機能します。 テナントの接続クライアントに対してトークンがアクティブ化されると、その接続クライアントは別のテナントに移動されない可能性があります。
+- すべてのメリットについては、 [Microsoft Partner Network 特典の使用方法](https://aka.ms/partner-benefits-use-guide)に関するガイドを参照してください。 例: アクティブ化された O365 E3 トークンは、アクティブ化してから12か月以内に機能します。 トークンがテナントのライセンスに対してアクティブ化されると、そのライセンスは別のテナントに移動されない可能性があります。
 
 - 両方の企業の MCP ID の関連付けが保持され、PGA MPN ID に関連付けられます。
 
@@ -90,7 +90,7 @@ ms.locfileid: "86265205"
 
 4. [**マージ**] を選択すると、パートナー企業に招待が送信されます。 要求を受け入れると、パートナーセンター内でアカウントのマージを開始できます。 組織がアカウントのマージ要求を拒否した場合、その要求が拒否された理由を説明することができます。 [**マージ履歴**] では、すべてのアカウントのマージの一覧を使用できます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
 

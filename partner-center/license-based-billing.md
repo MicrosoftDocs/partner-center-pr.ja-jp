@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3600dac6d5ad7f6f5994cddaf771c0397ec4cf7f
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434381"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468349"
 ---
 # <a name="license-based-billing-in-partner-center"></a>パートナーセンターでのライセンスベースの課金
 
@@ -30,13 +30,13 @@ ms.locfileid: "86434381"
 
 ## <a name="license-billing-frequency"></a>ライセンス請求の頻度
 
-ライセンスの請求には、1か月に1回、または1年に 1**回 (****年次請求**) を選択できます。 **請求頻度**の詳細については、「[月額および年間請求の相違点](billing-annual-monthly.md)」を参照してください。
+ライセンスの請求には、1か月に1回、または1年に 1**回 (****年次請求**) を選択できます。 
 
 ## <a name="billing-date-for-licenses"></a>ライセンスの請求日
 
 ライセンスベースのサブスクリプションは、サブスクリプションの**記念日**に事前に請求されます。 記念日は、サブスクリプションを購入した日です。
 
-次に例を示します。
+例:
 
 - 1月15日に**月単位のサブスクリプション**を購入した場合、記念日は毎月15日になります。
 - 1月15日に**年間サブスクリプション**を購入した場合、記念日は毎年1月15日になります。
@@ -55,14 +55,12 @@ ms.locfileid: "86434381"
 
 ## <a name="license-renewal"></a>ライセンスの更新
 
-すべてのライセンスベースのサブスクリプションは、autorenew が開始されてから12か月後に終了します。
+ライセンス ベースのすべてのサブスクリプションは、有料期間が開始してから 12 か月後に自動更新されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [パートナー センターでの請求の概要](billing-basics.md)
 
 - [パートナー センターでの請求の種類](billing-different-types.md)
-
-- [月単位の請求と年単位の請求の違い](billing-annual-monthly.md)
 
 - [主要な請求と税金の記事](billing.md)

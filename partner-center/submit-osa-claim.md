@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943679"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468352"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>CPOR モデルを使用して顧客の関連付けを作成する– Microsoft 365 および Dynamics 365 のお客様に使用します。
 
@@ -30,9 +30,9 @@ ms.locfileid: "86943679"
 
 - 要求を行うエンティティの**MPN ID**
 
-- 顧客の**ドメイン名**[検索](find-customer-domain-name.md)
+- 顧客の**ドメイン名**[検索](find-domain-name.md)
 
-- 顧客の**ディレクトリ id**または**テナント id**を[検索](find-customer-domain-name.md)します
+- 顧客の**ディレクトリ id**または**テナント id**を[検索](find-domain-name.md)します
 
 - Business Applications や Microsoft 365 などの**ソリューション領域**
 
@@ -66,9 +66,9 @@ ms.locfileid: "86943679"
 
 2. [顧客の関連付け] ページの上部で、[ **+ 顧客の関連付け**] を選択します。
 
-3. 顧客に関連付けるパートナーの場所の**MPN ID**を選択し、顧客のドメイン名とディレクトリ ID を追加します。 [これらはどこにありますか。](find-customer-domain-name.md)
+3. 顧客に関連付けるパートナーの場所の **[MPN ID]** を選択し、顧客のドメイン名とディレクトリ ID を追加します。 [検索する文字列](find-domain-name.md)
 
-4. **[続行]** を選びます。
+4. **[続行]** をクリックします。
 
 5. ソリューションの**区分**と**アクティビティ**を選択します。 
 
@@ -76,7 +76,7 @@ ms.locfileid: "86943679"
    >
    >[Business Applications] を選択した場合は、[**使用状況] または [事前売上**] または [**収益の関連付け**] を選択し、[**続行**] を選択します。 
 
-   >[収益の関連付け] を選択した場合は、以下の情報とは少し異なる情報を入力するように求められます。
+   >[Revenue association]\(収益の関連付け\) を選択した場合、以下に示す内容とは少し異なる情報の入力を求められます。
 
 6. [**顧客の関連付け**] ページで適切な情報を入力し、[**要求の作成**] を選択します。
 
@@ -87,13 +87,13 @@ ms.locfileid: "86943679"
    >[!NOTE]
    >製品が Dynamics 365 で、選択した製品がこの特定の顧客に対して複数のサブスクリプションを持っている場合は、サブスクリプション ID も入力する必要があります。
 
-9. 実行の証拠 (POE) を提供します。 このボタンをボックスにドラッグするか、独自のサポートドキュメントを参照するか、[テンプレートの**ダウンロード**] を選択してテンプレートを使用することができます。 
+9. 実行の証拠 (POE) を指定します。 このボックスにドラッグするか、補足ドキュメントを参照するか、 **[テンプレートのダウンロード]** を選択してテンプレートを使用することができます。 
 
-10. 必要に応じてコメントを追加して保存し、[**要求の送信**] を選択します。 顧客の関連付けの承認を要求する電子メールをお客様に送信します。
+10. 必要に応じてコメントを追加して保存し、 **[Submit claim]\(請求の送信\)** を選択します。 顧客の関連付けの承認を依頼するメールをお客様に送信します。
 
    >[!NOTE]
    >顧客の関連付けを送信した後は、それを編集することはできません。
 
-顧客の関連付けの状態が [**状態**] フィールドに表示されます。
+顧客の関連付けの状態は、 **[状態]** フィールドに表示されます。
 
-[**履歴**] を選択して、顧客の関連付けの履歴を表示します。
+**[履歴]** を選択すると、顧客の関連付けの履歴が表示されます。

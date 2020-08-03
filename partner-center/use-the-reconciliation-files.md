@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cdb72310368dd76c43d01129a19328d776c00469
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949569"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468333"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>パートナーセンターの調整ファイルの品目を読み取る方法について説明します。
 
@@ -23,7 +23,7 @@ ms.locfileid: "85949569"
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
-パートナーセンターから調整ファイルをダウンロードして、請求サイクルの各料金の詳細な行項目ビューをダウンロードできます。 行項目の詳細には、各顧客のサブスクリプションの料金と詳細なイベント (サブスクリプションへの接続クライアントの追加など) が含まれます。
+パートナーセンターから調整ファイルをダウンロードして、請求サイクルの各料金の詳細な行項目ビューをダウンロードできます。 行項目の詳細には、各顧客のサブスクリプションの料金と詳細なイベント (サブスクリプションへのライセンスの長期追加など) が含まれます。
 
 適切なロール:
 
@@ -36,7 +36,6 @@ ms.locfileid: "85949569"
 
 - [ライセンスベースの調整ファイルのフィールド](license-based-recon-files.md)
 - [使用法に基づく調整ファイルのフィールド](usage-based-recon-files.md)
-- [1回限りの定期的な調整ファイルのフィールド](one-time-recurring-recon-files.md)
 - [日単位で評価した使用状況の調整ファイルのフィールド](daily-rated-usage-recon-files.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>調整ファイルの料金の種類について

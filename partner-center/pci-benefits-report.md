@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8be96bffd34cef4beb4f53f23266a389a9c9d0f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436711"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444886"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから利用可能な特典レポート
 
@@ -31,7 +31,7 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 
 特典レポートでは、次のグラフを視覚化できます。
 
-- まとめ
+- [概要]
 - 付与されたクラウドサービス
 - ソフトウェア製品
 - Visual Studio サブスクリプション
@@ -41,7 +41,7 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
  > [!NOTE]
  > このレポートは、Insights ダッシュボードから入手できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポートビューアー、エグゼクティブレポートビューアーなど、パートナーセンターの特定のロールが割り当てられている必要があります。 詳細については、会社のグローバル管理者に問い合わせてください。このレポートの特定の種類のデータは、エグゼクティブレポートビューアーの特権を持つユーザーのみが使用できる場合もあります。
 
-## <a name="summary"></a>まとめ
+## <a name="summary"></a>[概要]
 
 [概要] セクションには、ライセンスされたソフトウェア、cloud services (非 Azure)、Visual Studio サブスクリプション、テクニカルサポート、および特定のマーケットプレースサービスまたはプランの観点から付与された特典が示されています。
 
@@ -66,7 +66,7 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 
 このグラフは、選択した日付範囲内に割り当てられたサブスクリプションに対してアクティブ化された Visual Studio サブスクリプションの月ごとの傾向を示します。
 
-グラフの上部にあるタブを選択すると、特典として付与されている特定の Visual Studio サブスクリプションの傾向が表示されます。 グラフの列は、サブスクリプションで使用されているシートを表します。 折れ線グラフは、サブスクリプションに割り当てられた座席全体を表します。
+グラフの上部にあるタブを選択すると、特典として付与されている特定の Visual Studio サブスクリプションの傾向が表示されます。 グラフの列は、サブスクリプションで使用されているライセンスを表します。 折れ線グラフは、サブスクリプションに割り当てられたライセンス全体を表します。
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio サブスクリプション":::
 
@@ -86,6 +86,6 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 
 :::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="市場開拓プラン":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
-ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
+ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87330119"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479085"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "87330119"
 
 | **カテゴリ** | **2020 年 7 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[エンタープライズ音声および電話会議拡張ダイヤルアウト リリースに対する変更](2020-july.md#10)|7 月 31 日|
 |機能|[パートナー センター API に対して予定されている変更](2020-july.md#9)|7 月 28 日|
 |機能|[.NET Standard v1.16.1-preview の SDK リリース](2020-july.md#8)|7 月 21 日|
 |機能|[対象となる Microsoft コマーシャル マーケットプレース オファーの Cloud Solution Provider (CSP) インセンティブが FY21 に拡張](2020-july.md#7)|7 月 22 日|

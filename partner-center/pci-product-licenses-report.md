@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: この製品ライセンスレポートを確認し、お客様に販売または管理するライセンス (またはシートベース) のクラウド製品を改善する方法をご確認ください。
+description: この製品ライセンスレポートを確認し、お客様に販売または管理するライセンスベースのクラウド製品を使用してを改善する方法をご確認ください。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436661"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444835"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Partner Center Insights ダッシュボードの製品ライセンスレポート
 
@@ -24,9 +24,9 @@ ms.locfileid: "86436661"
 - レポート ビューア
 - エグゼクティブレポートビューアー
 
-製品ライセンスレポートには、O365、Dynamics、M365、Power BI など、シートベースのクラウド製品のライセンス分析が示されます。ここに表示される Analytics は、お客様が販売した、または顧客が管理するライセンスの使用に関連付けられています。 製品ライセンスレポートでは、次のセクションを表示できます。
+製品ライセンスレポートには、O365、Dynamics、M365、Power BI などのライセンスベースのクラウド製品のライセンス分析が示されます。ここに表示される Analytics は、お客様が販売した、または顧客が管理するライセンスの使用に関連付けられています。 製品ライセンスレポートでは、次のセクションを表示できます。
 
-- まとめ
+- [概要]
 - ライセンスの地理的拡散
 - ライセンス追加
 - パートナーの場所別のライセンス配布、販売チャネル、Sku、パートナーのアタッチの種類、セグメント
@@ -38,7 +38,7 @@ ms.locfileid: "86436661"
 
 [概要] セクションには、販売、デプロイ、使用されているクラウド製品ライセンスに関連付けられている主要業績評価指標 (Kpi) のスナップショットビューが表示されます。 これは、顧客に販売されたライセンスに対するアクティブな使用状況を追跡するのに役立ちます。
 
-- ライセンス: O365、Dynamics、M365、Power BI などの座席ベースのクラウド製品で販売または管理されているすべてのライセンスの現在の数。選択した日付範囲に対するこれらのライセンスの増加率または減少率。
+- ライセンス: ライセンスベースのクラウド製品 (O365、Dynamics、M365、Power BI など) で販売または管理されているすべてのライセンスの現在の数。選択した日付範囲に対するこれらのライセンスの増加率または減少率。
 
 マイクログラフは、選択した日付範囲のライセンス数の月ごとの傾向を示します。
 
@@ -80,6 +80,6 @@ X 軸は、選択した日付範囲の月を表します。 Y 軸は、追加さ
 
 :::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="ライセンスの配布":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。

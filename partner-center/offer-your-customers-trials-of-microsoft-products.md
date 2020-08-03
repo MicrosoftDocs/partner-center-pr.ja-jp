@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377776"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444909"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Microsoft 製品の30日間無料試用版をお客様に提供する
 
@@ -45,9 +45,9 @@ ms.locfileid: "86377776"
 
 ## <a name="licenses-for-free-trial-offers"></a>無料試用版プランのライセンス
 
-すべての無料試用版では25ライセンスが提供します。 試用期間中にこの数を変更することはできません。 無料試用版では、座席を追加または削除することはできません。 試用版を有料サブスクリプションに変換した後、サブスクリプションにライセンスを追加できます。
+すべての無料試用版では25ライセンスが提供します。 試用期間中にこの数を変更することはできません。 無料試用版では、ライセンスを追加したり削除したりすることはできません。 試用版を有料サブスクリプションに変換した後、サブスクリプションにライセンスを追加できます。
 
-有料サービスライセンスが割り当てられている場合と同じ方法で、試用版のライセンスと接続クライアントをユーザーに割り当てる必要があります。
+試用版ライセンスは、有料サービスライセンスが割り当てられている場合と同じ方法でユーザーに割り当てられる必要があります。
 
 ## <a name="sign-customers-up-for-trials"></a>試用版の顧客にサインアップする
 
@@ -109,7 +109,7 @@ ms.locfileid: "86377776"
 
 サブスクリプションの開始日は換算日付に基づいています。 無料試用版が年次請求の有料プランに切り替えられた場合、サブスクリプションの更新日は切り替え日から 12 か月後です。 無料試用版が月次請求の有料プランに切り替えられた場合、サブスクリプションの更新日は切り替え日の次の請求日から 12 か月後です。
 
-### <a name="invoices"></a>Invoices
+### <a name="invoices"></a>請求書
 
 請求書またはライセンスベースの調整ファイルには無料試用版が表示されません。 無料試用版は、無料試用版を有料サブスクリプションに変換した後、請求書およびライセンスベースの調整ファイルにのみ表示されます。 変換されたサブスクリプションは、新しいサブスクリプションと同じ方法で表示されます。
 

@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fdd372ba260254032d0978e6b2f80947d11aa84f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949302"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444776"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>パートナーセンターの調整ファイルのさまざまな料金の種類を理解する
 
@@ -45,10 +45,10 @@ ms.locfileid: "85949302"
 | 料金の説明 (調整ファイルの ChargeType 列) | 料金の説明 |
 | ------------------------------------------------------------- | ------------------ |
 | アクティブ化料金 | 購入後にサブスクリプションを使用する場合に、顧客に請求される金額。 |
-| 取り消し料金 | 日割りは、関連付けられたシートが変更された場合に、お客様に返金されます。 |
-| Cancel instance prorate | 月単位のサブスクリプションを使用しているお客様がサブスクリプションを中断し、関連するシートが同じ月に変更された場合、日割り請求料金がキャンセルされます。 |
+| 取り消し料金 | 関連付けられているライセンスが変更された場合、日割り料金がお客様に返金されます。 |
+| Cancel instance prorate | 月単位のサブスクリプションを使用しているお客様がサブスクリプションを一時停止し、関連するライセンスが同じ月に変更された場合、日割り請求料金がキャンセルされます |
 | Cycle fee | サブスクリプションに対する定期的な料金。 |
-| Cycle instance prorate | 関連付けられているシートが変更された場合に、日割り料金が顧客から評価されます。 |
+| Cycle instance prorate | 関連付けられているライセンスが変更された場合、お客様からの日割り料金が請求されます。 |
 | Prorate fees when cancel | キャンセル時のサービスの未使用部分の日割り返金。 |
 | 現在のオファリングからの変換時の edition 料金 | 現在の月単位のサブスクリプションから年間サブスクリプションに変換した後に、日割り料金が請求されます。 |
 | 新しいオファリングに変換する場合の edition 料金 | 月単位のサブスクリプションを新しい年間サブスクリプションに変換した後に日割りで課金されます。 |
@@ -64,11 +64,11 @@ ms.locfileid: "85949302"
 
 | 料金の説明 (調整ファイルの ChargeType 列) | 料金の説明 |
 | ------------------------------------------------------------- | ------------------ |
-| 新規 | 新しい購入が作成されるときに使用されます。 |
+| 新規作成 | 新しい購入が作成されるときに使用されます。 |
 | addQuantity | 元の購入の返金と、増加後の新しい数量の両方で使用されます。 |
 | removeQuantity | 元の購入の返金と、減少後の新しい数量の両方で使用されます。 |
 | キャンセル | サブスクリプションが取り消されたときに使用されます。 |
-| Convert | ライセンスをアップグレードするときに使用しますが、接続クライアント数は変更されません。 |
+| Convert | ライセンスをアップグレードするときに、ライセンス数が変更されないままにする場合に使用します。 |
 
 ## <a name="usage-charges"></a>利用料金
 

@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72b8abc1edb4e27b4c9677cc9f374af2aff25986
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cc2515a2658fbd4f47f45bcbe21dff710ed39ae0
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434531"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444953"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>パートナーセンターの課金請求書-請求と1回限りの料金フィールドを確認する方法について説明します。
 
@@ -37,7 +37,7 @@ ms.locfileid: "86434531"
 | ライセンスベースの料金 | 購入した使用量ベースのライセンスの月次または年間料金は、サービスの事前に課金されます。 この数値は、ライセンスベースの調整ファイルの**小計**列 (列**T**) に含まれるすべての料金の合計です。 |
 | 使用量ベースの料金 | Azure の使用状況。 これには、請求期間中に有効になり、使用される新しいサービスまたはアプリケーションが含まれます。 この数は、使用量に基づく調整ファイル**の、すべて**の料金の**Z**合計を示しています。 |
 | 割引 | 顧客がサブスクリプションの通常価格から受け取る割引。 この数値は、ユニットまたはライセンスあたりの価格としてではなく、*一律の金額*として表示されます。 |
-| 謝辞 | サブスクリプションに対して行われた変更のクレジットまたは調整 (接続クライアント数の増減など)。 |
+| 謝辞 | サブスクリプションに対して行われた変更のクレジットまたは調整 (ライセンスの増加や減少など)。 |
 | 小計 | 課税前の税抜き料金とクレジットの合計。 |
 | 税 | 請求書の2ページから始まる**詳細**セクションで合計した、現在の料金の合計税額。 この数値は、使用量に基づく調整ファイル内の**taxationitem.taxamount**列 (列**AA**) のすべての料金と、ライセンスベースの調整ファイルの**税**列 (列**U**) の合計です。 |
 | その他のクレジット | 税抜きクレジット。 |
@@ -59,7 +59,7 @@ ms.locfileid: "86434531"
 | フィールド | 定義 |
 | ----- | ---------- |
 | Date | 購入日。 |
-| 説明 | 製品名。 |
+| Description | 製品名。 |
 | Quantity | 購入した製品 (予約など) の数。 |
 | Unit price | 製品ごとの価格 (予約など)。 |
 | 割引 | 適用される割引。 |

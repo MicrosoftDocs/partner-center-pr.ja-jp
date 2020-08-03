@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b91b2f9580d9c369e7a267c2b413db8a4a6300d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436631"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444990"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>請求書と調整ファイルを理解する-パートナーセンターでそれらを検索する方法について説明します
 
@@ -88,7 +88,7 @@ Invoice PDF ドキュメントの主なフィールドの一部を次に示し�
 
 **料金**: それぞれの請求期間における請求通貨の金額。 
 
-**クレジット**: クレジット (SLA など) またはサブスクリプションに対して行われた変更の調整 (接続クライアント数の増加や減少など)。 
+**クレジット**: クレジット (SLA など) またはサブスクリプションに対する変更の調整 (ライセンスの増加や減少など)。 
 
 **お支払い**方法: お客様の地域に基づいて請求書を支払う方法について説明します。 支払いを行う場合は、常に請求書番号を含めてください。 
 

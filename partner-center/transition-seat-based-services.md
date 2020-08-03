@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a76c433f79b6c060c284e8a058c50f50a6b9628c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377226"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444561"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>他のチャネル & パートナーから Cloud Solution Provider プログラムにライセンスベースのお客様を移動する
 
@@ -28,7 +28,7 @@ ms.locfileid: "86377226"
 
 1. パートナーセンターのメニューから **[顧客]** を選択し、**[再販業者関係の要求]** を選択します。 マルチチャネル アカウントのサポートを提供するには、同じ操作を行います。
 
-2. お客様が招待を受け入れると、お客様に必要なサブスクリプションと座席 (たとえば、顧客が以前に購入したものと同じ Office 365 プラン) をプロビジョニングできるようになります。
+2. お客様が招待を受け入れると、お客様の目的のサブスクリプションとライセンス (たとえば、顧客が以前に購入したものと同じ Office 365 プラン) をプロビジョニングできるようになります。
 
 3. お客様は、元のサブスクリプションの有効期限を設定するか、キャンセルすることができます。 ただし、取り消されたサブスクリプションには返金がないため、サブスクリプションが自然な有効期限に近づいてくるまで待機することをお勧めします。
 
@@ -46,7 +46,7 @@ ms.locfileid: "86377226"
 >[!NOTE]
 > CSP パートナーであるお客様の所在地は、その顧客をお客様に向けて移行する顧客テナントと同じ地域である必要があります。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [Azure プランで従量課金制料金の使用を開始する](azure-plan-get-started.md)
  

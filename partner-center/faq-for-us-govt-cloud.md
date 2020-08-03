@@ -8,12 +8,12 @@ description: 米国政府向け Microsoft Cloud 用のクラウドソリュー�
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: b35d178b17f6541f2ad3ec45190aff1c09e6dda6
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: ea143c49c9dd032910eb3b93b38845c896fcf3dc
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943909"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444549"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問
 
@@ -51,11 +51,11 @@ Microsoft Cloud for US Government のクラウド ソリューション プロ�
 
 -   オンボード: 米国政府機関向け Microsoft Cloud の CSP プログラムには、商用 CSP とは別のオンボードが必要です。
 
--   製品の可用性: Azure Government と、Office 365、Enterprise Mobility + Security、Dynamics 365 などのシート ベースのサービスの両方が、Microsoft 政府機関向けクラウド用に CSP プログラムで利用できます。 
+-   製品の利用可能性: Azure Government と、Office 365、Enterprise Mobility + Security、Dynamics 365 などのライセンスベースのサービスは、Microsoft Government Cloud の CSP プログラムで利用できます。 
 
 -   契約: Microsoft クラウド リセラー契約 (MCRA) が、固有の政府機関向けの条件を反映するように更新されました。
 
--   パートナー センターの機能: 法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムについては、パートナー センターの一部の機能が有効になりません。 パートナーは、代わりに Azure Active Directory (Azure AD) や [Graph API](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) を使用して、ユーザーとグループの管理に関連するタスクを実行できます。 シート ベースのサービスが米国政府機関向け Microsoft Cloud の CSP で利用できる場合は、マルチ チャネルとマルチ パートナー シナリオをサポートするために関係の要求機能が利用可能になります。
+-   パートナー センターの機能: 法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムについては、パートナー センターの一部の機能が有効になりません。 パートナーは、代わりに Azure Active Directory (Azure AD) や [Graph API](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) を使用して、ユーザーとグループの管理に関連するタスクを実行できます。 米国政府向けの Microsoft Cloud のためにライセンスベースのサービスを CSP で利用できる場合は、マルチチャネルとマルチパートナーのシナリオをサポートするリレーションシップ要求機能を、起動後に利用できるようになります。
 
 **まだ CSP パートナーではありません。CSP パートナーになる方法の詳細については、どこで確認できますか?**
 
