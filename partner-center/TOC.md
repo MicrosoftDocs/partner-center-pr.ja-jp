@@ -149,7 +149,6 @@
 
 # [お客様とつながる](customer-accounts.md)
 ## [新しい顧客の追加](add-a-new-customer.md)
-## [顧客のドメイン名とディレクトリ ID を調べる](find-customer-domain-name.md)
 ## [顧客との再販業者関係の要求](request-a-relationship-with-a-customer.md)
 ## [顧客との再販業者関係の削除](remove-a-relationship.md)
 ## [顧客によるパートナーへの管理特権の委任または取り消し](customers-revoke-admin-privileges.md) 
@@ -217,9 +216,12 @@
 ### [Office 365 試用版を持つクライアントを追加する](advisors-build-your-business.md)
 ### [Office 365 購入プランを作成する](advisor-create-a-purchase-offer.md)
 # パートナー センターのデータと分析
+
 ## [ユーザー データと分析へのアクセスを取得する](data-analysis-lp.md)
-## [Microsoft Power BI 用パートナー センター分析アプリを使用する](power-bi-app-for-direct-partners.md)
-## [Microsoft Power BI 用パートナー センター分析アプリの使用](power-bi-app-for-direct-partners.md)
+## Power BI 用パートナー センター分析アプリ
+### [Power BI 用パートナー センター分析アプリの概要](power-bi-app-for-direct-partners.md)
+### [Power BI 用パートナー センター分析アプリをインストールする](power-bi-app-for-direct-partners-install.md)
+### [Power BI 用パートナー センター分析アプリを使用する](power-bi-app-for-direct-partners-use.md)
 ## [パートナー センター インサイト](partner-center-insights.md)
 ### [Insights - 概要ダッシュボード](pci-overview-report.md)
 ### [Insights - Insights ダッシュボードへのロールベースのアクセス制御](pci-roles.md)
@@ -237,8 +239,6 @@
 ## [間接リセラーのパフォーマンス分析](analyze-indirect-resellers.md)
 ## [サブスクリプションとライセンスの分析](analyze-subscriptions-licenses.md)
 ## [Microsoft Learn 分析](ms-learn-analytics.md)
-## [Power BI 用パートナー センター分析アプリ](power-bi-app-for-direct-partners-use.md)
-## [Power BI 用パートナー センター分析アプリをインストールしてプレビューする](power-bi-app-for-direct-partners-install.md)
 
 # [他のパートナーとの連携](work-with-other-partners.md)
 ## [パートナー センターでの間接プロバイダーの作業](indirect-provider-tasks-in-partner-center.md)
