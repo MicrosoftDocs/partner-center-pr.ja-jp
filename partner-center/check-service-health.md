@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eba88c5380254929809d27ff2b877a5ee72df239
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114807"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527588"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>潜在的なサービスの問題または停止を報告しているお客様のサービスの正常性を確認する
 
@@ -42,9 +42,11 @@ ms.locfileid: "87114807"
  
 サービスの停止中、Microsoft は問題に対処する作業を行いながら定期的な更新を提供します。 これらの通知は、Microsoft Azure portal または Microsoft 365 管理センターにも表示されます。
 
-サービスの停止が終了した後も問題が解決しない場合は、サービス要求を送信します。 「[顧客の代理としての問題の報告](report-problems-on-behalf-of-a-customer.md)」をご覧ください。
+## <a name="next-steps"></a>次の手順 
 
-Microsoft 365 と Microsoft Azure はそれぞれ、パートナーがリアルタイムのサービス正常性、メッセージセンターの通信、および計画されたメンテナンスイベント[を取得するために使用できる api](get-automated-service-notifications-with-our-apis.md)を提供します。
+- サービスの停止が終了した後も問題が解決しない場合は、サービス要求を送信します。 「[顧客の代理としての問題の報告](report-problems-on-behalf-of-a-customer.md)」をご覧ください。
+
+- Microsoft 365 と Microsoft Azure はそれぞれ、パートナーがリアルタイムのサービス正常性、メッセージセンターの通信、および計画されたメンテナンスイベント[を取得するために使用できる api](get-automated-service-notifications-with-our-apis.md)を提供します。
 
  
 

@@ -1,6 +1,6 @@
 ---
 title: インセンティブの申請の作成と管理 | パートナー センター
-ms.topic: article
+ms.topic: how-to
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a4be2158c0879cdace97b26f79a37d767624c304
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 431b4fa095ecf87f1174d8c5570463bd3f79f21b
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114854"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527795"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>インセンティブの申請の作成と管理
 
@@ -29,15 +29,15 @@ ms.locfileid: "87114854"
 
 パートナー センター内からインセンティブの申請を開始できます。 
 
-1. パートナー センター ダッシュボードの **[インセンティブ]** で、**[Claims]\(申請\)** を選択します。
+1. パートナーセンターのダッシュボードの**インセンティブ**から、[**要求**] を選択します。
 
 2.  既に処理中の申請がある場合、申請の概要ページには、既存の申請の状況と、承認された資金、申請された資金、合計資金が表示されます。
 
-3.  新しい申請を作成するには、**[Create a claim]** (申請の作成) を選択します。
+3.  新しい要求を作成するには、[**要求の作成**] を選択します。
 
-4.  初期フォームに入力し、[**要求の作成**] を選択すると、請求書、CSR、プルーフドキュメント、およびメトリックを追加できる要求の詳細ページが表示されます。 必要に応じて、その他の情報を追加することもできます。
+4.  初期フォームに入力し、[**要求の作成**] を選択すると、請求書、CSR、プルーフドキュメント、およびメトリックを追加できる要求の詳細ページが表示されます。 必要に応じて、詳細情報を追加することもできます。
 
-申請の詳細ページでは、組織内の他のユーザーにフォームへのドキュメントのアップロードを依頼できます。 アップロードするそれぞれのサポート ドキュメントについて、詳細な説明を提供できます。 
+[請求の詳細] ページを使用すると、組織内の他のユーザーにドキュメントをフォームにアップロードするように依頼することができます。 アップロードする補足ドキュメントごとに、説明の詳細を入力できます。 
 
 ### <a name="manage-your-claims"></a>申請を管理する
 

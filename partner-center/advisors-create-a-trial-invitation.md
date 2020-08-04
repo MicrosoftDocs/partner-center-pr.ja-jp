@@ -3,19 +3,28 @@ title: Office 365 試用版への招待を作成する
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: パートナーがクライアントに対して試用版への招待を作成して送信し、Office 365 を試す方法について説明します。 パートナーは、承認されたサブスクリプションアドバイザーです。
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5d76de11eb69692f8829697a664a55b01ee87c12
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120036"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526998"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>アドバイザー: クライアントが Office 365 を試すための試用版への招待を作成して送信する
+
+**適用対象**
+
+- パートナー センター
+ 
+**適切なロール**
+
+- アドバイザー
 
 > [!NOTE]
 > この機能は、サブスクリプションアドバイザーとして認められている Microsoft パートナーのみが利用できます。

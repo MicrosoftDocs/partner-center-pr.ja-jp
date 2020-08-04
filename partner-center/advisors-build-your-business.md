@@ -1,21 +1,31 @@
 ---
-title: Office 365 試用版を使用したクライアントの追加
+title: Office 365 試用版を持つクライアントを追加する
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 承認された Microsoft advisor が Office 365 サブスクリプションを拡張する方法について説明します。 Office 365 試用版への招待および購入プランを作成してクライアントに送信します。
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c1dc96c2947da8ab37787e406d40400071a3b31
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436261"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527008"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>アドバイザー: Office 365 試用版への招待と購入プランを使用して、クライアントベースを構築する
+
+**適用対象**
+
+- パートナー センター
+ 
+**適切なロール**
+
+- アドバイザー
+
 
 **パートナーセンター**は、認定された Microsoft advisor として、クライアントベースを拡大し、クライアントとの継続的な関係を作成する機会を提供します。 パートナーセンターでは、クライアントの試用版への招待と購入プランを送信したり、提供を承認されたサービスに応じて、委任された管理サービスを提供したりすることができます。
 

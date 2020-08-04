@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22581771f05c88ec2ad097890959dab6d6e27962
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436181"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526948"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>顧客と Azure サブスクリプションのパフォーマンスに関するデータを取得する
 
@@ -31,6 +31,8 @@ ms.locfileid: "86436181"
 - 販売代理店
 
 データはビジネス上の意思決定を促進します。 **Azure 利用状況**のページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
+
+**Azure の使用状況**にアクセスするには、パートナーセンターの[ダッシュボード](https:/partner.microsoft.com/dashboard)にサインインします。 パートナーセンターメニューから [**分析**] を選択し、[ **Azure の使用状況**] を選択します。
 
 > [!NOTE]
 > Azure usage analytics は、Cloud Solution Provider プログラムのパートナーに対してのみ使用できます。
@@ -67,3 +69,7 @@ ms.locfileid: "86436181"
 ## <a name="azure-subscription-retention"></a>Azure サブスクリプションの維持
 
 - 更新されたサブスクリプションの数。
+
+ ## <a name="next-steps"></a>次の手順
+
+- [お客様向けの Azure プランを購入して、最新の Azure サービスに従量課金制料金でアクセス &](purchase-azure-plan.md)

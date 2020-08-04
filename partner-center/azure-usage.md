@@ -1,6 +1,6 @@
 ---
-title: 予約の最大使用量の Azure VM のサイズ設定
-ms.topic: article
+title: 最大限の予約使用に備えた Azure VM サイズ
+ms.topic: how-to
 ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 706021c39e136954d3791856da12c828cbdf6389
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 48f7fb317d35c87eaf3d8fddc7a5da907178ef36
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435741"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527448"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ
 
@@ -82,7 +82,7 @@ ms.locfileid: "86435741"
 
 次のいずれかの方法を使用して、顧客の予約使用状況を確認し、予約割引が適用されている仮想マシンを確認できます。
 
-- Azure portal
+- Azure ポータル
 - Azure Utilization API
 
 これらの方法を使用するための手順をそれぞれ以下に示します。
@@ -101,7 +101,7 @@ ms.locfileid: "86435741"
     >[!NOTE]
     >使用率データには、最大で 8 時間の遅延が発生することがあります。
 
-    a. 予約の使用率が100% の場合、お客様は予約購入によって得られる節約額をすべて取得することになります。
+    a。 予約の使用率が100% の場合、お客様は予約購入によって得られる節約額をすべて取得することになります。
     b. 予約の使用率が0% の場合、割引は仮想マシンに適用されません。
     c. 予約の使用量が 1 ~ 99% の場合、未使用の特典があります。
 

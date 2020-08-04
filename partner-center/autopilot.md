@@ -1,6 +1,6 @@
 ---
 title: デバイスの既定のエクスペリエンスをカスタマイズする
-ms.topic: article
+ms.topic: how-to
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: dc063dad26a78833084487d80db9c86c3145953e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a59b0c25b8f5203942e73b549d5ffb9d65d90c36
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435931"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527658"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>新しいデバイスで Windows の自動操縦プロファイルを使用して、顧客の既定のエクスペリエンスをカスタマイズする
 
@@ -107,7 +107,7 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
 
 4. 次の手順に従って、プロファイルがデバイスに正常に適用されたことを確認します。
 
-    a.  デバイスをネットワークに接続し、電源をオンにします。
+    a。  デバイスをネットワークに接続し、電源をオンにします。
 
     b.  適切な OOBE 画面 (存在する場合) が表示されることを確認します。
 

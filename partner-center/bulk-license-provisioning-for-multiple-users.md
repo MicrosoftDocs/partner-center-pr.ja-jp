@@ -1,6 +1,6 @@
 ---
 title: 複数のユーザーへのライセンスの割り当てまたは取り消し
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 20ef77322ced5a7198dbd0ecaf519f614bc17a32
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435571"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527398"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>顧客アカウントの複数のユーザーに対して、同時にライセンスを割り当てたり、取り消したりする
 
@@ -34,11 +34,6 @@ ms.locfileid: "86435571"
 
 パートナーセンターでは、お客様が所有するすべてのライセンス資格を追跡して表示します。
 
-以降のセクションでは、次の方法について説明します。
-- [複数のユーザーにライセンスを割り当てる](#assign-licenses-to-groups)
-- [ユーザーのライセンスの割り当てを取り消す](#revoking-licenses)
-
-<a href="" id="assign-licenses-to-groups"></a>
 ## <a name="assign-licenses-to-multiple-users"></a>複数のユーザーにライセンスを割り当てる
 
 1. **パートナー センター** メニューから **[顧客]** を選択し、一覧から顧客を選択します。
@@ -81,7 +76,6 @@ ms.locfileid: "86435571"
 >[!NOTE]
 >一部の Microsoft 製品は、特定の場所では利用できない場合があります。 また、他の製品やサービスに依存する製品や、同じユーザーに一緒に割り当てることができない製品もあります。 保存すると、確認ページに、成功したライセンス割り当てに関するすべてのユーザーの結果と、ライセンス割り当てのエラーの一覧が表示されます。
 
-<a href="" id="revoking-licenses"></a>
 ## <a name="revoke-users-license-assignments"></a>ユーザーのライセンスの割り当てを取り消す
 
 1. **パートナー センター** メニューから **[顧客]** を選択し、一覧から顧客を選択します。

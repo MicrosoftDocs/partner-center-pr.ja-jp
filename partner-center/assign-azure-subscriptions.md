@@ -1,6 +1,6 @@
 ---
 title: Azure サブスクリプションを顧客に割り当てる
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf69d3cc9b7f9034e357d0b85e7910c3fe9d98a6
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 02bd7ca573be4b0b61da546f66c6102fbc752c2d
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436011"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527688"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>パートナー センターで顧客に Azure サブスクリプションを割り当てる
 
@@ -49,7 +49,7 @@ ms.locfileid: "86436011"
 
 3. 顧客のユーザーにロールを割り当てて、サブスクリプションのリソースを作成して管理できるようにします。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [CSP パートナーが顧客にサブスクリプションを販売する方法](customer-subscriptions.md)
 

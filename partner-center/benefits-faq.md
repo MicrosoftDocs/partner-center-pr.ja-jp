@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/17/2020
 description: Azure、クラウド、Visual Studio、テクニカルおよびサポートの特典の特典の有効期限、更新、ライセンス認証に関する質問への回答
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 89b3c8ae87072247da32bc015693205e3b2d8479
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 07aed688aa17c1ee9017785e16eded56624d7d62
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120022"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527618"
 ---
 # <a name="benefits-faq"></a>利点に関する FAQ
 

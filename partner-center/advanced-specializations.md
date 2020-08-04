@@ -3,18 +3,18 @@ title: 詳細な専門分野を取得する
 ms.topic: article
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: パートナーディレクトリのビジネスプロファイルを強化します。 Gold/シルバーコンピテンシーと共に高度な特殊化を獲得する方法について説明します。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4dbfee981023fe567ef345db8b9363cce886adc
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 80a44e50134f9bee335627f66cc27beee8a93926
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436351"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527018"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>専門知識をお客様に提供するための高度な特殊化を獲得 
 
@@ -50,7 +50,7 @@ ms.locfileid: "86436351"
 
 すべての前提条件を満たしていないと、状態は [未開始] のままに**なります。** すべての要件を完了すると、状態は [**アクティブ**] になります。 アクティブな状態では、**ビジネスプロファイル**のタグが自動的に有効になります。このタグは、[ソリューションプロバイダーの検索](https://www.microsoft.com/solution-providers/home)を検索するすべてのお客様に表示されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - Microsoft コンピテンシーの要件の詳細について[は、Gold とシルバーのメンバーシップに関する microsoft コンピテンシーの要件](learn-about-competencies.md)に関するページを参照してください
 

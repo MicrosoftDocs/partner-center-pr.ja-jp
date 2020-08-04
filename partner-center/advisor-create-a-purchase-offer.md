@@ -1,21 +1,31 @@
 ---
-title: 購入プランを作成する
+title: アドバイザー-購入プランを作成する
 ms.topic: article
-ms.date: 05/07/2020
+ms.date: 05/17/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 承認されたサブスクリプションアドバイザーがパートナーセンターを使用して購入プランとカスタム URL を作成し、Office 365 の試用版への招待に含める方法について説明します。
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a2f719df77227d19db39dc87e8eb559eeeb827
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436271"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526988"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>アドバイザー: 購入プランを作成する
+
+**適用対象**
+
+- パートナー センター
+ 
+**適切なロール**
+
+- アドバイザー
+
 
 > [!NOTE]
 > この機能は、サブスクリプションアドバイザーとして認められている Microsoft パートナーのみが利用できます。

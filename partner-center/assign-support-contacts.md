@@ -1,6 +1,6 @@
 ---
 title: 顧客のサポート連絡先を割り当てる
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8186a58523502fddb0ecb2e8ef7bb91bd318680f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2963ac7fbcba36d61782e49a4696f95a86bf95b8
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435951"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527668"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>リセラーをカスタマーのテクニカルサポートの連絡先として割り当てる
 
@@ -36,7 +36,7 @@ ms.locfileid: "86435951"
 
 これは、[マルチパートナー](multipartner.md) シナリオと[マルチチャンネル](multichannel.md) シナリオで使用できます。 
 
-<a href="" id="assigncontacts"></a>
+
 ## <a name="assign-contacts"></a>連絡先を指定する
 
 1.  まず、指定する製品リセラーとの[関係を要求](request-a-relationship-with-a-customer.md)します。 テクニカル サポートの代行を依頼するサポート契約について協議します。
@@ -51,6 +51,6 @@ ms.locfileid: "86435951"
 
 4.  変更内容が正しいことを確認した後、**[閉じる]** を選びます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 [顧客との再販業者関係の削除](remove-a-relationship.md)

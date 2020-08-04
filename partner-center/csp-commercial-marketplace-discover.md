@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d1185fec49c594996094d62b4de628175d931a5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 492c0358d75488a199c24b7f47931305b46a73a0
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435121"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527728"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>パートナーセンターコマーシャルマーケットプレースでのプランと価格の検出
 
@@ -105,6 +105,6 @@ Isv は、CSP プログラムの特定のパートナーだけがオファーを
 
 Marketplace での CSP エクスペリエンスの詳細については、「[コマーシャルマーケットプレースの概要」](csp-commercial-marketplace-overview.md)を参照してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)

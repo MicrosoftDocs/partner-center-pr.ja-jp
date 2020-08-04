@@ -1,6 +1,6 @@
 ---
 title: Dynamics 365 CRM パートナーセンターの共同販売コネクタ
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ description: パートナーセンターでの参照を Dynamics 365 CRM と同�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b7124ef2db99e4b6e79ed71c2998973ee3ef126
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9cbdefb46691bf10ca1525190729a056f222ee90
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435451"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527578"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM の共同販売コネクタ–概要
 
@@ -155,7 +155,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
 1. パートナーセンターで作成または更新イベントのフィールドを CRM の参照同期にカスタマイズするには、次のようにします。 
 
-    a. [パートナーセンター] を選択して Dynamics 365 (Insider Preview) またはパートナーセンターから Salesforce へ (Insider Preview) を選択します。
+    a。 [パートナーセンター] を選択して Dynamics 365 (Insider Preview) またはパートナーセンターから Salesforce へ (Insider Preview) を選択します。
 
     b. [**編集**] を選択して、パワー自動化フローを編集またはカスタマイズします。
 
@@ -171,7 +171,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
 3. 更新イベントの CRM から PC への参照同期のフィールドをカスタマイズするには、次のようにします。
 
-    a. [**編集**] を選択して、パワー自動化フローを編集またはカスタマイズします。
+    a。 [**編集**] を選択して、パワー自動化フローを編集またはカスタマイズします。
 
     b. [ **(スコープ)] を選択して、営業案件を同期**します。
 
@@ -183,7 +183,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
 4. Create events の CRM to PC 参照同期のフィールドをカスタマイズするには
 
-   a. [**編集**] を選択して、パワー自動化フローを編集またはカスタマイズします。
+   a。 [**編集**] を選択して、パワー自動化フローを編集またはカスタマイズします。
 
    b. **参照の同期を選択 (スコープ) します。**
 
@@ -255,7 +255,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
    6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [見込み客を管理する](manage-leads.md)
 
