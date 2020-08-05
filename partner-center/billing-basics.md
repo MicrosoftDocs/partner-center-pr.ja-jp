@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba6ea547ed63bc4369b06cb86df8aad24870d2ab
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435611"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468530"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>パートナー センターを使用する CSP プログラム パートナーのための請求の概要 
 
@@ -49,7 +49,7 @@ Microsoft では、パートナー独自の請求方法に関する要件や条�
 
 ### <a name="billing-types"></a>請求の種類
 
-パートナー センターでの請求の種類には、**ライセンス ベースの請求**、**使用量ベースの請求**、**1 回限りの請求**があります。 詳しくは、[パートナー センターでの請求の種類](billing-different-types.md)の詳しい説明をご覧ください。
+パートナー センターでの請求の種類には、**ライセンス ベースの請求**、**使用量ベースの請求**、**1 回限りの請求**があります。 
 
 ### <a name="billing-currency"></a>Billing currency
 
