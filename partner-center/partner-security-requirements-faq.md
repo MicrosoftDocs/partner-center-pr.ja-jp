@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943560"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444898"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
 
@@ -55,7 +55,7 @@ Microsoft Partner Agreement では、パートナーは、ユーザー アカウ
 - [パートナーのセキュリティ要件](partner-security-requirements.md)に概説されているすべての要件を満たす必要があります
 - パートナー テナント内のすべてのユーザー アカウントに多要素認証を適用する必要があります。
 
-アクションを実行できる主要な領域を確認できるよう、パートナー センターから利用できる[セキュリティ要件状態](https://partner.microsoft.com/pcv/security/compliance)レポートが提供されています。
+アクションを実行できる主要な領域を確認できるよう、パートナー センターから利用できる[セキュリティ要件状態](https://partner.microsoft.com/commerce/security/compliance)レポートが提供されています。
 
 状態レポートの詳細については、「[パートナー セキュリティ要件の状態](partner-security-compliance.md)」を参照してください。
 

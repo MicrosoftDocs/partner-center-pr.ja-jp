@@ -1,6 +1,6 @@
 ---
 title: CSP プログラムで間接プロバイダーを操作する
-ms.topic: article
+ms.topic: how-to
 ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 3ffc69804c90707f9e8691e56c64bc23e8c0daf5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f6d2b94dfcc8a8986229e199c47a0f64a93fb2ac
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434541"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545963"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムで間接プロバイダーと連携する方法について説明します
 

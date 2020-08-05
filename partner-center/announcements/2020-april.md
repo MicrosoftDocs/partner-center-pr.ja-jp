@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944449"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433902"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月のお知らせ
 
@@ -174,7 +174,7 @@ _________________
 
 - **テナントとユーザーを保護するために推奨されるセキュリティ要件をまだ実装していない場合は**、コンプライアンスを維持して CSP での顧客管理やトランザクションでビジネスの中断が発生しないように、すぐに実装してください。 パートナーがセキュリティ要件を実装していない場合、CSP プログラムに参加することでセキュリティ上のリスクが生じる可能性があります。
 - 間接プロバイダーは、セキュリティ要件を自社で実装するだけでなく、リセラーと協力して、このメール テンプレートを使用して要件をリセラーが確実に実装できるようにする必要もあります。 また Microsoft からも、リセラーにメールで直接連絡いたします。
-- 実装状況と、必要となる主なアクションを確認するには、[パートナー センターのセキュリティ要件のステータス ページ](https://partner.microsoft.com/pcv/security/compliance)にアクセスします。 また、グローバル管理者と協力して、各テナントのセキュリティ要件の実装状況を定期的に確認してください。
+- 実装状況と、必要となる主なアクションを確認するには、[パートナー センターのセキュリティ要件のステータス ページ](https://partner.microsoft.com/commerce/security/compliance)にアクセスします。 また、グローバル管理者と協力して、各テナントのセキュリティ要件の実装状況を定期的に確認してください。
 - コントロール パネル ベンダー (CPV) ソリューションを使用している場合は、CPV とご相談ください。
 
 ### <a name="additional-resources"></a>その他の資料

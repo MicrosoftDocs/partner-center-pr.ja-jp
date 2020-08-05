@@ -9,26 +9,28 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: 4ed7167faf3b090025d040d692b9cb2eac35a6d4
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87479085"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545543"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
 パートナー センターの重要な更新についての詳細をご確認ください。 この情報は頻繁に更新されるので、定期的にチェックしてみてください。
 
-| **カテゴリ** | **2020 年 7 月のお知らせ** | **発表** |
+| **カテゴリ** | **2020 年 8 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
-|機能|[エンタープライズ音声および電話会議拡張ダイヤルアウト リリースに対する変更](2020-july.md#10)|7 月 31 日|
+|製品サービス/市場|[新しい Dynamics 365 Sales Premium バンドル プラン](2020-august.md#2)|8 月 3 日|
+|製品サービス/市場|[Visio Plan 1 と Plan 2 の試用版のリリースを発表](2020-august.md#1)|8 月 3 日|
+| **カテゴリ** | **2020 年 7 月のお知らせ** | **日付** |
+|製品サービス/市場|[エンタープライズ音声および電話会議拡張ダイヤルアウト リリースに対する変更](2020-july.md#10)|7 月 31 日|
 |機能|[パートナー センター API に対して予定されている変更](2020-july.md#9)|7 月 28 日|
 |機能|[.NET Standard v1.16.1-preview の SDK リリース](2020-july.md#8)|7 月 21 日|
 |機能|[対象となる Microsoft コマーシャル マーケットプレース オファーの Cloud Solution Provider (CSP) インセンティブが FY21 に拡張](2020-july.md#7)|7 月 22 日|
 |機能|[パートナー センターの Insights レポートに追加された新機能 ](2020-july.md#6)|7 月 16 日|
 |製品サービス/市場|[クラウド ソリューション プロバイダー プログラムの永続的ソフトウェア](2020-july.md#5)|7 月 15 日|
-| 製品サービス/市場 | [Teams 向けの新しい Microsoft 365 Enterprise Voice SKU](2020-july.md#4) | 7 月 3 日 |
 | 製品サービス/市場 | [Microsoft Dynamics 365 および Power Platform の新規および終了となるプランと製品](2020-july.md#3) | 7 月 1 日 |
 | 製品サービス/市場 | [Microsoft が、Microsoft Kaizala Pro スタンドアロン SKU の販売を終了](2020-july.md#2) | 7 月 1 日 |
 | 機能 | [CSP インセンティブ プログラムが FY21 Q1 まで延長](2020-july.md#1) | 7 月 1 日 |

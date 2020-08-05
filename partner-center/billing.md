@@ -3,18 +3,18 @@ title: リファレンス - パートナー センターでの請求に関する
 ms.topic: article
 ms.date: 04/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 Description: パートナー センターでの請求と税金に関するトピックについて説明します。 請求に関するリソース、請求書、CSP の請求、税金に関する情報が含まれます。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435581"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527408"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概要:パートナー センターでの請求と税金に関する主要な記事
 
@@ -34,7 +34,6 @@ ms.locfileid: "86435581"
 | ----- | ----------- |
 | [課金の基本](billing-basics.md) | パートナー センターの請求 (支払い、請求書、調整ファイルを含む) の基本。 |
 | [請求の種類](billing-different-types.md) | パートナー センターのさまざまな種類の請求についての説明。 |
-| [月単位の請求と年単位の請求の違い](billing-annual-monthly.md) | 月単位の請求と年単位の請求の違いについての説明。 |
 | [請求書について](read-your-bill.md) | パートナー センターの請求書を読んで理解する方法について説明します。 |
 | [無料試用版](offer-your-customers-trials-of-microsoft-products.md) | 無料試用版を顧客に提供する方法と、それらの試用版の請求方法について。 |
 | [調整ファイル](use-the-reconciliation-files.md) | 調整ファイルの明細を読み、使用する方法。 |
