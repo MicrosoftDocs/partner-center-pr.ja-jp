@@ -1,7 +1,7 @@
 ---
 title: CSP の間接リセラーとパートナー
 description: 間接的なプロバイダーまたはディストリビューターとして、間接リセラーとの提携によって拡張する方法について説明します。 これには、パートナーセンターで実行できるタスクが含まれます。
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: cb7a9bca65bb4fbb8ef9f3fb88a968155bf17ced
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377216"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545983"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの間接リセラーとの連携
 
@@ -47,7 +47,7 @@ ms.locfileid: "86377216"
 
 間接リセラーや顧客とのパートナーシップを確立して管理するには、次の手順を実行します。 手順 2 および 3 については、後ほど詳しく説明します。
 
-1. [マイクロソフトの公式な間接プロバイダーの一覧](https://partnercenter.microsoft.com/partner/find-a-provider)で、貴社のプロファイルを確認します。
+1. [Microsoft の公式間接プロバイダーリスト](https://partnercenter.microsoft.com/partner/find-a-provider)で会社のプロファイルを確認します。
 
    - 会社の間接プロバイダー プロファイルを変更するには、Microsoft の担当者にお問い合わせください。
 
@@ -147,7 +147,7 @@ ms.locfileid: "86377216"
     > [!IMPORTANT]  
     > このページを閉じた後もこの情報に再度アクセスできないため、ユーザーアカウント名とパスワードをメモしておいてください。
 
-7. **[Done]** を選択します。 新しい顧客が、顧客一覧に表示され、間接リセラーに関連付けられます。 リセラーは、お客様のアカウント情報とサブスクリプションに対する管理者アクセス権を持ち、お客様の代理としてサブスクリプションを管理できるようになりました。
+7. **[完了]** を選択します。 新しい顧客が、顧客一覧に表示され、間接リセラーに関連付けられます。 リセラーは、お客様のアカウント情報とサブスクリプションに対する管理者アクセス権を持ち、お客様の代理としてサブスクリプションを管理できるようになりました。
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>顧客アカウントに新しいサブスクリプションを追加する
 

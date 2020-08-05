@@ -1,21 +1,21 @@
 ---
-title: インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問
+title: インセンティブの支払いと税金のプロファイルに関する FAQ
 ms.topic: article
 ms.date: 07/21/2020
 description: インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: kim-davis
 ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c98a150957a55c75d875cfba64699f080d0a238d
-ms.sourcegitcommit: b4fe2fa43663fe46b205f9daa01494d5053c1ede
+ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87264231"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545913"
 ---
-# <a name="incentives-payout-and-tax-profile-faqs"></a>インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問
+# <a name="incentives-payout-and-tax-profile-faqs"></a>インセンティブの支払いと税金のプロファイルに関する FAQ
 
 適用対象:
 
@@ -71,4 +71,4 @@ MPN の場所に対して作成された税務プロファイルは、その MPN
 
 ## <a name="next-steps"></a>次のステップ
 
-- [パートナーセンターの支払いと税金のプロファイル](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [パートナー センターでの支払いプロファイルと税務プロファイル](incentives-create-and-manage-your-payout-and-tax-profiles.md)

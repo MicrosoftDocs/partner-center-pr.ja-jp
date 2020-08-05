@@ -2,18 +2,18 @@
 title: 顧客の関連付けを管理する
 description: 要求されたレコードのパートナー (CPOR) の顧客の関連付けを管理するための重要なプロセスとタイムラインについて説明します。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-ms.topic: article
+ms.subservice: partnercenter-incentives
+ms.topic: how-to
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114792"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545993"
 ---
 # <a name="manage-customer-associations"></a>顧客の関連付けを管理する
 

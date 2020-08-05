@@ -1,6 +1,6 @@
 ---
 title: CSP の地域的承認によるテナント統合
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444930"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545653"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP の地域承認によるテナント統合の手順
 
@@ -146,6 +146,6 @@ Office 365 CSP サブスクリプションとは異なり、Azure では、使�
 
 API 登録の詳細については、「[パートナーセンターでの api アクセスの設定](https://go.microsoft.com/fwlink/?linkid=847990)」を参照してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [パートナーセンターの販売店パートナー向けの顧客アカウントのセットアップと管理](customer-accounts.md)
