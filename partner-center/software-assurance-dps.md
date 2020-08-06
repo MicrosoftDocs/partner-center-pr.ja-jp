@@ -3,18 +3,18 @@ title: ソフトウェア アシュアランス導入計画サービス
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: ソフトウェアアシュアランスをご利用のお客様にトレーニングやその他のサービスを提供できるように、Microsoft の計画サービス契約を登録して認定を受ける方法について説明します。
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 9cab5ac13b37c11f9e07f1c99d63728f7ad92264
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943689"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811222"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
 

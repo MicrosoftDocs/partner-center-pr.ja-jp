@@ -1,6 +1,6 @@
 ---
 title: ダイレクト請求パートナーを間接リセラーに切り替える
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87445002"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811192"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行
 
@@ -277,7 +277,7 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
     :::image type="content" source="images/direct/direct9.png" alt-text="転送要求の作成":::
 
-8. **[作成]** をクリックします。
+8. **Create** をクリックしてください。
 
 9. アクティブなサブスクリプションの譲渡要求が [**サブスクリプションの譲渡**] に表示されます。
 

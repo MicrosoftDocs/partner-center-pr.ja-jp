@@ -1,7 +1,7 @@
 ---
 title: ライセンスベースのお客様を CSP プログラムに移動する
 description: 他のチャネルまたは別のパートナーのライセンスベースの顧客を、パートナーセンターのクラウドソリューションプロバイダー (CSP) プログラムに移動する方法について説明します。
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5304e8c2e00b832551bfdb06872bc0051b6064dc
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444561"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811132"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>他のチャネル & パートナーから Cloud Solution Provider プログラムにライセンスベースのお客様を移動する
 
@@ -46,7 +46,7 @@ ms.locfileid: "87444561"
 >[!NOTE]
 > CSP パートナーであるお客様の所在地は、その顧客をお客様に向けて移行する顧客テナントと同じ地域である必要があります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Azure プランで従量課金制料金の使用を開始する](azure-plan-get-started.md)
  

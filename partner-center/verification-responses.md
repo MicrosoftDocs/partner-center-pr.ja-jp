@@ -3,18 +3,18 @@ title: アカウント情報の確認
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 新しいパートナーセンタープログラムに登録しようとすると、アカウントの確認の状態に従います。 必要に応じて追加情報を指定する方法について説明します。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 40b3a8118ace01bd7b1c72d4cd008a6a6e612bd1
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365728"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811142"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>新しいパートナーセンタープログラムに登録するときにアカウント情報を確認する
 

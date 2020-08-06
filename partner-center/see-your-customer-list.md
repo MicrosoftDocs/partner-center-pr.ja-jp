@@ -1,6 +1,6 @@
 ---
 title: 顧客のリストを管理する
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 865af6a054fc10cddd5422e1ef91ec3df14f69aa
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 40df034e88a1bba7829d6f73e0fb970795a2a0dd
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377746"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811262"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>顧客リストを管理する-パートナーセンターで顧客の検索、更新、エクスポートを行う
 
@@ -39,7 +39,7 @@ ms.locfileid: "86377746"
 2.  顧客を検索するには、検索ボックスに顧客名またはドメイン名を入力します。
 3.  顧客行の末尾にある**下向き矢印**を選ぶと、顧客の Microsoft ID、および関連するサブスクリプションとサービスへのクイック リンクが表示されます。
 4.  顧客の **[請求先]** 情報で、会社名を更新します。 新しい値を保存すると、顧客一覧に反映されます。 これで変更されるのは、請求先の会社名と顧客一覧の値のみです。 それ以外の場所に反映されることはありません。
-<sup>1</sup>
+
 ## <a name="export-your-customer-list"></a>顧客一覧をエクスポートする
 
 1. **パートナー センター** メニューで、**[顧客]** を選択します。
@@ -55,7 +55,7 @@ ms.locfileid: "86377746"
     既定では、パートナー センターによって、長さに関係なく顧客一覧全体がエクスポートされます。 会社名やドメインで顧客一覧を検索し、データのサブセットをエクスポートすることもできます。
 
 3. お客様が間接プロバイダーである場合は、顧客一覧を間接リセラーでフィルター処理できます。 一覧から **[間接リセラーで絞り込む]** を選び、リセラーを選びます。
-<sup>1</sup>
+
 
 ## <a name="export-customer-subscription-information"></a>顧客のサブスクリプション情報のエクスポート
 

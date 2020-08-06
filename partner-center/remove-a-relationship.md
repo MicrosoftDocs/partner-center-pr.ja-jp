@@ -1,6 +1,6 @@
 ---
 title: リセラーと顧客との関係を削除する
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f710b7327e9ff647f23c7baf994bc00082c437b5
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949290"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811342"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>パートナーセンターで顧客との再販業者関係を削除する方法
 
@@ -51,13 +51,13 @@ ms.locfileid: "85949290"
 
    a. パートナーセンターから、[**顧客**] にアクセスして顧客を選択します。
 
-   b. **アカウント**を選択します。
+   b. **[アカウント]** を選択します。
 
    c. [**再販業者の関係を削除**] を選択します。
 
    > [!NOTE]
    > まだアクティブになっているサブスクリプションがある場合、[**再販業者の関係を削除**する] リンクは非アクティブになります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客との関係を要求または再確立する](request-a-relationship-with-a-customer.md)

@@ -1,6 +1,6 @@
 ---
 title: 顧客との再販業者関係の要求
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ description: マルチパートナー、マルチチャネルのシナリオ、�
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 53cb70e4d21824dc030f469b43e4465e9c5ce871
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943719"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811302"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>パートナー センターでお客様から再販業者の関係を要請する方法
 

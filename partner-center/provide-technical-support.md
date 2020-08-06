@@ -3,18 +3,18 @@ title: 顧客にテクニカルサポートを提供する
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: テクニカルサポートのクラウドソリューションプロバイダープログラムパートナーがお客様に提供できる技術サポートの種類について説明します。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b10601bcfaf71b9b36eb9955ad7b4822cd0fe63b
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: e5ee0fcacb1d67fd015bd0e143d8d4e19b49ce71
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114506"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87810912"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>お客様がサブスクリプションを構成、管理、使用するためのテクニカルサポートを提供します
 
@@ -62,7 +62,7 @@ CSP モデルで取引を行うパートナーは、お客様に対する信頼�
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>課金、サブスクリプション管理、テクニカル サポートの提供 
 
-各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については、次を参照してください。
+各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については次を参照してください:
 
 - [CSP で販売された Dynamics 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

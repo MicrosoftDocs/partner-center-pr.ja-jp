@@ -1,7 +1,7 @@
 ---
 title: 教育機関のお客様にオファーを販売する方法
 description: 教育機関向けの顧客を作成し、パートナーセンターでプランを販売する方法について説明します。
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25710920130fc78e220d000e552914c093f92706
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e6d7ad9ed7acecf8d542577c87d4387240ded7b7
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436581"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811272"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>教育機関のお客様にオファーを販売する方法 & パートナーセンターで教育機関の顧客を作成する方法
 

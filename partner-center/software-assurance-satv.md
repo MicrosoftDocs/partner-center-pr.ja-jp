@@ -3,18 +3,18 @@ title: ソフトウェアアシュアランストレーニング伝票プログ�
 ms.topic: article
 ms.date: 06/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: ソフトウェアアシュアランストレーニング伝票プログラムに登録する方法について説明します。これにより、企業のお客様にトレーニングと計画を提供するための補償を受けることができます。
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 91cf374c8739bfc428f58e5ec5f4b7748778f923
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436531"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811202"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム
 

@@ -1,6 +1,6 @@
 ---
 title: 顧客の代理で問題を報告する
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 032c4b924da4f123485c3959448441f420f6ba37
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389141"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811322"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>顧客に代わってサービスの問題を報告します。その方法や方法などが含まれます。
 
@@ -96,7 +96,7 @@ ISV の連絡先情報を検索するには:
     - サポート電子メール
     - サポート連絡先の電話番号
 
-## <a name="faq"></a>よくあるご質問
+## <a name="faq"></a>よく寄せられる質問
 
 **サポートの権利には何が含まれていますか?**
 
@@ -141,7 +141,7 @@ Dynamics 365 Plan サブスクリプション、ライセンス、課金、財�
 
 「[Microsoft Dynamics のサポート](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)」を参照する
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客へのサポート提供](customer-support.md)
 - [サービスの正常性の確認](check-service-health.md)

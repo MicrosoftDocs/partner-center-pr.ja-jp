@@ -1,6 +1,6 @@
 ---
 title: 顧客の Azure 支出予算を設定する
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 description: 顧客向けの月単位の Azure 支出予算を設定または削除する方法と、Azure の支出データを表示し、予算に関連する通知を設定する方法について説明します。
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a52fa8d490ad43cc1e4f331b1a335004a07c83bd
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377736"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811252"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>パートナーセンターのお客様に対する月単位の Azure 支出予算を設定、確認、または削除する
 
