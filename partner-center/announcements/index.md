@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 4ed7167faf3b090025d040d692b9cb2eac35a6d4
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545543"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811162"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,8 @@ ms.locfileid: "87545543"
 
 | **カテゴリ** | **2020 年 8 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[新しい Microsoft Teams Advanced Communications SKU が利用可能](2020-august.md#4)|8 月 4 日|
+|製品サービス/市場|[9 月に利用可能となる教育機関向けサーバーの Microsoft Defender Advanced Threat Protection (ATP)](2020-august.md#3)|8 月 4 日|
 |製品サービス/市場|[新しい Dynamics 365 Sales Premium バンドル プラン](2020-august.md#2)|8 月 3 日|
 |製品サービス/市場|[Visio Plan 1 と Plan 2 の試用版のリリースを発表](2020-august.md#1)|8 月 3 日|
 | **カテゴリ** | **2020 年 7 月のお知らせ** | **日付** |

@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 08b1b547fc6f494dfdb1199824221aecad9120bc
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114564"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433893"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Partner Membership Center (PMC) からパートナー センターへの移行を準備する
 
@@ -117,7 +117,6 @@ Microsoft は、現在のコンピテンシー、特典、場所情報、イン�
 
 MPN 管理者または全体管理者は Visual Studio の使用量ベースのサブスクリプションにゲスト ユーザーを割り当てることができますが、ゲスト ユーザーは MSA を使用してパートナー センターにサインインすることはできません。 ただし、ゲスト ユーザーは、Azure と Visual Studio にサインインして、割り当てられた特典を検証および使用できます。
 
-
  **MCP の関連付けや Partner University へのアクセスを管理するにはどうすればよいですか?**
 
  PMC から移行する MCP の関連付けに変更はありません。 ただし、パートナー センターに移行した後の新しい従業員はすべて、パートナー センターで関連付ける必要があります。 既存のユーザーの Partner University のアクセス許可はすべてそのままになりますが、新しい従業員は[トレーニング センター](https://partner.microsoft.com/training)に移動して、Partner University へのアクセスを取得する方法を確認する必要があります。
@@ -137,7 +136,9 @@ MPN 管理者または全体管理者は Visual Studio の使用量ベースの�
 
 **パートナー センターへの移行によりインセンティブに影響はありますか?**
 
-いいえ。場所を統合せずにアカウントを移行した場合、インセンティブに影響はありません。 PMC に複数のアカウントがあり、パートナー センターに移行するときにグローバル アカウントに統合することにした場合、インセンティブに損失は発生しませんが、インセンティブの支払いが遅延することがあります。 インセンティブ プログラムに関連するすべての PMC アカウントを移行するわけではない場合、それらのアカウントに関連付けられているインセンティブの獲得を停止できます。
+いいえ。場所を統合せずにアカウントを移行した場合、インセンティブに影響はありません。 PMC に複数のアカウントがあり、パートナー センターに移行するときにグローバル アカウントに統合することにした場合、インセンティブに損失は発生しませんが、インセンティブの支払いが遅延することがあります。 
+
+インセンティブ プログラムに関連するすべての PMC アカウントを移行するわけではない場合、それらのアカウントに関連付けられているインセンティブの獲得を停止できます。
 
 
 **パートナー センターのインセンティブ ロールとは何ですか?** 
@@ -160,7 +161,12 @@ MPN 管理者または全体管理者は Visual Studio の使用量ベースの�
 
 紹介は、顧客が定義する検索パラメーターに基づいて割り当てられます。 持っている場所が 1 つか複数かには関係なく、顧客が目的の場所を指定し、そこに他のパラメーターを満たすビジネスがある場合、紹介はその場所に割り当てられます。
 
+**ロシア内から、パートナー センターに移行しようとしています。Web Direct についてのエラー メッセージが表示されるのですが、どうすれば移行を続行できますか?**
 
+Web Direct プログラムに参加しているためにエラー メッセージが表示される場合、次を行う必要があります。
+
+1. portal.Azure.com にサインインし、新しい Azure AD テナントを作成します。 詳細については、[新しい Azure AD テナントの作成](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)に関するページを参照してください。
+1. 新しい Azure AD テナントを作成したら、それを使用して、Partner Membership Center からパートナー センターに移行するか、パートナー センターでまったく新規に登録します。
 
 
 
