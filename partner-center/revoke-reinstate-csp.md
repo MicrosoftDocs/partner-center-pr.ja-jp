@@ -1,7 +1,7 @@
 ---
 title: Azure CSP の管理者特権を復元する
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 07/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーが顧客の Azure CSP サブスクリプションを管理できるように、顧客がパートナーの管理者特権を復元する方法について説明します。
@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 362ae4a472b78417a4921b734a77f6259aaaa1f3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2c98ddf67567935a17e33546ce41de723b3be134
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949260"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412428"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>顧客の Azure CSP サブスクリプションの管理者特権を復元する  
 
@@ -49,7 +49,7 @@ CSP では Azure に対して 2 つのレベルの管理者特権があります
 
 顧客は、Azure CSP サブスクリプションの所有者として、パートナーの管理者エージェント グループを追加する必要があります。
 
-1. PowerShell コンソールまたは PowerShell Integrated Scripting Environment (ISE) のいずれかを使用します。 AzureRM モジュールと AzureAD モジュールがインストールされていることを確認します。
+1. PowerShell コンソールまたは PowerShell Integrated Scripting Environment (ISE) のいずれかを使用します。 AzureAD モジュールがインストールされていることを確認します。
 
 2. Azure AD テナントに接続します。
 
@@ -62,24 +62,19 @@ CSP では Azure に対して 2 つのレベルの管理者特権があります
    ```powershell
    Get-AzureADGroup
    ```
-
-   :::image type="content" source="images/azure/revoke5.png" alt-text="管理者エージェント グループ":::
-
    次の手順は、顧客の会社の、Azure CSP サブスクリプションに対する所有者アクセス権を持つユーザーが実行します。
 
-4. Azure CSP サブスクリプションへの所有者アクセス権を持つユーザーは、自分の資格情報を使用して Azure Resource Manager にサインインします。
+4. Azure CSP サブスクリプションへの所有者アクセス権を持つユーザーは、自分の資格情報を使用して Azure にサインインします。
 
    ```powershell
-   Login-AzureRMAccount
+   Connect-AzAccount
    ```
 
 5. その後、パートナーの管理者エージェント グループを、CSP Azure サブスクリプションに所有者として追加できます。
 
     ```powershell
-    New-AzureRMRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
     ```
-
-   :::image type="content" source="images/azure/revoke6.png" alt-text="管理者エージェント所有者":::
 
 ## <a name="next-steps"></a>次の手順
 

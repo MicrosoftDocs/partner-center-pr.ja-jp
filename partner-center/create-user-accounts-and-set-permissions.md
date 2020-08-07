@@ -3,18 +3,18 @@ title: ユーザー アカウントの作成とロールの割り当て
 description: 各従業員がパートナー センターにアクセスできるように前もってロールを割り当てる必要があります。 ユーザー アカウントの作成、ロールの割り当て、およびアクセス許可の設定の方法について説明します。
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: c7d04307be7a81cf3501e1b50e278cf1a012afcd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435191"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527738"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>ユーザー アカウントの作成およびロールとアクセス許可の設定
 
@@ -102,3 +102,7 @@ ms.locfileid: "86435191"
 1. パートナー センター ダッシュボードで、ダッシュボードの右上隅にある **[アカウント]** アイコンを選択し、 **[My profile]\(プロファイル\)** を選択します。
 
 2. **[Your learning]\(ラーニング\)** では、お客様の Microsoft Learning アカウントを関連付けることができます。また、Microsoft アカウントを Partner University に接続することもできます。
+
+## <a name="next-steps"></a>次の手順
+
+- [パートナー センターで作業する必要がある会社のユーザーにユーザーのロールとアクセス許可を割り当てる](permissions-overview.md)
