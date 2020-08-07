@@ -1,7 +1,7 @@
 ---
 title: Azure 予約 & サーバーサブスクリプション
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure の予約とサーバーサブスクリプションを取得、プロビジョニング、および管理するためのクラウドソリューションプロバイダーの機会について説明します。
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 408f0e59bb1d6da7caebdcf323ebcd242c49af97
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 5b8a9cf07f8dace47346c68ade3707d6b12a1532
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943949"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900093"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) と顧客向けのサーバーサブスクリプションの取得、プロビジョニング、& 管理
 
@@ -29,7 +29,11 @@ ms.locfileid: "86943949"
 - ヘルプデスク エージェント
 - 販売代理店
 - ユーザー管理の管理者
- 
+
+> [!NOTE]
+> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに[この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
+
+
 ## <a name="what-are-azure-reservations"></a>Azure の予約とは
 
 Azure Reservations では、1 年分または 3 年分の料金を前払いすることにより、仮想マシン、SQL Database の処理能力、Azure Cosmos DB スループット、その他の Azure リソースを割引価格で利用することができます。 前払いすると、使用するリソースの割り引きを受けることができます。 予約では、従量課金制の価格と比較して、仮想マシン、SQL Database の処理能力、Azure Cosmos DB、その他のリソースのコストを最大 72% も削減することができます。 予約は課金割引を提供するもので、リソースの実行時の状態には影響しません。 詳細について[は、「Azure Reservations とは](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)」を参照してください。

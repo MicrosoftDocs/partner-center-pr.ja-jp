@@ -1,7 +1,7 @@
 ---
 title: 顧客を Microsoft Azure 予約に販売する
 ms.topic: article
-ms.date: 06/19/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: クラウドソリューションプロバイダーとして、顧客向けの Azure 予約を購入、販売、管理することができます。 パートナーセンター、Azure portal、またはパートナーセンター API を使用します。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4524d810a036953e45fb94a72241734e02a2798f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3efe8ae6a955dee5cfe01d0571cd107f8ee50f5c
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435731"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900080"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>パートナーセンター、Azure portal、Api を使用して Microsoft Azure の予約を顧客に販売する
 
@@ -22,7 +22,7 @@ ms.locfileid: "86435731"
 
 - パートナー センター
 - Microsoft Azure portal
-- CSP のパートナー
+- CSP プログラムのパートナー
 
 **適切なロール**
 
@@ -32,12 +32,15 @@ ms.locfileid: "86435731"
 - 販売代理店
 - ユーザー管理の管理者
 
-クラウド ソリューション プロバイダー プログラム (CSP) のパートナーは、Microsoft Azure Reservations を顧客に提供できます。 事前に予約した場合、顧客はコストを大幅に節約できます。 Azure Reservations では顧客の皆様に、次のように簡単で柔軟にご利用いただけます。
+> [!NOTE]
+> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに[この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
+
+CSP プログラムのパートナーは、お客様に Microsoft Azure 予約を提供できます。 事前に予約した場合、顧客はコストを大幅に節約できます。 Azure Reservations では顧客の皆様に、次のように簡単で柔軟にご利用いただけます。
 
 - 1 ～ 3 年の予約期間。
 - 簡単に使い始めることができます。セットアップは数秒で完了します。
 - 予約インスタンスはいつでも取り消しまたは交換でき、払い戻しが調整されます。
-- 組織レベルまたは個々の部署レベルで予約インスタンスの使用状況を管理できます。 
+- 組織レベルまたは個々の部署レベルで予約インスタンスの使用状況を管理できます。
 
 Azure Reservations は、次の点で顧客にとって魅力的です。
 

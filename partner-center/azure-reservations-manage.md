@@ -1,7 +1,7 @@
 ---
 title: 顧客向けの Azure 予約を管理する
 ms.topic: how-to
-ms.date: 05/04/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 予約を取り消す方法、予約を交換する方法、返金を要求する方法など、顧客の Azure 予約を管理する方法について説明します。
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb5e88b284aac3325de79d41c0c9a19ffc906b3f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 126d8bcae5ca7feb3eefe414bd14e476b4047d11
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527458"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900069"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>顧客の予約 Microsoft Azure 管理、取り消し、交換、返金する
 
@@ -32,6 +32,9 @@ ms.locfileid: "87527458"
 - 販売代理店
 - ユーザー管理の管理者
 
+> [!NOTE]
+> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに[この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
+
 購入後に顧客の Azure 予約を管理するには、パートナーセンターで管理する顧客と予約を選択し、Azure portal の予約に変更を加えます。
 
 1. まずパートナー センター メニューで **[顧客]** を選択し、管理対象の予約を持つ顧客を選択します。 
@@ -43,7 +46,7 @@ ms.locfileid: "87527458"
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
     | **概要**   | 有効期限、スコープ、使用状況データなど、顧客の予約の詳細を表示します。 **注意:** 日割り計算の払い戻しを求めるサポート要求を作成するには、**[Refund]** (払い戻し) を選択します。 予約期間のうち未使用の部分を交換するためのサポート要求を作成するには、**[交換]** を選択します。  
-    | **アクセス制御 (IAM)**   | 顧客の予約情報へのアクセスを管理します。|
+    | **Access Control (IAM)**   | 顧客の予約情報へのアクセスを管理します。|
     | **構成**   | 予約が関連付けられている予約のスコープや Azure サブスクリプションを変更します。    |
     | **プロパティ**   | 予約のプロパティを表示し、予約 ID と予約注文 ID をクリップボードにコピーします。 **注意:** 顧客に代わってサポートを要求する際には、予約 ID と予約注文 ID がサポートから求められることがあります。    |
     | **新しいサポート要求**    | Microsoft サポートによるヘルプを要求します。   |

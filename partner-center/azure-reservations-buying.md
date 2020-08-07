@@ -1,7 +1,7 @@
 ---
 title: 顧客の予約 Microsoft Azure 購入する
 ms.topic: article
-ms.date: 06/18/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: パートナーセンターで顧客の代理として Azure の予約を購入または購入する方法について説明します。
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435771"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900101"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure Reservations を購入する
 
@@ -31,6 +31,9 @@ ms.locfileid: "86435771"
 - ヘルプデスク エージェント
 - 販売代理店
 - ユーザー管理の管理者
+ 
+> [!NOTE]
+> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに[この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
 
 ## <a name="before-you-begin"></a>開始する前に
 
@@ -130,7 +133,7 @@ ms.locfileid: "86435771"
 
     - 予約インスタンスの数量を確認または変更します。
 
-    - 予約のスコープを選択します。 予約のスコープは、1つまたは複数のサブスクリプション (共有スコープ) に対応できます。 1 つのサブスクリプションを予約の対象にする場合、予約割引は、そのサブスクリプションのみに適用されます。 [共有] を選択すると、顧客の請求コンテキスト内のすべてのサブスクリプションに予約割引が適用されます。 
+    - 予約のスコープを選択します。 1 つのサブスクリプションまたは複数のサブスクリプション (共有スコープ) を予約のスコープにすることができます。 1 つのサブスクリプションを予約の対象にする場合、予約割引は、そのサブスクリプションのみに適用されます。 [共有] を選択すると、顧客の請求コンテキスト内のすべてのサブスクリプションに予約割引が適用されます。 
 
       >[!NOTE] 
       >予約の対象範囲を 1 つの Azure サブスクリプションに制限することを選択した場合は、サブスクリプションの vCPU クォータを増やすことが必要な場合があります。 サブスクリプションの vCPU クォータを増やすには、Azure portal でサポート要求を作成する必要があります。 [このトピック](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)の手順に従って、要求を作成します。 

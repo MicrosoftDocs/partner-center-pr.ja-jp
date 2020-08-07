@@ -1,7 +1,7 @@
 ---
 title: 最大限の予約使用に備えた Azure VM サイズ
 ms.topic: how-to
-ms.date: 07/08/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Microsoft Azure の予約を購入した場合に、お客様のコンピューティングニーズに合わせて仮想マシン (VM) のサイズを変更する方法について説明します。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 48f7fb317d35c87eaf3d8fddc7a5da907178ef36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: bc9fc14598e7c96f9cc1b55eba7c59af68ad84a9
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527448"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900110"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ
 
@@ -22,7 +22,10 @@ ms.locfileid: "87527448"
 
 - パートナー センター
 - Azure portal
-- CSP のパートナー
+- CSP プログラムのパートナー
+ 
+> [!NOTE]
+> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに[この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>顧客の Azure 予約の VM サイズを決定する
 
@@ -101,7 +104,7 @@ ms.locfileid: "87527448"
     >[!NOTE]
     >使用率データには、最大で 8 時間の遅延が発生することがあります。
 
-    a。 予約の使用率が100% の場合、お客様は予約購入によって得られる節約額をすべて取得することになります。
+    a. 予約の使用率が100% の場合、お客様は予約購入によって得られる節約額をすべて取得することになります。
     b. 予約の使用率が0% の場合、割引は仮想マシンに適用されません。
     c. 予約の使用量が 1 ~ 99% の場合、未使用の特典があります。
 
