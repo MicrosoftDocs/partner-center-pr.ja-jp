@@ -4,17 +4,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 分析を使用して、間接リセラーがどのように実行されているかを確認します。成功と領域の両方で、さらに注意が必要になる場合があります。
-author: amitravat
-ms.author: amrava
+author: shganesh
+ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07c245cf811768a53da522545bf776caf0b85f75
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436131"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998364"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>分析を使用して間接リセラーのパフォーマンスを分析する
 
@@ -39,7 +39,7 @@ ms.locfileid: "86436131"
 
 次のメトリックを追跡しています。
 
-**まとめ**  
+**要約**  
  - **Total resellers** (リセラーの合計数): サブスクリプションの最終日にアクティブなリセラーの数  
  - **New resellers** (新規リセラー数): 指定した期間の新規間接リセラーの数  
  - **Active resellers** (アクティブなリセラー数): MPNID に 1 つ以上のサブスクリプションがあり、サブスクリプションの状態がプロビジョニング解除ではない間接リセラーの数  
