@@ -1,6 +1,6 @@
 ---
 title: Azure CSP の管理者特権を復元する
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c98ddf67567935a17e33546ce41de723b3be134
-ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
+ms.openlocfilehash: c694f48fb62fc031bfaf78be6a1c4e43629a7adb
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87412428"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811332"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>顧客の Azure CSP サブスクリプションの管理者特権を復元する  
 

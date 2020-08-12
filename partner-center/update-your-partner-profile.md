@@ -5,16 +5,16 @@ ms.subservice: partnercenter-csp
 description: 主要連絡先、住所、プログラム情報など、ご自身の会社の詳細情報を確認する方法について説明します。 また、法的住所や請求先住所を更新することもできます。
 author: parthpandyaMSFT
 ms.author: parthp
-ms.topic: conceptual
+ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: efae9cce608524835c8e4526f23e61b793470d2b
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365718"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811112"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>パートナー センターで、パートナー プロファイルの情報を確認する
 

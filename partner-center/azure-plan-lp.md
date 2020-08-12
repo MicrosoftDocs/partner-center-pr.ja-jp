@@ -5,16 +5,16 @@ ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure サービスを顧客向け従量課金制料金で購入するための、Azure プランのコマースエクスペリエンスについて説明します。 新しいセキュリティ要件についても説明します。
-author: amrava
-ms.author: amrava
+author: rbars
+ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 339aaff4eb943c10aaef2c171ff505b6e9dad7b6
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435801"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998388"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>概要:Azure プランでは、パートナーは Azure を顧客向け従量課金制料金で購入できます。
 
