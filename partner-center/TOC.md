@@ -102,6 +102,7 @@
 ### [ビジネス プロファイルの分析](analyze-your-marketing-profile.md)
 ## インセンティブ
 ### インセンティブの概要
+#### [作業の開始](incentives-get-started-intro.md)
 #### [プログラムの適格性を確認する](incentives-determined-your-program-eligibility.md)
 #### [パートナー センターで支払いと税金のプロファイルを作成および管理する](incentives-create-and-manage-your-payout-and-tax-profiles.md)
 #### [インセンティブの支払いと税金のプロファイルに関する FAQ](incentives-payout-tax-profile-faqs.md)
@@ -109,14 +110,16 @@
 #### [インセンティブの支払いとプログラムを表示する](understand-incentive-payouts.md)
 #### [インセンティブの支払いページへのアクセス](incentives-unified-user-guide.md)
 ### 実行の計画と証明
+#### [プランおよび PoE について](incentives-plans-proofs-intro.md)
 #### [プランを作成する](incentives-create-your-plan.md)
 #### [実行証明を準備する](incentives-prepare-your-proof-of-execution.md)
 ### 協力インセンティブの申請
-#### [インセンティブ](claims-overview.md)
+#### [協力インセンティブについて](claims-overview.md)
 #### [協力インセンティブの申請の作成と管理](create-incentives-claims.md)
 #### [協力インセンティブの申請の主要な要件](core-requirements.md)
 #### [協力申請の承認と支払期限](incentives-managing-co-op-claims.md)
 ### インセンティブの CPOR 関連付けの申請
+#### [CPOR の関連付けについて](incentives-customer-associations-intro.md)
 #### [CPOR モデルを使用して顧客の関連付けを作成する](submit-osa-claim.md)
 #### [顧客の関連付けを管理する](incentives-manage-customer-associations.md)
 #### [顧客の関連付けに関する問題](incentives-customer-association-issues.md)
