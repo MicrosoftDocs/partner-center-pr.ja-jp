@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6d50081332a404507fea9c196e10cf3d5f0ecb
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114059"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998393"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>更新期間中に Microsoft Action Pack とコンピテンシーの MPN プランを更新する
 
@@ -40,11 +40,13 @@ Microsoft Action Pack とコンピテンシーは、毎年の更新を必要と�
 
 ## <a name="responding-to-covid-19"></a>COVID-19 への対応:
 
-お客様がご自分の顧客のサポートに専念できるようにするために、**お客様のコンピテンシー契約終了日が 2020 年 1 月 1 日から 6 月 30 日の間にある場合**、Microsoft はお客様の既存の 1 つまたは複数のコンピテンシーを 2021 年の次の契約終了日まで延長します。 コンピテンシーの更新のリマインダーは、この新しいオファーを反映するように更新されます。 
+お客様がご自分の顧客のサポートに専念できるようにするために: 
+
+- **お客様のコンピテンシー契約終了日が 2020 年 7 月 1 日から 12 月 31 日の間にある場合**、Microsoft はお客様の既存の 1 つまたは複数のコンピテンシーを 2021 年の次の契約終了日まで延長します。 コンピテンシーの更新のリマインダーは、この新しいオファーを反映するように更新されます。 
 
 - **コンピテンシーが更新の時期になると**、自分の要件が満たされていることがパートナー センターで確認できます。 更新するには、更新期間中に、[メンバーシップ オファー] ページでコンピテンシー料金の支払いを行う必要があります。 
 
-- **更新期間が既に終了している場合**、[メンバーシップ オファー] ページで料金の支払いを行うことで、ご利用のコンピテンシーを再度アクティブ化し、リソースと特典へのアクセス権を回復することができます。 この延長は、2020 年 6 月 30 日まで利用できます。   
+- **更新期間が既に終了している場合**、[メンバーシップ オファー] ページで料金の支払いを行うことで、ご利用のコンピテンシーを再度アクティブ化し、リソースと特典へのアクセス権を回復することができます。この延長は、2020 年 12 月 31 日まで利用できます。
 
 ### <a name="how-to-view-this-information"></a>この情報を表示する方法
 

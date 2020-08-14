@@ -1,7 +1,7 @@
 ---
 title: パートナー センター アカウントを作成する
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 08/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Partner Network メンバーがネットワークの特典とコンピテンシーを管理するためにパートナー センター アカウントを作成する方法について説明します。
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927cfcaf87b01dc31d899e2509f441462f1d295a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f39b53e7b1a0a95b9d90a18c1a07694f4eac62b7
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114722"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998413"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>ネットワークの特典とコンピテンシーを管理するためにパートナー センター アカウントを作成する
 
@@ -65,6 +65,45 @@ ms.locfileid: "87114722"
     a。 パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home**)で **[設定]** アイコンを選択し、 **[ユーザー管理]** を選択します。  
 
     b. ユーザーの一覧から自分の名前を選び、 **[管理エージェント]** を選択します (まだ選択されていない場合)。 **[更新]** を選択します。  
+
+## <a name="view-mpn-account-details"></a>MPN アカウントの詳細を表示する
+
+パートナー センター アカウントを作成すると、パートナー センターに戻って、さまざまなアカウントの詳細を確認できるようになります。 これらの多くは、パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)の **[パートナー プロファイル]** ページに表示されます。
+
+次の詳細を確認できます。
+
+- お客様の会社の法的ビジネス プロファイル
+
+- MPN ID に関する情報
+
+- 登録済みの Microsoft プログラムに関連付けられている現在の契約へのリンク
+
+  たとえば、お客様が MPN プログラムに登録されている場合、現在の Microsoft Partner Network 契約へのリンクが表示されます。 クラウド ソリューション プロバイダー (CSP) プログラムなどの他のパートナー プログラムに登録されている場合は、Microsoft Partner Agreement などの他の契約へのリンクも表示されることがあります。 
+
+  > [!NOTE]
+  > これらの種類のリンクが表示されるのは、契約の確認、アクセス、ダウンロードが必要になる場合や、署名の日付を確認する場合などに便利です。
+
+### <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>アカウントの詳細を表示する方法、または MPN 契約を表示してダウンロードする方法
+
+アカウントの詳細を表示する場合や、MPN 契約を表示してダウンロードする場合は、次の手順を実行します。
+
+1. 職場アカウントのユーザー名とパスワードを使用して、パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+
+2. [概要] ページが表示されます。 ([概要] ページが表示されない場合は、左側のナビゲーション メニューから **[概要]** を選択します)。
+
+3. ダッシュボードの右上隅にある歯車アイコンを選択し、 **[パートナーの設定]** を選択します。 すると、[パートナー プロファイル] ページが表示されます。
+
+4. [パートナー プロファイル] ページには、さまざまな領域が表示されます。 これには、 **[Legal business profile]\(法的ビジネス プロファイル\)** や **[プログラム情報]** 領域が含まれます。
+
+5. **[プログラム情報]** の下にある **[MPN プログラムの状態]** フィールドを見つけます。 ここに、Microsoft Partner Network 契約へのリンクが表示されています。 また、プログラムでのお客様の現在の状態についても表示されています。
+
+
+   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="[パートナー プロファイル] ページの [プログラム情報] 領域の画像。この領域の [MPN プログラムの状態] フィールドと、関連付けられている Microsoft Partner Network 契約へのリンクが赤枠で強調表示されている。":::
+
+6. この契約を表示またはダウンロードするには、 **[Microsoft Partner Network 契約]** を選択します。  
+
+> [!NOTE]
+> また、クラウド ソリューション プロバイダー (CSP) プログラムに登録されている場合は Microsoft Partner Agreement など、他の登録済みプログラムに関する他の契約も上記の手順で表示またはダウンロードすることができます。
 
 ## <a name="next-steps"></a>次の手順
 

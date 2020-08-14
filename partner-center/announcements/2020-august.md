@@ -9,18 +9,98 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/03/2020
-ms.openlocfilehash: ec9dc4110e4cd0d980142d012a570b84c864f14a
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 10416b9054cc01669fd8a9cc0606f8ecdb565fd9
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546690"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811102"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月のお知らせ
 
 このページでは、2020 年 8 月の Microsoft パートナー センターのお知らせについて詳しく説明します。
 
 2020 年のお知らせ:[1 月](2020-january.md) | [2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | 8 月
+
+________________
+
+## <a name="new-microsoft-teams-advanced-communications-skus-are-now-available"></a><a name="4"></a>新しい Microsoft Teams Advanced Communications SKU の提供開始
+### <a name="categories"></a>［カテゴリ］
+
+- 日付:2020-08-04
+- 製品サービス/市場
+
+### <a name="summary"></a>まとめ
+
+この新しい Microsoft Teams 用 Advanced Communications アドオン SKU は、2020 年 8 月 1 日に提供が開始されました。
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー様
+
+### <a name="details"></a>詳細情報
+
+この新しい Microsoft Teams 用 Advanced Communications アドオンは、1 ユーザーあたり月額 $12 でご利用いただけます。 このアドオン SKU は、Microsoft Teams が含まれる他のどの Microsoft 365 スイートにも追加して購入できます。 Advanced Communications は、IT 管理用の高度なツールに加えて、大規模な会議、通信ポリシー、統合のための一連の新機能を提供します。 
+
+#### <a name="advanced-communications-features"></a>高度な通信機能
+
+サービス開始時にリリース済み
+- ライブ イベントの制限は、参加者 20,000 人 (50 件の同時イベント、16 時間)
+- コンプライアンス レコーディングの統合 (ISV) 
+- 連絡先センター ソリューションの統合 (ISV) 
+
+2020 年後半にリリース
+- 1,000 人の対話型 Teams 会議 
+- ‘表示のみ’ の会議エクスペリエンスで最大 20,000 人の参加が可能な機能を備えた、参加者 1,000 人の対話型会議。 
+- カスタム ブランドの会議ロビー
+- 今年中に、カスタマイズ、ツール、通信の機能強化がさらに SKU に追加される予定です。
+
+#### <a name="offer-details"></a>特典の詳細
+
+   |**プラン名**|**プラン ID**|**マテリアル ID**|
+   |-------------------|:------|:------|
+   |Advanced Communications|efb0c254-e9c6-4e9b-be12-eb2b7849953f|1UC-00006|
+   |教職員向けの Advanced Communications|13219baa-468f-4eeb-bfaa-243216dbddca|2P8-00005|
+   |学生向けの Advanced Communications|31a690b0-3945-4adf-98ab-644e0a879b3f|2P8-00006|
+
+#### <a name="frequently-asked-questions"></a>よく寄せられる質問
+
+- **Advanced Communications の概要** この新しい Microsoft Teams アドオンは、お客様のコミュニケーション エクスペリエンスをさらに向上させるのに役立ちます。 これは、お客様が登録されているどの Microsoft 365 SKU にでも追加して購入できます。
+- **コストはいくらかかりますか?** この商用 ERP は、1 ユーザーあたり月額 12 米国ドルです。 
+- **このアドオンを購入できるのはどの顧客ですか?** 商用、世界中の営利公共部門、教育、非営利。
+- **どのようにして購入できますか?** このアドオンは、EA/EAS、EES、CSP、Web Direct から購入できます。
+- **どこで販売できますか?** 現在のすべての市場で販売できます。
+- **前提条件は何ですか?** Microsoft Teams が含まれる Microsoft 365/Office 365 スイート。
+
+### <a name="next-steps"></a>次の手順
+
+- 組織内の関係者とこの情報を共有し、アップセルとクロスセルの機会を理解します。 [Teams パートナー ガイド](https://aka.ms/teamscallingmeetingsguide)のリソースに関するセクションを参照してください。
+
+________________
+
+## <a name="microsoft-defender-advanced-threat-protection-atp-for-servers-for-education-available-in-september"></a><a name="3">教育機関向けサーバー用 Microsoft Defender Advanced Threat Protection (ATP) が 9 月から提供開始</a>
+### <a name="categories"></a>Categories
+
+- 日付:2020-08-04
+- 製品サービス/市場
+
+### <a name="impacted-audience"></a>対象
+
+CSP プログラムに参加しているすべてのパートナー
+
+### <a name="details"></a>詳細情報
+
+教育機関向けサーバー用 Microsoft Defender Advanced Threat Protection (ATP) は、クラウド ソリューション プロバイダー (CSP) プログラムで 2020 年 9 月 1 日より提供が開始されます。
+
+#### <a name="product-details"></a>［製品の詳細］
+
+- オファー名:教育機関向けサーバー用 Microsoft Defender ATP
+- オファー ID: c7b9ab7e-8f80-4b4b-8aed-dcad61f28995
+
+### <a name="next-steps"></a>次の手順
+
+- この情報を組織内の適切な担当者に共有してください。
+- この製品の詳細については、[Microsoft Defender ATP のドキュメント](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)を参照してください。
 
 ________________
 

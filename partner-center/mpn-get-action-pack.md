@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389131"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998369"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Action Pack サブスクリプションや Silver コンピテンシーと Gold コンピテンシーを購入または更新する
 
@@ -72,6 +72,13 @@ Action Pack について詳しくは、[Microsoft Partner Network](https://partn
 
 購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。 自動更新は、**購入した**プランの一覧からいつでも無効にすることができます。ただし、サブスクリプションをもう一度更新するまで、自動更新を有効に戻すことはできません。 
 
+### <a name="update-your-bill-to-address"></a>請求先住所の更新
+
+Action Pack の更新または購入のプロセスで、請求先住所を確認する機会があります。
+
+ 1. **[送信]** を選択した後で、購入の詳細を確認できます。 住所を更新する必要がある場合は、 **[更新]** を選択します。
+  
+ 1. **[パートナー プロファイル]** ページで、住所を更新します。
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack サブスクリプションの自動更新を無効にする
 

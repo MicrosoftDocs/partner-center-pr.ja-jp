@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0e7aecd7d56e1919c7f142312a9090b8ff40bd3
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
+ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434321"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87839187"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>パートナー センターで作業する必要がある会社のユーザーにユーザーのロールとアクセス許可を割り当てる
 
@@ -46,6 +46,7 @@ ms.locfileid: "86434321"
 ||*    すべてのパートナー プロファイルの表示
 ||*    パートナー ユーザーの表示、作成、管理  |
 |課金管理者 | - 課金、請求書、調整ファイルの表示、作成、管理|
+||*    価格の表示
 |既定のユーザー|  マイ プロフィールの表示   |
 |管理エージェント | *    顧客の管理
 ||*    パートナー センターへのデバイス一覧の追加
@@ -62,6 +63,7 @@ ms.locfileid: "86434321"
 ||*    サブスクリプションの管理
 ||*    サポート チケットの表示
 ||*    顧客との再販業者関係の要求
+||*    価格とオファーの表示
 ||*    潜在顧客の管理
 ||*    顧客契約の表示
 ||*    付加価値リセラーの登録|

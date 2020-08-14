@@ -1,0 +1,523 @@
+- name: Microsoft パートナー センターについて
+  href: index.yml
+- name: アナウンス
+  href: announcements/TOC.md
+- name: Partner Network メンバーシップ
+  href: mpn-overview.md
+  items:
+    - name: パートナー センター アカウントを作成する
+      href: mpn-create-a-partner-center-account.md
+    - name: 職場の電子メール アドレスを取得する
+      href: buy-email-domain.md
+    - name: パートナー センターへの移動
+      items:
+        - name: PAC からの移動 - 概要
+          href: pac-to-pc-overview.md
+        - name: PAC と PC のタスクを比較する
+          href: moving-from-pac-to-pc.md
+        - name: PC で PAC タスクを実行する
+          href: o365-partner-admin-center-to-partner-center.md
+    - name: PMC からの移動
+      items:
+        - name: PMC からの移行の準備
+          href: prepare-pmc-pc-migration.md
+        - name: PMC からの移行ガイド
+          href: guide-to-migration.md
+        - name: PMC と PC を比較する
+          href: move-pmc-pc-map.md
+        - name: 多くの企業を移動する
+          href: move-multiple-companies.md
+        - name: 企業を統合する
+          href: consolidate-accounts.md
+    - name: メンバーシップ オファー
+      items:
+        - name: Action Pack
+          href: mpn-get-action-pack.md
+        - name: プランの更新
+          href: renew-mpn-offers.md
+    - name: コンピテンシー
+      href: learn-about-competencies.md
+    - name: 高度な専門性
+      href: advanced-specializations.md
+    - name: Azure Expert MSP になる
+      href: azure-expert-msp.md
+    - name: メリット
+      items:
+        - name: 利点の概要
+          href: manage-your-partner-network-benefits.md
+        - name: 市場進出の利点
+          href: mpn-learn-about-go-to-market-benefits.md
+        - name: 利点に関する FAQ
+          href: benefits-faq.md
+    - name: Marketplace 報酬
+      href: marketplace-rewards.md
+    - name: ソフトウェア アシュアランス
+      items:
+        - name: プログラムの概要
+          href: software-assurance-lp.md
+        - name: トレーニング受講券 (SATV)
+          href: software-assurance-satv.md
+        - name: 計画サービス (PS)
+          href: software-assurance-dps.md
+          items:
+            - name: 資格要件
+              href: software-assurance-dps-requirements.md
+    - name: 請求と税金
+      items:
+        - name: MPN での請求と税金
+          href: mpn-view-print-maps-invoice.md
+    - name: 新機能のテスト
+      href: test-drive-new-features.md
+- name: クラウド ソリューション プロバイダー (CSP)
+  href: csp-overview.md
+  items:
+    - name: CSP プログラムに登録する
+      href: enrolling-in-the-csp-program.md
+    - name: Microsoft Partner Agreement - CSP
+      href: microsoft-partner-agreement.md
+    - name: CSP の直接パートナーの要件
+      href: direct-partner-new-requirements.md
+    - name: Microsoft 顧客契約 (地域、言語別)
+      href: agreements.md
+    - name: 制限付きの直接請求アクセス
+      href: restricted-direct-bill-capabilities.md
+    - name: CSP 直接請求を間接リセラーに切り替える
+      href: transition-direct-to-indirect.md
+    - name: CSP 契約、価格表、キャンペーン
+      href: csp-documents-and-learning-resources.md
+    - name: CSP 用の Cloudyn 製 Azure Cost Management
+      href: azure-cost-management-app-for-csp-partners.md
+    - name: CSP の地域市場、通貨
+      href: regional-authorization-overview.md
+    - name: CSP の地域承認によるテナント統合の手順
+      href: csp-regional-authorization-tenant-consolidation.md
+    - name: 概要 - Microsoft 顧客契約に対する顧客の同意を確認する新しい方法
+      href: confirm-consent.md
+    - name: Microsoft 顧客契約に対する顧客の同意を確認する方法
+      href: confirm-customer-agreement.md
+    - name: 顧客に代わって顧客契約の同意を証明する場合
+      href: attest-acceptance-customer-agreement.md
+    - name: ナショナル クラウドでの販売の申請
+      href: csp-national-clouds-overview.md
+      items:
+        - name: 米国政府機関向け Microsoft Cloud のパートナー センター
+          href: partner-center-for-microsoft-us-govt-cloud.md
+        - name: FAQ - Microsoft Cloud for US Government
+          href: faq-for-us-govt-cloud.md
+        - name: Microsoft Cloud ドイツのパートナー センター
+          href: partner-center-for-microsoft-cloud-germany.md
+        - name: Microsoft Cloud for US Government の CSP への登録
+          href: enroll-in-csp-for-microsoft-us-govt-cloud.md
+        - name: CSP 向け Office 365 Government GCC の販売
+          href: csp-gcc-overview.md
+        - name: Office 365 Government GCC パートナーと顧客の適格性の条件
+          href: csp-gcc-validate.md
+        - name: Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
+          href: user-management-in-partner-center-for-microsoft-cloud-germany.md
+        - name: 米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理
+          href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
+- name: パートナー センター アカウントを管理する
+  href: partner-center-account-setup.md
+  items:
+    - name: 職場アカウントとパートナー センター
+      href: azure-active-directory-tenants-and-partner-center.md
+    - name: パートナー センターでのアカウント構造
+      href: account-structure.md
+    - name: ドメインの所有者の確認
+      href: become-global-admin.md
+    - name: アカウント情報の確認
+      href: verification-responses.md
+    - name: パートナー アカウントを別のパートナー アカウントにマージする
+      href: merge-accounts.md
+    - name: 追加の Azure AD テナントをパートナー センターのアカウントに関連付ける
+      href: multi-tenant-account.md
+    - name: パートナー プロファイルの更新
+      href: update-your-partner-profile.md
+    - name: 場所
+      href: manage-locations.md
+    - name: コントロール パネル ベンダーとして登録する
+      href: enroll-as-cpv.md
+    - name: 中断されたパートナー センター アカウントの復元
+      href: suspended-partner-center-account.md
+    - name: Azure AD アプリケーションの追加
+      href: service-principal.md
+    - name: Microsoft Learn アカウントとパートナー センターを関連付ける
+      href: ms-learn-associate.md
+- name: パートナー センター アカウントの管理 - ユーザー
+  items:
+    - name: ユーザー アカウントの作成
+      href: create-user-accounts-and-set-permissions.md
+    - name: ユーザー ロールとアクセス許可の割り当て
+      href: permissions-overview.md
+    - name: コントロール パネル ベンダーとして登録する
+      href: enroll-as-cpv.md
+    - name: ユーザーのパスワードのリセット
+      href: reset-a-user-password.md
+    - name: パスワードをリセットする
+      href: reset-my-pasword.md
+    - name: パートナー センターにサインインできない場合
+      href: unable-to-sign-in.md
+- name: パートナー センター アカウントの管理 - ビジネス
+  items:
+    - name: Azure Partner Shared Services の追加
+      href: shared-services.md
+    - name: 料金とプラン
+      href: pricing-and-offers.md
+    - name: カタログのカスタマイズ
+      href: customize-the-catalog.md
+- name: ビジネスを拡大する
+  href: grow-your-business.md
+  items:
+    - name: 紹介の概要
+      href: referrals.md
+      items:
+        - name: 紹介案件への対応
+          href: responding-to-referrals.md
+        - name: ビジネス プロファイルの管理
+          href: create-a-marketing-profile.md
+        - name: リードの管理
+          href: manage-leads.md
+        - name: 共同販売の機会を管理する
+          href: manage-co-sell-opportunities.md
+        - name: Dynamics 365 CRM のための共同販売コネクタ - 概要
+          href: connector-dynamics.md
+        - name: Salesforce CRM のための共同販売コネクタ - 概要
+          href: connector-salesforce.md
+        - name: 取引の登録
+          href: register-deals.md
+        - name: 紹介の分析情報を取得する
+          href: referral-insights.md
+        - name: ビジネス プロファイルの分析
+          href: analyze-your-marketing-profile.md
+    - name: インセンティブ
+      items:
+        - name: インセンティブの概要
+          items:
+            - name: 作業の開始
+              href: incentives-get-started-intro.md
+            - name: プログラムの適格性を確認する
+              href: incentives-determined-your-program-eligibility.md
+            - name: パートナー センターで支払いと税金のプロファイルを作成および管理する
+              href: incentives-create-and-manage-your-payout-and-tax-profiles.md
+            - name: インセンティブの支払いと税金のプロファイルに関する FAQ
+              href: incentives-payout-tax-profile-faqs.md
+            - name: 収益の適格性を確認する
+              href: incentives-confirm-your-earnings-eligibility.md
+            - name: インセンティブの支払いとプログラムを表示する
+              href: understand-incentive-payouts.md
+            - name: インセンティブの支払いページへのアクセス
+              href: incentives-unified-user-guide.md
+        - name: 実行の計画と証明
+          items:
+            - name: プランおよび PoE について
+              href: incentives-plans-proofs-intro.md
+            - name: プランを作成する
+              href: incentives-create-your-plan.md
+            - name: 実行証明を準備する
+              href: incentives-prepare-your-proof-of-execution.md
+        - name: 協力インセンティブの申請
+          items:
+            - name: 協力インセンティブについて
+              href: claims-overview.md
+            - name: 協力インセンティブの申請の作成と管理
+              href: create-incentives-claims.md
+            - name: 協力インセンティブの申請の主要な要件
+              href: core-requirements.md
+            - name: 協力申請の承認と支払期限
+              href: incentives-managing-co-op-claims.md
+        - name: インセンティブの CPOR 関連付けの申請
+          items:
+            - name: CPOR の関連付けについて
+              href: incentives-customer-associations-intro.md
+            - name: CPOR モデルを使用して顧客の関連付けを作成する
+              href: submit-osa-claim.md
+            - name: 顧客の関連付けを管理する
+              href: incentives-manage-customer-associations.md
+            - name: 顧客の関連付けに関する問題
+              href: incentives-customer-association-issues.md
+        - name: 支払いと収益の問題のトラブルシューティング
+          href: incentives-payment-issues.md
+- name: 請求と税金
+  href: billing.md
+  items:
+    - name: 課金の基本
+      href: billing-basics.md
+    - name: パートナー センターでの請求の種類
+      href: billing-different-types.md
+    - name: 課金内容を確認する
+      href: read-your-bill.md
+    - name: 調整ファイルを使う
+      href: use-the-reconciliation-files.md
+    - name: 調整ファイルの料金の種類
+      href: recon-file-charge-types.md
+    - name: パートナー センターで毎日評価される使用量の調整ファイルを読み取る
+      href: daily-rated-usage-recon-files.md
+    - name: ライセンス ベースの調整ファイル
+      href: license-based-recon-files.md
+    - name: 一般的な課金シナリオ
+      href: common-billing-scenarios.md
+      items:
+        - name: 月次請求のシナリオ
+          href: common-billing-scenarios-monthly.md
+        - name: 年次請求のシナリオ
+          href: common-billing-scenarios-annual.md
+        - name: 1 回限りの請求と定期的な料金の選択のシナリオ
+          href: common-billing-scenarios-onetime-recurring.md
+        - name: 請求書 - 請求フィールドと 1 回限りの料金フィールドを読み取る
+          href: invoice-file.md
+        - name: ライセンス ベースの課金
+          href: license-based-billing.md
+        - name: ライセンス ベースの SaaS サブスクリプションのシナリオ
+          href: common-billing-scenarios-saas.md
+    - name: デジタル署名の表示 - パートナー センター (インド)
+      href: digital-signature.md
+    - name: 税金と税金の除外
+      href: tax-and-tax-exemptions.md
+      items:
+        - name: 会社の VAT 情報
+          href: organization-tax-info.md
+        - name: 源泉徴収で税額控除されていることを確認する
+          href: withholding-tax-credit-form.md
+        - name: 'Office 365 パートナー アドバイザリ:CSP プログラムでの Microsoft 365 Business Voice'
+          href: o365-partner-advisory.md
+    - name: Microsoft から SLA クレジットを要求する
+      href: request-credit.md
+    - name: お客様向けに Azure の支出の予算を設定する
+      href: set-an-azure-spending-budget-for-your-customers.md
+    - name: 未払い、詐欺、不正使用の管理
+      href: non-payment--fraud--or-misuse.md
+    - name: 未割り当ての支払いを管理する
+      href: unallocated-payment.md
+- name: お客様とつながる
+  href: customer-accounts.md
+  items:
+    - name: 新しい顧客の追加
+      href: add-a-new-customer.md
+    - name: 顧客との再販業者関係の要求
+      href: request-a-relationship-with-a-customer.md
+    - name: 顧客との再販業者関係の削除
+      href: remove-a-relationship.md
+    - name: 顧客によるパートナーへの管理特権の委任または取り消し
+      href: customers-revoke-admin-privileges.md
+    - name: 顧客一覧の表示
+      href: see-your-customer-list.md
+    - name: 顧客のアクティビティ ログの表示
+      href: activity-logs.md
+    - name: 顧客のアカウント情報の更新
+      href: update-customer-account-info.md
+    - name: 顧客が独自のサービスを購入できるようにする
+      href: give-customers-permission.md
+    - name: 顧客に複数ユーザーを追加する方法
+      href: adding-multiple-users-to-a-customer-account.md
+    - name: 顧客アカウントに複数のユーザーをインポートするためのファイルの必須フィールド
+      href: file-customer-users.md
+    - name: サポート連絡先の指定
+      href: assign-support-contacts.md
+- name: CSP のプラン
+  href: csp-offers.md
+  items:
+    - name: 商業マーケットプレース
+      items:
+        - name: 商業マーケットプレースの概要
+          href: csp-commercial-marketplace-overview.md
+        - name: マーケットプレースのサービスを探す
+          href: csp-commercial-marketplace-discover.md
+        - name: マーケットプレースのサービスを購入する
+          href: csp-commercial-marketplace-purchase.md
+        - name: 独立系ソフトウェア ベンダーからのマーケットプレース限定プラン
+          href: isv-opt-in.md
+        - name: マーケットプレースのサービスを管理する
+          href: csp-commercial-marketplace-manage.md
+        - name: マーケットプレースのサービスの請求
+          href: csp-commercial-marketplace-billing.md
+        - name: マーケットプレースのサービスのサポート
+          href: csp-commercial-marketplace-support.md
+        - name: マーケットプレースで購入するためのコントラクト
+          href: csp-commercial-marketplace-contracting.md
+    - name: Azure の予約
+      href: azure-reservations.md
+      items:
+        - name: 最大限の予約使用に備えた VM サイズ
+          href: azure-usage.md
+        - name: 顧客に代わって Microsoft Azure Reservations を購入する
+          href: azure-reservations-buying.md
+        - name: 顧客に代わって Microsoft Azure Reservations を管理する
+          href: azure-reservations-manage.md
+        - name: Azure Reserved VM Instances (RI) とサーバー サブスクリプション
+          href: azure-ri-server-subscriptions.md
+    - name: Azure CSP で利用可能な Azure サービス
+      href: azure-plan-available.md
+    - name: Azure プラン
+      href: azure-plan-lp.md
+      items:
+        - name: Azure プラン - はじめに
+          href: azure-plan-get-started.md
+        - name: Azure プランを購入する
+          href: purchase-azure-plan.md
+        - name: Azure プランを比較する
+          href: compare-azure-offers.md
+        - name: 顧客の Azure プランへの移行
+          href: azure-plan-transition.md
+        - name: パートナー獲得クレジット - 概要
+          href: partner-earned-credit.md
+        - name: パートナー獲得クレジットの計算方法と支払方法
+          href: partner-earned-credit-explanation.md
+        - name: パートナーの獲得クレジットを獲得できるロールとアクセス許可
+          href: azure-roles-perms-pec.md
+        - name: CSP の新しいコマース エクスペリエンス - Azure の請求
+          href: azure-plan-billing.md
+        - name: Azure 向けの CSP の新しいコマース エクスペリエンスの価格表
+          href: azure-plan-price-list.md
+        - name: Azure プランのサブスクリプションとリソースを管理する
+          href: azure-plan-manage.md
+        - name: Azure CSP サブスクリプションの管理者特権を復元する
+          href: revoke-reinstate-csp.md
+    - name: ソフトウェア サブスクリプション
+      href: csp-software-subscriptions.md
+    - name: CSP プログラムによるオンプレミス ソフトウェアの販売
+      href: csp-on-premise-software.md
+    - name: オンライン サービス (サブスクリプション)
+      href: customer-subscriptions.md
+      items:
+        - name: 顧客のサブスクリプションの作成、中断、取り消し
+          href: create-a-new-subscription.md
+        - name: プロモーションを使用して、新しい顧客の関心を引く
+          href: promotions.md
+        - name: Microsoft 製品の試用版を顧客に提供する
+          href: offer-your-customers-trials-of-microsoft-products.md
+        - name: 商用マーケットプレース製品にサブスクリプションを販売する
+          href: sell-marketplace-products.md
+        - name: パートナー センターでの Azure サブスクリプションの割り当て
+          href: assign-azure-subscriptions.md
+        - name: ユーザーへのライセンスの割り当て
+          href: assign-licenses-to-users.md
+        - name: 既存のサブスクリプションへのライセンスまたはサービスの追加
+          href: add-licenses-or-services-to-an-existing-subscription.md
+        - name: 複数のユーザーへのライセンスの割り当てまたは取り消し
+          href: bulk-license-provisioning-for-multiple-users.md
+        - name: ライセンスベース サービスの顧客をクラウド サービス プロバイダー プログラムに移動する
+          href: transition-seat-based-services.md
+        - name: 'Minecraft: Education Edition のサブスクリプションの販売'
+          href: minecraft-subscriptions.md
+        - name: 特別価格の対象となる業界への販売
+          href: Get-special-pricing-for-offers.md
+        - name: 教育機関のお客様への販売
+          href: sell-to-education-customers.md
+        - name: 導入実績と満足度の向上
+          href: increasing-adoption-and-satisfaction.md
+        - name: Windows Autopilot でデバイスのセットアップを効率化する
+          href: autopilot.md
+    - name: 製品を新しいバージョンにアップグレードまたは転送する
+      items:
+        - name: Dynamics AX サブスクリプションを Dynamics 365 にアップグレードする
+          href: manual-subscription-migration.md
+        - name: Dynamics 365 Business Edition プランの新しいバージョンへの移行
+          href: migrate-dynamics-365-to-new.md
+        - name: Office 365 Enterprise E4 サブスクリプションの Office 365 の新しいバージョンへの移行
+          href: migrate-office365-e4-subscriptions-to-newer-versions.md
+        - name: Skype for Business Online プラン 1 の新しい Office 365 バージョンへの移行
+          href: skype-retiring.md
+        - name: Azure サブスクリプションの譲渡
+          href: switch-azure-subscriptions-to-a-different-partner.md
+        - name: Kaizala Pro サブスクリプションを Microsoft 365 に移行する
+          href: migrate-kaizala-pro-partner.md
+    - name: Office 365 を販売するアドバイザー
+      items:
+        - name: Office 365 試用版への招待を作成する
+          href: advisors-create-a-trial-invitation.md
+        - name: Office 365 試用版を持つクライアントを追加する
+          href: advisors-build-your-business.md
+        - name: Office 365 購入プランを作成する
+          href: advisor-create-a-purchase-offer.md
+- name: パートナー センターのデータと分析
+  items:
+    - name: ユーザー データと分析へのアクセスを取得する
+      href: data-analysis-lp.md
+    - name: Power BI 用パートナー センター分析アプリ
+      items:
+        - name: Power BI 用パートナー センター分析アプリの概要
+          href: power-bi-app-for-direct-partners.md
+        - name: Power BI 用パートナー センター分析アプリをインストールする
+          href: power-bi-app-for-direct-partners-install.md
+        - name: Power BI 用パートナー センター分析アプリを使用する
+          href: power-bi-app-for-direct-partners-use.md
+    - name: パートナー センター インサイト
+      href: partner-center-insights.md
+      items:
+        - name: Insights - 概要ダッシュボード
+          href: pci-overview-report.md
+        - name: Insights - Insights ダッシュボードへのロールベースのアクセス制御
+          href: pci-roles.md
+        - name: Insights - 顧客ダッシュボード
+          href: pci-customer-report.md
+        - name: Insights - 製品サブスクリプション ダッシュボード
+          href: pci-product-subscriptions-report.md
+        - name: Insights - 製品ライセンスダッシュボード
+          href: pci-product-licenses-report.md
+        - name: Insights - Azure の利用状況ダッシュボード
+          href: pci-azure-usage-report.md
+        - name: Insights - トレーニング ダッシュボード
+          href: pci-training-dashboard.md
+        - name: Insights - コンピテンシー レポート
+          href: pci-competencies-report.md
+        - name: Insights - 特典レポート
+          href: pci-benefits-report.md
+        - name: Insights - 既知の問題
+          href: pci-known-issues.md
+        - name: Insights - レポートのダウンロード
+          href: pci-download-reports.md
+    - name: パートナー貢献度インジケーター
+      href: partner-contribution-indicators.md
+    - name: 顧客の Azure サブスクリプションの利用状況に関するデータの取得
+      href: analyze-azure-usage.md
+    - name: 間接リセラーのパフォーマンス分析
+      href: analyze-indirect-resellers.md
+    - name: サブスクリプションとライセンスの分析
+      href: analyze-subscriptions-licenses.md
+- name: 他のパートナーとの連携
+  href: work-with-other-partners.md
+  items:
+    - name: パートナー センターでの間接プロバイダーの作業
+      href: indirect-provider-tasks-in-partner-center.md
+    - name: パートナー センターでの間接リセラーの作業
+      href: indirect-reseller-tasks-in-partner-center.md
+    - name: サポートされる CSP パートナー関係
+      href: csp-supported-partner-relationships.md
+    - name: マルチチャンネルのサポート
+      href: multichannel.md
+    - name: マルチパートナーのサポート
+      href: multipartner.md
+- name: マイクロソフトのサポートを受ける
+  href: support-from-microsoft.md
+  items:
+    - name: パートナー センターに関する問題を報告する
+      href: report-problems-with-partner-center.md
+    - name: 顧客の代理で問題を報告する
+      href: report-problems-on-behalf-of-a-customer.md
+    - name: Microsoft の API で自動サービス通知を取得する
+      href: get-automated-service-notifications-with-our-apis.md
+- name: 顧客へのサポート提供
+  href: customer-support.md
+  items:
+    - name: サービスの正常性の確認
+      href: check-service-health.md
+    - name: 課金のサポートを提供する
+      href: provide-billing-support.md
+    - name: テクニカル サポートを提供する
+      href: provide-technical-support.md
+    - name: Microsoft から顧客への通信
+      href: customer-communication-from-microsoft.md
+    - name: お客様のセルフ サポート
+      href: customer-self-support.md
+    - name: Microsoft に問題をエスカレートする
+      href: escalate-problems-to-microsoft.md
+- name: セキュリティ要件
+  items:
+    - name: 概要
+      href: partner-security-requirements.md
+    - name: パートナー テナントに MFA を義務付ける
+      href: partner-security-requirements-mandating-mfa.md
+    - name: 要件の状態
+      href: partner-security-compliance.md
+    - name: よく寄せられる質問
+      href: partner-security-requirements-faq.md
