@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4aca8154965bbce3c4d2c100478756f6e9dd1e4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d7954f40294202750d0b6d51102f68ea694b07c3
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434461"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239030"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>パートナーセンターインサイトからの顧客ダッシュボードレポート
 
@@ -61,7 +61,7 @@ Customers ダッシュボードには、次のセクションがあります。
 
 **顧客の地理的拡散**
 
-選択した日付範囲内に新しく追加された現在の顧客、現在のアクティブな顧客、および顧客の数は、お客様の国を使用して geo マップされます。 メトリックの下に表示されるパーセンテージは、そのメトリックのその国の合計に占める割合を示します。 マップにカーソルを合わせると、その国の合計、アクティブ、新規顧客を表示できます。 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [**ホーム**] ボタンを選択して、元のビューに戻します。 グリッド内のすべての列は並べ替え可能です。  
+選択した日付範囲内に新しく追加された現在の顧客、現在のアクティブな顧客、および顧客の数は、お客様の国を使用して geo マップされます。 メトリックの下に表示されるパーセンテージは、そのメトリックのその国の合計に占める割合を示します。 マップにカーソルを合わせると、その国の合計、アクティブ、新規顧客を表示できます。 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [ **ホーム** ] ボタンを選択して、元のビューに戻します。 グリッド内のすべての列は並べ替え可能です。  
 
 :::image type="content" source="images/pci/customersgeo.png" alt-text="Geo 別のパートナーセンターの Insights の顧客レポートのスクリーンショット世界地図と、地域別の合計、追加、新規顧客の一覧が表示されます。":::
 
@@ -96,3 +96,6 @@ Customers ダッシュボードには、次のセクションがあります。
 ## <a name="next-steps"></a>次のステップ
 
 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
+
+>[!NOTE] 
+> このレポートを作成する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 
