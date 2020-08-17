@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 07ebb79d38a0340129fdc590bc873c9fd7ed05c9
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811162"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220203"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,8 @@ ms.locfileid: "87811162"
 
 | **カテゴリ** | **2020 年 8 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[.NET Standard v1.16.1 の SDK リリース](2020-august.md#6)|8 月 12 日|
+|機能|[Microsoft Project および Microsoft Visio のセルフサービス購入が近日対応予定](2020-august.md#5)|8 月 12 日|
 |製品サービス/市場|[新しい Microsoft Teams Advanced Communications SKU が利用可能](2020-august.md#4)|8 月 4 日|
 |製品サービス/市場|[9 月に利用可能となる教育機関向けサーバーの Microsoft Defender Advanced Threat Protection (ATP)](2020-august.md#3)|8 月 4 日|
 |製品サービス/市場|[新しい Dynamics 365 Sales Premium バンドル プラン](2020-august.md#2)|8 月 3 日|
@@ -86,7 +88,7 @@ ms.locfileid: "87811162"
 | **カテゴリ** | **2020 年 1 月のお知らせ** | **日付** |
 | プラン/市場 | [2020 年 2 月 1 日、ロシアのクラウド ソリューション プロバイダー (CSP) パートナーに対して Windows Server と SQL Server のサブスクリプションの提供が開始](2020-january.md#7) | 1 月 31 日 |
 | プラン/市場 | [Microsoft 365 F1 の Meeting Room と Meetings アドオンが、Government Community Cloud (GCC) で利用可能](2020-january.md#6) | 1 月 29 日 |
-| 機能 | [Microsoft 365 F1 の Meeting Room と Meetings アドオンが、Government Community Cloud (GCC) で利用可能](2020-january.md#5) | 1 月 28 日 |
+| 機能 | [提供中。米国内商用利用のお客様向けの Power Apps および Power Automate のセルフサービス購入](2020-january.md#5) | 1 月 28 日 |
 | 機能 | [パートナー センターでの新しいレポート ダッシュボードを発表](2020-january.md#4) |1 月 27 日 |
 | 機能 | [Microsoft 顧客契約への同意を 2020 年 1 月 31 日までに確認](2020-january.md#3) | 1 月 27 日 |
 | 機能 | [2020 年 1 月の価格表とオファーの更新スケジュール](2020-january.md#2) | 1 月 7 日 |
