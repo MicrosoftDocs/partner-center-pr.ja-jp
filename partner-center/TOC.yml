@@ -276,7 +276,7 @@
       items:
         - name: 会社の VAT 情報
           href: organization-tax-info.md
-        - name: 源泉徴収で税額控除されていることを確認する
+        - name: 源泉徴収のためのクレジットを受け取る
           href: withholding-tax-credit-form.md
         - name: 'Office 365 パートナー アドバイザリ:CSP プログラムでの Microsoft 365 Business Voice'
           href: o365-partner-advisory.md
@@ -458,6 +458,8 @@
           href: pci-azure-usage-report.md
         - name: Insights - トレーニング ダッシュボード
           href: pci-training-dashboard.md
+        - name: Insights - Microsoft Learn 分析
+          href: ms-learn-analytics.md
         - name: Insights - コンピテンシー レポート
           href: pci-competencies-report.md
         - name: Insights - 特典レポート
