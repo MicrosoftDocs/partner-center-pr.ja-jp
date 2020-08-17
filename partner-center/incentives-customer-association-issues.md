@@ -4,16 +4,16 @@ description: 要求されたパートナーのレコード (CPOR) の顧客関�
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 69c0eb822ed8bf2ff09d7fc4a37e920dc123133a
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546013"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303258"
 ---
 # <a name="customer-association-issues"></a>顧客の関連付けに関する問題
 
@@ -48,11 +48,11 @@ CPOR アソシエーション要求フローでは、Business Applications (Dyna
 
 サブスクリプションの精度に関する質問がある場合は、お客様と協力して、サブスクリプションが正しいこと、および正しいテナント ID を使用していることを確認してください。
 
-このルートが問題を解決していない場合は、[サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
+このルートが問題を解決していない場合は、 [サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
 
 ## <a name="when-subscriptions-will-be-available-to-claim"></a>サブスクリプションが要求に使用できるようになるタイミング
 
-サブスクリプションを要求するときに、サブスクリプションがまだプロビジョニングされていない場合は、エラーが表示されます。 お客様がサブスクリプションを取得して要求に使用できるようにするために、お客様がサブスクリプションを利用できるようにするには、いくつかの手順を実行する必要があります。 サブスクリプションを要求しているときにエラーが発生した場合は、顧客に連絡して、サブスクリプションがプロビジョニングされていること、および要求されているサブスクリプションが正しいことを確認してください。 このルートを既に取得している場合は、[サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
+サブスクリプションを要求するときに、サブスクリプションがまだプロビジョニングされていない場合は、エラーが表示されます。 お客様がサブスクリプションを取得して要求に使用できるようにするために、お客様がサブスクリプションを利用できるようにするには、いくつかの手順を実行する必要があります。 サブスクリプションを要求しているときにエラーが発生した場合は、顧客に連絡して、サブスクリプションがプロビジョニングされていること、および要求されているサブスクリプションが正しいことを確認してください。 このルートを既に取得している場合は、 [サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
 
 ## <a name="which-activity-do-i-choose"></a>どのアクティビティを選択しますか?
 
@@ -72,7 +72,7 @@ CPOR アソシエーション要求のフローでは、エンドユーザーが
 
 使用する MPN がわからない場合は、全体管理者に問い合わせてください。
 
-使用しようとしている MPN が登録されていない場合は、[[インセンティブの概要] タブ](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)で管理できます。
+使用しようとしている MPN が登録されていない場合は、[ [インセンティブの概要] タブ](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)で管理できます。
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>製品の選択とサブスクリプションの入力
 
@@ -88,7 +88,7 @@ Dynamics 製品が要求され、承認されると、パートナーは CPOR �
 
 3. 両方のパートナーから追加情報が要求されている可能性があります。これにより、アソシエーション要求の処理に遅延が生じる可能性があります。
 
-4. お客様の CPOR はアソシエーションの要求は、5営業日以内に確認されますが、その状態は長期間にわたって_レビュー中_のままになる可能性があります。 このシナリオは、Microsoft が現在製品/ワークロードを所有しているパートナーと協力している場合に発生する可能性があります。 その場合は、要求のコメントセクション内で通知されます。 
+4. お客様の CPOR はアソシエーションの要求は、5営業日以内に確認されますが、その状態は長期間にわたって _レビュー中_ のままになる可能性があります。 このシナリオは、Microsoft が現在製品/ワークロードを所有しているパートナーと協力している場合に発生する可能性があります。 その場合は、要求のコメントセクション内で通知されます。 
 
 >[!IMPORTANT]
 >CPOR association PoE を確認するための追加情報が必要な場合は、CPOR アソシエーション要求のコメントに関するセクションを参照してください。

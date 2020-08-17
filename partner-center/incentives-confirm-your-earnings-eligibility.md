@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: 利益を獲得し、インセンティブプログラムで支払うことができることを確認します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: d8605b564e65473e0f83139c44b2846e5d260292
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 28671cb44f254d9ad660aa67e5a739df4e024d26
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546033"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303268"
 ---
 # <a name="confirm-your-earnings-eligibility"></a>収益の適格性を確認する
 
@@ -34,7 +34,7 @@ ms.locfileid: "87546033"
 2. 下にスクロールして、目的のプログラムのドキュメントにアクセスし、該当するプログラムのドキュメントリンクをクリックします。
 3. ドキュメントの **[Partner eligibility]\(パートナーの適格性\)** セクションと **[Eligible revenue rules]\(対象となる収益のルール\)** セクションを参照します。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [インセンティブについてサポートに問い合わせる方法](https://support.microsoft.com/help/4014850)
 - [パートナーセンターで自分のグローバル管理者またはアカウント管理者を見つける操作方法](https://support.microsoft.com/help/4534519)

@@ -4,16 +4,16 @@ description: パートナーのパートナーリソース (CPOR) モデルを�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 2adf7ec9b3eb35e4fef4791de82b9104e7203329
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: cb9f5b6b6ddfbd9da90543152ee23ce6673ea720
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88110584"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303238"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-microsoft-incentives-programs"></a>これらのリソースを使用して、特定の Microsoft インセンティブプログラムに対する顧客の関連付けの要求を行う
 
@@ -57,7 +57,7 @@ Microsoft はすべてのインセンティブ要求を検証します。
 |顧客の関連付けを管理する方法を理解する  | [顧客の関連付けを管理する](incentives-manage-customer-associations.md)  |
 |顧客の関連付けに関する問題のトラブルシューティング  | [顧客の関連付けに関する問題](incentives-customer-association-issues.md)  |
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - インセンティブは初めてですか? [作業を開始](incentives-get-started-intro.md)するために必要なものを見つける
 - [インセンティブ共同要求の](claims-overview.md)詳細情報

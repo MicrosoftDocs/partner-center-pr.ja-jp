@@ -1,21 +1,21 @@
 ---
-title: 共同操作要求の管理
+title: 協力申請の管理
 description: 期限、通貨の問題、拒否された共同操作要求を争議する方法など、共同作業要求プロセスについて理解します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 4d164eed72906b8fd04700865c7320c7fc23f11f
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545973"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303198"
 ---
-# <a name="manage-co-op-claims"></a>共同操作要求の管理
+# <a name="manage-co-op-claims"></a>協力申請の管理
 
 適用対象:
 
@@ -37,7 +37,7 @@ ms.locfileid: "87545973"
 
 - 送信
 - レビュー中
-  - Microsoft は、送信される要求の2営業日以内にレビューを完了します。 状態が2日以上経過している場合は、[サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
+  - Microsoft は、送信される要求の2営業日以内にレビューを完了します。 状態が2日以上経過している場合は、 [サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
 - 必要な操作
 - 編集中
 - Approved

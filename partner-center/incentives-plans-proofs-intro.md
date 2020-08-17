@@ -4,16 +4,16 @@ description: インセンティブに必要な主要ドキュメントについ�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4b65252b48d9be0c26600721427f9a95ea2266be
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 90bdb6300bd0a7a74b719a064bcf41ef901b40de
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88110577"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303138"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>これらのリソースを使用して、インセンティブプランと実行の実験を作成してください
 
@@ -36,7 +36,7 @@ ms.locfileid: "88110577"
 
 ## <a name="what-is-an-incentives-co-op-claims-plan"></a>インセンティブ共同要求計画とは
 
-インセンティブ共同要求計画では、プログラムを成功させるために必要なマーケティングキャンペーン、活動、およびその他の詳細について説明します。 このプランを作成したら、承認のために Microsoft に送信します。 詳細については[、プランの作成](incentives-create-your-plan.md)に関するページを参照してください。
+インセンティブ共同要求計画では、プログラムを成功させるために必要なマーケティングキャンペーン、活動、およびその他の詳細について説明します。 このプランを作成したら、承認のために Microsoft に送信します。 詳細については [、プランの作成](incentives-create-your-plan.md)に関するページを参照してください。
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>実行の証明 (PoE) とは何ですか。
 
@@ -53,7 +53,7 @@ ms.locfileid: "88110577"
 | インセンティブ共同要求計画を作成する方法について説明します | [プランを作成する](incentives-create-your-plan.md)  |
 実行の証明を作成する方法について説明します | [実行証明を準備する](incentives-prepare-your-proof-of-execution.md)  |
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [独自のプランを作成](incentives-create-your-plan.md)する方法について説明します
 - [インセンティブ共同要求プロセス](claims-overview.md)の詳細情報

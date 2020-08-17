@@ -4,16 +4,16 @@ description: 要求されたレコードのパートナー (CPOR) の顧客の�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6a98d14bbbe614d0d57a3d1032b93b8cd43119e1
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545993"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303178"
 ---
 # <a name="manage-customer-associations"></a>顧客の関連付けを管理する
 
@@ -79,7 +79,7 @@ CPOR またはアソシエーション要求が拒否された場合、拒否に
 
 1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 2. 争議する要求を開きます。
-3. [要求] ページで、[**争議**] を選択します。
+3. [要求] ページで、[ **争議**] を選択します。
 4. ビジネスの妥当性や更新された PoE を入力して、拒否する理由を説明します。
 5. 情報の追加が完了したら、 **[Dispute]\(争議\)** を選択します。 レビュー担当者は5営業日以内に結果をお問い合わせください。
 
@@ -121,4 +121,4 @@ CPOR アソシエーション要求が承認されると、お客様に通知が
 
 ## <a name="view-claim-history"></a>要求履歴の表示
 
-CPOR アソシエーション要求では、右上に [**履歴**] ボタンがあります。このボタンを使用すると、パートナーおよびレビュー担当者の観点から、この要求に対して行われたすべての変更、コメント、およびアクションを確認できます。
+CPOR アソシエーション要求では、右上に [ **履歴** ] ボタンがあります。このボタンを使用すると、パートナーおよびレビュー担当者の観点から、この要求に対して行われたすべての変更、コメント、およびアクションを確認できます。

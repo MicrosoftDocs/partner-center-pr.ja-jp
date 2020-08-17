@@ -5,15 +5,15 @@ ms.date: 07/21/2020
 description: インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: kim-davis
-ms.author: kimnich
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 29c77cd06964bf00e7506738c92f5764a678e605
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545913"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303148"
 ---
 # <a name="incentives-payout-and-tax-profile-faqs"></a>インセンティブの支払いと税金のプロファイルに関する FAQ
 
@@ -35,11 +35,11 @@ Microsoft インセンティブプログラムの支払いを受け取るには�
 
 新しいインセンティブプログラムに登録するすべてのパートナーは、登録を完了するために有効な支払いと税金の詳細を提供する必要があります。
 
-また、インセンティブプログラムのルールが変更された場合、またはプロファイルのアスペクトが期限切れになった場合や古くなった場合にも、更新された情報を提供する必要があります。 この場合、[概要] ページに [**アクションが必要] の状態 (更新プログラムの銀行または税プロファイル)** が表示されます。
+また、インセンティブプログラムのルールが変更された場合、またはプロファイルのアスペクトが期限切れになった場合や古くなった場合にも、更新された情報を提供する必要があります。 この場合、[概要] ページに [ **アクションが必要] の状態 (更新プログラムの銀行または税プロファイル)** が表示されます。
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>支払い/税金の詳細を提供/更新するには、どうすればよいですか?
 
-パートナーセンターで支払いと税金の詳細を更新する方法の詳細については、「[パートナーセンターで銀行と税金のプロファイルを作成および管理する方法](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center)」を参照してください。
+パートナー センターで支払いおよび税金の詳細を更新する方法の詳細については、「[パートナーセンターで銀行および税のプロファイルを作成および管理する方法](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center)」を参照してください。
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>支払いおよび税務プロファイルを割り当てるとき、登録が表示されないのはなぜですか?
 
@@ -53,7 +53,7 @@ Microsoft インセンティブプログラムの支払いを受け取るには�
 
 2. 歯車アイコンを選択して **[設定]** メニューを開きます。
 
-3. [**パートナーの設定**] を選択します。
+3. [ **パートナーの設定**] を選択します。
 
 4. **[アカウントの設定]** で、 **[Payout and tax]\(支払いと税金\)** を選択し、 **[Payout and tax profile]\(支払いおよび税務プロファイル\)** を選択します。 既存のすべての支払いおよび税務プロファイルとその状態が、編集可能な状態で表示されます。
 
@@ -69,6 +69,6 @@ MPN の場所に対して作成された税務プロファイルは、その MPN
 
 ドメインを AAD アカウントに追加するには、アカウント管理者に連絡してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [パートナー センターでの支払いプロファイルと税務プロファイル](incentives-create-and-manage-your-payout-and-tax-profiles.md)
