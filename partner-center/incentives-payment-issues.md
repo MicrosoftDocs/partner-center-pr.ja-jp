@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: 収益の不足や不適切な利益、適格性の問題、インセンティブ収益の調整方法などの問題を解決する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c56fe41d6a12a2e6337dba5bc611124eeaf3429
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 9cb278d51235ef7c306691e2926925b0a2396e7e
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545923"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303158"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>支払いと収益の問題のトラブルシューティング
 
@@ -33,11 +33,11 @@ ms.locfileid: "87545923"
 
 ## <a name="how-long-does-it-take-for-microsoft-to-approve-my-pending-payout-andor-tax-profiles"></a>保留中の支払い/税務プロファイルの承認には、どのくらい時間がかかりますか?
 
-検証には最大 48 時間かかることがあります。 その間、[概要] ページのプロファイルの状態は "登録の検証中" になります。 プロセスが完了すると、状態は [成功した場合は**登録**済み]、または必要に応じて [**アクションが必要]** と表示されます。
+検証には最大 48 時間かかることがあります。 その間、[概要] ページのプロファイルの状態は "登録の検証中" になります。 プロセスが完了すると、状態は [成功した場合は **登録** 済み]、または必要に応じて [ **アクションが必要]** と表示されます。
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>支払いおよび税務プロファイルが正しく完了しているかどうかを確認するには、どうすればよいですか?
 
-登録の状態は [概要] ページに表示されます。 プロファイルの作成が完了すると、状態が [**登録の検証**中] になります。 情報が検証されると、状態が [**登録**済み] に変わります。 これは、支払いおよび税務プロファイルの登録が正常に完了したことを示しています。
+登録の状態は [概要] ページに表示されます。 プロファイルの作成が完了すると、状態が [ **登録の検証**中] になります。 情報が検証されると、状態が [ **登録**済み] に変わります。 これは、支払いおよび税務プロファイルの登録が正常に完了したことを示しています。
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>税務プロファイルを更新しないと、そのプロファイルを新しいインセンティブ プログラムで使用できないのはなぜですか?
 
@@ -56,21 +56,21 @@ ms.locfileid: "87545923"
 
   **資格を確認するには**
 
-  1. パートナーセンターにサインインします。[パートナーインセンティブ](https://partner.microsoft.com/membership/partner-incentives)。
+  1. パートナーセンターにサインインします。 [パートナーインセンティブ](https://partner.microsoft.com/membership/partner-incentives)。
   
   2. プログラムのドキュメントまで下にスクロールします。
   
-  3. 目的のドキュメントリンクを選択し、「**パートナーの資格**と適格な**収益ルール**」セクションを確認します。
+  3. 目的のドキュメントリンクを選択し、「 **パートナーの資格** と適格な **収益ルール**」セクションを確認します。
 
 - **支払いプロファイルが不完全である可能性があります。** インセンティブの収益の開始日は、すべての適格性の要件 (支払いと税金でのオンボードの詳細を含む) を完了した月の最初の日になります。 支払いおよび税務プロファイルが完了する前の数か月は収益を利用できません。 たとえば、2020 年 4 月にすべての要件を満たした場合、収益の開始日は 2020 年 4 月 1 日になります。
 - **未処理のアクションがある可能性があり**ます。  未処理のアクションが保留中になっているため、インセンティブが処理されていない可能性があります。
 
   **未処理のアクションを表示するには**
 
-  1. パートナーセンターにサインインします。[パートナーインセンティブ](https://partner.microsoft.com/membership/partner-incentives)。
-  2. [**トランザクションの履歴**] ページを開きます。 このページのフィールドを確認して、**保留中の税プロファイル**、**保留中の支払いプロファイル**、または**保留中の税金請求書の送信**など、未処理のアクションを実行します。
+  1. パートナーセンターにサインインします。 [パートナーインセンティブ](https://partner.microsoft.com/membership/partner-incentives)。
+  2. [ **トランザクションの履歴** ] ページを開きます。 このページのフィールドを確認して、 **保留中の税プロファイル**、 **保留中の支払いプロファイル**、または **保留中の税金請求書の送信**など、未処理のアクションを実行します。
 
-これらのアクションが役に立ちませんが、支払いがまだ見つからないか間違っている場合は、[サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
+これらのアクションが役に立ちませんが、支払いがまだ見つからないか間違っている場合は、 [サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>協力申請の支払いが 2 つの異なる通貨で行われるのはなぜですか?
 
@@ -88,7 +88,7 @@ ms.locfileid: "87545923"
 
 - **支払いプロファイルが不完全である可能性があります。**  インセンティブの収益の開始日は、すべての適格性の要件 (支払いと税金でのオンボードの詳細を含む) を完了した月の最初の日になります。 支払いおよび税務プロファイルが完了する前の数か月は収益を利用できません。 たとえば、2020 年 4 月にすべての要件を満たした場合、収益の開始日は 2020 年 4 月 1 日になります。
 
-支払いと税金の詳細を使用したオンボードなどの有資格要件を満たしていても、収益がまだない場合は、[サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
+支払いと税金の詳細を使用したオンボードなどの有資格要件を満たしていても、収益がまだない場合は、 [サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
 
 ## <a name="my-earnings-are-missing-or-incorrect"></a>収益が不足しているか、正しくありません
 
@@ -98,7 +98,7 @@ ms.locfileid: "87545923"
 
 - **不一致が存在する可能性があります。**  パートナーの適格性と対象となる収益のルールの両方を満たしていても、収益が正しく表示されない場合は、[収益と支払いの不一致を特定する方法](https://support.microsoft.com/help/4534675)に関する記事を参照して、すべての収益とそれぞれの取引にアクセスする手順を確認してください。
 
-これらのアクションが役に立ちませんが、まだ収益を得られない場合や、収益が間違っていると思われる場合は、[サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
+これらのアクションが役に立ちませんが、まだ収益を得られない場合や、収益が間違っていると思われる場合は、 [サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
 
 ## <a name="how-do-i-reconcile-my-earnings"></a>収益を調整操作方法
 
@@ -120,4 +120,4 @@ ms.locfileid: "87545923"
 
 2. サインインしたら、下にスクロールして興味のあるプログラムのドキュメントにアクセスし、該当するプログラムのドキュメント リンクをクリックします。
 
-3. ドキュメントの「**プログラムの構造と料金**」セクションを参照してください。
+3. ドキュメントの「 **プログラムの構造と料金**」セクションを参照してください。
