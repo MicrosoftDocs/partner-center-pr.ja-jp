@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 07ebb79d38a0340129fdc590bc873c9fd7ed05c9
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: b34cfc1448ba97d663b8dc89f424905775f9766c
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220203"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303288"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "88220203"
 
 | **カテゴリ** | **2020 年 8 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[Microsoft 365 Voice プロモーションの更新](2020-august.md#7)|8 月 14 日|
 |機能|[.NET Standard v1.16.1 の SDK リリース](2020-august.md#6)|8 月 12 日|
 |機能|[Microsoft Project および Microsoft Visio のセルフサービス購入が近日対応予定](2020-august.md#5)|8 月 12 日|
 |製品サービス/市場|[新しい Microsoft Teams Advanced Communications SKU が利用可能](2020-august.md#4)|8 月 4 日|
