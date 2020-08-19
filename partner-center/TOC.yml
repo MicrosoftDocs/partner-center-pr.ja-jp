@@ -171,8 +171,6 @@
     - name: 紹介の概要
       href: referrals.md
       items:
-        - name: 紹介案件への対応
-          href: responding-to-referrals.md
         - name: ビジネス プロファイルの管理
           href: create-a-marketing-profile.md
         - name: リードの管理
@@ -193,8 +191,12 @@
       items:
         - name: インセンティブの概要
           items:
+            - name: よく寄せられる質問
+              href: incentives-faq.md
             - name: 作業の開始
               href: incentives-get-started-intro.md
+            - name: インセンティブ プログラムに登録する
+              href: incentives-enroll.md
             - name: プログラムの適格性を確認する
               href: incentives-determined-your-program-eligibility.md
             - name: パートナー センターで支払いと税金のプロファイルを作成および管理する
