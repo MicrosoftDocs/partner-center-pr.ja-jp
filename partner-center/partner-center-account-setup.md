@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
+ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365778"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88215577"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>パートナー センター アカウントの管理 - 会社のプロファイル、銀行に関する情報、ロール、アクセス許可など
 
@@ -118,6 +118,7 @@ MPN プログラムやクラウド ソリューション プロバイダー (CSP
 |-----------------------|:-----------------------|
 |自社のプロファイルが最新であることを確認する   |[パートナー プロファイルの更新](update-your-partner-profile.md)|
 |新規ユーザーを追加する|[ユーザー アカウントの作成とアクセス許可の設定](create-user-accounts-and-set-permissions.md)|
+|検証の状態を確認する|[アカウント情報の確認](verification-responses.md)|
 |パートナー センターで作業する必要がある貴社のすべてのユーザーにロールを割り当てる必要がある。 各ロールには、特定のアクセス許可と、そのロールで利用可能なタスクがある。|[ユーザー アカウントの作成とアクセス許可の設定](create-user-accounts-and-set-permissions.md)|
 |各ロールのアクセス許可を確認する|[ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
 |会社の場所を管理する|[パートナー アカウントの管理: 場所](manage-locations.md)
@@ -127,3 +128,4 @@ MPN プログラムやクラウド ソリューション プロバイダー (CSP
 |市場で顧客が自社を検索できるようにマーケティングする   |[ビジネス プロファイルの作成](create-a-marketing-profile.md)|
 |最も重要な製品が一覧の先頭になるようにカタログを整理する   |[カタログのカスタマイズ](customize-the-catalog.md)|
 |料金とプランを常に最新の状態に維持する   |[料金とプラン](pricing-and-offers.md)|
+|API:パートナーの MPN ID を検証する|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]

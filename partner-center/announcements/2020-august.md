@@ -8,19 +8,101 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/03/2020
-ms.openlocfilehash: 10416b9054cc01669fd8a9cc0606f8ecdb565fd9
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.date: 08/14/2020
+ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811102"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303058"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月のお知らせ
 
 このページでは、2020 年 8 月の Microsoft パートナー センターのお知らせについて詳しく説明します。
 
 2020 年のお知らせ:[1 月](2020-january.md) | [2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | 8 月
+
+________________
+
+## <a name="updates-to-the-microsoft-365-voice-promotion"></a><a name="7"></a>Microsoft 365 Voice プロモーションの更新 
+
+### <a name="categories"></a>［カテゴリ］
+
+- 日付:2020-08-14
+- 製品サービス/市場
+
+### <a name="details"></a>詳細
+
+以前に発表された Microsoft 365 Business Voice プロモーションが一部更新されました。 詳細を確認するには、[パートナー センターのリソース ギャラリー](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf)にアクセスしてください。 
+
+________________
+
+## <a name="sdk-release-on-net-standard-v1161"></a><a name="6"></a>.NET Standard (v1.16.1) の SDK リリース
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-08-12
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+パートナー センターの .NET SDK を使用している、CSP プログラムに参加している直接請求パートナーと間接プロバイダー。 
+
+### <a name="summary"></a>要約
+
+2020 年 7 月 21 日より、パートナーは、更新された**パートナー センター SDK GitHub の公開サンプル**と共に、 **.NET Standard SDK Microsoft パートナー センター**の .NET SDK v1.16.1 バージョンのダウンロードを開始できます。
+
+### <a name="details"></a>詳細
+
+CSP プログラムに参加している直接請求パートナーと間接プロバイダーは、最新バージョンの .NET Standard SDK をダウンロードする資格があります。 これらの変更により、SDK と、.NET Framework 4.6.1 以降を使用する既存のアプリケーションとの互換性が確保されます。 .NET Standard では、.NET Core 2.0 以降がサポートされます。
+
+.NET Standard の SDK を要求するパートナーからの非常に大きな需要がありました。 現在のバージョンの SDK では、パートナーは ASP.NET Framework で記述されたアプリケーションを使用するように強制されます。これは、.NET Core アプリケーションと比べて遅く、コストがかかります。 そのため、.NET Standard への移行は、パフォーマンスや .NET Core との互換性に関する問題への対処に役立ちます。
+ 
+**概要**
+- .NET Framework 4.8 はその系列の最後であるため、Microsoft から今後のリリースはありません。
+- ほとんどのライブラリが .NET Core または .NET Standard 向けにリリースされ、現在の Framework バージョンをサポートしていない可能性があるため、今後の開発を制限してください。
+- .NET Core は、軽量な性質を備えているため、コンテナーと共に使用することをお勧めします。
+- Windows Server および Linux 用の高パフォーマンス サーバー ランタイムを使用すると、.NET Core は最善の性能の Web フレームワークとなります。
+
+### <a name="next-steps"></a>次の手順
+
+- 最新バージョンの [.NET SDK v1.16.1](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.1) をダウンロードする
+- バージョン: .NET SDK v1.16.1
+- サンプル コード:[サンプル コード](https://github.com/microsoft/Partner-Center-DotNet-Samples)
+- 一般提供:2020 年 8 月 12 日
+- 現在のリリースの一部として、新しい API の変更はありません
+
+________________
+
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-coming-soon"></a><a name="5"></a>Microsoft Project および Microsoft Visio のセルフサービスによる購入が近日対応予定
+### <a name="categories"></a>Categories
+
+- 日付:2020-08-12
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+法人契約のお客様にオンライン サービスを販売しているパートナー
+
+### <a name="details"></a>詳細
+
+[昨年](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf)、個人やチームが特定のサービスを直接購入できるようになることについてお知らせしました。 本日、Microsoft Project および Microsoft Visio 製品で、セルフサービスによる購入機能が間もなく利用可能になることを発表いたします。 2020 年 9 月 15 日から、世界中の個人がセルフサービスを利用して次の製品のサブスクリプションを購入できるようになります。
+
+- [Visio Plan 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) と [Visio Plan 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [Project Plan 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) と [Project Plan 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+
+**注:** セルフサービスによる購入機能は、インドでは利用できません。また、政府機関向けや教育機関向けのプランの対象のお客様も利用できません。
+
+#### <a name="partner-benefits"></a>パートナーの特典
+
+IT 部門が一元的な調達プロセスを行って必要なライセンスを取得しなくても、個人やチームにサービスを提供できるようになります。 サービスは、Microsoft 365 および Power Platform との統合シナリオに基づいて、Project と Visio にまたがることができます。 
+
+Visio と Power Platform のソリューションを使用したパートナーの営業案件について詳しくは、Microsoft Inspire セッション「[Rebuild and reimagine business with Microsoft Visio and Power Platform (Microsoft Visio と Power Platform によるビジネスの再構築と再考)](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)」をご覧ください。 詳細については、[セルフサービスに関する管理者ガイド](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide)にアクセスしてください。
+
+#### <a name="additional-resources"></a>その他のリソース
+
+- 準備のすべてのリソースは、運用準備のリソース ギャラリーでご確認ください。[お客様のセルフサービスによる購入機能](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)。
+- お客様は、Visio および Project の試用版を購入する前に、[Visio Plan 1 と Visio Plan 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)、[Project Plan 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software) で試すことができます。
 
 ________________
 
