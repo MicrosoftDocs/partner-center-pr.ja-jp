@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
+ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811322"
+ms.lasthandoff: 08/24/2020
+ms.locfileid: "88781834"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>顧客に代わってサービスの問題を報告します。その方法や方法などが含まれます。
 
@@ -23,7 +23,11 @@ ms.locfileid: "87811322"
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
-解決できないサービスの問題が発生していて、「 [Microsoft への問題のエスカレーション](escalate-problems-to-microsoft.md)」で説明されている条件を満たしている場合は、サポートチケットをファイルに記載できます。 このプロセスは、請求に関する問題や紛争をエスカレートする場合や、不正行為が疑われる場合にも役に立ちます。 
+**適切なロール**
+
+- 間接プロバイダー
+
+解決できないサービスの問題が発生していて、「 [Microsoft への問題のエスカレーション](escalate-problems-to-microsoft.md)」で説明されている条件を満たしている場合は、間接プロバイダーがサポートチケットを作成できます。 このプロセスは、請求に関する問題や紛争をエスカレートする場合や、不正行為が疑われる場合にも役に立ちます。
 
 ## <a name="submit-a-service-request-for-a-customer"></a>顧客のサービス リクエストを提出する
 
@@ -41,7 +45,7 @@ ms.locfileid: "87811322"
 > [!IMPORTANT]
 > Azure で顧客のためにサービス要求を作成する必要があるときは、次のことに注意してください。
 >
->- Azure で顧客用のサービス要求を作成するには、顧客の Azure アカウントへのアクセスが間接プロバイダーから許可される必要があります。 これは、Office 365 ユーザーに代わって管理を行うこととは異なります。
+>- 間接リセラーとして、Azure で顧客のサービス要求を作成するには、間接プロバイダーが顧客の Azure アカウントへのアクセス権を付与する必要があります。 これは、Office 365 ユーザーに代わって管理を行うこととは異なります。
 >
 >- パートナー センターのヘルプデスク管理者は、Azure サービス ポータルでサービス要求を作成することはできませんが、Azure サービス ポータルでサポート グループを作成し、サポート要求をログに記録するためのアクセス許可をそのグループに与えることはできます。
 
@@ -73,14 +77,14 @@ ms.locfileid: "87811322"
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite
 
-1. [**サービス要求の作成**] セクションで、適切なサポートカテゴリを選択します。 その他の記事を表示するには、[**詳細**] を選択する必要がある場合があります。
+1. [ **サービス要求の作成** ] セクションで、適切なサポートカテゴリを選択します。 その他の記事を表示するには、[ **詳細** ] を選択する必要がある場合があります。
 
 2. サービス リクエスト フォームに記入し、**[送信]** を選びます。
 
    > [!TIP]
    > 顧客ではなく、必ず貴社の連絡先情報を記入してください。
 
-3. 後で、Office 365 管理センターに移動し、[**すべてのサポートチケットを表示**] を選択して、顧客のサービスリクエストを確認します。
+3. 後で、Office 365 管理センターに移動し、[ **すべてのサポートチケットを表示**] を選択して、顧客のサービスリクエストを確認します。
 
 ### <a name="support-for-commercial-marketplace-products"></a>商用マーケットプレース製品のサポート
 
