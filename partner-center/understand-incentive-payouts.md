@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
-ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
+ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
+ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "88560220"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88799827"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>インセンティブプログラムの詳細を表示、管理、およびエクスポートする
 
@@ -198,6 +198,14 @@ ms.locfileid: "88560220"
 
 |**列名**   |**説明**   |
 |------------------|:-------------------------------------|
+| AR 準拠 | Microsoft 請求書がパートナーによって時間内に支払われない場合の収益を削減する調整 |
+| Co-op ロールオーバー | Co-op 所得を別の期間に転送したり、co-op 収益をリベートに変換したりする調整 |
+| Ops 調整 Microsoft 正しくない計算 | 間違った計算を修正する調整 |
+| 操作の調整 Microsoft 間違った登録 | 登録関連の誤計算の調整 |
+| ポリシーの例外 | プログラムの規則をオーバーライドする調整  |
+| 操作の調整 | Microsoft システム計算エラーを修正する調整 |
+| 前の期間の利益 | 現在の獲得期間外の利益の調整 |
+| パートナーマッピング (サブスクリプション) の MCI/CSP | サブスクリプションの不整合を修正する調整 |
 |customerId   |顧客識別子   |
 |customerName   |トランザクションの顧客名   |
 |earningAmount   |元のトランザクション通貨での金額   |
