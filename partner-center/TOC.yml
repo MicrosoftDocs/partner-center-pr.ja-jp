@@ -9,6 +9,8 @@
       href: mpn-create-a-partner-center-account.md
     - name: 職場の電子メール アドレスを取得する
       href: buy-email-domain.md
+    - name: アカウントのセットアップのトラブルシューティング
+      href: troubleshoot-account-sign-n.md
     - name: パートナー センターへの移動
       items:
         - name: PAC からの移動 - 概要
@@ -35,6 +37,8 @@
           href: mpn-get-action-pack.md
         - name: プランの更新
           href: renew-mpn-offers.md
+        - name: MPN のメリットを確認する
+          href: mpn-find-benefits.md
     - name: コンピテンシー
       href: learn-about-competencies.md
     - name: 高度な専門性
