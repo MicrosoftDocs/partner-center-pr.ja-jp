@@ -8,25 +8,25 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 20045f321bd3fea5410fff148e8d9fb58dacef50
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 0f274703d3eb52c573c3f7f5043b73be7bc0bfa7
+ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303228"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88893457"
 ---
-# <a name="program-eligibility"></a>プログラムの資格
+# <a name="partner-incentives-overview-and-eligibility"></a>パートナーインセンティブの概要と資格 
 
-適用対象:
+**適用対象**:
 
 - パートナー センター
 
-インセンティ ブプログラムごとに適格性の要件があります。 これらのプログラムの適格性の要件は、該当するすべての契約に署名され、コンピテンシー獲得、収益予測など、インセンティブ プログラムを成功させるうえで必要な前提条件を、プログラムが確実に満たすように設計されています。
+**適切なロール**:
 
-適切なロール:
-
-- グローバル管理者
+- 全体管理者
 - インセンティブ管理者
+
+ インセンティ ブプログラムごとに適格性の要件があります。 これらのプログラムの適格性の要件は、該当するすべての契約に署名され、コンピテンシー獲得、収益予測など、インセンティブ プログラムを成功させるうえで必要な前提条件を、プログラムが確実に満たすように設計されています。
 
 ## <a name="determining-your-program-eligibility"></a>プログラムの適格性を確認する
 
@@ -38,6 +38,10 @@ ms.locfileid: "88303228"
 
 2. 左側のナビゲーションの **[インセンティブ]** で **[概要]** を選択します。 **[Program overview]\(プログラムの概要\)** ページが開きます。
 
-3. 目的のプログラムを選択し、そのページを開きます。
+3. 目的のプログラムを選択します。
 
 4. **[プログラムの詳細]** フィールドで、 **[プログラム ガイド]** を選択します。
+
+## <a name="next-steps"></a>次のステップ
+
+-[インセンティブプログラムの支払いと税金プロファイル](incentives-create-and-manage-your-payout-and-tax-profiles.md)
