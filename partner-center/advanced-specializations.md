@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a44e50134f9bee335627f66cc27beee8a93926
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527018"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942564"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>専門知識をお客様に提供するための高度な特殊化を獲得 
 
@@ -22,7 +22,7 @@ ms.locfileid: "87527018"
 
 ## <a name="use-partner-center-to-move-through-the-application-process"></a>パートナーセンターを使用してアプリケーションプロセスを移動する
 
-高度な特殊化を実現するには、会社が固定の gold コンピテンシーを獲得し、その他の要件を満たしている必要があります。 アプリケーションプロセスには2つの手順があります。 まず、会社が前提条件を満たしている必要があります。 次に、前提条件の要件が満たされると、[**監査のスケジュール**] ボタンが有効になります。 その後、監査を渡す必要があります。 
+高度な特殊化を実現するには、会社が固定の gold コンピテンシーを獲得し、その他の要件を満たしている必要があります。 アプリケーションプロセスには2つの手順があります。 まず、会社が前提条件を満たしている必要があります。 次に、前提条件の要件が満たされると、[ **監査のスケジュール** ] ボタンが有効になります。 その後、監査を渡す必要があります。 
 
 ## <a name="advanced-specialization-requirements-that-include-an-audit-an-example"></a>監査を含む高度な特殊化要件: 例
 
@@ -31,16 +31,17 @@ ms.locfileid: "87527018"
 :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="前提条件":::
 
 
-すべての前提条件を満たしていないと、状態は [未開始] のままに**なります。** 前提条件を満たしている場合は、[**監査のスケジュール**] ボタンが有効になります。 次の Azure の高度な特殊化については、サードパーティの監査担当者による監査を完了する必要があります。
+すべての前提条件を満たしていないと、状態は [未開始] のままに **なります。** 前提条件を満たしている場合は、[ **監査のスケジュール** ] ボタンが有効になります。 次の Azure の高度な特殊化については、サードパーティの監査担当者による監査を完了する必要があります。
  
 - Windows Server および SQL Server Microsoft Azure への移行
 - Microsoft Azure するための Linux およびオープンソースデータベースの移行
 - データウェアハウスの Microsoft Azure への移行
 - Microsoft Azure での Kubernetes
 - Microsoft Azure するための Web アプリケーションの最新化
+- Windows Virtual Desktop
 
 
-すべての要件を完了すると、状態は [**アクティブ**] になります。 アクティブな状態では、**ビジネスプロファイル**のタグが自動的に有効になります。このタグは、[ソリューションプロバイダーの検索](https://www.microsoft.com/solution-providers/home)を検索するすべてのお客様に表示されます。
+すべての要件を完了すると、状態は [ **アクティブ**] になります。 アクティブな状態では、 **ビジネスプロファイル** のタグが自動的に有効になります。このタグは、 [ソリューションプロバイダーの検索](https://www.microsoft.com/solution-providers/home)を検索するすべてのお客様に表示されます。
 
 ## <a name="prerequisites-that-include-customer-references-an-example"></a>顧客参照を含む前提条件: 例
 
@@ -48,9 +49,9 @@ ms.locfileid: "87527018"
 
 :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="前提条件":::
 
-すべての前提条件を満たしていないと、状態は [未開始] のままに**なります。** すべての要件を完了すると、状態は [**アクティブ**] になります。 アクティブな状態では、**ビジネスプロファイル**のタグが自動的に有効になります。このタグは、[ソリューションプロバイダーの検索](https://www.microsoft.com/solution-providers/home)を検索するすべてのお客様に表示されます。
+すべての前提条件を満たしていないと、状態は [未開始] のままに **なります。** すべての要件を完了すると、状態は [ **アクティブ**] になります。 アクティブな状態では、 **ビジネスプロファイル** のタグが自動的に有効になります。このタグは、 [ソリューションプロバイダーの検索](https://www.microsoft.com/solution-providers/home)を検索するすべてのお客様に表示されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - Microsoft コンピテンシーの要件の詳細について[は、Gold とシルバーのメンバーシップに関する microsoft コンピテンシーの要件](learn-about-competencies.md)に関するページを参照してください
 
