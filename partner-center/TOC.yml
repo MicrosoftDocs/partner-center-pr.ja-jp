@@ -483,8 +483,11 @@
     - name: サブスクリプションとライセンスの分析
       href: analyze-subscriptions-licenses.md
 - name: 他のパートナーとの連携
-  href: work-with-other-partners.md
   items:
+    - name: パートナーを見つける
+      href: find-a-partner.md
+    - name: 他のパートナーとの連携
+      href: work-with-other-partners.md
     - name: パートナー センターでの間接プロバイダーの作業
       href: indirect-provider-tasks-in-partner-center.md
     - name: パートナー センターでの間接リセラーの作業
@@ -519,6 +522,10 @@
       href: customer-self-support.md
     - name: Microsoft に問題をエスカレートする
       href: escalate-problems-to-microsoft.md
+- name: その他のサポート リソース
+  items:
+    - name: ライセンスに関するリソース
+      href: support-resources-licensing.md
 - name: セキュリティ要件
   items:
     - name: 概要
