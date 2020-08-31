@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd58f9e84ce8e1e3dd8d1da39f24614db1da99b5
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 4bf873bbd5e12372d73d2ed1b4c3307c71fda359
+ms.sourcegitcommit: a2bfdc2ca5fe11afa5e2fb71e1b0fd61180f2d70
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041053"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "89056189"
 ---
 # <a name="referrals-guide-for-managing-your-deals-in-partner-center-instead-of-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) ではなくパートナーセンターで取引を管理するための紹介ガイド
 
@@ -42,12 +42,12 @@ ms.locfileid: "89041053"
 - [パートナーセンター](https://partner.microsoft.com/)にログインするには、職場の電子メールが必要です。
 - パートナーセンターの [アカウント管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)に問い合わせて、アカウントを設定します。
 - このドキュメントを読んで、パートナーセンターで共同販売する方法を説明します。
-- パートナーセンターで、PSC 取引マネージャーと販売者のアカウントを設定し、 [参照管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) ロールを割り当てます。
+- パートナーセンターで、PSC 取引マネージャーと販売者アカウントを設定し、 [参照管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) ロールを割り当てます。
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>PSC 取引マネージャーまたは販売者の場合
 
 - [パートナーセンター](https://partner.microsoft.com/)にログインするには、職場の電子メールが必要です。
-- Psc で職場以外のアカウントを使用している場合、または他のユーザーとは別のドメインを使用している場合は、アカウントのセットアップに関するヘルプを PSC 管理者にお問い合わせください。
+- Psc で職場以外のアカウントを使用している場合、または他のユーザーが PSC で使用しているドメインとは異なる場合は、PSC 管理者に連絡してアカウントのセットアップに関するヘルプを参照してください。
 - PSC へのログインに使用するアカウントに関係なく、パートナーセンターアカウントのセットアップが完了している場合は、PSC 管理者に確認してください。
 - パートナーセンターと [紹介] セクションにアクセスできるかどうかを確認します。
 - このドキュメントを参照して、パートナーセンターでのワークフローと変更について理解してください。
@@ -114,7 +114,7 @@ ms.locfileid: "89041053"
 ### <a name="psc-grid-view-and-the-partner-center-deal-view"></a>PSC グリッドビューとパートナーセンター取引ビュー
 
 - PSC のようなリストビューはパートナーセンターにはありません。  すべての取引は、顧客情報と取引の種類を使用して、received または created の最新の日付に基づいて一覧表示されます。 既定では、ビューの最初の処理が選択されています。 PSC テーブル形式で表示される値の大部分は、PC の詳細ビューで利用できます。
-- 取引の役割は、PC では必須のフィールドではありません。 どのワークフローにも表示されません。 これは、取引先に追加されたソリューションに基づいて、Microsoft 販売者側で自動的に派生します。
+- 取引の役割は、PC では必須のフィールドではありません。 どのワークフローにも表示されず、キャプチャされることもありません。 これは、取引先に追加されたソリューションに基づいて、Microsoft 販売者側で自動的に派生します。
 - 最後に変更された日付は、PC の [紹介の詳細] ページには表示されません。 パートナーは、並べ替え機能を使用して、最終更新日に基づいて取引を並べ替えることができます。
 
  :::image type="content" source="images/pscmigration/gridview.png" alt-text="Partner Sales Connect (PSC) グリッドビューとパートナーセンター取引ビューの間のフィールドマッピングを示す画像。":::
@@ -156,7 +156,7 @@ ms.locfileid: "89041053"
 
 ### <a name="q-what-should-i-do-if-i-dont-have-access-to-partner-center"></a>Q. パートナーセンターにアクセスできない場合はどうすればよいですか?
 
-[アクセスなし] ページに表示されている管理者に連絡して、ロールを割り当てることができます。 "[紹介の管理者] ( https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) " 読み取りと書き込みのためのロール "アクセス許可は、[紹介] セクションで必要になります。 ビジネスプロファイルのみを管理している場合は、パートナーセンターの "ビジネスプロファイル管理者" ロールが必要になります。
+[アクセスなし] ページに表示されている管理者に連絡して、ロールを割り当てることができます。 [紹介] セクションの [読み取りと書き込み] アクセス許可には "[参照管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" ロールが必要です。 ビジネスプロファイルのみを管理している場合は、パートナーセンターの "ビジネスプロファイル管理者" ロールが必要になります。
 
 ### <a name="q-who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>Q. パートナーセンターの [紹介] セクションへのアクセス権を付与できるユーザー
 
