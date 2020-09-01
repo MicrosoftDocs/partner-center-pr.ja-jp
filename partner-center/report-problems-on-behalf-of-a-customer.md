@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
-ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
+ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/24/2020
-ms.locfileid: "88781834"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220180"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>顧客に代わってサービスの問題を報告します。その方法や方法などが含まれます。
 
@@ -100,9 +100,11 @@ ISV の連絡先情報を検索するには:
     - サポート電子メール
     - サポート連絡先の電話番号
 
-## <a name="faq"></a>よく寄せられる質問
+## <a name="faq"></a>よくあるご質問
 
-**サポートの権利には何が含まれていますか?**
+顧客に代わって送信される可能性があるサービス要求に関してよく寄せられる質問については、以下を参照してください。 
+
+### <a name="what-is-included-as-part-of-the-support-entitlement"></a>サポートの権利には何が含まれていますか?
 
 サービスリクエストは、パートナーセンターを通じて提出する必要があります。 これらは、Azure、Microsoft Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite で利用できます。 クラウド ソリューション プロバイダー プログラムに参加しているパートナーの場合は、重大な問題への応答時間において優先されることが期待できます。
 
@@ -110,7 +112,7 @@ ISV の連絡先情報を検索するには:
 
 この特典は、有料版か試用期間かにかかわらず、クラウド ソリューション プロバイダー プログラムに参加しているすべてのパートナーに適用されます。 課金とサブスクリプションの管理のサポートも、このパッケージの無料コンポーネントとして組み込まれています。
 
-**どれぐらい迅速に最初の応答を受けられますか?**
+### <a name="how-quickly-will-i-get-an-initial-response"></a>どれぐらい迅速に最初の応答を受けられますか?
 
 最初の応答時間は、提出された問題の重大度によって変わります。 問題の重大度は、サービス要求を提出するときに示されるビジネスへの影響の程度によって決められます。
 
@@ -123,21 +125,21 @@ ISV の連絡先情報を検索するには:
 最初の応答時間は英語によるサポートのみが対象です。 ローカル言語でのサポートは、業務時間中に提供されます。
 サポート権利の境界内にあるが、障害対策インシデントとは見なされないインシデントの場合、初回の応答時間は1営業日までになることがあります。
 
-**電話でサービス リクエストを提出できますか?**
+### <a name="can-i-submit-a-service-request-by-phone"></a>電話でサービス リクエストを提出できますか?
 
 いいえ、このプログラムには電話サポートが提供されていません。
 
-**Azure ポータルに直接サインインし、パートナー センターをバイパスした場合はどうなりますか?**
+### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Azure ポータルに直接サインインし、パートナー センターをバイパスした場合はどうなりますか?
 
 Microsoft Azure portal に直接サインインする場合は、顧客のコンテキストではなく、独自のコンテキストでセンターを表示しています。 そのため、独自のサブスクリプションのサービス要求を作成する場合にのみ、Microsoft Azure portal に直接サインインする必要があります。
 
 CSP プログラムのサポート資格は、パートナーのサブスクリプションでのサポートを提供していません。 このため、パートナーのサブスクリプションに関するサービス要求を作成するときに、有効なサポートプランの権利を提供する必要があります。 例としては、MPN 契約 ID、プレミア、Azure サポートプランなどがあります。 詳細については、「 [Azure サポート](https://go.microsoft.com/fwlink/?LinkId=717532)に関する FAQ」を参照してください。
 
-**Office 365 管理センターポータルにサインインし、パートナーセンターをバイパスするとどうなりますか。**
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Office 365 管理センターポータルにサインインし、パートナーセンターをバイパスするとどうなりますか。
 
 Office 365 管理センターに直接サインインすると、顧客のコンテキストではなく、独自のコンテキストでセンターが表示されます。 そのため、自分のサブスクリプションのサービス要求を作成するときに、Office 365 管理センターに直接サインインするだけで済みます。
 
-**追加の Dynamics 365 のサポートを受けるにはどうすればよいですか?**
+### <a name="how-do-i-get-additional-dynamics-365-support"></a>追加の Dynamics 365 のサポートを受けるには
 
 Dynamics 365 Plan サブスクリプション、ライセンス、課金、財務 & 操作、Dynamics 365 製品ライセンス、またはその他のテクニカルサポートが必要な場合に関連する問題が発生しています。
  
@@ -145,7 +147,7 @@ Dynamics 365 Plan サブスクリプション、ライセンス、課金、財�
 
 「[Microsoft Dynamics のサポート](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)」を参照する
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [顧客へのサポート提供](customer-support.md)
 - [サービスの正常性の確認](check-service-health.md)

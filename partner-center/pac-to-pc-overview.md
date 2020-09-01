@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 674cb8d9e97874093224e4f2ef818921ce74ec15
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 31bf26495f2429402b600324353017895ca2af8a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114518"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220740"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>パートナー管理センターのパートナー センターへの移動
 
@@ -39,13 +39,13 @@ Microsoft パートナー センターは、1 か所で Microsoft および顧�
 
 2018 年 4 月中に PAC の廃止プロセスが実施され、CSP パートナーは Microsoft パートナー センターへ自動的にリダイレクトされるようになります。 リダイレクトは段階的に発生し、パートナー センターへリダイレクトされた後は、PAC を使用できなくなります。 
 
-**クラウド ソリューション プロバイダー パートナー** CSP パートナーは、2018 年 4 月からパートナー センターへ自動的にリダイレクトされます。 
+- クラウドソリューションプロバイダーパートナー: CSP パートナーの場合、2018年4月以降、パートナーセンターに自動的にリダイレクトされます。
 
-**アドバイザー パートナー** (CSP 経由で取引を行わず、PAC を使用して顧客に試用版や見積もりを提供する場合) パートナー センターへの自動リダイレクトのスケジュールが決定しだい、ここで発表します。 
+- Advisor パートナー (CSP を使用せずに、PAC を使用して顧客の試用/引用を提供する場合): パートナーセンターへの自動リダイレクトのタイムラインを決定したら、ここでお知らせします。
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Microsoft パートナー センターを今すぐ使い始めましょう
 
-今すぐ[Microsoft パートナーセンター](https://partnercenter.microsoft.com/)を使用して、PAC からの移動を準備します。  PAC に使用するパートナーセンターでも同じ資格情報を使用します。
+今すぐ [Microsoft パートナーセンター](https://partnercenter.microsoft.com/) を使用して、PAC からの移動を準備します。  PAC に使用するパートナーセンターでも同じ資格情報を使用します。
 
 > [!IMPORTANT]  
 > PAC で提供されていた機能の一部は、パートナー センターでは利用できなくなります。

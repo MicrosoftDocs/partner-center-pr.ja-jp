@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: c21875f53c4263fd21c0e12e9ec3347bc0e07278
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303198"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220540"
 ---
 # <a name="manage-co-op-claims"></a>協力申請の管理
 
-適用対象:
+**適用対象:**
 
 - パートナー センター
 
-次のコンテンツでは、タイムライン、ルール、拒否された共同操作要求を争議する方法など、共同の要求を管理するための情報を提供します。
-
-適切なロール:
+**適切なロール:**
 
 - インセンティブ管理者
+
+次のコンテンツでは、タイムライン、ルール、拒否された共同操作要求を争議する方法など、共同の要求を管理するための情報を提供します。
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>協力申請の承認と支払期限
 
@@ -72,3 +72,7 @@ ms.locfileid: "88303198"
 4. ページ下部にある **[Dispute]\(異議を唱える\)** を選択します。
 
 協力申請検証チームは、5 営業日以内に申請をレビューします。 その期間、状態は "**争議中**" になります。 Microsoft から追加情報を求められる場合があります。 レビューの完了時、検証チームは状態を "**承認済み**"、"**拒否**"、"**パートナー アクションが必要**" のいずれかに更新します。
+
+## <a name="next-steps"></a>次の手順
+
+- [インセンティブの概要](incentives-get-started-intro.md)

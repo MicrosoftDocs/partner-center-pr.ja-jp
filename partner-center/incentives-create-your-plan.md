@@ -1,33 +1,33 @@
 ---
-title: プランを作成する
+title: インセンティブプランを作成する
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/31/2020
 description: インセンティブプログラムのマーケティング計画を成功させるために必要な情報を収集して作成します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 018caf14a7ccc4c7e5e63e25d48c57df923af5a3
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303248"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220630"
 ---
-# <a name="create-your-plan"></a>プランを作成する
+# <a name="create-your-incentives-plan"></a>インセンティブプランを作成する
 
-適用対象:
+**適用対象:**
 
 - パートナー センター
 
-共同操作要求計画とは、プログラムを成功させる方法を説明する一連のマーケティングキャンペーン、活動、およびその他の詳細を示します。 プランを作成したら、承認のために Microsoft に送信します。 
-
-適切なロール:
+**適切なロール:**
 
 - インセンティブ管理者
 - 課金管理者
 - グローバル管理者
+
+共同操作要求計画とは、プログラムを成功させる方法を説明する一連のマーケティングキャンペーン、活動、およびその他の詳細を示します。 プランを作成したら、承認のために Microsoft に送信します。
 
 ## <a name="create-your-incentives-plan"></a>インセンティブプランを作成する
 
@@ -93,3 +93,7 @@ ms.locfileid: "88303248"
 たとえば、10,000 ドルの承認を受けているプランで、4 月に 5,000 ドルを獲得した場合は、5 月 15 日に 5,000 ドルが支払われます。
 
 同じプランで 4 月に 15,000 ドルを獲得した場合は、10,000 ドルの制限が適用されるため、5 月 15 日に支払われる金額は 10,000 ドルになります。 より多くの金額が支払われるようにするには、翌月のプランの上限を引き上げる必要があります。
+
+## <a name="next-steps"></a>次の手順
+
+- [実行証明を準備する](incentives-prepare-your-proof-of-execution.md)

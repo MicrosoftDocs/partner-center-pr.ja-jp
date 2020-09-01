@@ -1,22 +1,27 @@
 ---
 title: 特典を見つける
 ms.topic: how-to
-ms.date: 08/18/2020
+ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: パートナーセンターのダッシュボードで特典を見つける方法について説明します。
+description: パートナーセンターのダッシュボードで MPN 特典を見つける方法について説明します。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bcb48e8e2b587c0cc40f5d059b95a56568d56a3f
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: a953eb47623bce8c0133266e26715f54557444fc
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88848956"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220766"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Microsoft Partner Network の特典を見つける 
+
+この記事では、パートナーセンターのダッシュボードで、MPN () の MPN 特典を見つける方法につい Microsoft Partner Network て説明します。 この情報には、技術的な利点に関連する契約 ID やアクセス ID など、会社固有の製品サポート Id を検索する方法が含まれます。
+
+>[!NOTE]
+> Microsoft Partner Network メンバーシップがパートナーメンバーシップセンター (PMC) に残っている場合は、パートナー最前線などの別のリソースに連絡して、特定の特典を表示またはアクティブ化することが必要になる場合があります。 詳細については、「 [パートナーセンター以外で技術的な特典をアクティブ化](partner-membership-center-tech-benefits-activate.md)する」を参照してください。
 
 ### <a name="applies-to"></a>適用対象
 
@@ -25,40 +30,65 @@ ms.locfileid: "88848956"
 ### <a name="appropriate-roles"></a>適切なロール
 
 - MPN パートナー管理者
-- 全体管理者
+- グローバル管理者
 
 Microsoft Partner Network (MPN) のメンバーとして、会社はビジネスの成長に役立つ多くの特典にアクセスできます。 これらの利点を確認するには、次のようにします。
 
-1. パートナーセンター [ダッシュボード] にサインインします ( https://partner.microsoft.com/dashboard/home) 、[ **MPN**] を選択し、[ **特典**] を選択します。
+1. パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインし、[ **MPN**] を選択して、[ **特典**] を選択します。
 
-2. 特典を利用すると、興味のあるものを選択することによって、使用可能なカテゴリの1つに属している関心のある特典を確認、アクティブ化、またはダウンロードすることができます。
+2. 特典により、使用可能なカテゴリの1つに属する関心のある特典を確認、アクティブ化、並べ替え、またはダウンロードすることができます。 これを行うには、次の情報を参照する特典領域を選択します。
 
-- Azure & クラウド製品
-- ソフトウェア製品
-- Visual Studio サブスクリプション
-- 技術上のメリット
-- 市場進出 
+   - Azure & クラウド製品
+   - ソフトウェア製品
+   - Visual Studio サブスクリプション
+   - 技術上のメリット
+   - 市場進出
+   - Marketplace の特典
+   - ロゴビルダー
 
-3. (+) 特典を展開することにより、選択肢の特典をアクティブ化するための追加情報が得られます。
+3. (+) 特典を展開することで、特定の特典をアクティブ化するために役立つ追加情報が得られます。
 
-:::image type="content" source="images/benefits/expandbenefits.png" alt-text="拡張された特典":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="拡張された特典":::
+
+   > [!NOTE]
+   > 特典を有効にするには、パートナーセンターのグローバル管理者または MPN パートナー管理者のロールが割り当てられている必要があります。 ただし、会社の他のすべてのユーザーは、製品サポート Id などのパートナーセンターで特典の詳細を表示できる必要があります。 パートナーセンターの役割の詳細については、「 [パートナーセンターでユーザーの役割とアクセス許可を割り当てる](permissions-overview.md)」を参照してください。
+
+## <a name="find-access-id-and-contract-id-for-technical-benefits"></a>テクニカル特典のアクセス ID と契約 ID を検索する
+
+上記の手順に従い、特定の特典 (技術的な利点など) をアクティブ化すると、その他の重要な情報が [技術的な特典] ページに表示される場合があります。
+
+技術的な利点については、パートナーセンターの **アクセス id** や **契約 ID** などの Microsoft 製品サポート id を参照してください。
+
+>[!NOTE]
+> Microsoft Partner Network メンバーシップがパートナーメンバーシップセンター (PMC) にまだあり、パートナーセンターにまだ移行されていない場合は、パートナー最前線に連絡して、技術的な特典を有効にするか、サポートアクセス ID と契約 ID を受け取る必要があります。
+
+ パートナーセンターでこの情報を表示するには、次の手順に従います。
+
+1. パートナー センターの[ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします
+
+2. [ **MPN**]、[ **特典**] の順に選択し、次に **技術的な利点**を選択します。
+
+3. 一覧から特典を選択します。 詳細を表示するには、特典を拡大してください。 
+
+   この特典に割り当てられている特定の製品サポート **契約 id** と **アクセス ID** が表示されます。  
+
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Microsoft 製品サポート Id (契約 ID、アクセス ID など) を示すゴールドコアコンピテンシーサポートのテクニカル特典のサンプル":::
+
+   > [!NOTE]
+   > これらのサポート Id を記録しておきます。 特定のシステムでは、特定の技術的な特典に関連付けられているサポートリクエストを初めてログに記録する場合があります。 すべての会社のユーザーが同じアクセス ID と契約 ID を使用する可能性があります。
 
 ## <a name="specific-benefit-offers"></a>特定の特典プラン
 
-さまざまなメンバーシッププランで提供される特定の特典については、次のドキュメントを参照してください。
+Microsoft Action Pack、シルバー、または Gold コンピテンシーで利用できる特典については、次のリソースを参照してください。
 
-[MAPS の特典のライセンステーブル](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Microsoft Action Pack パートナーのライセンステーブル](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
 
-[コンピテンシーの特典のライセンステーブル](https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx)
+- [コンピテンシーパートナーのライセンステーブル](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
-これらの特典の使用方法については、 [製品使用ガイド](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)を参照してください。
-
-MAPS、シルバー、または Gold コンピテンシーを通じて提供される特典については、こちらを参照してください。
-
-[Microsoft Action Pack パートナーのライセンステーブル](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
-
-[コンピテンシーパートナーのライセンステーブル](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
+これらの特典を使用する方法については、 [製品使用ガイド](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)を参照してください。
 
 ## <a name="next-steps"></a>次の手順
 
 - [従業員 Microsoft Learn アカウントの関連付け](ms-learn-associate.md)
+- [Microsoft Partner Network の特典とプランを管理する](manage-your-partner-network-benefits.md)
+- [パートナーメンバーシップセンターのメンバーのテクニカル特典をアクティブ化する (PMC)](partner-membership-center-tech-benefits-activate.md)

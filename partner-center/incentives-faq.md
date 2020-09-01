@@ -1,25 +1,31 @@
 ---
 title: インセンティブに関する FAQ
 ms.topic: how-to
-ms.date: 08/14/2020
+ms.date: 08/31/2020
 description: Microsoft インセンティブに関してよく寄せられる質問
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: d5807dabe5ad41f976bbe099aaaa8d459b77f154
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88427004"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220590"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>インセンティブに関してよく寄せられる質問
 
-適用対象:
+**適用対象:**
 
 - パートナー センター
+
+**適切なロール:**
+
+- インセンティブ管理者
+
+- インセンティブ ユーザー
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>インセンティブに登録するには、グローバル管理者である必要がありますか。
 
@@ -42,3 +48,7 @@ MPNHQ の所在地と同じ国にいない場合、このシナリオの詳細�
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>エラーメッセージが表示された場合、または登録プロセス中にヘルプが必要な場合は、どのユーザーに問い合わせる必要がありますか。
 
 ダッシュボードの [インセンティブ] セクション内で問題が発生した場合は、オンラインサポートサービスがあります。サポートオプション (? アイコン) を右上にあります。
+
+## <a name="next-steps"></a>次の手順
+
+- [インセンティブの概要](incentives-get-started-intro.md)

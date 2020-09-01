@@ -1,5 +1,5 @@
 ---
-title: 顧客の関連付けを管理する
+title: インセンティブ顧客の関連付けの管理
 description: 要求されたレコードのパートナー (CPOR) の顧客の関連付けを管理するための重要なプロセスとタイムラインについて説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,27 +7,27 @@ ms.topic: how-to
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: 6a98d14bbbe614d0d57a3d1032b93b8cd43119e1
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 6fe9ce95a1e4bfc017888dcdeb95e02deb3f64fe
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303178"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220580"
 ---
-# <a name="manage-customer-associations"></a>顧客の関連付けを管理する
+# <a name="manage-incentives-customer-associations"></a>インセンティブ顧客の関連付けの管理
 
-適用対象:
+**適用対象:**
 
 - パートナー センター
 
-要求されたパートナーのレコード (CPOR) プラットフォームは、パートナーが Microsoft 製品の使用または購入に影響を与えるエンドカスタマーに関連付けるために使用されます。 現在、CPOR プラットフォームでは、Business Applications と Microsoft 365 製品がサポートされています。 パートナーは、このアソシエーション方法を使用して、顧客のパフォーマンスに関する洞察を得たり、OSU および OSA プログラムを通じてインセンティブ支払いを受けたり、ビジネスの有力として収益の関連付けを獲得したりします。  
-
-適切なロール:
+**適切なロール:**
 
 - 課金管理者
 - グローバル管理者
 - インセンティブ管理者
+
+要求されたパートナーのレコード (CPOR) プラットフォームは、パートナーが Microsoft 製品の使用または購入に影響を与えるエンドカスタマーに関連付けるために使用されます。 現在、CPOR プラットフォームでは、Business Applications と Microsoft 365 製品がサポートされています。 パートナーは、このアソシエーション方法を使用して、顧客のパフォーマンスに関する洞察を得たり、OSU および OSA プログラムを通じてインセンティブ支払いを受けたり、ビジネスの有力として収益の関連付けを獲得したりします。  
 
 ## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>CPOR アソシエーション要求がインセンティブとどのように関連しているか
 
@@ -41,12 +41,12 @@ CPOR またはアソシエーション要求を作成済みで、承認されて
 
 - 送信済み: Microsoft が承認プロセスを開始するまで、最大5営業日の送信状態になります。
 - レビュー中: Microsoft は、指定された実行の証拠に基づいて決定を行うために、5営業日の業務を行っています。
-- パートナーのアクションが必要: レビュー担当者がコメントを送信し、追加情報の要求を送信すると、5営業日分の応答が返されます。 お客様の CPOR アソシエーションの要求は、レビュー担当者の SLA に基づき10日以内に行う必要があります。または、PoE のレビュー担当者に追加情報を提供するためにかかる時間も含まれます。
+- パートナーのアクションが必要: レビュー担当者がコメントを送信し、追加情報の要求を送信すると、5営業日分の応答が返されます。 お客様の CPOR アソシエーション要求は、レビュー担当者の SLA に基づいて10日以内に行うことをお勧めします。また、実行証明 (PoE) のレビュー担当者に追加情報を提供するためにかかる時間も考慮する必要があります。
 - 承認済み: CPOR アソシエーション要求が承認されました。 アソシエーションが承認されると、お客様に通知が送信され、アソシエーションを拒否する機会が与えられます。 お客様は、7日後にオプトアウトを行うことができます。この同意期間が過ぎると、インセンティブプログラムの適格性を評価するために要求が送信されます。
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>CPOR アソシエーション要求の状態を表示する
 
-[顧客関連付けダッシュボード](https://partner.microsoft.com/dashboard/incentives/claims/associations)を使用して、いつでも cpor アソシエーション要求の状態を確認できます。
+[ [顧客の関連付け] ダッシュボード](https://partner.microsoft.com/dashboard/incentives/claims/associations) を使用して、cpor アソシエーション要求の状態をいつでも確認できます (サインインが必要です)。
 
 次に、状態とその意味を示します。
 
@@ -98,7 +98,7 @@ CPOR またはアソシエーション要求を拒否する主な理由は3つ�
 - PoE にお客様の同意がない
 - 不足している製品
 - パートナーの応答がありません
-- PoE を利用できません 
+- PoE を利用できません
 
 ## <a name="edit-your-cpor-association-claim"></a>CPOR アソシエーション要求を編集する
 
@@ -122,3 +122,7 @@ CPOR アソシエーション要求が承認されると、お客様に通知が
 ## <a name="view-claim-history"></a>要求履歴の表示
 
 CPOR アソシエーション要求では、右上に [ **履歴** ] ボタンがあります。このボタンを使用すると、パートナーおよびレビュー担当者の観点から、この要求に対して行われたすべての変更、コメント、およびアクションを確認できます。
+
+## <a name="next-steps"></a>次の手順
+
+- [インセンティブの概要](incentives-get-started-intro.md)

@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c05e8e4e7fe7e8a7677669e0dcbb7ee3cab08be9
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7be44a0f67258989e4a55d6d34a93019712b341b
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811292"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220230"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>パートナーセンターでユーザーのパスワードをリセットする
 
@@ -31,7 +31,7 @@ ms.locfileid: "87811292"
 
 ユーザーがパスワードを忘れた場合、一時的なパスワードを割り当てます。 ユーザーは、次回にパートナー センターにサインインするときに、このパスワードを使用できます。
 
-**管理者としてユーザーのパスワードをリセットする**
+## <a name="reset-a-user-password-as-an-admin"></a>管理者としてユーザーのパスワードをリセットする
 
 1. **[設定]** &gt; **[ユーザー管理]** に移動します。
 
@@ -41,6 +41,6 @@ ms.locfileid: "87811292"
 
 4. 新しいサインインの一時パスワードを含む確認画面が表示されます。 このファイルをコピーして、新しいユーザーに送信する必要があります。画面から移動した後にアクセスすることはできません。 ユーザーが最初にサインインするときに、パスワードの更新が求められます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [ユーザーの追加](create-user-accounts-and-set-permissions.md)

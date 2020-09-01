@@ -1,5 +1,5 @@
 ---
-title: 顧客の関連付けに関する問題
+title: 顧客の関連付けのインセンティブに関する問題
 description: 要求されたパートナーのレコード (CPOR) の顧客関連付けを使用して作業するときに発生する問題に対処する方法について説明します。
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -7,27 +7,27 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303258"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220620"
 ---
-# <a name="customer-association-issues"></a>顧客の関連付けに関する問題
+# <a name="incentives-customer-association-issues"></a>顧客の関連付けのインセンティブに関する問題
 
-適用対象:
+**適用対象:**
 
 - パートナー センター
 
-以下の内容は、顧客の関連付けを操作するときに発生する可能性のある問題を解決するのに役立ちます。
-
-適切なロール:
+**適切なロール:**
 
 - 課金管理者
 - グローバル管理者
 - インセンティブ管理者
+
+以下の内容は、顧客の関連付けを操作するときに発生する可能性のある問題を解決するのに役立ちます。
 
 ## <a name="domain-tenant-mismatch"></a>ドメインテナントの不一致
 
@@ -62,9 +62,9 @@ CPOR が要求されているプラットフォームでは、Business Applicati
 | ソリューション分野 | アクティビティ | 適用対象 |
 | ------ | ----------- | ----------- |
 | ビジネス アプリケーション      | プリセールス   | 対象となる製品の購入に影響を受けた場合に、販売前のインセンティブに適用するかどうかを選択します。 このオプションは、顧客がボリュームライセンス契約または Web ダイレクトを使用してこれらの製品を購入した場合にのみ適用されます。 |
-|    |  使用法  | 対象となるワークロードの導入と使用を推進し、使用量のインセンティブに適用する場合は、オンにします。 このオプションは、顧客がボリュームライセンス契約または Web ダイレクトを使用してこれらの製品を購入した場合にのみ適用されます。 |
+|    |  使用  | 対象となるワークロードの導入と使用を推進し、使用量のインセンティブに適用する場合は、オンにします。 このオプションは、顧客がボリュームライセンス契約または Web ダイレクトを使用してこれらの製品を購入した場合にのみ適用されます。 |
 |    | 収益の関連付け   | ビジネスの有力者として、対象製品の選択が影響を受けた場合に選択します。 このオプションは、インセンティブ支払いではなく、収益の関連付けのみを対象としています。 このオプションは、顧客がボリュームライセンス契約または Web ダイレクトを使用してこれらの製品を購入した場合にのみ適用されます。   |
-| Microsoft 365   | 使用法   | 対象となるワークロードの導入と使用を推進し、使用量のインセンティブに適用する場合は、オンにします。 |
+| Microsoft 365   | 使用   | 対象となるワークロードの導入と使用を推進し、使用量のインセンティブに適用する場合は、オンにします。 |
 
 ## <a name="which-mpn-do-i-choose"></a>どの MPN を選択しますか?
 
@@ -72,7 +72,7 @@ CPOR アソシエーション要求のフローでは、エンドユーザーが
 
 使用する MPN がわからない場合は、全体管理者に問い合わせてください。
 
-使用しようとしている MPN が登録されていない場合は、[ [インセンティブの概要] タブ](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)で管理できます。
+使用しようとしている MPN が登録されていない場合は、[ [インセンティブの概要] タブ](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) で管理できます (必要なサインイン)。
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>製品の選択とサブスクリプションの入力
 
@@ -91,4 +91,8 @@ Dynamics 製品が要求され、承認されると、パートナーは CPOR �
 4. お客様の CPOR はアソシエーションの要求は、5営業日以内に確認されますが、その状態は長期間にわたって _レビュー中_ のままになる可能性があります。 このシナリオは、Microsoft が現在製品/ワークロードを所有しているパートナーと協力している場合に発生する可能性があります。 その場合は、要求のコメントセクション内で通知されます。 
 
 >[!IMPORTANT]
->CPOR association PoE を確認するための追加情報が必要な場合は、CPOR アソシエーション要求のコメントに関するセクションを参照してください。
+>CPOR 関連付けの実行 (PoE) を検証するために追加情報が必要な場合は、「CPOR アソシエーションの要求コメント」セクションを参照してください。
+
+## <a name="next-steps"></a>次の手順
+
+- [インセンティブの概要](incentives-get-started-intro.md)

@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436121"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220690"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>サブスクリプションとライセンスを分析して、ビジネス上の意思決定や新しい目標を促進
 
@@ -30,13 +30,11 @@ ms.locfileid: "86436121"
 - 管理エージェント
 - 販売代理店
 
-データはビジネス上の意思決定を促進します。 [**サブスクリプションとライセンス分析**] ページのメトリックを使用して、さらに注意が必要な成功と領域を特定します。 新しいビジネス目標を計画するときに、この情報を使用できます。
+データはビジネス上の意思決定を促進します。 [ **サブスクリプションとライセンス分析** ] ページのメトリックを使用して、さらに注意が必要な成功と領域を特定します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 
-> [!NOTE]
-> サブスクリプションとライセンスの分析は、クラウド ソリューション プロバイダー プログラムに参加しているパートナーのみが利用できます。
+**CSP TTM 収益 (米国ドル)**: このメトリックは、この csp アカウントが関連付けられているパートナーの場所アカウントとパートナーのグローバルアカウント (PGA) の末尾の12か月 (ttm) に対して請求される、集計された csp を表します。 別の PGA がある他の CSP アカウントがある場合は、それぞれにサインインして、対応する集計された TTM 収益を確認する必要があります。  [Download details] \ (ダウンロードの詳細 \) リンクをクリックすると、MPN ID ごとの TTM 収益 (USD) の内訳が表示されます。
 
-
-このレポートは、以下の製品に基づいてピボットで表示できます。
+レポートの残りの部分は、次の製品に基づいてピボットできます。
 
  - **Dynamics 365**: Dynamics 365 のデータ  
  - **EMS**: エンタープライズ管理サービスのデータ  
@@ -78,6 +76,6 @@ ms.locfileid: "86436121"
 **30 日以内に終了する試用版サブスクリプション**  
  - 開始されたが、終了日が 30 日以内であり、有料版の開始日がサブスクリプションに関連付けられていない試用版の一覧  
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [間接リセラーのパフォーマンスを分析する](analyze-indirect-resellers.md)

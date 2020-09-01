@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303298"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220780"
 ---
 # <a name="prepare-your-proof-of-execution"></a>実行証明を準備する
 
-適用対象:
+**適用対象:**
 
 - パートナー センター
 
-インセンティブを受ける前に、詳細な実行 (PoE) を提出する必要があります。 この記事では、有効な実行の証明を作成する手順について説明します。
-
-適切なロール:
+**適切なロール:**
 
 - インセンティブ管理者
+
+インセンティブを受ける前に、詳細な実行 (PoE) を提出する必要があります。 この記事では、有効な実行の証明を作成する手順について説明します。
 
 ## <a name="how-to-submit-a-poe"></a>PoE を送信する方法
 
@@ -37,7 +37,7 @@ ms.locfileid: "88303298"
 
 4. [ **キャンペーン** ] セクションで、目的のアクティビティを見つけます。
 
-5. [ **実行の証明** ] 列で、[ **POE の追加**] を選択します。
+5. [ **実行の証明** ] 列で、[ **PoE の追加**] を選択します。
 
 6. [ **新しい実行の証明] ページ**で、必須フィールドを入力します。
 
@@ -62,7 +62,7 @@ ms.locfileid: "88303298"
 
 11. 必要に応じて、 **校正ドキュメント** をアップロードすることもできます。 [ **プルーフドキュメント** ] フィールドで、[ **アップロードするファイルをドラッグまたは参照する**] を選択します。 [校正ドキュメント] を選択した場合は、説明のメモを追加する必要があります。 メモを追加したら、 **[保存]** を選択します。
 
-12. POE を送信する前に最終的なコメントを入力し、[ **要求の送信**] を選択します。
+12. PoE を送信する前に最終的なコメントを入力し、[ **要求の送信**] を選択します。
 
 ## <a name="view-the-status-of-a-poe"></a>PoE の状態を表示する
 
@@ -80,3 +80,7 @@ ms.locfileid: "88303298"
    - 編集中
    - Approved
    - 拒否
+
+## <a name="next-steps"></a>次のステップ:
+
+- [インセンティブの概要](incentives-get-started-intro.md)

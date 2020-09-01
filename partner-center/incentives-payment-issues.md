@@ -1,19 +1,19 @@
 ---
 title: 支払いと収益の問題のトラブルシューティング
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 08/31/2020
 description: 収益の不足や不適切な利益、適格性の問題、インセンティブ収益の調整方法などの問題を解決する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
-ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
+ms.openlocfilehash: 5696c4e3e74fd9fe4c17b0da37f6b6bf3ba98165
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88893473"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220790"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>支払いと収益の問題のトラブルシューティング
 
@@ -24,7 +24,6 @@ ms.locfileid: "88893473"
 **適切なロール**:
 
 - インセンティブ管理者
-
 
 この記事は、インセンティブプログラムの利益や支払いの問題を解決するのに役立ちます。 記載されているトピックには、支払いのタイミング、収益の適格性の確認、支払いと税金のプロファイルを適切に設定することの重要性が含まれます。
 
@@ -57,18 +56,20 @@ ms.locfileid: "88893473"
 
   **資格を確認するには**
 
-  1. パートナーセンターにサインインします。 [パートナーインセンティブ](https://partner.microsoft.com/membership/partner-incentives)。
-  
+  1. [パートナーインセンティブ](https://partner.microsoft.com/membership/partner-incentives)にサインインします。
+
   2. プログラムのドキュメントまで下にスクロールします。
   
-  3. 目的のドキュメントリンクを選択し、「 **パートナーの資格** と適格な **収益ルール**」セクションを確認します。
+  3. 目的のドキュメントリンクを選択し、次のセクションを確認します。 
+
+**パートナーの資格** と **適格な収益ルール**。
 
 - **支払いプロファイルが不完全である可能性があります。** インセンティブの収益の開始日は、すべての適格性の要件 (支払いと税金でのオンボードの詳細を含む) を完了した月の最初の日になります。 支払いおよび税務プロファイルが完了する前の数か月は収益を利用できません。 たとえば、2020 年 4 月にすべての要件を満たした場合、収益の開始日は 2020 年 4 月 1 日になります。
 - **未処理のアクションがある可能性があり**ます。  未処理のアクションが保留中になっているため、インセンティブが処理されていない可能性があります。
 
   **未処理のアクションを表示するには**
 
-  1. パートナーセンターにサインインします。 [パートナーインセンティブ](https://partner.microsoft.com/membership/partner-incentives)。
+  1. [パートナーインセンティブ](https://partner.microsoft.com/membership/partner-incentives)にサインインします。
   2. [ **トランザクションの履歴** ] ページを開きます。 このページのフィールドを確認して、 **保留中の税プロファイル**、 **保留中の支払いプロファイル**、または **保留中の税金請求書の送信**など、未処理のアクションを実行します。
 
 これらのアクションが役に立ちませんが、支払いがまだ見つからないか間違っている場合は、 [サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
@@ -112,7 +113,7 @@ ms.locfileid: "88893473"
 
 このビューを使用すると、各トランザクションの支払状態と共に、月別、収益の傾向、およびトランザクションの詳細を表示できます。 データは、インセンティブユーザーまたは管理者ロールが割り当てられているプログラムと MPN ID に対してのみ表示されます。
 
-### <a name="payments"></a>支払い
+### <a name="payments"></a>入金額
 
 このビューでは、すべてのプログラムと MPN ID の支払いを表示できます。 データは、インセンティブユーザーまたは管理者ロールが割り当てられているプログラムと MPN ID に対してのみ表示されます。 このビューでは、送金をダウンロードすることや、支払いごとに取引の詳細を表示することができます。 
 
@@ -140,9 +141,9 @@ ms.locfileid: "88893473"
 
 ## <a name="where-can-i-find-my-rates"></a>料金はどこで確認できますか。
 
-1. [[Partner incentives]\(パートナー インセンティブ\)](https://partner.microsoft.com/membership/partner-incentives) に移動してサインインします。
+1. [パートナーインセンティブ](https://partner.microsoft.com/membership/partner-incentives)にサインインします。
 
-2. サインインしたら、下にスクロールして興味のあるプログラムのドキュメントにアクセスし、該当するプログラムのドキュメント リンクをクリックします。
+2. 下にスクロールして、目的のプログラムのドキュメントにアクセスし、該当するプログラムのドキュメントリンクをクリックします。
 
 3. このドキュメントでは、「プログラムの **構造と料金**」セクションを参照してください。
 

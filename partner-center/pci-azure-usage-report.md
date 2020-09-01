@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239070"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220730"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能な Azure の使用状況レポート
 
@@ -31,9 +31,9 @@ Azure の使用状況レポートには、顧客の Azure サブスクリプシ�
 - Azure の使用率
 
  > [!NOTE]
- > このレポートは、Insights ダッシュボードから入手できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポートビューアー、エグゼクティブレポートビューアーなど、パートナーセンターの特定のロールが割り当てられている必要があります。 詳細については、会社のグローバル管理者に問い合わせてください。このレポートの特定の種類のデータは、エグゼクティブレポートビューアーの特権を持つユーザーのみが使用できる場合もあります。
+ > このレポートは、Insights ダッシュボードから入手できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポートビューアー、エグゼクティブレポートビューアーなど、パートナーセンターの特定のロールが割り当てられている必要があります。 詳細については、会社のグローバル管理者に問い合わせてください。このレポートの特定の種類のデータは、役員レポートビューアーの特権を持つユーザーのみが使用できる場合もあります。
 
-**まとめ**
+## <a name="summary"></a>まとめ
 
 概要セクションには、顧客に対して販売または管理されている Azure サブスクリプションに関連する主要業績評価指標 (Kpi) のスナップショットビューが表示されます。  
 
@@ -56,7 +56,7 @@ Azure の使用状況レポートには、顧客の Azure サブスクリプシ�
 
 :::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure の使用状況の概要":::
 
-**地理的に別の Azure の使用状況**
+## <a name="azure-usage-by-geography"></a>地理的に別の Azure の使用状況
 
 [ **Azure usage by geography] ビューで** は、azure 従量課金 (ACR US $) の地理的分布、またはすべての azure サービスレベル/メーターカテゴリの使用時間が表示されます。 マップ上の薄い色は下限値を表し、濃い色は高い値を表します。 グリッド内で拡大する国を検索して選択することができます。 
 
@@ -66,7 +66,7 @@ Azure の使用状況レポートには、顧客の Azure サブスクリプシ�
 
 :::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="地理的に別の Azure の使用状況":::
 
-**Azure の使用率**
+## <a name="azure-utilization"></a>Azure の使用率
 
 このビューには、選択した Azure サービスレベル/メーターカテゴリごとの月単位の Azure 従量課金または使用時間の傾向が表示されます。 
 
@@ -74,7 +74,7 @@ Azure の使用状況レポートには、顧客の Azure サブスクリプシ�
 
 :::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure の使用率":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
 

@@ -1,25 +1,29 @@
 ---
-title: インセンティブプログラムに登録する
+title: インセンティブ プログラムに登録する
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: インセンティブプログラムに登録し、ユーザー管理に必要なロールを割り当てます。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eae4baa3cfd49692c6b672c45ec30c8384449975
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88427007"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220600"
 ---
-# <a name="enroll-in-the-incentives-program"></a>インセンティブプログラムに登録する
+# <a name="enroll-in-the-incentives-program"></a>インセンティブ プログラムに登録する
 
-適用対象:
+**適用対象:**
 
 - パートナー センター
+
+**適切なロール:**
+
+- インセンティブ管理者
 
 >[!NOTE]
 >インセンティブプログラムに登録する前に、パートナーのメンバーシップセンターでパートナーセンターへの [移行](prepare-pmc-pc-migration.md)を完了している必要があります。
@@ -32,7 +36,7 @@ ms.locfileid: "88427007"
 
 ## <a name="user-management"></a>[ユーザー管理]
 
-インセンティブプログラムに登録するには、グローバル管理者またはアカウント管理者が会社のユーザーを設定する必要があります。 インセンティブ管理者を割り当て、インセンティブユーザーのアクセス許可を付与する必要があります。 パートナーアカウント、ロール、アクセス許可の詳細については、「 [パートナーセンターアカウントの管理](partner-center-account-setup.md)」を参照してください。 グローバル管理者は、Azure Active Directory (AAD) を使用して会社のユーザーを設定することもできます。
+インセンティブプログラムに登録するには、グローバル管理者またはアカウント管理者が会社のユーザーを設定する必要があります。 インセンティブ管理者を割り当て、インセンティブユーザーのアクセス許可を付与する必要があります。 パートナーアカウント、ロール、アクセス許可の詳細については、「 [パートナーセンターアカウントの管理](partner-center-account-setup.md)」を参照してください。 グローバル管理者は、Azure Active Directory (Azure AD) を使用して、会社のユーザーを設定することもできます。
 
 組織がインセンティブの対象となると、Microsoft はグローバル管理者、アカウント管理者、インセンティブ管理者に招待を送信します。
 
@@ -43,7 +47,7 @@ ms.locfileid: "88427007"
 
 組織がインセンティブの対象となると、Microsoft は、対象となる MPNLocationID の MPN 管理者に招待を送信してプロセスを開始します。 この電子メールは、 **Microsoft パートナーセンター**から送信され、 **パートナーインセンティブ登録招待**を受けます。 招待を開き、[ **開始**] を選択します。
 
-パートナーセンターのホームページにも、招待が表示されます。 このメッセージを選択すると、再度表示することはできません。 ただし、管理者は、 [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)で [ユーザーの管理] に移動してプロセスを開始できます。
+パートナーセンターのホームページにも、招待が表示されます。 このメッセージを選択すると、再度表示することはできません。 ただし、管理者は、 [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/) にサインインして [ **ユーザー管理**] を選択することで、プロセスを開始できます。
 
 ## <a name="expiration-and-renewal"></a>有効期限と更新
 

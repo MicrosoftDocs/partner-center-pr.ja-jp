@@ -9,12 +9,12 @@ ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998364"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220700"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>分析を使用して間接リセラーのパフォーマンスを分析する
 
@@ -39,7 +39,7 @@ ms.locfileid: "87998364"
 
 次のメトリックを追跡しています。
 
-**要約**  
+**まとめ**  
  - **Total resellers** (リセラーの合計数): サブスクリプションの最終日にアクティブなリセラーの数  
  - **New resellers** (新規リセラー数): 指定した期間の新規間接リセラーの数  
  - **Active resellers** (アクティブなリセラー数): MPNID に 1 つ以上のサブスクリプションがあり、サブスクリプションの状態がプロビジョニング解除ではない間接リセラーの数  
@@ -69,7 +69,19 @@ ms.locfileid: "87998364"
  - **Location** (場所): 間接リセラーが営業している市場  
  - **Subscriptions** (サブスクリプション数): リセラーが販売したサブスクリプションの数  
  - **Licenses** (ライセンス数): すべてのサブスクリプションを合わせてリセラーが販売したライセンスの合計数  
+
+**MPA の署名された状態**
+
+このセクションでは、CSP 間接リセラーの MPA の署名された状態について説明します。
+
+ - **再販業者名**: CSP 間接リセラーの名前
+ - **MPN id**: 間接リセラーの MPN id
+ - **リージョン**: 間接リセラーが運用するリージョン
+ - **MPN 審査 status**: 間接リセラーの審査の状態
+ - **Mpa の署名済みステータス**: 間接リセラーの mpa 署名状態
+
+グラフのダウンロードアイコンをクリックして、追加のディメンションを含む MPA 署名済み状態データをダウンロードします
   
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [サブスクリプションとライセンスを分析して、ビジネス上の意思決定を促進する](analyze-subscriptions-licenses.md)

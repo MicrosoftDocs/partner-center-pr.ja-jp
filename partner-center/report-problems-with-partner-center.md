@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040758"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220250"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>パートナーセンターで問題を報告し、ログまたは診断情報を送信する方法
 
@@ -29,7 +29,7 @@ ms.locfileid: "89040758"
 
 パートナーセンターのユーザーがログインすると、パートナーサポート要求を作成できます。 ユーザーは、パートナーセンターにログインした後に送信されたサポート要求のみを表示できます。
 
-**パートナー センターに関する問題を報告する**
+## <a name="report-a-problem-with-the-partner-center"></a>パートナー センターに関する問題を報告する
 
 1. **パートナーセンター**のダッシュボードで、[**サポート**] を選択し、[**パートナーサポート要求**] を選択します。
 
@@ -41,7 +41,7 @@ ms.locfileid: "89040758"
 
 5. 問題の **詳細** を入力し、 **送信**します。 パートナー サポート担当者が改めてご連絡します。
 
-**診断を送る**
+## <a name="send-diagnostics"></a>診断を送る
 
 パートナーセンターのページでエラーが発生した場合は、ログ情報を収集するように求めるメッセージが表示されることがあります。 ページの上部にあるドロップダウンリストから [ **詳細情報の収集** ] を選択して、クライアント診断ツールを開きます。 このツールを使用すると、パートナー サポート チームがエラーの原因を特定するために必要な情報が収集されます。 
 
@@ -54,7 +54,7 @@ ms.locfileid: "89040758"
 
 診断情報をプレビューできます。その後、サポート要求に添付できるファイルにその情報を保存します。 情報を送信するには、次の手順に従います。
 
-3. 削除する必要がある個人を特定できる情報が含まれている可能性があるため、送信前にファイル内の情報を確認します。 
+3. 削除する必要がある個人を特定できる情報が含まれている可能性があるため、送信前にファイル内の情報を確認します。
 
     >[!NOTE]
     >一部ブラウザーでは、**[プレビュー]** ページの下部にある **[ページ ビュー]** セクションに何も表示されない場合があります。 これは問題ありません。

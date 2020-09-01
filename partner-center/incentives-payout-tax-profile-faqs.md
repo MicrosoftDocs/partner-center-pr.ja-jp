@@ -1,19 +1,19 @@
 ---
 title: インセンティブの支払いと税金のプロファイルに関する FAQ
 ms.topic: article
-ms.date: 07/21/2020
+ms.date: 08/31/2020
 description: インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 29c77cd06964bf00e7506738c92f5764a678e605
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: b6e66605c0afcf460fffd5d31c14b5e150ff495a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303148"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220530"
 ---
 # <a name="incentives-payout-and-tax-profile-faqs"></a>インセンティブの支払いと税金のプロファイルに関する FAQ
 
@@ -39,7 +39,7 @@ Microsoft インセンティブプログラムの支払いを受け取るには�
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>支払い/税金の詳細を提供/更新するには、どうすればよいですか?
 
-パートナー センターで支払いおよび税金の詳細を更新する方法の詳細については、「[パートナーセンターで銀行および税のプロファイルを作成および管理する方法](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center)」を参照してください。
+パートナーセンターで支払いと税金の詳細を更新する方法の詳細については、「 [パートナーセンターでの支払いと税金のプロファイルの作成と管理](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md)」を参照してください。
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>支払いおよび税務プロファイルを割り当てるとき、登録が表示されないのはなぜですか?
 
@@ -49,7 +49,7 @@ Microsoft インセンティブプログラムの支払いを受け取るには�
 
 支払いと税金のプロファイルを表示するには、次の手順に従います。
 
-1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard)にログインします。
+1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
 2. 歯車アイコンを選択して **[設定]** メニューを開きます。
 
@@ -65,7 +65,7 @@ Microsoft インセンティブプログラムの支払いを受け取るには�
 
 MPN の場所に対して作成された税務プロファイルは、その MPN の場所が他のインセンティブ プログラムに参加すると再利用され、自動的に入力されます。 ただし、例外が発生する場合もあります。 たとえば、新しいインセンティブ プログラムの支払いルールに基づいて、税務プロファイルの追加情報が求められることがあります。  
 
-## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみサインインでき @onmicrosoft.com ます。 どうすればよいですか。
+## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみサインインでき @onmicrosoft.com ます。   どうすればいいですか。
 
 ドメインを AAD アカウントに追加するには、アカウント管理者に連絡してください。
 
