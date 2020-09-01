@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
+ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274981"
+ms.locfileid: "89281314"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
@@ -73,9 +73,9 @@ ms.locfileid: "89274981"
 | UnitPrice | ライセンスあたりの料金。購入時の価格表に記載されています。 この価格が、調整中に請求システムに格納されている情報と一致していることを確認してください。 |
 | Quantity | ライセンス数。 この価格が、調整中に請求システムに格納されている情報と一致していることを確認してください。 |
 | Unittype.pixel 単位 | メーターが課金するユニットの種類。  |
-| すべての Lingpretaxtotal | 税金までの合計請求額。 |
+| すべての Lingpretaxtotal | 税金までの合計請求額。<br/> _**すべての Lingpretaxtotal** = FLOOR (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ])、2)_ |
 | BillingCurrency | 顧客の地域における通貨。 |
-| PricingPreTaxTotal | 税金が追加される前の価格。 <br/> _**PricingPreTaxTotal** = FLOOR (([ @EffectiveUnitPrice ]*[ @Quantity ]*[] @PCToBCExchangeRate )、2)_ |
+| PricingPreTaxTotal | 税金が追加される前の価格。 |
 | PricingCurrency | 価格表の通貨。 |
 | ServiceInfo1 | 特定の日にプロビジョニングおよび使用された Service Bus 接続の数。 |
 | ServiceInfo2 | 省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールド。 |
