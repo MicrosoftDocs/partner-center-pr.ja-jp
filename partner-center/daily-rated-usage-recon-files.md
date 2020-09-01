@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943459"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274981"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
@@ -54,7 +54,7 @@ ms.locfileid: "86943459"
 | 発行元 | 発行元の名前。 |
 | PublisherId | GUID 形式のパブリッシャーの識別子。 |
 | SubscriptionDescription | 価格表で定義されている、顧客が購入したサービス プランの名前。 (この列には、 **Offername**と同じフィールドがあります)。 |
-| SubscriptionId | Microsoft 請求プラットフォームでのサブスクリプションの一意識別子。 調整には使用されません。 *この識別子は、パートナー管理コンソールの**サブスクリプション ID**と同じではありません。* |
+| SubscriptionId | Microsoft 請求プラットフォームでのサブスクリプションの一意識別子。 調整には使用されません。 *この識別子は、パートナー管理コンソールの **サブスクリプション ID** と同じではありません。* |
 | ChargeStartDate | 請求サイクルの開始日 (以前の請求サイクルから以前に使用されていた使用状況データを表示していない日付を表示する場合を除く)。 この時間は常に、1 日の開始時刻である 0:00 です。 |
 | ChargeEndDate | 請求サイクルの終了日 (以前の請求サイクルから過去に発生した使用状況データを表示する場合を除く)。 時刻は常に、その日の終わりの時刻 (23:59) になります。 |
 | UsageDate | サービス使用の日付。 |
@@ -64,7 +64,7 @@ ms.locfileid: "86943459"
 | MeterSubCategory | 料金に影響する可能性のある Azure サービスの種類。 |
 | MeterName | 使用しているメーターの測定単位。 |
 | MeterRegion | この列は、MeterRegion が適用可能で設定されているサービスのリージョン内のデータセンターの場所を示します。 |
-| ユニット | リソース**名**の単位です。 |
+| ユニット | リソース **名**の単位です。 |
 | ResourceLocation | メーターが実行されているデータセンター。 |
 | ConsumedService | 使用した Azure プラットフォーム サービス。 |
 | ResourceGroup | Azure ソリューションの関連リソースを保持するコンテナーを表します。 |
@@ -75,12 +75,12 @@ ms.locfileid: "86943459"
 | Unittype.pixel 単位 | メーターが課金するユニットの種類。  |
 | すべての Lingpretaxtotal | 税金までの合計請求額。 |
 | BillingCurrency | 顧客の地域における通貨。 |
-| PricingPreTaxTotal | 税金が追加される前の価格。 |
+| PricingPreTaxTotal | 税金が追加される前の価格。 <br/> _**PricingPreTaxTotal** = FLOOR (([ @EffectiveUnitPrice ]*[ @Quantity ]*[] @PCToBCExchangeRate )、2)_ |
 | PricingCurrency | 価格表の通貨。 |
 | ServiceInfo1 | 特定の日にプロビジョニングおよび使用された Service Bus 接続の数。 |
 | ServiceInfo2 | 省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールド。 |
 | タグ | ユーザーによって設定された Azure リソースの論理編成を表します。 |
-| AdditionalInfo | 他の列で説明されていない任意の追加情報。 |
+| AdditionalInfo: | 他の列で説明されていない任意の追加情報。 |
 | EffectiveUnitPrice | 割引、獲得したクレジットなど、ユニットごとに課金される実際の値。 |
 | PCToBCExchangeRate | 料金通貨に適用される換算レートが請求通貨に適用されます。 |
 | PCToBCExchangeRateDate | 請求通貨の価格の通貨が決定される日付。 |
