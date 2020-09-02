@@ -1,20 +1,20 @@
 ---
 title: 一部の Skype for Business サブスクリプションを移行する
+description: 有効期限が切れた Skype for Business Online プラン1サブスクリプションを持つ特定の顧客を新しい Office 365 バージョンに移行する方法とタイミングについて説明します。
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 有効期限が切れた Skype for Business Online プラン1サブスクリプションを持つ特定の顧客を新しい Office 365 バージョンに移行する方法とタイミングについて説明します。
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f65977c5ff8f512c0b95a165cc667bc6bff05c7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.date: 06/03/2020
+ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436561"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367626"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行
 
@@ -76,7 +76,7 @@ API (CREST またはパートナー センターのいずれか) を使用して
 
 8. サブスクリプションの詳細ページで、サブスクリプションを **[中断]** に設定します。
 
-9. [送信] を選択し**ます。**
+9. [送信] を選択し **ます。**
 
 以前のサブスクリプションが中断され、新しいサブスクリプションがアクティブになります。 中断されたサブスクリプションは、120 日後に自動的にプロビジョニングが解除されます。 お客様には、以前のサブスクリプションの追加コストは発生しません。
 

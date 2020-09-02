@@ -1,20 +1,20 @@
 ---
 title: 特別価格の対象となる業界への販売
+description: 教育機関のお客様、非営利顧客、政府ユーザーなど、特定の顧客グループ向けの特別で低価格の価格について説明します。
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 教育機関のお客様、非営利顧客、政府ユーザーなど、特定の顧客グループ向けの特別で低価格の価格について説明します。
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 863084a34a35c887b18a58231ac86b45e3acd03f
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545533"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367176"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>教育、非営利団体、官公庁/自治体のユーザーといった特別な業界への販売
 
@@ -42,7 +42,7 @@ ms.locfileid: "87545533"
 
 次の手順は、間接プロバイダーおよびダイレクト請求パートナーにのみ適用されます。 間接リセラーは、認定された教育ユーザーに教育機関向けの特典を提供するために、間接プロバイダーに接続する必要があります。
 
-1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)で、ウィンドウの右上隅にある歯車アイコンを選択して、**アカウント設定**を開きます。
+1. パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)で、ウィンドウの右上隅にある歯車アイコンを選択して、 **アカウント設定**を開きます。
 
 2. **[パートナー プロファイル]** の **[プログラム情報]** セクションで **[リセラーの資格]** を参照します。
 

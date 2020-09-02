@@ -1,20 +1,20 @@
 ---
 title: 顧客の予約 Microsoft Azure 購入する
+description: パートナーセンターで顧客の代理として Azure の予約を購入または購入する方法について説明します。
 ms.topic: article
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: パートナーセンターで顧客の代理として Azure の予約を購入または購入する方法について説明します。
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900101"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367016"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure Reservations を購入する
 
@@ -33,7 +33,7 @@ ms.locfileid: "87900101"
 - ユーザー管理の管理者
  
 > [!NOTE]
-> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに[この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
+> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
 
 ## <a name="before-you-begin"></a>開始する前に
 
@@ -108,7 +108,7 @@ ms.locfileid: "87900101"
 
 1. パートナー センター メニューで、**[顧客]** を選択します。  
 
-2. [**顧客**] ページで、Azure の予約を購入する顧客を探し、下矢印を選択して顧客の行を展開します。  
+2. [ **顧客** ] ページで、Azure の予約を購入する顧客を探し、下矢印を選択して顧客の行を展開します。  
 
 3. **[製品の追加]** を選択し、 **[Azure]** を選択します。 
 
@@ -121,7 +121,7 @@ ms.locfileid: "87900101"
 4. Azure Reservations をアクティブな Azure サブスクリプションに関連付ける必要があります。 **顧客サブスクリプション**の一覧から、Azure 予約を追加する顧客のサブスクリプションを選択します。 
 
    >[!IMPORTANT]
-   >お客様がまだアクティブな Azure サブスクリプションを持っていない場合は、 **azure**を選択して今すぐ追加してください。 
+   >お客様がまだアクティブな Azure サブスクリプションを持っていない場合は、 **azure** を選択して今すぐ追加してください。 
 
 5. フィルターを使用して、顧客の要件を満たす仮想マシンでの Azure 予約を検索します。  
 
@@ -139,7 +139,7 @@ ms.locfileid: "87900101"
       >予約の対象範囲を 1 つの Azure サブスクリプションに制限することを選択した場合は、サブスクリプションの vCPU クォータを増やすことが必要な場合があります。 サブスクリプションの vCPU クォータを増やすには、Azure portal でサポート要求を作成する必要があります。 [このトピック](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)の手順に従って、要求を作成します。 
 
       >[!NOTE]   
-      >顧客が Azure プランの下にある場合、**スコープ**は [**共有**] に設定されます。 
+      >顧客が Azure プランの下にある場合、 **スコープ**  は [ **共有**] に設定されます。 
 
     - プロバイダー パートナーの場合は、製品に関連付けるリセラーを選択します。
     
@@ -148,7 +148,7 @@ ms.locfileid: "87900101"
 
 9. **[購入]** を選択して注文内容を購入します。 注文番号を含む注文の詳細が、**[確認]** ページに表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。 
 
-10. Azure portal で顧客の予約を管理するには **、顧客のページで**顧客を見つけ、下矢印を選択して顧客の行を展開します。 [ **Microsoft Azure の管理ポータル**] を選択して、Azure portal で顧客のレコードを開きます。
+10. Azure portal で顧客の予約を管理するには **、顧客のページで** 顧客を見つけ、下矢印を選択して顧客の行を展開します。 [ **Microsoft Azure の管理ポータル** ] を選択して、Azure portal で顧客のレコードを開きます。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
 |**対象**   |**参照先**    |

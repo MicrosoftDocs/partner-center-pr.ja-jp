@@ -1,20 +1,20 @@
 ---
 title: 顧客を Microsoft Azure 予約に販売する
+description: クラウドソリューションプロバイダーとして、顧客向けの Azure 予約を購入、販売、管理することができます。 パートナーセンター、Azure portal、またはパートナーセンター API を使用します。
 ms.topic: article
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: クラウドソリューションプロバイダーとして、顧客向けの Azure 予約を購入、販売、管理することができます。 パートナーセンター、Azure portal、またはパートナーセンター API を使用します。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3efe8ae6a955dee5cfe01d0571cd107f8ee50f5c
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: 7f6ca7aa7dddbd9e32690928ee8d48afa5071b14
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900080"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367036"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>パートナーセンター、Azure portal、Api を使用して Microsoft Azure の予約を顧客に販売する
 
@@ -33,7 +33,7 @@ ms.locfileid: "87900080"
 - ユーザー管理の管理者
 
 > [!NOTE]
-> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに[この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
+> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
 
 CSP プログラムのパートナーは、お客様に Microsoft Azure 予約を提供できます。 事前に予約した場合、顧客はコストを大幅に節約できます。 Azure Reservations では顧客の皆様に、次のように簡単で柔軟にご利用いただけます。
 

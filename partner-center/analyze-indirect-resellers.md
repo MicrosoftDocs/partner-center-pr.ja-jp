@@ -1,20 +1,20 @@
 ---
 title: 間接リセラーのパフォーマンス分析
-ms.date: 05/13/2020
+description: 分析を使用して、間接リセラーがどのように実行されているかを確認します。成功と領域の両方で、さらに注意が必要になる場合があります。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 分析を使用して、間接リセラーがどのように実行されているかを確認します。成功と領域の両方で、さらに注意が必要になる場合があります。
 author: shganesh
 ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 05/13/2020
+ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220700"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367356"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>分析を使用して間接リセラーのパフォーマンスを分析する
 
@@ -82,6 +82,6 @@ ms.locfileid: "89220700"
 
 グラフのダウンロードアイコンをクリックして、追加のディメンションを含む MPA 署名済み状態データをダウンロードします
   
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [サブスクリプションとライセンスを分析して、ビジネス上の意思決定を促進する](analyze-subscriptions-licenses.md)

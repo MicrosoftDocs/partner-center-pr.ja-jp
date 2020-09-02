@@ -1,20 +1,20 @@
 ---
 title: パートナー センターでの請求の種類
+description: パートナーセンターに表示されるさまざまな課金の種類、請求期間、請求日について説明します。
 ms.topic: article
-ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: パートナーセンターに表示されるさまざまな課金の種類、請求期間、請求日について説明します。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87df060346e380a17030e6d1dc83ff5746f55eb0
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 05/13/2020
+ms.openlocfilehash: 40d83a70aa5eb5781b924bbafb8b619efacc5681
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527608"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367046"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>パートナーセンターでの課金の種類-ライセンスベース、使用量ベース、および1回限りの課金を含みます。
 
@@ -38,8 +38,8 @@ ms.locfileid: "87527608"
 
 顧客のために購入する製品の種類によっては、請求期間が異なったり、同じ月の異なる日に請求されたりすることがあります。
 
-月単位の請求を選択した場合、または月単位で請求される使用量ベースの製品を購入した場合、毎月の請求日は、パートナー センターで CSP アカウントを作成するときに選択した日付になります。 CSP アカウントが正常に作成された後、Microsoft は請求日を含む確認メールを送信します。 作成した後でこの日付を変更することはできません。
+毎月の課金を選択した場合、または月ごとに課金される使用量ベースの製品を購入した場合、月々の請求日は、パートナーセンターで CSP アカウントを作成したときに選択した日付になります。 CSP アカウントが正常に作成されると、Microsoft は請求日が記載された確認メールを送信します。 作成した後でこの日付を変更することはできません。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [請求書と調整ファイルを理解する-パートナーセンターでそれらを検索する方法について説明します](read-your-bill.md)

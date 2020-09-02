@@ -1,20 +1,20 @@
 ---
 title: 最大限の予約使用に備えた Azure VM サイズ
+description: Microsoft Azure の予約を購入した場合に、お客様のコンピューティングニーズに合わせて仮想マシン (VM) のサイズを変更する方法について説明します。
 ms.topic: how-to
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Microsoft Azure の予約を購入した場合に、お客様のコンピューティングニーズに合わせて仮想マシン (VM) のサイズを変更する方法について説明します。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: bc9fc14598e7c96f9cc1b55eba7c59af68ad84a9
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: ba24376bad1d04fcbc9f02d442f0cba7e6354bd3
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900110"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367096"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ
 
@@ -25,7 +25,7 @@ ms.locfileid: "87900110"
 - CSP プログラムのパートナー
  
 > [!NOTE]
-> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに[この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
+> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>顧客の Azure 予約の VM サイズを決定する
 
@@ -54,7 +54,7 @@ ms.locfileid: "87900110"
 
 1. パートナー センターで **[顧客]** ページに移動します。
 
-2. Azure VM の予約を購入したい顧客を見つけて、下矢印を選択して顧客の情報を展開します。 [ **Microsoft Azure の管理ポータル**] を選択して、Azure portal で顧客のレコードを開きます。
+2. Azure VM の予約を購入したい顧客を見つけて、下矢印を選択して顧客の情報を展開します。 [ **Microsoft Azure の管理ポータル** ] を選択して、Azure portal で顧客のレコードを開きます。
 
 3. ポータルのメニューから **[仮想マシン]** を選択し、予約を購入する対象の VM を選択します。
 
@@ -97,9 +97,9 @@ ms.locfileid: "87900110"
 
 1. パートナー センターで **[顧客]** ページに移動します。
 
-2. 予約割引と使用量を確認し、下矢印を選択して顧客の情報を展開します。 [ **Microsoft Azure の管理ポータル**] を選択して、Azure portal で顧客のレコードを開きます。
+2. 予約割引と使用量を確認し、下矢印を選択して顧客の情報を展開します。 [ **Microsoft Azure の管理ポータル** ] を選択して、Azure portal で顧客のレコードを開きます。
 3. ポータルのメニューから **[予約]** を選択し、使用状況を確認する対象の予約を選択します。
-4. [**概要**] ページで、予約の使用状況グラフを確認します。これには、仮想マシンに適用された予約の量が表示されます。
+4. [ **概要** ] ページで、予約の使用状況グラフを確認します。これには、仮想マシンに適用された予約の量が表示されます。
 
     >[!NOTE]
     >使用率データには、最大で 8 時間の遅延が発生することがあります。
