@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a958450349056dc24e7e46b2ecbb84c857938a0
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390609"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220510"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>パートナー獲得クレジット - CSP の新しいコマース エクスペリエンスにおける仕組みの概要
 
@@ -73,11 +73,8 @@ Azure には何千ものサービスがあり、複数の購入オプション�
 >[!Note]
 >顧客は、パートナーに付与されたアクセス権を削除することができます。 パートナーは、Microsoft からパートナー獲得クレジットを獲得することのみを目的として、適切なアクセス権を割り当てるように顧客に強要してはなりません。この要件を順守しない場合、パートナーはパートナー獲得クレジットを獲得することができません。
 
-**詳細情報**
+## <a name="next-steps"></a>次のステップ
 
 - [パートナー獲得クレジットの計算方法と支払方法](partner-earned-credit-explanation.md)
-
 - [Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)
-
 - [CSP の新しい Azure コマース エクスペリエンスの価格表](azure-plan-price-list.md)
-
