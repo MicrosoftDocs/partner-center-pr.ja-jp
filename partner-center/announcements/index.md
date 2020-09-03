@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: b34cfc1448ba97d663b8dc89f424905775f9766c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303288"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286506"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
 パートナー センターの重要な更新についての詳細をご確認ください。 この情報は頻繁に更新されるので、定期的にチェックしてみてください。
 
-| **カテゴリ** | **2020 年 8 月のお知らせ** | **発表** |
+| **カテゴリ** | **2020 年 9 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[今後の新しい Microsoft Dynamics 365 プラン](2020-september.md#3)|9 月 1 日|
+|製品サービス/市場|[Office 365 の通話プランが、2020 年 10 月 1 日に新しい市場で利用可能になります](2020-september.md#2)|9 月 1 日|
+|製品サービス/市場|[教育機関向けサーバー用 Microsoft Defender Advanced Threat Protection (ATP) が利用可能](2020-september.md#1)|9 月 1 日|
+| **カテゴリ** | **2020 年 8 月のお知らせ** | **日付** |
+|機能|[教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイスの機能強化](2020-august.md#8)|8 月 31 日|
 |製品サービス/市場|[Microsoft 365 Voice プロモーションの更新](2020-august.md#7)|8 月 14 日|
 |機能|[.NET Standard v1.16.1 の SDK リリース](2020-august.md#6)|8 月 12 日|
 |機能|[Microsoft Project および Microsoft Visio のセルフサービス購入が近日対応予定](2020-august.md#5)|8 月 12 日|

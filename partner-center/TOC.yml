@@ -187,6 +187,8 @@
           href: connector-dynamics.md
         - name: Salesforce CRM のための共同販売コネクタ - 概要
           href: connector-salesforce.md
+        - name: Partner Sales Connect (PSC) から移行するパートナーのための共同販売
+          href: psc-to-pc.md
         - name: 取引の登録
           href: register-deals.md
         - name: 紹介の分析情報を取得する
@@ -293,7 +295,7 @@
     - name: お客様向けに Azure の支出の予算を設定する
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 未払い、詐欺、不正使用の管理
-      href: non-payment--fraud--or-misuse.md
+      href: non-payment-fraud-misuse.md
     - name: 未割り当ての支払いを管理する
       href: unallocated-payment.md
 - name: お客様とつながる
@@ -458,6 +460,8 @@
           href: pci-roles.md
         - name: Insights - 顧客ダッシュボード
           href: pci-customer-report.md
+        - name: Insights - リセラー パフォーマンス ダッシュボード
+          href: pci-resellers-performance.md
         - name: Insights - 製品サブスクリプション ダッシュボード
           href: pci-product-subscriptions-report.md
         - name: Insights - 製品ライセンスダッシュボード
