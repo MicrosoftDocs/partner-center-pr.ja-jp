@@ -9,21 +9,18 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 207a6013f11ab795bf46e184a4e98379e3ef3301
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
+ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281346"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89471469"
 ---
 # <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
 **適用対象**
 
-- 紹介
-- Microsoft と共同販売する
-- PSC ユーザーアカウントのセットアップ
-- Partner Sales Connect (PSC) ユーザー 
+- パートナー センター
 
 **適切なロール**
 
@@ -33,7 +30,7 @@ ms.locfileid: "89281346"
 - Partner Sales Connect (PSC) 管理者
 - Partner Sales Connect (PSC) 取引マネージャー
 
-ご存じのように、会社は2020年12月31日の投稿にアクセスできなくなります。 パートナーセンターで Microsoft の販売元によって送信された取引を作成したり、取引を管理したり、取引を操作したりするために必要なすべてのものを見つけることができます。 ただし、違いはありますが、次のガイダンスを参考にして、パートナーセンターへの移行を円滑に進めることができます。
+ご存じのように、会社は2020年12月31日の投稿にアクセスできなくなります。 ただし、パートナーセンターで Microsoft の販売者から送信された取引を共同で作成し、取引を管理し、取引を処理するために必要なすべてのものを見つけることができます。 ただし、違いはありますが、次のガイダンスを参考にして、パートナーセンターへの移行を円滑に進めることができます。
 
 >[!Important]
 > ここでは、移行に関する PSC にバナーが表示されているので、適切な場所にあります。 このガイドは、PSC での取引を管理するソリューション評価 (SA) および OEM IOT パートナーには適用されません。
@@ -43,14 +40,14 @@ ms.locfileid: "89281346"
 ### <a name="if-you-are-psc-admin"></a>PSC 管理者の場合
 
 - [パートナーセンター](https://partner.microsoft.com/)にログインするには、職場の電子メールが必要です。
-- パートナーセンターの [アカウント管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)に問い合わせて、アカウントを設定します。
+- パートナーセンターの [アカウント管理者](https://docs.microsoft.com/partner-center/permissions-overview)に問い合わせて、アカウントを設定します。
 - このドキュメントを読んで、パートナーセンターで共同販売する方法を説明します。
-- すべての PSC ユーザー (管理者、取引先担当者、および販売者ロール) にパートナーセンターのユーザーアカウントを設定し、 [参照管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) ロールを割り当てます。
+- すべての PSC ユーザー (管理者、取引先担当者、および販売者ロール) のパートナーセンターでユーザーアカウントを設定し、 [参照管理者ロール](https://docs.microsoft.com/partner-center/permissions-overview)を割り当てます。
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>PSC 取引マネージャーまたは販売者の場合
 
-- [パートナーセンター](https://partner.microsoft.com/)にログインするには、職場の電子メールが必要です。
-- PSC で仕事用ではないアカウントを使用している場合や、勤務先の電子メールがパートナー組織とは異なる会社の場合は、PSC 管理者に連絡してアカウントをセットアップしてください。
+- [パートナーセンター](https://partner.microsoft.com/)にサインインするには、勤務先の電子メールが必要です。
+- PSC で仕事用ではないアカウントを使用している場合や、勤務先の電子メールがパートナー企業とは異なる会社の場合は、PSC 管理者に連絡してアカウントをセットアップしてください。
 - PSC へのログインに使用するアカウントに関係なく、パートナーセンターアカウントのセットアップが完了している場合は、PSC 管理者に確認してください。
 - パートナーセンターと [紹介] セクションにアクセスできるかどうかを確認します。
 - このドキュメントを参照して、パートナーセンターでのワークフローと変更について理解してください。
@@ -59,7 +56,7 @@ ms.locfileid: "89281346"
 
 [参照] タブが表示されない場合は、次のようになります。
 
-- 会社の [アカウント管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) は、[紹介] タブへのアクセスを許可できます。アカウント管理者を見つけるには、パートナーセンターの右上にある歯車アイコンから [パートナー設定] にアクセスします。 左側のナビゲーションバーの2番目のレベルで [ユーザー管理] ページを選択します。 ページの右上にある [すべてのユーザー] を表示するドロップダウンをクリックし、"Account Admins" に変更します。 このページには、すべてのアカウント管理者が、それぞれの電子メール Id と共に表示されます。 これらのユーザーに連絡して、職場アカウントの "参照管理者" アクセスを取得してください。
+- 会社の [全体管理者](https://docs.microsoft.com/partner-center/permissions-overview) は、[紹介] タブへのアクセスを許可できます。全体管理者を見つけるには、パートナーセンターの右上にある歯車アイコンから [パートナー設定] にアクセスします。 左側のナビゲーションバーの2番目のレベルで [ユーザー管理] ページを選択します。 ページの右上にある "すべてのユーザー" と表示されているドロップダウンをクリックし、[全体管理者] に変更します。 このページには、すべてのグローバル管理者が、それぞれの電子メール Id と共に表示されます。 これらのユーザーに連絡して、職場アカウントの "参照管理者" アクセスを取得してください。
 
 >[!Important]
 > 役割が PSC のユーザーのみを管理している場合は、パートナーセンターで [アカウント管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) ロールを取得できます。 ロールに共同販売機会の管理も含まれている場合は、 [参照管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) ロールを取得する必要があります。 また、psc 管理者が1つの変更管理者を指名して、すべての PSC 管理者が PC のアカウント管理者を個別に管理するのではなく、パートナーセンターアカウント管理者と協力します。
@@ -69,7 +66,7 @@ ms.locfileid: "89281346"
 - 左側のナビゲーションウィンドウの [紹介] タブに移動し、ページにアクセスできるかどうかを確認します。
 
 >[!Note]
-> 参照ページにアクセスするために資格情報を更新するには、パートナーセンターからログアウトしてから再度ログインする必要がある場合があります。
+> 参照ページにアクセスするには、パートナーセンターからサインアウトし、もう一度サインインして資格情報を更新する必要がある場合があります。
 
 パートナーセンターでアカウントを設定した後、
 
@@ -111,7 +108,7 @@ ms.locfileid: "89281346"
 
 ## <a name="psc-and-partner-center-field-mapping"></a>PSC とパートナーセンターのフィールドマッピング
 
-このセクションは、PSC とパートナーセンター間の属性の正確なマッピングを理解するのに役立ちます。 PSC の各画面は、「パートナーセンターの共同販売機会」セクションで関連するビューと比較されます。 
+このセクションでは、PSC とパートナーセンター間の属性の正確なマッピングを示します。 PSC の各画面は、「パートナーセンターの共同販売機会」セクションで関連するビューと比較されます。 
 
 >[!Note]
 >PSC のスクリーンショットの黄色いバブルに記載されている番号に従って、パートナーセンターで同等の属性を見つけます。 赤色のバブルは、取引先センターでそのファイリングを利用できないことを示しています。
@@ -224,7 +221,7 @@ PSC の営業案件 ID は、PC の取引 ID と同じです。 商談を開く�
 
 PSC とは異なり、パートナーセンターには、直接 PDMs からアクセスすることはできません。 この機能を有効にするには、次のような複数のオプションがあります。
 
-- OCP Insights-PDMs がそれらに関連する & の進行状況を表示するだけの場合は、OCP Insights ポータルを使用して組織のビューを取得できます。 これは内部ツールであり、PDMs とユーザーのみが使用できます。 OCP insights は、会社のユーザーには使用できないことに注意してください。
+- OCP Insights-PDMs がそれらに関連する & の進行状況を表示するだけの場合は、OCP Insights ポータルを使用して組織のビューを取得できます。 これは内部ツールであり、PDMs でのみ使用できます。 OCP insights は、会社のユーザーには使用できないことに注意してください。
 - パートナーセンターのゲストユーザー-PDM @microsoft.com アカウントをパートナーセンターのゲストユーザーとして追加し、それらに参照管理者ロールを割り当てて、参照を表示して操作できるようにすることができます。
 - テナントに [新しいユーザー](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) を作成する-独自のテナントに新しいユーザーを作成し、それらの詳細を PDM と共有して、アカウント内の他の参照ユーザーと同様の参照を表示して操作できるようにすることができます。
 
@@ -244,7 +241,7 @@ PSC とは異なり、パートナーセンターには、直接 PDMs からア�
 |ビジネスプロファイルの作成と管理|[ビジネス プロファイルの管理](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
 |ビジネスプロファイルの潜在顧客を管理する |[見込み客を管理する](https://docs.microsoft.com/partner-center/manage-leads)|
 
-## <a name="additional-resources"></a>その他のリソース
+## <a name="additional-resources"></a>その他の技術情報
 
 - Partner Sales パートナーセンター[ブックに接続](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx)して、パートナーの販売プロセスとロールを、パートナーセンターとパートナーの sales Connect を介して新しい販売プロセスに合わせます。
 - [パートナーセンターの共同販売の操作ガイド](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -パートナーセンターを介して、潜在顧客の管理や共同販売の機会の管理、および取引の登録を行うために、運用モデルを識別するためのガイダンスです。
