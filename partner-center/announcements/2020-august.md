@@ -9,18 +9,57 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303058"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274990"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月のお知らせ
 
 このページでは、2020 年 8 月の Microsoft パートナー センターのお知らせについて詳しく説明します。
 
 2020 年のお知らせ:[1 月](2020-january.md) | [2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | 8 月
+
+________________
+
+## <a name="partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="8"></a>教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイスの機能強化
+
+### <a name="categories"></a>［カテゴリ］
+
+- 日付:2020-08-31
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じてアカデミック向けオファーを販売しているパートナー様 
+
+### <a name="summary"></a>まとめ
+
+Microsoft が基盤としているのは信頼であり、クラウド ソリューション プロバイダー プログラムにおけるアカデミック向けオファーの取引を行うにあたって顧客を検証するための、法令に準拠した安全な手段の提供に努めています。 このコミットメントの一環として、パートナー センター API とユーザー インターフェイスの機能強化を、現会計年度の第 2 四半期 (FY21 Q2) に導入する予定です。これにより、顧客の審査プロセスの明瞭性と可視性が向上し、より正確なデータを入力できるようになるため、顧客審査の成功率が上がります。 
+
+#### <a name="partner-center-enhancements"></a>パートナー センターの機能強化
+
+- 正確なデータ入力をサポートし、Microsoft による教育機関顧客の検証プロセスを改善するための新しい GET および POST Qualifications API。
+- 正確なデータ入力をサポートし、Microsoft による教育機関顧客の検証プロセスを改善するためのユーザー インターフェイスの拡張機能。
+
+#### <a name="testing"></a>テスト
+
+パートナー様は、10 月からこれらの拡張機能をテストすることができます。 顧客の審査を成功させるために必要な API とデータ入力について理解を深めるため、この機会をご利用になることを強くお勧めします。 正確なスケジュールと参加方法の詳細については、近日中にお知らせします。 既存のパートナー センター API は、FY21 Q2 末までに廃止されます。その時点で、すべてのパートナー様が新しいパートナー センター API の使用に移行している必要があります。
+
+#### <a name="library-and-museum-customers"></a>図書館と博物館の顧客
+
+上記の拡張機能に加えて、FY21 Q2 中に、図書館および博物館の顧客向けにアカデミック価格のオファーを提供できるようになり、CSP オファーを取り引きできる教育機関の顧客が拡大することをお知らせいたします。
+
+Microsoft では、すべての顧客または提案された顧客の適格教育ユーザーとしての状態をレビューする権利を留保します。 詳細については、[アカデミック適格教育ユーザーの要件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)をご覧ください。
+
+### <a name="next-stepsadditional-resources"></a>次の手順/追加のリソース
+
+- パートナー センターの新しいユーザー インターフェイスと API の変更内容を、次のオペレーション レディネス リソースで確認します:[パートナー センターの教育機関顧客検証プロセスの機能強化](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- パートナー様の組織が[アカデミック適格教育ユーザーの要件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)について理解していることを確認します。
+- この情報を組織内の該当するチームやリセラーと共有し、これらの変更内容に対して準備できるようにします。
+- 10 月のテストの機会については、正確なスケジュールと参加方法に関する発表をお待ちください。
 
 ________________
 

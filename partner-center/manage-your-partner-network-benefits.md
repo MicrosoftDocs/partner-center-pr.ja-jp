@@ -1,7 +1,7 @@
 ---
 title: Microsoft Partner Network の特典を管理する
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Partner Network (MPN) に参加し、パートナー センターを使用して、ビジネスの成長に役立つメンバーシップの特典とプランを管理します。
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb44a8c32476995275535e1252e2bc9ae2c618d1
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120001"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220750"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>パートナー センターで Microsoft Partner Network メンバーシップの特典とプランを管理する
 
@@ -41,9 +41,11 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
 >[!IMPORTANT]
 >特典を購入するために組織内の全体管理者である必要はありませんが、特典を従業員に割り当てるには全体管理者である必要があります。 必要に応じて、[ **[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) で、次の手順に従って全体管理者になることができます。 会社に既に全体管理者がいる場合があるため、必ずチームで確認してください。
 
-特典パッケージでは、ライセンス付与されたソフトウェア、クラウド サービス、Visual Studio サブスクリプション、サポートが割り当てられます。 特典パッケージには、特定の市場投入、オファー、およびプログラムも含めることができます。 [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) サイトで Action Pack サブスクリプションの詳細を確認できます。  
+特典パッケージでは、ライセンス付与されたソフトウェア、クラウド サービス、Visual Studio サブスクリプション、テクニカル サポートが割り当てられます。 特典パッケージには、特定の市場進出リソース、オファー、市場関連のプログラムも含めることができます。 [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) サイトで Action Pack サブスクリプションの詳細を確認できます。  
 
 すべてのメンバーシップ特典を表示および管理するには、[ **[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) にアクセスします。 または、パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインし、左側のメニューから **[Benefits option]/(特典オプション/)** を選択して、表示されている任意の特典オプションを選択します。  
+
+通常、パートナー センターでは、グローバル管理者または MPN パートナー管理者のロールを割り当てられていない人は、大半の特典のアクティブ化や関連するソフトウェア キーのダウンロードができません。特典が何も表示されない場合、または特典をアクティブ化できない場合は、適切なアクセス許可をお持ちであることを確認するため、パートナー センターのグローバル管理者にお問い合わせください。 [パートナー センターのロールの詳細については、こちらをご覧ください](permissions-overview.md)。
 
 ## <a name="manage-software-benefits"></a>ソフトウェア特典を管理する
 
@@ -88,23 +90,27 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
 
 ## <a name="manage-technical-benefits"></a>技術特典の管理
 
-1. **[技術特典]** を選び、マイクロソフトの技術特典の一覧を表示します。
+このセクションでは、パートナー センターの[ダッシュボード](https://partner.microsoft.com/dashboard)でテクニカル サポート特典をアクティブ化して管理する方法について説明します。 ただし、Microsoft Partner Network のメンバーシップが Partner Membership Center (PMC) にまだ残っている場合は、Partner Frontline などの別のリソースに連絡して、技術的な特典をアクティブ化するための支援を受ける必要があります。 「[パートナー センター外で Microsoft Partner Network の技術的な特典をアクティブ化する](partner-membership-center-tech-benefits-activate.md)」を参照してください。
 
-   技術特典には、マイクロソフト製品サポート インシデント、パートナー相談時間、テクニカル プリセールス、デプロイメント サービスなどがあります。
+パートナー センターで技術的な特典を確認するには、次の手順を実行します。
 
-2. 使い始めるサポート特典を見つけ、行の右端にある下向き矢印を選んで特典の詳細を展開します。
+1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
-3. サポート特典をアクティブ化するには、ユーザーをサポート特典に割り当てます。
+2. **[特典]** を選択し、左側のナビゲーション メニューから **[技術関連の特典]** を選択します。 [技術関連の特典] ページに、Gold、Silver、または Microsoft Action Pack コンピテンシーのいずれかで使用できるテクニカル サポート特典の一覧が表示されます。
 
-   a。 一覧からユーザーを選択します。 割り当てるユーザーが一覧に表示されない場合は、 **[アカウント設定]** で[新しいユーザーを追加](create-user-accounts-and-set-permissions.md)します。
+   これらのオプションや [技術関連の特典] ページが表示されない場合は、パートナー センターで適切な[ユーザー ロール](permissions-overview.md)が割り当てられていない可能性があります。 アクセス権を取得するには、パートナー センターのグローバル管理者にお問い合わせください。
 
-   b. パートナーセンターアカウントに関連付けられたメール アドレスとは異なるユーザー メール アドレスを入力します。
+3. 特典の一覧を展開します。 特定のサポート特典を使い始めるには、初めて使うときに以下を行う必要があります。
 
-   安全を期して、ユーザーのパートナー センター アカウントのメール アドレスに加え、このメール アドレスにもマイクロソフト製品サポートの利用手順を説明したメールが送信されます。 この特典を有効にし、割り当てられたユーザーに手順を記載したメールが届くまで数日かかることがあります。
+   - **技術関連の特典をアクティブ化します。** 特典の詳細を展開した後、 **[アクティブ化]** を選択します。 アクティブ化リクエストの処理が完了するまで数日間待ちます。
 
-   c. 別のメールアドレスの入力が完了したら、 **[ユーザーの割り当て]** を選びます。
+   - **製品サポートのアクセス ID と契約 ID を表示し、共有します。** アクティブ化リクエストが処理された後、その技術関連の特典を次に展開したときに、**アクセス ID** と**契約 ID** に関する詳細が表示されます。 特定の種類の製品またはサービスについてのサポート リクエストを初めて送信いただくとき、ご自身か会社のユーザーからこの情報をお送りいただく必要がある場合があります。
 
-4. テクニカル プリセールス支援や相談時間の特典を使用して、クラウドおよびハイブリッド ソリューションのプリセールス、設計、デプロイメント、アプリケーション開発の各局面で技術支援をリクエストすることができます。 支援をリクエストするには、[リクエスト フォーム](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)に記入して、 **[リクエストの送信]** を選択します。
+4. アクティブ化が完了すると、さまざまな種類のテクニカル サポートについて技術関連の特典を利用できるようになります。 以下の種類のサービスに関するテクニカル サポート リクエストを送信するには、[技術関連の特典] ページにある詳細な手順をご覧ください。
+
+   - 顧客の代理でクラウド製品のサポートをリクエストする
+   - オンプレミス製品のサポートをリクエストする
+   - 技術的なプリセールスおよびデプロイ サービスまたは[相談時間](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)をリクエストする
 
 ## <a name="manage-go-to-market-offers"></a>市場投入オファーを管理する
 
