@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: 4daaaa9cdaa0392b90a67d7fc0a8957d3393d6e3
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942564"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490620"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>専門知識をお客様に提供するための高度な特殊化を獲得 
 
@@ -28,7 +28,7 @@ ms.locfileid: "88942564"
 
 **Microsoft Azure するための Web アプリケーションの**最新化と呼ばれる高度な特殊化に関心がある場合は、パートナーセンターメニューから選択します。 [前提条件] ページが表示されます。
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="前提条件":::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="アクティブなゴールドクラウドプラットフォームコンピテンシーを獲得するための要件を示すサンプルの前提条件ページ。":::
 
 
 すべての前提条件を満たしていないと、状態は [未開始] のままに **なります。** 前提条件を満たしている場合は、[ **監査のスケジュール** ] ボタンが有効になります。 次の Azure の高度な特殊化については、サードパーティの監査担当者による監査を完了する必要があります。
@@ -47,11 +47,11 @@ ms.locfileid: "88942564"
 
 顧客参照を必要とする高度な特殊化の例として、 **Microsoft Teams の会議室や会議室**などがあります。 Gold コンピテンシー、認定資格、およびパフォーマンス要件に加えて、展開と管理の機能を示す3つの顧客参照を提供する必要があります。
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="前提条件":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="顧客参照を必要とする高度な特殊化の前提条件ページのサンプル。":::
 
 すべての前提条件を満たしていないと、状態は [未開始] のままに **なります。** すべての要件を完了すると、状態は [ **アクティブ**] になります。 アクティブな状態では、 **ビジネスプロファイル** のタグが自動的に有効になります。このタグは、 [ソリューションプロバイダーの検索](https://www.microsoft.com/solution-providers/home)を検索するすべてのお客様に表示されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - Microsoft コンピテンシーの要件の詳細について[は、Gold とシルバーのメンバーシップに関する microsoft コンピテンシーの要件](learn-about-competencies.md)に関するページを参照してください
 

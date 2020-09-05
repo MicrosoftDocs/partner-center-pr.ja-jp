@@ -1,22 +1,22 @@
 ---
-title: パートナー販売 Connect (PSC) からパートナーセンター (PC) に移行するパートナー向けの紹介101
+title: Partner Sales Connect (PSC) からの移行
 ms.topic: article
 ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft の認定パートナーとして、Microsoft との共同販売を行うことができます。 取引を定義する方法、Microsoft に招待して共同作業を行う方法、または送信された取引を表示する方法を説明します。
+description: Microsoft パートナーが Partner Sales Connect (PSC) からパートナーセンターに移行し、Microsoft の販売者から送信された取引を作成または管理する方法について説明します。
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
-ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
+ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/04/2020
-ms.locfileid: "89471469"
+ms.locfileid: "89490660"
 ---
-# <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
+# <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
 **適用対象**
 

@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2fc6c66de21a32c2b4cfd47ecd0fe97764109b18
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943699"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490630"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>パートナーセンターの洞察-Microsoft の商用パートナーがどのように実行しているかを示すダッシュボード
 
@@ -30,7 +30,7 @@ Insights は、Microsoft Partner Network (MPN) プログラムに登録されて
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Insights ダッシュボードへのロールベースのアクセス制御
 
-パートナーセンターには、**レポートビューアー**と**エグゼクティブレポートビューアー**の2つの新しいロールが用意されています。 Executive レポートビューアーロールのユーザーは、すべてのレポートデータセットにアクセスできますが、レポートビューアーロールのユーザーは、収益や従業員の個人データなどの機微なデータセットにアクセスすることはできません。 
+パートナーセンターには、 **レポートビューアー** と **エグゼクティブレポートビューアー**の2つの新しいロールが用意されています。 Executive レポートビューアーロールのユーザーは、すべてのレポートデータセットにアクセスできますが、レポートビューアーロールのユーザーは、収益や従業員の個人データなどの機微なデータセットにアクセスすることはできません。 
 
 全体管理者またはアカウント管理者は、ユーザーにこれらのロールを割り当てることができ、会社全体または特定の MPN の場所に割り当てられます。  
 
@@ -68,11 +68,11 @@ Insights は、Microsoft Partner Network (MPN) プログラムに登録されて
 
 - 選択したフィルターは、[概要] セクションを含む、ページ上のすべてのグラフとメトリックに適用されます。 フィルター項目は、そのフィルター条件内にデータがある場合に使用できます。 
 
-- 各フィルター一覧の既定の選択は**all**です。 たとえば、製品フィルターで特定の製品を選択していない場合、既定の選択は [すべての製品] になります。
+- 各フィルター一覧の既定の選択は **all**です。 たとえば、製品フィルターで特定の製品を選択していない場合、既定の選択は [すべての製品] になります。
 
 - 選択したフィルターは、ページの上部に表示されます。 
 
-:::image type="content" source="images/pci/filters.png" alt-text="仕分け":::
+:::image type="content" source="images/pci/filters.png" alt-text="製品、顧客マーケット、パートナー帰属、および販売チャネルにフィルター選択が適用された適用済みのフィルターバーを示す部分的なスクリーンショット。":::
 
 ### <a name="filters-definitions"></a>フィルターの定義:
 

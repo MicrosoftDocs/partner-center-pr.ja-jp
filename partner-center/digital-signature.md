@@ -9,12 +9,12 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2509068cc035dda1dc8494a7989bd375a45c6f26
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545663"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490650"
 ---
 # <a name="view-digitally-signed-invoices"></a>デジタル署名された請求書の表示
 
@@ -34,24 +34,24 @@ ms.locfileid: "87545663"
 
 2. 請求書の上部には **[署名済み] と表示され、すべての署名が有効**であることが必要です。
  
- :::image type="content" source="images/digitalsig/digital1.png" alt-text="有効な署名":::
+ :::image type="content" source="images/digitalsig/digital1.png" alt-text="有効な署名通知バナー付きのサンプル請求書。緑色のチェックマークと語句、署名済み、すべての署名が有効です。":::
 
-3. 署名をクリックします。 有効性を示す証明書がポップアップ表示されます。
+3. 署名をクリックします。 有効性を示す証明書が表示されます。
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="証明"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="[承認された署名者] フィールドと [署名検証の状態] ダイアログボックスの [詳細]、[署名のプロパティ] オプション、[キャンセル] オプションを使用した署名付き請求書。"::: 
 
-4. 署名の**プロパティ**を選択すると、署名の有効性に関する詳細が表示されます。
+4. 署名の **プロパティ** を選択すると、署名の有効性に関する詳細が表示されます。
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="署名のプロパティ"::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="署名プロパティの詳細ビューには、だれが、ドキュメントが署名された日時、検証プロセス、署名者の証明書に関する情報が表示されます。"::: 
 
 4. また、証明書のパスが正しいことと、証明書が信頼されていることを確認することもできます。
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="証明":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="[証明書ビューアー] ダイアログボックスには、証明書とその発行チェーン全体に関する詳細情報を含むタブがいくつか表示されます。":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>請求書とデジタル署名に関する追加情報
 
 パートナーセンターで注文を作成したユーザーにデジタルコピーが送信されます。 2020年7月17日より前に発行された請求書に対して、デジタル署名付きの請求書を取得することはできません。 また、手動で署名した請求書は使用できません。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [一般的な課金シナリオ](common-billing-scenarios.md)
