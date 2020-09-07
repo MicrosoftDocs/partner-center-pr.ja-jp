@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 5309b7cca20aff3fb37c0dd7607ba7439f2851c4
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286506"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427099"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "89286506"
 
 | **カテゴリ** | **2020 年 9 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[強化されたインセンティブ サポート エクスペリエンスとチケット作成プロセス](2020-september.md#4)|9 月 2 日|
 |製品サービス/市場|[今後の新しい Microsoft Dynamics 365 プラン](2020-september.md#3)|9 月 1 日|
 |製品サービス/市場|[Office 365 の通話プランが、2020 年 10 月 1 日に新しい市場で利用可能になります](2020-september.md#2)|9 月 1 日|
 |製品サービス/市場|[教育機関向けサーバー用 Microsoft Defender Advanced Threat Protection (ATP) が利用可能](2020-september.md#1)|9 月 1 日|
