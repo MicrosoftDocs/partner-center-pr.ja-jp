@@ -1,7 +1,7 @@
 ---
 title: 利点に関する FAQ
 ms.topic: article
-ms.date: 06/17/2020
+ms.date: 09/08/2020
 description: Azure、クラウド、Visual Studio、テクニカルおよびサポートの特典の特典の有効期限、更新、ライセンス認証に関する質問への回答
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
-ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
+ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "89551643"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564732"
 ---
 # <a name="benefits-faq"></a>利点に関する FAQ
 
@@ -95,7 +95,8 @@ Azure の一括クレジットプランを他のプランと組み合わせる�
 
 サブスクリプションを割り当てた後、ユーザーはそのサブスクリプションを管理するために Visual Studio にログインする必要があります。
 
-注: パートナーセンターで Visual Studio サブスクリプションに割り当てられたユーザーは、元の割り当ての90日まで削除できません
+>[!Note]
+> パートナーセンターで Visual Studio サブスクリプションに割り当てられたユーザーは、元の割り当てから90日まで削除できません。
 
 ## <a name="technical-benefits-and-support"></a>技術的な利点とサポート
 
