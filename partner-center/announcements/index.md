@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 5309b7cca20aff3fb37c0dd7607ba7439f2851c4
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: c2894e3ef7c80cbff2952f22aaf32ba4227b874e
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427099"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564762"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,7 +22,8 @@ ms.locfileid: "89427099"
 
 | **カテゴリ** | **2020 年 9 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
-|製品サービス/市場|[強化されたインセンティブ サポート エクスペリエンスとチケット作成プロセス](2020-september.md#4)|9 月 2 日|
+|製品サービス/市場|[新しい SKU が、お客様に Project Cortex の力をもたらします](2020-september.md#5)|9 月 8 日|
+|機能|[強化されたインセンティブ サポート エクスペリエンスとチケット作成プロセス](2020-september.md#4)|9 月 2 日|
 |製品サービス/市場|[今後の新しい Microsoft Dynamics 365 プラン](2020-september.md#3)|9 月 1 日|
 |製品サービス/市場|[Office 365 の通話プランが、2020 年 10 月 1 日に新しい市場で利用可能になります](2020-september.md#2)|9 月 1 日|
 |製品サービス/市場|[教育機関向けサーバー用 Microsoft Defender Advanced Threat Protection (ATP) が利用可能](2020-september.md#1)|9 月 1 日|
