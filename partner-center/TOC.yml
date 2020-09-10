@@ -163,6 +163,8 @@
       href: reset-my-pasword.md
     - name: パートナー センターにサインインできない場合
       href: unable-to-sign-in.md
+    - name: MPN プログラムの管理者が退職した場合の対処方法
+      href: no-mpn-admin.md
 - name: パートナー センター アカウントの管理 - ビジネス
   items:
     - name: Azure Partner Shared Services の追加
