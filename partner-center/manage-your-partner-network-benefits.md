@@ -1,7 +1,7 @@
 ---
 title: Microsoft Partner Network の特典を管理する
 ms.topic: article
-ms.date: 08/27/2020
+ms.date: 09/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Partner Network (MPN) に参加し、パートナー センターを使用して、ビジネスの成長に役立つメンバーシップの特典とプランを管理します。
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220750"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427089"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>パートナー センターで Microsoft Partner Network メンバーシップの特典とプランを管理する
 
@@ -69,7 +69,7 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
 
 2. 使い始めるサブスクリプションまたは製品を見つけ、行の右端にある下向き矢印を選んでサブスクリプションまたは製品の詳細を展開します。
 
-3. Microsoft Azure の使用量ベースのサブスクリプションをアクティブ化するには、自分をユーザーとして割り当てます。 サブスクリプションを管理するには、Microsoft Azure ポータルにアクセスします。
+3. Microsoft Azure の使用量ベースのサブスクリプションをアクティブ化するには、自分をユーザーとして割り当てます。 サブスクリプションを管理するには、Microsoft Azure portal にアクセスします。
 
    ライセンスベースのサブスクリプションをアクティブ化するには、 **[キーの取得]** を選んで製品ライセンス キーをコピーし、サブスクリプションをアクティブ化するための特別な指示に従います。  
 
@@ -106,12 +106,23 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
 
    - **製品サポートのアクセス ID と契約 ID を表示し、共有します。** アクティブ化リクエストが処理された後、その技術関連の特典を次に展開したときに、**アクセス ID** と**契約 ID** に関する詳細が表示されます。 特定の種類の製品またはサービスについてのサポート リクエストを初めて送信いただくとき、ご自身か会社のユーザーからこの情報をお送りいただく必要がある場合があります。
 
-4. アクティブ化が完了すると、さまざまな種類のテクニカル サポートについて技術関連の特典を利用できるようになります。 以下の種類のサービスに関するテクニカル サポート リクエストを送信するには、[技術関連の特典] ページにある詳細な手順をご覧ください。
+4. アクティブ化が完了すると、さまざまな種類のテクニカル サポートについて技術関連の特典を利用できるようになります。 以下のサービスに関するテクニカル サポート リクエストを送信するには、[技術関連の特典] ページにある詳細な手順をご覧ください。 以下の詳細もご覧ください。
 
-   - 顧客の代理でクラウド製品のサポートをリクエストする
-   - オンプレミス製品のサポートをリクエストする
-   - 技術的なプリセールスおよびデプロイ サービスまたは[相談時間](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)をリクエストする
+   パートナー センターの技術関連の特典ページでは、次の種類のテクニカル サポートについて説明しています。
 
+   **テクニカル サポート (障害対応)。** 機能が中断した場合や、予期したとおりに動作しない場合 (エラー メッセージが表示された場合など) に、この種類のテクニカル サポートを使用します。 いくつかのガイダンスを次に示します。
+
+   - Gold および Silver コンピテンシー パートナーに限り (Action Pack サブスクライバーは対象外)、**クラウド製品**には**署名製品サポート**をご利用ください。
+
+   - Action Pack と Gold および Silver コンピテンシー パートナーのどちらも、**最近のオンプレミス製品** (現在および前のバージョンのみ) には **Microsoft 製品サポート** インシデントをご利用ください。
+
+     >[!NOTE]
+     > オンプレミス、Azure (CSP 以外)、Dynamics 製品のテクニカル サポート リクエストには、アクセス ID と契約 ID が必要です。 今後、アクセス ID と契約 ID を確認するには、[特典を見つける](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)方法に関するページもご覧ください。
+  
+   **テクニカル プリセールスおよび展開サービス。**  この種類のサポートは、テクニカル セールスまたは展開に関する相談をしたり、アドバイスを受けたりするために使用します。 これらのサービスは、[パートナー センター](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)から直接リクエストすることができます。
+
+   - Action Pack と Gold および Silver コンピテンシー パートナーのどちらも、クラウドおよびハイブリッド ソリューションには**テクニカル プリセールスおよび展開サービス**をご利用ください。
+  
 ## <a name="manage-go-to-market-offers"></a>市場投入オファーを管理する
 
 **このタスクを実行するのに適切なロール:**

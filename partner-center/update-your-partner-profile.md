@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304979"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490640"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>パートナー センターで、パートナー プロファイルの情報を確認する
 
@@ -55,6 +55,17 @@ Partner Membership Center からパートナー センターへの移行中、�
 2. 次に、 **[パートナー プロファイル]** にアクセスし、 **[Update legal business profile]\(法的ビジネスプロファイルの更新\)** を選択します。
 
 3. 法的ビジネスとして使用する場所とビジネスを選択し、 **[保存]** を選択します。
+
+## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>CSP アカウントに関連付けられている MPN ID を更新する
+
+ご使用の CSP アカウントに関連付けられている MPN ID を更新するには、次のようにします。
+
+1. パートナー センター ダッシュボードにサインインします。
+1. **[アカウント設定]** から **[パートナー プロファイル]** を選択します。
+1. **[Associated MPNID]\(関連付けられた MPNID\)** の横にある **[更新]** を選択します。
+1. **[続行]** をクリックします。
+1. MPN ID を追加します。
+
 
 ## <a name="update-your-billing-address"></a>請求先住所を更新する
 

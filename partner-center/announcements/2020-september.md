@@ -9,18 +9,103 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/01/2020
-ms.openlocfilehash: a2d89b8ff40cbfd3b64b109b23c5dc05901c99a2
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: a036cb1cd0b987e12cfe16aca2c7cf98a80cee55
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89287797"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564742"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月のお知らせ
 
 このページでは、2020 年 9 月の Microsoft パートナー センターのお知らせについて詳しく説明します。
 
 2020 年のお知らせ:[2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | 9 月
+
+________________
+
+## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="5"></a>新しい SKU で顧客は Project Cortex のパワーを利用できます
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-09-08
+- 製品サービス/市場
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー様
+
+### <a name="summary"></a>要約
+
+顧客が [Project Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) と [Project Turing](https://msturing.org/) のパワーを活用するのに役立つ新しい SKU が 2020 年 10 月 1 日から利用できるようになります。
+
+### <a name="details"></a>詳細
+
+[Project Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) (インテリジェント コンテンツ サービス) や Microsoft Search (Search 用の Microsoft Graph コネクタを含む) を始めとする新しい SKU が 2020 年 10 月 1 日に使用可能になることを発表いたします。これにより、ユーザーは情報をより効率的に検索して管理できるようになります。  
+
+#### <a name="intelligent-content-services"></a>インテリジェント コンテンツ サービス
+  
+インテリジェント コンテンツ サービスでは、高度な AI を使用して、コンテンツのキャプチャ、タグ付け、管理の自動化が行われます。 これを SharePoint 上に構築することで、大容量のコンテンツ処理、プロセスの自動化のためのメタデータ抽出、詳細に設定されたセキュリティとコンプライアンスが実現します。 インテリジェント コンテンツ サービスによって、より正確で精細なコンテンツがナレッジ ネットワークに投入され、ナレッジのキュレーションと検出のエクスペリエンスが向上します。 新しいインテリジェント コンテンツ サービスの SKU は **10 月 1 日の価格表**で使用可能になります (プレビューは 9 月 1 日の価格表に掲載されます)。 
+ 
+**注:** インテリジェント コンテンツ サービスはこの製品のプレースホルダー名で、2020 年 10 月 1 日より後にブランド名が変更される見込みです。
+ 
+**Microsoft Search 用の Microsoft Graph コネクタ**。Microsoft Graph コネクタを使用すると、顧客は外部リポジトリ内の項目にインデックスを作成して Microsoft Search の結果に含めることができます。 
+
+2020 年 10 月 1 日から: 
+
+- Microsoft 365 E5 と Office 365 E5 には、Microsoft Search 用の Microsoft Graph コネクタを使用して最大 500 項目にインデックスを作成する機能が組み込まれます (A5 には組み込まれません)。  
+- SharePoint または OneDrive プランの含まれたスイートまたはスタンドアロンのライセンスを持つすべてのユーザーは、Microsoft Search 用の Microsoft Graph コネクタからの検索結果を表示できます。 
+- 最大 100 万個の追加項目のインデックスを作成する新しい**追加 Graph コネクタ容量 SKU** が使用可能になります。  
+
+#### <a name="offer-details"></a>特典の詳細
+
+   |**プラン名**|**プラン ID**|**マテリアル ID**|
+   |-------------------|:------|:------|
+   |インテリジェント コンテンツ サービス|2e969027-6eca-44a3-88fb-e7923e2c147f|5YI-00004|
+   |インテリジェント コンテンツ サービス (非営利団体職員向けの価格)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
+   |教職員向けインテリジェント コンテンツ サービス|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
+   |追加 Graph コネクタ容量|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
+   |教職員向け追加 Graph コネクタ容量|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
+
+### <a name="next-steps"></a>次のステップ
+
+- このトピックのリソースを確認し、組織内の該当する関係者と共有してください。
+- これらのオファーについてご不明な点がある場合は、関連する Yammer コミュニティでご確認ください。
+
+________________
+
+## <a name="enhanced-incentives-support-experience-and-ticket-creation-process"></a><a name="4"></a>強化されたインセンティブ サポート エクスペリエンスとチケット作成プロセス
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-09-02
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+すべてのパートナー
+
+### <a name="summary"></a>要約
+
+パートナー インセンティブ サポートのエクスペリエンスが向上して、セルフ ヘルプ コンテンツが検索しやすくなり、オンライン チケット送信プロセスが効率化されました。
+
+### <a name="details"></a>説明
+
+パートナー インセンティブ向けに拡張機能が追加されて、セルフ ヘルプ コンテンツが探しやすくなり、サポート プロセスのデータ収集のためにページを行き来する回数が減ってチケット送信プロセスが効率化され、全体的なサポート エクスペリエンスが向上しました。
+
+#### <a name="new-capabilities"></a>新機能
+
+- 新しい検索ベースのセルフ ヘルプ エクスペリエンスには、[パートナー センター](https://aka.ms/IncentivesSupport)内で (非パートナー センター アカウントの場合は [Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) で) アクセスできます。 新しいエクスペリエンスには、新しいトラブルシューティング手順、FAQ、関連するセルフ ヘルプ記事および Microsoft Partner Network のサポート ページへのリンクが含まれます。
+- 新しいサポート リクエストをパートナー センター内で直接開始できます。 使用可能なトピック固有のヘルプを確認した後、まだサポートが必要な場合、パートナー センターからのみチケットを直接作成できます。
+- すべてのセルフ ヘルプ トピックで、問題のスコープを絞っていくための新しい質問を利用できます。 これらの質問に答えていくと、多くの重要な詳細情報がエージェントに事前に提供されるため、サポート チケットを開始するときに前後に行き来する手間が大いに省けます。
+
+
+### <a name="next-steps"></a>次のステップ
+
+- この情報を組織内の他の担当者と共有してください。 
+- 必要なすべてのインセンティブ サポートのために、[パートナー センター](https://aka.ms/IncentivesSupport)または [Microsoft Partner Network](https://partner.microsoft.com/support/?stage=1) で新しいサポート エクスペリエンスをご利用ください。 
+
+**注:** サポート リクエストを直接メールで受け付ける機能は廃止されるため、利用できなくなります。
 
 ________________
 

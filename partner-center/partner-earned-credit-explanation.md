@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db2dc98d3f40dbb29bd00111d8787a4a8cb0e082
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943619"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564693"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>パートナー獲得クレジットの計算方法と支払方法
 
@@ -38,7 +38,7 @@ ms.locfileid: "86943619"
 
 - PEC は、パートナーによって管理される CSP 内の顧客の Azure 資産に対して課金される (請求可能な) 消費量に関連付けられます。 PEC は、Microsoft (間接プロバイダーと直接請求パートナー) によって課金される CSP のパートナーに対してのみ利用可能にすることができます。 
 
-- 対象となるサービス:パートナー獲得クレジットは、パートナーが [Azure プランの価格](https://partner.microsoft.com/commerce/sales)ページからエクスポートできる **Azure プランの従量課金価格**に記載されているサービスに適用されます。 ただし、Azure プランの従量課金価格および Azure プランの予約の **[Tags]\(タグ\)** 列で **[Third Party]\(サードパーティ\)** として示されているサードパーティ製品や、Marketplace の価格表の製品には (それ以外についても)、例外があります。
+- 対象となるサービス:パートナー獲得クレジットは、パートナーが [Azure プランの価格](https://partner.microsoft.com/commerce/sales)ページからエクスポートできる **Azure プランの従量課金価格**に記載されているサービスに適用されます。 パートナー獲得クレジットは、Azure プラン従量課金価格表の **[タグ] 列**に**サード パーティ**と記載されているサード パーティ製品、Azure プラン予約、Marketplace 価格表に記載されている製品、[Azure スポット仮想マシン](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)には適用されません。
 
 - PEC は日単位で計算され、毎日の使用状況ファイルと毎月の請求調整ファイルで確認できます。 パートナー (間接プロバイダーまたは間接リセラー) が PEC を確実に取得するには、終日 (24 時間 365 日) のアクセス権を持っている必要があります。  
 
