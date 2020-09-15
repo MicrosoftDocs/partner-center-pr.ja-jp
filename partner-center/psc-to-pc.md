@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
+ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490660"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90082520"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
@@ -43,6 +43,9 @@ ms.locfileid: "89490660"
 - パートナーセンターの [アカウント管理者](https://docs.microsoft.com/partner-center/permissions-overview)に問い合わせて、アカウントを設定します。
 - このドキュメントを読んで、パートナーセンターで共同販売する方法を説明します。
 - すべての PSC ユーザー (管理者、取引先担当者、および販売者ロール) のパートナーセンターでユーザーアカウントを設定し、 [参照管理者ロール](https://docs.microsoft.com/partner-center/permissions-overview)を割り当てます。
+
+>[!Important]
+> PSC バナーに示されている MPN ID が、パートナーセンターの MPN の場所の一覧に表示されていることを確認します。 パートナーセンターで、[アカウントの設定] と [ [場所](https://docs.microsoft.com/partner-center/manage-locations) ] に移動して、パートナーセンターアカウントに関連付けられているすべての MPNs の一覧を確認できます。
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>PSC 取引マネージャーまたは販売者の場合
 
@@ -241,7 +244,7 @@ PSC とは異なり、パートナーセンターには、直接 PDMs からア�
 |ビジネスプロファイルの作成と管理|[ビジネス プロファイルの管理](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
 |ビジネスプロファイルの潜在顧客を管理する |[見込み客を管理する](https://docs.microsoft.com/partner-center/manage-leads)|
 
-## <a name="additional-resources"></a>その他の技術情報
+## <a name="additional-resources"></a>その他のリソース
 
 - Partner Sales パートナーセンター[ブックに接続](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx)して、パートナーの販売プロセスとロールを、パートナーセンターとパートナーの sales Connect を介して新しい販売プロセスに合わせます。
 - [パートナーセンターの共同販売の操作ガイド](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -パートナーセンターを介して、潜在顧客の管理や共同販売の機会の管理、および取引の登録を行うために、運用モデルを識別するためのガイダンスです。
