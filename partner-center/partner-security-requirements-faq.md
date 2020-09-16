@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444898"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614160"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
 
@@ -214,7 +214,7 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>PowerShell などの自動化ツールを使用しています。 セキュリティで保護されたアプリケーション モデルを実装するにはどうすればよいですか?
 
-自動化が、非対話形式で実行され、認証にユーザー資格情報を使用するためである場合は、セキュア アプリケーション モデルを実装する必要があります。 このフレームワークを実装する方法については、[Partner Center PowerShell のセキュリティで保護されたアプリケーション モデル](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5)に関する記事をご覧ください。  
+自動化が、非対話形式で実行され、認証にユーザー資格情報を使用するためである場合は、セキュア アプリケーション モデルを実装する必要があります。 このフレームワークを実装する方法については、[Partner Center PowerShell のセキュリティで保護されたアプリケーション モデル](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)に関する記事をご覧ください。  
 
 >[!Note] 
 >すべての自動化ツールでアクセス トークンを使用して認証を行う機能が提供されているわけではありません。 どのような変更が必要であるかを理解する上で支援が必要な場合は、[パートナー センター セキュリティ ガイダンス](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) グループにメッセージを投稿してください。 
@@ -292,7 +292,7 @@ Microsoft では、追加の保護を提供するために、多要素認証 (MF
 
 リソースにアクセスするアカウントで多要素認証が要求されていることを検証するには、[認証方法参照](https://tools.ietf.org/html/rfc8176)要求を調べて、MFA が一覧に含まれているかどうかを確認します。 サードパーティ ソリューションによっては、この要求が発行されないか、MFA 値が含まれていない場合があります。 要求が存在しない場合、または MFA 値が表示されない場合は、認証対象のアカウントで多要素認証が要求されたかどうかを判断する方法がありません。 サードパーティのソリューションのベンダーと協力して、ソリューションで認証方法参照要求を発行するために実行する必要があるアクションを決定する必要があります。
 
-想定されている要求がサードパーティのソリューションで発行されているかどうか不明な場合は、「[パートナーのセキュリティ要件のテスト](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0)」を参照してください。
+想定されている要求がサードパーティのソリューションで発行されているかどうか不明な場合は、「[パートナーのセキュリティ要件のテスト](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)」を参照してください。
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>AOBO を使用した顧客のサポートが MFA によってブロックされます。どうすればよいですか?
 
