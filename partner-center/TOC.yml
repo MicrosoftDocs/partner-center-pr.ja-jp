@@ -292,8 +292,8 @@
           href: organization-tax-info.md
         - name: 源泉徴収のためのクレジットを受け取る
           href: withholding-tax-credit-form.md
-        - name: 'Office 365 パートナー アドバイザリ:CSP プログラムでの Microsoft 365 Business Voice'
-          href: o365-partner-advisory.md
+        - name: 地域税 - ボイス サービス
+          href: tax-and-fees-voice-services.md
     - name: Microsoft から SLA クレジットを要求する
       href: request-credit.md
     - name: お客様向けに Azure の支出の予算を設定する
