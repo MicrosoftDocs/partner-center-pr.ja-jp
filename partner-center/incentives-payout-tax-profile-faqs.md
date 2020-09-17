@@ -1,21 +1,21 @@
 ---
 title: インセンティブの支払いと税金のプロファイルに関する FAQ
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 description: インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: b6e66605c0afcf460fffd5d31c14b5e150ff495a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 3b972090c376399dfc474d74b8be5b03330ea0c1
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220530"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714406"
 ---
-# <a name="incentives-payout-and-tax-profile-faqs"></a>インセンティブの支払いと税金のプロファイルに関する FAQ
+# <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問
 
 適用対象:
 

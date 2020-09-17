@@ -1,7 +1,7 @@
 ---
-title: インセンティブの申請の作成と管理 | パートナー センター
+title: インセンティブ共同要求の管理
 ms.topic: how-to
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: パートナーセンターからインセンティブ共同要求を開始する方法について説明します。 申請を構成するすべてのアクティビティは履歴で確認できます。
@@ -9,16 +9,17 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fbeb506e02f8375ef12c4d1db43c4315aa7b665c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 406aba55b53919d3f189a67ef49b5c41991fef7d
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220660"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714136"
 ---
-# <a name="create-and-manage-an-incentives-claim"></a>インセンティブの申請の作成と管理
+# <a name="create-and-manage-an-incentives-co-op-claim"></a>インセンティブ co-op 要求の作成と管理
 
 **適用対象**
+
 - パートナー センター
 
 **適切なロール**

@@ -1,7 +1,7 @@
 ---
 title: 協力インセンティブの申請
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 適切なドキュメント、請求書、ステートメント、および実行の証拠を整理することによって、インセンティブに対して成功した共同操作要求を送信する方法について説明します。
@@ -9,14 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 78c9d9b0150e936afc0d90ffc16d90a1334cbaba
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 0b8416281bcb8afd4e5166104df0710df100901b
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220680"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714306"
 ---
-# <a name="incentives-co-op-claims-overview"></a>協力インセンティブの申請の概要
+# <a name="overview-of-incentives-co-op-claims"></a>インセンティブ共同要求の概要
 
 **適用対象**
 
