@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274990"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614134"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月のお知らせ
 
@@ -136,7 +136,7 @@ ________________
 
 IT 部門が一元的な調達プロセスを行って必要なライセンスを取得しなくても、個人やチームにサービスを提供できるようになります。 サービスは、Microsoft 365 および Power Platform との統合シナリオに基づいて、Project と Visio にまたがることができます。 
 
-Visio と Power Platform のソリューションを使用したパートナーの営業案件について詳しくは、Microsoft Inspire セッション「[Rebuild and reimagine business with Microsoft Visio and Power Platform (Microsoft Visio と Power Platform によるビジネスの再構築と再考)](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)」をご覧ください。 詳細については、[セルフサービスに関する管理者ガイド](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide)にアクセスしてください。
+Visio と Power Platform のソリューションを使用したパートナーの営業案件について詳しくは、Microsoft Inspire セッション「[Rebuild and reimagine business with Microsoft Visio and Power Platform (Microsoft Visio と Power Platform によるビジネスの再構築と再考)](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)」をご覧ください。 詳細については、[セルフサービスに関する管理者ガイド](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)にアクセスしてください。
 
 #### <a name="additional-resources"></a>その他のリソース
 
@@ -172,7 +172,7 @@ ________________
 
 2020 年後半にリリース
 - 1,000 人の対話型 Teams 会議 
-- ‘表示のみ’ の会議エクスペリエンスで最大 20,000 人の参加が可能な機能を備えた、参加者 1,000 人の対話型会議。 
+- '表示のみ' の会議エクスペリエンスで最大 20,000 人の参加が可能な機能を備えた、参加者 1,000 人の対話型会議。 
 - カスタム ブランドの会議ロビー
 - 今年中に、カスタマイズ、ツール、通信の機能強化がさらに SKU に追加される予定です。
 

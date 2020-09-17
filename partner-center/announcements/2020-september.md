@@ -9,18 +9,50 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/01/2020
-ms.openlocfilehash: a036cb1cd0b987e12cfe16aca2c7cf98a80cee55
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 0bf31dd474087ae7f4b3c6c8924309d177de922b
+ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564742"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90574398"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月のお知らせ
 
 このページでは、2020 年 9 月の Microsoft パートナー センターのお知らせについて詳しく説明します。
 
 2020 年のお知らせ:[2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | 9 月
+
+________________
+
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>Microsoft Project および Microsoft Visio のセルフサービスによる購入が利用可能になりました
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-09-15
+- 製品サービス/市場
+
+### <a name="impacted-audience"></a>対象
+
+法人契約のお客様にオンライン サービスを販売しているパートナー
+
+### <a name="details"></a>詳細
+
+昨年、個人やチームが特定のサービスを直接購入できるようになることについて[お知らせ](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf)しました。 現在、世界中のユーザーがセルフサービスにより、次の Microsoft Project および Microsoft Visio 製品のサブスクリプションを購入できるようになりました。 
+
+- [Visio Plan 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) と [Visio Plan 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [Project Plan 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) と [Project Plan 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+
+注: セルフサービスによる購入機能は、インド、ブラジル、コンゴ民主共和国 (DRC) では現在利用できません。また、政府機関向けや教育機関向けのプランの対象のお客様も利用できません。  利用できるすべての国および更新については、「[セルフサービス購入についてよく寄せられる質問](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide&preserve-view=true)」をご確認ください。
+
+#### <a name="partner-benefits"></a>パートナーの特典
+
+IT 部門が一元的な調達プロセスを行って必要なライセンスを取得しなくても、個人やチームにサービスを提供できるようになります。 サービスは、Microsoft 365 および Power Platform との統合シナリオに基づいて、Project と Visio にまたがることができます。 お客様は、Visio および Project の試用版を購入する前に、[Visio Plan 1 と Visio Plan 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)、[Project Plan 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software) で試すこともできます。
+
+
+### <a name="next-steps"></a>次のステップ
+
+- 準備のすべてのリソースは、運用準備のリソース ギャラリーでご確認ください。[お客様のセルフサービスによる購入機能](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)。 -Visio と Power Platform のソリューションを使用したパートナーの営業案件について詳しくは、Microsoft Inspire セッション「[Rebuild and reimagine business with Microsoft Visio and Power Platform (Microsoft Visio と Power Platform によるビジネスの再構築と再考)](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)」をご覧ください。
+- 詳細については、[セルフサービスに関する管理者ガイド](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide&preserve-view=true)に関するページを参照してください。
 
 ________________
 
@@ -89,7 +121,7 @@ ________________
 
 パートナー インセンティブ サポートのエクスペリエンスが向上して、セルフ ヘルプ コンテンツが検索しやすくなり、オンライン チケット送信プロセスが効率化されました。
 
-### <a name="details"></a>説明
+### <a name="details"></a>詳細
 
 パートナー インセンティブ向けに拡張機能が追加されて、セルフ ヘルプ コンテンツが探しやすくなり、サポート プロセスのデータ収集のためにページを行き来する回数が減ってチケット送信プロセスが効率化され、全体的なサポート エクスペリエンスが向上しました。
 
