@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 55bafb22a652c9e01fc9cbd1f5303b35cf127d9a
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 157769fd08a99e63d2a2aac06e704a72add20a60
+ms.sourcegitcommit: b60577f772e240fd2c38c13987d2b39c4722fbad
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714237"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "90773836"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "90714237"
 
 | **カテゴリ** | **2020 年 9 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[2020 年 9 月 30 日の CSP O365 使用方法 API と CSP のライセンスの使用状況レポートに関する今後の変更点です。](2020-september.md#8)|9 月 17 日|
 |機能|[間接リセラー MPA 更新です。MPA API と新しい MPA レポートのユーザーに必要な操作](2020-september.md#7)|9 月 16 日|
 |製品サービス/市場|[Microsoft Project および Microsoft Visio のセルフサービス購入が利用可能になりました](2020-september.md#6)|9 月 15 日|
 |製品サービス/市場|[新しい SKU が、お客様に Project Cortex の力をもたらします](2020-september.md#5)|9 月 8 日|
