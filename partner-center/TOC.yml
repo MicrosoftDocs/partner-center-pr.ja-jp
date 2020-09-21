@@ -203,54 +203,72 @@
       items:
         - name: インセンティブの概要
           items:
-            - name: よく寄せられる質問
+            - name: インセンティブの FAQ
               href: incentives-faq.md
-            - name: 作業の開始
+            - name: インセンティブの概要
               href: incentives-get-started-intro.md
-            - name: インセンティブ プログラムに登録する
+            - name: インセンティブの 10 の必須事項
+              href: incentives-ten-essentials.md
+            - name: インセンティブに登録する
               href: incentives-enroll.md
             - name: プログラムの適格性を確認する
               href: incentives-determined-your-program-eligibility.md
-            - name: パートナー センターで支払いと税金のプロファイルを作成および管理する
+              displayName: incentives
+            - name: 支払いと税金のプロファイルを確認する
               href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-            - name: インセンティブの支払いと税金のプロファイルに関する FAQ
+              displayName: incentives
+            - name: 支払いと税金のプロファイルの FAQ
               href: incentives-payout-tax-profile-faqs.md
+              displayName: incentives
             - name: 収益の適格性を確認する
               href: incentives-confirm-your-earnings-eligibility.md
-            - name: インセンティブの支払いとプログラムを表示する
+              displayName: incentives
+            - name: 支払いとプログラムを表示する
               href: understand-incentive-payouts.md
-            - name: インセンティブの支払いページへのアクセス
+              displayName: incentives
+            - name: 支払いページにアクセスする
               href: incentives-unified-user-guide.md
+              displayName: incentives
         - name: 実行の計画と証明
           items:
-            - name: プランおよび PoE について
+            - name: プランと PoE を確認する
               href: incentives-plans-proofs-intro.md
+              displayName: 'incentives, proof of execution, proofs of execution'
             - name: プランを作成する
               href: incentives-create-your-plan.md
-            - name: 実行証明を準備する
+              displayName: incentives
+            - name: 実行証明を作成する
               href: incentives-prepare-your-proof-of-execution.md
+              displayName: incentives
         - name: 協力インセンティブの申請
           items:
-            - name: 協力インセンティブについて
+            - name: 協力インセンティブの申請
               href: claims-overview.md
-            - name: 協力インセンティブの申請の作成と管理
+              displayName: incentives
+            - name: 協力申請の管理
               href: create-incentives-claims.md
-            - name: 協力インセンティブの申請の主要な要件
+              displayName: incentives
+            - name: 主要な要件を表示する
               href: core-requirements.md
-            - name: 協力申請の承認と支払期限
+              displayName: incentives
+            - name: 協力申請の承認と期限
               href: incentives-managing-co-op-claims.md
+              displayName: incentives
         - name: インセンティブの CPOR 関連付けの申請
           items:
-            - name: CPOR の関連付けについて
+            - name: CPOR の関連付けを確認する
               href: incentives-customer-associations-intro.md
-            - name: CPOR モデルを使用して顧客の関連付けを作成する
+            - name: 顧客の関連付けを作成する
               href: submit-osa-claim.md
             - name: 顧客の関連付けを管理する
               href: incentives-manage-customer-associations.md
+              displayName: incentives
             - name: 顧客の関連付けに関する問題
               href: incentives-customer-association-issues.md
+              displayName: incentives
         - name: 支払いと収益の問題のトラブルシューティング
           href: incentives-payment-issues.md
+          displayName: incentives
 - name: 請求と税金
   href: billing.md
   items:
@@ -536,6 +554,8 @@
   items:
     - name: ライセンスに関するリソース
       href: support-resources-licensing.md
+    - name: ID とドメイン名を探す
+      href: find-ids-and-domain-names.md
 - name: セキュリティ要件
   items:
     - name: 概要

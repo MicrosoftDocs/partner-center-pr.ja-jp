@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 67d12c69c4cd1e42eb5c9300026c61837cafbf86
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 55bafb22a652c9e01fc9cbd1f5303b35cf127d9a
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90574388"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714237"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "90574388"
 
 | **カテゴリ** | **2020 年 9 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[間接リセラー MPA 更新です。MPA API と新しい MPA レポートのユーザーに必要な操作](2020-september.md#7)|9 月 16 日|
 |製品サービス/市場|[Microsoft Project および Microsoft Visio のセルフサービス購入が利用可能になりました](2020-september.md#6)|9 月 15 日|
 |製品サービス/市場|[新しい SKU が、お客様に Project Cortex の力をもたらします](2020-september.md#5)|9 月 8 日|
 |機能|[強化されたインセンティブ サポート エクスペリエンスとチケット作成プロセス](2020-september.md#4)|9 月 2 日|
