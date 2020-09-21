@@ -1,7 +1,7 @@
 ---
-title: 協力インセンティブの申請
+title: インセンティブ共同操作と要求の概要
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 09/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 適切なドキュメント、請求書、ステートメント、および実行の証拠を整理することによって、インセンティブに対して成功した共同操作要求を送信する方法について説明します。
@@ -9,44 +9,70 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0b8416281bcb8afd4e5166104df0710df100901b
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 05ce007901baccd76228c55b7a846fc51718409d
+ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714306"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "90811300"
 ---
-# <a name="overview-of-incentives-co-op-claims"></a><span data-ttu-id="4060c-103">インセンティブ共同要求の概要</span><span class="sxs-lookup"><span data-stu-id="4060c-103">Overview of incentives co-op claims</span></span>
+# <a name="earn-cooperative-marketing-funds"></a><span data-ttu-id="0bb72-103">共同マーケティング資金を獲得</span><span class="sxs-lookup"><span data-stu-id="0bb72-103">Earn cooperative marketing funds</span></span>
 
-<span data-ttu-id="4060c-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="4060c-104">**Applies to**</span></span>
+<span data-ttu-id="0bb72-104">**適用対象**</span><span class="sxs-lookup"><span data-stu-id="0bb72-104">**Applies to**</span></span>
 
-- <span data-ttu-id="4060c-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="4060c-105">Partner Center</span></span>
+- <span data-ttu-id="0bb72-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="0bb72-105">Partner Center</span></span>
 
-<span data-ttu-id="4060c-106">**適切なロール**</span><span class="sxs-lookup"><span data-stu-id="4060c-106">**Appropriate roles**</span></span>
+<span data-ttu-id="0bb72-106">**適切なロール**</span><span class="sxs-lookup"><span data-stu-id="0bb72-106">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="4060c-107">インセンティブ管理者</span><span class="sxs-lookup"><span data-stu-id="4060c-107">Incentives admin</span></span>
-- <span data-ttu-id="4060c-108">インセンティブ ユーザー</span><span class="sxs-lookup"><span data-stu-id="4060c-108">Incentives user</span></span>
+- <span data-ttu-id="0bb72-107">インセンティブ管理者</span><span class="sxs-lookup"><span data-stu-id="0bb72-107">Incentives admin</span></span>
+- <span data-ttu-id="0bb72-108">インセンティブ ユーザー</span><span class="sxs-lookup"><span data-stu-id="0bb72-108">Incentives user</span></span>
 
-<span data-ttu-id="4060c-109">いずれかの Microsoft インセンティブ プログラム (Partner Incentives Cooperative Marketing Fund、Online Services Advisor プログラム、Dynamics ISV プログラムなど) に参加している場合、Microsoft 製品の認知度向上に貢献したアクティビティに対する報奨金の支払いを申請できます。</span><span class="sxs-lookup"><span data-stu-id="4060c-109">When you participate in one of the Microsoft Incentives programs (such as the Partner Incentives Cooperative Marketing Fund, Online Services Advisor program, or Dynamics ISV program), you claim reimbursements of earned funds for activities you have done that support Microsoft product awareness.</span></span> <span data-ttu-id="4060c-110">申請はパートナー センターから直接送信します。</span><span class="sxs-lookup"><span data-stu-id="4060c-110">You submit a claim directly from the Partner Center.</span></span> <span data-ttu-id="4060c-111">申請を送信する前に、アクティビティ プランがマイクロソフトによって確認されるまで待つ必要がなくなりました。</span><span class="sxs-lookup"><span data-stu-id="4060c-111">You no longer need to have your activity plan reviewed by Microsoft before submitting a claim.</span></span> <span data-ttu-id="4060c-112">請求書と必要なドキュメントを、使用期間終了後45日後に要求期間の期限より後に送信します。</span><span class="sxs-lookup"><span data-stu-id="4060c-112">Submit your claim and the required documentation no later than the claim period deadline, which is 45 days after the end of the usage period.</span></span>
+<span data-ttu-id="0bb72-109">共同マーケティング (共同作業) の資金は、microsoft の製品認識をサポートする活動の支払いを要求することによって、Microsoft インセンティブプログラムを通じて獲得する資金です。</span><span class="sxs-lookup"><span data-stu-id="0bb72-109">Cooperative marketing (co-op) funds are funds you earn through Microsoft Incentive Programs by claiming reimbursement for activities that support Microsoft product awareness.</span></span> <span data-ttu-id="0bb72-110">インセンティブプログラムの例としては、クラウドソリューションプロバイダー、管理されたリセラー、ホスティング、Surface などがあります。</span><span class="sxs-lookup"><span data-stu-id="0bb72-110">Examples of incentives programs are Cloud Solution Provider, managed reseller, hosting, and Surface.</span></span>
 
-<span data-ttu-id="4060c-113">申請には次のようなものが含まれている必要があります。</span><span class="sxs-lookup"><span data-stu-id="4060c-113">A successful claim includes:</span></span>
+<span data-ttu-id="0bb72-111">Co-op ファンドを使用すると、ブランドの認知度を高め、販売パイプラインの成長を促進するマーケティング活動を行うことができます。</span><span class="sxs-lookup"><span data-stu-id="0bb72-111">Co-op funds enable you to conduct marketing activities that will increase brand awareness and drive sales pipeline growth.</span></span> <span data-ttu-id="0bb72-112">Co-op ファンドを利用して、適合性を促進し、特殊化を開発したり、マイクロソフト認定を得ることができます。これにより、重点を置いたソリューションプラクティスや優れたセンターを促進する活動が促進されます。</span><span class="sxs-lookup"><span data-stu-id="0bb72-112">You can invest co-op funds in activities to facilitate readiness, develop specializations, or attain Microsoft certifications – activities that foster focused solution practices and Centers of Excellence.</span></span>
 
-- <span data-ttu-id="4060c-114">アクティビティの中心的な要件を満たしていることを示すドキュメント</span><span class="sxs-lookup"><span data-stu-id="4060c-114">Documentation that demonstrates you have met the core requirements for the activity</span></span>
-- <span data-ttu-id="4060c-115">協力したサード パーティ ベンダーからの請求書</span><span class="sxs-lookup"><span data-stu-id="4060c-115">Invoices from third-party vendors you work with</span></span>
-- <span data-ttu-id="4060c-116">完了した社内作業に対する Certification Statement and Report (CSR)</span><span class="sxs-lookup"><span data-stu-id="4060c-116">Certification Statement and Report (CSRs) for any in-house work completed</span></span>
-- <span data-ttu-id="4060c-117">アクティビティが完了したことを証明する適切なドキュメント (実行の証明書または PoE)</span><span class="sxs-lookup"><span data-stu-id="4060c-117">The appropriate documentation (proof of execution, or PoE) that proves you completed the activity</span></span> 
+<span data-ttu-id="0bb72-113">詳細については、 [Co-op ファンドのリソース](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) に関するページを参照してください。</span><span class="sxs-lookup"><span data-stu-id="0bb72-113">You can learn more on the [Co-op Funds Resources](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) page.</span></span>
+
+>[!Important]
+><span data-ttu-id="0bb72-114">共同操作の信頼性情報は、オンラインサービスアドバイザリ (OSA) の販売、Online Services Usage (OSU)-Microsoft 365 および OSU-Business Application インセンティブプログラムには適用されません。</span><span class="sxs-lookup"><span data-stu-id="0bb72-114">Co-op claims do not apply to the Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 and OSU-Business Application incentive programs.</span></span> <span data-ttu-id="0bb72-115">これらのプログラムのいずれかの要求を送信するには、「 [CPOR モデルを使用して顧客 associearation を作成](submit-osa-claim.md)する」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="0bb72-115">To submit a claim for one of these programs, see [Create a customer associearation using the CPOR model](submit-osa-claim.md).</span></span>
+
+## <a name="how-co-op-funds-are-calculated"></a><span data-ttu-id="0bb72-116">Co-op ファンドの計算方法</span><span class="sxs-lookup"><span data-stu-id="0bb72-116">How co-op funds are calculated</span></span>
+
+<span data-ttu-id="0bb72-117">Microsoft は、分割率 (60% リベート-40% co-op) を使用して、有資格のインセンティブの利益を計算します。</span><span class="sxs-lookup"><span data-stu-id="0bb72-117">Microsoft calculates eligible incentive earnings using a split percentage (such as 60% rebate - 40% co-op).</span></span> <span data-ttu-id="0bb72-118">お客様は、個々のプログラムの既存の従量課金制を使用してリベートの部分を受け取りますが、Microsoft はインセンティブの利益の共同操作の部分を予定しています。</span><span class="sxs-lookup"><span data-stu-id="0bb72-118">You’ll receive the rebate portion using the existing pay-out cadence for your individual program, while Microsoft will accrue the co-op portion of incentive earnings.</span></span>
+
+<span data-ttu-id="0bb72-119">「インセンティブプログラムガイド」では、従量課金の周期と分割率の詳細について学習できます。</span><span class="sxs-lookup"><span data-stu-id="0bb72-119">You can learn more about the pay-out cadence and split percentage in your incentives program guide.</span></span> <span data-ttu-id="0bb72-120">番組ガイドにアクセスするには、 [次の手順](incentives-determined-your-program-eligibility.md) に従います。</span><span class="sxs-lookup"><span data-stu-id="0bb72-120">Use [this procedure](incentives-determined-your-program-eligibility.md) to access your program guide.</span></span>
+
+## <a name="when-to-claim-your-funds"></a><span data-ttu-id="0bb72-121">資金を要求するタイミング</span><span class="sxs-lookup"><span data-stu-id="0bb72-121">When to claim your funds</span></span>
+
+<span data-ttu-id="0bb72-122">Co-op ファンドのタイムラインは、2 6 月、H1、および H2 に分割されます。</span><span class="sxs-lookup"><span data-stu-id="0bb72-122">The timeline for co-op funds is divided into two six-month periods, H1 and H2.</span></span> <span data-ttu-id="0bb72-123">("H" は、半期を表します)。</span><span class="sxs-lookup"><span data-stu-id="0bb72-123">(The “H” stands for fiscal half-year.)</span></span>
+
+- <span data-ttu-id="0bb72-124">H1 は、会計年度の前半 (7 月1日 ~ 12 月31日) です。</span><span class="sxs-lookup"><span data-stu-id="0bb72-124">H1 is the first half of the fiscal year, July 1 - December 31.</span></span>
+- <span data-ttu-id="0bb72-125">H2 は、会計年度の後半 (1 月1日から6月30日) です。</span><span class="sxs-lookup"><span data-stu-id="0bb72-125">H2 is the second half of the fiscal year, January 1 - June 30.</span></span>
+
+<span data-ttu-id="0bb72-126">収益を見越計上する6か月の期間が、収益の **期間**になります。</span><span class="sxs-lookup"><span data-stu-id="0bb72-126">The six-month period during which you accrue your earnings becomes your **Earning period**.</span></span> <span data-ttu-id="0bb72-127">これらの収益は、次の6か月の **使用期間**中、ある時点で使用する必要があります。</span><span class="sxs-lookup"><span data-stu-id="0bb72-127">You must use these earnings at some point during the following six-month **Usage period**.</span></span> <span data-ttu-id="0bb72-128">使用期間の終わりまでに収益を使用しない場合は、プランになります。</span><span class="sxs-lookup"><span data-stu-id="0bb72-128">If you don’t use your earnings by the end of the usage period, you’ll forfeit them.</span></span> <span data-ttu-id="0bb72-129">請求 **期間** は6か月です。この期間中は、インセンティブプログラムアクティビティの払い戻しを要求できます。</span><span class="sxs-lookup"><span data-stu-id="0bb72-129">The **Claiming period** is the six-month period during which you can claim reimbursement for your incentive program activities.</span></span>
+
+<span data-ttu-id="0bb72-130">次の表は、さまざまな収益、使用状況、および要求期間を示しています。</span><span class="sxs-lookup"><span data-stu-id="0bb72-130">The table below shows the different earning, usage, and claiming periods.</span></span> <span data-ttu-id="0bb72-131">期間は、最初の月の最初の日から最後の月の最後の日までを範囲とします。</span><span class="sxs-lookup"><span data-stu-id="0bb72-131">Periods extend from the first day of the first month to the last day of the last month.</span></span>
+
+|  <span data-ttu-id="0bb72-132">収益/見越計上期間が</span><span class="sxs-lookup"><span data-stu-id="0bb72-132">If your Earning/accrual period is</span></span>  |<span data-ttu-id="0bb72-133">会計半期の期間は、</span><span class="sxs-lookup"><span data-stu-id="0bb72-133">Your fiscal half-year period is</span></span>  |  <span data-ttu-id="0bb72-134">使用期間は</span><span class="sxs-lookup"><span data-stu-id="0bb72-134">Your Usage period is</span></span>  |  <span data-ttu-id="0bb72-135">お客様の要求期間</span><span class="sxs-lookup"><span data-stu-id="0bb72-135">Your Claiming period is</span></span>  |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+|<span data-ttu-id="0bb72-136">**2020年7月 ~ 12 月**</span><span class="sxs-lookup"><span data-stu-id="0bb72-136">**July - Dec 2020**</span></span>| <span data-ttu-id="0bb72-137">FY20 H1</span><span class="sxs-lookup"><span data-stu-id="0bb72-137">FY20 H1</span></span>  |  <span data-ttu-id="0bb72-138">Jan-2021 年6月</span><span class="sxs-lookup"><span data-stu-id="0bb72-138">Jan - June 2021</span></span>  |  <span data-ttu-id="0bb72-139">2021年7月</span><span class="sxs-lookup"><span data-stu-id="0bb72-139">Feb - July 2021</span></span>  |
+|<span data-ttu-id="0bb72-140">**Jan-2021 年6月**</span><span class="sxs-lookup"><span data-stu-id="0bb72-140">**Jan - June 2021**</span></span> |  <span data-ttu-id="0bb72-141">FY20 H2</span><span class="sxs-lookup"><span data-stu-id="0bb72-141">FY20 H2</span></span>  |  <span data-ttu-id="0bb72-142">2021年7月 ~ 12 月</span><span class="sxs-lookup"><span data-stu-id="0bb72-142">July - Dec 2021</span></span>  |  <span data-ttu-id="0bb72-143">2021年8月-2022</span><span class="sxs-lookup"><span data-stu-id="0bb72-143">Aug 2021 - Jan 2022</span></span>  |
+|<span data-ttu-id="0bb72-144">**2021年7月 ~ 12 月**</span><span class="sxs-lookup"><span data-stu-id="0bb72-144">**July - Dec 2021**</span></span>|  <span data-ttu-id="0bb72-145">FY21 H1</span><span class="sxs-lookup"><span data-stu-id="0bb72-145">FY21 H1</span></span>  |  <span data-ttu-id="0bb72-146">Jan-2022 年6月</span><span class="sxs-lookup"><span data-stu-id="0bb72-146">Jan - June 2022</span></span>  |  <span data-ttu-id="0bb72-147">2022年7月</span><span class="sxs-lookup"><span data-stu-id="0bb72-147">Feb - July 2022</span></span>  |
+|<span data-ttu-id="0bb72-148">**Jan-2022 年6月**</span><span class="sxs-lookup"><span data-stu-id="0bb72-148">**Jan - June 2022**</span></span> |  <span data-ttu-id="0bb72-149">FY21 H2</span><span class="sxs-lookup"><span data-stu-id="0bb72-149">FY21 H2</span></span>  |  <span data-ttu-id="0bb72-150">2022年7月 ~ 12 月</span><span class="sxs-lookup"><span data-stu-id="0bb72-150">July - Dec 2022</span></span>  |  <span data-ttu-id="0bb72-151">2022年8月-2023</span><span class="sxs-lookup"><span data-stu-id="0bb72-151">Aug 2022 - Jan 2023</span></span>  |
 
 >[!NOTE]
-><span data-ttu-id="4060c-118">Microsoft は、オリジナルの PoE ドキュメントを要求する権利を留保します。</span><span class="sxs-lookup"><span data-stu-id="4060c-118">Microsoft reserves the right to request original PoE documents.</span></span> <span data-ttu-id="4060c-119">アクティビティの日付から 24 か月間は、ドキュメントの原本をすべて保管しておいてください。</span><span class="sxs-lookup"><span data-stu-id="4060c-119">Maintain all your original documents for a period of 24 months from the activity date.</span></span> 
+><span data-ttu-id="0bb72-152">Microsoft は、最初の実行証明 (PoE) ドキュメントを要求する権利を留保します。</span><span class="sxs-lookup"><span data-stu-id="0bb72-152">Microsoft reserves the right to request original proof of execution (PoE) documents.</span></span> <span data-ttu-id="0bb72-153">元のドキュメントはすべて、活動日から24か月間保持する必要があります。</span><span class="sxs-lookup"><span data-stu-id="0bb72-153">You should keep all of your original documents for 24 months after the activity date.</span></span>
 
-|<span data-ttu-id="4060c-120">**目的**</span><span class="sxs-lookup"><span data-stu-id="4060c-120">**To do this**</span></span>   |<span data-ttu-id="4060c-121">**参照先**</span><span class="sxs-lookup"><span data-stu-id="4060c-121">**Read this**</span></span>   |
-|-----------------|:--------------------------------------|
-|<span data-ttu-id="4060c-122">申請を送信し、適切なドキュメントを含める</span><span class="sxs-lookup"><span data-stu-id="4060c-122">Submit a claim and include the correct documentation</span></span>|[<span data-ttu-id="4060c-123">インセンティブ プログラム アクティビティに関する申請の作成と管理</span><span class="sxs-lookup"><span data-stu-id="4060c-123">Create and manage an incentives program activity claim</span></span>](create-incentives-claims.md)|
-|<span data-ttu-id="4060c-124">要求を送信したら、追加のドキュメント要求を管理します。</span><span class="sxs-lookup"><span data-stu-id="4060c-124">Once you've submitted the claim, manage additional documentation requests</span></span>|[<span data-ttu-id="4060c-125">インセンティブ プログラム アクティビティに関する申請の作成と管理</span><span class="sxs-lookup"><span data-stu-id="4060c-125">Create and manage an incentives program activity claim</span></span>](create-incentives-claims.md)  |
-|<span data-ttu-id="4060c-126">アクティビティに関する申請の中心的な要件を確認する</span><span class="sxs-lookup"><span data-stu-id="4060c-126">Make sure you know the core requirements for the activity claim</span></span>|[<span data-ttu-id="4060c-127">インセンティブ申請の中心的な要件の確認</span><span class="sxs-lookup"><span data-stu-id="4060c-127">Know the incentives claims core requirements</span></span>](core-requirements.md)   |
-|<span data-ttu-id="4060c-128">インセンティブ プログラム全体の詳細を参照する</span><span class="sxs-lookup"><span data-stu-id="4060c-128">Learn the full incentives program details</span></span>|[<span data-ttu-id="4060c-129">パートナー協力インセンティブ ガイドブック</span><span class="sxs-lookup"><span data-stu-id="4060c-129">Partner Incentives Co-op Guidebook</span></span>](https://assets.microsoft.com/coop-guidebook.pdf)
-|<span data-ttu-id="4060c-130">顧客の関連付けを作成して要求を送信する</span><span class="sxs-lookup"><span data-stu-id="4060c-130">Create a customer association and submit a claim</span></span> |[<span data-ttu-id="4060c-131">CPOR モデルを使用して顧客の関連付けを作成する</span><span class="sxs-lookup"><span data-stu-id="4060c-131">Create a customer association using the CPOR model</span></span>](submit-osa-claim.md)|
+<span data-ttu-id="0bb72-154">次のリソースは、共同操作の要求の使用を開始する際に役立ちます。</span><span class="sxs-lookup"><span data-stu-id="0bb72-154">The following resources will help you get started working with co-op claims.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="4060c-132">次の手順</span><span class="sxs-lookup"><span data-stu-id="4060c-132">Next steps</span></span>
+| <span data-ttu-id="0bb72-155">目的</span><span class="sxs-lookup"><span data-stu-id="0bb72-155">To do this</span></span> | <span data-ttu-id="0bb72-156">参照先</span><span class="sxs-lookup"><span data-stu-id="0bb72-156">Read this</span></span> |
+| ------ | ----------- |
+| <span data-ttu-id="0bb72-157">要求を送信する</span><span class="sxs-lookup"><span data-stu-id="0bb72-157">Submit a claim</span></span> |  [<span data-ttu-id="0bb72-158">インセンティブプログラムの共同操作要求の作成と管理</span><span class="sxs-lookup"><span data-stu-id="0bb72-158">Create and manage an incentives program co-op claim</span></span>](create-incentives-claims.md)  |
+| <span data-ttu-id="0bb72-159">送信された要求の管理</span><span class="sxs-lookup"><span data-stu-id="0bb72-159">Manage a submitted claim</span></span> | [<span data-ttu-id="0bb72-160">インセンティブプログラムの共同操作要求の作成と管理</span><span class="sxs-lookup"><span data-stu-id="0bb72-160">Create and manage an incentives program co-op claim</span></span>](create-incentives-claims.md)    |
+| <span data-ttu-id="0bb72-161">アクティビティ要求のコア要件を理解する</span><span class="sxs-lookup"><span data-stu-id="0bb72-161">Understand core requirements for the activity claim</span></span> | [<span data-ttu-id="0bb72-162">インセンティブプログラムの活動のコア要件</span><span class="sxs-lookup"><span data-stu-id="0bb72-162">Core requirements for the activities in your incentive program</span></span>](core-requirements.md)   |
+| <span data-ttu-id="0bb72-163">インセンティブプログラムの詳細を確認する</span><span class="sxs-lookup"><span data-stu-id="0bb72-163">Review your incentives program details</span></span> | [<span data-ttu-id="0bb72-164">パートナー協力インセンティブ ガイドブック</span><span class="sxs-lookup"><span data-stu-id="0bb72-164">Partner Incentives Co-op Guidebook</span></span>](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
+| <span data-ttu-id="0bb72-165">顧客の関連付けを作成して要求を送信する</span><span class="sxs-lookup"><span data-stu-id="0bb72-165">Create a customer association and submit a claim</span></span> | [<span data-ttu-id="0bb72-166">CPOR モデルを使用して顧客の関連付けを作成する</span><span class="sxs-lookup"><span data-stu-id="0bb72-166">Create a customer association using the CPOR model</span></span>](submit-osa-claim.md)   |
 
-- [<span data-ttu-id="4060c-133">インセンティブの概要</span><span class="sxs-lookup"><span data-stu-id="4060c-133">Getting started with incentives</span></span>](incentives-get-started-intro.md)
+## <a name="next-steps"></a><span data-ttu-id="0bb72-167">次のステップ</span><span class="sxs-lookup"><span data-stu-id="0bb72-167">Next steps</span></span>
+
+- [<span data-ttu-id="0bb72-168">インセンティブの概要</span><span class="sxs-lookup"><span data-stu-id="0bb72-168">Getting started with incentives</span></span>](incentives-get-started-intro.md)
