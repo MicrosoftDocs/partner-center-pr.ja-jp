@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c07ee9d03b433992632337d13c561d6334a896
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527718"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000516"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>顧客向けの市販の marketplace 製品とプランを管理する
 
@@ -34,11 +34,11 @@ ms.locfileid: "87527718"
 
 サードパーティの ISV 発行元からサブスクリプションを購入した後、次のようにしてレビューまたは編集することができます。
 
-1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインし、左側のナビゲーションメニューから [Customers] \ (**顧客**\) を選択します。
+1. パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインし、左側のナビゲーションメニューから [Customers] \ ( **顧客** \) を選択します。
 
-2. 適切な顧客を選択し、[**サブスクリプション**] を選択します。 これには、顧客用に購入したライセンスベースのサブスクリプションが一覧表示されます。
+2. 適切な顧客を選択し、[ **サブスクリプション**] を選択します。 これには、顧客用に購入したライセンスベースのサブスクリプションが一覧表示されます。
 
-3. [**サブスクリプション**] 列で、表示または編集するサブスクリプションを選択します。 これにより、プランを設定またはプロビジョニングするための詳細情報が表示されます。 (プランに関してさらに操作が必要な場合は、[状態] 列に "アクションが必要" という状態が表示されることもあります。 これには、ISV 発行元のサイトへのリンクが付随する場合もあります)。
+3. [ **サブスクリプション** ] 列で、表示または編集するサブスクリプションを選択します。 これにより、プランを設定またはプロビジョニングするための詳細情報が表示されます。 (プランに関してさらに操作が必要な場合は、[状態] 列に "アクションが必要" という状態が表示されることもあります。 これには、ISV 発行元のサイトへのリンクが付随する場合もあります)。
 
 4. 表示または編集するサブスクリプションを選択すると、[サブスクリプションの詳細] ページでサブスクリプションを編集し、次のような操作を行うことができます。
 
@@ -63,11 +63,11 @@ ms.locfileid: "87527718"
 
 1. ISV 発行元からのこのパーソナライズされたリンクは、いくつかの方法で見つけることができます。
 
-   - ISV SaaS プランを購入した後に表示される確認ページからリンクを確認できます。 このページでこのリンクを検索するには、[**発行元のサイトにアクセスする**] を探して選択します。
+   - ISV SaaS プランを購入した後に表示される確認ページからリンクを確認できます。 このページでこのリンクを検索するには、[ **発行元のサイトにアクセスする**] を探して選択します。
 
    - 特定の顧客の [サブスクリプション] ページからのリンクが表示されます。 この発行元リンクは、顧客用に購入した ISV プランまたはサブスクリプションに関連付けられている行に表示されます。
 
-   - [パートナーセンター api を使用してリンクを取得](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)できます。
+   - [パートナーセンター api を使用してリンクを取得](/partner-center/develop/get-activation-link-by-order-line-item)できます。
 
    > [!NOTE]
    > 顧客に代わってこれを行うには、パーソナライズされたリンクをコピーし、プライベートブラウザーに貼り付けて、顧客の資格情報を入力することが必要になる場合があります。
@@ -100,21 +100,21 @@ ms.locfileid: "87527718"
 
 SaaS 商用 marketplace プランでは、顧客サブスクリプションのユーザーライセンスを追加または削除できます。
 
-1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインし、左側のナビゲーションメニューから [Customers] \ (**顧客**\) を選択します。
+1. パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインし、左側のナビゲーションメニューから [Customers] \ ( **顧客** \) を選択します。
 
-2. 適切な顧客を選択し、[**サブスクリプション**] を選択します。 これには、顧客用に購入したライセンスベースのサブスクリプションが一覧表示されます。
+2. 適切な顧客を選択し、[ **サブスクリプション**] を選択します。 これには、顧客用に購入したライセンスベースのサブスクリプションが一覧表示されます。
 
-3. [**サブスクリプション**] 列で、変更するサブスクリプションを選択します。
+3. [ **サブスクリプション** ] 列で、変更するサブスクリプションを選択します。
 
 4. [サブスクリプションの詳細] ページで、[ **Quantity** ] フィールドを見つけます。 ここで、ライセンスの数を増減できます。
 
-5. 数量を変更し、[**送信**] を選択します。
+5. 数量を変更し、[ **送信**] を選択します。
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>パートナー センター API を使用してサブスクリプションを管理する
 
-また、パートナーセンター Api を使用して、ライフサイクル管理を実行し、サブスクリプションの請求書を管理することもできます。 詳細については、「[商用 marketplace 製品のサブスクリプションを作成する](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)」を参照してください。
+また、パートナーセンター Api を使用して、ライフサイクル管理を実行し、サブスクリプションの請求書を管理することもできます。 詳細については、「 [商用 marketplace 製品のサブスクリプションを作成する](/partner-center/develop/create-subscription-azure-marketplace-products)」を参照してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)
 - [商用マーケットプレースでの課金についての詳細情報](csp-commercial-marketplace-billing.md)

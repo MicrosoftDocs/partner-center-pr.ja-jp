@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 044aae1dd1482f41799acd06c791447a773b4226
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220091"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000626"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
 
@@ -46,13 +46,13 @@ Microsoft Cloud ドイツの Azure portal に正常にサインインしたら�
 > [!NOTE]  
 > 下記のリンクを選択すると、別の Web サイトが開きます。
 
--  [Azure Active Directory に新しいユーザーを追加する](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Azure Active Directory に新しいユーザーを追加する](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Azure Active Directory でユーザーを管理者ロールに割り当てる](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Azure Active Directory でユーザーを管理者ロールに割り当てる](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Azure Active Directory でのユーザー パスワードのリセット](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Azure Active Directory でのユーザー パスワードのリセット](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 -  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
 -  [Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)

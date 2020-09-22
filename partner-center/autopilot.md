@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a59b0c25b8f5203942e73b549d5ffb9d65d90c36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527658"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999436"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>新しいデバイスで Windows の自動操縦プロファイルを使用して、顧客の既定のエクスペリエンスをカスタマイズする
 
@@ -31,13 +31,13 @@ ms.locfileid: "87527658"
 
 顧客のデバイスを管理する場合、顧客のユーザーの out-of-box experience (OOBE) をカスタマイズすることが必要な場合があります。 顧客にデバイスを提供する前に Windows Autopilot プロファイルを使用して新しいデバイスを事前に構成し、顧客が既に購入したデバイスに新しいプロファイルを適用することができます。 
 
-Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [自動操縦デバイス] ボックスの外側に出荷ラベルを含めることを開始したことに注意してください。  この1次元の読み取り可能なバーコードを使用すると、ダウンストリームパートナーは、デバイスをボックスにボックスを解除してデバイス ID を別の方法で収集することなく、デバイスを自動操縦用に登録することができます。
+Oem は、デバイスの **プロダクトキー id (pkid)** を表示する [自動操縦デバイス] ボックスの外側に出荷ラベルを含めることを開始したことに注意してください。  この1次元の読み取り可能なバーコードを使用すると、ダウンストリームパートナーは、デバイスをボックスにボックスを解除してデバイス ID を別の方法で収集することなく、デバイスを自動操縦用に登録することができます。
 
 この記事では、パートナー センターで Autopilot プロファイルを作成してデバイスに適用する方法について説明します。
 
 まだ Autopilot に慣れていない場合は、次の記事の情報を確認してください。
 
-- [Windows 自動操縦の概要](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Windows 自動操縦の概要](/windows/deployment/windows-10-auto-pilot)
 - [Autopilot 展開リファレンス ガイド](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>概要
@@ -107,7 +107,7 @@ Oem は、デバイスの**プロダクトキー id (pkid)** を表示する [�
 
 4. 次の手順に従って、プロファイルがデバイスに正常に適用されたことを確認します。
 
-    a。  デバイスをネットワークに接続し、電源をオンにします。
+    a.  デバイスをネットワークに接続し、電源をオンにします。
 
     b.  適切な OOBE 画面 (存在する場合) が表示されることを確認します。
 
@@ -162,7 +162,7 @@ OEM 名、シリアル番号、モデルの組み合わせを使う場合は、�
 4. デバイス一覧の名前を入力し、**[参照]** を選択して、顧客の一覧 (.csv ファイル形式) をパートナー センターにアップロードします。
 
     >[!NOTE]
-    >この .csv ファイルは、デバイスを購入したときに受け取っているはずです。 .csv ファイルを受け取っていない場合は、「[Adding devices to Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)」 (Windows Autopilot にデバイスを追加する) の手順に従って自分で作成できます。  
+    >この .csv ファイルは、デバイスを購入したときに受け取っているはずです。 .csv ファイルを受け取っていない場合は、「[Adding devices to Windows Autopilot](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)」 (Windows Autopilot にデバイスを追加する) の手順に従って自分で作成できます。  
 
 5. .csv ファイルをアップロードし、**[保存]** を選択します。
 

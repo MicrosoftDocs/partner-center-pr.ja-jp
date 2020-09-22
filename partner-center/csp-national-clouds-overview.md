@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f7b29b39cbc4a991accd6821a6b6cd037ccfc54
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114333"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000386"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP プログラムの一部として、Microsoft の国内クラウドで販売に適用する
 
@@ -48,4 +48,4 @@ Microsoft では、以下のサービスをナショナル クラウドで提供
 
     Microsoft はテクノロジ プロバイダーですが、サービスは運営せず、21Vianet が単独で Microsoft クラウド サービスの運営、提供、管理を行っています。 Microsoft テクノロジのライセンスによって、21Vianet は Azure および Office 365 のサービスを提供し、Azure および Office 365 のデータセンターを運営して中国本土内のデータを保持できます。 21Vianet では、サブスクリプションと課金のサービスのほか、サポートも提供します。
 
-    中国の 21Vianet が運営する Azure および Office 365 に登録して顧客への販売を行う方法については、「[21Vianet が運営するパートナー センター](https://msdn.microsoft.com/partner-china/index)」をご覧ください。 
+    中国の 21Vianet が運営する Azure および Office 365 に登録して顧客への販売を行う方法については、「[21Vianet が運営するパートナー センター](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11))」をご覧ください。

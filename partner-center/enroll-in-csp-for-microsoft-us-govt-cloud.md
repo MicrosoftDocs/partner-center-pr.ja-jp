@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 06/30/2020
-ms.openlocfilehash: 12ddd290f22fc672ca2fb0c911567ca7419d88b0
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026280"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999916"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録
 
@@ -76,11 +76,11 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 1. Microsoft Azure 管理ポータル () にサインイン [https://portal.azure.us/](https://portal.azure.us/) します。
 
-2. 管理エージェント ロールを組織内の適切なユーザーに割り当てます。 これを行うには、組み込みの **AdminAgent** グループにこれらのユーザーを追加する必要があります。 これを行う方法については、「[Azure Active Directory テナントでユーザーのグループ メンバーシップを管理する](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)」を参照してください。
+2. 管理エージェント ロールを組織内の適切なユーザーに割り当てます。 これを行うには、組み込みの **AdminAgent** グループにこれらのユーザーを追加する必要があります。 これを行う方法については、「[Azure Active Directory テナントでユーザーのグループ メンバーシップを管理する](/azure/active-directory/active-directory-groups-members-azure-portal)」を参照してください。
 
 ## <a name="connect-with-us"></a>お問合せ
 
-- 疑問がある場合 マイクロソフトにメールを送信する (azgovcsp@microsoft.com)
+- わからないことがある場合は、 マイクロソフトにメールを送信する (azgovcsp@microsoft.com)
 
 - [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777) に参加する
 

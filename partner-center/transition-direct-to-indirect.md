@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811192"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000646"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行
 
@@ -23,11 +23,11 @@ ms.locfileid: "87811192"
 - CSP パートナー
 
 >[!Note]
->この記事は、間接リセラーに移行することに決めた直接請求パートナーのためのものです。 ただし、間接リセラーとして登録するための明示的な決定をまだ行っていない場合でも、CSP direct bill partner プログラムの新しい[要件](direct-partner-new-requirements.md)を満たしていない直接請求先のパートナーは、[直接請求書の機能が制限さ](restricted-direct-bill-capabilities.md)れるときに Microsoft によって通知されます。
+>この記事は、間接リセラーに移行することに決めた直接請求パートナーのためのものです。 ただし、間接リセラーとして登録するための明示的な決定をまだ行っていない場合でも、CSP direct bill partner プログラムの新しい [要件](direct-partner-new-requirements.md) を満たしていない直接請求先のパートナーは、 [直接請求書の機能が制限さ](restricted-direct-bill-capabilities.md)れるときに Microsoft によって通知されます。
 
 パートナーは、既存の直接請求テナントを使用して間接リセラー プログラムに登録できます。
 
-## <a name="get-started"></a>はじめに
+## <a name="get-started"></a>作業開始
 
 1. パートナー センターのパートナー プロファイルと MPN ID が最新の状態であることを確認します。
 
@@ -148,20 +148,20 @@ ms.locfileid: "87811192"
 
 パートナーセンターダッシュボードを使用して、既存の直接請求顧客と間接プロバイダーの間の再販業者関係を確立することができます。 この機能を使用する前に、次の点に注意してください。
 
-- この機能を利用できるのは、間接リセラーが間接[リセラーの登録](#get-started)を完了するために移行しているダイレクト請求パートナーだけです。
+- この機能を利用できるのは、間接リセラーが間接 [リセラーの登録](#get-started)を完了するために移行しているダイレクト請求パートナーだけです。
 
 - この機能は、既存の直接請求顧客にのみ適用できます。 [間接リセラーのお客様](#acquire-new-customers-as-indirect-reseller)には適用されません。
 
-- 間接プロバイダー[からパートナーの招待を承諾](#accept-a-partnership-invitation-from-your-indirect-provider)した間接プロバイダーのみを選択できます。
+- 間接プロバイダー [からパートナーの招待を承諾](#accept-a-partnership-invitation-from-your-indirect-provider)した間接プロバイダーのみを選択できます。
 
 - この顧客に対して使用している請求先情報のコピーが間接プロバイダーに提供されます。 パートナーセンターダッシュボードでこの顧客のアカウントページにアクセスすることにより、請求先情報にアクセスできます。
 
     > [!NOTE]
     > リセラーとの関係拡張機能を使用することにより、このお客様に対して間接プロバイダーとの請求書の情報を共有することに同意したことになります。
 
-- 間接プロバイダーは、お客様のテナントに[代理管理特権](customers-revoke-admin-privileges.md)を付与されることはありません。 間接プロバイダーが代理管理特権を必要とする場合は、代わりに間接リセラーの招待を顧客に送信する必要があります。
+- 間接プロバイダーは、お客様のテナントに [代理管理特権](customers-revoke-admin-privileges.md) を付与されることはありません。 間接プロバイダーが代理管理特権を必要とする場合は、代わりに間接リセラーの招待を顧客に送信する必要があります。
 
-- リセラーとの関係が確立されると、 [M365 管理センター](https://admin.microsoft.com/AdminPortal/Home#/partners)の [パートナー関係] ページで、間接プロバイダーが顧客に対して CSP パートナーとして表示され、[ビジネス Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)ます。
+- リセラーとの関係が確立されると、 [M365 管理センター](https://admin.microsoft.com/AdminPortal/Home#/partners) の [パートナー関係] ページで、間接プロバイダーが顧客に対して CSP パートナーとして表示され、 [ビジネス Microsoft Store](/microsoft-store/work-with-partner-microsoft-store-business)ます。
 
     > [!IMPORTANT]
     > 混乱や誤解を避けるために、パートナー契約によって契約必要は、取引先との関係拡張機能を使用して、既存の直接請求顧客と間接プロバイダーの間に再販業者の関係を確立する前に、お客様に直接請求を通知し、同意を得ることができます。
@@ -170,17 +170,17 @@ ms.locfileid: "87811192"
 
 1. **管理エージェント**としてパートナーセンターにログインします。
 
-2. [ **Customers] ページ**で、既存の顧客を選択し、その**クイックリンク**アイコンをクリックして、顧客の概要ビューを展開します。
+2. [ **Customers] ページ**で、既存の顧客を選択し、その **クイックリンク** アイコンをクリックして、顧客の概要ビューを展開します。
 
-3. [**間接プロバイダー**] で、[**間接プロバイダーの顧客の転送**] をクリックします。
+3. [ **間接プロバイダー**] で、[ **間接プロバイダーの顧客の転送**] をクリックします。
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="顧客を間接プロバイダーに転送する":::
 
-4. ポップアップダイアログで、リセラーと顧客との関係を設定する**間接プロバイダー**を選択します。
+4. ポップアップダイアログで、リセラーと顧客との関係を設定する **間接プロバイダー** を選択します。
 
 5. **保存して続行** をクリックします。
 
-6. 選択した間接プロバイダーが**間接プロバイダー**の下に表示されることを確認します。
+6. 選択した間接プロバイダーが **間接プロバイダー**の下に表示されることを確認します。
 
     :::image type="content" source="images/direct/direct5-2.png" alt-text="間接プロバイダーの一覧":::
 
@@ -204,11 +204,11 @@ ms.locfileid: "87811192"
 
 ### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft カスタマーアグリーメントへの同意
 
-Microsoft Cloud Agreement は、2020年1月31日まで有効です。 その後、すべてのお客様 (既存および新規) は、新しい[Microsoft カスタマー契約](confirm-customer-agreement.md)に署名する必要があります。 お客様の移行の場合:
+Microsoft Cloud Agreement は、2020年1月31日まで有効です。 その後、すべてのお客様 (既存および新規) は、新しい [Microsoft カスタマー契約](confirm-customer-agreement.md)に署名する必要があります。 お客様の移行の場合:
 
 - **お客様はまだ Microsoft カスタマーアグリーメントに同意していません**
 
-   間接プロバイダーと協力して、お客様が[Microsoft カスタマーアグリーメントに同意](confirm-customer-agreement.md)するようにしてください。
+   間接プロバイダーと協力して、お客様が [Microsoft カスタマーアグリーメントに同意](confirm-customer-agreement.md)するようにしてください。
 
 - **お客様は、Microsoft 365 管理センターを通じて Microsoft カスタマーアグリーメントに同意しました**
 
@@ -228,7 +228,7 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 - 特定の顧客に関連付けられているサブスクリプションを転送する前に、移行パートナーは顧客を間接プロバイダーに移動する必要があります。
 
-- お客様は[、間接プロバイダーを通じて Microsoft カスタマー契約に同意](#microsoft-customer-agreement-acceptance)している必要があります。
+- お客様は [、間接プロバイダーを通じて Microsoft カスタマー契約に同意](#microsoft-customer-agreement-acceptance)している必要があります。
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>間接リセラーの状態に移行する方法
 
@@ -245,15 +245,15 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 ### <a name="transitioning-partner"></a>パートナーの移行中
 
 > [!NOTE]
-> また、[パートナーセンター API/SDK](https://docs.microsoft.com/partner-center/develop/manage-customers)を使用して、既存のサブスクリプションを間接プロバイダーに転送することもできます。
+> また、 [パートナーセンター API/SDK](/partner-center/develop/manage-customers) を使用して、既存のサブスクリプションを間接プロバイダーに転送することもできます。
 >
-> - [顧客のサブスクリプション譲渡の資格を取得する](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
-> - [顧客からの譲渡を作成する](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
-> - [顧客の譲渡を撤回する](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
-> - [顧客の譲渡を承諾する](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
-> - [顧客の譲渡を拒否する](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
-> - [顧客の譲渡を取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
-> - [Id で転送の詳細を取得する](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+> - [顧客のサブスクリプション譲渡の資格を取得する](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [顧客からの譲渡を作成する](/partner-center/develop/create-a-transfer)
+> - [顧客の譲渡を撤回する](/partner-center/develop/withdraw-a-transfer)
+> - [顧客の譲渡を承諾する](/partner-center/develop/accept-a-transfer)
+> - [顧客の譲渡を拒否する](/partner-center/develop/reject-a-transfer)
+> - [顧客の譲渡を取得する](/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Id で転送の詳細を取得する](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>パートナー-転送の作成要求を移行しています
 
@@ -263,13 +263,13 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 2. [ **Customers** ] ページで目的の顧客を選択し、[クイックリンク] アイコンをクリックして顧客の概要ビューを展開します。
 
-3. [**間接プロバイダー**] で、目的の間接プロバイダーが一覧に表示されていることを確認します。
+3. [ **間接プロバイダー**] で、目的の間接プロバイダーが一覧に表示されていることを確認します。
 
-4. [**サブスクリプションの表示**] をクリックします。
+4. [ **サブスクリプションの表示**] をクリックします。
 
-5. [**サブスクリプション**] ページで、[**サブスクリプションの譲渡**] を探します。
+5. [ **サブスクリプション** ] ページで、[ **サブスクリプションの譲渡**] を探します。
 
-6. [**サブスクリプションの譲渡**] で、[**サブスクリプションの譲渡の要求**] をクリックします。
+6. [ **サブスクリプションの譲渡**] で、[ **サブスクリプションの譲渡の要求**] をクリックします。
 
     :::image type="content" source="images/direct/direct8.png" alt-text="サブスクリプションの譲渡を要求する":::
 
@@ -277,9 +277,9 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
     :::image type="content" source="images/direct/direct9.png" alt-text="転送要求の作成":::
 
-8. **Create** をクリックしてください。
+8. **[作成]** をクリックします。
 
-9. アクティブなサブスクリプションの譲渡要求が [**サブスクリプションの譲渡**] に表示されます。
+9. アクティブなサブスクリプションの譲渡要求が [ **サブスクリプションの譲渡**] に表示されます。
 
     :::image type="content" source="images/direct/direct10.png" alt-text="要求一覧の転送":::
 
@@ -293,17 +293,17 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 2. [ **Customers** ] ページで、目的の顧客を選択し、そのクイックリンクアイコンをクリックして、顧客の概要ビューを展開します。
 
-3. [**間接リセラー**] の下に、[移行パートナー] が表示されていることを確認します。
+3. [ **間接リセラー**] の下に、[移行パートナー] が表示されていることを確認します。
 
-4. [**サブスクリプションの表示**] をクリックします。
+4. [ **サブスクリプションの表示**] をクリックします。
 
-5. [**サブスクリプション**] ページで、[**サブスクリプションの譲渡**] を探します。
+5. [ **サブスクリプション** ] ページで、[ **サブスクリプションの譲渡**] を探します。
 
     :::image type="content" source="images/direct/direct11.png" alt-text="転送要求の表示":::
 
-6. [**サブスクリプションの譲渡**] で、[転送要求] をクリックして確認します。
+6. [ **サブスクリプションの譲渡**] で、[転送要求] をクリックして確認します。
 
-7. 必要に応じて、[**承諾**] (または [**拒否**]) をクリックします。
+7. 必要に応じて、[ **承諾** ] (または [ **拒否**]) をクリックします。
 
     :::image type="content" source="images/direct/direct12.png" alt-text="譲渡要求の受け入れ":::
 
@@ -311,7 +311,7 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 ### <a name="indirect-provider---verify-transfer-request-is-complete"></a>間接プロバイダー-転送要求の確認が完了しました
 
-1. 転送要求が正常に完了したら、サブスクリプションが [**サブスクリプション**] の下に表示されることを確認します。
+1. 転送要求が正常に完了したら、サブスクリプションが [ **サブスクリプション**] の下に表示されることを確認します。
 
 2. 移行パートナーに通知します。
 
@@ -321,19 +321,19 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 1. **管理エージェント**または**営業担当**者としてパートナーセンターにサインインします。
 
-2. [ **Customers** ] ページで目的の顧客を選択し、[**クイックリンク**] アイコンをクリックして顧客の概要ビューを展開します。
+2. [ **Customers** ] ページで目的の顧客を選択し、[ **クイックリンク** ] アイコンをクリックして顧客の概要ビューを展開します。
 
-3. [**サブスクリプションの表示**] をクリックします。
+3. [ **サブスクリプションの表示**] をクリックします。
 
-4. [**サブスクリプション**] ページで、[**サブスクリプションの譲渡**] を探します。
+4. [ **サブスクリプション** ] ページで、[ **サブスクリプションの譲渡**] を探します。
 
-5. 転送要求が**完了**とマークされていることを確認します。
+5. 転送要求が **完了**とマークされていることを確認します。
 
-6. サブスクリプションが [**サブスクリプション**] ページに [アクティブ] と表示されないことを確認します。
+6. サブスクリプションが [ **サブスクリプション** ] ページに [アクティブ] と表示されないことを確認します。
 
    1. これが Azure サブスクリプション (0145P) の場合は、表示されなくなります。
 
-   2. ライセンスベースのサブスクリプション (Office 365、Dynamics、Intune) の場合は、状態が [**中断**] と表示されます。
+   2. ライセンスベースのサブスクリプション (Office 365、Dynamics、Intune) の場合は、状態が [ **中断**] と表示されます。
 
    :::image type="content" source="images/direct/direct13.png" alt-text="サブスクリプションが中断されました":::
 
@@ -347,7 +347,7 @@ CSP 間接モデルでは、間接リセラーには Microsoft との請求関�
 
 - **サブスクリプションに対するライセンス数の変更は、既存の転送要求に反映されません。** 既存のサブスクリプションを含む譲渡要求を作成した後は、サブスクリプション (または関連するアドオン) のライセンス数を更新しないようにする必要があります。 この場合、新しい数量は転送要求に反映されません。 間接プロバイダーが譲渡要求を受け入れると、結果として得られるサブスクリプションの数量が古いものになります。 新しい数量を間接プロバイダーに転送する場合は、既存の転送要求を取り消して新しい数量を再作成する必要があります。
 
-- **セルフサービスサブスクリプション転送を使用して、すべての購入を転送できるわけではありません。** 現時点では、この機能を使用して、O365 サブスクリプションと Azure PAYG サブスクリプション (0145P) のみを転送できます。 Azure プラン、azure 予約インスタンス、用語ベースのサブスクリプション、Azure Marketplace の SaaS サブスクリプションなど、その他の購入はサポートされていません。 [転送要求の送信] ページでサブスクリプションを転送できない理由が表示されます。 これらのサブスクリプションを譲渡するには、[既存のサブスクリプションをキャンセル](create-a-new-subscription.md#suspend-or-cancel-a-subscription)し、間接プロバイダーを通じて顧客向けの新しいプランを購入する必要があります。
+- **セルフサービスサブスクリプション転送を使用して、すべての購入を転送できるわけではありません。** 現時点では、この機能を使用して、O365 サブスクリプションと Azure PAYG サブスクリプション (0145P) のみを転送できます。 Azure プラン、azure 予約インスタンス、用語ベースのサブスクリプション、Azure Marketplace の SaaS サブスクリプションなど、その他の購入はサポートされていません。 [転送要求の送信] ページでサブスクリプションを転送できない理由が表示されます。 これらのサブスクリプションを譲渡するには、 [既存のサブスクリプションをキャンセル](create-a-new-subscription.md#suspend-or-cancel-a-subscription) し、間接プロバイダーを通じて顧客向けの新しいプランを購入する必要があります。
 
 - **サンドボックス環境を使用してテストすることはできません。**
 

@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b363f68fadf29024def3488dbe1ccbb334ea1907
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3086ada5238fac6ec993bffa8c852517281c98a3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947660"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000396"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>CSP 向け Office 365 Government GCC サブスクリプションを認定ユーザーに販売する
 
@@ -50,8 +50,7 @@ Microsoft 365 パートナー サイトについては、[米国政府機関で�
 
 製品リソース:
 
-- [Office 365 Government サービスの説明](https://technet.microsoft.com/library/mt774581.aspx)
+- [Office 365 Government サービスの説明](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Microsoft セキュリティ センター](https://www.microsoft.com/TrustCenter/)
 - [Microsoft Service Trust Portal](https://aka.ms/STP)
-

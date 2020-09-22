@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8611c2de0310880fee1e665077026de003f30dcf
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7bb97c696c4694c9052403444eec0e27f65d325c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114135"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000456"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Azure Insights & Office 365 サービス通信用の自動化されたサービス通知に Api を使用する
 
@@ -33,13 +33,11 @@ Office 365 と Microsoft Azure は、リアルタイムのサービスの正常�
 
 これらの API は社内の開発者のみが使うことができます。
 
-[Office 365 サービス通信 API](https://go.microsoft.com/fwlink/p/?LinkId=616899)
+[Office 365 サービス通信 API](/office/office-365-management-api/office-365-service-communications-api-reference)
 
-Azure Insights REST API: [コード](https://go.microsoft.com/fwlink/p/?LinkId=617299)と [API リファレンス](https://go.microsoft.com/fwlink/p/?LinkId=617300)
+
+Azure Insights REST [API リファレンス](/rest/api/monitor/)
 
  
 
  
-
-
-

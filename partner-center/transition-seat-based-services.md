@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5304e8c2e00b832551bfdb06872bc0051b6064dc
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811132"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000636"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>他のチャネル & パートナーから Cloud Solution Provider プログラムにライセンスベースのお客様を移動する
 
@@ -34,7 +34,7 @@ ms.locfileid: "87811132"
 
 
    >[!NOTE]
-   >顧客は、Microsoft 365 (M365) 管理ポータル (たとえば、Microsoft からの月単位または年単位の課金) で購入した場合、クレジットの対象となる可能性があります。 Microsoft から直接購入したサブスクリプションのクレジットは、 **M365 課金サポート**によって処理されます。 [M365 サブスクリプションをキャンセル](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)する方法については、M365 のガイダンスを参照してください。 顧客の管理者特権を委任されている場合は、顧客の代理として M65 のサポートに問い合わせることができます。 それ以外の場合は、お客様に M365 サポートに直接連絡して、資格のあるクレジットとそのクレジットを与える方法を確認してください。 委任された[管理者特権](customers-revoke-admin-privileges.md)に関する情報を確認します。
+   >顧客は、Microsoft 365 (M365) 管理ポータル (たとえば、Microsoft からの月単位または年単位の課金) で購入した場合、クレジットの対象となる可能性があります。 Microsoft から直接購入したサブスクリプションのクレジットは、 **M365 課金サポート**によって処理されます。 [M365 サブスクリプションをキャンセル](/microsoft-365/commerce/subscriptions/cancel-your-subscription)する方法については、M365 のガイダンスを参照してください。 顧客の管理者特権を委任されている場合は、顧客の代理として M65 のサポートに問い合わせることができます。 それ以外の場合は、お客様に M365 サポートに直接連絡して、資格のあるクレジットとそのクレジットを与える方法を確認してください。 委任された [管理者特権](customers-revoke-admin-privileges.md)に関する情報を確認します。
 
 
 4. これによりお客様は、使用を中断することなく、パートナー様がプロビジョニングしたサブスクリプションに移行して引き続き使用できます。

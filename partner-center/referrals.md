@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4ee9d084d0afca9dfdba5cae9c6e060747d8e0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436611"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999136"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>マイクロソフトからの紹介案件の獲得によるビジネスの拡大
 
@@ -26,6 +26,7 @@ ms.locfileid: "86436611"
 
 Microsoft では、ソリューションと専門分野に応じてパートナー様とお客様のマッチングを行います。 Microsoft から見込み情報を獲得するために最も重要な手順は、[ビジネス プロファイルを作成](create-a-marketing-profile.md)して、貴社の製品、ソリューション、専門分野を公開することです。 このビジネス プロファイルは、お客様や社内の Microsoft 販売担当者が条件に合うパートナーを検索するすべての場所に表示されます。 
 
- ビジネス プロファイルを公開すると、パートナー センターの紹介機能から営業リードが送られてくるようになります。 見込み情報を継続的に受信するには、決められた期限内に紹介案件に対応する必要があります。さらに重要になるのが、案件を獲得することです。 パートナー センターで営業リードを管理する方法については、「[紹介案件への対応](responding-to-referrals.md)」をご覧ください。  
+ ビジネス プロファイルを公開すると、パートナー センターの紹介機能から営業リードが送られてくるようになります。 見込み情報を継続的に受信するには、決められた期限内に紹介案件に対応する必要があります。さらに重要になるのが、案件を獲得することです。 パートナー センターで営業リードを管理する方法については、「[紹介案件への対応](manage-leads.md)」をご覧ください。  
 
-開始するには、この[ビジネス プロファイルの最適化](https://player.vimeo.com/video/252788046)に関する短いビデオをご覧ください。  
+
+開始するには、この[ビジネス プロファイルの最適化](https://player.vimeo.com/video/252788046)に関する短いビデオをご覧ください。

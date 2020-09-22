@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b972090c376399dfc474d74b8be5b03330ea0c1
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714406"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999306"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問
 
@@ -39,7 +39,7 @@ Microsoft インセンティブプログラムの支払いを受け取るには�
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>支払い/税金の詳細を提供/更新するには、どうすればよいですか?
 
-パートナーセンターで支払いと税金の詳細を更新する方法の詳細については、「 [パートナーセンターでの支払いと税金のプロファイルの作成と管理](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md)」を参照してください。
+パートナーセンターで支払いと税金の詳細を更新する方法の詳細については、「 [パートナーセンターでの支払いと税金のプロファイルの作成と管理](./incentives-create-and-manage-your-payout-and-tax-profiles.md)」を参照してください。
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>支払いおよび税務プロファイルを割り当てるとき、登録が表示されないのはなぜですか?
 
@@ -69,6 +69,6 @@ MPN の場所に対して作成された税務プロファイルは、その MPN
 
 ドメインを AAD アカウントに追加するには、アカウント管理者に連絡してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [パートナー センターでの支払いプロファイルと税務プロファイル](incentives-create-and-manage-your-payout-and-tax-profiles.md)

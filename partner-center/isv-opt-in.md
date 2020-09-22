@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc997d302b2ccd4dffa7708a9ec1cad60b09f998
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949442"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000116"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>独立系ソフトウェア ベンダーからのマーケットプレース限定プラン
 
@@ -27,7 +27,7 @@ ms.locfileid: "85949442"
 
 独立系ソフトウェアベンダー (ISV) には、特定の CSP パートナーのみが利用できる限定プランを作成するオプションがあります。
 
-CSP パートナーは、パートナーセンターのコマーシャルマーケットプレースで、すべての ISV プランを表示できます。 ただし、**排他**とマークされたオファーは、ISV によって選択された特定のパートナーだけが購入できます。 プランが**排他**とマークされていない場合は、すべてのパートナーがそのプランを購入できます。
+CSP パートナーは、パートナーセンターのコマーシャルマーケットプレースで、すべての ISV プランを表示できます。 ただし、 **排他**とマークされたオファーは、ISV によって選択された特定のパートナーだけが購入できます。 プランが **排他**とマークされていない場合は、すべてのパートナーがそのプランを購入できます。
 
 ISV によって識別される特定の CSP パートナーは、次のことができます。
 
@@ -44,8 +44,8 @@ ISV が Marketplace でプランを発行すると、購入者を示すことが
 - 購入できるパートナーを決定する
 - CSP パートナーは使用できません
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
-- 商用マーケットプレースの ISV エクスペリエンスの詳細については、[クラウドソリューションプロバイダー](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)に関するページを参照してください。
+- 商用マーケットプレースの ISV エクスペリエンスの詳細については、 [クラウドソリューションプロバイダー](/azure/marketplace/cloud-solution-providers)に関するページを参照してください。
 
-- 商用マーケットプレースの詳細については、「[クラウドソリューションプロバイダーのコマーシャルマーケットプレースの概要」](csp-commercial-marketplace-overview.md)を参照してください。
+- 商用マーケットプレースの詳細については、「 [クラウドソリューションプロバイダーのコマーシャルマーケットプレースの概要」](csp-commercial-marketplace-overview.md)を参照してください。

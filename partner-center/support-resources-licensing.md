@@ -8,14 +8,14 @@ description: Microsoft パートナーとして、さまざまな Microsoft ラ�
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b557e3cc5bc7dbb7964809ee5032c2ad2b5c8a9
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041045"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999756"
 ---
-# <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft パートナー向けライセンスリソースのガイド 
+# <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft パートナー向けリソース ライセンス ガイド 
 
 **適用対象**
 
@@ -48,7 +48,7 @@ Microsoft パートナーは、1つまたは複数のライセンスプログラ
 |ボリュームライセンス (VL) と特定のソリューションのライセンスについて詳しくは、こちらをご覧ください。  | [Microsoft ライセンス-製品とソリューション](https://www.microsoft.com/licensing/default) |
 |ボリュームライセンスのトレーニングとリソースについて説明します。これは、VL の価格、見積もり、契約、製品のライセンス認証、およびその他のツールに役立ちます。  | [トレーニングとリソースの Microsoft Partner Network](https://partner.microsoft.com/licensing/training-and-resources) |
 |**ライセンス準備**済みライセンストレーニングモジュールを確認する  | [ライセンスの取得準備完了](https://www.getlicensingready.com/)  |
-|大規模な組織に対して Microsoft ライセンスソリューションを設計および提供するのに役立つライセンス試験について説明します *(試験は、2021年1月31日に 11:59 PM 中部標準時に廃止されます)。*  | [試験70-705](https://docs.microsoft.com/learn/certifications/exams/70-705) |
+|大規模な組織に対して Microsoft ライセンスソリューションを設計および提供するのに役立つライセンス試験について説明します *(試験は、2021年1月31日に 11:59 PM 中部標準時に廃止されます)。*  | [試験70-705](/learn/certifications/exams/70-705) |
 
 ## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>プログラム固有および製品固有のライセンス条項と契約
 
@@ -84,7 +84,7 @@ Microsoft パートナーは、1つまたは複数のライセンスプログラ
 |このダッシュボードを表示するには、パートナーセンターのダッシュボードから CSP プログラムの価格とプランを表示する *(csp プログラムに登録する必要があります)*  |[Csp の価格とプランの概要](pricing-and-offers.md) または [csp のドキュメントとリソース](csp-documents-and-learning-resources.md) |
 |顧客取引に役立つマーケティング資料を探す  | [MPN パートナー準備資料](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
 |お客様の取引またはオンラインケースについて、Microsoft の技術プリセールスおよび展開サービスからサポートを受ける  | [技術のプリセールスと展開サービスの概要](https://partner.microsoft.com/training/technical-presales-deployment-services) または [サポートの概要](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
-|オープンライセンスの Microsoft Azure をアクティブ化する方法について説明します   | [開いているプログラムのオンラインサービスのアクティブ化に関する FAQ](https://docs.microsoft.com/licensing/online-service-activation-faq)  |
+|オープンライセンスの Microsoft Azure をアクティブ化する方法について説明します   | [開いているプログラムのオンラインサービスのアクティブ化に関する FAQ](/licensing/online-service-activation-faq)  |
 |障害の影響を受けたお客様に対し、マイクロソフトの SLA クレジットをいつ、どのように計算して要求するか  | [障害の SLA クレジットを要求する](request-credit.md)   |
 |Microsoft パートナーコミュニティから支援を受ける  | [Microsoft パートナーコミュニティフォーラム](https://www.microsoftpartnercommunity.com)  |
 

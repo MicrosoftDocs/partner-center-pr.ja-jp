@@ -8,12 +8,12 @@ description: Minecraft 教育エディションのサブスクリプションを
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 98094096de41f20df6f381687984ea3ee1a7c334
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436821"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000066"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 
@@ -53,9 +53,7 @@ ms.locfileid: "86436821"
 
   6.  パートナーがサブスクリプションを購入したら、教育機関の顧客に、[教育機関向け Microsoft Store](https://educationstore.microsoft.com) でインベントリを確認し、ソフトウェアをダウンロードして、ライセンスを配布するように伝えます。
 
-      顧客が、ユーザーへのソフトウェア ライセンスの配布についての詳細な情報を必要とする場合には、[こちらの詳細情報](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)から確認できます。  
+      顧客が、ユーザーへのソフトウェア ライセンスの配布についての詳細な情報を必要とする場合には、[こちらの詳細情報](/education/windows/school-get-minecraft#distribute-minecraft)から確認できます。  
   
-      顧客が、教育機関向け Microsoft Store の概要情報を必要とする場合には、[こちらの概要ページ](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)から確認できます。  
-
-      
+      顧客が、教育機関向け Microsoft Store の概要情報を必要とする場合には、[こちらの概要ページ](/microsoft-store/windows-store-for-business-overview)から確認できます。  
 

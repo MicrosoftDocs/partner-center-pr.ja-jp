@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220180"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999786"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>顧客に代わってサービスの問題を報告します。その方法や方法などが含まれます。
 
@@ -100,7 +100,7 @@ ISV の連絡先情報を検索するには:
     - サポート電子メール
     - サポート連絡先の電話番号
 
-## <a name="faq"></a>よくあるご質問
+## <a name="faq"></a>よく寄せられる質問
 
 顧客に代わって送信される可能性があるサービス要求に関してよく寄せられる質問については、以下を参照してください。 
 
@@ -143,11 +143,11 @@ Office 365 管理センターに直接サインインすると、顧客のコン
 
 Dynamics 365 Plan サブスクリプション、ライセンス、課金、財務 & 操作、Dynamics 365 製品ライセンス、またはその他のテクニカルサポートが必要な場合に関連する問題が発生しています。
  
-[Dynamics サポート](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)に問い合わせる
+[Dynamics サポート](/dynamics365/customer-engagement/admin/contact-technical-support)に問い合わせる
 
 「[Microsoft Dynamics のサポート](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)」を参照する
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客へのサポート提供](customer-support.md)
 - [サービスの正常性の確認](check-service-health.md)

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 688e3bf3d181ae235d245f1330bbc160c9841ef6
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: de143ecfae1b803e0743a28db5cda5ae9a3d5f2d
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714496"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999316"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>パートナーセンターでインセンティブの支払いと税金のプロファイルを作成および管理する
 
@@ -58,7 +58,7 @@ Microsoft が既に銀行データを支払いに使用している場合でも�
 以下のセクションでは、パートナーセンターで支払いと税金のプロファイルを作成および管理するプロセスについて説明します。
 
 >[!IMPORTANT]
->パートナーセンターで支払いプロファイルを作成または管理するには、インセンティブ管理者である必要があります。 インセンティブの役割は、各インセンティブプログラムの下にある各 MPN の場所に割り当てる必要があります。 パートナーセンターでインセンティブ管理者を追加する方法の詳細については、「 [ユーザーアカウントの作成](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions)」を参照してください。
+>パートナーセンターで支払いプロファイルを作成または管理するには、インセンティブ管理者である必要があります。 インセンティブの役割は、各インセンティブプログラムの下にある各 MPN の場所に割り当てる必要があります。 パートナーセンターでインセンティブ管理者を追加する方法の詳細については、「 [ユーザーアカウントの作成](create-user-accounts-and-set-permissions.md)」を参照してください。
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>パートナーセンターの支払いと税金のセクションにアクセスする
 
@@ -154,6 +154,6 @@ Microsoft が既に銀行データを支払いに使用している場合でも�
 
 9. ポップアップメッセージで [ **確認** ] を選択します。 [ **支払いと税金の設定** ] ページに戻ります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [インセンティブの支払いと税金のプロファイルに関する FAQ](incentives-payout-tax-profile-faqs.md)

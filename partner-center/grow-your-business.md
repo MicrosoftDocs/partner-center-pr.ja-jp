@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c244b5d8a1498ed0107925ed0a6ef0e9d584cf83
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9d53a07f8060c8bdd893aa1d774130b89a7c8ec9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434591"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000536"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Microsoft パートナービジネスの成長-潜在顧客を獲得して会社を & 設定する方法について説明します
 
@@ -35,8 +35,8 @@ Microsoft では、パートナー ビジネスを拡大するために役立つ
 
 |  **目的**  |  **方法についての参照先**  |  **適用対象**  |
 |--------------|-----------|--------------
-| 見込み情報の取得と管理を行う | この[ビジネス プロファイルの最適化](https://player.vimeo.com/video/252788046 )に関する短いビデオをご覧になり、顧客がソリューション プロバイダーを検索したときに表示されるビジネス プロファイルを作成します。その後、[紹介案件への対応](responding-to-referrals.md)に関するトピックをお読みください。 | すべての ネットワーク パートナー |
-| パートナー ステータス (Silver または Gold) を獲得する | Microsoft Partner Network サイトの[コンピテンシー パートナー用ページ](https://partner.microsoft.com/membership/competencies)で、Silver または Gold メンバーシップ レベルの要件を満たす方法を確認します。 コンピテンシー情報をパートナー センターに移動する場合は、[パートナー センターでコンピテンシーを管理する方法](competencies.md)をご覧ください。 | すべての ネットワーク パートナー |
+| 見込み情報の取得と管理を行う | この[ビジネス プロファイルの最適化](https://player.vimeo.com/video/252788046 )に関する短いビデオをご覧になり、顧客がソリューション プロバイダーを検索したときに表示されるビジネス プロファイルを作成します。その後、[紹介案件への対応](manage-leads.md)に関するトピックをお読みください。 | すべての ネットワーク パートナー |
+| パートナー ステータス (Silver または Gold) を獲得する | Microsoft Partner Network サイトの[コンピテンシー パートナー用ページ](https://partner.microsoft.com/membership/competencies)で、Silver または Gold メンバーシップ レベルの要件を満たす方法を確認します。 コンピテンシー情報をパートナー センターに移動する場合は、[パートナー センターでコンピテンシーを管理する方法](learn-about-competencies.md)をご覧ください。 | すべての ネットワーク パートナー |
 | Microsoft の製品の試用版サブスクリプションを顧客に提供する | 「[Microsoft 製品の試用版を顧客に提供する](offer-your-customers-trials-of-microsoft-products.md)」で、試用版サブスクリプションを使用して顧客基盤を拡大する方法を確認します。| CSP パートナー |
 | Microsoft サブスクリプションのプロモーション価格を顧客に提供する | マイクロソフトは、ライセンス ベースのサブスクリプションのプロモーションを随時実施しており、パートナー様はこれを活用して顧客に割引価格でサブスクリプションを提供し、ビジネスの拡大を図ることができます。 [Microsoft サブスクリプションのプロモーション価格を顧客に提供する方法](promotions.md)をご覧ください。 | CSP パートナー |
 | 販売対象市場を追加する | クラウド ソリューション プロバイダー販売チャネルは、多数の国や地域で利用可能です。 一覧については、[クラウド ソリューション プロバイダーの市場](agreements.md)のページをご覧ください。 クラウド ソリューション プロバイダー チャネルの概要については、[クラウド ソリューション プロバイダーの概要](csp-overview.md)ページをご覧ください。  | CSP パートナー |

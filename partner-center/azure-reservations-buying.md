@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 655bd48df616b26b842d5f99960d6b6ad2e75f1f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367016"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000266"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure Reservations を購入する
 
@@ -33,7 +33,7 @@ ms.locfileid: "89367016"
 - ユーザー管理の管理者
  
 > [!NOTE]
-> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
+> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](/azure/cost-management-billing/reservations)を読む必要があります。
 
 ## <a name="before-you-begin"></a>開始する前に
 
@@ -136,7 +136,7 @@ ms.locfileid: "89367016"
     - 予約のスコープを選択します。 1 つのサブスクリプションまたは複数のサブスクリプション (共有スコープ) を予約のスコープにすることができます。 1 つのサブスクリプションを予約の対象にする場合、予約割引は、そのサブスクリプションのみに適用されます。 [共有] を選択すると、顧客の請求コンテキスト内のすべてのサブスクリプションに予約割引が適用されます。 
 
       >[!NOTE] 
-      >予約の対象範囲を 1 つの Azure サブスクリプションに制限することを選択した場合は、サブスクリプションの vCPU クォータを増やすことが必要な場合があります。 サブスクリプションの vCPU クォータを増やすには、Azure portal でサポート要求を作成する必要があります。 [このトピック](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)の手順に従って、要求を作成します。 
+      >予約の対象範囲を 1 つの Azure サブスクリプションに制限することを選択した場合は、サブスクリプションの vCPU クォータを増やすことが必要な場合があります。 サブスクリプションの vCPU クォータを増やすには、Azure portal でサポート要求を作成する必要があります。 [このトピック](/azure/azure-supportability/resource-manager-core-quotas-request)の手順に従って、要求を作成します。 
 
       >[!NOTE]   
       >顧客が Azure プランの下にある場合、 **スコープ**  は [ **共有**] に設定されます。 
@@ -156,5 +156,5 @@ ms.locfileid: "89367016"
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved Instances の販売](azure-reservations.md) |
 |パートナー センターでの Azure Reservations の管理 | [パートナー センターでの Azure Reservations の管理](azure-reservations-manage.md)
 |適切な VM サイズの判断と顧客による VM 使用状況の確認   |[Azure Reservation の最大使用量に対応する VM サイズ](azure-usage.md)   |
-|パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)   |
+|パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)   |
 |独自の Azure 予約を購入するためのアクセス許可を顧客に付与する  | [独自の Azure 予約を購入するためのアクセス許可を顧客に付与する](give-customers-permission.md)  |

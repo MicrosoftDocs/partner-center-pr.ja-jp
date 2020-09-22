@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: 05260ce988c5a3168a8b0dbd587d453f295c9396
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026270"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000556"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問
 
@@ -53,7 +53,7 @@ Microsoft Cloud for US Government のクラウド ソリューション プロ�
 
 - 契約: Microsoft クラウド リセラー契約 (MCRA) が、固有の政府機関向けの条件を反映するように更新されました。
 
-- パートナー センターの機能: 法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムについては、パートナー センターの一部の機能が有効になりません。 パートナーは、代わりに Azure Active Directory (Azure AD) や [Graph API](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) を使用して、ユーザーとグループの管理に関連するタスクを実行できます。 米国政府向けの Microsoft Cloud のためにライセンスベースのサービスを CSP で利用できる場合は、マルチチャネルとマルチパートナーのシナリオをサポートするリレーションシップ要求機能を、起動後に利用できるようになります。
+- パートナー センターの機能: 法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムについては、パートナー センターの一部の機能が有効になりません。 パートナーは、代わりに Azure Active Directory (Azure AD) や [Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) を使用して、ユーザーとグループの管理に関連するタスクを実行できます。 米国政府向けの Microsoft Cloud のためにライセンスベースのサービスを CSP で利用できる場合は、マルチチャネルとマルチパートナーのシナリオをサポートするリレーションシップ要求機能を、起動後に利用できるようになります。
 
 ### <a name="i-am-not-a-csp-partner-yet-where-can-i-find-more-information-on-how-to-become-a-csp-partner"></a>まだ CSP パートナーではありません。 CSP パートナーになる方法に関する詳しい情報はどこで確認できますか?
 
@@ -97,7 +97,7 @@ Microsoft Cloud ディストリビューター契約 (MCDA) は、販売代理�
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>既存のパートナーが 米国政府機関向け Microsoft Cloud の販売を行うには、何が必要ですか。
 
-パートナーは、法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムにオンボードする必要があります  (Microsoft Cloud for US Government へのオンボードと商用 CSP へのオンボードは別です)。オンボードが完了すると、Microsoft Cloud for US Government 内で顧客の作成や利用可能なプランの処理を行うことができます。 API を利用している場合は、[Microsoft National Cloud のパートナー センター向けの開発に関するページ](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)を参照してください。
+パートナーは、法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムにオンボードする必要があります  (Microsoft Cloud for US Government へのオンボードと商用 CSP へのオンボードは別です)。オンボードが完了すると、Microsoft Cloud for US Government 内で顧客の作成や利用可能なプランの処理を行うことができます。 API を利用している場合は、[Microsoft National Cloud のパートナー センター向けの開発に関するページ](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)を参照してください。
 
 ### <a name="is-there-any-difference-in-partner-incentives"></a>パートナー インセンティブに違いはありますか?
 
@@ -123,11 +123,11 @@ Azure Government クラウドは、セキュリティ、プライバシーと管
 
 ### <a name="what-do-i-need-to-do-to-develop-with-the-csp-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud の CSP プログラムで開発を行うには?
 
-米国政府機関向け Microsoft Cloud のパートナー センターを使用した開発の詳細については、[米国政府機関向け Microsoft Cloud のパートナー センターによる開発に関するページ](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)を参照してください。
+米国政府機関向け Microsoft Cloud のパートナー センターを使用した開発の詳細については、[米国政府機関向け Microsoft Cloud のパートナー センターによる開発に関するページ](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)を参照してください。
 
 ### <a name="are-there-any-differences-in-apis"></a>API の相違点はありますか?
 
-米国政府機関向け Microsoft Cloud の CSP プログラムにおける API および統合要件は、商用 CSP の場合と同じです。 米国政府機関向け Microsoft Cloud 内のエンドポイントの詳細については、「[パートナー センター REST の URL](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx)」を参照してください。
+米国政府機関向け Microsoft Cloud の CSP プログラムにおける API および統合要件は、商用 CSP の場合と同じです。 米国政府機関向け Microsoft Cloud 内のエンドポイントの詳細については、「[パートナー センター REST の URL](/partner-center/develop/partner-center-rest-urls)」を参照してください。
 
 >[!NOTE]
 >Microsoft Cloud for US Government の CSP プログラムでは、CREST API を使用できません。 これらの API は CSP で廃止に向けて処理中であるため、米国政府機関向け Microsoft Cloud でも使用できません。 法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムでは、次の API は利用できません。
@@ -162,7 +162,7 @@ Azure Government クラウドは、セキュリティ、プライバシーと管
 
 - [CSP について](https://partner.microsoft.com/cloud-solution-provider)
 
-- [Microsoft Cloud for US Government のパートナー センターによる開発について](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)
+- [Microsoft Cloud for US Government のパートナー センターによる開発について](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>他にも質問がある場合は?
 

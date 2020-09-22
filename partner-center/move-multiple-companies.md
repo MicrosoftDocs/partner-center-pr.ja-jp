@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114146"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000076"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>パートナーメンバーシップセンターからの複数の企業のパートナーセンターへの移行 (PMC)
 
@@ -25,7 +25,7 @@ ms.locfileid: "87114146"
 - 管理エージェント
 - 販売代理店
 
-会社アカウントを PMC からパートナー センターに移動するときに、複数のアカウントを移動する場合があります。 パートナー センターでは、これらのアカウントは 1 つのグローバル アカウント (PGA) に統合されます。 移動する最初のアカウントは、パートナーのグローバルアカウントと見なされ、それ以降のすべてのアカウントは、最初のアカウントの場所として統合されます。 会社の本社の PMC アカウントを使用して移動を開始します。 詳細については、 [PMC からパートナーセンターへの移行に関するガイドを参照する](guide-to-migration.md)か、この短いビデオ[マルチロケーションアカウントを簡単](https://vimeo.com/290335248)にご覧ください。
+会社アカウントを PMC からパートナー センターに移動するときに、複数のアカウントを移動する場合があります。 パートナー センターでは、これらのアカウントは 1 つのグローバル アカウント (PGA) に統合されます。 移動する最初のアカウントは、パートナーのグローバルアカウントと見なされ、それ以降のすべてのアカウントは、最初のアカウントの場所として統合されます。 会社の本社の PMC アカウントを使用して移動を開始します。 詳細については、 [PMC からパートナーセンターへの移行に関するガイドを参照する](guide-to-migration.md) か、この短いビデオ [マルチロケーションアカウントを簡単](https://vimeo.com/290335248)にご覧ください。
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>追加のアカウントをパートナー センターに移動する
 
@@ -51,7 +51,7 @@ ms.locfileid: "87114146"
 
 この画面には、パートナー センターで既に作成されている既存のアカウントの詳細 (名前と住所) と、主要連絡先の詳細が表示されます。
 
-**[続行]** を選びます。
+**[続行]** をクリックします。
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>アカウント統合の際の動作
 
@@ -93,4 +93,4 @@ ms.locfileid: "87114146"
 - [ユーザー ロールとアクセス許可を割り当てる](permissions-overview.md)
 - [メンバーシップ プログラムを管理する](renew-mpn-offers.md)
 - [会社のビジネス プロファイルを作成する](create-a-marketing-profile.md)
-- [紹介機能で顧客との関係を構築する](responding-to-referrals.md)
+- [紹介機能で顧客との関係を構築する](manage-leads.md)

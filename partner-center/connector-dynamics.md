@@ -8,12 +8,12 @@ description: パートナーセンターでの参照を Dynamics 365 CRM と同�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 39fbeb4e180b24dc19f73b5381af8b8b481045f3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490670"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000496"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM の共同販売コネクタ–概要
 
@@ -33,7 +33,7 @@ ms.locfileid: "89490670"
 |Microsoft Partner Network ID |有効な MPN ID が必要です|[MPN](https://partner.microsoft.com/)に参加するには|
 |共同販売の準備完了|お客様の IP/サービスソリューションは、共同販売の準備ができている必要があります。|[Microsoft との販売](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |パートナー センター アカウント|パートナーセンターのテナントに関連付けられている MPN ID は、共同販売ソリューションに関連付けられている MPN ID と同じである必要があります。 コネクタをデプロイする前に、パートナーセンターポータルで共同販売の紹介を確認できることを確認します。|[アカウントの管理](create-user-accounts-and-set-permissions.md)|
-|パートナー センターのユーザー ロール|コネクタをインストールして使用する従業員は、参照管理者である必要があります|[ユーザー ロールとアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|CRM ユーザーロールは、システム管理者またはシステムカスタマイザーです。|[Dynamics 365 でロールを割り当てる](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
+|パートナー センターのユーザー ロール|コネクタをインストールして使用する従業員は、参照管理者である必要があります|[ユーザー ロールとアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|CRM ユーザーロールは、システム管理者またはシステムカスタマイザーです。|[Dynamics 365 でロールを割り当てる](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
 |パワー自動化フローアカウント|CRM システム管理者またはシステムカスタマイザー用のアクティブな [電源自動化](https://flow.microsoft.com) アカウント。 そのユーザーは、インストールの前に少なくとも1回、 [電源の自動](https://flow.microsoft.com) 登録を行う必要があります。|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Dynamics 365 のパートナーセンターの紹介同期をインストールする (電源自動化ソリューション)
@@ -155,7 +155,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
 1. パートナーセンターで作成または更新イベントのフィールドを CRM の参照同期にカスタマイズするには、次のようにします。 
 
-    a。 [パートナーセンター] を選択して Dynamics 365 (Insider Preview) またはパートナーセンターから Salesforce へ (Insider Preview) を選択します。
+    a. [パートナーセンター] を選択して Dynamics 365 (Insider Preview) またはパートナーセンターから Salesforce へ (Insider Preview) を選択します。
 
     b. [ **編集** ] を選択して、パワー自動化フローを編集またはカスタマイズします。
 
@@ -171,7 +171,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
 3. 更新イベントの CRM から PC への参照同期のフィールドをカスタマイズするには、次のようにします。
 
-    a。 [ **編集**  ] を選択して、パワー自動化フローを編集またはカスタマイズします。
+    a. [ **編集**  ] を選択して、パワー自動化フローを編集またはカスタマイズします。
 
     b. [ **(スコープ)] を選択して、営業案件を同期**します。
 
@@ -183,7 +183,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
 4. Create events の CRM to PC 参照同期のフィールドをカスタマイズするには
 
-   a。 [ **編集**  ] を選択して、パワー自動化フローを編集またはカスタマイズします。
+   a. [ **編集**  ] を選択して、パワー自動化フローを編集またはカスタマイズします。
 
    b. **参照の同期を選択 (スコープ) します。**
 
@@ -255,12 +255,12 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
    6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [見込み客を管理する](manage-leads.md)
 
 - [共同販売の機会を管理する](manage-co-sell-opportunities.md)
 
-- [Microsoft Power の自動化プラットフォームの詳細](https://docs.microsoft.com/power-automate/)
+- [Microsoft Power の自動化プラットフォームの詳細](/power-automate/)
 
-- [パートナー センター Webhook](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [パートナー センター Webhook](/partner-center/develop/partner-center-webhooks)

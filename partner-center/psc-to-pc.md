@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848269"
+ms.locfileid: "90999346"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
@@ -40,12 +40,12 @@ ms.locfileid: "90848269"
 ### <a name="if-you-are-psc-admin"></a>PSC 管理者の場合
 
 - [パートナーセンター](https://partner.microsoft.com/)にログインするには、職場の電子メールが必要です。
-- パートナーセンターの [アカウント管理者](https://docs.microsoft.com/partner-center/permissions-overview)に問い合わせて、アカウントを設定します。
+- パートナーセンターの [アカウント管理者](permissions-overview.md)に問い合わせて、アカウントを設定します。
 - このドキュメントを読んで、パートナーセンターで共同販売する方法を説明します。
-- すべての PSC ユーザー (管理者、取引先担当者、および販売者ロール) のパートナーセンターでユーザーアカウントを設定し、 [参照管理者ロール](https://docs.microsoft.com/partner-center/permissions-overview)を割り当てます。
+- すべての PSC ユーザー (管理者、取引先担当者、および販売者ロール) のパートナーセンターでユーザーアカウントを設定し、 [参照管理者ロール](permissions-overview.md)を割り当てます。
 
 >[!Important]
-> PSC バナーに示されている MPN ID が、パートナーセンターの MPN の場所の一覧に表示されていることを確認します。 パートナーセンターで、[アカウント設定] と [[場所](https://docs.microsoft.com/partner-center/manage-locations)] に移動して、パートナーセンターアカウントに関連付けられているすべての MPNs の一覧を確認できます。
+> PSC バナーに示されている MPN ID が、パートナーセンターの MPN の場所の一覧に表示されていることを確認します。 パートナーセンターで、[アカウント設定] と [[場所](manage-locations.md)] に移動して、パートナーセンターアカウントに関連付けられているすべての MPNs の一覧を確認できます。
 
  :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="パートナーが MPN ID を見つけることができる、PSC のバナーを示す画像。":::
 
@@ -61,10 +61,10 @@ ms.locfileid: "90848269"
 
 [参照] タブが表示されない場合は、次のようになります。
 
-- 会社の [全体管理者](https://docs.microsoft.com/partner-center/permissions-overview) は、[紹介] タブへのアクセスを許可できます。全体管理者を見つけるには、パートナーセンターの右上にある歯車アイコンから [パートナー設定] にアクセスします。 左側のナビゲーションバーの2番目のレベルで [ユーザー管理] ページを選択します。 ページの右上にある "すべてのユーザー" と表示されているドロップダウンをクリックし、[全体管理者] に変更します。 このページには、すべてのグローバル管理者が、それぞれの電子メール Id と共に表示されます。 これらのユーザーに連絡して、職場アカウントの "参照管理者" アクセスを取得してください。
+- 会社の [全体管理者](permissions-overview.md) は、[紹介] タブへのアクセスを許可できます。全体管理者を見つけるには、パートナーセンターの右上にある歯車アイコンから [パートナー設定] にアクセスします。 左側のナビゲーションバーの2番目のレベルで [ユーザー管理] ページを選択します。 ページの右上にある "すべてのユーザー" と表示されているドロップダウンをクリックし、[全体管理者] に変更します。 このページには、すべてのグローバル管理者が、それぞれの電子メール Id と共に表示されます。 これらのユーザーに連絡して、職場アカウントの "参照管理者" アクセスを取得してください。
 
 >[!Important]
-> 役割が PSC のユーザーのみを管理している場合は、パートナーセンターで [アカウント管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) ロールを取得できます。 ロールに共同販売機会の管理も含まれている場合は、 [参照管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) ロールを取得する必要があります。 また、psc 管理者が1つの変更管理者を指名して、すべての PSC 管理者が PC のアカウント管理者を個別に管理するのではなく、パートナーセンターアカウント管理者と協力します。
+> 役割が PSC のユーザーのみを管理している場合は、パートナーセンターで [アカウント管理者](permissions-overview.md#manage-mpn-membership-and-your-company) ロールを取得できます。 ロールに共同販売機会の管理も含まれている場合は、 [参照管理者](permissions-overview.md#manage-referrals) ロールを取得する必要があります。 また、psc 管理者が1つの変更管理者を指名して、すべての PSC 管理者が PC のアカウント管理者を個別に管理するのではなく、パートナーセンターアカウント管理者と協力します。
 
  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="[パートナーの設定] ユーザー管理ページにアカウント管理者が表示されているイメージ。":::
 
@@ -76,9 +76,9 @@ ms.locfileid: "90848269"
 パートナーセンターでアカウントを設定した後、
 
 - 次の手順として、PSC で "取引マネージャー" または "販売者" というロールを持つすべてのユーザーを招待します。
-- 参照へのアクセスを支援した [アカウント管理](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 者は、すべてのユーザーを招待できます。
-- ユーザーを招待するときに、アカウント管理者に [参照管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) ロールを割り当てるように依頼します。
-- 一部の PSC ユーザーは、パートナーセンターで使用しているものとは異なるドメインのアカウントを使用している可能性があります。 このようなユーザーは、Azure AD テナントに関連付けられている職場アカウントを使用して、パートナーセンターにサインインする必要があります。 [グローバル管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles)はこれを支援できます。 全体管理者を見つけるには、パートナーセンターの右上にある歯車アイコンから [パートナー設定] にアクセスします。 左側のナビゲーションバーの2番目のレベルの [ユーザー管理] ページをクリックします。 ページの右上にある "すべてのユーザー" と表示されているドロップダウンをクリックし、[全体管理者] に変更します。
+- 参照へのアクセスを支援した [アカウント管理](permissions-overview.md#manage-mpn-membership-and-your-company) 者は、すべてのユーザーを招待できます。
+- ユーザーを招待するときに、アカウント管理者に [参照管理者](permissions-overview.md#manage-referrals) ロールを割り当てるように依頼します。
+- 一部の PSC ユーザーは、パートナーセンターで使用しているものとは異なるドメインのアカウントを使用している可能性があります。 このようなユーザーは、Azure AD テナントに関連付けられている職場アカウントを使用して、パートナーセンターにサインインする必要があります。 [グローバル管理者](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles)はこれを支援できます。 全体管理者を見つけるには、パートナーセンターの右上にある歯車アイコンから [パートナー設定] にアクセスします。 左側のナビゲーションバーの2番目のレベルの [ユーザー管理] ページをクリックします。 ページの右上にある "すべてのユーザー" と表示されているドロップダウンをクリックし、[全体管理者] に変更します。
 - 全体管理者は、Azure AD テナントに新しいユーザーアカウントを作成するか、他のドメインアカウントユーザーにゲストユーザーのアクセス権を割り当てることができます。
 - すべての PSC 取引マネージャーとユーザーに対してアカウントを設定したら、パートナーセンターにサインインし、左側のナビゲーションで [参照] タブに移動して、[参照] ページが表示されることを確認します。
 
@@ -100,16 +100,16 @@ ms.locfileid: "90848269"
 
 |**シナリオ**|**Partner Sales Connect**|**パートナー センター**|
 |-----|:-----|:-----|
-|ユーザー ロール|PSC には、管理者、取引マネージャー、および販売者ロールがあります。|PC には、すべての取引に対して読み取りと書き込みの両方の権限を付与する [参照管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) ロールがあります。|
-|共同販売に関してマイクロソフトに招待する|Microsoft 販売者によって開始されたパートナーによる明示的な ask はありません。|パートナーは、Microsoft の販売者向けヘルプが必要な場合は、 [明示的な要求](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) を行う必要があります。 Microsoft 販売者には、要求を拒否するオプションがあります。|
+|ユーザー ロール|PSC には、管理者、取引マネージャー、および販売者ロールがあります。|PC には、すべての取引に対して読み取りと書き込みの両方の権限を付与する [参照管理者](permissions-overview.md#manage-referrals) ロールがあります。|
+|共同販売に関してマイクロソフトに招待する|Microsoft 販売者によって開始されたパートナーによる明示的な ask はありません。|パートナーは、Microsoft の販売者向けヘルプが必要な場合は、 [明示的な要求](manage-co-sell-opportunities.md#add-solutions) を行う必要があります。 Microsoft 販売者には、要求を拒否するオプションがあります。|
 |Expiry|案件の有効期限という概念はありません。|パートナーがパートナーに受け入れられない場合、パートナーの受信取引は14日後に期限切れになります。 これは、Microsoft 販売者が14日以内に有効期限切れになった場合に、パートナーの送信取引と同じです。|
 |Microsoft 販売者の詳細|取引が作成されるとすぐに表示されます。|Microsoft 販売者の詳細情報は、販売者がパートナーからの共同販売の招待を明示的に受け入れる場合にのみ、パートナーと共有されます。|
-|[プライベートパイプライン](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|使用できません。|パートナーは、Microsoft の販売者に可視性を提供することなく、パイプラインを共有できます。|
-|ソリューション|1つの価格表のみに属するソリューションは、取引に追加できます。|パートナーは、次のリストに属する [ソリューション](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) を追加できます。 a) Microsoft ファーストパーティカタログ (PSC のトランザクション取引取引と同様) のソリューション b) ソリューションと c) 他のサードパーティパートナーからのソリューションの共同販売 (PSC の ISV 取引ロールと同様)。|
+|[プライベートパイプライン](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|使用できません。|パートナーは、Microsoft の販売者に可視性を提供することなく、パイプラインを共有できます。|
+|ソリューション|1つの価格表のみに属するソリューションは、取引に追加できます。|パートナーは、次のリストに属する [ソリューション](manage-co-sell-opportunities.md#add-solutions) を追加できます。 a) Microsoft ファーストパーティカタログ (PSC のトランザクション取引取引と同様) のソリューション b) ソリューションと c) 他のサードパーティパートナーからのソリューションの共同販売 (PSC の ISV 取引ロールと同様)。|
 |取引の割り当て|割り当てられた販売者だけが、取引を表示し、行動を取ることができます。|チームメンバーを追加して、取引先を指定することができます。このような場合、他の参照管理者がそれらの取引を表示または操作できなくなることはありません。|
-|お客様の組織|自由形式のテキスト入力。|少数の文字を入力するだけで、 [D&B データベース](https://www.dnb.com/)に対して[顧客組織](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)を検索できます。 有効な名前と住所は、選択した内容に基づいて自動的に設定されます。|
+|お客様の組織|自由形式のテキスト入力。|少数の文字を入力するだけで、 [D&B データベース](https://www.dnb.com/)に対して[顧客組織](manage-co-sell-opportunities.md#select-your-customer)を検索できます。 有効な名前と住所は、選択した内容に基づいて自動的に設定されます。|
 |お客様の連絡先|必須ではありません。|プライベートパイプラインの共有には必須ではありません。 Microsoft 販売者が共同販売要求への参加を招待された場合に必要です。|
-|パブリック API|使用できません。|パートナーセンターの紹介をプログラムで管理する[パブリック API](https://docs.microsoft.com/partner/develop/referrals) 。|
+|パブリック API|使用できません。|パートナーセンターの紹介をプログラムで管理する[パブリック API](/partner/develop/referrals) 。|
 
 ## <a name="psc-and-partner-center-field-mapping"></a>PSC とパートナーセンターのフィールドマッピング
 
@@ -166,13 +166,13 @@ ms.locfileid: "90848269"
 
 **四半期.パートナーセンターにアクセスできない場合はどうすればよいですか?**
 
-[アクセスなし] ページに表示されている管理者に連絡して、ロールを割り当てることができます。 [紹介] セクションの [読み取りと書き込み] アクセス許可には "[参照管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" ロールが必要です。 ビジネスプロファイルのみを管理している場合は、パートナーセンターの "ビジネスプロファイル管理者" ロールが必要になります。
+[アクセスなし] ページに表示されている管理者に連絡して、ロールを割り当てることができます。 [紹介] セクションの [読み取りと書き込み] アクセス許可には "[参照管理者](permissions-overview.md#manage-referrals)" ロールが必要です。 ビジネスプロファイルのみを管理している場合は、パートナーセンターの "ビジネスプロファイル管理者" ロールが必要になります。
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="パートナーセンターにアクセスなしのエクスペリエンスを示すイメージ。":::
 
 **Q2.パートナーセンターの [紹介] セクションへのアクセス権を付与できるユーザー**
 
-[アカウント管理者](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)は、[紹介] タブへのアクセスを許可できます。アカウント管理者を見つけるには、パートナーセンターの右上にある歯車アイコンから [パートナー設定] にアクセスします。 左側のナビゲーションバーの2番目のレベルの [ユーザー管理] ページをクリックします。 ページの右上にある [すべてのユーザー] を表示するドロップダウンをクリックし、"Account Admins" に変更します。 このページには、すべてのアカウント管理者が、それぞれの電子メール Id と共に表示されます。 これらのユーザーに連絡して、職場アカウントの "参照管理者" アクセスを取得してください。
+[アカウント管理者](permissions-overview.md#manage-mpn-membership-and-your-company)は、[紹介] タブへのアクセスを許可できます。アカウント管理者を見つけるには、パートナーセンターの右上にある歯車アイコンから [パートナー設定] にアクセスします。 左側のナビゲーションバーの2番目のレベルの [ユーザー管理] ページをクリックします。 ページの右上にある [すべてのユーザー] を表示するドロップダウンをクリックし、"Account Admins" に変更します。 このページには、すべてのアカウント管理者が、それぞれの電子メール Id と共に表示されます。 これらのユーザーに連絡して、職場アカウントの "参照管理者" アクセスを取得してください。
 
 **Q3.アカウントでは、[+ 新しい商談] ボタンがグレーで表示されます。取引の作成を開始するにはどうすればよいですか?**
 
@@ -192,7 +192,7 @@ ms.locfileid: "90848269"
 
 **Q7.商談を獲得後に登録するにはどうすればよいですか。**
 
-取引が以下の条件を満たしている場合は、 [登録](https://docs.microsoft.com/partner-center/register-deals)を開始するポップアップが表示されます。
+取引が以下の条件を満たしている場合は、 [登録](./register-deals.md)を開始するポップアップが表示されます。
 
 - 取引に関連するインセンティブ対象ソリューションがあります。
 - Microsoft 販売者は、商談に参加するよう招待されています。または、お客様に招待します。
@@ -204,11 +204,11 @@ ms.locfileid: "90848269"
 
 **Q9.顧客組織を必須として追加していますか?**
 
-はい。パートナーセンターでは、 [顧客組織](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) を追加することが必須です。 最初に、顧客の所在地を検索します。 使用している詳細情報に基づいています。具体的には、正確な建物名を含めたり、市区町村の詳細を指定したりすることができます。 組織の検索では、入力した名前と一致するすべての法的エンティティがフェッチされるため、アドレスの詳細を入力する必要はありません。 すべての詳細は、選択した組織に基づいて自動的に入力されます。
+はい。パートナーセンターでは、 [顧客組織](./manage-co-sell-opportunities.md#select-your-customer) を追加することが必須です。 最初に、顧客の所在地を検索します。 使用している詳細情報に基づいています。具体的には、正確な建物名を含めたり、市区町村の詳細を指定したりすることができます。 組織の検索では、入力した名前と一致するすべての法的エンティティがフェッチされるため、アドレスの詳細を入力する必要はありません。 すべての詳細は、選択した組織に基づいて自動的に入力されます。
 
 **Q10.カスタマー連絡先の詳細は必須ですか?**
 
-作成する [取引の種類](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities) によって異なります。 パイプラインを共有するだけで、Microsoft 営業組織の支援を必要としない場合は、顧客の連絡先の詳細を指定しないことを選択できます。 Microsoft 販売者が積極的に支援を求めている場合は、お客様の連絡先の詳細を入力する必要があります。 パートナーセンターで共同販売要求を作成する前に、お客様から明示的な同意を得る必要があります。
+作成する [取引の種類](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) によって異なります。 パイプラインを共有するだけで、Microsoft 営業組織の支援を必要としない場合は、顧客の連絡先の詳細を指定しないことを選択できます。 Microsoft 販売者が積極的に支援を求めている場合は、お客様の連絡先の詳細を入力する必要があります。 パートナーセンターで共同販売要求を作成する前に、お客様から明示的な同意を得る必要があります。
 
 **Q11.商談に追加できるソリューションの数を教えてください。**
 
@@ -228,7 +228,7 @@ PSC とは異なり、パートナーセンターには、直接 PDMs からア�
 
 - OCP Insights-PDMs がそれらに関連する & の進行状況を表示するだけの場合は、OCP Insights ポータルを使用して組織のビューを取得できます。 これは内部ツールであり、PDMs でのみ使用できます。 OCP insights は、会社のユーザーには使用できないことに注意してください。
 - パートナーセンターのゲストユーザー-PDM @microsoft.com アカウントをパートナーセンターのゲストユーザーとして追加し、それらに参照管理者ロールを割り当てて、参照を表示して操作できるようにすることができます。
-- テナントに [新しいユーザー](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) を作成する-独自のテナントに新しいユーザーを作成し、それらの詳細を PDM と共有して、アカウント内の他の参照ユーザーと同様の参照を表示して操作できるようにすることができます。
+- テナントに [新しいユーザー](./create-user-accounts-and-set-permissions.md#add-a-new-user) を作成する-独自のテナントに新しいユーザーを作成し、それらの詳細を PDM と共有して、アカウント内の他の参照ユーザーと同様の参照を表示して操作できるようにすることができます。
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>パートナーセンターでの取引の作成と管理に役立つリソース
 
@@ -236,15 +236,15 @@ PSC とは異なり、パートナーセンターには、直接 PDMs からア�
 
 |**目的**   |**参照先**   |
 |-----------------------|:-----------------------|
-|[共同販売機会] ページのタブとナビゲーションについて|[共同販売セクションの移動](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#navigating-the-co-sell-section)|
-|D&B 一覧からの顧客組織の選択 |[顧客を選択する](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)|
-|[案件の詳細] セクションのフィールドの変更|[案件の詳細](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#deal-details)|
-|会社の従業員を取引チームに追加する|[従業員を追加する](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-your-employees)|
-|共同販売取引への対応|[共同販売取引を管理する](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#responding-to-a-co-sell-opportunity)
-|パートナーセンターで受注した取引を登録する |[新しい取引の登録](https://docs.microsoft.com/partner-center/register-deals)
-|紹介の洞察を取得し、参照の実行状況を確認する |[紹介の分析情報](https://docs.microsoft.com/partner-center/referral-insights)
-|ビジネスプロファイルの作成と管理|[ビジネス プロファイルの管理](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
-|ビジネスプロファイルの潜在顧客を管理する |[見込み客を管理する](https://docs.microsoft.com/partner-center/manage-leads)|
+|[共同販売機会] ページのタブとナビゲーションについて|[共同販売セクションの移動](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|D&B 一覧からの顧客組織の選択 |[顧客を選択する](./manage-co-sell-opportunities.md#select-your-customer)|
+|[案件の詳細] セクションのフィールドの変更|[案件の詳細](./manage-co-sell-opportunities.md#deal-details)|
+|チームメンバーを取引先チームに追加する|[従業員を追加する](./manage-co-sell-opportunities.md#add-team-members)|
+|共同販売取引への対応|[共同販売取引を管理する](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
+|パートナーセンターで受注した取引を登録する |[新しい取引の登録](./register-deals.md)
+|紹介の洞察を取得し、参照の実行状況を確認する |[紹介の分析情報](./referral-insights.md)
+|ビジネスプロファイルの作成と管理|[ビジネス プロファイルの管理](./create-a-marketing-profile.md)
+|ビジネスプロファイルの潜在顧客を管理する |[見込み客を管理する](./manage-leads.md)|
 
 ## <a name="additional-resources"></a>その他のリソース
 

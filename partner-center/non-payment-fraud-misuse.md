@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: ba5fe60234c002ad2696de348a1b3b9b1284c149
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280596"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999296"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>パートナー センターでの未払い、詐欺、不正使用の管理
 
@@ -79,7 +79,7 @@ Microsoft の利用規約に違反する例として、次のようなものが�
 - サインアップ時に multi-factor authentication (SMS の検証など) を使用して、ロボットアカウントの作成と購入の危険性を最小限に抑えます。
 - サービス (デジタル id サービスなど) を使用して id を管理および追跡します。
 - クレジットカード詐欺検出システムを使用して、顧客の財務力を評価します。
-- コレクションのクリアポリシーを確立します。 コレクションのプロセスを詳しく説明します。サブスクリプションへのアクセスは、支払いが行われないことによって影響を受けます。 (アクセスを無効にしたり [、顧客のサブスクリプション](suspend-a-subscription.md) の支払いを中断したりすることができます)。
+- コレクションのクリアポリシーを確立します。 コレクションのプロセスを詳しく説明します。サブスクリプションへのアクセスは、支払いが行われないことによって影響を受けます。 (アクセスを無効にしたり [、顧客のサブスクリプション](create-a-new-subscription.md#suspend-a-subscription) の支払いを中断したりすることができます)。
 
 ### <a name="managing-customer-accounts"></a>顧客アカウントの管理
 

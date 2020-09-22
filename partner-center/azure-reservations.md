@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 7f6ca7aa7dddbd9e32690928ee8d48afa5071b14
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367036"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000236"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>パートナーセンター、Azure portal、Api を使用して Microsoft Azure の予約を顧客に販売する
 
@@ -33,7 +33,7 @@ ms.locfileid: "89367036"
 - ユーザー管理の管理者
 
 > [!NOTE]
-> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
+> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](/azure/cost-management-billing/reservations)を読む必要があります。
 
 CSP プログラムのパートナーは、お客様に Microsoft Azure 予約を提供できます。 事前に予約した場合、顧客はコストを大幅に節約できます。 Azure Reservations では顧客の皆様に、次のように簡単で柔軟にご利用いただけます。
 
@@ -56,9 +56,9 @@ Azure Reservations は、次の点で顧客にとって魅力的です。
 
 |**対象**   |**参照先**    |
 |:-----------------------------|:-----------------|
-| 顧客向けの Azure Reservations に関するドキュメント | [Azure の予約とは](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| 顧客向けの Azure Reservations に関するドキュメント | [Azure の予約とは](/azure/billing/billing-save-compute-costs-reservations)
 |パートナー センターで顧客の Azure Reservations を購入する   |[Azure Reservations を購入する](azure-reservations-buying.md)
 |パートナー センターでの Azure Reservations の管理 | [パートナー センターでの Azure Reservations の管理](azure-reservations-manage.md)
 |適切な VM サイズの判断と顧客による VM 使用状況の確認   |[Azure Reservation の最大使用量に対応する VM サイズ](azure-usage.md)   |
-|パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)   |
+|パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)   |
 |CSP サブスクリプションから独自の Azure 予約を購入するためのアクセス許可を顧客に付与します。 | [独自の Azure 予約を購入するためのアクセス許可を顧客に付与する](give-customers-permission.md)   |

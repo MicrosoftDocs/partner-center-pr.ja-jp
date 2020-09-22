@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: fba1427978e61b739c8ffb14374a44331ef51d27
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366876"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000256"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>顧客の予約 Microsoft Azure 管理、取り消し、交換、返金する
 
@@ -33,7 +33,7 @@ ms.locfileid: "89366876"
 - ユーザー管理の管理者
 
 > [!NOTE]
-> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](https://docs.microsoft.com/azure/cost-management-billing/reservations)を読む必要があります。
+> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](/azure/cost-management-billing/reservations)を読む必要があります。
 
 購入後に顧客の Azure 予約を管理するには、パートナーセンターで管理する顧客と予約を選択し、Azure portal の予約に変更を加えます。
 
@@ -46,9 +46,9 @@ ms.locfileid: "89366876"
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
     | **概要**   | 有効期限、スコープ、使用状況データなど、顧客の予約の詳細を表示します。 **注意:** 日割り計算の払い戻しを求めるサポート要求を作成するには、**[Refund]** (払い戻し) を選択します。 予約期間のうち未使用の部分を交換するためのサポート要求を作成するには、**[交換]** を選択します。  
-    | **Access Control (IAM)**   | 顧客の予約情報へのアクセスを管理します。|
+    | **アクセス制御 (IAM)**   | 顧客の予約情報へのアクセスを管理します。|
     | **構成**   | 予約が関連付けられている予約のスコープや Azure サブスクリプションを変更します。    |
-    | **Properties**   | 予約のプロパティを表示し、予約 ID と予約注文 ID をクリップボードにコピーします。 **注意:** 顧客に代わってサポートを要求する際には、予約 ID と予約注文 ID がサポートから求められることがあります。    |
+    | **プロパティ**   | 予約のプロパティを表示し、予約 ID と予約注文 ID をクリップボードにコピーします。 **注意:** 顧客に代わってサポートを要求する際には、予約 ID と予約注文 ID がサポートから求められることがあります。    |
     | **新しいサポート要求**    | Microsoft サポートによるヘルプを要求します。   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>予約の取り消しまたは交換
@@ -107,6 +107,5 @@ ms.locfileid: "89366876"
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved Instances の販売](azure-reservations.md) |
 |パートナー センターで顧客の Azure Reservations を購入する   | [Azure Reservations を購入する](azure-reservations-buying.md) |
 |適切な VM サイズの判断と顧客による VM 使用状況の確認   | [Azure Reservation の最大使用量に対応する VM サイズ](azure-usage.md)   |
-|パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)   |
+|パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)   |
 |購入したサブスクリプションから独自の Azure 予約を購入するためのアクセス許可を顧客に付与します。 | [独自の Azure 予約を購入するためのアクセス許可を顧客に付与する](give-customers-permission.md)   |
-

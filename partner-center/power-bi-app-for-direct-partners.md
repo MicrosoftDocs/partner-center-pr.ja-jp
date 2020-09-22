@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54301590ce6be6d9076d1fb337979148455f25f6
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 2e58c8ed68e40e9ffb4f2ed5555dc780e21570a7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302309"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000016"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI 用のパートナーセンター分析アプリの概要と Faq (CSP の直接パートナー)
 
@@ -51,12 +51,12 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 以下では、よく寄せられる質問とその回答をご紹介します。アプリをインストールする前にご確認ください。
 
-| **Question** | **回答** |
+| **質問** | **回答** |
 | --- | ---------- |
 | アプリの価格を教えてください。 | アプリ自体は無償です。 アプリをプレビューするには[無償の Power BI サービスにサインアップ](https://go.microsoft.com/fwlink/p/?linkid=845347)し、それを使用してダッシュ ボードとレポートをカスタマイズします。 社内の他のユーザーがアプリを使用できる環境に設定するには、Microsoft Power BI Professional または Microsoft Power BI Premium のアクティブなサブスクリプションが必要です。 |
 | パートナー センターの分析アプリに接続できるのは、どのようなユーザーですか? | このバージョンのアプリは、クラウド ソリューション プロバイダー プログラムの直接パートナー (階層 1) を対象としています。 直接パートナーとは、マイクロソフトおよび顧客と直接取引するパートナーを指します。 アプリをインストールするには、会社のアカウントのグローバル管理者、管理者エージェント、または課金管理者である必要があります。 |
 | 間接プロバイダーは、アプリを使用できますか? | はい。 全体管理者、管理エージェント、請求管理者は、アプリをインストールし、直接ユーザーに関するデータを表示できます。 今後のリリースでは、間接リセラーに関するデータを表示できる機能が追加される可能性があります。 |
-| 今後のリリースについての情報は、どのように入手できますか? | お知らせとプレビュー リリースは、パートナー センターの早期導入者プログラムを通じて提供されます。 早期導入者プログラムに参加すると、フィードバックを共有することもできます。 まだプログラムに参加していない場合は、参加する方法を学習してください。 「[パートナーセンター API と SDK 早期導入プログラムに参加する」を](https://docs.microsoft.com/partner-center/develop/early-adopter-program)参照してください。  |
+| 今後のリリースについての情報は、どのように入手できますか? | お知らせとプレビュー リリースは、パートナー センターの早期導入者プログラムを通じて提供されます。 早期導入者プログラムに参加すると、フィードバックを共有することもできます。 まだプログラムに参加していない場合は、参加する方法を学習してください。 「 [パートナーセンター API と SDK 早期導入プログラムに参加する」を](/partner-center/develop/early-adopter-program)参照してください。  |
 | アプリのダッシュボードやレポートをカスタマイズできるのは、どのようなユーザーですか? | アプリをインストールした全体管理者、管理エージェント、請求管理者のみが、Power BI の Web インターフェイスでダッシュ ボードをカスタマイズし、新しいレポートを作成できます。 |
 | アプリのダッシュボードやレポートを表示できるのは、どのようなユーザーですか? | アプリをインストールした全体管理者、管理エージェント、または課金管理者は、Microsoft Power BI Professional または Microsoft Power BI Premium に対してアクティブなサブスクリプションを持っているユーザーとアプリのデータを共有できます。 |
 | アプリを使用して、複数の場所にある複数の Azure AD テナントのデータを表示できますか? | このリリースでは、管理エージェントまたはグローバル管理者がログインしている Azure AD のデータのみを表示できます。 | 
@@ -64,7 +64,7 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 [Power BI 用パートナー センター分析アプリをインストールしてプレビューする](power-bi-app-for-direct-partners-install.md)
 

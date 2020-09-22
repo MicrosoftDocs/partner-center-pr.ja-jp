@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444909"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999216"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Microsoft 製品の30日間無料試用版をお客様に提供する
 
@@ -39,9 +39,9 @@ ms.locfileid: "87444909"
 
 無料試用版は、より包括的で人気のあるプランで利用できます。 新しい試用版プランは、1か月ごとに導入される場合があります。
 
-パートナーは、パートナーセンターの**価格とプラン**に関するページの月額価格表に記載されている試用版を参照できます。 試用版のプランでは、[価格一覧の**セカンダリライセンスの種類**] 列に "試用版" が表示されます。
+パートナーは、パートナーセンターの **価格とプラン** に関するページの月額価格表に記載されている試用版を参照できます。 試用版のプランでは、[価格一覧の **セカンダリライセンスの種類** ] 列に "試用版" が表示されます。
 
-現時点では、政府プラン、教育プラン、またはアドオンプランの**無料試用版はありません**。
+現時点では、政府プラン、教育プラン、またはアドオンプランの **無料試用版はありません** 。
 
 ## <a name="licenses-for-free-trial-offers"></a>無料試用版プランのライセンス
 
@@ -59,7 +59,7 @@ ms.locfileid: "87444909"
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>試用版から有料サブスクリプションへの変換
 
-無料試用版は、有料サブスクリプションに自動的に変換されません。 30日後、無料試用版を有料サブスクリプションに変換するか、[期限切れ](#expiring-offers)にする必要があります。 無料試用版は拡張できません。
+無料試用版は、有料サブスクリプションに自動的に変換されません。 30日後、無料試用版を有料サブスクリプションに変換するか、 [期限切れ](#expiring-offers)にする必要があります。 無料試用版は拡張できません。
 
 試用版を有料サブスクリプションに変換する必要があります。 これは、パートナーセンターまたは[パートナーセンター api](#convert-trials-using-apis)[を使用して](#convert-trials-using-partner-center)行うことができます。
 
@@ -79,8 +79,8 @@ ms.locfileid: "87444909"
 
 無料試用版から有料サブスクリプションへの変換に対応するために、Api の変更が必要になる場合があります。 詳細については、次の開発者向けドキュメントを参照してください。
 
-- [試用版サブスクリプションを有料版に変換する](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [試用版の変換プランの一覧を取得する](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [試用版サブスクリプションを有料版に変換する](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [試用版の変換プランの一覧を取得する](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>変換のない試用
 
@@ -109,7 +109,7 @@ ms.locfileid: "87444909"
 
 サブスクリプションの開始日は換算日付に基づいています。 無料試用版が年次請求の有料プランに切り替えられた場合、サブスクリプションの更新日は切り替え日から 12 か月後です。 無料試用版が月次請求の有料プランに切り替えられた場合、サブスクリプションの更新日は切り替え日の次の請求日から 12 か月後です。
 
-### <a name="invoices"></a>請求書
+### <a name="invoices"></a>Invoices
 
 請求書またはライセンスベースの調整ファイルには無料試用版が表示されません。 無料試用版は、無料試用版を有料サブスクリプションに変換した後、請求書およびライセンスベースの調整ファイルにのみ表示されます。 変換されたサブスクリプションは、新しいサブスクリプションと同じ方法で表示されます。
 
