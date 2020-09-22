@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
-ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
+ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90082520"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848269"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
@@ -45,7 +45,9 @@ ms.locfileid: "90082520"
 - すべての PSC ユーザー (管理者、取引先担当者、および販売者ロール) のパートナーセンターでユーザーアカウントを設定し、 [参照管理者ロール](https://docs.microsoft.com/partner-center/permissions-overview)を割り当てます。
 
 >[!Important]
-> PSC バナーに示されている MPN ID が、パートナーセンターの MPN の場所の一覧に表示されていることを確認します。 パートナーセンターで、[アカウントの設定] と [ [場所](https://docs.microsoft.com/partner-center/manage-locations) ] に移動して、パートナーセンターアカウントに関連付けられているすべての MPNs の一覧を確認できます。
+> PSC バナーに示されている MPN ID が、パートナーセンターの MPN の場所の一覧に表示されていることを確認します。 パートナーセンターで、[アカウント設定] と [[場所](https://docs.microsoft.com/partner-center/manage-locations)] に移動して、パートナーセンターアカウントに関連付けられているすべての MPNs の一覧を確認できます。
+
+ :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="パートナーが MPN ID を見つけることができる、PSC のバナーを示す画像。":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>PSC 取引マネージャーまたは販売者の場合
 
