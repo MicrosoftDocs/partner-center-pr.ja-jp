@@ -9,88 +9,88 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114146"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000076"
 ---
-# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a><span data-ttu-id="9e156-103">パートナーメンバーシップセンターからの複数の企業のパートナーセンターへの移行 (PMC)</span><span class="sxs-lookup"><span data-stu-id="9e156-103">Moving multiple companies to Partner Center from Partner Membership Center (PMC)</span></span>
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a><span data-ttu-id="6b25b-103">パートナーメンバーシップセンターからの複数の企業のパートナーセンターへの移行 (PMC)</span><span class="sxs-lookup"><span data-stu-id="6b25b-103">Moving multiple companies to Partner Center from Partner Membership Center (PMC)</span></span>
 
-<span data-ttu-id="9e156-104">**適切なロール**</span><span class="sxs-lookup"><span data-stu-id="9e156-104">**Appropriate roles**</span></span>
+<span data-ttu-id="6b25b-104">**適切なロール**</span><span class="sxs-lookup"><span data-stu-id="6b25b-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="9e156-105">グローバル管理者</span><span class="sxs-lookup"><span data-stu-id="9e156-105">Global admin</span></span>
-- <span data-ttu-id="9e156-106">ユーザー管理者</span><span class="sxs-lookup"><span data-stu-id="9e156-106">User admin</span></span>
-- <span data-ttu-id="9e156-107">管理エージェント</span><span class="sxs-lookup"><span data-stu-id="9e156-107">Admin agent</span></span>
-- <span data-ttu-id="9e156-108">販売代理店</span><span class="sxs-lookup"><span data-stu-id="9e156-108">Sales agent</span></span>
+- <span data-ttu-id="6b25b-105">グローバル管理者</span><span class="sxs-lookup"><span data-stu-id="6b25b-105">Global admin</span></span>
+- <span data-ttu-id="6b25b-106">ユーザー管理者</span><span class="sxs-lookup"><span data-stu-id="6b25b-106">User admin</span></span>
+- <span data-ttu-id="6b25b-107">管理エージェント</span><span class="sxs-lookup"><span data-stu-id="6b25b-107">Admin agent</span></span>
+- <span data-ttu-id="6b25b-108">販売代理店</span><span class="sxs-lookup"><span data-stu-id="6b25b-108">Sales agent</span></span>
 
-<span data-ttu-id="9e156-109">会社アカウントを PMC からパートナー センターに移動するときに、複数のアカウントを移動する場合があります。</span><span class="sxs-lookup"><span data-stu-id="9e156-109">When you move your company account from PMC to Partner Center, you may be moving several accounts.</span></span> <span data-ttu-id="9e156-110">パートナー センターでは、これらのアカウントは 1 つのグローバル アカウント (PGA) に統合されます。</span><span class="sxs-lookup"><span data-stu-id="9e156-110">In Partner Center, these accounts will be consolidated into one global account (PGA).</span></span> <span data-ttu-id="9e156-111">移動する最初のアカウントは、パートナーのグローバルアカウントと見なされ、それ以降のすべてのアカウントは、最初のアカウントの場所として統合されます。</span><span class="sxs-lookup"><span data-stu-id="9e156-111">The first account you move will be considered the Partner global account and all subsequent accounts will be consolidated into the first account as locations.</span></span> <span data-ttu-id="9e156-112">会社の本社の PMC アカウントを使用して移動を開始します。</span><span class="sxs-lookup"><span data-stu-id="9e156-112">Start the move with the PMC account for your company headquarters.</span></span> <span data-ttu-id="9e156-113">詳細については、 [PMC からパートナーセンターへの移行に関するガイドを参照する](guide-to-migration.md)か、この短いビデオ[マルチロケーションアカウントを簡単](https://vimeo.com/290335248)にご覧ください。</span><span class="sxs-lookup"><span data-stu-id="9e156-113">For more information, see [Guide to migrating from PMC to Partner Center](guide-to-migration.md) or watch this short video [Multi-location accounts made easy](https://vimeo.com/290335248).</span></span>
+<span data-ttu-id="6b25b-109">会社アカウントを PMC からパートナー センターに移動するときに、複数のアカウントを移動する場合があります。</span><span class="sxs-lookup"><span data-stu-id="6b25b-109">When you move your company account from PMC to Partner Center, you may be moving several accounts.</span></span> <span data-ttu-id="6b25b-110">パートナー センターでは、これらのアカウントは 1 つのグローバル アカウント (PGA) に統合されます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-110">In Partner Center, these accounts will be consolidated into one global account (PGA).</span></span> <span data-ttu-id="6b25b-111">移動する最初のアカウントは、パートナーのグローバルアカウントと見なされ、それ以降のすべてのアカウントは、最初のアカウントの場所として統合されます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-111">The first account you move will be considered the Partner global account and all subsequent accounts will be consolidated into the first account as locations.</span></span> <span data-ttu-id="6b25b-112">会社の本社の PMC アカウントを使用して移動を開始します。</span><span class="sxs-lookup"><span data-stu-id="6b25b-112">Start the move with the PMC account for your company headquarters.</span></span> <span data-ttu-id="6b25b-113">詳細については、 [PMC からパートナーセンターへの移行に関するガイドを参照する](guide-to-migration.md) か、この短いビデオ [マルチロケーションアカウントを簡単](https://vimeo.com/290335248)にご覧ください。</span><span class="sxs-lookup"><span data-stu-id="6b25b-113">For more information, see [Guide to migrating from PMC to Partner Center](guide-to-migration.md) or watch this short video [Multi-location accounts made easy](https://vimeo.com/290335248).</span></span>
 
-## <a name="move-your-additional-accounts-into-partner-center"></a><span data-ttu-id="9e156-114">追加のアカウントをパートナー センターに移動する</span><span class="sxs-lookup"><span data-stu-id="9e156-114">Move your additional accounts into Partner Center</span></span>
+## <a name="move-your-additional-accounts-into-partner-center"></a><span data-ttu-id="6b25b-114">追加のアカウントをパートナー センターに移動する</span><span class="sxs-lookup"><span data-stu-id="6b25b-114">Move your additional accounts into Partner Center</span></span>
 
-<span data-ttu-id="9e156-115">既にパートナーセンターに1つの会社アカウントを移動したので、サインインすると、パートナーセンターに既に存在するアカウントを知ることができます。</span><span class="sxs-lookup"><span data-stu-id="9e156-115">Because you've moved one company account already to Partner Center, when you sign in, we'll let you know which account is already in Partner Center.</span></span>
+<span data-ttu-id="6b25b-115">既にパートナーセンターに1つの会社アカウントを移動したので、サインインすると、パートナーセンターに既に存在するアカウントを知ることができます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-115">Because you've moved one company account already to Partner Center, when you sign in, we'll let you know which account is already in Partner Center.</span></span>
 
-<span data-ttu-id="9e156-116">移行した後、間違った会社のアカウントが法務業務として指定されていることがわかった場合は、その指定を変更できます。</span><span class="sxs-lookup"><span data-stu-id="9e156-116">After you have migrated, if you discover that the wrong company account was designated as the Legal business, you can change that designation.</span></span>
+<span data-ttu-id="6b25b-116">移行した後、間違った会社のアカウントが法務業務として指定されていることがわかった場合は、その指定を変更できます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-116">After you have migrated, if you discover that the wrong company account was designated as the Legal business, you can change that designation.</span></span>
 
-1. <span data-ttu-id="9e156-117">ご自身の**パートナー プロファイル**に移動します。</span><span class="sxs-lookup"><span data-stu-id="9e156-117">Go to your **Partner profile.**</span></span>
+1. <span data-ttu-id="6b25b-117">ご自身の**パートナー プロファイル**に移動します。</span><span class="sxs-lookup"><span data-stu-id="6b25b-117">Go to your **Partner profile.**</span></span>
 
-2. <span data-ttu-id="9e156-118">法務業務として指定する場所が場所の一覧にあることを確認します。</span><span class="sxs-lookup"><span data-stu-id="9e156-118">Make sure the location you want to designate as Legal business is in your list of locations.</span></span> <span data-ttu-id="9e156-119">ない場合は、追加します。</span><span class="sxs-lookup"><span data-stu-id="9e156-119">If it isn't, add it.</span></span>
+2. <span data-ttu-id="6b25b-118">法務業務として指定する場所が場所の一覧にあることを確認します。</span><span class="sxs-lookup"><span data-stu-id="6b25b-118">Make sure the location you want to designate as Legal business is in your list of locations.</span></span> <span data-ttu-id="6b25b-119">ない場合は、追加します。</span><span class="sxs-lookup"><span data-stu-id="6b25b-119">If it isn't, add it.</span></span>
 
-3. <span data-ttu-id="9e156-120">**[Update legal business profile]\(法的ビジネスプロファイルの更新\)** を選択します。</span><span class="sxs-lookup"><span data-stu-id="9e156-120">Select **Update legal business profile.**</span></span>
+3. <span data-ttu-id="6b25b-120">**[Update legal business profile]\(法的ビジネスプロファイルの更新\)** を選択します。</span><span class="sxs-lookup"><span data-stu-id="6b25b-120">Select **Update legal business profile.**</span></span>
 
-4. <span data-ttu-id="9e156-121">ビジネスと地域を選択し、保存します。</span><span class="sxs-lookup"><span data-stu-id="9e156-121">Select the business and region and save it.</span></span>
+4. <span data-ttu-id="6b25b-121">ビジネスと地域を選択し、保存します。</span><span class="sxs-lookup"><span data-stu-id="6b25b-121">Select the business and region and save it.</span></span>
 
 :::image type="content" source="images/migration/accountwithus.png" alt-text="既存のアカウント":::
 
-## <a name="your-company-has-an-account-in-partner-center"></a><span data-ttu-id="9e156-123">パートナー センターに会社のアカウントがある</span><span class="sxs-lookup"><span data-stu-id="9e156-123">Your Company has an account in Partner Center</span></span>
+## <a name="your-company-has-an-account-in-partner-center"></a><span data-ttu-id="6b25b-123">パートナー センターに会社のアカウントがある</span><span class="sxs-lookup"><span data-stu-id="6b25b-123">Your Company has an account in Partner Center</span></span>
 
-<span data-ttu-id="9e156-124">既存のアカウントが表示され、会社の詳細 (現在サインインしているアカウント) が、このアカウントに統合されることが通知されます。</span><span class="sxs-lookup"><span data-stu-id="9e156-124">You will see your existing account and a note telling you that your company details (the account you are currently signing in with) will be consolidated into this account.</span></span>
+<span data-ttu-id="6b25b-124">既存のアカウントが表示され、会社の詳細 (現在サインインしているアカウント) が、このアカウントに統合されることが通知されます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-124">You will see your existing account and a note telling you that your company details (the account you are currently signing in with) will be consolidated into this account.</span></span>
 
 :::image type="content" source="images/migration/existingaccount2.png" alt-text="パートナー センターのアカウント":::
 
-<span data-ttu-id="9e156-126">この画面には、パートナー センターで既に作成されている既存のアカウントの詳細 (名前と住所) と、主要連絡先の詳細が表示されます。</span><span class="sxs-lookup"><span data-stu-id="9e156-126">This screen shows you the details of the existing account (Name and address) that has already been created in Partner Center along with the details of the primary contact.</span></span>
+<span data-ttu-id="6b25b-126">この画面には、パートナー センターで既に作成されている既存のアカウントの詳細 (名前と住所) と、主要連絡先の詳細が表示されます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-126">This screen shows you the details of the existing account (Name and address) that has already been created in Partner Center along with the details of the primary contact.</span></span>
 
-<span data-ttu-id="9e156-127">**[続行]** を選びます。</span><span class="sxs-lookup"><span data-stu-id="9e156-127">Select **Continue**.</span></span>
+<span data-ttu-id="6b25b-127">**[続行]** をクリックします。</span><span class="sxs-lookup"><span data-stu-id="6b25b-127">Select **Continue**.</span></span>
 
-## <a name="what-happens-during-consolidation-of-accounts"></a><span data-ttu-id="9e156-128">アカウント統合の際の動作</span><span class="sxs-lookup"><span data-stu-id="9e156-128">What happens during consolidation of accounts</span></span>
+## <a name="what-happens-during-consolidation-of-accounts"></a><span data-ttu-id="6b25b-128">アカウント統合の際の動作</span><span class="sxs-lookup"><span data-stu-id="6b25b-128">What happens during consolidation of accounts</span></span>
 
-- <span data-ttu-id="9e156-129">この画面では詳細を変更できません。</span><span class="sxs-lookup"><span data-stu-id="9e156-129">You cannot change any details on this screen.</span></span>
+- <span data-ttu-id="6b25b-129">この画面では詳細を変更できません。</span><span class="sxs-lookup"><span data-stu-id="6b25b-129">You cannot change any details on this screen.</span></span>
 
-- <span data-ttu-id="9e156-130">PMC の (移動中の) アカウントは、この既存のアカウントに統合されます</span><span class="sxs-lookup"><span data-stu-id="9e156-130">The account in PMC (which you are currently moving) will be consolidated into this existing account</span></span>
+- <span data-ttu-id="6b25b-130">PMC の (移動中の) アカウントは、この既存のアカウントに統合されます</span><span class="sxs-lookup"><span data-stu-id="6b25b-130">The account in PMC (which you are currently moving) will be consolidated into this existing account</span></span>
 
-- <span data-ttu-id="9e156-131">PMC の HQ とすべての場所が、この既存のパートナー センター アカウントに場所として移動されます</span><span class="sxs-lookup"><span data-stu-id="9e156-131">Your HQ and all locations in PMC will be moved into this existing Partner Center account as locations</span></span>
+- <span data-ttu-id="6b25b-131">PMC の HQ とすべての場所が、この既存のパートナー センター アカウントに場所として移動されます</span><span class="sxs-lookup"><span data-stu-id="6b25b-131">Your HQ and all locations in PMC will be moved into this existing Partner Center account as locations</span></span>
 
-- <span data-ttu-id="9e156-132">統合が完了すると、既存のパートナー センター アカウントにすべてのアカウントの詳細が場所として表示されます</span><span class="sxs-lookup"><span data-stu-id="9e156-132">Once consolidation is complete, you will see all your account details as locations within the existing Partner Center account</span></span>
+- <span data-ttu-id="6b25b-132">統合が完了すると、既存のパートナー センター アカウントにすべてのアカウントの詳細が場所として表示されます</span><span class="sxs-lookup"><span data-stu-id="6b25b-132">Once consolidation is complete, you will see all your account details as locations within the existing Partner Center account</span></span>
 
-- <span data-ttu-id="9e156-133">この統合中、すべての MPN ID が保持されます</span><span class="sxs-lookup"><span data-stu-id="9e156-133">All MPN IDs are preserved during this consolidation</span></span>
+- <span data-ttu-id="6b25b-133">この統合中、すべての MPN ID が保持されます</span><span class="sxs-lookup"><span data-stu-id="6b25b-133">All MPN IDs are preserved during this consolidation</span></span>
 
-- <span data-ttu-id="9e156-134">既存のコンピテンシー (Gold/シルバー)、購入 (MAPS/Gold/シルバー)、および関連する特典はすべて、統合中に保持されます。</span><span class="sxs-lookup"><span data-stu-id="9e156-134">All your existing competencies (Gold/Silver), purchases (MAPS/Gold/Silver), and associated benefits are preserved during consolidation</span></span>
+- <span data-ttu-id="6b25b-134">既存のコンピテンシー (Gold/シルバー)、購入 (MAPS/Gold/シルバー)、および関連する特典はすべて、統合中に保持されます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-134">All your existing competencies (Gold/Silver), purchases (MAPS/Gold/Silver), and associated benefits are preserved during consolidation</span></span>
 
-- <span data-ttu-id="9e156-135">会社のメール ID を使用してログインしたユーザーは、必要に応じてアカウントを管理できるように、MPN 管理者およびアカウント管理者として既存のパートナー センター アカウントに自動的に追加されます</span><span class="sxs-lookup"><span data-stu-id="9e156-135">You (the user who logged in with the work email ID) will automatically be added as an MPN Admin and an Account admin to the existing Partner Center account so that you can administer the account as needed</span></span>
+- <span data-ttu-id="6b25b-135">会社のメール ID を使用してログインしたユーザーは、必要に応じてアカウントを管理できるように、MPN 管理者およびアカウント管理者として既存のパートナー センター アカウントに自動的に追加されます</span><span class="sxs-lookup"><span data-stu-id="6b25b-135">You (the user who logged in with the work email ID) will automatically be added as an MPN Admin and an Account admin to the existing Partner Center account so that you can administer the account as needed</span></span>
 
-## <a name="review-your-company-information"></a><span data-ttu-id="9e156-136">会社情報を確認する</span><span class="sxs-lookup"><span data-stu-id="9e156-136">Review your company information</span></span>
+## <a name="review-your-company-information"></a><span data-ttu-id="6b25b-136">会社情報を確認する</span><span class="sxs-lookup"><span data-stu-id="6b25b-136">Review your company information</span></span>
 
-<span data-ttu-id="9e156-137">会社に関する情報を確認し、必要に応じて編集します。</span><span class="sxs-lookup"><span data-stu-id="9e156-137">Verify the information about your company, and edit if necessary.</span></span>  <span data-ttu-id="9e156-138">これらの詳細情報は、お客様のアカウントをパートナー センターに移行するときに使用されるため、詳細が正しいことを確認してください。</span><span class="sxs-lookup"><span data-stu-id="9e156-138">These details will be used to migrate your account to Partner Center, so make sure the details are correct.</span></span>
+<span data-ttu-id="6b25b-137">会社に関する情報を確認し、必要に応じて編集します。</span><span class="sxs-lookup"><span data-stu-id="6b25b-137">Verify the information about your company, and edit if necessary.</span></span>  <span data-ttu-id="6b25b-138">これらの詳細情報は、お客様のアカウントをパートナー センターに移行するときに使用されるため、詳細が正しいことを確認してください。</span><span class="sxs-lookup"><span data-stu-id="6b25b-138">These details will be used to migrate your account to Partner Center, so make sure the details are correct.</span></span>
 
-<span data-ttu-id="9e156-139">詳細は PMC の情報に基づいており、会社が正当であることを確認するために検証されます。</span><span class="sxs-lookup"><span data-stu-id="9e156-139">The details are based on the information in PMC and will be verified to ensure the company is legitimate.</span></span>
+<span data-ttu-id="6b25b-139">詳細は PMC の情報に基づいており、会社が正当であることを確認するために検証されます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-139">The details are based on the information in PMC and will be verified to ensure the company is legitimate.</span></span>
 
 
 :::image type="content" source="images/migration/review.png" alt-text="詳細の確認":::
 
-<span data-ttu-id="9e156-141">移動するアカウントが、既存のアカウントと同じ国または地域にある場合は、その住所を使用するか、別の住所を追加するかを決めることができます。</span><span class="sxs-lookup"><span data-stu-id="9e156-141">If the account you are moving is in the same country or region as the existing account, you can decide if you want to use that address or add another.</span></span> <span data-ttu-id="9e156-142">別の住所を使用する場合は、その住所が検証されます。</span><span class="sxs-lookup"><span data-stu-id="9e156-142">If you decide to use a different address, that address will be verified.</span></span> <span data-ttu-id="9e156-143">同じ住所を使用する場合は、既存の住所と主要連絡先が使用されます。</span><span class="sxs-lookup"><span data-stu-id="9e156-143">If you want to use the same address, then the existing address and primary contact will be used.</span></span>
+<span data-ttu-id="6b25b-141">移動するアカウントが、既存のアカウントと同じ国または地域にある場合は、その住所を使用するか、別の住所を追加するかを決めることができます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-141">If the account you are moving is in the same country or region as the existing account, you can decide if you want to use that address or add another.</span></span> <span data-ttu-id="6b25b-142">別の住所を使用する場合は、その住所が検証されます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-142">If you decide to use a different address, that address will be verified.</span></span> <span data-ttu-id="6b25b-143">同じ住所を使用する場合は、既存の住所と主要連絡先が使用されます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-143">If you want to use the same address, then the existing address and primary contact will be used.</span></span>
 
-<span data-ttu-id="9e156-144">この画面の情報を確認/編集し、[送信] をクリックすると、アカウントが統合されます。</span><span class="sxs-lookup"><span data-stu-id="9e156-144">Once you have verified/edited the information on this screen, click Submit and your accounts will be consolidated.</span></span>
+<span data-ttu-id="6b25b-144">この画面の情報を確認/編集し、[送信] をクリックすると、アカウントが統合されます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-144">Once you have verified/edited the information on this screen, click Submit and your accounts will be consolidated.</span></span>
 
-## <a name="partner-profile"></a><span data-ttu-id="9e156-145">パートナー プロファイル</span><span class="sxs-lookup"><span data-stu-id="9e156-145">Partner Profile</span></span>
+## <a name="partner-profile"></a><span data-ttu-id="6b25b-145">パートナー プロファイル</span><span class="sxs-lookup"><span data-stu-id="6b25b-145">Partner Profile</span></span>
 
-<span data-ttu-id="9e156-146">プロファイルを表示すると、法的ビジネス (PMC では本社) の情報とその他のすべての場所に関する情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="9e156-146">When you view your profile, you will see the information for your Legal business (in PMC this was headquarters) and the information for all additional locations.</span></span>
+<span data-ttu-id="6b25b-146">プロファイルを表示すると、法的ビジネス (PMC では本社) の情報とその他のすべての場所に関する情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="6b25b-146">When you view your profile, you will see the information for your Legal business (in PMC this was headquarters) and the information for all additional locations.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="9e156-147">次のステップ</span><span class="sxs-lookup"><span data-stu-id="9e156-147">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="6b25b-147">次のステップ</span><span class="sxs-lookup"><span data-stu-id="6b25b-147">Next steps</span></span>
 
-- [<span data-ttu-id="9e156-148">PMC からパートナー センターへの移行</span><span class="sxs-lookup"><span data-stu-id="9e156-148">Moving from PMC to Partner Center</span></span>](move-pmc-pc-map.md)
-- [<span data-ttu-id="9e156-149">ユーザー アカウントの作成</span><span class="sxs-lookup"><span data-stu-id="9e156-149">Create user accounts</span></span>](create-user-accounts-and-set-permissions.md)
-- [<span data-ttu-id="9e156-150">ユーザー ロールとアクセス許可を割り当てる</span><span class="sxs-lookup"><span data-stu-id="9e156-150">Assign user roles and permissions</span></span>](permissions-overview.md)
-- [<span data-ttu-id="9e156-151">メンバーシップ プログラムを管理する</span><span class="sxs-lookup"><span data-stu-id="9e156-151">Manage your membership programs</span></span>](renew-mpn-offers.md)
-- [<span data-ttu-id="9e156-152">会社のビジネス プロファイルを作成する</span><span class="sxs-lookup"><span data-stu-id="9e156-152">Create your company's business profile</span></span>](create-a-marketing-profile.md)
-- [<span data-ttu-id="9e156-153">紹介機能で顧客との関係を構築する</span><span class="sxs-lookup"><span data-stu-id="9e156-153">Connect with customers through referrals</span></span>](responding-to-referrals.md)
+- [<span data-ttu-id="6b25b-148">PMC からパートナー センターへの移行</span><span class="sxs-lookup"><span data-stu-id="6b25b-148">Moving from PMC to Partner Center</span></span>](move-pmc-pc-map.md)
+- [<span data-ttu-id="6b25b-149">ユーザー アカウントの作成</span><span class="sxs-lookup"><span data-stu-id="6b25b-149">Create user accounts</span></span>](create-user-accounts-and-set-permissions.md)
+- [<span data-ttu-id="6b25b-150">ユーザー ロールとアクセス許可を割り当てる</span><span class="sxs-lookup"><span data-stu-id="6b25b-150">Assign user roles and permissions</span></span>](permissions-overview.md)
+- [<span data-ttu-id="6b25b-151">メンバーシップ プログラムを管理する</span><span class="sxs-lookup"><span data-stu-id="6b25b-151">Manage your membership programs</span></span>](renew-mpn-offers.md)
+- [<span data-ttu-id="6b25b-152">会社のビジネス プロファイルを作成する</span><span class="sxs-lookup"><span data-stu-id="6b25b-152">Create your company's business profile</span></span>](create-a-marketing-profile.md)
+- [<span data-ttu-id="6b25b-153">紹介機能で顧客との関係を構築する</span><span class="sxs-lookup"><span data-stu-id="6b25b-153">Connect with customers through referrals</span></span>](manage-leads.md)
