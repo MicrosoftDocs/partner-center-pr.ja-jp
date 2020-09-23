@@ -8,12 +8,12 @@ description: マルチパートナー、マルチチャネルのシナリオ、�
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 53cb70e4d21824dc030f469b43e4465e9c5ce871
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811302"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007416"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>パートナー センターでお客様から再販業者の関係を要請する方法
 
@@ -45,7 +45,7 @@ ms.locfileid: "87811302"
 5. 顧客が招待を承諾すると、 **[顧客]** ページに顧客が表示され、そこから顧客のサービスのプロビジョニングと管理を実行できるようになります。
 
    > [!NOTE]
-   > お客様がまだ Microsoft カスタマーアグリーメントに同意していない場合は、招待を受け入れるときにそのことを求めるメッセージが表示されます。 
+   > お客様がまだ Microsoft カスタマーアグリーメントに同意していない場合は、招待を受け入れるときにそのことを求めるメッセージが表示されます。 招待を受け入れるには、顧客がグローバル管理者である必要があります。
 
 6. 顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、顧客の名前の下矢印を選んで、顧客のレコードを展開します。
 

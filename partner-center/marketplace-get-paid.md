@@ -6,19 +6,19 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: dddab384cfb790d7907f65c1b1af160cc2082417
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026510"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007396"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>コマーシャル マーケットプレースでの支払いの受け取り
 
 ここでは、オファー、アドオン、広告の収益の支払いの受け取りに関する重要な情報を示します。
 
 > [!IMPORTANT]
-> コマーシャル マーケットプレースでオファーの販売によって収益を受け取るには、[受取りアカウントを設定し、必要な税フォームに記入する](marketplace-payout-account-setup.md)必要があります。
+> コマーシャル マーケットプレースでオファーの販売によって収益を受け取るには、[受取りアカウントを設定し、必要な税フォームに記入する](/azure/marketplace/marketplace-payout-account-setup)必要があります。
 
 ## <a name="store-fee"></a>Microsoft Store 料金
 

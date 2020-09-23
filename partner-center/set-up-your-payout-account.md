@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: e47277efa11fa7e08a40be867287f92e42a99811
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026488"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007406"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>支払いアカウントと税フォームを設定する
 
@@ -28,7 +28,7 @@ ms.locfileid: "90026488"
 - [受取りアカウントを設定する](#payout-account)
 
 > [!NOTE]
-> オファーによる収益を受け取る方法と時期の詳細については、「[支払いの受け取り](marketplace-payout-account-setup.md)」を参照してください。
+> オファーによる収益を受け取る方法と時期の詳細については、「[支払いの受け取り](/azure/marketplace/marketplace-payout-account-setup)」を参照してください。
 
 ## <a name="tax-forms"></a>税フォーム
 
@@ -131,7 +131,7 @@ ms.locfileid: "90026488"
 3. 支払いプロファイルは、その状態と共に一覧表示されます。 編集するプロファイルを見つけて、右端にある **[編集]** をクリックします。
 
 > [!IMPORTANT]
-> 支払いアカウントを変更すると、最大で支払い期間 1 回分の遅延が支払いに発生する可能性があります。 この遅延は、支払いアカウントが初めて設定された場合と同様に、アカウント変更の確認が必要になるために発生します。 アカウントが確認された後も、お支払いは引き続き一括払いになります。期日が現在の支払い期間内にある支払いは、次の支払い期間に追加されます。 詳細については、「[支払いの受け取り](marketplace-payout-account-setup.md)」を参照してください。
+> 支払いアカウントを変更すると、最大で支払い期間 1 回分の遅延が支払いに発生する可能性があります。 この遅延は、支払いアカウントが初めて設定された場合と同様に、アカウント変更の確認が必要になるために発生します。 アカウントが確認された後も、お支払いは引き続き一括払いになります。期日が現在の支払い期間内にある支払いは、次の支払い期間に追加されます。 詳細については、「[支払いの受け取り](/azure/marketplace/marketplace-payout-account-setup)」を参照してください。
 
 ### <a name="paypal-info"></a>PayPal 情報
 

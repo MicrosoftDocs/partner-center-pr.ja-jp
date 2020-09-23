@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: b894bd8c4c609cfffb1cdb88e29bb4dc9b937df5
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026480"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007474"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>マイクロソフトが発行する IRS の税関連の書類について
 
@@ -27,7 +27,7 @@ ms.locfileid: "90026480"
 |1042-S | 米国の源泉徴収税の対象になる開発者への支払いに関連します。 | 印刷されるフォームは、 **3 月 15**日以前に postmarked されます。また、pdf コピーは、パートナーセンター ([**支払い] および [税金 > 支払と税プロファイル**の下の**パートナーセンターの開発者設定**) で同時に利用できます。  |
 
 > [!NOTE]
-> IRS 税のフォームで使用する住所は、 [税金プロファイル](marketplace-payout-account-setup.md)のアドレスから取得されます。 アドレスが変更されている場合は、 **税金プロファイル**のアドレスを必ず更新してください。
+> IRS 税のフォームで使用する住所は、 [税金プロファイル](/azure/marketplace/marketplace-payout-account-setup)のアドレスから取得されます。 アドレスが変更されている場合は、 **税金プロファイル**のアドレスを必ず更新してください。
 
 税金のフォームは、次のアドレスから送信されます。
 
