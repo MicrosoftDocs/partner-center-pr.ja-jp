@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: bcc6534995a7550f0f09d1da2d52cbf676b66c40
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527508"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000336"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>顧客を既存の CSP Azure プランから Azure プランに移行する
 
@@ -87,7 +87,7 @@ ms.locfileid: "87527508"
 
 - 既存の CSP サブスクリプションに対する管理者アクセス権を持っている場合は、そのサブスクリプションが移行されたときに引き続きアクセス権を所有します。
 
-ダイレクト エンタープライズ契約を CSP に移行し、サーバーとクラウドの登録を Azure サービスに移行するには、[Microsoft パートナー契約での Azure サブスクリプションの課金所有権の取得](https://docs.microsoft.com/azure/billing/mpa-request-ownership)に関する記事を参照してください。
+ダイレクト エンタープライズ契約を CSP に移行し、サーバーとクラウドの登録を Azure サービスに移行するには、[Microsoft パートナー契約での Azure サブスクリプションの課金所有権の取得](/azure/billing/mpa-request-ownership)に関する記事を参照してください。
 
 ### <a name="audit-log"></a>監査ログ
 

@@ -9,12 +9,12 @@ ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: f71df7df213b2c6410fab37ce323825511a18b6d
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: 637e88205d9944f7220e227b5101220d94ed42db
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846932"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000436"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>ユーザー アカウントの作成およびロールとアクセス許可の設定
 
@@ -24,7 +24,7 @@ ms.locfileid: "88846932"
 - グローバル管理者
 - ユーザー管理の管理者
 
-パートナー センターへのアクセスを必要とする従業員に対してユーザー アカウントを作成します。 これらのタスクは、ユーザー管理の管理者、アカウント管理者、またはグローバル管理者が実行する必要があります。これらのタスクを実行するユーザーには、ユーザー管理者またはグローバル管理者の Azure Active Directory (AAD) ロールも割り当てられている必要があります。 AAD ロールの詳細については、「[Azure Active Directory での管理者ロールのアクセス許可](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles)」を参照してください。
+パートナー センターへのアクセスを必要とする従業員に対してユーザー アカウントを作成します。 これらのタスクは、ユーザー管理の管理者、アカウント管理者、またはグローバル管理者が実行する必要があります。これらのタスクを実行するユーザーには、ユーザー管理者またはグローバル管理者の Azure Active Directory (AAD) ロールも割り当てられている必要があります。 AAD ロールの詳細については、「[Azure Active Directory での管理者ロールのアクセス許可](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)」を参照してください。
 
 
 ## <a name="add-a-new-user"></a>［新しいユーザーを追加する］

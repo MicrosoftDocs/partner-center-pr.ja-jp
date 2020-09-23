@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12b5b94194c6ca65b31af08dbf0dafef5c6ef21c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220390"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999986"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Partner Membership Center (PMC) からパートナー センターへの移行を準備する
 
@@ -36,7 +36,7 @@ Azure 職場アカウントは、Azure パブリック クラウドにおける�
 
 職場アカウントは、Azure AD ユーザーとそのユーザーに関する情報 (電子メール、パスワード、プロファイル データ、アクセス許可など) をホストします。 職場アカウントにはまた、グループ、アプリケーションや、会社とそのセキュリティに関連するその他の情報も含まれています。 
 
-勤務先の電子メールは、Azure Active Directory テナントの一部です。 パートナー センターでアカウントを作成するには、AAD テナントが必要です。 Azure Active Directory の詳細については、[Azure AD でのディレクトリの作成](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)に関するページを参照してください。
+勤務先の電子メールは、Azure Active Directory テナントの一部です。 パートナー センターでアカウントを作成するには、AAD テナントが必要です。 Azure Active Directory の詳細については、[Azure AD でのディレクトリの作成](/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)に関するページを参照してください。
 
 パートナー センターでは、個人の電子メールではなく、勤務先の電子メールを使用してアカウントにサインインします。
 
@@ -49,7 +49,7 @@ CSP アカウントまたは MPN の勤務先の電子メール アカウント�
 
 ### <a name="if-you-dont-want-to-use-your-existing-office-365-azure-ad-tenant-for-partner-center-you-can-create-a-new-tenant-prior-to-migrating-from-pmc"></a>パートナー センターのために既存の Office 365 Azure AD テナントを使用したくない場合は、PMC からの移行の前に新しいテナントを作成できます。
 
-パートナー センター アカウントを設定するために既存の Azure AD テナントを使用したくない理由には多くのものがあります。 パートナー センターへの移行を開始する前に、[Azure portal](https://ms.portal.azure.com/#home) に移動して新しい Azure AD テナントを作成します。 [Azure Active Directory での新しいテナントの作成](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)に関するページのガイダンスに従ってください。 新しい AAD テナントを使用して、パートナー センターアカウントを設定します。 テナントを作成するには、グローバル管理者である必要があります。 
+パートナー センター アカウントを設定するために既存の Azure AD テナントを使用したくない理由には多くのものがあります。 パートナー センターへの移行を開始する前に、[Azure portal](https://ms.portal.azure.com/#home) に移動して新しい Azure AD テナントを作成します。 [Azure Active Directory での新しいテナントの作成](/azure/active-directory/develop/quickstart-create-new-tenant)に関するページのガイダンスに従ってください。 新しい AAD テナントを使用して、パートナー センターアカウントを設定します。 テナントを作成するには、グローバル管理者である必要があります。 
 
 ### <a name="user-roles-including-guest-user-roles-in-partner-center"></a>ロール パートナー センターのゲスト ユーザーを含むユーザー ロール
 
@@ -132,7 +132,7 @@ PMC から移行する MCP の関連付けに変更はありません。 ただ�
 
 ### <a name="will-partner-of-record-associations-move-to-partner-center"></a>レコードのパートナーの関連付けはパートナー センターに移行されますか?
 
-はい。レコードのパートナーに変更はありません。 [顧客へのパートナー ID のリンク](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)の詳細を確認してください。
+はい。レコードのパートナーに変更はありません。 [顧客へのパートナー ID のリンク](/azure/billing/billing-partner-admin-link-started)の詳細を確認してください。
 
 ### <a name="is-there-an-impact-to-incentives-because-of-the-move-to-partner-center"></a>パートナー センターへの移行によりインセンティブに影響はありますか?
 
@@ -164,6 +164,6 @@ PMC から移行する MCP の関連付けに変更はありません。 ただ�
 
 Web Direct プログラムに参加しているためにエラー メッセージが表示される場合、次を行う必要があります。
 
-1. portal.Azure.com にサインインし、新しい Azure AD テナントを作成します。 詳細については、[新しい Azure AD テナントの作成](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)に関するページを参照してください。
+1. portal.Azure.com にサインインし、新しい Azure AD テナントを作成します。 詳細については、[新しい Azure AD テナントの作成](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)に関するページを参照してください。
 
 2. 新しい Azure AD テナントを作成したら、それを使用して、Partner Membership Center からパートナー センターに移行するか、パートナー センターでまったく新規に登録します。

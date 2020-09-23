@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: c599358b2cfe5603a09fb37e48e897a2f92111bc
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 7d25625eebaf863ed819112439bbf2d6e0f505e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367286"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000546"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP パートナー プログラムで Microsoft 顧客契約への顧客の同意を確認する
 
@@ -96,13 +96,13 @@ ms.locfileid: "89367286"
 
 パートナー センター API/SDK を使用して、Microsoft 顧客契約に対する顧客の同意を確認できます。 API/SDK について詳しくは、以下をご覧ください。
 
-- [Microsoft 顧客契約の契約メタデータを取得する](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
+- [Microsoft 顧客契約の契約メタデータを取得する](/partner-center/develop/get-customer-agreement-metadata)
 
-- [Microsoft 顧客契約へのお客様の同意を確認する](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [Microsoft 顧客契約へのお客様の同意を確認する](/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [Microsoft 顧客契約に関する顧客の同意の確認を取得する ](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- [Microsoft 顧客契約に関する顧客の同意の確認を取得する ](/partner-center/develop/get-confirmation-of-customer-agreement)
 
-- [Microsoft 顧客契約テンプレートのダウンロード リンクを取得する](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
+- [Microsoft 顧客契約テンプレートのダウンロード リンクを取得する](/partner-center/develop/download-customer-agreement-template)
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>オプション 2:Microsoft 365 管理センターでの顧客の同意
 
@@ -115,7 +115,7 @@ ms.locfileid: "89367286"
 - 契約を確認して同意するよう既存の顧客に要請します。
 
 >[!NOTE]
-> [パートナー センター API/SDK](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) を使用して、Microsoft 顧客契約の顧客の直接同意の状況を確認できます。  
+> [パートナー センター API/SDK](/partner-center/develop/get-direct-sign-status-of-customer-agreement) を使用して、Microsoft 顧客契約の顧客の直接同意の状況を確認できます。  
 
 ## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>新規の顧客を作成し、契約を確認して同意するよう顧客に要請する
 

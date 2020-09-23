@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
-ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
+ms.openlocfilehash: 886c655b26bf4be65b2c9ad42e3ee2ac78f0d067
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87433902"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999636"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月のお知らせ
 
@@ -283,7 +283,7 @@ MDATP for Servers 350158a2-f253-4ea3-988e-eef9d1b828cf
 ### <a name="additional-resources"></a>その他の資料
 
 - 詳細については、[Microsoft Defender Advanced Threat Protection](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp) に関するページをご覧ください。
-- Azure Security Center に関する詳細については、[Azure Security Center のドキュメント](https://docs.microsoft.com/azure/security-center/)をご覧ください。
+- Azure Security Center に関する詳細については、[Azure Security Center のドキュメント](/azure/security-center/)をご覧ください。
 
 ### <a name="questions"></a>ご質問がある場合は、
 
@@ -761,7 +761,7 @@ _________________
 ### <a name="actions-for-indirect-providers"></a>間接プロバイダーのアクション
 1. 組織内の主要関係者に連絡を取り、Microsoft Partner Agreement の内容を確認してもらいます。
 2. グローバル管理者資格情報を使用して、[パートナー センターの CSP の概要ページ](https://partner.microsoft.com/pcv/dashboard/overview)で Microsoft Partner Agreement に同意してください。
-3. [API を使用して間接リセラーの署名状況を確認します](https://docs.microsoft.com/partner-center/develop/verify-indirect-reseller-mpa-status)。
+3. [API を使用して間接リセラーの署名状況を確認します](/partner-center/develop/verify-indirect-reseller-mpa-status)。
 4. 間接リセラーが下記のアクションを完了できるようにサポートします。
 
 その他の情報とリソースは、[こちらの](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/) CSP ギャラリー ページで参照できます。

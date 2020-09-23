@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175947"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000606"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure プランのサブスクリプションとリソースを管理する
 
@@ -27,11 +27,11 @@ ms.locfileid: "86175947"
 
 - **代理管理者 (AOBO)** - [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) では、パートナー テナントの管理者エージェント ロールを持つすべてのユーザーに、CSP プログラムを使用して作成した Azure サブスクリプションに対する RBAC 所有者のアクセス権が付与されます。
 
-- **Azure Lighthouse**:AOBO では、複数の顧客と連携する個別のグループを柔軟に作成したり、グループやユーザーに対して複数のロールを有効にしたりすることはできません。 Azure Lighthouse を使用すると、複数のグループを複数の顧客またはロールに割り当てることができます。 Azure の委任されたリソース管理によって、ユーザーには適切なレベルのアクセス権が付与されるため、管理者エージェント ロールを持つ (つまり、AOBO のフル アクセス権を持つ) ユーザーの数を減らすことができます。 これにより、顧客のリソースへの不要なアクセスが制限され、セキュリティを向上させることができます。 また、大規模な複数の顧客をより柔軟に管理できます。 詳細については、「[Azure Lighthouse と Cloud Solution Provider プログラム](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider)」を参照してください。
+- **Azure Lighthouse**:AOBO では、複数の顧客と連携する個別のグループを柔軟に作成したり、グループやユーザーに対して複数のロールを有効にしたりすることはできません。 Azure Lighthouse を使用すると、複数のグループを複数の顧客またはロールに割り当てることができます。 Azure の委任されたリソース管理によって、ユーザーには適切なレベルのアクセス権が付与されるため、管理者エージェント ロールを持つ (つまり、AOBO のフル アクセス権を持つ) ユーザーの数を減らすことができます。 これにより、顧客のリソースへの不要なアクセスが制限され、セキュリティを向上させることができます。 また、大規模な複数の顧客をより柔軟に管理できます。 詳細については、「[Azure Lighthouse と Cloud Solution Provider プログラム](/azure/lighthouse/concepts/cloud-solution-provider)」を参照してください。
 
--  **ディレクトリまたはゲスト ユーザーまたは[サービス プリンシパル](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** :CSP サブスクリプションへの詳細なアクセス権を委任するには、顧客のディレクトリにユーザーを追加するか、ゲスト ユーザーを追加して特定の RBAC ロールを割り当てます。
+-  **ディレクトリまたはゲスト ユーザーまたは[サービス プリンシパル](/azure/active-directory/develop/app-objects-and-service-principals)** :CSP サブスクリプションへの詳細なアクセス権を委任するには、顧客のディレクトリにユーザーを追加するか、ゲスト ユーザーを追加して特定の RBAC ロールを割り当てます。
 
-セキュリティ対策として、作業を実行するために必要な最小限のアクセス許可をユーザーに付与することをお勧めします。 [Azure Active Directory Privileged Identity Management リソース](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)に関する記事を参照してください。
+セキュリティ対策として、作業を実行するために必要な最小限のアクセス許可をユーザーに付与することをお勧めします。 [Azure Active Directory Privileged Identity Management リソース](/azure/active-directory/privileged-identity-management/pim-configure)に関する記事を参照してください。
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>顧客の Azure リソースを管理するためにパートナー ID (MPN ID) を自分の資格情報にリンクする
 
@@ -40,9 +40,9 @@ ms.locfileid: "86175947"
 |**カテゴリ**   |**シナリオ**   |**MPN ID の関連付け**|
 |-----------------|:------------------------|:------------------|
 |AOBO   |CSP ダイレクト パートナーまたはインダイレクト プロバイダーは、AOBO を使用して、CSP ダイレクト パートナーまたはインダイレクト プロバイダーをサブスクリプションの既定の所有者にする顧客のサブスクリプションを作成します。CSP のダイレクト パートナーまたはインダイレクト プロバイダーは、AOBO を使用して、サブスクリプションへのアクセス権をインダイレクト リセラーに付与します。|自動 (パートナーの作業は不要)|
-|Azure Lighthouse|パートナーは、新しい[マネージド サービス オファーをマーケットプレースに](https://docs.microsoft.com/azure/lighthouse/concepts/managed-services-offers)作成します。 このオファーが CSP サブスクリプションで承認されると、パートナーは CSP サブスクリプションにアクセスできるようになります。|自動 (パートナーの作業は不要)|
-|Azure Lighthouse|パートナーは、Azure サブスクリプションで [ARM テンプレート](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer)をデプロイします|パートナーは、パートナー テナントのユーザーまたはサービス プリンシパルに MPN ID を関連付ける必要があります。 詳細については、[パートナー ID のリンク](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)に関する記事を参照してください。|
-|ディレクトリまたはゲスト ユーザー|パートナーは、顧客のディレクトリに新しいユーザーまたはサービス プリンシパルを作成し、ユーザーに CSP サブスクリプションへのアクセス権を付与します。 パートナーは、顧客のディレクトリに新しいユーザーまたはサービス プリンシパルを作成します。 パートナーは、グループにユーザーを追加し、グループへの CSP サブスクリプションへのアクセス権を付与します。|パートナーは、顧客テナントのユーザーまたはサービス プリンシパルに MPN ID を関連付ける必要があります。 詳細については、[パートナー ID のリンク](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)に関する記事を参照してください。|
+|Azure Lighthouse|パートナーは、新しい[マネージド サービス オファーをマーケットプレースに](/azure/lighthouse/concepts/managed-services-offers)作成します。 このオファーが CSP サブスクリプションで承認されると、パートナーは CSP サブスクリプションにアクセスできるようになります。|自動 (パートナーの作業は不要)|
+|Azure Lighthouse|パートナーは、Azure サブスクリプションで [ARM テンプレート](/azure/lighthouse/how-to/onboard-customer)をデプロイします|パートナーは、パートナー テナントのユーザーまたはサービス プリンシパルに MPN ID を関連付ける必要があります。 詳細については、[パートナー ID のリンク](/azure/billing/billing-partner-admin-link-started)に関する記事を参照してください。|
+|ディレクトリまたはゲスト ユーザー|パートナーは、顧客のディレクトリに新しいユーザーまたはサービス プリンシパルを作成し、ユーザーに CSP サブスクリプションへのアクセス権を付与します。 パートナーは、顧客のディレクトリに新しいユーザーまたはサービス プリンシパルを作成します。 パートナーは、グループにユーザーを追加し、グループへの CSP サブスクリプションへのアクセス権を付与します。|パートナーは、顧客テナントのユーザーまたはサービス プリンシパルに MPN ID を関連付ける必要があります。 詳細については、[パートナー ID のリンク](/azure/billing/billing-partner-admin-link-started)に関する記事を参照してください。|
 
 ## <a name="confirm-that-you-have-admin-access"></a>管理者アクセス権を持っていることを確認する
 
@@ -50,7 +50,7 @@ ms.locfileid: "86175947"
 
 - 毎日の利用状況ファイルを確認する - これを判断するには、毎日の使用量ファイル内の単価と実効単価を見て、割引が適用されているかどうかを確認します。 割引が適用されている場合は管理者です。
 
-- Azure Monitor のアラートを作成する - RBAC のアクセスが CSP サブスクリプションから削除されたことが通知する Azure Monitor のアクティビティ ログ [アラート](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)を作成します。
+- Azure Monitor のアラートを作成する - RBAC のアクセスが CSP サブスクリプションから削除されたことが通知する Azure Monitor のアクティビティ ログ [アラート](/azure/azure-monitor/platform/alerts-activity-log)を作成します。
 
 ### <a name="create-an-azure-monitor-alert"></a>Azure Monitor のアラートを作成する
 
@@ -68,7 +68,7 @@ ms.locfileid: "86175947"
 
 - 顧客と話し、管理者アクセス権を回復できるかどうかを確認します。
 
-- [ロールベースのアクセス制御 (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview) を介して付与されたアクセス権を使用します。
+- [ロールベースのアクセス制御 (RBAC)](/azure/role-based-access-control/overview) を介して付与されたアクセス権を使用します。
 
 - [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) を介して付与されたアクセス権を使用します。
 

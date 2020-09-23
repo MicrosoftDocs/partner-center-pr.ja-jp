@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 1b6c2d56a0747ddf2bd1a821886e371ed698a4a1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220200"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999836"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>パートナー セキュリティ要件の状態 - 現在の状態に関する回答を入手し、レポートを確認する
 
@@ -37,7 +37,7 @@ ms.locfileid: "89220200"
 Microsoft では、各ユーザーが 1 つの認証ごとに確実に MFA チャレンジを受けるように取り組んでいます。 このエクスペリエンスは、次のいずれかの方法で実現できます。
 
 - Azure AD Premium を実装し、MFA が各ユーザーに確実に適用されるようにする
-- [Azure AD のセキュリティの既定値](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)を実装する
+- [Azure AD のセキュリティの既定値](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)を実装する
 - サードパーティ ソリューションを実装し、MFA が各ユーザーに確実に適用されるようにする
 
 ## <a name="partner-security-requirements-status"></a>パートナー セキュリティ要件の状態
@@ -53,10 +53,10 @@ Microsoft では、各ユーザーが 1 つの認証ごとに確実に MFA チ�
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>CSP テナントでの MFA 構成
 
-このメトリックは、1 日単位でキャプチャおよび報告した CSP テナントの MFA 構成に関連しています。 これらの [MFA オプション](https://aka.ms/partner-mfa-get-started)のいずれかを使用して、MFA が適用された有効なユーザー アカウントの割合を測定します。 たとえば、次のように入力します。
+このメトリックは、1 日単位でキャプチャおよび報告した CSP テナントの MFA 構成に関連しています。 これらの [MFA オプション](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)のいずれかを使用して、MFA が適用された有効なユーザー アカウントの割合を測定します。 たとえば、次のように入力します。
 
 - Contoso は、テナントに 110 個のユーザー アカウントを持つ CSP パートナーであり、そのユーザー アカウントのうち 10 個は無効になっています。 
-- 残りの 100 個のユーザー アカウントのうち、90 個は、指定された [MFA オプション](https://aka.ms/partner-mfa-get-started)を使用して MFA が適用されます。 そのため、メトリックには 90% と示されます。 
+- 残りの 100 個のユーザー アカウントのうち、90 個は、指定された [MFA オプション](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)を使用して MFA が適用されます。 そのため、メトリックには 90% と示されます。 
 
 ### <a name="partner-center-activities-with-mfa"></a>MFA を使用したパートナー センター アクティビティ
 
@@ -127,7 +127,7 @@ MFA を実装しているパートナーの場合、パートナー センター
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>MFA を完了せずにパートナー センターにログインしたユーザーを特定する
 
-MFA 検証を完了せずにパートナー センターにログインしているユーザーを特定し、現在の MFA の実装に照らして検証すると便利な場合があります。 [Azure AD サインイン レポート](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)を使用すると、ユーザーが MFA 検証を完了したかどうかを確認できます。 Azure AD サインイン レポートは、現在、Azure AD Premium、または Azure AD Premium を含む任意の O365 SKU (EMS など) にサブスクライブしているパートナーのみが利用できます。
+MFA 検証を完了せずにパートナー センターにログインしているユーザーを特定し、現在の MFA の実装に照らして検証すると便利な場合があります。 [Azure AD サインイン レポート](/azure/active-directory/reports-monitoring/concept-sign-ins)を使用すると、ユーザーが MFA 検証を完了したかどうかを確認できます。 Azure AD サインイン レポートは、現在、Azure AD Premium、または Azure AD Premium を含む任意の O365 SKU (EMS など) にサブスクライブしているパートナーのみが利用できます。
 
 ## <a name="next-steps"></a>次のステップ
 

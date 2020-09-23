@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 073bef80fe1335ac45ba7ed6a70236a7ce82eecd
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: 507c1e579c649ed743af58e2ca167ae016f6e9b6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220211"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000026"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>パートナー センターまたはパートナー センター API を使用するパートナー向けの、パートナーのセキュリティ要件
 
@@ -54,9 +54,9 @@ ms.locfileid: "88220211"
 
 パートナー セキュリティ要件に準拠するには、パートナー テナント内の各ユーザー アカウントに多要素認証を適用する必要があります。 この操作は次のいずれかの方法で行うことができます。
 
-- [Azure AD のセキュリティの既定値](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)を実装する。
+- [Azure AD のセキュリティの既定値](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)を実装する。
 
-- 各ユーザー アカウントについて Azure Active Directory Premium を購入する。 詳しくは、「[Azure Multi-Factor Authentication のデプロイを計画する](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted)」を参照してください。
+- 各ユーザー アカウントについて Azure Active Directory Premium を購入する。 詳しくは、「[Azure Multi-Factor Authentication のデプロイを計画する](/azure/active-directory/authentication/howto-mfa-getstarted)」を参照してください。
 
 - サードパーティ ソリューションを使用して、パートナー テナント内の各ユーザー アカウントに対して多要素認証を適用する。 ソリューションが期待されるソリューションを確実に提供できるようにするには、[セキュリティ要件がどのように適用されるか](#how-the-requirements-will-be-enforced)に関するセクションを参照してください。
 
@@ -75,18 +75,18 @@ ms.locfileid: "88220211"
 
 - セキュリティの既定値を使用すると、すべてのポリシーが一度に有効になります。
 
-- [条件付きアクセス](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)を使用しているパートナーの場合、[セキュリティの既定値は使用できません](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)。
+- [条件付きアクセス](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)を使用しているパートナーの場合、[セキュリティの既定値は使用できません](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)。
 
 - 現時点では、パートナーに対してレガシ認証のブロックは強制されません。 ただし、侵害された ID に関連するほとんどのイベントは、従来の認証を使用したサインインの試行が原因であるため、パートナーにはこれらの古いプロトコルの利用を停止することをお勧めします。
 
 - Azure AD Connect の同期アカウントは、セキュリティの既定値から除外されます。
 
-- 詳細については、「[組織に対して Multi-Factor Authentication を有効にする](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started)」および[Azure Active Directory のセキュリティの既定値](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)に関する記事をご覧ください。
+- 詳細については、「[組織に対して Multi-Factor Authentication を有効にする](/azure/active-directory/authentication/concept-mfa-get-started)」および[Azure Active Directory のセキュリティの既定値](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)に関する記事をご覧ください。
 
 > [!NOTE]
 > Azure AD のセキュリティの既定値は、簡略化されたベースライン保護ポリシーの発展です。 ベースライン保護ポリシーを既に有効にしている場合は、セキュリティの既定値を有効にすることを強くお勧めします。
 
-ベースライン ポリシーからセキュリティの既定値への移行については、「[セキュリティ既定値とは](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)」をご覧ください。
+ベースライン ポリシーからセキュリティの既定値への移行については、「[セキュリティ既定値とは](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)」をご覧ください。
 
 ### <a name="consideration"></a>考慮事項
 
@@ -96,17 +96,17 @@ ms.locfileid: "88220211"
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>先進認証の使用をサポートしていないアプリケーションまたはデバイスはありますか。
 
-IMAP、POP3、SMTP などのプロトコルを使用する以前の多要素認証を適用している場合はブロックされます。これらのプロトコルでは多要素認証がサポートされていないためです。 この制限に対処するには、[アプリ パスワード](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords)と呼ばれる機能を使用します。これにより、アプリケーションまたはデバイスを引き続き認証することができます。 [こちら](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords)に記載されているアプリ パスワード使用時の考慮事項を確認し、お使いの環境でアプリ パスワードを使用できるかどうかを確かめる必要があります。
+IMAP、POP3、SMTP などのプロトコルを使用する以前の多要素認証を適用している場合はブロックされます。これらのプロトコルでは多要素認証がサポートされていないためです。 この制限に対処するには、[アプリ パスワード](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords)と呼ばれる機能を使用します。これにより、アプリケーションまたはデバイスを引き続き認証することができます。 [こちら](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords)に記載されているアプリ パスワード使用時の考慮事項を確認し、お使いの環境でアプリ パスワードを使用できるかどうかを確かめる必要があります。
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>パートナー テナントに関連付けられたライセンスによって提供される Office 365 を使用しているユーザーがいますか。
 
-ソリューションを実装する前に、パートナー テナントのユーザーによって使用されている Microsoft Office のバージョンを確認することをお勧めします。 アクションを実行する前に、[Office 365 デプロイの多要素認証の計画](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)に関するトピックをご覧ください。 Outlook などのアプリケーションで接続の問題が発生する可能性があります。 多要素認証を適用する前に、Outlook 2013 SP1 以降が使用され、組織で先進認証が有効になっていることを確認することが重要です。 詳細については、「[Exchange Online で先進認証を有効にする](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)」を参照してください。
+ソリューションを実装する前に、パートナー テナントのユーザーによって使用されている Microsoft Office のバージョンを確認することをお勧めします。 アクションを実行する前に、[Office 365 デプロイの多要素認証の計画](/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)に関するトピックをご覧ください。 Outlook などのアプリケーションで接続の問題が発生する可能性があります。 多要素認証を適用する前に、Outlook 2013 SP1 以降が使用され、組織で先進認証が有効になっていることを確認することが重要です。 詳細については、「[Exchange Online で先進認証を有効にする](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)」を参照してください。
 
-Windows が実行され、Microsoft Office 2013 がインストールされているデバイスで先進認証を有効にするには、2 つのレジストリ キーを作成する必要があります。 「[Windows デバイスで Office 2013 の先進認証を有効にする](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)」を参照してください。
+Windows が実行され、Microsoft Office 2013 がインストールされているデバイスで先進認証を有効にするには、2 つのレジストリ キーを作成する必要があります。 「[Windows デバイスで Office 2013 の先進認証を有効にする](/office365/admin/security-and-compliance/enable-modern-authentication)」を参照してください。
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>作業中にユーザーによるモバイル デバイスの使用を禁止するポリシーがありますか。
 
-実装する多要素認証ソリューションは、作業中に従業員がモバイル デバイスを使用できないようにする会社のポリシーの影響を受けるため、そのポリシーを特定することが重要です。 [Azure AD のセキュリティの既定値](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)の実装を通じて提供されるソリューションなど、確認の目的でのみ認証アプリの使用を許可するソリューションがあります。 モバイル デバイスの使用を禁止するポリシーが組織で採用されている場合は、次のいずれかのオプションを検討してください。
+実装する多要素認証ソリューションは、作業中に従業員がモバイル デバイスを使用できないようにする会社のポリシーの影響を受けるため、そのポリシーを特定することが重要です。 [Azure AD のセキュリティの既定値](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)の実装を通じて提供されるソリューションなど、確認の目的でのみ認証アプリの使用を許可するソリューションがあります。 モバイル デバイスの使用を禁止するポリシーが組織で採用されている場合は、次のいずれかのオプションを検討してください。
 
 - セキュリティで保護されたシステムで実行できる、時間ベースのワンタイム ベース パスワード (TOTP) アプリケーションをデプロイする
 
@@ -124,11 +124,11 @@ Windows が実行され、Microsoft Office 2013 がインストールされて�
 
 - Az、AzureRM、Azure AD、MS Online などのモジュールが利用される PowerShell スクリプト
 
-上記のリストはすべてを網羅しているわけではありません。 そのため、認証にユーザー資格情報が利用されるご自身の環境で、アプリケーションまたはサービスの完全な評価を実行することが重要です。 多要素認証の要件に対応するには、可能な限り、[セキュリティで保護されたアプリケーション モデル フレームワーク](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)でガイダンスを実装する必要があります。
+上記のリストはすべてを網羅しているわけではありません。 そのため、認証にユーザー資格情報が利用されるご自身の環境で、アプリケーションまたはサービスの完全な評価を実行することが重要です。 多要素認証の要件に対応するには、可能な限り、[セキュリティで保護されたアプリケーション モデル フレームワーク](/partner-center/develop/enable-secure-app-model)でガイダンスを実装する必要があります。
 
 ## <a name="accessing-your-environment"></a>環境を評価する
 
-多要素認証のチャレンジを受けないで何が、または誰が認証を行っているかを詳しく理解するには、サインイン アクティビティを確認することをお勧めします。 Azure Active Directory Premium では、サインイン レポートを利用できます。 詳細については、「[Azure Active Directory ポータルのサインイン アクティビティ レポート](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)」をご覧ください。 Azure Active Directory Premium がない場合、または PowerShell を使用してこれを取得する方法を探している場合は、[パートナー センターの PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) モジュールから、[Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) コマンドレットを利用する必要があります。
+多要素認証のチャレンジを受けないで何が、または誰が認証を行っているかを詳しく理解するには、サインイン アクティビティを確認することをお勧めします。 Azure Active Directory Premium では、サインイン レポートを利用できます。 詳細については、「[Azure Active Directory ポータルのサインイン アクティビティ レポート](/azure/active-directory/reports-monitoring/concept-sign-ins)」をご覧ください。 Azure Active Directory Premium がない場合、または PowerShell を使用してこれを取得する方法を探している場合は、[パートナー センターの PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) モジュールから、[Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) コマンドレットを利用する必要があります。
 
 ## <a name="how-the-requirements-will-be-enforced"></a>要件はどのように適用されるか
 
@@ -138,7 +138,7 @@ Windows が実行され、Microsoft Office 2013 がインストールされて�
 
 Azure Multi-Factor Authentication または Azure AD のセキュリティの既定値を使用している場合は、追加のアクションを実行する必要はありません。
 
-サードパーティの多要素認証ソリューションを使用する場合、MFA 要求が発行されない可能性があります。 この要求がないと、Azure Active Directory は、認証要求が多要素認証によってチャレンジされたかどうかを判断できません。 想定されている要求がソリューションで発行されていることを検証する方法の詳細については、「[パートナーのセキュリティ要件のテスト](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)」を参照してください。 
+サードパーティの多要素認証ソリューションを使用する場合、MFA 要求が発行されない可能性があります。 この要求がないと、Azure Active Directory は、認証要求が多要素認証によってチャレンジされたかどうかを判断できません。 想定されている要求がソリューションで発行されていることを検証する方法の詳細については、「[パートナーのセキュリティ要件のテスト](/powershell/partnercenter/test-partner-security-requirements)」を参照してください。 
 
 > [!IMPORTANT]
 > 想定されている要求がサードパーティ ソリューションによって発行されない場合は、ソリューションを開発したベンダーと協力して、どのようなアクションを実行する必要があるかを判断する必要があります。
@@ -150,4 +150,4 @@ Azure Multi-Factor Authentication または Azure AD のセキュリティの既
 - [パートナー センター セキュリティ ガイダンス グループ コミュニティ](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance):パートナー センター セキュリティ ガイダンス グループ コミュニティは、今後のイベントを確認でき、不明点について質問することもできるオンライン コミュニティです。
 - [パートナー センターの .NET のサンプル](https://github.com/microsoft/partner-center-dotnet-samples):この GitHub リポジトリには、セキュア アプリケーション モデル フレームワークを実装する方法を示す、.NET を使用して開発されたサンプルが含まれています。
 - [パートナー センターの Java のサンプル](https://github.com/microsoft/partner-center-java-samples):この GitHub リポジトリには、セキュア アプリケーション モデル フレームワークを実装する方法を示す、Java を使用して開発されたサンプルが含まれています。
-- [Partner Center PowerShell - 多要素認証](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth):この多要素認証に関する記事では、セキュア アプリケーション モデル フレームワークを、PowerShell を使用して実装する方法を詳しく説明しています。
+- [Partner Center PowerShell - 多要素認証](/powershell/partnercenter/multi-factor-auth):この多要素認証に関する記事では、セキュア アプリケーション モデル フレームワークを、PowerShell を使用して実装する方法を詳しく説明しています。

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 774ec29ce6c20f0890d883ab73ab766906b88a92
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614134"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999626"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月のお知らせ
 
@@ -136,7 +136,7 @@ ________________
 
 IT 部門が一元的な調達プロセスを行って必要なライセンスを取得しなくても、個人やチームにサービスを提供できるようになります。 サービスは、Microsoft 365 および Power Platform との統合シナリオに基づいて、Project と Visio にまたがることができます。 
 
-Visio と Power Platform のソリューションを使用したパートナーの営業案件について詳しくは、Microsoft Inspire セッション「[Rebuild and reimagine business with Microsoft Visio and Power Platform (Microsoft Visio と Power Platform によるビジネスの再構築と再考)](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)」をご覧ください。 詳細については、[セルフサービスに関する管理者ガイド](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)にアクセスしてください。
+Visio と Power Platform のソリューションを使用したパートナーの営業案件について詳しくは、Microsoft Inspire セッション「[Rebuild and reimagine business with Microsoft Visio and Power Platform (Microsoft Visio と Power Platform によるビジネスの再構築と再考)](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)」をご覧ください。 詳細については、[セルフサービスに関する管理者ガイド](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)にアクセスしてください。
 
 #### <a name="additional-resources"></a>その他のリソース
 
@@ -221,7 +221,7 @@ CSP プログラムに参加しているすべてのパートナー
 ### <a name="next-steps"></a>次の手順
 
 - この情報を組織内の適切な担当者に共有してください。
-- この製品の詳細については、[Microsoft Defender ATP のドキュメント](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)を参照してください。
+- この製品の詳細については、[Microsoft Defender ATP のドキュメント](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)を参照してください。
 
 ________________
 

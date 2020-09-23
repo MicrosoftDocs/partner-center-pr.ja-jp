@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980f6429d146757edbab4c97cebfd3616cb48760
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527558"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000326"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 向けの CSP の新しいコマース エクスペリエンスの価格表
 
@@ -104,7 +104,7 @@ Azure プランの価格表は、パートナー センターの[価格とオフ
 
 ## <a name="pricing-api-for-azure-plan"></a>Azure プランの価格 API
 
-[価格 API](https://docs.microsoft.com/partner/develop/pricing) を使用して、プログラムにより従量課金と予約に関する Azure プランの価格を取得できます。 また、外国為替レートを取得することもできます。
+[価格 API](/partner/develop/pricing) を使用して、プログラムにより従量課金と予約に関する Azure プランの価格を取得できます。 また、外国為替レートを取得することもできます。
 
 価格 API は、他のパートナー センター API とは別のエンドポイントにあります。 価格情報には、Azure プランのリソースのメーター価格 (米国ドル) と、Azure プランのサブスクリプションに適用される予約価格が含まれます。
 
@@ -113,4 +113,4 @@ Azure プランの価格表は、パートナー センターの[価格とオフ
 >[!NOTE]
 > 価格 API は、Azure プランの価格に固有のものです。 Azure 以外のプランのサブスクリプションに採用された Azure リソースまたは予約については、既存の RateCard API とパートナー センターの「料金とプラン」ページに掲載されている価格表を引き続き使用する必要があります。 Azure プランの価格 API では、Microsoft 365 や Dynamics 365 などのソフトウェア、マーケットプレース、ライセンスベースの価格はサポートされません。
 
-Azure プランの価格と外国為替レートの各 API の詳細については、完全な[価格 API のドキュメント](https://docs.microsoft.com/partner/develop/pricing)を参照してください。
+Azure プランの価格と外国為替レートの各 API の詳細については、完全な[価格 API のドキュメント](/partner/develop/pricing)を参照してください。

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 0ed5d5a0037d9fe11e77c56eca784e9aad93c5a4
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: 1b53b675b97a98b8a154998abf0d98d686844281
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220225"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999586"
 ---
 # <a name="january-2020-announcements"></a>2020 年 1 月のお知らせ
 
@@ -97,8 +97,8 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 ### <a name="additional-resources"></a>その他の資料
 
 - [Microsoft 365 Government の製品ページ](https://www.microsoft.com/microsoft-365/government/)
-- [Docs の GCC-High の Teams のページ](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Microsoft Teams で会議室を設定する](https://docs.microsoft.com/microsoftteams/room-systems/)
+- [Docs の GCC-High の Teams のページ](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Microsoft Teams で会議室を設定する](/microsoftteams/room-systems/)
 
 ### <a name="next-steps"></a>次の手順
 
@@ -377,8 +377,8 @@ Dynamics 365 Human Resources では、次のオファーを使用できなくな
 
 - [Dynamics 365 ホーム ページ](https://dynamics.microsoft.com/)
 - [Mixed Reality アプリ ガイド ホーム ページ](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Biz Apps 不正防止に関するホーム ページ](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
-- [Power Platform の製品に関するホーム ページ](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
+- [Biz Apps 不正防止に関するホーム ページ](/dynamics365/fraud-protection/overview)
+- [Power Platform の製品に関するホーム ページ](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
 - [FY20 Power Apps と Flow のライセンスの更新情報](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365 ライセンス](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 

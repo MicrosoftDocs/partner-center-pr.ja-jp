@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614146"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000486"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>クラウド ソリューション プロバイダー (CSP) プログラムによりソフトウェア サブスクリプションを販売する
 
@@ -116,7 +116,7 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Microsoft 365 管理センターで顧客向けに使用できるサーバー サブスクリプションのダウンロードとライセンス キー 
 
-顧客は CSP サーバー サブスクリプションのライセンス キーとダウンロードを Microsoft 365 管理センターから入手できます。 CSP サーバー サブスクリプションのライセンス キーとダウンロードを確認するには、顧客は、Microsoft 365 管理センターにアクセスして、 **[請求] > 自分の製品 > [ソフトウェア] タブ**に移動する必要があります。詳細については、[[請求] の下の [ソフトウェア] タブ](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)をご覧ください。  
+顧客は CSP サーバー サブスクリプションのライセンス キーとダウンロードを Microsoft 365 管理センターから入手できます。 CSP サーバー サブスクリプションのライセンス キーとダウンロードを確認するには、顧客は、Microsoft 365 管理センターにアクセスして、 **[請求] > 自分の製品 > [ソフトウェア] タブ**に移動する必要があります。詳細については、[[請求] の下の [ソフトウェア] タブ](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)をご覧ください。  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>ソフトウェア キーへのアクセスとソフトウェアのダウンロードに関するアクティビティを表示する
 
@@ -138,12 +138,12 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 購入日から 60 日以内であればソフトウェア購入を取り消すことができます。 この最初の 60 日以内に取り消した場合は、中途解約料がかかりません。 60 日を過ぎると、購入の取り消しができなくなります (この取り消し規則の主な制限については、「注意」をご覧ください。 ソフトウェアの購入を取り消した後の処理については、これらの手順の後にある「重要」もご覧ください。) 
 
 >[!NOTE]
->購入を取り消すための次の手順は、購入後の最初の 60 日以内など、特定の取り消し期間内に取り消しの対象となったソフトウェアにのみ適用されます。 また、これらの手順は、Azure の SUSE Linux または RedHat ソフトウェア プランには適用されません。 現時点では、SUSE または RedHat ソフトウェア プランのキャンセルや交換はできません。 SUSE Linux または RedHat プランの使用方法について詳しくは、[こちらをご覧ください](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)。
+>購入を取り消すための次の手順は、購入後の最初の 60 日以内など、特定の取り消し期間内に取り消しの対象となったソフトウェアにのみ適用されます。 また、これらの手順は、Azure の SUSE Linux または RedHat ソフトウェア プランには適用されません。 現時点では、SUSE または RedHat ソフトウェア プランのキャンセルや交換はできません。 SUSE Linux または RedHat プランの使用方法について詳しくは、[こちらをご覧ください](/azure/virtual-machines/linux/prepay-suse-software-charges)。
 
 購入をキャンセルするには、次の手順に従います。
 
 >[!NOTE]
->購入を取り消すには、管理エージェントである必要があります。 次の手順では、パートナー センター ダッシュボードで購入を取り消す方法について説明します。 この操作は、[パートナー センター API](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases) を使用して行うこともできます。
+>購入を取り消すには、管理エージェントである必要があります。 次の手順では、パートナー センター ダッシュボードで購入を取り消す方法について説明します。 この操作は、[パートナー センター API](/partner-center/develop/cancel-software-purchases) を使用して行うこともできます。
 
 1. 取り消しプロセスを開始する前に、次のものが揃っていることを確認してください。
 

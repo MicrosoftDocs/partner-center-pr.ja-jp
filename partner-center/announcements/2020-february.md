@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: afcbfcfb2b303acb15774e7f6019164e34b8e6ae
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944439"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999616"
 ---
 # <a name="february-2020-announcements"></a>2020 年 2 月のお知らせ
 
@@ -75,7 +75,7 @@ _________________
 - **選択肢 1**パートナーは、以前の Microsoft Cloud 契約とほぼ同じ方法で、新しい Microsoft 顧客契約をお客様に提示できます。 お客様が契約を確認して同意した後、パートナーはお客様が Microsoft に同意したことを証明する必要があります。 パートナー センター ダッシュボード、パートナー センター API、.NET SDK は既に、Microsoft 顧客契約へのお客様の同意を、パートナーがこの方法で確認できるように更新されています。
 - **オプション 2 (新機能):** パートナーは、認証済み Microsoft ポータル (Microsoft 365 管理センター) で契約の確認と署名を行うよう、お客様を招待できます。 このオプションでは、お客様が Microsoft 365 管理センターで直接同意すればご契約条件への同意が確認できるため、パートナーにとっては契約管理の簡素化、迅速な履行、作業量の削減が可能になります。
 
-パートナー様は、パートナー センターのダッシュボードまたは[この新しい API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) により提供される新機能を使用して、新しい契約に同意したかどうかを確認することができます。
+パートナー様は、パートナー センターのダッシュボードまたは[この新しい API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) により提供される新機能を使用して、新しい契約に同意したかどうかを確認することができます。
 
 2020 年 2 月 1 日現在、Microsoft パブリック クラウドのすべてのリージョンで、CSP プランの新規注文を行う際は、お客様が Microsoft 顧客契約に同意したことをパートナーが確認する必要があります。 CSP パートナーは、お客様が Microsoft 顧客契約に同意していることをこれらのオプションのどちらかを使用して確認しない限り、シートの変更や既存の購入内容の更新を含めて、新しい購入を処理することはできなくなりました。
  
@@ -98,7 +98,7 @@ _________________
 ### <a name="change-log"></a>変更ログ:
 
 - 2020 年 2 月 11 日:元のアナウンスの投稿
-- 2020 年 2 月 25 日:顧客直接同意の状態を取得するための、[この新しい API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) に関するお知らせが更新されました。
+- 2020 年 2 月 25 日:顧客直接同意の状態を取得するための、[この新しい API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) に関するお知らせが更新されました。
 
 _________________
 
@@ -169,27 +169,27 @@ _________________
 
 ### <a name="summary"></a>要約:
 
-これは、[必須のパートナー セキュリティ要件](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)に関する重要な更新情報です。 **2020 年 2 月 29 日**より、Azure Active Directory (Azure AD) の ["ベースライン" ポリシーが削除され](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)、"セキュリティの既定値群" に置き換えられます。これは、対象者様とそのお客様のための、さらに包括的な保護ポリシーのセットです。 Azure AD のセキュリティの既定値群を使用すると、一般的な攻撃に対して、事前に構成されたセキュリティ設定で組織を保護することができます。
+これは、[必須のパートナー セキュリティ要件](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)に関する重要な更新情報です。 **2020 年 2 月 29 日**より、Azure Active Directory (Azure AD) の ["ベースライン" ポリシーが削除され](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)、"セキュリティの既定値群" に置き換えられます。これは、対象者様とそのお客様のための、さらに包括的な保護ポリシーのセットです。 Azure AD のセキュリティの既定値群を使用すると、一般的な攻撃に対して、事前に構成されたセキュリティ設定で組織を保護することができます。
 
 Microsoft のシステムによると、対象者様の組織では現在ベースライン ポリシーが使用されており、セキュリティの既定値群への移行が済んでいません。 **2 月 29 日までにセキュリティの既定値群に移行していない場合、パートナー テナントでベースライン ポリシーを使用して有効になっている多要素認証 (MFA) が失われます。ビジネスの中断を避けるため、直ちにセキュリティの既定値群を有効化してください**。
 
 ### <a name="key-considerations"></a>主な考慮事項
 
-セキュリティの既定値ポリシーは、パートナーが、ビジネス ニーズに応じてセキュリティ要件に MFA を実装するために選択することができる[オプション](../partner-security-requirements.md#actions-that-you-need-to-take)の 1 つです。 基本レベルのセキュリティが追加料金なしで有効になります。 [Azure AD で組織の MFA を有効にする方法](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)に関する記事と、以下の考慮点についてご確認ください。
+セキュリティの既定値ポリシーは、パートナーが、ビジネス ニーズに応じてセキュリティ要件に MFA を実装するために選択することができる[オプション](../partner-security-requirements.md#actions-that-you-need-to-take)の 1 つです。 基本レベルのセキュリティが追加料金なしで有効になります。 [Azure AD で組織の MFA を有効にする方法](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)に関する記事と、以下の考慮点についてご確認ください。
 
-- [条件付きアクセス](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)を使用しているパートナー様の場合、セキュリティの既定値は使用できません。
+- [条件付きアクセス](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)を使用しているパートナー様の場合、セキュリティの既定値は使用できません。
 - セキュリティの既定値群では、管理者ポリシーおよびエンドユーザー保護ポリシーに必要な MFA、サービス管理に必要な MFA を含む、すべてのポリシーが同時に適用されます。
 - 現時点では、パートナーに対してレガシ認証のブロックは強制されません。 ただし、侵害された ID に関連するほとんどのイベントは、従来の認証を使用したサインインの試行が原因であるため、パートナーにはこれらの古いプロトコルの利用を停止することをお勧めします。
 - セキュリティの既定値群は、Azure AD Connect 同期アカウントを自動的に除外します。
-- セキュリティの既定値は、プレビュー版の[ベースライン ポリシー](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)に置き換わって一般提供されます。 セキュリティの既定値を有効にしたパートナーは、ベースライン ポリシーを有効にすることはできなくなります。
+- セキュリティの既定値は、プレビュー版の[ベースライン ポリシー](/azure/active-directory/conditional-access/concept-baseline-protection)に置き換わって一般提供されます。 セキュリティの既定値を有効にしたパートナーは、ベースライン ポリシーを有効にすることはできなくなります。
 
 ### <a name="next-steps-and-resources-for-security-defaults"></a>セキュリティの既定値群に関する次の手順とリソース
 
 現在ベースライン ポリシーを使用しているパートナーの方:
 
-- [セキュリティの既定値群](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults)と[組織の MFA を有効にする方法](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)の詳細についてご確認ください。
+- [セキュリティの既定値群](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults)と[組織の MFA を有効にする方法](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)の詳細についてご確認ください。
 - ベースライン ポリシーからセキュリティの既定値群への移行を計画してください。
-- パートナー テナントごとに、できるだけ早く[ワンクリックでセキュリティの既定値群を有効にしてください](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults)。 セキュリティの既定値群がニーズに合わない場合は、他のオプションを検討してください。
+- パートナー テナントごとに、できるだけ早く[ワンクリックでセキュリティの既定値群を有効にしてください](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults)。 セキュリティの既定値群がニーズに合わない場合は、他のオプションを検討してください。
 
 間接プロバイダー:
 
@@ -270,7 +270,7 @@ CSP プログラムに参加し、Azure プランの従量課金メーターお�
 
 [CSP での Azure の新しいコマース エクスペリエンス](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/)を活用すると、購入や販売のエクスペリエンスを合理化して、より多くの顧客を獲得し、収益性を高めることができます。
 
- 新しいエクスペリエンスの一部として、[新しい価格 API](https://docs.microsoft.com/partner/develop/pricing) の提供が開始されたことをお知らせします。これは、**従量課金と予約に関する Azure プランの価格**、および Microsoft によってサポートされている請求通貨の**外国為替レート指標**をプログラムにより取得します。 新しい価格 API を使用することで、パートナーは価格情報の取得プロセスの自動化と簡略化を実現できます。
+ 新しいエクスペリエンスの一部として、[新しい価格 API](/partner/develop/pricing) の提供が開始されたことをお知らせします。これは、**従量課金と予約に関する Azure プランの価格**、および Microsoft によってサポートされている請求通貨の**外国為替レート指標**をプログラムにより取得します。 新しい価格 API を使用することで、パートナーは価格情報の取得プロセスの自動化と簡略化を実現できます。
 
 ### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>新しい価格 API には次の機能が備わっています。
 
@@ -281,13 +281,13 @@ CSP プログラムに参加し、Azure プランの従量課金メーターお�
 
 >[!Note] 
 >これは、Azure プランの価格に固有のまったく新しい API リソースです。
-- Azure プランに含まれない以前の Azure サブスクリプションにデプロイされた既存の Azure リソースや予約については、既存の [RateCard API](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) を引き続き使用する必要があります。
+- Azure プランに含まれない以前の Azure サブスクリプションにデプロイされた既存の Azure リソースや予約については、既存の [RateCard API](/partner-center/develop/get-prices-for-microsoft-azure) を引き続き使用する必要があります。
 - これらの API は、パートナー センター API とは別のエンド ポイント (その API をホストしているドメイン) に存在します。
 
 ### <a name="partner-next-steps-and-resources"></a>パートナーの次のステップとリソース:
 
 - [開発者向けドキュメント](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)を確認する。
-- [新しい API](https://docs.microsoft.com/partner/develop/pricing) を使用して自動化されたプロセスを実装する。
+- [新しい API](/partner/develop/pricing) を使用して自動化されたプロセスを実装する。
 - 価格関連の質問について [Azure プランの価格に関するドキュメント](../azure-plan-price-list.md)を参照する。
 - [Azure プランと CSP での新しいコマース エクスペリエンスについて詳細を確認する](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)。
 

@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435271"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000446"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -142,11 +142,12 @@ LinkedIn 会社ページを追加すると、潜在顧客とのつながりを�
 
 ## <a name="improve-the-visibility-of-your-profile"></a>プロファイルがお客様の目に留まる可能性を高めるには 
 
-- **[要求に迅速に応答する](responding-to-referrals.md)** 。 紹介案件についての問い合わせに迅速に対応すると、それ以降、顧客向け検索ページの検索結果表示で有利になります。
+- **[要求に迅速に応答する](manage-leads.md)** 。 紹介案件についての問い合わせに迅速に対応すると、それ以降、顧客向け検索ページの検索結果表示で有利になります。
+
 - **タグを使って紹介案件を限定する**。  提供する製品やサービス、ソリューション、価値提案、確実に成果を上げられる独自の位置付けを正確に反映するタグを必要最小限に絞って使うことをお勧めします。  このように手間をかけることで、将来にわたる検索結果の向上につながります。
 - **Microsoft 経由でコンピテンシー タグを獲得する**。Microsoft 製品に関する自社の技能を示すことができます。
 - **推薦タグを獲得**する。貴社の業績を高く評価する既存のお客様から獲得できます。
 
 ## <a name="next-steps"></a>次の手順
 
-[紹介案件への対応](responding-to-referrals.md)
+[紹介案件への対応](manage-leads.md)

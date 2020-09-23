@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943959"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000576"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Azure プランで従量課金制料金の使用を開始する
 
@@ -45,12 +45,12 @@ Microsoft は、パートナー センターに新しいコマース エクス�
 パートナーには高い特権が付与されている、という点を考えると、すべての単一認証について、MFA チャレンジが各ユーザーに確実に適用されるようにする必要があります。 これは、次のいずれかの方法で実現できます。
 
 - Azure AD Premium を実装し、多要素認証 (MFA) が各ユーザーに確実に適用されるようにする
-- [Azure AD のセキュリティの既定値](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)を実装する
+- [Azure AD のセキュリティの既定値](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)を実装する
 - サードパーティ ソリューションを実装し、MFA が各ユーザーに確実に適用されるようにする
 
 2019 年 8 月 1 日以降、すべてのパートナーは、パートナー テナントのすべてのユーザー (サービス アカウントを含む) に対して多要素認証を適用する必要があります。 これらのセキュリティ要件の詳細については、「[パートナーのセキュリティ要件](partner-security-requirements.md)」を参照してください。
 
-Microsoft では、[Azure Active Directory Privileged Identity Management リソース](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)を通して有効になるベスト プラクティスに従って、RBAC を十分に活用することをパートナーに推奨しています。
+Microsoft では、[Azure Active Directory Privileged Identity Management リソース](/azure/active-directory/privileged-identity-management/pim-configure)を通して有効になるベスト プラクティスに従って、RBAC を十分に活用することをパートナーに推奨しています。
 
 ## <a name="read-more-about-the-azure-plan"></a>Azure プランの詳細を確認する
 

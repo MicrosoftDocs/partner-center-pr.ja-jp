@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26de95f4cafb75535280cab56ac1e21071ffef5a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114898"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000566"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC からパートナー センターに移行するためのガイド
 
@@ -108,6 +108,6 @@ AAD テナントが新しい場合は、全体管理者のロールが誰にも�
 
 - [会社のビジネス プロファイルを作成する](create-a-marketing-profile.md)
 
-- [紹介機能で顧客との関係を構築する](responding-to-referrals.md)
+- [紹介機能で顧客との関係を構築する](manage-leads.md)
 
 - [複数の会社を PMC からパートナー センターに移行するためのガイド](move-multiple-companies.md)

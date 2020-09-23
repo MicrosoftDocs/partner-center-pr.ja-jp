@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c841c54a115b846fe92d03ca66b530807508b9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390399"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999276"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure クラウド ソリューション プロバイダー (CSP) プログラムで利用可能な Azure サービス
 
@@ -42,9 +42,9 @@ Azure Resource Manager モデルに基づくすべてのサービスは、CSP �
 
 次のサービスでは、CSP に特別な構成が必要です。
 
-- [StorSimple](https://docs.microsoft.com/azure/storsimple/storsimple-partner-csp-overview)
+- [StorSimple](/azure/storsimple/storsimple-partner-csp-overview)
 
-- [Azure Active Directory Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
+- [Azure Active Directory Domain Services](/azure/active-directory-domain-services/active-directory-ds-csp)
 
 - [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
@@ -60,7 +60,7 @@ Visual Studio Marketplace から以下に記載された項目を購入できる
 
 - [Xamarin University トレーニング](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-円滑に使用を開始できるように、CSP での [Azure DevOps のセットアップ、購入、管理](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer)に関するビデオとドキュメントをご用意しました。
+円滑に使用を開始できるように、CSP での [Azure DevOps のセットアップ、購入、管理](/vsts/billing/csp/set-up-csp-customer)に関するビデオとドキュメントをご用意しました。
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP での Azure Marketplace 項目
 
@@ -70,7 +70,7 @@ Visual Studio Marketplace から以下に記載された項目を購入できる
 
 - ライセンス持ち込み (BYOL) 項目:これらの項目は利用可能です。 BYOL 対応 Azure Marketplace 項目の完全な一覧については、[Azure Marketplace BYOL に関するページ](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)をご覧ください。
 
-- 従量課金制のサードパーティ製 Azure Marketplace 項目:これらの項目は、プロバイダーが CSP チャネルに公開している場合、利用できます。 詳細については、「[Azure Marketplace 製品にサブスクリプションを販売する](https://aka.ms/marketplaceincsp)」を参照してください。
+- 従量課金制のサードパーティ製 Azure Marketplace 項目:これらの項目は、プロバイダーが CSP チャネルに公開している場合、利用できます。 詳細については、「[Azure Marketplace 製品にサブスクリプションを販売する](csp-commercial-marketplace-overview.md)」を参照してください。
 
 - Citrix XenApp Essentials:パートナーは、CSP での顧客向け XenApp Essentials を購入できます。 詳しくは、次の Citrix ブログ「[XenApp Essentials の配布を Microsoft クラウド ソリューション プロバイダー チャネルから利用可能](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)」をご覧ください。
 
@@ -189,6 +189,6 @@ Visual Studio Marketplace から以下に記載された項目を購入できる
 
 ## <a name="next-steps"></a>次の手順
 
-- パートナー センターで利用可能な Azure 向け機能については、[こちら](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview)をご覧ください。
+- パートナー センターで利用可能な Azure 向け機能については、[こちら](/azure/cloud-solution-provider/overview/partner-center-overview)をご覧ください。
 
-- Azure CSP で最初の顧客を[作成](https://docs.microsoft.com/azure/cloud-solution-provider/customer-management/create-new-customer)し、Azure サービスをデプロイしましょう。
+- Azure CSP で最初の顧客を[作成](/azure/cloud-solution-provider/customer-management/create-new-customer)し、Azure サービスをデプロイしましょう。

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468781"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999676"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>顧客のサブスクリプションへのライセンスまたはサービスの追加
 
@@ -31,7 +31,7 @@ ms.locfileid: "87468781"
 - 販売代理店
 - ヘルプデスク エージェント
 
-顧客が現在提供されているサブスクリプションよりも多くのライセンスを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。 詳しくは、[別の Microsoft 365 Apps for business プランへの切り替え](https://go.microsoft.com/fwlink/p/?LinkId=723577)に関するページを参照してください。
+顧客が現在提供されているサブスクリプションよりも多くのライセンスを必要とする場合や、追加のサービスが含まれる別のバージョンを必要とする場合は、サブスクリプションをアップグレードすることができます。 詳しくは、[別の Microsoft 365 Apps for business プランへの切り替え](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)に関するページを参照してください。
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>CSP プログラム <a id="upgradesubscription"></a> でサポートされているアップグレード
 
@@ -70,11 +70,12 @@ ms.locfileid: "87468781"
 
 3. 新しいプランを選択し、 **[送信]** を選びます。
 
-4. 一部のユーザー アカウントを特定のサービス向けに切り替えるための追加作業が必要な場合があります。 その場合は、影響を受けたアカウントとサービスの一覧がパートナー センターから提供されます。 ヘルプが必要な場合は、サポート技術情報の記事「[Office 365 でプランを切り替える際に発生するライセンスの再アサイン問題](https://go.microsoft.com/fwlink/p/?LinkId=723576)」をご覧ください。
+4. 一部のユーザー アカウントを特定のサービス向けに切り替えるための追加作業が必要な場合があります。 その場合は、影響を受けたアカウントとサービスの一覧がパートナー センターから提供されます。 ヘルプが必要な場合は、サポート技術情報の記事「[Office 365 でプランを切り替える際に発生するライセンスの再アサイン問題](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)」をご覧ください。
+
 
 ## <a name="next-steps"></a>次の手順
 
-- [別の Microsoft 365 の Business プランに切り替える](https://go.microsoft.com/fwlink/p/?LinkId=723577)
+- [別の Microsoft 365 の Business プランに切り替える](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 - [委任された管理者特権を要求する](request-a-relationship-with-a-customer.md)
 
