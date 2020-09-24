@@ -191,6 +191,8 @@
           href: connector-dynamics.md
         - name: Salesforce CRM のための共同販売コネクタ - 概要
           href: connector-salesforce.md
+        - name: 共同販売紹介コネクタのトラブルシューティング
+          href: connectors-troubleshoot.md
         - name: Partner Sales Connect (PSC) から移行するパートナーのための共同販売
           href: psc-to-pc.md
         - name: 取引の登録
@@ -301,6 +303,10 @@
           href: license-based-billing.md
         - name: ライセンス ベースの SaaS サブスクリプションのシナリオ
           href: common-billing-scenarios-saas.md
+        - name: マーケットプレースのサービスの請求
+          href: csp-commercial-marketplace-billing.md
+        - name: 支払いを受け取る - マーケットプレース
+          href: marketplace-get-paid.md
     - name: デジタル署名の表示 - パートナー センター (インド)
       href: digital-signature.md
     - name: 税金と税金の除外
@@ -308,12 +314,20 @@
       items:
         - name: 会社の VAT 情報
           href: organization-tax-info.md
+        - name: パートナー センターの登録での付加価値税 (VAT) 情報
+          href: vat-info.md
         - name: 源泉徴収のためのクレジットを受け取る
           href: withholding-tax-credit-form.md
         - name: 地域税 - ボイス サービス
           href: tax-and-fees-voice-services.md
-    - name: Microsoft から SLA クレジットを要求する
-      href: request-credit.md
+        - name: コマーシャル マーケットプレース発行元向けの税の詳細
+          href: tax-details-marketplace.md
+        - name: マイクロソフトが発行する IRS の税関連の書類について
+          href: understand-irs-tax-forms.md
+        - name: 支払いアカウントと税フォームを設定する
+          href: set-up-your-payout-account.md
+        - name: Microsoft から SLA クレジットを要求する
+          href: request-credit.md
     - name: お客様向けに Azure の支出の予算を設定する
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 未払い、詐欺、不正使用の管理
@@ -360,8 +374,6 @@
           href: isv-opt-in.md
         - name: マーケットプレースのサービスを管理する
           href: csp-commercial-marketplace-manage.md
-        - name: マーケットプレースのサービスの請求
-          href: csp-commercial-marketplace-billing.md
         - name: マーケットプレースのサービスのサポート
           href: csp-commercial-marketplace-support.md
         - name: マーケットプレースで購入するためのコントラクト
@@ -429,7 +441,7 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: ライセンスベース サービスの顧客をクラウド サービス プロバイダー プログラムに移動する
           href: transition-seat-based-services.md
-        - name: 'Minecraft: Education Edition のサブスクリプションの販売'
+        - name: Minecraft Education Edition のサブスクリプションの販売
           href: minecraft-subscriptions.md
         - name: 特別価格の対象となる業界への販売
           href: Get-special-pricing-for-offers.md
