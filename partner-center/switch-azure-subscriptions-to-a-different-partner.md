@@ -9,14 +9,14 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
-ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
+ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87412438"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206324"
 ---
-# <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について説明します。
+# <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について学習する
 
 **適用対象**
 
@@ -49,7 +49,7 @@ ms.locfileid: "87412438"
 
      手順 1 で、問題の種類として **[サブスクリプション管理]** を選び、切り替えるサブスクリプション ID を指定して、サポート プランとして **[クラウド ソリューション プロバイダー]** を選びます。
 
-     手順 2. で、[ **C-影響を最小限**にする] を選択し、問題の種類として**他の一般的な質問**を選択します。
+     手順 2. で、[ **C-影響を最小限** にする] を選択し、問題の種類として **他の一般的な質問** を選択します。
 
      [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
 
@@ -75,7 +75,7 @@ ms.locfileid: "87412438"
 
 5. 現在のパートナーが次の操作を行います。
 
-   フォームに、両方のパートナー管理者の連絡先情報が含まれていることを確認します。 Microsoft サポートは両方の管理者に連絡して、転送を確認します。 3つの署名がすべてあることを確認します。 次に、[**ファイルのアップロード**] オプションを使用して、完成したフォームを既存のサービス要求にアタッチします。 Microsoft サポートエンジニアは、受信確認と完了を検証するために、8営業時間以内にお客に戻ってきます。
+   フォームに、両方のパートナー管理者の連絡先情報が含まれていることを確認します。 Microsoft サポートは両方の管理者に連絡して、転送を確認します。 3つの署名がすべてあることを確認します。 次に、[ **ファイルのアップロード** ] オプションを使用して、完成したフォームを既存のサービス要求にアタッチします。 Microsoft サポートエンジニアは、受信確認と完了を検証するために、8営業時間以内にお客に戻ってきます。
 
 6. 新しいパートナーは次の操作を行います。
 
@@ -88,7 +88,7 @@ ms.locfileid: "87412438"
      ```
 
      >[!NOTE]
-     > 顧客の**テナント ID**は、顧客の**Microsoft ID**としてパートナーセンターに表示されます。 特定の顧客の Microsoft ID (テナント ID) を検索するには、パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。 次に、メニューから**Customers**を選択します。 一覧で顧客を見つけます。 下矢印を選択して、顧客の一覧を展開します。 顧客の*ドメイン名*と顧客の**Microsoft ID**に関する情報が表示されます。 PowerShell コマンドレットで16桁の**MICROSOFT ID**を使用します。
+     > 顧客の **テナント ID** は、顧客の **Microsoft ID**としてパートナーセンターに表示されます。 特定の顧客の Microsoft ID (テナント ID) を検索するには、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。 次に、メニューから **Customers** を選択します。 一覧で顧客を見つけます。 下矢印を選択して、顧客の一覧を展開します。 顧客の *ドメイン名* と顧客の **Microsoft ID**に関する情報が表示されます。 PowerShell コマンドレットで16桁の **MICROSOFT ID** を使用します。
 
    - 前の CSP パートナーを含めて、アカウントの役割を表示します。
 
@@ -99,12 +99,13 @@ ms.locfileid: "87412438"
 7. 古くなったアクセス許可を削除する
 
    - パートナー センター メニューで、**[顧客]** を選びます。
-   - 一覧で顧客を見つけます。 会社名を選択します (ダブルクリック)。 [顧客の**サブスクリプション**] ページが開きます。
+   - 一覧で顧客を見つけます。 会社名を選択します (ダブルクリック)。 [顧客の **サブスクリプション** ] ページが開きます。
    - [Customer detail] メニューで、[ **Service management**] を選択します。
    - **[Microsoft Azure]** で、リンクをクリックして **[Microsoft Azure の管理ポータル]** に移動します。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
-- [マルチパートナーサポート](multipartner.md)について説明します。
-- [マルチチャネルサポート](multichannel.md)については、こちらをご覧ください。
+- [マルチパートナーサポート](multipartner.md)。
+- [マルチチャネルのサポート](multichannel.md)。
+- [Azure サブスクリプションの譲渡](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
