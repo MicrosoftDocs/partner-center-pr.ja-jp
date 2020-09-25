@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564693"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999866"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>パートナー獲得クレジットの計算方法と支払方法
 
@@ -44,7 +44,7 @@ ms.locfileid: "89564693"
 
 - PEC は、Azure リソース レベルで獲得されます。 パートナーがサブスクリプションまたはリソース グループ レベルで有効なアクセス権を持っている場合は、上位のエンティティにまとめられるリソースごとに PEC が獲得されます。  
 
-- PEC の詳細は、[Azure Cost Management](https://go.microsoft.com/fwlink/?linkid=2106482) でも確認できます。
+- PEC の詳細は、[Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners) でも確認できます。
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
@@ -77,5 +77,4 @@ PartnerEarnedCreditApplied プロパティが False の場合、関連付けら�
 
 - [Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)
 
-- [Azure CSP サブスクリプションの管理者特権を取り消したり元に戻したりする](revoke-reinstate-csp.md)
-
+- [Azure CSP サブスクリプションの管理者特権の取り消しまたは復元](revoke-reinstate-csp.md)

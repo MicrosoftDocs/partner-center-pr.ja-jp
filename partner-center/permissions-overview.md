@@ -1,20 +1,20 @@
 ---
 title: ユーザーにロールとアクセス許可を割り当てる
 ms.topic: article
-ms.date: 05/19/2020
+ms.date: 09/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 商取引、紹介、インセンティブ、または MPN メンバーシップをパートナー センターで管理する、会社のユーザーに最適なロールについて説明します。
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e8608c194057ea811890c9c575f8964b63564f0
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.custom: SEOMAY.20, contperfq1
+ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
+ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490600"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "90832115"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>パートナー センターで作業する必要がある会社のユーザーにユーザーのロールとアクセス許可を割り当てる
 
@@ -28,10 +28,10 @@ ms.locfileid: "89490600"
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>パートナー センターで作業できるように従業員を設定する
 
-ユーザーに付与するロールとアクセス許可によって、パートナー センターでのユーザーのアクセスの種類が決まります。 ロールは、貴社のビジネスが関係しているプログラムに関連しています。 たとえば、貴社のビジネスがクラウド ソリューション プロバイダー (CSP) ビジネスの場合は、グローバル管理者などの標準の Azure AD テナント管理ロールだけでなく、CSP プログラムに固有のロールも必要です。 各プログラムには、それに固有のロールがあります。
+ユーザーに付与するロールとアクセス許可によって、パートナー センターでのユーザーのアクセスの種類が決まります。 ロールは、貴社のビジネスが関係しているプログラムに関連しています。 たとえば、貴社のビジネスがクラウド ソリューション プロバイダー (CSP) ビジネスの場合は、グローバル管理者などの標準の Azure Active Directory テナント管理ロールだけでなく、CSP プログラムに固有のロールも必要です。 各プログラムには、それに固有のロールがあります。
 
 >[!Note]
-> Azure Active Directory (AAD) テナント ロールには、グローバル管理者、ユーザー管理者、および CSP のロールが含まれます。 AAD 以外のロールはテナントを管理しないロールであり、MPN 管理者、ビジネス プロファイル管理者、紹介管理者、インセンティブ管理者、およびインセンティブ ユーザーが含まれます。 
+> Azure Active Directory テナント ロールには、グローバル管理者、ユーザー管理者、CSP のロールが含まれます。 Azure Active Directory 以外のロールはテナントを管理しないロールであり、MPN 管理者、ビジネス プロファイル管理者、紹介管理者、インセンティブ管理者、インセンティブ ユーザーが含まれます。 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>パートナー センターで商取引を管理する (Azure AD と CSP のロール)
 
@@ -83,7 +83,8 @@ ms.locfileid: "89490600"
 ||*    パートナー センターへのサポート チケットの作成
 ||*    作成されたパートナー サポート チケットの表示| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>コントロール パネル ベンダー (CPV)。 (CSP ロールと非 AAD ロール)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>コントロール パネル ベンダー (CPV)。 (CSP ロールと非 Azure AD ロール)
+
 CPV は、クラウド ソリューション プロバイダー (CSP) パートナーがシステムとパートナー センター API を統合するために使用するアプリを開発します。 
 
 |**Role**   |**できること**|**詳細情報**|
@@ -91,7 +92,7 @@ CPV は、クラウド ソリューション プロバイダー (CSP) パート�
 |グローバル管理者| CPV プロファイルの表示と管理|[CSP パートナー システムとパートナー センター API との統合を支援するためにコントロール パネル ベンダーとして登録する](enroll-as-cpv.md)
 ||CPV 機能にアクセスする必要があるユーザーの表示と管理|
 
-### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>ゲスト ユーザー (AAD テナントに追加される必要があります)
+### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>ゲスト ユーザー (Azure Active Directory テナントに追加する必要あり)
 
 |**ゲスト ユーザー**   | **ロール**|
 |---------------------------|:--------------------|
@@ -102,7 +103,9 @@ CPV は、クラウド ソリューション プロバイダー (CSP) パート�
 ||紹介管理者|
 
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>MPN メンバーシップと会社の管理 (AAD 以外のロール: これらのロールは、テナントではなく会社の業務を管理します)
+## <a name="manage-mpn-membership-and-your-company"></a>MPN メンバーシップと貴社の管理 
+
+次のロールは Azure Active Directory ロールではありません。 これらのロールでは、テナントではなく会社のビジネスを管理します。
 
 |**Role** | **できること**|**詳細情報**|
 |----------------------------|:----------------------------|-----|
@@ -121,7 +124,7 @@ CPV は、クラウド ソリューション プロバイダー (CSP) パート�
 ||*    作成されたパートナー サポート チケットの表示
 |アカウント管理者| 場所の追加|[場所の管理](manage-locations.md)
 || 管理対象のアカウントに関連するプロファイルの管理 
-||*    テナント内のユーザーに対するロールの非 AAD ロールへの割り当て 
+||*    テナント内のユーザーに対するロールの非 Azure-Active-Directory ロールへの割り当て 
 ||*    プログラムへの場所の登録
 ||*    パートナー センターへのサポート チケットの作成
 ||*    作成されたパートナー サポート チケットの表示
@@ -167,14 +170,3 @@ CPV は、クラウド ソリューション プロバイダー (CSP) パート�
 
 - [ユーザー アカウントの作成およびロールとアクセス許可の設定](create-user-accounts-and-set-permissions.md)
 - [新しいパートナー センター プログラムに登録する際のアカウント情報の確認](verification-responses.md)
-
-
-
-
-
-
-
-
-
-
-                                    
