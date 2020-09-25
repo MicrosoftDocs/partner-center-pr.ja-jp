@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007396"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248900"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>コマーシャル マーケットプレースでの支払いの受け取り
 
@@ -30,11 +30,11 @@ Microsoft Store 料金は、アドオンを含む、コマーシャル マーケ
 
 ## <a name="payout-reporting"></a>支払いレポート
 
-[パートナー センター](https://partner.microsoft.com/dashboard)の**支払いの概要**で、支払い情報に関する詳細にアクセスし、レポートをダウンロードすることができます。 ここに記載されている情報と、収益金の分類方法の詳細については、「[支払いの概要の概説](/azure/marketplace/payout-summary-overview)」を参照してください。
+[パートナー センター](https://partner.microsoft.com/dashboard)の**支払いの概要**で、支払い情報に関する詳細にアクセスし、レポートをダウンロードすることができます。 ここに記載されている情報と、お支払い額を分類する方法の詳細については、「 [支払明細書](payout-statement.md)」を参照してください。
 
 ## <a name="payout-time-frame"></a>支払いの時間枠
 
-支払いは月単位で行われます (該当する支払いしきい値が満たされており、以下で説明するように支払いが保留になっていない場合)。 通常、その月の 15 日までに、所定の月の支払額を送信します。 支払いがお客様の受取りアカウントに届くまでは、通常、3 - 10 営業日かかることに注意してください。 詳細については、「[支払いのしきい値、方法、期間](/azure/marketplace/payment-thresholds-methods-timeframes)」を参照してください。
+支払いは月単位で行われます (該当する支払いしきい値が満たされており、以下で説明するように支払いが保留になっていない場合)。 通常、その月の 15 日までに、所定の月の支払額を送信します。 支払いがお客様の受取りアカウントに届くまでは、通常、3 - 10 営業日かかることに注意してください。 詳細については、「[支払いのしきい値、方法、期間](payment-thresholds-methods-timeframes.md)」を参照してください。
 
 ## <a name="payout-hold-status"></a>支払い保留状態
 
