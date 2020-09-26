@@ -8,12 +8,12 @@ description: パートナーセンターでの紹介を Salesforce CRM と同期
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 595cbba8a173eb81b4e3520d1b1b0533c4dee296
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
+ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000596"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91372842"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM のための共同販売コネクタ - 概要
 
@@ -36,6 +36,39 @@ ms.locfileid: "91000596"
 |パートナー センターのユーザー ロール|コネクタをインストールして使用する従業員は、参照管理者である必要があります|[ユーザー ロールとアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)|
 |Salesforce CRM|CRM ユーザーロールは、システム管理者またはシステムカスタマイザーです。|[Salesforce CRM でロールを割り当てる](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
 |パワー自動化フローアカウント|CRM システム管理者またはシステムカスタマイザー用のアクティブな [電源自動化](https://flow.microsoft.com) アカウント。 そのユーザーは、インストールの前に少なくとも1回、 [電源の自動](https://flow.microsoft.com) 登録を行う必要があります。|
+
+## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Microsoft カスタムフィールド用の Salesforce パッケージのインストール 
+
+パートナーセンターと Salesforce CRM 間で紹介を同期するために、Power solution の自動化ソリューションでは、Microsoft 固有の参照フィールドを明確に識別する必要があります。 このような境界は、パートナーの販売者チームが、共同販売のために Microsoft と共有する参照を決定する機能を提供します。
+
+1. Salesforce で、 **メモ** をアクティブ化し、営業案件の関連リストに追加します。 
+[参照](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
+
+2. 次の手順に従って **営業案件チーム** をアクティブ化します。 
+    - セットアップで、[ **クイック検索** ] ボックスを使用して営業案件チームの設定を検索します。
+    - 必要に応じて設定を定義します。
+[参照](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
+
+3. Salesforce で、次のパッケージインストーラーを使用して、カスタムフィールドとオブジェクトをインストールします。
+  
+任意の会社にパッケージをインストールするには、 [ここ](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) を参照してください:
+
+
+注: をサンドボックスにインストールする場合は、URL の最初の部分を次のように置き換える必要があります。 http://test.salesforce.com
+
+4. Salesforce で、 **営業案件** 関連の一覧に Microsoft ソリューションを追加します。 追加したら、 **レンチ** アイコンをクリックし、プロパティを更新します。
+
+## <a name="best-practice-test-before-you-go-live"></a>ベストプラクティス: 運用前にテストする
+
+運用環境でパワー自動化ソリューションをインストール、構成、およびカスタマイズする前に、必ずステージング CRM インスタンスでソリューションをテストしてください。
+
+- ステージング環境/CRM インスタンスに Microsoft Power 自動ソリューションをインストールします。
+
+- ソリューションのコピーを作成し、構成を実行して、ステージング環境でフローのカスタマイズを自動化します。
+
+- ステージング/CRM インスタンスでソリューションをテストします。
+
+- 成功した場合は、運用インスタンスにマネージドソリューションとしてインポートします。
 
 ## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Salesforce CRM のパートナーセンターの紹介同期をインストールする
 
@@ -65,49 +98,56 @@ ms.locfileid: "91000596"
 
 10. **Salesforce のパートナーセンター紹介同期**を選択します。 次の電源の自動化フローとエンティティを利用できます。
 
-    :::image type="content" source="images/salesforce/salesforce-flows.png" alt-text="Salesforce フロー":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce フロー":::
 
-## <a name="best-practice-test-before-you-go-live"></a>ベストプラクティス: 運用前にテストする
 
-運用環境でパワー自動化ソリューションをインストール、構成、およびカスタマイズする前に、必ずステージング CRM インスタンスでソリューションをテストしてください。
-
-- ステージング環境/CRM インスタンスに Microsoft Power 自動ソリューションをインストールします。
-
-- ソリューションのコピーを作成し、構成を実行して、ステージング環境でフローのカスタマイズを自動化します。
-
-- ステージング/CRM インスタンスでソリューションをテストします。
-
-- 成功した場合は、運用インスタンスにマネージドソリューションとしてインポートします。
 
 ## <a name="configure-the-solution"></a>ソリューションの構成
 
 1. CRM インスタンスにソリューションをインストールしたら、[ [Power の自動化](https://flow.microsoft.com/)] に戻ります。
 
 2. 右上隅にある [ **環境** ] ドロップダウンで、パワー自動化ソリューションをインストールした CRM インスタンスを選択します。
-
 3. 次の3つのユーザーアカウントを関連付ける接続を作成する必要があります。
+    - 参照管理者の資格情報を持つパートナーセンターのユーザー
+    - パートナー センターのイベント
+    - Power を使用した CRM 管理ソリューションのフローが自動化されます。
+4. 左側のナビゲーションバーから [ **接続** ] を選択し、一覧から "パートナーセンターの紹介" ソリューションを選択します。
 
-   - 参照管理者の資格情報を持つパートナーセンターのユーザー
-   - パートナー センターのイベント
-   - Power を使用した CRM 管理ソリューションのフローが自動化されます。
+5. [ **接続の作成**] をクリックして接続を作成します。
 
-   1. 左側のナビゲーションバーから [ **接続** ] を選択し、一覧から "パートナーセンターの紹介" ソリューションを選択します。
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="接続を作成する":::
 
-   2. [ **接続の作成**] をクリックして接続を作成します。
+- 右上隅の検索バーで、パートナーセンターの参照 (プレビュー) を検索します。
 
-       :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="接続を作成する":::
+- 参照管理者の資格情報ロールを使用して、パートナーセンターユーザーの接続を作成します。
 
-   3. 右上隅の検索バーで、 **パートナーセンターの参照 (プレビュー)** を検索します。
+-  次に、パートナーセンターのユーザーに、参照管理者の資格情報を使用してパートナーセンターのイベント接続を作成します。
 
-   4. 参照管理者の資格情報ロールを使用して、パートナーセンターユーザーの接続を作成します。
+- CRM 管理者ユーザーの Common Data Service (現在の環境) の接続を作成します。
 
-   5. 次に、パートナーセンターのユーザーに、参照管理者の資格情報を使用してパートナーセンターのイベント接続を作成します。
+-  すべての接続を追加すると、環境内に次の接続が表示されます。
 
-   6. CRM 管理者ユーザーの Common Data Service (現在の環境) の接続を作成します。
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="接続を監視する":::
 
-4. 電源自動化フローを接続に関連付けるには、各パワー自動化フローを編集して、Common Data Service とパートナーセンターの紹介に接続します。 変更を保存します。
+### <a name="edit-the-connections"></a>接続を編集する
 
-5. パワー自動化フローを**有効に**します。
+1. [ソリューション] ページに戻り、[ **既定のソリューション**] を選択します。  [**すべて**] をクリックして、[**接続の参照 (プレビュー)** ] を選択します。
+ 
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="コネクタの編集を開始します":::
+
+2. 3つのドットアイコンを選択して、各接続を1つずつ編集します。 関連する接続を追加します。
+
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="コネクタの編集":::
+
+3. 次の順序でフローを有効にします。
+
+- パートナーセンターの Webhook の登録 (Insider Preview)
+- パートナーセンターへの共同販売参照の作成-Salesforce (Insider Preview)
+- パートナーセンター: Microsoft 共同での Salesforce の参照の更新 (Insider Preview)
+- パートナーセンターから Salesforce へ (Insider Preview)
+- Salesforce からパートナーセンターへ (Insider Preview)
+- パートナーセンターへの Salesforce の営業案件 (Insider Preview)
+- パートナーセンターへの Salesforce Microsoft ソリューション (Insider Preview)
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Webhook Api を使用してリソース変更イベントに登録する
 
@@ -196,27 +236,6 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
    3. [イベントの作成] で (フィールドマッピングガイドに基づいて) CRM フィールドマッピングをカスタマイズする場合は、[ **Microsoft の紹介を作成する**] を選択します。
 
 このセクションのマッピングは、フィールドマッピングガイドに基づいて編集できます。
-
-## <a name="create-separate-section-in-salesforce-crm-opportunity-layout"></a>Salesforce CRM 営業案件レイアウトで別のセクションを作成する
-
-パートナーセンターと Salesforce CRM 間で推薦を同期するには、Power 区別のソリューションで、Microsoft 固有の紹介フィールドを明確にする必要があります。 これにより、販売者チームは、共同販売のために Microsoft と共有する参照を決定することができます。
-
-Salesforce CRM **営業案件** エンティティのパートナーセンターの紹介同期の一部として、一連のカスタムフィールドを使用できます。 CRM 管理者ユーザーは、 **営業案件** のカスタムフィールドを使用して、別の crm セクションを作成する必要があります。
-Salesforce CRM 管理者ユーザーは、別の CRM セクションを作成する必要があります。
-
-次のカスタムフィールドは、CRM セクションの一部にする必要があります。
-
-- **パートナーセンターとの同期**: 営業案件を Microsoft パートナーセンターと同期するかどうか
-
-- **参照識別子**: Microsoft パートナーセンターの紹介の読み取り専用識別子フィールド
-
-- **紹介リンク**: Microsoft パートナーセンターでの紹介への読み取り専用リンク
-
-- **Microsoft ではどのように役立つでしょうか。** 紹介のために Microsoft が必要とするヘルプ
-
-- **製品**: この営業案件に関連付けられている製品の一覧
-
-- **監査**: Microsoft パートナーセンターの紹介と同期するための読み取り専用の監査証跡
 
 ### <a name="set-up-fields-and-relationships"></a>フィールドとリレーションシップの設定
 
@@ -321,8 +340,6 @@ Salesforce CRM ソリューションの **営業案件** エンティティの�
     6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
 ## <a name="next-steps"></a>次のステップ
-
-- [Microsoft Power の自動化プラットフォームの詳細](/-automate/)
 
 - [見込み客を管理する](manage-leads.md)
 
