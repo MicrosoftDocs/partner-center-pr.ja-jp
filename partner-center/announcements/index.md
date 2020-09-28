@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2d3910192b08db481d73a221d9a243f8467570f9
-ms.sourcegitcommit: 9e2786bb4348c2a7e051415d670dd055d50dac34
+ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
+ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "91110661"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91372792"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,8 @@ ms.locfileid: "91110661"
 
 | **カテゴリ** | **2020 年 9 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[ロシア連邦法 VAT の今後の変更点](2020-september.md#12)|9 月 25 日|
+|機能|[.NET Standard v1.16.2 の SDK リリース](2020-september.md#11)|9 月 22 日|
 |機能|[パートナー センター インサイト – Microsoft とのビジネスを理解するための唯一のレポート リソースです。](2020-september.md#10)|9 月 23 日|
 |製品サービス/市場|[Azure SQL Edge の一般提供を発表](2020-september.md#9)|9 月 22 日|
 |機能|[2020 年 9 月 30 日の CSP O365 使用方法 API と CSP のライセンスの使用状況レポートに関する今後の変更点です。](2020-september.md#8)|9 月 17 日|
