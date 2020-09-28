@@ -301,6 +301,8 @@
           href: invoice-file.md
         - name: ライセンス ベースの課金
           href: license-based-billing.md
+        - name: 携帯電話会社による課金
+          href: mobile-operator-billing.md
         - name: ライセンス ベースの SaaS サブスクリプションのシナリオ
           href: common-billing-scenarios-saas.md
     - name: マーケットプレースの請求と支払いのシナリオ
@@ -309,6 +311,14 @@
           href: csp-commercial-marketplace-billing.md
         - name: 支払いを受け取る - マーケットプレース
           href: marketplace-get-paid.md
+        - name: 支払いポリシーの詳細
+          href: payout-policy-details.md
+        - name: 支払いのしきい値、方法、期間
+          href: payment-thresholds-methods-timeframes.md
+        - name: 支払い明細書
+          href: payout-statement.md
+        - name: マーケットプレースでの支払いに関する FAQ
+          href: payout-faq.md
     - name: デジタル署名の表示 - パートナー センター (インド)
       href: digital-signature.md
     - name: 税金と税金の除外
@@ -418,6 +428,8 @@
           href: azure-plan-manage.md
         - name: Azure CSP サブスクリプションの管理者特権を復元する
           href: revoke-reinstate-csp.md
+        - name: Azure サブスクリプションの譲渡
+          href: switch-azure-subscriptions-to-a-different-partner.md
     - name: ソフトウェア サブスクリプション
       href: csp-software-subscriptions.md
     - name: CSP プログラムによるオンプレミス ソフトウェアの販売
@@ -463,8 +475,6 @@
           href: migrate-office365-e4-subscriptions-to-newer-versions.md
         - name: Skype for Business Online プラン 1 の新しい Office 365 バージョンへの移行
           href: skype-retiring.md
-        - name: Azure サブスクリプションの譲渡
-          href: switch-azure-subscriptions-to-a-different-partner.md
         - name: Kaizala Pro サブスクリプションを Microsoft 365 に移行する
           href: migrate-kaizala-pro-partner.md
     - name: Office 365 を販売するアドバイザー
