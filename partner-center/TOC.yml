@@ -303,6 +303,8 @@
           href: license-based-billing.md
         - name: ライセンス ベースの SaaS サブスクリプションのシナリオ
           href: common-billing-scenarios-saas.md
+    - name: マーケットプレースの請求と支払いのシナリオ
+      items:
         - name: マーケットプレースのサービスの請求
           href: csp-commercial-marketplace-billing.md
         - name: 支払いを受け取る - マーケットプレース

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 24bd05fd5f860c0c7938a831f023740afd32c5b1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2d3910192b08db481d73a221d9a243f8467570f9
+ms.sourcegitcommit: 9e2786bb4348c2a7e051415d670dd055d50dac34
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999456"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "91110661"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "90999456"
 
 | **カテゴリ** | **2020 年 9 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[パートナー センター インサイト – Microsoft とのビジネスを理解するための唯一のレポート リソースです。](2020-september.md#10)|9 月 23 日|
 |製品サービス/市場|[Azure SQL Edge の一般提供を発表](2020-september.md#9)|9 月 22 日|
 |機能|[2020 年 9 月 30 日の CSP O365 使用方法 API と CSP のライセンスの使用状況レポートに関する今後の変更点です。](2020-september.md#8)|9 月 17 日|
 |機能|[間接リセラー MPA 更新です。MPA API と新しい MPA レポートのユーザーに必要な操作](2020-september.md#7)|9 月 16 日|
