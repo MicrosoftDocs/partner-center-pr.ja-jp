@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.openlocfilehash: 83f5f3cea881780531d0b2f24e0422df76891382
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206324"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422318"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について学習する
 
@@ -37,23 +37,27 @@ ms.locfileid: "91206324"
 1. Azure サブスクリプションを新しいパートナーに譲渡するには、顧客がプロセスを開始し、書面で現在の指名パートナーに連絡する必要があります。
 
    >[!Note]
-   >切り替えのプロセスを開始するサービス チケットは、現在のパートナーの責任で作成してください。 Microsoft は、顧客または新しいパートナーの代わりに介入することはできません。 顧客は現在のパートナーと協力して、切り替えをスムーズに進める計画を作成する必要があります。
+   > 切り替えのプロセスを開始するサービス チケットは、現在のパートナーの責任で作成してください。 Microsoft は、顧客または新しいパートナーの代わりに介入することはできません。 顧客は現在のパートナーと協力して、切り替えをスムーズに進める計画を作成する必要があります。
 
 2. サブスクリプションのパートナーは、次のタスクを実行する必要があります。
 
    パートナー センターから Azure サービス チケットを作成して、サブスクリプションの切り替えを要求します。
 
-   - パートナー センターのメニューで **[顧客]** を選び、一覧から顧客を選んで、**[サービス管理]** を選びます。 **[サポート チケット]** セクションで **[新しいチケット]** ドロップダウン リストを選び、**[Microsoft Azure]** を選びます。
+   1. パートナー センターのメニューで **[顧客]** を選び、一覧から顧客を選んで、**[サービス管理]** を選びます。 
 
-   - [Azure portal](https://portal.azure.com)から、[**新しいサポート要求**] を選択します。
+   2. **[サポート チケット]** セクションで **[新しいチケット]** ドロップダウン リストを選び、**[Microsoft Azure]** を選びます。
+   
+   3. [Azure portal](https://portal.azure.com)から、[**新しいサポート要求**] を選択します。
+   
+   4. 手順 1 で、問題の種類として **[サブスクリプション管理]** を選び、切り替えるサブスクリプション ID を指定して、サポート プランとして **[クラウド ソリューション プロバイダー]** を選びます。
+   
+   5. 手順 2. で、[ **C-影響を最小限** にする] を選択し、問題の種類として **他の一般的な質問** を選択します。
+   
+   6. [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
 
-     手順 1 で、問題の種類として **[サブスクリプション管理]** を選び、切り替えるサブスクリプション ID を指定して、サポート プランとして **[クラウド ソリューション プロバイダー]** を選びます。
+3. サブスクリプションのパートナーは、[CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)に入力して署名し、フォームを顧客に送信します。 
 
-     手順 2. で、[ **C-影響を最小限** にする] を選択し、問題の種類として **他の一般的な質問** を選択します。
-
-     [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
-
-3. サブスクリプションのパートナーは、[CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)に入力して署名し、フォームを顧客に送信します。 フォームに入力するには、次の情報が必要です。
+   フォームに入力するには、次の情報が必要です。
 
    - 現在のパートナーの連絡先情報と Microsoft ID。 パートナー センター メニューで、**[アカウント設定]** &gt; **[組織プロファイル]** を選び、表示される **[Microsoft ID]**、**[組織名]**、および **[住所]** を使います。
 
@@ -106,6 +110,10 @@ ms.locfileid: "91206324"
 ## <a name="next-steps"></a>次の手順
 
 - [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
+
+- [マルチパートナーサポート](multipartner.md)について説明します。
+
 - [マルチパートナーサポート](multipartner.md)。
 - [マルチチャネルのサポート](multichannel.md)。
 - [Azure サブスクリプションの譲渡](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
+

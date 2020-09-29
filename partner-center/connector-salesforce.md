@@ -8,12 +8,12 @@ description: パートナーセンターでの紹介を Salesforce CRM と同期
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372842"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422448"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM のための共同販売コネクタ - 概要
 
@@ -237,45 +237,6 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
 このセクションのマッピングは、フィールドマッピングガイドに基づいて編集できます。
 
-### <a name="set-up-fields-and-relationships"></a>フィールドとリレーションシップの設定
-
-1. Salesforce アカウントにサインインし、[ **営業案件**] にアクセスします。
-
-2. [ **セットアップ** ] および [ **オブジェクトの編集** ] オプションをクリックして、必要なフィールドを追加します。
-
-3. 左側のナビゲーションから [ **フィールド & リレーションシップ** を選択する]
-
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
-
-4. **フィールド & リレーションシップ**テーブルに次のフィールドを追加します。
-
-   |**フィールドラベル**   |**フィールド名**|**データの種類**|**付ける**|
-   |---------------------|:-------------------|:--------------|:----------------|
-   |Audit| Audit__c|長いテキスト領域 (100000) (表示されている4行目)||
-   |Microsoft ではどのように役立つでしょうか。|How_can_Microsoft_help_c|ピック|
-   |製品|Products_c|テキスト (255)||
-   |Referral | Referral_Identfier_c|テキスト (100) (外部 ID)|はい|
-   |紹介リンク| Referral_Link_c_|URL (255)||
-   |パートナーセンターとの同期|sync_with_partner_center_c|Checkbox (既定値はオフ)||
-
-   * 候補リストの値:
-
-   - ワークロード固有の価値提案
-   - お客様のテクニカルアーキテクチャ
-   - 概念実証またはデモ
-   - 引用符またはライセンス
-   - 販売後の顧客の成功
-   - 全般またはその他
-
-5. フィールドは、[**フィールド & リレーションシップ**] の下に作成されます。
-
-   :::image type="content" source="images/salesforce/fields2.png" alt-text="作成されたフィールド":::
-
-6. 営業案件のレイアウトでは、上記のフィールドと同じセクションを作成します。
-
-   - このセクションは、営業案件のレイアウトで販売元に提供されている必要があります。
-
-   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="パートナーセンターのフィールドレイアウト":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>エンドツーエンドの双方向の共同販売参照の同期
 
@@ -339,7 +300,7 @@ Salesforce CRM ソリューションの **営業案件** エンティティの�
 
     6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [見込み客を管理する](manage-leads.md)
 

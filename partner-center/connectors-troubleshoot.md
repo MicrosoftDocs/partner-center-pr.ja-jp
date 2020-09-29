@@ -8,12 +8,12 @@ description: 共同販売コネクタのトラブルシューティング方法�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: ad09d7c805ce5a1138d7546fd041ae1eda77b00c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91002971"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422338"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>共同販売紹介コネクタのトラブルシューティング
 
@@ -104,27 +104,28 @@ Salesforce コネクタソリューションの種類は "Dynamics Flow" で、�
 
 5. 共同販売参照コネクタソリューションのフローがアクティブになっていない場合 (有効になっている場合)
 
-    A. Power の自動化では、次の順序でフローを編集し、それぞれの接続を使用するように更新する必要があります。
+A. Power の自動化では、次の順序でフローを編集し、それぞれの接続を使用するように更新する必要があります。
 
-    - パートナーセンターの Webhook の登録 (Insider Preview)
-    - パートナーセンターへの共同販売参照の作成-Salesforce (Insider Preview)
-    - パートナーセンター: Microsoft 共同での Salesforce の参照の更新 (Insider Preview)
-    - パートナーセンターから Salesforce へ (Insider Preview)
-    - Salesforce からパートナーセンターへ (Insider Preview)
-    - パートナーセンターへの Salesforce の営業案件 (Insider Preview)
-    - パートナーセンターへの Salesforce Microsoft ソリューション (Insider Preview)
+- パートナーセンターの Webhook の登録 (Insider Preview)
+- パートナーセンターへの共同販売参照の作成-Salesforce (Insider Preview)
+- パートナーセンター: Microsoft 共同での Salesforce の参照の更新 (Insider Preview)
+- パートナーセンターから Salesforce へ (Insider Preview)
+- Salesforce からパートナーセンターへ (Insider Preview)
+- パートナーセンターへの Salesforce の営業案件 (Insider Preview)
+- パートナーセンターへの Salesforce Microsoft ソリューション (Insider Preview)
 
-    B. 各フローに対して、[ **ユーザーのみ実行** ] オプションを選択します。 [**実行専用ユーザーによって提供される**のではなく、**接続を使用する**] を選択します。  
+ B. 各フローに対して、[ **ユーザーのみ実行** ] オプションを選択します。 [**実行専用ユーザーによって提供される**のではなく、**接続を使用する**] を選択します。  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="フローをアクティブ化するには":::
 
+
 C. 以下のフローフローをアクティブにします。
 
-- パートナーセンター: Microsoft 共同での Salesforce の参照の更新 (Insider Preview)
+ - パートナーセンター: Microsoft 共同での Salesforce の参照の更新 (Insider Preview)
 
 - Salesforce からパートナーセンターへ (Insider Preview)
 
-
+    
 D. 残りのすべてのフローをアクティブ化します。
 
 E. Flow パートナーセンターの Webhook 登録で、[ **実行**] を選択します。 **パートナーセンター**の最初のアクションから Salesforce flow に**http url**を指定します。 [ **登録するイベント** ] の下にある4つのオプションをすべて選択し、[上書き] で [ **はい]** を選択します。
@@ -203,7 +204,7 @@ ISO の2文字の国コードを CRM の顧客アカウントに追加する必�
 
 - パートナーセンターで、取引が誤って "勝ち" または "Lost" として閉じられていないことを確認します。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [見込み客を管理する](manage-leads.md)
  
