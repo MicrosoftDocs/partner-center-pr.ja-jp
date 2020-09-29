@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372792"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422328"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,9 @@ ms.locfileid: "91372792"
 
 | **カテゴリ** | **2020 年 9 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[Azure プランのパートナー間での新しいサブスクリプションの移行ツールの可用性](2020-september.md#15)|9 月 28 日|
+|機能|[更新をテスト中: 教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイスの機能強化](2020-september.md#14)|9 月 28 日|
+|機能|[更新 - CSP O365 使用状況 API と CSP のライセンスの使用状況レポート](2020-september.md#13)|9 月 29 日|
 |機能|[ロシア連邦法 VAT の今後の変更点](2020-september.md#12)|9 月 25 日|
 |機能|[.NET Standard v1.16.2 の SDK リリース](2020-september.md#11)|9 月 22 日|
 |機能|[パートナー センター インサイト – Microsoft とのビジネスを理解するための唯一のレポート リソースです。](2020-september.md#10)|9 月 23 日|
