@@ -1,0 +1,7 @@
+- name: Docs
+  tocHref: /
+  topicHref: /
+  items:
+    - name: マーケットプレースのお客様
+      tocHref: /marketplace/
+      topicHref: /marketplace/
