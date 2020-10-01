@@ -1,0 +1,5 @@
+- name: Microsoft マーケットプレースのお客様向けドキュメント
+  href: index.yml
+  items:
+    - name: Azure プライベート マーケットプレースを作成する
+      href: create-manage-private-azure-marketplace.md
