@@ -6,26 +6,17 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/24/2020
-ms.openlocfilehash: 17fedcf4ef3d474eab679a03eecb221c90342a04
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.date: 09/28/2020
+ms.openlocfilehash: 24436238cb28f4ef1b02afc4e2f4224d1440805c
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335705"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591112"
 ---
 # <a name="payout-policy-details"></a>支払いポリシーの詳細
 
-この記事では、Microsoft の支払いプロセス、支払いスケジュール、recoupment ポリシー、および支払いの状態を確認する場所について説明します。
-
-## <a name="where-to-find-upcoming-payouts"></a>予定されている支払いの確認場所
-
-パートナーセンターで、画面の右上隅にある [ **支払い** ] アイコンを選択します。
-
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="パートナー センター ポータルの右上にある [支払い] アイコンを示しています。":::
-
-> [!TIP]
-> アカウントの一部のロールでは支払い情報にアクセスできない場合があります。 詳細については、「 [ロールとアクセス許可](payout-statement.md#roles-and-permissions)」を参照してください。
+この記事では、Microsoft の支払いプロセス、支払いスケジュール、支払いの状態を確認できる場所、および回収ポリシーについて説明します。
 
 ## <a name="payment-schedules"></a>支払いスケジュール
 
@@ -33,9 +24,9 @@ ms.locfileid: "91335705"
 
 ### <a name="enterprise-agreement-transactions-after-may-1-2020"></a>2020 年 5 月 1 以降のマイクロソフト エンタープライズ契約のトランザクション
 
-市販の marketplace 発行元の支払いモデルに対して次の更新が行われました。
+#### <a name="update-to-our-commercial-marketplace-publisher-payout-model"></a>商用マーケットプレース発行元の支払いモデルを更新する
 
-2020年5月1日以降、Microsoft マイクロソフトエンタープライズ契約のお客様が Microsoft AppSource または Azure Marketplace で購入した製品に関連する支払いポリシーを更新しています。 顧客が既存の Microsoft マイクロソフトエンタープライズ契約を使用して Azure Marketplace または AppSource から製品を購入した場合、2020年5月1日以降は、年5月1日以降、顧客請求書の30日後に、支払いの発行が開始されます。 顧客がクレジット カードを使用するトランザクションには変更がなく、引き続き、支払いの前に 30 日間の保持期間が設けられます。 次の表は、支払いスケジュールの詳細を示しています。
+2020 年 5 月 1 日から、Microsoft Enterprise Agreement を結んでいる顧客が Azure Marketplace または AppSource で購入した製品に関連する支払いポリシーが更新されています。 2020 年 5 月 1 日以降に顧客が既存の Microsoft Enterprise Agreement を使用して Azure Marketplace または AppSource から製品を購入した場合は、顧客の請求書を送信してから 30 日後の次の支払いサイクルで支払いの発行が開始されます。 顧客がクレジット カードを使用するトランザクションには変更がなく、引き続き、支払いの前に 30 日間の保持期間が設けられます。 次の表は、支払いスケジュールの詳細を示しています。
 
 > [!NOTE]
 > 顧客が支払いを行っていないが、支払いが既に発行されている場合に取られる措置については、以下の「[顧客が未払いの場合のプロセス](#process-for-customer-non-payment)」をご覧ください。
@@ -51,7 +42,7 @@ ms.locfileid: "91335705"
 | 収集された顧客の請求書 | 2020 年 12 月 1 日 | 支払いダッシュボードのトランザクション履歴と [支払い] セクションで**送信済み**とマークされます | **使用状況レポート**: OrderID/OrderLineItemID で使用量が表示されます<br>**注文レポート**: 顧客の注文が ACTIVE として表示されます  |
 |  |  |  |  |
 
-\* 使用状況レポートと注文レポートには、パートナー センターの [分析] セクションからアクセスできます。</br>\** 支払日は太平洋標準時 (PST) です。
+\* 使用状況レポートと注文レポートには、パートナーセンターの [分析] セクションからアクセスできます。 \**. 支払い日は太平洋標準時 (PST) です。
 
 ### <a name="customers-who-pay-using-credit-card-or-invoice"></a>クレジットカードまたは請求書を使用して支払いを行う顧客
 
@@ -95,12 +86,12 @@ ms.locfileid: "91335705"
 
 Microsoft では、次のいずれかの方法を使用して、支払い済みの代金を回収します。(1) Microsoft では、将来の支払いから未払い額を差し引く可能性があります。たとえば、支払いのうち 1,000 ドルが回収不能と判断されて損金処理された場合、1,000 ドルが回収されるまで将来の支払いが保留されます。または、(2) Microsoft では、未回収金額についてパブリッシャーに返済を要求するか、請求書を送る可能性があります。
 
-次の表は、スケジュールの例を示しています。
+スケジュールの例を次に示します。
 
 | Event | おおよその日付 | パートナーへの表示対象 |
 | --- | --- | --- |
 | 支払日の例 | 2020 年 10 月 15 日 | 支払いダッシュボードのトランザクション履歴と [支払い] セクションで**送信済み**とマークされます |
-| 顧客が Microsoft に支払いを行わない場合 | 2020 年 12 月 2 日 – 2020 年 12 月 5 日 | 変更なし、同上 |
+| <font color="red">顧客が Microsoft に支払いを行わない場合</font> | 2020 年 12 月 2 日 – 2020 年 12 月 5 日 | 変更なし、同上 |
 | 顧客が最初の支払い遅延メールを受け取る | 2020 年 12 月 6 日 | なし |
 | 顧客が、緊急度が高まっていることを知らせる定期的なメールを受け取る | 2020 年 12 月 7 日 – 2021 年 1 月 31 日 | なし |
 | 損金処理の可能性があることがパブリッシャーに通知される | 2021 年 1 月 7 日 | 顧客がまだ支払いの送金を行っていないことを示す電子メール通知がパブリッシャーに送信されます。 トランザクション ID と金額 (ドル) が含まれています。 |
@@ -122,7 +113,8 @@ Microsoft では、次のいずれかの方法を使用して、支払い済み�
 | PayPal             | 1 営業日                             |
 | ACH または SEPA           | 2 から 3 営業日                          |
 | 電信送金      | 7 から 10 営業日                         |
+|
 
-## <a name="next-step"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [税の詳細](tax-details-marketplace.md)
