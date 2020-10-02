@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422328"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591092"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,8 @@ ms.locfileid: "91422328"
 
 | **カテゴリ** | **2020 年 9 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[パートナー センター ソフトウェア ライセンス キーおよびダウンロード フルフィルメントのお知らせ](2020-september.md#17)|9 月 30 日|
+|機能|[クラウド ソリューション プロバイダー (CSP) プログラムの進化とオープン ライセンス プログラムの変更:より優れたパートナーとカスタマー エクスペリエンスへの取り組み](2020-september.md#16)|9 月 30 日|
 |機能|[Azure プランのパートナー間での新しいサブスクリプションの移行ツールの可用性](2020-september.md#15)|9 月 28 日|
 |機能|[更新をテスト中: 教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイスの機能強化](2020-september.md#14)|9 月 28 日|
 |機能|[更新 - CSP O365 使用状況 API と CSP のライセンスの使用状況レポート](2020-september.md#13)|9 月 29 日|

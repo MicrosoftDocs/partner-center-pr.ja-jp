@@ -71,9 +71,7 @@
             - name: 資格要件
               href: software-assurance-dps-requirements.md
     - name: 請求と税金
-      items:
-        - name: MPN での請求と税金
-          href: mpn-view-print-maps-invoice.md
+      href: mpn-view-print-maps-invoice.md
     - name: 新機能のテスト
       href: test-drive-new-features.md
 - name: クラウド ソリューション プロバイダー (CSP)
@@ -305,20 +303,8 @@
           href: mobile-operator-billing.md
         - name: ライセンス ベースの SaaS サブスクリプションのシナリオ
           href: common-billing-scenarios-saas.md
-    - name: マーケットプレースの請求と支払いのシナリオ
-      items:
-        - name: マーケットプレースのサービスの請求
-          href: csp-commercial-marketplace-billing.md
-        - name: 支払いを受け取る - マーケットプレース
-          href: marketplace-get-paid.md
-        - name: 支払いポリシーの詳細
-          href: payout-policy-details.md
-        - name: 支払いのしきい値、方法、期間
-          href: payment-thresholds-methods-timeframes.md
-        - name: 支払い明細書
-          href: payout-statement.md
-        - name: マーケットプレースでの支払いに関する FAQ
-          href: payout-faq.md
+    - name: マーケットプレースのサービスの請求
+      href: csp-commercial-marketplace-billing.md
     - name: デジタル署名の表示 - パートナー センター (インド)
       href: digital-signature.md
     - name: 税金と税金の除外
@@ -342,10 +328,24 @@
           href: request-credit.md
     - name: お客様向けに Azure の支出の予算を設定する
       href: set-an-azure-spending-budget-for-your-customers.md
+- name: 支払いを受ける
+  items:
     - name: 未払い、詐欺、不正使用の管理
       href: non-payment-fraud-misuse.md
     - name: 未割り当ての支払いを管理する
       href: unallocated-payment.md
+    - name: コマーシャル マーケットプレースの支払い
+      items:
+        - name: 支払いを受け取る - マーケットプレース
+          href: marketplace-get-paid.md
+        - name: 支払いポリシーの詳細
+          href: payout-policy-details.md
+        - name: 支払いのしきい値、方法、期間
+          href: payment-thresholds-methods-timeframes.md
+        - name: 支払い明細書
+          href: payout-statement.md
+        - name: 支払いに関する FAQ
+          href: payout-faq.md
 - name: お客様とつながる
   href: customer-accounts.md
   items:
