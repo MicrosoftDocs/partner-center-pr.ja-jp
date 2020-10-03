@@ -1,17 +1,17 @@
 ---
-title: パートナーセンターの登録での付加価値税 (VAT) 情報
+title: パートナー センターの登録での付加価値税 (VAT) 情報
 description: パートナーセンターの登録プロセス中に VAT ID 番号を入力する必要がある場合は、この情報を参考にしてください。
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: 7e4f6778d14166dfe30a608d06dc75d953442c70
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026485"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663883"
 ---
 # <a name="vat-info"></a>付加価値税情報
 
@@ -30,222 +30,36 @@ ms.locfileid: "90026485"
 
 Microsoft は税金に関するアドバイスを提供しないこと、および次の表はガイダンスとしてのみ提供されることに注意してください。 Microsoft に VAT 番号を提供するのに十分な情報がない場合は、最新の変更については、現地の税金機関にお問い合わせください。
 
-<table Responsive="true">
-<tr><th>国/リージョン</th><th>付加価値税情報</th></tr>
-<tr><td data-th="Country/region">オーストリア
-</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 1 文字および 8 桁の数字</li>
-<li>国/地域コード: AT</li>
-<li>例: U12345678</li>
-<li>注: 最初の文字は常に "U" になります。
-</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">ベルギー</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 10 桁の数字</li>
-<li>国/地域コード: BE</li>
-<li>例: 1234567890</li>
-<li>注: 2007 年 1 月 1 日以前は 9 桁です。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">ブルガリア</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 9 または 10 桁の数字</li>
-<li>国/地域コード: BG</li>
-<li>例: 123456789 または 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">クロアチア</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 2 文字および 11 桁の数字</li>
-<li>国/地域コード: HR</li>
-<li>例: HR12345678901</li>
-<li>注: 最初の文字は常に "HR" になります。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">キプロス</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 2 文字、8 桁の数字、および 1 文字</li>
-<li>国/地域コード: CY</li>
-<li>例: 12345678、123456789、0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">チェコ</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 8 桁、9 桁、または 10 桁の数字</li>
-<li>国/地域コード: CZ</li>
-<li>例: 12345678、123456789、0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">デンマーク</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 8 桁の数字</li>
-<li>国/地域コード: DK</li>
-<li>例: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">エストニア</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 9 桁の数字</li>
-<li>国/地域コード: EE</li>
-<li>例: 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">フィンランド</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 8 桁の数字</li>
-<li>国/地域コード: FI</li>
-<li>例: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">フランス</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 11 桁の数字</li>
-<li>国/地域コード: FR</li>
-<li>例: 12345678901、X1234567890、1X123456789、XX123456789</li>
-<li>注: 最初の文字または 2 番目の文字、あるいは最初の文字および 2 番目の文字にアルファベットが含まれ (I または Q を除く)、その後に 9 桁の数値が続く場合があります。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">ドイツ</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 9 桁の数字</li>
-<li>国/地域コード: DE</li>
-<li>例: 123456789</li>
-<li>注: 9 桁の 'Umsatzsteur Identifikationnummer' (Ust ID Nr.) である必要があります。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">ギリシャ</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 9 桁の数字</li>
-<li>国/地域コード: EL、GR</li>
-<li>例: 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">ハンガリー</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 8 桁の数字</li>
-<li>国/地域コード: HU</li>
-<li>例: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">アイルランド</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 8 桁の数字</li>
-<li>国/地域コード: IE</li>
-<li>例: 1234567X または 1X34567X</li>
-<li>注: 1 文字または 2 文字のアルファベット (最後の文字、または 2 番目と最後の文字) が含まれます。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">イタリア</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 11 桁の数字</li>
-<li>国/地域コード: IT</li>
-<li>例: 12345678901</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">ラトビア</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 11 桁の数字</li>
-<li>国/地域コード: LV</li>
-<li>例: 01234567890</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">リトアニア</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 9 または 12 桁の数字</li>
-<li>国/地域コード: LT</li>
-<li>例: 123456789 または 012345678901</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">ルクセンブルク</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 8 桁の数字</li>
-<li>国/地域コード: LU</li>
-<li>例: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">マルタ</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 2 文字および 8 桁の数字</li>
-<li>国/地域コード: MT</li>
-<li>例: MT12345678</li>
-<li>注: 最初の文字は常に "MT" になります。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">オランダ</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 11 桁の数字および 1 文字</li>
-<li>国/地域コード: NL</li>
-<li>例: 123456789B01</li>
-<li>注: 10 番目の文字は常に 'B' になります。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">ポーランド</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 10 桁の数字</li>
-<li>国/地域コード: PL</li>
-<li>例: 1234567890</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">ポルトガル</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 9 桁の数字</li>
-<li>国/地域コード: PT</li>
-<li>例: 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">ルーマニア</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 2 文字および 8 ～ 10 桁の数字</li>
-<li>国/地域コード: RO</li>
-<li>例: RO12345678、RO123456789、または RO1234567890</li>
-<li>注: 最初の文字は常に "RO" になります。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">スロバキア</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 10 桁の数字</li>
-<li>国/地域コード: SK</li>
-<li>例: 1234567890</li>
-<li>注: 最初の文字は常に "SI" になります。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">スロベニア</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 2 文字および 8 桁の数字</li>
-<li>国/地域コード: SI</li>
-<li>例: SI12345678</li>
-<li>注: 最初の文字は常に "SI" になります。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">スペイン</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 9 桁の数字</li>
-<li>国/地域コード: ES</li>
-<li>例: X12345678、12345678X、X1234567X</li>
-<li>注: 1 文字または 2 文字 (最初の文字、最後の文字、または最初と最後の文字) が含まれます。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">スウェーデン</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 12 桁の数字</li>
-<li>国/地域コード: SE</li>
-<li>例: 123456789001</li>
-<li>注: 最後の 2 文字は '01' である必要があります。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">イギリス</td><td data-th="VAT info">
-<ul>
-<li>VAT 番号形式: 9 または 12 桁の数字</li>
-<li>国/地域コード: GB</li>
-<li>例: 123456789 または 123456789001</li>
-<li>注: 通常は 9 桁ですが、番号がグループ内の子会社を表す場合は 12 桁になります。</li>
-</ul>
-</td></tr>
-</table>
-
+|国/リージョン | 付加価値税情報 |
+|:------------|:----------|
+|オーストリア  |-VAT 番号の形式: 1 文字と8桁<br/>-国/地域コード: AT<br/>-例: U12345678<br/>-注: 最初の文字は常に "U" になります。 |
+|ベルギー  |-VAT 番号の形式:10 桁<br/>-国/地域コード:<br/>-例: 1234567890<br/>-Notes: 2007 年1月1日より前の9桁の数字。 |
+| ブルガリア  |-VAT 番号の形式: 9 または10の数字<br/>-国/地域コード: BG<br/>-例: 123456789 または0123456789 |
+| クロアチア |-VAT 番号の形式: 2 文字および11桁<br/>-国/地域コード: HR<br/>-例: HR12345678901<br/>-注: 最初の文字は常に ' HR ' になります。 |
+|キプロス |-VAT 番号の形式: 2 文字と8桁、1文字<br/>-国/地域コード: CY<br/>-例: 12345678、123456789、または0123456789 |
+|チェコ |-VAT 番号の形式: 8、9、または10の数字<br/>-国/地域コード: CS-CZ<br/>-例: 12345678、123456789、または0123456789 |
+| デンマーク |-VAT 番号の形式: 8 桁<br/>-国/地域コード: DK<br/>-例: 12345678<br/> |
+|エストニア |-VAT 番号の形式: 9 桁<br/>-国/地域コード: EE<br/>-例: 123456789<br/> |
+|フィンランド |-VAT 番号の形式: 数字<br/>-国/地域コード: FI<br/>-例: 12345678 |
+|フランス |-VAT 番号の形式:11 桁<br/>-国/地域コード: FR<br/>-例: 12345678901、X1234567890、1XXX123456789 89、または<br/>-Notes: 1 番目または2番目の文字として I または Q を除くアルファベット、または1番目と2番目の文字として、9桁までの文字を含めることができます。 |
+|ドイツ |-VAT 番号の形式: 9 桁<br/>-国/地域コード: DE<br/>-例: 123456789<br/>-注: 9 桁の ' Umsatzsteur Identifikationnummer ' (Ust ID Nr) にする必要があります。 |
+|ギリシャ |-VAT 番号の形式: 9 桁<br/>-国/地域コード: EL、GR<br/>-例: 123456789 |
+|ハンガリー |-VAT 番号の形式: 8 桁<br/>-国/地域コード: HU<br/>-例: 12345678 |
+|アイルランド |-VAT 番号の形式: 8 桁<br/>-国/地域コード: IE<br/>-例: 67X または 1X345 x<br/>-注: 1 文字または2文字の英字 (最後の文字または2番目の文字) が含まれます。 |
+|イタリア |-VAT 番号の形式:11 桁<br/>-国/地域コード: IT<br/>-例: 12345678901 |
+|ラトビア |-VAT 番号の形式:11 桁<br/>-国/地域コード: LV<br/>-例: 01234567890 |
+|リトアニア |-VAT 番号の形式: 9 または12桁<br/>-国/地域コード: LT<br/>-例: 123456789 または012345678901 |
+|ルクセンブルク |-VAT 番号の形式: 8 桁<br/>-国/地域コード: LU<br/>-例: 12345678 |
+|マルタ |-VAT 番号の形式: 2 文字と8桁<br/>-国/地域コード: MT</br>-例: MT12345678<br/>-注: 最初の文字は常に ' MT ' になります。 |
+|オランダ |-VAT 番号の形式:11 桁と1文字<br/>-国/地域コード: NL<br/>-例: の使用例<br/>-注:10 番目の文字は常に ' B ' です。 |
+|ポーランド |-VAT 番号の形式:10 桁<br/>-国/地域コード: PL<br/>-例: 1234567890 |
+|ポルトガル |-VAT 番号の形式: 9 桁<br/>-国/地域コード: PT<br/>-例: 123456789 |
+|ルーマニア |-VAT 番号の形式: 2 文字と8-10 の数字<br/>-国/地域コード: RO<br/>-Example: RO12345678、RO123456789、または RO1234567890<br/>-注: 最初の文字は常に ' RO ' になります |
+|スロバキア |-VAT 番号の形式:10 桁<br/>-国/地域コード: SK<br/>-例: 1234567890<br/>-注: 最初の文字は常に "SI" になります。 |
+|スロベニア |-VAT 番号の形式: 2 文字と8桁<br/>-国/地域コード: SI<br/>-例: SI12345678<br/>-注: 最初の文字は常に "SI" になります。 |
+|スペイン |-VAT 番号の形式: 9 桁<br/>-国/地域コード: ES<br/>-Example: X12345678、X1234567X 8X、または<br/>-Notes: 1 文字または2文字 (first、last、first、last) が含まれます。 |
+|スウェーデン |-VAT 番号の形式:12 桁<br/>-国/地域コード: SE<br/>-例: 123456789001<br/>-注: 最後の2文字は ' 01 ' でなければなりません。 |
+|イギリス |-VAT 番号の形式: 9 または12桁<br/>-国/地域コード: GB<br/>-例: 123456789 または123456789001<br/>-Note: 9 桁の数字。数値がグループ内のサブ会社を表している場合は12桁です。 |
 ## <a name="next-steps"></a>次のステップ
 
 - [会社の税金情報と、パートナーセンターの購入のために VAT Id を追加または送信する方法](organization-tax-info.md)

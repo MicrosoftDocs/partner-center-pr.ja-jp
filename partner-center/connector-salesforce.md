@@ -1,19 +1,19 @@
 ---
 title: Salesforce CRM パートナーセンターの共同販売コネクタ
 ms.topic: how-to
-ms.date: 05/17/2020
+ms.date: 09/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターでの紹介を Salesforce CRM と同期する
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4bc404ca8c0647b1bcece767da75fa07ddc6b51f
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422448"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663863"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM のための共同販売コネクタ - 概要
 
@@ -34,7 +34,7 @@ ms.locfileid: "91422448"
 |共同販売の準備完了|お客様の IP/サービスソリューションは、共同販売の準備ができている必要があります。|[Microsoft との販売](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |パートナー センター アカウント|パートナーセンターのテナントに関連付けられている MPN ID は、共同販売ソリューションに関連付けられている MPN ID と同じである必要があります。 コネクタをデプロイする前に、パートナーセンターポータルで共同販売の紹介を確認できることを確認します。|[アカウントの管理](create-user-accounts-and-set-permissions.md)|
 |パートナー センターのユーザー ロール|コネクタをインストールして使用する従業員は、参照管理者である必要があります|[ユーザー ロールとアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)|
-|Salesforce CRM|CRM ユーザーロールは、システム管理者またはシステムカスタマイザーです。|[Salesforce CRM でロールを割り当てる](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
+|Salesforce CRM|CRM ユーザーロールは、システム管理者またはシステムカスタマイザーです。|[Salesforce CRM でロールを割り当てる](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
 |パワー自動化フローアカウント|CRM システム管理者またはシステムカスタマイザー用のアクティブな [電源自動化](https://flow.microsoft.com) アカウント。 そのユーザーは、インストールの前に少なくとも1回、 [電源の自動](https://flow.microsoft.com) 登録を行う必要があります。|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Microsoft カスタムフィールド用の Salesforce パッケージのインストール 
@@ -84,13 +84,13 @@ ms.locfileid: "91422448"
 
 5. ポップアップ画面で、 **Salesforce のパートナーセンターの紹介コネクタ** を検索します。  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="AppSource を開く":::
 
 6. [ **今すぐ入手** する] ボタンをクリックし、[ **続行**] をクリックします。
 
 7. これにより、Salesforce CRM 環境を選択してアプリケーションをインストールできるページが開きます。  使用条件に同意します。
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="使用可能な CRMS":::
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="AppSource を開く":::
 
 8. その後、[ **ソリューションの管理** ] ページに移動します。  ページの下部にある矢印ボタンを使用して、[パートナーセンターの紹介] に移動します。 [パートナーセンターの紹介] ソリューションの横に、[**インストールのスケジュール**] が表示されます。 インストールには10-15 分かかります。
 
@@ -98,11 +98,11 @@ ms.locfileid: "91422448"
 
 10. **Salesforce のパートナーセンター紹介同期**を選択します。 次の電源の自動化フローとエンティティを利用できます。
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce フロー":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="AppSource を開く":::
 
 
 
-## <a name="configure-the-solution"></a>ソリューションの構成
+## <a name="configure-the-solution"></a>ソリューションを構成する
 
 1. CRM インスタンスにソリューションをインストールしたら、[ [Power の自動化](https://flow.microsoft.com/)] に戻ります。
 
@@ -115,7 +115,7 @@ ms.locfileid: "91422448"
 
 5. [ **接続の作成**] をクリックして接続を作成します。
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="接続を作成する":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="AppSource を開く":::
 
 - 右上隅の検索バーで、パートナーセンターの参照 (プレビュー) を検索します。
 
@@ -127,17 +127,17 @@ ms.locfileid: "91422448"
 
 -  すべての接続を追加すると、環境内に次の接続が表示されます。
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="接続を監視する":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="AppSource を開く":::
 
 ### <a name="edit-the-connections"></a>接続を編集する
 
 1. [ソリューション] ページに戻り、[ **既定のソリューション**] を選択します。  [**すべて**] をクリックして、[**接続の参照 (プレビュー)** ] を選択します。
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="コネクタの編集を開始します":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="AppSource を開く":::
 
 2. 3つのドットアイコンを選択して、各接続を1つずつ編集します。 関連する接続を追加します。
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="コネクタの編集":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="AppSource を開く":::
 
 3. 次の順序でフローを有効にします。
 
@@ -157,11 +157,11 @@ ms.locfileid: "91422448"
 
 2. 参照管理者の資格情報を持つパートナーセンターのユーザー (a.) に接続を追加します。パートナーセンターのイベントは、下に強調表示されています。
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="トリガー":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="AppSource を開く":::
 
 3. これらの更新を行うと、次のように表示されます。
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="AppSource を開く":::
 
 4. 変更内容を保存し、[ **有効にする**] を選択します。
 
@@ -173,17 +173,7 @@ ms.locfileid: "91422448"
 
 7. **コピー**アイコンを選択して、指定された HTTP POST URL をコピーします。
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="URL のコピー":::
-
-8. 次に、"パートナーセンターの Webhook の登録 (Insider Preview)" パワー自動化フローを選択し、[ **実行**] を選択します。
-
-9. 右側のウィンドウで [実行フロー] ウィンドウが開いていることを確認し、[ **続行**] をクリックします。
-
-10. 次の詳細を入力します。
-
-    1. **Http トリガーエンドポイント**: 前の手順からコピーされた URL
-
-    2. **登録するイベント**: "紹介-作成" と "参照-更新"
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="AppSource を開く"
 
     3. **既存のトリガーエンドポイントがある場合は上書き**します (存在する場合は既存のエンドポイントを上書きします)。
 
@@ -270,7 +260,7 @@ Salesforce CRM ソリューションの **営業案件** エンティティの�
 
    2. Salesforce CRM 環境で "新しい営業案件" を作成するときに、次のセクションが存在することを確認します。
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Salesforce 環境":::
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="AppSource を開く":::
 
    3. この機会を Microsoft パートナーセンターと同期するには、カードビューで次のフィールドを設定していることを確認します。
 
@@ -296,11 +286,11 @@ Salesforce CRM ソリューションの **営業案件** エンティティの�
 
     5. **[Open opportunity**] に移動します。 Microsoft パートナーセンターで作成された紹介が、Salesforce CRM で同期されるようになりました。
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Salesforce の営業案件画面":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="AppSource を開く":::
 
     6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [見込み客を管理する](manage-leads.md)
 
