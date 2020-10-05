@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 8af2a7127dd146a931ce127435413297559952b4
+ms.sourcegitcommit: 70eb4508cb0c799506e463c47cee5d98ef2f1fe7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591092"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "91625145"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
 パートナー センターの重要な更新についての詳細をご確認ください。 この情報は頻繁に更新されるので、定期的にチェックしてみてください。
 
-| **カテゴリ** | **2020 年 9 月のお知らせ** | **発表** |
+| **カテゴリ** | **2020 年 10 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[クラウド ソリューション プロバイダー (CSP) パートナーが Windows 7 Year 2 拡張セキュリティ更新プログラム (ESU) を利用可能に](2020-october.md#3)|10 月 1 日|
+|製品サービス/市場|[Office 365 の通話プランが、新しい市場で利用できるようになりました](2020-october.md#2)|10 月 1 日|
+|機能|[会計年度 2021 (FY21) のクラウド ソリューション プロバイダー (CSP) のインセンティブ プログラムのお知らせ](2020-october.md#1)|10 月 1 日|
+| **カテゴリ** | **2020 年 9 月のお知らせ** | **日付** |
 |機能|[パートナー センター ソフトウェア ライセンス キーおよびダウンロード フルフィルメントのお知らせ](2020-september.md#17)|9 月 30 日|
 |機能|[クラウド ソリューション プロバイダー (CSP) プログラムの進化とオープン ライセンス プログラムの変更:より優れたパートナーとカスタマー エクスペリエンスへの取り組み](2020-september.md#16)|9 月 30 日|
 |機能|[Azure プランのパートナー間での新しいサブスクリプションの移行ツールの可用性](2020-september.md#15)|9 月 28 日|
