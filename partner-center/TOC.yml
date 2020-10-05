@@ -42,11 +42,13 @@
         - name: MPN のメリットを確認する
           href: mpn-find-benefits.md
     - name: コンピテンシー
-      href: learn-about-competencies.md
+      items:
+        - name: コンピテンシーの詳細
+          href: learn-about-competencies.md
+        - name: アプリ開発コンピテンシーの除外
+          href: app-dev-isv.md
     - name: 高度な専門性
       href: advanced-specializations.md
-    - name: アプリケーション開発コンピテンシーに対するワンタイム試験要件の免除
-      href: app-dev-isv.md
     - name: Azure Expert MSP になる
       href: azure-expert-msp.md
     - name: メリット
@@ -123,152 +125,159 @@
         - name: 米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
 - name: パートナー センター アカウントを管理する
-  href: partner-center-account-setup.md
   items:
-    - name: 職場アカウントとパートナー センター
-      href: azure-active-directory-tenants-and-partner-center.md
-    - name: パートナー センターでのアカウント構造
-      href: account-structure.md
-    - name: ドメインの所有者の確認
-      href: become-global-admin.md
-    - name: アカウント情報の確認
-      href: verification-responses.md
-    - name: パートナー アカウントを別のパートナー アカウントにマージする
-      href: merge-accounts.md
-    - name: 追加の Azure AD テナントをパートナー センターのアカウントに関連付ける
-      href: multi-tenant-account.md
-    - name: パートナー プロファイルの更新
-      href: update-your-partner-profile.md
-    - name: 場所
-      href: manage-locations.md
-    - name: コントロール パネル ベンダーとして登録する
-      href: enroll-as-cpv.md
-    - name: 中断されたパートナー センター アカウントの復元
-      href: suspended-partner-center-account.md
-    - name: Azure AD アプリケーションの追加
-      href: service-principal.md
-    - name: Microsoft Learn アカウントとパートナー センターを関連付ける
-      href: ms-learn-associate.md
-- name: パートナー センター アカウントの管理 - ユーザー
+    - name: 全般アカウントを管理する
+      items:
+        - name: アカウントについて
+          href: partner-center-account-setup.md
+        - name: アカウントの構造について
+          href: account-structure.md
+        - name: 職場アカウントをリンクする
+          href: azure-active-directory-tenants-and-partner-center.md
+        - name: ドメインの所有権を検証する
+          href: become-global-admin.md
+        - name: アカウント情報を検証する
+          href: verification-responses.md
+        - name: パートナー アカウントを統合する
+          href: merge-accounts.md
+        - name: その他の Azure AD テナントを追加する
+          href: multi-tenant-account.md
+        - name: パートナー プロファイルの更新
+          href: update-your-partner-profile.md
+        - name: 場所の管理
+          href: manage-locations.md
+        - name: コントロール パネル ベンダーになる
+          href: enroll-as-cpv.md
+        - name: 一時停止中のアカウントを復元する
+          href: suspended-partner-center-account.md
+        - name: Azure AD アプリケーションを追加する
+          href: service-principal.md
+        - name: Learn アカウントを関連付ける
+          href: ms-learn-associate.md
+    - name: ユーザーの管理
+      items:
+        - name: ユーザー アカウントの作成
+          href: create-user-accounts-and-set-permissions.md
+        - name: ユーザーにロールを割り当てる
+          href: permissions-overview.md
+        - name: コントロール パネル ベンダーになる
+          href: enroll-as-cpv.md
+        - name: ユーザーのパスワードのリセット
+          href: reset-a-user-password.md
+        - name: パスワードをリセットする
+          href: reset-my-pasword.md
+        - name: ユーザーがサインインできません
+          href: unable-to-sign-in.md
+        - name: ユーザーに MPN 管理者が割り当てられていません
+          href: no-mpn-admin.md
+    - name: ビジネスを管理する
+      items:
+        - name: Azure Partner Shared Services
+          href: shared-services.md
+        - name: 料金とプラン
+          href: pricing-and-offers.md
+        - name: カタログのカスタマイズ
+          href: customize-the-catalog.md
+- name: 紹介
   items:
-    - name: ユーザー アカウントの作成
-      href: create-user-accounts-and-set-permissions.md
-    - name: ユーザー ロールとアクセス許可の割り当て
-      href: permissions-overview.md
-    - name: コントロール パネル ベンダーとして登録する
-      href: enroll-as-cpv.md
-    - name: ユーザーのパスワードのリセット
-      href: reset-a-user-password.md
-    - name: パスワードをリセットする
-      href: reset-my-pasword.md
-    - name: パートナー センターにサインインできない場合
-      href: unable-to-sign-in.md
-    - name: MPN プログラムの管理者が退職した場合の対処方法
-      href: no-mpn-admin.md
-- name: パートナー センター アカウントの管理 - ビジネス
-  items:
-    - name: Azure Partner Shared Services の追加
-      href: shared-services.md
-    - name: 料金とプラン
-      href: pricing-and-offers.md
-    - name: カタログのカスタマイズ
-      href: customize-the-catalog.md
-- name: ビジネスを拡大する
-  href: grow-your-business.md
-  items:
+    - name: ビジネスの拡大をサポートする
+      href: grow-your-business.md
     - name: 紹介の概要
       href: referrals.md
+    - name: ビジネス プロファイルの管理
+      href: create-a-marketing-profile.md
+    - name: リードの管理
+      href: manage-leads.md
+    - name: 共同販売の機会を管理する
       items:
-        - name: ビジネス プロファイルの管理
-          href: create-a-marketing-profile.md
-        - name: リードの管理
-          href: manage-leads.md
-        - name: 共同販売の機会を管理する
+        - name: 共同販売の潜在顧客について
           href: manage-co-sell-opportunities.md
-        - name: Dynamics 365 CRM のための共同販売コネクタ - 概要
-          href: connector-dynamics.md
-        - name: Salesforce CRM のための共同販売コネクタ - 概要
-          href: connector-salesforce.md
-        - name: 共同販売紹介コネクタのトラブルシューティング
+        - name: 共同販売の CRM コネクタについて
+          items:
+            - name: Dynamics 365 向け
+              href: connector-dynamics.md
+            - name: Salesforce 向け
+              href: connector-salesforce.md
+        - name: コネクタのトラブルシューティング
           href: connectors-troubleshoot.md
-        - name: Partner Sales Connect (PSC) から移行するパートナーのための共同販売
+        - name: 共同販売 - PSC から PC への移行
           href: psc-to-pc.md
-        - name: 取引の登録
-          href: register-deals.md
-        - name: 紹介の分析情報を取得する
-          href: referral-insights.md
-        - name: ビジネス プロファイルの分析
-          href: analyze-your-marketing-profile.md
-    - name: インセンティブ
+    - name: 取引の登録
+      href: register-deals.md
+    - name: 紹介の分析情報を取得する
+      href: referral-insights.md
+    - name: ビジネス プロファイルの分析
+      href: analyze-your-marketing-profile.md
+- name: インセンティブ
+  items:
+    - name: インセンティブの概要
       items:
+        - name: インセンティブの FAQ
+          href: incentives-faq.md
         - name: インセンティブの概要
-          items:
-            - name: インセンティブの FAQ
-              href: incentives-faq.md
-            - name: インセンティブの概要
-              href: incentives-get-started-intro.md
-            - name: インセンティブの 10 の必須事項
-              href: incentives-ten-essentials.md
-            - name: インセンティブに登録する
-              href: incentives-enroll.md
-            - name: プログラムの適格性を確認する
-              href: incentives-determined-your-program-eligibility.md
-              displayName: incentives
-            - name: 支払いと税金のプロファイルを確認する
-              href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-              displayName: incentives
-            - name: 支払いと税金のプロファイルの FAQ
-              href: incentives-payout-tax-profile-faqs.md
-              displayName: incentives
-            - name: 収益の適格性を確認する
-              href: incentives-confirm-your-earnings-eligibility.md
-              displayName: incentives
-            - name: 支払いとプログラムを表示する
-              href: understand-incentive-payouts.md
-              displayName: incentives
-            - name: 支払いページにアクセスする
-              href: incentives-unified-user-guide.md
-              displayName: incentives
-        - name: 実行の計画と証明
-          items:
-            - name: プランと PoE を確認する
-              href: incentives-plans-proofs-intro.md
-              displayName: 'incentives, proof of execution, proofs of execution'
-            - name: プランを作成する
-              href: incentives-create-your-plan.md
-              displayName: incentives
-            - name: 実行証明を作成する
-              href: incentives-prepare-your-proof-of-execution.md
-              displayName: incentives
-        - name: 協力インセンティブの申請
-          items:
-            - name: 協力インセンティブの申請
-              href: claims-overview.md
-              displayName: incentives
-            - name: 協力申請の管理
-              href: create-incentives-claims.md
-              displayName: incentives
-            - name: 主要な要件を表示する
-              href: core-requirements.md
-              displayName: incentives
-            - name: 協力申請の承認と期限
-              href: incentives-managing-co-op-claims.md
-              displayName: incentives
-        - name: インセンティブの CPOR 関連付けの申請
-          items:
-            - name: CPOR の関連付けを確認する
-              href: incentives-customer-associations-intro.md
-            - name: 顧客の関連付けを作成する
-              href: submit-osa-claim.md
-            - name: 顧客の関連付けを管理する
-              href: incentives-manage-customer-associations.md
-              displayName: incentives
-            - name: 顧客の関連付けに関する問題
-              href: incentives-customer-association-issues.md
-              displayName: incentives
-        - name: 支払いと収益の問題のトラブルシューティング
-          href: incentives-payment-issues.md
+          href: incentives-get-started-intro.md
+        - name: インセンティブの 10 の必須事項
+          href: incentives-ten-essentials.md
+        - name: インセンティブに登録する
+          href: incentives-enroll.md
+        - name: プログラムの適格性を確認する
+          href: incentives-determined-your-program-eligibility.md
           displayName: incentives
+        - name: 支払いと税金のプロファイルを確認する
+          href: incentives-create-and-manage-your-payout-and-tax-profiles.md
+          displayName: incentives
+        - name: 支払いと税金のプロファイルの FAQ
+          href: incentives-payout-tax-profile-faqs.md
+          displayName: incentives
+        - name: 収益の適格性を確認する
+          href: incentives-confirm-your-earnings-eligibility.md
+          displayName: incentives
+        - name: 支払いとプログラムを表示する
+          href: understand-incentive-payouts.md
+          displayName: incentives
+        - name: 支払いページにアクセスする
+          href: incentives-unified-user-guide.md
+          displayName: incentives
+    - name: 実行の計画と証明
+      items:
+        - name: プランと PoE を確認する
+          href: incentives-plans-proofs-intro.md
+          displayName: 'incentives, proof of execution, proofs of execution'
+        - name: プランを作成する
+          href: incentives-create-your-plan.md
+          displayName: incentives
+        - name: 実行証明を作成する
+          href: incentives-prepare-your-proof-of-execution.md
+          displayName: incentives
+    - name: 協力インセンティブの申請
+      items:
+        - name: 協力インセンティブの申請
+          href: claims-overview.md
+          displayName: incentives
+        - name: 協力申請の管理
+          href: create-incentives-claims.md
+          displayName: incentives
+        - name: 主要な要件を表示する
+          href: core-requirements.md
+          displayName: incentives
+        - name: 協力申請の承認と期限
+          href: incentives-managing-co-op-claims.md
+          displayName: incentives
+    - name: インセンティブの CPOR 関連付けの申請
+      items:
+        - name: CPOR の関連付けを確認する
+          href: incentives-customer-associations-intro.md
+        - name: 顧客の関連付けを作成する
+          href: submit-osa-claim.md
+        - name: 顧客の関連付けを管理する
+          href: incentives-manage-customer-associations.md
+          displayName: incentives
+        - name: 顧客の関連付けに関する問題
+          href: incentives-customer-association-issues.md
+          displayName: incentives
+    - name: 支払いおよび収益のトラブルシューティング
+      href: incentives-payment-issues.md
+      displayName: incentives
 - name: 請求と税金
   href: billing.md
   items:
@@ -282,7 +291,7 @@
       href: use-the-reconciliation-files.md
     - name: 調整ファイルの料金の種類
       href: recon-file-charge-types.md
-    - name: パートナー センターで毎日評価される使用量の調整ファイルを読み取る
+    - name: 毎日評価される使用量の調整ファイル
       href: daily-rated-usage-recon-files.md
     - name: ライセンス ベースの調整ファイル
       href: license-based-recon-files.md
@@ -365,9 +374,9 @@
       href: update-customer-account-info.md
     - name: 顧客が独自のサービスを購入できるようにする
       href: give-customers-permission.md
-    - name: 顧客に複数ユーザーを追加する方法
+    - name: 顧客に複数ユーザーを追加する
       href: adding-multiple-users-to-a-customer-account.md
-    - name: 顧客アカウントに複数のユーザーをインポートするためのファイルの必須フィールド
+    - name: 複数のユーザーをインポートする
       href: file-customer-users.md
     - name: サポート連絡先の指定
       href: assign-support-contacts.md
@@ -487,64 +496,69 @@
           href: advisor-create-a-purchase-offer.md
 - name: パートナー センターのデータと分析
   items:
-    - name: ユーザー データと分析へのアクセスを取得する
+    - name: ユーザー データと分析にアクセスする
       href: data-analysis-lp.md
-    - name: Power BI 用パートナー センター分析アプリ
+    - name: Power BI 用分析アプリ
       items:
-        - name: Power BI 用パートナー センター分析アプリの概要
+        - name: 分析アプリの概要
           href: power-bi-app-for-direct-partners.md
-        - name: Power BI 用パートナー センター分析アプリをインストールする
+        - name: 分析アプリをインストールする
           href: power-bi-app-for-direct-partners-install.md
-        - name: Power BI 用パートナー センター分析アプリを使用する
+        - name: 分析アプリを使用する
           href: power-bi-app-for-direct-partners-use.md
-    - name: パートナー センター インサイト
-      href: partner-center-insights.md
+    - name: パートナー センター インサイト (PCI)
       items:
-        - name: Insights - 概要ダッシュボード
-          href: pci-overview-report.md
-        - name: Insights - Insights ダッシュボードへのロールベースのアクセス制御
+        - name: インサイトについて
+          href: partner-center-insights.md
+        - name: インサイトの役割ベースのアクセス
           href: pci-roles.md
-        - name: Insights - 顧客ダッシュボード
-          href: pci-customer-report.md
-        - name: Insights - リセラー パフォーマンス ダッシュボード
-          href: pci-resellers-performance.md
-        - name: Insights - 製品サブスクリプション ダッシュボード
-          href: pci-product-subscriptions-report.md
-        - name: Insights - 製品ライセンスダッシュボード
-          href: pci-product-licenses-report.md
-        - name: Insights - Azure の利用状況ダッシュボード
-          href: pci-azure-usage-report.md
-        - name: Insights - トレーニング ダッシュボード
-          href: pci-training-dashboard.md
-        - name: Insights - Microsoft Learn 分析
-          href: ms-learn-analytics.md
-        - name: Insights - コンピテンシー レポート
-          href: pci-competencies-report.md
-        - name: Insights - 特典レポート
-          href: pci-benefits-report.md
-        - name: Insights - CloudAscent 傾向レポート
-          href: pci-customer-opportunities.md
-        - name: Insights - 既知の問題
+        - name: インサイト レポート
+          items:
+            - name: Azure の利用状況
+              href: pci-azure-usage-report.md
+            - name: メリット
+              href: pci-benefits-report.md
+            - name: CloudAscent の傾向
+              href: pci-customer-opportunities.md
+            - name: コンピテンシー
+              href: pci-competencies-report.md
+            - name: Customer
+              href: pci-customer-report.md
+            - name: Microsoft Learn 分析
+              href: ms-learn-analytics.md
+            - name: 概要
+              href: pci-overview-report.md
+            - name: 製品ライセンス
+              href: pci-product-licenses-report.md
+            - name: 製品のサブスクリプション
+              href: pci-product-subscriptions-report.md
+            - name: リセラー パフォーマンス
+              href: pci-resellers-performance.md
+            - name: トレーニング
+              href: pci-training-dashboard.md
+        - name: 既知の問題
           href: pci-known-issues.md
-        - name: Insights - レポートのダウンロード
+        - name: インサイト レポートをダウンロードする
           href: pci-download-reports.md
     - name: パートナー貢献度インジケーター
       href: partner-contribution-indicators.md
-    - name: 顧客の Azure サブスクリプションの利用状況に関するデータの取得
-      href: analyze-azure-usage.md
-    - name: 間接リセラーのパフォーマンス分析
-      href: analyze-indirect-resellers.md
-    - name: サブスクリプションとライセンスの分析
-      href: analyze-subscriptions-licenses.md
+    - name: その他のデータを分析する
+      items:
+        - name: 顧客の Azure 使用状況
+          href: analyze-azure-usage.md
+        - name: 間接リセラー パフォーマンス
+          href: analyze-indirect-resellers.md
+        - name: サブスクリプションおよびライセンス
+          href: analyze-subscriptions-licenses.md
 - name: 他のパートナーとの連携
   items:
     - name: パートナーを見つける
       href: find-a-partner.md
     - name: 他のパートナーとの連携
       href: work-with-other-partners.md
-    - name: パートナー センターでの間接プロバイダーの作業
+    - name: 間接プロバイダーのタスク
       href: indirect-provider-tasks-in-partner-center.md
-    - name: パートナー センターでの間接リセラーの作業
+    - name: 間接リセラーのタスク
       href: indirect-reseller-tasks-in-partner-center.md
     - name: サポートされる CSP パートナー関係
       href: csp-supported-partner-relationships.md
