@@ -9,22 +9,26 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999806"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406365"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
+
+**適用対象**
+
+- パートナー センター
 
 **該当するユーザー**
 
 - ゲスト ユーザーを含むすべての有効なユーザー
 
-この記事では、[パートナーのセキュリティ要件](partner-security-requirements.md)に関してよく寄せられる質問をいくつか紹介します。
-
 ## <a name="partner-security-requirements"></a>パートナーのセキュリティ要件
+
+この記事では、[パートナーのセキュリティ要件](partner-security-requirements.md)に関してよく寄せられる質問をいくつか紹介します。
 
 ### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>パートナーのセキュリティ要件とは? パートナーが実装すべき理由とは?
 
@@ -32,7 +36,7 @@ ms.locfileid: "90999806"
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>重要なタイムラインとマイルストーンは何ですか?
 
-これらのセキュリティ要件に関連する条件は、2019 年の Microsoft Partner Agreement に記載されています。 CSP プログラムへの参加に継続して準拠するには、これらのセキュリティ要件をできるだけ早く実装する必要があります。
+タイムラインとマイルストーンを含むこれらのセキュリティ要件に関連する条件は、2019 年の [Microsoft Partner Agreement](microsoft-partner-agreement.md) に記載されています。 CSP プログラムへの参加に継続して準拠するには、これらのセキュリティ要件をできるだけ早く実装する必要があります。
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>これらのパートナー セキュリティ要件を実装しないとどうなりますか?
 
@@ -50,9 +54,9 @@ Microsoft Partner Agreement では、パートナーは、ユーザー アカウ
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>パートナーのセキュリティ要件を満たしているかどうかを知るにはどうすればよいですか?
 
-以下の手順を完了する必要があります
+次の手順を完了する必要があります。
 
-- [パートナーのセキュリティ要件](partner-security-requirements.md)に概説されているすべての要件を満たす必要があります
+- [パートナーのセキュリティ要件](partner-security-requirements.md)に概説されているすべての要件を満たす必要があります。
 - パートナー テナント内のすべてのユーザー アカウントに多要素認証を適用する必要があります。
 
 アクションを実行できる主要な領域を確認できるよう、パートナー センターから利用できる[セキュリティ要件状態](https://partner.microsoft.com/commerce/security/compliance)レポートが提供されています。
@@ -99,7 +103,7 @@ MFA は、ユーザーが複数の必要なセキュリティと検証の手順�
 
 - ユーザーが知っている情報 (一般にパスワード)
 - ユーザーの所持品 (複製が困難な、携帯電話などの信頼されているデバイス)
-- ユーザー個人を特定するもの (生体認証)
+- ユーザー自身 (生体認証)
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>MFA を有効にするとどのようなコストがかかりますか?
 
@@ -114,7 +118,7 @@ Microsoft では、Azure AD のセキュリティの既定値を実装するこ�
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>複数のパートナー テナントを使用して取引を行っています。 これらすべてに MFA を実装する必要がありますか?
 
-はい。CSP プログラムまたは アドバイザー プログラムに関連付けられている Azure Active Directory テナントごとに、MFA を適用する必要があります。 Azure Active Directory Premium ライセンスを購入する場合は、Azure Active Directory テナントの各ユーザーに対してライセンスを購入する必要があります。
+はい。CSP プログラムまたは アドバイザー プログラムに関連付けられている Azure Active Directory テナントごとに、MFA を適用する必要があります。 Azure Active Directory Premium ライセンスを購入するには、各 Azure Active Directory テナントのユーザーに対して Azure Active Directory ライセンスを購入する必要があります。 
 
 ### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>パートナー テナントの各ユーザー アカウントに MFA を適用する必要がありますか?
 
@@ -225,7 +229,7 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>同意プロセスを実行するとき、アプリケーション管理者がグローバル管理者のユーザー資格情報を提供してはならないのはなぜですか?
 
-最小限の特権の ID を使用してリスクを軽減することがベスト プラクティスとして推奨されます。 グローバル管理者特権を持つアカウントを使用することは、必要以上のアクセス権限が付与されることになるため、推奨されません。
+最小限の特権の ID を使用することがベスト プラクティスです。  これにより、リスクを軽減できます。 グローバル管理者特権を持つアカウントを使用することは、必要以上のアクセス権限が付与されることになるため、推奨されません。
 
 ### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>私は CSP パートナーです。 コントロール パネル ベンダー (CPV) がソリューションの実装作業を行っているかどうかを確認するには、どうすればよいですか?
 
@@ -296,7 +300,7 @@ Microsoft では、追加の保護を提供するために、多要素認証 (MF
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>AOBO を使用した顧客のサポートが MFA によってブロックされます。どうすればよいですか?
 
-パートナーのセキュリティ要件の技術的適用では、認証対象のアカウントで多要素認証が求められたかどうかが確認されます。 要求されなかった場合、ログイン ページにリダイレクトされ、再度認証するように求められます。 エクスペリエンスとガイダンスの詳細については、「[パートナー テナントに多要素認証 (MFA) を義務付ける](partner-security-requirements-mandating-mfa.md#partner-delegated-administration)」のドキュメントを確認してください。 ドメインがフェデレーションされていない場合は、認証が完了した後、多要素認証を設定するように要求されます。 それが完了すると、AOBO を使用して顧客を管理できるようになります。 ドメインがフェデレーションされている場合は、アカウントに対して多要素認証が求められることを確認する必要があります。
+認証されたアカウントで多要素認証が求められている場合、パートナーのセキュリティ要件の技術的適用が確認されます。 そのアカウントで求められていない場合は、サインイン ページにリダイレクトされ、再度認証するように求められます。 その他のエクスペリエンスとガイダンスについては、[パートナー テナントでの多要素認証 (MFA) の義務付け](partner-security-requirements-mandating-mfa.md#partner-delegated-administration)に関するドキュメントを参照してください。 ドメインがフェデレーションされていない場合は、認証が完了した後、多要素認証を設定するように要求されます。 それが完了すると、AOBO を使用して顧客を管理できるようになります。 ドメインがフェデレーションされている場合は、アカウントに対して多要素認証が求められることを確認する必要があります。
 
 ## <a name="security-defaults-transition"></a>セキュリティの既定値の移行
 
@@ -341,9 +345,11 @@ Azure Active Directory (Azure AD) [「ベースライン」ポリシーは削除
 
 Azure Active Directory の技術製品サポート オプションを、MPN 特典で利用できます。 アクティブな ASfP または PSfP サブスクリプションにアクセスできるパートナーは、関連付けられているアカウント マネージャー (SAM/TAM) と協力して、使用可能なオプションを最大限に理解することができます。
 
-### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>パートナー センターへのアクセスが失われた場合、サポートに問い合わせるにはどうすればよいですか?
+### <a name="how-do-i-contact-support-if-ive-lost-access-to-partner-center"></a>パートナー センターにアクセスできなくなった場合、サポートに問い合わせるにはどうすればよいですか?
 
-「[マイクロソフト パートナー サポート](https://partner.microsoft.com/support)」にアクセスし、 **[すべてのサポート オプションを表示する]** を選択します。 Microsoft パートナー サポートへの連絡に使用できるオプション (サポートに電話するための電話番号やサポートとチャットするためのオプションなど) が表示されます。
+MFA の問題が原因でアクセスできなくなった場合は、お客様のテナントのグローバル管理者にお問い合わせください。 グローバル管理者が誰であるかは、お客様の組織の IT 部門にお問い合わせください。 
+
+パスワードを忘れた場合は、[サインインできない場合](unable-to-sign-in.md)に関するヘルプ ページを参照してください。
 
 ### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>一般的な技術的問題に関する詳細情報はどこで入手できますか?
 

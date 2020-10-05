@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/16/2020
-ms.openlocfilehash: a2703a89bd1fa1b29948b2e8c1edfed22dba8ac1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 09/30/2020
+ms.openlocfilehash: 304514ed4210e2567e080b78b1c1ce135177d874
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999466"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591122"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月のお知らせ
 
@@ -23,6 +23,301 @@ ms.locfileid: "90999466"
 2020 年のお知らせ:[2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | 9 月
 
 ________________
+## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>パートナー センター ソフトウェア ライセンス キーおよびダウンロード フルフィルメントのお知らせ
+
+### <a name="categories"></a>Categories
+
+- 日付:2020 年 9 月 30 日
+- 機能
+ 
+### <a name="impacted-audience"></a>対象
+
+ソフトウェア オファーの取引を行うすべてのクラウド ソリューション プロバイダー (CSP) パートナー
+
+### <a name="details"></a>詳細
+
+現在、パートナー様は、CSP ソフトウェア注文のソフトウェア ダウンロードおよびライセンス キー フルフィルメントに、パートナー センターまたは Microsoft 365 管理センターを使用できます。 **2021 年 1 月 19 日**以降、パートナー センターのソフトウェアおよびライセンス キー フルフィルメント機能は廃止され、この目的では **Microsoft 365 管理センター**のみをパートナー様に使用していただくことになります。 パートナー センター内の [カスタマー ソフトウェア] ページには、顧客ライセンスとソフトウェア ダウンロードを取得できる Microsoft 365 管理センターへの "ディープ リンク" が含まれています。 これは、顧客向けの最も安全かつ効率的なエクスペリエンスを実現するのに役立ちます。
+
+ソフトウェア ライセンス キーとダウンロード リンクは、価値ある重要な知財資産です。 リークが生じると、それらのライセンス認証制限がすぐに枯渇し、顧客エクスペリエンスやパートナー エクスペリエンスに悪影響を及ぼす恐れがあります。 したがって、このような価値ある資産を保護し、顧客を保護していただくため、パートナー様に最も安全なテクノロジとベスト プラクティスを使用していただくことが重要になります。
+
+**Microsoft 365 管理センター**
+
+Microsoft 365 管理センターを使用すると、購入されたソフトウェアのセキュア配信を強化できます。また、顧客は、サブスクリプションの管理やセルフサービスを適宜行えるようになるため、カスタマー エクスペリエンスを向上できます。 この方法では、パートナー センターを使用する場合のような、ライセンス キーを直接顧客にコピーして送信することに伴うリスクを軽減できます。 追加のセキュリティ対策として、ソフトウェア キーやダウンロードへのアクセスと配信に関係するすべてのパートナー アクティビティが、パートナー センターのアクティビティ ログに記録されます。 このアクティビティ ログ機能を使用することにより、パートナー様は、注文作成、キーとダウンロードの取得、詳細な制御を行うためになされた内部ユーザー アクセスを追跡できるため、潜在的な不正行為のリスクを軽減できます。
+
+### <a name="next-steps"></a>次の手順
+
+- Microsoft 365 管理センター ソフトウェアの詳細については、[概要](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般的なタスク](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide)、[ライセンス キー フルフィルメント機能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)に関するページを参照してください。
+
+- この更新内容を、組織内の関連するチームと共有してください。
+
+### <a name="questions"></a>わからないことがある場合は、
+
+このお知らせに関するご質問は、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)にお問い合わせください。
+
+________________
+## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>クラウド ソリューション プロバイダー (CSP) プログラムの進化とオープン ライセンス プログラムの変更:パートナーおよびカスタマーのエクスペリエンス向上への取り組み
+
+### <a name="categories"></a>Categories
+
+- 日付:2020 年 9 月 30 日
+- 機能
+ 
+### <a name="impacted-audience"></a>対象
+
+CSP およびオープン プログラムのすべてのパートナー様
+
+### <a name="details"></a>詳細
+
+Microsoft CSP プログラムは、9 万を超える企業が参加するようになっており、急速に成長しています。 これは、中小規模の企業、および新しいコマース エクスペリエンスに参加するさらに小規模の企業顧客向けの、Microsoft の主要なパートナー セールス モーションとなっています。 この動向を受けて、Microsoft は本日、CSP プログラムに参加するパートナー様向けの機会の拡大を発表しました。 詳細については、[パートナー ブログ記事](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)を参照してください。
+
+### <a name="next-steps"></a>次の手順
+
+- [パートナー ブログ記事](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)を確認し、情報を組織内の関係者と共有してください。
+
+- オペレーション レディネス リソース コレクションの「[CSP プログラムの進化とオープン ライセンス プログラムの変更](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)」にあるレディネスに関する資料を参照してください。 概要プレゼンテーション、ライセンス ガイダンス、詳しいパートナー FAQ、その他多くの有用なリソースが提供されています。 こちらの[レディネス マップ](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf)を利用すると、ロールに適した情報をすばやく見つけることができます。
+
+### <a name="questions"></a>わからないことがある場合は、
+
+このお知らせに関するご質問は、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)にお問い合わせください。
+
+
+________________
+## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Azure プランのパートナー間での新しいサブスクリプション切り替えツールが利用可能 
+
+### <a name="categories"></a>Categories
+
+- 日付:2020 年 9 月 28 日
+- 機能
+
+### <a name="target-audience"></a>対象読者
+
+- CSP 直接請求パートナーおよび間接プロバイダーが、切り替えツールにアクセスできるようになります。  
+- リセラーは、間接プロバイダーと協力することができます。 プロバイダー向けの詳細な情報については、[こちら](https://partner.microsoft.com/resources/collection/transition-tool-azure-subscriptions-new-commerce-experience-csp#/)のリソースからご確認いただけます。 
+
+### <a name="summary"></a>まとめ
+
+2020 年 9 月 30 日以降、CSP プログラムに参加しているパートナー間で顧客の Azure サブスクリプションを自動的に転送できるようにする新しい切り替えツールが、Azure の新しいコマース エクスペリエンス (Azure プラン) で利用できるようになります。
+
+この切り替えツールは、Azure の新しいコマース エクスペリエンスを拡張し、Azure サブスクリプションの管理や、顧客の変化するビジネス ニーズのサポートに求められる柔軟性を向上させるもので、次の利点があります。  
+- Azure の切り替えを自動化する使いやすいツールで時間を節約できる  
+- 課金所有権の切り替え中に Azure サービスが中断されない 
+
+### <a name="key-capabilities-and-considerations"></a>主な機能と考慮事項
+
+- 切り替えは顧客の決定に基づき、両方のパートナーが明示的な操作を実行する場合にのみ行われます。  
+-   切り替えは瞬時に行われるため、顧客のダウンタイムや Azure サービスへの影響はありません。 
+-   パートナー センターのこのツール エクスペリエンスは、直接請求パートナーと間接プロバイダーが利用できます。 リセラーが間接プロバイダーに代わってこのツールを利用するには、間接プロバイダーと協力する必要があります。 
+
+### <a name="next-steps"></a>次のステップ: 
+
+-   [このパートナー ギャラリー ページ](https://partner.microsoft.com/resources/collection/transition-tool-azure-subscriptions-new-commerce-experience-csp#/)のリソースを参照してください。 
+-   チームをトレーニングし、新しい切り替えツールを使用する準備を開始します。 
+-   間接プロバイダーは、この切り替えプロセスについてリセラーをサポートします。 
+-   その他の質問については、サポートにお問い合わせください。 
+
+________________
+## <a name="testing-update-partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="14"></a>テスト更新:教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイスの機能強化 
+
+### <a name="categories"></a>Categories
+
+- 日付:2020 年 9 月 28 日
+- 機能
+ 
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じてアカデミック向けオファーを販売しているパートナー様
+
+## <a name="details"></a>詳細
+
+Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムにおけるアカデミック向けオファーの取引について、顧客検証のための法令に準拠した安全な手段の提供に努めています。 この取り組みの一環として、パートナー センター API とユーザー インターフェイスの機能強化を、2021 会計年度の第 2 四半期 (FY21 Q2) に導入する予定です。これにより、顧客の検証プロセスの明瞭性と可視性が向上します。 また、より正確なデータを入力できるようになるため、顧客検証の成功率が向上します。  
+
+### <a name="partner-center-enhancements"></a>パートナー センターの機能強化 
+
+- 新しい GET および POST Qualifications API により、正確なデータ入力がサポートされ、Microsoft による教育機関の顧客の検証プロセスが改善されます。 
+
+- ユーザー インターフェイスの機能強化によっても正確なデータ入力がサポートされ、Microsoft による教育機関の顧客の検証プロセスが改善されます。 
+
+### <a name="testing"></a>テスト 
+
+パートナー様は、2020 年 10 月からこれらの機能強化をテストできます。 顧客検証の成功に必要な API とデータ入力について理解を深めるため、この機会を活用されることを強くお勧めします。 正確なスケジュールと参加方法の詳細については、近日中にお知らせします。 既存のパートナー センター API は、FY21 Q2 末までに廃止されます。 その時点で、新しいパートナー センター API の使用に移行している必要があります。
+
+### <a name="testing-update"></a>テスト更新 
+
+パートナー テストの期間は、2020 年 10 月 2 日から 2020 年 12 月 2 日までです。 参加を希望するパートナー様は、[パートナー センターの教育機関の顧客向けテスト ガイド](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf)を参照して、準備やサインアップの方法、およびテスト段階に関する概要をご確認ください。
+
+### <a name="library-and-museum-customers"></a>図書館と博物館の顧客 
+
+上記の機能強化に加えて、FY21 Q2 中に、図書館および博物館の顧客向けにアカデミック価格のオファーを提供できるようになり、CSP オファーの取引対象となる教育機関の顧客が拡大することをお知らせいたします。 
+
+>[!Note]
+> Microsoft では、すべての顧客または提案された顧客の適格教育ユーザーとしての状態をレビューする権利を留保します。 詳細については、[アカデミック適格教育ユーザーの要件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)を参照してください。 
+
+## <a name="next-steps"></a>次の手順
+
+- パートナー センターの教育機関の顧客検証プロセスに関する機能強化について、オペレーション レディネス リソースを参照して、新しい[パートナー センター ユーザー インターフェイス、API の変更点、テスト ガイド](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)の概要をご確認ください。 
+
+- テストに参加するためにサインアップします (詳細については[テスト ガイド](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)を参照してください)。 
+
+- パートナー様の組織が[アカデミック適格教育ユーザーの要件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)について理解していることを確認します。 
+
+- この情報を組織内の該当するチームやリセラーと共有し、これらの変更内容に対して準備できるようにします。 
+
+## <a name="questions"></a>わからないことがある場合は、
+
+このお知らせについてご不明な点がある場合は、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)にお問い合わせください。
+
+## <a name="update---csp-o365-usage-apis-and-csp-license-usage-reports"></a><a name="13"></a>更新 - CSP O365 使用状況 API と CSP のライセンスの使用状況レポート 
+
+### <a name="categories"></a>Categories
+
+- 日付:2020 年 9 月 29 日
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+パートナー センターでクラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー様。 
+
+### <a name="summary"></a>まとめ 
+
+パートナー様が O365 の使用状況を測定しやすくなるように、CSP O365 使用状況 API で公開されているメトリックの定義が変更されます。 
+
+### <a name="details"></a>詳細
+
+これは、2020 年 9 月 17 日になされた[パートナー センターのお知らせ](https://docs.microsoft.com/partner-center/announcements/2020-september#8)の内容を更新するものです。 Microsoft では、この API の更新で下位互換性が確保され、パートナー様による統合の変更は行わずに済むように、今回の更新を進めています。 
+
+既に発表されているように、2020 年 9 月 30 日付で、CSP O365 使用状況メトリックが更新されます。 
+
+この変更に伴い、次の CSP ライセンス使用状況 API で使用可能なメトリックの定義が更新されます。 
+
+1. [ライセンスの使用情報 API](https://docs.microsoft.com/partner-center/develop/get-licenses-usage-information)
+
+2. [顧客ライセンスの使用情報 API](https://docs.microsoft.com/partner-center/develop/get-customer-licenses-usage-information)
+
+3.  [パートナー ライセンスの使用情報 API](https://docs.microsoft.com/partner-center/develop/get-partner-licenses-usage-information)
+
+更新された定義は以下のとおりです。 API スキーマは変更されていないため、新しい統合は必要ありません。 
+
+| **メトリック** | **更新された定義** |
+|---------|:---------|
+|licensesActive |過去 28 日間に使用されたライセンス数 |
+|licensesQualified |製品 SKU で使用可能な試用版および試用版以外のライセンス数 |
+|UsagePercent |適格ライセンスに対するアクティブなライセンスの割合 |
+|ProratedLicenseUsagePercent|パートナーごとに集計された適格ライセンスに対するアクティブなライセンスの割合  |
+
+### <a name="next-steps"></a>次のステップ:
+
+この情報を組織内の他の担当者と共有してください。
+________________
+
+## <a name="upcoming-russian-federal-law-vat-changes"></a><a name="12"></a>ロシア連邦法に基づく VAT の今後の変更点
+
+### <a name="categories"></a>Categories
+
+- 日付:2020 年 9 月 25 日
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+ロシアのボリューム ライセンス (VL)、Microsoft ビジネス ソリューション (MBS)、およびクラウド ソリューション プロバイダー (CSP) チャネル パートナー様
+
+### <a name="summary"></a>まとめ 
+
+ロシア連邦法 #265-FZ により導入された VAT の変更は、2021 年 1 月 1 日から適用されます。
+
+### <a name="details"></a>詳細
+
+2020 年 7 月 31 日付のロシア連邦法 #265-FZ により、ロシア税法第 149 条 2 項 26 号が変更されました。 この変更に伴い、ロシアでは、2021 年 1 月 1 日以降、**ロシアの**ソフトウェアおよび電子データベースの統合レジスタに**含まれていない**ソフトウェアおよび電子データベースに対する排他的 IP 権限の付与、そのようなソフトウェアおよびデータベースに対する使用権の付与 (更新プログラムとアップグレードを含む)、およびそれらに対するインターネット経由でのリモート アクセスの付与は、**VAT 免除の対象ではなくなります**。 
+
+**上記の変更後は、ロシアにおけるすべての無形 Microsoft 製品に対して、準拠法によって定められた VAT の税率が MIOL によって追加されることにご注意ください。**
+
+この変更に関するご質問は、次のようにしてサポート リクエストをお送りください。
+
+- ボリューム ライセンス:質問がある場合は、[Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) を使用するか Explore.ms 経由で地域オペレーション センターにお問い合わせください。 ご質問をできるだけ速やかに解決できるように、標準の CLT プロセスに注意深く従ってください。
+- MBS/Dynamics:パートナー様は、[PartnerSource Business Center の OCL ツール](https://businesscenter.mbs.microsoft.com/)を使用して、リクエストをログに記録してください。 
+- CSP:パートナー様は、[サポート リクエストをログに記録](https://partnercenter.microsoft.com/partner/support)してください。
+
+### <a name="next-steps"></a>次のステップ:
+
+必要に応じて、この情報を組織全体で共有してください。 Microsoft では、税についてお客様にアドバイスすることはできません。 この変更がお客様のビジネスに与える影響については、お客様ご自身の税務アドバイザーにお問い合わせください。 
+________________
+
+## <a name="partner-center-insights--your-single-reporting-resource-for-understanding-your-business-with-microsoft"></a><a name="10"></a>パートナー センターの Insights – Microsoft とのビジネス状況を把握できる単一のレポート リソース。
+
+### <a name="categories"></a>Categories
+
+- 日付:2020 年 9 月 23 日
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+Microsoft Partner Network 内の全パートナー組織。 
+
+### <a name="summary"></a>まとめ 
+
+パートナー センターの Insights は、廃止される **MyInsights** レポート作成ツールに取って代わるものです。 パートナー センターの Insights では、充実したビジュアル、豊富な分析情報をもたらすレポート機能、顧客、サブスクリプション、ライセンスの使用状況、リセラー パフォーマンス、トレーニング、コンピテンシー、特典を網羅した KPI が用意されています。 これらのインテリジェントな分析情報を活用することにより、Microsoft とのビジネス状況を明確に把握し、データに基づく意思決定を自信を持って行うことができます。 開始するには、パートナー センターの左側のナビゲーション メニューから **[Insights]** を選択します。
+
+**MyInsights** は、2020 年 9 月 30 日以降は使用できなくなります。 
+
+### <a name="what-is-insights"></a>Insights とは
+
+パートナー センターの Insights ダッシュボードでは、Office 365、Azure、Dynamics 365 などのクラウド製品や、クラウド ソリューション プロバイダー (CSP)、エンタープライズ契約 (EA) などのライセンス モデルでの、ご自分のパートナー組織の主要業績評価指標 (KPI) を、統合してあらゆる角度から見ることができます。 新機能が継続的に追加されており、すべてのレポートが[生データのエクスポート](https://docs.microsoft.com/partner-center/pci-download-reports)をサポートしているため、ビジネス ニーズに基づいてアドホック データ分析を実行できます。 パートナー センターの[エグゼクティブ レポート ビューアーとレポート ビューアー](https://docs.microsoft.com/partner-center/pci-roles)の 2 つのレポート ロールにより、組織内での Insights のアクセスと使用状況をより適切に管理できます。
+
+最近追加されたレポート:
+
+- [リセラー パフォーマンス レポートとデータ エクスポート](https://docs.microsoft.com/partner-center/pci-resellers-performance):CSP 間接プロバイダーに対して、そのプロバイダーのさまざまな間接リセラーのパフォーマンスの概要を提供します。
+
+- [顧客営業案件レポートとデータ エクスポート](https://docs.microsoft.com/partner-center/pci-customer-opportunities):顧客の Microsoft 製品の購入傾向に関する概要を提供します。
+
+Insights で利用可能なレポートの完全な一覧については、[こちら](https://docs.microsoft.com/partner-center/partner-center-insights)を参照してください。
+
+### <a name="next-steps"></a>次のステップ:
+
+- [パートナー センターの Insights ページ](https://docs.microsoft.com/partner-center/partner-center-insights)に時折アクセスして、レポート機能の更新内容や機能強化についてご確認ください。
+
+- これらの新機能を確認し、 [Insights] タブのインライン フィードバック ツールからフィードバックの共有をお願いいたします。
+
+________________
+
+## <a name="sdk-release-on-net-standard-v1162"></a><a name="11"></a>.NET Standard (v1.16.2) の SDK リリース
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-09-22
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+パートナー センターの .NET SDK を使用している、CSP プログラムに参加している直接請求パートナーと間接プロバイダー。
+
+### <a name="summary"></a>要約
+
+2020 年 9 月 22 日より、パートナー様は、更新された**パートナー センター SDK GitHub の公開サンプル**と共に、.NET Standard SDK Microsoft パートナー センターの .NET SDK v1.16.2 バージョンのダウンロードを開始できます。
+
+### <a name="details"></a>詳細
+
+[Microsoft パートナー センター .NET SDK](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2) v1.16.2 の一般提供が開始されました。 更新された [GitHub サンプル](https://github.com/Microsoft/Partner-Center-DotNet-Samples)もご利用いただけます。 このバージョンには、次の変更が含まれています。
+
+- 監査レコードに対してサポートされている操作の種類を更新します。 新しく追加されたものについては、「[監査リソース](/partner-center/develop/auditing-resources)」を参照してください
+  - CreateSelfServePolicy
+  - UpdateSelfServePolicy
+  - DeleteSelfServePolicy
+  - RemovePartnerRelationship
+  - DeleteTipCustomer
+  - CreateRelatedReferral
+  - UpdateRelatedReferral
+
+- サービス要求の作成は非推奨になりました
+- サポート トピックは非推奨になりました
+
+### <a name="next-steps"></a>次の手順
+
+- 最新バージョンの [.NET SDK v1.16.2](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2) をダウンロードします
+- バージョン: .NET SDK v1.16.2
+- サンプル コード:[サンプル コード](https://github.com/microsoft/Partner-Center-DotNet-Samples)
+- 一般提供:2020 年 9 月 22 日
+
+________________
+
 
 ## <a name="announcing-the-general-availability-of-azure-sql-edge"></a><a name="9"></a>Azure SQL Edge の一般提供を発表
 
@@ -93,7 +388,7 @@ ________________
 この情報を組織内の他の担当者と共有してください。 詳細については、[オペレーション ギャラリー](https://partner.microsoft.com/resources/collection/upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports#/)をご覧ください。
 ________________
 
-## <a name="indirect-reseller-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>間接リセラー MPA の更新: MPA API と新しい MPA レポートのユーザーに必要な操作
+## <a name="indirect-reseller-microsoft-partner-agreement-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>間接リセラーの Microsoft Partner Agreement (MPA) の更新。 MPA API と新しい MPA レポートのユーザーに必要な操作
 
 ### <a name="categories"></a>Categories
 
