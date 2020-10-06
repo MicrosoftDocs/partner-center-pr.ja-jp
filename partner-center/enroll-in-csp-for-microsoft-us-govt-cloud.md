@@ -9,13 +9,13 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.date: 06/30/2020
-ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 10/05/2020
+ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999916"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763352"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録
 
@@ -65,7 +65,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 1. アプリケーションの承認メールに記載されているリンクから、米国政府機関向け Microsoft Cloud のパートナー センターにサインインします。
 
-2. **[契約]** ページで条項を読み、同意する場合は **[同意して続行する]** を選択して[米国政府機関向け Microsoft Cloud のリセラー契約](https://go.microsoft.com/fwlink/p/?linkid=843364)にデジタル署名します。 アカウントの作成には数時間かかる場合があります。 米国政府向け Microsoft Cloud のパートナー センターからサインアウトして、後でもう一度サインインします。
+2. [ **アグリーメント** ] ページで、条項を読み、同意する場合は、[ **同意して** 、米国政府機関向け Microsoft Cloud のために、リセラー契約にデジタル署名する] を選択します。 アカウントの作成には数時間かかる場合があります。 米国政府向けの Microsoft Cloud をパートナーセンターからサインアウトし、後でもう一度サインインすることができます。
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>手順4 - 米国政府機関向け Microsoft Cloud 用 Microsoft Azure 管理ポータルで、ユーザーを管理エージェントのロールに割り当てる
 
@@ -80,11 +80,11 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 ## <a name="connect-with-us"></a>お問合せ
 
-- わからないことがある場合は、 マイクロソフトにメールを送信する (azgovcsp@microsoft.com)
+- 疑問がある場合 マイクロソフトにメールを送信する (azgovcsp@microsoft.com)
 
 - [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777) に参加する
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
 
