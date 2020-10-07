@@ -1,7 +1,7 @@
 ---
 title: パートナーのセキュリティ要件
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 多要素認証 (MFA) を有効にして、セキュア アプリケーション モデル フレームワークを採用するためのパートナーの要件を紹介します。
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 507c1e579c649ed743af58e2ca167ae016f6e9b6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000026"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763346"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>パートナー センターまたはパートナー センター API を使用するパートナー向けの、パートナーのセキュリティ要件
 
@@ -100,7 +100,7 @@ IMAP、POP3、SMTP などのプロトコルを使用する以前の多要素認�
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>パートナー テナントに関連付けられたライセンスによって提供される Office 365 を使用しているユーザーがいますか。
 
-ソリューションを実装する前に、パートナー テナントのユーザーによって使用されている Microsoft Office のバージョンを確認することをお勧めします。 アクションを実行する前に、[Office 365 デプロイの多要素認証の計画](/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)に関するトピックをご覧ください。 Outlook などのアプリケーションで接続の問題が発生する可能性があります。 多要素認証を適用する前に、Outlook 2013 SP1 以降が使用され、組織で先進認証が有効になっていることを確認することが重要です。 詳細については、「[Exchange Online で先進認証を有効にする](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)」を参照してください。
+ソリューションを実装する前に、パートナー テナントのユーザーによって使用されている Microsoft Office のバージョンを確認することをお勧めします。 Outlook などのアプリケーションで接続の問題が発生する可能性があります。 多要素認証を適用する前に、Outlook 2013 SP1 以降が使用され、組織で先進認証が有効になっていることを確認することが重要です。 詳細については、「[Exchange Online で先進認証を有効にする](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)」を参照してください。
 
 Windows が実行され、Microsoft Office 2013 がインストールされているデバイスで先進認証を有効にするには、2 つのレジストリ キーを作成する必要があります。 「[Windows デバイスで Office 2013 の先進認証を有効にする](/office365/admin/security-and-compliance/enable-modern-authentication)」を参照してください。
 
