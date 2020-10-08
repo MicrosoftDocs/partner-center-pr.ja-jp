@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2055658d57d077c22e46c36241e4aa46db36af5a
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 93b312341457038b1399dc77a343a6b323dd75bd
+ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663813"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91772248"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,10 @@ ms.locfileid: "91663813"
 
 | **カテゴリ** | **2020 年 10 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[Microsoft Teams Rooms Premium SKU の発売](2020-october.md#7)|10 月 5 日|
+|製品サービス/市場|[Microsoft の通話プランが、新しい市場で利用できるようになりました](2020-october.md#6)|10 月 2 日|
+|製品サービス/市場|[Microsoft Teams の高度なコミュニケーションのプロモーションが近日公開予定](2020-october.md#5)|10 月 2 日|
+|製品サービス/市場|[Dynamics 365 の今後の新しいプランと製品](2020-october.md#4)|10 月 2 日|
 |製品サービス/市場|[クラウド ソリューション プロバイダー (CSP) パートナーが Windows 7 Year 2 拡張セキュリティ更新プログラム (ESU) を利用可能に](2020-october.md#3)|10 月 1 日|
 |製品サービス/市場|[新しい SKU が、お客様に Project Cortex の力をもたらします](2020-october.md#2)|10 月 1 日|
 |機能|[会計年度 2021 (FY21) のクラウド ソリューション プロバイダー (CSP) のインセンティブ プログラムのお知らせ](2020-october.md#1)|10 月 1 日|
