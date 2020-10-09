@@ -1,42 +1,60 @@
 ---
 title: パートナー アカウントで場所を管理する
 ms.topic: article
-ms.date: 06/16/2020
+ms.date: 10/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: パートナー センターで、新しい場所を追加する方法や、所在地 MPN ID がインセンティブ プログラム、CSP ビジネス、サブスクリプションなどのトランザクションでどのように使用されるかについて説明します。
+ms.subservice: partnercenter-mpn
+description: 新しい場所を追加する方法や、所在地 MPN ID がインセンティブ プログラム、CSP ビジネス、サブスクリプション、その他のトランザクションでどのように使用されるかについて説明します。
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436871"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663899"
 ---
-# <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>パートナー センターでのパートナー アカウントの場所の管理と新しい場所の追加
+# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN アカウントの所在地を管理し、新しい場所を追加する
+
+**適用対象**
+
+- パートナー センター
 
 **適切なロール**
-- グローバル管理者
-- ユーザー管理者
-- 課金管理者
-- 管理エージェント
-- 販売代理店
 
-場所 MPN ID では、パートナー企業の特定の場所が示されます。 場所 MPN ID を使用して、インセンティブ プログラムに登録し、クラウド ソリューション プロバイダー (CSP) ビジネスの取引を行い、新しいサブスクリプションを追加し、他のビジネス トランザクションを行います。 会社 MPN ID は、サポート要求などの非トランザクション アクティビティに使用されます。
+- グローバル管理者
+- アカウント管理者
+
+所在地 MPN ID では、貴社の特定の各場所が示されます。 所在地 MPN ID を使用して、インセンティブ プログラムに登録し、クラウド ソリューション プロバイダー (CSP) ビジネスの取引を行い、他のビジネス トランザクションを行います。 グローバル MPN ID は、サポート リクエストなどの非トランザクション アクティビティに使用されます。
 
 ## <a name="the-following-is-a-typical-scenario"></a>一般的なシナリオを示します。
 
-パートナー企業は、CSP ビジネスと発行ビジネスを行うことができます。 その CSP ビジネスは複数のロケールで行うことができ、発行ビジネスは他のロケールで行うことができます。登録済みの法的ビジネスでは、ユーザーの追加やサポート要求のログ記録など、すべての非トランザクション ビジネスを管理するために 1 つの MPN ID を使用しています。
+Contoso のパートナー グローバル アカウント (PGA) の場所はイギリスです。 これは、登録された法的な事業所であり、すべての非トランザクション ビジネスを管理するために使用する MPN ID が 1 つあります。 Contoso には、イギリスの別の場所、フランス、米国にある子会社または部門に相当するパートナー ロケーション アカウント (PLA) もあります。 MPN アカウントの構造では、これらの PLA は一意の所在地 MPN ID として表現されます。 PLA は、CSP またはインセンティブ プログラムなどのトランザクション ビジネスに使用されます。 支払いは、特定の場所に関連付けられます。 
 
+>[!NOTE]
+>CSP テナントと MPN 所在地 ID の間には 1 対 1 の関係があります。
 
-それぞれの場所には、CSP やインセンティブ プログラムなどのトランザクション ビジネスに使用される MPN ID があります。 支払いは、特定の場所に関連付けられます。
+:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="MPN 所在地の構造":::
 
-ユーザーは場所をまたがってロールを持つことができます。 たとえば、インセンティブ管理者は、ヨーロッパのすべての場所でそのロールを持つことができます。
+## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>CSP ビジネスの新しい場所を追加するための前提条件
 
-## <a name="to-add-a-location"></a>場所を追加するには
+新しい CSP 事業拠点を追加するには、いくつかの前提条件があります。
+
+1. ビジネスを遂行する国に、所在地 MPN ID が必要です。
+
+1. CSP にまだ登録されていないビジネス リージョンには、新しい Azure AD テナントが必要です。 CSP に登録するときに、これを作成してください。
+ 
+3. 新しい AAD テナントを使用して、リージョンの CSP プログラムに登録します。
+法的企業名、住所、主要連絡先の詳細など、会社の法的な詳細情報を提供します。 このアカウントは検証されるため、必ず有効な情報を追加してください。
+
+>[!NOTE] 
+ >必ず、**新しい** Azure AD テナントの**新しい**資格情報でサインインするようにしてください。 既存の資格情報を使用しないでください。既にアカウントを持っているものとしてパートナー センターに認識されてしまいます。
+
+4. Microsoft Partner Agreement に同意し、アカウントをアクティブ化します。
+
+## <a name="add-a-location"></a>場所を追加する
 
 1. **設定アイコン**から **[Partner settings]\(パートナーの設定\)** を選択します。
 
@@ -49,16 +67,20 @@ ms.locfileid: "86436871"
 > [!NOTE]
 > パートナー センターで追加した場所は削除できません。
 
-## <a name="change-legal-headquarters-location"></a>法的な本社の場所を変更する
+## <a name="change-global-partner-account-location"></a>グローバル パートナー アカウントの場所を変更する
 
 1. **[場所]** ページで場所の一覧を確認して、法人にしようとしている場所が一覧表示されていることを確認します。 ない場合は、追加します。
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="現在のすべての場所の一覧が表示されている、パートナー センターのアカウントの場所ページのスクリーンショット。":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="MPN 所在地の構造":::
 
 2. **[パートナー プロファイル]** を選択してから、 **[Update legal business profile] (法的ビジネス プロファイルの更新)** を選択します。
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="パートナー センターのアカウント パートナー プロファイル情報を示すスクリーンショット。[更新] オプションが選択可能になっています。":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="MPN 所在地の構造":::
 
 3. 地域と法人を選択し、その **[送信]** を実行します。
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="パートナーの法的ビジネス プロファイルを更新する画面のスクリーンショット。国または地域と法人を更新するためのドロップダウン リストが表示されています。":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="MPN 所在地の構造":::
+
+## <a name="next-steps"></a>次のステップ
+
+- [検証プロセス](verification-responses.md)に関する詳細情報。

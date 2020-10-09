@@ -1,7 +1,7 @@
 ---
 title: 会社のグローバル管理者になる
 ms.topic: how-to
-ms.date: 05/04/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで作業するには、まずドメインの所有権を確認する必要があります。 これを行う方法と、ユーザーを追加できるグローバル管理者になる方法について説明します。
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd2f47675cc60442390eb3394d7257d971c0e234
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: abec236f4856fdbfbcaa9654623c5f00b9a47584
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527388"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663803"
 ---
-# <a name="verify-your-domain-ownership"></a>ドメインの所有者の確認
+# <a name="verify-your-domain-ownership-to-become-global-admin"></a>ドメインの所有権を確認してグローバル管理者になる 
 
 **適用対象:**
 
@@ -25,15 +25,20 @@ ms.locfileid: "87527388"
 **適切なロール**
 
 - グローバル管理者
+- アカウント管理者
 
-パートナーの会社がパートナー センターに初めてサインインするときは、通常、パートナー センターで作業を始めるために必要なロールが従業員に割り当てられていません。 パートナー センターで作業するすべてのユーザーに、アクセス許可を含むロールが割り当てられている必要があります。  
+パートナー様の会社がパートナー センターで初めてアカウントを作成したときは、通常、作業を始めるために必要なロールが従業員に割り当てられていません。  パートナー センターで作業するすべてのユーザーに、アクセス許可を含むロールが割り当てられている必要があります。  
 
-会社に資格のある特典を購入したり、新しいユーザーを追加してロールを割り当てたり、パートナー センターで他のタスクを行ったりできるためには、ドメインの所有権を確認する必要があります。
+## <a name="find-the-companys-global-admin"></a>会社のグローバル管理者を見つける
 
->[!Note]
->たとえば、会社のグローバル管理者は、クラウド サービスを管理する管理者です。 会社にグローバル管理者はいるけれども、誰かわからない場合は、パートナー センターの右上にある**設定アイコン**から、 **[ユーザー管理]** を選択します。 [ユーザー管理] に移動してグローバル管理者でフィルター処理することにより、連絡するグローバル管理者が見つかります。
+1. パートナー センターの右上にある **[設定] アイコン**から、 **[ユーザー管理]** を選択します。
 
-## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>ドメインの所有権を確認し、パートナー センターでグローバル管理者になる
+1. 検索ボックスでグローバル管理者をフィルター処理します。 会社のグローバル管理者の一覧が表示されます。 会社にまだグローバル管理者がいない場合は、次の手順に従ってください。
+
+
+## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>ドメインの所有権を確認し、パートナー センターでグローバル管理者になる
+
+会社のグローバル管理者になるには、ドメインの所有権を確認する必要があります。
 
 1. パートナー センター ダッシュボードの **[メンバーシップ オファー]** ページから、 **[全体管理者になる]** を選択します。 
 

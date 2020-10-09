@@ -1,7 +1,7 @@
 ---
 title: PMC からパートナー センターに移行する
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner Membership Center (PMC) からパートナー センターに会社を移行する方法について説明します。
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c863f8b0942b38bab80cd97e72a85935bde2ba7c
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000566"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663833"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC からパートナー センターに移行するためのガイド
 
@@ -53,7 +53,7 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 >[!NOTE]
 >中国内のパートナーであり、Microsoft Partner Network とクラウド ソリューション プロバイダー (CSP) プログラムの両方に登録されている場合は、アカウントごとに個別のテナントが作成されます。 クラウド ソリューション プロバイダー プログラムのアカウントは国内クラウドで管理され、Microsoft Partner Network アカウントはグローバル クラウドで管理されます。 これらの 2 つのアカウントをリンクすることはできません。
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="あなたの会社について教えてください":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="作業開始":::
 
 情報を確認または更新したら、 **[同意して続行する]** を選択します。
 このページの使用条件は、PMC で会社が既にサインインしている契約と**まったく同じ**です。  
@@ -71,7 +71,7 @@ PMC で移行が開始されます。 全体管理者は、移行を開始する
 
 新しい Azure AD テナントが作成されたら、パートナー センターにサインインするように従業員を招待できます。
 
-:::image type="content" source="images/migration/invite.png" alt-text="従業員を招待する":::
+:::image type="content" source="images/migration/invite.png" alt-text="作業開始":::
 
 既存の AAD テナントを使用してサインインした場合は、従業員も一緒に移動されます。 この場合は、パートナー センターで何ができるかを決定するために従業員のロールを割り当てます。 
 
@@ -84,11 +84,11 @@ AAD テナントが新しい場合は、全体管理者のロールが誰にも�
 
 購入済みのプランを使用することはできますが、全体管理者を割り当てるための手順を完了するまでは、新しいプランを購入することができません。
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="管理する":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="作業開始":::
 
 [Get started]\(開始する\) を選択すると、次の画面が表示されます。
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="ドメインの所有者を確認する":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="作業開始":::
 
 ドメイン レジストラーは既に自動入力されています。 ドメイン所有者だけが DNS ファイルを更新できます。そのため、テキスト ファイルをコピーして DNS レコードに追加することで、自分が所有者であることを確認できます。 更新が行われるまで数分かかります。 パートナー センターからサインアウトしてから、もう一度サインインする必要があります。 ロールが全体管理者に変更されています。
 
@@ -96,9 +96,21 @@ AAD テナントが新しい場合は、全体管理者のロールが誰にも�
 
 ダッシュボードのツアーを開始します。 ここでは、**ダッシュボード**を選択することでいつでも、メンバーシップの管理、紹介用のビジネス プロファイルの追加、クラウド ソリューション プロバイダー プログラムへの登録、ビジネスに関連する通知とプランの確認を行うことができます。 また、インセンティブの管理、マーケットプレースでの購入、市場投入サービスへのサインアップなども行うことができます。  
 
-:::image type="content" source="images/migration/fre.png" alt-text="ツアーを開始する":::
+:::image type="content" source="images/migration/fre.png" alt-text="作業開始":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="sign-the-microsoft-partner-agreement"></a>Microsoft Partner Agreement に署名する
+
+間接リセラーの場合は、パートナー センター アカウントを設定した後、クラウド ソリューション プロバイダー プログラムに正式に登録する必要があります。 メンバーシップの状態を確認するには、[パートナー プロファイル](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)にアクセスして、アカウントの種類を確認してください。 その後、[間接リセラー](enrolling-in-the-csp-program.md)として CSP に登録します。
+
+ 間接リセラーとして登録したら、[間接プロバイダーとの CSP 関係の要求](indirect-reseller-tasks-in-partner-center.md)に同意します。
+
+次に、グローバル管理者の資格情報を使用して、パートナー センターの[ダッシュボード](https://partner.microsoft.com/pvc/dashboard)の概要で Microsoft Partner Agreement に同意してください。 パートナー プロファイルの [プログラム情報] セクションで、Microsoft Partner Agreement に署名したことを確認します。 また、[CSP の概要] ページに確認バナー通知が表示されます。 
+
+## <a name="next-steps"></a>次のステップ
+
+- [グローバル管理者を見つける](become-global-admin.md)
+
+- [Microsoft Partner Agreement](microsoft-partner-agreement.md)
 
 - [ユーザー アカウントの作成](create-user-accounts-and-set-permissions.md)
 
