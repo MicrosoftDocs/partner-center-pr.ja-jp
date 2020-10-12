@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: bd1b9b3fabc9e06cc368e75ba8479e3a38a843d5
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
+ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114824"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "91899230"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>地域と言語別の Microsoft 顧客契約
 
@@ -127,11 +127,11 @@ Microsoft 顧客契約は地域固有であり、複数の言語で利用でき�
     
     ドイツでは、刑法 (セクション 203) および職業倫理規定により、特定のクライアント関係の機密性を維持する必要があります (たとえば、患者とその医師との関係、弁護士とそのクライアントの関係)。 これらの職業グループは、職業上の秘密を保証する必要があります。 これらおよびその他の専門的職業がクラウド ソリューション プロバイダーからクラウド ベースのサービスを購入する場合、クラウド サービス プロバイダーは職業上の秘密を保証する書面による契約を顧客と締結する必要があります。
 
-    ドイツでビジネスを行う場合、Microsoft Cloud 契約にこの職業上の秘密を盛り込んだ修正版を顧客に提供する必要が生じる場合があります。
+    ドイツでビジネスを行う場合、Microsoft 顧客契約に加えてこの職業上の秘密を盛り込んだ契約を顧客に提供することが必要な場合があります。
 
-  - [ドイツ向け、職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+  - [ドイツ向け、職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (EN)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GKou)
 
-  - [ドイツ向け、職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+  - [ドイツ向け、職業上の秘密を盛り込んだ Microsoft Cloud 契約修正版 (DE)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GI29)
 
 - ジブラルタル: [英語](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - ギリシャ: [英語](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[ギリシャ語](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
