@@ -9,18 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/05/2020
-ms.openlocfilehash: 36577ea1c64a75802602613628e5ff59fa9e6eb4
-ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
+ms.openlocfilehash: 55aba7d13e781cb4edf65f086e2240c798a5d5fe
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91772258"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844666"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月のお知らせ
 
 このページでは、2020 年 10 月の Microsoft パートナー センターのお知らせについて詳しく説明します。
 
 2020 年のお知らせ:[3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
+
+________________
+
+## <a name="simplified-azure-apps-experience-in-azure-marketplace"></a><a name="8"></a>Azure Marketplace での簡易化された Azure アプリ エクスペリエンス
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-10-07
+- 機能
+ 
+### <a name="summary"></a>まとめ 
+
+Azure のすべてのアプリケーションで、Azure portal のユーザー エクスペリエンス (UX) が最近変更されました。 これは、予期すべきことと、次のステップとに関する、独立系ソフトウェア ベンダー (ISV) 向けの最新情報です。
+
+### <a name="impacted-audience"></a>対象
+
+Azure アプリを発行するすべての ISV
+
+### <a name="details"></a>詳細
+
+Azure portal における Azure アプリの UX が簡易化されました。
+
+このメールは、Azure Marketplace で Azure アプリケーション (ソリューション テンプレートおよびマネージド アプリ) を発行した、または発行するためにサインアップしたお客様にお送りしています。
+
+顧客による Azure アプリケーションの使用と管理の方法を改善するために、[Azure portal](https://ms.portal.azure.com/) にいくつかの変更が加えられました。 顧客のドキュメントと参照資料に新しいエクスペリエンスが確実に反映されるよう、**確認と更新を行ってください**。
+Azure portal の新機能を次に示します。
+
+- 前のセクションを完了しなくても、どのセクションでも情報を表示、編集、保存できる柔軟なナビゲーション。
+- 複数の入れ子レベルのない新しい全体表示。
+- Azure リソースにタグを付けて整理するための新機能。 タグ付けの詳細については、[タグを使用した Azure リソースの整理](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources)に関する記事をご覧ください。
+
+これらの変更内容に関するご質問がありましたら、[サポート チーム](https://aka.ms/marketplacepublishersupport)にお問い合わせください。
+
+### <a name="next-steps"></a>次のステップ
+
+顧客のドキュメントと参照資料に新しいエクスペリエンスが確実に反映されるよう、確認と更新を行ってください。
 
 ________________
 
@@ -203,7 +239,7 @@ Microsoft Teams と任意の Microsoft 365/Office 365 スイート。
 - [Teams パートナー ガイド](https://aka.ms/teamscallingmeetingsguide)のリソースに関するセクションを参照してください。
 - Microsoft Teams のプロモーション オファーに関する追加情報は、[このブログ](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/)、または [Office 365 パートナー Yammer グループ](https://www.yammer.com/office365partners/)からご覧いただけます。
 
-## <a name="questions"></a>疑問がある場合
+### <a name="questions"></a>疑問がある場合
 
 これらのオファーに関するご質問がある場合は、Microsoft アカウント チームまたはサポートの担当者にお問い合わせください。
 
@@ -246,7 +282,7 @@ ________________
 
 CSP プログラムに参加しているすべてのパートナー
 
-### <a name="details"></a>詳細情報
+### <a name="details"></a>詳細
 
 Windows 7 のサポートは 2020 年 1 月 14 日に終了しました。 多くの顧客は Windows 10 を展開しようとしているところですが、Microsoft はアップグレードの進捗状況が顧客によって異なることを理解しています。 Windows 7 Year 1 ESU の有効期間が 2021 年 1 月 12 日に終了するため、翌年の計画を開始している顧客がおられることでしょう。  
 

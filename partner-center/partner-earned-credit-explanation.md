@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3ceb2ded6e52083ad0d74a411026558fbce2f642
+ms.sourcegitcommit: 883c332a10f51b41b72c2f3fe08bb9593b569d28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999866"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91852587"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>パートナー獲得クレジットの計算方法と支払方法
 
@@ -40,7 +40,7 @@ ms.locfileid: "90999866"
 
 - 対象となるサービス:パートナー獲得クレジットは、パートナーが [Azure プランの価格](https://partner.microsoft.com/commerce/sales)ページからエクスポートできる **Azure プランの従量課金価格**に記載されているサービスに適用されます。 パートナー獲得クレジットは、Azure プラン従量課金価格表の **[タグ] 列**に**サード パーティ**と記載されているサード パーティ製品、Azure プラン予約、Marketplace 価格表に記載されている製品、[Azure スポット仮想マシン](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)には適用されません。
 
-- PEC は日単位で計算され、毎日の使用状況ファイルと毎月の請求調整ファイルで確認できます。 パートナー (間接プロバイダーまたは間接リセラー) が PEC を確実に取得するには、終日 (24 時間 365 日) のアクセス権を持っている必要があります。  
+- PEC は日単位で計算され、毎日の使用状況ファイルと毎月の請求調整ファイルで確認できます。 パートナー (間接プロバイダーまたは間接リセラー) が PEC を確実に取得するには、終日 (24 時間 365 日) のアクセス権を持っている必要があります。 PEC は、マネージド Azure 資産を対象として 1 日単位で計算されます。 特定の請求期間 (月) に対する最大 PEC は 15% です。 パートナーは、永続的な特権アクセスを月中ずっと保持し (アクセスの期間)、かつそれがすべての対象リソースに及ぶなら (アクセスの範囲)、15% の全 PEC を獲得します。 範囲と期間が減ると、その月の PEC レートは低くなります。 毎日評価される使用量ファイルには、特定の Azure 資産について PEC が適用されているかどうかが 1 日単位で示されます。 パートナーは、永続的な特権アクセスに対する変更があるかどうかを検出するアラートに登録することもできます。
 
 - PEC は、Azure リソース レベルで獲得されます。 パートナーがサブスクリプションまたはリソース グループ レベルで有効なアクセス権を持っている場合は、上位のエンティティにまとめられるリソースごとに PEC が獲得されます。  
 
