@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 71bfb819b0ce928d064bebe685664412a5eac689
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527238"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006725"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>パートナー センターで新しい顧客レコードを追加する方法
 
@@ -40,7 +40,7 @@ ms.locfileid: "87527238"
 
 1. パートナーセンターのメニューから **[顧客]** を選択し、**[顧客の追加]** を選びます。
 
-2. [**アカウント情報**] ページで、顧客の詳細情報と主要な連絡先情報を入力します。 お客様が最新の[Microsoft カスタマーアグリーメント](agreements.md)に同意して署名していることも確認します。
+2. [ **アカウント情報** ] ページで、顧客の詳細情報と主要な連絡先情報を入力します。 お客様が最新の [Microsoft カスタマーアグリーメント](agreements.md)に同意して署名していることも確認します。
 
    >[!NOTE]
    >
@@ -56,9 +56,9 @@ ms.locfileid: "87527238"
   
 3. 間接プロバイダーの場合は、この顧客のサブスクリプションに関連付ける間接リセラーを一覧から選択します。
 
-4. すべての必要な情報の入力が完了したら、[**次へ: サブスクリプション**] を選択します。
+4. すべての必要な情報の入力が完了したら、[ **次へ: サブスクリプション** ] を選択します。
 
-5. [**サブスクリプション**] ページで、顧客が購入するプランを選択し、ライセンスの数を入力して、[**次へ**] を選択します。
+5. [ **サブスクリプション** ] ページで、顧客が購入するプランを選択し、ライセンスの数を入力して、[ **次へ**] を選択します。
 
 6. **[レビュー]** ページで、入力が正しいことを確認し、情報が正しい場合は **[送信]** を選択します。
 
@@ -71,4 +71,3 @@ ms.locfileid: "87527238"
 
 - Cloud Solution Provider プログラムを使用して顧客に販売できるものの詳細については、「 [Cloud Solution provider プログラムのパートナープラン](csp-offers.md)」を参照してください。
 
-- 新しい顧客をパートナーアカウントに関連付ける方法の詳細については、「 [customers との接続](customer-accounts.md)」を参照してください。

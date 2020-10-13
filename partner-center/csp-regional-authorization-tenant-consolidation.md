@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000376"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006777"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP の地域承認によるテナント統合の手順
 
@@ -146,6 +146,6 @@ Office 365 CSP サブスクリプションとは異なり、Azure では、使�
 
 API 登録の詳細については、「 [パートナーセンターでの api アクセスの設定](/partner-center/develop/set-up-api-access-in-partner-center)」を参照してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- [パートナー センターでリセラー パートナーの顧客アカウントのセットアップと管理を行う](customer-accounts.md)
+- [クラウドソリューションプロバイダープログラムの地域市場と、CSP プランを販売できる通貨](regional-authorization-overview.md)
