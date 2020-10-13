@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 83f5f3cea881780531d0b2f24e0422df76891382
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422318"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980243"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について学習する
 
@@ -107,7 +107,7 @@ ms.locfileid: "91422318"
    - [Customer detail] メニューで、[ **Service management**] を選択します。
    - **[Microsoft Azure]** で、リンクをクリックして **[Microsoft Azure の管理ポータル]** に移動します。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
 
@@ -115,5 +115,4 @@ ms.locfileid: "91422318"
 
 - [マルチパートナーサポート](multipartner.md)。
 - [マルチチャネルのサポート](multichannel.md)。
-- [Azure サブスクリプションの譲渡](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
-
+- [Azure サブスクリプションの譲渡](/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)

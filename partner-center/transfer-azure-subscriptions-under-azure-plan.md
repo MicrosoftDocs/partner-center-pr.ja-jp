@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e1b70f26dc146507ac3764ae223ca27915162f0c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422570"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980263"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>顧客の Azure プランサブスクリプションを別のパートナーに譲渡する
 
@@ -37,7 +37,7 @@ ms.locfileid: "91422570"
 - 現在のパートナーの Azure サービスの CSP 価格は移行されません  
 - お客様のサポート責任が将来のパートナーに移行されます
 - 課金と請求は、転送時に将来のパートナーに移行されます
-- Azure のロールベースの Access Control (RBAC) は、転送の影響を受けません。
+- Azure Role-Based Access Control (RBAC) は転送の影響を受けません
 - (AOBO) の代理管理者は、既定では今後のパートナーに付与されません
 - 製品が Marketplace の適格性チェックに合格している限り、サードパーティの marketplace 製品は譲渡されます。
     - 特別な割引や地域の制限はありません
@@ -77,20 +77,17 @@ Azure プランで Azure サブスクリプションを譲渡するには、お�
 
 6.  [**転送要求**の送信] を選択し  >  **Send**ます。
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="転送要求の完了フォーム":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="転送セクション":::
 
 7.  転送要求の確認の確認
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="保留中の転送の確認":::
-
-    >[!Note]
-    >将来のパートナーは、転送要求の状態が [保留中] の場合にのみ、右上隅にある **[要求のキャンセル]** を選択して、譲渡要求を取り消すことができます。 転送要求の状態が "進行中" または "完了" になると、取り消しはできなくなります。
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="転送セクション" になると、取り消しはできなくなります。
 
 ## <a name="current-partner-tasks-to-be-completed"></a>完了する現在のパートナータスク
 
 お客様の現在のパートナーの管理者エージェントは、お客様がサブスクリプションの譲渡を要求しているという電子メールを受け取ります。
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="レビュー":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="転送セクション":::
 
 パートナーセンターから譲渡要求フォームを確認して同意し、サブスクリプションの譲渡を完了します。
 
@@ -103,7 +100,7 @@ Azure プランで Azure サブスクリプションを譲渡するには、お�
 3.  [ **転送要求** ] セクションを選択します。
 4.  [**受信した要求**] で選択した**転送要求 ID**を選択して、[転送情報] を展開します。
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="ソースレビューの譲渡要求":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="転送セクション":::
 
 5.  譲渡要求を確認します。 転送する要求された Azure サブスクリプションを選択します。
 
@@ -114,7 +111,7 @@ Azure プランで Azure サブスクリプションを譲渡するには、お�
 
 6.  次に、[ **受け入れて転送** ] を選択して、転送プロセスを完了します。
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Azure プランで転送するサブスクリプションを選択します":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="転送セクション":::
 
 7.  転送の受け入れ確認を表示します。
 
@@ -132,9 +129,9 @@ Azure プランで Azure サブスクリプションを譲渡するには、お�
 
 - そのため、お客様は前のパートナー向けの Azure RBAC アクセスを削除し、新しいパートナーのアクセス権を追加することが重要です。 顧客が新しいアクセス権を付与する方法の詳細については、「 [azure のロールベースのアクセス制御 (AZURE RBAC) とは](/azure/role-based-access-control/overview)」を参照してください。 以前のパートナーの RBAC アクセスを削除する顧客の詳細については、「 [ロールの割り当てを削除する](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)」を参照してください。
 
-- さらに、サブスクリプションへ [の (AOBO) アクセスの代理](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) として自動的に管理者を取得することはありません。 AOBO は、パートナーが顧客の Azure サブスクリプションを代理として管理するために必要です。 Azure の特権の詳細について[は、「顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を取得する](/partner-center/customers-revoke-admin-privileges)」を参照してください。
+- さらに、サブスクリプションへ [の (AOBO) アクセスの代理](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) として自動的に管理者を取得することはありません。 AOBO は、パートナーが顧客の Azure サブスクリプションを代理として管理するために必要です。 Azure の特権の詳細について[は、「顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を取得する](./customers-revoke-admin-privileges.md)」を参照してください。
 
 ## <a name="next-steps"></a>次のステップ:
 
 - [(Azure RBAC)](/azure/role-based-access-control/overview)
-- [顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を取得します。](/partner-center/customers-revoke-admin-privileges)
+- [顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を取得します。](./customers-revoke-admin-privileges.md)
