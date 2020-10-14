@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターでの参照を Dynamics 365 CRM と同期する
+description: パートナーセンターの参照を Dynamics 365 CRM の共同販売コネクタと同期します。 販売元は、CRM システム内から Microsoft と共同で販売することができます。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 39fbeb4e180b24dc19f73b5381af8b8b481045f3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 8ea803e675ce7c2d21d680491bbdaedf792e631f
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000496"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031335"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM の共同販売コネクタ–概要
 
@@ -60,7 +60,7 @@ ms.locfileid: "91000496"
 
 10. **Dynamics 365 のパートナーセンターの紹介同期**を選択します。 次の電源の自動化フローとエンティティを利用できます。
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="使用可能な CRMS":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="AppSource を開く":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>ベストプラクティス: 運用前にテストする
 
@@ -71,7 +71,7 @@ ms.locfileid: "91000496"
 - ステージング/CRM インスタンスでソリューションをテストします。 
 - 成功した場合は、運用インスタンスにマネージドソリューションとしてインポートします。 
 
-## <a name="configure-the-solution"></a>ソリューションの構成
+## <a name="configure-the-solution"></a>ソリューションを構成する
 
 1. CRM インスタンスにソリューションをインストールしたら、[ [Power の自動化](https://flow.microsoft.com/)] に戻ります。
 
@@ -89,7 +89,7 @@ ms.locfileid: "91000496"
 
       2. [ **接続の作成**] をクリックして接続を作成します。
 
-         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="接続を作成する":::
+         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="AppSource を開く":::
 
       3. 右上隅の検索バーで、 **パートナーセンターの参照 (プレビュー)** を検索します。
 
@@ -111,11 +111,11 @@ ms.locfileid: "91000496"
 
 2. 参照管理者の資格情報を持つパートナーセンターのユーザー (a.) に接続を追加します。パートナーセンターのイベントは、下に強調表示されています。
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="トリガー":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="AppSource を開く":::
 
 3. これらの更新を行うと、次のように表示されます。
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="AppSource を開く":::
 
 4. 変更内容を保存し、[ **有効にする**] を選択します。
 
@@ -127,17 +127,7 @@ ms.locfileid: "91000496"
 
 7. **コピー**アイコンを選択して、指定された HTTP POST URL をコピーします。
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="URL のコピー":::
-
-8. 次に、"パートナーセンターの Webhook の登録 (Insider Preview)" パワー自動化フローを選択し、[ **実行**] を選択します。
-
-9. 右側のウィンドウで [実行フロー] ウィンドウが開いていることを確認し、[ **続行**] をクリックします。
-
-10. 次の詳細を入力します。
-
-    1. **Http トリガーエンドポイント**: 前の手順からコピーされた URL
-
-    2. **登録するイベント**: "紹介-作成" と "参照-更新"
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="AppSource を開く"
 
     3. **既存のトリガーエンドポイントがある場合は上書き**します (存在する場合は既存のエンドポイントを上書きします)。
 
@@ -223,7 +213,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
    2. Dynamics 365 環境で "新しい営業案件" を作成するときに、次のセクションが存在することを確認します。
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Dynamics 365 の Microsoft パートナーセンター情報を示すサンプルの営業案件セクション。":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="AppSource を開く":::
 
    3. この機会を Microsoft パートナーセンターと同期するには、カードビューで次のフィールドを設定していることを確認します。
 
@@ -231,7 +221,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
       - **Microsoft のヘルプを使用する方法**: 次から選択してください。
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Dynamics 365 のサンプルの営業案件セクションでは、microsoft パートナーセンターのヘルプオプションが表示されます。":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="AppSource を開く":::
 
       - **製品**: 製品のソリューション id
 
@@ -255,7 +245,7 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
    6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [見込み客を管理する](manage-leads.md)
 

@@ -1,6 +1,6 @@
 ---
 title: コントロール パネル ベンダーとして登録する
-description: パートナーセンターでコントロールパネルベンダ (CPV) として登録する方法について説明します。
+description: パートナーセンターで、CSP パートナーシステムとパートナーセンター Api をより適切に統合できるように、パートナーセンターでコントロールパネルベンダー (CPV) として登録する方法について説明します。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,14 +9,14 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/20/2020
-ms.openlocfilehash: 79d46b306795c1261fb8e9af45e7c102b9e79601
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 1bfcb4de27233283b6188903b3e1f6bbdf67698c
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366736"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031895"
 ---
-# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>CSP パートナーシステムとパートナーセンター Api との統合に役立つ、コントロールパネルのベンダとして登録する
+# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>CSP パートナー システムとパートナー センター API との統合を支援するためにコントロール パネル ベンダーとして登録する
 
 **適用対象**
 

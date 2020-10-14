@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 共同販売コネクタのトラブルシューティング方法に関する FAQ。
+description: 共同販売コネクタの使用に関してよく寄せられる質問への回答について説明します。 共同販売コネクタのトラブルシューティング方法については、こちらの FAQ を参照してください。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844656"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031265"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>共同販売紹介コネクタのトラブルシューティング
 
@@ -158,7 +158,7 @@ E. Flow パートナーセンターの Webhook 登録で、[ **実行**] を選�
 
 :::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="サインインが必要なエラーメッセージ" として閉じられていないことを確認します。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [見込み客を管理する](manage-leads.md)
  

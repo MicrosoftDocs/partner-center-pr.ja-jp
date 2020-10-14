@@ -1,6 +1,6 @@
 ---
 title: Azure の使用状況を分析してビジネスの成長に役立てます
-description: パートナーセンターを使用して、顧客の Azure サブスクリプションの使用状況に関するデータを取得する方法について説明します。
+description: パートナーセンターを使用して、顧客の Azure サブスクリプションの使用状況に関するデータを取得する方法について説明します。 データには、販売、リスク、および使用中のサブスクリプションが含まれます。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 40d74e22463c522333e1bdb4116369f5f6c3937a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367446"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031885"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>顧客と Azure サブスクリプションのパフォーマンスに関するデータを取得する
 
@@ -70,6 +70,6 @@ ms.locfileid: "89367446"
 
 - 更新されたサブスクリプションの数。
 
- ## <a name="next-steps"></a>次のステップ
+ ## <a name="next-steps"></a>次の手順
 
 - [お客様向けの Azure プランを購入して、最新の Azure サービスに従量課金制料金でアクセス &](purchase-azure-plan.md)

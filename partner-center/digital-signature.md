@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーは、請求書にデジタル署名できるようになりました
+description: インドのパートナーセンターパートナーがデジタル署名された請求書を表示し、パートナーセンターで作成された注文の請求書のデジタルコピーを受信する方法について説明します。
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490650"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031955"
 ---
 # <a name="view-digitally-signed-invoices"></a>デジタル署名された請求書の表示
 
@@ -38,15 +38,15 @@ ms.locfileid: "89490650"
 
 3. 署名をクリックします。 有効性を示す証明書が表示されます。
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="[承認された署名者] フィールドと [署名検証の状態] ダイアログボックスの [詳細]、[署名のプロパティ] オプション、[キャンセル] オプションを使用した署名付き請求書。"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="有効な署名通知バナー付きのサンプル請求書。緑色のチェックマークと語句、署名済み、すべての署名が有効です。"::: 
 
 4. 署名の **プロパティ** を選択すると、署名の有効性に関する詳細が表示されます。
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="署名プロパティの詳細ビューには、だれが、ドキュメントが署名された日時、検証プロセス、署名者の証明書に関する情報が表示されます。"::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="有効な署名通知バナー付きのサンプル請求書。緑色のチェックマークと語句、署名済み、すべての署名が有効です。"::: 
 
 4. また、証明書のパスが正しいことと、証明書が信頼されていることを確認することもできます。
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="[証明書ビューアー] ダイアログボックスには、証明書とその発行チェーン全体に関する詳細情報を含むタブがいくつか表示されます。":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="有効な署名通知バナー付きのサンプル請求書。緑色のチェックマークと語句、署名済み、すべての署名が有効です。":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>請求書とデジタル署名に関する追加情報
 

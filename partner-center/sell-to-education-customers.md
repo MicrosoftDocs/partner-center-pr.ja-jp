@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006839"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032085"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>教育機関のお客様にオファーを販売する方法 & パートナーセンターで教育機関の顧客を作成する方法
 
@@ -51,7 +51,7 @@ ms.locfileid: "92006839"
 
 ### <a name="confirm-your-education-customers-verification-status"></a>教育機関の顧客の検証の状態を確認する
 
-お客様のアカウントページで、 **特別な認定の状態**を参照してください。
+お客様の **アカウント** ページで、 **特別な認定の状態**を参照してください。
 状態の例:
 
 - 顧客が検証に合格した場合: 教育
@@ -90,7 +90,7 @@ ms.locfileid: "92006839"
 
 ### <a name="resubmit-for-verification"></a>確認のために再送信します
 
-1. [パートナーセンター] タブに移動し、[顧客 **アカウント** ] ページに移動します。 ブラウザーを更新します。 会社のページが新しい情報に更新されたことを確認します。 [ **更新** ] ボタンを選択して、教育の再検証を要求します。
+1. [パートナーセンター] タブに移動し、[顧客 **アカウント** ] ページに移動します。 ブラウザーを更新し、会社のページが新しい情報に更新されていることを確認します。 [ **更新** ] ボタンを選択して、教育の再検証を要求します。
 
 2. 更新された顧客の詳細が教育機関の資格を受けられる場合は、 **特別な要件** が **教育機関**に更新されていることがわかります。 まだ **教育機関のお客様でない**場合は、手動による検証についてサポートにお問い合わせください。
 

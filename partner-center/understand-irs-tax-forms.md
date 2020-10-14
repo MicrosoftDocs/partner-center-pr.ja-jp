@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 487ad0b2ba42959748944721ebfcfc42fd4e506f
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663913"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032035"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>マイクロソフトが発行する IRS の税関連の書類について
 
@@ -75,3 +75,7 @@ ms.locfileid: "91663913"
 
 > [!NOTE]
 > **IRS 税フォーム**に関連するその他の質問や懸念事項がある場合は、パートナーセンターのダッシュボードで [[ヘルプとサポート](https://partner.microsoft.com/dashboard/support/)] を参照してください。 マイクロソフトは特定の税金の事情に関する質問にはお答えできません。これらの質問については、税務の専門家にお問い合わせください。
+
+## <a name="next-steps"></a>次の手順
+
+- [コマーシャル マーケットプレースでの支払いの受け取り](marketplace-get-paid.md)

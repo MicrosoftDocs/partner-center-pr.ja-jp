@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP プログラムにおけるパートナーのカスタマーサポートの責任について説明します。
+description: 課金、サブスクリプション管理、技術的な問題の詳細など、CSP プログラムにおけるパートナーのカスタマーサポートの責任について説明します。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2ae8ff6491388af8ed4c7865fef730a946fea332
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: ec9c80d7e57e0252f68f7ed7f7b0f73f8812de9d
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114364"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032045"
 ---
-# <a name="providing-different-types-of-support-to-your-customers"></a>さまざまな種類のサポートを顧客に提供する
+# <a name="providing-different-types-of-support-to-your-customers"></a>お客様へのさまざまな種類のサポートの提供
 
 **適用対象**
 

@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 09/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターでの紹介を Salesforce CRM と同期する
+description: パートナーセンターの紹介を Salesforce CRM と同期します。 販売元は、CRM システム内から Microsoft と共同で販売することができます。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bc404ca8c0647b1bcece767da75fa07ddc6b51f
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663863"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031465"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM のための共同販売コネクタ - 概要
 
@@ -290,7 +290,7 @@ Salesforce CRM ソリューションの **営業案件** エンティティの�
 
     6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [見込み客を管理する](manage-leads.md)
 
