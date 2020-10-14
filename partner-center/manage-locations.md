@@ -1,20 +1,20 @@
 ---
 title: パートナー アカウントで場所を管理する
 ms.topic: article
-ms.date: 10/01/2020
+ms.date: 10/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 新しい場所を追加する方法や、所在地 MPN ID がインセンティブ プログラム、CSP ビジネス、サブスクリプション、その他のトランザクションでどのように使用されるかについて説明します。
 author: vinayks
 ms.author: vinayks
-ms.localizationpriority: high
+ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: c4435227cdd5d777d11c79bf4adc63471ad925e9
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663899"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006849"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN アカウントの所在地を管理し、新しい場所を追加する
 
@@ -31,12 +31,12 @@ ms.locfileid: "91663899"
 
 ## <a name="the-following-is-a-typical-scenario"></a>一般的なシナリオを示します。
 
-Contoso のパートナー グローバル アカウント (PGA) の場所はイギリスです。 これは、登録された法的な事業所であり、すべての非トランザクション ビジネスを管理するために使用する MPN ID が 1 つあります。 Contoso には、イギリスの別の場所、フランス、米国にある子会社または部門に相当するパートナー ロケーション アカウント (PLA) もあります。 MPN アカウントの構造では、これらの PLA は一意の所在地 MPN ID として表現されます。 PLA は、CSP またはインセンティブ プログラムなどのトランザクション ビジネスに使用されます。 支払いは、特定の場所に関連付けられます。 
+Contoso のパートナー グローバル アカウント (PGA) の場所はイギリスです。 これは、登録された法的な事業所であり、そのグローバル MPN ID はすべての非トランザクション ビジネスを管理するために使用されます。 Contoso には、イギリスの別の場所、フランス、米国にある子会社または部門に相当するパートナー ロケーション アカウント (PLA) もあります。 MPN アカウントの構造では、これらの PLA は一意の所在地 MPN ID として表現されます。 PLA は、CSP またはインセンティブ プログラムなどのトランザクション ビジネスに使用されます。 支払いは、特定の場所に関連付けられます。 
 
 >[!NOTE]
 >CSP テナントと MPN 所在地 ID の間には 1 対 1 の関係があります。
 
-:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="MPN 所在地の構造":::
+:::image type="content" source="images/locations/locations1.png" alt-text="MPN 所在地の構造":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>CSP ビジネスの新しい場所を追加するための前提条件
 
@@ -44,7 +44,7 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
 
 1. ビジネスを遂行する国に、所在地 MPN ID が必要です。
 
-1. CSP にまだ登録されていないビジネス リージョンには、新しい Azure AD テナントが必要です。 CSP に登録するときに、これを作成してください。
+1. CSP にまだ登録されていない[ビジネス リージョン](regional-authorization-overview.md)には、新しい Azure AD テナントが必要です。 CSP に登録するときに、これを作成してください。
  
 3. 新しい AAD テナントを使用して、リージョンの CSP プログラムに登録します。
 法的企業名、住所、主要連絡先の詳細など、会社の法的な詳細情報を提供します。 このアカウントは検証されるため、必ず有効な情報を追加してください。
@@ -56,20 +56,20 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
 
 ## <a name="add-a-location"></a>場所を追加する
 
+1. パートナー センターで MPN アカウントを使用してサインインします。 MPN アカウントには、グローバル管理者またはアカウント管理者特権が必要です。 
+
 1. **設定アイコン**から **[Partner settings]\(パートナーの設定\)** を選択します。
 
 2. **[場所]** を選択します。
 
-3. **[Add a location]\(場所の追加\)** を選択します。  
-
-4. **[Add a location]\(場所の追加\)** ページで、会社に追加する場所の住所の詳細と、その場所の主要な連絡先を挿入します。
+3. **[Add a location]\(場所の追加\)** を選択し、会社に追加する場所の住所の詳細と、その場所の主要な連絡先を挿入します。
 
 > [!NOTE]
-> パートナー センターで追加した場所は削除できません。
+> パートナー センターで追加した場所は削除できません。 正しい MPN ID を使用してサインインすると、パートナー センターの左側のメニューに **MPN** が表示されます。
 
 ## <a name="change-global-partner-account-location"></a>グローバル パートナー アカウントの場所を変更する
 
-1. **[場所]** ページで場所の一覧を確認して、法人にしようとしている場所が一覧表示されていることを確認します。 ない場合は、追加します。
+1. **[[場所]](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** ページで場所の一覧を確認して、法人にしようとしている場所が一覧表示されていることを確認します。 ない場合は、追加します。
 
    :::image type="content" source="images/updatepartnerprofile2.png" alt-text="MPN 所在地の構造":::
 
