@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
+ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844676"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92081371"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,9 @@ ms.locfileid: "91844676"
 
 | **カテゴリ** | **2020 年 10 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[2020 年 11 月の更新:オンライン サービスとソフトウェア チャネルの承認ガイド](2020-october.md#11)|10 月 14 日|
+|製品サービス/市場|[非営利団体向けの Microsoft 365 Business Voice の紹介](2020-october.md#10)|10 月 12 日|
+|製品サービス/市場|[Microsoft 365 Audio Conferencing のプロモーションを利用できるようになりました。また Microsoft 365 Business Voice が近日公開予定](2020-october.md#9)|10 月 9 日|
 |機能|[Azure Marketplace での簡易化された Azure アプリ エクスペリエンス](2020-october.md#8)|10 月 7 日|
 |製品サービス/市場|[Microsoft Teams Rooms Premium SKU の発売](2020-october.md#7)|10 月 5 日|
 |製品サービス/市場|[Microsoft の通話プランが、新しい市場で利用できるようになりました](2020-october.md#6)|10 月 2 日|
