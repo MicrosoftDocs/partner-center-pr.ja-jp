@@ -160,6 +160,8 @@
           href: create-user-accounts-and-set-permissions.md
         - name: ユーザーにロールを割り当てる
           href: permissions-overview.md
+        - name: 自分のロールを検索する
+          href: find-your-role.md
         - name: コントロール パネル ベンダーになる
           href: enroll-as-cpv.md
         - name: ユーザーのパスワードのリセット
@@ -356,8 +358,9 @@
         - name: 支払いに関する FAQ
           href: payout-faq.md
 - name: お客様とつながる
-  href: customer-accounts.md
   items:
+    - name: お客様とつながる
+      href: connect-with-your-customers.md
     - name: 新しい顧客の追加
       href: add-a-new-customer.md
     - name: 顧客との再販業者関係の要求
