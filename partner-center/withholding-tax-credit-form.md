@@ -2,19 +2,19 @@
 title: 源泉徴収税の貸方
 ms.topic: article
 ms.date: 06/05/2020
-description: 税金源泉徴収のパートナーセンターアカウントでクレジットを受け取る
+description: 税金源泉徴収については、パートナーセンターアカウントでクレジットを受け取ります。 税金源泉徴収要求を送信する手順についても説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98318b193691ebb50011a66c9caadd2f1ac61e8d
-ms.sourcegitcommit: d407cdf36ddb634cf209579797b08fd81cf453ea
+ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2020
-ms.locfileid: "88251267"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174934"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>税金源泉徴収のパートナーセンターアカウントでクレジットを受け取る
 
@@ -45,9 +45,7 @@ ms.locfileid: "88251267"
 
 4. 請求書の詳細を確認して、正しい請求書の要求を送信していることを確認します。
 
-   :::image type="content" source="images/wht2.png" alt-text="請求書の税金源泉徴収の完全な詳細":::
-
-5. [源泉 **徴収の詳細**] に「源泉徴収合計」と入力します。 "源泉徴収合計" は、予想される金額です。
+   :::image type="content" source="images/wht2.png" alt-text="請求書の新しい税金源泉徴収を送信する" は、予想される金額です。
 
 6. 税証明書を**添付**します。 税金源泉徴収要求には、**源泉徴収税証明書**の**デジタルコピー**を含める必要があります。 この証明書は、現地の税金機関に対して税金を支払うときに、お客様の現地税機関から受け取りました。 源泉徴収税証明書の請求書の課税額は、税金源泉徴収要求の合計金額と一致している必要があります。
 

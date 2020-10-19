@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 取引先レコード (CPOR) モデルを使用して顧客の関連付けを作成します。 Microsoft 365 と Dynamics 365 の顧客の売上、使用状況、& インセンティブを管理するのに役立ちます。
+description: 取引先レコード (CPOR) モデルを使用して顧客の関連付けを作成します。 Microsoft 365 & Dynamics 365 の顧客の売上、使用状況、インセンティブを管理するのに役立ちます。
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1fc528b0a00fab42d7ddfcf8dae79d1eae1e2967
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714356"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174988"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Microsoft 365 と Dynamics 365 の要求されたパートナーのレコード (CPOR) モデルによる顧客の関連付け
 
@@ -26,10 +26,10 @@ ms.locfileid: "90714356"
 
 - インセンティブ管理者
 
-2019年10月1日に、Microsoft は、パートナーの取引先レコード (CPOR) モデルを使用して、オンラインサービスアドバイザリ (OSA) 販売、Online Services Usage (OSU Microsoft 365)、および OSU-ビジネスアプリケーションインセンティブに関して、Microsoft 365 と Dynamics 365 のお客様との関連付けを管理しました。
+2019年10月1日に、Microsoft は、要求パートナーのレコード (CPOR) モデルを使用して、オンラインサービスアドバイザリ (OSA) の販売、オンラインサービス使用状況 (OSU Microsoft 365)、および OSU-Business のアプリケーションインセンティブに関して、Microsoft 365 と Dynamics 365 のお客様との関連付けを管理し始めました。
 
 >[!Important]
-> カスタマーアソシエーション (CPOR) の要求は、オンラインサービスアドバイザリ (OSA) の販売、Online Services Usage (OSU)-Microsoft 365 および OSU-Business Application インセンティブプログラムにのみ適用されます。 クラウドソリューションプロバイダー、管理されたリセラー、ホスティング、Surface など、別のプログラムの共同操作要求を送信する場合は、こちらに記載されている Co-op 要求プロセスを参照してください。 <br><br>要求を送信すると、Microsoft によって検証されます。 詳細については、こちらからお問い合わせください。 また、お客様にアソシエーション要求を通知します。 お客様は、5営業日以内にオプトアウトできます。オプトアウトされていない場合は、この特定のテナントとワークロードとの関連付けが公式になります。 この時点で、顧客の使用状況データにアクセスできます。 
+> カスタマーアソシエーション (CPOR) の要求は、オンラインサービスアドバイザリ (OSA) 販売、Online Services Usage (OSU) Microsoft 365 および OSU-Business アプリケーションインセンティブプログラムにのみ適用されます。 クラウドソリューションプロバイダー、管理されたリセラー、ホスティング、Surface など、別のプログラムの共同操作要求を送信する場合は、こちらに記載されている Co-op 要求プロセスを参照してください。 <br><br>要求を送信すると、Microsoft によって検証されます。 詳細については、こちらからお問い合わせください。 また、お客様にアソシエーション要求を通知します。 お客様は、5営業日以内にオプトアウトできます。オプトアウトされていない場合は、この特定のテナントとワークロードとの関連付けが公式になります。 この時点で、顧客の使用状況データにアクセスできます。 
 
 要求を完了するには、次の情報が必要です。
 
@@ -63,7 +63,7 @@ ms.locfileid: "90714356"
 
 - Dynamics 365 または Power BI の顧客との既存の関連付けがある場合、これらの関連付けは、サブスクリプションの有効期限が切れるまで有効のままになります。
 
-- 顧客は複数のパートナーを持つことができますが、各ワークロード (OSU-Microsoft 365) またはサブスクリプション (OSA 販売と OSU-Business Applications) は、1つのパートナーにのみ関連付けることができます。
+- 顧客は複数のパートナーを持つことができますが、各ワークロード (OSU-Microsoft 365 の場合) またはサブスクリプション (OSA-Sell アプリケーションと OSU-Business アプリケーションの場合) は、1つのパートナーにのみ関連付けることができます。
 
 ## <a name="create-a-customer-association"></a>顧客の関連付けを作成する
 
@@ -104,6 +104,6 @@ ms.locfileid: "90714356"
 
 **[履歴]** を選択すると、顧客の関連付けの履歴が表示されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客の関連付けを管理する](incentives-manage-customer-associations.md)

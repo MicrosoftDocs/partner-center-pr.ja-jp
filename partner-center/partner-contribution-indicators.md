@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 7つの主要なパートナー貢献度インジケーター (PCI) について説明します。このインジケーターは、Dynamics 365 カスタマーエンゲージメントまたは Dynamics 365 Finance and Operations の使用方法を示しています。
+description: 7つのパートナー貢献度インジケーター (PCI) について説明します。このインジケーターは、Dynamics 365 カスタマーエンゲージメントまたは Dynamics 365 Finance and Operations の使用方法を示しています。
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e1c0c4e0f332e771415e9360e4eeaf756f00a8e
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714286"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175021"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>パートナー貢献度インジケーター (PCI) は、お客様の成功の7つの主要な指標に対するパートナーの影響を示します
 
@@ -89,7 +89,7 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 |顧客の成功-月単位のアクティブなユーザーの成長  | 25ポイント |
 
 次の図は、簡単なビジュアル参照を提供しています。
-:::image type="content" source="images/pci/perfnew.png" alt-text="7つのパートナー貢献度インジケーター (PCI) それぞれに対して可能な最大スコアを持つグラフを表示します。" border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="シルバーまたはゴールドコンピテンシーを実現するための PCI スコアを示します。" border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>各 PCI メトリックのしきい値
 
@@ -111,7 +111,7 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 | PCI メトリック | 業績評価指標: 純利益 | 業績評価指標: 新規顧客の追加 | 機能インジケーター: 機能コンサルタント | 機能インジケーター: 機能コンサルタントの成長 | 機能インジケーター: 開発者 | 顧客の成功インジケーター: 新しい大規模な展開 | 顧客の成功インジケーター: 月単位のアクティブなユーザーの成長 |
 |---|---|---|---|---|---|---|---|
 | **最大ポイント数** | 10ポイント | 10ポイント | 15ポイント | 15ポイント | 5つのポイント | 20ポイント | 25ポイント |
-| **確立** | $30万 | 10ポイント | 10ポイント | *\* 注を参照* | 5つのポイント | 5つのポイント | 25% |
+| **確立** | $300,000 | 10ポイント | 10ポイント | *\* 注を参照* | 5つのポイント | 5つのポイント | 25% |
 | **開拓** | $15万 | 5つのポイント | 5つのポイント |*\* 注を参照* | 2つのポイント | 1ポイント | 25% |
 
 *\* 注: 拡張ターゲットは、ベースラインコンサルタントの数によって異なります。拡張ターゲットについては、 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) を参照してください。*
@@ -122,7 +122,7 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 | PCI メトリック | 業績評価指標: 純利益 | 業績評価指標: 新規顧客の追加 | 機能インジケーター: 機能コンサルタント | 機能インジケーター: 機能コンサルタントの成長 | 機能インジケーター: 開発者 | 顧客の成功インジケーター: 新しい大規模な展開 | 顧客の成功インジケーター: 月単位のアクティブなユーザーの成長 |
 |---|---|---|---|---|---|---|---|
 | **最大ポイント数** | 10ポイント | 10ポイント | 15ポイント | 15ポイント | 5つのポイント | 20ポイント | 25ポイント |
-| **確立** | $30万 | 3ポイント | 15ポイント | *\* 注を参照* | 5つのポイント | 3ポイント | 25% |
+| **確立** | $300,000 | 3ポイント | 15ポイント | *\* 注を参照* | 5つのポイント | 3ポイント | 25% |
 | **開拓** | $15万 | 1ポイント | 5つのポイント |*\* 注を参照* | 2つのポイント | 1ポイント | 25% |
 
 *\* 注: 拡張ターゲットは、ベースラインコンサルタントの数によって異なります。拡張ターゲットについては、 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) を参照してください。*
@@ -313,8 +313,8 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 この領域の使用方法の詳細については、この記事の最後にあるリソースとビデオのコレクションを参照してください。
 
-   :::image type="content" source="images/pci/howto.png" alt-text="グラフを読む方法":::
+   :::image type="content" source="images/pci/howto.png" alt-text="シルバーまたはゴールドコンピテンシーを実現するための PCI スコアを示します。":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 PCI [トレーニングビデオと情報リソースを](https://partner.microsoft.com/asset/collection/pci-learn#/)さらに表示します。

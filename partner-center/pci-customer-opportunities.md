@@ -1,6 +1,6 @@
 ---
 title: パートナーセンターの洞察-CloudAscent 傾向レポート
-description: パートナーセンターダッシュボードの CloudAscent 傾向レポートについて説明します。
+description: パートナーセンターの CloudAscent 傾向レポートについて説明します。 Microsoft 製品を購入する顧客の傾向に関する情報が含まれています。
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 09/18/2020
-ms.openlocfilehash: 510f85b053ec17fa0a2a66217a19c006e7ca2bc9
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: fd017884c29df3874a06e8c4213c6fe5f05a8995
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "90811352"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175283"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>パートナーセンターダッシュボードから使用可能な CloudAscent 傾向レポート
 
@@ -40,14 +40,14 @@ ms.locfileid: "90811352"
 
    上位のアンマネージ2つの方法を定義します。
 
-   - 上位の管理されていない**ユーザーベース**–300以上の従業員を含むアカウントを含みます。 ユーザーベースのアカウントは、初めて購入する場合、または M365、D365、Surface などのユーザーベースのサブスクリプション製品を展開する場合に適しています。
+   - 上位の管理されていない**ユーザーベース**–300以上の従業員を含むアカウントを含みます。 User-Based アカウントは、初回購入、または M365、D365、Surface などのユーザーベースのサブスクリプション製品の展開に適しています。
    - 管理されていない**計算ベースの上位**– Azure が $ 10k を超える可能性のあるアカウントを含みます。 コンピューティングベースのアカウントには、既存の Azure が含まれます。 将来、Azure をまだ購入していても、Azure では $ 10k を超える可能性のある azure をまだ購入していない、未来の年の可能性があるアカウントとアカウント。
 
 2. **中規模ビジネス** には、既存の顧客と、25 ~ 300 人の従業員を持つ見込み客アカウントが含まれます。
 
 3. **スモールビジネス** には、従業員が25人未満の残りの企業がすべて含まれます。
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="SMC によるお客様の種類。":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Customers 営業案件の概要ダッシュボードのスクリーンショット。":::
 
 **上位の管理対象外** および **中規模のビジネス** subsegments は、microsoft および microsoft パートナー向けの高ライフタイム値 (ltv) のお客様を表します。 そのため、このセグメントの成長に焦点を当てています。 この2つの subsegments では、D365/Azure 基幹業務 (LOB) アプリを使用して、M365 でソケットを入手し、さらに収益化を使用することをお勧めします。
 
@@ -55,7 +55,7 @@ ms.locfileid: "90811352"
 
 次のスクリーンショットは、3つの SMB Subsegments と、市場に合わせて最適化されたルートを示しています。 CloudAscent は、すべての管理対象外および中規模のビジネスアカウントのプロファイル、スコアリング、およびモデリングに優先順位を付けます。
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="SMB subsegments のスクリーンショット。":::
+:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Customers 営業案件の概要ダッシュボードのスクリーンショット。":::
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
@@ -67,7 +67,7 @@ SMB では、機械学習テクノロジを使用して、上位のアンマネ�
 
 - **最適化**: Machine Learning システムは、1か月ごとにトランザクションデータを使用し、四半期ごとにサブスクリプションデータを消費することにより、モデルを最適化します。  Machine Learning は、win/差損データを使用して、アルゴリズムを調整し、クラスターの推奨事項を MSX で動作する機会と比較することによってモデルが想定どおりに機能していることを検証します。
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="SMB machine learning のスクリーンショット。":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Customers 営業案件の概要ダッシュボードのスクリーンショット。":::
 
 ## <a name="cloudascent-propensity"></a>CloudAscent 傾向
 
@@ -91,7 +91,7 @@ Web クローラーを介して収集されたシグナルとさまざまなソ�
 
    - インテントスコアリングは毎月更新されます。
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="CloudAscent SMB 予測モデル。":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Customers 営業案件の概要ダッシュボードのスクリーンショット。":::
 
 3. クラスタリング
 
@@ -111,7 +111,7 @@ Web クローラーを介して収集されたシグナルとさまざまなソ�
          |**分類**|**スコア**|
          |---------|:---------|
          |高|75 ~ 100|
-         |Medium|55 ~ 74|
+         |中|55 ~ 74|
          |低|30 - 54|
          |非常に低い|0 - 29|
 
@@ -121,7 +121,7 @@ Web クローラーを介して収集されたシグナルとさまざまなソ�
 
       4. 最後に、これらのセグメントグループによってクラスターが形成されます。  たとえば、A1、A2、A3、A4 は、Act クラスターを形成します。
 
-         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="CloudAscent モデル。":::
+         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Customers 営業案件の概要ダッシュボードのスクリーンショット。":::
 
    これらのお客様には、現在、Act をターゲットにして、顧客を評価することをお勧めします。
 
@@ -129,7 +129,7 @@ Web クローラーを介して収集されたシグナルとさまざまなソ�
 
 次の図は、CloudAscent 内の各傾向モデルのビューを示しています。
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="CloudAscent 傾向モデル。":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Customers 営業案件の概要ダッシュボードのスクリーンショット。":::
 
 ホワイトスペースモデルは、既存の Microsoft 顧客が製品を所有していないか、または新しい見込み客となっている顧客の予測で構成されています。
 

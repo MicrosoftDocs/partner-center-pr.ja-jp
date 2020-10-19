@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: カスタマーサービスの問題を Microsoft にエスカレートするタイミングと、サポートチケットをファイルにする方法について説明します。
+description: カスタマーサービスの問題を Microsoft にエスカレートするタイミング、およびさまざまな種類の Microsoft サービスのサポートチケットをファイルにする方法について説明します。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999786"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175085"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>顧客に代わってサービスの問題を報告します。その方法や方法などが含まれます。
 

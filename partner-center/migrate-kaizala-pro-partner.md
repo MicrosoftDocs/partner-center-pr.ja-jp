@@ -1,18 +1,18 @@
 ---
 title: Kaizala Pro サブスクリプションを Microsoft365 に移行する
-description: Kaizala Pro サブスクリプションを Microsoft365 または Office 365 バージョンに移行する方法について説明します。
+description: Kaizala Pro サブスクリプションを Microsoft365 または Office 365 バージョンに移行する方法について説明します。 お客様の移行の詳細については、この記事をご覧ください。
 ms.topic: article
 ms.service: partner-dashboard
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 842f4c0f88eec370821fa05c40cfadeee7fee12a
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84611238"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175169"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Kaizala Pro スタンドアロンサブスクリプションを Microsoft365 または Office 365 バージョンに移行する
 
@@ -38,8 +38,8 @@ E4 サブスクリプションは `auto renew=False` 、2020年7月1日に設定
     
 - 以下を含む、 [**Enterprise の Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans): 
    - Office 365 E1
-   - Microsoft 365 E3 と Office 365 E3
-   - Microsoft 365 E5 と Office 365 E5
+   - Microsoft 365 E3 および Office 365 E3
+   - Microsoft 365 E5 および Office 365 E5
 
 - 以下を含む[**教育の Microsoft 365**](https://www.microsoft.com/education/buy-license/microsoft365): 
     - Microsoft 365 A1 と Office 365 A1
@@ -61,7 +61,7 @@ C. 以前のサブスクリプションを取り消す
 
 ### <a name="a-purchase-the-new-subscription"></a>A. 新しいサブスクリプションを購入する
 
-1. 新しいサブスクリプションを購入するには、**パートナーセンター**メニューから [**顧客**] を選択し、移動する顧客を選択して、[**サブスクリプションの追加**] を選択します。
+1. 新しいサブスクリプションを購入するには、 **パートナーセンター** メニューから [ **顧客**] を選択し、移動する顧客を選択して、[ **サブスクリプションの追加**] を選択します。
 
 2. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、**[送信]** を選びます。
 
@@ -71,11 +71,11 @@ C. 以前のサブスクリプションを取り消す
 
 1. 顧客のユーザーのライセンスをもう一度割り当てるには、**パートナー センター** メニューで **[顧客]** を選び、移行する顧客を選んでから **[ユーザーとライセンス]** を選びます。 顧客の [ユーザーとライセンス] ページが開きます。
 
-2. ユーザーライセンスを再割り当てするには、再割り当てするユーザーを選択し、[**ライセンスの管理**] を選択します。
+2. ユーザーライセンスを再割り当てするには、再割り当てするユーザーを選択し、[ **ライセンスの管理**] を選択します。
 
-3. [**ライセンスの管理**] ページで、[Kaizala Pro スタンドアロンライセンス] チェックボックスをオフにし、顧客の移動先のサブスクリプションの新しいサービスプランを選択します。
+3. [ **ライセンスの管理** ] ページで、[Kaizala Pro スタンドアロンライセンス] チェックボックスをオフにし、顧客の移動先のサブスクリプションの新しいサービスプランを選択します。
 
-4.  **[送信]** を選択します。 確認ページに新しいライセンスの割り当てが一覧表示されます。 ライセンスの割り当てが必要な他のユーザーにも同じプロセスを続行します。
+4.  **[Submit]\(送信\)** をクリックします。 確認ページに新しいライセンスの割り当てが一覧表示されます。 ライセンスの割り当てが必要な他のユーザーにも同じプロセスを続行します。
 
 ### <a name="c-cancel-old-subscription"></a>C. 以前のサブスクリプションを取り消す
 
@@ -85,6 +85,6 @@ C. 以前のサブスクリプションを取り消す
 
 2.  サブスクリプションの詳細ページで、サブスクリプションを **[中断]** に設定します。
 
-3.  **[送信]** を選択します。
+3.  **[Submit]\(送信\)** をクリックします。
 
 以前のサブスクリプションが中断され、新しいサブスクリプションがアクティブになります。 中断されたサブスクリプションは、120 日後に自動的にプロビジョニングが解除されます。 お客様には、以前のサブスクリプションの追加コストは発生しません。

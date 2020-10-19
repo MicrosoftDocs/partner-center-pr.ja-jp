@@ -2,18 +2,18 @@
 title: インセンティブの支払いと税金のプロファイルに関する FAQ
 ms.topic: article
 ms.date: 09/11/2020
-description: インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問。
+description: インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問。 支払いと税金のプロファイルが表示されない理由、およびその対処方法についての質問があります。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999306"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175347"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問
 
@@ -65,7 +65,7 @@ Microsoft インセンティブプログラムの支払いを受け取るには�
 
 MPN の場所に対して作成された税務プロファイルは、その MPN の場所が他のインセンティブ プログラムに参加すると再利用され、自動的に入力されます。 ただし、例外が発生する場合もあります。 たとえば、新しいインセンティブ プログラムの支払いルールに基づいて、税務プロファイルの追加情報が求められることがあります。  
 
-## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみサインインでき @onmicrosoft.com ます。   どうすればいいですか。
+## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみサインインでき @onmicrosoft.com ます。 どうすればよいですか。
 
 ドメインを AAD アカウントに追加するには、アカウント管理者に連絡してください。
 

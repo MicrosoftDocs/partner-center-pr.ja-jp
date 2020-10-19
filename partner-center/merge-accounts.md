@@ -1,17 +1,17 @@
 ---
 title: パートナー アカウントを別のパートナー アカウントにマージする
-description: パートナーセンターでアクティブな Microsoft パートナーである企業は、自分のアカウントを統合できます。
+description: パートナーアカウントをパートナーセンターの別のパートナーアカウントにマージする方法について説明します。パートナーセンターで、Microsoft パートナーがアクティブである場合に使用します。
 ms.topic: article
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444959"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175185"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>パートナー アカウントを別のパートナー アカウントにマージする
 
@@ -80,17 +80,17 @@ ms.locfileid: "87444959"
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>パートナーセンターアカウントをパートナーセンターアカウントにマージするように会社を招待する
 
 >[!Note]
->アカウントの合併を実行するには、会社の**アカウント管理者**である必要があります。
+>アカウントの合併を実行するには、会社の **アカウント管理者** である必要があります。
 
-1. パートナーセンターのダッシュボードから [**設定**] を選択します。 
+1. パートナーセンターのダッシュボードから [ **設定** ] を選択します。 
 
 2. [ **Account merge**] を選択します。
 
-3. 自分と結合するために招待するアカウントの**パートナープロファイル**にある MPN ID を追加します。 パートナーのグローバル MPN ID を使用する必要があります。 Location MPN ID を使用することはできません。
+3. 自分と結合するために招待するアカウントの **パートナープロファイル** にある MPN ID を追加します。 パートナーのグローバル MPN ID を使用する必要があります。 Location MPN ID を使用することはできません。
 
-4. [**マージ**] を選択すると、パートナー企業に招待が送信されます。 要求を受け入れると、パートナーセンター内でアカウントのマージを開始できます。 組織がアカウントのマージ要求を拒否した場合、その要求が拒否された理由を説明することができます。 [**マージ履歴**] では、すべてのアカウントのマージの一覧を使用できます。
+4. [ **マージ**] を選択すると、パートナー企業に招待が送信されます。 要求を受け入れると、パートナーセンター内でアカウントのマージを開始できます。 組織がアカウントのマージ要求を拒否した場合、その要求が拒否された理由を説明することができます。 [ **マージ履歴**] では、すべてのアカウントのマージの一覧を使用できます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
 

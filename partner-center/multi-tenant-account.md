@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 07/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターアカウントを使用して複数のテナントを管理する
+description: パートナーセンターアカウントで複数の Azure AD テナントを追加、統合、または管理する方法について説明します。 いくつかの理由についても説明します。
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecdfcbd4801bee34be298030016d7366b12d7db3
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846964"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175163"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>パートナーセンターアカウントで複数のテナントを追加して管理する
 
@@ -50,7 +50,7 @@ ms.locfileid: "88846964"
 
 1. グローバル管理者として、関連付けるテナントにサインインし、関連付けを確認します。 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="テナントの関連付けの確認"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="テナントの関連付け"::: 
 
 5. 確認が完了すると、すべての **設定** の通知が表示されます。  [ **テナント管理に戻る** ] を選択すると、新しく追加されたテナントが一覧表示されます。 
  
@@ -59,6 +59,6 @@ ms.locfileid: "88846964"
 >既に別のパートナーセンターアカウントに関連付けられている場合、そのテナントをアカウントに関連付けることはできません。
 
  
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [ユーザーの追加](create-user-accounts-and-set-permissions.md)

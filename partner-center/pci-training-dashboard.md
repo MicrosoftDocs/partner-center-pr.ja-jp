@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターのトレーニングダッシュボードをご覧ください。
+description: パートナーセンターのトレーニングダッシュボードをご覧ください。 トレーニングは、Partner Center Insights (PCI) 領域で利用できるレポートの1つです。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 241f70f5abf597eccb4b85737967210c2d7728a8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220720"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175267"
 ---
 # <a name="trainings-dashboard"></a>トレーニングダッシュボード
 
@@ -49,13 +49,13 @@ ms.locfileid: "89220720"
 
 トレーニングのパフォーマンスでは、ユーザー数の月と、会社の個人によって完了したトレーニングが示されます。 選択した日付範囲のグラフの形式で、認定、評価、および試験によって分割されます。 X 軸は、選択された日付範囲の月を表します。 Y 軸は、選択したトレーニングの種類について、個別の個人数とトレーニング数を表します。 グラフの上にある各タブをクリックすると、分類がトレーニングの種類別に表示されます。 グラフデータは、選択した日付範囲のダウンロードアイコンを使用して、tsv 形式でダウンロードできます。
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="トレーニングのパフォーマンス":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="まとめ":::
 
 ## <a name="individuals-performance"></a>個人のパフォーマンス
 
 個人の [パフォーマンス] セクションには、選択した日付範囲について、会社の個人が行ったトレーニングの詳細が表示されます。 セクションの左側のパネルで、個人の名前を検索して選択します。 選択した個人のトレーニングの詳細が、セクションの右側のパネルに表示されます。
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="個々のパフォーマンス":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="まとめ":::
 
 >[!NOTE] 
 > [個人のパフォーマンス] セクションは、エグゼクティブレポートビューアーのユーザーのみが使用できます。 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Partner Center Insights (PCI) レポートに関連する既知の問題について説明します。
+description: Partner Center Insights (PCI) レポートに関連する既知の問題について説明します。 情報には、既知のレンダリングの問題やレポートの制限が含まれる場合があります。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54f381fcd296b4e526cc4bcd9e977c34b6599c2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f098058f5ddd00de9633633d9bcc0fdd8502e538
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436861"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175257"
 ---
 # <a name="known-issues-with-partner-center-insights"></a>パートナーセンターの洞察に関する既知の問題
 

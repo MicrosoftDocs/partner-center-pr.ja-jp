@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: パートナーセンターへの登録に関する問題のトラブルシューティング
+description: パートナーセンターに登録しようとしたときに発生する問題のトラブルシューティングを行います。 回答は、支払い方法やパスワードを忘れた場合の課題に対処します。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 403899b73dda09dded582c94cabe4219ef56c568
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000616"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174845"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>アカウントのセットアップまたは MPN 更新に関する問題のトラブルシューティング
 
@@ -31,7 +31,7 @@ ms.locfileid: "91000616"
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>パートナーメンバーシップセンターから移行するときに、会社情報フィールドを編集できない場合はどうなりますか
 
-会社が既にパートナーセンター (CSP アカウントなど) に存在する場合、読み取り専用の画面が表示され、パートナーセンターに存在する会社のすべての情報が表示されます。
+会社が既にパートナーセンター (CSP アカウントなど) に存在している場合は、読み取り専用画面が表示されます。 この画面には、パートナーセンターに存在する会社に関するすべての情報が表示されます。
 
 この画面の詳細を変更することはできません。 これは仕様であり、エラーではありません。
 
@@ -40,8 +40,7 @@ ms.locfileid: "91000616"
 
 ### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT 部門が **パートナーセンターへのサインアップ**を無効にしている場合。
 
-
-このメッセージが表示されるのは、ウイルスに感染したユーザーが無効になっているか、Azure AD テナントでウイルスによるサインアップが無効になっているためです。 Azure AD アカウントの全体管理者は、次の PowerShell コマンドを実行して、必要な機能を有効にすることができます。
+このメッセージは、ウイルスに感染したユーザーが無効になっているか、Azure AD テナントでウイルスによるサインアップが無効になっていることが原因で表示されます。 Azure AD アカウントの全体管理者は、次の PowerShell コマンドを実行して、必要な機能を有効にすることができます。
 
 **Set-msolcompanysettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
@@ -49,9 +48,9 @@ ms.locfileid: "91000616"
 
 ## <a name="you-forgot-your-password"></a>パスワードを忘れた場合
 
-パスワードを忘れた場合は、サインインページの [ **アカウントにアクセスできませんか?** ] リンクを選択してパスワードをリセットするか、全体管理者に新しい資格情報の割り当てを依頼してください。
+パスワードを忘れた場合は、サインインページの [ **アカウントにアクセスできない場合]** リンクを選択します。 このオプションを使用すると、パスワードをリセットしたり、グローバル管理者に新しい資格情報の割り当てを依頼したりすることができます。
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>[会社情報をお聞かせください] 画面で、"問題が発生しました" というエラーが表示されます。
+## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>「お客様の会社について教えてください」というエラーが発生すると、"問題が発生しました" というエラーが表示されます。
 
 このエラーメッセージは、通常、会社の電話番号で特殊文字、スペース、または国コードを使用している場合に表示されます。 [電話番号] フィールドに入力する値には、最大で10文字まで含めることができます。
 

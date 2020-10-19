@@ -1,6 +1,6 @@
 ---
 title: 教育機関のお客様にオファーを販売する方法
-description: 教育機関向けの顧客を作成し、パートナーセンターでプランを販売する方法について説明します。
+description: 教育機関向けの顧客を作成し、パートナーセンターでプランを販売する方法について説明します。 教育機関の顧客の検証の状態を確認します。
 ms.topic: how-to
 ms.date: 10/06/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032085"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175075"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>教育機関のお客様にオファーを販売する方法 & パートナーセンターで教育機関の顧客を作成する方法
 
@@ -94,7 +94,7 @@ ms.locfileid: "92032085"
 
 2. 更新された顧客の詳細が教育機関の資格を受けられる場合は、 **特別な要件** が **教育機関**に更新されていることがわかります。 まだ **教育機関のお客様でない**場合は、手動による検証についてサポートにお問い合わせください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)
 

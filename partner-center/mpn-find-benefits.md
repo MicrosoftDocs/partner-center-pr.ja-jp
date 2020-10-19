@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: パートナーセンターのダッシュボードで MPN 特典を見つける方法について説明します。
+description: パートナーセンターのダッシュボードで MPN 特典を見つける方法について説明します。 技術的な利点を得るためにアクセス ID と契約 ID を検索する方法について説明します。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427119"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175319"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Microsoft Partner Network の特典を見つける 
 
@@ -74,7 +74,7 @@ Microsoft Partner Network メンバーとして、会社はビジネスの成長
 
    この特典に割り当てられている特定の製品サポート **契約 id** と **アクセス ID** が表示されます。  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Microsoft 製品サポート Id (契約 ID、アクセス ID など) を示すゴールドコアコンピテンシーサポートのテクニカル特典のサンプル":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="拡張された特典":::
 
    > [!NOTE]
    > これらのサポート Id を記録しておきます。 特定のシステムでは、特定の技術的な特典に関連付けられているサポートリクエストを初めてログに記録する場合があります。 すべての会社のユーザーが同じアクセス ID と契約 ID を使用する可能性があります。

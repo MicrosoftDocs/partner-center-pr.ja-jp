@@ -1,18 +1,18 @@
 ---
 title: 支払いポリシーの詳細-Microsoft コマーシャルマーケットプレース
-description: スケジュールや recoupment など、商業市場における支払いポリシーに関する詳細。
+description: スケジュールや recoupment など、商業市場における支払いポリシーに関連する詳細について説明します。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 09/28/2020
-ms.openlocfilehash: 24436238cb28f4ef1b02afc4e2f4224d1440805c
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: eec5f85f38280757bc1e5d5c36a4dd1ac5ce8d22
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591112"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174925"
 ---
 # <a name="payout-policy-details"></a>支払いポリシーの詳細
 

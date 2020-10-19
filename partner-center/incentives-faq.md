@@ -2,18 +2,18 @@
 title: インセンティブに関する FAQ
 ms.topic: how-to
 ms.date: 08/31/2020
-description: Microsoft インセンティブに関してよく寄せられる質問
+description: Microsoft インセンティブに関してよく寄せられる質問。 この記事には、ユーザーロール、登録方法、またはエラーメッセージの処理方法に関する質問が含まれています。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 9fca257d84c090a3d76807c703bae99449b79cdd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220590"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175201"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>インセンティブに関してよく寄せられる質問
 
@@ -49,6 +49,6 @@ MPNHQ の所在地と同じ国にいない場合、このシナリオの詳細�
 
 ダッシュボードの [インセンティブ] セクション内で問題が発生した場合は、オンラインサポートサービスがあります。サポートオプション (? アイコン) を右上にあります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [インセンティブの概要](incentives-get-started-intro.md)

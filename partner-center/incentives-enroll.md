@@ -2,18 +2,18 @@
 title: インセンティブの登録
 ms.topic: how-to
 ms.date: 09/25/2020
-description: インセンティブプログラムに登録し、ユーザー管理に必要なロールを割り当てます。
+description: インセンティブプログラムに登録し、ユーザー管理に必要なロールを割り当てます。 この記事では、登録プロセスについて説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 9bd1b3ae1ecc01b2709370d7e20fc0556fd14595
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 067ad9370da6a6deeaeac7b24e606fe0bcd555a9
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406355"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175188"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>インセンティブプログラムにおける登録とユーザー管理
 
