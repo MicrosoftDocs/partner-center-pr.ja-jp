@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: パートナーディレクトリのビジネスプロファイルを強化します。 Gold/シルバーコンピテンシーと共に高度な特殊化を獲得する方法について説明します。
+description: Microsoft partner directory のビジネスプロファイルを強化します。 Gold およびシルバーコンピテンシーと共に高度な特殊化を獲得する方法について説明します。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d1dd109f7a6966c288e34171fbbcd42573d8fca
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100752"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198078"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>専門知識をお客様に提供するための高度な特殊化を獲得 
+# <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>専門知識を得るための高度な特殊化を獲得
 
 重要な分野で [gold コンピテンシー](learn-about-competencies.md) を獲得した多くのパートナーは、高度な特殊化を獲得することに移ります。
 
