@@ -1,5 +1,5 @@
 ---
-title: 請求書のフィールドを理解する
+title: パートナーセンターの課金請求書について
 ms.topic: article
 ms.date: 05/18/2020
 description: パートナーセンターの請求書ファイルのフィールドについて説明します。情報には、すべての請求書フィールドと1回限りの料金フィールドのフィールドと定義が含まれています。
@@ -7,14 +7,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 634dc8c9f1d21b62aa0a7e75eb0d31742cd17729
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175335"
+ms.locfileid: "92198008"
 ---
-# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>パートナーセンターの課金請求書-請求と1回限りの料金フィールドを確認する方法について説明します。
+# <a name="understand-partner-center-billing-invoice-fields"></a>パートナーセンターの請求書フィールドについて
 
 **適切なロール**
 

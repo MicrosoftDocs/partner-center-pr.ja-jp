@@ -1,22 +1,22 @@
 ---
-title: 顧客アカウントのユーザーを管理する
+title: 顧客アカウントのユーザーとユーザーライセンスを管理する
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顧客のユーザーアカウントを作成する方法、ユーザーライセンスを追加または削除する方法、ユーザーパスワードをリセットする方法、ユーザーアカウントを削除する方法、または復元する方法について説明します。
+description: ユーザーアカウントの作成、ユーザーライセンスの追加と削除、ユーザーパスワードのリセット、ユーザーアカウントの削除または復元など、パートナーセンターで顧客のユーザーを管理する方法について説明します。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a3febadda51094d443d83d17b640b1744a130335
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527678"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198018"
 ---
-# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>パートナーセンターでの顧客アカウントのユーザー管理タスク
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>顧客アカウントのユーザーとユーザーライセンスを管理する
 
 **適用対象**
 
@@ -105,7 +105,7 @@ ms.locfileid: "87527678"
 
 1.  **パートナー センター** メニューの **[顧客]** を選択し、一覧から顧客を選びます。
 
-2.  [**ユーザーとライセンス**] を選択します。
+2.  [ **ユーザーとライセンス**] を選択します。
 
 3.  **[削除したユーザー ( 人)]** タブを選びます。復元できる削除済みユーザーが存在する場合は、**(1)** 以上の数値が表示されます。
 
