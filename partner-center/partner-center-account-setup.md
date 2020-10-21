@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999266"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197998"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>パートナー センター アカウントの管理 - 会社のプロファイル、銀行に関する情報、ロール、アクセス許可など
 
@@ -53,7 +53,7 @@ ms.locfileid: "90999266"
 >[!NOTE]
 >**[パートナーの設定]** または **[開発者向け設定]** にアクセスするには、パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインし、画面の右上隅にある**設定** オプション (歯車アイコン) を選択する必要があります。 次に、ドロップダウン メニューから **[パートナーの設定]** または **[開発者向け設定]** を選択できます。
 
-:::image type="content" source="images/accountsettings/account1.png" alt-text="アカウント設定":::
+:::image type="content" source="images/accountsettings/account1.png" alt-text="登録済みプログラムのメニュー":::
 
 パートナーは、自分の会社が対象のプログラムに登録しているかどうかに応じて、**パートナーの設定**や**開発者向け設定**を管理するためのオプションを表示できます。 設定オプションが利用できるのは、その設定に関連付けられた少なくとも 1 つのプログラムに自社が登録している場合のみです。
 
@@ -85,11 +85,11 @@ ms.locfileid: "90999266"
 
 **[パートナーの設定] のオプション**:
 
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="パートナーのオプション":::
+:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="登録済みプログラムのメニュー":::
 
 **[開発者向け設定] のオプション**:
 
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="開発者のオプション":::
+:::image type="content" source="images/accountsettings/devoptions.png" alt-text="登録済みプログラムのメニュー":::
 
 ## <a name="enrolling-in-programs"></a>プログラムへの登録
 
@@ -108,7 +108,7 @@ ms.locfileid: "90999266"
 
 複数のアカウントに所属することができます。 複数のアカウントに属している場合は、左側のナビゲーション メニューに "アカウント ピッカー" が表示されます。 アカウント ピッカーを選択すると、メンバーになっているすべてのアカウントが一覧として表示されます。 そのいずれかを選択して、そのアカウントに切り替えると、そのアカウントに関連するすべてのプログラムと情報を表示することができます。 アカウント ピッカーが表示されない場合は、1 つのアカウントのメンバーです。
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="アカウント ピッカー":::
+:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="登録済みプログラムのメニュー":::
 
 ## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>パートナー センターのアカウントを管理するのに役立つその他のリソース
 

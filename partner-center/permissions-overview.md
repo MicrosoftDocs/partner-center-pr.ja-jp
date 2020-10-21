@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
-ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
+ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "90832115"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006809"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>パートナー センターで作業する必要がある会社のユーザーにユーザーのロールとアクセス許可を割り当てる
 
@@ -52,7 +52,7 @@ ms.locfileid: "90832115"
 ||*    パートナー センターへのサポート チケットの作成
 ||*    作成されたパートナー サポート チケットの表示
 |既定のユーザー|  マイ プロフィールの表示   |[パスワードをリセットする](reset-my-pasword.md)
-|管理エージェント | *    顧客の管理|[パートナー センターでリセラー パートナーの顧客アカウントのセットアップと管理を行う](customer-accounts.md)
+|管理エージェント | *    顧客の管理|[お客様とつながる](connect-with-your-customers.md)
 ||*    パートナー センターへのデバイス一覧の追加
 ||*    プロファイルの作成とデバイスへの適用
 ||*    サブスクリプションの管理
