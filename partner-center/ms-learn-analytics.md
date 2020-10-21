@@ -10,11 +10,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 42c7af80ab49cee6e7043587207e553d2ffaa3ac
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239455"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333814"
 ---
 # <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn analytics レポートには、社内の学習者の状態が表示されます。
 
@@ -135,7 +135,7 @@ Microsoft Learn は、ユーザーオブジェクト ID を使用して学習器
 
 MSA アカウントのみをトレーニングに使用するユーザーについては、Microsoft Learn チームが、仕事用の電子メールを Microsoft Learn プロファイルに関連付けることができるようになります。 
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
 
