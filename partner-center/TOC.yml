@@ -1,10 +1,11 @@
-- name: Microsoft パートナー センターについて
+- name: Microsoft パートナー センター ドキュメント
   href: index.yml
 - name: アナウンス
   href: announcements/TOC.md
 - name: Partner Network メンバーシップ
-  href: mpn-overview.md
   items:
+    - name: Microsoft との連携
+      href: mpn-overview.md
     - name: パートナー センター アカウントを作成する
       href: mpn-create-a-partner-center-account.md
     - name: 職場の電子メール アドレスを取得する
@@ -99,9 +100,9 @@
       href: regional-authorization-overview.md
     - name: CSP の地域承認によるテナント統合の手順
       href: csp-regional-authorization-tenant-consolidation.md
-    - name: 概要 - Microsoft 顧客契約に対する顧客の同意を確認する新しい方法
+    - name: Microsoft 顧客契約への同意の確認方法を更新する
       href: confirm-consent.md
-    - name: Microsoft 顧客契約に対する顧客の同意を確認する方法
+    - name: Microsoft 顧客契約への同意を確認する
       href: confirm-customer-agreement.md
     - name: 顧客に代わって顧客契約の同意を証明する場合
       href: attest-acceptance-customer-agreement.md
@@ -120,9 +121,9 @@
           href: csp-gcc-overview.md
         - name: Office 365 Government GCC パートナーと顧客の適格性の条件
           href: csp-gcc-validate.md
-        - name: Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
+        - name: Microsoft Cloud ドイツのためのユーザーとライセンスの管理
           href: user-management-in-partner-center-for-microsoft-cloud-germany.md
-        - name: 米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理
+        - name: Microsoft Cloud for US Government のためのユーザーとライセンスの管理
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
 - name: パートナー センター アカウントを管理する
   items:
@@ -182,7 +183,7 @@
           href: customize-the-catalog.md
 - name: 紹介
   items:
-    - name: ビジネスの拡大をサポートする
+    - name: ビジネスを拡大する
       href: grow-your-business.md
     - name: 紹介の概要
       href: referrals.md
@@ -251,6 +252,9 @@
         - name: 実行証明を作成する
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
+        - name: PoE として税請求書を送信する
+          href: incentives-tax-invoice-poe.md
+          displayName: incentives
     - name: 協力インセンティブの申請
       items:
         - name: 協力インセンティブの申請
@@ -306,7 +310,7 @@
           href: common-billing-scenarios-annual.md
         - name: 1 回限りの請求と定期的な料金の選択のシナリオ
           href: common-billing-scenarios-onetime-recurring.md
-        - name: 請求書 - 請求フィールドと 1 回限りの料金フィールドを読み取る
+        - name: 課金請求書について
           href: invoice-file.md
         - name: ライセンス ベースの課金
           href: license-based-billing.md
@@ -327,7 +331,7 @@
           href: vat-info.md
         - name: 源泉徴収のためのクレジットを受け取る
           href: withholding-tax-credit-form.md
-        - name: 地域税 - ボイス サービス
+        - name: 音声サービスのための地域税
           href: tax-and-fees-voice-services.md
         - name: コマーシャル マーケットプレース発行元向けの税の詳細
           href: tax-details-marketplace.md
@@ -367,7 +371,7 @@
       href: request-a-relationship-with-a-customer.md
     - name: 顧客との再販業者関係の削除
       href: remove-a-relationship.md
-    - name: 顧客によるパートナーへの管理特権の委任または取り消し
+    - name: 顧客から代理管理特権を得る
       href: customers-revoke-admin-privileges.md
     - name: 顧客一覧の表示
       href: see-your-customer-list.md
@@ -418,7 +422,7 @@
     - name: Azure プラン
       href: azure-plan-lp.md
       items:
-        - name: Azure プラン - はじめに
+        - name: Azure プランの概要
           href: azure-plan-get-started.md
         - name: Azure プランを購入する
           href: purchase-azure-plan.md
@@ -426,7 +430,7 @@
           href: compare-azure-offers.md
         - name: 顧客の Azure プランへの移行
           href: azure-plan-transition.md
-        - name: パートナー獲得クレジット - 概要
+        - name: パートナー獲得クレジット
           href: partner-earned-credit.md
         - name: パートナー獲得クレジットの計算方法と支払方法
           href: partner-earned-credit-explanation.md
@@ -459,13 +463,13 @@
           href: sell-marketplace-products.md
         - name: パートナー センターでの Azure サブスクリプションの割り当て
           href: assign-azure-subscriptions.md
-        - name: ユーザーへのライセンスの割り当て
+        - name: ユーザーとライセンスの管理
           href: assign-licenses-to-users.md
         - name: 既存のサブスクリプションへのライセンスまたはサービスの追加
           href: add-licenses-or-services-to-an-existing-subscription.md
         - name: 複数のユーザーへのライセンスの割り当てまたは取り消し
           href: bulk-license-provisioning-for-multiple-users.md
-        - name: ライセンスベース サービスの顧客をクラウド サービス プロバイダー プログラムに移動する
+        - name: ライセンスベース サービスの顧客を CSP プログラムに移動する
           href: transition-seat-based-services.md
         - name: Minecraft Education Edition のサブスクリプションの販売
           href: minecraft-subscriptions.md

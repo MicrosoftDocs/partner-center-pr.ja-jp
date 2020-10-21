@@ -1,168 +1,113 @@
-### YamlMime:Hub
-title: パートナー センターに関するドキュメント
+### YamlMime:Landing
+title: パートナー センター ドキュメント
 summary: パートナー センターは、Microsoft Partner Network (MPN)、クラウド ソリューション プロバイダー (CSP) プログラムなどを活用してビジネスを拡大する場所です。
-brand: windows
 metadata:
   title: パートナー センターに関するドキュメント
   description: パートナー センターは、Microsoft Partner Network (MPN)、クラウド ソリューション プロバイダー (CSP) プログラムなどを活用してビジネスを拡大する場所です。
   ms.service: partner-dashboard
   ms.subservice: partnercenter-csp
-  ms.topic: hub-page
+  ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 09/25/2020
-  ms.openlocfilehash: 43c84bcb7cd5d919d93300a37fbc77bf4bb9a2a6
-  ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+  ms.date: 10/16/2020
+  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
+  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 10/13/2020
-  ms.locfileid: "92006869"
-highlightedContent:
-  items:
-  - title: パートナー センターの重要な更新についての詳細情報
-    itemType: whats-new
-    url: announcements/index.md
-  - title: Microsoft Partner Network メンバーシップの特典とプランを管理する
-    itemType: get-started
-    url: manage-your-partner-network-benefits.md
-  - title: API および SDK 早期導入者プログラムへの参加
-    itemType: deploy
-    url: /partner-center/develop/early-adopter-program
-  - title: 詳細な専門分野を取得する
-    itemType: whats-new
-    url: advanced-specializations.md
-  - title: ISV パートナー様 - オファーを作成してマーケットプレース、AppSource、CSP リセラー チャネルに発行する
-    itemType: whats-new
-    url: /azure/marketplace/
-  - title: パートナーのセキュリティ要件に関するよくある質問
-    itemType: overview
-    url: partner-security-requirements-faq.md
-  - title: パートナー センターでの新しいコマース エクスペリエンス – Azure プラン
-    itemType: whats-new
-    url: azure-plan-lp.md
-conceptualContent:
-  title: パートナー センターでの操作
-  items:
-  - title: アカウントへのサインインと管理
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "92198048"
+landingContent:
+- title: パートナー センターの使用を開始する
+  linkLists:
+  - linkListType: get-started
     links:
-    - url: mpn-create-a-partner-center-account.md
-      itemType: how-to-guide
-      text: パートナー センター アカウントを作成する
-    - url: manage-locations.md
-      itemType: how-to-guide
-      text: 会社の場所を管理する
-    - url: azure-plan-get-started.md
-      itemType: how-to-guide
-      text: Azure プランで従量課金制料金の使用を開始する
-    footerLink:
-      url: partner-center-account-setup.md
-      text: さらに詳しく
-  - title: お客様とつながる
+    - text: パートナー センターのお知らせ
+      url: announcements/index.md
+    - text: Microsoft との連携
+      url: mpn-overview.md
+    - text: パートナー センター アカウントを作成する
+      url: mpn-create-a-partner-center-account.md
+    - text: MPN メンバーシップ特典やプランを管理する
+      url: manage-your-partner-network-benefits.md
+    - text: コンピテンシーの詳細
+      url: learn-about-competencies.md
+- title: ビジネスを拡大する
+  linkLists:
+  - linkListType: concept
     links:
-    - url: confirm-customer-agreement.md
-      itemType: how-to-guide
-      text: 新しい Microsoft 顧客契約
-    - url: assign-licenses-to-users.md
-      itemType: how-to-guide
-      text: 顧客ライセンスの管理
-    - url: see-your-customer-list.md
-      itemType: how-to-guide
-      text: 顧客一覧の表示
-    footerLink:
+    - text: お客様とつながる
       url: connect-with-your-customers.md
-      text: さらに詳しく
-  - title: ビジネスを拡大する
+    - text: クラウド ソリューション プロバイダー (CSP) プログラム
+      url: csp-overview.md
+    - text: 顧客の紹介を入手する
+      url: manage-leads.md
+    - text: インセンティブ プログラム
+      url: incentives-get-started-intro.md
+    - text: 共同販売の機会を管理する
+      url: manage-co-sell-opportunities.md
+    - text: 高度な専門分野を取得する
+      url: advanced-specializations.md
+- title: 主要な概念とタスク
+  linkLists:
+  - linkListType: concept
     links:
-    - url: referrals.md
-      itemType: how-to-guide
-      text: 紹介とビジネス プロファイル
-    - url: manage-leads.md
-      itemType: how-to-guide
-      text: 顧客の照会、マーケティング見込み客、セールス見込み客などの見込み客を管理する
-    - url: manage-co-sell-opportunities.md
-      itemType: how-to-guide
-      text: 共同販売の機会を管理する
-    footerLink:
-      url: grow-your-business.md
-      text: さらに詳しく
-  - title: 請求と税金について
-    links:
-    - url: billing-basics.md
-      itemType: how-to-guide
-      text: 課金の基本
-    - url: read-your-bill.md
-      itemType: how-to-guide
-      text: 請求書の記載事項
-    - url: tax-and-tax-exemptions.md
-      itemType: how-to-guide
-      text: 税金と税金の除外
-    footerLink:
-      url: billing.md
-      text: さらに詳しく
-  - title: ビジネス データの分析
-    links:
-    - url: partner-contribution-indicators.md
-      itemType: how-to-guide
-      text: パートナー貢献度インジケーター
-    - url: analyze-azure-usage.md
-      itemType: how-to-guide
-      text: 顧客の Azure 使用状況データ
-    - url: analyze-indirect-resellers.md
-      itemType: how-to-guide
-      text: 間接リセラー パフォーマンス
-    footerLink:
-      url: data-analysis-lp.md
-      text: さらに詳しく
-  - title: サポートの取得と提供
-    links:
-    - url: customer-support.md
-      itemType: how-to-guide
-      text: 顧客へのサポート提供
-    - url: check-service-health.md
-      itemType: how-to-guide
-      text: サービスの正常性の確認
-    - url: report-problems-with-partner-center.md
-      itemType: how-to-guide
-      text: パートナー センターのレポートに関する問題
-    footerLink:
+    - text: パートナー センターのセキュリティ要件
+      url: partner-security-requirements.md
+    - text: ビジネス プロファイルの作成
+      url: create-a-marketing-profile.md
+    - text: Azure プランの概要
+      url: azure-plan-lp.md
+    - text: マイクロソフトのサポートを受ける
       url: support-from-microsoft.md
-      text: さらに詳しく
-additionalContent:
-  sections:
-  - title: 主要なタスクとツール
-    items:
-    - title: まだパートナーでない場合は、 Microsoft Partner Network に今すぐ参加できます。
-      summary: Microsoft エコシステムとつながります。
-      url: https://partner.microsoft.com/membership
-    - title: パートナー センターの API/SDK リファレンス
-      summary: パートナー センター SDK を使用して、顧客、サブスクリプション、注文データを管理します。
-      url: /partner-center/develop/
-    - title: Marketplace Rewards を管理する
-      summary: Marketplace Rewards では、マーケティング、セールス、テクニカルの特典を含むすべてのプランを対象としたサポートが提供されます。
-      url: marketplace-rewards.md
-  - title: Azure ポータルでの作業
-    items:
-    - title: 課金とコスト管理
-      links:
-      - text: Microsoft Partner Agreement の課金アカウントを使ってみる
-        url: /azure/billing/mpa-overview
-      - text: Azure Cost Management を使ってみる
-        url: /azure/cost-management/get-started-partners
-      - text: 追加の Azure サブスクリプションを作成する
-        url: /azure/billing/billing-create-subscription
-      - text: プログラムによる Azure サブスクリプションの作成
-        url: /azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
-      - text: もっと見る >
-        url: /azure/billing/
-    - title: Azure Lighthouse
-      links:
-      - text: クロステナント管理エクスペリエンスを有効にする
-        url: /azure/lighthouse/concepts/cross-tenant-management-experience
-      - text: CSP の考慮事項
-        url: /azure/lighthouse/concepts/cloud-solution-provider
-      - text: Azure 委任リソース管理のためのお客様のオンボード
-        url: /azure/lighthouse/how-to/onboard-customer
-      - text: マネージド サービスのオファーを公開する
-        url: /azure/lighthouse/how-to/publish-managed-services-offers
-      - text: もっと見る >
-        url: /azure/lighthouse/
+  - linkListType: how-to-guide
+    links:
+    - text: MPN アカウントの場所を管理する
+      url: manage-locations.md
+    - text: MPN プランを更新する
+      url: renew-mpn-offers.md
+    - text: MPN 特典を確認する
+      url: mpn-find-benefits.md
+    - text: 自分のロールを検索する
+      url: find-your-role.md
+- title: アカウントと課金
+  linkLists:
+  - linkListType: how-to-guide
+    links:
+    - text: パートナー センター アカウントを管理する
+      url: partner-center-account-setup.md
+    - text: ユーザーにロールとアクセス許可を割り当てる
+      url: permissions-overview.md
+    - text: ユーザーとユーザー ライセンスを管理する
+      url: assign-licenses-to-users.md
+    - text: 課金の基本
+      url: billing-basics.md
+    - text: 支払いアカウントと税フォームを設定する
+      url: set-up-your-payout-account.md
+    - text: 課金内容を確認する
+      url: read-your-bill.md
+- title: 開発者向けリソース
+  linkLists:
+  - linkListType: reference
+    links:
+    - text: パートナー センターAPI および SDK 早期導入者プログラムにご参加ください。
+      url: /partner-center/develop/early-adopter-program
+    - text: パートナー センター開発者向けドキュメント
+      url: /partner-center/develop
+    - text: パートナー センター REST API リファレンス
+      url: /partner-center/develop/partner-center-rest-api-reference
+    - text: パートナー センター .NET API リファレンス
+      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
+    - text: Java 用パートナー センター SDK
+      url: /java/partnercenter/overview
+    - text: パートナー センター PowerShell
+      url: /powershell/partnercenter/overview
+- title: コマーシャル マーケットプレースでの販売 (ISV)
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: コマーシャル マーケットプレースのドキュメント
+      url: /azure/marketplace
+    - text: Microsoft コマーシャル マーケットプレースとは何ですか?
+      url: /azure/marketplace/overview
+    - text: 公開方法を決定する
+      url: /azure/marketplace/determine-your-listing-type
