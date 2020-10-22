@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
-ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
+ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
+ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92081371"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "92352868"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "92081371"
 
 | **カテゴリ** | **2020 年 10 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[Microsoft 365 Business Voice プランの更新プログラム](2020-october.md#12)|10 月 16 日|
 |機能|[2020 年 11 月の更新:オンライン サービスとソフトウェア チャネルの承認ガイド](2020-october.md#11)|10 月 14 日|
 |製品サービス/市場|[非営利団体向けの Microsoft 365 Business Voice の紹介](2020-october.md#10)|10 月 12 日|
 |製品サービス/市場|[Microsoft 365 Audio Conferencing のプロモーションを利用できるようになりました。また Microsoft 365 Business Voice が近日公開予定](2020-october.md#9)|10 月 9 日|
