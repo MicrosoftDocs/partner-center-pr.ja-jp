@@ -1,19 +1,19 @@
 ---
 title: インセンティブの支払いと税金のプロファイルに関する FAQ
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/22/2020
 description: インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問。 支払いと税金のプロファイルが表示されない理由、およびその対処方法についての質問があります。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f4335bc77acf0e73092de0441cc6254b11c62bb3
+ms.sourcegitcommit: a46ab876baf681c2fa4f9a2876d29c2ba4aad648
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175347"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "92454154"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問
 
@@ -24,8 +24,34 @@ ms.locfileid: "92175347"
 適切なロール:
 
 - インセンティブ管理者
-- 課金管理者
+- アカウント管理者
 - グローバル管理者
+
+## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>税金プロファイルの有効期限が切れています。 これをどのように修正すればよいですか?
+
+税金のプロファイルの有効期限が切れた場合、または期限切れになった場合は、Microsoft に提供した税金の形式を更新する必要があります。 税プロファイルを編集するには、次の手順に従います。
+
+1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+
+2. 歯車アイコンを選択して **[設定]** メニューを開きます。
+
+3. **[アカウントの設定]** で、 **[Payout and tax]\(支払いと税金\)** を選択し、 **[Payout and tax profile]\(支払いおよび税務プロファイル\)** を選択します。
+
+4. [ **税プロファイル**] を選択します。
+
+5. [ **有効期限の日付** ] 列を選択し、有効期限が切れた、または期限切れになる税プロファイルに移動します。
+
+6. [ **編集** ] を選択して、税務プロファイルの編集プロセスを開始します。
+
+7. 必要な詳細情報を提供して、税フォームを更新します。
+
+## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Microsoft は、従業員の個人銀行口座ではなく、会社の銀行情報を実際に確認するにはどうすればよいでしょうか。
+
+この情報を編集するアクセス許可を持つインセンティブ管理者の役割が、適切な従業員にのみ与えられるようにすることは、会社の責任です。
+
+## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Microsoft では、すべてのインセンティブプログラムに同じ銀行と税金の詳細を使用できますか。
+
+企業が複数のインセンティブプログラムに招待されている場合は、すべてのインセンティブプログラムに同じ支払いアカウントを使用することも、異なるプログラムに対して異なる支払いアカウントを選択することもできます。
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>支払いや税金の詳細を提供する必要があるのはなぜですか。
 
@@ -65,7 +91,7 @@ Microsoft インセンティブプログラムの支払いを受け取るには�
 
 MPN の場所に対して作成された税務プロファイルは、その MPN の場所が他のインセンティブ プログラムに参加すると再利用され、自動的に入力されます。 ただし、例外が発生する場合もあります。 たとえば、新しいインセンティブ プログラムの支払いルールに基づいて、税務プロファイルの追加情報が求められることがあります。  
 
-## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみサインインでき @onmicrosoft.com ます。 どうすればよいですか。
+## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみサインインでき @onmicrosoft.com ます。   どうすればいいですか。
 
 ドメインを AAD アカウントに追加するには、アカウント管理者に連絡してください。
 
