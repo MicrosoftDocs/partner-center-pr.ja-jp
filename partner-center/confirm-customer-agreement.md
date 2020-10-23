@@ -1,6 +1,6 @@
 ---
 title: Microsoft 顧客契約に対する顧客の同意を確認する
-description: Microsoft 顧客契約に対する顧客の同意を確認する方法について説明します。 これは、CSP で、顧客のために Microsoft の製品やサービスを注文する際に必要となる場合があります。
+description: Microsoft 顧客契約に対する顧客の同意を確認する方法について説明します。 クラウド ソリューション プロバイダー (CSP) プログラムの参加者が顧客のために Microsoft の製品とサービスを注文するには、これを行う必要があります。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 7d25625eebaf863ed819112439bbf2d6e0f505e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 45a34473ff63875af8bd07962ea836661bc948ee
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000546"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198058"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP パートナー プログラムで Microsoft 顧客契約への顧客の同意を確認する
 
@@ -28,11 +28,7 @@ ms.locfileid: "91000546"
 - 管理エージェント
 - 販売代理店
 
-**適切なパートナーの種類**
-
-- 間接リセラー、直接請求、間接プロバイダー
-
-2019 年 10 月 1 日に、Microsoft Cloud 契約に置き換わるものとして、CPS プログラムに **Microsoft 顧客契約**が導入されました。 間接リセラー向けの追加の[ガイダンス](indirect-reseller-tasks-in-partner-center.md)をご覧ください。 新しい契約へのパートナーの移行を促進するために、2020 年 1 月 31 までは両方の契約が CSP プログラムで共存していました。 2020 年 2 月 1 日に、Microsoft Cloud 契約は Microsoft 顧客契約に置き換わりました。
+2019 年 10 月 1 日に、Microsoft Cloud 契約に置き換わるものとして、CSP プログラムに **Microsoft 顧客契約**が導入されました。 間接リセラー向けの追加の[ガイダンス](indirect-reseller-tasks-in-partner-center.md)をご覧ください。 新しい契約へのパートナーの移行を促進するために、2020 年 1 月 31 までは両方の契約が CSP プログラムで共存していました。 2020 年 2 月 1 日に、Microsoft Cloud 契約は Microsoft 顧客契約に置き換わりました。
 
 顧客が Microsoft 顧客契約に同意するには、次の 2 つのオプションがあります。 
 
@@ -80,7 +76,7 @@ ms.locfileid: "91000546"
 
 5. **[保存]** を選択して続行します。
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="既存の顧客":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="新しい顧客":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>お客様の同意の確認を取得する
 
@@ -132,7 +128,7 @@ ms.locfileid: "91000546"
 >[!NOTE] 
 >新規の顧客は、Microsoft 顧客契約に同意するまで新しい購入を行うことはできません。  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="新規の顧客を作成する":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="新しい顧客":::
 
 5. 新規顧客のワークフローで **[確認]** 画面が表示されたら、顧客の資格情報を保存します。 これらの資格情報は、後で顧客に提供する必要があります。
 
@@ -154,13 +150,13 @@ ms.locfileid: "91000546"
 
 1. パートナー センターの **[顧客]** タブから、 **[リセラーの関係を要求する]** リンクを選択します。 
 
-2. テキストとパラメーター化された URL を含む自動メール テンプレートが生成されます。このメールにより、顧客は Microsoft 365 管理センターに誘導されます。
+2. テキストとパラメーター化された URL を含む自動メール テンプレートが生成されます。この URL により、顧客は Microsoft 365 管理センターに誘導されます。
 
 3. 自動的に生成されるメール テンプレートをカスタマイズして、 **[クリップボードにコピー]** か **[電子メールで開く]** を選択することもできます。
 
 4. このメール テンプレートを使用して、 **[reseller relationship]\(リセラー関係\)** の要求と **[Microsoft 顧客契約]** に同意するよう顧客に要請します。 (注:パートナーは、この要請メールに、自動的に作成された URL と、先ほど作成された顧客の資格情報も含めてください。)
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="関係を作成する":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="新しい顧客":::
 
 5. 顧客がメールで要請を受け取り、パラメーター化された URL をクリックします。 
 
@@ -170,7 +166,7 @@ ms.locfileid: "91000546"
 
 8. 同じ URL 内で、顧客は、協力関係にあるさまざまなパートナーの一覧を統合して表示できます。 パートナーを選択すると、詳細を表示できます。
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="契約に同意する":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="新しい顧客":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>契約を確認して同意するよう既存の顧客に要請する
@@ -187,7 +183,7 @@ Microsoft 顧客契約を確認して同意するよう既存の顧客に要請�
 
 5. 同じ URL 内で、顧客は、協力関係にあるさまざまなパートナーの一覧を統合して表示できます。 パートナーを選択すると、詳細を表示できます。
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="顧客":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="新しい顧客":::
 
 >[!NOTE]
 >特定のシナリオでは、Microsoft 顧客契約に顧客が直接同意できない場合があります。 そのようなシナリオについて詳しくは、「[顧客の代わりに証明する必要がある 2 つのシナリオ](attest-acceptance-customer-agreement.md)」をご覧ください。
@@ -196,7 +192,7 @@ Microsoft 顧客契約を確認して同意するよう既存の顧客に要請�
 
 | 日付 | マイルストーン | 詳細情報 |
 |------------|------------|--------------------------------|
-|2019 年 8 月 1 日|サンドボックスで UX プレビューの提供開始|パートナーは、CSP サンドボックス環境でパートナー センター ダッシュボードを使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 CSP サンドボックス環境へのアクセス権を持つパートナーは、ユーザー エクスペリエンスの変更をプレビューできます。 サンドボックス環境へのアクセス権を持たないパートナーは、その変更をこのトピックで確認できます。|
+|2019 年 8 月 1 日| サンドボックスで UX プレビューの提供開始| パートナーは、CSP サンドボックス環境でパートナー センター ダッシュボードを使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 CSP サンドボックス環境へのアクセス権を持つパートナーは、ユーザー エクスペリエンスの変更をプレビューできます。 サンドボックス環境へのアクセス権を持たないパートナーは、その変更をこのトピックで確認できます。|
 |2019 年 9 月 3 日|サンドボックスで API プレビューの提供開始。|パートナーは、CSP サンドボックス環境でパートナー センター API を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 API パートナーは、この機会を利用して API の変更をプレビューし、新しい契約をサポートするために API の統合作業を開始できます。|
 |2019 年 9 月 20 日|サンドボックスで .NET SDK プレビューの提供開始。|パートナーは、CSP サンドボックス環境内でパートナー センター .NET SDK を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 API パートナーは、この機会を利用して .NET SDK の変更のプレビューを表示し、新しい契約をサポートするために API の統合作業を開始できます。|
 |2019 年 10 月 1 日|Microsoft 顧客契約が運用環境で使用可能|Microsoft では、Microsoft 顧客契約を CSP プログラムに導入します。これは、Microsoft Cloud 契約に置き換わるものです。 パートナーは、運用環境でパートナー センター ダッシュボードと API を使用して、Microsoft 顧客契約へのお客様の同意を確認できます。 Microsoft Cloud 契約は、CSP パートナー プログラムで引き続きサポートされます。 ただし、パートナーは、Microsoft 顧客契約への移行を開始することをお勧めします。 新しい購入および既存のサブスクリプションに対するライセンス数の変更を行う場合、パートナーによる Microsoft 顧客契約または Microsoft Cloud 契約の確認が必要になります。 特定の新しいオファー (新しい Azure プランなど) では、Microsoft 顧客契約への同意の確認が求められます。|

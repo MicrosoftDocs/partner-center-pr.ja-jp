@@ -1,6 +1,6 @@
 ---
 title: 2020 年 9 月のお知らせ
-description: Microsoft パートナー センターの 2020 年 9 月のお知らせ
+description: 2020 年 9 月の Microsoft パートナー センターのお知らせでは、新しい機能、販売促進、オファー、市場、既存のオファーに対する変更を紹介します。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 304514ed4210e2567e080b78b1c1ce135177d874
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591122"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031555"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月のお知らせ
 
@@ -46,7 +46,7 @@ Microsoft 365 管理センターを使用すると、購入されたソフトウ
 
 ### <a name="next-steps"></a>次の手順
 
-- Microsoft 365 管理センター ソフトウェアの詳細については、[概要](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般的なタスク](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide)、[ライセンス キー フルフィルメント機能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)に関するページを参照してください。
+- Microsoft 365 管理センター ソフトウェアの詳細については、[概要](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般的なタスク](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide)、[ライセンス キー フルフィルメント機能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)に関するページを参照してください。
 
 - この更新内容を、組織内の関連するチームと共有してください。
 
@@ -183,17 +183,17 @@ Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムにお�
 
 ### <a name="details"></a>詳細
 
-これは、2020 年 9 月 17 日になされた[パートナー センターのお知らせ](https://docs.microsoft.com/partner-center/announcements/2020-september#8)の内容を更新するものです。 Microsoft では、この API の更新で下位互換性が確保され、パートナー様による統合の変更は行わずに済むように、今回の更新を進めています。 
+これは、2020 年 9 月 17 日になされた[パートナー センターのお知らせ](#8)の内容を更新するものです。 Microsoft では、この API の更新で下位互換性が確保され、パートナー様による統合の変更は行わずに済むように、今回の更新を進めています。 
 
 既に発表されているように、2020 年 9 月 30 日付で、CSP O365 使用状況メトリックが更新されます。 
 
 この変更に伴い、次の CSP ライセンス使用状況 API で使用可能なメトリックの定義が更新されます。 
 
-1. [ライセンスの使用情報 API](https://docs.microsoft.com/partner-center/develop/get-licenses-usage-information)
+1. [ライセンスの使用情報 API](/partner-center/develop/get-licenses-usage-information)
 
-2. [顧客ライセンスの使用情報 API](https://docs.microsoft.com/partner-center/develop/get-customer-licenses-usage-information)
+2. [顧客ライセンスの使用情報 API](/partner-center/develop/get-customer-licenses-usage-information)
 
-3.  [パートナー ライセンスの使用情報 API](https://docs.microsoft.com/partner-center/develop/get-partner-licenses-usage-information)
+3.  [パートナー ライセンスの使用情報 API](/partner-center/develop/get-partner-licenses-usage-information)
 
 更新された定義は以下のとおりです。 API スキーマは変更されていないため、新しい統合は必要ありません。 
 
@@ -260,19 +260,19 @@ Microsoft Partner Network 内の全パートナー組織。
 
 ### <a name="what-is-insights"></a>Insights とは
 
-パートナー センターの Insights ダッシュボードでは、Office 365、Azure、Dynamics 365 などのクラウド製品や、クラウド ソリューション プロバイダー (CSP)、エンタープライズ契約 (EA) などのライセンス モデルでの、ご自分のパートナー組織の主要業績評価指標 (KPI) を、統合してあらゆる角度から見ることができます。 新機能が継続的に追加されており、すべてのレポートが[生データのエクスポート](https://docs.microsoft.com/partner-center/pci-download-reports)をサポートしているため、ビジネス ニーズに基づいてアドホック データ分析を実行できます。 パートナー センターの[エグゼクティブ レポート ビューアーとレポート ビューアー](https://docs.microsoft.com/partner-center/pci-roles)の 2 つのレポート ロールにより、組織内での Insights のアクセスと使用状況をより適切に管理できます。
+パートナー センターの Insights ダッシュボードでは、Office 365、Azure、Dynamics 365 などのクラウド製品や、クラウド ソリューション プロバイダー (CSP)、エンタープライズ契約 (EA) などのライセンス モデルでの、ご自分のパートナー組織の主要業績評価指標 (KPI) を、統合してあらゆる角度から見ることができます。 新機能が継続的に追加されており、すべてのレポートが[生データのエクスポート](../pci-download-reports.md)をサポートしているため、ビジネス ニーズに基づいてアドホック データ分析を実行できます。 パートナー センターの[エグゼクティブ レポート ビューアーとレポート ビューアー](../pci-roles.md)の 2 つのレポート ロールにより、組織内での Insights のアクセスと使用状況をより適切に管理できます。
 
 最近追加されたレポート:
 
-- [リセラー パフォーマンス レポートとデータ エクスポート](https://docs.microsoft.com/partner-center/pci-resellers-performance):CSP 間接プロバイダーに対して、そのプロバイダーのさまざまな間接リセラーのパフォーマンスの概要を提供します。
+- [リセラー パフォーマンス レポートとデータ エクスポート](../pci-resellers-performance.md):CSP 間接プロバイダーに対して、そのプロバイダーのさまざまな間接リセラーのパフォーマンスの概要を提供します。
 
-- [顧客営業案件レポートとデータ エクスポート](https://docs.microsoft.com/partner-center/pci-customer-opportunities):顧客の Microsoft 製品の購入傾向に関する概要を提供します。
+- [顧客営業案件レポートとデータ エクスポート](../pci-customer-opportunities.md):顧客の Microsoft 製品の購入傾向に関する概要を提供します。
 
-Insights で利用可能なレポートの完全な一覧については、[こちら](https://docs.microsoft.com/partner-center/partner-center-insights)を参照してください。
+Insights で利用可能なレポートの完全な一覧については、[こちら](../partner-center-insights.md)を参照してください。
 
 ### <a name="next-steps"></a>次のステップ:
 
-- [パートナー センターの Insights ページ](https://docs.microsoft.com/partner-center/partner-center-insights)に時折アクセスして、レポート機能の更新内容や機能強化についてご確認ください。
+- [パートナー センターの Insights ページ](../partner-center-insights.md)に時折アクセスして、レポート機能の更新内容や機能強化についてご確認ください。
 
 - これらの新機能を確認し、 [Insights] タブのインライン フィードバック ツールからフィードバックの共有をお願いいたします。
 

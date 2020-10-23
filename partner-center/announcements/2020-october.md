@@ -1,6 +1,6 @@
 ---
 title: 2020 年 10 月のお知らせ
-description: Microsoft パートナー センターの 2020 年 10 月のお知らせ
+description: 2020 年 10 月の Microsoft パートナー センターのお知らせでは、新しい機能、販売促進、オファー、市場、既存のオファーに対する変更を紹介します。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,19 +8,134 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/05/2020
-ms.openlocfilehash: 55aba7d13e781cb4edf65f086e2240c798a5d5fe
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.date: 10/14/2020
+ms.openlocfilehash: 6cba6a782b97e5dc1d17737d1f831d3fc2f4bbaf
+ms.sourcegitcommit: 5aafa34f70074996056a07bc50a75cd85ca77593
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844666"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92098481"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月のお知らせ
 
 このページでは、2020 年 10 月の Microsoft パートナー センターのお知らせについて詳しく説明します。
 
 2020 年のお知らせ:[3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
+
+
+________________
+
+## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>2020 年 11 月の更新:オンライン サービスとソフトウェア チャネルの承認ガイド
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-10-14
+- 機能
+ 
+### <a name="summary"></a>まとめ 
+MPA 承認ガイドの更新。
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムに参加している直接請求、間接プロバイダー、および多階層パートナー。
+
+### <a name="details"></a>詳細
+オンライン サービスとソフトウェア チャネルの承認のサブセクションと、Microsoft Partner Agreement の「変更の通知」および「ガイドに対する変更」セクションに従って、Microsoft においてオンライン サービスとソフトウェア チャネルの承認ガイドが更新中であることをお知らせします。更新されたガイドのプレビューは、[こちらから入手できます](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf)。 この更新は、この通知の日付から 30 日後に有効になります。お客様の側で必要になるこれ以上の操作はありません。
+
+### <a name="next-steps"></a>次のステップ
+操作は必要ありません。 これは通知のみです。
+
+________________
+
+## <a name="introducing-microsoft-365-business-voice-for-non-profit-organizations"></a><a name="10"></a>非営利団体向けの Microsoft 365 Business Voice の導入
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-10-12
+- 製品サービス/市場
+ 
+### <a name="summary"></a>まとめ 
+
+2020 年 11 月 1 日に Microsoft は非営利組織向けの Microsoft 365 Business Voice に新しい SKU を導入します。
+
+### <a name="impacted-audience"></a>対象
+
+直接プロバイダー、間接プロバイダー、間接リセラー
+
+### <a name="details"></a>詳細
+
+2020 年 11 月 1 日に Microsoft は Business Voice の新しい SKU を導入します。 完全なスイートは、カナダ、英国、米国で利用できるようになります。 Business Voice (通話プランなし) は、他のすべての市場で利用できるようになります。 
+
+Microsoft 365 Business Voice は、Office 365 に組み込まれている中小企業向けのクラウド ベースの電話システムです。 顧客の Office 365 サブスクリプションに Business Voice を追加すると、通話、チャット、ミーティングが 1 つのアプリケーション (Microsoft Teams) で、オールインワンの通信およびコラボレーション ソリューションとして提供されます。
+
+料金の詳細については価格表をご覧ください。  
+
+米国のお客様は、Microsoft 365 Business Voice (非営利スタッフの価格) に関する価格表のプレビュー オファー ID 情報が正しくないことにご注意ください。 10 月中旬にプロモーション オファー ID が利用可能になり次第、更新後の情報をパートナー センターでお知らせします。 価格に間違いはありません。
+
+Microsoft 365 Business Voice は、次のサブスクリプションに最大 300 ユーザーまで追加できます。 
+- Office 365:Business Essentials、Business Premium、A1、E1、A3、E3  
+- Microsoft 365:Business、A3、E3
+
+### <a name="next-steps"></a>次の手順
+
+- プレビューの価格一覧についての詳細を理解し、組織内のすべての適切な担当者にこの情報を共有してください。
+- クラウド ソリューション プロバイダー (CSP) プログラムの更新リソース ギャラリーにあるすべての準備資料を確認してください:[中小企業向けの Microsoft 365 Business Voice の導入](https://partner.microsoft.com/resources/collection/m365-voice-smb#/)。
+
+________________
+
+## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-audio-conferencing-now-available-and-microsoft-365-business-voice-coming-on-november-1-2020"></a><a name="9"></a>Microsoft 365 Audio Conferencing 用のクラウド ソリューション プロバイダー (CSP) プロモーションが利用可能になり、Microsoft 365 Business Voice が 2020 年 11 月 1 日に公開予定です
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-10-09
+- 製品サービス/市場
+
+### <a name="impacted-audience"></a>対象
+
+CSP プログラム経由で取引のあるすべてのパートナー様
+
+### <a name="details"></a>詳細
+
+Microsoft は、パートナーが会議ソリューションとしての Teams の導入を促進するために 2 つの新しい CSP プロモーションを開始します。 どちらのプロモーションも、Microsoft 365 ライセンスに電話会議を追加する際の摩擦を減らすことで、Microsoft 365 および Teams の完全な価値をミーティングおよび通話ソリューションとして顧客に提供します。
+2020 年 10 月 1 日から 2021 年 3 月 31 日まで、顧客は Microsoft 365 Audio Conferencing をアドオン SKU として Microsoft 365 サブスクリプションに 12 か月間無料で追加できます。
+
+#### <a name="offer-details"></a>特典の詳細
+
+   |**プラン名**|**プラン ID**|**マテリアル ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 電話会議の導入プロモーション|106da677-5af6-492a-ac7f-52b3b29a9762|TJ7-00023|
+
+2020 年 11 月 1 日から 2021 年 4 月 30 日まで、通話プラン付きの Microsoft 365 Business Voice と通話プランなしの Microsoft 365 Business Voice の新規および更新サブスクリプションには割引価格が適用されます。 通話プラン付きの Microsoft 365 Business Voice には 12 か月で 25% の割引、通話プランなしの Microsoft 365 Business Voice には 12 か月で 33% の割引が適用されます。
+
+   |**プラン名**|**プラン ID**|**マテリアル ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business Voice 導入プロモーション|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
+   |Microsoft 365 Business Voice 導入プロモーション|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
+   |Microsoft 365 Business Voice 導入プロモーション|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|PZW-00020|
+   |Microsoft 365 Business Voice (通話プランなし) 導入プロモーション|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
+   |Microsoft 365 Business Voice (通話プランなし) 導入プロモーション|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
+   |Microsoft 365 Business Voice (通話プランなし) 導入プロモーション|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
+   |Microsoft 365 Business Voice (通話プランなし) 米国向け導入プロモーション|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   
+これらのプロモーションは、次の顧客に影響します。
+- まったくの新規顧客のテナント
+- CSP、Web ダイレクト、またはその他の Microsoft 商用チャネルで何らかの Business Voice または電話会議ライセンスについてアクティブまたは最近 (過去 30 日以内に) キャンセルされたサブスクリプションがない既存の顧客のテナント
+
+#### <a name="additional-resources"></a>その他のリソース
+
+- Business Voice の詳細については、[Microsoft 365 Business Voice パートナー ページ](https://www.microsoft.com/microsoft-365/partners/businessvoice)をご覧ください。 
+- [電話会議機能](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)の詳細については、Microsoft 365 の電話会議に関するページをご覧ください。
+- これらのプロモーションの詳細については、関連する[パートナー向け FAQ](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo) をご覧ください。
+
+### <a name="next-steps"></a>次のステップ
+
+- 会議と通話のプロモーションについての詳細を理解し、組織内のすべての該当する担当者とこの情報を共有します。
+- これらのオファーを Microsoft 365 の営業プロモーションに組み込みます。
+- Business Voice や Audio Conferencing を Teams に追加する価値について顧客の意識を高めます。
+
+### <a name="questions"></a>わからないことがある場合は、
+
+これらのオファーに関するご質問は、Microsoft アカウント チームまたはサポートの担当者にお問い合わせください。
 
 ________________
 
@@ -142,10 +257,10 @@ ________________
 
 ### <a name="details"></a>詳細情報
 
-2020 年 10 月 1 日現在、次の新しい市場で Microsoft 通話プランを利用できるようになったことを発表します:オーストリア、デンマーク、イタリア、ポルトガル、スウェーデン、スイス。 この新しい利用可能地域は、Enterprise Agreement (EA) または Enterprise Agreement Subscription (EAS)、教育ソリューション加入契約 (EES)、Web Direct、CSP を通じて、商用、世界中の公的機関、非営利団体、Government Community Cloud で提供が開始されました。 
- 
-Microsoft 通話プランのすべての機能は、Microsoft の国内および国際通話プランで利用できます。たとえば、1 ユーザーあたり 1 か月あたり 120、240、1,200 分 (p/u/m) の国内プラン、および国内通話 1,200 分 p/u/m と国際通話 600 分 p/u/m の国際プランを含みます。 
- 
+2020 年 10 月 1 日現在、次の新しい市場で Microsoft 通話プランを利用できるようになったことを発表します:オーストリア、デンマーク、イタリア、ポルトガル、スウェーデン、スイス。 この新しい利用可能地域は、Enterprise Agreement (EA) または Enterprise Agreement Subscription (EAS)、教育ソリューション加入契約 (EES)、Web ダイレクト、CSP を通じて、商用、世界中の公的機関、非営利団体、Government Community Cloud で提供が開始されました。
+
+Microsoft 通話プランのすべての機能は、Microsoft の国内および国際通話プランで利用できます。たとえば、1 ユーザーあたり 1 か月あたり 120、240、1,200 分 (p/u/m) の国内プラン、および国内通話 1,200 分 p/u/m と国際通話 600 分 p/u/m の国際プランを含みます。
+
 Microsoft 通話プランは、以前は次の市場で利用可能でした:ベルギー、カナダ、フランス、ドイツ、アイルランド、オランダ、プエルトリコ (チャネルの利用が EA と EES のみに制限されています)、スペイン、イギリス、米国 (サード パーティの通話プランがオーストラリアと日本で使用可能)。
 
 #### <a name="offer-details"></a>特典の詳細
@@ -290,8 +405,8 @@ Windows 7 のサポートは 2020 年 1 月 14 日に終了しました。 多�
 
 #### <a name="additional-resources"></a>その他のリソース
 
-- [Windows 7 サポートに関する FAQ ページ](https://docs.microsoft.com/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
-- [Windows 7 のサポートと Microsoft 365 アプリ](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support)
+- [Windows 7 サポートに関する FAQ ページ](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Windows 7 のサポートと Microsoft 365 アプリ](/deployoffice/endofsupport/windows-7-support)
 - [リソース ギャラリー](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
 
 ### <a name="next-steps"></a>次のステップ

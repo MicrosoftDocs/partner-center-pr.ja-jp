@@ -1,7 +1,7 @@
 ---
 title: クラウド ソリューション プロバイダー プログラムに登録する
 ms.topic: how-to
-ms.date: 10/05/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: お客様のビジネスに最も適したクラウド ソリューション プロバイダー (CSP) プログラム販売モデル (間接リセラーや直接請求パートナーなど) に登録する方法について説明します。
@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763333"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198098"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>クラウド ソリューション プロバイダー プログラムに登録して収益性の高いクラウド ソリューション ビジネスを構築する
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
 **適用対象**
 
@@ -64,7 +64,7 @@ CSP の申請を作成するときは、MPN ID、会社の正確な住所、銀�
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>直接請求パートナーとして登録する
 
-直接請求パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。 2018 年 8 月 31 日の時点で、直接請求パートナーに対する登録要件を更新しました。 これらの新しい要件により、正しい CSP 登録モデルによるビジネスの成長が促され、付加価値の高いサービスやサポートによって顧客との関係を強化します。 
+直接請求パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。 2018 年 8 月 31 日の時点で、直接請求パートナーに対する登録要件を更新しました。 これらの新しい要件により、正しい CSP 登録モデルによるビジネスの成長が促され、付加価値の高いサービスやサポートによって顧客との関係を強化します。
 
 ### <a name="minimum-requirements"></a>最小要件
 
@@ -96,5 +96,8 @@ CSP プログラムは発展と成長を続けるので、直接請求パート�
 ## <a name="csp-regional-markets-and-currencies"></a>CSP の地域市場と通貨
 
 会社の場所によって市場が決まります。 市場には CSP プランを販売できる地域や国が含まれます。 市場の場所と通貨については、「[クラウド ソリューション プロバイダー プログラムの地域市場と通貨](regional-authorization-overview.md)」をご覧ください。
-必ず、[新しい MPN ID 所在地を追加する方法に関するページ](manage-locations.md)もお読みください。
+また、必ず「[CSP ビジネスの新しい場所を追加するための前提条件](manage-locations.md)」もご覧ください。
 
+## <a name="next-steps"></a>次の手順
+
+- [CSP プログラム パートナー向け Microsoft Partner Agreement (MPA) について説明します。](microsoft-partner-agreement.md)

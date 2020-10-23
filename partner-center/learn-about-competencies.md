@@ -1,7 +1,7 @@
 ---
 title: Microsoft Gold および Silver コンピテンシーの要件
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gold および Silver のメンバーシップ レベルを獲得するためのコンピテンシー要件を満たすことにより、優良な Microsoft パートナーの状態を獲得し、新しい顧客の関心を引く方法について説明します。
@@ -9,14 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8c5bc3b22096d28ba546e2d9493aeaa110a571c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434431"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100722"
 ---
-# <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft の Silver および Gold コンピテンシーに関する情報と高度な専門性
+# <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft コンピテンシーを獲得してビジネスを差別化する
 
 **適切なロール**
 - グローバル管理者
@@ -24,57 +24,47 @@ ms.locfileid: "86434431"
 
 Microsoft コンピテンシーを獲得すると、1 つまたは複数の専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft コンピテンシーは、パートナーが顧客のニーズに対応した能力を備え、マイクロソフト認定のソリューション プロバイダーを求める新規顧客にアピールするように支援することを目的としています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
 
-- **Silver メンバーシップ**を獲得すると、一貫した能力、専門知識、業務への取り組みを証明できます
+- **Silver** コンピテンシーを獲得すると、一貫した能力と業務への取り組み姿勢を証明できます。
 
-- **Gold メンバーシップ**を獲得すると、マイクロソフト ソリューションの特定の領域内で、クラス最高の能力を備えていることを証明できます
+- **Gold** コンピテンシーを獲得すると、Microsoft ソリューションの分野でクラス最高の能力を備えていることを証明できます。
 
-- Gold パートナー メンバーとして、ポートフォリオに高度な専門性を追加することもできます。
+コンピテンシーの獲得は、さらなるベネフィットと機会の獲得につながります:
 
-**Silver メンバーシップ**または **Gold メンバーシップ**のコンピテンシーを獲得すると、ビジネスの拡大と成長に役立つ強力な[市場投入](mpn-learn-about-go-to-market-benefits.md)オファーおよびプログラムも得られるようになります。
+- 強力な[市場進出](mpn-learn-about-go-to-market-benefits.md)オファーおよびプログラムを提供することは、お客様のビジネスを拡大して成長させるのに役立ちます。 [Microsoft の支援を受けた市場投入に関する詳細情報](https://partner.microsoft.com/solutions/go-to-market)。
 
-## <a name="check-your-status-as-you-earn-a-competency"></a>コンピテンシーを獲得したときの状態を確認する
+- Gold コンピテンシーを獲得すると、より多くの [Advanced Specialization](advanced-specializations.md) を目指して自社のポートフォリオに追加する機会を得ることができます。 advanced specialization は、お客様の専門知識を顧客に紹介するのに役立ちます。 [ に関する詳細情報](https://partner.microsoft.com/membership/advanced-specialization)。
+
+## <a name="check-your-status-as-you-attain-a-competency"></a>コンピテンシーを獲得したときの状態を確認する
 
 パートナー センター ダッシュボードのコンピテンシー領域から、要件と会社が達成した内容を確認できます。
 
 1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。
 
-2. パートナー センター メニューの [MPN] セクションで、 **[コンピテンシー]** を選択します。 
+2. パートナー センター メニューの [MPN] セクションで、 **[コンピテンシー]** を選択します。
 
 3. 詳細情報を確認するには、コンピテンシー名と各コンピテンシー オプションを選択します。 完了した内容を確認することができます。また、特定の試験や廃止された試験の検証日に関する詳細な要件とリンクを確認することもできます。
 
 ## <a name="competency-areas"></a>コンピテンシーの分野
 
-Silver または Gold メンバーシップを取得するには、パートナーは、さまざまな分野のビジネスとテクノロジに関する専門知識を備えていることを証明するように求められます。
+Silver または Gold メンバーシップ コンピテンシーを取得するには、パートナーは、さまざまな分野のビジネスとテクノロジに関する専門知識を備えていることを証明するように求められます。
 
-|**分野**            |**下位分野**                    |
+|**領域**            |**コンピテンシー**                    |
 |--------------------|--------------------------------|
-|アプリケーションとインフラストラクチャ|アプリケーション開発; アプリの統合; クラウド プラットフォーム;DevOps; データセンター|
-|ビジネス アプリケーション |クラウド ビジネス アプリケーション; エンタープライズ リソース プランニング; クラウド カスタマー リレーションシップ マネージャー|
-|データと AI|データ分析; データ プラットフォーム|
-|モダン ワークプレース| コラボレーションとコンテンツ; 通信; クラウドの生産性; エンタープライズ モビリティ管理; メッセージング; プロジェクトとポートフォリオ; セキュリティ; 小規模および中規模市場向けクラウド ソリューション; Windows とデバイス|
+|アプリケーションとインフラストラクチャ| - Application Development<br/> - App Integration<br/> - Cloud Platform<br/> - DevOps<br/> - Datacenter |
+|ビジネス アプリケーション | - Cloud Business Applications</br> - Enterprise Resource Planning (ERP)</br> - Project and Portfolio |
+|データと AI| - Data Analytics<br/> - Data Platform |
+|モダン ワークプレースとセキュリティ | - Collaboration and Content<br/> - Communications<br/> - Cloud Productivity<br/> - Enterprise Mobility Management (EMM)<br/> - Messaging<br/> - Security<br/> - Small and Midmarket Cloud Solutions<br/> - Windows and Devices |
 
-Silver と Gold のコンピテンシー レベルでは、分野ごとに異なる要件があります。 分野ごとに、会社の従業員が目的のコンピテンシー レベルを達成するために受けることができる授業と試験があります。
+Silver と Gold のコンピテンシー レベルでは、分野ごとに異なる要件があります。 分野ごとに、会社の従業員が目的のコンピテンシー レベルを達成するために受けることができる授業と試験があります。 
 
+Silver および Gold コンピテンシーを獲得するための要件の詳細については、「[Microsoft Partner Network コンピテンシー](https://partner.microsoft.com/membership/competencies)」をご覧ください。
 
-[Silver および Gold メンバーシップを獲得するための要件](https://partner.microsoft.com/membership/competencies)をご確認ください。
+## <a name="next-steps"></a>次のステップ
 
-[Silver および Gold のメンバーシップで利用できる具体的な市場進出のベネフィット](mpn-learn-about-go-to-market-benefits.md)をご確認ください 
+- [Silver および Gold コンピテンシーを獲得するための要件](https://partner.microsoft.com/membership/competencies)に関する詳細情報。
 
-[コンピテンシーに対する請求書と税金](mpn-view-print-maps-invoice.md)をご確認ください。
+- Gold コンピテンシーと 1 つ以上の [Advanced Specialization](advanced-specializations.md) を組み合わせることによって専門知識をさらに紹介する方法に関する詳細情報。
 
-## <a name="advanced-specializations"></a>高度な専門性
+- コンピテンシーに含まれる特定の[市場進出の利点](mpn-learn-about-go-to-market-benefits.md)に関する詳細情報。
 
-Gold コンピテンシーを超える高度な専門性を備えてください。 これらは、製品、ソリューション分野、またはサービスで、実証済みの検証可能な専門知識を持っていることを示す手段になります。 顧客は、パートナー ディレクトリのビジネス プロファイルの中で、パートナーが Gold コンピテンシーと高度な専門性の両方を備えていることを確認できます。 高度な専門性タグを受け取るには、公開されている一連の条件をビジネスが完全に満たしていることを Microsoft によって検証される必要があります。 [詳しくはこちらをご覧ください](https://partner.microsoft.com/membership/competencies#tab-content-2)。 
-
-## <a name="the-current-advanced-specializations"></a>現在の高度な専門性
-
-- SAP on Azure ソリューションの実装における深い知識、豊富な経験、および優れた実績を証明する SAP on Azure パートナーは、SAP on Azure の高度な専門知識をを追求できます。
-
-- Microsoft Azure への Windows Server と SQL Server の移行を行うパートナーは、Azure 内の多様な SQL 移行オプションに関するガイダンスを提供するための深い知識を有し、Windows Server と SQL Server ベースのワークロードの Microsoft Azure への移行と最適化に関する専門知識を証明します。 
-
-- Linux とオープンソースのデータベースを Microsoft Azure に移行するパートナーは、オープン ソース テクノロジに関する深い知識を有し、Red Hat Enterprise Linux (RHEL) または SUSE 仮想マシンで実行される実稼働ワークロードや MariaDB、PostgreSQL、MySQL、CassandraDB、MongoDB データベースの Azure への移行と最適化に関する専門知識を証明します。
-
-- Microsoft Azure へのデータ ウェアハウスの移行を行うパートナーは、Teradata、Netezza、または Oracle Exadata から Azure へのデータ ウェアハウス移行の優れた実績があり、データをクラウドベースのデータ ウェアハウスに移行するための既存のワークロードの分析、スキーマ モデルの生成、および抽出、変換、読み込み (ETL) 操作の実行に関する専門知識を証明します。
-
-- Microsoft Azure 上の Kubernetes を扱うパートナーは、DevOps プラクティスを使用して AKS を実装し、Microsoft Azure でのコンテナーの使用とホストされた Kubernetes 環境の管理について、クラウドでの実稼働環境のワークロードのデプロイと管理に関する専門知識を証明します。
-Microsoft Azure での Web アプリケーションの最新化を行うパートナーは、顧客のアプリケーション開発が成功することを保証し、コンテンツ管理システムに精通しています。 Web アプリケーションのワークロードの移行とデプロイ、DevOps プラクティスの適用、および Microsoft Azure でのアプリケーション サービスの管理に関する専門知識を証明します。
+- [コンピテンシーに関する請求と税金](mpn-view-print-maps-invoice.md)の詳細。
