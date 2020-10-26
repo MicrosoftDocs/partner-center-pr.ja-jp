@@ -607,6 +607,8 @@
       href: partner-security-requirements.md
     - name: パートナー テナントに MFA を義務付ける
       href: partner-security-requirements-mandating-mfa.md
+    - name: 多要素認証を使用してユーザーを設定する
+      href: mfa-for-users.md
     - name: 要件の状態
       href: partner-security-compliance.md
     - name: よく寄せられる質問
