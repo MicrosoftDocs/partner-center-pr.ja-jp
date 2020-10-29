@@ -46,6 +46,8 @@
       items:
         - name: コンピテンシーの詳細
           href: learn-about-competencies.md
+        - name: コンピテンシーに関する FAQ
+          href: competencies-faq.md
         - name: アプリ開発コンピテンシーの除外
           href: app-dev-isv.md
     - name: 高度な専門性

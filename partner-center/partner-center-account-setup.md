@@ -8,13 +8,13 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/02/2020
-ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.date: 10/19/2020
+ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197998"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333934"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>パートナー センター アカウントの管理 - 会社のプロファイル、銀行に関する情報、ロール、アクセス許可など
 
@@ -42,20 +42,20 @@ ms.locfileid: "92197998"
 1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 2. 左側のナビゲーション ペインを確認します。 登録されているプログラムに関連付けられているオプションが表示されます。
 
-1 つの例を次に示します。 パートナー センターのダッシュボードで、ユーザーが 3 つのプログラムにアクセスできるとします。**MPN** プログラム、**紹介**プログラム、および**コマーシャル マーケットプレース** プログラムです。 パートナー センターのダッシュボードにサインインすると、画面の左側にこれら 3 つのプログラムが表示されます。
+1 つの例を次に示します。 パートナー センターのダッシュボードで、ユーザーが 3 つのプログラムにアクセスできるとします。 **MPN** プログラム、 **紹介** プログラム、および **コマーシャル マーケットプレース** プログラムです。 パートナー センターのダッシュボードにサインインすると、画面の左側にこれら 3 つのプログラムが表示されます。
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="登録済みプログラムのメニュー":::
 
 ## <a name="account-management"></a>アカウント管理
 
-現在、パートナー センターには、次の 2 つの異なるセクションにアカウント管理があります。**パートナー**の設定と**開発者向け**設定。
+現在、パートナー センターには、次の 2 つの異なるセクションにアカウント管理があります。 **パートナー** の設定と **開発者向け** 設定。
 
 >[!NOTE]
->**[パートナーの設定]** または **[開発者向け設定]** にアクセスするには、パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインし、画面の右上隅にある**設定** オプション (歯車アイコン) を選択する必要があります。 次に、ドロップダウン メニューから **[パートナーの設定]** または **[開発者向け設定]** を選択できます。
+>**[パートナーの設定]** または **[開発者向け設定]** にアクセスするには、パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインし、画面の右上隅にある **設定** オプション (歯車アイコン) を選択する必要があります。 次に、ドロップダウン メニューから **[パートナーの設定]** または **[開発者向け設定]** を選択できます。
 
 :::image type="content" source="images/accountsettings/account1.png" alt-text="登録済みプログラムのメニュー":::
 
-パートナーは、自分の会社が対象のプログラムに登録しているかどうかに応じて、**パートナーの設定**や**開発者向け設定**を管理するためのオプションを表示できます。 設定オプションが利用できるのは、その設定に関連付けられた少なくとも 1 つのプログラムに自社が登録している場合のみです。
+パートナーは、自分の会社が対象のプログラムに登録しているかどうかに応じて、 **パートナーの設定** や **開発者向け設定** を管理するためのオプションを表示できます。 設定オプションが利用できるのは、その設定に関連付けられた少なくとも 1 つのプログラムに自社が登録している場合のみです。
 
 自分のアカウント設定を管理するには、対象のプログラムの適切なアカウント設定オプションを選択する必要があります。  
 
@@ -83,11 +83,11 @@ ms.locfileid: "92197998"
 
 **[パートナーの設定]** オプションは、 **[開発者向け設定]** オプションとは異なります。 各オプションのセットのサンプル スクリーンショットについては、以下を参照してください。 他のプログラムにアクセスできる場合は、ここに表示されているスクリーンショット サンプルとは異なるオプションが表示されることもあります。
 
-**[パートナーの設定] のオプション**:
+**[パートナーの設定] のオプション** :
 
 :::image type="content" source="images/accountsettings/partneroptions.png" alt-text="登録済みプログラムのメニュー":::
 
-**[開発者向け設定] のオプション**:
+**[開発者向け設定] のオプション** :
 
 :::image type="content" source="images/accountsettings/devoptions.png" alt-text="登録済みプログラムのメニュー":::
 
@@ -126,6 +126,5 @@ MPN プログラムやクラウド ソリューション プロバイダー (CSP
 |コントロール パネル ベンダーとしてパートナー センターに登録する|[コントロール パネル ベンダーとしてパートナー センターに登録する](enroll-as-cpv.md)|
 |パートナー センターでの Microsoft Learn アカウントの関連付け|[パートナー センターでの Microsoft Learn アカウントの関連付け](ms-learn-associate.md)|
 |市場で顧客が自社を検索できるようにマーケティングする   |[ビジネス プロファイルの作成](create-a-marketing-profile.md)|
-|最も重要な製品が一覧の先頭になるようにカタログを整理する   |[カタログのカスタマイズ](customize-the-catalog.md)|
 |料金とプランを常に最新の状態に維持する   |[料金とプラン](pricing-and-offers.md)|
-|API:パートナーの MPN ID を検証する|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
+|API:パートナーの MPN ID を検証する|[パートナーの MPN ID を検証する](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)

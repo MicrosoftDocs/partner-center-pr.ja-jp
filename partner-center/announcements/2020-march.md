@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ff697bec18c59957d8be7d5ec8ad09edb364b6bb
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031715"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795800"
 ---
 # <a name="march-2020-announcements"></a>2020 年 3 月のお知らせ
 
@@ -44,11 +44,11 @@ _________________
 
 2020 年 4 月 21 日に、Office 365 SMB オファリングの名前が変更されます。
 
-- Office 365 Business Essentials は、**Microsoft 365 Business Basic** になります。 これは、基本的なクラウド サービスをお探しのお客様のためのエントリ レベルのオファリングです。
+- Office 365 Business Essentials は、 **Microsoft 365 Business Basic** になります。 これは、基本的なクラウド サービスをお探しのお客様のためのエントリ レベルのオファリングです。
 - Office 365 Business Premium は **Microsoft 365 Business Standard** になります。 これは、クラウド サービスやクラウドに接続されたデスクトップ アプリなどを含む、SMB 向けの主要なオファリングです。
 - Microsoft 365 Business は **Microsoft 365 Business Premium** になります。 これは、さらなるセキュリティ、デバイス、ID の価値をお探しの、ハイエンドの SMB 向けの主要な SKU です。
 
-また、次の 2 つの Office クライアント サブスクリプションの新しい名前として、**Microsoft 365 Apps** も導入します。
+また、次の 2 つの Office クライアント サブスクリプションの新しい名前として、 **Microsoft 365 Apps** も導入します。
 
 - Office 365 Business は、Microsoft 365 Apps for business になります
 - Office 365 ProPlus は、Microsoft 365 Apps for enterprise になります
@@ -178,7 +178,7 @@ Enterprise Agreement (EA)、Enterprise Agreement Subscription (EAS)、Microsoft 
 
 プレビューの価格表について詳しくご確認ください。 2020 年 4 月 1 日に、Microsoft 365 F0 は Microsoft 365 F1 に名前が変更されることにご注意ください。 また、Microsoft 365 F1 は、Microsoft 365 F3 に名前が変更されます。
 
-**[こちら](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates#/)のコンテンツをご覧になり**、価値提供について、および販売を促進して新しい営業機会を創出するために必要となる可能性のあるすべてのマーケティング資料の作成についてご確認ください。
+**[こちら](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates#/)のコンテンツをご覧になり** 、価値提供について、および販売を促進して新しい営業機会を創出するために必要となる可能性のあるすべてのマーケティング資料の作成についてご確認ください。
 
 この情報を組織内の適切なすべての担当者に共有してください。
 
@@ -207,11 +207,11 @@ _________________
 
 顧客およびパートナー様に法令に準拠しているビジネス プラクティスを提供するための継続的な取り組みの一環として、Microsoft は、教育機関の新規顧客アカウントすべての申請について、顧客の適格性を確認する自動検証を導入しました。 自動検証機能を開始して以降、誤った、または無効な顧客データが入力されたことによる審査の問題が増加していることが判明しました。 プロセスを合理化し、審査プロセスの遅延を最小限に抑えるために、次の手順に従ってください。
 
-- 正当な申請に対する審査失敗を調査する際の遅延を減らすために、可能な限り**正確**かつ**完全**な顧客データを入力してください。 テスト/ダミー データでは入力しないでください。
-- 「**パートナー センターで教育機関の顧客を作成する際のガイド**」および「**新しい顧客ページの追加**」をご覧になり、パートナー センターで新しい教育機関の顧客を作成する際に必要な事項をご確認ください。 両方とも次のリソース ギャラリーにあります。
+- 正当な申請に対する審査失敗を調査する際の遅延を減らすために、可能な限り **正確** かつ **完全** な顧客データを入力してください。 テスト/ダミー データでは入力しないでください。
+- 「 **パートナー センターで教育機関の顧客を作成する際のガイド** 」および「 **新しい顧客ページの追加** 」をご覧になり、パートナー センターで新しい教育機関の顧客を作成する際に必要な事項をご確認ください。 両方とも次のリソース ギャラリーにあります。
 
 >[!NOTE] 
->「**パートナー センターで教育機関の顧客を作成する際のガイド**」では、顧客情報を修正したり、審査が失敗した場合に再送信したりする方法について、詳細な手順が説明されています。
+>「 **パートナー センターで教育機関の顧客を作成する際のガイド** 」では、顧客情報を修正したり、審査が失敗した場合に再送信したりする方法について、詳細な手順が説明されています。
 
 **次の手順/追加のリソース:**
 
@@ -250,7 +250,7 @@ _________________
 
 Microsoft は、現場担当者向けに新しいレベルのエントリ SKU を導入します。これによりパートナー様は、より多くの顧客獲得の機会を得ることができます。 その結果として、古い M365 F1 プランも改訂されます。 これは M365 F3 という名前になり、既定で追加の機能が提供されます。
 
-**詳細については、[こちら](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates#/)からその他のリソースを確認してください**
+**詳細については、 [こちら](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates#/)からその他のリソースを確認してください**
 
 ### <a name="microsoft-365-for-unattended-scenarios"></a>無人シナリオに対応する Microsoft 365
 Microsoft 365 E3 - 無人ライセンスを使用すると、自動プロセスの実行中に一般的に行われるように、サービスやその他の非ユーザー アカウントで Office アプリケーションを使用できるようになります。 その場合でも、可能であれば [Microsoft Graph](https://graph.microsoft.com/) などの製品 API を自動プロセスで利用することをお勧めします。 また、この新しいライセンスは、生産性データとツールを使用するための新しいオプションを提供します。
@@ -263,7 +263,7 @@ Microsoft 365 E3 - 無人ライセンスを使用すると、自動プロセス�
 
 Premium メッセージングでは、次のことが可能です。
 
-- ユーザー向けの無制限の優先度通知。 **緊急**としてタグ付けされた Teams メッセージは、20 分間、2 分ごとに受信者に通知されます。
+- ユーザー向けの無制限の優先度通知。 **緊急** としてタグ付けされた Teams メッセージは、20 分間、2 分ごとに受信者に通知されます。
 - チャット、チャネル、およびタスクのコミュニケーションが対象です。
 
  プレビューの価格表で、次のオファーをご確認ください。高度なコラボレーション、61fde0d0-4b08-4900-b30a-e2e70e0447ba。
@@ -317,7 +317,7 @@ _________________
 
 - [Dynamics 365 ホーム ページ](https://dynamics.microsoft.com/)
 - [Mixed Reality アプリ ガイド ホーム ページ](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Biz Apps 不正防止に関するホーム ページ](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing//docs.microsoft.com/dynamics365/fraud-protection/overview)
+- [Biz Apps 不正防止に関するホーム ページ](/dynamics365/fraud-protection/overview)
 - [FY20 PowerApps と Flow のライセンスの更新情報](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365 ライセンス](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 - [Dynamics 365 と Power Platform - 可用性、データの場所、言語、ローカライズ コンテンツ](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
@@ -325,7 +325,7 @@ _________________
 ### <a name="next-steps"></a>次の手順
 
 - この情報を組織内の適切な担当者に共有してください。<br>
-- ライセンスの更新情報と価値提案の詳細については、前のセクションと PartnerSource の**その他の資料**に記載されている準備用コンテンツをご覧ください。<br>
+- ライセンスの更新情報と価値提案の詳細については、前のセクションと PartnerSource の **その他の資料** に記載されている準備用コンテンツをご覧ください。<br>
 - Microsoft とのオペレーションに関するサポートが必要な場合は、[サポートにお問い合わせください](https://partner.microsoft.com/pcv/servicerequests/create)。
 
 _________________

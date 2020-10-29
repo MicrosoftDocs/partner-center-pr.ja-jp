@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92352868"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749710"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "92352868"
 
 | **カテゴリ** | **2020 年 10 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[クラウド ソリューション プロバイダー (CSP) プログラムにおける直接請求パートナーの要件に関するパフォーマンス標準の導入](2020-october.md#13)|10 月 27 日|
 |製品サービス/市場|[Microsoft 365 Business Voice プランの更新プログラム](2020-october.md#12)|10 月 16 日|
 |機能|[2020 年 11 月の更新:オンライン サービスとソフトウェア チャネルの承認ガイド](2020-october.md#11)|10 月 14 日|
 |製品サービス/市場|[非営利団体向けの Microsoft 365 Business Voice の紹介](2020-october.md#10)|10 月 12 日|

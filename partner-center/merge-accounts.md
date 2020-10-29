@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175185"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795833"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>パートナー アカウントを別のパートナー アカウントにマージする
 
@@ -84,12 +84,32 @@ ms.locfileid: "92175185"
 
 1. パートナーセンターのダッシュボードから [ **設定** ] を選択します。 
 
-2. [ **Account merge**] を選択します。
+2. [ **Account merge** ] を選択します。
 
 3. 自分と結合するために招待するアカウントの **パートナープロファイル** にある MPN ID を追加します。 パートナーのグローバル MPN ID を使用する必要があります。 Location MPN ID を使用することはできません。
 
-4. [ **マージ**] を選択すると、パートナー企業に招待が送信されます。 要求を受け入れると、パートナーセンター内でアカウントのマージを開始できます。 組織がアカウントのマージ要求を拒否した場合、その要求が拒否された理由を説明することができます。 [ **マージ履歴**] では、すべてのアカウントのマージの一覧を使用できます。
+4. [ **マージ** ] を選択すると、パートナー企業に招待が送信されます。 要求を受け入れると、パートナーセンター内でアカウントのマージを開始できます。 組織がアカウントのマージ要求を拒否した場合、その要求が拒否された理由を説明することができます。 [ **マージ履歴** ] では、すべてのアカウントのマージの一覧を使用できます。
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>アカウントをマージする2つの企業の例
 
+1. Contoso には 
+
+    a. [グローバル MPN id 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)と[MPN id 2222222 の](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)1 つの下位の場所。
+  
+    b. Azure AD テナント = @contoso.com
+ 
+    c. 2020年10月1日に有効期限が切れる gold コンピテンシー
+2. Fabricam の場合
+ 
+    a.  グローバル MPN ID 3333333 と MPN Id 4444444 と5555555の2つの下位の場所
+
+    b.  AAD テナント = @fabricam.com
+
+    c.  2020年12月1日の有効期限が切れる2つの gold コンピテンシー
+3.  Contoso は Fabricam を購入し、 [ここ](https://partner.microsoft.com/dashboard/account/merger) に移動して、merge 要求を開始します。
+4.  Fabricam はパートナーセンターにサインインし、手順 #3 で Contoso が行ったのと同じページに移動して、Contoso の要求を承認します。
+5.  Contoso は、同じページでのマージの詳細を確認し、アカウントの合併を続行するための確認を提供します。
+    
 ## <a name="next-steps"></a>次のステップ
 
 - [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)

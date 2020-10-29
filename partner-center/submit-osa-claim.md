@@ -1,7 +1,7 @@
 ---
 title: 顧客の関連付けを作成する
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 取引先レコード (CPOR) モデルを使用して顧客の関連付けを作成します。 Microsoft 365 & Dynamics 365 の顧客の売上、使用状況、インセンティブを管理するのに役立ちます。
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174988"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917258"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Microsoft 365 と Dynamics 365 の要求されたパートナーのレコード (CPOR) モデルによる顧客の関連付け
 
@@ -33,17 +33,17 @@ ms.locfileid: "92174988"
 
 要求を完了するには、次の情報が必要です。
 
-- 要求を行うエンティティの**MPN ID**
+- 要求を行うエンティティの **MPN ID**
 
-- 顧客の**ドメイン名**[検索](find-domain-name.md)
+- 顧客の **ドメイン名**[検索](find-ids-and-domain-names.md)
 
-- 顧客の**ディレクトリ id**または**テナント id**を[検索](find-domain-name.md)します
+- 顧客の **ディレクトリ id** または **テナント id** を [検索](find-ids-and-domain-names.md)します
 
-- Business Applications や Microsoft 365 などの**ソリューション領域**
+- Business Applications や Microsoft 365 などの **ソリューション領域**
 
 - 実行した **アクティビティ** と、販売前、使用状況、収益の関連付けなど、作成する要求の種類
 
-- お客様の **連絡先の名前**、役職、および電子メールアドレス
+- お客様の **連絡先の名前** 、役職、および電子メールアドレス
 
 - Dynamics 365 では、顧客の **技術担当者** 名、役職、および電子メールアドレスも入力する必要があります。
 
@@ -53,9 +53,9 @@ ms.locfileid: "92174988"
 
 - 要求している **製品** またはワークロード
 
-- 顧客によって署名された作業ステートメントなど、**実行の証拠 (PoE)**。 また、使用する PoE テンプレートをダウンロードすることもできます。
+- 顧客によって署名された作業ステートメントなど、 **実行の証拠 (PoE)** 。 また、使用する PoE テンプレートをダウンロードすることもできます。
 
-- 収益の関連付けのみを要求しているパートナーの場合: **Dynamics ソリューション販売者名**、 **顧客名**、および **ISV 製品/ソリューションの名前**。 
+- 収益の関連付けのみを要求しているパートナーの場合: **Dynamics ソリューション販売者名** 、 **顧客名** 、および **ISV 製品/ソリューションの名前** 。 
 
 また、次の点についても理解しておく必要があります。
 
@@ -69,24 +69,24 @@ ms.locfileid: "92174988"
 
 1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 
-2. [ **インセンティブ** ] タブを選択し、[ **概要**] を選択して、[ **顧客の関連付け**] を選択します。
+2. [ **インセンティブ** ] タブを選択し、[ **概要** ] を選択して、[ **顧客の関連付け** ] を選択します。
 
-3. [顧客の関連付け] ページの上部で、[ **+ 顧客の関連付け**] を選択します。
+3. [顧客の関連付け] ページの上部で、[ **+ 顧客の関連付け** ] を選択します。
 
-4. 顧客に関連付けるパートナーの場所の **[MPN ID]** を選択し、顧客のドメイン名とディレクトリ ID を追加します。 [検索する文字列](find-domain-name.md)
+4. 顧客に関連付けるパートナーの場所の **[MPN ID]** を選択し、顧客のドメイン名とディレクトリ ID を追加します。 [検索する文字列](find-ids-and-domain-names.md)
 
 5. **[続行]** をクリックします。
 
-6. ソリューションの **区分** と **アクティビティ**を選択します。 
+6. ソリューションの **区分** と **アクティビティ** を選択します。 
 
    >[!Note]
    >
-   >[Business Applications] を選択した場合は、[ **使用状況] または [事前売上**] または [ **収益の関連付け**] を選択し、[ **続行**] を選択します。 
+   >[Business Applications] を選択した場合は、[ **使用状況] または [事前売上** ] または [ **収益の関連付け** ] を選択し、[ **続行** ] を選択します。 
    <br><br>[Revenue association]\(収益の関連付け\) を選択した場合、以下に示す内容とは少し異なる情報の入力を求められます。
 
-7. [ **顧客の関連付け** ] ページで適切な情報を入力し、[ **要求の作成**] を選択します。
+7. [ **顧客の関連付け** ] ページで適切な情報を入力し、[ **要求の作成** ] を選択します。
 
-8. この顧客の関連付けに関連付けられている製品を選択し、[ **続行**] を選択します。
+8. この顧客の関連付けに関連付けられている製品を選択し、[ **続行** ] を選択します。
 
 9. お客様の連絡先情報と会社の連絡先情報を入力します。 すべてのフィールドが必須です。 
 
@@ -104,6 +104,6 @@ ms.locfileid: "92174988"
 
 **[履歴]** を選択すると、顧客の関連付けの履歴が表示されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [顧客の関連付けを管理する](incentives-manage-customer-associations.md)
