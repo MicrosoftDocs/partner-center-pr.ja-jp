@@ -564,6 +564,8 @@
           href: Get-special-pricing-for-offers.md
         - name: 教育機関のお客様への販売
           href: sell-to-education-customers.md
+        - name: Windows 10 Home から Education へのアップグレード
+          href: upgrade-windows-to-education.md
         - name: 導入実績と満足度の向上
           href: increasing-adoption-and-satisfaction.md
         - name: Windows Autopilot でデバイスのセットアップを効率化する
