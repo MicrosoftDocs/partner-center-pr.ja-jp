@@ -295,9 +295,6 @@
         - name: 実行証明を作成する
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: PoE として税請求書を送信する
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: 協力インセンティブの申請
       items:
         - name: 協力インセンティブの申請
