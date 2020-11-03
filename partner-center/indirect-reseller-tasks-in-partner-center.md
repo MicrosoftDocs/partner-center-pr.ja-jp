@@ -1,7 +1,7 @@
 ---
 title: CSP プログラムで間接プロバイダーを操作する
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 間接リセラーが Microsoft 間接プロバイダー (またはディストリビューター) と連携して、カスタマー サポートと課金に関する支援を受ける方法について説明します。
@@ -10,20 +10,23 @@ ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006823"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795850"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムで間接プロバイダーと連携する方法について説明します
 
+**適用対象**
+
+- パートナー センター
+
 **適切なロール**
 
-- グローバル管理者
-- ユーザー管理者
-- 管理エージェント
+
+- クラウド ソリューション プロバイダー プログラムへの登録に関心のあるすべての Microsoft パートナー
 
 
 クラウドベースのソリューションとサービスの需要は急速に拡大しており、あらゆる規模のマイクロソフト パートナーが、収益性の高いクラウド ソリューション ビジネスを構築する多くの機会を手にしています。 市場へは参入したいが、複数ベンダーの管理は避けたいと考えるパートナーや、包括的な顧客関係管理の基盤を持たないパートナーは、マイクロソフトのクラウド ソリューション プロバイダー (CSP) プログラムに間接リセラーとして登録することができます。
@@ -47,7 +50,7 @@ CSP プログラムで間接リセラーとして販売を行うために必要�
 
 ### <a name="before-you-begin"></a>開始する前に
 
-CSP を初めて利用する場合は、プログラムに間接リセラーとして登録する必要があります。 次に、パートナー センターでアカウントを作成する必要があります。 登録プロセスでは、次の情報の入力が必要になります。 作業を開始する前に、これらの情報を手元に準備してください。
+2020 年 10 月以降、CSP に新しく登録される Microsoft のすべてのパートナーは、CSP プログラムにおける間接リセラーとして登録されます。 次に、パートナー センターでアカウントを作成する必要があります。 そのためには、登録プロセスで次の情報を入力します。 作業を開始する前に、これらの情報を手元に準備してください。
 
 - **職場アカウントの全体管理者の資格情報**
 
@@ -65,7 +68,7 @@ CSP を初めて利用する場合は、プログラムに間接リセラーと�
 
 ### <a name="get-started"></a>開始
 
-1. プロセスを開始するには、[ **[ようこそ] ページ**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)にアクセスして登録します。
+1. 登録プロセスを開始するには、 [ **[ようこそ] ページ**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)にアクセスして登録します。
 
 2. **[ようこそ]** ページを確認し、登録に必要な情報がそろっていることを確認したうえで **[次へ]** を選びます。
 
@@ -95,9 +98,19 @@ CSP を初めて利用する場合は、プログラムに間接リセラーと�
 
 9. パートナー センター アカウントが使用可能になったら、貴社が管理エージェント グループに追加されていることを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
-   1. **パートナー センター**の **[設定]** アイコンを選択し、 **[ユーザー管理]** を選択します。
+   1. **パートナー センター** の **[設定]** アイコンを選択し、 **[ユーザー管理]** を選択します。
 
    2. ユーザーの一覧からご自分の名前を選択します。 **[管理エージェント]** がまだ選択されていない場合は選択します。 **[更新]** を選択します。
+
+## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>すべての間接リセラーが Microsoft Partner Agreement に署名する必要がある
+
+1.  Partner Membership Center からパートナー センターにまだ移行していない場合は、今すぐ移行します。 パートナー センターに移行するためのヘルプについては、「[PMC からパートナー センターに移行するためのガイド](guide-to-migration.md)」をご覧ください。 
+
+2.  パートナー センターのメンバーシップ アカウント (MPN ID) を既にお持ちの場合でも、クラウド ソリューション プロバイダー プログラムに正式に登録する必要があります。 メンバーシップの状態を調べるには、 [**パートナー プロファイル**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)にアクセスしてアカウントの種類を確認してください。 その後、[間接リセラーとして CSP に登録します](enrolling-in-the-csp-program.md)。 間接リセラーとして登録したら、[間接プロバイダーからの CSP 関係のリクエスト](indirect-reseller-tasks-in-partner-center.md)に同意します。
+
+3.  既に間接リセラーとしてパートナー センターに登録している場合は、[パートナー センター ダッシュボードの概要](https://partner.microsoft.com/pcv/dashboard/overview)でグローバル管理者の資格情報を使用して Microsoft Partner Agreement に同意します。 パートナー プロファイルの **[プログラム情報]** セクションで、Microsoft Partner Agreement に署名したことを確認します。 また、CSP の [概要] ページに確認バナー通知が表示されます。 
+
+:::image type="content" source="images/mpagreen.png" alt-text="緑色の同意済みバナー":::
 
 
 ## <a name="connect-with-an-indirect-provider"></a>間接プロバイダーと連携する
@@ -117,7 +130,7 @@ CSP を初めて利用する場合は、プログラムに間接リセラーと�
    > [!NOTE]  
    > 間接プロバイダーとパートナーシップを確立した場合、間接プロバイダーに対し、貴社の顧客に代わって注文とサブスクリプションを送信する権限を認め、貴社の職場アカウントへの管理者アクセス権を付与したものと見なされます。 プロバイダーとのパートナーシップが確立された後、Office 365 ポータルで、貴社の職場アカウントに対するプロバイダーの管理者アクセス権を削除できます。
 
-4. パートナーシップを結んだプロバイダーの一覧を表示するには、**パートナー センター** メニューで **[間接プロバイダー]** を選びます。
+4. パートナーシップを結んだプロバイダーの一覧を表示するには、 **パートナー センター** メニューで **[間接プロバイダー]** を選びます。
 
 5. 貴社とプロバイダーが共有している顧客の一覧を表示するには、 **[顧客を表示する]** を選びます。
 
@@ -128,6 +141,8 @@ CSP を初めて利用する場合は、プログラムに間接リセラーと�
 
 
 ## <a name="next-steps"></a>次の手順
+
+- [アカウントの確認プロセス](verification-responses.md)
 
 - [パートナー センター アカウントの管理](partner-center-account-setup.md)
 

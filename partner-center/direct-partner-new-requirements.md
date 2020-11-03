@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366856"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795776"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP 直接請求パートナーとして登録するための要件
 
@@ -32,9 +32,10 @@ ms.locfileid: "89366856"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |事業拠点で有効な Microsoft Partner Network (MPN) ID。    |
 |**保証**   |組織を代表して契約書に同意して署名するための権限。|
+|**収益**|2021 年 1 月の時点で、直接請求パートナーとして登録されているパートナーは、過去 12 か月間にわたり、パートナーのグローバル アカウント レベルでクラウド ソリューション プロバイダー プログラムの収益として 30 万米国ドル以上を売り上げている必要があります。| 
 |**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br/>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br/> 重要:サポート プランを購入する前に、与信審査に合格する必要があります。 与信審査に合格したら、メールでご連絡します。 |
 |**マネージド サービス**   |少なくとも 1 つの管理されたサービス、IP サービス、または顧客ソリューション アプリケーション。 [管理されたサービス](https://partner.microsoft.com/business-opportunities/managed-services-provider)の追加に関する詳細をご覧ください。|
-|**売掛金勘定** |顧客の請求とプロビジョニングを管理するための組織のインフラストラクチャ。
+|**売掛金勘定** |顧客の請求とプロビジョニングを管理するための組織のインフラストラクチャ。|
 
 ### <a name="verify-direct-bill-eligibility"></a>直接請求の適格性を確認する
 

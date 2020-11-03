@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/24/2020
-ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.date: 10/27/2020
+ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749710"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917214"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,7 +22,9 @@ ms.locfileid: "92749710"
 
 | **カテゴリ** | **2020 年 10 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[クラウド ソリューション プロバイダー (CSP) の最新のデジタル エクスペリエンスが利用可能になりました](2020-october.md#15)|10 月 28 日|
 |機能|[クラウド ソリューション プロバイダー (CSP) プログラムにおける直接請求パートナーの要件に関するパフォーマンス標準の導入](2020-october.md#13)|10 月 27 日|
+|製品サービス/市場|[2020 年 10 月のクラウド ソリューション プロバイダー (CSP) ソフトウェア サブスクリプションの価格表を更新](2020-october.md#14)|10 月 26 日|
 |製品サービス/市場|[Microsoft 365 Business Voice プランの更新プログラム](2020-october.md#12)|10 月 16 日|
 |機能|[2020 年 11 月の更新:オンライン サービスとソフトウェア チャネルの承認ガイド](2020-october.md#11)|10 月 14 日|
 |製品サービス/市場|[非営利団体向けの Microsoft 365 Business Voice の紹介](2020-october.md#10)|10 月 12 日|
@@ -45,7 +47,7 @@ ms.locfileid: "92749710"
 |機能|[.NET Standard v1.16.2 の SDK リリース](2020-september.md#11)|9 月 22 日|
 |機能|[パートナー センター インサイト – Microsoft とのビジネスを理解するための唯一のレポート リソースです。](2020-september.md#10)|9 月 23 日|
 |製品サービス/市場|[Azure SQL Edge の一般提供を発表](2020-september.md#9)|9 月 22 日|
-|機能|[2020 年 9 月 30 日の CSP O365 使用方法 API と CSP のライセンスの使用状況レポートに関する今後の変更点です。](2020-september.md#8)|9 月 17 日|
+|機能|[2020 年 9 月 30 日の CSP O365 使用状況 API と CSP のライセンスの使用状況レポートに関する今後の変更点です。](2020-september.md#8)|9 月 17 日|
 |機能|[間接リセラー MPA 更新です。MPA API と新しい MPA レポートのユーザーに必要な操作](2020-september.md#7)|9 月 16 日|
 |製品サービス/市場|[Microsoft Project および Microsoft Visio のセルフサービス購入が利用可能になりました](2020-september.md#6)|9 月 15 日|
 |製品サービス/市場|[新しい SKU が、お客様に Project Cortex の力をもたらします](2020-september.md#5)|9 月 8 日|

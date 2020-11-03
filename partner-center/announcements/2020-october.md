@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 6cba6a782b97e5dc1d17737d1f831d3fc2f4bbaf
-ms.sourcegitcommit: 5aafa34f70074996056a07bc50a75cd85ca77593
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92098481"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795815"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月のお知らせ
 
@@ -22,7 +22,115 @@ ms.locfileid: "92098481"
 
 2020 年のお知らせ:[3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
 
+________________________________
 
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>クラウド ソリューション プロバイダー (CSP) プログラムにおける直接請求パートナーの要件に関するパフォーマンス標準の導入
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-10-27
+- 機能
+ 
+### <a name="summary"></a>まとめ
+
+クラウド ソリューション プロバイダー プログラムにおける直接請求パートナーの要件の一部としてパフォーマンス標準が導入されます。
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー プログラムでの直接請求パートナー。
+
+### <a name="details"></a>詳細
+
+Microsoft クラウド ソリューション プロバイダー プログラムの拡大と最適化は、パートナー様と顧客に新しいコマース エクスペリエンスを提供する取り組みの重要な部分です。 そのため、変化する顧客のニーズに合わせてプログラムを進化させ、パートナー様にとって最も効率的で収益性の高いエクスペリエンスを提供できるよう、引き続き努めてまいります。
+
+本日、クラウド ソリューション プロバイダー プログラムにおける直接請求パートナーの要件について、今後加えられるいくつかの変更点をお知らせいたします。
+
+最初の点として、 **直接請求パートナーの要件の一部としてパフォーマンス標準が導入されます** 。 クラウド ソリューション プロバイダー プログラムにおいて直接請求パートナーとして登録することを希望するパートナー様は、[必要なサポート契約](https://partner.microsoft.com/support/partnersupport)の更新日より前の 12 か月間にクラウド ソリューション プロバイダー プログラムの収益として 30 万米国ドル以上を上げていることが必要です。
+
+このパフォーマンス標準は、現在の直接請求パートナーに対して 2021 年 1 月に有効になり、パートナー サポート プランの更新日までにこの要件を満たす必要があります。
+
+更新された直接請求パートナーの要件を満たすことができない、またはこれを希望されない場合は、クラウド ソリューション プロバイダー プログラムで間接リセラーとして再登録する必要があります。 
+
+この新しい収益要件は、クラウド ソリューション プロバイダー プログラムのパートナーが適切なモデルを通じて、より収益性の高いビジネスを構築するのに役立ちます。これにより、パフォーマンス標準が明確になり、インフラストラクチャや運用上のオーバーヘッドを軽減してより大きな価値を顧客に提供できるようになります。
+
+2 つ目の点として、2018 年 8 月に直接請求パートナーの要件が更新され、パートナー様が認定パートナー サポート プランを購入するため条件が新しくなりました。 この機会に、クラウド ソリューション プロバイダー プログラムのすべての直接請求パートナーに必要なこの要件の重要性を再度強調させていただきます。
+
+### <a name="direct-bill-partner-requirements"></a>直接請求パートナーの要件
+
+[更新された直接請求パートナーの要件](../direct-partner-new-requirements.md#minimum-requirements)と推奨事項を確認して、クラウド ソリューション プロバイダー プログラムで適切なモデルを使用してより収益性の高いビジネスを構築して拡張する方法を評価します:
+
+1. **新しい収益パフォーマンス要件**
+
+現在、クラウド ソリューション プロバイダー プログラムに直接請求パートナーとして登録されている **既存のパートナー様** は、2021 年 1 月から新しいパフォーマンス標準を満たす必要があります。 この要件を満たすために、次のパートナー サポート プランの更新日まで時間があります。 パートナー センターで直近 12 か月の収益を確認するには、[このガイド](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)をご覧ください。
+
+クラウド ソリューション プロバイダー プログラムに登録する新しいパートナー様は、 **2020 年 10 月** 以降、間接リセラーとして開始されます。 これらのパートナー様は、先行する 12 か月の CSP の収益が 30 万米国ドル以上である必要があります。 パートナー センターで直近 12 か月の収益を確認するには、[このガイド](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)をご覧ください。 
+
+2. **サポート契約の要件** 
+
+次の 2 つのサポート契約オプションのいずれかを購入して、サポート範囲を広げます。  
+
+   - パートナー様向けの Microsoft Advanced Support (ASfP):1 対 1 で、優先度の高いクラウド サポート  
+   - パートナー様向けの Microsoft Premier Support (PSfP):プロアクティブ サービスを完全に網羅したカタログ、24 時間 365 日の優先的な障害対応、クラウド、ハイブリッド、オンプレミスにまたがる技術アカウント管理にアクセスできます。 
+
+[サポート契約オプション](https://partner.microsoft.com/support/partnersupport)を比較して、今すぐ適切なプランを購入してください。
+
+### <a name="direct-bill-partner-recommendations"></a>直接請求パートナーに対する推奨事項
+
+**主要な能力のデモンストレーション**
+
+直接請求プログラムをサポートするために必要なインフラストラクチャが準備できていて、それに精通していることを確認するために、いくつかの追加の推奨事項があります。 1 つ以上のマネージ サービス、IP サービス、または顧客ソリューション アプリケーションを提供できることを示します。 パートナー様は、Microsoft のサービスを単に再販するだけでなく、Microsoft クラウド サービスの上に価値を追加する必要があります。 これは、パートナー様の市場進出戦略の重要な部分です。 マネージド サービスを追加することの[詳細情報](https://partner.microsoft.com/solutions/managed-services)をご覧ください。 請求やプロビジョニングなど、最小限のインフラストラクチャ能力を満たしていることを推奨します。 
+
+新しい要件を満たしていない CSP プログラムの直接請求パートナーは、Microsoft Partner Network 内のプログラムで間接リセラーとして再登録する必要があります。 直接請求パートナーから間接リセラーに移行する方法については、[こちらをご覧ください](../transition-direct-to-indirect.md)。  
+
+### <a name="next-steps"></a>次のステップ
+
+- [直接請求パートナーの更新された要件](../direct-partner-new-requirements.md#minimum-requirements)を確認します。
+- FAQ とその他の情報については、[Microsoft Partner Web サイトのオペレーション リソース ギャラリー](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)をご覧ください。
+- 間接リセラー オプションのほうがビジネス ニーズに適している場合は、[連携先の間接プロバイダー](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)を検索してください。
+________________________________
+
+## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Microsoft 365 Business Voice オファーの更新
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-10-16
+- 製品サービス/市場
+ 
+### <a name="summary"></a>まとめ
+
+11 月の価格表プレビューのオファー ID が正しくありませんでした。
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー様
+
+### <a name="details"></a>詳細
+
+11 月に公開予定の次の新しいオファーについて、最近お知らせしました:[非営利団体向けの Microsoft 365 Business Voice](#10) および [Microsoft 365 Business Voice](#9)。
+
+
+これらの発表に含まれていたいくつかのオファー ID が修正されました。 これらの修正されたオファー ID は、今後数週間のうちに発表される 11 月の価格表の更新で公開される予定です。
+
+#### <a name="correct-offer-ids"></a>正しいオファー ID
+
+   |**プラン名**|**プラン ID**|**マテリアル ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business Voice 導入プロモーション (米国のみ)|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
+   |Microsoft 365 Business Voice (非営利団体職員向けの価格)|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|PZW-00018|
+
+#### <a name="incorrect-offer-ids"></a>間違っているオファー ID
+
+11 月の価格表プレビューに含まれていた次のオファー ID 情報は無視してください。 
+
+   |**プラン名**|**プラン ID**|
+   |-------------------|:------|
+   |Microsoft 365 Business Voice 導入プロモーション (米国のみ)|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
+   |Microsoft 365 Business Voice (非営利団体職員向けの価格)|ae54a18d-3472-473a-9b21-9831b8e658f3|
+
+### <a name="next-steps"></a>次の手順
+
+- プレビューの価格一覧についての詳細を理解し、組織内のすべての適切な担当者にこの情報を共有してください。
+- CSP プログラム更新リソース ギャラリー「[中小企業向けの Microsoft 365 Business Voice の導入](https://partner.microsoft.com/resources/collection/m365-voice-smb)」に含まれるすべての準備資料をご確認ください。
 ________________
 
 ## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>2020 年 11 月の更新:オンライン サービスとソフトウェア チャネルの承認ガイド
@@ -124,7 +232,7 @@ Microsoft は、パートナーが会議ソリューションとしての Teams 
 #### <a name="additional-resources"></a>その他のリソース
 
 - Business Voice の詳細については、[Microsoft 365 Business Voice パートナー ページ](https://www.microsoft.com/microsoft-365/partners/businessvoice)をご覧ください。 
-- [電話会議機能](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)の詳細については、Microsoft 365 の電話会議に関するページをご覧ください。
+- [電話会議機能](/microsoftteams/audio-conferencing-in-office-365)の詳細については、Microsoft 365 の電話会議に関するページをご覧ください。
 - これらのプロモーションの詳細については、関連する[パートナー向け FAQ](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo) をご覧ください。
 
 ### <a name="next-steps"></a>次のステップ
@@ -160,12 +268,12 @@ Azure portal における Azure アプリの UX が簡易化されました。
 
 このメールは、Azure Marketplace で Azure アプリケーション (ソリューション テンプレートおよびマネージド アプリ) を発行した、または発行するためにサインアップしたお客様にお送りしています。
 
-顧客による Azure アプリケーションの使用と管理の方法を改善するために、[Azure portal](https://ms.portal.azure.com/) にいくつかの変更が加えられました。 顧客のドキュメントと参照資料に新しいエクスペリエンスが確実に反映されるよう、**確認と更新を行ってください**。
+顧客による Azure アプリケーションの使用と管理の方法を改善するために、[Azure portal](https://ms.portal.azure.com/) にいくつかの変更が加えられました。 顧客のドキュメントと参照資料に新しいエクスペリエンスが確実に反映されるよう、 **確認と更新を行ってください** 。
 Azure portal の新機能を次に示します。
 
 - 前のセクションを完了しなくても、どのセクションでも情報を表示、編集、保存できる柔軟なナビゲーション。
 - 複数の入れ子レベルのない新しい全体表示。
-- Azure リソースにタグを付けて整理するための新機能。 タグ付けの詳細については、[タグを使用した Azure リソースの整理](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources)に関する記事をご覧ください。
+- Azure リソースにタグを付けて整理するための新機能。 タグ付けの詳細については、[タグを使用した Azure リソースの整理](/azure/azure-resource-manager/management/tag-resources)に関する記事をご覧ください。
 
 これらの変更内容に関するご質問がありましたら、[サポート チーム](https://aka.ms/marketplacepublishersupport)にお問い合わせください。
 
@@ -382,7 +490,7 @@ Microsoft では、2020 年 11 月 1 日に、次の新規および更新され�
 
 - オファー ID の詳細については、[Dynamics CSP オファー - 2020 年 11 月](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls)の Excel ドキュメントの [Project Operations] タブをご覧ください。
 - 詳細については、[Microsoft Dynamics 365 Customer Voice のホーム ページ](https://dynamics.microsoft.com/customer-voice/overview/)をご覧ください。
-- 9 月の [Dynamics の新しいオファーに関する発表](https://docs.microsoft.com/partner-center/announcements/2020-september#3)をご覧ください。
+- 9 月の [Dynamics の新しいオファーに関する発表](2020-september.md#3)をご覧ください。
 
 ________________
 
@@ -448,7 +556,7 @@ Microsoft Graph コネクタを使用すると、顧客は外部リポジトリ�
 
 - Microsoft 365 E5 と Office 365 E5 には、Microsoft Search 用の Microsoft Graph コネクタを使用して最大 500 項目にインデックスを作成する機能が組み込まれます (A5 には組み込まれません)。  
 - SharePoint または OneDrive プランの含まれたスイートまたはスタンドアロンのライセンスを持つすべてのユーザーは、Microsoft Search 用の Microsoft Graph コネクタからの検索結果を表示できます。 
-- 最大 100 万個の追加項目のインデックスを作成する新しい**追加 Graph コネクタ容量 SKU** が使用可能になります。
+- 最大 100 万個の追加項目のインデックスを作成する新しい **追加 Graph コネクタ容量 SKU** が使用可能になります。
 
 #### <a name="offer-details"></a>特典の詳細
 
@@ -496,5 +604,5 @@ FY20 CSP インセンティブ プログラムの期間は 2020 年 9 月 30 日
 
 ### <a name="questions"></a>疑問がある場合
 
-推奨される手順や、インセンティブ関連の質問に対するセルフ ヘルプ記事は、パートナー センターの検索バーで「**インセンティブ**」を検索すると見つかります。 
+推奨される手順や、インセンティブ関連の質問に対するセルフ ヘルプ記事は、パートナー センターの検索バーで「 **インセンティブ** 」を検索すると見つかります。 
 ________________

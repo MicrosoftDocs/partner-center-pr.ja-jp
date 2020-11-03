@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795833"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189749"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>パートナー アカウントを別のパートナー アカウントにマージする
 
@@ -103,13 +103,23 @@ ms.locfileid: "92795833"
  
     a.  グローバル MPN ID 3333333 と MPN Id 4444444 と5555555の2つの下位の場所
 
-    b.  AAD テナント = @fabricam.com
+    b.  Azure AD テナント = @fabricam.com
 
-    c.  2020年12月1日の有効期限が切れる2つの gold コンピテンシー
+    c.  2020年12月1日に有効期限が切れる2つの gold コンピテンシー
 3.  Contoso は Fabricam を購入し、 [ここ](https://partner.microsoft.com/dashboard/account/merger) に移動して、merge 要求を開始します。
 4.  Fabricam はパートナーセンターにサインインし、手順 #3 で Contoso が行ったのと同じページに移動して、Contoso の要求を承認します。
 5.  Contoso は、同じページでのマージの詳細を確認し、アカウントの合併を続行するための確認を提供します。
+6.  合併後、会社のアカウントは次のように表示されます。
+
+    a.  グローバル MPN ID 1111111 と4の下位の location MPN Id (2222222、3333333、4444444、5555555) を持つ Contoso という会社。
     
+    b.  @contoso.com @fabricam.com 同じパートナーセンターアカウントにアクセスできる2つの Azure AD テナント (+) があります。
+    
+    c.  これには、2020年10月1日に有効期限が切れ、もう1つは2020年12月1日という2つのコンピテンシー特典パッケージがあります。 2020年12月1日に、1つのコンピテンシー特典パッケージとして更新することができます。 これらの機能を更新すると、Contoso は1つの特典パッケージのみを保持できる場合でも、3つのコンピテンシーをすべて保持します。
+    
+7.  Contoso の管理者は、ユーザーのパートナーセンターの役割を引き続き管理し @contoso.com ます。 Fabricam の管理者は、のユーザーのパートナーセンターの役割を引き続き管理し @fabricam.com ます。 Contoso の管理者は、fabricam のテナントにゲストとして招待されている場合にのみ、Fabricam のユーザーを管理できます。
+8.  Contoso は @fabricam.com テナントを無視し、 @contoso.com 新しいロールとアクセス許可を持つ fabricam 従業員の新しい資格情報を再発行することができます。
+
 ## <a name="next-steps"></a>次のステップ
 
 - [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)

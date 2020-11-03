@@ -1,7 +1,7 @@
 ---
 title: パートナーのセキュリティ要件
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 多要素認証 (MFA) を有効にして、セキュア アプリケーション モデル フレームワークを採用するためのパートナーの要件を紹介します。
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763346"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680379"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>パートナー センターまたはパートナー センター API を使用するパートナー向けの、パートナーのセキュリティ要件
 
@@ -41,9 +41,9 @@ ms.locfileid: "91763346"
 
 パートナーとその顧客を保護するため、パートナーには次のアクションをすぐに実行するようお願いします。  
 
-1. **パートナー テナント内のすべてのユーザー アカウントに対して多要素認証 (MFA) を有効にします**。 パートナー テナントのすべてのユーザー アカウントは、パートナー センターまたは API を使用して、Microsoft の商用クラウド サービスにサインインするとき、またはクラウド ソリューション プロバイダー プログラムで取引を行うときに、多要素認証 (MFA) によるチャレンジを受ける必要があります。
+1. **パートナー テナント内のすべてのユーザー アカウントに対して多要素認証 (MFA) を有効にします** 。 パートナー テナントのすべてのユーザー アカウントは、パートナー センターまたは API を使用して、Microsoft の商用クラウド サービスにサインインするとき、またはクラウド ソリューション プロバイダー プログラムで取引を行うときに、多要素認証 (MFA) によるチャレンジを受ける必要があります。
 
-2. **セキュリティで保護されたアプリケーション モデル フレームワークを採用します**。 セキュリティで保護されたアプリケーション モデル フレームワークを採用します。 Partner Center API と統合しているすべてのパートナーは、すべてのアプリとユーザー認証モデルのアプリケーションに対し、セキュリティで保護されたアプリケーション モデル フレームワークを採用する必要があります。
+2. **セキュリティで保護されたアプリケーション モデル フレームワークを採用します** 。 セキュリティで保護されたアプリケーション モデル フレームワークを採用します。 Partner Center API と統合しているすべてのパートナーは、すべてのアプリとユーザー認証モデルのアプリケーションに対し、セキュリティで保護されたアプリケーション モデル フレームワークを採用する必要があります。
 
     > [!IMPORTANT]
     > パートナーには、MFA を適用するときの中断を避けるために、Azure Resource Manager や Microsoft Graph などの Microsoft API との統合、またはユーザー資格情報を使用する PowerShell などの自動化の利用に対し、セキュリティで保護されたアプリケーション モデルを実装することを強くお勧めします。
@@ -58,7 +58,7 @@ ms.locfileid: "91763346"
 
 - 各ユーザー アカウントについて Azure Active Directory Premium を購入する。 詳しくは、「[Azure Multi-Factor Authentication のデプロイを計画する](/azure/active-directory/authentication/howto-mfa-getstarted)」を参照してください。
 
-- サードパーティ ソリューションを使用して、パートナー テナント内の各ユーザー アカウントに対して多要素認証を適用する。 ソリューションが期待されるソリューションを確実に提供できるようにするには、[セキュリティ要件がどのように適用されるか](#how-the-requirements-will-be-enforced)に関するセクションを参照してください。
+- サードパーティ ソリューションを使用して、パートナー テナント内の各ユーザー アカウントに対して多要素認証を適用する。 ソリューションが期待されるソリューションを確実に提供できるようにするには、[セキュリティ要件がどのように適用されるか](#how-the-requirements-are-enforced)に関するセクションを参照してください。
 
 > [!NOTE]
 > ソブリン クラウド (21Vianet、米国政府、ドイツ) では多要素認証は契約上は必須ではありませんが、これらのセキュリティ要件を採用することを強くお勧めします。
@@ -92,7 +92,7 @@ ms.locfileid: "91763346"
 
 これらの要件は、パートナー テナントのすべてのユーザー アカウントに適用されるため、パートナーは、多要素認証を実行できない Azure Active Directory 内のユーザー アカウントの識別や、組織で使用されているアプリケーションとデバイスのうち先進認証をサポートしていないものなど、円滑な展開を行うためにいくつかのことを考慮する必要があります。
 
-アクションを実行する前に、次の点について確認することをお勧めします
+アクションを実行する前に、以下の検証を行うことをお勧めします。 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>先進認証の使用をサポートしていないアプリケーションまたはデバイスはありますか。
 
@@ -100,7 +100,7 @@ IMAP、POP3、SMTP などのプロトコルを使用する以前の多要素認�
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>パートナー テナントに関連付けられたライセンスによって提供される Office 365 を使用しているユーザーがいますか。
 
-ソリューションを実装する前に、パートナー テナントのユーザーによって使用されている Microsoft Office のバージョンを確認することをお勧めします。 Outlook などのアプリケーションで接続の問題が発生する可能性があります。 多要素認証を適用する前に、Outlook 2013 SP1 以降が使用され、組織で先進認証が有効になっていることを確認することが重要です。 詳細については、「[Exchange Online で先進認証を有効にする](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)」を参照してください。
+ソリューションを実装する前に、パートナー テナントのユーザーによって使用されている Microsoft Office のバージョンを確認することをお勧めします。 Outlook などのアプリケーションで接続の問題が発生する可能性があります。 多要素認証を適用する前に、Outlook 2013 SP1 以降が使用され、組織で先進認証が有効になっていることを確認することが重要です。 詳細については、[Exchange Online での先進認証の有効化](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)に関するページをご覧ください。 
 
 Windows が実行され、Microsoft Office 2013 がインストールされているデバイスで先進認証を有効にするには、2 つのレジストリ キーを作成する必要があります。 「[Windows デバイスで Office 2013 の先進認証を有効にする](/office365/admin/security-and-compliance/enable-modern-authentication)」を参照してください。
 
@@ -128,17 +128,19 @@ Windows が実行され、Microsoft Office 2013 がインストールされて�
 
 ## <a name="accessing-your-environment"></a>環境を評価する
 
-多要素認証のチャレンジを受けないで何が、または誰が認証を行っているかを詳しく理解するには、サインイン アクティビティを確認することをお勧めします。 Azure Active Directory Premium では、サインイン レポートを利用できます。 詳細については、「[Azure Active Directory ポータルのサインイン アクティビティ レポート](/azure/active-directory/reports-monitoring/concept-sign-ins)」をご覧ください。 Azure Active Directory Premium がない場合、または PowerShell を使用してこれを取得する方法を探している場合は、[パートナー センターの PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) モジュールから、[Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) コマンドレットを利用する必要があります。
+多要素認証のチャレンジを受けないで何が、または誰が認証を行っているかを詳しく理解するには、サインイン アクティビティを確認することをお勧めします。 Azure Active Directory Premium では、サインイン レポートを利用できます。 このトピックの詳細については、「[Azure Active Directory ポータルのサインイン アクティビティ レポート](/azure/active-directory/reports-monitoring/concept-sign-ins)」をご覧ください。 Azure Active Directory Premium がない場合、または PowerShell を使用してこのサインイン アクティビティを取得する方法を探している場合は、[パートナー センターの PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) モジュールから、[Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) コマンドレットを利用する必要があります。
 
-## <a name="how-the-requirements-will-be-enforced"></a>要件はどのように適用されるか
+## <a name="how-the-requirements-are-enforced"></a>要件はどのように適用されるか
 
-パートナーのセキュリティ要件は、Azure Active Directory により (その後、パートナー センターにより) MFA 要求があるかどうかが確認され、多要素認証の検証が実行済みであることが特定されることで、適用されます。 2019 年 11 月 18 日以降、パートナーのテナントに対する追加のセキュリティ保護 (以前の "技術的適用") がアクティブ化されます。 
+パートナーのセキュリティ要件は、Azure Active Directory により (その後、パートナー センターにより) MFA クレームがあるかどうかが確認され、多要素認証の検証が実行済みであることが特定されることで、適用されます。 2019 年 11 月 18 日以降、パートナーのテナントに対する追加のセキュリティ セーフガード (以前の "技術的適用") がアクティブ化されています。
 
-アクティブ化されると、パートナー テナントのユーザーは、代理管理者 (AOBO) 操作を実行するときに、多要素認証 (MFA) の検証を完了するように要求されます。 今後も引き続き追加のシナリオとユーザー ロールに対するセキュリティ保護の範囲の拡張が行われ、パートナーには事前に通知を提供します。 詳細については、頻繁に更新されるこのドキュメントを参照してください。 要件を満たしていないパートナーは、ビジネスの中断を回避するため、できるだけ早くこれらの手段を実装する必要があります。 
+アクティブ化されると、パートナー テナントのユーザーは、代理管理者 (AOBO) 操作を実行するときに、パートナー センター ポータルにアクセスするかパートナー センター API を呼び出して多要素認証 (MFA) の検証を完了するように要求されます。 詳細については、「[パートナー テナントに多要素認証 (MFA) を義務付ける](partner-security-requirements-mandating-mfa.md)」をご覧ください。 
+
+要件を満たしていないパートナーは、ビジネスの中断を回避するため、できるだけ早くこれらの手段を実装する必要があります。 
 
 Azure Multi-Factor Authentication または Azure AD のセキュリティの既定値を使用している場合は、追加のアクションを実行する必要はありません。
 
-サードパーティの多要素認証ソリューションを使用する場合、MFA 要求が発行されない可能性があります。 この要求がないと、Azure Active Directory は、認証要求が多要素認証によってチャレンジされたかどうかを判断できません。 想定されている要求がソリューションで発行されていることを検証する方法の詳細については、「[パートナーのセキュリティ要件のテスト](/powershell/partnercenter/test-partner-security-requirements)」を参照してください。 
+サード パーティの多要素認証ソリューションを使用している場合は、MFA クレームが発行されない可能性があります。 この要求がないと、Azure Active Directory は、認証要求が多要素認証によってチャレンジされたかどうかを判断できません。 想定されている要求がソリューションで発行されていることを検証する方法の詳細については、「[パートナーのセキュリティ要件のテスト](/powershell/partnercenter/test-partner-security-requirements)」を参照してください。 
 
 > [!IMPORTANT]
 > 想定されている要求がサードパーティ ソリューションによって発行されない場合は、ソリューションを開発したベンダーと協力して、どのようなアクションを実行する必要があるかを判断する必要があります。
