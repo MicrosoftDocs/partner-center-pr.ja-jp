@@ -1,7 +1,7 @@
 ---
 title: パートナー貢献度インジケーター
 ms.topic: article
-ms.date: 09/16/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 7つのパートナー貢献度インジケーター (PCI) について説明します。このインジケーターは、Dynamics 365 カスタマーエンゲージメントまたは Dynamics 365 Finance and Operations の使用方法を示しています。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
+ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175021"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93344393"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>パートナー貢献度インジケーター (PCI) は、お客様の成功の7つの主要な指標に対するパートナーの影響を示します
 
@@ -42,23 +42,23 @@ PCI は、パートナーの技術的な機能、顧客の成功を促進する�
 
 *パフォーマンス指標:*
 
-1. **純利益**: Microsoft Dynamics 365 製品のすべての販売チャネルにおける新しい収益。 (このメトリックの詳細については、「 [差分の新しい収益の定義](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)」を参照してください)。
+1. **純利益** : Microsoft Dynamics 365 製品のすべての販売チャネルにおける新しい収益。 (このメトリックの詳細については、「 [差分の新しい収益の定義](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)」を参照してください)。
 
-2. **Net customer**によって追加されるのは、すべての販売チャネルで Dynamics 365 を獲得した net 顧客です。 (このメトリックの詳細については、「 [net customer の追加の定義](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)」を参照してください)。
+2. **Net customer** によって追加されるのは、すべての販売チャネルで Dynamics 365 を獲得した net 顧客です。 (このメトリックの詳細については、「 [net customer の追加の定義](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)」を参照してください)。
 
 *機能インジケーター:*
 
-3. **機能コンサルタント**: 現在アクティブな機能コンサルタントを持つ個人の数は、Dynamics 365 の認定を関連付けます。 (このメトリックの詳細については、「 [関数コンサルタントの定義](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)」を参照してください)。
+3. **機能コンサルタント** : 現在アクティブな機能コンサルタントを持つ個人の数は、Dynamics 365 の認定を関連付けます。 (このメトリックの詳細については、「 [関数コンサルタントの定義](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)」を参照してください)。
 
-4. **機能コンサルタントの成長**: 機能コンサルタントの関連付けの数が増加しています。  PCI の機能コンサルタントの拡張メトリックのベースラインスナップショットは、2020年10月1日に実行されるようになります。 (このメトリックの詳細については、「 [関数コンサルタントの拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)」を参照してください)。
+4. **機能コンサルタントの成長** : 機能コンサルタントの関連付けの数が増加しています。  PCI の機能コンサルタントの拡張メトリックのベースラインスナップショットは、2020年10月1日に実行されるようになります。 (このメトリックの詳細については、「 [関数コンサルタントの拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)」を参照してください)。
 
-5. **開発者**: 現在アクティブな開発者を持つユーザーの数は、Dynamics 365 の認定を関連付けます。 (このメトリックの詳細については、「 [開発者向けの定義](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)」を参照してください)。
+5. **開発者** : 現在アクティブな開発者を持つユーザーの数は、Dynamics 365 の認定を関連付けます。 (このメトリックの詳細については、「 [開発者向けの定義](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)」を参照してください)。
 
 *お客様の成功の指標:*
 
-6. **新しい大規模なデプロイ**: 過去12か月間にわたって高使用率のしきい値を超える運用テナントの数。 (このメトリックの詳細については、「 [新しい大規模なデプロイの定義](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)」を参照してください)。
+6. **新しい大規模なデプロイ** : 過去12か月間にわたって高使用率のしきい値を超える運用テナントの数。 (このメトリックの詳細については、「 [新しい大規模なデプロイの定義](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)」を参照してください)。
 
-7. **月ごとのアクティブなユーザーの成長**: 過去12か月間にわたるすべての顧客の月間アクティブユーザーの成長。 (このメトリックの詳細については、「 [月単位のアクティブなユーザー拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)」を参照してください)。
+7. **月ごとのアクティブなユーザーの成長** : 過去12か月間にわたるすべての顧客の月間アクティブユーザーの成長。 (このメトリックの詳細については、「 [月単位のアクティブなユーザー拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)」を参照してください)。
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI スコアがコンピテンシーの適格性に与える影響
 各獲得インジケーターにポイントが与えられ、その結果、単一番号の PCI スコアになります。 100最大ポイントが可能です。 
@@ -67,7 +67,7 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 
 |PCI スコアが  | 自分  |
 |:----------------------|:-----------------|
-|1-59 ポイント  | シルバーまたはゴールドコンピテンシーの資格**がありません** |
+|1-59 ポイント  | シルバーまたはゴールドコンピテンシーの資格 **がありません** |
 |60-79 ポイント  | シルバーコンピテンシーの要件を満たす  |
 |80-100 ポイント  | Gold コンピテンシーの要件を満たす
 
@@ -89,7 +89,7 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 |顧客の成功-月単位のアクティブなユーザーの成長  | 25ポイント |
 
 次の図は、簡単なビジュアル参照を提供しています。
-:::image type="content" source="images/pci/perfnew.png" alt-text="シルバーまたはゴールドコンピテンシーを実現するための PCI スコアを示します。" border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="7つのパートナー貢献度インジケーター (PCI) それぞれに対して可能な最大スコアを持つグラフを表示します。" border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>各 PCI メトリックのしきい値
 
@@ -111,8 +111,8 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 | PCI メトリック | 業績評価指標: 純利益 | 業績評価指標: 新規顧客の追加 | 機能インジケーター: 機能コンサルタント | 機能インジケーター: 機能コンサルタントの成長 | 機能インジケーター: 開発者 | 顧客の成功インジケーター: 新しい大規模な展開 | 顧客の成功インジケーター: 月単位のアクティブなユーザーの成長 |
 |---|---|---|---|---|---|---|---|
 | **最大ポイント数** | 10ポイント | 10ポイント | 15ポイント | 15ポイント | 5つのポイント | 20ポイント | 25ポイント |
-| **確立** | $300,000 | 10ポイント | 10ポイント | *\* 注を参照* | 5つのポイント | 5つのポイント | 25% |
-| **開拓** | $15万 | 5つのポイント | 5つのポイント |*\* 注を参照* | 2つのポイント | 1ポイント | 25% |
+| **確立** | $300,000 | 10 | 10 | *\* 注を参照* | 5 | 5 | 25% |
+| **開拓** | $15万 | 5  | 5  |*\* 注を参照* | 2 | 1 | 25% |
 
 *\* 注: 拡張ターゲットは、ベースラインコンサルタントの数によって異なります。拡張ターゲットについては、 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) を参照してください。*
 
@@ -122,8 +122,8 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 | PCI メトリック | 業績評価指標: 純利益 | 業績評価指標: 新規顧客の追加 | 機能インジケーター: 機能コンサルタント | 機能インジケーター: 機能コンサルタントの成長 | 機能インジケーター: 開発者 | 顧客の成功インジケーター: 新しい大規模な展開 | 顧客の成功インジケーター: 月単位のアクティブなユーザーの成長 |
 |---|---|---|---|---|---|---|---|
 | **最大ポイント数** | 10ポイント | 10ポイント | 15ポイント | 15ポイント | 5つのポイント | 20ポイント | 25ポイント |
-| **確立** | $300,000 | 3ポイント | 15ポイント | *\* 注を参照* | 5つのポイント | 3ポイント | 25% |
-| **開拓** | $15万 | 1ポイント | 5つのポイント |*\* 注を参照* | 2つのポイント | 1ポイント | 25% |
+| **確立** | $300,000 | 3 | 15 | *\* 注を参照* | 5  | 3 | 25% |
+| **開拓** | $15万 | 1 | 5 |*\* 注を参照* | 2 | 1 | 25% |
 
 *\* 注: 拡張ターゲットは、ベースラインコンサルタントの数によって異なります。拡張ターゲットについては、 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) を参照してください。*
 
@@ -178,9 +178,9 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 - Net customer の追加のポイントは、顧客を追加して顧客を差し引いた後、12か月で集計した場合に毎月計算されます。 
 
-- **顧客の追加**は、次の条件で定義されます。顧客が1か月のすべてのサブスクリプションで有料の座席を利用しておらず、当月に少なくとも1つの有料接続がある場合。
+- **顧客の追加** は、次の条件で定義されます。顧客が1か月のすべてのサブスクリプションで有料の座席を利用しておらず、当月に少なくとも1つの有料接続がある場合。
 
-- **顧客が紛失**した場合は、次の条件で定義されます。顧客が1か月以内にすべてのサブスクリプションに対して少なくとも1人の有料接続クライアントを所有**して**いて、現在の月に有料の座席がない場合。
+- **顧客が紛失** した場合は、次の条件で定義されます。顧客が1か月以内にすべてのサブスクリプションに対して少なくとも1人の有料接続クライアントを所有 **して** いて、現在の月に有料の座席がない場合。
 
 - 販売チャネルには、マイクロソフトエンタープライズ契約 (EA)、クラウドソリューションプロバイダー (CSP)、Web ダイレクトなどがあります。
 
@@ -222,7 +222,7 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 - その後、次のクラウド Business Applications コンピテンシーの更新日に、ベースラインスナップショットがリセットされます。
 
-- ポイントを利用するには、ベースラインスナップショットの作成時に、開発したマーケットパートナーと**5** **個**以上の機能コンサルタントを関連付ける必要があります。
+- ポイントを利用するには、ベースラインスナップショットの作成時に、開発したマーケットパートナーと **5** **個** 以上の機能コンサルタントを関連付ける必要があります。
 
 - **一部のポイントは獲得されません。** ベースラインスナップショットの上にある拡張は、表3に示されているしきい値以上である必要があり [ます。機能コンサルタントの成長](partner-contribution-indicators.md#table-3-functional-consultant-growth)。
 
@@ -252,7 +252,7 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 - テナントが次のような場合、テナントは月間アクティブユーザーしきい値を超えていると見なされます。 
 
-  - 指定されたしきい*値 (12*か月前) 以下
+  - 指定されたしきい *値 (12* か月前) 以下
   - 以降の11か月にわたって、このしきい値を少なくとも1回超過しました。
 
 - 月ごとのアクティブなユーザーは、テナントレベルでカウントされ、テナントの有料サブスクリプションのみで合計されます。
@@ -300,12 +300,12 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
-2. ナビゲーションメニューから [ **CSP** ] を選択し、[ **パートナー貢献度インジケーター**] を選択します。 
+2. ナビゲーションメニューから [ **CSP** ] を選択し、[ **パートナー貢献度インジケーター** ] を選択します。 
 
    パートナー貢献インジケーターダッシュボードと関連付けられたグラフが表示されます。
 
    > [!NOTE]
-   > これらのオプションが表示されない場合は、メニューから [ **MPN** ] を選択し、次に **パートナー貢献インジケーター**をクリックします。 それでもこれらのオプションが見つからない場合は、パートナーセンターで適切なユーザーロールが割り当てられていない可能性があります。 パートナーセンターのグローバル管理者または MPN パートナー管理者に問い合わせてください。
+   > これらのオプションが表示されない場合は、メニューから [ **MPN** ] を選択し、次に **パートナー貢献インジケーター** をクリックします。 それでもこれらのオプションが見つからない場合は、パートナーセンターで適切なユーザーロールが割り当てられていない可能性があります。 パートナーセンターのグローバル管理者または MPN パートナー管理者に問い合わせてください。
 
 ### <a name="read-the-charts"></a>グラフを読む
 
@@ -313,7 +313,7 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 この領域の使用方法の詳細については、この記事の最後にあるリソースとビデオのコレクションを参照してください。
 
-   :::image type="content" source="images/pci/howto.png" alt-text="シルバーまたはゴールドコンピテンシーを実現するための PCI スコアを示します。":::
+   :::image type="content" source="images/pci/howto.png" alt-text="グラフを読む方法":::
 
 ## <a name="next-steps"></a>次のステップ
 
