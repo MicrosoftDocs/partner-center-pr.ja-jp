@@ -1,7 +1,7 @@
 ---
 title: ユーザーにロールとアクセス許可を割り当てる
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 商取引、紹介、インセンティブ、または MPN メンバーシップをパートナー センターで管理する、会社のユーザーに最適なロールについて説明します。
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006809"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133033"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>パートナー センターで作業する必要がある会社のユーザーにユーザーのロールとアクセス許可を割り当てる
 
@@ -97,8 +97,6 @@ CPV は、クラウド ソリューション プロバイダー (CSP) パート�
 |**ゲスト ユーザー**   | **ロール**|
 |---------------------------|:--------------------|
 ||MPN パートナー管理者|
-||アカウント管理者|
-||インセンティブ管理者|
 ||ビジネス プロファイル管理者|
 ||紹介管理者|
 

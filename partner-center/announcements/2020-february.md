@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031785"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132846"
 ---
 # <a name="february-2020-announcements"></a>2020 年 2 月のお知らせ
 
@@ -72,7 +72,7 @@ _________________
 
 この新しい機能により、Microsoft 顧客契約をお客様に提示する際、[パートナー様は次の 2 つのオプションから選択できるようになりました](../confirm-customer-agreement.md)。
 
-- **選択肢 1**パートナーは、以前の Microsoft Cloud 契約とほぼ同じ方法で、新しい Microsoft 顧客契約をお客様に提示できます。 お客様が契約を確認して同意した後、パートナーはお客様が Microsoft に同意したことを証明する必要があります。 パートナー センター ダッシュボード、パートナー センター API、.NET SDK は既に、Microsoft 顧客契約へのお客様の同意を、パートナーがこの方法で確認できるように更新されています。
+- **選択肢 1** パートナーは、以前の Microsoft Cloud 契約とほぼ同じ方法で、新しい Microsoft 顧客契約をお客様に提示できます。 お客様が契約を確認して同意した後、パートナーはお客様が Microsoft に同意したことを証明する必要があります。 パートナー センター ダッシュボード、パートナー センター API、.NET SDK は既に、Microsoft 顧客契約へのお客様の同意を、パートナーがこの方法で確認できるように更新されています。
 - **オプション 2 (新機能):** パートナーは、認証済み Microsoft ポータル (Microsoft 365 管理センター) で契約の確認と署名を行うよう、お客様を招待できます。 このオプションでは、お客様が Microsoft 365 管理センターで直接同意すればご契約条件への同意が確認できるため、パートナーにとっては契約管理の簡素化、迅速な履行、作業量の削減が可能になります。
 
 パートナー様は、パートナー センターのダッシュボードまたは[この新しい API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) により提供される新機能を使用して、新しい契約に同意したかどうかを確認することができます。
@@ -169,13 +169,13 @@ _________________
 
 ### <a name="summary"></a>要約:
 
-これは、[必須のパートナー セキュリティ要件](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)に関する重要な更新情報です。 **2020 年 2 月 29 日**より、Azure Active Directory (Azure AD) の ["ベースライン" ポリシーが削除され](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)、"セキュリティの既定値群" に置き換えられます。これは、対象者様とそのお客様のための、さらに包括的な保護ポリシーのセットです。 Azure AD のセキュリティの既定値群を使用すると、一般的な攻撃に対して、事前に構成されたセキュリティ設定で組織を保護することができます。
+これは、[必須のパートナー セキュリティ要件](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)に関する重要な更新情報です。 **2020 年 2 月 29 日** より、Azure Active Directory (Azure AD) の ["ベースライン" ポリシーが削除され](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)、"セキュリティの既定値群" に置き換えられます。これは、対象者様とそのお客様のための、さらに包括的な保護ポリシーのセットです。 Azure AD のセキュリティの既定値群を使用すると、一般的な攻撃に対して、事前に構成されたセキュリティ設定で組織を保護することができます。
 
-Microsoft のシステムによると、対象者様の組織では現在ベースライン ポリシーが使用されており、セキュリティの既定値群への移行が済んでいません。 **2 月 29 日までにセキュリティの既定値群に移行していない場合、パートナー テナントでベースライン ポリシーを使用して有効になっている多要素認証 (MFA) が失われます。ビジネスの中断を避けるため、直ちにセキュリティの既定値群を有効化してください**。
+Microsoft のシステムによると、対象者様の組織では現在ベースライン ポリシーが使用されており、セキュリティの既定値群への移行が済んでいません。 **2 月 29 日までにセキュリティの既定値群に移行していない場合、パートナー テナントでベースライン ポリシーを使用して有効になっている多要素認証 (MFA) が失われます。ビジネスの中断を避けるため、直ちにセキュリティの既定値群を有効化してください** 。
 
 ### <a name="key-considerations"></a>主な考慮事項
 
-セキュリティの既定値ポリシーは、パートナーが、ビジネス ニーズに応じてセキュリティ要件に MFA を実装するために選択することができる[オプション](../partner-security-requirements.md#actions-that-you-need-to-take)の 1 つです。 基本レベルのセキュリティが追加料金なしで有効になります。 [Azure AD で組織の MFA を有効にする方法](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)に関する記事と、以下の考慮点についてご確認ください。
+セキュリティの既定値ポリシーは、パートナーが、ビジネス ニーズに応じてセキュリティ要件に MFA を実装するために選択することができる[オプション](../partner-security-requirements.md#implementing-multi-factor-authentication)の 1 つです。 基本レベルのセキュリティが追加料金なしで有効になります。 [Azure AD で組織の MFA を有効にする方法](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)に関する記事と、以下の考慮点についてご確認ください。
 
 - [条件付きアクセス](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)を使用しているパートナー様の場合、セキュリティの既定値は使用できません。
 - セキュリティの既定値群では、管理者ポリシーおよびエンドユーザー保護ポリシーに必要な MFA、サービス管理に必要な MFA を含む、すべてのポリシーが同時に適用されます。
@@ -270,7 +270,7 @@ CSP プログラムに参加し、Azure プランの従量課金メーターお�
 
 [CSP での Azure の新しいコマース エクスペリエンス](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/)を活用すると、購入や販売のエクスペリエンスを合理化して、より多くの顧客を獲得し、収益性を高めることができます。
 
- 新しいエクスペリエンスの一部として、[新しい価格 API](/partner/develop/pricing) の提供が開始されたことをお知らせします。これは、**従量課金と予約に関する Azure プランの価格**、および Microsoft によってサポートされている請求通貨の**外国為替レート指標**をプログラムにより取得します。 新しい価格 API を使用することで、パートナーは価格情報の取得プロセスの自動化と簡略化を実現できます。
+ 新しいエクスペリエンスの一部として、 [新しい価格 API](/partner/develop/pricing) の提供が開始されたことをお知らせします。これは、 **従量課金と予約に関する Azure プランの価格** 、および Microsoft によってサポートされている請求通貨の **外国為替レート指標** をプログラムにより取得します。 新しい価格 API を使用することで、パートナーは価格情報の取得プロセスの自動化と簡略化を実現できます。
 
 ### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>新しい価格 API には次の機能が備わっています。
 
@@ -435,7 +435,7 @@ Dynamics 365 Human Resouces では、次のオファーは提供されなくな�
 
 この情報を組織内およびお客様と共有してください。
 
-ライセンスの更新や価値の提案について詳しくは、「**その他の資料**」セクションおよび PartnerSource にある、Microsoft の準備用コンテンツをお読みください。
+ライセンスの更新や価値の提案について詳しくは、「 **その他の資料** 」セクションおよび PartnerSource にある、Microsoft の準備用コンテンツをお読みください。
 
 Microsoft とのオペレーションに直接関連するサポートが必要な場合は、[サポートにお問い合わせください](https://partner.microsoft.com/pcv/servicerequests/create)。
 

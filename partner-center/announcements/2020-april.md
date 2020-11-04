@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031845"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132996"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月のお知らせ
 
@@ -168,11 +168,11 @@ _________________
 
 最近、Microsoft はすべてのパートナー テナントに対して、代理管理者 (AOBO) 機能のセキュリティ保護のアクティブ化を完了し、パートナーの会社とその顧客を個人情報の盗難に関係するインシデントから保護しています。
 
-パートナーとその顧客をさらに保護するために、**2020 年 5 月 1 日以降、CSP でのパートナー センター トランザクションの保護を有効化します**。 この追加のセキュリティ保護を有効化すると、パートナーは、パートナー センターのユーザー エクスペリエンスや API を通じて、CSP 内のすべてのトランザクションに多要素認証 (MFA) を使用するよう要求されます。これにより、未承認のアクセスを拒否し、個人情報の盗難に関係するセキュリティ インシデントから顧客とテナントを保護します。 詳細については、[こちら](../partner-security-requirements-mandating-mfa.md)をご覧ください。
+パートナーとその顧客をさらに保護するために、 **2020 年 5 月 1 日以降、CSP でのパートナー センター トランザクションの保護を有効化します** 。 この追加のセキュリティ保護を有効化すると、パートナーは、パートナー センターのユーザー エクスペリエンスや API を通じて、CSP 内のすべてのトランザクションに多要素認証 (MFA) を使用するよう要求されます。これにより、未承認のアクセスを拒否し、個人情報の盗難に関係するセキュリティ インシデントから顧客とテナントを保護します。 詳細については、[こちら](../partner-security-requirements-mandating-mfa.md)をご覧ください。
 
 ### <a name="next-steps"></a>次の手順
 
-- **テナントとユーザーを保護するために推奨されるセキュリティ要件をまだ実装していない場合は**、コンプライアンスを維持して CSP での顧客管理やトランザクションでビジネスの中断が発生しないように、すぐに実装してください。 パートナーがセキュリティ要件を実装していない場合、CSP プログラムに参加することでセキュリティ上のリスクが生じる可能性があります。
+- **テナントとユーザーを保護するために推奨されるセキュリティ要件をまだ実装していない場合は** 、コンプライアンスを維持して CSP での顧客管理やトランザクションでビジネスの中断が発生しないように、すぐに実装してください。 パートナーがセキュリティ要件を実装していない場合、CSP プログラムに参加することでセキュリティ上のリスクが生じる可能性があります。
 - 間接プロバイダーは、セキュリティ要件を自社で実装するだけでなく、リセラーと協力して、このメール テンプレートを使用して要件をリセラーが確実に実装できるようにする必要もあります。 また Microsoft からも、リセラーにメールで直接連絡いたします。
 - 実装状況と、必要となる主なアクションを確認するには、[パートナー センターのセキュリティ要件のステータス ページ](https://partner.microsoft.com/commerce/security/compliance)にアクセスします。 また、グローバル管理者と協力して、各テナントのセキュリティ要件の実装状況を定期的に確認してください。
 - コントロール パネル ベンダー (CPV) ソリューションを使用している場合は、CPV とご相談ください。
@@ -192,7 +192,7 @@ _________________
 信頼できる Microsoft のエコシステムを運営するために、パートナーとしてご協力、ご尽力くださり、ありがとうございます。
 
 >[!NOTE] 
->ベースライン ポリシーを使用しており、セキュリティの既定値群ポリシーまたは[他の MFA 実装オプション](..\partner-security-requirements.md#actions-that-you-need-to-take)に移行していない場合は、[こちらのキー リソース](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)を参照して、できるだけ早く移行してください。
+>ベースライン ポリシーを使用しており、セキュリティの既定値群ポリシーまたは[他の MFA 実装オプション](..\partner-security-requirements.md#implementing-multi-factor-authentication)に移行していない場合は、[こちらのキー リソース](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)を参照して、できるだけ早く移行してください。
 
 ### <a name="change-log"></a>変更ログ
 
@@ -546,7 +546,7 @@ Microsoft は、2020 年 4 月 1 日に追加の Dynamics 365 製品をリリー
 2020 年 5 月 1 日に、Microsoft は新しい RPA オファーを教育プログラムでも利用できるように拡張する予定です。
 CSP の認定教育パートナー プログラムの変更の詳細については、[こちら](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)をクリックしてください。 これは、パートナー センターの既存のコレクションへのリンクです)。
 
-新しい SKU の情報については、関連ダウンロードのセクションにある[こちら](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)のページに添付された「**Dynamics CSP Offer Updates-May 2020**」というファイルをご確認ください。
+新しい SKU の情報については、関連ダウンロードのセクションにある [こちら](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)のページに添付された「 **Dynamics CSP Offer Updates-May 2020** 」というファイルをご確認ください。
 
 ### <a name="ecommerce-changes"></a>e コマースの変更
 
@@ -600,7 +600,7 @@ _________________
 
 この新しいエクスペリエンスと、今後数週間にわたって更新される領域の詳細については、[更新された FAQ](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) をご確認ください。
 
-**皆様からのご意見をお待ちしております。** 新しいオペレーション レディネスのページを使用したら、お客様のエクスペリエンス向上のために、ぜひフィードバックをお寄せください。 各ページの下部にある「**このページはお役に立ちましたか?はい | いいえ**」フィードバック ツールを使用できます。
+**皆様からのご意見をお待ちしております。** 新しいオペレーション レディネスのページを使用したら、お客様のエクスペリエンス向上のために、ぜひフィードバックをお寄せください。 各ページの下部にある「 **このページはお役に立ちましたか?はい | いいえ** 」フィードバック ツールを使用できます。
 
 Microsoft では、Microsoft のすべてのプログラムにおいて、コミュニケーションを行い、レディネスに関する資料を提供する方法の合理化を行っています。 [https://partner.microsoft.com](https://partner.microsoft.com) の Microsoft パートナー Web サイトでは、オペレーション レディネスに関するリソースを 1 か所で提供します。これにより、[CSP プログラム更新リソース ギャラリー](https://partner.microsoft.com/resources#/)と [Microsoft Readiness サイト](https://www.microsoftreadiness.com/)からの資産が統合されます。
 
@@ -620,8 +620,8 @@ partner.microsoft.com 上のオペレーション レディネス リソース�
 
 どのように準備する必要がありますか?
 
-- ギャラリー コレクション「[準備中 - オペレーション レディネス リソースを 1 か所で](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)」でレディネスに関する最新の資料をご覧いただき、オペレーション レディネス リソースの新しい Microsoft パートナー向け Web サイトの場所についての**詳細情報をご確認ください**。
-- 新しいエクスペリエンスの詳細を確認し、質問をすることができる **4 月のパートナー コミュニティの電話**に参加してください。詳しくは、[https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP) を参照してください。
+- ギャラリー コレクション「 [準備中 - オペレーション レディネス リソースを 1 か所で](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)」でレディネスに関する最新の資料をご覧いただき、オペレーション レディネス リソースの新しい Microsoft パートナー向け Web サイトの場所についての **詳細情報をご確認ください** 。
+- 新しいエクスペリエンスの詳細を確認し、質問をすることができる **4 月のパートナー コミュニティの電話** に参加してください。詳しくは、 [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP) を参照してください。
 
 ### <a name="questions"></a>ご質問がある場合は、
 
@@ -694,8 +694,8 @@ Microsoft 365 Business Voice は、次のプランのアドオンとしてご利
 
 または、2020 年 4 月 1 日より、Business Voice (通話プランなし) プランを購入することもできます。これには、電話システムや音声会議が含まれています。 このプランは、こちらに記載されているすべての国でご利用いただけます。
 
-- **米国のみ**:Microsoft 365 Business Voice (通話プランなし):39d77d0f-eb8f-4ebc-b618-692e1cc59c8f
-- **その他の国や地域**:Microsoft 365 Business Voice (通話プランなし): cc69a07c-8c51-457f-bb2a-f21a62d6bede
+- **米国のみ** :Microsoft 365 Business Voice (通話プランなし):39d77d0f-eb8f-4ebc-b618-692e1cc59c8f
+- **その他の国や地域** :Microsoft 365 Business Voice (通話プランなし): cc69a07c-8c51-457f-bb2a-f21a62d6bede
 
 このプランの活用方法については、お住まいの地域の子会社にお問い合わせください。
 
