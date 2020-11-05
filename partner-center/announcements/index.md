@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133016"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327259"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
 パートナー センターの重要な更新についての詳細をご確認ください。 この情報は頻繁に更新されるので、定期的にチェックしてみてください。
 
-| **カテゴリ** | **2020 年 10 月のお知らせ** | **発表** |
+| **カテゴリ** | **2020 年 11 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[認定されたクラウド ソリューション プロバイダー (CSP) の教育機関のお客様は、Windows 10 Education アップグレードを利用できるようになりました](2020-november.md#4)|11 月 2 日|
+|製品サービス/市場|[クラウド ソリューション プロバイダー (CSP) の最新のデジタル エクスペリエンスが利用可能になりました2020 年 10 月のクラウド ソリューション プロバイダー (CSP) ソフトウェア サブスクリプションの価格表を更新](2020-november.md#3)|11 月 2 日|
+|製品サービス/市場|[2020 年 10 月のクラウド ソリューション プロバイダー (CSP) ソフトウェア サブスクリプションの価格表を更新](2020-november.md#2)|11 月 2 日|
+|製品サービス/市場|[クラウド ソリューション プロバイダー (CSP) プログラムにおける直接請求パートナーの要件に関するパフォーマンス標準の導入](2020-november.md#1)|11 月 2 日|
+| **カテゴリ** | **2020 年 10 月のお知らせ** | **日付** |
 |機能|[Windows Server ソフトウェア サブスクリプションの機能更新プログラム](2020-october.md#17)|10 月 29 日|
 |機能|[認定されたクラウド ソリューション プロバイダー (CSP) の教育機関のお客様は、Windows 10 Education アップグレードを利用できるようになりました](2020-october.md#16)|10 月 28 日|
 |機能|[クラウド ソリューション プロバイダー (CSP) の最新のデジタル エクスペリエンスが利用可能になりました](2020-october.md#15)|10 月 28 日|
