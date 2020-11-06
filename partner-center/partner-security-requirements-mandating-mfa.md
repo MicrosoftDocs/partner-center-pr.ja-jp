@@ -1,7 +1,7 @@
 ---
-title: パートナー テナントに MFA を義務付ける
+title: パートナー テナントに多要素認証 (MFA) を義務付ける
 ms.topic: article
-ms.date: 10/26/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー テナントに MFA を義務付けることが顧客リソースへのアクセスのセキュリティ保護にどのように役立つかについて説明します。 サンプル シナリオが含まれています。
@@ -9,21 +9,19 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
-ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
+ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92680409"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133123"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>パートナー テナントに多要素認証 (MFA) を義務付ける
 
 **適用対象**
 
 - クラウド ソリューション プロバイダー プログラムのすべてのパートナー
-  - 直接請求
-  - 間接プロバイダー
-  - 間接リセラー
+- すべてのコントロール パネル ベンダー
 - すべてのアドバイザー
 
 **対象ロール**
@@ -34,18 +32,15 @@ ms.locfileid: "92680409"
 - 課金管理者
 - 全体管理者
 
-この機能の目的は、パートナーが顧客リソースへのアクセスをセキュリティ保護して資格情報の侵害を防止できるように支援することです。
-パートナーは、ゲスト ユーザーを含むパートナー テナント内のすべてのユーザー アカウントに多要素認証 (MFA) を適用する必要があります。この機能では、パートナーの各ロールが、以下の領域での MFA 検証を完了することが必須となります。
+この記事では、パートナー センターで多要素認証 (MFA) を義務付けるための詳細な例とガイダンスを示します。 この機能の目的は、パートナーが顧客リソースへのアクセスをセキュリティ保護して資格情報の侵害を防止できるように支援することです。 パートナーは、パートナー テナント内のすべてのユーザー アカウント (ゲスト ユーザーを含む) に対して MFA を強制する必要があります。 ユーザーは次の領域に対して MFA 検証を完了することが義務付けられます。
 
 - [パートナー センター ダッシュボード](#partner-center-dashboard)
 - [パートナー センター API](#partner-center-api)
 - [パートナー代理管理](#partner-delegated-administration)
 
-高いレベルのセキュリティおよびプライバシーの保護の継続的な実施は最優先事項の1つであり、パートナーが顧客とテナントを保護する上で Microsoft は引き続き支援を提供していきます。 クラウド ソリューション プロバイダー (CSP) プログラムに参加するすべてのパートナー、コントロール パネル ベンダー (CPV)、アドバイザーは、準拠を維持し、[パートナーのセキュリティ要件](partner-security-requirements.md)を実装する必要があります。
+高いレベルのセキュリティおよびプライバシーの保護の継続的な実施は最優先事項の1つであり、パートナーが顧客とテナントを保護する上で Microsoft は引き続き支援を提供していきます。 クラウド ソリューション プロバイダー (CSP) プログラムに参加するすべてのパートナー、コントロール パネル ベンダー (CPV)、アドバイザーは、準拠した状態を保つために[パートナーのセキュリティ要件](partner-security-requirements.md)を実装する必要があります。
 
-パートナーが ID 盗難に関連するインシデントからビジネスや顧客を保護できるように、パートナー テナント用の追加のセキュリティ セーフガードがアクティブ化されました。これにより、パートナーは、承認されていないアクセスを防ぐために多要素認証 (MFA) による検証を義務付けることでテナントと顧客を確実に保護できます。 
-
-このドキュメントでは、セキュリティ保護才作のアクティブ化に関する詳細なエクスペリエンスとガイダンスをパートナーに提供します。
+パートナーが ID の盗難や未承認のアクセスからビジネスや顧客を保護できるようにするため、パートナーのテナントに対して追加のセキュリティ セーフガードがアクティブ化されました。それに伴い、MFA が義務付けられ、検証されるようになりました。 
 
 ## <a name="partner-center-dashboard"></a>パートナー センター ダッシュボード
 
@@ -55,12 +50,7 @@ ms.locfileid: "92680409"
 - **[サポート] > [Customer requests (顧客の要求)]** タブのすべてのページ。例：[請求] ページでアクセスする https://partner.microsoft.com/dashboard/support/csp/customers/*
 - [請求] ページ
 
-これらのページのいずれかにアクセスしようとしたときに MFA 検証をまだ完了していない場合は、それを行うよう要求されます。
-
-> [!NOTE]
-> [概要] ページ、[サービスの正常性状態] 確認ページなどのパートナー センターのその他のページは、MFA 保護の対象ではありません。
-
-次のユーザーの種類は、これらの MFA で保護されたページへのアクセスが承認されているため、この機能による影響を受けます
+次の表は、どのユーザーの種類がこれらの MFA で保護されたページへのアクセスを認可されるか (したがって、この機能による影響を受けるか) を示しています。
 
 
 | MFA 保護対象のページ       | 管理エージェント      |  販売エージェント     |   ヘルプデスク エージェント     | 全体管理者      |  課金管理者     | 
@@ -69,9 +59,11 @@ ms.locfileid: "92680409"
 | [サポート] > [Customer requests (顧客の要求)] タブのすべてのページ     | x      |       |    x   |       |       |
 | [請求] ページ     |   x    |       |       |    x   |   x    |
 
-## <a name="examples-showing-how-verification-works"></a>検証のしくみを示す例
+これらのページのいずれかにアクセスしようとしたときに MFA 検証をまだ完了していない場合は、それを行うよう要求されます。 パートナー センターのその他のページ ([概要] ページ、[サービスの正常性状態] 確認ページなど) には MFA は不要です。
 
-検証がどのように動作するかを示すために、次の 2 つの例について考えてみます。
+## <a name="verification-examples"></a>検証の例
+
+パートナー センター ダッシュボードで検証がどのように動作するかについて、次の例を使って説明します。
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>例 1:パートナーが Azure AD MFA を実装している
 
@@ -108,16 +100,16 @@ ms.locfileid: "92680409"
 6. John は、パートナー センターの MFA で保護されたページのいずれかにアクセスしようとします。 John は MFA 検証を完了していないため、パートナー センターは、MFA 検証を完了するために John を Azure AD にリダイレクトします。 John は MFA 登録を完了しているため、今回は MFA の検証の完了のみが要求されます。
 
 > [!NOTE]
->アクション:会社の管理者は、パートナーセンターが推奨する[オプション](partner-security-requirements.md#actions-that-you-need-to-take)のいずれかを使用して MFA をすぐに実装する必要があります。
+>アクション:会社の管理者には、MFA を実装するための[選択肢が 3 つ](partner-security-requirements.md#implementing-multi-factor-authentication)あります。
 
 ## <a name="partner-center-api"></a>パートナー センター API
 
-パートナー センター API では、アプリのみの認証とアプリとユーザー認証の両方がサポートされます。 
+パートナー センター API では、アプリのみの認証とアプリ + ユーザー認証の両方がサポートされます。 
 
 アプリとユーザー認証が使用される場合は、パートナー センターに MFA 検証が必要です。 具体的には、パートナー アプリケーションがパートナー センターに API 要求を送信しようとする場合、そのアプリケーションは要求の承認ヘッダーにアクセス トークンを含める必要があります。 
 
 > [!NOTE]
->[セキュア アプリケーション モデル](/partner-center/develop/enable-secure-app-model) は、パートナー センター API を呼び出す際に Microsoft Azure MFA アーキテクチャを介して CSP パートナーおよび CPV を認証するためのセキュアでスケーラブルなフレームワークであり、テナントで MFA をアクティブ化する前に実装する必要があります。 
+>[セキュア アプリケーション モデル フレームワーク](/partner-center/develop/enable-secure-app-model)は、パートナー センター API を呼び出す際に Microsoft Azure MFA アーキテクチャを介して CSP パートナーおよび CPV を認証するためのスケーラブルなフレームワークです。 テナントで MFA を有効にする前に、このフレームワークを実装する必要があります。 
 
 App+User (アプリ + ユーザー) 認証を使用して取得したアクセス トークンを含む API 要求をパートナー センターが受信すると、パートナー センター API が、 *認証方法参照 (AMR)* 要求に *MFA* 値が存在することを確認します。 JWT デコーダーを使用すると、アクセス トークンに、予測される認証方法参照 (AMR) 値が含まれているかどうかを検証できます。
 
@@ -163,17 +155,17 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 ## <a name="partner-delegated-administration"></a>パートナー代理管理
 
-### <a name="using-service-portals"></a>サービス ポータルの使用
-
 パートナー アカウント (管理エージェントとヘルプデスク エージェントを含む) は、パートナー代理管理特権を使用して、Microsoft Online Services ポータル、コマンドライン インターフェイス (CLI)、API (アプリ + ユーザー認証を使用) 経由で顧客リソースを管理できます。
 
-パートナー代理管理特権を使用して Microsoft Online Services ポータルにアクセスし、顧客リソースを管理する場合、これらのポータルの多くでは、顧客の Azure Active Directory テナントを認証コンテキストとして設定し、パートナーアカウントをインタラクティブに認証する必要があります。顧客テナントにサインインするには、パートナー アカウントが必要となります。
+### <a name="using-service-portals"></a>サービス ポータルの使用
 
-Azure Active Directory は、このような認証要求を受信すると、パートナー アカウントに MFA 検証を完了するよう要求します。 パートナー アカウントがマネージド ID またはフェデレーション ID のどちらであるかに応じて、次の 2 つのユーザー エクスペリエンスが考えられます。
+パートナー代理管理特権 (Admin-On-Behalf-Of) を使用して Microsoft Online Services ポータルにアクセスし、顧客リソースを管理する場合、これらのポータルの多くでは、顧客の Azure AD テナントを認証コンテキストとして設定し、パートナー アカウントをインタラクティブに認証する必要があります。つまり、パートナー アカウントは顧客テナントにサインインする必要があります。
 
-- パートナー アカウントが **マネージド** ID である場合、Azure Active Directory は直接、ユーザーに MFA 検証を完了するよう求めます。 パートナー アカウントが以前に Azure Active Directory を使用して MFA に登録していない場合、ユーザーは、まず [MFA 登録を完了する](#mfa-registration-experience)よう求められます。
+Azure AD でこのような認証要求が受信されると、パートナー アカウントに対し、MFA 検証を完了するよう求められます。 パートナー アカウントがマネージド ID またはフェデレーション ID のどちらであるかに応じて、次の 2 つのユーザー エクスペリエンスが考えられます。
 
-- パートナー アカウントが **フェデレーション** ID である場合のエクスペリエンスは、パートナー管理者が Azure Active Directory でフェデレーションを構成した方法によって異なります。 Azure Active Directory でフェデレーションを設定するとき、パートナー管理者は、フェデレーション ID プロバイダーで MFA がサポートされるかどうかを Azure Active Directory に示すことができます。 サポートされる場合、Azure Active Directory は、MFA 検証を完了するためにユーザーをフェデレーション ID プロバイダーにリダイレクトします。 そうでない場合、Azure Active Directory は直接、ユーザーに MFA 検証を完了するよう求めます。 パートナー アカウントが以前に Azure Active Directory を使用して MFA に登録していない場合、ユーザーは、まず [MFA 登録を完了する](#mfa-registration-experience)よう求められます。
+- パートナー アカウントが **マネージド** ID である場合、Azure AD からユーザーに対して直接 MFA 検証を完了するよう求めるプロンプトが表示されます。 パートナー アカウントが以前に Azure AD を使用して MFA に登録していない場合、ユーザーは、まず [MFA 登録を完了する](#mfa-registration-experience)よう求められます。
+
+- パートナー アカウントが **フェデレーション** ID である場合のエクスペリエンスは、パートナー管理者が Azure AD でフェデレーションを構成した方法によって異なります。 Azure AD でフェデレーションを設定するとき、パートナー管理者は、フェデレーション ID プロバイダーで MFA がサポートされるかどうかを Azure AD に示すことができます。 サポートされる場合、MFA 検証を完了するため、Azure AD によってユーザーはフェデレーション ID プロバイダーにリダイレクトされます。 そうでない場合、Azure AD からユーザーに対して直接 MFA 検証を完了するよう求めるプロンプトが表示されます。 パートナー アカウントが以前に Azure AD を使用して MFA に登録していない場合、ユーザーは、まず [MFA 登録を完了する](#mfa-registration-experience)よう求められます。
 
 全体的なエクスペリエンスは、エンド カスタマーのテナントがその管理者に対して MFA を実装しているシナリオと同様です。 たとえば、顧客テナントで [Azure AD のセキュリティの既定値](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)が有効になっているとします。この場合は、管理者権限を持つすべてのアカウント (管理エージェントとヘルプデスク エージェントを含む) が MFA 検証を使用して顧客テナントにサインインするよう要求されます。 テストのために、パートナーは顧客テナントで [Azure AD のセキュリティの既定値](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)を有効にしてから、パートナー代理管理特権を使用して顧客テナントにアクセスしてみることができます。
 
@@ -202,19 +194,13 @@ MFA 検証中に、パートナー アカウントが以前に MFA に登録し�
 
 **[次へ]** をクリックすると、ユーザーは、検証方法の一覧から選択することを求められます。
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA 登録手順 1":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA 登録手順 2":::
 
 登録に成功すると、ユーザーは次に、ユーザーが選択した検証方法に基づいて MFA 検証を完了するよう要求されます。
-
-## <a name="request-for-technical-exception"></a>技術的な例外の要求
-
-パートナーは、Microsoft Online Services で技術的な問題が発生しており、実現可能な解決策または回避策が存在しない場合、MFA 検証を抑制するための技術的な例外を申請できます。 これを行う前に、次のセクションを確認してください。
-
-- [パートナーによって報告された一般的な問題の一覧](#list-of-common-issues-reported-by-partners)
-- [技術的な例外の要求を提出する方法](#how-to-submit-a-request-for-technical-exception)
  
-### <a name="list-of-common-issues-reported-by-partners"></a>パートナーによって報告された一般的な問題の一覧
-技術的な例外を申請する前に、それが技術的な例外の有効な理由であるかどうかを判断するために、他のパートナーによって報告された一般的な問題の一覧を確認してください。
+## <a name="list-of-common-issues"></a>一般的な問題の一覧
+
+MFA 要件に対する[技術的な例外](#how-to-submit-a-request-for-technical-exception)を申請する前に、その要求が有効かどうかを把握するために、他のパートナーによって報告された一般的な問題の一覧を確認してください。
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>問題 1: パートナーに、パートナー エージェントに対して MFA を実装するためのさらに多くの時間が必要である
 あるパートナーが、顧客リソースを管理するためにパートナー代理管理特権を使用した Microsoft Online Services ポータルへのアクセスを必要としているパートナー エージェントに対する MFA の実装をまだ開始していないか、またはその最中です。 このパートナーには、MFA 実装を完了するためのさらに多くの時間が必要です。 この問題は、技術的な例外の有効な理由ですか?
@@ -261,7 +247,9 @@ Outlook のレガシ認証のサポートに関する最新の計画について
 
 - 使用中または使用する予定のサードパーティの MFA ソリューションの注文書。
 
-### <a name="how-to-submit-a-request-for-technical-exception"></a>技術的な例外の要求を提出する方法
+## <a name="how-to-submit-a-request-for-technical-exception"></a>技術的な例外の要求を提出する方法
+
+パートナーは、Microsoft Online Services で技術的な問題が発生しており、実現可能な解決策または回避策が存在しない場合、MFA 検証を抑制するための技術的な例外を申請できます。 これを行う前に、前のセクションで説明した[一般的な問題の一覧](#list-of-common-issues)を確認してください。
 
 技術的な例外の要求を提出するには:
 
@@ -274,3 +262,7 @@ Outlook のレガシ認証のサポートに関する最新の計画について
 4. 技術的な例外のサービス要求を提出するよう要求された詳細を指定し、 **[提出]** をクリックします。
 
 技術的な例外の要求への応答を Microsoft から提供するまでに最大 3 営業日かかることがあります。
+
+## <a name="next-steps"></a>次のステップ
+
+ - [パートナー セキュリティ要件の状態](partner-security-compliance.md)

@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406365"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133050"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>パートナーのセキュリティ要件についてよく寄せられる質問
+# <a name="common-questions-about-partner-security-requirements"></a>パートナーのセキュリティ要件に関する一般的な質問
 
 **適用対象**
 
@@ -26,17 +26,16 @@ ms.locfileid: "91406365"
 
 - ゲスト ユーザーを含むすべての有効なユーザー
 
-## <a name="partner-security-requirements"></a>パートナーのセキュリティ要件
 
-この記事では、[パートナーのセキュリティ要件](partner-security-requirements.md)に関してよく寄せられる質問をいくつか紹介します。
+この記事では、[パートナーのセキュリティ要件](partner-security-requirements.md)に関する一般的な質問にお答えします。
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>パートナーのセキュリティ要件とは? パートナーが実装すべき理由とは?
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>パートナーのセキュリティ要件とは? パートナーがそれらを実装するべき理由とは?
 
-高いレベルのセキュリティおよびプライバシーの保護の継続的な実施は最優先事項の1つであり、パートナーが顧客とテナントを保護する上で Microsoft は引き続き支援を提供していきます。 主に ID 侵害インシデントに関連する、ますます高度になったセキュリティ攻撃の数が増え続けています。 セキュリティ攻撃を阻止する全体的な防御戦略において、予防策は重要な役割を果たすため、 [必須のセキュリティ要件](partner-security-requirements.md) を 2019 年に導入しています。 クラウド ソリューション プロバイダー (CSP) プログラムに参加するすべてのパートナー、コントロール パネル ベンダー (CPV)、およびアドバイザーは、準拠を維持するための要件を実装する必要があります。
+高いレベルのセキュリティおよびプライバシーの保護の継続的な実施は最優先事項の1つであり、パートナーが顧客とテナントを保護する上で Microsoft は引き続き支援を提供していきます。 主に ID 侵害インシデントに関連する、ますます高度になったセキュリティ攻撃の数が増え続けています。 セキュリティ攻撃を阻止する全体的な防御戦略において、予防策は重要な役割を果たすため、 [必須のセキュリティ要件](partner-security-requirements.md) を 2019 年に導入しています。 クラウド ソリューション プロバイダー (CSP) プログラムに参加するすべてのパートナー、コントロール パネル ベンダー、アドバイザーは、準拠を維持するための要件を実装していなければなりません。
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>重要なタイムラインとマイルストーンは何ですか?
 
-タイムラインとマイルストーンを含むこれらのセキュリティ要件に関連する条件は、2019 年の [Microsoft Partner Agreement](microsoft-partner-agreement.md) に記載されています。 CSP プログラムへの参加に継続して準拠するには、これらのセキュリティ要件をできるだけ早く実装する必要があります。
+タイムラインとマイルストーンを含むこれらのセキュリティ要件に関連するご契約条件は、[Microsoft Partner Agreement](microsoft-partner-agreement.md) に記載されています。 CSP プログラムへの参加に継続して準拠するには、これらのセキュリティ要件をできるだけ早く実装する必要があります。
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>これらのパートナー セキュリティ要件を実装しないとどうなりますか?
 
@@ -46,11 +45,11 @@ Microsoft Partner Agreement では、パートナーは、ユーザー アカウ
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>セキュリティ要件はすべての地域に適用されますか?
 
-はい。セキュリティ要件はすべての地域に適用されます。 ソブリン クラウド (21Vianet、米国政府、およびドイツ) を介して取引するすべてのパートナーが直ちに行動し、これらの新しいセキュリティ要件を採用することを強くお勧めします。 ただし、これらのパートナーは、8 月 1 日から有効となる新しいセキュリティ要件を満たす必要はありません。 マイクロソフトでは、今後、ソブリン クラウドに対するこれらのセキュリティ要件の適用に関して、追加の詳細情報を提供する予定です。
+はい。セキュリティ要件はすべての地域に適用されます。 ソブリン クラウド (米国政府およびドイツ) を介して取引するすべてのパートナーは、直ちに行動してこれらの新しいセキュリティ要件を採用することを強くお勧めします。 ただし、現在のところ、これらのパートナーがこれらのセキュリティ要件を満たすことは必須ではありません。 マイクロソフトでは、今後、ソブリン クラウドに対するこれらのセキュリティ要件の適用に関して、追加の詳細情報を提供する予定です。
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>アカウントを除外することはできますか?
 
-いいえ。いかなるユーザー アカウントも、MFA 適用要件から除外することはできません。 パートナーは高度な特権を持っているため、Microsoft Partner Agreement では、パートナー テナントの各ユーザー アカウントに対して多要素認証を適用することが要求されています。
+いいえ。いかなるユーザー アカウントも多要素認証 (MFA) の適用要件から除外することはできません。 パートナーは高度な特権を持っているため、Microsoft Partner Agreement では、パートナー テナントの各ユーザー アカウントに対して多要素認証を適用することが要求されています。
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>パートナーのセキュリティ要件を満たしているかどうかを知るにはどうすればよいですか?
 
@@ -59,7 +58,7 @@ Microsoft Partner Agreement では、パートナーは、ユーザー アカウ
 - [パートナーのセキュリティ要件](partner-security-requirements.md)に概説されているすべての要件を満たす必要があります。
 - パートナー テナント内のすべてのユーザー アカウントに多要素認証を適用する必要があります。
 
-アクションを実行できる主要な領域を確認できるよう、パートナー センターから利用できる[セキュリティ要件状態](https://partner.microsoft.com/commerce/security/compliance)レポートが提供されています。
+アクションを実行できる主要な領域を確認できるよう、パートナー センターから利用できる[セキュリティ要件状態レポート](https://partner.microsoft.com/commerce/security/compliance)が提供されています。
 
 状態レポートの詳細については、「[パートナー セキュリティ要件の状態](partner-security-compliance.md)」を参照してください。
 
@@ -97,7 +96,7 @@ CSP プログラムのすべてのパートナー (直接請求、間接プロ�
 
 ## <a name="multi-factor-authentication"></a>多要素認証
 
-### <a name="what-is-multi-factor-authentication-mfa"></a>Multi-Factor Authentication (MFA) とは何ですか?
+### <a name="what-is-multi-factor-authentication-mfa"></a>多要素認証 (MFA) とは何ですか?
 
 MFA は、ユーザーが複数の必要なセキュリティと検証の手順によって認証されるセキュリティ メカニズムです。 それは、次の認証方法のうち 2 つ以上を必須にすることで機能します。
 
@@ -308,7 +307,7 @@ Microsoft では、追加の保護を提供するために、多要素認証 (MF
 
 Azure Active Directory (Azure AD) [「ベースライン」ポリシーは削除され、パートナーとその顧客のためのより包括的な保護ポリシーである「セキュリティの既定値」](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)に置き換えられます。 [セキュリティの既定値](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) を使用すると、組織を個人情報盗難関連のセキュリティ攻撃から保護する上で役立ちます。
 
-ベースライン ポリシーからセキュリティの既定値のポリシー、または[その他の MFA 実装オプション](partner-security-requirements.md#actions-that-you-need-to-take)に移行していない場合は、ベースラインポリシーの提供終了にり、多要素認証 (MFA) の実装は削除されます。 MFA で保護された操作を実行するパートナー テナントのユーザーは、MFA の検証を完了するように要求されます。 詳細なガイダンスについては、[ここ](partner-security-requirements-mandating-mfa.md)を参照してください。
+ベースライン ポリシーからセキュリティの既定値のポリシー、または[その他の MFA 実装オプション](partner-security-requirements.md#implementing-multi-factor-authentication)に移行していない場合は、ベースラインポリシーの提供終了にり、多要素認証 (MFA) の実装は削除されます。 MFA で保護された操作を実行するパートナー テナントのユーザーは、MFA の検証を完了するように要求されます。 詳細なガイダンスについては、[ここ](partner-security-requirements-mandating-mfa.md)を参照してください。
 準拠を維持し、中断を最小限に抑えるには、以下のいずれかの操作を実行します。
 
 - セキュリティの既定値への移行

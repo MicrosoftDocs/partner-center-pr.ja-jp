@@ -1,70 +1,57 @@
 ---
-title: パートナー セキュリティ要件の状態
-ms.date: 05/26/2020
+title: セキュリティ要件の状態レポート
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: クラウド ソリューション プロバイダー プログラムにおけるアドバイザー、コントロール パネル ベンダー、およびパートナーのセキュリティを強化する、新しい必須要件について説明します。
+description: セキュリティ要件の状態レポートおよびパートナー センター MFA レポートを使用して自社のセキュリティ要件の遵守状況を確認する方法について説明します
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b6c2d56a0747ddf2bd1a821886e371ed698a4a1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999836"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132965"
 ---
-# <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>パートナー セキュリティ要件の状態 - 現在の状態に関する回答を入手し、レポートを確認する
+# <a name="security-requirements-status-report"></a>セキュリティ要件の状態レポート
 
 **適用対象**
 
 - クラウド ソリューション プロバイダー プログラムのすべてのパートナー
-  - 直接請求
-  - 間接プロバイダー
-  - 間接リセラー
 - すべてのコントロール パネル ベンダー
 - すべてのアドバイザー
 
 **該当するユーザー**
 - ゲスト ユーザーを含むすべての有効なユーザー
 
-プライバシーの保護とセキュリティの強化は、マイクロソフトの最優先事項の 1 つです。 最善の防御とは予防することで、私たちの強さが、最も弱いリンクと同程度でしかないことはわかっています。 だから、エコシステムの全員が行動し、適切なセキュリティ保護を確保する必要があるのです。 パートナーと顧客を保護するために、アドバイザー、コントロール パネル ベンダー、およびクラウド ソリューション プロバイダー プログラムに参加しているパートナーを対象とした一連の必須セキュリティ要件が導入されています。
+この記事では、パートナー センターにおけるセキュリティ要件の状態レポートについて説明します。 このレポートでは、ご使用のパートナー テナント内のユーザーに対する多要素認証 (MFA) に関する[パートナー セキュリティ要件](partner-security-requirements.md)の遵守状況についてメトリックが提供されます。
 
-2019 年 8 月 1 日以降、すべてのパートナーが、パートナー テナントのすべてのユーザー (サービス アカウントを含む) に対して多要素認証を適用する必要があります。 新しいセキュリティ ポリシーの詳細については、「[パートナー セキュリティ要件](partner-security-requirements.md)」を参照してください。
-
-Microsoft では、各ユーザーが 1 つの認証ごとに確実に MFA チャレンジを受けるように取り組んでいます。 このエクスペリエンスは、次のいずれかの方法で実現できます。
-
-- Azure AD Premium を実装し、MFA が各ユーザーに確実に適用されるようにする
-- [Azure AD のセキュリティの既定値](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)を実装する
-- サードパーティ ソリューションを実装し、MFA が各ユーザーに確実に適用されるようにする
-
-## <a name="partner-security-requirements-status"></a>パートナー セキュリティ要件の状態
-
-このレポートを使用すると、要件を満たしていない可能性がある個所が示されるので、セキュリティ要件の状態を確認できます。 追跡は定期的に更新されます。
+[パートナー センター](https://partner.microsoft.com/dashboard)でこのレポートにアクセスするには、 **[設定]**  >  **[Partner settings]\(パートナーの設定\)**  >  **[Security requirements status]\(セキュリティ要件の状態\)** に移動してください。 このレポートは毎日更新され、過去 7 日間のログイン データが反映されています。
 
 >[!NOTE]
->パートナー セキュリティ要件の状態レポートは、パートナー センターでのみサポートされています。 Microsoft Cloud for US Government または Microsoft Cloud Germany では使用できません。 ソブリン クラウド (21Vianet、米国政府、およびドイツ) を介して取引するすべてのパートナーには、これらの新しいセキュリティ要件を採用することを強くお勧めします。 ただし、これらのパートナーは、2019 年 8 月 1 日に開始される新しいセキュリティ要件を満たす必要はありません。 マイクロソフトでは、今後、ソブリン クラウドに対するこれらのセキュリティ要件の適用に関して、追加の詳細情報を提供する予定です。
+>セキュリティ要件の状態レポートは、パートナー センターでのみサポートされています。 Microsoft Cloud for US Government または Microsoft Cloud Germany では使用できません。 ソブリン クラウド (米国政府およびドイツ) を介して取引するすべてのパートナーには、これらの新しいセキュリティ要件を採用することを強くお勧めします。 ただし、これらのパートナーは、現在のところこれらの新しいセキュリティ要件を満たすことは必須ではありません。 マイクロソフトでは、今後、ソブリン クラウドに対するこれらのセキュリティ要件の適用に関して、追加の詳細情報を提供する予定です。
 
-## <a name="multi-factor-authentication-mfa-report"></a>多要素認証 ("MFA") レポート
+## <a name="security-status-metrics"></a>セキュリティ状態のメトリック
 
-パートナー センターの MFA レポートには、CSP テナントの MFA 構成とパートナー センターのアクティビティに基づいた 2 種類のメトリックが用意され、パートナーの MFA の実装に関する分析情報が示されます。 
+セキュリティ要件の状態レポートでは、パートナーの MFA 実装に関する分析情報が提供され、パートナー テナント上での MFA 構成とパートナー センター アクティビティに関するメトリックが提供されます。 以下の各セクションでは、これらのメトリックについて詳しく説明します。
 
-### <a name="mfa-configuration-on-a-csp-tenant"></a>CSP テナントでの MFA 構成
+### <a name="mfa-configuration-on-a-partner-tenant"></a>パートナー テナントでの MFA 構成
 
-このメトリックは、1 日単位でキャプチャおよび報告した CSP テナントの MFA 構成に関連しています。 これらの [MFA オプション](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)のいずれかを使用して、MFA が適用された有効なユーザー アカウントの割合を測定します。 たとえば、次のように入力します。
+メトリック **[Percentage of enabled user accounts with MFA enforced using options listed here:]\(こちらに一覧表示されているオプションを使用して MFA が強制された有効なユーザー アカウントの割合:\)** には、パートナー テナント上で MFA が強制された有効なユーザー アカウントの割合が示されます。 準拠を達成するには、これらの [MFA オプション](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)のいずれかを使用できます。 このデータは毎日キャプチャされ、報告されます。 たとえば、次のように入力します。
 
 - Contoso は、テナントに 110 個のユーザー アカウントを持つ CSP パートナーであり、そのユーザー アカウントのうち 10 個は無効になっています。 
 - 残りの 100 個のユーザー アカウントのうち、90 個は、指定された [MFA オプション](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)を使用して MFA が適用されます。 そのため、メトリックには 90% と示されます。 
 
-### <a name="partner-center-activities-with-mfa"></a>MFA を使用したパートナー センター アクティビティ
+### <a name="partner-center-requests-with-mfa"></a>MFA を使用したパートナー センター要求
 
-従業員がパートナー センターにサインインして作業したり、API を介してパートナー センターからデータを取得または送信したりするたびに、セキュリティ状態のチャレンジが行われ、追跡されます。 また、セキュリティ状態の追跡には、自社のアプリケーションと、すべてのコントロール パネル ベンダー アプリケーションも含まれます。 過去 7 日間の状態が表示されます。
+従業員がパートナー センターにサインインして作業したり、API を介してパートナー センターからデータを取得または送信したりするたびに、セキュリティ状態のチャレンジが行われ、追跡されます。 また、セキュリティ状態の追跡には、自社のアプリケーションと、すべてのコントロール パネル ベンダー アプリケーションも含まれます。 このデータは **[Percentage of requests to Partner Center with MFA]\(MFA を使用したパートナー センターへの要求の割合\)** というメトリックに表示され、過去 7 日間が反映されます。
 
-#### <a name="mfa-verification-completed-by-users"></a>MFA verification completed by users (ユーザーが完了した MFA 検証)
+#### <a name="dashboard-mfa-verification"></a>ダッシュボード MFA 検証
 
-このメトリックは、パートナー センター ダッシュボード内のアクティビティに関連しています。 MFA 検証を完了したユーザーによって行われた操作の割合が測定されます。 たとえば、次のように入力します。
+メトリック **[Through Partner Center portal]\(パートナー センター ポータル経由\)** は、パートナー センター ダッシュボード内のアクティビティに関連しています。 MFA 検証を完了したユーザーによって行われた操作の割合が測定されます。 たとえば、次のように入力します。
 
 - Contoso は、加藤さんと田中さんという 2 人の管理者エージェントがいる CSP パートナーです。
 - 初日に、加藤さんは MFA 検証を完了せずにパートナー センター ダッシュボードにログインし、3 つの操作を行いました。
@@ -75,9 +62,9 @@ Microsoft では、各ユーザーが 1 つの認証ごとに確実に MFA チ�
 
 ファイル **[Portal requests without MFA]\(MFA なしのポータル要求\)** を使用すると、MFA 検証なしでパートナー センター ダッシュボードにログインしたユーザーと、レポート期間中に最後にアクセスした時刻を把握できます。
 
-#### <a name="appuser-authentication"></a>App+User authentication (アプリ + ユーザー認証)
+#### <a name="appuser-mfa-verification"></a>アプリ + ユーザー MFA 検証
 
-このメトリックは、[App+User authentication]\(アプリ + ユーザー認証\) を使用して行われたパートナー センター API 要求の使用に関連しています。 MFA 要求と共にアクセス トークンを使用して行われた API 要求の割合が測定されます。 たとえば、次のように入力します。
+メトリック **[Through API or SDK]\(API または SDK 経由\)** は、パートナー センター API 要求を介したアプリ + ユーザー認証に関連しています。 MFA 要求と共にアクセス トークンを使用して行われた API 要求の割合が測定されます。 たとえば、次のように入力します。
 
 - Fabrikam は CSP パートナーであり、[App+User authentication]\(アプリ + ユーザー認証\) とアプリのみの認証方法を組み合わせて使用する CSP アプリケーションを持っています。
 - 初日に、アプリケーションでは、MFA 検証を完了せずに、[App+User authentication]\(アプリ + ユーザー認証\) 方法を介して取得されたアクセス トークンを利用して、3 つの API 要求を作成しました。
@@ -91,33 +78,32 @@ Microsoft では、各ユーザーが 1 つの認証ごとに確実に MFA チ�
 - **[API requests summary]\(API 要求の概要\)** 。アプリケーションごとの全体的な MFA 状態を把握できます。
 - **[All API requests]\(すべての API 要求\)** 。テナントのユーザーによって行われた各 API 要求の詳細を把握できます。ダウンロード エクスペリエンスを向上させるために、結果は最新の 10,000 件の要求までに制限されます。
 
-## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>MFA レポートのメトリックが 100% ではない場合の対処方法
+## <a name="actions-for-mfa-status-below-100"></a>MFA の状態が 100% を下回る場合の処置
 
-MFA を実装しているパートナーの場合、パートナー センターの MFA レポートのメトリックが 100% ではないことがあります。 その理由を理解するために、考慮する必要がある要素を次に示します。
+MFA を実装したパートナーが 100% を下回るレポート メトリックを受け取る場合があります。 その理由を理解するために、考慮する必要がある要素を次に示します。
 
 > [!NOTE]
 > パートナー テナントの ID 管理と MFA の実装について理解している組織のユーザーと協力する必要があります。
 
-### <a name="have-you-implemented-mfa-for-your-partner-tenant"></a>パートナー テナント用に MFA を実装しましたか
+### <a name="implemented-mfa-for-your-partner-tenant"></a>パートナー テナント用に MFA を実装する
 
-それ以外の場合は、最初にパートナー テナント用に MFA を実装する必要があります。 MFA を実装する方法の詳細については、「[パートナーのセキュリティ要件](partner-security-requirements.md)」を参照してください。
+準拠を達成するには、パートナー テナント用に MFA を実装する必要があります。 MFA を実装する方法の詳細については、「[パートナー センターまたはパートナー センター API を使用するパートナー向けの、パートナーのセキュリティ要件](partner-security-requirements.md)」をご覧ください。
 
-### <a name="have-you-only-recently-completed-mfa-implementation"></a>最近、MFA の実装を完了したばかりですか
+>[!NOTE]
+> MFA メトリックは日単位で計算され、過去 7 日間に実行された操作が考慮されます。 パートナー テナントの MFA 実装を最近完了したばかりの場合は、メトリックがまだ 100% にならない可能性があります。
 
-メトリックは日単位で計算され、過去 7 日間に実行された操作が考慮されます。 パートナー テナントの MFA 実装を最近完了したばかりの場合は、メトリックが 100% ではない可能性があります。
+### <a name="verify-mfa-on-all-user-accounts"></a>すべてのユーザー アカウントで MFA を検証する
 
-### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>一部のユーザー アカウントが MFA 実装から除外されていますか
+現在の MFA 実装の対象がすべてのユーザー アカウントか一部のみかを把握します。 一部の MFA ソリューションはポリシーベースであり、ユーザーの除外をサポートしますが、ユーザーごとに MFA を明示的に有効にすることが必要な場合もあります。 現在の MFA 実装からユーザーを除外していないことを確認します。 除外されたユーザー アカウントからパートナー センターにログインして CSP、CPV、または Advisor 関連のアクティビティを実行すると、メトリックが 100% にならない可能性があります。
 
-現在の MFA 実装の対象がすべてのユーザー アカウントか一部のみかを把握します。 一部の MFA ソリューションはポリシーベースであり、ユーザーの除外をサポートしますが、ユーザーごとに MFA を明示的に有効にすることが必要な場合もあります。 現在の MFA 実装からユーザーを除外していないことを確認します。 除外されたユーザー アカウントが、パートナー センターにログインして CSP 関連のアクティビティを実行すると、メトリックが 100% にならない可能性があります。
-
-### <a name="is-mfa-only-required-when-certain-conditions-are-met"></a>MFA は特定の条件が満たされた場合にのみ必要ですか
+### <a name="review-your-mfa-conditions"></a>MFA の条件を確認する
 
 現在ご利用の実装では、特定の条件下でのみ MFA が適用されるかどうかを把握します。 一部の MFA ソリューションには、特定の条件が満たされた場合にのみ MFA を適用する柔軟性があります。 たとえば、ユーザーは不明なデバイスまたは不明な場所からアクセスしています。 MFA は有効ですが、パートナー センターにアクセスするときに MFA 検証を完了する必要がないユーザーがいると、メトリックが 100% にならない可能性があります。
 
 >[!NOTE]
 >Azure AD のセキュリティの既定値を使用して MFA を実装したパートナーの場合、管理者以外のユーザー アカウントにはリスクに基づいて多要素認証が適用されることに注意することが重要です。 ユーザーには、リスクの高いサインイン試行時にのみ MFA が求められます (たとえば、ユーザーが別の場所からサインインする場合など)。 さらに、ユーザーは、MFA への登録が完了するまでに最大 14 日間かかります。 MFA の登録を完了していないユーザーには、この 14 日間に MFA 検証のチャレンジが行われません。 そのため、Azure AD のセキュリティの既定値を使用して MFA を実装したパートナーの場合、メトリックが 100% にならない可能性があると予想されます。
 
-### <a name="are-you-using-third-party-mfa-solution"></a>サードパーティの MFA ソリューションを使用している場合
+### <a name="review-third-party-mfa-configurations"></a>サード パーティの MFA の構成を確認する
 
 サードパーティの MFA ソリューションを使用している場合は、それを Azure AD と統合する方法を確認してください。 一般に、フェデレーションとカスタム コントロールを含む 2 つの方法があります。
 
@@ -125,7 +111,7 @@ MFA を実装しているパートナーの場合、パートナー センター
 
 * **カスタム コントロール** - Azure AD カスタム コントロールを使用して、ユーザーがサードパーティの MFA ソリューションによる MFA 検証を完了したかどうかを特定することはできません。 その結果、カスタム コントロールを介して MFA 検証を完了したユーザーは、常に Azure AD (およびパートナー センター) からは MFA 検証を完了していないように見えます。 可能であれば、Azure AD との統合時に、カスタム コントロールではなく、ID フェデレーションの使用に切り替えることをお勧めします。
 
-### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>MFA を完了せずにパートナー センターにログインしたユーザーを特定する
+### <a name="identify-which-users-have-signed-in-to-partner-center-without-mfa"></a>MFA を完了せずにパートナー センターにサインインしたユーザーを特定する
 
 MFA 検証を完了せずにパートナー センターにログインしているユーザーを特定し、現在の MFA の実装に照らして検証すると便利な場合があります。 [Azure AD サインイン レポート](/azure/active-directory/reports-monitoring/concept-sign-ins)を使用すると、ユーザーが MFA 検証を完了したかどうかを確認できます。 Azure AD サインイン レポートは、現在、Azure AD Premium、または Azure AD Premium を含む任意の O365 SKU (EMS など) にサブスクライブしているパートナーのみが利用できます。
 

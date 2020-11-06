@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/14/2020
-ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/30/2020
+ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795815"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132829"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月のお知らせ
 
@@ -22,7 +22,134 @@ ms.locfileid: "92795815"
 
 2020 年のお知らせ:[3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
 
-________________________________
+______________
+
+## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Windows Server ソフトウェア サブスクリプションの機能更新プログラム
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-10-29
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+Windows Server Standard のソフトウェア サブスクリプションを以前に購入したクラウド ソリューション プロバイダー (CSP) パートナー
+
+### <a name="details"></a>詳細
+
+Microsoft では、2020 年 10 月 30 日に CSP 向けの Windows Server ソフトウェア サブスクリプションの新しい機能更新プログラムをリリースします。 この更新プログラムには、Windows Server ソフトウェア サブスクリプション製品が含まれます。Windows Server Standard、 **バージョン 20H2** (CSP 製品 ID:DG7GMGF0DVT9)。 この製品用の更新されたダウンロード ファイルが利用できるようになりました。 パートナーは、最新のファイルをダウンロードして新しい機能をご利用いただけます。
+
+### <a name="next-steps"></a>次の手順
+
+- この情報を組織内の適切な担当者に共有してください。
+- [Windows Server バージョン 20H2 のドキュメント](/windows/release-information/status-windows-10-20h2)をご確認ください
+
+________________
+
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>認定されたクラウド ソリューション プロバイダー (CSP) の教育機関の顧客が Windows 10 Education アップグレードを利用できるようになりました
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-10-28
+- 機能
+
+### <a name="summary"></a>まとめ
+
+教育機関の顧客向けに Microsoft 365 A3 または A5 か、Windows 10 Enterprise A3 または A5 サブスクリプションを購入した CSP パートナーは、顧客が Windows 10 Home デバイスを Windows 10 Education にアップグレードすることを支援できるようになりました。
+
+### <a name="impacted-audience"></a>対象
+
+教育機関の顧客向けに Microsoft 365 A3 または A5 か、Windows 10 Enterprise A3 または A5 サブスクリプションを購入した CSP パートナー
+
+### <a name="details"></a>詳細
+
+Microsoft 365 A3 または A5 か、Windows 10 Enterprise A3 または A5 サブスクリプションを購入した CSP は、2020 年 11 月 1 日以降、教育機関の顧客が Windows 10 Home をアップグレードして、教室とリモート学習の両方のために設計された Windows 10 Education を利用できるように支援できます。
+
+2020 年 11 月 1 日以降、Windows 10 Home は、(CSP を通じて) Microsoft Cloud 契約によってライセンスされている教育機関の顧客向けの対象オペレーティング システムになります。 この資格要件は現在のところボリューム ライセンス (VL) 教育プログラムでのみ利用可能であり、Microsoft 365 管理ポータル サポートを通して有効になっています。 
+
+#### <a name="how-the-upgrade-process-works"></a>アップグレード プロセスについて
+
+CSP パートナーは、顧客のアップグレードを支援するため、代わりにサポート リクエストを提出できます。 Microsoft サポートではリクエストを確認して、顧客が条件を満たしているかどうかを調べ、リクエストを承認後、Windows 10 Pro Education キーを顧客に提供します。
+
+顧客がキーをインストールし、デバイスが Azure Active Directory (AAD) 経由でテナント ドメインに参加すると、デバイスは自動的に Windows 10 Education (サブスクリプション) にアップグレードされます。   
+
+顧客のアップグレード方法の詳細については、[ステップ バイ ステップ ガイドとよく寄せられる質問のトピック](../upgrade-windows-to-education.md)をご覧ください。
+
+### <a name="next-steps"></a>次のステップ
+
+- 対象となる顧客に通知し、プロセスの詳細を説明します。
+- この情報を組織内の適切な担当者と共有してください。  
+
+________________
+
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>一新されたクラウド ソリューション プロバイダー (CSP) のデジタル エクスペリエンスが利用可能になりました
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-10-28
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+CSP パートナー
+
+### <a name="details"></a>詳細
+
+Microsoft では、パートナーが可能性を最大限に発揮し、革新的なソリューションを構築して、より多くの顧客を成功に導けるよう、Microsoft Partner Network で支援に取り組んでいます。 クラウド ソリューション プロバイダー (CSP) プログラムは最も急成長しているプログラムの 1 つであり、参加企業は 90,000 社を超えます。
+クラウド ソリューション プロバイダー プログラムのパートナーの事業成長に拍車をかけるため、Microsoft Partner Network Web サイトでクラウド ソリューション プログラム (CSP) のデジタル エクスペリエンスが一新され、新しい CSP ガイドブックが導入されます。 刷新されたこのエクスペリエンスと新しいリソースによってパートナーに新しい機会がもたらされ、CSP プログラムでより効果的にビジネスを成長させることができます。
+
+この新しいデジタル エクスペリエンスには、以下のものが含まれます。
+
+- パートナーの事業成長を加速させる、一新された CSP デジタル エクスペリエンス:一新された CSP ページではエクスペリエンスが合理化されており、登録、プラクティスの構築、市場進出、販売にわたってパートナーの取り組みを導きます。 パートナーでは、セールス プレイ キャンペーンと市場進出リソースにより、収益機会を増やすことができます。 その他の統合リソースを活用して、パートナーは最新情報を受け取り、CSP プログラムで簡単にビジネスを行うことができます。
+- パートナーが新しい機会を識別するのに役立つ、クラウド ソリューション プロバイダー プログラムの新しいガイドブック:このステップ バイ ステップ ガイドでは、パートナー向けに、プログラムでクラウド ビジネスの成長を加速させ、収益機会を増やす方法について説明します。
+- ソリューション ワークスペース内の CSP プログラムのコンテンツ:ソリューション ワークスペースは、アイデアを迅速に市場に投入するためのオンデマンド リソースを 1 か所にまとめたデジタル エクスペリエンスです。 サービス プロバイダーは、ソリューション ワークスペースで CSP プログラム固有のコンテンツとリソースを見つけることができるようになりました。
+
+### <a name="additional-resources"></a>その他のリソース
+
+- [一新された CSP ページ](https://aka.ms/CSP)にアクセスする 
+- [新しい CSP プログラムのガイドブック](https://aka.ms/cspguidebook)で、成長の機会について詳細を確認する
+- ソリューション ワークスペースの使用を開始して、プラクティスを構築し、ステップを簡略化する
+- セールス プレイ リソースで、より多くのキャンペーンを実行する 
+- CSP ページにアクセスするよう同僚に勧め、上記のリソースを組織内で共有してください。 間接プロバイダーの場合、間接リセラーにリソースを共有してください。
+
+________________
+
+## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>2020 年 10 月のクラウド ソリューション プロバイダー (CSP) ソフトウェア サブスクリプションの価格表を更新
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-10-26
+- 製品サービス/市場
+ 
+### <a name="summary"></a>まとめ
+
+2020 年 10 月のソフトウェア サブスクリプションの価格表が更新されました。
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー様
+
+### <a name="details"></a>詳細
+
+2020 年 10 月のソフトウェア サブスクリプションの価格表が更新され、前回除外されていた 2 つの製品が含まれるようになりました。
+
+2020 年 10 月に [Windows 7 Year 2 ESU](#3) が利用できるようになりました。 Year 2 の価格は、ソフトウェア サブスクリプションの価格表に記載されています。
+- 製品 ID:DG7GMGF0FL73
+- SKU ID:0003
+
+[Azure SQL Edge](2020-september.md#9) が 2020 年 9 月後半にリリースされました。 最新のパートナー センターの価格表に記載されています。 
+- 製品 ID:DG7GMGF0GJC2
+
+すべての CSP パートナー センターの価格表は、パートナー センターにログインし、[販売]、[プランと料金] の順に移動して参照できます。
+
+### <a name="additional-resources"></a>その他のリソース
+
+- [Windows 7 サポートに関する FAQ ページ](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Windows 7 のサポートと Microsoft 365 アプリ](/deployoffice/endofsupport/windows-7-support)
+- [Windows 7 ESU リソース ギャラリー](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Azure SQL Edge サイト](https://aka.ms/sqledge)
+
+________________
 
 ## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>クラウド ソリューション プロバイダー (CSP) プログラムにおける直接請求パートナーの要件に関するパフォーマンス標準の導入
 
