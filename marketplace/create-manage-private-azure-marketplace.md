@@ -1,18 +1,17 @@
 ---
 title: Azure portal でのプライベート Azure Marketplace の作成と管理
 description: Azure portal でのプライベート Azure Marketplace (プレビュー) の作成と管理について説明します。
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "91429356"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414860"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Azure portal でのプライベート Azure Marketplace (プレビュー) の作成と管理
 
@@ -32,11 +31,11 @@ Marketplace 管理者 (割り当てられたロール) として、無効にな�
 >[!IMPORTANT]
 > プライベート Azure Marketplace 管理へのアクセスは、Marketplace 管理者ロールが割り当てられている IT 管理者のみが使用できます。
 
-### <a name="prerequisites"></a>[前提条件]
+### <a name="prerequisites"></a>前提条件
 
 テナントスコープのユーザーに Marketplace 管理者ロールを割り当てる前に、次の前提条件を満たす必要があります。
 
-- **グローバル管理者**ユーザーにアクセスできます。
+- **グローバル管理者** ユーザーにアクセスできます。
 - テナントには、少なくとも1つのサブスクリプションがあります (任意の種類を指定できます)。
 - グローバル管理者のユーザーには、手順 2. で選択したサブスクリプションの **共同作成** 者ロールが割り当てられます。
 - 全体管理者ユーザーのアクセスが **[はい]** に設定されています (「 [昇格-アクセス-グローバル-管理者](/azure/role-based-access-control/elevate-access-global-admin)」を参照してください)。
@@ -129,43 +128,43 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 
 ## <a name="create-private-azure-marketplace"></a>プライベート Azure Marketplace を作成する
 
-1. [Azure portal](https://portal.azure.com/) にサインインします。
-2. [ **すべてのサービス** ]、[ **Marketplace**] の順に選択します。
+1. [Azure portal](https://portal.azure.com/) にサインインする
+2. [ **すべてのサービス** ]、[ **Marketplace** ] の順に選択します。
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="メインウィンドウ Azure portal ます。":::
 
 3. 左側のオプションから [ **プライベートマーケットプレース** ] を選択します。
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="メインウィンドウ Azure portal ます。":::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Azure portal メインウィンドウで [プライベートマーケットプレース] を選択します。":::
 
 4. [ **はじめ** に] を選択してプライベート Azure Marketplace を作成します (これを行う必要があるのは1回だけです)。
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="メインウィンドウ Azure portal ます。":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Azure portal のメインウィンドウで [開始] を選択します。":::
 
     このテナントに対してプライベート Azure Marketplace が既に存在する場合は、[ **Marketplace の管理** ] が既定で選択されます。
 
 5. 完了すると、プライベート Azure Marketplace が空で無効になります。
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="メインウィンドウ Azure portal ます。":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="空のプライベート Azure Marketplace 画面。":::
 
 ## <a name="add-items-from-gallery"></a>ギャラリーからの項目の追加
 
 項目は、オファーとプランの組み合わせです。 [Marketplace の管理] ページで項目を検索して追加することができます。
 
-1. [ **項目の追加**] を選択します。
+1. [ **項目の追加** ] を選択します。
 
-2. **ギャラリー**を参照するか、検索フィールドを使用して目的の項目を検索します。
+2. **ギャラリー** を参照するか、検索フィールドを使用して目的の項目を検索します。
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="メインウィンドウ Azure portal ます。":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="ギャラリーを参照するか、検索フィールドを使用します。":::
 
 3. 既定では、新しいオファーを追加すると、現在のすべてのプランが許可リストに追加されます。 選択した項目を追加する前に、プランの選択を変更するには、プランのタイルのドロップダウンメニューを選択し、必要なプランを更新します。
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="メインウィンドウ Azure portal ます。":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="必要なプランを更新します。":::
 
 4. 選択を行った後、左下にある [ **完了** ] を選択します。
 
 >[!Note]
-> Marketplace への**項目の追加**は、Microsoft 以外のプランでのみ利用可能になります。 Microsoft プランは、既定で許可されています。
+> Marketplace への **項目の追加** は、Microsoft 以外のプランでのみ利用可能になります。 Microsoft プランは、既定で許可されています。
 
 ## <a name="edit-item-plans"></a>項目計画の編集
 
@@ -174,22 +173,22 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 1. [ **プラン** ] 列で、そのアイテムのドロップダウンメニューから使用可能なプランを確認します。
 2. チェックボックスをオンまたはオフにして、ユーザーが使用できるようにするプランを選択します。
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="メインウィンドウ Azure portal ます。":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="必須項目のチェックボックスをオンまたはオフにします。":::
 
 > [!NOTE]
 > 各プランでは、更新を実行するために少なくとも1つのプランが選択されている必要があります。 オファーに関連するすべてのプランを削除するには、プラン全体を削除します (次のセクションを参照)。
 
 ## <a name="delete-offers"></a>オファーの削除
 
-[Marketplace の管理] ページで、プラン名 (上の画面を参照) の横にあるチェックボックスをオンにし、[ **アイテムの削除**] を選択します。
+[Marketplace の管理] ページで、プラン名 (上の画面を参照) の横にあるチェックボックスをオンにし、[ **アイテムの削除** ] を選択します。
 
 ## <a name="enabledisable-private-azure-marketplace"></a>プライベート Azure Marketplace を有効/無効にする
 
 [Marketplace の管理] ページに、次のいずれかのバナーが表示されます。これは、プライベート Azure Marketplace の現在の状態を示しています。
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="メインウィンドウ Azure portal ます。":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="状態バナーを無効にする":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="メインウィンドウ Azure portal ます。":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="状態バナーを有効にする":::
 
 プライベート Azure Marketplace は、必要に応じて有効または無効にすることができます。
 
@@ -205,7 +204,7 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 
 ユーザーは、許可されていないプランと許可されていないプランをフィルター処理できます。
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="メインウィンドウ Azure portal ます。":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="フィルターオプション。":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>プライベート Azure Marketplace での購入またはデプロイ
 
@@ -213,16 +212,16 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 
 - ユーザーが許可されたプランを選択すると、[ **作成** ] ボタンが有効になります。
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="メインウィンドウ Azure portal ます。":::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="プランを作成できることを示すバナーを提供します。":::
 
 - ユーザーが許可されていないプランを選択すると、そのプランは許可されておらず、[ **作成** ] ボタンが無効になっていることを示すバナーが示されます。
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="メインウィンドウ Azure portal ます。":::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="プランを作成できないことを示すバナーを提供します。":::
 
 - 製品計画の選択が [製品の詳細] ページに表示されないが、管理者が1つ以上のプランを承認した場合、次のようなプランが許可され、[ **作成** ] ボタンが有効になります。
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="メインウィンドウ Azure portal ます。":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="プランを作成し、使用可能なプランを表示できることを示すバナーを提供します。":::
 
-## <a name="contact-support"></a>サポートにお問い合せください
+## <a name="contact-support"></a>サポートにお問い合わせください
 
 Azure Marketplace のサポートについては、 [Microsoft Q&A](/answers/products/)にアクセスしてください。 
