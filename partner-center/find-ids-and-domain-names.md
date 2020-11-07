@@ -1,7 +1,7 @@
 ---
 title: テナント ID、ドメイン名、ユーザーオブジェクト ID を検索します
 ms.topic: how-to
-ms.date: 09/16/2020
+ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 組織の Azure AD のテナント ID、ドメイン名、または特定のユーザーオブジェクト ID を Azure portal の Id を検索する方法について説明します。 この情報が必要なタスクもあります。
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4a3695079a9d5b0b3c66b7c2eda52a31888a6660
-ms.sourcegitcommit: 3158b0de261539694e37e433c763afa4067e36fb
+ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90740405"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360073"
 ---
 # <a name="locate-important-ids-for-a-user"></a>ユーザーの重要な Id を検索する
 
@@ -28,10 +28,10 @@ ms.locfileid: "90740405"
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Microsoft Azure AD テナント ID とプライマリドメイン名を検索する
 
-Azure portal 内で Azure AD テナント ID またはプライマリドメイン名を見つけるには、次の手順に従います。
+Azure portal 内で Azure AD テナント ID またはプライマリドメイン名を見つけるには、次の手順に従います。 (テナント ID をプログラムで検索する場合は、「 [PowerShell または CLI でテナント id を検索](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)する」を参照してください)。
 
 > [!NOTE]
-> テナント ID は、アプリケーションまたはリソースごとに異なる名前を呼び出すことができます。 たとえば、テナント ID は、ディレクトリ ID、Azure Active Directory (Azure AD) テナント、Microsoft ID、または特定のレポート ( *tenantguid*も含む) と呼ばれる場合があります。
+> テナント ID は、アプリケーションまたはリソースごとに異なる名前を呼び出すことができます。 たとえば、テナント ID は、ディレクトリ ID、Azure Active Directory (Azure AD) テナント、Microsoft ID、または特定のレポート ( *tenantguid* も含む) と呼ばれる場合があります。
 
 1. [Azure portal](https://portal.azure.com/) にサインインします。
 
@@ -43,7 +43,7 @@ Azure portal 内で Azure AD テナント ID またはプライマリドメイ�
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="2つの強調表示されたフィールド、テナント ID、プライマリドメイン名が表示された概要ページが表示されます。":::
 
-4. テナント ID は、他のいくつかの方法で Azure portal で確認できます。 メニューから **[Azure Active Directory]** を選択します。 次に、メニューの [ **管理** ] セクションを見つけて、[ **プロパティ**] を選択します。
+4. テナント ID は、他のいくつかの方法で Azure portal で確認できます。 メニューから **[Azure Active Directory]** を選択します。 次に、メニューの [ **管理** ] セクションを見つけて、[ **プロパティ** ] を選択します。
 
    また、[プロパティ] ページには、ユーザーに関連付けられているテナント ID も表示されます。
 
@@ -57,7 +57,7 @@ Azure portal 内で Azure AD テナント ID またはプライマリドメイ�
 
 2. メニューから **[Azure Active Directory]** を選択します。
 
-3. メニューの [ **管理** ] セクションに移動し、[ **ユーザー**] を選択します。
+3. メニューの [ **管理** ] セクションに移動し、[ **ユーザー** ] を選択します。
 
       :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="[ユーザー] オプションが強調表示されている Azure Active Directory メニューを表示します。":::
 
@@ -75,5 +75,6 @@ Azure portal 内で Azure AD テナント ID またはプライマリドメイ�
 
 ## <a name="next-steps"></a>次のステップ
 
+- [PowerShell または CLI を使用してプログラムでテナント ID を検索する](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [ユーザープロファイルの詳細については、Azure Active Directory を参照してください。](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [パートナーセンターで顧客の詳細を表示またはエクスポートする方法について説明します](see-your-customer-list.md)

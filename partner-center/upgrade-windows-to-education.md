@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93028775"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360005"
 ---
 # <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Windows 10 Home のお客様を Windows 10 教育にアップグレードする
 
@@ -31,13 +31,13 @@ ms.locfileid: "93028775"
 
 2020年11月1日以降、Microsoft 365 A3 または A5、または Windows 10 Enterprise A3 または A5 サブスクリプションを購入した Csp は、教育機関のお客様が、教室とリモートの両方の学習用に設計された windows 10 Home から Windows 10 の教育にアップグレードするのに役立ちます。
 
-2020年11月1日から、Windows 10 Home は Microsoft Cloud 契約 (CSP を通じて) を使用してライセンスを取得した教育機関向けのオペレーティングシステムとなります。 この資格は、ボリュームライセンス (VL) の教育プログラムでのみ利用できるようになるまで、Microsoft 365 管理ポータルのサポートによって有効になりました。 
+2020 年 11 月 1 日以降、Windows 10 Home は、(CSP を通じて) Microsoft Cloud 契約によってライセンスされている教育機関の顧客向けの対象オペレーティング システムになります。 この資格要件は現在のところボリューム ライセンス (VL) 教育プログラムでのみ利用可能であり、Microsoft 365 管理ポータル サポートを通して有効になっています。 
 
-## <a name="how-the-upgrade-process-works"></a>アップグレードプロセスのしくみ
+## <a name="how-the-upgrade-process-works"></a>アップグレード プロセスについて
 
-CSP パートナーは、お客様の代わりにサポート要求を送信することによって、顧客をアップグレードするのに役立ちます。 Microsoft サポートが要求を確認して、顧客が適格であることを確認します。要求が承認されると、サポートによって、Windows 10 Pro の教育キーがパートナーに提供され、その後、お客様に提供できるようになります。
+CSP パートナーは、顧客のアップグレードを支援するため、代わりにサポート リクエストを提出できます。 Microsoft サポートが要求を確認して、顧客が適格であることを確認します。要求が承認されると、サポートによって、Windows 10 Pro の教育キーがパートナーに提供され、その後、お客様に提供できるようになります。
 
-顧客がキーをインストールし、デバイスが Azure Active Directory (AAD) を使用してテナントドメインに参加している場合、デバイスは自動的に Windows 10 の教育 (サブスクリプション) にアップグレードされます。   
+顧客がキーをインストールし、デバイスが Azure Active Directory (AAD) 経由でテナント ドメインに参加すると、デバイスは自動的に Windows 10 Education (サブスクリプション) にアップグレードされます。   
 
 ## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>お客様が Windows 10 の教育を受けられるようにするためのステップバイステップのプロセス
 
@@ -100,4 +100,4 @@ Windows 10 の教育アップグレードは、お客様のアクティブ Micro
 詳細については、次のリンク先を参照してください。
 
 - [Windows 教育の機能](https://www.microsoft.com/education/products/windows/features)
-- [Windows 教育ハブ](https://docs.microsoft.com/education/windows/)
+- [Windows 教育ハブ](/education/windows/)
