@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174845"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381411"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>アカウントのセットアップまたは MPN 更新に関する問題のトラブルシューティング
 
@@ -38,7 +38,7 @@ ms.locfileid: "92174845"
 [ **同意** して **続行** ] を選択して続行します。
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT 部門が **パートナーセンターへのサインアップ**を無効にしている場合。
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT 部門が **パートナーセンターへのサインアップ** を無効にしている場合。
 
 このメッセージは、ウイルスに感染したユーザーが無効になっているか、Azure AD テナントでウイルスによるサインアップが無効になっていることが原因で表示されます。 Azure AD アカウントの全体管理者は、次の PowerShell コマンドを実行して、必要な機能を有効にすることができます。
 
@@ -50,7 +50,7 @@ ms.locfileid: "92174845"
 
 パスワードを忘れた場合は、サインインページの [ **アカウントにアクセスできない場合]** リンクを選択します。 このオプションを使用すると、パスワードをリセットしたり、グローバル管理者に新しい資格情報の割り当てを依頼したりすることができます。
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>「お客様の会社について教えてください」というエラーが発生すると、"問題が発生しました" というエラーが表示されます。
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>[会社情報をお聞かせください] 画面で、"問題が発生しました" というエラーが表示されます。
 
 このエラーメッセージは、通常、会社の電話番号で特殊文字、スペース、または国コードを使用している場合に表示されます。 [電話番号] フィールドに入力する値には、最大で10文字まで含めることができます。
 
@@ -68,7 +68,7 @@ ms.locfileid: "92174845"
 
 1. ダッシュボードの [ **メンバーシップの提供** ] タブを選択します。
 
-2. **取り消し順序**の選択
+2. **取り消し順序** の選択
 
 3. 確認ウィンドウが表示され、最初の順序を取り消すために確認を行う必要があります。
 

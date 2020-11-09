@@ -1,20 +1,20 @@
 ---
 title: Partner Sales Connect (PSC) からの移行
-ms.topic: article
-ms.date: 08/27/2020
-ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
 description: Microsoft パートナーが Partner Sales Connect (PSC) からパートナーセンターに移行し、Microsoft の販売者から送信された取引を作成または管理する方法について説明します。
+ms.topic: article
 author: vikramb
 ms.author: vikramb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 11/06/2020
+ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999346"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381433"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
@@ -30,7 +30,7 @@ ms.locfileid: "90999346"
 - Partner Sales Connect (PSC) 管理者
 - Partner Sales Connect (PSC) 取引マネージャー
 
-ご存じのように、会社は2020年12月31日の投稿にアクセスできなくなります。 ただし、パートナーセンターで Microsoft の販売者から送信された取引を共同で作成し、取引を管理し、取引を処理するために必要なすべてのものを見つけることができます。 ただし、違いはありますが、次のガイダンスを参考にして、パートナーセンターへの移行を円滑に進めることができます。
+ご存じのように、会社は2021年3月31日に、PSC の投稿にアクセスできなくなります。 ただし、パートナーセンターで Microsoft の販売者から送信された取引を共同で作成し、取引を管理し、取引を処理するために必要なすべてのものを見つけることができます。 ただし、違いはありますが、次のガイダンスを参考にして、パートナーセンターへの移行を円滑に進めることができます。
 
 >[!Important]
 > ここでは、移行に関する PSC にバナーが表示されているので、適切な場所にあります。 このガイドは、PSC での取引を管理するソリューション評価 (SA) および OEM IOT パートナーには適用されません。
@@ -47,7 +47,7 @@ ms.locfileid: "90999346"
 >[!Important]
 > PSC バナーに示されている MPN ID が、パートナーセンターの MPN の場所の一覧に表示されていることを確認します。 パートナーセンターで、[アカウント設定] と [[場所](manage-locations.md)] に移動して、パートナーセンターアカウントに関連付けられているすべての MPNs の一覧を確認できます。
 
- :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="パートナーが MPN ID を見つけることができる、PSC のバナーを示す画像。":::
+:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="パートナーが MPN ID を見つけることができる、PSC のバナーを示す画像。":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>PSC 取引マネージャーまたは販売者の場合
 
@@ -63,26 +63,55 @@ ms.locfileid: "90999346"
 
 - 会社の [全体管理者](permissions-overview.md) は、[紹介] タブへのアクセスを許可できます。全体管理者を見つけるには、パートナーセンターの右上にある歯車アイコンから [パートナー設定] にアクセスします。 左側のナビゲーションバーの2番目のレベルで [ユーザー管理] ページを選択します。 ページの右上にある "すべてのユーザー" と表示されているドロップダウンをクリックし、[全体管理者] に変更します。 このページには、すべてのグローバル管理者が、それぞれの電子メール Id と共に表示されます。 これらのユーザーに連絡して、職場アカウントの "参照管理者" アクセスを取得してください。
 
->[!Important]
-> 役割が PSC のユーザーのみを管理している場合は、パートナーセンターで [アカウント管理者](permissions-overview.md#manage-mpn-membership-and-your-company) ロールを取得できます。 ロールに共同販売機会の管理も含まれている場合は、 [参照管理者](permissions-overview.md#manage-referrals) ロールを取得する必要があります。 また、psc 管理者が1つの変更管理者を指名して、すべての PSC 管理者が PC のアカウント管理者を個別に管理するのではなく、パートナーセンターアカウント管理者と協力します。
+  >[!Important]
+  > 役割が PSC のユーザーのみを管理している場合は、パートナーセンターで [アカウント管理者](permissions-overview.md#manage-mpn-membership-and-your-company) ロールを取得できます。 ロールに共同販売機会の管理も含まれている場合は、 [参照管理者](permissions-overview.md#manage-referrals) ロールを取得する必要があります。 また、psc 管理者が1つの変更管理者を指名して、すべての PSC 管理者が PC のアカウント管理者を個別に管理するのではなく、パートナーセンターアカウント管理者と協力します。
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="[パートナーの設定] ユーザー管理ページにアカウント管理者が表示されているイメージ。":::
+  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="[パートナーの設定] ユーザー管理ページにアカウント管理者が表示されているイメージ。":::
 
 - 左側のナビゲーションウィンドウの [紹介] タブに移動し、ページにアクセスできるかどうかを確認します。
 
+  >[!Note]
+  > 参照ページにアクセスするには、パートナーセンターからサインアウトし、もう一度サインインして資格情報を更新する必要がある場合があります。
+
+## <a name="user-migration"></a>ユーザー移行
+
+パートナーセンターでアカウントを設定した後、[共同販売機会] ページのユーザー移行ウィザードを使用して、パートナーセンターの役割を会社の従業員に自動的に割り当てます。
+
 >[!Note]
-> 参照ページにアクセスするには、パートナーセンターからサインアウトし、もう一度サインインして資格情報を更新する必要がある場合があります。
+> ユーザーの移行は、会社の [アカウント管理者](permissions-overview.md#manage-mpn-membership-and-your-company) のみが実行できます。 アカウント管理者の役割を持っていない場合は、ユーザーの移行ウィザードを使用してユーザーアカウントのセットアップを支援するアカウント管理者を見つけます。 ユーザーの移行機能は、2020年11月16日から使用できるようになります。
 
-パートナーセンターでアカウントを設定した後、
+:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="ユーザー移行ウィザードを示すイメージ。":::
 
-- 次の手順として、PSC で "取引マネージャー" または "販売者" というロールを持つすべてのユーザーを招待します。
-- 参照へのアクセスを支援した [アカウント管理](permissions-overview.md#manage-mpn-membership-and-your-company) 者は、すべてのユーザーを招待できます。
-- ユーザーを招待するときに、アカウント管理者に [参照管理者](permissions-overview.md#manage-referrals) ロールを割り当てるように依頼します。
-- 一部の PSC ユーザーは、パートナーセンターで使用しているものとは異なるドメインのアカウントを使用している可能性があります。 このようなユーザーは、Azure AD テナントに関連付けられている職場アカウントを使用して、パートナーセンターにサインインする必要があります。 [グローバル管理者](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles)はこれを支援できます。 全体管理者を見つけるには、パートナーセンターの右上にある歯車アイコンから [パートナー設定] にアクセスします。 左側のナビゲーションバーの2番目のレベルの [ユーザー管理] ページをクリックします。 ページの右上にある "すべてのユーザー" と表示されているドロップダウンをクリックし、[全体管理者] に変更します。
-- 全体管理者は、Azure AD テナントに新しいユーザーアカウントを作成するか、他のドメインアカウントユーザーにゲストユーザーのアクセス権を割り当てることができます。
-- すべての PSC 取引マネージャーとユーザーに対してアカウントを設定したら、パートナーセンターにサインインし、左側のナビゲーションで [参照] タブに移動して、[参照] ページが表示されることを確認します。
+アカウント管理者は、紹介ガイドの横にある [共同販売機会] ページで、PSC ユーザー移行ウィザードのリンクを取得します。 ユーザーは、リンクをクリックして、ユーザーの移行を開始できます。 この操作は、会社が移行しようとしているすべてのユーザーにパートナーセンターの適切な役割が割り当てられるまで、複数回実行できます。
+
+ユーザー移行テーブルの詳細は次のとおりです。
+
+- ユーザーアカウント-従業員の電子メール ID
+- PSC パートナーアカウント-PSC で従業員が関連付けられているアカウント
+- PSC ユーザーロール-PSC のに割り当てられた3つのロールのいずれか。
+- PC MPN location-ユーザーに関連する PC ロールが付与される場所。 PSC パートナーアカウント MPN を使用して、パートナーセンターで同等の MPN の場所を検索し、アクセス許可を割り当てます。 組織全体で、vOrg MPN ID を表します。
+- PC ユーザーロール-従業員には、PSC ユーザーロールに基づいてロールが割り当てられます。 PSC の管理者には、PC の参照管理者ロールが割り当てられます。 販売者には、PC の参照ユーザーロールが割り当てられます。 PC ロールの詳細と、これらのロールを持つユーザーがパートナーセンターで実行できる操作については、[こちら](permissions-overview.md#manage-referrals)を参照してください。
+- PC AAD テナント-パートナーセンターでユーザーが割り当てられているテナント
+- 状態-移行の状態には、3つの状態が考えられます。
+    - 移行されません-ユーザーに PC 参照ロールが割り当てられていません
+    - 移行済み-ユーザーは、表に示すように、関連する役割が割り当てられた状態で正常に移行されました
+    - エラー-エラーが発生したため、移行を完了できません
+
+移行が失敗し、次のような解決策が提供される状況でエラーが発生する
+
+1. PSC ユーザーは、仕事用ではないアカウントを使用している可能性があります。
+
+2. PSC ユーザーは、パートナーセンターで使用しているものとは異なるドメインのアカウントを使用している可能性があります。
+
+   - シナリオ1と2に関連するエラーを解決するには、すべてのユーザーが、Azure AD テナントにアタッチされている職場アカウントを使用して、パートナーセンターにサインインする必要があります。 [グローバル管理者](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles)はこれを支援できます。 全体管理者を見つけるには、パートナーセンターの右上にある歯車アイコンから [パートナー設定] にアクセスします。 左側のナビゲーションバーの2番目のレベルの [ユーザー管理] ページをクリックします。 ページの右上にある "すべてのユーザー" と表示されているドロップダウンをクリックし、[全体管理者] に変更します。 全体管理者は、Azure AD テナントに新しいユーザーアカウントを作成するか、他のドメインアカウントユーザーにゲストユーザーのアクセス権を割り当てることができます。 すべての PSC 取引マネージャーとユーザーに対してアカウントを設定したら、パートナーセンターにサインインし、左側のナビゲーションで [参照] タブに移動して、[参照] ページが表示されることを確認します。
+
+3. ユーザーには、パートナーセンターで既に参照ロールが割り当てられています。
+    - アカウント設定の [ユーザー管理] ページでユーザーの既存のロールを確認し、必要に応じて変更することができます。
+
+ユーザーの移行が完了したら、次のガイダンスを使用して移行戦略を決定します。 
 
 企業が PDM を所有している場合-パートナーセンターアカウントがセットアップされていて、ユーザーが移動し、ロールとアクセス許可を持っている場合は、パートナーセンターに共同販売活動を移動できます。 移行が完了するまで待機するのではなく、スイッチを作成するように PDM に通知します。これにより、すべての新しい取引がパートナーセンターに送られます。
+
 >[!Note]
 >このスイッチを作成すると、PSC の既存のアクティブな取引だけを操作できます。 新しい取引を作成したり、PSC で Microsoft の販売元から取引を受けたりすることはできません。
 
@@ -128,7 +157,7 @@ ms.locfileid: "90999346"
 - 取引の役割は、PC では必須のフィールドではありません。 どのワークフローにも表示されず、キャプチャされることもありません。 これは、取引先に追加されたソリューションに基づいて、Microsoft 販売者側で自動的に派生します。
 - 最後に変更された日付は、PC の [紹介の詳細] ページには表示されません。 パートナーは、並べ替え機能を使用して、最終更新日に基づいて取引を並べ替えることができます。
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Partner Sales Connect (PSC) グリッドビューとパートナーセンター取引ビューの間のフィールドマッピングを示す画像。":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Partner Sales Connect (PSC) グリッドビューとパートナーセンター取引ビューの間のフィールドマッピングを示す画像。":::
 
 **PSC とパートナーセンターの案件の詳細ビュー**
 
@@ -141,11 +170,11 @@ ms.locfileid: "90999346"
 >[!Note]
 >"勝ち" または "lost" とマークされている案件は、その投稿を編集することはできません。 これらのターミナル状態のいずれかに取引を移動するときは注意が必要です。
 
- :::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Partner Sales Connect (PSC) 取引詳細ビューとパートナーセンターの取引詳細ビューの間のフィールドマッピングを示す画像。":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Partner Sales Connect (PSC) 取引詳細ビューとパートナーセンターの取引詳細ビューの間のフィールドマッピングを示す画像。":::
 
 **PSC の [製品の追加] ビューとパートナーセンターの [ソリューションの追加] ビュー**
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="Partner Sales Connect (PSC) の [製品の追加] ビューと、パートナーセンターの [ソリューションの追加] ビューの間のフィールドマッピングを示す画像。":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Partner Sales Connect (PSC) の [製品の追加] ビューと、パートナーセンターの [ソリューションの追加] ビューの間のフィールドマッピングを示す画像。":::
 
 **PSC およびパートナーセンターでのユーザー管理**
 
@@ -156,11 +185,11 @@ ms.locfileid: "90999346"
 - PSC 管理者の同等の役割は、パートナーセンターのアカウント管理者ロールです。
 - パートナーセンターには、参照管理者ロールである共同販売取引管理のロールが1つだけあります。
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="Partner Sales Connect (PSC) ロールの割り当てビューとパートナーセンターロールの割り当てビューの間のフィールドマッピングを示す画像。":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Partner Sales Connect (PSC) ロールの割り当てビューとパートナーセンターロールの割り当てビューの間のフィールドマッピングを示す画像。":::
 
 **PSC およびパートナーセンターでの通知**
 
- :::image type="content" source="images/pscmigration/notifications.png" alt-text="Partner Sales Connect (PSC) 通知とパートナーセンターの通知ビュー間のマッピングを示す画像。":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="Partner Sales Connect (PSC) 通知とパートナーセンターの通知ビュー間のマッピングを示す画像。":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>PSC からパートナーセンターへの移行-よく寄せられる質問
 
@@ -246,7 +275,9 @@ PSC とは異なり、パートナーセンターには、直接 PDMs からア�
 |ビジネスプロファイルの作成と管理|[ビジネス プロファイルの管理](./create-a-marketing-profile.md)
 |ビジネスプロファイルの潜在顧客を管理する |[見込み客を管理する](./manage-leads.md)|
 
-## <a name="additional-resources"></a>その他のリソース
+## <a name="next-steps"></a>次のステップ
+
+次の追加リソースを参照してください。
 
 - Partner Sales パートナーセンター[ブックに接続](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx)して、パートナーの販売プロセスとロールを、パートナーセンターとパートナーの sales Connect を介して新しい販売プロセスに合わせます。
 - [パートナーセンターの共同販売の操作ガイド](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -パートナーセンターを介して、潜在顧客の管理や共同販売の機会の管理、および取引の登録を行うために、運用モデルを識別するためのガイダンスです。
