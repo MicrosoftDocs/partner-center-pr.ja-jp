@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
+ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93327259"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "94333914"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,10 +22,12 @@ ms.locfileid: "93327259"
 
 | **カテゴリ** | **2020 年 11 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
-|製品サービス/市場|[認定されたクラウド ソリューション プロバイダー (CSP) の教育機関のお客様は、Windows 10 Education アップグレードを利用できるようになりました](2020-november.md#4)|11 月 2 日|
-|製品サービス/市場|[クラウド ソリューション プロバイダー (CSP) の最新のデジタル エクスペリエンスが利用可能になりました2020 年 10 月のクラウド ソリューション プロバイダー (CSP) ソフトウェア サブスクリプションの価格表を更新](2020-november.md#3)|11 月 2 日|
-|製品サービス/市場|[2020 年 10 月のクラウド ソリューション プロバイダー (CSP) ソフトウェア サブスクリプションの価格表を更新](2020-november.md#2)|11 月 2 日|
-|製品サービス/市場|[クラウド ソリューション プロバイダー (CSP) プログラムにおける直接請求パートナーの要件に関するパフォーマンス標準の導入](2020-november.md#1)|11 月 2 日|
+|機能|[オペレーション資料ギャラリーでの商用ライセンス パートナー コンテンツの拡張](2020-november.md#6)|11 月 2 日|
+|製品サービス/市場|[Microsoft Teams Rooms Premium SKU の発売](2020-november.md#5)|11 月 2 日|
+|製品サービス/市場|[Government Community Cloud (GCC) 向けの新しい Microsoft Teams Advanced Communications SKU が近日提供予定](2020-november.md#4)|11 月 2 日|
+|製品サービス/市場|[Dynamics 365:最近のリリースと、今後の新しいオファーおよび製品](2020-november.md#3)|11 月 2 日|
+|製品サービス/市場|[非営利団体向けの Microsoft 365 Business Voice の導入](2020-november.md#2)|11 月 2 日|
+|製品サービス/市場|[Microsoft 365 Business Voice でクラウド ソリューション プロバイダー (CSP) プロモーションが利用可能に](2020-november.md#1)|11 月 2 日|
 | **カテゴリ** | **2020 年 10 月のお知らせ** | **日付** |
 |機能|[Windows Server ソフトウェア サブスクリプションの機能更新プログラム](2020-october.md#17)|10 月 29 日|
 |機能|[認定されたクラウド ソリューション プロバイダー (CSP) の教育機関のお客様は、Windows 10 Education アップグレードを利用できるようになりました](2020-october.md#16)|10 月 28 日|
