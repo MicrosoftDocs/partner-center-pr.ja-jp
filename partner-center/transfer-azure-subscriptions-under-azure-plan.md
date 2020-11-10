@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980263"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433349"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>顧客の Azure プランサブスクリプションを別のパートナーに譲渡する
 
-## <a name="applies-to"></a>適用対象
+**適切なロール**
 
 - クラウド ソリューション プロバイダー (CSP) プログラムのパートナー
 
@@ -66,28 +66,31 @@ Azure プランで Azure サブスクリプションを譲渡するには、お�
 
 サブスクリプションの今後のパートナーは、パートナーセンターから譲渡要求フォームを完了して、サブスクリプションの譲渡を要求する必要があります。
 
-1.  パートナーセンターメニューから、[ **顧客**] を選択し、代理で転送要求フォームを完了する顧客を選択します。
-2.  カスタマーメニューから [ **サブスクリプション**] を選択します。
+1.  パートナーセンターメニューから、[ **顧客** ] を選択し、代理で転送要求フォームを完了する顧客を選択します。
+2.  カスタマーメニューから [ **サブスクリプション** ] を選択します。
 3.  [ **転送要求** ] セクションを選択します。
-4.  [ **転送要求] セクション**で、[ **新しい要求の追加**] を選択します。
+4.  [ **転送要求] セクション** で、[ **新しい要求の追加** ] を選択します。
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="転送セクション":::
 
-5.  **新しい転送要求**フォームに入力します。
+5.  **新しい転送要求** フォームに入力します。
 
-6.  [**転送要求**の送信] を選択し  >  **Send**ます。
+6.  [ **転送要求** の送信] を選択し  >  **Send** ます。
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="転送セクション":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="転送要求の完了フォーム":::
 
 7.  転送要求の確認の確認
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="転送セクション" になると、取り消しはできなくなります。
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="保留中の転送の確認":::
+
+    >[!Note]
+    >将来のパートナーは、転送要求の状態が [保留中] の場合にのみ、右上隅にある **[要求のキャンセル]** を選択して、譲渡要求を取り消すことができます。 転送要求の状態が "進行中" または "完了" になると、取り消しはできなくなります。
 
 ## <a name="current-partner-tasks-to-be-completed"></a>完了する現在のパートナータスク
 
 お客様の現在のパートナーの管理者エージェントは、お客様がサブスクリプションの譲渡を要求しているという電子メールを受け取ります。
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="転送セクション":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="確認":::
 
 パートナーセンターから譲渡要求フォームを確認して同意し、サブスクリプションの譲渡を完了します。
 
@@ -95,12 +98,12 @@ Azure プランで Azure サブスクリプションを譲渡するには、お�
 >現在のパートナーが30日以内にアクションを実行しなかった場合は、要求の有効期限が切れ、今後のパートナーは新しい転送要求を作成するためにを使用します。
 
 1.  [電子メールからの **転送要求のレビュー** ] を選択します。
-1.  パートナーセンターメニューから [ **顧客**] を選択し、譲渡要求が送信された顧客を選択します。
-2.  カスタマーメニューから [ **サブスクリプション**] を選択します。
+1.  パートナーセンターメニューから [ **顧客** ] を選択し、譲渡要求が送信された顧客を選択します。
+2.  カスタマーメニューから [ **サブスクリプション** ] を選択します。
 3.  [ **転送要求** ] セクションを選択します。
-4.  [**受信した要求**] で選択した**転送要求 ID**を選択して、[転送情報] を展開します。
+4.  [ **受信した要求** ] で選択した **転送要求 ID** を選択して、[転送情報] を展開します。
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="転送セクション":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="ソースレビューの譲渡要求":::
 
 5.  譲渡要求を確認します。 転送する要求された Azure サブスクリプションを選択します。
 
@@ -111,7 +114,7 @@ Azure プランで Azure サブスクリプションを譲渡するには、お�
 
 6.  次に、[ **受け入れて転送** ] を選択して、転送プロセスを完了します。
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="転送セクション":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Azure プランで転送するサブスクリプションを選択します":::
 
 7.  転送の受け入れ確認を表示します。
 
