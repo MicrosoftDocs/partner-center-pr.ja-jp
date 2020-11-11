@@ -324,6 +324,25 @@
     - name: 支払いおよび収益のトラブルシューティング
       href: incentives-payment-issues.md
       displayName: incentives
+    - name: チャネル インセンティブ プラットフォーム (CHIP) での作業
+      items:
+        - name: CHIP の移動
+          href: chip-intro.md
+          displayName: chip
+        - name: お客様の CHIP アカウントにユーザーを追加する
+          href: chip-users.md
+        - name: CHIP の利益を表示する
+          href: chip-earnings.md
+        - name: CHIP で支払いの状態を確認する
+          href: chip-payment-status.md
+        - name: 任意の契約のデスクトップ数と料金レベルを検索する
+          href: chip-locate-agreement.md
+        - name: ソリューション評価の資格
+          href: chip-solution-assessment.md
+        - name: ソリューション評価の支払いステータス
+          href: chip-solution-assessment-payment.md
+        - name: CHIP のアクセスに関する問題
+          href: chip-access-trouble.md
 - name: 請求と税金
   href: billing.md
   displayName: trial
