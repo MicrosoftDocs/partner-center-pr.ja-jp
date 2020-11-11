@@ -3,15 +3,15 @@ title: Azure portal でのプライベート Azure Marketplace の作成と管�
 description: Azure portal でのプライベート Azure Marketplace (プレビュー) の作成と管理について説明します。
 ms.prod: marketplace-customer
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: msjogarrig
+ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
-ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
+ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "93414860"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487705"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Azure portal でのプライベート Azure Marketplace (プレビュー) の作成と管理
 
@@ -128,7 +128,7 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 
 ## <a name="create-private-azure-marketplace"></a>プライベート Azure Marketplace を作成する
 
-1. [Azure portal](https://portal.azure.com/) にサインインする
+1. [Azure portal](https://portal.azure.com/) にサインインします。
 2. [ **すべてのサービス** ]、[ **Marketplace** ] の順に選択します。
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="メインウィンドウ Azure portal ます。":::

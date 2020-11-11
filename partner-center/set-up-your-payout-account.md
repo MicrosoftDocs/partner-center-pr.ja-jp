@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007406"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488136"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>支払いアカウントと税フォームを設定する
 
@@ -28,13 +28,13 @@ ms.locfileid: "91007406"
 - [受取りアカウントを設定する](#payout-account)
 
 > [!NOTE]
-> オファーによる収益を受け取る方法と時期の詳細については、「[支払いの受け取り](/azure/marketplace/marketplace-payout-account-setup)」を参照してください。
+> プランの作成にかかる費用の詳細については、「 [商用マーケットプレースでの支払い](marketplace-get-paid.md)」を参照してください。
 
 ## <a name="tax-forms"></a>税フォーム
 
 ### <a name="fill-out-your-tax-forms"></a>税フォームに入力する
 
-最初に、税プロファイルを作成して、参加しているプログラムに割り当てる必要があります。 コマーシャル マーケットプレース用の "*税プロファイル*" を作成するには、次の手順を行います。
+最初に、税プロファイルを作成して、参加しているプログラムに割り当てる必要があります。 コマーシャル マーケットプレース用の " *税プロファイル* " を作成するには、次の手順を行います。
 
 - 住所と国籍がある国または地域を指定します。
 - 適切な税フォームに入力します。
@@ -77,11 +77,11 @@ ms.locfileid: "91007406"
 受取りアカウントは、販売収益の振り込み先となる銀行口座です。 [プロファイル] ページで入力したすべての受取りアカウントを表示できます。
 
 > [!NOTE]
-> 一部のマーケットでは、受取りアカウントに PayPal を使用できます。 特定のマーケットで PayPal がサポートされているかどうかを確認するには、「[支払いのしきい値、方法、期間](/azure/marketplace/payment-thresholds-methods-timeframes)」を参照してください。また、詳細については、以下の「[PayPal 情報](#paypal-info)」を参照してください。
+> 一部のマーケットでは、受取りアカウントに PayPal を使用できます。 特定のマーケットで PayPal がサポートされているかどうかを確認するには、「[支払いのしきい値、方法、期間](payment-thresholds-methods-timeframes.md)」を参照してください。また、詳細については、以下の「[PayPal 情報](#paypal-info)」を参照してください。
 
 ### <a name="create-a-payment-profile"></a>支払いプロファイルを作成する
 
-1. [パートナーセンター](https://partner.microsoft.com/dashboard)で、右上隅にある [**設定**] 歯車アイコンを選択し、[**アカウントの設定**] を選択します。
+1. [パートナーセンター](https://partner.microsoft.com/dashboard)で、右上隅にある [ **設定** ] 歯車アイコンを選択し、[ **アカウントの設定** ] を選択します。
 2. *[支払いと税金]* の下にある **[支払いと税プロファイルの割り当て]** を選択します。
 
     > [!NOTE]
@@ -131,20 +131,20 @@ ms.locfileid: "91007406"
 3. 支払いプロファイルは、その状態と共に一覧表示されます。 編集するプロファイルを見つけて、右端にある **[編集]** をクリックします。
 
 > [!IMPORTANT]
-> 支払いアカウントを変更すると、最大で支払い期間 1 回分の遅延が支払いに発生する可能性があります。 この遅延は、支払いアカウントが初めて設定された場合と同様に、アカウント変更の確認が必要になるために発生します。 アカウントが確認された後も、お支払いは引き続き一括払いになります。期日が現在の支払い期間内にある支払いは、次の支払い期間に追加されます。 詳細については、「[支払いの受け取り](/azure/marketplace/marketplace-payout-account-setup)」を参照してください。
+> 支払いアカウントを変更すると、最大で支払い期間 1 回分の遅延が支払いに発生する可能性があります。 この遅延は、支払いアカウントが初めて設定された場合と同様に、アカウント変更の確認が必要になるために発生します。 アカウントが確認された後も、お支払いは引き続き一括払いになります。期日が現在の支払い期間内にある支払いは、次の支払い期間に追加されます。 詳細については [、「商用マーケットプレースでの支払い](marketplace-get-paid.md)」を参照してください。
 
 ### <a name="paypal-info"></a>PayPal 情報
 
 国と地域を選択する際、PayPal 情報を入力して受取りアカウントを作成することができます。 ただし、受取りアカウントのオプションとして PayPal を選択する前に、以下の点を確認する必要があります。
 
-- お住まいの国または地域で PayPal がサポートされている支払い方法であるかどうかを確認するには、「[支払いのしきい値、方法、および期間](/azure/marketplace/payment-thresholds-methods-timeframes)」を確認します。
+- お住まいの国または地域で PayPal がサポートされている支払い方法であるかどうかを確認するには、「[支払いのしきい値、方法、および期間](payment-thresholds-methods-timeframes.md)」を確認します。
 - 次の FAQ を確認します。 状況によっては、PayPal が最適な支払アカウント オプションではなく、銀行口座の方が適している場合があります。
 
 支払い方法として PayPal を使用する場合に関する一般的な質問:
 
 - **支払いを受けるには、どのような PayPal 設定が必要ですか?** PayPal アカウントで eCheck の支払いがブロックされていないことを確認してください。 この設定は、PayPal の [Payment Receiving Preferences]\(支払い受取り設定\) ページで管理されます。 詳細については、[PayPal のアカウント設定ページ](https://go.microsoft.com/fwlink/p/?linkid=513139)を参照してください。
 
-- **私の国/地域はサポートされていますか?** PayPal がサポートされている支払い方法である国および地域については、「[支払いのしきい値、方法、および期間](/azure/marketplace/payment-thresholds-methods-timeframes)」を参照してください。
+- **私の国/地域はサポートされていますか?** PayPal がサポートされている支払い方法である国および地域については、「[支払いのしきい値、方法、および期間](payment-thresholds-methods-timeframes.md)」を参照してください。
 
 - **PayPal アカウントは、パートナー センターのアカウントと同じ国または地域に登録する必要がありますか?** いいえ。 PayPal アカウントを設定する際、既定の構成をそのまま使用できます。 一部の通貨による支払いをブロックしていない限り、他の国または地域および通貨でも、問題はありません。 この設定は、PayPal の [Payment Receiving Preferences]\(支払い受取り設定\) ページで管理されます。
 
@@ -205,4 +205,4 @@ Microsoft は、初回の支払い時に 3 つの書類をすべてお送りし�
 
 ## <a name="next-steps"></a>次のステップ
 
-[コマーシャル マーケットプレースの課金](/azure/marketplace/billing-details)
+[コマーシャル マーケットプレースでの支払いの受け取り](marketplace-get-paid.md)
