@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 10/29/2020
-ms.openlocfilehash: 7b965bff0a962e26e5e5800a6059e4a6fc7a1d6a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 882617433f7cf2bce01de8dce608951a9a13c77e
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045375"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360022"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP 直接請求パートナーとして登録するための要件
 
@@ -55,7 +55,7 @@ ms.locfileid: "93045375"
 
 ## <a name="next-steps"></a>次の手順
 
-- [直接請求パートナーの新しい収益要件](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+- [直接請求パートナーの新しい収益要件](./announcements/2020-october.md#13)
  
 
 - [間接リセラーになることについての追加情報](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
