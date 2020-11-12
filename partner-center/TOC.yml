@@ -338,9 +338,11 @@
         - name: 任意の契約のデスクトップ数と料金レベルを検索する
           href: chip-locate-agreement.md
         - name: ソリューション評価の資格
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: ソリューション評価の支払いステータス
           href: chip-solution-assessment-payment.md
+        - name: ソリューション評価に関する FAQ
+          href: chip-faq.md
         - name: CHIP のアクセスに関する問題
           href: chip-access-trouble.md
 - name: 請求と税金
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: ライセンス ベースの調整ファイル
       href: license-based-recon-files.md
+    - name: 1 回限りの購入の CSP 調整ファイル
+      href: modern-invoice-reconciliation-file.md
+    - name: 有効な単価計算
+      href: effective-unit-price-calculation.md
     - name: 一般的な課金シナリオ
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'
