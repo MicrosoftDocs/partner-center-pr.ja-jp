@@ -4,15 +4,15 @@ description: 商用マーケットプレースでの支払いに関してよく�
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175292"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532023"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>コマーシャルマーケットプレース支払いに関してよく寄せられる質問
 
@@ -32,7 +32,7 @@ ms.locfileid: "92175292"
 - 国別の税金の責任を確認します。 Microsoft が納税義務を負う国の場合、Microsoft が発行元の収益から税金を控除して徴収します。 明細書に表示されている取引金額は、税引後の金額です。 「[税の詳細](tax-details-marketplace.md)」を参照してください。
 - SaaS と IaaS のプランでは、standard 20% ではなく10% の割引機関の料金が発生し、収益率は90% になります。 このキャンペーンは 2021 年 6 月 30 日まで有効です。
 
-**参考資料**: コマーシャルマーケット [プレース発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、支払い [ポリシーの詳細](payout-policy-details.md)、 [支払いのしきい値、方法、時間帯](payment-thresholds-methods-timeframes.md)、商用マーケットプレース [での支払い](marketplace-get-paid.md)、税金の [詳細](tax-details-marketplace.md)、 [支払い明細書](payout-statement.md)、 [商業市場分析の注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard)
+**参考資料** : コマーシャルマーケット [プレース発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、支払い [ポリシーの詳細](payout-policy-details.md)、 [支払いのしきい値、方法、時間帯](payment-thresholds-methods-timeframes.md)、商用マーケットプレース [での支払い](marketplace-get-paid.md)、税金の [詳細](tax-details-marketplace.md)、 [支払い明細書](payout-statement.md)、 [商業市場分析の注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="earnings-reconciliation"></a>収益の調整
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>分析で注文レポートまたは使用状況レポートに対して支払い明細を調整するにはどうすればよいですか?
@@ -47,7 +47,7 @@ ms.locfileid: "92175292"
 - 企業のお客様については、発注日から1-2 日後に、出版社の収益が明細書に記載されています。
 - 非企業のお客様については、お客様の支払いが受領されてから1-2 日後に発行元の収益が示されます。
 
-**参考資料**: [支払い明細書](payout-statement.md)、 [商業市場分析における注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard)
+**参考資料** : [支払い明細書](payout-statement.md)、 [商業市場分析における注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="payout-policies"></a>支払いポリシー
 
@@ -60,18 +60,18 @@ ms.locfileid: "92175292"
 - 収益が未処理状態の場合、収益の支払いが処理される月の支払期日を確認することができます。 支払いの準備が完了すると、獲得状態が "処理済み" に変わります。  Microsoft は、支払月の 15 日までに支払いを行います。
 - クレジットカードによる注文の場合、Microsoft は、収益が成熟するまで30日間支払いを行います。
 
- **参考資料**: [市販の Marketplace 発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)、 [税金の詳細](tax-details-marketplace.md)、 [支払いのしきい値、方法、時間枠](payment-thresholds-methods-timeframes.md)
+ **参考資料** : [市販の Marketplace 発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)、 [税金の詳細](tax-details-marketplace.md)、 [支払いのしきい値、方法、時間枠](payment-thresholds-methods-timeframes.md)
 
 ## <a name="payments-and-adjustments"></a>支払いと調整
 
 #### <a name="why-is-my-payment-missing"></a>支払いが見つからないのはなぜですか?
 
-- [[概要] ページ](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)で、支払いの状態と税金のプロファイルの状態が*有効*として表示されていることを確認します。
+- [ [概要] ページ](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)で、支払いの状態と税金のプロファイルの状態が *有効* として表示されていることを確認します。
 - 支払いの最小しきい値を満たしていない可能性があります。 支払いを受けるには、収益が $50 米国ドル以上である必要があります。
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>アカウントで支払いを受けないように設定操作方法ますか?
-支払いは、支払い [プロファイル](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)に保持できます。単に **ホールド**をチェックします。 マイクロソフトは、保留を解除するまでお支払いをお待ちしています。
+支払いは、支払い [プロファイル](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)に保持できます。単に **ホールド** をチェックします。 マイクロソフトは、保留を解除するまでお支払いをお待ちしています。
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>購入通貨とは異なる通貨で受け取るのはなぜですか?
 
@@ -81,7 +81,7 @@ ms.locfileid: "92175292"
 
 支払いの調整は、システムの問題などの補償的な調整に対応するための支払いの修正です。 支払い明細では、ReasonCode によって調整の理由が指定されます。 これらは個々のトランザクションを直接調整するためのものではありません。
 
-**参考資料**: [市販の Marketplace 発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)、 [税金の詳細](tax-details-marketplace.md)、 [支払いのしきい値、方法、時間枠](payment-thresholds-methods-timeframes.md)
+**参考資料** : [市販の Marketplace 発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)、 [税金の詳細](tax-details-marketplace.md)、 [支払いのしきい値、方法、時間枠](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>税
 
@@ -104,16 +104,16 @@ ms.locfileid: "92175292"
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>取引の源泉徴収税を確認するにはどうすればよいですか?
 源泉徴収税は、W-9 フォームを提出した米国の発行元に対して適用されます。 源泉徴収税は毎月の支払い時に計算されます。
 
-**参考資料**: [商業市場発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)
+**参考資料** : [商業市場発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>支払明細書へのアクセス
 
 #### <a name="how-do-i-access-a-payout-statement"></a>支払い明細にアクセスする方法
 
-1. ロールを確認します。 支払い明細にアクセスするには、*財務共同作成者*または*アカウント所有者*のロールが必要です。
-2. 右上のナビゲーションで、[ **支払** ] アイコンを選択して、支払明細書を表示します。 **トランザクション履歴**、**支払い**、**ダウンロード**のいずれかを選択します。
+1. ロールを確認します。 支払い明細にアクセスするには、 *財務共同作成者* または *アカウント所有者* のロールが必要です。
+2. 右上のナビゲーションで、[ **支払** ] アイコンを選択して、支払明細書を表示します。 **トランザクション履歴** 、 **支払い** 、 **ダウンロード** のいずれかを選択します。
 
-**参考資料**: [支払いロールと権限](payout-statement.md#roles-and-permissions)、 [支払いステートメント](payout-statement.md) 
+**参考資料** : [支払いロールと権限](payout-statement.md#roles-and-permissions)、 [支払いステートメント](payout-statement.md) 
 
 ## <a name="payout-statement-report"></a>支払明細書レポート
 
@@ -141,7 +141,7 @@ ms.locfileid: "92175292"
 
 [プロファイル ページ](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage)に移動すると、年末調整用のフォームが表示されます。
 
-**参考資料**: [支払いステートメント](payout-statement.md)、 [トランザクション履歴のダウンロード](payout-statement.md#transaction-history-download)
+**参考資料** : [支払いステートメント](payout-statement.md)、 [トランザクション履歴のダウンロード](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>履歴明細書
 
@@ -149,7 +149,7 @@ ms.locfileid: "92175292"
 
 履歴明細書には、2019 年 10 月時点での支払いデータのスナップショットが表示されます。 残念ながら、ここに示す支払い情報は更新されません。 最新の情報を入手するには、最新のデータのサポートチケットを送信します。
 
-**参考資料**: [支払いステートメント](payout-statement.md)、 [トランザクション履歴のダウンロード](payout-statement.md#transaction-history-download)
+**参考資料** : [支払いステートメント](payout-statement.md)、 [トランザクション履歴のダウンロード](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>支払いのエクスポート API
 
@@ -157,6 +157,6 @@ ms.locfileid: "92175292"
 
 [パートナー支払い API](https://apidocs.microsoft.com/services/partnerpayouts)を使用します。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [コマーシャル マーケットプレースでの支払いの受け取り](marketplace-get-paid.md)

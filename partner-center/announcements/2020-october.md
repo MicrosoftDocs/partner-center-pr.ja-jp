@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132829"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433310"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月のお知らせ
 
@@ -23,6 +23,27 @@ ms.locfileid: "93132829"
 2020 年のお知らせ:[3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>通話プランの拡張に対する修正 
+
+### <a name="categories"></a>Categories
+
+- 日付:2020-10-29
+- 製品サービス/市場
+
+### <a name="impacted-audience"></a>対象
+
+直接プロバイダー、間接プロバイダー、間接リセラー
+
+### <a name="details"></a>詳細
+
+2020 年 10 月 1 日に、[新しい市場での Office 365 通話プランの提供](2020-september.md#2)を発表しました。 このお知らせは正しくありません。また、同じく発表されていた国内プランのユーザー 1 人あたり 240 分も利用できません。 
+
+
+通話プランの詳細については、Microsoft Teams の[製品ドキュメント](/microsoftteams/calling-plan-landing-page)を参照してください。
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Windows Server ソフトウェア サブスクリプションの機能更新プログラム
 

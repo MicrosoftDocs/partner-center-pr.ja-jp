@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2f82caf36171a1757d8e1f2d016c82f7f2dedecf
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93327493"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488114"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月のお知らせ
 
@@ -23,6 +23,147 @@ ms.locfileid: "93327493"
 2020 年のお知らせ:[4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | 11 月
 
 ______________
+
+
+## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>テストが利用可能:教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイス (UI) の機能強化
+
+### <a name="categories"></a>Categories
+
+- 日付: 2020 年 11 月 10 日
+- 機能 |効率とスケールの向上
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じてアカデミック向けオファーを販売しているパートナー様。
+
+### <a name="summary"></a>まとめ
+
+教育機関の顧客の検証プロセスにおけるパートナー センター API の更新と UI の機能強化のテストを利用できるようになりました。
+
+### <a name="details"></a>詳細
+
+Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムにおけるアカデミック向けオファーの取引について、顧客検証のための法令に準拠した安全な手段の提供に努めています。 この一環として、本会計年度の第 2 四半期 (FY21 Q2) にパートナー センター API と UI の機能強化が導入されます。 これらの機能強化により、顧客検証プロセスの明確さと可視性が向上し、より正確なデータを入力できるようになり、顧客検証の成功が促進されます。
+
+**パートナー センターの機能強化**
+
+- 正確なデータ入力をサポートし、Microsoft による教育機関顧客の検証プロセスを改善するための新しい GET および POST Qualifications API。
+
+- 正確なデータ入力をサポートし、Microsoft による教育機関顧客の検証プロセスを改善するための UI の拡張機能。
+
+**テスト**
+
+顧客検証の成功に必要な API とデータ入力について理解を深めるために、パートナー様は 2020 年 10 月から、これらの拡張機能をテストすることができます。 正確なスケジュールと参加方法の詳細については、近日中にお知らせします。 既存のパートナー センター API は、FY21 Q2 末までに廃止されます。 その時点で、新しいパートナー センター API に移行しておく必要があります。
+
+   - パートナー テストの期間は、2020 年 10 月 2 日から 12 月 2 日までです。 参加を希望するパートナー様は、パートナー センターの教育機関の顧客向けテスト ガイドをダウンロードして、準備やサインアップの方法、およびテスト段階に関する概要をご確認ください。
+
+**図書館と博物館の顧客**
+
+これらの拡張機能に加えて、FY21 Q2 中に、図書館および博物館の顧客向けにアカデミック価格のオファーを提供できるようになり、CSP オファーを取り引きできる教育機関の顧客が拡大することをお知らせいたします。
+
+Microsoft では、すべての顧客または提案された顧客の適格教育ユーザーとしての状態をレビューする権利を留保します。 詳細については、[アカデミック適格教育ユーザーの要件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)に関するページを参照してください。
+
+## <a name="next-steps"></a>次のステップ
+
+新しいパートナー センターの UI と API の変更、および[パートナー センターの教育機関向けの顧客検証プロセス拡張機能のコンテンツ コレクション](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)にあるテスト ガイドを確認します。
+
+• テストに参加するにはサインアップしてください。 (詳細については[テスト ガイド](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf)を参照してください。) 
+
+• パートナー様の組織が[アカデミック適格教育ユーザーの要件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)について理解していることを確認します。 
+
+• この情報を組織内の該当するチームやリセラーと共有し、これらの変更内容に対して準備できるようにします。
+
+
+
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>オペレーション資料ギャラリーでの商用ライセンス パートナー コンテンツの拡張
+
+### <a name="categories"></a>Categories
+
+- 日付:2020 年 11 月 5 日
+- 機能
+
+### <a name="summary"></a>まとめ
+
+2020 年 11 月 5 日から、パートナー大学の商用ライセンス パートナーのコンテンツも、オペレーション資料ギャラリーで入手できるようになります。
+
+### <a name="impacted-audience"></a>対象
+
+コマーシャル パートナー
+
+### <a name="details"></a>詳細
+
+2020 年 11 月 5 日から、パートナー大学の商用ライセンス パートナーのコンテンツも、オペレーション資料ギャラリーで利用できるようになります。 これにより、オペレーション資料ギャラリーの既存の運用および商用ライセンス パートナーの開始コンテンツが、パートナー大学の有用な商用ライセンス パートナーのコンテンツと統合されます。 そのため、パートナーはよりシームレスな準備作業を行うことができます。 オペレーション資料ギャラリーには、次のコレクションが追加されています。
+
+- [Microsoft Azure - プランとライセンス](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [商用ライセンス - CSP Spotlight コール](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [商用ライセンス - ライセンス更新のコール](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+
+### <a name="next-steps"></a>次の手順
+
+この情報を組織内の適切なすべての担当者に共有してください。
+
+________________
+
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Microsoft Teams Rooms Premium SKU の発売
+
+### <a name="categories"></a>Categories
+
+- 日付:2020 年 11 月 3 日
+- 製品サービス/市場
+
+### <a name="summary"></a>まとめ
+
+Microsoft Teams の Microsoft Teams Rooms Premium SKU がクラウド ソリューション プロバイダー (CSP) プログラム経由で利用可能になりました。
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー様
+
+### <a name="details"></a>詳細
+
+Microsoft Teams Rooms 用の新しい Microsoft Teams Rooms Premium SKU が、パートナー様を通して CSP を購入している顧客に対して、デバイスあたり月額 50 米国ドルでご利用いただけるようになります。 Microsoft Teams Rooms Premium SKU は、Microsoft Teams Rooms Standard SKU (以前はミーティング ルーム ライセンスと呼ばれていました) の代わりになります。 この SKU には、Microsoft Teams、Skype for Business Online、Intune 管理に必要なライセンスなど、Standard オファリングの提供内容すべてが含まれています。 それに加えて、このオファリングでは、公衆交換電話網 (PSTN) の統合に必要な電話システムと、電話会議 (利用可能な場合) も使用可能です。 
+
+Premium オファリングでは、顧客は、新たにリリースされた Microsoft Teams Rooms マネージド サービスにアクセスできます。このサービスでは、専門家が顧客に代わって会議室の管理と操作を行います。 このクラウドベースの IT 管理および監視サービスにより、Microsoft Teams Rooms のデバイスと周辺機器を最新かつ安全な状態に保つことができます。 また、これらは積極的に監視および管理されており、優れた室内エクスペリエンスのために最適化された環境が維持されます。
+
+#### <a name="released-at-launch"></a>サービス開始時にリリース済み
+
+   |****|**Microsoft Teams Rooms Standard 15 米国ドル/デバイス/月**|**Microsoft Teams Rooms Premium 50 米国ドル/デバイス/月**|
+   |-------------------|:------|:------|
+   |Skype for Business|はい| |
+   |Microsoft Teams|はい|はい|
+   |電話システム|はい|はい|
+   |電話会議|はい|はい|
+   |Microsoft Intune|はい|はい|
+   | |Microsoft Teams Rooms Standard 15 米国ドル/デバイス/月|Microsoft Teams Rooms Premium 50 米国ドル/デバイス/月|
+   |Microsoft Teams Rooms マネージド サービス| |はい|
+   |世界全域で使用可能|はい|選ばれた市場|
+
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams Rooms マネージド サービス
+
+- プロアクティブな管理:パッチの適用や構成管理などを含む、会議室システムの 24 時間 365 日の管理。
+• リアルタイム監視と根本原因の分析:Microsoft によって促進される調整されたインシデント管理対応による監視と検出。必要に応じて顧客と連携します。 モバイル アプリにより、出先でもアラートを受け取ることができます。
+- 管理された更新:アプリケーション、Windows サポート技術情報、ファームウェアの更新の管理と配信。
+- セキュリティ脅威の防止:Microsoft Defender Advanced Threat Protection によるセキュリティ脅威の防止。
+- カスタマー サポート:専用のサービス オペレーション センターを通じて 24 時間 365 日体制のチケット サポートを提供します。自動化されていないケースに対するインシデントの修復もサポートされています。 きめ細かいロールベースのアクセス制御。
+- 分析情報と推奨事項:顧客全体の分析情報と、会議室の正常性、在庫、使用状況、オンライン会議、インシデントの傾向に関する報告が集計されます。
+
+#### <a name="offer-details"></a>特典の詳細
+
+   |**プラン名**|**プラン ID**|**マテリアル ID**|
+   |-------------------|:------|:------|
+   |Teams Rooms Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Teams Rooms Premium (米国とカナダ)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |教職員用 Teams Rooms Premium|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+
+### <a name="next-steps"></a>次のステップ
+
+- 新しいプランと利用できる地域について理解を深めるには、[よく寄せられる質問 (FAQ)]() をご覧ください。
+- 新しいプランと利用できる地域について理解を深めてください。 
+- Microsoft Rooms と関連するプランの詳細については [Microsoft Team Rooms](https://rooms.microsoft.com/) をご覧ください。
+- Teams のミーティング ルームでプラクティスを開発し、共同販売に対応したオファーを作成するには、「[Teams パートナー ガイド](https://aka.ms/teamscallingmeetingsguide)」をご利用ください。
+- 製品ソリューションとサービスの詳細については、「[Microsoft Teams Rooms に関する FAQ](https://aka.ms/PartnerMTRFAQ)」をご覧ください。 
+- 組織内のすべての関係者とこの情報を共有し、アップセルとクロスセルの機会について理解してください。
+
+________________
 
 ## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Government Community Cloud (GCC) 向けの新しい Microsoft Teams Advanced Communications SKU が近日提供予定
 

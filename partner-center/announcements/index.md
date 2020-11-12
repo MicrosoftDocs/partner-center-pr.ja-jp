@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/02/2020
-ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.date: 11/10/2020
+ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333914"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488132"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "94333914"
 
 | **カテゴリ** | **2020 年 11 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[テストが利用可能:教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイス (UI) の機能強化](2020-november.md#7)|11 月 10 日|
 |機能|[オペレーション資料ギャラリーでの商用ライセンス パートナー コンテンツの拡張](2020-november.md#6)|11 月 2 日|
 |製品サービス/市場|[Microsoft Teams Rooms Premium SKU の発売](2020-november.md#5)|11 月 2 日|
 |製品サービス/市場|[Government Community Cloud (GCC) 向けの新しい Microsoft Teams Advanced Communications SKU が近日提供予定](2020-november.md#4)|11 月 2 日|
@@ -29,6 +30,7 @@ ms.locfileid: "94333914"
 |製品サービス/市場|[非営利団体向けの Microsoft 365 Business Voice の導入](2020-november.md#2)|11 月 2 日|
 |製品サービス/市場|[Microsoft 365 Business Voice でクラウド ソリューション プロバイダー (CSP) プロモーションが利用可能に](2020-november.md#1)|11 月 2 日|
 | **カテゴリ** | **2020 年 10 月のお知らせ** | **日付** |
+|製品サービス/市場|[通話プランの拡張に対する修正](2020-october.md#18)|10 月 29 日|
 |機能|[Windows Server ソフトウェア サブスクリプションの機能更新プログラム](2020-october.md#17)|10 月 29 日|
 |機能|[認定されたクラウド ソリューション プロバイダー (CSP) の教育機関のお客様は、Windows 10 Education アップグレードを利用できるようになりました](2020-october.md#16)|10 月 28 日|
 |機能|[クラウド ソリューション プロバイダー (CSP) の最新のデジタル エクスペリエンスが利用可能になりました](2020-october.md#15)|10 月 28 日|

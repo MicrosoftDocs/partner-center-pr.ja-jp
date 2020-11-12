@@ -4,15 +4,15 @@ description: スケジュールや recoupment など、商業市場における�
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381394"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94531989"
 ---
 # <a name="payout-schedules-and-policy-details"></a>支払いスケジュールとポリシーの詳細
 
@@ -28,7 +28,7 @@ ms.locfileid: "94381394"
 
 支払いは多くの場合、Microsoft が顧客から支払いを収集する前に発生します。 お客様が Microsoft への支払いに失敗した場合に実行するアクションについては、以下の「 [お客様の支払い非支払いの処理](#process-for-customer-non-payment) 」を参照してください。
 
-| Event | 説明 | レポートの可視性 | 調節 |
+| event | 説明 | レポートの可視性 | 調節 |
 | --- | --- | --- | --- |
 | トランザクションの使用状況または月 | 顧客がサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月1** |
 | 注文書が作成されました | 合計使用量、合計トランザクション数 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月2** |
@@ -44,7 +44,7 @@ ms.locfileid: "94381394"
 
 クレジットカードまたは月次請求書によるすべての購入には、顧客から資金が収集されることを保証するために、30日間の保持期間があります。
 
-| Event | 説明 | レポートの可視性 | 調節 |
+| event | 説明 | レポートの可視性 | 調節 |
 | --- | --- | --- | --- |
 | トランザクションの使用状況または月 | 顧客がサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月1** |
 | 顧客によって支払われる請求書 | 合計使用量、合計トランザクション金額、および顧客支払い請求書の確認 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月2** |
@@ -95,6 +95,6 @@ Microsoft では、次のいずれかの方法を使用して、支払い済み�
 | 電信送金      | 7 から 10 営業日                         |
 |
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 税金の [詳細](tax-details-marketplace.md)について説明します。

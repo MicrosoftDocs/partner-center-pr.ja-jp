@@ -1,18 +1,18 @@
 ---
 title: 地域ごとの支払いの詳細 - Microsoft コマーシャル マーケットプレース
 description: 支払い期間と、支払いを受けることができる Microsoft オンラインストアについて説明します。 これらは、国、地域、および支払い勘定科目の種類によって異なる場合があります。
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 09/02/2020
-ms.openlocfilehash: cebd24d3709b622256469ab5e2af3e5cd6b80175
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e8ab90251cc05253ad25069eaf9200f2f15e60fb
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175299"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532006"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>支払いのしきい値、方法、期間
 
@@ -196,4 +196,4 @@ ms.locfileid: "92175299"
 
 ## <a name="next-step"></a>次の手順
 
-- [支払い明細書](payout-statement.md)
+- [支払い明細](payout-statement.md)

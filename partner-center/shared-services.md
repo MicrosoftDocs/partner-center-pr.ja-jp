@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92333752"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532040"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>パートナーが自分で使用するために Azure サブスクリプションを購入できるように Azure パートナー共有サービスを追加する
 
-**適用対象**
-
-- パートナー センター
  
 **適切なロール**
 
@@ -32,29 +29,29 @@ Azure Partner Shared Services は、CSP プログラムのパートナー様向�
 
 ## <a name="create-the-shared-services-tenant"></a>共有サービス テナントを作成する
 
-1. [**設定**] [  >  **アカウント設定**] [  >  **共有サービス**] にアクセスします。
+1. [ **設定** ] [  >  **アカウント設定** ] [  >  **共有サービス** ] にアクセスします。
 
    :::image type="content" source="images/sharedservices2.png" alt-text="共有サービスのアカウント設定 >":::
 
-2. 共有サービス テナントをお持ちでない場合は、**[Create shared services]** (共有サービスの作成) をクリックします。
+2. 共有サービス テナントをお持ちでない場合は、 **[Create shared services]** (共有サービスの作成) をクリックします。
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="共有サービスのアカウント設定 >":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="共有サービスの作成":::
 
 3. これにより、共有サービス テナントが作成され、共有リソースや内部ワークロードで使用する Azure CSP Shared Services サブスクリプションの購入が行われます。
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="共有サービスのアカウント設定 >":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="テナントの作成とサブスクリプションの購入":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Azure - Internal/Shared Services プランについて
 
 - Azure-Internal/Shared Services サブスクリプションは、パートナーセンターを通じてアクセスされる CSP の新しい Azure プランの種類であり、パートナーは Azure を独自に使用することができます。
 
-- Azure-Internal/Shared Services プランは割引およびインセンティブの対象ではありません。
+- Azure-Internal/Shared Services プランは、割引とインセンティブに適合しています。  Azure Partner Shared Services サブスクリプションは対象となり、RIs の購入に使用できます。
 
 - Azure - Internal/Shared Services プランは、共有サービス テナントにのみ適用できます。
 
 - Azure-Internal/Shared Services サブスクリプションの主な用途は、独自の開発目的で Azure を使用できるようにすることです。 このプランのプロビジョニングに使用する共有テナントは、Office 365 や Dynamics のライセンスなどの他のサービスには使用できません。
 
-- サブスクリプションのキャンセルは、他のサブスクリプションと同様の方法で行うことができます。 [**設定**] ビューの [すべての設定] [  >  **View all settings**  >  **共有サービス**] にアクセスします。 Azure - Internal/Shared Services を選択して取り消します。
+- サブスクリプションのキャンセルは、他のサブスクリプションと同様の方法で行うことができます。 [ **設定** ] ビューの [すべての設定] [  >  **View all settings**  >  **共有サービス** ] にアクセスします。 Azure - Internal/Shared Services を選択して取り消します。
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Azure Partner Shared Services の利用状況の詳細にアクセスする
 
@@ -62,7 +59,7 @@ Azure の利用状況は、CSP 請求書と調整ファイルに記載されま�
 
 ## <a name="azure-partner-shared-services-pricing"></a>Azure Partner Shared Services の価格
 
-Azure パートナーの共有サービスの新しい価格ファイルを確認するに**Sell**は、  >  **価格とプラン**の販売に関するページにアクセスし、当月の価格表を選択してください。 今後数週間のうちには、特定の価格カードの API もリリースされる予定です。
+Azure パートナーの共有サービスの新しい価格ファイルを確認するに **Sell** は、  >  **価格とプラン** の販売に関するページにアクセスし、当月の価格表を選択してください。 今後数週間のうちには、特定の価格カードの API もリリースされる予定です。
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>マーケットプレースのプランと Azure Partner Shared Services
 
@@ -78,3 +75,7 @@ APSS を使用してデプロイされた BYOL または無料のサービスを
 (BYOL と無料サービスだけでなく) 利用可能な Marketplace プランの完全なカタログを利用するには、CSP パートナーが web ダイレクト Azure サブスクリプションを使用して共有サービスをデプロイすることをお勧めします。  以前にサードパーティの BYOL と無料のサービスリソースをデプロイしたことがあり、それを引き続き使用してサードパーティ製品をデプロイする場合は、 [既存の Azure サブスクリプション](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)の Web direct 移行に APSS サブスクリプションを移行することをお勧めします。
 
 2019年3月1日より後に APSS サブスクリプションの使用を予定しており、新しいサードパーティの [Byol サービス](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) または無料サービスをデプロイすることを計画しているパートナーは、isv の指示に従ってこれらを APSS サブスクリプションにデプロイできます。
+
+## <a name="next-steps"></a>次の手順
+
+- [CSP によるソフトウェア サブスクリプションの販売](csp-software-subscriptions.md)
