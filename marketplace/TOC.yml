@@ -3,3 +3,7 @@
   items:
     - name: Azure プライベート マーケットプレースを作成する
       href: create-manage-private-azure-marketplace.md
+- name: リファレンス
+  items:
+    - name: Azure PowerShell
+      href: /powershell/module/az.marketplace
