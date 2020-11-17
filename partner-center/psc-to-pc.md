@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/06/2020
-ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381433"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670169"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
@@ -78,7 +78,7 @@ ms.locfileid: "94381433"
 パートナーセンターでアカウントを設定した後、[共同販売機会] ページのユーザー移行ウィザードを使用して、パートナーセンターの役割を会社の従業員に自動的に割り当てます。
 
 >[!Note]
-> ユーザーの移行は、会社の [アカウント管理者](permissions-overview.md#manage-mpn-membership-and-your-company) のみが実行できます。 アカウント管理者の役割を持っていない場合は、ユーザーの移行ウィザードを使用してユーザーアカウントのセットアップを支援するアカウント管理者を見つけます。 ユーザーの移行機能は、2020年11月16日から使用できるようになります。
+> ユーザーの移行は、会社の [アカウント管理者](permissions-overview.md#manage-mpn-membership-and-your-company) のみが実行できます。 アカウント管理者の役割を持っていない場合は、ユーザーの移行ウィザードを使用してユーザーアカウントのセットアップを支援するアカウント管理者を見つけます。 ユーザーの移行機能は、2020年11月18日からご利用いただけます。
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="ユーザー移行ウィザードを示すイメージ。":::
 
