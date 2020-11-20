@@ -1,20 +1,20 @@
 ---
 title: パートナー センターに関する問題を報告する
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: パートナーセンターで問題を報告する方法と、パートナーサポートチームの診断情報を収集する方法について説明します。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567092"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983343"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>パートナーセンターで問題を報告し、ログまたは診断情報を送信する方法
 
@@ -23,21 +23,19 @@ ms.locfileid: "94567092"
 - パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
-問題が見つかった場合、またはパートナーセンターに関するヘルプが必要な場合は、パートナーセンターのサポートにお問い合わせください。
-
-**ユーザー ロール**
+**適切なロール**
 
 パートナーセンターのユーザーがログインすると、パートナーサポート要求を作成できます。 ユーザーは、パートナーセンターにログインした後に送信されたサポート要求のみを表示できます。
 
 ## <a name="report-a-problem-with-the-partner-center"></a>パートナー センターに関する問題を報告する
 
-1. **パートナーセンター** のダッシュボードで、[ **サポート** ] を選択し、[ **パートナーサポート要求** ] を選択します。
+1. **パートナーセンター** のダッシュボードで、[**サポート**] を選択し、[**パートナーサポート要求**] を選択します。
 
 2. [ **新しい要求** ] を選択し、問題の原因となっている問題の種類を検索します。 問題の種類を選択し、 **ソリューションを確認** します。
 
 3. 問題の解決に役立つ手順や関連ドキュメントについては、推奨される **解決方法** に関するページを参照してください。
 
-4. 推奨さ **れる解決策** によって問題が解決された場合は、[ **ダッシュボードに戻る** ] を選択できます。 引き続きヘルプが必要な場合は、続行して **問題の詳細を入力** してください。
+4. 推奨さ **れる解決策** によって問題が解決された場合は、[ **ダッシュボードに戻る**] を選択できます。 引き続きヘルプが必要な場合は、続行して **問題の詳細を入力** してください。
 
 5. 問題の **詳細** を入力し、 **送信** します。 パートナー サポート担当者が改めてご連絡します。
 
@@ -59,6 +57,12 @@ ms.locfileid: "94567092"
 
 :::image type="content" source="images/support/ticket3.png" alt-text="日付と時刻":::
 
+## <a name="hours-of-operation"></a>営業時間
+
+**パートナー サポート**
+
+:::image type="content" source="images/support/hoop.png" alt-text="操作時間のサポート":::
+
 ## <a name="send-diagnostics"></a>診断を送る
 
 パートナーセンターのページでエラーが発生した場合は、ログ情報を収集するように求めるメッセージが表示されることがあります。 ページの上部にあるドロップダウンリストから [ **詳細情報の収集** ] を選択して、クライアント診断ツールを開きます。 このツールを使用すると、パートナー サポート チームがエラーの原因を特定するために必要な情報が収集されます。 
@@ -75,7 +79,7 @@ ms.locfileid: "94567092"
 3. 削除する必要がある個人を特定できる情報が含まれている可能性があるため、送信前にファイル内の情報を確認します。
 
     >[!NOTE]
-    >一部ブラウザーでは、 **[プレビュー]** ページの下部にある **[ページ ビュー]** セクションに何も表示されない場合があります。 これは問題ありません。
+    >一部ブラウザーでは、**[プレビュー]** ページの下部にある **[ページ ビュー]** セクションに何も表示されない場合があります。 これは問題ありません。
 
 4. 画面の指示に従って、ファイルを保存します。
 
@@ -83,6 +87,6 @@ ms.locfileid: "94567092"
 
 パートナー サポートでは、最新情報を取得できるように、このツールを複数回実行することを要求する場合があります。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [顧客に代わってサービスの問題を報告する](report-problems-on-behalf-of-a-customer.md)
