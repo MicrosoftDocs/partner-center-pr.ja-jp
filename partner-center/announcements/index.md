@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488132"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691318"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,9 @@ ms.locfileid: "94488132"
 
 | **カテゴリ** | **2020 年 11 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[新しいコマース オファーに関するパートナー請求通貨の EU/EFTA の変更](2020-november.md#10)|11 月 17 日|
+|機能|[パートナー センター API の API 調整](2020-november.md#9)|11 月 17 日|
+|機能|[MCA 要求の重複による 409 エラー](2020-november.md#8)|11 月 16 日|
 |機能|[テストが利用可能:教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイス (UI) の機能強化](2020-november.md#7)|11 月 10 日|
 |機能|[オペレーション資料ギャラリーでの商用ライセンス パートナー コンテンツの拡張](2020-november.md#6)|11 月 2 日|
 |製品サービス/市場|[Microsoft Teams Rooms Premium SKU の発売](2020-november.md#5)|11 月 2 日|

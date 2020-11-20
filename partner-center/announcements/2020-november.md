@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488114"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691301"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月のお知らせ
 
@@ -23,6 +23,128 @@ ms.locfileid: "94488114"
 2020 年のお知らせ:[4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | 11 月
 
 ______________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>新しいコマース オファーに関するパートナー請求通貨の EU/EFTA の変更。  
+
+### <a name="categories"></a>Categories
+- 日付: 2020 年 11 月 17 日
+- 機能
+
+### <a name="impacted-audience"></a>影響を受ける対象ユーザー  
+
+EU/EFTA 地域のクラウド ソリューション プロバイダー プログラムを通じて取引を行うパートナー 
+
+### <a name="summary"></a>まとめ 
+
+欧州連合 (EU) および欧州自由貿易協会 (EFTA) の地域では、クラウド ソリューション プロバイダー プログラムにおけるすべての新しいコマース オファーで、顧客の請求場所ではなく、パートナーの請求場所が使用されるようになります。 つまり、Microsoft による請求は、顧客の所在地の通貨ではなく、パートナーの所在地の通貨に基づいて行われれます。 これは、次の 2 つのフェーズで実行されます。 
+
+- **フェーズ 1: CSP で新しいコマース オファーを購入した新しい顧客**
+
+2021 年 1 月以降、新しい顧客が新しいコマース オファーを購入したパートナーには、パートナーの所在地の通貨でそれらの購入の請求が行われます。 既存の顧客が CSP で新しいコマース オファーを既に購入しているパートナーの場合は、このフェーズの間は、引き続き顧客の請求場所の通貨で課金されます。 
+
+ 
+
+- **フェーズ 2: 2021 年 1 月より前に CSP で新しいコマース オファーを購入した既存の顧客** 
+
+フェーズ 1 の後、2021 年を通して、Microsoft は、2021 年 1 月より前に CSP で新しいコマース オファーを購入した既存の顧客がいるパートナーに対する新しいコマース オファーの請求を、顧客の所在地の通貨から、パートナーの所在地の通貨に移行します。 パートナーには、この変更が実装される前に通知されます。  
+
+>[注意] この変更による影響があるのはパートナーの請求通貨だけであり、CSP での新しいコマース オファーの価格には影響ありません。 
+
+この変更の対象となる新しいコマース オファーは次のとおりです。Azure プランの一部である Azure のサブスクリプション、Azure の予約、サーバーのサブスクリプション、永続的なソフトウェア、およびクラウド ソリューション プロバイダー プログラムでの Microsoft コマーシャル マーケットプレースの購入。
+
+### <a name="partner-benefits"></a>パートナーの特典  
+
+- この更新により、EU/EFTA 地域における、新しいコマース エクスペリエンスでの複数の通貨による請求に関する複雑さとオーバーヘッドが軽減されます。  
+
+- パートナーは、1 つの通貨にまとめられた請求書を受け取るようになり、顧客の所在地の通貨ごとに請求書を受け取ることはなくなります。 
+
+- インセンティブの支払いは、パートナーの請求書の通貨と同じ通貨で行われます。
+
+- パートナーは、複数の通貨での請求に伴う複雑さが軽減されるため、現在はアカウントの調整に取られている時間とリソースが解放されます。 
+
+- 新しいコマース オファーをまだ採用していないパートナーの場合、この変更により以前のパートナー請求モデルと一致するようになり、パートナーは CSP の新しいコマース エクスペリエンスにいっそう簡単に移行できます。 
+
+### <a name="resources"></a>リソース 
+
+このトピックの情報については、Microsoft パートナー Web サイトの「[オペレーションギャラリー](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ )」を参照してください。  
+
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>パートナー センター API を呼び出しているパートナーに対する API の調整
+
+### <a name="categories"></a>Categories
+
+- 日付: 2020 年 11 月 17 日
+- 機能
+
+### <a name="summary"></a>まとめ
+
+Microsoft は、特定の期間のパフォーマンスがいっそう安定するように、パートナー センター API を呼び出しているパートナーに対する API 調整を導入しています。
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー プログラムを通じて取引を行うパートナー様
+
+### <a name="details"></a>詳細
+
+Microsoft は、パートナー センター API を呼び出しているパートナーの特定の期間のパフォーマンスがいっそう安定するよう、API の調整を 2021 年 Q1 に導入しています。 リソースの過剰な使用を防ぐため、調整により、特定の期間内におけるサービスの要求の数が制限されます。 調整のしきい値を超えた場合、パートナー センターにより、そのクライアントからのそれ以上の要求が一定期間制限されます。  
+
+### <a name="partner-benefits"></a>パートナーの特典 
+
+パートナー センターは大量の要求を処理するように設計されていますが、少数のパートナーによって膨大な数の要求が行われた場合、すべてのパートナーに最適なパフォーマンスと信頼性を維持するために調整が役立ちます。 ダウンタイムが最小限に抑えられます。 大量の要求を削減することにより、すべてのパートナーに対して安定したパフォーマンスを確保できます。 
+
+
+### <a name="apis-to-be-throttled"></a>調整対象の API
+
+|**操作**|**パートナー センターのドキュメント**|
+|-------------------------|----------------------------------|
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[顧客のすべてのサブスクリプションを取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID でサブスクリプションを取得する](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{customer_id}/orders||[顧客の注文をすべて取得する](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID ごとに注文を取得する](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[サブスクリプションのプロビジョニング状態を取得する](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[注文とサブスクリプションを管理する](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[サブスクリプションのアドオンの一覧を取得する](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[サブスクリプションの Azure エンタイトルメントの一覧を取得する](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[サブスクリプションの登録状態を取得する](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[顧客の譲渡をすべて取得する](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[製品のアップグレード状態を取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[試用版の変換プランの一覧を取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+  
+
+この発表は、今後の変更をパートナーが早期に認識し、準備できるようにするためのものです。 パートナーには、これらの API について理解を深め、調整されることがないように、アクティビティ ログ API を使用して効率化を検討することを、強くお勧めします。 この機能の詳細については、[API 調整ガイダンス](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)に関するページを参照してください。 
+
+### <a name="next-steps"></a>次のステップ
+
+[API 調整ガイダンス](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)を確認し、必要な手順を実行します。 
+
+
+
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>MCA 要求の重複による 409 エラー
+
+### <a name="categories"></a>Categories
+
+- 日付: 2020 年 11 月 16 日
+- 機能
+
+### <a name="context"></a>Context
+
+- 今年の 2 月、パートナーは Microsoft 顧客契約 (MCuA) への署名を求められました。 これは、以前の Microsoft Cloud 契約 (MCA) からの移行でした。 
+- この変更の一部として、パートナーには、[こちら](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)に記載されているように、契約の種類のパラメーターを含めることをお願いしました。
+
+### <a name="what-happened-next"></a>次に起こったこと:
+
+- 実装にパラメーターの要求を含めなかったパートナーがいます。 そのようなパートナーには、Microsoft は MCA をお返ししました。
+- その後、パートナーは署名要求を顧客に再送信し、MCA を Microsoft に再送信しました。 
+- このような重複により、Microsoft がパートナーにサービスを提供する機能に影響がありました。
+- 2020 年 9 月、複数のフォーラムの Yammer を通じて、パートナーにパラメーターの修正をお願いする通知を送りました。 Microsoft は重複を受け付けなくなり、409 エラーが発生するようになりました。
+
+>[注意] これは、パートナー向けの新しいコントラクトおよび API の変更ではありませんでした。
+
+- 10 月には、問題を解決するため、重複する要求が最も多かったパートナーと詳しく話し合いました。
+- 現時点では、要求を確認し、問題のテストと解決に関を支援できるように連絡していただくよう、パートナーに案内をお送りし、違反の多い上位 10 社には個人的なメールを送っています。
+- 2020 年 11 月 10 日に、重複の受け付けを停止し、パラメーターを修正していないパートナーには 409 エラーが発生するようになりました。
+- それ以降、重複を受け付けないという変更をロールバックしています。 
+- ただし、2021 年 1 月 14 日には、重複は再び受け付けられなくなります。 これにより、パートナーにはパートナー側の調整を行うための時間がさらに提供されます。 詳しい話し合いを行った 11 月 16 日に、パートナーからは更新を展開するという通知を既に受け取っています。
+- パートナーには、ソリューションの更新が期待どおりに動作するよう、変更を含むフライトにテナントを追加することによってテストを行うことができるように、ご連絡いただくことをお願いします。
+
 
 
 ## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>テストが利用可能:教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイス (UI) の機能強化

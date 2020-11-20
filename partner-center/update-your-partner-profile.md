@@ -1,20 +1,20 @@
 ---
 title: パートナー プロファイルを確認する
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 主要連絡先、住所、プログラム情報など、ご自身の会社の詳細情報を確認する方法について説明します。 また、法的住所や請求先住所を更新することもできます。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490640"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94625999"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>パートナー センターで、パートナー プロファイルの情報を確認する
 
@@ -29,7 +29,7 @@ ms.locfileid: "89490640"
 
 1. **[設定]** にアクセスし、 **[パートナー プロファイル]** を選択します。
 
-2. ご自身の**法的ビジネス プロファイル**、 **主要連絡先情報**、および**プログラム情報**を確認します。
+2. ご自身の **法的ビジネス プロファイル**、 **主要連絡先情報**、および **プログラム情報** を確認します。
 
 他の企業をご自身の法的ビジネスに統合した場合は、このページでその情報を確認することもできます。
 
@@ -69,9 +69,17 @@ Partner Membership Center からパートナー センターへの移行中、�
 
 ## <a name="update-your-billing-address"></a>請求先住所を更新する
 
-全体管理者、課金管理者、または管理エージェントは、自分の**課金プロファイル**の請求書に示されている住所を変更できます。 ただし、請求書システムの制限により、請求書の会社名を変更することはできません。
+グローバル管理者、課金管理者、または管理エージェントの場合は、次のものを更新できます。
 
- 
+- **課金プロファイル** 内の請求書に表示される住所
+- 発注番号
+
+次のものは変更できません。
+ 
+- 会社名
+- 国
+- 請求日
+ 
 ## <a name="next-steps"></a>次の手順
 
 - [場所の管理](manage-locations.md)
