@@ -9,13 +9,13 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 10/16/2020
-  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
-  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.date: 11/19/2020
+  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
+  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "92198048"
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "94983319"
 landingContent:
 - title: パートナー センターの使用を開始する
   linkLists:
@@ -85,22 +85,6 @@ landingContent:
       url: set-up-your-payout-account.md
     - text: 課金内容を確認する
       url: read-your-bill.md
-- title: 開発者向けリソース
-  linkLists:
-  - linkListType: reference
-    links:
-    - text: パートナー センターAPI および SDK 早期導入者プログラムにご参加ください。
-      url: /partner-center/develop/early-adopter-program
-    - text: パートナー センター開発者向けドキュメント
-      url: /partner-center/develop
-    - text: パートナー センター REST API リファレンス
-      url: /partner-center/develop/partner-center-rest-api-reference
-    - text: パートナー センター .NET API リファレンス
-      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
-    - text: Java 用パートナー センター SDK
-      url: /java/partnercenter/overview
-    - text: パートナー センター PowerShell
-      url: /powershell/partnercenter/overview
 - title: コマーシャル マーケットプレースでの販売 (ISV)
   linkLists:
   - linkListType: concept
