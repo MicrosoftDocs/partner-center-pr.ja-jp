@@ -2,16 +2,16 @@
 title: Azure portal でのプライベート Azure Marketplace の作成と管理
 description: Azure portal でのプライベート Azure Marketplace (プレビュー) の作成と管理について説明します。
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487705"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006941"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Azure portal でのプライベート Azure Marketplace (プレビュー) の作成と管理
 
@@ -37,8 +37,8 @@ Marketplace 管理者 (割り当てられたロール) として、無効にな�
 
 - **グローバル管理者** ユーザーにアクセスできます。
 - テナントには、少なくとも1つのサブスクリプションがあります (任意の種類を指定できます)。
-- グローバル管理者のユーザーには、手順 2. で選択したサブスクリプションの **共同作成** 者ロールが割り当てられます。
-- 全体管理者ユーザーのアクセスが **[はい]** に設定されています (「 [昇格-アクセス-グローバル-管理者](/azure/role-based-access-control/elevate-access-global-admin)」を参照してください)。
+- グローバル管理者のユーザーには、選択したサブスクリプションの **共同作成** 者ロールまたはそれ以降が割り当てられます。
+- 全体管理者ユーザーのアクセス権が **[はい]** に設定されています (「 [すべての Azure サブスクリプションと管理グループを管理するためのアクセス権の昇格」を](/azure/role-based-access-control/elevate-access-global-admin)参照してください)。
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>PowerShell を使用して Marketplace 管理者ロールを割り当てる
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)
@@ -129,7 +128,7 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 ## <a name="create-private-azure-marketplace"></a>プライベート Azure Marketplace を作成する
 
 1. [Azure portal](https://portal.azure.com/) にサインインします。
-2. [ **すべてのサービス** ]、[ **Marketplace** ] の順に選択します。
+2. [ **すべてのサービス** ]、[ **Marketplace**] の順に選択します。
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="メインウィンドウ Azure portal ます。":::
 
@@ -151,7 +150,7 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 
 項目は、オファーとプランの組み合わせです。 [Marketplace の管理] ページで項目を検索して追加することができます。
 
-1. [ **項目の追加** ] を選択します。
+1. [ **項目の追加**] を選択します。
 
 2. **ギャラリー** を参照するか、検索フィールドを使用して目的の項目を検索します。
 
@@ -180,7 +179,7 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 
 ## <a name="delete-offers"></a>オファーの削除
 
-[Marketplace の管理] ページで、プラン名 (上の画面を参照) の横にあるチェックボックスをオンにし、[ **アイテムの削除** ] を選択します。
+[Marketplace の管理] ページで、プラン名 (上の画面を参照) の横にあるチェックボックスをオンにし、[ **アイテムの削除**] を選択します。
 
 ## <a name="enabledisable-private-azure-marketplace"></a>プライベート Azure Marketplace を有効/無効にする
 
@@ -222,6 +221,6 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="プランを作成し、使用可能なプランを表示できることを示すバナーを提供します。":::
 
-## <a name="contact-support"></a>サポートにお問い合わせください
+## <a name="contact-support"></a>サポートにお問い合せください
 
 Azure Marketplace のサポートについては、 [Microsoft Q&A](/answers/products/)にアクセスしてください。 
