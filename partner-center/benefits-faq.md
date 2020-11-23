@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564732"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417253"
 ---
 # <a name="benefits-faq"></a>利点に関する FAQ
 
@@ -96,7 +96,7 @@ Azure の一括クレジットプランを他のプランと組み合わせる�
 サブスクリプションを割り当てた後、ユーザーはそのサブスクリプションを管理するために Visual Studio にログインする必要があります。
 
 >[!Note]
-> パートナーセンターで Visual Studio サブスクリプションに割り当てられたユーザーは、元の割り当てから90日まで削除できません。
+> 元の割り当てから90日後に、Visual Studio サブスクリプションが1つのサブスクライバーから別のサブスクライバーに再割り当てされることがある
 
 ## <a name="technical-benefits-and-support"></a>技術的な利点とサポート
 
