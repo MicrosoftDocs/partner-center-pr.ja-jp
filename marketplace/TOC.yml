@@ -1,8 +1,11 @@
 - name: Microsoft マーケットプレースのお客様向けドキュメント
   href: index.yml
+- name: Azure Marketplace
   items:
     - name: Azure プライベート マーケットプレースを作成する
       href: create-manage-private-azure-marketplace.md
+    - name: Azure Marketplace パートナー統合
+      href: partner-integrations.md
 - name: リファレンス
   items:
     - name: Azure PowerShell
