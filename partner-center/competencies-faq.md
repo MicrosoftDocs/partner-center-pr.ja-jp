@@ -1,19 +1,19 @@
 ---
 title: コンピテンシー-よく寄せられる質問
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: Azure、クラウド、Visual Studio、およびテクニカルおよびサポートの特典の Microsoft Partner Network gold とシルバーコンピテンシーの利用、有効期限、更新、ライセンス認証に関する質問への回答
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755223"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812815"
 ---
 # <a name="competencies---frequently-asked-questions"></a>コンピテンシー-よく寄せられる質問
 
@@ -54,7 +54,7 @@ ms.locfileid: "92755223"
 
 1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
-1. パートナーセンターのメニューで [ **Insights** ] を選択し、次に [ **組織のスキル** ] を選択します。 小さいメニューが表示されます。
+1. パートナーセンターのメニューで [ **Insights** ] を選択し、次に [ **組織のスキル**] を選択します。 小さいメニューが表示されます。
 
 1. メニューから [ **トレーニング** ] または [ **Microsoft Learn** ] を選択します。
 
@@ -68,7 +68,7 @@ ms.locfileid: "92755223"
 
 このレポートには、パートナーセンターのコンピテンシーとプログラムに関連するスキルのみが表示されます。 (廃止されたスキルの一部は、インベントリから削除されてから12か月以上表示される場合もあります)。
 
-特定のコンピテンシーの要件を必ず確認してください。 確認するには、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)または [ [Microsoft Partner Network コンピテンシー] ページ](https://partner.microsoft.com/membership/competencies)で [ **コンピテンシー** ] メニューオプションを使用します。
+特定のコンピテンシーの要件を必ず確認してください。 確認するには、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)または [ [Microsoft Partner Network コンピテンシー] ページ](https://partner.microsoft.com/membership/competencies)で [**コンピテンシー** ] メニューオプションを使用します。
 
 > [!NOTE]
 > 試験、評価、または認定が特定のコンピテンシーの要件として明記されていない限り、そのコンピテンシーを満たしているとは見なされません。
@@ -79,7 +79,7 @@ ms.locfileid: "92755223"
 
 - コンピテンシーパートナーのライセンステーブルを[ダウンロード](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)します。
 
-- Microsoft Action Pack サブスクリプションパートナーのライセンステーブルを[ダウンロード](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx)します。
+- Microsoft Action Pack サブスクリプションパートナーのライセンステーブルを[ダウンロード](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)します。
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>Q. Microsoft 認定プロファイル ID (MCP ID または MCID) を Microsoft パートナーセンターアカウントにリンク操作方法ますか?
 

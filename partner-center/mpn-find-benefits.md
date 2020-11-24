@@ -1,7 +1,7 @@
 ---
 title: 特典を見つける
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: パートナーセンターのダッシュボードで MPN 特典を見つける方法について説明します。 技術的な利点を得るためにアクセス ID と契約 ID を検索する方法について説明します。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175319"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812837"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Microsoft Partner Network の特典を見つける 
 
@@ -68,13 +68,13 @@ Microsoft Partner Network メンバーとして、会社はビジネスの成長
 
 1. パートナー センターの[ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします
 
-2. [ **MPN**]、[ **特典**] の順に選択し、次に **技術的な利点**を選択します。
+2. [ **MPN**]、[ **特典**] の順に選択し、次に **技術的な利点** を選択します。
 
 3. 一覧から特典を選択します。 詳細を表示するには、特典を拡大してください。 
 
    この特典に割り当てられている特定の製品サポート **契約 id** と **アクセス ID** が表示されます。  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="拡張された特典":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Microsoft 製品サポート Id (契約 ID、アクセス ID など) を示すゴールドコアコンピテンシーサポートのテクニカル特典のサンプル":::
 
    > [!NOTE]
    > これらのサポート Id を記録しておきます。 特定のシステムでは、特定の技術的な特典に関連付けられているサポートリクエストを初めてログに記録する場合があります。 すべての会社のユーザーが同じアクセス ID と契約 ID を使用する可能性があります。
@@ -83,7 +83,7 @@ Microsoft Partner Network メンバーとして、会社はビジネスの成長
 
 Microsoft Action Pack、シルバー、または Gold コンピテンシーで利用できる特典については、次のリソースを参照してください。
 
-- [Microsoft Action Pack パートナーのライセンステーブル](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Microsoft Action Pack パートナーのライセンステーブル](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [コンピテンシーパートナーのライセンステーブル](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
