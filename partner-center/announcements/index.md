@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/10/2020
-ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.date: 11/19/2020
+ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691318"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932771"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,9 @@ ms.locfileid: "94691318"
 
 | **カテゴリ** | **2020 年 11 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[統合された新しいアカウント管理エクスペリエンス](2020-november.md#13)|11 月 18 日|
+|製品サービス/市場|[中規模市場キャンペーン向け Office 365 E1 (ラテン アメリカ、アジア太平洋、インド)](2020-november.md#12)|11 月 18 日|
+|機能|[特定の国での顧客のスクリーニングを強化するためのパートナーセンター API の更新とユーザー インターフェイス (UI) の機能強化](2020-november.md#11)|11 月 17 日|
 |機能|[新しいコマース オファーに関するパートナー請求通貨の EU/EFTA の変更](2020-november.md#10)|11 月 17 日|
 |機能|[パートナー センター API の API 調整](2020-november.md#9)|11 月 17 日|
 |機能|[MCA 要求の重複による 409 エラー](2020-november.md#8)|11 月 16 日|

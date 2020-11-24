@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488136"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514760"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>支払いアカウントと税フォームを設定する
 
@@ -34,7 +34,7 @@ ms.locfileid: "94488136"
 
 ### <a name="fill-out-your-tax-forms"></a>税フォームに入力する
 
-最初に、税プロファイルを作成して、参加しているプログラムに割り当てる必要があります。 コマーシャル マーケットプレース用の " *税プロファイル* " を作成するには、次の手順を行います。
+最初に、税プロファイルを作成して、参加しているプログラムに割り当てる必要があります。 コマーシャル マーケットプレース用の "*税プロファイル*" を作成するには、次の手順を行います。
 
 - 住所と国籍がある国または地域を指定します。
 - 適切な税フォームに入力します。
@@ -44,7 +44,7 @@ ms.locfileid: "94488136"
 > [!IMPORTANT]
 > 国や地域によって税の要件は異なります。 正確な納税金額は、オファーを販売する国および地域によって異なります。 Microsoft がパートナー様に代わって売上税と使用税を支払う国または地域については、[Microsoft Azure Marketplace 発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)を参照してください。 その他の国または地域では、登録場所によって、パートナー様が、そのプランの販売に伴う売上税および使用税を現地の課税当局に直接送金することが必要になる場合があります。 加えて、パートナー様が受け取るアプリ販売収益は、収入として課税対象になる場合があります。 該当する国または地域の関係機関に問い合わせて、コマーシャル マーケットプレースでの活動に関する適切な税情報を入手することを強くお勧めします。
 
-1. [パートナー センター](https://partner.microsoft.com/dashboard)で、右上隅にある **[アカウント設定]** アイコンを選択し、 **[開発者向け設定]** を選択します。
+1. [パートナーセンター](https://partner.microsoft.com/dashboard)で、右上隅にある **設定** 歯車アイコン、[**アカウント設定**] の順に選択します。
 
 2. 左側のナビゲーション メニューで、 **[支払いと税金]** を選択し、 **[Payout and tax assignments]\(支払いと税金の割り当て\)** を選択します。
 
@@ -81,7 +81,7 @@ ms.locfileid: "94488136"
 
 ### <a name="create-a-payment-profile"></a>支払いプロファイルを作成する
 
-1. [パートナーセンター](https://partner.microsoft.com/dashboard)で、右上隅にある [ **設定** ] 歯車アイコンを選択し、[ **アカウントの設定** ] を選択します。
+1. [パートナーセンター](https://partner.microsoft.com/dashboard)で、右上隅にある **設定** 歯車アイコン、[**アカウント設定**] の順に選択します。
 2. *[支払いと税金]* の下にある **[支払いと税プロファイルの割り当て]** を選択します。
 
     > [!NOTE]
@@ -124,7 +124,7 @@ ms.locfileid: "94488136"
 
 変更を加える必要がある場合や、間違った情報を修正する必要がある場合は、既存の支払いプロファイルを編集することができます。
 
-1. [パートナー センター](https://partner.microsoft.com/dashboard)で、右上隅にある **[設定]** (歯車) アイコンを選択し、 **[開発者向け設定]** を選択します。
+1. [パートナーセンター](https://partner.microsoft.com/dashboard)で、右上隅にある **設定** 歯車アイコン、[**アカウント設定**] の順に選択します。
 
 2. *[支払いと税金]* の見出しの下にある **[支払いと税プロファイル]** を選択します。
 
