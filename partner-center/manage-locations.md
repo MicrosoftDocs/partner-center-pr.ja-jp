@@ -1,7 +1,7 @@
 ---
 title: パートナー アカウントで場所を管理する
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 新しい場所を追加する方法や、所在地 MPN ID がインセンティブ プログラム、CSP ビジネス、サブスクリプション、その他のトランザクションでどのように使用されるかについて説明します。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100772"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514803"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN アカウントの所在地を管理し、新しい場所を追加する
 
@@ -50,7 +50,7 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
 法的企業名、住所、主要連絡先の詳細など、会社の法的な詳細情報を提供します。 このアカウントは検証されるため、必ず有効な情報を追加してください。
 
 >[!NOTE] 
- >必ず、**新しい** Azure AD テナントの**新しい**資格情報でサインインするようにしてください。 既存の資格情報を使用しないでください。既にアカウントを持っているものとしてパートナー センターに認識されてしまいます。
+ >必ず、**新しい** Azure AD テナントの **新しい** 資格情報でサインインするようにしてください。 既存の資格情報を使用しないでください。既にアカウントを持っているものとしてパートナー センターに認識されてしまいます。
 
 4. Microsoft Partner Agreement に同意し、アカウントをアクティブ化します。
 
@@ -58,9 +58,9 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
 
 1. パートナー センターで MPN アカウントを使用してサインインします。 MPN アカウントには、グローバル管理者またはアカウント管理者特権が必要です。 
 
-1. **設定アイコン**から **[Partner settings]\(パートナーの設定\)** を選択します。
+1. **設定アイコン** から **[組織の設定]** を選択します。
 
-2. **[場所]** を選択します。
+2. **[Legal]\(法務\)** を選択し、 **[場所]** を選択します。
 
 3. **[Add a location]\(場所の追加\)** を選択し、会社に追加する場所の住所の詳細と、その場所の主要な連絡先を挿入します。
 
@@ -69,18 +69,15 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
 
 ## <a name="change-global-partner-account-location"></a>グローバル パートナー アカウントの場所を変更する
 
-1. **[[場所]](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** ページで場所の一覧を確認して、法人にしようとしている場所が一覧表示されていることを確認します。 ない場合は、追加します。
+1. **[[Business locations]\(事業所\)](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** で場所の一覧を確認して、法人にしようとしている場所が一覧表示されていることを確認します。 ない場合は、追加します。
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="MPN 所在地の構造":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="現在のすべての場所の一覧が表示されている、パートナー センターのアカウントの場所ページのスクリーンショット。":::
 
-2. **[パートナー プロファイル]** を選択してから、 **[Update legal business profile] (法的ビジネス プロファイルの更新)** を選択します。
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="MPN 所在地の構造":::
-
+2. **[Legal]\(法務\)** を選択してから、 **[Update legal business profile]\(法的ビジネス プロファイルの更新\)** を選択します。
+  
 3. 地域と法人を選択し、その **[送信]** を実行します。
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="MPN 所在地の構造":::
-
+  
 ## <a name="next-steps"></a>次のステップ
 
 - [検証プロセス](verification-responses.md)に関する詳細情報。
