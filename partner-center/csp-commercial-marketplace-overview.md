@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000406"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038831"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>パートナー センターのコマーシャル マーケットプレースの概要
 
@@ -37,7 +37,7 @@ CSP プログラムのパートナーとして、パートナーセンターを�
 
 CSP プログラムのパートナーである場合は、ISV のオファーに関して、多くの市販の marketplace アクティビティを実行する必要があります。 各アクティビティの詳細については、次の表を参照してください。
 
-|**目的**  |**読み取り**   |
+|**必要に応じて**  |**読み取り**   |
 |:------------------------------------|:------------------|
 |利用可能なプラン、価格、製品の詳細、または発行者の連絡先情報を表示または検索する方法について説明します | [オファーの検出](csp-commercial-marketplace-discover.md) | 
 |プランを購入して展開する方法について説明します   | [購入プラン](csp-commercial-marketplace-purchase.md)   | 
@@ -55,7 +55,7 @@ CSP プログラムのパートナーとして、パートナーセンターの 
 
 - [Microsoft Azure 管理ポータル](https://portal.azure.com/)
 
-    Or
+    または
 
 - サードパーティの ISV 発行元のシステムまたは web サイト
 
@@ -68,7 +68,7 @@ CSP プログラムのパートナーとして、パートナーセンターの 
 
 ライセンスベースまたは使用量ベースの ISV プランで特定の marketplace アクティビティを完了する場所については、次の表を参照してください。
 
-|**Isv からのライセンスベースの SaaS プランの場合**  |**用途**  |
+|**Isv からのライセンスベースまたは従量制の SaaS プランの場合**  |**用途**  |
 |:------------------------------------|:------------------|
 |利用可能なプランを検出または検索するには  | パートナーセンターのダッシュボードまたはパートナーセンターの Api  |
 |プランを購入するには  | パートナーセンターのダッシュボードまたはパートナーセンターの Api  |

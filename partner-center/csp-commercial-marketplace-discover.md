@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000416"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038855"
 ---
-# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>パートナーセンターコマーシャルマーケットプレースでのプランと価格の検出
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>パートナーセンターコマーシャルマーケットプレースでのプランと価格の検出
 
 **適用対象**
 
@@ -28,11 +28,11 @@ ms.locfileid: "91000416"
 - グローバル管理者
 - 管理エージェント
 
-独立系ソフトウェアベンダー (Isv) は、商用マーケットプレースでプランを公開することを選択した場合、そのプランを CSP プログラムで利用できるようにするかどうかを決定することもできます。 CSP プログラムを通じてプランを販売することを選択した場合、CSP パートナーは、パートナーセンターの Marketplace 領域にプランを表示する必要があります。
+独立系ソフトウェアベンダー (Isv) は、商用マーケットプレースでプランを公開することを選択した場合、そのプランを CSP プログラムで利用できるようにするかどうかを決定することもできます。 CSP プログラムを通じてプランを販売することを選択した場合、CSP パートナーはパートナーセンターの Marketplace でプランを確認する必要があります。
 
-パートナーセンターで ISV プランが期待どおりに表示されない場合は、次の原因が考えられます。
+パートナーセンターで期待どおりに ISV プランが表示されない場合は、次の原因が考えられます。
 
-- ISV は、CSP プログラムを通じてプランを販売しないと判断しました。 たとえば、一部の ISV 製品は、商用マーケットプレースの他の領域 ( [Microsoft AppSource](https://appsource.microsoft.com/) や [Azure marketplace](https://azuremarketplace.microsoft.com/)など) で利用できるようになっていますが、パートナーセンターマーケットプレースの csp には記載されていない場合があります。
+- ISV は、CSP プログラムを通じてプランを販売しないと判断しました。 たとえば、一部の ISV 製品は、商用マーケットプレースの他の領域 ( [Microsoft AppSource](https://appsource.microsoft.com/) や [Azure marketplace](https://azuremarketplace.microsoft.com/)など) で利用できるようになっていますが、パートナーセンターマーケットプレースの CSP プログラムのパートナーには記載されていない場合があります。
 
 - ISV は、選択された数の CSP パートナーのみにプランを限定することに決めました。 限定プランの詳細については、このヘルプトピックの「」を参照してください。
 
@@ -42,7 +42,7 @@ ms.locfileid: "91000416"
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>パートナーセンターで Marketplace のプランを表示する
 
-CSP プログラムで利用可能な商用 marketplace プランを表示するには、次のようにします。 
+CSP プログラムで利用可能な商用 marketplace プランを表示するには、次のようにします。
 
 1. パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインし、左側のナビゲーションメニューから [ **CSP** ] を選択します。
 
@@ -70,7 +70,7 @@ CSP プログラムで利用可能な商用 marketplace プランを表示する
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>パートナーセンター Api を使用して Marketplace のプランを表示する
 
-CSP プログラムパートナーは Api を使用して、対象となるプランの一覧を返すこともできます。 パートナーがパートナーセンター marketplace を通じて販売することができるのは、資格のあるオファーのみです。 Api を使用してカタログ内のプランを特定するパートナー向けに、 [市場向けのプランの一覧を取得](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)するためのガイダンスを参照してください。
+CSP プログラムパートナーは Api を使用して、対象となるプランの一覧を返すこともできます。 パートナーがパートナーセンター marketplace で販売することができるのは、資格のあるオファーのみです。 Api を使用してカタログ内のプランを特定するパートナー向けに、 [市場向けのプランの一覧を取得](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)するためのガイダンスを参照してください。
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>パートナーセンターで最新の Marketplace プランの価格を確認する
 
@@ -80,7 +80,7 @@ CSP プログラムパートナーは Api を使用して、対象となるプ�
 
 2. [ **販売**] を選択し、その後に [ **料金とプラン**] を選択します。
 
-3. [ **Marketplace** ] セクションまで下にスクロールし、場所を選択して **marketplace の価格**をダウンロードします。 これにより、SaaS の最新の価格データを含むスプレッドシートが生成され、ISV 発行元から提供されるライセンスベースのプランが生成されます。 一部の Azure アプリケーションの料金は、ここにも表示される場合があります。 この情報は毎日更新されるため、選択した頻度で現在の価格を確認することができます。
+3. [ **Marketplace** ] セクションまで下にスクロールし、場所を選択して **marketplace の価格** をダウンロードします。 これにより、SaaS、ライセンスベースのプラン、および ISV 発行元から提供されている従量制課金プランの最新の価格データを含むスプレッドシートが生成されます。 一部の Azure アプリケーションの料金は、ここにも表示される場合があります。 この情報は毎日更新されるため、選択した頻度で現在の価格を確認することができます。
 
 4. ISV 製品に無料試用期間が含まれている場合、スプレッドシートにその製品の2つの行が表示されます。
 
@@ -92,7 +92,7 @@ CSP プログラムパートナーとして、特定の商用 marketplace プラ
 
 ## <a name="learn-about-marketplace-exclusive-offers"></a>Marketplace 限定プランの詳細
 
-Isv は、CSP プログラムの特定のパートナーだけがオファーを利用できるようにするオプションを備えています。 これは、排他的なオファーとして知られています。 CSP プログラム内のすべてのパートナーは、パートナーセンターの商用マーケットプレースにあるすべての ISV プランを表示できます (ただし、排他とマークされているプランを含む)。
+Isv は、CSP プログラムの特定のパートナーだけがオファーを利用できるようにするオプションを備えています。 これは、排他的なオファーとして知られています。 CSP プログラム内のすべてのパートナーは、パートナーセンターの商用 marketplace にあるすべての ISV プランを表示できます。ただし、排他とマークされているプランも含まれます。
 
 プランが排他とマークされ **ていない** 場合は、すべてのパートナーがそのプランを購入できます (選択した顧客の請求先の国が ISV のオファーの使用可能な国に一致していることを前提とします)。
 

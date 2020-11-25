@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7533b0791ec8760c6223d6af59c2b7995b34a7bc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d8eb2faec7c2ddd70ed0cacedebf4f9824441a7a
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000506"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038859"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>パートナーセンターで顧客向けの商用 marketplace 製品を購入する
 
@@ -28,22 +28,22 @@ ms.locfileid: "91000506"
 - グローバル管理者
 - 管理エージェント
 
-クラウドソリューションプロバイダー (CSP) プログラムのパートナーとして、商用マーケットプレースを使用して、独立系ソフトウェアベンダー (Isv) によって提供される特定のサービスとしてのソフトウェア (SaaS) 製品に対して顧客のサブスクリプションを購入することができます。 
+クラウドソリューションプロバイダー (CSP) プログラムのパートナーとして、商用マーケットプレースを使用して、独立系ソフトウェアベンダー (Isv) によって提供される特定のサービスとしてのソフトウェア (SaaS) 製品に対して顧客のサブスクリプションを購入することができます。
 
 顧客に対して ISV SaaS サブスクリプションを提供することにより、ビジネスを差別化することができます。 また、お客様に特定のビジネスニーズに対応するソフトウェアバンドルへのアクセスを提供することもできます。 これらの marketplace SaaS 製品のライセンスとサブスクリプションは、Microsoft 製品のライセンスとサブスクリプションを管理するのと同じように、ISV 発行元から管理します。
 
-**ライセンスベース**の SaaS サブスクリプションまたは**使用状況ベースの**サブスクリプションのいずれかを購入できます。 ライセンスベースと使用量ベースの課金の違いの詳細については、 [課金の基本](billing-basics.md)に関するページを参照してください。
+**ライセンスベース** の SaaS サブスクリプションまたは **使用状況ベースの** サブスクリプションのいずれかを購入できます。 ライセンスベースと使用量ベースの課金の違いの詳細については、 [課金の基本](billing-basics.md)に関するページを参照してください。
 
-## <a name="purchase-license-based-saas-subscriptions-in-partner-center"></a>パートナーセンターでライセンスベースの SaaS サブスクリプションを購入する
+## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>パートナーセンターでライセンスベースおよび従量制の SaaS サブスクリプションを購入する
 
-Microsoft 製品のサブスクリプションを購入する場合と同じプロセスを使用して、ISV 発行元によって提供されるライセンスベースの SaaS 製品のサブスクリプションを購入します。
+Microsoft 製品のサブスクリプションを購入する場合と同じプロセスを使用して、ISV 発行元によって提供されるライセンスベースまたは従量制の SaaS 製品のサブスクリプションを購入します。
 
-パートナーセンターでライセンスベースの SaaS サブスクリプションを購入するには、「 [顧客サブスクリプションの作成、中断、キャンセル](create-a-new-subscription.md#create-a-new-subscription)」を参照してください。
+パートナーセンターでライセンスベースまたは従量制の SaaS サブスクリプションを購入するには、「 [顧客サブスクリプションの作成、中断、キャンセル](create-a-new-subscription.md#create-a-new-subscription)」を参照してください。
 
 [パートナー センター API](/partner-center/develop/) を使って、顧客向けの商用マーケットプレース サブスクリプションを作成することもできます。 (パートナーセンター Api の使用方法の詳細については、「 [商用 marketplace 製品のサブスクリプションを作成する](/partner-center/develop/create-subscription-azure-marketplace-products)」を参照してください)。
 
 >[!IMPORTANT]
-> CSP プログラムのパートナーは、パートナーセンター内の ISV 発行元から **ライセンスベース** の SaaS サブスクリプションのみを購入できます。 つまり、ISV 発行者が利用可能にした **ライセンスベース** の SaaS プランを購入できます。これには、アクセス権を持つ [限定プラン](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) も含まれます。 Isv (Azure アプリケーション、コンテナー、または Vm を含む **使用量ベース**、従量制課金、消費量ベースのプランなど) から、その他の商用 marketplace プランを購入または管理するには、 [Azure portal](https://portal.azure.com/)にアクセスする必要があります。 詳細については、次のトピックを参照してください。
+> CSP プログラムのパートナーとして、パートナーセンター内の ISV 発行元から **ライセンスベース** または **従量制** の SaaS サブスクリプションを購入することができます。 つまり、ISV 発行者が利用可能にした **ライセンスベース** または **従量制** の SaaS プランを購入できます。これには、アクセス権のある [限定プラン](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) も含まれます。 Isv (Azure アプリケーション、コンテナー、または Vm を含む使用量ベースのプランなど) から、他の商用 marketplace プランを購入または管理するには、 [Azure portal](https://portal.azure.com/)にアクセスする必要があります。
 
 ## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Azure portal で使用量ベースのサブスクリプションを購入する
 
@@ -59,7 +59,7 @@ Microsoft 製品のサブスクリプションを購入する場合と同じプ�
 
 5. Azure Marketplace の一覧の上部にある [ **すべて表示** ] を選択します。
 
-6. リストを絞り込むには、Marketplace の一覧の上部にあるフィルターを使用します。 たとえば、[**発行元**] ドロップダウンリストから**Microsoft**または**Partner**を選択すると、microsoft または ISV 発行元からのオファーのみを表示できます。
+6. リストを絞り込むには、Marketplace の一覧の上部にあるフィルターを使用します。 たとえば、[**発行元**] ドロップダウンリストから **Microsoft** または **Partner** を選択すると、microsoft または ISV 発行元からのオファーのみを表示できます。
 
 7. 特定のプランを選択し、[ **作成**] を選択します。
 
