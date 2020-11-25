@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031805"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947683"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月のお知らせ
 
@@ -89,7 +89,7 @@ ________________
 
 ### <a name="summary"></a>要約
 
-2020 年 7 月 21 日より、パートナーは、更新された**パートナー センター SDK GitHub の公開サンプル**と共に、 **.NET Standard SDK Microsoft パートナー センター**の .NET SDK v1.16.1 バージョンのダウンロードを開始できます。
+2020 年 7 月 21 日より、パートナーは、更新された **パートナー センター SDK GitHub の公開サンプル** と共に、 **.NET Standard SDK Microsoft パートナー センター** の .NET SDK v1.16.1 バージョンのダウンロードを開始できます。
 
 ### <a name="details"></a>詳細
 
@@ -167,8 +167,6 @@ ________________
 
 サービス開始時にリリース済み
 - ライブ イベントの制限は、参加者 20,000 人 (50 件の同時イベント、16 時間)
-- コンプライアンス レコーディングの統合 (ISV) 
-- 連絡先センター ソリューションの統合 (ISV) 
 
 2020 年後半にリリース
 - 1,000 人の対話型 Teams 会議 
