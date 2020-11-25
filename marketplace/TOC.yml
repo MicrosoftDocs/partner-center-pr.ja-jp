@@ -1,11 +1,35 @@
 - name: Microsoft マーケットプレースのお客様向けドキュメント
   href: index.yml
+- name: Microsoft AppSource
+  items:
+    - name: Microsoft AppSource について
+      href: appsource-overview.md
+    - name: AppSource でソフトウェアを購入する
+      href: purchase-software-appsource.md
 - name: Azure Marketplace
   items:
-    - name: Azure プライベート マーケットプレースを作成する
+    - name: Azure Marketplace について
+      href: azure-marketplace-overview.md
+    - name: 購入
+      href: azure-purchasing-invoicing.md
+    - name: 請求と請求書作成
+      href: billing-invoicing.md
+    - name: プライベート オファー
+      href: private-offers.md
+    - name: サブスクリプションの譲渡の資格
+      href: transfer-eligibility.md
+    - name: プライベート Azure Marketplace の作成と管理
       href: create-manage-private-azure-marketplace.md
     - name: Azure Marketplace パートナー統合
       href: partner-integrations.md
+- name: 一般的なリソース
+  items:
+    - name: 払戻ポリシー
+      href: refund-policies.md
+    - name: 法的契約
+      href: legal-contracts.md
+    - name: サポートを受ける
+      href: get-support.md
 - name: リファレンス
   items:
     - name: Azure PowerShell
