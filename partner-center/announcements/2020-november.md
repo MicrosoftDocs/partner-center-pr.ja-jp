@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691301"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514743"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月のお知らせ
 
@@ -23,6 +23,219 @@ ms.locfileid: "94691301"
 2020 年のお知らせ:[4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | 11 月
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>パートナー センターで従量制課金の SaaS プランを購入できるようになる 
+
+### <a name="categories"></a>Categories
+
+- 日付:2020 年 11 月 24 日
+- 機能
+
+## <a name="summary"></a>まとめ
+
+クラウド ソリューション プロバイダー プログラムに参加しているパートナーは、パートナー センターで従量制課金の SaaS プランを購入できるようになります。 
+
+### <a name="impacted-audience"></a>対象
+
+すべてのパートナー
+
+### <a name="details"></a>詳細
+
+クラウド ソリューション プロバイダー プログラムに参加しているパートナー (Indirect Provider と Direct Bill Partner の両方を含む) は、パートナー センターで [従量制課金](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)の SaaS プランを購入できるようになります。 現在、クラウド ソリューション プロバイダー プログラムのパートナーは、 [Azure portal で従量制課金の SaaS プランを表示して購入する](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)ことができます。 この新しいエクスペリエンスにより、パートナーは、他の種類の SaaS プランと同じように、パートナー センターの CSP マーケットプレースと API を通じて、これらのプランを購入できるようになります。 
+
+### <a name="next-steps"></a>次のステップ
+
+この情報を社内の適切なすべての担当者に共有してください。
+
+
+
+
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>統合された新しいアカウント管理エクスペリエンス
+
+### <a name="categories"></a>Categories
+
+- 日付:2020 年 11 月 18 日
+- 機能
+
+## <a name="summary"></a>まとめ
+
+11 月 18 日以降、パートナー センターで、パートナー向けのユーザー エクスペリエンスが向上する新しいアカウント管理エクスペリエンスのロールアウトが開始されます。 パートナーは、[設定] > [アカウントの設定] から、すべてのプログラムのアカウントを管理できるようになります。
+
+### <a name="impacted-audience"></a>対象
+
+すべてのパートナー
+
+### <a name="details"></a>詳細
+
+アカウント管理での重要な変更点として、以前は分かれていた商用プログラム (Microsoft Partner Network、クラウド ソリューション プロバイダー、紹介など) の登録パートナーを対象とする **[パートナーの設定]** ビューと、開発者プログラム (コマーシャル マーケットプレース、Windows & Xbox など) の登録パートナーを対象とする **[開発者向け設定]** ビューが、 **[アカウントの設定]** ビューに統合されます。
+
+### <a name="entry-point"></a>エントリ ポイント
+
+パートナー センター ダッシュボードにサインインし、 **[設定]**  アイコンを選択して、 **[アカウントの設定]** をクリックします。 すべてのプロファイルと設定が組み合わされたため、パートナーと開発者のどちらかを選択する必要はなくなりました。
+
+### <a name="left-navigation-hierarchy"></a>左側のナビゲーション階層
+
+- 組織プロファイル
+   - [法的情報] - 法人プロファイル、パートナー プロファイル、会社の所在地を管理します。
+   - [テナント] - Azure AD テナント (商用と開発者) に関するすべての情報をここで追跡します。
+   - [識別子] - 会社のパートナー センター ID (MPNID、publisherId など)。
+- [ユーザー管理] - 1 か所からユーザーを管理し、商用および開発者のロールを割り当てます。 グループと Azure AD アプリケーションもここから管理できます。
+
+### <a name="next-steps"></a>次のステップ
+
+この情報を社内の適切なすべての担当者に共有してください。
+
+
+
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>中規模市場向け Office 365 E1 キャンペーン (ラテン アメリカ、アジア太平洋、インド)
+
+### <a name="categories"></a>Categories
+- 日付: 2020 年 11 月 18 日
+- 製品サービス/市場
+
+### <a name="summary"></a>まとめ
+ラテン アメリカ、インド、アジア太平洋 (アジア太平洋内の成熟市場を除く) の新興市場向け限定で、中規模市場を対象とする新しい Office 365 E1 キャンペーンが導入されます。
+
+### <a name="impacted-audience"></a>影響を受ける対象ユーザー
+上記の参加市場でクラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー。
+
+### <a name="details"></a>詳細
+キャンペーンは、CSP 向け Office 365 E1 での 30% の割引で構成されています。 2020 年 12 月 1 日に開始し、2020 年 5 月 31 日までの 6 か月間利用できます。 このキャンペーンは、MW クラウドを初めて使用する、500 シート以下のお客様だけが利用できます。 これは、クラウドへの移行を可能にするために、ラテン アメリカ、インド、アジア太平洋の新興市場に限定されていることに注意してください。 
+
+#### <a name="offer-details"></a>特典の詳細
+
+   |**プラン名**|**プラン ID**|
+   |-------------------|:------|
+   |中規模市場向け Office 365 E1 キャンペーン|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>次のステップ
+これは 12 月 1 日から利用可能になります。それまでの間に、(参加しているリージョンの) 組織内のすべての適切な連絡先とこの情報を共有してください。 参加しているリージョンでまだクラウドを利用していないお客様とのエンゲージメントを始めてください。 
+
+### <a name="questions"></a>疑問がある場合
+質問、問い合わせ、詳細については、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)にお問い合わせください。
+______________
+
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>特定の国での顧客のスクリーニングを強化するためのパートナーセンター API の更新とユーザー インターフェイス (UI) の機能強化
+
+### <a name="categories"></a>Categories
+
+- 日付: 2020 年 11 月 17 日
+- 機能 | 強化された顧客スクリーニング
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムに参加していて、以下の国に新規または既存の顧客がいる Direct Bill Partner または Indirect Provider。
+
+- アルメニア (AM)
+- アゼルバイジャン (AZ)
+- ベラルーシ (BY)
+- ハンガリー (HU)
+- カザフスタン (KZ)
+- キルギス (KG)
+- モルドバ (MD)
+- ロシア (RU)
+- タジキスタン (TJ)
+- ウズベキスタン (UZ)
+- ウクライナ (UA)
+
+### <a name="summary"></a>まとめ
+
+法令に準拠したビジネス慣行に関するお客様とパートナーへの Microsoft の継続的コミットメントの一環として、特定の国の顧客を持つ一部のパートナーに対し、パートナーが既存顧客のサブスクリプションの更新または新規顧客の新しいサブスクリプションの作成を試みるときに、これらの顧客に関していくつか追加のデータ フィールドの入力をお願いするようになります。 
+
+### <a name="details"></a>詳細
+
+Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムでの顧客サブスクリプションの取引について、顧客検証のための法令に準拠した安全な手段の提供に努めています。 この取り組みの一環としてパートナー センターの API と UI に拡張機能が導入され、次の条件をすべて満たすパートナーに影響があります。 
+
+- パートナーと Microsoft の間に直接請求関係があります (Direct Bill Partner や Indirect Provider など)
+
+- パートナーは、次の国の新規または既存の顧客と取引があります: アルメニア (AM)、アゼルバイジャン (AZ)、ベラルーシ (BY)、ハンガリー (HU)、カザフスタン (KZ)、キルギス (KG)、モルドバ (MD)、ロシア (RU)、タジキスタン (TJ)、ウズベキスタン (UZ)、ウクライナ (UA) 
+
+これらの国に顧客を持つそのようなパートナーは、次にその顧客のサブスクリプションの更新または作成を試みるときに、特定の顧客の **法的識別子** (顧客の **組織の INN** とも呼ばれます) および顧客の **電話番号** の提供を求められるようになります。 また、これらのパートナーは、必要に応じて、顧客の **ミドル ネーム** も入力することを選択できるようになります。
+
+### <a name="partner-center-enhancements"></a>パートナー センターの機能強化
+
+- 特定の国における顧客の検証を向上させるためのパートナー センターの UI の機能強化
+
+- 特定の国における顧客の検証の向上をサポートする新しい API
+
+**パートナー センターの UI の変更 - [顧客アカウント] ページ**
+
+パートナー センターの [顧客アカウント] ページが、次のように更新されました。
+
+1. **[Organization INN]\(組織の INN\)** (法的識別子とも呼ばれます)。 特定の国の顧客の場合、このフィールドが必須になります。 
+
+   > [!NOTE]
+   > データは英数字のみで入力する必要があり、ハイフン、特殊文字、スペースは使用できません。 パートナーは、これらの国の顧客の連絡先と協力して、税 ID や INN 番号など、顧客の法的識別子の状態を確認する必要があります。 国固有の情報の詳細については、次の表を参照してください。  
+
+2. **[ミドル ネーム]** 。 このフィールドは、すべての顧客について省略可能です。 顧客のミドル ネームまたはイニシャルがわかっている場合、パートナーはここに入力できます。
+
+3. **[電話番号]** 。 このフィールドは以前は省略可能でしたが、特定の国の顧客については必須になりました。  
+
+国固有の **[Organization INN]\(組織の INN\)** (法的識別子) フィールドの要件を以下に示します。
+
+| 国 | A14 領域 | ISO 国番号 | フィールドの文字の要件 | ネイティブ言語での国固有のフィールド名 | 英語の翻訳またはコメント |
+|---------|----------|------------------|------------------------|--------------------|--------------------------------------|
+| アルメニア | CEE      | AM               | 8 または 10 桁         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/Public サービス番号                     |
+| アゼルバイジャン| CEE      | AZ               | 7 または 10 桁         | :::no-loc text="ИНН/VOEN/ПИК"::: | TIN/INN/PIC              |
+| ベラルーシ | CEE      | BY               | 9 桁         | :::no-loc text="УНП"::: | UNP (これは税 ID を意味します)                    |
+| ハンガリー | CEE      | HU               | 10 または 11 桁         | :::no-loc text="TIN"::: | TIN (税 ID)                     |
+| カザフスタン | CEE      | KZ              | 12 桁         | :::no-loc text="БИН/ИИН"::: | BIN/IIN                     |
+| キルギスタン | CEE      | KG               | 14 桁         | :::no-loc text="ИНН"::: | UNN/Public サービス番号                     |
+| モルドバ  | CEE        | MD               | 6、7、8、または 13 桁         | :::no-loc text="IDNO/IDNP"::: | 法人に割り当てられた一意の状態識別番号 (IDNO) は、会計コードとしても構成されます。 \"オープン データ data.gov.md の政府ポータルで Ministry of Information and Communications Technology によって発行され、モルドバ共和国で登録された会社に関する State Register of Law Units。\"                    |
+| ロシア | CEE      | RU               | 9、10、または 12 桁         | :::no-loc text="ИНН"::: | INN                     |
+| タジキスタン | CEE      | TJ               | 9、10、または 12 桁     | :::no-loc text="ИНН/ЕИН/КПП"::: | INN/EIN/KPP                     |
+| ウズベキスタン | CEE     | UZ               | 9 桁                 | :::no-loc text="INN":::         | INN                               |
+| ウクライナ   | CEE      | UA               | 8、10、または 12 桁      | :::no-loc text="EGRPOU/EDRPOU":::        | 法人の識別コード                             | 
+
+**パートナー センター API への変更**
+
+パートナー センター API については、次のコントラクトの変更が行われています。 これらの変更は、前に説明した国の顧客アカウントを管理するパートナーに限定されます。
+
+> [!NOTE]
+> パートナー センターからの JSON 応答の厳密な解釈を使用しているパートナーの場合、パートナー側での更新が完了していないと、これらの変更により影響を受ける可能性があります。 JSON をパートナー センター API と統合することは推奨されません。
+
+| REST リソースの更新 | 関連するパートナー センター ドキュメント |
+|---------------------------|-----------------------|
+| 新しい必須フィールド: organizationRegistrationNumber | - [顧客を作成する](/partner-center/develop/create-a-customer#company-profile)<br/>- [Indirect Reseller の顧客を作成する](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [顧客リソース](/partner-center/develop/customer-resources#customercompanyprofile) |
+| 更新されて必須になったフィールド: PhoneNumber<br/>省略可能なフィールド: MiddleName | - [ユーティリティ リソース](/partner-center/develop/utility-resources#address) |
+| 新しい BadRequest REST エラーコード: 600002、600049、600050、600051 | - [パートナー センター REST エラー コード](/partner-center/develop/error-codes#error-codes) |
+
+*顧客に対して提案される外部コントラクト:*
+
+```
+public class CustomerCompanyProfile : ResourceBaseWithLinks
+{
+               public string TenantId { get; set; }
+               public string Domain { get; set; }
+               public string CompanyName { get; set; }
+               public Address Address { get; set; }
+               public string Email { get; set; }
+ 
+                // Newly added fields
+               public string OrganizationRegistrationNumber { get; set; }
+}
+ 
+public class Address
+{
+                public string Id { get; set; }
+                public string Country { get; set; }
+                public string Region { get; set; }
+                public string City { get; set; }
+                public string PostalCode { get; set; }
+                public string AddressLine1 { get; set; }
+                public string AddressLine2 { get; set; }
+                public string AddressLine3 { get; set; }
+                public string FirstName { get; set; }
+                public string LastName { get; set; }
+                public string PhoneNumber { get; set; }
+                public string EmailAddress { get; set; }
+ 
+                // Newly added fields
+                public string MiddleName { get; set; }
+}
+```
+
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>新しいコマース オファーに関するパートナー請求通貨の EU/EFTA の変更。  
 
 ### <a name="categories"></a>Categories
@@ -146,8 +359,16 @@ Microsoft は、パートナー センター API を呼び出しているパー�
 - パートナーには、ソリューションの更新が期待どおりに動作するよう、変更を含むフライトにテナントを追加することによってテストを行うことができるように、ご連絡いただくことをお願いします。
 
 
+### <a name="next-steps-for-partners"></a>パートナー向けの次のステップ
 
-## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>テストが利用可能:教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイス (UI) の機能強化
+- パートナー センターのこれらの新しい UI と API の変更を確認します。 これらの国のいずれかで、次に顧客のサブスクリプションの作成または既存のサブスクリプションの更新を試みるときに、顧客のアカウント情報を調べて、その顧客の 2 つの新しい必須フィールドにデータが追加されていることを確認します: 組織の INN (法的識別子) と電話番号。 この情報は、パートナー センターの[ダッシュボード](https://partner.microsoft.com/dashboard)または Partner Center [API](/partner-center/develop/create-a-customer#company-profile) を使用して更新できます。
+
+- この情報を組織内の該当するチームと共有し、これらの変更内容に対して準備できるようにします。
+
+
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>テストが利用可能:教育機関の顧客の検証プロセスにおけるパートナー センター API とユーザー インターフェイス (UI) の機能強化
 
 ### <a name="categories"></a>Categories
 
