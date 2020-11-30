@@ -1,7 +1,7 @@
 ---
 title: 他のパートナーとの連携
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 間接プロバイダーがクラウドソリューションプロバイダー (CSP) プログラムで間接リセラーと提携し、どのロールが適切かを判断する方法について説明します。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1089c2eeb419bbc826a3df433d3ed6c25273a7cc
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 2ae635b77acc82ea705f3405d1c15aa7d02684dd
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377196"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322102"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>パートナーセンターで他のパートナーと協力するさまざまな方法
 
@@ -26,27 +26,27 @@ Microsoft のクラウドソリューションプロバイダー (CSP) プログ
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>間接プロバイダー/間接リセラー モデル
 
-このモデルは 2 層モデルとも呼ばれ、間接プロバイダーと間接リセラーが連携して、複数のロケール、業種、業界の組織に Microsoft クラウド ベースのサービスを販売します。 
+このモデルは 2 層モデルとも呼ばれ、間接プロバイダーと間接リセラーが連携して、複数のロケール、業種、業界の組織に Microsoft クラウド ベースのサービスを販売します。
 
 ### <a name="indirect-providers"></a>間接プロバイダー
 
-間接プロバイダー (ディストリビューターとも呼ばれます) は、マイクロソフトから直接製品とサブスクリプションを購入し、リセラーを通じてお客様にこれらのソリューションを提供します。 プロバイダーは間接リセラーと連携することで、リーチと顧客基盤を拡大することができます。 
+間接プロバイダー (ディストリビューターとも呼ばれます) は、マイクロソフトから直接製品とサブスクリプションを購入し、リセラーを通じてお客様にこれらのソリューションを提供します。 プロバイダーは間接リセラーと連携することで、リーチと顧客基盤を拡大することができます。
 
-CSP で間接プロバイダーとして承認されている場合は、間接リセラーやお客様との関連付けについて「[パートナーとCSPの間接リセラー](indirect-provider-tasks-in-partner-center.md)」をご覧ください。 
+CSP で間接プロバイダーとして承認されている場合は、間接リセラーやお客様との関連付けについて「[パートナーとCSPの間接リセラー](indirect-provider-tasks-in-partner-center.md)」をご覧ください。
 
 ### <a name="indirect-resellers"></a>間接リセラー
 
-間接リセラーは、間接プロバイダーに協力を提供するパートナーであり、間接プロバイダーが持つマイクロソフトとの直接の関係や、カスタマー サポートと請求処理のインフラストラクチャを利用することができます。 間接プロバイダーとの連携を通じて、経験豊富なテクノロジ プロバイダーの協力を得ることができ、多額の設備投資なしに市場に参入できると共に、より広範なマイクロソフト ソリューションのラインアップを取り扱うことができます。 
+間接リセラーは、間接プロバイダーに協力を提供するパートナーであり、間接プロバイダーが持つマイクロソフトとの直接の関係や、カスタマー サポートと請求処理のインフラストラクチャを利用することができます。 間接プロバイダーとの連携を通じて、経験豊富なテクノロジ プロバイダーの協力を得ることができ、多額の設備投資なしに市場に参入できると共に、より広範なマイクロソフト ソリューションのラインアップを取り扱うことができます。
 
 現在、間接リセラーである場合、または間接リセラーとしての CSP への登録にご興味がある場合は、「[CSP での間接プロバイダーとの連携](indirect-reseller-tasks-in-partner-center.md)」で、間接プロバイダーや顧客との関連付けの詳細をご覧ください。
 
-CSP で間接リセラーと間接パートナーのどちらで登録するか検討中の場合は、 [Microsoft Partner Network Web サイト](https://partner.microsoft.com) の「[Explore the Indirect model (間接モデルの概要)](https://partner.microsoft.com/cloud-solution-provider/indirect)」をご覧ください。   
+CSP で間接リセラーと間接パートナーのどちらで登録するか検討中の場合は、 [Microsoft Partner Network Web サイト](https://partner.microsoft.com) の「[Explore the Indirect model (間接モデルの概要)](https://partner.microsoft.com/cloud-solution-provider/indirect)」をご覧ください。
 
 ## <a name="multi-partner-support"></a>マルチパートナーのサポート
 
 パートナーセンターのマルチパートナー機能は、顧客が複数のパートナーと協力する必要がある場合のシナリオをサポートします。 たとえば、お客様は Office 365 の専門知識を持つパートナーに依頼し、さらに Microsoft Azure を専門とする別のパートナーにも依頼することができます。 詳しくは、「[マルチパートナーのサポート](multipartner.md)」をご覧ください。
 
-マルチパートナのサポートは、マイクロソフトのナショナル クラウド サービスでも利用できます。 
+マルチパートナのサポートは、マイクロソフトのナショナル クラウド サービスでも利用できます。
 
 ## <a name="multi-channel-support"></a>マルチチャンネルのサポート
 
@@ -55,4 +55,4 @@ CSP で間接リセラーと間接パートナーのどちらで登録するか�
 マルチチャンネルのサポートは、マイクロソフトのナショナル クラウド サービスでも利用できます。
 
 > [!IMPORTANT]  
-> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](announcements/index.md)など、通常の伝達方法でお知らせします。
+> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 この制限は、CSP 取引の実行に使用されるテナントにのみ適用されます。 Csp 以外のテナントを企業内で使用する場合、csp パートナーは別の CSP パートナーからオンラインサービスを購入できます。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](announcements/index.md)など、通常の伝達方法でお知らせします。
