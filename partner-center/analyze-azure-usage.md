@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
+ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031885"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96354226"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>顧客と Azure サブスクリプションのパフォーマンスに関するデータを取得する
 
@@ -30,9 +30,9 @@ ms.locfileid: "92031885"
 - 管理エージェント
 - 販売代理店
 
-データはビジネス上の意思決定を促進します。 **Azure 利用状況**のページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
+データはビジネス上の意思決定を促進します。 **Azure 利用状況** のページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 
-**Azure の使用状況**にアクセスするには、パートナーセンターの[ダッシュボード](https:/partner.microsoft.com/dashboard)にサインインします。 パートナーセンターメニューから [ **分析** ] を選択し、[ **Azure の使用状況**] を選択します。
+**Azure の使用状況** にアクセスするには、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。 パートナーセンターメニューから [ **分析** ] を選択し、[ **Azure の使用状況**] を選択します。
 
 > [!NOTE]
 > Azure usage analytics は、Cloud Solution Provider プログラムのパートナーに対してのみ使用できます。
@@ -70,6 +70,6 @@ ms.locfileid: "92031885"
 
 - 更新されたサブスクリプションの数。
 
- ## <a name="next-steps"></a>次の手順
+ ## <a name="next-steps"></a>次のステップ
 
 - [お客様向けの Azure プランを購入して、最新の Azure サービスに従量課金制料金でアクセス &](purchase-azure-plan.md)
