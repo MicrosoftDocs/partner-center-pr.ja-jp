@@ -1,17 +1,17 @@
 ---
 title: Azure portal でのプライベート Azure Marketplace の作成と管理
-description: Azure portal でのプライベート Azure Marketplace (プレビュー) の作成と管理について説明します。
+description: Azure portal でのプライベート Azure Marketplace (プレビュー) の作成と管理について説明します。 プライベート Azure Marketplace (プレビュー) を使用すると、管理者は、ユーザーが使用できるサードパーティ製のソリューションを管理できます。
 ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006941"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439262"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Azure portal でのプライベート Azure Marketplace (プレビュー) の作成と管理
 
@@ -221,6 +221,6 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="プランを作成し、使用可能なプランを表示できることを示すバナーを提供します。":::
 
-## <a name="contact-support"></a>サポートにお問い合せください
+## <a name="contact-support"></a>サポートにお問い合わせください
 
 Azure Marketplace のサポートについては、 [Microsoft Q&A](/answers/products/)にアクセスしてください。 

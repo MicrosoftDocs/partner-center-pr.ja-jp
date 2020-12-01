@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360073"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439245"
 ---
 # <a name="locate-important-ids-for-a-user"></a>ユーザーの重要な Id を検索する
 
@@ -43,7 +43,7 @@ Azure portal 内で Azure AD テナント ID またはプライマリドメイ�
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="2つの強調表示されたフィールド、テナント ID、プライマリドメイン名が表示された概要ページが表示されます。":::
 
-4. テナント ID は、他のいくつかの方法で Azure portal で確認できます。 メニューから **[Azure Active Directory]** を選択します。 次に、メニューの [ **管理** ] セクションを見つけて、[ **プロパティ** ] を選択します。
+4. テナント ID は、他のいくつかの方法で Azure portal で確認できます。 メニューから **[Azure Active Directory]** を選択します。 次に、メニューの [ **管理** ] セクションを見つけて、[ **プロパティ**] を選択します。
 
    また、[プロパティ] ページには、ユーザーに関連付けられているテナント ID も表示されます。
 
@@ -57,7 +57,7 @@ Azure portal 内で Azure AD テナント ID またはプライマリドメイ�
 
 2. メニューから **[Azure Active Directory]** を選択します。
 
-3. メニューの [ **管理** ] セクションに移動し、[ **ユーザー** ] を選択します。
+3. メニューの [ **管理** ] セクションに移動し、[ **ユーザー**] を選択します。
 
       :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="[ユーザー] オプションが強調表示されている Azure Active Directory メニューを表示します。":::
 
@@ -78,3 +78,4 @@ Azure portal 内で Azure AD テナント ID またはプライマリドメイ�
 - [PowerShell または CLI を使用してプログラムでテナント ID を検索する](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [ユーザープロファイルの詳細については、Azure Active Directory を参照してください。](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [パートナーセンターで顧客の詳細を表示またはエクスポートする方法について説明します](see-your-customer-list.md)
+
