@@ -9,26 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198018"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474072"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>顧客アカウントのユーザーとユーザーライセンスを管理する
-
-**適用対象**
-
-- パートナー センター
 
 **適切なロール**
 
 - グローバル管理者
 - ユーザー管理の管理者
 - 管理エージェント
-- 販売代理店
-- ヘルプデスク エージェント
+
 
 顧客のアカウントで新しいユーザーを作成および削除することができます。 また、削除後30日以内に削除した1つ以上のユーザーアカウントを復元することもできます。 ユーザーの以前のサブスクリプションの割り当ても (以前の割り当てが利用可能な場合は) 復元されます。
 
@@ -46,7 +41,7 @@ ms.locfileid: "92198018"
 
 3. 顧客メニューで、**[Users and Licenses]\(ユーザーとライセンス\)** を選択します。
 
-4. 追加するユーザーごとに、**[サブスクリプションの追加]** を選び、アクセス許可やライセンスなどの情報を入力します。 変更内容を**保存**します。
+4. 追加するユーザーごとに、**[サブスクリプションの追加]** を選び、アクセス許可やライセンスなどの情報を入力します。 変更内容を **保存** します。
 
 5. 必ずユーザー名と一時パスワードを記録してユーザーに送信してください。
 

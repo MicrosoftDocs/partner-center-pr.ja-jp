@@ -9,31 +9,25 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367356"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474055"
 ---
-# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>分析を使用して間接リセラーのパフォーマンスを分析する
-
-**適用対象**
-
-- パートナー センター
-- クラウド ソリューション プロバイダー プログラム パートナー
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>分析を使用して間接リセラーのパフォーマンスを分析する
 
 **適切なロール**
 
 - グローバル管理者
 - ユーザー管理の管理者
-- 管理エージェント
-- 販売代理店
 
-データはビジネス上の意思決定を促進します。 **リセラー分析**のページのメトリックを使用して、パートナーの成功度、間接リセラーの成功度、注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
+
+データはビジネス上の意思決定を促進します。 **リセラー分析** のページのメトリックを使用して、パートナーの成功度、間接リセラーの成功度、注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 
 > [!NOTE]
-> 間接リセラー分析は、クラウド ソリューション プロバイダー プログラムに参加しているパートナーのみが利用できます。
+> 間接リセラー分析は、クラウドソリューションプロバイダープログラムの間接プロバイダーに対してのみ使用できます。
 
 ## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>表示可能なリセラー分析メトリックの種類
 

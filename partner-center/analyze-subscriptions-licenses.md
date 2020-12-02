@@ -9,19 +9,14 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 07/08/2020
-ms.openlocfilehash: 8d16ef9150e83fbdd3c189aaa878ad466f3fe1f4
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367306"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474089"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>サブスクリプションとライセンスを分析して、ビジネス上の意思決定や新しい目標を促進
-
-**適用対象**
-
-- パートナー センター
-- クラウド ソリューション プロバイダー プログラム パートナー
 
 **適切なロール**
 
@@ -48,32 +43,44 @@ ms.locfileid: "89367306"
 
 **まとめ**  
  - **Subscriptions sold** (サブスクリプションの販売数): 指定した期間に作成されたサブスクリプションの数  
- - **Licenses sold** (ライセンスの販売数): 指定した期間に販売されたライセンスの数   
+  
+ - **Licenses sold** (ライセンスの販売数): 指定した期間に販売されたライセンスの数  
+  
  - **Subscriptions renewing in 30 days** (30 日以内に更新するサブスクリプション): 指定した期間中に状態がアクティブで、**Autorenew** が true であるサブスクリプションの数
+ 
  - **Active subscriptions** (アクティブなサブスクリプション): 状態が **Active** であるサブスクリプション  
+ 
  - **Suspended subscriptions** (中断されたサブスクリプション): 中断されたサブスクリプションの数、日付フィルターなし  
 
-**製品の内訳**  
+**製品の内訳**
+  
  - **Subscription count** (サブスクリプション数): サブスクリプションの販売数で並べ替えた上位 5 つの製品  
+ 
  - **License count** (ライセンス数): ライセンスの販売数で並べ替えた上位 5 つの製品
 
 **サブスクリプションの維持**
+
  - **Renewed subscriptions** (更新されたサブスクリプション): 過去 30 日間に更新されたサブスクリプション  
 
 **サブスクリプションのチャーン**  
  - **New subscriptions** (新規サブスクリプション): 期間中の新しいサブスクリプションの数 (試用版プランを除く)  
+ 
  - **Deprovisioned subscriptions** (プロビジョニング解除されたサブスクリプション数): 日付ごとのプロビジョニング解除または中断されたサブスクリプションの数  
 
-**中断されたサブスクリプション**  
+**中断されたサブスクリプション** 
+ 
  - 状態が **Suspended** (中断) であるすべてのサブスクリプションの一覧 (試用版プランを除く)  
   
 **アクティブなサブスクリプション**
+
  - すべてのアクティブなサブスクリプションの一覧  
 
 **試用版のサブスクリプションの変換**  
- - **Trial conversion** (試用版の変換): 指定した期間中に試用版から有料版への変換が行われたすべての**アクティブ** サブスクリプションの数  
+
+ - **Trial conversion** (試用版の変換): 指定した期間中に試用版から有料版への変換が行われたすべての **アクティブ** サブスクリプションの数  
 
 **30 日以内に終了する試用版サブスクリプション**  
+
  - 開始されたが、終了日が 30 日以内であり、有料版の開始日がサブスクリプションに関連付けられていない試用版の一覧  
 
 ## <a name="next-steps"></a>次のステップ

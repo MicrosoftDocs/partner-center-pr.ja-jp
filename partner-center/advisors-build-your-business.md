@@ -9,27 +9,24 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527008"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474174"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>アドバイザー: Office 365 試用版への招待と購入プランを使用して、クライアントベースを構築する
 
-**適用対象**
 
-- パートナー センター
- 
 **適切なロール**
 
 - アドバイザー
 
 
-**パートナーセンター**は、認定された Microsoft advisor として、クライアントベースを拡大し、クライアントとの継続的な関係を作成する機会を提供します。 パートナーセンターでは、クライアントの試用版への招待と購入プランを送信したり、提供を承認されたサービスに応じて、委任された管理サービスを提供したりすることができます。
+**パートナーセンター** は、認定された Microsoft advisor として、クライアントベースを拡大し、クライアントとの継続的な関係を作成する機会を提供します。 パートナーセンターでは、クライアントの試用版への招待と購入プランを送信したり、提供を承認されたサービスに応じて、委任された管理サービスを提供したりすることができます。
 
-パートナーセンターにサインインすると、**試用版と購入プラン**にアクセスして、ビジネスの成長に役立つツールとタスクがいくつか表示されます。
+パートナーセンターにサインインすると、 **試用版と購入プラン** にアクセスして、ビジネスの成長に役立つツールとタスクがいくつか表示されます。
 
 ## <a name="create-and-send-trial-invitations"></a>試用版への招待を作成して送信する
 
@@ -41,7 +38,7 @@ Office 365 を試すことができるように、顧客に送信する招待を
 代理管理を提供することが認定されている場合は、試用版への招待にオプションを追加して、顧客に代わってサブスクリプションを管理することができます。 これにより、顧客は Office 365 を簡単に試すことができます。
 
 試用版への招待を作成すると、カスタムの URL が作成されます。 URL には、サブスクリプションアドバイザーとしてユーザーを識別するコードが埋め込まれています。 この URL は、1人の顧客に対して使用することも、複数の顧客に使用することもできます。 URL を電子メールでお客様に送信したり、web サイトに投稿したりすることができます。
-試用版への招待の詳細については、「[試用版への招待を作成する](advisors-create-a-trial-invitation.md)」を参照してください。
+試用版への招待の詳細については、「 [試用版への招待を作成する](advisors-create-a-trial-invitation.md)」を参照してください。
 
 ## <a name="create-and-send-purchase-offers"></a>購入プランを作成して送信する
 
@@ -54,4 +51,6 @@ Office 365 を試すことができるように、顧客に送信する招待を
 
 お客様のライセンスの数が異なる場合は、新しいプランを送信するか、サブスクリプションの購入時にライセンスの数を変更することができます。
 
-購入プランの詳細については、「[購入プランを作成する](advisor-create-a-purchase-offer.md)」を参照してください。
+## <a name="next-steps"></a>次のステップ
+
+購入プランの詳細については、「 [購入プランを作成する](advisor-create-a-purchase-offer.md)」を参照してください。

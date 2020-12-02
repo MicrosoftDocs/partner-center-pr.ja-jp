@@ -9,32 +9,24 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4bb9311dc88a4abf4f2e14ae075430d1978b4bfe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999646"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474038"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>ビジネスプロファイルの分析-対象顧客と潜在的な紹介を把握していることを確認します。
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**適用対象**
-
-- パートナー センター
-- Microsoft Partner Network パートナー
-- クラウド ソリューション プロバイダー プログラム パートナー
-
 **適切なロール**
 
 - グローバル管理者
 - MPN パートナー管理者
-- 紹介管理者
 - ビジネス プロファイル管理者
-- 管理エージェント
-- 販売代理店
+- 紹介管理者
 
 パートナーセンターの [ **ビジネスプロファイル** の詳細情報] ページでは、対象となる顧客の注意をどの程度把握しているか、および紹介を生成しているかどうかを確認できます。
 
@@ -44,7 +36,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 会社の [ビジネスプロファイル](create-a-marketing-profile.md)を投稿した後、プロファイルを見つけた顧客の数、ユーザーがクリックして詳細を確認する頻度、情報に関する要求を送信する頻度 (rfis) に関するデータが表示されます。 このデータは、ビジネスプロファイルを改良して潜在顧客を増やしたり、関連する潜在顧客を増やしたりするときに使用します。
 
-**プロファイルパフォーマンスの概要**グラフには、選択した期間に関する次の情報が含まれています。
+**プロファイルパフォーマンスの概要** グラフには、選択した期間に関する次の情報が含まれています。
 
 - **検索結果**: お客様がビジネスプロファイルを検索するために使用している検索用語に関する情報です。
 - **ページビュー**: 顧客がビジネスプロファイルを表示した合計回数。
@@ -53,3 +45,8 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 > [!TIP]
 > [これらの参照への応答](manage-leads.md)を開始する際には、参照情報の[ページ](referral-insights.md)を確認して、参照の実行方法の詳細を確認してください。
+
+## <a name="next-steps"></a>次のステップ
+
+- [ビジネス プロファイルの作成](create-a-marketing-profile.md)
+- [パートナーセンターで紹介の分析情報を取得し、紹介の効果を確認する](referral-insights.md)

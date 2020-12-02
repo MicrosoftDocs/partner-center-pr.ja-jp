@@ -9,24 +9,25 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02bd7ca573be4b0b61da546f66c6102fbc752c2d
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8cac2a6edc9199befeae940ed271c3236440c260
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527688"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96473953"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>パートナー センターで顧客に Azure サブスクリプションを割り当てる
 
-**適用対象**
+**適切なロール**
 
-- パートナー センター
+- グローバル管理者
+- 販売代理店
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>顧客に Azure サブスクリプションを割り当てる
 
 1. **パートナー センター** メニューから **[顧客]** を選択し、管理対象の顧客を検索します。
 
-2. 行の末尾にある下向き矢印を選択して顧客レコードを展開し、**[Microsoft Azure の管理ポータル]** を選択します。 顧客のサブスクリプションを管理できる[Azure portal](https://portal.azure.com/)が表示されます。
+2. 行の末尾にある下向き矢印を選択して顧客レコードを展開し、**[Microsoft Azure の管理ポータル]** を選択します。 顧客のサブスクリプションを管理できる [Azure portal](https://portal.azure.com/) が表示されます。
 
 3. Azure Portal から、**[サブスクリプション]** を選択します。
 
@@ -49,7 +50,7 @@ ms.locfileid: "87527688"
 
 3. 顧客のユーザーにロールを割り当てて、サブスクリプションのリソースを作成して管理できるようにします。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [CSP パートナーが顧客にサブスクリプションを販売する方法](customer-subscriptions.md)
 

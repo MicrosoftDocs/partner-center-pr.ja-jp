@@ -1,25 +1,21 @@
 ---
 title: インセンティブの支払いと税金のプロファイルに関する FAQ
 ms.topic: article
-ms.date: 10/27/2020
+ms.date: 12/01/2020
 description: インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問。 支払いと税金のプロファイルが表示されない理由、およびその対処方法についての質問があります。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: d7a5e5ae5fa8bd23c3158efe7c0880f67544f9b9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133135"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474327"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>インセンティブの支払いと税金のプロファイルに関してよく寄せられる質問
-
-適用対象:
-
-- パートナー センター
 
 適切なロール:
 
@@ -53,7 +49,7 @@ Microsoft インセンティブプログラムの支払いを受け取るには�
 
 2. 歯車アイコンを選択して **[設定]** メニューを開きます。
 
-3. [ **パートナーの設定** ] を選択します。
+3. [ **パートナーの設定**] を選択します。
 
 4. **[アカウントの設定]** で、 **[Payout and tax]\(支払いと税金\)** を選択し、 **[Payout and tax profile]\(支払いおよび税務プロファイル\)** を選択します。 既存のすべての支払いおよび税務プロファイルとその状態が、編集可能な状態で表示されます。
 
@@ -65,7 +61,7 @@ Microsoft インセンティブプログラムの支払いを受け取るには�
 
 MPN の場所に対して作成された税務プロファイルは、その MPN の場所が他のインセンティブ プログラムに参加すると再利用され、自動的に入力されます。 ただし、例外が発生する場合もあります。 たとえば、新しいインセンティブ プログラムの支払いルールに基づいて、税務プロファイルの追加情報が求められることがあります。  
 
-## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみサインインでき @onmicrosoft.com ます。 どうすればよいですか。
+## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみサインインでき @onmicrosoft.com ます。 どうすればいいですか。
 
 ドメインを AAD アカウントに追加するには、アカウント管理者に連絡してください。
 
@@ -79,13 +75,15 @@ MPN の場所に対して作成された税務プロファイルは、その MPN
 
 3. **[アカウントの設定]** で、 **[Payout and tax]\(支払いと税金\)** を選択し、 **[Payout and tax profile]\(支払いおよび税務プロファイル\)** を選択します。
 
-4. [ **税プロファイル** ] を選択します。
+4. [ **税プロファイル**] を選択します。
 
 5. [ **有効期限の日付** ] 列を選択し、有効期限が切れた、または期限切れになる税プロファイルに移動します。
 
 6. [ **編集** ] を選択して、税務プロファイルの編集プロセスを開始します。
 
-7. 必要な詳細情報を提供して、税フォームを更新します。
+7. [ **税フォーム** ] セクションを探して、[ **税フォームの起動**] を選択します。
+
+8. 必要な詳細情報を提供して、税フォームを更新します。
 
 ## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Microsoft は、従業員の個人銀行口座ではなく、会社の銀行情報を実際に確認するにはどうすればよいでしょうか。
 

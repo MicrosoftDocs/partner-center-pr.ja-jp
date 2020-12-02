@@ -9,20 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006725"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474259"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>パートナー センターで新しい顧客レコードを追加する方法
 
-**適用対象**
-
-- パートナー センター
-- 米国政府機関向け Microsoft Cloud のパートナー センター
-- クラウド ソリューション プロバイダー プログラム パートナー
 
 **適切なロール**
 
@@ -31,10 +26,10 @@ ms.locfileid: "92006725"
 - 管理エージェント
 - 販売代理店
 
-この記事では、パートナーセンターで顧客の一覧に新しい顧客を追加する方法について説明します。 サブスクリプションを販売したり、課金を管理したり、顧客にサポートを提供したりする前に、次の手順に従ってください。
+この記事では、パートナーセンターで顧客の一覧に新しい顧客を追加する方法について説明します。 これらの手順は、サブスクリプションを販売したり、課金を管理したり、顧客にサポートを提供したりする前に行う必要があります。
 
 >[!NOTE]
->[マルチチャンネル](multichannel.md) シナリオまたは[マルチパートナー](multipartner.md) シナリオを通じてパートナー センターに顧客レコードを既に持っている顧客など、既存の顧客の場合は、ここに示す手順に従う代わりに、[顧客との再販業者関係を要求](request-a-relationship-with-a-customer.md)できます。
+>[マルチチャネル](multichannel.md)またはマルチ[パートナー](multipartner.md)のシナリオを通じてパートナーセンターに顧客レコードを既に所有しているユーザーを含め、既存の顧客については、ここで説明する手順に従うのではなく、[それらとの関係を要求](request-a-relationship-with-a-customer.md)する必要があります。
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>パートナー センターで新しい顧客を追加するには
 
@@ -52,7 +47,7 @@ ms.locfileid: "92006725"
    >- 完全で正確な住所 (場所の詳細、市区町村、都道府県、国、郵便番号など) を入力します
 
    >[!IMPORTANT]
-   > 2019 年 10 月 1 日に、Microsoft Cloud 契約に置き換わるものとして、CPS プログラムに **Microsoft 顧客契約**が導入されました。 [Microsoft カスタマー契約および同意を確認する方法](confirm-customer-agreement.md)については、こちらを参照してください。
+   > 2019 年 10 月 1 日に、Microsoft Cloud 契約に置き換わるものとして、CPS プログラムに **Microsoft 顧客契約** が導入されました。 [Microsoft カスタマー契約および同意を確認する方法](confirm-customer-agreement.md)については、こちらを参照してください。
   
 3. 間接プロバイダーの場合は、この顧客のサブスクリプションに関連付ける間接リセラーを一覧から選択します。
 
@@ -67,7 +62,7 @@ ms.locfileid: "92006725"
 
 7. 顧客情報の追加が完了し、必要なサブスクリプションを購入したら、**[完了]** を選択します。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - Cloud Solution Provider プログラムを使用して顧客に販売できるものの詳細については、「 [Cloud Solution provider プログラムのパートナープラン](csp-offers.md)」を参照してください。
 
