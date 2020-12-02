@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
+ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947666"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96513299"
 ---
 # <a name="payout-schedules-and-policy-details"></a>支払いスケジュールとポリシーの詳細
 
@@ -31,16 +31,18 @@ ms.locfileid: "94947666"
 | Event | 説明 | レポートの可視性 | 調節 |
 | --- | --- | --- | --- |
 | トランザクションの使用状況または月 | 顧客がサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月1** |
-| 注文書が作成されました | 合計使用量、合計トランザクション数 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月2** |
-| ISV 支払いの獲得が作成されました | 機関の費用と支払いの利益を確認する | [支払いステートメント](payout-statement.md)のトランザクション履歴で未処理としてマークされている | **Month 3 (第1週)** |
+| Microsoft は請求金額を計算します | 合計使用量、合計トランザクション数 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月2** |
+| 投稿された支払い | 機関の費用と支払いの利益を確認する | [支払いステートメント](payout-statement.md)のトランザクション履歴で未処理としてマークされている | **Month 3 (第1週)** |
 | 支払いを準備する | 毎月の支払いのために収益が準備されています | [支払明細書](payout-statement.md)のトランザクション履歴で、次のようにマークされています。 | **Month 3 (第1週)** |
-| **支払い日** | **支払いはパブリッシャーに送信されます** | **トランザクション履歴と、支払い [明細書](payout-statement.md)の支払いセクションで送信済みとしてマークされます。** | **月 3 (15 日以降)** |
+| **送信された支払い** | **支払いはパブリッシャーに送信されます** | **トランザクション履歴と、支払い [明細書](payout-statement.md)の支払いセクションで送信済みとしてマークされます。** | **月 3 (15 日以降)** |
 | 顧客によって支払われる請求書 | Microsoft がお客様から支払いを収集します | 変更なし | **月 4 ~ 12** |
 |
 
 \* 支払い日は太平洋標準時 (PST) です。
 
-### <a name="customers-who-pay-using-credit-card-or-invoice"></a>クレジットカードまたは請求書を使用して支払いを行う顧客
+:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="エンタープライズ契約のお客様の支払いのタイムライン。":::
+
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>クレジットカードまたは請求書を使用したトランザクション (チェック/ワイヤ)
 
 クレジットカードまたは月次請求書によるすべての購入には、顧客から資金が収集されることを保証するために、30日間の保持期間があります。
 
@@ -48,13 +50,15 @@ ms.locfileid: "94947666"
 | --- | --- | --- | --- |
 | トランザクションの使用状況または月 | 顧客がサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月1** |
 | 顧客によって支払われる請求書 | 合計使用量、合計トランザクション金額、および顧客支払い請求書の確認 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月2** |
-| ISV 支払いの獲得が作成されました | 機関の費用と支払いの利益を確認する | [支払いステートメント](payout-statement.md)のトランザクション履歴で未処理としてマークされている | **月2** |
-| 30日間保持期間 | 資金、可能なチャージバック、返金要求の収集を確認する | [支払いステートメント](payout-statement.md)のトランザクション履歴で未処理としてマークされている | **月3** |
+| 投稿された支払い | 機関の費用と支払いの利益を確認する | [支払いステートメント](payout-statement.md)のトランザクション履歴で未処理としてマークされている | **月2** |
+| 30日間の保持期間 | ファンド、可能なチャージバック、返金要求の収集を確認する | [支払いステートメント](payout-statement.md)のトランザクション履歴で未処理としてマークされている | **月3** |
 | 支払いを準備する | 毎月の支払いのために収益が準備されています | [支払明細書](payout-statement.md)のトランザクション履歴で、次のようにマークされています。 | **Month 4 (第1週)** |
-| **支払い日** | **支払いはパブリッシャーに送信されます** | **トランザクション履歴と、支払い [明細書](payout-statement.md)の支払いセクションで送信済みとしてマークされます。** | **Month 4 (15 日以降)** |
+| **送信された支払い** | **支払いはパブリッシャーに送信されます** | **トランザクション履歴と、支払い [明細書](payout-statement.md)の支払いセクションで送信済みとしてマークされます。** | **Month 4 (15 日以降)** |
 |
 
 \* 支払い日は太平洋標準時 (PST) です。
+
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="クレジットカードおよび請求書の顧客に対する支払いのタイムライン。":::
 
 ## <a name="process-for-customer-non-payment"></a>顧客が未払いの場合のプロセス
 
@@ -95,6 +99,6 @@ Microsoft では、次のいずれかの方法を使用して、支払い済み�
 | 電信送金      | 7 から 10 営業日                         |
 |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [税の詳細](tax-details-marketplace.md)
