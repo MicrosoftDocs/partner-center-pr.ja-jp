@@ -1,20 +1,20 @@
 ---
-title: 有効な単価の計算
+title: 有効な単価計算
 ms.topic: how-to
 ms.date: 11/10/2020
-description: 有効な価格単位とその計算方法について説明します。 サンプル計算が含まれています。
+description: 有効な単価とその計算方法について説明します。 この記事には、サンプル計算も含まれています。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498569"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556329"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure プランの使用の有効な単価計算
 
@@ -35,7 +35,7 @@ ms.locfileid: "94498569"
 メーターが階層化された価格を使用しているかどうかわからない場合は、以下の手順を使用して確認してください。 
 
 1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
-2. [ **販売** ] を選択し、[ **価格とオファー** ] を選択して、[ **Azure プランの価格** ] を選択します。
+2. [ **販売**] を選択し、[ **価格とオファー**] を選択して、[ **Azure プランの価格**] を選択します。
 3. ID でメーターを見つけ、価格データをダウンロードします。 
 
 ## <a name="sample-calculation"></a>サンプル計算
@@ -55,7 +55,7 @@ ms.locfileid: "94498569"
 >[!NOTE]
 >注: この例のメーターには価格レベルはありません。
 
-| Date | BCU (課金対象の使用量単位) | BC (請求可能なコスト) | 有効な単価 |
+| 日付 | BCU (課金対象の使用量単位) | BC (請求可能なコスト) | 有効な単価 |
 | ------ | ----------- | ----------- | ----------- |  
 | 3-8 月 | 29 | 21.39 | 0.737586206896552 |
 | 10 ~ 8 月 | 210.950039 | 155.63 | 0.737757626107858 |

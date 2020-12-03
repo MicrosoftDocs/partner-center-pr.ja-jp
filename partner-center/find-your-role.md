@@ -1,6 +1,6 @@
 ---
 title: 割り当てられたロールを見つける
-description: パートナーセンターで、ロールとアクセス許可を検索する方法について説明します。
+description: パートナーセンターで、割り当てられているロール、アクセス許可、およびグローバル管理者を検索する方法について説明します。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: e382509ae11797d81b5b56b3f1c58e7b1ebafee2
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 4f4a36bbe5021b6c73025e14bf3f608bd6a269e8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92010697"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556278"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>自分のロール、アクセス許可、全体管理者を検索します
 
@@ -23,7 +23,7 @@ ms.locfileid: "92010697"
 
 **適切なロール**
 
-- すべてのパートナーセンターのユーザー
+- すべてのパートナー センター ユーザー
 
 ## <a name="find-the-role-youve-been-assigned"></a>割り当てられたロールを見つける
 

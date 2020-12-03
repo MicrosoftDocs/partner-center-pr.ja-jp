@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターの参照を Dynamics 365 CRM の共同販売コネクタと同期します。 販売元は、CRM システム内から Microsoft と共同で販売することができます。
+description: パートナーセンターの紹介を Dynamics 365 CRM の共同販売コネクタと同期します。 販売元は、CRM システム内から Microsoft と共同で販売することができます。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 18a54bf777cb987e8f486f85afcf277e04c1055c
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947778"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556363"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM の共同販売コネクタ–概要
 
@@ -109,7 +109,7 @@ ms.locfileid: "94947778"
 
 1. [ **ソリューション** ] ページに戻り、[ **既定のソリューション**] を選択します。 [**すべて**] をクリックして、[**接続の参照 (プレビュー)** ] を選択します。
 
-:::image type="content" source="images/cosellconnectors/dynamics3.png" alt-text="のインスタンスに接続するときには、":::
+:::image type="content" source="images/cosellconnectors/dynamics3.png" alt-text="接続する":::
 
 2. 3つのドットアイコンを選択して、各接続を1つずつ編集します。 関連する接続を追加します。
 
