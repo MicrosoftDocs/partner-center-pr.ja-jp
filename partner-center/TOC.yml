@@ -2,6 +2,8 @@
   href: index.yml
 - name: アナウンス
   href: announcements/TOC.md
+- name: パートナー センターについて
+  href: overview.md
 - name: Partner Network メンバーシップ
   items:
     - name: Microsoft との連携
@@ -60,8 +62,13 @@
         - name: アプリ開発コンピテンシーの除外
           href: app-dev-isv.md
     - name: 高度な専門性
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: 専門知識の紹介
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: 申請または確認の状態
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: Azure Expert MSP になる
       href: azure-expert-msp.md
     - name: メリット
