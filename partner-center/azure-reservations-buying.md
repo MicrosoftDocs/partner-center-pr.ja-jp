@@ -1,7 +1,7 @@
 ---
 title: 顧客の予約 Microsoft Azure 購入する
 description: パートナーセンターで顧客の代理として Azure の予約を購入または購入する方法について説明します。 Azure の予約を利用できない市場の一覧も表示されます。
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031255"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534609"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure Reservations を購入する
-
-**適用対象**
-
-- パートナー センター
-- Microsoft Azure portal
-- CSP のパートナー
 
 **適切なロール**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92031255"
 - ヘルプデスク エージェント
 - 販売代理店
 - ユーザー管理の管理者
+
+この記事では、パートナーセンターで顧客の代理として Azure の予約を購入または購入する方法について説明します。 また、Azure の予約を利用できない市場を特定します。
  
 > [!NOTE]
 > この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](/azure/cost-management-billing/reservations)を読む必要があります。
@@ -114,11 +110,11 @@ ms.locfileid: "92031255"
 
     a. **[セグメント]** の一覧から、顧客の市場セグメントを選択します。
 
-    b. [製品の**種類**] ボックスの一覧から [**予約**] を選択します。
+    b. [製品の **種類**] ボックスの一覧から [**予約**] を選択します。
 
     c. 顧客が希望する予約の種類を **[予約の種類]** の一覧から選択します。
 
-4. Azure Reservations をアクティブな Azure サブスクリプションに関連付ける必要があります。 **顧客サブスクリプション**の一覧から、Azure 予約を追加する顧客のサブスクリプションを選択します。 
+4. Azure Reservations をアクティブな Azure サブスクリプションに関連付ける必要があります。 **顧客サブスクリプション** の一覧から、Azure 予約を追加する顧客のサブスクリプションを選択します。 
 
    >[!IMPORTANT]
    >お客様がまだアクティブな Azure サブスクリプションを持っていない場合は、 **azure** を選択して今すぐ追加してください。 
@@ -150,7 +146,8 @@ ms.locfileid: "92031255"
 
 10. Azure portal で顧客の予約を管理するには **、顧客のページで** 顧客を見つけ、下矢印を選択して顧客の行を展開します。 [ **Microsoft Azure の管理ポータル** ] を選択して、Azure portal で顧客のレコードを開きます。
 
-## <a name="azure-reservations-resources"></a>Azure Reservations に関するリソース
+## <a name="next-steps"></a>次のステップ
+
 |**対象**   |**参照先**    |
 |:-----------------------------|:-----------------|
 |CSP での Azure Reservations 概要  | [Microsoft Azure Reserved Instances の販売](azure-reservations.md) |

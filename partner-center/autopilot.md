@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999436"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534993"
 ---
-# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>新しいデバイスで Windows の自動操縦プロファイルを使用して、顧客の既定のエクスペリエンスをカスタマイズする
-
-**適用対象**
-
-- CSP 直接請求パートナー、間接プロバイダー、間接リセラー
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>新しいデバイスで Windows Autopilot プロファイルを使用して、顧客の既定のエクスペリエンスをカスタマイズする
 
 **適切なロール**
 
@@ -37,7 +33,7 @@ Oem は、デバイスの **プロダクトキー id (pkid)** を表示する [�
 
 まだ Autopilot に慣れていない場合は、次の記事の情報を確認してください。
 
-- [Windows 自動操縦の概要](/windows/deployment/windows-10-auto-pilot)
+- [Windows Autopilot の概要](/windows/deployment/windows-10-auto-pilot)
 - [Autopilot 展開リファレンス ガイド](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>概要
@@ -60,7 +56,7 @@ Oem は、デバイスの **プロダクトキー id (pkid)** を表示する [�
 
 - パートナーは、自分で追加した顧客の既存のデバイスを管理できます。
 
-- 顧客が Microsoft Store for Business または Microsoft Intune ポータルにアップロードしたデバイスを管理することはできません。
+- 顧客がビジネス向け Microsoft Store または Microsoft Intune ポータルにアップロードしたデバイスを管理することはできません。
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>パートナー センターで Autopilot プロファイルを作成および管理する
 
@@ -149,11 +145,11 @@ OEM 名、シリアル番号、モデルの組み合わせを使う場合は、�
 
 - この組み合わせは、新しいデバイス (4 k ハッシュなど) でのみ動作し、128b ハッシュ (RS2 以前のデバイス) に対してはサポートされていません。
 
-- 組み合わせの登録では大文字と小文字が区別されるため、ファイル内のデータが、OEM プロバイダー (ハードウェア プロバイダー) によって提供されるモデルおよび製造元の名前と "***正確に***" 一致する必要があります。
+- 組の登録では大文字と小文字が区別されるので、ファイル内のデータは、OEM プロバイダー (ハードウェアプロバイダー) によって提供されるとおりに、モデル名と製造元 *_名 * と_* 一致している必要があります。
 
 パートナー センターで顧客のアカウントにデバイスを追加するには、以下の手順に従います。
 
-1. パートナー センターのメニューで **[顧客]** を選択し、デバイスが管理対象となる顧客を選択します。
+1. パートナーセンターメニューから [_ *Customers*] * を選択し、デバイスを管理する顧客を選択します。
 
 2. 顧客の詳細ページで、**[デバイス]** を選択します。
 

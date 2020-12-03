@@ -9,20 +9,14 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000256"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534762"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>顧客の予約 Microsoft Azure 管理、取り消し、交換、返金する
-
-**適用対象**
-
-- パートナー センター
-- Microsoft Azure portal 
-- CSP のパートナー
 
 **適切なロール**
 
@@ -31,6 +25,8 @@ ms.locfileid: "91000256"
 - ヘルプデスク エージェント
 - 販売代理店
 - ユーザー管理の管理者
+
+この記事では、予約を取り消す方法、予約を交換する方法、返金を要求する方法など、顧客の Azure 予約を管理する方法について説明します。
 
 > [!NOTE]
 > この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](/azure/cost-management-billing/reservations)を読む必要があります。
@@ -47,7 +43,7 @@ ms.locfileid: "91000256"
     |:-----------------------------|:-----------------|
     | **概要**   | 有効期限、スコープ、使用状況データなど、顧客の予約の詳細を表示します。 **注意:** 日割り計算の払い戻しを求めるサポート要求を作成するには、**[Refund]** (払い戻し) を選択します。 予約期間のうち未使用の部分を交換するためのサポート要求を作成するには、**[交換]** を選択します。  
     | **アクセス制御 (IAM)**   | 顧客の予約情報へのアクセスを管理します。|
-    | **構成**   | 予約が関連付けられている予約のスコープや Azure サブスクリプションを変更します。    |
+    | **Configuration**   | 予約が関連付けられている予約のスコープや Azure サブスクリプションを変更します。    |
     | **プロパティ**   | 予約のプロパティを表示し、予約 ID と予約注文 ID をクリップボードにコピーします。 **注意:** 顧客に代わってサポートを要求する際には、予約 ID と予約注文 ID がサポートから求められることがあります。    |
     | **新しいサポート要求**    | Microsoft サポートによるヘルプを要求します。   |
  

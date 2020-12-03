@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48774cb830ceb575a84177efb57431afdcb9b25
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.openlocfilehash: 8c36883dc7d12b7ea0ce8f2644dbac86595ab131
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90011742"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534592"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>パートナーの獲得クレジットを獲得できるロールとアクセス許可
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>パートナーの獲得クレジットを獲得するために必要なロールとアクセス許可
 
 次のロールは、パートナーがパートナーの獲得クレジットを利用できるかどうかを判断するアクセス許可レベルにマップされます。
 
@@ -147,3 +147,7 @@ Virtual Machine Contributor | 仮想マシンを管理できますが、アク�
 Virtual Machine User Login | ポータルで仮想マシンを表示し、通常のユーザーとしてログインします。 | はい | 
 Web Plan Contributor | Web サイトの Web プランを管理できます。ただし、それらへのアクセスは含まれません。 | はい | 
 Website Contributor | Web サイト (web プランではない) を管理できますが、アクセスすることはできません | はい |
+
+## <a name="next-steps"></a>次のステップ
+
+- [パートナー獲得クレジット - CSP の新しいコマース エクスペリエンスにおける仕組みの概要](partner-earned-credit.md)

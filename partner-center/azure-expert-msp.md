@@ -9,18 +9,14 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: d56e1115b47af2fcbb4fc8077fadee01d8fceba2
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 364add7e25052ce97bfb26b84b26c5fcc430637d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527628"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534660"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Azure Expert マネージド サービス プロバイダー プログラム
-
-**適用対象**
-
-- MPN パートナー
 
 **適切なロール**
 
@@ -36,6 +32,6 @@ Azure MSP への応募プロセスを開始するには、左側のナビゲー�
 認定を受けることができない場合でも、メンバーシップの強化、トレーニング、およびその他の成長の機会を通じて Microsoft パートナーシップを構築することができます。
 ビジネスや専門知識を進化させるための方法の詳細については、[こちら](https://partner.microsoft.com/membership/azure-expert-msp)をご覧ください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 -[高度な特殊化の詳細](advanced-specializations.md)

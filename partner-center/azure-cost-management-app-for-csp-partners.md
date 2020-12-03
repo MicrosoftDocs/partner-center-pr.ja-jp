@@ -1,5 +1,5 @@
 ---
-title: Csp の Cloudyn による Azure Cost Management
+title: CSP 用の Cloudyn 製 Azure Cost Management
 ms.topic: article
 ms.date: 05/04/2020
 ms.service: partner-dashboard
@@ -9,19 +9,14 @@ author: aparnagkrishnan
 ms.author: aparnag
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ea156ef0932fe1af20f3e3c4b9be1a5f931cdde
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: defa691a3bc70cbda45f01cb447d89364a49e3b8
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435911"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534992"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>CSP パートナー向けの Azure cost management アプリを使用して、お客様の Azure の使用状況とコストを追跡します  
-
-**適用対象**
-
-- パートナー センター
-- クラウド ソリューション プロバイダー プログラム パートナー
 
 **適切なロール**
 
@@ -42,15 +37,15 @@ Cloudyn は、お客様による Azure の使用量とその使用量に対す�
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>パートナー センターで Web アプリを登録する
 パートナー センターで Azure Active Directory Web アプリを登録すると、アプリがパートナー センター API にアクセスできるようになります。 
-1.  [全体管理者または管理エージェント アカウント](create-user-accounts-and-set-permissions.md)を使って、[パートナー センター](https://partnercenter.microsoft.com/pcv/dashboard/overview)にサインインします。
-2.  **パートナー センター**から、**[アカウント設定]** &gt; **[アプリ管理](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)** を選択します。
+1.  [グローバル管理者または管理エージェント アカウント](create-user-accounts-and-set-permissions.md)を使って、[パートナー センター](https://partnercenter.microsoft.com/pcv/dashboard/overview)にサインインします。
+2.  **パートナーセンター** で、[**アカウント設定**] [ &gt; **[アプリ管理](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)**] を選択します。
 3.  **[Web アプリ]** セクションで、**[新しいアプリの追加]** をクリックします。
 <br> **注**: 既にアプリを作成済みの場合は、手順 3 を省略することができます。
 4.  登録する Web アプリの **商取引 ID** GUID と **アプリ ID** GUID をコピーして保存します。 Azure cost management アプリの 30 日間無料試用版を利用するには、両方の ID が必要です。
 
 ## <a name="add-a-secret-key-to-your-app"></a>アプリへの秘密鍵の追加
 1. **[キーの追加]** ボタンの横のドロップ ダウンで、1 年間または 2 年間の期間を選択します。
-2. [**キーの追加**] をクリックします。 
+2. [ **キーの追加**] をクリックします。 
 3. 秘密キーの値を書き留めて保存します。 この値は、30 日間無料試用版の利用に必要です。<br>
    > [!NOTE]  
    > アプリケーションの秘密キーは、有効期限の長いパスワードのようなものです。 後日使用できるように、安全な場所にキーの値を保存してください。
