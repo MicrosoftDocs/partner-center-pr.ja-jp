@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132996"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439137"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月のお知らせ
 
@@ -30,8 +30,8 @@ _________________
 
 - 日付:2020-04-30
 - 次のように入力します。機能
-- 状態:近日提供予定
-- [詳細情報](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>要約
 
@@ -49,7 +49,7 @@ Microsoft は、このようなかつてない時世に[お客様に責任をも
 これらのキャンペーンは、現在の Office 365 E1 試用版オファーを置き換えます。また、次の点が異なります。
 
 - パートナー様は、特定の 6 か月間試用版 SKU ではなく、初めの 6 か月間に 100% の割引が適用される CSP プロモーションを利用して、年間の Office 365 E1 または Microsoft 365 Business Basic SKU を処理します。 [CSP キャンペーンの詳細についてご確認ください](../promotions.md)。
-- 注文は技術的に、"新しい顧客のみ" に制限されます。これは、書面によるポリシーのみを通じて新しい顧客に限定されていた Office 365 E1 試用版とは異なります。 詳細については、[Microsoft パートナーの FAQ](https://aka.ms/CSPCOVIDPromo) をご覧ください。
+- 注文は技術的に、"新しい顧客のみ" に制限されます。これは、書面によるポリシーのみを通じて新しい顧客に限定されていた Office 365 E1 試用版とは異なります。 
 - SMB のお客様の場合、このプロモーションには Microsoft 365 Business Basic が含まれます。 これにより、パートナー様は Microsoft 365 for Business を使用して、300 シート未満のお客様が適切な製品ファミリの使用を開始できるようにすることができます。
 現在、Office 365 E1 試用版 (2020 年 5 月 4 日まで利用可能) のライセンスが付与されているお客様は、引き続き現在のプランのご利用となります。この変更はまったくの新規のお客様に対してのみ影響があります。
 
@@ -58,12 +58,13 @@ Microsoft は、このようなかつてない時世に[お客様に責任をも
 このキャンペーンの対象となる新規顧客は次のとおりです。
 
 1. まったくの新規顧客のテナント
-2. [Microsoft パートナーのよく寄せられる質問 (FAQ) ガイド](https://aka.ms/CSPCOVIDPromo)に記載されているいずれかの製品について、現在支払い中の、または最近キャンセルされた (過去 30 日間) サブスクリプションがテナントにない既存のお客様。
+2. Microsoft パートナーのよく寄せられる質問 (FAQ) ガイドに記載されているいずれかの製品について、現在支払い中の、または最近キャンセルされた (過去 30 日間) サブスクリプションがテナントにない既存のお客様。
 
+ 
 ### <a name="additional-resources"></a>その他の資料
 
 - セキュリティで保護されたリモート ワークの詳細については、[Partner Remote Work Resources Center](https://www.microsoft.com/microsoft-365/partners/remotework) をご覧ください。
-- これらの変更の詳細については、[関連するパートナー向け FAQ](https://aka.ms/CSPCOVIDPromo) をご覧ください。
+
 
 ### <a name="next-steps"></a>次の手順
 
@@ -168,11 +169,11 @@ _________________
 
 最近、Microsoft はすべてのパートナー テナントに対して、代理管理者 (AOBO) 機能のセキュリティ保護のアクティブ化を完了し、パートナーの会社とその顧客を個人情報の盗難に関係するインシデントから保護しています。
 
-パートナーとその顧客をさらに保護するために、 **2020 年 5 月 1 日以降、CSP でのパートナー センター トランザクションの保護を有効化します** 。 この追加のセキュリティ保護を有効化すると、パートナーは、パートナー センターのユーザー エクスペリエンスや API を通じて、CSP 内のすべてのトランザクションに多要素認証 (MFA) を使用するよう要求されます。これにより、未承認のアクセスを拒否し、個人情報の盗難に関係するセキュリティ インシデントから顧客とテナントを保護します。 詳細については、[こちら](../partner-security-requirements-mandating-mfa.md)をご覧ください。
+パートナーとその顧客をさらに保護するために、**2020 年 5 月 1 日以降、CSP でのパートナー センター トランザクションの保護を有効化します**。 この追加のセキュリティ保護を有効化すると、パートナーは、パートナー センターのユーザー エクスペリエンスや API を通じて、CSP 内のすべてのトランザクションに多要素認証 (MFA) を使用するよう要求されます。これにより、未承認のアクセスを拒否し、個人情報の盗難に関係するセキュリティ インシデントから顧客とテナントを保護します。 詳細については、[こちら](../partner-security-requirements-mandating-mfa.md)をご覧ください。
 
 ### <a name="next-steps"></a>次の手順
 
-- **テナントとユーザーを保護するために推奨されるセキュリティ要件をまだ実装していない場合は** 、コンプライアンスを維持して CSP での顧客管理やトランザクションでビジネスの中断が発生しないように、すぐに実装してください。 パートナーがセキュリティ要件を実装していない場合、CSP プログラムに参加することでセキュリティ上のリスクが生じる可能性があります。
+- **テナントとユーザーを保護するために推奨されるセキュリティ要件をまだ実装していない場合は**、コンプライアンスを維持して CSP での顧客管理やトランザクションでビジネスの中断が発生しないように、すぐに実装してください。 パートナーがセキュリティ要件を実装していない場合、CSP プログラムに参加することでセキュリティ上のリスクが生じる可能性があります。
 - 間接プロバイダーは、セキュリティ要件を自社で実装するだけでなく、リセラーと協力して、このメール テンプレートを使用して要件をリセラーが確実に実装できるようにする必要もあります。 また Microsoft からも、リセラーにメールで直接連絡いたします。
 - 実装状況と、必要となる主なアクションを確認するには、[パートナー センターのセキュリティ要件のステータス ページ](https://partner.microsoft.com/commerce/security/compliance)にアクセスします。 また、グローバル管理者と協力して、各テナントのセキュリティ要件の実装状況を定期的に確認してください。
 - コントロール パネル ベンダー (CPV) ソリューションを使用している場合は、CPV とご相談ください。
@@ -546,7 +547,7 @@ Microsoft は、2020 年 4 月 1 日に追加の Dynamics 365 製品をリリー
 2020 年 5 月 1 日に、Microsoft は新しい RPA オファーを教育プログラムでも利用できるように拡張する予定です。
 CSP の認定教育パートナー プログラムの変更の詳細については、[こちら](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)をクリックしてください。 これは、パートナー センターの既存のコレクションへのリンクです)。
 
-新しい SKU の情報については、関連ダウンロードのセクションにある [こちら](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)のページに添付された「 **Dynamics CSP Offer Updates-May 2020** 」というファイルをご確認ください。
+新しい SKU の情報については、関連ダウンロードのセクションにある [こちら](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)のページに添付された「**Dynamics CSP Offer Updates-May 2020**」というファイルをご確認ください。
 
 ### <a name="ecommerce-changes"></a>e コマースの変更
 
@@ -600,7 +601,7 @@ _________________
 
 この新しいエクスペリエンスと、今後数週間にわたって更新される領域の詳細については、[更新された FAQ](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) をご確認ください。
 
-**皆様からのご意見をお待ちしております。** 新しいオペレーション レディネスのページを使用したら、お客様のエクスペリエンス向上のために、ぜひフィードバックをお寄せください。 各ページの下部にある「 **このページはお役に立ちましたか?はい | いいえ** 」フィードバック ツールを使用できます。
+**皆様からのご意見をお待ちしております。** 新しいオペレーション レディネスのページを使用したら、お客様のエクスペリエンス向上のために、ぜひフィードバックをお寄せください。 各ページの下部にある「**このページはお役に立ちましたか?はい | いいえ**」フィードバック ツールを使用できます。
 
 Microsoft では、Microsoft のすべてのプログラムにおいて、コミュニケーションを行い、レディネスに関する資料を提供する方法の合理化を行っています。 [https://partner.microsoft.com](https://partner.microsoft.com) の Microsoft パートナー Web サイトでは、オペレーション レディネスに関するリソースを 1 か所で提供します。これにより、[CSP プログラム更新リソース ギャラリー](https://partner.microsoft.com/resources#/)と [Microsoft Readiness サイト](https://www.microsoftreadiness.com/)からの資産が統合されます。
 
@@ -620,8 +621,8 @@ partner.microsoft.com 上のオペレーション レディネス リソース�
 
 どのように準備する必要がありますか?
 
-- ギャラリー コレクション「 [準備中 - オペレーション レディネス リソースを 1 か所で](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)」でレディネスに関する最新の資料をご覧いただき、オペレーション レディネス リソースの新しい Microsoft パートナー向け Web サイトの場所についての **詳細情報をご確認ください** 。
-- 新しいエクスペリエンスの詳細を確認し、質問をすることができる **4 月のパートナー コミュニティの電話** に参加してください。詳しくは、 [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP) を参照してください。
+- ギャラリー コレクション「[準備中 - オペレーション レディネス リソースを 1 か所で](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)」でレディネスに関する最新の資料をご覧いただき、オペレーション レディネス リソースの新しい Microsoft パートナー向け Web サイトの場所についての **詳細情報をご確認ください**。
+- 新しいエクスペリエンスの詳細を確認し、質問をすることができる **4 月のパートナー コミュニティの電話** に参加してください。詳しくは、[https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP) を参照してください。
 
 ### <a name="questions"></a>ご質問がある場合は、
 
@@ -694,8 +695,8 @@ Microsoft 365 Business Voice は、次のプランのアドオンとしてご利
 
 または、2020 年 4 月 1 日より、Business Voice (通話プランなし) プランを購入することもできます。これには、電話システムや音声会議が含まれています。 このプランは、こちらに記載されているすべての国でご利用いただけます。
 
-- **米国のみ** :Microsoft 365 Business Voice (通話プランなし):39d77d0f-eb8f-4ebc-b618-692e1cc59c8f
-- **その他の国や地域** :Microsoft 365 Business Voice (通話プランなし): cc69a07c-8c51-457f-bb2a-f21a62d6bede
+- **米国のみ**:Microsoft 365 Business Voice (通話プランなし):39d77d0f-eb8f-4ebc-b618-692e1cc59c8f
+- **その他の国や地域**:Microsoft 365 Business Voice (通話プランなし): cc69a07c-8c51-457f-bb2a-f21a62d6bede
 
 このプランの活用方法については、お住まいの地域の子会社にお問い合わせください。
 

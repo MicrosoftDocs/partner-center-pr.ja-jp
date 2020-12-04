@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999676"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474225"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>顧客のサブスクリプションへのライセンスまたはサービスの追加
-
-**適用対象**
-
-- パートナー センター
-- クラウド ソリューション プロバイダー プログラム パートナー
 
 **適切なロール**
 
@@ -35,7 +30,7 @@ ms.locfileid: "90999676"
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>CSP プログラム <a id="upgradesubscription"></a> でサポートされているアップグレード
 
-クラウド ソリューション プロバイダーでは、次のアップグレードがサポートされています。
+クラウド ソリューション プロバイダー プログラムでは、次のアップグレードがサポートされています。
 
 | プラン | 可能なアップグレード|
 |---:|:---|

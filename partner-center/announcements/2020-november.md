@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514743"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439076"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月のお知らせ
 
@@ -30,7 +30,7 @@ ______________
 - 日付:2020 年 11 月 24 日
 - 機能
 
-## <a name="summary"></a>まとめ
+### <a name="summary"></a>まとめ
 
 クラウド ソリューション プロバイダー プログラムに参加しているパートナーは、パートナー センターで従量制課金の SaaS プランを購入できるようになります。 
 
@@ -46,8 +46,7 @@ ______________
 
 この情報を社内の適切なすべての担当者に共有してください。
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>統合された新しいアカウント管理エクスペリエンス
 
@@ -56,7 +55,7 @@ ______________
 - 日付:2020 年 11 月 18 日
 - 機能
 
-## <a name="summary"></a>まとめ
+### <a name="summary"></a>まとめ
 
 11 月 18 日以降、パートナー センターで、パートナー向けのユーザー エクスペリエンスが向上する新しいアカウント管理エクスペリエンスのロールアウトが開始されます。 パートナーは、[設定] > [アカウントの設定] から、すべてのプログラムのアカウントを管理できるようになります。
 
@@ -84,8 +83,7 @@ ______________
 
 この情報を社内の適切なすべての担当者に共有してください。
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>中規模市場向け Office 365 E1 キャンペーン (ラテン アメリカ、アジア太平洋、インド)
 
@@ -113,6 +111,7 @@ ______________
 
 ### <a name="questions"></a>疑問がある場合
 質問、問い合わせ、詳細については、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)にお問い合わせください。
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>特定の国での顧客のスクリーニングを強化するためのパートナーセンター API の更新とユーザー インターフェイス (UI) の機能強化
@@ -254,8 +253,6 @@ EU/EFTA 地域のクラウド ソリューション プロバイダー プログ
 
 2021 年 1 月以降、新しい顧客が新しいコマース オファーを購入したパートナーには、パートナーの所在地の通貨でそれらの購入の請求が行われます。 既存の顧客が CSP で新しいコマース オファーを既に購入しているパートナーの場合は、このフェーズの間は、引き続き顧客の請求場所の通貨で課金されます。 
 
- 
-
 - **フェーズ 2: 2021 年 1 月より前に CSP で新しいコマース オファーを購入した既存の顧客** 
 
 フェーズ 1 の後、2021 年を通して、Microsoft は、2021 年 1 月より前に CSP で新しいコマース オファーを購入した既存の顧客がいるパートナーに対する新しいコマース オファーの請求を、顧客の所在地の通貨から、パートナーの所在地の通貨に移行します。 パートナーには、この変更が実装される前に通知されます。  
@@ -279,6 +276,8 @@ EU/EFTA 地域のクラウド ソリューション プロバイダー プログ
 ### <a name="resources"></a>リソース 
 
 このトピックの情報については、Microsoft パートナー Web サイトの「[オペレーションギャラリー](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ )」を参照してください。  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>パートナー センター API を呼び出しているパートナーに対する API の調整
 
@@ -310,7 +309,7 @@ Microsoft は、パートナー センター API を呼び出しているパー�
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[顧客のすべてのサブスクリプションを取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID でサブスクリプションを取得する](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[顧客の注文をすべて取得する](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders||[顧客の注文をすべて取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID ごとに注文を取得する](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[サブスクリプションのプロビジョニング状態を取得する](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[注文とサブスクリプションを管理する](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ Microsoft は、パートナー センター API を呼び出しているパー�
 
 [API 調整ガイダンス](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)を確認し、必要な手順を実行します。 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>MCA 要求の重複による 409 エラー
 
@@ -365,8 +364,7 @@ Microsoft は、パートナー センター API を呼び出しているパー�
 
 - この情報を組織内の該当するチームと共有し、これらの変更内容に対して準備できるようにします。
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>テストが利用可能:教育機関の顧客の検証プロセスにおけるパートナー センター API とユーザー インターフェイス (UI) の機能強化
 
@@ -405,17 +403,17 @@ Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムにお�
 
 Microsoft では、すべての顧客または提案された顧客の適格教育ユーザーとしての状態をレビューする権利を留保します。 詳細については、[アカデミック適格教育ユーザーの要件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)に関するページを参照してください。
 
-## <a name="next-steps"></a>次のステップ
+### <a name="next-steps"></a>次のステップ
 
-新しいパートナー センターの UI と API の変更、および[パートナー センターの教育機関向けの顧客検証プロセス拡張機能のコンテンツ コレクション](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)にあるテスト ガイドを確認します。
+- 新しいパートナー センターの UI と API の変更、および[パートナー センターの教育機関向けの顧客検証プロセス拡張機能のコンテンツ コレクション](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)にあるテスト ガイドを確認します。
 
-• テストに参加するにはサインアップしてください。 (詳細については[テスト ガイド](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf)を参照してください。) 
+- テストに参加するにはサインアップします。 (詳細については[テスト ガイド](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf)を参照してください。) 
 
-• パートナー様の組織が[アカデミック適格教育ユーザーの要件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)について理解していることを確認します。 
+- パートナー様の組織が[アカデミック適格教育ユーザーの要件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)について理解していることを確認します。 
 
-• この情報を組織内の該当するチームやリセラーと共有し、これらの変更内容に対して準備できるようにします。
+- この情報を組織内の該当するチームやリセラーと共有し、これらの変更内容に対して準備できるようにします。
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>オペレーション資料ギャラリーでの商用ライセンス パートナー コンテンツの拡張
 
@@ -483,7 +481,7 @@ Premium オファリングでは、顧客は、新たにリリースされた Mi
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams Rooms マネージド サービス
 
 - プロアクティブな管理:パッチの適用や構成管理などを含む、会議室システムの 24 時間 365 日の管理。
-• リアルタイム監視と根本原因の分析:Microsoft によって促進される調整されたインシデント管理対応による監視と検出。必要に応じて顧客と連携します。 モバイル アプリにより、出先でもアラートを受け取ることができます。
+- リアルタイム監視と根本原因の分析:Microsoft によって促進される調整されたインシデント管理対応による監視と検出。必要に応じて顧客と連携します。 モバイル アプリにより、出先でもアラートを受け取ることができます。
 - 管理された更新:アプリケーション、Windows サポート技術情報、ファームウェアの更新の管理と配信。
 - セキュリティ脅威の防止:Microsoft Defender Advanced Threat Protection によるセキュリティ脅威の防止。
 - カスタマー サポート:専用のサービス オペレーション センターを通じて 24 時間 365 日体制のチケット サポートを提供します。自動化されていないケースに対するインシデントの修復もサポートされています。 きめ細かいロールベースのアクセス制御。

@@ -1,7 +1,7 @@
 ---
 title: マネージド サービスのパートナー獲得クレジット
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 11/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: マネージド サービスに対する Microsoft パートナー獲得クレジット (PEC) の計算および支払方法と、お客様が適格であることを確認する方法について説明します。
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89fce612d5756da3f9674d4170ac8c0c3a48abfe
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175309"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474310"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>パートナー獲得クレジットの計算方法と支払方法
 
@@ -38,7 +38,13 @@ ms.locfileid: "92175309"
 
 - PEC は、パートナーによって管理される CSP 内の顧客の Azure 資産に対して課金される (請求可能な) 消費量に関連付けられます。 PEC は、Microsoft (間接プロバイダーと直接請求パートナー) によって課金される CSP のパートナーに対してのみ利用可能にすることができます。 
 
-- 対象となるサービス:パートナー獲得クレジットは、パートナーが [Azure プランの価格](https://partner.microsoft.com/commerce/sales)ページからエクスポートできる **Azure プランの従量課金価格**に記載されているサービスに適用されます。 パートナー獲得クレジットは、Azure プラン従量課金価格表の **[タグ] 列**に**サード パーティ**と記載されているサード パーティ製品、Azure プラン予約、Marketplace 価格表に記載されている製品、[Azure スポット仮想マシン](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)には適用されません。
+- 対象となるサービス:パートナー獲得クレジットは、パートナーが [Azure プランの価格](https://partner.microsoft.com/commerce/sales)ページからエクスポートできる **Azure プランの従量課金価格** に記載されているサービスに適用されます。 
+
+- 対象とならないサービス: パートナー獲得クレジットは、以下のものには適用 "**_されません_* _"
+    - Azure プランの予約
+    - Azure プラン従量課金価格の **[タグ] 列** に "*サード パーティ*" と表示されているサード パーティ製品    
+    - Marketplace 価格表の製品
+   - [Azure スポット仮想マシン](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
 - PEC は日単位で計算され、毎日の使用状況ファイルと毎月の請求調整ファイルで確認できます。 パートナー (間接プロバイダーまたは間接リセラー) が PEC を確実に取得するには、終日 (24 時間 365 日) のアクセス権を持っている必要があります。 PEC は、マネージド Azure 資産を対象として 1 日単位で計算されます。 特定の請求期間 (月) に対する最大 PEC は 15% です。 パートナーは、永続的な特権アクセスを月中ずっと保持し (アクセスの期間)、かつそれがすべての対象リソースに及ぶなら (アクセスの範囲)、15% の全 PEC を獲得します。 範囲と期間が減ると、その月の PEC レートは低くなります。 毎日評価される使用量ファイルには、特定の Azure 資産について PEC が適用されているかどうかが 1 日単位で示されます。 パートナーは、永続的な特権アクセスに対する変更があるかどうかを検出するアラートに登録することもできます。
 

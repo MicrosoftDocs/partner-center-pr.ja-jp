@@ -1,4 +1,5 @@
 # [パートナー センターのお知らせ](index.md)
+# [2020 年 12 月](2020-december.md)
 # [2020 年 11 月](2020-november.md)
 # [2020 年 10 月](2020-october.md)
 # [2020 年 9 月](2020-september.md)

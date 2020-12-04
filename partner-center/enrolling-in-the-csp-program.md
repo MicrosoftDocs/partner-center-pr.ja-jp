@@ -1,20 +1,20 @@
 ---
 title: クラウド ソリューション プロバイダー プログラムに登録する
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: お客様のビジネスに最も適したクラウド ソリューション プロバイダー (CSP) プログラム販売モデル (間接リセラーや直接請求パートナーなど) に登録する方法について説明します。
+description: パートナー様のビジネスに最も適したクラウド ソリューション プロバイダー (CSP) プログラム販売モデル (間接リセラーや直接請求パートナーなど) に登録する方法について説明します。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045397"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322085"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
@@ -42,7 +42,7 @@ CSP の申請を作成するときは、MPN ID、会社の正確な住所、銀�
 3. Microsoft が情報を検証した後、Microsoft 間接リセラーの条項合意を受け入れます。
 
 > [!IMPORTANT]  
-> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](announcements/index.md)など、通常の伝達方法でお知らせします。
+> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 この制限は、CSP 取引の実行に使用されるテナントにのみ適用されます。 自社の社内向けに CSP 以外のテナントを使用する CSP パートナーは、別の CSP パートナーからオンライン サービスを購入できます。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](announcements/index.md)など、通常の伝達方法でお知らせします。
 
 ## <a name="enroll-as-an-indirect-reseller"></a>間接リセラーとして登録する
 
@@ -60,7 +60,7 @@ CSP の申請を作成するときは、MPN ID、会社の正確な住所、銀�
 
 まだプロバイダー (ディストリビューター) と連携していない場合は、[認定間接プロバイダーを検索](https://partnercenter.microsoft.com/partner/find-a-provider)して、連携先を見つけることができます。
 
-間接リセラーとして CSP プログラムに参加するために必要なことについて詳しくは、[Microsoft Partner Network Web サイト](https://partner.microsoft.com/)の「[インダイレクト リセラーになる](https://partner.microsoft.com/cloud-solution-provider/whats-required)」をご覧ください。 
+間接リセラーとして CSP プログラムに参加するために必要なことについて詳しくは、[Microsoft Partner Network Web サイト](https://partner.microsoft.com/)の「[インダイレクト リセラーになる](https://partner.microsoft.com/cloud-solution-provider/whats-required)」をご覧ください。
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>直接請求パートナーとして登録する
 
@@ -99,4 +99,4 @@ CSP プログラムは発展と成長を続けるので、直接請求パート�
 
 ## <a name="next-steps"></a>次の手順
 
-- [CSP プログラム パートナー向け Microsoft Partner Agreement (MPA) について説明します。](microsoft-partner-agreement.md)
+[CSP プログラム パートナー向け Microsoft Partner Agreement (MPA) について説明します。](microsoft-partner-agreement.md)
