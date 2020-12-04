@@ -2,21 +2,21 @@
 title: Solution Assessment Incentives に関する FAQ
 ms.topic: how-to
 ms.date: 11/09/2020
-description: ソリューション評価に関してよく寄せられる質問への回答
+description: チャネルインセンティブプラットフォーム (チップ) のソリューション評価に関してよく寄せられる質問とその回答を示します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0796d8d5a79de181feb9c64c0e48ea4720817953
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 3d90a98fa323af187dd86f3d2d9f585167cc817c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447243"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570452"
 ---
-# <a name="solution-assessment-incentives-faq"></a>ソリューション評価のインセンティブに関する FAQ
+# <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>チャネルインセンティブプラットフォーム (チップ) のソリューション評価インセンティブに関する FAQ 
 
 以下でよく寄せられる質問への回答を検索します。
 
@@ -37,7 +37,7 @@ FY20 のソリューション評価インセンティブプログラムでアク
 
 ## <a name="my-deal-status-has-been-approved-in-chip-why-hasnt-it-been-paid-yet"></a>私の案件の状態はチップで承認されています。 まだ支払いされていないのはなぜですか。
 
-商談の状態に加えて、営業案件を支払い用に送信する前に、POE の状態もチップで承認される必要があります。 チップの機会を確認して、チップの POE 検証チームによって、POE がアップロードされ、承認されていることを確認してください。 POE の状態を表示するには、チップにサインインし、[ **必要な** ものから **検索** ] を選択します。 メニューを選択します。 **営業案件 ID** を入力し、[ **検索** ] を選択します。 検索結果で、[POE] の下にある [編集] ハイパーリンクを選択します。 結果のページで、"Review" セクションまでスクロールして、POE の状態を確認します。 また、POE チームが POE に関する追加情報を要求している場合は、[コメント] フィールドも確認してください。
+商談の状態に加えて、営業案件を支払い用に送信する前に、POE の状態もチップで承認される必要があります。 チップの機会を確認して、チップの POE 検証チームによって、POE がアップロードされ、承認されていることを確認してください。 POE の状態を表示するには、チップにサインインし、[**必要な** ものから **検索**] を選択します。 メニューを選択します。 **営業案件 ID** を入力し、[**検索**] を選択します。 検索結果で、[POE] の下にある [編集] ハイパーリンクを選択します。 結果のページで、"Review" セクションまでスクロールして、POE の状態を確認します。 また、POE チームが POE に関する追加情報を要求している場合は、[コメント] フィールドも確認してください。
 
 ## <a name="why-did-i-not-receive-any-payment-for-milestone-1-for-my-opportunity"></a>営業案件のマイルストーン1に対して支払いを受けなかったのはなぜですか?
 
@@ -63,6 +63,6 @@ FY20 のソリューション評価インセンティブプログラムでアク
 
 利用可能なトピック固有のヘルプを表示した後で、サポートが必要な場合は、「推奨されるドキュメント– **サポートチケットを作成** する」オプションからチケットを作成できます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [チップの移動](chip-intro.md)

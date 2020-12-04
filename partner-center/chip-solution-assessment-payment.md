@@ -1,24 +1,24 @@
 ---
-title: ソリューション評価の支払い状態と計算情報
+title: ソリューション評価の支払いステータス
 ms.topic: how-to
 ms.date: 11/09/2020
-description: ソリューション評価の支払いに関する情報を検索する方法について説明します。
+description: チャネルインセンティブプラットフォーム (チップ) を使用して、ソリューション評価の機会、その計算、および支払いの状態に関する情報を検索します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50aadcb667ff931e53b08a7902bb247798975e2d
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 6ab0cd74e3955a71383b2ba758dc76b1b37fdee6
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418108"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570469"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>ソリューション評価の支払い状態と計算情報
 
-チップで、ソリューション評価の営業案件の状態の支払い状態を確認できます。 
+チップで、ソリューション評価の営業案件の状態の支払い状態を確認できます。
 
 ## <a name="how-to-review-your-payment-status"></a>支払い状況を確認する方法
 
@@ -50,6 +50,6 @@ ms.locfileid: "94418108"
  
 1. "EM レビュー" チェックボックスをオンにしてください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- [チップへのアクセスに関する問題](chip-access-trouble.md) 
+- [CHIP のアクセスに関する問題](chip-access-trouble.md) 

@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417253"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570690"
 ---
 # <a name="benefits-faq"></a>利点に関する FAQ
 
-適用対象:
+**適切なロール**
 
-- パートナー センター
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+- MPN 管理者
+
+Microsoft Partner Network (MPN) の特典に関してよく寄せられる質問については、この記事で取り上げています。
+
 
 ## <a name="general-questions"></a>一般的な質問
 
@@ -87,7 +89,7 @@ Azure の一括クレジットプランを他のプランと組み合わせる�
 
 1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 
-2. 左側のナビゲーションで、[ **MPN**] を選択します。
+2. パートナーセンターメニューで、[ **MPN**] を選択します。
 
 3. [ **特典**] を選択し、[ **Visual Studio**] を選択します。
 
@@ -96,7 +98,7 @@ Azure の一括クレジットプランを他のプランと組み合わせる�
 サブスクリプションを割り当てた後、ユーザーはそのサブスクリプションを管理するために Visual Studio にログインする必要があります。
 
 >[!Note]
-> 元の割り当てから90日後に、Visual Studio サブスクリプションが1つのサブスクライバーから別のサブスクライバーに再割り当てされることがある
+> Visual Studio サブスクリプションは、最初の割り当てから90日後に再割り当てされる場合があります。
 
 ## <a name="technical-benefits-and-support"></a>技術的な利点とサポート
 
@@ -106,7 +108,7 @@ Azure の一括クレジットプランを他のプランと組み合わせる�
 
 1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 
-2. 左側のナビゲーションで、[ **MPN**] を選択します。
+2. パートナーセンターメニューで、[ **MPN**] を選択します。
 
 3. [ **特典**] を選択し、[ **技術的な特典**] を選択します。
 
@@ -115,3 +117,7 @@ Azure の一括クレジットプランを他のプランと組み合わせる�
 5. [Microsoft サポート](https://support.microsoft.com/supportforbusiness/productselection)にログインします。
 
 6. インストールしようとしている製品を選択し、テクニカルサポートチケットを作成します。
+
+## <a name="next-steps"></a>次の手順
+
+- [専門知識を得るための高度な特殊化を獲得](advanced-specializations.md)

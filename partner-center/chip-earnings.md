@@ -1,22 +1,22 @@
 ---
-title: チップの利益を表示する
+title: CHIP の利益を表示する
 ms.topic: how-to
 ms.date: 11/09/2020
-description: チップの利益を表示するためのガイドライン
+description: チャネルインセンティブプラットフォーム (チップ) ツールでインセンティブステートメントと収益を表示する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418126"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570503"
 ---
-# <a name="view-earnings-in-chip"></a>チップの利益を表示する
+# <a name="view-earnings-using-the-chip-tool"></a>チップツールを使用して収益を表示する
 
 インセンティブステートメントには、チャネルインセンティブプラットフォームツール (チップ) を使用してアクセスできます。
 
@@ -32,13 +32,13 @@ ms.locfileid: "94418126"
 
 ### <a name="explanation-of-details-tabs"></a>詳細タブの説明
 
-|**タブ**|**定義**|
+|**Tab**|**定義**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|顧客名、契約、レバーの詳細など、選択した期間のインセンティブプログラムの詳細が含まれます|
 |DeltaReport-ピボット|最後に発行されたステートメントからのエンタープライズのみの更新|
 |レポート-ピボット|通貨と支払金額を含む支払詳細の概要|
 |アチーブメントの詳細|基準値、達成率、および空き容量の割合 (%)|
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- [チップで支払いの状態を確認する](chip-payment-status.md)
+- [CHIP で支払いの状態を確認する](chip-payment-status.md)

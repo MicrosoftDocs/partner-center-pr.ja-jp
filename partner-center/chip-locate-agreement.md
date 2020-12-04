@@ -1,22 +1,22 @@
 ---
-title: 契約のデスクトップ数と料金レベルを検索する
+title: チップでのデスクトップ数と料金レベルの検索
 ms.topic: how-to
 ms.date: 11/09/2020
-description: ここで、はチップのデスクトップ数と料金レベル情報です。
+description: チャネルインセンティブプラットフォーム (チップ) を使用して、アグリーメントのデスクトップ数と料金レベル情報を検索する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418125"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570554"
 ---
-# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>契約のデスクトップ数と料金レベルを検索する
+# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>任意の契約のデスクトップ数と料金レベルを検索する
 
 デスクトップの数と料金レベルの契約の詳細を提供するファイルである Excel にダウンロードできます。
 
@@ -36,6 +36,6 @@ ms.locfileid: "94418125"
 
 これで、列 J で探している契約番号を検索できるようになりました。割り当てられたデスクトップ数は、[Agreement_DesktopCount] というラベルの付いた R 列にあります。 このアグリーメントの料金レベルは、[レベル] というラベルの付いた列 ' AI ' で確認することもできます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [チップアクセスの問題のトラブルシューティング](chip-access-trouble.md)

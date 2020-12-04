@@ -2,18 +2,18 @@
 title: コンピテンシー-よく寄せられる質問
 ms.topic: article
 ms.date: 11/23/2020
-description: Azure、クラウド、Visual Studio、およびテクニカルおよびサポートの特典の Microsoft Partner Network gold とシルバーコンピテンシーの利用、有効期限、更新、ライセンス認証に関する質問への回答
+description: Azure、クラウド、Visual Studio、テクニカル、サポートの特典について、MPN gold またはシルバーコンピテンシー、特典の有効期限、更新、ライセンス認証に関する回答を提供します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812815"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570486"
 ---
 # <a name="competencies---frequently-asked-questions"></a>コンピテンシー-よく寄せられる質問
 
@@ -94,7 +94,7 @@ ms.locfileid: "95812815"
 >
 > 過去12か月間のデータのみが、コンピテンシーに関連するパフォーマンス、スキル、またはその他の要件を計算するために考慮されます。 クラウド Business Applications コンピテンシーなどのコンピテンシーのパフォーマンス計算の詳細については、「 [パートナー貢献度インジケーター](partner-contribution-indicators.md)」を参照してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [MPN コンピテンシー](learn-about-competencies.md)の詳細
 - [パートナーセンターのインサイトレポート](partner-center-insights.md)についての詳細情報

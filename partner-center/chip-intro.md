@@ -1,20 +1,20 @@
 ---
-title: チャネルインセンティブプラットフォーム (チップ) の移動
+title: チャネルインセンティブプラットフォーム (チップ) を使用する
 ms.topic: how-to
 ms.date: 11/09/2020
-description: インセンティブの作業にチップを使用する方法について説明します。
+description: インセンティブの作業にチャネルインセンティブプラットフォーム (チップ) を使用する方法について説明します。 このプラットフォームは2021の終了時に廃止される予定です。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ca669cb62995b84dc246cbc5db5d1b9ada8b8ed
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418114"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570402"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>チャネルインセンティブプラットフォーム (チップ) に移動する
 
@@ -39,6 +39,6 @@ ms.locfileid: "94418114"
 1. アクセスするプログラムを選択します。
 そこから、選択したプログラムの **パフォーマンス** と **収益** を表示できます。 
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- [チップアカウントにユーザーを追加する](chip-users.md)
+- [お客様の CHIP アカウントにユーザーを追加する](chip-users.md)

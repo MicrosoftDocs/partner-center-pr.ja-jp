@@ -1,22 +1,22 @@
 ---
-title: 顧客アカウントのユーザーとユーザーライセンスを管理する
+title: 顧客アカウントのユーザーを管理する
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ユーザーアカウントの作成、ユーザーライセンスの追加と削除、ユーザーパスワードのリセット、ユーザーアカウントの削除または復元など、パートナーセンターで顧客のユーザーを管理する方法について説明します。
+description: パートナーセンターで顧客のユーザーを管理する-ユーザーアカウントの作成、ユーザーライセンスの追加または削除、パスワードのリセット、ユーザーアカウントの削除または復元を行います。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474072"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570741"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>顧客アカウントのユーザーとユーザーライセンスを管理する
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>顧客アカウントのユーザーとユーザーライセンスを管理する 
 
 **適切なロール**
 
@@ -76,21 +76,21 @@ ms.locfileid: "96474072"
 
 2. パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。
 
-3.  顧客メニューで、**[Users and Licenses]\(ユーザーとライセンス\)** を選択します。 一覧からユーザーを選択します。
+3. 顧客メニューで、**[Users and Licenses]\(ユーザーとライセンス\)** を選択します。 一覧からユーザーを選択します。
 
-4.  画面の下部で **[パスワードのリセット]** を選びます。 
+4. 画面の下部で **[パスワードのリセット]** を選びます。 
 
-5.  新しい一時的なパスワードをユーザーに送信します。
+5. 新しい一時的なパスワードをユーザーに送信します。
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>顧客のユーザー アカウントを削除する
 
-1.  **パートナー センター** メニューで、**[顧客]** を選択します。 一覧から顧客を選択します。
+1. **パートナー センター** メニューで、**[顧客]** を選択します。 一覧から顧客を選択します。
 
-2.  顧客メニューで、**[Users and Licenses]\(ユーザーとライセンス\)** を選択します。 一覧からユーザーを選択します。
+2. 顧客メニューで、**[Users and Licenses]\(ユーザーとライセンス\)** を選択します。 一覧からユーザーを選択します。
 
-3.  画面の下部にある **[ユーザー アカウントの削除]** を選択します。
+3. 画面の下部にある **[ユーザー アカウントの削除]** を選択します。
 
 このアカウントを復元する必要が生じた場合、顧客の **[ユーザーとライセンス]** の一覧の **[削除されたアカウント]** タブで見つけることができます。 削除したユーザーを復元できるのは、削除から 30 日以内です。
 
@@ -98,19 +98,18 @@ ms.locfileid: "96474072"
 
 ## <a name="restore-deleted-user-accounts"></a>削除されたユーザー アカウントを復元する
 
-1.  **パートナー センター** メニューの **[顧客]** を選択し、一覧から顧客を選びます。
+1. **パートナー センター** メニューの **[顧客]** を選択し、一覧から顧客を選びます。
 
-2.  [ **ユーザーとライセンス**] を選択します。
+2. [ **ユーザーとライセンス**] を選択します。
 
-3.  **[削除したユーザー ( 人)]** タブを選びます。復元できる削除済みユーザーが存在する場合は、**(1)** 以上の数値が表示されます。
+3. **[削除したユーザー ( 人)]** タブを選びます。復元できる削除済みユーザーが存在する場合は、**(1)** 以上の数値が表示されます。
 
-4.  削除されたユーザーのチェック ボックスを 1 つ以上を選択し、**[復元]** を選びます。
+4. 削除されたユーザーのチェック ボックスを 1 つ以上を選択し、**[復元]** を選びます。
 
     選択したすべてのユーザー アカウントが、**[ユーザーとライセンス]** ページに再び表示されます。
 
-## <a name="related-topics"></a>関連トピック
+## <a name="next-steps"></a>次の手順
 
+- [複数のユーザーへのライセンスの割り当てまたは取り消し](bulk-license-provisioning-for-multiple-users.md)
 
-[複数のユーザーへのライセンスの割り当てまたは取り消し](bulk-license-provisioning-for-multiple-users.md)
-
-[顧客のアカウントに複数のユーザーを作成する](adding-multiple-users-to-a-customer-account.md)
+- [顧客のアカウントに複数のユーザーを作成する](adding-multiple-users-to-a-customer-account.md)

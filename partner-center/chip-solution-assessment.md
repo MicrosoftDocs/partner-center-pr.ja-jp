@@ -1,20 +1,20 @@
 ---
-title: チャネルインセンティブプラットフォーム (チップ) でのソリューション評価の営業案件の状態
+title: チップソリューション評価の営業案件の状態
 ms.topic: how-to
 ms.date: 11/09/2020
-description: チップでソリューション評価の営業案件の状態を確認する方法について説明します。
+description: チャネルインセンティブプラットフォーム (チップ) でソリューション評価の営業案件の状態を確認する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 035d500e41e3b28ac566ab42b3406c095dea7b11
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418119"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570384"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>チップでソリューション評価の営業案件の状態を確認する
 
@@ -28,7 +28,7 @@ ms.locfileid: "94418119"
 1. [ **営業案件 id** ] フィールドに、営業案件の id 番号を入力するか貼り付けます。
 3. [検索] をクリックします。
 
-1. [ **POE** 列] の下にある [ **表示** ] をクリックして、営業案件の詳細を表示します。 営業案件の状態を確認します。 営業案件が **送信** 状態の場合は、支払いプロセスを進めるために、実行の実証 (POE) ドキュメントを提出する必要があります。
+1. [ **POE** 列] の下にある [**表示**] をクリックして、営業案件の詳細を表示します。 営業案件の状態を確認します。 営業案件が **送信** 状態の場合は、支払いプロセスを進めるために、実行の実証 (POE) ドキュメントを提出する必要があります。
  
 1. [編集] リンクをクリックして、すべての POE ドキュメントがアップロードされているかどうかを確認します。 POE がアップロードされていて、EM 承認ボックスがオンになっていることを確認します。
  
@@ -42,11 +42,11 @@ ms.locfileid: "94418119"
  
      - **ソリューション評価インセンティブ** を選択します。
 
-     - [ **必要な** もの] セクションで、[ **Search 取引** ] をクリックします。
+     - [**必要な** もの] セクションで、[ **Search 取引**] をクリックします。
 
-     - [ **営業案件** ] ボックスに営業案件 ID を入力し、[ **検索** ] をクリックします。
+     - [ **営業案件** ] ボックスに営業案件 ID を入力し、[ **検索**] をクリックします。
 
-     - 営業案件が表示されたら、[ **送信** ] をクリックします。
+     - 営業案件が表示されたら、[ **送信**] をクリックします。
   
      - 新しい POE メニューで、必要な POE ドキュメントを参照して選択します。
 
@@ -54,15 +54,15 @@ ms.locfileid: "94418119"
 
      - すべての必要なドキュメントをアップロードするために、必要な回数だけこの操作を繰り返します。
 
-     - すべてのドキュメントがアップロードされたら、[ **送信** ] をクリックします。
+     - すべてのドキュメントがアップロードされたら、[ **送信**] をクリックします。
 
 [EM 承認] チェックボックスがオフになっている場合は、ソリューション評価スペシャリスト (SAS) に連絡して、承認を確認してください。
  
 追加の質問がある場合、またはサポートチケットを送信する場合は、[ [サポート](report-problems-with-partner-center.md)] をクリックします。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- [チップで支払いの状態を確認する](chip-payment-status.md)
+- [CHIP で支払いの状態を確認する](chip-payment-status.md)
 - [サポート](report-problems-with-partner-center.md)
 
 .

@@ -1,22 +1,22 @@
 ---
-title: チップへのアクセスに関する問題
+title: CHIP のアクセスに関する問題
 ms.topic: how-to
 ms.date: 11/09/2020
-description: チップへのアクセスに問題がある場合のガイドライン
+description: チャネルインセンティブプラットフォーム (チップ) ツールの使用に関する問題のトラブルシューティングに役立つガイドラインをお読みください。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d25a04119490c0f7d67c733beb3d3b6931f72bb0
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418120"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570605"
 ---
-# <a name="trouble-accessing-chip"></a>チップへのアクセスに関する問題
+# <a name="troubleshoot-issues-with-accessing-chip"></a>チップへのアクセスに関する問題のトラブルシューティング
 
 **適切なロール**
 
@@ -29,12 +29,12 @@ ms.locfileid: "94418120"
 
 主要連絡先または PPA (プライマリプログラム管理者) の場合は、登録のすべての通知が現在の主要連絡先または PPA (プライマリプログラム管理者) に送信されるため、チップにアクセスできる必要があります。 このアクセスは、最初の登録期間後も継続されます。
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-have-had-access-previously"></a>以前にアクセスしたことがあるチップへのアクセスを支援するトラブルシューティングの手順
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>以前にアクセスしたことがある場合にチップへのアクセスを支援するトラブルシューティングの手順
 
 1. すべての cookie をクリアし、プライベートブラウザーでチップを開きます。
-1. ブラウザーで [ **互換表示の設定** ] をクリックします。 チップは Microsoft.com の下に既に表示されています。それ以外の場合は、web サイトを追加します。
+1. ブラウザーで [ **互換表示の設定** ] を選択します。 チップは Microsoft.com の下に既に表示されています。それ以外の場合は、web サイトを追加します。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [チャネルインセンティブプラットフォーム (チップ) の移動](chip-intro.md)
 - [サポート](report-problems-with-partner-center.md)
