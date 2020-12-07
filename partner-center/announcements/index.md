@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/19/2020
-ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.date: 12/03/2020
+ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932771"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570758"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
 パートナー センターの重要な更新についての詳細をご確認ください。 この情報は頻繁に更新されるので、定期的にチェックしてみてください。
 
-| **カテゴリ** | **2020 年 11 月のお知らせ** | **発表** |
+| **カテゴリ** | **2020 年 12 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[通話プラン サービスのある米国 Microsoft 365 Business Voice の更新が近日公開予定](2020-december.md#2)|12 月 3 日|
+|機能|[公開中:教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイスの機能強化](2020-december.md#1)|12 月 3 日|
+| **カテゴリ** | **2020 年 11 月のお知らせ** | **発表** |
 |機能|[統合された新しいアカウント管理エクスペリエンス](2020-november.md#13)|11 月 18 日|
 |製品サービス/市場|[中規模市場キャンペーン向け Office 365 E1 (ラテン アメリカ、アジア太平洋、インド)](2020-november.md#12)|11 月 18 日|
 |機能|[特定の国での顧客のスクリーニングを強化するためのパートナーセンター API の更新とユーザー インターフェイス (UI) の機能強化](2020-november.md#11)|11 月 17 日|
