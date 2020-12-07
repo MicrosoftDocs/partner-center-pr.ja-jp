@@ -5,15 +5,15 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663883"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755641"
 ---
-# <a name="vat-info"></a>付加価値税情報
+# <a name="value-added-tax-vat-information"></a>付加価値税 (VAT) 情報
 
 **適用対象:**
 
@@ -25,6 +25,24 @@ ms.locfileid: "91663883"
 ## <a name="understanding-vat-numbers"></a>VAT 番号について
 
 付加価値税 (VAT) 番号は、欧州連合の国と地域に使用されている識別番号です。 詳細については、欧州連合の公式 [Vies サイト](http://ec.europa.eu/taxation_customs/vies/vieshome.do)を参照してください。
+
+## <a name="location-specific-vat-information"></a>場所固有の VAT 情報
+
+次の詳細は、以下に示す国または地域に固有のものです。
+
+### <a name="european-union"></a>欧州連合
+
+欧州連合の加盟国では、パートナーはリバース チャージに対応し適切な請求を行うために有効な VAT ID 番号を提示する必要があります。 VAT 番号は、有効なものとして受け入れられる必要があります。
+
+Microsoft では、クレジットと再請求はサポートされていません。 サブスクリプションを販売する前に、パートナーセンターで [VAT ID 番号を登録](organization-tax-info.md) する必要があります。
+
+### <a name="south-africa"></a>南アフリカ
+
+Microsoft は、南アフリカのパートナーによって購入されたデジタルコンテンツおよびサービスに標準の VAT を適用します。 請求書から VAT を除外して自分で管理するには、 [Microsoft の VAT ID 番号を送信](organization-tax-info.md)して、パートナーの請求プロファイルを更新する必要があります。
+
+### <a name="turkey"></a>トルコ
+
+Microsoft は、トルコでパートナーによって購入されたデジタルコンテンツおよびサービスに標準の VAT を適用します。 請求書から VAT を除外して自分で管理するには、 [Microsoft の VAT ID 番号を送信](organization-tax-info.md)して、パートナーの請求プロファイルを更新する必要があります。
 
 ## <a name="accepted-formats-for-vat-numbers"></a>VAT 番号で使用される形式
 
@@ -60,6 +78,6 @@ Microsoft は税金に関するアドバイスを提供しないこと、およ�
 |スペイン |-VAT 番号の形式: 9 桁<br/>-国/地域コード: ES<br/>-Example: X12345678、X1234567X 8X、または<br/>-Notes: 1 文字または2文字 (first、last、first、last) が含まれます。 |
 |スウェーデン |-VAT 番号の形式:12 桁<br/>-国/地域コード: SE<br/>-例: 123456789001<br/>-注: 最後の2文字は ' 01 ' でなければなりません。 |
 |イギリス |-VAT 番号の形式: 9 または12桁<br/>-国/地域コード: GB<br/>-例: 123456789 または123456789001<br/>-Note: 9 桁の数字。数値がグループ内のサブ会社を表している場合は12桁です。 |
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [会社の税金情報と、パートナーセンターの購入のために VAT Id を追加または送信する方法](organization-tax-info.md)
