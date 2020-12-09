@@ -1,7 +1,7 @@
 ---
 title: Microsoft 顧客契約に対する顧客の同意を証明する
 description: パートナーが顧客に代わって Microsoft 顧客契約に対する同意を証明することが必要になる場合について説明します。
-ms.topic: article
+ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: aarzh-AaronZhang
@@ -9,28 +9,21 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: fcf1a682d0150675f8bc8660e8dd5215d4c4333c
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 921926ba44a592b8d2fb5da0a50697d62d9d95c7
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367336"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534779"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>顧客に代わって Microsoft 顧客契約の同意を証明する
 
-**適用対象**
-
-- パートナー センター
-- Microsoft 365 管理センター
 
 **適切なロール**
 
+- グローバル管理者
 - 管理エージェント
-- 販売代理店
-
-**適切なパートナーの種類**
-
-- 間接リセラー、直接請求、間接プロバイダー
+- ヘルプデスク エージェント
 
 この記事では、パートナーが顧客に代わって Microsoft 顧客契約に対する顧客の同意を証明することが必要になる場合のある特定のシナリオについて説明します。
 

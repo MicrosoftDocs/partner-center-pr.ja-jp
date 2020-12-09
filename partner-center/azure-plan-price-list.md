@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000326"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534728"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 向けの CSP の新しいコマース エクスペリエンスの価格表
 
@@ -63,7 +63,7 @@ CSP の新しい Azure コマース エクスペリエンスの価格表は、�
 
 - 価格表の価格は、直販価格です。 一部のパートナーは、パートナー獲得クレジットの対象になることがあります。 パートナー獲得クレジットの計算方法の詳細については、「[パートナー獲得クレジットの計算方法と支払い方法](partner-earned-credit-explanation.md)」を参照してください。
 
-- **対象となるサービス**:パートナー獲得クレジットは、パートナーが [Azure プランの価格](https://partner.microsoft.com/commerce/sales)ページからエクスポートできる **Azure プランの従量課金価格**に記載されているサービスに適用されます。 ただし、Azure プランの従量課金価格および Azure プランの予約の [Tags]\(タグ\) 列で [Third Party]\(サードパーティ\) として示されているサードパーティ製品には (それ以外についても)、例外があります。
+- **対象となるサービス**:パートナー獲得クレジットは、パートナーが [Azure プランの価格](https://partner.microsoft.com/commerce/sales)ページからエクスポートできる **Azure プランの従量課金価格** に記載されているサービスに適用されます。 ただし、Azure プランの従量課金価格および Azure プランの予約の [Tags]\(タグ\) 列で [Third Party]\(サードパーティ\) として示されているサードパーティ製品には (それ以外についても)、例外があります。
 
 ## <a name="price-list-data"></a>価格表のデータ
 
@@ -114,3 +114,7 @@ Azure プランの価格表は、パートナー センターの[価格とオフ
 > 価格 API は、Azure プランの価格に固有のものです。 Azure 以外のプランのサブスクリプションに採用された Azure リソースまたは予約については、既存の RateCard API とパートナー センターの「料金とプラン」ページに掲載されている価格表を引き続き使用する必要があります。 Azure プランの価格 API では、Microsoft 365 や Dynamics 365 などのソフトウェア、マーケットプレース、ライセンスベースの価格はサポートされません。
 
 Azure プランの価格と外国為替レートの各 API の詳細については、完全な[価格 API のドキュメント](/partner/develop/pricing)を参照してください。
+
+## <a name="next-steps"></a>次の手順
+
+- [Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)

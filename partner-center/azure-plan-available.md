@@ -1,6 +1,6 @@
 ---
 title: Azure CSP で利用可能な Azure サービス
-description: このセクションでは、Azure クラウド ソリューション プロバイダー (CSP) プログラムで使用できない Azure サービスについて説明します。
+description: この記事では、Azure クラウド ソリューション プロバイダー (CSP) プログラムで利用できるサービスと利用できないサービスについて説明します。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999276"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534966"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure クラウド ソリューション プロバイダー (CSP) プログラムで利用可能な Azure サービス
 

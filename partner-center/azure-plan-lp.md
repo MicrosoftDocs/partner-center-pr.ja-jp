@@ -9,14 +9,20 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998388"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534745"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>概要:Azure プランでは、パートナーは Azure を顧客向け従量課金制料金で購入できます。
+
+**適切なロール**
+
+- 管理エージェント
+- 販売代理店
+- グローバル管理者
 
 Microsoft は、パートナー センターに新しいコマース エクスペリエンスである Azure プランを導入しました。  この新しいコマース エクスペリエンスでは、パートナーは、Microsoft 顧客契約に基づいて、従量課金制の料金で提供される顧客向けの Azure サービスにアクセスできるようになります。
 
@@ -30,14 +36,14 @@ Microsoft は、パートナー センターに新しいコマース エクス�
 >2020 年 2 月 1 日から、既存の Microsoft Cloud 契約は CSP プログラムから削除されます。 その後、Microsoft 365、Dynamics 365、既存の Azure を含むその他のすべてのプランでは、新しい Microsoft Customer Agreement に対する顧客の同意について、パートナーの確認 (構成証明) が必要になります。 CSP のパートナーは、Microsoft Customer Agreement の構成証明なしに、顧客の新しい注文を作成することはできません。 詳細については、「[Microsoft 顧客契約への顧客の同意を確認する](confirm-customer-agreement.md)」を参照してください。
 
 
-## <a name="learn-about-the-azure-plan"></a>Azure プランについて理解する
+## <a name="next-steps"></a>次のステップ
 
 |**目的**   |**参照先**   |
 |------------------|---------------------|
 |Azure プランへの移行を開始する|[Azure プランに移行する - はじめに](azure-plan-get-started.md)
 |PAYG から Azure プランに顧客を移行する|[顧客を Azure プランに移行する](azure-plan-transition.md)|
 |顧客向けの Azure プランを購入する|[Azure プランを購入する](purchase-azure-plan.md)|
-|24 時間 365 日体制でクラウド運用管理を提供する請求パートナーには、その作業のために**管理しているサービスのパートナー獲得クレジット**を得る資格があります。|「[パートナー獲得クレジット - 概要](partner-earned-credit.md)」と、[パートナー獲得クレジットの計算方法 - 詳細](partner-earned-credit-explanation.md)に関する記事|
+|24 時間 365 日体制でクラウド運用管理を提供する請求パートナーには、その作業のために **管理しているサービスのパートナー獲得クレジット** を得る資格があります。|「[パートナー獲得クレジット - 概要](partner-earned-credit.md)」と、[パートナー獲得クレジットの計算方法 - 詳細](partner-earned-credit-explanation.md)に関する記事|
 |Azure オファーの種類の対照比較を表示する|[Azure オファーを比較する](compare-azure-offers.md)|
 |Azure プランで顧客のサブスクリプションとリソースを管理する|[Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)|
 |Azure プランの価格表の読み方について理解する   |[Azure プランの価格表の説明](azure-plan-price-list.md)|
