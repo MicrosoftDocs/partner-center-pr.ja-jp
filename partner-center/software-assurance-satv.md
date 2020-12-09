@@ -1,7 +1,7 @@
 ---
 title: ソフトウェアアシュアランストレーニング伝票プログラム
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: ソフトウェアアシュアランストレーニング伝票プログラムに登録する方法について説明します。これにより、企業のお客様にトレーニングと計画を提供するための補償を受けることができます。
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811202"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926604"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム
 
@@ -39,42 +39,42 @@ ms.locfileid: "87811202"
 
 ## <a name="confirm-program-eligibility"></a>プログラムの適格性を確認する
 
-SATV プログラムに登録する前に、まず、Microsoft ラーニング コンピテンシーに代わる Microsoft Partner Network ラーニング オプションの要件を満たす必要があります。 学習オプションの利用を開始する方法について説明[します。](https://partner.microsoft.com/membership/learning-partners)
+SATV プログラムに登録する前に、まず、Microsoft ラーニング コンピテンシーに代わる Microsoft Partner Network ラーニング オプションの要件を満たす必要があります。 学習オプションの利用を開始する方法について説明 [します。](https://partner.microsoft.com/membership/learning-partners)
 
 パートナーセンターで、適用可能なコンピテンシーおよび評価の要件を含む、会社の資格を確認することができます。 詳細とスクリーンショットについては、SATV ワークフローの[手順 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) に記載されている指示に従ってください。
 
 ## <a name="enroll-in-the-training-program"></a>トレーニング プログラムに登録する
 
-企業が適格性の要件を満たしており、かつプログラムの参加者がコンプライアンス トレーニング コースに合格したら、ソフトウェア アシュアランス トレーニングのトレーニング受講券プログラムの契約に署名し、登録できます。 必ずすべての[satv program ポリシー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)を確認してから、ワークフローの[手順 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) . の指示に従って、パートナーセンターでの satv 登録プロセスを完了してください。
+会社が資格要件を満たした後、ソフトウェアアシュアランストレーニング伝票プログラム契約に署名して登録する準備ができました。 必ずすべての [satv program ポリシー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)を確認してから、ワークフローの [手順 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) . の指示に従って、パートナーセンターでの satv 登録プロセスを完了してください。
 
 
 ## <a name="confirm-course-eligibility"></a>コースの適格性を確認する
-SATV プログラムに登録されると、パートナーが SATV 対象コースのトレーニング セッションを提供できます。そのセッションに対して、顧客は自分のトレーニング受講券を使用することができます。 対象となるコースは、「 [Satv コースの適格性カタログ](https://savl-catalog.microsoft.com/)」に記載されています。 ワークフローの[手順 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)をレビューして、どの種類のコースが対象になっているかを把握します。
+SATV プログラムに登録されると、パートナーが SATV 対象コースのトレーニング セッションを提供できます。そのセッションに対して、顧客は自分のトレーニング受講券を使用することができます。 対象となるコースは、SATV コースの適格性カタログに記載されています。 ワークフローの [手順 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) をレビューして、どの種類のコースが利用可能かを把握したり、コースの適格性カタログへのリンクを取得したりします。
 
 ## <a name="have-customer-create-and-assign-voucher"></a>顧客が受講券を作成して割り当てる
 
-トレーニングの実施前に、顧客はまず自分の SATV 特典のライセンス認証を行い、それを自身の組織に割り当てる必要があります。 伝票を作成して自分に割り当てるために顧客が実行する必要のある手順を示すスクリーンショットの詳細な手順については、ワークフローの[手順 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)を参照してください。
+トレーニングの実施前に、顧客はまず自分の SATV 特典のライセンス認証を行い、それを自身の組織に割り当てる必要があります。 伝票を作成して自分に割り当てるために顧客が実行する必要のある手順を示すスクリーンショットの詳細な手順については、ワークフローの [手順 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) を参照してください。
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>顧客の受講券を検証して予約する
 
-受講券を予約して引き換え、顧客のトレーニングを開始できるようになります。 会社の MPN 管理者は、パートナーセンターの伝票管理ツールにアクセスして、ツールで作業する必要があるユーザーを追加できます。 バウチャーの検証と予約の手順については、ワークフローの[手順 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)を参照してください。
+受講券を予約して引き換え、顧客のトレーニングを開始できるようになります。 会社の MPN 管理者は、パートナーセンターの伝票管理ツールにアクセスして、ツールで作業する必要があるユーザーを追加できます。 バウチャーの検証と予約の手順については、ワークフローの [手順 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) を参照してください。
 
 ## <a name="deliver-training-and-activate-product"></a>トレーニングを提供し、製品のライセンス認証を行う
 
-受講券が予約されたら、トレーニングをご自身の顧客に提供できます。 詳細については、「トレーニングエンゲージメントのためのワークフロー」の[手順 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)のガイドラインと、mooc コースの Microsoft オフィシャルコースウェア (MOC)、試験、および Microsoft のコース証明書のバウチャー (laas) のライセンス認証と購入の手順を参照してください。
+受講券が予約されたら、トレーニングをご自身の顧客に提供できます。 詳細については、「トレーニングエンゲージメントのためのワークフロー」の [手順 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) のガイドラインと、mooc コースの Microsoft オフィシャルコースウェア (MOC)、試験、および Microsoft のコース証明書のバウチャー (laas) のライセンス認証と購入の手順を参照してください。
 
 ## <a name="redeem-voucher"></a>利用券を引き換える
 
-トレーニングが完了したら、受講券を引き換える必要があります。 ワークフローの[手順 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) . に記載されている手順に従って、すべての要件が満たされていることを確認し、支払いを要求できるようにします。 
+トレーニングが完了したら、受講券を引き換える必要があります。 ワークフローの [手順 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) . に記載されている手順に従って、すべての要件が満たされていることを確認し、支払いを要求できるようにします。 
 
 
 ## <a name="request-payment-from-microsoft"></a>Microsoft に支払いを要求する
 
-支払いは、ソフトウェア アシュアランス受講券特典 (SAVB) オンライン支払ツールによって処理されます。 ワークフローの[手順 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) . に記載されている手順に従って、savb を通じて Microsoft に請求書を送信します。 
+支払いは、ソフトウェア アシュアランス受講券特典 (SAVB) オンライン支払ツールによって処理されます。 ワークフローの [手順 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) . に記載されている手順に従って、savb を通じて Microsoft に請求書を送信します。 
 
-詳細については、 [FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)を参照し、「 [satv プログラムポリシー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)」を参照してください。
+詳細については、 [FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) を参照し、「 [satv プログラムポリシー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)」を参照してください。
 
-関連項目:
+次の用語も参照:
 
 - [ソフトウェアアシュアランストレーニング伝票 (SATV) ワークフロー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
 - [ソフトウェアアシュアランストレーニング伝票 (SATV) に関する FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
