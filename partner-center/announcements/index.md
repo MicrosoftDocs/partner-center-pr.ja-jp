@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570758"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869318"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,8 @@ ms.locfileid: "96570758"
 
 | **カテゴリ** | **2020 年 12 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[.NET Standard (v1.16.3) の SDK リリース](2020-december.md#4)|12 月 8 日|
+|製品サービス/市場|[2020 年 12 月のライセンスベースの価格表のリリース ノート](2020-december.md#3)|12 月 8 日|
 |製品サービス/市場|[通話プラン サービスのある米国 Microsoft 365 Business Voice の更新が近日公開予定](2020-december.md#2)|12 月 3 日|
 |機能|[公開中:教育機関の顧客の検証プロセスにおけるパートナー センター API の更新とユーザー インターフェイスの機能強化](2020-december.md#1)|12 月 3 日|
 | **カテゴリ** | **2020 年 11 月のお知らせ** | **発表** |
