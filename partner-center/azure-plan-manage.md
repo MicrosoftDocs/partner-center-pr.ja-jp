@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000606"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534932"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure プランのサブスクリプションとリソースを管理する
 
-パートナーは、顧客を Azure プランに移行すると、既定では Azure の特権管理者権限 (代理管理者によるサブスクリプション所有者権限) が割り当てられます。
+**適切なロール**
+
+- 管理エージェント
+
+
+この記事では、CSP パートナーがさまざまなロールベースのアクセス制御 (RBAC) オプションを使用して、顧客の Azure リソースの運用上の制御と管理を実現する方法について説明します。 パートナーは、顧客を Azure プランに移行すると、既定では Azure の特権管理者権限 (代理管理者によるサブスクリプション所有者権限) が割り当てられます。
 
  > [!NOTE]
  > Azure サブスクリプションに対する管理者権限は、サブスクリプション、リソース グループ、またはワークロード レベルで顧客が削除できます。 
@@ -29,7 +34,7 @@ ms.locfileid: "91000606"
 
 - **Azure Lighthouse**:AOBO では、複数の顧客と連携する個別のグループを柔軟に作成したり、グループやユーザーに対して複数のロールを有効にしたりすることはできません。 Azure Lighthouse を使用すると、複数のグループを複数の顧客またはロールに割り当てることができます。 Azure の委任されたリソース管理によって、ユーザーには適切なレベルのアクセス権が付与されるため、管理者エージェント ロールを持つ (つまり、AOBO のフル アクセス権を持つ) ユーザーの数を減らすことができます。 これにより、顧客のリソースへの不要なアクセスが制限され、セキュリティを向上させることができます。 また、大規模な複数の顧客をより柔軟に管理できます。 詳細については、「[Azure Lighthouse と Cloud Solution Provider プログラム](/azure/lighthouse/concepts/cloud-solution-provider)」を参照してください。
 
--  **ディレクトリまたはゲスト ユーザーまたは[サービス プリンシパル](/azure/active-directory/develop/app-objects-and-service-principals)** :CSP サブスクリプションへの詳細なアクセス権を委任するには、顧客のディレクトリにユーザーを追加するか、ゲスト ユーザーを追加して特定の RBAC ロールを割り当てます。
+- **ディレクトリまたはゲスト ユーザーまたは [サービス プリンシパル](/azure/active-directory/develop/app-objects-and-service-principals)** :CSP サブスクリプションへの詳細なアクセス権を委任するには、顧客のディレクトリにユーザーを追加するか、ゲスト ユーザーを追加して特定の RBAC ロールを割り当てます。
 
 セキュリティ対策として、作業を実行するために必要な最小限のアクセス許可をユーザーに付与することをお勧めします。 [Azure Active Directory Privileged Identity Management リソース](/azure/active-directory/privileged-identity-management/pim-configure)に関する記事を参照してください。
 

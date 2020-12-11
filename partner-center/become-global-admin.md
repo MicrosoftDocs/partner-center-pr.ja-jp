@@ -1,7 +1,7 @@
 ---
 title: 会社のグローバル管理者になる
 ms.topic: how-to
-ms.date: 10/02/2020
+ms.date: 12/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで作業するには、まずドメインの所有権を確認する必要があります。 これを行う方法と、ユーザーを追加できるグローバル管理者になる方法について説明します。
@@ -9,32 +9,22 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abec236f4856fdbfbcaa9654623c5f00b9a47584
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: bb6b167cafec3574906377281cf4699b0a15c32e
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663803"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570724"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>ドメインの所有権を確認してグローバル管理者になる 
 
-**適用対象:**
-
-- パートナー センター
 
 **適切なロール**
 
 - グローバル管理者
 - アカウント管理者
 
-パートナー様の会社がパートナー センターで初めてアカウントを作成したときは、通常、作業を始めるために必要なロールが従業員に割り当てられていません。  パートナー センターで作業するすべてのユーザーに、アクセス許可を含むロールが割り当てられている必要があります。  
-
-## <a name="find-the-companys-global-admin"></a>会社のグローバル管理者を見つける
-
-1. パートナー センターの右上にある **[設定] アイコン**から、 **[ユーザー管理]** を選択します。
-
-1. 検索ボックスでグローバル管理者をフィルター処理します。 会社のグローバル管理者の一覧が表示されます。 会社にまだグローバル管理者がいない場合は、次の手順に従ってください。
-
+パートナー センターで作業するには、まずドメインの所有権を確認し、会社のグローバル管理者になる必要があります。 さらに、作業を開始するために必要なロールが従業員に割り当てられることはありません。  パートナー センターで作業するすべてのユーザーに、アクセス許可を含むロールが割り当てられている必要があります。  
 
 ## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>ドメインの所有権を確認し、パートナー センターでグローバル管理者になる
 
@@ -60,6 +50,12 @@ ms.locfileid: "91663803"
 - 請求
 - パートナー ユーザーの表示、作成、管理
 - クラウド サービスの購入と管理
+
+## <a name="find-the-companys-global-admin"></a>会社のグローバル管理者を見つける
+
+1. パートナー センターの右上にある **[設定] アイコン** から、 **[ユーザー管理]** を選択します。
+
+1. 検索ボックスでグローバル管理者をフィルター処理します。 会社のグローバル管理者の一覧が表示されます。 会社にまだグローバル管理者がいない場合は、次の手順に従ってください。
 
 ## <a name="next-steps"></a>次の手順
 

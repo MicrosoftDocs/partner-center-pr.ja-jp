@@ -1,7 +1,7 @@
 ---
 title: 顧客の管理特権の取得
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顧客のサービスまたはサブスクリプションを代理で管理するために必要なアクセス許可を取得します。 アクセス許可の付与、取り消し、管理を行う方法について説明します。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545903"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534881"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を取得する
 
@@ -47,7 +47,7 @@ ms.locfileid: "87545903"
 6.  顧客のアカウント、サービス、ユーザー、ライセンスを管理するには、その顧客の名前の近くにある下矢印を選択して顧客のレコードを展開した後、管理するサービスの管理ポータルを選択します。
 
 >[!IMPORTANT]  
->顧客は、サービスの管理者ポータルで、管理者のアクセス許可の割り当てを変更したり、削除したりすることができます。 ただし顧客が管理者のアクセス許可の割り当てを変更したり、削除したりした後も、パートナーが顧客との契約について再交渉しない限り、また再交渉するまで、パートナーは引き続きカスタマー サポートを提供し、クラウド リセラー契約の条項を遵守する責任を負います。 この状況で顧客にサポートが必要となった場合は、パートナーが顧客に代わって Microsoft サポートにサービス要求を求めることができます。
+>顧客は、サービスの管理者ポータルで、管理者のアクセス許可の割り当てを変更したり、削除したりすることができます。 ただし、管理者のアクセス許可を削除すると、顧客の代理で Microsoft へのサービス要求を開くことができなくなる点を顧客に知らせる必要があります。 顧客との契約を再交渉するまで、顧客の代理でこのような種類のサービス要求を開くことはできません。
 
 顧客は、Office 365 管理ポータルを使って、テナントの管理特権を持つパートナーを確認することができます。 そのためには、次の手順に従います。
 

@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92333830"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534796"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>会社をパートナー センター アカウントにリンクする職場アカウントを作成する
-
-**適用対象**
-
-- パートナー センター
 
 **適切なロール**
 
@@ -71,3 +67,8 @@ Azure サブスクリプションを購入すると、実質的にはセキュ�
 Azure 職場アカウントは、Azure パブリック クラウドにおける企業の分離された専用の仮想表現です。Azure、Microsoft Intune、Office 365などの Microsoft クラウド サービスにサブスクライブすると作成されます。
 
 職場アカウントには、Azure AD ユーザーとユーザーに関する情報 (パスワード、プロフィール データ、アクセス許可など) がホストされます。 職場アカウントにはまた、グループ、アプリケーションや、会社とそのセキュリティに関連するその他の情報も含まれています。
+
+## <a name="next-steps"></a>次の手順
+
+- [パートナー センター アカウントの管理](partner-center-account-setup.md)
+- [検証状態を追跡する](verification-responses.md)

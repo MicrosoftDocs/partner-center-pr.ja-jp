@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000336"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534813"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>顧客を既存の CSP Azure プランから Azure プランに移行する
 
@@ -27,9 +27,9 @@ ms.locfileid: "91000336"
 - 販売代理店
 - ユーザー管理の管理者
 
-間接プロバイダーおよび直接請求パートナーは、Azure 向け Microsoft クラウド サービス プロバイダー (CSP) プログラムで利用可能な新しいコマース エクスペリエンスに移行できます。 (間接リセラーは、間接プロバイダーを通じて行う必要があります)。パートナーからの購入、マイクロソフト販売者からの購入、または Web 上での直接購入にかかわらず、クラウド サービスを簡単に購入するための最新の方法が顧客に提供されます。
+この記事では、CSP パートナーが、パートナー センターを使用して顧客を既存の CSP Azure オファーから、Azure プランで管理される Azure サービスに移行する方法について説明します。 間接プロバイダーおよび直接請求パートナーは、Azure 向け Microsoft クラウド サービス プロバイダー (CSP) プログラムで利用可能な新しいコマース エクスペリエンスに移行できます。 (間接リセラーは、間接プロバイダーを通じて行う必要があります)。パートナーからの購入、マイクロソフト販売者からの購入、または Web 上での直接購入にかかわらず、クラウド サービスを簡単に購入するための最新の方法が顧客に提供されます。
 
-移行機能は、新しい Azure 向けコマース エクスペリエンスに移行する顧客で、Microsoft 顧客契約に署名している顧客のみを対象としています。Office 365 や Dynamics 365 などの CSP の他のプランは対象外です。
+移行機能は、Azure の新しいコマース エクスペリエンスに移行し、Microsoft 顧客契約に署名したお客様のみを対象としています。 Office 365 や Dynamics 365 など、CSP の他のオファーは対象ではありません。
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>既存の CSP プランの Azure プランへの移行
 
@@ -55,7 +55,7 @@ ms.locfileid: "91000336"
    - ダイレクト CSP での顧客ごとに 1 つのプラン シナリオ  
    - リセラーごとに 1 つのプラン  
 
-   例として、パートナーが 2 つの Microsoft Azure プランを購入し、その購入の中に 2 つの異なる POR が含まれているとします。 この場合、移行ワークフローでは、2 つの Azure プラン (リセラーごとに 1 つ) が購入され、各 Azure サブスクリプションが Azure プランに自動的にマップされます。  
+   例として、パートナーが 2つの Microsoft Azure プランを購入し、その購入の中に 2 つの異なる POR が含まれているとします。 この場合、移行ワークフローでは、2 つの Azure プラン (リセラーごとに 1 つ) が購入され、各 Azure サブスクリプションが Azure プランに自動的にマップされます。  
 
    **Azure サブスクリプションの Azure プランへのマッピング**
 

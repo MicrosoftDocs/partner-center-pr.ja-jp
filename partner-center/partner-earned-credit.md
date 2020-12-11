@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナー獲得クレジット (PEC) が、どのように簡略化された統一 Azure 価格を提供し、付加価値のあるマネージド サービスを実現し、利益に対する競争を排除するかについて説明します。
+description: パートナー獲得クレジット (PEC) によって、簡略化された統一 Azure 価格と付加価値のあるマネージド サービスを実現すると同時に、利益に対する競争を排除する方法について説明します。
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220510"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556397"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>パートナー獲得クレジット - CSP の新しいコマース エクスペリエンスにおける仕組みの概要
 
@@ -32,7 +32,7 @@ Azure には何千ものサービスがあり、複数の購入オプション�
 
 顧客のデジタル転換のニーズによって、パートナーが提供する価値の性質も変わっています。 多くの顧客は、パートナーが単なる取引にとどまらないサービスを提供することを期待します。 そのようなサービスは、顧客がクラウドへ移行する際の障害となるものを取り除き、Azure サービスを効率的に使用するのに役立ちます。 このようなサービスは継続的なものであり、Azure 資産の監視、ポリシーとガバナンスの管理、設定と構成の微調整、テクニカル サポート、およびその他のさまざまなサービスが含まれています。 
 
-このようなサービスには、顧客の Azure 環境をよく理解し、管理対象の基礎となるリソースを継続的かつ適切に管理および統制するパートナーが必要です。 この年中無休のクラウド運用管理アクティビティを提供する請求パートナーは、パートナーによって統制および管理される顧客の Azure 資産上で**マネージド サービスのパートナー獲得クレジット**の対象となります。
+このようなサービスには、顧客の Azure 環境をよく理解し、管理対象の基礎となるリソースを継続的かつ適切に管理および統制するパートナーが必要です。 この年中無休のクラウド運用管理アクティビティを提供する請求パートナーは、パートナーによって統制および管理される顧客の Azure 資産上で **マネージド サービスのパートナー獲得クレジット** の対象となります。
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>パートナーおよび顧客のパートナー獲得クレジットの特典

@@ -1,6 +1,6 @@
 ---
 title: Microsoft 顧客契約に対する顧客の同意を確認する
-description: Microsoft 顧客契約に対する顧客の同意を確認する方法について説明します。 クラウド ソリューション プロバイダー (CSP) プログラムの参加者が顧客のために Microsoft の製品とサービスを注文するには、これを行う必要があります。
+description: クラウド ソリューション プロバイダー (CSP) パートナーは、顧客に代わって Microsoft サービスを注文する前に、Microsoft 顧客契約への顧客の同意を確認する必要があります。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 45a34473ff63875af8bd07962ea836661bc948ee
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 423cf1aab281ad8e77e03aa386b43360e1b99b3c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198058"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570571"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP パートナー プログラムで Microsoft 顧客契約への顧客の同意を確認する
 
@@ -28,7 +28,7 @@ ms.locfileid: "92198058"
 - 管理エージェント
 - 販売代理店
 
-2019 年 10 月 1 日に、Microsoft Cloud 契約に置き換わるものとして、CSP プログラムに **Microsoft 顧客契約**が導入されました。 間接リセラー向けの追加の[ガイダンス](indirect-reseller-tasks-in-partner-center.md)をご覧ください。 新しい契約へのパートナーの移行を促進するために、2020 年 1 月 31 までは両方の契約が CSP プログラムで共存していました。 2020 年 2 月 1 日に、Microsoft Cloud 契約は Microsoft 顧客契約に置き換わりました。
+2019 年 10 月 1 日に、Microsoft Cloud 契約に置き換わるものとして、CSP プログラムに **Microsoft 顧客契約** が導入されました。 間接リセラー向けの追加の[ガイダンス](indirect-reseller-tasks-in-partner-center.md)をご覧ください。 新しい契約へのパートナーの移行を促進するために、2020 年 1 月 31 までは両方の契約が CSP プログラムで共存していました。 2020 年 2 月 1 日に、Microsoft Cloud 契約は Microsoft 顧客契約に置き換わりました。
 
 顧客が Microsoft 顧客契約に同意するには、次の 2 つのオプションがあります。 
 
@@ -72,11 +72,11 @@ ms.locfileid: "92198058"
 
 3. **[Microsoft 顧客契約]** で **[更新]** を選択します。
 
-4. 契約に同意したユーザーの**名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。 **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
+4. 契約に同意したユーザーの **名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。 **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
 
 5. **[保存]** を選択して続行します。
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="新しい顧客":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="既存の顧客":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>お客様の同意の確認を取得する
 
@@ -128,7 +128,7 @@ ms.locfileid: "92198058"
 >[!NOTE] 
 >新規の顧客は、Microsoft 顧客契約に同意するまで新しい購入を行うことはできません。  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="新しい顧客":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="新規の顧客を作成する":::
 
 5. 新規顧客のワークフローで **[確認]** 画面が表示されたら、顧客の資格情報を保存します。 これらの資格情報は、後で顧客に提供する必要があります。
 
@@ -156,7 +156,7 @@ ms.locfileid: "92198058"
 
 4. このメール テンプレートを使用して、 **[reseller relationship]\(リセラー関係\)** の要求と **[Microsoft 顧客契約]** に同意するよう顧客に要請します。 (注:パートナーは、この要請メールに、自動的に作成された URL と、先ほど作成された顧客の資格情報も含めてください。)
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="新しい顧客":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="関係を作成する":::
 
 5. 顧客がメールで要請を受け取り、パラメーター化された URL をクリックします。 
 
@@ -166,7 +166,7 @@ ms.locfileid: "92198058"
 
 8. 同じ URL 内で、顧客は、協力関係にあるさまざまなパートナーの一覧を統合して表示できます。 パートナーを選択すると、詳細を表示できます。
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="新しい顧客":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="契約に同意する":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>契約を確認して同意するよう既存の顧客に要請する
@@ -183,7 +183,7 @@ Microsoft 顧客契約を確認して同意するよう既存の顧客に要請�
 
 5. 同じ URL 内で、顧客は、協力関係にあるさまざまなパートナーの一覧を統合して表示できます。 パートナーを選択すると、詳細を表示できます。
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="新しい顧客":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="顧客":::
 
 >[!NOTE]
 >特定のシナリオでは、Microsoft 顧客契約に顧客が直接同意できない場合があります。 そのようなシナリオについて詳しくは、「[顧客の代わりに証明する必要がある 2 つのシナリオ](attest-acceptance-customer-agreement.md)」をご覧ください。
