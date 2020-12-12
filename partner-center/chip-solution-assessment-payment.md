@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ab0cd74e3955a71383b2ba758dc76b1b37fdee6
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f005db5d69fe6febf79720544642ee9f3d8c2e75
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570469"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354408"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>ソリューション評価の支払い状態と計算情報
+
+**適切なロール**
+
+- 主要連絡先またはプログラム管理者
 
 チップで、ソリューション評価の営業案件の状態の支払い状態を確認できます。
 
@@ -50,6 +54,6 @@ ms.locfileid: "96570469"
  
 1. "EM レビュー" チェックボックスをオンにしてください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [CHIP のアクセスに関する問題](chip-access-trouble.md) 

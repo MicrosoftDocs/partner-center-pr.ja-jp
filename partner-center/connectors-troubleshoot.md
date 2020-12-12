@@ -8,18 +8,17 @@ description: 共同販売コネクタの使用に関してよく寄せられる�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031265"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354544"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>共同販売紹介コネクタのトラブルシューティング
 
 **適用対象:**
 
-- パートナー センター
 - Dynamics 365 CRM
 - Salesforce CRM
 
@@ -80,7 +79,7 @@ Salesforce コネクタソリューションの種類は "Dynamics Flow" で、�
 
 3. Power オートメーションプラットフォームでパートナーセンターから CRM へのフローをアクティブにするときに、次のエラーが発生した場合はどうすればよいですか?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="サインインが必要なエラーメッセージ":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="更新が必要なエラーメッセージ":::
 
 次のトラブルシューティング手順に従います。
 
@@ -95,11 +94,11 @@ Salesforce コネクタソリューションの種類は "Dynamics Flow" で、�
 - 各フローを選択し、個別に編集します。
 - フロー内のすべてのステップを展開する 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="サインインが必要なエラーメッセージ":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="接続が必要な手順":::
 
 - 接続の関連付けと接続の追加を求める警告アイコンが表示される手順を選択します。 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="サインインが必要なエラーメッセージ":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="フローステップをステップごとに編集":::
 
 
 5. 共同販売参照コネクタソリューションのフローが有効になっていない場合はどうすればよいですか。
@@ -114,9 +113,9 @@ A. Power の自動化では、次の順序でフローを編集し、正しい�
 - パートナーセンターへの Salesforce の営業案件 (Insider Preview)
 - パートナーセンターへの Salesforce Microsoft ソリューション (Insider Preview)
 
- B. 各フローに対して、[ **ユーザーのみ実行** ] オプションを選択します。 [**実行専用ユーザーによって提供される**のではなく、**接続を使用する**] を選択します。  
+ B. 各フローに対して、[ **ユーザーのみ実行** ] オプションを選択します。 [**実行専用ユーザーによって提供される** のではなく、**接続を使用する**] を選択します。  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="サインインが必要なエラーメッセージ":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="フローをアクティブ化するには":::
 
 
 C. 以下のフローフローをアクティブにします。
@@ -128,7 +127,7 @@ C. 以下のフローフローをアクティブにします。
     
 D. 残りのすべてのフローをアクティブ化します。
 
-E. Flow パートナーセンターの Webhook 登録で、[ **実行**] を選択します。 **パートナーセンター**の最初のアクションから Salesforce flow に**http url**を指定します。 [ **登録するイベント** ] の下にある4つのオプションをすべて選択し、[上書き] で [ **はい]** を選択します。
+E. Flow パートナーセンターの Webhook 登録で、[ **実行**] を選択します。 **パートナーセンター** の最初のアクションから Salesforce flow に **http url** を指定します。 [ **登録するイベント** ] の下にある4つのオプションをすべて選択し、[上書き] で [ **はい]** を選択します。
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>実行/メンテナンスに関する質問と回答
 
@@ -140,11 +139,11 @@ E. Flow パートナーセンターの Webhook 登録で、[ **実行**] を選�
  
 参照同期の状態を確認するには、[ **監査**] を選択します。 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="サインインが必要なエラーメッセージ":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="参照を同期する方法":::
 
 次の条件が満たされていることを確認します。
 
-- ソリューション id は、営業案件の一部として提供されます。
+- ソリューション ID は、営業案件の一部として提供されます。
 
 - 2文字の国コードが必要です。
 
@@ -156,9 +155,55 @@ E. Flow パートナーセンターの Webhook 登録で、[ **実行**] を選�
 
 - パートナーの販売者は、CRM セクションで **パートナーセンターオプションとの同期** を有効にしていることを確認する必要があります。
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="サインインが必要なエラーメッセージ" として閉じられていないことを確認します。
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="同期が有効になっていることを確認する":::
 
-## <a name="next-steps"></a>次の手順
+- 販売元は、潜在顧客を限定するときに収益と終了日を提供する必要があります。
+
+- CRM ID が共同販売の機会の **作成** または **更新** ステージで提供されていても、その id を持つリードチャンスが crm に見つからない場合、update または create は無視されます。
+
+- [紹介通貨] フィールドが Salesforce 環境で構成されていることを確認します。 
+
+4. コネクタが切断され、参照の同期が失われた場合はどうすればよいですか。 
+
+次に、試してみることのできるオプションをいくつか示します。
+
+- パートナーセンターのユーザーに対して、ユーザー名またはパスワードの有効期限が切れているかどうかを確認します。
+
+- 同期されていない営業案件にアクセスし、マイナー更新を行い、参照が同期されているかどうかを確認できます。
+
+- フローが実行されて失敗した場合は、フローを選択し、失敗した実行を再送信します。
+
+5. アクセス拒否エラーが発生した場合はどうすればよいですか?
+
+適切なロールが存在することを確認する
+
+- パートナーセンターの販売者の紹介管理者ロール 
+ 
+- CRM インスタンスのシステム管理者ロールまたはシステムカスタマイザーロール
+
+- フローアカウントのユーザーログが https://flow.microsoft.com 少なくとも事前に1回は自動で実行されていることを確認します。
+
+6. 共同販売の機会の作成中に **顧客アカウントの国コード** が不足していることがわかった場合は、どうすればよいでしょうか。
+
+ISO の2文字の国コードを CRM の顧客アカウントに追加する必要があります。
+
+7. 共同販売の機会を作成するときに **ソリューション ID が必要** であるというエラーが表示された場合はどうすればよいですか。
+
+共同販売の紹介を作成するには、Microsoft 共同販売の準備ができているソリューションが必要です。 
+
+8. フローエラーが発生していなくても CRM に同期されていない共同販売機会がパートナーセンターで作成されている場合は、次のことを行う必要があります。
+
+次の操作を行います。
+
+- パートナーセンターで新しい共同販売取引を作成した後、パートナーセンターから Dynamics 365 へのフローが呼び出されるかどうかを確認します (複数回呼び出される可能性があります)。
+
+- フローが呼び出された場合は、呼び出されたすべてのフローを確認し、CRM を更新するフロー実行を特定します。 アクションに従って操作を実行し、CRM が更新されたか、または問題が発生したかどうかを確認できます。
+
+- パートナーセンターで *新しい商談** を確認し、CRM ID が設定されているかどうかを確認します。
+
+- パートナーセンターで、取引が誤って "勝ち" または "Lost" として閉じられていないことを確認します。
+
+## <a name="next-steps"></a>次のステップ
 
 - [見込み客を管理する](manage-leads.md)
  

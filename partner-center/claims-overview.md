@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133084"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354510"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>共同マーケティング資金を獲得
-
-**適用対象**
-
-- パートナー センター
 
 **適切なロール**
 

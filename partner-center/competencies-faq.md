@@ -8,20 +8,18 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570486"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354459"
 ---
 # <a name="competencies---frequently-asked-questions"></a>コンピテンシー-よく寄せられる質問
 
-適用対象:
+**適切なロール**
 
-- パートナー センター
-- 米国政府機関向け Microsoft Cloud のパートナー センター
-- Microsoft Partner Network (MPN) プログラムのパートナー
+- MPN パートナー管理者
 
 この記事では、Microsoft Partner Network コンピテンシーの提供に関連する試験、認定資格、およびソフトウェアの利点に関する一般的な質問に回答します。
 
@@ -94,7 +92,7 @@ ms.locfileid: "96570486"
 >
 > 過去12か月間のデータのみが、コンピテンシーに関連するパフォーマンス、スキル、またはその他の要件を計算するために考慮されます。 クラウド Business Applications コンピテンシーなどのコンピテンシーのパフォーマンス計算の詳細については、「 [パートナー貢献度インジケーター](partner-contribution-indicators.md)」を参照してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [MPN コンピテンシー](learn-about-competencies.md)の詳細
 - [パートナーセンターのインサイトレポート](partner-center-insights.md)についての詳細情報

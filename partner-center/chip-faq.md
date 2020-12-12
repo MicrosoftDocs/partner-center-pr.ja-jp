@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d90a98fa323af187dd86f3d2d9f585167cc817c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 9395a64a5bdf5aa0219bb9457d581e71bef777c2
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570452"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354629"
 ---
 # <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>チャネルインセンティブプラットフォーム (チップ) のソリューション評価インセンティブに関する FAQ 
+
+**適切なロール**
+
+- 主要連絡先またはプログラム管理者
 
 以下でよく寄せられる質問への回答を検索します。
 
@@ -63,6 +67,6 @@ FY20 のソリューション評価インセンティブプログラムでアク
 
 利用可能なトピック固有のヘルプを表示した後で、サポートが必要な場合は、「推奨されるドキュメント– **サポートチケットを作成** する」オプションからチケットを作成できます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [チップの移動](chip-intro.md)

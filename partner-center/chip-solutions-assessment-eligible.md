@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447240"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354476"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>ソリューション評価インセンティブプログラムの資格要件
+
+**適切なロール**
+
+- 主要連絡先またはプログラム管理者
 
 FY20 のソリューション評価インセンティブプログラムでアクティブおよび登録済みの状態を持つパートナーは、アクティブな MPN メンバーシップとアクティブなシルバーまたはゴールドの MPN コンピテンシーを持っている場合、FY21 のインセンティブの対象となります。 パートナーの要件は、1年に1回、ご確認ください。 定評のあるパートナーが現在の年に適格性および参加の要件を満たしていない場合は、次の年間レビューで削除されます。 すべての新しいパートナーは、その地域のローカルソリューション評価スペシャリスト (SAS) を通じてオンボードされます。 SAS は、パートナー企業のスキルと専門知識の照合と、SAS によってサポートされる子会社のビジネスニーズに基づいて、オンボードするパートナーを特定します。
 
@@ -24,7 +28,7 @@ FY20 のソリューション評価インセンティブプログラムでアク
 
 インセンティブプログラムに現在登録されていないパートナーは、ソリューション評価インセンティブオンボードの対象となるように、FY21 インセンティブ条件を満たす必要があります。
 
-## <a name="requirements"></a>必要条件
+## <a name="requirements"></a>要件
 
 |**資格要件**|**条件**|
 |-----------------------|------------------|
