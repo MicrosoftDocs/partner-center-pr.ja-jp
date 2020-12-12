@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175085"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153147"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>顧客に代わってサービスの問題を報告します。その方法や方法などが含まれます。
 
@@ -31,11 +31,13 @@ ms.locfileid: "92175085"
 
 ## <a name="submit-a-service-request-for-a-customer"></a>顧客のサービス リクエストを提出する
 
-1. **パートナー センター** メニューの **[サービス要求]** を選択し、**[顧客の要求]** を選択します。 
+1. [CSP] の [パートナーセンター] メニューから、[**顧客**] を選択します。
 
-2. [ユーザーの要求] ページで、対象の顧客を検索します。
+2. [顧客] ページで、目的の顧客を選択または検索します。
+    
+3. カスタマーメニューから、[**サービスリクエスト**] を選択します。
 
-3. **[新しい要求]** ドロップダウン メニューで、**[Azure]** または **[Office 365、Dynamics 365、Enterprise Mobility Suite]** を選択します。 Microsoft Azure portal または Office 365 管理センターにリダイレクトされます。
+4. **[新しい要求]** ドロップダウン メニューで、**[Azure]** または **[Office 365、Dynamics 365、Enterprise Mobility Suite]** を選択します。 Microsoft Azure portal または Office 365 管理センターにリダイレクトされます。
 
 >[!NOTE]
 >CSP で Dynamics 365 を操作するサポート操作パートナーは、パートナー (ASfP) プラン以降の高度なサポート契約を維持するために必要です。 このサポート契約は、CSP のお客様の代わりに Dynamics 365 インシデントを送信するために必要です。 サポート契約オプションの詳細については、[こちらを参照](https://partner.microsoft.com/support/partnersupport)してください。
@@ -116,7 +118,7 @@ ISV の連絡先情報を検索するには:
 
 最初の応答時間は、提出された問題の重大度によって変わります。 問題の重大度は、サービス要求を提出するときに示されるビジネスへの影響の程度によって決められます。
 
-**技術的な故障対策インシデント**の初回の応答時間:
+**技術的な故障対策インシデント** の初回の応答時間:
 
 - 重大な影響 (重大度 A): 2 時間 (サービスの大幅な損失または低下。 実稼働サービスの停止。)
 - 中程度の影響 (重大度 B): 4 時間 (中程度の損失またはサービスの低下)。 実稼働サービスは部分的に影響を受けています。)
@@ -147,7 +149,7 @@ Dynamics 365 Plan サブスクリプション、ライセンス、課金、財�
 
 「[Microsoft Dynamics のサポート](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)」を参照する
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [顧客へのサポート提供](customer-support.md)
 - [サービスの正常性の確認](check-service-health.md)
