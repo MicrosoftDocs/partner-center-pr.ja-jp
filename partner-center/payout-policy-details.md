@@ -1,22 +1,27 @@
 ---
-title: 支払いスケジュールとポリシーの詳細-Azure marketplace
-description: スケジュールや recoupment など、商業市場における支払いポリシーに関連する詳細について説明します。
+title: 支払いスケジュールとプロセス
+description: 支払いとトランザクションについて説明します。たとえば、商業市場やその他の取引に関する支払いスケジュールや recoupment プロセスなどです。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513299"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492672"
 ---
-# <a name="payout-schedules-and-policy-details"></a>支払いスケジュールとポリシーの詳細
+# <a name="payout-schedules-and-processes"></a>支払いスケジュールとプロセス
 
-この記事では、Microsoft の支払いプロセス、支払いスケジュール、支払いの状態を確認する場所、およびお客様の支払いのないプロセスについて説明します。
+**適切なロール:**
+
+- アカウント管理者
+- グローバル管理者
+
+この記事では、Microsoft の支払いスケジュール、支払いの状態を確認する場所、およびお客様の支払いのないプロセスについて説明します。
 
 ## <a name="payment-schedules"></a>支払いスケジュール
 
@@ -90,7 +95,7 @@ Microsoft では、次のいずれかの方法を使用して、支払い済み�
 通常、毎月 15 日にその月に支払い予定の金額が送金されますが、支払いがご利用の口座に着金するまでにはさらに時間がかかります。 日数は、以下で説明するように、アカウントに使用する支払い方法によって異なります。
 
 > [!NOTE]
-> 以下に示す日数は目安です。支払いの着金までの時間は、長くなったり短くなったりする場合があります。
+> 次に示す曜日は概数です。支払いによっては、お客様のアカウントにより多くの時間がかかる場合があります。
 
 | 支払い方法     | 支払い受取口座に着金するまでの日数     |
 |--------------------|--------------------------------------------|
@@ -99,6 +104,6 @@ Microsoft では、次のいずれかの方法を使用して、支払い済み�
 | 電信送金      | 7 から 10 営業日                         |
 |
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [税の詳細](tax-details-marketplace.md)

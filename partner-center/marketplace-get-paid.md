@@ -1,23 +1,28 @@
 ---
-title: コマーシャル マーケットプレースでの支払いの受け取り
-description: コマーシャルマーケットプレースでの収益の支払いについては、Azure Marketplace を参照してください。 支払いポリシー、支払い保留の状態、および支払いステートメントが含まれます。
+title: パートナーセンターでの有料
+description: 商用 marketplace プラン、インセンティブプログラム、クラウドソリューションプロバイダープログラムなどを通じて、Microsoft パートナーとして収益の支払いを受ける方法について説明します。 支払いポリシー、支払い保留の状態、および支払いステートメントが含まれます。
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514726"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492451"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>コマーシャル マーケットプレースでの支払いの受け取り
+# <a name="getting-paid-in-partner-center"></a>パートナーセンターでの有料
+
+**適切なロール:**
+
+- アカウント管理者
+- グローバル管理者
 
 この記事には、プラン、アドオン、広告収益の支払いに関する重要な情報が記載されています。 支払いポリシー、支払い前に必要な手順、および支払い明細書の概要がまとめられています。
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>商用 marketplace の支払いポリシーと契約
+## <a name="payout-policies-and-agreements"></a>支払いポリシーと契約
 
 支払いを受けるには、契約および支払いポリシーに従う必要があります。
 
@@ -46,7 +51,7 @@ ms.locfileid: "95514726"
 
 支払い明細書は、取引履歴のプランやアドオンからの売上の利益を示しています。 また、支払いの詳細を表示したり、レポートを tsv 形式または csv 形式でダウンロードしたりすることもできます。 支払い明細書にアクセスする方法と、トランザクション履歴および支払いレポートの詳細については、「 [支払明細書](payout-statement.md) 」を参照してください。 さらに、 [Partner 支払い API](https://apidocs.microsoft.com/services/partnerpayouts) を使用して、支払いレポートを体系的にプルすることもできます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [Partner 支払い API](https://apidocs.microsoft.com/services/partnerpayouts)
-- [マーケットプレースでの支払いに関する FAQ](payout-faq.md)
+- [支払いに関する FAQ](payout-faq.md)

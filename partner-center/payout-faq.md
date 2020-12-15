@@ -1,22 +1,69 @@
 ---
-title: Microsoft の商用マーケットプレースに関する支払いに関してよく寄せられる質問
-description: 商用マーケットプレースでの支払いに関してよく寄せられる質問への回答を得ます。 収益が予想と異なる理由についての回答が含まれています。
+title: 支払いと税務プロファイルに関する FAQ
+description: パートナーセンターでの支払いと税金の詳細についてよく寄せられる質問への回答を得ます。 収益が予想と異なる理由についての回答が含まれています。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/11/2020
-ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 11/25/2020
+ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532023"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492587"
 ---
-# <a name="common-questions-about-commercial-marketplace-payouts"></a>コマーシャルマーケットプレース支払いに関してよく寄せられる質問
+# <a name="common-questions-about-payouts-and-taxes"></a>支払いと税金に関してよく寄せられる質問
 
-この記事では、商用マーケットプレースの支払いに関してよく寄せられる質問に回答します。
+**適切なロール**:
+
+- アカウント管理者
+- グローバル管理者
+- インセンティブ管理者
+
+この記事では、パートナーセンターでの支払いと税金の詳細についてよく寄せられる質問に回答します。説明されているトピックには、支払いのタイミング、収益の適格性の確認、支払いと税金のプロファイルを正しく設定することの重要性が含まれます。
+
+## <a name="profile-management"></a>プロファイル管理
+
+#### <a name="why-do-i-need-to-provide-or-update-my-payout-andor-tax-details"></a>支払いや税金の詳細を提供または更新する必要があるのはなぜですか。
+
+新しいプログラムに登録するすべてのパートナーは、有効な支払いと税金の詳細を提供して、登録を完了し、支払いを受ける必要があります。 登録は、Microsoft が支払いと税金のプロファイルを検証した後にのみ完了と見なされます。
+
+また、プログラムの規則が変更された場合や、プロファイルの側面の有効期限が切れた場合や期限切れになった場合にも、情報を更新することが必要になる場合があります。 この場合、[概要] ページに [ **アクションが必要] の状態 (更新プログラムの銀行または税プロファイル)** が表示されます。
+
+#### <a name="how-do-i-find-set-up-or-update-payout-and-tax-details"></a>支払額と税金の詳細を検索、設定、または更新操作方法ますか?
+
+パートナーセンターで支払いと税金の詳細を更新する方法の詳細については、「支払い [勘定科目と税金のフォームの設定](set-up-your-payout-account.md)」を参照してください。
+
+#### <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>支払いおよび税務プロファイルを割り当てるとき、登録が表示されないのはなぜですか?
+
+適切なアクセス許可を持っていないか、これらのアクセス許可を持たないアカウントでログインしている可能性があります。 たとえば、MPN の場所のインセンティブ管理者だけが、支払いと税金のプロファイルを作成または管理できます。 銀行と税金のアクセス許可の管理については、組織の管理者に問い合わせてください。
+
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみサインインでき @onmicrosoft.com ます。 どうすればよいですか。
+
+ドメインを AAD アカウントに追加するには、アカウント管理者に連絡してください。
+ 
+#### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>組織は複数のプログラムに参加しています。 支払いと税金のプロファイルを何度も入力する必要がありますか。
+
+組織のニーズによって異なります。 支払いプロファイルは組織レベルで作成されます。これにより、組織内の複数の MPN ID とプログラムに同じ銀行プロファイルを割り当てることができます。 ほとんどの場合、既存のプロファイルを再利用するか、新しいプロファイルを作成することができます。
+
+ただし、銀行プロファイルをさまざまな国またはリージョンに適用するときは、現地の銀行または税法規が適用される場合があるため、例外が発生することがあります。
+
+MPN の場所に対して作成された税プロファイルは再利用され、同じ MPN の場所が別のプログラムに参加したときに自動的に設定されます。 ただし、例外が発生する場合もあります。 たとえば、新しいインセンティブ プログラムの支払いルールに基づいて、税務プロファイルの追加情報が求められることがあります。
+
+#### <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Microsoft では、すべてのインセンティブプログラムに同じ銀行と税金の詳細を使用できますか。
+
+企業が複数のプログラムに対して招待されている場合は、すべてのプログラムに同じ支払いアカウントを使用することも、異なるプログラムに対して異なる支払いアカウントを選択することもできます。
+
+
+#### <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Microsoft は、従業員の個人銀行口座ではなく、会社の銀行情報を実際に確認するにはどうすればよいでしょうか。
+
+この情報を編集するアクセス許可を持つインセンティブ管理者の役割が、適切な従業員にのみ与えられるようにすることは、会社の責任です。
+
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>税金プロファイルの有効期限が切れています。 これをどのように修正すればよいですか?
+
+「 [税務プロファイルを作成または更新](set-up-your-payout-account.md#create-or-update-your-tax-profile) する」の手順に従って、税金プロファイルを更新します。 [ **税プロファイル** ] ページでは、有効期限が切れたプロファイル、または有効期限切れになっているプロファイルが、 **有効期限の日付** 列に表示されます。 
 
 ## <a name="earnings-incorrect-or-missing"></a>収益が間違っているか見つかりません
 
@@ -32,9 +79,10 @@ ms.locfileid: "94532023"
 - 国別の税金の責任を確認します。 Microsoft が納税義務を負う国の場合、Microsoft が発行元の収益から税金を控除して徴収します。 明細書に表示されている取引金額は、税引後の金額です。 「[税の詳細](tax-details-marketplace.md)」を参照してください。
 - SaaS と IaaS のプランでは、standard 20% ではなく10% の割引機関の料金が発生し、収益率は90% になります。 このキャンペーンは 2021 年 6 月 30 日まで有効です。
 
-**参考資料** : コマーシャルマーケット [プレース発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、支払い [ポリシーの詳細](payout-policy-details.md)、 [支払いのしきい値、方法、時間帯](payment-thresholds-methods-timeframes.md)、商用マーケットプレース [での支払い](marketplace-get-paid.md)、税金の [詳細](tax-details-marketplace.md)、 [支払い明細書](payout-statement.md)、 [商業市場分析の注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard)
+**参考資料**:[商業市場発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、支払い [ポリシーの詳細](payout-policy-details.md)、[支払いのしきい値、方法、期間](payment-thresholds-methods-timeframes.md)、[支払い、](marketplace-get-paid.md)[税金の詳細](tax-details-marketplace.md)、[支払い明細書](payout-statement.md)
 
 ## <a name="earnings-reconciliation"></a>収益の調整
+
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>分析で注文レポートまたは使用状況レポートに対して支払い明細を調整するにはどうすればよいですか?
 支払いトランザクション履歴レポートに表示される AssetID、orderID、および行項目 ID を使用して、分析注文と使用状況レポートを表示します。 次のマッピングを使用します。
 
@@ -47,26 +95,13 @@ ms.locfileid: "94532023"
 - 企業のお客様については、発注日から1-2 日後に、出版社の収益が明細書に記載されています。
 - 非企業のお客様については、お客様の支払いが受領されてから1-2 日後に発行元の収益が示されます。
 
-**参考資料** : [支払い明細書](payout-statement.md)、 [商業市場分析における注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard)
-
-## <a name="payout-policies"></a>支払いポリシー
-
-#### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>現在の代理店手数料と支払いレートを確認するにはどうすればよいですか?
-
-- コマーシャル マーケットプレースの発行元契約を確認します。 標準の代理店手数料は 20% です。 SaaS Co-Sell 適格なトランザクションには、10% の割引料金が適用されます。 代理店手数料のプロモーションの通知がないか確認してください。
-- 支払い明細では、指定されたトランザクションの実際の支払い率を指定します。
-
-#### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>明細に収益が表示されたら、Microsoft からの支払い予定はいつですか?
-- 収益が未処理状態の場合、収益の支払いが処理される月の支払期日を確認することができます。 支払いの準備が完了すると、獲得状態が "処理済み" に変わります。  Microsoft は、支払月の 15 日までに支払いを行います。
-- クレジットカードによる注文の場合、Microsoft は、収益が成熟するまで30日間支払いを行います。
-
- **参考資料** : [市販の Marketplace 発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)、 [税金の詳細](tax-details-marketplace.md)、 [支払いのしきい値、方法、時間枠](payment-thresholds-methods-timeframes.md)
+**参考資料**: [支払い明細書](payout-statement.md)、 [商業市場分析における注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="payments-and-adjustments"></a>支払いと調整
 
 #### <a name="why-is-my-payment-missing"></a>支払いが見つからないのはなぜですか?
 
-- [ [概要] ページ](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)で、支払いの状態と税金のプロファイルの状態が *有効* として表示されていることを確認します。
+- [[概要] ページ](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)で、支払いの状態と税金のプロファイルの状態が *有効* として表示されていることを確認します。
 - 支払いの最小しきい値を満たしていない可能性があります。 支払いを受けるには、収益が $50 米国ドル以上である必要があります。
 
 
@@ -81,7 +116,7 @@ ms.locfileid: "94532023"
 
 支払いの調整は、システムの問題などの補償的な調整に対応するための支払いの修正です。 支払い明細では、ReasonCode によって調整の理由が指定されます。 これらは個々のトランザクションを直接調整するためのものではありません。
 
-**参考資料** : [市販の Marketplace 発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)、 [税金の詳細](tax-details-marketplace.md)、 [支払いのしきい値、方法、時間枠](payment-thresholds-methods-timeframes.md)
+**参考資料**: [市販の Marketplace 発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)、 [税金の詳細](tax-details-marketplace.md)、 [支払いのしきい値、方法、時間枠](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>税
 
@@ -104,16 +139,16 @@ ms.locfileid: "94532023"
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>取引の源泉徴収税を確認するにはどうすればよいですか?
 源泉徴収税は、W-9 フォームを提出した米国の発行元に対して適用されます。 源泉徴収税は毎月の支払い時に計算されます。
 
-**参考資料** : [商業市場発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)
+**参考資料**: [商業市場発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>支払明細書へのアクセス
 
 #### <a name="how-do-i-access-a-payout-statement"></a>支払い明細にアクセスする方法
 
-1. ロールを確認します。 支払い明細にアクセスするには、 *財務共同作成者* または *アカウント所有者* のロールが必要です。
-2. 右上のナビゲーションで、[ **支払** ] アイコンを選択して、支払明細書を表示します。 **トランザクション履歴** 、 **支払い** 、 **ダウンロード** のいずれかを選択します。
+1. ロールを確認します。 支払い明細にアクセスするには、*財務共同作成者* または *アカウント所有者* のロールが必要です。
+2. 右上のナビゲーションで、[ **支払** ] アイコンを選択して、支払明細書を表示します。 **トランザクション履歴**、**支払い**、**ダウンロード** のいずれかを選択します。
 
-**参考資料** : [支払いロールと権限](payout-statement.md#roles-and-permissions)、 [支払いステートメント](payout-statement.md) 
+**参考資料**: [支払いロールと権限](payout-statement.md#roles-and-permissions)、 [支払いステートメント](payout-statement.md) 
 
 ## <a name="payout-statement-report"></a>支払明細書レポート
 
@@ -141,7 +176,7 @@ ms.locfileid: "94532023"
 
 [プロファイル ページ](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage)に移動すると、年末調整用のフォームが表示されます。
 
-**参考資料** : [支払いステートメント](payout-statement.md)、 [トランザクション履歴のダウンロード](payout-statement.md#transaction-history-download)
+**参考資料**: [支払いステートメント](payout-statement.md)、 [トランザクション履歴のダウンロード](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>履歴明細書
 
@@ -149,7 +184,7 @@ ms.locfileid: "94532023"
 
 履歴明細書には、2019 年 10 月時点での支払いデータのスナップショットが表示されます。 残念ながら、ここに示す支払い情報は更新されません。 最新の情報を入手するには、最新のデータのサポートチケットを送信します。
 
-**参考資料** : [支払いステートメント](payout-statement.md)、 [トランザクション履歴のダウンロード](payout-statement.md#transaction-history-download)
+**参考資料**: [支払いステートメント](payout-statement.md)、 [トランザクション履歴のダウンロード](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>支払いのエクスポート API
 
@@ -157,6 +192,20 @@ ms.locfileid: "94532023"
 
 [パートナー支払い API](https://apidocs.microsoft.com/services/partnerpayouts)を使用します。
 
+## <a name="commercial-marketplace-payout-policies"></a>商用 marketplace の支払いポリシー
+
+#### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>現在の代理店手数料と支払いレートを確認するにはどうすればよいですか?
+
+- コマーシャル マーケットプレースの発行元契約を確認します。 標準の代理店手数料は 20% です。 SaaS Co-Sell 適格なトランザクションには、10% の割引料金が適用されます。 代理店手数料のプロモーションの通知がないか確認してください。
+- 支払い明細では、指定されたトランザクションの実際の支払い率を指定します。
+
+#### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>明細に収益が表示されたら、Microsoft からの支払い予定はいつですか?
+- 収益が未処理状態の場合、収益の支払いが処理される月の支払期日を確認することができます。 支払いの準備が完了すると、獲得状態が "処理済み" に変わります。  Microsoft は、支払月の 15 日までに支払いを行います。
+- クレジットカードによる注文の場合、Microsoft は、収益が成熟するまで30日間支払いを行います。
+
+ **参考資料**: [市販の Marketplace 発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)、 [税金の詳細](tax-details-marketplace.md)、 [支払いのしきい値、方法、時間枠](payment-thresholds-methods-timeframes.md)
+
 ## <a name="next-steps"></a>次の手順
 
-- [コマーシャル マーケットプレースでの支払いの受け取り](marketplace-get-paid.md)
+- [支払いの受け取り](marketplace-get-paid.md)
+- [支払いアカウントと税フォームを設定する](set-up-your-payout-account.md)

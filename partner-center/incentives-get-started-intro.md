@@ -8,14 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303168"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492604"
 ---
-# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>これらのリソースを使用して、インセンティブを使い始めましょう
+# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>これらのリソースを使用してインセンティブを使い始める
 
 **適用対象**
 
@@ -44,12 +44,12 @@ Microsoft Partner Network (MPN) のパートナーとして、顧客にサービ
 
 |  **目的**  |  **参照先**  |
 |--------------|-----------|
-| インセンティブプログラムに登録する方法について説明します。 | [インセンティブプログラムに登録する](incentives-enroll.md)  |
+| インセンティブプログラムに登録する方法について説明します。 | [インセンティブ プログラムに登録する](incentives-enroll.md)  |
 | インセンティブの作業が特定のインセンティブプログラムの資格要件を満たしているかどうかを確認する | [プログラムの適格性を確認する](incentives-determined-your-program-eligibility.md)  |
 | Microsoft が必要とするデータを見つけて提供することで、インセンティブ支払いを受けることができます。 | [パートナー センターで支払いと税金のプロファイルを作成および管理する](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | インセンティブ収益を得るために必要なすべての詳細情報を指定したことを確認します | [収益の適格性を確認する](incentives-confirm-your-earnings-eligibility.md)  |
-| インセンティブプログラムのすべてのデータとレポートを表示する | [インセンティブの支払いとプログラムを表示する](understand-incentive-payouts.md)  |
-| プログラム固有のインセンティブ支払いページにアクセスする | [インセンティブの支払いページへのアクセス](incentives-unified-user-guide.md)  |
+| インセンティブプログラムのすべてのデータとレポートを表示する | [インセンティブプログラムと支払いを表示する](understand-incentive-payouts.md)  |
+| プログラム固有のインセンティブ支払いページにアクセスする | [支払い明細書にアクセスする](payout-statement.md)  |
 
 ## <a name="next-steps"></a>次の手順
 
