@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527815"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354527"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>PMC からパートナー センターに移行する際に会社のアカウントを統合する
 
@@ -62,3 +62,9 @@ PMC では、場所ごとに独自のコンピテンシー、独自の MAP、お
 パートナー センターでは、すべての場所アカウントが 1 つのグローバル アカウントに統合されます。 つまり、市場投入オファー、プログラム、およびコンピテンシーもすべて統合されます。 追加の特典ツールキット (ABTK) は使用できません。 ただし、マーケティング リソース、オファー、プログラム、およびコンピテンシーの配分は、会社で必要があれば、整理することができます。 統合すると、拡張機能が提供されます。 この拡張機能により、会社では PMC で使用していたマーケティング リソース、オファー、およびプログラムを 1 年延長してご利用いただけます。
 
 PMC とパートナー センターの違いの詳細については、[PMC からパートナー センターへの移行](guide-to-migration.md)に関する記事をご覧ください。
+
+## <a name="next-steps"></a>次の手順
+
+- [パートナー センター アカウントの管理](partner-center-account-setup.md)
+
+- [場所の管理](manage-locations.md)

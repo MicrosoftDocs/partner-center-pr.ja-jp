@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92333920"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354612"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 顧客契約に対するお客様の同意を確認する方法 (更新版)
 
-**適用対象**
-
--  パートナー センター
 
 **適切なロール**
 
@@ -82,7 +79,7 @@ ms.locfileid: "92333920"
 
 5. 同意しているユーザーの詳細を入力します。
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="会社情報":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="同意の日付を追加する":::
 
    既定では、第一連絡先担当者のユーザー情報が表示されます。 これが正しくない場合は、 **[更新]** を選択し、契約に同意したユーザーの **[名]** 、 **[姓]** 、 **[メール アドレス]** 、* *[電話番号]* (省略可能) を入力します。
 
@@ -98,9 +95,9 @@ ms.locfileid: "92333920"
 
 3. **[Microsoft 顧客契約]** で、 **[更新]** を選択します。
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="会社情報":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="アップデート":::
 
-4. 契約に同意したユーザーの **名** 、 **姓** 、 **メール アドレス** 、 **電話番号** (省略可能) を入力します。
+4. 契約に同意したユーザーの **名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
 
 5. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
 
@@ -110,7 +107,7 @@ ms.locfileid: "92333920"
 
 まだ確認していない既存のお客様について新しい注文を作成しようとすると、確認を完了するよう求めるプロンプトが表示されます。 この場合、次の手順を実行します。
 
-1. 契約に同意したユーザーの **名** 、 **姓** 、 **メール アドレス** 、 **電話番号** (省略可能) を入力します。
+1. 契約に同意したユーザーの **名**、**姓**、**メール アドレス**、**電話番号** (省略可能) を入力します。
 
 2. **[Agreement acceptance date]** (契約同意日) で、適切な日付を入力します。 将来の日付に設定することはできません。
 
