@@ -279,18 +279,12 @@
         - name: 支払いと税金のプロファイルを確認する
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
           displayName: incentives
-        - name: 支払いと税金のプロファイルの FAQ
-          href: incentives-payout-tax-profile-faqs.md
-          displayName: incentives
         - name: 収益の適格性を確認する
           href: incentives-confirm-your-earnings-eligibility.md
           displayName: incentives
-        - name: 支払いとプログラムを表示する
+        - name: プログラムと支払いを表示する
           href: understand-incentive-payouts.md
           displayName: 'mpn, incentives'
-        - name: 支払いページにアクセスする
-          href: incentives-unified-user-guide.md
-          displayName: incentives
     - name: 実行の計画と証明
       items:
         - name: プランと PoE を確認する
@@ -433,23 +427,21 @@
       displayName: csp
 - name: 支払いを受ける
   items:
+    - name: 支払いの受け取り
+      href: marketplace-get-paid.md
+    - name: 支払い明細
+      href: payout-statement.md
     - name: 未払い、詐欺、不正使用の管理
       href: non-payment-fraud-misuse.md
     - name: 未割り当ての支払いを管理する
       href: unallocated-payment.md
-    - name: コマーシャル マーケットプレースの支払い
-      items:
-        - name: 支払いを受け取る - マーケットプレース
-          href: marketplace-get-paid.md
-        - name: 支払いポリシーの詳細
-          href: payout-policy-details.md
-        - name: 支払いのしきい値、方法、期間
-          href: payment-thresholds-methods-timeframes.md
-        - name: 支払い明細書
-          href: payout-statement.md
-          displayName: invoice
-        - name: 支払いに関する FAQ
-          href: payout-faq.md
+    - name: 支払いスケジュールとプロセス
+      href: payout-policy-details.md
+    - name: 支払いのしきい値、方法、期間
+      href: payment-thresholds-methods-timeframes.md
+      displayName: invoice
+    - name: 支払いと税金のプロファイルの FAQ
+      href: payout-faq.md
 - name: お客様とつながる
   items:
     - name: お客様とつながる
@@ -663,10 +655,12 @@
               displayName: 'indirect, reseller'
             - name: トレーニング
               href: pci-training-dashboard.md
-        - name: 既知の問題
+        - name: インサイト-FAQ
           href: pci-known-issues.md
         - name: インサイト レポートをダウンロードする
           href: pci-download-reports.md
+        - name: インサイト データ定義
+          href: pci-data-definitions.md
     - name: パートナー貢献度インジケーター
       href: partner-contribution-indicators.md
       displayName: mpn
