@@ -1,7 +1,7 @@
 ---
 title: 利点に関する FAQ
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Azure、クラウド、Visual Studio、テクニカルおよびサポートの特典の特典の有効期限、更新、ライセンス認証に関する質問への回答
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570690"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514689"
 ---
 # <a name="benefits-faq"></a>利点に関する FAQ
 
@@ -98,7 +98,7 @@ Azure の一括クレジットプランを他のプランと組み合わせる�
 サブスクリプションを割り当てた後、ユーザーはそのサブスクリプションを管理するために Visual Studio にログインする必要があります。
 
 >[!Note]
-> Visual Studio サブスクリプションは、最初の割り当てから90日後に再割り当てされる場合があります。
+> 元の割り当ての時間から90日が経過すると、Visual Studio サブスクリプションがサブスクライバー間で再割り当てされる場合があります。
 
 ## <a name="technical-benefits-and-support"></a>技術的な利点とサポート
 
@@ -118,6 +118,6 @@ Azure の一括クレジットプランを他のプランと組み合わせる�
 
 6. インストールしようとしている製品を選択し、テクニカルサポートチケットを作成します。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [専門知識を得るための高度な特殊化を獲得](advanced-specializations.md)
