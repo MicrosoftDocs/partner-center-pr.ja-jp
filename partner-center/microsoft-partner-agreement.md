@@ -1,7 +1,7 @@
 ---
 title: CSP 向け Microsoft Partner Agreement (MPA)
-ms.topic: article
-ms.date: 04/27/2020
+ms.topic: how-to
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 署名する Microsoft CSP パートナーの要件について説明します。また、この統一され、デジタル署名済みの Microsoft Partner Agreement (MPA) を確認します。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869335"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514751"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP プログラム パートナー向け Microsoft Partner Agreement (MPA) について説明します。
 
@@ -27,6 +27,9 @@ Microsoft Partner Agreement では、マイクロソフト パートナーに、
 すべてのクラウド ソリューション プロバイダー プログラム パートナー (間接プロバイダー、間接リセラー、直接請求パートナーを含む) は、パートナー センターでオンラインで MPA に署名できます。 また、政府機関のクラウドを操作する直接請求パートナーと間接プロバイダー パートナーも、パートナー センター内から MPA に署名することができます。
 
 CSP プログラムへの参加を続けるには、2020 年 1 月 31 日までに Microsoft Partner Agreement を契約する必要があります。 パートナー センターから契約に簡単に署名できるようになったことがパートナー センターから通知されます。
+
+>[!NOTE]
+>会社が CSP ビジネスを行う CSP 地域ごとに、MPA が 1 回署名される必要があります。 [CSP の地域](regional-authorization-overview.md)に関するページをご確認ください。 
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>MPN ID がアクティブで、パートナー センターに移行されていることを確認する
 
@@ -53,7 +56,7 @@ CSP プログラムへの参加を続けるには、2020 年 1 月 31 日まで�
 
 1. **[設定]** から、[[パートナー プロファイル]](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) を選択します。
 
-1. **[プログラム情報]** セクションを確認します。 情報に **[間接リセラー]** の状態が表示されない場合は、[間接リセラーとして登録する](https://partner.microsoft.com/cloud-solution-provider/whats-required)必要があります。
+1. **[プログラム情報]** セクションを確認します。 情報に **[間接リセラー]** の状態が表示されない場合は、[間接リセラーとして登録する](indirect-reseller-tasks-in-partner-center.md)必要があります。
 
 1. **[間接リセラー]** の状態が **[アクティブ]** である場合は、パートナー センターのアクティブな間接リセラーになっています。
  
@@ -78,13 +81,13 @@ MPA に署名したかどうかを確認する方法:
 >会社のグローバル管理者のみが、MPA を表示して署名できます。 グローバル管理者でない場合は、グローバル管理者に、MPA の確認を依頼する必要があります。
 
 
-## <a name="downloadable-step-by-step-guides"></a>ダウンロード可能なステップバイステップ ガイド
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>プロセスでの工程に適したステップバイステップ ガイドをダウンロードする
 
-1. [PMC からパートナー センターに移行し、Microsoft Partner Agreement に同意する](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. MPN アカウントを PMC からパートナー センターに移行する場合:[PMC からパートナー センターに移行し、Microsoft Partner Agreement に同意する](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. [MPN メンバーのオンボードと Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. パートナー センターで CSP Indirect Reseller として登録する場合:[MPN メンバーと Microsoft Partner Agreement へのオンボード](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. [Microsoft Partner Agreement の同意状態を確認する](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+3. 上の手順 1. または手順 2. のいずれかを完了した後に、パートナー センターで MPA の状態を確認する場合:[Microsoft Partner Agreement への同意の状態を確認する](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>次のステップ
 

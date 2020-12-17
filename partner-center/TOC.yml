@@ -738,6 +738,8 @@
     - name: パートナー テナントに MFA を義務付ける
       href: partner-security-requirements-mandating-mfa.md
       displayName: csp
+    - name: MFA を使用してユーザーを設定する
+      href: mfa-for-users.md
     - name: 要件の状態
       href: partner-security-compliance.md
       displayName: csp

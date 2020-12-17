@@ -1,7 +1,7 @@
 ---
 title: Microsoft Action Pack のプランの購入または更新
-ms.topic: article
-ms.date: 11/23/2020
+ms.topic: how-to
+ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Action Pack サブスクリプションを購入し、Action Pack 特典の使用を開始する方法について説明します。 また、更新、キャンセル、請求書を表示する方法などについても説明します。
@@ -9,20 +9,15 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812845"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514724"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Action Pack サブスクリプションや Silver コンピテンシーと Gold コンピテンシーを購入または更新する
 
-**適用対象**
-
-- パートナー センター
-- Partner Membership Center
-- MPN プログラム パートナー
 
 **適切なロール**
 
@@ -30,13 +25,13 @@ ms.locfileid: "95812845"
 - ユーザー管理者
 - MPN パートナー管理者
 - 管理エージェント
-- 販売代理店
 
-現在、Microsoft Partner Network (MPN.md) のメンバーは、パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)で特典プランを購入または更新できます。 このようなプランには、Microsoft Action Pack サブスクリプションや Silver コンピテンシーと Gold コンピテンシーが含まれます。
+
+パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)から、Microsoft Partner Network (MPN) のメンバーは、Microsoft Action Pack サブスクリプション、Silver および Gold コンピテンシーを含む特典オファーを購入または更新できます。
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>初めて Microsoft Action Pack を購入する
 
-初めてマイクロソフトのパートナーになる場合は、Microsoft Partner Network への参加が最初のステップです。 Partner Network のメンバーでない場合、Partner Network サイトの [メンバーシップ ページ](https://partner.microsoft.com/membership)にアクセスし、サインアップの準備ができたら、 **[今すぐ参加]** を選択します。 
+初めてマイクロソフトのパートナーになる場合は、Microsoft Partner Network への参加が最初のステップです。 MPN に参加するには、Partner Network サイトの [メンバーシップ ページ](https://partner.microsoft.com/membership)にアクセスし、サインアップの準備ができたら、 **[今すぐ参加]** を選択します。
 
 Partner Network に参加できたら、[Partner Network サイトの手順](https://partner.microsoft.com/membership/action-pack)に従って (サインインする必要があります)、最初の Action Pack サブスクリプションを購入します。 
 
@@ -62,7 +57,7 @@ Action Pack について詳しくは、[Microsoft Partner Network](https://partn
 2. **[サブスクリプションの更新]** を選び、お支払い方法を選びます。 お支払いにはクレジット カードまたは電信振替を使用できます。
 
     >[!NOTE]
-    >**[サブスクリプションの更新]** が表示されない場合、または灰色表示されている場合には、Action Pack サブスクリプションの更新資格がありません。 更新期間のポリシーが変更され、有効期限が切れた後のみにサブスクリプションを更新することができます。 たとえば、サブスクリプションの期限が 6 月 22 日である場合、6 月 23 日以降、30 日以内に更新を行うことができます。  
+    >**[サブスクリプションの更新]** が表示されない場合、または灰色表示されている場合には、Action Pack サブスクリプションの更新資格がありません。 更新期間のポリシーを変更済みのため、有効期限が切れた **後にのみ** サブスクリプションを更新することができます。 たとえば、サブスクリプションの期限が 6 月 22 日である場合、6 月 23 日以降、30 日以内に更新を行うことができます。  
 
 3. クレジット カードによるお支払いの場合は、クレジット カード情報を追加するための手順に従ってください。 電信振替によるお支払いの場合は、連絡先名、電話番号、メール アドレスを指定して **[送信]** を選びます。
 
@@ -70,15 +65,13 @@ Action Pack について詳しくは、[Microsoft Partner Network](https://partn
 
 5. 注文が確認されます。 **[閉じる]** を選びます。
 
-購入した Action Pack サブスクリプションは、毎年この日に自動的に更新されます。
-
 ### <a name="update-your-bill-to-address"></a>請求先住所の更新
 
 Action Pack の更新または購入のプロセスで、請求先住所を確認する機会があります。
 
  1. **[送信]** を選択した後で、購入の詳細を確認できます。 住所を更新する必要がある場合は、 **[更新]** を選択します。
   
- 1. **[パートナー プロファイル]** ページで、住所を更新します。
+ 1. **[Legal profile]\(法的プロファイル\)** ページで、住所を更新します。
 
 ## <a name="cancel-your-action-pack-subscription"></a>Action Pack サブスクリプションを取り消す
 
@@ -115,6 +108,3 @@ Microsoft Action Pack サブスクリプションを取り消すには、パー�
 -   [ユーザーを追加してアクセル許可を割り当てる](create-user-accounts-and-set-permissions.md)
 
 -   [ビジネス プロファイルの作成と Microsoft からの潜在顧客の獲得](create-a-marketing-profile.md)
-
-
-

@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556448"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011530"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>パートナー センター アカウントの管理 - 会社のプロファイル、銀行に関する情報、ロール、アクセス許可など
 
@@ -41,9 +41,19 @@ ms.locfileid: "96556448"
 
 パートナーまたは開発者のどちらであるかに関係なく、サポート チケットの記録などには MPN ID を使用します。 MPN ID は、 **[法的情報]** ページにあります。 また、 **[Identity profile]\(ID プロファイル\)** で見つけることもできます。
 
+## <a name="account-settings---partners-resellers"></a>アカウントの設定 - パートナー、リセラー
+
+**設定** アイコンを選択し、 **[Account settings]\(アカウントの設定\)** メニューを開くと、会社がクラウド ソリューション プロバイダー プログラムに含まれる場合、既定のビューは、2 つのタブ ( **[パートナー]** および **[リセラー]** ) を表示する **[法的情報]** です。 各タブには、ビジネスの要素が含まれます。
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="パートナーおよびリセラーのタブが表示されたメニュー":::
+
+[パートナー] タブには、会社の登録済みの正式名称や住所のほか、第一連絡先担当者、事業拠点など、すべての法的ビジネス情報が含まれます。 CSP ビジネスを行うパートナーの [リセラー] タブには、**カスタマー サポートのプロファイル** が含まれます。
+
+会社が CSP に参加していない場合、既定のビューには、**カスタマー サポートのプロファイル** を含む **[パートナー]** タブのみが表示されます。
+
 ## <a name="organization-profile"></a>組織プロファイル
 
-これらのページを使用して、法人プロファイル、パートナー プロファイル、会社の所在地などの領域を管理します。 **[法的情報]** や **[テナント]** などのタブ (下記を参照) を選択して、その領域を編集します。 関心のあるプログラム (MPN、CSP、またはコマーシャル マーケットプレース) のタブを選択して、情報と審査の状態を確認します。
+これらのページを使用して、法人プロファイル、パートナー プロファイル、テナントなど、ビジネスの詳細な領域を管理できます。 各領域を個別に管理します。 これらについては、後で説明します。 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="法的情報メニュー。":::
 
