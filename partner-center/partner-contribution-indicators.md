@@ -1,7 +1,7 @@
 ---
 title: パートナー貢献度インジケーター
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 7つのパートナー貢献度インジケーター (PCI) について説明します。このインジケーターは、Dynamics 365 カスタマーエンゲージメントまたは Dynamics 365 Finance and Operations の使用方法を示しています。
@@ -9,14 +9,14 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344393"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636043"
 ---
-# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>パートナー貢献度インジケーター (PCI) は、お客様の成功の7つの主要な指標に対するパートナーの影響を示します
+# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>パートナー貢献度インジケーター (PCI) は、顧客の成功の 7つの主要な指標に対するパートナーの影響を示します
 
 この記事では、Cloud Business Applications (CBA) MPN コンピテンシーの利用または保守におけるパートナーの進捗状況を評価するために使用される7つの主要パートナー貢献度インジケーター (PCI) について説明します。
 
@@ -42,23 +42,23 @@ PCI は、パートナーの技術的な機能、顧客の成功を促進する�
 
 *パフォーマンス指標:*
 
-1. **純利益** : Microsoft Dynamics 365 製品のすべての販売チャネルにおける新しい収益。 (このメトリックの詳細については、「 [差分の新しい収益の定義](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)」を参照してください)。
+1. **純利益**: Microsoft Dynamics 365 製品のすべての販売チャネルにおける新しい収益。 (このメトリックの詳細については、「 [差分の新しい収益の定義](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)」を参照してください)。
 
 2. **Net customer** によって追加されるのは、すべての販売チャネルで Dynamics 365 を獲得した net 顧客です。 (このメトリックの詳細については、「 [net customer の追加の定義](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)」を参照してください)。
 
 *機能インジケーター:*
 
-3. **機能コンサルタント** : 現在アクティブな機能コンサルタントを持つ個人の数は、Dynamics 365 の認定を関連付けます。 (このメトリックの詳細については、「 [関数コンサルタントの定義](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)」を参照してください)。
+3. **機能コンサルタント**: 現在アクティブな機能コンサルタントを持つ個人の数は、Dynamics 365 の認定を関連付けます。 (このメトリックの詳細については、「 [関数コンサルタントの定義](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)」を参照してください)。
 
-4. **機能コンサルタントの成長** : 機能コンサルタントの関連付けの数が増加しています。  PCI の機能コンサルタントの拡張メトリックのベースラインスナップショットは、2020年10月1日に実行されるようになります。 (このメトリックの詳細については、「 [関数コンサルタントの拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)」を参照してください)。
+4. **機能コンサルタントの成長**: 機能コンサルタントの関連付けの数が増加しています。 このインジケーターのポイントを取得するには、いくつかのオプションがあります。 1つのオプションでは、2020年10月1日に PCI の機能コンサルタントの拡張メトリックのベースラインスナップショットを取得する必要があります。 (このメトリックのポイントを取得するためのすべてのオプションの詳細については、「 [関数コンサルタントの拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)」を参照してください)。
 
-5. **開発者** : 現在アクティブな開発者を持つユーザーの数は、Dynamics 365 の認定を関連付けます。 (このメトリックの詳細については、「 [開発者向けの定義](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)」を参照してください)。
+5. **開発者**: 現在アクティブな開発者を持つユーザーの数は、Dynamics 365 の認定を関連付けます。 (このメトリックの詳細については、「 [開発者向けの定義](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)」を参照してください)。
 
 *お客様の成功の指標:*
 
-6. **新しい大規模なデプロイ** : 過去12か月間にわたって高使用率のしきい値を超える運用テナントの数。 (このメトリックの詳細については、「 [新しい大規模なデプロイの定義](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)」を参照してください)。
+6. **新しい大規模なデプロイ**: 過去12か月間にわたって高使用率のしきい値を超える運用テナントの数。 (このメトリックの詳細については、「 [新しい大規模なデプロイの定義](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)」を参照してください)。
 
-7. **月ごとのアクティブなユーザーの成長** : 過去12か月間にわたるすべての顧客の月間アクティブユーザーの成長。 (このメトリックの詳細については、「 [月単位のアクティブなユーザー拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)」を参照してください)。
+7. **月ごとのアクティブなユーザーの成長**: 過去12か月間にわたるすべての顧客の月間アクティブユーザーの成長。 (このメトリックの詳細については、「 [月単位のアクティブなユーザー拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)」を参照してください)。
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI スコアがコンピテンシーの適格性に与える影響
 各獲得インジケーターにポイントが与えられ、その結果、単一番号の PCI スコアになります。 100最大ポイントが可能です。 
@@ -98,12 +98,12 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 各メトリックのポイントは、顧客エンゲージメントと財務および運用のために個別の PCI スコアを生成するために計算されます。 このスコアは毎月更新されます。
 
 パートナーは、次に示すしきい値を満たしているか超過している場合、特定のメトリックの最大ポイントを獲得できます。 部分的なポイントは、機能コンサルタントの成長を除き、すべてのメトリックに対して獲得できます。
+
 たとえば、新しい収益が $15万である開発されたマーケットパートナーは、最大10ポイントの半分 ($ 150000/$ 300000) を獲得します。
 
 詳細については、次の表を参照してください。
 - [表 1.顧客エンゲージメントのしきい値](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [表 2.財務および操作のしきい値](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [表 3.機能コンサルタントの成長](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>表1顧客エンゲージメントのしきい値
 
@@ -114,7 +114,7 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 | **確立** | $300,000 | 10 | 10 | *\* 注を参照* | 5 | 5 | 25% |
 | **開拓** | $15万 | 5  | 5  |*\* 注を参照* | 2 | 1 | 25% |
 
-*\* 注: 拡張ターゲットは、ベースラインコンサルタントの数によって異なります。拡張ターゲットについては、 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) を参照してください。*
+*\* 注: 拡張ターゲットは、ベースラインコンサルタントの数と、パートナーがポイントを取得するために使用する特定のオプションによって異なります。ポイントまたは各オプションの特定の拡張ターゲットを取得するためのオプションの詳細については、「 [関数コンサルタントの拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)」を参照してください。*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>表2財務と操作のしきい値
 
@@ -125,19 +125,7 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 | **確立** | $300,000 | 3 | 15 | *\* 注を参照* | 5  | 3 | 25% |
 | **開拓** | $15万 | 1 | 5 |*\* 注を参照* | 2 | 1 | 25% |
 
-*\* 注: 拡張ターゲットは、ベースラインコンサルタントの数によって異なります。拡張ターゲットについては、 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) を参照してください。*
-
-### <a name="table-3-functional-consultant-growth"></a>表3機能コンサルタントの成長
-
->[!NOTE]
-> 次の表は、ポイントを獲得するために必要な機能コンサルタントのベースラインを持つ **開発** および **開発** 用の列を示しています。 ベースラインスナップショットの日付は、2020年10月1日に作成されます。
-
-
-| 確立 | 開拓 | すべての15点を獲得するために必要な拡張 *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | 35% |
-| 30-49 | 15-24 | 25% |
-| 50 以上 | 25以上 | 15% |
+*\* 注: 拡張ターゲットは、ベースラインコンサルタントの数と、パートナーがポイントを取得するために使用する特定のオプションによって異なります。ポイントまたは各オプションの特定の拡張ターゲットを取得するためのオプションの詳細については、「 [関数コンサルタントの拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)」を参照してください。*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>PCI メトリックの詳細な定義
 
@@ -208,13 +196,30 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 - 機能コンサルタントは、現在アクティブな機能コンサルタントを所有しているユーザーの数として定義されています。たとえば、顧客エンゲージメントの機能コンサルタント認定、金融機関、運用機能コンサルタント認定などです。
 
-- カスタマーエンゲージメントの機能コンサルタント認定には、次のいずれかを渡す必要があります: MB-200 **と** 、mb-210、mb-220、mb-230、mb-240、または MB6-898。
+- カスタマーエンゲージメントの機能コンサルタント認定を取得するには、次のものを渡す必要があります。
+  - MB-200 \* または PL-200<br/>
+  次のいずれかの試験を **行う** ことができます。
+  - MB-210、MB-220、MB-230、MB-240、または MB6-898 \* \* 。
 
-- 財務および運用の機能コンサルタント認定には、次のいずれかを渡す必要があります: MB-300 **と** 、mb-310、mb-320、MB-330、MB6-897、または MB6-898。
+- 財務および運用の機能コンサルタント認定には、次のものを渡す必要があります。
+  - MB-300<br/>
+  次のいずれかの試験を **行う** ことができます。
+  - MB-310、MB-320、MB-330、MB-897 \* \* 、または MB6-898 \* \* 。
+
+> [!NOTE]
+> アスタリスク () でマークされた試験 \* は、今後数か月の間に廃止または置換されます。 具体的な詳細については、以下を参照してください。
+>
+> - 1つのアスタリスク () でマーク \* された試験は、2020年12月31日に廃止されます。 2020年12月31日に実施された試験は、回収される前に、年12月 2021 31 日まで、コンピテンシーの達成および更新の対象となります。
+> - 2つのアスタリスク () でマーク \* \* された試験は、2021年1月31日に廃止されます。 2021年1月31日に実施された試験は、回収される前に、年1月 2022 31 日まで、コンピテンシーの獲得および更新の対象となります。
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>PCI メトリック #4 の定義-機能コンサルタントの成長
 
-機能コンサルタントの成長は、 [この記事の前半で説明](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)した機能インジケーターと7つの主要なパートナー貢献指標の1つです。 ここでは、機能コンサルタントの成長インジケーターの定義方法と、このカテゴリのポイントの計算方法について詳しく説明します。
+機能コンサルタントの成長は、 [この記事の前半で説明](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)した機能インジケーターと7つの主要なパートナー貢献指標の1つです。 パートナーには、このメトリックで使用可能なすべてのポイント (15 か0ポイント) を取得するための2つのオプションのいずれかがあります。 一部のポイントは獲得されません。 
+
+ここでは、機能コンサルタントの成長インジケーターの定義方法と、このカテゴリのポイントの計算方法について詳しく説明します。
+
+**次のオプションを選択してポイントを取得します。**
 
 - 機能コンサルタントの成長は、ベースラインスナップショットの後にある認定済みの機能コンサルタントの数の増加として定義されています。 ベースラインスナップショットの日付は2020年10月1日に作成されます。
 
@@ -224,7 +229,19 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 - ポイントを利用するには、ベースラインスナップショットの作成時に、開発したマーケットパートナーと **5** **個** 以上の機能コンサルタントを関連付ける必要があります。
 
-- **一部のポイントは獲得されません。** ベースラインスナップショットの上にある拡張は、表3に示されているしきい値以上である必要があり [ます。機能コンサルタントの成長](partner-contribution-indicators.md#table-3-functional-consultant-growth)。
+- **一部のポイントは獲得されません。** ベースラインスナップショットの上にある拡張は、次の表に示すしきい値以上でなければなりません。 この表 **は、ポイント** を獲得するために必要な機能コンサルタントのベースラインを持つ開発および **開発** 列を示しています。
+
+  | 確立 | 開拓 | すべての15点を獲得するために必要な拡張 *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | 35% |
+  | 30-49 | 15-24 | 25% |
+  | 50 以上 | 25以上 | 15% |
+
+**2つのオプションを選択してポイントを取得します。**
+
+- 開発されたマーケットパートナーは、50以上の機能コンサルタントを、最初の PCI ベースの記念日の時点で認定することができます。 (マーケットパートナーの開発では、最初の PCI ベースの記念日に対して25以上の機能コンサルタントを時間内に認定できます)。
+
+- このしきい値に達した場合は、その日から24か月後に、機能コンサルタントの成長のための完全な15ポイントが表示されます。 実質的には、2つの CBA 記念日について、機能コンサルタントの成長について最大のポイントが得られることを意味します。
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>PCI メトリック #5 の定義-開発者向け
 
@@ -234,9 +251,21 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 - 開発者インジケーターのポイントは、現在の月のスナップショットに基づいており、最大5つのポイントを使用できます。
 
-- カスタマーエンゲージメント開発者は、MB-200 と、MB-400 または MB2 のいずれかを満たしたときにクレジット **を** 取得します。
+- 顧客エンゲージメント開発者は、次のような場合にクレジットを取得します。
+  - PL-400<br/>**or**
+  - MB-200 \* **と** 、次のいずれかの試験:
+    - MB-400 \* または MB2-716\*\*
 
-- 財務および運用の開発者は、MB-300 **と** 、次のいずれかを満たした場合にクレジットを取得します。 mb-500 または MB6-894。
+- 金融および運用の開発者は、次のような場合にクレジットを受けます。
+  - MB-300<br/>
+  次のいずれかの試験を **行う** ことができます。
+  - MB-500 または MB-894\*\*
+
+> [!NOTE]
+> アスタリスク () でマークされた試験 \* は、今後数か月の間に廃止または置換されます。 具体的な詳細については、以下を参照してください。
+>
+> - 1つのアスタリスク () でマーク \* された試験は、2020年12月31日に廃止されます。 2020年12月31日に実施された試験は、回収される前に、年12月 2021 31 日まで、コンピテンシーの達成および更新の対象となります。
+> - 2つのアスタリスク () でマーク \* \* された試験は、2021年1月31日に廃止されます。 2021年1月31日に実施された試験は、回収される前に、年1月 2022 31 日まで、コンピテンシーの獲得および更新の対象となります。
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>PCI メトリック #6 の定義-新しい大規模な展開
 
@@ -300,7 +329,7 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
-2. ナビゲーションメニューから [ **CSP** ] を選択し、[ **パートナー貢献度インジケーター** ] を選択します。 
+2. ナビゲーションメニューから [ **CSP** ] を選択し、[ **パートナー貢献度インジケーター**] を選択します。 
 
    パートナー貢献インジケーターダッシュボードと関連付けられたグラフが表示されます。
 
