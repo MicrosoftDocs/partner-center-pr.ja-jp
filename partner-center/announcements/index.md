@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869318"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622186"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "96869318"
 
 | **カテゴリ** | **2020 年 12 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[Power Apps キャンペーン プランを利用できるようになりました](2020-december.md#5)|12 月 16 日|
 |機能|[.NET Standard (v1.16.3) の SDK リリース](2020-december.md#4)|12 月 8 日|
 |製品サービス/市場|[2020 年 12 月のライセンスベースの価格表のリリース ノート](2020-december.md#3)|12 月 8 日|
 |製品サービス/市場|[通話プラン サービスのある米国 Microsoft 365 Business Voice の更新が近日公開予定](2020-december.md#2)|12 月 3 日|
