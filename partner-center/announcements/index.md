@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/03/2020
-ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.date: 12/17/2020
+ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622186"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666742"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,11 @@ ms.locfileid: "97622186"
 
 | **カテゴリ** | **2020 年 12 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[CSP の永続的ソフトウェア:新しい製品と地域](2020-december.md#10)|12 月 17 日|
+|ビジネスの拡大|[行政機関、教育機関、および非営利団体:CSP のオープン ライセンス プログラムの変更と進化の継続](2020-december.md#9)|12 月 17 日|
+|製品サービス/市場|[クラウド ソリューション プロバイダー (CSP) のお客様のオンボード要件の変更](2020-december.md#8)|12 月 17 日|
+|ビジネスの拡大|[リマインダー:2021 年 1 月から広範囲に公開されるクラウド ソリューション プロバイダー (CSP) プログラムの永続的ソフトウェア](2020-december.md#7)|12 月 17 日|
+|機能|[オンライン サービスとソフトウェア チャネルの承認ガイド](2020-december.md#6)|12 月 17 日|
 |製品サービス/市場|[Power Apps キャンペーン プランを利用できるようになりました](2020-december.md#5)|12 月 16 日|
 |機能|[.NET Standard (v1.16.3) の SDK リリース](2020-december.md#4)|12 月 8 日|
 |製品サービス/市場|[2020 年 12 月のライセンスベースの価格表のリリース ノート](2020-december.md#3)|12 月 8 日|
