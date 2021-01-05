@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
+ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433349"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "97893208"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>顧客の Azure プランサブスクリプションを別のパートナーに譲渡する
 
@@ -49,7 +49,7 @@ ms.locfileid: "94433349"
 
 - お客様が現在の CSP パートナーを移行の目的で利用
 - 将来の CSP パートナーがお客様と連携して顧客のニーズを満たすことができるようにする
-- 将来の CSP パートナーが、移行を開始する前に顧客との関係を確立する  
+- 今後の CSP パートナーが顧客との関係を確立し、移行が開始される前に Azure プランを購入する  
 - お客様は、今後の CSP パートナーと共に Microsoft カスタマー契約に署名する必要があります
 - このツールを使用するには、今後の CSP パートナーが Microsoft パートナー契約に署名している必要があります
 
@@ -66,16 +66,16 @@ Azure プランで Azure サブスクリプションを譲渡するには、お�
 
 サブスクリプションの今後のパートナーは、パートナーセンターから譲渡要求フォームを完了して、サブスクリプションの譲渡を要求する必要があります。
 
-1.  パートナーセンターメニューから、[ **顧客** ] を選択し、代理で転送要求フォームを完了する顧客を選択します。
-2.  カスタマーメニューから [ **サブスクリプション** ] を選択します。
+1.  パートナーセンターメニューから、[ **顧客**] を選択し、代理で転送要求フォームを完了する顧客を選択します。
+2.  カスタマーメニューから [ **サブスクリプション**] を選択します。
 3.  [ **転送要求** ] セクションを選択します。
-4.  [ **転送要求] セクション** で、[ **新しい要求の追加** ] を選択します。
+4.  [ **転送要求] セクション** で、[ **新しい要求の追加**] を選択します。
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="転送セクション":::
 
 5.  **新しい転送要求** フォームに入力します。
 
-6.  [ **転送要求** の送信] を選択し  >  **Send** ます。
+6.  [**転送要求** の送信] を選択し  >  ます。
 
     :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="転送要求の完了フォーム":::
 
@@ -98,10 +98,10 @@ Azure プランで Azure サブスクリプションを譲渡するには、お�
 >現在のパートナーが30日以内にアクションを実行しなかった場合は、要求の有効期限が切れ、今後のパートナーは新しい転送要求を作成するためにを使用します。
 
 1.  [電子メールからの **転送要求のレビュー** ] を選択します。
-1.  パートナーセンターメニューから [ **顧客** ] を選択し、譲渡要求が送信された顧客を選択します。
-2.  カスタマーメニューから [ **サブスクリプション** ] を選択します。
+1.  パートナーセンターメニューから [ **顧客**] を選択し、譲渡要求が送信された顧客を選択します。
+2.  カスタマーメニューから [ **サブスクリプション**] を選択します。
 3.  [ **転送要求** ] セクションを選択します。
-4.  [ **受信した要求** ] で選択した **転送要求 ID** を選択して、[転送情報] を展開します。
+4.  [**受信した要求**] で選択した **転送要求 ID** を選択して、[転送情報] を展開します。
 
 :::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="ソースレビューの譲渡要求":::
 

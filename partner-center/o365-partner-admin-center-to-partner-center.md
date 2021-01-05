@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114588"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720817"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Office 365 パートナー管理センターパートナー-ビジネスオペレーションをパートナーセンターに移行するための準備
 
@@ -36,9 +36,7 @@ ms.locfileid: "87114588"
 - 顧客に対して、貴社と提携プロバイダーの両方との再販業者関係の確立を求める招待を送信できます。
 - 個別のユーザーの管理とライセンスの割り当てがさらに簡単になります。
 
-現在、Office 365 パートナー管理センターを使って行っているタスクの多くは、パートナーセンターですぐに開始できます。 
-
-現時点では、両方のサイトがサポートされているので、新しいサイトに移行している間でも、Office 365 パートナー管理センターを使用できます。 いずれかのサイトで行った変更は、両方に反映されます。
+現在 Office 365 partner admin center を使用しているすべてのタスクについて、パートナーセンターにリダイレクトされます。
 
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Office 365 パートナー管理センター機能とパートナー センター機能の対応付け
 
@@ -46,9 +44,9 @@ ms.locfileid: "87114588"
 
 | Office 365 パートナー管理センターの機能                       | 対応するパートナー センターの機能 | 
 |   -----------------------------------------------  | -------------- |
-| ビジネスの構築: 購入申し込みの創出 | 提携プロバイダーと協力して、プランを顧客に販売 |
+| ビジネスの構築: 購入申し込みの創出 | パートナーセンター: 試用版と購入プランで購入プランを作成 > |
 | ビジネスの構築: 代理管理者のアクセス許可の要求 | パートナーセンター: 顧客が再販業者の関係を要求 > |
-| ビジネスの構築: 試用版への招待の作成 | 使用できません。 この機能については Office 365 パートナー管理センターを引き続き使用できます |
+| ビジネスの構築: 試用版への招待の作成 | パートナーセンター: 試用版と購入プランでは、試用版への招待を作成 > |
 | サービス要求: クライアント一覧: Office 365 管理センター | パートナーセンター: サービスを管理 > の顧客 |
 | サービス要求: クライアント一覧: サービス要求 | パートナーセンター: 顧客の要求 > サービス要求 |
 | サービス要求: フラグ | ダッシュボード: 顧客: 会社名の横にある星を選択します。 |
