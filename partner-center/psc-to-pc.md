@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
+ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916849"
+ms.locfileid: "97950588"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
@@ -321,7 +321,7 @@ PSC とは異なり、パートナーセンターには、直接 PDMs からア�
 - パートナーセンターのゲストユーザー-PDM @microsoft.com アカウントをパートナーセンターのゲストユーザーとして追加し、それらに参照管理者ロールを割り当てて、参照を表示して操作できるようにすることができます。
 - テナントに [新しいユーザー](./create-user-accounts-and-set-permissions.md#add-a-new-user) を作成する-独自のテナントに新しいユーザーを作成し、それらの詳細を PDM と共有して、アカウント内の他の参照ユーザーと同様の参照を表示して操作できるようにすることができます。
 
-## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>PSC のアカウントが無効な MPN に関連付けられていない場合に、正しい MPN ID を見つける
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>PSC のアカウントが有効な MPN に関連付けられていない場合に、正しい MPN ID を見つける
 
 PSC に "PSC の無効な MPN ID 関連付けの問題" という見出しが表示されている場合は、これが適切な場所にあります。
 
