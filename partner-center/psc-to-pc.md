@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776911"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916849"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
@@ -320,6 +320,20 @@ PSC とは異なり、パートナーセンターには、直接 PDMs からア�
 - OCP Insights-PDMs が関連する取引と進捗状況を表示するだけの場合は、OCP Insights ポータルを使用して組織のビューを取得できます。 これは内部ツールであり、PDMs でのみ使用できます。 OCP insights は、会社のユーザーには使用できないことに注意してください。
 - パートナーセンターのゲストユーザー-PDM @microsoft.com アカウントをパートナーセンターのゲストユーザーとして追加し、それらに参照管理者ロールを割り当てて、参照を表示して操作できるようにすることができます。
 - テナントに [新しいユーザー](./create-user-accounts-and-set-permissions.md#add-a-new-user) を作成する-独自のテナントに新しいユーザーを作成し、それらの詳細を PDM と共有して、アカウント内の他の参照ユーザーと同様の参照を表示して操作できるようにすることができます。
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>PSC のアカウントが無効な MPN に関連付けられていない場合に、正しい MPN ID を見つける
+
+PSC に "PSC の無効な MPN ID 関連付けの問題" という見出しが表示されている場合は、これが適切な場所にあります。
+
+まず、次の手順に従って正しい MPN ID を見つけます。
+
+- パートナーセンターアカウントにログインします
+- [アカウント設定のドキュメント](./partner-center-account-setup.md#locate-your-mpn-id)に記載されているガイダンスを使用して、MPN ID を見つけます。
+
+次に、
+
+- PDM がある場合は、パートナーセンターアカウントの正しい MPN ID で MPN ID を修正するように依頼してください。
+- PDM がない場合は、psc のバナーに表示される PSC アカウント情報と、パートナーセンターアカウントの正しい MPN ID の両方を使用して、PSC のバナーに記載されているアドレスに電子メールを送信します。
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>パートナーセンターでの取引の作成と管理に役立つリソース
 

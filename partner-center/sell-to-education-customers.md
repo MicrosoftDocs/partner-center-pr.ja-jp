@@ -2,25 +2,22 @@
 title: 教育機関のお客様にオファーを販売する方法
 description: 教育機関向けの顧客を作成し、パートナーセンターでプランを販売する方法について説明します。 教育機関の顧客の検証の状態を確認します。
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 12/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175075"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916918"
 ---
-# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>教育機関のお客様にオファーを販売する方法 & パートナーセンターで教育機関の顧客を作成する方法
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>教育機関の顧客にオファーを販売する方法と、パートナーセンターで教育機関の顧客を作成する方法
 
-**適用対象**
-
-- パートナー センター
 
 **適切なロール**
 
@@ -37,7 +34,7 @@ ms.locfileid: "92175075"
 
 1. パートナー センターにサインインします。
 
-2. [ **Customers** ] を選択し、[ **Add a customer**] を選択します。 **特別な要件**のドロップダウンから [**教育**] を選択します。  必要に応じて、アカウント情報の残りの部分を入力します。  検証プロセスを支援する主なフィールドは次のとおりです。
+2. [ **Customers** ] を選択し、[ **Add a customer**] を選択します。 **特別な要件** のドロップダウンから [**教育**] を選択します。  必要に応じて、アカウント情報の残りの部分を入力します。  検証プロセスを支援する主なフィールドは次のとおりです。
 
    - **会社名**: 有効なエンティティ名を入力してください-検証に必要です
    - **国/地域および住所行**: 完全なエンティティメールアドレスを入力します。検証に必要です
@@ -49,22 +46,30 @@ ms.locfileid: "92175075"
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="教育機関の顧客アカウント":::
 
+4. **レビュー** を確認すると、送信された情報が有効な場合は、 **inreview** の状態が表示されます。 
+
+    :::image type="content" source="images/edu/create-review.png" alt-text="教育機関の顧客アカウントのレビュー"lightbox="images/edu/create-review-expanded.png":::
+
 ### <a name="confirm-your-education-customers-verification-status"></a>教育機関の顧客の検証の状態を確認する
 
-お客様の **アカウント** ページで、 **特別な認定の状態**を参照してください。
+お客様の **アカウント** ページで、 **特別な認定の状態** を参照してください。
 状態の例:
 
 - 顧客が検証に合格した場合: 教育
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="教育機関の顧客アカウント":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="教育機関の検証に成功しました":::
 
 - 顧客が検証に合格しなかった場合: 教育機関ではありません
 
-   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="教育機関の顧客アカウント":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="教育機関の検証に失敗しました" lightbox="images/edu/fail-reason-expanded.png":::
 
 - 顧客が教育機関の顧客としてタグ付けされていない場合: なし
 
-   :::image type="content" source="images/edunottagged.png" alt-text="教育機関の顧客アカウント":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="教育機関のお客様にはタグ付けされていません" lightbox="images/edu/account-one-expanded.png":::
+
+- お客様が教育機関としてレビューを行っている場合: レビュー中
+
+    :::image type="content" source="images/edu/in-review.png" alt-text="教育機関のお客様はレビュー中です" lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>お客様のアカウント情報を修正し、検証のために再送信する
 
@@ -92,7 +97,7 @@ ms.locfileid: "92175075"
 
 1. [パートナーセンター] タブに移動し、[顧客 **アカウント** ] ページに移動します。 ブラウザーを更新し、会社のページが新しい情報に更新されていることを確認します。 [ **更新** ] ボタンを選択して、教育の再検証を要求します。
 
-2. 更新された顧客の詳細が教育機関の資格を受けられる場合は、 **特別な要件** が **教育機関**に更新されていることがわかります。 まだ **教育機関のお客様でない**場合は、手動による検証についてサポートにお問い合わせください。
+2. 更新された顧客の詳細が教育機関の資格を受けられる場合は、 **特別な要件** が **教育機関** に更新されていることがわかります。 まだ **教育機関のお客様でない** 場合は、手動による検証についてサポートにお問い合わせください。
 
 ## <a name="next-steps"></a>次のステップ
 
