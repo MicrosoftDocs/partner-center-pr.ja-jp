@@ -301,6 +301,9 @@
         - name: 協力インセンティブの申請
           href: claims-overview.md
           displayName: incentives
+        - name: 使用可能な協力ファンドを表示する
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: 協力申請の管理
           href: create-incentives-claims.md
           displayName: incentives

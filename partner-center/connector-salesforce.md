@@ -1,19 +1,19 @@
 ---
 title: Salesforce CRM パートナーセンターの共同販売コネクタ
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターの紹介を Salesforce CRM と同期します。 販売元は、CRM システム内から Microsoft と共同で販売することができます。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947853"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960953"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM のための共同販売コネクタ - 概要
 
@@ -42,16 +42,16 @@ ms.locfileid: "94947853"
 パートナーセンターと Salesforce CRM 間で紹介を同期するために、Power solution の自動化ソリューションでは、Microsoft 固有の参照フィールドを明確に識別する必要があります。 このような境界は、パートナーの販売者チームが、共同販売のために Microsoft と共有する参照を決定する機能を提供します。
 
 1. Salesforce で、 **メモ** をアクティブ化し、営業案件の関連リストに追加します。 
-[参照](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
+[リファレンス](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
 2. 次の手順に従って **営業案件チーム** をアクティブ化します。 
     - セットアップで、[ **クイック検索** ] ボックスを使用して営業案件チームの設定を検索します。
     - 必要に応じて設定を定義します。
-[参照](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
+[リファレンス](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
 3. Salesforce で、次のパッケージインストーラーを使用して、カスタムフィールドとオブジェクトをインストールします。
   
-任意の会社にパッケージをインストールするには、 [ここ](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) を参照してください:
+任意の会社にパッケージをインストールするには、 [こちら](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) を参照してください。
 
 
 注: をサンドボックスにインストールする場合は、URL の最初の部分を次のように置き換える必要があります。 http://test.salesforce.com
@@ -300,7 +300,7 @@ Salesforce CRM ソリューションの **営業案件** エンティティの�
 
     6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [見込み客を管理する](manage-leads.md)
 

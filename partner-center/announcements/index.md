@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666742"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736542"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,7 +22,10 @@ ms.locfileid: "97666742"
 
 | **カテゴリ** | **2020 年 12 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
-|製品サービス/市場|[CSP の永続的ソフトウェア:新しい製品と地域](2020-december.md#10)|12 月 17 日|
+|オファー|[FY21 H1 使用期間の使用されなかったチャネル インセンティブの協力マーケティング ファンド (co-op) の資金は、H2 使用期間にロールオーバーされます](2020-december.md#13)|12 月 22 日|
+|機能|[Microsoft Partner Agreement (MPA) を所有しているパートナー向けの Adobe Sign in 2021 への DocuSign 移行](2020-december.md#12)|12 月 22 日|
+|製品サービス/市場|[2021 年 1 月の価格とカタログ スケジュール](2020-december.md#11)|12 月 22 日|
+|機能|[Microsoft 365 アプリとサービスの Internet Explorer 11 と Microsoft Edge レガシのサポートに関する発表](2020-december.md#10)|12 月 21 日|
 |ビジネスの拡大|[行政機関、教育機関、および非営利団体:CSP のオープン ライセンス プログラムの変更と進化の継続](2020-december.md#9)|12 月 17 日|
 |製品サービス/市場|[クラウド ソリューション プロバイダー (CSP) のお客様のオンボード要件の変更](2020-december.md#8)|12 月 17 日|
 |ビジネスの拡大|[リマインダー:2021 年 1 月から広範囲に公開されるクラウド ソリューション プロバイダー (CSP) プログラムの永続的ソフトウェア](2020-december.md#7)|12 月 17 日|
