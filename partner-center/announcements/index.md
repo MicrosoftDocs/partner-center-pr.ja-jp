@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736542"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916815"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
 パートナー センターの重要な更新についての詳細をご確認ください。 この情報は頻繁に更新されるので、定期的にチェックしてみてください。
 
-| **カテゴリ** | **2020 年 12 月のお知らせ** | **発表** |
+| **カテゴリ** | **2021 年 1 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[2021 年 2 月の終わりまでに、教育機関の顧客の検証プロセス用の既存の GET および PUT 認定 API の廃止と提供終了](2021-january.md#2)|1 月 5 日|
+|製品サービス/市場|[2021 年 2 月の Dynamics 365 プラン](2021-january.md#1)|1 月 4 日|
+| **カテゴリ** | **2020 年 12 月のお知らせ** | **発表** |
 |オファー|[FY21 H1 使用期間の使用されなかったチャネル インセンティブの協力マーケティング ファンド (co-op) の資金は、H2 使用期間にロールオーバーされます](2020-december.md#13)|12 月 22 日|
 |機能|[Microsoft Partner Agreement (MPA) を所有しているパートナー向けの Adobe Sign in 2021 への DocuSign 移行](2020-december.md#12)|12 月 22 日|
 |製品サービス/市場|[2021 年 1 月の価格とカタログ スケジュール](2020-december.md#11)|12 月 22 日|
