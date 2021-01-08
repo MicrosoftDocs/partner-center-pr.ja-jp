@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000426"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979534"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>パートナーセンターでの商用 marketplace 製品とサブスクリプションの課金
 
-**適用対象**
-
-- パートナー センター
-- CSP プログラムのパートナー
 
 **適切なロール**
 
@@ -35,7 +31,7 @@ CSP プログラムのパートナーとして、パートナーセンターを�
 CSP プログラムのパートナーは、パートナーセンターまたは Azure portal (お客様が以前に購入した CSP に購入した Azure テナントを使用) から製品を購入した場合に、お客様が購入した ISV 商用 marketplace ソリューションに対して課金されます。
 
 >[!NOTE]
->お客様が独自の Azure AD テナント (CSP プログラムのパートナーから購入したものではない) を使用している場合、お客様は独自の ISV SaaS ソリューションを ([Microsoft AppSource](https://appsource.microsoft.com/) または [Azure Marketplace](https://azuremarketplace.microsoft.com/)) から直接購入することもできます。 その場合は、Microsoft から直接請求書を受け取ります。 同様に、CSP プログラムのパートナーが Azure サブスクリプションまたは新しい Azure プランを顧客に販売し、そのテナントへの [ロールベースのアクセス権](/azure/role-based-access-control/built-in-roles) を顧客 (または間接 **リセラー) に**付与した場合、その顧客 (または間接リセラー) は、事前の承認または CSP パートナーへの通知を行わずに、商用の marketplace プランを購入できます。 このような場合、マイクロソフトは、顧客が行った購入について、CSP プログラムに直接パートナーに通知しません。 ただし、Microsoft では、Azure サブスクリプションでのアクティビティに関するアラートまたは通知を設定するために使用できるオプションの [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) メカニズムを提供しています。
+>お客様が独自の Azure AD テナント (CSP プログラムのパートナーから購入したものではない) を使用している場合、お客様は独自の ISV SaaS ソリューションを ([Microsoft AppSource](https://appsource.microsoft.com/) または [Azure Marketplace](https://azuremarketplace.microsoft.com/)) から直接購入することもできます。 その場合は、Microsoft から直接請求書を受け取ります。 同様に、CSP プログラムのパートナーが Azure サブスクリプションまたは新しい Azure プランを顧客に販売し、そのテナントへの [ロールベースのアクセス権](/azure/role-based-access-control/built-in-roles) を顧客 (または間接 **リセラー) に** 付与した場合、その顧客 (または間接リセラー) は、事前の承認または CSP パートナーへの通知を行わずに、商用の marketplace プランを購入できます。 このような場合、マイクロソフトは、顧客が行った購入について、CSP プログラムに直接パートナーに通知しません。 ただし、Microsoft では、Azure サブスクリプションでのアクティビティに関するアラートまたは通知を設定するために使用できるオプションの [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) メカニズムを提供しています。
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>商用 marketplace 製品の課金情報へのアクセス
 
@@ -45,9 +41,9 @@ CSP プログラムのパートナーは、パートナーセンターまたは 
 
 2. パートナー センター メニューで **[請求]** を選択します。 
 
-    課金ページの上部に2つのタブが表示されます。 **定期的** および **定期的な購入と1回限りの購入**です。 各タブでは、さまざまな marketplace 製品の請求書と調整 (recon) ファイルにアクセスできます。
+    課金ページの上部に2つのタブが表示されます。 **定期的** および **定期的な購入と1回限りの購入** です。 各タブでは、さまざまな marketplace 製品の請求書と調整 (recon) ファイルにアクセスできます。
 
-    - [**定期的**なタブ]: Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、Power BI Pro、および Microsoft Azure に関連するサブスクリプションの請求書と調整ファイルを表示します。
+    - [**定期的** なタブ]: Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、Power BI Pro、および Microsoft Azure に関連するサブスクリプションの請求書と調整ファイルを表示します。
 
     - [**定期的および1回限りの購入**] タブ: azure プラン、azure 予約、ソフトウェア、および商用 marketplace 製品の請求書と調整ファイルが表示されます。
   
@@ -95,7 +91,7 @@ CSP プログラムのパートナーは、パートナーセンターまたは 
 
 ### <a name="tips-on-reading-your-reconciliation-file"></a>調整ファイルの読み取りに関するヒント
 
-**定期的および1回限りの購入**調整ファイルには、請求書の料金に対応する追加の詳細を含むいくつかの列が含まれています。 **Publishername**列には、Microsoft またはサードパーティの ISV 発行元からの購入であるかどうかが表示されます。
+**定期的および1回限りの購入** 調整ファイルには、請求書の料金に対応する追加の詳細を含むいくつかの列が含まれています。 **Publishername** 列には、Microsoft またはサードパーティの ISV 発行元からの購入であるかどうかが表示されます。
 
 調整ファイルの料金には、$0 という料金が表示される場合があります。 これは、ISV の "無料試用版" プラン (通常は30日または60日) または「ライセンスの持ち込み」プランが原因である可能性があります。
 

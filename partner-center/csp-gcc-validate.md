@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114377"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979639"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>CSP パートナーとカスタマーの資格基準に関する Office 365 Government GCC-パートナーセンター
-
-**適用対象**
-
-- パートナー センター
-- CSP パートナー
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP パートナーと顧客の資格基準に関する Office 365 Government GCC 
 
 **適切なロール**
 
@@ -32,11 +27,11 @@ ms.locfileid: "87114377"
 >[!NOTE]
 >検証プロセスと以下で説明する条件は、直接請求パートナーに固有です。 直接請求パートナーには、直接リセラーと間接プロバイダーが含まれます。  間接リセラーである場合は、間接プロバイダーと連携してください。
 
-組織 (またはお客様の組織) に CSP 用の Office 365 Government GCC が承認されていることを希望する場合は、以下の要件を確認してください。
+企業 (またはお客様の会社) に CSP 用の Office 365 Government GCC が承認されていることを希望する場合は、以下の要件を確認してください。
 
-米国の連邦、州、地方、および先住民部族の行政機関にサービスを提供しているパートナーである場合、承認される可能性があります。 組織で検証を受けるには、[ここ](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)に記載されている簡単なフォームに記入してください。
+米国の連邦、州、地方、および先住民部族の行政機関にサービスを提供しているパートナーである場合、承認される可能性があります。 組織で検証を受けるには、 [ここ](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)に記載されている簡単なフォームに記入してください。
 
-顧客が、政府機関向けの管理対象のデータを処理する組織である場合や、米国の連邦、州、地方、および先住民部族の行政機関である場合、承認される可能性があります。 お客様の組織の資格を検証するには、[ここ](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)に記載されている簡単なフォームに記入してください。 
+顧客が、政府機関向けの管理対象のデータを処理する組織である場合や、米国の連邦、州、地方、および先住民部族の行政機関である場合、承認される可能性があります。 お客様の組織の資格を検証するには、 [ここ](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)に記載されている簡単なフォームに記入してください。 
 
 -   パートナーの組織がクラウド ソリューション プロバイダー プログラムに[登録](https://partnercenter.microsoft.com/partner/cloud-solution-provider)している必要があります。これは、CSP 向け Office 365 Government GCC について承認されるための前提条件です。
 -   CSP 向け Office 365 Government GCC の販売に関するステップ バイ ステップの検証プロセス ガイドについては、[こちら](https://go.microsoft.com/fwlink/?linkid=2007323)を参照してください。
@@ -68,3 +63,6 @@ CSP 向け Office 365 Government GCC のパートナーと顧客の適格性は�
 
 国際的な商業組織が上記の用件を満たし、米国での所在 (郵送先住所、物理的な場所など) が確認された場合、適格性を認められる場合があります。
 
+## <a name="next-steps"></a>次のステップ
+
+- [CSP 向け Office 365 Government GCC サブスクリプションを認定ユーザーに販売する](csp-gcc-overview.md)

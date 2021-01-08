@@ -9,26 +9,22 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435151"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979656"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>商用マーケットプレースでビジネスを行う CSP パートナー向けのコントラクト
 
-**適用対象**
-
-- パートナー センター
-- CSP プログラムのパートナー
 
 **適切なロール**
 
 - グローバル管理者
 - 管理エージェント
 
-このセクションは、パートナーセンターのコマーシャルマーケットプレースまたは Azure portal から、顧客向けに ISV marketplace のプランまたは製品を購入することを選択した CSP プログラムのパートナー向けの契約に関連しています。
+この記事では、パートナーセンターのコマーシャルマーケットプレースまたは Azure portal から、お客様の ISV marketplace のプランまたは製品を購入することを選択した CSP プログラムのパートナー向けのコントラクトについて説明します。
 
 [Csp プログラムガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)には、csp プログラムにおける Microsoft とパートナーの間の商用 marketplace の提供を管理する使用条件が含まれています。 CSP パートナーは、これらの使用条件を確認して、プログラム内でコンプライアンスに対応していることを確認する必要があります。  
 
@@ -41,9 +37,9 @@ ms.locfileid: "86435151"
 
 商用マーケットプレースでの CSP 活動を管理する用語の詳細については、以下を参照してください。
 
-- [CSP プログラムガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)の「サードパーティが提供するもの」と**いうタイトルのセクション**。 これにより、CSP プログラムのパートナーによる ISV ソリューションの販売を管理する用語が提供されます。
+- [CSP プログラムガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)の「サードパーティが提供するもの」と **いうタイトルのセクション**。 これにより、CSP プログラムのパートナーによる ISV ソリューションの販売を管理する用語が提供されます。
 
-- **Microsoft Partner Agreement (MPA)** は CSP プログラムを管理し、既存の MCRA と MCDA を置き換えます。 MPA は[パートナーセンター](https://partner.microsoft.com/pcv/dashboard/overview)で利用できます。これにより、CSP プログラムに参加することを選択したパートナーは、それを確認して同意できます。
+- **Microsoft Partner Agreement (MPA)** は CSP プログラムを管理し、既存の MCRA と MCDA を置き換えます。 MPA は [パートナーセンター](https://partner.microsoft.com/pcv/dashboard/overview) で利用できます。これにより、CSP プログラムに参加することを選択したパートナーは、それを確認して同意できます。
   
 Microsoft は、取引先との間でのサービスの提供に関する法的責任を負いません。また、提携パートナーがコマースプラットフォームを通じて法的条項を確立するためのメカニズムを提供することもありません。 トランザクションを実行するパートナーが追加の法律条項を必要とする場合は、アグリーメントを直接実行する必要があります。
 

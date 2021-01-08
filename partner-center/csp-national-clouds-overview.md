@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000386"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979568"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP プログラムの一部として、Microsoft の国内クラウドで販売に適用する
+
+**適用対象**
+
+- Microsoft Government Cloud のパートナーセンター
+- Microsoft Cloud ドイツのパートナーセンター
+
+
+**適切なロール**
+
+- グローバル管理者
 
 グローバルなクラウド ソリューション プロバイダー プログラムの一環として顧客に販売するだけでなく、Microsoft 認定パートナーは、次の 3 つの独立したナショナル クラウドでクラウド ソリューションを販売することもできます。 ナショナル クラウドは、Microsoft エンタープライズ クラウド サービスを物理ネットワークおよび論理ネットワークで分離したインスタンスであり、特定の国の地理的境界内に制限され、ローカルの担当者によって運営されます。 
 
@@ -24,7 +34,7 @@ Microsoft ナショナル クラウド サービスについて詳しくは、�
 
 Microsoft では、以下のサービスをナショナル クラウドで提供しています。
 
--   Microsoft Azure のスコープ内のサービスでは、ハイパースケール コンピューティング、ストレージ、ネットワーク、ID 管理を提供します。 Azure は、政府機関に必要なレベルのセキュリティ、プライバシー、制御、コンプライアンス、透明性でクラウド内のデータを保護します。
+-   Microsoft Azure には、ハイパースケールコンピューティング、ストレージ、ネットワーク、および id 管理が用意されています。 Azure は、政府機関に必要なレベルのセキュリティ、プライバシー、制御、コンプライアンス、透明性でクラウド内のデータを保護します。
 
 -   Microsoft Dynamics 365 は、機密データへのアクセスを制限できるセキュリティ機能と共に、データのレポート、モデリング、ワークフローを政府機関の職員に提供するクラウド ベースのカスタマー リレーションシップ マネジメント (CRM) ソリューションです。
 
@@ -49,3 +59,7 @@ Microsoft では、以下のサービスをナショナル クラウドで提供
     Microsoft はテクノロジ プロバイダーですが、サービスは運営せず、21Vianet が単独で Microsoft クラウド サービスの運営、提供、管理を行っています。 Microsoft テクノロジのライセンスによって、21Vianet は Azure および Office 365 のサービスを提供し、Azure および Office 365 のデータセンターを運営して中国本土内のデータを保持できます。 21Vianet では、サブスクリプションと課金のサービスのほか、サポートも提供します。
 
     中国の 21Vianet が運営する Azure および Office 365 に登録して顧客への販売を行う方法については、「[21Vianet が運営するパートナー センター](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11))」をご覧ください。
+
+## <a name="next-steps"></a>次のステップ
+
+- [Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問](faq-for-us-govt-cloud.md)

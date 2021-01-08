@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86ae657725717fea06a6fdb18cadc069e9140ffa
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 140dd5b7ad8af0f29dabd452dd59f22e3314cdd5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435041"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979551"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>CSP プログラムでの商用 marketplace 製品のサポート
 
-**適用対象**
-
-- パートナー センター
-- CSP プログラムのパートナー
 
 **適切なロール**
 
@@ -48,9 +44,9 @@ CSP プログラムのパートナーは、お客様の請求またはサブス�
 
 ## <a name="how-to-find-isv-contact-information"></a>ISV の連絡先情報を検索する方法
 
-ほとんどの ISV 連絡先の詳細は、パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)から入手できるパートナーセンターの [**プランの詳細**] ページに表示されます。 これには、ISV、カスタマーサポート、および任意の CSP プログラムの連絡先のエンジニアリング担当者が含まれます。 ここで ISV によって提供される情報には、ユーザードキュメント、販売資料、CSP プログラムのマーケティング資料へのリンクが含まれる場合もあります。
+ほとんどの ISV 連絡先の詳細は、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)から入手できるパートナーセンターの [**プランの詳細**] ページに表示されます。 これには、ISV、カスタマーサポート、および任意の CSP プログラムの連絡先のエンジニアリング担当者が含まれます。 ここで ISV によって提供される情報には、ユーザードキュメント、販売資料、CSP プログラムのマーケティング資料へのリンクが含まれる場合もあります。
 
-**プランの詳細**ページにアクセスするには、「[商用マーケットプレースでのプランの検出](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center)」を参照してください。
+**プランの詳細** ページにアクセスするには、「[商用マーケットプレースでのプランの検出](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center)」を参照してください。
 
 ## <a name="next-steps"></a>次のステップ
 
