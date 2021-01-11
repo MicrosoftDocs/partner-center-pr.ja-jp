@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916815"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979789"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "97916815"
 
 | **カテゴリ** | **2021 年 1 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|モダン ワークプレース|[新しいコマース オファーに関するパートナー請求通貨の EU/EFTA の変更](2021-january.md#3)|1 月 7 日|
 |機能|[2021 年 2 月の終わりまでに、教育機関の顧客の検証プロセス用の既存の GET および PUT 認定 API の廃止と提供終了](2021-january.md#2)|1 月 5 日|
 |製品サービス/市場|[2021 年 2 月の Dynamics 365 プラン](2021-january.md#1)|1 月 4 日|
 | **カテゴリ** | **2020 年 12 月のお知らせ** | **発表** |
