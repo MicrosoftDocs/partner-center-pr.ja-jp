@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514751"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916832"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP プログラム パートナー向け Microsoft Partner Agreement (MPA) について説明します。
 
@@ -50,7 +50,7 @@ CSP プログラムへの参加を続けるには、2020 年 1 月 31 日まで�
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>CSP 間接リセラーとして登録されていることを確認する
 
-1. [CSP Indirect Reseller](enrolling-in-the-csp-program.md) としてパートナー センターにまだ登録していない場合は、まずそれを行う必要があります。 パートナー センターで CSP Indirect Reseller として登録した後、残りの手順を完了します。
+1. [CSP Indirect Reseller](indirect-reseller-tasks-in-partner-center.md) としてパートナー センターにまだ登録していない場合は、まずそれを行う必要があります。 パートナー センターで CSP Indirect Reseller として登録した後、残りの手順を完了します。
 
 1. CSP グローバル管理者アカウントの資格情報を使用して、パートナー センターにサインインします。
 

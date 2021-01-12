@@ -6,15 +6,15 @@ description: 主要連絡先、住所、プログラム情報など、ご自身�
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514709"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666793"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>パートナー センターで組織プロファイルの情報を確認する
 
@@ -27,7 +27,7 @@ ms.locfileid: "95514709"
 
 パートナー プロファイルは、法的ビジネス情報、主要連絡先担当者の名前とメール、会社が参加しているプログラム、および法的ビジネスに統合されている他の企業 (該当する場合) で構成されます。 法的ビジネス プロファイルの会社名と住所にスペルミスや省略形がなく、正式な会社のビジネス登録レコードと正確に一致していることを確認します。 個人事業として業務を行っている場合は、会社名を正式名称として使用する必要があります。
 
-1. **[設定]** に移動し、 **[アカウントの設定]** を選択します。
+1. **[設定]** アイコンに移動し、 **[アカウントの設定]** を選択します。
  
 1. **[組織のプロファイル]** を選択します。 
 
@@ -65,15 +65,11 @@ Partner Membership Center からパートナー センターへの移行中、�
 
 ご使用の CSP アカウントに関連付けられている MPN ID を更新するには、次のようにします。
 
-1. パートナー センター ダッシュボードにサインインします。
+1. パートナー センター ダッシュボードにサインインして、 **[設定]** を選択します。
  
-1. **[アカウントの設定]** から **[組織のプロファイル]** を選択します。
+1. **[アカウント設定]** から **[識別子]** を選択します。
 
-1. **[Associated MPNID]\(関連付けられた MPNID\)** の横にある **[更新]** を選択します。
- 
-1. **[続行]** をクリックします。
- 
-1. MPN ID を追加します。
+1. **[CSP]** セクションの **[更新]** リンクを使用して、CSP アカウントに関連付けられている MPN ID を更新します 
 
 
 ## <a name="update-your-billing-address"></a>請求先住所を更新する

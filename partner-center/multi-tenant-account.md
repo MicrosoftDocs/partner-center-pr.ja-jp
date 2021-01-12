@@ -1,7 +1,7 @@
 ---
 title: パートナーセンターアカウントにテナントを追加する
 ms.topic: article
-ms.date: 07/30/2020
+ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターアカウントで複数の Azure AD テナントを追加、統合、または管理する方法について説明します。 いくつかの理由についても説明します。
@@ -9,18 +9,15 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175163"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105556"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>パートナーセンターアカウントで複数のテナントを追加して管理する
 
-**適用対象**
-
-- パートナー センター
 
 **適切なロール**
 
@@ -42,7 +39,7 @@ ms.locfileid: "92175163"
 ## <a name="add-another-azure-ad-tenant-to-your-account"></a>アカウントに別の Azure AD テナントを追加する
 
 1. 全体管理者として、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
-1. **設定**アイコンで、[**アカウントの設定**] を選択し、[**テナント**] を選択します。
+1. **設定** アイコンで、[**アカウントの設定**] を選択し、[**テナント**] を選択します。
  
 :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="テナントの関連付け"::: 
 
@@ -50,7 +47,7 @@ ms.locfileid: "92175163"
 
 1. グローバル管理者として、関連付けるテナントにサインインし、関連付けを確認します。 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="テナントの関連付け"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="テナントの関連付けの確認"::: 
 
 5. 確認が完了すると、すべての **設定** の通知が表示されます。  [ **テナント管理に戻る** ] を選択すると、新しく追加されたテナントが一覧表示されます。 
  
@@ -58,7 +55,28 @@ ms.locfileid: "92175163"
 >[!NOTE]
 >既に別のパートナーセンターアカウントに関連付けられている場合、そのテナントをアカウントに関連付けることはできません。
 
+
+## <a name="remove-a-tenant-from-your-account"></a>アカウントからテナントを削除する
  
+1. 全体管理者として、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+
+1. **設定** アイコンで、[**アカウントの設定**-> テナント] を選択し、[**パートナー** ] タブをクリックします。
+ 
+3. 関連付けを解除するテナントの [ **削除** ] をクリックします。
+
+4. 関連付け a テナントは、そのテナントのユーザーがパートナーセンターアカウントにアクセスできなくなることを意味します。これは、コンピテンシーに影響を与える可能性があります。 
+
+[ **削除** ] ボタンは、現在サインインしているプライマリテナントとテナントを除く、関連付けられているすべてのテナントに対して有効になっています。
+
+:::image type="content" source="images/disassociate.png" alt-text="[削除] ボタンがあるテナント":::
+ 
+
 ## <a name="next-steps"></a>次のステップ
 
 - [ユーザーの追加](create-user-accounts-and-set-permissions.md)
+
+
+
+
+
+
