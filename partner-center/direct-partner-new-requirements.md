@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514704"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105530"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP 直接請求パートナーとして登録するための要件
 
-**適用対象**
+**適切なロール**
 
-- クラウド ソリューション プロバイダー プログラムでの直接請求パートナー
+- グローバル管理者
 
 ## <a name="enroll-as-a-direct-partner"></a>直接パートナーとして登録する
 
-直接請求パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。 直接請求パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。 2020 年 10 月 27 日の時点で、直接請求パートナーに対する登録要件が更新されました。 これらの要件により、適切なクラウド ソリューション プロバイダー モデルによるビジネスの成長が促進され、付加価値の高いサービスやサポートによって顧客との関係が強化されます。  
+直接請求パートナーは、顧客および Microsoft とエンド ツー エンドの関係になります。 2020 年 10 月 27 日の時点で、直接請求パートナーに対する登録要件が更新されました。 これらの要件により、適切なクラウド ソリューション プロバイダー モデルによるビジネスの成長が促進され、付加価値の高いサービスやサポートによって顧客との関係が強化されます。  
 
 ### <a name="minimum-requirements"></a>最小要件
 
