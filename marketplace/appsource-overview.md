@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
+ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146389"
+ms.locfileid: "98166700"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource とは
 
@@ -59,7 +59,7 @@ Microsoft のパートナーは、SaaS アプリケーションと、それに�
 
 SaaS アプリで購入が必要な場合は、「 [Microsoft AppSource に saas プランを購入する方法](purchase-software-appsource.md)」を参照してください。
 
-Microsoft 365 管理者ユーザーは、SaaS とアドインの両方を1か所に配置できます。 詳細については、「 [Microsoft 365 アプリのテストとデプロイ-Microsoft 365 admin](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md)」を参照してください。
+Microsoft 365 管理者ユーザーは、SaaS とアドインの両方を1か所に配置できます。 詳細については、「 [Microsoft 365 アプリのテストとデプロイ-Microsoft 365 admin](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps)」を参照してください。
 
 ## <a name="find-ratings-and-reviews"></a>評価とレビューを検索する
 
