@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
-ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
+ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "97771694"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146389"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource とは
 
@@ -48,7 +48,18 @@ AppSource で利用可能なすべての製品は、特定の条件に従って�
 
 ## <a name="discover-saas-and-m365-integrated-apps"></a>SaaS および M365 統合アプリの検出
 
-Microsoft のパートナーは、SaaS アプリと M365 統合アプリをリンクできます。 これにより、リンクされた SaaS アプリを入手するときに、統合されたアプリをダウンロードして使用することができます。 この場合、検索結果は、それに付属する統合アプリのアイコンを表示している SaaS アプリだけを返すことがあります。 SaaS アプリと統合アプリの間を移動するには、各の [製品の詳細] ページを使用します。 SaaS アプリで購入が必要な場合は、「 [Microsoft AppSource に saas プランを購入する方法](purchase-software-appsource.md)」を参照してください。
+Microsoft のパートナーは、SaaS アプリケーションと、それに対応する Microsoft 365 用のアドインとをリンクできます。 これにより、アドインにリンクされた SaaS アプリを取得するときに、特定の Microsoft 365 サービスまたは製品からアドインをダウンロードして使用することができます。
+
+この場合、検索結果では、saas アプリの製品カードに対応するアドイン製品アイコンを持つ SaaS アプリのみが返される可能性があります。 SaaS アプリケーションと統合アプリの製品詳細ページ間を移動できます。
+
+スタンドアロンアドインを探している場合は、次のいずれかの方法で見つけることができます。
+
+- [Appsource 製品カタログ](https://appsource.microsoft.com/marketplace/apps/)にアクセスし、左側のナビゲーションの [ **Products** ] で [ **Microsoft 365**] を選択します。 [ **Microsoft 365**] の下に表示される製品の一覧から、目的の製品のボックスを選択します。
+- または、SaaS アプリケーション製品カード内のアドイン製品アイコンを選択して、検索画面に表示されていない特定のアドインにアクセスします。
+
+SaaS アプリで購入が必要な場合は、「 [Microsoft AppSource に saas プランを購入する方法](purchase-software-appsource.md)」を参照してください。
+
+Microsoft 365 管理者ユーザーは、SaaS とアドインの両方を1か所に配置できます。 詳細については、「 [Microsoft 365 アプリのテストとデプロイ-Microsoft 365 admin](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md)」を参照してください。
 
 ## <a name="find-ratings-and-reviews"></a>評価とレビューを検索する
 
