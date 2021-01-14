@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: インサイト レポート
           items:
+            - name: 概要
+              href: pci-overview-report.md
+            - name: Customer
+              href: pci-customer-report.md
+            - name: リセラー パフォーマンス
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: 製品のサブスクリプション
+              href: pci-product-subscriptions-report.md
             - name: Azure の利用状況
               href: pci-azure-usage-report.md
+            - name: Teams の利用状況
+              href: pci-teams-usage-report.md
+            - name: Office 365 の利用状況
+              href: pci-office-365-usage-report.md
+            - name: Dynamics の利用状況
+              href: pci-dynamics-usage-report.md
+            - name: Enterprise Mobility + Security の利用状況
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: Power BI の利用状況
+              href: pci-power-bi-usage-report.md
+            - name: トレーニング
+              href: pci-training-dashboard.md
+            - name: Microsoft Learn 分析
+              href: ms-learn-analytics.md
+            - name: コンピテンシー
+              href: pci-competencies-report.md
             - name: メリット
               href: pci-benefits-report.md
             - name: CloudAscent の傾向
               href: pci-customer-opportunities.md
-            - name: コンピテンシー
-              href: pci-competencies-report.md
-            - name: Customer
-              href: pci-customer-report.md
-            - name: Microsoft Learn 分析
-              href: ms-learn-analytics.md
-            - name: 概要
-              href: pci-overview-report.md
             - name: 製品ライセンス
               href: pci-product-licenses-report.md
-            - name: 製品のサブスクリプション
-              href: pci-product-subscriptions-report.md
-            - name: リセラー パフォーマンス
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: トレーニング
-              href: pci-training-dashboard.md
         - name: インサイト-FAQ
           href: pci-known-issues.md
         - name: インサイト レポートをダウンロードする
