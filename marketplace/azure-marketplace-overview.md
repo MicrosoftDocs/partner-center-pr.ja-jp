@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 89ed8850d92861ea7da2d83a9945980f0ca71daa
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007273"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182530"
 ---
 # <a name="what-is-azure-marketplace"></a>Azure Marketplace とは何ですか?
 
@@ -59,13 +59,13 @@ Azure Marketplace からソフトウェアをデプロイするには、支払�
 - クレジット カード
 - 請求書 (既存の Microsoft 購入契約を含む)
 
-Azure Marketplace での購入は、Azure の請求書に自動的に追加され、アカウントに関連付けられている支払い方法に課金されます。 異なる支払いアカウントの関連付けについては、「 **Azure の外部料金**」トピックの「[課金アカウントの種類の確認](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type)」を参照してください。
+Azure Marketplace での購入は、Azure の請求書に自動的に追加され、アカウントに関連付けられている支払い方法に課金されます。 異なる支払いアカウントの関連付けについては、「 **Azure の外部料金**」トピックの「[課金アカウントの種類の確認](/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type)」を参照してください。
 
 ## <a name="certification-and-security"></a>認定とセキュリティ
 
-Azure Marketplace で利用可能なすべての製品は、特定の条件に従って認定されています。 また、各製品が組織の固有の要件を満たしていることを確認することをお勧めします。 各プランの種類について確認する認定ポリシーの詳細については、「商用 marketplace の [認定ポリシー](https://docs.microsoft.com/legal/marketplace/certification-policies)」を参照してください。
+Azure Marketplace で利用可能なすべての製品は、特定の条件に従って認定されています。 また、各製品が組織の固有の要件を満たしていることを確認することをお勧めします。 各プランの種類について確認する認定ポリシーの詳細については、「商用 marketplace の [認定ポリシー](/legal/marketplace/certification-policies)」を参照してください。
 
-## <a name="terms-and-conditions"></a>Intune の登録および会社アクセスに関する使用条件
+## <a name="terms-and-conditions"></a>使用条件
 
 ソフトウェアベンダーは、価格、使用許諾契約書、およびプライバシーポリシーを定義します。 Azure Marketplace のすべてのプランには、発行元のライセンス契約とプライバシーポリシーへのリンクが含まれています。 これらの契約を確認し、それらを表示する機会を持つことは、購買フローの一部です。 詳細については、「 [法的契約](legal-contracts.md) 」を参照してください。
 
@@ -75,7 +75,7 @@ Azure Marketplace で利用可能なすべての製品は、特定の条件に�
 
 :::image type="content" source="media/azure-marketplace/app-reviews.png" alt-text="アプリレビューの例。":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Azure Marketplace での購入](azure-purchasing-invoicing.md)
 - [Microsoft AppSource とは](appsource-overview.md)

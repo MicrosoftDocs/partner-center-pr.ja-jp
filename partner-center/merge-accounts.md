@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189749"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182598"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>パートナー アカウントを別のパートナー アカウントにマージする
 
@@ -77,6 +77,8 @@ ms.locfileid: "93189749"
 
 - ソフトウェアアシュアランスのバウチャーは、両方のアカウントにわたって保持されます。 
 
+- /または PAL の関連付けには影響しません。 関連付けられた収益の投稿は、新しいパートナーグローバルアカウントへのフローを開始します。
+
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>パートナーセンターアカウントをパートナーセンターアカウントにマージするように会社を招待する
 
 >[!Note]
@@ -84,11 +86,11 @@ ms.locfileid: "93189749"
 
 1. パートナーセンターのダッシュボードから [ **設定** ] を選択します。 
 
-2. [ **Account merge** ] を選択します。
+2. [ **Account merge**] を選択します。
 
 3. 自分と結合するために招待するアカウントの **パートナープロファイル** にある MPN ID を追加します。 パートナーのグローバル MPN ID を使用する必要があります。 Location MPN ID を使用することはできません。
 
-4. [ **マージ** ] を選択すると、パートナー企業に招待が送信されます。 要求を受け入れると、パートナーセンター内でアカウントのマージを開始できます。 組織がアカウントのマージ要求を拒否した場合、その要求が拒否された理由を説明することができます。 [ **マージ履歴** ] では、すべてのアカウントのマージの一覧を使用できます。
+4. [ **マージ**] を選択すると、パートナー企業に招待が送信されます。 要求を受け入れると、パートナーセンター内でアカウントのマージを開始できます。 組織がアカウントのマージ要求を拒否した場合、その要求が拒否された理由を説明することができます。 [ **マージ履歴**] では、すべてのアカウントのマージの一覧を使用できます。
  
 ### <a name="example-of-two-companies-merging-accounts"></a>アカウントをマージする2つの企業の例
 
@@ -122,7 +124,7 @@ ms.locfileid: "93189749"
 
 ## <a name="next-steps"></a>次のステップ
 
-- [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
+- [ユーザー ロールとアクセス許可を割り当てる](permissions-overview.md)
 
 - [パートナー プロファイルの情報を確認する](update-your-partner-profile.md)
 

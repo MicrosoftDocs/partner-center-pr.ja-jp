@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007243"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182479"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace での購入
 
@@ -25,7 +25,7 @@ Azure Marketplace を通じて購入すると、個々のベンダーと請求�
 
 ## <a name="permission-to-purchase"></a>購入するためのアクセス許可
 
-適切なソフトウェアアプリケーションが見つかったら、購入を完了するのは簡単です。 ただし、Azure サブスクリプション内で適切なアクセス許可が必要になります。 Azure は [ロールベースの Access Control](https://docs.microsoft.com/azure/role-based-access-control/overview) (RBAC) モデルで動作するため、アカウントには購入を行うための **サブスクリプションの所有者** または **共同作成者** のアクセス許可が必要です。
+適切なソフトウェアアプリケーションが見つかったら、購入を完了するのは簡単です。 ただし、Azure サブスクリプション内で適切なアクセス許可が必要になります。 Azure は [ロールベースの Access Control](/azure/role-based-access-control/overview) (RBAC) モデルで動作するため、アカウントには購入を行うための **サブスクリプションの所有者** または **共同作成者** のアクセス許可が必要です。
 
 購入を完了する前に、ユーザーが Azure テナントで正しい構成を持っていることを確認してください。 これは、購入時のエラーを防ぐのに役立ちます。
 
@@ -55,12 +55,12 @@ Microsoft では、Azure サブスクリプション管理者として課金プ�
 
 ## <a name="cost-management"></a>コスト管理
 
-Azure Marketplace から製品を購入すると、コストの管理に役立つ洞察を得ることができます。 Azure Cost Management は、購入した製品に関する情報を表示するための無料ツールです。 Cost Management を使用すると、時間の経過と共に使用しているサービスの詳細と、設定した予算に対してそれらのコストがどのように追跡されるかを確認できます。 予算を設定するだけでなく、レポートのスケジュールを設定したり、サブスクリプションのコストを分析したりすることもできます。 Azure Cost Management の詳細については、「 [コストの分析」と「Azure Cost Management を使用した予算の作成](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/)」の「Microsoft Learn」モジュールを参照してください。
+Azure Marketplace から製品を購入すると、コストの管理に役立つ洞察を得ることができます。 Azure Cost Management は、購入した製品に関する情報を表示するための無料ツールです。 Cost Management を使用すると、時間の経過と共に使用しているサービスの詳細と、設定した予算に対してそれらのコストがどのように追跡されるかを確認できます。 予算を設定するだけでなく、レポートのスケジュールを設定したり、サブスクリプションのコストを分析したりすることもできます。 Azure Cost Management の詳細については、「 [コストの分析」と「Azure Cost Management を使用した予算の作成](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)」の「Microsoft Learn」モジュールを参照してください。
 
 Azure Marketplace の料金と請求書は、Azure Cost Management の費用分析ツールで確認できます。
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Azure Cost Management を使用すると、購入した製品に関する洞察を得ることができます。":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
-- [請求と請求](billing-invoicing.md)
+- [請求と請求書作成](billing-invoicing.md)

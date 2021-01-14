@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389307"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182326"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>パートナー分析情報-よく寄せられる質問
 
@@ -26,15 +26,15 @@ ms.locfileid: "97389307"
 
 Q) **パートナーセンターアカウントにインサイトハブが表示されません。どうすればよいですか。**
 
-A) 組織の MPN アカウントにログインしていることを確認します。 CSP アカウントから Insights ダッシュボードにアクセスすることはできません。 また、全体管理者がレポートビューアーまたはエグゼクティブレポートビューアーのロールにアクセスできることを確認します。 ロールの詳細については、こちらの [記事](https://docs.microsoft.com/partner-center/pci-roles)を参照してください。
+A) 組織の MPN アカウントにログインしていることを確認します。 CSP アカウントから Insights ダッシュボードにアクセスすることはできません。 また、全体管理者がレポートビューアーまたはエグゼクティブレポートビューアーのロールにアクセスできることを確認します。 ロールの詳細については、こちらの [記事](./pci-roles.md)を参照してください。
 
 Q) **レポートで、課金された収益または Azure によって使用された収益 (ACR) データが表示されません。なぜでしょうか。**
 
-A) 収益および ACR データは、役員のレポートビューアーであるユーザーのみが使用できます。  ロールの詳細については、こちらの [記事](https://docs.microsoft.com/partner-center/pci-roles)を参照してください。
+A) 収益および ACR データは、役員のレポートビューアーであるユーザーのみが使用できます。  ロールの詳細については、こちらの [記事](./pci-roles.md)を参照してください。
 
 Q) **レポートで、課金された収益または Azure によって使用された収益 (ACR) データが表示されません。なぜでしょうか。**
 
-A) 収益および ACR データは、役員のレポートビューアーであるユーザーのみが使用できます。 ロールの詳細については、こちらの [記事](https://docs.microsoft.com/partner-center/pci-roles)を参照してください。
+A) 収益および ACR データは、役員のレポートビューアーであるユーザーのみが使用できます。 ロールの詳細については、こちらの [記事](./pci-roles.md)を参照してください。
 
 Q: **顧客に報告された国が正しくないようです。なぜでしょうか。**
 

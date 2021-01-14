@@ -8,12 +8,12 @@ ms.prod: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: c5b8b9fcc247818315887109e2163c0722bfbd97
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: d0021be17ab12b6e549b0e5263772a4a1e42f8a3
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96536081"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182343"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>クイックスタート: PowerShell を使用してプライベート Azure Marketplace を管理する
 
@@ -30,7 +30,7 @@ ms.locfileid: "96536081"
   * [Az PowerShell モジュールをインストールします](/powershell/azure/install-az-ps)。
   * [Connect-AzAccount](/powershell/module/az.accounts/connect-azaccount) コマンドレットを使用して、Azure アカウントに接続します。
 * Azure Cloud Shell を使用する場合は、次のようにします。
-  * 詳細については、[Azure Cloud Shell の概要](https://docs.microsoft.com/azure/cloud-shell/overview)に関するページを参照してください。
+  * 詳細については、[Azure Cloud Shell の概要](/azure/cloud-shell/overview)に関するページを参照してください。
 
   > [!IMPORTANT]
   > **Az. Marketplace** PowerShell モジュールはプレビュー段階にありますが、コマンドレットを使用して個別にインストールする必要があり `Install-Module` ます。 この PowerShell モジュールは、一般提供されると、将来の Az PowerShell モジュール リリースに含まれ、既定で Azure Cloud Shell 内から使用できるようになります。

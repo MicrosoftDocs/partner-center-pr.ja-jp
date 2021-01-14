@@ -1,5 +1,5 @@
 ---
-title: 使用可能な co-op ファンドを表示する
+title: 使用可能な協力ファンドを表示する
 ms.topic: article
 ms.date: 01/03/2021
 description: 獲得、要求、および残りの co-op ファンドを表示する方法、有効期限を表示する方法、および不整合な金額を調整する方法について説明します。
@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: cd17656c64a55b9b27784555d9ea2acaae3979d3
-ms.sourcegitcommit: c062209be8f7ed905ab33511675ae280e93dd839
+ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "97864327"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182513"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>利用可能な獲得、要求、および残りの co-op ファンドを表示する
 
@@ -34,7 +34,7 @@ ms.locfileid: "97864327"
 
 4. 選択した期間に送信されたすべての要求を表示するには、ページの一番下までスクロールします。
 
-[概要] に表示されている金額に矛盾があると思われる場合は、前の期間からトランザクションレポートをダウンロードできます。 このレポートは、選択した使用期間に対して獲得された co-op ファンドの量を判断するのに役立ちます。 トランザクションレポートをダウンロードしたり、送信された要求を検証して残りの共同操作量が正確であることを確認したりするには、「 [トランザクションの履歴](/partner-center/payout-statement#transaction-history)」を参照してください。
+[概要] に表示されている金額に矛盾があると思われる場合は、前の期間からトランザクションレポートをダウンロードできます。 このレポートは、選択した使用期間に対して獲得された co-op ファンドの量を判断するのに役立ちます。 トランザクションレポートをダウンロードしたり、送信された要求を検証して残りの共同操作量が正確であることを確認したりするには、「 [トランザクションの履歴](./payout-statement.md#transaction-history)」を参照してください。
 
 まだ金額を調整できない場合や、一部の共同操作が表示されない場合は、サポートチケットを開くことができます。 これを行うには、ページの右上隅にある疑問符アイコンを選択し、[ **インセンティブ**] を選択します。
 

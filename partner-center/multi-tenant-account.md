@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105556"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182437"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>パートナーセンターアカウントで複数のテナントを追加して管理する
 
@@ -22,6 +22,7 @@ ms.locfileid: "98105556"
 **適切なロール**
 
 - グローバル管理者
+- アカウント管理者
 
 この機能を使用すると、自社の複数のテナントを管理し、パートナー センター アカウントに統合できます。 パートナーセンターアカウントで複数の Azure AD テナントを管理する必要がある理由は多数あります。 次に例を示します。
 
