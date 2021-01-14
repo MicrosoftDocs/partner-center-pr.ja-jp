@@ -1,44 +1,58 @@
 ---
-title: パートナー貢献度インジケーター
+title: パートナー貢献度インジケーター-CBA
 ms.topic: article
-ms.date: 12/16/2020
+ms.date: 01/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 7つのパートナー貢献度インジケーター (PCI) について説明します。このインジケーターは、Dynamics 365 カスタマーエンゲージメントまたは Dynamics 365 Finance and Operations の使用方法を示しています。
+description: パートナーがシルバーまたはゴールドのクラウド Business Applications コンピテンシーを実現する方法を示す7つのパートナー貢献度インジケーター (PCI) について説明します。
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
+ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636043"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98204072"
 ---
-# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>パートナー貢献度インジケーター (PCI) は、顧客の成功の 7つの主要な指標に対するパートナーの影響を示します
+# <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>パートナー貢献指標を使用してクラウド Business Applications コンピテンシーを獲得する
 
-この記事では、Cloud Business Applications (CBA) MPN コンピテンシーの利用または保守におけるパートナーの進捗状況を評価するために使用される7つの主要パートナー貢献度インジケーター (PCI) について説明します。
+**適切なロール**
+
+- グローバル管理者
+- MPN パートナー管理者
+- アカウント管理者
+
+この記事では、シルバーまたはゴールドのクラウド Business Applications コンピテンシーに対するパートナーの進捗状況を評価するために使用される7つの主要パートナー貢献度インジケーター (PCI) について説明します。
+
+> [!NOTE]
+> パートナーがさまざまなパートナー貢献指標メトリックを使用して、クラウド Business Applications SMB オプションを通じて、シルバーまたはゴールドの中小企業と思い浮かべのクラウドソリューションのコンピテンシーを得る方法について説明します。 詳細については、「 [Small And 思い浮かべ Cloud Solutions コンピテンシーのパートナー貢献度インジケーターの使用](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md)」を参照してください。 コンピテンシーとその要件の詳細については、「」を [参照](https://partner.microsoft.com/membership/competencies) してください。
 
 この記事には、次の情報が含まれています。
 
 - [各 PCI インジケーターのスコア付け方法](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)
 
-- [各 PCI インジケーターのしきい値](partner-contribution-indicators.md#thresholds-for-each-pci-metric)
+- [各 PCI インジケーターのしきい値](partner-contribution-indicators.md#thresholds-for-each-pci-metric-for-this-competency)
 
-- [各 PCI インジケーターの詳細な定義](partner-contribution-indicators.md#detailed-definitions-of-pci-metrics)
+- [各 PCI インジケーターの詳細な定義](partner-contribution-indicators.md#detailed-pci-metrics-definitions-for-this-competency)
 
-- パートナーセンターで PCI グラフに[アクセスして読み取る方法](partner-contribution-indicators.md#how-to-access-and-read-the-charts)
+- パートナーセンターで PCI グラフに[アクセスして読み取る方法](partner-contribution-indicators.md#how-to-access-partner-contribution-indicators)
 
-## <a name="overview-of-partner-contribution-indicators"></a>パートナー貢献指標の概要
+## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>このコンピテンシーのパートナー貢献度インジケーターの概要
 
-パートナー貢献指標指標は、顧客の結果を成功させるためのパートナーの影響を包括的に測定します。そのため、パートナーがクラウド Business Applications (CBA) MPN コンピテンシーをとれして管理するときに、市場において大きな違いがあります。
+パートナー貢献指標指標は、顧客の成功をもたらすためのパートナーの影響を包括的に測定し、パートナーがシルバーまたはゴールドのクラウド Business Applications コンピテンシーをとれまたは維持するときに、市場においてより大きな差別化を行います。
 
-PCI を使用すると、パートナーは、デプロイの成功や使用量の増加など、お客様の成功の主要な指標に対するクレジットを受け取り、その技術的な機能への投資を継続し、スケールアウトすることができます。
+PCI を使用すると、展開の成功や使用量の増加など、顧客の成功に関する主要な指標のクレジットを取得できます。 これらは、投資を継続し、その技術的機能をスケールアウトすることをお客様にお待ちしています。
+
+たとえば、パートナーが主要指標に特定のレベルの影響を与えた場合、パートナーは、シルバーまたはゴールドのクラウド Business Applications コンピテンシーを獲得 (または保持) できます。
+
+> [!NOTE]
+> コンピテンシーを取得する利点の詳細については、「 [Microsoft パートナーコンピテンシー](https://partner.microsoft.com/membership/competencies)」を参照してください。
 
 ## <a name="pci-scoring-based-on-seven-key-indicators"></a>7つのキーインジケーターに基づく PCI スコアリング
 
-PCI は、パートナーの技術的な機能、顧客の成功を促進する機能、および販売実績の高度なビューを提供します。 PCI は、7つの主要指標にわたって、会社の前年のパフォーマンスを測定します。
+PCI は、パートナーの技術的な機能、顧客の成功を促進する機能、および販売実績の高度なビューを提供します。 パートナーがシルバーまたはゴールドのクラウド Business Applications コンピテンシーを獲得できるように、PCI は7つの主要な指標を通じて、会社の前年度の実績を測定します。
 
 *パフォーマンス指標:*
 
@@ -69,16 +83,16 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 |:----------------------|:-----------------|
 |1-59 ポイント  | シルバーまたはゴールドコンピテンシーの資格 **がありません** |
 |60-79 ポイント  | シルバーコンピテンシーの要件を満たす  |
-|80-100 ポイント  | Gold コンピテンシーの要件を満たす
+|80-100 ポイント  | gold コンピテンシーの要件を満たす
 
 次の図は、簡単なビジュアル参照を提供しています。
 :::image type="content" source="images/pcinew1.png" alt-text="シルバーまたはゴールドコンピテンシーを実現するための PCI スコアを示します。" border="false":::
 
-### <a name="maximum-scores-you-can-achieve-for-each-indicator"></a>各インジケーターに対して実現できる最大スコア
+### <a name="maximum-pci-competency-scores-you-can-achieve-for-each-indicator"></a>各インジケーターに対して実現できる最大 PCI コンピテンシースコア
 
-各インジケーターには、合計に加算されたスコアが表示されます。 各インジケーターの最大スコアは次のとおりです。
+各インジケーターには、合計に加算されたスコアが表示されます。 クラウド Business Applications コンピテンシーの各インジケーターの最大スコアは次のとおりです。
 
-|このインジケーターの場合 | 最大スコアは、  |
+|このインジケーターの場合 | このコンピテンシーの最大スコアは次のようになります。  |
 |:------------|:--------------:|
 |パフォーマンス-新しい収益  | 10ポイント  |
 |パフォーマンス-Net カスタマーが追加  | 10ポイント  |
@@ -91,9 +105,9 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 次の図は、簡単なビジュアル参照を提供しています。
 :::image type="content" source="images/pci/perfnew.png" alt-text="7つのパートナー貢献度インジケーター (PCI) それぞれに対して可能な最大スコアを持つグラフを表示します。" border="false":::
 
-## <a name="thresholds-for-each-pci-metric"></a>各 PCI メトリックのしきい値
+## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>このコンピテンシーの各 PCI メトリックのしきい値
 
-各 PCI メトリックには、パートナー企業が最大ポイントを獲得できるしきい値が Microsoft によって設定されてます。 これらのしきい値は、クラウド Business Applications コンピテンシーに対応するために、顧客エンゲージメントと財務および運用パスによって異なります。 しきい値は、開発された市場で運用されているパートナーや、市場の開発においてのみ動作するパートナーにも異なります。 国の **開発** または **開発** 市場での分類は、 [Microsoft Partner Network の定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)に基づいています。
+各 PCI メトリックには、パートナー企業が最大ポイントを獲得できるしきい値が Microsoft によって設定されてます。 これらのしきい値は、クラウド Business Applications コンピテンシーを実現するために使用される、顧客のエンゲージメントおよび財務および操作のパスによって異なります。 しきい値は、開発された市場で運用されているパートナーや、市場の開発においてのみ動作するパートナーにも異なります。 国の **開発** または **開発** 市場での分類は、 [Microsoft Partner Network の定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)に基づいています。
 
 各メトリックのポイントは、顧客エンゲージメントと財務および運用のために個別の PCI スコアを生成するために計算されます。 このスコアは毎月更新されます。
 
@@ -102,10 +116,10 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 たとえば、新しい収益が $15万である開発されたマーケットパートナーは、最大10ポイントの半分 ($ 150000/$ 300000) を獲得します。
 
 詳細については、次の表を参照してください。
-- [表 1.顧客エンゲージメントのしきい値](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
-- [表 2.財務および操作のしきい値](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
+- [表 1.顧客エンゲージメントのしきい値](partner-contribution-indicators.md#table-1-customer-engagement-thresholds-for-this-competency)
+- [表 2.財務および操作のしきい値](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds-for-this-competency)
 
-### <a name="table-1-customer-engagement-thresholds"></a>表1顧客エンゲージメントのしきい値
+### <a name="table-1-customer-engagement-thresholds-for-this-competency"></a>表1このコンピテンシーの顧客エンゲージメントのしきい値
 
 
 | PCI メトリック | 業績評価指標: 純利益 | 業績評価指標: 新規顧客の追加 | 機能インジケーター: 機能コンサルタント | 機能インジケーター: 機能コンサルタントの成長 | 機能インジケーター: 開発者 | 顧客の成功インジケーター: 新しい大規模な展開 | 顧客の成功インジケーター: 月単位のアクティブなユーザーの成長 |
@@ -116,7 +130,7 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 
 *\* 注: 拡張ターゲットは、ベースラインコンサルタントの数と、パートナーがポイントを取得するために使用する特定のオプションによって異なります。ポイントまたは各オプションの特定の拡張ターゲットを取得するためのオプションの詳細については、「 [関数コンサルタントの拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)」を参照してください。*
 
-### <a name="table-2-finance-and-operations-thresholds"></a>表2財務と操作のしきい値
+### <a name="table-2-finance-and-operations-thresholds-for-this-competency"></a>表2このコンピテンシーの財務および操作のしきい値
 
 
 | PCI メトリック | 業績評価指標: 純利益 | 業績評価指標: 新規顧客の追加 | 機能インジケーター: 機能コンサルタント | 機能インジケーター: 機能コンサルタントの成長 | 機能インジケーター: 開発者 | 顧客の成功インジケーター: 新しい大規模な展開 | 顧客の成功インジケーター: 月単位のアクティブなユーザーの成長 |
@@ -127,7 +141,28 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 
 *\* 注: 拡張ターゲットは、ベースラインコンサルタントの数と、パートナーがポイントを取得するために使用する特定のオプションによって異なります。ポイントまたは各オプションの特定の拡張ターゲットを取得するためのオプションの詳細については、「 [関数コンサルタントの拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)」を参照してください。*
 
-## <a name="detailed-definitions-of-pci-metrics"></a>PCI メトリックの詳細な定義
+## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>顧客の PCI クレジットを受け取るための前提条件
+
+特定のパートナー貢献度インジケーターでは、特定の顧客に対して特定のパートナーとの関連付けがある場合にのみ、クレジットを受け取ることができます。 これらの前提条件の影響を受けるインジケーター (PCI メトリック) は次のとおりです。
+
+- 新規純利益 (Net new revenue)
+- 純顧客追加数 (Net customer adds)
+- 新しいデプロイ
+- 月間アクティブ ユーザー数増加率 (Monthly active user growth)
+
+次のいずれかのパートナーと顧客の関連付けがある場合は、特定の顧客に対してこれらの PCI メトリックに対してのみクレジットを受け取ることができます。
+- お客様のテナントに属する有料サブスクリプションのクラウドソリューションプロバイダー (CSP)
+- お客様は、その顧客のテナントに属している有料サブスクリプションのレコード (CPOR) のパートナーです。
+- お客様のテナントに属している有料サブスクリプションについては、デジタルパートナーの記録 (購入パートナー) になります。
+
+パートナーは、Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) インセンティブまたは Dynamics 365 [online services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (osu) インセンティブを通じて、サブスクリプションレベルで顧客との関連付けが確立されている場合には、cpor なります。
+
+パートナーは、製品内のサブスクリプション レベルで顧客との関連付けが確立されている場合、DPOR になります。
+
+> [!NOTE]
+> 指定された顧客サブスクリプションに対して CPOR との両方が存在する場合、CPOR は、そのサブスクリプションに関連付けられている PCI メトリックのクレジットを受け取ります。 OSA を介して関連付けられている場合、CPOR は、純利益を獲得するためのクレジットを受け取ります。 関連付けが OSU を介して行われた場合、CPOR は、新しいデプロイのクレジットと、月間のアクティブなユーザーの成長を受け取ります。
+
+## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>このコンピテンシーの詳細な PCI メトリック定義
 
 次のセクションでは、7つの PCI メトリック、およびそれらのポイントの計算方法について詳しく説明します。
 
@@ -143,24 +178,23 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 
 ### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>PCI メトリック #1 の定義-純利益
 
-新しい収益は、 [この記事で既に説明](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)したように、パフォーマンスインジケーターと7つの主要なパートナー貢献度インジケーターの1つです。 ここでは、正味新しい収益の定義方法と、そのポイントの計算方法について詳しく説明します。
+正味新しい収益は、 [パフォーマンス指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)です。 このインジケーターのポイントは、次のようにクラウド Business Applications コンピテンシーに対して計算されます。
 
 - 純利益は、Dynamics 365 製品を限定するために、すべての販売チャネルにわたって、net new で請求された収益として定義されています。
 - 純利益の合計は12か月後に合計され、最大で10ポイントの収益が得られます。
 - 正味新しい収益のポイントは、請求金額からクレジットを差し引いた金額として計算され、12か月にわたって集計されます。
 - 正味新しい収益は、次の条件を満たす製品に基づいて計算されます。
-
-   - 顧客エンゲージメントの対象製品には、Sales、Customer Service、Field Service、Project Service Automation、Marketing、Microsoft Relationship Sales、Plan 1、人材、エンタープライズチームメンバーなどがあります。
-   - 財務および運用に適合する製品には、統合された操作、財務、サプライチェーン管理、小売、コマース、プラン2、Mixed Reality、人材、エンタープライズチームメンバーなどがあります。
+  - 顧客エンゲージメントの対象製品には、Sales、Customer Service、Field Service、Project Service Automation、Marketing、Microsoft Relationship Sales、Plan 1、人材、エンタープライズチームメンバーなどがあります。
+  - 財務および運用に適合する製品には、統合された操作、財務、サプライチェーン管理、小売、コマース、プラン2、Mixed Reality、人材、エンタープライズチームメンバーなどがあります。
 
 - 販売チャネルには、マイクロソフトエンタープライズ契約 (EA)、クラウドソリューションプロバイダー (CSP)、Web ダイレクトなどがあります。
 - マイクロソフトエンタープライズ契約の収益のみ: この収益には、契約の最初の年からの収益が含まれます。 2 年目および 3 年目から繰り返し発生する利益は含まれません。
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>PCI メトリック #2 の定義-Net customer の追加
 
-Net customer は、 [この記事で既に説明](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)したように、パフォーマンスインジケーターと7つの主要なパートナー貢献度インジケーターの1つを追加します。 ここでは、net customer の追加の定義方法と、このカテゴリのポイントの計算方法について詳しく説明します。
+Net customer の追加は [パフォーマンス指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)です。 このインジケーターのポイントは、次のようにクラウド Business Applications コンピテンシーに対して計算されます。
 
-- Net customer の追加は、12か月の最後の期間に合計され、最大で10ポイントの収益が得られます。
+- Net customer は、12か月の最後の期間に合計し、最大で10ポイントの利益を得ます。 
 
 - Net のお客様は、すべての販売チャネルにわたって追加されます。 
 
@@ -169,6 +203,16 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 - **顧客の追加** は、次の条件で定義されます。顧客が1か月のすべてのサブスクリプションで有料の座席を利用しておらず、当月に少なくとも1つの有料接続がある場合。
 
 - **顧客が紛失** した場合は、次の条件で定義されます。顧客が1か月以内にすべてのサブスクリプションに対して少なくとも1人の有料接続クライアントを所有 **して** いて、現在の月に有料の座席がない場合。
+
+- Net customer の追加については、最大と部分的なポイントを獲得できます。 特定のコンピテンシーの最大ポイントを獲得するための要件を次に示します。
+
+  | この経路の場合 | Net customer が最大10ポイントを獲得するために追加 |
+  |---------------------|----------------------------|
+  | Customer Engagement | -10 net のお客様は、( *開発* された市場のパートナー向け) を追加しています。</br>-5 net のお客様の追加 (市場 *開発* のパートナー向け)  |
+  | Finance and Operations | -3 net のお客様は、( *開発* された市場のパートナー向け) を追加します。</br>-1 件の新しい顧客の追加 (市場 *開発* のパートナー向け) |
+
+  > [!NOTE]
+  > 開発した市場と開発の詳細については、これらの [Microsoft Partner Network 定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)を参照してください。
 
 - 販売チャネルには、マイクロソフトエンタープライズ契約 (EA)、クラウドソリューションプロバイダー (CSP)、Web ダイレクトなどがあります。
 
@@ -190,7 +234,7 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 ### <a name="definitions-for-pci-metric-3---functional-consultants"></a>PCI メトリック #3 の定義-機能コンサルタント
 
-機能コンサルタントは、 [この記事の前半で説明](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)した機能インジケーターと7つの主要なパートナー貢献指標です。 ここでは、機能的なコンサルタントインジケーターの定義方法と、このカテゴリのポイントの計算方法について詳しく説明します。
+機能コンサルタントは [機能インジケーター](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)です。 このインジケーターのポイントは、次のようにクラウド Business Applications コンピテンシーに対して計算されます。
 
 - 機能コンサルタントのインジケーターポイントは、現在の月のスナップショットに基づいており、最大で15点の利益が得られます。
 
@@ -209,15 +253,14 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 > [!NOTE]
 > アスタリスク () でマークされた試験 \* は、今後数か月の間に廃止または置換されます。 具体的な詳細については、以下を参照してください。
 >
-> - 1つのアスタリスク () でマーク \* された試験は、2020年12月31日に廃止されます。 2020年12月31日に実施された試験は、回収される前に、年12月 2021 31 日まで、コンピテンシーの達成および更新の対象となります。
+> - 1つのアスタリスク () でマークさ \* れた試験は、2020年12月31日に廃止されました。 2020年12月31日に廃止された試験は、回収される前に、年12月 2021 31 日まで、コンピテンシーの獲得と更新の対象となります。
 > - 2つのアスタリスク () でマーク \* \* された試験は、2021年1月31日に廃止されます。 2021年1月31日に実施された試験は、回収される前に、年1月 2022 31 日まで、コンピテンシーの獲得および更新の対象となります。
-
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>PCI メトリック #4 の定義-機能コンサルタントの成長
 
-機能コンサルタントの成長は、 [この記事の前半で説明](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)した機能インジケーターと7つの主要なパートナー貢献指標の1つです。 パートナーには、このメトリックで使用可能なすべてのポイント (15 か0ポイント) を取得するための2つのオプションのいずれかがあります。 一部のポイントは獲得されません。 
+機能コンサルタントの成長は、 [機能インジケーター](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)です。 このインジケーターのポイントは、次のようにクラウド Business Applications コンピテンシーに対して計算されます。
 
-ここでは、機能コンサルタントの成長インジケーターの定義方法と、このカテゴリのポイントの計算方法について詳しく説明します。
+パートナーには、このメトリックで使用可能なすべてのポイント (15 か0ポイント) を取得するための2つのオプションのいずれかがあります。 一部のポイントは獲得されません。
 
 **次のオプションを選択してポイントを取得します。**
 
@@ -239,13 +282,13 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 **2つのオプションを選択してポイントを取得します。**
 
-- 開発されたマーケットパートナーは、50以上の機能コンサルタントを、最初の PCI ベースの記念日の時点で認定することができます。 (マーケットパートナーの開発では、最初の PCI ベースの記念日に対して25以上の機能コンサルタントを時間内に認定できます)。
+- 開発したマーケットパートナーは、最初の PCI ベースのクラウド Business Applications コンピテンシー記念日に50以上の機能コンサルタントを提供できます。 (マーケットパートナーの開発では、最初の PCI ベースのクラウド Business Applications コンピテンシー記念日の25以上の機能コンサルタントを時間内に認定できます)。
 
-- このしきい値に達した場合は、その日から24か月後に、機能コンサルタントの成長のための完全な15ポイントが表示されます。 実質的には、2つの CBA 記念日について、機能コンサルタントの成長について最大のポイントが得られることを意味します。
+- このしきい値に達した場合は、その日から24か月後に、機能コンサルタントの成長のための完全な15ポイントが表示されます。 実質的には、2つのクラウド Business Applications コンピテンシー記念日について、機能コンサルタントの成長の最大ポイントが得られることを意味します。
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>PCI メトリック #5 の定義-開発者向け
 
-開発者は、 [この記事の前半で説明](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)した機能インジケーターと7つの主要なパートナー貢献指標の1つです。 ここでは、開発者インジケーターの定義方法と、このカテゴリのポイントの計算方法について詳しく説明します。
+開発者は [機能インジケーター](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)です。 このインジケーターのポイントは、次のようにクラウド Business Applications コンピテンシーに対して計算されます。
 
 - 開発者は、現在アクティブな開発者を所有するユーザーの数として定義されています。
 
@@ -264,20 +307,22 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 > [!NOTE]
 > アスタリスク () でマークされた試験 \* は、今後数か月の間に廃止または置換されます。 具体的な詳細については、以下を参照してください。
 >
-> - 1つのアスタリスク () でマーク \* された試験は、2020年12月31日に廃止されます。 2020年12月31日に実施された試験は、回収される前に、年12月 2021 31 日まで、コンピテンシーの達成および更新の対象となります。
+> - 1つのアスタリスク () でマークさ \* れた試験は、2020年12月31日に廃止されました。 2020年12月31日に提供が終了した試験は、回収される前に、年12月 2021 31 日まで、コンピテンシーの達成および更新の対象となります。
 > - 2つのアスタリスク () でマーク \* \* された試験は、2021年1月31日に廃止されます。 2021年1月31日に実施された試験は、回収される前に、年1月 2022 31 日まで、コンピテンシーの獲得および更新の対象となります。
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>PCI メトリック #6 の定義-新しい大規模な展開
 
-新しい大規模なデプロイは、 [この記事で既に説明](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)したように、顧客の成功インジケータと7つの主要なパートナー貢献度インジケーターの1つです。 ここでは、新しい大規模な展開のインジケーターがどのように定義され、このカテゴリのポイントがどのように計算されるかについて詳しく説明します。
+新しい大規模なデプロイは、 [お客様の成功の指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)です。 このインジケーターのポイントは、次のようにクラウド Business Applications コンピテンシーに対して計算されます。
 
 - 新しい大規模なデプロイでは、12か月以内に最大20ポイントまで合計が算出されます。
 
-- 新しい大規模なデプロイでは、顧客エンゲージメントと財務および運用に対して異なる方法で定義されます。
+- 新しい大規模なデプロイでは、顧客エンゲージメント、財務、運用、および *開発* された市場で運用されているパートナーと市場向けの *開発* を別々に定義しています。
 
   - 顧客エンゲージメントのために、新しい大規模なデプロイは、 **250** か月のアクティブユーザー (開発されたマーケットパートナー向け) と **150** の月間アクティブユーザー (マーケットパートナー開発用) を超えているテナントにおける運用インスタンスの数として定義されています。
 
-   - 財務および業務において、新しい大規模なデプロイは、 **100** の月間アクティブユーザー (開発されたマーケットパートナー向け) と **50** 月のアクティブユーザー (マーケットパートナーの開発用) を超えているテナントの実稼働インスタンスの数として定義されています。
+  - 財務および業務において、新しい大規模なデプロイは、 **100** の月間アクティブユーザー (開発されたマーケットパートナー向け) と **50** 月のアクティブユーザー (マーケットパートナーの開発用) を超えているテナントの実稼働インスタンスの数として定義されています。
+  
+  (開発と開発の詳細については、これらの [Microsoft Partner Network 定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)を参照してください)。
 
 - テナントが次のような場合、テナントは月間アクティブユーザーしきい値を超えていると見なされます。 
 
@@ -285,13 +330,17 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
   - 以降の11か月にわたって、このしきい値を少なくとも1回超過しました。
 
 - 月ごとのアクティブなユーザーは、テナントレベルでカウントされ、テナントの有料サブスクリプションのみで合計されます。
+
 - 月間アクティブ ユーザー数は、毎月の終了時に計算されます。
-- パートナーは、サブスクリプションレベルでテナントに関連付けられています。 サブスクリプションは、顧客エンゲージメント製品、または財務および運用製品にマップされます。
+
+- パートナーは、サブスクリプションレベルでテナントに関連付けられています。 サブスクリプションは次のようにマップされます。顧客エンゲージメント製品、または財務および運用製品に対応しています。
+  - 顧客エンゲージメントの対象製品には、Sales、Customer Service、Field Service、Project Service Automation、Marketing、Microsoft Relationship Sales、Plan 1、人材、エンタープライズチームメンバーなどがあります。
+  - 財務および運用に適合する製品には、統合された操作、財務、サプライチェーン管理、小売、コマース、プラン2、Mixed Reality、人材、エンタープライズチームメンバーなどがあります。
 - テナントのすべての有料サブスクリプションに関連付けられているすべてのパートナーは、そのテナントの下にあるすべての顧客エンゲージメント、財務、および運用運用インスタンスのクレジットを取得します。
 
 ### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>PCI メトリック #7 の定義-月単位のアクティブなユーザー拡張
 
-1か月のアクティブユーザー数の増加は、 [この記事で既に説明](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)した7つの主要なパートナー貢献指標です。 ここでは、月単位のアクティブなユーザーの拡張が定義され、このカテゴリのポイントの計算方法について詳しく説明します。
+月単位のアクティブなユーザーの成長は、 [顧客の成功の指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)です。 このインジケーターのポイントは、次のようにクラウド Business Applications コンピテンシーに対して計算されます。
 
 - 月ごとのアクティブなユーザーの成長は、過去12か月間の顧客ベース全体にわたる月間アクティブユーザーの増加として定義されます。 
 
@@ -301,29 +350,21 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
 - 月間アクティブ ユーザー数は、毎月の終了時に計算されます。
 
-- 顧客エンゲージメントをポイントに適合させるには、開発されたマーケットパートナーに少なくとも **250** の月単位のアクティブユーザーのベースラインが必要です。また、市場パートナーの開発には、12か月前に、1か月あたりのアクティブユーザー数の **150** が含まれている必要があります。 
+- 月間のアクティブユーザーの成長は、顧客エンゲージメントと財務および運用経路、および *開発* された市場で運用されているパートナーと市場 *開発* の両方で異なる方法で定義されます。
 
-- 財務および運用をポイントに適合させるには、開発されたマーケットパートナーが少なくとも **100** のアクティブユーザーのベースラインを持つ必要があります。また、市場パートナーを開発するには、12か月前に、1か月あたり **50** のアクティブユーザーのベースラインが必要です。 
+  - 顧客エンゲージメントをポイントに適合させるには、開発されたマーケットパートナーに少なくとも **250** の月単位のアクティブユーザーのベースラインが必要です。また、市場パートナーの開発には、12か月前に、1か月あたりのアクティブユーザー数の **150** が含まれている必要があります。
 
-- パートナーは、サブスクリプションレベルでテナントに関連付けられています。 サブスクリプションは、顧客エンゲージメントまたは財務および運用製品にマップされます。
+  - 財務および運用をポイントに適合させるには、開発されたマーケットパートナーが少なくとも **100** のアクティブユーザーのベースラインを持つ必要があります。また、市場パートナーを開発するには、12か月前に、1か月あたり **50** のアクティブユーザーのベースラインが必要です。
+  
+  (開発と開発の詳細については、「これらの[Microsoft Partner Network の定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf.)」を参照してください。
+
+- パートナーは、サブスクリプションレベルでテナントに関連付けられています。 サブスクリプションは、限定された顧客エンゲージメント製品にマップされるか、金融および運用製品に限定されます。
 
 - テナントのすべての有料サブスクリプションに関連付けられているすべてのパートナーは、そのテナントのすべての有料サブスクリプションを対象として、毎月のアクティブなユーザーに対して、すべての顧客エンゲージメントまたは財務および操作のクレジットを取得します。
 
-## <a name="customer-to-partner-association"></a>顧客とパートナーの関連付け
-
-クラウドソリューションプロバイダー (CSP)、顧客のテナントに属している有料サブスクリプションについては、クラウドソリューションプロバイダー (CSP)、要求されたパートナーのレコード (CPOR)、またはデジタルパートナーのレコード (またはそのいずれか) である場合にのみ、純利益、純顧客の追加、新規の大規模なデプロイ、および特定の顧客に対する
-
-パートナーは、Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) インセンティブまたは Dynamics 365 [online services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (osu) インセンティブを通じて、サブスクリプションレベルで顧客との関連付けが確立されている場合には、cpor なります。
-
-パートナーは、製品内のサブスクリプション レベルで顧客との関連付けが確立されている場合、DPOR になります。
-
-指定されたサブスクリプションに対して CPOR との両方が存在する場合、CPOR は、そのサブスクリプションに関連付けられている PCI メトリックのクレジットを受け取ります。 CPOR は、新しい収益のクレジットを受け取ります。また、関連が OSA を介して行われた場合は、Net customer によって追加されます。 関連が OSU を介して行われていた場合、CPOR は、新しい大規模なデプロイのためのクレジットと、月間のアクティブなユーザーの成長を受け取ります。
-
-## <a name="how-to-access-and-read-the-charts"></a>グラフにアクセスして読み取る方法
+## <a name="how-to-access-partner-contribution-indicators"></a>パートナー貢献指標にアクセスする方法
 
 このセクションでは、パートナーセンターのダッシュボードからパートナーの貢献指標にアクセスする方法と、関連付けられているグラフを読み取る方法について説明します。
-
-### <a name="access-partner-contribution-indicators"></a>パートナー貢献指標にアクセスする
 
 パートナーの貢献度インジケーターグラフおよび進行状況を表示するには、次の手順を実行します。
 
@@ -333,17 +374,13 @@ Net customer は、 [この記事で既に説明](partner-contribution-indicator
 
    パートナー貢献インジケーターダッシュボードと関連付けられたグラフが表示されます。
 
+   :::image type="content" source="images/pci/howto.png" alt-text="グラフを読む方法":::
+
    > [!NOTE]
    > これらのオプションが表示されない場合は、メニューから [ **MPN** ] を選択し、次に **パートナー貢献インジケーター** をクリックします。 それでもこれらのオプションが見つからない場合は、パートナーセンターで適切なユーザーロールが割り当てられていない可能性があります。 パートナーセンターのグローバル管理者または MPN パートナー管理者に問い合わせてください。
 
-### <a name="read-the-charts"></a>グラフを読む
-
-次の図は、パートナーセンターの [パートナー貢献度インジケーター] ページで一部の領域とグラフを読み取る方法を示しています。
-
 この領域の使用方法の詳細については、この記事の最後にあるリソースとビデオのコレクションを参照してください。
 
-   :::image type="content" source="images/pci/howto.png" alt-text="グラフを読む方法":::
+## <a name="next-steps"></a>次の手順
 
-## <a name="next-steps"></a>次のステップ
-
-PCI [トレーニングビデオと情報リソースを](https://partner.microsoft.com/asset/collection/pci-learn#/)さらに表示します。
+Gold またはシルバークラウド Business Applications コンピテンシーの実現に関する PCI [トレーニングビデオと情報リソースを](https://partner.microsoft.com/asset/collection/pci-learn#/) さらにご覧ください。
