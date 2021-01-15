@@ -1,7 +1,7 @@
 ---
 title: パートナー センター アカウントを作成する
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Partner Network メンバーがネットワークの特典とコンピテンシーを管理するためにパートナー センター アカウントを作成する方法について説明します。
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570792"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979738"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>ネットワークの特典とコンピテンシーを管理するためにパートナー センター アカウントを作成する
 
@@ -55,16 +55,20 @@ ms.locfileid: "96570792"
 
     会社に職場アカウントがない場合は、ここで **[作成する]** を選んで作成します。 職場アカウントを作成した後、その職場アカウントの全体管理者の資格情報を使ってサインインします。
 
-3.  組織の法人プロフィールと第一連絡先担当者情報を入力または更新し、 **[今すぐ登録する]** を選びます。 
+3.  会社の法的ビジネス プロファイルを指定または更新します。
+
+    会社のプロファイルを参照するか、会社の情報を手作業で入力することができます。 会社が [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) に登録されている場合は、DUNS ID を使用して会社の情報を検索します。 会社の詳細情報を自分で入力する場合は、 **[手動]** を選択します。
+
+4. 会社の情報を指定したら、主要な連絡先情報を入力して、 **[今すぐ登録]** を選択します。
 
     第一連絡先担当者には、貴社の登録申請について連絡できる社内の担当者 (申請者本人または社内の他の担当者) を指定してください。 この情報は、この担当者が貴社に勤務し、パートナーセンターアカウントに登録した本人であることを確認するためにも使われます。
 
     > [!IMPORTANT]  
     > マイクロソフトは貴社のセキュリティとプライバシーを確保するため、第一連絡先担当者に、(1) このメール アドレスの持ち主がパートナー センター アカウントに登録した本人であること、および (2) このメール アドレスが貴社に属していることをメールで確認します。 第一連絡先担当者と連絡が取れ、そのメール アドレスの正当性が確認された後、提供された情報が引き続き審査されます。
 
-4.  Microsoft Partner Network 契約の諸条件を読んで同意します。 
+5.  Microsoft Partner Network 契約の諸条件を読んで同意します。 
 
-5.  管理エージェント グループに追加されたことを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
+6.  管理エージェント グループに追加されたことを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
     a。 パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home**)で **[設定]** アイコンを選択し、 **[ユーザー管理]** を選択します。  
 

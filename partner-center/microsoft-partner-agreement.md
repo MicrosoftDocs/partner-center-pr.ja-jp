@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916832"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105513"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP プログラム パートナー向け Microsoft Partner Agreement (MPA) について説明します。
 
@@ -54,7 +54,7 @@ CSP プログラムへの参加を続けるには、2020 年 1 月 31 日まで�
 
 1. CSP グローバル管理者アカウントの資格情報を使用して、パートナー センターにサインインします。
 
-1. **[設定]** から、[[パートナー プロファイル]](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) を選択します。
+1. **[設定]** で **[アカウント設定]** を選択し、[[パートナー プロファイル]](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) を選択します。
 
 1. **[プログラム情報]** セクションを確認します。 情報に **[間接リセラー]** の状態が表示されない場合は、[間接リセラーとして登録する](indirect-reseller-tasks-in-partner-center.md)必要があります。
 
@@ -80,6 +80,10 @@ MPA に署名したかどうかを確認する方法:
 >[!NOTE]
 >会社のグローバル管理者のみが、MPA を表示して署名できます。 グローバル管理者でない場合は、グローバル管理者に、MPA の確認を依頼する必要があります。
 
+**[アカウント設定]** から **[契約]** を選択して、契約に署名したかどうかを確認することもできます。
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="MPA が署名されていることを示す表示":::
+
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>プロセスでの工程に適したステップバイステップ ガイドをダウンロードする
 
@@ -91,4 +95,4 @@ MPA に署名したかどうかを確認する方法:
  
 ## <a name="next-steps"></a>次のステップ
 
-- [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
+- [クラウド ソリューション プロバイダー プログラムに登録する](indirect-reseller-tasks-in-partner-center.md)

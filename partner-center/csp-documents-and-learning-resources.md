@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afb3fad6f0345ef8a602c78b891634a64a2adf84
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120056"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979695"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>クラウド ソリューション プロバイダー プログラム ガイド、契約、価格表、プラン
 
@@ -60,7 +60,7 @@ ms.locfileid: "87120056"
 
 ## <a name="pricing"></a>料金
 
-ライセンスベース、使用量ベース、および 1 回限りの購入の料金設定は、いずれも**パートナー センター** メニューから **[価格およびプラン]** ページを表示してダウンロードできます。
+ライセンスベース、使用量ベース、および 1 回限りの購入の料金設定は、いずれも **パートナー センター** メニューから **[価格およびプラン]** ページを表示してダウンロードできます。
 
 ライセンス ベースの価格表は毎月更新され、新しい価格は、有効になる 30 日前に発表されます。 ライセンスベースのサービスには、たとえば Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM があります。 
 
@@ -77,3 +77,8 @@ CSP のパートナーは、Office 365、Enterprise Mobility Suite、Microsoft D
 Crest Usage Record API を使用している CSP パートナーは、 **[料金とプラン]** ページで CSP での Azure サービスの一覧を利用することもできます。
 
 独立系ソフトウェア ベンダー (ISV) によって発行された Azure Marketplace プランについては、左側のナビゲーション メニューの **[Marketplace]** ページをご覧ください。 現時点では、パートナー センターでは SaaS (サービスとしてのソフトウェア) 製品の種類のみを購入できます。 他の種類の Azure Marketplace プランを入手するには、Azure portal にアクセスする必要があります。
+
+## <a name="next-steps"></a>次のステップ
+
+- [Microsoft Partner Agreement について理解する](microsoft-partner-agreement.md)
+- [クラウド ソリューション プロバイダー プログラムに登録する](enrolling-in-the-csp-program.md)
