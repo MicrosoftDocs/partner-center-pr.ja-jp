@@ -9,19 +9,15 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444990"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215817"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>請求書と調整ファイルを理解する-パートナーセンターでそれらを検索する方法について説明します
 
-**適用対象**
-
-- パートナー センター
-- 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
 
@@ -30,7 +26,7 @@ ms.locfileid: "87444990"
 - 管理エージェント
 
 
-**請求書**は、**すべてのパートナーセンターの請求**(プログラム全体、すべての製品、およびすべての顧客) の概要です。 
+**請求書** は、**すべてのパートナーセンターの請求**(プログラム全体、すべての製品、およびすべての顧客) の概要です。 
 
 ## <a name="invoice-types"></a>請求書の種類
 
@@ -90,10 +86,14 @@ Invoice PDF ドキュメントの主なフィールドの一部を次に示し�
 
 **クレジット**: クレジット (SLA など) またはサブスクリプションに対する変更の調整 (ライセンスの増加や減少など)。 
 
-**お支払い**方法: お客様の地域に基づいて請求書を支払う方法について説明します。 支払いを行う場合は、常に請求書番号を含めてください。 
+**お支払い** 方法: お客様の地域に基づいて請求書を支払う方法について説明します。 支払いを行う場合は、常に請求書番号を含めてください。 
 
 請求書ファイル内のすべてのフィールド (1 回限りの料金のフィールドを含む) の詳細については、「 [請求書ファイルのフィールド](invoice-file.md)」を参照してください。 
 
 ## <a name="understand-reconciliation-files"></a>調整ファイルについて
 
- 調整ファイルは、料金のドリルダウン/明細項目の詳細を提供し、請求書 PDF と共にダウンロードできます。 調整ファイルには、顧客の請求書の作成に使用できる顧客 id とサブスクリプション id が含まれています。 偵察ファイルの詳細については [、「調整ファイルの使用方法](use-the-reconciliation-files.md)」を参照してください。 
+ 調整ファイルは、料金のドリルダウン/明細項目の詳細を提供し、請求書 PDF と共にダウンロードできます。 調整ファイルには、顧客の請求書の作成に使用できる顧客 id とサブスクリプション id が含まれています。 偵察ファイルの詳細については  [、「調整ファイルの使用方法](use-the-reconciliation-files.md) 」を参照してください。 
+
+## <a name="next-steps"></a>次の手順
+
+- [調整ファイルの使用方法](use-the-reconciliation-files.md)

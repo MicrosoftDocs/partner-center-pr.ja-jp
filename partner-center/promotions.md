@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11d31ba8fc33c965be7d5a6eeb4b5a32e5a4fa77
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377766"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215868"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>プロモーションを使用して新しい顧客を引き付け、節約する
 
-**適用対象**
 
-- パートナー センター
-- クラウド ソリューション プロバイダー (CSP) プログラムのパートナー
 
 **適切なロール**
 
@@ -54,7 +51,7 @@ Microsoft では、クラウドソリューションプロバイダー (CSP) プ
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>割引価格でサブスクリプションを購入する
 
-1. **パートナーセンター**のメニューで、[**顧客**] を選択し、サブスクリプションを購入した顧客を選択します。 
+1. **パートナーセンター** のメニューで、[**顧客**] を選択し、サブスクリプションを購入した顧客を選択します。 
 
 2. **[サブスクリプションの追加]** を選択します。
 
@@ -67,3 +64,6 @@ Microsoft では、クラウドソリューションプロバイダー (CSP) プ
 6. [ **Submit** to purchase] を選択します。 顧客の次回の請求書に割引価格が表示されます。  
 
 
+## <a name="next-steps"></a>次の手順
+
+- [特化された対象ユーザーへの販売](sell-to-education-customers.md)

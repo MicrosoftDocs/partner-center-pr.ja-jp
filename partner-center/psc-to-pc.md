@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950588"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215953"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950588"
 - Partner Sales Connect (PSC) 管理者
 - Partner Sales Connect (PSC) 取引マネージャー
 
-この記事では、パートナーセンターで共同販売取引の作成と管理を続けることができるように、Partner Sales Connect からパートナーセンターに移行するパートナーについて説明します。
+この記事では、パートナーセンターで共同販売取引の作成と管理を続けることができるように、Partner Sales Connect からパートナーセンターに移行するパートナー向けのガイダンスを提供します。
 
 ご存じのように、会社は2021年3月31日以降、PSC にアクセスできなくなります。 ただし、パートナーセンターでは、共同販売取引の作成、取引の管理、Microsoft の販売者によって送信された取引に対する行動など、必要なものがすべて揃っています。
 
@@ -351,9 +351,8 @@ PSC に "PSC の無効な MPN ID 関連付けの問題" という見出しが表
 |ビジネスプロファイルの作成と管理|[ビジネス プロファイルの管理](./create-a-marketing-profile.md)
 |ビジネスプロファイルの潜在顧客を管理する |[見込み客を管理する](./manage-leads.md)|
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-次の追加リソースを参照してください。
 
 - Partner Sales パートナーセンター[ブックに接続](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx)して、パートナーの販売プロセスとロールを、パートナーセンターとパートナーの sales Connect を介して新しい販売プロセスに合わせます。
 - [パートナーセンターの共同販売の操作ガイド](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -パートナーセンターを介して、潜在顧客の管理や共同販売の機会の管理、および取引の登録を行うために、運用モデルを識別するためのガイダンスです。
