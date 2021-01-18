@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062435"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235955"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "98062435"
 
 | **カテゴリ** | **2021 年 1 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[ノルウェー クローネについて、商用顧客向け価格の更新](2021-january.md#7)|1 月 14 日|
 |製品サービス/市場|[インド ルピーについて、商用顧客向け価格の更新](2021-january.md#6)|1 月 8 日|
 |製品サービス/市場|[2021 年 2 月 1 日の通話プランおよび電話システムの更新](2021-january.md#5)|1 月 8 日|
 |製品サービス/市場|[2021 年 1 月のライセンスベースの価格表の更新](2021-january.md#4)|1 月 8 日|

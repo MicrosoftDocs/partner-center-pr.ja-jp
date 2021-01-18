@@ -675,8 +675,12 @@
         - name: インサイト データ定義
           href: pci-data-definitions.md
     - name: パートナー貢献度インジケーター
-      href: partner-contribution-indicators.md
-      displayName: mpn
+      items:
+        - name: Cloud Business Applications コンピテンシーの場合
+          href: partner-contribution-indicators.md
+        - name: Small and Midmarket Cloud Solutions コンピテンシーの場合
+          href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
+      displayName: 'mpn, cloud business applications competency, small and midmarket cloud solutions competency, CBA SMB option'
     - name: その他のデータを分析する
       items:
         - name: 顧客の Azure 使用状況
