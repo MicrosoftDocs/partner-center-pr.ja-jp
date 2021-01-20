@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235955"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560495"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,8 @@ ms.locfileid: "98235955"
 
 | **カテゴリ** | **2021 年 1 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|製品サービス/市場|[セキュリティ、コンプライアンス、および ID (SCI) の起動を 2021 年 2 月 1 日に公開予定](2021-january.md#9)|1 月 15 日|
+|機能|[Microsoft Partner Agreement (MPA) に基づいたパートナー向けの Adobe Sign への DocuSign 移行](2021-january.md#8)|1 月 15 日|
 |製品サービス/市場|[ノルウェー クローネについて、商用顧客向け価格の更新](2021-january.md#7)|1 月 14 日|
 |製品サービス/市場|[インド ルピーについて、商用顧客向け価格の更新](2021-january.md#6)|1 月 8 日|
 |製品サービス/市場|[2021 年 2 月 1 日の通話プランおよび電話システムの更新](2021-january.md#5)|1 月 8 日|

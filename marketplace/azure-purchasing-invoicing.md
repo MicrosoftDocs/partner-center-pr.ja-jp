@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182479"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584207"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace での購入
 
@@ -60,6 +60,20 @@ Azure Marketplace から製品を購入すると、コストの管理に役立�
 Azure Marketplace の料金と請求書は、Azure Cost Management の費用分析ツールで確認できます。
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Azure Cost Management を使用すると、購入した製品に関する洞察を得ることができます。":::
+
+## <a name="purchase-validation-checks"></a>購入検証の確認
+
+Azure Marketplace でプランを購入すると、さまざまな理由で失敗する可能性があります。 購入にコマンドラインインターフェイス (CLI) を使用すると、Azure Marketplace で使用できない、または表示できないプランを購入しようとしている場合があるため、エラーが発生する可能性が高くなります。 次に、購入に失敗する可能性があるチェックを示します。
+
+1. サブスクリプションは、マイクロソフトエンタープライズ契約 (EA) に属し、EA 管理者によって無効化された Azure Marketplace の購入が無効になっています。
+1. EA 管理者は無料プランでのみ購入が有効になっており、プランは有料プランです。
+1. プランが marketplace に見つかりません。
+1. 独立系ソフトウェアベンダー (ISV) は、少なくともお客様の地域でプランの販売を停止しました。
+1. 使用しているサブスクリプションは、プランが使用できないリージョンの課金アカウントに属しています。
+1. サブスクリプション/請求アカウントが有効な支払い方法 (有効なクレジットカードなど) に関連付けられていません。
+1. サブスクリプションはクラウドソリューションプロバイダー (CSP) に属し、ISV は CSP による販売を拒否しました。
+1. サブスクリプションに対してプライベートマーケットプレースが有効になっていますが、プランは許可されているプランの一覧に含まれていません。
+1. プランは特定の顧客のプライベート/プレビューであり、サブスクリプションは許可されている顧客の一覧に含まれていません。
 
 ## <a name="next-steps"></a>次のステップ
 
