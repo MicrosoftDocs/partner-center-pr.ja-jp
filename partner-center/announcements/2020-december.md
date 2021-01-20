@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736541"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182564"
 ---
 # <a name="december-2020-announcements"></a>2020 年 12 月のお知らせ
 
@@ -152,7 +152,7 @@ IT 管理者、IT 意思決定者、最高情報責任者、エンド ユーザ�
 **変更の影響**
 
 - **2020 年 11 月 30 日** 以降、お客様は Internet Explorer 11 で Microsoft Teams の Web アプリに接続できなくなります。 Microsoft は、[新しい Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3) により、お客様に Microsoft 365 と最新のブラウザーの最高の表現を最大限に活用いただけると考えています。
-- **2021 年 3 月 9 日** 以降、Microsoft Edge レガシ用に作成されたアプリとサイトは引き続き新しい Microsoft Edge で動作しますが、互換性の問題が発生した場合は、サポートを提供するという [App Assure の保証](https://aka.ms/appassure)があります。
+- **2021 年 3 月 9 日** 以降、Microsoft Edge レガシ用に作成されたアプリとサイトは引き続き新しい Microsoft Edge で動作しますが、互換性の問題が発生した場合は、サポートを提供するという [App Assure の保証](/fasttrack/products-and-capabilities#app-assure)があります。
 - **2021 年 8 月 17 日** 以降、ユーザーのエクスペリエンスが低下したり、Internet Explorer 11 で Microsoft 365 のアプリやサービスに接続できなくなったりします。 Microsoft は、[新しい Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3) により、お客様に Microsoft 365 と最新のブラウザーの最高の表現を最大限に活用いただけると考えています。
 
 ### <a name="next-steps"></a>次のステップ
@@ -280,7 +280,7 @@ ______________
 
 - CSP の永続的ソフトウェアの価格表が、パートナー センターで再公開されます。 これは、追加の製品と地域が記載されている **[販売]** > [[価格とオファー]](https://partnercenter.microsoft.com/pcv/sales) ページの [ソフトウェア] セクションでご覧いただけます。 詳細については[こちら](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)を参照してください。
 
-- パートナー センターのソフトウェアおよびライセンス キー フルフィルメント機能は廃止され ([お知らせ](https://docs.microsoft.com/partner-center/announcements/2020-september#17)参照)、パートナーには今後はこの目的のためだけに Microsoft 365 管理センターを使用していただくことになります。 これによって、顧客にとって最も安全かつ効率的なエクスペリエンスを実現できます。 Microsoft 365 管理センター ソフトウェアの詳細については、[概要](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般的なタスク](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)、[ライセンス キー フルフィルメント機能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)に関するページを参照してください。
+- パートナー センターのソフトウェアおよびライセンス キー フルフィルメント機能は廃止され ([お知らせ](./2020-september.md#17)参照)、パートナーには今後はこの目的のためだけに Microsoft 365 管理センターを使用していただくことになります。 これによって、顧客にとって最も安全かつ効率的なエクスペリエンスを実現できます。 Microsoft 365 管理センター ソフトウェアの詳細については、[概要](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般的なタスク](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)、[ライセンス キー フルフィルメント機能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)に関するページを参照してください。
 
 ### <a name="perpetual-software-in-csp"></a>CSP の永続的ソフトウェア
 
@@ -292,7 +292,7 @@ ______________
 
 - 2021 年 1 月 19 日に追加される [CSP の永続ソフトウェア製品と地域](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
 
-- Microsoft 365 管理センターの[概要](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般的なタスク](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)、[ライセンス キー フルフィルメント機能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)に関するページ
+- Microsoft 365 管理センターの[概要](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般的なタスク](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)、[ライセンス キー フルフィルメント機能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)に関するページ
 
 - [クラウド ソリューション プロバイダー プログラムでパートナーの営業案件を拡大する](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (パートナー向けのお知らせ)
 
@@ -573,4 +573,4 @@ _ 2020 年 8 月 31 日:初版の発行日
 
 - 2020 年 11 月 10 日テストのサインアップのリマインダー 
 
-- 2020 年 12 月 3 日API の更新の公開 
+- 2020 年 12 月 3 日API の更新の公開

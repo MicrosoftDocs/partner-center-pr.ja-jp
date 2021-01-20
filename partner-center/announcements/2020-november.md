@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439076"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182547"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月のお知らせ
 
@@ -40,7 +40,7 @@ ______________
 
 ### <a name="details"></a>詳細
 
-クラウド ソリューション プロバイダー プログラムに参加しているパートナー (Indirect Provider と Direct Bill Partner の両方を含む) は、パートナー センターで [従量制課金](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)の SaaS プランを購入できるようになります。 現在、クラウド ソリューション プロバイダー プログラムのパートナーは、 [Azure portal で従量制課金の SaaS プランを表示して購入する](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)ことができます。 この新しいエクスペリエンスにより、パートナーは、他の種類の SaaS プランと同じように、パートナー センターの CSP マーケットプレースと API を通じて、これらのプランを購入できるようになります。 
+クラウド ソリューション プロバイダー プログラムに参加しているパートナー (Indirect Provider と Direct Bill Partner の両方を含む) は、パートナー センターで [従量制課金](/azure/marketplace/partner-center-portal/saas-metered-billing)の SaaS プランを購入できるようになります。 現在、クラウド ソリューション プロバイダー プログラムのパートナーは、 [Azure portal で従量制課金の SaaS プランを表示して購入する](../csp-commercial-marketplace-purchase.md)ことができます。 この新しいエクスペリエンスにより、パートナーは、他の種類の SaaS プランと同じように、パートナー センターの CSP マーケットプレースと API を通じて、これらのプランを購入できるようになります。 
 
 ### <a name="next-steps"></a>次のステップ
 
@@ -309,23 +309,23 @@ Microsoft は、パートナー センター API を呼び出しているパー�
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[顧客のすべてのサブスクリプションを取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID でサブスクリプションを取得する](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[顧客の注文をすべて取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID ごとに注文を取得する](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[サブスクリプションのプロビジョニング状態を取得する](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[注文とサブスクリプションを管理する](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[サブスクリプションのアドオンの一覧を取得する](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[サブスクリプションの Azure エンタイトルメントの一覧を取得する](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[サブスクリプションの登録状態を取得する](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[顧客の譲渡をすべて取得する](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[製品のアップグレード状態を取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[試用版の変換プランの一覧を取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer_id}/orders||[顧客の注文をすべて取得する](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID ごとに注文を取得する](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[サブスクリプションのプロビジョニング状態を取得する](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[注文とサブスクリプションを管理する](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[サブスクリプションのアドオンの一覧を取得する](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[サブスクリプションの Azure エンタイトルメントの一覧を取得する](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[サブスクリプションの登録状態を取得する](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[顧客の譲渡をすべて取得する](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[製品のアップグレード状態を取得する](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[試用版の変換プランの一覧を取得する](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-この発表は、今後の変更をパートナーが早期に認識し、準備できるようにするためのものです。 パートナーには、これらの API について理解を深め、調整されることがないように、アクティビティ ログ API を使用して効率化を検討することを、強くお勧めします。 この機能の詳細については、[API 調整ガイダンス](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)に関するページを参照してください。 
+この発表は、今後の変更をパートナーが早期に認識し、準備できるようにするためのものです。 パートナーには、これらの API について理解を深め、調整されることがないように、アクティビティ ログ API を使用して効率化を検討することを、強くお勧めします。 この機能の詳細については、[API 調整ガイダンス](/partner-center/develop/api-throttling-guidance)に関するページを参照してください。 
 
 ### <a name="next-steps"></a>次のステップ
 
-[API 調整ガイダンス](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)を確認し、必要な手順を実行します。 
+[API 調整ガイダンス](/partner-center/develop/api-throttling-guidance)を確認し、必要な手順を実行します。 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Context
 
 - 今年の 2 月、パートナーは Microsoft 顧客契約 (MCuA) への署名を求められました。 これは、以前の Microsoft Cloud 契約 (MCA) からの移行でした。 
-- この変更の一部として、パートナーには、[こちら](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)に記載されているように、契約の種類のパラメーターを含めることをお願いしました。
+- この変更の一部として、パートナーには、[こちら](/partner-center/develop/get-confirmation-of-customer-agreement)に記載されているように、契約の種類のパラメーターを含めることをお願いしました。
 
 ### <a name="what-happened-next"></a>次に起こったこと:
 

@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622169"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182411"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>パートナー獲得クレジットの計算方法と支払方法
 
@@ -36,7 +36,7 @@ ms.locfileid: "97622169"
 
 - 自分が管理する Azure 資産に対する獲得クレジットを受け取るには、アクティブな MPN 契約と有効なロールベースのアクセス制御 (RBAC) ロールが必要です。
 
-- CSP では、顧客の Azure リソースを 24 時間体制で制御し、管理する必要があります。 つまり、顧客の Azure サブスクリプション、Azure リソース グループ、Azure リソースに対する管理者特権が必要です。 間接プロバイダーとその間接リセラーの場合、間接プロバイダーは、間接プロバイダーか間接リセラーのどちらか一方またはその両方がこの運用管理を行っているのであれば、PEC を獲得する資格があります。 詳細については、[Azure CSP サブスクリプションの管理者特権を復元する](https://docs.microsoft.com/partner-center/revoke-reinstate-csp)ことに関するページをご覧ください。
+- CSP では、顧客の Azure リソースを 24 時間体制で制御し、管理する必要があります。 つまり、顧客の Azure サブスクリプション、Azure リソース グループ、Azure リソースに対する管理者特権が必要です。 間接プロバイダーとその間接リセラーの場合、間接プロバイダーは、間接プロバイダーか間接リセラーのどちらか一方またはその両方がこの運用管理を行っているのであれば、PEC を獲得する資格があります。 詳細については、[Azure CSP サブスクリプションの管理者特権を復元する](./revoke-reinstate-csp.md)ことに関するページをご覧ください。
 
 - 上記の要件に加えて、PEC は Azure プランの従量課金価格に記載されているサービスにのみ適用されます。これは [Azure プランの価格](https://partner.microsoft.com/commerce/sales)ページからエクスポートできます。
 
@@ -48,7 +48,7 @@ ms.locfileid: "97622169"
 
 - PEC は、Azure リソース レベルで獲得されます。 サブスクリプションまたはリソース グループ レベルのいずれかで有効なアクセス権をお持ちの場合は、上位のエンティティにまとめられるリソースごとに PEC が獲得されます。
 
-- PEC の詳細については、[Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners) に関するページもご覧ください。
+- PEC の詳細については、[Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners) に関するページもご覧ください。
 
 ### <a name="calculation"></a>計算
 

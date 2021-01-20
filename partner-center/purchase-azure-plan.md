@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f9908be183983c590c52b38465041c908c91d7c
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87810902"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215902"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>顧客向けの Azure プランを購入して、従量課金制料金で最新の Azure サービスにアクセスする
 
@@ -26,6 +26,7 @@ ms.locfileid: "87810902"
 Microsoft 顧客契約に基づいて顧客向けの Azure プランを購入すると、従量課金制の料金で提供される最新の Azure サービスの完全なカタログへのアクセス権が与えられます。 CSP パートナーは、Azure サービスが一般提供されたときに、そのサービスにアクセスできるようになりました。 パートナーは、1 つの Azure プランで複数の Azure サブスクリプションを持つことができます。 
 
 ## <a name="countryregion-availability"></a>国/地域の可用性
+
 現時点では、Azure 向けの CSP の新しいコマース エクスペリエンスは、139 か国で利用できるようになることが予定されています。 これらの国/地域の完全な一覧については、[こちら](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)を参照してください。 
 
 ## <a name="how-to-purchase-azure-plan"></a>Azure プランの購入方法
@@ -64,7 +65,7 @@ Azure プランの購入方法は、他のサブスクリプションの購入�
   
 パートナー センターで、顧客に代わって Azure プランで Microsoft Azure Reservations を購入することもできます。 (または、必要に応じて、貴社が顧客に代わって購入した以前のサブスクリプションから、[顧客が自分で Azure 予約を購入するアクセス許可を与える](give-customers-permission.md)ことができます)。
 
-1. お使いの[ダッシュボード](https://partner.microsoft.com/dashboard/)の [パートナー センター] メニューから、 **[顧客]** を選択します。 Azure Reservations を購入する顧客を見つけ、下向き矢印を選択して顧客の行を展開します。
+1. お使いの [ダッシュボード](https://partner.microsoft.com/dashboard/)の [パートナー センター] メニューから、 **[顧客]** を選択します。 Azure Reservations を購入する顧客を見つけ、下向き矢印を選択して顧客の行を展開します。
 
 2. **[製品の追加]** を選択し、 **[Azure]** を選択します。 
 
@@ -78,7 +79,7 @@ Azure Reservations をアクティブな Azure プランに関連付ける必要
 >顧客がまだアクティブな Azure プランを持っていない場合は、ここで [Azure] を選択して追加します。 詳細については、「[Azure Reservations を購入する](azure-reservations-buying.md#purchase-azure-reservations)」を参照してください。
 
 >[!Note]
->現時点では、予約のスコープに設定できるのは、現在のパートナー センターの **[共有]** のみです。 1 つのサブスクリプション スコープを選択する場合、または共有から 1 つサブスクリプション スコープに更新する場合は、次の手順に従って、**Microsoft Azure の管理ポータル**にアクセスします。 
+>現時点では、予約のスコープに設定できるのは、現在のパートナー センターの **[共有]** のみです。 1 つのサブスクリプション スコープを選択する場合、または共有から 1 つサブスクリプション スコープに更新する場合は、次の手順に従って、**Microsoft Azure の管理ポータル** にアクセスします。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共有スコープの予約設定":::
 

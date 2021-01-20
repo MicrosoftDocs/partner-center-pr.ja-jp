@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97578289"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182377"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>多要素認証を使用してユーザーを設定する
 
@@ -39,11 +39,10 @@ ms.locfileid: "97578289"
 :::image type="content" source="images/MFA/securityverification.png" alt-text="検証する方法を指定する":::
 
 >[!NOTE]
->ユーザーが MFA を使用することを **強制** するには、上記と同じ手順を使用して **[強制]** を選択します。 詳細については、「[ユーザーごとの Azure Multi-Factor Authentication を有効にしてサインイン イベントのセキュリティを確保する](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates)」をご覧ください。 
+>ユーザーが MFA を使用することを **強制** するには、上記と同じ手順を使用して **[強制]** を選択します。 詳細については、「[ユーザーごとの Azure Multi-Factor Authentication を有効にしてサインイン イベントのセキュリティを確保する](/azure/active-directory/authentication/howto-mfa-userstates)」をご覧ください。 
 
 どのユーザーも最初は  **[無効]** です。 ユーザーごとに Azure Multi-Factor Authentication に登録すると、そのユーザーの状態が  **[有効]** に変わります。 有効にされたユーザーがサインインして登録プロセスを完了すると、その状態は  **[強制]** に変わります。 
 
 ## <a name="next-steps"></a>次のステップ
 
 - [ユーザーにロールとアクセス許可を割り当てる](permissions-overview.md)
-
