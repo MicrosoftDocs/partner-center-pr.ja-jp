@@ -1,7 +1,7 @@
 ---
 title: 高度な特殊化の詳細
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft partner directory のビジネスプロファイルを強化します。 既存の Gold およびシルバーコンピテンシーと共に実現できる高度な特殊化について説明します。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204021"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658401"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>高度な特殊化を獲得して、検証済みの機能を紹介する
 
@@ -41,10 +41,11 @@ Microsoft の高度な特殊化は、パートナーが獲得できる関連す�
 - Azure
 - ビジネス アプリケーション
 - モダン作業
-- セキュリティ
+- Security
 
 **Azure** の高度な特殊化には次のものがあります。
 
+- Microsoft Azure での分析
 - Data Warehouse の Microsoft Azure への移行
 - Microsoft Azure 上の Kubernetes
 - Microsoft Azure への Linux およびオープンソースデータベースの移行
@@ -73,7 +74,7 @@ Microsoft の高度な特殊化は、パートナーが獲得できる関連す�
 > [!NOTE]
 > 各高度な特殊化の詳細と、その前提条件と要件については、 [「高度な](https://partner.microsoft.com/membership/advanced-specialization)特殊化」ページを参照してください。 高度な特殊化を適用する準備ができたら、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインして進行状況を確認します。 パートナーセンターのこの領域にアクセスする方法の詳細については、「 [Apply To advanced 特殊化](advanced-specializations-apply.md)」を参照してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - パートナーセンターを使用[してに適用し、高度な特殊化の状態を確認](advanced-specializations-apply.md)する
 
