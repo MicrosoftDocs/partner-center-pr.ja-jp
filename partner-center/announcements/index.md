@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560495"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571654"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,8 @@ ms.locfileid: "98560495"
 
 | **カテゴリ** | **2021 年 1 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|ビジネスの拡大|[クラウド ソリューション プロバイダー プログラムの永続的ソフトウェアが一般提供されるようになりました](2021-january.md#11)|1 月 19 日|
+|ビジネスの拡大|[リマインダー:パートナー センター API を呼び出すパートナーに対する API 調整の導入](2021-january.md#10)|1 月 19 日|
 |製品サービス/市場|[セキュリティ、コンプライアンス、および ID (SCI) の起動を 2021 年 2 月 1 日に公開予定](2021-january.md#9)|1 月 15 日|
 |機能|[Microsoft Partner Agreement (MPA) に基づいたパートナー向けの Adobe Sign への DocuSign 移行](2021-january.md#8)|1 月 15 日|
 |製品サービス/市場|[ノルウェー クローネについて、商用顧客向け価格の更新](2021-january.md#7)|1 月 14 日|
