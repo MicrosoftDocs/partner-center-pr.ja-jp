@@ -1,7 +1,7 @@
 ---
 title: 高度な特殊化に適用する
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft partner directory のビジネスプロファイルを強化します。 パートナーセンターを使用してを適用し、高度な特殊化を獲得する方法について説明します。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440045"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658418"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>パートナーセンターを使用して高度な特殊化を適用し、その状態を確認する
 
@@ -60,12 +60,13 @@ ms.locfileid: "96440045"
 
 サードパーティの監査者による監査を必要とする高度な特殊化には、次のものがあります。
 
-- データウェアハウスの Microsoft Azure への移行
-- Microsoft Azure での Kubernetes
-- Microsoft Azure するための Linux およびオープンソースデータベースの移行
-- Microsoft Windows 仮想デスクトップ
-- Microsoft Azure するための Web アプリケーションの最新化
-- Windows Server および SQL Server Microsoft Azure への移行
+- Microsoft Azure での分析
+- Data Warehouse の Microsoft Azure への移行
+- Microsoft Azure 上の Kubernetes
+- Linux およびオープンソース データベースの Microsoft Azure への移行
+- Microsoft Windows Virtual Desktop
+- Web アプリケーションの Microsoft Azure への最新化
+- Windows Server および SQL Server の Microsoft Azure への移行
 
 顧客参照を必要とする高度な特殊化には次のものがあります。
 
@@ -73,7 +74,7 @@ ms.locfileid: "96440045"
 - Microsoft Teams の呼び出し
 - Microsoft Teams の会議と会議室
 - SAP on Azure
-- チームワークの展開
+- Teamwork のデプロイ
 - ID 管理とアクセス管理
 - 脅威の防止
 
