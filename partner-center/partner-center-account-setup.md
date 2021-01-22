@@ -1,7 +1,7 @@
 ---
 title: パートナー センター アカウントの管理
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: パートナー センターを使用して、会社のプロファイル、銀行と税金に関する情報、ロール、アクセス許可などを管理する方法について説明します。
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011530"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235972"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>パートナー センター アカウントの管理 - 会社のプロファイル、銀行に関する情報、ロール、アクセス許可など
 
-**適切なロール** – グローバル管理者、MPN 管理者
+**適切なロール** – グローバル管理者
+- MPN アカウント管理者
 
 登録時にパートナー センターで作成するアカウントは、仕事用のメールとビジネス情報です。 アカウントを作成した後、サポートの詳細、税金の控除の申告 (該当する場合)、第一連絡先情報など、会社のプロファイルの設定を完了します。 また、自社のアカウントには、顧客の追加または管理、サブスクリプションの販売、課金や請求の操作、ビジネス プロファイルの作成、紹介の管理、インセンティブ プログラムの操作、サポートの提供に関してパートナー センターを使うすべてのユーザーのユーザー アカウントが含まれます。
 
@@ -60,6 +61,10 @@ ms.locfileid: "97011530"
 ### <a name="legal-info"></a>法的情報
 
 パートナー センターに初めて参加するとき、会社は Microsoft による検証プロセスを受けます。 検証の状態は、 **[法的情報]** ページで追跡できます。 第一連絡先担当者 (パートナーの質問に関して Microsoft が連絡する人) および第一法務担当者 (法律に関する情報と状態を管理する人) が表示されます。 会社のすべての事業所が一覧表示され、ここで追加できます。
+
+### <a name="primary-contact-email"></a>主要連絡先電子メール
+
+主要連絡先電子メールとは、お客様のアカウントの確認について通知するために Microsoft が使用するものです。 主要連絡先として指定する電子メールは、定期的に管理と監視が行われているものであることが非常に重要です。  
 
 詳細については、[検証とアカウント情報](verification-responses.md)に関するページを参照してください。
 
@@ -122,9 +127,9 @@ ms.locfileid: "97011530"
 
 特定のパートナー センター プログラムに登録する方法については、次の部分的な一覧を参照してください。
 
-- [コマーシャル マーケットプレース プログラム](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [コマーシャル マーケットプレース プログラム](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft Partner Network メンバーシップ特典](mpn-overview.md)
-- [CSP プログラム](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [CSP プログラム](./enrolling-in-the-csp-program.md)
 - [Office ストア](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 パートナー センターのプログラムに登録する方法の詳細については、[パートナー ネットワークのリソース](https://partner.microsoft.com/)に関するページも参照してください。

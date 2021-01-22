@@ -6,15 +6,15 @@ description: 主要連絡先、住所、プログラム情報など、ご自身�
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666793"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235921"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>パートナー センターで組織プロファイルの情報を確認する
 
@@ -27,6 +27,12 @@ ms.locfileid: "97666793"
 
 パートナー プロファイルは、法的ビジネス情報、主要連絡先担当者の名前とメール、会社が参加しているプログラム、および法的ビジネスに統合されている他の企業 (該当する場合) で構成されます。 法的ビジネス プロファイルの会社名と住所にスペルミスや省略形がなく、正式な会社のビジネス登録レコードと正確に一致していることを確認します。 個人事業として業務を行っている場合は、会社名を正式名称として使用する必要があります。
 
+>[!Important]
+>- MPN アカウントの場合は、グローバル管理者とアカウント管理者の両方が、会社の正式名称を更新できます。
+>- CSP 間接リセラー アカウントの場合は、グローバル管理者が会社の正式名称を更新できます。 
+
+## <a name="locate-the-legal-business-profile"></a>法的ビジネス プロファイルを見つける
+
 1. **[設定]** アイコンに移動し、 **[アカウントの設定]** を選択します。
  
 1. **[組織のプロファイル]** を選択します。 
@@ -37,15 +43,15 @@ ms.locfileid: "97666793"
 
 ## <a name="update-your-legal-business-profile"></a>法的ビジネス プロファイルを更新する
 
-パートナー センターで法的住所を更新できるようになっています。
+パートナー センターで法的住所を更新します。
 
-1. **[設定]** に移動し、 **[組織のプロファイル]** を選択します
+1. **[設定]** に移動し、 **[組織のプロファイル]** を選択します。
 
 
 2. **[法的情報]** を選択してから、使用する法人プロファイルを選択します。
 
 >[!Important]
->クラウド ソリューション プロバイダー (CSP) パートナーの場合、法的住所に関連付けられた国を変更することはできません。法的住所の国は、テナントとサービス、およびビジネスで使用している通貨に関連付けられています。 CSP プログラムを利用していない場合、法的住所に関連付けられた国を変更できます。 審査の状態が "承認済み" の場合、パートナー センターで会社の正式名称を更新することはできません。 [サポート チケットを作成](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)する必要があります。
+>クラウド ソリューション プロバイダー (CSP) パートナーの場合、法的住所に関連付けられた国を変更することはできません。法的住所の国は、テナントとサービス、およびビジネスで使用している通貨に関連付けられています。 CSP プログラムを利用していない場合、法的住所に関連付けられている国を変更できます。 検証の状態が "承認済み" の場合、パートナー センターで会社の正式名称を更新することはできません。 名前を変更する必要がある場合は、[サポート チケットを作成する](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)必要があります。
 
 3. **[送信]** を選択すると、法的 ID が再評価された後、別のメールが届くので、それを承諾する必要があります。
 
@@ -78,10 +84,7 @@ Partner Membership Center からパートナー センターへの移行中、�
 
 ## <a name="next-steps"></a>次の手順
 
-
 - [確認の状態を調べる](verification-responses.md)
  
 - [MPN の場所を管理する](manage-locations.md)
-
-
 
