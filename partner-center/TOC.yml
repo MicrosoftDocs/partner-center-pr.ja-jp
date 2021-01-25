@@ -110,6 +110,9 @@
     - name: Microsoft Partner Agreement - CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: 間接プロバイダーはどのようにリセラーの MPA の採用を支援できるか
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: CSP の直接パートナーの要件
       href: direct-partner-new-requirements.md
       displayName: 'indirect, reseller, csp'
