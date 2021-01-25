@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
-ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
+ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
+ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98166700"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "98759864"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource とは
 
@@ -46,7 +46,7 @@ AppSource で利用可能なすべての製品は、特定の条件に従って�
 
 ソフトウェアベンダーは、価格、エンドユーザー使用許諾契約、およびプライバシーポリシーを定義します。 AppSource のすべてのプランには、発行元のライセンス契約とプライバシーポリシーへのリンクが含まれています。 これらの契約の表示と確認は、購買フローに含まれています。 詳細については、「 [法的契約](legal-contracts.md)」を参照してください。
 
-## <a name="discover-saas-and-m365-integrated-apps"></a>SaaS および M365 統合アプリの検出
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>SaaS および Microsoft 365 統合アプリの検出
 
 Microsoft のパートナーは、SaaS アプリケーションと、それに対応する Microsoft 365 用のアドインとをリンクできます。 これにより、アドインにリンクされた SaaS アプリを取得するときに、特定の Microsoft 365 サービスまたは製品からアドインをダウンロードして使用することができます。
 
