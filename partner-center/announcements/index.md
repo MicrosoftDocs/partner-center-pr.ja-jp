@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685907"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717847"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "98685907"
 
 | **カテゴリ** | **2021 年 1 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
+|機能|[パートナー センターの監査ログに、DAP 向けの新しい 2 種類の操作が含まれるようになりました](2021-january.md#13)|1 月 25 日|
 |機能|[Azure 向けの CSP の新しいコマース エクスペリエンスに関連した、CSP での Azure オファーの提供状況に対する変更](2021-january.md#12)|1 月 21 日|
 |ビジネスの拡大|[クラウド ソリューション プロバイダー プログラムの永続的ソフトウェアが一般提供されるようになりました](2021-january.md#11)|1 月 19 日|
 |ビジネスの拡大|[リマインダー:パートナー センター API を呼び出すパートナーに対する API 調整の導入](2021-january.md#10)|1 月 19 日|
