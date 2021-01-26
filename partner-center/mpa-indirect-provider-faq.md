@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ca7dd4239821fedfdb017c7a475b31b9e91cf68
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: a6cf5bc3d1e0f28a9c4e0a11d8a603297fa57bf9
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98739297"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773496"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-adopt-the-microsoft-partner-agreement-mpa"></a>間接リセラーが Microsoft パートナーアグリーメント (MPA) を採用するために間接プロバイダーがどのように役立つか
 
@@ -126,13 +126,13 @@ Location MPN ID に関連付けられている CSP アカウントを使用す�
 ### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>パートナーメンバーシップセンターからパートナーセンターに MPN アカウントを移行します。 どうすればよいですか。 PMC に MPN 管理者がいることを確認できません。移行するにはどうすればよいですか。 
 
 **回答**[MPN を PMC から PC に移行](guide-to-migration.md)する方法については、ステップバイステップガイドを参照してください。 移行する hep へのさまざまなリンクがあります。
--   [CSP 向け Microsoft Partner Agreement (MPA)](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process)
+-   [CSP 向け Microsoft Partner Agreement (MPA)](microsoft-partner-agreement.md)
 
 問題が発生した場合は、パートナーセンター内から [サポートチケット](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) を生成してください。 
 
 ### <a name="are-there-any-localized-step-by-step-instructions-available"></a>ローカライズされたステップバイステップの手順を利用できますか。
 
-**回答** はい。ここではローカライズされたガイダンスを提供しています。 CSP プログラム (利用可能な言語: スペイン語、韓国語、中国語、日本語) では、 [Microsoft パートナー契約の間接リセラーオンボードに関する](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  ページを参照してください。
+**回答** はい。ローカライズされたガイダンスが用意されています。 CSP プログラム (利用可能な言語: スペイン語、韓国語、中国語、日本語) [で、Microsoft パートナー契約の間接リセラーオンボードを](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  ご利用いただけます
 
 ### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-sign-mpa-"></a>パートナーセンターの管理者が MPA に署名できるユーザーがわからない場合は、
 
@@ -159,8 +159,8 @@ Location MPN ID に関連付けられている CSP アカウントを使用す�
 
 自分で問題を解決できない場合は、CSP アカウントでサインインし、次のようにして、パートナーセンター内からサポートチケットを生成してください。
 
-- ビジネス検証の問題については、ここをクリックして [ください](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  
-- 雇用確認の問題については、ここをクリックして [ください](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)
+- ビジネス検証の問題については、 [サポート要求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)を作成してください。  
+- 雇用確認の問題については、 [サポートリクエスト](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)を作成してください。
 
 :::image type="content" source="images/rejected-faq-mpa.png" alt-text="元":::
 
