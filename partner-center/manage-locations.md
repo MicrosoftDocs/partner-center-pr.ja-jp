@@ -1,7 +1,7 @@
 ---
 title: パートナー アカウントで場所を管理する
 ms.topic: how-to
-ms.date: 11/23/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 新しい場所を追加する方法や、所在地 MPN ID がインセンティブ プログラム、CSP ビジネス、サブスクリプション、その他のトランザクションでどのように使用されるかについて説明します。
@@ -9,18 +9,15 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514803"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773428"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN アカウントの所在地を管理し、新しい場所を追加する
 
-**適用対象**
-
-- パートナー センター
 
 **適切なロール**
 
@@ -38,7 +35,7 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
 
 :::image type="content" source="images/locations/locations1.png" alt-text="MPN 所在地の構造":::
 
-## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>CSP ビジネスの新しい場所を追加するための前提条件
+## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>CSP ビジネスの新しいアカウントの場所を追加するための前提条件
 
 新しい CSP 事業拠点を追加するには、いくつかの前提条件があります。
 
