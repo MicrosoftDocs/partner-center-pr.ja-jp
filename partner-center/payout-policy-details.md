@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492672"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861412"
 ---
 # <a name="payout-schedules-and-processes"></a>支払いスケジュールとプロセス
 
@@ -25,11 +25,11 @@ ms.locfileid: "97492672"
 
 ## <a name="payment-schedules"></a>支払いスケジュール
 
-以下のセクションでは、 **マイクロソフトエンタープライズ契約** および **クレジットカード/請求書** トランザクションの支払いプロセスについて説明します。
+以下のセクションでは、 **Enterprise Agreement** および **クレジットカード/請求書** トランザクションの支払いプロセスについて説明します。
 
-### <a name="enterprise-agreement-transactions"></a>トランザクションのマイクロソフトエンタープライズ契約
+### <a name="enterprise-agreement-transactions"></a>トランザクションの Enterprise Agreement
 
-顧客が既存の Microsoft マイクロソフトエンタープライズ契約のトランザクションを使用して Microsoft AppSource または Azure Marketplace から製品を購入した場合は、次の支払いサイクルの30日後の顧客請求書に支払いを発行します。 顧客がクレジットカードを使用するトランザクションは、支払いの前に30日の保持期間があります。
+顧客が既存の Microsoft Enterprise Agreement のトランザクションを使用して Microsoft AppSource または Azure Marketplace から製品を購入した場合は、次の支払いサイクルの30日後の顧客請求書に支払いを発行します。 顧客がクレジットカードを使用するトランザクションは、支払いの前に30日の保持期間があります。
 
 支払いは多くの場合、Microsoft が顧客から支払いを収集する前に発生します。 お客様が Microsoft への支払いに失敗した場合に実行するアクションについては、以下の「 [お客様の支払い非支払いの処理](#process-for-customer-non-payment) 」を参照してください。
 
@@ -37,6 +37,7 @@ ms.locfileid: "97492672"
 | --- | --- | --- | --- |
 | トランザクションの使用状況または月 | 顧客がサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月1** |
 | Microsoft は請求金額を計算します | 合計使用量、合計トランザクション数 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月2** |
+| 顧客によって支払われる請求書 | Microsoft がお客様から支払いを収集します | 変更なし | **月2** |
 | 投稿された支払い | 機関の費用と支払いの利益を確認する | [支払いステートメント](payout-statement.md)のトランザクション履歴で未処理としてマークされている | **Month 3 (第1週)** |
 | 支払いを準備する | 毎月の支払いのために収益が準備されています | [支払明細書](payout-statement.md)のトランザクション履歴で、次のようにマークされています。 | **Month 3 (第1週)** |
 | **送信された支払い** | **支払いはパブリッシャーに送信されます** | **トランザクション履歴と、支払い [明細書](payout-statement.md)の支払いセクションで送信済みとしてマークされます。** | **月 3 (15 日以降)** |
@@ -104,6 +105,6 @@ Microsoft では、次のいずれかの方法を使用して、支払い済み�
 | 電信送金      | 7 から 10 営業日                         |
 |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [税の詳細](tax-details-marketplace.md)

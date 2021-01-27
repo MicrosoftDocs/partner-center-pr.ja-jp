@@ -1,7 +1,7 @@
 ---
 title: パートナー貢献度インジケーター-SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 小規模および思い浮かべのクラウドソリューションコンピテンシーを実現するためには、パートナー貢献度インジケーター (PCI) パートナーが満たす必要があることについて説明します。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204121"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861429"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>パートナー貢献指標を使用して、中小規模のクラウドソリューションのコンピテンシーを思い浮かべ
 
@@ -157,13 +157,12 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 - 純利益は、Dynamics 365 製品を限定するために、すべての販売チャネルにわたって、net new で請求された収益として定義されています。
 - 純利益の合計は12か月後に合計され、最大で10ポイントの収益が得られます。
 - 正味新しい収益のポイントは、請求金額からクレジットを差し引いた金額として計算され、12か月にわたって集計されます。
-- 純利益は、次の条件に基づいて計算されます。これは、顧客エンゲージメントパスまたは Finance および操作パスのいずれかに該当する製品を対象としています。
+- 正味新しい収益は、次の条件を満たす製品の任意の組み合わせに基づいて計算されます。
   - Dynamics 365 カスタマーエンゲージメント: 製品の条件を満たす製品には、Sales、Marketing、Customer Service、Field Service、Project server、Plan 1、Automation、Marketing、Microsoft Relationship Sales などがあります。
-  - 財務および運用に適合する製品には、ビジネス中部、容量とストレージ、財務と運用 (不正行為の保護、運用、小売、人事、プラン2など)、mixed reality、チームメンバーなどがあります。
-  - Dynamics 365 Business Central
-
-- 販売チャネルには、マイクロソフトエンタープライズ契約 (EA)、クラウドソリューションプロバイダー (CSP)、Web ダイレクトなどがあります。
-- マイクロソフトエンタープライズ契約の収益のみ: この収益には、契約の最初の年からの収益が含まれます。 2 年目および 3 年目から繰り返し発生する利益は含まれません。
+  - 財務および運用に適合する製品には、Dynamics 365 Business Central、容量とストレージ、財務と運用 (不正行為の保護、運用、小売、人事、プラン2など)、mixed reality、チームメンバーが含まれます。
+  
+- 販売チャネルには、Enterprise Agreement (EA)、クラウドソリューションプロバイダー (CSP)、Web ダイレクトなどがあります。
+- Enterprise Agreement の収益のみ: この収益には、契約の最初の年からの収益が含まれます。 2 年目および 3 年目から繰り返し発生する利益は含まれません。
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>PCI メトリック #2 の定義-Net customer の追加
 
@@ -183,7 +182,7 @@ Net customer の追加は [パフォーマンス指標](partner-contribution-ind
 
 - Net customer の追加については、最大と部分的なポイントを獲得できます。
 
-- 販売チャネルには、マイクロソフトエンタープライズ契約 (EA)、クラウドソリューションプロバイダー (CSP)、Web ダイレクトなどがあります。
+- 販売チャネルには、Enterprise Agreement (EA)、クラウドソリューションプロバイダー (CSP)、Web ダイレクトなどがあります。
 
 - 複数のパートナー/同じお客様またはお客様が Microsoft と直接連携している場合: 異なるサブスクリプションを使用して複数のパートナーが同じ顧客に関連付けられている場合や、お客様が既に Microsoft と直接連携している場合は、 **顧客の追加** と **顧客の損失** の計算が異なります。 これらの計算は次のようになります。
 
@@ -307,6 +306,6 @@ Net customer の追加は [パフォーマンス指標](partner-contribution-ind
 
    :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="パートナー貢献指標の表を読む方法":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 これらの [情報リソース](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) を参照して、クラウド Business Applications SMB オプションを通じて、Gold またはシルバー Small And 思い浮かべ cloud Solutions のコンピテンシーを取得する方法を確認してください。
