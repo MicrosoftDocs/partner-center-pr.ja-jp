@@ -1,7 +1,7 @@
 ---
 title: パートナー アカウントで場所を管理する
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 新しい場所を追加する方法や、所在地 MPN ID がインセンティブ プログラム、CSP ビジネス、サブスクリプション、その他のトランザクションでどのように使用されるかについて説明します。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773428"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925052"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN アカウントの所在地を管理し、新しい場所を追加する
 
@@ -35,45 +35,51 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
 
 :::image type="content" source="images/locations/locations1.png" alt-text="MPN 所在地の構造":::
 
-## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>CSP ビジネスの新しいアカウントの場所を追加するための前提条件
+## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>CSP ビジネスの新しいアカウントを追加するための前提条件
 
-新しい CSP 事業拠点を追加するには、いくつかの前提条件があります。
+新しい CSP ビジネス アカウントを追加するには、まず前提条件を満たしていることを確認します。
 
-1. ビジネスを遂行する国に、所在地 MPN ID が必要です。
-
-1. CSP にまだ登録されていない[ビジネス リージョン](regional-authorization-overview.md)には、新しい Azure AD テナントが必要です。 CSP に登録するときに、これを作成してください。
- 
-3. 新しい AAD テナントを使用して、リージョンの CSP プログラムに登録します。
-法的企業名、住所、主要連絡先の詳細など、会社の法的な詳細情報を提供します。 このアカウントは検証されるため、必ず有効な情報を追加してください。
+1. CSP ビジネスを遂行する国に、所在地 MPN ID が必要です。 新しい MPN 所在地を作成するには、以下の「MPN 所在地を追加する」を参照してください。
+  
+1. 新しい CSP Indirect Reseller 登録を作成するには、[間接プロバイダーとの連携](indirect-reseller-tasks-in-partner-center.md#get-started)に関する記事を参照してください。 
 
 >[!NOTE] 
- >必ず、**新しい** Azure AD テナントの **新しい** 資格情報でサインインするようにしてください。 既存の資格情報を使用しないでください。既にアカウントを持っているものとしてパートナー センターに認識されてしまいます。
+ >必ず、**新しい** CSP アカウントの **新しい** 資格情報でサインインするようにしてください。 既存の資格情報を使用しないでください。既にアカウントを持っているものとしてパートナー センターに認識されてしまいます。
 
-4. Microsoft Partner Agreement に同意し、アカウントをアクティブ化します。
+2. Microsoft Partner Agreement に同意し、アカウントをアクティブ化します。
 
 ## <a name="add-an-mpn-location"></a>MPN 所在地を追加する
 
-1. パートナー センターで MPN アカウントを使用してサインインします。 MPN アカウントには、グローバル管理者またはアカウント管理者特権が必要です。 
+1. パートナー センターで MPN アカウントを使用してサインインします (MPN の資格情報は、CSP の資格情報とは異なる場合があります)。 MPN アカウントには、グローバル管理者またはアカウント管理者特権が必要です。 
 
-1. **設定アイコン** から **[組織の設定]** を選択します。
+1. **設定アイコン** で、 **[Account settings]\(アカウント設定\)** を選択し、 **[組織プロファイル]** を選択します。
 
-2. **[Legal]\(法務\)** を選択し、 **[場所]** を選択します。
+2. **[Legal]\(法務\)** 選択し、 **[パートナー]** タブで **[事業所]** を選択してから、 **[Add a location]\(場所の追加\)** をクリックします。
 
-3. **[Add a location]\(場所の追加\)** を選択し、会社に追加する場所の住所の詳細と、その場所の主要な連絡先を挿入します。
+3. 会社に追加する場所の法人名、住所、連絡先など、必要な詳細情報を入力します。
+ 
+1. **[Add location]\(場所の追加\)** をクリックします。 これにより、CSP 取引とインセンティブに使用できる新しい場所の新しい MPN ID が作成されます。
+
+:::image type="content" source="images/legal-biz.png" alt-text="新しい法的ビジネスの追加":::
 
 > [!NOTE]
 > パートナー センターで追加した場所は削除できません。 正しい MPN ID を使用してサインインすると、パートナー センターの左側のメニューに **MPN** が表示されます。
 
-## <a name="change-global-partner-account-location"></a>グローバル パートナー アカウントの場所を変更する
+## <a name="change-country-of-partner-global-account"></a>パートナー グローバル アカウントの国を変更する 
 
-1. **[[Business locations]\(事業所\)](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** で場所の一覧を確認して、法人にしようとしている場所が一覧表示されていることを確認します。 ない場合は、追加します。
+1. パートナー センターで MPN アカウントを使用してサインインします (MPN の資格情報は、CSP の資格情報とは異なる場合があります)。 MPN アカウントには、グローバル管理者またはアカウント管理者特権が必要です。 
 
-   :::image type="content" source="images/accountsettings/location1.png" alt-text="現在のすべての場所の一覧が表示されている、パートナー センターのアカウントの場所ページのスクリーンショット。":::
+2. **[パートナー]** タブの **[事業所]** で場所の一覧を確認し、法人にしようとしている場所が一覧表示されていることを確認します。 
+ 
+1. 場所を追加するには、 **[Add a location]\(場所の追加\)** をクリックし、ポップアップに、会社に追加する場所の法人名、住所、第一連絡先担当者など、必要な詳細情報を入力します。 
+ 
+1. **[国/地域]** ドロップダウンの横にある **[Change your country]\(国の変更\)** を選択し、手順に従います。 
 
-2. **[Legal]\(法務\)** を選択してから、 **[Update legal business profile]\(法的ビジネス プロファイルの更新\)** を選択します。
-  
-3. 地域と法人を選択し、その **[送信]** を実行します。
+:::image type="content" source="images/lbp.png" alt-text="法的ビジネス プロファイル データのポップアップ":::
 
+5. **[保存]** をクリックします。
+
+6. MPN グローバル アカウントの国が、新しい法律上の国に変更されます。
   
 ## <a name="next-steps"></a>次のステップ
 
