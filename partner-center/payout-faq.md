@@ -1,5 +1,5 @@
 ---
-title: 支払いと税務プロファイルに関する FAQ
+title: 支払いと税金のプロファイルの FAQ
 description: パートナーセンターでの支払いと税金の詳細についてよく寄せられる質問への回答を得ます。 収益が予想と異なる理由についての回答が含まれています。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492587"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924907"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>支払いと税金に関してよく寄せられる質問
 
@@ -128,10 +128,6 @@ MPN の場所に対して作成された税プロファイルは再利用され�
 
 **[Payout Payment]\(支払い\)** ページに移動し、 **[List of Payment]\(支払いのリスト\)** セクションに移動します。 サービス料金税が含まれる支払いについては、サービス料金税のフォームへのリンクが表示されます。
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>源泉徴収税フォームを PDF でダウンロードするにはどうすればよいですか?
-
-*[Payout Payment]\(支払い\)* ページに移動し、 **[List of Payment]\(支払いのリスト\)** セクションに移動します。 支払いの横に、源泉徴収税フォームへのリンクが表示されます。
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>年末調整用のフォームはどこから見つけることができますか?
 
 [プロファイル ページ](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage)に移動すると、年末調整用のフォームが表示されます。
@@ -170,7 +166,7 @@ MPN の場所に対して作成された税プロファイルは再利用され�
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>PDF で源泉徴収税フォームをダウンロード操作方法には、
 
-**[Payout Payment]\(支払い\)** ページに移動し、 **[List of Payment]\(支払いのリスト\)** セクションに移動します。 支払いの横に、源泉徴収税フォームへのリンクが表示されます。
+**[Payout Payment]\(支払い\)** ページに移動し、 **[List of Payment]\(支払いのリスト\)** セクションに移動します。 支払いの横に、源泉徴収税フォームへのリンクが表示されます。 源泉徴収税フォームは、選択したインセンティブプログラムにのみ適用されます。商業市場での支払いには適用されません。
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>年末調整用のフォームはどこから見つけることができますか?
 
@@ -205,7 +201,7 @@ MPN の場所に対して作成された税プロファイルは再利用され�
 
  **参考資料**: [市販の Marketplace 発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)、 [税金の詳細](tax-details-marketplace.md)、 [支払いのしきい値、方法、時間枠](payment-thresholds-methods-timeframes.md)
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [支払いの受け取り](marketplace-get-paid.md)
 - [支払いアカウントと税フォームを設定する](set-up-your-payout-account.md)
