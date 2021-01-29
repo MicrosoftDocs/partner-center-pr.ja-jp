@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571671"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717830"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月のお知らせ
 
@@ -23,6 +23,124 @@ ms.locfileid: "98571671"
 2021 年のお知らせ1 月
 
 2020 年のお知らせ:[5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | [11 月](2020-november.md) | [12 月](2020-december.md)  
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> パートナー センターの監査ログに、DAP 向けの新しい 2 種類の操作が含まれるようになりました
+
+### <a name="categories"></a>Categories
+
+- 日付:2021 年 1 月 25 日
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+すべての CSP パートナー
+
+### <a name="details"></a>詳細
+
+今日発表されたように、代理管理者の関係を顧客が承認または削除したことをパートナーが視覚的に確認できる 2 つの新しい操作の種類がパートナー センターのアクティビティ ログで公開されたことをお知らせします。
+
+新しい操作の種類は次のとおりです。
+
+"operationType": "dap_admin_relationship_terminated"
+
+"operationType": "dap_admin_relationship_approved",
+
+### <a name="next-steps"></a>次の手順
+
+- 新しい操作の種類を利用して、DAP が顧客によって承認されたとき、および顧客によって終了されたときのイベントを追跡します。  
+- [パートナー センターのアクティビティのレコードを取得する - パートナー センター アプリ開発者 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [監査リソース - パートナー センター アプリ開発者 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+
+### <a name="questions"></a>わからないことがある場合は、
+
+さらにご質問がある場合は、関連する CSP Yammer コミュニティをご確認ください。
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Azure 向けの CSP の新しいコマース エクスペリエンスに関連した、CSP での Azure オファーの提供状況に対する変更
+
+### <a name="categories"></a>Categories
+
+- 日付:2021 年 1 月 21 日
+- 機能
+ 
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー様。
+
+### <a name="details"></a>詳細:
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>Azure in CSP 向けの新しいコマース エクスペリエンス
+
+新しい Microsoft コマース エクスペリエンスにより、顧客向けに一貫性のある簡素化された購入エクスペリエンスが作成され、いっそう柔軟に購入の方法と場所を選択できるデジタル変革が実現されます。 パートナーは、顧客が Microsoft との取引用に選択したチャネルに関係なく、顧客のクラウド体験において重要な役割を果たします。 更新されたコマース プラットフォームとモデルが完全に提供されるようになると、パートナーは大企業や中小企業の顧客を対象とする営業活動を通じて参加できるようになります。また、パートナーは、顧客の成功が促進されるよういっそう広範に関わる機会を得ることができます。
+
+クラウド ソリューション プロバイダー プログラムにおける Azure 向けの新しいコマース エクスペリエンスにより、マネージド サービスの構築と提供、顧客ベースのさらなる拡大、顧客のデジタル変革の支援に関するパートナーの機会がいっそう広がります。
+
+新しいコマース エクスペリエンスには、次のような利点があります。
+
+- Azure プランでの Azure の購入プロセスが簡素化されます。
+- チャネル間でのより適切な価格の調整が実現します。 お客様とパートナーのフィードバックに基づき、クラウド ソリューション プロバイダー プログラムの新しい Azure エクスペリエンスでは、単一の価格表 (USD 単位) が使用され、全世界で一貫した価格がお客様とパートナーに提供されます。
+- クラウド ソリューション プロバイダー プログラムの新しい Azure エクスペリエンスに顧客を移行するための適切なガバナンス、カスタマー エクスペリエンス、ポリシーが組み込まれたツールが用意されており、顧客の獲得に関する障害が減ります。
+- パートナーは、Azure Lighthouse や Azure Cost Management などの機能を利用して、いっそう効率的に顧客を管理できます。 
+- Azure Marketplace へのアクセスが増えます。
+
+Azure 向けの新しいコマース エクスペリエンスの利用を促進するため、顧客の進化するビジネス ニーズに対応し、クラウド ソリューション プロバイダー プログラムでの新しい Azure オファーを顧客が利用しやすくなるように、Azure をいっそう柔軟に管理するための移行ツールが用意されています。 クラウド ソリューション プロバイダー プログラムでの顧客の Azure サブスクリプションの移行をサポートするために用意されているツールの概要をご覧ください。
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>クラウド ソリューション プロバイダー プログラムでの新しい Azure オファー (Azure プラン)
+
+新しいコマース エクスペリエンスを使用すると、パートナーは、Azure プランにより、Microsoft 顧客契約に基づいて従量課金制の料金で提供される顧客向けの Azure サービスにアクセスできるようになります。 このプランを利用すると、1 つの Azure プラン内に複数の Azure サブスクリプションを作成できるため、購入エクスペリエンスが簡素化されます。 パートナー センターで Azure サブスクリプションごとに個別の注文を送信する必要はなくなります。
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムでの以前の Azure オファーの提供状況に関する変更
+
+クラウド ソリューション プロバイダー プログラムでの新しい Azure オファー (Azure プラン) を発表した際、以前の Azure オファーとプラットフォームは、しばらくの間、新しい Azure エクスペリエンスと並行して引き続き利用できること、および以前の Azure オファーに関して変更があるときは 6 か月前にパートナーに通知することを、パートナーにお知らせしました。
+
+クラウド ソリューション プロバイダー プログラムの新しい Azure オファー (Azure プラン) により、向上したエクスペリエンスがパートナーに提供される一方で、パートナーが新しい Azure 機能をサービスに組み込み、顧客を新しいエクスペリエンスに移行するための時間的猶予を設けます。
+
+以前の Azure オファーへの変更には、3 つのフェーズがあります。 ここでは、これら 3 つのフェーズについて詳しく説明します。
+
+#### <a name="three-phases"></a>3 つのフェーズ
+
+**フェーズ 1 – 2021 年 7 月 21 日開始**
+
+フェーズ 1 では、Azure クラウド ソリューション プロバイダー プログラムのすべての新しいビジネスが、新しい Azure プラン オファーで行われるようになります。 次のガイドラインが適用されます。
+
+- クラウド ソリューション プロバイダー プログラムでのパートナーと顧客の間にある既存のすべてのリセラー関係については、顧客が以前の Azure オファーを既に購入している場合、パートナーは取引を継続することができ、顧客はそのパートナーから以前の Azure オファーを引き続き購入できます。
+- CSP でのパートナーによるまったく新しい取引には、以前の Azure オファーを利用できなくなります
+- CSP でのパートナーを通じた顧客によるまったく新しい購入には、以前の Azure オファーを利用できなくなります
+- すべての新しいリセラー関係または新規顧客獲得では、パートナーは新しい Azure オファー (Azure プラン) のみを取引できます
+- パートナーと顧客の間にある既存のすべてのリセラー関係では、顧客が以前に Azure を購入していない場合、パートナーが取引でき、顧客がそのパートナーから購入できるのは、新しい Azure オファーだけです。
+
+**フェーズ 2 – 暦年で 2022 年の期間中**
+
+暦年の 2022 年中のどこかで開始されるフェーズ 2 では、インセンティブとパートナー利益機会が、以前の Azure オファーから削除されます。 フェーズ 2 の開始日は、6 か月前にパートナーにお知らせします。
+
+**フェーズ 3 – 日程未定**
+
+フェーズ 3 では、以前の Azure オファーに残っているすべての顧客が、クラウド ソリューション プロバイダー プログラムの新しい Azure オファー (Azure プラン) に移行されます。 前のフェーズと同様に、フェーズ 3 の開始日は 6 か月前にパートナーにお知らせします。
+
+#### <a name="partner-earned-credit-pec"></a>パートナー獲得クレジット (PEC)
+
+新しいコマース エクスペリエンスを利用すると、パートナーは、パートナー獲得クレジット モデルを通じて、差別化された付加価値サービスについて継続的に評価されます。 持続可能な収益性をもたらす付加価値サービスを通じて顧客の成功の促進に注力したパートナーには、パートナー獲得クレジットによって報酬が提供されます。
+
+### <a name="next-steps"></a>次のステップ:
+
+パートナーには、次のリソースについて理解することを強くお勧めします。
+
+#### <a name="partner-earned-credit-pec"></a>パートナー獲得クレジット (PEC)
+
+- [パートナー獲得クレジットについて (ガイド) (microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [パートナー獲得クレジット - 概要 - パートナー センター | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [マネージド サービスのパートナー獲得クレジット - パートナー センター | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [パートナー獲得クレジットに関するロールとアクセス許可 - パートナー センター | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Azure in CSP モジュールでのパートナー獲得クレジットに関するオンデマンド トレーニング モジュール (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>新しいコマース エクスペリエンス
+
+- [パートナー リソース ギャラリー: Azure 向けの CSP の新しいコマース エクスペリエンス](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>わからないことがある場合は、
+
+このお知らせに関するご質問は、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)にお問い合わせください。
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> クラウド ソリューション プロバイダー プログラムで永続的ソフトウェアが一般提供されるようになりました
@@ -40,12 +158,11 @@ ________________
 
 本日[お知らせ](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)したように、CSP パートナーが販売する商用永続的ソフトウェア ライセンスが一般提供されるようになりました。 パートナー センターで CSP 永続的ソフトウェアの価格表が再公開され、追加の製品と地域が含まれるようになりました。
 
-さらに、本日をもってパートナー センターのソフトウェアおよびライセンス キー フルフィルメント機能は廃止され、今後、パートナーと顧客は、この目的では Microsoft 365 管理センターを使用する必要があることにご注意ください。
-詳細と次の手順については、以下を参照してください。
+さらに、本日をもってパートナー センターのソフトウェアおよびライセンス キー フルフィルメント機能は廃止されました。パートナーは、今後この目的には Microsoft 365 管理センターを顧客に案内してください。 詳細と次の手順については、以下を参照してください。
 
 ### <a name="next-steps"></a>次の手順
 
-- パートナー センターの [[料金とプラン]](https://partnercenter.microsoft.com/en-us/pcv/sales) ページの **[ソフトウェア]** セクションにある **CSP の永続的ソフトウェア** の価格表をダウンロードします。 新しく追加された製品と地域の一覧については、[こちら](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)を参照してください。
+- パートナー センターの [[料金とプラン]](https://partnercenter.microsoft.com/pcv/sales) ページの **[ソフトウェア]** セクションにある **CSP の永続的ソフトウェア** の価格表をダウンロードします。 新しく追加された製品と地域の一覧については、[こちら](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)を参照してください。
 - [Microsoft 365 管理センターの永続的ソフトウェアと製品ライセンス キーのダウンロードに関するハウツー記事](https://go.microsoft.com/fwlink/p/?linkid=2152525)を参照し、顧客がソフトウェアとライセンス キーをダウンロードする準備ができたときに顧客と共有してください。
 - [クラウド ソリューション プロバイダー プログラムの永続的ソフトウェア](https://partner.microsoft.com/resources/collection/software-in-csp#/)準備資料を参照してください。 こちらの[レディネス マップ](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)を利用すると、ロールに適した情報をすばやく見つけることができます。
 
@@ -144,7 +261,7 @@ Microsoft 365 E5 の必須ソフトウェアで利用可能なアドオンによ
 
 2021 年 2 月 1 日以降、顧客は、[Microsoft 365 F1 および F3 SKU](https://www.microsoft.com/microsoft-365/firstline-workers) のアドオンとして、フロントライン ワーカーのための 3 つの新しいセキュリティおよびコンプライアンス プログラム プランを購入できます。
 
-これらのプログラム プランは、**2021 年 2 月 28 日** に終了する現在の[セキュリティおよびコンプライアンス](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) プロモーションの後継となります。 現在のプロモーションとは異なり、これらの F5 アドオンによって、顧客は、最前線の従業員が増加するときの予測の予測可能性を高めることができます。
+これらのプログラム プランは、**2021 年 2 月 28 日** に終了する現在の [セキュリティおよびコンプライアンス](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) プロモーションの後継となります。 現在のプロモーションとは異なり、これらの F5 アドオンによって、顧客は、最前線の従業員が増加するときの予測の予測可能性を高めることができます。
 
    
    |**プラン名**|**プラン ID**|**マテリアル ID**|
@@ -431,7 +548,7 @@ Microsoft では、2021 年 2 月に公開される新しい Dynamics 365 オフ
 
 2021 年 2 月 1 日に、Microsoft では 1-K の回答の権利を含む新しい "Additional Response" プランが作成されます。2-K の Survey Responses を含む既存のプランはそれと置き換えられ、2021 年 2 月 1 日に販売終了となる予定です。
 
-SKU の詳細については、[Dynamics CSP オファー - 2021 年 2 月の Excel ドキュメント](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)の [Customer Voice Addl Resp] タブをご覧ください。 詳細については、[Microsoft Dynamics 365 Customer Voice のホーム ページ](https://dynamics.microsoft.com/en-us/customer-voice/overview/)をご覧ください。
+SKU の詳細については、[Dynamics CSP オファー - 2021 年 2 月の Excel ドキュメント](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)の [Customer Voice Addl Resp] タブをご覧ください。 詳細については、[Microsoft Dynamics 365 Customer Voice のホーム ページ](https://dynamics.microsoft.com/customer-voice/overview/)をご覧ください。
 
 **Dynamics 365 Customer Service Insights の有効期間終了**
 

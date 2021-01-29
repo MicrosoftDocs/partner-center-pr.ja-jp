@@ -1,20 +1,20 @@
 ---
 title: CSP 向け Microsoft Partner Agreement (MPA)
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 署名する Microsoft CSP パートナーの要件について説明します。また、この統一され、デジタル署名済みの Microsoft Partner Agreement (MPA) を確認します。
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105513"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773479"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP プログラム パートナー向け Microsoft Partner Agreement (MPA) について説明します。
 
@@ -68,6 +68,20 @@ CSP プログラムへの参加を続けるには、2020 年 1 月 31 日まで�
 
 忘れずに、間接プロバイダーとの CSP 関係リクエストに同意してください。
 
+## <a name="sign-the-mpa"></a>MPA に署名する
+
+1. CSP Indirect Reseller アカウントを使用して、パートナー センターにサインインします。 グローバル管理者である必要があります。
+1. **[CSP の概要](https://partner.microsoft.com/pcv/dashboard/overview)** ページに移動します。  **[同意して続行する]** または MPA が署名されていることを示す緑色のバナーが表示されない場合は、MPA に署名するための適切なロールがありません。 MPA に署名するには、グローバル管理者に連絡してください。
+
+1. 署名する前に **Microsoft Partner Agreement** を表示してダウンロードするには、次に示す Microsoft Partner Agreement のリンクをクリックします。
+
+:::image type="content" source="images/agreement-three.png" alt-text="新しい MPA 契約の場所":::
+
+>[!NOTE]
+>**Microsoft Partner Agreement** のリンクが表示されない場合は、パートナー センターでロールを確認してください。 CSP テナントのグローバル管理者のみが、パートナー センターで MPA を表示して署名できます。 ロールを確認するには、 **[ユーザー管理]** に移動し、サインインしたアカウントが **[全体管理者]** とマークされていることを確認します。そうでない場合、このアカウントを使用して MPA に署名することはできません。 [ユーザー管理] ページで、会社のグローバル管理者を検索できます。
+
+:::image type="content" source="images/user-management-clean.png" alt-text="自分のロールを調べる方法":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>MPA に署名したことを確認する
 
 MPA に署名したかどうかを確認する方法:
@@ -75,17 +89,17 @@ MPA に署名したかどうかを確認する方法:
  貴社のグローバル管理者として、[CSP の概要](https://partner.microsoft.com/pcv/dashboard/overview)にアクセスして、MPA に同意したことを知らせる緑色のバナーが表示されることを確認します。
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="MPA への同意を示す緑色のバナー":::
+:::image type="content" source="images/banner-boxed.png" alt-text="MPA への同意を示す緑色のバナー":::
 
 >[!NOTE]
 >会社のグローバル管理者のみが、MPA を表示して署名できます。 グローバル管理者でない場合は、グローバル管理者に、MPA の確認を依頼する必要があります。
 
 **[アカウント設定]** から **[契約]** を選択して、契約に署名したかどうかを確認することもできます。
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="MPA が署名されていることを示す表示":::
+:::image type="content" source="images/agreement-new.png" alt-text="MPA が署名されていることを示す表示":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>プロセスでの工程に適したステップバイステップ ガイドをダウンロードする
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>MPA 署名プロセスでの現在の工程に適したステップバイステップ ガイドをダウンロードする
 
 1. MPN アカウントを PMC からパートナー センターに移行する場合:[PMC からパートナー センターに移行し、Microsoft Partner Agreement に同意する](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 

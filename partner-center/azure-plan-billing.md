@@ -1,7 +1,7 @@
 ---
 title: Azure プランの請求 - 請求書と調整ファイル
 ms.topic: article
-ms.date: 07/02/2020
+ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure プランの請求に関連する請求書と調整ファイルの構造にアクセスして理解する方法について説明します。
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534694"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658435"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP の新しいコマース エクスペリエンス - Azure の請求 
 
@@ -140,9 +140,7 @@ ms.locfileid: "96534694"
 
 Azure プランを介した Azure サービスには、米国ドルで価格が設定され、顧客の国の割り当て通貨で請求されます。 請求通貨が米国ドル以外の場合は、使用された外国為替 (FX) レートが請求書の最後のページに記載されます。 外国為替レートは月ごとに決定され、次の請求書に適用されます。 国の通貨の詳細な一覧については、[新しいコマース オファーの提供国と顧客の通貨の対応表](https://go.microsoft.com/fwlink/?linkid=2112354)を参照してください。
 
-Microsoft は、請求書の通貨換算に対する価格設定の通貨を決定する際に、Thomson Reuters を使用して外国為替レートを決定します。 外国為替レートは、適用される月の最初の日の前に更新され、使用されます。
-
-**例**:8 月 1 日から 8 月 31 日までのサービス期間の使用料金は、7 月 31 日に公開された外国為替レートを使用して請求されます。 これらの料金は 9 月の請求書に記載されます。外国為替レートは請求書の最後のページに記載されます。
+Microsoft はロンドン証券取引所に従って換算を行います。 使用される為替レートは、ロンドン証券取引所でその月の最終営業日の最後の 1 秒間に取得された為替レートに相当します。 外国為替レートは、適用される月の最初の日の前に更新され、使用されます。
 
 ## <a name="azure-reservations"></a>Azure Reservations
 

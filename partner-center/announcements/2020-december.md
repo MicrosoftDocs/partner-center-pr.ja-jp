@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182564"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705047"
 ---
 # <a name="december-2020-announcements"></a>2020 年 12 月のお知らせ
 
@@ -280,7 +280,7 @@ ______________
 
 - CSP の永続的ソフトウェアの価格表が、パートナー センターで再公開されます。 これは、追加の製品と地域が記載されている **[販売]** > [[価格とオファー]](https://partnercenter.microsoft.com/pcv/sales) ページの [ソフトウェア] セクションでご覧いただけます。 詳細については[こちら](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)を参照してください。
 
-- パートナー センターのソフトウェアおよびライセンス キー フルフィルメント機能は廃止され ([お知らせ](./2020-september.md#17)参照)、パートナーには今後はこの目的のためだけに Microsoft 365 管理センターを使用していただくことになります。 これによって、顧客にとって最も安全かつ効率的なエクスペリエンスを実現できます。 Microsoft 365 管理センター ソフトウェアの詳細については、[概要](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般的なタスク](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)、[ライセンス キー フルフィルメント機能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)に関するページを参照してください。
+- パートナー センターのソフトウェアおよびライセンス キー フルフィルメント機能は廃止されるため ([お知らせ](./2020-september.md#17)参照)、パートナーは今後この目的には Microsoft 365 管理センターだけを使用するよう顧客にご案内ください。 これによって、顧客にとって最も安全かつ効率的なエクスペリエンスを実現できます。 Microsoft 365 管理センター ソフトウェアの詳細については、[概要](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般的なタスク](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)、[ライセンス キー フルフィルメント機能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)に関するページを参照してください。
 
 ### <a name="perpetual-software-in-csp"></a>CSP の永続的ソフトウェア
 
