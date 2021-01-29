@@ -1,19 +1,19 @@
 ---
 title: MPN コンピテンシーの料金を支払う
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: 1つ以上のシルバーまたはゴールドコンピテンシーの取得または更新に関連する料金を支払う方法または支払いの詳細を更新する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921106"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042686"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>シルバーまたはゴールドコンピテンシーに関連する料金を支払う方法
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921106"
 この記事では、シルバーまたはゴールド Microsoft Partner Network コンピテンシーの購入に関連する料金の支払い方法とタイミングについて説明します。 この記事では、ご希望の支払い方法を変更する方法、注文を取り消す方法、シルバーからゴールドコンピテンシーへの移行時に25% の料金割引を受ける方法についても説明します。
 
 > [!NOTE]
-> シルバーまたはゴールドのコンピテンシーを取得する利点、特定のコンピテンシー、および固有の要件について詳しくは、「 [Microsoft Partner Network コンピテンシー](https://partner.microsoft.com/membership/competencies)」をご覧ください。 また、Microsoft Partner Network [コンピテンシーのライセンステーブル] を確認して、利用可能な各コンピテンシーの特典の詳細を参照することもできます。
+> シルバーまたはゴールドのコンピテンシーを取得する利点、特定のコンピテンシー、および固有の要件について詳しくは、「 [Microsoft Partner Network コンピテンシー](https://partner.microsoft.com/membership/competencies)」をご覧ください。 また、Microsoft Partner Network [ライセンステーブルでコンピテンシーを](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) 確認し、利用可能な各コンピテンシーの特典の詳細を確認することもできます。
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>コンピテンシーの要件を満たし、料金を支払う
 
@@ -43,7 +43,7 @@ ms.locfileid: "98921106"
 
 2. ナビゲーションメニューから [ [メンバーシップオファー](https://partner.microsoft.com/dashboard/mpn/offers) ] を選択します。 
 
-3. [ **購入可能なプラン**] で、特定のコンピテンシーに関連付けられているシルバーメンバーシップ * * タイルまたは **Gold メンバーシップ** タイルを見つけます。 
+3. [ **購入可能なプラン**] で、特定のコンピテンシーに関連付けられている **シルバーメンバーシップ** タイルまたは **Gold メンバーシップ** タイルを見つけます。 
 
 4. 特定のシルバーまたはゴールドメンバーシップタイルの右下にある [ **サブスクライブ** ] オプションを選択します。
 
@@ -54,7 +54,7 @@ ms.locfileid: "98921106"
 
 4. [ **購入の詳細** ] ページで、詳細を確認して確認します。
 
-   (会社 [の **税 ID** 情報の](https://docs.microsoft.com/partner-center/organization-tax-info) 更新、または会社の [**請求書** から会社の住所への販売](https://docs.microsoft.com/partner-center/mpn-get-action-pack)の詳細については、こちらを参照してください。
+   (詳細については [、会社の **税 ID** 情報](https://docs.microsoft.com/partner-center/organization-tax-info) または会社の [**請求書** から会社の住所へ](https://docs.microsoft.com/partner-center/mpn-get-action-pack)の更新に関するページを参照してください)。
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="メンバーシップには、支払いの設定を含む購入詳細ページが用意されています。" border="false":::
 
@@ -130,7 +130,7 @@ ms.locfileid: "98921106"
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="購入したプランごとに、選択可能なオプションであることを証明する証明をアップロードするためのフィールドが表示された [詳細] ページ。" border="false":::
 
-1. 最近の電子ファンド転送取引に関連するその他のフィールドの情報を入力します。たとえば、 **支払い日**、* 支払先口座番号 * *、 **transaction/Ref no** などです。
+1. 最近の電子ファンド転送取引に関連するその他のフィールドに関する情報を入力します。たとえば、 **支払い日**、支払い **先口座番号**、 **取引/参照番号** などです。
 
   要求が正常に完了したことを示す緑色のメッセージが表示されることがあります。
 
@@ -185,6 +185,6 @@ ms.locfileid: "98921106"
 
 5. [ **次** へ] を選択して、このプランの購入を完了し、割引を受けます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 [コンピテンシー](https://partner.microsoft.com/membership/competencies)、その利点、および固有の要件についての詳細情報
