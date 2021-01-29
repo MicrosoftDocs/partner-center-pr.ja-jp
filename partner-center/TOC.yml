@@ -51,6 +51,9 @@
         - name: MPN のメリットを確認する
           href: mpn-find-benefits.md
           displayName: mpn
+        - name: コンピテンシー料金の支払い
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
     - name: コンピテンシー
       items:
         - name: コンピテンシーの詳細
