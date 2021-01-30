@@ -1,19 +1,19 @@
 ---
 title: CSP の1回限りの購入のファイルフィールド
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: サンプル値を含む、パートナーセンターの CSP の1回限りの購入調整ファイルに関するすべての項目について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182581"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098807"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP による1回限りの購入調整ファイルフィールド
 
@@ -22,13 +22,13 @@ ms.locfileid: "98182581"
 
 調整ファイルの詳細については、「 [調整ファイルの使用](use-the-reconciliation-files.md)」を参照してください。
 
-| Column | 説明 | 値の例 |
+| 列 | 説明 | 値の例 |
 | ------ | ----------- | ------------ |
 | PartnerId | 特定の請求エンティティの GUID 形式の一意識別子。 調整には必要ありません。 すべての行で同じです。 | *0e195b374574-45742-0e539b9684 c0* |
 | CustomerId | GUID 形式の顧客の一意の Microsoft 識別子。 | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | パートナー センターで報告される顧客の組織名。 この列は、請求書をシステム情報に合わせて調整するために重要です。 | *Johnny モダン Cust DE2* |
 | CustomerDomainName | 顧客のドメイン名。 | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | 顧客が配置されている国。 お客様の地域の [国の](./regional-authorization-overview.md) 完全な一覧をご覧ください。  | *解放* |
+| CustomerCountry | 顧客が配置されている国。 お客様の地域の [国の](./regional-authorization-overview.md) 完全な一覧をご覧ください。  | *DE* |
 | InvoiceNumber | 調整ファイルに関連付けられている請求書番号。  | *G002297372* |
 | MpnId | CSP パートナーの MPN 識別子。 詳細については、「 [パートナー別に明細を表示する方法](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)」を参照してください。 | *6034453* |
 | ResellerMpnId | サブスクリプションの販売店の MPN 識別子。 | *6048879* |
@@ -39,7 +39,7 @@ ms.locfileid: "98182581"
 | AvailabilityId | 可用性の一意識別子。 | *DZH318Z08B80* |
 | SkuName | SKU の名前。 | *テーブル-LRS* |
 | ProductName | 製品名。 | *テーブル* |
-| ChargeType | 料金または調整 [の種類](./recon-file-charge-types.md) 。 | *[新規作成]* |
+| ChargeType | 料金または調整 [の種類](./recon-file-charge-types.md) 。 | *新規* |
 | UnitPrice | ライセンスあたりの料金。購入時の価格表に記載されています。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *0.045* |
 | Quantity | ライセンスの数。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *1* |
 | 小計 | 合計額 (税抜)。 小計は、課金対象の数量と有効な単価を乗算した値と同じである必要があります。 | *0* |
@@ -64,6 +64,9 @@ ms.locfileid: "98182581"
 | PCToBCExchangeRateDate | 請求通貨の価格の通貨が決定される日付。 | *2020 年 9 月 30 日* |
 | MeterDescription | メーターの説明。  | *テーブル-LRS 格納データ (GB/月)* |
 | ReservationOrderId | 予約注文 Id。 | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>Azure の使用量は、一度だけ購入したファイルで調整できます。 これを行うには、毎日評価される使用法偵察 file にアクセスし、SubscriptionID を検索します。 これにより、Azure プラン ID に関連付けられているすべてのコストが表示されます。 Azure SubscriptionID は EntitlementID として表示されます。
 
 ## <a name="next-steps"></a>次のステップ
 

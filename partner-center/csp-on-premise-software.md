@@ -1,7 +1,7 @@
 ---
 title: CSP によるオンプレミス ソフトウェアの販売
 ms.topic: how-to
-ms.date: 01/15/2021
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムのパートナーが、パートナーセンターの顧客に代わって、オンプレミスのソフトウェアサブスクリプションを購入、管理、販売、キャンセルする方法について説明します。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584170"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098858"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>クラウドソリューションプロバイダー (CSP) プログラムを通じてオンプレミスソフトウェアを販売する
 
@@ -37,13 +37,16 @@ CSP でのオンプレミス ソフトウェアは、クラウドに重点を置
 
 ## <a name="activate-and-manage-software-subscriptions"></a>ソフトウェア サブスクリプションのライセンス認証と管理
 
-ソフトウェアを購入した後は、お客様と顧客がダウンロードする必要があります。 この場合、次の手順を実行します。 
+ソフトウェアを購入したら、お客様がダウンロードする必要があります。 この場合、次の手順を実行します。
 
 >[!NOTE]
 >キーとダウンロードを取得するには、管理エージェントである必要があります。
 
 1. 顧客の詳細ページに移動し、 **[ソフトウェア]** を選択します。 顧客に代わって購入したすべてのソフトウェアの一覧が表示されます。
-2. リンクから **ソフトウェアプロダクトキーへ** のリンクをコピーし、ダウンロードして、リンクを顧客と共有します。 ユーザーがこのリンクを選択すると、Microsoft 管理ポータルにリダイレクトされ、プロダクトキーをダウンロードして取得します。
+2. "ディープリンク" を「 **ソフトウェアプロダクトキーへのリンク** 」からコピーし、ダウンロードして、顧客とリンクを共有します。 ユーザーがこのリンクを選択すると、Microsoft 管理センターにリダイレクトされ、プロダクトキーをダウンロードして取得します。
+
+>[!NOTE]
+>Microsoft 管理センターでプロダクトキーを参照したり、情報をダウンロードしたりできるのは、お客様のみです。 パートナーは、この情報を表示できません。
 
 ライセンスキーのダウンロードの詳細については、「 [ソフトウェアと製品ライセンスキーのダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2152525)」を参照してください。
 
