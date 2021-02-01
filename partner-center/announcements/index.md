@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/27/2021
-ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924932"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042703"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,7 +22,8 @@ ms.locfileid: "98924932"
 
 | **カテゴリ** | **2021 年 1 月のお知らせ** | **発表** |
 |---------|:---------|:---------|
-|モダン ワークプレース|[新しいコマース オファーに関するパートナー請求通貨の EU/EFTA の変更](2021-january.md#14)|1 月 27 日|
+|モダン ワークプレース|[フェーズ 1 現在公開中:EU と EFTA および英国での新しいコマース プランに関するパートナー請求通貨の変更](2021-january.md#15)|1 月 28 日|
+|モダン ワークプレース|[クラウド ソリューション プロバイダー (CSP) のお客様のオンボード要件の変更](2021-january.md#14)|1 月 28 日|
 |機能|[Microsoft Partner Agreement (MPA) – 間接リセラーの更新/新規 FAQ](2021-january.md#13)|1 月 27 日|
 |機能|[パートナー センターの監査ログに、DAP 向けの新しい 2 種類の操作が含まれるようになりました](2021-january.md#12)|1 月 25 日|
 |機能|[Azure 向けの CSP の新しいコマース エクスペリエンスに関連した、CSP での Azure オファーの提供状況に対する変更](2021-january.md#11)|1 月 21 日|

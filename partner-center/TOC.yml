@@ -84,7 +84,10 @@
           displayName: mpn
         - name: 利点に関する FAQ
           href: benefits-faq.md
-          displayName: 'renew, license, mpn'
+          displayName: 'renew, license,'
+        - name: Azure とクラウドの利点
+          href: mpn-benefits-azure-cloud.md
+          displayname: 'activate, azure license, mpn, renew'
     - name: Marketplace 報酬
       href: marketplace-rewards.md
     - name: ソフトウェア アシュアランス
