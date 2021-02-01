@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925052"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098892"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN アカウントの所在地を管理し、新しい場所を追加する
 
@@ -47,6 +47,20 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
  >必ず、**新しい** CSP アカウントの **新しい** 資格情報でサインインするようにしてください。 既存の資格情報を使用しないでください。既にアカウントを持っているものとしてパートナー センターに認識されてしまいます。
 
 2. Microsoft Partner Agreement に同意し、アカウントをアクティブ化します。
+
+## <a name="view-your-mpn-locations"></a>MPN 所在地を表示する
+
+1. MPN アカウントの資格情報を使用して、パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。 (MPN の資格情報は、CSP の資格情報とは異なる場合があります) 
+ 
+1. **[設定]** アイコンで、 **[アカウント設定]** 、 **[組織プロファイル]** 、 **[Legal]\(法務\)** を選択します。 
+
+1. **[パートナー]** タブで、PMC から移行した場所の修正を求めるバナー エラー メッセージがないことを確認します。 存在する場合は、指示に従って、それらの場所を修正します。 
+
+3. エラー メッセージがない場合は、 **[設定]** で、 **[アカウント設定]** 、 **[組織プロファイル]** 、 **[識別子]** を選択します。
+
+4. この CSP アカウントの国と一致する "Location" という種類の MPN ID を見つけ、それを使用して以下の検索を行い、関連付けを完了します。
+
+5. 使用する CSP アカウントと一致する場所の MPN ID が見つからない場合は、新しい場所を追加して新しい MPN ID を作成できます。 下の「**MPN 所在地を追加する**」を参照してください。
 
 ## <a name="add-an-mpn-location"></a>MPN 所在地を追加する
 
