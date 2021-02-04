@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: アプリ開発コンピテンシーの除外
           href: app-dev-isv.md
+        - name: スキル レポートを使用する
+          href: mpn-skills-report.md
     - name: 高度な専門性
       items:
         - name: 専門知識の紹介

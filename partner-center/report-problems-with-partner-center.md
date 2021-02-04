@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983343"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530665"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>パートナーセンターで問題を報告し、ログまたは診断情報を送信する方法
 
@@ -53,7 +53,7 @@ ms.locfileid: "94983343"
 
 2. パートナーセンターは、サポートを提供しているかどうかを確認します。
 
-1. 予定をスケジュールすると、パートナーセンターからお客様に対して、サポートを受けることができるようにするための情報を含む予定表の招待状が送信されます。これにより、自分の作業カレンダーでこの予定を追跡できます。
+1. 予定をスケジュールすると、パートナーセンターからお客様に対して、サポートを受けることができるようにするための情報を含む予定表の招待状が送信されます。これにより、自分の作業カレンダーでこの予定を追跡できます。  この機能はまだプレビュー段階ですが、電子メールと予定表の招待は英語で表示されますが、お客様はチケットの作成時に選択した言語でサポートを受けることができます。
 
 :::image type="content" source="images/support/ticket3.png" alt-text="日付と時刻":::
 
@@ -87,6 +87,6 @@ ms.locfileid: "94983343"
 
 パートナー サポートでは、最新情報を取得できるように、このツールを複数回実行することを要求する場合があります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客に代わってサービスの問題を報告する](report-problems-on-behalf-of-a-customer.md)

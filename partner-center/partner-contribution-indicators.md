@@ -1,7 +1,7 @@
 ---
 title: パートナー貢献度インジケーター-CBA
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーがシルバーまたはゴールドのクラウド Business Applications コンピテンシーを実現する方法を示す7つのパートナー貢献度インジケーター (PCI) について説明します。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204072"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530818"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>パートナー貢献指標を使用してクラウド Business Applications コンピテンシーを獲得する
 
@@ -125,7 +125,7 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 | PCI メトリック | 業績評価指標: 純利益 | 業績評価指標: 新規顧客の追加 | 機能インジケーター: 機能コンサルタント | 機能インジケーター: 機能コンサルタントの成長 | 機能インジケーター: 開発者 | 顧客の成功インジケーター: 新しい大規模な展開 | 顧客の成功インジケーター: 月単位のアクティブなユーザーの成長 |
 |---|---|---|---|---|---|---|---|
 | **最大ポイント数** | 10ポイント | 10ポイント | 15ポイント | 15ポイント | 5つのポイント | 20ポイント | 25ポイント |
-| **確立** | $300,000 | 10 | 10 | *\* 注を参照* | 5 | 5 | 25% |
+| **確立** | $300,000 | 10 | 15 | *\* 注を参照* | 5 | 5 | 25% |
 | **開拓** | $15万 | 5  | 5  |*\* 注を参照* | 2 | 1 | 25% |
 
 *\* 注: 拡張ターゲットは、ベースラインコンサルタントの数と、パートナーがポイントを取得するために使用する特定のオプションによって異なります。ポイントまたは各オプションの特定の拡張ターゲットを取得するためのオプションの詳細については、「 [関数コンサルタントの拡張の定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)」を参照してください。*
@@ -187,8 +187,8 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
   - 顧客エンゲージメントの対象製品には、Sales、Customer Service、Field Service、Project Service Automation、Marketing、Microsoft Relationship Sales、Plan 1、人材、エンタープライズチームメンバーなどがあります。
   - 財務および運用に適合する製品には、統合された操作、財務、サプライチェーン管理、小売、コマース、プラン2、Mixed Reality、人材、エンタープライズチームメンバーなどがあります。
 
-- 販売チャネルには、マイクロソフトエンタープライズ契約 (EA)、クラウドソリューションプロバイダー (CSP)、Web ダイレクトなどがあります。
-- マイクロソフトエンタープライズ契約の収益のみ: この収益には、契約の最初の年からの収益が含まれます。 2 年目および 3 年目から繰り返し発生する利益は含まれません。
+- 販売チャネルには、Enterprise Agreement (EA)、クラウドソリューションプロバイダー (CSP)、Web ダイレクトなどがあります。
+- Enterprise Agreement の収益のみ: この収益には、契約の最初の年からの収益が含まれます。 2 年目および 3 年目から繰り返し発生する利益は含まれません。
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>PCI メトリック #2 の定義-Net customer の追加
 
@@ -214,7 +214,7 @@ Net customer の追加は [パフォーマンス指標](partner-contribution-ind
   > [!NOTE]
   > 開発した市場と開発の詳細については、これらの [Microsoft Partner Network 定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)を参照してください。
 
-- 販売チャネルには、マイクロソフトエンタープライズ契約 (EA)、クラウドソリューションプロバイダー (CSP)、Web ダイレクトなどがあります。
+- 販売チャネルには、Enterprise Agreement (EA)、クラウドソリューションプロバイダー (CSP)、Web ダイレクトなどがあります。
 
 - 複数のパートナー/同じお客様またはお客様が Microsoft と直接連携している場合: 異なるサブスクリプションを使用して複数のパートナーが同じ顧客に関連付けられている場合や、お客様が既に Microsoft と直接連携している場合は、 **顧客の追加** と **顧客の損失** の計算が異なります。 これらの計算は次のようになります。
 
@@ -381,6 +381,6 @@ Net customer の追加は [パフォーマンス指標](partner-contribution-ind
 
 この領域の使用方法の詳細については、この記事の最後にあるリソースとビデオのコレクションを参照してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 Gold またはシルバークラウド Business Applications コンピテンシーの実現に関する PCI [トレーニングビデオと情報リソースを](https://partner.microsoft.com/asset/collection/pci-learn#/) さらにご覧ください。

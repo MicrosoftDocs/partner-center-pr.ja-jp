@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776806"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530835"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>潜在顧客の分析-対象顧客と潜在的な紹介を把握していることを確認する
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>潜在顧客を分析する - ターゲット顧客と見込みのある紹介を把握していることを確認する
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **適切なロール**
 
 - 紹介管理者
-
-**適用対象**
-
-- Marketplace の潜在顧客
-- 見込みのある潜在顧客
 
 参照の [**分析**] セクションの下にある [**潜在顧客**] ページでは、参照がどのように実行されているかを確認できます。 これらのメトリックを定期的に確認し、注意が必要な傾向や分野を特定し、ビジネス目標に向けて取り組んでください。
 
@@ -115,3 +110,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 > [!TIP]
 > 共同販売の機会がどのように実行されているかを確認するには、 [共同販売機会の洞察](referral-insights.md)に関するページをご覧ください。
+
+## <a name="next-steps"></a>次のステップ
+
+- [リードの管理](manage-leads.md)
