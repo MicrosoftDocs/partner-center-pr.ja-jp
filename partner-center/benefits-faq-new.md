@@ -1,7 +1,7 @@
 ---
 title: Microsoft Partner Network の利点に関する FAQ
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: Microsoft Partner Network の利点に関するポリシーについて質問が寄せられています。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349512"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552400"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Microsoft Partner Network の利点に関する FAQ
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349512"
 
 - MPN パートナー管理者
 
-
 次の記事では、MPN () パートナーの MPN メンバーシップ特典、コンピテンシー、および製品ライセンスに関する主な Microsoft Partner Network 質問に回答します。
+
+## <a name="responding-to-covid-19"></a>COVID への対応-19
+
+**Q.** **コンピテンシー記念日が予定されており、covid-19 に関連する影響のため、コンピテンシーの要件を満たすことができません。どうすればよいでしょうか。**
+
+A. コンピテンシー記念日が2021年1月1日から6月30日の間である場合、既存のコンピテンシーまたはコンピテンシー (Cloud Business Applications コンピテンシーを除きます) は、2022の次の記念日まで延長されます。 テストやパフォーマンスの要件を満たす必要はありませんが、引き続きコンピテンシー料金を支払うことになります。詳細については、 [ブログの投稿](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)を参照してください。
 
 ## <a name="membership"></a>メンバーシップ
 
@@ -140,18 +145,7 @@ A. パートナーのグローバルアカウントを通じて、パートナ�
 
 A. サポートされている可能性のあるリソースへのリンクについては、 [パートナーセンターのサポートセクション](https://partner.microsoft.com/support) にアクセスするか、必要に応じてパートナーサポートチームとチケットを開くことができます。
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>COVID-19 のオフセット効果に対するコンピテンシー拡張
+## <a name="next-steps"></a>次のステップ
 
-**Q: Microsoft は、手間を提供しているパートナーに支援を提供していますか。**
-
-A: 2020 年7月1日から年12月31日までのコンピテンシー記念日があるパートナーについては、お客様の既存のコンピテンシーまたはコンピテンシーを2021の次の記念日まで延長することになります。 パートナーは、この新しいプランを反映するために更新リマインダーを受け取ります。 パートナーは、30日の更新期間内にコンピテンシー料金を支払う必要があります。
-
-**Q: パートナーが30日間の更新期間を逃した場合はどうすればよいですか。**
-
-A: パートナーは、コンピテンシーを再アクティブ化し、リソースと特典へのアクセスを回復できます。そのためには、パートナーセンターの [メンバーシップの提供] ページで、契約日を最大30日間投稿します。 30日間の猶予期間が終了した場合、パートナーは、30日の更新期間が終了した後に COVID の上書きを許可するように要求の詳細を示すサポートチケットをパートナーセンターから送信する必要があります。
-
-詳細については、「 [MPN プランを更新](renew-mpn-offers.md)する」を参照してください。
-
-## <a name="next-steps"></a>次の手順
-
-- [Microsoft Partner Network の特典を見つける](mpn-find-benefits.md) 
+- [Microsoft Partner Network の特典を見つける](mpn-find-benefits.md)
+- [MPN プランの更新](renew-mpn-offers.md)
