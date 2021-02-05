@@ -118,6 +118,9 @@
     - name: Microsoft Partner Agreement - CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: 場所の管理
+      href: manage-locations.md
+      displayName: 'mpn, csp'
     - name: 間接プロバイダーはどのようにリセラーの MPA の採用を支援できるか
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,9 +200,6 @@
         - name: パートナー プロファイルの更新
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: 場所の管理
-          href: manage-locations.md
-          displayName: 'mpn, csp'
         - name: コントロール パネル ベンダーになる
           href: enroll-as-cpv.md
           displayName: csp
