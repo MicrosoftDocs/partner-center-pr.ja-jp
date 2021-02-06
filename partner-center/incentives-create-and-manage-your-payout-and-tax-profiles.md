@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492468"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624240"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>パートナーセンターでインセンティブの支払いと税金のプロファイルを作成および管理する
 
-**適用対象:**
-
-- パートナー センター
 
 **適切なロール:**
 
@@ -64,7 +61,7 @@ ms.locfileid: "97492468"
    - ドメインでのみログインできる場合は、 @onmicrosoft.com アカウント管理者に連絡して、Azure AD アカウントにドメインを追加してください。
    - **職場または学校** のアカウントまたは **個人のアカウント** を選択するように求められたら、[**職場または学校アカウント**] を選択します。
 
-2. 歯車アイコンを選択して [ **設定** ] メニューを開き、[ **パートナー設定**] を選択します。
+2. 歯車アイコンを選択して [ **設定** ] メニューを開き、[ **アカウント設定**] を選択します。
 
 3. [ **アカウント設定** ] メニューで、[ **支払いと税金**] を選択します。 
 
@@ -72,7 +69,7 @@ ms.locfileid: "97492468"
 
 1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインし、歯車アイコンを選択して [**設定**] メニューを開きます。 
 
-2. [ **パートナーの設定**] を選択し、[ **支払いと税金] セクション** を展開して、[ **支払いと税金のプロファイルの割り当て**] を選択します。 
+2. [ **アカウントの設定**] を選択し、[ **支払いと税金] セクション** を展開して、[ **支払いと税金のプロファイルの割り当て**] を選択します。 
    
    プログラムの一覧が表示されます。 プログラムの横にある矢印を選択すると、プロファイルの詳細が表示されます。 
 
@@ -150,6 +147,6 @@ ms.locfileid: "97492468"
 
 9. ポップアップメッセージで [ **確認** ] を選択します。 [ **支払いと税金の設定** ] ページに戻ります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [支払いと税金に関してよく寄せられる質問](payout-faq.md)

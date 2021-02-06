@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367176"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624053"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>教育、非営利団体、官公庁/自治体のユーザーといった特別な業界への販売
-
-**適用対象**
-
-- パートナー センター
 
 **適切なロール**
 
@@ -42,9 +38,9 @@ ms.locfileid: "89367176"
 
 次の手順は、間接プロバイダーおよびダイレクト請求パートナーにのみ適用されます。 間接リセラーは、認定された教育ユーザーに教育機関向けの特典を提供するために、間接プロバイダーに接続する必要があります。
 
-1. パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)で、ウィンドウの右上隅にある歯車アイコンを選択して、 **アカウント設定**を開きます。
+1. パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)で、ウィンドウの右上隅にある歯車アイコンを選択して、 **アカウント設定** を開きます。
 
-2. **[パートナー プロファイル]** の **[プログラム情報]** セクションで **[リセラーの資格]** を参照します。
+2. 使用している **プロファイル** で、[ **プログラム情報** ] セクションの [ **リセラーの資格** 情報] を探します。
 
 3. **[リセラーの資格]** が表示されていない場合は、特価プランの購入が認められていません。
 
@@ -54,7 +50,7 @@ ms.locfileid: "89367176"
 
 2. 顧客メニューの **[アカウント]** を選びます。 **[会社情報]** セクションの **[Special qualifications]** を参照します。
 
-3. **[特別な資格]** が **[なし]** に設定されていても、お客様が資格条件を満たしている場合は、顧客情報を**更新**して、そのお客様を対象に含めることができます。
+3. **[特別な資格]** が **[なし]** に設定されていても、お客様が資格条件を満たしている場合は、顧客情報を **更新** して、そのお客様を対象に含めることができます。
 
 ## <a name="where-to-find-special-offers"></a>特価プランの利用方法
 

@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795773"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623985"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>制限付きの直接請求機能と、CSP direct bill パートナーに必要な要件  
 
@@ -29,11 +29,11 @@ ms.locfileid: "92795773"
 
 ダイレクト請求パートナーテナントから直接請求機能へのアクセスが制限されているかどうかを確認するには、次の手順を実行します。
 
-1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+1. [パートナー センター ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
-2. **パートナー設定**  ->  **パートナープロファイル** にアクセスします。
+2. [ **Account settings**  ->  **Legal Profile**] にアクセスします。
 
-3. [ **プログラム情報** ] で、 **Microsoft Cloud ソリューションプロバイダーの状態** を探します。
+3. [ **プログラム情報**] で、 **Microsoft Cloud ソリューションプロバイダーの状態** を探します。
 
 4. プログラムの状態に "値が **制限** されている" ということは、直接請求先のパートナーのテナントによる直接請求の機能へのアクセスが制限されていることを意味します。
 
@@ -62,13 +62,13 @@ CSP プログラムで [azure パートナー共有サービスプラン](shared
     >[!Note] 
     >新しいアドオンは新規購入として扱われるため、既存のサブスクリプションに追加することはできません。
 
-- 新しい Azure リソースのデプロイと、既存の Azure リソースの管理は、既存の Azure サブスクリプションの下で行います。 これには、Azure marketplace と Visual Studio サブスクリプションで利用可能なリソースが含まれます。
+- 新しい Azure リソースのデプロイと、既存の Azure リソースの管理は、既存の Azure サブスクリプションの下で行います。 これには、Azure Marketplace と Visual Studio サブスクリプションで利用可能なリソースが含まれます。
 
 新規購入だけでなく、パートナー センターで次の直接請求機能にアクセスすることもできません。
 
-- 新しい顧客テナントを作成することはできません。 パートナーセンターの [ **顧客** ] ページにある [ **顧客の作成** ] オプションは使用できません。
+- 新しい顧客テナントを作成することはできません。 パートナーセンターの [**顧客**] ページにある [**顧客の作成**] オプションは使用できません。
 
-- 直接再販業者の関係を要求している顧客への招待を生成することはできません。 パートナーセンターの [ **顧客** ] ページにある [ **再販業者の関係を要求する** ] オプションは使用できません。
+- 直接再販業者の関係を要求している顧客への招待を生成することはできません。 パートナーセンターの [**顧客**] ページにある [**再販業者の関係を要求する**] オプションは使用できません。
 
     >[!NOTE]
     >直接請求パートナーから間接リセラーへの移行の一環として、直接請求パートナーテナントを間接リセラーとして既に登録している場合は、代わりに間接再販業者の関係を要求する顧客への招待を生成できます。

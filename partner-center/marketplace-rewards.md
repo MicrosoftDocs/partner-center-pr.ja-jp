@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114164"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624257"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>パートナーセンターで Marketplace の特典を管理して、マーケティング、販売、および技術的な特典を有効に &
 
@@ -26,11 +26,11 @@ ms.locfileid: "87114164"
 
 マイクロソフトの商用マーケットプレースにソフトウェアプランを公開すると、Marketplace の特典により、マーケティング、販売、および技術的な利点を含むすべてのプランを対象としたサポートが提供されます。
 
-Marketplace 報酬の適格性は、PGA MPN company にリンクされているすべての発行元プロファイルに基づいて計算されます。 Marketplace の報奨プログラムの資格を確認するには、パートナーセンターの[marketplace の特典](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)に関するページを参照してください。
+Marketplace 報酬の適格性は、PGA MPN company にリンクされているすべての発行元プロファイルに基づいて計算されます。 Marketplace の報奨プログラムの資格を確認するには、パートナーセンターの [marketplace の特典](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)に関するページを参照してください。
 
 ## <a name="sales-and-marketing-benefits"></a>売上とマーケティングの利点
 
-1. パートナーセンターの[ダッシュボード](https://partner.microsoft.com/dashboard)で、Marketplace の特典ページの [ **Sales and Marketing 特典**] タブを選択して、特典の一覧を表示します。 
+1. パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)で、Marketplace の特典ページの [ **Sales and Marketing 特典** ] タブを選択して、特典の一覧を表示します。 
 
 2. 販売とマーケティングのベネフィットを有効にするには、最初に会社のマーケティングの連絡先を割り当てる必要があります。 この連絡先には、Marketplace Rewards に関するフォローアップ通信が送られます。
 
@@ -60,11 +60,11 @@ Marketplace の報酬情報は、パートナーセンターアカウントの�
 
 1. 全体管理者またはアカウント管理者として、パートナーセンターの PGA にサインインします。
 
-2. [**設定**] (右上)、[**パートナーの設定**]、[**テナント**] の順に選択します。 
+2. [ **設定** ] (右上)、[ **アカウントの設定**]、[ **テナント**] の順に選択します。 
 
-3. [**別の Azure AD テナントに関連付ける**] を選択し、PGA に関連付ける Azure AD テナントを選択します。
+3. [ **別の Azure AD テナントに関連付ける** ] を選択し、PGA に関連付ける Azure AD テナントを選択します。
 
-4. 関連付ける Azure AD テナント内の任意のユーザーのユーザー名とパスワードを追加し、[**送信**] を選択します。
+4. 関連付ける Azure AD テナント内の任意のユーザーのユーザー名とパスワードを追加し、[ **送信**] を選択します。
 
 5. パートナーセンターからサインアウトし、PGA に関連付けたテナントのユーザー名とパスワードを使用してサインインします。
 

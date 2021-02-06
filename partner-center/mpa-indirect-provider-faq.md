@@ -1,7 +1,7 @@
 ---
 title: リセラーが Microsoft パートナー契約を採用するために間接プロバイダーがどのように役立つか-FAQ
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft パートナー契約に関する重要な質問
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e1848ae63756141e43c980b8910ce556b6ffb32
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530852"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624291"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>間接リセラーが Microsoft パートナー契約 (MPA) に同意するために間接プロバイダーがどのように役立つか
 
@@ -104,8 +104,6 @@ ms.locfileid: "99530852"
 
 Location MPN ID に関連付けられている CSP アカウントを使用すると、間接プロバイダーを操作したり、顧客を管理したり、インセンティブを獲得したりすることができます。
     
-- [クラウド ソリューション プロバイダー プログラムの概要](csp-overview.md)
-
 - [CSP 向け Microsoft Partner Agreement (MPA)](microsoft-partner-agreement.md)
 
 - [CSP プログラムで間接プロバイダーを操作する](indirect-reseller-tasks-in-partner-center.md)
@@ -134,6 +132,39 @@ Location MPN ID に関連付けられている CSP アカウントを使用す�
 
 **回答** MPN アカウントの資格情報を使用してパートナーセンターにサインインします (MPN と CSP のログイン資格情報は異なる場合があります)。 [**設定**] で、[**アカウント設定**] [  ->  **組織プロファイル**  ->  **識別子**] を選択して、MPN id を表示します。 新しい MPN location/子会社を追加するには、[ **法的プロファイル** ] に移動し、[ **場所の追加**] をクリックします。
 
+## <a name="questions-about-csp-regional-authorization"></a>CSP リージョンの承認に関する質問
+
+#### <a name="what-is-a-csp-region"></a>CSP リージョンとは何ですか。
+
+**回答** CSP リージョンは、CSP ビジネスを実行できる1つ以上の国で構成されます。 ビジネスには、たとえば、間接プロバイダーの操作、顧客との接続、アクションのやり取り、インセンティブの提供などが含まれます。 CSP リージョンでビジネスを行うには、少なくとも1つの CSP アカウント (office 365 職場アカウント) が必要です。 [CSP リージョン](regional-authorization-overview.md)の詳細については、こちらをご覧ください。
+
+CSP 間接リセラーの場合は、同じリージョンの間接プロバイダーと提携する必要があり、同じリージョン内の顧客にのみ販売できます。
+
+#### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>MPN ID をテナントに関連付けることができないのはなぜですか。
+
+**回答**  MPN ID をテナントに関連付けることができず、エラーが表示される場合は、MPN ID とテナントが同じ国に含まれていないことを意味します。 関連付けを機能させるには、両者が同じ国に存在する必要があります。 これは、Microsoft インセンティブが国ごとおよび MPN ID レベルごとに支払われるためです。 たとえば、フランスで CSP アカウントを使用している場合は、購入したインセンティブを取得するために、フランスにも MPN 場所 (MPN ID) が必要です。 英国の MPN ID 同じ CSP リージョンにある場合でも、は機能しません。 
+
+これを解決するには、CSP の国と同じ国に MPN の場所を作成します。 詳細については、 [MPN の場所の管理](manage-locations.md)方法に関するページを参照してください。
+
+#### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>フランスの CSP 間接リセラーアカウントを持っています。 ドイツの間接プロバイダーと提携することはできますか。
+
+**回答** うん。 Csp 間接リセラーアカウントが CSP リージョンでアクティブになると、同じアカウントを使用してリージョン全体でビジネスを行うことができます。 [CSP リージョン](regional-authorization-overview.md)の詳細については、こちらをご覧ください。
+
+#### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>私は米国の間接リセラーです。 英国の間接プロバイダーと提携することはできますか。
+
+**回答** 違います。 CSP は、地域別プログラムです。 間接リセラーと間接プロバイダーの両方の CSP アカウントは、ビジネスを行うために同じ CSP リージョンに存在する必要があります。 これを解決するには、欧州地域で新しい CSP アカウントを作成し、CSP アカウントの国と同じ国に MPN の場所を作成して、間接プロバイダーからの関係要求を受け入れる必要があります。 たとえば、フランスで CSP 間接再販業者アカウントを作成し、フランスで MPN の場所を作成し、その後、フランスまたは CSP 欧州地域のその他の国のいずれかの間接プロバイダーからの招待を受け入れることができます。
+
+#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>パートナーセンターでは、複数の MPN と CSP アカウントを使用できますか。
+
+**回答** 会社が行っている業務の CSP リージョンに応じて、1つの MPN アカウント (サインイン) と1つまたは複数の CSP アカウント (サインイン) のみを使用できます。 たとえば、米国 (子会社)、英国 (子会社)、およびオーストラリア (子会社) の場所を使用して、MPN アカウントを米国 (HQ) に配置することができます。
+米国では、MPN アカウントと同じサインイン資格情報を持つ CSP アカウント (Office 365 職場アカウント) を1つ持つことができます。 英国では2番目の CSP アカウントを使用できます。 欧州地域で CSP ビジネスを管理するために異なるサインイン資格情報を持っています。また、オーストラリアの3つ目は、オーストラリアの CSP ビジネスを管理するために、別の2つのサインイン資格情報を持っています。
+
+これら3つの CSP アカウントはすべて、ビジネスを実行し、それらの子会社でインセンティブを獲得するために、MPN ID ロケーションアカウントに関連付けられている必要があります。 MPN コンピテンシーと特典は、MPN アカウントによってのみ管理できます。
+
+#### <a name="i-am-a-csp-indirect-reseller-in-us-and-want-to-expand-my-business-to-europe-what-do-i-need-to-do-in-partner-center"></a>米国の CSP 間接リセラーであり、ビジネスをヨーロッパに拡張したいと思っています。 パートナーセンターで何を行う必要がありますか?
+
+**回答** ビジネスを実行する国には MPN の場所が必要であり、その同じ国の CSP 間接リセラープログラムに登録する必要があります。 新しい [MPN の場所と CSP](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business)の登録の作成に関する詳細を表示します。
+
 ## <a name="question-about-migrating-your-mpn-account-from-pmc-to-partner-center"></a>PMC からパートナーセンターへの MPN アカウントの移行に関する質問
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>パートナーメンバーシップセンターからパートナーセンターに MPN アカウントを移行します。 どうすればよいですか。 PMC に MPN 管理者がいることを確認できません。移行するにはどうすればよいですか。 
@@ -142,10 +173,7 @@ Location MPN ID に関連付けられている CSP アカウントを使用す�
 
 MPN アカウントを移行した後に、MPA に署名する方法の詳細については、「microsoft-パートナーアグリーメント」を参照してください。「」を参照してください。これは、ステップバイステップガイドです。これは、その中の適切なものです。
 
-問題が発生した場合は、パートナーセンター内から [サポートチケット](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) を生成してください。 
-
-
-
+問題が発生した場合は、パートナーセンター内から [サポートチケット](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) を生成してください。
 
 #### <a name="how-do-i-check-if-my-mpn-id-is-migrated-into-partner-center"></a>MPN ID がパートナーセンターに移行されているかどうかを確認操作方法ますか?
 
@@ -161,6 +189,7 @@ MPN アカウントを移行した後に、MPA に署名する方法の詳細に
 #### <a name="i-enrolled-in-mpn-program-and-as-a-csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-is-in-rejected-state-what-should-i-do"></a>MPN プログラムに登録し、CSP 間接リセラープログラムとして登録しましたが、その法的ビジネスプロファイルの検証の状態は [拒否] になっています。 どうすればよいですか。
 
 **回答** [ **更新**] をクリックして、有効なプロファイル情報を更新する必要があります。 続行する前に、次の記事をお読みください。
+
 - [アカウント情報を確認する](verification-responses.md#what-is-verified-and-how-to-respond)
 
 - [組織プロファイルを確認する](update-your-partner-profile.md)
