@@ -129,7 +129,7 @@
       displayName: 'indirect, reseller, csp'
     - name: Microsoft 顧客契約 (地域、言語別)
       href: agreements.md
-      displayName: 'regio, region'
+      displayName: 'regio, region, MPA'
     - name: 制限付きの直接請求アクセス
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
