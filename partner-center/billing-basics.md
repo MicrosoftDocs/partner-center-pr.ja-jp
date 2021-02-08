@@ -1,7 +1,7 @@
 ---
 title: パートナー センターでの請求の概要
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: パートナー センターでの CSP パートナーに対する基本的な請求と請求書について説明します。 顧客への請求方法と、請求書の探し方と読み方についても説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570707"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042720"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>パートナー センターを使用する CSP プログラム パートナーのための請求の概要 
 
@@ -53,7 +53,7 @@ Microsoft では、パートナー独自の請求方法に関する要件や条�
 
 **ライセンス ベースおよび使用料ベースの請求**:製品に対する請求は、パートナーの所在する国または地域の通貨で行われます。 パートナーが製品を販売した顧客の所在地に関係なく、同じ料金が請求されます。
 
-**1 回限りの請求**:請求書は顧客の通貨のコンテキストで生成されます。 したあって、請求対象の通貨が異なる顧客と取引を行うパートナーの場合、顧客の通貨の種類ごとに請求書を受け取ることになります。 [1 回限りの請求および定期請求](azure-plan-billing.md)の詳細については、こちらを参照してください。 
+**1 回限りの請求**:2021 年 1 月 28 日以降、EU と EFTA および英国のリージョンのパートナーは、新規の顧客および 2020 年 5 月 11 日より前にテナントを作成した既存の CSP の顧客が初めて新しいコマース オファーを購入した場合、それらの購入についてはパートナーの場所の通貨で課金されます。  EU と EFTA および英国リージョン以外のパートナーは、引き続きパートナーの場所の通貨で課金されます。 [1 回限りの請求および定期請求](azure-plan-billing.md)の詳細については、こちらを参照してください。 
 
 ## <a name="invoices"></a>請求書
 
@@ -86,6 +86,8 @@ Microsoft では、パートナー独自の請求方法に関する要件や条�
 支払期間は正味 60 日です。 請求書の期限 (請求日から 60 日) までに支払う必要があります。それを過ぎると、アカウントは延滞になり、CSP での登録に影響する可能性があります。 
 
 支払い期限の過ぎた未払い額を支払うと、中断されているアカウントのすべての機能を復旧できます。
+
+修正された請求情報が提供された後、5 営業日以内にパートナー センターの請求ページに支払いが表示されます。
 
 ### <a name="taxes-and-vat"></a>税金と VAT
 

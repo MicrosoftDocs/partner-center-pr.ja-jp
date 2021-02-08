@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658435"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924991"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP の新しいコマース エクスペリエンス - Azure の請求 
 
@@ -36,7 +36,7 @@ ms.locfileid: "98658435"
 
 - **請求書の支払い条件**:請求日から 60 日以内。
 
-- **請求書の通貨**:パートナーには、顧客の国の割り当て通貨で引き続き請求されます。 たとえば、請求先パートナーの拠点がアイルランドにあり、顧客が英国、ノルウェー、およびドイツに住んでいる場合、請求先パートナーは英国ポンド、ノルウェー クローネ、およびユーロの請求書/調整を受け取ります。
+- **請求書の通貨**:2021 年 1 月 28 日以降、EU と EFTA および英国のリージョンのパートナーは、新規の顧客および 2020 年 5 月 11 日より前にテナントを作成した既存の CSP の顧客が初めて新しいコマース オファーを購入した場合、それらの購入についてはパートナーの場所の通貨で課金されます。 EU と EFTA および英国リージョン以外のパートナーは、引き続きパートナーの場所の通貨で課金されます。
 
 - **パートナー インセンティブ**:請求月の末日から 45 日以内に支払われます。
 

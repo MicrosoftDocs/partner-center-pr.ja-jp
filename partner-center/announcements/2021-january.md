@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/28/2021
+ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717830"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098875"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月のお知らせ
 
@@ -24,8 +24,166 @@ ms.locfileid: "98717830"
 
 2020 年のお知らせ:[5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | [11 月](2020-november.md) | [12 月](2020-december.md)  
 
+_____________ 
+
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a>フェーズ 1 現在公開中: EU と EFTA および英国での新しいコマース オファーに関するパートナー請求通貨の変更
+
+### <a name="categories"></a>Categories
+
+- 日付:2021 年 1 月 28 日
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+- EU と EFTA および英国のクラウド ソリューション プロバイダー プログラムを通じて取引を行うすべてのパートナー
+
+### <a name="details"></a>詳細
+
+欧州連合 (EU) と欧州自由貿易協会 (EFTA) および英国 (UK) では、クラウド ソリューション プロバイダー プログラムでのすべての新しいコマース オファーについて、顧客の請求場所ではなく、パートナーの請求場所が使用されるようになります。 そのため、Microsoft による請求は、顧客の所在地の通貨ではなく、パートナーの所在地の通貨に基づいて行われれます。 これらの変更は、次の 2 つのフェーズで実行されます。
+
+**フェーズ 1:**
+
+- CSP で新しいコマース プランを購入した新しい顧客
+
+- 既存の顧客による新しいコマース プランの初めての購入 - 2020 年 5 月 11 日より前に作成されたテナント
+
+2021年 1 月 28 日以降、まったく新しい顧客が新しいコマース プランを購入するパートナー、または 2020 年 5 月 11 日より前にテナントを作成した既存の顧客が新しいコマース プランを初めて購入するパートナーには、それらの購入に対する請求がパートナーの場所の通貨で行われます。  
+
+既存の顧客が CSP で新しいコマース プランを既に購入しているパートナーの場合は、このフェーズの間は、引き続き顧客の請求場所の通貨で課金されます。 さらに、テナントを 2020 年 5 月 11 日以降に作成した既存の顧客が、新しいコマース プランを初めて購入した場合、そのパートナーへの請求は引き続き顧客の通貨で行われます。
+
+**フェーズ 2:**
+
+- フェーズ 1 より前に CSP で新しいコマース プランを既に購入していた既存の顧客
+- 既存の顧客による新しいコマース プランの初めての購入 - 2020 年 5 月 11 日以降に作成されたテナント
+
+フェーズ 1 の後、2021 年を通して、Microsoft は、フェーズ 1 より前に CSP で新しいコマース プランを購入した既存の顧客、および 2020 年 5 月 11 日以降にテナントを作成した顧客がいるパートナーに対する新しいコマース プランの請求を、顧客の所在地の通貨から、パートナーの所在地の通貨に移行します。 パートナーには、この変更が実施される前に通知されます。
+
+フェーズ 2 の後、EU と EFTA および英国のパートナーに対する、すべての顧客およびすべての CSP の購入についての請求は、パートナーの場所の通貨で行われます。
+
+>[!NOTE]
+>この変更による影響があるのはパートナーの請求通貨だけであり、CSP での新しいコマース プランの価格には影響ありません。 この変更の対象となる新しいコマース オファーは次のとおりです。Azure プランの一部である Azure のサブスクリプション、Azure の予約、サーバーのサブスクリプション、永続的なソフトウェア、およびクラウド ソリューション プロバイダー プログラムでの Microsoft コマーシャル マーケットプレースの購入。
+
+### <a name="partner-benefits"></a>パートナーの特典
+
+この更新により、EU と EFTA および英国において、新しいコマース エクスペリエンスでの複数の通貨による請求に関する複雑さとオーバーヘッドが軽減されます。
+
+- パートナーは、1 つの通貨にまとめられた請求書を受け取るようになり、顧客の所在地の通貨ごとに請求書を受け取ることはなくなります
+- インセンティブの支払いは、パートナーの請求書の通貨と同じ通貨で行われます
+- パートナーは、複数の通貨での請求に伴う複雑さが軽減されるため、現在はアカウントの調整に取られている時間とリソースが解放されます
+- 新しいコマース プランをまだ採用していないパートナーの場合、この変更により以前のパートナー請求モデルと一致するようになり、パートナーは CSP の新しいコマース エクスペリエンスにいっそう簡単に移行できます
+
+### <a name="next-steps"></a>次のステップ
+
+このトピックについての情報は、Microsoft パートナー Web サイトの[オペレーション ギャラリー](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (サインインが必要) で確認してください。  
+
+### <a name="questions"></a>わからないことがある場合は、
+
+このお知らせに関する質問は、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (サインインが必要) にお問い合わせください。
+
+### <a name="change-log"></a>ログの変更
+
+- 2020 年 11 月 17 日:初版の発行日
+- 2021 年 1 月 7 日:フェーズ 1 およびフェーズ 2 に含まれる追加のシナリオ
+- 2021 年 1 月 28 日: 
+    -    発表フェーズ 1 が有効です 
+    -    英国は EU と EFTA に含まれないが、[Microsoft のヨーロッパの地域と市場](https://docs.microsoft.com/partner-center/regional-authorization-overview)の一部であり、影響を受けることを明記
+
+
 ________________
-## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> パートナー センターの監査ログに、DAP 向けの新しい 2 種類の操作が含まれるようになりました
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> クラウド ソリューション プロバイダー (CSP) のお客様のオンボード要件の変更
+
+### <a name="categories"></a>カテゴリ
+
+- 日付:2021 年 1 月 28 日
+- セキュリティとコンプライアンスの強化
+
+### <a name="impacted-audience"></a>対象
+
+次のセクションに記載されている国に新規または既存の顧客がいる CSP 直接請求パートナーおよび間接プロバイダー。
+
+### <a name="summary"></a>まとめ
+
+パートナーと顧客が信頼に基づいて取引できるように支援する責任の一環として、Microsoft では 2021 年 3 月末から、追加の顧客情報を要求いたします。
+
+### <a name="details"></a>詳細
+
+Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムでの顧客サブスクリプションの取引について、顧客検証のための法令に準拠した安全な手段の提供に努めています。 2021 年 3 月末に、パートナー センター API とユーザー インターフェイス (UI) の拡張機能を導入する予定です。これにより、以下の条件の両方を満たすパートナーに影響があります。
+
+1. Microsoft の間に直接請求関係があるパートナー (つまり、直接請求パートナーまたは間接プロバイダーのいずれかであるパートナー)
+2. パートナーは、次の国の新規または既存の顧客と取引があります:
+    - タイ
+    - ベトナム
+    - トルコ
+    - ポーランド
+    - 南アフリカ
+    - インド
+    - ブラジル
+    - イラク
+    - ミャンマー
+    - 南スーダン
+    - サウジアラビア
+    - アラブ首長国連邦
+    - ベネズエラ
+
+条件を満たすパートナーは、新しい顧客をオンボードするとき、または既存の顧客の詳細を変更するときに、顧客の **有効な識別子** (顧客の **組織 INN** とも呼ばれます) と **電話番号** を提出する必要があります。 また、これらのパートナーは、必要に応じて、顧客の **ミドル ネーム** を入力することができます。
+
+以下の国で新規または既存の顧客との取引を行っているパートナーは、先行する 2020 年 11 月のリリースで既にオンボードされています。
+
+- アルメニア
+- アゼルバイジャン
+- ベラルーシ
+- ハンガリー
+- カザフスタン
+- キルギスタン
+- モルドバ
+- ロシア
+- タジキスタン
+- ウクライナ
+- ウズベキスタン
+
+その他の地域の顧客と提携しているパートナーは、2021 年 3 月末に、顧客の **有効な識別子**、**電話番号**、**ミドル ネーム** を詳細情報として必要に応じて入力できるようになります。
+
+### <a name="next-steps"></a>次のステップ
+
+- 詳細なガイダンスについては、専用の[パートナー コレクション](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (サインインが必要) で、テクニカル ドキュメントとよく寄せられる質問を参照してください。
+- パートナー センター API と Web ユーザー エクスペリエンスを使用して、変更を組み込む準備をしてください。 API または SDK はテストに使用できます。
+- 新しい顧客をオンボードする場合や、既存の顧客の詳細情報を変更する場合は、必ず追加データを提出してください。
+- コントロール パネル ベンダー (CPV) ソリューションを使用している場合は、CPV とご相談ください。
+
+### <a name="questions"></a>わからないことがある場合は、
+
+有効な識別子 (INN または TIN とも呼ばれます) に関するご質問がある場合は、税務顧問または現地の税務署にお問い合わせください。 Microsoft では、税務に関するガイダンスを提供できません。
+
+Microsoft による操作にサポートが必要な場合は、[サービス要求を開きます](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (サインインが必要)。
+
+________________
+## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft Partner Agreement (MPA) – 間接リセラーの更新および新規の FAQ 
+
+### <a name="categories"></a>カテゴリ
+
+- 日付:2021 年 1 月 27 日
+- 機能
+ 
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行うすべての間接リセラーと間接プロバイダー。
+
+### <a name="details"></a>詳細
+
+間接リセラー向けの Microsoft Partner Agreement (MPA) の実装は現在進行中です。 プロバイダーとリセラーのサポートを強化するため、パートナーからのフィードバックを検討し、MPA の承認方法に関する一般的な質問を、新しい[よく寄せられる質問のページ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)に統合しました。
+
+### <a name="next-steps"></a>次のステップ
+
+**間接リセラー:** MPA に同意していない場合は、[MPA に関する FAQ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) を確認し、[こちら](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)で説明されている手順に従って MPA に同意します。
+
+**間接プロバイダー:** 間接リセラーと協力し、[MPA に関する FAQ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) と[こちら](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)で説明されている手順を使用して、リセラーをサポートします。
+
+### <a name="questions"></a>わからないことがある場合は、
+
+このお知らせに関する質問は、[パートナー センター サポート](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4)にお問い合わせください
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> パートナー センターの監査ログに、DAP 向けの新しい 2 種類の操作が含まれるようになりました
 
 ### <a name="categories"></a>Categories
 
@@ -57,7 +215,7 @@ ________________
 さらにご質問がある場合は、関連する CSP Yammer コミュニティをご確認ください。
 
 ________________
-## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Azure 向けの CSP の新しいコマース エクスペリエンスに関連した、CSP での Azure オファーの提供状況に対する変更
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> Azure 向けの CSP の新しいコマース エクスペリエンスに関連した、CSP での Azure オファーの提供状況に対する変更
 
 ### <a name="categories"></a>Categories
 
@@ -143,7 +301,7 @@ Azure 向けの新しいコマース エクスペリエンスの利用を促進�
 このお知らせに関するご質問は、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)にお問い合わせください。
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> クラウド ソリューション プロバイダー プログラムで永続的ソフトウェアが一般提供されるようになりました
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a> クラウド ソリューション プロバイダー プログラムで永続的ソフトウェアが一般提供されるようになりました
 
 ### <a name="categories"></a>Categories
 
@@ -171,7 +329,7 @@ ________________
 さらにご質問がある場合は、関連する CSP Yammer コミュニティをご確認ください。
 
 _____________
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> リマインダー:パートナー センター API を呼び出すパートナーに対する API スロットリングの導入 
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> リマインダー:パートナー センター API を呼び出すパートナーに対する API スロットリングの導入 
 
 ### <a name="categories"></a>Categories
 
@@ -220,7 +378,7 @@ Microsoft は、パートナー センター API を呼び出すパートナー�
 
 _____________
 
-## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>2021 年 2 月 1 日、セキュリティ、コンプライアンス、および ID (SCI) を提供開始 
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="8"></a>2021 年 2 月 1 日、セキュリティ、コンプライアンス、および ID (SCI) を提供開始 
 
 ### <a name="categories"></a>Categories
 
@@ -280,7 +438,7 @@ Microsoft 365 E5 の必須ソフトウェアで利用可能なアドオンによ
 
 _____________ 
 
-## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>Microsoft Partner Agreement (MPA) に基づいたパートナー向けの Adobe Sign への DocuSign 移行 
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>Microsoft Partner Agreement (MPA) に基づいたパートナー向けの Adobe Sign への DocuSign 移行 
 
 ### <a name="categories"></a>Categories
 
@@ -326,7 +484,7 @@ Adobe Sign は Microsoft の優先電子署名ソリューション (ESS) です
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7">ノルウェー クローネでの商用価格の更新</a> 
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6">ノルウェー クローネでの商用価格の更新</a> 
 
 ### <a name="categories"></a>Categories
 
@@ -344,7 +502,7 @@ _____________
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>インド ルピーについて、商用顧客向け価格の更新 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>インド ルピーについて、商用顧客向け価格の更新 
 
 ### <a name="categories"></a>Categories
 
@@ -363,7 +521,7 @@ Microsoft は、インドおよびアジア地域における商用ソフトウ�
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>2021 年 2 月 1 日の通話プランおよび電話システムの更新
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>2021 年 2 月 1 日の通話プランおよび電話システムの更新
 
 ### <a name="categories"></a>Categories
 
@@ -403,7 +561,7 @@ Microsoft 365 E1、E3、E5 プラン向けのアドオン バンドル プラン
 
 _____________ 
 
-## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>2021 年 1 月のライセンスベースの価格表の更新 
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="3"></a>2021 年 1 月のライセンスベースの価格表の更新 
 
 ### <a name="categories"></a>Categories
 
@@ -438,69 +596,6 @@ _____________
 
 - パートナーは、パートナー センターから最新の価格表ファイルをダウンロードして、1 月と 2 月の修正された価格を入手する必要があります。 
 - 影響を受けるテナントの、1 月 1 日から 1 月 6 日までの間にサブスクリプションを購入したグローバル管理者には、1 月末までに、パートナー センターからメールで詳細が通知されます。 
-
-_____________ 
-
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> EU および EFTA での新しいコマース プランに関するパートナー請求通貨の変更
-
-### <a name="categories"></a>Categories
-
-- 日付:2021 年 1 月 7 日
-- 機能
-
-### <a name="impacted-audience"></a>対象
-
-- EU および EFTA 地域のクラウド ソリューション プロバイダー プログラムを通じて取引を行うすべてのパートナー 
-
-### <a name="details"></a>詳細
-
-欧州連合 (EU) および欧州自由貿易協会 (EFTA) の地域では、クラウド ソリューション プロバイダー プログラムにおけるすべての新しいコマース オファーで、顧客の請求場所ではなく、パートナーの請求場所が使用されるようになります。 そのため、Microsoft による請求は、顧客の所在地の通貨ではなく、パートナーの所在地の通貨に基づいて行われれます。 これらの変更は、次の 2 つのフェーズで実行されます。
-
-**フェーズ 1:**
-
-- CSP で新しいコマース プランを購入した新しい顧客
-
-- 既存の顧客による新しいコマース プランの初めての購入 - 2020 年 5 月 11 日より前に作成されたテナント
-
-2021年 1 月 28 日以降、まったく新しい顧客が新しいコマース プランを購入するパートナー、または 2020 年 5 月 11 日より前にテナントを作成した既存の顧客が新しいコマース プランを初めて購入するパートナーには、それらの購入に対する請求がパートナーの場所の通貨で行われます。  
-
-既存の顧客が CSP で新しいコマース プランを既に購入しているパートナーの場合は、このフェーズの間は、引き続き顧客の請求場所の通貨で課金されます。 さらに、テナントを 2020 年 5 月 11 日以降に作成した既存の顧客が、新しいコマース プランを初めて購入した場合、そのパートナーへの請求は引き続き顧客の通貨で行われます。
-
-**フェーズ 2:**
-
-- フェーズ 1 より前に CSP で新しいコマース プランを既に購入していた既存の顧客
-- 既存の顧客による新しいコマース プランの初めての購入 - 2020 年 5 月 11 日以降に作成されたテナント
-
-フェーズ 1 の後、2021 年を通して、Microsoft は、フェーズ 1 より前に CSP で新しいコマース プランを購入した既存の顧客、および 2020 年 5 月 11 日以降にテナントを作成した顧客がいるパートナーに対する新しいコマース プランの請求を、顧客の所在地の通貨から、パートナーの所在地の通貨に移行します。 パートナーには、この変更が実施される前に通知されます。
-
-フェーズ 2 の後、EU および EFTA 地域のパートナーに対する、すべての顧客およびすべての CSP の購入についての請求は、パートナーの場所の通貨で行われます。
-
->[!NOTE]
->この変更による影響があるのはパートナーの請求通貨だけであり、CSP での新しいコマース プランの価格には影響ありません。 この変更の対象となる新しいコマース オファーは次のとおりです。Azure プランの一部である Azure のサブスクリプション、Azure の予約、サーバーのサブスクリプション、永続的なソフトウェア、およびクラウド ソリューション プロバイダー プログラムでの Microsoft コマーシャル マーケットプレースの購入。
-
-
-### <a name="partner-benefits"></a>パートナーの特典
-
-この更新により、EU/EFTA 地域における、新しいコマース エクスペリエンスでの複数の通貨による請求に関する複雑さとオーバーヘッドが軽減されます。
-
-- パートナーは、1 つの通貨にまとめられた請求書を受け取るようになり、顧客の所在地の通貨ごとに請求書を受け取ることはなくなります
-- インセンティブの支払いは、パートナーの請求書の通貨と同じ通貨で行われます
-- パートナーは、複数の通貨での請求に伴う複雑さが軽減されるため、現在はアカウントの調整に取られている時間とリソースが解放されます
-- 新しいコマース プランをまだ採用していないパートナーの場合、この変更により以前のパートナー請求モデルと一致するようになり、パートナーは CSP の新しいコマース エクスペリエンスにいっそう簡単に移行できます
-
-### <a name="next-steps"></a>次のステップ
-
-このトピックについての情報は、Microsoft パートナー Web サイトの[オペレーション ギャラリー](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (サインインが必要) で確認してください。  
-
-### <a name="questions"></a>わからないことがある場合は、
-
-このお知らせに関する質問は、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (サインインが必要) にお問い合わせください。
-
-### <a name="change-log"></a>ログの変更
-
-- 2020 年 11 月 17 日:初版の発行日
-- 2021 年 1 月 7 日:フェーズ 1 およびフェーズ 2 に含まれる追加のシナリオ
-
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>教育機関の顧客の検証プロセス用の、既存の GET および PUT Qualifications API が 2021 年 2 月末までに非推奨化および廃止

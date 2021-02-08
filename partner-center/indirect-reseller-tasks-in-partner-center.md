@@ -1,7 +1,7 @@
 ---
 title: CSP プログラムで間接プロバイダーを操作する
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 間接リセラーが Microsoft 間接プロバイダー (またはディストリビューター) と連携して、カスタマー サポートと課金に関する支援を受ける方法について説明します。
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
+ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773441"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99065473"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムで間接プロバイダーと連携する方法について説明します
 
@@ -76,30 +76,38 @@ CSP プログラムで間接リセラーとして販売を行うために必要�
    > [!IMPORTANT]  
    > マイクロソフトは貴社のセキュリティとプライバシーを確保するため、第一連絡先担当者に、(1) このメール アドレスの持ち主がパートナー センター アカウントに登録した本人であること、および (2) このメール アドレスが貴社に属していることをメールで確認します。 第一連絡先担当者と連絡が取れ、そのメール アドレスの正当性が確認された後、提供された情報が引き続き審査されます。 登録状態の更新は、第一連絡先担当者にメールで通知されます。
 
-5. MPN ID を Azure ID テナントに関連付けます。
+5. MPN ID を CSP アカウントに関連付けます。 自分の CSP アカウントとそれに関連付けられた MPN ID は同じ国に存在する必要があり、MPN ID はパートナー センターにある必要があります。
+  
 
-    1. 自分の MPN アカウントでサインインします。 **[設定]**  ->  **[アカウント設定]**  ->  **[組織プロファイル]**  ->  **[識別子]** に移動します。 自分の MPN ID を表示し、自分の CSP アカウントの国と同じ国のものを選択します。 つまり、自分の CSP アカウントとそれに関連付けられている MPN ID は、同じ国または地域にある必要があります。
-    
-     
+   a. 自分の "MPN" アカウントの資格情報を使用して、パートナー センターにサインインします (MPN の資格情報は、CSP の資格情報と異なる場合があります)。
+   
+   b. **[設定]**  ->  **[アカウント設定]**  ->  **[組織プロファイル]**  ->  **[識別子]** に移動します。
+ 
+    c. この CSP アカウントの国と一致する "Location" という種類の MPN ID を見つけます。 
+
+    d. 使用する CSP アカウントと一致する場所の MPN ID が見つからない場合は、新しい場所を追加して新しい MPN ID を作成できます。 詳細については、[場所の管理](manage-locations.md)に関するページを参照してください。
+
+    e. このステップは後で行ってもかまいませんが、MPN ID と CSP アカウントの関連付けが済むまで、Microsoft Partner Agreement (MPA) に署名したり、CSP で取引したりすることはできません。
+
  > [!IMPORTANT]  
-   > 自分の CSP アカウントと同じ国または地域にある MPN ID を選択します。
+ > パートナー センターで使用することができ、自分の CSP アカウントと同じ国に存在する MPN ID を選択して、MPN ID がパートナー センター内にあることを確認します。
 
-6. パートナー センター アカウントが使用可能になったら、貴社が管理エージェント グループに追加されていることを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
+6. Microsoft による登録の検証が完了した後 (3 から 5 営業日かかります)、[パートナー センター ダッシュボードの概要](https://partner.microsoft.com/pcv/dashboard/overview)で全体管理者の資格情報を使用して Microsoft Partner Agreement に署名します。 署名する前に **Microsoft Partner Agreement** を表示してダウンロードするには、次に示す Microsoft Partner Agreement のリンクをクリックします。  5 営業日が過ぎてもアカウントの検証が終わらない場合は、[アカウント検証プロセス](verification-responses.md)に関するページを参照してください。
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="新しい MPA 契約の場所":::
+
+ 
+7. パートナー プロファイルの **[プログラム情報]** セクションで、Microsoft Partner Agreement に署名したことを確認します。 また、CSP の [概要] ページに確認バナー通知が表示されます。 
+
+:::image type="content" source="images/mpagreen.png" alt-text="緑色の同意済みバナー":::
+
+
+8. パートナー センター アカウントが使用可能になったら、貴社が管理エージェント グループに追加されていることを確認します。 他のユーザーの追加などを行ってアカウントの設定を完了するには、管理エージェントのアクセス許可が必要です。 アクセス許可を表示または更新するには、次の手順を実行します
 
    1. パートナー センター ダッシュボードで **[設定]** アイコンを選択し、 **[Account settings]\(アカウントの設定\)** で **[ユーザー管理]** を選択します。
 
    2. ユーザーの一覧からご自分の名前を選択します。 **[管理エージェント]** がまだ選択されていない場合は選択します。 **[更新]** を選択します。
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>すべての間接リセラーが Microsoft Partner Agreement に署名する必要がある
-
-1.  Partner Membership Center からパートナー センターにまだ移行していない場合は、今すぐ移行します。 パートナー センターに移行するためのヘルプについては、「[PMC からパートナー センターに移行するためのガイド](guide-to-migration.md)」をご覧ください。 
-
-2.  パートナー センターのメンバーシップ アカウント (MPN ID) を既にお持ちの場合でも、クラウド ソリューション プロバイダー プログラムに正式に登録する必要があります。 メンバーシップの状態を調べるには、[**パートナー プロファイル**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)にアクセスしてアカウントの種類を確認してください。 その後、[間接リセラーとして CSP に登録します](enrolling-in-the-csp-program.md)。 間接リセラーとして登録したら、[間接プロバイダーからの CSP 関係のリクエスト](indirect-reseller-tasks-in-partner-center.md)に同意します。
-
-3.  既に間接リセラーとしてパートナー センターに登録している場合は、[パートナー センター ダッシュボードの概要](https://partner.microsoft.com/pcv/dashboard/overview)でグローバル管理者の資格情報を使用して Microsoft Partner Agreement に同意します。 パートナー プロファイルの **[プログラム情報]** セクションで、Microsoft Partner Agreement に署名したことを確認します。 また、CSP の [概要] ページに確認バナー通知が表示されます。 
-
-:::image type="content" source="images/mpagreen.png" alt-text="緑色の同意済みバナー":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>間接プロバイダーと連携する
 
@@ -145,3 +153,4 @@ CSP 間接リセラーとしての法律上の事業拠点により、共に作�
 - [検証プロセスに関する詳細情報](verification-responses.md)
 
 - [直接請求パートナーの要件に関する情報](direct-partner-new-requirements.md)
+- [Microsoft Partner Agreement](microsoft-partner-agreement.md)

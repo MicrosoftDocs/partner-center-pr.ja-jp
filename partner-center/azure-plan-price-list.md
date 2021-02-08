@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534728"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924964"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 向けの CSP の新しいコマース エクスペリエンスの価格表
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534728"
 - 販売代理店
 - ユーザー管理の管理者
 
-CSP の新しい Azure コマース エクスペリエンスの価格表は、パートナー センターに掲載されます。 価格表は、動的に配信されるリアルタイムの正確なファイルであり、価格は米国ドルでのみ表示されます。 ただし、請求については、顧客の所在地の通貨に適用される、サポートされている通貨で行われます。 顧客の所在地での通貨による請求の詳細については、「[Azure プラン - 請求](azure-plan-billing.md)」を参照してください。
+CSP の新しい Azure コマース エクスペリエンスの価格表は、パートナー センターに掲載されます。 価格表は、動的に配信されるリアルタイムの正確なファイルであり、価格は米国ドルでのみ表示されます。 2021 年 1 月 28 日以降、EU と EFTA および英国のリージョンのパートナーは、新規の顧客および 2020 年 5 月 11 日より前にテナントを作成した既存の CSP の顧客が初めて新しいコマース オファーを購入した場合、それらの購入についてはパートナーの場所の通貨で課金されます。  EU と EFTA および英国リージョン以外のパートナーは、引き続きパートナーの場所の通貨で課金されます。「[Azure プラン - 請求](azure-plan-billing.md)」を参照してください。
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Azure プランのサブスクリプションに対する価格を確認する
 

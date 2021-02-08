@@ -1,7 +1,7 @@
 ---
 title: Microsoft Gold および Silver コンピテンシーの要件
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gold および Silver のメンバーシップ レベルを獲得するためのコンピテンシー要件を満たすことにより、優良な Microsoft パートナーの状態を獲得し、新しい顧客の関心を引く方法について説明します。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
+ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691335"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98912541"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft コンピテンシーを獲得してビジネスを差別化する
 
@@ -68,6 +68,8 @@ Silver および Gold コンピテンシーを獲得するための要件の詳�
 - コンピテンシーに含まれる特定の[市場進出リソース](mpn-learn-about-go-to-market-benefits.md)に関する詳細情報。
 
 - [コンピテンシーに関する請求と税金](mpn-view-print-maps-invoice.md)の詳細。
+
+- Silver または Gold コンピテンシー メンバーシップに関連付けられている[料金を支払う](mpn-pay-fee-silver-gold-competency.md)方法に関する詳細情報。
 
 - コンピテンシーの現在の状態を示すパートナー センター インサイトの[コンピテンシー レポート](pci-competencies-report.md)を表示します。
 
