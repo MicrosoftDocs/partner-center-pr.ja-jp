@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042703"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552411"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
 パートナー センターの重要な更新についての詳細をご確認ください。 この情報は頻繁に更新されるので、定期的にチェックしてみてください。
 
-| **カテゴリ** | **2021 年 1 月のお知らせ** | **発表** |
+|**カテゴリ**|**2021 年 2 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[COVID-19 への対応: Microsoft Partner Network の更新](2021-february.md#3)|2 月 4 日|
+|機能|[パートナー センターの紹介モジュールの新しい更新プログラム](2021-february.md#2)|2 月 4 日|
+|モダン ワークプレース|[教育機関のお客様の検証プロセス用の PUT Qualification API が 2021 年 2 月 25 日までに、GET 認定が 2021 年 5 月 4 日までに非推奨化および廃止](2021-february.md#1)|2 月 4 日|
+| **カテゴリ** | **2021 年 1 月のお知らせ** | **発表** |
 |モダン ワークプレース|[フェーズ 1 現在公開中:EU と EFTA および英国での新しいコマース プランに関するパートナー請求通貨の変更](2021-january.md#15)|1 月 28 日|
 |モダン ワークプレース|[クラウド ソリューション プロバイダー (CSP) のお客様のオンボード要件の変更](2021-january.md#14)|1 月 28 日|
 |機能|[Microsoft Partner Agreement (MPA) – 間接リセラーの更新/新規 FAQ](2021-january.md#13)|1 月 27 日|
