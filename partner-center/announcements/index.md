@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.date: 02/05/2021
+ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552411"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588735"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "99552411"
 
 |**カテゴリ**|**2021 年 2 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[コンプライアンス マネージャーへのアドオンであるプレミアム評価が 2021 年 3 月 1 日に公開予定](2021-february.md#4)|2 月 5 日|
 |機能|[COVID-19 への対応: Microsoft Partner Network の更新](2021-february.md#3)|2 月 4 日|
 |機能|[パートナー センターの紹介モジュールの新しい更新プログラム](2021-february.md#2)|2 月 4 日|
 |モダン ワークプレース|[教育機関のお客様の検証プロセス用の PUT Qualification API が 2021 年 2 月 25 日までに、GET 認定が 2021 年 5 月 4 日までに非推奨化および廃止](2021-february.md#1)|2 月 4 日|
