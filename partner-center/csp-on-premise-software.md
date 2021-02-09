@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098858"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834821"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>クラウドソリューションプロバイダー (CSP) プログラムを通じてオンプレミスソフトウェアを販売する
 
@@ -37,18 +37,18 @@ CSP でのオンプレミス ソフトウェアは、クラウドに重点を置
 
 ## <a name="activate-and-manage-software-subscriptions"></a>ソフトウェア サブスクリプションのライセンス認証と管理
 
-ソフトウェアを購入したら、お客様がダウンロードする必要があります。 この場合、次の手順を実行します。
+パートナーがソフトウェアを購入した後、顧客はそれをダウンロードする必要があります。 この場合、次の手順を実行します。
 
 >[!NOTE]
->キーとダウンロードを取得するには、管理エージェントである必要があります。
+>キーとダウンロードへのリンクを取得するには、管理エージェントである必要があります。
 
 1. 顧客の詳細ページに移動し、 **[ソフトウェア]** を選択します。 顧客に代わって購入したすべてのソフトウェアの一覧が表示されます。
-2. "ディープリンク" を「 **ソフトウェアプロダクトキーへのリンク** 」からコピーし、ダウンロードして、顧客とリンクを共有します。 ユーザーがこのリンクを選択すると、Microsoft 管理センターにリダイレクトされ、プロダクトキーをダウンロードして取得します。
+2. **[Link to Software product keys and downloads]\(ソフトウェアのプロダクト キーとダウンロードへのリンク\)** から "ディープ リンク" をコピーし、顧客とリンクを共有します。 顧客がこのリンクを選択すると、プロダクト キーをダウンロードして取得できるよう、Microsoft 管理センターにリダイレクトされます。
 
 >[!NOTE]
->Microsoft 管理センターでプロダクトキーを参照したり、情報をダウンロードしたりできるのは、お客様のみです。 パートナーは、この情報を表示できません。
+>Microsoft 管理センターでプロダクト キーを参照したり、情報をダウンロードしたりできるのは、顧客だけです。 パートナーがこの情報を見ることはできません。
 
-ライセンスキーのダウンロードの詳細については、「 [ソフトウェアと製品ライセンスキーのダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2152525)」を参照してください。
+パートナーまたはその顧客がライセンス キーのダウンロードについての詳細を確認したい場合は、[ソフトウェアと製品のライセンス キーのダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2152525)に関するページを参照してください。
 
 ## <a name="cancel-a-purchase"></a>購入を取り消す
 

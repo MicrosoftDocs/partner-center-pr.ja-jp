@@ -1,19 +1,19 @@
 ---
 title: インセンティブに関する FAQ
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Microsoft インセンティブに関してよく寄せられる質問。 この記事には、ユーザーロール、登録方法、またはエラーメッセージの処理方法に関する質問が含まれています。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624223"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835069"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>インセンティブに関してよく寄せられる質問
 
@@ -67,22 +67,16 @@ MPNHQ の所在地と同じ国にいない場合、このシナリオの詳細�
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>インセンティブの概要ページに登録されていない登録があります。
 
-[インセンティブの **概要** ] ページに表示される登録数が予想よりも多い場合は、次の操作を実行できます。
+ダッシュボードに表示されなくなったインセンティブプログラムを、から、またはに登録したことがある場合は、適切なアクセス権があるかどうかを再確認する必要があります。 インセンティブユーザーまたはインセンティブ管理者ロールを持つユーザーのみがプログラムを表示できます。 「 [ロールを検索する](https://docs.microsoft.com/partner-center/find-your-role)」を参照してください。
 
-1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+ロールまたはアクセス許可を変更する必要がある場合は、会社のグローバルまたはアカウント管理者にお問い合わせください。これらのユーザーについては、「 [グローバル管理者を見つける](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)」を参照してください。
 
-2. [ **設定**] で [ [ユーザー管理](https://partner.microsoft.com/pcv/users)] を選択します。
-
-3. 自分の名前を選択すると、アクセス許可が表示されます。
-
-ロールまたはアクセス許可を変更する必要がある場合は、会社のグローバルまたはアカウント管理者に問い合わせてください。
-
-このページには、Azure AD テナントに関連付けられているパートナーグローバルアカウント (PGA) に関連付けられている登録のみが表示されることに注意してください。 会社に複数の PGA がある場合は、それぞれに異なる資格情報が必要になります。
+[概要] ページには、Azure AD テナントに関連付けられているパートナーグローバルアカウント (PGA) に関連付けられている登録のみが表示されることに注意してください。 会社に複数の PGA がある場合は、それぞれに異なる資格情報が必要になります。
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>エラーメッセージが表示された場合、または登録プロセス中にヘルプが必要な場合は、どのユーザーに問い合わせる必要がありますか。
 
 ダッシュボードの [インセンティブ] セクション内で問題が発生した場合は、オンラインサポートサービスがあります。サポートオプション (? アイコン) を右上にあります。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [インセンティブの概要](incentives-get-started-intro.md)
