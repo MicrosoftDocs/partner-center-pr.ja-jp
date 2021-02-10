@@ -1,7 +1,7 @@
 ---
 title: パートナー アカウントで場所を管理する
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 新しい場所を追加する方法や、所在地 MPN ID がインセンティブ プログラム、CSP ビジネス、サブスクリプション、その他のトランザクションでどのように使用されるかについて説明します。
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624274"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005909"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN アカウントの所在地を管理し、新しい場所を追加する
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN アカウントの所在地を管理し、場所を追加 (削除) する
 
 
 **適切なロール**
@@ -79,7 +79,11 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
 :::image type="content" source="images/legal-biz.png" alt-text="新しい法的ビジネスの追加":::
 
 > [!NOTE]
-> パートナー センターで追加した場所は削除できません。 正しい MPN ID を使用してサインインすると、パートナー センターの左側のメニューに **MPN** が表示されます。
+> パートナー センターで追加された場所は、削除できません。 正しい MPN ID を使用してサインインすると、パートナー センターの左側のメニューに **MPN** が表示されます。
+
+## <a name="delete-a-location"></a>場所を削除する
+
+アカウントから場所を削除するには、[パートナー サポート](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b)に連絡する必要があります。 このアクションによる影響を十分に理解してください。 削除された場所は取得できなくなり、その特定の MPN ID に関連付けられているものはすべて認識されなくなるか、貴社に対して有効でなくなります。
 
 ## <a name="change-country-of-partner-global-account"></a>パートナー グローバル アカウントの国を変更する 
 
