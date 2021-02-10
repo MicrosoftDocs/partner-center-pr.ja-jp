@@ -59,6 +59,9 @@
         - name: コンピテンシーの詳細
           href: learn-about-competencies.md
           displayName: mpn
+        - name: ラーニング パートナーとして登録する
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: コンピテンシーに関する FAQ
           href: competencies-faq.md
           displayName: 'renew, mpn'
