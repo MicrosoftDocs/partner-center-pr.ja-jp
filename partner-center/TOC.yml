@@ -9,7 +9,7 @@
     - name: Microsoft との連携
       href: mpn-overview.md
       displayName: mpn
-    - name: パートナー センター アカウントを作成する
+    - name: パートナー センターで MPN アカウントを作成する
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: 職場の電子メール アドレスを取得する
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: プランの更新
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: 払い戻しを要求する
+          href: mpn-refund-request.md
           displayName: mpn
         - name: MPN のメリットを確認する
           href: mpn-find-benefits.md
@@ -87,6 +90,9 @@
         - name: 市場進出の利点
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
+        - name: MPN パートナー向けのデモ
+          href: mpn-demos.md
+          displayName: mpn
         - name: 利点に関する FAQ
           href: benefits-faq.md
           displayName: 'renew, license,'
@@ -121,9 +127,6 @@
     - name: Microsoft Partner Agreement - CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: 場所の管理
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: 間接プロバイダーはどのようにリセラーの MPA の採用を支援できるか
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -191,6 +194,9 @@
           displayName: mpn
         - name: 職場アカウントをリンクする
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: 場所の管理
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: ドメインの所有権を検証する
           href: become-global-admin.md
         - name: アカウント情報を検証する
@@ -256,6 +262,8 @@
       items:
         - name: 共同販売の潜在顧客について
           href: manage-co-sell-opportunities.md
+        - name: 一括操作
+          href: bulk-operations.md
         - name: 共同販売の CRM コネクタについて
           items:
             - name: Dynamics 365 向け

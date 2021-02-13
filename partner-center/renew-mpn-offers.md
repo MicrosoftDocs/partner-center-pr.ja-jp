@@ -1,62 +1,52 @@
 ---
 title: MPN プランを更新する
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft Action Pack とコンピテンシーの Microsoft Partner Network (MPN) プランを更新します。購入後 1 年経過した翌日から更新期間が始まります。
+description: コンピテンシーと高度な専門性の Microsoft Partner Network (MPN) オファーを更新します。購入後 1 年経過した翌日から更新期間が始まります。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846922"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624138"
 ---
-# <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a><span data-ttu-id="7ba1c-103">更新期間中に Microsoft Action Pack とコンピテンシーの MPN プランを更新する</span><span class="sxs-lookup"><span data-stu-id="7ba1c-103">Renew your MPN offers for Microsoft Action Pack and competencies during the renewal window</span></span>
+# <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a><span data-ttu-id="c1acf-103">更新期間中にコンピテンシーと高度な専門性の MPN オファーを更新する</span><span class="sxs-lookup"><span data-stu-id="c1acf-103">Renew your MPN offers for competencies and advanced specializations during the renewal window</span></span>
 
-### <a name="applies-to"></a><span data-ttu-id="7ba1c-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="7ba1c-104">Applies to</span></span>
+### <a name="applies-to"></a><span data-ttu-id="c1acf-104">適用対象</span><span class="sxs-lookup"><span data-stu-id="c1acf-104">Applies to</span></span>
 
-- <span data-ttu-id="7ba1c-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="7ba1c-105">Partner Center</span></span>
+- <span data-ttu-id="c1acf-105">パートナー センター</span><span class="sxs-lookup"><span data-stu-id="c1acf-105">Partner Center</span></span>
 
-<span data-ttu-id="7ba1c-106">Microsoft Action Pack と Silver および Gold コンピテンシーは、毎年の更新を必要とする Microsoft Partner Network のメンバー向けのプランです。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-106">The Microsoft Action Pack and silver and gold competencies are offers for members of the Microsoft Partner Network that require annual renewal.</span></span> <span data-ttu-id="7ba1c-107">購入後 1 年経過した翌日から、更新期間が始まります。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-107">Your renewal window begins on the anniversary of your purchase date plus one day.</span></span> <span data-ttu-id="7ba1c-108">たとえば、2018 年 9 月 1 日に マイクロソフト アクション パックを購入された場合、2019 年 9 月 2 日から更新期間が始まります。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-108">For example, if you purchased the Microsoft Action Pack on September 1, 2018, your renewal window begins on September 2, 2019.</span></span> <span data-ttu-id="7ba1c-109">Microsoft Action Pack とコンピテンシーは、パートナー センターで、更新できます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-109">You can renew Microsoft Action Pack and competencies in Partner Center.</span></span> <span data-ttu-id="7ba1c-110">[メンバーシップ オファー] の下に購入したプランが表示され、"更新開始日" 列でそのプランの契約終了日を確認できます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-110">Under Membership offers, you'll find your purchased offers and can locate the anniversary date for your offers under the renewal start date column.</span></span> <span data-ttu-id="7ba1c-111">Microsoft Partner Network 自体のメンバーシップについては、毎年の更新は必要ありません。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-111">Membership in the Microsoft Partner Network itself does not require an annual renewal.</span></span> 
+## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><span data-ttu-id="c1acf-106">COVID-19 への対応: Microsoft Partner Network の更新</span><span class="sxs-lookup"><span data-stu-id="c1acf-106">Responding to COVID-19: Microsoft Partner Network update</span></span>
 
-<span data-ttu-id="7ba1c-112">詳細については、以下の適切なリンクを選択してください。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-112">To learn more, select the appropriate link below:</span></span> 
+<span data-ttu-id="c1acf-107">Microsoft は、2021 年 1 月 1 日から 2021 年 6 月 30 日までの間に契約応当日 (AD) を迎えるパートナーに対し、コンピテンシーの延長 (クラウド ビジネス アプリケーション コンピテンシーを除く) と高度な専門性の延長を提供しています。</span><span class="sxs-lookup"><span data-stu-id="c1acf-107">Microsoft is offering competency extension (with the exception of the Cloud Business Applications competency) and advanced specialization extension for partners with anniversary dates (AD) between January 1, 2021 and June 30, 2021.</span></span> <span data-ttu-id="c1acf-108">詳細については、[パートナーのブログ記事](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="c1acf-108">Please review our [partner blog post](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) for more information.</span></span>
 
-- [<span data-ttu-id="7ba1c-113">コンピテンシー</span><span class="sxs-lookup"><span data-stu-id="7ba1c-113">Competencies</span></span>](learn-about-competencies.md)
+## <a name="renewal-reminders"></a><span data-ttu-id="c1acf-109">更新のリマインダー</span><span class="sxs-lookup"><span data-stu-id="c1acf-109">Renewal reminders</span></span>
 
-- [<span data-ttu-id="7ba1c-114">Microsoft Action Pack</span><span class="sxs-lookup"><span data-stu-id="7ba1c-114">Microsoft Action Pack</span></span>](mpn-get-action-pack.md)
+<span data-ttu-id="c1acf-110">購入後 1 年経過した日から 30 日の間に更新することができます。</span><span class="sxs-lookup"><span data-stu-id="c1acf-110">You have 30 days after your anniversary date to renew.</span></span> <span data-ttu-id="c1acf-111">その間は、特典を引き続け受けられます。</span><span class="sxs-lookup"><span data-stu-id="c1acf-111">Your benefits continue during that time.</span></span> <span data-ttu-id="c1acf-112">購入後 1 年が経過する 15 日前に、まもなく 1 年が経過することをお知らせします。</span><span class="sxs-lookup"><span data-stu-id="c1acf-112">Fifteen days before your anniversary date, Microsoft will remind you of your upcoming anniversary.</span></span> <span data-ttu-id="c1acf-113">1 年が経過してから 23 日後にも別のリマインダーが送られます。</span><span class="sxs-lookup"><span data-stu-id="c1acf-113">You will receive another reminder 23 days after your anniversary date.</span></span> <span data-ttu-id="c1acf-114">1 年経過してから 30 日間のうちに更新すると、特典が継続されます。</span><span class="sxs-lookup"><span data-stu-id="c1acf-114">When you renew during that anniversary plus 30-day window, your benefits remain intact.</span></span> <span data-ttu-id="c1acf-115">この更新期間中に更新しないと、特典とコンピテンシーは失われます。</span><span class="sxs-lookup"><span data-stu-id="c1acf-115">If you don't renew within your renewal window, you'll lose your benefits and competencies.</span></span>
 
-- [<span data-ttu-id="7ba1c-115">特典を管理する方法</span><span class="sxs-lookup"><span data-stu-id="7ba1c-115">How to manage your benefits</span></span>](manage-your-partner-network-benefits.md)
+<span data-ttu-id="c1acf-116">更新期間中に更新した場合、現在の契約終了日から 365 日後が次の契約終了日になります。</span><span class="sxs-lookup"><span data-stu-id="c1acf-116">When you renew during the renewal window, your new anniversary date will be 365 days after your current anniversary.</span></span>
 
-## <a name="renewal-reminders"></a><span data-ttu-id="7ba1c-116">更新のリマインダー</span><span class="sxs-lookup"><span data-stu-id="7ba1c-116">Renewal reminders</span></span> 
+### <a name="how-to-view-competency-renewal-information"></a><span data-ttu-id="c1acf-117">コンピテンシーの更新に関する情報を表示する方法</span><span class="sxs-lookup"><span data-stu-id="c1acf-117">How to view competency renewal information</span></span>
 
-<span data-ttu-id="7ba1c-117">購入後 1 年経過した日から 30 日の間に更新することができます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-117">You have 30 days after your anniversary date to renew.</span></span> <span data-ttu-id="7ba1c-118">その間は、特典を引き続け受けられます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-118">Your benefits continue during that time.</span></span> <span data-ttu-id="7ba1c-119">購入後 1 年が経過する 15 日前に、まもなく 1 年が経過することをお知らせします。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-119">Fifteen days before your anniversary date, Microsoft will remind you of your upcoming anniversary.</span></span> <span data-ttu-id="7ba1c-120">1 年が経過してから 23 日後にも別のリマインダーが送られます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-120">You will receive another reminder 23 days after your anniversary date.</span></span> <span data-ttu-id="7ba1c-121">1 年経過してから 30 日間のうちに更新すると、特典が継続されます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-121">When you renew during that anniversary plus 30-day window, your benefits remain intact.</span></span> <span data-ttu-id="7ba1c-122">この更新期間中に更新しないと、特典とコンピテンシーは失われます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-122">If you don't renew within your renewal window, you'll lose your benefits and competencies.</span></span>
+1. <span data-ttu-id="c1acf-118">ご利用ダッシュボードの [パートナー センター] メニューから、 **[コンピテンシー]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="c1acf-118">From the Partner Center menu on your dashboard, select **Competencies**.</span></span>  
 
-<span data-ttu-id="7ba1c-123">更新期間中に更新した場合、現在の契約終了日から 365 日後が次の契約終了日になります。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-123">When you renew during the renewal window, your new anniversary date will be 365 days after your current anniversary.</span></span>
+2. <span data-ttu-id="c1acf-119">使用可能なコンピテンシーの一覧で、ご利用のコンピテンシーが完了としてマークされます。</span><span class="sxs-lookup"><span data-stu-id="c1acf-119">In the list of competencies that are available, your competencies should be marked as Complete.</span></span>  
 
-## <a name="responding-to-covid-19"></a><span data-ttu-id="7ba1c-124">COVID-19 への対応:</span><span class="sxs-lookup"><span data-stu-id="7ba1c-124">Responding to COVID-19:</span></span>
+3. <span data-ttu-id="c1acf-120">コンピテンシーを 1 つ選択します。</span><span class="sxs-lookup"><span data-stu-id="c1acf-120">Select one of your competencies.</span></span> <span data-ttu-id="c1acf-121">次の更新日まで、要件を満たすことを免除されているという通知が表示されます。</span><span class="sxs-lookup"><span data-stu-id="c1acf-121">You'll see a notice that you have been given an exemption from meeting the requirements until your next renewal date.</span></span>
 
-<span data-ttu-id="7ba1c-125">お客様がご自分の顧客のサポートに専念できるようにするために:</span><span class="sxs-lookup"><span data-stu-id="7ba1c-125">To help you focus on supporting your customers:</span></span> 
+4. <span data-ttu-id="c1acf-122">このオファーを利用するには、 **[メンバーシップ オファー]** に移動します。</span><span class="sxs-lookup"><span data-stu-id="c1acf-122">To take advantage of this offer, go to **Membership offers**.</span></span> <span data-ttu-id="c1acf-123">コンピテンシーの購入または更新の状態によっては、このプロセスを完了するためにコンピテンシー料金の支払いが必要になる場合があります。</span><span class="sxs-lookup"><span data-stu-id="c1acf-123">You may need to pay the competency fee to complete the process, depending on your competency purchase or renewal status.</span></span>
 
-- <span data-ttu-id="7ba1c-126">**お客様のコンピテンシー契約終了日が 2020 年 7 月 1 日から 12 月 31 日の間にある場合**、Microsoft はお客様の既存の 1 つまたは複数のコンピテンシーを 2021 年の次の契約終了日まで延長します。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-126">**if your competency anniversary date is between July 1 and December 31, 2020**, we are extending your existing competency or competencies through your next anniversary date in 2021.</span></span> <span data-ttu-id="7ba1c-127">コンピテンシーの更新のリマインダーは、この新しいオファーを反映するように更新されます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-127">Your competency renewal reminders will be updated to reflect this new offer.</span></span> 
+<span data-ttu-id="c1acf-124">延長を利用するには、ご利用のコンピテンシーの更新および料金の支払いを行うために、自分のメンバーシップをパートナー メンバーシップ センター (PMC) からパートナー センターに移動しておく必要があります。</span><span class="sxs-lookup"><span data-stu-id="c1acf-124">To take advantage of the extension, you must have moved your membership from Partner Membership Center (PMC) to Partner Center to renew your competency and pay the fee.</span></span> <span data-ttu-id="c1acf-125">メンバーシップを移動していない場合は、[詳細情報を確認](prepare-pmc-pc-migration.md) し、今すぐ [その移動を行ってください](https://partners.microsoft.com/partnerprogram/Welcome.aspx) 。</span><span class="sxs-lookup"><span data-stu-id="c1acf-125">If you have not moved your membership, [learn more](prepare-pmc-pc-migration.md) and [make the transition](https://partners.microsoft.com/partnerprogram/Welcome.aspx) today.</span></span>  
 
-- <span data-ttu-id="7ba1c-128">**コンピテンシーが更新の時期になると**、自分の要件が満たされていることがパートナー センターで確認できます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-128">**If your competency is coming up for renewal**, you'll see in Partner Center that your requirements have been met.</span></span> <span data-ttu-id="7ba1c-129">更新するには、更新期間中に、[メンバーシップ オファー] ページでコンピテンシー料金の支払いを行う必要があります。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-129">To renew, you'll need to pay your competency fee within your renewal window on the Membership offers page.</span></span> 
+## <a name="next-steps"></a><span data-ttu-id="c1acf-126">次のステップ</span><span class="sxs-lookup"><span data-stu-id="c1acf-126">Next steps</span></span>
 
-- <span data-ttu-id="7ba1c-130">**更新期間が既に終了している場合**、[メンバーシップ オファー] ページで料金の支払いを行うことで、ご利用のコンピテンシーを再度アクティブ化し、リソースと特典へのアクセス権を回復することができます。この延長は、2020 年 12 月 31 日まで利用できます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-130">**If you've already missed your renewal window**, you can reactivate your competency and regain access to resources and benefits by paying your fee on the Membership offers page.This extension is available until December 31, 2020.</span></span>
+- [<span data-ttu-id="c1acf-127">コンピテンシー</span><span class="sxs-lookup"><span data-stu-id="c1acf-127">Competencies</span></span>](learn-about-competencies.md)
 
-### <a name="how-to-view-competency-renewal-information"></a><span data-ttu-id="7ba1c-131">コンピテンシーの更新に関する情報を表示する方法</span><span class="sxs-lookup"><span data-stu-id="7ba1c-131">How to view competency renewal information</span></span>
-
-1. <span data-ttu-id="7ba1c-132">ご利用ダッシュボードの [パートナー センター] メニューから、 **[コンピテンシー]** を選択します。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-132">From the Partner Center menu on your dashboard, select **Competencies**.</span></span>  
-
-2. <span data-ttu-id="7ba1c-133">使用可能なコンピテンシーの一覧で、ご利用のコンピテンシーが完了としてマークされます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-133">In the list of competencies that are available, your competencies should be marked as Complete.</span></span>  
-
-3. <span data-ttu-id="7ba1c-134">コンピテンシーを 1 つ選択します。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-134">Select one of your competencies.</span></span> <span data-ttu-id="7ba1c-135">次の更新日まで、要件を満たすことを免除されているという通知が表示されます。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-135">You'll see a notice that you have been given an exemption from meeting the requirements until your next renewal date.</span></span>
-
-4. <span data-ttu-id="7ba1c-136">このオファーを利用するには、 **[メンバーシップ オファー]** に移動します。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-136">To take advantage of this offer, go to **Membership offers**.</span></span> <span data-ttu-id="7ba1c-137">コンピテンシーの購入または更新の状態によっては、このプロセスを完了するためにコンピテンシー料金の支払いが必要になる場合があります。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-137">You may need to pay the competency fee to complete the process, depending on your competency purchase or renewal status.</span></span> 
-
-<span data-ttu-id="7ba1c-138">延長を利用するには、ご利用のコンピテンシーの更新および料金の支払いを行うために、自分のメンバーシップをパートナー メンバーシップ センター (PMC) からパートナー センターに移動しておく必要があります。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-138">To take advantage of the extension, you must have moved your membership from Partner Membership Center (PMC) to Partner Center to renew your competency and pay the fee.</span></span> <span data-ttu-id="7ba1c-139">メンバーシップを移動していない場合は、[詳細情報を確認](prepare-pmc-pc-migration.md) し、今すぐ [その移動を行ってください](https://partners.microsoft.com/partnerprogram/Welcome.aspx) 。</span><span class="sxs-lookup"><span data-stu-id="7ba1c-139">If you have not moved your membership, [learn more](prepare-pmc-pc-migration.md) and [make the transition](https://partners.microsoft.com/partnerprogram/Welcome.aspx) today.</span></span>  
+- [<span data-ttu-id="c1acf-128">特典を管理する方法</span><span class="sxs-lookup"><span data-stu-id="c1acf-128">How to manage your benefits</span></span>](manage-your-partner-network-benefits.md)
 
