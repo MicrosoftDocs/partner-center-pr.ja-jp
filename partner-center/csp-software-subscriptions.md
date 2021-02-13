@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098841"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834858"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>クラウド ソリューション プロバイダー (CSP) プログラムによりソフトウェア サブスクリプションを販売する
 
@@ -95,7 +95,7 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 パートナーがソフトウェアを購入した後、顧客はそれをダウンロードする必要があります。 この場合、次の手順を実行します。
 
 >[!NOTE]
->キーとダウンロードを取得するには、管理エージェントである必要があります。
+>キーとダウンロードへのリンクを取得するには、管理エージェントである必要があります。
 
 1. 顧客の詳細ページに移動し、 **[ソフトウェア]** を選択します。 顧客に代わって購入したすべてのソフトウェアの一覧が表示されます。
 2. **[Link to Software product keys and downloads]\(ソフトウェアのプロダクト キーとダウンロードへのリンク\)** から "ディープ リンク" をコピーし、顧客とリンクを共有します。 顧客がこのリンクを選択すると、プロダクト キーをダウンロードして取得できるよう、Microsoft 管理センターにリダイレクトされます。

@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979823"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281297"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、Enterprise Mobility Suite、Azure などの価格とプラン
 
@@ -82,7 +82,7 @@ ms.locfileid: "97979823"
 
 ## <a name="pricing-and-special-segments"></a>価格と特別なセグメント
 
-CSP は、教育、非営利、政府向けコミュニティクラウドなど、特別な市場セグメントにサービスを提供します。 すべてのサービスがすべてのチャネルで使用できるわけではありません。 "コマーシャル" セグメントと呼ばれるセグメントは既定ではありません。 ライセンスベースの価格はすべて、価格とプランに関するページのライセンスベースの価格表に記載されています。 Azure Government 料金は、Azure Government 有効な CSP テナントにサインインしたときに使用量ベースの価格表に記載されています。
+CSP は、教育、非営利、政府向けコミュニティクラウドなど、特別な市場セグメントにサービスを提供します。 すべてのサービスがすべてのチャネルで使用できるわけではありません。 "コマーシャル" セグメントと呼ばれるセグメントは既定ではありません。 ライセンスベースの価格はすべて、価格とプランに関するページのライセンスベースの価格表に記載されています。 Azure Government 料金は、Azure Government 有効な CSP テナントにサインインしたときに使用量ベースの価格表に記載されています。 ソフトウェアサブスクリプションと永続的ソフトウェアでは、これらの特別なセグメントはまだサポートされていません。
 
 |**Segment**   |**認定を受ける必要があるユーザー**   |**パートナーの顧客の見極め**|**有効な製品の種類**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
@@ -182,7 +182,7 @@ Microsoft 365 A1 基本プランには6年間の期間があります。  Office
 |Azure プランの使用量ベース  |価格シートの価格は割引されていません  |
 |Azure プランの予約  |Azure 予約共有サービスの価格表を参照する  |
 |ソフトウェア サブスクリプション  |ソフトウェアサブスクリプション価格一覧で MSRP として表示される  |
-|マーケットプレース  |Marketplace の価格表で MSRP として表示される  |
+|Marketplace  |Marketplace の価格表で MSRP として表示される  |
 
 その他のリソース: 
 

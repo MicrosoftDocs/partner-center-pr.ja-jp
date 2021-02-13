@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980243"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281251"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について学習する
 
@@ -53,9 +53,9 @@ ms.locfileid: "91980243"
    
    5. 手順 2. で、[ **C-影響を最小限** にする] を選択し、問題の種類として **他の一般的な質問** を選択します。
    
-   6. [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
+   6. [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)をダウンロードします。
 
-3. サブスクリプションのパートナーは、[CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)に入力して署名し、フォームを顧客に送信します。 
+3. サブスクリプションのパートナーは、[CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)に入力して署名し、フォームを顧客に送信します。 
 
    フォームに入力するには、次の情報が必要です。
 
@@ -92,7 +92,7 @@ ms.locfileid: "91980243"
      ```
 
      >[!NOTE]
-     > 顧客の **テナント ID** は、顧客の **Microsoft ID**としてパートナーセンターに表示されます。 特定の顧客の Microsoft ID (テナント ID) を検索するには、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。 次に、メニューから **Customers** を選択します。 一覧で顧客を見つけます。 下矢印を選択して、顧客の一覧を展開します。 顧客の *ドメイン名* と顧客の **Microsoft ID**に関する情報が表示されます。 PowerShell コマンドレットで16桁の **MICROSOFT ID** を使用します。
+     > 顧客の **テナント ID** は、顧客の **Microsoft ID** としてパートナーセンターに表示されます。 特定の顧客の Microsoft ID (テナント ID) を検索するには、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。 次に、メニューから **Customers** を選択します。 一覧で顧客を見つけます。 下矢印を選択して、顧客の一覧を展開します。 顧客の *ドメイン名* と顧客の **Microsoft ID** に関する情報が表示されます。 PowerShell コマンドレットで16桁の **MICROSOFT ID** を使用します。
 
    - 前の CSP パートナーを含めて、アカウントの役割を表示します。
 
@@ -107,7 +107,7 @@ ms.locfileid: "91980243"
    - [Customer detail] メニューで、[ **Service management**] を選択します。
    - **[Microsoft Azure]** で、リンクをクリックして **[Microsoft Azure の管理ポータル]** に移動します。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
 

@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624053"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281266"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>教育、非営利団体、官公庁/自治体のユーザーといった特別な業界への販売
 
@@ -24,7 +24,7 @@ ms.locfileid: "99624053"
 - 管理エージェント
 - 販売代理店
 
-マイクロソフトは、教育機関、非営利団体、小規模企業、行政機関など、特定の顧客に対して特別割引価格をご用意しています。 特別価格を提供するには、リセラーと顧客の両方が資格条件を満たす必要があります。 
+マイクロソフトは、教育機関、非営利団体、小規模企業、行政機関など、特定の顧客に対して特別割引価格をご用意しています。 特別価格を提供するには、リセラーと顧客の両方が資格条件を満たす必要があります。 現時点では、これらの特別価格プランは、Microsoft 365、Dynamics、Intune など **のライセンスベースのサービスでのみご利用いただけ** ます。他の種類 (ソフトウェアサブスクリプション、永続ソフトウェアまたは Azure 製品) では使用できません。
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>特別価格の対象となる業界への販売の要件
 
@@ -73,7 +73,7 @@ ms.locfileid: "99624053"
 | Education |商用、教育 | 非営利団体または政府機関向けコミュニティクラウド |
 | 政府機関向けコミュニティクラウド |政府機関向けコミュニティクラウド | 非営利団体、教育機関、またはコマーシャル |
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [Minecraft の販売: 教育機関のお客様へのサブスクリプション](minecraft-subscriptions.md)
 

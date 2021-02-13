@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916918"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281310"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>教育機関の顧客にオファーを販売する方法と、パートナーセンターで教育機関の顧客を作成する方法
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916918"
 
 ## <a name="create-an-education-customer"></a>教育機関の顧客を作成する
 
-この記事では、パートナーセンターで教育機関の顧客を作成し、その顧客に教育製品を販売する方法について説明します。 また、検証の状態を表示し、必要に応じて検証要求を再送信する方法についても説明します。
+この記事では、パートナーセンターで教育機関の顧客を作成し、その顧客に教育製品を販売する方法について説明します。 また、検証の状態を表示し、必要に応じて検証要求を再送信する方法についても説明します。 教育プランは、現在、Microsoft 365、Dynamics、Intune など **のライセンスベースのサービスでのみご利用いただけ** ます。他の種類 (ソフトウェアサブスクリプション、永続ソフトウェアまたは Azure 製品) では使用できません。
 
 > [!IMPORTANT]
 > Microsoft は、新しく作成された各教育機関の顧客テナントが教育機関向けに認定されていることを確認します。  確認プロセスの遅延を防ぐために、必要な情報をできるだけ正確かつ完全に入力してください。
@@ -99,7 +99,7 @@ ms.locfileid: "97916918"
 
 2. 更新された顧客の詳細が教育機関の資格を受けられる場合は、 **特別な要件** が **教育機関** に更新されていることがわかります。 まだ **教育機関のお客様でない** 場合は、手動による検証についてサポートにお問い合わせください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [特別価格の対象となる業界への販売](get-special-pricing-for-offers.md)
 

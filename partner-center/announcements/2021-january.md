@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
+ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098875"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "99974758"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月のお知らせ
 
@@ -176,7 +176,7 @@ ________________
 
 **間接リセラー:** MPA に同意していない場合は、[MPA に関する FAQ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) を確認し、[こちら](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)で説明されている手順に従って MPA に同意します。
 
-**間接プロバイダー:** 間接リセラーと協力し、[MPA に関する FAQ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) と[こちら](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)で説明されている手順を使用して、リセラーをサポートします。
+**間接プロバイダー:** 間接リセラーと協力し、[MPA に関する FAQ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) と [こちら](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)で説明されている手順を使用して、リセラーをサポートします。
 
 ### <a name="questions"></a>わからないことがある場合は、
 
@@ -587,8 +587,8 @@ _____________
 
 影響を受ける通貨: 
 
-- Microsoft 365 E3 の価格の問題は、次の通貨のみに限られていました: JPY (日本円)、GBP (英国ポンド)、EUR (欧州連合)、AUD (オーストラリア ドル)。 
-- Microsoft 365 Business Basic の問題は、USD (米国ドル) のみに限られていました。 
+- Microsoft 365 E3 の価格の問題は、次の通貨のみに限られていました: 日本円 (JPY)、英国ポンド (GBP)、欧州連合ユーロ (EUR)、オーストラリア ドル (AUD)。 
+- Microsoft 365 Business Basic の問題は、米国ドル (USD) のみに限られていました。 
 
 パートナーは、現在利用可能な 1 月と 2 月のプレビュー価格表で、正しい価格を参照する必要があります。 
 

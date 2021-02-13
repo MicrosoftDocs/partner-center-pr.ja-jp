@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588752"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281338"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
@@ -158,7 +158,7 @@ PC からの取引移行を開始する前に、以下の手順に従って、�
     - 推定取引終了日
     - パートナーのメモ
 
-PSC の一括ダウンロードおよびアップロード機能を使用して、すべての対象となる取引のデータを消去できます。
+PSC の一括ダウンロードおよびアップロード機能を使用して、すべての不足している詳細を、対象となるすべての取引の処理に追加することができます。
 
 >[!Note]
 > 上の前提条件が満たされていない場合でも、取引移行は成功します。 ただし、前述の必須フィールドをパートナーセンターで使用できない場合は、商談の状態を変更することはできません。 次に、パートナーセンターの取引に必要なすべての情報を入力して、作業を開始する必要があります。 **パートナーセンターに移行する前に、PSC で対象となる取引を消去することを強くお勧めします。**
@@ -178,9 +178,9 @@ PSC の一括ダウンロードおよびアップロード機能を使用して�
 4. **Psc 取引 ID** -psc の一意の識別子。
 5. **エラー** -特定の処理の移行中にエラーが発生したかどうかを示します。
 
-正常に移行されたすべての取引は、PSC に表示されません。 PC で移行された取引を操作できます。 共同販売のために、Microsoft の販売者とのやり取りに変更はありません。
+正常に移行されたすべての取引は、PSC に表示されません。 Pc での取引登録の完了を含む、移行された取引先での作業を続行できます。 共同販売のために、Microsoft の販売者とのやり取りに変更はありません。
 
-PSC から移行された取引は、取引のソースに基づいて [受信] タブと [送信] タブで使用できるようになります。 パートナーが作成したすべての取引は [送信] タブで使用できるようになり、Microsoft が開始した取引はパートナーセンターの [受信] タブで使用できるようになります。 移行後に作成される2種類の取引があります。
+PSC から移行された取引は、取引のソースに基づいて [受信] タブと [送信] タブで使用できるようになります。 会社によって共有されているすべての取引が [送信] タブで使用できるようになり、Microsoft が開始した取引はパートナーセンターの [受信] タブで使用できるようになります。 移行後に作成される2種類の取引があります。
 
 1. **共同販売取引** -PSC で共同販売としてマークされている取引は、パートナーセンターで共同販売取引として作成されます。
 2. パートナー **主導の取引**-共同販売としてマークされていない取引は、パートナーセンターでパートナー主導の取引として作成されます。 パートナー主導の取引は、Microsoft の販売元に公開されており、ターミナルの状態に到達する前に共同販売を行うようにアップグレードすることができます (ウォン、紛失)。 また、パートナー主導の取引先は、インセンティブを受けたソリューションがある場合に、取引登録の対象となります。
@@ -386,12 +386,20 @@ PSC とは異なり、パートナーセンターには、直接 PDMs からア�
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>PSC のアカウントが有効な MPN に関連付けられていない場合に、正しい MPN ID を見つける
 
-PSC に "PSC の無効な MPN ID 関連付けの問題" という見出しが表示されている場合は、これが適切な場所にあります。
+PSC に "PSC の無効な MPN ID 関連付けの問題" という見出しが表示されている場合は、これが適切な場所にあります。 次の理由により、アカウントが無効な MPN ID にリンクされている可能性があります
+
+- お客様の会社には、パートナーセンターのアカウントがありません。
+- PSC アカウントをパートナーセンターアカウント (MPNID) にリンクする内部システムに、お客様のアカウントの MPN ID を入力しているときに、エラーが発生しました。
+- 会社がパートナーメンバーシップセンター (PMC) から PC への移行を完了していません。
 
 まず、次の手順に従って正しい MPN ID を見つけます。
 
 - パートナーセンターアカウントにログインします。
 - [アカウント設定のドキュメント](./partner-center-account-setup.md#locate-your-mpn-id)に記載されているガイダンスを使用して、MPN ID を見つけます。
+
+パートナーセンターの MPN ID を見つけることができる場所を示すスクリーンショットを次に示します。
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="パートナーが MPN ID を検索できるアカウント設定を示す画像。"  lightbox="images/pscmigration/findingMPNID.png":::
 
 次に、
 
@@ -414,7 +422,7 @@ PSC に "PSC の無効な MPN ID 関連付けの問題" という見出しが表
 |ビジネスプロファイルの作成と管理|[ビジネス プロファイルの管理](./create-a-marketing-profile.md)
 |ビジネスプロファイルの潜在顧客を管理する |[見込み客を管理する](./manage-leads.md)|
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 
 - Partner Sales パートナーセンター[ブックに接続](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx)して、パートナーの販売プロセスとロールを、パートナーセンターとパートナーの sales Connect を介して新しい販売プロセスに合わせます。
