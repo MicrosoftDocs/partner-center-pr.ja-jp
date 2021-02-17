@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588735"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490157"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,9 @@ ms.locfileid: "99588735"
 
 |**カテゴリ**|**2021 年 2 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[Microsoft Viva Topics の紹介](2021-february.md#7)|2 月 12 日|
+|製品サービス/市場|[Microsoft 365 E3 の価格が 2021 年 3 月に変更予定](2021-february.md#6)|2 月 11 日|
+|製品サービス/市場|[ノルウェー クローネについて、ライセンスベースのプレビュー価格表の更新](2021-february.md#5)|2 月 10 日|
 |機能|[コンプライアンス マネージャーへのアドオンであるプレミアム評価が 2021 年 3 月 1 日に公開予定](2021-february.md#4)|2 月 5 日|
 |機能|[COVID-19 への対応: Microsoft Partner Network の更新](2021-february.md#3)|2 月 4 日|
 |機能|[パートナー センターの紹介モジュールの新しい更新プログラム](2021-february.md#2)|2 月 4 日|
