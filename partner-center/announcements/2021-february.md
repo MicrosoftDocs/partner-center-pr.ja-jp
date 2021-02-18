@@ -9,16 +9,208 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624172"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541000"
 ---
 # <a name="february-2021-announcements"></a>2021 年 2 月のお知らせ
 
 このページでは、2021 年 2 月の Microsoft パートナー センターのお知らせについて詳しく説明します。
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> 公開中:Microsoft Partner Agreement (MPA) に基づくパートナー向けの DocuSign から Adobe Sign への移行
+
+### <a name="categories"></a>Categories
+
+- 日付:2021 年 2 月 16 日
+- 機能
+
+### <a name="summary"></a>まとめ
+
+Microsoft は、すべての電子署名処理を DocuSign から Adobe Sign に移行します。
+
+### <a name="impacted-audience"></a>対象
+
+MPA 下の既存の直接および間接のクラウド ソリューション プロバイダー (CSP) パートナー。
+
+### <a name="details"></a>詳細
+
+2021 年 2 月、Microsoft は、CSP パートナーに対するすべての電子署名処理の DocuSign から Adobe Sign への移行を開始します。
+
+スムーズな移行が必要になります。 移行後は、電子署名が必要になるたびに、DocuSign ではなく adobesign@adobesign.com から電子メールが届きます。 この電子メールに、署名する必要がある Adobe Sign Web ページへのリンクが記載されています。 Microsoft パートナーは、既存の契約に再署名する必要はありません。今後のチャネル契約に限定されます。 ウクライナ、ロシア、およびカザフスタンのパートナーは、毎年、物理的または電子的に Rider に再署名する必要があります。
+
+[リソース ギャラリー](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)で、Adobe Sign 署名要求電子メールの例を確認できます。
+
+最適なエクスペリエンスを実現するために、次のことを必ず行ってください。
+
+1. このアカウントからの電子メールが迷惑メール フォルダーに直接送られないようにするために、差出人セーフ リストに adobesign@adobesign.com を追加します。
+2. IT 部門と協力して、以下を実行します。
+    - adobesign@adobesign.com 電子メール アドレスを差出人セーフ リストに追加して、事前設定されるフィッシング規則に含まれないようにします。
+    - 既存のセキュリティ ポリシーを更新して、必要なすべての受信者が Adobe Sign エンタープライズ ライセンス下でドキュメントに署名できるようにします。
+
+オンボード、機能、およびビジネス プロセスの質問に関するリソースについては、[Adobe Sign への移行に関するパートナー向けのページ](https://aka.ms/eSignature/External)をご覧ください。
+
+Adobe Sign は Microsoft の優先電子署名ソリューション (ESS) です。 Adobe Sign への移行により、安全で効率的な電子署名エクスペリエンスが保証され、お客様とパートナーにより大きな価値がもたらされます。
+
+ドキュメントに電子的に署名する方法と電子署名の委任の詳細については、次のチュートリアルを参照してください。
+
+- [ドキュメントに電子的に署名する | Adobe Sign チュートリアル](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [ドキュメントへの署名を委任する | Adobe Sign チュートリアル](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>次のステップ
+
+この情報を組織内の適切な関係者に共有してください。
+
+### <a name="questions"></a>疑問がある場合
+
+質問がある場合は、[Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) を使用するか、[Explore MS](https://www.explore.ms/) で地域のオペレーション センターにお問い合わせください。 ご質問をできるだけ速やかに解決できるように、標準の CLT プロセスに注意深く従ってください。
+
+### <a name="change-log"></a>変更履歴
+
+- 2021 年 1 月 15 日: 初版の公開日 
+- 2021 年 2 月 16 日:公開中、新しいリソース:Adobe Sign への移行に関するパートナー向けのページ 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> リマインダー:パートナー センター API を呼び出すパートナーに対する API スロットリングの導入
+
+### <a name="categories"></a>Categories
+
+- 日付:2021 年 2 月 16 日
+- ビジネスの拡大
+
+### <a name="summary"></a>まとめ
+
+Microsoft は、パートナー センター API を呼び出すパートナーの特定の期間のパフォーマンスをさらに安定させることができるように、API スロットリングを導入します。
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行うすべてのパートナー  
+
+### <a name="details"></a>詳細
+
+2021 年 2 月、Microsoft は、パートナー センター API を呼び出すパートナーの特定の期間のパフォーマンスをさらに安定させることができるように、API スロットリングを導入します。 リソースの過剰な使用を防ぐため、スロットリングにより、ある期間におけるサービスの要求の数が制限されます。 スロットリングしきい値を超えた場合、パートナー センターにより、そのクライアントからのそれ以上の要求が一定期間制限されます。
+
+**パートナーの特典:**
+
+パートナー センターは大量の要求を処理するように設計されていますが、少数のパートナーによって膨大な数の要求が行われた場合、すべてのパートナーに最適なパフォーマンスと信頼性を維持するために調整が役立ちます。  
+
+- スロットリングによって、ダウンタイムが最小限に抑えられます。
+- スロットリングによって大量の要求の数が削減され、すべてのパートナーに対して一貫したパフォーマンスが確保されるようになります。
+
+**スロットリング対象の API:**
+
+| 操作 | パートナー センターに関するドキュメント |
+| ------ | ------- |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [顧客のすべてのサブスクリプションを取得する](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [ID でサブスクリプションを取得する](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders  | [すべての顧客の注文を取得する](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [ID ごとに注文を取得する](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [サブスクリプションのプロビジョニング状態を取得する](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [注文とサブスクリプションを管理する](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [サブスクリプションのアドオンの一覧を取得する](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [サブスクリプションの Azure エンタイトルメントの一覧を取得する](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [サブスクリプションの登録状態を取得する](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [顧客の譲渡をすべて取得する](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [製品のアップグレード状態を取得する](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [試用版の変換プランの一覧を取得する](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+パートナーには、スロットリングされることがないように、アクティビティ ログ API を使用して効率化を検討することを強くお勧めします。 この機能の詳細については、 [こちら](/partner-center/develop/api-throttling-guidance)を参照してください。  
+
+### <a name="next-steps"></a>次の手順
+
+このトピックの [リソース](/partner-center/develop/api-throttling-guidance) を確認し、必要な手順を実行します。  
+
+_______________
+
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Microsoft Viva Topics の紹介
+
+### <a name="categories"></a>Categories
+
+- 日付:2021 年 2 月 12 日
+- 機能
+
+### <a name="affected-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー様
+
+### <a name="details"></a>詳細
+
+Microsoft Viva Topics では、人工知能 (AI) を適用して、組織全体の知識や専門分野を特定し、製品、顧客、プロジェクトなどの共有トピックにキュレートしています。 イマーシブなトピック カードとトピック ページにより、パートナーは、チーム、プロジェクト、およびドキュメントの文脈で知識によって位置付けられます。 AI と人が連携して、知識を改善し、毎日使用するアプリにそれを表示します。 
+
+ユーザーが Viva Topics の対象となるには、以下のいずれかのライセンスが必要です。   
+- Microsoft 365 F1、F3、E3、A3、E5、または A5 
+- Office 365 F3、E1、A1、E3、A3、E5、または A5 
+- Microsoft 365 Business Basic、Standard、または Premium 
+- SharePoint K、Plan 1、または Plan 2 
+
+**[Offer Details]\(オファーの詳細\)**
+
+これらのプランでは、2 月 1 日の価格表でプラン名に "トピック エクスペリエンス" が示されます。  これらのプラン名は、価格表が 3 月 1 日に更新されるときに、"Viva Topics" に更新されます。
+
+|**プラン名**|**プラン ID**|**マテリアル ID**|
+|------------------|:--------------------|:------------------|
+|Viva Topics|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
+|教職員向け Viva Topics|8c930d38-db61-4afa-83f9-77c595c5cdfc|1TK-00006|
+|学生向け Viva Topics|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
+
+### <a name="next-steps"></a>次のステップ
+
+- このトピックに関するリソースを確認し、この情報を組織内の該当する関係者と共有します。  
+- 詳細については、[Viva Topics のリソース センター](https://resources.techcommunity.microsoft.com/viva-topics)を参照してください。
+
+_______________
+
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 E3 の価格が 2021 年 3 月に変更予定
+
+### <a name="categories"></a>Categories
+
+- 日付:2021 年 2 月 11 日
+- 製品サービス/市場
+
+### <a name="affected-audience"></a>対象
+
+EUR、AUD、GBP、および JPY でクラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー様。
+
+### <a name="details"></a>詳細
+
+2021 年 3 月のライセンスベースのプレビュー価格表が更新され、Microsoft 365 E3 の価格変更が追加されました。 影響を受けるプランと通貨は次のとおりです。 
+ 
+オファー名:Microsoft 365 E3 プラン ID:2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091  マテリアル ID:AAA-35638
+
+これらの Microsoft 365 E3 の価格の更新は、次の通貨のみに限られます。JPY (日本円)、GBP (英国ポンド)、EUR (欧州連合)、AUD (オーストラリア ドル)。 3 月のファイルには他にも価格変更があり、パートナー様は、その他の予定されている変更を確認するには最新のプレビューを取得してください。
+
+### <a name="next-steps"></a>次のステップ
+
+パートナー様は、3 月の最新の価格を入手するには、パートナー センターから最新の価格表ファイルをダウンロードする必要があります。 
+
+_______________
+
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>ノルウェー クローネについて、ライセンスベースのプレビュー価格表の更新
+
+### <a name="categories"></a>Categories
+
+- 日付:2021 年 2 月 10 日
+- 製品サービス/市場
+
+### <a name="affected-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー様
+
+### <a name="summary"></a>要約
+
+2021 年 3 月 1 日に予定されているノルウェー クローネの価格について、ライセンスベースのプレビュー価格表が更新されました。
+
+### <a name="details"></a>詳細
+
+3 月の外国為替レートの変更は、以前の 3 月のライセンスベースの価格表には含まれていませんでした。 このファイルは、予測されるノルウェー クローネ価格の変更を反映するように更新されています。 パートナー様は、2021 年 3 月 1 日に予測されるこれらの変更を確認するために、最新のプレビュー価格ファイルを入手する必要があります。 これらの変更は、ノルウェー クローネ通貨料金限定です。
+
+### <a name="next-steps"></a>次のステップ
+
+パートナー様は、2021 年 3 月 1 日の予想される変更ｍのため、最新の価格表プレビュー ファイルをダウンロードする必要があります。
 
 _______________
 
@@ -76,7 +268,7 @@ ________________
 
 ### <a name="categories"></a>Categories
 
-- 日付:2021 年 2 月 3 日
+- 日付:2021 年 2 月 5 日
 - 機能
  
 ### <a name="impacted-audience"></a>対象
@@ -111,7 +303,7 @@ ________________
 
 新機能の使用に関してサポートが必要な場合は、サポート情報の[紹介セクション](https://docs.microsoft.com/partner-center/referrals)、または[共同販売エクスペリエンス ギャラリー](https://aka.ms/CoSellExperience)で入手可能なハウツー サポート資料を参照してください (サインインが必要)。
 
-さらにサポートが必要な場合は、[パートナー サポート チームへのチケット](https://partner.microsoft.com/support/?stage=1)を開いてください。
+サポートが必要な場合は、[パートナー サポート チームへのチケットを開く](https://partner.microsoft.com/support/?stage=1)ことができます。
 
 ________________
 ## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a>教育機関のお客様の検証プロセス用の PUT Qualification API が 2021 年 2 月 25 日までに、GET 認定が 2021 年 5 月 4 日までに非推奨化および廃止。
@@ -131,7 +323,7 @@ ________________
 
 ### <a name="next-steps"></a>次のステップ
 
-- 適切かつタイムリーに移行できるよう、まだ行っていない場合は、**新しい API に更新してください**。
+- 適切かつタイムリーに移行できるよう、**新しい API に更新** してください。
 - 次のオペレーション レディネス リソースで、**新しいパートナー センター API に関する変更点とガイドを確認してください**: [パートナー センターの教育機関顧客検証プロセスの機能強化](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - **この情報を組織内の該当するチームやリセラーと共有し**、これらの変更内容に対して準備できるようにしてください。
 

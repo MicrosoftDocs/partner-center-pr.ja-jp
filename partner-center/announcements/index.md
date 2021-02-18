@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490157"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540983"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,8 @@ ms.locfileid: "100490157"
 
 |**カテゴリ**|**2021 年 2 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[公開中:Microsoft Partner Agreement (MPA) に基づくパートナー向けの DocuSign から Adobe Sign への移行](2021-february.md#9)|2 月 16 日|
+|ビジネスの拡大|[リマインダー:パートナー センター API を呼び出すパートナーに対する API 調整の導入](2021-february.md#8)|2 月 16 日|
 |機能|[Microsoft Viva Topics の紹介](2021-february.md#7)|2 月 12 日|
 |製品サービス/市場|[Microsoft 365 E3 の価格が 2021 年 3 月に変更予定](2021-february.md#6)|2 月 11 日|
 |製品サービス/市場|[ノルウェー クローネについて、ライセンスベースのプレビュー価格表の更新](2021-february.md#5)|2 月 10 日|

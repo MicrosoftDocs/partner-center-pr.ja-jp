@@ -1,7 +1,7 @@
 ---
 title: CSP 向け Microsoft Partner Agreement (MPA)
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 02/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 署名する Microsoft CSP パートナーの要件について説明します。また、この統一され、デジタル署名済みの Microsoft Partner Agreement (MPA) を確認します。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773479"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281319"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP プログラム パートナー向け Microsoft Partner Agreement (MPA) について説明します。
 
@@ -34,6 +34,8 @@ CSP プログラムへの参加を続けるには、2020 年 1 月 31 日まで�
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>MPN ID がアクティブで、パートナー センターに移行されていることを確認する
 
 1. MPN アカウントを Partner Membership Center (PMC) からパートナー センターに移行していない場合は、[MPN アカウントをパートナー センターに移行する](move-pmc-pc-map.md)必要があります。 移行が完了したら、残りの手順を完了します。 
+
+1. MPN アカウントまたは ID を持っていない場合は、まず Microsoft Partner Network プログラムに参加する必要があります。 [MPN への参加方法を確認する](mpn-create-a-partner-center-account.md)
 
 1. MPN アカウントの資格情報を使用して、パートナー センターにサインインします。
  
@@ -103,7 +105,7 @@ MPA に署名したかどうかを確認する方法:
 
 1. MPN アカウントを PMC からパートナー センターに移行する場合:[PMC からパートナー センターに移行し、Microsoft Partner Agreement に同意する](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. パートナー センターで CSP Indirect Reseller として登録する場合:[MPN メンバーと Microsoft Partner Agreement へのオンボード](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. パートナー センターで CSP Indirect Reseller として登録する場合:[MPN メンバーのオンボードと Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
 3. 上の手順 1. または手順 2. のいずれかを完了した後に、パートナー センターで MPA の状態を確認する場合:[Microsoft Partner Agreement への同意の状態を確認する](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
