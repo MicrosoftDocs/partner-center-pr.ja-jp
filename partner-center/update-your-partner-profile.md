@@ -1,22 +1,22 @@
 ---
-title: 組織プロファイルを確認する
+title: 会社のプロファイルを確認する
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 主要連絡先、住所、プログラム情報など、ご自身の会社の詳細情報を確認する方法について説明します。 また、法的住所や請求先住所を更新することもできます。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 01/14/2021
-ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.date: 03/03/2021
+ms.localizationpriority: medium
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235921"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755798"
 ---
-# <a name="verify-your-organization-profile-information-in-partner-center"></a>パートナー センターで組織プロファイルの情報を確認する
+# <a name="verify-your-company-profile-information-in-partner-center"></a>パートナー センターで、会社プロファイルの情報を確認する
 
 **適切なロール**
 
@@ -27,9 +27,7 @@ ms.locfileid: "98235921"
 
 パートナー プロファイルは、法的ビジネス情報、主要連絡先担当者の名前とメール、会社が参加しているプログラム、および法的ビジネスに統合されている他の企業 (該当する場合) で構成されます。 法的ビジネス プロファイルの会社名と住所にスペルミスや省略形がなく、正式な会社のビジネス登録レコードと正確に一致していることを確認します。 個人事業として業務を行っている場合は、会社名を正式名称として使用する必要があります。
 
->[!Important]
->- MPN アカウントの場合は、グローバル管理者とアカウント管理者の両方が、会社の正式名称を更新できます。
->- CSP 間接リセラー アカウントの場合は、グローバル管理者が会社の正式名称を更新できます。 
+
 
 ## <a name="locate-the-legal-business-profile"></a>法的ビジネス プロファイルを見つける
 
@@ -45,46 +43,48 @@ ms.locfileid: "98235921"
 
 パートナー センターで法的住所を更新します。
 
+>[!Important]
+>- MPN アカウントの場合は、グローバル管理者とアカウント管理者の両方が、会社の正式名称を更新できます。
+>- CSP 間接リセラー アカウントの場合は、グローバル管理者のみが会社の正式名称を更新できます。 
+
 1. **[設定]** に移動し、 **[組織のプロファイル]** を選択します。
 
-
 2. **[法的情報]** を選択してから、使用する法人プロファイルを選択します。
+ 
+1. **[送信]** を選択すると、法的 ID が再評価された後、別のメールが届くので、それを承諾する必要があります。
 
 >[!Important]
->クラウド ソリューション プロバイダー (CSP) パートナーの場合、法的住所に関連付けられた国を変更することはできません。法的住所の国は、テナントとサービス、およびビジネスで使用している通貨に関連付けられています。 CSP プログラムを利用していない場合、法的住所に関連付けられている国を変更できます。 検証の状態が "承認済み" の場合、パートナー センターで会社の正式名称を更新することはできません。 名前を変更する必要がある場合は、[サポート チケットを作成する](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)必要があります。
+>クラウド ソリューション プロバイダー (CSP) パートナーの場合、法的住所に関連付けられた国を変更することはできません。法的住所の国は、テナントとサービス、およびビジネスで使用している通貨に関連付けられています。 CSP プログラムを利用していない場合、法的住所に関連付けられている国を変更できます。 直接請求パートナーと間接プロバイダーは、検証の状態が "承認済み" の場合、会社の正式な名前を変更することはできません。 名前を変更する必要がある場合は、[サポート チケットを作成する](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)必要があります。
 
-3. **[送信]** を選択すると、法的 ID が再評価された後、別のメールが届くので、それを承諾する必要があります。
+
 
 ## <a name="update-your-mpn-global-business-account"></a>MPN グローバル ビジネス アカウントを更新する
 
-Partner Membership Center からパートナー センターへの移行中、誤った会社が法法人として特定された場合は、正しい法人に変更できます。
+Partner Membership Center からパートナー センターへの移行中、誤ったビジネス アカウントが法人として特定された場合は、正しい法人アカウントに変更できます。
 
-1. **[アカウントの設定]** から **[組織のプロファイル]** に移動し、さらに **[法的情報]** に移動します。
+これらの更新を行うには、グローバル管理者かアカウント管理者である必要があります。詳しくは、[MPN のグローバルな場所アカウントを管理](manage-locations.md)する方法に関する記事をご覧ください。
 
-1.  **[場所]** まで下にスクロールし、必要な会社が法人として一覧に表示されていることを確認します。 表示されていない場合は、追加できます。 **[場所の追加]** を選択します。 場所の詳細を追加して、 **[保存]** を選択します。
-
-2. 次に、 **[Update legal business profile]\(法人プロファイルの更新\)** まで上にスクロールします。
-
-3. 先ほど追加した場所が表示されます。 それと、法人として使用する会社を選択して、 **[保存]** を選択します。
 
 ## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>CSP アカウントに関連付けられている MPN ID を更新する
 
 ご使用の CSP アカウントに関連付けられている MPN ID を更新するには、次のようにします。
 
-1. パートナー センター ダッシュボードにサインインして、 **[設定]** を選択します。
+1. CSP アカウントの資格情報を使用して、グローバル管理者としてパートナー センターの [ダッシュボード](https://partner.microsoft.com/en-us/dashboard/home)にサインインし、 **[設定]** を選択します。 (MPN と CSP の資格情報は異なる場合があります。)
  
 1. **[アカウント設定]** から **[識別子]** を選択します。
 
 1. **[CSP]** セクションの **[更新]** リンクを使用して、CSP アカウントに関連付けられている MPN ID を更新します 
 
 
-## <a name="update-your-billing-address"></a>請求先住所を更新する
+## <a name="update-your-csp-legal-billing-address"></a>CSP の法的請求先住所を更新する
 
 グローバル管理者、課金管理者、または管理エージェントの場合は、請求書に表示される住所を **[Payout and tax profile]\(支払いと税金プロファイル\)** で変更できます。 ただし、請求書システムの制限により、請求書の会社名を変更することはできません。
+
+
 
 ## <a name="next-steps"></a>次の手順
 
 - [確認の状態を調べる](verification-responses.md)
- 
+
 - [MPN の場所を管理する](manage-locations.md)
 

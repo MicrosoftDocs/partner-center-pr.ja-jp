@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/05/2021
-ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540983"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756149"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,11 @@ ms.locfileid: "100540983"
 
 |**カテゴリ**|**2021 年 2 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[PUT 認定 API は廃止されており、GET は 5 月に廃止される予定です](2021-february.md#14)|2 月 25 日|
+|機能|[パートナー センターの一括操作機能を使用して大規模に共同販売取引を共有する](2021-february.md#13)|2 月 25 日|
+|機能|[新しい取引移行機能を使用して Partner Sales Connect (PSC) から取引を移行する](2021-february.md#12)|2 月 25 日|
+|機能|[パートナー主導の共同販売取引による柔軟性の向上](2021-february.md#11)|2 月 25 日|
+|機能|[クラウド ソリューション プロバイダー (CSP) のお客様のオンボードの変更](2021-february.md#10)|2 月 25 日|
 |機能|[公開中:Microsoft Partner Agreement (MPA) に基づくパートナー向けの DocuSign から Adobe Sign への移行](2021-february.md#9)|2 月 16 日|
 |ビジネスの拡大|[リマインダー:パートナー センター API を呼び出すパートナーに対する API 調整の導入](2021-february.md#8)|2 月 16 日|
 |機能|[Microsoft Viva Topics の紹介](2021-february.md#7)|2 月 12 日|
