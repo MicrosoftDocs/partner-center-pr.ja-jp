@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 CRM パートナーセンターの共同販売コネクタ
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターの紹介を Dynamics 365 CRM の共同販売コネクタと同期します。 販売元は、CRM システム内から Microsoft と共同で販売することができます。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645770"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756796"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM の共同販売コネクタ–概要
 
@@ -35,7 +35,7 @@ ms.locfileid: "100645770"
 |パートナー センター アカウント|パートナーセンターのテナントに関連付けられている MPN ID は、共同販売ソリューションに関連付けられている MPN ID と同じである必要があります。 コネクタをデプロイする前に、パートナーセンターポータルで共同販売の紹介を確認できることを確認します。|[アカウントの管理](create-user-accounts-and-set-permissions.md)|
 |パートナー センターのユーザー ロール|コネクタをインストールして使用する従業員は、参照管理者である必要があります|[ユーザー ロールとアクセス許可の割り当て](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|CRM ユーザーロールは、システム管理者またはシステムカスタマイザーです。|[Dynamics 365 でロールを割り当てる](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|パワー自動化フローアカウント|テスト/ステージングおよび運用のためにデータベースを使用して、新しい運用環境を作成します。 データベースが存在する既存の運用環境がある場合は、再利用できます。 コネクタソリューションをインストールするユーザーは、電源を自動で使用し、この環境にアクセスする必要があります。進行状況を監視し、[ソリューション] の [履歴の表示] をクリックすると、インストールが [Power の自動化](https://flow.microsoft.com/) に失敗することを確認できます。|[環境の作成または管理](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|パワー自動化フローアカウント|テスト/ステージングおよび運用のためにデータベースを使用して、新しい運用環境を作成します。 データベースが存在する既存の運用環境がある場合は、再利用できます。 コネクタソリューションをインストールするユーザーは、電源を自動で使用し、この環境にアクセスする必要があります。進行状況を監視し、[ソリューション] の [履歴の表示] をクリックすると、インストールが [Power の自動化](https://flow.microsoft.com/) に失敗することを確認できます。|[環境の作成または管理](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Dynamics 365 のパートナーセンターの紹介同期をインストールする (電源自動化ソリューション)
 
@@ -110,7 +110,7 @@ ms.locfileid: "100645770"
 
 1. [ **ソリューション** ] ページに戻り、[ **既定のソリューション**] を選択します。 [**すべて**] をクリックして、[**接続の参照 (プレビュー)** ] を選択します。
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="接続する":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="接続の編集":::
 
 2. 3つのドットアイコンを選択して、各接続を1つずつ編集します。 関連する接続を追加します。
 
@@ -141,9 +141,9 @@ ms.locfileid: "100645770"
 
 3. **コピー** アイコンを選択して、指定された HTTP POST URL をコピーします。
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="URL のコピー":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="Webhook を使用してリソースの変更を登録する":::
 
-4. 次に、"パートナーセンターの Webhook の登録 (Insider Preview)" パワー自動化フローを選択し、[ **実行**] を選択します。
+4. "パートナーセンターの Webhook 登録 (Insider Preview)" パワー自動化フローを選択し、[ **実行**] を選択します。
 
 5. 右側のウィンドウで [実行フロー] ウィンドウが開いていることを確認し、[ **続行**] をクリックします。
 
@@ -205,7 +205,7 @@ CRM システムは高度にカスタマイズされており、CRM のセット
 
 3. **新しい** 値オプションを使用して **現在の値** を更新し (既定値を更新しないでください)、値を指定します。 値は、変数のデータ型と一致する必要があります。たとえば、Yes/No データ型では Yes または No 値が許可されます。
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="既定値のエディットボックス":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="環境変数の更新":::
 
 - エンドツーエンドの双方向の共同販売参照の同期
 
@@ -292,7 +292,7 @@ CRM システムは高度にカスタマイズされており、CRM のセット
 
    6. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [見込み客を管理する](manage-leads.md)
 

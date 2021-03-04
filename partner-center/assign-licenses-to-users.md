@@ -1,7 +1,7 @@
 ---
 title: 顧客アカウントのユーザーを管理する
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーセンターで顧客のユーザーを管理する-ユーザーアカウントの作成、ユーザーライセンスの追加または削除、パスワードのリセット、ユーザーアカウントの削除または復元を行います。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570741"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756081"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>顧客アカウントのユーザーとユーザーライセンスを管理する 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570741"
 顧客のアカウントで新しいユーザーを作成および削除することができます。 また、削除後30日以内に削除した1つ以上のユーザーアカウントを復元することもできます。 ユーザーの以前のサブスクリプションの割り当ても (以前の割り当てが利用可能な場合は) 復元されます。
 
 顧客の新しいサブスクリプションを購入する場合、顧客は、アカウントを必要とするすべてのユーザー、ユーザーのアクセス許可、および各ユーザーが必要とするサービスの一覧を提供する必要があります。  
+
+>[!NOTE]
+>[**顧客**] タブの [**ユーザーとライセンス**] セクションには、特定の顧客のテナントで作成されたすべてのユーザーが表示されます。これには、別の CSP パートナーから購入したライセンスや別の購入チャネルからライセンスを取得したユーザーも含まれます
 
 一度に[複数のユーザーにサブスクリプションを割り当てる](bulk-license-provisioning-for-multiple-users.md)ことができます。これには、[Excel 互換の .csv スプレッドシート ファイル](adding-multiple-users-to-a-customer-account.md) を使って、名前をインポートします。
 
@@ -108,7 +111,7 @@ ms.locfileid: "96570741"
 
     選択したすべてのユーザー アカウントが、**[ユーザーとライセンス]** ページに再び表示されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [複数のユーザーへのライセンスの割り当てまたは取り消し](bulk-license-provisioning-for-multiple-users.md)
 

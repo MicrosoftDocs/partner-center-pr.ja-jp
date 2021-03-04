@@ -1,7 +1,7 @@
 ---
 title: 顧客の代理で問題を報告する
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: カスタマーサービスの問題を Microsoft にエスカレートするタイミング、およびさまざまな種類の Microsoft サービスのサポートチケットをファイルにする方法について説明します。
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153147"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756432"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>顧客に代わってサービスの問題を報告します。その方法や方法などが含まれます。
 
@@ -147,9 +147,7 @@ Dynamics 365 Plan サブスクリプション、ライセンス、課金、財�
  
 [Dynamics サポート](/dynamics365/customer-engagement/admin/contact-technical-support)に問い合わせる
 
-「[Microsoft Dynamics のサポート](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)」を参照する
-
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客へのサポート提供](customer-support.md)
 - [サービスの正常性の確認](check-service-health.md)

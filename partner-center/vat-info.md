@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755641"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755747"
 ---
 # <a name="value-added-tax-vat-information"></a>付加価値税 (VAT) 情報
 
-**適用対象:**
+**適切なロール**
 
-- パートナー センター
-- 商業マーケットプレース
+- アカウント管理者
+
 
 パートナーセンターの登録プロセス中に VAT ID 番号を入力する必要がある場合は、次の情報を参照してください。
 
@@ -78,6 +78,7 @@ Microsoft は税金に関するアドバイスを提供しないこと、およ�
 |スペイン |-VAT 番号の形式: 9 桁<br/>-国/地域コード: ES<br/>-Example: X12345678、X1234567X 8X、または<br/>-Notes: 1 文字または2文字 (first、last、first、last) が含まれます。 |
 |スウェーデン |-VAT 番号の形式:12 桁<br/>-国/地域コード: SE<br/>-例: 123456789001<br/>-注: 最後の2文字は ' 01 ' でなければなりません。 |
 |イギリス |-VAT 番号の形式: 9 または12桁<br/>-国/地域コード: GB<br/>-例: 123456789 または123456789001<br/>-Note: 9 桁の数字。数値がグループ内のサブ会社を表している場合は12桁です。 |
-## <a name="next-steps"></a>次の手順
+
+## <a name="next-steps"></a>次のステップ
 
 - [会社の税金情報と、パートナーセンターの購入のために VAT Id を追加または送信する方法](organization-tax-info.md)

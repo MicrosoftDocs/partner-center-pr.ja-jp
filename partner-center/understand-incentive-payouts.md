@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492723"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755862"
 ---
 # <a name="view-your-incentives-program-details"></a>インセンティブプログラムの詳細を表示する
-
-**適用対象**
-
-- パートナー センター
 
 **適切なロール**
 
@@ -37,7 +33,7 @@ ms.locfileid: "97492723"
 
 ## <a name="access-the-incentives-overview-page"></a>[インセンティブの概要] ページにアクセスする
 
-1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+1. [パートナー センター ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 1. メニューから [ **インセンティブ**]、[ **概要** ] の順に選択します。
 1. ページの上部にある収益と支払いの概要と、下の表にある詳細を確認します。 また、付随するテーブルを並べ替え、グループ化、展開することもできます。
 
@@ -75,5 +71,6 @@ ms.locfileid: "97492723"
 
 また、 [パートナーの支払い API](https://apidocs.microsoft.com/services/partnerpayouts) を使用して、支払いトランザクションと支払いデータを直接接続して取得することもできます。 詳細については、「 [支払明細書](payout-statement.md) 」を参照してください。
 
-## <a name="next-steps"></a>次の手順
-- [支払い明細書](payout-statement.md)
+## <a name="next-steps"></a>次のステップ
+
+- [支払い明細](payout-statement.md)

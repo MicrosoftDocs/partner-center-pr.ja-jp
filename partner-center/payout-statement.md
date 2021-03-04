@@ -1,5 +1,5 @@
 ---
-title: 支払い明細書
+title: 支払い明細
 description: 支払いの明細書と概要、および Microsoft パートナーセンターから支払いデータを表示およびエクスポートする方法について説明します。
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
@@ -7,14 +7,14 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492638"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756165"
 ---
-# <a name="payout-statements"></a>支払い明細書
+# <a name="payout-statements"></a>支払い明細
 
 **適切なロール:**
 
@@ -99,11 +99,11 @@ ms.locfileid: "97492638"
 
 次の表は、支払い月の推定例を示しています。
 
-| Month | 量 |
+| 月 | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  $7273.99   |
 |  10月-2020 | $8692.30  |
-|  11月-2020 | $107.89  |
+|  2020 年 11 月 | $107.89  |
 
 予測金額は、次のようなさまざまな理由で実際の量と異なる場合があります。
 
@@ -138,7 +138,7 @@ ms.locfileid: "97492638"
 | claimId | 要求の一意の識別子 | インセンティブ - 一部のプログラムのみ |
 | customerCountry | 顧客の国/地域 | marketplaces |
 | 顧客の電子メール |  |  |
-| customerName | 常に空白になります | インセンティブプログラムのみ (例外: OEM) とマーケットプレイス |
+| customerName | 空白にすることができます | インセンティブプログラムのみ (例外: OEM) とマーケットプレース。 CSP トランザクションの場合、マーケットプレースに CSP の名前が表示されます。 |
 | 顧客 Tenantid |  |  |
 | distributorId | ディストリビューター識別子 | インセンティブ - 一部のプログラムのみ |
 | distributorName | ディストリビューター名 | インセンティブ - 一部のプログラムのみ |
@@ -161,7 +161,7 @@ ms.locfileid: "97492638"
 | LicensingProgramName | ライセンス プログラムの名前 |  |
 | LineItemId | 顧客の請求書の個別行 |  |
 | localProviderSeller | レコードのローカル プロバイダー/販売者 |  |
-| 成熟度月 | 見積支払い月 | すべて |
+| 成熟度月 | 見積支払い月 | All |
 | OrderId | 顧客の請求書に関連しています  | marketplaces |
 | parentProductId | 一意の親製品識別子。 取引の親製品がない場合は、親製品 ID = 製品 ID です。 | marketplaces |
 | parentProductName | 親製品の名前。 取引の親製品がない場合は、親製品名 = 製品名です。 | marketplaces |
@@ -174,7 +174,7 @@ ms.locfileid: "97492638"
 | paymentStatus | 支払いの状態 | All |
 | paymentStatusDescription | 支払い状態のわかりやすい説明 | All |
 | productId | 一意の製品識別子 | marketplaces |
-| productName | 取引にリンクされている製品名 | すべて |
+| productName | 取引にリンクされている製品名 | All |
 | productType | 製品の種類 (アプリ、アドオン、ゲームなど) | marketplaces |
 | Program Code | プログラム名と共にマップする文字列 |  |
 | programName | インセンティブ/ストア プログラム名 | All |
@@ -263,7 +263,7 @@ ms.locfileid: "97492638"
 | 予定 | 支払いが処理される前に、保留中の内部レビューが生成されました。 | いいえ |
 | 保留中の税金請求書 | 税金請求書が不完全または無効です。 | 支払いを受けるには、税金請求書を更新する必要があります |
 | 審査中に拒否 | 確認中に支払いが拒否されました。 | 詳細については、Microsoft サポートにお問い合わせください |
-| Failed | Microsoft システムエラーが発生したため、支払いに失敗しました。 | 詳細については、Microsoft サポートにお問い合わせください |
+| 失敗 | Microsoft システムエラーが発生したため、支払いに失敗しました。 | 詳細については、Microsoft サポートにお問い合わせください |
 | 進行中 | 支払いが進行中です。 | いいえ |
 | 誤った支払い | 支払い recouping が進行中です。 | いいえ |
 | 送信済み | 支払いが銀行に送信されました。 | いいえ |
@@ -357,7 +357,7 @@ ms.locfileid: "97492638"
 | Charges | [Transaction Amount]\(取引額\) 列で集計されているすべての料金詳細の明細が表示されます (含まれる対象は Azure Marketplace のみになります。**Reserved (予約)** CSV ファイルには含まれません)。 |
 |||
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [パートナー支払い API](https://apidocs.microsoft.com/services/partnerpayouts)
 - [支払いポリシーの詳細](payout-policy-details.md)

@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861412"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756842"
 ---
 # <a name="payout-schedules-and-processes"></a>支払いスケジュールとプロセス
 
@@ -37,7 +37,6 @@ ms.locfileid: "98861412"
 | --- | --- | --- | --- |
 | トランザクションの使用状況または月 | 顧客がサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月1** |
 | Microsoft は請求金額を計算します | 合計使用量、合計トランザクション数 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月2** |
-| 顧客によって支払われる請求書 | Microsoft がお客様から支払いを収集します | 変更なし | **月2** |
 | 投稿された支払い | 機関の費用と支払いの利益を確認する | [支払いステートメント](payout-statement.md)のトランザクション履歴で未処理としてマークされている | **Month 3 (第1週)** |
 | 支払いを準備する | 毎月の支払いのために収益が準備されています | [支払明細書](payout-statement.md)のトランザクション履歴で、次のようにマークされています。 | **Month 3 (第1週)** |
 | **送信された支払い** | **支払いはパブリッシャーに送信されます** | **トランザクション履歴と、支払い [明細書](payout-statement.md)の支払いセクションで送信済みとしてマークされます。** | **月 3 (15 日以降)** |

@@ -1,29 +1,26 @@
 ---
 title: Microsoft ライセンスリソース
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft パートナーとして、さまざまな Microsoft ライセンスプログラムの使用についてご質問がある場合があります。 この記事では、役立つリソースを提供します。
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999756"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756811"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft パートナー向けリソース ライセンス ガイド 
 
-**適用対象**
-
-- Microsoft MPN パートナー、CSP パートナー、その他
 
 この記事では、パートナーのライセンスに関する質問への回答に役立つリソースを共有します。
 
-Microsoft パートナーは、1つまたは複数のライセンスプログラム、チャネル、または契約に参加することがあります。 パートナーセンターのダッシュボードで作業している場合は、クラウドソリューションプロバイダー (CSP) プログラムや Microsoft Partner Network (MPN) プログラムなどのプログラムを含めることができます。 その他のライセンスプログラムには、マイクロソフトエンタープライズ契約 (EA) ライセンス、ボリュームライセンス (VL)、OEM ライセンスプログラム、ソフトウェアアシュアランストレーニングまたはバウチャープログラム、オープンライセンスプログラムなどがあります。
+Microsoft パートナーは、1つまたは複数のライセンスプログラム、チャネル、または契約に参加することがあります。 パートナーセンターのダッシュボードで作業している場合は、クラウドソリューションプロバイダー (CSP) プログラムや Microsoft Partner Network (MPN) プログラムなどのプログラムを含めることができます。 その他のライセンスプログラムには、Enterprise Agreement (EA) ライセンス、ボリュームライセンス (VL)、OEM ライセンスプログラム、ソフトウェアアシュアランストレーニングまたはバウチャープログラム、オープンライセンスプログラムなどがあります。
 
 各プログラムには、特定の契約と用語が関連付けられています。 同様に、使用する特定の製品には、その使用に関連する製品固有のライセンス契約が追加されている場合があります。
 
@@ -32,7 +29,7 @@ Microsoft パートナーは、1つまたは複数のライセンスプログラ
 > [!NOTE]
 > より詳細なライセンスの質問や顧客の見積もりに関するヘルプが必要な場合は、ライセンスプログラムの割り当て済み間接プロバイダー (CSP プログラムの場合) またはプログラムのディストリビューターから開始します。 多くの場合、特定のライセンスの質問、または顧客の見積もり、SKU の購入、または前提条件の作成に関する質問については、最適な最初のポイントとなります。 このロールを提供するパートナーをお持ちでない場合は、「 [パートナー](find-a-partner.md) を見つけてください」を参照してください。
 >
-> また、Microsoft の連絡先に連絡して、ライセンスの専門家の内部チームを利用することもできます。 特定の Microsoft 連絡先がない場合は、[パートナーサポート](https://partner.microsoft.com/support/v2/?stage=1)にアクセスして、サポートページの [**問題**] フィールドに「**ライセンス**」と入力してください。 ここでは、利用可能なその他のライセンスサポートリソースについて説明します。 それでもヘルプが必要な場合は、サポートチケットを記録して、特定のライセンスの質問に回答したり、正しい製品 SKU を見つけたりすることもできます。
+> また、Microsoft の連絡先に連絡して、ライセンスの専門家の内部チームを利用することもできます。 特定の Microsoft 連絡先がない場合は、[パートナーサポート](https://partner.microsoft.com/support/v2/?stage=1)にアクセスして、サポートページの [**問題**] フィールドに「**ライセンス**」と入力してください。 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>ライセンスとライセンスのトレーニングに関する一般的なリソース
 
@@ -47,7 +44,7 @@ Microsoft パートナーは、1つまたは複数のライセンスプログラ
 |Microsoft cloud services とオンプレミスソフトウェアの異なるパートナーライセンス契約を比較する *(詳細ビュー)*  | [Microsoft ライセンス契約](https://partner.microsoft.com/licensing/licensing-agreements)  |
 |ボリュームライセンス (VL) と特定のソリューションのライセンスについて詳しくは、こちらをご覧ください。  | [Microsoft ライセンス-製品とソリューション](https://www.microsoft.com/licensing/default) |
 |ボリュームライセンスのトレーニングとリソースについて説明します。これは、VL の価格、見積もり、契約、製品のライセンス認証、およびその他のツールに役立ちます。  | [トレーニングとリソースの Microsoft Partner Network](https://partner.microsoft.com/licensing/training-and-resources) |
-|**ライセンス準備**済みライセンストレーニングモジュールを確認する  | [ライセンスの取得準備完了](https://www.getlicensingready.com/)  |
+|**ライセンス準備** 済みライセンストレーニングモジュールを確認する  | [ライセンスの取得準備完了](https://www.getlicensingready.com/)  |
 |大規模な組織に対して Microsoft ライセンスソリューションを設計および提供するのに役立つライセンス試験について説明します *(試験は、2021年1月31日に 11:59 PM 中部標準時に廃止されます)。*  | [試験70-705](/learn/certifications/exams/70-705) |
 
 ## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>プログラム固有および製品固有のライセンス条項と契約
@@ -69,7 +66,7 @@ Microsoft パートナーは、1つまたは複数のライセンスプログラ
 |目的  | 解決方法については、  |
 |:------------------|:--------------- |
 |ボリュームライセンスプログラムのインストールメディアについて、調達に関する質問に回答します。 | [[ライセンス調達] ページ](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
-|マイクロソフトエンタープライズ契約 (EA)、サーバーとクラウドの登録 (SCE)、および Open Value サブスクリプション (OVS) のオンラインサービスに関して、調達に関する質問に回答します。  | [Microsoft ボリュームライセンスセンタートレーニングとリソース](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
+|Enterprise Agreement (EA)、サーバーとクラウドの登録 (SCE)、および Open Value サブスクリプション (OVS) のオンラインサービスに関して、調達に関する質問に回答します。  | [Microsoft ボリュームライセンスセンタートレーニングとリソース](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
 |Microsoft 製品およびサービス契約 (MPSA) に関連するオンラインサービスについて、調達に関する質問に回答します。  | [Microsoft Business Center のトレーニングとリソース](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) または [mpsa ライセンスの概要](https://www.microsoft.com/licensing/mpsa/default)  |  
 |クラウドソリューションプロバイダー (CSP) プログラムに関連付けられているオンラインサービスについて、調達に関する質問に回答します。  | [CSP サブスクリプションを顧客に販売する方法](customer-subscriptions.md)  |
 |Microsoft の支払いおよびファイナンスオプションに関する質問に回答します。  | [Microsoft ファイナンスプログラムに関する FAQ](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |

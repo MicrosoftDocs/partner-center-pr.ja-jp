@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835069"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756718"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>インセンティブに関してよく寄せられる質問
 
@@ -67,9 +67,9 @@ MPNHQ の所在地と同じ国にいない場合、このシナリオの詳細�
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>インセンティブの概要ページに登録されていない登録があります。
 
-ダッシュボードに表示されなくなったインセンティブプログラムを、から、またはに登録したことがある場合は、適切なアクセス権があるかどうかを再確認する必要があります。 インセンティブユーザーまたはインセンティブ管理者ロールを持つユーザーのみがプログラムを表示できます。 「 [ロールを検索する](https://docs.microsoft.com/partner-center/find-your-role)」を参照してください。
+ダッシュボードに表示されなくなったインセンティブプログラムを、から、またはに登録したことがある場合は、適切なアクセス権があるかどうかを再確認する必要があります。 インセンティブユーザーまたはインセンティブ管理者ロールを持つユーザーのみがプログラムを表示できます。 「 [ロールを検索する](./find-your-role.md)」を参照してください。
 
-ロールまたはアクセス許可を変更する必要がある場合は、会社のグローバルまたはアカウント管理者にお問い合わせください。これらのユーザーについては、「 [グローバル管理者を見つける](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)」を参照してください。
+ロールまたはアクセス許可を変更する必要がある場合は、会社のグローバルまたはアカウント管理者にお問い合わせください。これらのユーザーについては、「 [グローバル管理者を見つける](./find-your-role.md#find-your-global-admin)」を参照してください。
 
 [概要] ページには、Azure AD テナントに関連付けられているパートナーグローバルアカウント (PGA) に関連付けられている登録のみが表示されることに注意してください。 会社に複数の PGA がある場合は、それぞれに異なる資格情報が必要になります。
 
@@ -77,6 +77,6 @@ MPNHQ の所在地と同じ国にいない場合、このシナリオの詳細�
 
 ダッシュボードの [インセンティブ] セクション内で問題が発生した場合は、オンラインサポートサービスがあります。サポートオプション (? アイコン) を右上にあります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [インセンティブの概要](incentives-get-started-intro.md)

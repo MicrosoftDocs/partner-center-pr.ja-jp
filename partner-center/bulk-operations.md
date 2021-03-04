@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645641"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756063"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>コンマ区切り値 (CSV) ファイルを使用した共同販売機会の一括操作
 
@@ -77,11 +77,11 @@ Customer Name|はい|顧客会社の名前。 Microsoft 側での迅速な照合
 お客様の連絡先の姓|依存|Microsoft ヘルプが必要な場合にのみ、姓が必須です。 この案件に従事している顧客組織からの主要連絡先の姓。|Customer
 お客様の連絡先の電話番号|依存|電話番号は、Microsoft ヘルプが必要な場合にのみ必須です。 この案件に従事している顧客組織からの主要連絡先の電話番号。|9999999999
 お客様の連絡先の電子メールアドレス|依存|電子メールアドレスは、Microsoft ヘルプが必要な場合にのみ必須です。 この取引を担当する顧客組織からの主要連絡先の電子メールアドレス。|john.customer@contoso.com
-パートナーの参照ステータス|はい|会社の視点からの取引の状態を示します。 参照を作成または変更しようとした場合に必要です。 新しい商談を作成する場合は、 **new** を使用してください。 許容される値については、 [こちら](https://docs.microsoft.com/partner/develop/referral-resources#referralstatus)を参照してください。|アクティブ
-パートナーの参照の副状態|はい|取引の正確な状態を示します。 新しい商談を作成しようとしている場合は、[ **同意** する。 また、既存の参照を変更する場合にも必要です。 許容される値については、 [こちら](https://docs.microsoft.com/partner/develop/referral-resources#referralsubstatus)を参照してください。|同意
+パートナーの参照ステータス|はい|会社の視点からの取引の状態を示します。 参照を作成または変更しようとした場合に必要です。 新しい商談を作成する場合は、 **new** を使用してください。 許容される値については、 [こちら](/partner/develop/referral-resources#referralstatus)を参照してください。|アクティブ
+パートナーの参照の副状態|はい|取引の正確な状態を示します。 新しい商談を作成しようとしている場合は、[ **同意** する。 また、既存の参照を変更する場合にも必要です。 許容される値については、 [こちら](/partner/develop/referral-resources#referralsubstatus)を参照してください。|同意
 Microsoft の紹介ステータス|依存|Microsoft がヘルプを検索するために送信した共同販売要求の状態を示します。 これは読み取り専用フィールドです。 データのインポート中にこのフィールドに加えた変更はすべて無視されます。| Pending
 拒否または失われた理由|依存| この情報を提供する必要があるのは、フィールドのサブステータスを拒否または損失に変更する場合のみです。 この列は無視してもかまいません。 <br/> **以下のオプションに基づいて数値を入力してください** <br/><br/> **1**-プロジェクトの予算は十分ではありません  <br/> **2**-顧客が応答しませんでした  <br/> **3**-顧客が別のベンダーを選択  <br/> **4** -顧客の要件を満たしていません  <br/> **5** -顧客ではない <br/> **6**-提案されたタイムラインが短すぎます <br/> **7** -誤用、スパム、またはフィッシングとして報告する <br/> **8** -その他 |6|
-営業段階|いいえ|これは、紹介の詳細な販売ステージを示すフィールドです。 販売ステージの詳細について[はこちら](https://aka.ms/salesStages)をご覧ください|40
+営業段階|いいえ|これは、紹介の詳細な販売ステージを示すフィールドです。 販売ステージの詳細について[はこちら](./manage-co-sell-opportunities.md)をご覧ください|40
 予測取引金額|はい|"顧客との最初のメッセージ交換に基づく取引の価値。 これは、ターミナルの状態のいずれかに到達するまで変更できます。| 勝ちまたは lost。 "|12563
 Currency|はい|取引値が入力される通貨。 [ここで](https://en.wikipedia.org/wiki/ISO_4217)通貨コードを見つけることができます。|USD
 推定終了日|はい|顧客との最初のメッセージ交換に対する、MM/DD/YYYY という形式の取引の推定終了日。 <br/> **日付は UTC タイムゾーンで指定する必要があります。パートナーセンターの UI に表示されるすべての日付は、ローカライズされたタイムゾーンに基づいています。UTC タイムゾーンで日付を指定した参照を確認する場合、パートナーセンターの UI には +/-1 日の違いがあります。**|1/30/2020

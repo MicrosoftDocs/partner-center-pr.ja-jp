@@ -1,5 +1,5 @@
 ---
-title: ラーニングパートナーとして登録する
+title: ラーニング パートナーとして登録する
 ms.topic: how-to
 ms.date: 02/05/2021
 description: パートナーセンターを使用して、ラーニングパートナープログラムに登録します。 これは、学習 Action Pack、またはシルバーまたはゴールドコンピテンシーの学習オプションに基づいて行うことができます。
@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975664"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756134"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>パートナーセンターを使用して Microsoft のラーニングパートナーとして登録する
 
@@ -40,7 +40,7 @@ ms.locfileid: "99975664"
 
 **COVID-19 更新プログラム**
 
-Microsoft は、2021年1月1日から2021年6月30日までの間に記念日 (AD) を使用して、コンピテンシー拡張機能 (Cloud Business Applications コンピテンシーを除く) と高度な特殊化拡張機能を提供しています。 詳細については、 [パートナーのブログ投稿](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) を参照してください。
+Microsoft は、2021 年 1 月 1 日から 2021 年 6 月 30 日までの間に契約応当日 (AD) を迎えるパートナーに対し、コンピテンシーの延長 (クラウド ビジネス アプリケーション コンピテンシーを除く) と高度な専門性の延長を提供しています。 詳細については、[パートナーのブログ記事](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)を参照してください。
 
 学習プログラムの発表に関する最新情報を入手するには、 [ブログを読ん](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) で、 [ラーニングパートナーの Yammer ページ](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all)をご覧ください。 また、microsoft の [ラーニングリソースページ](https://partner.microsoft.com/marketing/learning-resources#/)で、プログラムドキュメントや月単位のコミュニティコール記録を見つけることもできます。
 
@@ -115,7 +115,7 @@ KPI のミーティングは、トレーニングの期間とは関係ありま�
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>Q. ラーニングパートナーのディレクトリに Microsoft ラーニングパートナーとして表示されないのはなぜですか。
 
-[ラーニングパートナーディレクトリ](https://docs.microsoft.com/learn/certifications/partners)に追加することが必要になる場合があります。 その後、[ラーニングパートナーのディレクトリ] ページから web サイトにリンクできます。
+[ラーニングパートナーディレクトリ](/learn/certifications/partners)に追加することが必要になる場合があります。 その後、[ラーニングパートナーのディレクトリ] ページから web サイトにリンクできます。
 
 これは、3週間に1か月に1回のみ送信される手動のプロセスです。 後続の更新プログラムは、次の月の最初の週の最後に表示されます。 この状況を解決するには、 [Partner 最前線のサポート](https://partner.microsoft.com/support)にお問い合わせください。 次の詳細情報を提供するように準備してください。
 

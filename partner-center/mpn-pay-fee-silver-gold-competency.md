@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042686"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757385"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>シルバーまたはゴールドコンピテンシーに関連する料金を支払う方法
 
@@ -37,7 +37,7 @@ ms.locfileid: "99042686"
 
 - 特定のシルバーまたはゴールドコンピテンシーを得るための [要件](https://partner.microsoft.com/membership/competencies) を既に満たしています。
 
-- [グローバル管理者または MPN partner admin](https://docs.microsoft.com/partner-center/permissions-overview)のパートナーセンターロールが割り当てられています。これらのロールのいずれかを使用していないゲストユーザーの場合は、以下で説明するパートナーセンターの一部のページへのアクセスが拒否されます。 この問題が発生した場合は、 [グローバル管理者に連絡](https://docs.microsoft.com/partner-center/find-your-role) して、適切なロールを割り当てるように依頼してください。 
+- [グローバル管理者または MPN partner admin](./permissions-overview.md)のパートナーセンターロールが割り当てられています。これらのロールのいずれかを使用していないゲストユーザーの場合は、以下で説明するパートナーセンターの一部のページへのアクセスが拒否されます。 この問題が発生した場合は、 [グローバル管理者に連絡](./find-your-role.md) して、適切なロールを割り当てるように依頼してください。 
 
 1. 組織の職場アカウントの資格情報を使用して、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
@@ -54,7 +54,7 @@ ms.locfileid: "99042686"
 
 4. [ **購入の詳細** ] ページで、詳細を確認して確認します。
 
-   (詳細については [、会社の **税 ID** 情報](https://docs.microsoft.com/partner-center/organization-tax-info) または会社の [**請求書** から会社の住所へ](https://docs.microsoft.com/partner-center/mpn-get-action-pack)の更新に関するページを参照してください)。
+   (詳細については [、会社の **税 ID** 情報](./organization-tax-info.md) または会社の [**請求書** から会社の住所へ](./mpn-get-action-pack.md)の更新に関するページを参照してください)。
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="メンバーシップには、支払いの設定を含む購入詳細ページが用意されています。" border="false":::
 
@@ -185,6 +185,6 @@ ms.locfileid: "99042686"
 
 5. [ **次** へ] を選択して、このプランの購入を完了し、割引を受けます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 [コンピテンシー](https://partner.microsoft.com/membership/competencies)、その利点、および固有の要件についての詳細情報

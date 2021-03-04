@@ -1,7 +1,7 @@
 ---
 title: パートナー貢献度インジケーター-CBA
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーがシルバーまたはゴールドのクラウド Business Applications コンピテンシーを実現する方法を示す7つのパートナー貢献度インジケーター (PCI) について説明します。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530818"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756557"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>パートナー貢献指標を使用してクラウド Business Applications コンピテンシーを獲得する
 
@@ -155,7 +155,7 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 - お客様は、その顧客のテナントに属している有料サブスクリプションのレコード (CPOR) のパートナーです。
 - お客様のテナントに属している有料サブスクリプションについては、デジタルパートナーの記録 (購入パートナー) になります。
 
-パートナーは、Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) インセンティブまたは Dynamics 365 [online services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (osu) インセンティブを通じて、サブスクリプションレベルで顧客との関連付けが確立されている場合には、cpor なります。
+パートナーは、Dynamics 365 Online Services Advisor (OSA) インセンティブまたは Dynamics 365 Online Services Usage (OSU) インセンティブを通じて、サブスクリプションレベルで顧客との関連付けが確立されている場合には、CPOR なります。 詳細については、「 [CPOR association](incentives-customer-associations-intro.md)について」を参照してください。
 
 パートナーは、製品内のサブスクリプション レベルで顧客との関連付けが確立されている場合、DPOR になります。
 
