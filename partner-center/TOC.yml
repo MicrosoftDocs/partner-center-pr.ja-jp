@@ -99,6 +99,11 @@
         - name: Azure とクラウドの利点
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
+        - name: Visual Studio の利点
+          href: mpn-benefits-visual-studio.md
+          displayname: 'visual studio, mpn, activate'
+        - name: テクニカル プリセールスと展開の利点
+          href: technical-benefits.md
     - name: Marketplace 報酬
       href: marketplace-rewards.md
     - name: ソフトウェア アシュアランス
@@ -447,6 +452,8 @@
           displayName: 'region, regio'
         - name: Microsoft から SLA クレジットを要求する
           href: request-credit.md
+        - name: 税金ポリシーが支払いに与える影響
+          href: tax-policies-affect-payout.md
     - name: お客様向けに Azure の支出の予算を設定する
       href: set-an-azure-spending-budget-for-your-customers.md
       displayName: csp
