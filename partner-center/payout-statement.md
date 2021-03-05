@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756165"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185351"
 ---
 # <a name="payout-statements"></a>支払い明細
 
@@ -56,8 +56,7 @@ ms.locfileid: "101756165"
 
 ## <a name="transaction-history"></a>取引履歴
 
-[ **トランザクションの履歴** ] ページには、収益の概要、次回の支払いの推定、過去36か月間の収益と支払いの傾向が表示されます。 このセクションからトランザクションの詳細をダウンロードすることもできます。
-
+[ **トランザクションの履歴** ] ページには、収益の概要、次回の支払いの推定、過去36か月間の収益と支払いの傾向が表示されます。 また、このセクションからトランザクションの詳細をダウンロードすることもできます。<br><br>このレポートには、まだ送信されていない支払いも含め、支払いの対象となるすべての利益が表示されます。 収益は、ISV がパートナーセンターですべての銀行および税金情報を完了し、>$50 を獲得し、ISV アカウントがアクティブになっていて、お客様に請求された場合 (EA トランザクションの場合) または支払い (EA 以外のトランザクションの場合) が発生した場合に支払われます。
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="トランザクションの概要。":::
 
@@ -99,7 +98,7 @@ ms.locfileid: "101756165"
 
 次の表は、支払い月の推定例を示しています。
 
-| 月 | Amount |
+| Month | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  $7273.99   |
 |  10月-2020 | $8692.30  |
