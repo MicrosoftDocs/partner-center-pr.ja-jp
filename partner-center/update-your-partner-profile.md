@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755798"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124773"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>パートナー センターで、会社プロファイルの情報を確認する
 
@@ -69,7 +69,7 @@ Partner Membership Center からパートナー センターへの移行中、�
 
 ご使用の CSP アカウントに関連付けられている MPN ID を更新するには、次のようにします。
 
-1. CSP アカウントの資格情報を使用して、グローバル管理者としてパートナー センターの [ダッシュボード](https://partner.microsoft.com/en-us/dashboard/home)にサインインし、 **[設定]** を選択します。 (MPN と CSP の資格情報は異なる場合があります。)
+1. CSP アカウントの資格情報を使用して、グローバル管理者としてパートナー センターの [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインし、 **[設定]** を選択します。 (MPN と CSP の資格情報は異なる場合があります。)
  
 1. **[アカウント設定]** から **[識別子]** を選択します。
 
@@ -87,4 +87,3 @@ Partner Membership Center からパートナー センターへの移行中、�
 - [確認の状態を調べる](verification-responses.md)
 
 - [MPN の場所を管理する](manage-locations.md)
-

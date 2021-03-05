@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756191"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124824"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
@@ -32,9 +32,9 @@ ms.locfileid: "101756191"
 > ここでは、移行に関する PSC にバナーが表示されているので、適切な場所にあります。 このガイドは、PSC での取引を管理するソリューション評価 (SA) および OEM ライセンスのビジネスパートナーには適用されません。
 
 >[!Important]
-> 2021年5月1日以降、会社は PSC での取引を作成または編集できなくなります。 **PSC の一括エクスポート機能を使用して、既存の取引データをダウンロードすることもできます。また、この日より後に、開いている商談を PSC からパートナーセンターに [移行](psc-to-pc.md#psc-deals-migration) することもできます。** <br><br> 積極的に作業している、IP 共同販売インセンティブ対象ソリューションを含む取引がある場合は、次の2つの選択肢があります。 <br><br> 1. 年4月30日より前に、PSC で商談登録を獲得して完了するようにマークします。 <br> 2. 取引をパートナーセンターに [移行](psc-to-pc.md#psc-deals-migration) して、商談の作業と商談登録の開始に時間をかけることができるようにします。
+> 2021年4月1日以降、会社は PSC での取引を作成または編集できなくなります。 **PSC の一括エクスポート機能を使用して、既存の取引データをダウンロードすることもできます。また、この日より後に、開いている商談を PSC からパートナーセンターに [移行](psc-to-pc.md#psc-deals-migration) することもできます。** <br><br> 積極的に作業している、IP 共同販売インセンティブ対象ソリューションを含む取引がある場合は、次の2つの選択肢があります。 <br><br> 1. 年3月31日より前に、商談登録を PSC に登録します。 <br> 2. 取引をパートナーセンターに [移行](psc-to-pc.md#psc-deals-migration) して、商談の作業と商談登録の開始に時間をかけることができるようにします。
 
-ご存じのように、 **2021 年5月31日以降、会社は PSC にアクセスできなくなり** ます。 ただし、パートナーセンターでは、共同販売取引の作成、取引の管理、Microsoft の販売者によって送信された取引に対する行動など、必要なものがすべて揃っています。
+ご存じのように、 **会社は2021年4月30日以降、PSC にアクセスできなくなり** ます。 ただし、パートナーセンターでは、共同販売取引の作成、取引の管理、Microsoft の販売者によって送信された取引に対する行動など、必要なものがすべて揃っています。
 
 ただし、違いがあります。 次のガイダンスを参考にして、パートナーセンターへの移行をスムーズに行うことができます。
 

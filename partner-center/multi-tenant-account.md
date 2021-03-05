@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターアカウントで複数の Azure AD テナントを追加、統合、または管理する方法について説明します。 いくつかの理由についても説明します。
+description: パートナーセンターアカウントで複数の Azure AD テナントを追加、統合、または管理する方法と、その方法について説明します。
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182437"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124807"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>パートナーセンターアカウントで複数のテナントを追加して管理する
 
@@ -24,57 +24,58 @@ ms.locfileid: "98182437"
 - グローバル管理者
 - アカウント管理者
 
-この機能を使用すると、自社の複数のテナントを管理し、パートナー センター アカウントに統合できます。 パートナーセンターアカウントで複数の Azure AD テナントを管理する必要がある理由は多数あります。 次に例を示します。
+この記事では、会社の複数の Azure Active Directory (Azure AD) テナントを統合し、パートナーセンターアカウントで追加および管理する方法について説明します。 これには多くの理由があります。 次に例を示します。
 
-- 会社は別の会社を購入して、新しい会社の従業員がパートナーセンターを使用できるようにすることができます。 ただし、2つの企業を別々に保つ必要があります。 この場合は、新しい会社の Azure AD テナントとパートナーのグローバルアカウント (PGA) を関連付けます。 この関連付けにより、両方の企業のユーザーがパートナーセンターで作業できるようになります。
+- Contoso 社が Fabrikam という別の会社を買収したとします。 2つの会社を別々に残しておく必要があり、新しい従業員がパートナーセンターを使用できるようにする必要があるとします。 この場合は、新しい会社の Azure AD テナントをパートナーのグローバルアカウント (PGA) に関連付けます。 この関連付けにより、両方の企業のユーザーがパートナーセンターで作業できるようになります。
 
-- 複数のテナントを使用してビジネスを実行する場合 (例: contoso.com、contoso.uk、contoso.in)、マルチテナントを使用して同じ PC アカウントで関連付けることができます。
+- 複数のテナント (たとえば、 *contoso.com*、 *contoso.uk*、 *contoso.in*) を使用してビジネスを実行する場合は、マルチテナント機能を使用して同じ PC アカウントでそれらをグループ化できます。
 
-- 合併と買収には複数のテナントを使用する必要があります (Contoso が Fabrikam を買収する場合は、Constoso.com と Fabrikam.com の両方のテナントを使用できるようにする必要があります)。
+- 合併と買収のガイドラインで両方の企業のテナントを操作する必要がある場合は、 *constoso.com* テナントと *fabrikam.com* テナントの両方を使用します。
 
-- いずれかのテナントのユーザーは、次の操作を実行できる必要があります。
-    1.  トレーニング、デジタルダウンロード、MCP アソシエーションのためのパートナーセンターへのアクセス
-    2.  MPN Admin、インセンティブ管理者などのパートナーセンターの役割を割り当てられます。
+- テナントのユーザーは、次のことができる必要があります。
+    * トレーニング、デジタルダウンロード、または Microsoft 認定プロフェッショナル (MCP) のアソシエーションのパートナーセンターにアクセスします。
+    * Microsoft Partner Network (MPN) 管理者やインセンティブ管理者などのパートナーセンターの役割が割り当てられている。
 
+## <a name="add-an-azure-ad-tenant-to-your-account"></a>Azure AD テナントをアカウントに追加する
 
-## <a name="add-another-azure-ad-tenant-to-your-account"></a>アカウントに別の Azure AD テナントを追加する
+1. グローバル管理者として [Microsoft パートナーセンター](https://partner.microsoft.com/dashboard)にサインインします。
 
-1. 全体管理者として、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
-1. **設定** アイコンで、[**アカウントの設定**] を選択し、[**テナント**] を選択します。
+1. 右上にある [ **設定**] を選択し、[ **アカウントの設定**] を選択して、[ **テナント**] を選択します。
  
-:::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="テナントの関連付け"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Azure AD プロファイル] ウィンドウの [関連付け] ボタンのスクリーンショット。"::: 
 
-3. [ **別の AD テナントを関連付ける** ] を選択し、関連付けるテナントを指定します。
+1. [ **関連付け**] を選択し、関連付けるテナントを指定します。
 
-1. グローバル管理者として、関連付けるテナントにサインインし、関連付けを確認します。 
+1. プロンプトで、関連付けるテナントにグローバル管理者としてサインインし、[ **確認**] を選択します。 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="テナントの関連付けの確認"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="[新しい Azure AD の関連付けの確認] ウィンドウの [確認] ボタンのスクリーンショット。"::: 
 
-5. 確認が完了すると、すべての **設定** の通知が表示されます。  [ **テナント管理に戻る** ] を選択すると、新しく追加されたテナントが一覧表示されます。 
+   関連付けを確認すると、すべての **設定** メッセージが表示されます。 新しく追加されたテナントを表示するには、[ **テナント管理に戻る**] を選択します。 
  
-
 >[!NOTE]
 >既に別のパートナーセンターアカウントに関連付けられている場合、そのテナントをアカウントに関連付けることはできません。
 
 
 ## <a name="remove-a-tenant-from-your-account"></a>アカウントからテナントを削除する
  
-1. 全体管理者として、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+1. グローバル管理者として [Microsoft パートナーセンター](https://partner.microsoft.com/dashboard)にサインインします。
 
-1. **設定** アイコンで、[**アカウントの設定**-> テナント] を選択し、[**パートナー** ] タブをクリックします。
+1. 右上にある [ **設定** ] アイコンを選択し、[ **アカウントの設定**] を選択します。
+
+1. 左側のウィンドウで、[ **テナント**] を選択します。 [ **Azure AD テナントの管理**] で、[ **パートナー** ] タブを選択します。
  
-3. 関連付けを解除するテナントの [ **削除** ] をクリックします。
+1. 関連付けを削除するテナントの横にある [ **削除** ] を選択します。
 
-4. 関連付け a テナントは、そのテナントのユーザーがパートナーセンターアカウントにアクセスできなくなることを意味します。これは、コンピテンシーに影響を与える可能性があります。 
+   :::image type="content" source="images/disassociate.png" alt-text="現在のテナントの関連付けとその削除リンクのスクリーンショット。":::
 
-[ **削除** ] ボタンは、現在サインインしているプライマリテナントとテナントを除く、関連付けられているすべてのテナントに対して有効になっています。
+   前のスクリーンショットに示されているように、関連付けられているすべてのテナントに対して [ **削除** ] リンクが有効になっています。ただし、プライマリテナントと、現在サインインしているテナントは除きます。 
 
-:::image type="content" source="images/disassociate.png" alt-text="[削除] ボタンがあるテナント":::
- 
+   > [!NOTE]   
+   > テナントを削除すると、そのテナントのユーザーはパートナーセンターアカウントにアクセスできなくなり、削除がコンピテンシーに影響を与える可能性があります。 
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- [ユーザーの追加](create-user-accounts-and-set-permissions.md)
+- [ユーザー アカウントの作成](create-user-accounts-and-set-permissions.md)
 
 
 
