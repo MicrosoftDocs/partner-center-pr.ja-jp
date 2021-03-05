@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124773"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220265"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>パートナー センターで、会社プロファイルの情報を確認する
 
@@ -54,8 +54,7 @@ ms.locfileid: "102124773"
 1. **[送信]** を選択すると、法的 ID が再評価された後、別のメールが届くので、それを承諾する必要があります。
 
 >[!Important]
->クラウド ソリューション プロバイダー (CSP) パートナーの場合、法的住所に関連付けられた国を変更することはできません。法的住所の国は、テナントとサービス、およびビジネスで使用している通貨に関連付けられています。 CSP プログラムを利用していない場合、法的住所に関連付けられている国を変更できます。 直接請求パートナーと間接プロバイダーは、検証の状態が "承認済み" の場合、会社の正式な名前を変更することはできません。 名前を変更する必要がある場合は、[サポート チケットを作成する](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)必要があります。
-
+>クラウド ソリューション プロバイダー (CSP) パートナーの場合、法的住所に関連付けられた国を変更することはできません。法的住所の国は、テナントとサービス、およびビジネスで使用している通貨に関連付けられています。 直接請求パートナーと間接プロバイダーは、検証の状態が "承認済み" の場合、会社の正式な名前を変更することはできません。 名前を変更する必要がある場合は、[サポート チケットを作成する](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)必要があります。
 
 
 ## <a name="update-your-mpn-global-business-account"></a>MPN グローバル ビジネス アカウントを更新する
