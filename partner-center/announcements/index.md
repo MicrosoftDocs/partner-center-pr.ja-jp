@@ -8,20 +8,22 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/03/2021
+ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756149"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029935"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
 パートナー センターの重要な更新についての詳細をご確認ください。 この情報は頻繁に更新されるので、定期的にチェックしてみてください。
 
-|**カテゴリ**|**2021 年 2 月のお知らせ**|**発表**|
+|**カテゴリ**|**2021 年 3 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[Microsoft Universal Print が一部のスイートで利用できるようになりました](2021-march.md#1)|3 月 3 日|
+|**カテゴリ**|**2021 年 2 月のお知らせ**|**発表**|
 |機能|[PUT 認定 API は廃止されており、GET は 5 月に廃止される予定です](2021-february.md#14)|2 月 25 日|
 |機能|[パートナー センターの一括操作機能を使用して大規模に共同販売取引を共有する](2021-february.md#13)|2 月 25 日|
 |機能|[新しい取引移行機能を使用して Partner Sales Connect (PSC) から取引を移行する](2021-february.md#12)|2 月 25 日|

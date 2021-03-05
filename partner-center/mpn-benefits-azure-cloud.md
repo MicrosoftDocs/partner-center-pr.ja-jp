@@ -9,20 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c82e9cc3ea35097c15ac27b137f93c656ab99a78
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 8f54956f71912b2b55bdbfa6be60baf92f417378
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99056585"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185334"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>パートナーセンターで Azure とクラウド製品の特典領域を調べる
 
 **適切なロール**
 
 - グローバル管理者
-- ユーザー管理者
-- 管理エージェント
 - MPN パートナー管理者
 
 この記事では、パートナーセンター内からパートナーが利用できる特定の Azure およびクラウドの特典について説明します。 また、特定の種類の Azure サブスクリプションとクラウドサブスクリプションをアクティブ化する方法についても説明します。
@@ -177,7 +175,7 @@ Microsoft Partner Network のパートナーとして、さまざまな分野の
 
 :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Azure とクラウド製品のエラーメッセージ。" border="false":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Office 365 E3 から Microsoft 365 Business Premium への移行](/microsoft-365/business/migrate-from-e3)について説明します
    

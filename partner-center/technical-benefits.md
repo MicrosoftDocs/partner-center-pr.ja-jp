@@ -9,14 +9,14 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d805b3ba9ea25fcccc4c4e82d05e524d47b7fc72
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: c273de275ed2821b9441be69fd29b931992a1982
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758491"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185300"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd-benefits"></a>技術的なプリセールスおよび展開サービス (TPD) の特典を確認する
+# <a name="explore-technical-presales-and-deployment-services-tpd"></a>技術のプリセールスおよび展開サービス (TPD) を確認する 
 
 ## <a name="develop-your-technical-know-how"></a>技術的なノウハウを身に立てる
 
@@ -39,7 +39,7 @@ ms.locfileid: "101758491"
 
 MPN に関連付けられている任意のユーザーアカウントでサインインして **[、技術のプリセールスおよび展開サービス (TPD) 要求を作成](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** します (技術的な特典のライセンス認証は不要です)。
 
-  :::image type="content" source="images/technical-benefits.png" alt-text="技術的なプリセールスと展開の利点" border="false":::
+  :::image type="content" source="images/technical-benefits.png" alt-text="テクニカル プリセールスと展開の利点" border="false":::
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>技術的なプリセールスおよび展開サービスの要求を送信する 
 
