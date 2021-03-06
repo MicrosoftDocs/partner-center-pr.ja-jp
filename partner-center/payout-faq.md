@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924907"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247648"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>支払いと税金に関してよく寄せられる質問
 
@@ -63,7 +63,14 @@ MPN の場所に対して作成された税プロファイルは再利用され�
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>税金プロファイルの有効期限が切れています。 これをどのように修正すればよいですか?
 
-「 [税務プロファイルを作成または更新](set-up-your-payout-account.md#create-or-update-your-tax-profile) する」の手順に従って、税金プロファイルを更新します。 [ **税プロファイル** ] ページでは、有効期限が切れたプロファイル、または有効期限切れになっているプロファイルが、 **有効期限の日付** 列に表示されます。 
+税金のプロファイルの有効期限が切れた場合、または期限切れになった場合は、Microsoft に提供した税金の形式を更新する必要があります。 次の手順を使用して、税金プロファイルを更新します。
+
+1. パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインし、歯車アイコンを選択して [ **設定** ] メニューを開きます。
+2. [ **アカウントの設定**] を選択し、[ **支払いと税金** ] セクションを展開して、[ **支払いと税金** のプロファイル] を選択します。
+3. **税** プロファイルの選択
+4. 列の **有効期限** を確認し、有効期限が切れたか、期限切れになる税金プロファイルに移動します。
+5. [ **編集** ] を選択して、税務プロファイルの編集プロセスを開始します。
+6. [税フォーム] セクションで、更新された詳細を入力します。
 
 ## <a name="earnings-incorrect-or-missing"></a>収益が間違っているか見つかりません
 
