@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.date: 03/04/2021
+ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102029935"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185283"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "102029935"
 
 |**カテゴリ**|**2021 年 3 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[新しい Microsoft Dynamics 365 製品およびオファーが 2021 年 4 月 1 日に利用できるようになります](2021-march.md#2)|3 月 4 日|
 |機能|[Microsoft Universal Print が一部のスイートで利用できるようになりました](2021-march.md#1)|3 月 3 日|
 |**カテゴリ**|**2021 年 2 月のお知らせ**|**発表**|
 |機能|[PUT 認定 API は廃止されており、GET は 5 月に廃止される予定です](2021-february.md#14)|2 月 25 日|
