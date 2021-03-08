@@ -102,8 +102,12 @@
         - name: Visual Studio の利点
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
-        - name: テクニカル プリセールスと展開の利点
+        - name: テクニカル プリセールスと展開サービス
           href: technical-benefits.md
+          displayname: 'TPD, presales, deployment, technical'
+        - name: 技術上のメリット
+          href: mpn-benefits-technical-support.md
+          displayname: 'support, incidents, technical'
     - name: Marketplace 報酬
       href: marketplace-rewards.md
     - name: ソフトウェア アシュアランス
