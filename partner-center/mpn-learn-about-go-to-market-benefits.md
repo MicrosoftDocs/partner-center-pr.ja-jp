@@ -1,7 +1,7 @@
 ---
 title: Microsoft のプランで市場に投入する方法について説明します
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft による市場投入までの時間を短縮し、潜在顧客を生み出し、ビジネスを拡大するのに役立つ情報を提供します。
@@ -9,26 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09dce7f4a80ed3014ecc8345d6f2bdf93da214d
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114647"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475264"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft のプランで市場を開拓する
-
-**適用対象**
-
-- パートナー センター
-- Microsoft Partner Network メンバー
 
 **適切なロール**
 
 - グローバル管理者
 - MPN パートナー管理者
 
-Microsoft Partner Network メンバーになると、ビジネスの構築と拡大に役立つメンバーシップ特典にアクセスできるようになります。 Microsoft のリソース、オファリング、およびプログラムは、Microsoft Partner Network メンバーとして提供される[多くの利点](https://partner.microsoft.com/manage-your-partner-network-benefits)を備えています。
+Microsoft Partner Network メンバーになると、ビジネスの構築と拡大に役立つメンバーシップ特典にアクセスできるようになります。 Microsoft のリソース、オファリング、およびプログラムは、Microsoft Partner Network メンバーとして提供される [多くの利点](https://partner.microsoft.com/manage-your-partner-network-benefits) を備えています。
 
 市場投入までの時間を短縮し、潜在顧客を生み出し、ビジネスを拡大するのに役立つ、販売とマーケティングに関する専用リソースへのアクセスを提供します。
 
@@ -37,20 +32,20 @@ Microsoft Partner Network メンバーになると、ビジネスの構築と拡
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>メンバーシップレベルで利用可能なマーケットプレースリソース、プラン、およびプログラム
 
-市場開拓の特典は、特定のレベルの MPN メンバーシップ、特殊化、および実現した[コンピテンシー](learn-about-competencies.md)によって異なります。
+市場開拓の特典は、特定のレベルの MPN メンバーシップ、特殊化、および実現した [コンピテンシー](learn-about-competencies.md) によって異なります。
 
-すべての MPN メンバーは、特定の standard GTM リソースにアクセスできます。 これには、すぐに利用できるマーケティング資産、販売有効化プラットフォーム、オンデマンドのデジタルマーケティングへのアクセスが含まれます。 また、パートナーが再販可能なソリューションを使用して、シルバーまたはゴールドのコンピテンシーや ISV パートナーを獲得しているパートナーも、さらにマーケットプレースプランやプログラムを利用できます。
+すべての MPN メンバーは、特定の standard GTM リソースにアクセスできます。 これには、すぐに利用できるマーケティング資産、販売有効化プラットフォーム、オンデマンドのデジタルマーケティングへのアクセスが含まれます。 また、パートナーは、シルバーまたはゴールドのコンピテンシーや ISV パートナーが共同販売の準備ができている場合でも、さらに多くのマーケットプレースプランとプログラムを利用できます。
 
 >[!NOTE]
->マーケットプレースリソース、オファー、プログラムは、追加と変更の対象となります。 [Microsoft Partner Network の[マーケットプレース] ページ](https://partner.microsoft.com/membership/go-to-market)にアクセスして、パートナーが共同販売の準備ができたソリューションを使用してさまざまなコンピテンシーレベルや ISV パートナーを獲得した場合に利用できる、最新の市場投入リソースとプランについて確認します。
+>マーケットプレースリソース、オファー、プログラムは、追加と変更の対象となります。 [Microsoft Partner Network の [市場開拓] ページ](https://partner.microsoft.com/membership/go-to-market) にアクセスして、パートナーが共同販売の準備ができたさまざまなコンピテンシーレベルや ISV パートナーに提供されている最新のマーケットプレースリソースとプランを確認してください。
 
-その他のマーケットプレースプランは、**シルバー**コンピテンシーレベルや ISV パートナーと共同販売の準備ができているソリューションで利用できます。
+**シルバー** コンピテンシーレベルや、共同販売インセンティブを受けている ISV パートナーが提供するその他のマーケットプレースプランをご利用いただけます。
 
 - すべての MPN standard 市場向けリソース
 - ビジネスプロファイルの最適化と参照の管理
 - Microsoft との販売方法
 
-パートナーは、IP 共同販売準備ができたソリューションを使用して、**ゴールド**コンピテンシーレベルや ISV パートナーに提供されている追加の市場投入プランをご利用いただけます。
+パートナーは、 **ゴールド** コンピテンシーレベルや ISV パートナーと協力して、インセンティブを受けた特典をご利用いただけます。
 
 - すべての MPN standard 市場向けリソース
 - すべてのシルバー/ISV 共同販売準備完了市場向けプラン
@@ -68,20 +63,20 @@ Microsoft Partner Network メンバーになると、ビジネスの構築と拡
 
 2. 左側のメニューで、[ **MPN**] を選択します。 次に、次のいずれかの手順を実行します。
 
-   - **[概要]** を選択します。 [**クイックリンク**] セクションまでスクロールし、[**マーケット**プレース] タブを選択します。
+   - **[概要]** を選択します。 [ **クイックリンク** ] セクションまでスクロールし、[ **マーケット** プレース] タブを選択します。
 
      or
 
-   - [**特典**] を選択し、[**マーケット**プレース] を選択します。
+   - [ **特典** ] を選択し、[ **マーケット** プレース] を選択します。
 
 既にアクティブになっている、またはアクティブ化可能な、市場開拓プランの一覧が表示されます。
 
 ## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>パートナーセンターでのマーケットプレースプランの管理またはアクティブ化
 
-マーケットプレースプランをアクティブ化または管理する方法については、「[マーケットプレースプランを管理する方法](manage-your-partner-network-benefits.md#manage-go-to-market-offers)」を参照してください。 このプロセスの一環として、フォローアップ用の連絡先としてマーケティング担当者を割り当てる必要があります。これを行うには、ライセンス認証を行うために、フォローアップの電子メールとコミュニケーションが必要です。
+マーケットプレースプランをアクティブ化または管理する方法については、「 [マーケットプレースプランを管理する方法](manage-your-partner-network-benefits.md#manage-go-to-market-offers)」を参照してください。 ライセンス認証プロセスの一環として、フォローアップの電子メールの連絡先として、マーケティング担当者を割り当てる必要があります。
 
 >[!IMPORTANT]
->特定の市場開拓プランをアクティブ化し、関連するマーケティング連絡先を割り当てるには、全体管理者または MPN パートナー管理者である必要があります。 必要に応じて、[ **[特典]** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (サインインが必要) で、次の手順に従って全体管理者になることができます。 会社に既に全体管理者がいる場合があるため、必ずチームで確認してください。
+>特定の市場開拓プランをアクティブ化し、関連するマーケティング連絡先を割り当てるには、全体管理者または MPN パートナー管理者である必要があります。 必要に応じて、 [**特典** ページ](https://partnercenter.microsoft.com/pcv/partnership/benefits) の指示に従ってグローバル管理者になることができます (サインインする必要があります)。 会社に既に全体管理者がいる場合があるため、必ずチームで確認してください。
 
 ## <a name="next-steps"></a>次のステップ
 
