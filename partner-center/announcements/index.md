@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/04/2021
-ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185283"
+ms.locfileid: "102220278"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,8 @@ ms.locfileid: "102185283"
 
 |**カテゴリ**|**2021 年 3 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[パートナー センター ソフトウェア ライセンス キーとダウンロード フルフィルメント](2021-march.md#4)|3 月 5 日|
+|機能|[Partner Sales Connect (PSC) からパートナー センターに取引を移行](2021-march.md#3)|3 月 5 日|
 |機能|[新しい Microsoft Dynamics 365 製品およびオファーが 2021 年 4 月 1 日に利用できるようになります](2021-march.md#2)|3 月 4 日|
 |機能|[Microsoft Universal Print が一部のスイートで利用できるようになりました](2021-march.md#1)|3 月 3 日|
 |**カテゴリ**|**2021 年 2 月のお知らせ**|**発表**|
