@@ -8,12 +8,12 @@ description: パートナーセンターの紹介を Dynamics 365 CRM の共同�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756796"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532055"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM の共同販売コネクタ–概要
 
@@ -104,7 +104,7 @@ ms.locfileid: "101756796"
      
       7. すべての接続を追加すると、環境内に次の接続が表示されます。
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="接続":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="接続":::
    
 ## <a name="edit-the-connections"></a>接続を編集する
 
@@ -141,7 +141,7 @@ ms.locfileid: "101756796"
 
 3. **コピー** アイコンを選択して、指定された HTTP POST URL をコピーします。
 
- :::image type="content" source="images/webhook-video.gif" alt-text="Webhook を使用してリソースの変更を登録する":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Webhook を使用してリソースの変更を登録する":::
 
 4. "パートナーセンターの Webhook 登録 (Insider Preview)" パワー自動化フローを選択し、[ **実行**] を選択します。
 
@@ -205,7 +205,7 @@ CRM システムは高度にカスタマイズされており、CRM のセット
 
 3. **新しい** 値オプションを使用して **現在の値** を更新し (既定値を更新しないでください)、値を指定します。 値は、変数のデータ型と一致する必要があります。たとえば、Yes/No データ型では Yes または No 値が許可されます。
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="環境変数の更新":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="環境変数の更新":::
 
 - エンドツーエンドの双方向の共同販売参照の同期
 
