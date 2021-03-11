@@ -1,7 +1,7 @@
 ---
 title: 紹介の分析情報を取得する
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー センターで紹介の分析情報データを定期的に確認し、対処すべき傾向や改善できる部分を特定することで、ビジネス目標を達成できます。
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3496e57e9a9947d725a64d70b317779182f77583
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422410"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756491"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>パートナーセンターで紹介の分析情報を取得し、紹介の効果を確認する
 
@@ -51,7 +51,7 @@ ms.locfileid: "91422410"
 
 このグラフには、選択した期間の案件の合計数、受注件数、失注件数、合計取引量 (USD) が表示されます。
 
-変化率メトリック (赤または緑で表示、矢印インジケーター付き) は、**選択した日付範囲の最後の 1 か月間**と**その範囲の最初の 1 か月間**の差を示します。 たとえば、現在の日付が 6 月 15 日で、過去 3 か月間のデータを表示する **[3M]** フィルターを選択したとします。 この場合、これらのメトリックでは、5 月 (選択した期間の最後の 1 か月間) と 3 月 (選択した期間の最初の 1 か月間) の差が示されます。選択した日付範囲は過去 **[3M]** であり、5 月のデータと 3 月のデータの比較になります。
+変化率メトリック (赤または緑で表示、矢印インジケーター付き) は、**選択した日付範囲の最後の 1 か月間** と **その範囲の最初の 1 か月間** の差を示します。 たとえば、現在の日付が 6 月 15 日で、過去 3 か月間のデータを表示する **[3M]** フィルターを選択したとします。 この場合、これらのメトリックでは、5 月 (選択した期間の最後の 1 か月間) と 3 月 (選択した期間の最初の 1 か月間) の差が示されます。選択した日付範囲は過去 **[3M]** であり、5 月のデータと 3 月のデータの比較になります。
 
 :::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="共同販売案件の分析の概要カードを示す画像。":::
 
@@ -59,13 +59,13 @@ ms.locfileid: "91422410"
 
 このセクションには、ライフ サイクルを通じた案件の状態の変化が表示されます。 このセクションのメイン ピボットに基づいて、取引量ベースと取引額 (USD) ベースの両方でライフサイクル全体を表示できます。 最初のセクションは、案件の状態と種類の両方でラベル付けされており、取引量または取引額を種類ごとに視覚インジケーター表示できます。 また、 **[過去からの紹介]** セクションでは、レポートするように選択した期間内で、ユーザーが承諾または辞退のいずれかのアクションを実行した案件、または受注または失注としてマークした案件をインジケーター表示できます。 フィルターを適用して、ライフ サイクルのさまざまな段階を通じた案件の進行状況を表示できます。
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="共同販売案件の分析の概要カードを示す画像。":::
+:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="紹介のコンバージョン ファネルを示す図。":::
 
 ## <a name="deals-by-geography"></a>地域別の案件
 
 このセクションには、案件の国/地域と、それぞれの国/地域の詳細が表示されます。 案件の詳細を国ごとに示すテーブル ビューと、すべての国のマップ ビューが表示されます。 テーブル内の特定の国をクリックするかマップ ビュー上をクリックすると、特定の国にズームできます。
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="共同販売案件の分析の概要カードを示す画像。":::
+:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="紹介の地理的分布を示す図。":::
 
 ## <a name="deals-by-solutions"></a>ソリューション別の案件
 
@@ -77,13 +77,13 @@ ms.locfileid: "91422410"
 
 このテーブルには、そのソリューションが含まれている案件の総数に加えて、受注案件、失注案件、期限切れ案件などの対応する状態と、受注案件と失注案件の合計額 (USD) が表示されます。 テーブルの右側に案件のトレンドを示すグラフも表示されます。このグラフには、選択したソリューションに基づいて、案件の合計数と受注額 (USD) が表示されます。 既定では、すべてのソリューションが選択されています。
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="共同販売案件の分析の概要カードを示す画像。":::
+:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="ソリューションのパフォーマンスを示す図。":::
 
 ## <a name="declined--lost-reasons"></a>辞退の理由と失注の理由
 
 このセクションは、案件が **[辞退]** または **[失注]** としてユーザーの会社によってマークされている理由を分析するのに役立ちます。 これらの表記のオプションは、販売者が案件を閉じる際に選択した理由 (辞退または失注) と同一のものです。
 
-:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="共同販売案件の分析の概要カードを示す画像。":::
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="パートナーが辞退または失注としてマークした際に選択した理由を示す図。":::
 
 ## <a name="comparison-charts"></a>比較グラフ
 
@@ -96,13 +96,13 @@ ms.locfileid: "91422410"
 
 案件の種類が選択されている場合は、紹介のパフォーマンスを共同販売案件と単独取引に関して比較するオプションが用意されています。 市場とソリューションについては、最大 3 つの異なるオプションを選択してパフォーマンスを比較できます。 1 番目のグラフ (縦棒グラフ) には、メイン ピボット (受注量または受注額) に基づいて月ごとのトレンドでデータが表示されます。 縦棒グラフの右側には円グラフも表示されます。このグラフには、同じデータに対する分布がパーセント表示されます。
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="共同販売案件の分析の概要カードを示す画像。":::
+:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="比較セクションを示す図。":::
 
 ## <a name="raw-data-table"></a>生データ テーブル
 
-共同販売案件に関するすべての生データが表示されている下のテーブルは、データを速やかに**エクスポート**して、詳細な分析やカスタム分析を実行するのに役立ちます。
+共同販売案件に関するすべての生データが表示されている下のテーブルは、データを速やかに **エクスポート** して、詳細な分析やカスタム分析を実行するのに役立ちます。
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="共同販売案件の分析の概要カードを示す画像。":::
+:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="紹介の生データ テーブルを示す図。":::
 
 ## <a name="no-data"></a>データなし
 
@@ -114,10 +114,10 @@ ms.locfileid: "91422410"
 - 適用したフィルターに一致するレコードが存在しない。 フィルターをリセットしてみてください。
 - 営業案件が状態変更されてから分析レポートに同一の内容が更新されるまでの間に遅延が発生している。 24 時間後にレポートをご確認ください。
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="共同販売案件の分析の概要カードを示す画像。":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="紹介のデータがまったくビジュアル化されていないことを示す図。":::
 
 > [!NOTE]
-> **[紹介の分析情報]** ページには、パートナー センターで生成された紹介のデータのみが表示されます。 [Partner Sales Connect](https://support.microsoft.com/help/3170447/learn-to-use-partner-center-sales-connect) または他のメカニズムを使用して生成された紹介のデータは表示されません。
+> **[紹介の分析情報]** ページには、パートナー センターで生成された紹介のデータのみが表示されます。 [Partner Sales Connect](psc-to-pc.md) または他のメカニズムを使用して生成された紹介のデータは表示されません。
 
 > [!TIP]
 > [[Find a solution provider]\(ソリューション プロバイダーを見つける\)](https://www.microsoft.com/solution-providers/home) エクスペリエンスでビジネス プロファイルの効果を表示するには、[[ビジネス プロファイルの分析情報]](analyze-your-marketing-profile.md) ページを確認します。

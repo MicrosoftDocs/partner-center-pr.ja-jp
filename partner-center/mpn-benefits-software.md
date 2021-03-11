@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3632d66dbbdf4f0f8eb93439325427b8319b955
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102251056"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619377"
 ---
 # <a name="mpn-benefits---software"></a>MPN の利点-ソフトウェア
 
@@ -33,7 +33,7 @@ ms.locfileid: "102251056"
 
 製品にインストールのためのプロダクトキーが必要な場合は、インストールプロセス中にプロダクトキーを入力するように求められます。 パートナーセンターの同じウィンドウから、ダウンロードするソフトウェアのバージョンを選択して取得できます。
 
-製品のライセンス認証は、 **Windows server** とクライアントの **オペレーティングシステム** および **すべての Microsoft Office クライアントアプリケーション** に必要です。 製品のライセンス認証を必要としない製品があります。
+製品のライセンス認証は、 **Windows Server** とクライアントの **オペレーティングシステム** および **すべての Microsoft Office クライアントアプリケーション** に必要です。 製品のライセンス認証を必要としない製品があります。
 
 :::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="MPN でソフトウェア製品の特典をご利用いただけます。" border="false":::
 

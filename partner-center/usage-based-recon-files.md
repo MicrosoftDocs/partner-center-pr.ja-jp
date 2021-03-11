@@ -7,19 +7,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 5a1a2707b12e4bdb7452711019aa8ae43d4b6b1a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755751"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022759"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>パートナーセンターで使用量に基づく調整ファイルとその特定のフィールドについて理解する
-
-適用対象:
-
-- パートナー センター
-- 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
 
@@ -61,7 +56,7 @@ ms.locfileid: "101755751"
 | PretaxCharges | が最も近い **値に丸め** られた、**リスト** に等しい。 | *$0.085* |
 | TaxAmount | 料金が請求されます。 市場の税金ルールと特定の状況に基づいています。 | *$0.08* |
 | PostTaxTotal | 課税後の合計額 (税が適用される場合)。 | *$0.93* |
-| Currency | 通貨の種類。 各請求エンティティの通貨は 1 つのみです。 最初の請求書と一致していることを確認し、その後、主要な課金プラットフォームを更新します。 | *EUR* |
+| 通貨 | 通貨の種類。 各請求エンティティの通貨は 1 つのみです。 最初の請求書と一致していることを確認し、その後、主要な課金プラットフォームを更新します。 | *EUR* |
 | PretaxEffectiveRate | 単位あたりの税込み単価。 これは、最も近い **値に丸め** られた、 **オーバー**・・・・・・・・・・・・・・・・・・・・・・・・の | *$0.08* |
 | PostTaxEffectiveRate | 単位あたりの税引き後の単価。 **PostTaxTotal** は、最も近い値に丸められ、**オーバーオーバー** で除算されます。 または、1ユニットあたりの税率と、最も近い値に丸められた税率 **を加算し** た値です。 | *$0.08* |
 | ChargeType | 料金または調整 [の種類](recon-file-charge-types.md) 。 | [料金の種類](recon-file-charge-types.md)を参照してください。 |

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124824"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770278"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Partner Sales Connect (PSC) から移行するパートナー向けのパートナーセンター (PC) での共同販売のガイド
 
@@ -81,7 +81,7 @@ ms.locfileid: "102124824"
 
    このページには、すべてのアカウント管理者の電子メールアドレスが表示されます。 そのいずれかを電子メールで送信し、職場アカウントの紹介管理者ロールを割り当てるように依頼します。
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="[パートナーの設定] ユーザー管理ページにアカウント管理者が表示されているイメージ。":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="[パートナーの設定] ユーザー管理ページにアカウント管理者が表示されているイメージ。":::
 
 >[!Important]
 >- 役割で PSC のユーザーの管理のみが必要な場合は、パートナーセンターで [アカウント](permissions-overview.md#manage-mpn-membership-and-your-company) 管理者ロールを割り当てるように会社のアカウント管理者に依頼してください。 
@@ -95,7 +95,7 @@ ms.locfileid: "102124824"
 >[!Note]
 > ユーザーの移行は、会社の [アカウント管理者](permissions-overview.md#manage-mpn-membership-and-your-company) のみが実行できます。 アカウント管理者の役割を持っていない場合は、ユーザーの移行ウィザードを使用して、ユーザーアカウントのセットアップを支援するアカウント管理者を見つけます。
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="ユーザー移行ウィザードを示すイメージ。":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="ユーザー移行ウィザードを示すイメージ。":::
 
 アカウント管理者には、紹介ガイドの横にある [共同販売機会] ページに、PSC ユーザー移行ウィザードのリンクが表示されます。 ユーザーは、リンクを選択して、ユーザーの移行を開始できます。 ユーザーの移行を開始するには、管理者がリンクを選択します。 パートナーセンターですべてのユーザーに適切な役割を割り当てるまで、このユーザーの移行手順を複数回実行できます。
 

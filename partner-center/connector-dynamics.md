@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 CRM パートナーセンターの共同販売コネクタ
+description: パートナーセンターの紹介を Dynamics 365 CRM の共同販売コネクタと同期します。 販売元は、CRM システム内から Microsoft と共同で販売することができます。
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターの紹介を Dynamics 365 CRM の共同販売コネクタと同期します。 販売元は、CRM システム内から Microsoft と共同で販売することができます。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532055"
+ms.locfileid: "102619411"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM の共同販売コネクタ–概要
 
@@ -88,7 +88,7 @@ ms.locfileid: "102532055"
 
    - Power を使用した CRM 管理ソリューションのフローが自動化されます。
 
-      1. 左側のナビゲーションバーから [ **接続** ] を選択し、一覧から "パートナーセンターの紹介" ソリューションを選択します。
+      1. 左側のナビゲーションバーから [ **接続** ] を選択し、一覧から [ **パートナーセンターの紹介** ] ソリューションを選択します。
 
       2. [ **接続の作成**] をクリックして接続を作成します。
 
@@ -110,11 +110,11 @@ ms.locfileid: "102532055"
 
 1. [ **ソリューション** ] ページに戻り、[ **既定のソリューション**] を選択します。 [**すべて**] をクリックして、[**接続の参照 (プレビュー)** ] を選択します。
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="接続の編集":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="接続の編集":::
 
 2. 3つのドットアイコンを選択して、各接続を1つずつ編集します。 関連する接続を追加します。
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="一覧表示された接続"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="一覧表示された接続"::: 
 
 3.  [ソリューション] ページに戻り、Dynamics 365 のパートナーセンター紹介同期を選択し、次のシーケンスの各フローの横にある3つのドットアイコンをクリックしてフローをオンにします。 フローをオンにしている間に問題が発生した場合は、 [カスタマイズの手順](connector-dynamics.md#customize-synchronization-steps) と [トラブルシューティングの手順](connectors-troubleshoot.md)を参照してください。 
 
@@ -171,19 +171,19 @@ CRM システムは高度にカスタマイズされており、CRM のセット
 
 - 取引値: 既定では、パートナーセンターからの取引値は CRM の **estimatedvalue** との間で同期されます。 CRM で、同期の対象となるフィールドが異なる場合は、次のようにします。
 
-    a.    CRM のフィールド名を使用して、Dynamics 365 環境変数の商談値フィールド名を更新します。 表示名ではなく、フィールドの名前を指定する必要があることに注意してください。
+  a. CRM のフィールド名を使用して、Dynamics 365 環境変数の商談値フィールド名を更新します。 表示名ではなく、フィールドの名前を指定する必要があることに注意してください。
 
-    b.    編集 **[カスタマイズ] Dynamics 365 flow から詳細を作成または取得**  し、crm での営業案件の **作成または更新** に関する情報を参照して、 **新しい営業案件** を作成し、 **既存の営業** 案件のアクションを更新して crm の正しいフィールドに **DealValue** 値を割り当てます。 また、[**推定収益**] フィールドから **DealValue assignment** を削除します。
+  b. 編集 **[カスタマイズ] Dynamics 365 flow から詳細を作成または取得**  し、crm での営業案件の **作成または更新** に関する情報を参照して、 **新しい営業案件** を作成し、 **既存の営業** 案件のアクションを更新して crm の正しいフィールドに **DealValue** 値を割り当てます。 また、[**推定収益**] フィールドから **DealValue assignment** を削除します。
 
 - 顧客アカウントの国コード: 新しい紹介を作成するときに、2文字の国コード (ISO 3166) を指定することが必須です。 既定では、国コードは CRM のアカウントの address1_country フィールドと同期されます。 国コードの同期元として CRM に別のフィールドがある場合は、次のようにします。
 
-   a.    2文字のコードを含む Account の非ルックアップ国コードフィールドの場合:
+   a. 2文字のコードを含む Account の非ルックアップ国コードフィールドの場合:
 
    - Dynamics 365 環境変数の顧客アカウントの国コードフィールド名を CRM のフィールド名に更新します。 表示名ではなく、フィールドの名前を指定する必要があることに注意してください。
 
    - Edit **[カスタマイズ] Dynamics 365 flow から詳細を作成または取得**  し、crm の [顧客アカウントの作成または取得] 操作に移動して、crm の適切なフィールドに Country 値を割り当てます。 また、[住所 1: 国/地域] フィールドから Country 値の割り当てを削除します。
 
-   b.    アカウントの検索ベースの国コードフィールドの場合:
+   b. アカウントの検索ベースの国コードフィールドの場合:
 
    - Account に新しいカスタムフィールドを追加し、[参照ベースのフィールド] で選択した値に基づいて、2文字の国コード (ISO 3166) を自動入力します。その逆も同様です。
 
@@ -205,7 +205,7 @@ CRM システムは高度にカスタマイズされており、CRM のセット
 
 3. **新しい** 値オプションを使用して **現在の値** を更新し (既定値を更新しないでください)、値を指定します。 値は、変数のデータ型と一致する必要があります。たとえば、Yes/No データ型では Yes または No 値が許可されます。
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="環境変数の更新":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="環境変数の更新":::
 
 - エンドツーエンドの双方向の共同販売参照の同期
 
@@ -242,13 +242,11 @@ CRM システムは高度にカスタマイズされており、CRM のセット
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
 
-
-
 - Microsoft ソリューションを追加した後は、販売元が追加する必要がないように、共同販売ソリューションの詳細を事前に設定できます。 新しいソリューションの詳細を追加するには、CRM の [Microsoft ソリューションの詳細] オブジェクトにアクセスし、[ **レコードの追加** ] をクリックして1つのエントリを追加するか、 **Excel upload** を使用して複数のエントリを追加します。
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="ソリューションの詳細":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="ソリューションの詳細":::
 
-### <a name="scenarios"></a>モデル
+### <a name="scenarios"></a>シナリオ:
 
 1. CRM で参照が作成または更新され、パートナーセンターで同期される場合の参照の同期:
 
@@ -265,6 +263,7 @@ CRM システムは高度にカスタマイズされており、CRM のセット
          :::image type="content" source="images/dynamic-3a.png" alt-text="カードビューで適切なフィールドを取得する方法":::
 
       - **顧客の連絡先**: 共同販売の紹介を作成するには、営業案件に顧客の連絡先を追加します。
+
       - **パートナーセンターとの同期**: はい
 
       - Microsoft のソリューション: 参照を Microsoft と共有するには、有効な共同販売準備完了または Microsoft ソリューションを営業案件に追加します。

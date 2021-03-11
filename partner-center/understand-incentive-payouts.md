@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755862"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022810"
 ---
 # <a name="view-your-incentives-program-details"></a>インセンティブプログラムの詳細を表示する
 
@@ -22,11 +22,10 @@ ms.locfileid: "101755862"
 
 - インセンティブ管理者
 - インセンティブ ユーザー
-- インセンティブ読み取り専用ビューアー
 - グローバル管理者
 - MPN パートナー管理者
 
-この記事では、 **[自分のインセンティブの概要** ] ページにアクセスする方法について説明します。このページには、インセンティブプログラムの全体的な状態と、各場所の各プログラムの状態が表示されます。 また、さまざまな登録状態も提供します。 
+この記事では、 **[マイインセンティブの概要** ] ページについて説明します。このページには、インセンティブプログラムの全体的な状態と、各場所の各プログラムの状態が表示されます。 また、さまざまな登録状態も提供します。
 
 >[!NOTE]
 >パートナーセンターのインセンティブとインセンティブの機能の詳細については、「 [パートナーの投資と](https://partner.microsoft.com/membership/partner-incentives) インセンティブ (サインインが必要)」を参照してください。

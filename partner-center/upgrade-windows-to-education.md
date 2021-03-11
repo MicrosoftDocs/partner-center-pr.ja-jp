@@ -9,21 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755832"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022742"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Windows 10 Home から Windows 10 の教育機関への教育機関のお客様のアップグレード
 
 **適切なロール**
 
 - 管理エージェント
-- ヘルプデスク エージェント
+- 課金管理者
 
-## <a name="overview"></a>概要
+## <a name="overview"></a>[概要]
 
 2020年11月1日以降、Microsoft 365 A3 または A5、または Windows 10 Enterprise A3 または A5 サブスクリプションを購入した Csp は、教育機関のお客様が、教室とリモートの両方の学習用に設計された windows 10 Home から Windows 10 の教育にアップグレードするのに役立ちます。
 
@@ -57,8 +57,8 @@ CSP パートナーは、顧客のアップグレードを支援するため、�
 
 - **タイトル:** Windows 10 Home から Windows 10 の教育へのアップグレードプロダクトキー
 - **説明:** Windows 10 教育へのアップグレードを有効にするための [insert number] キーを要求しています。 (要求されたキーの数は、Microsoft 365 A3/A5 または Windows 10 Enterprise A3/A5 のサブスクリプションライセンスよりも大きくする必要があります)。顧客のサブスクリプション ID [insert customers subscription ID GUID for a Microsoft 365 A3/A5 または Windows 10 Enterprise A3/A5 サブスクリプション。]
-- **連絡先電話番号:** これは事前になります。確認または更新を確認します。
-- **電子メール:** これは事前であり、Microsoft ポータル管理者 (全体管理者または課金管理者のみ) として使用するメールである必要があります。
+- **連絡先電話番号:** これは事前に入力されます。確認または更新を確認します。
+- **電子メール:** これは事前に入力され、Microsoft ポータル管理者 (全体管理者または課金管理者のみ) として使用する電子メールである必要があります。
 - **優先する連絡方法**: **電話** を選択 **するか、コールバックをスケジュール** します。
 
 8. [ **Contact me**] を選択します。 予想される待機時間は、[ **ヘルプの必要]** ウィンドウで示されます。
@@ -92,8 +92,9 @@ Windows 10 Pro 教育プロダクトキーを使用して Windows 10 Home をア
 **サポートに連絡してアップグレードキーを受け取るまでの期限はありますか?**
 Windows 10 の教育アップグレードは、お客様のアクティブ Microsoft 365 A3/A5 または Windows 10 Enterprise A3/A5 ライセンスのサブスクリプションに基づいています。 顧客がサブスクリプションを延長または更新しない場合は、アップグレードの資格も終了します。
 
+## <a name="next-steps"></a>次のステップ
+
 **パートナーは Windows 10 の教育についてさらに詳しく知ることができますか。**
-詳細については、次のリンク先を参照してください。
 
 - [Windows 教育の機能](https://www.microsoft.com/education/products/windows/features)
 - [Windows 教育ハブ](/education/windows/)
