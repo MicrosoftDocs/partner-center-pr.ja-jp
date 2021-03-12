@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 03/08/2021
+ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541019"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514121"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月のお知らせ
 
@@ -86,7 +86,7 @@ _____________
 - 2021 年 1 月 7 日:フェーズ 1 およびフェーズ 2 に含まれる追加のシナリオ
 - 2021 年 1 月 28 日: 
     -    発表フェーズ 1 が有効です 
-    -    英国は EU と EFTA に含まれないが、[Microsoft のヨーロッパの地域と市場](https://docs.microsoft.com/partner-center/regional-authorization-overview)の一部であり、影響を受けることを明記
+    -    英国は EU と EFTA に含まれないが、[Microsoft のヨーロッパの地域と市場](../regional-authorization-overview.md)の一部であり、影響を受けることを明記
 
 
 ________________
@@ -170,13 +170,13 @@ ________________
 
 ### <a name="details"></a>詳細
 
-間接リセラー向けの Microsoft Partner Agreement (MPA) の実装は現在進行中です。 プロバイダーとリセラーのサポートを強化するため、パートナーからのフィードバックを検討し、MPA の承認方法に関する一般的な質問を、新しい[よく寄せられる質問のページ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)に統合しました。
+間接リセラー向けの Microsoft Partner Agreement (MPA) の実装は現在進行中です。 プロバイダーとリセラーのサポートを強化するため、パートナーからのフィードバックを検討し、MPA の承認方法に関する一般的な質問を、新しい[よく寄せられる質問のページ](../mpa-indirect-provider-faq.md)に統合しました。
 
 ### <a name="next-steps"></a>次のステップ
 
-**間接リセラー:** MPA に同意していない場合は、[MPA に関する FAQ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) を確認し、[こちら](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)で説明されている手順に従って MPA に同意します。
+**間接リセラー:** MPA に同意していない場合は、[MPA に関する FAQ](../mpa-indirect-provider-faq.md) を確認し、[こちら](../microsoft-partner-agreement.md)で説明されている手順に従って MPA に同意します。
 
-**間接プロバイダー:** 間接リセラーと協力し、[MPA に関する FAQ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) と [こちら](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)で説明されている手順を使用して、リセラーをサポートします。
+**間接プロバイダー:** 間接リセラーと協力し、[MPA に関する FAQ](../mpa-indirect-provider-faq.md) と [こちら](../microsoft-partner-agreement.md)で説明されている手順を使用して、リセラーをサポートします。
 
 ### <a name="questions"></a>わからないことがある場合は、
 
@@ -207,8 +207,8 @@ ________________
 ### <a name="next-steps"></a>次の手順
 
 - 新しい操作の種類を利用して、DAP が顧客によって承認されたとき、および顧客によって終了されたときのイベントを追跡します。  
-- [パートナー センターのアクティビティのレコードを取得する - パートナー センター アプリ開発者 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [監査リソース - パートナー センター アプリ開発者 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+- [パートナー センターのアクティビティのレコードを取得する - パートナー センター アプリ開発者 | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [監査リソース - パートナー センター アプリ開発者 | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>わからないことがある場合は、
 
@@ -287,9 +287,9 @@ Azure 向けの新しいコマース エクスペリエンスの利用を促進�
 #### <a name="partner-earned-credit-pec"></a>パートナー獲得クレジット (PEC)
 
 - [パートナー獲得クレジットについて (ガイド) (microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [パートナー獲得クレジット - 概要 - パートナー センター | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
-- [マネージド サービスのパートナー獲得クレジット - パートナー センター | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
-- [パートナー獲得クレジットに関するロールとアクセス許可 - パートナー センター | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [パートナー獲得クレジット - 概要 - パートナー センター | Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [マネージド サービスのパートナー獲得クレジット - パートナー センター | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
+- [パートナー獲得クレジットに関するロールとアクセス許可 - パートナー センター | Microsoft Docs](../azure-roles-perms-pec.md)
 - [Azure in CSP モジュールでのパートナー獲得クレジットに関するオンデマンド トレーニング モジュール (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>新しいコマース エクスペリエンス
@@ -314,6 +314,9 @@ ________________
 
 ### <a name="details"></a>詳細
 
+>[!NOTE]
+>パートナーからのフィードバックを受けて、永続的およびサーバーのサブスクリプション ソフトウェアの注文に対してソフトウェアとライセンス キーを取得するパートナー センターのフルフィルメント機能を復元しています。 2021 年 1 月 19 日に削除される前の状態に復元されます。 詳細については、[2021 年 3 月の発表](https://docs.microsoft.com/partner-center/announcements/2021-march#4)を参照してください。
+
 本日[お知らせ](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)したように、CSP パートナーが販売する商用永続的ソフトウェア ライセンスが一般提供されるようになりました。 パートナー センターで CSP 永続的ソフトウェアの価格表が再公開され、追加の製品と地域が含まれるようになりました。
 
 さらに、本日をもってパートナー センターのソフトウェアおよびライセンス キー フルフィルメント機能は廃止されました。パートナーは、今後この目的には Microsoft 365 管理センターを顧客に案内してください。 詳細と次の手順については、以下を参照してください。
@@ -321,12 +324,18 @@ ________________
 ### <a name="next-steps"></a>次の手順
 
 - パートナー センターの [[料金とプラン]](https://partnercenter.microsoft.com/pcv/sales) ページの **[ソフトウェア]** セクションにある **CSP の永続的ソフトウェア** の価格表をダウンロードします。 新しく追加された製品と地域の一覧については、[こちら](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)を参照してください。
-- [Microsoft 365 管理センターの永続的ソフトウェアと製品ライセンス キーのダウンロードに関するハウツー記事](https://go.microsoft.com/fwlink/p/?linkid=2152525)を参照し、顧客がソフトウェアとライセンス キーをダウンロードする準備ができたときに顧客と共有してください。
+- [Microsoft 365 管理センターの永続的ソフトウェアと製品ライセンス キーのダウンロードに関するハウツー記事](/microsoft-365/admin/setup/download-software-licenses-csp)を参照し、顧客がソフトウェアとライセンス キーをダウンロードする準備ができたときに顧客と共有してください。
 - [クラウド ソリューション プロバイダー プログラムの永続的ソフトウェア](https://partner.microsoft.com/resources/collection/software-in-csp#/)準備資料を参照してください。 こちらの[レディネス マップ](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)を利用すると、ロールに適した情報をすばやく見つけることができます。
 
 ### <a name="questions"></a>わからないことがある場合は、
 
 さらにご質問がある場合は、関連する CSP Yammer コミュニティをご確認ください。
+
+### <a name="change-log"></a>変更ログ:
+
+- 2021 年 1 月 19 日: 初版の公開日 
+
+- 2021 年 3 月 5 日: パートナー センターのソフトウェアおよびライセンス キーのフルフィルメント機能の復元に関する記述を上部に追加しました
 
 _____________
 ## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> リマインダー:パートナー センター API を呼び出すパートナーに対する API スロットリングの導入 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/30/2020
-ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705013"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514087"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月のお知らせ
 
@@ -36,6 +36,9 @@ ________________
 
 ### <a name="details"></a>詳細
 
+>[!NOTE]
+>パートナーからのフィードバックを受けて、永続的およびサーバーのサブスクリプション ソフトウェアの注文に対してソフトウェアとライセンス キーを取得するパートナー センターのフルフィルメント機能を復元しています。 2021 年 1 月 19 日に削除される前の状態に復元されます。 詳細については、[2021 年 3 月の発表](https://docs.microsoft.com/partner-center/announcements/2021-march#4)を参照してください。
+
 現在、パートナー様は、CSP ソフトウェア注文のソフトウェア ダウンロードおよびライセンス キー フルフィルメントに、パートナー センターまたは Microsoft 365 管理センターを使用できます。 **2021 年 1 月 19 日** 以降、パートナー センターのソフトウェアおよびライセンス キー フルフィルメント機能は廃止されるため、パートナーはこの目的には **Microsoft 365 管理センター** だけを使用するよう顧客にご案内ください。 パートナー センター内の [カスタマー ソフトウェア] ページには、顧客ライセンスとソフトウェア ダウンロードを取得するために顧客を案内できる Microsoft 365 管理センターへの "ディープ リンク" が含まれています。 これは、顧客向けの最も安全かつ効率的なエクスペリエンスを実現するのに役立ちます。
 
 ソフトウェア ライセンス キーとダウンロード リンクは、価値ある重要な知財資産です。 リークが生じると、それらのライセンス認証制限がすぐに枯渇し、顧客エクスペリエンスやパートナー エクスペリエンスに悪影響を及ぼす恐れがあります。 したがって、このような価値ある資産を保護し、顧客を保護していただくため、パートナー様に最も安全なテクノロジとベスト プラクティスを使用していただくことが重要になります。
@@ -54,6 +57,12 @@ Microsoft 365 管理センターを使用すると、購入されたソフトウ
 
 このお知らせに関するご質問は、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)にお問い合わせください。
 
+### <a name="change-log"></a>変更ログ:
+
+- 2020 年 9 月 30 日: 初版の公開日 
+
+- 2021 年 3 月 5 日: パートナー センターのソフトウェアおよびライセンス キーのフルフィルメント機能の復元に関する記述を上部に追加しました。
+
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>クラウド ソリューション プロバイダー (CSP) プログラムの進化とオープン ライセンス プログラムの変更:パートナーおよびカスタマーのエクスペリエンス向上への取り組み
 
@@ -68,6 +77,9 @@ CSP およびオープン プログラムのすべてのパートナー様
 
 ### <a name="details"></a>詳細
 
+>[!NOTE]
+>パートナーからのフィードバックを受けて、永続的およびサーバーのサブスクリプション ソフトウェアの注文に対してソフトウェアとライセンス キーを取得するパートナー センターのフルフィルメント機能を復元しています。 2021 年 1 月 19 日に削除される前の状態に復元されます。 詳細については、[2021 年 3 月の発表](https://docs.microsoft.com/partner-center/announcements/2021-march#4)を参照してください。
+
 Microsoft CSP プログラムは、9 万を超える企業が参加するようになっており、急速に成長しています。 これは、中小規模の企業、および新しいコマース エクスペリエンスに参加するさらに小規模の企業顧客向けの、Microsoft の主要なパートナー セールス モーションとなっています。 この動向を受けて、Microsoft は本日、CSP プログラムに参加するパートナー様向けの機会の拡大を発表しました。 詳細については、[パートナー ブログ記事](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)を参照してください。
 
 ### <a name="next-steps"></a>次の手順
@@ -80,6 +92,11 @@ Microsoft CSP プログラムは、9 万を超える企業が参加するよう�
 
 このお知らせに関するご質問は、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)にお問い合わせください。
 
+### <a name="change-log"></a>変更ログ:
+
+- 2020 年 9 月 30 日: 初版の公開日。
+
+- 2021 年 3 月 5 日: パートナー センターのソフトウェアおよびライセンス キーのフルフィルメント機能の復元に関する記述を上部に追加しました。
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Azure プランのパートナー間での新しいサブスクリプション切り替えツールが利用可能 

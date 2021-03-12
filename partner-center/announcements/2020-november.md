@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182547"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756406"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月のお知らせ
 
@@ -98,7 +98,7 @@ ______________
 上記の参加市場でクラウド ソリューション プロバイダー (CSP) プログラムを通じて取引を行う、すべてのパートナー。
 
 ### <a name="details"></a>詳細
-キャンペーンは、CSP 向け Office 365 E1 での 30% の割引で構成されています。 2020 年 12 月 1 日に開始し、2020 年 5 月 31 日までの 6 か月間利用できます。 このキャンペーンは、MW クラウドを初めて使用する、500 シート以下のお客様だけが利用できます。 これは、クラウドへの移行を可能にするために、ラテン アメリカ、インド、アジア太平洋の新興市場に限定されていることに注意してください。 
+キャンペーンは、CSP 向け Office 365 E1 での 30% の割引で構成されています。 2020 年 12 月 1 日に開始し、2021 年 5 月 31 日までの 6 か月間利用できます。 このキャンペーンは、MW クラウドを初めて使用する、500 シート以下のお客様だけが利用できます。 これは、クラウドへの移行を可能にするために、ラテン アメリカ、インド、アジア太平洋の新興市場に限定されていることに注意してください。 
 
 #### <a name="offer-details"></a>特典の詳細
 

@@ -1,7 +1,7 @@
 ---
 title: CSP によるソフトウェア サブスクリプションの販売
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP プログラムのパートナーがパートナー センターを使用して、顧客に代わって Azure 予約インスタンスとサーバー サブスクリプションの購入、管理、販売、および取り消しを行う方法について説明します。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834858"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475196"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>クラウド ソリューション プロバイダー (CSP) プログラムによりソフトウェア サブスクリプションを販売する
 
@@ -92,18 +92,25 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 
 ## <a name="activate-and-manage-software-subscriptions"></a>ソフトウェア サブスクリプションのライセンス認証と管理
 
-パートナーがソフトウェアを購入した後、顧客はそれをダウンロードする必要があります。 この場合、次の手順を実行します。
+ソフトウェアを購入した後、パートナーおよびお客様はソフトウェアをダウンロードする必要があります (パートナー センターを利用しているパートナー、Microsoft 365 管理センターを利用しているお客様)。 この場合、次の手順を実行します。 リンクのコピーとソフトウェアのダウンロードに関連するリスクを理解することが重要です。 詳しくは、[Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) の **パートナー センターを使用してカスタマー ソフトウェアのダウンロードとライセンス キーを取得する方法** に関するページを参照してください。
 
 >[!NOTE]
->キーとダウンロードへのリンクを取得するには、管理エージェントである必要があります。
+>キーとダウンロードへのリンクを取得するには、パートナー センターの管理エージェントである必要があります。
 
 1. 顧客の詳細ページに移動し、 **[ソフトウェア]** を選択します。 顧客に代わって購入したすべてのソフトウェアの一覧が表示されます。
-2. **[Link to Software product keys and downloads]\(ソフトウェアのプロダクト キーとダウンロードへのリンク\)** から "ディープ リンク" をコピーし、顧客とリンクを共有します。 顧客がこのリンクを選択すると、プロダクト キーをダウンロードして取得できるよう、Microsoft 管理センターにリダイレクトされます。
+
+2. 製品の **バージョン**、**言語**、**ビット** を選択し、 **[キーとダウンロードの取得]** を選択します。 
+
+3. **[キーの取得]** を選択すると、ポップアップ ダイアログに 32 桁の生成結果が表示され、コピーして顧客に送信することができます。 
+
+4. **[ダウンロード]** を選択してビットをダウンロードします。 
+
+5. ビットのダウンロードへのリンクを顧客に送信する場合は、 **[リンクのコピー]** を選択します。 
+
+6. また、ソフトウェアの注文を **キャンセル** し、100% のクレジットを受け取ることもできます (60 日のキャンセル ポリシー期間内に行った場合)。
 
 >[!NOTE]
->Microsoft 管理センターでプロダクト キーを参照したり、情報をダウンロードしたりできるのは、顧客だけです。 パートナーがこの情報を見ることはできません。
-
-パートナーまたはその顧客がライセンス キーのダウンロードについての詳細を確認したい場合は、[ソフトウェアと製品のライセンス キーのダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2152525)に関するページを参照してください。
+>Microsoft 365 管理センターでプロダクト キーを参照し、情報をダウンロードするためのアクセス権があるのは、顧客だけです (グローバル管理者ロールが必要)。 パートナーがこの情報を確認するには、パートナー センターを使用する必要があります。
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Microsoft 365 管理センターで顧客向けに使用できるサーバー サブスクリプションのダウンロードとライセンス キー 
 
