@@ -1,17 +1,17 @@
 ---
 title: Microsoft AppSource の概要
 description: Microsoft AppSource オンラインストアについて、およびソフトウェアとソリューションの豊富なカタログを検索する方法について説明します。
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
-ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
+ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "98759864"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412524"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource とは
 
@@ -42,7 +42,7 @@ SaaS アプリを AppSource から購入するには、Azure Active Directory �
 
 AppSource で利用可能なすべての製品は、特定の条件に従って認定されています。 また、各製品が組織の固有の要件を満たしていることを確認することをお勧めします。 各プランの種類について確認する認定ポリシーの詳細については、「 [商用 marketplace の認定ポリシー](/legal/marketplace/certification-policies)」を参照してください。 Microsoft 365 アプリには、発行元に対する追加の [証明](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) と [構成](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) 証明のプロセスがあります。
 
-## <a name="terms-and-conditions"></a>使用条件
+## <a name="terms-and-conditions"></a>Intune の登録および会社アクセスに関する使用条件
 
 ソフトウェアベンダーは、価格、エンドユーザー使用許諾契約、およびプライバシーポリシーを定義します。 AppSource のすべてのプランには、発行元のライセンス契約とプライバシーポリシーへのリンクが含まれています。 これらの契約の表示と確認は、購買フローに含まれています。 詳細については、「 [法的契約](legal-contracts.md)」を参照してください。
 
@@ -65,6 +65,6 @@ Microsoft 365 管理者ユーザーは、SaaS とアドインの両方を1か所
 
 すべての一覧ページに、他の顧客からの評価とレビューが表示されます。 評価では5つ星のスケールが使用され、各オファーカードに平均評価が表示されます。 その他の顧客のエクスペリエンスについて学習できるように、逐語的レビューも利用できます。 ソリューションを購入した後も、他のお客様が決定を行う際に役立つ評価とレビューを行うことができます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [Microsoft AppSource でソフトウェアを購入する](purchase-software-appsource.md)

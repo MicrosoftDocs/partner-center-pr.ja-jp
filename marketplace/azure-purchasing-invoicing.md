@@ -1,17 +1,17 @@
 ---
 title: Azure Marketplace からのソフトウェアとソリューションの購入
 description: Azure Marketplace でソフトウェアの購入と管理を簡略化し、合理化するツールについて説明します。
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584207"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412575"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace での購入
 
@@ -19,7 +19,7 @@ Azure Marketplace には多数のツールと機能があり、購入ポリシ�
 
 ## <a name="simplified-procurement"></a>簡素化された調達
 
-Azure Marketplace は、さまざまな購入オプションを通じて調達プロセスを簡素化するために役立ちます。 Azure アカウントに関連付けられているクレジットカードを使用して製品を購入した場合、すべての購入は1つの請求書にまとめられ、選択したクレジットカードに請求されます。 大規模なお客様の場合は、マイクロソフトエンタープライズ契約を使用して購入できます。 EA を使用すると、すべてのソフトウェアの購入が Azure の請求書に自動的に含まれます。 請求書の項目は、Azure の使用量に応じた請求に、Azure Marketplace の請求が続く形になります。
+Azure Marketplace は、さまざまな購入オプションを通じて調達プロセスを簡素化するために役立ちます。 Azure アカウントに関連付けられているクレジットカードを使用して製品を購入した場合、すべての購入は1つの請求書にまとめられ、選択したクレジットカードに請求されます。 大規模なお客様の場合は、Enterprise Agreement を使用して購入できます。 EA を使用すると、すべてのソフトウェアの購入が Azure の請求書に自動的に含まれます。 請求書の項目は、Azure の使用量に応じた請求に、Azure Marketplace の請求が続く形になります。
 
 Azure Marketplace を通じて購入すると、個々のベンダーと請求書の管理の複雑さが解消されます。 Azure Marketplace での購入と Azure の料金の両方を含む、Microsoft からの1つの統合月単位請求書を取得できます。
 
@@ -65,7 +65,7 @@ Azure Marketplace の料金と請求書は、Azure Cost Management の費用分�
 
 Azure Marketplace でプランを購入すると、さまざまな理由で失敗する可能性があります。 購入にコマンドラインインターフェイス (CLI) を使用すると、Azure Marketplace で使用できない、または表示できないプランを購入しようとしている場合があるため、エラーが発生する可能性が高くなります。 次に、購入に失敗する可能性があるチェックを示します。
 
-1. サブスクリプションは、マイクロソフトエンタープライズ契約 (EA) に属し、EA 管理者によって無効化された Azure Marketplace の購入が無効になっています。
+1. サブスクリプションは、Enterprise Agreement (EA) に属し、EA 管理者によって無効化された Azure Marketplace の購入が無効になっています。
 1. EA 管理者は無料プランでのみ購入が有効になっており、プランは有料プランです。
 1. プランが marketplace に見つかりません。
 1. 独立系ソフトウェアベンダー (ISV) は、少なくともお客様の地域でプランの販売を停止しました。
@@ -75,6 +75,6 @@ Azure Marketplace でプランを購入すると、さまざまな理由で失�
 1. サブスクリプションに対してプライベートマーケットプレースが有効になっていますが、プランは許可されているプランの一覧に含まれていません。
 1. プランは特定の顧客のプライベート/プレビューであり、サブスクリプションは許可されている顧客の一覧に含まれていません。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [請求と請求書作成](billing-invoicing.md)

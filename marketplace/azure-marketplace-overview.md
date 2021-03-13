@@ -1,17 +1,17 @@
 ---
 title: Azure Marketplace の概要
 description: Azure Marketplace オンラインストアについて、およびソフトウェアとソリューションを検索して試用する方法について説明します。
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182530"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412592"
 ---
 # <a name="what-is-azure-marketplace"></a>Azure Marketplace とは何ですか?
 
@@ -65,7 +65,7 @@ Azure Marketplace での購入は、Azure の請求書に自動的に追加さ�
 
 Azure Marketplace で利用可能なすべての製品は、特定の条件に従って認定されています。 また、各製品が組織の固有の要件を満たしていることを確認することをお勧めします。 各プランの種類について確認する認定ポリシーの詳細については、「商用 marketplace の [認定ポリシー](/legal/marketplace/certification-policies)」を参照してください。
 
-## <a name="terms-and-conditions"></a>使用条件
+## <a name="terms-and-conditions"></a>Intune の登録および会社アクセスに関する使用条件
 
 ソフトウェアベンダーは、価格、使用許諾契約書、およびプライバシーポリシーを定義します。 Azure Marketplace のすべてのプランには、発行元のライセンス契約とプライバシーポリシーへのリンクが含まれています。 これらの契約を確認し、それらを表示する機会を持つことは、購買フローの一部です。 詳細については、「 [法的契約](legal-contracts.md) 」を参照してください。
 
@@ -75,7 +75,7 @@ Azure Marketplace で利用可能なすべての製品は、特定の条件に�
 
 :::image type="content" source="media/azure-marketplace/app-reviews.png" alt-text="アプリレビューの例。":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [Azure Marketplace での購入](azure-purchasing-invoicing.md)
 - [Microsoft AppSource とは](appsource-overview.md)

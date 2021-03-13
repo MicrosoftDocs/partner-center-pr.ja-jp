@@ -4,16 +4,16 @@ description: このクイックスタートでは、Azure PowerShell を使用�
 author: keferna
 ms.author: keferna
 ms.topic: quickstart
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: d0021be17ab12b6e549b0e5263772a4a1e42f8a3
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: d7bd790eab2618822dbc5099ad1ad107794c82d2
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182343"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412456"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>クイックスタート: PowerShell を使用してプライベート Azure Marketplace を管理する
 
@@ -144,6 +144,6 @@ Type                      : Microsoft.Marketplace/privateStores/offers
 Remove-AzMarketplacePrivateStoreOffer -privateStoreId 00000000-0000-0000-0000-000000000000 -offerId publisherid.offerid
 ```
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 [プライベート Azure Marketplace を作成および管理](create-manage-private-azure-marketplace.md)します。

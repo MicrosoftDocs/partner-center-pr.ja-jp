@@ -1,17 +1,17 @@
 ---
 title: Azure Marketplace のお客様の請求と請求
 description: この記事では、Azure Marketplace の顧客の請求と請求に関してよく寄せられる質問について説明します。
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514777"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412609"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace の課金と請求
 
@@ -50,7 +50,7 @@ Azure Marketplace のプランでは、次の17の通貨で料金が請求され
 
 ## <a name="invoices"></a>Invoices
 
-Azure portal で請求書を利用できるようになると、各カレンダー月の開始時に電子メールが送信されます。 請求書には、カレンダー月に購入または使用した無料および有料のすべてのプランが表示されます。 無料プランをご利用の場合は、$0 の品目のみが表示され、支払い操作を行う必要はありません。 **マイクロソフトエンタープライズ契約のお客様** は、Azure と azure Marketplace の両方の課金 (オーストラリア、日本、シンガポールのお客様を除く) を示す結合請求書を受け取ります。 **Azure marketplace から直接購入したお客様** は、azure marketplace での購入に関する請求書を受け取ります。 詳細については、「 [MOSP アカウントの請求書](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)」を参照してください。
+Azure portal で請求書を利用できるようになると、各カレンダー月の開始時に電子メールが送信されます。 請求書には、カレンダー月に購入または使用した無料および有料のすべてのプランが表示されます。 無料プランをご利用の場合は、$0 の品目のみが表示され、支払い操作を行う必要はありません。 **Enterprise Agreement のお客様** は、Azure と azure Marketplace の両方の課金 (オーストラリア、日本、シンガポールのお客様を除く) を示す結合請求書を受け取ります。 **Azure marketplace から直接購入したお客様** は、azure marketplace での購入に関する請求書を受け取ります。 詳細については、「 [MOSP アカウントの請求書](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)」を参照してください。
 
 請求書を受け取った場合は、次のように変化します。
 
@@ -61,7 +61,7 @@ Microsoft Online Services Program (MOSP)、Microsoft 顧客契約 (MCA)、Micros
 
 請求書の詳細については、「 [Azure 外部サービスの課金](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)について」を参照してください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [Azure Marketplace とは何ですか?](azure-marketplace-overview.md)
 - [Azure Marketplace での購入](azure-purchasing-invoicing.md)

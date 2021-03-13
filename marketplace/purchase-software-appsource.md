@@ -1,23 +1,23 @@
 ---
 title: Microsoft AppSource で SaaS プランを購入する方法
 description: Microsoft AppSource で Microsoft パートナーからサービスとしてのソフトウェア (SaaS) アプリを購入する方法について説明します。
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 2d5e406e159d0d919dbf8b3542e636376cffacf6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007219"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412694"
 ---
 # <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Microsoft AppSource で SaaS アプリを購入する方法
 
 [Microsoft AppSource](https://appsource.microsoft.com/) には、サービスとしてのソフトウェア (SaaS) アプリ、Dynamics 365、Microsoft 365、Power BI、および Power apps 用のアドオンなど、多数のビジネスアプリケーションが含まれています。 AppSource には、無料のアプリ、試用版、有料のサブスクリプションが含まれており、 [Microsoft 365 管理センター](/microsoft-365/admin/admin-overview/about-the-admin-center)を使用して、料金、アップグレード、ダウングレード、およびキャンセルを1か所で管理できます。 この記事では、AppSource で有料の SaaS サブスクリプションを購入する方法について説明します。
 
-## <a name="requirements"></a>要件
+## <a name="requirements"></a>必要条件
 
 SaaS アプリを購入するには、次のものが必要です。
 
@@ -42,7 +42,7 @@ SaaS アプリを購入するには、次のものが必要です。
 1. 支払い方法 (クレジットカード情報) を入力します。    
 1. **[注文する]** を選択します。
 
-## <a name="configure-the-application"></a>アプリケーションの構成
+## <a name="configure-the-application"></a>アプリケーションを構成する
 
 ご注文を受けてから確認されるまでに、数秒かかることがあります。 ページ上に SaaS サブスクリプションを構成するためのリンクが表示され、購入を確認するメー​​ルが送信されます。メールには、構成を完了するためのリンクが記載されています。
 

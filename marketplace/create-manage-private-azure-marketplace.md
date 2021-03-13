@@ -1,17 +1,17 @@
 ---
 title: Azure portal でのプライベート Azure Marketplace の作成と管理
 description: Azure portal でのプライベート Azure Marketplace (プレビュー) の作成と管理について説明します。 プライベート Azure Marketplace (プレビュー) を使用すると、管理者は、ユーザーが使用できるサードパーティ製のソリューションを管理できます。
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 73b9137728fba93704d9b0cb2bc93a3f6498bd90
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756964"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412711"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Azure portal でのプライベート Azure Marketplace の作成と管理
 
@@ -30,7 +30,7 @@ Marketplace 管理者 (割り当てられたロール) として、無効にな�
 >[!IMPORTANT]
 > プライベート Azure Marketplace 管理へのアクセスは、Marketplace 管理者ロールが割り当てられている IT 管理者のみが使用できます。
 
-### <a name="prerequisites"></a>前提条件
+### <a name="prerequisites"></a>[前提条件]
 
 テナントのスコープでユーザーに Marketplace 管理者ロールを割り当てるには、次の前提条件が必要です。
 
@@ -326,7 +326,7 @@ Azure portal の **プライベート Azure Marketplace** を使用すると、�
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>カスタムイメージをプライベート Azure Marketplace に含めることはできますか?
 
-いいえ。 プライベート Azure Marketplace を使用すると、すべての IT 管理者は、グローバルな Azure Marketplace からサードパーティ製のソリューションを管理および制御することができます。 カスタムイメージはグローバル Azure Marketplace にはないため、IT 管理者はカスタムイメージを選択して選択することはできません。 カスタムイメージを共有する場合は、 [共有イメージギャラリー](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries)を使用します。
+正解ではありません。 プライベート Azure Marketplace を使用すると、すべての IT 管理者は、グローバルな Azure Marketplace からサードパーティ製のソリューションを管理および制御することができます。 カスタムイメージはグローバル Azure Marketplace にはないため、IT 管理者はカスタムイメージを選択して選択することはできません。 カスタムイメージを共有する場合は、 [共有イメージギャラリー](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries)を使用します。
 
 1. ステップバイステップガイド: 共有イメージギャラリー (SIG) を作成する ([CLI](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli)、 [PowerShell](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell))。
 2. SIG 内にイメージ定義を作成します。 お客様は、[OS 状態] フィールドで [ **一般化** ] を選択する必要があります。 ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition)、 [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition))。
