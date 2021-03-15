@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619428"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193615"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "102619428"
 
 |**カテゴリ**|**2021 年 3 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[One Commercial Partner (OCP) 市場 (GTM) から Microsoft コマーシャル マーケットプレースへのソリューションの移行](2021-march.md#6)|3 月 12 日|
 |機能|[ロシアに対する Azure のクラウド ソリューション プロバイダー (CSP) プログラムの新しいコマース エクスペリエンスを拡張](2021-march.md#5)|3 月 10 日|
 |機能|[パートナー センター ソフトウェア ライセンス キーとダウンロード フルフィルメント](2021-march.md#4)|3 月 5 日|
 |機能|[Partner Sales Connect (PSC) からパートナー センターに取引を移行](2021-march.md#3)|3 月 5 日|
