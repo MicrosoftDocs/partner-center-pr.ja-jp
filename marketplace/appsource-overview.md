@@ -5,13 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 03/12/2021
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412524"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486874"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource とは
 
@@ -21,13 +22,25 @@ AppSource カタログには、サービスとしてのソフトウェア (SaaS)
 
 ## <a name="find-what-you-need-on-appsource"></a>AppSource で必要なものを見つける
 
-AppSource は、探しているものをすばやく見つけられるようにするための単純な検索およびフィルター処理オプションを提供します。 ページの上部にある検索バーを使用して、ベンダー、製品名、またはキーワードによってソリューションを検索します。 ページの上部付近にあるフィルターを使用して、無料試用版または体験版、価格モデル (無料または有料)、評価の利用可能性に基づいて結果を絞り込むことができます。
+AppSource には、探しているものをすばやく見つけるのに役立つ単純な検索およびフィルター処理オプションが用意されています。 ページの上部にある **検索** バーを使用して、ベンダー、製品名、またはキーワードによってソリューションを検索します。
 
-左端のウィンドウでは、製品の種類、カテゴリ、および業界の一覧に基づいて結果をフィルター処理できます。 AppSource の製品の種類は、Microsoft 365 や Power Apps などの製品に基づいています。 カテゴリは、コラボレーションやマーケティングなどのビジネス機能に基づいています。 農業や製造など、業界の一覧から選択することもできます。
+[![Microsoft Appsource のランディングページを表示します。](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+[アプリギャラリー](https://appsource.microsoft.com/marketplace/apps)を調べる際には、ページの上部付近にあるフィルターを使用して、無料試用版またはテスト用ドライブの可用性、価格モデル (無料または有料)、および顧客の評価に基づいて結果を絞り込むことができます。
+
+左端のウィンドウでは、製品の種類、カテゴリ、および業界の一覧に基づいて結果をフィルター処理できます。 AppSource の製品の種類は、Microsoft 365、Dynamics 365、および Power Platform などの製品に基づいています。 カテゴリは、売上、コラボレーション、マーケティングなどのビジネス機能に基づいています。 金融サービス、医療、配布など、業界の一覧から選択することもできます。
+
+## <a name="microsoft-preferred-solutions"></a>Microsoft の優先ソリューション
+
+カタログの検索またはフィルター処理を行う場合、結果には Microsoft の優先ソリューションが含まれることがあります。これは、アプリカードの右下隅にある優先ソリューションバッジまたは製品詳細ページのバッジによって識別されます。
+
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="AppSource の優先プロバイダーバッジを表示します。":::
+
+お勧めのソリューションは、Microsoft の専門家のチームによって選択され、カテゴリ、業界、または業界における特定の顧客のニーズに対応するために、Microsoft パートナーによって、豊富で実績のある専門知識と機能によって発行されます。
 
 ## <a name="take-action-on-a-listing"></a>リストに対してアクションを実行する
 
-アプリの _結果_ からアプリを選択すると、そのアプリの一覧ページが表示されます。 AppSource 内のすべての一覧では、次の一覧のオプションが1つ以上サポートされています。
+アプリの *結果* からアプリを選択すると、そのアプリの一覧ページが表示されます。 次の1つまたは複数を選択して、一覧に対してアクションを実行します。
 
 - **今すぐ入手** する: ソリューションをすぐに購入します。
 - **体験版: curated** のデモをご覧ください。 体験版では、実稼働データや環境は使用しませんが、ソリューションがビジネスニーズを満たすかどうかを判断することができます。
@@ -65,6 +78,6 @@ Microsoft 365 管理者ユーザーは、SaaS とアドインの両方を1か所
 
 すべての一覧ページに、他の顧客からの評価とレビューが表示されます。 評価では5つ星のスケールが使用され、各オファーカードに平均評価が表示されます。 その他の顧客のエクスペリエンスについて学習できるように、逐語的レビューも利用できます。 ソリューションを購入した後も、他のお客様が決定を行う際に役立つ評価とレビューを行うことができます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Microsoft AppSource でソフトウェアを購入する](purchase-software-appsource.md)

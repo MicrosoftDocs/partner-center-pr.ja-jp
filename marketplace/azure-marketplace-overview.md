@@ -5,43 +5,54 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.custom: contperf-fy21q3
+ms.date: 03/09/2021
+ms.openlocfilehash: 96e8d686d2048856791a691ccc1d03f541ad856d
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412592"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486943"
 ---
 # <a name="what-is-azure-marketplace"></a>Azure Marketplace とは何ですか?
 
-Azure Marketplace は、業界トップレベルのテクノロジ企業によって構築された、何千もの IT ソフトウェアアプリケーションとサービスを含むオンラインストアです。 Azure Marketplace では、新しいソリューションを構築し、クラウドインフラストラクチャを管理するために必要なソフトウェアやサービスを検索、試用、購入、デプロイすることができます。 このカタログには、さまざまな業界、技術分野、無料試用版、Microsoft パートナーのコンサルティングサービスなどのソリューションが含まれています。
+[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) は、業界トップレベルのテクノロジ企業によって構築された、何千もの IT ソフトウェアアプリケーションとサービスを含むオンラインストアです。 Azure Marketplace では、新しいソリューションを構築し、クラウドインフラストラクチャを管理するために必要なソフトウェアやサービスを検索、試用、購入、デプロイすることができます。 このカタログには、さまざまな業界、技術分野、無料試用版、Microsoft パートナーのコンサルティングサービスなどのソリューションが含まれています。
 
 ## <a name="find-what-you-need-in-azure-marketplace"></a>Azure Marketplace で必要なものを見つける
 
-カタログを名前で検索するか、analytics、security、network、storage、DevOps などのカテゴリを参照します。 Azure Marketplace では、ソフトウェアの調達と IT 管理が簡略化されています (さまざまな価格オプションと複数のデプロイ方法があります)。これにより、独自のビジネスニーズを柔軟に満たすことができます。 また、標準契約契約、統合された課金と請求、および集中サブスクリプション管理を使用して調達を効率化します。
+Azure Marketplace には、探しているものをすばやく見つけるための簡単な検索とフィルター処理のオプションが用意されています。 ページの上部にある検索バーを使用して、ベンダー、製品名、またはキーワードによってソリューションを検索します。
 
-Azure Marketplace カタログは、オンラインストアおよび Azure portal を通じて入手できます。  
+:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Azure Marketplace のメインウィンドウが表示されます。このウィンドウでは、アプリとコンサルティングサービスのどちらを参照するかを選択できます。":::
 
-### <a name="search-the-online-store"></a>オンラインストアを検索する
+アプリギャラリーを調べるときは、上部にあるフィルターを使用して、無料試用版またはテスト用ドライブ、オペレーティングシステム、発行元、価格モデル、または製品の種類の可用性に基づいて結果を絞り込むことができます。
 
-[オンラインストア](https://azuremarketplace.microsoft.com/)にアクセスし、上部の [**アプリ**] または [**コンサルティングサービス**] を参照するかどうかを選択します。 ここで購入したアプリは、Azure Marketplace にデプロイされます。
+:::image type="content" source="media/azure-marketplace/azure-marketplace-filters.png" alt-text="Azure Marketplace ウィンドウの上部にフィルターが表示されます。":::
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Azure Marketplace で、アプリまたはコンサルティングサービスを参照するかどうかを上部で選択します。":::
+左端のウィンドウでは、analytics、security、network、storage、DevOps などのカテゴリでカタログをフィルター処理できます。 カテゴリを選択すると、使用可能なサブカテゴリが表示されます。
 
-画面の上部にある検索バーを使用するか、上に示したものではない製品カテゴリを使用して、ニーズに最適なツールを見つけます。
+:::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="サブカテゴリのカテゴリを表示します。":::
 
-コンサルティングサービスは、Azure portal ではなく、オンラインストアでのみ利用できます。
+Azure Marketplace では、ソフトウェアの調達と IT 管理が簡略化されています (さまざまな価格オプションと複数のデプロイ方法があります)。これにより、独自のビジネスニーズを柔軟に満たすことができます。 また、標準契約契約、統合された課金と請求、および集中サブスクリプション管理を使用して調達を効率化します。 Azure Marketplace カタログは、オンラインストアおよび Azure portal を通じて入手できます。
 
-### <a name="search-in-the-azure-portal"></a>Azure portal を検索します
+## <a name="microsoft-preferred-solutions"></a>Microsoft の優先ソリューション
+
+カタログの検索またはフィルター処理を行う場合、結果には Microsoft の優先ソリューションが含まれることがあります。これは、アプリカードの右下隅にある優先ソリューションバッジまたは製品詳細ページのバッジによって識別されます。
+
+:::image type="content" source="media/azure-marketplace/preferred-solution-badge.png" alt-text="Azure Marketplace の優先プロバイダーバッジを表示します。":::
+
+お勧めのソリューションは、Microsoft の専門家のチームによって選択され、カテゴリ、業界、または業界における特定の顧客のニーズに対応するために、Microsoft パートナーによって、豊富で実績のある専門知識と機能によって発行されます。
+
+## <a name="search-in-the-azure-portal"></a>Azure portal を検索します
 
 Azure portal で、[ **+ リソースの作成** ] を選択するか、"marketplace" を検索します。 次に、左側のカテゴリを参照するか、フィルター関数を含む検索バーを使用します。
 
 :::image type="content" source="media/azure-marketplace/azure-portal.png" alt-text="Azure portal でアプリを選択します。":::
 
+コンサルティングサービスは、Azure portal ではなく、オンラインストアでのみ利用できます。
+
 ## <a name="take-action-on-a-listing"></a>リストに対してアクションを実行する
 
-Azure Marketplace のすべての一覧には、次のアクションが1つ以上サポートされています。
+次の1つまたは複数を選択して、一覧に対してアクションを実行します。
 
 - **今すぐ入手** する–ソリューションをすぐに購入できます。
 - **体験版– curated** のデモをご覧ください。 テストドライブは構成を必要としません。 実稼働データや環境を使用しなくても、ソリューションがビジネスニーズを満たすかどうかを判断できます。
@@ -75,7 +86,7 @@ Azure Marketplace で利用可能なすべての製品は、特定の条件に�
 
 :::image type="content" source="media/azure-marketplace/app-reviews.png" alt-text="アプリレビューの例。":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Azure Marketplace での購入](azure-purchasing-invoicing.md)
 - [Microsoft AppSource とは](appsource-overview.md)
