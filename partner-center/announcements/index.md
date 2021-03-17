@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103480995"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570177"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "103480995"
 
 |**カテゴリ**|**2021 年 3 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|効率とスケールの向上|[パートナー センターを使用した会社の正式名称の更新](2021-march.md#9)|3 月 16 日|
 |機能|[クラウド ソリューション プロバイダー (CSP) プログラムの進化とオープン ライセンス プログラムの変更に対する更新](2021-march.md#8)|3 月 15 日|
 |ビジネスの拡大|[以前の発表: Compliance Manager へのアドオンであるプレミアム評価に対する更新](2021-march.md#7)|3 月 15 日|
 |機能|[One Commercial Partner (OCP) 市場 (GTM) から Microsoft コマーシャル マーケットプレースへのソリューションの移行](2021-march.md#6)|3 月 12 日|
