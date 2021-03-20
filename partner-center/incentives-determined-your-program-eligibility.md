@@ -1,25 +1,21 @@
 ---
 title: インセンティブプログラムの有資格
-description: インセンティブプログラムが有料であることを確認してください。 このプロセスには、プログラムガイドでの資格の確認が含まれます。
+description: インセンティブプログラムの資格要件を満たしていることを確認します。 このプロセスには、プログラムガイドでの資格の確認が含まれます。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175218"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712165"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>インセンティブプログラムの資格を確認する
-
-**適用対象**:
-
-- パートナー センター
 
 **適切なロール**:
 
@@ -40,7 +36,11 @@ ms.locfileid: "92175218"
 
 3. 目的のプログラムを選択します。
 
-4. **[プログラムの詳細]** フィールドで、 **[プログラム ガイド]** を選択します。
+4. [ **状態** ] フィールドで、[ **適格性の要件**] を選択します。
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="スクリーンショットは、インセンティブの要件の一例です。":::
+
+5. 資格を満たすために、チェックされていないすべての領域を完了する必要があります。 各インセンティブプログラムには、独自の一連の要件があります。
 
 ## <a name="next-steps"></a>次のステップ
 

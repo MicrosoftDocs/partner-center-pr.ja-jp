@@ -4,15 +4,17 @@ ms.topic: article
 ms.date: 06/08/2020
 description: パートナーセンターの使用状況に基づく調整ファイルのすべての項目について説明します。 いくつかの例を紹介します。
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1a2707b12e4bdb7452711019aa8ae43d4b6b1a
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 403b2704c600f21fc06576e679ff538a74ae5046
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022759"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712972"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>パートナーセンターで使用量に基づく調整ファイルとその特定のフィールドについて理解する
 
@@ -56,7 +58,7 @@ ms.locfileid: "103022759"
 | PretaxCharges | が最も近い **値に丸め** られた、**リスト** に等しい。 | *$0.085* |
 | TaxAmount | 料金が請求されます。 市場の税金ルールと特定の状況に基づいています。 | *$0.08* |
 | PostTaxTotal | 課税後の合計額 (税が適用される場合)。 | *$0.93* |
-| 通貨 | 通貨の種類。 各請求エンティティの通貨は 1 つのみです。 最初の請求書と一致していることを確認し、その後、主要な課金プラットフォームを更新します。 | *EUR* |
+| Currency | 通貨の種類。 各請求エンティティの通貨は 1 つのみです。 最初の請求書と一致していることを確認し、その後、主要な課金プラットフォームを更新します。 | *EUR* |
 | PretaxEffectiveRate | 単位あたりの税込み単価。 これは、最も近い **値に丸め** られた、 **オーバー**・・・・・・・・・・・・・・・・・・・・・・・・の | *$0.08* |
 | PostTaxEffectiveRate | 単位あたりの税引き後の単価。 **PostTaxTotal** は、最も近い値に丸められ、**オーバーオーバー** で除算されます。 または、1ユニットあたりの税率と、最も近い値に丸められた税率 **を加算し** た値です。 | *$0.08* |
 | ChargeType | 料金または調整 [の種類](recon-file-charge-types.md) 。 | [料金の種類](recon-file-charge-types.md)を参照してください。 |

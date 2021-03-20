@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412711"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712768"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Azure portal でのプライベート Azure Marketplace の作成と管理
 
@@ -21,7 +21,7 @@ Marketplace 管理者 (割り当てられたロール) として、無効にな�
 
 > [!NOTE]
 > - プライベート Azure Marketplace はテナントレベルであるため、テナントのすべてのユーザーに同じ curated リストが表示されます。
-> - すべての Microsoft ソリューション (保証された [Linux ディストリビューション](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)を含む) は、プライベート Azure Marketplace に自動的に追加されます。
+> - すべての Microsoft ソリューション (保証された [Linux ディストリビューション](/azure/virtual-machines/linux/endorsed-distros)を含む) は、プライベート Azure Marketplace に自動的に追加されます。
 
 ## <a name="assign-the-marketplace-admin-role"></a>Marketplace 管理者ロールを割り当てる
 
@@ -30,7 +30,7 @@ Marketplace 管理者 (割り当てられたロール) として、無効にな�
 >[!IMPORTANT]
 > プライベート Azure Marketplace 管理へのアクセスは、Marketplace 管理者ロールが割り当てられている IT 管理者のみが使用できます。
 
-### <a name="prerequisites"></a>[前提条件]
+### <a name="prerequisites"></a>前提条件
 
 テナントのスコープでユーザーに Marketplace 管理者ロールを割り当てるには、次の前提条件が必要です。
 
@@ -187,7 +187,7 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 4. 選択を行った後、左下にある [ **完了** ] を選択します。
 
 >[!Note]
-> Marketplace への **項目の追加** は、Microsoft 以外のプランでのみ利用可能になります。 Microsoft のソリューション (動作保証済みの [Linux ディストリビューション](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)を含む) は、"既定で承認済み" としてタグ付けされ、プライベートマーケットプレースで管理することはできません。
+> Marketplace への **項目の追加** は、Microsoft 以外のプランでのみ利用可能になります。 Microsoft のソリューション (動作保証済みの [Linux ディストリビューション](/azure/virtual-machines/linux/endorsed-distros)を含む) は、"既定で承認済み" としてタグ付けされ、プライベートマーケットプレースで管理することはできません。
 
 ## <a name="edit-items-plans"></a>項目の計画の編集
 
@@ -249,7 +249,7 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 プライベート Azure Marketplace が有効になっている場合は、Marketplace 管理者が承認したプランがユーザーに表示されます。
 
 - 緑色の **承認済み** の通知は、承認されているパートナー (Microsoft 以外の) オファーを示します。
-- **承認された青の** 通知は、承認済みの Microsoft プラン (保証された [Linux ディストリビューション](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)を含む) を示します。
+- **承認された青の** 通知は、承認済みの Microsoft プラン (保証された [Linux ディストリビューション](/azure/virtual-machines/linux/endorsed-distros)を含む) を示します。
 
 ユーザーは、承認されていないオファーと承認されていないプランをフィルター処理できます。
 
@@ -304,7 +304,7 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="電子メールポータルでサービスを制限する方法について説明します。":::
 
-2. 特定の Vm のみを許可する Azure ポリシーを作成します。 Windows Vm にポリシーを適用する方法の詳細については、「Azure Resource Manager を使用して [Windows vm にポリシーを適用](https://docs.microsoft.com/azure/virtual-machines/windows/policy)する」を参照してください。
+2. 特定の Vm のみを許可する Azure ポリシーを作成します。 Windows Vm にポリシーを適用する方法の詳細については、「Azure Resource Manager を使用して [Windows vm にポリシーを適用](/azure/virtual-machines/windows/policy)する」を参照してください。
 
 プライベート Azure Marketplace を使用すると、特定のオファーとプランをより柔軟に制限し、許可することができます。 エンドユーザーがサードパーティのサービスをデプロイする前であっても、marketplace ギャラリーにデプロイできるかどうかをエンドユーザーに通知します。 サードパーティのサービスのデプロイを許可するには、EA ポータルと Azure portal で Azure Marketplace をオン/有効に設定します。
 
@@ -314,7 +314,7 @@ Az. Portal PowerShell モジュールに含まれるコマンドレットの詳�
 
 #### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>プライベートプランとプライベート Azure Marketplace の違いは何ですか?
 
-**プライベートオファー** を使用すると、発行元は、対象ユーザーにのみ表示されるプランを作成できます。 これにより、カスタマイズされたソリューションを、ネゴシエートされた価格、プライベートの使用条件、および特殊な構成でプライベートに共有できます。 詳細については、「 [商業市場におけるプライベートプラン](https://docs.microsoft.com/azure/marketplace/private-offers)」を参照してください。
+**プライベートオファー** を使用すると、発行元は、対象ユーザーにのみ表示されるプランを作成できます。 これにより、カスタマイズされたソリューションを、ネゴシエートされた価格、プライベートの使用条件、および特殊な構成でプライベートに共有できます。 詳細については、「 [商業市場におけるプライベートプラン](/azure/marketplace/private-offers)」を参照してください。
 
 Azure portal の **プライベート Azure Marketplace** を使用すると、管理者は、ユーザーが展開できるサードパーティ製ソリューションを事前に承認できます。 プライベート Azure Marketplace を使用すると、ユーザーは準拠しているプランを検索、購入、デプロイすることで、Azure Marketplace のメリットを享受できます。 プライベートマーケットプレースでサブスクリプションベースのプライベートプランを管理するには、Marketplace 管理者が特定のサブスクリプションに対して最低でも "読み取り" ロールを持っている必要があります。
 
@@ -326,16 +326,16 @@ Azure portal の **プライベート Azure Marketplace** を使用すると、�
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>カスタムイメージをプライベート Azure Marketplace に含めることはできますか?
 
-正解ではありません。 プライベート Azure Marketplace を使用すると、すべての IT 管理者は、グローバルな Azure Marketplace からサードパーティ製のソリューションを管理および制御することができます。 カスタムイメージはグローバル Azure Marketplace にはないため、IT 管理者はカスタムイメージを選択して選択することはできません。 カスタムイメージを共有する場合は、 [共有イメージギャラリー](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries)を使用します。
+いいえ。 プライベート Azure Marketplace を使用すると、すべての IT 管理者は、グローバルな Azure Marketplace からサードパーティ製のソリューションを管理および制御することができます。 カスタムイメージはグローバル Azure Marketplace にはないため、IT 管理者はカスタムイメージを選択して選択することはできません。 カスタムイメージを共有する場合は、 [共有イメージギャラリー](/azure/virtual-machines/shared-image-galleries)を使用します。
 
-1. ステップバイステップガイド: 共有イメージギャラリー (SIG) を作成する ([CLI](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli)、 [PowerShell](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell))。
-2. SIG 内にイメージ定義を作成します。 お客様は、[OS 状態] フィールドで [ **一般化** ] を選択する必要があります。 ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition)、 [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition))。
-3. 管理対象イメージを共有イメージギャラリー ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli)、 [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-powershell)) に取り込みます。
-4. SIG VM イメージは1つのサブスクリプションに存在します。 他のサブスクリプションで使用できるようにするには、アプリの登録 ([CLI](https://docs.microsoft.com/azure/virtual-machines/linux/share-images-across-tenants)、 [PowerShell](https://docs.microsoft.com/azure/virtual-machines/windows/share-images-across-tenants)) を使用します。
+1. ステップバイステップガイド: 共有イメージギャラリー (SIG) を作成する ([CLI](/azure/virtual-machines/shared-images-cli)、 [PowerShell](/azure/virtual-machines/shared-images-powershell))。
+2. SIG 内にイメージ定義を作成します。 お客様は、[OS 状態] フィールドで [ **一般化** ] を選択する必要があります。 ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition)、 [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition))。
+3. 管理対象イメージを共有イメージギャラリー ([CLI](/azure/virtual-machines/image-version-managed-image-cli)、 [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)) に取り込みます。
+4. SIG VM イメージは1つのサブスクリプションに存在します。 他のサブスクリプションで使用できるようにするには、アプリの登録 ([CLI](/azure/virtual-machines/linux/share-images-across-tenants)、 [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants)) を使用します。
 
 #### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>発行元が Microsoft ではないにもかかわらず、一部のプランが **既定で承認** されるのはなぜですか。
 
-Microsoft は、Azure での Linux およびオープンソーステクノロジをサポートしています。 Azure では、保証された[Linux ディストリビューション](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)がサポートされており、仮想マシンにも価格が統合されています。 Azure Linux エージェントは Azure Marketplace に既にプレインストールされているため、Microsoft のプランと同じように扱われます。 Microsoft のプランは既定で承認されるため、保証された Linux ディストリビューションは、プライベート Azure Marketplace では管理できず、既定で承認されます。
+Microsoft は、Azure での Linux およびオープンソーステクノロジをサポートしています。 Azure では、保証された[Linux ディストリビューション](/azure/virtual-machines/linux/endorsed-distros)がサポートされており、仮想マシンにも価格が統合されています。 Azure Linux エージェントは Azure Marketplace に既にプレインストールされているため、Microsoft のプランと同じように扱われます。 Microsoft のプランは既定で承認されるため、保証された Linux ディストリビューションは、プライベート Azure Marketplace では管理できず、既定で承認されます。
 
 ## <a name="contact-support"></a>サポートにお問い合せください
 

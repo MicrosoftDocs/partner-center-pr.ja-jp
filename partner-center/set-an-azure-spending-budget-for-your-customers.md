@@ -1,7 +1,7 @@
 ---
 title: 顧客の Azure 支出予算を設定する
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 03/17/2021
 description: 顧客向けの月単位の Azure 支出予算を設定または削除する方法と、Azure の支出データを表示し、予算に関連する通知を設定する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96438976"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712751"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>パートナーセンターのお客様に対する月単位の Azure 支出予算を設定、確認、または削除する
 
-適用対象:
+**適切なロール**
 
-- パートナー センター
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+- 管理エージェント
 
 パートナーセンターでは、 [顧客の Azure 支出予算を毎月設定](#set-azure-spending-budget) できます。 これにより、お客様は Azure の支出を管理できます。 このオプションを使用すると、顧客の Azure の支出を月の予算と比較できます。 また、お客様が Azure の使用量を予算に費やして、月々の請求額が予想よりも高くならないようにすることもできます。
 
@@ -48,7 +47,7 @@ Azure の支出データは *見積もり* で *あり、実際の請求金額�
 
 パートナーセンターでは、複数の顧客に対する *月単位の Azure 支出予算を設定* できます。
 
-1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+1. [パートナー センター ダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 
 2. [ **CSP**] の左側のメニューで、[ **Azure の支出**] を選択します。
 
@@ -76,7 +75,7 @@ Azure の支出データは *見積もり* で *あり、実際の請求金額�
 
 パートナーセンターでは、お客様の *月単位の Azure 支出予算を削除* できます。
 
-1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+1. [パートナー センター ダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 
 2. [ **CSP**] の左側のメニューで、[ **Azure の支出**] を選択します。
 
@@ -88,7 +87,7 @@ Azure の支出データは *見積もり* で *あり、実際の請求金額�
 
 *お客様の現在の Azure の支出と月々の予算* をいつでも追跡できます。
 
-1. [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+1. [パートナー センター ダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 
 2. [ **CSP**] の左側のメニューで、[ **Azure の支出**] を選択します。
 
@@ -126,3 +125,8 @@ Azure の支出データは *見積もり* で *あり、実際の請求金額�
 4. 顧客の [ **サブスクリプション** ] ページの [ **使用量ベースのサブスクリプション**] で、 **サブスクリプション** の名前を選択します。
 
 5. サブスクリプションのページで、サービスごとの **明細コスト** と当月の **推定使用量** を確認できます。
+
+
+## <a name="next-steps"></a>次のステップ
+
+- [CSP の新しいコマース エクスペリエンス - Azure の請求](azure-plan-billing.md)

@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 3630824c839ccd9f54f3e8e5199a573b5824bb91
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758496"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712955"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Azure Marketplace の支払いポリシーが支払いに与える影響
 
@@ -47,7 +47,7 @@ Microsoft の商用マーケットプレースにはグローバルなリーチ�
 
 **シナリオ C** –お客様に対して源泉徴収税が適用されていない、発行元管理の税金の国で、発行元と顧客の間で行われるトランザクション。 お客様は、販売時点で税金を支払うことなく、適用されるすべての税金を支払うことになります。
 
-国固有の価格の詳細については (たとえば、今後の課税を相殺する場合)、「 [商業市場向けプランと価格](https://docs.microsoft.com/azure/marketplace/plans-pricing#custom-prices)」を参照してください。
+国固有の価格の詳細については (たとえば、今後の課税を相殺する場合)、「 [商業市場向けプランと価格](/azure/marketplace/plans-pricing#custom-prices)」を参照してください。
 
 :::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="支払いプロセスシナリオ C のワークフローを示します。":::
 
@@ -77,5 +77,5 @@ Microsoft の商用マーケットプレースにはグローバルなリーチ�
 
 ## <a name="next-steps"></a>次のステップ
 
-- [発行元の FAQ](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)
-- [支払いと税金のプロファイルを作成する手順](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile)
+- [発行元の FAQ](/azure/marketplace/marketplace-faq-publisher-guide)
+- [支払いと税金のプロファイルを作成する手順](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

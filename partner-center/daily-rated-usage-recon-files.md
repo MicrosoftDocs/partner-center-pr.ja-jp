@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031965"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712241"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
@@ -53,7 +53,7 @@ ms.locfileid: "92031965"
 | ProductName | 製品の名前です。 |
 | 発行元 | 発行元の名前。 |
 | PublisherId | GUID 形式のパブリッシャーの識別子。 |
-| SubscriptionDescription | 価格表で定義されている、顧客が購入したサービス プランの名前。 (この列には、 **Offername**と同じフィールドがあります)。 |
+| SubscriptionDescription | 価格表で定義されている、顧客が購入したサービス プランの名前。 (この列には、 **Offername** と同じフィールドがあります)。 |
 | SubscriptionId | Microsoft 請求プラットフォームでのサブスクリプションの一意識別子。 調整には使用されません。 *この識別子は、パートナー管理コンソールの **サブスクリプション ID** と同じではありません。* |
 | ChargeStartDate | 請求サイクルの開始日 (以前の請求サイクルから以前に使用されていた使用状況データを表示していない日付を表示する場合を除く)。 この時間は常に、1 日の開始時刻である 0:00 です。 |
 | ChargeEndDate | 請求サイクルの終了日 (以前の請求サイクルから過去に発生した使用状況データを表示する場合を除く)。 時刻は常に、その日の終わりの時刻 (23:59) になります。 |
@@ -64,7 +64,7 @@ ms.locfileid: "92031965"
 | MeterSubCategory | 料金に影響する可能性のある Azure サービスの種類。 |
 | MeterName | 使用しているメーターの測定単位。 |
 | MeterRegion | この列は、MeterRegion が適用可能で設定されているサービスのリージョン内のデータセンターの場所を示します。 |
-| ユニット | リソース **名**の単位です。 |
+| ユニット | リソース **名** の単位です。 |
 | ResourceLocation | メーターが実行されているデータセンター。 |
 | ConsumedService | 使用した Azure プラットフォーム サービス。 |
 | ResourceGroup | Azure ソリューションの関連リソースを保持するコンテナーを表します。 |
@@ -80,14 +80,15 @@ ms.locfileid: "92031965"
 | ServiceInfo1 | 特定の日にプロビジョニングおよび使用された Service Bus 接続の数。 |
 | ServiceInfo2 | 省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールド。 |
 | タグ | ユーザーによって設定された Azure リソースの論理編成を表します。 |
-| AdditionalInfo | 他の列で説明されていない任意の追加情報。 |
+| AdditionalInfo: | 他の列で説明されていない任意の追加情報。 |
 | EffectiveUnitPrice | 割引、獲得したクレジットなど、ユニットごとに課金される実際の値。 |
 | PCToBCExchangeRate | 料金通貨に適用される換算レートが請求通貨に適用されます。 |
 | PCToBCExchangeRateDate | 請求通貨の価格の通貨が決定される日付。 |
 | EntitlementId | Azure サブスクリプション ID を表します。 |
 | EntitlementDescription | Azure サブスクリプション ID の名前を表します。 |
 | PartnerEarnedCreditPercentage | 品目の PartnerEarnedCredit を表示します。 獲得クレジットは、0または15% になります |
-
+| CreditPercentage | Azure の消費クレジットが表示されます。 獲得クレジットは、0または100% のいずれかになります。 |
+| CreditType | クレジットの種類。 たとえば、 **Azure クレジットが適用されます。** |
 >[!NOTE]
 >日常的に評価される使用量は、パートナーセンターに表示されるか、API を使用してアクセスされるまでに、通常24時間かかります。
 

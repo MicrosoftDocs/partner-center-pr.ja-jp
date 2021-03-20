@@ -10,18 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3cf34aa52bd1d0359736dbcf6cc5ed9029f6d9e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f2f1a4ce2ed1ea4ed21de68454a123458120edfd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756765"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712938"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理
 
 **適用対象**
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+- Microsoft Government cloud のパートナーセンター
 
 **適切なロール**
 
@@ -42,7 +42,7 @@ ms.locfileid: "101756765"
 
 -  [**Azure Active Directory でユーザーのパスワードをリセットする**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**関連項目**
+**関連トピック**
 
 -  [**米国政府機関向け Microsoft Cloud のパートナー センター**](partner-center-for-microsoft-us-govt-cloud.md)
 

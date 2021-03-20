@@ -9,18 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a7cc7d6335cdda0cec19a7676d2b6103592842e
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: b60b86bec70b5c33d65532599fa0421604d9ba12
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584180"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712887"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>パートナーセンターにサインインできず、パスワードをリセットする必要がある場合
 
 **適切なロール**
 
-- パートナーセンターのユーザー
+- パートナーセンターに関心のあるすべてのパートナー
 
 パスワードを忘れた場合、パートナーセンターにサインインできない場合は、サポートにお問い合わせください。 適切な連絡先については、「 [ビジネス製品のサポート](/microsoft-365/admin/contact-support-for-business-products)」を参照してください。 
 

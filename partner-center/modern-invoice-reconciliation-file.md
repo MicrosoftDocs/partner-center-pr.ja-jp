@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098807"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712258"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP による1回限りの購入調整ファイルフィールド
 
@@ -39,13 +39,13 @@ ms.locfileid: "99098807"
 | AvailabilityId | 可用性の一意識別子。 | *DZH318Z08B80* |
 | SkuName | SKU の名前。 | *テーブル-LRS* |
 | ProductName | 製品名。 | *テーブル* |
-| ChargeType | 料金または調整 [の種類](./recon-file-charge-types.md) 。 | *新規* |
+| ChargeType | 料金または調整 [の種類](./recon-file-charge-types.md) 。 | *[新規作成]* |
 | UnitPrice | ライセンスあたりの料金。購入時の価格表に記載されています。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *0.045* |
 | Quantity | ライセンスの数。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *1* |
 | 小計 | 合計額 (税抜)。 小計は、課金対象の数量と有効な単価を乗算した値と同じである必要があります。 | *0* |
 | TaxTotal | 納税額。 市場の税金ルールと特定の状況に基づいています。 | *0* |
 | 合計 | 合計金額は、小計に税額を加えた値になります。 | *0* |
-| 通貨 | 請求書は顧客の通貨のコンテキストで生成されます。 したあって、請求対象の通貨が異なる顧客と取引を行うパートナーの場合、顧客の通貨の種類ごとに請求書を受け取ることになります。  | *EUR* |
+| Currency | 請求書は顧客の通貨のコンテキストで生成されます。 したあって、請求対象の通貨が異なる顧客と取引を行うパートナーの場合、顧客の通貨の種類ごとに請求書を受け取ることになります。  | *EUR* |
 | PriceAdjustmentDescription | 単価の調整の理由。 これらは主な理由ですが、有効な単価の決定に限定されるわけではありません。 | *["15.0% のパートナー獲得クレジット (サービスの管理対象)"]* |
 | 発行元 | 製品の発行元。  | *Microsoft* |
 | PublisherId | パートナーセンターが発行元を識別するために使用する一意の識別子。 | *NA* |
@@ -64,6 +64,7 @@ ms.locfileid: "99098807"
 | PCToBCExchangeRateDate | 請求通貨の価格の通貨が決定される日付。 | *2020 年 9 月 30 日* |
 | MeterDescription | メーターの説明。  | *テーブル-LRS 格納データ (GB/月)* |
 | ReservationOrderId | 予約注文 Id。 | *E21A6344E398FFC1C4D7...* |
+| CreditReasonCode | クレジットの説明。 | *Azure の消費クレジット* |
 
 >[!NOTE]
 >Azure の使用量は、一度だけ購入したファイルで調整できます。 これを行うには、毎日評価される使用法偵察 file にアクセスし、SubscriptionID を検索します。 これにより、Azure プラン ID に関連付けられているすべてのコストが表示されます。 Azure SubscriptionID は EntitlementID として表示されます。
