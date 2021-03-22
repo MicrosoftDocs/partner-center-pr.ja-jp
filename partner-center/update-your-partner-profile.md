@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770245"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712598"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>会社のプロファイルの情報を確認または更新する 
 
@@ -55,7 +55,7 @@ ms.locfileid: "102770245"
 
 1. 会社の名前または住所の横にある **[更新]** をクリックして、詳細を変更します。
  
-1. **[送信]** を選択すると、法的 ID が再評価されます。
+1. **[送信]** を選択すると、法的 ID が再評価されます。 変更されたもののみが再評価されます。
 
 1. 検証が失敗する場合は、[問題を解決する](verification-responses.md)方法を参照してください。
 
