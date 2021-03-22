@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000636"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768688"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>他のチャネル & パートナーから Cloud Solution Provider プログラムにライセンスベースのお客様を移動する
-
-**適用対象**
-
-- パートナー センター
 
 顧客が複数のパートナーと携わったり、サブスクリプションを別のパートナーに移管したり、別途購入したサブスクリプションを管理したりする場合には、手動で移行することができます。 別のチャネルからパートナー センターに顧客を移動することもできます。
 
@@ -34,7 +30,7 @@ ms.locfileid: "91000636"
 
 
    >[!NOTE]
-   >顧客は、Microsoft 365 (M365) 管理ポータル (たとえば、Microsoft からの月単位または年単位の課金) で購入した場合、クレジットの対象となる可能性があります。 Microsoft から直接購入したサブスクリプションのクレジットは、 **M365 課金サポート**によって処理されます。 [M365 サブスクリプションをキャンセル](/microsoft-365/commerce/subscriptions/cancel-your-subscription)する方法については、M365 のガイダンスを参照してください。 顧客の管理者特権を委任されている場合は、顧客の代理として M65 のサポートに問い合わせることができます。 それ以外の場合は、お客様に M365 サポートに直接連絡して、資格のあるクレジットとそのクレジットを与える方法を確認してください。 委任された [管理者特権](customers-revoke-admin-privileges.md)に関する情報を確認します。
+   >顧客は、Microsoft 365 (M365) 管理ポータル (たとえば、Microsoft からの月単位または年単位の課金) で購入した場合、クレジットの対象となる可能性があります。 Microsoft から直接購入したサブスクリプションのクレジットは、 **M365 課金サポート** によって処理されます。 [M365 サブスクリプションをキャンセル](/microsoft-365/commerce/subscriptions/cancel-your-subscription)する方法については、M365 のガイダンスを参照してください。 顧客の管理者特権を委任されている場合は、顧客の代理として M65 のサポートに問い合わせることができます。 それ以外の場合は、お客様に M365 サポートに直接連絡して、資格のあるクレジットとそのクレジットを与える方法を確認してください。 委任された [管理者特権](customers-revoke-admin-privileges.md)に関する情報を確認します。
 
 
 4. これによりお客様は、使用を中断することなく、パートナー様がプロビジョニングしたサブスクリプションに移行して引き続き使用できます。
@@ -46,7 +42,7 @@ ms.locfileid: "91000636"
 >[!NOTE]
 > CSP パートナーであるお客様の所在地は、その顧客をお客様に向けて移行する顧客テナントと同じ地域である必要があります。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [Azure プランで従量課金制料金の使用を開始する](azure-plan-get-started.md)
  

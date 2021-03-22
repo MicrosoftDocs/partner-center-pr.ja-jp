@@ -9,18 +9,15 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3872f3398516b6a437d570c6949bef8541cdedd4
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114851"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768807"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>新しいパートナーセンターの機能を体験し、パートナーセンターの未来の形を整える
 
-**適用対象**
-
-- パートナー センター
 
 ## <a name="help-shape-the-future-of-partner-center"></a>パートナー センターの将来像を形作るためにご協力ください。
 
@@ -45,7 +42,7 @@ ms.locfileid: "87114851"
 - 機能をプレビューで利用できるようにするための目標の日付と、この機能を世界中のパートナーセンターコミュニティにリリースする予定のライブ日をご覧ください。
 
 > [!NOTE]  
-> ターゲットの公開*日*とは、すべての世界中のパートナーセンターのユーザーがこの機能を利用できるようにする予定日を意味します。 ただし、機能を向上させるためのフィードバックの反映など、複数の項目が予定公開日に影響を及ぼす可能性があります。また、予定公開日の変更や、機能の商用バージョンをリリースしないことを決定する場合もあります。  
+> ターゲットの公開 *日* とは、すべての世界中のパートナーセンターのユーザーがこの機能を利用できるようにする予定日を意味します。 ただし、機能を向上させるためのフィードバックの反映など、複数の項目が予定公開日に影響を及ぼす可能性があります。また、予定公開日の変更や、機能の商用バージョンをリリースしないことを決定する場合もあります。  
  
 ## <a name="tell-us-what-you-think"></a>ご意見をお寄せください
 

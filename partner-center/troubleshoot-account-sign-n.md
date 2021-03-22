@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756746"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768705"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>アカウントのセットアップまたは MPN 更新に関する問題のトラブルシューティング
 
@@ -35,13 +35,13 @@ ms.locfileid: "101756746"
 [ **同意** して **続行** ] を選択して続行します。
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT 部門が **パートナーセンターへのサインアップ** を無効にしている場合。
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT 部門が **パートナーセンターへのサインアップ** を無効にしている場合
 
 このメッセージは、ウイルスに感染したユーザーが無効になっているか、Azure AD テナントでウイルスによるサインアップが無効になっていることが原因で表示されます。 Azure AD アカウントの全体管理者は、次の PowerShell コマンドを実行して、必要な機能を有効にすることができます。
 
 **Set-msolcompanysettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-詳細については、「[セルフサービスサインアップ](/azure/active-directory/users-groups-roles/directory-self-service-signup)」を参照してください。
+詳細については、「 [セルフサービスサインアップ](/azure/active-directory/users-groups-roles/directory-self-service-signup)」を参照してください。
 
 ## <a name="you-forgot-your-password"></a>パスワードを忘れた場合
 

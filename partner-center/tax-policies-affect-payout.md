@@ -3,21 +3,22 @@ title: Azure Marketplace の支払いポリシーが支払いに与える影響
 description: 税金ポリシーが Azure Marketplace の支払いにどのように影響するかを説明します。
 ms.topic: conceptual
 ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712955"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768824"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Azure Marketplace の支払いポリシーが支払いに与える影響
 
 **適切なロール**
 -    グローバル管理者
--    ユーザー管理者
+-    ユーザー管理の管理者
 -    管理エージェント
 
 ## <a name="introduction"></a>はじめに
@@ -75,7 +76,7 @@ Microsoft の商用マーケットプレースにはグローバルなリーチ�
 
 :::image type="content" source="images/tax-policies/payout-scenario-g.png" alt-text="支払いプロセスシナリオ G のワークフローを示します。":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [発行元の FAQ](/azure/marketplace/marketplace-faq-publisher-guide)
 - [支払いと税金のプロファイルを作成する手順](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

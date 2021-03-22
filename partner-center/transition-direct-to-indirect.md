@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624308"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768756"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>クラウド ソリューション プロバイダー (CSP) 直接請求パートナーから CSP 間接リセラーへの移行
 
@@ -127,9 +127,9 @@ ms.locfileid: "99624308"
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>直接請求パートナーとして獲得した顧客を識別するには
 
-1. **顧客** の選択
+1. **[顧客]** を選択します。
 
-2. その詳細を表示する顧客を選択します
+2. 顧客を選択すると、その詳細が表示されます。
 
 3. この顧客が直接請求パートナーとして獲得した顧客である場合は、**製品を追加** または **表示** するためのオプションが表示され、そのサブスクリプションが表示されます。
 
@@ -162,7 +162,7 @@ ms.locfileid: "99624308"
 
 - 間接プロバイダーは、お客様のテナントに [代理管理特権](customers-revoke-admin-privileges.md) を付与されることはありません。 間接プロバイダーが代理管理特権を必要とする場合は、代わりに間接リセラーの招待を顧客に送信する必要があります。
 
-- リセラーとの関係が確立されると、 [M365 管理センター](https://admin.microsoft.com/AdminPortal/Home#/partners) の [パートナー関係] ページで、間接プロバイダーが顧客に対して CSP パートナーとして表示され、 [ビジネス Microsoft Store](/microsoft-store/work-with-partner-microsoft-store-business)ます。
+- 再販業者の関係が確立されると、間接プロバイダーは、 [Microsoft 365 管理センター](https://admin.microsoft.com/AdminPortal/Home#/partners) の [パートナー関係] ページおよび [ [Microsoft Store for Business](/microsoft-store/work-with-partner-microsoft-store-business)] の下にある顧客に対して、CSP パートナーとして表示されます。
 
     > [!IMPORTANT]
     > 混乱や誤解を避けるために、パートナー契約によって契約必要は、取引先との関係拡張機能を使用して、既存の直接請求顧客と間接プロバイダーの間に再販業者の関係を確立する前に、お客様に直接請求を通知し、同意を得ることができます。
@@ -223,7 +223,7 @@ Microsoft Cloud Agreement は、2020年1月31日まで有効です。 その後�
 
 CSP 間接モデルでは、間接リセラーには Microsoft との請求関係がありません。 間接リセラーは、間接プロバイダーを通じて顧客のサブスクリプションを取得します。 ダイレクト請求パートナーから間接リセラーに移行している間は、直接請求パートナーとして所有している既存のサブスクリプションを間接プロバイダーに譲渡する必要があります。 パートナーセンターダッシュボードのセルフサービスサブスクリプション転送機能を使用して、これを行うことができます。
 
-### <a name="pre-requisites"></a>前提条件
+### <a name="prerequisites"></a>前提条件
 
 - この機能は、既存の直接請求パートナーテナントを使用して間接リセラーの登録を完了したパートナーを移行する場合にのみ使用できます。
 

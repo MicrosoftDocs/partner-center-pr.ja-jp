@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/24/2021
-ms.openlocfilehash: b3f62bb6d6d48e9dbcdcb906041a1653de436606
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022793"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768722"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>技術のプリセールスおよび展開サービス (TPD) を確認する 
 
@@ -30,7 +30,7 @@ ms.locfileid: "103022793"
 
 - ゴールドおよびシルバーパートナーは、無制限のプリセールスサポートを受けています。 
 
-- ネットワークメンバーは [Action Pack](https://partner.microsoft.com/membership/action-pack) を購入して、5つのアドバイザリ時間を受け取ることができます  
+- ネットワークメンバーは [Action Pack](https://partner.microsoft.com/membership/action-pack) を購入して、5つのアドバイザリ時間を受け取ることができます。  
 
 |     プランの種類    | アドバイザリ時間数 |   テクニカルプリセールス   |
 |:-----------------:|:------------------------:|:----------------------:|
@@ -46,7 +46,7 @@ MPN に関連付けられている任意のユーザーアカウントでサイ�
 
 テクニカルプリセールスおよび展開サービス (TPD) の特典は、自動的にアクティブ化され、MPN に関連付けられているすべてのユーザーが利用できます。 
 
-パートナーセンターで技術的なメリットを確認するには
+パートナーセンターで技術的なメリットを確認するには、次のようにします。
 
 1. MPN に関連付けられているアカウントを使用して、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。 
 
@@ -72,6 +72,6 @@ MPN に関連付けられている任意のユーザーアカウントでサイ�
 
 6. [確認] ページに、サポート要求の番号と説明が表示されます。 また、パートナーセンターから、ケース番号を含む確認メールも送信されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 [Microsoft Partner Network の特典とプランを管理する](manage-your-partner-network-benefits.md)

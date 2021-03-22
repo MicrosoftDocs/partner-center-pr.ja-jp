@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474276"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768671"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>パートナーセンターには、MPN パートナー向けの2つのレベルのアカウントがあります。
 
@@ -40,12 +40,12 @@ ms.locfileid: "96474276"
 PGA には、その下に追加の事業所がある場合があります。 各場所には、独自の MPN ID またはパートナーの場所アカウント (PLA) があります。 MPN ID を使用して、取引先とインセンティブプログラムに登録します。
 
 - 各パートナーの場所アカウントには、独自の法的住所と主要連絡先を含めることができます。 また、場所は、有効なアドレスをグローバルアカウントまたは他の場所と共有することもできます。
-- **設定** の場所からパートナーの場所アカウントの一覧を表示し  ->  **Locations** ます。
+- **設定** の場所からパートナーの場所アカウントの一覧を表示し  ->  ます。
 - すべての場所アカウントは、パートナーグローバルアカウントと同じレベルにあります。
 - アカウント管理者は、場所を追加できます。
 
 :::image type="content" source="images/accountstructure.png" alt-text="アカウントの構造" border="false":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - 場所の管理の詳細については、「 [パートナーアカウントの管理: 場所](manage-locations.md)」を参照してください。
