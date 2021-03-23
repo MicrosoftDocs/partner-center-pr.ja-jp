@@ -1,7 +1,7 @@
 ---
 title: パートナー センターで MPN アカウントを作成する
 ms.topic: article
-ms.date: 02/08/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Partner Network メンバーがネットワークの特典とコンピテンシーを管理するためにパートナー センター アカウントを作成する方法について説明します。
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100013692"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570211"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>ネットワークの特典とコンピテンシーを管理するためにパートナー センターで MPN アカウントを作成する
 
@@ -23,7 +23,7 @@ Microsoft Partner Network (MPN) を初めて利用する、MPN ID をお持ち�
 
 ## <a name="prerequisites"></a>前提条件 
 
-パートナー センターでアカウントを作成する準備ができて始めるときは、次の情報をお手元にご用意ください。  作業を開始する前に、これらの情報を手元に準備してください。
+パートナー センターでアカウントを作成する準備ができたら、次のものを用意してください。  作業を開始する前に、これらの情報を手元に準備してください。
 
 - 会社の仕事用メール アドレス、または Office 365 の職場アカウント。 詳しくは、[会社の職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)に関するページをご覧ください 
  
@@ -40,7 +40,8 @@ Microsoft Partner Network (MPN) を初めて利用する、MPN ID をお持ち�
 
 ## <a name="get-started"></a>作業開始
 
-1. 会社から提供されている you@yourcompanyname.com のような職場のメール アドレスを使用して始めます。
+1. [**作業開始**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)ページで、会社から支給されたyou@yourcompanyname.comのような業務用メールを使用して作業を始めてください。
+
  
     a.  作業を続けるための確認コードをお送りするため、有効で、担当者様がアクセスできるメール アドレスを、使用する必要があります。
 
@@ -55,7 +56,7 @@ Microsoft Partner Network (MPN) を初めて利用する、MPN ID をお持ち�
 
 3. 貴社の法人に関する詳細を提供してください。
 
-会社のプロファイルを参照するか、会社の情報を手作業で入力することができます。 会社が [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) に登録されている場合は、DUNS ID を使用して会社の情報を検索します。 会社の詳細情報を自分で入力する場合は、 **[手動]** を選択します。
+会社のプロファイルを参照するか、会社の情報を手作業で入力することができます。 会社を [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) に登録している場合は、DUNS ID を使用して会社の情報を確認してください。 会社の詳細情報を自分で入力する場合は、 **[手動]** を選択します。
 
 会社の情報を指定したら、主要な連絡先情報を入力して、 **[今すぐ登録]** を選択します。
 第一連絡先担当者には、貴社の登録申請について連絡できる社内の担当者 (申請者本人または社内の他の担当者) を指定してください。

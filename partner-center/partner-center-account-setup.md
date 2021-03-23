@@ -1,7 +1,7 @@
 ---
 title: パートナー センター アカウントの管理
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: パートナー センターを使用して、会社のプロファイル、銀行と税金に関する情報、ロール、アクセス許可などを管理する方法について説明します。
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235972"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103487010"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>パートナー センター アカウントの管理 - 会社のプロファイル、銀行に関する情報、ロール、アクセス許可など
 
@@ -26,7 +26,7 @@ ms.locfileid: "98235972"
 [パートナー センター参加への従業員の招待](guide-to-migration.md)および[新しいユーザーの追加](create-user-accounts-and-set-permissions.md)に関するページも参照してください。
 
 >[!NOTE]
->アカウント設定メニューは、登録されているプログラムによって変わります。 たとえば、クラウド ソリューション プロバイダー (CSP) プログラムのパートナーである場合は、[アカウントの設定] から Azure 共有サービスを管理できます。
+>アカウント設定メニューは、登録されているプログラムによって変わります。 たとえば、クラウド ソリューション プロバイダー (CSP) プログラムに参加しているパートナーは、Azure 共有サービスを **[アカウント設定]** で管理できます。
 
 ## <a name="account-management"></a>アカウント管理
 
@@ -51,6 +51,20 @@ ms.locfileid: "98235972"
 [パートナー] タブには、会社の登録済みの正式名称や住所のほか、第一連絡先担当者、事業拠点など、すべての法的ビジネス情報が含まれます。 CSP ビジネスを行うパートナーの [リセラー] タブには、**カスタマー サポートのプロファイル** が含まれます。
 
 会社が CSP に参加していない場合、既定のビューには、**カスタマー サポートのプロファイル** を含む **[パートナー]** タブのみが表示されます。
+
+### <a name="when-you-are-in-more-than-one-account"></a>複数のアカウントに属している場合
+
+複数のアカウントに所属することができます。 複数のアカウントに属しているかどうかは、左のナビゲーション メニューに "アカウント ピッカー" が表示されているかどうかで確認できます。
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="アカウント ピッカーを確認する":::
+
+アカウント ピッカーが表示されない場合、属しているアカウントは 1 つだけです。 
+
+アカウント ピッカーをクリックすると、属しているすべてのアカウントがリスト形式で表示されます。 そこで、いずれかのアカウントをクリックすると、そのアカウントに切り替えることができます。 それ以降は、あらゆるものがそのアカウントのコンテキストで表示されます。  
+
+次の例では、サインインしているユーザーは強調表示されている 3 つのアカウントに属しています。 このユーザーは、アカウントをクリックすることで切り替えることができます。
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="属しているアカウント":::
 
 ## <a name="organization-profile"></a>組織プロファイル
 
@@ -90,7 +104,7 @@ ms.locfileid: "98235972"
 
 ## <a name="user-management"></a>ユーザー管理
 
-パートナー センターで行うことと、更新または表示できる領域は、ユーザーのロールおよびそのロールに割り当てられているアクセス許可によって異なります。 たとえば、インセンティブ管理者でない場合、インセンティブ ページのデータは、見ることはできても変更することはできません。
+パートナー センターで行うことと、更新または表示できる領域は、ユーザーのロールおよびそのロールに割り当てられているアクセス許可によって異なります。 たとえば、インセンティブ管理者でない場合、インセンティブ ページのデータは、見ることはできても変更することはできません。 [ロールとアクセス許可](permissions-overview.md)の詳細
 
 ### <a name="update-preferred-email"></a>優先電子メールを更新する
 

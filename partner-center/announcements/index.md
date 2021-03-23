@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/15/2021
-ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.date: 03/18/2021
+ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570177"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712292"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,9 @@ ms.locfileid: "103570177"
 
 |**カテゴリ**|**2021 年 3 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[CSP コマーシャル マーケットプレース プランと、対象となるプランの FY21 CSP インセンティブ](2021-march.md#12)|3 月 18 日|
+|機能|[Power BI Premium プランのネーミングと前提条件の更新](2021-march.md#11)|3 月 18 日|
+|製品サービス/市場|[Microsoft 365 F3 の 3 月の価格更新](2021-march.md#10)|3 月 16 日|
 |効率とスケールの向上|[パートナー センターを使用した会社の正式名称の更新](2021-march.md#9)|3 月 16 日|
 |機能|[クラウド ソリューション プロバイダー (CSP) プログラムの進化とオープン ライセンス プログラムの変更に対する更新](2021-march.md#8)|3 月 15 日|
 |ビジネスの拡大|[以前の発表: Compliance Manager へのアドオンであるプレミアム評価に対する更新](2021-march.md#7)|3 月 15 日|
