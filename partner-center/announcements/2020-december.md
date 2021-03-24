@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 12c9ad9975be4be725d7b8c2fda77b0fdaa66887
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514104"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712547"
 ---
 # <a name="december-2020-announcements"></a>2020 年 12 月のお知らせ
 
@@ -275,7 +275,7 @@ ______________
 ### <a name="details"></a>詳細
 
 >[!NOTE]
->パートナーからのフィードバックにより、永続的およびサーバーのサブスクリプション ソフトウェアの注文に対してソフトウェアとライセンス キーを取得するパートナー センターのフルフィルメント機能を復元しています。 2021 年 1 月 19 日に削除される前の状態に復元されます。 詳細については、[2021 年 3 月の発表](https://docs.microsoft.com/partner-center/announcements/2021-march#4)を参照してください。
+>パートナーからのフィードバックにより、永続的およびサーバーのサブスクリプション ソフトウェアの注文に対してソフトウェアとライセンス キーを取得するパートナー センターのフルフィルメント機能を復元しています。 2021 年 1 月 19 日に削除される前の状態に復元されます。 詳細については、[2021 年 3 月の発表](./2021-march.md#4)を参照してください。
 
 **2021 年 1 月 19 日** から、CSP プログラムに登録されているすべてのパートナーは、CSP を介してオンプレミス展開向けの商用の永続的ソフトウェア ライセンスを販売できるようになります。 これにより、顧客は、デジタル変革の一環として必要とされるライセンスの柔軟性を得ることができます。
 

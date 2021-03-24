@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322085"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712275"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
@@ -68,7 +68,7 @@ CSP の申請を作成するときは、MPN ID、会社の正確な住所、銀�
 
 ### <a name="minimum-requirements"></a>最小要件
 
-|**要件**|                             |
+|**要件**|  **説明**  |
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |販売活動を行う場所で有効な Microsoft Partner Network メンバーシップと MPN ID。    |
 |**保証**   |組織を代表して契約書に同意して署名するための権限。|

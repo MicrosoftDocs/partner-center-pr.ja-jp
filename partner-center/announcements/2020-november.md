@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756406"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712530"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月のお知らせ
 
@@ -305,11 +305,11 @@ Microsoft は、パートナー センター API を呼び出しているパー�
 
 ### <a name="apis-to-be-throttled"></a>調整対象の API
 
-|**操作**|**パートナー センターのドキュメント**|
+| **操作** | **パートナー センターのドキュメント** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[顧客のすべてのサブスクリプションを取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID でサブスクリプションを取得する](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[顧客の注文をすべて取得する](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders|[顧客の注文をすべて取得する](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID ごとに注文を取得する](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[サブスクリプションのプロビジョニング状態を取得する](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[注文とサブスクリプションを管理する](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ Microsoft は、パートナー センター API を呼び出しているパー�
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[サブスクリプションの登録状態を取得する](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/customers/{customer-tenant-id}/transfers|[顧客の譲渡をすべて取得する](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[製品のアップグレード状態を取得する](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[試用版の変換プランの一覧を取得する](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[試用版の変換プランの一覧を取得する](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 この発表は、今後の変更をパートナーが早期に認識し、準備できるようにするためのものです。 パートナーには、これらの API について理解を深め、調整されることがないように、アクティビティ ログ API を使用して効率化を検討することを、強くお勧めします。 この機能の詳細については、[API 調整ガイダンス](/partner-center/develop/api-throttling-guidance)に関するページを参照してください。 

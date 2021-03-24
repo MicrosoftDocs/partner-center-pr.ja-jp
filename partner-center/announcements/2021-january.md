@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514121"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712462"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月のお知らせ
 
@@ -315,7 +315,7 @@ ________________
 ### <a name="details"></a>詳細
 
 >[!NOTE]
->パートナーからのフィードバックを受けて、永続的およびサーバーのサブスクリプション ソフトウェアの注文に対してソフトウェアとライセンス キーを取得するパートナー センターのフルフィルメント機能を復元しています。 2021 年 1 月 19 日に削除される前の状態に復元されます。 詳細については、[2021 年 3 月の発表](https://docs.microsoft.com/partner-center/announcements/2021-march#4)を参照してください。
+>パートナーからのフィードバックにより、永続的およびサーバーのサブスクリプション ソフトウェアの注文に対してソフトウェアとライセンス キーを取得するパートナー センターのフルフィルメント機能を復元しています。 2021 年 1 月 19 日に削除される前の状態に復元されます。 詳細については、[2021 年 3 月の発表](./2021-march.md#4)を参照してください。
 
 本日[お知らせ](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)したように、CSP パートナーが販売する商用永続的ソフトウェア ライセンスが一般提供されるようになりました。 パートナー センターで CSP 永続的ソフトウェアの価格表が再公開され、追加の製品と地域が含まれるようになりました。
 

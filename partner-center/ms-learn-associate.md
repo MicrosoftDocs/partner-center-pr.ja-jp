@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022725"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712802"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Microsoft 認定プロファイル ID (MCID) と Microsoft Partner Network (MPN) アカウントのリンクを確立または解除する
 
@@ -48,7 +48,7 @@ Microsoft Learning アカウントを関連付けるには、次の手順のよ�
 >Microsoft Learning アカウントの資格情報が Partner University アカウントの資格情報と同じ場合は、 **[Use email@address to associate my Microsoft Learning account]\(email@address を使用して Microsoft Learning アカウントを関連付ける\)** を選択します。
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>スキル レポート (Microsoft 認定リスト) のダウンロード
-詳細情報が必要な方は、パートナー センターからグローバル管理者または MPN パートナー管理者によってスキル レポートにアクセスすること、あるいはこれをダウンロードすることができます。 [詳しくはこちら](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data)。
+詳細情報が必要な方は、パートナー センターからグローバル管理者または MPN パートナー管理者によってスキル レポートにアクセスすること、あるいはこれをダウンロードすることができます。 [詳しくはこちら](./mpn-skills-report.md#view-skills-report-data)。
 
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>アカウントのリンクに関してよく寄せられる質問

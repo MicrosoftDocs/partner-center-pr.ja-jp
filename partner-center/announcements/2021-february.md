@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124790"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712479"
 ---
 # <a name="february-2021-announcements"></a>2021 年 2 月のお知らせ
 
@@ -77,7 +77,7 @@ ________________
 
 ### <a name="next-steps"></a>次のステップ
 
-一括操作機能について詳しくは、[コンマ区切り値 (CSV) ファイルを使用した共同販売機会の一括操作](https://docs.microsoft.com/partner-center/bulk-operations)に関するページを参照してください。
+一括操作機能について詳しくは、[コンマ区切り値 (CSV) ファイルを使用した共同販売機会の一括操作](../bulk-operations.md)に関するページを参照してください。
 
 ### <a name="questions"></a>わからないことがある場合は、
 
@@ -107,7 +107,7 @@ PSC で取引を行っているパートナーは、より速やかに移行し�
 
 ### <a name="next-steps"></a>次のステップ
 
-取引移行機能について詳しくは、[Partner Sales Connect (psc) から移行するパートナー向けのパートナー センター (PC) での共同販売に関するガイド](https://docs.microsoft.com/partner-center/psc-to-pc)の **PSC 取引の移行** に関するセクションを参照してください。
+取引移行機能について詳しくは、[Partner Sales Connect (psc) から移行するパートナー向けのパートナー センター (PC) での共同販売に関するガイド](../psc-to-pc.md)の **PSC 取引の移行** に関するセクションを参照してください。
 
 ### <a name="questions"></a>わからないことがある場合は、
 
@@ -139,7 +139,7 @@ ________________
 
 ### <a name="next-steps"></a>次のステップ
 
-詳しくは、[パートナー センターで共同販売の機会を管理する](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities)ためのガイドを参照してください。
+詳しくは、[パートナー センターで共同販売の機会を管理する](../manage-co-sell-opportunities.md)ためのガイドを参照してください。
 
 ### <a name="questions"></a>わからないことがある場合は、
 
