@@ -9,18 +9,14 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367626"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028419"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行
-
-**適用対象**
-
-- パートナー センター
 
 Skype for Business Online プラン1は、2018年8月1日をもって廃止される予定です。 この日付以降、新たに Skype for Business プラン 1 のサブスクリプションを購入することはできません。既存のサブスクリプションは、有効期限になると自動更新されず、更新のオプションは提供されません。 サブスクリプションの詳細ページでは、Skype for Business Online プラン 1 のサブスクリプションの状態が、"自動更新: [日付]" から "有効期限: [date]" に変更されています。  
 
@@ -56,7 +52,7 @@ API (CREST またはパートナー センターのいずれか) を使用して
 
 ### <a name="migrate-your-customers-to-new-plans"></a>新しいプランにお客様を移行する
 
-1. 新しいサブスクリプションを購入するには、**パートナー センター メニュー**で **[顧客]** を選び、移行する顧客を選んでから、**[サブスクリプションの追加]** を選択します。
+1. 新しいサブスクリプションを購入するには、**パートナー センター メニュー** で **[顧客]** を選び、移行する顧客を選んでから、**[サブスクリプションの追加]** を選択します。
 
 2. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、**[送信]** を選びます。 
 
