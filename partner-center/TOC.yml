@@ -111,6 +111,8 @@
         - name: 技術上のメリット
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
+        - name: ロゴ ビルダーを使用してロゴを作成する
+          href: mpn-logo-builder.md
     - name: Marketplace 報酬
       href: marketplace-rewards.md
     - name: ソフトウェア アシュアランス
