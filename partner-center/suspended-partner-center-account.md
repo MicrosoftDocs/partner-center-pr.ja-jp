@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365738"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028249"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>中断されたパートナー センター アカウントを復元する - 発生する理由とその対処方法についての説明
 
@@ -22,8 +22,7 @@ ms.locfileid: "87365738"
 
 **適用対象**
 
--  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
+- Microsoft Government cloud のパートナーセンター
 
 **適切なロール**
 
@@ -37,23 +36,23 @@ ms.locfileid: "87365738"
 
 Microsoft では、次のいずれかの理由により、パートナー センターのアカウントを中断します。
 
-- 現在の請求金額の期限を 60 日間よりも長く超過した場合 
+- 現在の請求金額の期限を 60 日間よりも長く超過した場合
 - 重要なアカウントの不正使用が検出された場合
 - 懸案事項が間接プロバイダーの操作に影響を与え、アカウントに悪影響を及ぼす (間接リセラーのみ)
 - アカウントプロファイルの状態が "失敗" または "拒否" の場合
 
 ## <a name="what-to-do-if-your-account-is-suspended"></a>アカウントが中断された場合の対処方法
 
-アカウントが最新であることがわかっている場合は、[パートナープロファイル](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)の設定を確認して、アクティブな情報が完全であることを確認します。 
+アカウントが最新であることがわかっている場合は、 [パートナープロファイル](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) の設定を確認して、アクティブな情報が完全であることを確認します。 
 
-アカウントが最新であるかどうかわからない場合は、**パートナーセンター**メニューから [**課金**] を選択して、請求書を確認してください。 この請求ページには、請求の履歴と傾向、当月の支払い残高、請求書や調整ファイルへのリンク、前回のお支払いが表示されます。
+アカウントが最新であるかどうかわからない場合は、**パートナーセンター** メニューから [**課金**] を選択して、請求書を確認してください。 この請求ページには、請求の履歴と傾向、当月の支払い残高、請求書や調整ファイルへのリンク、前回のお支払いが表示されます。
 
-アカウントが期限切れの場合は、請求書の指示に従って支払い手続きを行い、アカウントを復元するようにサポート要求を提出します。 
+アカウントの期限が過ぎている場合は、請求書に記載されている手順に従って支払いを調整し、サポートリクエストを送信してアカウントを再作成してください。 
 
-アカウントの再アクティブ化の詳細については、[サポート](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)にお問い合わせください。
+アカウントの再アクティブ化の詳細については、 [サポート](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)にお問い合わせください。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [パートナー プロファイルを確認する](update-your-partner-profile.md)
 
-- [新しいパートナーセンタープログラムに登録するときにアカウント情報を確認する](verification-responses.md)
+- [新しいパートナー センター プログラムに登録する際のアカウント情報の確認](verification-responses.md)

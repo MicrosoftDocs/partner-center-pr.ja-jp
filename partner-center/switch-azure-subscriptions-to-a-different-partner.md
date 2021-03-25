@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645658"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028300"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について学習する
 
 **適用対象**
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+- Microsoft Government cloud のパートナーセンター
 - Microsoft グローバルクラウドのパートナーセンター
-- クラウド ソリューション プロバイダー (CSP) プログラムのパートナー
 
 この記事では、顧客が Microsoft Azure services を1つのクラウドソリューションプロバイダー (CSP) から別のクラウドソリューションプロバイダー (CSP) に切り替える方法について説明します。
 
@@ -43,7 +42,7 @@ ms.locfileid: "100645658"
 
    パートナー センターから Azure サービス チケットを作成して、サブスクリプションの切り替えを要求します。
 
-   1. パートナー センターのメニューで **[顧客]** を選び、一覧から顧客を選んで、**[サービス管理]** を選びます。 
+   1. パートナー センターのメニューで **[顧客]** を選び、一覧から顧客を選んで、**[サービス管理]** を選びます。
 
    2. **[サポート チケット]** セクションで **[新しいチケット]** ドロップダウン リストを選び、**[Microsoft Azure]** を選びます。
    
@@ -100,12 +99,12 @@ ms.locfileid: "100645658"
      Get-AzRoleAssignment
      ```
 
-7. 古くなったアクセス許可を削除する
+7. 期限切れのアクセス許可を削除する:
 
    - パートナー センター メニューで、**[顧客]** を選びます。
-   - 一覧で顧客を見つけます。 会社名を選択します (ダブルクリック)。 [顧客の **サブスクリプション** ] ページが開きます。
+   - 一覧で顧客を見つけます。 会社名を選択します (ダブルクリック)。 この操作により、[顧客の **サブスクリプション** ] ページが開きます。
    - [Customer detail] メニューで、[ **Service management**] を選択します。
-   - **[Microsoft Azure]** で、リンクをクリックして **[Microsoft Azure の管理ポータル]** に移動します。
+   - [ **Microsoft Azure** で、リンクを選択して **Microsoft Azure の管理ポータル** にアクセスします。
 
 ## <a name="next-steps"></a>次の手順
 

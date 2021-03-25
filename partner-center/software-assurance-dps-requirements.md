@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286497"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028266"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>サービス契約を計画するための資格の要件を表示する
 
 **適切なロール**
 
-- 全体管理者
+- グローバル管理者
 - MPN パートナー管理者
 
-このトピックでは、会社が Microsoft のソフトウェアアシュアランス計画サービスの契約を登録または提供する前に満たす必要がある資格の要件について説明します。
+この記事では、会社が Microsoft のソフトウェアアシュアランス計画サービスの契約を登録または提供する前に満たす必要がある資格の要件について説明します。
 
 >[!NOTE]
 > 計画サービスオファリングの資格要件を満たすことに加えて、ソフトウェアアシュアランス計画サービスの契約を提供する前に、他のいくつかの手順に従う必要があります。 必要なすべての手順の概要については、「 [パートナーセンターのソフトウェアアシュアランス計画サービス](software-assurance-dps.md)」を参照してください。

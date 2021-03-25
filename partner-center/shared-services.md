@@ -9,16 +9,15 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247702"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028283"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>パートナーが自分で使用するために Azure サブスクリプションを購入できるように Azure パートナー共有サービスを追加する
 
- 
 **適切なロール**
 
 - グローバル管理者
@@ -59,7 +58,7 @@ Azure の利用状況は、CSP 請求書と調整ファイルに記載されま�
 
 ## <a name="azure-partner-shared-services-pricing"></a>Azure Partner Shared Services の価格
 
-Azure パートナーの共有サービスの新しい価格ファイルを確認するには、  >  **価格とプラン** の販売に関するページにアクセスし、当月の価格表を選択してください。 今後数週間のうちには、特定の価格カードの API もリリースされる予定です。
+Azure Partner Shared Services の新しい価格ファイルを確認するには、**販売**  >  **価格とプラン** に関するページにアクセスし、当月の価格表を選択してください。 今後数週間のうちには、特定の価格カードの API もリリースされる予定です。
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>マーケットプレースのプランと Azure Partner Shared Services
 
@@ -76,6 +75,6 @@ APSS を使用してデプロイされた BYOL または無料のサービスを
 
 2019年3月1日より後に APSS サブスクリプションの使用を予定しており、新しいサードパーティの [Byol サービス](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) または無料サービスをデプロイすることを計画しているパートナーは、isv の指示に従ってこれらを APSS サブスクリプションにデプロイできます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [CSP によるソフトウェア サブスクリプションの販売](csp-software-subscriptions.md)
