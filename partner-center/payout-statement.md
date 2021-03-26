@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185351"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549245"
 ---
 # <a name="payout-statements"></a>支払い明細
 
@@ -98,7 +98,7 @@ ms.locfileid: "102185351"
 
 次の表は、支払い月の推定例を示しています。
 
-| Month | Amount |
+| 月 | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  $7273.99   |
 |  10月-2020 | $8692.30  |
@@ -169,7 +169,7 @@ ms.locfileid: "102185351"
 | participantName | 収益パートナーの名前 | All |
 | partnerCountryCode | 収益パートナーの場所/国/地域 | All |
 | partNumber | 常に空白になります | いくつかのインセンティブプログラムとマーケットプレース |
-| paymentId | 支払いの一意識別子。 通常、この番号は銀行取引明細書に表示されます | SAP の支払いのみ |
+| paymentId | トランザクションレポートのすべてのトランザクションを、支払いレポートの特定の支払いと関連付けるための一意の識別子 | All |
 | paymentStatus | 支払いの状態 | All |
 | paymentStatusDescription | 支払い状態のわかりやすい説明 | All |
 | productId | 一意の製品識別子 | marketplaces |

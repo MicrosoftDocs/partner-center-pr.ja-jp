@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756432"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549058"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>顧客に代わってサービスの問題を報告します。その方法や方法などが含まれます。
 
 **適用対象**
 
-- パートナー センター
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+- Microsoft Government cloud のパートナーセンター
 
 **適切なロール**
 
@@ -104,7 +103,7 @@ ISV の連絡先情報を検索するには:
 
 ## <a name="faq"></a>よく寄せられる質問
 
-顧客に代わって送信される可能性があるサービス要求に関してよく寄せられる質問については、以下を参照してください。 
+顧客に代わって送信される可能性があるサービス要求に関しては、次のよく寄せられる質問を参照してください。 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>サポートの権利には何が含まれていますか?
 
@@ -120,7 +119,7 @@ ISV の連絡先情報を検索するには:
 
 **技術的な故障対策インシデント** の初回の応答時間:
 
-- 重大な影響 (重大度 A): 2 時間 (サービスの大幅な損失または低下。 実稼働サービスの停止。)
+- 重大な影響 (重大度 A): 2 時間 (大幅な損失またはサービスの低下)。 実稼働サービスの停止。)
 - 中程度の影響 (重大度 B): 4 時間 (中程度の損失またはサービスの低下)。 実稼働サービスは部分的に影響を受けています。)
 - 最小限の影響 (重大度 C): 8 時間 (最小限のサービスの損失または低下)。 サービスがまだ使用可能であるか、非運用サービスが影響を受けています。)
 

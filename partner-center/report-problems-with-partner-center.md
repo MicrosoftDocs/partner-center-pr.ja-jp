@@ -9,21 +9,22 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582038"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549177"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>パートナーセンターポータルの要求と診断ツール
 
 **適用対象**
 
-- パートナー センター
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+- Microsoft Government cloud のパートナーセンター
 
 **適切なロール**
+
+- パートナーセンターに関心のあるすべてのパートナー
 
 パートナーセンターのユーザーがログインすると、パートナーサポート要求を作成できます。 ユーザーは、パートナーセンターにログインした後に送信されたサポート要求のみを表示できます。
 問題が見つかった場合、またはパートナーセンターポータルのエラーに関するヘルプが必要な場合は、パートナーセンターのサポートにお問い合わせください。 診断を送信して、問題をより迅速に解決できるようにします。
@@ -77,7 +78,7 @@ ms.locfileid: "103582038"
 
 診断情報をプレビューできます。その後、サポート要求に添付できるファイルにその情報を保存します。 情報を送信するには、次の手順に従います。
 
-3. 削除する必要がある個人を特定できる情報が含まれている可能性があるため、送信前にファイル内の情報を確認します。
+3. ファイル内の情報を送信する前に、削除する個人データを含めることができることを確認します。
 
     >[!NOTE]
     >一部ブラウザーでは、**[プレビュー]** ページの下部にある **[ページ ビュー]** セクションに何も表示されない場合があります。 これは問題ありません。
@@ -88,6 +89,6 @@ ms.locfileid: "103582038"
 
 パートナー サポートでは、最新情報を取得できるように、このツールを複数回実行することを要求する場合があります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客に代わってサービスの問題を報告する](report-problems-on-behalf-of-a-customer.md)

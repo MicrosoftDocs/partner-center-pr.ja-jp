@@ -9,36 +9,32 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216858aff2ecbb5eb11c739db0a0a7ad6ee390f1
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: b95ce4a3070414807e31a1aa12a213a332c2a1cc
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564772"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548939"
 ---
 # <a name="reset-my-password"></a>パスワードをリセットする
-
-**適用対象**
-
-- パートナー センター
  
 **適切なロール**
 
 - グローバル管理者
-- パートナーセンターのユーザー
+- パートナーセンターに関心のあるすべてのパートナー
 
 
 パートナーセンターのパスワードを忘れた場合は、パスワードをリセットできます。
 
 ## <a name="to-reset-your-partner-center-password"></a>パートナーセンターのパスワードをリセットするには
 
-グローバル管理者は、自分でパスワードをリセットできるように設定しておく必要があります。 (グローバル管理者によってまだ設定されていない場合は、 [パスワードのリセット](reset-a-user-password.md)を依頼する必要があります)。
+この方法を使用するには、グローバル管理者が自分でパスワードをリセットする機能を既に設定している必要があります。 (グローバル管理者がこの機能を実行していない場合は、 [パスワードをリセット](reset-a-user-password.md)するように依頼してください。)
 
 1. [ **サインイン** ] 画面で、[ **アカウントにアクセスできない** ] を選択し、[ **次へ**] を選択します。
 
 2. [ **職場または学校アカウント**] を選択します。
 
-3. 次に、ユーザー ID と画像またはオーディオの文字を入力するように求められます。 **[次へ]** を選択します。
+3. ユーザー ID と画像またはオーディオの文字を入力します。 次に、**[次へ]** を選択します。
 
 4. 新しいパスワードを設定します。
 
