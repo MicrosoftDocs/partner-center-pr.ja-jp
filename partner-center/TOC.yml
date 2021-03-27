@@ -167,13 +167,9 @@
     - name: CSP の地域承認によるテナント統合の手順
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Microsoft 顧客契約への同意の確認方法を更新する
-      href: confirm-consent.md
-    - name: Microsoft 顧客契約への同意を確認する
+    - name: Microsoft 顧客契約に対する顧客の同意を確認する方法
       href: confirm-customer-agreement.md
-      displayName: csp
-    - name: 顧客に代わって顧客契約の同意を証明する場合
-      href: attest-acceptance-customer-agreement.md
+      displayName: 'csp, agreement'
     - name: ナショナル クラウドでの販売の申請
       href: csp-national-clouds-overview.md
       items:
