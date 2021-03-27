@@ -10,25 +10,27 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215851"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633694"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Power BI 用パートナー センター分析アプリをインストールしてプレビューする
 
 
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   販売代理店
--   管理エージェント
+
+- グローバル管理者
+- ユーザー管理の管理者
+- 販売代理店
+- 管理エージェント
 
 ## <a name="before-you-begin"></a>開始する前に
 
 使用可能な Power BI アプリの次の一覧から、自分のビジネスに最も関係のあるアプリケーションを選択します。
+
 - [直接プロバイダー](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [間接プロバイダー](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
@@ -49,25 +51,25 @@ ms.locfileid: "98215851"
 
 ## <a name="to-install-the-app"></a>アプリをインストールするには
 
-1. 上記のセクションで、指定されたアプリソースリンク (Direct Provider/間接プロバイダ/間接リセラー) をクリックします。
+1. 上記のセクションで、指定されたアプリソースリンク (Direct Provider/間接プロバイダ/間接リセラー) を選択します。
 
-2. [ **今すぐ入手** する] をクリックします。 
+2. **[今すぐ入手する]** を選択します。 
 
-3. [ **続行**] をクリックして使用条件に同意します。
+3. [ **続行**] を選択して、使用条件に同意します。
 
 4. [アカウントを既にお持ちの場合] の下で **[サインイン]** を選びます。
 
-5. 次のページで Power BI のユーザー名とパスワードを入力し、[サインイン]を選びます。
+5. 次のページで Power BI のユーザー名とパスワードを入力し、**[サインイン]** を選びます。
 
 6. ワークスペース名を指定して、ワークスペースをインストールします。
 
 7. インストールされているテンプレートアプリは、[アプリ] セクションで確認できます。
 
-8. [アプリ] をクリックし、インストールされているアプリを選択します。
+8. [ **アプリ** ] を選択し、インストールされているアプリを選択します。
 
 9. [新しいアプリの開始] 画面が開きます。
 
-10. データに接続するには、[ **接続**] をクリックします。
+10. データに接続するには、[ **接続**] を選択します。
 
 11. [ **Partner Center Analytics への接続** ] ポップアップウィンドウで、[ **認証方法** ] が [ **oAuth2** ] に設定されていることを確認するか、表示されていない場合は一覧から **oAuth2** を選択します。 
 
@@ -82,6 +84,6 @@ ms.locfileid: "98215851"
 
 データの読み込みが完了すると、Power BI でパートナー センターの分析アプリのダッシュボードとレポートを使用できるようになります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 [Microsoft Power BI 用パートナー センター分析アプリでビジネス データを表示する](power-bi-app-for-direct-partners-use.md)

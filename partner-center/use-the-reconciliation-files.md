@@ -1,7 +1,7 @@
 ---
 title: 調整ファイルを使用する
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: パートナーセンターでの調整ファイルと、特定の請求サイクルにおける料金の詳細な行項目ビューを解釈する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022776"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633898"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>パートナーセンターの調整ファイルの品目を読み取る方法について説明します。
 
@@ -55,6 +55,27 @@ ms.locfileid: "103022776"
 ## <a name="download-reconciliation-files-programmatically"></a>プログラムによる調整ファイルのダウンロード
 
 調整ファイルは非常に大きくなる可能性があり、ダウンロードが困難な場合があります。 プログラムによって調整ファイルをダウンロードするには、「 [請求書の品目を取得](/partner-center/develop/get-invoiceline-items)する」を参照してください。
+
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>ファイルが Excel の行の制限を超えている場合
+
+調整ファイルをダウンロードできても Microsoft Excel で開くことができない場合は、Excel で許可されているよりも多くの行がファイルに含まれていることを意味します。 この問題が発生した場合は、次のいずれかの手順を使用してファイルを開くことができます。
+
+### <a name="open-a-recon-file-in-power-bi"></a>Power BI で偵察ファイルを開きます。
+
+1. 通常どおりに調整ファイルをダウンロードします。
+2. Power BI のインスタンスをダウンロード、インストール、および開く。
+3. Power BI **ホーム** ] タブで、[ **データの取得**] を選択します。
+4. **共通データソース** の一覧で、[ **Text/CSV**] を選択します。
+5. メッセージが表示されたら、偵察ファイルを開きます。
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Excel ピボットテーブルで偵察ファイルを開く
+
+1. 通常どおりに調整ファイルをダウンロードします。
+2. Microsoft Excel で新しいファイルを開きます。
+3. [ **データ** ] タブで [ **データの取得**] を選択し、[ **ファイルから**] を選択して、[ **Text/CSV**] を選択します。
+4. メッセージが表示されたら、偵察ファイルを開きます。 データが表示されます。
+5. [ **読み込み** ] ドロップダウンメニューで、[ **読み込み先**] を選択し、[ **OK]** をクリックします。
+6. [ **データのインポート** ] ダイアログボックスで、[ **PivotTable レポート** ] を選択してファイルを開きます。
 
 ## <a name="map-taxes-or-vat"></a>税または VAT をマップする
 

@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 244cb852728d47360cf8ecd1d1e9ccb641466b1d
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215749"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633864"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI 用パートナー センター分析アプリでビジネス データを表示する
 
@@ -24,7 +24,7 @@ ms.locfileid: "98215749"
 **適切なロール**
 
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 販売代理店
 - 管理エージェント
 
@@ -48,7 +48,7 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 - 見積もりコストはすべて税抜きの請求データであり、法的拘束力を持ちません。 推定コストは、データ インサイトの目的のみで使用することを想定しています。
 
-- 顧客情報は、サブスクリプションに基づきます。 最近、アカウントを作成し、まだサブスクリプションがない顧客はカウントされません。
+- 顧客情報は、サブスクリプションに基づきます。 最近アカウントを作成したが、まだサブスクリプションを持っていないお客様は、カウントに含まれていません。
 
 - 推定コストは、最新の価格カード (CSP 価格に基づく) を使って算出されます。
 
@@ -162,7 +162,7 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 - **選択した期間の Azure リソースの推定使用コスト**: 過去60日以内に選択された期間の各使用量ベースのサブスクリプションで、各従量制課金リソースの最新のレートカードに基づく推定コスト。 
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Power BI 用パートナー センター分析アプリの概要](power-bi-app-for-direct-partners.md)
 
