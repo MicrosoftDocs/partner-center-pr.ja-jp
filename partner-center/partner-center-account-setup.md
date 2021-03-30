@@ -1,7 +1,7 @@
 ---
 title: パートナー センター アカウントの管理
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: パートナー センターを使用して、会社のプロファイル、銀行と税金に関する情報、ロール、アクセス許可などを管理する方法について説明します。
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103487010"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712854"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>パートナー センター アカウントの管理 - 会社のプロファイル、銀行に関する情報、ロール、アクセス許可など
 
 **適切なロール** – グローバル管理者
 - MPN アカウント管理者
 
-登録時にパートナー センターで作成するアカウントは、仕事用のメールとビジネス情報です。 アカウントを作成した後、サポートの詳細、税金の控除の申告 (該当する場合)、第一連絡先情報など、会社のプロファイルの設定を完了します。 また、自社のアカウントには、顧客の追加または管理、サブスクリプションの販売、課金や請求の操作、ビジネス プロファイルの作成、紹介の管理、インセンティブ プログラムの操作、サポートの提供に関してパートナー センターを使うすべてのユーザーのユーザー アカウントが含まれます。
+登録時にパートナー センターで作成するアカウントは、仕事用のメールとビジネス情報です。 アカウントを作成した後、サポートの詳細、税金の控除の申告 (該当する場合)、第一連絡先情報など、会社のプロファイルの設定を完了します。 会社のアカウントには、パートナー センターを使用するチームのすべてのユーザーのユーザー アカウントも含まれます。 これらのユーザーによる作業には、顧客の追加と管理、サブスクリプションの販売、請求と請求書作成の操作、ビジネス プロファイルの作成、紹介の管理、インセンティブ プログラムの操作、サポートの提供などが含まれます。
 
 [パートナー センター参加への従業員の招待](guide-to-migration.md)および[新しいユーザーの追加](create-user-accounts-and-set-permissions.md)に関するページも参照してください。
 
@@ -30,7 +30,7 @@ ms.locfileid: "103487010"
 
 ## <a name="account-management"></a>アカウント管理
 
-すべてのパートナー (商用と開発者) は、パートナー センターでアカウント管理にアクセスするには、パートナー センターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインし、画面の右上隅にある **[設定]** (歯車アイコン) を選択して、 **[アカウント設定]** を選択します。 すべてのプロファイルと設定が組み合わされたため、パートナーと開発者の設定のどちらかを選択する必要はなくなりました。
+商用と開発者のパートナーすべてがパートナー センターで **アカウント管理** にアクセスするには、パートナー センターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインし、画面の右上隅にある **[設定]** (歯車アイコン) を選択して、 **[アカウント設定]** を選択します。 パートナーと開発者の設定のどちらかを選択する必要はなくなりました。 これで、すべてのプロファイルと設定が結合されました。
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="[設定] アイコン":::
 
@@ -56,7 +56,7 @@ ms.locfileid: "103487010"
 
 複数のアカウントに所属することができます。 複数のアカウントに属しているかどうかは、左のナビゲーション メニューに "アカウント ピッカー" が表示されているかどうかで確認できます。
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="アカウント ピッカーを確認する":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="アカウント ピッカーを確認する":::
 
 アカウント ピッカーが表示されない場合、属しているアカウントは 1 つだけです。 
 
@@ -64,7 +64,7 @@ ms.locfileid: "103487010"
 
 次の例では、サインインしているユーザーは強調表示されている 3 つのアカウントに属しています。 このユーザーは、アカウントをクリックすることで切り替えることができます。
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="属しているアカウント":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="属しているアカウント":::
 
 ## <a name="organization-profile"></a>組織プロファイル
 
@@ -74,11 +74,17 @@ ms.locfileid: "103487010"
 
 ### <a name="legal-info"></a>法的情報
 
-パートナー センターに初めて参加するとき、会社は Microsoft による検証プロセスを受けます。 検証の状態は、 **[法的情報]** ページで追跡できます。 第一連絡先担当者 (パートナーの質問に関して Microsoft が連絡する人) および第一法務担当者 (法律に関する情報と状態を管理する人) が表示されます。 会社のすべての事業所が一覧表示され、ここで追加できます。
+パートナー センターに初めて参加するとき、会社は Microsoft による検証プロセスを受けます。 検証の状態は、 **[法的情報]** ページで追跡できます。 第一連絡先担当者 (パートナーの質問に関して Microsoft が連絡する人) および第一法務担当者 (法律に関する情報と状態を管理する人) が表示されます。 会社のすべての事業所が一覧表示され、ここで追加できます。 
+
+### <a name="provide-your-companys-legal-business-details"></a>貴社の法人に関する詳細を入力してください
+
+会社のプロファイルを参照するか、会社の情報を手作業で入力することができます。 会社を [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) に登録している場合は、DUNS ID を使用して会社の情報を確認してください。 会社の詳細情報を自分で入力する場合は、 **[手動]** を選択します。
+
+会社が **アルメニア**、**ハンガリー**、**キルギス**、**モルドバ**、**ウズベキスタン**、**ロシア** にあり、住所を手動で入力する場合は、お客様の住所が確認されます。 入力したものが確認されたものと異なる場合は、確認済みの住所を使用することをお勧めします。 確認によって、住所が正確であり、配送が可能であることが検証されます。
 
 ### <a name="primary-contact-email"></a>主要連絡先電子メール
 
-主要連絡先電子メールとは、お客様のアカウントの確認について通知するために Microsoft が使用するものです。 主要連絡先として指定する電子メールは、定期的に管理と監視が行われているものであることが非常に重要です。  
+主要連絡先メールとは、お客様のアカウントの検証について通知するために Microsoft が使用するものです。 主要連絡先として指定するメールは、定期的に管理と監視が行われているものであることが重要です。  
 
 詳細については、[検証とアカウント情報](verification-responses.md)に関するページを参照してください。
 

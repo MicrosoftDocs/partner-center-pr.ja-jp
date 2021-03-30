@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633898"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730086"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>パートナーセンターの調整ファイルの品目を読み取る方法について説明します。
 
@@ -76,6 +76,15 @@ ms.locfileid: "105633898"
 4. メッセージが表示されたら、偵察ファイルを開きます。 データが表示されます。
 5. [ **読み込み** ] ドロップダウンメニューで、[ **読み込み先**] を選択し、[ **OK]** をクリックします。
 6. [ **データのインポート** ] ダイアログボックスで、[ **PivotTable レポート** ] を選択してファイルを開きます。
+
+## <a name="negative-amount-displayed"></a>負の値が表示されます
+
+調整ファイルに負の値が表示される場合があります。 これは、次のいずれかの原因で発生する可能性があります。
+
+- 最近取り消したか、ライセンス数を減らしました
+- サービスライセンス契約 (SLA) または Azure の使用量のクレジットを受け取りました
+
+このトランザクションの詳細情報を取得するには、調整ファイルでその料金の種類の属性を確認します。
 
 ## <a name="map-taxes-or-vat"></a>税または VAT をマップする
 

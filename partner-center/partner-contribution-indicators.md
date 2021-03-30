@@ -1,7 +1,7 @@
 ---
 title: パートナー貢献度インジケーター-CBA
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーがシルバーまたはゴールドのクラウド Business Applications コンピテンシーを実現する方法を示す7つのパートナー貢献度インジケーター (PCI) について説明します。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193649"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730265"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>パートナー貢献指標を使用してクラウド Business Applications コンピテンシーを獲得する
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193649"
 - アカウント管理者
 
 この記事では、シルバーまたはゴールドのクラウド Business Applications コンピテンシーに対するパートナーの進捗状況を評価するために使用される7つの主要パートナー貢献度インジケーター (PCI) について説明します。
+
+PCI の進行状況は、パートナー貢献ダッシュボードで確認できます。 データは毎月20日に更新され、先月のデータも更新されます。 たとえば、2月のデータは3月20日に公開されます。
 
 > [!NOTE]
 > パートナーがさまざまなパートナー貢献指標メトリックを使用して、クラウド Business Applications SMB オプションを通じて、シルバーまたはゴールドの中小企業と思い浮かべのクラウドソリューションのコンピテンシーを得る方法について説明します。 詳細については、「 [Small And 思い浮かべ Cloud Solutions コンピテンシーのパートナー貢献度インジケーターの使用](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md)」を参照してください。 コンピテンシーとその要件の詳細については、「」を [参照](https://partner.microsoft.com/membership/competencies) してください。
@@ -109,6 +111,20 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 
 各 PCI メトリックには、パートナー企業が最大ポイントを獲得できるしきい値が Microsoft によって設定されてます。 これらのしきい値は、クラウド Business Applications コンピテンシーを実現するために使用される、顧客のエンゲージメントおよび財務および操作のパスによって異なります。 しきい値は、開発された市場で運用されているパートナーや、市場の開発においてのみ動作するパートナーにも異なります。 国の **開発** または **開発** 市場での分類は、 [Microsoft Partner Network の定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)に基づいています。
 
+4つのメトリックは、パートナーがビジネスを行う場所と、MPN の場所が登録されている場所に基づいて測定されることに注意してください。 つまり、開発市場に登録されているパートナーが、開発した市場の顧客を持つパートナーは、開発した国の PCI スコアを満たす必要があります。
+
+次の表は、メトリックによって適用される場所を示しています。
+
+| メトリックの名前 | 場所 |
+|:-------|:--------|
+| 新規純利益 (Net new revenue) | 顧客の場所 |
+| Net customer の追加 | 顧客の場所 |
+| 機能コンサルタント | パートナーの場所 |
+| Developer | パートナーの場所 |
+| 機能コンサルタント増加率 (Functional consultant growth) | パートナーの場所 |
+| MAU の成長 | 顧客の場所 |
+| 新規大規模展開数 (New large deployments) | 顧客の場所 |
+
 各メトリックのポイントは、顧客エンゲージメントと財務および運用のために個別の PCI スコアを生成するために計算されます。 このスコアは毎月更新されます。
 
 パートナーは、次に示すしきい値を満たしているか超過している場合、特定のメトリックの最大ポイントを獲得できます。 部分的なポイントは、機能コンサルタントの成長を除き、すべてのメトリックに対して獲得できます。
@@ -160,7 +176,7 @@ PCI スコアは、次のようにコンピテンシーの適格性を決定し�
 パートナーは、製品内のサブスクリプション レベルで顧客との関連付けが確立されている場合、DPOR になります。
 
 > [!NOTE]
-> 指定された顧客サブスクリプションに対して CPOR との両方が存在する場合、CPOR は、そのサブスクリプションに関連付けられている PCI メトリックのクレジットを受け取ります。 OSA を介して関連付けられている場合、CPOR は、純利益を獲得するためのクレジットを受け取ります。 関連付けが OSU を介して行われた場合、CPOR は、新しいデプロイのクレジットと、月間のアクティブなユーザーの成長を受け取ります。
+> 指定された顧客サブスクリプションに対して CPOR との両方が存在する場合、CPOR は、そのサブスクリプションに関連付けられている PCI メトリックのクレジットを受け取ります。 アソシエーションが OSA (収益要求) を介して行われた場合、CPOR は、純利益を獲得するためのクレジットを受け取ります。 関連付けが OSU (使用量要求) を介して行われた場合、CPOR は、新しいデプロイのクレジットと、月間のアクティブなユーザー拡張を受け取ります。 購入前の要求は PCI に適合していません。
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>このコンピテンシーの詳細な PCI メトリック定義
 
@@ -324,9 +340,10 @@ Net customer の追加は [パフォーマンス指標](partner-contribution-ind
   
   (開発と開発の詳細については、これらの [Microsoft Partner Network 定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)を参照してください)。
 
-- テナントが次のような場合、テナントは月間アクティブユーザーしきい値を超えていると見なされます。 
+- テナントが次のような場合、テナントは月間アクティブユーザーしきい値を超えていると見なされます。
 
-  - 指定されたしきい *値 (12* か月前) 以下
+  - 指定されたしきい **値 (12** か月前) 以下
+
   - 以降の11か月にわたって、このしきい値を少なくとも1回超過しました。
 
 - 月ごとのアクティブなユーザーは、テナントレベルでカウントされ、テナントの有料サブスクリプションのみで合計されます。
