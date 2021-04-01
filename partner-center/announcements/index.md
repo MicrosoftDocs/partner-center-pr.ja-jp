@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549041"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730061"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "105549041"
 
 |**カテゴリ**|**2021 年 3 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|製品サービス/モダン ワークプレース|[新しい Exchange 管理センター (EAC) エクスペリエンス](2021-march.md#17)|3 月 29 日|
 |製品サービス/モダン ワークプレース|[Microsoft Operations: 製品発表予定の概要](2021-march.md#16)|3 月 25 日|
 |機能|[CSP のお客様のオンボード要件の変更](2021-march.md#15)|3 月 25 日|
 |製品サービス/市場|[2021 年 3 月 1 日に永続的ソフトウェアの価格表に加えられた修正](2021-march.md#14)|3 月 23 日|
