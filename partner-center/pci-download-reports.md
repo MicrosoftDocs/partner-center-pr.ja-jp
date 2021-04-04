@@ -9,16 +9,17 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175274"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086228"
 ---
 # <a name="download-reports"></a>レポートのダウンロード
 
 **適切なロール**
+
 - エグゼクティブ レポート ビューアー
 - レポート ビューアー
 
@@ -34,7 +35,7 @@ Insights ダッシュボードの [レポートのダウンロード] ハブを�
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="新しいレポートの作成":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="新しいレポートの作成":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="生成されたレポート":::
 
 >[!NOTE] 
 >エグゼクティブレポートビューアーのユーザーのみがレポートをダウンロードできます。 Insights ダッシュボードレポートへのロールベースのアクセスの詳細については、「 [PCI ロール](pci-roles.md)」を参照してください。 
@@ -43,13 +44,13 @@ Insights ダッシュボードの [レポートのダウンロード] ハブを�
 
 次のレポートをダウンロードできます。
 
-パートナー**プロファイル**は、パートナーに関連する詳細情報を提供します。 パートナー ID、パートナー名、パートナー市、パートナーの国などの詳細情報は、レポートで確認できます。 このレポートには、集計やルックバックは適用されません。
+パートナー **プロファイル** は、パートナーに関連する詳細情報を提供します。 パートナー ID、パートナー名、パートナー市、パートナーの国などの詳細情報は、レポートで利用できます。 このレポートには、集計やルックバックは適用されません。
 
 **顧客の詳細** には、パートナーが関連付けられている顧客の詳細が表示されます。 また、ライセンス販売、集計された ACR などの主要なメトリックも提供します。 レポートは月単位で集計されます。
 
 **サブスクリプションの詳細** には、パートナーによって販売または管理されているサブスクリプションの詳細が、顧客情報と共に表示されます。 レポートは月単位で集計されます。
 
-Azure **usage**では、azure の使用状況の詳細が提供されます。 これらの詳細については、パートナーによって販売または管理されている Azure サブスクリプションを対象としています。 使用量の詳細は、メーターカテゴリおよびその他のキーディメンションによって分割されます。 レポートは月単位で集計されます。
+Azure **usage** では、azure の使用状況の詳細が提供されます。 これらの詳細については、パートナーによって販売または管理されている Azure サブスクリプションを対象としています。 使用量の詳細は、メーターカテゴリおよびその他のキーディメンションによって分割されます。 レポートは月単位で集計されます。
 
 **Office365-ライセンスの使用状況** は、パートナーによって販売または管理されている O365 ライセンスの使用状況の詳細を提供します。 また、顧客情報や、月ごとのアクティブなユーザー (MAU)、修飾された権利などの主要なメトリックも提供します。 レポートは月単位で集計されます。
 

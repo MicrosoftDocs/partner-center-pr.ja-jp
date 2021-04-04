@@ -9,27 +9,27 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 75881544097abdfac8d6f96bde37e9700eb28cf7
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999296"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132351"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>パートナー センターでの未払い、詐欺、不正使用の管理
 
 適用対象:
 
-- パートナー センター
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+- Microsoft Government cloud のパートナーセンター
 
 **適切なロール**
+
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 管理エージェント
 - 課金管理者
 
-パートナーは、顧客による不正購入や、購入サービスの料金未払いについて、金銭的な責任を負います。 したがって、 *不正行為の防止と検出のリスク軽減のための制御*を行うことを強くお勧めします。
+パートナーは、顧客による不正購入や、購入サービスの料金未払いについて、金銭的な責任を負います。 したがって、 *不正行為の防止と検出のリスク軽減のための制御* を行うことを強くお勧めします。
 
 不正行為や不正使用を回避したり、これらに対処するには、潜在的なリスクを理解して、リスクへの露出を軽減するためのポリシーとプラクティスを作成することが重要です。
 

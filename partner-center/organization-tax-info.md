@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b18f42f34951e09272d59c75b4588e962809ce62
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624206"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132759"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>課金プロファイルに VAT ID を追加する
 
 **適切なロール**
 
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 課金管理者
 - 管理エージェント
 - 販売代理店
@@ -31,11 +31,11 @@ ms.locfileid: "99624206"
 ## <a name="update-your-billing-profile-with-your-vat-id"></a>課金プロファイルを VAT ID で更新する
 
 1. [パートナー センター ダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
-2. [ **設定** ] メニュー (歯車アイコン) で、[ **アカウントの設定**] を選択します。
-3. [ **アカウント設定** ] ページで、[ページ] メニューの [ **パートナー課金プロファイル** ] を選択します。
-4. [ **財務データ** ] セクションで、[ **更新**] を選択します。
-5. [ **会社の税 ID**] には、VAT ID 番号を指定します。
+2. **[設定]** メニュー (歯車アイコン) で、 **[アカウントの設定]** を選択します。
+3. **[アカウント設定]** ページで、[ページ] メニューの **[パートナー課金プロファイル]** を選択します。
+4. **[Financial data]\(財務データ\)** セクションで、 **[更新]** を選択します。
+5. **[会社の税 ID]** には、VAT ID 番号を指定します。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [Tax and tax exemptions (税と免税)](tax-and-tax-exemptions.md)

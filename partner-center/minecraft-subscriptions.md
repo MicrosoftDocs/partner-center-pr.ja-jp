@@ -8,24 +8,21 @@ description: Minecraft 教育エディションのサブスクリプションを
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000066"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133014"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 
-**適用対象**
-
--  パートナー センター
-
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   販売代理店
--   管理エージェント
+
+- グローバル管理者
+- ユーザー管理の管理者
+- 販売代理店
+- 管理エージェント
 
 教育機関向けのパートナーは、**Minecraft: Education Edition** サブスクリプションを教育機関に販売できます。 パートナーがパートナー センターで顧客の代理としてサブスクリプションを購入した後、顧客は[教育機関向け Microsoft Store](https://educationstore.microsoft.com)からソフトウェアをダウンロードします。 
 
@@ -36,7 +33,7 @@ ms.locfileid: "91000066"
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>顧客の代理として **Minecraft: Education Edition** を購入する
 
 次の手順に従って、[パートナーセンター](https://partnercenter.microsoft.com/pcv/dashboard/overview
-)で、#**いかだ: 教育エディション**のサブスクリプションを購入します (サインインが必要です)。
+)で、#**いかだ: 教育エディション** のサブスクリプションを購入します (サインインが必要です)。
 
   1.  パートナー センター メニューで、**[顧客]** を選択します。
   

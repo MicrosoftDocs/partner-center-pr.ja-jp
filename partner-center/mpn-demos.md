@@ -8,21 +8,21 @@ ms.subservice: partnercenter-mpn
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 458f055dc55d6026ec042c4c40766635d229c08b
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 26162b4164d3bb8f1572c460f431efab056e1a8a
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100082945"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132589"
 ---
 # <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>MPN パートナー向けのデモ– Microsoft 365、Dynamics 365、チームなど
 
-**適切なロール**:
+**適切なロール**
 
 - MPN パートナー管理者
 - アカウント管理者
 
-Microsoft Partner Network は、シルバー、ゴールド、Action Pack のパートナー向けにさまざまなデモを提供します。
+Microsoft Partner Network (MPN) は、シルバー、ゴールド、および Action Pack のパートナー向けにさまざまなデモを提供します。
 
 ## <a name="access-mpn-demos"></a>MPN のデモにアクセスする
 

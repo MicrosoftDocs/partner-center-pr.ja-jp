@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104909291"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132402"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>ロゴビルダーを使用してパートナーのロゴ、認定レター、またはアワードを作成する方法
 
 **適切なロール**
 
-- ロゴビルダーの詳細を学習したいすべてのパートナーセンターのユーザー
+- ロゴビルダーの詳細を知りたいすべてのパートナー
 
 シルバーまたはゴールドのコンピテンシーを獲得する価値は、顧客と区別するチャンスです。 お客様のコンピテンシーの特典に含まれているコンピテンシーまたはコンピテンシーを示すために、販売およびマーケティング資料とパートナーセンターのビジネスプロファイルで使用できるロゴ。 
 
@@ -28,7 +28,7 @@ Azure のエキスパート MSP プログラムに同意した場合、または
 
 ## <a name="what-is-available-in-logo-builder"></a>ロゴビルダーで使用できるもの
 
-Logo Builder では、お客様の会社で利用できるものは、Microsoft Partner Network (MPN) のメンバーシップに合わせて調整されています。 新しいコンピテンシーの取得など、MPN のメンバーシップの変更が反映されるまで、最大で24時間かかります。  
+ロゴビルダーでお客様の会社が利用できるロゴは、Microsoft Partner Network (MPN) のメンバーシップに合わせて調整されます。 新しいコンピテンシーの取得など、MPN のメンバーシップの変更が反映されるまで、最大で24時間かかります。
 
 Logo Builder で作成できるアセットには、次のものがあります。
 
@@ -44,7 +44,7 @@ Logo Builder で作成できるアセットには、次のものがあります�
 
 - Microsoft Action Pack を購入したパートナー向けのロゴ
 
-## <a name="create-a-logo-using-logo-builder"></a>ロゴビルダーを使用してロゴを作成する
+## <a name="create-a-logo-using-logo-builder"></a>ロゴ ビルダーを使用してロゴを作成する
 
 ロゴビルダーのプロファイルには、ロゴビルダーによって組織に関して保存される情報が含まれており、お客様の情報のみを対象としています。
 

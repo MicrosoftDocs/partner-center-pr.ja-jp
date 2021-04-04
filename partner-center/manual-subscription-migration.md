@@ -9,24 +9,21 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8575d87ab3c4c7970135a87b7ef7564c4fe06232
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436851"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132742"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Dynamics 365 および Customer Engagement プランの Basic (対象プラン) から新しいバージョンへの移行
 
-**適用対象**
-
--  パートナー センター
-
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   管理エージェント
--   販売代理店
+
+- グローバル管理者
+- ユーザー管理の管理者
+- 管理エージェント
+- 販売代理店
 
 2019年1月1日より、Basic (認定提供) サブスクリプションの Dynamics 365 for Sales/Customer Engagement プランをお持ちのお客様は、これらのレガシプランを更新できなくなります。既存のサブスクリプションは、有効期限が切れると自動的に更新されません。 サブスクリプションの詳細ページで、[日付] の [自動更新] の [日付] にサブスクリプションの状態が [有効期限切れ] に変わります。 
 
@@ -44,10 +41,10 @@ API (CREST またはパートナーセンター) を使用する場合は、サ�
 - Dynamics 365 for Sales Enterprise Edition for CRM Basic (認定オファー) for 教職員
 - 学生向けの SA からの Dynamics 365 for Sales Enterprise Edition for CRM Basic (認定オファー)
 - Dynamics 365 for Sales Enterprise Edition (Government 価格) From CRM Basic (限定プラン)
-- CRM Basic 用 Dynamics 365 for Sales Enterprise Edition アドオン (修飾されるプラン)
-- CRM Basic (認定オファー) 用の Dynamics 365 for Sales Enterprise Edition アドオン
-- CRM Basic (認定オファー) for Students 用 Dynamics 365 for Sales Enterprise Edition アドオン
-- CRM Basic 用 Dynamics 365 for Sales Enterprise Edition (Government 価格) アドオン (修飾されるプラン)
+- CRM Basic の Dynamics 365 for Sales Enterprise Edition Add-On (修飾プラン)
+- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (認定オファー) for 教職員
+- 学生向けの Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (認定オファー)
+- CRM Basic の Dynamics 365 for Sales Enterprise Edition (Government 価格) Add-On (修飾プラン)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (限定プラン)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition (Government 価格) CRMOL Basic (限定プラン)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (認定オファー) for Students
@@ -56,10 +53,10 @@ API (CREST またはパートナーセンター) を使用する場合は、サ�
 - Dynamics 365 カスタマーエンゲージメントプラン Enterprise Edition (Government 価格) (SA for CRM Basic) (限定プラン)
 - Dynamics 365 Customer Engagement Plan Enterprise Edition for CRM Basic (認定オファー) for Students
 - Dynamics 365 カスタマーエンゲージメントプラン Enterprise Edition for CRM Basic (認定オファー) for 教職員
-- Dynamics 365 Customer Engagement Plan Enterprise Edition アドオン for CRM Basic (修飾されるプラン)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition (Government 価格) アドオン for CRM Basic (認定プラン)
-- CRM Basic (修飾されるオファー) 用の Dynamics 365 カスタマーエンゲージメントプラン Enterprise Edition アドオン
-- Dynamics 365 Customer Engagement Plan Enterprise Edition アドオン for CRM Basic (認定オファー) for 教職員
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (限定プラン)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition (Government 価格) Add-On CRM Basic (認定プラン)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for Students for CRM Basic (認定オファー)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (認定オファー) for 教職員
 
 
 
@@ -90,26 +87,26 @@ API (CREST またはパートナーセンター) を使用する場合は、サ�
 ## <a name="purchase-the-new-plan-for-your-customer"></a>顧客の新しいプランを購入する
 
 1. 左側のナビゲーションから [ **Customers** ] を選択し、新しいサブスクリプションに移動する顧客を選択します。
-2. [**サブスクリプションの追加**] を選択します。
+2. [ **サブスクリプションの追加**] を選択します。
 3. 購入するサブスクリプション (この場合は、上記のいずれかのオプション) をカタログから選び、ライセンス数を入力して、**[送信]** を選びます。 
 
 これで、お客様は古いサブスクリプションと新しいサブスクリプションの両方を使用できるようになります。 次の手順では、顧客のユーザーにライセンスを再割り当てします。
 
 1. 左側のナビゲーションから [ **Customers** ] を選択し、移動する顧客を選択します。
-2. [**ユーザーとライセンス**] を選択します。
-3. ライセンスをユーザーに再割り当てするには、ユーザーを選択し、[**ライセンスの管理**] を選択します。 
-4. [**ライセンスの管理**365] ページで、[Basic (限定されたプラン) のライセンス] チェックボックスをオンにして、顧客が移動しているサブスクリプションの新しいサービスプランを選択します。 
+2. [ **ユーザーとライセンス**] を選択します。
+3. ライセンスをユーザーに再割り当てするには、ユーザーを選択し、[ **ライセンスの管理**] を選択します。 
+4. [ **ライセンスの管理** 365] ページで、[Basic (限定されたプラン) のライセンス] チェックボックスをオンにして、顧客が移動しているサブスクリプションの新しいサービスプランを選択します。 
 5. **[Submit]\(送信\)** をクリックします。 この操作は、新しいライセンスが必要なユーザーごとに行います。 
 
 新しいサブスクリプションにライセンスを移行したら、古いサブスクリプションを取り消すことができます。 
 
 1. 左側のナビゲーションから [ **Customers** ] を選択し、移動する顧客を選択します。
-2. [サブスクリプションの詳細] ページで、古いサブスクリプションを "**中断**" に設定し、[**送信**] を選択します。
+2. [サブスクリプションの詳細] ページで、古いサブスクリプションを " **中断** " に設定し、[ **送信**] を選択します。
 
 古いサブスクリプションが中断され、新しいサブスクリプションがアクティブになります。 中断されたサブスクリプションは、120 日後に自動的にプロビジョニングが解除されます。 お客様には、古いサブスクリプションに対して追加料金は発生しません。
- 
+ 
 
- 
+ 
 
 
 

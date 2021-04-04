@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756134"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133048"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>パートナーセンターを使用して Microsoft のラーニングパートナーとして登録する
 
 **適切なロール**
 
 - MPN パートナー管理者
-- MPN アカウント管理者
+- アカウント管理者
 
 この記事では、Microsoft Partner Network のパートナーが学習パートナープログラムに登録できるさまざまな方法について説明します。
 
@@ -50,7 +50,7 @@ Microsoft は、2021 年 1 月 1 日から 2021 年 6 月 30 日までの間に�
 
 ラーニング Action Pack は、トレーニングサービス、プラン、または割引をコースウェアマーケットプレースに提供するパートナーをサポートし、パートナーがさまざまな Microsoft 製品ラインで専門家になるのを支援する特典を提供します。
 
-非ラーニングパートナーは、内部トレーニングのためにのみ、完全な価格でコースウェアを購入できます。 組織外でコンテンツを配信する場合は、1つの Microsoft 認定トレーナー (1 MCT) が必要であり、ラーニング Action Pack にサインアップする必要があります。
+非ラーニングパートナーは、内部トレーニングのためにのみ、完全な価格でコースウェアを購入できます。 組織外でコンテンツを配信する場合は、Microsoft 認定トレーナー (1 つの MCT) が必要であり、ラーニング Action Pack にサインアップする必要があります。
 
 必要な Kpi に達すると、追加の要件を完了し、シルバー/ゴールド学習オプションにアップグレードするかどうかを選択できます。
 
@@ -109,7 +109,7 @@ Gold コンピテンシー学習オプションの登録 (または更新) に�
 
 KPI レポートは、月の途中で月に1回更新されます。 Learning プログラムの更新資格は、記念日を基に、過去12か月間のパフォーマンスアクティビティで達成された Kpi に対して測定されます。 たとえば、2020年1月15日以降、KPI データは1月2019日から12月2019までの期間にわたって表示されます。 請求書が2020年1月の場合、対応する Kpi は2019年2月15日から表示されます。 **注文確認とパートナーレポートは受け入れられません。** 実際の請求書のみが受け入れられます。
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>Q. 1日のトレーニングは1つの KPI に相当しますか。
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>Q. 1日のトレーニングは1つの KPI に相当しますか。
 
 KPI のミーティングは、トレーニングの期間とは関係ありません。 Kpi の測定方法の詳細については、「 [ラーニングパートナー登録ガイド](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)」のパフォーマンスの例を確認してください。
 

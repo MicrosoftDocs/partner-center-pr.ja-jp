@@ -9,23 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174979"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086517"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>EU & EFTA 国の顧客に販売するパートナーの Microsoft Cloud ドイツのパートナーセンター
 
 **適用対象**
 
--  Microsoft Cloud ドイツのパートナー センター
+- Microsoft Cloud ドイツのパートナー センター
 
 **適切なロール**
 
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 管理エージェント
 - 販売代理店
 - 課金管理者
@@ -41,7 +41,7 @@ Microsoft Cloud ドイツは、厳密なドイツのデータ保護要件を満�
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Microsoft Cloud ドイツから別の欧州リージョンに顧客を移行する
 
-Microsoft Cloud ドイツから別の欧州リージョンに顧客のサブスクリプションを移行する前に、そのリージョンに存在する CSP アカウントがアクティブになっている必要があります。 お持ちでない場合は、パートナーセンターで、CSP アカウントの選択中に作成するように求められます。 新しいアカウントを作成すると、お客様は選択したテナントに関連付けられます。
+Microsoft Cloud ドイツから別の欧州リージョンに顧客のサブスクリプションを移行する前に、そのリージョンに存在し、アクティブになっている既存のクラウドソリューションプロバイダー (CSP) アカウントを持っている必要があります。 お持ちでない場合は、パートナーセンターで、CSP アカウントの選択中に作成するように求められます。 新しいアカウントを作成すると、お客様は選択したテナントに関連付けられます。
 
 ### <a name="you-already-have-a-csp-account"></a>CSP アカウントを既にお持ちの場合
 
@@ -72,7 +72,7 @@ Microsoft Cloud ドイツから別の欧州リージョンに顧客のサブス�
 1. グローバル管理者として、ドイツのテナント Microsoft Cloud CSP にサインインします。
 
 1. 左側のメニューの [CSP の概要] ページに移動します。
-. 
+ 
 1. メッセージが表示されたら、[ **欧州地域にテナントがありません**] を選択し、[ **新しいアカウントの作成**] を選択します。 
  
 1. [パートナーセンターの登録] ページが表示されます。ここでは、新しいテナントと CSP アカウントを欧州地域で作成できます。

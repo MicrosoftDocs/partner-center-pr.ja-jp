@@ -9,24 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949046"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132623"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 サブスクリプションの Office 365 の新しいバージョンへの移行
 
-**適用対象**
-
--  パートナー センター
-
 **適切なロール**
--   グローバル管理者
--   ユーザー管理者
--   管理エージェント
--   販売代理店
+
+- グローバル管理者
+- ユーザー管理の管理者
+- 管理エージェント
+- 販売代理店
 
 Office 365 Enterprise E4 プランは、2017 年 4 月 7 日に廃止されました。 これ以降、新しい Office 365 E4 サブスクリプションを購入することはできません。また、既存の E4 サブスクリプションは期限切れになっても、自動更新されません。
 
@@ -87,7 +84,7 @@ E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Bus
 
 1. **パートナー センター** メニューで **[顧客]** を選択し、移行する顧客を選択した後、**[ユーザーとライセンス]** を選択します。 顧客の [ユーザーとライセンス] ページが開きます。
 
-2. ユーザー ライセンスをもう一度割り当てるには、割り当てるユーザーを選んで **[ライセンスの管理]** を選びます。
+2. ユーザーライセンスを再割り当てするには、再割り当てするユーザーを選択し、[ **ライセンスの管理**] を選択します。
 
 3. **[ライセンスの管理]** ページで、**Office 365 Enterprise E4** のライセンスのチェック ボックスをオフにし、お客様の移行先サブスクリプションの新しいサービス プランを選びます。
 
@@ -109,7 +106,7 @@ E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Bus
 
 
 
- 
+ 
 
 
 

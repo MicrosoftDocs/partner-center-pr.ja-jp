@@ -4,27 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: お客様のお客様のために販売または管理している Azure サブスクリプションの使用状況について、お客様がどのように改善できるかをご確認ください。
+description: お客様のお客様のために販売または管理する Azure サブスクリプションの使用を改善するために、何を行っているかをご確認ください。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220730"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086211"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能な Azure の使用状況レポート
 
 **適切なロール**
+
 - グローバル管理者
 - 管理エージェント
-- レポート ビューア
-- エグゼクティブレポートビューアー
+- レポート ビューアー
+- エグゼクティブ レポート ビューアー
 
-Azure の使用状況レポートには、顧客の Azure サブスクリプションに関連するメトリックが表示されます。 これには、Azure の消費収益とメーターカテゴリごとの使用量が含まれます。 Azure の使用状況レポートでは、次のセクションを確認できます。
+Azure の使用状況レポートには、顧客の Azure サブスクリプションに関連するメトリックが表示されます。 このレポートには、Azure の消費収益とメーターカテゴリ別の使用量が含まれます。 Azure の使用状況レポートでは、次のセクションを確認できます。
 
 - まとめ
 - 地理的に別の Azure の使用状況
@@ -37,7 +38,8 @@ Azure の使用状況レポートには、顧客の Azure サブスクリプシ�
 
 概要セクションには、顧客に対して販売または管理されている Azure サブスクリプションに関連する主要業績評価指標 (Kpi) のスナップショットビューが表示されます。  
 
-- Azure サブスクリプション: 選択した日付範囲における azure サブスクリプションの現在の数の増加または減少率 (%)。
+- Azure サブスクリプション: 現在販売または管理されている Azure の顧客サブスクリプションの数。
+選択した日付範囲内でのこれらの Azure サブスクリプションの増加または拒否の割合。
 
 マイクログラフは、選択した日付範囲について、Azure サブスクリプションの数の月ごとの傾向を示します。
 - アクティブな Azure サブスクリプション: 過去30日間にアクティブに使用された Azure サブスクリプションの現在の数。
@@ -74,7 +76,7 @@ Azure の使用状況レポートには、顧客の Azure サブスクリプシ�
 
 :::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure の使用率":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
 

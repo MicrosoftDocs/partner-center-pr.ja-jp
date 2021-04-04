@@ -8,19 +8,19 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757385"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132487"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>シルバーまたはゴールドコンピテンシーに関連する料金を支払う方法
 
 **適切なロール**
 
 - MPN パートナー管理者
-- MPN アカウント管理者
+- アカウント管理者
 
 この記事では、シルバーまたはゴールド Microsoft Partner Network コンピテンシーの購入に関連する料金の支払い方法とタイミングについて説明します。 この記事では、ご希望の支払い方法を変更する方法、注文を取り消す方法、シルバーからゴールドコンピテンシーへの移行時に25% の料金割引を受ける方法についても説明します。
 

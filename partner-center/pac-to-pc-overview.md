@@ -9,22 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
-ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
+ms.openlocfilehash: c266d3e271cd114bd771f17280e1390fb5f765d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97720834"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086500"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>パートナー管理センターのパートナー センターへの移動
 
-**適用対象**
-
-- パートナー センター
-
 **適切なロール**
+
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 管理エージェント
 - 販売代理店
 
@@ -41,7 +38,7 @@ Microsoft パートナー センターは、1 か所で Microsoft および顧�
 
 - クラウドソリューションプロバイダーパートナー: CSP パートナーの場合、2018年4月以降、パートナーセンターに自動的にリダイレクトされます。
 
-- Advisor パートナー (CSP を使用せずに、PAC を使用して顧客の試用/引用を提供する場合): Advisor パートナーの場合、2020年6月以降、パートナーセンターに自動的にリダイレクトされます。
+- Advisor パートナー (CSP を使用せずに、PAC を使用して顧客の試用/引用を提供している場合): Advisor パートナーの場合は、2020年6月以降、パートナーセンターに自動的にリダイレクトされます。
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Microsoft パートナー センターを今すぐ使い始めましょう
 

@@ -9,23 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 2ad3e686c90c286465911e8d01d12686d2c6ad15
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812837"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132980"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Microsoft Partner Network の特典を見つける 
 
-### <a name="applies-to"></a>適用対象
-
-- パートナー センター
-
-### <a name="appropriate-roles"></a>適切なロール
+**適切なロール**
 
 - MPN パートナー管理者
-- グローバル管理者
+- 全体管理者
 
 この記事では、パートナーセンターのダッシュボードで、MPN () の MPN 特典を見つける方法につい Microsoft Partner Network て説明します。 この情報には、技術的な利点に関連する契約 ID やアクセス ID など、会社固有の製品サポート Id を検索する方法が含まれます。
 
@@ -45,7 +41,7 @@ Microsoft Partner Network メンバーとして、会社はビジネスの成長
    - Visual Studio サブスクリプション
    - 技術上のメリット
    - 市場進出
-   - Marketplace の特典
+   - Marketplace 報酬
    - ロゴビルダー
 
 3. (+) 特典を展開することで、特定の特典をアクティブ化するために役立つ追加情報が得られます。

@@ -2,20 +2,22 @@
 title: パートナー アカウントを別のパートナー アカウントにマージする
 description: パートナーアカウントをパートナーセンターの別のパートナーアカウントにマージする方法について説明します。パートナーセンターで、Microsoft パートナーがアクティブである場合に使用します。
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182598"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133065"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>パートナー アカウントを別のパートナー アカウントにマージする
 
-**該当するロール**
+**適切なロール**
 
 - アカウント管理者
 
@@ -65,7 +67,7 @@ ms.locfileid: "98182598"
 
   - コンピテンシー: パートナー企業は、最大の達成度に関連するコア特典の1つのパッケージと、パートナーがパートナーグローバルアカウントごとの資格を持つコンピテンシー固有の特典を受け取ります。
 
-- すべてのメリットについては、 [Microsoft Partner Network 特典の使用方法](https://aka.ms/partner-benefits-use-guide)に関するガイドを参照してください。 例: アクティブ化された O365 E3 トークンは、アクティブ化してから12か月以内に機能します。 トークンがテナントのライセンスに対してアクティブ化されると、そのライセンスは別のテナントに移動されない可能性があります。
+- すべてのメリットについては、 [Microsoft Partner Network 特典の使用方法](https://aka.ms/partner-benefits-use-guide)に関するガイドを参照してください。 例: アクティブ化された O365 E3 トークンは、アクティブ化してから12か月間機能します。 トークンがテナントのライセンスに対してアクティブ化されると、そのライセンスは別のテナントに移動されない可能性があります。
 
 - 両方の企業の MCP ID の関連付けが保持され、PGA MPN ID に関連付けられます。
 
@@ -77,7 +79,7 @@ ms.locfileid: "98182598"
 
 - ソフトウェアアシュアランスのバウチャーは、両方のアカウントにわたって保持されます。 
 
-- /または PAL の関連付けには影響しません。 関連付けられた収益の投稿は、新しいパートナーグローバルアカウントへのフローを開始します。
+- または PAL の関連付けには影響しません。 関連付けられた収益の投稿は、新しいパートナーグローバルアカウントへのフローを開始します。
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>パートナーセンターアカウントをパートナーセンターアカウントにマージするように会社を招待する
 
@@ -94,37 +96,37 @@ ms.locfileid: "98182598"
  
 ### <a name="example-of-two-companies-merging-accounts"></a>アカウントをマージする2つの企業の例
 
-1. Contoso には 
+1. Contoso, Ltd. 
 
     a. [グローバル MPN id 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)と[MPN id 2222222 の](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)1 つの下位の場所。
   
     b. Azure AD テナント = @contoso.com
  
     c. 2020年10月1日に有効期限が切れる gold コンピテンシー
-2. Fabricam の場合
+2. Fabrikam, Inc. は
  
     a.  グローバル MPN ID 3333333 と MPN Id 4444444 と5555555の2つの下位の場所
 
-    b.  Azure AD テナント = @fabricam.com
+    b.  Azure AD テナント = @fabrikam.com
 
     c.  2020年12月1日に有効期限が切れる2つの gold コンピテンシー
-3.  Contoso は Fabricam を購入し、 [ここ](https://partner.microsoft.com/dashboard/account/merger) に移動して、merge 要求を開始します。
-4.  Fabricam はパートナーセンターにサインインし、手順 #3 で Contoso が行ったのと同じページに移動して、Contoso の要求を承認します。
+3.  Contoso 社が Fabrikam を購入し、 [ここ](https://partner.microsoft.com/dashboard/account/merger) に移動して、merge 要求を開始します。
+4.  Fabrikam はパートナーセンターにサインインし、手順 #3 で Contoso が行ったのと同じページに移動して、Contoso の要求を承認します。
 5.  Contoso は、同じページでのマージの詳細を確認し、アカウントの合併を続行するための確認を提供します。
 6.  合併後、会社のアカウントは次のように表示されます。
 
     a.  グローバル MPN ID 1111111 と4の下位の location MPN Id (2222222、3333333、4444444、5555555) を持つ Contoso という会社。
     
-    b.  @contoso.com @fabricam.com 同じパートナーセンターアカウントにアクセスできる2つの Azure AD テナント (+) があります。
+    b.  @contoso.com @fabrikam.com 同じパートナーセンターアカウントにアクセスできる2つの Azure AD テナント (+) があります。
     
     c.  これには、2020年10月1日に有効期限が切れ、もう1つは2020年12月1日という2つのコンピテンシー特典パッケージがあります。 2020年12月1日に、1つのコンピテンシー特典パッケージとして更新することができます。 これらの機能を更新すると、Contoso は1つの特典パッケージのみを保持できる場合でも、3つのコンピテンシーをすべて保持します。
     
-7.  Contoso の管理者は、ユーザーのパートナーセンターの役割を引き続き管理し @contoso.com ます。 Fabricam の管理者は、のユーザーのパートナーセンターの役割を引き続き管理し @fabricam.com ます。 Contoso の管理者は、fabricam のテナントにゲストとして招待されている場合にのみ、Fabricam のユーザーを管理できます。
-8.  Contoso は @fabricam.com テナントを無視し、 @contoso.com 新しいロールとアクセス許可を持つ fabricam 従業員の新しい資格情報を再発行することができます。
+7.  Contoso の管理者は、ユーザーのパートナーセンターの役割を引き続き管理し @contoso.com ます。 Fabrikam の管理者は、ユーザーのパートナーセンターの役割を引き続き管理し @fabrikam.com ます。 Contoso の管理者は、fabrikam のテナントにゲストとして招待されている場合にのみ、Fabrikam のユーザーを管理できます。
+8.  Contoso は @fabrikam.com テナントを無視し、 @contoso.com 新しいロールとアクセス許可を持つ Fabrikam の従業員に新しい資格情報を再発行することができます。
 
 ## <a name="next-steps"></a>次のステップ
 
-- [ユーザー ロールとアクセス許可を割り当てる](permissions-overview.md)
+- [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
 
 - [パートナー プロファイルの情報を確認する](update-your-partner-profile.md)
 

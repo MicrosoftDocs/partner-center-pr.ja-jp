@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390649"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132725"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>マルチチャネルサポート-他のパートナーを使用して、他のユーザーが購入した顧客サブスクリプションをサポートする
 
 **適用対象**
 
-- パートナー センター
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+- Microsoft Government cloud のパートナーセンター
 
 **適切なロール**
 
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 販売代理店
 
 パートナーセンターのマルチチャネル機能は、顧客が他の場所で購入したサブスクリプションを管理およびサポートするためにパートナーを採用する必要があるシナリオをサポートします。 マルチチャンネルのサポートは次の場合に適用されます。
@@ -37,7 +36,7 @@ ms.locfileid: "86390649"
 
 |これらのサービスをサポートするには  | これを行うには、次の手順を実行します。 |
 |:---------|:---------|
-|ライセンスベースのサービス    | マルチチャンネル アカウントのサポートを提供するには、サブスクリプションを管理するためのアクセス許可を顧客に要求する必要があります。 詳細については、「[顧客との再販業者関係の要求](request-a-relationship-with-a-customer.md)」を参照してください。   |
+|ライセンスベースのサービス    | マルチチャンネル アカウントのサポートを提供するには、サブスクリプションを管理するためのアクセス許可を顧客に要求する必要があります。 詳細については、「 [顧客との再販業者関係の要求](request-a-relationship-with-a-customer.md)」を参照してください。   |
 |使用量ベースのサービス     |  顧客が、Advisor プログラム、Open プログラム、EA プログラムなどの別のチャンネルから Microsoft Azure サブスクリプションを既に取得している場合、パートナーはパートナー センターで新しい Azure サブスクリプションを作成し、サブスクリプションの詳細情報を手動で入力した後、個別のサービスまたはサブスクリプション全体を取り消す必要があります。 Azure CSP は、さまざまなチャネルと共存させることができます。<br/><br/> たとえば、顧客が別のパートナーの Microsoft Azure サブスクリプションを既に持っている場合は、Azure サービスを他のパートナーに切り替えることができます。  詳しくは、「[Azure サブスクリプションの別のパートナーへの切り替え](switch-azure-subscriptions-to-a-different-partner.md)」をご覧ください。 |
 
 > [!IMPORTANT]  
@@ -47,6 +46,6 @@ ms.locfileid: "86390649"
 
 [他のパートナーとの連携](work-with-other-partners.md)
 
-- 間接リセラーの方は、「[パートナーと間接プロバイダー](indirect-reseller-tasks-in-partner-center.md)」を参照してください。
+- 間接リセラーの方は、「 [パートナーと間接プロバイダー](indirect-reseller-tasks-in-partner-center.md)」を参照してください。
 
-- 間接プロバイダーの場合は、「[パートナーと間接リセラーの提携](indirect-provider-tasks-in-partner-center.md)」を参照してください。
+- 間接プロバイダーの場合は、「 [パートナーと間接リセラーの提携](indirect-provider-tasks-in-partner-center.md)」を参照してください。

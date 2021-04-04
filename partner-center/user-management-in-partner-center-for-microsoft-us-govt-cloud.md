@@ -1,6 +1,6 @@
 ---
 title: ユーザーとライセンスの管理
-titleSuffix: Microsoft Cloud for US Government - Partner Center
+titleSuffix: Microsoft Government Cloud - Partner Center
 description: 米国政府パートナー、お客様、ライセンス、およびパスワードのリセットについて Microsoft Cloud のパートナーセンターを管理する方法と場所について説明します。
 ms.topic: article
 ms.date: 03/15/2019
@@ -10,14 +10,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f2f1a4ce2ed1ea4ed21de68454a123458120edfd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 0fce25dc07f5cd07138cde2619cdf0989cd17251
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712938"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086568"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理
+# <a name="user-and-license-management-in-partner-center-for-government-microsoft-cloud"></a>Government Microsoft Cloud のパートナーセンターでのユーザーとライセンスの管理
 
 **適用対象**
 
@@ -29,9 +29,9 @@ ms.locfileid: "104712938"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud の Azure Portal でユーザーを管理する方法
 
-米国政府機関向け Microsoft Cloud のパートナー センターにサインインしている場合は、サインインし直さなくても米国政府機関向け Microsoft Cloud の Azure Portal を開くことができます。 ただし、Microsoft Cloud for US Government の Azure Portal に直接サインインする必要がある場合は、https://portal.azure.us/) に移動し、Microsoft Cloud for US Government アカウントの Azure AD テナントで使用するグローバル管理者の資格情報を使ってサインインします。
+米国政府機関向け Microsoft Cloud のパートナーセンターにサインインしている場合は、もう一度サインインしなくても、Microsoft Government Cloud の Azure portal を開くことができます。 ただし、Microsoft Government Cloud の Azure portal に直接サインインする必要がある場合は、にアクセスして、 https://portal.azure.us/) Microsoft Government cloud の Azure AD テナントのグローバル管理者資格情報を使用してサインインします。
 
-米国政府機関向け Microsoft Cloud の Azure Portal に正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
+Microsoft Government Cloud の Azure portal に正常にサインインしたら、Azure Active Directory (Azure AD) の [概要] ページを開き、次のトピックの指示に従います。
 
 > [!NOTE]  
 > 下記のリンクを選択すると、別の Web サイトが開きます。 
@@ -44,6 +44,6 @@ ms.locfileid: "104712938"
 
 **関連トピック**
 
--  [**米国政府機関向け Microsoft Cloud のパートナー センター**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Microsoft Government Cloud のパートナーセンター**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**Microsoft Government Cloud のクラウドソリューションプロバイダープログラムに登録する**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

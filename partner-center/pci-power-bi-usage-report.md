@@ -8,20 +8,21 @@ description: お客様のために販売または管理している Power BI サ
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 03224c029104101c2187d07bfce720294e43cf88
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146703"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086296"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能な Power BI 使用状況レポート
 
 **適切なロール**
+
 - グローバル管理者
 - 管理エージェント
-- レポート ビューア
-- エグゼクティブレポートビューアー
+- レポート ビューアー
+- エグゼクティブ レポート ビューアー
 
 Power BI 使用状況レポートには、顧客が販売または管理している Power BI サブスクリプションの使用状況データが表示されます。 Power BI の使用状況レポートでは、次のセクションを表示できます。
 

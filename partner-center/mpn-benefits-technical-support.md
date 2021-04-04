@@ -9,19 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712904"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133031"
 ---
 # <a name="technical-support-benefits"></a>テクニカルサポートの特典
 
 **適切なロール**
--   グローバル管理者 
--   MPN パートナー管理者 
--   管理エージェント 
+
+- グローバル管理者
+- MPN パートナー管理者
+- 管理エージェント
 
 ## <a name="overview"></a>概要
 
@@ -38,11 +39,11 @@ ms.locfileid: "104712904"
 2. 左側のナビゲーションメニューで [特典] を展開し、[ **技術的な特典**] を選択します。 [技術的なメリット] ページには、Gold、シルバー、または Microsoft Action Pack のメンバーシッププランで使用できるテクニカルサポート特典の一覧が表示されます。 
 
     > [!NOTE]
-    >アクティブなメンバーシッププランがない場合は、"まだ特典がないようです" というメッセージが表示されます。 会社がアクティブなメンバーシップオファーを持っていても、表示されない場合は、間違ったアカウントを使用してサインインしている可能性があります。 アカウントを確認するには、ページの右上にある **アカウント** アイコンをクリックし、[ **別のアカウントでサインイン** する (必要な場合)] をクリックします。
+    >アクティブなメンバーシッププランがない場合は、"まだ特典がないようです" というメッセージが表示されます。 会社がアクティブなメンバーシップオファーを持っていても、表示されない場合は、間違ったアカウントを使用してサインインしている可能性があります。 アカウントを確認するには、ページの右上にある **アカウント** アイコンを選択し、[ **別のアカウントでサインイン** する (必要な場合)] を選択します。
 
 3. マイクロソフト製品サポートまたは署名製品サポートの使用を開始するには、特典を有効にする必要があります。 アクティブ化が成功すると、アクセス ID と契約 ID が表示されます。 
 
-    -   特典を有効にするには、[アクティブ化] ボタンをクリックします。 ライセンス認証に使用するユーザーアカウントには、全体管理者ロールまたは MPN パートナー管理者ロールが必要です。 アクティブ化リクエストの処理が完了するまで数日間待ちます。 
+    -   特典を有効にするには、[アクティブ化] ボタンを選択します。 ライセンス認証に使用するユーザーアカウントには、全体管理者ロールまたは MPN パートナー管理者ロールが必要です。 アクティブ化リクエストの処理が完了するまで数日間待ちます。 
 
     - アクセス ID と契約 ID が表示されている場合は、Microsoft 製品サポートと署名製品サポート (Gold およびシルバーメンバー) を使用できます。 
 
@@ -73,7 +74,7 @@ Microsoft Partner Network のメンバーシップの一部として、パート
 
 すべてのユーザーアカウント (AAD または MSA) は、アクセス ID と契約 ID を持っている場合、オンプレミス製品のテクニカルサポートを利用できます。
 
-[ [ビジネス向けサポート](https://support.serviceshub.microsoft.com/supportforbusiness/create) ] をクリックして、オンプレミス製品のサポートリクエストを作成します。
+オンプレミス製品のサポートリクエストを作成するには、[ [ビジネス向けサポート](https://support.serviceshub.microsoft.com/supportforbusiness/create) ] を選択します。
 
 ## <a name="signature-cloud-support-cloud-only"></a>署名クラウドのサポート (クラウドのみ)
 
@@ -83,13 +84,13 @@ Gold またはシルバーコンピテンシーパートナーは、クラウド
 
 Azure 要求を作成する CSP パートナーは、サポート契約を追加せずに "Cloud Solution Provider" サポートプランを使用できます。
 
-**管理エージェント** ロールを持つユーザーは、左側のナビゲーションメニューで [CSP] の下にある [顧客](https://partner.microsoft.com/commerce/customers/list)を選択し、[**サービス管理**] を選択して、[**新しい要求**] をクリックします。  関連するワークロードを選択すると、ワークロード固有のポータルが開き、サポート契約を追加して要求を作成します。
+**管理エージェント** ロールを持つユーザーは、左側のナビゲーションメニューで [CSP] の下にある [顧客](https://partner.microsoft.com/commerce/customers/list)を選択し、[**サービス管理**] を選択して、[**新しい要求**] を選択できます。  関連するワークロードを選択すると、ワークロード固有のポータルが開き、サポート契約を追加して要求を作成します。
 
 ## <a name="partner-support-plans"></a>パートナーサポートプラン
 
 マイクロソフトから有償サポートを受けることができます。これには、テクニカルサポートと、その他のさまざまなサービスオプションが含まれます。 
 
-パートナー固有のプランについては、 [パートナーサポートプランを比較](https://partner.microsoft.com/support/partnersupport) するか、以下を参照してください。
+パートナーの [サポートプランを比較](https://partner.microsoft.com/support/partnersupport) することも、以下のパートナー固有のプランを参照することもできます。
 
 - [パートナー向けの Premier サポート](https://partner.microsoft.com/support/microsoft-services-premier-support) -Microsoft のテクニカルサポートのトップレベル
 - [パートナー向けの高度なサポート](https://partner.microsoft.com/support/advanced-cloud-support) -クラウド製品のみ

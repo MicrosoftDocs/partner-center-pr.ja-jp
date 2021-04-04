@@ -9,24 +9,23 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322119"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132266"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>複数のパートナーと協力したいお客様のためのマルチパートナーサポート
 
 **適用対象**
 
-- パートナー センター
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+- Microsoft Government cloud のパートナーセンター
 
 **適切なロール**
 
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 販売代理店
 
 パートナーセンターのマルチパートナー機能は、顧客が複数のパートナーと協力したい場合のシナリオをサポートします。 たとえば、お客様は Office 365 の専門知識を持つパートナーに依頼し、さらに Microsoft Azure を専門とする別のパートナーに依頼することができます。
@@ -46,4 +45,4 @@ Azure CSP テナントには、別の CSP パートナーからの追加の Azur
 - サブスクリプションの指名パートナーの変更
 
 > [!IMPORTANT]  
-> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 この制限は、CSP 取引の実行に使用されるテナントにのみ適用されます。 Csp 以外のテナントを企業内で使用する場合、csp パートナーは別の CSP パートナーからオンラインサービスを購入できます。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](announcements/index.md)など、通常の伝達方法でお知らせします。
+> CSP プログラムのパートナーは、現在、CSP プログラムの別のパートナーにオンライン サービスを再販することはできません。 この制限は、CSP 取引の実行に使用されるテナントにのみ適用されます。 自社の社内向けに CSP 以外のテナントを使用する CSP パートナーは、別の CSP パートナーからオンライン サービスを購入できます。 Microsoft では、すべてのプログラムのポリシーと機能を継続的に見直してています。 機能のリリースやポリシーの変更に関するすべての新情報は、[パートナー センターのお知らせ](announcements/index.md)など、通常の伝達方法でお知らせします。

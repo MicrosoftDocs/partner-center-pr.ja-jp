@@ -1,21 +1,22 @@
 ---
 title: パートナーセンターでの有料
-description: 商用 marketplace プラン、インセンティブプログラム、クラウドソリューションプロバイダープログラムなどを通じて、Microsoft パートナーとして収益の支払いを受ける方法について説明します。 支払いポリシー、支払い保留の状態、および支払いステートメントが含まれます。
-ms.service: marketplace
+description: 商用 marketplace プラン、インセンティブプログラム、クラウドソリューションプロバイダープログラムなどを通じて、Microsoft パートナーとして収益の支払いを受ける方法について説明します。 支払いポリシー、支払い保留の状態、および支払い明細が含まれます。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492451"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133082"
 ---
 # <a name="getting-paid-in-partner-center"></a>パートナーセンターでの有料
 
-**適切なロール:**
+**適切なロール**
 
 - アカウント管理者
 - グローバル管理者
@@ -38,7 +39,7 @@ ms.locfileid: "97492451"
 
 ### <a name="payout-hold-status"></a>支払い保留状態
 
-既定では、前述のように月単位で支払いを送信します。 ただし、プログラムの支払いを保持するオプションはありますが、Microsoft はお客様のアカウントへの支払いをリリースしません。 支払いを保持することを選択した場合は、 **支払い** ページに収益が記録され続けます。 ただしパートナー様によって保留状態が解除されるまでは、Microsoft からの支払いは口座に送金されません。
+既定では、前述のように月単位で支払いを送信します。 ただし、プログラムの支払いを保持することはできますが、Microsoft はお客様のアカウントへの支払いをリリースしません。 支払いを保持することを選択した場合は、 **支払い** ページに収益が記録され続けます。 ただしパートナー様によって保留状態が解除されるまでは、Microsoft からの支払いは口座に送金されません。
 
 支払いを保留にするには、右上にある [ **設定** ] 歯車アイコンを選択し、[ **アカウントの設定**] をクリックします。 左側のメニューで [ **支払いと税金** ] を選択し、[支払 **と税金のプロファイルの割り当て** ] セクションで、支払いを保留するプログラムを見つけます。 [ **支払いを保留** する] チェックボックスをオンにして、このプログラムの支払いを保持します。 支払い保留の状態はいつでも変更できますが、決定は次の月次支払いに影響します。 たとえば、4 月の支払いを保留したい場合、3 月が終わる前に支払い保留状態を **[オン]** に設定します。
 
@@ -47,11 +48,11 @@ ms.locfileid: "97492451"
 >[!Note]
 > 支払いの保留状態は、各プログラムに個別に適用されます (Microsoft Store、広告、Azure Marketplace など)。 すべてのプログラムに対して支払いを行う場合は、各プログラムで個別に支払いを行います。
 
-## <a name="payout-statements"></a>支払い明細書
+## <a name="payout-statements"></a>支払い明細
 
 支払い明細書は、取引履歴のプランやアドオンからの売上の利益を示しています。 また、支払いの詳細を表示したり、レポートを tsv 形式または csv 形式でダウンロードしたりすることもできます。 支払い明細書にアクセスする方法と、トランザクション履歴および支払いレポートの詳細については、「 [支払明細書](payout-statement.md) 」を参照してください。 さらに、 [Partner 支払い API](https://apidocs.microsoft.com/services/partnerpayouts) を使用して、支払いレポートを体系的にプルすることもできます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Partner 支払い API](https://apidocs.microsoft.com/services/partnerpayouts)
 - [支払いに関する FAQ](payout-faq.md)

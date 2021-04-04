@@ -1,22 +1,22 @@
 ---
 title: 支払いスケジュールとプロセス
 description: 支払いとトランザクションについて説明します。たとえば、商業市場やその他の取引に関する支払いスケジュールや recoupment プロセスなどです。
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756842"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086177"
 ---
 # <a name="payout-schedules-and-processes"></a>支払いスケジュールとプロセス
 
-**適切なロール:**
+**適切なロール**
 
 - アカウント管理者
 - グローバル管理者
@@ -67,13 +67,13 @@ ms.locfileid: "101756842"
 
 ## <a name="process-for-customer-non-payment"></a>顧客が未払いの場合のプロセス
 
-まれに、コマーシャル マーケットプレースでの購入の代金を Microsoft が顧客から集められないことがあります。 顧客が請求スケジュールに従って Microsoft に支払いを行わない場合は、集金プロセスが開始されます。 このプロセスには 4 か月ほどかかり、Microsoft からの通知が永続的に送られます。 このプロセスが終了しても支払いが行われない場合、Microsoft ではその資金を回収不能として損金処理します。
+まれに、コマーシャル マーケットプレースでの購入の代金を Microsoft が顧客から集められないことがあります。 顧客が請求スケジュールに従って Microsoft に支払いを行わない場合は、集金プロセスが開始されます。 このプロセスには 4 か月ほどかかり、Microsoft からの通知が永続的に送られます。 このプロセスの最後までに支払いを受けていない場合、Microsoft は資金を回収不可として書き込みます。
 
 ここで説明する支払いプロセスにより、Microsoft では、最終的に回収不能となった資金をパブリッシャー (お客様) に既に支払っている可能性があります。 そのため、こうした金額を調整するプロセスが用意されています。 (既に受け取った) 支払いが調整される可能性があるという警告を確実に受けられるように、顧客が集金プロセスの過程にあって購入代金が損金処理される可能性がある場合は通知されます。
 
 Microsoft では、次のいずれかの方法を使用して、支払い済みの代金を回収します。(1) Microsoft では、将来の支払いから未払い額を差し引く可能性があります。たとえば、支払いのうち 1,000 ドルが回収不能と判断されて損金処理された場合、1,000 ドルが回収されるまで将来の支払いが保留されます。または、(2) Microsoft では、未回収金額についてパブリッシャーに返済を要求するか、請求書を送る可能性があります。
 
-スケジュールの例を次に示します。
+次のスケジュールを例に示します。
 
 | Event | 概算の日付 * | パートナーへの表示対象 |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Microsoft では、次のいずれかの方法を使用して、支払い済み�
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>支払いが支払い受取口座に着金するまでの日数
 
-通常、毎月 15 日にその月に支払い予定の金額が送金されますが、支払いがご利用の口座に着金するまでにはさらに時間がかかります。 日数は、以下で説明するように、アカウントに使用する支払い方法によって異なります。
+通常、毎月15日の特定の月に支払いが送信されますが、支払いがアカウントに到着するまでに別の時間がかかります。 日数は、以下で説明するように、アカウントに使用する支払い方法によって異なります。
 
 > [!NOTE]
 > 次に示す曜日は概数です。支払いによっては、お客様のアカウントにより多くの時間がかかる場合があります。

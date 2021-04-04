@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712258"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103776"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP による1回限りの購入調整ファイルフィールド
 
@@ -39,7 +39,7 @@ ms.locfileid: "104712258"
 | AvailabilityId | 可用性の一意識別子。 | *DZH318Z08B80* |
 | SkuName | SKU の名前。 | *テーブル-LRS* |
 | ProductName | 製品名。 | *テーブル* |
-| ChargeType | 料金または調整 [の種類](./recon-file-charge-types.md) 。 | *[新規作成]* |
+| ChargeType | 料金または調整 [の種類](./recon-file-charge-types.md) 。 | *新規* |
 | UnitPrice | ライセンスあたりの料金。購入時の価格表に記載されています。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *0.045* |
 | Quantity | ライセンスの数。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *1* |
 | 小計 | 合計額 (税抜)。 小計は、課金対象の数量と有効な単価を乗算した値と同じである必要があります。 | *0* |
@@ -51,8 +51,8 @@ ms.locfileid: "104712258"
 | PublisherId | パートナーセンターが発行元を識別するために使用する一意の識別子。 | *NA* |
 | SubscriptionDescription | 価格表で定義されている、顧客が購入したサービス プランの名前。 この列は、OfferName と同じフィールドです。 | *Azure プラン* |
 | SubscriptionId | Microsoft 請求プラットフォームでのサブスクリプションの一意識別子。 調整には使用されません。 この識別子は、パートナー管理コンソールのサブスクリプション ID と同じではないことに注意してください。 | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | パートナーセンターがサブスクリプション料金に対して料金を請求する日付。 サブスクリプションに年間請求期間と月単位の課金プランが購入されている場合は、最初の調整ファイルで、サブスクリプションが購入された日になります。 次の調整ファイルから、30日後にインクリメントされます。 | *9/1/2020* |
-| ChargeEndDate | サブスクリプションの請求サイクルに対する請求の終了日。 サブスクリプションに年間請求期間と月単位の課金プランが購入されている場合、最初の調整ファイルでは、サブスクリプションが購入されてから30日後になります。 次の調整ファイルから、30日後にインクリメントされます。 | *2020 年 9 月 30 日* |
+| ChargeStartDate | サブスクリプションの請求期間が開始された日付。 | *9/1/2020* |
+| ChargeEndDate | サブスクリプションの請求期間が終了する日付。 | *2020 年 9 月 30 日* |
 | Termandbilのサイクル | 購入時にサブスクリプションを継続するための期間コミットメント。 | *格納されたデータ (GB/月)* |
 | EffectiveUnitPrice | 請求サイクルのコストを計算するための日割り単価。 割引、請求日の調整、およびその他の要因によって、有効な単価が決まります。 詳細については、「 [有効な単価の計算](./effective-unit-price-calculation.md)」を参照してください。  | *0.03825* |
 | Unittype.pixel 単位 | メーターが課金される単位の種類。 | *1 GB/月* |

@@ -9,23 +9,20 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 064235ebdfee1e85a95908cf7a03f8e6fc676b00
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869284"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132606"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>パートナー管理センター (PAC) からパートナー センターへの移行
 
-**適用対象**
-- パートナー センター
-- パートナー管理センター
-
 **適切なロール**
+
 - グローバル管理者
 
-パートナー センターは、1 か所で Microsoft および顧客とのパートナーシップを管理できるように進化しています。 パートナー センターでは、メンバーシップ、顧客紹介、インセンティブなど、クラウド ソリューション プロバイダー (CSP) プログラムのすべての情報を管理できます。PAC で行っていた作業のほとんどはパートナー センターで実行できるようになりますが、一部の機能や操作は動作が異なります。
+パートナー センターは、1 か所で Microsoft および顧客とのパートナーシップを管理できるように進化しています。 パートナーセンターでは、メンバーシップ、顧客紹介、インセンティブ、およびクラウドソリューションプロバイダープログラム (CSP) のその他すべての側面を管理できます。 パートナーセンターでは、PAC で行った作業のほとんどを行うことができますが、一部の機能やアクションは動作が異なる場合があります。
 
 
 |**操作**   |**PAC**   |**パートナー センター**   |

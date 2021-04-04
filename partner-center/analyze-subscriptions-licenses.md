@@ -8,13 +8,13 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.date: 07/08/2020
-ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.date: 03/31/2021
+ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474089"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103793"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>サブスクリプションとライセンスを分析して、ビジネス上の意思決定や新しい目標を促進
 
@@ -28,6 +28,10 @@ ms.locfileid: "96474089"
 データはビジネス上の意思決定を促進します。 [ **サブスクリプションとライセンス分析** ] ページのメトリックを使用して、さらに注意が必要な成功と領域を特定します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 
 **CSP TTM 収益 (米国ドル)**: このメトリックは、この csp アカウントが関連付けられているパートナーの場所アカウントとパートナーのグローバルアカウント (PGA) の末尾の12か月 (ttm) に対して請求される、集計された csp を表します。 別の PGA がある他の CSP アカウントがある場合は、それぞれにサインインして、対応する集計された TTM 収益を確認する必要があります。  [Download details] \ (ダウンロードの詳細 \) リンクをクリックすると、MPN ID ごとの TTM 収益 (USD) の内訳が表示されます。
+
+>[!NOTE]
+>商用の現地通貨料金 (レガシコマース FX) は、米ドルの +/-5% 以内に管理されます。 従来のコマース販売率 (FX) は、最新のコマースエクスペリエンスで Azure によって使用される請求 FX の料金とは異なります。 最新のコマース請求 FX 料金は、Microsoft P&L 料金 (Reuters FX レート from 財務省 feed) に基づいています。 従来のコマース FX 料金は Microsoft 社外秘です。
+
 
 レポートの残りの部分は、次の製品に基づいてピボットできます。
 
@@ -82,6 +86,8 @@ ms.locfileid: "96474089"
 **30 日以内に終了する試用版サブスクリプション**  
 
  - 開始されたが、終了日が 30 日以内であり、有料版の開始日がサブスクリプションに関連付けられていない試用版の一覧  
+
+
 
 ## <a name="next-steps"></a>次のステップ
 

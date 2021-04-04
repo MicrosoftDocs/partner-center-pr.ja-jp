@@ -1,19 +1,19 @@
 ---
 title: 携帯電話会社の請求-Microsoft Store
 description: Microsoft Store は、この機能をサポートするモバイルオペレーターの支払い方法として携帯電話の課金を提供します。
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, 携帯電話会社, 携帯電話への課金, 携帯電話会社による課金
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335693"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178818"
 ---
 # <a name="mobile-operator-billing"></a>携帯電話会社による課金
 
@@ -35,17 +35,19 @@ Microsoft Store では、Windows 10 を実行するデバイス、Windows 10 Mob
 | オーストリア              | A1 テレ、Hutchison 3G オーストリア、T-Mobile/テレ  |
 | ベルギー              | Base、Proximus                                          |
 | Canada               | Telus                                                   |
-| チェコ              | T-Mobile                                                |
+| チェコ              | T-Mobile、Vodafone、O2                                  |
 | デンマーク              | 3、TDC / YouSee、Telenor、Telia                         |
 | フィンランド              | DNA、Elisa                                              |
 | フランス               | オレンジ                                                  |
 | ドイツ              | O2、テレ (Vodafone)、                       |
 | ハンガリー              | Telenor                                                 |
-| イタリア                | Tre、風力                                               |
+| イタリア                | Tre、風力、Vodafone                                     |
+| 韓国                | SK Telecom                                              |
 | マレーシア             | Digi                                                    |
-| オランダ          | /Telfort                                           |
+| オランダ          | Vodafone n/Telfort、                                 |
 | ノルウェー               | Telenor/Talkmore、Telia/OneCall                     |
-| ポーランド               | オレンジ、再生                                            |
+| ポーランド               | オレンジ色、再生、T-sql                                  |
+| サウジアラビア         | STC                                                     |
 | シンガポール            | M1 限定、StarHub                                     |
 | スロバキア             | Slovak Telekom                                          |
 | 南アフリカ         | Vodacom                                                 |
@@ -56,4 +58,4 @@ Microsoft Store では、Windows 10 を実行するデバイス、Windows 10 Mob
 | トルコ               | Turkcell                                                |
 | アラブ首長国連邦 | Etisalat                                                |
 | United States        | Sprint、Verizon                                         |
-| イギリス       | 3英国、EE、O2、Vodaphone                                 |
+| イギリス       | 3英国、EE、O2、Vodafone                                 |

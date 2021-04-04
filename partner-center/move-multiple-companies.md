@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000076"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132657"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>パートナーメンバーシップセンターからの複数の企業のパートナーセンターへの移行 (PMC)
 
 **適切なロール**
 
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 管理エージェント
 - 販売代理店
 
@@ -33,7 +33,7 @@ ms.locfileid: "91000076"
 
 移行した後、間違った会社のアカウントが法務業務として指定されていることがわかった場合は、その指定を変更できます。
 
-1. ご自身の**パートナー プロファイル**に移動します。
+1. ご自身の **パートナー プロファイル** に移動します。
 
 2. 法務業務として指定する場所が場所の一覧にあることを確認します。 ない場合は、追加します。
 
@@ -80,7 +80,7 @@ ms.locfileid: "91000076"
 
 移動するアカウントが、既存のアカウントと同じ国または地域にある場合は、その住所を使用するか、別の住所を追加するかを決めることができます。 別の住所を使用する場合は、その住所が検証されます。 同じ住所を使用する場合は、既存の住所と主要連絡先が使用されます。
 
-この画面の情報を確認/編集し、[送信] をクリックすると、アカウントが統合されます。
+この画面で情報を確認し、編集した後、[ **送信** ] を選択すると、アカウントが統合されます。
 
 ## <a name="partner-profile"></a>パートナー プロファイル
 
