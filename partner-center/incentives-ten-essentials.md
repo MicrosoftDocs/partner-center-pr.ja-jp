@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714559"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179107"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>インセンティブの使用に関する10の基本事項
-
-**適用対象**
-
-- パートナー センター
-- Microsoft Partner Network のパートナー (MPN)
 
 **適切なロール**
 
@@ -49,7 +44,7 @@ Microsoft インセンティブプログラムは、Microsoft の製品やサー
 
 ## <a name="5-review-the-incentives-faq"></a>5. インセンティブの FAQ を確認する
 
-質問をする前に、よく寄せられる質問に対する回答を得ることができます。 インセンティブ FAQ は、Microsoft サポートの情報やパートナーとの直接通信を使用して頻繁に更新されます。 FAQ については、 [こちら](incentives-faq.md)を参照してください。
+質問をする前に、よく寄せられる質問に対する回答を得ることができます。 インセンティブ FAQ は、Microsoft サポートの情報とパートナーとの直接通信を使用して頻繁に更新されます。 FAQ については、 [こちら](incentives-faq.md)を参照してください。
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. プログラムの資格を確認する
 
@@ -71,6 +66,6 @@ Microsoft のインセンティブとパートナーセンター全般に関し�
 
 上記のすべてのタスクを実行するための詳細な手順について説明します。 インセンティブセクション全体を1時間ほどで読むことができます。ほとんどの記事には 1 ~ 2 分かかります。 ヘルプの読み取りを開始するには、「 [はじめ](incentives-get-started-intro.md)に」を参照してください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [インセンティブの概要](incentives-get-started-intro.md)

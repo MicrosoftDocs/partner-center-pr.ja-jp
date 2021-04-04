@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 1b595afdba9ab9192c859c00fc35757ea2e24244
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492604"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179125"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>これらのリソースを使用してインセンティブを使い始める
-
-**適用対象**
-
-- パートナー センター
-- Microsoft Partner Network のパートナー (MPN)
 
 **適切なロール**
 
@@ -51,6 +46,6 @@ Microsoft Partner Network (MPN) のパートナーとして、顧客にサービ
 | インセンティブプログラムのすべてのデータとレポートを表示する | [インセンティブプログラムと支払いを表示する](understand-incentive-payouts.md)  |
 | プログラム固有のインセンティブ支払いページにアクセスする | [支払い明細書にアクセスする](payout-statement.md)  |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 [プログラムの適格性を確認する](incentives-determined-your-program-eligibility.md)

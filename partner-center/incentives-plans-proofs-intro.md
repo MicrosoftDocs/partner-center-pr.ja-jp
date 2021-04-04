@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714396"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179175"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>これらのリソースを使用して、インセンティブプランと実行の実験を作成してください
-
-**適用対象**
-
-- パートナー センター
-- Microsoft Partner Network のパートナー (MPN)
 
 **適切なロール**
 
@@ -53,7 +48,7 @@ ms.locfileid: "90714396"
 | インセンティブ共同要求計画を作成する方法について説明します | [プランを作成する](incentives-create-your-plan.md)  |
 実行の証明を作成する方法について説明します | [実行証明を準備する](incentives-prepare-your-proof-of-execution.md)  |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [独自のプランを作成](incentives-create-your-plan.md)する方法について説明します
 - [インセンティブ共同要求プロセス](claims-overview.md)の詳細情報

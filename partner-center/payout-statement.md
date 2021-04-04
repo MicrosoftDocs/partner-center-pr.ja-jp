@@ -1,22 +1,22 @@
 ---
 title: 支払い明細
 description: 支払いの明細書と概要、および Microsoft パートナーセンターから支払いデータを表示およびエクスポートする方法について説明します。
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549245"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087095"
 ---
 # <a name="payout-statements"></a>支払い明細
 
-**適切なロール:**
+**適切なロール**
 
 - アカウント管理者
 - グローバル管理者
@@ -73,7 +73,7 @@ ms.locfileid: "105549245"
 
 ### <a name="transaction-history-summary"></a>トランザクション履歴の概要
 
-この例では、製品の販売日、状態、および支払い月の推定期間を含む、前払いの詳細が表示されます。
+このビューには、製品の販売実績の日付、状態、および推定月を含む、前払いの詳細が表示されます。
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="トランザクションの履歴。":::
 
@@ -111,12 +111,12 @@ ms.locfileid: "105549245"
 - ルールの変更: ルールを変更すると、実際の支払い額に再計算が反映されることがある
 - [買掛金]: 支払いエラーが発生した場合、実際の金額が異なる可能性があります。
 
-お支払いは、お客様のプログラムのしきい値と支払い資格の規則が満たされている場合にのみ、予想される月にリリースされます。 これらの規則には次のようなものがありますが、以下の一覧に限定されていません。
+お支払いは、お客様のプログラムのしきい値と支払い資格の規則が満たされている場合にのみ、予想される月にリリースされます。 これらの規則は次のとおりですが、以下の一覧には含まれません。
 
 - 税金プロファイルは最新である必要があります
 - 収益は、プログラムガイドで定義されている最小の使用しきい値以上でなければなりません。
 - 保留中の支払い: プロファイルの割り当てページで [支払いを保留] オプションを選択した場合。
-- 支払い方法を利用できません: 支払いまたは税金のプロファイルが完了していません。
+- 支払い方法は使用できません: 支払いまたは税プロファイルが完了していません。
 
 ### <a name="transaction-history-download"></a>取引履歴のダウンロード
 
@@ -220,7 +220,7 @@ ms.locfileid: "105549245"
 | Co-op ロールオーバー | Co-op 所得を別の期間に転送したり、co-op 収益をリベートに変換したりする調整。 |
 | 操作の調整 | Microsoft システムの計算エラーを修正する調整。 |
 | Ops 調整 Microsoft 正しくない計算 | 間違った計算を修正する調整。 |
-| 操作の調整 Microsoft 間違った登録 | 登録に関連する誤計算の調整。 |
+| 操作の調整 Microsoft 間違った登録 | 登録関連の誤計算の調整。 |
 | パートナーマッピング (サブスクリプション) の MCI/CSP | サブスクリプションの不整合を修正する調整。 |
 | ポリシーの例外 | プログラムの規則をオーバーライドする調整。  |
 | 前の期間の利益 | 現在の獲得期間外の利益の調整。 |

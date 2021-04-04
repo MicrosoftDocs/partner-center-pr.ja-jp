@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626016"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179140"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>インセンティブプログラムにおける登録とユーザー管理
 
-**適用対象:**
-
-- パートナー センター
-
-**適切なロール:**
+**適切なロール**
 
 - インセンティブ管理者
 
@@ -45,9 +41,9 @@ ms.locfileid: "94626016"
 
 ## <a name="enrollment-process"></a>登録プロセス
 
-組織がインセンティブに適合すると、Microsoft は、資格のある MPNLocationID のインセンティブ管理者に招待を送信して、登録プロセスを開始します。 この電子メールは、 **Microsoft パートナーセンター** から送信され、 **パートナーインセンティブ登録招待** を受けます。 招待を開き、[ **開始** ] を選択します。
+組織がインセンティブに適合すると、Microsoft は、資格のある MPNLocationID のインセンティブ管理者に招待を送信して、登録プロセスを開始します。 この電子メールは、 **Microsoft パートナーセンター** から送信され、 **パートナーインセンティブ登録招待** を受けます。 招待を開き、[ **開始**] を選択します。
 
-パートナーセンターのホームページにも、招待が表示されます。 このメッセージを選択すると、再度表示することはできません。 ただし、インセンティブ管理者は、 [パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインし、左側のナビゲーションの [ **インセンティブ** ] の下にある [ **概要** ] を選択して、プロセスを完了できます。 [ **登録** ] を選択し、プログラムの支払いと税金のプロファイルを完了します。
+パートナーセンターのホームページにも、招待が表示されます。 このメッセージを選択すると、再度表示することはできません。 ただし、インセンティブ管理者は、[パートナーセンターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインし、左側のナビゲーションの [**インセンティブ**] の下にある [**概要**] を選択して、プロセスを完了できます。 [ **登録**] を選択し、プログラムの支払いと税金のプロファイルを完了します。
 
 登録に対して指定した支払いと税金プロファイルが Microsoft によって検証された場合にのみ、登録が完了したと見なされます。
 

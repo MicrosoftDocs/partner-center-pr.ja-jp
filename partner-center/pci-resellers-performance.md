@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94cf24309486628d92878e0d8d5038b45c7b85df
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 7d2331cfb1b0edf25815de0070b5668d0b91df6f
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280547"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086891"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>パートナーセンターインサイトの再販業者パフォーマンスダッシュボード
 
@@ -22,8 +22,8 @@ ms.locfileid: "89280547"
 
 - グローバル管理者
 - 管理エージェント
-- レポート ビューア
-- エグゼクティブレポートビューアー
+- レポート ビューアー
+- エグゼクティブ レポート ビューアー
 
 Partner Center Insights の再販業者パフォーマンスダッシュボードには、CSP 間接プロバイダーのさまざまな間接リセラーのパフォーマンスの概要が示されています。 ダッシュボードには、アクティブなリセラーのデータ、生成された収益の量、収益を促進している製品が表示されます。 間接プロバイダーは、リセラーのパフォーマンスダッシュボードで、特定の再販業者を名前で検索し、リセラーの詳細を参照することができます。
 
@@ -76,7 +76,7 @@ Partner Center Insights の再販業者パフォーマンスダッシュボー�
 
 ## <a name="resellers-addchurns"></a>再販業者の追加/除外
 
-このビューは、 **新しい再販業者**、 **頻繁リセラー**、および **既存の再販業者**の数を月単位で分割したものです。 
+このビューは、 **新しい再販業者**、 **頻繁リセラー**、および **既存の再販業者** の数を月単位で分割したものです。 
 
 - 新しい再販業者: 選択した日付範囲内に間接プロバイダーに新しく登録された再販業者の数。
 - 頻繁リセラー: 過去6か月間のトランザクションがない再販業者の数 (当月を除く)。
@@ -86,13 +86,13 @@ Partner Center Insights の再販業者パフォーマンスダッシュボー�
 
 ## <a name="resellers-revenue-trend"></a>再販業者の収益傾向 
 
-このビューには、請求された収益 (USD) の製品ごとの月ごとの傾向が、O365、D365、EMS、Power BI および Azure で示されます。 全体のメトリックは、毎月、さまざまな製品にわたって集計されます。 パートナーは、特定の再販業者を名前で検索し、その特定の再販業者のデータを検索できます。 グリッドで [課金収益 (USD)] フィールドは並べ替え可能です。
+このビューには、請求された収益 (USD) の製品 (O365、D365、EMS、Power BI、Azure) の月ごとの傾向が表示されます。 全体のメトリックは、毎月、さまざまな製品にわたって集計されます。 パートナーは、特定の再販業者を名前で検索し、その特定の再販業者のデータを検索できます。 グリッドで [課金収益 (USD)] フィールドは並べ替え可能です。
 
 :::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="再販業者の収益傾向":::
 
 ## <a name="reseller-performance-by-products"></a>製品別の再販業者のパフォーマンス
 
-このビューには、請求された収益、サブスクリプションの数、さまざまな製品によるライセンスの数など、月単位の主要なメトリックが分割されています。 右側にある円グラフは、さまざまな製品によってそのメトリックが分割されていることを示しています。そのため、パートナーは販売しているさまざまな製品によって分割されたものを簡単に一目で見ていきます。
+このビューでは、請求された収益、サブスクリプションの数、さまざまな製品によるライセンスの数など、月単位の主要なメトリックの分割が行われます。 右側の円グラフは、さまざまな製品によるメトリックの全体的な分割を示しています。これにより、リセラーが販売しているさまざまな製品によって分割されたものを簡単に一目で判断できます。
 
 :::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="製品別の再販業者のパフォーマンス":::
 

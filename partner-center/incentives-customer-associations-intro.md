@@ -1,6 +1,6 @@
 ---
 title: CPOR アソシエーションの概要
-description: パートナーのパートナーリソース (CPOR) モデルを使用して顧客を特定のインセンティブプログラムに関連付ける必要がある場合は、パートナーリソースについてお読みください。
+description: パートナー向けのリソース (CPOR) モデルを使用して、顧客を特定のインセンティブプログラムに関連付ける必要があるパートナー向けのリソースについて説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 6e420f4aa5353126c705c42836052d340ede6504
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 24c439d1c90663130e1676e8ceb6d503be5ea30d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714466"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179192"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>これらのリソースを使用して、特定のインセンティブプログラムに対する顧客の関連付けの要求を行う
-
-**適用対象**
-
-- パートナー センター
-- Microsoft Partner Network のパートナー (MPN)
 
 **適切なロール**
 
@@ -29,7 +24,7 @@ ms.locfileid: "90714466"
 
 この記事では、次の条件を満たす Microsoft パートナー向けのリソースを共有します。
 
-- Microsoft インセンティブプログラム: オンラインサービスアドバイザリ (OSA) によって販売されています。オンラインサービスの使用状況 (OSU)-Microsoft 365;そして、OSU-ビジネスアプリケーションインセンティブ。
+- Microsoft のインセンティブプログラムの一部であるオンラインサービスアドバイザリ (OSA) 販売、Online Services Usage (OSU)-Microsoft 365、OSU-Business アプリケーションインセンティブ。
 
 - Microsoft 365 または Dynamics 365 のお客様と協力して、上記のインセンティブプログラムでこのような作業の一部を参照または要求したいと考えています。
 
@@ -39,7 +34,7 @@ ms.locfileid: "90714466"
 
 Microsoft は、要求されたパートナーのレコード (CPOR) モデルを使用して、Microsoft 365 と Dynamics 365 の顧客との関連付けを管理するようになりました。
 
-このモデルは、次のインセンティブプログラムにおけるお客様の作業に適用されます: オンラインサービスアドバイザリ (OSA) 販売オンラインサービスの使用状況 (OSU)-Microsoft 365;そして、OSU-ビジネスアプリケーションインセンティブ。
+このモデルは、オンラインサービスアドバイザリ (OSA) 販売、Online Services Usage (OSU)-Microsoft 365、および OSU-Business アプリケーションインセンティブの各インセンティブプログラムのお客様との作業に適用されます。
 
 Microsoft はすべてのインセンティブ要求を検証します。
 
@@ -57,7 +52,7 @@ Microsoft はすべてのインセンティブ要求を検証します。
 |顧客の関連付けを管理する方法を理解する  | [顧客の関連付けを管理する](incentives-manage-customer-associations.md)  |
 |顧客の関連付けに関する問題のトラブルシューティング  | [顧客の関連付けに関する問題](incentives-customer-association-issues.md)  |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - インセンティブは初めてですか? [作業を開始](incentives-get-started-intro.md)するために必要なものを見つける
 - [インセンティブ共同要求の](claims-overview.md)詳細情報

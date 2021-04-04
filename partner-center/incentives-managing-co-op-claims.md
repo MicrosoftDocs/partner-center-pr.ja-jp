@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133152"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179158"
 ---
 # <a name="manage-incentives-co-op-claims"></a>インセンティブ共同要求の管理
 
-**適用対象:**
-
-- パートナー センター
-
-**適切なロール:**
+**適切なロール**
 
 - インセンティブ管理者
 
@@ -65,13 +61,13 @@ ms.locfileid: "93133152"
 
 1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 
-2. [ **インセンティブ** ] で、[ **共同管理** ] を選択します。
+2. [ **インセンティブ**] で、[ **共同管理**] を選択します。
 
 3. 異議を唱える協力申請を選択します。 [共同操作要求] ページが開きます。
 
 4. ページ下部にある **[Dispute]\(異議を唱える\)** を選択します。
 
-協力申請検証チームは、5 営業日以内に申請をレビューします。 その期間、状態は " **争議中** " になります。 Microsoft から追加情報を求められる場合があります。 レビューの完了時、検証チームは状態を " **承認済み** "、" **拒否** "、" **パートナー アクションが必要** " のいずれかに更新します。
+協力申請検証チームは、5 営業日以内に申請をレビューします。 その期間、状態は "**争議中**" になります。 Microsoft から追加情報を求められる場合があります。 レビューの完了時、検証チームは状態を "**承認済み**"、"**拒否**"、"**パートナー アクションが必要**" のいずれかに更新します。
 
 ## <a name="next-steps"></a>次のステップ
 

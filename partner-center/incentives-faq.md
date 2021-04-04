@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756718"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179498"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>インセンティブに関してよく寄せられる質問
 
-**適切なロール:**
+**適切なロール**
 
 - インセンティブ管理者
-
 - インセンティブ ユーザー
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>インセンティブに登録するには、グローバル管理者である必要がありますか。
@@ -71,7 +70,7 @@ MPNHQ の所在地と同じ国にいない場合、このシナリオの詳細�
 
 ロールまたはアクセス許可を変更する必要がある場合は、会社のグローバルまたはアカウント管理者にお問い合わせください。これらのユーザーについては、「 [グローバル管理者を見つける](./find-your-role.md#find-your-global-admin)」を参照してください。
 
-[概要] ページには、Azure AD テナントに関連付けられているパートナーグローバルアカウント (PGA) に関連付けられている登録のみが表示されることに注意してください。 会社に複数の PGA がある場合は、それぞれに異なる資格情報が必要になります。
+[概要] ページには、Azure AD テナントに関連付けられているパートナーグローバルアカウント (PGA) に関連付けられている登録のみが表示されます。 会社に複数の PGA がある場合は、それぞれに異なる資格情報が必要になります。
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>エラーメッセージが表示された場合、または登録プロセス中にヘルプが必要な場合は、どのユーザーに問い合わせる必要がありますか。
 

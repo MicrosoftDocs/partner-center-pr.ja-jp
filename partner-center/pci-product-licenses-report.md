@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220301"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086908"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Partner Center Insights ダッシュボードの製品ライセンスレポート
 
 **適切なロール**
+
 - グローバル管理者
 - 管理エージェント
-- レポート ビューア
-- エグゼクティブレポートビューアー
+- レポート ビューアー
+- エグゼクティブ レポート ビューアー
 
-製品ライセンスレポートには、O365、Dynamics、M365、Power BI などのライセンスベースのクラウド製品のライセンス分析が示されます。ここに表示される Analytics は、お客様が販売した、または顧客が管理するライセンスの使用に関連付けられています。 製品ライセンスレポートでは、次のセクションを表示できます。
+製品ライセンスレポートには、Office 365、Dynamics、Microsoft 365、Power BI などのライセンスベースのクラウド製品のライセンス分析が表示されます。 ここに表示される Analytics は、お客様が販売した、または顧客が管理するライセンスの使用に関連付けられています。 製品ライセンスレポートでは、次のセクションを表示できます。
 
 - まとめ
 - ライセンスの地理的拡散
@@ -36,14 +37,14 @@ ms.locfileid: "89220301"
 
 ## <a name="summary"></a>まとめ
 
-[概要] セクションには、販売、デプロイ、使用されているクラウド製品ライセンスに関連付けられている主要業績評価指標 (Kpi) のスナップショットビューが表示されます。 これは、顧客に販売されたライセンスに対するアクティブな使用状況を追跡するのに役立ちます。
+[概要] セクションには、販売、デプロイ、および使用されたクラウド製品ライセンスに関連付けられている主要業績評価指標 (Kpi) のスナップショットビューが表示されます。 これは、顧客に販売されたライセンスに対するアクティブな使用状況を追跡するのに役立ちます。
 
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="ライセンスレポートの概要":::
 
 概要の各セクションの詳細については、以下を参照してください。
 
 - Licenses: 
-  - O365、Dynamics、M365、Power BI などのライセンスベースのクラウド製品で販売または管理されているすべてのライセンスの現在の数。
+  - Office 365、Dynamics、Microsoft 365、Power BI などのライセンスベースのクラウド製品で販売または管理されているすべてのライセンスの現在の数。
   - 選択した日付範囲に対するこれらのライセンスの増加率または減少率。
   - ライセンストレンドマイクログラフ: 選択した日付範囲内のライセンス数の月ごとの傾向を示すマイクログラフ
 
@@ -83,7 +84,7 @@ X 軸は、選択した日付範囲の月を表します。 Y 軸は、追加さ
 
 :::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="ライセンスの配布":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
 

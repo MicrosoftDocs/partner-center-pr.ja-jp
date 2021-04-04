@@ -8,20 +8,21 @@ description: お客様にとって、お客様のために販売または管理�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d8755cadf7b572972c5abe1483ff6f0be98a1eb8
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146692"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086925"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能な Dynamics usage レポート
 
 **適切なロール**
+
 - グローバル管理者
 - 管理エージェント
-- レポート ビューア
-- エグゼクティブレポートビューアー
+- レポート ビューアー
+- エグゼクティブ レポート ビューアー
 
 Dynamics usage レポートには、顧客が販売または管理している Dynamics 365 サブスクリプションの使用状況データが表示されます。 Dynamics の使用状況レポートでは、次のセクションを表示できます。
 

@@ -1,28 +1,28 @@
 ---
 title: 支払いと税金のプロファイルの FAQ
 description: パートナーセンターでの支払いと税金の詳細についてよく寄せられる質問への回答を得ます。 収益が予想と異なる理由についての回答が含まれています。
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247648"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087044"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>支払いと税金に関してよく寄せられる質問
 
-**適切なロール**:
+**適切なロール**
 
 - アカウント管理者
 - グローバル管理者
 - インセンティブ管理者
 
-この記事では、パートナーセンターでの支払いと税金の詳細についてよく寄せられる質問に回答します。説明されているトピックには、支払いのタイミング、収益の適格性の確認、支払いと税金のプロファイルを正しく設定することの重要性が含まれます。
+この記事では、パートナーセンターでの支払いと税金の詳細についてよく寄せられる質問に回答します。 対象となるのは、支払いのタイミング、収益の適格性の確認、および支払いと税金のプロファイルを正しく設定することの重要性です。
 
 ## <a name="profile-management"></a>プロファイル管理
 
@@ -40,9 +40,9 @@ ms.locfileid: "102247648"
 
 適切なアクセス許可を持っていないか、これらのアクセス許可を持たないアカウントでログインしている可能性があります。 たとえば、MPN の場所のインセンティブ管理者だけが、支払いと税金のプロファイルを作成または管理できます。 銀行と税金のアクセス許可の管理については、組織の管理者に問い合わせてください。
 
-#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみサインインでき @onmicrosoft.com ます。 どうすればよいですか。
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>自分のドメインでのみサインインでき @onmicrosoft.com ます。   どうすればいいですか。
 
-ドメインを AAD アカウントに追加するには、アカウント管理者に連絡してください。
+AAD アカウントにドメインを追加するには、アカウント管理者に連絡してください。
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>組織は複数のプログラムに参加しています。 支払いと税金のプロファイルを何度も入力する必要がありますか。
 
@@ -61,7 +61,7 @@ MPN の場所に対して作成された税プロファイルは再利用され�
 
 この情報を編集するアクセス許可を持つインセンティブ管理者の役割が、適切な従業員にのみ与えられるようにすることは、会社の責任です。
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>税金プロファイルの有効期限が切れています。 これをどのように修正すればよいですか?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>税金プロファイルの有効期限が切れています。 更新プログラムを修正操作方法には、
 
 税金のプロファイルの有効期限が切れた場合、または期限切れになった場合は、Microsoft に提供した税金の形式を更新する必要があります。 次の手順を使用して、税金プロファイルを更新します。
 
@@ -83,7 +83,7 @@ MPN の場所に対して作成された税プロファイルは再利用され�
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>予想とは異なる収入があるのはなぜですか。
 
 - お客様によって注文が部分的に支払われた場合、料金と適切な税金を差し引いた額が部分的に支払われます。
-- 国別の税金の責任を確認します。 Microsoft が納税義務を負う国の場合、Microsoft が発行元の収益から税金を控除して徴収します。 明細書に表示されている取引金額は、税引後の金額です。 「[税の詳細](tax-details-marketplace.md)」を参照してください。
+- 国別の税金の責任を確認します。 税金がマイクロソフトによって担当される国では、Microsoft は発行元の利益から税金を徴収し、deducts します。 明細書に表示されている取引金額は、税引後の金額です。 「[税の詳細](tax-details-marketplace.md)」を参照してください。
 - SaaS と IaaS のプランでは、standard 20% ではなく10% の割引機関の料金が発生し、収益率は90% になります。 このキャンペーンは 2021 年 6 月 30 日まで有効です。
 
 **参考資料**:[商業市場発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、支払い [ポリシーの詳細](payout-policy-details.md)、[支払いのしきい値、方法、期間](payment-thresholds-methods-timeframes.md)、[支払い、](marketplace-get-paid.md)[税金の詳細](tax-details-marketplace.md)、[支払い明細書](payout-statement.md)
@@ -113,7 +113,7 @@ MPN の場所に対して作成された税プロファイルは再利用され�
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>アカウントで支払いを受けないように設定操作方法ますか?
-支払いは、支払い [プロファイル](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)に保持できます。単に **ホールド** をチェックします。 マイクロソフトは、保留を解除するまでお支払いをお待ちしています。
+支払いは、支払い [プロファイル](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)に保持できます。 これを行うには **、保留をオンに** します。 Microsoft は、保留を解除するまで支払いを保持します。
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>購入通貨とは異なる通貨で受け取るのはなぜですか?
 
@@ -121,7 +121,7 @@ MPN の場所に対して作成された税プロファイルは再利用され�
 
 #### <a name="how-do-i-reconcile-adjustments"></a>調整を行うにはどうすればよいですか?
 
-支払いの調整は、システムの問題などの補償的な調整に対応するための支払いの修正です。 支払い明細では、ReasonCode によって調整の理由が指定されます。 これらは個々のトランザクションを直接調整するためのものではありません。
+支払いの調整は、システムの問題などの補償的な調整に対応するための支払いの修正です。 支払いステートメントでは、理由コードによって調整の理由が指定されます。 これらは、個々のトランザクションに直接調整することを意図したものではありません。
 
 **参考資料**: [市販の Marketplace 発行者契約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支払いポリシーの詳細](payout-policy-details.md)、 [税金の詳細](tax-details-marketplace.md)、 [支払いのしきい値、方法、時間枠](payment-thresholds-methods-timeframes.md)
 
@@ -199,7 +199,7 @@ MPN の場所に対して作成された税プロファイルは再利用され�
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>現在の代理店手数料と支払いレートを確認するにはどうすればよいですか?
 
-- コマーシャル マーケットプレースの発行元契約を確認します。 標準の代理店手数料は 20% です。 SaaS Co-Sell 適格なトランザクションには、10% の割引料金が適用されます。 代理店手数料のプロモーションの通知がないか確認してください。
+- コマーシャル マーケットプレースの発行元契約を確認します。 標準の代理店手数料は 20% です。 SaaS 共同販売の対象となるトランザクションには、10% の割引料金が適用されます。 代理店手数料のプロモーションの通知がないか確認してください。
 - 支払い明細では、指定されたトランザクションの実際の支払い率を指定します。
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>明細に収益が表示されたら、Microsoft からの支払い予定はいつですか?

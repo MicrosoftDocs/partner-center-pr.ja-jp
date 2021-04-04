@@ -8,20 +8,21 @@ description: お客様のお客様向けに販売または管理しているチ�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146684"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086721"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能なチームの使用状況レポート
 
 **適切なロール**
+
 - グローバル管理者
 - 管理エージェント
-- レポート ビューア
-- エグゼクティブレポートビューアー
+- レポート ビューアー
+- エグゼクティブ レポート ビューアー
 
 チームの使用状況レポートには、顧客が販売または管理しているチームワークロードに関連するメトリックが示されます。 次のセクションは、Teams の使用状況レポートで確認できます。
 
@@ -51,19 +52,19 @@ ms.locfileid: "98146684"
 
 ## <a name="conversations-trend"></a>メッセージ交換の傾向
 
-会話の傾向は、チームの会議、通話、および電話システムの月ごとの傾向を、平均ミーティング期間 (分単位) と共に示しています。
+メッセージ交換の傾向レポートには、チームの会議、通話、および電話システムの月ごとの傾向と、平均ミーティング期間 (分単位) が表示されます。
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="チームの使用状況のメッセージ交換の傾向":::
 
 ## <a name="teams-usage-by-workloads"></a>ワークロード別のチームの使用状況
 
-ワークロードによるチームの使用量は、ワークロードごとに分割されたチームのデスクトップ、モバイル、および web ユーザーの月間分割を表します。
+ワークロード別のチームの使用状況レポートには、ワークロード別に分割されたチームのデスクトップ、モバイル、および web ユーザーの月間分割が表示されます。
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="ワークロード別のチームの使用状況":::
 
 ## <a name="top-customers-by-usage"></a>使用量別の上位の顧客
 
-使用量が多い上位の顧客は、チームの会議、通話、電話システム、およびサードパーティのアプリの観点から上位の顧客の使用状況を表します。
+[使用量別の上位の顧客] レポートには、チームの会議、通話、および電話システムとサードパーティ製アプリの上位の顧客の使用状況が表示されます。
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="使用量別の上位の顧客":::
 

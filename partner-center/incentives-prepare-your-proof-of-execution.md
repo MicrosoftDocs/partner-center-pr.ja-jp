@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714386"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179447"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>インセンティブ (実行の実証) のドキュメントを作成して送信する
 
-**適用対象:**
-
-- パートナー センター
-
-**適切なロール:**
+**適切なロール**
 
 - インセンティブ管理者
 
@@ -39,7 +35,7 @@ ms.locfileid: "90714386"
 
 5. [ **実行の証明** ] 列で、[ **PoE の追加**] を選択します。
 
-6. [ **新しい実行の証明] ページ**で、必須フィールドを入力します。
+6. [ **新しい実行の証明] ページ** で、必須フィールドを入力します。
 
    - **名前**  Co-op 要求のフレンドリ名。
    - **日付**  実行日。 この日付は、キャンペーン開始日とキャンペーン終了日の間である必要があります。
@@ -56,7 +52,7 @@ ms.locfileid: "90714386"
 
 9. 完了したら、 **[要求の作成]** を選択します。
 
-10. **請求書と経費情報ページ**で、次の 2 つのドキュメントのいずれかをアップロードします。
+10. **請求書と経費情報ページ** で、次の 2 つのドキュメントのいずれかをアップロードします。
     - **サードパーティの請求書**  [ **サードパーティの請求書** ] フィールドで、[ **アップロードするファイルをドラッグまたは参照する**] を選択します。 請求書と必要な請求書の詳細を追加し、[ **保存**] を選択します。
     - **証明書サービスレポート**  [ **証明書サービスレポートの追加**] を選択します。 [ **証明書サービスレポートの生成** ] ページで、必要なフィールドを入力し、[ **保存**] を選択します。
 
@@ -81,6 +77,6 @@ ms.locfileid: "90714386"
    - Approved
    - 拒否
 
-## <a name="next-steps"></a>次のステップ:
+## <a name="next-steps"></a>次のステップ
 
 - [インセンティブの概要](incentives-get-started-intro.md)

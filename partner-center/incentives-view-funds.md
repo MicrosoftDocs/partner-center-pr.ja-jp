@@ -8,16 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182513"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179430"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>利用可能な獲得、要求、および残りの co-op ファンドを表示する
 
-**適切なロール:**
+**適切なロール**
 
 - インセンティブ管理者
 - インセンティブ ユーザー

@@ -9,20 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182326"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086874"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>パートナー分析情報-よく寄せられる質問
 
 **適切なロール**
+
 - レポート ビューアー
 - エグゼクティブ レポート ビューアー
 
-これは、分析情報に関連付けられたレポートを表示または表示する既知の問題に関連しています。
+この記事では、洞察に関連するレポートの表示または表示に関する既知の問題について説明します。
 
 Q) **パートナーセンターアカウントにインサイトハブが表示されません。どうすればよいですか。**
 

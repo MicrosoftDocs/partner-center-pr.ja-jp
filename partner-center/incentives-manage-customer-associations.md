@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714436"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179481"
 ---
 # <a name="manage-incentives-customer-associations"></a>インセンティブ顧客の関連付けの管理
 
-**適用対象:**
-
-- パートナー センター
-
-**適切なロール:**
+**適切なロール**
 
 - 課金管理者
 - グローバル管理者
@@ -87,7 +83,7 @@ CPOR またはアソシエーション要求が拒否された場合、拒否に
 
 CPOR またはアソシエーション要求を拒否する主な理由は3つあります。
 
-**パートナーの要求:** パートナーは、関連付けを拒否するように要求できます。 この原理は、ほとんどの場合、パートナーが間違った MPN を使用して、誤ったアクティビティ (例...) を使用して、CPOR アソシエーション要求を作成したときに使用されます。 前払いではなく収益の関連付けを選択した場合、またはお客様の使用が終了していない場合)。
+**パートナーの要求:** パートナーは、関連付けを拒否するように要求できます。 この原理は、ほとんどの場合、パートナーが間違った MPN を使用して、誤ったアクティビティ (たとえば、前払いではなく収益の関連付けを選択した) を使用して、誤要求を作成した場合、または顧客との関係がなくなった場合に使用されます。
 
 **顧客の拒否:** CPOR アソシエーション要求が正常に実行されると、その状態が [承認済み] に変わり、顧客がアソシエーションの同意を拒否できるようになります。 顧客が承認を拒否すると、その関連付けは拒否されます。
 
