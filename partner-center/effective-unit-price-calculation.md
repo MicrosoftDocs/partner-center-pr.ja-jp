@@ -1,7 +1,7 @@
 ---
 title: 有効な単価計算
 ms.topic: how-to
-ms.date: 11/10/2020
+ms.date: 04/02/2021
 description: 有効な単価とその計算方法について説明します。 この記事には、サンプル計算も含まれています。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556329"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374397"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure プランの使用の有効な単価計算
 
@@ -53,14 +53,14 @@ ms.locfileid: "96556329"
 - **有効な単価** = bcu/BC
 
 >[!NOTE]
->注: この例のメーターには価格レベルはありません。
+>この例のメーターには、価格のレベルはありません。 割引率とその他の調整における有効な単価の係数。
 
-| 日付 | BCU (課金対象の使用量単位) | BC (請求可能なコスト) | 有効な単価 |
+| Date | BCU (課金対象の使用量単位) | BC (請求可能なコスト) | 有効な単価 |
 | ------ | ----------- | ----------- | ----------- |  
 | 3-8 月 | 29 | 21.39 | 0.737586206896552 |
 | 10 ~ 8 月 | 210.950039 | 155.63 | 0.737757626107858 |
 | 25 ~ 8 月 | 555.950039 | 410.17 | 0.737782122900436 |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [請求と税金](billing.md)
