@@ -9,18 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624138"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549109"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>更新期間中にコンピテンシーと高度な専門性の MPN オファーを更新する
-
-### <a name="applies-to"></a>適用対象
-
-- パートナー センター
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>COVID-19 への対応: Microsoft Partner Network の更新
 
@@ -42,7 +38,7 @@ Microsoft は、2021 年 1 月 1 日から 2021 年 6 月 30 日までの間に�
 
 4. このオファーを利用するには、 **[メンバーシップ オファー]** に移動します。 コンピテンシーの購入または更新の状態によっては、このプロセスを完了するためにコンピテンシー料金の支払いが必要になる場合があります。
 
-延長を利用するには、ご利用のコンピテンシーの更新および料金の支払いを行うために、自分のメンバーシップをパートナー メンバーシップ センター (PMC) からパートナー センターに移動しておく必要があります。 メンバーシップを移動していない場合は、[詳細情報を確認](prepare-pmc-pc-migration.md) し、今すぐ [その移動を行ってください](https://partners.microsoft.com/partnerprogram/Welcome.aspx) 。  
+延長を利用するには、ご利用のコンピテンシーの更新および料金の支払いを行うために、自分のメンバーシップをパートナー メンバーシップ センター (PMC) からパートナー センターに移動しておく必要があります。 メンバーシップを移動していない場合は、[詳細情報を確認](prepare-pmc-pc-migration.md) し、今すぐ [移動を行ってください](https://partners.microsoft.com/partnerprogram/Welcome.aspx) 。  
 
 ## <a name="next-steps"></a>次のステップ
 

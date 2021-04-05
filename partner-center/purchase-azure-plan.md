@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 7645495e481010a92cc4f9cd95bf26f5e3783b70
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215902"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633830"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>顧客向けの Azure プランを購入して、従量課金制料金で最新の Azure サービスにアクセスする
 
 **適切なロール**
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 販売代理店
 
 Microsoft 顧客契約に基づいて顧客向けの Azure プランを購入すると、従量課金制の料金で提供される最新の Azure サービスの完全なカタログへのアクセス権が与えられます。 CSP パートナーは、Azure サービスが一般提供されたときに、そのサービスにアクセスできるようになりました。 パートナーは、1 つの Azure プランで複数の Azure サブスクリプションを持つことができます。 
@@ -79,7 +79,7 @@ Azure Reservations をアクティブな Azure プランに関連付ける必要
 >顧客がまだアクティブな Azure プランを持っていない場合は、ここで [Azure] を選択して追加します。 詳細については、「[Azure Reservations を購入する](azure-reservations-buying.md#purchase-azure-reservations)」を参照してください。
 
 >[!Note]
->現時点では、予約のスコープに設定できるのは、現在のパートナー センターの **[共有]** のみです。 1 つのサブスクリプション スコープを選択する場合、または共有から 1 つサブスクリプション スコープに更新する場合は、次の手順に従って、**Microsoft Azure の管理ポータル** にアクセスします。 
+>現時点では、予約のスコープに設定できるのは、現在のパートナー センターの **[共有]** のみです。 1 つのサブスクリプション スコープを選択する場合、または共有スコープから 1 つサブスクリプション スコープに更新する場合は、次の手順に従って、**Microsoft Azure の管理ポータル** に移動します。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共有スコープの予約設定":::
 

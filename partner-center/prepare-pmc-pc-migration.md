@@ -9,18 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999986"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633881"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Partner Membership Center (PMC) からパートナー センターへの移行を準備する
 
 **適切なロール**
+
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 販売代理店
 - 管理エージェント
 
@@ -158,7 +159,7 @@ PMC から移行する MCP の関連付けに変更はありません。 ただ�
 
 ### <a name="how-will-referrals-be-assigned-what-changes-can-i-expect-for-example-if-i-have-a-global-company-in-one-market-and-locations-in-other-markets-how-will-referrals-be-assigned"></a>紹介はどのように割り当てられ、どのような変化を期待できますか? たとえば、ある市場に 1 つのグローバルな会社を持ち、その他の市場に複数の拠点がある場合、紹介はどのように割り当てられますか?
 
-紹介は、顧客が定義する検索パラメーターに基づいて割り当てられます。 持っている場所が 1 つか複数かには関係なく、顧客が目的の場所を指定し、そこに他のパラメーターを満たすビジネスがある場合、紹介はその場所に割り当てられます。
+紹介は、顧客が定義する検索パラメーターに基づいて割り当てられます。 持っている場所が 1 つか複数かには関係なく、顧客が目的の場所を指定し、そこに他のパラメーターを満たす取引がある場合、紹介はその場所に割り当てられます。
 
 ### <a name="i-am-migrating-to-partner-center-from-within-russia-i-get-an-error-message-about-web-direct-how-do-i-continue-with-the-migration"></a>ロシア国内から、パートナー センターに移行しようとしています。 Web Direct についてのエラー メッセージが表示されるのですが、 どうすれば移行を続行できますか?
 
