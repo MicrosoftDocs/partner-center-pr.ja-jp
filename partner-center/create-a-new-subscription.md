@@ -4,25 +4,23 @@ ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft が発行した製品や、サードパーティの Isv によって発行された SaaS 製品に対して顧客のサブスクリプションを販売する方法について説明します。
+description: Microsoft によって発行された製品や、サードパーティの Isv によって発行された SaaS 製品について、顧客にサブスクリプションを販売する方法について説明します。
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038882"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502937"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>顧客のサブスクリプションの作成、中断、取り消し
 
 **適用対象**
 
-- パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
-- CSP パートナー
 
 **適切なロール**
 
@@ -32,7 +30,7 @@ ms.locfileid: "96038882"
 - ヘルプデスク エージェント
 - 販売代理店
 
-パートナー センターで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。 これには、Microsoft によって発行された製品と、サードパーティ製の独立系ソフトウェアベンダー (Isv) によって [商用マーケットプレース](https://azuremarketplace.microsoft.com/marketplace)に発行されたサービスとしてのソフトウェア (SaaS) 製品が含まれます。
+パートナー センターで顧客のレコードを作成したら、カタログ内の製品へのサブスクリプションを販売できます。 これには、Microsoft によって発行された製品と、サードパーティ製の Isv (独立系ソフトウェアベンダー) によって発行されたサービスとしてのソフトウェア (SaaS) 製品が含ま[れます。](https://azuremarketplace.microsoft.com/marketplace)
 
 一部のプランは、顧客ごとに1つのサブスクリプションに限定されます。 制限のあるオファーの一覧を確認するには、パートナー センターの [料金とプラン] ページをご覧ください。
 
@@ -80,7 +78,7 @@ ms.locfileid: "96038882"
    
 ## <a name="update-subscriptions-with-add-ons"></a>アドオンでサブスクリプションを更新する 
 
-アドオンを購入するには、まずお客様にアクティブなベース サブスクリプションが必要です。  カタログを通じてアドオンを購入することはできません。
+アドオンを購入するには、まず、顧客がアクティブな基本サブスクリプションを持っている必要があります。  カタログを通じてアドオンを購入することはできません。
 
 1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
@@ -93,7 +91,7 @@ ms.locfileid: "96038882"
 5. 必要なアドオンごとにライセンスの数を更新します。 次に、変更内容を **送信** します。
 
 パートナーセンターを通じてアドオンを購入する機能は、直接請求と間接プロバイダーにのみ提供されます。
-基本要件と使用可能なリージョンに基づいて、対象となるアドオンのみが表示されます。 価格とオファーの詳細については、クラウド リセラー オファーのマトリックスを参照してください。  ベース サブスクリプションを中断すると、関連するすべてのアドオンも中断されます。
+基本要件と使用可能なリージョンに基づいて、対象となるアドオンのみが表示されます。 価格とプランの詳細については、クラウドリセラープランのマトリックスを参照してください。 ベース サブスクリプションを中断すると、関連するすべてのアドオンも中断されます。
 
 アドオンの開始日はベース サブスクリプションに合わせられ、料金は最初の請求書において請求開始日から請求終了日の対する比例配分で計算されます。 詳細については、「 [ライセンスベースの課金](license-based-billing.md)」を参照してください。
 
@@ -174,7 +172,7 @@ ISV 発行元から取得したライセンスベースの SaaS サブスクリ�
 
 6. **[Submit]\(送信\)** をクリックします。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [顧客のために商用マーケットプレースの製品を購入する](csp-commercial-marketplace-purchase.md)
 

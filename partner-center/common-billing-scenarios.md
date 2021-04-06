@@ -9,18 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dcac190570d42fa165d33226c3ad33ec836f521b
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444625"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502448"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>パートナーセンターで動作する CSP プログラムパートナー向けの一般的な課金シナリオ
-
-適用対象:
-
-- クラウドソリューションプロバイダー (CSP) プログラムの課金
 
 **適切なロール**
 
@@ -29,7 +25,7 @@ ms.locfileid: "87444625"
 - ヘルプデスク エージェント
 - 販売代理店
 
-これらのトピックでは、新しいサブスクリプションを追加した後、サブスクリプションにライセンス数を調整した後、またはサブスクリプションをキャンセルした後に請求書に表示される内容について説明します。 使用量ベースおよびライセンスベースのサブスクリプションなど、その他の[パートナーセンターの課金の種類](billing-different-types.md)については、異なる方法で課金されます。
+これらの記事では、新しいサブスクリプションを追加した後、サブスクリプションにライセンス数を調整した後、またはサブスクリプションをキャンセルした後に請求書に表示される内容について説明します。 使用量ベースおよびライセンスベースのサブスクリプションなど、その他の [パートナーセンターの課金の種類](billing-different-types.md)については、異なる方法で課金されます。
 
 | 課金の種類 | 対象となるシナリオ |
 | --------------- | ----------------- |
