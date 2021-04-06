@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626074"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441882"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>分析を使用してサブスクリプション収益の詳細を確認する
 
@@ -28,7 +28,7 @@ CSP ビジネスを展開する方法の計画には、顧客が Microsoft 製�
 ## <a name="access-to-the-subscription-analytics"></a>サブスクリプション分析へのアクセス
 
 1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。
-1. [パートナーセンター] メニューの [CSP] で、[ **分析** ] を選択し、[ **サブスクリプション分析** ] を選択します。
+1. [パートナーセンター] メニューの [CSP] で、[ **分析**] を選択し、[ **サブスクリプション分析**] を選択します。
 
 1. 最後の12か月の CSP 収益がページの上部に表示されます
 
@@ -36,9 +36,9 @@ CSP ビジネスを展開する方法の計画には、顧客が Microsoft 製�
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>末尾の Twelve-Month (TTM) CSP 収益
 
-12か月の末尾の CSP 収益は、パートナーのグローバルアカウントレベルで、最後のクラウドソリューションプロバイダープログラムの収益を USD 単位で表します。 データは毎月8日に更新され、前月までの12か月の売上が表示されます。 たとえば、2020年9月9日には、2019年9月から8月 8 2020 日までの間、TTM を確認することができます。
+12か月の末尾の CSP 収益は、パートナーのグローバルアカウントレベルで、最後のクラウドソリューションプロバイダープログラムの収益を USD 単位で表します。 データは毎月8月に更新され、前月までの12か月の売上が表示されます。 たとえば、2020年9月9日より、2019年9月から 8 2020 月8日までの間、TTM を確認できます。
 
-パートナーセンターに表示される収益は、固定された12か月の期間に対して計算され、より短い時間枠に変更することはできません。
+パートナーセンターに表示される収益は、12か月の固定期間に対して計算され、より短い期間に変更することはできません。
 
 取引先のアカウントレベルで収益の内訳を確認するには、次のようにします。
 
@@ -51,14 +51,14 @@ CSP ビジネスを展開する方法の計画には、顧客が Microsoft 製�
 
 画面の下半分には、サブスクリプションの概要が表示されます。 次のフィルターを使用して、必要なサブスクリプションの詳細を表示します。  
 
-1. **期間** : サブスクリプションの概要を表示することを選択できます。 
+1. **期間**: サブスクリプションの概要を表示することを選択できます。 
 
 - 30D –過去30日間
 - 3M –過去3か月間
 - 6分–過去6か月
 - 12M –過去12か月間
 
-2. **製品の種類** :
+2. **製品の種類**:
  
 - Office 365
 - Microsoft 365

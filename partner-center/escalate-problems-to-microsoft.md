@@ -9,18 +9,17 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 77695d061c9ce42f32c95abfd8475064991954f9
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545853"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441848"
 ---
-# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Microsoft に問題をエスカレートし、Microsoft のエスカレーションにより適している問題を確認します  
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Microsoft への問題のエスカレーション、および Microsoft へのエスカレーションに適した問題の見極め方  
 
 **適用対象**
 
-- パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
@@ -48,7 +47,7 @@ ms.locfileid: "87545853"
 
 1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
-2. パートナーセンターメニューから、[**顧客**] を選択し、サポートを必要とする顧客を選択します。
+2. パートナーセンターメニューから、[ **顧客**] を選択し、サポートを必要とする顧客を選択します。
 
 3. **[サービス管理]** を選択し、**[サービス要求]** を選択します。
 
@@ -56,7 +55,7 @@ ms.locfileid: "87545853"
 
 5. Office 365 ポータルが表示されます。ここでは、パートナー センターの資格情報を使用してサインインする必要があります。
 
-6. 左側のメニューから [**サポート**]、[**新しいサービス要求**] を選択します。
+6. 左側のメニューから [ **サポート**]、[ **新しいサービス要求** ] を選択します。
 
 7. サポート トピックを選択します。
 

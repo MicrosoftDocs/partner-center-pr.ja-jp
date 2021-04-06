@@ -9,18 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07a28e5310716f3df11caa36e51339e877e65627
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87528182"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441423"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>.Csv ファイルを作成して顧客アカウントに複数のユーザーを追加する
-
-**適用対象**
-
-- パートナー センター
 
 **適切なロール**
 
@@ -35,7 +31,7 @@ ms.locfileid: "87528182"
 - 顧客アカウントに対してグローバル管理者のアクセス許可が必要です。
 - 各ユーザーは、顧客の電子メール ドメインに追加された、一意のメール アドレスを持っている必要があります。
 - 一度に最大 100 個のレコードをアップロードすることができます。 100 を超えるユーザーを追加する必要がある場合は、追加のデータ ファイルを作成してアップロードします。
-- すべてのユーザーは、地理的に同じ**場所**にいる必要があります。
+- すべてのユーザーは、地理的に同じ **場所** にいる必要があります。
 - 次に示すデータのみを入力します。 余分なデータがあると、アップロードに失敗します。
 
 データ ファイルに、次のデータを入力します。
@@ -44,10 +40,10 @@ ms.locfileid: "87528182"
 |:-------- |:------  |:----- |
 | 名  | ユーザーの名 (オプションフィールド)  | 50 字以内  |
 | 姓  | ユーザーの姓 (省略可能なフィールド)  | 50 字以内  |
-| 表示名    | パートナー センターで表示される名前 (必須フィールド)                            | 50 字以内                         |
-| 電子メール   | 顧客会社のユーザーの勤務先の電子メールアドレス (必須フィールド)           | 各ユーザーに一意の電子メール アドレスが必要 |
-| 状態の更新   | 新しいユーザー レコードが正常に作成されたかどうかを示すために使用される | \*\*空白のままにする\*\*                        |
+| Display name    | パートナー センターで表示される名前 (必須フィールド)                            | 50 字以内                         |
+| Email   | 顧客会社のユーザーの勤務先の電子メールアドレス (必須フィールド)           | 各ユーザーに一意の電子メール アドレスが必要 |
+| 状態の更新   | 新しいユーザーレコードが正常に作成されたかどうかを示すために使用されます | \*\*空白のままにする\*\*                        |
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
-- [顧客に複数のユーザーを追加する方法](adding-multiple-users-to-a-customer-account.md)
+- [顧客に複数ユーザーを追加する方法](adding-multiple-users-to-a-customer-account.md)

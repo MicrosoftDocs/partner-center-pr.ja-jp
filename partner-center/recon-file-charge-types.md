@@ -9,18 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549228"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441600"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>パートナーセンターの調整ファイルのさまざまな料金の種類を理解する
 
 **適用対象**
 
-- Microsoft Government cloud のパートナーセンター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
 
@@ -64,7 +64,7 @@ ms.locfileid: "105549228"
 
 | 料金の説明 (調整ファイルの ChargeType 列) | 料金の説明 |
 | ------------------------------------------------------------- | ------------------ |
-| 新規作成 | 新しい購入が作成されるときに使用されます。 |
+| 新規 | 新しい購入が作成されるときに使用されます。 |
 | addQuantity | 元の購入の返金と、増加後の新しい数量の両方で使用されます。 |
 | removeQuantity | 元の購入の返金と、減少後の新しい数量の両方で使用されます。 |
 | キャンセル | サブスクリプションが取り消されたときに使用されます。 |

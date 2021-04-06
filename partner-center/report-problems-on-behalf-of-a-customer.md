@@ -9,18 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549058"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441950"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>顧客に代わってサービスの問題を報告します。その方法や方法などが含まれます。
 
 **適用対象**
 
-- Microsoft Government cloud のパートナーセンター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
 

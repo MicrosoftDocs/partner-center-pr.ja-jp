@@ -9,18 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72b4952dea16202f3a3b74a295a0c636152cb4cd
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 6f10d1266d9de0cb166580f070f3d05e8f61092b
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028221"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441605"
 ---
 # <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Microsoft からのサポート-問題をエスカレートするタイミング、報告する方法、またはサービスの正常性を確認する方法
 
 **適用対象**
 
-- Microsoft Government cloud のパートナーセンター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
 Microsoft サービスやパートナー センターで問題が発生した場合は、Microsoft にエスカレートしてサポートを依頼し、解決まで問題を追跡できます。
 

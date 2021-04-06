@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999336"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106442001"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>MPN プログラムの唯一の管理者が退職した場合の対処方法
 
-**適用対象**
+**適切なロール**
 
-- パートナー センター
+- MPN パートナー管理者
+- アカウント管理者
+- グローバル管理者
 
 次の記事では、MPN 管理者が退職した場合の対処方法に関する3つの一般的なシナリオについて説明します。
 
@@ -28,7 +30,7 @@ ms.locfileid: "90999336"
 
 この場合、会社の別のユーザーに MPN Partner admin の役割を割り当てることができます。特定の MPN Partner admin/Account Admin ロールのロールを割り当てるには、次のようにします。
 
-1. 職場アカウントを使用してパートナーセンターアカウントにサインインします (例: tom@contoso.com )。
+1. 職場アカウントを使用してパートナーセンターアカウントにサインインします (たとえば、 tom@contoso.com )。
 1. グローバル管理者の [ **ユーザー管理** ] ページフィルターを使用して、会社のグローバル管理者を確認します。 
 1. グローバル管理者のいずれかに問い合わせて、必要な MPN 固有のロールを割り当てるように依頼してください。 
 

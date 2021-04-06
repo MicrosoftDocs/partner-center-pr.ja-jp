@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.date: 04/01/2021
+ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730061"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280855"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
 パートナー センターの重要な更新についての詳細をご確認ください。 この情報は頻繁に更新されるので、定期的にチェックしてみてください。
 
-|**カテゴリ**|**2021 年 3 月のお知らせ**|**発表**|
+|**カテゴリ**|**2021 年 4 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[クラウド ソリューション プロバイダー (CSP) のお客様のオンボード要件の変更](2021-april.md#2)|4 月 2 日|
+|機能|[今月の製品発売とプランを見る](2021-april.md#1)|4 月 1 日|
+|**カテゴリ**|**2021 年 3 月のお知らせ**|**発表**|
+|機能|[更新された CSP 顧客アドレス検証 API がテスト用に利用できるようになりました](2021-march.md#18)|3 月 31 日|
 |製品サービス/モダン ワークプレース|[新しい Exchange 管理センター (EAC) エクスペリエンス](2021-march.md#17)|3 月 29 日|
 |製品サービス/モダン ワークプレース|[Microsoft Operations: 製品発表予定の概要](2021-march.md#16)|3 月 25 日|
 |機能|[CSP のお客様のオンボード要件の変更](2021-march.md#15)|3 月 25 日|

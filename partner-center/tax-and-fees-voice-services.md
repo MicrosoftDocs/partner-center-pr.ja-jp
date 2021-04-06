@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90594460"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441491"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>地域の税、公衆電話回線ネットワーク (PTSN) サービスの規制
 
-**適用対象**
-
-- パートナー センター
-- Microsoft 365 音声製品を操作する Office 365 パートナー
-
 **適切なロール**
--    グローバル管理者
--    ユーザー管理者
--    管理エージェント
+
+- グローバル管理者
+- ユーザー管理者
+- 管理エージェント
 
 一部の管轄区の公衆交換電話網 (PSTN) サービスには、パートナーの注文と請求に影響する可能性がある特別な税金および規制の要件が適用される場合があります。 米国には、オーディオ会議、通話プラン、および通信クレジットを含む PSTN サービスが含まれており、特別な税金と規制の要件が適用されます。 米国とプエルトリコでは、Microsoft は PSTN サービスを税金包括として価格を付けます。  独自の PSTN の税金と規制は、Microsoft 365 音声製品を操作する Office 365 パートナーに影響します。  パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。
 
@@ -34,7 +30,7 @@ ms.locfileid: "90594460"
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>請求書プレゼンテーションとパートナー調整ファイル
 
-米国の CSP 請求書および CSP 調整ファイル (Skype for Business PSTN と Microsoft 365 Voice サービスを含むカナダ) では、PSTN および PSTN 以外のコンポーネント用に個別の行項目が提供されます。
+米国、プエルトリコ、およびカナダの CSP 請求書と CSP 調整ファイル (Skype for Business PSTN と Microsoft 365 Voice services を含む) では、PSTN および PSTN 以外のコンポーネントに個別の行項目を提供します。
 
 さらに、CSP の請求書には次の脚注が表示されます。
 

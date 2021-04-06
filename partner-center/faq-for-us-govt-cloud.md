@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 97e7e19f54e3dd98a37409747cfac5464080c86e
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000556"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441474"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問
 
@@ -27,11 +27,11 @@ Microsoft Cloud for US Government のクラウド ソリューション プロ�
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud とは何ですか?
 
-米国政府機関向けに一から設計された政府機関向け Microsoft Cloud では、大規模な連邦機関から小さな町の行政機関まで、米国の公共部門のお客様がさまざまなクラウド コンピューティング サービスを選択できます。 Microsoft は、お客様固有のニーズに対応するために、データセンターに大幅な投資を行っており、米国連邦政府および州のポリシー、規制、および要件への準拠を評価することを専門としています。
+米国政府機関向けに一から設計された、米国政府機関向け Microsoft Cloud により、大規模な連邦機関から小さな町の行政機関まで、米国の公共部門の顧客はさまざまなクラウド コンピューティング サービスを選択できます。 Microsoft は、お客様固有のニーズに対応するために、データセンターに大幅な投資を行っており、米国連邦政府および州のポリシー、規制、および要件への準拠を評価することを専門としています。
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud の CSP プログラムには、だれが参加できますか?
 
-米国の連邦、州、地方自治体の行政機関にサービスを提供する米国内のパートナーは、Microsoft Cloud for US Government の CSP プログラム参加資格に適合します。 マイクロソフトは、パートナーが米国政府機関向け Microsoft Cloud にアクセスする前に、参加資格の決定について厳密な検証プログラムを実施しています。 参加資格を得るには、政府機関の顧客と連携して業務を行っていることを証明する必要があります。 米国政府機関向け Microsoft Cloud の CSP プログラムのサインアップ プロセスは、この検証を実行するために追加データをキャプチャするよう強化されています。 証明の種類としては、政府機関との契約番号や政府機関の顧客からの助成金証明書などがありますが、これらに限定されるわけではありません。
+米国連邦政府、州政府、地方行政機関を行政機関に提供している米国のパートナーは、米国政府向け Microsoft Cloud の CSP プログラムの対象となります。 Microsoft は、パートナーが米国政府向けに Microsoft Cloud にアクセスする前に、資格を決定するための厳格な検証プログラムを提供しています。 参加資格を得るには、政府機関の顧客と連携して業務を行っていることを証明する必要があります。 米国政府機関向け Microsoft Cloud の CSP プログラムのサインアップ プロセスは、この検証を実行するために追加データをキャプチャするよう強化されています。 証明の種類としては、政府機関との契約番号や政府機関の顧客からの助成金証明書などがありますが、これらに限定されるわけではありません。
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>顧客向けの価格設定は商用 CSP の場合と同じですか?
 
@@ -43,13 +43,13 @@ Microsoft Cloud for US Government のクラウド ソリューション プロ�
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>商用 CSP は、既存のパートナー プログラムです。 これと米国政府機関向け Microsoft Cloud の CSP プログラムは、どのように違うのですか?
 
-米国政府機関向け Microsoft Cloud の CSP プログラムは、以下の点で商用 CSP と異なります。
+米国政府向け Microsoft Cloud の CSP プログラムは、次の領域における CSP コマーシャルとは異なります。
 
-- 参加資格: 米国政府機関向け Microsoft Cloud の CSP プログラムは、米国の連邦、州、地方自治体の行政機関にサービスを提供する米国内のパートナーのみが参加できます。 マイクロソフトは、パートナーが米国政府機関向け Microsoft Cloud にアクセスする前に、参加資格の決定について検証プログラムを実施しています。
+- 資格: 米国政府向け Microsoft Cloud の CSP プログラムは、米国連邦政府、州政府、地方自治体の各機関に対して政府の能力を提供する米国のパートナーにのみご利用いただけます。 マイクロソフトは、パートナーが米国政府機関向け Microsoft Cloud にアクセスする前に、参加資格の決定について検証プログラムを実施しています。
 
 - オンボード: 米国政府機関向け Microsoft Cloud の CSP プログラムには、商用 CSP とは別のオンボードが必要です。
 
-- 製品の利用可能性: Azure Government と、Office 365、Enterprise Mobility + Security、Dynamics 365 などのライセンスベースのサービスは、Microsoft Government Cloud の CSP プログラムで利用できます。
+- 製品の利用可能性: 米国政府機関向けの Microsoft Cloud については、Azure Government とライセンスベースのサービス (Office 365、Enterprise Mobility + Security、Dynamics 365 など) の両方を CSP プログラムで利用できます。
 
 - 契約: Microsoft クラウド リセラー契約 (MCRA) が、固有の政府機関向けの条件を反映するように更新されました。
 
@@ -93,7 +93,7 @@ Microsoft Cloud ディストリビューター契約 (MCDA) は、販売代理�
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government を販売するには、どのような資格条件が必要ですか。
 
-米国政府機関向け Microsoft Cloud の CSP プログラムを販売するための資格条件は商用 CSP の資格条件と同じで、直接パートナーと間接リセラーの両方が対象です。 商用 CSP プログラムの間接リセラーとして承認されている場合は、米国政府機関向け Microsoft Cloud の CSP プログラムの間接リセラーとして再登録する必要はありません。
+米国政府向け Microsoft Cloud 用に CSP プログラムを販売するための資格基準は、CSP コマーシャルの資格基準と同じであり、直接パートナーと間接リセラーの両方に開放されています。 CSP コマーシャル向けの間接リセラーとして承認されている場合は、米国政府向け Microsoft Cloud 用の CSP プログラムの間接リセラーとして再指定する必要はありません。
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>既存のパートナーが 米国政府機関向け Microsoft Cloud の販売を行うには、何が必要ですか。
 

@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028249"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441559"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>中断されたパートナー センター アカウントを復元する - 発生する理由とその対処方法についての説明
 
@@ -22,7 +22,7 @@ ms.locfileid: "105028249"
 
 **適用対象**
 
-- Microsoft Government cloud のパートナーセンター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
 
@@ -51,7 +51,7 @@ Microsoft では、次のいずれかの理由により、パートナー セン
 
 アカウントの再アクティブ化の詳細については、 [サポート](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)にお問い合わせください。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [パートナー プロファイルを確認する](update-your-partner-profile.md)
 

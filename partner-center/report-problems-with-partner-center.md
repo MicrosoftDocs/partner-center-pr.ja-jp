@@ -9,18 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549177"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441644"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>パートナーセンターポータルの要求と診断ツール
 
 **適用対象**
 
-- Microsoft Government cloud のパートナーセンター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
 

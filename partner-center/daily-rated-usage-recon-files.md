@@ -3,22 +3,23 @@ title: 毎日評価済みの使用状況調整ファイル
 ms.topic: article
 ms.date: 06/12/2020
 description: パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。 偵察ファイルの特定のフィールドの説明が含まれています。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712241"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441899"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
 
 **適用対象**
 
-- パートナー センター
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
 **適切なロール**
@@ -79,7 +80,7 @@ ms.locfileid: "104712241"
 | PricingCurrency | 価格表の通貨。 |
 | ServiceInfo1 | 特定の日にプロビジョニングおよび使用された Service Bus 接続の数。 |
 | ServiceInfo2 | 省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールド。 |
-| タグ | ユーザーによって設定された Azure リソースの論理編成を表します。 |
+| Tags | ユーザーによって設定された Azure リソースの論理編成を表します。 |
 | AdditionalInfo: | 他の列で説明されていない任意の追加情報。 |
 | EffectiveUnitPrice | 割引、獲得したクレジットなど、ユニットごとに課金される実際の値。 |
 | PCToBCExchangeRate | 料金通貨に適用される換算レートが請求通貨に適用されます。 |

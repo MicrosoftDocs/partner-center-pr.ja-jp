@@ -9,19 +9,18 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 886c39d192316987dcb68bff4d75302cc18a1305
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028300"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441916"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について学習する
 
 **適用対象**
 
-- Microsoft Government cloud のパートナーセンター
-- Microsoft グローバルクラウドのパートナーセンター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
 
 この記事では、顧客が Microsoft Azure services を1つのクラウドソリューションプロバイダー (CSP) から別のクラウドソリューションプロバイダー (CSP) に切り替える方法について説明します。
 
@@ -106,7 +105,7 @@ ms.locfileid: "105028300"
    - [Customer detail] メニューで、[ **Service management**] を選択します。
    - [ **Microsoft Azure** で、リンクを選択して **Microsoft Azure の管理ポータル** にアクセスします。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
 
