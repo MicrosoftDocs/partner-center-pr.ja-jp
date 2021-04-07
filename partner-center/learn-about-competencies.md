@@ -9,18 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98912541"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178869"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft コンピテンシーを獲得してビジネスを差別化する
 
 **適切なロール**
+
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 
 Microsoft コンピテンシーを獲得すると、1 つまたは複数の専門のビジネス分野で、質の高いソリューション提供の実績と専門知識を証明できます。 Microsoft コンピテンシーは、パートナーが顧客のニーズに対応した能力を備え、マイクロソフト認定のソリューション プロバイダーを求める新規顧客にアピールするように支援することを目的としています。 優良な Microsoft パートナーだけに付与されるコンピテンシーを獲得することで、他社と差別化できます。
 
