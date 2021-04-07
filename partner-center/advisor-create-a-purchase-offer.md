@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474140"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557751"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>アドバイザー: 購入プランを作成する
 
  
 **適切なロール**
 
-- アドバイザー
+- Advisor
 
 
 > [!NOTE]
@@ -48,7 +48,7 @@ Office 365 の試用版への招待をクライアントに送信した後、ク
     - **ライセンス数**: サブスクリプションを選択するときに、購入プランに含めるライセンスの数を入力します。
     - **代理管理**: このオプションは、代理管理を提供することが認定されているパートナーに対してのみ使用できます。 クライアントに代理管理を提供する場合は、このオプションを選択します。 この場合、クライアントは、代理管理を承諾するかどうかにかかわらず、購入プランに同意することができます。
 
-3. **[次へ]** をクリックします。
+3. **[次へ]** を選択します。
 
 4. [ **送信** ] ページで、購入プランの情報と URL をコピーし、カスタマイズされた購入プランを作成するための電子メール、ドキュメント、または web ページに貼り付けます。
 

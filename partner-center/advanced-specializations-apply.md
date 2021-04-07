@@ -9,19 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658418"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557785"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>パートナーセンターを使用して高度な特殊化を適用し、その状態を確認する
 
 **適切なロール**
 
 - グローバル管理者
-- MPN アカウント管理者
+- アカウント管理者
 
 この記事では、パートナーセンターのダッシュボードを使用して [高度な特殊化](advanced-specializations.md)を適用し、進行状況を確認し、必要な手順と検証を完了する方法について説明します。 また、パートナーセンターを使用して、監査または顧客の参照を必要とする特定の高度な特殊化を実現する例も示します。
 

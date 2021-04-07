@@ -9,19 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658401"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557768"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>高度な特殊化を獲得して、検証済みの機能を紹介する
 
 **適切なロール**
 
 - グローバル管理者
-- MPN アカウント管理者
+- アカウント管理者
 
 Microsoft の高度な特殊化は、パートナーが獲得できる関連する [gold コンピテンシー](learn-about-competencies.md) に基づいて構築されます。 Gold コンピテンシーとそれに関連する高度な特殊化を獲得することにより、パートナーは機能を顧客にさらに差別化できます。
 
@@ -41,7 +41,7 @@ Microsoft の高度な特殊化は、パートナーが獲得できる関連す�
 - Azure
 - ビジネス アプリケーション
 - モダン作業
-- Security
+- セキュリティ
 
 **Azure** の高度な特殊化には次のものがあります。
 

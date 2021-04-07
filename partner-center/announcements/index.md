@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/02/2021
+ms.openlocfilehash: f550a1b145a4de7a6ecd13dd42241b059da55533
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280855"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374418"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "106280855"
 
 |**カテゴリ**|**2021 年 4 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[CSP での新しいコマース PDF 請求書の新しい形式](2021-april.md#3)|4 月 5 日|
 |機能|[クラウド ソリューション プロバイダー (CSP) のお客様のオンボード要件の変更](2021-april.md#2)|4 月 2 日|
 |機能|[今月の製品発売とプランを見る](2021-april.md#1)|4 月 1 日|
 |**カテゴリ**|**2021 年 3 月のお知らせ**|**発表**|

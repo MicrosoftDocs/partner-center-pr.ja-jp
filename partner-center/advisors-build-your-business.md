@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474174"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557734"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>アドバイザー: Office 365 試用版への招待と購入プランを使用して、クライアントベースを構築する
 
 
 **適切なロール**
 
-- アドバイザー
+- Advisor
 
 
 **パートナーセンター** は、認定された Microsoft advisor として、クライアントベースを拡大し、クライアントとの継続的な関係を作成する機会を提供します。 パートナーセンターでは、クライアントの試用版への招待と購入プランを送信したり、提供を承認されたサービスに応じて、委任された管理サービスを提供したりすることができます。
@@ -45,7 +45,7 @@ Office 365 を試すことができるように、顧客に送信する招待を
 > [!NOTE]
 > この機能は、サブスクリプションアドバイザーとして認められている Microsoft パートナーのみが利用できます。
 
-顧客に試用版への招待を送信したら、続いて購入プランを送信します。 顧客が必要とする特定のサービスだけでなく、適切な数のユーザーライセンスを含むように、プランをカスタマイズすることもできます。 代理管理を提供することが認定されている場合は、購入プランにオプションを追加して、顧客に代わってサブスクリプションを管理することができます。
+顧客に試用版への招待を送信したら、続いて購入プランを送信します。 プランをカスタマイズして、顧客が必要とする特定のサービスと、適切な数のユーザーライセンスを含めることができます。 代理管理を提供することが認定されている場合は、購入プランにオプションを追加して、顧客に代わってサブスクリプションを管理することができます。
 
 購入プランを作成すると、カスタム URL が作成されます。 URL には、サブスクリプションアドバイザーとしてユーザーを識別するコードが埋め込まれています。 この URL は、1人の顧客または多くの顧客に使用できます。 URL を電子メールでお客様に送信するか、web サイトに投稿してください。
 

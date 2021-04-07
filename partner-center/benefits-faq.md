@@ -9,18 +9,18 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514689"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557700"
 ---
 # <a name="benefits-faq"></a>利点に関する FAQ
 
 **適切なロール**
 
-- MPN 管理者
+- MPN パートナー管理者
 
 Microsoft Partner Network (MPN) の特典に関してよく寄せられる質問については、この記事で取り上げています。
 
@@ -79,7 +79,7 @@ Microsoft Partner Network (MPN) の特典に関してよく寄せられる質問
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>Q. Azure の一括クレジットでユーザーを割り当てるときに問題が発生しています。 どうしたらいいでしょう
 
-Azure の一括クレジットプランを他のプランと組み合わせることはできません。 ユーザーの割り当てが機能していない場合は、割り当てたいユーザーが、Microsoft マイクロソフトエンタープライズ契約、クラウドソリューションパートナー、Azure インオープンプラン、Azure Pass、Action Pack などの他のライセンス、前払い、またはクレジットプランを既に使用していることを意味します。ユーザーがこれらの契約またはプランをサブスクライブしていない場合でも、ユーザーを割り当てることができない場合は、Microsoft サポートにお問い合わせください。
+Azure の一括クレジットプランを他のプランと組み合わせることはできません。 ユーザーの割り当てが機能していない場合は、割り当てたいユーザーが、Microsoft Enterprise Agreement、クラウドソリューションパートナー、Azure インオープンプラン、Azure Pass、Action Pack などの他のライセンス、前払い、またはクレジットプランを既に使用していることを意味します。ユーザーがこれらの契約またはプランをサブスクライブしていない場合でも、ユーザーを割り当てることができない場合は、Microsoft サポートにお問い合わせください。
 
 ## <a name="visual-studio-benefits"></a>Visual Studio の利点
 

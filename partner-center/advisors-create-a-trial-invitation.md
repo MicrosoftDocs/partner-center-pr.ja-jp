@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474157"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557717"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>アドバイザー: クライアントが Office 365 を試すための試用版への招待を作成して送信する
 
 
 **適切なロール**
 
-- アドバイザー
+- Advisor
 
 > [!NOTE]
 > この機能は、サブスクリプションアドバイザーとして認められている Microsoft パートナーのみが利用できます。
@@ -44,7 +44,7 @@ Office 365 を試すことができるように、クライアントに試用版
     - **試用版サブスクリプション**: 選択できる試用版サブスクリプションの一覧は、クライアントの国または地域の利用場所によって決まります。
     - **代理管理**: このオプションは、代理管理を提供することが認定されているパートナーに対してのみ使用できます。 クライアントに代理管理を提供する場合は、このオプションを選択します。 この場合、クライアントは、代理管理を承諾するかどうかにかかわらず、試用版への招待を受け入れることができます。 代理管理の詳細については、「 [代理管理を提供](customers-revoke-admin-privileges.md)する」を参照してください。
 
-3. **[次へ]** をクリックします。
+3. **[次へ]** を選択します。
 
 4. [**試用版への招待** ] ページで、試用版への招待情報と URL をコピーし、それを電子メール、ドキュメント、または web ページに貼り付けて、カスタマイズした試用版への招待を作成します。
 
