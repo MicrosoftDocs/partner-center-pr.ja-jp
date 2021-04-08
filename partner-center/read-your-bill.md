@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215817"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964359"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>請求書と調整ファイルを理解する-パートナーセンターでそれらを検索する方法について説明します
 
@@ -28,11 +28,25 @@ ms.locfileid: "98215817"
 
 **請求書** は、**すべてのパートナーセンターの請求**(プログラム全体、すべての製品、およびすべての顧客) の概要です。 
 
+## <a name="find-your-bill-and-reconciliation-file"></a>請求書と調整ファイルの検索 
+
+請求書は、パートナーセンターのダッシュボードの [課金] ページで確認できます。 このページでは、請求履歴、支出傾向、および調整ファイルを見つけることもできます。 
+
+1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。 
+
+2. 左側のメニューで、[ **課金**] を選択します。 
+
+3. 請求の状態ページで、請求書または調整ファイルを選択して、詳細な情報を確認します。 
+
+最新の請求書へのリンクについては、最後の請求日の時点で、[アカウントの残高] の下に表示されます。 
+
+以前の請求書は、[請求履歴] セクションで確認できます。 適切な年を選択し、適切な請求期間の横にあるドロップダウン矢印を選択します。 請求書 (.pdf) の横にあるリンクを選択して、その期間の請求書をダウンロードします。 
+
 ## <a name="invoice-types"></a>請求書の種類
 
 Microsoft は、ライセンスベースの料金 (Office 365 など) と使用量ベースの料金 (Azure など) に対して1つの請求書を発行し、1回限りの料金 (Azure RI、Marketplace、Azure plan など) に対して別の請求書を発行します。
 
-たとえば、次のように入力します。  
+たとえば、  
 
 **シナリオ 1 [Single Currency]**: パートナーは145P プランと O365 ライセンスを購入しています。  
 
@@ -52,19 +66,6 @@ Microsoft は、ライセンスベースの料金 (Office 365 など) と使用�
 
 - パートナーは、EUR (またはパートナー請求通貨) で145p プランの料金をカバーする別の請求書 PDF と調整ファイルを受け取ります。 
 
-## <a name="find-your-bill"></a>請求書の検索 
-
-請求書は、パートナーセンターのダッシュボードの [課金] ページで確認できます。 このページでは、請求履歴、支出傾向、および調整ファイルを見つけることもできます。 
-
-1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。 
-
-2. 左側のメニューで、[ **課金**] を選択します。 
-
-3. [課金] ページで、ダウンロードする請求書を選択します。 
-
-最新の請求書へのリンクについては、最後の請求日の時点で、[アカウントの残高] の下に表示されます。 
-
-以前の請求書は、[請求履歴] セクションで確認できます。 適切な年を選択し、適切な請求期間の横にあるドロップダウン矢印を選択します。 請求書 (.pdf) の横にあるリンクを選択して、その期間の請求書をダウンロードします。 
 
 ## <a name="understanding-invoice-pdf"></a>請求書の PDF について 
 
@@ -94,6 +95,6 @@ Invoice PDF ドキュメントの主なフィールドの一部を次に示し�
 
  調整ファイルは、料金のドリルダウン/明細項目の詳細を提供し、請求書 PDF と共にダウンロードできます。 調整ファイルには、顧客の請求書の作成に使用できる顧客 id とサブスクリプション id が含まれています。 偵察ファイルの詳細については  [、「調整ファイルの使用方法](use-the-reconciliation-files.md) 」を参照してください。 
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [調整ファイルの使用方法](use-the-reconciliation-files.md)

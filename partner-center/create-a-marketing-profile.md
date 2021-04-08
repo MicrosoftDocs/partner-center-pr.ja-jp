@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570160"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964393"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Microsoft の見込み客情報を入手し、顧客が貴社を見つけられるようにビジネス プロファイルを作成する
 
@@ -84,16 +84,7 @@ LinkedIn 会社ページを追加すると、潜在顧客とのつながりを�
 
 検索で使用されるその他のタグ:
 
--  **コンピテンシー タグ** は、自社の能力を証明する認定資格です。
--  **推薦タグ** は、マイクロソフトによる認定または既存のお客様からの推薦によって取得できます。
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>自社の専門分野について Microsoft の推薦を得る
-
-この設定を有効にしておくことをお勧めします。 
-
-パートナー センター経由でお客様と取引して優れた成果を挙げた場合、またはその他の Microsoft 認定資格やプログラムに参加して能力を実証した場合は、その成果や能力に寄与した特定の製品、サービス、業界に、自動的に推薦が追加されます。 推薦は検索結果における重要な要素です。
-
-ただし、サービスを提供する製品との関係で、プロファイルに推薦を表示しない方が有利な場合は、このボックスをオフにすればプロファイルを手動で管理できます。 ボックスをオフにすると、推薦がお客様のビューには表示されなくなりますが、後からいつでもプロファイルに追加できます。
+- **コンピテンシー タグ** は、自社の能力を証明する認定資格です。
 
 ### <a name="customer-preferences"></a>顧客の嗜好
 
@@ -121,13 +112,12 @@ LinkedIn 会社ページを追加すると、潜在顧客とのつながりを�
 
 プロファイルを公開すると、24 時間内に [[ソリューション プロバイダーを探しています]](https://www.microsoft.com/solution-providers/home) 検索で更新情報が表示されます。
 
-## <a name="improve-the-visibility-of-your-profile"></a>プロファイルがお客様の目に留まる可能性を高めるには 
+## <a name="improve-the-visibility-of-your-profile"></a>プロファイルがお客様の目に留まる可能性を高めるには
 
 - **[要求に迅速に応答する](manage-leads.md)** 。 紹介案件についての問い合わせに迅速に対応すると、それ以降、顧客向け検索ページの検索結果表示で有利になります。
 
 - **タグを使って紹介案件を限定する**。  提供する製品やサービス、ソリューション、価値提案、確実に成果を上げられる独自の位置付けを正確に反映するタグを必要最小限に絞って使うことをお勧めします。  このように手間をかけることで、将来にわたる検索結果の向上につながります。
 - **Microsoft 経由でコンピテンシー タグを獲得する**。Microsoft 製品に関する自社の技能を示すことができます。
-- **推薦タグを獲得** する。貴社の業績を高く評価する既存のお客様から獲得できます。
 
 ## <a name="next-steps"></a>次の手順
 

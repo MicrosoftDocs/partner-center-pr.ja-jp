@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502448"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964409"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>パートナーセンターで動作する CSP プログラムパートナー向けの一般的な課金シナリオ
 
@@ -26,6 +26,22 @@ ms.locfileid: "106502448"
 - 販売代理店
 
 これらの記事では、新しいサブスクリプションを追加した後、サブスクリプションにライセンス数を調整した後、またはサブスクリプションをキャンセルした後に請求書に表示される内容について説明します。 使用量ベースおよびライセンスベースのサブスクリプションなど、その他の [パートナーセンターの課金の種類](billing-different-types.md)については、異なる方法で課金されます。
+
+
+## <a name="change-billing-frequency"></a>請求頻度の変更
+
+請求頻度は注文レベルで変更されます。頻度が変更されると、変更後の請求サイクルは、その注文内のすべてのサブスクリプションに適用されます。 
+
+顧客に代わってオンライン サービスの請求頻度を変更するには、次の操作を行います。
+
+1. [パートナー センター ダッシュボードにサインイン](https://partner.microsoft.com/dashboard/home)します。
+2. 左側のメニューで、 **[顧客]** を選択します。
+3. サブスクリプションの請求頻度を変更する顧客を選択します。
+4. 顧客の **[サブスクリプション]** ページで、変更するサブスクリプションを選択します。
+5. **[詳細]** ページの **[請求頻度]** で、 **[月単位]** または **[年単位]** を選択します。 確認ページが表示され、請求頻度の変更に関する重要な情報と、変更されるサブスクリプションの一覧を確認できます。
+6. **[OK]** を選択して変更します (元に戻す場合は、 **[キャンセル]** を選択します)。
+
+## <a name="billing-scenarios"></a>課金のシナリオ
 
 | 課金の種類 | 対象となるシナリオ |
 | --------------- | ----------------- |
