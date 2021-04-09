@@ -46,7 +46,7 @@ ms.locfileid: "106964359"
 
 Microsoft は、ライセンスベースの料金 (Office 365 など) と使用量ベースの料金 (Azure など) に対して1つの請求書を発行し、1回限りの料金 (Azure RI、Marketplace、Azure plan など) に対して別の請求書を発行します。
 
-たとえば、  
+たとえば、次のように入力します。  
 
 **シナリオ 1 [Single Currency]**: パートナーは145P プランと O365 ライセンスを購入しています。  
 
