@@ -1,31 +1,43 @@
 ---
-title: ソフトウェア アシュアランス導入計画サービス
+title: ソフトウェアアシュアランス計画サービスの提供終了
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: ソフトウェアアシュアランスをご利用のお客様にトレーニングやその他のサービスを提供できるように、Microsoft の計画サービス契約を登録して認定を受ける方法について説明します。
+description: Microsoft の計画サービスは廃止されています。
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028229"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024995"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランス計画サービス
+# <a name="software-assurance-planning-services-retirement"></a>ソフトウェアアシュアランス計画サービスの提供終了
 
 **適切なロール**
 
 - グローバル管理者
 - MPN パートナー管理者
 
-Microsoft は、承認された計画サービスパートナーとして、企業のお客様のための展開前計画を提供することを検討します。 このプログラムに参加することにより、貴社は、いっそう多くの顧客を獲得し、顧客の信頼できる計画パートナーになり、顧客エンゲージメントを追加できる可能性があります。
 
-## <a name="get-started"></a>はじめに
+計画サービスはソフトウェアアシュアランスの特典から完全に削除されていますが、お客様は引き続きパートナーと協力して、バウチャーが有効である間、契約に対してサービス日数を計画することができます。 次に、プログラムの提供終了までの重要な日付を示します。 
+
+- 2020年2月1日: サービスクラウド契約の計画は廃止されました。  
+- 2020年2月1日: トレーニング伝票は、サービス日数を計画するために変換できなくなりました。  
+- 2021年2月1日: お客様は、プランサービスの特典をご利用いただけなくなりました。 
+- 2021年6月30日: 顧客が計画サービスのバウチャーを作成/割り当てることができます。 残りのすべての計画サービス日数は、2021年7月1日に削除されます。
+- 2022年1月1日: パートナーがプランサービスのご利用分を利用するための最終日。 支払い要求プロセスを完了するには、引き換えから60日後にパートナーになります。  
+
+>[!NOTE]
+>伝票のライフサイクルに変更はありません。 伝票が作成/割り当てられた後、伝票の予約、顧客エンゲージメント、および伝票の引き換えは、180日以内に完了してから、伝票の有効期限が切れます。  サービスプログラムの提供終了の計画の詳細については、 [こちら](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) の faq で詳細を確認してください (サインインが必要)。  地域パートナーサポートチームに質問をお送りください: [EMEA パートナーサポート](mailto:savoucher@msdirectservices.com)[一般的なパートナーサポート](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>2021年6月30日まで
+
+### <a name="get-started"></a>はじめに
 
 ソフトウェアアシュアランスサービスを初めてご使用になる場合は、以下のすべての手順に従ってください。 Planning Services プログラムで既にアクティブになっている場合は、以下の手順 4 (4) で新しい契約を開始します。
 
@@ -62,8 +74,6 @@ Microsoft は、承認された計画サービスパートナーとして、企�
 
 まず、 [計画サービスプログラム](https://go.microsoft.com/fwlink/?linkid=2115984)のすべてのポリシーを確認してください。 次に、ワークフローの [手順 2](https://go.microsoft.com/fwlink/?linkid=2115983) . の指示に従って、パートナーセンターで計画サービスの登録プロセスを完了します。
 
->[!NOTE]
-> 要件を更新して、各年の Planning Services プログラムに再登録する必要があります。
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>会社のビジネスプロファイルを作成または更新する (新しいパートナー)
 
@@ -102,7 +112,7 @@ Microsoft は、承認された計画サービスパートナーとして、企�
 
 SAVB を使用して Microsoft に請求書を送信するには、ワークフローの [手順 8](https://go.microsoft.com/fwlink/?linkid=2115983) . に記載されている手順に従います。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [ソフトウェアアシュアランス計画サービスのワークフロー](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [ソフトウェアアシュアランス計画サービスに関する FAQ](https://go.microsoft.com/fwlink/?linkid=2116077)

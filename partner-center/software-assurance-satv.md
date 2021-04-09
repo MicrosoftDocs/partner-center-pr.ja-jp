@@ -1,28 +1,37 @@
 ---
-title: ソフトウェアアシュアランストレーニング伝票プログラム
+title: ソフトウェアアシュアランストレーニング伝票プログラムの提供終了
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: ソフトウェアアシュアランストレーニング伝票プログラムに登録する方法について説明します。これにより、企業のお客様にトレーニングと計画を提供するための補償を受けることができます。
+description: ソフトウェアアシュアランストレーニング伝票プログラムを終了しています。
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926604"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024978"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>パートナー センターでのソフトウェア アシュアランスのトレーニング受講券 (SATV) プログラム
+# <a name="training-vouchers-program-retirement"></a>トレーニングバウチャープログラムの提供終了
 
-ソフトウェア アシュアランス パートナー プログラムに登録することで、貴社のビジネスを拡大してください。 Microsoft は、ソフトウェア アシュアランスを所有する企業顧客向けにパートナーが行ったトレーニング、計画、その他のサービスに対して補償を提供します。
+トレーニングの受講券はソフトウェアアシュアランスの特典から完全に削除されていますが、お客様は、バウチャーが有効な間、インストラクター主導のトレーニングに引き続き伝票日をご利用いただけます。 次に、プログラムの提供終了までの重要な日付を示します。 
 
-承認されたソフトウェア アシュアランス トレーニング パートナーとして、企業顧客がソフトウェア アシュアランスで取得した受講券と引き換えに、Microsoft は技術トレーニングの提供に対する補償を行います。 このプログラムに参加すると、より多くの顧客を獲得し、その信頼されたラーニング パートナーになることができます。
+- 2020年2月1日: トレーニング伝票カタログから Azure トレーニングが廃止されました。
+- 2020年2月1日: トレーニング伝票は、サービス日数を計画するために変換できなくなりました。  
+- 2021年2月1日: お客様はトレーニング特典をご利用いただけなくなりました。 
+- 2021年6月30日: お客様がトレーニング伝票の作成/割り当てを行うことができます。 残りのトレーニング伝票日数は、2021年7月1日から削除されます。
+- 2022年1月1日: パートナーがトレーニング伝票を利用するまでの最終日。 支払い要求プロセスを完了するには、引き換えから60日後にパートナーになります。  
 
-## <a name="get-started"></a>はじめに
+>[!NOTE]
+>伝票のライフサイクルに変更はありません。 伝票が作成/割り当てられた後、伝票の予約、トレーニングセッション、および伝票の引き換えは、180日以内に完了してから、伝票の有効期限が切れます。  トレーニング伝票の提供終了の詳細については、 [こちら](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) の faq で詳細を確認してください (サインインが必要)。  詳細については、トレーニング特典の製品カタログにある「SATV のトレーニングコースの全一覧」を参照してください。  地域パートナーサポートチームに質問をお送りください: [EMEA パートナーサポート](mailto:savoucher@msdirectservices.com)[一般的なパートナーサポート](https://partner.microsoft.com/dashboard/support/servicerequests)。
+
+## <a name="until-june-30-2021"></a>2021年6月30日まで
+
+### <a name="get-started"></a>はじめに
 
 ソフトウェアアシュアランストレーニングサービスを初めてご使用になる場合は、以下のすべての手順に従ってください。 トレーニング伝票プログラムで既にアクティブになっている場合は、以下の手順 4 (4) から開始します。 
 
@@ -74,7 +83,7 @@ SATV プログラムに登録されると、パートナーが SATV 対象コー
 
 詳細については、 [FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) を参照し、「 [satv プログラムポリシー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)」を参照してください。
 
-次の用語も参照:
+関連項目:
 
 - [ソフトウェアアシュアランストレーニング伝票 (SATV) ワークフロー](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
 - [ソフトウェアアシュアランストレーニング伝票 (SATV) に関する FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
