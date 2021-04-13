@@ -9,25 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534881"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502499"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を取得する
-
-**適用対象**
-
-- パートナー センター
 
 **適切なロール**
 
 - 管理エージェント
 - 販売代理店
 
-顧客のサービスやをサブスクリプションを顧客に代わって管理するには、顧客からそのサービスについて管理者のアクセス許可を取得する必要があります。 顧客から管理者のアクセス許可を取得するには、再販業者関係の要求を顧客にメール送信します。 顧客が要求を承認すると、パートナーはサービスの管理ポータルにログオンして、顧客の代わりにサービスを管理することができます。 
+顧客のサービスやをサブスクリプションを顧客に代わって管理するには、顧客からそのサービスについて管理者のアクセス許可を取得する必要があります。 顧客から管理者のアクセス許可を取得するには、再販業者関係の要求を顧客にメール送信します。 顧客が要求を承認すると、パートナーはサービスの管理ポータルにサインインして、顧客の代わりにサービスを管理することができます。 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>貴社との再販業者関係を確立するために顧客を招待する
 

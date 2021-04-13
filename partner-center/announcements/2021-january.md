@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 9f0292efc6646e4abd85a6fab1e53ac9e139a915
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712462"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280838"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月のお知らせ
 
@@ -88,29 +88,30 @@ _____________
     -    発表フェーズ 1 が有効です 
     -    英国は EU と EFTA に含まれないが、[Microsoft のヨーロッパの地域と市場](../regional-authorization-overview.md)の一部であり、影響を受けることを明記
 
-
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> クラウド ソリューション プロバイダー (CSP) のお客様のオンボード要件の変更
 
 ### <a name="categories"></a>カテゴリ
 
-- 日付:2021 年 1 月 28 日
+- 日付: 2021 年 4 月 2 日
 - セキュリティとコンプライアンスの強化
-
-### <a name="impacted-audience"></a>対象
-
-次のセクションに記載されている国に新規または既存の顧客がいる CSP 直接請求パートナーおよび間接プロバイダー。
 
 ### <a name="summary"></a>まとめ
 
-パートナーと顧客が信頼に基づいて取引できるように支援する責任の一環として、Microsoft では 2021 年 3 月末から、追加の顧客情報を要求いたします。
+パートナーと顧客が信頼に基づいて取引できるように支援する責任の一環として、Microsoft では 2021 年 3 月 25 日から、追加の顧客情報を要求いたします。
+
+### <a name="impacted-audience"></a>対象
+
+次のセクションに記載されている国に新規または既存の顧客がいる CSP 直接請求パートナーおよび間接プロバイダー
 
 ### <a name="details"></a>詳細
 
-Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムでの顧客サブスクリプションの取引について、顧客検証のための法令に準拠した安全な手段の提供に努めています。 2021 年 3 月末に、パートナー センター API とユーザー インターフェイス (UI) の拡張機能を導入する予定です。これにより、以下の条件の両方を満たすパートナーに影響があります。
+Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムでの顧客サブスクリプションの取引について、顧客検証のための法令に準拠した安全な手段の提供に努めています。 2021 年 3 月 25 日に、パートナー センター API とユーザー インターフェイス (UI) の拡張機能を導入する予定です。これは、以下の条件の両方を満たすパートナーに影響します。
 
 1. Microsoft の間に直接請求関係があるパートナー (つまり、直接請求パートナーまたは間接プロバイダーのいずれかであるパートナー)
+
 2. パートナーは、次の国の新規または既存の顧客と取引があります:
+
     - タイ
     - ベトナム
     - トルコ
@@ -125,7 +126,9 @@ Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムでの�
     - アラブ首長国連邦
     - ベネズエラ
 
-条件を満たすパートナーは、新しい顧客をオンボードするとき、または既存の顧客の詳細を変更するときに、顧客の **有効な識別子** (顧客の **組織 INN** とも呼ばれます) と **電話番号** を提出する必要があります。 また、これらのパートナーは、必要に応じて、顧客の **ミドル ネーム** を入力することができます。
+条件を満たすパートナーは、次にその顧客のサブスクリプションを更新または作成するときに、顧客の会社登録 ID (顧客の組織 INN とも呼ばれます) と電話番号を提出する必要があります。 また、これらのパートナーは、必要に応じて、顧客のミドル ネームを入力することができます。
+
+会社登録 ID を追加する場合は、顧客の個人 ID ではなく、業務用の税 ID を使用する必要があることに注意してください。
 
 以下の国で新規または既存の顧客との取引を行っているパートナーは、先行する 2020 年 11 月のリリースで既にオンボードされています。
 
@@ -141,20 +144,32 @@ Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムでの�
 - ウクライナ
 - ウズベキスタン
 
-その他の地域の顧客と提携しているパートナーは、2021 年 3 月末に、顧客の **有効な識別子**、**電話番号**、**ミドル ネーム** を詳細情報として必要に応じて入力できるようになります。
+その他の地域の顧客と提携しているパートナーは、2021 年 3 月の終わりに、顧客の会社登録 ID、電話番号、ミドル ネームを詳細情報として必要に応じて入力できるようになります。
 
 ### <a name="next-steps"></a>次のステップ
 
-- 詳細なガイダンスについては、専用の[パートナー コレクション](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (サインインが必要) で、テクニカル ドキュメントとよく寄せられる質問を参照してください。
+- 詳細なガイダンスについては、専用の[パートナー コレクション](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)でテクニカル ドキュメントとよく寄せられる質問を参照してください。
 - パートナー センター API と Web ユーザー エクスペリエンスを使用して、変更を組み込む準備をしてください。 API または SDK はテストに使用できます。
 - 新しい顧客をオンボードする場合や、既存の顧客の詳細情報を変更する場合は、必ず追加データを提出してください。
 - コントロール パネル ベンダー (CPV) ソリューションを使用している場合は、CPV とご相談ください。
 
 ### <a name="questions"></a>わからないことがある場合は、
 
-有効な識別子 (INN または TIN とも呼ばれます) に関するご質問がある場合は、税務顧問または現地の税務署にお問い合わせください。 Microsoft では、税務に関するガイダンスを提供できません。
+会社登録 ID (INN または TIN とも呼ばれます) に関するご質問がある場合は、税務顧問または現地の税務署にお問い合わせください。 Microsoft では、税務に関するガイダンスを提供できません。
 
-Microsoft による操作にサポートが必要な場合は、[サービス要求を開きます](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (サインインが必要)。
+Microsoft との連携でサポートが必要な場合は、[サービス要求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)を開いてください。
+
+### <a name="change-log"></a>変更ログ:
+
+2020 年 12 月 17 日: 初版の公開日
+
+2021 年 1 月 28 日: 再発行。変更はありません。
+
+2021 年 4 月 2 日: 更新には次のものが含まれます。
+
+- 発表日を提供
+- 組織 INN の名称を会社登録 ID に更新
+- 会社登録 ID を明確にするための注記を追加
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft Partner Agreement (MPA) – 間接リセラーの更新および新規の FAQ 

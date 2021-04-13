@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880805"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441270"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP プログラム パートナー向け Microsoft Partner Agreement (MPA) について説明します。
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880805"
 
 Microsoft Partner Agreement では、マイクロソフト パートナーに、統一された、デジタル署名済みのパートナー契約が提供されます。 Microsoft Partner Agreement には、Microsoft、パートナー、およびお客様がデータのプライバシーとセキュリティを保護し、コンプライアンスを促進し、健全な業務手順を奨励するのに役立つ一連の永続的な条件のコア セットが含まれています。
 
-すべてのクラウド ソリューション プロバイダー プログラム パートナー (間接プロバイダー、間接リセラー、直接請求パートナーを含む) は、パートナー センターでオンラインで MPA に署名できます。 また、政府機関のクラウドを操作する直接請求パートナーと間接プロバイダー パートナーも、パートナー センター内から MPA に署名することができます。
+すべてのクラウド ソリューション プロバイダー プログラム パートナー (間接プロバイダー、間接リセラー、直接請求パートナーを含む) は、パートナー センターでオンラインで MPA に署名できます。 また、Microsoft Cloud for US Government を操作する直接請求パートナーと間接プロバイダー パートナーも、パートナー センター内から MPA に署名することができます。
 
 CSP プログラムへの参加を続けるには、2020 年 1 月 31 日までに Microsoft Partner Agreement を契約する必要があります。 パートナー センターから契約に簡単に署名できるようになったことがパートナー センターから通知されます。
 
@@ -75,7 +75,7 @@ CSP プログラムへの参加を続けるには、2020 年 1 月 31 日まで�
 1. CSP Indirect Reseller アカウントを使用して、パートナー センターにサインインします。 グローバル管理者である必要があります。
 1. **[CSP の概要](https://partner.microsoft.com/pcv/dashboard/overview)** ページに移動します。  **[同意して続行する]** または MPA が署名されていることを示す緑色のバナーが表示されない場合は、MPA に署名するための適切なロールがありません。 MPA に署名するには、グローバル管理者に連絡してください。
 
-1. 署名する前に **Microsoft Partner Agreement** を表示してダウンロードするには、次に示す Microsoft Partner Agreement のリンクをクリックします。
+1. 署名する前に **Microsoft Partner Agreement** を表示してダウンロードするには、次に示す Microsoft Partner Agreement のリンクを選択します。
 
 :::image type="content" source="images/agreement-three.png" alt-text="新しい MPA 契約の場所":::
 

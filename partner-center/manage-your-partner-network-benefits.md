@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932846"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133099"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>パートナー センターで Microsoft Partner Network メンバーシップの特典とプランを管理する
-
-**適用対象**
-
-- パートナー センター
 
 **適切なロール**
 
 - グローバル管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 管理エージェント
 - MPN パートナー管理者
 
@@ -76,7 +72,7 @@ Microsoft Partner Network (MPN) に参加すると、ビジネスの構築と成
 次のようにプロビジョニングされます。
 
 - 100 ドル/月 (または現地通貨で同等の額) の Azure 月単位クレジット
-- 6000 ドル、12000 ドル、または 13000 ドル/年 (または現地通貨でそれぞれと同等の額) の Azure 一括クレジット
+- $6,000、$12,000、または $13,000/年 (または現地通貨でそれぞれと同等の額) の Azure 一括クレジット
 
 パートナー センターで Microsoft Azure サブスクリプションをアクティブ化するには、Azure Active Directory で作成されたユーザー エントリのあるアクセス権を、社内のユーザー (ゲスト ユーザーを含む) に割り当てます。
 100 ドル/月 (または現地通貨で同等の額) の Azure 月単位クレジットの場合は、このサブスクリプションのユーザーをいつでも追加または削除できます。 
@@ -85,7 +81,7 @@ Azure 一括 (年単位) クレジットの場合は、パートナー センタ
 
 ## <a name="license-based-subscriptions"></a>ライセンスベースのサブスクリプション
 
-[Azure & Cloud Products]\(Azure とクラウドの製品\) タブのライセンスベースのサブスクリプションのセクションでは、MPN パートナーとしてアクティブになっているプランの種類 (MAPS、シルバー、ゴールド) に応じて提供される、アクティブ化にプロダクト キーが必要なすべてのクラウド製品 (Microsoft O365、Microsoft Dynamics、Microsoft Intune、Azure AD Basic、Power BI など) を確認できます。
+[Azure & クラウド製品] タブの [ライセンスベースのサブスクリプション] セクションには、ライセンス認証のためにプロダクト キーを必要とするすべてのクラウド製品が一覧表示されます。たとえば、Microsoft Office 365、Microsoft Dynamics、Microsoft Intune、Azure AD Basic、Power BI などです。 MPN パートナーとしてアクティブになっているプランの種類 (MAPS、Silver、または Gold) により、どの製品が一覧表示されるかが決まります。
 
 ライセンスベースのサブスクリプションをアクティブ化するには、対象製品の行のドロップダウン シンボルをクリックして、キーを引き換える方法についての説明を読みます。 説明を読んだら、リンクを選択してポータルに移動し、キーおよび製品に割り当てられているキーを引き換えます。
 

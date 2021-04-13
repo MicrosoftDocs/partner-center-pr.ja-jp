@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556380"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132946"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Microsoft と提携してメンバーシップ特典を獲得する
 
@@ -22,10 +22,10 @@ ms.locfileid: "96556380"
 
 - グローバル管理者
 - MPN パートナー管理者
-- ユーザー管理者
+- ユーザー管理の管理者
 - 管理エージェント
 
-Microsoft Partner Network (MPN) では、業界屈指の広範囲にわたる製品と、パートナーのビジネスの差別化、市場への投入、ソリューションの販売のためのプログラム オプションが提供されています。 コストをかけずに参加した後、Microsoft アクション パック、スタート キット、またはコンピテンシーでパートナーシップに投資する方法を選択します。
+Microsoft Partner Network (MPN) では、業界屈指の広範囲にわたる製品と、パートナーのビジネスの差別化、市場進出、ソリューションの販売のためのプログラム オプションが提供されています。 コストをかけずに参加した後、Microsoft アクション パック、スタート キット、またはコンピテンシーでパートナーシップに投資する方法を選択します。
 
 マイクロソフトのパートナー プログラムに参加すると、顧客の満足度を高め、ビジネスを成長させるために必要な、関係、インサイト、ツール、リソース、プログラムを活用できる、グローバル コミュニティの一員となります。 パートナー様がビジネス目標を達成したときは、独自のニーズに適したレベルでプログラムにご参加ください。さらに多くの特典を利用し、Microsoft やネットワーク内の他のパートナーとの関係を構築することができます。 
 

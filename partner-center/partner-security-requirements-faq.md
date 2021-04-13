@@ -9,23 +9,18 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: f2bf6823fdd976632fb8ad9c8f11ce99835d76a5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133050"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087078"
 ---
 # <a name="common-questions-about-partner-security-requirements"></a>パートナーのセキュリティ要件に関する一般的な質問
 
-**適用対象**
+**適切なロール**
 
-- パートナー センター
-
-**該当するユーザー**
-
-- ゲスト ユーザーを含むすべての有効なユーザー
-
+- すべてのパートナー センター ユーザー
 
 この記事では、[パートナーのセキュリティ要件](partner-security-requirements.md)に関する一般的な質問にお答えします。
 
@@ -53,14 +48,14 @@ Microsoft Partner Agreement では、パートナーは、ユーザー アカウ
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>パートナーのセキュリティ要件を満たしているかどうかを知るにはどうすればよいですか?
 
-次の手順を完了する必要があります。
+次の手順のようにします。
 
 - [パートナーのセキュリティ要件](partner-security-requirements.md)に概説されているすべての要件を満たす必要があります。
 - パートナー テナント内のすべてのユーザー アカウントに多要素認証を適用する必要があります。
 
 アクションを実行できる主要な領域を確認できるよう、パートナー センターから利用できる[セキュリティ要件状態レポート](https://partner.microsoft.com/commerce/security/compliance)が提供されています。
 
-状態レポートの詳細については、「[パートナー セキュリティ要件の状態](partner-security-compliance.md)」を参照してください。
+状態レポートの詳細については、[パートナー セキュリティ要件の状態に関する記事](partner-security-compliance.md)を参照してください。
 
 ## <a name="required-actions"></a>必要なアクション
 
@@ -77,7 +72,7 @@ CSP プログラムのすべてのパートナー (直接請求、間接プロ�
     - まだ行っていない場合は、間接プロバイダーは間接リセラーと協力して、パートナー センターにオンボードし、リセラーに要件を満たすよう奨励する必要があります。
     - Azure AD のセキュリティの規定値により、Azure MFA はパートナー テナントのすべてのユーザーが無料で利用できます。時間ベースのワンタイム パスワード (TOTP) をサポートする認証アプリケーションの検証方法のみが提供されます。
     - 電話やテキスト メッセージなどの他の方法が必要な場合は、[Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU により、追加の検証方法を利用できます。
-    - パートナーは、Microsoft の商用クラウド サービスにアクセスするときに、個々のアカウント単位でサードパーティの MFA ソリューションを利用することもできます。
+    - パートナーは、Microsoft の商用クラウド サービスにアクセスするときに、個々のアカウント単位でサード パーティの MFA ソリューションを使用することもできます。
 
 2. **セキュリティで保護されたアプリケーション モデル フレームワークを採用する**
 
@@ -98,7 +93,7 @@ CSP プログラムのすべてのパートナー (直接請求、間接プロ�
 
 ### <a name="what-is-multi-factor-authentication-mfa"></a>多要素認証 (MFA) とは何ですか?
 
-MFA は、ユーザーが複数の必要なセキュリティと検証の手順によって認証されるセキュリティ メカニズムです。 それは、次の認証方法のうち 2 つ以上を必須にすることで機能します。
+MFA は、複数の必要なセキュリティと検証の手順によってユーザーを認証するセキュリティ メカニズムです。 それは、次の認証方法のうち 2 つ以上を必須にすることで機能します。
 
 - ユーザーが知っている情報 (一般にパスワード)
 - ユーザーの所持品 (複製が困難な、携帯電話などの信頼されているデバイス)
@@ -106,7 +101,7 @@ MFA は、ユーザーが複数の必要なセキュリティと検証の手順�
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>MFA を有効にするとどのようなコストがかかりますか?
 
-Microsoft では、Azure AD のセキュリティの既定値を実装することによって、MFA が無料で提供されています。 このバージョンの MFA で利用できる検証オプションは、認証アプリケーションだけです。 電話呼び出しまたは SMS メッセージが必要な場合は、[Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) ライセンスを購入する必要があります。 または、サードパーティのソリューションを利用して、パートナー テナントの各ユーザーに MFA を提供することもできます。この場合、パートナーは、MFA ソリューションが適用され、準拠していることを確認する責任があります。
+Microsoft では、Azure AD のセキュリティの既定値を実装することによって、MFA が無料で提供されています。 このバージョンの MFA を使用して利用できる認証オプションは、認証アプリケーションだけです。 電話呼び出しまたは SMS メッセージが必要な場合は、[Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) ライセンスを購入する必要があります。 または、サードパーティのソリューションを利用して、パートナー テナントの各ユーザーに MFA を提供することもできます。この場合、パートナーは、MFA ソリューションが適用され、準拠していることを確認する責任があります。
 
 ### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>既に MFA ソリューションを導入している場合、どのようなアクションをとる必要がありますか?
 
@@ -145,11 +140,11 @@ Microsoft では、Azure Active Directory との互換性に関する検証テ�
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>統合サンドボックスで MFA をテストするにはどうすればよいですか?
 
-Azure AD のセキュリティの既定値機能を有効にする必要があります。または、フェデレーションを利用するサードパーティのソリューションを利用することもできます。
+Azure AD のセキュリティの既定値群の機能を有効にする必要があります。または、フェデレーションを使用するサード パーティのソリューションを使用することもできます。
 
 ### <a name="will-enabling-mfa-affect-how-i-interact-with-my-customers-tenant"></a>MFA を有効にすると、顧客のテナントとのインタラクション方法に影響がありますか?
 
-いいえ。 これらのセキュリティ要件を実現しても、顧客の管理方法には影響しません。 委任された管理操作を実行する機能は損なわれません。
+いいえ。 これらのセキュリティ要件を実現しても、顧客の管理方法には影響がありません。 委任された管理操作を実行する機能は損なわれません。
 
 ### <a name="are-my-customers-subject-to-the-partner-security-requirements"></a>パートナーの顧客は、パートナーのセキュリティ要件の対象になりますか?
 
@@ -165,7 +160,7 @@ Azure AD のセキュリティの既定値機能を有効にする必要があ�
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>緊急アクセス (非常事態用) アカウントを構成するにはどうすればよいですか?
 
-Azure AD テナントから誤ってロックアウトされることを防ぐために、1 つまたは 2 つの緊急アクセス アカウントを作成することがベスト プラクティスとして推奨されます。 パートナーのセキュリティ要件に関しては、各ユーザーが MFA を使用して認証を行う必要があります。 この要件は、緊急アクセス アカウントの定義を変更する必要があることを意味します。 MFA にサードパーティ ソリューションを利用しているアカウントでもかまいません。
+Azure AD テナントから誤ってロックアウトされることを防ぐために、1 つまたは 2 つの緊急アクセス アカウントを作成することがベスト プラクティスとして推奨されます。 パートナーのセキュリティ要件に関しては、各ユーザーが MFA を使用して認証を行う必要があります。 この要件は、緊急アクセス アカウントの定義を変更する必要があることを意味します。 MFA にサード パーティ ソリューションを使用しているアカウントでもかまいません。
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>サードパーティのソリューションを使用している場合、Active Directory フェデレーション サービス (ADFS) は必要ですか?
 
@@ -177,7 +172,7 @@ Azure AD テナントから誤ってロックアウトされることを防ぐ�
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>MFA の要件を満たすために条件付きアクセスを使用できますか?
 
-はい、条件付きアクセスを使用して、パートナー テナント内の各ユーザー (サービス アカウントを含む) に MFA を適用できます。 ただし、パートナーには高い特権が付与されている、という点を考えると、すべての単一認証について、MFA チャレンジが各ユーザーに確実に適用されるようにする必要があります。 つまり、MFA の要件を回避する条件付きアクセスの機能は利用できません。
+はい、条件付きアクセスを使用して、パートナー テナント内の各ユーザー (サービス アカウントを含む) に MFA を適用できます。 ただし、パートナーには高い特権が付与されている、という点を考えると、すべての単一認証について、MFA チャレンジが各ユーザーに確実に適用されるようにする必要があります。 つまり、MFA の要件を回避する条件付きアクセスの機能は使用できません。
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Azure AD Connect によって使用されるサービス アカウントは、パートナー セキュリティ要件の影響を受けますか?
 
@@ -187,7 +182,7 @@ Azure AD テナントから誤ってロックアウトされることを防ぐ�
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>要件を満たすには、誰がセキュリティで保護されたアプリケーションモデルを採用する必要がありますか?
 
-Microsoft では、多要素認証を利用するクラウド ソリューション プロバイダー (CSP) パートナーおよびコントロール パネル ベンダー (CPV) を認証するために、セキュリティで保護されたスケーラブルなフレームワークを導入しています。 詳細については、[セキュリティで保護されたアプリケーション モデル ガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)を参照してください。 何らかの API (Azure Resource Manager、Microsoft Graph、Partner Center API など) を使用してカスタム統合を開発したすべてのパートナー、または PowerShell などのツールを使用してカスタム自動化を実装したすべてのパートナーは、[セキュリティで保護されたアプリケーション モデル フレームワークを採用する](/partner-center/develop/enable-secure-app-model)を導入して、Microsoft クラウド サービスと統合する必要があります。
+Microsoft では、多要素認証を使用するクラウド ソリューション プロバイダー (CSP) パートナーおよびコントロール パネル ベンダー (CPV) を認証するために、セキュリティで保護されたスケーラブルなフレームワークを導入しています。 詳細については、[セキュア アプリケーション モデル ガイド](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)を参照してください。 何らかの API (Azure Resource Manager、Microsoft Graph、Partner Center API など) を使用してカスタム統合を開発したすべてのパートナー、または PowerShell などのツールを使用してカスタム自動化を実装したすべてのパートナーは、[セキュリティで保護されたアプリケーション モデル フレームワークを採用する](/partner-center/develop/enable-secure-app-model)を導入して、Microsoft クラウド サービスと統合する必要があります。
 
 ### <a name="what-is-the-secure-application-model"></a>セキュリティで保護されたアプリケーション モデルとは何ですか?
 
@@ -210,7 +205,7 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>セキュリティで保護されたアプリケーション モデルは、Partner Center API/SDK に対してのみ実装する必要がありますか?
 
-すべてのユーザー アカウントに対して多要素認証を適用すると、非対話形式での実行を目的とした自動化または統合が影響を受けます。 パートナーのセキュリティ要件では、パートナーは Partner Center API に対してセキュア アプリケーション モデルを有効にする必要がありますが、それを利用して自動化と統合で認証の 2 番目の要素の必要性に対処することができます。
+すべてのユーザー アカウントに対して多要素認証を適用すると、非対話形式での実行を目的とした自動化または統合が影響を受けます。 パートナーのセキュリティ要件では、パートナーは Partner Center API に対してセキュア アプリケーション モデルを有効にする必要がありますが、それを使用して自動化と統合で認証の 2 番目の要素の必要性に対処することができます。
 
 >[!Note] 
 >アクセス対象のリソースでは、アクセス トークン ベースの認証がサポートされている必要があります。
@@ -246,7 +241,7 @@ Microsoft では、多要素認証を利用するクラウド ソリューショ
 
 パートナー センターに登録して、使用するアプリケーションを登録すると、Partner Center API にアクセスできるようになります。 初めて CPV になった場合は、パートナー センターの通知を通じてサンドボックスの情報を受け取ります。 Microsoft CPV として登録を完了し、CPV 契約に同意すると、次のことができるようになります。
 
-1. マルチテナント アプリケーションを管理する (Azure portal へのアプリケーションの追加、パートナー センターでのアプリケーションの登録と登録解除)。
+1. マルチテナント アプリケーションを管理する (Azure portal へのアプリケーションの追加と、パートナー センターでのアプリケーションの登録と登録解除)。
 
    >[!Note]
    >CPV は、Partner Center API の承認を取得するには、パートナー センターでアプリケーションを登録する必要があります。 Azure portal にアプリケーションを追加するだけでは、CPV アプリケーションはパートナー センター API に対して承認されません。
@@ -299,7 +294,7 @@ Microsoft では、追加の保護を提供するために、多要素認証 (MF
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>AOBO を使用した顧客のサポートが MFA によってブロックされます。どうすればよいですか?
 
-認証されたアカウントで多要素認証が求められている場合、パートナーのセキュリティ要件の技術的適用が確認されます。 そのアカウントで求められていない場合は、サインイン ページにリダイレクトされ、再度認証するように求められます。 その他のエクスペリエンスとガイダンスについては、[パートナー テナントでの多要素認証 (MFA) の義務付け](partner-security-requirements-mandating-mfa.md#partner-delegated-administration)に関するドキュメントを参照してください。 ドメインがフェデレーションされていない場合は、認証が完了した後、多要素認証を設定するように要求されます。 それが完了すると、AOBO を使用して顧客を管理できるようになります。 ドメインがフェデレーションされている場合は、アカウントに対して多要素認証が求められることを確認する必要があります。
+認証されたアカウントで多要素認証が求められている場合、パートナーのセキュリティ要件の技術的適用が確認されます。 そのアカウントに対してそれが求められていない場合は、サインイン ページにリダイレクトされ、もう一度認証するように求められます。 その他のエクスペリエンスとガイダンスについては、[パートナー テナントでの多要素認証 (MFA) の義務付け](partner-security-requirements-mandating-mfa.md#partner-delegated-administration)に関するドキュメントを参照してください。 ドメインがフェデレーションされていない場合は、認証が完了した後、多要素認証を設定するように要求されます。 それが完了すると、AOBO を使用して顧客を管理できるようになります。 ドメインがフェデレーションされている場合は、アカウントに対して多要素認証が求められることを確認する必要があります。
 
 ## <a name="security-defaults-transition"></a>セキュリティの既定値の移行
 

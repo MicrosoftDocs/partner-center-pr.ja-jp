@@ -9,25 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475196"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502554"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>クラウド ソリューション プロバイダー (CSP) プログラムによりソフトウェア サブスクリプションを販売する
-
-**適用対象**
-
-- クラウド ソリューション プロバイダー
 
 **適切なロール**
 
 - 管理エージェント
 - グローバル管理者
 
-Azure 予約とサーバー サブスクリプション (Windows Server および SQL Server サブスクリプション) を使用すると、CSP プログラムのパートナーは、予測可能性と永続性の高いクラウド ワークロードを、よりコスト効率の優れたソリューションでサポートしたいという顧客の需要の急速な高まりに一層十分に応えられます。 
+Azure 予約とサーバー サブスクリプション (Windows Server および SQL Server サブスクリプション) を使用すると、CSP プログラムのパートナーは、予測可能性と永続性がきわめて高いクラウド ワークロードをコスト効率に優れたソリューションでサポートしたいという顧客の強い要望に適切に応えることができます。 
 
 Azure ハイブリッド特典を活用することで、パートナー センターや Azure portal から、企業顧客に代わって Azure 予約とサーバー サブスクリプションを取得、プロビジョニング、および管理できるようになりました。
 
@@ -101,7 +97,7 @@ Azure ハイブリッド特典を利用すると、Windows Server ライセン�
 
 2. 製品の **バージョン**、**言語**、**ビット** を選択し、 **[キーとダウンロードの取得]** を選択します。 
 
-3. **[キーの取得]** を選択すると、ポップアップ ダイアログに 32 桁の生成結果が表示され、コピーして顧客に送信することができます。 
+3. **[キーの取得]** を選択すると、ポップアップ ダイアログ ボックスに 32 桁の生成結果が表示され、コピーして顧客に送信することができます。 
 
 4. **[ダウンロード]** を選択してビットをダウンロードします。 
 

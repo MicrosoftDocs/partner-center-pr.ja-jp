@@ -9,22 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624155"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086551"
 ---
 # <a name="security-requirements-status-report"></a>セキュリティ要件の状態レポート
 
 **適切なロール**
-- コントロール パネルのベンダー
+- CPV 管理者
 - グローバル管理者
 
 この記事では、パートナー センターにおけるセキュリティ要件の状態レポートについて説明します。 このレポートでは、ご使用のパートナー テナント内のユーザーに対する多要素認証 (MFA) に関する[パートナー セキュリティ要件](partner-security-requirements.md)の遵守状況についてメトリックが提供されます。
 
-[パートナー センター](https://partner.microsoft.com/dashboard)でこのレポートにアクセスするには、 **[設定]**  >  **[アカウント設定]**  >  **[セキュリティ要件の状態]** に移動します。 このレポートは毎日更新され、過去 7 日間のログイン データが反映されています。
+[パートナー センター](https://partner.microsoft.com/dashboard)でこのレポートにアクセスするには、 **[設定]**  >  **[アカウント設定]**  >  **[セキュリティ要件の状態]** に移動します。 このレポートは毎日更新され、過去 7 日間のサインイン データが反映されています。
 
 >[!NOTE]
 >セキュリティ要件の状態レポートは、パートナー センターでのみサポートされています。 Microsoft Cloud for US Government または Microsoft Cloud Germany では使用できません。 ソブリン クラウド (米国政府およびドイツ) を介して取引するすべてのパートナーには、これらの新しいセキュリティ要件を採用することを強くお勧めします。 ただし、これらのパートナーは、現在のところこれらの新しいセキュリティ要件を満たすことは必須ではありません。 マイクロソフトでは、今後、ソブリン クラウドに対するこれらのセキュリティ要件の適用に関して、追加の詳細情報を提供する予定です。

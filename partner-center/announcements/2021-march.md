@@ -8,17 +8,293 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 04/02/2021
+ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880737"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374391"
 ---
 # <a name="march-2021-announcements"></a>2021 年 3 月のお知らせ
 
 このページでは、2021 年 3 月の Microsoft パートナー センターのお知らせについて説明します。
+
+________________
+## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>更新された CSP 顧客アドレス検証 API がテスト用に利用できるようになりました
+
+### <a name="categories"></a>Categories
+
+- 日付 : 2021 年 3 月 31 日
+- 機能
+
+### <a name="summary"></a>まとめ
+
+パートナーと顧客が信頼に基づいてビジネスを遂行できるようにするためのコミットメントの一環として、Microsoft では世界中のパートナーに対して ValidateAddress API への変更をテストすることをお勧めしています。
+
+### <a name="impacted-audience"></a>対象
+
+顧客の住所の詳細を新規作成または既存のものを更新する、すべての CSP 直接請求パートナーと間接プロバイダー
+
+### <a name="details"></a>詳細
+
+Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムでの顧客サブスクリプションの取引について顧客の住所検証を送信する、法令に準拠した安全な手段の提供に努めています。 2021 年 3 月 31 日現在、ValidateAddress API に変更が加えられており、2021 年 6 月に正式に変更される前にテストすることをお勧めしています。 
+
+これらの変更は、ValidateAddress API にのみ影響を与えることにご注意ください。 CreateCustomer および UpdateBillingProfile API には影響がありません。
+
+応答では、次のいずれかのステータス メッセージが返されます。
+
+| 状態 | 説明 | 返される住所候補の数 |
+|----------|-------------|-------------------|
+| VerifiedShippable | 住所が確認され、出荷可能です。 | Single |
+| Verified | 住所が確認されました。 | Single |
+| InteractionRequired | 住所候補は大幅に変更されており、ユーザーの確認が必要です。 | Single |
+| StreetPartial | 住所の番地が部分的であるため、さらに情報が必要です。 | 複数 (最大 3)|
+| PremisesPartial | 指定された建物 (ビル番号、部屋番号など) が部分的であるため、さらに情報が必要です。 | 複数 (最大 3) |
+| 複数 | 住所の複数の部分が部分的です (StreetPartial と PremisesPartial も含む可能性があります)。 | 複数 (最大 3) |
+| なし | 住所が正しくありません。 | なし |
+| NotValidated | 住所は、検証プロセスを通じて送信できませんでした。  | なし |
+
+住所を送信し、ValidateAddress API によって検証されると、次の応答スキーマが返されます。
+
+```csharp
+
+// <summary>
+/// Object represents the address validation response.
+/// </summary>
+
+public class AddressValidationResponse
+{
+   /// <summary>
+   /// Gets or sets the original address
+   /// </summary>
+   /// <value>
+   /// Original Address
+   /// </value>
+   public Address OriginalAddress { get; set; }
+
+   /// <summary>
+   /// Gets or sets the suggested addresses
+   /// </summary>
+   /// <value>
+   /// Suggested Addresses
+   /// </value>
+   public List<Address> SuggestedAddresses { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation status
+   /// </summary>
+   /// <value>
+   /// Status
+   /// </value>
+   public string Status { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation message
+   /// </summary>
+   /// <value>
+   /// Validation Message
+   /// </value>
+   public string ValidationMessage { get; set; }
+   ```
+
+サンプルの応答をご覧ください。 米国では、郵便番号に 5 桁の数字のみを入力した場合、応答では郵便番号の行に追加の 4 桁のサフィックスが返されることに注目してください。
+
+```csharp
+
+"suggested_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Microsoft Way",
+    "postal_Code": "98052-8300"
+},
+"original_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Micro Way",
+    "postal_Code": "98052"
+},
+"status":  "InteractionRequired",
+"validation_message": "Address field invalid for property: ‘Street’"
+}
+```
+
+### <a name="next-steps"></a>次のステップ
+
+- テスト実行に参加して更新の準備を開始できるよう、サンドボックスのテナント ID を Microsoft の領域の専門家 (SME) Ali Khaki にお知らせください。
+
+- コントロール パネル ベンダー (CPV) ソリューションを使用している場合は、CPV とご相談ください。
+
+### <a name="questions"></a>わからないことがある場合は、
+
+ご質問がある場合や、Microsoft との連携でサポートが必要な場合は、パートナー サポートの Yammer グループにお問い合わせください。
+
+________________
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>新しい Exchange 管理センター (EAC) エクスペリエンス
+
+### <a name="categories"></a>Categories
+
+- 日付: 2021 年 3 月 29 日
+- 機能
+
+### <a name="summary"></a>まとめ
+
+2021 年 4 月 27 日以降、Exchange 管理センター (EAC) では、ユーザーの日々の効率を向上させる新しいエクスペリエンスがロールアウトされます。
+
+### <a name="impacted-audience"></a>対象
+
+パートナー センター経由で Exchange にアクセスする代理管理者
+
+### <a name="details"></a>説明
+
+2021 年 4 月 27 日以降、パートナー センターを通じて Exchange に移動するパートナーは、新しい EAC にリダイレクトされます。
+
+この新しいエクスペリエンスは現在、プレビューとして提供されており、管理者は従来の EAC で右上隅にあるトグルを選択すれば、このエクスペリエンスをアクティブにできます。 また、すべてのページに表示される [今すぐ試す] バナーを選択して、新しい EAC に移動することもできます。
+
+新しい EAC には次のような利点があります。
+
+- メール フロー関連の問題について、分析情報、レポート、アラートのメカニズムが追加されました。 
+
+- ダッシュボードをカスタマイズして、生産性を向上させることができます。
+
+新しいエクスペリエンスを簡単に確認するには、新しい EAC エクスペリエンスの「**トレーニングとガイド**」セクションでビデオを参照できます。 新しいポータルを最適に使用する方法の概要について理解できます。
+
+>[!NOTE]
+>この変更により、従来の EAC エクスペリエンスが非推奨になることはありません。 パートナーには、変更の実施に先立ち、十分前もって通知されます。
+
+### <a name="next-steps"></a>次のステップ
+
+- [このトピックに関するリソース](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/)を参照して、新しいエクスペリエンスのスクリーンショットを確認することができます。
+
+- この情報を組織内の適切な関係者に共有してください。 
+
+### <a name="questions"></a>疑問がある場合
+
+これらの変更についてさらにご質問がある場合は、関連する Yammer コミュニティをご確認ください。
+
+________________
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Operations: 製品発表予定表の概要
+
+### <a name="categories"></a>Categories
+
+- 日付: 2021 年 3 月 25 日
+- 製品サービス | モダン ワークプレース
+
+### <a name="summary"></a>まとめ
+
+パートナーからのフィードバックにお応えして、Microsoft Operations では製品発表に関するコミュニケーションを合理化します。
+
+### <a name="impacted-audience"></a>対象
+
+クラウド ソリューション プロバイダー (CSP) パートナー様
+
+### <a name="details"></a>詳細
+
+Microsoft では、パートナー エクスペリエンスの継続的な改善に取り組んでいます。 Microsoft からの情報が多すぎるというフィードバックが寄せられています。これには、製品の発表に関する重複したお知らせも含まれます。
+
+Microsoft では、皆様からのフィードバックにお応えして、新規および既存のオファーについて製品発表の準備エクスペリエンスを合理化しました。
+
+現在では、月に 1 回の製品発表ビューを Operations Readiness リソース ギャラリーに提供するようになりました。 この月単位の[製品発表予定表ビュー](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)は、Operations Readiness リソース ギャラリーとパートナー センターのお知らせに含まれる個別の製品発表情報に置き換わるものとなります。
+
+また、[コミュニティ コレクション](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)、[予定表ビュー](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)、[CSP ニュースレター](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)から、この[製品発表予定表](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)にアクセスすることもできます。 各月の製品発表予定表が公開されたら、Operations Readiness リソース ギャラリーのお知らせで皆様に通知します。
+
+新規および既存のオファーに関する情報は、今後も、価格一覧のプレビューと価格一覧の変更ログ、製品のブログ、ライセンス ガイド、製品マーケティング ページで確認できます。
+
+この変更は、次の製品に関する発表に適用されます。
+
+- オンプレミスの Dynamics
+- Microsoft 365
+- Microsoft Dynamics 365
+- Windows
+- サーバー  
+- ツール
+- Teams と Telco
+
+Operations Readiness の詳細を必要とする製品の発表については、引き続き特定のお知らせをお送りします。
+
+### <a name="next-steps"></a>次のステップ
+
+このトピックに関するリソースを確認し、この情報を組織内の該当する関係者と共有してください。
+
+### <a name="questions"></a>わからないことがある場合は、
+
+これらのオファーについてさらにご質問がある場合は、関連する Yammer コミュニティをご確認ください。
+
+________________
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>CSP のお客様のオンボード要件の変更
+
+### <a name="categories"></a>Categories
+
+- 日付: 2021 年 3 月 25 日
+- 機能
+
+### <a name="summary"></a>まとめ
+
+パートナーと顧客が信頼に基づいて取引できるように支援する責任の一環として、Microsoft では 2021 年 3 月 25 日から、追加の顧客情報を要求いたします。
+
+### <a name="impacted-audience"></a>対象
+
+次のセクションに記載されている国に新規または既存の顧客がいるクラウド ソリューション プロバイダー (CSP) 直接請求パートナーおよび間接プロバイダー
+
+### <a name="details"></a>詳細
+
+Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムでの顧客サブスクリプションの取引について、顧客検証のための法令に準拠した安全な手段の提供に努めています。 2021 年 3 月 25 日に、パートナー センター API とユーザー インターフェイス (UI) の拡張機能を導入する予定です。これは、以下の条件の両方を満たすパートナーに影響します。
+
+1. Microsoft の間に直接請求関係があるパートナー (つまり、直接請求パートナーまたは間接プロバイダーのいずれかであるパートナー)
+
+2. パートナーは、次の国の新規または既存の顧客と取引があります:
+
+    - タイ
+    - ベトナム
+    - トルコ
+    - ポーランド
+    - 南アフリカ
+    - インド
+    - ブラジル
+    - イラク
+    - ミャンマー
+    - 南スーダン
+    - サウジアラビア
+    - アラブ首長国連邦
+    - ベネズエラ
+
+条件を満たすパートナーは、新しい顧客をオンボードするとき、または既存の顧客の詳細を変更するときに、顧客の **会社登録 ID** (顧客の **組織 INN** とも呼ばれます) と **電話番号** を提出する必要があります。 また、これらのパートナーは、必要に応じて、顧客の **ミドル ネーム** を入力することができます。
+
+会社登録 ID を追加する場合は、顧客の個人 ID ではなく、業務用の税 ID を使用する必要があることに注意してください。
+
+以下の国で新規または既存の顧客との取引を行っているパートナーは、先行する 2020 年 11 月のリリースで既にオンボードされています。
+
+- アルメニア
+- アゼルバイジャン
+- ベラルーシ
+- ハンガリー
+- カザフスタン
+- キルギスタン
+- モルドバ
+- ロシア
+- タジキスタン
+- ウクライナ
+- ウズベキスタン
+
+その他の地域の顧客と提携しているパートナーは、2021 年 3 月 25 日に、顧客の **会社登録 ID**、**電話番号**、**ミドル ネーム** を詳細情報として必要に応じて入力できるようになります。
+
+### <a name="next-steps"></a>次のステップ
+
+- 詳細なガイダンスについては、[専用のパートナー コレクション](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)でテクニカル ドキュメントとよく寄せられる質問を参照してください。
+
+- Partner Center API と Web ユーザー エクスペリエンスを使用して、変更を組み込む準備をしてください。 API または SDK はテストに使用できます。
+
+- 新しい顧客をオンボードする場合や、既存の顧客の詳細情報を変更する場合は、必ず追加データを提出してください。
+
+- コントロール パネル ベンダー (CPV) ソリューションを使用している場合は、CPV とご相談ください。
+
+### <a name="questions"></a>わからないことがある場合は、
+
+有効な識別子 (INN または TIN とも呼ばれます) に関するご質問がある場合は、税務顧問または現地の税務署にお問い合わせください。 Microsoft では、税務に関するガイダンスを提供できません。
+
+Microsoft との連携でサポートが必要な場合は、[サービス要求を開いてください](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)。
 
 ________________
 ## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>2021 年 3 月 1 日に永続的ソフトウェアの価格表に加えられた修正

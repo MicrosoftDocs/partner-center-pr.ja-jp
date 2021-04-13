@@ -8,16 +8,16 @@ description: パートナー センターを使用して、Microsoft や貴社�
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582650"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132249"
 ---
 # <a name="what-is-partner-center"></a>パートナー センターとは
 
-##### <a name="appropriate-roles"></a>適切なロール
+**適切なロール**
 
 - パートナー センターの使用を検討しているすべてのパートナー
 
@@ -53,7 +53,7 @@ ms.locfileid: "103582650"
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Microsoft や他のパートナーとの共同販売
 
-Microsoft や他のパートナーと共同販売を行うことで相乗効果を得られ、顧客にとってもポジティブな結果をもたらします。 共同販売により、Microsoft のグローバルなブランド、営業チーム、需要創出力、コマーシャル マーケットプレースを活用して世界の顧客にリーチできます。 他のパートナーおよび Microsoft の両方と共同販売ができます。 詳しくは[共同販売の機会の管理](manage-co-sell-opportunities.md)に関するページを参照してください。
+Microsoft や他のパートナーと共同販売を行うことで相乗効果を得られ、顧客にとってもポジティブな結果をもたらします。 共同販売により、Microsoft のグローバルなブランド、営業チーム、需要創出力、コマーシャル マーケットプレースを使用して世界の新規顧客にリーチできます。 他のパートナーおよび Microsoft の両方と共同販売ができます。 詳しくは[共同販売の機会の管理](manage-co-sell-opportunities.md)に関するページを参照してください。
 
 ## <a name="manage-customer-software-needs"></a>カスタマー ソフトウェアのニーズの管理
 
