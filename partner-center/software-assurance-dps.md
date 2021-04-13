@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024995"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266505"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>ソフトウェアアシュアランス計画サービスの提供終了
 
@@ -35,9 +35,8 @@ ms.locfileid: "107024995"
 >[!NOTE]
 >伝票のライフサイクルに変更はありません。 伝票が作成/割り当てられた後、伝票の予約、顧客エンゲージメント、および伝票の引き換えは、180日以内に完了してから、伝票の有効期限が切れます。  サービスプログラムの提供終了の計画の詳細については、 [こちら](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) の faq で詳細を確認してください (サインインが必要)。  地域パートナーサポートチームに質問をお送りください: [EMEA パートナーサポート](mailto:savoucher@msdirectservices.com)[一般的なパートナーサポート](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>2021年6月30日まで
 
-### <a name="get-started"></a>はじめに
+### <a name="get-started"></a>作業開始
 
 ソフトウェアアシュアランスサービスを初めてご使用になる場合は、以下のすべての手順に従ってください。 Planning Services プログラムで既にアクティブになっている場合は、以下の手順 4 (4) で新しい契約を開始します。
 

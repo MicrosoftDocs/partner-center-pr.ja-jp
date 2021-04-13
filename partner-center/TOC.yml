@@ -12,8 +12,6 @@
     - name: パートナー センターで MPN アカウントを作成する
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: 職場の電子メール アドレスを取得する
-      href: buy-email-domain.md
     - name: アカウントのセットアップのトラブルシューティング
       href: troubleshoot-account-sign-n.md
     - name: パートナー センターへの移動
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: パスワードをリセットする
           href: reset-my-pasword.md
-        - name: ユーザーがサインインできません
+        - name: サインアップに関する問題のトラブルシューティング
           href: unable-to-sign-in.md
         - name: ユーザーに MPN 管理者が割り当てられていません
           href: no-mpn-admin.md
@@ -390,8 +388,6 @@
     - name: 課金の基本
       href: billing-basics.md
       displayName: invoice
-    - name: パートナー センターでの請求の種類
-      href: billing-different-types.md
     - name: 課金内容を確認する
       href: read-your-bill.md
       displayName: invoice
