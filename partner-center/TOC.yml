@@ -14,14 +14,6 @@
       displayName: mpn
     - name: アカウントのセットアップのトラブルシューティング
       href: troubleshoot-account-sign-n.md
-    - name: パートナー センターへの移動
-      items:
-        - name: PAC からの移動 - 概要
-          href: pac-to-pc-overview.md
-        - name: PAC と PC のタスクを比較する
-          href: moving-from-pac-to-pc.md
-        - name: PC で PAC タスクを実行する
-          href: o365-partner-admin-center-to-partner-center.md
     - name: PMC からの移動
       items:
         - name: PMC からの移行の準備
@@ -159,8 +151,6 @@
     - name: CSP 契約、価格表、キャンペーン
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: CSP 用の Cloudyn 製 Azure Cost Management
-      href: azure-cost-management-app-for-csp-partners.md
     - name: CSP の地域市場、通貨
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
