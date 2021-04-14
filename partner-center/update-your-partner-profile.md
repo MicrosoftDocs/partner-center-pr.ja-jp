@@ -6,15 +6,15 @@ description: 主要連絡先、住所、プログラム情報など、ご自身�
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/10/2021
+ms.date: 04/12/2021
 ms.localizationpriority: medium
-ms.custom: contperf-fy21q3
-ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.custom: contperf-fy21q4
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712598"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315875"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>会社のプロファイルの情報を確認または更新する 
 
@@ -92,6 +92,17 @@ Partner Membership Center からパートナー センターへの移行中、�
 ## <a name="update-your-csp-legal-billing-address"></a>CSP の法的請求先住所を更新する
 
 グローバル管理者、課金管理者、または管理エージェントの場合は、請求書に表示される住所を **[Payout and tax profile]\(支払いと税金プロファイル\)** で変更できます。 ただし、請求書システムの制限により、請求書の会社名を変更することはできません。
+
+:::image type="content" source="images/billing-profile.png" alt-text="請求情報が追加された画面のキャプチャ":::
+
+|**フィールド**  |**説明**|  
+|---------------------|:------------------|
+|請求先の会社名|CSP 請求書の請求先情報に表示される会社名。  これは、パートナー センターでは編集できません。  更新するには、サポート チケットを作成してください。|
+|請求先住所|CSP 請求書に表示される請求先住所。 [課金プロファイル](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)から更新できます。|
+|請求先担当者|CSP アカウントの請求先担当者の詳細 (姓、名、第一連絡先の番号)。  [課金プロファイル](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)から更新できます。|
+|発注番号|パートナーの請求書に表示される注文書番号。  [課金プロファイル](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)から更新できます。|
+|会社の税 ID|一部の国では、企業が[付加価値税 (VAT) 番号またはその国でそれに相当するもの](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number)を入力できます。 税金/VAT ID を更新するには、全体管理者、課金管理者、または管理エージェントである必要があります。|
+|請求通貨|CSP アカウントの請求通貨は、CSP アカウントの法律上の国によって決まります。  これは、CSP アカウントを作成した後に変更することはできません。|
 
 
 ## <a name="next-steps"></a>次の手順

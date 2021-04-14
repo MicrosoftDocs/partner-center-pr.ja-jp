@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502869"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964342"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムのパートナー プランの概要
 
@@ -105,6 +105,15 @@ CSP の顧客に代わって製品およびサービスを購入するには、�
 
 8. 注文番号を含む注文の詳細は、次のページに表示されます。 **[完了]** を選択して **[注文履歴]** ページに移動します。
 
+### <a name="customer-order-history"></a>顧客の注文履歴
+
+顧客の注文履歴を表示するには、次の操作を行います。
+
+1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。
+2. 左側のメニューで、 **[顧客]** を選択します。
+3. **[顧客]** ページで、注文履歴を表示する顧客を見つけます。 下矢印を選択して、顧客のレコードを展開します。
+4. **[注文の表示]** を選択して顧客の注文履歴を表示します。
+ 
 ## <a name="rules-for-special-segments"></a>特別なセグメントの規則
 
 一部のライセンスベースのプランは、特定の条件下でのみ購入できます。 特別なセグメントのプランには、教育機関、非営利団体、Government Community Cloud (GCC) プランなどがあります。 これらの購入条件の詳細については、[特別なセグメントの購入規則に関するトピック](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)をご覧ください。
