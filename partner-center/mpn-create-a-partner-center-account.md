@@ -1,7 +1,7 @@
 ---
 title: パートナー センターで MPN アカウントを作成する
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Partner Network メンバーがネットワークの特典とコンピテンシーを管理するためにパートナー センター アカウントを作成する方法について説明します。
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712921"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266539"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>ネットワークの特典とコンピテンシーを管理するためにパートナー センターで MPN アカウントを作成する
 
@@ -25,7 +25,7 @@ Microsoft Partner Network (MPN) を初めて利用する、MPN ID をお持ち�
 
 パートナー センターでアカウントを作成する準備ができたら、次のものを用意してください。  作業を開始する前に、これらの情報を手元に準備してください。
 
-- 会社の仕事用メール アドレス、または Office 365 の職場アカウント。 詳しくは、[会社の職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)に関するページをご覧ください 
+- 会社の仕事用メール アドレス、または Office 365 の職場アカウント。 従業員の仕事用メール アドレスを設定するには、会社でメール ドメインを購入する必要がある場合があります。 詳しくは、「[会社の職場アカウントとパートナー センター](azure-active-directory-tenants-and-partner-center.md)」をご覧ください。 
  
 - 組織の法人名と住所。
 

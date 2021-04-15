@@ -1,7 +1,7 @@
 ---
 title: Azure CSP の管理者特権を復元する
 ms.topic: how-to
-ms.date: 07/28/2020
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナーが顧客の Azure CSP サブスクリプションを管理できるように、顧客がパートナーの管理者特権を復元する方法について説明します。
@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13fdeb01ecd73dc1a63d174a4ad5cb8e1bdc813a
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011504"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315849"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>顧客の Azure CSP サブスクリプションの管理者特権を復元する  
 
@@ -29,60 +29,70 @@ CSP パートナーの顧客は、自分の Azure の使用状況とシステム
 
 CSP では Azure に対して 2 つのレベルの管理者特権があります。
 
-**テナント レベルの管理者特権** (**委任された管理者特権**) - CSP パートナーは、顧客との CSP リセラーの関係を確立する際に、これらの特権を取得します。 これにより、CSP パートナーは顧客のテナントにアクセスできるようになり、ユーザーの追加/管理、パスワードのリセット、ユーザー ライセンスの管理などの管理機能を実行できます。
+**テナント レベルの管理者特権** (**委任された管理者特権**) - CSP パートナーは、顧客との CSP リセラーの関係を確立する際に、これらの特権を取得します。 委任された管理者特権により、CSP パートナーは顧客のテナントにアクセスできるようになり、ユーザーの追加/管理、パスワードのリセット、ユーザー ライセンスの管理などの管理機能を実行できます。
 
 **サブスクリプション レベルの管理者特権** - CSP パートナーは、顧客のための Azure CSP サブスクリプションを作成する際に、これらの特権を取得します。 これらの特権により、CSP パートナーはこれらのサブスクリプションに完全にアクセスできるようになり、Azure リソースのプロビジョニングと管理を行うことができます。
 
 ## <a name="reinstate-csp-partners-admin-privileges"></a>CSP パートナーの管理者特権を復元する
 
-委任された管理者特権を回復するには、顧客と協力する必要があります。
+AdminAgents グループのオブジェクト ID を顧客に提供していれば、顧客は CSP ロールの割り当てを再作成できます。 委任された管理者特権を回復するには、顧客と協力する必要があります。
 
 1. パートナー センター ダッシュボードにサインインし、パートナー センター メニューから **[顧客]** を選択します。
 
 2. 協力する顧客を選択し、 **[リセラーの関係を要求する]** を選択します。 これにより、テナント管理者権限を持つ顧客へのリンクが生成されます。
 
-3. そのユーザーはリンクを選択し、リセラーの関係の要求を承認する必要があります。
+3. その顧客はリンクを選択し、リセラーの関係の要求を承認する必要があります。
 
-   :::image type="content" source="images/azure/revoke4.png" alt-text="リセラーの関係":::
+   :::image type="content" source="images/azure/revoke4.png" alt-text="リセラー関係の作成の電子メール サンプル":::
 
-## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a>Azure CSP サブスクリプションの所有者として管理者エージェント グループを追加する
+4. パートナーは、パートナー テナントに接続して、AdminAgents グループのオブジェクト ID を取得する必要があります。
 
-貴社の顧客は、Azure CSP サブスクリプション、リソース グループ、またはリソースの所有者として、貴社の管理者エージェント グループを追加する必要があります。 
-
-1. PowerShell コンソールまたは PowerShell Integrated Scripting Environment (ISE) のいずれかを使用します。 AzureAD モジュールがインストールされていることを確認します。
-
-2. Azure AD テナントに接続します。
-
-   ```powershell
-   Connect-AzureAD
-   ```
-
-3. 管理者エージェント グループの ObjectId を取得します。
-
-   ```powershell
-   Get-AzureADGroup
-   ```
-   次の手順は、顧客の会社の、Azure CSP サブスクリプションに対する所有者アクセス権を持つユーザーが実行します。
-
-4. Azure CSP サブスクリプションへの所有者アクセス権を持つユーザーは、自分の資格情報を使用して Azure にサインインします。
-
-   ```powershell
-   Connect-AzureRmAccount
-   ```
-
-5. その後、適切なリソース URI を Scope パラメーターに適用して、貴社の管理者エージェント グループを所有者として CSP Azure サブスクリプション、リソース グループ、またはリソースに追加できます。 
-
+  
     ```powershell
-    # Grant owner role at subscription level
-    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
 
-    # Grant owner role at resource group level
-    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>/resourceGroups/<Resource group name>"
+    PS C:\WINDOWS\system32> Connect-AzAccount -Tenant "Partner tenant"
+      Get Object ID of AdminAgents group
+   
+    
 
-    # Grant owner role at resource level
-    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "<Resource Uri>"
+   S C:\WINDOWS\system32> Get-AzADGroup -DisplayName AdminAgents
     ```
+
+
+5. **所有者またはユーザー アクセス管理者** のロールを持ち、サブスクリプション レベルでロールの割り当てを作成する権限を持っている顧客は、次のことを行います。
+
+
+    1. CSP サブスクリプションが存在するテナントに接続します。
+      ```powershell
+        PS C:\WINDOWS\system32> Connect-AzAccount -TenantID "Customer tenant"
+      ```
+
+    2. サブスクリプションに接続します (ユーザーがテナント内の複数のサブスクリプションに対するロールの割り当て権限を持っている場合にのみ該当)。
+   
+         PS C:\WINDOWS\system32> Set-AzContext -SubscriptionID "CSP Subscription ID"`
+
+
+    3. ロールの割り当てを作成します。
+    
+    ```powershell
+      PS C:\WINDOWS\system32> New-AzRoleAssignment -ObjectID "Object ID of the Admin Agents group- needs to be provided by partner" -RoleDefinitionName "Owner" -Scope "/subscriptions/CSP subscription ID"
+    ```
+
+
+目的が、サブスクリプション スコープではなく、リソース グループ レベルまたはリソース レベルで所有者ロールの権限を付与することである場合は、次のコマンドを使用できます。
+
+
+```powershell
+Grant owner role at resource group level
+
+   New-AzRoleAssignment -ObjectID "Object ID that you got from step 3" -RoleDefinitionName Owner -Scope "/subscriptions/"SubscriptionID of CSP subscription"/resourceGroups/"Resource group name"
+
+Grant owner role at resource level
+
+   New-AzRoleAssignment -ObjectID <Object ID that you got from step 3> -RoleDefinitionName Owner -Scope "Resource URI"
+```
+
 
 ## <a name="next-steps"></a>次の手順
 
-[Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)
+- [Azure プランのサブスクリプションとリソースを管理する](azure-plan-manage.md)

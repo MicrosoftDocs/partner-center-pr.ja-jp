@@ -10,17 +10,51 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374435"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266522"
 ---
 # <a name="april-2021-announcements"></a>2021 年 4 月のお知らせ
 
 このページでは、2021 年 4 月の Microsoft パートナー センターのお知らせについて説明します。
+
+________________
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>リマインダー: 2021 年 5 月 4 日に GET 資格が非推奨化
+
+### <a name="categories"></a>Categories
+
+- 日付: 2021 年 4 月 9 日
+- 機能
+
+### <a name="impacted-audience"></a>対象
+
+パートナー センター API を使用してクラウド ソリューション プロバイダー プログラムを通じて教育、非営利、Government Community Cloud (GCC) 向けのプランを販売しているパートナー様
+
+### <a name="details"></a>詳細
+
+この発表は、[12 月にリリースされたパートナー センター の機能強化](https://docs.microsoft.com/partner-center/announcements/2020-december#1)に関する補足です。 そのリリースの一部として、新しい GET および POST 認定 API が展開されます。その結果、既存の GET 認定は 2021 年 5 月 4 日までに廃止される予定です。 その時点で、教育機関向けプランの購入で新しい POST パートナー センター API を使用するように、また事前認定済みの非営利団体および GCC 向けプランを購入するために新しい GET 認定を使用するように、移行済みである必要があります。
+
+### <a name="next-steps"></a>次のステップ
+
+- 適切かつタイムリーに移行できるよう、新しい API に更新してください。
+
+- 次のオペレーション レディネス リソースで、新しいパートナー センター API に関する変更点とガイドを確認してください: [パートナー センターの教育機関顧客検証プロセスの機能強化](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+
+- この情報を組織内の該当するチームと、およびリセラーと共有し、彼らがこれらの変更内容に対して準備できるようにしてください。
+
+### <a name="questions"></a>わからないことがある場合は、
+
+このお知らせに関してご質問がある場合は、[パートナー センター サポート](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)にお問い合わせください。
+
+### <a name="change-log"></a>ログの変更
+
+- 4 月: GET 認定の予定されている非推奨に関するご案内 
+- 2 月: GET と PUT の認定の非推奨に関するタイムラインを更新しました
+- 1 月: GET と PUT の認定の予定されている非推奨に関するご案内
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>CSP での新しいコマース PDF 請求書の新しい形式
