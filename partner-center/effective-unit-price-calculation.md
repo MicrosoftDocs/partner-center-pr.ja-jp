@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374397"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528573"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure プランの使用の有効な単価計算
 
@@ -53,7 +53,9 @@ ms.locfileid: "106374397"
 - **有効な単価** = bcu/BC
 
 >[!NOTE]
->この例のメーターには、価格のレベルはありません。 割引率とその他の調整における有効な単価の係数。
+
+>注: この例のメーターには、価格またはその他の割引のレベルはありません。割引率とその他の調整における有効な単価の係数です。
+
 
 | Date | BCU (課金対象の使用量単位) | BC (請求可能なコスト) | 有効な単価 |
 | ------ | ----------- | ----------- | ----------- |  
