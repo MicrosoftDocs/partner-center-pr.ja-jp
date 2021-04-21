@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
-ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
+ms.date: 04/19/2021
+ms.openlocfilehash: b96832fe4450cadd2da83e4cf9697f1f16bc81a3
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/17/2021
-ms.locfileid: "107584199"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728948"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "107584199"
 
 |**カテゴリ**|**2021 年 4 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|ビジネスの拡大|[オープン ライセンス プログラム: クラウド ソリューション プロバイダー (CSP) プログラムへのリセラーの移行](2021-april.md#7)|4 月 19 日|
 |機能|[公開中: グローバル キャンペーンの準備に関するガイド](2021-april.md#6)|4 月 16 日|
 |コミュニティ: 招待とリマインダー|[4 月のクラウド ソリューション プロバイダー (CSP) コミュニティの更新とリマインダー](2021-april.md#5)|4 月 16 日|
 |機能|[リマインダー: 2021 年 5 月 4 日に GET 資格が非推奨化](2021-april.md#4)|4 月 9 日|
