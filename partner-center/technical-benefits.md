@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 6a03d06b858f2932621dc0e50a571a17708be3bc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
+ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086653"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "107742122"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>テクニカル プリセールスおよびデプロイ サービス (TPD) について説明します 
 
@@ -41,6 +41,18 @@ ms.locfileid: "106086653"
 MPN に関連付けられているユーザー アカウントでサインインして、 **[テクニカル プリセールスとデプロイ サービス (TPD) リクエストを作成](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** します (特典の技術的な有効化は不要です)。
 
 :::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="テクニカル プリセールスと展開の利点" :::
+
+## <a name="in-scope-products-and-services"></a>対象となる製品とサービス
+
+次の製品およびサービスは、テクニカル プリセールスとデプロイ サービスの対象となります。
+- **Microsoft 365**: Microsoft Teams、Exchange Online、SharePoint Online、OneDrive、Yammer、Project Online、Skype for Business Server 2019、Enterprise Mobility + Security、Microsoft Intune、Azure Active Directory、Azure Information Protection など、すべての Microsoft Office 365 コンポーネント
+  - "*対象外: オンプレミスの Office サーバー – Exchange と SharePoint*"
+- **Business Applications**: Microsoft Dynamics 365 (オンライン)、Microsoft Power Platform (Power Apps、Power Automate、Power BI)
+  - "*対象外: Dynamics 365、GP、SL、AX、NAV のオンプレミス バージョン*"
+- **Microsoft Azure**: サービスとしてのインフラストラクチャ、サービスとしてのプラットフォーム、データ プラットフォーム、BI 分析、Cognitive Services、Azure Machine Learning、Azure Stack など、すべての Microsoft Azure ソリューションと関連サービス
+- **Windows Server**: メインストリーム サポートの Windows Server ( **[製品ライフサイクル](https://docs.microsoft.com/lifecycle/policies/fixed)** に準拠)
+  - System Center には、SCCM などの関連製品が含まれています (クラウドまたはハイブリッド シナリオに関連する場合)
+- **Windows 10**: Windows 10 オペレーティング システム、デバイス、ユニバーサル アプリ
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>テクニカル プリセールスとデプロイ サービスの要求を送信する 
 
