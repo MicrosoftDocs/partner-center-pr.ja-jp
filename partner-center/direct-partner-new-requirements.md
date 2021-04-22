@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 12/15/2020
-ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/15/2021
+ms.openlocfilehash: 2f6fd9ef3fdcc88627b2eb2d257a837d28e097ee
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712208"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528592"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP 直接請求パートナーとして登録するための要件
 
@@ -33,7 +33,8 @@ ms.locfileid: "104712208"
 |**MPN ID**   |販売活動を行う場所で有効な Microsoft Partner Network メンバーシップと MPN ID。   |
 |**保証**   |組織を代表して契約書に同意して署名するための権限。|
 |**サポート**   |顧客にクラウド製品の最初のレベルのサポートを提供する機能。 <br/>Microsoft サポート プラン。必要に応じて、パートナー様向け Advanced サポート (ASfP) またはパートナー様向け Premier サポート (PSfP) のいずれかになります。 [サポート プランの比較](https://partner.microsoft.com/support/partnersupport)をご覧ください。<br/>重要:サポート プランを購入する前に、与信審査に合格する必要があります。 与信審査に合格したら、メールでご連絡します。 |
-|**収益の要件**|先行する 12 か月間に間接リセラーとしてクラウド ソリューション プロバイダー プログラムの年間収益を少なくとも 30 万米国ドル売り上げているという条件を満たしている必要があります。 パートナーは、パートナー センターで直近 12 か月の収益を確認することができます。<br/>直近 12 か月での 30 万米国ドルという収益の内容は、Microsoft による確認と検証によって判定されます。追加の情報を提供するように求められることがあります。 30 万米国ドルという収益要件はクラウドでの収益に基づいて計算され、CSP 内の永続的ソフトウェアは除外されます。|
+|**収益の要件**|先行する 12 か月間に間接リセラーとしてクラウド ソリューション プロバイダー プログラムの年間収益を少なくとも 30 万米国ドル売り上げているという条件を満たしている必要があります。 組織が[パートナー センター分析](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)での収益の要件を満たしていることを確認してください。パートナーは、パートナー センターで直近 12 か月の収益を確認することができます。<br/>直近 12 か月での 30 万米国ドルという収益の内容は、Microsoft による確認と検証によって判定されます。追加の情報を提供するように求められることがあります。 30 万米国ドルという収益要件はクラウドでの収益に基づいて計算され、CSP 内の永続的ソフトウェアは除外されます。|
+|**CSP の要件**|少なくとも 12 か月間、間接リセラーとして取引を行っている必要があります。| 
 |**売掛金勘定** |顧客の請求とプロビジョニングを管理するための組織のインフラストラクチャ。|
 |**推奨**|             |
 |**マネージド サービス**   |少なくとも 1 つの管理されたサービス、IP サービス、または顧客ソリューション アプリケーション。 [管理されたサービス](https://partner.microsoft.com/business-opportunities/managed-services-provider)の追加に関する詳細をご覧ください。|
@@ -41,9 +42,10 @@ ms.locfileid: "104712208"
 
 ### <a name="verify-direct-bill-eligibility"></a>直接請求の適格性を確認する
 
-直接請求パートナーとして登録するための最小要件を満たしていることを確認した後、[登録フォーム](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global)に進むことができます。
+直接請求パートナーとして登録するための最小要件を満たしていることを確認した後、[登録フォーム](https://forms.office.com/r/0fP4fFT8n8)に進むことができます。
 
 直接請求パートナーとして登録するための適格性要件を貴社が満たしていることの確認が済み、貴社が登録申請を完了した後、Microsoft は登録プロセスで提供されたビジネス情報を確認します。 このレビューの一環として、貴社の与信を審査します。 貴社が与信審査に合格したら、メールでお知らせします。
+
 >[!IMPORTANT]
 >貴社の与信審査が完了するには、数日以上かかる場合があります。 この期間中は、Microsoft サポート プランを購入しないことが重要です。 与信審査に合格した通知を受け取った後でのみ、Microsoft サポート プランを購入する必要があります。
 
