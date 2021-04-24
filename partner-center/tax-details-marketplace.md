@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
-ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
+ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
+ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107894062"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107927749"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>コマーシャル マーケットプレース発行元向けの税の詳細
 
@@ -36,7 +36,7 @@ Microsoft では、microsoft が管理する国で発行者や開発者の義務
 
 ### <a name="publisherdeveloper-managed-countries"></a>発行者/開発者が管理する国: 
 
-|   |    |    |   |
+| 国 | 国 (続き) | 国 (続き) | 国 (続き) |
 |---------------|:------------------|:--------|:----------|
 |米領ヴァージン諸島|コンゴ民主共和国|ジャージー|ノーフォーク島|
 |アフガニスタン|クック諸島|ヨルダン|北マケドニア|
@@ -72,14 +72,14 @@ Microsoft では、microsoft が管理する国で発行者や開発者の義務
 |中央アフリカ共和国|ハード・マクドナルド諸島 & ハード島|ナウル|
 |チャド|ホンジュラス|ネパール|
 |クリスマス島|イラク|ニカラグア|
-|ココス諸島|イスラエル|ニジェール|
+|ココス(キーリング)諸島|イスラエル|ニジェール|
 |コモロ|ジャマイカ|ナイジェリア|
 |コンゴ|日本|ニウエ|
 
 
 ### <a name="microsoft-managed-countries"></a>Microsoft が管理する国
 
-| | |  |  |
+| 国 | 国 (続き) | 国 (続き) | 国 (続き) |
 |---------|-----------|--------|----|
 |アルメニア|フィンランド|ルクセンブルク|シンガポール|
 |オーストリア|フランス|マレーシア|スロバキア|
