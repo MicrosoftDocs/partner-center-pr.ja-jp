@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f90162ce7d3848fc930c956077ae96994848696
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: b339c0eec72d2184e15301270633305682799461
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028453"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002877"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>パートナー センターを使用して、コマーシャル マーケットプレース製品のサブスクリプションを顧客に販売する
+
+**適切なロール**
+
+- 販売代理店
 
 CSP プログラムのパートナーとして、パートナーセンターを使用して、独立系ソフトウェアベンダー (Isv) によって商用マーケットプレース ([Microsoft AppSource](https://appsource.microsoft.com/) および [Azure marketplace](https://azuremarketplace.microsoft.com/)) に発行されたサービスとしてのソフトウェア (SaaS) 製品に対する顧客の販売を行うことができます。
 

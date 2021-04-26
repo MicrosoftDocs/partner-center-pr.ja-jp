@@ -9,16 +9,14 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441559"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002826"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>中断されたパートナー センター アカウントを復元する - 発生する理由とその対処方法についての説明
-
-この記事では、パートナー センター アカウントが中断されている場合の対処方法について説明します。
 
 **適用対象**
 
@@ -28,6 +26,7 @@ ms.locfileid: "106441559"
 
 - グローバル管理者
 
+この記事では、パートナー センター アカウントが中断されている場合の対処方法について説明します。
 
 > [!IMPORTANT]  
 > パートナー センター アカウントが中断されている間も、既存のデプロイ、ライセンス、およびサービスの管理を続けることができます。 ただし、アカウントが再び有効になるまで、新しいライセンスまたはサービスを承認または再販することはできません。

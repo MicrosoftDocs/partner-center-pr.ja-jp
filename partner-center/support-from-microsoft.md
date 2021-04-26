@@ -4,25 +4,29 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft サービスやパートナー センターで問題が発生した場合は、マイクロソフトにエスカレートしてサポートを依頼し、解決まで問題を追跡できます。
+description: Microsoft サービスまたはパートナーセンターで問題が発生した場合は、Microsoft にエスカレーションしてヘルプを表示し、問題が解決されるまで追跡することができます。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f10d1266d9de0cb166580f070f3d05e8f61092b
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: a22dd2a8ec8ce3da3aa0967741685a2f28cc0a15
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441605"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002809"
 ---
-# <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Microsoft からのサポート-問題をエスカレートするタイミング、報告する方法、またはサービスの正常性を確認する方法
+# <a name="support-from-microsoft"></a>Microsoft によるサポート
 
 **適用対象**
 
 - 米国政府機関向け Microsoft Cloud のパートナー センター
 
-Microsoft サービスやパートナー センターで問題が発生した場合は、Microsoft にエスカレートしてサポートを依頼し、解決まで問題を追跡できます。
+**適切なロール**
+
+- ヘルプエージェント
+
+Microsoft サービスまたはパートナーセンターで問題が発生した場合は、Microsoft に問題を報告し、問題をマイクロソフトに報告してヘルプを表示し、問題が解決されるまで追跡することができます。
 
 [パートナーセンターのサポート](report-problems-with-partner-center.md) -すべてのパートナーセンタープログラムのヘルプを取得し、チケットを作成します。
 
@@ -32,10 +36,9 @@ Microsoft サービスやパートナー センターで問題が発生した場
 
 [Api を使用して自動化されたサービス通知を取得](get-automated-service-notifications-with-our-apis.md) する-クラウドソリューションプロバイダーは、お客様のサービスに対して自動サービス通知を取得できます。
 
+## <a name="next-steps"></a>次のステップ
 
- 
-
- 
-
-
-
+- [その他のサポートリソースを表示する](https://partner.microsoft.com/support/?stage=1)
+- [パートナーを見つける](find-a-partner.md)
+- [MPN プログラムについて学習または登録する](https://partner.microsoft.com/membership)
+- [CSP プログラムについて学習するか、登録する](https://partner.microsoft.com/membership/cloud-solution-provider)

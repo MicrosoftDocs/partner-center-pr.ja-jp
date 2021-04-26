@@ -8,15 +8,18 @@ description: Microsoft パートナーとして、さまざまな Microsoft ラ�
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756811"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002902"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft パートナー向けリソース ライセンス ガイド 
 
+**適切なロール**
+
+- ヘルプエージェント
 
 この記事では、パートナーのライセンスに関する質問への回答に役立つリソースを共有します。
 
