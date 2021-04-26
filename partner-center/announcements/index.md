@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 47723bd4b2deed703e224f7151a1d85a478aa8a7
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/22/2021
+ms.openlocfilehash: 4e5faf1467ea12aac8f4dfaa4c35455159f64632
+ms.sourcegitcommit: 1e1aea329fdeef526e5273d2a4d8f5ec767ac49c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823369"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107917618"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
