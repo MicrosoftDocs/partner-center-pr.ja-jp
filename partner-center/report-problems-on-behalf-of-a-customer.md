@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441950"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018120"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>顧客に代わってサービスの問題を報告します。その方法や方法などが含まれます。
 
@@ -24,7 +24,7 @@ ms.locfileid: "106441950"
 
 **適切なロール**
 
-- 間接プロバイダー
+- グローバル管理者
 
 解決できないサービスの問題が発生していて、「 [Microsoft への問題のエスカレーション](escalate-problems-to-microsoft.md)」で説明されている条件を満たしている場合は、間接プロバイダーがサポートチケットを作成できます。 このプロセスは、請求に関する問題や紛争をエスカレートする場合や、不正行為が疑われる場合にも役に立ちます。
 
@@ -109,7 +109,7 @@ ISV の連絡先情報を検索するには:
 
 サービスリクエストは、パートナーセンターを通じて提出する必要があります。 これらは、Azure、Microsoft Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite で利用できます。 クラウド ソリューション プロバイダー プログラムに参加しているパートナーの場合は、重大な問題への応答時間において優先されることが期待できます。
 
-独自のパートナーテナントのサポートは、CSP サポート特典の一部として含まれていません。 ただし、Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite では、パートナーまたは顧客に対して個別のサポートサブスクリプション料金が請求されることはありません。 Azure では料金が請求されますが、署名のクラウドサポートやその他の Microsoft Partner Network (MPN) の特典を利用できる場合は、これらを使用して料金を支払うことができます。
+独自のパートナーテナントのサポートは、CSP サポート特典の一部として含まれていません。 ただし、Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite では、パートナーまたは顧客に対して個別のサポートサブスクリプション料金が請求されることはありません。 Azure では料金が請求されますが、署名のクラウドサポートやその他の Microsoft Partner Network (MPN) の特典がある場合は、これらの特典を利用して料金を支払うことができます。
 
 この特典は、有料版か試用期間かにかかわらず、クラウド ソリューション プロバイダー プログラムに参加しているすべてのパートナーに適用されます。 課金とサブスクリプションの管理のサポートも、このパッケージの無料コンポーネントとして組み込まれています。
 

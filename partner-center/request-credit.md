@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d33188510b127873864260199ff92018e1a4d995
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103827"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018154"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Microsoft からサービスレベルアグリーメント (SLA) のクレジットを要求する方法とタイミング
 
-お客様に提供しているサービスで障害が発生した場合に、Microsoft から **サービスレベルアグリーメント (SLA) のクレジット** を要求することができます。
+**適切なロール**
+
+- 管理エージェント
+- グローバル管理者
+
+お客様に提供しているサービスが停止している場合は、Microsoft からの **サービスレベルアグリーメント (SLA) クレジット** を要求できます。
 
 ## <a name="sla-credit-calculation"></a>SLA クレジットの計算
 
@@ -51,7 +56,7 @@ Microsoft からの SLA クレジットは、影響を受けたサービスに�
 - 影響を受けるユーザーの数と場所 (該当する場合)
 - 発生時のインシデントの解決試行の説明
 - 影響を受ける顧客からのサポートを要求する電子メール
-- サービスへの影響の解決に関するサポートチケット番号とお客様の連絡先の詳細
+- サービスへの影響の解決に関するサポートチケット番号と顧客連絡先の詳細
 
 
 #### <a name="outage-incident-identifier"></a>停止インシデント識別子
