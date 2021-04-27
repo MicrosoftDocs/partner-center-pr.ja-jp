@@ -5,13 +5,13 @@ ms.topic: conceptual
 ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/16/2021
-ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
-ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
+ms.date: 04/26/2021
+ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "107927749"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067441"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>コマーシャル マーケットプレース発行元向けの税の詳細
 
@@ -124,8 +124,41 @@ Microsoft は、以下の国で店舗料金に関する税金を徴収します�
 |ニュージーランド|サービス料金の税|サービス料金の税|
 |シンガポール|サービス料金の税|サービス料金の税|
 
+## <a name="commercial-marketplace-payout-scenarios"></a>商用 Marketplace の支払いシナリオ
 
-## <a name="next-steps"></a>次のステップ
+### <a name="end-customer-taxation"></a>エンドカスタマー課税
+
+- シナリオ 1: パブリッシャーで管理されている国の購入プランをお持ちのお客様
+
+  :::image type="content" source="images/tax/scenario-one.png" alt-text="発行元の支払い方法を示すグラフ。":::
+
+- シナリオ 2: Microsoft によって管理されている国購入プランのお客様 (発行元の国と無関係)
+
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft が管理する国における課税を示すグラフ":::
+
+- シナリオ 3: 海外出版社が、Microsoft が管理する国にある EU VAT 登録された顧客に対してクロスボーダーを行う
+
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="EU-VAT が税金に与える影響を示すグラフ"::: 
+
+- シナリオ 4: 海外出版社が、Microsoft が管理する国または国内外の顧客に対して、スイスの顧客に対して国内の販売を行う
+
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="VAT の処理方法を示すグラフ":::
+
+- シナリオ 5: Microsoft によって管理されている国の購入プランで、店舗サービス料金に関する税金があるお客様
+
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="店舗サービスの料金が税に与える影響を示すグラフ":::
+
+### <a name="withholding-tax"></a>源泉徴収税
+
+- シナリオ 1: 国外発行者 (税金プロファイルに適用される税金の条約特典が適用されていない場合) は、米国のお客様に販売します。 
+
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="税条約のない源泉徴収税を示すグラフ":::
+
+- シナリオ 2: 海外の出版社 (税金プロファイルに適用される税金の条約の特典を使用した場合、税率はゼロ% になります) は、米国のお客様に販売します。 
+
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="税条約を使用した源泉徴収税を示すグラフ":::
+
+## <a name="next-steps"></a>次の手順
 
 - [発行元の FAQ](/azure/marketplace/marketplace-faq-publisher-guide) 
 
