@@ -9,15 +9,18 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266539"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120802"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>ネットワークの特典とコンピテンシーを管理するためにパートナー センターで MPN アカウントを作成する
 
+**適切なロール**
+
+- MPN パートナー管理者
 
 Microsoft Partner Network (MPN) を初めて利用する、MPN ID をお持ちでないパートナーは、[登録手順](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)に従って登録を始めることができます。
 
