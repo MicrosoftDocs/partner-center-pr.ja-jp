@@ -9,14 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 149897c0afa12c4c45df974dafb5c47826274174
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549211"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120733"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>マイクロソフトからの紹介案件の獲得によるビジネスの拡大
+
+**適切なロール**
+
+- 紹介管理者
 
 多くのお客様は、Microsoft のテクノロジおよびビジネス ソリューションの実装を依頼できるような、条件に合ったエキスパートを求めています。 Microsoft には、当社のマーケティング活動や社内の Microsoft 販売担当者を通じて、サポートを求める声が多くのお客様から寄せられます。 また、お客様は、[**[ソリューション プロバイダーを見つける]** 機能](https://www.microsoft.com/solution-providers/search)を使用して、ビジネス ニーズを満たすためのサポートを得ることのできる会社を検索します。 
 

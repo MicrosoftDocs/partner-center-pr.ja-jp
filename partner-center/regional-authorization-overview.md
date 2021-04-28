@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528595"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120768"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>クラウドソリューションプロバイダープログラムの地域市場と、CSP プランを販売できる通貨
+
+**適切なロール**
+
+- グローバル管理者
 
 会社の場所によって市場が決まります。 市場には、クラウドソリューションプロバイダー (CSP) プログラムの提供を販売できるリージョンや国が含まれています。
 
@@ -26,7 +30,7 @@ ms.locfileid: "107528595"
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Azure Plan for CSP リージョンの可用性  
 
-Azure Plan for CSP は、CSP 用の Azure ソフトウェアよりも少数のリージョンで利用できます。  Azure プランのリージョンの可用性に関する最新の更新を確認するには、「  [azure プランを購入](purchase-azure-plan.md) する」を参照してください。 
+CSP 用の Azure プランは、CSP 用の Azure ソフトウェアよりも少数のリージョンで利用できます。 Azure プランのリージョンの可用性に関する最新の更新については、「 [azure プランの購入](purchase-azure-plan.md)」を参照してください。
 
 >[!IMPORTANT]
 > 顧客が署名者に関する情報を提供することによって、Microsoft カスタマーアグリーメントに同意したことを確認する必要があります。 詳しくは、「[Microsoft 顧客契約に関するお客様の同意を確認する](confirm-consent.md)」を参照してください。
@@ -40,7 +44,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 - 直接請求パートナーが使用する URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0。 **partnertenantguid** をテナント ID に置き換えます。 
 
-- 間接リセラーの URL: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 **IRtenantguid** をテナント ID に置き換えます。 **IRMPNID** を MPN ID に置き換え、**IPtenantguid** を間接プロバイダー テナント ID に置き換えます。
+- 間接リセラーの URL: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 **Irtenantguid** をテナント ID に置き換えます。 **Irmpnid** を MPN id に置き換え、 **iptenantguid** を間接プロバイダーのテナント id に置き換えます。
 
 ## <a name="africa-region-and-market"></a>アフリカの地域と市場
 
@@ -84,7 +88,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 | ナイジェリア                  |   USD    |
 | レユニオン                  |   USD    |
 | ルワンダ                   |   USD    |
-| サントメ・プリンシペ    |   USD    |
+| サントメ プリンシペ    |   USD    |
 | セネガル                  |   USD    |
 | セーシェル               |   USD    |
 | シエラレオネ             |   USD    |
@@ -136,7 +140,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  フィジー                  |   AUD    |
 |  仏領極南諸島| AUD |
 |  グアム                  |  AUD     |
-|  ハード・マクドナルド諸島| AUD |
+|  ハード島とマクドナルド諸島| AUD |
 |  キリバス              |   AUD    |
 |  マーシャル諸島      |   AUD    |
 |  ミクロネシア            |   AUD    |
@@ -146,12 +150,12 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  北マリアナ諸島| AUD    |
 |  パラオ                 |   AUD    |
 |  パプアニューギニア      |   AUD    |
-|  ピトケアン島      |   AUD    |
+|  ピトケアン諸島      |   AUD    |
 |  ソロモン諸島       |   AUD    |
 |  トケラウ               |   AUD    |
 |  トンガ                 |   AUD    |
 |  ツバル                |   AUD    |
-|  ワリス・フテュナ諸島     |   AUD    |
+|  ウォリス・フツナ     |   AUD    |
 |
 
 ## <a name="brazil-region-and-market"></a>ブラジルの地域と市場
@@ -170,7 +174,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  国/地域 | Currency |
 |  -------------- |:--------:|
 |  Canada         |   CAD    |
-|  サンピエール・ミクロン|  CAD   |
+|  サンピエール島・ミクロン島|  CAD   |
 |
 
 ## <a name="europe-region-and-market"></a>ヨーロッパの地域と市場
@@ -223,7 +227,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  スウェーデン         |   SEK    |
 |  スイス    |   CHF    |
 |  英国             |   GBP    |
-|  バチカン市国   |          |
+|  バチカン   |          |
 |
 
 ## <a name="india-region-and-market"></a>インドの地域と市場
@@ -298,7 +302,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  ペルー           |   USD    |
 |  プエルトリコ    |   USD    |
 |  サバ島           |   USD    |
-|  サン・バルテルミー|  USD    |
+|  サン バルテルミー島|  USD    |
 |  セントクリストファー・ネーヴィス|    |
 |  セントルシア    |   USD    |
 |  サン・マルタン   |   USD    |
@@ -404,5 +408,5 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 |  国/地域       | Currency |
 |  -------------        |:--------:|
 |  United States        |   USD    |
-|  米領小離島|   USD    |
+|  米国領有小離島|   USD    |
 |

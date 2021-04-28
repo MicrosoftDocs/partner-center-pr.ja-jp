@@ -8,14 +8,19 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103776"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120718"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP による1回限りの購入調整ファイルフィールド
+
+**適切なロール**
+
+- アカウント管理者
+- 課金エージェント
 
 ## <a name="using-the-recon-file"></a>偵察ファイルの使用
 次の表は、CSP の1回限りの購入について、調整ファイル内のフィールドの説明とサンプル値を示しています。
@@ -39,7 +44,7 @@ ms.locfileid: "106103776"
 | AvailabilityId | 可用性の一意識別子。 | *DZH318Z08B80* |
 | SkuName | SKU の名前。 | *テーブル-LRS* |
 | ProductName | 製品名。 | *テーブル* |
-| ChargeType | 料金または調整 [の種類](./recon-file-charge-types.md) 。 | *新規* |
+| ChargeType | 料金または調整 [の種類](./recon-file-charge-types.md) 。 | *[新規作成]* |
 | UnitPrice | ライセンスあたりの料金。購入時の価格表に記載されています。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *0.045* |
 | Quantity | ライセンスの数。 これは、調整時に請求システムに格納されている情報と一致していることを確認してください。 | *1* |
 | 小計 | 合計額 (税抜)。 小計は、課金対象の数量と有効な単価を乗算した値と同じである必要があります。 | *0* |
@@ -63,12 +68,12 @@ ms.locfileid: "106103776"
 | PCToBCExchangeRate | 料金通貨に適用される換算レート。 | *0.846202666* |
 | PCToBCExchangeRateDate | 請求通貨の価格の通貨が決定される日付。 | *2020 年 9 月 30 日* |
 | MeterDescription | メーターの説明。  | *テーブル-LRS 格納データ (GB/月)* |
-| ReservationOrderId | 予約注文 Id。 | *E21A6344E398FFC1C4D7...* |
+| ReservationOrderId | 予約注文 ID。 | *E21A6344E398FFC1C4D7...* |
 | CreditReasonCode | クレジットの説明。 | *Azure の消費クレジット* |
 
 >[!NOTE]
 >Azure の使用量は、一度だけ購入したファイルで調整できます。 これを行うには、毎日評価される使用法偵察 file にアクセスし、SubscriptionID を検索します。 これにより、Azure プラン ID に関連付けられているすべてのコストが表示されます。 Azure SubscriptionID は EntitlementID として表示されます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [請求と税金](billing.md)

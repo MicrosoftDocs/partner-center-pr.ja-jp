@@ -9,16 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220490"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120819"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>パートナーセンターの洞察で利用できる概要ダッシュボードレポート
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>パートナー センターの分析情報で利用できる概要ダッシュボード レポート
  
-Insights の概要ダッシュボードには、顧客、サブスクリプション、Azure の消費収益、ライセンスなどの主要業績評価指標のスナップショットビューが表示されます。概要レポートでは、次のグラフを視覚化できます。
+**適切なロール**
+
+- グローバル管理者
+- 管理エージェント
+- レポート ビューアー
+- エグゼクティブ レポート ビューアー
+
+Insights の概要ダッシュボードには、顧客、サブスクリプション、Azure 従量課金、ライセンスなど、主要業績評価指標のスナップショットビューが表示されます。 概要レポートでは、次のグラフを視覚化できます。
 
 - まとめ  
 - 顧客、サブスクリプション、ライセンスの地理的拡散  
@@ -33,7 +40,7 @@ Insights の概要ダッシュボードには、顧客、サブスクリプシ�
 
 :::image type="content" source="images/pci/summary.png" alt-text="ライセンスの概要":::
 
-概要の各セクションの詳細については、以下を参照してください。
+概要の各セクションの詳細については、「」を参照してください。
 
 ### <a name="customers"></a>顧客
 
@@ -80,7 +87,7 @@ Insights の概要ダッシュボードには、顧客、サブスクリプシ�
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>顧客、サブスクリプション、ライセンスの地理的拡散
 
-このビューは、顧客、サブスクリプション、およびライセンスの合計を顧客の国別に地理的に分散したものです。 さまざまなタブをクリックすると、これらの各分析情報がマップに表示されます。 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [ホーム] ボタンを押して、元のビューに戻します。 各タブ (Customers、サブスクリプションなど) をクリックすると、国ごとのメトリックの値と、その国の合計の割合が表示されます。  
+このビューは、顧客、サブスクリプション、およびライセンスの合計を顧客の国別に地理的に分散したものです。 さまざまなタブを選択すると、これらの各分析情報がマップに表示されます。 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [ホーム] ボタンを押して、元のビューに戻します。 各タブ (Customers、サブスクリプションなど) をクリックすると、国ごとのメトリックの値と、その国の合計の割合が表示されます。  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="地理的な概要":::
 
