@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120751"
+ms.locfileid: "108172433"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>パートナーセンターで受注した取引を登録して、後でより多くの機会を得ることができるようにする
+
+**適切なロール**
+
+- 紹介管理者
 
 契約に関する追加情報を提供することで、パートナー センター内で成立した取引を登録できます。 この情報により、今後 Microsoft では、より多くの商談を提供できます。
 

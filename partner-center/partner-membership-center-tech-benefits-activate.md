@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62bb526d1eab17a13e70b147a318b6e6fdaa84fb
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964444"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172185"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>パートナーセンター外で Microsoft Partner Network 技術的な特典をアクティブ化する
 
@@ -27,7 +27,7 @@ ms.locfileid: "106964444"
 
 多くの Microsoft Partner Network (MPN) メンバーは、 [パートナーメンバーシップセンターからパートナーセンターに移行](prepare-pmc-pc-migration.md) 済みで、ユーザー、顧客、MPN の特典を管理するのに役立ちます。
 
-ただし、MPN メンバーシップがパートナーメンバーシップセンター (PMC) 内にある場合は、一部の MPN 特典をアクティブ化するためのヘルプが必要になることがあります。
+MPN メンバーシップがパートナーメンバーシップセンター (PMC) にまだある場合は、一部の MPN 特典をアクティブ化するためのヘルプが必要です。
 
 ## <a name="activate-technical-benefits-by-region"></a>リージョンごとに技術的な特典をアクティブ化する
 
@@ -43,7 +43,7 @@ PMC のユーザーの場合は、テクニカル特典のアクティブ化に�
 |オーストラリア、ニュージーランド、台湾  | [Partner 最前線のサポート](https://partner.microsoft.com/support?issueid=300-0042)  |
 |アジア太平洋以上の中国  | テクニカル サポート  |
 
-\***ヨーロッパ、中東、およびアフリカのパートナーのみ:** Regform に電子メールを送信する場合は、Partner ID、MPN に関連付けられている電子メールアドレス、名前、会社名、電話番号、市区町村、国を含めます。 サポート契約の作成やライセンス認証を行う際には、Regform を使用してください。 その他の MPN 関連の問題がある場合は、 [Partner 最前線サポート](https://partner.microsoft.com/support?issueid=300-0042)にお問い合わせください。
+\***ヨーロッパ、中東、およびアフリカ (EMEA) のみのパートナー向け:** Regform に電子メールを送信する場合は、Partner ID、MPN に関連付けられている電子メールアドレス、名前、会社名、電話番号、市区町村、国を含めます。 サポート契約の作成やライセンス認証を行う際には、Regform を使用してください。 その他の MPN 関連の問題がある場合は、 [Partner 最前線サポート](https://partner.microsoft.com/support?issueid=300-0042)にお問い合わせください。
 
 特典を有効にすると、会社の主要な特典に関連付けられているプログラムの連絡先にその特典の製品サポート Id が付与されます。 これらの Id には、 **アクセス id** と **契約 ID** が含まれます。 
 

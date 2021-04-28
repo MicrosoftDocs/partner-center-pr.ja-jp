@@ -8,18 +8,18 @@ description: Microsoft パートナーとして、お客様や特定のプログ
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b056d21fd1581c9fa478f720addec0c1d4c3c87
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041050"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172338"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>プログラム、ライセンス、または顧客の取引に関する質問に回答するパートナーまたはソリューションプロバイダーを見つける 
 
-**適用対象**
+**適切なロール**
 
-- Microsoft MPN パートナー、CSP パートナー、その他
+- すべての Microsoft パートナー
 
 この記事では、microsoft パートナーが microsoft の製品とサービスを成功させるために役立つ他のパートナーを見つける方法について説明します。
 

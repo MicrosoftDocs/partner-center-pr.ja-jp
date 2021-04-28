@@ -1,20 +1,25 @@
 ---
-title: Kaizala Pro サブスクリプションを Microsoft365 に移行する
-description: Kaizala Pro サブスクリプションを Microsoft365 または Office 365 バージョンに移行する方法について説明します。 お客様の移行の詳細については、この記事をご覧ください。
+title: Kaizala Pro サブスクリプションを Microsoft 365 に移行する
+description: Kaizala Pro サブスクリプションを Microsoft 365 または Office 365 バージョンに移行する方法について説明します。 お客様の移行の詳細については、この記事をご覧ください。
 ms.topic: article
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175169"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172406"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Kaizala Pro スタンドアロンサブスクリプションを Microsoft365 または Office 365 バージョンに移行する
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Kaizala Pro スタンドアロンサブスクリプションを Microsoft 365 または Office 365 バージョンに移行する
+
+**適切なロール**
+
+- 販売代理店
 
 2020年7月1日より、Microsoft は Kaizala Pro スタンドアロンサービスの売上を終了します。 お客様は、この日より後に新しい Kaizala Pro サブスクリプションを購入することはできなくなります。また、既存の Kaizala Pro サブスクリプションは、有効期限が切れると自動的に更新されません。
 
@@ -28,7 +33,7 @@ E4 サブスクリプションは `auto renew=False` 、2020年7月1日に設定
 
 新しいプランでは、お客様は Microsoft 365 の新しい機能を利用できます。 料金の詳細は、パートナー センターの料金表またはプランのマトリックスに記載されています。
 
-- 次を含む[**ビジネス向け Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2):  
+- 次を含む [**ビジネス向け Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2):  
    - Microsoft 365 Business Basic
    - Microsoft 365 Business Standard
    - Microsoft 365 Business Premium
@@ -41,7 +46,7 @@ E4 サブスクリプションは `auto renew=False` 、2020年7月1日に設定
    - Microsoft 365 E3 および Office 365 E3
    - Microsoft 365 E5 および Office 365 E5
 
-- 以下を含む[**教育の Microsoft 365**](https://www.microsoft.com/education/buy-license/microsoft365): 
+- 以下を含む [**教育の Microsoft 365**](https://www.microsoft.com/education/buy-license/microsoft365): 
     - Microsoft 365 A1 と Office 365 A1
     - Microsoft 365 A3 と Office 365 A3
     - Microsoft 365 A5 と Office 365 A5

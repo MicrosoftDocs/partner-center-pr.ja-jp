@@ -9,20 +9,22 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 315089a3a20fdd5f9de283494e735f54bd351806
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.openlocfilehash: 2c44581b1c2d7fcf2e4a10de9194a8c7288791a2
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541030"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172270"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>お客様へのさまざまな種類のサポートの提供
 
 **適用対象**
 
--  パートナー センター
 -  米国政府機関向け Microsoft Cloud のパートナー センター
 
+**適切なロール**
+
+- ヘルプエージェント
 
 ## <a name="microsoft-partner-support-guidance"></a>Microsoft パートナー サポート ガイダンス
 

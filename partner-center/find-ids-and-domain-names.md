@@ -9,14 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439245"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172253"
 ---
 # <a name="locate-important-ids-for-a-user"></a>ユーザーの重要な Id を検索する
+
+**適切なロール**
+
+- グローバル管理者
 
 この記事では、 [Azure portal](https://portal.azure.com/) を使用して、ユーザーに関する次の情報を検索する方法について説明します。
 
