@@ -7,13 +7,13 @@ ms.subservice: partnercenter-csp
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.date: 09/18/2020
-ms.openlocfilehash: 2cdb63c8f7e29fc8a56e920b587e47c382c6eacb
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 04/27/2021
+ms.openlocfilehash: 91f64faeec0b97be2797d489e152cb84cbb2e192
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086959"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213452"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>パートナーセンターダッシュボードから使用可能な CloudAscent 傾向レポート
 
@@ -22,47 +22,48 @@ ms.locfileid: "106086959"
 - エグゼクティブ レポート ビューアー
 - レポート ビューアー
 
-パートナーセンターダッシュボードは、CloudAscent プログラムからダウンロード可能な傾向データを提供します。 このデータは、Microsoft 製品を購入する顧客の傾向を示しています。  この記事では、このデータの内訳、スコアリングの使用方法、およびその意味について説明します。
+パートナーセンターダッシュボードは、CloudAscent プログラムからダウンロード可能な傾向データを提供します。 データは、顧客が Microsoft 製品を購入する可能性を示しています。  この記事では、このデータの内訳、スコアリングの使用方法、およびその意味について説明します。
 
 ## <a name="summary-definitions"></a>概要定義
 
 - **SMC のお客様**–傾向のダウンロードにおける顧客の合計数です。  顧客は、レコードのパートナーによって識別されます。
 - **契約期限切れ**–現在の会計年度内で、期限切れになった契約の数を提供しています。
-- **期限** 切れの収益–期限切れになった契約に関連付けられている収益。
 - **[有効期限** が迫っている収益] –オープン期限が切れた契約に関連付けられている収益。
 
-:::image type="content" source="images/pci/cust-oppor-1.png" alt-text="Customers 営業案件の概要ダッシュボードのスクリーンショット。":::
+:::image type="content" source="images/pci/cust-oppor-11.png" alt-text="Customers 営業案件の概要ダッシュボードのスクリーンショット。":::
 
 ## <a name="cloudascent-smb-segmentation"></a>CloudAscent SMB セグメンテーション
 
-小規模から中規模のビジネス (SMB) セグメントは、さらに3つの個別のサブセグメントに分割されます。
+中小企業 (SMB) セグメントは、3つの異なるサブセグメントに分割されています。
 
-1. **上位の非管理** 対象には、Microsoft の最も多くの機会を持つ最大規模の SMB 顧客が含まれます。 一般的な上位の管理されていないお客様は、多数の従業員、大量の IT 予算および支出、Microsoft の収益の可能性を持つ、管理アカウントと同様の特性を共有します。
+1. **上位の非管理** 対象には、Microsoft の最も多くの機会を持つ最大規模の SMB 顧客が含まれます。 一般的な上位の管理されていないお客様は、多数の従業員、大量の IT 予算および支出、Microsoft の収益の可能性を持つ、管理アカウントに類似した特性を共有します。
 
-   上位のアンマネージ2つの方法を定義します。
+   上位のアンマネージは、次の2つの方法で定義されます。
 
    - 上位の管理されていない **ユーザーベース**–300以上の従業員を含むアカウントを含みます。 User-Based アカウントは、初回購入の場合は優れたターゲット、Microsoft 365、Dynamics 365、Surface などのユーザーベースのサブスクリプション製品を展開する場合に適しています。
    - 管理されていない **計算ベースの上位**– Azure が $ 10k を超える可能性のあるアカウントを含みます。 コンピューティングベースのアカウントには、既存の Azure が含まれます。 将来、Azure をまだ購入していても、Azure では $ 10k を超える可能性のある azure をまだ購入していない、未来の年の可能性があるアカウントとアカウント。
 
 2. **中規模ビジネス** には、既存の顧客と、25 ~ 300 人の従業員を持つ見込み客アカウントが含まれます。
 
-3. **スモールビジネス** には、従業員が25人未満の残りの企業がすべて含まれます。
+3. **スモールビジネス** には、10-25 人の従業員を抱える企業が含まれています。
+
+4. **非常に小規模なビジネス** には、従業員が1-9 の企業が含まれています。
 
 :::image type="content" source="images/pci/cust-oppor-2.png" alt-text="SMC によるお客様の種類。":::
 
 **上位の管理対象外** および **中規模のビジネス** subsegments は、microsoft および microsoft パートナー向けの高ライフタイム値 (ltv) のお客様を表します。 このため、it 部門は、このセグメントの成長に焦点を当てています。 この2つの subsegments では、D365/Azure 基幹業務 (LOB) アプリを使用して、さらに収益化で Microsoft 365 ソケットを取得し、Microsoft 向けの高機能を実現することをお勧めします。
 
-現在、2つの主要な領域があります。 1. お客様は成長を促進します。3. Microsoft 365 を使用してクラウドソケットを取得していますが、D365 と Azure には大きなチャンスがあります。
+現在、2つの主要な領域があります。 1. お客様は成長を促進します。3. Microsoft 365 を使用してクラウドソケットを取得していますが、Dynamics 365 と Azure には大きなチャンスがあります。
 
-次のスクリーンショットは、3つの SMB Subsegments と、市場に合わせて最適化されたルートを示しています。 CloudAscent は、すべての管理対象外および中規模のビジネスアカウントのプロファイル、スコアリング、およびモデリングに優先順位を付けます。
+次のスクリーンショットは、4つの SMB Subsegments を表しています。 CloudAscent は、すべての管理対象外および中規模のビジネスアカウントのプロファイル、スコアリング、およびモデリングに優先順位を付けます。
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="SMB subsegments のスクリーンショット。":::
+:::image type="content" source="images/pci/cust-oppor-32.png" alt-text="SMB subsegments のスクリーンショット。":::
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
 SMB では、機械学習テクノロジを使用して、上位のアンマネージおよび中規模のビジネスセグメント内の売上およびマーケティング顧客の予測を促進します。 シグナルはどのように収集され、傾向推奨事項に分類されますか。
 
-- **データ収集**: Web クローラーは、会社のドメインに ping を実行して数十億の顧客信号をスキャンおよび収集し、ブログの投稿、プレスリリース、ソーシャルストリーム、および技術フォーラムを監視します。  収集されたシグナルに加えて、c&B、Microsoft 内部サブスクリプション、トランザクションデータなどの内部ソースと外部ソースの両方から、のグラフィック情報が収集されます。
+- **データ収集**: Web クローラーは、会社のドメインに ping を実行し、ブログの投稿、プレスリリース、ソーシャルストリーム、および技術フォーラムを監視して、数十億の顧客信号をスキャンおよび収集します。  収集されたシグナルに加えて、c&B、Microsoft 内部サブスクリプション、トランザクションデータなどの内部ソースと外部ソースの両方から、のグラフィック情報が収集されます。
 
 - **Machine Learning**: これらの信号は、クラウド製品とクラスターによって各顧客の売上およびマーケティング予測の構造化データセットを出力する機械学習モデルに取り込まれます。  各顧客は、お客様の適合性を判断する Microsoft の上位 SMB と、お客様のオンライン行動を意図したとおりに定義する機械学習アルゴリズムを使用して、お客様にスコアを付けます。 スコアリングは、Microsoft Cloud 製品を購入する顧客の傾向を示すクラスターにマージされます。
 
@@ -136,4 +137,6 @@ Web クローラーを介して収集されたシグナルとさまざまなソ�
 
 アップセルモデルでは、トランザクションデータを使用して、Azure と Microsoft 365 Sku でのアップセルの可能性を予測します。
 
-EOS は、Windows 7、Office 2010、SQL Server、および Windows Server のサービスエンドカスタマーを共有します。 EOS データは MS Sales から引き出され、CloudAscent 傾向モデリング (使用可能な場合) と連携しています。 EOS データは、最新の作業と Azure の販売の役割を果たします。
+これらのお客様は既に Azure と Microsoft 365 の両方を所有しており、アップセルモデルは既存の SKU を追加購入する可能性があることを示しています。
+
+EOS は、Win 7、Office 2010、SQL Server、および Windows Server のサービス終了 (EOS) 顧客を共有します。 EOS データは MS Sales から引き出され、CloudAscent 傾向モデリング (使用可能な場合) と連携しています。 EOS データは、最新の作業と Azure の販売の役割を果たします。
