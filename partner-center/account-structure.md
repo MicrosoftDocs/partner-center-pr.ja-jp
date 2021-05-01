@@ -9,28 +9,26 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768671"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284164"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>パートナーセンターには、MPN パートナー向けの2つのレベルのアカウントがあります。
-
 
 **適切なロール**
 
 - アカウント管理者
-- ビジネス プロファイル管理者
-
+- グローバル管理者
 
 パートナーセンターには、2つのレベルのアカウントがあります。
 
-## <a name="the-top-level-is-the-partner-global-account-pga"></a>最上位レベルは、パートナーグローバルアカウント (PGA) です。
+## <a name="the-top-level-account-is-the-partner-global-account-pga"></a>最上位レベルのアカウントは、パートナーグローバルアカウント (PGA) です。
 
 - パートナーグローバルアカウントには、会社の住所と主要連絡先が含まれています。 
-- パートナーのグローバルアカウントの詳細を [**設定**  ->  ] [**組織プロファイル**]、[**法的プロファイル**] から表示します。
+- パートナーのグローバルアカウントの詳細を [**設定**] [  >  **組織プロファイル**] [  >  **法的プロファイル**] から表示します。
 - 詳細には、パートナーグローバルアカウント MPN ID も含まれます。 
 - PGA は会社の親であり、インセンティブプログラムまたはクラウドソリューションプロバイダーの関連付けには使用されません。 
 - このような関連付けには、場所を使用する必要があります。
@@ -46,6 +44,6 @@ PGA には、その下に追加の事業所がある場合があります。 各
 
 :::image type="content" source="images/accountstructure.png" alt-text="アカウントの構造" border="false":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - 場所の管理の詳細については、「 [パートナーアカウントの管理: 場所](manage-locations.md)」を参照してください。

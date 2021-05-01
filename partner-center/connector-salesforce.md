@@ -8,16 +8,16 @@ description: パートナーセンターの紹介を Salesforce CRM と同期し
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
-ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
+ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "97960953"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284385"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM のための共同販売コネクタ - 概要
 
-### <a name="appropriate-roles"></a>適切なロール
+**適切なロール**
 
 - 紹介管理者
 - CRM のシステム管理者またはシステムカスタマイザー
@@ -39,24 +39,22 @@ ms.locfileid: "97960953"
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Microsoft カスタムフィールド用の Salesforce パッケージのインストール 
 
-パートナーセンターと Salesforce CRM 間で紹介を同期するために、Power solution の自動化ソリューションでは、Microsoft 固有の参照フィールドを明確に識別する必要があります。 このような境界は、パートナーの販売者チームが、共同販売のために Microsoft と共有する参照を決定する機能を提供します。
+パートナーセンターと Salesforce CRM 間で紹介を同期するために、Power solution の自動化ソリューションでは、Microsoft 固有の紹介フィールドを明確に識別する必要があります。 このような境界は、パートナーの販売者チームが、共同販売のために Microsoft と共有する参照を決定する機能を提供します。
 
 1. Salesforce で、 **メモ** をアクティブ化し、営業案件の関連リストに追加します。 
-[リファレンス](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
+[参照](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
 2. 次の手順に従って **営業案件チーム** をアクティブ化します。 
     - セットアップで、[ **クイック検索** ] ボックスを使用して営業案件チームの設定を検索します。
     - 必要に応じて設定を定義します。
-[リファレンス](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
+[参照](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. Salesforce で、次のパッケージインストーラーを使用して、カスタムフィールドとオブジェクトをインストールします。
-  
-任意の会社にパッケージをインストールするには、 [こちら](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) を参照してください。
+3. Salesforce で、 [パッケージインストーラー](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV)を使用してカスタムフィールドおよびオブジェクトをインストールします。 これを使用して、任意の会社にパッケージをインストールします。
 
+>[!NOTE]
+>サンドボックスにをインストールする場合は、URL の最初の部分をに置き換える必要があります。 http://test.salesforce.com
 
-注: をサンドボックスにインストールする場合は、URL の最初の部分を次のように置き換える必要があります。 http://test.salesforce.com
-
-4. Salesforce で、 **営業案件** 関連の一覧に Microsoft ソリューションを追加します。 追加したら、 **レンチ** アイコンをクリックし、プロパティを更新します。
+4. Salesforce で、 **営業案件** 関連の一覧に Microsoft ソリューションを追加します。 追加したら、 **レンチ** アイコンを選択し、プロパティを更新します。
 
 ## <a name="best-practice-test-before-you-go-live"></a>ベストプラクティス: 運用前にテストする
 
@@ -78,7 +76,7 @@ ms.locfileid: "97960953"
 
 3. 左側のナビゲーションバーで [ **ソリューション** ] を選択します。
 
-4. 上部のメニューの [ **AppSource を開く** ] リンクをクリックします。
+4. 上部のメニューの [ **AppSource を開く** ] リンクを選択します。
 
    :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="AppSource を開く":::
 
@@ -86,7 +84,7 @@ ms.locfileid: "97960953"
 
    :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. [ **今すぐ入手** する] ボタンをクリックし、[ **続行**] をクリックします。
+6. [ **今すぐ入手** する] ボタンを選択し、[ **続行**] をクリックします。
 
 7. これにより、Salesforce CRM 環境を選択してアプリケーションをインストールできるページが開きます。  使用条件に同意します。
 
@@ -135,7 +133,7 @@ ms.locfileid: "97960953"
  
 :::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="コネクタの編集を開始します":::
 
-2. 3つのドットアイコンを選択して、各接続を1つずつ編集します。 関連する接続を追加します。
+2. 3つのドットアイコンを選択して、各接続を個別に編集します。 関連する接続を追加します。
 
 :::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="コネクタの編集":::
 
@@ -177,7 +175,7 @@ ms.locfileid: "97960953"
 
 8. 次に、"パートナーセンターの Webhook の登録 (Insider Preview)" パワー自動化フローを選択し、[ **実行**] を選択します。
 
-9. 右側のウィンドウで [実行フロー] ウィンドウが開いていることを確認し、[ **続行**] をクリックします。
+9. 右側のウィンドウで [実行フロー] ウィンドウが開いていることを確認し、[ **続行**] を選択します。
 
 10. 次の詳細を入力します。
 
@@ -209,9 +207,9 @@ Webhook は、イベントの作成と更新をリッスンできるようにな
 
 2. 作成イベントの CRM フィールドマッピングをカスタマイズするには、[ **新しい共有の営業案件]、[**] の順に選択します。 [ **はい] の場合** はサブステップを選択し、 **CRM で [新しい営業案件の作成**] を展開します。 このセクションでマッピングを編集するには、[フィールドマッピングガイド] を使用します。
 
-   1. 更新イベントの CRM フィールドマッピングをカスタマイズするには、[(スコープ) 潜在顧客または営業案件を同期する] ステップをクリックします。
+   1. 更新イベントの CRM フィールドマッピングをカスタマイズするには、[(スコープ) 潜在顧客または営業案件を同期する] ステップを選択します。
 
-   2. **営業案件の更新である場合は、** を選択します。 [サブステップ **if yes]** を選択し、次に **パートナーセンターと CRM の営業案件オブジェクト間の差異がある場合** は、を展開します。  
+   2. **営業案件の更新である場合は、** を選択します。 [ **はい] の場合** はサブステップを選択し、 **パートナーセンターと CRM の営業案件オブジェクト間の差異がある場合は**[] を展開します。  
 
    3. **既存の営業案件を更新** する場合は、[**はい]** を選択します。
 

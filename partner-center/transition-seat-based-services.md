@@ -9,14 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768688"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284453"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>他のチャネル & パートナーから Cloud Solution Provider プログラムにライセンスベースのお客様を移動する
+
+**適切なロール**
+
+- アカウント管理者
+- 販売代理店
+- 課金エージェント
 
 顧客が複数のパートナーと携わったり、サブスクリプションを別のパートナーに移管したり、別途購入したサブスクリプションを管理したりする場合には、手動で移行することができます。 別のチャネルからパートナー センターに顧客を移動することもできます。
 
@@ -42,7 +48,7 @@ ms.locfileid: "104768688"
 >[!NOTE]
 > CSP パートナーであるお客様の所在地は、その顧客をお客様に向けて移行する顧客テナントと同じ地域である必要があります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Azure プランで従量課金制料金の使用を開始する](azure-plan-get-started.md)
  

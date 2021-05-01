@@ -151,6 +151,8 @@
     - name: CSP 契約、価格表、キャンペーン
       href: csp-documents-and-learning-resources.md
       displayName: csp
+    - name: 登録 ID 番号の情報
+      href: reg-number-id.md
     - name: CSP の地域市場、通貨
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'

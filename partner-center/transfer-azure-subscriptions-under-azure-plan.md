@@ -9,18 +9,20 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
-ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
+ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97893208"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284504"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>顧客の Azure プランサブスクリプションを別のパートナーに譲渡する
 
 **適切なロール**
 
-- クラウド ソリューション プロバイダー (CSP) プログラムのパートナー
+- アカウント管理者
+- 販売代理店
+- 課金エージェント
 
 この記事では、顧客が azure プランの Azure サブスクリプションを1つのクラウドソリューションプロバイダー (CSP) から別のクラウドソリューションプロバイダー (CSP) に切り替える方法について説明します。
 
@@ -42,7 +44,7 @@ ms.locfileid: "97893208"
 - 製品が Marketplace の適格性チェックに合格している限り、サードパーティの marketplace 製品は譲渡されます。
     - 特別な割引や地域の制限はありません
     - 製品は非サブスクリプションベースです
-    - 将来のパートナーは、発行元と協力して、製品の展開の許可リストに含まれていることを確認する必要があります。
+    - 将来のパートナーは、発行元と協力して、製品の展開のために許可リストにいることを確認する必要があります。
     - これらのすべての条件が満たされていない場合は、Marketplace 製品をキャンセルし、Azure サブスクリプションを譲渡した後、新しいパートナーと共に Marketplace 製品を再購入します。
 
 **前提条件:**

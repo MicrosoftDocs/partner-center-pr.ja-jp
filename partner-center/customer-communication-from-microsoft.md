@@ -9,19 +9,22 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 7b4e244a090b401afe2b0c86a532f5ecc6b5a154
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545833"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284351"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Microsoft とのカスタマーコミュニケーションを成功させるためのガイドライン
 
 **適用対象**
 
--  パートナー センター
--  米国政府機関向け Microsoft Cloud のパートナー センター
+- 米国政府機関向け Microsoft Cloud のパートナー センター
+
+**適切なロール**
+
+- ヘルプデスク エージェント
 
 一般的に、お客様とのすべての通信は、クラウド ソリューション プロバイダー パートナーから行われることが求められます。 貴社はお客様と課金の関係を維持しているため、Microsoft は、サブスクリプションに関連する通信をお客様に直接送ることはありません。
 

@@ -10,18 +10,23 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000626"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284521"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
 
 **適用対象**
 
--  Microsoft Cloud ドイツのパートナー センター
+- Microsoft Cloud ドイツのパートナー センター
+
+**適切なロール**
+
+- グローバル管理者
+- アカウント管理者
 
 > [!IMPORTANT]
 > お客様のニーズの変化に基づいて、ドイツのクラウド戦略は、グローバルクラウドサービスと一貫性のあるドイツの新しいクラウドリージョンの配信に焦点を当てます。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在提供されている現在のクラウドサービスを引き続き使用できます。このサービスは、必要なセキュリティ更新プログラムによって維持されます。
@@ -41,7 +46,7 @@ ms.locfileid: "91000626"
 
 Microsoft Cloud ドイツのパートナー センターにサインインしている場合は、サインインし直さなくても Microsoft Cloud ドイツの Azure ポータルを開くことができます。 ただし、Microsoft Cloud ドイツの Azure portal に直接サインインする必要がある場合は、「」に進んで [https://portal.microsoftazure.de](https://portal.microsoftazure.de) ください。 
 
-Microsoft Cloud ドイツの Azure portal に正常にサインインしたら、Azure Active Directory (Azure AD) 概要ページを開いて、次のトピックの手順に従います。
+Microsoft Cloud ドイツの Azure portal に正常にサインインしたら、Azure Active Directory (Azure AD) の [概要] ページを開き、次の記事の指示に従います。
 
 > [!NOTE]  
 > 下記のリンクを選択すると、別の Web サイトが開きます。

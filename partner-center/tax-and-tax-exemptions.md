@@ -9,15 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247668"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284470"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP プログラムのパートナーのリージョンまたは国ごとの税金および課税控除の詳細について説明します。
 
+**適切なロール**
+
+- グローバル管理者
 
 クラウドソリューションプロバイダー (CSP) プログラムは、製品のパートナー再販に重点を置いた販売チャネルです。 その結果、マイクロソフトは、パートナーの請求書の売上税を常に請求する必要があるとは限りません。 ルールは国や地域によって異なります。 [課税控除の国固有および地域固有の詳細](#country-and-region-tax-details)を確認できます。
 
@@ -30,15 +33,15 @@ ms.locfileid: "102247668"
 税金が請求される別の国または地域にいる場合は、 [その他の地域の情報](#other-regions)を参照してください。
 
 
-### <a name="canada"></a>Canada
+### <a name="canada"></a>カナダ
 
 ほとんどのリセラーについて、GST/HST/QST は除外されません。 税金アドバイザーを調べて、除外対象に限定されているかどうか、および Microsoft に提供する必要のあるドキュメントを確認してください。
 
 BC PST の除外対象として、説明に従って免税を適用します。 BC PST 番号か、記入および署名された *Certificate of Exemption General* を提示します。
 
-### <a name="united-states"></a>United States
+### <a name="united-states"></a>アメリカ合衆国
 
-米国内のすべての再販業者は、Microsoft リセラー契約に同意後 30 日以内に売上税の除外に関連する書類を提出する必要があります。 再販に関する除外証明書は州によって異なります。 貴社の法定住所や登録されている州に関連する内容について判断するには、税アドバイザーに相談してください。
+米国内のすべての再販業者は、Microsoft リセラー契約に同意後 30 日以内に売上税の除外に関連する書類を提出する必要があります。 再販に関する除外証明書は州によって異なります。 税金アドバイザーを使用して、使用している住所と登録済みの状態に関連する情報を確認します。
 
 これには、" *合理化* された販売"、" *免税の使用税契約書* "、または " *MTC Uniform Sales & 使用税の除外証明書*" など、複数の州にわたって機能する、対象外の除外証明書が含まれる場合があります。
 

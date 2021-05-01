@@ -8,16 +8,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 2082424f8203f0d9c50726e1e5ef7b3e3c39d6c2
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: c399e00394208ec29dd59a41afe7cce1b1d07253
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768773"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284334"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Dynamics 365 CRM の共同販売コネクタの概要
 
-### <a name="appropriate-roles"></a>適切なロール
+**適切なロール**
 
 - 紹介管理者
 - CRM のシステム管理者またはシステムカスタマイザー
@@ -110,7 +110,7 @@ ms.locfileid: "104768773"
 
    :::image type="content" source="images/connection-reference-video.gif" alt-text="接続の編集を示すスクリーンショット。":::
 
-1. 省略記号アイコンを選択して、各接続を1つずつ編集します。 関連する接続を追加します。
+1. 各接続を個別に編集するには、省略記号アイコンを選択します。 関連する接続を追加します。
 
    :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="接続の一覧を示すスクリーンショット。":::
 
@@ -268,7 +268,7 @@ CRM システムは高度にカスタマイズされており、CRM のセット
 
    1. 同期された参照を選択すると、カードビューの詳細が設定されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [見込み客を管理する](manage-leads.md)
 - [共同販売の機会を管理する](manage-co-sell-opportunities.md)
