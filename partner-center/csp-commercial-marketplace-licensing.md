@@ -1,7 +1,7 @@
 ---
 title: Marketplace プランでのライセンスの管理
 ms.topic: how-to
-ms.date: 04/27/2021
+ms.date: 04/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ISV コマーシャルマーケットプレースプランのライセンスを設定および管理する方法について説明します。
@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b2281696a2fe69253cd033eb2a7eef7fb3046f3
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: f049ffda4c3d9476c09257fc814e5acac393cb54
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284874"
+ms.locfileid: "108328017"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Marketplace プランでのライセンスの管理
 
@@ -28,27 +28,28 @@ ms.locfileid: "108284874"
 >[!IMPORTANT]
 >この記事の機能は、現在パブリックプレビュー段階です。
 
-## <a name="before-you-begin"></a>始める前に
+## <a name="before-you-begin"></a>開始する前に
 
-このプロセスを開始する前に、以下の情報について理解しておく必要があります。
+### <a name="commercial-marketplace-basics"></a>商用マーケットプレースの基本
 
-### <a name="review-the-azure-marketplace-documentation"></a>Azure Marketplace のドキュメントを確認する
+このプロセスを開始する前に、コマーシャルマーケットプレースの基本を理解しておく必要があります。 次の表の記事は、作業を開始するのに役立ちます。 
 
-次の記事には、続行する前に理解しておく必要がある情報が含まれています。 
+| トピック  | [アーティクル]  |
+|-------|--------|
+|商用 marketplace プラン | [コマーシャル マーケットプレース オファーのプランと価格](/azure/marketplace/plans-pricing)    |
+|商用 marketplace プラン  | [リストの種類](/azure/marketplace/determine-your-listing-type)    |
+|商用 marketplace アカウント |  [パートナー センターでコマーシャル マーケットプレース アカウントを作成する](/azure/marketplace/create-account) |
 
-- [Dynamics 365 for Customer Engagement & PowerApps オファーの作成](https://docs.microsoft.com/azure/marketplace/dynamics-365-customer-engage-offer-setup)
-- [パートナー センターでコマーシャル マーケットプレース アカウントを作成する](https://docs.microsoft.com/azure/marketplace/create-account)
-
-### <a name="create-your-offer-id"></a>プラン ID を作成する
+### <a name="determine-your-offer-id"></a>プラン ID を確認する
 
 以下の手順では、プラン ID を入力するように求められます。 次の点に注意して、適切なプラン ID を取得してください。
 
 - この ID は、マーケットプレース オファーの Web アドレスと Azure Resource Manager テンプレート (該当する場合) で顧客に表示されます。
 - オファー ID の長さはパブリッシャー ID の組み合わせで 40 文字以下にする必要があります。
-- 使用できるのは小文字と数字だけです。 プラン ID には、ハイフンとアンダースコアを含めることができますが、スペースは使用できません。 たとえば、発行元 ID が testpublisherid で、「test-1」と入力した場合、オファー web アドレスはになり https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1 ます。
+- 使用できるのは小文字と数字だけです。 プラン ID には、ハイフンとアンダースコアを含めることができますが、スペースは使用できません。 たとえば、発行元 ID がで、「」と入力した場合、 `testpublisherid` `test-offer-1` オファー web アドレスはになり `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` ます。
 - **[作成]** を選択した後にこの ID を変更することはできません。
 
-### <a name="create-your-offer-alias"></a>プランのエイリアスを作成する
+### <a name="determine-your-offer-alias"></a>プランのエイリアスを確認する
 
 プランのエイリアスは、パートナーセンターでオファーに使用される名前です。 次のガイドラインに従う適切なプランのエイリアスも必要になります。
 
@@ -116,9 +117,9 @@ ms.locfileid: "108284874"
 
     - **無料インストールオプションを使用したライセンスが有効なプランの** 場合: プランでライセンスチェックが必要ない場合、管理者のユーザーには [**今すぐ入手**] ボタンが表示され **ます。** 無料のインストールオプションを試す場合は、[ **今すぐ入手** する] をクリックします。これにより、Power Platform 管理センターにプランがインストールされます。 質問がある場合、または有料プランにアップグレードする場合は、ユーザーは引き続き **Contact Me** を使用できます。
 
-## <a name="register-isv-connect-deal-in-dealreg"></a>DealReg に ISV Connect 取引を登録する
+## <a name="register-isv-connect-deal-in-deal-registration"></a>ISV Connect の登録に関する案件の登録
 
-次の手順では、取引を登録します。 これを行うには、「 [取引を登録](https://docs.microsoft.com/partner-center/register-deals)する」を参照してください。
+顧客にライセンスを割り当てる前に、各販売がパートナーセンターに登録されている必要があります。 これを行うには、「 [取引を登録](register-deals.md)する」を参照してください。
 
 ## <a name="invite-the-customer"></a>顧客を招待する
 
@@ -126,18 +127,19 @@ ms.locfileid: "108284874"
 
 1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 2. 左側のナビゲーションメニューで、[ **商用 Marketplace/概要**] を選択します。
-3. **送信** された取引をフィルター処理し、[**進行中**] タブを選択して、目的の取引を選択します。
-4. この案件の [概要] ページで、[ **ライセンスの管理**] を選択します。
-5. [ **ライセンスの管理** ] ウィンドウで、[顧客の **詳細** ] ドロップダウンリストから顧客を選択します。 顧客の関係がまだ存在しない場合は、[ **+ 新しい顧客を招待**] を選択します。
-6. 表示されているリンクをコピーします。
-7. お客様の課金管理者またはグローバル管理者にこのリンクを電子メールで送信し、このリンクを使用して admin.microsoft.com にアクセスし、確立しているリレーションシップを受け入れて承認します。
+3. 左側のナビゲーションメニューで、[ **紹介**] を選択し、[ **取引登録**] を選択します。
+4. **送信** された取引をフィルター処理し、[**進行中**] タブを選択して、目的の取引を選択します。
+5. この案件の [概要] ページで、[ **ライセンスの管理**] を選択します。
+6. [ **ライセンスの管理** ] ウィンドウで、[顧客の **詳細** ] ドロップダウンリストから顧客を選択します。 顧客の関係がまだ存在しない場合は、[ **+ 新しい顧客を招待**] を選択します。
+7. 表示されているリンクをコピーします。
+8. お客様の課金管理者またはグローバル管理者にこのリンクを電子メールで送信し、このリンクを使用して admin.microsoft.com にアクセスし、確立しているリレーションシップを受け入れて承認します。
 
     >[!NOTE]
     >顧客がこの手順を実行するまで、リレーションシップは確立されません。
 
 ## <a name="activate-manage-and-remove-your-licenses"></a>ライセンスのアクティブ化、管理、および削除
 
-顧客がいったん確立されたら、プランの追加を開始し、各プランにライセンスを割り当てることができます。
+お客様があなたとの関係を承認したら、プランの追加を開始し、各プランにライセンスを割り当てることができます。
 
 1. この処理の [ライセンスの管理] ウィンドウで、[ **+ プランの追加**] を選択します。
 2. [ **このソリューションのプラン** ] フィールドと [ **ライセンス数** ] フィールドを入力し、[ **ライセンスの更新**] を選択します。 ライセンスは、顧客が管理して従業員に割り当てを行うために admin.microsoft.com で利用できるようになります。
@@ -145,3 +147,7 @@ ms.locfileid: "108284874"
     - 既存のプランのライセンス数を変更するには、[ **ライセンス数** ] フィールドに新しい番号を入力し、[ **ライセンスの更新**] を選択します。
 
     - 案件のライセンスを非アクティブ化または削除するには、[ **アクション** ] フィールドのごみ箱アイコンを選択し、[ **更新ライセンス**] を選択します。
+
+## <a name="next-steps"></a>次の手順
+
+[ライセンスに関するリソース](support-resources-licensing.md)
