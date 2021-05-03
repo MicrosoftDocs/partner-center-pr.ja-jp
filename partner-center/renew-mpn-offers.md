@@ -9,18 +9,22 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 779f785899039765ba4a9da42d3e6bb4a828976d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549109"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018086"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>更新期間中にコンピテンシーと高度な専門性の MPN オファーを更新する
 
+**適切なロール**
+
+- MPN パートナー管理者
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>COVID-19 への対応: Microsoft Partner Network の更新
 
-Microsoft は、2021 年 1 月 1 日から 2021 年 6 月 30 日までの間に契約応当日 (AD) を迎えるパートナーに対し、コンピテンシーの延長 (クラウド ビジネス アプリケーション コンピテンシーを除く) と高度な専門性の延長を提供しています。 詳細については、[パートナーのブログ記事](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)を参照してください。
+Microsoft は、2021 年 1 月 1 日から 2021 年 6 月 30 日までの間に契約応当日 (AD) を迎えるパートナーに対し、コンピテンシーの延長 (クラウド ビジネス アプリケーション コンピテンシーを除く) と高度な専門性の延長を提供しています。 詳しくは、[パートナーのブログ投稿](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)をご覧ください。
 
 ## <a name="renewal-reminders"></a>更新のリマインダー
 

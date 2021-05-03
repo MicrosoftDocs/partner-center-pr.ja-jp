@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712802"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067509"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Microsoft 認定プロファイル ID (MCID) と Microsoft Partner Network (MPN) アカウントのリンクを確立または解除する
 
@@ -73,9 +73,9 @@ Microsoft Learning アカウントを関連付けるには、次の手順のよ�
 
 管理者は、最初に、使用されたメール アドレスを確認してから、アカウント情報が提供されたユーザーに連絡する必要があります。
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited"></a>ユーザーが MCP Learning アカウントをパートナー センターのプロファイルに関連付けようとすると、その関連付けは制限されているというメッセージを受け取ります。
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>ユーザーが MCP Learning アカウントをパートナー センターのプロファイルに関連付けようとすると、その関連付けは制限されているというメッセージを受け取ります。 例: "パートナー組織に関連付けようとしましたが、 関連付けには 30 日の期間が必要です。 次に関連付けできるのは、XXX 日です"
 
-不正使用を防止するため、MCP の個人が 1 年間に許可される関連付けの数には制限があります。 各ユーザーは、新しい関連付けを開始できる日付をプロファイルで確認できます。 その日付が過ぎても関連付けに問題がある場合、ユーザーはサポートに問い合わる必要があります。  
+不正使用を防止するため、MCP の個人が 1 年間に許可される関連付けの数には 3 回という制限があり、各関連付けの間には関連付けの開始から起算して 30 日というクールオフ期間があります。 各ユーザーは、新しい関連付けを開始できる日付をプロファイルで確認できます。 その日付が過ぎても関連付けに問題がある場合、ユーザーはサポートに問い合わる必要があります。  
 
 ## <a name="how-to-get-support"></a>サポートを受ける方法
 

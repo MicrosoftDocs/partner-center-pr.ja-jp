@@ -10,17 +10,61 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728931"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823386"
 ---
 # <a name="april-2021-announcements"></a>2021 年 4 月のお知らせ
 
 このページでは、2021 年 4 月の Microsoft パートナー センターのお知らせについて説明します。
+
+________________
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>クラウド ソリューション プロバイダー (CSP) ソフトウェア返品期間ポリシーとダウンロード リンクの有効期限に関する通知
+
+### <a name="categories"></a>Categories
+
+- 日付: 2021-04-21
+- 機能
+
+### <a name="summary"></a>まとめ
+
+CSP ソフトウェア返品期間ポリシーとダウンロード リンクの有効期限に変更点があります。
+
+### <a name="impacted-audience"></a>対象
+
+CSP で永続的ソフトウェアまたはソフトウェア サブスクリプション プランの取引を行っているパートナー
+
+### <a name="details"></a>詳細
+
+パートナー センターを介した永続的ソフトウェアまたはソフトウェア サブスクリプションの購入に関して次の重要な通知にご注意ください。
+
+#### <a name="software-return-period-policy"></a>ソフトウェアの返品期間ポリシー
+
+2021 年 6 月 1 日から、Microsoft Partner Agreement (MPA) に記載されているように、CSP のソフトウェア プランの返品期間が、注文日から 60 日間から 30 日間に変更されます。
+
+ソフトウェア プランの注文が送信されると、パートナーは注文日から 30 日以内であれば、そのような注文への変更を送信できます。
+
+- 30 日間の返品期間内に返されたすべての永続的なソフトウェア ライセンスには、支払済み購入価格のフル クレジットが付与されます。
+
+- 30 日間の返品期間内に返されたすべてのソフトウェア サブスクリプション製品には、支払済み購入価格の日割り計算のクレジットが付与されます。
+
+このメッセージは、2020 年 12 月と 2021 年 4 月に、返品期間や MPS へのその他の更新に関してすべての CSP パートナーに送信された電子メール通信の補足情報です。 MPA に影響する変更に関する詳細については、これらの通知を参照してください。
+
+#### <a name="software-download-link-expiry"></a>ソフトウェアのダウンロード リンクの有効期限
+
+2021 年 6 月 3 日以降、パートナー センターを通じた永続的ソフトウェアおよびソフトウェア サブスクリプション製品の購入におけるソフトウェアのダウンロード リンクについて、最初のダウンロードから 5 日間の有効期限が設けられます。 有効期限は、2021 年 6 月 3 日より前と 2021 年 6 月 3 日以降のすべての購入に適用されます。
+
+### <a name="next-steps"></a>次のステップ
+
+[CSP の返品期間とダウンロード リンクの有効期限に関する FAQ](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf) を確認し、これらの変更を組織内のすべての適切なチームに通知しましょう。
+
+### <a name="questions"></a>疑問がある場合
+
+これらのオファーに関するご質問については、Yammer の関連コミュニティをご確認ください。
 
 ________________
 ## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>オープン ライセンス プログラム: クラウド ソリューション プロバイダー (CSP) プログラムへのリセラーの移行
