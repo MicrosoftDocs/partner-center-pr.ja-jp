@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/27/2021
-ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: b6b16a8453d9e93e2600c53bedcef7dc29c14e16
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172430"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328034"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,7 @@ ms.locfileid: "108172430"
 
 |**カテゴリ**|**2021 年 4 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|準備|[更新された CSP 顧客アドレス検証 API が 6 月に運用開始: テスト機能が利用できるようになりました](2021-april.md#10)|4 月 30 日|
 |機能|[パートナー センター API Swagger のドキュメントの新しい場所](2021-april.md#9)|4 月 26 日|
 |機能|[クラウド ソリューション プロバイダー (CSP) ソフトウェア返品期間ポリシーとダウンロード リンクの有効期限に関する通知](2021-april.md#8)|4 月 21 日|
 |ビジネスの拡大|[オープン ライセンス プログラム: クラウド ソリューション プロバイダー (CSP) プログラムへのリセラーの移行](2021-april.md#7)|4 月 19 日|
