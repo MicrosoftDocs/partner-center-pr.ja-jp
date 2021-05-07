@@ -30,8 +30,11 @@
         - name: PMC の特典をアクティブ化
           href: partner-membership-center-tech-benefits-activate.md
           displayName: mpn
-    - name: メンバーシップ オファー
+    - name: メンバーシップ特典
       items:
+        - name: 利点の概要
+          href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Action Pack
           href: mpn-get-action-pack.md
           displayName: 'renew, mpn'
@@ -44,50 +47,21 @@
         - name: MPN のメリットを確認する
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: コンピテンシー料金の支払い
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-    - name: コンピテンシー
+        - name: 特典のポリシーと利用 - FAQ
+          href: benefits-faq-new.md
+        - name: 利点に関する FAQ
+          href: benefits-faq.md
+          displayName: 'renew, license,'
+        - name: MPN 請求書を表示またはダウンロードする
+          href: mpn-view-print-maps-invoice.md
+    - name: 利用可能な特典
       items:
-        - name: コンピテンシーの詳細
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: ラーニング パートナーとして登録する
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: コンピテンシーに関する FAQ
-          href: competencies-faq.md
-          displayName: 'renew, mpn'
-        - name: アプリ開発コンピテンシーの除外
-          href: app-dev-isv.md
-        - name: スキル レポートを使用する
-          href: mpn-skills-report.md
-    - name: 高度な専門性
-      items:
-        - name: 専門知識の紹介
-          href: advanced-specializations.md
-          displayName: mpn
-        - name: 申請または確認の状態
-          href: advanced-specializations-apply.md
-          displayName: mpn
-    - name: Azure Expert MSP になる
-      href: azure-expert-msp.md
-    - name: メリット
-      items:
-        - name: 利点の概要
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
         - name: 市場進出の利点
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
         - name: MPN パートナー向けのデモ
           href: mpn-demos.md
           displayName: mpn
-        - name: 特典のポリシーと利用 - FAQ
-          href: benefits-faq-new.md
-        - name: 利点に関する FAQ
-          href: benefits-faq.md
-          displayName: 'renew, license,'
         - name: Azure とクラウドの利点
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
@@ -118,11 +92,33 @@
           items:
             - name: 資格要件
               href: software-assurance-dps-requirements.md
-    - name: 請求と税金
-      href: mpn-view-print-maps-invoice.md
-      displayName: 'invoice, mpn'
-    - name: 新機能のテスト
-      href: test-drive-new-features.md
+    - name: コンピテンシー
+      items:
+        - name: コンピテンシーの詳細
+          href: learn-about-competencies.md
+          displayName: mpn
+        - name: ラーニング パートナーとして登録する
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
+        - name: コンピテンシーに関する FAQ
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
+        - name: コンピテンシー料金の支払い
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
+        - name: アプリ開発コンピテンシーの除外
+          href: app-dev-isv.md
+        - name: スキル レポートを使用する
+          href: mpn-skills-report.md
+    - name: 高度な専門性
+      items:
+        - name: 専門知識の紹介
+          href: advanced-specializations.md
+        - name: 申請または確認の状態
+          href: advanced-specializations-apply.md
+          displayName: mpn
+    - name: Azure Expert MSP になる
+      href: azure-expert-msp.md
 - name: クラウド ソリューション プロバイダー (CSP)
   href: csp-overview.md
   displayName: csp
@@ -141,7 +137,7 @@
       displayName: 'indirect, reseller, csp'
     - name: Microsoft 顧客契約 (地域、言語別)
       href: agreements.md
-      displayName: 'regio, region, MPA'
+      displayName: 'region, MPA'
     - name: 制限付きの直接請求アクセス
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
@@ -579,6 +575,8 @@
         - name: Azure サブスクリプションの譲渡
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
+        - name: 顧客の Azure プラン サブスクリプションの別のパートナーへの譲渡
+          href: transfer-azure-subscriptions-under-azure-plan.md
     - name: ソフトウェア サブスクリプション
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'
