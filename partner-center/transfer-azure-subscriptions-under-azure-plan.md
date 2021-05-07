@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284504"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702724"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>顧客の Azure プランサブスクリプションを別のパートナーに譲渡する
 
@@ -44,7 +44,7 @@ ms.locfileid: "108284504"
 - 製品が Marketplace の適格性チェックに合格している限り、サードパーティの marketplace 製品は譲渡されます。
     - 特別な割引や地域の制限はありません
     - 製品は非サブスクリプションベースです
-    - 将来のパートナーは、発行元と協力して、製品の展開のために許可リストにいることを確認する必要があります。
+    - 将来のパートナーは、発行元と協力して、製品の展開の許可リストに含まれていることを確認する必要があります。
     - これらのすべての条件が満たされていない場合は、Marketplace 製品をキャンセルし、Azure サブスクリプションを譲渡した後、新しいパートナーと共に Marketplace 製品を再購入します。
 
 **前提条件:**
@@ -130,6 +130,7 @@ Azure プランで Azure サブスクリプションを譲渡するには、お�
 >間接プロバイダーの場合: 譲渡要求が受け入れられたことを間接リセラーに知らせてください。
 
 ### <a name="managing-your-transferred-customer-subscriptions"></a>転送された顧客サブスクリプションの管理
+
 - 移転中、Azure ロールベースのアクセス制御 (RBAC) を使用して割り当てられた既存のユーザー、グループ、またはサービス プリンシパルへのアクセスは影響を受けません。 Azure のロールベースのアクセス制御 [(AZURE RBAC)](/azure/role-based-access-control/overview) を使用すると、顧客は、azure リソースにアクセスできるユーザー、それらのリソースを使用して実行できること、およびアクセス権を持つ領域を管理できます。 新しいパートナーとして、サブスクリプションの譲渡後に、お客様のリソースに対する RBAC アクセス権は付与されません。 お客様の以前のパートナーは、RBAC アクセスを維持しています。 お客様と協力して、サブスクリプションについての洞察を持つユーザーと、必要な変更を行う方法を理解します。
 
 - そのため、お客様は前のパートナー向けの Azure RBAC アクセスを削除し、新しいパートナーのアクセス権を追加することが重要です。 顧客が新しいアクセス権を付与する方法の詳細については、「 [azure のロールベースのアクセス制御 (AZURE RBAC) とは](/azure/role-based-access-control/overview)」を参照してください。 以前のパートナーの RBAC アクセスを削除する顧客の詳細については、「 [ロールの割り当てを削除する](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)」を参照してください。

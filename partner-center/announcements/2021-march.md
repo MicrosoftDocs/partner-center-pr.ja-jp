@@ -9,53 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374391"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328068"
 ---
 # <a name="march-2021-announcements"></a>2021 年 3 月のお知らせ
 
 このページでは、2021 年 3 月の Microsoft パートナー センターのお知らせについて説明します。
 
-________________
-## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>更新された CSP 顧客アドレス検証 API がテスト用に利用できるようになりました
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>準備状況: クラウド ソリューション プロバイダー (CSP) 顧客アドレス検証 API に対する変更が 6 月に運用開始、現在テスト機能が利用可能
 
 ### <a name="categories"></a>Categories
 
-- 日付 : 2021 年 3 月 31 日
-- 機能
+- 日付: 2021 年 4 月 30 日
+- 準備
 
 ### <a name="summary"></a>まとめ
 
-パートナーと顧客が信頼に基づいてビジネスを遂行できるようにするためのコミットメントの一環として、Microsoft では世界中のパートナーに対して ValidateAddress API への変更をテストすることをお勧めしています。
+パートナーと顧客が信頼に基づいてビジネスを遂行できるようにするために、Microsoft はパートナーに対して世界中のすべての国の Validate Address API に対する変更をテストすることをお勧めしています。
 
 ### <a name="impacted-audience"></a>対象
 
-顧客の住所の詳細を新規作成または既存のものを更新する、すべての CSP 直接請求パートナーと間接プロバイダー
+顧客の住所の詳細を新規作成または既存のものを更新する、CSP 直接請求パートナーと間接プロバイダー。
 
 ### <a name="details"></a>詳細
 
-Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムでの顧客サブスクリプションの取引について顧客の住所検証を送信する、法令に準拠した安全な手段の提供に努めています。 2021 年 3 月 31 日現在、ValidateAddress API に変更が加えられており、2021 年 6 月に正式に変更される前にテストすることをお勧めしています。 
+Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムで顧客サブスクリプションを処理するために、法令に準拠した安全な顧客住所の検証方法の提供に努めています。 2021 年 3 月 31 日の時点で、Validate Address API への変更が発表されています。2021 年 6 月にその変更を含む運用が開始される前にパートナーに対してこれをテストすることをお勧めしていました。
 
-これらの変更は、ValidateAddress API にのみ影響を与えることにご注意ください。 CreateCustomer および UpdateBillingProfile API には影響がありません。
+変更は、Validate Address API にのみ影響します。 Create Customer と Update Billing Profile の API には影響がありません。
 
 応答では、次のいずれかのステータス メッセージが返されます。
 
-| 状態 | 説明 | 返される住所候補の数 |
-|----------|-------------|-------------------|
-| VerifiedShippable | 住所が確認され、出荷可能です。 | Single |
-| Verified | 住所が確認されました。 | Single |
-| InteractionRequired | 住所候補は大幅に変更されており、ユーザーの確認が必要です。 | Single |
-| StreetPartial | 住所の番地が部分的であるため、さらに情報が必要です。 | 複数 (最大 3)|
-| PremisesPartial | 指定された建物 (ビル番号、部屋番号など) が部分的であるため、さらに情報が必要です。 | 複数 (最大 3) |
-| 複数 | 住所の複数の部分が部分的です (StreetPartial と PremisesPartial も含む可能性があります)。 | 複数 (最大 3) |
-| なし | 住所が正しくありません。 | なし |
-| NotValidated | 住所は、検証プロセスを通じて送信できませんでした。  | なし |
+| 状態     | 説明 |    返される住所候補の数 |
+|-------|---------------|-------------------|
+|Verified shippable (検証済み出荷可能) | 住所が確認され、出荷可能です。 | Single |
+|Verified | 住所が確認されました。 | Single |
+|Interaction required (対話式操作が必要) | 提案された住所は大幅に変更されており、ユーザーの確認が必要です。 | Single |
+|Street partial (番地が不完全) | 住所の番地が部分的であるため、さらに情報が必要です。 | 複数 (最大 3) |
+|Premises partial (建物が不完全) | 指定された建物 (ビル番号、部屋番号、その他) が不完全であるため、さらに情報が必要です。 | 複数 (最大 3) |
+|複数 | 住所の複数のフィールドが不完全です (street partial と premises partial も含む可能性があります)。 | 複数 (最大 3) |
+|なし | 住所が正しくありません。 | なし |
+|検証なし | 住所は、検証プロセスを通じて送信できませんでした。 | なし |
 
-住所を送信し、ValidateAddress API によって検証されると、次の応答スキーマが返されます。
+米国の郵便番号は、ハイフン付きでさらに 4 桁が返されます (例: 12345-6789)。
+
+住所が Validate Address API 経由で検証のために送信されると、次の応答スキーマが返されます。
 
 ```csharp
 
@@ -103,18 +104,18 @@ public class AddressValidationResponse
 ```csharp
 
 "suggested_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Microsoft Way",
-    "postal_Code": "98052-8300"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Microsoft Way",
+              "postal_Code": "98052-8300"
 },
 "original_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Micro Way",
-    "postal_Code": "98052"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Micro Way",
+              "postal_Code": "98052"
 },
 "status":  "InteractionRequired",
 "validation_message": "Address field invalid for property: ‘Street’"
@@ -123,13 +124,19 @@ public class AddressValidationResponse
 
 ### <a name="next-steps"></a>次のステップ
 
-- テスト実行に参加して更新の準備を開始できるよう、サンドボックスのテナント ID を Microsoft の領域の専門家 (SME) Ali Khaki にお知らせください。
+- テスト フライトに含められるようにサンドボックスのテナント ID を領域の専門家 (Ali Khaki) に知らせます。これにより、更新の準備を開始できます。
 
 - コントロール パネル ベンダー (CPV) ソリューションを使用している場合は、CPV とご相談ください。
 
 ### <a name="questions"></a>わからないことがある場合は、
 
-ご質問がある場合や、Microsoft との連携でサポートが必要な場合は、パートナー サポートの Yammer グループにお問い合わせください。
+Microsoft との連携でサポートが必要な場合は、パートナー サポートの Yammer グループにお問い合わせください。
+
+### <a name="change-log"></a>変更ログ:
+
+- 2020 年 3 月 31 日: 初版の発行
+
+- 2021 年 4 月 30 日: サンプルの応答と郵便番号の詳細について更新
 
 ________________
 ## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>新しい Exchange 管理センター (EAC) エクスペリエンス

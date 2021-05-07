@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120718"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702792"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP による1回限りの購入調整ファイルフィールド
 
@@ -38,7 +38,7 @@ ms.locfileid: "108120718"
 | MpnId | CSP パートナーの MPN 識別子。 詳細については、「 [パートナー別に明細を表示する方法](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)」を参照してください。 | *6034453* |
 | ResellerMpnId | サブスクリプションの販売店の MPN 識別子。 | *6048879* |
 | OrderId | Microsoft 請求プラットフォームでの注文の一意識別子。 サポートに連絡するときに、注文を識別するのに役立つ場合があります。 調整には使用されません。 | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | 注文が配置された日付。 | *10/3/2020* |
+| OrderDate | 注文が配置された UTC 日付。 | *10/3/2020* |
 | ProductId | 製品の一意の識別子。 | *DZH318Z0BNZ5* |
 | SkuId | SKU の一意識別子。 | *006G* |
 | AvailabilityId | 可用性の一意識別子。 | *DZH318Z08B80* |
@@ -50,7 +50,7 @@ ms.locfileid: "108120718"
 | 小計 | 合計額 (税抜)。 小計は、課金対象の数量と有効な単価を乗算した値と同じである必要があります。 | *0* |
 | TaxTotal | 納税額。 市場の税金ルールと特定の状況に基づいています。 | *0* |
 | 合計 | 合計金額は、小計に税額を加えた値になります。 | *0* |
-| Currency | 請求書は顧客の通貨のコンテキストで生成されます。 したあって、請求対象の通貨が異なる顧客と取引を行うパートナーの場合、顧客の通貨の種類ごとに請求書を受け取ることになります。  | *EUR* |
+| 通貨 | 請求書は顧客の通貨のコンテキストで生成されます。 したあって、請求対象の通貨が異なる顧客と取引を行うパートナーの場合、顧客の通貨の種類ごとに請求書を受け取ることになります。  | *EUR* |
 | PriceAdjustmentDescription | 単価の調整の理由。 これらは主な理由ですが、有効な単価の決定に限定されるわけではありません。 | *["15.0% のパートナー獲得クレジット (サービスの管理対象)"]* |
 | 発行元 | 製品の発行元。  | *Microsoft* |
 | PublisherId | パートナーセンターが発行元を識別するために使用する一意の識別子。 | *NA* |
@@ -74,6 +74,6 @@ ms.locfileid: "108120718"
 >[!NOTE]
 >Azure の使用量は、一度だけ購入したファイルで調整できます。 これを行うには、毎日評価される使用法偵察 file にアクセスし、SubscriptionID を検索します。 これにより、Azure プラン ID に関連付けられているすべてのコストが表示されます。 Azure SubscriptionID は EntitlementID として表示されます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [請求と税金](billing.md)

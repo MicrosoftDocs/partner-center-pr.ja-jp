@@ -10,17 +10,96 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/29/2021
+ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823386"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328051"
 ---
 # <a name="april-2021-announcements"></a>2021 年 4 月のお知らせ
 
 このページでは、2021 年 4 月の Microsoft パートナー センターのお知らせについて説明します。
+
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>準備状況: 更新された CSP 顧客アドレス検証 API が 6 月に運用開始、テスト機能が現在利用可能
+
+### <a name="categories"></a>Categories
+
+- 日付: 2021 年 4 月 30 日
+- 準備
+
+### <a name="summary"></a>まとめ
+
+パートナーと顧客が信頼に基づいてビジネスを遂行できるようにするために、Microsoft はパートナーに対して世界中のすべての国の Validate Address API に対する変更をテストすることをお勧めしています。
+
+### <a name="impacted-audience"></a>対象
+
+顧客の住所の詳細を新規作成または既存のものを更新する、CSP 直接請求パートナーと間接プロバイダー
+
+### <a name="details"></a>詳細
+
+Microsoft の基盤は信頼です。 Microsoft は、CSP プログラムで顧客サブスクリプションを処理するために、法令に準拠した安全な顧客住所の検証方法の提供に努めています。 2021 年 3 月 31 日の時点で、Validate Address API に対する変更が発表されています。 2021 年 6 月末の運用開始前にパートナーはこの API をテストすることをお勧めします。 
+
+これらの変更は、Validate Address API にのみ影響を与えることに注意してください。 Create Customer と Update Billing Profile の API には影響がありません。 提案された住所は現在、Create Customer API で使用する必要はありませんが、そうすることを強くお勧めします。
+
+応答では、次のいずれかのステータス メッセージが返されます。
+
+| 状態     | 説明 |    返される住所候補の数 |
+|-------|---------------|-------------------|
+|Verified shippable (検証済み出荷可能) | 住所が確認され、出荷可能です。 | Single |
+|Verified | 住所が確認されました。 | Single |
+|Interaction required (対話式操作が必要) | 提案された住所は大幅に変更されており、ユーザーの確認が必要です。 | Single |
+|Street partial (番地が不完全) | 住所の番地が部分的であるため、さらに情報が必要です。 | 複数 (最大 3) |
+|Premises partial (建物が不完全) | 指定された建物 (ビル番号、部屋番号、その他) が不完全であるため、さらに情報が必要です。 | 複数 (最大 3) |
+|複数 | 住所の複数のフィールドが不完全です (street partial と premises partial も含む可能性があります)。 | 複数 (最大 3) |
+|なし | 住所が正しくありません。 | なし |
+|検証なし | 住所は、検証プロセスを通じて送信できませんでした。 | なし |
+
+米国の郵便番号は、ハイフン付きでさらに 4 桁が返されます (例: 12345-6789)。
+
+### <a name="next-steps"></a>次のステップ
+
+- 詳細なガイダンスについては、[専用のパートナー コレクション](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)でテクニカル ドキュメントとよく寄せられる質問を参照してください。
+- Partner Center API と Web ユーザー エクスペリエンスを使用して、変更を組み込む準備をしてください。 
+- テスト フライトに含められるようにサンドボックスのテナント ID を領域の専門家 (Ali Khaki) に知らせます。これにより、更新の準備を開始できます。 
+- コントロール パネル ベンダー (CPV) ソリューションを使用している場合は、CPV とご相談ください。
+
+### <a name="questions"></a>わからないことがある場合は、
+
+Microsoft との連携でサポートが必要な場合は、パートナー サポートの Yammer グループに問い合わせるか、[サービス要求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)を開いてください。
+
+_______________
+## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>パートナー センター API の Swagger ドキュメントの新しい場所
+
+### <a name="categories"></a>Categories
+
+- 日付: 2021 年 4 月 26 日
+- 機能
+
+### <a name="summary"></a>まとめ
+
+パートナー センター API の Swagger ドキュメントは、[前の Swagger ドキュメント サイト](https://apidocs.microsoft.com/services/partnercenter)から[新しい Swagger ドキュメント サイト](https://docs.microsoft.com/rest/api/partner-center-rest/)に移行されました。
+
+### <a name="impacted-audience"></a>対象
+
+パートナー センター API を使用し、クラウド ソリューション プロバイダー (CSP) プログラムに参加している直接請求パートナーと間接プロバイダー
+
+### <a name="details"></a>詳細
+
+2021 年 4 月 26 日の時点で、パートナー センター API の Swagger ドキュメント (Rest API コンテンツを含む) は[新しいサイト](https://docs.microsoft.com/rest/api/partner-center-rest/)に配置されています。 古いサイトは数週間後にアクセスできなくなります。
+
+### <a name="benefits"></a>メリット
+
+パートナー センター API の Swagger ドキュメントには、**Try It** (試用) 機能があります。 この機能を使用するには、ベアラー トークンが必要です。これは、[パートナー センターの認証](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)に関する記事に記載されている手順に従って生成できます。
+
+### <a name="next-steps"></a>次の手順
+
+担当チームが手続きの見直し、更新を実施できるよう、この情報を組織で共有してください。
+
+### <a name="questions"></a>疑問がある場合
+
+これらのオファーに関するご質問については、Yammer の関連コミュニティをご確認ください。
 
 ________________
 ## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>クラウド ソリューション プロバイダー (CSP) ソフトウェア返品期間ポリシーとダウンロード リンクの有効期限に関する通知

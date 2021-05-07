@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028436"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702809"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>支払いアカウントと税フォームを設定する
 
@@ -145,7 +145,7 @@ ms.locfileid: "105028436"
 
 支払い方法として PayPal を使用する場合に関する一般的な質問:
 
-- **支払いを受けるには、どのような PayPal 設定が必要ですか?** PayPal アカウントで eCheck の支払いがブロックされていないことを確認してください。 この設定は、PayPal の [Payment Receiving Preferences]\(支払い受取り設定\) ページで管理されます。 詳細については、[PayPal のアカウント設定ページ](https://go.microsoft.com/fwlink/p/?linkid=513139)を参照してください。
+- **支払いを受けるには、どのような PayPal 設定が必要ですか?** PayPal アカウントで eCheck の支払いがブロックされていないことを確認してください。 この設定は、PayPal の [Payment Receiving Preferences]\(支払い受取り設定\) ページで管理されます。 詳細については、[PayPal のアカウント設定ページ](https://go.microsoft.com/fwlink/?linkid=2162542)を参照してください。
 
 - **私の国/地域はサポートされていますか?** PayPal がサポートされている支払い方法である国および地域については、「[支払いのしきい値、方法、および期間](payment-thresholds-methods-timeframes.md)」を参照してください。
 

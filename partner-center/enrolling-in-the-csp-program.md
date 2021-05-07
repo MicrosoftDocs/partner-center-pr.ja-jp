@@ -1,7 +1,7 @@
 ---
 title: クラウド ソリューション プロバイダー プログラムに登録する
 ms.topic: how-to
-ms.date: 11/29/2020
+ms.date: 04/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー様のビジネスに最も適したクラウド ソリューション プロバイダー (CSP) プログラム販売モデル (間接リセラーや直接請求パートナーなど) に登録する方法について説明します。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441814"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213382"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
@@ -92,6 +92,38 @@ CSP プログラムは発展と成長を続けるので、直接請求パート�
 
 会社の場所によって市場が決まります。 市場には CSP プランを販売できる地域や国が含まれます。 市場の場所と通貨については、「[クラウド ソリューション プロバイダー プログラムの地域市場と通貨](regional-authorization-overview.md)」をご覧ください。
 また、必ず「[CSP ビジネスの新しい場所を追加するための前提条件](manage-locations.md)」もご覧ください。
+
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>特定の国のパートナー登録 ID 番号を指定する
+
+間接プロバイダー、直接請求パートナー、または間接リセラーであり、次の国で新規または既存の顧客とビジネスを行う場合は、ビジネス用の登録 ID 番号を準備する必要があります。 ビジネスを行っている国が下に記載されていない場合、登録 ID はオプションです。
+
+- アルメニア 
+- アゼルバイジャン 
+- ベラルーシ 
+- ブラジル 
+- ハンガリー 
+- インド 
+- イラク 
+- カザフスタン 
+- キルギスタン 
+- モルドバ 
+- ミャンマー 
+- ポーランド 
+- ロシア 
+- サウジアラビア 
+- 南アフリカ 
+- 南スーダン  
+- タジキスタン 
+- タイ
+- トルコ 
+- ウクライナ 
+- アラブ首長国連邦 
+- ウズベキスタン 
+- ベネズエラ
+- ベトナム 
+
+
+詳細については、「[登録 ID 番号の情報](reg-number-id.md)」を参照してください
 
 ## <a name="next-steps"></a>次の手順
 

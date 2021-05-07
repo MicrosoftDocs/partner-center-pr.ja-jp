@@ -1,7 +1,7 @@
 ---
 title: パートナー アカウントで場所を管理する
 ms.topic: how-to
-ms.date: 04/05/2021
+ms.date: 05/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 新しい場所を追加する方法や、所在地 MPN ID がインセンティブ プログラム、CSP ビジネス、サブスクリプション、その他のトランザクションでどのように使用されるかについて説明します。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441331"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702894"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN アカウントの所在地を管理し、場所を追加 (削除) する
 
@@ -50,7 +50,7 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
 
 1. 直接請求パートナーとして登録する場合は、[直接請求パートナーの要件](direct-partner-new-requirements.md)に関する記事をお読みください。
 
-## <a name="view-your-mpn-locations"></a>MPN 所在地を表示する
+## <a name="view-and-update-your-mpn-locations"></a>MPN 所在地の確認と更新
 
 1. MPN アカウントの資格情報を使用して、パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。 (MPN の資格情報は、CSP の資格情報とは異なる場合があります) 
  
@@ -100,6 +100,37 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
 > [!NOTE]
 > パートナー センターで追加された場所は、削除できません。 正しい MPN ID を使用してサインインすると、パートナー センターの左側のメニューに **MPN** が表示されます。
 
+## <a name="add-the-registration-number-id"></a>登録番号 ID の追加
+
+間接プロバイダー、直接請求パートナー、または間接リセラーであり、次の国で新規または既存の顧客とビジネスを行う場合は、ビジネス用の登録 ID 番号を準備する必要があります。 ビジネスを行っている国が以下に記載されていない場合、登録 ID はオプションです。
+
+- アルメニア 
+- アゼルバイジャン 
+- ベラルーシ 
+- ブラジル 
+- ハンガリー 
+- インド 
+- イラク 
+- カザフスタン 
+- キルギスタン 
+- モルドバ 
+- ミャンマー 
+- ポーランド 
+- ロシア 
+- サウジアラビア 
+- 南アフリカ 
+- 南スーダン  
+- タジキスタン 
+- タイ
+- トルコ 
+- ウクライナ 
+- アラブ首長国連邦 
+- ウズベキスタン 
+- ベネズエラ
+- ベトナム 
+
+
+詳細については、「[登録 ID 番号の情報](reg-number-id.md)」を参照してください
 
 ## <a name="delete-a-location"></a>場所を削除する
 
