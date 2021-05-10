@@ -1,48 +1,49 @@
 ---
-title: Azure Marketplace の支払いポリシーが支払いに与える影響
-description: 税金ポリシーが Azure Marketplace の支払いにどのように影響するかを説明します。
+title: 税金ポリシーが支払いに与える影響Azure Marketplace
+description: 税ポリシーが支払いに与える影響についてAzure Marketplace。
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: 343db43633245030a5eba213cb5c8b79d09a7dee
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768824"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686315"
 ---
-# <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Azure Marketplace の支払いポリシーが支払いに与える影響
+# <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>税金ポリシーが支払いに与える影響Azure Marketplace
 
 **適切なロール**
--    グローバル管理者
--    ユーザー管理の管理者
--    管理エージェント
+
+- グローバル管理者
+- ユーザー管理の管理者
+- 管理エージェント
 
 ## <a name="introduction"></a>はじめに
 
-Microsoft の商用マーケットプレースにはグローバルなリーチがあります。 トランザクションは、境界を越えて発生します。 ISV と顧客が配置されている場所によっては、税金の影響が異なる場合があります。 Microsoft AppSource と Azure Marketplace では、パートナーセンターの税プロファイル情報を使用して ISV の国を決定します。 顧客の国を特定するには、顧客の請求情報を使用するか、顧客が EU 内にある場合は2つの異なる情報を使用します。
+Microsoft コマーシャル マーケットプレースはグローバルに展開されています。 トランザクションは境界を越えて発生し、ISV と顧客がどこにいるかによって、税金への影響が異なる場合があります。 Microsoft AppSourceとAzure Marketplace、パートナー センタープロファイル情報を使用して ISV の国を決定します。 顧客の国を特定するには、顧客の請求情報を使用するか、お客様が EU に入っている場合は、2 つの異なる情報を使用します。
 
-次のシナリオについて理解を深めるには、「 [税金の詳細](tax-details-marketplace.md) 」の表を参照してください。これは、Microsoft が発行元に代わって税金を徴収または支払うか、またはその責任が発行元に属しているかを示しています。
+次のシナリオをよりよく理解するには、税の[](tax-details-marketplace.md)詳細の表を参照してください。これは、Microsoft が発行元に代わって税金を収集して支払うのか、その責任が発行元に属するかどうかを示しています。
 
 > [!NOTE]
-> このトピックの売上値と税金の割合の例はすべて、わかりやすいように、正確な数値ではありません。
+> このトピックのすべての販売額と税金の割合の例は、正確な数値ではなく、説明のみを目的とします。
 
-## <a name="publisher-transacts-in-microsoft-managed-tax-country"></a>Microsoft が管理する税国でのパブリッシャーのトランザクションの処理
+## <a name="publisher-transacts-in-microsoft-managed-tax-country"></a>Microsoft が管理する税の国の発行元取引
 
-**シナリオ A** – [Microsoft が管理する税の国](tax-details-marketplace.md#microsoft-managed-countries)で、発行元と顧客の間で行われるトランザクション。 これらのトランザクションには、販売時点で適用される税金が適用され、マイクロソフトは該当する国にその税金を送信します。 支払い額から源泉徴収される税金はなく、支払いの計算は限定されています。
+**シナリオ A** – Microsoft が管理する税の国の発行元と顧客の間で [発生するトランザクション](tax-details-marketplace.md#microsoft-managed-countries)。 これらの取引には、販売時に適用される税金が追加され、Microsoft は該当する国に税金を送信します。 支払いから税金は差し引かされません。支払い計算は税抜きです。
 
-米国以外のパブリッシャーと米国のお客様の間のトランザクションについては、 [シナリオ D](#foreign-publisher-transacts-with-us-customer) を参照してください。
+米国 [以外の発行元](#foreign-publisher-transacts-with-us-customer) と米国の顧客の間のトランザクションについては、「シナリオ D」を参照してください。
 
-:::image type="content" source="images/tax-policies/payout-scenario-a.png" alt-text="支払いプロセスシナリオ A のワークフローを示します。":::
+:::image type="content" source="images/tax-policies/payout-scenario-a.png" alt-text="支払いプロセス シナリオ A のワークフローを表示します。":::
 
-## <a name="publisher-transacts-in-microsoft-managed-tax-country-where-marketplace-fee-is-taxable-service"></a>発行元のトランザクションは、Marketplace の料金が課税対象サービスである Microsoft 管理税の国で動作します
+## <a name="publisher-transacts-in-microsoft-managed-tax-country-where-marketplace-fee-is-taxable-service"></a>Marketplace の料金が課税対象サービスである Microsoft が管理する税国の発行元取引
 
-**シナリオ B** –米国ベースの発行元 (パートナーセンターの税プロファイル情報によって定義されている) 間で、Microsoft が管理している税の国において、お客様に対して、Marketplace の料金 (課税対象サービス) に対して税金が課せられた顧客に対して行われるトランザクション。 このシナリオでは、ストアサービスの料金の税は、発行元の支払いから差し引かれます。
+**シナリオ B** – 米国に拠点を置く発行元 (パートナー センター 税プロファイル情報で定義されている) から、国が Marketplace 料金 (課税対象サービス) に税金を課す Microsoft が管理する税の国の顧客との間で発生するトランザクション。 このシナリオでは、ストア サービス料金に対する税金は、発行元の支払いから差し引きます。
 
-:::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="支払いプロセスシナリオ B のワークフローを示します。":::
+:::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="支払いプロセス シナリオ B のワークフローを示します。":::
 
 ## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>パブリッシャーによるトランザクションの処理は、発行元管理税の国で行う
 
@@ -72,11 +73,11 @@ Microsoft の商用マーケットプレースにはグローバルなリーチ�
 
 ## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-in-ireland"></a>国外の出版社は、Microsoft が管理する国 (アイルランド) で、EU に登録されたお客様を販売します。
 
-**シナリオ G** – Microsoft-Managed 国での海外の出版社と EU VAT 登録のお客様 (アイルランド内) のすべての取引。 お客様は、アイルランドの VAT を支払い、マイクロソフトはこの税金をアイルランド政府に支払います。
+**シナリオ G** – 米国内の外部発行元と EU の VAT 登録済み顧客 (アイルランド内) 間のすべての取引Microsoft-Managedします。 この税金は、お客様が日本政府に支払いを行い、Microsoft が本税を支払います。
 
-:::image type="content" source="images/tax-policies/payout-scenario-g.png" alt-text="支払いプロセスシナリオ G のワークフローを示します。":::
+:::image type="content" source="images/tax-policies/payout-scenario-g.png" alt-text="支払いプロセス シナリオ G のワークフローを示します。":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
-- [発行元の FAQ](/azure/marketplace/marketplace-faq-publisher-guide)
-- [支払いと税金のプロファイルを作成する手順](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)
+- [発行元に関する FAQ](/azure/marketplace/marketplace-faq-publisher-guide)
+- [支払いプロファイルと税プロファイルを作成する手順](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

@@ -1,6 +1,6 @@
 ---
 title: お客様とつながる
-description: CSP プログラムで間接リセラーの場合は、この記事を参照すると、新規および既存の顧客との接続に役立ちます。
+description: CSP プログラムの間接リセラーの場合、この記事は新規および既存の顧客との接続に役立ちます。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,17 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 5ad30c83381e03cf26304092a7e291495cf4342c
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492655"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686196"
 ---
 # <a name="connect-with-customers"></a>お客様とつながる
 
 
- **適切なロール**
+**適切なロール**
 
 - グローバル管理者
 - 管理エージェント
@@ -59,7 +59,7 @@ ms.locfileid: "97492655"
 
 貴社が新しい顧客から管理者アクセス権を取得してサブスクリプションとサービスを管理し、**かつ**、間接プロバイダーが顧客の代理として新しい注文を提出する場合、貴社は顧客に招待を送信して、貴社とプロバイダーの両方との間で再販業者関係を確立するように求めることができます。
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>顧客を招待し、お客様と間接プロバイダーとの再販業者の関係を確立する
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>顧客を招待して、パートナーと間接プロバイダーとのリセラー関係を同時に確立する
 
 1. **パートナー センター メニュー** から **[間接プロバイダー]** を選びます。
 

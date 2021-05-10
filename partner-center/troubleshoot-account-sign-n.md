@@ -1,53 +1,53 @@
 ---
-title: パートナーセンターのアカウントの設定または MPN の更新に関する問題のトラブルシューティング
+title: アカウントまたは MPN の更新パートナー センターの設定に関するトラブルシューティング
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: パートナーセンターに登録しようとしたときに発生する問題のトラブルシューティングを行います。 回答は、支払い方法やパスワードを忘れた場合の課題に対処します。
+description: アプリケーションに登録しようとするときに発生する問題パートナー センター。 回答は、支払い方法やパスワードの忘れなどによる課題に対処します。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: f34adc57e668caecb69af37afc72b5153f667335
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768705"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686264"
 ---
-# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>アカウントのセットアップまたは MPN 更新に関する問題のトラブルシューティング
+# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>アカウントのセットアップまたは MPN の更新に関する問題のトラブルシューティング
 
 
 **適切なロール**
 
 - グローバル管理者
-- MPN パートナー管理者 
+- MPN パートナー管理者
  
-ここでは、パートナーセンターアカウントを設定するときに発生する一般的な問題のトラブルシューティングに関するいくつかの推奨事項を示します。
+次に示すのは、アカウントのセットアップ時に発生する一般的な問題のトラブルシューティングパートナー センターです。
 
-## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>パートナーメンバーシップセンターから移行するときに、会社情報フィールドを編集できない場合はどうなりますか
+## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>会社の情報フィールドを編集できないPartner Membership Centerから移行するとどうなるか
 
-会社が既にパートナーセンター (CSP アカウントなど) に存在している場合は、読み取り専用画面が表示されます。 この画面には、パートナーセンターに存在する会社に関するすべての情報が表示されます。
+会社が既に パートナー センター に存在する場合 (CSP アカウントなど)、読み取り専用画面が表示されます。 この画面には、会社に関する情報が表示されます。この画面は、パートナー センター。
 
-この画面の詳細を変更することはできません。 これは仕様であり、エラーではありません。
+この画面で詳細を変更できない。 これは設計上の問題であり、エラーではありません。
 
-[ **同意** して **続行** ] を選択して続行します。
+[同意 **して続行]** **を選択して** 続行します。
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT 部門が **パートナーセンターへのサインアップ** を無効にしている場合
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT 部門が [サインアップ] をオフに **したパートナー センター**
 
-このメッセージは、ウイルスに感染したユーザーが無効になっているか、Azure AD テナントでウイルスによるサインアップが無効になっていることが原因で表示されます。 Azure AD アカウントの全体管理者は、次の PowerShell コマンドを実行して、必要な機能を有効にすることができます。
+このメッセージが表示されるのは、バイラル ユーザーが無効になっているか、またはバイラル サインアップがテナントの Azure ADされます。 次の PowerShell コマンドを実行Azure ADアカウントのグローバル管理者は、必要な機能を有効にできます。
 
-**Set-msolcompanysettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
+**Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 
-詳細については、「 [セルフサービスサインアップ](/azure/active-directory/users-groups-roles/directory-self-service-signup)」を参照してください。
+詳細については、「セルフサービス サインアップ [」を参照してください](/azure/active-directory/users-groups-roles/directory-self-service-signup)。
 
-## <a name="you-forgot-your-password"></a>パスワードを忘れた場合
+## <a name="you-forgot-your-password"></a>パスワードを忘れた
 
-パスワードを忘れた場合は、サインインページの [ **アカウントにアクセスできない場合]** リンクを選択します。 このオプションを使用すると、パスワードをリセットしたり、グローバル管理者に新しい資格情報の割り当てを依頼したりすることができます。
+パスワードを忘れた場合は、サインイン ページの [アカウントにアクセスできませんか **?** ] リンクを選択します。 このオプションを使用すると、パスワードをリセットしたり、グローバル管理者に新しい資格情報を割り当て要求したりできます。
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>[会社情報をお聞かせください] 画面で、"問題が発生しました" というエラーが表示されます。
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>[会社について教えて] 画面で、"問題が発生しました" というエラーが表示されます
 
 このエラーメッセージは、通常、会社の電話番号で特殊文字、スペース、または国コードを使用している場合に表示されます。 [電話番号] フィールドに入力する値には、最大で10文字まで含めることができます。
 
