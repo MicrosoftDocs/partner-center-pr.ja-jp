@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/05/2021
-ms.openlocfilehash: 1aad6d1384e7043f13ad5f023d06f5e7fa1301e5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.date: 05/07/2021
+ms.openlocfilehash: 0263522eed42dbbdd11dc43f6aed490ce61b261d
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702775"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630136"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -27,7 +27,7 @@ ms.locfileid: "108702775"
 |機能|[最後のリマインダー: 2021 年 5 月 6 日に GET 認定が非推奨化](2021-may.md#4)|5 月 4 日|
 |製品サービス/市場|[2021 年 5 月 1 日のライセンスベース サービスの価格表への修正](2021-may.md#3)|5 月 4 日|
 |機能|[State Owned Entity (国有エンティティ) 認定に関するお知らせ](2021-may.md#2)|5 月 4 日|
-| プラン/ビジネス アプリケーション|[今月の製品発売とプランを見る](2021-may.md#1)|5 月 3 日|
+| プラン/ビジネス アプリケーション|[今月の製品発売とプランを見る](2021-may.md#1)|5 月 3 日、更新: 5 月 7 日|
 |**カテゴリ**|**2021 年 4 月のお知らせ**|**発表**|
 |準備|[更新された CSP 顧客アドレス検証 API が 6 月に運用開始: テスト機能が利用できるようになりました](2021-april.md#10)|4 月 30 日|
 |機能|[パートナー センター API Swagger のドキュメントの新しい場所](2021-april.md#9)|4 月 26 日|
