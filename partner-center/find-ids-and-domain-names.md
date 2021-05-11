@@ -1,53 +1,53 @@
 ---
-title: テナント ID、ドメイン名、ユーザーオブジェクト ID を検索します
+title: テナント ID、ドメイン名、ユーザー オブジェクト ID を検索する
 ms.topic: how-to
 ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 組織の Azure AD のテナント ID、ドメイン名、または特定のユーザーオブジェクト ID を Azure portal の Id を検索する方法について説明します。 この情報が必要なタスクもあります。
+description: 組織の Azure portal テナント ID、ドメイン名、または特定のユーザー オブジェクト ID Azure AD ID を検索する方法について説明します。 一部のタスクでは、この情報が必要です。
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172253"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740286"
 ---
-# <a name="locate-important-ids-for-a-user"></a>ユーザーの重要な Id を検索する
+# <a name="locate-important-ids-for-a-user"></a>ユーザーの重要な ID を見つける
 
 **適切なロール**
 
 - グローバル管理者
 
-この記事では、 [Azure portal](https://portal.azure.com/) を使用して、ユーザーに関する次の情報を検索する方法について説明します。
+この記事では、ユーザーの次の [情報Azure portal](https://portal.azure.com/) を検索する方法について説明します。
 
-- ユーザーの組織または会社の Microsoft Azure Active Directory (Azure AD) テナント ID
+- ユーザー Microsoft Azure Active DirectoryまたはAzure ADのテナント ID (テナント ID)
 
-- Azure AD テナントに関連付けられている組織または会社のプライマリドメイン名
+- テナントに関連付けられている組織または会社のプライマリ ドメインAzure AD名
 
-- ユーザーオブジェクト ID
+- ユーザー オブジェクト ID
 
-## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Microsoft Azure AD テナント ID とプライマリドメイン名を検索する
+## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>テナント ID Microsoft Azure ADドメイン名を見つける
 
-Azure portal 内で Azure AD テナント ID またはプライマリドメイン名を見つけるには、次の手順に従います。 (テナント ID をプログラムで検索する場合は、「 [PowerShell または CLI でテナント id を検索](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)する」を参照してください)。
+次の手順に従って、Azure AD内のテナント ID またはプライマリ ドメイン名をAzure portal。 (プログラムでテナント ID を検索する場合は、「PowerShell または CLI を使用してテナント ID を検索する [」を参照してください](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell))。
 
 > [!NOTE]
-> テナント ID は、アプリケーションまたはリソースごとに異なる名前を呼び出すことができます。 たとえば、テナント ID は、ディレクトリ ID、Azure Active Directory (Azure AD) テナント、Microsoft ID、または特定のレポート ( *tenantguid* も含む) と呼ばれる場合があります。
+> テナント ID は、異なるアプリケーションまたはリソースで異なる名前と呼ばれる場合があります。 たとえば、テナント ID は、ディレクトリ ID、Azure Active Directory (Azure AD) テナント、Microsoft ID、または特定のレポート *(tenantguid*) と呼ばれる場合があります。
 
 1. [Azure portal](https://portal.azure.com/) にサインインします。
 
 2. メニューから **[Azure Active Directory]** を選択します。
 
-   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="メニューから [Azure Active Directory] オプションを選択する Azure portal を示します。":::
+   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="メニュー Azure portalオプションを選択Azure Active Directoryオプションの一覧が表示されます。":::
 
-3. Azure Active Directory の **概要** ] ページが表示されます。 Azure AD のテナント ID またはプライマリドメイン名を検索するには、[ **テナント id** ] フィールドと [ **プライマリドメイン** ] フィールドを探します。 これらのフィールドは、[テナント情報] セクションに表示されます。
+3. [Azure Active Directory **の概要** ] ページが表示されます。 テナント ID またはAzure ADドメイン名を検索するには、[テナント **ID]** フィールドと [プライマリ ドメイン] **フィールドを探** します。 これらのフィールドは、[テナント情報] セクションに表示されます。
 
-   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="2つの強調表示されたフィールド、テナント ID、プライマリドメイン名が表示された概要ページが表示されます。":::
+   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="テナント ID とプライマリ ドメイン名の 2 つのフィールドが強調表示された [概要] ページが表示されます。":::
 
-4. テナント ID は、他のいくつかの方法で Azure portal で確認できます。 メニューから **[Azure Active Directory]** を選択します。 次に、メニューの [ **管理** ] セクションを見つけて、[ **プロパティ**] を選択します。
+4. テナント ID は、他のいくつかの方法Azure portalで確認できます。 メニューから **[Azure Active Directory]** を選択します。 次に、メニューの [ **管理]** セクションを見つけて、[プロパティ] を **選択します**。
 
    また、[プロパティ] ページには、ユーザーに関連付けられているテナント ID も表示されます。
 
