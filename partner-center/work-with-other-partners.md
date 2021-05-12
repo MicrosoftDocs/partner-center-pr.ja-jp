@@ -4,25 +4,23 @@ ms.topic: article
 ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 間接プロバイダーがクラウドソリューションプロバイダー (CSP) プログラムで間接リセラーと提携し、どのロールが適切かを判断する方法について説明します。
+description: 間接プロバイダーが クラウド ソリューション プロバイダー (CSP) プログラムで間接リセラーと提携し、自分に最適なロールを決定する方法について説明します。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ce5baddcc6d598ec4d926e74a6f4a85a3b4cbbbe
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: d8370b213a3d0fd96a4d2ef457de1140ee4549f6
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712564"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794889"
 ---
-# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>パートナーセンターで他のパートナーと協力するさまざまな方法
+# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>他のパートナーと連携するさまざまな方法パートナー センター
 
-**適切なロール**
+**適切なロール**: アカウント管理者
 
-- アカウント管理者
-
-Microsoft のクラウドソリューションプロバイダー (CSP) プログラムは、パートナーがこれらの方法で連携する機会を提供します。
+Microsoft の クラウド ソリューション プロバイダー (CSP) プログラムは、パートナーがこれらの方法で連携する機会を提供します。
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>間接プロバイダー/間接リセラー モデル
 
@@ -44,13 +42,13 @@ CSP で間接リセラーと間接パートナーのどちらで登録するか�
 
 ## <a name="multi-partner-support"></a>マルチパートナーのサポート
 
-パートナーセンターのマルチパートナー機能は、顧客が複数のパートナーと協力する必要がある場合のシナリオをサポートします。 たとえば、お客様は Office 365 の専門知識を持つパートナーに依頼し、さらに Microsoft Azure を専門とする別のパートナーにも依頼することができます。 詳しくは、「[マルチパートナーのサポート](multipartner.md)」をご覧ください。
+パートナー センターのマルチパートナー機能は、顧客が複数のパートナーと作業する必要があるシナリオをサポートします。 たとえば、お客様は Office 365 の専門知識を持つパートナーに依頼し、さらに Microsoft Azure を専門とする別のパートナーにも依頼することができます。 詳しくは、「[マルチパートナーのサポート](multipartner.md)」をご覧ください。
 
 マルチパートナのサポートは、マイクロソフトのナショナル クラウド サービスでも利用できます。
 
 ## <a name="multi-channel-support"></a>マルチチャンネルのサポート
 
-パートナーセンターのマルチチャネル機能では、顧客が他の場所で購入したサブスクリプションのプロビジョニングとサポートにパートナーを採用する場合のシナリオがサポートされます。 詳しくは、「[マルチチャンネルのサポート](multichannel.md)」をご覧ください。
+パートナー センターのマルチチャネル機能は、顧客が他の場所で購入したサブスクリプションをプロビジョニングしてサポートするためにパートナーを雇用したいシナリオをサポートします。 詳しくは、「[マルチチャンネルのサポート](multichannel.md)」をご覧ください。
 
 マルチチャンネルのサポートは、マイクロソフトのナショナル クラウド サービスでも利用できます。
 

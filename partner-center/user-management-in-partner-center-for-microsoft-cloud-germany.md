@@ -1,7 +1,7 @@
 ---
-title: ユーザーライセンスの管理
+title: ユーザー - ライセンス管理
 titleSuffix: Microsoft Cloud Germany - Partner Center
-description: Microsoft Cloud ドイツのパートナー、顧客、ライセンスのパートナーセンターを管理する方法と場所、およびパスワードのリセットについて説明します。
+description: Microsoft Cloud Germany のパートナー、パートナー センター、ライセンス、パスワードのリセットに関する情報を管理する方法と場所について説明します。
 ms.topic: article
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -10,26 +10,21 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284521"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794974"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
 
-**適用対象**
+**適用対象**: パートナー センター |パートナー センター Cloud Germany の場合
 
-- Microsoft Cloud ドイツのパートナー センター
-
-**適切なロール**
-
-- グローバル管理者
-- アカウント管理者
+**適切なロール**: グローバル管理者|アカウント管理者
 
 > [!IMPORTANT]
-> お客様のニーズの変化に基づいて、ドイツのクラウド戦略は、グローバルクラウドサービスと一貫性のあるドイツの新しいクラウドリージョンの配信に焦点を当てます。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在提供されている現在のクラウドサービスを引き続き使用できます。このサービスは、必要なセキュリティ更新プログラムによって維持されます。
+> お客様のニーズの進化に基づいて、ドイツ向けクラウド戦略では、グローバル クラウド オファリングと一貫性のあるドイツの新しいクラウド リージョンの提供に重点を置く必要があります。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在利用可能な現在のクラウド サービスを引き続き使用できます。これは、必要なセキュリティ更新プログラムを維持します。
 >  
 > 今後、新しい顧客は、現在利用可能なヨーロッパの地域を利用するか、または利用可能になった時点でドイツの新しい地域を利用することができます。 詳細については、[Microsoft によるドイツの新しいデータセンターからのクラウド サービスの提供](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)に関するページを参照してください。
 
@@ -44,20 +39,20 @@ ms.locfileid: "108284521"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツの Azure ポータルでユーザーを管理する方法 
 
-Microsoft Cloud ドイツのパートナー センターにサインインしている場合は、サインインし直さなくても Microsoft Cloud ドイツの Azure ポータルを開くことができます。 ただし、Microsoft Cloud ドイツの Azure portal に直接サインインする必要がある場合は、「」に進んで [https://portal.microsoftazure.de](https://portal.microsoftazure.de) ください。 
+Microsoft Cloud ドイツのパートナー センターにサインインしている場合は、サインインし直さなくても Microsoft Cloud ドイツの Azure ポータルを開くことができます。 ただし、Microsoft Cloud Germany 用の Azure portalに直接サインインする必要がある場合は、 に移動します [https://portal.microsoftazure.de](https://portal.microsoftazure.de) 。 
 
-Microsoft Cloud ドイツの Azure portal に正常にサインインしたら、Azure Active Directory (Azure AD) の [概要] ページを開き、次の記事の指示に従います。
+Microsoft Cloud Germany の Azure portal に正常にサインインしたら、Azure Active Directory (Azure AD) の概要ページを開き、次の記事の手順に従います。
 
 > [!NOTE]  
 > 下記のリンクを選択すると、別の Web サイトが開きます。
 
--  [Azure Active Directory に新しいユーザーを追加する](/azure/active-directory/active-directory-users-create-azure-portal)
+-  [新しいユーザーを新しいユーザーにAzure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [Azure Active Directory でユーザーを管理者ロールに割り当てる](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
 -  [Azure Active Directory でのユーザー パスワードのリセット](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 -  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
 -  [Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)

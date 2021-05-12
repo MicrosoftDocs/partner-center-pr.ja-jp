@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/07/2021
-ms.openlocfilehash: 0263522eed42dbbdd11dc43f6aed490ce61b261d
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630136"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712517"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,9 @@ ms.locfileid: "109630136"
 
 |**カテゴリ**|**2021 年 5 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[パートナー主導の共同販売取引の分析](2021-may.md#9)|5 月 10 日|
+|機能|[ホスティングおよび SPLA リセラー インセンティブ プログラムが 2021 年 9 月 30 日まで延長](2021-may.md#8)|5 月 7 日|
+|機能|[既定の銀行プロファイルの機能が、インセンティブ登録用にパートナー センターで利用できるようになります](2021-may.md#7)|5 月 7 日|
 |機能|[更新: スケジューラ製品の発売が遅れています](2021-may.md#6)|5 月 5 日|
 |機能|[中国に近日公開される CSP の永続的ソフトウェア](2021-may.md#5)|5 月 5 日|
 |機能|[最後のリマインダー: 2021 年 5 月 6 日に GET 認定が非推奨化](2021-may.md#4)|5 月 4 日|
