@@ -1,7 +1,7 @@
 ---
 title: クラウド ソリューション プロバイダー プログラムに登録する
 ms.topic: how-to
-ms.date: 04/19/2021
+ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: パートナー様のビジネスに最も適したクラウド ソリューション プロバイダー (CSP) プログラム販売モデル (間接リセラーや直接請求パートナーなど) に登録する方法について説明します。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 5be78c55a10e6db1ff0ec057b2a6a06e4373f7a7
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213382"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712483"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
@@ -76,7 +76,7 @@ CSP の申請を作成するときは、MPN ID、会社の正確な住所、銀�
 
 ### <a name="verify-direct-bill-eligibility"></a>直接請求の適格性を確認する
 
-直接請求パートナーとして登録するための最小要件を満たしていることを確認した後、[登録フォーム](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global)に進むことができます。
+直接請求パートナーとして登録するための最小要件を満たしていることを確認した後、[登録フォーム](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR39X9dQFZ3FMghsMA7GOTNJUQVRPMk9KUVJZRDA1T1pSTkRSMzIzRUlOWSQlQCN0PWcu)に進むことができます。
 
 直接請求パートナーとして登録するための適格性要件を貴社が満たしていることの確認が済み、貴社が登録申請を完了した後、Microsoft は登録プロセスで提供されたビジネス情報を確認します。 このレビューの一環として、貴社の与信を審査します。 貴社が与信審査に合格したら、メールでお知らせします。
 >[!IMPORTANT]

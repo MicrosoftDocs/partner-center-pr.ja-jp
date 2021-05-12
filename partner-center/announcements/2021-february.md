@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 0b8938004bb15f1fc58a15333e97297627fa9b24
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266471"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740337"
 ---
 # <a name="february-2021-announcements"></a>2021 年 2 月のお知らせ
 
@@ -36,7 +36,7 @@ ________________
 
 ### <a name="details"></a>詳細
 
-この発表は、[12 月にリリースされたパートナー センター の機能強化](https://docs.microsoft.com/partner-center/announcements/2020-december#1)に関する補足です。 そのリリースの一部として、新しい GET および POST 認定 API が展開されます。その結果、既存の GET 認定は 2021 年 5 月 4 日までに廃止される予定です。 その時点で、教育機関向けプランの購入で新しい POST パートナー センター API を使用するように、また事前認定済みの非営利団体および GCC 向けプランを購入するために新しい GET 認定を使用するように、移行済みである必要があります。
+この発表は、[12 月にリリースされたパートナー センター の機能強化](2020-december.md#1)に関する補足です。 そのリリースの一部として、新しい GET および POST 認定 API が展開されます。その結果、既存の GET 認定は 2021 年 5 月 4 日までに廃止される予定です。 その時点で、教育機関向けプランの購入で新しい POST パートナー センター API を使用するように、また事前認定済みの非営利団体および GCC 向けプランを購入するために新しい GET 認定を使用するように、移行済みである必要があります。
 
 ### <a name="next-steps"></a>次のステップ
 
@@ -320,7 +320,7 @@ Microsoft は、パートナー センター API を呼び出すパートナー�
 
 | 操作 | パートナー センターに関するドキュメント |
 | ------ | ------- |
-|{baseURL}/v1/customers/{customer_id}/subscriptions  | [顧客のすべてのサブスクリプションを取得する](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [顧客のすべてのサブスクリプションを取得する](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [ID でサブスクリプションを取得する](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/customers/{customer_id}/orders  | [すべての顧客の注文を取得する](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [ID ごとに注文を取得する](/partner-center/develop/get-an-order-by-id) |

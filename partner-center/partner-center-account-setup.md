@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315900"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740388"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>パートナー センター アカウントの管理 - 会社のプロファイル、銀行に関する情報、ロール、アクセス許可など
 
@@ -163,5 +163,5 @@ ms.locfileid: "107315900"
 - [ユーザー ロールとアクセス許可の割り当て](permissions-overview.md)
 - [MPN アカウントを管理する: 場所](manage-locations.md)
 - [ユーザー パスワードのリセット](reset-a-user-password.md)
-- [API: パートナーの法人プロファイルを取得する](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
+- [API: パートナーの法人プロファイルを取得する](/partner-center/develop/get-legal-business-profile)
 - [パートナー センターのコマーシャル マーケットプレースでプランと価格を見つける](csp-commercial-marketplace-discover.md)
