@@ -1,45 +1,43 @@
 ---
-title: Microsoft ライセンスリソース
+title: Microsoft ライセンス リソース
 ms.topic: article
 ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft パートナーとして、さまざまな Microsoft ライセンスプログラムの使用についてご質問がある場合があります。 この記事では、役立つリソースを提供します。
+description: Microsoft パートナーは、さまざまな Microsoft ライセンス プログラムの使用について質問がある場合があります。 この記事では、役立つリソースを提供します。
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 7343e6b234fed9107689f451d23cd3a74c0c389f
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002902"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856085"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft パートナー向けリソース ライセンス ガイド 
 
-**適切なロール**
+**適切なロール**: ヘルプ エージェント
 
-- ヘルプエージェント
+この記事では、パートナーのライセンスに関する質問に回答するのに役立つリソースを共有します。
 
-この記事では、パートナーのライセンスに関する質問への回答に役立つリソースを共有します。
+Microsoft パートナーは、1 つ以上のライセンス プログラム、チャネル、または契約に関与している可能性があります。 パートナー センター ダッシュボードで作業する場合は、クラウド ソリューション プロバイダー (CSP) プログラムや Microsoft Partner Network (MPN) プログラムなどのプログラムを含めることができます。 その他のライセンス プログラムには、Enterprise Agreement (EA) ライセンス、ボリューム ライセンス (VL)、OEM ライセンス プログラム、ソフトウェア アシュアランス トレーニングまたは受講券プログラム、オープン ライセンス プログラムが含まれます。
 
-Microsoft パートナーは、1つまたは複数のライセンスプログラム、チャネル、または契約に参加することがあります。 パートナーセンターのダッシュボードで作業している場合は、クラウドソリューションプロバイダー (CSP) プログラムや Microsoft Partner Network (MPN) プログラムなどのプログラムを含めることができます。 その他のライセンスプログラムには、Enterprise Agreement (EA) ライセンス、ボリュームライセンス (VL)、OEM ライセンスプログラム、ソフトウェアアシュアランストレーニングまたはバウチャープログラム、オープンライセンスプログラムなどがあります。
+各プログラムには、特定の契約と条項が関連付けられている。 同様に、使用する特定の製品には、その使用に関連する追加の製品固有のライセンス契約がある場合があります。
 
-各プログラムには、特定の契約と用語が関連付けられています。 同様に、使用する特定の製品には、その使用に関連する製品固有のライセンス契約が追加されている場合があります。
-
-これらのプログラムがどのように機能するかについて不明な点がある場合は、これらのリソースが役に立ちます。
+これらのプログラムの動作について質問がある場合は、これらのリソースが役立ちます。
 
 > [!NOTE]
-> より詳細なライセンスの質問や顧客の見積もりに関するヘルプが必要な場合は、ライセンスプログラムの割り当て済み間接プロバイダー (CSP プログラムの場合) またはプログラムのディストリビューターから開始します。 多くの場合、特定のライセンスの質問、または顧客の見積もり、SKU の購入、または前提条件の作成に関する質問については、最適な最初のポイントとなります。 このロールを提供するパートナーをお持ちでない場合は、「 [パートナー](find-a-partner.md) を見つけてください」を参照してください。
+> ライセンスに関するより詳細な質問や顧客の引用に関するヘルプが必要な場合は、ライセンス プログラムの割り当て済み間接プロバイダー (CSP プログラムの場合) またはプログラム ディストリビューターから始める必要があります。 多くの場合、特定のライセンスに関する質問や、顧客見積もり、SKU の購入、または前提条件の作成に関する質問に対する最初の問い合わせポイントとして最適です。 このロールを提供するパートナーがいない場合は、「パートナーを探して探す [」](find-a-partner.md) を参照してください。
 >
-> また、Microsoft の連絡先に連絡して、ライセンスの専門家の内部チームを利用することもできます。 特定の Microsoft 連絡先がない場合は、[パートナーサポート](https://partner.microsoft.com/support/v2/?stage=1)にアクセスして、サポートページの [**問題**] フィールドに「**ライセンス**」と入力してください。 
+> また、Microsoft の担当者に連絡して、ライセンスの専門家の内部チームを活用することができます。 Microsoft の特定の連絡先をお持ちでない場合 [](https://partner.microsoft.com/support/v2/?stage=1)は、[パートナーサポート] に移動し、[サポート] ページの [問題] フィールドに「ライセンス」**と入力** します。 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>ライセンスとライセンスのトレーニングに関する一般的なリソース
 
-特定のライセンスプログラムの詳細については、次のリソースを参照してください。
+特定のライセンス プログラムの詳細については、次のリソースを参照してください。
 
 >[!NOTE]
-> ここに示されているすべてのリソースにアクセスするには、特定のプログラムに登録しておく必要があります。 [MPN プログラム](https://partner.microsoft.com/membership)または[CSP プログラム](https://partner.microsoft.com/membership/cloud-solution-provider)に登録する方法の詳細については、こちらを参照してください。
+> ここに示すすべてのリソースにアクセスするには、特定のプログラムに登録する必要がある場合があります。 [MPN プログラム](https://partner.microsoft.com/membership)または[CSP プログラム](https://partner.microsoft.com/membership/cloud-solution-provider)に登録する方法の詳細については、こちらを参照してください。
 
 |目的  | 参照先  |
 |:------------------|:--------------- |
@@ -57,22 +55,22 @@ Microsoft パートナーは、1つまたは複数のライセンスプログラ
 |目的  | 参照先  |
 |:------------------|:--------------- |
 |Microsoft ボリュームライセンスプログラムの製品またはサービスについて、マイクロソフト製品使用条件の現在のバージョンを確認またはダウンロードします。 | [製品またはサービスを検索するか、](https://www.microsoft.com/licensing/terms/) [ここで検索](http://www.microsoftvolumelicensing.com/)します  |
-|ソフトウェアアシュアランスプログラムと関連付けられているライセンスの詳細と、支払いとバウチャーのしくみについて説明します。  | [ソフトウェアアシュアランスの概要](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) または [ソフトウェアアシュアランスの利点と要件](software-assurance-lp.md) |
-|MPN の内部使用権または特典の詳細を確認します。  | [Microsoft Partner Network プログラム ガイド](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
-|プレインストールキットやトレーニングなど、OEM パートナーの資料を検索します。  | [Microsoft デバイスパートナーセンター](https://devicepartner.microsoft.com/)  |
-|OEM のお客様または小売顧客 (フルパッケージ製品または FPP のお客様とも呼ばれます) の使用に関する質問に回答します。 これは、マイクロソフトまたはコンピューターの製造元によってソフトウェアがライセンスされていたお客様を対象としています。 *(これらの条項は、ボリュームライセンスプログラムのお客様には適用されません)。*  | [製品版 (FPP) の使用条件](https://www.microsoft.com/useterms)  |
+|ソフトウェアアシュアランスプログラムと関連付けられているライセンスの詳細と、支払いとバウチャーのしくみについて説明します。  | [ソフトウェア アシュアランス](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) の [概要またはソフトウェア アシュアランスの利点と要件](software-assurance-lp.md) |
+|MPN 内部使用権限または特典に関する詳細を確認します。  | [Microsoft Partner Network プログラム ガイド](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
+|インストール前キットやトレーニングなどの OEM パートナーの資料を見つける。  | [Microsoft Device パートナー センター](https://devicepartner.microsoft.com/)  |
+|OEM 顧客または小売顧客 (フル パッケージ製品または FPP 顧客とも呼ばれる) の使用に関する質問に回答します。 これは、ソフトウェアが Microsoft またはコンピューターの製造元によってライセンスされた顧客向けです。 *(これらの条項は、ボリューム ライセンス プログラムのお客様には適用されません)。*  | [Retail (FPP) の使用条件](https://www.microsoft.com/useterms)  |
 
-## <a name="resources-associated-with-license-fulfillment-or-financing-options"></a>ライセンス調達またはファイナンスオプションに関連するリソース
+## <a name="resources-associated-with-license-fulfillment-or-financing-options"></a>ライセンスフルフィルメントまたはオプションに関連付けられているリソース
 
-ライセンス調達、支払い、またはファイナンスに関する具体的なご質問がある場合は、最初の連絡ポイントは間接プロバイダー (CSP プログラムの場合) またはプログラムのディストリビューターです。 次のリソースが役に立つ場合もあります。
+ライセンスのフルフィルメント、支払い、または支払いについて具体的な質問がある場合、最初の連絡先は間接プロバイダー (CSP プログラムの場合) またはプログラム ディストリビューターです。 次のリソースも役に立つ場合があります。
 
 |目的  | 解決方法については、  |
 |:------------------|:--------------- |
-|ボリュームライセンスプログラムのインストールメディアについて、調達に関する質問に回答します。 | [[ライセンス調達] ページ](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
-|Enterprise Agreement (EA)、サーバーとクラウドの登録 (SCE)、および Open Value サブスクリプション (OVS) のオンラインサービスに関して、調達に関する質問に回答します。  | [Microsoft ボリュームライセンスセンタートレーニングとリソース](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
-|Microsoft 製品およびサービス契約 (MPSA) に関連するオンラインサービスについて、調達に関する質問に回答します。  | [Microsoft Business Center のトレーニングとリソース](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) または [mpsa ライセンスの概要](https://www.microsoft.com/licensing/mpsa/default)  |  
-|クラウドソリューションプロバイダー (CSP) プログラムに関連付けられているオンラインサービスについて、調達に関する質問に回答します。  | [CSP サブスクリプションを顧客に販売する方法](customer-subscriptions.md)  |
-|Microsoft の支払いおよびファイナンスオプションに関する質問に回答します。  | [Microsoft ファイナンスプログラムに関する FAQ](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |
+|ボリューム ライセンス プログラムのインストール メディアに関するフルフィルメントの質問に回答します。 | [[ライセンスのフルフィルメント] ページ](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
+|Enterprise Agreement (EA)、サーバーとクラウド登録 (SCE)、Open Value Subscription (OVS) の登録プログラムについて、オンライン サービス に関するフルフィルメントの質問に回答します。  | [Microsoft ボリューム ライセンス センターのトレーニングとリソース](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
+|Microsoft 製品サービス契約 (MPSAオンライン サービス関連付けられているサービスに関するフルフィルメントの質問に回答します。  | [Microsoft Business Center のトレーニングとリソース、](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2)[または MPSA ライセンスの概要](https://www.microsoft.com/licensing/mpsa/default)  |  
+|オンライン サービス (CSP) プログラムクラウド ソリューション プロバイダー関するフルフィルメントの質問に回答します。  | [CSP サブスクリプションを顧客に販売する方法](customer-subscriptions.md)  |
+|Microsoft の支払いオプションとオプションに関する質問に回答します。  | [Microsoft ファイナンスプログラムに関する FAQ](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |
 
 ## <a name="more-resources-to-help-with-price-lists-customer-deals-license-activation-or-credits"></a>価格表、顧客取引、ライセンスのアクティブ化、クレジットに関するその他のリソース
 
@@ -90,13 +88,13 @@ Microsoft パートナーは、1つまたは複数のライセンスプログラ
 
 ## <a name="help-from-microsoft-support"></a>Microsoft サポートからのヘルプ
 
-Microsoft パートナーは、お客様の成功に関係する他のパートナーからの支援を求めることができます。 また、Microsoft サポートから支援を求めることもできます。 サポートの専門家が、パートナープログラムの問題、プリセールスサポート、マイクロソフト製品の問題、課金に関する質問などにご協力ください。
+Microsoft パートナーは、お客様の成功に関係する他のパートナーからの支援を求めることができます。 また、サポートを求めMicrosoft サポート。 サポートエキスパートは、パートナー プログラムの問題、プリセールス サポート、Microsoft 製品に関する問題、課金に関する質問などについて支援します。
 
-サポートオプションを表示したり、サポートチケットを開始したりするには、 [Microsoft Partner support](https://partner.microsoft.com/support/?stage=1) にアクセスしてください。
+Microsoft パートナー [サポートに移動して](https://partner.microsoft.com/support/?stage=1) 、サポート オプションを表示するか、サポート チケットを開始します。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- [その他のサポートリソースを表示する](https://partner.microsoft.com/support/?stage=1)
+- [その他のサポート リソースを表示する](https://partner.microsoft.com/support/?stage=1)
 - [パートナーを見つける](find-a-partner.md)
-- [MPN プログラムについて学習または登録する](https://partner.microsoft.com/membership)
-- [CSP プログラムについて学習するか、登録する](https://partner.microsoft.com/membership/cloud-solution-provider)
+- [MPN プログラムについて学習するか、MPN プログラムに登録する](https://partner.microsoft.com/membership)
+- [CSP プログラムについて学習するか、CSP プログラムに登録する](https://partner.microsoft.com/membership/cloud-solution-provider)

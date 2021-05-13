@@ -9,24 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441600"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855881"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>パートナーセンターの調整ファイルのさまざまな料金の種類を理解する
 
-**適用対象**
+**適用対象**: パートナーセンター |米国政府向け Microsoft Cloud パートナーセンター
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
-
-**適切なロール**
-
-- 管理エージェント
-- 課金管理者
-- グローバル管理者
+**適切なロール**: 管理エージェント |課金管理者 |全体管理者
 
 この記事では、請求書セクションと、調整ファイルに存在する可能性のある関連する料金の種類とのマッピングについて説明します。 請求書には、料金の概要が表示されます。 調整ファイルには、料金の種類など、行アイテムトランザクションの詳細な内訳が表示されます。 調整ファイルの詳細については、「 [調整ファイルの使用方法](use-the-reconciliation-files.md)」を参照してください。
 
@@ -81,10 +75,10 @@ ms.locfileid: "106441600"
 
 ### <a name="credits"></a>謝辞
 
-これらのクレジットを請求書にマップするには、次の手順を実行します。
+これらのクレジットを請求書にマップするには:
 
-- ライセンスベースのファイルから **Totalforcustomer** を合計します。
-- 使用状況に基づくファイルから **PostTaxTotal** 列を合計します。
+- ライセンス ベース **のファイルの TotalForCustomer** を合計します。
+- 使用状況ベース **のファイルから PostTaxTotal** 列を合計します。
 
 | 料金の説明 (調整ファイルの ChargeType 列) | 料金の説明 |
 | ------------------------------------------------------------- | ------------------ |
@@ -92,17 +86,17 @@ ms.locfileid: "106441600"
 
 ### <a name="usage-based-discounts"></a>使用量ベースの割引
 
-これらの使用量に基づく割引を請求書にマップするには、使用量に基づくファイルから、[の **Ax料金** ] 列を合計します。
+これらの使用量ベースの割引を請求書にマップするには、使用状況ベースのファイルから **PretaxCharges** 列を合計します。
 
 | 料金の説明 (調整ファイルの ChargeType 列) | 料金の説明 |
 | ------------------------------------------------------------- | ------------------ |
-| Activation discount | サブスクリプションがアクティブになったときに適用される割引。 |
+| Activation discount | サブスクリプションのアクティブ化時に適用される割引。 |
 | Cycle discount | 定期的な課金に適用される割引。 |
-| Renew discount | サブスクリプションが更新されたときに適用される割引。 |
+| Renew discount | サブスクリプションの更新時に適用される割引。 |
 | Cancel discount | 割引が取り消されたときに適用される料金。 |
 
 ### <a name="license-based-discounts"></a>ライセンスベースの割引
 
-ライセンスベースの割引を請求書にマップするには、ライセンスベースのファイルの合計 **割引** 列を合計します。
+ライセンスベースの割引を請求書にマップするには、ライセンス ベースのファイルの **TotalOtherDiscount** 列を合計します。
 
-*ライセンスベースの割引は、複数の種類の料金に適用できます。*
+*ライセンスベースの割引は、複数の料金の種類に適用できます。*

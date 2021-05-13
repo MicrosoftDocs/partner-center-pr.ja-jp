@@ -1,26 +1,24 @@
 ---
-title: Microsoft の紹介を利用してビジネスを拡大
+title: Microsoft の紹介でビジネスを拡大する
 ms.topic: article
 ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ビジネスプロファイルを作成して、パートナーセンターの紹介機能を通じて販売潜在顧客を生成し、これらの紹介に応答する方法について説明します。
+description: ビジネス プロファイルを作成して、紹介機能を使用してパートナー センターリードを生成し、これらの紹介に応答する方法について学習します。
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 149897c0afa12c4c45df974dafb5c47826274174
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 2f37a14cd8987b6bddc96594ebf622f8e7be59b0
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120733"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855864"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>マイクロソフトからの紹介案件の獲得によるビジネスの拡大
 
-**適切なロール**
-
-- 紹介管理者
+**適切なロール**: 紹介管理者
 
 多くのお客様は、Microsoft のテクノロジおよびビジネス ソリューションの実装を依頼できるような、条件に合ったエキスパートを求めています。 Microsoft には、当社のマーケティング活動や社内の Microsoft 販売担当者を通じて、サポートを求める声が多くのお客様から寄せられます。 また、お客様は、[**[ソリューション プロバイダーを見つける]** 機能](https://www.microsoft.com/solution-providers/search)を使用して、ビジネス ニーズを満たすためのサポートを得ることのできる会社を検索します。 
 

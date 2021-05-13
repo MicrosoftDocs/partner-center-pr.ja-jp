@@ -7,20 +7,16 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 343db43633245030a5eba213cb5c8b79d09a7dee
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: a93e94912f840e4cb69c3cc834f03af1b34f19aa
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686315"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856017"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>税金ポリシーが支払いに与える影響Azure Marketplace
 
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- 管理エージェント
+**適切なロール**: グローバル管理者|ユーザー管理管理者|管理エージェント
 
 ## <a name="introduction"></a>はじめに
 
@@ -45,39 +41,39 @@ Microsoft コマーシャル マーケットプレースはグローバルに展
 
 :::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="支払いプロセス シナリオ B のワークフローを示します。":::
 
-## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>パブリッシャーによるトランザクションの処理は、発行元管理税の国で行う
+## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>発行元が管理する税の国の発行元取引
 
-**シナリオ C** –お客様に対して源泉徴収税が適用されていない、発行元管理の税金の国で、発行元と顧客の間で行われるトランザクション。 お客様は、販売時点で税金を支払うことなく、適用されるすべての税金を支払うことになります。
+**シナリオ C** – 発行元と、顧客に対して差し引き税を課していない発行元が管理する税の国の顧客との間で発生するトランザクション。 お客様は販売時点で税金を支払わないので、適用される税金を支払うのは発行元の義務です。
 
-国固有の価格の詳細については (たとえば、今後の課税を相殺する場合)、「 [商業市場向けプランと価格](/azure/marketplace/plans-pricing#custom-prices)」を参照してください。
+国固有の価格 (今後の課税を相殺する場合など) の詳細については、「コマーシャル マーケットプレース オファーのプランと価格 [」を参照してください](/azure/marketplace/plans-pricing#custom-prices)。
 
-:::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="支払いプロセスシナリオ C のワークフローを示します。":::
+:::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="支払いプロセス シナリオ C のワークフローを示します。":::
 
-## <a name="foreign-publisher-transacts-with-us-customer"></a>外部パブリッシャーのトランザクションは、米国の顧客とやり取りします
+## <a name="foreign-publisher-transacts-with-us-customer"></a>米国顧客との外部発行元取引
 
-**シナリオ D** –米国の条約を使用しない国では、パートナーセンターの税プロファイル情報によって定義されているように、米国のお客様への販売を行う ( [シナリオ E](#foreign-publisher-with-a-treaty-transacts-with-us-customer)を参照してください) すべての外部出版社。 米国政府機関は、発行元に代わって Microsoft の源泉徴収税を要求します。 支払い額からパブリッシャーへの税金の源泉徴収は、プランの価格に基づいて計算されます。
+**シナリオ D** – 米国の国の (パートナー センター 税プロファイル情報で定義されている) すべての外部発行元 (シナリオ [E](#foreign-publisher-with-a-treaty-transacts-with-us-customer)を参照) が米国ベースの顧客に対して販売を行う (顧客アカウントの住所によって定義されます)。 米国政府は、Microsoft が発行元に代わって税金を差し引く必要があります。 支払いから発行元に差し引いた税金は、オファーの価格に基づいて計算されます。
 
-:::image type="content" source="images/tax-policies/payout-scenario-d.png" alt-text="支払いプロセスシナリオ D のワークフローを示します。":::
+:::image type="content" source="images/tax-policies/payout-scenario-d.png" alt-text="支払いプロセス シナリオ D のワークフローを示します。":::
 
-## <a name="foreign-publisher-with-a-treaty-transacts-with-us-customer"></a>米国のお客様との条約による海外パブリッシャー
+## <a name="foreign-publisher-with-a-treaty-transacts-with-us-customer"></a>米国のお客様との取引に関する協定を持つ外部発行元
 
-**シナリオ E** –米国のお客様への販売を行っている国では、(パートナーセンターの税プロファイル情報によって定義されているように) すべての国外発行元 (顧客のアカウント住所で定義されているとおり)。 米国政府機関では、Microsoft が発行元に代わって税金を源泉徴収する必要はありません。
+**シナリオ E** – 米国の顧客に対して販売を行う米国の国 (パートナー センター 税プロファイル情報で定義されている) すべての外部発行元 (顧客アカウントの住所によって定義されます)。 米国政府は、Microsoft が発行元に代わって税金を差し引く必要はない。
 
-:::image type="content" source="images/tax-policies/payout-scenario-e.png" alt-text="支払いプロセスシナリオ E のワークフローを示します。":::
+:::image type="content" source="images/tax-policies/payout-scenario-e.png" alt-text="支払いプロセス シナリオ E のワークフローを示します。":::
 
-## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>国外の出版社は、Microsoft が管理する国 (アイルランド以外) で、EU に登録されたお客様を販売します。
+## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>外の発行元は、Microsoft が管理する国 (アイルランド以外) の EU VAT 登録済み顧客に販売します
 
-**シナリオ F** – Microsoft-Managed 国での海外の出版社と EU VAT 登録顧客 (アイルランド以外) のすべてのトランザクション。 お客様は、売上に対して税金を支払うことはありません。
+**シナリオ F** – 米国内の外部発行元と EU の VAT に登録された顧客 (アイルランド以外) 間のすべての取引Microsoft-Managedします。 顧客は、販売に対して税金を支払うのではありません。
 
-:::image type="content" source="images/tax-policies/payout-scenario-f.png" alt-text="支払いプロセスシナリオ F のワークフローを示します。":::
+:::image type="content" source="images/tax-policies/payout-scenario-f.png" alt-text="支払いプロセス シナリオ F のワークフローを示します。":::
 
 ## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-in-ireland"></a>国外の出版社は、Microsoft が管理する国 (アイルランド) で、EU に登録されたお客様を販売します。
 
-**シナリオ G** – 米国内の外部発行元と EU の VAT 登録済み顧客 (アイルランド内) 間のすべての取引Microsoft-Managedします。 この税金は、お客様が日本政府に支払いを行い、Microsoft が本税を支払います。
+**シナリオ G** – Microsoft-Managed 国での海外の出版社と EU VAT 登録のお客様 (アイルランド内) のすべての取引。 お客様は、アイルランドの VAT を支払い、マイクロソフトはこの税金をアイルランド政府に支払います。
 
-:::image type="content" source="images/tax-policies/payout-scenario-g.png" alt-text="支払いプロセス シナリオ G のワークフローを示します。":::
+:::image type="content" source="images/tax-policies/payout-scenario-g.png" alt-text="支払いプロセスシナリオ G のワークフローを示します。":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- [発行元に関する FAQ](/azure/marketplace/marketplace-faq-publisher-guide)
-- [支払いプロファイルと税プロファイルを作成する手順](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)
+- [発行元の FAQ](/azure/marketplace/marketplace-faq-publisher-guide)
+- [支払いと税金のプロファイルを作成する手順](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

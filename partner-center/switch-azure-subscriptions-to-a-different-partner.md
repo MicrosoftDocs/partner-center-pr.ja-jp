@@ -1,38 +1,34 @@
 ---
-title: Azure サブスクリプションを別のパートナーに転送する
+title: Azure サブスクリプションを別のパートナーに譲渡する
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顧客の Azure サブスクリプションに関連付けられているクラウドソリューションプロバイダープログラムパートナーを変更する方法について説明します。
+description: 顧客の Azure サブスクリプションにクラウド ソリューション プロバイダープログラム パートナーを変更する方法について説明します。
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b21bfcae4472763c19481ad506ae1c72d238e8f0
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 94f79762e7fabb377b8d7b559ff9ba2623b135fe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002904"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856068"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>顧客の Azure サブスクリプションを別のパートナーに転送する方法について学習する
 
-**適用対象**
+**適用対象**: パートナー センター |パートナー センターのMicrosoft Cloud for US Government
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+**適切なロール**: グローバル管理者
 
-**適切なロール**
+この記事では、顧客が顧客のサービスを 1 Microsoft Azure (CSP) クラウド ソリューション プロバイダー切り替える方法について説明します。
 
-- グローバル管理者
-
-この記事では、顧客が Microsoft Azure services を1つのクラウドソリューションプロバイダー (CSP) から別のクラウドソリューションプロバイダー (CSP) に切り替える方法について説明します。
-
-顧客の Azure サービスまたはサブスクリプションを別のパートナーに切り替えるには、次の手動の手順に従います。 パートナーと顧客は両方とも手順を完了する必要があります。
+顧客の Azure サービスまたはサブスクリプションを別のパートナーに切り替えるには、次の手動の手順に従います。 パートナーと顧客の両方が手順を完了する必要があります。
 
 >[!Note]  
->現在、サブスクリプションを転送できるのは、直接または間接プロバイダーだけです。
->Azure プラン、Office 365、Enterprise Mobility Suite、または Microsoft Dynamics CRM サブスクリプションに関連付けられているクラウドソリューションプロバイダーサブスクリプションのパートナーを変更することはできません。
+>現時点では、直接プロバイダーまたは間接プロバイダーだけがサブスクリプションを譲渡できます。
+>Azure プラン、Office 365、Enterprise Mobility Suite、または Microsoft Dynamics CRM サブスクリプションに関連付けられている クラウド ソリューション プロバイダー サブスクリプションのパートナーを変更できない。
 
 ## <a name="switch-partners-for-azure-subscriptions"></a>Azure サブスクリプションのパートナーを切り替える
 
@@ -49,11 +45,11 @@ ms.locfileid: "108002904"
 
    2. **[サポート チケット]** セクションで **[新しいチケット]** ドロップダウン リストを選び、**[Microsoft Azure]** を選びます。
    
-   3. [Azure portal](https://portal.azure.com)から、[**新しいサポート要求**] を選択します。
+   3. [新 [しい](https://portal.azure.com)Azure portal] で、[新しい **サポート 要求] を選択します**。
    
    4. 手順 1 で、問題の種類として **[サブスクリプション管理]** を選び、切り替えるサブスクリプション ID を指定して、サポート プランとして **[クラウド ソリューション プロバイダー]** を選びます。
    
-   5. 手順 2. で、[ **C-影響を最小限** にする] を選択し、問題の種類として **他の一般的な質問** を選択します。
+   5. 手順 2 で **[C-Minimal impact]を** 選択し、問題の種類 **として [その** 他の一般的な質問] を選択します。
    
    6. [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)をダウンロードします。
 
@@ -74,18 +70,18 @@ ms.locfileid: "108002904"
 
    フォームを確認し、新しいパートナーに関する情報を入力し、それに署名します。 新しい顧客が適切な契約書を持っていることを確認します。 フォームを現在の指名パートナーに送信します。
 
-   *重要*: 新しい CSP パートナーがお客様との再販業者の関係を持っていない場合は、サブスクリプションを譲渡する前に、そのパートナーを設立する必要があります。 [これを行う方法については、こちらをご覧ください](request-a-relationship-with-a-customer.md)。
+   *重要*: 新しい CSP パートナーが顧客とリセラーの関係を持てない場合は、サブスクリプションを譲渡する前に、パートナーがリセラー関係を確立する必要があります。 [これを行う方法については、こちらをご覧ください](request-a-relationship-with-a-customer.md)。
 
    >[!Note]
    >新しい CSP パートナーと顧客のテナントは、同じ国に存在する必要があります。 
 
 5. 現在のパートナーが次の操作を行います。
 
-   フォームに、両方のパートナー管理者の連絡先情報が含まれていることを確認します。 Microsoft サポートは両方の管理者に連絡して、転送を確認します。 3つの署名がすべてあることを確認します。 次に、[ **ファイルのアップロード** ] オプションを使用して、完成したフォームを既存のサービス要求にアタッチします。 Microsoft サポートエンジニアは、受信確認と完了を検証するために、8営業時間以内にお客に戻ってきます。
+   フォームに両方のパートナー管理者の連絡先情報が含まれる必要があります。 Microsoft サポート、両方の管理者に連絡して転送を確認します。 3 つの署名が 3 つすべての署名を持っている必要があります。 次に、[ **ファイルのアップロード]** オプションを使用して、完成したフォームを既存のサービス要求に添付します。 Microsoft サポート エンジニアから 8 営業時間以内に返送され、レシートと完了が検証されます。
 
 6. 新しいパートナーは次の操作を行います。
 
-   Azure サブスクリプションの設定を更新して、アカウントから古いパートナーを削除します。 プロビジョニングされているロールの割り当てを確認するには、2つの PowerShell コマンドレットを実行します。
+   Azure サブスクリプションの設定を更新して、アカウントから古いパートナーを削除します。 プロビジョニングされるロールの割り当てを確認するには、2 つの PowerShell Commandlet を実行します。
 
    - アカウントのリセラーとして新しいパートナーを追加します。
 
@@ -94,7 +90,7 @@ ms.locfileid: "108002904"
      ```
 
      >[!NOTE]
-     > 顧客の **テナント ID** は、顧客の **Microsoft ID** としてパートナーセンターに表示されます。 特定の顧客の Microsoft ID (テナント ID) を検索するには、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。 次に、メニューから **Customers** を選択します。 一覧で顧客を見つけます。 下矢印を選択して、顧客の一覧を展開します。 顧客の *ドメイン名* と顧客の **Microsoft ID** に関する情報が表示されます。 PowerShell コマンドレットで16桁の **MICROSOFT ID** を使用します。
+     > 顧客のテナント **ID は、パートナー センター** の Microsoft ID として **表示されます**。 特定の顧客の Microsoft ID (テナント ID) を検索するには、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。 次に、メニューから **Customers** を選択します。 一覧で顧客を見つけます。 下矢印を選択して、顧客の一覧を展開します。 顧客の *ドメイン名* と顧客の **Microsoft ID** に関する情報が表示されます。 PowerShell コマンドレットで16桁の **MICROSOFT ID** を使用します。
 
    - 前の CSP パートナーを含めて、アカウントの役割を表示します。
 
@@ -109,7 +105,7 @@ ms.locfileid: "108002904"
    - [Customer detail] メニューで、[ **Service management**] を選択します。
    - [ **Microsoft Azure** で、リンクを選択して **Microsoft Azure の管理ポータル** にアクセスします。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [CSP サブスクリプションの譲渡フォーム](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)をダウンロードします。
 

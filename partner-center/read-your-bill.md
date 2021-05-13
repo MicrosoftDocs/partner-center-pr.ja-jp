@@ -1,60 +1,56 @@
 ---
-title: 請求書 & 偵察ファイルを読み取る方法
+title: 請求書を読み取り、&する方法
 ms.topic: article
 ms.date: 06/05/2020
-description: 請求書 & 調整ファイルについて説明します。 請求書には、その月の期間におけるプログラム、製品、および顧客に対するパートナーセンターの料金が表示されます。
+description: 請求書と調整ファイルについて&確認します。 請求書には、そのパートナー センタープログラム、製品、顧客全体の料金が表示されます。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964359"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855915"
 ---
-# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>請求書と調整ファイルを理解する-パートナーセンターでそれらを検索する方法について説明します
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>請求書と調整ファイルを理解する - 請求書と調整ファイルでそれらを見つけるパートナー センター
 
 
-**適切なロール**
-
-- グローバル管理者
-- 課金管理者
-- 管理エージェント
+**適切なロール**: グローバル管理者|課金管理者|管理エージェント
 
 
-**請求書** は、**すべてのパートナーセンターの請求**(プログラム全体、すべての製品、およびすべての顧客) の概要です。 
+請求書 **は** 、(プログラム全体、すべての製品 **、パートナー センター** 顧客) すべての請求金額の概要です。 
 
-## <a name="find-your-bill-and-reconciliation-file"></a>請求書と調整ファイルの検索 
+## <a name="find-your-bill-and-reconciliation-file"></a>請求書と調整ファイルを見つける 
 
-請求書は、パートナーセンターのダッシュボードの [課金] ページで確認できます。 このページでは、請求履歴、支出傾向、および調整ファイルを見つけることもできます。 
+請求書は、ダッシュボードの [課金] ページで確認パートナー センター。 このページでは、請求履歴、支出傾向、調整ファイルを確認することもできます。 
 
 1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard/home)にサインインします。 
 
-2. 左側のメニューで、[ **課金**] を選択します。 
+2. 左側のメニューで、[課金] を **選択します**。 
 
 3. 請求の状態ページで、請求書または調整ファイルを選択して、詳細な情報を確認します。 
 
-最新の請求書へのリンクについては、最後の請求日の時点で、[アカウントの残高] の下に表示されます。 
+最新の請求書へのリンクは、ページの上部にある [最後の請求書の日付のアカウント残高] で確認できます。 
 
-以前の請求書は、[請求履歴] セクションで確認できます。 適切な年を選択し、適切な請求期間の横にあるドロップダウン矢印を選択します。 請求書 (.pdf) の横にあるリンクを選択して、その期間の請求書をダウンロードします。 
+以前の請求書は、[課金履歴] セクションで確認できます。 適切な年を選択し、適切な請求期間の横にあるドロップダウン矢印を選択します。 [請求書 ( .pdf) ] の横にあるリンクを選択して、その期間の請求書をダウンロードします。 
 
 ## <a name="invoice-types"></a>請求書の種類
 
-Microsoft は、ライセンスベースの料金 (Office 365 など) と使用量ベースの料金 (Azure など) に対して1つの請求書を発行し、1回限りの料金 (Azure RI、Marketplace、Azure plan など) に対して別の請求書を発行します。
+Microsoft は、ライセンスベースの料金 (Office 365 など) と使用量ベースの料金 (Azure など) に対して 1 つの請求書を発行し、1 回限りの料金 (Azure RI、Marketplace、Azure プランなど) に対して個別の請求書を発行します。
 
 たとえば、次のように入力します。  
 
-**シナリオ 1 [Single Currency]**: パートナーは145P プランと O365 ライセンスを購入しています。  
+**シナリオ 1 [単一通貨]**: パートナーは 145P オファーと O365 ライセンスを購入しています。  
 
-- パートナーは、O365 と Azure (145p) の両方の料金をカバーする1つの請求書 PDF と2つの調整ファイルを取得します。  
+- パートナーは、O365 と Azure (145p) の両方の料金をカバーする 1 つの請求書 PDF と 2 つの調整ファイルを取得します。  
 
-**シナリオ 2 [Single Currency]**: パートナーは、145p 購入と共に、azure RI、Marketplace、または azure プランを購入しています。
+**シナリオ 2 [単一通貨]**: パートナーは、Azure RI、Marketplace、または Azure プランの購入と 145p の購入を行っています。
 
-- パートナーは、1つの請求書 PDF と、Azure の料金 (145p) をカバーする調整ファイルを取得します。 
+- パートナーは、Azure (145p) の料金をカバーする請求書 PDF と調整ファイルを 1 つ取得します。 
 
 - パートナーは、Azure RI、Marketplace、Azure プランの料金をカバーする別の請求書 PDF と調整ファイルを受け取ります。 
 
@@ -93,8 +89,8 @@ Invoice PDF ドキュメントの主なフィールドの一部を次に示し�
 
 ## <a name="understand-reconciliation-files"></a>調整ファイルについて
 
- 調整ファイルは、料金のドリルダウン/明細項目の詳細を提供し、請求書 PDF と共にダウンロードできます。 調整ファイルには、顧客の請求書の作成に使用できる顧客 id とサブスクリプション id が含まれています。 偵察ファイルの詳細については  [、「調整ファイルの使用方法](use-the-reconciliation-files.md) 」を参照してください。 
+ 料金の詳細をドリルダウンまたは項目別に提供する調整ファイルは、請求書 PDF と共にダウンロードできます。 調整ファイルには、顧客の請求書を作成するために使用できる顧客識別子とサブスクリプション識別子が含まれます。 調整ファイルの  [詳細については、「調整ファイルを使用](use-the-reconciliation-files.md) する方法」を参照してください。 
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [調整ファイルの使用方法](use-the-reconciliation-files.md)

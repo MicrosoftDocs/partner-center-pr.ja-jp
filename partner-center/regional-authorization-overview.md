@@ -1,39 +1,37 @@
 ---
-title: CSP グローバル市場
+title: CSP のグローバル市場
 ms.topic: article
 ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: お客様の会社の所在地に応じて、CSP オファーを販売できる国、地域、および通貨をご覧ください。
+description: 会社の場所に基づいて CSP オファーを販売できる国、地域、通貨を確認します。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120768"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855779"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>クラウドソリューションプロバイダープログラムの地域市場と、CSP プランを販売できる通貨
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>クラウド ソリューション プロバイダー CSP オファーを販売できる地域の市場と通貨をプログラムする
 
-**適切なロール**
+**適切なロール**: グローバル管理者
 
-- グローバル管理者
+会社の場所によって市場が決まります。 市場には、CSP (CSP) プログラム オファーを販売できる地域やクラウド ソリューション プロバイダーが含まれています。
 
-会社の場所によって市場が決まります。 市場には、クラウドソリューションプロバイダー (CSP) プログラムの提供を販売できるリージョンや国が含まれています。
+たとえば、会社が 米国 に位置している場合は、米国および米国の離島の顧客に CSP オファーを販売できます。 会社がブラジルにある場合は、ブラジルの顧客にだけ CSP プランを販売できます。 会社がアフリカ地域にある場合は、アフリカ地域内の 18 か国すべての顧客に CSP プランを販売できます。
 
-たとえば、会社が米国にある場合は、米国およびその他の米領諸島の顧客に対して CSP オファーを販売できます。 会社がブラジルにある場合は、ブラジルの顧客にだけ CSP プランを販売できます。 会社がアフリカ地域にある場合は、アフリカ地域内の 18 か国すべての顧客に CSP プランを販売できます。
+顧客の代わりに CSP プランを注文するには、事前に顧客が Microsoft 顧客契約に署名する必要があります。 お客様のリージョン/国にMicrosoft 顧客契約該当するサービスについては、こちらをクリック [してください](agreements.md)。
 
-顧客の代わりに CSP プランを注文するには、事前に顧客が Microsoft 顧客契約に署名する必要があります。 お住まいの地域または国に該当する Microsoft カスタマーアグリーメントを [ここで](agreements.md)見つけることができます。
+## <a name="azure-plan-for-csp-region-availability"></a>CSP リージョンの可用性に関する Azure プラン  
 
-## <a name="azure-plan-for-csp-region-availability"></a>Azure Plan for CSP リージョンの可用性  
-
-CSP 用の Azure プランは、CSP 用の Azure ソフトウェアよりも少数のリージョンで利用できます。 Azure プランのリージョンの可用性に関する最新の更新については、「 [azure プランの購入](purchase-azure-plan.md)」を参照してください。
+CSP 向け Azure プランは、Azure Software for CSP よりも少ないリージョンで利用できます。 Azure プランのリージョンの可用性に関する最新の更新プログラムについては、「Azure プランを購入 [する」を参照してください](purchase-azure-plan.md)。
 
 >[!IMPORTANT]
-> 顧客が署名者に関する情報を提供することによって、Microsoft カスタマーアグリーメントに同意したことを確認する必要があります。 詳しくは、「[Microsoft 顧客契約に関するお客様の同意を確認する](confirm-consent.md)」を参照してください。
+> 顧客が署名したユーザーに関する情報をMicrosoft 顧客契約受け入れたか確認する必要があります。 詳しくは、「[Microsoft 顧客契約に関するお客様の同意を確認する](confirm-consent.md)」を参照してください。
 
 CSP プランを販売できる場所を確認するには、以下の一覧のいずれかで貴社の場所を検索してください。 販売活動を行う場所で有効な Microsoft Partner Network (MPN) ID を持っている必要があります。  
 
@@ -44,13 +42,13 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 - 直接請求パートナーが使用する URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0。 **partnertenantguid** をテナント ID に置き換えます。 
 
-- 間接リセラーの URL: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 **Irtenantguid** をテナント ID に置き換えます。 **Irmpnid** を MPN id に置き換え、 **iptenantguid** を間接プロバイダーのテナント id に置き換えます。
+- 間接リセラーの URL: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 **IRtenantguid をテナント** ID に置き換える。 **IRMPNID を** MPN ID に置き換え **、IPtenantguid** を間接プロバイダーテナント ID に置き換える。
 
 ## <a name="africa-region-and-market"></a>アフリカの地域と市場
 
 貴社の所在地が以下の一覧に含まれる場合、一覧のすべての場所の顧客に CSP プランを販売できます。
 
-| 国/地域           | Currency |
+| 国/地域           | 通貨 |
 | ------------------------ |:--------:|
 | アンゴラ                   |   USD    |
 | ベナン                    |   USD    |
@@ -105,7 +103,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地が以下の一覧に含まれる場合、一覧のすべての場所の顧客に CSP プランを販売できます。
 
-| 国/地域     | Currency |
+| 国/地域     | 通貨 |
 | --------------     |:--------:|
 |  バングラデシュ        |   USD    |
 |  ブータン            |   USD    |
@@ -131,7 +129,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地が以下の一覧に含まれる場合、一覧のすべての場所の顧客に CSP プランを販売できます。
 
-|  国/地域        | Currency |
+|  国/地域        | 通貨 |
 |  --------------        |:--------:|
 |  オーストラリア             |   AUD    |
 |  クリスマス島      |   AUD    |
@@ -162,7 +160,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地がブラジルの場合は、ブラジルの顧客に CSP プランを販売できます。
 
-|  国/地域 | Currency |
+|  国/地域 | 通貨 |
 |  -------------- |:--------:|
 |  ブラジル         |   USD    |
 |
@@ -171,7 +169,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地が以下の一覧に含まれる場合、一覧のすべての場所の顧客に CSP プランを販売できます。
 
-|  国/地域 | Currency |
+|  国/地域 | 通貨 |
 |  -------------- |:--------:|
 |  Canada         |   CAD    |
 |  サンピエール島・ミクロン島|  CAD   |
@@ -181,7 +179,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地が以下の一覧に含まれる場合、一覧のすべての場所の顧客に CSP プランを販売できます。
 
-|  国/地域 | Currency  |
+|  国/地域 | 通貨  |
 |  -------------- |:--------:|
 |  オーランド諸島  |   EUR    |
 |  アンドラ        |   EUR    |
@@ -234,7 +232,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地がインドの場合は、インドの顧客に CSP プランを販売できます。
 
-|  国/地域 | Currency |
+|  国/地域 | 通貨 |
 |  -------------- |:--------:|
 |  インド          |   INR    |
 |
@@ -243,7 +241,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地が日本の場合は、日本の顧客に CSP プランを販売できます。
 
-|  国/地域 | Currency |
+|  国/地域 | 通貨 |
 |  -------------- |:--------:|
 |  日本          |   JPY    |
 |
@@ -252,7 +250,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地が大韓民国の場合は、大韓民国の顧客に CSP プランを販売できます。
 
-|  国/地域    | Currency |
+|  国/地域    | 通貨 |
 |  --------------    |:--------:|
 |  韓国|   KRW    |
 |
@@ -261,7 +259,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地が以下の一覧に含まれる場合、一覧のすべての場所の顧客に CSP プランを販売できます。
 
-|  国/地域 | Currency |
+|  国/地域 | 通貨 |
 |  -------------- |:--------:|
 |  アンギラ       |   USD    |
 |  南極     |   USD    |
@@ -375,7 +373,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地が以下の一覧に含まれる場合、一覧のすべての場所の顧客に CSP プランを販売できます。
 
-|  国/地域 | Currency |
+|  国/地域 | 通貨 |
 |  -------------- |:--------:|
 |  米領サモア |   NZD    |
 |  ニュージーランド    |   NZD    |
@@ -387,7 +385,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地がロシアの場合は、ロシアの顧客に CSP プランを販売できます。
 
-|  国/地域 | Currency |
+|  国/地域 | 通貨 |
 |  -------------- |:--------:|
 |  ロシア         |    RUB   |
 |
@@ -396,7 +394,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地が台湾の場合は、台湾の顧客に CSP プランを販売できます。
 
-|  国/地域 | Currency |
+|  国/地域 | 通貨 |
 |  -------------- |:--------:|
 |  台湾         |   TWD    |
 |
@@ -405,7 +403,7 @@ CSP プランを販売できる場所を確認するには、以下の一覧の�
 
 貴社の所在地が以下の一覧に含まれる場合、一覧のすべての場所の顧客に CSP プランを販売できます。
 
-|  国/地域       | Currency |
+|  国/地域       | 通貨 |
 |  -------------        |:--------:|
 |  United States        |   USD    |
 |  米国領有小離島|   USD    |
