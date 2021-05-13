@@ -9,23 +9,17 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633660"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854130"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>顧客に課金サポートを提供し、請求に関する質問に答える
 
 
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- ヘルプデスク エージェント
-- 課金管理者
-- 販売代理店
+**適切なロール**: 全体管理者 |ユーザー管理の管理者 |ヘルプデスクエージェント |課金管理者 |営業担当者
 
 顧客との請求関係を所有しており、お客様は顧客の請求に関連する質問に回答する責任があります。
 
@@ -56,7 +50,7 @@ CSP モデルで取引を行うパートナーは、お客様に対する信頼�
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>課金、サブスクリプション管理、テクニカル サポートの提供 
 
-各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については、次を参照してください。
+各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については次を参照してください:
 
 - [CSP で販売された Dynamics 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
@@ -64,6 +58,6 @@ CSP モデルで取引を行うパートナーは、お客様に対する信頼�
 
 - [CSP で販売された Office 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [テクニカル サポートを提供する](provide-technical-support.md)

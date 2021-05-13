@@ -1,55 +1,50 @@
 ---
-title: パートナーセンターの insights Power BI 使用状況レポート
+title: パートナー センターの分析情報Power BI使用状況レポート
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: お客様のために販売または管理している Power BI サブスクリプションの使用状況について、お客様がどのように改善できるかをご確認ください。
+description: 顧客に対して販売または管理するサブスクリプションの使用状況に関して、Power BIを改善できる場所を確認します。
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086296"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854589"
 ---
-# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能な Power BI 使用状況レポート
+# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI Insights ダッシュボードから使用できる使用状況パートナー センターレポート
 
-**適切なロール**
+**適切なロール**: グローバル管理者|管理エージェント |レポート ビューアー |エグゼクティブ レポート ビューアー
 
-- グローバル管理者
-- 管理エージェント
-- レポート ビューアー
-- エグゼクティブ レポート ビューアー
-
-Power BI 使用状況レポートには、顧客が販売または管理している Power BI サブスクリプションの使用状況データが表示されます。 Power BI の使用状況レポートでは、次のセクションを表示できます。
+[Power BI使用状況レポートには、顧客に対して販売または管理Power BIサブスクリプションの使用状況データが表示されます。 次のセクションは、使用状況レポートのPower BI表示できます。
 
 - まとめ
-- 地理別の使用状況の Power BI
-- SKU 別の使用状況の Power BI
+- Power BI別の使用状況の確認
+- Power BI SKU 別の使用状況
 - サブスクリプションのパフォーマンス
-- Power BI 使用量の分布
+- Power BI使用量の分布
 
  > [!NOTE]
- > このレポートは、Insights ダッシュボードから入手できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポートビューアー、エグゼクティブレポートビューアーなど、パートナーセンターの特定のロールが割り当てられている必要があります。 詳細については、会社のグローバル管理者に問い合わせてください。このレポートの特定の種類のデータは、役員レポートビューアーの特権を持つユーザーのみが使用できる場合もあります。
+ > このレポートは、Insights ダッシュボードから使用できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポート ビューアー、エグゼクティブ レポート ビューアーなど、パートナー センター で特定のロールを割り当てる必要があります。 詳細については、会社のグローバル管理者に関するページを参照してください。このレポートの特定の種類のデータは、エグゼクティブ レポート ビューアー特権を持つユーザーだけが使用できる場合もあります。
 
 ## <a name="summary"></a>まとめ
 
-概要セクションには、顧客が販売または管理している Power BI 使用状況サブスクリプションに関連する主要指標のスナップショットビューが表示されます。 
+概要セクションには、顧客に対して販売または管理した Power BI使用状況サブスクリプションに関連する主要なインジケーターのスナップショット ビューが表示されます。 
 
-- 使用可能なシート数: 選択した期間中に販売されたライセンスの合計数。
+- 使用可能なシート: 選択した期間に販売されたライセンスの総数。
 
-   マイクログラフは、選択した日付範囲について、使用可能な座席数の月ごとの傾向を示します。
+   [マイクロ] グラフには、選択した日付範囲の使用可能なシート数の月の過去 1 か月の傾向が表示されます。
 
-- 割り当てられた座席数: 選択した期間に割り当てられたライセンスの合計数。
+- 割り当てられたシート: 選択した期間に割り当てられたライセンスの総数。
 
-   マイクログラフは、選択した日付範囲内で、割り当てられた座席数の月ごとの傾向を示します。
+   マイクロ グラフには、選択した日付範囲内の割り当て済みシート数の月別の傾向が表示されます。
 
-- アクティブなシート数: 選択した期間中に使用されたライセンスの合計数。 
+- アクティブなシート: 選択した期間に使用されたライセンスの総数。 
 
-   このマイクログラフは、選択した期間の月間アクティブなシート数の月ごとの傾向を示しています。
+   マイクロ グラフには、選択した期間における月間アクティブシートの月次傾向が表示されます。
 
 - アクティブな使用率%: 選択した期間の使用可能な座席数に対する割合で表されたアクティブなシートの合計数。 
 
@@ -85,8 +80,8 @@ Power BI 使用分布は、使用可能な座席、アクティブなシート�
 
 :::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI 使用量の分布":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
+- その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。
 
-- このレポートを作成する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 
+- このレポートを利用する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 

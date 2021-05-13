@@ -7,19 +7,16 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702809"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854845"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>支払いアカウントと税フォームを設定する
 
-**適切なロール**
-
-- アカウント管理者
-- グローバル管理者
+**適切なロール**: Account admin |全体管理者
 
 コマーシャル マーケットプレースでオファーの販売によって収益を受け取るには、[パートナー センター](https://partner.microsoft.com/dashboard)で受取りアカウントを設定し、必要な税フォームに記入する必要があります。
 

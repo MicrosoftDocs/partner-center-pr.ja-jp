@@ -119,45 +119,40 @@
           displayName: mpn
     - name: Azure Expert MSP になる
       href: azure-expert-msp.md
-- name: クラウド ソリューション プロバイダー (CSP)
+- name: クラウド ソリューション プロバイダー プログラム (CSP)
   href: csp-overview.md
   displayName: csp
   items:
     - name: CSP プログラムに登録する
       href: enrolling-in-the-csp-program.md
       displayName: 'indirect, reseller, csp'
-    - name: Microsoft Partner Agreement - CSP
-      href: microsoft-partner-agreement.md
-      displayName: 'csp, mpn'
-    - name: 間接プロバイダーはどのようにリセラーの MPA の採用を支援できるか
-      href: mpa-indirect-provider-faq.md
-      displayName: 'csp, mpa, indirect, provider'
     - name: CSP の直接パートナーの要件
       href: direct-partner-new-requirements.md
-      displayName: 'indirect, reseller, csp'
-    - name: Microsoft 顧客契約 (地域、言語別)
-      href: agreements.md
-      displayName: 'region, MPA'
     - name: 制限付きの直接請求アクセス
       href: restricted-direct-bill-capabilities.md
-      displayName: 'indirect, reseller'
+      displayName: 'indirect, reseller, direct'
     - name: CSP 直接請求を間接リセラーに切り替える
       href: transition-direct-to-indirect.md
       displayName: csp
+- name: CSP 契約
+  href: microsoft-partner-agreement.md
+  items:
+    - name: 間接プロバイダーはどのようにリセラーの MPA の採用を支援できるか
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: CSP 契約、価格表、キャンペーン
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: 登録 ID 番号の情報
-      href: reg-number-id.md
+    - name: Microsoft 顧客契約 (地域、言語別)
+      href: agreements.md
+    - name: Microsoft 顧客契約に対する顧客の同意を確認する方法
+      href: confirm-customer-agreement.md
     - name: CSP の地域市場、通貨
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
     - name: CSP の地域承認によるテナント統合の手順
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Microsoft 顧客契約に対する顧客の同意を確認する方法
-      href: confirm-customer-agreement.md
-      displayName: 'csp, agreement'
     - name: ナショナル クラウドでの販売の申請
       href: csp-national-clouds-overview.md
       items:
@@ -207,6 +202,8 @@
         - name: パートナー プロファイルの更新
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: 登録 ID 番号の情報
+          href: reg-number-id.md
         - name: コントロール パネル ベンダーになる
           href: enroll-as-cpv.md
           displayName: csp

@@ -10,23 +10,18 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edc6469693e8dc8dcc93f9a4df66c9a232b29738
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 28fb6e9a963228f45a927089e0bb8ae3ecd452ff
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633677"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854538"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI 用のパートナーセンター分析アプリの概要と Faq (CSP の直接パートナー)
 
 
 
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- 販売代理店
-- 管理エージェント
+**適切なロール**: 全体管理者 |ユーザー管理の管理者 |Sales agent |管理エージェント
 
 Power BI 用パートナー センター分析アプリでは、ビジネス データの視覚表現を作成できます。 このアプリは、クラウド ソリューション プロバイダー プログラム (CSP) の直接パートナー向けに設計されており、使い慣れた Power BI フレームワークにプラグインとして組み込むことができます。
 
@@ -62,7 +57,7 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 [Power BI 用パートナー センター分析アプリをインストールしてプレビューする](power-bi-app-for-direct-partners-install.md)
 

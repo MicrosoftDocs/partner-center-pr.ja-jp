@@ -1,57 +1,54 @@
 ---
-title: サービス契約を計画するための資格
+title: Planning Services エンゲージメントの資格
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 企業が企業のお客様に提供したいと考えているソフトウェアアシュアランス計画サービスの各契約の資格要件について説明します。
+description: 企業がエンタープライズ顧客に提供する可能性ソフトウェア アシュアランス Planning Services エンゲージメントの各要件について説明します。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028266"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855252"
 ---
-# <a name="view-eligibility-requirements-for-planning-services-engagements"></a>サービス契約を計画するための資格の要件を表示する
+# <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Planning Services エンゲージメントの適格性要件を表示する
 
-**適切なロール**
+**適切なロール**: グローバル管理者|MPN パートナー管理者
 
-- グローバル管理者
-- MPN パートナー管理者
-
-この記事では、会社が Microsoft のソフトウェアアシュアランス計画サービスの契約を登録または提供する前に満たす必要がある資格の要件について説明します。
+この記事では、会社が Microsoft 向け Planning Services エンゲージメントを登録または提供する前に満たす必要がある適格性要件ソフトウェア アシュアランスについて説明します。
 
 >[!NOTE]
-> 計画サービスオファリングの資格要件を満たすことに加えて、ソフトウェアアシュアランス計画サービスの契約を提供する前に、他のいくつかの手順に従う必要があります。 必要なすべての手順の概要については、「 [パートナーセンターのソフトウェアアシュアランス計画サービス](software-assurance-dps.md)」を参照してください。
+> Planning Services オファリングの適格性要件を満たす以外に、Planning Services のエンゲージメントを提供する前に、他のいくつかのソフトウェア アシュアランスする必要があります。 必要なすべての手順の概要については、「ソフトウェア アシュアランス[Planning Services」を参照パートナー センター。](software-assurance-dps.md)
 
-## <a name="learn-more-about-each-engagement"></a>各エンゲージメントの詳細情報
+## <a name="learn-more-about-each-engagement"></a>各エンゲージメントの詳細を確認する
 
-各計画サービスエンゲージメントには、独自の特定の資格要件と、独自の許可された最大期間があります。
+Planning Services の各エンゲージメントには、独自の特定の適格性要件と、独自に許可される最大期間があります。
 
 これらのエンゲージメント固有のコンピテンシー要件の詳細については、次の表を参照してください。
 
-| エンゲージメントの名前 | このエンゲージメントに必要なコンピテンシー | 詳細については、このオファリングのデータシートを参照してください。 |
+| エンゲージメントの名前 | このエンゲージメントに必要なコンピテンシー | 詳細については、このオファリングのデータ シートを参照してください。 |
 |:--- |:--- |:--- |
-| Windows と Office の展開計画  | シルバーまたはゴールドの Windows とデバイス  |  [デスクトップ展開計画サービス (DDPS) の契約](https://go.microsoft.com/fwlink/?linkid=2116072)
-| モバイルの生産性展開計画  | シルバーまたはゴールドエンタープライズモビリティ管理、または Windows とデバイス  | [デスクトップ展開計画サービス (DDPS) の契約](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| 最新の IT エンタープライズセキュリティ概念実証 |  シルバーまたはゴールドエンタープライズモビリティ管理  | [デスクトップ展開計画サービス (DDPS) の契約](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Windows と Office の展開計画  | Silver または Gold の Windows とデバイス  |  [デスクトップ展開計画サービス (DDPS) のエンゲージメント](https://go.microsoft.com/fwlink/?linkid=2116072)
+| モバイル生産性の展開計画  | Silver または Gold Enterprise Mobility Management または Windows とデバイス  | [デスクトップ展開計画サービス (DDPS) のエンゲージメント](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| 最新の IT エンタープライズ セキュリティの概念実証 |  シルバーまたはゴールドエンタープライズモビリティ管理  | [デスクトップ展開計画サービス (DDPS) の契約](https://go.microsoft.com/fwlink/?linkid=2116072) |  
 | Microsoft Dynamics 365 をカスタマーエンゲージメントにアップグレードする  | シルバーまたはゴールドクラウド Business Applications またはクラウドカスタマーリレーションシップ管理  | [Dynamics のデプロイ計画サービス (DYDPS) 契約](https://go.microsoft.com/fwlink/?linkid=2116073)
 | カスタマーエンゲージメント用の Microsoft Dynamics 365 への移行  | シルバーまたはゴールドクラウド Business Applications またはクラウドカスタマーリレーションシップ管理  | [Dynamics のデプロイ計画サービス (DYDPS) 契約](https://go.microsoft.com/fwlink/?linkid=2116073)
 | Microsoft Dynamics 365 を Finance および Operations 用にアップグレードする  | ゴールドエンタープライズリソースプランニング (ERP)  | [Dynamics のデプロイ計画サービス (DYDPS) 契約](https://go.microsoft.com/fwlink/?linkid=2116073)  |
 | Windows Server プラットフォームの最新化 | シルバーデータセンター | [プライベートクラウド、管理および仮想化の計画サービス (PVDPS) の契約](https://go.microsoft.com/fwlink/?linkid=2115982) |
 | SharePoint 配置計画  | シルバーまたはゴールドコラボレーションとコンテンツ  | [SharePoint デプロイ計画サービス (SDPS) の契約](https://go.microsoft.com/fwlink/?linkid=2116074)  |
 | プロジェクトおよびポートフォリオ管理 (PPM) ソリューションの計画  | シルバーまたはゴールドプロジェクトとポートフォリオ管理 (PPM)  | [SharePoint デプロイ計画サービス (SDPS) の契約](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Exchange の展開計画  | シルバーまたはゴールドメッセージング  | [Skype for Business と Exchange の展開計画サービス (S EDPS) 契約](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-Skype for Business の展開計画  | シルバーまたはゴールド通信  | [Skype for Business と Exchange の展開計画サービス (S EDPS) 契約](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-| データ資産の近代化  | ゴールドデータ分析またはデータプラットフォーム  | [展開計画サービス (SSDPS) 契約の SQL Server](https://go.microsoft.com/fwlink/?linkid=2116076)  |
+| Exchange 展開計画  | Silver または Gold メッセージング  | [Skype for Business および Exchange Deployment Planning Services (S-EDPS) のエンゲージメント](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+Skype for Business 展開計画  | Silver または Gold Communications  | [Skype for Business および Exchange Deployment Planning Services (S-EDPS) のエンゲージメント](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| データ資産の最新化  | Gold Data Analytics またはデータ プラットフォーム  | [SQL Server Deployment Planning Services (SSDPS) のエンゲージメント](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
 ## <a name="next-steps"></a>次の手順
 
-- [ソフトウェアアシュアランス計画サービスのワークフロー](https://go.microsoft.com/fwlink/?linkid=2115983)
-- [ソフトウェアアシュアランス計画サービスに関する FAQ](https://go.microsoft.com/fwlink/?linkid=2116077)
-- [ソフトウェアアシュアランス計画サービスポリシー](https://go.microsoft.com/fwlink/?linkid=2115984)
-- [ソフトウェアアシュアランス計画サービスの廃止契約](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
+- [ソフトウェア アシュアランス Planning Services ワークフロー](https://go.microsoft.com/fwlink/?linkid=2115983)
+- [ソフトウェア アシュアランス Planning Services に関する FAQ](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [ソフトウェア アシュアランス Planning Services ポリシー](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [ソフトウェア アシュアランス Planning Services の廃止されたエンゲージメント](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

@@ -9,19 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9c85ff428fd6ffb6ced38be16f4bd163c2b0b548
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086874"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855218"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>パートナー分析情報-よく寄せられる質問
 
-**適切なロール**
-
-- レポート ビューアー
-- エグゼクティブ レポート ビューアー
+**適切なロール**: レポートビューアー |エグゼクティブレポートビューアー
 
 この記事では、洞察に関連するレポートの表示または表示に関する既知の問題について説明します。
 
@@ -41,18 +38,18 @@ Q: **顧客に報告された国が正しくないようです。なぜでしょ
 
 A) 顧客の国は、その顧客のグローバルな親組織の国から派生します。 この国は、お客様がトランザクションを所有している国とは異なる場合があります。 したがって、顧客から報告された国は、想定しているものと異なる場合があります。
 
-Q: **レポートでは、いくつかの顧客名が難読化されています。予想されることはありますか。**
+Q) **いくつかの顧客名がレポートに難読化されているのが表示されます。想定されていますか?**
 
-A) 特定のサブスクリプションでは、コンプライアンス上の理由により、顧客名が難読化されます。 ただし、お客様の TPID は使用可能であり、それを使用して顧客名を検索することができます。
+A) 顧客名は、コンプライアンス上の理由により、特定のサブスクリプションに対して難読化されます。 ただし、顧客の TPID は使用できます。顧客名を参照できます。
 
-Q: **レポートの一般的な待機時間はどのようなものですか。**
+Q) **レポートの一般的な待機時間は何ですか?**
 
-A) サブスクリプションと顧客データは毎日更新され、1週間の待機時間でデータが報告されます。 Azure の使用状況データは1週間の待機時間で報告されます。 Office365、Teams、Dynamic365、EMS、Power BI の使用状況データは、1か月の待機時間で報告されます。
+A) サブスクリプションと顧客のデータは毎日更新され、データは 1 週間の待機時間で報告されます。 Azure の使用状況データは、1 週間の待機時間で報告されます。 Office365、Teams、Dynamic365、EMS、Power BI使用状況データは、1 か月の待機時間で報告されます。
 
-Q **: レポートは Internet Explorer ではレンダリングされませんが、予期されていますか。**
+Q) **レポートが 1 つのInternet Explorer表示されません。これは想定されていますか?**
 
-A) レポートには、Internet Explorer でのレンダリングの問題があります。 Microsoft Edge やその他のブラウザーでも正常に動作します。
+A) レポートの表示に関する問題がInternet Explorer。 これらは、他のブラウザー Microsoft Edgeに使用できます。
 
 **次の手順**
 
-- [パートナーセンターの洞察](partner-center-insights.md)の詳細についてはこちらをご覧ください。
+- [パートナー センター Insights に関するページを参照してください](partner-center-insights.md)。

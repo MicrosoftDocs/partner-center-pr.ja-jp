@@ -8,21 +8,16 @@ description: お客様のお客様向けに販売または管理しているチ�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086721"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855184"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能なチームの使用状況レポート
 
-**適切なロール**
-
-- グローバル管理者
-- 管理エージェント
-- レポート ビューアー
-- エグゼクティブ レポート ビューアー
+**適切なロール**: 全体管理者 |管理エージェント |レポートビューアー |エグゼクティブレポートビューアー
 
 チームの使用状況レポートには、顧客が販売または管理しているチームワークロードに関連するメトリックが示されます。 次のセクションは、Teams の使用状況レポートで確認できます。
 
@@ -52,24 +47,24 @@ ms.locfileid: "106086721"
 
 ## <a name="conversations-trend"></a>メッセージ交換の傾向
 
-メッセージ交換の傾向レポートには、チームの会議、通話、および電話システムの月ごとの傾向と、平均ミーティング期間 (分単位) が表示されます。
+会話の傾向レポートには、Teams の会議、通話、電話システムの毎月の傾向と、平均会議時間 (分) が表示されます。
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="チームの使用状況のメッセージ交換の傾向":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="チームの使用状況の会話の傾向":::
 
 ## <a name="teams-usage-by-workloads"></a>ワークロード別のチームの使用状況
 
-ワークロード別のチームの使用状況レポートには、ワークロード別に分割されたチームのデスクトップ、モバイル、および web ユーザーの月間分割が表示されます。
+[ワークロード別の Teams の使用状況] レポートには、ワークロード別に分割された Teams のデスクトップ、モバイル、Web ユーザーの毎月の分割が表示されます。
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="ワークロード別のチームの使用状況":::
 
 ## <a name="top-customers-by-usage"></a>使用量別の上位の顧客
 
-[使用量別の上位の顧客] レポートには、チームの会議、通話、および電話システムとサードパーティ製アプリの上位の顧客の使用状況が表示されます。
+[使用状況別の上位顧客] レポートには、Teams の会議、通話、電話システム、サードパーティ製アプリの上位顧客の使用状況が表示されます。
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="使用量別の上位の顧客":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
-- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
+- その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。
 
-- このレポートを作成する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 
+- このレポートを利用する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 

@@ -4,23 +4,21 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーセンターでユーザーパスワードをリセットする方法について説明します。 ユーザーは、次回パートナーセンターにサインインするときに一時パスワードを受け取ります。
+description: ユーザー パスワードをリセットする方法については、パートナー センター。 ユーザーは、次回サインイン時に一時的なパスワードを受け取パートナー センター。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf3514d394dc49efb967632baa277df94bbfdfbd
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: b5a486b4859f33971c14767406d73a5c0dab1576
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548990"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855541"
 ---
-# <a name="reset-a-users-password-in-partner-center"></a>パートナーセンターでユーザーのパスワードをリセットする
+# <a name="reset-a-users-password-in-partner-center"></a>ユーザーのパスワードをリセットパートナー センター
 
-**適切なロール**
-
-- グローバル管理者
+**適切なロール**: グローバル管理者
 
 > [!NOTE]  
 > Microsoft Cloud ドイツのクラウド ソリューション プロバイダー (CSP) プログラムに登録している場合、ユーザー パスワードのリセットについて詳しくは、[Microsoft Cloud ドイツのパートナー センターでのユーザーの管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)に関する記事をご覧ください。
@@ -35,8 +33,8 @@ ms.locfileid: "105548990"
 
 3. ページの下部にある **[パスワードのリセット]** を選びます。
 
-4. 確認画面に一時パスワードが表示されます。 一時パスワードをコピーし、新しいユーザーに送信します。この一時パスワードには、画面から移動した後にアクセスすることはできません。 ユーザーが初めてサインインすると、パスワードを更新するように求められます。
+4. 一時的なパスワードを含む確認画面が表示されます。 一時パスワードをコピーして新しいユーザーに送信します。画面を離れた後、一時パスワードにはアクセスできません。 ユーザーが初めてサインインすると、パスワードの更新を求められます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [ユーザーの追加](create-user-accounts-and-set-permissions.md)

@@ -1,40 +1,36 @@
 ---
-title: リージョン PSTN サービスの税と料金
-description: 音声製品 Microsoft 365 行動する Office 365 パートナーとして、PSTN サービスの地域の税金、料金、または規制要件が適用される場合があります。
+title: 地域の PSTN サービスの税金と料金
+description: Microsoft 365 Voice 製品を取引する Office 365 パートナーは、PSTN サービスに関する地域の税金、料金、または規制要件の対象となる場合があります。
 ms.topic: article
 ms.date: 09/10/2020
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441491"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854725"
 ---
-# <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>地域の税、公衆電話回線ネットワーク (PTSN) サービスの規制
+# <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>地域税、公衆交換電話網 (PTSN) サービスの規制
 
-**適切なロール**
+**適切なロール**: グローバル管理者|ユーザー管理者|管理エージェント
 
-- グローバル管理者
-- ユーザー管理者
-- 管理エージェント
-
-一部の管轄区の公衆交換電話網 (PSTN) サービスには、パートナーの注文と請求に影響する可能性がある特別な税金および規制の要件が適用される場合があります。 米国には、オーディオ会議、通話プラン、および通信クレジットを含む PSTN サービスが含まれており、特別な税金と規制の要件が適用されます。 米国とプエルトリコでは、Microsoft は PSTN サービスを税金包括として価格を付けます。  独自の PSTN の税金と規制は、Microsoft 365 音声製品を操作する Office 365 パートナーに影響します。  パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。
+一部の地域の公衆交換電話網 (PSTN) サービスは、パートナーの注文や請求に影響を与える可能性がある特別な税金および規制要件の対象となる場合があります。 この米国、電話会議、通話プラン、通信クレジットを含む PSTN サービスは、特別な税金および規制要件の対象となります。 米国および米国では、Microsoft は PSTN サービスに税金を含む価格を設定しています。  一意の PSTN 税と規制は、音声製品の取引を行う Office 365 Microsoft 365影響します。  パートナーが Microsoft PSTN サービスの価格を引き上げると、PSTN に関する税金と手数料を計算し支払う義務が生じる場合があります。
 
 ## <a name="partner-recommendations"></a>パートナーの推奨事項
 
-お客様の組織の PSTN、税金、料金、およびその他の潜在的な負債に関する責任を理解するために、お客様の税金および法律顧問にご協力ください。
+PSTN サービスの規制、税金と料金、その他の潜在的な責任に関する組織の責任を理解するために、税金と法的措置を取る。
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>請求書プレゼンテーションとパートナー調整ファイル
 
-米国、プエルトリコ、およびカナダの CSP 請求書と CSP 調整ファイル (Skype for Business PSTN と Microsoft 365 Voice services を含む) では、PSTN および PSTN 以外のコンポーネントに個別の行項目を提供します。
+skype for Business PSTN および Microsoft 365 Voice サービスを含む 米国、メキシコ、カナダの CSP 請求書と CSP 調整ファイルは、PSTN コンポーネントと PSTN 以外のコンポーネントに個別の品目を提供します。
 
-さらに、CSP の請求書には次の脚注が表示されます。
+さらに、CSP の請求書には、次の脚注が表示されます。
 
-* 表示される料金は、オーディオ会議およびプランサービスの呼び出しに対して課金されます。  適用可能なトランザクションの税金については、米国内で行われた売上を除いて、示されている量だけが請求されます。  米国では、表示される料金は、通話プランとオーディオ会議サービスの料金が含まれているため、税金と料金が請求されます。  オーディオ会議と通話プランサービスは、Microsoft 関連によって提供されることが認められています。  詳細については、[Microsoft ボリューム ライセンス](https://go.microsoft.com/fwlink/?LinkId=690247)をご覧ください。
+* 表示される価格は、電話会議および通話プラン サービスの料金です。  該当するトランザクション税は、表示される金額に対して課金されます。ただし、該当するトランザクション税は、米国。  米国では、表示される価格は、通話プランとオーディオ会議サービスの料金と、課金に必要な税金と料金が含まれるので、税金が含まれます。  オーディオ会議および通話プラン サービスは、それらを提供する権限を持つ Microsoft の系列会社によって提供されます。  詳細については、[Microsoft ボリューム ライセンス](https://go.microsoft.com/fwlink/?LinkId=690247)をご覧ください。
 
 ## <a name="reconciliation-file-example"></a>調整ファイルの例
 
@@ -49,8 +45,8 @@ Office 365 Enterprise E5 は、調整ファイルに同一の名前と同じ Id 
 
 **パートナーの調整の例 #2**
 
-カナダで利用可能な Microsoft 365 Business 音声には、CSP 請求書に統合されている追加の PSTN 非課税コンポーネントがあります (Office 365 E5 と同様、2つの行項目が表示されます。1つは PSTN コンポーネント用、もう1つは pstn 以外のコンポーネント用) です。  Microsoft 365 Business 音声の CSP 調整ファイルには、すべての PSTN の非課税コンポーネントが個別に表示されます (個々の PSTN コンポーネントはに統合されません)。CSV または API ツール)。  調整ファイルで見つかった顧客の注文明細と請求金額の合計が CSP 請求書と一致します。
+カナダで利用可能な Microsoft 365 Business 音声には、CSP 請求書に統合されている追加の PSTN 非課税コンポーネントがあります (Office 365 E5 と同様、2つの行項目が表示されます。1つは PSTN コンポーネント用、もう1つは pstn 以外のコンポーネント用) です。  Microsoft 365 Business 音声の CSP 調整ファイルには、すべての PSTN の非課税コンポーネントが個別に表示されます (個々の PSTN コンポーネントはに統合されません)。CSV または API ツール)。  調整ファイルで見つかった顧客の注文の詳細と請求金額の合計は、CSP 請求書と一致します。
 
-## <a name="additional-resources"></a>その他のリソース
-詳細については、 [パートナーサイトの Microsoft 365](https://www.microsoft.com/microsoft-365/partners/) を参照してください。
+## <a name="additional-resources"></a>その他の情報
+詳細については、パートナー向けMicrosoft 365 [サイトを参照](https://www.microsoft.com/microsoft-365/partners/) してください。
 

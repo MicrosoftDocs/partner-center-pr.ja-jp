@@ -4,41 +4,37 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft サービスまたはパートナーセンターで問題が発生した場合は、Microsoft にエスカレーションしてヘルプを表示し、問題が解決されるまで追跡することができます。
+description: Microsoft サービスまたは パートナー センター で問題が発生した場合は、Microsoft にエスカレートして支援を受け、解決するまで問題を追跡できます。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284147"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854776"
 ---
 # <a name="support-from-microsoft"></a>Microsoft によるサポート
 
-**適用対象**
+**適用対象**: パートナー センター |パートナー センターのMicrosoft Cloud for US Government
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+**適切なロール**: ヘルプデスク エージェント
 
-**適切なロール**
+Microsoft サービスまたは パートナー センター で問題が発生した場合は、Microsoft に問題を報告し、問題を Microsoft にエスカレートして支援を受け、解決されるまで問題を追跡することができます。
 
-- ヘルプデスク エージェント
+[パートナー センターサポート](report-problems-with-partner-center.md) - サポートを受け取り、すべてのプログラムのチケットパートナー センターします。
 
-Microsoft サービスまたはパートナーセンターで問題が発生した場合は、Microsoft に問題を報告し、問題をマイクロソフトに報告してヘルプを表示し、問題が解決されるまで追跡することができます。
+[顧客の代わりにサポートする](report-problems-on-behalf-of-a-customer.md) - 顧客に関するヘルプを取得し、問題を報告します。
 
-[パートナーセンターのサポート](report-problems-with-partner-center.md) -すべてのパートナーセンタープログラムのヘルプを取得し、チケットを作成します。
+[サービスの正常性の確認](check-service-health.md) - サービスの正常性に関する既知のサービスの停止が現在発生パートナー センター。
 
-[お客](report-problems-on-behalf-of-a-customer.md) 様に代わってサポート: お客様の支援を受け、問題を報告します。
+[API を使用して自動サービス通知](get-automated-service-notifications-with-our-apis.md) を取得する - クラウド ソリューション プロバイダーは、顧客のサービスに対する自動サービス通知を取得できます。
 
-[サービスの正常性を確認](check-service-health.md) する-パートナーセンターで現在認識されているサービス停止があるかどうかを確認します。
+## <a name="next-steps"></a>次の手順
 
-[Api を使用して自動化されたサービス通知を取得](get-automated-service-notifications-with-our-apis.md) する-クラウドソリューションプロバイダーは、お客様のサービスに対して自動サービス通知を取得できます。
-
-## <a name="next-steps"></a>次のステップ
-
-- [その他のサポートリソースを表示する](https://partner.microsoft.com/support/?stage=1)
+- [その他のサポート リソースを表示する](https://partner.microsoft.com/support/?stage=1)
 - [パートナーを見つける](find-a-partner.md)
-- [MPN プログラムについて学習または登録する](https://partner.microsoft.com/membership)
-- [CSP プログラムについて学習するか、登録する](https://partner.microsoft.com/membership/cloud-solution-provider)
+- [MPN プログラムについて学習するか、MPN プログラムに登録する](https://partner.microsoft.com/membership)
+- [CSP プログラムについて学習するか、CSP プログラムに登録する](https://partner.microsoft.com/membership/cloud-solution-provider)

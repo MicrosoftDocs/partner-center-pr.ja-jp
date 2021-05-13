@@ -4,28 +4,23 @@ ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顧客レコードは、最も重要な情報資産の中にあります。 パートナーセンターの顧客リストに関する情報を表示、検索、更新、& エクスポートする方法について説明します。
+description: 顧客レコードは、最も重要な情報資産の 1 つです。 顧客リストに関する情報を表示、検索、更新&エクスポートするパートナー センター学習します。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1791d415d0004520e8c7dc950decf540c91cf003
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 6e73aa98e0cfaf82521a5fe63e34ebf0b44363fb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002843"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854504"
 ---
-# <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>顧客リストを管理する-パートナーセンターで顧客の検索、更新、エクスポートを行う
+# <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>顧客一覧の管理 - 顧客を検索、更新、またはエクスポートパートナー センター
 
-**適用対象**
+**適用対象**: パートナー センター |パートナー センターのMicrosoft Cloud for US Government
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
-
-**適切なロール**
-
-- 管理エージェント
-- グローバル管理者
+**適切なロール**: 管理エージェント |グローバル管理者
 
 顧客の記録は、パートナー センターでの最も重要な情報資産の 1 つです。 顧客アカウントのデータベースを検索したり、顧客データベース全体またはサブセットを Excel 互換のコンマ区切り値ファイル形式 (.csv) でエクスポートしたりすることができます。 また、顧客のサブスクリプション情報を .csv ファイルにエクスポートすることもできます。
 
@@ -51,9 +46,9 @@ ms.locfileid: "108002843"
 
    パートナー センターによって、顧客一覧全体が .csv ファイルに変換され、そのファイルがお使いのコンピューターにある既定のダウンロード フォルダーにアップロードされます。 顧客データのサブセットをエクスポートすることもできます。 データ列には、次の情報が含まれます。
 
-   - **MICROSOFT ID**;
+   - **Microsoft ID**;
    - **会社名**;
-   - **プライマリドメイン名**。
+   - **プライマリ ドメイン名**;
    - **関係** - 一覧に示されている各顧客とパートナーとの取引関係。
 
     既定では、パートナー センターによって、長さに関係なく顧客一覧全体がエクスポートされます。 会社名やドメインで顧客一覧を検索し、データのサブセットをエクスポートすることもできます。
@@ -68,7 +63,7 @@ ms.locfileid: "108002843"
 2. 顧客の **[会社名]** を選びます。 顧客の **[サブスクリプション]** ページが開き、製品サブスクリプションの完全な一覧が表示されます。
 
 3. **[サブスクリプションのエクスポート]** を選びます。 パートナー センターによって、顧客のサブスクリプション データが .csv ファイルに変換され、お使いのコンピューター上の既定のダウンロード フォルダーにアップロードされます。 データ列には、次の情報が含まれます。
-   - **サブスクリプション ID**。
+   - **サブスクリプション ID**;
    - **サブスクリプション** - サブスクリプションの製品名
    - **数量** - 購入済みのライセンスの数
    - **状態**;

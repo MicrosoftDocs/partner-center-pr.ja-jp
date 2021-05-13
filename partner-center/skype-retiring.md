@@ -9,18 +9,16 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: f395987ef647fa6f7ed264c6476ddae419eabc34
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 0e8289ad06dbc8a95f5cff22ca386176d6ba65ab
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002860"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854827"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行
 
-**適切なロール**
-
-- 販売代理店
+**適切なロール**: Sales agent
 
 Skype for Business Online プラン1は、2018年8月1日をもって廃止される予定です。 この日付以降、新たに Skype for Business プラン 1 のサブスクリプションを購入することはできません。既存のサブスクリプションは、有効期限になると自動更新されず、更新のオプションは提供されません。 サブスクリプションの詳細ページでは、Skype for Business Online プラン 1 のサブスクリプションの状態が、"自動更新: [日付]" から "有効期限: [date]" に変更されています。  
 
@@ -41,10 +39,10 @@ API (CREST またはパートナー センターのいずれか) を使用して
 
 |**機能**    |**方法 1**   |**方法 2**   |**オプション3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Skype for Business Online プラン 1 に含まれるすべての機能の利用|はい   |はい   |はい   |
-|IM とプレゼンス |はい   |はい   |はい   |
-|IP を経由したピアツーピア オーディオとビデオ|はい   |はい   |はい   
-|認証ユーザーとして会議に参加| はい   |はい   |はい   |
+|Skype for Business Online プラン 1 に含まれるすべての機能の利用|Yes   |Yes   |Yes   |
+|IM とプレゼンス |Yes   |Yes   |Yes   |
+|IP を経由したピアツーピア オーディオとビデオ|Yes   |Yes   |Yes   
+|認証ユーザーとして会議に参加| Yes   |Yes   |Yes   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>顧客を新しい製品プランに移行する
 
@@ -80,7 +78,7 @@ API (CREST またはパートナー センターのいずれか) を使用して
 
 以前のサブスクリプションが中断され、新しいサブスクリプションがアクティブになります。 中断されたサブスクリプションは、120 日後に自動的にプロビジョニングが解除されます。 お客様には、以前のサブスクリプションの追加コストは発生しません。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [アドバイザー: クライアントが Office 365 を試すための試用版への招待を作成して送信する](advisors-create-a-trial-invitation.md)
 - [アドバイザー: Office 365 試用版への招待と購入プランを使用して、クライアントベースを構築する](advisors-build-your-business.md)
