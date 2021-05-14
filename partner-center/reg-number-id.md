@@ -9,18 +9,16 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d84f67edd38b9e8f665a18699fb1f03c9888549d
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712500"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855830"
 ---
 # <a name="registration-id-number-information"></a>登録 ID 番号の情報
 
-**適切なロール**
-
-- グローバル管理者
+**適切なロール**: グローバル管理者
  
 間接プロバイダー、直接請求パートナー、または間接リセラーであり、次の国で新規または既存の顧客とビジネスを行う場合は、ビジネス用の登録 ID 番号を準備する必要があります。 登録 ID は、Microsoft がアカウントの詳細を確認するために使用されます。 ビジネスを行っている国が下に記載されていない場合、登録 ID はオプションです。
 
@@ -28,10 +26,10 @@ ms.locfileid: "109712500"
 
 | **国または地域** | **詳細** |
 |:--|:--|
-| **アルメニア** | INN - 納税者番号<br>VAT 番号 - VAT 登録番号とも呼ばれます。 これは、VAT 用に登録されている課税対象者 (事業所) または非課税法人を識別する一意の番号です。<br>公共サービス番号 |
+| **アルメニア** | INN - 納税者番号<br>VAT 番号 - VAT 登録番号とも呼ばれます。 この値は、VAT 用に登録されている課税対象者 (事業所) または非課税法人を識別する一意の番号です。<br>公共サービス番号 |
 | **アゼルバイジャン**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – 納税者番号<br>INN - 納税者番号 |
-| **ベラルーシ**  | UNP – これは 9 桁の数字 (組織の場合は数値、個人の場合は英数字) であり、地域識別子、地域別のシリアル番号、およびチェック ディジットを含みます。 |
-|**ブラジル** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurídica、すなわち National Registry of Legal Entities)。 これは、ブラジル国税局によってブラジルの企業に対して発行される識別番号です  |
+| **ベラルーシ**  | UNP – この値は 9 桁の数字 (組織の場合は数値、個人の場合は英数字) であり、地域識別子、地域別のシリアル番号、およびチェック ディジットを含みます。 |
+|**ブラジル** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurídica、すなわち National Registry of Legal Entities)。 この値は、ブラジル国税局によってブラジルの企業に対して発行される識別番号です  |
 | **中国** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – 納税者番号 |
 | **ハンガリー**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – 納税者番号 |
 | **インド** | 税金 ID<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Presence Across Nation) PAN India Involvement は、インドの複数の場所で運営されている組織が 1 つあることを意味します。 |
@@ -45,11 +43,11 @@ ms.locfileid: "109712500"
 | **サウジアラビア** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – 納税者番号 |
 | **南アフリカ** | TRN – 取引登録番号 |
 | **南スーダン** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – 納税者番号 |
-| **タジキスタン**  | INN - 納税者番号<br>EIN - 雇用主 ID<br>KPP - これは、組織の登録の理由を表すコードです。 |
+| **タジキスタン**  | INN - 納税者番号<br>EIN - 雇用主 ID<br>KPP – この値は、組織の登録の理由を表すコードです。 |
 | **タイ** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – 納税者番号 |
 | **トルコ** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – 納税者番号<br>NIN |
 | **ウクライナ**  | EGRPOU<br>EDRPOU – ローカル ID |
-| **アラブ首長国連邦** | 税金 ID<br>[VAT 番号](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) - VAT 登録番号とも呼ばれます。 これは、VAT 用に登録されている課税対象者 (事業所) または非課税法人を識別する一意の番号です。 |
+| **アラブ首長国連邦** | 税金 ID<br>[VAT 番号](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) - VAT 登録番号とも呼ばれます。 この値は、VAT 用に登録されている課税対象者 (事業所) または非課税法人を識別する一意の番号です。 |
 | **米国** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – 雇用主 ID |
 | **ウズベキスタン**  | INN - 納税者番号 |
 | **ベトナム** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – 納税者番号 |
