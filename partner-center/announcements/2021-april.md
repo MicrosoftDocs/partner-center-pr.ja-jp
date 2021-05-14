@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328051"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702826"
 ---
 # <a name="april-2021-announcements"></a>2021 年 4 月のお知らせ
 
@@ -308,11 +308,12 @@ CSP 直接請求パートナーおよび間接プロバイダー
 詳細については、[サポート](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)にお問い合わせください。
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>リマインダー: 2021 年 5 月 4 日に GET 資格が非推奨化
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>最後のリマインダー: 2021 年 5 月 6 日に GET 認定が非推奨化
 
 ### <a name="categories"></a>Categories
 
-- 日付: 2021 年 4 月 9 日
+- 日付: 2021 年 5 月 4 日
+
 - 機能
 
 ### <a name="impacted-audience"></a>対象
@@ -321,13 +322,13 @@ ________________
 
 ### <a name="details"></a>詳細
 
-この発表は、[12 月にリリースされたパートナー センター の機能強化](https://docs.microsoft.com/partner-center/announcements/2020-december#1)に関する補足です。 そのリリースの一部として、新しい GET および POST 認定 API が展開されます。その結果、既存の GET 認定は 2021 年 5 月 4 日までに廃止される予定です。 その時点で、教育機関向けプランの購入で新しい POST パートナー センター API を使用するように、また事前認定済みの非営利団体および GCC 向けプランを購入するために新しい GET 認定を使用するように、移行済みである必要があります。
+この発表は、[12 月にリリースされたパートナー センター の機能強化](https://docs.microsoft.com/partner-center/announcements/2020-december#1)に関する補足です。 そのリリースの一部として、新しい GET および POST 認定 API が展開されました。その結果、**既存の GET 認定は 2021 年 5 月 6 日に廃止される予定です**。 その時点までに、新しい POST パートナー センター API を使用するように移行しておく必要があります。 新しい POST API を使用すると、教育機関向けプランを購入できます。一方、新しい GET API を使用すると、事前に資格要件が確認された非営利および GCC 向けプランを購入できます。
 
 ### <a name="next-steps"></a>次のステップ
 
-- 適切かつタイムリーに移行できるよう、新しい API に更新してください。
+- 適切かつタイムリーに移行できるよう、**新しい API に更新** してください。
 
-- 次のオペレーション レディネス リソースで、新しいパートナー センター API に関する変更点とガイドを確認してください: [パートナー センターの教育機関顧客検証プロセスの機能強化](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- オペレーション レディネス リソースで、**新しいパートナー センター API に関する変更点とガイド** を確認してください: [パートナー センターの教育機関顧客検証プロセスの機能強化](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)。
 
 - この情報を組織内の該当するチームと、およびリセラーと共有し、彼らがこれらの変更内容に対して準備できるようにしてください。
 
@@ -337,8 +338,12 @@ ________________
 
 ### <a name="change-log"></a>ログの変更
 
-- 4 月: GET 認定の予定されている非推奨に関するご案内 
+- 2021 年 5 月 4 日: GET 認定の予定されている非推奨に関する最後のご案内
+
+- 2021 年 4 月 9 日: GET 認定の予定されている非推奨に関するご案内 
+
 - 2 月: GET と PUT の認定の非推奨に関するタイムラインを更新しました
+
 - 1 月: GET と PUT の認定の予定されている非推奨に関するご案内
 
 ________________

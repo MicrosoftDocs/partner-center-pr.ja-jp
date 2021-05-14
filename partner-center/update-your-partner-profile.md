@@ -9,19 +9,16 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315875"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818611"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>会社のプロファイルの情報を確認または更新する 
 
-**適切なロール**
-
-- グローバル管理者
-- MPN アカウント管理者
+**適切なロール**: グローバル管理者 | MPN アカウント管理者
 
 グローバル管理者として初めてパートナー センターにサインインするときは、ご自身の会社の詳細情報がすべて正しいことを確認する必要があります。 これには、主要連絡先、会社の正式名称と住所、プログラム情報などがあります。 会社が複数の場所に存在する場合は、場所のデータが正しいことを確認します。 全体管理者、課金管理者、または管理エージェントとして、自分の請求および税金情報を表示し、更新することもできます。
 
