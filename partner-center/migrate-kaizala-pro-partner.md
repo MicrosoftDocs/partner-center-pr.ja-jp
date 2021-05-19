@@ -8,18 +8,16 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 583e9c40bb8d161c30440f12331dc8dcbf3db417
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172406"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146427"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Kaizala Pro スタンドアロンサブスクリプションを Microsoft 365 または Office 365 バージョンに移行する
 
-**適切なロール**
-
-- 販売代理店
+**適切なロール**: Sales agent
 
 2020年7月1日より、Microsoft は Kaizala Pro スタンドアロンサービスの売上を終了します。 お客様は、この日より後に新しい Kaizala Pro サブスクリプションを購入することはできなくなります。また、既存の Kaizala Pro サブスクリプションは、有効期限が切れると自動的に更新されません。
 
@@ -78,7 +76,7 @@ C. 以前のサブスクリプションを取り消す
 
 2. ユーザーライセンスを再割り当てするには、再割り当てするユーザーを選択し、[ **ライセンスの管理**] を選択します。
 
-3. [ **ライセンスの管理** ] ページで、[Kaizala Pro スタンドアロンライセンス] チェックボックスをオフにし、顧客の移動先のサブスクリプションの新しいサービスプランを選択します。
+3. [ライセンス **の管理] ページ** で、[Kaizala Pro スタンドアロン ライセンス] チェック ボックスをオフにし、顧客が移動するサブスクリプションの新しいサービス プランを選択します。
 
 4.  **[Submit]\(送信\)** をクリックします。 確認ページに新しいライセンスの割り当てが一覧表示されます。 ライセンスの割り当てが必要な他のユーザーにも同じプロセスを続行します。
 

@@ -9,24 +9,18 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284300"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147192"
 ---
 # <a name="view-digitally-signed-invoices"></a>デジタル署名された請求書の表示
 
-**適用対象**
+**適用対象**: パートナーセンター |インドのパートナーセンター
 
-- インドのパートナーセンター
-
-**適切なロール**
-
-- アカウント管理者
-- 課金エージェント
-- 販売代理店
+**適切なロール**: Account admin |課金エージェント |営業担当者
 
 インドのパートナーは、Microsoft がデジタル署名した請求書を持っていることがわかりました。 署名を表示するには、Adobe Acrobat Reader ドキュメントクラウド (DC) を使用する必要があります。
 
@@ -54,7 +48,7 @@ ms.locfileid: "108284300"
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>請求書とデジタル署名に関する追加情報
 
-パートナーセンターで注文を作成したユーザーにデジタルコピーが送信されます。 2020年7月17日より前に発行された請求書に対して、デジタル署名付きの請求書を取得することはできません。 また、手動で署名した請求書は使用できません。
+デジタル コピーは、注文を作成したユーザーにパートナー センター。 2020 年 7 月 17 日より前に発行された請求書に対してデジタル署名された請求書を取得できない。 また、手動で署名された請求書は使用できません。
 
 ## <a name="next-steps"></a>次のステップ
 

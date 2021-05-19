@@ -1,57 +1,54 @@
 ---
-title: MPN の利点-ソフトウェア
+title: MPN の利点 - ソフトウェア
 ms.topic: article
 ms.date: 03/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft Partner Network (MPN) の特典として提供されるオンプレミスのソフトウェア製品について説明します
+description: クラウド (MPN) 特典として提供されるオンプレミスMicrosoft Partner Networkについて学習する
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 846bad6bdde080288bc7dd916e389dd86b5315f0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619377"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146291"
 ---
-# <a name="mpn-benefits---software"></a>MPN の利点-ソフトウェア
+# <a name="mpn-benefits---software"></a>MPN 特典 - ソフトウェア
 
-**適切なロール**
-
-- グローバル管理者
-- MPN パートナー管理者
+**適切なロール**: グローバル管理者|MPN パートナー管理者
 
 ## <a name="overview"></a>概要
 
-この記事では、パートナーセンター内からパートナーが利用できるオンプレミスソフトウェアの特典について説明します。 アクティブな登録プランの一部として利用できるすべてのソフトウェア製品を表示するには、  [MPN](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) にアクセスして、パートナーセンターのメニューの [ソフトウェア] タブを選択します>。  
+この記事では、クラウド内からパートナーが利用できるオンプレミス のソフトウェア特典についてパートナー センター。 アクティブな登録オファーの一部として権利を持つすべてのソフトウェア製品を表示するには  [、MPN>特典](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) に移動し、パートナー センター メニューの [ソフトウェア] タブを選択します。  
 
-## <a name="manage-software-products-and-product-keys"></a>ソフトウェア製品とプロダクトキーを管理する
+## <a name="manage-software-products-and-product-keys"></a>ソフトウェア製品とプロダクト キーの管理
 
-目的のソフトウェア製品を選択し、製品名の行にあるドロップダウンシンボルをクリックして、各製品の特定の手順を見つけます。
+目的のソフトウェア製品を選択し、製品名と一緒にドロップダウン シンボルをクリックして、各製品の具体的な手順を見つける。
 
-製品にインストールのためのプロダクトキーが必要な場合は、インストールプロセス中にプロダクトキーを入力するように求められます。 パートナーセンターの同じウィンドウから、ダウンロードするソフトウェアのバージョンを選択して取得できます。
+製品のインストールにプロダクト キーが必要な場合は、インストール プロセス中にプロダクト キーを入力するように求めるメッセージが表示されます。 ダウンロードするソフトウェアのバージョンをパートナー センター同じウィンドウから取得できます。
 
-製品のライセンス認証は、 **Windows Server** とクライアントの **オペレーティングシステム** および **すべての Microsoft Office クライアントアプリケーション** に必要です。 製品のライセンス認証を必要としない製品があります。
+製品のアクティブ化は **、Windows Server および** クライアント オペレーティング **システムと、** すべてのクライアント **Microsoft Office必要です**。 すべての製品で製品のアクティブ化が必要な場合ではありません。
 
-:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="MPN でソフトウェア製品の特典をご利用いただけます。" border="false":::
+:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="MPN で利用できるソフトウェア製品の特典。" border="false":::
 
-## <a name="how-activations-are-counted"></a>ライセンス認証のカウント方法
+## <a name="how-activations-are-counted"></a>アクティブ化のカウント方法
 
-プロダクトキーに対してカウントされるライセンス認証の数は、次のシナリオに基づいています。
+プロダクト キーに対してカウントされるアクティブ化の数は、次のシナリオに基づいて行います
 
-- ソフトウェアが新しいコンピューターにインストールされている場合は、キーに対する製品ライセンス認証数が1つ増えます。
+- ソフトウェアが新しいコンピューターにインストールされている場合、キーに対する製品のアクティブ化数は 1 ずつインクリメントされます。
  
-- ソフトウェアがハードウェアに大きな変更を加えずに同じコンピューターにインストールされている場合、製品のライセンス認証はプロダクトキーに対してカウントされません。
+- ソフトウェアが同じコンピューターにインストールされ、ハードウェアの大幅な変更がない場合、製品のアクティブ化はプロダクト キーに対してカウントされません。
 
-- ソフトウェアがハードウェアに大きな変更を加えて同じコンピューターにインストールされている場合、製品のライセンス認証はプロダクトキーに対してカウントされます。
+- ハードウェアが大幅に変更された同じコンピューターにソフトウェアがインストールされている場合、製品のアクティブ化はプロダクト キーに対してカウントされます。
 
 ## <a name="troubleshooting-scenarios"></a>トラブルシューティングのシナリオ
 
-- **Cal (Windows Server クライアントアクセスライセンス) の特典について、「詳細情報がありません」というメッセージが表示される**
+- **CALs (Windows Server クライアント アクセス ライセンス) の特典に関する "詳細は利用できません" というメッセージが表示される**
 
-    Cal は、ダウンロード可能な製品ではありません。 Cal のアクティブ化は、サーバー製品自体で管理されます。
+    DLL はダウンロード可能な製品ではありません。 Cal のアクティブ化は、サーバー製品自体で管理されます。
 
 - **ソフトウェアをアクティブ化しようとすると、プロダクトキーの使用可能な最大ライセンス認証に達したことを示すメッセージが表示されます。**
 

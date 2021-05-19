@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 28a3b40eb3a3e037cbeb434c57a93b9a0a94e691
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979656"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148093"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>商用マーケットプレースでビジネスを行う CSP パートナー向けのコントラクト
 
 
-**適切なロール**
-
-- グローバル管理者
-- 管理エージェント
+**適切なロール**: 全体管理者 |管理エージェント
 
 この記事では、パートナーセンターのコマーシャルマーケットプレースまたは Azure portal から、お客様の ISV marketplace のプランまたは製品を購入することを選択した CSP プログラムのパートナー向けのコントラクトについて説明します。
 
@@ -39,12 +36,12 @@ ms.locfileid: "97979656"
 
 - [CSP プログラムガイド](https://go.microsoft.com/fwlink/p/?LinkId=617100)の「サードパーティが提供するもの」と **いうタイトルのセクション**。 これにより、CSP プログラムのパートナーによる ISV ソリューションの販売を管理する用語が提供されます。
 
-- **Microsoft Partner Agreement (MPA)** は CSP プログラムを管理し、既存の MCRA と MCDA を置き換えます。 MPA は [パートナーセンター](https://partner.microsoft.com/pcv/dashboard/overview) で利用できます。これにより、CSP プログラムに参加することを選択したパートナーは、それを確認して同意できます。
+- **Microsoft Partner Agreement (MPA)** は CSP プログラムを管理し、既存の MCRA と MCDA を置き換えます。 CSP プログラムに参加パートナー センター[](https://partner.microsoft.com/pcv/dashboard/overview)パートナーが確認して受け入れできるよう、MPA はクラウド で利用できます。
   
-Microsoft は、取引先との間でのサービスの提供に関する法的責任を負いません。また、提携パートナーがコマースプラットフォームを通じて法的条項を確立するためのメカニズムを提供することもありません。 トランザクションを実行するパートナーが追加の法律条項を必要とする場合は、アグリーメントを直接実行する必要があります。
+Microsoft は、取引当事者間でサービスを提供する法的責任を負いません。また、取引パートナーがコマース プラットフォームを通じて法的条項を確立するためのメカニズムを提供しません。 取引パートナーが追加の法律条項を必要とする場合は、契約を直接実行する必要があります。
 
 ## <a name="next-steps"></a>次のステップ
 
 - [商用マーケットプレース製品のサポート](csp-commercial-marketplace-support.md)
 
-- [CSP コマーシャルマーケットプレースアクティビティの概要](csp-commercial-marketplace-overview.md)
+- [CSP コマーシャル マーケットプレースアクティビティの概要](csp-commercial-marketplace-overview.md)

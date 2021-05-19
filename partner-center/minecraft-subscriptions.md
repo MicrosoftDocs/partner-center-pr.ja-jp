@@ -8,21 +8,16 @@ description: Minecraft 教育エディションのサブスクリプションを
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 06cb4d1d23d20a0d5f6f7031608a5369fdc1b89d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133014"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146393"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>教育機関のお客様に Minecraft: Education Edition サブスクリプションを販売する
 
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- 販売代理店
-- 管理エージェント
+**適切なロール**: 全体管理者 |ユーザー管理の管理者 |Sales agent |管理エージェント
 
 教育機関向けのパートナーは、**Minecraft: Education Edition** サブスクリプションを教育機関に販売できます。 パートナーがパートナー センターで顧客の代理としてサブスクリプションを購入した後、顧客は[教育機関向け Microsoft Store](https://educationstore.microsoft.com)からソフトウェアをダウンロードします。 
 

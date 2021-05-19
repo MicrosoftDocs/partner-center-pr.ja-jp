@@ -1,6 +1,6 @@
 ---
 title: 協力申請の管理
-description: 期限、通貨の問題、拒否された共同操作要求を争議する方法など、共同作業要求プロセスについて理解します。
+description: 期限、通貨の問題、拒否された共同請求に対する争い方法など、共同請求プロセスについて理解します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,38 +8,36 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 952a6b327dd31b1155efe3c08bb52f9b300b0a93
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179158"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146767"
 ---
-# <a name="manage-incentives-co-op-claims"></a>インセンティブ共同要求の管理
+# <a name="manage-incentives-co-op-claims"></a>インセンティブの共同要求を管理する
 
-**適切なロール**
+**適切なロール**: インセンティブ管理者
 
-- インセンティブ管理者
-
-次のコンテンツでは、タイムライン、ルール、拒否された共同操作要求を争議する方法など、共同の要求を管理するための情報を提供します。
+次のコンテンツでは、タイムライン、ルール、拒否されたコープ要求に対する争い方法など、共同請求を管理するための情報を提供します。
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>協力申請の承認と支払期限
 
-### <a name="when-will-my-co-op-claim-be-approved"></a>共同操作要求はいつ承認されますか?
+### <a name="when-will-my-co-op-claim-be-approved"></a>共同請求が承認されるのは、いつですか?
 
-共同操作の要求は、送信後2営業日以内にレビューされます。 有効と見なされると、承認済みの状態に設定されます。  
+共同申請は、提出後 2 営業日以内に確認されます。 有効と見なされると、承認済みの状態に設定されます。  
 
-共同操作要求に対して考えられるさまざまな状態を次に示します。
+以下に、生協の要求に対して考えられるさまざまな状態を示します。
 
 - 送信
 - レビュー中
-  - Microsoft は、送信される要求の2営業日以内にレビューを完了します。 状態が2日以上経過している場合は、 [サポート](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)にお問い合わせください。
+  - Microsoft は、申請が送信された 2 営業日以内にレビューを完了します。 状態が 2 日以上レビュー中の場合は、サポート にお問い [合わせください](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 - 必要な操作
 - 編集中
 - Approved
 - 拒否
 
-## <a name="co-op-claim-payments"></a>Co-op 請求支払い
+## <a name="co-op-claim-payments"></a>共同請求の支払い
 
 ### <a name="when-will-i-get-the-payment-for-the-approved-co-op-claim"></a>承認された協力申請に対して支払いが行われるのはいつですか?
 
@@ -53,17 +51,17 @@ ms.locfileid: "106179158"
 
 すべてのインセンティブ プログラムに、セットアップ中に作成された銀行プロファイルがあります。 そのプロファイルで指定された通貨は、支払いが行われる通貨です。
 
-## <a name="rejected-co-op-claims"></a>拒否された co-op 要求
+## <a name="rejected-co-op-claims"></a>拒否された共同要求
 
-協力申請で提供した資料が不十分であると判断された場合、その申請は拒否されます。 拒否の理由は、協力申請ページの **[履歴]** フィールドで確認できます。 拒否を行うには、次の手順を使用します。
+協力申請で提供した資料が不十分であると判断された場合、その申請は拒否されます。 拒否の理由は、協力申請ページの **[履歴]** フィールドで確認できます。 拒否に関する問題を解決するには、次の手順に従います。
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>協力申請の拒否に異議を唱える
 
 1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 
-2. [ **インセンティブ**] で、[ **共同管理**] を選択します。
+2. [ **インセンティブ] で**、[ **共同管理] を選択します**。
 
-3. 異議を唱える協力申請を選択します。 [共同操作要求] ページが開きます。
+3. 異議を唱える協力申請を選択します。 [共同要求] ページが開きます。
 
 4. ページ下部にある **[Dispute]\(異議を唱える\)** を選択します。
 

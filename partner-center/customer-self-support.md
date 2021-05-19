@@ -4,29 +4,25 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: お客様が自分のアカウントを管理し、クラウドソリューションプロバイダーパートナーに連絡する必要があるタイミングと場所について説明します。
+description: 顧客が自分のアカウントを管理するためにセルフサポートを実行できる場合と場所、および顧客が自分のパートナーに連絡する必要があるクラウド ソリューション プロバイダーします。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 89d7cf65d34911cc4098206dbc70d72cd2998e7f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284181"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147464"
 ---
-# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Microsoft Office 365 管理センターまたは Azure portal を使用したカスタマーのセルフサポート
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Microsoft Office 365 管理センターまたは Azure portal
 
-**適用対象**
+**適用対象**: パートナー センター |パートナー センターのMicrosoft Cloud for US Government
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+**適切なロール**: ヘルプデスク エージェント
 
-**適切なロール**
-
-- ヘルプデスク エージェント
-
-お客様は、独自の Microsoft Office 365 管理センターまたは Azure portal にサインインして、自分のアカウントを管理できます。
+お客様は、365 管理センター Microsoft Office自分のアカウントを管理するために、Azure portalにサインインできます。
 
 - メッセージ センターで、サービスの正常性に関する情報など、製品内の通信や通知を表示する。
 

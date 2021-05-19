@@ -4,28 +4,24 @@ titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 米国政府向け Microsoft Cloud 向けに Cloud Solution Provider プログラムに登録する必要があるパートナー向けの CSP プログラムの要件について説明します。
+description: このプログラムに登録するパートナー向け CSP プログラムの要件については、クラウド ソリューション プロバイダープログラムに登録Microsoft Cloud for US Government。
 author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: e2b206b049050efa520099d74230d8535ac93793
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763352"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147175"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録
 
-**適用対象**
+**適用対象**: パートナー センターのMicrosoft Cloud for US Government
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
-
-**適切なロール**
-
-- グローバル管理者
+**適切なロール**: グローバル管理者
 
 Microsoft パートナーは、米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー (CSP) プログラムを通じて、米国の連邦、州、地方、および先住民部族の政府機関に Microsoft のクラウド ソリューションとクラウド サービスを販売することができます。
 
@@ -65,7 +61,7 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 
 1. アプリケーションの承認メールに記載されているリンクから、米国政府機関向け Microsoft Cloud のパートナー センターにサインインします。
 
-2. [ **アグリーメント** ] ページで、条項を読み、同意する場合は、[ **同意して** 、米国政府機関向け Microsoft Cloud のために、リセラー契約にデジタル署名する] を選択します。 アカウントの作成には数時間かかる場合があります。 米国政府向けの Microsoft Cloud をパートナーセンターからサインアウトし、後でもう一度サインインすることができます。
+2. [契約 **] ページで** 条項を読み、同意する場合は[同意する] を選択し、引き続きリセラー契約にデジタル署名Microsoft Cloud for US Government。 アカウントの作成には数時間かかる場合があります。 アカウントからサインアウトしてパートナー センター、Microsoft Cloud for US Government後でサインインし戻します。
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>手順4 - 米国政府機関向け Microsoft Cloud 用 Microsoft Azure 管理ポータルで、ユーザーを管理エージェントのロールに割り当てる
 
@@ -74,17 +70,17 @@ Microsoft パートナーは、米国政府機関向け Microsoft Cloud のク�
 > [!NOTE]
 > ユーザーを管理エージェント ロールに割り当てると、**[顧客]** ページで顧客の一覧にアクセスし、[新しい顧客を追加](add-a-new-customer.md)できるようになります。
 
-1. Microsoft Azure 管理ポータル () にサインイン [https://portal.azure.us/](https://portal.azure.us/) します。
+1. 管理ポータル () Microsoft Azureにサインインします [https://portal.azure.us/](https://portal.azure.us/) 。
 
 2. 管理エージェント ロールを組織内の適切なユーザーに割り当てます。 これを行うには、組み込みの **AdminAgent** グループにこれらのユーザーを追加する必要があります。 これを行う方法については、「[Azure Active Directory テナントでユーザーのグループ メンバーシップを管理する](/azure/active-directory/active-directory-groups-members-azure-portal)」を参照してください。
 
 ## <a name="connect-with-us"></a>お問合せ
 
-- 疑問がある場合 マイクロソフトにメールを送信する (azgovcsp@microsoft.com)
+- わからないことがある場合は、 マイクロソフトにメールを送信する (azgovcsp@microsoft.com)
 
 - [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777) に参加する
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
 

@@ -9,24 +9,18 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9bf577b6869a8b48215cb404df872d79f38e6a5e
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: bd0bb946c2f59f50c27aff58569d497bc21bf30b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441984"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146410"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>マルチチャネルサポート-他のパートナーを使用して、他のユーザーが購入した顧客サブスクリプションをサポートする
 
-**適用対象**
+**適用対象**: パートナーセンター |米国政府向け Microsoft Cloud パートナーセンター
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
-
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- 販売代理店
+**適切なロール**: 全体管理者 |ユーザー管理の管理者 |営業担当者
 
 パートナーセンターのマルチチャネル機能は、顧客が他の場所で購入したサブスクリプションを管理およびサポートするためにパートナーを採用する必要があるシナリオをサポートします。 マルチチャンネルのサポートは次の場合に適用されます。
 

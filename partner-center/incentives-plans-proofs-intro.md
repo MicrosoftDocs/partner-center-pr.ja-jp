@@ -1,6 +1,6 @@
 ---
-title: 実行の計画と実験の概要
-description: インセンティブに必要な主要ドキュメントについて説明します。インセンティブ共同要求計画や詳細な実行 (PoE) の実証などが含まれます。
+title: プランの概要と実行の証明
+description: インセンティブの共同請求プランや詳細な実行証明 (PoE) など、インセンティブに必要な主要なドキュメントについて説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,40 +8,37 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e98296aa42327a7b2ebd91b44f2e28e9010600bb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179175"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146750"
 ---
-# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>これらのリソースを使用して、インセンティブプランと実行の実験を作成してください
+# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>これらのリソースを使用して、インセンティブ プランと実行証明を作成できます
 
-**適切なロール**
+**適切なロール**: インセンティブ管理者|インセンティブ ユーザー
 
-- インセンティブ管理者
-- インセンティブ ユーザー
+この記事では、特定のインセンティブ プログラムで作業を成功し、支払いを受け取る際に必要な主要なドキュメントの一部について説明します。 これらのドキュメントには次のものが含まれます。
 
-この記事では、特定のインセンティブプログラムでの作業に成功し、支払いを受けるために必要な主要ドキュメントについて説明します。 次のドキュメントが含まれます。
+- インセンティブ共同請求プラン
+- 詳細な実行証明 (PoE)
 
-- インセンティブ共同要求計画
-- 詳細な実行 (PoE)
+登録しているインセンティブ プログラムの種類に応じて、インセンティブ共同請求プランと実行証明 (PoE) は、インセンティブによる成功に役立つものになります。
 
-登録されているインセンティブプログラムの種類に応じて、インセンティブ共同要求計画と実行の実証 (PoE) は、インセンティブによる成功に役立ちます。
+## <a name="what-is-an-incentives-co-op-claims-plan"></a>インセンティブ共同請求プランとは
 
-## <a name="what-is-an-incentives-co-op-claims-plan"></a>インセンティブ共同要求計画とは
+インセンティブ共同請求プランでは、プログラムを成功させるのに必要なマーケティング キャンペーン、アクティビティ、その他の詳細について説明します。 このプランを作成したら、承認のために Microsoft に提出します。 プランの作成に [関する詳細を確認してください](incentives-create-your-plan.md)。
 
-インセンティブ共同要求計画では、プログラムを成功させるために必要なマーケティングキャンペーン、活動、およびその他の詳細について説明します。 このプランを作成したら、承認のために Microsoft に送信します。 詳細については [、プランの作成](incentives-create-your-plan.md)に関するページを参照してください。
+## <a name="what-is-a-proof-of-execution-poe"></a>実行証明 (PoE) とは
 
-## <a name="what-is-a-proof-of-execution-poe"></a>実行の証明 (PoE) とは何ですか。
+インセンティブの支払いを受け取った後、詳細な実行証明 (PoE) を Microsoft に送信する必要があります。 PoE には、関連するキャンペーン、インセンティブ アクティビティが発生した日付、要求された金額に関する詳細が含まれる場合があります。 
 
-インセンティブの作業に対する支払いが完了したら、詳細な実行 (PoE) を Microsoft に提出する必要があります。 PoE には、関連するキャンペーン、インセンティブアクティビティが発生した日付、要求された金額などの詳細が含まれる場合があります。 
+実行の証明 [の準備の詳細については、を参照してください](incentives-prepare-your-proof-of-execution.md)。
 
-[実行のための校正の準備](incentives-prepare-your-proof-of-execution.md)については、こちらを参照してください。
+## <a name="incentives-document-resources"></a>インセンティブドキュメントのリソース
 
-## <a name="incentives-document-resources"></a>インセンティブドキュメントリソース
-
-次のリソースでは、これらの主要なインセンティブドキュメントを整理、作成、および編集する方法について説明します。 また、Microsoft が要求を承認した場合、または要求が拒否された場合の対処方法についても説明します。
+次のリソースでは、これらの主要なインセンティブ ドキュメントを整理、作成、編集する方法について説明します。 また、Microsoft が要求を承認した場合、または要求が拒否された場合の対応方法も説明します。
 
 |  **目的**  |  **参照先**  |
 |--------------|-----------|

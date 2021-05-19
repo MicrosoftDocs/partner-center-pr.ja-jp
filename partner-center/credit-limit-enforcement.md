@@ -1,5 +1,5 @@
 ---
-title: 与信限度額の適用
+title: クレジット制限の強制
 ms.topic: how-to
 ms.date: 05/11/2021
 description: クレジット制限と計算方法について学習します。 FAQ が含まれています。
@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf0d3c38b301c363a4a990db5258cf2a3f30d487
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109819210"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148110"
 ---
 # <a name="credit-limit-enforcement-cle"></a>与信限度額の適用 (CLE)
 
-**適切なロール**
-
-- 課金管理者
+**適切なロール**: 課金管理者
 
 ## <a name="your-credit-limit-and-how-it-works"></a>クレジットの制限と動作
 
@@ -40,40 +38,40 @@ ms.locfileid: "109819210"
 
 ### <a name="if-i-exceed-my-credit-limit-can-i-continue-servicing-existing-customers-and-subscriptions-with-full-access"></a>クレジット制限を超えた場合、フル アクセスで既存の顧客とサブスクリプションにサービスを提供し続けできますか?
 
-はい。 顧客の既存のサブスクリプションは中断することなく継続されます。 ただし、顧客の新しいサブスクリプションを購入することはできません。
+はい。 お客様の既存のサブスクリプションは、中断されることなく継続されます。 ただし、顧客の新しいサブスクリプションを購入することはできません。
 
-### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>CLE は直接請求パートナーと間接プロバイダーの両方に適用されますか?
+### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>CLE は、直接請求パートナーと間接プロバイダーの両方に適用されますか。
 
-はい。両方に適用されます。
+はい、両方に適用されます。
 
-### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>アカウントを再開するために支払いを送信した後、サブスクリプションを追加購入できる期間 
+### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>アカウントを復元するために支払いを送信した後、サブスクリプションをさらに購入できますか? 
 
-Microsoft がクレジット チェック プロセスを続行するためにすべての要件を受け取ったと仮定すると、支払いから 24 時間以内に購入を再開できます。
+支払いから24時間以内に購入を再開できるはずです。クレジットチェックプロセスを進めるために、Microsoft がすべての要件を受けたと想定しています。
 
-### <a name="how-can-i-check-my-credit-limit"></a>クレジット制限を確認する方法
+### <a name="how-can-i-check-my-credit-limit"></a>クレジットの上限を確認するにはどうすればよいですか?
 
-クレジット制限 [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) を確認し、最近の購入に関する情報を取得する場合は、 にお問い合わせください。
+[ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com)クレジットの上限を確認し、最近の購入に関する情報を取得するには、にお問い合わせください。
 
-### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>クレームに含む請求書は、与信限度額に対してカウントされますか?
+### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>紛争にある請求書は、クレジットの上限に対してカウントされますか?
 
-はい。 ただし、 で Microsoft に問い合 [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) わせ、問題を解決することができます。
+はい。 ただし、Microsoft に連絡して [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) 問題を解決することができます。
 
-### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>に書き込んだ場合、どのくらいの時間が来ますか ucmwrcsp@microsoft.com ?
+### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>書き込みが行われた場合、すぐにはどうなり ucmwrcsp@microsoft.com ますか。
 
-応答は 24 時間以内に行う必要があります。 
+24時間未満の応答が必要です。 
 
-### <a name="what-criteria-does-microsoft-use-for-setting-a-partners-credit-limit"></a>Microsoft はパートナーのクレジット制限を設定するためにどのような基準を使用しますか?
+### <a name="what-criteria-does-microsoft-use-for-setting-a-partners-credit-limit"></a>Microsoft はパートナーの信用限度を設定するためにどのような基準を使用しますか?
 
-予測収益、購入率、支払い履歴に基づいて、クレジット制限が決定されます。
+予測収益、購入 prowess、および支払い履歴に基づいて、お客様のクレジットの上限が決定されます。
 
-### <a name="is-the-credit-limit-currently-enforced-on-the-new-commerce-experience"></a>現在、新しいコマース エクスペリエンスに対してクレジット制限が適用されていますか?
+### <a name="is-the-credit-limit-currently-enforced-on-the-new-commerce-experience"></a>現在、新しいコマースエクスペリエンスに対して与信限度が適用されていますか。
 
-はい。 クレジット制限は、すべての CSP プログラムと製品に適用され、パートナー センター。
+はい。 クレジットの制限は、パートナーセンターのすべての CSP プログラムと製品に適用されます。
 
-### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>組織が与信限度額に近付いたときに通知を受け取るのは誰ですか?
+### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>組織のクレジットの上限に近づいたときに通知を受けるのはだれですか。
 
-組織の財務アカウントの支払い担当者が通知を受け取る必要があります。
+組織の Finance アカウントの買掛金の連絡先に通知が届きます。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 [課金の基本](./billing-basics.md)

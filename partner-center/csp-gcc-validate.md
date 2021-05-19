@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 442ba27776786bbd153360d20cb93574a3d4d4ec
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979639"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147702"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP パートナーと顧客の資格基準に関する Office 365 Government GCC 
 
-**適切なロール**
-
-- グローバル管理者
-- 管理エージェント
-- 販売代理店
+**適切なロール**: 全体管理者 |管理エージェント |営業担当者
 
 >[!NOTE]
 >検証プロセスと以下で説明する条件は、直接請求パートナーに固有です。 直接請求パートナーには、直接リセラーと間接プロバイダーが含まれます。  間接リセラーである場合は、間接プロバイダーと連携してください。

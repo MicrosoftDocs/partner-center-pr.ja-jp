@@ -1,45 +1,43 @@
 ---
-title: 概要-CSP marketplace
+title: 概要 - CSP マーケットプレース
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Marketplace の独立系ソフトウェアベンダー (Isv) のサービスとしてのソフトウェア (SaaS) プランに対する顧客のサブスクリプションを販売する方法について説明します。
+description: マーケットプレースの独立系ソフトウェア ベンダー (ISV) からサービスとしてのソフトウェア (SaaS) オファーに顧客サブスクリプションを販売する方法について説明します。
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 7c18f69a62e8f8d126a0756911d2fbcdfdb85d8d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979449"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147872"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>パートナー センターのコマーシャル マーケットプレースの概要
 
-**適切なロール**
+**適切なロール**: グローバル管理者
 
-- グローバル管理者
+クラウド ソリューション プロバイダー (CSP) プログラムのパートナーである場合、サード パーティの独立系ソフトウェア ベンダー (ISV) によって発行されたソリューションと共に、Microsoft 製品をバンドルして販売することができます。 この方法でソリューションをバンドルすることで、エンド カスタマーにサービスを提供し、CSP サービスビジネスを拡大することができます。
 
-クラウドソリューションプロバイダー (CSP) プログラムのパートナーになると、サードパーティの独立系ソフトウェアベンダー (Isv) によって発行されたソリューションと共に、Microsoft 製品をバンドルして販売することができます。 この方法でソリューションをバンドルできるため、エンドカスタマーにサービスを提供し、CSP サービスビジネスを拡大することができます。
+CSP プログラムのパートナーは、microsoft のコマーシャル マーケットプレースパートナー センター多くの ISV ソリューションを購入するために、このサービスを使用できます。 これにより、ユーザーと顧客にいくつかの主な利点があります。
 
-CSP プログラムのパートナーとして、パートナーセンターを使用して、Microsoft の商用マーケットプレースから多数の ISV ソリューションを購入することができます。 これにより、ユーザーと顧客はいくつかの重要な利点を得ることができます。
+- Microsoft のテクノロジと環境向けに最適化されたソフトウェア ソリューションのカタログへのアクセス。
+- コントラクトの簡素化と調達サイクルの短縮。
+- 1 つの統合と パートナー センター API。 (このような統合により、ISV ソリューションのカタログにアクセスし、運用とエンジニアリングのコストを削減し、1 つのプロバイダーを通じて複数のベンダー サブスクリプションと課金の管理を効率化できます)。
+- 顧客の Azure テナントでのデプロイとプロビジョニングの合理化 (仮想マシンベースのソリューションの場合)。
+- ISV の直接購入または契約、Microsoft ソリューションの構成と統合、および複数のベンダーからの定期的な請求書を管理または統合する必要性に関する潜在的な課題を軽減します。
 
-- Microsoft のテクノロジと環境に合わせて最適化されたソフトウェアソリューションのカタログへのアクセス。
-- シンプルなコントラクトと短縮された調達サイクル。
-- パートナーセンター Api との単一の統合。 (この統合により、ISV ソリューションのカタログへのアクセスが可能になり、運用とエンジニアリングのコストが削減され、1つのプロバイダーを通じて複数のベンダーサブスクリプションと請求の管理が効率化されます)。
-- お客様の Azure テナントでのデプロイとプロビジョニングの合理化 (仮想マシンベースのソリューションの場合)。
-- 直接 ISV の購入や契約、Microsoft ソリューションの構成と統合、複数のベンダーからの定期的な請求書の管理または統合に関する潜在的な課題を軽減します。
+## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>コマーシャル マーケットプレースでの CSP オファーの概要
 
-## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>商用マーケットプレースにおける CSP の提供の概要
+CSP プログラムのパートナーである場合は、ISV オファーに関して実行する必要があるコマーシャル マーケットプレースアクティビティが多数用意されています。 各アクティビティの詳細については、次の表を参照してください。
 
-CSP プログラムのパートナーである場合は、ISV のオファーに関して、多くの市販の marketplace アクティビティを実行する必要があります。 各アクティビティの詳細については、次の表を参照してください。
-
-|**必要に応じて**  |**読み取り**   |
+|**必要な場合**  |**読み取り**   |
 |:------------------------------------|:------------------|
-|利用可能なプラン、価格、製品の詳細、または発行者の連絡先情報を表示または検索する方法について説明します | [オファーの検出](csp-commercial-marketplace-discover.md) | 
-|プランを購入して展開する方法について説明します   | [購入プラン](csp-commercial-marketplace-purchase.md)   | 
+|利用可能なオファー、価格、製品の詳細、または発行元の連絡先情報を表示または検索する方法について学習します | [オファーの検出](csp-commercial-marketplace-discover.md) | 
+|オファーを購入してデプロイする方法を確認する   | [オファーの購入](csp-commercial-marketplace-purchase.md)   | 
 |サブスクリプションをキャンセルまたは更新する方法、またはライセンスを追加または削除する方法について説明します。  | [オファーの管理](csp-commercial-marketplace-manage.md) |
 |商用 marketplace での購入に対する課金のしくみについて説明します | [課金について](csp-commercial-marketplace-billing.md) |
 |ISV が購入できるサポートの種類について説明します。 | [サポートについて](csp-commercial-marketplace-support.md) |
@@ -85,5 +83,5 @@ CSP プログラムのパートナーとして、パートナーセンターの 
 
 ## <a name="next-steps"></a>次のステップ
 
-- [市販の marketplace プランを検出または表示する](csp-commercial-marketplace-discover.md)
-- [商用 marketplace プランの購入](csp-commercial-marketplace-purchase.md)
+- [コマーシャル マーケットプレースのオファーを検出または表示する](csp-commercial-marketplace-discover.md)
+- [コマーシャル マーケットプレース のオファーを購入する](csp-commercial-marketplace-purchase.md)

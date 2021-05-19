@@ -1,55 +1,48 @@
 ---
-title: 毎日評価済みの使用状況調整ファイル
+title: 日次評価の使用状況調整ファイル
 ms.topic: article
 ms.date: 06/12/2020
-description: パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。 偵察ファイルの特定のフィールドの説明が含まれています。
+description: 毎日評価された使用状況調整ファイルを読み取る方法については、パートナー センター。 recon ファイル内の特定のフィールドの説明が含まれます。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9b5daf91646324a9d4ace92d25736cfd0361ad6c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441899"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147277"
 ---
-# <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>パートナーセンターで、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
+# <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>毎日評価された使用状況調整ファイルを読み取る方法については、パートナー センター
 
-**適用対象**
+**適用対象**: パートナー センター |パートナー センターのMicrosoft Cloud for US Government
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
+**適切なロール**: 管理エージェント |課金管理者|Sales Agent |ヘルプデスク エージェント
 
-**適切なロール**
-
-- 管理エージェント
-- 課金管理者
-- 販売代理店
-- ヘルプデスク エージェント
-
-この記事では、毎日評価される使用状況の調整ファイルを読み取る方法について説明します。
+この記事では、日次評価の使用状況調整ファイルを読み取る方法について説明します。
 
 >[!NOTE]
->日々の評価を受けた使用量は通常、パートナーセンターに表示されるか、API を使用してアクセスされるまでに24時間かかります。
+>日次で評価される使用量は、通常、24 時間で表示され、パートナー センター API 経由でアクセスされます。
 
-## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>日単位で評価される使用状況の調整ファイルのフィールド
+## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>日次評価の使用状況調整ファイルのフィールド
 
 | 列 | 説明 |
 | ------ | ----------- |
 | PartnerId | GUID 形式のパートナー識別子。 |
 | PartnerName | パートナー名。 |
 | CustomerId | GUID 形式の顧客の一意の Microsoft 識別子。 |
-| CustomerName | パートナー センターで報告される顧客の組織名。 *この列は、請求書をシステム情報に合わせて調整するために重要です。* |
+| CustomerName | パートナー センターで報告される顧客の組織名。 *この列は、請求書とシステム情報を調整する場合に重要です。* |
 | CustomerDomainName | 顧客のドメイン名。 |
 | CustomerCountry | 顧客の在住国。 |
 | MpnId | CSP パートナーの MPN 識別子。 |
-| Tier2MpnId | サブスクリプションの販売店の MPN 識別子。 |
+| Tier2MpnId | サブスクリプションのレコードのリセラーの MPN 識別子。 |
 | InvoiceNumber | 指定されたトランザクションが含まれている請求書番号。 |
 | ProductId | 製品の識別子。 |
 | SkuId | 特定の SKU の識別子。 |
-| AvailabilityId | 特定の SKU の可用性の識別子。 この列には、指定された国、通貨、業界セグメントなどで SKU を購入できるかどうかが表示されます。 |
+| AvailabilityId | 特定の SKU の可用性の識別子。 この列には、SKU が特定の国、通貨、業界セグメントなどで購入できるかどうかが表示されます。 |
 | SkuName | 特定 SKU のタイトル。 |
 | ProductName | 製品の名前です。 |
 | 発行元 | 発行元の名前。 |
@@ -80,8 +73,8 @@ ms.locfileid: "106441899"
 | PricingCurrency | 価格表の通貨。 |
 | ServiceInfo1 | 特定の日にプロビジョニングおよび使用された Service Bus 接続の数。 |
 | ServiceInfo2 | 省略可能なサービスに固有のメタデータをキャプチャするレガシ フィールド。 |
-| Tags | ユーザーによって設定された Azure リソースの論理編成を表します。 |
-| AdditionalInfo: | 他の列で説明されていない任意の追加情報。 |
+| タグ | ユーザーによって設定された Azure リソースの論理編成を表します。 |
+| AdditionalInfo | 他の列で説明されていない任意の追加情報。 |
 | EffectiveUnitPrice | 割引、獲得したクレジットなど、ユニットごとに課金される実際の値。 |
 | PCToBCExchangeRate | 料金通貨に適用される換算レートが請求通貨に適用されます。 |
 | PCToBCExchangeRateDate | 請求通貨の価格の通貨が決定される日付。 |
@@ -89,8 +82,8 @@ ms.locfileid: "106441899"
 | EntitlementDescription | Azure サブスクリプション ID の名前を表します。 |
 | PartnerEarnedCreditPercentage | 品目の PartnerEarnedCredit を表示します。 獲得クレジットは、0または15% になります |
 | CreditPercentage | Azure の消費クレジットが表示されます。 獲得クレジットは、0または100% のいずれかになります。 |
-| CreditType | クレジットの種類。 たとえば、 **Azure クレジットが適用されます。** |
+| CreditType | クレジットの種類。 たとえば **、Azure クレジットの適用などです。** |
 >[!NOTE]
->日常的に評価される使用量は、パートナーセンターに表示されるか、API を使用してアクセスされるまでに、通常24時間かかります。
+>日次で評価される使用量は、通常、24 時間かかりますが、パートナー センター API 経由でアクセスされます。
 
 

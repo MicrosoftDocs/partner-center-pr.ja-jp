@@ -9,22 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: c4e1459b71016718533d02953691065332c4ad13
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686145"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147345"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>お客様へのさまざまな種類のサポートの提供
 
-**適用対象**
+**適用対象**: パートナー センター |パートナー センターのMicrosoft Cloud for US Government
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
-
-**適切なロール**
-
-- ヘルプ エージェント
+**適切なロール**: ヘルプ エージェント
 
 ## <a name="microsoft-partner-support-guidance"></a>Microsoft パートナー サポート ガイダンス
 
@@ -42,7 +38,7 @@ CSP のお客様は、自分でサポート チケットを作成できない。
 
   - [パートナー向け高度なサポート](https://partner.microsoft.com/support/advanced-cloud-support) (料金ベース、クラウド製品にのみ使用)
 
-  - [署名クラウド サポート](manage-your-partner-network-benefits.md) (Gold または Silver コンピテンシーの MPN 特典に含まれています。クラウド製品にのみ使用)
+  - [署名クラウドサポート](manage-your-partner-network-benefits.md) (Gold またはシルバーコンピテンシーの MPN 特典に含まれており、クラウド製品にのみ使用)
 
   - [製品サポートインシデント](manage-your-partner-network-benefits.md) (ゴールド、シルバー、または Microsoft Action Pack パートナー向けの MPN 特典に含まれており、最新のオンプレミス製品にのみ使用)
 

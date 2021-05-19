@@ -2,51 +2,49 @@
 title: 有効な単価計算
 ms.topic: how-to
 ms.date: 04/02/2021
-description: 有効な単価とその計算方法について説明します。 この記事には、サンプル計算も含まれています。
+description: 有効な単価と計算方法について学習します。 この記事には、サンプル計算も含まれています。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172219"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147124"
 ---
-# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure プランの使用の有効な単価計算
+# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure プランの消費に対する有効な単価の計算
 
-**適切なロール**
-
-- 課金管理者
+**適切なロール**: 課金管理者
 
 ## <a name="the-effective-unit-price"></a>有効な単価
 
-有効な単価は、(リソースレベルではなく) メーターレベルで計算され、メーターの使用状況に応じて毎日調整されます。
+有効な単価は、(リソース レベルではなく) メーター レベルで計算され、メーターの使用状況に応じて毎日調整されます。
 
-次の3つの要素を使用して、有効な単価を計算します。
+次の 3 つの要因を使用して、有効な単価を計算します。
 
-- 使用量 (請求サイクル全体で毎日監視されます)
-- メーターの課金対象コスト
+- 使用量。課金サイクル全体を通じて毎日監視されます
+- メーターの請求コスト
 - 階層化 (該当する場合)
 
-請求サイクル全体にわたって使用量を毎日監視するため、有効な単価が変動します。 特定の請求サイクルの最終的な価格は、使用量の計算を停止し、請求期間を終了した後に利用可能になります。 ほとんどの変更は、4番目または5番目の小数点以下に表示されます。
+課金サイクル全体を通して毎日消費量を監視するために、有効な単価は変動します。 特定の請求サイクルの最終的な価格は、使用量の計算を停止し、請求期間を終了した後に使用できます。 小数点以下 4 桁目または 5 桁目以降の消費量のほとんどの変化が表示されます。
 
-## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>メーターが階層化された価格を使用するかどうかを確認する
+## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>測定で階層化された価格が使用されているかどうかを確認する
 
-メーターが階層化された価格を使用しているかどうかわからない場合は、以下の手順を使用して確認してください。 
+メーターで階層化された価格が使用されるかどうかが分からない場合は、次の手順を使用して確認してください。 
 
 1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
-2. [ **販売**] を選択し、[ **価格とオファー**] を選択して、[ **Azure プランの価格**] を選択します。
-3. ID でメーターを見つけ、価格データをダウンロードします。 
+2. [販売 **] を** 選択し **、[価格とプラン] を** 選択してから、[Azure プランの **価格] を選択します**。
+3. ID で測定を見つけ、価格データをダウンロードします。 
 
 ## <a name="sample-calculation"></a>サンプル計算
 
 次の表は、オープン期間中の有効な単価を計算する方法の例を示しています。
 
-この表では、次の値が適用されます。 
+表では、次の値が適用されます。 
 
 - **UP** = リソースの単価/時間 = 0.868
 

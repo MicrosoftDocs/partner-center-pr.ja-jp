@@ -1,42 +1,39 @@
 ---
 title: 支払いスケジュールとプロセス
-description: 支払いとトランザクションについて説明します。たとえば、商業市場やその他の取引に関する支払いスケジュールや recoupment プロセスなどです。
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+description: コマーシャル マーケットプレースや他のトランザクションの支払いスケジュールや再取り込みプロセスなど、支払いとトランザクションについて説明します。
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086177"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146954"
 ---
 # <a name="payout-schedules-and-processes"></a>支払いスケジュールとプロセス
 
-**適切なロール**
+**適切なロール**: アカウント管理者|グローバル管理者
 
-- アカウント管理者
-- グローバル管理者
-
-この記事では、Microsoft の支払いスケジュール、支払いの状態を確認する場所、およびお客様の支払いのないプロセスについて説明します。
+この記事では、Microsoft の支払いスケジュール、支払いの状態を確認する場所、および顧客の支払い以外のプロセスについて説明します。
 
 ## <a name="payment-schedules"></a>支払いスケジュール
 
-以下のセクションでは、 **Enterprise Agreement** および **クレジットカード/請求書** トランザクションの支払いプロセスについて説明します。
+以下のセクションでは、クレジット カード/請求書トランザクションの **Enterprise Agreement支払****いプロセスについて** 説明します。
 
-### <a name="enterprise-agreement-transactions"></a>トランザクションの Enterprise Agreement
+### <a name="enterprise-agreement-transactions"></a>Enterprise Agreementトランザクション
 
-顧客が既存の Microsoft Enterprise Agreement のトランザクションを使用して Microsoft AppSource または Azure Marketplace から製品を購入した場合は、次の支払いサイクルの30日後の顧客請求書に支払いを発行します。 顧客がクレジットカードを使用するトランザクションは、支払いの前に30日の保持期間があります。
+顧客がトランザクションに対して既存の Microsoft Enterprise Agreement を使用して Microsoft AppSource または Azure Marketplace から製品を購入した場合、顧客請求書の後の次の支払いサイクルで支払いを発行します。 顧客がクレジット カードを使用するトランザクションには、支払いの前に 30 日間の保有期間があります。
 
-支払いは多くの場合、Microsoft が顧客から支払いを収集する前に発生します。 お客様が Microsoft への支払いに失敗した場合に実行するアクションについては、以下の「 [お客様の支払い非支払いの処理](#process-for-customer-non-payment) 」を参照してください。
+支払いは、多くの場合、Microsoft が顧客から支払いを収集する前に発生します。 お [客様が Microsoft への支払いに](#process-for-customer-non-payment) 失敗したが、既に支払いを発行している場合に実行するアクションについては、以下の「顧客の支払い以外の処理」を参照してください。
 
-| Event | 説明 | レポートの可視性 | 調節 |
+| event | 説明 | レポートの可視性 | タイミング* |
 | --- | --- | --- | --- |
-| トランザクションの使用状況または月 | 顧客がサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月1** |
-| Microsoft は請求金額を計算します | 合計使用量、合計トランザクション数 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月2** |
+| 使用状況またはトランザクションの月 | 顧客はサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard)または[注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard) | **月 1** |
+| Microsoft が請求金額を計算する | 合計使用量、合計トランザクション数を決定する | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard)または[注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard) | **月 2** |
 | 投稿された支払い | 機関の費用と支払いの利益を確認する | [支払いステートメント](payout-statement.md)のトランザクション履歴で未処理としてマークされている | **Month 3 (第1週)** |
 | 支払いを準備する | 毎月の支払いのために収益が準備されています | [支払明細書](payout-statement.md)のトランザクション履歴で、次のようにマークされています。 | **Month 3 (第1週)** |
 | **送信された支払い** | **支払いはパブリッシャーに送信されます** | **トランザクション履歴と、支払い [明細書](payout-statement.md)の支払いセクションで送信済みとしてマークされます。** | **月 3 (15 日以降)** |
@@ -51,13 +48,13 @@ ms.locfileid: "106086177"
 
 クレジットカードまたは月次請求書によるすべての購入には、顧客から資金が収集されることを保証するために、30日間の保持期間があります。
 
-| Event | 説明 | レポートの可視性 | 調節 |
+| event | 説明 | レポートの可視性 | 調節 |
 | --- | --- | --- | --- |
-| トランザクションの使用状況または月 | 顧客がサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月1** |
-| 顧客によって支払われる請求書 | 合計使用量、合計トランザクション金額、および顧客支払い請求書の確認 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard) ダッシュボードまたは [注文](/azure/marketplace/partner-center-portal/orders-dashboard) ダッシュボード | **月2** |
-| 投稿された支払い | 機関の費用と支払いの利益を確認する | [支払いステートメント](payout-statement.md)のトランザクション履歴で未処理としてマークされている | **月2** |
-| 30日間の保持期間 | ファンド、可能なチャージバック、返金要求の収集を確認する | [支払いステートメント](payout-statement.md)のトランザクション履歴で未処理としてマークされている | **月3** |
-| 支払いを準備する | 毎月の支払いのために収益が準備されています | [支払明細書](payout-statement.md)のトランザクション履歴で、次のようにマークされています。 | **Month 4 (第1週)** |
+| 使用状況またはトランザクションの月 | 顧客はサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard)または[注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard) | **月 1** |
+| 顧客による請求書の支払い | 合計使用量、合計トランザクション値、および顧客の支払い請求書を決定する | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard)または[注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard) | **月 2** |
+| 投稿された支払い | 機関の料金と支払い収益を決定する | 支払い明細書のトランザクション履歴で未処理として [マークされます](payout-statement.md) | **月 2** |
+| 30 日間の保有期間 | 資金、可能なチャージバック、および返金要求の収集を確認する | 支払い明細書のトランザクション履歴で未処理として [マークされます](payout-statement.md) | **月 3** |
+| 支払いを準備する | 収益は毎月の支払いのために準備されます | 支払い明細書のトランザクション履歴で [近日予定] [としてマークされます](payout-statement.md) | **月 4 (第 1 週)** |
 | **送信された支払い** | **支払いはパブリッシャーに送信されます** | **トランザクション履歴と、支払い [明細書](payout-statement.md)の支払いセクションで送信済みとしてマークされます。** | **Month 4 (15 日以降)** |
 |
 
@@ -75,7 +72,7 @@ Microsoft では、次のいずれかの方法を使用して、支払い済み�
 
 次のスケジュールを例に示します。
 
-| Event | 概算の日付 * | パートナーへの表示対象 |
+| イベント | 概算の日付 * | パートナーへの表示対象 |
 | --- | --- | --- |
 | 支払日の例 | 2020 年 10 月 15 日 | 支払いダッシュボードのトランザクション履歴と [支払い] セクションで **送信済み** とマークされます |
 | <font color="red">顧客が Microsoft に支払いを行わない場合</font> | 2020 年 12 月 2 日 – 2020 年 12 月 5 日 | 変更なし、同上 |

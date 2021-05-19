@@ -1,45 +1,42 @@
 ---
-title: 商用 marketplace プランの購入
+title: コマーシャル マーケットプレース のオファーを購入する
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP プログラムパートナーがパートナーセンターマーケットプレースを使用して、独立系ソフトウェアベンダー (Isv) から SaaS プランを購入できるようにする方法について説明します。
+description: CSP プログラム パートナーが、パートナー センター Marketplace を使用して、独立系ソフトウェア ベンダー (ISV) から SaaS オファーを顧客が購入する方法について説明します。
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 3f5cf4895fa4d66c65215989d808a1dd18ef9064
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979718"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147855"
 ---
-# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>パートナーセンターで顧客向けの商用 marketplace 製品を購入する
+# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>顧客向けコマーシャル マーケットプレース製品を購入するパートナー センター
 
 
-**適切なロール**
+**適切なロール**: グローバル管理者|管理エージェント
 
-- グローバル管理者
-- 管理エージェント
+クラウド ソリューション プロバイダー (CSP) プログラムのパートナーは、コマーシャル マーケットプレースを使用して、独立系ソフトウェア ベンダー (ISV) によって提供される特定のサービスとしてのソフトウェア (SaaS) 製品に対する顧客のサブスクリプションを購入できます。
 
-クラウドソリューションプロバイダー (CSP) プログラムのパートナーとして、商用マーケットプレースを使用して、独立系ソフトウェアベンダー (Isv) によって提供される特定のサービスとしてのソフトウェア (SaaS) 製品に対して顧客のサブスクリプションを購入することができます。
+ISV SaaS サブスクリプションを顧客に提供することで、ビジネスの差別化に役立ちます。 また、特定のビジネス ニーズに対応するソフトウェア バンドルへのアクセス権を顧客に提供することもできます。 これらのマーケットプレース SaaS 製品のライセンスとサブスクリプションは、Microsoft 製品のライセンスとサブスクリプションを管理するのと同じ方法で ISV 発行元から管理します。
 
-顧客に対して ISV SaaS サブスクリプションを提供することにより、ビジネスを差別化することができます。 また、お客様に特定のビジネスニーズに対応するソフトウェアバンドルへのアクセスを提供することもできます。 これらの marketplace SaaS 製品のライセンスとサブスクリプションは、Microsoft 製品のライセンスとサブスクリプションを管理するのと同じように、ISV 発行元から管理します。
+ライセンス ベースの SaaS **サブスクリプションまたは** 使用量ベースのサブスクリプション **を購入** できます。 ライセンス ベースと使用量ベースの課金の違いの詳細については、「課金の基本」 [を参照してください](billing-basics.md)。
 
-**ライセンスベース** の SaaS サブスクリプションまたは **使用状況ベースの** サブスクリプションのいずれかを購入できます。 ライセンスベースと使用量ベースの課金の違いの詳細については、 [課金の基本](billing-basics.md)に関するページを参照してください。
+## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>ライセンスベースの SaaS サブスクリプションと測定された SaaS サブスクリプションをパートナー センター
 
-## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>パートナーセンターでライセンスベースおよび従量制の SaaS サブスクリプションを購入する
+ISV 発行元が提供するライセンスベースまたは測定された SaaS 製品のサブスクリプションは、Microsoft 製品のサブスクリプションの購入に使用するのと同じプロセスを使用して購入します。
 
-Microsoft 製品のサブスクリプションを購入する場合と同じプロセスを使用して、ISV 発行元によって提供されるライセンスベースまたは従量制の SaaS 製品のサブスクリプションを購入します。
+パートナー センター でライセンスベースまたは測定された SaaS サブスクリプションを購入するには、「顧客サブスクリプションの作成、中断、または取り消し」 [を参照してください](create-a-new-subscription.md#create-a-new-subscription)。
 
-パートナーセンターでライセンスベースまたは従量制の SaaS サブスクリプションを購入するには、「 [顧客サブスクリプションの作成、中断、キャンセル](create-a-new-subscription.md#create-a-new-subscription)」を参照してください。
-
-[パートナー センター API](/partner-center/develop/) を使って、顧客向けの商用マーケットプレース サブスクリプションを作成することもできます。 (パートナーセンター Api の使用方法の詳細については、「 [商用 marketplace 製品のサブスクリプションを作成する](/partner-center/develop/create-subscription-azure-marketplace-products)」を参照してください)。
+[パートナー センター API](/partner-center/develop/) を使って、顧客向けの商用マーケットプレース サブスクリプションを作成することもできます。 (API の使用の詳細パートナー センター、コマーシャル マーケットプレース製品のサブスクリプションの作成 [に関するページを参照してください](/partner-center/develop/create-subscription-azure-marketplace-products)。
 
 >[!IMPORTANT]
-> CSP プログラムのパートナーとして、パートナーセンター内の ISV 発行元から **ライセンスベース** または **従量制** の SaaS サブスクリプションを購入することができます。 つまり、ISV 発行者が利用可能にした **ライセンスベース** または **従量制** の SaaS プランを購入できます。これには、アクセス権のある [限定プラン](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) も含まれます。 Isv (Azure アプリケーション、コンテナー、または Vm を含む使用量ベースのプランなど) から、他の商用 marketplace プランを購入または管理するには、 [Azure portal](https://portal.azure.com/)にアクセスする必要があります。
+> CSP プログラムのパートナーは、ライセンスベースまたは測定された **SaaS** サブスクリプションを、パートナー センター 内の ISV パブリッシャーから購入できます。 つまり、ISV 発行元が利用できるライセンスベースまたは測定された **SaaS** オファー (アクセス権を持 [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)つ排他的なオファーを含む) を購入できます。 Isv (Azure アプリケーション、コンテナー、または Vm を含む使用量ベースのプランなど) から、他の商用 marketplace プランを購入または管理するには、 [Azure portal](https://portal.azure.com/)にアクセスする必要があります。
 
 ## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Azure portal で使用量ベースのサブスクリプションを購入する
 

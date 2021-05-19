@@ -9,19 +9,17 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 5fd2267d53641fe4a0b6181217a35f0470e5bbe5
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: edc0ea8f0fda58f23cbce82bc7023a3277517cc3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560512"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147141"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>CSP パートナー システムとパートナー センター API との統合を支援するためにコントロール パネル ベンダーとして登録する
 
 
-**適切なロール**
-
-- グローバル管理者
+**適切なロール**: グローバル管理者
 
 コントロール パネル ベンダー (CPV) は、クラウド ソリューション プロバイダー (CSP) パートナーがシステムをパートナー センター API と統合するために使用できるアプリケーションを開発する独立系ソフトウェア ベンダーです。 コントロール パネル ベンダーは、パートナー センター ダッシュボードまたはパートナー センター API に直接アクセスできる CSP パートナーではありません。
 
