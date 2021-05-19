@@ -9,19 +9,17 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 3890f3fe314dcd1bfbbb0d86bf496683d80c5cd9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818645"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145815"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>外部Microsoft Partner Network技術的な利点を有効パートナー センター
 
 
-**適切なロール**
-
-- すべてのパートナー センター ユーザー
+**適切なロール**: すべてのパートナー センターユーザー
 
 この記事は、まだ Microsoft Partner Network (PMC) を使用している mpN (MPN) Partner Membership Center向けです。 これらのメンバーは、現在のダッシュボード の外部で、技術的な特典など、特定の MPN メンバーシップ特典をアクティブ化パートナー センター [必要です](https://partner.microsoft.com/dashboard)。
 
@@ -45,11 +43,11 @@ PMC ユーザーの場合は、技術的な利点のアクティブ化に関す�
 
 \***ヨーロッパ、中東、アフリカ (EMEA) のパートナーの場合のみ:** Regform に電子メールを送信する場合は、パートナー ID、MPN に関連付けられている電子メール アドレス、名前、会社名、電話、市区町エリア、国を含めます。 サポート コントラクトの作成またはアクティブ化に関するヘルプを表示するには、Regform を使用します。 MPN に関連するその他の問題がある場合は、 [パートナー のフロント ライン サポートにお問い合わせください](https://partner.microsoft.com/support?issueid=300-0042)。
 
-特典がアクティブになると、会社の主要な特典に関連付けられているプログラムの連絡先に、その特典に対する製品サポートの ID が提供されます。 これらの Id には、 **アクセス id** と **契約 ID** が含まれます。 
+特典を有効にすると、会社の主要な特典に関連付けられているプログラムの連絡先にその特典の製品サポート Id が付与されます。 これらの Id には、 **アクセス id** と **契約 ID** が含まれます。 
 
 特定の種類の製品またはサービスに対してサポートリクエストを初めて送信するときに、お客様または会社のユーザーがこれらの製品サポート Id を共有することが必要になる場合があります。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [パートナーメンバーシップセンターからパートナーセンターへの移行](prepare-pmc-pc-migration.md)
 - [MPN コンピテンシーと特典についての詳細情報](learn-about-competencies.md)

@@ -1,52 +1,50 @@
 ---
-title: ロゴビルダーを使用してパートナーのロゴ、認定レター、またはアワードを作成する方法
+title: ロゴ ビルダーを使用してパートナー ロゴ、認定書、または特典を作成する方法
 ms.topic: article
 ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 会社が gold またはシルバーコンピテンシーを持っている場合は、会社用にカスタマイズされたロゴを生成するか、パートナーセンターのロゴビルダーツールを使用して、カスタマイズされた認証された認証文字を要求します。
+description: 会社に金またはシルバーのコンピテンシーがある場合は、会社用にカスタマイズされたロゴを生成するか、パートナー センター のロゴ ビルダー ツールを使用して、カスタマイズされた認定資格証明状を要求します。
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 72be76473dcb7afd3f8d6ae60d79599b10c025fc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132402"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152258"
 ---
-# <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>ロゴビルダーを使用してパートナーのロゴ、認定レター、またはアワードを作成する方法
+# <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>ロゴ ビルダーを使用してパートナーのロゴ、認定された文字、または特典を作成する方法
 
-**適切なロール**
+**適切なロール**: ロゴ ビルダーの詳細に関心を持つすべてのパートナー
 
-- ロゴビルダーの詳細を知りたいすべてのパートナー
+Silver または Gold コンピテンシーを獲得する価値は、顧客と差別化する機会です。 獲得したコンピテンシーまたはコンピテンシーを紹介するために、パートナー センター の販売およびマーケティング資料とビジネス プロファイルで使用できるロゴは、コンピテンシーの特典に含まれています。 
 
-シルバーまたはゴールドのコンピテンシーを獲得する価値は、顧客と区別するチャンスです。 お客様のコンピテンシーの特典に含まれているコンピテンシーまたはコンピテンシーを示すために、販売およびマーケティング資料とパートナーセンターのビジネスプロファイルで使用できるロゴ。 
+Azure Expert MSP プログラムに同意した場合、年間のパートナーを受け取った場合、または Microsoft Action Pack を購入した場合は、これらのプログラムに参加するロゴもロゴ ビルダーで利用できます。 ロゴ ビルダーのライブラリを使用して資産を格納し、販売およびマーケティング資料を作成する準備ができたらダウンロードできます。 
 
-Azure のエキスパート MSP プログラムに同意した場合、またはその受賞歴のパートナーを受け取った場合、または Microsoft Action Pack を購入した場合は、これらのプログラムへの参加に関するロゴも Logo Builder で入手できます。 ロゴビルダーでライブラリを使用してアセットを格納し、販売およびマーケティング資料を作成する準備ができたらダウンロードすることができます。 
+## <a name="what-is-available-in-logo-builder"></a>ロゴ ビルダーで使用できる機能
 
-## <a name="what-is-available-in-logo-builder"></a>ロゴビルダーで使用できるもの
+ロゴ ビルダーで会社で使用できるロゴは、お客様の Microsoft Partner Network (MPN) メンバーシップに合わせて調整されます。 新しいコンピテンシーの取得など、MPN メンバーシップの変更が反映されるには、最大で 24 時間かかります。
 
-ロゴビルダーでお客様の会社が利用できるロゴは、Microsoft Partner Network (MPN) のメンバーシップに合わせて調整されます。 新しいコンピテンシーの取得など、MPN のメンバーシップの変更が反映されるまで、最大で24時間かかります。
+ロゴ ビルダーで作成できるアセットには、次のものが含まれます。
 
-Logo Builder で作成できるアセットには、次のものがあります。
+- 会社が取得したコンピテンシーと高度な特殊化を検証する認定書
 
-- 企業が達成したコンピテンシーと高度な特殊化を検証する認定レター
+- Gold コンピテンシー ロゴを持つパートナー
 
-- Gold コンピテンシーロゴを持つパートナー
+- Silver コンピテンシー ロゴを使用したパートナー
 
-- シルバーコンピテンシーロゴ付きパートナー
+- Azure Expert MSPロゴ
 
-- Azure エキスパート MSP のロゴ
+- パートナーの特典ロゴ
 
-- パートナー受賞のロゴ
-
-- Microsoft Action Pack を購入したパートナー向けのロゴ
+- Microsoft サービスを購入したパートナーのロゴAction Pack
 
 ## <a name="create-a-logo-using-logo-builder"></a>ロゴ ビルダーを使用してロゴを作成する
 
-ロゴビルダーのプロファイルには、ロゴビルダーによって組織に関して保存される情報が含まれており、お客様の情報のみを対象としています。
+ロゴ ビルダー プロファイルには、ロゴ ビルダーが組織に関して保存する情報が含まれているのは、お客様の情報のみです。
 
 異なる事業所用に異なるロゴを作成した場合は、MPNID セレクターを使用して、表示または作成する事業所を選択できます。
 

@@ -2,43 +2,40 @@
 title: インセンティブに関する FAQ
 ms.topic: how-to
 ms.date: 02/05/2021
-description: Microsoft インセンティブに関してよく寄せられる質問。 この記事には、ユーザーロール、登録方法、またはエラーメッセージの処理方法に関する質問が含まれています。
+description: Microsoft インセンティブに関してよく寄せられる質問。 この記事には、ユーザー ロール、登録方法、エラー メッセージに関する操作に関する質問が含まれています。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a917f3648447ac273fae839d32a4b4d3ce80ae35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179498"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152020"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>インセンティブに関してよく寄せられる質問
 
-**適切なロール**
+**適切なロール**: インセンティブ管理者|インセンティブ ユーザー
 
-- インセンティブ管理者
-- インセンティブ ユーザー
+## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>インセンティブに登録するには、グローバル管理者である必要がありますか?
 
-## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>インセンティブに登録するには、グローバル管理者である必要がありますか。
+いいえ。 グローバル管理者とアカウント管理者はどちらも、ユーザーをインセンティブ管理者として割り当てできます。 インセンティブ管理者は、パートナーを通じて会社のインセンティブ プログラムを管理パートナー センター。 詳細については、「アクセス許可の概要 [」を参照してください](permissions-overview.md)。
 
-いいえ。 全体管理者とアカウント管理者は、ユーザーをインセンティブ管理者として割り当てることができます。 インセンティブ管理者は、パートナーセンターを通じて会社のインセンティブプログラムを管理します。 詳細については、「 [アクセス許可の概要](permissions-overview.md)」を参照してください。
+## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>会社が既に MPN (MPN) のメンバーである場合、Microsoft Partner Networkする必要がありますか?
 
-## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>会社が既に Microsoft Partner Network (MPN) のメンバーであることが判明した場合は、どうすればよいですか。
+MPN に参加しようとして、会社が既にメンバーである場合、MPN はドメインを認識し、既存のアカウントに関連付ける必要があります。 既存のアカウントは、同じ電子メール ドメインを使用している同じ会社または関連する会社、または複数のドメインを管理するために同じ Azure Activity Directory (Azure AD) である場合があります。
 
-MPN に参加しようとすると、会社が既にメンバーである場合、MPN はドメインを認識し、既存のアカウントに関連付けます。 既存のアカウントは、同じ電子メールドメインを使用している会社または関連会社である場合があります。また、同じ Azure アクティビティディレクトリ (Azure AD) を使用して複数のドメインを管理することもできます。
+[法的プロファイル] ページからプライマリ連絡先を特定できます。 場所が MPの場所である場合は、インセンティブを管理するために必要なアクセス許可を設定する必要があります。 ロールとアクセス許可の詳細については、「アクセス許可の概要 [」を参照してください](permissions-overview.md)。
 
-主要な連絡先は、[法的プロファイル] ページで確認できます。 場所が MPNHQ の場所である場合は、インセンティブを管理するために必要なアクセス許可を設定するだけで済みます。 ロールとアクセス許可の詳細については、「 [アクセス許可の概要](permissions-overview.md)」を参照してください。
+MPの場所と同じ国にいない場合は、このシナリオの詳細については、「多[](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso)国籍アカウントの手順」を参照してください。
 
-MPNHQ の所在地と同じ国にいない場合、このシナリオの詳細については、 [多国籍アカウントの説明](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) を参照してください。
+## <a name="what-user-roles-are-available"></a>使用できるユーザー ロールは何ですか?
 
-## <a name="what-user-roles-are-available"></a>使用できるユーザーロール
+既定では、会社を登録するユーザーパートナー センタープライマリ連絡先とグローバル管理者になります。 管理者は、ポータルでユーザーを招待および管理できます。
 
-パートナーセンターで会社を登録したユーザーは、既定では主要連絡先とグローバル管理者になります。 管理者は、ポータルでユーザーを招待および管理できます。
-
-インセンティブの主要な役割は、インセンティブ管理者とインセンティブユーザーです。 インセンティブ管理者は、インセンティブプログラムに登録し、パートナーの銀行と税金の詳細を管理できます。 インセンティブユーザーは、ツールでレポートを表示して、支払い額と各支払いの内訳を確認できますが、銀行の詳細を表示または編集することはできません。 どちらのロールも、パートナーグローバルアカウントの下のすべての場所に適用できます。
+インセンティブの主な役割は、インセンティブ管理者とインセンティブ ユーザーです。 インセンティブ管理者は、インセンティブプログラムに登録し、パートナーの銀行と税金の詳細を管理できます。 インセンティブユーザーは、ツールでレポートを表示して、支払い額と各支払いの内訳を確認できますが、銀行の詳細を表示または編集することはできません。 どちらのロールも、パートナーグローバルアカウントの下のすべての場所に適用できます。
 
 詳細については、「 [アクセス許可の概要](permissions-overview.md)」を参照してください。
 
@@ -64,17 +61,17 @@ MPNHQ の所在地と同じ国にいない場合、このシナリオの詳細�
 
 4. 既にインセンティブ管理者ロールを持っている場合は、お客様がアクセスできる MPN IDs およびインセンティブプログラムについて、会社の登録が表示されます。
 
-## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>インセンティブの概要ページに登録されていない登録があります。
+## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>一部の登録がインセンティブの概要ページに表示されます。
 
-ダッシュボードに表示されなくなったインセンティブプログラムを、から、またはに登録したことがある場合は、適切なアクセス権があるかどうかを再確認する必要があります。 インセンティブユーザーまたはインセンティブ管理者ロールを持つユーザーのみがプログラムを表示できます。 「 [ロールを検索する](./find-your-role.md)」を参照してください。
+ダッシュボードに表示されなくなったインセンティブ プログラムから招待を受け取った場合、または登録している場合は、適切なアクセス権を持っている必要があります。 プログラムを表示できるのは、インセンティブ ユーザーまたはインセンティブ管理者ロールを持つユーザーのみです。 「自分 [のロールを検索する」を参照してください](./find-your-role.md)。
 
-ロールまたはアクセス許可を変更する必要がある場合は、会社のグローバルまたはアカウント管理者にお問い合わせください。これらのユーザーについては、「 [グローバル管理者を見つける](./find-your-role.md#find-your-global-admin)」を参照してください。
+ロールまたはアクセス許可を変更する必要がある場合は、会社のグローバル管理者またはアカウント管理者にお問い合わせください。これらのユーザーの詳細については、「グローバル管理者を検索 [する」を参照してください](./find-your-role.md#find-your-global-admin)。
 
-[概要] ページには、Azure AD テナントに関連付けられているパートナーグローバルアカウント (PGA) に関連付けられている登録のみが表示されます。 会社に複数の PGA がある場合は、それぞれに異なる資格情報が必要になります。
+[概要] ページには、テナントに関連付けられているパートナー グローバル アカウント (PGA) に関連付けられている登録Azure ADされます。 会社に複数の PGA がある場合は、それぞれに異なる資格情報が必要です。
 
-## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>エラーメッセージが表示された場合、または登録プロセス中にヘルプが必要な場合は、どのユーザーに問い合わせる必要がありますか。
+## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>登録プロセス中にエラー メッセージが表示された場合、またはヘルプが必要な場合は、誰に問い合わせるべきですか?
 
-ダッシュボードの [インセンティブ] セクション内で問題が発生した場合は、オンラインサポートサービスがあります。サポートオプション (? アイコン) を右上にあります。
+ダッシュボードの [インセンティブ] セクションで問題が発生した場合は、オンライン サポート サービスがあります。サポート オプション (? アイコン) をクリックします。
 
 ## <a name="next-steps"></a>次のステップ
 

@@ -1,6 +1,6 @@
 ---
-title: FAQ-米国政府機関向けパートナーセンター-Microsoft Cloud
-description: 米国政府向け Microsoft Cloud 用のクラウドソリューションプロバイダー (CSP) プログラムに関するよく寄せられる質問 (FAQ) に対する回答を参照してください。
+title: FAQ - パートナー センター - Microsoft Cloud for US Government
+description: 詳細については、クラウド ソリューション プロバイダー (CSP) プログラムに関してよく寄せられる質問 (FAQ) に対する回答Microsoft Cloud for US Government。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,34 +8,30 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: c6625e2e35cee5d410a22c4a384012a294a97b5d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: e2bff940dc2d145a783dddad3a71aba14e1ba25a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172372"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150966"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問
 
-**適用対象**
+**適用対象**: パートナー センターのMicrosoft Cloud for US Government
 
-- 米国政府機関向け Microsoft Cloud のパートナー センター
-
-**適切なロール**
-
-- グローバル管理者
+**適切なロール**: グローバル管理者
 
 ## <a name="general-questions"></a>一般的な質問
 
-Microsoft Cloud for US Government のクラウド ソリューション プロバイダー (CSP) プログラムの詳細を確認するには、このよく寄せられる質問をご覧ください。 詳細については、アカウントマネージャーに問い合わせることもできます。
+Microsoft Cloud for US Government のクラウド ソリューション プロバイダー (CSP) プログラムの詳細を確認するには、このよく寄せられる質問をご覧ください。 詳細については、アカウント マネージャーに問い合わせすることもできます。
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud とは何ですか?
 
-米国政府機関向けに一から設計された、米国政府機関向け Microsoft Cloud により、大規模な連邦機関から小さな町の行政機関まで、米国の公共部門の顧客はさまざまなクラウド コンピューティング サービスを選択できます。 Microsoft は、お客様固有のニーズに対応するために、データセンターに多大な投資を行っており、米国連邦政府および州のポリシー、要件、および要件への準拠をサポートしています。
+米国政府機関向けに一から設計された、米国政府機関向け Microsoft Cloud により、大規模な連邦機関から小さな町の行政機関まで、米国の公共部門の顧客はさまざまなクラウド コンピューティング サービスを選択できます。 お客様の特定のニーズに対応するために、Microsoft はデータ センターに多大な投資を行い、米国連邦および州のポリシー、義務、要件への準拠に専念しています。
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud の CSP プログラムには、だれが参加できますか?
 
-米国連邦政府、州政府、地方行政機関を行政機関に提供している米国のパートナーは、米国政府向け Microsoft Cloud の CSP プログラムの対象となります。 Microsoft は、パートナーが米国政府向けに Microsoft Cloud にアクセスする前に、資格を決定するための厳格な検証プログラムを提供しています。 参加資格を得るには、政府機関の顧客と連携して業務を行っていることを証明する必要があります。 Microsoft の CSP プログラムのサインアッププロセスは、米国政府機関が、検証を実行するためにさらに多くのデータをキャプチャするように強化されています。 証明の種類としては、政府機関との契約番号や政府機関の顧客からの助成金証明書などがありますが、これらに限定されるわけではありません。
+米国連邦政府米国政府機関の機関にサービスを提供する米国政府機関のパートナーは、米国政府向け CSP プログラムのMicrosoft Cloud for US Government。 Microsoft には、パートナーがアクセスする前に資格を決定する厳格な検証プログラムMicrosoft Cloud for US Government。 参加資格を得るには、政府機関の顧客と連携して業務を行っていることを証明する必要があります。 Microsoft Could for US Government の CSP プログラムのサインアップ プロセスは、検証を実行するためにより多くのデータをキャプチャするために拡張されました。 証明の種類としては、政府機関との契約番号や政府機関の顧客からの助成金証明書などがありますが、これらに限定されるわけではありません。
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>顧客向けの価格設定は商用 CSP の場合と同じですか?
 
@@ -43,21 +39,21 @@ Microsoft Cloud for US Government のクラウド ソリューション プロ�
 
 ### <a name="is-the-partner-discounting-model-the-same"></a>パートナー向けの割引モデルは同じですか?
 
-はい。 米国政府向け Microsoft Cloud 用の CSP プログラムのパートナーディスカウントモデルは、CSP コマーシャルのパートナーディスカウントモデルと同じです。
+はい。 CSP プログラム for Microsoft Cloud for US Governmentパートナー割引モデルは、CSP Commercial のパートナー割引モデルと同じです。
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>商用 CSP は、既存のパートナー プログラムです。 これと米国政府機関向け Microsoft Cloud の CSP プログラムは、どのように違うのですか?
 
-米国政府向け Microsoft Cloud の CSP プログラムは、次の領域における CSP コマーシャルとは異なります。
+次の領域では、Microsoft Cloud for US Government CSP プログラムは CSP Commercial とは異なります。
 
-- 資格: 米国政府向け Microsoft Cloud の CSP プログラムは、米国連邦政府、州政府、地方自治体の各機関に対して政府の能力を提供する米国のパートナーにのみご利用いただけます。 マイクロソフトは、パートナーが米国政府機関向け Microsoft Cloud にアクセスする前に、参加資格の決定について検証プログラムを実施しています。
+- 適格性: Microsoft Cloud for US Government の CSP プログラムは、米国連邦政府、州政府、および政府機関の機関にサービスを提供する 米国 のパートナーだけが利用できます。 マイクロソフトは、パートナーが米国政府機関向け Microsoft Cloud にアクセスする前に、参加資格の決定について検証プログラムを実施しています。
 
 - オンボード: 米国政府機関向け Microsoft Cloud の CSP プログラムには、商用 CSP とは別のオンボードが必要です。
 
-- 製品の利用可能性: 米国政府機関向けの Microsoft Cloud については、Azure Government とライセンスベースのサービス (Office 365、Enterprise Mobility + Security、Dynamics 365 など) の両方を CSP プログラムで利用できます。
+- 製品の可用性: office 365、Enterprise Mobility + Security、Dynamics 365 など、Azure Government サービスとライセンス ベースのサービスの両方が、Microsoft Cloud for US Government の CSP プログラムで利用できます。
 
 - 契約: Microsoft クラウド リセラー契約 (MCRA) が、固有の政府機関向けの条件を反映するように更新されました。
 
-- パートナー センターの機能: 法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムについては、パートナー センターの一部の機能が有効になりません。 パートナーは、代わりに Azure Active Directory (Azure AD) や [Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) を使用して、ユーザーとグループの管理に関連するタスクを実行できます。 米国政府向けの Microsoft Cloud のためにライセンスベースのサービスを CSP で利用できる場合は、マルチチャネルとマルチパートナーのシナリオをサポートするリレーションシップ要求機能を、起動後に利用できるようになります。
+- パートナー センターの機能: 法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムについては、パートナー センターの一部の機能が有効になりません。 パートナーは、代わりに Azure Active Directory (Azure AD) や [Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) を使用して、ユーザーとグループの管理に関連するタスクを実行できます。 マルチチャネルおよびマルチパートナーのシナリオをサポートするリレーションシップ要求機能は、ライセンスベースのサービスが csp for Microsoft Cloud for US Government で利用できる場合に、起動後に使用できます。
 
 ### <a name="i-am-not-a-csp-partner-yet-where-can-i-find-more-information-on-how-to-become-a-csp-partner"></a>まだ CSP パートナーではありません。 CSP パートナーになる方法に関する詳しい情報はどこで確認できますか?
 
@@ -131,7 +127,7 @@ Azure Government クラウドは、セキュリティ、プライバシーと管
 
 ### <a name="are-there-any-differences-in-apis"></a>API の相違点はありますか?
 
-米国政府機関向け Microsoft Cloud の CSP プログラムにおける API および統合要件は、商用 CSP の場合と同じです。 米国政府の Microsoft Cloud のエンドポイントの詳細については、「 [パートナーセンターの REST url](/partner-center/develop/partner-center-rest-urls)」を参照してください。
+米国政府機関向け Microsoft Cloud の CSP プログラムにおける API および統合要件は、商用 CSP の場合と同じです。 のエンドポイントの詳細については、「MICROSOFT CLOUD FOR US GOVERNMENT REST URL [パートナー センターを参照してください](/partner-center/develop/partner-center-rest-urls)。
 
 >[!NOTE]
 >Microsoft Cloud for US Government の CSP プログラムでは、CREST API を使用できません。 これらの API は CSP で廃止に向けて処理中であるため、米国政府機関向け Microsoft Cloud でも使用できません。 法規制とコンプライアンスの要件を満たすために、米国政府機関向け Microsoft Cloud の CSP プログラムでは、次の API は利用できません。
@@ -154,13 +150,13 @@ Azure Government クラウドは、セキュリティ、プライバシーと管
 
 ### <a name="is-there-a-workaround-for-apis-not-available-in-the-csp-program-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government の CSP プログラムで使用できない API について、回避策はありますか?
 
-パートナーは、パートナーのユーザーアカウント管理に Azure portal、Azure AD PowerShell、または Graph API を使用できます。 詳細については、「 [Government Cloud のパートナーセンターを使用した開発](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)」を参照してください。
+パートナーは、PowerShell Azure portal、Azure AD、またはパートナー ユーザー アカウント管理Graph APIを使用できます。 技術的な情報については、「Government Cloud 向け パートナー センター [を使用した開発」を参照してください](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)。
 
 ## <a name="questions-about-other-resources"></a>その他のリソースに関する質問
 
 ### <a name="where-can-i-learn-more"></a>詳細情報を得るには?
 
-次のリンクを使用して、CSP プログラムについて理解し、米国政府向け Microsoft Cloud のパートナーセンターでの開発について学ぶことができます。
+次のリンクを使用して、CSP プログラムについて理解し、パートナー センター を使用Microsoft Cloud for US Government。
 
 - [Azure Government について](https://azure.microsoft.com/overview/clouds/government/)
 
@@ -170,9 +166,9 @@ Azure Government クラウドは、セキュリティ、プライバシーと管
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>他にも質問がある場合は?
 
-詳細については、アカウントマネージャーにお問い合わせください。 さらに、[Azure Government の CSP](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777) に固有の Yammer グループにご参加ください。
+詳細については、アカウント マネージャーにお問い合わせください。 さらに、[Azure Government の CSP](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777) に固有の Yammer グループにご参加ください。
 
 ## <a name="next-steps"></a>次のステップ
 
-- [米国政府向けの Microsoft Cloud については、Cloud Solution Provider プログラムに登録して](enroll-in-csp-for-microsoft-us-govt-cloud.md)ください。
-- [米国政府向け Microsoft Cloud パートナーセンターの詳細情報](partner-center-for-microsoft-us-govt-cloud.md)
+- [を使用して、クラウド ソリューション プロバイダー プログラムに登録Microsoft Cloud for US Government。](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+- [詳細については、パートナー センターのMicrosoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

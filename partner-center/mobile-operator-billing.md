@@ -9,18 +9,16 @@ ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, 携帯電話会社, 携帯電話への課金, 携帯電話会社による課金
 ms.localizationpriority: medium
-ms.openlocfilehash: 20ce286814682277e375894e99f947d084206246
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 70d1d05911c927832ae82a402b0c17be52e39cfa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172389"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151544"
 ---
 # <a name="mobile-operator-billing"></a>携帯電話会社による課金
 
-**適切なロール**
-
-- グローバル管理者
+**適切なロール**: グローバル管理者
 
 > [!NOTE]
 > 支払いに関するサポートが必要な場合 (支払いアカウントの構成、行われていない支払い、支払いの保留など) は、[こちら](https://developer.microsoft.com/windows/support)からサポートにお問い合わせください。

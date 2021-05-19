@@ -9,26 +9,18 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 19753f4fb848262fc8bed146427f0652096f6902
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086517"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151085"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>EU & EFTA 国の顧客に販売するパートナーの Microsoft Cloud ドイツのパートナーセンター
 
-**適用対象**
+**適用対象**: Microsoft Cloud ドイツのパートナーセンター
 
-- Microsoft Cloud ドイツのパートナー センター
-
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- 管理エージェント
-- 販売代理店
-- 課金管理者
+**適切なロール**: 全体管理者 |ユーザー管理の管理者 |管理エージェント |Sales agent |課金管理者
 
 Microsoft Cloud ドイツは、厳密なドイツのデータ保護要件を満たすように設計されています。また、ドイツ法に基づいて顧客データへの物理的および論理的アクセスを管理するドイツ データ トラスティを含みます。 すべての顧客データ、および顧客データへのアクセスを処理または制御するシステムは、ドイツのデータセンターに存在します。 これらのデータセンター間のネットワークは、ドイツ国内で分離されています。
 

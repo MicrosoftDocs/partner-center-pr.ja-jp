@@ -1,59 +1,52 @@
 ---
-title: Microsoft のプランで市場に投入する方法について説明します
+title: Microsoft オファーを使用した Go-To-Market について学習する
 ms.topic: article
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft による市場投入までの時間を短縮し、潜在顧客を生み出し、ビジネスを拡大するのに役立つ情報を提供します。
+description: Microsoft オファーを使用した Go-To-Market を使用して、市場投入までの時間を加速し、リードを生成し、ビジネスを拡大する方法について説明します。
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475264"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152241"
 ---
-# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft のプランで市場を開拓する
+# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft プランを使用した市場進出を検討する
 
-**適切なロール**
+**適切なロール**: グローバル管理者|MPN パートナー管理者
 
-- グローバル管理者
-- MPN パートナー管理者
+新しいメンバー Microsoft Partner Network、ビジネスの構築と拡大に役立つメンバーシップ特典にアクセスできます。 Microsoft のリソース、オファー、プログラムを使用した Go-To-Market は、パートナーのメンバーとして受け取る多くのMicrosoft Partner Networkです。 [](https://partner.microsoft.com/manage-your-partner-network-benefits)
 
-Microsoft Partner Network メンバーになると、ビジネスの構築と拡大に役立つメンバーシップ特典にアクセスできるようになります。 Microsoft のリソース、オファリング、およびプログラムは、Microsoft Partner Network メンバーとして提供される [多くの利点](https://partner.microsoft.com/manage-your-partner-network-benefits) を備えています。
-
-市場投入までの時間を短縮し、潜在顧客を生み出し、ビジネスを拡大するのに役立つ、販売とマーケティングに関する専用リソースへのアクセスを提供します。
+Go-To-Market オファーを使用すると、市場投入までの時間を加速し、リードを生成し、ビジネスを拡大するのに役立つ、排他的な販売およびマーケティング リソースにアクセスできます。
 
 >[!NOTE]
->まだ Microsoft Partner Network のメンバーでない場合は、 [Microsoft Partner Network サイト](https://partner.microsoft.com/membership)で参加します。
+>まだアプリケーションのメンバーではない場合は、Microsoft Partner Network サイト [で参加Microsoft Partner Networkします](https://partner.microsoft.com/membership)。
 
-## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>メンバーシップレベルで利用可能なマーケットプレースリソース、プラン、およびプログラム
+## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Go-To-Market のリソース、オファー、およびメンバーシップ レベルで利用可能なプログラム
 
-市場開拓の特典は、特定のレベルの MPN メンバーシップ、特殊化、および実現した [コンピテンシー](learn-about-competencies.md) によって異なります。
+Go-To-Market オファーは、特定のレベルの MPN メンバーシップ、特殊化、および達成したコンピテンシー [によって異なります](learn-about-competencies.md) 。
 
-すべての MPN メンバーは、特定の standard GTM リソースにアクセスできます。 これには、すぐに利用できるマーケティング資産、販売有効化プラットフォーム、オンデマンドのデジタルマーケティングへのアクセスが含まれます。 また、パートナーは、シルバーまたはゴールドのコンピテンシーや ISV パートナーが共同販売の準備ができている場合でも、さらに多くのマーケットプレースプランとプログラムを利用できます。
+すべての MPN メンバーは、特定の標準 GTM リソースにアクセスできます。 これには、すぐに使用できるマーケティング資産、販売有効化プラットフォーム、オンデマンド デジタル マーケティングへのアクセスが含まれます。 また、Silver または Gold コンピテンシーを達成するパートナーや、共同販売可能なオファーを持つ ISV パートナーが利用できる Go-To-Market オファーやプログラムもさらに多く用意されています。
 
 >[!NOTE]
->マーケットプレースリソース、オファー、プログラムは、追加と変更の対象となります。 [Microsoft Partner Network の [市場開拓] ページ](https://partner.microsoft.com/membership/go-to-market) にアクセスして、パートナーが共同販売の準備ができたさまざまなコンピテンシーレベルや ISV パートナーに提供されている最新のマーケットプレースリソースとプランを確認してください。
+>Go-To-Market のリソース、オファー、プログラムは、追加と変更の対象になります。 Microsoft Partner Network [Go-To-Market](https://partner.microsoft.com/membership/go-to-market) ページに移動して、さまざまなコンピテンシー レベルを達成するパートナーや、共同販売可能なオファーを持つ ISV パートナーが利用できる最新の Go-To-Market リソースとオファーについて学習します。
 
-**シルバー** コンピテンシーレベルや、共同販売インセンティブを受けている ISV パートナーが提供するその他のマーケットプレースプランをご利用いただけます。
+**Silver** コンピテンシー レベルのユーザーや、共同販売インセンティブ対象オファーを持つ ISV パートナーが利用できるその他の Go-To-Market オファー:
 
-- すべての MPN standard 市場向けリソース
-- ビジネスプロファイルの最適化と参照の管理
-- Microsoft との販売方法
+- すべての MPN 標準 Go-To-Market リソース
+- ビジネス プロファイルの最適化と紹介管理
+- Microsoft を使用して市場に出す方法
 
 パートナーは、 **ゴールド** コンピテンシーレベルや ISV パートナーと協力して、インセンティブを受けた特典をご利用いただけます。
 
 - すべての MPN standard 市場向けリソース
 - すべてのシルバー/ISV 共同販売準備完了市場向けプラン
-- 1ポケットベルの共同ブランド化
-- 共同ブランド化プレゼンテーション
-- 共同ブランド化のケーススタディ
-- Microsoft executive quote でリリースを押す
-- 共同ブランド社会のマーケティング
+- パートナー向け市場投入ツールボックス 
 
 ## <a name="view-go-to-market-membership-offers-in-partner-center"></a>パートナーセンターで市場開拓のメンバーシッププランを表示する
 
@@ -65,7 +58,7 @@ Microsoft Partner Network メンバーになると、ビジネスの構築と拡
 
    - **[概要]** を選択します。 [ **クイックリンク** ] セクションまでスクロールし、[ **マーケット** プレース] タブを選択します。
 
-     or
+     または
 
    - [ **特典** ] を選択し、[ **マーケット** プレース] を選択します。
 

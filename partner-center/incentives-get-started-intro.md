@@ -8,19 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 1b595afdba9ab9192c859c00fc35757ea2e24244
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 53ae5c3cf47ab74ad7dc61777ce512b37f4269fa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179125"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152037"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>これらのリソースを使用してインセンティブを使い始める
 
-**適切なロール**
-
-- インセンティブ管理者
-- インセンティブ ユーザー
+**適切なロール**: インセンティブ admin |インセンティブユーザー
 
 この記事では、Microsoft インセンティブプログラムを簡単に紹介し、作業を開始するのに役立ついくつかのインセンティブリソースについて説明します。
 

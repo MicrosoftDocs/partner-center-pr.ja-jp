@@ -9,20 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: caea2002b5edc2958c0af316762408e309bcf14a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124807"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151204"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>パートナーセンターアカウントで複数のテナントを追加して管理する
 
 
-**適切なロール**
-
-- グローバル管理者
-- アカウント管理者
+**適切なロール**: 全体管理者 |アカウント管理者
 
 この記事では、会社の複数の Azure Active Directory (Azure AD) テナントを統合し、パートナーセンターアカウントで追加および管理する方法について説明します。 これには多くの理由があります。 次に例を示します。
 
@@ -46,32 +43,32 @@ ms.locfileid: "102124807"
 
 1. [ **関連付け**] を選択し、関連付けるテナントを指定します。
 
-1. プロンプトで、関連付けるテナントにグローバル管理者としてサインインし、[ **確認**] を選択します。 
+1. プロンプトで、関連付けるテナントにグローバル管理者としてサインインし、[確認] を **選択します**。 
 
-   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="[新しい Azure AD の関連付けの確認] ウィンドウの [確認] ボタンのスクリーンショット。"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="[Confirm new Azure AD association]/(新しいグループの関連付けを確認するAzure ADボタンのスクリーンショット。"::: 
 
-   関連付けを確認すると、すべての **設定** メッセージが表示されます。 新しく追加されたテナントを表示するには、[ **テナント管理に戻る**] を選択します。 
+   関連付けを確認すると、[すべての設定 **] メッセージ** が表示されます。 新しく追加されたテナントを表示するには、[テナント管理に戻 **る] を選択します**。 
  
 >[!NOTE]
->既に別のパートナーセンターアカウントに関連付けられている場合、そのテナントをアカウントに関連付けることはできません。
+>テナントが別のアカウントに既に関連付けられている場合、テナントをアカウントパートナー センターできません。
 
 
 ## <a name="remove-a-tenant-from-your-account"></a>アカウントからテナントを削除する
  
-1. グローバル管理者として [Microsoft パートナーセンター](https://partner.microsoft.com/dashboard)にサインインします。
+1. グローバル管理者として Microsoft パートナー センター に [サインインします](https://partner.microsoft.com/dashboard)。
 
-1. 右上にある [ **設定** ] アイコンを選択し、[ **アカウントの設定**] を選択します。
+1. 右上にある [設定] アイコン **を選択し** 、[アカウント設定] **を選択します**。
 
-1. 左側のウィンドウで、[ **テナント**] を選択します。 [ **Azure AD テナントの管理**] で、[ **パートナー** ] タブを選択します。
+1. 左側のウィンドウで、[テナント] **を選択します**。 [ **テナントのAzure AD管理] で**、[パートナー] タブ **を選択** します。
  
-1. 関連付けを削除するテナントの横にある [ **削除** ] を選択します。
+1. 関連 **付けを** 削除するテナントの横にある [削除] を選択します。
 
-   :::image type="content" source="images/disassociate.png" alt-text="現在のテナントの関連付けとその削除リンクのスクリーンショット。":::
+   :::image type="content" source="images/disassociate.png" alt-text="現在のテナントの関連付けとその [削除] リンクのスクリーンショット。":::
 
-   前のスクリーンショットに示されているように、関連付けられているすべてのテナントに対して [ **削除** ] リンクが有効になっています。ただし、プライマリテナントと、現在サインインしているテナントは除きます。 
+   前のスクリーンショットに示すように、プライマリテナントと現在サインインしているテナントを除き、関連付けられているすべてのテナントに対して [リンクの削除] リンクが有効になっています。 
 
    > [!NOTE]   
-   > テナントを削除すると、そのテナントのユーザーはパートナーセンターアカウントにアクセスできなくなり、削除がコンピテンシーに影響を与える可能性があります。 
+   > テナントを削除すると、そのテナントのユーザーは パートナー センター アカウントにアクセスできなくなったので、その削除はコンピテンシーに影響を与える可能性があります。 
 
 ## <a name="next-steps"></a>次の手順
 

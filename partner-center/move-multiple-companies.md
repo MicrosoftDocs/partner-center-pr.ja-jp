@@ -1,41 +1,36 @@
 ---
-title: PMC からパートナーセンターへの会社の移行
+title: PMC からクラウドへの企業の移行パートナー センター
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナーメンバーシップセンター (PMC) からパートナーセンターに複数の企業を移行し、パートナーのグローバルアカウントに統合する場合の注意事項。
+description: 複数の企業を Partner Membership Center (PMC) から パートナー センターに移行し、パートナー グローバル アカウントに統合する場合に知る必要がある情報。
 author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 2c9973bf82957cd017abfc59c25b0c17173cb3f8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132657"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151595"
 ---
-# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>パートナーメンバーシップセンターからの複数の企業のパートナーセンターへの移行 (PMC)
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>複数の企業を パートナー センター から Partner Membership Center (PMC) に移行する
 
-**適切なロール**
+**適切なロール**: グローバル管理者|ユーザー管理管理者|管理エージェント |セールス エージェント
 
-- グローバル管理者
-- ユーザー管理の管理者
-- 管理エージェント
-- 販売代理店
-
-会社アカウントを PMC からパートナー センターに移動するときに、複数のアカウントを移動する場合があります。 パートナー センターでは、これらのアカウントは 1 つのグローバル アカウント (PGA) に統合されます。 移動する最初のアカウントは、パートナーのグローバルアカウントと見なされ、それ以降のすべてのアカウントは、最初のアカウントの場所として統合されます。 会社の本社の PMC アカウントを使用して移動を開始します。 詳細については、 [PMC からパートナーセンターへの移行に関するガイドを参照する](guide-to-migration.md) か、この短いビデオ [マルチロケーションアカウントを簡単](https://vimeo.com/290335248)にご覧ください。
+会社アカウントを PMC からパートナー センターに移動するときに、複数のアカウントを移動する場合があります。 パートナー センターでは、これらのアカウントは 1 つのグローバル アカウント (PGA) に統合されます。 最初に移動したアカウントはパートナー グローバル アカウントと見なされ、それ以降のすべてのアカウントは場所として最初のアカウントに統合されます。 会社の本社の PMC アカウントを使用して移動を開始します。 詳細については [、「PMC](guide-to-migration.md) から パートナー センター への移行に関するガイド」を参照するか、この短いビデオ [「Multi-location accounts made easy」をご覧ください](https://vimeo.com/290335248)。
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>追加のアカウントをパートナー センターに移動する
 
-既にパートナーセンターに1つの会社アカウントを移動したので、サインインすると、パートナーセンターに既に存在するアカウントを知ることができます。
+既に 1 つの会社アカウントを パートナー センター に移動済みなので、サインインすると、既にサインインしているアカウントパートナー センター。
 
-移行した後、間違った会社のアカウントが法務業務として指定されていることがわかった場合は、その指定を変更できます。
+移行後に、間違った会社アカウントが法的ビジネスとして指定されている場合は、その指定を変更できます。
 
 1. ご自身の **パートナー プロファイル** に移動します。
 
-2. 法務業務として指定する場所が場所の一覧にあることを確認します。 ない場合は、追加します。
+2. 法的ビジネスとして指定する場所が場所の一覧に含されていないことを確認します。 ない場合は、追加します。
 
 3. **[Update legal business profile]\(法的ビジネスプロファイルの更新\)** を選択します。
 
@@ -65,7 +60,7 @@ ms.locfileid: "106132657"
 
 - この統合中、すべての MPN ID が保持されます
 
-- 既存のコンピテンシー (Gold/シルバー)、購入 (MAPS/Gold/シルバー)、および関連する特典はすべて、統合中に保持されます。
+- 既存のすべてのコンピテンシー (Gold/Silver)、購入 (MAPS/Gold/Silver)、および関連する特典は、統合中に保持されます
 
 - 会社のメール ID を使用してログインしたユーザーは、必要に応じてアカウントを管理できるように、MPN 管理者およびアカウント管理者として既存のパートナー センター アカウントに自動的に追加されます
 
@@ -76,11 +71,11 @@ ms.locfileid: "106132657"
 詳細は PMC の情報に基づいており、会社が正当であることを確認するために検証されます。
 
 
-:::image type="content" source="images/migration/review.png" alt-text="詳細の確認":::
+:::image type="content" source="images/migration/review.png" alt-text="詳細を確認する":::
 
 移動するアカウントが、既存のアカウントと同じ国または地域にある場合は、その住所を使用するか、別の住所を追加するかを決めることができます。 別の住所を使用する場合は、その住所が検証されます。 同じ住所を使用する場合は、既存の住所と主要連絡先が使用されます。
 
-この画面で情報を確認し、編集した後、[ **送信** ] を選択すると、アカウントが統合されます。
+この画面で情報を確認または編集したら、[送信] を **選択** すると、アカウントが統合されます。
 
 ## <a name="partner-profile"></a>パートナー プロファイル
 

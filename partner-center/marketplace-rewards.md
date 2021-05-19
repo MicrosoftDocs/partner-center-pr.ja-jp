@@ -4,33 +4,29 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: プランを商用マーケットプレースに発行するパートナーは、マーケティングサポートを提供する特典の対象となります。
+description: コマーシャル マーケットプレースにオファーを発行するパートナーは、マーケティング サポートを提供する特典の対象となります。
 author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e279ad8299def820287207c36c670c6051e26f2f
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 51b7bd4846826db86f5d9c6e5e087e285dd026c0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686247"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151680"
 ---
-# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>パートナーセンターで Marketplace の特典を管理して、マーケティング、販売、および技術的な特典を有効に &
+# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>マーケティングMarketplace Rewards、およびパートナー センター &の利点をアクティブ化する方法で管理する
 
-**適切なロール**
+**適切な** ロール: MPN パートナー管理者|グローバル管理者|管理エージェント
 
-- MPN パートナー管理者
-- グローバル管理者
-- 管理エージェント
+ソフトウェア オファーをコマーシャル マーケットプレースに発行する場合、Marketplace Rewards、マーケティング、販売、技術的な利点を持つすべてのオファーを対象としたサポートが提供されます。
 
-マイクロソフトの商用マーケットプレースにソフトウェアプランを公開すると、Marketplace の特典により、マーケティング、販売、および技術的な利点を含むすべてのプランを対象としたサポートが提供されます。
-
-Marketplace 報酬の適格性は、PGA MPN company にリンクされているすべての発行元プロファイルに基づいて計算されます。 Marketplace の報奨プログラムの資格を確認するには、パートナーセンターの [marketplace の特典](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)に関するページを参照してください。
+Marketplace Rewardsは、PGA MPN 企業にリンクされているすべての発行元プロファイルに基づいて計算されます。 プログラムの対象を確認するには、Marketplace Rewards ページに移動 [パートナー センター Marketplace Rewardsします](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)。
 
 ## <a name="sales-and-marketing-benefits"></a>売上とマーケティングの利点
 
-1. パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)で、Marketplace の特典ページの [ **Sales and Marketing 特典** ] タブを選択して、特典の一覧を表示します。 
+1. ダッシュボードからパートナー センター [ページ](https://partner.microsoft.com/dashboard)の **[Sales and Marketing benefits]/(** 売上とマーケティングのベネMarketplace Rewardsタブを選択して、特典の一覧を表示します。 
 
 2. 販売とマーケティングのベネフィットを有効にするには、最初に会社のマーケティングの連絡先を割り当てる必要があります。 この連絡先には、Marketplace Rewards に関するフォローアップ通信が送られます。
 
@@ -54,19 +50,19 @@ Marketplace 報酬の適格性は、PGA MPN company にリンクされている�
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>ダッシュボードに商業市場の報奨プログラムが表示されないのはなぜですか?
 
-Marketplace の報酬情報は、パートナーセンターアカウントの作成に使用された Azure AD テナントと MPN ID を通じて入手できます。 このアカウントは、会社のパートナーグローバルアカウント (PGA) と呼ばれます。 Azure AD テナントが MPN オンボードとは異なる場合、商用の報奨マーケットプレースメニューを表示するには、会社の PGA に関連付ける必要があります。
+Marketplace の報酬情報は、Azure ADアカウントの作成に使用されたテナントと MPN ID をパートナー センターできます。 このアカウントは、会社のパートナー グローバル アカウント (PGA) と呼ばれるアカウントです。 Azure AD テナントが MPN オンボードに使用されているテナントと異なる場合は、[Commercial Rewards Marketplace] メニューを表示するには、それを会社の PGA に関連付ける必要があります。
 
-### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Azure AD テナントを会社の PGA と関連付けるには
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>テナントを会社Azure AD PGA に関連付けるには
 
-1. 全体管理者またはアカウント管理者として、パートナーセンターの PGA にサインインします。
+1. グローバル管理者またはアカウント管理者として、次のページで PGA にパートナー センター。
 
-2. [ **設定** ] (右上)、[ **アカウントの設定**]、[ **テナント**] の順に選択します。 
+2. [**設定]** (右側)、[アカウント設定 **]、[テナント]****の 3 つのオプションを選択します**。 
 
-3. [ **別の Azure AD テナントに関連付ける** ] を選択し、PGA に関連付ける Azure AD テナントを選択します。
+3. [Associate **another Azure AD tenant]** を選択し、PGA に関連Azure ADするテナントを選択します。
 
-4. 関連付ける Azure AD テナント内の任意のユーザーのユーザー名とパスワードを追加し、[ **送信**] を選択します。
+4. 関連付けるテナント内の任意のユーザーのAzure ADパスワードを追加し、 [送信] を **選択します**。
 
-5. パートナーセンターからサインアウトし、PGA に関連付けたテナントのユーザー名とパスワードを使用してサインインします。
+5. サインインからパートナー センター、PGA に関連付けだけのテナントのユーザー名とパスワードを使用してサインインします。
 
-6. これで、左側のナビゲーションメニューにコマーシャル特典マーケットプレースプログラムの情報が表示されるようになります。
+6. これで、左側のナビゲーション メニューに Commercial Rewards Marketplace プログラムの情報が表示されます。
 

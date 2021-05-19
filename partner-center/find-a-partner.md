@@ -8,18 +8,16 @@ description: Microsoft パートナーとして、お客様や特定のプログ
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: be12ede0c725a859892985e4cfb9032d7fb2abe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172338"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150949"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>プログラム、ライセンス、または顧客の取引に関する質問に回答するパートナーまたはソリューションプロバイダーを見つける 
 
-**適切なロール**
-
-- すべての Microsoft パートナー
+**適切な役割**: すべての Microsoft パートナー
 
 この記事では、microsoft パートナーが microsoft の製品とサービスを成功させるために役立つ他のパートナーを見つける方法について説明します。
 
@@ -46,4 +44,4 @@ CSP プログラムにおけるパートナー関係の詳細については、 
 ## <a name="next-steps"></a>次のステップ
 
 - [CSP プログラムで間接リセラーになる](https://partner.microsoft.com/licensing)
-- [CSP プログラムにおける間接リセラーと間接プロバイダーについての詳細情報](work-with-other-partners.md)
+- [CSP プログラムの間接リセラーと間接プロバイダーの詳細を確認する](work-with-other-partners.md)

@@ -9,21 +9,16 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 5ba6992eff64031aed0dafeb5a5010983396ab63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132742"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151646"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Dynamics 365 および Customer Engagement プランの Basic (対象プラン) から新しいバージョンへの移行
 
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- 管理エージェント
-- 販売代理店
+**適切なロール**: 全体管理者 |ユーザー管理の管理者 |管理エージェント |営業担当者
 
 2019年1月1日より、Basic (認定提供) サブスクリプションの Dynamics 365 for Sales/Customer Engagement プランをお持ちのお客様は、これらのレガシプランを更新できなくなります。既存のサブスクリプションは、有効期限が切れると自動的に更新されません。 サブスクリプションの詳細ページで、[日付] の [自動更新] の [日付] にサブスクリプションの状態が [有効期限切れ] に変わります。 
 
@@ -42,30 +37,30 @@ API (CREST またはパートナーセンター) を使用する場合は、サ�
 - 学生向けの SA からの Dynamics 365 for Sales Enterprise Edition for CRM Basic (認定オファー)
 - Dynamics 365 for Sales Enterprise Edition (Government 価格) From CRM Basic (限定プラン)
 - CRM Basic の Dynamics 365 for Sales Enterprise Edition Add-On (修飾プラン)
-- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (認定オファー) for 教職員
-- 学生向けの Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (認定オファー)
-- CRM Basic の Dynamics 365 for Sales Enterprise Edition (Government 価格) Add-On (修飾プラン)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (限定プラン)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition (Government 価格) CRMOL Basic (限定プラン)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (認定オファー) for Students
-- Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (認定プラン) (教職員向け)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition for CRM Basic (限定プラン)
-- Dynamics 365 カスタマーエンゲージメントプラン Enterprise Edition (Government 価格) (SA for CRM Basic) (限定プラン)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition for CRM Basic (認定オファー) for Students
-- Dynamics 365 カスタマーエンゲージメントプラン Enterprise Edition for CRM Basic (認定オファー) for 教職員
-- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (限定プラン)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition (Government 価格) Add-On CRM Basic (認定プラン)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for Students for CRM Basic (認定オファー)
-- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (認定オファー) for 教職員
+- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (資格のあるオファー) for Faculty
+- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (修飾オファー) for Students
+- Dynamics 365 for Sales Enterprise Edition (Government Pricing) Add-On for CRM Basic (限定オファー)
+- Dynamics 365 Customer Engagement プラン Enterprise Edition CRMOL Basic (限定オファー)
+- Dynamics 365 Customer Engagement プラン Enterprise Edition (Government 価格) CRMOL Basic (限定オファー)
+- Dynamics 365 Customer Engagement プラン Enterprise Edition CRMOL Basic (限定オファー) for Students
+- Dynamics 365 Customer Engagement プラン Enterprise Edition CRMOL Basic (資格のあるオファー) for Faculty
+- Dynamics 365 Customer Engagement プラン Enterprise Edition SA for CRM Basic (限定オファー) から
+- Dynamics 365 Customer Engagement プラン Enterprise Edition (Government 価格) FROM SA for CRM Basic (限定オファー)
+- Dynamics 365 Customer Engagement プラン Enterprise Edition SA for CRM Basic (資格のあるオファー) から受講者向けプラン
+- Dynamics 365 Customer Engagement プラン Enterprise Edition CRM Basic (資格のあるオファー) for Faculty の SA から
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (限定オファー)
+- Dynamics 365 Customer Engagement プラン Enterprise Edition CRM Basic (限定オファー) Add-On (Government 価格) プラン
+- Dynamics 365 Customer Engagement プラン Enterprise Edition Add-On CRM Basic (適格オファー) for Students
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (資格のあるオファー) for Faculty
 
 
 
-## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Basic (認定オファー) 置換プランからの Sales/Customer Engagement プランの Dynamics 365
+## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Dynamics 365 for Sales/ Customer Engagement Plan from Basic (修飾オファー) 交換プラン
 
-**提供終了**   
+**廃止されたオファー**   
 
-- CRM Basic または CRMOL Basic (修飾プラン) からの Sales の Dynamics 365
-- CRM Basic または CRMOL Basic (限定プラン) からの Dynamics 365 カスタマーエンゲージメントプラン
+- Dynamics 365 for Sales from CRM Basic または CRMOL Basic (限定オファー)
+- CRM Basic または CRMOL Basic (限定オファー) の Dynamics 365 Customer Engagement プラン
 
 **置換オプション**
 - Dynamics 365 for Sales Professional (新規)

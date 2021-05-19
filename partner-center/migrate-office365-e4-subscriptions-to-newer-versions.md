@@ -9,21 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f738ddace805838cdf202c23cca8535c11cbdf54
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132623"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151561"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 サブスクリプションの Office 365 の新しいバージョンへの移行
 
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- 管理エージェント
-- 販売代理店
+**適切なロール**: 全体管理者 |ユーザー管理の管理者 |管理エージェント |営業担当者
 
 Office 365 Enterprise E4 プランは、2017 年 4 月 7 日に廃止されました。 これ以降、新しい Office 365 E4 サブスクリプションを購入することはできません。また、既存の E4 サブスクリプションは期限切れになっても、自動更新されません。
 
@@ -53,10 +48,10 @@ E4 と同じ機能を維持するか、お客様に Office 365 と Skype for Bus
 
 | 機能 | 方法 1 | 方法 2 | オプション 3 | オプション 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Office 365 Enterprise E4 に含まれるすべての機能に対応 | はい | はい | はい | いいえ |
-| Office 365 での電話番号の管理 | はい | はい | いいえ | いいえ |
-| オンプレミスと Office 365 の両方による電話番号の管理 (ハイブリッド展開) | はい | はい | いいえ | いいえ |
-| PSTN 音声通話プランの追加オプション | はい | はい | いいえ | いいえ |
+| Office 365 Enterprise E4 に含まれるすべての機能に対応 | Yes | Yes | はい | いいえ |
+| Office 365 での電話番号の管理 | Yes | はい | いいえ | いいえ |
+| オンプレミスと Office 365 の両方による電話番号の管理 (ハイブリッド展開) | Yes | はい | いいえ | いいえ |
+| PSTN 音声通話プランの追加オプション | Yes | はい | いいえ | いいえ |
 | PSTN 会議機能 | はい | いいえ | いいえ | いいえ |
 | コラボレーション、分析、セキュリティの高度なツール | はい | いいえ | いいえ | いいえ |
 | 対話型のレポート、ダッシュ ボード、データのビジュアル化 | はい | いいえ | いいえ | いいえ | 
