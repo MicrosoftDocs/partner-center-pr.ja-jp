@@ -1,55 +1,50 @@
 ---
-title: パートナーセンターの洞察の特典レポート
+title: パートナー センター Insights 特典レポート
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ビジネスの拡大、効率性の向上、チームのスキル向上に役立つ Microsoft パートナーの特典の種類をご確認ください。
+description: ビジネスの拡大、効率性の向上、チームのスキルの向上に役立つ Microsoft Partner 特典の種類を確認します。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 488d5641422de3036cb36818c0aa21bdc81a3628
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087010"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152547"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから利用可能な特典レポート
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>パートナー センター Insights ダッシュボードから利用できる特典レポート
 
-**適切なロール**
+**適切なロール**: グローバル管理者|管理エージェント |レポート ビューアー |エグゼクティブ レポート ビューアー
 
-- グローバル管理者
-- 管理エージェント
-- レポート ビューアー
-- エグゼクティブ レポート ビューアー
+Microsoft パートナーは、最新のテクノロジとイノベーションを使用して、チームのスキルの向上、効率性の向上、ビジネスの成長に役立つ多くの利点にアクセスできます。 特典パッケージには、ライセンスされたソフトウェアの割り当て、クラウド サービス、Visual Studioサブスクリプション、サポートが含まれます。 これらのパッケージには、特定の Go-To-Market リソース、オファー、およびプログラムを含めすることもできます。 特典レポートには、アクセスした特典の傾向と、選択した日付範囲内での使用が表示されます。
 
-Microsoft パートナーとして、最新のテクノロジとイノベーションを使用する特典のホストにアクセスして、チームのスキルを高め、効率性を向上させ、ビジネスを成長させることができます。 特典パッケージには、ライセンスされたソフトウェア、クラウドサービス、Visual Studio サブスクリプション、およびサポートの割り当てが含まれます。 これらのパッケージには、特定のマーケットプレースリソース、プラン、およびプログラムを含めることもできます。 特典レポートには、選択した日付範囲内でアクセスした特典とその使用状況の傾向が表示されます。
-
-:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="[特典] ページの概要":::
+:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="特典ページの概要":::
 
 特典レポートでは、次のグラフを視覚化できます。
 
 - まとめ
-- 付与されたクラウドサービス
+- 付与されたクラウド サービス
 - ソフトウェア製品
 - Visual Studio サブスクリプション
 - 技術上のメリット
 - 市場進出
 
  > [!NOTE]
- > このレポートは、Insights ダッシュボードから入手できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポートビューアー、エグゼクティブレポートビューアーなど、パートナーセンターの特定のロールが割り当てられている必要があります。 詳細については、会社のグローバル管理者に問い合わせてください。このレポートの特定の種類のデータは、役員レポートビューアーの特権を持つユーザーのみが使用できる場合もあります。
+ > このレポートは、Insights ダッシュボードから使用できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポート ビューアー、エグゼクティブ レポート ビューアーなど、パートナー センター で特定のロールを割り当てる必要があります。 詳細については、会社のグローバル管理者に関するページを参照してください。このレポートの特定の種類のデータは、エグゼクティブ レポート ビューアー特権を持つユーザーだけが使用できる場合もあります。
 
 ## <a name="summary"></a>まとめ
 
-[概要] セクションには、ライセンスされたソフトウェア、cloud services (非 Azure)、Visual Studio サブスクリプション、テクニカルサポート、および特定の市場開拓サービスまたはプランの観点から付与された特典が示されています。
+[概要] セクションには、ライセンスされたソフトウェア、クラウド サービス (Azure 以外)、Visual Studio サブスクリプション、テクニカル サポート、特定の Go-To-Market サービスまたはオファーに関して付与される特典が表示されます。
 
-例: Microsoft Partner Network (MPN) メンバーシップパートナーは、オンプレミス製品とクラウド製品のテクニカルサポートの対象となります。 シルバーコンピテンシーを獲得したパートナーには、オンプレミス製品の15インシデントのテクニカルサポートが付与されます。 必要に応じて、このサポートを利用できます。 
+例: Microsoft Partner Network (MPN) メンバーシップ パートナーは、オンプレミス製品とクラウド製品のテクニカル サポートの対象となります。 Silver コンピテンシーを取得したパートナーには、オンプレミス製品の 15 件のインシデントに対するテクニカル サポートが付与されます。 必要に応じて、このサポートを使用できます。 
 
-:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="利点の概要":::
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="特典の概要":::
 
-## <a name="cloud-services-granted"></a>付与されたクラウドサービス
+## <a name="cloud-services-granted"></a>付与されたクラウド サービス
 
 このグラフは、選択したクラウドサービスのライセンスベースのサブスクリプションについて、選択した日付範囲内に付与されたライセンスの月ごとの傾向を示します。
 [ **サービス** ] タブからクラウドサービスを選択して、特定のクラウドサービスのグラフを表示します。 折れ線グラフは、会社に付与されているライセンス全体を表します。
@@ -82,10 +77,10 @@ Microsoft パートナーとして、最新のテクノロジとイノベーシ�
 
 このグラフは、選択した日付範囲内に割り当てられ、選択されたマーケットプレースプランまたはサービスカテゴリに対して割り当てられた、市場開拓プランまたはサービスの月ごとの傾向を示します。
 
-グラフの上部にあるドロップダウンリストから [マーケットプレース] プランまたはサービスカテゴリを選択すると、会社に付与されている、選択したマーケットプレースサービスの傾向が表示されます。 グラフの列は、マーケットプレースプランまたはアクティブ化されたサービスを表します。 折れ線グラフは、会社に付与されている市場開拓キャンペーンやサービスを表します。
+グラフの上部にあるドロップダウンリストから [マーケットプレース] プランまたはサービスカテゴリを選択すると、会社に付与されている、選択したマーケットプレースサービスの傾向が表示されます。 グラフの列は、マーケットプレースプランまたはアクティブ化されたサービスを表します。 この線グラフは、会社に付与されている Go-To-Market オファーまたはサービス全体を表します。
 
-:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="市場開拓プラン":::
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Go-To-Market オファー":::
 
 ## <a name="next-steps"></a>次のステップ
 
-- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
+- その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。

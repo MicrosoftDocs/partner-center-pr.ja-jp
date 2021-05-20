@@ -9,18 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 5da41cdbfa7aa1780b31e170a2398e8e7c65df27
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740286"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150864"
 ---
 # <a name="locate-important-ids-for-a-user"></a>ユーザーの重要な ID を見つける
 
-**適切なロール**
-
-- グローバル管理者
+**適切なロール**: グローバル管理者
 
 この記事では、ユーザーの次の [情報Azure portal](https://portal.azure.com/) を検索する方法について説明します。
 

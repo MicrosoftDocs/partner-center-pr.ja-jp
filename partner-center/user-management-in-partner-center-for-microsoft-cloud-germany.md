@@ -10,16 +10,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: bca5c5ff58ae222d06ac0de5f4aebde13cd87b0c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794974"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153023"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud ドイツのパートナー センターでのユーザーとライセンスの管理
 
-**適用対象**: パートナー センター |パートナー センター Cloud Germany の場合
+**適用対象**: パートナー センター Microsoft Cloud Germany の場合
 
 **適切なロール**: グローバル管理者|アカウント管理者
 
@@ -52,7 +52,7 @@ Microsoft Cloud Germany の Azure portal に正常にサインインしたら、
 
 -  [Azure Active Directory でのユーザー パスワードのリセット](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 -  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
 -  [Microsoft Cloud ドイツのパートナー センター](partner-center-for-microsoft-cloud-germany.md)

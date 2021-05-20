@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818611"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153057"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>会社のプロファイルの情報を確認または更新する 
 
@@ -98,9 +98,8 @@ Partner Membership Center からパートナー センターへの移行中、�
 |請求先住所|CSP 請求書に表示される請求先住所。 [課金プロファイル](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)から更新できます。|
 |請求先担当者|CSP アカウントの請求先担当者の詳細 (姓、名、第一連絡先の番号)。  [課金プロファイル](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)から更新できます。|
 |発注番号|パートナーの請求書に表示される注文書番号。  [課金プロファイル](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)から更新できます。|
-|会社の税 ID|一部の国では、企業が[付加価値税 (VAT) 番号またはその国でそれに相当するもの](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number)を入力できます。 税金/VAT ID を更新するには、全体管理者、課金管理者、または管理エージェントである必要があります。|
+|会社の税 ID|一部の国では、企業が[付加価値税 (VAT) 番号またはその国でそれに相当するもの](./organization-tax-info.md)を入力できます。 税金/VAT ID を更新するには、全体管理者、課金管理者、または管理エージェントである必要があります。|
 |請求通貨|CSP アカウントの請求通貨は、CSP アカウントの法律上の国によって決まります。  これは、CSP アカウントを作成した後に変更することはできません。|
-
 
 ## <a name="next-steps"></a>次の手順
 

@@ -2,48 +2,48 @@
 title: Microsoft から SLA クレジットを要求する
 ms.topic: article
 ms.date: 03/31/2021
-description: 顧客にサービス停止が発生した場合に Microsoft にサービス レベル アグリーメント (SLA) クレジットを要求する利点、制限、および手順について説明します。
+description: 顧客がサービスの停止を経験している場合に Microsoft からサービスレベルアグリーメント (SLA) のクレジットを要求するための特典、制限、および手順について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855558"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152955"
 ---
-# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Microsoft にサービス レベル アグリーメント (SLA) クレジットを要求する方法と条件
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Microsoft からサービスレベルアグリーメント (SLA) のクレジットを要求する方法とタイミング
 
-**適切なロール**: 管理エージェント |グローバル管理者
+**適切なロール**: 管理エージェント |全体管理者
 
-顧客に提供しているサービスが停止している場合は、Microsoft にサービス レベル アグリーメント **(SLA)** クレジットを要求できます。
+お客様に提供しているサービスが停止している場合は、Microsoft からの **サービスレベルアグリーメント (SLA) クレジット** を要求できます。
 
 ## <a name="sla-credit-calculation"></a>SLA クレジットの計算
 
-Microsoft の SLA クレジットは、影響を受け取ったサービスに基づいて決定されます。 たとえば、顧客が Office 365 スイートを使用しているが、SharePoint の停止しか発生していない場合、SLA クレジットは顧客のプラン全体ではなく SharePoint に対してのみ承認されます。
+Microsoft からの SLA クレジットは、影響を受けたサービスに基づいて決定されます。 たとえば、顧客が Office 365 スイートを使用していても、SharePoint の停止しか経験していない場合は、顧客の計画全体ではなく、SharePoint に対してのみ SLA クレジットが承認されます。
 
-*クレジットは、影響を受けるサービスと停止の期間に基づいて日単位で評価されます。* SLA クレジットの対象となるシナリオの種類については、オンライン サービス統合 SLA に関するドキュメント [を参照してください](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37)。 この情報は、プログラムを通じて販売されたクラウド ソリューション プロバイダーにも適用されます。
+*クレジットは、影響を受けるサービスと停止の期間に基づいて、日割りで評価されます。* SLA クレジットに適合するシナリオの種類を確認するには、 [オンラインサービスの統合](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37)された sla に関するドキュメントを参照してください。 この情報は、クラウドソリューションプロバイダープログラムを通じて販売されたサービスにも適用されます。
 
 
-## <a name="request-an-sla-credit"></a>SLA クレジットを要求する
+## <a name="request-an-sla-credit"></a>SLA のクレジットを要求する
 
-*パートナークラウド ソリューション プロバイダー (CSP) パートナーは、インシデントが発生した月の次のカレンダー月の終わりまでに、要求と必要なすべての情報を送信する必要があります。* たとえば、インシデントが 2 月 15 日に発生した場合、Microsoft は 3 月 31 日までに要求と必要なすべての情報を受け取る必要があります。 エンド カスタマーと間接リセラーは SLA クレジット要求を送信できない。間接プロバイダーまたは直接請求パートナーは、要求を代理で送信する必要があります。
+*クラウドソリューションプロバイダー (CSP) パートナーは、請求書および必要なすべての情報を、インシデントが発生した月の後のカレンダー月の終わりまでに提出する必要があります。* たとえば、インシデントが2月15日に発生した場合、マイクロソフトは、3月31日までに要求と必要なすべての情報を受け取る必要があります。 エンドカスタマーと間接リセラーは、SLA クレジット要求を送信できません。間接プロバイダーまたはダイレクト請求パートナーは、その代わりに要求を送信する必要があります。
 
 >[!NOTE]
->アドバイザリ インシデント ( サービスの正常性を[Microsoft 365する](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)方法) は SLA クレジットの対象ではありません。
+>アドバイザリインシデント ([Microsoft 365 service health を確認する方法](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) は、SLA クレジットの対象ではありません。
 
 ### <a name="required-information"></a>必要な情報
 
-要求を処理するには、顧客名、テナント識別子、パートナー チケット#、チケット作成日/タイム スタンプでは十分ではありません。
+顧客名、テナント識別子、パートナーチケット番号、チケットが作成された日付/時刻スタンプは、要求を処理するのに十分ではありません。
 
-SLA クレジット要求を Microsoft に[送信する前](#submit-sla-credit-request)に、サポート チケットに含める次のすべての情報を収集する必要があります。
+マイクロソフトに [SLA クレジット要求を送信](#submit-sla-credit-request) する前に、サポートチケットに含まれる次の情報を **すべて** 収集する必要があります。
 
 - 顧客テナントの GUID
-- 障害 [インシデント識別子](#outage-incident-identifier)?
+- [停止インシデント識別子](#outage-incident-identifier)
 - 顧客が停止の影響を受け、SLA クレジットを要求した証拠。
 - 影響を受け取ったサブスクリプションは CSP を通じて購入されましたか? (*はい**またはいいえ*)
 
@@ -83,6 +83,6 @@ SLA クレジット要求を Microsoft に[送信する前](#submit-sla-credit-r
 6. [ **詳細** ] ページで、[ **問題の詳細** ] セクションに入力します。 [ **詳細** ] テキストボックスに、前に収集した [必要な情報](#required-information) を入力します。
 7. [ **送信** ] を選択して、SLA クレジット要求を送信します。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [顧客に代わって問題を報告する](report-problems-on-behalf-of-a-customer.md)

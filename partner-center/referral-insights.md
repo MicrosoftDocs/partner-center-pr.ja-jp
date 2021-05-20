@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328085"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855950"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>パートナーセンターで紹介の分析情報を取得し、紹介の効果を確認する
 
-**適切なロール**
-
-- 紹介管理者
+**対象のロール**: 紹介管理者
 
 [紹介] の **[分析]** セクションの下の **[共同販売の機会]** ページでは、紹介の進捗を確認できます。 これらのメトリックを定期的に確認し、注意が必要な傾向や分野を特定し、ビジネス目標に向けて取り組んでください。
 
