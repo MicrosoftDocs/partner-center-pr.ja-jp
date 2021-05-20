@@ -1,6 +1,6 @@
 ---
-title: Azure の使用状況を分析してビジネスの成長に役立てます
-description: パートナーセンターを使用して、顧客の Azure サブスクリプションの使用状況に関するデータを取得する方法について説明します。 データには、販売、リスク、および使用中のサブスクリプションが含まれます。
+title: ビジネスの成長に役立つ Azure の使用状況を分析する
+description: 顧客の Azure サブスクリプションパートナー センターデータを取得する方法について説明します。 データには、販売されたサブスクリプション、危険なサブスクリプション、使用されているサブスクリプションが含まれます。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,30 +9,25 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 0a7bc34ded62eb9e19dbbad8e214eb30534b8ea6
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: e2acdb777e0ef77ebf9d08eed3d3842c74af9e18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439126"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150235"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>顧客と Azure サブスクリプションのパフォーマンスに関するデータを取得する
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>顧客と Azure サブスクリプションの機能に関するデータを取得する
 
 
 
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- 管理エージェント
-- 販売代理店
+**適切なロール**: グローバル管理者|ユーザー管理管理者|管理エージェント |セールス エージェント
 
 データはビジネス上の意思決定を促進します。 **Azure 利用状況** のページのメトリックを使用して、パートナーの成功度や注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 
-**Azure の使用状況** にアクセスするには、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。 パートナーセンターメニューから [ **分析** ] を選択し、[ **Azure の使用状況**] を選択します。
+Azure の使用状況に **アクセスするには、** ダッシュボード にパートナー センター [します](https://partner.microsoft.com/dashboard)。 [ **分析] メニュー** から [分析パートナー センター選択し、 [Azure の使用状況] **を選択します**。
 
 > [!NOTE]
-> Azure usage analytics は、Cloud Solution Provider プログラムのパートナーに対してのみ使用できます。
+> Azure 使用状況分析は、クラウド ソリューション プロバイダー プログラムのパートナークラウド ソリューション プロバイダーできます。
 
 次のメトリックを追跡しています。
 
@@ -46,13 +41,13 @@ ms.locfileid: "96439126"
 
 - 指定したカテゴリの上位 5 件の顧客  
 
-## <a name="azure-subscriptions-at-risk"></a>リスクがある Azure サブスクリプション
+## <a name="azure-subscriptions-at-risk"></a>危険にさらされている Azure サブスクリプション
 
-このセクションでは、Azure サブスクリプションに対する予測変更のリスクを示します。 この情報は、パートナーが顧客とやり取りし、チャーンを最小化するために使用できます。
+このセクションでは、Azure サブスクリプションに対して予想されるチャーン リスクを示します。 この情報は、パートナーが顧客と関わり、チャーンを最小限に抑えるために使用できます
 
 ## <a name="subscriptions-without-usage"></a>利用状況のないサブスクリプション
 
-- 指定した期間内に Azure を使用せずに特定のサブスクリプションの一覧を表示する  
+- 指定した期間に Azure を使用しない特定のサブスクリプションの一覧  
 
 ## <a name="azure-subscription-churn"></a>Azure サブスクリプションのチャーン
 
@@ -69,4 +64,4 @@ ms.locfileid: "96439126"
 
  ## <a name="next-steps"></a>次のステップ
 
-- [お客様向けの Azure プランを購入して、最新の Azure サービスに従量課金制料金でアクセス &](purchase-azure-plan.md)
+- [お客様向け Azure プランを購入&、最新の Azure サービスに無料でアクセスできます](purchase-azure-plan.md)

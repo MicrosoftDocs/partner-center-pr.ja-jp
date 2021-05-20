@@ -9,18 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f54e5e91dd63e5ceeaa3c25b929823e6d731d7d0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552400"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149317"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Microsoft Partner Network の利点に関する FAQ
 
-**適切なロール**
-
-- MPN パートナー管理者
+**適切なロール**: MPN partner admin
 
 次の記事では、MPN () パートナーの MPN メンバーシップ特典、コンピテンシー、および製品ライセンスに関する主な Microsoft Partner Network 質問に回答します。
 
@@ -40,30 +38,30 @@ A: パートナーセンターでコンピテンシーを更新できます。 �
 
  購入後 1 年経過した翌日から、更新期間が始まります。 たとえば、2020年9月1日に Microsoft Action Pack を購入した場合、30日の更新期間は2021年9月2日から開始されます。 社内のグローバル管理者ロールと MPN 管理者ロールによって、契約日から30日後に更新通信が送信されます。 更新期間中は、引き続き関連する特典にアクセスできます。
 
- 詳細については、「 [MPN プランの更新](renew-mpn-offers.md)」を参照してください。
+ 詳細については [、MPN オファーの更新に関するページを参照してください](renew-mpn-offers.md)。
 
-**Q: Microsoft Action Pack を更新するにはどうすればよいですか。**
+**Q: Microsoft サービスを更新できるAction Pack。**
 
-A: 会社は、更新期間中にパートナーセンターで Microsoft Action Pack を更新できます。
+A: あなたの会社は、更新期間中にAction Packでパートナー センター Microsoft のサービスを更新できます。
 
-Action Pack を更新する前に、会社の全体管理者またはアカウント管理者が会社のビジネス情報を確認して更新する必要があります。 パートナーセンターで会社のプロファイルにアクセスして、状態を確認し、更新が必要な情報を把握することができます。 情報を確認するために、追加のドキュメントが必要になる場合があります。  
+更新前に、Action Packのグローバル管理者またはアカウント管理者は、会社のビジネス情報を確認して更新する必要があります。 会社のプロファイルにアクセスして、パートナー センターを確認し、更新する必要がある情報を把握できます。 情報を確認するには、追加のドキュメントが必要になる場合があります。  
 
- 購入後 1 年経過した翌日から、更新期間が始まります。 たとえば、2020年9月1日に Microsoft Action Pack を購入した場合、30日の更新期間は2021年9月2日から開始されます。更新期間中は、引き続き関連する特典をご利用いただけます。
+ 購入後 1 年経過した翌日から、更新期間が始まります。 たとえば、2020 年 9 月 1 日に Microsoft Action Pack を購入した場合、30 日間の更新期間は 2021 年 9 月 2 日に開始されます。更新期間中は、関連する特典に引き続きアクセスできます。
 
- 詳細については、「 [MPN プランの更新](renew-mpn-offers.md)」を参照してください。
+ 詳細については [、MPN オファーの更新に関するページを参照してください。](renew-mpn-offers.md)
 
-**Q: Microsoft Action Pack と Learning Action Pack の違いは何ですか。**
+**Q: Microsoft Action Pack と Learning Action Pack の違いは何ですか?**
 
-A: microsoft Action Pack は、Microsoft テクノロジについて理解し、ソリューション/サービスを構築するというパートナーを支援するためのリソースのポートフォリオです。 コンピテンシーがあるかどうかにかかわらず、1つの Microsoft Action Pack 購入できます。
+A: Microsoft Action Packは、Microsoft テクノロジを理解し、ソリューション/サービスを構築するのに役立つリソースのポートフォリオです。 コンピテンシーを持っているAction Pack、1 つの Microsoft サービスを購入できます。
 
-Learning Action Pack は、ラーニングパートナープログラムのエントリレベルです。 この学習プログラムでは、テクノロジのトレーニングや学習の方法を提供する企業向けのリソースを提供しています。 [ラーニング Action Pack](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)は、パートナーがさまざまな Microsoft 製品ラインにわたって専門家になるのを支援する、コースウェア、Marketplace、および特典に対する割引を提供します。
-Microsoft Action Pack と Learning Action Pack については、 [ライセンステーブル](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) を参照してください。
+Learning Action Packは、Learning Partner Program へのエントリ レベルです。 学習プログラムは、テクノロジトレーニングを提供する企業や学習プラクティスを持つ企業向けリソースを提供します。 [Learning Action Pack](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)は、Courseware、Marketplace、およびパートナーがさまざまな Microsoft 製品ラインの専門家になるのに役立つ特典を提供します。
+Microsoft Action Pack と Learning [Action Pack](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) のライセンス 表を参照してください。
 
-**Q:** **30 日の更新期間中、コンピテンシーや Action Pack 特典はどうなりますか**。
+**Q:** 30 日間の更新期間中にAction Packのコンピテンシーまたはサービスの利点 **は何ですか?**
 
-A: MPN Agreement では、メンバーシップがアクティブになっている限り、引き続きプログラム特典にアクセスできます。 メンバーシップの有効期限が切れると、特典へのアクセスが失われます。
+A: MPN 契約に基付き、メンバーシップがアクティブである限り、プログラムの特典に引き続きアクセスできます。 メンバーシップの有効期限が切れると、特典へのアクセスは失われます。
 
- 詳細については、「 [MPN プランの更新](renew-mpn-offers.md)」を参照してください。
+ 詳細については [、MPN オファーの更新に関するページを参照してください。](renew-mpn-offers.md)
 
 ## <a name="product-licenses"></a>製品ライセンス
 
@@ -91,34 +89,34 @@ A: プロダクトキーを必要とする製品はありません。 製品の�
 
 **Q: すべてのインストールとライセンス認証を利用した場合、さらに多くのプロダクトキーを取得できますか。**
 
-A: 発行されたプロダクトキーには、複数のライセンス認証キー (MAK) があります。 これらの製品には、多数のインストール、ライセンス認証、または接続クライアントが含まれています。 すべてのインストールとライセンス認証が使用されている場合、プロダクトキーは機能しなくなります。 これらのプロダクトキーの追加のライセンス認証は付与されません。
+A: 発行されたプロダクトキーには、複数のライセンス認証キー (MAK) があります。 これらの製品には、多数のインストール、ライセンス認証、または接続クライアントが含まれています。 すべてのインストールとライセンス認証が使用されている場合、プロダクトキーは機能しなくなります。 これらのプロダクト キーに対する追加のアクティブ化は許可されません。
 
- 詳細については、マイクロソフトパートナープログラムガイド[aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)を参照してください。
+ 詳細については、「Microsoft パートナー プログラム ガイド」を参照 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q: コンピテンシーまたは Microsoft Action Pack を更新しない場合でも、オンプレミスのソフトウェア製品ライセンスを引き続き使用できますか。**
+**Q: コンピテンシーまたは Microsoft Action Pack を更新しない場合でも、オンプレミスのソフトウェア製品ライセンスを使用できますか?**
 
-A:いいえ。 コンピテンシーの達成と Microsoft Action Pack に含まれるオンプレミスのソフトウェア製品ライセンスは、永続的ではありません。
-これらのライセンスは、メンバーシップ中にのみ使用できます。 コンピテンシーや Action Pack を更新しない場合は、商用ライセンスを使用してライセンスを取得するか、Microsoft Partner Network によって取得されたオンプレミスソフトウェアをアンインストールする必要があります。
+A:いいえ。 コンピテンシーの獲得に含まれるオンプレミスのソフトウェア製品ライセンスと Microsoft Action Pack永続的ではありません。
+お客様は、メンバーシップ中にのみこれらのライセンスを使用する権利を有し、権利を有します。 コンピテンシーまたはライセンスを更新しない場合は、商用ライセンスを介してライセンス権を取得するか、Microsoft Partner Network を使用して取得したオンプレミス ソフトウェアをアンインストールする必要Action Pack。
 
-詳細については、マイクロソフトパートナープログラムガイド[aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)を参照してください。
+詳細については、「Microsoft パートナー プログラム ガイド」を参照 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q: Microsoft Action Pack には Visual Studio Enterprise サブスクリプションが含まれていますか?**
+**Q: Microsoft はサブスクリプションAction Pack含Visual Studio Enterpriseしますか?**
 
-A: いいえ。 Microsoft Action Pack には Visual Studio Professional サブスクリプションのみが含まれています。
+A: いいえ。Microsoft Action PackサブスクリプションVisual Studio Professional含まれています。
 
-詳細については、マイクロソフトパートナープログラムガイド[aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)を参照してください。
+詳細については、「Microsoft パートナー プログラム ガイド」を参照 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q: コンピテンシーの達成または Microsoft Action Pack に含まれている Visual Studio サブスクリプションを共有できますか。**
+**Q: コンピテンシーの獲得Visual Studioまたは Microsoft のサブスクリプションに含まれるサブスクリプションの一覧を共有Action Pack。**
 
-A: いいえ。 Visual Studio サブスクリプションはユーザーごとにライセンス供与され、有効にするには割り当てられ、アクティブ化されている必要があります。 サインイン資格情報の共有は禁止されています。
+A: いいえ、Visual Studioサブスクリプションはユーザーごとにライセンスを取得し、有効にするために割り当ておよびアクティブ化する必要があります。 サインイン資格情報の共有は禁止されています。
 
-詳細については、マイクロソフトパートナープログラムガイド[aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)を参照してください。
+詳細については、「Microsoft パートナー プログラム ガイド」を参照 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q.** 会社が持つ **製品ライセンスの数を確認する** にはどうすればよい **ですか。**
+**Q.** **会社の製品ライセンスの数を知る****方法**
 
-A. パートナーセンターでは、お客様のコンピテンシーの達成や Action Pack に含まれる製品ライセンスやその他の特典を表示および管理できます。 詳細につい [ては、「パートナーネットワークの特典の管理](manage-your-partner-network-benefits.md)」を参照してください。
+A. 製品ライセンスと、コンピテンシーの獲得またはサービスに含まれるその他の特典を表示Action Pack管理パートナー センター。 詳細については、パートナー ネットワーク [の特典の管理に関するページを参照してください](manage-your-partner-network-benefits.md)。
 
-**Q..会社では、コンピテンシーの達成や Action Pack によって利用可能な製品ライセンスをどのように使用できますか。**
+**Q。会社は、コンピテンシーの獲得または提供を通じて利用できる製品ライセンスをAction Pack。**
 
 A. マイクロソフトは、1つまたは複数のコンピテンシーを獲得したり、Microsoft Action Pack を購入して革新的なソリューションを構築したり、Microsoft の製品やテクノロジを理解したりするのに役立つ、パートナーの製品ライセンスを Microsoft Partner Network ます。 コンピテンシーの達成と Action Pack に含まれる製品ライセンスの使用条件については、「 [Microsoft Partner Network プログラム」ガイド](https://aka.ms/partner-benefits-use-guide)で説明されています。
 
@@ -133,19 +131,19 @@ A. コンピテンシーの達成と Action Pack に含まれる製品ライセ�
 
 **Q..最近、コンピテンシーを持つ Microsoft Partner Network で別の会社と合併/買収しました。パートナーセンターでアカウントのマージ機能を使用するときに、現在の製品ライセンスをすべて保持しますか?**
 
-A. パートナーのグローバルアカウントを通じて、パートナーセンターでコンピテンシーの達成と Action Pack 購入が完了します。 パートナーセンターでアカウントのマージ機能を使用すると、各アカウントの既存の特典は次の更新まで保持されたままになります。 更新が行われると、コンピテンシーの達成と Action Pack に含まれている特典が、パートナー企業のパートナーグローバルアカウントに実装されます。
+A. パートナーのグローバルアカウントを通じて、パートナーセンターでコンピテンシーの達成と Action Pack 購入が完了します。 パートナーセンターでアカウントのマージ機能を使用すると、各アカウントの既存の特典は次の更新まで保持されたままになります。 更新時に、コンピテンシーの獲得とAction Packに含まれる特典は、パートナー企業のパートナー グローバル アカウントに実装されます。
 
--   Microsoft Action Pack: パートナー企業は、パートナーのグローバルアカウントごとに1つの Action Pack を購入できます。
+-   Microsoft Action Pack: パートナー企業は、パートナー グローバル アカウントごとに 1 Action Pack購入できます。
 
--   コンピテンシー: パートナー企業は、最高の達成度に関連するコア特典の1つのパッケージと、パートナーがパートナーグローバルアカウントで利用できるコンピテンシー固有の特典を受け取ります。
+-   コンピテンシー: パートナー企業は、最高の達成に関連するコア特典の 1 つのパッケージに加えて、パートナーがパートナーのグローバル アカウントで資格を持つコンピテンシー固有の特典を受け取る。
 
- [アカウントのマージ](merge-accounts.md)に関する情報を確認して、機能のしくみと、会社のニーズに適しているかどうかを判断する方法について確認してください。
+ アカウントのマージに [関する](merge-accounts.md) 情報を確認して、機能のしくみと、それが会社のニーズに合うのかを判断する方法の詳細を確認してください。
 
-**Q.** パートナーセンターでは、会社の製品ライセンス **に関する質問があり****ます。ここでは、その方法について説明します。**
+**Q.** **このページでは、会社の****製品ライセンスに関する質問パートナー センター。どこで支援を受けるのでしょうか。**
 
-A. サポートされている可能性のあるリソースへのリンクについては、 [パートナーセンターのサポートセクション](https://partner.microsoft.com/support) にアクセスするか、必要に応じてパートナーサポートチームとチケットを開くことができます。
+A. パートナー センター の [[](https://partner.microsoft.com/support)サポート] セクションに移動して、役立つ可能性のあるリソースへのリンクを表示したり、必要に応じてパートナー サポート チームにチケットを開く場合があります。
 
 ## <a name="next-steps"></a>次のステップ
 
 - [Microsoft Partner Network の特典を見つける](mpn-find-benefits.md)
-- [MPN プランの更新](renew-mpn-offers.md)
+- [MPN オファーを更新する](renew-mpn-offers.md)

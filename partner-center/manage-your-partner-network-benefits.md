@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f53661918508271901c6403e8270105c06d4246a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133099"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818764"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>パートナー センターで Microsoft Partner Network メンバーシップの特典とプランを管理する
 
@@ -104,9 +104,9 @@ Azure 一括 (年単位) クレジットの場合は、パートナー センタ
    >[!Note]
    >Visual Studio サブスクリプション管理者は、サブスクリプションを別のサブスクライバーに再割り当てすることができます。ただし、元の割り当ての時点から 90 日が経過している必要があります。 詳細については、「[Microsoft パートナー プログラム ガイド](https://aka.ms/partner-benefits-use-guide)」をご覧ください。
 
-## <a name="manage-technical-benefits"></a>技術特典の管理
+## <a name="manage-technical-benefits---microsoft-product-support"></a>技術的なメリットの管理 - Microsoft 製品サポート
 
-このセクションでは、パートナー センターの[ダッシュボード](https://partner.microsoft.com/dashboard)でテクニカル サポート特典をアクティブ化して管理する方法について説明します。 ただし、Microsoft Partner Network のメンバーシップが Partner Membership Center (PMC) にまだ残っている場合は、Partner Frontline などの別のリソースに連絡して、技術的な特典をアクティブ化するための支援を受ける必要があります。 「[パートナー センター外で Microsoft Partner Network の技術的な特典をアクティブ化する](partner-membership-center-tech-benefits-activate.md)」を参照してください。
+このセクションでは、パートナー センターの[ダッシュボード](https://partner.microsoft.com/dashboard)でテクニカル サポート特典をアクティブ化して管理する方法について説明します。 ただし、Microsoft Partner Network のメンバーシップが Partner Membership Center (PMC) にまだ残っている場合は、Partner Frontline などの別のリソースに連絡して、技術的な特典をアクティブ化するための支援を受ける必要があります。 「[パートナー センター外で Microsoft Partner Network の技術的な特典をアクティブ化する](https://docs.microsoft.com/partner-center/partner-membership-center-tech-benefits-activate)」を参照してください。
 
 パートナー センターで技術的な特典を確認するには、次の手順を実行します。
 
@@ -120,7 +120,7 @@ Azure 一括 (年単位) クレジットの場合は、パートナー センタ
 
    - **技術関連の特典をアクティブ化します。** 特典の詳細を展開した後、 **[アクティブ化]** を選択します。 アクティブ化リクエストの処理が完了するまで数日間待ちます。
 
-   - **製品サポートのアクセス ID と契約 ID を表示し、共有します。** アクティブ化リクエストが処理された後、その技術関連の特典を次に展開したときに、**アクセス ID** と **契約 ID** に関する詳細が表示されます。 特定の種類の製品またはサービスについてのサポート リクエストを初めて送信いただくとき、ご自身か会社のユーザーからこの情報をお送りいただく必要がある場合があります。
+   - **製品サポートのアクセス ID と契約 ID を表示し、共有します。** アクティブ化リクエストが処理された後、その技術関連の特典を次に展開したときに、**アクセス ID** と **契約 ID** に関する詳細が表示されます。 特定の種類の製品またはサービスについてのサポート リクエストを初めて送信いただくとき、ご自身か会社のユーザーからこの情報をお送りいただく必要があります。
 
 4. アクティブ化が完了すると、さまざまな種類のテクニカル サポートについて技術関連の特典を利用できるようになります。 以下のサービスに関するテクニカル サポート リクエストを送信するには、[技術関連の特典] ページにある詳細な手順をご覧ください。 以下の詳細もご覧ください。
 
@@ -134,10 +134,23 @@ Azure 一括 (年単位) クレジットの場合は、パートナー センタ
 
      >[!NOTE]
      > オンプレミス、Azure (CSP 以外)、Dynamics 製品のテクニカル サポート リクエストには、アクセス ID と契約 ID が必要です。 今後、アクセス ID と契約 ID を確認するには、[特典を見つける](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)方法に関するページもご覧ください。
+     > 
+[オンプレミスまたはクラウド製品のテクニカル サポートの詳細情報](https://docs.microsoft.com/partner-center/mpn-benefits-technical-support)
   
-   **テクニカル プリセールスおよび展開サービス。**  この種類のサポートは、テクニカル セールスまたは展開に関する相談をしたり、アドバイスを受けたりするために使用します。 これらのサービスは、[パートナー センター](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)から直接リクエストすることができます。
+## <a name="manage-technical-benefits---partner-advisory-hours"></a>技術的なメリットの管理 - パートナー相談時間
+パートナ相談時間は、**テクニカル プリセールスとデプロイ サービス (TPD)** に使用される通貨であり、サインインしてリクエストを送信するだけです (認証やユーザー割り当ては必要ありません)。
 
-   - Action Pack と Gold および Silver コンピテンシー パートナーのどちらも、クラウドおよびハイブリッド ソリューションには **テクニカル プリセールスおよび展開サービス** をご利用ください。
+パートナー センターでパートナー相談時間の技術的な特典を確認するには、次の手順を実行します。
+
+1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
+
+2. **[特典]** 、 **[技術関連の特典]** を選択して、パートナー相談時間を表示します。
+
+3. ページの右下で、 **[[テクニカル プリセールスと展開の要求の送信]](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)** をクリックし、要求を送信します。
+     >[!NOTE]
+     > 技術関連の特典ページに "*まだ特典がないようです*" というメッセージが表示された場合は、Gold、Silver、または Microsoft Action Pack オファーのないパートナー アカウントを使用してサインインしているためサービスを使用する資格がないか、間違ったアカウントを使用してサインインしている可能性があります。
+     > 
+[テクニカル プリセールスとデプロイ サービス (TPD) の詳細情報](https://docs.microsoft.com/partner-center/technical-benefits)
   
 ## <a name="manage-go-to-market-offers"></a>市場投入オファーを管理する
 

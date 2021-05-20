@@ -1,44 +1,42 @@
 ---
-title: チャネルインセンティブプラットフォーム (チップ) を使用する
+title: チャネル インセンティブ プラットフォーム (CHIP) を使用する
 ms.topic: how-to
 ms.date: 11/09/2020
-description: インセンティブの作業にチャネルインセンティブプラットフォーム (チップ) を使用する方法について説明します。 このプラットフォームは2021の終了時に廃止される予定です。
+description: インセンティブ作業にチャネル インセンティブ プラットフォーム (CHIP) を使用する方法について説明します。 このプラットフォームは 2021 年の終わりに廃止される予定です。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: ebee6f49a57eb56429f33291768347be505e3b37
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570402"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148960"
 ---
-# <a name="navigate-the-channel-incentives-platform-chip"></a>チャネルインセンティブプラットフォーム (チップ) に移動する
+# <a name="navigate-the-channel-incentives-platform-chip"></a>Channel Incentives Platform (CHIP) 内を移動する
+
+**適切なロール**: CHIP 管理者
 
 >[!NOTE]
->チッププラットフォームは2021の終了時に廃止される予定です。
+>CHIP プラットフォームは 2021 年の終わりに廃止される予定です。
 
-**適切なロール**
+## <a name="sign-into-the-chip-dashboard"></a>CHIP ダッシュボードにサインインする
 
-- チップ管理者
+Channel Incentives Platform (CHIP) は、特定の Microsoft Channel Incentives プログラムのインセンティブ データへのアクセスを提供し、Microsoft 製品を販売するための更新された収益の詳細を示します。
 
-## <a name="sign-into-the-chip-dashboard"></a>チップダッシュボードにサインインする
-
-チャネルインセンティブプラットフォーム (チップ) は、特定の Microsoft チャネルインセンティブプログラムのインセンティブデータへのアクセスを提供し、Microsoft 製品を販売するための更新された詳細情報を表示します。
-
-チップに登録するために、会社の主要な連絡先は、固有の招待コード (UIC) を含む招待を受けます。 初めてチップにアクセスするには、コードを使用する必要があります。
+CHIP に登録するには、会社の主要連絡先に、一意の招待コード (UIC) を含む招待が届きます。 CHIP に初めてアクセスするには、コードを使用する必要があります。
 
 
 サインインして、次のように移動できます。
 
-1. チップを開き、サインインページで Microsoft ID (以前の Live ID) とパスワードを入力して、[サインイン] をクリックします。
+1. CHIP を開き、[サインイン] ページで Microsoft ID (以前のライブ ID) とパスワードを入力し、[サインイン] をクリックします。
  
 1. アクセスするプログラムを選択します。
-そこから、選択したプログラムの **パフォーマンス** と **収益** を表示できます。 
+そこから、選択したプログラム **の****パフォーマンスと** 収益を表示できます。 
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [お客様の CHIP アカウントにユーザーを追加する](chip-users.md)

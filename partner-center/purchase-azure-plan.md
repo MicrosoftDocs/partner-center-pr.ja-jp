@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec74076281d4c8e65de6818281a2852df264732c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441627"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854963"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>顧客向けの Azure プランを購入して、従量課金制料金で最新の Azure サービスにアクセスする
 
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- 販売代理店
+**対象のロール**: グローバル管理者 | ユーザー管理の管理者 | 販売エージェント
 
 Microsoft 顧客契約に基づいて顧客向けの Azure プランを購入すると、従量課金制の料金で提供される最新の Azure サービスの完全なカタログへのアクセス権が与えられます。 CSP パートナーは、Azure サービスが一般提供されたときに、そのサービスにアクセスできるようになりました。 パートナーは、1 つの Azure プランで複数の Azure サブスクリプションを持つことができます。 
 

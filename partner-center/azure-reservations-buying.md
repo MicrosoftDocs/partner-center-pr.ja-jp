@@ -1,6 +1,6 @@
 ---
-title: 顧客の予約 Microsoft Azure 購入する
-description: パートナーセンターで顧客の代理として Azure の予約を購入または購入する方法について説明します。 Azure の予約を利用できない市場の一覧も表示されます。
+title: 顧客Microsoft Azure予約を購入する
+description: 顧客に代わって Azure の予約を購入または購入する方法については、パートナー センター。 また、Azure の予約が利用できない市場も一覧表示されます。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,45 +9,39 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: cd8a78edab25b94e678aafd61ca96e61a625fb07
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534609"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149538"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>パートナー センターで顧客に代わって Microsoft Azure Reservations を購入する
 
-**適切なロール**
+**適切なロール**: 管理エージェント |グローバル管理者|ヘルプデスク エージェント |Sales Agent |ユーザー管理管理者
 
-- 管理エージェント
-- グローバル管理者
-- ヘルプデスク エージェント
-- 販売代理店
-- ユーザー管理の管理者
-
-この記事では、パートナーセンターで顧客の代理として Azure の予約を購入または購入する方法について説明します。 また、Azure の予約を利用できない市場を特定します。
+この記事では、顧客に代わって Azure の予約を購入または購入する方法についてパートナー センター。 また、Azure の予約が利用できない市場も識別されます。
  
 > [!NOTE]
-> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](/azure/cost-management-billing/reservations)を読む必要があります。
+> この記事は、クラウド ソリューション プロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (例: 使用料、個人、Microsoft 顧客契約、Enterprise Agreement サブスクリプション) を使用しているお客様は、代わりに、この Azure の予約に関するドキュメントをお読 [みください](/azure/cost-management-billing/reservations)。
 
 ## <a name="before-you-begin"></a>開始する前に
 
-顧客に代わって Azure Reservations の購入を行う前に、以下の重要な情報を確認してください。 (お客様が以前に購入した Azure サブスクリプションから独自の Azure 予約を購入できるようにしますか? 「 [Azure の予約を購入するためのアクセス許可を顧客に付与する」を](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)参照してください。)
+顧客に代わって Azure Reservations の購入を行う前に、以下の重要な情報を確認してください。 (顧客は、購入した以前の Azure サブスクリプションから独自の Azure 予約を購入できますか? 「 [独自の Azure 予約を購入するためのアクセス許可を顧客に付与する」を参照してください](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)。
 
-- 顧客が新しい Microsoft カスタマーアグリーメントに署名する場合 (「 [microsoft カスタマーアグリーメントのカスタマー同意を確認](confirm-customer-agreement.md)する」を参照してください)、azure プランで azure の予約を購入する必要があります。 詳細については、「 [Azure プランの購入](purchase-azure-plan.md)」を参照してください。
+- 顧客が新しいサービスに署名する場合 (Microsoft 顧客契約 の[](confirm-customer-agreement.md)顧客の同意の確認に関するページをMicrosoft 顧客契約)、Azure プランで Azure の予約を購入する必要があります。 詳細については、「Azure プランの購入 [」を参照してください](purchase-azure-plan.md)。
 
 - 顧客に代わって予約を購入するには、あらかじめ顧客がアクティブな Azure サブスクリプションを持っている必要があります。
   
 - SQL Database や SUSE Linux ソフトウェアなどのソフトウェア サブスクリプションのコストは、Azure Reservation の価格には含まれません
 
-- Microsoft の商用料金は、お客様の所在地がブラジルでない限り、税金は含まれません。 ブラジルの場合は、パートナーへの商用顧客向け価格に適切な税金が含まれます
+- お客様に対する Microsoft の商用価格には、お客様の所在地がブラジルではない限り、税金は含まれます。 ブラジルの場合は、パートナーへの商用顧客向け価格に適切な税金が含まれます
 
 - 販売担当者およびヘルプ デスク担当者は、顧客に代わって Azure portal で Azure サブスクリプションの購入または管理を行い、サポート要求 (交換や返金を含む) を登録できるように、Azure サブスクリプションへの明示的なアクセス許可を持っている必要があります。  
 
-- 間接プロバイダーの場合、Azure portal を通じて Azure の予約を購入すると、選択した Azure CSP サブスクリプションからレコードのパートナー (間接リセラー) が継承されます。
+- 間接プロバイダーであり、Azure portal を通じて Azure の予約を購入した場合、パートナー オブ レコード (間接リセラー) は、選択した Azure CSP サブスクリプションから継承されます。
 
-- Azure 予約のレコードパートナーは、購入後に変更することはできません。 既存の予約を取り消し、新しいパートナーのレコードを使用して新しい予約を購入できます。
+- Azure 予約のレコードパートナーは、購入後に変更することはできません。 既存の予約を取り消し、新しい Partner of Record で新しい予約を購入できます。
 
 - 顧客が Azure サブスクリプションを直接サブスクリプションまたは EA サブスクリプションから CSP に移行した場合、予約は移行されません。
 
@@ -100,7 +94,7 @@ ms.locfileid: "96534609"
 
 ## <a name="purchase-azure-reservations"></a>Azure Reservations を購入する
 
-パートナー センターで顧客に代わって Microsoft Azure Reservations を購入するには、次の手順に従います。 (お客様が以前に購入した Azure サブスクリプションから独自の Azure 予約を購入できるようにしますか? 「 [Azure の予約を購入するためのアクセス許可を顧客に付与する」を](give-customers-permission.md)参照してください。)
+パートナー センターで顧客に代わって Microsoft Azure Reservations を購入するには、次の手順に従います。 (顧客は、購入した以前の Azure サブスクリプションから独自の Azure 予約を購入できますか? 「 [独自の Azure 予約を購入するためのアクセス許可を顧客に付与する」を参照してください](give-customers-permission.md)。
 
 1. パートナー センター メニューで、**[顧客]** を選択します。  
 

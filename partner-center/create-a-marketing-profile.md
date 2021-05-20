@@ -9,19 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f66a5c32f145be5a80de838dae2cd1926e6aebce
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964393"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148208"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Microsoft の見込み客情報を入手し、顧客が貴社を見つけられるようにビジネス プロファイルを作成する
 
-**適切なロール**
-
-- ビジネス プロファイル管理者
-- 紹介管理者
+**対象のロール**: ビジネス プロファイル管理者 | 紹介管理者
 
 認定 Microsoft  パートナーは、ビジネス プロファイルを作成して自社のビジネスを広く告知することで、その独自のソリューションや専門知識を活用してビジネス ニーズを解決したいと考えるお客様にアピールできます。
 

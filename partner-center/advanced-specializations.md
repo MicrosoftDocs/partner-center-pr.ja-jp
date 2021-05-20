@@ -1,62 +1,59 @@
 ---
-title: 高度な特殊化の詳細
+title: 高度な特殊化について学習する
 ms.topic: article
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft partner directory のビジネスプロファイルを強化します。 既存の Gold およびシルバーコンピテンシーと共に実現できる高度な特殊化について説明します。
+description: Microsoft パートナー ディレクトリでビジネス プロファイルを強化します。 既存の Gold および Silver コンピテンシーと共に取得できる高度な特殊化について説明します。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557768"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150456"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>高度な特殊化を獲得して、検証済みの機能を紹介する
+# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>高度な特殊化を獲得し、検証済み機能を紹介する
 
-**適切なロール**
+**適切なロール**: グローバル管理者|アカウント管理者
 
-- グローバル管理者
-- アカウント管理者
+Microsoft の高度な特殊化は、パートナーが獲得できる関連 [するゴールド](learn-about-competencies.md) コンピテンシーを基に構築されています。 ゴールド コンピテンシーを獲得すると、パートナーは、関連する高度な特殊化と共に、顧客との機能をさらに差別化できます。
 
-Microsoft の高度な特殊化は、パートナーが獲得できる関連する [gold コンピテンシー](learn-about-competencies.md) に基づいて構築されます。 Gold コンピテンシーとそれに関連する高度な特殊化を獲得することにより、パートナーは機能を顧客にさらに差別化できます。
+高度な特殊化を得るために、パートナーは多くの場合、顧客参照の取得、サードパーティの監査の実施、関連するスキル セットの達成の確認、特定の他のパフォーマンス測定の達成など、要求の厳しい要件を満たす必要があります。
 
-高度な特殊化を実現するために、パートナーは多くの場合、顧客の参照の取得、サードパーティの監査の締結、関連するスキルセットの達成の証明、およびその他のパフォーマンス測定の達成など、要求の厳しい要件を満たす必要があります。
+これらの厳格な要件を満たすと、パートナーは、顧客の需要と関連性の高い領域に合わせてカスタマイズされた顧客ソリューションを提供する上で、深い知識、広範な経験、実証済みの成功を検証できます。
 
-これらの厳格な要件を満たすことにより、パートナーは、高度な知識、広範な経験、実績のある成功を検証して、顧客の需要や関連性が高い分野向けにカスタマイズされた顧客ソリューションを提供できます。
-
-高度な特殊化を獲得するパートナーは、 [Microsoft solution provider finder](https://www.microsoft.com/solution-providers/home)のビジネスプロファイルに表示できる顧客向けのラベルを取得します。 このラベルにより、パートナーの機能がさらに検証され、関連する特典へのアクセス、顧客リーチの拡大、顧客の信頼度の向上が可能になります。
+高度な特殊化を獲得したパートナーは、Microsoft ソリューション プロバイダー の検索機能でビジネス プロファイルに表示できる顧客向 [けラベルを取得します](https://www.microsoft.com/solution-providers/home)。 このラベルは、パートナーの機能をさらに検証しながら、関連する特典、顧客のリーチの拡大、顧客の信頼度の向上にアクセスできます。
 
 > [!NOTE]
-> 高度な特殊化の詳細については、 [Microsoft Partner Network の高度な特殊化](https://partner.microsoft.com/membership/advanced-specialization)に関するページを参照してください。
+> 高度な特殊化の詳細については、高度な特殊化に関するページ [Microsoft Partner Networkを参照してください](https://partner.microsoft.com/membership/advanced-specialization)。
 
 ## <a name="advanced-specialization-areas"></a>高度な特殊化領域
 
-各高度な特殊化は、ソリューション領域に対応します。
+高度な各特殊化は、ソリューション領域に対応しています。
 
 - Azure
 - ビジネス アプリケーション
-- モダン作業
+- Modern Work
 - セキュリティ
 
-**Azure** の高度な特殊化には次のものがあります。
+**Azure の** 高度な特殊化には、次のものが含まれます。
 
-- Microsoft Azure での分析
+- Microsoft Azure の分析
 - Data Warehouse の Microsoft Azure への移行
 - Microsoft Azure 上の Kubernetes
-- Microsoft Azure への Linux およびオープンソースデータベースの移行
+- Linux およびオープン ソース データベースへの移行Microsoft Azure
 - Microsoft Windows Virtual Desktop
 - Web アプリケーションの Microsoft Azure への最新化
 - Microsoft Azure 上の SAP
 - Windows Server および SQL Server の Microsoft Azure への移行
 
-**Business Applications** 高度な特殊化には次のものがあります。
+**Business Applications** 高度な特殊化には次のものが含まれます。
 
-- 低コードアプリケーション開発
+- ロー コード アプリケーション開発
 - 小規模および中規模のビジネス管理
 
 **最新の作業** 高度な特殊化には次のものがあります。

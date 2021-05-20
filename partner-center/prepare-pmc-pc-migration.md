@@ -9,21 +9,16 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 7f533240d5236f03fe277d4c6dfa02ed1c58b63c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633881"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855014"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Partner Membership Center (PMC) からパートナー センターへの移行を準備する
 
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- 販売代理店
-- 管理エージェント
+**対象のロール**: グローバル管理者 | ユーザー管理の管理者 | 販売エージェント | 管理エージェント
 
 当社では、メンバーシップの管理を Partner Membership Center (PMC) から、お客様の Microsoft との取引関係を管理するための単一の目的地であるパートナー センターに移行しています。 お客のパートナー センターへの移行をできるだけ効率的かつ簡単にしたいと考えています。 当社はパートナー センターが PMC とは異なるいくつかの領域を識別しており、お客様は移行を行う前にこれを理解し、準備する必要があります。
 

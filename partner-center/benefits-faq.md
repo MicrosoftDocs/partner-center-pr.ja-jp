@@ -2,63 +2,61 @@
 title: 利点に関する FAQ
 ms.topic: article
 ms.date: 12/15/2020
-description: Azure、クラウド、Visual Studio、テクニカルおよびサポートの特典の特典の有効期限、更新、ライセンス認証に関する質問への回答
+description: Azure、クラウド、クラウド、クラウド、およびサポートの特典の有効期限、更新、ライセンスのアクティブ化に関する質問Visual Studio回答
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 7c3ee29099a072de3e508fcdfcfd965082522895
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557700"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149283"
 ---
 # <a name="benefits-faq"></a>利点に関する FAQ
 
-**適切なロール**
+**適切なロール**: MPN パートナー管理者
 
-- MPN パートナー管理者
-
-Microsoft Partner Network (MPN) の特典に関してよく寄せられる質問については、この記事で取り上げています。
+この記事では、Microsoft Partner Network (MPN) の利点に関する多くの一般的な質問に対処します。
 
 
 ## <a name="general-questions"></a>一般的な質問
 
 ### <a name="q-what-does-benefit-expiry-date-mean"></a>Q. "特典の有効期限" の意味
 
-特典の有効期限は、特典を有効にする最後の日付を意味します。
+特典の有効期限は、特典をアクティブ化する最終日を意味します。
 
-1年間の登録期間中に利用可能な特典を利用するために、更新日までご利用いただけます。 更新の開始日は、MPN ダッシュボードの [ [メンバーシップの提供](https://partner.microsoft.com/dashboard/mpn/offers) ] ページで確認できます。
+更新日まで、1 年間の加入期間中に利用できる特典を利用できます。 更新開始日は、MPN ダッシュボードの [ [メンバーシップ](https://partner.microsoft.com/dashboard/mpn/offers) オファー] ページから確認できます。
 
-ただし、プロダクトキーは、それぞれのクラウドポータルでキーを引き換える日から1年間使用することができます。
+ただし、それぞれのクラウド ポータルでキーを引き換えた日から 1 年間、プロダクト キーを使用できます。
 
-たとえば、特典の有効期限が2021年1月31日の場合、2021年1月31日より前に、適切なクラウドポータルでキーを引き換える必要があります。 また、2020年12月1日にプロダクトキーを使用する場合は、特典の有効期限が1月31日であっても、2021年12月1日までにそのキーを使用できます。
+たとえば、特典の有効期限が 2021 年 1 月 31 日の場合、2021 年 1 月 31 日より前の適切なクラウド ポータルでキーを引き換える必要があります。 また、2020 年 12 月 1 日にプロダクト キーを引き換える場合は、特典の有効期限が 1 月 31 日である場合でも、2021 年 12 月 1 日までそのキーを使用できます。
 
 >[!NOTE]
->ユーザー割り当て (Visual Studio サブスクリプションなど) が必要な特典がある場合は、登録の更新日から30日後にその特典をアクティブ化して使用することができます。
+>ユーザーの割り当て (Visual Studio サブスクリプションなど) を必要とする特典がある場合は、登録更新日から 30 日間、その特典をアクティブ化して使用できます。
 
-### <a name="q-how-do-i-renew-my-benefits"></a>Q. 特典を更新操作方法には
+### <a name="q-how-do-i-renew-my-benefits"></a>Q. 操作方法特典を更新する
 
 特典を更新するには、次の手順に従います。
 
 1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 
-2. 左側のナビゲーションで、[ **MPN**] を選択します。
+2. 左側のナビゲーションで **、[MPN] を選択します**。
 
-3. [ **MPN** ] タブで、[ **特典** ] オプションを選択します。
+3. **[MPN] タブ** で、[特典]**オプションを選択** します。
 
 4. 必要な特典をアクティブ化します。
 
-必要な特典が利用できない場合は、パートナーセンターのメンバーシップを更新して、上記の手順を繰り返す必要があります。
+必要な特典が利用できない場合は、パートナー センターメンバーシップを更新し、上記のプロセスを繰り返す必要があります。
 
-### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>Q. サブスクリプションの有効期限が近づいていることを通知する通知を受信しました-必要な操作
+### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>Q. サブスクリプションの有効期限が間もなく切れているという通知を受け取った - 何をする必要がある
 
-通知を生成したクラウドポータルにサインインし、既存のサブスクリプションの有効期限を確認してから、サブスクリプションの有効期限が切れるサブスクリプションにライセンスを追加するか、次の登録期間中は既存のサブスクリプションを延長します。
+通知を生成したクラウド ポータルにサインインし、既存のサブスクリプションの有効期限を確認してから、期限切れのサブスクリプションにライセンスを追加するか、登録の次の年に既存のサブスクリプションを拡張します。
 
-### <a name="q-when-can-i-renew-my-membership"></a>Q. メンバーシップを更新できるのはいつですか
+### <a name="q-when-can-i-renew-my-membership"></a>Q. メンバーシップを更新できる期間
 
 既存のメンバーシップは、更新開始日からいつでも更新できます。
 
@@ -95,29 +93,29 @@ Azure の一括クレジットプランを他のプランと組み合わせる�
 
 4. 使用可能な既存の Visual Studio サブスクリプションに、目的のユーザーを割り当てます。
 
-サブスクリプションを割り当てた後、ユーザーはそのサブスクリプションを管理するために Visual Studio にログインする必要があります。
+サブスクリプションを割り当てた後、ユーザーはサブスクリプションにログインしてVisual Studio管理する必要があります。
 
 >[!Note]
-> 元の割り当ての時間から90日が経過すると、Visual Studio サブスクリプションがサブスクライバー間で再割り当てされる場合があります。
+> Visual Studio割り当てから 90 日が経過した場合、サブスクリプションをサブスクライバー間で再割り当てできます。
 
 ## <a name="technical-benefits-and-support"></a>技術的な利点とサポート
 
-### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>Q. パートナーセンターからダウンロードしたソフトウェアをインストールできません。 ヘルプを表示操作方法には
+### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>Q. アプリからダウンロードしたソフトウェアをインストールパートナー センター。 操作方法ヘルプを表示する
 
-インストール、ライセンス認証、およびその他の製品関連のヘルプは、Microsoft サポートによって提供されます。 サポートを受けるには、次の手順を実行します。
+インストール、アクティブ化、その他の製品関連のヘルプは、次のMicrosoft サポート。 サポートを受け取る場合は、次の手順を実行します。
 
 1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
 
-2. パートナーセンターメニューで、[ **MPN**] を選択します。
+2. メニューの [パートナー センター **MPN] を選択します**。
 
-3. [ **特典**] を選択し、[ **技術的な特典**] を選択します。
+3. [ **特典] を** 選択し、[技術特典 **] を選択します**。
 
-4. [技術的なメリット] セクションを使用して、アクセス ID/契約 ID をアクティブ化し、受信します。
+4. [技術的な特典] セクションを使用して、アクセス ID/コントラクト ID をアクティブ化して受け取る。
 
-5. [Microsoft サポート](https://support.microsoft.com/supportforbusiness/productselection)にログインします。
+5. にログイン[Microsoft サポート。](https://support.microsoft.com/supportforbusiness/productselection)
 
-6. インストールしようとしている製品を選択し、テクニカルサポートチケットを作成します。
+6. インストールしようとしている製品を選択し、テクニカル サポート チケットを作成します。
 
 ## <a name="next-steps"></a>次のステップ
 
-- [専門知識を得るための高度な特殊化を獲得](advanced-specializations.md)
+- [高度な専門知識を獲得して専門知識を紹介する](advanced-specializations.md)

@@ -9,21 +9,16 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: cd7567a53f517d770bf51c734f5a1ace7b6ec94b
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941777"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150558"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>パートナー センターで新しい顧客レコードを追加する方法
 
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
-- 管理エージェント
-- 販売代理店
+**適切なロール**: 全体管理者 |ユーザー管理の管理者 |管理エージェント |営業担当者
 
 この記事では、パートナーセンターで顧客の一覧に新しい顧客を追加する方法について説明します。 これらの手順は、サブスクリプションを販売したり、課金を管理したり、顧客にサポートを提供したりする前に行う必要があります。
 

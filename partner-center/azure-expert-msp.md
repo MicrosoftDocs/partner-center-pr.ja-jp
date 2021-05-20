@@ -9,21 +9,16 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 364add7e25052ce97bfb26b84b26c5fcc430637d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 45908ef67beaf2f84ae4cddfe11bfdfe8886ab96
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534660"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149810"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Azure Expert マネージド サービス プロバイダー プログラム
 
-**適切なロール**
-
-- アカウント管理者
-- ビジネス プロファイル管理者
-- グローバル管理者
-- MPN パートナー管理者
+**適切なロール**: Account admin |ビジネスプロファイルの管理者 |全体管理者 |MPN パートナー管理者
 
 あなたの会社が顧客への Azure サービスの販売や管理で際立った業績を上げているならば、Azure Expert マネージド サービス プロバイダー (MSP) プログラムへの応募をご検討ください。 Azure エキスパート MSP パートナーは、他の Microsoft パートナーと区別するための専用バッジを獲得し、紹介エンジンで最優先事項を取得します。 共同販売契約に優先順位が付けられ、新しいプラクティスの開発時にサポートを受けることができ、排他イベントにも参加できます。
 

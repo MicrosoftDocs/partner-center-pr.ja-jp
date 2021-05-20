@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f005db5d69fe6febf79720544642ee9f3d8c2e75
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354408"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148875"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>ソリューション評価の支払い状態と計算情報
 
-**適切なロール**
-
-- 主要連絡先またはプログラム管理者
+**適切なロール**: 主要連絡先またはプログラム管理者
 
 チップで、ソリューション評価の営業案件の状態の支払い状態を確認できます。
 

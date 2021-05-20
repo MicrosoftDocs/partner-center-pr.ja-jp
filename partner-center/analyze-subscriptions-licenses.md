@@ -1,6 +1,6 @@
 ---
 title: サブスクリプションとライセンスの分析
-description: '[サブスクリプションとライセンス分析] ページのメトリックを使用して、注意が必要な成功と領域を特定する方法について説明します。'
+description: '[サブスクリプションとライセンスの分析] ページでメトリックを使用して、より注意が必要な成功と領域を特定する方法について学習します。'
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,28 +9,23 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 45a0ebb70f6e139b1e130c3cfc1d24eb79b41a0d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103793"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150150"
 ---
-# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>サブスクリプションとライセンスを分析して、ビジネス上の意思決定や新しい目標を促進
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>サブスクリプションとライセンスを分析して、ビジネス上の意思決定と新しい目標を立てるのに役立ちます
 
-**適切なロール**
+**適切なロール**: グローバル管理者|ユーザー管理管理者|管理エージェント |セールス エージェント
 
-- グローバル管理者
-- ユーザー管理の管理者
-- 管理エージェント
-- 販売代理店
+データはビジネス上の意思決定を促進します。 [サブスクリプションとライセンス **分析]** ページのメトリックを使用して、より注意が必要な成功と領域を特定します。 新しいビジネス目標を計画するときに、この情報を使用できます。
 
-データはビジネス上の意思決定を促進します。 [ **サブスクリプションとライセンス分析** ] ページのメトリックを使用して、さらに注意が必要な成功と領域を特定します。 新しいビジネス目標を計画するときに、この情報を使用できます。
-
-**CSP TTM 収益 (米国ドル)**: このメトリックは、この csp アカウントが関連付けられているパートナーの場所アカウントとパートナーのグローバルアカウント (PGA) の末尾の12か月 (ttm) に対して請求される、集計された csp を表します。 別の PGA がある他の CSP アカウントがある場合は、それぞれにサインインして、対応する集計された TTM 収益を確認する必要があります。  [Download details] \ (ダウンロードの詳細 \) リンクをクリックすると、MPN ID ごとの TTM 収益 (USD) の内訳が表示されます。
+**CSP TTM Revenue (USD)**:このメトリックは、この CSP アカウントが関連付けられているパートナーの場所アカウントとパートナー グローバル アカウント (PGA) の、後続の 12 か月間の合計 CSP 請求収益 (USD) を表します。 別の PGA を持つ他の CSP アカウントがある場合は、それぞれのアカウントにサインインして、対応する集計 TTM 収益を表示する必要があります。  ダウンロードの詳細リンクをクリックして、MPN ID ごとの TTM 収益 (USD) の内訳を取得します。
 
 >[!NOTE]
->商用の現地通貨料金 (レガシコマース FX) は、米ドルの +/-5% 以内に管理されます。 従来のコマース販売率 (FX) は、最新のコマースエクスペリエンスで Azure によって使用される請求 FX の料金とは異なります。 最新のコマース請求 FX 料金は、Microsoft P&L 料金 (Reuters FX レート from 財務省 feed) に基づいています。 従来のコマース FX 料金は Microsoft 社外秘です。
+>コマーシャルの現地通貨価格 (Legacy Commerce FX) は、米国ドルの +/-5% 以内に管理されます。 レガシ コマースの為替レート (FX) は、Azure が Modern Commerce エクスペリエンスで使用する課金 FX レートとは異なります。 Modern Commerce の課金の FX レートは、Microsoft P&L レート (Reuters FX のレートは、財務フィードから) に基づいて計算されます。 従来のコマース FX レートは Microsoft の機密です。
 
 
 レポートの残りの部分は、次の製品に基づいてピボットできます。
@@ -41,7 +36,7 @@ ms.locfileid: "106103793"
  - **Office 365**: Office 365 データ  
 
 
-## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>表示可能なサブスクリプションとライセンスメトリックの種類
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>表示できるサブスクリプションとライセンス メトリックの種類
 
 次のメトリックを追跡しています。
 

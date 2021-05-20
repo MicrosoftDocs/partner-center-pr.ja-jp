@@ -8,18 +8,16 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 578a5bdb6dffa985e9ce78eea5309b2564071313
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354459"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148484"
 ---
 # <a name="competencies---frequently-asked-questions"></a>コンピテンシー-よく寄せられる質問
 
-**適切なロール**
-
-- MPN パートナー管理者
+**適切なロール**: MPN partner admin
 
 この記事では、Microsoft Partner Network コンピテンシーの提供に関連する試験、認定資格、およびソフトウェアの利点に関する一般的な質問に回答します。
 
@@ -48,36 +46,36 @@ ms.locfileid: "97354459"
 
 組織のスキルに関するその他のレポートは、パートナーセンターの [パートナーセンターの洞察](partner-center-insights.md) 領域からも入手できます。 これらのレポートを表示するには、 **レポートビューアー** または **Executive レポートビューアー** の洞察固有の役割が割り当てられている必要があります。 これらのロールのいずれかにアクセスできるように、MPN パートナー管理者に依頼することが必要になる場合があります。
 
-次のように、Insights レポートを表示します。
+分析情報レポートを次のように表示します。
 
 1. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
-1. パートナーセンターのメニューで [ **Insights** ] を選択し、次に [ **組織のスキル**] を選択します。 小さいメニューが表示されます。
+1. [ **分析情報]** を選択パートナー センター、次に [組織のスキル] **を選択します**。 小さいメニューが表示されます。
 
-1. メニューから [ **トレーニング** ] または [ **Microsoft Learn** ] を選択します。
+1. メニューから **[トレーニング** ] **または [Microsoft Learn]** を選択します。
 
-   - [ **トレーニング** ] を選択すると、特定の期間における組織の認定、評価、および試験の概要が表示されます。 このレポートの詳細については、「 [トレーニング](pci-training-dashboard.md)」を参照してください。
+   - [ **トレーニング]** を選択すると、特定の期間における組織の認定、評価、試験の概要が表示されます。 このレポートの詳細については、「トレーニング」を [参照してください](pci-training-dashboard.md)。
 
-   - [ **Microsoft Learn** ] を選択すると、組織の完了したモジュールの概要と、特定の期間のラーニングパスが表示されます。 このレポートの詳細については、「 [Microsoft Learn analytics レポート](ms-learn-analytics.md)」を参照してください。
+   - **[Microsoft Learn]** を選択すると、組織の完了したモジュールと特定の期間のラーニング パスの概要が表示されます。 このレポートの詳細については、「分析レポートのMicrosoft Learn [を参照してください](ms-learn-analytics.md)。
 
-## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>Q. パートナーセンターのユーザースキルレポートで最新のユーザー評価を確認するには、どのくらいの時間がかかりますか。
+## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>Q. 「ユーザー スキル レポート」の最新のユーザー評価を確認するにはパートナー センターどのくらいの時間が必要ですか?
 
-パートナーの大学アカウントは、パートナーセンターのユーザーアカウントに関連付けられます。 パートナーセンターのユーザースキルレポートには、ユーザーの評価が **72 時間** 以内に表示されます。
+パートナー大学アカウントは、ユーザー アカウントパートナー センター関連付けられる。 ユーザーの評価は、72 時間以内に パートナー センターユーザー スキル レポート **に表示されます**。
 
-このレポートには、パートナーセンターのコンピテンシーとプログラムに関連するスキルのみが表示されます。 (廃止されたスキルの一部は、インベントリから削除されてから12か月以上表示される場合もあります)。
+このレポートに表示されるのは、パートナー センターのコンピテンシーとプログラムに関連するスキルのみです。 (一部の廃止されたスキルは、廃止後 12 か月間以上表示される場合があります)。
 
-特定のコンピテンシーの要件を必ず確認してください。 確認するには、パートナーセンターの [ダッシュボード](https://partner.microsoft.com/dashboard)または [ [Microsoft Partner Network コンピテンシー] ページ](https://partner.microsoft.com/membership/competencies)で [**コンピテンシー** ] メニューオプションを使用します。
+特定のコンピテンシーの要件を確認してください。 確認するには、ダッシュボードの [**コンピテン** シー] メニュー オプション [](https://partner.microsoft.com/dashboard)または [パートナー センターコンピテンシー [] Microsoft Partner Network使用します](https://partner.microsoft.com/membership/competencies)。
 
 > [!NOTE]
-> 試験、評価、または認定が特定のコンピテンシーの要件として明記されていない限り、そのコンピテンシーを満たしているとは見なされません。
+> 試験、評価、または認定が特定のコンピテンシーの要件として特に言及されていない限り、そのコンピテンシーを満たすとは見なされません。
 
-## <a name="q-what-are-the-software-benefits-such-as-license-use-rights-that-i-am-entitled-to-when-i-achieve-a-gold-or-silver-competency-or-buy-a-microsoft-action-pack-subscription-maps"></a>Q. Gold またはシルバーコンピテンシーを獲得した場合、または Microsoft Action Pack サブスクリプション (MAPS) を購入した場合、どのソフトウェア特典 (ライセンス使用権など) が与えられますか?
+## <a name="q-what-are-the-software-benefits-such-as-license-use-rights-that-i-am-entitled-to-when-i-achieve-a-gold-or-silver-competency-or-buy-a-microsoft-action-pack-subscription-maps"></a>Q. 金またはシルバーのコンピテンシーを達成したり、Microsoft Action Pack サブスクリプション (MAPS) を購入したりするときに、どのようなソフトウェア特典 (ライセンス使用権など) を受け取る資格がありますか?
 
 次のリソースを参照してください。
 
-- コンピテンシーパートナーのライセンステーブルを[ダウンロード](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)します。
+- [コンピ](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) テンシー パートナーのライセンス テーブルをダウンロードします。
 
-- Microsoft Action Pack サブスクリプションパートナーのライセンステーブルを[ダウンロード](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)します。
+- [Microsoft](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) Action Pack サブスクリプション パートナーのライセンス テーブルをダウンロードします。
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>Q. Microsoft 認定プロファイル ID (MCP ID または MCID) を Microsoft パートナーセンターアカウントにリンク操作方法ますか?
 

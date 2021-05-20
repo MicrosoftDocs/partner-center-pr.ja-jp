@@ -1,31 +1,24 @@
 ---
-title: 顧客のアクティビティログで洞察を得る
+title: 顧客アクティビティ ログを使用して分析情報を取得する
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: アクティビティログを表示およびエクスポートして、顧客のアカウントトランザクションやその他の顧客関連のパートナー管理アクティビティに関する洞察を得る方法について説明します。
+description: アクティビティ ログを表示およびエクスポートして、顧客アカウントのトランザクションや他の顧客関連のパートナー管理アクティビティに関する分析情報を取得する方法について説明します。
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474242"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150592"
 ---
-# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>顧客のアクティビティログを表示またはエクスポートして、顧客トランザクションの詳細を把握します
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>顧客のトランザクションに関する詳細な分析情報を得る場合は、顧客アクティビティ ログを表示またはエクスポートします
 
-**適切なロール**
-
-- グローバル管理者
-- 課金管理者
-- ユーザー管理の管理者
-- 管理エージェント
-- 販売代理店
-- ヘルプデスク エージェント
+**適切なロール**: グローバル管理者|課金管理者|ユーザー管理管理者|管理エージェント |Sales Agent |ヘルプデスク エージェント
 
 アクティビティ ログは、顧客の取引やパートナーによる顧客の管理アクションに関する情報を提供します。 取引のログは、サブスクリプションの購入など、取引に関する詳細情報を提供します。 Excel 互換のコンマ区切り値ファイル形式 (.csv) でアクティビティ ログをエクスポートすることもできます。
 
@@ -53,4 +46,4 @@ ms.locfileid: "96474242"
 
 ## <a name="next-steps"></a>次のステップ
 
-- [サブスクリプションとライセンスを分析して、ビジネス上の意思決定を促進する](analyze-subscriptions-licenses.md)
+- [サブスクリプションとライセンスを分析してビジネス上の意思決定を支援する](analyze-subscriptions-licenses.md)

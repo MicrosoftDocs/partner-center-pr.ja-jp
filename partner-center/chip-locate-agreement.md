@@ -1,57 +1,55 @@
 ---
-title: デスクトップの数と料金レベルを検索する
+title: デスクトップの数と料金レベルを確認する
 ms.topic: how-to
 ms.date: 02/18/2021
-description: チャネルインセンティブプラットフォーム (チップ) を使用して、アグリーメントのデスクトップ数と料金レベル情報を検索する方法について説明します。
+description: Channel Incentives プラットフォーム (CHIP) を使用して、契約のデスクトップ数と料金レベルの情報を見つける方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e433b44f158c3e4cefe22027e7f7d3b845991308
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756114"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148994"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>任意の契約のデスクトップ数と料金レベルを検索する
 
-**適切なロール**
+**適切なロール**: 主要連絡先またはプログラム管理者
 
-- 主要連絡先またはプログラム管理者
+アカウントに [ログインして](https://www.explore.ms/) 、explore.ms 確認したり、デスクトップの数と料金レベルの契約の詳細を提供するファイルをダウンロードしたりできます。
 
-[Explore.ms](https://www.explore.ms/)にログインしてアグリーメントを確認するか、デスクトップの数と料金レベルの契約の詳細を提供するファイルをダウンロードすることができます。
+## <a name="to-locate-the-information"></a>情報を見つけるには
 
-## <a name="to-locate-the-information"></a>情報を検索するには
+### <a name="method-1--explorems"></a>方法 1 – Explore.ms
 
-### <a name="method-1--explorems"></a>方法1– Explore.ms
-
-1. Internet Explorer で [explore.ms](https://www.explore.ms/) を開きます。 
+1. [[explore.ms]](https://www.explore.ms/)を開Internet Explorer。 
 
 >[!Note]
->この機能は Google Chrome または Microsoft Edge では実行できません。
+>この関数は、Google Chrome または Microsoft Edge で実行することはできません。
 
-2. 職場または学校のアカウントまたは live ID でログインします。  
+2. 自分のワーク/学校アカウントまたはライブ ID でログインします。  
 
-3. [ **レポート** ] フィールドで、[ **アグリーメント**] を選択します。
+3. [レポート] **フィールドで** 、[契約] **を選択します**。
 
-4. 結果のページで、[ **検索** ] フィールドに契約番号を入力し、[ **列の選択/順序**] を選択します。
+4. 結果のページで、[検索] フィールドに契約番号を **入力** し、[列の選択/順序] **を選択します**。
 
-5. ポップアップウィンドウで、[使用できる列] ボックスの一覧から [ **アグリーメントデスクトップ数** ] を選択し、右矢印を選択して列を追加します。 **[OK]** を選択します。
+5. ポップアップ ウィンドウで、使用可能な列の一覧から **[Agreement Desktop Count]** を選択し、右矢印を選択して列を追加します。 **[OK]** を選択します。
 
-6. [検索] を選択し **ます。**
+6. [検索 **] を選択します。**
 
-7. 結果の画面で、結果をスクロールして [ **Agreement Desktop Count** ] 列を見つけます。 
+7. 結果の画面で、結果をスクロールして [Agreement Desktop Count]/(アグリーメント デスクトップ数 **)列を探** します。 
 
-8. 次のレート表に基づいて、desktop count を使用して料金レベルを決定します。  
+8. デスクトップ数を使用して、以下の料金表に基づいて料金レベルを決定します。  
 
-| 料金レベル | デスクトップの数 |
+| 料金レベル | デスクトップ数 |
 | ------ | :-----------: |
-|  A | 0 ~ 2399    |
-|  B | 2400 ~ 5999    |
-|  C | 6000 ~ 14999    |
+|  A | 0 – 2,399    |
+|  B | 2,400 – 5,999    |
+|  C | 6,000 – 14,999    |
 |  D | 15000 +   |
 
 >[!NOTE]

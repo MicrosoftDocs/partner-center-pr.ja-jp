@@ -2,46 +2,44 @@
 title: CHIP の利益を表示する
 ms.topic: how-to
 ms.date: 11/09/2020
-description: チャネルインセンティブプラットフォーム (チップ) ツールでインセンティブステートメントと収益を表示する方法について説明します。
+description: Channel Incentives Platform (CHIP) ツールでインセンティブに関する声明と収益を表示する方法について説明します。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354493"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149028"
 ---
-# <a name="view-earnings-using-the-chip-tool"></a>チップツールを使用して収益を表示する
+# <a name="view-earnings-using-the-chip-tool"></a>CHIP ツールを使用して収益を表示する
 
-**適切なロール**
+**適切なロール**: 主要連絡先またはプログラム管理者
 
-- 主要連絡先またはプログラム管理者
+インセンティブに関する声明には、Channel Incentives Platform ツール (CHIP) を使用してアクセスできます。
 
-インセンティブステートメントには、チャネルインセンティブプラットフォームツール (チップ) を使用してアクセスできます。
+## <a name="view-earnings"></a>収益を表示する
 
-## <a name="view-earnings"></a>収益の表示
+1. お使Microsoft アカウント (以前のライブ ID) を使用して CHIP にサインインします。
 
-1. Microsoft アカウント (以前の Live ID) を使用してチップにサインインします。
+2. 関心のあるインセンティブ プログラムを選択します。
 
-2. 興味のあるインセンティブプログラムを選択します。
-
-3. [ **プログラムの概要** ] で、[期間] または [月] を選択します。 
-1. ドロップダウンリストから [計算の詳細] を選択します。
-1.  通知バーの [ **開く** ] をクリックして、ステートメントを開きます。
+3. [プログラム **の概要] で、** 期間または月を選択します。 
+1. ドロップダウン リストから [計算の詳細] を選択します。
+1.  通知 **バーの [** 開く] をクリックして、ステートメントを開きます。
 
 ### <a name="explanation-of-details-tabs"></a>詳細タブの説明
 
 |**Tab**|**定義**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|顧客名、契約、レバーの詳細など、選択した期間のインセンティブプログラムの詳細が含まれます|
-|DeltaReport-ピボット|最後に発行されたステートメントからのエンタープライズのみの更新|
-|レポート-ピボット|通貨と支払金額を含む支払詳細の概要|
-|アチーブメントの詳細|基準値、達成率、および空き容量の割合 (%)|
+|DetailReport-Flatfile|顧客名、契約、ハンドルの詳細など、選択した期間のインセンティブ プログラムの詳細が含まれます|
+|DeltaReport-pivot|Enterprise 専用の最後に発行されたステートメントからの更新|
+|DetailReport-pivot|通貨と支払金額を含む支払いの詳細の概要|
+|アチーブメントの詳細|SPLAR のベースライン値、達成率、および増加率のみ|
 
 ## <a name="next-steps"></a>次のステップ
 

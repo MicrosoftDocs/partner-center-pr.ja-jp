@@ -1,6 +1,6 @@
 ---
 title: 最大限の予約使用に備えた Azure VM サイズ
-description: Microsoft Azure の予約を購入した場合に、お客様のコンピューティングニーズに合わせて仮想マシン (VM) のサイズを変更する方法について説明します。
+description: 仮想マシン (VM) を顧客のコンピューティングニーズに合Microsoft Azureする方法について説明します。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,38 +9,35 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 14d488091227e30909b3d41af0684494a8b55de7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534949"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149453"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ
 
-**適切なロール**
+**適切なロール**: 管理エージェント |セールス エージェント
 
-- 管理エージェント
-- 販売代理店
-
-この記事では、Microsoft Azure の予約を購入した場合に、お客様のコンピューティングニーズに合わせて仮想マシン (VM) のサイズを変更する方法について説明します。
+この記事では、仮想マシン (VM) を顧客のコンピューティングニーズに合Microsoft Azureについて説明します。
  
 > [!NOTE]
-> この記事は、クラウドソリューションプロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (従量課金制、個人、Microsoft カスタマーアグリーメント、マイクロソフトエンタープライズ契約サブスクリプションなど) を使用しているお客様は、代わりに [この Azure 予約ドキュメント](/azure/cost-management-billing/reservations)を読む必要があります。
+> この記事は、クラウド ソリューション プロバイダー (CSP) プログラムのパートナーにのみ適用されます。 他の種類のサブスクリプション (例: 使用料、個人、Microsoft 顧客契約、Enterprise Agreement サブスクリプション) を使用しているお客様は、代わりに、この Azure の予約に関するドキュメントをお読 [みください](/azure/cost-management-billing/reservations)。
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>顧客の Azure 予約の VM サイズを決定する
 
-お客様の代わりに Microsoft Azure 予約を購入する場合は、お客様のコンピューティングニーズに合わせて仮想マシン (VM) のサイズを選択する必要があります。 この情報は、次のいずれかの方法を使用して確認できます。
+顧客に代Microsoft Azure予約を購入する場合は、顧客のコンピューティング ニーズに合わせてサイズが設定された仮想マシン (VM) を選択する必要があります。 この情報は、次のいずれかの方法を使用して確認できます。
 
 - Azure Utilization API
 - Azure ポータル
 - Azure PowerShell
 - Azure Resource Manager (ARM) API
 
-これらの方法を使用するための手順をそれぞれ以下に示します。 予約を購入した後、予約の属性および数量に一致する仮想マシンに予約割引が自動的に適用されます。 VM に予約を割り当てる必要はありません。
+これらの方法を使用するための手順をそれぞれ以下に示します。 予約を購入した後、予約の属性および数量に一致する仮想マシンに予約割引が自動的に適用されます。 予約を VM に割り当てる必要はない。
 
 >[!NOTE]
->予約割引は、クラシックまたはプロモーションの Vm には適用されません。
+>予約割引は、クラシック VM またはプロモーション VM には適用されません。
 
 >[!IMPORTANT]
 >顧客に代わって購入する VM の種類とサイズを正しく特定するには、以下で説明するいずれかの方法を使用する必要があります。パートナー センターの調整ファイルには、VM 系列の種類が正しく表示されません。
@@ -49,17 +46,17 @@ ms.locfileid: "96534949"
 
 1. API の応答に含まれる additionalInfo の ServiceType 属性の値を使用して、購入する VM サイズ を特定します。
 
-2. 詳細については、[パートナーセンター API](/partner-center/develop/)の「 [Azure の顧客の使用状況レコードを取得する](/partner-center/develop/get-a-customer-s-utilization-record-for-azure)」を参照してください。
+2. 詳細については、Azure の [顧客](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) の使用状況レコードの取得に関するページを参照パートナー センター [してください](/partner-center/develop/)。
 
 ### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Microsoft Azure portal を使用して VM サイズ情報を取得する
 
 1. パートナー センターで **[顧客]** ページに移動します。
 
-2. Azure VM の予約を購入したい顧客を見つけて、下矢印を選択して顧客の情報を展開します。 [ **Microsoft Azure の管理ポータル** ] を選択して、Azure portal で顧客のレコードを開きます。
+2. Azure VM の予約を購入する顧客を探し、下矢印を選択して顧客の情報を展開します。 **[Microsoft Azure の管理ポータル]** を選択して、顧客のレコードを Azure portal。
 
 3. ポータルのメニューから **[仮想マシン]** を選択し、予約を購入する対象の VM を選択します。
 
-4. VM の詳細ページで、次に示すように、サイズとリージョンの情報を検索し、この情報を使用してパートナーセンターで予約を購入します。  
+4. VM の詳細ページで、次に示すサイズとリージョンの情報を見つけ、この情報を使用して パートナー センター で予約を購入します。  
 
    :::image type="content" source="images/usage1.png" alt-text="[詳細] ページのサイズとリージョンの情報":::
 
@@ -78,15 +75,15 @@ ms.locfileid: "96534949"
 3. この呼び出しでは、**vmSize** と **location** の値が返されます (下図参照)。
 
     :::image type="content" source="images/usage3.png" alt-text="vmSize 値":::
-    :::image type="content" source="images/usage4.png" alt-text="場所の値":::
+    :::image type="content" source="images/usage4.png" alt-text="location 値":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Azure VM の使用状況と予約割引を確認する
 
-お客様の代わりに Azure 予約 VM インスタンスを購入すると、事前に VM 領域に対する料金の割引が、お客様の予約の属性と数量に一致する仮想マシンに自動的に適用されます。
+顧客に代わって Azure 予約 VM インスタンスを購入した後、事前に VM 領域の支払いを行う割引は、顧客の予約の属性と数量に一致する仮想マシンに自動的に適用されます。
 
-次のいずれかの方法を使用して、顧客の予約使用状況を確認し、予約割引が適用されている仮想マシンを確認できます。
+次のいずれかの方法を使用して、顧客の予約の使用状況を確認し、予約割引が適用される仮想マシンを確認できます。
 
-- Azure portal
+- Azure ポータル
 - Azure Utilization API
 
 これらの方法を使用するための手順をそれぞれ以下に示します。
@@ -94,7 +91,7 @@ ms.locfileid: "96534949"
 >[!NOTE]
 >どの仮想マシンに割引が適用されるかを確認できるのは Azure Utilization API のみです。  
 
-### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Microsoft Azure portal で顧客の予約使用状況を確認する
+### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>次の手順で顧客の予約の使用状況を確認Microsoft Azure portal
 
 1. パートナー センターで **[顧客]** ページに移動します。
 

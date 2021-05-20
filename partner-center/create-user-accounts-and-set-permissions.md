@@ -9,20 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492536"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148144"
 ---
 # <a name="create-user-accounts"></a>ユーザー アカウントの作成  
 
-**適切なロール**
-
-- アカウント管理者
-- グローバル管理者
-- ユーザー管理の管理者
+**対象のロール**: アカウント管理者 | グローバル管理者 | ユーザー管理の管理者
 
 パートナー センターへのアクセスを必要とする従業員に対してユーザー アカウントを作成します。 これらのタスクは、ユーザー管理の管理者、アカウント管理者、またはグローバル管理者が実行する必要があります。これらのタスクを実行するユーザーには、ユーザー管理者またはグローバル管理者の Azure Active Directory (AAD) ロールも割り当てられている必要があります。 AAD ロールの詳細については、「[Azure Active Directory での管理者ロールのアクセス許可](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)」を参照してください。
 

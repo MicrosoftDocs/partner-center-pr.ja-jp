@@ -9,21 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 5294495403be729adecb5a7814ade4f9d454a0f6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534993"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149827"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>新しいデバイスで Windows Autopilot プロファイルを使用して、顧客の既定のエクスペリエンスをカスタマイズする
 
-**適切なロール**
-
-- 管理エージェント
-- グローバル管理者
-- 販売代理店
-- ユーザー管理の管理者
+**適切なロール**: 管理エージェント |全体管理者 |Sales agent |ユーザー管理の管理者
 
 顧客のデバイスを管理する場合、顧客のユーザーの out-of-box experience (OOBE) をカスタマイズすることが必要な場合があります。 顧客にデバイスを提供する前に Windows Autopilot プロファイルを使用して新しいデバイスを事前に構成し、顧客が既に購入したデバイスに新しいプロファイルを適用することができます。 
 
@@ -145,11 +140,11 @@ OEM 名、シリアル番号、モデルの組み合わせを使う場合は、�
 
 - この組み合わせは、新しいデバイス (4 k ハッシュなど) でのみ動作し、128b ハッシュ (RS2 以前のデバイス) に対してはサポートされていません。
 
-- 組の登録では大文字と小文字が区別されるので、ファイル内のデータは、OEM プロバイダー (ハードウェアプロバイダー) によって提供されるとおりに、モデル名と製造元 *_名 * と_* 一致している必要があります。
+- 組み合わせの登録では大文字と小文字が区別されるため、ファイル内のデータが、OEM プロバイダー (ハードウェア プロバイダー) によって提供されるモデルおよび製造元の名前と "***正確に***" 一致する必要があります。
 
 パートナー センターで顧客のアカウントにデバイスを追加するには、以下の手順に従います。
 
-1. パートナーセンターメニューから [_ *Customers*] * を選択し、デバイスを管理する顧客を選択します。
+1. パートナー センターのメニューで **[顧客]** を選択し、デバイスが管理対象となる顧客を選択します。
 
 2. 顧客の詳細ページで、**[デバイス]** を選択します。
 

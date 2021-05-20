@@ -9,19 +9,16 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474055"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150184"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>分析を使用して間接リセラーのパフォーマンスを分析する
 
-**適切なロール**
-
-- グローバル管理者
-- ユーザー管理の管理者
+**適切なロール**: 全体管理者 |ユーザー管理の管理者
 
 
 データはビジネス上の意思決定を促進します。 **リセラー分析** のページのメトリックを使用して、パートナーの成功度、間接リセラーの成功度、注意が必要な分野を把握します。 新しいビジネス目標を計画するときに、この情報を使用できます。

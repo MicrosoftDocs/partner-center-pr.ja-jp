@@ -4,36 +4,34 @@ ms.topic: how-to
 ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顧客のアカウントに複数のユーザーを追加するには、コンマ区切り値 (.csv) ファイル形式を使用して、パートナーセンターにデータファイルをアップロードします。
+description: 顧客のアカウントに複数のユーザーを追加するには、コンマ区切り値 (.csv) ファイル形式を使用して パートナー センター にデータ ファイルをアップロードします。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f1d6e2a59bd892b7b79a1e3aa532242cdd0e302
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 268cc9cb42bc72a444da6aec99425c2b29b71cb4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474191"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150473"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>ユーザーの .csv ファイルを顧客のアカウントにアップロードする
 
 
-**適切なロール**
+**適切なロール**: グローバル管理者
 
-- グローバル管理者
-
-コンマ区切り値ファイル形式 (.csv) のデータファイルをパートナーセンターにアップロードすることで、顧客のアカウントに複数のユーザーを一度に追加します。 
+コンマ区切り値ファイル形式 (.csv) のデータ ファイルを パートナー センター にアップロードして、複数のユーザーを顧客のアカウントに一度に追加します。 
 
 ## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>顧客ユーザーのファイルを作成し、顧客アカウントにアップロードする
 
-1. 以下に説明するデータを使用して、コンマ区切り値 (.csv) データ ファイルを作成します。 後の手順を参照できるように、ファイルを保存します。 [顧客アカウントの複数のユーザーをインポートする場合は、「.csv ファイルのフィールド」を](file-customer-users.md)参照してください。 
+1. 以下に説明するデータを使用して、コンマ区切り値 (.csv) データ ファイルを作成します。 後の手順を参照できるように、ファイルを保存します。 顧客 [アカウントの複数のユーザーをインポートするには、「.csv ファイルのフィールド」を参照してください](file-customer-users.md)。 
 
 2. パートナー センター [ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
 3. パートナー センター メニューから **[顧客]** を選択し、一覧から顧客を選びます。
 
-4. 顧客の [ **ユーザーとライセンス** ] タブを選択し、[ **ユーザーのアップロード**] を選択します。
+4. 顧客の [ユーザーとライセンス] **タブを選択し** 、[ユーザーのアップロード] **を選択します**。
 
 5. **[ユーザー情報のアップロード]** の **[参照]** を選びます。
 
@@ -50,8 +48,8 @@ ms.locfileid: "96474191"
     >[!IMPORTANT]
     > 一時的なパスワードを含むファイルは必ずこのときにダウンロードしてください。後でこの操作を行うことはできません。 新しいユーザーは、新しいアカウントの一時的なパスワードを使用して、新しいアカウントにログインする必要があります。
 
-11. 新しいユーザーには、**ライセンスとサービスを使用できる** アクセス許可が自動的に割り当てられます。 
+11. 新しいユーザーには、ライセンスとサービスを使用できる **のアクセス許可が自動的に割り当てられます**。 
 
 ## <a name="next-steps"></a>次のステップ
 
-- [パートナーセンターで自分の製品またはサービスを購入するためのアクセス許可を顧客に付与する](give-customers-permission.md)
+- [顧客に独自の製品パートナー センター購入するアクセス許可を付与する](give-customers-permission.md)
