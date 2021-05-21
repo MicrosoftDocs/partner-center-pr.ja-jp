@@ -134,6 +134,8 @@
     - name: CSP 直接請求を間接リセラーに切り替える
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: パートナーはアドバイザーとして登録できなくなる
+      href: advisors-no-csp.md
 - name: CSP 契約
   href: microsoft-partner-agreement.md
   items:
