@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/07/2021
-ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.date: 05/14/2021
+ms.openlocfilehash: 9f3447aad20f32a236f2e52e108de50e391b8969
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712517"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150014"
 ---
 # <a name="partner-center-announcements"></a>パートナー センターのお知らせ
 
@@ -22,6 +22,10 @@ ms.locfileid: "109712517"
 
 |**カテゴリ**|**2021 年 5 月のお知らせ**|**発表**|
 |---------|:---------|:---------|
+|機能|[CSP の永続的ソフトウェアの取引に関する更新とオープン ライセンス プログラムに対する変更](2021-may.md#13)|5 月 17 日|
+|機能|[フェーズ 2 近日公開予定: EU と EFTA および英国での新しいコマース オファーに関するパートナー請求通貨の変更](2021-may.md#12)|5 月 17 日|
+|機能|[Microsoft 365 Business Voice 作業の開始ウィザード (GSW) の非推奨](2021-may.md#11)|5 月 14 日|
+|機能|[5 月のクラウド ソリューション プロバイダー (CSP) コミュニティの更新とリマインダー](2021-may.md#10)|5 月 13 日|
 |機能|[パートナー主導の共同販売取引の分析](2021-may.md#9)|5 月 10 日|
 |機能|[ホスティングおよび SPLA リセラー インセンティブ プログラムが 2021 年 9 月 30 日まで延長](2021-may.md#8)|5 月 7 日|
 |機能|[既定の銀行プロファイルの機能が、インセンティブ登録用にパートナー センターで利用できるようになります](2021-may.md#7)|5 月 7 日|
