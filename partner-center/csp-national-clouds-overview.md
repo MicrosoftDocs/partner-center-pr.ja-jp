@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 522237ab1a3a6814e36218ef2a57fd1bdda5437c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d890a4dff5fef28fd0b698000635643f5f801998
+ms.sourcegitcommit: 7c7e2705873df2b500b8114235c8f67a22112c62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147685"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "110398170"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP プログラムの一部として Microsoft 国内クラウドでの販売を申請する
 
@@ -36,24 +36,30 @@ Microsoft では、以下のサービスをナショナル クラウドで提供
 
 認定パートナーは、以下のナショナル クラウドの顧客に Microsoft クラウド ソリューションを販売できます。
 
--   [**Microsoft Cloud for US Government**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US) 米国政府機関向けに一から設計された Microsoft Cloud for US Government では、大規模な連邦機関から小さな町の行政機関まで、米国公共部門の顧客がさまざまなクラウド コンピューティング サービスを選択できます。 お客様の特定のニーズに最適に対応するために、Microsoft はデータセンターに多大な投資を行い、米国連邦および州のポリシー、義務、要件への準拠に専念しています。 
+## <a name="microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government
 
-    Microsoft Cloud for US Government に登録して顧客への販売を行う方法については、「[Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)」をご覧ください。
+[**Microsoft Cloud for US Government**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US) 米国政府機関向けに一から設計された Microsoft Cloud for US Government では、大規模な連邦機関から小さな町の行政機関まで、米国公共部門の顧客がさまざまなクラウド コンピューティング サービスを選択できます。 お客様の特定のニーズに最適に対応するために、Microsoft はデータセンターに多大な投資を行い、米国連邦および州のポリシー、義務、要件への準拠に専念しています。 
 
--   [**Microsoft Cloud ドイツ**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud ドイツでは、一意のモデルを使用してドイツのデータセンターから Azure、Office 365、Dynamics 365 を提供しています。 このモデルでは、顧客データへのアクセスは、独立したドイツ データ トラスティによってドイツ法に基づいて制御されます。 Deutsche Telekom の子会社である T-Systems International GmbH は、Microsoft Cloud Germany の独立したデータ トラスティとして機能します。
+Microsoft Cloud for US Government に登録して顧客への販売を行う方法については、「[Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)」をご覧ください。
 
-    > [!IMPORTANT]  
-    > お客様のニーズの進化に基づいて、ドイツ向けクラウド戦略では、グローバル クラウド オファリングと一貫性のあるドイツの新しいクラウド リージョンの提供に重点を置く必要があります。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在利用可能な現在のクラウド サービスを引き続き使用できます。これは、必要なセキュリティ更新プログラムを維持します。
-    >  
-    > 今後、新しい顧客は、現在利用可能なヨーロッパの地域を利用するか、または利用可能になった時点でドイツの新しい地域を利用することができます。 詳細については、[Microsoft によるドイツの新しいデータセンターからのクラウド サービスの提供](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)に関するページを参照してください。
+## <a name="microsoft-cloud-germany"></a>Microsoft Cloud Germany
+
+[**Microsoft Cloud ドイツ**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud ドイツでは、一意のモデルを使用してドイツのデータセンターから Azure、Office 365、Dynamics 365 を提供しています。 このモデルでは、顧客データへのアクセスは、独立したドイツ データ トラスティによってドイツ法に基づいて制御されます。 Deutsche Telekom の子会社である T-Systems International GmbH は、Microsoft Cloud Germany の独立したデータ トラスティとして機能します。
+
+> [!IMPORTANT]  
+> お客様のニーズの進化に基づいて、ドイツ向けクラウド戦略では、グローバル クラウド オファリングと一貫性のあるドイツの新しいクラウド リージョンの提供に重点を置く必要があります。 この焦点に合わせて、今後 Microsoft では、現在利用可能な Microsoft Cloud ドイツからの新しい顧客を受け入れたり、新しいサービスを展開することはありません。 既存のお客様は、現在利用可能な現在のクラウド サービスを引き続き使用できます。これは、必要なセキュリティ更新プログラムを維持します。
+>  
+> 今後、新しい顧客は、現在利用可能なヨーロッパの地域を利用するか、または利用可能になった時点でドイツの新しい地域を利用することができます。 詳細については、[Microsoft によるドイツの新しいデータセンターからのクラウド サービスの提供](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)に関するページを参照してください。
 
     
--   [**中国の 21Vianet で運営されている Azure および Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China): Microsoft は、Beijing 21Vianet Broadband Data Center Co., Ltd の完全子会社である Shanghai Blue Cloud Technology Co., Ltd. (21Vianet) との特別なパートナーシップによって中国でのクラウド サービスを提供しています。21Vianet は通信会社に依存しない中国最大のインターネット プロバイダーで、データセンター、ホスティング、マネージド ネットワーク、クラウド コンピューティング インフラストラクチャ サービスを提供しています。 
+## <a name="azure-and-office-365-operated-by-21vianet-in-china"></a>中国の 21Vianet が運営する Azure と Office 365
 
-    Microsoft はテクノロジ プロバイダーですが、サービスは運営せず、21Vianet が単独で Microsoft クラウド サービスの運営、提供、管理を行っています。 Microsoft テクノロジのライセンスによって、21Vianet は Azure および Office 365 のサービスを提供し、Azure および Office 365 のデータセンターを運営して中国本土内のデータを保持できます。 21Vianet では、サブスクリプションと課金サービス、およびサポートも提供されます。
+Microsoft は、中国のデータセンター、ホスティング、マネージド ネットワーク、クラウド コンピューティング インフラストラクチャ サービスの最大の運送業者に依存しないインターネット プロバイダーである、China 21Vianet Broadband Data Center Co., Ltd. 21Vianet の完全に所有する子会社である、China Blue Cloud Technology Co., Ltd. (21Vianet) との独自のパートナーシップを通じて、中国でクラウド サービスを提供しています。 
 
-    中国の 21Vianet が運営する Azure および Office 365 に登録して顧客への販売を行う方法については、「[21Vianet が運営するパートナー センター](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11))」をご覧ください。
+Microsoft はテクノロジ プロバイダーですが、サービスは運営せず、21Vianet が単独で Microsoft クラウド サービスの運営、提供、管理を行っています。 Microsoft テクノロジのライセンスによって、21Vianet は Azure および Office 365 のサービスを提供し、Azure および Office 365 のデータセンターを運営して中国本土内のデータを保持できます。 21Vianet では、サブスクリプションと課金サービス、およびサポートも提供されます。
 
-## <a name="next-steps"></a>次のステップ
+中国の 21Vianet が運営する Azure および Office 365 に登録して顧客への販売を行う方法については、「[21Vianet が運営するパートナー センター](https://www.21vbluecloud.com/partner-china/welcome/)」をご覧ください。
+
+## <a name="next-steps"></a>次の手順
 
 - [Microsoft Cloud for US Government のパートナー センターについてよく寄せられる質問](faq-for-us-govt-cloud.md)
