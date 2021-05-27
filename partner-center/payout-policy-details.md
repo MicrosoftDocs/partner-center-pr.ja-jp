@@ -1,18 +1,18 @@
 ---
 title: 支払いスケジュールとプロセス
-description: コマーシャル マーケットプレースや他のトランザクションの支払いスケジュールや再取り込みプロセスなど、支払いとトランザクションについて説明します。
+description: 支払いおよびトランザクション (支払いスケジュールや、支払いや他のトランザクションの再Azure Marketplaceについて学習します。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 12/04/2020
-ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 05/25/2021
+ms.openlocfilehash: bcecd4c31d80a4130331c652491e7951af180c67
+ms.sourcegitcommit: f1255fb65eac6ee2e0ff0cb95cc16a02dc57fc1a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146954"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "110582425"
 ---
 # <a name="payout-schedules-and-processes"></a>支払いスケジュールとプロセス
 
@@ -22,15 +22,15 @@ ms.locfileid: "110146954"
 
 ## <a name="payment-schedules"></a>支払いスケジュール
 
-以下のセクションでは、クレジット カード/請求書トランザクションの **Enterprise Agreement支払****いプロセスについて** 説明します。
+以下のセクションでは、トランザクションまたは CSP トランザクションの **Enterprise Agreement支払** Microsoft 顧客契約 **について** 説明します。
 
-### <a name="enterprise-agreement-transactions"></a>Enterprise Agreementトランザクション
+### <a name="transactions-when-customer-has-an-enterprise-agreement"></a>顧客が顧客を持つ場合のEnterprise Agreement
 
 顧客がトランザクションに対して既存の Microsoft Enterprise Agreement を使用して Microsoft AppSource または Azure Marketplace から製品を購入した場合、顧客請求書の後の次の支払いサイクルで支払いを発行します。 顧客がクレジット カードを使用するトランザクションには、支払いの前に 30 日間の保有期間があります。
 
 支払いは、多くの場合、Microsoft が顧客から支払いを収集する前に発生します。 お [客様が Microsoft への支払いに](#process-for-customer-non-payment) 失敗したが、既に支払いを発行している場合に実行するアクションについては、以下の「顧客の支払い以外の処理」を参照してください。
 
-| event | 説明 | レポートの可視性 | タイミング* |
+| Event | 説明 | レポートの可視性 | タイミング* |
 | --- | --- | --- | --- |
 | 使用状況またはトランザクションの月 | 顧客はサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard)または[注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard) | **月 1** |
 | Microsoft が請求金額を計算する | 合計使用量、合計トランザクション数を決定する | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard)または[注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard) | **月 2** |
@@ -44,11 +44,11 @@ ms.locfileid: "110146954"
 
 :::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="エンタープライズ契約のお客様の支払いのタイムライン。":::
 
-### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>クレジットカードまたは請求書を使用したトランザクション (チェック/ワイヤ)
+### <a name="transactions-when-customer-has-a-microsoft-customer-agreement-or-csp"></a>顧客が Microsoft の顧客契約または CSP を持っている場合のトランザクション
 
 クレジットカードまたは月次請求書によるすべての購入には、顧客から資金が収集されることを保証するために、30日間の保持期間があります。
 
-| event | 説明 | レポートの可視性 | 調節 |
+| Event | 説明 | レポートの可視性 | 調節 |
 | --- | --- | --- | --- |
 | 使用状況またはトランザクションの月 | 顧客はサービスを使用または購入します。 | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard)または[注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard) | **月 1** |
 | 顧客による請求書の支払い | 合計使用量、合計トランザクション値、および顧客の支払い請求書を決定する | [使用状況](/azure/marketplace/partner-center-portal/usage-dashboard)または[注文ダッシュボード](/azure/marketplace/partner-center-portal/orders-dashboard) | **月 2** |
@@ -66,21 +66,21 @@ ms.locfileid: "110146954"
 
 まれに、コマーシャル マーケットプレースでの購入の代金を Microsoft が顧客から集められないことがあります。 顧客が請求スケジュールに従って Microsoft に支払いを行わない場合は、集金プロセスが開始されます。 このプロセスには 4 か月ほどかかり、Microsoft からの通知が永続的に送られます。 このプロセスの最後までに支払いを受けていない場合、Microsoft は資金を回収不可として書き込みます。
 
-ここで説明する支払いプロセスにより、Microsoft では、最終的に回収不能となった資金をパブリッシャー (お客様) に既に支払っている可能性があります。 そのため、こうした金額を調整するプロセスが用意されています。 (既に受け取った) 支払いが調整される可能性があるという警告を確実に受けられるように、顧客が集金プロセスの過程にあって購入代金が損金処理される可能性がある場合は通知されます。
+ここで説明する支払いプロセスにより、Microsoft では、最終的に回収不能となった資金をパブリッシャー (お客様) に既に支払っている可能性があります。 そのため、こうした金額を調整するプロセスが用意されています。
 
 Microsoft では、次のいずれかの方法を使用して、支払い済みの代金を回収します。(1) Microsoft では、将来の支払いから未払い額を差し引く可能性があります。たとえば、支払いのうち 1,000 ドルが回収不能と判断されて損金処理された場合、1,000 ドルが回収されるまで将来の支払いが保留されます。または、(2) Microsoft では、未回収金額についてパブリッシャーに返済を要求するか、請求書を送る可能性があります。
 
 次のスケジュールを例に示します。
 
-| イベント | 概算の日付 * | パートナーへの表示対象 |
+| Event | 概算の日付 * | パートナーへの表示対象 |
 | --- | --- | --- |
 | 支払日の例 | 2020 年 10 月 15 日 | 支払いダッシュボードのトランザクション履歴と [支払い] セクションで **送信済み** とマークされます |
 | <font color="red">顧客が Microsoft に支払いを行わない場合</font> | 2020 年 12 月 2 日 – 2020 年 12 月 5 日 | 変更なし、同上 |
 | 顧客が最初の支払い遅延メールを受け取る | 2020 年 12 月 6 日 | なし |
 | 顧客が、緊急度が高まっていることを知らせる定期的なメールを受け取る | 2020 年 12 月 7 日 – 2021 年 1 月 31 日 | なし |
-| 損金処理の可能性があることがパブリッシャーに通知される | 2021 年 1 月 7 日 | 顧客がまだ支払いの送金を行っていないことを示す電子メール通知がパブリッシャーに送信されます。 トランザクション ID と金額 (ドル) が含まれています。 |
+| 損金処理の可能性があることがパブリッシャーに通知される | 2021 年 1 月 7 日 | - |
 | 顧客が終了通知を受け取る | 2021 年 2 月 1 日 | なし |
-| 集金プロセスの終了/資金の損金処理 | 2021 年 2 月 15 日 | 資金が損金処理されたことを示す電子メール通知がパブリッシャーに送信されます。 トランザクション ID と金額 (ドル) が含まれています。 |
+| 集金プロセスの終了/資金の損金処理 | 2021 年 2 月 15 日 | 資金が損金処理されたことを示す電子メール通知がパブリッシャーに送信されます。 |
 | 支払い額が差し引かれる | 2021 年 3 月 1 日 | パートナーセンターの支払い明細書に、パブリッシャによって負のトランザクションが表示される |
 | 支払いが保留される | 2021 年 3 月 15 日 | 今後の支払いは、パートナーセンターの支払い明細書に表示されます。 パブリッシャーは、残高が負でなくなるまで支払いを受け取れなくなります。  |
 |||
