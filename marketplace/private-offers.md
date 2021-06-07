@@ -1,51 +1,47 @@
 ---
-title: Azure Marketplace でのプライベートプラン
-description: Azure Marketplace でのプライベートプランについて説明します。
+title: プライベート オファー (Azure Marketplace
+description: プライベート オファーの詳細については、Azure Marketplace。
 ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 72e886a7cfad067b40674f30a9a21810d832994a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/03/2021
+ms.openlocfilehash: 55d0716b183e9e8905e631447e547396d6f55404
+ms.sourcegitcommit: 9cb6bc9df20540f812b7932f88e520976c1aa85a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412660"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "111534200"
 ---
-# <a name="private-offers-in-azure-marketplace"></a>Azure Marketplace でのプライベートプラン
+# <a name="private-plans-in-azure-marketplace"></a>プライベート プラン (Azure Marketplace
 
-プライベートプランは、パブリッシャーが特定の顧客にカスタムプランを提供する方法です。 このオプションは現在、Azure portal の Azure Marketplace エクスペリエンスでのみサポートされています。 プライベートプランは、Azure portal から購入して直接インストールできる有料プランでのみ利用できます。 発行元は、ポータルからインストールできるかどうかに関係なく、コンサルティングサービス、アクション呼び出しとしての **連絡** を持つサービス、または無料サービスに対してプライベートプランを作成することはできません。
+プライベート プランは、発行元が特定の顧客にカスタム プランを提供する方法です。 プライベート プランは、プランから直接購入して直接インストールできる有料プランでのみAzure portal。 発行元は、ポータルからインストールできるかどうかに関係なく、コンサルティング サービスのプライベート プラン、行動の呼び出し先として問い合わせがあるサービス、または無料サービスを作成することはできません。
 
-## <a name="find-private-offers-in-the-azure-portal"></a>Azure portal でのプライベートプランの検索
+## <a name="find-private-plans-in-the-azure-portal"></a>次のページでプライベート プランを検索Azure portal
 
-パートナーは、プライベートオファーを発行するときに、Azure portal の **Marketplace** セクションの対象ユーザーのみに表示されます。 これらのユーザーは、オファーの種類に応じて、サブスクリプション ID またはテナント ID によって定義されます。 プライベートプランの資格がある場合、ポータルでそれらを検索する方法は2つあります。
+パートナーがプライベート プランを発行すると、パートナーは、パートナーの **[Marketplace]** セクションの対象ユーザーにのみAzure portal。 これらのユーザーは、オファーの種類に応じて、サブスクリプション ID またはテナント ID によって定義されます。 プライベート プランの対象となる場合は、ポータルでそれらを見つける 2 つの方法があります。
 
 > [!NOTE]
-> 現在、プライベートプランは、Azure portal で検索またはフィルターできません (カテゴリ別)。
+> プライベート プランは検索可能ですが、カテゴリ別にフィルター処理Azure portal。
 
-Azure portal で、[ **+ リソースの作成** ] を選択するか、[marketplace] を検索して **marketplace** のページにアクセスします。 プライベートプランの資格をお持ちの場合は、ページの上部に **プライベートプランの利用可能なバナーが** 表示されます。 [プライベート **プランの表示** ] を選択して、プライベートプランページにアクセスします。
+[リソース] Azure portal [ **+ リソース** の作成] を選択するか、"marketplace" を検索して **[Marketplace]** ページに移動します。 プライベート プランの対象となる場合は、ページの上部に[プライベート プランを利用できます] バナーが表示されます。 [ **プライベート プランとプランの表示] を** 選択して、プライベート プランページに移動します。
 
-:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="使用可能なプライベートプランがあるときに表示されるバナー。":::
+:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="プライベート プランを利用できる場合に表示されるバナー。":::
 
-または、[プライベートプラン] バナーが表示されている場合は、製品ギャラリーページの下部までスクロールしても、プライベートプランのサブセットが表示されます。 リンクを選択すると、プライベートプランページにアクセスするための **詳細が表示** されます。
+## <a name="review-private-plans"></a>プライベート プランを確認する
 
-:::image type="content" source="media/private-offers/see-more-link.png" alt-text="画面の下部にプライベートプランが表示され、[詳細を表示] リンクが表示されます。":::
+プライベート プランは、オファー内のいくつかのプランの一部です。 各オファーにはパブリックプランとプライベート プランの両方を含め、プライベート プランはパブリック プランとは別の一覧に表示されます。
 
-## <a name="review-private-plans"></a>プライベートプランの確認
+利用可能なプライベート プランは、[プラン]タブの下に、独特のプライベート バッジで **マークされています**。
 
-プライベートプランは、実際にはオファー内のプライベートプランです。 各プランには、パブリックとプライベートの両方の複数のプランを含めることができますが、プライベートプランはパブリックプランとは別のリストに記載されています。
+:::image type="content" source="media/private-offers/private-badge.png" alt-text="プライベートとしてマークされたプランのページ。":::
 
-使用可能なプライベートプランは、特徴的な **プライベート** バッジでマークされた [**プラン**] タブで確認できます。
+複数のサブスクリプションがある場合は、すべてのサブスクリプションで使用可能なすべてのプライベート プランが表示されます。 [作成] **を選択** すると、リソースの作成ページにルーティングしてリソースの構成を開始します。
 
-:::image type="content" source="media/private-offers/private-badge.png" alt-text="プライベートとマークされたプランのページ。":::
+[作成] **を** 選択し、複数のサブスクリプションを持っているが、すべてのサブスクリプションがプライベート プランに追加されない場合、既定のサブスクリプションはこのプライベート プランの対象となるサブスクリプションではない可能性があります。 この場合は、正しいサブスクリプションを選択します。
 
-複数のサブスクリプションがある場合は、すべてのサブスクリプションで利用可能なすべてのプライベートプランが表示されます。 [ **作成**] を選択すると、リソースの作成ページにルーティングされ、リソースの構成が開始されます。
+:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="使用可能なプライベート プランが他にもあります。":::
 
-[ **作成** ] を選択し、複数のサブスクリプションを持っていても、それらのすべてがプライベートプランに追加されていない場合は、既定のサブスクリプションがこのプライベートプランの対象となるサブスクリプションではない可能性があります。 この場合は、適切なサブスクリプションを選択します。
-
-:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="使用可能なプライベートプランが他にもあることを示すリンクが表示されます。":::
-
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Azure Marketplace とは何ですか?](azure-marketplace-overview.md)

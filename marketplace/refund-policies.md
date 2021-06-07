@@ -1,59 +1,59 @@
 ---
-title: Microsoft AppSource と Azure Marketplace の返金ポリシー
-description: Microsoft AppSource と Azure Marketplace で販売された製品の返金ポリシーについて説明します
+title: サービスとサービスの払戻Microsoft AppSourceポリシー Azure Marketplace
+description: 製品とサービスで販売される製品の払戻ポリシー Microsoft AppSourceについてAzure Marketplace
 ms.service: marketplace-customer
 ms.topic: article
-author: anbene
+author: jeweber
 ms.author: jeweber
-ms.date: 11/20/2020
-ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/02/2021
+ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
+ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412677"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "111446857"
 ---
-# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Microsoft AppSource と Azure Marketplace の返金ポリシー
+# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>サービスとサービスの払戻Microsoft AppSourceポリシー Azure Marketplace
 
-Microsoft AppSource または Azure Marketplace での購入は、返金の対象となる場合があります。 この記事では、返金ポリシーについて説明します。
+サービスまたはサービスMicrosoft AppSource購入Azure Marketplace払戻の対象となる場合があります。 この記事では、払戻ポリシーについて説明します。
 
-## <a name="software-as-a-service-saas-offers"></a>サービスとしてのソフトウェア (SaaS) プラン
+## <a name="software-as-a-service-saas-offers"></a>サービスとしてのソフトウェア (SaaS) オファー
 
-月額プランの場合、購入から1日以内にサブスクリプションをキャンセルすると、全額返金を受けることができます。 年間プランの場合、購入から14日以内にサブスクリプションをキャンセルすると、全額返金を受けることができます。 上記の期間の後に取り消されたサブスクリプションについては、返金を利用できません。
+月次プランの場合、購入から 1 日以内にサブスクリプションを取り消した場合、完全な払い戻しの対象となります。 毎年のプランでは、購入から 14 日以内にサブスクリプションを取り消した場合、完全な払い戻しの対象となります。 払戻は、上記の期間の後に取り消されたサブスクリプションでは利用できません。
 
-サブスクリプションからシートを削除すると、サブスクリプション期間の残りの部分に基づいて、部分的な返金を受けることができます。
+変動料金に対して払戻は発行されません。 たとえば、SaaS オファーが電子メール プラットフォームから送信された電子メールの数に基づいて請求する場合などです。
 
 ## <a name="office-add-ins"></a>Office アドイン
 
-Office アドインを購入した場合、1日以内に購入または更新からサブスクリプションをキャンセルすると、全額返金を受けることができます。  1日後にサブスクリプションをキャンセルした場合、プランの残りの部分に基づく部分返金の対象となります。  サブスクリプションを変更した場合は、サブスクリプション期間の残りの部分に基づいて、部分返金を受けることができます。
+Office アドインを購入した場合、購入または更新から 1 日以内にサブスクリプションを取り消した場合、完全な払い戻しの対象となります。 購入から 1 日後にサブスクリプションを取り消した場合、オファーの残りの部分に基づいて一部の払い戻しを受けることができます。 サブスクリプションを変更した場合は、サブスクリプション期間の残りの部分に基づいて、部分的な払戻の対象となる場合があります。
 
 ## <a name="azure-developer-services"></a>Azure 開発者サービス
 
-開発者サービスを減らした場合は、サブスクリプション期間の残りの部分に基づいて、部分返金を受けることができます。 サブスクリプションをキャンセルしても、返金は利用できません。
+開発者サービスを減らすと、サブスクリプション期間の残りの部分に基づいて一部の払い戻しを受けることができます。 サブスクリプションを取り消した場合、払戻は利用できません。
 
 ## <a name="azure-managed-applications"></a>Azure Managed Applications
 
-Azure マネージアプリケーションは refundable ません。
+Azure マネージド アプリケーションは払い戻しできません。
 
 ## <a name="azure-reserved-instances"></a>Azure 予約インスタンス
 
-Azure 予約インスタンス (RI) の返金ポリシーは [、セルフサービス交換と Azure Reservations の返金](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)で利用できます。
+Azure 予約インスタンス (RI) の払戻ポリシーは [、Azure Reservations](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)のセルフサービス交換と払戻で利用できます。
 
 ## <a name="azure-support-plans"></a>Azure のサポート プラン
 
-Azure サポートプランを譲渡または変更する場合は、部分返金の対象となる場合があります。 返金額は、サブスクリプション期間の残りの部分に基づいています。
+Azure サポート プランを譲渡または変更した場合は、一部の払戻の対象となる可能性があります。 返金される金額は、サブスクリプション期間の残りの部分に基づいて行います。
 
 ## <a name="azure-databricks"></a>Azure Databricks
 
-Azure Databricks の資産を削除すると、指定した残りの期間に基づいて部分返金を受けることができます。 Azure Databricks の詳細については、 [Azure Databricks のドキュメント](/azure/databricks)を参照してください。
+資産を削除Azure Databricks、指定した残りの期間単位に基づいて部分的な払い戻しを受けることができます。 の詳細については、Azure Databricksドキュメント [をAzure Databricksしてください](/azure/databricks)。
 
 ## <a name="monetary-commitment"></a>年額コミットメント
 
-前払いで購入した年額消費量コミットメントをキャンセルした場合、コミットメント期間の残りの部分に基づく部分返金の対象となります。
+前払いした年額消費コミットメントを取り消した場合は、コミットメント期間の残りの部分に基づいて部分的な払い戻しを受けることができます。
 
 > [!NOTE]
-> Microsoft AppSource または Azure Marketplace での購入については、年額コミットメントを使用できません。
+> 年金額コミットメントは、サービスやサービスの購入Microsoft AppSource使用Azure Marketplace。
 
 ## <a name="microsoft-azure-consumption-commitment-macc"></a>Microsoft Azure の消費コミットメント (MACC)
 
-Microsoft Azure の消費コミットメント (MACC) プログラムには、専用返金ポリシーがありません。 MACC 契約の一部として購入した製品は、この記事で説明されているポリシーに従います。
+消費Microsoft Azure (MACC) プログラムには、専用の返金ポリシーが適用されません。 MACC 契約の一部として購入された製品は、この記事で説明されているポリシーに従います。
