@@ -8,12 +8,12 @@ description: お客様のお客様向けに販売または管理しているチ�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855184"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277336"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能なチームの使用状況レポート
 
@@ -43,28 +43,28 @@ ms.locfileid: "109855184"
 
 - 平均ミーティング期間 (分): 平均ミーティング期間 (分)。 
 
-:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="チームの使用状況の概要":::
+:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="チームの使用状況の概要。":::
 
 ## <a name="conversations-trend"></a>メッセージ交換の傾向
 
-会話の傾向レポートには、Teams の会議、通話、電話システムの毎月の傾向と、平均会議時間 (分) が表示されます。
+メッセージ交換の傾向レポートには、チームの会議、通話、および電話システムの月ごとの傾向と、平均ミーティング期間 (分単位) が表示されます。
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="チームの使用状況の会話の傾向":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="チームの使用状況の会話の傾向。":::
 
 ## <a name="teams-usage-by-workloads"></a>ワークロード別のチームの使用状況
 
-[ワークロード別の Teams の使用状況] レポートには、ワークロード別に分割された Teams のデスクトップ、モバイル、Web ユーザーの毎月の分割が表示されます。
+ワークロード別のチームの使用状況レポートには、ワークロード別に分割されたチームのデスクトップ、モバイル、および web ユーザーの月間分割が表示されます。
 
-:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="ワークロード別のチームの使用状況":::
+:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="ワークロードによるチームの使用。":::
 
 ## <a name="top-customers-by-usage"></a>使用量別の上位の顧客
 
-[使用状況別の上位顧客] レポートには、Teams の会議、通話、電話システム、サードパーティ製アプリの上位顧客の使用状況が表示されます。
+[使用量別の上位の顧客] レポートには、チームの会議、通話、および電話システムとサードパーティ製アプリの上位の顧客の使用状況が表示されます。
 
-:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="使用量別の上位の顧客":::
+:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="使用量別の上位の顧客。":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
-- その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。
+- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
 
-- このレポートを利用する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 
+- このレポートを作成する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 

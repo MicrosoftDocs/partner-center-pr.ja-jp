@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 14d488091227e30909b3d41af0684494a8b55de7
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2d8bc76e0da51abf433e49028445b398c6a1db31
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149453"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276996"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>最大限の予約使用に備えた Microsoft Azure VM サイズ
 
@@ -58,13 +58,13 @@ ms.locfileid: "110149453"
 
 4. VM の詳細ページで、次に示すサイズとリージョンの情報を見つけ、この情報を使用して パートナー センター で予約を購入します。  
 
-   :::image type="content" source="images/usage1.png" alt-text="[詳細] ページのサイズとリージョンの情報":::
+   :::image type="content" source="images/usage1.png" alt-text="詳細ページのサイズとリージョンの情報。":::
 
 ### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Microsoft Azure PowerShell を使用して VM サイズ情報を取得する
 
 下の画像の情報を使用して、予約を購入する対象の VM の場所とサイズを取得します。 
 
-:::image type="content" source="images/usage2.png" alt-text="VM の場所とサイズ":::
+:::image type="content" source="images/usage2.png" alt-text="VM の場所とサイズ。":::
 
 ### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Azure Resource Manager (ARM) API を使用して VM サイズ情報を取得する
 
@@ -74,8 +74,8 @@ ms.locfileid: "110149453"
 
 3. この呼び出しでは、**vmSize** と **location** の値が返されます (下図参照)。
 
-    :::image type="content" source="images/usage3.png" alt-text="vmSize 値":::
-    :::image type="content" source="images/usage4.png" alt-text="location 値":::
+    :::image type="content" source="images/usage3.png" alt-text="vmSize 値。":::
+    :::image type="content" source="images/usage4.png" alt-text="location 値。":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Azure VM の使用状況と予約割引を確認する
 
@@ -95,33 +95,33 @@ ms.locfileid: "110149453"
 
 1. パートナー センターで **[顧客]** ページに移動します。
 
-2. 予約割引と使用量を確認し、下矢印を選択して顧客の情報を展開します。 [ **Microsoft Azure の管理ポータル** ] を選択して、Azure portal で顧客のレコードを開きます。
+2. 予約割引と使用状況を確認する顧客を探し、下矢印を選択して顧客の情報を展開します。 **[Microsoft Azure の管理ポータル]** を選択して、顧客のレコードを Azure portal。
 3. ポータルのメニューから **[予約]** を選択し、使用状況を確認する対象の予約を選択します。
-4. [ **概要** ] ページで、予約の使用状況グラフを確認します。これには、仮想マシンに適用された予約の量が表示されます。
+4. [概要 **] ページ** で、予約の使用率グラフを確認します。これは、仮想マシンに適用された予約の量を示します。
 
     >[!NOTE]
     >使用率データには、最大で 8 時間の遅延が発生することがあります。
 
-    a. 予約の使用率が100% の場合、お客様は予約購入によって得られる節約額をすべて取得することになります。
-    b. 予約の使用率が0% の場合、割引は仮想マシンに適用されません。
-    c. 予約の使用量が 1 ~ 99% の場合、未使用の特典があります。
+    a. 予約の使用率が 100% の場合、顧客は予約購入で提供できるすべての節約を受け取っています。
+    b. 予約の使用量が 0% の場合、割引は仮想マシンに適用されません。
+    c. 予約の使用量が 1% から 99% の場合、未使用の特典があります。
 
-5. この状況を回避するには、購入を行う前に、顧客のコンピューティングニーズをサポートする正しいサイズの VM を決定します。
+5. この状況を回避するには、購入を行う前に、顧客のコンピューティングニーズをサポートする適切なサイズの VM を決定します。
 
-### <a name="verify-the-customers-reservation-usage-with-the-azure-utilization-api"></a>Azure 使用率 API を使用して顧客の予約使用状況を確認する
+### <a name="verify-the-customers-reservation-usage-with-the-azure-utilization-api"></a>Azure 使用率 API を使用して顧客の予約の使用状況を確認する
 
 >[!NOTE]
 >どの仮想マシンに割引が適用されるかを確認できるのは Azure Utilization API のみです。  
 
-Azure Utilization API を使用すると、予約の使用状況データを取得できます。これにより、顧客が予約割引を獲得できるかどうかと、どの VM (仮想マシン) に割引が適用されるかを確認できます。 例 A と例 B を比較して、顧客の予約使用状況を確認する方法を確認してください。
+Azure Utilization API を使用すると、予約の使用状況データを取得できます。これにより、顧客が予約割引を獲得できるかどうかと、どの VM (仮想マシン) に割引が適用されるかを確認できます。 例 A と例 B を比較して、顧客の予約の使用状況を確認する方法を確認します。
 
-:::image type="content" source="images/usage5.png" alt-text="予約の使用例":::
+:::image type="content" source="images/usage5.png" alt-text="予約の使用例。":::
 
 - reservationId は、VM に割引を適用するために使用された Azure 予約を識別します。
 - consumptionMeter は、予約割引が適用されている VM の MeterId です。
 - 予約割引が適用されるため、ReservationMeter には料金として $0 が示されます。
 
-詳細については、[パートナーセンター API](/partner-center/develop/)の「 [Azure の顧客の使用状況レコードを取得する](/partner-center/develop/get-a-customer-s-utilization-record-for-azure)」を参照してください。
+詳細については、Azure の [顧客](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) の使用状況レコードの取得に関するページを参照パートナー センター [してください](/partner-center/develop/)。
 
 >[!IMPORTANT]
 >現時点では、Microsoft Windows Server などのソフトウェアの料金は VM 予約の価格に含まれず、注文レコードと請求書に個別の明細項目として表示されます。 ただし、顧客が Azure ハイブリッド特典を利用できる場合、ソフトウェア料金は適用されません。 詳しくは、「[Windows software costs not included with Reserved Instances](/azure/billing/billing-reserved-instance-windows-software-costs)」 (予約インスタンスに含まれない Windows ソフトウェアの料金) をご覧ください。  
@@ -136,4 +136,4 @@ Azure Utilization API を使用すると、予約の使用状況データを取�
 |Azure portal で Azure Reservations を購入する | [Azure Reserved VM Instances による仮想マシン料金の前払い](/azure/virtual-machines/windows/prepay-reserved-vm-instances) (Azure ヘルプ) |
 |Azure portal で Azure Reservations を管理する   | [予約済み VM インスタンスの管理](/azure/billing/billing-manage-reserved-vm-instance) (Azure ヘルプ)  |
 |パートナー センター API を使用して Azure Reservations を購入する | [Azure Reserved VM Instances の購入](/partner-center/develop/purchase-azure-reservations) (パートナー センター開発者向けドキュメント)   |
-|購入したサブスクリプションから独自の Azure 予約を購入するためのアクセス許可を顧客に付与します。 | [独自の Azure 予約を購入するためのアクセス許可を顧客に付与する](give-customers-permission.md)   |
+|購入したサブスクリプションから独自の Azure 予約を購入するアクセス許可を顧客に付与する。 | [顧客に自分の Azure 予約を購入するアクセス許可を付与する](give-customers-permission.md)   |

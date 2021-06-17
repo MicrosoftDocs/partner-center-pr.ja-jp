@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5efd157078acd72ca47418aaa9559a678fc5b129
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 21042169a33d9a413f17f951c4daad0c5fc86a17
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151170"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277676"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>MPN プログラムの唯一の管理者が離社した場合は、どうしますか?
 
@@ -38,23 +38,23 @@ ms.locfileid: "110151170"
 1. 左側の **メニュー ナビゲーション バーの [** ヘルプとサポート] オプションを選択します。
 1. 次のページで、ドロップダウン メニューで [新しい **Support requestと技術的** な問題の種類] を選択し、追加の詳細を挿入し、[次へ: ソリューション] を **クリックします。**
 
-:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Azure portal で管理者を見つける":::
+:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="[管理者] を [Azure portal] で見Azure portal。":::
 
 4. 次のページで推奨されるソリューションを確認したら、[次へ: 詳細] を **選択し、** 必要なフィールドに入力します。
 1. サポート リクエストを確認して作成します。
 
 
-## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>シナリオ 3: MPN Partner admin/Account admin/Global admin が会社を退職し、会社の Azure AD にアクセスできる他のユーザーがいない。 これにより、完全なアクセスが失われます。
+## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>シナリオ 3: MPN パートナー管理者/アカウント管理者/グローバル管理者が離社し、会社の管理者にアクセスできる他のユーザー Azure AD。 これは、アクセスの完全な損失です。
 
-[管理者の引き継ぎ](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover)手順に従って、管理されていないディレクトリを Azure Active Directory 管理者として引き継ぎます。
+管理者の [引き継ぎ手順](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) に従って、管理されていないディレクトリを管理者Azure Active Directoryします。
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>職場アカウントが会社に既にあるかどうかわからない場合
 
 会社に職場アカウントがあるかどうかわからない場合は、次の手順に従って確認します。
 
-1. [Azure 管理ポータル](https://ms.portal.azure.com)にサインインします。
-2. 左側のメニューから [ **Azure Active Directory** ] を選択し、[ **ドメイン名**] を選択します。
+1. Azure 管理ポータル [にサインインします](https://ms.portal.azure.com)。
+2. 左側 **Azure Active Directory** メニューから [ドメイン名] を選択し、[ ] **を選択します**。
 既に職場アカウントがある場合、ドメイン名が表示されます。
 
 >[!Note]
->Microsoft Azure または Office 365 へのアクティブなサブスクリプションがある場合は、既に職場アカウントを持っていて、サインイン資格情報がこれらのサービスへのアクセスに使用したものと同じである必要があります。
+>Microsoft Azure または Office 365 のアクティブなサブスクリプションがある場合は、既に仕事用アカウントを持っているので、サインイン資格情報は、それらのサービスへのアクセスに使用されるサブスクリプションと同じである必要があります。

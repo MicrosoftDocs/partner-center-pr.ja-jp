@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148994"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276942"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>任意の契約のデスクトップ数と料金レベルを検索する
 
@@ -50,31 +50,31 @@ ms.locfileid: "110148994"
 |  A | 0 – 2,399    |
 |  B | 2,400 – 5,999    |
 |  C | 6,000 – 14,999    |
-|  D | 15000 +   |
+|  D | 15,000+   |
 
 >[!NOTE]
->エンタープライズインセンティブレベルは、商用および公的セクタ (PS) 登録のデスクトップまたはユーザー数 (どちらか大きい方) に基づいています。 自然に関連付けられたデスクトップまたはユーザー数を含まない登録の場合、Microsoft では、付随する EA のデスクトップ数またはユーザー数に基づいてデスクトップ数を適用します。 <br><br>付随する EA がない場合、料金レベルは登録の価格レベルに基づきます。 取引の価格レベルは、 [www.explore.ms](https://www.explore.ms/)でも確認できます。 <br><br>既存の EA/EAS に複数のプールや価格レベルがある場合、Microsoft は、割り当てられた最高レベルの価格/プールレベルでインセンティブを支払います。レベル A は最下位で、レベル D は最も高くなります。
+>エンタープライズ インセンティブ レベルは、商用および公的機関 (PS) の登録におけるデスクトップまたはユーザー数 (高い方) に基づいて行います。 自然な関連付けられたデスクトップまたはユーザー数がない登録の場合、Microsoft は、付随する EA のデスクトップ数またはユーザー数に基づいてデスクトップ数を適用します。 <br><br>付随する EA がない場合、料金レベルは登録の価格レベルに基づいて行います。 取引の価格レベルは、 で表示[www.explore.ms。](https://www.explore.ms/) <br><br>既存の EA/EAS に複数のプールまたは価格レベルがある場合、Microsoft は割り当てられた最高の価格/プール レベルでインセンティブを支払います。レベル A は最も低く、レベル D は最高です。
 
 #### <a name="pool-and-pricing-levels"></a>プールと価格レベル
 
-上記の手順に従って explore.ms で契約番号を検索した後、契約番号を選択します。 契約の詳細ページが表示され、 **契約の概要** と **オファリング** が表示されます。 オファリングセクションには、価格レベルが含まれています。
+上記の手順を使用して explore.ms 契約番号を検索した後、契約番号を選択します。 これにより、契約の詳細ページが表示され、[契約の概要] と [オファリング]**が****表示されます**。 [オファリング] セクションには、価格レベルが含まれている。
 
-## <a name="method-2---chip"></a>方法 2-チップ
+## <a name="method-2---chip"></a>方法 2 - CHIP
 
-1. チップにサインインし、[LSP インセンティブ] を選択します。
+1. CHIP にサインインし、[LSP インセンティブ] を選択します。
 
-2. [**パートナーの支払いの概要**] ページで、表示するレポート月を選択し、[ **Excel にエクスポート**] の下のドロップダウンリストから [**計算の詳細**] を選択します。
+2. [**パートナー支払いの概要**] ページで、表示するレポート月を選択し、[Excelにエクスポート] の下のドロップダウンから [計算の詳細]**を選択します**。
 
-:::image type="content" source="images/chip/chiplocate.png" alt-text="プログラムの詳細の検索":::
+:::image type="content" source="images/chip/chiplocate.png" alt-text="プログラムの詳細を見つける。":::
 
-3. エクスポートが開始され、ファイルを開くか、保存して保存することができます。
+3. エクスポートが開始され、ファイルを開く、または保存先として保存/保存することができます。
 
-4. レポートが開いたら、左下にある [ **FlatFile** ] タブに移動します。
+4. レポートが開いているときに、左下にある **[DetailReport-FlatFile]** タブに移動します。
 
-:::image type="content" source="images/chip/flatfile.png" alt-text="フラットファイルのダウンロード":::
+:::image type="content" source="images/chip/flatfile.png" alt-text="フラット ファイルのダウンロード。":::
 
-これで、列 J で探している契約番号を検索できるようになりました。割り当てられたデスクトップ数は、[Agreement_DesktopCount] というラベルの付いた R 列にあります。 このアグリーメントの料金レベルは、[レベル] というラベルの付いた列 ' AI ' で確認することもできます。
+これで、J 列で探している契約番号を検索できます。割り当てられたデスクトップ数は、R 列に表示され、[Agreement_DesktopCount] というラベルが付Agreement_DesktopCount。 [レベル] というラベルが付いた列 'AI' で、この契約の料金レベルを確認できます。
 
 ## <a name="next-steps"></a>次のステップ
 
-- [チップアクセスの問題のトラブルシューティング](chip-access-trouble.md)
+- [CHIP アクセスに関する問題のトラブルシューティング](chip-access-trouble.md)

@@ -8,12 +8,12 @@ description: 顧客に対して販売または管理するサブスクリプシ�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854589"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276299"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI Insights ダッシュボードから使用できる使用状況パートナー センターレポート
 
@@ -46,41 +46,41 @@ ms.locfileid: "109854589"
 
    マイクロ グラフには、選択した期間における月間アクティブシートの月次傾向が表示されます。
 
-- アクティブな使用率%: 選択した期間の使用可能な座席数に対する割合で表されたアクティブなシートの合計数。 
+- アクティブな使用率 %: 選択した時間枠で使用可能なシートに対する割合で表されるアクティブなシートの総数。 
 
-   マイクログラフは、選択した期間のアクティブな使用率の月ごとの傾向を示します。
+   マイクロ グラフには、選択した期間におけるアクティブな使用率の月間傾向が表示されます。
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI 使用状況の概要":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BIの概要。":::
 
-## <a name="power-bi-usage-by-geography"></a>地理別の使用状況の Power BI
+## <a name="power-bi-usage-by-geography"></a>Power BI別の使用状況の確認
 
-**地理的な Power BI 使用量** は、顧客の国別の使用可能な座席とアクティブな座席の分布を表します。 マップ上の薄い色は下限値を表し、濃い色は高い値を表します。 グリッド内で拡大する国を検索して選択できます。
+地域 **Power BI使用状況の一覧は** 、顧客の国別の利用可能なシートとアクティブなシートの分布を示しています。 マップ上の明るい色は低い値を表し、濃い色は高い値を表します。 ズームするグリッド内の国を検索して選択できます。
 
-[ **国/地域の数** ] テーブルには、Azure の使用状況イベントが生成される国/地域の合計が表示されます。
+[ **国/地域の数] テーブル** には、Azure 使用状況イベントが生成される国/地域の合計が表示されます。
 
-グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [ **ホーム** ] オプションを選択して、元のビューに戻します。
+グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップ上 **の [ホーム** ] オプションを選択して、元のビューに戻します。
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="地理別の使用状況の Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI別の使用状況。":::
 
-## <a name="power-bi-usage-by-sku"></a>SKU 別の使用状況の Power BI
+## <a name="power-bi-usage-by-sku"></a>Power BI SKU 別の使用状況
 
-SKU 別の Power BI 使用量は、使用可能な座席、アクティブなシート数、および Sku 別に割り当てられた座席の月ごとの傾向を示します。
+SKU 別Power BIの使用量は、SKU 別の利用可能なシート、アクティブなシート、および割り当てられたシートの月次傾向を示しています。
 
-:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="SKU 別の使用状況の Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Power BI SKU 別の使用量。":::
 
 ## <a name="subscriptions-performance"></a>サブスクリプションのパフォーマンス
 
-サブスクリプションのパフォーマンスは、顧客サブスクリプションごとのアクティブな使用状況の月ごとの傾向を示します。 収益を請求して上位100の顧客のデータがテーブルに表示されます。顧客を検索するか、生データをダウンロードしてすべてのサブスクリプションの詳細を表示できます。
+サブスクリプションのパフォーマンスは、顧客サブスクリプションごとのアクティブな使用状況の毎月の傾向を示しています。 請求収益別の上位 100 人の顧客のデータが表に表示されます。すべての顧客を検索したり、生データをダウンロードしてすべてのサブスクリプションの詳細を表示することができます。
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI サブスクリプションのパフォーマンス":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BIパフォーマンスが向上します。":::
 
-## <a name="power-bi-usage-distribution"></a>Power BI 使用量の分布
+## <a name="power-bi-usage-distribution"></a>Power BI使用量の分布
 
-Power BI 使用分布は、使用可能な座席、アクティブなシート数、および Sku 別に割り当てられた座席の内訳を示します。
+[Power BIの分布は、使用可能なシート、アクティブなシート、および割り当てられたシートの SKU 別の内訳を示しています。
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI 使用量の分布":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BIの分布。":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。
 

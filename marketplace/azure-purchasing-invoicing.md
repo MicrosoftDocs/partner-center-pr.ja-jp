@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 04/15/2021
-ms.openlocfilehash: cfe37f26ad685ca723336d8559d15d4a64048f4b
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.date: 01/18/2021
+ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630085"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276503"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace での購入
 
@@ -35,40 +35,40 @@ Azure portal の Azure Marketplace エクスペリエンスで、購入するア
 
 :::image type="content" source="media/overview/button-set-up-and-subscribe.png" alt-text="[セットアップ + サブスクライブ] ボタン。":::
 
-Azure Marketplace オンライン ストアからソリューションをデプロイする場合は、製品の説明ページで [今すぐ取得] を選択し、Azure アカウントの資格情報でサインインします。
+Azure Marketplace オンラインストアからソリューションをデプロイする場合は、[製品の説明] ページで [ **今すぐ入手** する] を選択し、azure アカウントの資格情報でサインインします。
 
-:::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="[Azure Marketplace] ダイアログ ボックス。":::
+:::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Azure Marketplace のサインインダイアログボックス。":::
 
-サインインすると、購入を完了するために、Azure portal製品にリダイレクトされます。
+サインインすると、Azure portal の製品にリダイレクトされ、購入が完了します。
 
-## <a name="purchase-policy-management"></a>購入ポリシー管理
+## <a name="purchase-policy-management"></a>ポリシー管理の購入
 
 Microsoft では、Azure サブスクリプション管理者として課金プロファイルを使用してユーザーの購入を管理できます。 次の 3 つのオプションから選択できます。
 
-- **無料 + 有料** – ユーザーは、任意のソフトウェア アプリケーションAzure Marketplace取得できます。
-- **[無料** ] – ユーザーが無料のソフトウェアのみを展開Azure Marketplace。
-- **[いいえ** ] – ユーザーがソフトウェアを展開Azure Marketplace。
+- **無料 + 有料** – Azure Marketplace ソフトウェアアプリケーションを取得することをユーザーに許可します。
+- **Free** – Azure Marketplace から無料のソフトウェアのみをデプロイできます。
+- [いいえ] –ユーザー **が** Azure Marketplace からソフトウェアをデプロイできないようにします。
 
-これらの設定は、Azure サブスクリプションにアクセスできるすべてのユーザーに適用されます。これにより、Azure サブスクリプションを通じて IT 調達を制御Azure portal。
+これらの設定は、Azure サブスクリプションへのアクセス権を持つすべてのユーザーに適用されます。これにより、Azure portal を通じて IT 調達を制御できるようになります。
 
-:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="サービスを通じた IT 調達のAzure portal":::
+:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Azure portal を通じて IT 調達を制御します。":::
 
 ## <a name="cost-management"></a>コスト管理
 
-顧客から製品を購入するAzure Marketplace、コストの管理に役立つ分析情報を得る必要があります。 Azure Cost Managementは、購入した製品に関する情報を表示する無料のツールです。 Cost Managementを使用して、時間の費やしているサービスの詳細と、設定した予算に対してそれらのコストがどのように追跡されるのかを確認できます。 予算の設定に加えて、レポートをスケジュールし、サブスクリプションのコストを分析できます。 コストの分析とAzure Cost Managementの作成に関するMicrosoft Learnモジュールを完了して、コストの詳細を[確認Azure Cost Management。](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)
+Azure Marketplace から製品を購入すると、コストの管理に役立つ洞察を得ることができます。 Azure Cost Management は、購入した製品に関する情報を表示するための無料ツールです。 Cost Management を使用すると、時間の経過と共に使用しているサービスの詳細と、設定した予算に対してそれらのコストがどのように追跡されるかを確認できます。 予算を設定するだけでなく、レポートのスケジュールを設定したり、サブスクリプションのコストを分析したりすることもできます。 Azure Cost Management の詳細については、「 [コストの分析」と「Azure Cost Management を使用した予算の作成](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)」の「Microsoft Learn」モジュールを参照してください。
 
 Azure Marketplace の料金と請求書は、Azure Cost Management の費用分析ツールで確認できます。
 
-:::image type="content" source="media/overview/azure-cost-management.png" alt-text="購入Azure Cost Managementに関する分析情報を取得するには、次のコマンドを使用します。":::
+:::image type="content" source="media/overview/azure-cost-management.png" alt-text="Azure Cost Management を使用すると、購入した製品に関する洞察を得ることができます。":::
 
-## <a name="purchase-validation-checks"></a>購入の検証チェック
+## <a name="purchase-validation-checks"></a>購入検証の確認
 
-サービスを通じてオファー Azure Marketplace、さまざまな理由で失敗する可能性があります。 購入にコマンド ライン インターフェイス (CLI) を使用すると、Azure Marketplace で使用できないオファーを購入しようとしている可能性が高く、エラーが発生する可能性があります。 購入が失敗する可能性があるチェックを次に示します。
+Azure Marketplace でプランを購入すると、さまざまな理由で失敗する可能性があります。 購入にコマンドラインインターフェイス (CLI) を使用すると、Azure Marketplace で使用できない、または表示できないプランを購入しようとしている場合があるため、エラーが発生する可能性が高くなります。 次に、購入に失敗する可能性があるチェックを示します。
 
 1. サブスクリプションは、Enterprise Agreement (EA) に属し、EA 管理者によって無効化された Azure Marketplace の購入が無効になっています。
 1. EA 管理者は無料プランでのみ購入が有効になっており、プランは有料プランです。
 1. プランが marketplace に見つかりません。
-1. 独立系ソフトウェアベンダー (ISV) は、少なくともお客様の地域で提供されているプランを非推奨としました。
+1. 独立系ソフトウェアベンダー (ISV) は、少なくともお客様の地域でプランの販売を停止しました。
 1. 使用しているサブスクリプションは、プランが使用できないリージョンの課金アカウントに属しています。
 1. サブスクリプション/請求アカウントが有効な支払い方法 (有効なクレジットカードなど) に関連付けられていません。
 1. サブスクリプションはクラウドソリューションプロバイダー (CSP) に属し、ISV は CSP による販売を拒否しました。

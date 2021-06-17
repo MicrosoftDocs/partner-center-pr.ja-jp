@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854555"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276282"
 ---
 # <a name="trainings-dashboard"></a>トレーニング ダッシュボード
 
@@ -34,33 +34,33 @@ ms.locfileid: "109854555"
 
 概要セクションには、トレーニングに関連するさまざまなパフォーマンス インジケーターの数値スナップショット ビューが表示されます。 さまざまな業績評価指標は、認定個人、認定資格、試験資格情報を持つ個人、試験資格情報、評価資格情報を持つ個人、評価資格情報を持つ個人です。 このセクションのデータは、選択した日付範囲 (3 か月 (3M)、6 か月 (6 分)、12 か月 (1Y) またはカスタム データ範囲 (カスタム) に基づいて更新されます。 
 
-:::image type="content" source="images/pci/td-summary.png" alt-text="まとめ":::
+:::image type="content" source="images/pci/td-summary.png" alt-text="まとめ。":::
 
 - **認定資格を持つ個人**: 会社の認定資格を持つ個別の個人の数を表します。
 - **認定数**: 会社の個人が取得した認定の総数を表します。
 - **評価を受け取る** 個人: 会社の評価資格情報を持つ個別の個人の数を表します。 
 - **評価数**: 会社の個人が行った評価の総数を表します。
-- 検査 **を使用している個人**: 会社の資格情報を検証する個別の個人の数を表します。 
-- **検査回数**: 会社の個人によって取得された試験の合計数を表します。
+- **検査を受け取る** 個人 : 会社の検査資格情報を持つ個別の個人の数を表します。 
+- **検査回数**: 会社の個人が受け取った検査の総数を表します。
 
-## <a name="training-performance"></a>トレーニングのパフォーマンス
+## <a name="training-performance"></a>トレーニングパフォーマンス
 
-トレーニングのパフォーマンスでは、ユーザー数の月と、会社の個人によって完了したトレーニングが示されます。 選択した日付範囲のグラフの形式で、認定、評価、および試験によって分割されます。 X 軸は、選択された日付範囲の月を表します。 Y 軸は、選択したトレーニングの種類について、個別の個人数とトレーニング数を表します。 グラフの上にある各タブを選択して、トレーニングの種類別の内訳を表示します。 グラフデータは、選択した日付範囲のダウンロードアイコンを使用して、tsv 形式でダウンロードできます。
+トレーニングのパフォーマンスは、個人の月別の数と、会社の個人によって完了されたトレーニングを示します。 これは、選択した日付範囲のグラフの形式で、認定、評価、試験によって分割されます。 X 軸は、選択した日付範囲の月を表します。 Y 軸は、選択したトレーニングの種類に対する個人の個別の数とトレーニングの数を表します。 グラフの上にあるそれぞれのタブを選択して、トレーニングの種類別に内訳を表示します。 グラフ データは、選択した日付範囲の .tsv 形式のダウンロード アイコンを使用してダウンロードできます。
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="トレーニングのパフォーマンス":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="トレーニング パフォーマンス。":::
 
 ## <a name="individuals-performance"></a>個人のパフォーマンス
 
-個人の [パフォーマンス] セクションには、選択した日付範囲について、会社の個人が行ったトレーニングの詳細が表示されます。 セクションの左側のパネルで、個人の名前を検索して選択します。 選択した個人のトレーニングの詳細が、セクションの右側のパネルに表示されます。
+[個人のパフォーマンス] セクションには、選択した日付範囲について、会社の個人が行ったトレーニングの詳細が表示されます。 セクションの左側のパネルで、個人の名前を検索して選択します。 選択した個人のトレーニングの詳細が、セクションの右側のパネルに表示されます。
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="個々のパフォーマンス":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Indiviual Performance。":::
 
 >[!NOTE] 
-> [個人のパフォーマンス] セクションは、エグゼクティブレポートビューアーのユーザーのみが使用できます。 
+> [個人のパフォーマンス] セクションは、エグゼクティブ レポート閲覧者であるユーザーだけが使用できます。 
 
 ## <a name="next-steps"></a>次の手順
 
-[Partner Center Insights のレポート](partner-center-insights.md)
+[パートナー センター Insights のレポート](partner-center-insights.md)
 
 >[!NOTE] 
-> このレポートを作成する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md)
+> このレポートを利用する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md)

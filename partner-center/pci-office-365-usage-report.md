@@ -8,12 +8,12 @@ description: お客様のお客様のために販売または管理する Office
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 685dce8d521bc27b9b91efd5206e9da0d7e45f34
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854605"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277812"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能な Office 365 使用状況レポート
 
@@ -46,38 +46,38 @@ Office 365 使用状況レポートには、顧客が販売または管理して
 
    このマイクログラフは、選択した期間における月間アクティブユーザーの月間傾向を示しています。
 
-:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Office 365 の使用状況の概要":::
+:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Office 365 の使用状況の概要。":::
 
-## <a name="office-365-usage-by-geography"></a>地域別の Office 365 の使用状況
+## <a name="office-365-usage-by-geography"></a>地理的に別の Office 365 の使用状況
 
-**地域別 Office 365** の使用状況は、顧客の国別の月間アクティブ ユーザー (MAU) と有料利用可能ユニット (PAU) の分布を示しています。 MAU は前月に使用されたライセンスの数を指し、PAU は選択した期間に販売または管理された有料シートの数を指します。 マップ上の明るい色は低い値を表し、濃い色は高い値を表します。 グリッドで国を検索して選択できます。 さらに詳しく見る場合は、拡大して表示できます。
+**Geography による Office 365 の使用状況** では、顧客の国別の月間アクティブユーザー数 (mau) と有料使用可能ユニット (pau) の分布が示されています。 MAU は、前月に使用されたライセンスの数を示し、PAU は選択した期間に販売または管理されている有料の座席の数を示します。 マップ上の薄い色は下限値を表し、濃い色は高い値を表します。 グリッド内の国を検索して選択できます。 拡大して表示することもできます。
 
-[ **国/地域の数] テーブル** には、Azure 使用状況イベントが生成される国/地域の合計が表示されます。
+[ **国/地域の数** ] テーブルには、Azure の使用状況イベントが生成される国/地域の合計が表示されます。
 
-グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップ上 **の [ホーム** ] オプションを選択して、元のビューに戻します。
+グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [ **ホーム** ] オプションを選択して、元のビューに戻します。
 
 
-:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="地域別の Office 365 の使用状況":::
+:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Office 365 は geography によって使用されます。":::
 
-## <a name="office-365-usage-by-workload"></a>ワークロード別の Office 365 の使用状況
+## <a name="office-365-usage-by-workload"></a>Office 365 ワークロード別の使用状況
 
-ワークロード別の Office 365 の使用状況は、ワークロード別の MAU と PAU の内訳を示しています。
+ワークロード別の Office 365 の使用により、ワークロードごとの MAU と PAU の内訳が示されます。
 
-:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="ワークロード別の Office 365 の使用状況":::
+:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Office 365 の使用 (ワークロード別)。":::
 
 ## <a name="subscriptions-performance"></a>サブスクリプションのパフォーマンス
 
-サブスクリプションのパフォーマンスは、顧客ごとのワークロード別の MAU と PAU の内訳を示しています。 請求された収益別の上位 100 人の顧客のデータが表に表示され、任意の顧客を検索したり、生データをダウンロードしてすべての顧客の詳細を表示することができます。
+サブスクリプションのパフォーマンスは、ユーザーごとのワークロードごとの MAU と PAU の内訳を示しています。 収益を請求して上位100の顧客のデータがテーブルに表示されます。顧客を検索するか、生データをダウンロードして、すべての顧客の詳細を表示できます。
 
-:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Office 365 サブスクリプションのパフォーマンス":::
+:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Office 365 サブスクリプションのパフォーマンス。":::
 
-## <a name="office-365-usage-distribution"></a>Office 365 の使用状況の分布
+## <a name="office-365-usage-distribution"></a>Office 365 の使用量の分布
 
-Office 365 の使用状況の分布は、SKU 別の PAU とサブスクリプションの内訳を示しています。
+Office 365 の使用配分は、Sku 別の PAU とサブスクリプションの内訳を示しています。
 
-:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Office 365 の使用状況の分布":::
+:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Office 365 の使用配分。":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
 

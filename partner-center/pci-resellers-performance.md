@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a2a5697f19baadb5af956a745c032ce1711574d3
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: cc0fb8a56d397cebeb5a40fa1a1c8d6eae77fe25
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855235"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277370"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>パートナー センター Insights の Reseller Performance ダッシュボード
 
@@ -59,7 +59,7 @@ ms.locfileid: "109855235"
 
 - [Billed revenue by products]/(製品別の請求収益)" セクションでは、請求収益の月の内訳 (USD) が販売された製品別に 1 か月分表示されます。 
 
-:::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="リセラーのパフォーマンスの概要":::
+:::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="リセラーのパフォーマンスの概要。":::
 
 ## <a name="geographical-spread-of-resellers"></a>リセラーの地理的分散
 
@@ -67,7 +67,7 @@ ms.locfileid: "109855235"
 
 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの **[ホーム** ] オプションを押して、元のビューに戻ります。 マップにマウス ポインターを合わせると、国別 **の請求収益 (USD)** が表示されます。 グリッドの [請求収益 (USD) ] フィールドは並べ替え可能です。
 
-:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="地域別のリセラー ":::
+:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="地域別のリセラー。":::
 
 ## <a name="resellers-addchurns"></a>リセラーの追加/チャーン
 
@@ -77,47 +77,47 @@ ms.locfileid: "109855235"
 - チャーンリセラー: 当月を除く過去 6 か月間取引を行ってなかったリセラーの数。
 - 既存のリセラー: 前月に取引を行ったリセラーの数。
 
-:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="リセラーの追加/チャーン":::
+:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="リセラーは、チャーンを追加します。":::
 
 ## <a name="resellers-revenue-trend"></a>リセラーの収益傾向 
 
 このビューでは、製品 (O365、D365、EMS、Power BI、Azure) で分割された請求収益 (USD) の月次傾向を示します。 全体的なメトリックは、各月のさまざまな製品にわたって集計されます。 パートナーは、名前で特定のリセラーを検索し、その特定のリセラーのデータを検索できます。 グリッドの [請求収益 (USD) ] フィールドは並べ替え可能です。
 
-:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="リセラーの収益傾向":::
+:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="リセラーの収益傾向。":::
 
 ## <a name="reseller-performance-by-products"></a>製品別のリセラーのパフォーマンス
 
 このビューでは、月単位で、請求収益、サブスクリプションの数、さまざまな製品別のライセンス数など、主要なメトリックの分割が提供されます。 右側の円グラフは、さまざまな製品によるメトリックの全体的な分割を示しています。そのため、パートナーは、リセラーが販売しているさまざまな製品による分割を簡単に確認できます。
 
-:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="製品別のリセラーのパフォーマンス":::
+:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="製品別のリセラーのパフォーマンス。":::
 
 ## <a name="active-resellers-by-partner-locations"></a>パートナーの場所別のアクティブなリセラー
 
 このビューでは、パートナーの地域別にアクティブなリセラーを分割できます。 上位 5 つの地域が凡例に表示され、残りの地域は "その他" に分類されます。
 
-:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="パートナーの場所別のアクティブなリセラー":::
+:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="パートナーの場所別のアクティブなリセラー。":::
 
 ## <a name="revenue-geo-distribution-trend"></a>収益地域分布の傾向
 
 このビューは、上位 5 つの地域で分割された請求収益 (USD) の月の傾向を示します。  残りの収益は "その他" に分類されます。
 
-:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="収益の geo 分布の傾向":::
+:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="収益地域分布の傾向。":::
 
-## <a name="reseller-performance-by-customer-segment"></a>カスタマーセグメント別の再販業者のパフォーマンス
+## <a name="reseller-performance-by-customer-segment"></a>顧客セグメント別のリセラーのパフォーマンス
 
-このビューを使用すると、パートナーは、毎月の収益を計算し、サブスクリプションとライセンスの数をさまざまな顧客セグメント別に分割することができます。 上位5つの顧客セグメントがグラフに表示され、残りは "その他" として分類されます。
+このビューを使用すると、パートナーは、収益の毎月の傾向 (USD)、サブスクリプションとライセンスの数を、さまざまな顧客セグメントで分割して把握できます。 上位 5 つの顧客セグメントがグラフに表示され、残りのセグメントは "その他" に分類されます。
 
-:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="カスタマーセグメント別の再販業者のパフォーマンス":::
+:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="顧客セグメント別のリセラーのパフォーマンス。":::
 
-## <a name="reseller-mpa-signing-status"></a>再販業者の MPA 署名の状態
+## <a name="reseller-mpa-signing-status"></a>リセラー MPA 署名の状態
 
-このビューでは、再販業者の MPA 署名の状態が、MPN 審査 status、PMC to PC Migration status などの追加のメタデータと共に提供されます。
+このビューには、リセラーの MPA 署名状態と、MPN の確認状態、PMC から PC への移行の状態などの追加のメタデータが表示されます。
 
-:::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="再販業者の MPA 署名の状態":::
+:::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="リセラー MPA 署名状態。":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
-- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
+- その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。
 
 >[!NOTE] 
-> このレポートを作成する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 
+> このレポートを利用する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 

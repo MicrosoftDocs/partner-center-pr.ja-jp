@@ -8,12 +8,12 @@ description: 顧客に対して販売または管理する Dynamics サブスク
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152802"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277506"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナー センター Insights ダッシュボードから使用できる Dynamics 使用状況レポート
 
@@ -46,39 +46,39 @@ Dynamics 使用状況レポートには、顧客に対して販売または管�
 
    マイクロ グラフには、選択した期間における月間アクティブシートの月次傾向が表示されます。
 
-- アクティブな使用率%: 選択した期間の使用可能な座席数に対する割合で表されたアクティブなシートの合計数。 
+- アクティブな使用率 %: 選択した時間枠で使用可能なシートに対する割合で表されるアクティブなシートの総数。 
 
-   マイクログラフは、選択した期間のアクティブな使用率の月ごとの傾向を示します。
+   マイクロ グラフには、選択した期間におけるアクティブな使用率の月間傾向が表示されます。
 
-:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Dynamics の使用状況の概要":::
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Dynamics の使用状況の概要。":::
 
-## <a name="dynamics-usage-by-geography"></a>Geography による Dynamics の使用状況
+## <a name="dynamics-usage-by-geography"></a>地域別の Dynamics の使用
 
-**地理的な使用量** は、顧客の国別の座席とアクティブな座席の分布を表します。 マップ上の薄い色は下限値を表し、濃い色は高い値を表します。 グリッド内の国を検索して選択できます。 拡大して表示することもできます。
+地域 **別の Dynamics の使用状況は** 、顧客の国別の利用可能なシートとアクティブなシートの分布を示しています。 マップ上の明るい色は低い値を表し、濃い色は高い値を表します。 グリッドで国を検索して選択できます。 さらに詳しく見る場合は、拡大して表示できます。
 
-[ **国/地域の数** ] テーブルには、Azure の使用状況イベントが生成される国/地域の合計が表示されます。
+[ **国/地域の数] テーブル** には、Azure 使用状況イベントが生成される国/地域の合計が表示されます。
 
-グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [ **ホーム** ] オプションを選択して、元のビューに戻します。
+グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップ上 **の [ホーム** ] オプションを選択して、元のビューに戻します。
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Geography による Dynamics の使用状況":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="地域別の Dynamics の使用。":::
 
-## <a name="dynamics-usage-by-sku"></a>SKU による Dynamics の使用状況
+## <a name="dynamics-usage-by-sku"></a>SKU 別の Dynamics の使用状況
 
-Dynamics usage by SKU は、使用可能な座席、アクティブなシート数、および Sku 別に割り当てられた座席の月ごとの傾向を示します。
+SKU 別の Dynamics の使用状況は、SKU 別の利用可能なシート、アクティブなシート、および割り当てられたシートの月次傾向を示しています。
 
-:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="SKU による Dynamics の使用状況":::
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="SKU 別の Dynamics の使用状況。":::
 
 ## <a name="subscriptions-performance"></a>サブスクリプションのパフォーマンス
 
-サブスクリプションのパフォーマンスは、顧客サブスクリプションごとのアクティブな使用状況の月ごとの傾向を示します。 収益を請求して上位100の顧客のデータがテーブルに表示されます。顧客を検索するか、生データをダウンロードしてすべてのサブスクリプションの詳細を表示できます。
+サブスクリプションのパフォーマンスは、顧客サブスクリプションあたりのアクティブな使用状況の月間傾向を示しています。 請求収益別の上位 100 人の顧客のデータが表に表示されます。すべての顧客を検索したり、生データをダウンロードしてすべてのサブスクリプションの詳細を表示することができます。
 
-:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Dynamics サブスクリプションのパフォーマンス":::
+:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Dynamics サブスクリプションのパフォーマンス。":::
 
-## <a name="dynamics-usage-distribution"></a>Dynamics usage 分布
+## <a name="dynamics-usage-distribution"></a>Dynamics の使用状況の分布
 
-Dynamics usage 分布は、使用可能な座席、アクティブなシート数、および Sku 別に割り当てられた座席の内訳を示します。
+Dynamics の使用状況の分布は、SKU 別の利用可能なシート、アクティブなシート、および割り当てられたシートの内訳を示しています。
 
-:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dynamics の使用状況の分布":::
+:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dynamics の使用状況の分布。":::
 
 ## <a name="next-steps"></a>次のステップ
 

@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: dcacc6da51fe40c7eb05997f5409ef5fadbcf693
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 092c76fb874eb7308bdb69503223f722657db957
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856051"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277319"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>顧客の Azure プラン サブスクリプションの別のパートナーへの譲渡
 
@@ -69,17 +69,17 @@ Azure プランで Azure サブスクリプションを譲渡するには、顧�
 3.  [要求の **転送] セクションを** 選択します。
 4.  [要求の転送 **] セクションで、[新** しい要求の **追加] を選択します**。
 
-    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="[転送] セクション":::
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="[転送] セクション。":::
 
 5.  [新しい **転送要求] フォームに入力** します。
 
 6.  [転送要求 **の送信] を**  >  **選択します**。
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="[転送要求の完了] フォーム":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="完全な転送要求フォーム。":::
 
 7.  転送要求の確認の確認
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="保留中の転送を確認する":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="保留中の転送を確認します。":::
 
     >[!Note]
     >今後のパートナーは、転送要求の状態が"保留中" の場合にのみ、右上隅にある [キャンセル要求] を選択して、転送要求を取り消します。 転送要求の状態が "進行中" または "完了" の場合、取り消しはできません。
@@ -88,7 +88,7 @@ Azure プランで Azure サブスクリプションを譲渡するには、顧�
 
 顧客の現在のパートナーの管理エージェントは、顧客がサブスクリプションの譲渡を要求しているという電子メールを受け取る:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="確認":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="レビュー。":::
 
 サブスクリプションの譲渡を完了するには、パートナー センター要求フォームを確認して同意します。
 
@@ -101,35 +101,35 @@ Azure プランで Azure サブスクリプションを譲渡するには、顧�
 3.  [要求の **転送] セクションを** 選択します。
 4.  [受信した要求] で選択した転送要求 ID を **選択して** 、転送 **情報を展開します**
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="ソース レビュー転送要求":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="ソース レビュー転送要求。":::
 
-5.  譲渡要求を確認します。 転送する要求された Azure サブスクリプションを選択します。
-
->[!Note]  
-> 続行する前に、選択したサブスクリプションにアクセスできなくなります。
-> 今後の使用のために請求されることはありません。
-> Azure の予約は、サブスクリプションと共には転送されません。
-
-6.  次に、[ **受け入れて転送** ] を選択して、転送プロセスを完了します。
-
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Azure プランで転送するサブスクリプションを選択します":::
-
-7.  転送の受け入れ確認を表示します。
-
-   この時点で、今後のパートナー、顧客、および現在のパートナーには、電子メールで受け入れられた譲渡要求が通知されます。
-
-   その後、移行が受け入れられると、システムが更新されている間、転送状態が最大15分間保留状態のままになることがあります。 時間がかかると、システムは3日間試行し続けます。 転送の状態が保留中のままである場合、パートナーはサービス要求を送信する必要があります。
-
-   転送が完了すると、要求内に含まれているサブスクリプションが、今後のパートナーの Azure プランに表示され、お客様と共に表示されなくなります。
+5.  転送要求を確認します。 転送する要求された Azure サブスクリプションを選択します。
 
 >[!Note]  
->間接プロバイダーの場合: 譲渡要求が受け入れられたことを間接リセラーに知らせてください。
+> 次に進む前に注意してください。選択したサブスクリプションにアクセスできなくなりました。
+> それ以上の使用量については請求されません。
+> Azure の予約は、サブスクリプションと一緒に譲渡されるのではありません。
 
-### <a name="managing-your-transferred-customer-subscriptions"></a>転送された顧客サブスクリプションの管理
+6.  次に、[ **同意して転送] を選択** して転送プロセスを完了します。
 
-- 移転中、Azure ロールベースのアクセス制御 (RBAC) を使用して割り当てられた既存のユーザー、グループ、またはサービス プリンシパルへのアクセスは影響を受けません。 Azure のロールベースのアクセス制御 [(AZURE RBAC)](/azure/role-based-access-control/overview) を使用すると、顧客は、azure リソースにアクセスできるユーザー、それらのリソースを使用して実行できること、およびアクセス権を持つ領域を管理できます。 新しいパートナーとして、サブスクリプションの譲渡後に、お客様のリソースに対する RBAC アクセス権は付与されません。 お客様の以前のパートナーは、RBAC アクセスを維持しています。 お客様と協力して、サブスクリプションについての洞察を持つユーザーと、必要な変更を行う方法を理解します。
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Azure プランで譲渡するサブスクリプションを選択します。":::
 
-- そのため、お客様は前のパートナー向けの Azure RBAC アクセスを削除し、新しいパートナーのアクセス権を追加することが重要です。 新しいアクセス権を付与する顧客の詳細については、「Azure ロールベースのアクセス制御 [(Azure RBAC) とは」を参照してください。](/azure/role-based-access-control/overview) 顧客が以前のパートナーの RBAC アクセスを削除する方法の詳細については、「ロールの割り当てを削除 [する」を参照してください](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)。
+7.  譲渡同意の確認を表示します。
+
+   この時点で、将来のパートナー、顧客、および現在のパートナーには、受け入れされた譲渡要求が電子メールで通知されます。
+
+   移行が受け入れられると、システムが更新されている間、転送状態は最大 15 分間保留中のままになる可能性があります。 時間がかかる場合、システムは 3 日間試し続ける必要があります。 転送の状態が [保留中] のままである場合、パートナーはサービス要求を送信する必要があります。
+
+   譲渡が完了すると、要求に含まれるサブスクリプションが将来のパートナーの Azure プランに表示され、一覧に表示されなくなりました。
+
+>[!Note]  
+>間接プロバイダーの場合: 譲渡要求が受け入れられると間接リセラーに通知してください。
+
+### <a name="managing-your-transferred-customer-subscriptions"></a>譲渡された顧客サブスクリプションの管理
+
+- 移転中、Azure ロールベースのアクセス制御 (RBAC) を使用して割り当てられた既存のユーザー、グループ、またはサービス プリンシパルへのアクセスは影響を受けません。 Azure ロールベースのアクセス制御 [(Azure RBAC)](/azure/role-based-access-control/overview) は、Azure リソースにアクセスできるユーザー、それらのリソースで実行できる操作、およびユーザーがアクセスできる領域を顧客が管理するのに役立ちます。 新しいパートナーとして、サブスクリプションの譲渡後に顧客のリソースへの RBAC アクセス権は付与されない。 顧客の前のパートナーは、RBAC アクセス権を保持します。 顧客と一緒に、サブスクリプションに関する分析情報を持つユーザーと、必要な変更を行う方法を理解します。
+
+- そのため、顧客が前のパートナーの Azure RBAC アクセスを削除し、新しいパートナーのアクセス権を追加することが重要です。 新しいアクセス権を付与する顧客の詳細については、「Azure ロールベースのアクセス制御 [(Azure RBAC) とは」を参照してください。](/azure/role-based-access-control/overview) 顧客が以前のパートナーの RBAC アクセスを削除する方法の詳細については、「ロールの割り当てを削除 [する」を参照してください](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)。
 
 - さらに、サブスクリプションへの代理管理者 [(AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) アクセス権は自動的に取得されません。 パートナーが顧客に代わって顧客の Azure サブスクリプションを管理するには、AOBO が必要です。 Azure の特権の詳細については、「顧客のサービスまたはサブスクリプションを管理するためのアクセス許可を [取得する」を参照してください。](./customers-revoke-admin-privileges.md)
 

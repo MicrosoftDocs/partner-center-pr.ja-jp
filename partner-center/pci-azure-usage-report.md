@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: cd302a7b4839b98cdd96fda38b381d9282b00620
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146852"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112275993"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナー センター Insights ダッシュボードから使用できる Azure 使用状況レポート
 
@@ -43,37 +43,37 @@ Azure 使用状況レポートには、顧客の Azure サブスクリプショ�
 [マイクロ] グラフには、選択した日付範囲内の Azure のアクティブなサブスクリプション数の月別の傾向が表示されます。
 
 - Azure 使用による収益 (ACR): 選択したAzure 使用による収益に対してユーザーに属性付けされた合計値 (US$) です。
-選択した日付範囲内の属性付き ACR US $ の増加率または拒否比率。 
+選択した日付範囲内での属性付き ACR US$ の増加率または減少率。 
 
-マイクログラフは、選択した期間における ACR US $ の月ごとの傾向を示します。
+マイクロ グラフには、選択した期間における ACR US$ の月次傾向が表示されます
 
 
 > [!NOTE]
- > Azure で使用された収益 (ACR) は、Executive レポートビューアーロールが割り当てられているユーザーのみに表示されます。
+ > Azure 使用による収益 (ACR) は、エグゼクティブ レポート ビューアー ロールが割り当てられているユーザーにのみ表示されます。
 
-:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure の使用状況の概要":::
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure の使用状況の概要。":::
 
-## <a name="azure-usage-by-geography"></a>地理的に別の Azure の使用状況
+## <a name="azure-usage-by-geography"></a>地域別の Azure の使用状況
 
-[ **Azure usage by geography] ビューで** は、azure 従量課金 (ACR US $) の地理的分布、またはすべての azure サービスレベル/メーターカテゴリの使用時間が表示されます。 マップ上の薄い色は下限値を表し、濃い色は高い値を表します。 グリッド内で拡大する国を検索して選択することができます。 
+[ **地域別の Azure** 使用状況] ビューには、Azure の消費収益 (ACR US$) の地理的分布、または選択した Azure サービス レベル/測定カテゴリの使用量時間が表示されます。 マップ上の明るい色は低い値を表し、濃い色は高い値を表します。 ズームするグリッド内の国を検索して選択できます。 
 
-[ **国/地域の数** ] テーブルには、Azure の使用状況イベントが生成される国/地域の合計が表示されます。
+[ **国/地域の数] テーブル** には、Azure 使用状況イベントが生成される国/地域の合計が表示されます。
 
-グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの [ **ホーム** ] オプションを選択して、元のビューに戻します。
+グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップ上 **の [ホーム** ] オプションを選択して、元のビューに戻します。
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="地理的に別の Azure の使用状況":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="地域別の Azure の使用状況。":::
 
 ## <a name="azure-utilization"></a>Azure の使用率
 
-このビューには、選択した Azure サービスレベル/メーターカテゴリごとの月単位の Azure 従量課金または使用時間の傾向が表示されます。 
+このビューには、選択した Azure サービス レベル/測定カテゴリ別の月別の Azure 消費収益または使用時間の傾向が表示されます。 
 
-横棒グラフには、毎月の収益/使用時間の傾向が表示されます。 折れ線グラフでは、選択した Azure サービスレベル/メーターカテゴリの前月と比較した場合の成長傾向が示されます。
+棒グラフには、月次収益/使用時間の傾向が表示されます。 線グラフは、選択した Azure サービス レベル/メーター カテゴリの前月と比較した増加傾向を示します。
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure の使用率":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure の使用状況。":::
 
 ## <a name="next-steps"></a>次のステップ
 
-- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
+- その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。
 
 >[!NOTE] 
-> このレポートを作成する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 
+> このレポートを利用する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 

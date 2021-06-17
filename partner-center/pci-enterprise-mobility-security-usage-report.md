@@ -8,12 +8,12 @@ description: 顧客に対して販売または管理するサブスクリプシ�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854623"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277829"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security Insights ダッシュボードから使用できる使用状況パートナー センターレポート
 
@@ -46,7 +46,7 @@ ms.locfileid: "109854623"
 
    マイクロ グラフには、選択した期間に使用されたライセンスの月次傾向が表示されます。
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="EMS の使用状況の概要":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="EMS の使用状況の概要。":::
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security別の使用状況
 
@@ -56,28 +56,28 @@ ms.locfileid: "109854623"
 
 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップ上 **の [ホーム** ] オプションを選択して、元のビューに戻します。
 
-:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="地域別の EMS の使用状況":::
+:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="地域別の EMS の使用状況。":::
 
 ## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security SKU 別の使用状況
 
 SKU Enterprise Mobility + Security使用量の一部は、SKU 別の MAU と PAU の月次内訳を示しています。
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="SKU 別の EMS の使用状況":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="SKU 別の EMS 使用量。":::
 
 ## <a name="subscriptions-performance"></a>サブスクリプションのパフォーマンス
 
 サブスクリプションのパフォーマンスは、顧客サブスクリプションごとの SKU 別の MAU と PAU の内訳を示しています。 請求された収益別の上位 100 人の顧客のデータが表に表示され、任意の顧客を検索したり、生データをダウンロードしてすべての顧客の詳細を表示することができます。
 
-:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="EMS サブスクリプションのパフォーマンス":::
+:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="EMS サブスクリプションのパフォーマンス。":::
 
 ## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security使用量の分布
 
 使用状況Enterprise Mobility + Securityは、SKU 別の PAU とサブスクリプションの内訳を示しています。
 
-:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="EMS の使用状況の分布":::
+:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="EMS の使用状況の分布。":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
-- 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
+- その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。
 
-- このレポートを作成する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 
+- このレポートを利用する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md) 

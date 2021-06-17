@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: 5ba7e5a4713c3cb92e7c5b8eee8e0370c8099d14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 06abd261e4d71b2e5e37eb2d77c1e62794c99a95
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152751"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277761"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>コマーシャル マーケットプレース発行元向けの税の詳細
 
@@ -23,11 +23,11 @@ ms.locfileid: "110152751"
 
 販売、使用、商品とサービス、価格の追加、またはその他の税金については、お客様の Microsoft および出版社の責任において、エンドカスタマーの売上 (**エンドカスタマー課税**) に対して、発行元/開発者が、Microsoft Marketplace を通じてエンドカスタマーに販売できる製品/プランを提供する国によって異なります。 次の表では、Microsoft Marketplace を通じて販売されている国でのエンドカスタマー課税の状況と責任を設定します。  以下の情報は変更される可能性があります。発行元/開発者は、このページで最新の正確な情報を確認する責任があります。
 
-**発行元/開発者が管理する国** では、Microsoft は、発行元/開発者のエージェントまたは委託販売業者 (該当する場合) として機能します。 発行元/開発者は、登録、税金の計算、税金の回収、税金の送金、顧客のビジネス状態の検証、顧客への税請求書の提供など、エンド カスタマーの課税に必要なすべてのコンプライアンスを決定し、管理する責任をパブリッシャー/開発者が負う責任を負います。 発行元/開発者は、発行元/開発者管理国での販売に関して、Microsoft は現在、発行元/開発者が顧客に税金請求書を提供するために必要な取引の詳細を提供できない可能性があるという認識を示します。 
+**発行元/開発者が管理する国** では、Microsoft は、発行元/開発者のエージェントまたは委託販売業者 (該当する場合) として機能します。 発行元/開発者は、発行元または開発者が、登録、税金計算、税金徴収、税金の送金、顧客のビジネスステータスの検証、顧客への税金請求書の提供など、エンドカスタマーの課税に必要なすべてのコンプライアンスを決定する責任を負うことを認め、同意します。 発行元/開発者は、発行元/開発者が管理している国の売上に関して、Microsoft は現在、発行元/開発者が税金請求書を提供するために必要なトランザクションの詳細を提供できない可能性があります。 
 
-Microsoft **が管理する国では、Microsoft** はパブリッシャー/開発者のエージェントとして機能します。 Microsoft は、特定の税金の計算、収集、または支払いなど、エンド カスタマーの課税を管理する責任を負います。 コマーシャル マーケットプレースの場合、これには、税登録番号または除外証明書を取得して、エンド カスタマーのビジネス状態を検証する場合があります。 Microsoft は、ローカルに登録されている現地の系列会社またはリモートの関連企業を通じて、エンド カスタマーの課税を管理します。 Microsoft の登録番号に基く Microsoft の請求書。 Microsoft には、エンド カスタマーから集められた税金が Microsoft の納税返金額に含まれています。
+Microsoft **が管理する国** では、Microsoft はパブリッシャー/開発者のエージェントとして機能します。 Microsoft は、特定の税金の計算、収集、remitting など、エンドカスタマーの課税を管理する責任を負うものとします。 商用マーケットプレースでは、これには、税登録番号または除外証明書を取得してエンドユーザーのビジネスステータスを検証することも含まれます。 Microsoft は、現地の関連会社またはローカルに登録されているリモート関連会社を通じて、エンドカスタマーの課税を管理します。 Microsoft の登録番号の下にあるマイクロソフトの請求書。 Microsoft では、エンドカスタマーから収集された税金をマイクロソフトの税金返金に含めています。
 
-Microsoft は、Microsoft が管理する国における発行元/開発者の義務を Microsoft の行為が完全に満たすことを保証する義務を負う一切の保証を行う必要はありません。  Microsoft が管理しているすべての国に対して、Microsoft が管理する税送金がパブリッシャー/開発者のコンプライアンス要件に十分に対応するかどうかを確認するために、パブリッシャー/開発者が独自の税アドバイザーと一緒に作業を行う必要があります。 これは、発行元/開発者が製品/オファーを販売する Microsoft が管理する国にとって特に重要です。  Microsoft は、Microsoft が管理する国でパブリッシャー/開発者のエージェントとして機能します。
+Microsoft では、microsoft が管理する国で発行者や開発者の義務を完全に満たすことを保証するものではありません。  マイクロソフトでは、マイクロソフトが管理するすべての国について、発行元/開発者が独自の税金アドバイザーを使用して、発行元または開発者のコンプライアンス要件に対応しているかどうかを確認することを強くお勧めします。 これは、発行元/開発者が製品/オファーを販売する Microsoft が管理するすべての国にとって特に重要です。  Microsoft は、Microsoft が管理する国における発行元/開発者のエージェントとして機能します。
 
 **リセラーの国** では、Microsoft は、発行元/開発者のエージェントとしてではなく、リセラーとして機能します。これにより、Microsoft Marketplace を通じてエンドユーザーに販売されるパブリッシャー/開発者製品/プランが提供されるようになります。  発行元/開発者は、販売、使用、商品およびサービス、付加価値、またはその他の税金 (存在する場合) については、マイクロソフトの製品/プランの売上について責任を負います。
 
@@ -84,7 +84,7 @@ Microsoft は、Microsoft が管理する国における発行元/開発者の�
 |ベラルーシ|ドイツ|マルタ|スロベニア|
 |ブルガリア|ギリシャ|モナコ|南アフリカ|
 |ベルギー|ハンガリー|オランダ|韓国|
-|カナダ|アイスランド|ニュージーランド|スペイン|
+|Canada|アイスランド|ニュージーランド|スペイン|
 |チリ|インド|ノルウェー|スウェーデン|
 |コロンビア|インドネシア|ポーランド|スイス|
 |クロアチア|アイルランド|ポルトガル|台湾|
@@ -96,29 +96,29 @@ Microsoft は、Microsoft が管理する国における発行元/開発者の�
 
 ### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Marketplace の違いを含むエンドカスタマー課税
 
-|**Country (国)**|**商用 Marketplace (Azure Marketplace & AppSource)**| **コンシューマー マーケットプレース (Microsoft Store)**|
+|**Country (国)**|**商用 Marketplace (Azure Marketplace & AppSource)**| **コンシューマーマーケットプレース (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|ブラジル|リセラーを除く: CSP 顧客購入シナリオを通じて行われた購入に対してパブリッシャーが管理する|開発者が管理する( を除く) : Windows 10 で実行されているデバイスを介して行われた購入のリセラー|
-|メキシコ|Microsoft マネージド (以下を除く): エンタープライズ契約の顧客購入シナリオを通じた購入のリセラー|Microsoft による管理|
-|オーストラリア|Microsoft マネージド (以下を除く): エンタープライズ契約の顧客購入シナリオを通じた購入のリセラー|Microsoft による管理|
-中国|Marketplace が有効になっていない|以下を除くリセラーが有効: Windows Phone 7.x を実行しているモバイル通信デバイスと、Windows 8.x を実行しているパーソナル コンピューターで管理されている開発者|
-|バーレーン|パブリッシャーマネージド|Microsoft による管理|
-|オマーン|パブリッシャーマネージド|Microsoft による管理|
+|ブラジル|再販業者以外: CSP の顧客購入シナリオを通じて購入された発行元管理|開発者が管理するもの以外: Windows 10 で実行されているデバイスを使用して購入した販売店|
+|メキシコ|Microsoft で管理されているもの以外: enterprise agreement の顧客購入シナリオを通じて購入したリセラー|Microsoft による管理|
+|オーストラリア|Microsoft で管理されているもの以外: enterprise agreement の顧客購入シナリオを通じて購入したリセラー|Microsoft による管理|
+中国|Marketplace が有効ではありません|再販業者が有効な場合: Windows phone 2.x を実行するモバイル通信デバイス、および Windows 8.x を実行しているパーソナルコンピューターで管理されている開発者です。|
+|バーレーン|パブリッシャー管理|Microsoft による管理|
+|オマーン|パブリッシャー管理|Microsoft による管理|
 
 
 ## <a name="tax-considerations-on-payouts"></a>支払いに関する税金に関する考慮事項
 
-発行元/開発者が管理する国では、パブリッシャー/開発者に対する Microsoft の支払いは、ストア料金と適用される税金の差し引き額です。この税金には、源泉徴収税、税金、使用税、商品およびサービス税、ストア料金に対する付加価値税または同様の税金が含まれる場合があります。
+発行元/開発者が管理している国では、発行元/開発者に対する Microsoft の支払いは店舗料金と適用されるすべての税金になります。これには、源泉徴収税と販売、使用、商品とサービス、金額の追加、または店舗料金に関する同様の税金が含まれます。
 
-適用される Microsoft が管理する国およびリセラーの場合、パブリッシャー/開発者に対する Microsoft の支払いは、ストア料金と適用される税金の純額です。この税金には、エンド カスタマー税、源泉徴収税、税金と売上、使用、商品およびサービス、付加価値税、またはストア料金に対する同様の税金が含まれます。 Microsoft [が](payout-statement.md) 発行元/開発者が利用できるレポートによって、これらの税金の金額が特定されます。 
+Microsoft によって管理されている国および再販業者に関しては、Microsoft が発行元/開発者に支払うことは、店舗の料金と適用される税金のいずれかです。これには、顧客税、源泉徴収税と売上、使用、商品とサービス、店舗の料金に関する税金の金額が含まれます。 Microsoft が発行元/開発者に提供する [レポート](payout-statement.md) によって、これらの税金の金額が特定されます。 
 
-Microsoft は、次の国の店舗料金に対する税金を収集します。発行元/開発者は、製品/オファーを、Microsoft Marketplace を通じてエンド カスタマーに販売を提供します。
+Microsoft は、以下の国で店舗料金に関する税金を徴収します。発行元/開発者は、Microsoft Marketplace を通じてエンドカスタマーに販売する製品/プランを利用できるようにすることを選択します。
 
-|**Country (国)**|**コマーシャル マーケットプレース**|**コンシューマー マーケットプレース**|
+|**Country (国)**|**商用マーケットプレース**|**コンシューマーマーケットプレース**|
 |----------------|-----------------------------|-----------------------|
-|オーストラリア|サービス料金に対する税金|サービス料金に対する税金|
-|カナダ|サービス料金に対する税金|サービス料金に対する税金|
-|メキシコ|該当なし|サービス料金の税|
+|オーストラリア|サービス料金の税|サービス料金の税|
+|Canada|サービス料金の税|サービス料金の税|
+|メキシコ|N/A|サービス料金の税|
 |ニュージーランド|サービス料金の税|サービス料金の税|
 |シンガポール|サービス料金の税|サービス料金の税|
 
@@ -132,32 +132,32 @@ Microsoft は、次の国の店舗料金に対する税金を収集します。�
 
 - シナリオ 2: Microsoft によって管理されている国購入プランのお客様 (発行元の国と無関係)
 
-  :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft が管理する国における課税を示すグラフ":::
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft が管理する国の課税を示すグラフ。":::
 
 - シナリオ 3: 海外出版社が、Microsoft が管理する国にある EU VAT 登録された顧客に対してクロスボーダーを行う
 
-  :::image type="content" source="images/tax/scenario-three.png" alt-text="EU-VAT が税金に与える影響を示すグラフ"::: 
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="EU-VAT が税金に与える影響を示すグラフ。"::: 
 
 - シナリオ 4: 海外出版社が、Microsoft が管理する国または国内外の顧客に対して、スイスの顧客に対して国内の販売を行う
 
-  :::image type="content" source="images/tax/scenario-four.png" alt-text="VAT の処理方法を示すグラフ":::
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="VAT の処理方法を示すグラフ。":::
 
 - シナリオ 5: Microsoft によって管理されている国の購入プランで、店舗サービス料金に関する税金があるお客様
 
-  :::image type="content" source="images/tax/scenario-five.png" alt-text="店舗サービスの料金が税に与える影響を示すグラフ":::
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="店舗サービスの料金が税に与える影響を示すグラフ。":::
 
 ### <a name="withholding-tax"></a>源泉徴収税
 
 - シナリオ 1: 国外発行者 (税金プロファイルに適用される税金の条約特典が適用されていない場合) は、米国のお客様に販売します。 
 
-  :::image type="content" source="images/tax/withholding-one.png" alt-text="税条約のない源泉徴収税を示すグラフ":::
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="税条約のない源泉徴収税を示すグラフ。":::
 
 - シナリオ 2: 海外の出版社 (税金プロファイルに適用される税金の条約の特典を使用した場合、税率はゼロ% になります) は、米国のお客様に販売します。 
 
-  :::image type="content" source="images/tax/withholding-two.png" alt-text="税に関する取り扱いを含む源泉徴収税を示すグラフ":::
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="税条約を使用した源泉徴収税を示すグラフ。":::
 
 ## <a name="next-steps"></a>次のステップ
 
-- [発行元に関する FAQ](/azure/marketplace/marketplace-faq-publisher-guide) 
+- [発行元の FAQ](/azure/marketplace/marketplace-faq-publisher-guide) 
 
-- [支払いプロファイルと税プロファイルを作成する手順](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)
+- [支払いと税金のプロファイルを作成する手順](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

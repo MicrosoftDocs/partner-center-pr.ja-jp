@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15658abdbf23c1181fb411fd66673fc9699250ae
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855167"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277472"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>パートナー センター Insights ダッシュボードの製品ライセンス レポート
 
@@ -34,7 +34,7 @@ ms.locfileid: "109855167"
 
 概要セクションでは、クラウド製品ライセンスの販売、デプロイ、使用に関連する主要業績評価指標 (KPI) のスナップショット ビューを示します。 これは、顧客に販売されたライセンスに対するアクティブな使用状況を追跡するのに役立ちます。
 
-:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="ライセンス レポートの概要":::
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="ライセンス レポートの概要。":::
 
 概要の各セクションの詳細については、以下を参照してください。
 
@@ -61,7 +61,7 @@ ms.locfileid: "109855167"
 
 グリッドで国を検索して選択すると、マップ内の場所にズームできます。 マップの **[ホーム** ] オプションを押して、既定のビューに戻します。 マップにマウス ポインターを合わせると、顧客の国別に現在のライセンスとアクティブなライセンスが表示されます。 グリッド上の両方のフィールドは並べ替え可能です。
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="ライセンスの地理的分散":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="ライセンスの地理的分散。":::
 
 ## <a name="license-adds"></a>ライセンスの追加
 
@@ -69,19 +69,19 @@ ms.locfileid: "109855167"
 
 製品とサービス/ワークロード別の傾向を表示するには、画面の上部にある [製品] を選択し、[SKU] ドロップダウン リストからサービス/ワークロードを選択します。
 
-X 軸は、選択した日付範囲の月を表します。 Y 軸は、追加されたライセンスの数を表します。 特定の期間にズームするには、グラフの上部にあるスライダーを使用します。
+X 軸は、選択した日付範囲の月を表します。 Y 軸は、追加されたライセンスの数を表します。 特定の期間にズームインするには、グラフの上部にあるスライダーを使用します。
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="ライセンス追加":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="ライセンスが追加されます。":::
 
-## <a name="license-distribution"></a>ライセンスの配布
+## <a name="license-distribution"></a>ライセンス配布
 
-このビューには、製品と顧客の国/地域別の顧客ライセンスの内訳が表示されます。 [ **製品別のライセンス** ] 円グラフで製品を選択すると、隣接するグラフに顧客の地域別のライセンス内訳が表示されます。
+このビューには、製品別および顧客の国/地域別の顧客ライセンスの内訳が表示されます。 製品別ライセンス円グラフで製品を選択すると、隣接するグラフに顧客リージョン別のライセンスの内訳が表示されます。
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="ライセンスの配布":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="ライセンス配布。":::
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
-詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
+その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。
 
 >[!NOTE] 
-> このレポートを作成する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md)
+> このレポートを利用する生データは、Insights ダッシュボードの [レポートのダウンロード] セクションからダウンロードできます。 [詳細情報](pci-download-reports.md)

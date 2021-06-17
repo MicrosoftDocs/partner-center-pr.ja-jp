@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147209"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276860"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>分析を使用してサブスクリプション収益の詳細を確認する
 
@@ -29,7 +29,7 @@ CSP ビジネスを展開する方法の計画には、顧客が Microsoft 製�
 
 1. 最後の12か月の CSP 収益がページの上部に表示されます
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="サブスクリプション画面":::
+:::image type="content" source="images/analytics/subscription1.png" alt-text="サブスクリプション画面。":::
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>末尾の Twelve-Month (TTM) CSP 収益
 
@@ -46,14 +46,14 @@ CSP ビジネスを展開する方法の計画には、顧客が Microsoft 製�
 
 ## <a name="subscription-summary"></a>サブスクリプションの概要
 
-画面の下半分には、サブスクリプションの概要が表示されます。 次のフィルターを使用して、必要なサブスクリプションの詳細を確認します。  
+画面の下半分には、サブスクリプションの概要が表示されます。 次のフィルターを使用して、必要なサブスクリプションの詳細を表示します。  
 
 1. **期間**: サブスクリプションの概要を表示することを選択できます。 
 
-- 30D – 過去 30 日間
-- 3 分 – 過去 3 か月
-- 6 分 – 過去 6 か月
-- 12 分 – 過去 12 か月
+- 30D –過去30日間
+- 3M –過去3か月間
+- 6分–過去6か月
+- 12M –過去12か月間
 
 2. **製品の種類**:
  
@@ -62,13 +62,13 @@ CSP ビジネスを展開する方法の計画には、顧客が Microsoft 製�
 - Dynamics 365
 - EMS
 
-これらのフィルターを適用すると、このレポートの上部にある TTM 収益メトリックに影響はありません。
+これらのフィルターを適用しても、このレポートの最上部にある TTM 収益メトリックには影響しません。
 
 
  
 ## <a name="next-steps"></a>次のステップ
 
-- [購入したライセンスを顧客がどのように使用しているのか分析する](increasing-adoption-and-satisfaction.md)  
+- [購入したライセンスを顧客がどのように使用しているかを分析する](increasing-adoption-and-satisfaction.md)  
 - [顧客のアクティビティ ログの表示](activity-logs.md)
 - [Power BI 用パートナー センター分析アプリ](power-bi-app-for-direct-partners.md)
 
