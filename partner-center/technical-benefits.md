@@ -9,16 +9,16 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276384"
+ms.locfileid: "112318097"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>テクニカル プリセールスおよびデプロイ サービス (TPD) について説明します 
 
-**対象のロール**: MPN パートナー管理者
+**適切な** ロール: 組織がアクティブなコンピテンシーまたは Microsoft アカウントを持つ限り、任意の MPN Action Pack。
 
 コンサルテーション、プリセールス支援、アドバイザリ時間など、テクニカル プリセールスおよびデプロイ サービスで得られる Microsoft Partner Network (MPN) の特典について説明します。
 
@@ -42,21 +42,21 @@ ms.locfileid: "112276384"
 
 MPN に関連付けられているユーザー アカウントでサインインして、 **[テクニカル プリセールスとデプロイ サービス (TPD) リクエストを作成](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** します (特典の技術的な有効化は不要です)。
 
-## <a name="delivery-scenarios"></a>配信のシナリオ
+## <a name="delivery-scenarios"></a>配信シナリオ
 
-- **技術的なプリセールスコンサルテーション** は、価値提案の定義、コストの見積もり、顧客のオブジェクションの管理、競合他社のメッセージングへの対応、技術ソリューションの実証、概念実証、アーキテクチャの計画と設計を行うために使用されます。
+- 技術プリセールスコンサルティングは、価値提案の定義、コストの見積もり、技術ライセンスの提供、顧客の反言の管理、競合他社のメッセージへの対応、技術的なソリューションのデモンストレーション、概念実証、または作業ステートメントにつながるアーキテクチャの計画と設計に使用されます。
 
-  - *サポートされていない:* 販売パイプラインの計画、価格、価格の一覧。
-
-
-- **Deployment コンサルテーション** は、アーキテクチャ計画と設計ガイダンス、ベストプラクティス、展開ガイダンス、製品参照、およびドキュメントに使用されます。
-
-  - *サポートされていない:* 障害対応のサポート/トラブルシューティング、オンサイトサービス、長期的なコンサルティング、運用環境でのカスタマーサポートまたはハンズオンサポートに直接対応します。 
+  - *サポートされていません:* 販売パイプラインの計画、エンド カスタマーディスカッション、ライセンスの価格と価格表。
 
 
-- **Marketplace コンサルテーション** は、Microsoft の商用マーケットプレースで継続的にリードを生成するためにソリューションを発行する方法に使用されます。 開発者、サービス構成、アーキテクチャ、設計については、オンプレミスソリューションからの移行、コードレビュー、アプリケーション公開に関するサポートを参照してください。
+- **デプロイコンサルテーションは** 、アーキテクチャの計画と設計のガイダンス、ベスト プラクティス、デプロイ ガイダンス、製品リファレンス、ドキュメントに使用されます。
 
-  - *サポートされていない:* コードのデバッグ、概念実証以外のアプリケーション開発。
+  - *サポートされていません:* サポート/トラブルシューティング、修正プログラム、オンサイト サービス、長期コンサルティング (エンゲージメントあたり 25 時間未満)、カスタマー サポートまたは実稼働環境でのハンズオン サポートに直接対応します。 
+
+
+- **Marketplace のコンサルティングは** 、Microsoft コマーシャル マーケットプレースで継続的なリード生成のためにソリューションを発行する方法に使用されます。 開発者、サービス構成、アーキテクチャまたは設計に関するコンサルティング、オンプレミス ソリューションからの移行、コード レビュー、アプリケーション発行のサポート。
+
+  - *サポートされていません:* コード デバッグ、概念実証を超えたアプリケーション開発。
 
 ## <a name="in-scope-products-and-services"></a>対象となる製品とサービス
 
@@ -66,10 +66,10 @@ MPN に関連付けられているユーザー アカウントでサインイン
 - **Business Applications**: Microsoft Dynamics 365 (オンライン)、Microsoft Power Platform (Power Apps、Power Automate、Power BI)
   - "*対象外: Dynamics 365、GP、SL、AX、NAV のオンプレミス バージョン*"
 - **Microsoft Azure**: サービスとしてのインフラストラクチャ、サービスとしてのプラットフォーム、データ プラットフォーム、BI 分析、Cognitive Services、Azure Machine Learning、Azure Stack など、すべての Microsoft Azure ソリューションと関連サービス
-- **Windows Server**: メインストリーム サポートの Windows Server ( **[製品ライフサイクル](/lifecycle/policies/fixed)** に準拠)
+- **Windows Server と SQL Server:** 製品ライフサイクルによって管理されるメインストリーム **[サポート内](/lifecycle/policies/fixed)**)
   - System Center には、SCCM などの関連製品が含まれています (クラウドまたはハイブリッド シナリオに関連する場合)
 - **Windows 10**: Windows 10 オペレーティング システム、デバイス、ユニバーサル アプリ
-- **プライベートまたはパブリックプレビューの製品**: ヘルプは、運用環境以外の環境、および情報の可用性や応答時間を保証することなく、ベストエフォートで提供されます。
+- **プライベートまたはパブリック プレビュー** の製品: ヘルプは、非実稼働環境向けで、情報の可用性や応答時間に関する保証を受け付け"ない"ベスト 労力で提供されます。
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>テクニカル プリセールスとデプロイ サービスの要求を送信する 
 
@@ -89,11 +89,11 @@ MPN に関連付けられているユーザー アカウントでサインイン
 
 3. **[[テクニカル プリセールスと展開の要求の送信]](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** を選択します。
 
-:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="技術的なプリセールスと展開の利点。" :::
+:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="技術的なプリセールスとデプロイの利点。" :::
 
 4. **[Search Products]\(製品の検索\)** を使用して、該当の製品を入力します。 結果が多すぎる場合は、[ソリューションの分野] または [トピックを参照する] に基づいてフィルター処理し、各分類レベルに絞り込むことができます。
 
-:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="技術的なプリセールスと展開の利点-製品の検索。":::
+:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="技術的なプリセールスとデプロイの利点 - 製品の検索。":::
 
    > [!NOTE]
    > ASfP または PSfP サポート プランの一部としてクラウドの相談を行う必要がある場合は、サポート アカウントマネージャー (SAM) にお問い合わせください。
@@ -106,5 +106,6 @@ MPN に関連付けられているユーザー アカウントでサインイン
 6. 確認ページに、サポート要求の番号と説明が表示されます。 また、パートナー センターから、サポート案件番号が記載された確認メールも送信されます。
 
 ## <a name="next-steps"></a>次のステップ
+[オンプレミスまたはクラウド製品のテクニカル サポート](/mpn-benefits-technical-support.md)
 
 [Microsoft Partner Network の特典とプランを管理する](manage-your-partner-network-benefits.md)
