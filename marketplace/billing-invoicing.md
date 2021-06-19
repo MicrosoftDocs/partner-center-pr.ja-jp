@@ -1,67 +1,70 @@
 ---
-title: Azure Marketplace のお客様の請求と請求
-description: この記事では、Azure Marketplace の顧客の請求と請求に関してよく寄せられる質問について説明します。
+title: 顧客に対する請求Azure Marketplace請求
+description: この記事では、顧客に対する請求と請求に関する一般的Azure Marketplace説明します。
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412609"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373458"
 ---
-# <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace の課金と請求
+# <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace請求と請求
 
-この記事では、Azure Marketplace の顧客の請求と請求に関する情報について説明します。
+この記事では、顧客に対する課金と請求Azure Marketplace説明します。
 
-## <a name="microsoft-supports-multiple-currencies"></a>Microsoft は複数の通貨をサポートしています
+## <a name="microsoft-supports-multiple-currencies"></a>Microsoft では、複数の通貨がサポートされています
 
-Azure Marketplace のプランでは、次の17の通貨で料金が請求されます。
+Azure Marketplaceは、次の 17 の通貨で価格が設定され、請求されます。
 
 - オーストラリアドル (AUD)
-- ブラジル real (BRL)
-- イギリスポンド (GBP)
-- カナダドル (CAD)
-- 中国語人民 (CNY)
+- ブラジルの実 (政府)
+- 英国ポンド (GBP)
+- カナダ ドル (CAD)
+- 中国語 (CNY)
 - デンマーククローネ (DKK)
-- ユーロ (EUR)
+- Euro (EUR)
 - インドルピー (INR)
-- 日本円 (JPY)
-- 韓国ウォン (KRW)
-- ニュージーランドドル (NZD)
+- 日本の日本円 (JPY)
+- 韓国語の勝利 (KRW)
+- ニュージーランド ドル (NZD)
 - ノルウェークローネ (NOK)
-- ロシアルーブル (こすり)
+- ロシア語のくすき (RUSSIAN)
 - スウェーデンクローナ (SEK)
-- スイスフラン (CHF)
+- スイス語 (CHF)
 - 台湾ドル (TWD)
-- 米国ドル (米国ドル)
+- 米国ドル (USD)
 
 ## <a name="billing"></a>課金
 
-購入した期間中に、定期的な購入について課金されます。 これらの料金は、それぞれのカレンダー月の請求書に表示されます。 Autorenew は、元の購入と同じ日に、次の期間に継続しています。
+購入した期間に、定期的な購入に対して課金されます。 これらの料金は、それぞれのカレンダー月の請求書に表示されます。 元の購入の同じ日に、次の期間に自動復元が続行されます。
 
-[![月単位および年単位の定期的な購入の請求方法の例。](media/billing/billing-charges-recurring.png)](media/billing/billing-charges-recurring.png#lightbox)
+[![月次および毎年の定期的な購入の請求方法のタイムラインの例。](media/billing/billing-charges-recurring.png)](media/billing/billing-charges-recurring.png#lightbox)
 
 >[!NOTE]
-> サービス期間とは、サービスを使用するために支払われた期間のことです。 事前にキャンセルしない限り、サービス期間のとは自動的に更新されます。
+> サービス期間は、サービスを使用するために支払った期間です。 事前にキャンセルしない限り、サービス期間の と で自動更新されます。
+
+> [!NOTE]
+> 更新月の日付が購入月の日付と等しくない場合は、請求月の最終日に調整されます。 つまり、1/31 にサブスクライブする場合、2 月の請求終了日は 2/27 になります。新しい請求期間は 2/28 (2/28、閏年から始まる場合は 2/29) から始まる予定です。
 
 ## <a name="invoices"></a>Invoices
 
-Azure portal で請求書を利用できるようになると、各カレンダー月の開始時に電子メールが送信されます。 請求書には、カレンダー月に購入または使用した無料および有料のすべてのプランが表示されます。 無料プランをご利用の場合は、$0 の品目のみが表示され、支払い操作を行う必要はありません。 **Enterprise Agreement のお客様** は、Azure と azure Marketplace の両方の課金 (オーストラリア、日本、シンガポールのお客様を除く) を示す結合請求書を受け取ります。 **Azure marketplace から直接購入したお客様** は、azure marketplace での購入に関する請求書を受け取ります。 詳細については、「 [MOSP アカウントの請求書](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)」を参照してください。
+各カレンダー月の初めに、請求書がカレンダーの月の初めに電子メールでAzure portal。 請求書には、カレンダー月中に購入または使用した無料プランと有料プランすべてが表示されます。 無料オファーのみがある場合は、0 ドルの明細項目しか表示され、支払いアクションを実行する必要はありません。 **Enterprise Agreement顧客は** 、Azure と Azure Marketplace の両方の料金 (オーストラリア、日本、シンガポールの顧客を除く) を示す合計請求書を受け取ります。 **サービスから直接購入Azure Marketplace、** 購入した場合にのみAzure Marketplace受け取ります。 詳細については [、「MOSP アカウントの請求書」を参照してください](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)。
 
-請求書を受け取った場合は、次のように変化します。
+請求書を受け取る場合は、次の内容が異なります。
 
-- 支払い方法がクレジットカードの場合、予約の購入後すぐに請求されます。 この請求書は、月々の請求書とは別のものになります。
-- 支払い方法が [小切手/有線] の場合、この購入は月間 Marketplace 請求書に含まれます。
+- 支払い方法がクレジット カードの場合は、予約の購入直後に請求されます。 この請求書は、毎月の請求書とは別の金額です。
+- 支払い方法が check/wire の場合、この購入は毎月の Marketplace 請求書に含まれます。
 
-Microsoft Online Services Program (MOSP)、Microsoft 顧客契約 (MCA)、Microsoft Partner Agreement (MPA) の各課金アカウントの請求書が作成されます。 請求書は、請求勘定科目の種類に基づいて生成されます。 Azure Marketplace では、請求期間が終了してから数日後に請求されます。 Azure Marketplace、予約、スポットの各 Vm の請求書は、その [月の9日](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)に作成されます。 前月からのそれぞれの料金が表示されます。 たとえば、ユーザーが3月1日に予約を購入し、3月30日に別の予約を購入した場合、4月の1つの請求書には両方の予約が含まれます。
+Microsoft Online Services Program (MOSP)、Microsoft 顧客契約 (MCA)、Microsoft Partner Agreement (MPA) の各課金アカウントの請求書が作成されます。 請求書は、課金アカウントの種類に基づいて生成されます。 Azure Marketplace期間が終了した数日後に課金されます。 1 か月Azure Marketplace、スポット VM の請求書は、月の [9 日目頃に生成されます](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)。 前月のそれぞれの料金が表示されます。 たとえば、ユーザーが 3 月 1 日に予約を購入し、3 月 30 日に別の予約を購入した場合、4 月の 1 つの請求書に両方の予約が含まれます。
 
-請求書の詳細については、「 [Azure 外部サービスの課金](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)について」を参照してください。
+請求書の詳細については、「Azure 外部サービスの [料金について」を参照してください](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)。
 
 ## <a name="next-steps"></a>次の手順
 
 - [Azure Marketplace とは何ですか?](azure-marketplace-overview.md)
-- [Azure Marketplace での購入](azure-purchasing-invoicing.md)
+- [Azure Marketplace購入](azure-purchasing-invoicing.md)
