@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4951d6abde3ea445ec588458af9f33f3ccd56092
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 26cdd01597b1cea49b36bb06c6d7b4d38c1b7879
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146835"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431473"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理
 
@@ -32,14 +32,14 @@ Microsoft Cloud for US Government の Azure portal に正常にサインイン�
 > [!NOTE]  
 > 下記のリンクを選択すると、別の Web サイトが開きます。 
 
--  [**新しいユーザーを新しいユーザーにAzure Active Directory**](/azure/active-directory/active-directory-users-create-azure-portal)
+- [新しいユーザーを新しいユーザーにAzure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Azure Active Directory でユーザーを管理者ロールに割り当てる**](/azure/active-directory/active-directory-users-assign-role-azure-portal)
+- [Azure Active Directory でユーザーを管理者ロールに割り当てる](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**ユーザーのパスワードをリセットします Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
+- [Azure Active Directory でのユーザー パスワードのリセット](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
--  [**米国政府機関向け Microsoft Cloud のパートナー センター**](partner-center-for-microsoft-us-govt-cloud.md)
+- [Microsoft Cloud for US Government のパートナー センター](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+- [米国政府機関向け Microsoft Cloud のクラウド ソリューション プロバイダー プログラムへの登録](enroll-in-csp-for-microsoft-us-govt-cloud.md)
