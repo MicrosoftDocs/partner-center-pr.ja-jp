@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: c4e1459b71016718533d02953691065332c4ad13
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147345"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450749"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>お客様へのさまざまな種類のサポートの提供
 
@@ -34,13 +34,13 @@ CSP のお客様は、自分でサポート チケットを作成できない。
 
 - **技術的** な問題のサポート - パートナー [サポート プランを比較](https://partner.microsoft.com/support/partnersupport) したり、詳細については、特定のサポート プランに関する次のリンクを参照してください。
 
-  - [Premier サポートパートナー向け (](https://partner.microsoft.com/support/microsoft-services-premier-support) 料金ベース、すべての製品に使用)
+  - [Premier サポート (PSfP) の](https://partner.microsoft.com/support/microsoft-services-premier-support) 場合 (料金ベース、すべての製品に使用)
 
-  - [パートナー向け高度なサポート](https://partner.microsoft.com/support/advanced-cloud-support) (料金ベース、クラウド製品にのみ使用)
+  - [パートナー向け高度なサポート (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (料金ベース、クラウド製品にのみ使用)
 
-  - [署名クラウドサポート](manage-your-partner-network-benefits.md) (Gold またはシルバーコンピテンシーの MPN 特典に含まれており、クラウド製品にのみ使用)
+  - [署名クラウド サポート](manage-your-partner-network-benefits.md) (Gold または Silver コンピテンシーの MPN 特典に含まれます。クラウド製品にのみ使用します)。 技術的 [な利点に関するページを参照してください](mpn-benefits-technical-support.md))
 
-  - [製品サポートインシデント](manage-your-partner-network-benefits.md) (ゴールド、シルバー、または Microsoft Action Pack パートナー向けの MPN 特典に含まれており、最新のオンプレミス製品にのみ使用)
+  - [製品サポート インシデント](manage-your-partner-network-benefits.md) (Gold、Silver、または Microsoft Action Pack パートナー向け MPN 特典に含まれており、最近のオンプレミス製品にのみ使用されます。 技術的 [な利点に関するページを参照してください](mpn-benefits-technical-support.md))
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>課金、サブスクリプション管理、テクニカル サポートの提供 
 
@@ -50,4 +50,4 @@ CSP のお客様は、自分でサポート チケットを作成できない。
 
 - [CSP で販売された Azure サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [CSP を通じて販売した Microsoft Office 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Microsoft Office CSP を通じて販売された 365 のサブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
