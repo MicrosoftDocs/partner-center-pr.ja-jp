@@ -4,60 +4,60 @@ ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP の直接請求パートナーの要件と、機能が制限されるのを回避するために行う方法について説明します。 機能が制限されていないか確認します。
+description: クラウドソリューションプロバイダー (CSP) ダイレクト請求パートナーの要件と、制限されている機能を回避するための対処方法について説明します。 機能が制限されているかどうかを確認します。
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e5bc33101809a805ba591be5a9b51d8dfff2397b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855490"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551420"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>CSP 直接請求パートナーに必要な制限付き直接請求機能と要件
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>制限付きの直接請求機能と、CSP direct bill パートナーに必要な要件
 
 **適切なロール**: グローバル管理者
 
 ## <a name="overview"></a>概要
 
-直接請求パートナーは、CSP [直接請求パートナー](direct-partner-new-requirements.md) プログラムに残す新しい要件を満たす必要があります。 そうしないと、直接請求機能へのアクセス権が最終的に制限され、特定のタスク (その顧客についての新しい購入の実行など) を実行できなくなります。
+直接請求パートナーは、Cloud Solution Provider (CSP) direct bill partner プログラムに残すための新しい [要件](direct-partner-new-requirements.md) を満たす必要があります。 そうしないと、直接請求機能へのアクセス権が最終的に制限され、特定のタスク (その顧客についての新しい購入の実行など) を実行できなくなります。
 
 > [!Note]
-> CSP 直接請求パートナー プログラムの新しい要件を満たしていない直接請求パートナーは、直接請求機能が制限される場合に Microsoft から通知されます。 これは、直接請求パートナーから間接リセラーへの移行を選択した場合でも、すべての直接請求パートナー [に](transition-direct-to-indirect.md) 適用されます。  
+> CSP 直接請求パートナープログラムの新しい要件を満たしていない直接請求先のパートナーは、直接請求書の機能が制限されるときに Microsoft によって通知されます。 これは、直接請求 [パートナーから間接リセラーへの移行](transition-direct-to-indirect.md) を選択したかどうかに関係なく、すべての直接請求パートナーに適用されます。  
 
-## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>直接請求機能が制限された場合の確認方法
+## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>直接請求の機能が制限されているかどうかを確認する方法
 
-直接請求パートナー テナントから直接請求機能へのアクセスが制限されているかどうかを確認するには、次の手順に従います。
+ダイレクト請求パートナーテナントから直接請求機能へのアクセスが制限されているかどうかを確認するには、次の手順を実行します。
 
 1. [パートナー センター ダッシュボード](https://partner.microsoft.com/dashboard)にサインインします。
 
-2. [アカウント設定 **] [法的プロファイル**  ->  **] に移動します**。
+2. [ **Account settings**  >  **Legal Profile**] にアクセスします。
 
-3. [ **プログラム情報] で**、状態 **Microsoft クラウド ソリューション プロバイダー探します**。
+3. [ **プログラム情報**] で、 **Microsoft Cloud ソリューションプロバイダーの状態** を探します。
 
-4. プログラムの状態に **値が制限** されている場合は、直接請求パートナー テナントの直接請求機能へのアクセスが制限されています。
+4. プログラムの状態に "値が **制限** されている" ということは、直接請求先のパートナーのテナントによる直接請求の機能へのアクセスが制限されていることを意味します。
 
 ## <a name="affected-direct-bill-capabilities"></a>影響を受ける直接請求機能
 
-直接請求機能が制限されている場合は、顧客に対して新しい購入を行パートナー センター。 この制限には次が含まれます。
+直接請求書の機能が制限されている場合は、パートナーセンターで顧客の新しい購入を行うことができなくなります。 この制限は次のとおりです。
 
 - Azure サブスクリプション
 
 - ライセンスベースのサブスクリプション
 
-- 既存のライセンス ベースのサブスクリプションに新しいアドオンを追加します。
+- 既存のライセンスベースのサブスクリプションに新しいアドオンを追加します。
 
-- ソフトウェアおよび予約製品 (ソフトウェア サブスクリプション、永続的ソフトウェア、Azure 予約仮想マシン インスタンスなど) を 1 回購入します。
+- ソフトウェアと予約製品 (ソフトウェアサブスクリプション、永続ソフトウェア、Azure Reserved Virtual Machine instances など) を1回だけ購入してください。
 
-また、CSP プログラムで [Azure パートナー共有](shared-services.md) サービス オファーを使用して、独自に使用するために新しい Azure サブスクリプションを購入することはできません。
+CSP プログラムで [azure パートナー共有サービスプラン](shared-services.md) を使用して、新しい azure サブスクリプションを独自に購入することもできません。
 
-既存の直接請求サブスクリプションは影響を受けません。 それらは有効なまま残り、自動的に更新されます。 取り消されるまで、引き続き Microsoft から直接請求されます。 既存のサブスクリプションは、引き続き次の方法で管理できます。
+既存の直接請求サブスクリプションは影響を受けません。 これらは有効なままであり、autorenewed です。 キャンセルされるまで、Microsoft による直接の課金が継続されます。 既存のサブスクリプションは、次の方法で引き続き管理できます。
 
 - 既存のサブスクリプションを中断します
 
-- 既存のライセンス ベースのサブスクリプションのライセンス数を調整する
+- 既存のライセンスベースのサブスクリプションのライセンス数を調整する
 
 - サブスクリプションに対する既存のアドオンのライセンス数を調整します。 
 

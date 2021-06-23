@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: ffec50d53b50bdb6aa2690f1dfcc1bc7312cc3cb
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 40ba485cecce394dc81632d01f8774859690c522
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277302"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551607"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>パートナーが自分で使用するために Azure サブスクリプションを購入できるように Azure パートナー共有サービスを追加する
 
 **適切なロール**: 全体管理者 |管理エージェント |営業担当者
 
-Azure Partner Shared Services は、CSP プログラムのパートナー様向けの新しいプランの種類です。このプランでは、パートナー様自身が使用する Azure サブスクリプションを購入できます。パートナーにとっては、Microsoft との Azure ライセンス契約および再販契約を集約できるだけでなく、統一された方法で Azure を購入、追跡、管理できるようになります。 Azure Partner Shared Services を使用すると、パートナーは、Microsoft Enterprise Agreement および Web ダイレクトプログラムの場合と同じように、CSP で Azure サブスクリプションを柔軟に使用できるようになり、開発とテスト環境の構築、内部ワークロードのデプロイ、共有サービスやマルチテナントアプリケーションのホストなどのシナリオを開くことができます。  
+Azure Partner Shared Services (APSS) は、クラウドソリューションプロバイダー (CSP) プログラムのパートナー向けの新しいオファーの種類であり、パートナーが自分で使用する Azure サブスクリプションを購入できるようにします。パートナーにとっては、Microsoft との Azure ライセンス契約および再販契約を集約できるだけでなく、統一された方法で Azure を購入、追跡、管理できるようになります。 APSS を使用すると、パートナーは、Microsoft Enterprise Agreement および Web ダイレクトプログラムの場合と同じように、CSP で Azure サブスクリプションを使用する場合と同じ柔軟性を持つようになりました。たとえば、開発とテスト環境の構築、内部ワークロードのデプロイ、共有サービスやマルチテナントアプリケーションのホストなどのシナリオがあります。  
 
 ## <a name="create-the-shared-services-tenant"></a>共有サービス テナントを作成する
 
@@ -28,7 +28,7 @@ Azure Partner Shared Services は、CSP プログラムのパートナー様向�
 
    :::image type="content" source="images/sharedservices2.png" alt-text="共有サービスのアカウント設定 >":::
 
-2. 共有サービス テナントをお持ちでない場合は、**[Create shared services]** (共有サービスの作成) をクリックします。
+2. 共有サービステナントをまだ持っていない場合は、[ **共有サービスの作成**] を選択します。
 
    :::image type="content" source="images/sharedservices3.png" alt-text="共有サービスを作成します。":::
 
@@ -54,11 +54,11 @@ Azure の利用状況は、CSP 請求書と調整ファイルに記載されま�
 
 ## <a name="azure-partner-shared-services-pricing"></a>Azure Partner Shared Services の価格
 
-Azure Partner Shared Services の新しい価格ファイルを確認するには、**販売**  >  **価格とプラン** に関するページにアクセスし、当月の価格表を選択してください。 今後数週間のうちには、特定の価格カードの API もリリースされる予定です。
+APSS の新しい価格ファイルを確認するには、**販売**  >  **価格とプラン** に関するページにアクセスし、当月の価格表を選択してください。 今後数週間のうちには、特定の価格カードの API もリリースされる予定です。
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>マーケットプレースのプランと Azure Partner Shared Services
 
-2019年3月1日の時点で、Azure Partner Shared Services (APSS) では Marketplace プランはサポートされなくなりました。
+2019年3月1日の時点で、APSS は Marketplace プランをサポートしなくなりました。
 
 |**マーケットプレースのサポート**   |**2019 年 3 月 1 日より前にサポートされる APSS**|**2019 年 3 月 1 日以降**|
 |---------------------------|:----------------------------|:-------------------|
@@ -71,6 +71,6 @@ APSS を使用してデプロイされた BYOL または無料のサービスを
 
 2019年3月1日より後に APSS サブスクリプションの使用を予定しており、新しいサードパーティの [Byol サービス](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) または無料サービスをデプロイすることを計画しているパートナーは、isv の指示に従ってこれらを APSS サブスクリプションにデプロイできます。
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - [CSP によるソフトウェア サブスクリプションの販売](csp-software-subscriptions.md)

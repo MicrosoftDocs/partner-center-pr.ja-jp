@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5ea1fcd80f6ada97e5c0b840f11e0eb7668ee265
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854997"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551233"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>顧客がサブスクリプションを構成、管理、使用するのに役立つテクニカル サポートを提供する
 
 
 **適切なロール**: グローバル管理者|ユーザー管理管理者|ヘルプデスク エージェント |管理エージェント
 
-パートナークラウド ソリューション プロバイダー、顧客の環境にアクセスできる代理管理者特権を持っています。 これらの特権を使用すると、顧客のサブスクリプションを直接サポート、構成、管理できます。
+CSP (クラウド ソリューション プロバイダー) パートナーは、顧客の環境にアクセスできる代理管理者特権を持っています。 これらの特権を使用すると、顧客のサブスクリプションを直接サポート、構成、管理できます。
 
 パートナー センターで、次の操作を実行できます。
 
@@ -54,7 +54,7 @@ CSP モデルで取引を行うパートナーは、お客様に対する信頼�
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>課金、サブスクリプション管理、テクニカル サポートの提供 
 
-各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については次を参照してください:
+各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については、次を参照してください。
 
 - [CSP で販売された Dynamics 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

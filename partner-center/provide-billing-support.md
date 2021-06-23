@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP プログラムパートナーから必要なお客様の課金サポートについて説明します。 このサポートには、顧客の請求関係の所有と、請求に関する質問への回答が含まれます。
+description: Cloud Solution Provider (CSP) プログラムパートナーから必要なお客様の課金サポートについて説明します。 このサポートには、顧客の請求関係の所有と、請求に関する質問への回答が含まれます。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ab9ac3c7ba8e718c3b154e81649965457a4cf7ff
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854130"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551321"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>顧客に課金サポートを提供し、請求に関する質問に答える
 
@@ -31,7 +31,7 @@ ms.locfileid: "109854130"
 
 ## <a name="microsoft-partner-support-guidance"></a>Microsoft パートナー サポート ガイダンス
 
-CSP モデルで取引を行うパートナーは、お客様に対する信頼できるアドバイザーであり、お客様に疑問や問題がある場合のサポートを含め、エンド ツー エンドの関係を構築します。 サポート タッチ ポイントを通じて、パートナーはお客様とそのビジネスの詳細を把握し、価値を高める新しいサービスやソリューションを識別できます。
+クラウドソリューションプロバイダー (CSP) モデルで働いているパートナーは、顧客に対する信頼されたアドバイザーであり、エンドツーエンドのリレーションシップを所有しています。これには、お客様に質問や問題がある場合のサポートも含まれます。 サポート タッチ ポイントを通じて、パートナーはお客様とそのビジネスの詳細を把握し、価値を高める新しいサービスやソリューションを識別できます。
 
 サポートの要件を満たすために、パートナーは別のエンティティからのサポートを再販したり、サポート構造の全部または一部を外部委託したり、および/または直接サポートを提供する構造を設定したりする場合があります。  パートナーは、お客様に提供されるサポートの全部または一部を課金する場合があります。 パートナーは、お客様が提供するサポート、サービス時間と連絡方法、価格 (サポートのために課金される場合) を顧客に明確に付ける必要があります。 
 
@@ -44,13 +44,13 @@ CSP モデルで取引を行うパートナーは、お客様に対する信頼�
 
 - **技術的** な問題のサポートは、以下を通じて利用できます。
 
-  - Premier Support for Partners (料金ベース)
-  - Advanced Support for Partners (料金ベース)
+  - パートナー向けの Premier サポート (PSfP) (料金ベース)
+  - パートナー向けの高度なサポート (ASfP) (料金ベース)
   - Signature Cloud Support (Gold/Silver コンピテンシーに含まれる)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>課金、サブスクリプション管理、テクニカル サポートの提供 
 
-各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については次を参照してください:
+各オンライン サービスには、お客様に課金、サブスクリプション管理、およびテクニカル サポートを提供するための特定の詳細な要件があります。 詳細については、次を参照してください。
 
 - [CSP で販売された Dynamics 365 サブスクリプション](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

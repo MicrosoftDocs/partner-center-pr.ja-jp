@@ -1,5 +1,5 @@
 ---
-title: 一部の Skype for Business サブスクリプションを移行する
+title: Skype for Business サブスクリプションの移行
 description: 有効期限が切れた Skype for Business Online プラン1サブスクリプションを持つ特定の顧客を新しい Office 365 バージョンに移行する方法とタイミングについて説明します。
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 0e8289ad06dbc8a95f5cff22ca386176d6ba65ab
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: a8de5b824a24b07607b5365848ec1027ca0d08e8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854827"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551539"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype for Business Online プラン 1 サブスクリプションの新しい Office 365 バージョンへの移行
 
@@ -27,7 +27,7 @@ Skype for Business Online プラン1は、2018年8月1日をもって廃止さ�
 >[!NOTE]
 >Skype for Business Online プラン 1 の商用 SKU と行政機関用 SKUは、どちらも提供終了となります。
 
-API (CREST またはパートナー センターのいずれか) を使用している場合は、サブスクリプションの終了日と auto renew = False プロパティを評価して、有効期限が迫っているサブスクリプションを検出できます。 Skype for Business Online プラン 1 のサブスクリプションは、2018 年 9 月 1 日に auto renew = False に設定されます。 お客様は、いつでも新しいプランに移動できます。 
+API (コマース REST (CREST) またはパートナーセンター) を使用する場合は、サブスクリプションの終了日を自動更新 = False プロパティと共に評価して、期限切れのサブスクリプションを見つけます。 Skype for Business Online プラン 1 のサブスクリプションは、2018 年 9 月 1 日に auto renew = False に設定されます。 お客様は、いつでも新しいプランに移動できます。 
 
 ## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Skype for Business Online プラン 1 の代替プラン
 
@@ -39,10 +39,10 @@ API (CREST またはパートナー センターのいずれか) を使用して
 
 |**機能**    |**方法 1**   |**方法 2**   |**オプション3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Skype for Business Online プラン 1 に含まれるすべての機能の利用|Yes   |Yes   |Yes   |
-|IM とプレゼンス |Yes   |Yes   |Yes   |
-|IP を経由したピアツーピア オーディオとビデオ|Yes   |Yes   |Yes   
-|認証ユーザーとして会議に参加| Yes   |Yes   |Yes   |
+|Skype for Business Online プラン 1 に含まれるすべての機能の利用|はい   |はい   |はい   |
+|IM とプレゼンス |はい   |はい   |はい   |
+|IP を経由したピアツーピア オーディオとビデオ|はい   |はい   |はい   
+|認証ユーザーとして会議に参加| はい   |はい   |はい   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>顧客を新しい製品プランに移行する
 

@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 735a8b2c2436df61216ceb476be4a55b18785325
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83259f2f895be9ef34c55db5613ccfe6891a4424
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855694"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551471"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>パートナー センターで顧客との再販業者関係を削除する方法
 
@@ -33,7 +33,7 @@ ms.locfileid: "109855694"
 
 ## <a name="how-to-remove-a-relationship"></a>リレーションシップを削除する方法
 
-リレーションシップを削除するには、Azure RI の予約を取り消し、ソフトウェア購入を取り消し、残りのアクティブなサブスクリプションを最初に中断する必要があります。
+リレーションシップを削除するには、Azure 予約インスタンス (RI) の予約を取り消し、ソフトウェアの購入を取り消し、残りのアクティブなサブスクリプションを最初に中断する必要があります。
 
 1. **すべてのアクティブなサブスクリプションを中断します。**
 
