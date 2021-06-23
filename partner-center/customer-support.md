@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: 83006da3a25285105d6fc073a203bedb19e681fe
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450749"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489885"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>お客様へのさまざまな種類のサポートの提供
 
@@ -36,7 +36,7 @@ CSP のお客様は、自分でサポート チケットを作成できない。
 
   - [Premier サポート (PSfP) の](https://partner.microsoft.com/support/microsoft-services-premier-support) 場合 (料金ベース、すべての製品に使用)
 
-  - [パートナー向け高度なサポート (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (料金ベース、クラウド製品にのみ使用)
+  - [パートナー向け高度なサポート (ASfP)](https://partner.microsoft.com/support/advanced-cloud-support) (料金ベース、クラウド製品にのみ使用)
 
   - [署名クラウド サポート](manage-your-partner-network-benefits.md) (Gold または Silver コンピテンシーの MPN 特典に含まれます。クラウド製品にのみ使用します)。 技術的 [な利点に関するページを参照してください](mpn-benefits-technical-support.md))
 

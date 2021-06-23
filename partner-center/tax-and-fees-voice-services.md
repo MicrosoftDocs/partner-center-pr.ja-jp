@@ -7,12 +7,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854725"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490072"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>地域税、公衆交換電話網 (PTSN) サービスの規制
 
@@ -26,7 +26,7 @@ PSTN サービスの規制、税金と料金、その他の潜在的な責任に
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>請求書プレゼンテーションとパートナー調整ファイル
 
-skype for Business PSTN および Microsoft 365 Voice サービスを含む 米国、メキシコ、カナダの CSP 請求書と CSP 調整ファイルは、PSTN コンポーネントと PSTN 以外のコンポーネントに個別の品目を提供します。
+クラウド ソリューション プロバイダー (CSP) の請求書と、skype for Business PSTN および Microsoft 365 Voice サービスを含む 米国、メキシコ、カナダの CSP 調整ファイルでは、PSTN コンポーネントと PSTN 以外のコンポーネント用に個別の品目が提供されます。
 
 さらに、CSP の請求書には、次の脚注が表示されます。
 
@@ -34,18 +34,18 @@ skype for Business PSTN および Microsoft 365 Voice サービスを含む 米�
 
 ## <a name="reconciliation-file-example"></a>調整ファイルの例
 
-Office 365 Enterprise E5 は、調整ファイルに同一の名前と同じ Id を持つ2つの行項目として表示されますが、各品目には一意の単価 (例: $28.40 と $2.00) があります。 これにより、Office 365 プランの Skype for Business PSTN 会議コンポーネントが区別され、税金を正しく適用することができます。
+Office 365 Enterprise E5 は、同じ名前と同じ ID を持つ 2 つの品目として調整ファイルに表示されますが、各品目の単価は一意です (例: $28.40 と $2.00)。 これにより、Office 365 プランの Skype for Business PSTN 会議コンポーネントが区別され、税金を正しく適用することができます。
 
-**パートナーの調整の例 #1 (列の選択):**
+**パートナー調整の例 #1 (列の選択):**
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Cycle fee   |28.40   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Cycle fee   |2.00   |
 
-**パートナーの調整の例 #2**
+**パートナー調整の例 #2**
 
-カナダで利用可能な Microsoft 365 Business 音声には、CSP 請求書に統合されている追加の PSTN 非課税コンポーネントがあります (Office 365 E5 と同様、2つの行項目が表示されます。1つは PSTN コンポーネント用、もう1つは pstn 以外のコンポーネント用) です。  Microsoft 365 Business 音声の CSP 調整ファイルには、すべての PSTN の非課税コンポーネントが個別に表示されます (個々の PSTN コンポーネントはに統合されません)。CSV または API ツール)。  調整ファイルで見つかった顧客の注文の詳細と請求金額の合計は、CSP 請求書と一致します。
+Microsoft 365利用可能な Business Voice には、CSP 請求書に統合された追加の PSTN 課税コンポーネントがあります (Office 365 E5 と同様に、PSTN コンポーネント用と PSTN 以外のコンポーネント用の 2 つの品目が表示されます)。  Microsoft 365 Business Voice の CSP 調整ファイルには、すべての PSTN 課税対象コンポーネントが個別に表示されます (個々の PSTN コンポーネントは .CSV または API ツールに統合されません)。  調整ファイルで見つかった顧客の注文の詳細と請求金額の合計は、CSP 請求書と一致します。
 
 ## <a name="additional-resources"></a>その他の情報
 詳細については、パートナー向けMicrosoft 365 [サイトを参照](https://www.microsoft.com/microsoft-365/partners/) してください。

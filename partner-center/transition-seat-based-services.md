@@ -9,20 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2cfea9bc672ff12868a7944cf81601e5292dae80
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855983"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489902"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>ライセンスベースの顧客を他のチャネルからパートナー&プログラムにクラウド ソリューション プロバイダーする
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>ライセンスベースの顧客を他のチャネルからパートナー&、クラウド ソリューション プロバイダー (CSP) プログラムに移行する
 
 **適切なロール**: アカウント管理者|Sales Agent |課金エージェント
 
 顧客が複数のパートナーと携わったり、サブスクリプションを別のパートナーに移管したり、別途購入したサブスクリプションを管理したりする場合には、手動で移行することができます。 別のチャネルからパートナー センターに顧客を移動することもできます。
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>顧客のライセンスベースのサブスクリプションを クラウド ソリューション プロバイダー Program (CSP) に移動する
+## <a name="move-your-customers-license-based-subscriptions-to-the-csp-program"></a>顧客のライセンスベースのサブスクリプションを CSP プログラムに移動する
 
 1. パートナーセンターのメニューから **[顧客]** を選択し、**[再販業者関係の要求]** を選択します。 マルチチャネル アカウントのサポートを提供するには、同じ操作を行います。
 

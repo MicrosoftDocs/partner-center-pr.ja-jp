@@ -9,18 +9,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 212eef8294b7d293a9bc9f55b56498e12e3f402a
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: cccb1701e196781b2e002ef6bb37f0e47521b2b5
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711814"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489936"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>トレーニング伝票やサービスの計画など、ソフトウェアアシュアランスプログラムに参加する
 
 ソフトウェアアシュアランスのトレーニング券 (SATV) やサービスの計画など、ソフトウェアアシュアランスプログラムへの参加により、Microsoft の企業のお客様がビジネスを成長させる機会が得られます。 
 
-- マイクロソフトは、ソフトウェアアシュアランストレーニングのバウチャーパートナーとして、Microsoft のエキスパートによって開発された、インストラクター主導の技術的なクラスルームトレーニングを提供します。 
+- Microsoft は、microsoft の専門家によって開発された、インストラクター主導の技術的なクラスルームトレーニングを提供するように、SATV パートナーとしてお客様に補償します。 
 
 - Microsoft は、計画サービスパートナーとして、事前定義されている実装計画契約を導き出します。 
 
@@ -32,7 +32,7 @@ ms.locfileid: "88711814"
 > サービス内容の計画に [必要なコンピテンシー](software-assurance-dps-requirements.md) とそれに関連付けられている契約の詳細については、こちらを参照してください。
 
 
-|**詳細情報**   |**参照先**   |
+|**詳細**   |**参照先**   |
 |--------------------------|:------------------|
 |ソフトウェアアシュアランストレーニングバウチャー (SATV) プログラムへの登録  | [パートナーセンターのソフトウェアアシュアランストレーニングバウチャー (SATV) プログラム](software-assurance-satv.md)|
 |ソフトウェアアシュアランス計画サービスプログラムへの登録 | [パートナー センターでのソフトウェア アシュアランス計画サービス](software-assurance-dps.md) |
