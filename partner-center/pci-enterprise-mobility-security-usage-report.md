@@ -8,12 +8,12 @@ description: 顧客に対して販売または管理するサブスクリプシ�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 38eeb13c04edca803321e4ccc532b204af5bb9bf
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277829"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565391"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security Insights ダッシュボードから使用できる使用状況パートナー センターレポート
 
@@ -28,7 +28,7 @@ ms.locfileid: "112277829"
 - Enterprise Mobility + Security使用量の分布
 
  > [!NOTE]
- > このレポートは、Insights ダッシュボードから使用できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポート ビューアー、エグゼクティブ レポート ビューアーなど、パートナー センター で特定のロールを割り当てる必要があります。 詳細については、会社のグローバル管理者に関するページを参照してください。このレポートの特定の種類のデータは、エグゼクティブ レポート ビューアー特権を持つユーザーだけが使用できる場合もあります。
+ > このレポートは、Insights ダッシュボードから使用できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポート ビューアー、役員レポート ビューアーなど、パートナー センター で特定のロールを割り当てる必要があります。 詳細については、会社のグローバル管理者に関するページを参照してください。このレポートの特定の種類のデータは、エグゼクティブ レポート ビューアー特権を持つユーザーだけが使用できる場合もあります。
 
 ## <a name="summary"></a>まとめ
 
@@ -76,7 +76,7 @@ SKU Enterprise Mobility + Security使用量の一部は、SKU 別の MAU と PAU
 
 :::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="EMS の使用状況の分布。":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。
 

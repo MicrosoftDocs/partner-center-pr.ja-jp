@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 01/18/2021
-ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/22/2021
+ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431542"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565187"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace購入
 
@@ -77,6 +77,8 @@ Azure Marketplace の料金と請求書は、Azure Cost Management の費用分�
 1. サブスクリプションは CSP (クラウド ソリューション プロバイダーに属し、ISV は CSP を通じた販売を拒否しました。
 1. プライベート マーケットプレースはサブスクリプションに対して有効であり、オファーは許可されているオファーの一覧に含め "されません"。
 1. オファーは特定の顧客に対してプライベート/プレビューであり、サブスクリプションは許可された顧客の一覧に含めではありません。
+
+Marketplace オファーの購入は、組織内の Azure 管理者によって定義Azure Policyと競合する場合に失敗する可能性があります。 たとえば、組織の許可リストに含めなかった場合、Microsoft.SaaS を **購入できないと** します。 詳細については、次のドキュメント [をAzure Policyしてください](/azure/governance/policy/)。
 
 ## <a name="next-steps"></a>次の手順
 

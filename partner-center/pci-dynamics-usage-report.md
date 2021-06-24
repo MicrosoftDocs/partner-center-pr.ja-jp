@@ -8,18 +8,18 @@ description: 顧客に対して販売または管理する Dynamics サブスク
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 76a589037817707378e39f4301313eee7284422a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277506"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565459"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナー センター Insights ダッシュボードから使用できる Dynamics 使用状況レポート
 
 **適切なロール**: グローバル管理者|管理エージェント |レポート ビューアー |エグゼクティブ レポート ビューアー
 
-Dynamics 使用状況レポートには、顧客に対して販売または管理した Dynamics 365 サブスクリプションの使用状況データが表示されます。 次のセクションは、Dynamics 使用状況レポートから確認できます。
+Dynamics 使用状況レポートには、顧客に対して販売または管理した Microsoft Dynamics 365 サブスクリプションの使用状況データが表示されます。 次のセクションは、Dynamics 使用状況レポートから確認できます。
 
 - まとめ
 - 地域別の Dynamics の使用
@@ -28,7 +28,7 @@ Dynamics 使用状況レポートには、顧客に対して販売または管�
 - Dynamics の使用状況の分布
 
  > [!NOTE]
- > このレポートは、Insights ダッシュボードから使用できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポート ビューアー、エグゼクティブ レポート ビューアーなど、パートナー センター で特定のロールを割り当てる必要があります。 詳細については、会社のグローバル管理者に関するページを参照してください。このレポートの特定の種類のデータは、エグゼクティブ レポート ビューアー特権を持つユーザーだけが使用できる場合もあります。
+ > このレポートは、Insights ダッシュボードから使用できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポート ビューアー、役員レポート ビューアーなど、パートナー センター で特定のロールを割り当てる必要があります。 詳細については、会社のグローバル管理者に関するページを参照してください。このレポートの特定の種類のデータは、エグゼクティブ レポート ビューアー特権を持つユーザーだけが使用できる場合もあります。
 
 ## <a name="summary"></a>まとめ
 
@@ -80,7 +80,7 @@ Dynamics の使用状況の分布は、SKU 別の利用可能なシート、ア�
 
 :::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dynamics の使用状況の分布。":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。
 

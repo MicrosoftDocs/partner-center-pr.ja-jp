@@ -1,32 +1,32 @@
 ---
-title: パートナー センター Analytics for Power BI のインストール
+title: Power BI 用のパートナーセンター分析のインストール
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: この記事の手順に従って、(CSP の直接パートナー向け) Power BI 用パートナー センター分析アプリをインストールしてプレビューします。
+description: この記事の手順に従って、Power BI 用のパートナーセンター分析アプリ (CSP のダイレクトパートナー向け) をインストールしてプレビューします。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15ee391d6b748b6499700aee321ff4abd85e75d2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ff95f989ac847bd2c17558d062c86a52110b2ddf
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854487"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565044"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Power BI 用パートナー センター分析アプリをインストールしてプレビューする
 
 
-**適切なロール**: グローバル管理者|ユーザー管理管理者|Sales Agent |管理エージェント
+**対象のロール**: グローバル管理者 | ユーザー管理の管理者 | 販売エージェント | 管理エージェント
 
 ## <a name="before-you-begin"></a>開始する前に
 
-使用可能な Power BI アプリの次の一覧から、自分のビジネスに最も関係のあるアプリケーションを選択します。
+次の利用可能な Microsoft Power BI アプリの一覧から、お客様のビジネスに最も関連性の高いアプリケーションを選択します。
 
-- [ダイレクト プロバイダー](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
+- [直接プロバイダー](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [間接プロバイダー](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
@@ -36,21 +36,21 @@ ms.locfileid: "109854487"
 
 - 自分のビジネスに合った Power BI アプリを選択している。
 
-- お持ちPower BI Pro ライセンスをお持ちです。
+- Power BI pro ライセンスを持っている。
 
-- テナントにテンプレート アプリをインストールするアクセス許可があります。
+- テナントにテンプレートアプリをインストールするためのアクセス許可があります。
 
 - Power BI にログインできる。
 
-- グローバル管理者、管理者エージェント、または課金管理者として、会社の Azure Active Directory [(Azure AD)](azure-active-directory-tenants-and-partner-center.md)テナント にサインインできます。
+- [会社の Azure Active Directory (Azure AD) テナント](azure-active-directory-tenants-and-partner-center.md)に、グローバル管理者、管理エージェント、または課金管理者としてサインインできます。
 
 ## <a name="to-install-the-app"></a>アプリをインストールするには
 
-1. 上記のセクションで指定したアプリ ソース リンク (ダイレクト プロバイダー/間接プロバイダー/間接リセラー) を選択します。
+1. 上記のセクションで、指定されたアプリソースリンク (Direct Provider/間接プロバイダ/間接リセラー) を選択します。
 
 2. **[今すぐ入手する]** を選択します。 
 
-3. [続行] を選択して使用条件に **同意します**。
+3. [ **続行**] を選択して、使用条件に同意します。
 
 4. [アカウントを既にお持ちの場合] の下で **[サインイン]** を選びます。
 
@@ -58,20 +58,20 @@ ms.locfileid: "109854487"
 
 6. ワークスペース名を指定して、ワークスペースをインストールします。
 
-7. インストールされているテンプレート アプリは、[アプリ] セクションで確認できます。
+7. インストールされているテンプレートアプリは、[アプリ] セクションで確認できます。
 
-8. [アプリ **] を** 選択し、インストールされているアプリを選択します。
+8. [ **アプリ** ] を選択し、インストールされているアプリを選択します。
 
-9. 開始するアプリの画面が開きます。
+9. [新しいアプリの開始] 画面が開きます。
 
-10. データに接続するには、 [接続] を **選択します**。
+10. データに接続するには、[ **接続**] を選択します。
 
-11. [パートナー センター **Analytics** に接続する] ポップアップ ウィンドウで、[認証方法] が **[oAuth2]** に設定されているのを確認するか、一覧から **[oAuth2]** を選択します (設定されていない場合)。 
+11. [ **Partner Center Analytics への接続** ] ポップアップウィンドウで、[ **認証方法** ] が [ **oAuth2** ] に設定されていることを確認するか、表示されていない場合は一覧から **oAuth2** を選択します。 
 
 > [!NOTE]  
 >  このウィンドウが表示されるまでに数分間かかることがあります。
 
-12. **[パートナー センター Analytics Connector]** ページで、会社の Azure AD テナントのグローバル管理者、管理者エージェント、または課金管理者の資格情報でサインインし、[サインイン]**を選択します**。
+12. [ **Partner Center Analytics コネクタ** ] ページで、会社の Azure AD テナントのグローバル管理者、管理エージェント、または課金管理者の資格情報を使用してサインインし、[ **サインイン**] を選択します。
  
 13. アクセスするかどうかを尋ねられたら、**[同意する]** を選びます。 
 

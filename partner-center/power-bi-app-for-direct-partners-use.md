@@ -4,28 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: (CSP の直接パートナー向け) Power BI 用パートナー センター分析アプリを使用してビジネス データを表示する方法について説明します。
+description: Power BI 用パートナー センター分析アプリ (クラウド ソリューション プロバイダー (CSP) プログラムの直接パートナー向け) を使用してビジネス データを表示する方法について説明します。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855031"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112564983"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI 用パートナー センター分析アプリでビジネス データを表示する
 
 
 
-**適切なロール**: グローバル管理者|ユーザー管理管理者|Sales Agent |管理エージェント
+**対象のロール**: グローバル管理者 | ユーザー管理の管理者 | 販売エージェント | 管理エージェント
 
 ## <a name="view-your-business-data"></a>ビジネス データを表示する
 
-Power BI 用パートナー センター分析アプリでは、ビジネス データの視覚表現を利用できます。以下に例を示します。
+Microsoft パートナー センター Analytics アプリを使用して、ビジネス データの視覚的な表現を取得Power BI次を含む。
 
 - 顧客数、サブスクリプション数、ライセンス数の増加
 
@@ -39,7 +39,7 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 ### <a name="about-the-partner-center-analytics-app-preview-release"></a>パートナー センターの分析のアプリのプレビュー リリースについて
 
-- このアプリは、クラウド ソリューション プロバイダー プログラムの直接パートナーのみを対象としています。 CSP の他のパートナー (間接リセラーなど) はログインできません。
+- このアプリは、クラウド ソリューション プロバイダー (CSP) プログラムの直接パートナー向けです。 CSP の他のパートナー (間接リセラーなど) はログインできません。
 
 - 見積もりコストはすべて税抜きの請求データであり、法的拘束力を持ちません。 推定コストは、データ インサイトの目的のみで使用することを想定しています。
 
@@ -51,7 +51,7 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 ### <a name="business-insights-report"></a>ビジネス インサイト レポート
 
-- **Customer tenants** (顧客のテナント): サブスクリプションを購入した顧客の個別の Azure AD テナント数
+- **顧客テナント**: サブスクリプションを購入したAzure Active Directory (Azure AD) テナントの数
 
 - **New (last 30 days)** (新規 (過去 30 日)): 過去 30 日以内に 1 つ以上のサブスクリプションを購入した新規顧客
 
@@ -95,7 +95,7 @@ Power BI 用パートナー センター分析アプリでは、ビジネス デ
 
 - **30 日以内に期限切れ**: 今後 30 日以内に期限切れとなるサブスクリプション
 
-- **Churn (last 30 days)** (チャーン (過去 30 日)) : 過去 30 日以内にプロビジョニング解除または中断 (無効) となったサブスクリプション
+- **チャーン (過去 30** 日間) : 過去 30 日以内にプロビジョニングまたは中断 (無効) されたサブスクリプション
 
 - **サブスクリプションの種類別の配布**: ライセンス ベースおよび使用量ベースのサブスクリプションの種類別のサブスクリプションの合計の % 分布
 

@@ -8,12 +8,12 @@ description: お客様のお客様向けに販売または管理しているチ�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4148848984a541eca4eee9e71785660aa6402bc7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277336"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565017"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>パートナーセンターの Insights ダッシュボードから使用可能なチームの使用状況レポート
 
@@ -27,7 +27,7 @@ ms.locfileid: "112277336"
 - 使用量別の上位の顧客
 
  > [!NOTE]
- > このレポートは、Insights ダッシュボードから入手できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポートビューアー、エグゼクティブレポートビューアーなど、パートナーセンターの特定のロールが割り当てられている必要があります。 詳細については、会社のグローバル管理者に問い合わせてください。このレポートの特定の種類のデータは、役員レポートビューアーの特権を持つユーザーのみが使用できる場合もあります。
+ > このレポートは、Insights ダッシュボードから入手できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポートビューアー、エグゼクティブレポートビューアーなど、パートナーセンターの特定のロールが割り当てられている必要があります。 詳細については、会社のグローバル管理者に問い合わせてください。このレポートの特定の種類のデータは、エグゼクティブレポートビューアーの特権を持つユーザーのみが使用できる場合もあります。
 
 ## <a name="summary"></a>まとめ
 
@@ -63,7 +63,7 @@ ms.locfileid: "112277336"
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="使用量別の上位の顧客。":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - 詳細なレポートについては、「 [Partner Center Insights](partner-center-insights.md)」を参照してください。
 

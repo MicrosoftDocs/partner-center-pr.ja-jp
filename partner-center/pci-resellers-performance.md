@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: パートナー センター Insights のリセラー のパフォーマンス ダッシュボードには、さまざまなインダイレクト リセラーのパフォーマンスの概要が表示CSP Indirect Provider。
+description: パートナー センター Insights のリセラー パフォーマンス ダッシュボードには、クラウド ソリューション プロバイダー (CSP) 間接プロバイダーのさまざまな間接リセラーのパフォーマンスの概要が表示されます。
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc0fb8a56d397cebeb5a40fa1a1c8d6eae77fe25
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 65fddcc47105cf329bb8f5d3e1aa342deee556b4
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277370"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565170"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>パートナー センター Insights の Reseller Performance ダッシュボード
 
 **適切なロール**: グローバル管理者|管理エージェント |レポート ビューアー |エグゼクティブ レポート ビューアー
 
-パートナー センター Insights のリセラー のパフォーマンス ダッシュボードには、さまざまなインダイレクト リセラーのパフォーマンスの概要が表示CSP Indirect Provider。 ダッシュボードには、アクティブなリセラー、生成される収益、収益を推進している製品に関するデータが表示されます。 間接プロバイダーは、特定のリセラーを名前で検索し、リセラーのパフォーマンス ダッシュボードでリセラーの詳細を検索できます。
+パートナー センター Insights のリセラー パフォーマンス ダッシュボードには、クラウド ソリューション プロバイダー (CSP) 間接プロバイダーのさまざまな間接リセラーのパフォーマンスの概要が表示されます。 ダッシュボードには、アクティブなリセラー、生成される収益、収益を推進している製品に関するデータが表示されます。 間接プロバイダーは、特定のリセラーを名前で検索し、リセラーのパフォーマンス ダッシュボードでリセラーの詳細を検索できます。
 
 次のセクションは、リセラーのパフォーマンス ダッシュボードから確認できます。
 
@@ -32,10 +32,10 @@ ms.locfileid: "112277370"
 - パートナーの場所別のアクティブなリセラー
 - 収益地域分布の傾向
 - 顧客セグメント別のリセラーのパフォーマンス
-- リセラー MPA 署名の状態
+- Reseller Microsoft Partner Agreement (MPA) の署名状態
 
  > [!NOTE]
- > このレポートは、Insights ダッシュボードから使用できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポート ビューアー、エグゼクティブ レポート ビューアーなど、パートナー センター で特定のロールを割り当てる必要があります。 詳細については、会社のグローバル管理者に関するページを参照してください。このレポートの特定の種類のデータは、エグゼクティブ レポート ビューアー特権を持つユーザーだけが使用できる場合もあります。
+ > このレポートは、Insights ダッシュボードから使用できます。 このレポートを表示するには、グローバル管理者、アカウント管理者、レポート ビューアー、役員レポート ビューアーなど、パートナー センター で特定のロールを割り当てる必要があります。 詳細については、会社のグローバル管理者に関するページを参照してください。このレポートの特定の種類のデータは、エグゼクティブ レポート ビューアー特権を持つユーザーだけが使用できる場合もあります。
 
 ## <a name="summary"></a>まとめ
 
@@ -81,7 +81,7 @@ ms.locfileid: "112277370"
 
 ## <a name="resellers-revenue-trend"></a>リセラーの収益傾向 
 
-このビューでは、製品 (O365、D365、EMS、Power BI、Azure) で分割された請求収益 (USD) の月次傾向を示します。 全体的なメトリックは、各月のさまざまな製品にわたって集計されます。 パートナーは、名前で特定のリセラーを検索し、その特定のリセラーのデータを検索できます。 グリッドの [請求収益 (USD) ] フィールドは並べ替え可能です。
+このビューでは、請求収益 (USD) の月次傾向を製品 (Office 365、Dynamics 365、Enterprise Mobility and Security (EMS)、Microsoft Power BI、Azure) で分割します。 全体的なメトリックは、各月のさまざまな製品にわたって集計されます。 パートナーは、名前で特定のリセラーを検索し、その特定のリセラーのデータを検索できます。 グリッドの [請求収益 (USD) ] フィールドは並べ替え可能です。
 
 :::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="リセラーの収益傾向。":::
 
@@ -111,11 +111,11 @@ ms.locfileid: "112277370"
 
 ## <a name="reseller-mpa-signing-status"></a>リセラー MPA 署名の状態
 
-このビューには、リセラーの MPA 署名状態と、MPN の確認状態、PMC から PC への移行の状態などの追加のメタデータが表示されます。
+このビューには、リセラーの MPA 署名状態と、Microsoft Partner Network (MPN) の確認状態、Partner Membership Center (PMC) から パートナー センター への移行状態などの追加のメタデータが表示されます。
 
 :::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="リセラー MPA 署名状態。":::
 
-## <a name="next-steps"></a>次のステップ
+## <a name="next-steps"></a>次の手順
 
 - その他のレポートについては [、「パートナー センター Insights 」を参照してください](partner-center-insights.md)。
 
