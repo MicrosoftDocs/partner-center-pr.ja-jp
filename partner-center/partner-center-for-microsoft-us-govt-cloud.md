@@ -1,36 +1,36 @@
 ---
-title: パートナー センター米国政府機関向けクラウド
+title: Microsoft US Government Cloud のパートナーセンター
 ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: このパートナー センターサイトは、Microsoft クラウド ソリューションを提供する Microsoft パートナー向けで、米国 の政府機関と連携しているお客様向けです。
+description: このパートナーセンターサイトは、米国で政府機関と協力しているお客様に Microsoft のクラウドソリューションを提供する Microsoft パートナーを対象としています。
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0fc1176c6620300002afbc9bf218afcceb777538
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6b571ed5ff3eac0947b3c8d619c2605f0ac86f50
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146274"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915645"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>パートナー センターのMicrosoft Cloud for US Government政府機関へのパートナー オファーをサポートする
+# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>米国政府向けパートナーセンターでは、政府機関向けパートナープランをサポートしています。 Microsoft Cloud
 
-**適用対象**: パートナー センターのMicrosoft Cloud for US Government
+**適用対象**: 米国政府向け Microsoft Cloud パートナーセンター
 
-**適切なロール**: グローバル管理者|ユーザー管理管理者|管理エージェント |Sales Agent |課金管理者
+**適切なロール**: 全体管理者 |ユーザー管理の管理者 |管理エージェント |Sales agent |課金管理者
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>米国政府機関向け Microsoft Cloud: データ保護の要件を満たす
 
-米国政府向けに設計された Microsoft Cloud for US Government を使用すると、米国連邦、州、ローカル、または部族のエンティティを、Microsoft のクラウド コンピューティング サービスの範囲から選択できます。 公的機関のお客様の特定のニーズに最適に対処するために、Microsoft はデータ センターに多大な投資を行い、米国連邦および州のポリシー、義務、要件に対するデータ保護のコンプライアンスを満たす専用のサービスを提供しています。 米国政府機関向け Microsoft Cloud のパートナー センターは、パートナーが、これらのユーザーに Microsoft クラウド サービスを再販できるようにします。
+米国政府向けに設計された米国政府向け Microsoft Cloud では、米国連邦、州、地方、部族の各エンティティで、Microsoft のクラウドコンピューティングサービスの範囲を選択できます。 公的機関のお客様固有のニーズに対応するために、Microsoft はデータセンターに多大な投資を行っており、米国連邦政府および州のポリシー、要件、および要件へのデータ保護の準拠をサポートしています。 米国政府機関向け Microsoft Cloud のパートナー センターは、パートナーが、これらのユーザーに Microsoft クラウド サービスを再販できるようにします。
 
 パートナー センターで使用可能な機能の一部は、米国政府機関向け Microsoft Cloud のパートナー センターでまだ使用できないことに注意してください。
 
 米国政府機関向け Microsoft Cloud では、政府機関のセキュリティ、プライバシー、コンプライアンスの要件のデータ保護のニーズを満たす、独立した [Microsoft Azure](https://azure.microsoft.com/overview/clouds/government/) のインスタンスを提供します。 
 
-詳細については [、「Microsoft Cloud for US Government」を参照してください](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)。
+詳細については、 [米国政府データシートの Microsoft Cloud](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)を参照してください。
 
 ## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>米国政府機関向け Microsoft Cloud のパートナー センター: 米国政府機関向けクラウド ソリューションの販売
 
@@ -58,6 +58,6 @@ ms.locfileid: "110146274"
 
 ユーザーとライセンスの管理の詳細については、「[米国政府機関向け Microsoft Cloud のパートナー センターでのユーザーとライセンスの管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)」を参照してください。
 
-Microsoft Government Cloud 用の CSP への登録の詳細については、「CSP に登録する 」を[参照Microsoft Cloud for US Government。](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+Microsoft Government Cloud の CSP に登録する方法の詳細については、「 [米国政府向け Microsoft Cloud の csp](enroll-in-csp-for-microsoft-us-govt-cloud.md)への登録」を参照してください。
 
-よく寄せられる質問については、「[Microsoft Cloud for US Government の CSP プログラムについてよく寄せられる質問](faq-for-us-govt-cloud.md)」をご覧ください。
+よく寄せられる質問については、「[Microsoft Cloud for US Government の CSP プログラムについてよく寄せられる質問](faq-for-us-govt-cloud.yml)」をご覧ください。
