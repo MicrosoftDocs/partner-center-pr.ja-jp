@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.date: 05/04/2021
+ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
+ms.sourcegitcommit: b6959846c30d062d05028c9b4ba14c07e903e61a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373458"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112970193"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace請求と請求
 
@@ -49,7 +49,7 @@ Azure Marketplaceは、次の 17 の通貨で価格が設定され、請求さ�
 > サービス期間は、サービスを使用するために支払った期間です。 事前にキャンセルしない限り、サービス期間の と で自動更新されます。
 
 > [!NOTE]
-> 更新月の日付が購入月の日付と等しくない場合は、請求月の最終日に調整されます。 つまり、1/31 にサブスクライブする場合、2 月の請求終了日は 2/27 になります。新しい請求期間は 2/28 (2/28、閏年から始まる場合は 2/29) から始まる予定です。
+> 更新月の日付が購入月の日付と等しくない場合は、請求期間 (または請求月の最終日) を調整します。 つまり、1/31 にサブスクライブする場合、請求終了日は 2/27 に調整され、更新日は 2/28 (2/28 と 2/29(閏年から始まる場合) になります。
 
 ## <a name="invoices"></a>Invoices
 
@@ -64,7 +64,7 @@ Microsoft Online Services Program (MOSP)、Microsoft 顧客契約 (MCA)、Micros
 
 請求書の詳細については、「Azure 外部サービスの [料金について」を参照してください](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)。
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 - [Azure Marketplace とは何ですか?](azure-marketplace-overview.md)
 - [Azure Marketplace購入](azure-purchasing-invoicing.md)
