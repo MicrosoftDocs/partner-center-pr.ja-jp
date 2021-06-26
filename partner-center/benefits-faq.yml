@@ -1,0 +1,99 @@
+### YamlMime:FAQ
+metadata:
+  title: Microsoft Partner Network利点 - よく寄せられる質問
+  ms.topic: article
+  ms.date: 12/15/2020
+  description: Azure、クラウド、クラウド、クラウド、およびサポートの特典の有効期限、更新、ライセンスのアクティブ化に関する質問Visual Studio回答
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-mpn
+  author: arpithakanuganti
+  ms.author: v-arkanu
+  ms.localizationpriority: medium
+  ms.custom: SEOJUNE20
+  ms.openlocfilehash: 72db9073e071581e1f8b7eb685da1d1d7db56294
+  ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "112916720"
+title: Microsoft Partner Network特典 - よく寄せられる質問 (FAQ)
+summary: >
+  **対象のロール**: MPN パートナー管理者
+
+
+  この記事では、Microsoft Partner Network (MPN) の利点に関する多くの一般的な質問に対処します。
+sections:
+- name: 一般的な質問
+  questions:
+  - question: "\"特典の有効期限\" の意味\n"
+    answer: "特典の有効期限は、特典をアクティブ化する最終日を意味します。\n\n更新日まで、1 年間の加入期間中に利用できる特典を利用できます。 更新開始日は、MPN ダッシュボードの [ [メンバーシップ](https://partner.microsoft.com/dashboard/mpn/offers) オファー] ページから確認できます。\n\nただし、それぞれのクラウド ポータルでキーを引き換えた日から 1 年間、プロダクト キーを使用できます。\n\nたとえば、特典の有効期限が 2021 年 1 月 31 日の場合、2021 年 1 月 31 日より前の適切なクラウド ポータルでキーを引き換える必要があります。 また、2020 年 12 月 1 日にプロダクト キーを引き換える場合は、特典の有効期限が 1 月 31 日である場合でも、2021 年 12 月 1 日までそのキーを使用できます。\n\n> [!NOTE]  \n> ユーザーの割り当て (Visual Studio サブスクリプションなど) を必要とする特典がある場合は、登録更新日から 30 日間、その特典をアクティブ化して使用できます。\n"
+  - question: >
+      操作方法特典を更新する
+    answer: >
+      特典を更新するには、次の手順に従います。
+
+
+      1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+
+
+      2. 左側のナビゲーションで **、[MPN] を選択します**。
+
+
+      3. **[MPN] タブ** で、[特典]**オプションを選択** します。
+
+
+      4. 必要な特典をアクティブ化します。
+
+
+      必要な特典が利用できない場合は、パートナー センターメンバーシップを更新し、上記のプロセスを繰り返す必要があります。
+  - question: >
+      サブスクリプションの有効期限が間もなく切れているという通知を受け取った - 何をする必要がある
+    answer: >
+      通知を生成したクラウド ポータルにサインインし、既存のサブスクリプションの有効期限を確認してから、期限切れのサブスクリプションにライセンスを追加するか、登録の次の年に既存のサブスクリプションを拡張します。
+  - question: >
+      メンバーシップを更新できる期間
+    answer: >
+      既存のメンバーシップは、更新開始日からいつでも更新できます。
+- name: Azure とクラウドのアクティブ化の利点
+  questions:
+  - question: >
+      Azure でのライセンスの追加、延長、更新の動作
+    answer: "ライセンスを追加すると、既存のサブスクリプションのライセンスの総数を増やします。\n\nサブスクリプションを更新または延長する場合、ライセンスの数は変わりませんが、これらのサブスクリプションの時間を延長します。\n\n> [!IMPORTANT]  \n> 既存のサブスクリプションにライセンスを追加する場合、既存のライセンスと追加されたライセンスの数に応じて、サブスクリプションの有効期限は 12 か月未満になります。 キーを引き換えた後は、もう一度引き換えに使用できない。 キーを引き換える前に、ライセンスを追加するか、サブスクリプションを更新/延長する必要があるのかを理解してください。\n"
+  - question: >
+      顧客のアカウントでライセンスをアクティブにできる
+    answer: >
+      できませんね。 製品ライセンスはデモンストレーションのために発行されます。 販売およびマーケティングの従業員は、このソフトウェアを使用して顧客に製品を紹介できますが、デモンストレーション製品は顧客のハードウェアまたはインフラストラクチャにインストールすることはできません。また、パートナーの監視と一緒に使用する必要があります。
+  - question: >
+      Azure 一括クレジットでユーザーを割り当てる際に問題が発生します。 どうしたらいいでしょう
+    answer: >
+      Azure 一括クレジット オファーを他のオファーと組み合わせは使用できない。 ユーザー割り当てが機能していない場合は、割り当てるユーザーが、Microsoft Enterprise Agreement、クラウド ソリューション パートナー、Azure イン オープン プラン、Azure Pass、Action Pack などの他のライセンス、前払い、クレジット オファーを既に使用している可能性があります。ユーザーがこれらの契約またはプランにサブスクライブしていない場合でも、それらを割り当てできない場合は、Microsoft サポート に問い合Microsoft サポート。
+- name: Visual Studio特典
+  questions:
+  - question: >
+      アクティブ化Visual Studioの動作パートナー センター
+    answer: "次の手順を実行して、パートナー センター または Azure Active Directory (AAD) テナント内のユーザー管理リスト内のすべてのユーザーにサブスクリプションを割り当てできます。\n\n1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。\n\n2. メニューの [パートナー センター **MPN] を選択します**。\n\n3. [**特典] を** 選択し、[ ] を **Visual Studio。**\n\n4. 使用可能な既存のサブスクリプションに目的のユーザー Visual Studio割り当てる。\n\nサブスクリプションを割り当てた後、ユーザーはサブスクリプションにログインしてVisual Studio管理する必要があります。\n\n> [!Note]  \n> Visual Studio割り当てから 90 日が経過した場合、サブスクリプションをサブスクライバー間で再割り当てできます。\n"
+- name: 技術的な利点とサポート
+  questions:
+  - question: >
+      アプリからダウンロードしたソフトウェアをインストールパートナー センター。 操作方法ヘルプを表示する
+    answer: >
+      インストール、アクティブ化、その他の製品関連のヘルプは、次のMicrosoft サポート。 サポートを受け取る場合は、次の手順を実行します。
+
+
+      1. [パートナー センターのダッシュボード](https://partner.microsoft.com/dashboard/)にサインインします。
+
+
+      2. メニューの [パートナー センター **MPN] を選択します**。
+
+
+      3. [ **特典] を** 選択し、[技術特典 **] を選択します**。
+
+
+      4. [技術的な特典] セクションを使用して、アクセス ID/コントラクト ID をアクティブ化して受け取る。
+
+
+      5. にログイン[Microsoft サポート。](https://support.microsoft.com/supportforbusiness/productselection)
+
+
+      6. インストールしようとしている製品を選択し、テクニカル サポート チケットを作成します。
+additionalContent: "\n## <a name=\"next-steps\"></a>次のステップ\n\n- [高度な専門知識を獲得して専門知識を紹介する](advanced-specializations.md)"
