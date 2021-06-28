@@ -1,0 +1,162 @@
+### YamlMime:FAQ
+metadata:
+  title: Microsoft Partner Network特典に関する FAQ
+  ms.topic: article
+  ms.date: 02/04/2021
+  description: 利点に関するポリシーに関して回答Microsoft Partner Network質問。
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-mpn
+  author: keramp88
+  ms.author: keramp
+  ms.localizationpriority: medium
+  ms.custom: 
+  ms.openlocfilehash: 11cafe111d35a4540a018dcaa2534cf1ed33874f
+  ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 06/28/2021
+  ms.locfileid: "112989832"
+title: Microsoft Partner Network特典に関する FAQ
+summary: >
+  **対象のロール**: MPN パートナー管理者
+
+
+  次の記事では、MPN メンバーシップの特典、コンピテンシー、製品ライセンスMicrosoft Partner Network(MPN) パートナーが持つ主な質問のいくつかに回答します。
+sections:
+- name: COVID-19 への応答
+  questions:
+  - question: >
+      コンピテンシーの記念日が近付き、COVID-19 に関連する影響のため、コンピテンシー要件を満たす必要はありません。 何をする必要がありますか?
+    answer: >
+      コンピテンシーの記念日が 2021 年 1 月 1 日から 6 月 30 日の間である場合、2022 年の次の記念日まで、既存のコンピテンシーまたはコンピテンシー (Cloud Business Applications コンピテンシーを除く) が拡張されます。 試験やパフォーマンスの要件を満たす必要はないが、コンピテンシー料金は引き続き支払う。 詳細については、ブログ記事 を [参照してください](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)。
+- name: メンバーシップ
+  questions:
+  - question: >
+      コンピテンシーを更新するプロセスとタイミングは何ですか?
+    answer: >
+      あなたの会社は、コンピテンシーを更新パートナー センター。コンピテンシーのパフォーマンス要件を満たし、必要な試験とスキルを毎年検証し、更新期間内に年額料金を支払ってコンピテンシーの状態を維持し、関連する特典にアクセスする必要があります。
+
+
+      コンピテンシーを更新する前に、会社のグローバル管理者またはアカウント管理者がビジネス情報を確認して更新する必要があります。 更新する必要がある情報を確認パートナー センターの会社のプロファイルにアクセスできます。情報を確認するには、追加のドキュメントが必要になる場合があります。  
+
+
+      購入後 1 年経過した翌日から、更新期間が始まります。 たとえば、2020 年 9 月 1 日に Microsoft Action Pack を購入した場合、30 日間の更新期間は 2021 年 9 月 2 日に開始されます。 会社のグローバル管理者ロールと MPN 管理者ロールは、契約日から 30 日後までの更新通信を受け取っています。 更新期間中は、関連付けられている特典に引き続きアクセスできます。
+
+
+      詳細については [、MPN オファーの更新に関するページを参照してください](renew-mpn-offers.md)。
+  - question: >
+      Microsoft サービスを更新できるAction Pack。
+    answer: >
+      あなたの会社は、更新期間中にAction Packでパートナー センター Microsoft サービスを更新できます。
+
+
+      更新前に、Action Packのグローバル管理者またはアカウント管理者は、会社のビジネス情報を確認して更新する必要があります。 会社のプロファイルにアクセスして、パートナー センターを確認し、更新する必要がある情報を把握できます。情報を確認するには、追加のドキュメントが必要になる場合があります。  
+
+
+      購入後 1 年経過した翌日から、更新期間が始まります。 たとえば、2020 年 9 月 1 日に Microsoft Action Pack を購入した場合、30 日間の更新期間は 2021 年 9 月 2 日に開始されます。更新期間中は、関連する特典に引き続きアクセスできます。
+
+
+      詳細については [、MPN オファーの更新に関するページを参照してください。](renew-mpn-offers.md)
+  - question: >
+      Microsoft Action Pack と Learning Action Pack の違いは何ですか?
+    answer: >
+      Microsoft Action Packは、お客様のようなパートナーが Microsoft テクノロジを理解し、ソリューション/サービスを構築するのに役立つリソースのポートフォリオです。 コンピテンシーを持っているAction Pack、1 つの Microsoft サービスを購入できます。
+
+
+      Learning Action Packは、Learning Partner Program へのエントリ レベルです。 学習プログラムは、テクノロジトレーニングを提供する企業や学習プラクティスを持つ企業向けリソースを提供します。 [Learning Action Pack](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)は、Courseware、Marketplace、およびパートナーがさまざまな Microsoft 製品ラインの専門家になるのに役立つ特典を提供します。 Microsoft Action Pack と Learning [Action Pack](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) のライセンス 表を参照してください。
+  - question: >
+      30 日間の更新期間中にAction Packコンピテンシーまたはサービス特典は何が起こりますか?
+    answer: >
+      MPN 契約に基付き、メンバーシップがアクティブである限り、プログラム特典に引き続きアクセスできます。 メンバーシップの有効期限が切れると、特典へのアクセスは失われます。
+
+
+      詳細については [、MPN オファーの更新に関するページを参照してください。](renew-mpn-offers.md)
+- name: 製品ライセンス
+  questions:
+  - question: >
+      製品ライセンスに関する現在のパートナー向Microsoft Partner Networkは何ですか?
+    answer: >
+      製品ライセンス (内部使用ライセンスまたは内部使用権とも呼ばれます) は、コンピテンシーを取得したり Microsoft Action Pack を購入したりしたパートナーの特典に含まれています。 製品ライセンスの現在のオファーの一覧は、「Microsoft Partner Network [ガイド 」から取得します](https://aka.ms/partner-benefits-use-guide)。
+  - question: >
+      1 つのトークンを使用して、複数のサブスクリプションのロックを解除できますか?
+    answer: >
+      いいえ。トークンを分割して複数のサブスクリプションのロックを解除できない。 トークンは、指定された形式で使用する必要があります。 たとえば、25 シート のトークンを 5 つの異なる 5 シート トークンに分割できないとします。
+
+
+      詳細については、「Microsoft パートナー プログラム ガイド」を参照  [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      間違ったテナントでクラウド サービスのトークンをアクティブ化した場合、または拡張する代わりにシートを追加した場合、代わりのトークンを取得できますか?
+    answer: >
+      間違ったテナントでのクラウド サービスのアクティブ化と、既存のサブスクリプションで誤って追加されたシートの置換トークンは、元のトークンのアクティブ化後 30 日以内に 1 回だけ発行できます。
+
+
+      詳細については、「Microsoft パートナー プログラム ガイド」を参照 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      オンプレミスのソフトウェア製品ライセンスの場合、インストールにプロダクト キーが必要ですか?
+    answer: >
+      すべての製品でプロダクト キーが必要なわけではありません。 製品のアクティブ化は、Windows サーバーおよびクライアント オペレーティング システム、およびすべてのクライアント アプリケーションMicrosoft Office必要です。
+
+
+      詳細については、「Microsoft パートナー プログラム ガイド」を参照  [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      すべてのインストールとアクティブ化を使用した場合、さらに多くのプロダクト キーを取得できますか?
+    answer: >
+      発行されるプロダクト キーには、複数のアクティブ化キー (MAK) があります。 これらの製品には、インストール、アクティブ化、またはシートの数に限りがあります。 プロダクト キーは、すべてのインストールとアクティブ化が使用された場合に動作を停止します。 これらのプロダクト キーに対する追加のアクティブ化は許可されません。
+
+
+      詳細については、「Microsoft パートナー プログラム ガイド」を参照  [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      コンピテンシーまたは Microsoft Action Packを更新しない場合でも、オンプレミスのソフトウェア製品ライセンスを使用できますか?
+    answer: >
+      できませんね。 コンピテンシーの獲得に含まれるオンプレミスのソフトウェア製品ライセンスと Microsoft Action Pack永続的ではありません。 お客様は、メンバーシップ中にのみこれらのライセンスを使用する権利を有し、権利を有します。 コンピテンシーまたはライセンスを更新しない場合は、商用ライセンスを介してライセンス権を取得するか、Microsoft Partner Network を使用して取得したオンプレミス ソフトウェアをアンインストールする必要Action Pack。
+
+
+      詳細については、「Microsoft パートナー プログラム ガイド」を参照 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      Microsoft はAction PackサブスクリプションVisual Studio Enterpriseしますか?
+    answer: >
+      いいえ。Microsoft Action PackサブスクリプションVisual Studio Professional含まれています。
+
+
+      詳細については、「Microsoft パートナー プログラム ガイド」を参照 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      コンピテンシーのVisual Studioに含まれるサブスクリプションまたは Microsoft のサブスクリプションを共有Action Pack。
+    answer: >
+      いいえ。Visual Studioサブスクリプションはユーザーごとにライセンスを取得し、有効にするために割り当ておよびアクティブ化する必要があります。 サインイン資格情報の共有は禁止されています。
+
+
+      詳細については、「Microsoft パートナー プログラム ガイド」を参照 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+  - question: >
+      会社の製品ライセンスの数を知る方法
+    answer: >
+      製品ライセンスと、コンピテンシーの獲得またはサービスに含まれるその他の特典を表示Action Pack管理パートナー センター。 詳細については、パートナー ネットワーク [の特典の管理に関するページを参照してください](manage-your-partner-network-benefits.md)。
+  - question: >
+      会社は、コンピテンシーの獲得または提供を通じて利用できる製品ライセンスをAction Pack。
+    answer: >
+      Microsoft では、革新的なソリューションを構築し、Microsoft の製品とテクノロジに慣れ親しんだら、1 つ以上のコンピテンシーを取得したり、Microsoft Action Pack を購入したりしたパートナー向け製品ライセンスを Microsoft Partner Network に含めます。 コンピテンシーの獲得とライセンスに含まれる製品ライセンスの使用条件については、「Action Pack プログラム ガイド [」Microsoft Partner Network説明されています](https://aka.ms/partner-benefits-use-guide)。
+  - question: >
+      コンピテンシーの獲得またはサポートを通じて、会社が利用できる製品ライセンスを使用する方法に制限Action Pack。
+    answer: >
+      はい。制限事項があります。 製品ライセンス使用条件は、Microsoft ライセンス プログラムを通じて取得した商用ライセンスとは異なります。 詳細については、「製品ライセンス [使用条件」を参照してください](https://www.microsoft.com/licensing)。 製品ライセンスにはソフトウェア アシュアランスは含まれますが、製品ライセンスにはいくつかの制限があります。 製品ライセンスの使用条件については、「Microsoft Partner Network [ガイド 」を参照してください](https://aka.ms/partner-benefits-use-guide)。
+  - question: >
+      会社が対象となパートナー センターに製品ライセンスを追加する方法
+    answer: >
+      コンピテンシーの獲得に含まれる製品ライセンスとAction Packプログラムを通じて取得した商用ライセンスとは異なる使用条件を持つ必要があります。 Microsoft ライセンス に関するページで、会社のライセンスニーズを満たすオプションを [確認することをお勧めします](https://www.microsoft.com/licensing)。
+  - question: >
+      私たちは最近、コンピテンシーを持つMicrosoft Partner Network別の会社と統合または買収しました。 アカウントのマージ機能を使用するときに、現在のすべての製品ライセンスを保持パートナー センター。
+    answer: >
+      コンピテンシーの獲得Action Pack購入は、パートナーパートナー センターアカウントを通じて完了します。 パートナー センター でアカウントのマージ機能を使用すると、各アカウントの既存の特典は、次回の更新までそのまま残ります。 更新時に、コンピテンシーの獲得とAction Packに含まれる特典は、パートナー企業のパートナー グローバル アカウントに実装されます。
+
+
+      -   Microsoft Action Pack: パートナー企業は、パートナー グローバル アカウントごとに 1 Action Pack購入できます。
+
+
+      -   コンピテンシー: パートナー企業は、最高の達成に関連するコア特典の 1 つのパッケージに加えて、パートナーがパートナーのグローバル アカウントで資格を持つコンピテンシー固有の特典を受け取る。
+
+
+      アカウントのマージに [関する](merge-accounts.md) 情報を確認して、機能のしくみと、それが会社のニーズに合うのかを判断する方法の詳細を確認してください。
+  - question: >
+      会社の製品ライセンスに関する質問は、パートナー センター。 どこで支援を受けるのでしょうか。
+    answer: >
+      パートナー センター の [[](https://partner.microsoft.com/support)サポート] セクションに移動して、役立つ可能性のあるリソースへのリンクを表示したり、必要に応じてパートナー サポート チームにチケットを開く場合があります。
+additionalContent: "\n## <a name=\"next-steps\"></a>次のステップ\n   - [Microsoft Partner Network の特典を見つける](mpn-find-benefits.md)\n   - [MPN オファーを更新する](renew-mpn-offers.md)"
