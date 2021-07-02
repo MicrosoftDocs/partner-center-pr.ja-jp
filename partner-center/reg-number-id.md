@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bd68d6f446666022647f20e78e1aa6472364c426
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855830"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551165"
 ---
 # <a name="registration-id-number-information"></a>登録 ID 番号の情報
 
@@ -26,7 +26,7 @@ ms.locfileid: "109855830"
 
 | **国または地域** | **詳細** |
 |:--|:--|
-| **アルメニア** | INN - 納税者番号<br>VAT 番号 - VAT 登録番号とも呼ばれます。 この値は、VAT 用に登録されている課税対象者 (事業所) または非課税法人を識別する一意の番号です。<br>公共サービス番号 |
+| **アルメニア** | INN - 納税者番号<br>付加価値税 (VAT) 番号 - VAT 登録番号とも呼ばれます。 この値は、VAT 用に登録されている課税対象者 (事業所) または非課税法人を識別する一意の番号です。<br>公共サービス番号 |
 | **アゼルバイジャン**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – 納税者番号<br>INN - 納税者番号 |
 | **ベラルーシ**  | UNP – この値は 9 桁の数字 (組織の場合は数値、個人の場合は英数字) であり、地域識別子、地域別のシリアル番号、およびチェック ディジットを含みます。 |
 |**ブラジル** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurídica、すなわち National Registry of Legal Entities)。 この値は、ブラジル国税局によってブラジルの企業に対して発行される識別番号です  |

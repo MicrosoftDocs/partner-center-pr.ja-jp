@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
-ms.translationtype: HT
+ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151782"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276826"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN アカウントの所在地を管理し、場所を追加 (削除) する
 
@@ -30,7 +30,7 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
 >[!NOTE]
 >CSP テナントと MPN 所在地 ID の間には 1 対 1 の関係があります。
 
-:::image type="content" source="images/locations/locations1.png" alt-text="MPN 所在地の構造":::
+:::image type="content" source="images/locations/locations1.png" alt-text="MPN 所在地の構造。":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>CSP ビジネスの新しいアカウントを追加するための前提条件
 
@@ -92,7 +92,7 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
  
 1. **[場所の追加]** を選択します。 これにより、CSP 取引とインセンティブに使用できる新しい場所の新しい MPN ID が作成されます。
 
-:::image type="content" source="images/legal-biz.png" alt-text="新しい法的ビジネスの追加":::
+:::image type="content" source="images/legal-biz.png" alt-text="新しい法的ビジネスの追加。":::
 
 > [!NOTE]
 > パートナー センターで追加された場所は、削除できません。 正しい MPN ID を使用してサインインすると、パートナー センターの左側のメニューに **MPN** が表示されます。
@@ -143,7 +143,7 @@ Contoso のパートナー グローバル アカウント (PGA) の場所はイ
  
 1. **[国/地域]** ドロップダウン リストの横にある **[Change your country]\(国の変更\)** を選択し、手順に従います。 
 
-:::image type="content" source="images/lbp.png" alt-text="法的ビジネス プロファイル データのポップアップ":::
+:::image type="content" source="images/lbp.png" alt-text="法的ビジネス プロファイル データのポップアップ。":::
 
 5. **[保存]** を選択します。
 

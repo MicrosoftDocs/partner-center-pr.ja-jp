@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 9da9eb4944508e815d1664fb44b13bce52f37150
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 8a3ffbe5b57c49004518341d27c785dcd1b9ce87
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431665"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173688"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>次の方法でプライベート Azure Marketplaceを作成および管理Azure portal
 
@@ -30,7 +30,7 @@ Marketplace 管理者 (割り当てられたロール) は、無効で空のプ�
 >[!IMPORTANT]
 > プライベート アカウント管理Azure Marketplace、Marketplace 管理者ロールが割り当てられている IT 管理者だけが使用できます。
 
-### <a name="prerequisites"></a>前提条件
+### <a name="prerequisites"></a>[前提条件]
 
 テナント スコープのユーザーに Marketplace 管理者ロールを割り当てる前に、次の前提条件が必要です。
 
@@ -41,16 +41,19 @@ Marketplace 管理者 (割り当てられたロール) は、無効で空のプ�
 ### <a name="assign-the-marketplace-admin-role-with-access-control-iam"></a>アクセス制御 (IAM) を使用して Marketplace 管理者ロールを割り当てる
 
 1. [Azure portal](https://portal.azure.com/) にサインインします。
+
 1. [すべての **サービス] を選択し****、[Marketplace] を選択します**。
+
 1. 左側 **のメニューから** [プライベート マーケットプレース] を選択します。
 
-    [![Marketplace の左側にプライベート マーケットプレース メニュー オプションが表示されます。](media/private-azure/private-marketplace.png)](media/private-azure/private-marketplace-zoom.png#lightbox)
+   :::image type="content" source="media/private-azure/private-marketplace.png" lightbox="media/private-azure/private-marketplace-zoom.png" alt-text="Marketplace の左側にプライベート マーケットプレース メニュー オプションが表示されます。":::
 
 1. [ **アクセス制御 (IAM)] を選択して** Marketplace 管理者ロールを割り当てる。
 
-    :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="[I A M アクセス制御] 画面が表示されます。":::
+   :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="[I A M アクセス制御] 画面が表示されます。":::
 
 1. **[+ 追加]**  >  **[ロール割り当ての追加]** の順に選択します。
+
 1. [ロール **] で****、[Marketplace 管理者] を選択します**。
 
     :::image type="content" source="media/private-azure/iam-role-assignment.png" alt-text="[ロールの割り当て] メニューが表示されます。":::
@@ -67,7 +70,7 @@ Marketplace 管理者ロールを割り当てるには、次の PowerShell ス�
 - **UsernameToAssignRoleFor:** Marketplace 管理者ロールを割り当てるユーザー名。
 
 > [!NOTE]
-> テナントに招待されたゲスト ユーザーの場合、自分のアカウントが Marketplace 管理者ロールを割り当て可能になるまで、最大 48 時間かかる場合があります。 詳細については [、「B2B コラボレーション ユーザーのAzure Active Directory」を参照してください](/azure/active-directory/b2b/user-properties)。
+> テナントに招待されたゲスト ユーザーの場合、自分のアカウントが Marketplace 管理者ロールを割り当て可能になるまで、最大 48 時間かかる場合があります。 詳細については[、「B2B コラボレーション ユーザーのAzure Active Directory」を参照してください](/azure/active-directory/b2b/user-properties)。
 
 ```PowerShell
 function Assign-MarketplaceAdminRole { 
@@ -149,7 +152,7 @@ New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $M
 Assign-MarketplaceAdminRole 
 ```
 
-Az.Portal PowerShell モジュールに含まれているコマンドレットの詳細については、「ポータル ダッシュボードコマンドレット」Microsoft Azure PowerShell [を参照してください](/powershell/module/az.portal/)。
+Az.Portal PowerShell モジュールに含まれているコマンドレットの詳細については、「ポータル ダッシュボードコマンドレット」Microsoft Azure PowerShell[を参照してください](/powershell/module/az.portal/)。
 
 ## <a name="create-private-azure-marketplace"></a>プライベート アカウントを作成Azure Marketplace
 
@@ -160,9 +163,9 @@ Az.Portal PowerShell モジュールに含まれているコマンドレット�
 
 3. 左側 **のメニューから** [プライベート マーケットプレース] を選択します。
 
-4. **[開始する]** を選択してプライベート Azure Marketplace作成します (これを行う必要があるのは 1 回だけです)。
+4. **[はじめに]** を選択してプライベート Azure Marketplace作成します (これを行う必要があるのは 1 回だけです)。
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="メイン ウィンドウで [開始する] をAzure portal方法を示します。":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="メイン ウィンドウで [はじめに] をAzure portal方法を示します。":::
 
     このテナントAzure Marketplaceプライベート アカウントが既に存在する場合は、既定で **[Marketplace** の管理] が選択されます。
 
@@ -178,7 +181,7 @@ Az.Portal PowerShell モジュールに含まれているコマンドレット�
 
 2. ギャラリーを **参照するか** 、検索フィールドを使用して目的の項目を検索します。
 
-    [![ギャラリーを参照する方法、または検索フィールドを使用する方法を示します。](media/private-azure/marketplace-gallery.png)](media/private-azure/marketplace-gallery-zoom.png#lightbox)
+   :::image type="content" source="media/private-azure/marketplace-gallery.png" lightbox="media/private-azure/marketplace-gallery-zoom.png" alt-text="ギャラリーを参照する方法、または検索フィールドを使用する方法を示します。":::
 
 3. 既定では、新しいオファーを追加すると、現在のすべてのプランが承認済みリストに追加されます。 選択した項目を追加する前にプランの選択を変更するには、オファーのタイルのドロップダウン メニューを選択し、必要なプランを更新します。
 
@@ -194,12 +197,13 @@ Az.Portal PowerShell モジュールに含まれているコマンドレット�
 項目のプランは、[Marketplace の管理] ページで編集できます。
 
 1. [プラン **] 列** で、その項目のドロップダウン メニューから使用可能なプランを確認します。
+
 2. チェック ボックスをオンまたはオフにして、ユーザーが利用できるプランを選択します。
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="必要な項目のチェック ボックスをオンまたはオフにする方法を示します。":::
+   :::image type="content" source="media/private-azure/edit-items.png" alt-text="必要な項目のチェック ボックスをオンまたはオフにする方法を示します。":::
 
-> [!NOTE]
-> 各オファーには、更新を実行するために少なくとも 1 つのプランが選択されている必要があります。 オファーに関連するプランを削除するには、オファー全体を削除します (次のセクションを参照)。
+   > [!NOTE]
+   > 各オファーには、更新を実行するために少なくとも 1 つのプランが選択されている必要があります。 オファーに関連するプランを削除するには、オファー全体を削除します (次のセクションを参照)。
 
 ## <a name="delete-offers"></a>オファーの削除
 
@@ -230,7 +234,7 @@ Notification Center は 3 種類の通知で構成され、Marketplace 管理者
 
 1. 左側 **のメニュー** から [通知] を選択します。
 
-    [![[通知] メニューが表示されます。](media/private-azure/marketplace-notifications-small.png)](media/private-azure/marketplace-notifications.png#lightbox)
+   :::image type="content" source="media/private-azure/marketplace-notifications-small.png" lightbox="media/private-azure/marketplace-notifications.png" alt-text="[通知] メニューが表示されます。":::
 
 1. その他のアクションについては、省略記号メニューを選択します。
 
@@ -239,7 +243,7 @@ Notification Center は 3 種類の通知で構成され、Marketplace 管理者
 1. プラン要求の場合、[ **要求の** 表示] で承認要求フォームが開き、特定のオファーのすべてのユーザー要求を確認できます。
 1. [承認 **] または [拒否** ] **を選択します**。
 
-    [![承認オプションと拒否オプションを表示します。](media/private-azure/notifications-approve-reject-small.png)](media/private-azure/notifications-approve-reject.png#lightbox)
+   :::image type="content" source="media/private-azure/notifications-approve-reject-small.png" lightbox="media/private-azure/notifications-approve-reject.png" alt-text="承認オプションと拒否オプションを表示します。":::
 
 1. ドロップダウン メニューから、承認するプランを選択します。
 1. コメントを追加し、 [送信] を **選択します**。
@@ -253,93 +257,93 @@ Notification Center は 3 種類の通知で構成され、Marketplace 管理者
 
 ユーザーは、承認されていないオファーと承認されていないオファーをフィルター処理できます。
 
-[![フィルターオプションを表示します。](media/private-azure/filter-option-small.png)](media/private-azure/filter-option.png#lightbox)
+   :::image type="content" source="media/private-azure/filter-option-small.png" lightbox="media/private-azure/filter-option.png" alt-text="フィルターオプションを表示します。":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>プライベート サービスで購入またはデプロイAzure Marketplace
 
 製品の詳細ページのエクスペリエンスはグローバル サービスと似ていますがAzure Marketplace、3 つのプライベート Azure Marketplaceシナリオがあります。
 
-- ユーザーが承認済みのプランを選択すると、[ **作成** ] ボタンが有効になります。
+- ユーザーが承認されたプランを選択すると、[作成] **ボタンが** 有効になります。
 
-    [![プランを作成できることを示すオファーバナーを表示します。](media/private-azure/button-create-enabled-small.png)](media/private-azure/button-create-enabled.png#lightbox)
+   :::image type="content" source="media/private-azure/button-create-enabled-small.png" lightbox="media/private-azure/button-create-enabled.png" alt-text="プランを作成できるというオファー バナーが表示されます。":::
 
-- 製品計画の選択が [製品の詳細] ページに表示されず、管理者が1つまたは複数のプランを承認した場合は、承認されているプランと [ **作成** ] ボタンが有効になっているバナーが表示されます。
+- 製品プランの選択内容が製品の詳細ページに表示されないが、管理者が 1 つ以上のプランを承認した場合は、承認されているプランと [作成] ボタンが有効になっているバナー メモが表示されます。
 
-    [![プランを作成し、使用可能なプランを表示できることを示すオファーバナーを表示します。](media/private-azure/button-create-enabled-and-plans-small.png)](media/private-azure/button-create-enabled-and-plans.png#lightbox)
+   :::image type="content" source="media/private-azure/button-create-enabled-and-plans-small.png" lightbox="media/private-azure/button-create-enabled-and-plans.png" alt-text="プランを作成し、使用可能なプランを表示できるオファー バナーを表示します。":::
 
-- ユーザーが承認されていないプランを選択すると、バナーはプランを未承認としてメモし、[ **作成** ] ボタンは無効になります。 ユーザーは、承認されたリストにプランを追加するように要求できます (次のセクションを参照)。
+- ユーザーが承認されていないプランを選択すると、バナーによってプランが承認されていないと示され、[作成] **ボタンは** 無効になります。 ユーザーは、承認された一覧にプランを追加する要求を引き続き行います (次のセクションを参照してください)。
 
-## <a name="request-to-add-offers-or-plans"></a>オファーまたはプランの追加要求
+## <a name="request-to-add-offers-or-plans"></a>オファーまたはプランの追加を要求する
 
-プライベート Azure Marketplace で現在承認されていないパブリックプランまたはプランを追加するように要求できます。
+プライベート プランで現在承認されていないパブリック オファーまたはプランの追加を要求Azure Marketplace。
 
-1. バナーに **追加する要求** を選択して、 **アクセス要求フォーム** を開きます。
+1. バナー **で [要求] を選択** して追加し、 [ **アクセス要求] フォームを開きます**。
 
-    [![[追加の要求] リンクを含むバナーを表示します。](media/private-azure/request-banner-small.png)](media/private-azure/request-banner.png#lightbox)
+   :::image type="content" source="media/private-azure/request-banner-small.png" lightbox="media/private-azure/request-banner.png" alt-text="[追加する要求] リンクを含むバナーが表示されます。":::
 
-    [![オファーまたはプランのアクセス要求フォームを表示します。](media/private-azure/access-request-form-small.png)](media/private-azure/access-request-form.png#lightbox)
+   :::image type="content" source="media/private-azure/access-request-form-small.png" lightbox="media/private-azure/access-request-form.png" alt-text="オファーまたはプランのアクセス要求フォームを表示します。":::
 
-1. 要求に追加するプランを選択します (**プラン** によっては、プランのプランを設定していないことが Marketplace 管理者に通知されます)。
+1. 要求に追加するプランを選択します **([** 任意のプラン] は、オファー内のプランに対する優先設定を持たなかったと Marketplace 管理者に指示します)。
 
-1. **理由** を追加し、要求を送信するための **要求** を選択します。
-  
-    [![サンプルエントリを持つオファーまたはプランのアクセス要求フォームを表示します。](media/private-azure/access-request-form-filled-small.png)](media/private-azure/access-request-form-filled.png#lightbox)
+1. 理由を **追加し、[** 要求] **を選択して** 要求を送信します。
 
-1. 要求を **取り消す** オプションを使用して、保留中の要求を示す通知がアクセス要求フォームに表示されます。
+   :::image type="content" source="media/private-azure/access-request-form-filled-small.png" lightbox="media/private-azure/access-request-form-filled.png" alt-text="サンプル エントリを含むオファーまたはプランのアクセス要求フォームを表示します。":::
 
-    [![撤回要求リンクを含む承認済みまたは保留中のプランの一覧を表示します。](media/private-azure/approved-pending-plans-small.png)](media/private-azure/approved-pending-plans.png#lightbox)
+1. 保留中の要求の兆候が [アクセス要求] フォームに表示され、要求を取り消すオプション **が表示されます**。
+
+   :::image type="content" source="media/private-azure/approved-pending-plans-small.png" lightbox="media/private-azure/approved-pending-plans.png" alt-text="[取り消し要求] リンクを含む承認済みプランまたは保留中のプランの一覧が表示されます。":::
 
 > [!NOTE]
-> 送信されると、Marketplace 管理者が要求をレビューしてアクションを実行するために、承認要求フォームが [通知センター](#private-azure-marketplace-notification-center) に送信されます。
+> 送信されると、承認要求フォームが通知センターに送信され[](#private-azure-marketplace-notification-center)、Marketplace 管理者が要求を確認してアクションを実行します。
 
 > [!CAUTION]
-> プライベートマーケットプレースへの承認は、ソリューションの調達を示すものではありません。
+> プライベート マーケットプレースへの承認は、ソリューションの調達を示すのではありません。
 
 ## <a name="frequently-asked-questions-faqs"></a>よく寄せられる質問 (FAQ)
 
-#### <a name="i-am-already-blocking-marketplace-third-party-application-through-azure-policy-how-is-this-different"></a>Azure Policy を通じて、Marketplace のサードパーティ製アプリケーションを既にブロックしています。 これはどのような違いがあるのでしょうか。
+#### <a name="i-am-already-blocking-marketplace-third-party-application-through-azure-policy-how-is-this-different"></a>Marketplace のサード パーティ製アプリケーションは、既にアプリを通じてブロックAzure Policy。 これはどのように異なりますか?
 
-現在、Marketplace でサードパーティのサービスを制限する方法は2つあります。
+現在、Marketplace でサードパーティのサービスを制限するには、次の 2 つの方法があります。
 
-1. EA ポータルまたは Azure portal を通じて、サードパーティのサービスを無効にするか、"Free または BYOL Sku のみ" に制限します。
+1. EA ポータルまたはポータルを使用Azure portalサード パーティのサービスを無効にするか、"Free SKU または BYOL SKU のみ" に制限します。
 
-    :::image type="content" source="media/private-azure/disable-services.png" alt-text="Azure portal でサービスを制限する方法について説明します。":::
+    :::image type="content" source="media/private-azure/disable-services.png" alt-text="サービスのサービスを制限する方法をAzure portal。":::
 
-    :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="電子メールポータルでサービスを制限する方法について説明します。":::
+    :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="E A ポータルでサービスを制限する方法を示します。":::
 
-2. 特定の Vm のみを許可する Azure ポリシーを作成します。 Windows Vm にポリシーを適用する方法の詳細については、「Azure Resource Manager を使用して [Windows vm にポリシーを適用](/azure/virtual-machines/windows/policy)する」を参照してください。
+2. 特定の VM のみを許可する Azure ポリシーを作成します。 VM にポリシーを適用する方法の詳細については、「Windows VM にポリシーを適用するWindowsを参照[Azure Resource Manager。](/azure/virtual-machines/windows/policy)
 
-プライベート Azure Marketplace を使用すると、特定のオファーとプランをより柔軟に制限し、許可することができます。 エンドユーザーがサードパーティのサービスをデプロイする前であっても、marketplace ギャラリーにデプロイできるかどうかをエンドユーザーに通知します。 サードパーティのサービスのデプロイを許可するには、EA ポータルと Azure portal で Azure Marketplace をオン/有効に設定します。
+プライベート Azure Marketplaceを使用すると、特定のオファーとプランを制限および許可する柔軟性が向上します。 サード パーティのサービスのデプロイを試みる前でも、マーケットプレース ギャラリーでのデプロイの可用性をエンド ユーザーに通知します。 サード パーティのサービスのデプロイを許可するには、Azure Marketplace の [オン/有効] に設定EA Portal、Azure portal。
 
-- プライベート Azure Marketplace では、仮想マシンに限定されないパートナーソリューションを使用できます。
-- プライベート Azure Marketplace はプランレベルで調整でき、"現在および将来の計画" を設定することもできます。
-- プライベート Azure Marketplace では、エンドユーザーに対して、展開可能なものと配置できないものを事前に通知できます。
+- プライベート Azure Marketplace仮想マシンに限定されないパートナー ソリューションをキュレーションできます。
+- プライベート Azure Marketplaceプラン レベルでキュレーションできます。また、"現在および将来のプラン" を設定できます。
+- プライベート Azure Marketplace、展開できるものとできないものについてエンド ユーザーに事前に通知できます。
 
-#### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>プライベートプランとプライベート Azure Marketplace の違いは何ですか?
+#### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>プライベート オファーとプライベート オファーの違いAzure Marketplace。
 
-**プライベートオファー** を使用すると、発行元は、対象ユーザーにのみ表示されるプランを作成できます。 これにより、カスタマイズされたソリューションを、ネゴシエートされた価格、プライベートの使用条件、および特殊な構成でプライベートに共有できます。 詳細については、「 [商業市場におけるプライベートプラン](/azure/marketplace/private-offers)」を参照してください。
+プライベート **オファーを使用** すると、発行元は、対象となる顧客にのみ表示されるプランを作成できます。 これにより、ネゴシエートされた価格、プライベートの使用条件、特殊な構成を使用して、カスタマイズされたソリューションを非公開で共有できます。 詳細については、コマーシャル マーケットプレース [のプライベート オファーに関するページを参照してください](/azure/marketplace/private-offers)。
 
-Azure portal の **プライベート Azure Marketplace** を使用すると、管理者は、ユーザーが展開できるサードパーティ製ソリューションを事前に承認できます。 プライベート Azure Marketplace を使用すると、ユーザーは準拠しているプランを検索、購入、デプロイすることで、Azure Marketplace のメリットを享受できます。 プライベートマーケットプレースでサブスクリプションベースのプライベートプランを管理するには、Marketplace 管理者が特定のサブスクリプションに対して最低でも "読み取り" ロールを持っている必要があります。
+**プライベート Azure Marketplace** のAzure portalユーザーが展開できるサードパーティソリューションを管理者が事前に承認できます。 プライベート サービスを使用Azure Marketplace、ユーザーは、準拠しているオファーを検索、購入、デプロイすることで、Azure Marketplaceの利点を利用できます。 プライベート マーケットプレースでサブスクリプションベースのプライベート オファーを管理するには、Marketplace 管理者が特定のサブスクリプションに対して少なくとも "読み取り" ロールを持っている必要があります。
 
-#### <a name="i-added-a-private-offer-to-the-private-azure-marketplace-why-is-it-not-showing-in-the-manage-marketplace-tab"></a>プライベートな Azure Marketplace にプライベートプランを追加しましたが、[Marketplace の管理] タブに表示されないのはなぜですか?
+#### <a name="i-added-a-private-offer-to-the-private-azure-marketplace-why-is-it-not-showing-in-the-manage-marketplace-tab"></a>プライベート オファーをプライベート オファーに追加Azure Marketplace、[マーケットプレースの管理] タブに表示されない理由は何ですか?
 
-サブスクリプションベースのプライベートプランは、一覧表示されたサブスクリプションのプライベートプランの設定でのみ表示されます。 プライベートプランを表示するには、グローバルサブスクリプションフィルターにすべてのサブスクリプションが表示されていることを確認します。
+サブスクリプションベースのプライベート オファーは、プライベート オファーの設定に一覧表示されているサブスクリプションに対してのみ表示されます。 プライベート オファーを表示するには、グローバル サブスクリプション フィルターにすべてのサブスクリプションが表示されている必要があります。
 
-[![プライベートマーケットプレースフィルターを表示します。](media/private-azure/private-marketplace-filter.png)](media/private-azure/private-marketplace-filter.png#lightbox)
+   :::image type="content" source="media/private-azure/private-marketplace-filter.png" lightbox="media/private-azure/private-marketplace-filter.png" alt-text="プライベート マーケットプレース フィルターを表示します。":::
 
-#### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>カスタムイメージをプライベート Azure Marketplace に含めることはできますか?
+#### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Private Azure Marketplace にカスタム イメージを含Azure Marketplace。
 
-いいえ。 プライベート Azure Marketplace を使用すると、すべての IT 管理者は、グローバルな Azure Marketplace からサードパーティ製のソリューションを管理および制御することができます。 カスタムイメージはグローバル Azure Marketplace にはないため、IT 管理者はカスタムイメージを選択して選択することはできません。 カスタムイメージを共有する場合は、 [共有イメージギャラリー](/azure/virtual-machines/shared-image-galleries)を使用します。
+できませんね。 プライベート Azure Marketplaceを使用すると、すべての IT 管理者は、グローバル なソリューションからサードパーティのソリューションを管理Azure Marketplace。 カスタム イメージはグローバル イメージ上にAzure Marketplace、IT 管理者はカスタム イメージを選択して選択することはできません。 カスタム イメージを共有する場合は、 を使用[Shared Image Gallery。](/azure/virtual-machines/shared-image-galleries)
 
-1. ステップバイステップガイド: 共有イメージギャラリー (SIG) を作成する ([CLI](/azure/virtual-machines/shared-images-cli)、 [PowerShell](/azure/virtual-machines/shared-images-powershell))。
-2. SIG 内にイメージ定義を作成します。 お客様は、[OS 状態] フィールドで [ **一般化** ] を選択する必要があります。 ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition)、 [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition))。
-3. 管理対象イメージを共有イメージギャラリー ([CLI](/azure/virtual-machines/image-version-managed-image-cli)、 [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)) に取り込みます。
-4. SIG VM イメージは1つのサブスクリプションに存在します。 他のサブスクリプションで使用できるようにするには、アプリの登録 ([CLI](/azure/virtual-machines/linux/share-images-across-tenants)、 [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants)) を使用します。
+1. ステップ バイ ステップ ガイド: アプリケーションの作成 (SIG)[](/azure/virtual-machines/shared-images-cli)(CLI、PowerShell) Shared Image Galleryを[作成します](/azure/virtual-machines/shared-images-powershell)。
+2. SIG 内にイメージ定義を作成します。 お客様は、[OS **状態] フィールドに** [一般化] を選択する必要があります。 ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition) [、PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition))。
+3. マネージド イメージをアプリケーションに取りShared Image Gallery [(CLI、PowerShell)。](/azure/virtual-machines/image-version-managed-image-powershell)[](/azure/virtual-machines/image-version-managed-image-cli)
+4. SIG VM イメージは 1 つのサブスクリプションに存在します。 他のサブスクリプションで使用するには、アプリの登録[(CLI、PowerShell](/azure/virtual-machines/linux/share-images-across-tenants)) [を使用します](/azure/virtual-machines/windows/share-images-across-tenants)。
 
-#### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>発行元が Microsoft ではないにもかかわらず、一部のプランが **既定で承認** されるのはなぜですか。
+#### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>発行元が Microsoft **ではないにもかかわらず、** 一部のオファーが既定で承認されるのを確認する理由
 
-Microsoft は、Azure での Linux およびオープンソーステクノロジをサポートしています。 Azure では、保証された[Linux ディストリビューション](/azure/virtual-machines/linux/endorsed-distros)がサポートされており、仮想マシンにも価格が統合されています。 Azure Linux エージェントは Azure Marketplace に既にプレインストールされているため、Microsoft のプランと同じように扱われます。 Microsoft のプランは既定で承認されるため、保証された Linux ディストリビューションは、プライベート Azure Marketplace では管理できず、既定で承認されます。
+Microsoft では、Azure で Linux とオープンソースのテクノロジをサポートしています。 [Azure では、サポートされている Linux](/azure/virtual-machines/linux/endorsed-distros) ディストリビューションがサポートされ、価格は仮想マシンに統合されます。 Azure Linux エージェントは既に Azure Marketplaceにインストール済みなので、Microsoft オファーと同様に扱います。 Microsoft オファーは既定で承認されます。承認された Linux ディストリビューションはプライベート サービスで管理Azure Marketplace既定で承認されます。
 
 ## <a name="contact-support"></a>サポートにお問い合せください
 
-- Azure Marketplace のサポートについては、 [Microsoft Q&A](/answers/products/)にアクセスしてください。
+- サポートAzure Marketplaceについては [、Microsoft Q&A を参照してください](/answers/products/)。

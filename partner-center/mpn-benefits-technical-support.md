@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
-ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
+ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113105041"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173668"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>オンプレミスまたはクラウド製品のテクニカル サポート
 
@@ -54,20 +54,20 @@ ms.locfileid: "113105041"
 
 2. 左側 **のナビゲーション メニューで** [特典] を展開し、[技術的な利点 [**] を選択します**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical)。 [技術特典] ページには、組織のアクティブな Gold、Silver、または Microsoft Action Packメンバーシップ オファーが表示されます。
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="[技術的な特典] を展開し、[特典] を展開します" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="次に、[技術上の利点] を展開します。" :::
 
    > [!NOTE]
    > アクティブなメンバーシップ オファーがない場合は、"まだ特典がないように見えます" というメッセージが表示されます。 会社にアクティブなメンバーシップ オファーがあるが表示できない場合は、間違ったアカウントを使用してサインインしています。 アカウントを確認するには、ページの右上にある [アカウント] アイコンを選択し、[別のアカウントでサインインする]**を選択** します (必要な場合)。
 
 3. Microsoft 製品サポートまたは署名製品サポートを使用するには、特典をアクティブ化する必要があります。 特典をアクティブにするには、[アクティブ化] ボタン **を選択** します。 アクティブ化に使用するユーザー アカウントには、グローバル管理者ロールまたは MPN パートナー管理者ロールが必要です。
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="[技術上の利点] で [アクティブ化] を選択します" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="[技術的な特典] で [アクティブ化] を選択します。" :::
 
 4. アクティブ化が成功すると、アクセス ID とコントラクト ID がすべてのユーザーに表示されます。 [アクセス ID] と [コントラクト ID] が表示されている場合は、Microsoft 製品サポートと署名製品サポート (Gold および Silver のメンバー) を使用できます。
 
    [アクティブ化] ボタンが淡色表示されている場合、アカウントにグローバル管理者または MPN パートナー管理者のセキュリティ ロールが付与されません。 ユーザー  [管理を使用](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) し、グローバル管理者または MPN パートナー管理者でフィルター処理して、特典をアクティブ化するユーザーを見つける。
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="アクティブ化された技術上の利点にアクセス ID とコントラクト ID が表示される" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="アクティブ化された技術上の利点には、アクセス ID とコントラクト ID が表示されます。" :::
 
    > [!NOTE]
    > 各アカウントで Microsoft 製品サポートまたは署名製品サポートを初めて使用する場合は、アクセス ID とコントラクト ID が必要になります。 特典がアカウントに関連付けられたら、アクセス ID とコントラクト ID を再度使用する必要はありません。  
@@ -86,7 +86,7 @@ ms.locfileid: "113105041"
 | Microsoft 製品サポート<br>最近のオンプレミスの場合 <br>製品のみ | 10 インシデント | 15 インシデント | 20 件のインシデント |
 | 署名クラウド サポート<br>クラウド製品のみ | | クラウド コンピテンシー:<br>無制限<br><br>その他のコンピテンシー:<br>5 つのインシデント | クラウド コンピテンシー:<br>無制限<br>          <br>その他のコンピテンシー:<br>10 インシデント   | 
 
-クラウド コンピテンシーには、セキュリティ コンピテンシー、クラウド Business Applications、クラウド プラットフォーム、クラウド生産性、Enterprise Mobility Management、Small and Midmarket Cloud Solutions が含まれます。
+クラウド コンピテンシーには、セキュリティ コンピテンシー、クラウド Business Applications、クラウド プラットフォーム、クラウド生産性、Enterprise モビリティ管理、小規模および中小規模のクラウド ソリューションが含まれます。
 
 ## <a name="microsoft-product-support-on-premises"></a>Microsoft 製品サポート (オンプレミス)
 
@@ -116,12 +116,12 @@ ms.locfileid: "113105041"
 
 Gold または Silver コンピテンシー パートナーは、クラウド **製品署名クラウド サポート** テクニカル サポートにパートナーを使用できます。 Action Packパートナーは、コンピテンシーを署名クラウド サポート限り、その資格を持つ資格を持たないパートナーです。  
 
-Azure、Dynamics 365、その他のクラウド製品の特典を初めて使用する場合は、アクセス ID とコントラクト ID が必要Microsoft 365。 特典は、有効期限が切れるか、サポート インシデントが残るまで、ユーザー アカウントに関連付けされます。
+Azure、Dynamics 365、その他のクラウド製品 (例外Microsoft 365) の特典を初めて使用する場合は、アクセス ID とコントラクト ID が必要です。 特典は、有効期限が切れるか、サポート インシデントが残るまで、ユーザー アカウントに関連付けされます。
 
 > [!NOTE]  
 > を使用して を使用する場合は、 Azure portal。 サポート コントラクトが既にアカウントに関連付けられている場合は、"Access ID is already associated ..." (アクセス ID は既に関連付けられている ...アクセス ID とコントラクト ID を追加する場合は 。 以下を参照してください
 
-Azure 要求を作成する CSP パートナーは、サポート 契約を追加せずにクラウド ソリューション プロバイダー "クラウド ソリューション プロバイダー" サポート プランを使用できます。
+Azure 要求を作成する CSP パートナーは、サポート契約を追加せずにクラウド ソリューション プロバイダー"サポート プラン" を使用できます。
 
 **管理エージェント** ロールを持つユーザーは、左側のナビゲーションメニューで [CSP] の下にある [顧客](https://partner.microsoft.com/commerce/customers/list)を選択し、[**サービス管理**] を選択して、[**新しい要求**] を選択できます。  関連するワークロードを選択すると、ワークロード固有のポータルが開き、サポート契約を追加して要求を作成します。
 
