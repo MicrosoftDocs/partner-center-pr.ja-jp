@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13b8ec9ddd82b38a265606809b8c39c07436e548
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702826"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150133"
 ---
 # <a name="april-2021-announcements"></a>2021 年 4 月のお知らせ
 
@@ -79,7 +79,7 @@ _______________
 
 ### <a name="summary"></a>まとめ
 
-パートナー センター API の Swagger ドキュメントは、[前の Swagger ドキュメント サイト](https://apidocs.microsoft.com/services/partnercenter)から[新しい Swagger ドキュメント サイト](https://docs.microsoft.com/rest/api/partner-center-rest/)に移行されました。
+パートナー センター API の Swagger ドキュメントは、[前の Swagger ドキュメント サイト](https://apidocs.microsoft.com/services/partnercenter)から[新しい Swagger ドキュメント サイト](/rest/api/partner-center-rest/)に移行されました。
 
 ### <a name="impacted-audience"></a>対象
 
@@ -87,11 +87,11 @@ _______________
 
 ### <a name="details"></a>詳細
 
-2021 年 4 月 26 日の時点で、パートナー センター API の Swagger ドキュメント (Rest API コンテンツを含む) は[新しいサイト](https://docs.microsoft.com/rest/api/partner-center-rest/)に配置されています。 古いサイトは数週間後にアクセスできなくなります。
+2021 年 4 月 26 日の時点で、パートナー センター API の Swagger ドキュメント (Rest API コンテンツを含む) は[新しいサイト](/rest/api/partner-center-rest/)に配置されています。 古いサイトは数週間後にアクセスできなくなります。
 
 ### <a name="benefits"></a>メリット
 
-パートナー センター API の Swagger ドキュメントには、**Try It** (試用) 機能があります。 この機能を使用するには、ベアラー トークンが必要です。これは、[パートナー センターの認証](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)に関する記事に記載されている手順に従って生成できます。
+パートナー センター API の Swagger ドキュメントには、**Try It** (試用) 機能があります。 この機能を使用するには、ベアラー トークンが必要です。これは、[パートナー センターの認証](/partner-center/develop/partner-center-authentication#app--user-authentication)に関する記事に記載されている手順に従って生成できます。
 
 ### <a name="next-steps"></a>次の手順
 
@@ -322,7 +322,7 @@ ________________
 
 ### <a name="details"></a>詳細
 
-この発表は、[12 月にリリースされたパートナー センター の機能強化](https://docs.microsoft.com/partner-center/announcements/2020-december#1)に関する補足です。 そのリリースの一部として、新しい GET および POST 認定 API が展開されました。その結果、**既存の GET 認定は 2021 年 5 月 6 日に廃止される予定です**。 その時点までに、新しい POST パートナー センター API を使用するように移行しておく必要があります。 新しい POST API を使用すると、教育機関向けプランを購入できます。一方、新しい GET API を使用すると、事前に資格要件が確認された非営利および GCC 向けプランを購入できます。
+この発表は、[12 月にリリースされたパートナー センター の機能強化](./2020-december.md#1)に関する補足です。 そのリリースの一部として、新しい GET および POST 認定 API が展開されました。その結果、**既存の GET 認定は 2021 年 5 月 6 日に廃止される予定です**。 その時点までに、新しい POST パートナー センター API を使用するように移行しておく必要があります。 新しい POST API を使用すると、教育機関向けプランを購入できます。一方、新しい GET API を使用すると、事前に資格要件が確認された非営利および GCC 向けプランを購入できます。
 
 ### <a name="next-steps"></a>次のステップ
 
@@ -338,7 +338,7 @@ ________________
 
 ### <a name="change-log"></a>ログの変更
 
-- 2021 年 5 月 4 日: GET 認定の予定されている非推奨に関する最後のご案内
+- 2021 年 5 月 4 日: GET 認定の予定されている非推奨に関する最終のご案内
 
 - 2021 年 4 月 9 日: GET 認定の予定されている非推奨に関するご案内 
 
@@ -390,7 +390,7 @@ CSP プログラム経由で取引のあるパートナー様
 
 ### <a name="next-steps"></a>次のステップ
 
-このトピックの情報について、Microsoft パートナー Web サイトの [Operations Readiness リソース ギャラリー](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)を参照してください。 請求リソース、請求書、CSP 請求、税金など、請求と税金のトピックに関する詳細は、パートナー センターの[請求セクション](https://docs.microsoft.com/partner-center/billing)を参照してください。
+このトピックの情報について、Microsoft パートナー Web サイトの [Operations Readiness リソース ギャラリー](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)を参照してください。 請求リソース、請求書、CSP 請求、税金など、請求と税金のトピックに関する詳細は、パートナー センターの[請求セクション](../billing.md)を参照してください。
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>クラウド ソリューション プロバイダー (CSP) のお客様のオンボード要件の変更

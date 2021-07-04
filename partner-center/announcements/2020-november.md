@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: a4a8d79c1a5b22eb0c053d8cfb0d5d7ec2aae44b
+ms.sourcegitcommit: 09799f1d13b07cd3d4c75da7e2a074644dd86977
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712530"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "111575832"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月のお知らせ
 
@@ -307,8 +307,8 @@ Microsoft は、パートナー センター API を呼び出しているパー�
 
 | **操作** | **パートナー センターのドキュメント** |
 |-------------------------|----------------------------------|
-|{baseURL}/v1/customers/{customer_id}/subscriptions|[顧客のすべてのサブスクリプションを取得する](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID でサブスクリプションを取得する](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[顧客のすべてのサブスクリプションを取得する](/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID でサブスクリプションを取得する](/partner-center/develop/get-a-subscription-by-id) | 
 |{baseURL}/v1/customers/{customer_id}/orders|[顧客の注文をすべて取得する](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID ごとに注文を取得する](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[サブスクリプションのプロビジョニング状態を取得する](/partner-center/develop/get-subscription-provisioning-status)|  

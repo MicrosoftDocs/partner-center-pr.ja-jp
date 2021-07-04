@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5be78c55a10e6db1ff0ec057b2a6a06e4373f7a7
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.openlocfilehash: 0e5128b8b97a22c9bcbab669d10df47fe921782a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712483"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147022"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>クラウド ソリューション プロバイダー プログラムに登録する
 
-**適切なロール**
-
-- グローバル管理者
+**適切なロール**: グローバル管理者
 
 ## <a name="get-started"></a>開始
 
