@@ -2,19 +2,25 @@
   href: index.yml
 - name: Microsoft AppSource
   items:
-    - name: Microsoft AppSource について
+    - name: 詳細
       href: appsource-overview.md
-    - name: AppSource でソフトウェアを購入する
+    - name: ソフトウェアを購入します
       href: purchase-software-appsource.md
+    - name: プライベート プラン
+      href: appsource-private-plans.md
 - name: Azure Marketplace
   items:
-    - name: Azure Marketplace について
+    - name: 詳細
       href: azure-marketplace-overview.md
     - name: 購入
       href: azure-purchasing-invoicing.md
+    - name: Azure portal での SaaS オファーの購入
+      href: purchase-saas-offer-in-azure-portal.md
     - name: 請求と請求書作成
       href: billing-invoicing.md
-    - name: プライベート オファー
+    - name: Azure の消費コミットメントのベネフィット
+      href: azure-consumption-commitment-benefit.md
+    - name: プライベート プラン
       href: private-offers.md
     - name: サブスクリプションの譲渡の資格
       href: transfer-eligibility.md
@@ -22,8 +28,8 @@
       href: create-manage-private-azure-marketplace.md
     - name: プライベート Azure Marketplace の管理 - PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Azure Marketplace パートナー統合
-      href: partner-integrations.md
+    - name: パートナーのソリューションを使用して Azure を拡張する
+      href: /azure/partner-solutions/overview
 - name: 一般的なリソース
   items:
     - name: 払戻ポリシー
@@ -36,5 +42,3 @@
   items:
     - name: Azure PowerShell
       href: /powershell/module/az.marketplace
-    - name: 推奨されるソリューション
-      href: preferred-solutions.md
