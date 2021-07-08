@@ -1,7 +1,7 @@
 ---
 title: 高度な特殊化について学習する
 ms.topic: article
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft パートナー ディレクトリでビジネス プロファイルを強化します。 既存の Gold および Silver コンピテンシーと共に取得できる高度な特殊化について説明します。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125924"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489811"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>高度な特殊化を獲得し、検証済み機能を紹介する
 
@@ -53,7 +53,10 @@ Microsoft の高度な特殊化は、パートナーが獲得できる関連 [�
 - AI とMachine LearningのMicrosoft Azure
 - ハイブリッド クラウド インフラストラクチャと Microsoft Azure Stack HCI
 - Microsoft Azure Arc を使用したハイブリッド操作と管理
-- Microsoft Azure VMware Solution
+- Microsoft AzureVMware Solution
+- DevOpsのGitHubを使用Microsoft Azure
+- ネットワーク サービス (Microsoft Azure
+
 
 **Business Applications** 高度な特殊化には次のものが含まれます。
 
